@@ -1,9 +1,9 @@
 # Houses and shelter: what keeps a home standing, dry and safe
 `sci.making-things.houses-and-shelter.L3`
 
-**Summary.** Why does a square frame lean over when you push it, but a triangle frame stays firm? In this unit you will push-test both frames, find how steep a roof should be to shed rain, and hunt for triangles around you.
+**Summary.** Why does a square frame lean over when you push it, but a triangle frame stays firm? In this lesson you will push-test both frames, find how steep a roof should be to shed rain, and hunt for triangles around you.
 
-**Intro.** *Make a square from four strips of card, joined at the corners with pins. Lay it flat and push one side gently. It leans over and squashes flat. Now make a triangle from three strips and push it the same way. Why does the triangle not lean?* Every home has to stay standing. Wind pushes on it, its own heavy roof presses down on it, and sometimes the ground shakes. In this unit you test frames, roofs and tiles at home, and find out how builders all over India make houses that stand up, keep the rain out and keep people safe. You also meet houses made of mud, bamboo, stone and grass, and the people who are designing new ones.
+**Intro.** *Make a square from four strips of card, joined at the corners with pins. Lay it flat and push one side gently. It leans over and squashes flat. Now make a triangle from three strips and push it the same way. Why does the triangle not lean?* Every home has to stay standing. Wind pushes on it, its own heavy roof presses down on it, and sometimes the ground shakes. In this lesson you test frames, roofs and tiles at home, and find out how builders all over India make houses that stand up, keep the rain out and keep people safe. You also meet houses made of mud, bamboo, stone and grass, and the people who are designing new ones.
 
 ## Learning outcomes
 0. I can say what a shelter does for people and for other living beings, and why homes differ from place to place.
@@ -15,6 +15,7 @@
 
 ## Terms
 - **Shelter**: A place that protects a living being from rain, sun, heat, cold, wind and danger. A house is a shelter for people. *e.g.* A bus stop roof is a shelter when it rains. A crow's nest is a shelter for her eggs.
+- **Ventilation**: Ventilation is letting fresh air move into a room and stale air move out, through windows, doors or gaps. *e.g.* In the evening, Amma opens the kitchen window so that the smoke from the tadka goes out and fresh air comes in.
 - **Material**: What a thing is made of. *e.g.* A door can be made of wood, steel or plastic. Each one is a different material.
 - **Natural material**: A material taken from nature and used with little change, such as mud, stone, bamboo, wood or grass. *e.g.* A Toda hut in the Nilgiris is made of bamboo, cane and thatch.
 - **Frame**: The skeleton of a building: the poles, beams or strips that hold it up. Walls and roof are fixed onto the frame. *e.g.* A wedding pandal has a frame of poles tied with rope. The cloth is put on later.
@@ -26,15 +27,19 @@
 - **Slope**: How steeply a surface tilts. A steep slope is high at one end and low at the other. *e.g.* Rain runs off a steep roof quickly. On a flat roof it can stand in puddles.
 - **Thatch**: A roof made of thick layers of dry grass, straw, reeds or palm leaves. *e.g.* Some village houses in Tamil Nadu and Kerala have thatch made of dried coconut leaves.
 - **Earthquake**: A sudden shaking of the ground, caused by huge blocks of rock deep under the ground slipping past each other. *e.g.* In January 2001, a big earthquake shook Kutch in Gujarat.
+- **Terracotta**: Terracotta is baked clay, usually reddish brown. Diyas, clay cups and flower pots are made of terracotta. The word means baked earth. *e.g.* The small clay diya you light at Deepavali is terracotta. The clay was baked hard in a fire.
+- **Mortar**: Mortar is a wet paste put between bricks that dries hard and holds them together. Today it is usually made of cement, sand and water. *e.g.* A mason in your street spreads grey mortar on top of a brick and presses the next brick down on it. By next day the wall is firm.
+- **Model**: A model is a small copy of something real. It shows one or two ideas about the real thing, and leaves the rest out. *e.g.* A clay house with a sloping roof shows where rain runs off, but it cannot show how many people live inside.
 
 ## Explanations
 ### What a shelter does · *defined*
 **Definition:** A shelter is a place that protects a living being from the weather and from danger, so they can rest, sleep and keep their young and their food safe.
 
-Shelter is one of our basic needs, along with air, water, food and clothing. A house keeps off rain and sun, keeps out cold wind, and keeps out snakes, rats and thieves. People are not the only ones who build shelters. A male baya weaver bird weaves a hanging nest of grass strips. His problem is that snakes and other hunters eat eggs and chicks. So the nest hangs from a thin branch, often over water, and the way in is a long tube that opens downwards. A hunter finds it very hard to reach inside. Ants dig rooms under the ground, where it stays cool and damp. A shelter must suit the weather of its place and the life of whoever lives in it.
+Shelter is one of our basic needs, along with air, water, food and clothing. A house keeps off rain and sun, keeps out cold wind, and keeps out snakes, rats and thieves. People are not the only ones who build shelters. A male baya weaver bird weaves a hanging nest of grass strips. His problem is that snakes and other hunters eat eggs and chicks. So the nest hangs from a thin branch, often over water, and the way in is a long tube that opens downwards. A hunter finds it very hard to reach inside. Ants dig rooms under the ground, where it stays cool and damp. A shelter must suit the weather of its place and the life of whoever lives in it. A home also needs light and fresh air. Windows let daylight in, so we can read and cook without a bulb in the daytime. Sunlight also helps dry damp clothes and floors. Windows, doors and gaps near the roof let stale air out and fresh air in. Stale air is air that we have breathed again and again, or that is full of cooking smoke, and it makes a room stuffy. Letting air move through a room is called ventilation.
 - e.g. A city flat keeps a family dry in the monsoon and cool in summer.
 - e.g. A baya weaver's nest hangs over water, with its door at the bottom.
 - e.g. Ants keep their eggs in rooms under the soil, out of the hot sun.
+- e.g. A kitchen window and a chimney or exhaust fan carry cooking smoke out of the room.
 ### Why a triangle keeps its shape · *defined*
 **Definition:** A triangle frame is rigid: it cannot change shape unless one of its sides gets longer, shorter or breaks. A square frame can lean over without any side changing length.
 
@@ -45,11 +50,13 @@ Join three strips into a triangle. Once the three lengths are fixed, there is on
 ### Houses are built from what is near · *defined*
 **Definition:** Long ago, people built homes from materials found close by. The weather of the place decided what kind of house kept people safe and comfortable.
 
-Carrying heavy materials far is hard, so people used what they had. In Kerala and coastal Karnataka, many old houses have walls of laterite, a reddish stone cut from the ground, and steep roofs of clay tiles for the heavy monsoon rain. In Assam, some families, such as the Mising people, build bamboo houses raised on poles. When the river floods, the water flows under the floor. In Ladakh, rain and snow are light, so houses have thick walls of sun-dried mud bricks and flat mud roofs. Thick mud walls are slow to heat up in the day and slow to cool at night. In the Nilgiris, the Toda people built small huts with a rounded roof of bamboo, cane and thatch. In Kutch, round mud houses called bhungas have light cone-shaped roofs. Today many homes are made of brick, cement, steel and glass, which can be carried a long way by truck.
+Carrying heavy materials far is hard, so people used what they had. In Kerala and coastal Karnataka, many old houses have walls of laterite, a reddish stone cut from the ground, and steep roofs of clay tiles for the heavy monsoon rain. In Assam, some families, such as the Mising people, build bamboo houses raised on poles. When the river floods, the water flows under the floor. In Ladakh, rain and snow are light, so houses have thick walls of sun-dried mud bricks and flat mud roofs. Thick mud walls are slow to heat up in the day and slow to cool at night. In the Nilgiris, the Toda people built small huts with a rounded roof of bamboo, cane and thatch. In Kutch, round mud houses called bhungas have light cone-shaped roofs. In many villages, families plaster their mud walls with clay mixed with hay and cow dung. Hay is dried grass or straw, and its fibres help hold the clay together. Dung makes the surface smooth and fills small cracks. Often the women of the family do the plastering. They then paint patterns on the wall with a paste of rice flour and water, which dries white. The Warli people of Maharashtra are famous for such white paintings on red mud walls. The rain slowly washes the paint away, so families freshen the walls every year, often before Diwali. These walls suit village life because everything comes from near the house, they cost very little, they stay cool in the heat, and when they crumble they go back into the soil. Today many homes are made of brick, cement, steel and glass, which can be carried a long way by truck. Look along your own street and you will see different kinds of homes. A flat is a home inside a tall building, with other homes above and below it. An independent house stands on its own piece of land. A hut is a small home that a family builds from mud, bamboo, grass or tin sheets found near them. On Dal Lake in Kashmir, some families live on houseboats that float on the water.
 - e.g. A Kerala house with a steep tiled roof.
 - e.g. A Mising house on bamboo stilts in Assam.
 - e.g. A flat-roofed mud house in Ladakh.
 - e.g. A round bhunga with a cone roof in Kutch, Gujarat.
+- e.g. A village wall of clay, hay and cow dung, with white rice-flour patterns.
+- e.g. A flat in a tall block, a house on its own land, a mud hut and a houseboat on Dal Lake.
 ### Roofs and rain · *defined*
 **Definition:** A sloping roof lets rain run off before it can soak in or leak. Roof tiles overlap, with each higher tile lying on top of the one below it, so water always runs onto the outside of the next tile.
 
@@ -65,17 +72,18 @@ Most walls are good at holding weight that presses straight down. A sideways pus
 - e.g. Engineers test model buildings on shaking tables before building real ones.
 - e.g. Rules for building in earthquake areas ask for bands of concrete tying the walls together.
 ### New designs: less material, more comfort · *debated*
-People keep inventing new ways to build. Laurie Baker, an architect born in England who made his home in Kerala, built with local brick and stone. His rat-trap bond lays bricks on their edges, with an air gap inside the wall. It uses about a quarter fewer bricks and keeps rooms cooler. His jaali walls, with holes between the bricks, let breeze through. Other builders prefer concrete and steel, which are strong, quick to build tall, and easy to find. People still argue about which is better, because the answer depends on the place, the money, the weather and how well the house is built.
+People keep inventing new ways to build. Laurie Baker, an architect born in England who made his home in Kerala, built with local brick and stone. His rat-trap bond lays bricks on their edges, with an air gap inside the wall. It uses about a quarter fewer bricks and keeps rooms cooler. His jaali walls, with holes between the bricks, let breeze through. Other builders prefer concrete and steel, which are strong, quick to build tall, and easy to find. People still argue about which is better, because the answer depends on the place, the money, the weather and how well the house is built. Whatever is chosen, building also changes the place around the house. Land is cleared, and the plants and animals that lived there lose their home. Bricks are baked in kilns, which are big ovens that burn wood or coal and make smoke. Making cement releases carbon dioxide, a gas that traps heat in the air. Sand dug from riverbeds for concrete can harm the river and the creatures that live in it. A house of local mud and bamboo needs far less of this. A house that stays cool with thick walls and a breeze needs less electricity for fans and AC. Builders can also leave old trees standing and plant new ones.
 - e.g. Brick walls with gaps in a pattern, called jaali, in many Laurie Baker buildings in Thiruvananthapuram.
 - e.g. Tall blocks of concrete flats in Chennai, Bengaluru and Hyderabad.
 - e.g. Houses built with blocks of pressed mud and a little cement, made near the building site.
+- e.g. A brick kiln outside a town, with smoke rising from its tall chimney.
 - **An architect who builds with mud and brick:** Local mud and brick cost less, need little energy to make, and keep rooms cool without a fan or AC. A well-made mud wall can last a hundred years.
 - **A builder who builds with concrete:** Concrete with steel rods inside is very strong and can be built many floors high, which a crowded city needs. It does not wash away in heavy rain.
 - **An engineer who studies earthquakes:** The material matters less than how well it is built. Braces, bands that tie the walls, and a light roof save more lives than any one material.
 ### Safety rules when building and at home · *defined*
 **Definition:** Safety rules are steps that stop people getting hurt. On a building site and at home, most injuries come from falls, falling objects, sharp tools and electricity.
 
-Builders wear a hard helmet, because a falling brick or tool can hurt the head. They wear strong shoes, because nails and broken glass lie on the ground. Workers high up wear a harness tied to the building, so a slip does not become a fall. Bright jackets help drivers of trucks and cranes see them. At home, the same dangers are smaller but real. Children do not climb on balcony walls, grills or water tanks. Wet floors are wiped at once. Broken switches and loose wires are left for a grown-up to fix. In this unit, a grown-up does every step with a sharp point, a knife or a hammer.
+Builders wear a hard helmet, because a falling brick or tool can hurt the head. They wear strong shoes, because nails and broken glass lie on the ground. Workers high up wear a harness tied to the building, so a slip does not become a fall. Bright jackets help drivers of trucks and cranes see them. At home, the same dangers are smaller but real. Children do not climb on balcony walls, grills or water tanks. Wet floors are wiped at once. Broken switches and loose wires are left for a grown-up to fix. In this lesson, a grown-up does every step with a sharp point, a knife or a hammer.
 - e.g. A worker on scaffolding wearing a yellow helmet and a harness.
 - e.g. A sign at a building site saying 'Helmets must be worn'.
 - e.g. Grills or a net on a high balcony so that nobody can fall.
@@ -185,13 +193,57 @@ But Meenakshi knew they were there. After lunch she found Arun on the stairs, ea
 
 "I know," said Meenakshi. "I'll need triangles."
 
-**For the parent:** A frame of squares can lean even when every knot and pole is strong, because its corners can turn. A triangle cannot lean unless one of its sides changes length. So one cross pole, which turns a square into two triangles, keeps the whole pandal upright.
 
-- Ask: No knot came undone and no pole broke. So why did the pandal lean?
-- Ask: How did the little square of broom sticks help Meenakshi understand the big pandal?
-- Ask: Why did the triangle slide across the floor without changing shape?
-- Ask: Arun thought the cross poles were only for hanging lights. Why do people sometimes copy what they see without knowing why it is done?
-- Ask: Where in your home or street could you add a cross piece to stop something wobbling?
+## Another story: The Bull That Did Not Melt
+**
+
+My name is Asha, or that is what you may call me. You could not say my real name, because the words of my city were forgotten long ago. I live by a great river, in a city of brick, about four and a half thousand years before you were born. You call my city Mohenjo-daro.
+
+Every morning my father goes down to the riverbank with two baskets. He fills them with the smooth grey mud that the river leaves behind when the water falls. He carries it to our yard, mixes it with water and treads it with his bare feet until it is soft all through. Then he presses it into a wooden mould, flat on the ground, and lifts the mould away. There is a brick, wet and shining. He does it again, and again, until the yard is full of wet bricks in rows, like a field of flat grey seeds.
+
+'Every brick the same,' he says. 'This long, this wide, this thick. The same as the bricks in the cities up the river. A brick should fit any wall.'
+
+The sun dries them in a few days. They turn pale and hard, and ring a little when you tap them together. Father sells them to the builders. They are good bricks, and they cost nothing but mud, water, feet and sun.
+
+Across the lane lives my aunt Rupi, who is not really my aunt. She bakes bricks. Her kiln is a big round oven built of old bricks, and when it burns, the smoke stings my eyes from our yard. She stacks her dried bricks inside with wood between them, and feeds the fire for a day and a night. When the bricks come out they are red, and they are heavier to lift, and they sound different when you knock them.
+
+Father shakes his head at her kiln. 'All that wood,' he says. 'All that work. The sun does the same job for nothing.'
+
+I wanted a bull. Not a real one, a small one, to pull a little cart. So I took a handful of Father's mud and made two. I gave them horns and humps, and I pressed in eyes with a stick. One I left to dry in the sun on our wall. The other I gave to Aunt Rupi, and asked if it could go in her kiln, and she laughed and pushed it in among her bricks.
+
+Mine from the wall was pale and smooth. The one from the kiln came back red, a little smaller, with a black smudge on one side where the fire had kissed it. I liked the pale one better. It looked like it had come from the river.
+
+That summer the river grew. It always grows in summer, when the snow melts in the far mountains and the rains come. But that year it kept growing. It filled the low fields. It came up the lanes at the bottom of the city, slowly, brown and quiet, carrying sticks and a drowned goat. Our house stands on a high platform of bricks, and we watched from the roof as the water rose up the street, and touched the walls, and stayed.
+
+It stayed for six days. Then, as slowly as it came, it went away.
+
+When we came down, the lane smelled of wet earth. Father went straight to the wall at the bottom of our yard. It was the wall he had built himself, from his own sun-dried bricks. The lowest rows had gone soft. They had slumped and spread like porridge, and the wall above them leaned and cracked. Father put his hand on it, and a piece came away in his palm, just mud again, the same mud he had carried from the river.
+
+My pale bull was gone from the top of the wall. I looked for it everywhere. At last I found a soft grey lump in the corner of the yard, with one horn still sticking out of it.
+
+Then I remembered the other bull. I had left it by Aunt Rupi's door. I ran across the lane. The water had been there too. Mud lay over everything, and in the mud, on its side, was a small red bull with a black smudge. I picked it up and washed it in a pot of water. It was hard. Every horn and every eye was still there.
+
+Aunt Rupi's house had red baked bricks in its lowest rows, below the sun-dried ones. Those rows stood straight. The drain in the lane, which the city builders had made of baked bricks too, was full of mud but whole.
+
+I took both bulls to Father, the lump and the red one. I put them side by side on his palm.
+
+'They were the same mud,' I said. 'Your mud.'
+
+He looked at them for a long time. He turned the red bull over and tapped it with his nail, and it made that small hard sound.
+
+'The same mud,' he said. 'Once.'
+
+The next week Father carried a basket of his dried bricks across the lane to Aunt Rupi's kiln, and came back with his eyes red from the smoke. When he built the new wall, he laid the baked bricks at the bottom, where the water reaches, and his own pale bricks on top, where only the sun and the wind can touch them.
+
+I keep the red bull on the shelf by my bed. Sometimes I put it in a bowl of water, just to watch it stay.
+
+**For the parent:** For the parent: this is an imagined story set in a real place, Mohenjo-daro, where builders did use both sun-dried and kiln-baked bricks, and used baked ones where water reached. The turn is the flood: the sun-dried bricks and the sun-dried bull turn back to mud, but the baked bull and baked bricks do not. Fire changed the clay for ever. Asha's father's words 'Once' say it: they were the same mud, but baking was an irreversible change. Let your child find this out with the diya test on Day 3 before you name it.
+
+- Ask: Both bulls were made from the same mud. Why did one melt and one did not?
+- Ask: Why did Asha's father think the kiln was a waste at first? Was he wrong about everything?
+- Ask: Why did he put the baked bricks at the bottom of the new wall, and his own bricks on top?
+- Ask: What did the baked bricks cost that the sun-dried bricks did not?
+- Ask: Why do you think Asha puts the red bull in water just to watch it?
 
 ## Games
 ### g1 · Build It Right: a home for every place (20 min)
@@ -341,11 +393,41 @@ But Meenakshi knew they were there. After lunch she found Arun on the stairs, ea
   *Parent says:* Tell me what you think now, what you saw, and why the water went where it did.  
   *Child mode:* Say what you think. Say what you saw. Say why.
   - Check: On a real roof, how must the tiles overlap to keep the rain out? → **Each higher tile lies on top of the tile below it**
+### old1 · The Settling Jar: what is soil made of, and where is the clay? (15 min, 2 days)
+- **problem:** Soil is not one thing. It is a mix of grains of different sizes. In this experiment you let a bottle of muddy water settle and see which grains sink first. The finest layer is clay, the sticky part that holds mud bricks together.
+- **question:** If we shake soil in water and leave it still, do all the grains sink at the same speed?
+- **predict:** What will happen to the soil when we leave it still? Will it all sink at the same speed? Say why you think so.
+- **fair test:** We use one clear plastic bottle with a lid. We shake it for the same time, one minute, and then leave it where nobody moves it. We look at the same times, after 1 minute, 10 minutes and the next day.
+- **safety:** Wash hands with soap after touching soil. Keep the jar where it will not fall.
+- **record:** Fill in the table. Draw the layers you see, with sand at the bottom, then silt, then clay.
+- **results table:** When I looked | What the layers looked like | How tall each layer was, in centimetres
+- **schedule:** day 1: Make the jar, shake it, and watch it settle. (10 min); day 2: Look again, measure the layers, and draw them. (5 min)
+- **s1 (3 min)**  
+  *Parent does:* 1. Ask your child to guess what will happen. 2. Put 3 big spoons of soil in the jar. 3. Fill the jar two thirds with water. 4. Close the lid tightly.  
+  *Parent says:* If we leave this soil still in water, will it all sink at the same speed? What do you think?  
+  *Child mode:* Guess what will happen. Put 3 spoons of soil in the jar and add water. Close the lid.
+  - Note: Use soil from a plant pot or a tree bed. Cocopeat is plant fibre, so it does not settle into layers. If you cannot get soil, use a spoon of fine sand with a spoon of mud.
+- **s2 (2 min)**  
+  *Parent does:* Your child shakes the closed jar hard for one minute, counting with you. Then put it down where nobody will move it.  
+  *Parent says:* Shake it hard for one minute. Then we will put it down and watch.  
+  *Child mode:* Shake the jar hard for one minute. Put it down and do not move it.
+- **s3 (5 min)**  
+  *Parent does:* 1. Watch the jar for the first minute. 2. Look again after 10 minutes. 3. Draw what you see and measure each layer with the ruler.  
+  *Parent says:* Which grains sank first? Which ones are still floating? Why do you think so?  
+  *Child mode:* Watch the jar. Draw what you see after 1 minute and after 10 minutes. Which grains sank first?
+  - Ask: Which grains sank first, big ones or tiny ones? (good: The big, gritty grains.; The sand sank first. The tiny grains stayed floating.)
+- **s4 (5 min)**  
+  *Parent does:* The next day, look at the jar again. Draw the layers and measure each. Say what you notice.  
+  *Parent says:* Soil is a mix of grains of different sizes. Big, heavy sand grains sink fast. Silt grains are smaller and sink more slowly. Clay grains are so tiny you cannot see one, so they sink slowest of all, and some stay floating. Potters clean clay the same way. They mix soil with water, let the sand sink, and take the fine clay from the top. Mud-brick builders use the sticky clay layer to bind the mud.  
+  *Child mode:* Look at the jar. Draw the layers. Which one is the thin smooth layer on top?
+  - Ask: Why does the water stay cloudy for a day or more? (good: Clay grains are so tiny that they sink very slowly.; Some of the finest grains are still floating.)
+  - Ask: Which layer would you want for making a clay pot, and why? (good: The clay, because it is smooth and sticky.; The clay, because the grains are tiny and hold together.)
+  - Note: If the water is still cloudy after a day, that is normal. It is the finest clay. Wait another day if you like.
 
 ## Activities
-### a1 · What Is Our Home Made Of? A home walk (10 min)
+### a1 · What Is Our Home Made Of? A home walk (15 min)
 - **safety:** Look at the balcony from inside, and don't climb on anything to see the roof.
-- **record:** Make a table: part of the house, material, and why that material.
+- **record:** Make a table: part of the house, material, and why that material. Add a drawing of your home from outside, with the roof, walls, door and windows labelled.
 - **s1 (6 min)**  
   *Parent does:* 1. Walk to the main door, a window, the floor, a wall and the ceiling. 2. At each one, ask what it is made of. 3. Write it down.  
   *Parent says:* Let's be detectives in our own home. What is this door made of? Why do you think the builder chose that?  
@@ -357,6 +439,11 @@ But Meenakshi knew they were there. After lunch she found Arun on the stairs, ea
   *Parent says:* Which of these came from nature, like wood or stone? Which were made in a factory, like glass or cement?  
   *Child mode:* Sort what you found into two groups: from nature, or made in a factory.
   - Note: Wood and stone come from nature. Glass is made from sand, and cement from limestone and clay, but both are heated in factories. Every material started in nature.
+- **s3 (5 min)**  
+  *Parent does:* 1. Stand outside and look at your home, or look at a photo of it. 2. Draw it: the roof, the walls, the door and the windows. 3. Write the name of each part with a line to it. 4. Ask which part lets in light and fresh air.  
+  *Parent says:* Draw the outside of our home. Which part is the roof? Which parts are the walls? Which parts let light and fresh air in?  
+  *Child mode:* Draw your home. Label the roof, the walls, the door and the windows.
+  - Note: A flat may show only a wall with windows and a door. That is fine. Windows and doors let in light and fresh air. If a room has only one small window, ask where the stale air goes.
 ### a2 · Triangle Hunt (15 min)
 - **safety:** Look from inside a window or a balcony with a grill. Never lean over a balcony wall.
 - **record:** Write down five triangles you found and what each one holds up. Draw them if you like.
@@ -408,6 +495,20 @@ But Meenakshi knew they were there. After lunch she found Arun on the stairs, ea
   *Parent says:* What does our home do that the weaver's nest also does?  
   *Child mode:* Name one job that your home and the nest both do.
   - Note: Both keep off rain and sun, keep young ones safe, and keep out hunters.
+### a6 · A Clay House You Can Explain (30 min)
+- **safety:** Wash your hands after touching mud. Do the water test over a tray so the floor stays dry.
+- **record:** Draw your model and label the roof, walls, door and windows. Write one thing the model showed and one thing it could not show.
+- **s1 (15 min)**  
+  *Parent does:* 1. Roll the clay flat like a chapati. 2. Cut or press four walls and stand them on the card base. 3. Poke a door and two windows with the stick. 4. Rest the folded card on top as a sloping roof.  
+  *Parent says:* We are making a small copy of a house. What does a house need? Where will the door go? Where will the windows go?  
+  *Child mode:* Press clay into four walls. Poke a door and two windows. Put the roof on top.
+  - Note: A model is a small copy that shows how the real thing works. If the clay cracks, wet your fingers and smooth it. If you use atta dough, it dries hard in a day or two. Clay is the same soil that Kumhars (potters) in many villages shape into pots and terracotta tiles.
+- **s2 (15 min)**  
+  *Parent does:* 1. Pour a spoon of water slowly on the roof. 2. Watch where it runs. 3. Point to the windows and say what each one lets in. 4. Explain the house to a parent in three sentences.  
+  *Parent says:* Pour the water on the roof. Where does it go? Now tell me how this house keeps the rain out, and how light and fresh air come in.  
+  *Child mode:* Pour water on your roof. Where does it run? Tell a grown-up how your house works.
+  - Ask: What does your model show? What can it not show? (good: It shows where rain runs off the roof.; It shows where the windows let in light.; It cannot show how many people live inside.)
+  - Note: The water runs down the slope and off the edge, which is why real roofs slope. Windows let in light and fresh air. A model leaves things out. It has no people, no furniture and no real weather, so it can show only one or two ideas.
 
 ## Projects
 ### p1 · Build a Newspaper Hut You Can Sit In (90 min, 2 days)
@@ -483,12 +584,12 @@ But Meenakshi knew they were there. After lunch she found Arun on the stairs, ea
   - Note: A strong answer explains that raising the floor above the water keeps it dry, and that stilts need braces.
 
 ## Worksheets
-### Frames and Homes (core) (core, 15 questions)
+### Frames and Homes (core) (core, 18 questions)
 1. (mcq) In the Push Test, you pushed the top of a square card frame sideways. What happened?  
-   Options: It stayed square / It leaned into a diamond and folded flat / One strip broke  
+   Options: It leaned into a diamond and folded flat / It stayed square / One strip broke  
    **Answer:** It leaned into a diamond and folded flat. *Why:* The corners of a square turn like hinges, so the square leans and folds without any strip changing length.
 2. (mcq) Which of these frames keeps its shape when pushed?  
-   Options: A square / A rectangle / A triangle  
+   Options: A triangle / A square / A rectangle  
    **Answer:** A triangle. *Why:* A triangle cannot change shape unless one side changes length. Squares and rectangles can lean by turning their corners.
 3. (fill) A strip fixed from one corner of a frame to the opposite corner, so it cannot lean, is called a ____.  
    **Answer:** ['brace']. *Why:* A brace turns a square into two triangles.
@@ -496,64 +597,74 @@ But Meenakshi knew they were there. After lunch she found Arun on the stairs, ea
    **Answer:** False. *Why:* False. In the Push Test, the square folded flat and the triangle did not. The number of strips matters less than the shape they make.
 5. (match) Match each house to the place it suits.  
    **Answer:** Steep tiled roof → Kerala, very heavy rain; Bamboo house on stilts → Assam, yearly floods; Flat mud roof and thick walls → Ladakh, cold and very little rain; Round mud house with a light roof → Kutch, heat and earthquakes. *Why:* Each house suits the weather and dangers of its place.
-6. (sort) Sort these building materials. Did they come from nature with little change, or were they made in a factory?  
+6. (match) Match each home to what it is like.  
+   **Answer:** Flat → A home inside a tall building, with other homes above and below; Independent house → Stands alone on its own piece of land; Mud hut → A small home built by the family from mud, bamboo or grass found near; Houseboat → Floats on a lake, with a family living on it. *Why:* Each kind of home suits the land, the money and the people who live there.
+7. (sort) Sort these building materials. Did they come from nature with little change, or were they made in a factory?  
    **Answer:** mud → From nature; bamboo → From nature; glass → Made in a factory; stone → From nature; cement → Made in a factory; dry grass for thatch → From nature; steel rods → Made in a factory. *Why:* Mud, bamboo, stone and grass are used almost as they are found. Glass, cement and steel are made by heating materials from nature in factories.
-7. (write) Someone says, "My card square folded, so the card must be weak." What would you tell them?  
+8. (write) Someone says, "My card square folded, so the card must be weak." What would you tell them?  
    **Answer:** The card is not weak. The triangle was made of the same card and it did not fold. The square folds because its corners can turn, so its shape can change without any strip bending.. *Why:* A strong answer uses the triangle as evidence that the material is the same, and says the shape is the reason.
-8. (draw) Draw a square frame. Then draw one strip that stops it leaning. Colour the two triangles it makes.  
+9. (draw) Draw a square frame. Then draw one strip that stops it leaning. Colour the two triangles it makes.  
    **Answer:** A square with one diagonal from one corner to the opposite corner, with the two triangles coloured.. *Why:* A strong drawing puts the brace from corner to corner, not across the middle of a side.
-9. (mcq) In the card frames of the Push Test, what is each split pin?  
-   Options: A brace / A joint, where two strips meet / A load  
+10. (mcq) In the card frames of the Push Test, what is each split pin?  
+   Options: A joint, where two strips meet / A brace / A load  
    **Answer:** A joint, where two strips meet. *Why:* A joint is the place where two parts of a frame meet and are fixed together.
-10. (label) Label the parts of this house: roof, wall, frame, brace, door.  
+11. (label) Label the parts of this house: roof, wall, frame, brace, door.  
    **Answer:** ['roof', 'wall', 'frame', 'brace', 'door']. *Why:* A strong answer puts the brace across the frame from corner to corner.
-11. (truefalse) On a model roof, rain runs off faster when the roof is steep.  
+12. (draw) Draw your home, or a house on your street, from outside. Label the roof, the walls, the door and a window.  
+   **Answer:** A house with a roof, walls, a door and at least one window, each with a label.. *Why:* A strong drawing names every part and shows which part lets in light and fresh air.
+13. (write) Name two things a window gives a room. What would the room be like with no window?  
+   **Answer:** A window gives daylight and fresh air. Without one, the room would be dark and stuffy, and cooking smoke would stay inside.. *Why:* A strong answer names light and fresh air, and says what goes wrong without them.
+14. (truefalse) On a model roof, rain runs off faster when the roof is steep.  
    **Answer:** True. *Why:* True. Water flows downhill, so it runs off a steep roof faster. In the Rain on the Roof test, water stayed in a puddle on the flat tray.
-12. (mcq) What is the load on a roof?  
+15. (mcq) What is the load on a roof?  
    Options: The weight and push it has to hold up, such as its own weight and rain / The tiles on its edge / The door below it  
    **Answer:** The weight and push it has to hold up, such as its own weight and rain. *Why:* A roof's load is its own weight, plus rain, and people or water tanks on top.
-13. (order) Put these steps of the Push Test in the right order.  
+16. (order) Put these steps of the Push Test in the right order.  
    **Answer:** ['Join the strips into a frame', 'Tape the bottom strip down', 'Push the top sideways', 'Measure how far the corner moved']. *Why:* You build the frame, hold the bottom still, then push and measure.
-14. (write) Name two things a shelter protects us from. Then name one animal that builds a shelter.  
+17. (write) Name two things a shelter protects us from. Then name one animal that builds a shelter.  
    **Answer:** For example: rain and hot sun. A baya weaver builds a hanging nest.. *Why:* A strong answer gives two real dangers and one real animal home.
-15. (fill) A frame made of many triangles joined together is called a ____.  
+18. (fill) A frame made of many triangles joined together is called a ____.  
    **Answer:** ['truss']. *Why:* Trusses are used in roofs, towers and bridges.
-### Roofs, Tiles and Triangles (stretch) (stretch, 15 questions)
+### Roofs, Tiles and Triangles (stretch) (stretch, 17 questions)
 1. (write) In the tile test, the tissue under roof B got wet, but the tissue under roof A stayed dry. Explain why, using the word 'overlap'.  
    **Answer:** On roof A, each higher tile overlaps the one below it, so water runs from the top of one tile onto the outside of the next and off the edge. On roof B, each lower tile overlaps the one above, so water runs into the edge of each tile, under it, and through the gap.. *Why:* A strong answer follows the water down the roof and says where it got in.
 2. (perspective) A family in Chennai is building a new house.  
    **Answer:** A strong answer picks a side and backs it with a fact, such as concrete's strength, a jaali wall's breeze, or the Push Test showing braces matter. It then admits a fair point from another side, because each choice has real costs and gains.. *Why:* There is no single right answer. Builders and architects really disagree about this.
 3. (mcq) You add a strip across a square frame, from the middle of the top to the middle of the bottom. Will it stop the square leaning?  
-   Options: Yes, any extra strip stops leaning / No, it makes two smaller rectangles, which can still lean / Only if the strip is thicker  
+   Options: Yes, any extra strip stops leaning / Only if the strip is thicker / No, it makes two smaller rectangles, which can still lean  
    **Answer:** No, it makes two smaller rectangles, which can still lean. *Why:* A strip from the middle of the top to the middle of the bottom makes two smaller rectangles, not triangles. Rectangles still lean. The brace must go from corner to corner.
 4. (draw) Draw a side view of a roof with four tiles overlapping the right way. Add arrows to show where rain runs.  
    **Answer:** Four tiles in a slope, each higher tile lying over the top of the one below, with arrows running down over each tile and off the bottom edge.. *Why:* A strong drawing shows the higher tile on top every time, and the arrows never go under a tile.
 5. (mcq) In the Kutch earthquake of 2001, many bhungas with light roofs stood. Why is a light roof safer in an earthquake?  
-   Options: A light roof is cheaper / If a light roof falls, it is far less likely to hurt people, and shaking pushes light things less / A light roof keeps the house cool  
+   Options: If a light roof falls, it is far less likely to hurt people, and shaking pushes light things less / A light roof is cheaper / A light roof keeps the house cool  
    **Answer:** If a light roof falls, it is far less likely to hurt people, and shaking pushes light things less. *Why:* The shaking ground pushes heavy things harder, and a falling heavy roof is the main danger. A light roof both moves less and hurts less if it falls.
 6. (write) Houses in Ladakh have flat roofs, but houses in Kerala have steep roofs. Explain why, using what you saw in the Rain on the Roof test.  
    **Answer:** In the test, water stayed in a puddle on the flat tray but ran off the steep tray in seconds. Kerala gets very heavy rain, so it needs steep roofs to shed water. Ladakh gets very little rain, so a flat roof is fine and can be used for drying food.. *Why:* A strong answer uses the test results, then links each roof to each place's rain.
-7. (sort) Sort these. Will each one keep its shape when pushed, or lean?  
+7. (write) A village wall is made of clay, hay and cow dung, and painted with rice-flour paste. Give two reasons it suits village life. Why must the paint be done again each year?  
+   **Answer:** Everything comes from near the house and costs little, and the thick wall stays cool. The rain washes the paint away, so the family paints it again, often before a festival.. *Why:* A strong answer gives two real reasons and links the paint to the rain.
+8. (sort) Sort these. Will each one keep its shape when pushed, or lean?  
    **Answer:** a gate with a diagonal plank → Keeps its shape; a gate with no diagonal plank → Leans; a shelf bracket fixed to a wall → Keeps its shape; a square of four sticks → Leans; a triangle of three sticks → Keeps its shape; a tall rectangle shelf with no back → Leans. *Why:* Anything split completely into triangles keeps its shape. A shape with four or more sides and no braces can lean.
-8. (truefalse) In an earthquake, the ground pushes a building mostly sideways, not only down.  
+9. (truefalse) In an earthquake, the ground pushes a building mostly sideways, not only down.  
    **Answer:** True. *Why:* True. Shaking moves the ground from side to side, so walls and frames are pushed sideways, like the push on the card square in the Push Test.
-9. (label) Label the parts of a baya weaver's nest: branch, nest room, entrance tube, water below.  
+10. (label) Label the parts of a baya weaver's nest: branch, nest room, entrance tube, water below.  
    **Answer:** ['branch', 'nest room', 'entrance tube', 'water below']. *Why:* A strong answer shows the entrance tube at the bottom, which makes it hard for snakes to get in.
-10. (mcq) Laurie Baker's rat-trap bond lays bricks on their edges, with a gap inside the wall. What does the gap do?  
-   Options: Saves bricks and keeps the room cooler / Lets rats live in the wall / Makes the wall heavier  
+11. (mcq) Laurie Baker's rat-trap bond lays bricks on their edges, with a gap inside the wall. What does the gap do?  
+   Options: Lets rats live in the wall / Makes the wall heavier / Saves bricks and keeps the room cooler  
    **Answer:** Saves bricks and keeps the room cooler. *Why:* The air gap means fewer bricks are needed, and still air slows heat coming through the wall. The name comes from the shape of the brick pattern, not from rats.
-11. (fill) A frame that keeps its shape when pushed is called ____.  
+12. (fill) A frame that keeps its shape when pushed is called ____.  
    **Answer:** ['rigid']. *Why:* Rigid means it does not lean or fold. A triangle is rigid.
-12. (write) A pandal made of poles tied into squares leans over in the wind. No knot came undone and no pole broke. Someone says the knots must have been loose. Are they right? What really made the pandal lean, and how could you fix it?  
+13. (write) A pandal made of poles tied into squares leans over in the wind. No knot came undone and no pole broke. Someone says the knots must have been loose. Are they right? What really made the pandal lean, and how could you fix it?  
    **Answer:** No. The knots held and the poles did not break. The pandal leaned because its frame was made of squares, which can lean when their corners turn. Tying cross poles from corner to corner makes triangles, and that stops it leaning.. *Why:* A strong answer uses the evidence that nothing broke and names the missing triangles.
-13. (order) Put these roofs in order, from the one where 4 spoons of water stopped dripping first to the one where it stayed longest.  
+14. (order) Put these roofs in order, from the one where 4 spoons of water stopped dripping first to the one where it stayed longest.  
    **Answer:** ['a tray on four books', 'a tray on one book', 'a flat tray']. *Why:* The steeper the roof, the faster the water ran off. On the flat tray it stayed in a puddle.
-14. (match) Match each safety gear to why a builder wears it.  
+15. (match) Match each safety gear to why a builder wears it.  
    **Answer:** Hard helmet → protects the head from falling things; Strong boots → protect the feet from nails and glass; Harness → stops a fall when working high up; Bright jacket → helps truck and crane drivers see the worker. *Why:* Each piece of gear stops one common way of getting hurt.
-15. (mcq) You want a light frame for a balcony tent. Which one will stay up best in the wind?  
-   Options: Four sticks in a square / Sticks in triangles, with a brace on each side / One tall stick in the middle  
+16. (mcq) You want a light frame for a balcony tent. Which one will stay up best in the wind?  
+   Options: Four sticks in a square / One tall stick in the middle / Sticks in triangles, with a brace on each side  
    **Answer:** Sticks in triangles, with a brace on each side. *Why:* Triangles and braces stop the frame leaning in a sideways push from the wind. A square can fold, and one stick can tip over.
-### Building Big Ideas (challenge) (challenge, 15 questions)
+17. (write) Your clay house model has no people and no furniture. Name one thing it can show you, and one thing it cannot.  
+   **Answer:** It can show where rain runs off a sloping roof, or where windows let in light. It cannot show how many people live inside, or how warm the house is.. *Why:* A strong answer sees that a model shows only one or two ideas and leaves the rest out.
+### Building Big Ideas (challenge) (challenge, 16 questions)
 1. (write) Many people think a heavier, thicker wall is always safer. Using what you learned about earthquakes, what would you test to find out if that is true?  
    **Answer:** Build two small model houses on a tray, one with a heavy roof of clay or books and one with a light card roof, both with the same walls. Shake the tray the same way and see which falls first. Repeat three times.. *Why:* A strong answer changes only one thing, the weight, keeps everything else the same, and repeats the test.
 2. (perspective) A town is being rebuilt after an earthquake.  
@@ -565,27 +676,29 @@ But Meenakshi knew they were there. After lunch she found Arun on the stairs, ea
    **Answer:** Any shelter whose frame is split into triangles, with a roof sloping to shed rain, and an opening for the bird.. *Why:* A strong design uses triangles or braces in every side and a sloping roof, and thinks about what the bird needs.
 5. (write) A Toda hut in the Nilgiris has a very small door. The Nilgiris are cool and misty. What problem do you think the small door solves for the family?  
    **Answer:** A small door lets less cold air in and less warm air out, so the hut stays warmer. It is also easy to close.. *Why:* A strong answer links the door to keeping warmth in, in a cool place. It is fine to say this is a guess.
-6. (mcq) A frame with six sides leans when pushed. What is the smallest number of strips you need to add so it cannot lean?  
+6. (write) A builder can use bricks baked in a kiln, or blocks of mud pressed near the site. Which harms the air and land around it less? What might the family give up?  
+   **Answer:** Pressed mud blocks make less smoke and need no coal or wood for baking. The family may give up some strength against heavy rain, and the walls may need more care. Some builders think brick or concrete is worth it for tall or crowded places.. *Why:* A strong answer weighs both choices. People really do argue about this, so there is no single right answer.
+7. (mcq) A frame with six sides leans when pushed. What is the smallest number of strips you need to add so it cannot lean?  
    Options: 1 / 3 / 6  
    **Answer:** 3. *Why:* Three strips from one corner to three far corners split a six-sided shape into four triangles. With fewer, a four-sided part is left, and it can lean.
-7. (truefalse) In a city, building tall blocks of flats lets many families live on a small piece of land.  
+8. (truefalse) In a city, building tall blocks of flats lets many families live on a small piece of land.  
    **Answer:** True. *Why:* True. Building upwards puts many homes on the same ground, which matters where land is scarce and costly.
-8. (write) In the Push Test, the square frame and the triangle frame used the same card and the same pins. What does that show about where a frame's strength comes from?  
+9. (write) In the Push Test, the square frame and the triangle frame used the same card and the same pins. What does that show about where a frame's strength comes from?  
    **Answer:** It shows strength does not come only from the material. The shape and the way the parts are joined matter too. The same card was floppy as a square and firm as a triangle.. *Why:* A strong answer uses the Push Test as evidence and separates the material from the shape.
-9. (sort) Sort these homes by the main danger they are built to handle.  
+10. (sort) Sort these homes by the main danger they are built to handle.  
    **Answer:** a steep tiled Kerala house → Heavy rain; a bamboo house on stilts in Assam → Floods; a round bhunga in Kutch → Earthquakes; a Toda hut with a small door → Cold; a thatched house with a steep roof → Heavy rain; a thick-walled Ladakh house → Cold. *Why:* Each home's shape answers the biggest problem of its place.
-10. (label) Label this tower: wide base, narrow top, brace, triangle.  
+11. (label) Label this tower: wide base, narrow top, brace, triangle.  
    **Answer:** ['wide base', 'narrow top', 'brace', 'triangle']. *Why:* A strong answer shows why each part helps the tower stand in the wind.
-11. (mcq) Why do roofs in Ladakh stay flat, though flat roofs would leak in Kerala?  
+12. (mcq) Why do roofs in Ladakh stay flat, though flat roofs would leak in Kerala?  
    Options: Ladakh gets very little rain, so water rarely stands on the roof / Ladakh has stronger mud / Snow never falls in Ladakh  
    **Answer:** Ladakh gets very little rain, so water rarely stands on the roof. *Why:* Ladakh is a cold desert with very little rain, so a flat roof rarely holds water. Some snow falls, but it is light. In Kerala, heavy rain would stand on a flat mud roof and soak in.
-12. (write) The baya weaver hangs his nest over water, with the door at the bottom. What problem does he have, and how does the nest solve it?  
+13. (write) The baya weaver hangs his nest over water, with the door at the bottom. What problem does he have, and how does the nest solve it?  
    **Answer:** His problem is that snakes and other hunters eat eggs and chicks. The nest hangs from a thin branch, often over water, which a snake finds hard to reach. The door is a long tube opening downwards, which makes it very hard to climb in.. *Why:* A strong answer names the bird's problem first, then how each feature of the nest helps.
-13. (fill) Most deaths in an earthquake are caused by buildings and roofs ____ on people.  
+14. (fill) Most deaths in an earthquake are caused by buildings and roofs ____ on people.  
    **Answer:** ['falling']. *Why:* Most people are hurt by falling buildings, not by the shaking itself. That is why light roofs and braces save lives.
-14. (order) Put these in order, from the frame that leans most to the one that leans least when pushed.  
+15. (order) Put these in order, from the frame that leans most to the one that leans least when pushed.  
    **Answer:** ['a square', 'a square with one loose, wobbly brace', 'a triangle']. *Why:* A square leans freely. A loose brace stops some leaning but lets the frame wobble. A triangle with firm joints barely moves.
-15. (write) The Tao Te Ching says it is the empty space inside a room that makes it useful. What do the walls and the frame do for that space?  
+16. (write) The Tao Te Ching says it is the empty space inside a room that makes it useful. What do the walls and the frame do for that space?  
    **Answer:** The walls and frame hold their shape and keep out rain, wind and danger, so that the empty space inside stays open and safe for us to live in.. *Why:* A strong answer links the frame's job to the space it protects. There is no single right answer.
 
 ## Videos
@@ -595,41 +708,56 @@ But Meenakshi knew they were there. After lunch she found Arun on the stairs, ea
 
 ## Quiz
 1. (mcq) What does a shelter protect us from?  
-   Options: Only from rain / Rain, sun, heat, cold, wind and danger / Only from animals  
+   Options: Rain, sun, heat, cold, wind and danger / Only from rain / Only from animals  
    **Answer:** Rain, sun, heat, cold, wind and danger. *Why:* A shelter protects from all of these. Choosing only one leaves out the others.
-2. (mcq) You push a square frame of card strips sideways. What happens?  
-   Options: It stays square / It leans and folds flat / It becomes a triangle  
+2. (mcq) Which home stands on its own piece of land, with no other home above or below it?  
+   Options: A flat in a tall block / An independent house / A houseboat floating on a lake  
+   **Answer:** An independent house. *Why:* A flat shares its building with other homes, and a houseboat floats on water. An independent house stands alone on its own land.
+3. (mcq) You push a square frame of card strips sideways. What happens?  
+   Options: It leans and folds flat / It stays square / It becomes a triangle  
    **Answer:** It leans and folds flat. *Why:* The square's corners turn like hinges, so it leans. Choosing 'stays square' usually means thinking more strips make it stronger.
-3. (mcq) Why can a triangle frame not lean?  
+4. (mcq) Why can a triangle frame not lean?  
    Options: It is made of stronger card / To lean, one side would have to change length / It is smaller than a square  
    **Answer:** To lean, one side would have to change length. *Why:* Three fixed lengths make only one shape. The card was the same in both frames, so the material is not the reason.
-4. (mcq) A square frame is wobbly. Where should you add a strip to stop it leaning?  
+5. (mcq) A square frame is wobbly. Where should you add a strip to stop it leaning?  
    Options: From one corner to the opposite corner / Along the bottom / Across the middle, side to side  
    **Answer:** From one corner to the opposite corner. *Why:* A strip from corner to corner, called a brace, makes two triangles. A strip along the bottom or across the middle leaves shapes that can still lean.
-5. (mcq) Which of these is built from many triangles?  
+6. (mcq) Which of these is built from many triangles?  
    Options: A mobile phone tower / A brick wall / A glass window  
    **Answer:** A mobile phone tower. *Why:* A mobile tower is a truss of steel triangles. A brick wall is a block, and a window is one sheet.
-6. (mcq) Why do many houses in Ladakh have flat mud roofs?  
+7. (mcq) Why do many houses in Ladakh have flat mud roofs?  
    Options: Ladakh gets very little rain / Ladakh has no wood at all / Flat roofs keep out snakes  
    **Answer:** Ladakh gets very little rain. *Why:* With very little rain, water rarely stands on the roof, and the flat roof is useful for drying food.
-7. (mcq) Families in parts of Assam build houses on bamboo stilts. Why?  
+8. (mcq) Families in parts of Assam build houses on bamboo stilts. Why?  
    Options: To see further / So floodwater can flow under the floor / To catch more wind  
    **Answer:** So floodwater can flow under the floor. *Why:* Rivers in Assam flood every year. A raised floor keeps the family and their things dry.
-8. (mcq) Water was poured on a flat tray and on a tray tilted on four books. What happened?  
-   Options: Both dried at the same time / The water ran off the tilted tray fast and stayed on the flat one / The water stayed on the tilted tray  
+9. (mcq) Water was poured on a flat tray and on a tray tilted on four books. What happened?  
+   Options: Both dried at the same time / The water stayed on the tilted tray / The water ran off the tilted tray fast and stayed on the flat one  
    **Answer:** The water ran off the tilted tray fast and stayed on the flat one. *Why:* Water flows downhill. The steeper the slope, the faster it runs off.
-9. (mcq) How must roof tiles overlap to keep rain out?  
+10. (mcq) How must roof tiles overlap to keep rain out?  
    Options: Each higher tile lies on top of the tile below / Each lower tile lies on top of the tile above / They should not overlap at all  
    **Answer:** Each higher tile lies on top of the tile below. *Why:* When each higher tile lies on top, water runs from one tile onto the outside of the next and never slips under an edge. In the tile test, the other way let water through.
-10. (mcq) Why does a builder working high up wear a harness?  
+11. (mcq) Why does a builder working high up wear a harness?  
    Options: To look smart / So that a slip does not become a fall / To carry bricks  
    **Answer:** So that a slip does not become a fall. *Why:* Falls are one of the biggest dangers on a building site. A harness tied to something strong catches the worker.
-11. (mcq) Which is a good safety rule at home?  
+12. (mcq) Which is a good safety rule at home?  
    Options: Climb on the balcony wall to see better / Leave a wet floor to dry by itself / Never climb on balcony walls or grills  
    **Answer:** Never climb on balcony walls or grills. *Why:* Falls from balconies are a real danger. Wet floors should be wiped at once.
-12. (mcq) In an earthquake, why is a heavy roof more dangerous than a light one?  
-   Options: Heavy roofs are pushed harder by the shaking and hurt more if they fall / Heavy roofs let rain in / Heavy roofs are hotter  
+13. (mcq) In an earthquake, why is a heavy roof more dangerous than a light one?  
+   Options: Heavy roofs let rain in / Heavy roofs are pushed harder by the shaking and hurt more if they fall / Heavy roofs are hotter  
    **Answer:** Heavy roofs are pushed harder by the shaking and hurt more if they fall. *Why:* The shaking pushes heavy things harder, and a falling heavy roof is the main danger. In Kutch in 2001, many bhungas with light roofs stood.
+14. (mcq) A village family plasters a wall with clay, hay and cow dung. Why is this wall a good choice for the village?  
+   Options: It is stronger than a concrete wall / Everything comes from near the house, it costs little and it keeps rooms cool / It never needs mending  
+   **Answer:** Everything comes from near the house, it costs little and it keeps rooms cool. *Why:* The clay, hay and dung are found nearby, and a thick mud wall heats up slowly. The rain still washes the paint away, so families freshen the wall every year.
+15. (mcq) A small room has no window, and many people sit in it for a long time. What happens?  
+   Options: The room gets more daylight / The air gets stale and stuffy, because no fresh air comes in / The walls become stronger  
+   **Answer:** The air gets stale and stuffy, because no fresh air comes in. *Why:* Breath and cooking smoke stay in the room, and nothing brings fresh air in. A window or a gap lets stale air out and fresh air in.
+16. (mcq) Which is one way that building a house can harm the world around it?  
+   Options: Baking bricks in a kiln burns wood or coal and makes smoke / Houses make the rain stop / Houses make the Sun dimmer  
+   **Answer:** Baking bricks in a kiln burns wood or coal and makes smoke. *Why:* Brick kilns make smoke, making cement releases carbon dioxide, and clearing land takes away the home of plants and animals. Rain and sunlight are not changed by one house.
+17. (mcq) You make a clay house model and pour water on its sloping roof. What does the model show you?  
+   Options: Where the rain runs off a roof like that / How many people can live in the real house / What colour the real house is  
+   **Answer:** Where the rain runs off a roof like that. *Why:* A model shows one idea at a time. The water shows how a slope sheds rain. It cannot show who lives inside or what colour the real house is.
 
 ## Applications
 - Roofs of houses, sheds, railway stations and factories are held up by trusses made of triangles.
@@ -644,7 +772,7 @@ But Meenakshi knew they were there. After lunch she found Arun on the stairs, ea
 ## Spotted around us
 - A mobile phone tower on a building roof, made of steel triangles.
 - The cross poles inside a wedding pandal before the cloth goes on.
-- Steep red tiled roofs in villages and towns of Kerala and coastal Karnataka.
+- Steep red tiled roofs on houses in villages and towns.
 - Builders in yellow helmets on bamboo or steel scaffolding at a building site.
 - The steel triangles of a railway bridge, seen from a train window.
 - A bracket under a kitchen or bathroom shelf, making a triangle with the wall.
@@ -697,6 +825,14 @@ Look Close, Then Make (sci.making-things.L3): Topic-level song for Making things
 
 ## Things to buy
 - [Brass split pins (paper fasteners), a small packet](https://www.amazon.in/s?k=brass+paper+fasteners+split+pins) (material): They join card strips at the corners so the corners can turn freely, which the Push Test needs. Stationery shops sell them cheaply. Twist ties or knotted thread work too. Used in e1. 
+- [Dreaming Up: A Celebration of Building by Christy Hale](https://www.amazon.in/s?k=Dreaming+Up) (book): Children's block towers and sand castles are shown beside real buildings from around the world. It helps the child see that building starts the same way at any size. Used in a1. Read it together before the house project.
+- [A magnetic compass](https://www.amazon.in/s?k=magnetic+compass+school) (tool): Used in The Push Test: square frame or triangle frame?. About ₹30 to ₹150. A phone compass app also works. Used in e1. Get it before The Push Test: square frame or triangle frame?.
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in Build a Newspaper Hut You Can Sit In, The Tower That Stands in the Fan's Wind. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in p1, c1. Get it before Build a Newspaper Hut You Can Sit In.
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in Rain on the Roof: how steep should it be?. About ₹150 to ₹400. A phone stopwatch works well. Used in e2. Get it before Rain on the Roof: how steep should it be?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Push Test: square frame or triangle frame?, The Settling Jar: what is soil made of, and where is the clay?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, old1. Get it before The Push Test: square frame or triangle frame?.
+- [Wooden ice-cream sticks (a pack)](https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack) (material): Used in The Flood-Proof House. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in. Used in c2. Get it before The Flood-Proof House.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Which Way Should the Tiles Overlap?, The Flood-Proof House. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e3, c2. Get it before Which Way Should the Tiles Overlap?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Which frame keeps its shape when pushed: a square or a triangle? → A triangle.
@@ -710,7 +846,7 @@ Look Close, Then Make (sci.making-things.L3): Topic-level song for Making things
 
 ## Plan
 - Start options: intro, e1, story, a1, g2, cards, big_questions, p1
-- Default order: intro → a1 → e1 → explanations → roots → story → summary → terms → a2 → g2 → e2 → e3 → ws-core → videos → a3 → g1 → a5 → a4 → agreed → challenging → ws-stretch → c1 → c2 → p1 → big_questions → ws-challenge → open_questions → quiz
+- Default order: intro → a1 → e1 → explanations → roots → story → summary → terms → a2 → g2 → e2 → e3 → ws-core → videos → a3 → g1 → a5 → a4 → agreed → challenging → ws-stretch → c1 → c2 → p1 → big_questions → ws-challenge → open_questions → quiz → old1 → a6
 - Core: a1, e1, e2, a2, g2, ws-core
 
 ## Sources

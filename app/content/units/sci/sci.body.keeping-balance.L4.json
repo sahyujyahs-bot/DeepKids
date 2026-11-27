@@ -791,11 +791,11 @@
      "t": "mcq",
      "p": "In the Level Bottle, why did deeper water leak out of the hole faster?",
      "opts": [
-      "Deeper water presses harder on the hole",
       "The hole gets bigger when the water is deep",
-      "Water is lazy when it is shallow"
+      "Water is lazy when it is shallow",
+      "Deeper water presses harder on the hole"
      ],
-     "a": 0,
+     "a": 2,
      "why": "More water above the hole presses harder, so it squirts out faster. That is why a rising level makes its own push back.",
      "outcome": 1
     },
@@ -906,11 +906,11 @@
      "t": "mcq",
      "p": "What goes wrong in type 1 diabetes?",
      "opts": [
-      "The body makes almost no insulin",
       "The body makes too much glucagon",
+      "The body makes almost no insulin",
       "The body cannot digest food"
      ],
-     "a": 0,
+     "a": 1,
      "why": "In type 1 diabetes the cells that make insulin are destroyed, so almost no insulin is made. People take insulin from outside.",
      "outcome": 6
     },
@@ -1084,11 +1084,11 @@
      "t": "mcq",
      "p": "Why does a shower swing from too hot to too cold when the hot water is slow to arrive?",
      "opts": [
-      "You keep correcting before the last correction has arrived",
       "The tap is broken",
-      "Hot water is heavier than cold water"
+      "Hot water is heavier than cold water",
+      "You keep correcting before the last correction has arrived"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Nothing changes at first, so you turn the tap more. When the hot water finally arrives, you have already turned the tap too far. A message that arrives late makes the correction go too far.",
      "outcome": 5
     },
@@ -1185,11 +1185,11 @@
      "t": "mcq",
      "p": "A person with type 1 diabetes takes insulin and then does not eat for hours. What is most likely?",
      "opts": [
-      "Their blood sugar falls too low, and they need sugar quickly",
       "Their blood sugar goes very high",
-      "Nothing changes"
+      "Nothing changes",
+      "Their blood sugar falls too low, and they need sugar quickly"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The insulin keeps lowering the sugar, and no food is adding any. Low sugar causes shaking, sweating and confusion. Sweet food or drink given right away helps. A grown-up or doctor should be called.",
      "outcome": 6
     },
@@ -1222,11 +1222,11 @@
      "t": "mcq",
      "p": "Why is it dangerous to take lots of big breaths before holding your breath in water?",
      "opts": [
-      "Big breaths blow away carbon dioxide, so the urge to breathe comes late and you can faint before you feel it",
       "Big breaths make the water cold",
-      "Big breaths make the lungs smaller"
+      "Big breaths make the lungs smaller",
+      "Big breaths blow away carbon dioxide, so the urge to breathe comes late and you can faint before you feel it"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The urge to breathe comes mostly from carbon dioxide. If you blow it off with big breaths, the warning comes late, and oxygen may run out first. Never do it in water.",
      "outcome": 3
     },
@@ -1286,11 +1286,11 @@
      "t": "mcq",
      "p": "The Sun stays almost the same size for billions of years. Which explanation fits the idea of this lesson?",
      "opts": [
-      "Gravity pulls inwards and the pressure of hot gas pushes outwards, and the two are equal",
       "The Sun is simply not moving",
-      "The Sun has no energy flowing through it"
+      "The Sun has no energy flowing through it",
+      "Gravity pulls inwards and the pressure of hot gas pushes outwards, and the two are equal"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A star holds steady because two opposite pushes balance. If it shrank, the pressure would rise and push it back out. If it swelled, gravity would pull it back in.",
      "outcome": 0
     },
@@ -1471,11 +1471,11 @@
       "t": "mcq",
       "q": "Why do we use the same bottle and the same hole every time?",
       "options": [
-       "So that only the speed of the trickle changes",
        "So the bottle looks tidy",
+       "So that only the speed of the trickle changes",
        "So the water is cleaner"
       ],
-      "a": 0,
+      "a": 1,
       "why": "In a fair test, only one thing changes. If the hole changed too, you would not know whether the trickle or the hole made the level different."
      },
      "context": "In this step, you build the Level Bottle. The ruler tells you how high the water stands above the hole."
@@ -1682,11 +1682,11 @@
       "t": "mcq",
       "q": "Why do we count the pulse for 15 seconds and then multiply by 4?",
       "options": [
-       "It gives beats in a whole minute, without waiting a whole minute",
        "It makes the pulse slower",
-       "It makes the count more exciting"
+       "It makes the count more exciting",
+       "It gives beats in a whole minute, without waiting a whole minute"
       ],
-      "a": 0,
+      "a": 2,
       "why": "15 seconds is a quarter of a minute, so the count times 4 gives the beats in one minute. It is faster than counting for a full minute, and the pulse is still steady enough to count."
      },
      "context": "In this step, you measure your resting pulse and breathing, so you know your own normal."
@@ -1703,11 +1703,11 @@
       "t": "mcq",
       "q": "Why do we stop at the first strong urge to breathe?",
       "options": [
-       "The urge is a warning from your body, and we respect it",
        "The test is finished only then",
-       "The urge means we are cheating"
+       "The urge means we are cheating",
+       "The urge is a warning from your body, and we respect it"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The urge is a signal from your brainstem that carbon dioxide has built up. Respecting it keeps the test safe. Pushing past it, and especially taking big breaths first, can lead to fainting."
      },
      "context": "In this step, you time how long you can hold your breath before the urge to breathe comes. Never do this in water."
@@ -2008,11 +2008,11 @@
       "t": "mcq",
       "q": "When you stand on one leg, what is your ankle doing?",
       "options": [
-       "Making many small corrections, left and right",
        "Staying perfectly still",
-       "Resting"
+       "Resting",
+       "Making many small corrections, left and right"
       ],
-      "a": 0,
+      "a": 2,
       "why": "To stay up, your ankle keeps tilting a little and your muscles keep correcting it. Standing still is really many small movements, one after another."
      },
      "context": "In this step, you stand on one leg and your helper counts the shifts of your ankle."
@@ -2246,11 +2246,11 @@
       "t": "mcq",
       "q": "Why does the arm need both a muscle that bends and a muscle that straightens?",
       "options": [
-       "A muscle can only pull, so one is needed for each direction",
        "One muscle is only for show",
-       "So the arm weighs more"
+       "So the arm weighs more",
+       "A muscle can only pull, so one is needed for each direction"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A muscle can only pull. It cannot push. So the body uses a pair, one to pull the bone one way and one to pull it back. Smooth, steady movement comes from both working together."
      },
      "context": "In this step, you feel both muscles working together to move the arm smoothly."
@@ -2581,11 +2581,11 @@
       "t": "mcq",
       "q": "Why change only one thing at a time?",
       "options": [
-       "So you know which change made the difference",
        "Because changing two things is not allowed",
-       "To save water"
+       "To save water",
+       "So you know which change made the difference"
       ],
-      "a": 0,
+      "a": 2,
       "why": "If you change two things and the result improves, you cannot tell which change helped. One change at a time makes it a fair test."
      },
      "context": "In this step, you improve your design by changing one thing at a time."
@@ -2634,11 +2634,11 @@
    "t": "mcq",
    "p": "What makes a level stay steady?",
    "opts": [
-    "What flows in matches what flows out",
     "Nothing moving at all",
-    "A single push in one direction"
+    "A single push in one direction",
+    "What flows in matches what flows out"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A level is steady when the flow in equals the flow out. If one flow wins, the level rises or falls.",
    "outcome": 0
   },
@@ -2646,11 +2646,11 @@
    "t": "mcq",
    "p": "You pour a cup of water into a Level Bottle that was steady. The level jumps up. What happens next?",
    "opts": [
-    "The level falls back to where it was",
     "The level stays high",
+    "The level falls back to where it was",
     "The level rises until the bottle overflows"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Deeper water leaks faster, so the leak is bigger than the trickle until the level has come back down. The change causes its own push back.",
    "outcome": 1
   },
@@ -2670,11 +2670,11 @@
    "t": "mcq",
    "p": "Where in the body are insulin and glucagon made?",
    "opts": [
-    "In the pancreas",
     "In the liver",
+    "In the pancreas",
     "In the heart"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Beta cells in the pancreas make insulin and alpha cells make glucagon. The liver is where sugar is stored and released.",
    "outcome": 2
   },
@@ -2706,11 +2706,11 @@
    "t": "mcq",
    "p": "A bright light comes on and your pupils shrink at once. What decided this?",
    "opts": [
-    "An automatic loop through the brainstem",
     "Your decision to protect your eyes",
+    "An automatic loop through the brainstem",
     "The light itself changed your eyes"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Light on the eye sends a signal to the brainstem, which tightens the ring muscles. It happens in under a second, before you could decide anything.",
    "outcome": 4
   },
@@ -2992,6 +2992,68 @@
     "g1"
    ],
    "plan": "Read a few pages after the story and the discovery card, to give the grown-up the full picture."
+  },
+  {
+   "id": "b-a-magnetic-compass",
+   "item": "A magnetic compass",
+   "kind": "tool",
+   "why": "Used in Level Bottle: a bottle that keeps its own water level, Steady-Level Tank: keep the level between two marks. About ₹30 to ₹150. A phone compass app also works.",
+   "url": "https://www.amazon.in/s?k=magnetic+compass+school",
+   "used_in": [
+    "e1",
+    "c1"
+   ],
+   "plan": "Get it before Level Bottle: a bottle that keeps its own water level."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Level Bottle: a bottle that keeps its own water level, Pupil Gauge: how fast do my pupils change with the light?, Steady-Level Tank: keep the level between two marks. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e3",
+    "c1"
+   ],
+   "plan": "Get it before Level Bottle: a bottle that keeps its own water level."
+  },
+  {
+   "id": "b-a-small-hand-mirror",
+   "item": "A small hand mirror",
+   "kind": "material",
+   "why": "Used in Pupil Gauge: how fast do my pupils change with the light?. About ₹20 to ₹80. A shiny steel plate shows reflections too.",
+   "url": "https://www.amazon.in/s?k=small+hand+mirror",
+   "used_in": [
+    "e3"
+   ],
+   "plan": "Get it before Pupil Gauge: how fast do my pupils change with the light?."
+  },
+  {
+   "id": "b-iron-nails-or-iron-filings",
+   "item": "Iron nails or iron filings",
+   "kind": "material",
+   "why": "Used in Level Bottle: a bottle that keeps its own water level, Steady-Level Tank: keep the level between two marks. About ₹20 to ₹80. Short steel nails from a hardware shop.",
+   "url": "https://www.amazon.in/s?k=iron+filings+science",
+   "used_in": [
+    "e1",
+    "c1"
+   ],
+   "plan": "Get it before Level Bottle: a bottle that keeps its own water level."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

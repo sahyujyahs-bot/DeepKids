@@ -1,0 +1,142 @@
+# DeepKids HomeSchooling Track / History (copied from Google Sheets, 2026-11-27)
+R2: Role of DNA in determining nature, characteristics, behaviour
+R3: Common DNA line - parents, grand parents, all beings |  |  |  |  |  | History - Memory - myth
+R5: Your History | Family Tree, How are you like your parents & grand parents ⏎ How were people in your land 1500 years back
+R6:  | Write about your past 1 week, Parents also write the past week's history
+R7:  | Imagine life when your parents were your age & write a story
+R9: Memory & its fundamanetals
+R10: Distortions in Memory - History
+R15: 1. Pre-history & Human Origins
+R16: Evolution of Homo sapiens
+R17: Paleolithic societies: hunter–gatherers, stone tools, art (Lascaux, Chauvet).
+R18: Neolithic Revolution: domestication of plants and animals, first permanent settlements (Çatalhöyük, Jericho).
+R19: Early metallurgy: copper, bronze.
+R20: Indian Subcontinent prehistoric
+R22: 0) Fresh digs & rewrites (last few years)
+R23: Ancient DNA & South Asia.
+R24: • A Harappan genome from Rakhigarhi showed no Steppe pastoralist ancestry in that individual; big for timing debates on Indo-Aryan languages (2019). Cell
+R25: • Broader aDNA work (523 ancient genomes) mapped South Asian ancestry as gradients of Iranian-related + Southeast Asian–related hunter-gatherers, with Steppe-related ancestry arriving after the Indus decline. This reframed population history and language-spread hypotheses (2019). PMC+1
+R26: Sinauli “chariots” (UP). Bronze-Age burials with copper-covered carts (c. 1850–1550 BCE). Scholars dispute whether they’re true horse-drawn chariots or ox-carts. Treat as provisional. Wikipedia
+R27: Keeladi/Keeladi–Kondagai (TN). Urban features and Tamil-Brahmi material; radiocarbon points to a 6th century BCE horizon, though the earliest script dating is debated and some contexts are mixed. (New reporting 2025; scholarly caution remains.) The Economic Times+1
+R28: Possible Saraswati palaeo-channel (Rajasthan, 2024–25). ASI reported a 23 m-deep palaeochannel under Bahaj village; potentially big if confirmed—but still early days. The Times of India
+R29: Gandhāran birch-bark scrolls (1st–3rd c. CE). The 1990s–present decipherment of the oldest Buddhist manuscripts continues to reshape how and where Buddhism spread (Gāndhārī/Kharoṣṭhī). Wikipedia+1
+R30: Global benchmarkers (context).
+R31: • Oldest known wooden structure, Zambia ~476,000 years (2023): pushes hominin tech back—affects deep prehistory narratives. Nature+1
+R32: • Lidar mega-surveys keep rewriting Mesoamerican urbanism (2023–25).
+R34: Indian Subcontinent History
+R35: 1) Indian & subcontinental history (wide + deep, with fault lines noted)
+R36: A. Deep Prehistory → Neolithic
+R37: Earliest humans in South Asia; microlithic traditions; domestication packages (millets, rice). On rice: indica domestication involves introgression and hybrid histories—don’t oversimplify. PNAS+1
+R38: B. Indus/Harappan Civilization (c. 2600–1900 BCE core)
+R39: Urbanism (Mohenjo-daro, Harappa, Dholavira), water systems, standardized weights, trade to Oman/Mesopotamia.
+R40: Script undeciphered; Dravidian/other hypotheses exist.
+R41: aDNA: Rakhigarhi individual points to no Steppe ancestry in the urban phase; later Steppe ancestry enters post-IVC. Cell+1
+R42: C. Post-Harappan & Early Vedic / Iron Age (c. 1900–600 BCE)
+R43: Regional cultures (PGW, NBPW), early iron, chiefdoms → mahājanapadas.
+R44: Sinauli material (see above) belongs around Late Harappan/Ochre-Coloured Pottery/Copper Hoard contexts; avoid over-reading. Wikipedia
+R45: D. Urban South of the Vindhyas early horizon
+R46: Keeladi/Keeladi–Kondagai complex: craft, brick structures, water works; claims of early Tamil-Brahmi use before 3rd c. BCE are contested; settle on “6th c. BCE urban horizon; earliest writing remains debated.” The Economic Times+1
+R47: E. Imperial formations & cross-roads (c. 6th–2nd c. BCE)
+R48: Achaemenid satrapies in NW; Aramaic administration intersects with Indic worlds. Kharosthi script is widely held to derive from Imperial Aramaic under the Achaemenids. Wikipedia
+R49: Mauryan Empire; Ashoka’s edicts in Prakrit, Greek, Aramaic (Kandahar bilingual & Greek edicts) demonstrate direct messaging to Hellenic audiences. edizionicafoscari.unive.it+1
+R50: F. Hellenistic, Indo-Greek, Saka, Kushan interfaces (2nd c. BCE–3rd c. CE)
+R51: Taxila/Gandhara as hubs; Greco-Buddhist art fuses Hellenistic forms with Buddhist iconography; Kushan coinage, Buddhist patronage. Encyclopedia Britannica+1
+R52: Gandhāran manuscripts (see above) anchor early Buddhist textuality in the NW. Wikipedia
+R53: G. Early Historic trade webs (1st–3rd c. CE)
+R54: Indo-Roman trade via Red Sea ports; Muziris Papyrus (Greek contract) evidences pepper/ivory shipments and legal frameworks; Berenike yields 7.5 kg pepper from India in a single jar. Oxford Academic+1
+R55: H. Classical–Early Medieval (Guptas, Deccan polities, South Indian maritime)
+R56: Sanskrit cosmopolis; math/astronomy (Āryabhaṭa, Varāhamihira, Brahmagupta); Sangam polities & Indian Ocean commerce.
+R57: Transmission outward picks up (see §3).
+R58: I. Islamic & Sultanate period; regional states (1200–1526)
+R59: Persianate court culture; regional vernaculars; technology & agrarian changes; coastal Muslim merchant networks.
+R60: J. Mughal–Early Modern (1526–1857)
+R61: High empire → regionalization; Deccan sultanates, Marathas, Sikhs; Indo-Persian knowledge ecologies; global silver flows via Indian textiles.
+R62: K. Colonial, National, Contemporary (1857–present)
+R63: Company → Crown; railways, famines, reform.
+R64: Nationalism, Partition, Republic; Green Revolution, liberalisation, tech sector, 21st-century geopolitics.
+R65: Meta-point: I’m not listing every dynasty and inscription—that’s a gazetteer. What you get here is the load-bearing scaffolding and where new evidence is moving needles.
+R67: India-centric drill-downs you can expand from here
+R68: If you want to go even deeper, pick a lane and I’ll open it up like we did with chemistry. Examples:
+R69: Epigraphy pipeline: Asokan edict corpora; Brahmi/Kharosthi palaeography; Prakrit vs Sanskrit inscriptional shifts; Greek/Aramaic edicts. edizionicafoscari.unive.it+1
+R70: Astronomy/mathematics: Āryabhaṭa → Brahmagupta → Arabic zijes → Latin science; numerals and algorithms via al-Khwarizmi; zero’s textual archaeology. Wikipedia+2Encyclopedia Britannica+2
+R71: Buddhist textuality & routes: Gandhāran scrolls; Taxila monastic education; Silk Road diffusion. Wikipedia+1
+R72: Indian Ocean trade: Periplus, Muziris Papyrus, ports (Bharuch, Muziris, Arikamedu), Red Sea hubs (Berenike/Myos Hormos). Cambridge University Press & Assessment+1
+R74: Major Indian Kingdoms and Dynasties
+R75: Nanda – 345 BCE – 321 BCE – 24 yrs
+R76: Maurya – 321 BCE – 185 BCE – 136 yrs
+R77: Shunga – 185 BCE – 73 BCE – 112 yrs
+R78: Kanva – 73 BCE – 28 BCE – 45 yrs
+R79: Satavahana – c. 100 BCE – c. 250 CE – ~350 yrs
+R80: Gupta – c. 320 CE – c. 550 CE – ~230 yrs
+R81: Pala (Bengal/Bihar) – c. 750 CE – c. 1174 CE – ~424 yrs
+R82: Gurjara-Pratihara – c. 650 CE – c. 1036 CE – ~386 yrs
+R83: Chalukya (Early/Badami) – 543 CE – 753 CE – 210 yrs
+R84: Chalukya (Western) – 973 CE – 1189 CE – 216 yrs
+R85: Rashtrakuta – 753 CE – 982 CE – 229 yrs
+R86: Kakatiya – 1163 CE – 1323 CE – 160 yrs
+R87: Vijayanagara – 1336 CE – 1646 CE – 310 yrs
+R88: Bahmani Sultanate – 1347 CE – 1527 CE – 180 yrs
+R89: Delhi Sultanates – 1206 CE – 1526 CE – 320 yrs
+R90: Mughal Empire – 1526 CE – 1857 CE – 331 yrs
+R91: Maratha Confederacy – 1674 CE – 1818 CE – 144 yrs
+R92: Sikh Empire – 1799 CE – 1849 CE – 50 yrs
+R93: Pandya – Early/Sangam c. 3rd cent BCE – c. 3rd cent CE (~500 yrs); Later/Medieval c. 7th cent CE – c. 14th cent CE (~700 yrs) – ~1,200 yrs total
+R94: Chera – Early c. 3rd cent BCE – c. 3rd cent CE (~500 yrs); Later/Kulasekhara c. 8th cent CE – c. 12th cent CE (~400 yrs) – ~900 yrs total
+R95: Chola – Early c. 3rd cent BCE – c. 3rd cent CE (~500 yrs); Imperial/Medieval c. 850 CE – 1279 CE (~429 yrs) – ~930 yrs total
+R97: Other Ancient Civilizations
+R98: Mesopotamia – Sumer, Akkad, Babylon, Assyria; writing systems (cuneiform), law codes (Hammurabi).
+R99: Ancient Egypt – Old, Middle, New Kingdoms; pyramids, pharaohs, religious beliefs.
+R100: Indus Valley Civilisation – urban planning, trade networks.
+R101: Ancient China – Shang and Zhou dynasties; Mandate of Heaven.
+R102: Mesoamerica & Andean cultures – Olmec, Chavín.
+R103: Classical Mediterranean
+R104: Greece: polis, Persian wars, Athens vs Sparta, Hellenistic era.
+R105: Rome: Republic, Empire, law, Christianity’s rise.
+R107: 3. Classical & Post-Classical Eras (c. 500 BCE–1500 CE)
+R108: Mauryan & Gupta empires in India.
+R109: Qin and Han China; Confucian bureaucracy.
+R110: Persian Achaemenids, Parthians, Sassanids.
+R111: Early African kingdoms: Kush, Axum.
+R112: Byzantine Empire and Eastern Orthodox world.
+R113: Rise and spread of Islam: Rashidun, Umayyad, Abbasid Caliphates.
+R114: Medieval Europe: feudalism, the Church, Crusades, scholasticism.
+R115: Mongol Empire and its Eurasian impact.
+R116: Pre-Columbian Americas: Maya, Aztec, Inca.
+R117: 4. Early Modern World (c. 1500–1800)
+R118: Renaissance and Reformation in Europe.
+R119: Age of Exploration: Iberian maritime empires, Columbian exchange.
+R120: Scientific Revolution and Enlightenment.
+R121: Mughal India, Safavid Persia, Ottoman Empire.
+R122: Tokugawa Japan, Ming–Qing transition in China.
+R123: Trans-Atlantic slave trade and Atlantic economies.
+R124: Early capitalism and mercantilism.
+R125: 5. The Long 19th Century (c. 1780–1914)
+R126: American and French Revolutions; Napoleonic Wars.
+R127: Industrial Revolution: technology, urbanisation, labour movements.
+R128: Nationalism: unifications of Italy and Germany.
+R129: Imperialism and the “Scramble for Africa”.
+R130: Meiji Restoration in Japan.
+R131: Social reform movements: abolition, women’s suffrage.
+R132: Scientific and intellectual shifts: Darwin, Marx, positivism.
+R133: 6. The 20th Century
+R134: World War I: causes, trench warfare, Versailles Treaty.
+R135: Russian Revolution and Soviet Union.
+R136: Inter-war period: Great Depression, rise of fascism.
+R137: World War II: Axis vs Allies, Holocaust, atomic bomb.
+R138: Decolonisation: India, Africa, Southeast Asia.
+R139: Cold War: US–USSR rivalry, proxy wars, space race.
+R140: Civil rights, feminist, and liberation movements worldwide.
+R141: 7. The Contemporary World (1970s–present)
+R142: End of the Cold War; collapse of the USSR.
+R143: Globalisation: trade liberalisation, internet revolution.
+R144: Rise of China and emerging economies.
+R145: Environmental history: climate change, sustainability debates.
+R146: Terrorism and 9/11, Middle Eastern conflicts.
+R147: Digital era: social media, information economy.
+R148: 8. Cross-Cutting Themes
+R149: Economic history: agrarian economies, industrial capitalism, global trade systems.
+R150: Intellectual history: philosophies, religions, science and technology.
+R151: Social history: gender roles, family structures, class relations.
+R152: Environmental & climate history.
+R153: History of medicine and public health.
+R154: Historiography: schools of thought (Marxist, Annales, post-colonial, microhistory).

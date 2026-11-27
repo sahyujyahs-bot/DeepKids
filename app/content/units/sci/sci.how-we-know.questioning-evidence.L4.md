@@ -1,7 +1,7 @@
 # Luck or cause: when two things happen together, what does it show?
 `sci.how-we-know.questioning-evidence.L4`
 
-**Summary.** Longer okra pods have more seeds, but does one cause the other? In this unit you will look for a hidden third thing in a table, toss a coin to see how often chance alone looks special, and play a card game that sorts cause from chance.
+**Summary.** Longer okra pods have more seeds, but does one cause the other? In this lesson you will look for a hidden third thing in a table, toss a coin to see how often chance alone looks special, and play a card game that sorts cause from chance.
 
 **Intro.** *On a Kerala beach, a doctor counted the people who came to her tent with sunburn each day. A gola seller counted the golas he sold. On the days he sold more golas, she saw more sunburn. A man in the crowd said, "Ban the golas!" Was he right?* The two counts really did rise and fall together. That was true. But the idea that golas burn skin may still be wrong. You may already know three questions to ask about any claim. Who says so? How do they know? Who is missing? This time you ask a harder question. When two things go together, what is really going on? You will use a coin, okra pods and some cups of squash to find out.
 
@@ -509,14 +509,14 @@ That evening Uncle Basheer filled a cone with red syrup and held it out to her. 
 5. (sort) Sort each pattern: is there a hidden third thing, or does the arrow point the other way?  
    **Answer:** Patients who stay longer in hospital are sicker. → Other way round; Cities with more bridges have more boats. → Hidden third thing; Rooms with an air cooler feel hotter than rooms without one. → Other way round; Towns with more schools have more stationery shops. → Hidden third thing; People who use walking sticks have had more falls. → Other way round; Months with more school bags sold also have more uniforms sold. → Hidden third thing. *Why:* Sicker people stay longer in hospital. Hot rooms are the ones that get air coolers. People who fall more often are the ones who start using sticks. For the other three, a river is behind bridges and boats. The size of a town is behind schools and stationery shops. The start of the school year is behind school bags and uniforms.
 6. (mcq) A fair coin is flipped 10 times and gives 8 heads. What is the best thing to say?  
-   Options: The coin must be bent / This can happen by chance, so flip many more times before deciding / Heads always wins / The flipper wished for it  
+   Options: The coin must be bent / Heads always wins / This can happen by chance, so flip many more times before deciding / The flipper wished for it  
    **Answer:** This can happen by chance, so flip many more times before deciding. *Why:* About 1 set of 10 in 18 gives 8 or more heads from chance alone. Ten flips is too few to decide. The way to find out is to flip many more times.
 7. (write) In The Lucky Coin experiment, the total of all 200 flips is closer to half than most single sets of 10. Explain why.  
    **Answer:** A strong answer says that in a small set luck can swing far from half, but over many flips the highs and lows cancel out, so the total settles near half.. *Why:* A strong answer connects more tries with steadier results.
 8. (fill) The group that is treated the same as the others, but does not get the thing being tested, is called the ____ group.  
    **Answer:** ['control']. *Why:* You compare the test group with the control group to see what the thing really does.
 9. (mcq) In a double-blind test of a medicine, who does not know who got the real medicine?  
-   Options: Only the patients / Only the doctor / Both the patients and the people handing out and measuring / Nobody  
+   Options: Both the patients and the people handing out and measuring / Only the patients / Only the doctor / Nobody  
    **Answer:** Both the patients and the people handing out and measuring. *Why:* If either side knows, a look, a word or a hope could change what is reported. When neither side knows, that cannot happen.
 10. (truefalse) True or false: when people in a test feel better after a dummy pill, the feeling is real, but the pill did not cure anything.  
    **Answer:** True. *Why:* True. In many tests, people report real changes after a placebo, especially in pain. A sugar pill cannot kill germs or heal bones.
@@ -527,7 +527,7 @@ That evening Uncle Basheer filled a cone with red syrup and held it out to her. 
 13. (label) Look at this bar chart of two biscuit scores. Label the part that makes the gap look bigger than it is, and say where the scale should start.  
    **Answer:** Label the side scale that starts at 90, and say that it should start at 0.. *Why:* A scale that starts at 90 cuts off the bottom of both bars, so a small gap looks big.
 14. (mcq) Why do we use a coin flip to choose which banana in a pair gets wrapped?  
-   Options: So the choice does not depend on what the tester hopes / So the bananas ripen faster / So both bananas are wrapped / So nobody can eat them  
+   Options: So the bananas ripen faster / So the choice does not depend on what the tester hopes / So both bananas are wrapped / So nobody can eat them  
    **Answer:** So the choice does not depend on what the tester hopes. *Why:* If the tester picks, they may wrap the greener banana without knowing. A coin has no favourites, so the two groups come out alike.
 15. (perspective) Two cousins in Madurai argue about a herbal tea.  
    **Answer:** A strong answer sees that one story cannot show what would have happened without the tea. It also gives the first child her due: her aunt's experience is real and a good reason to run a fair test.. *Why:* Marks go for using the idea of a control group and for being fair to the other cousin.
@@ -535,7 +535,7 @@ That evening Uncle Basheer filled a cone with red syrup and held it out to her. 
    **Answer:** ['Pick similar items from the same batch', 'Flip a coin to decide which one gets the treatment', 'Treat both groups the same except for one thing', 'Write down the results every time', 'Compare the two groups']. *Why:* You start with alike things, let chance split them, change only one thing, record, and then compare.
 ### Luck, Controls and Blind Tests (stretch) (stretch, 17 questions)
 1. (mcq) A plant food is tested on 6 plants. The tester gives it to the 3 tallest plants. Why is this a problem?  
-   Options: Tall plants cannot use food / The tester may have chosen the strongest plants, so any difference may not come from the food / Six is a bad number / Plant food does not work  
+   Options: The tester may have chosen the strongest plants, so any difference may not come from the food / Tall plants cannot use food / Six is a bad number / Plant food does not work  
    **Answer:** The tester may have chosen the strongest plants, so any difference may not come from the food. *Why:* If the tester chooses, the strongest plants may grow best whatever they are fed. A coin flip would have made the two groups alike.
 2. (write) A newspaper says: children who eat breakfast do better in school. Give a possible hidden third thing, and say how the arrow could go the other way.  
    **Answer:** A strong answer names a third thing such as family money, a calm morning at home or sleep. For the other way round, children who feel well and do well at school may be more likely to get up and eat.. *Why:* A strong answer looks for a third thing and for the opposite arrow.
@@ -551,7 +551,7 @@ That evening Uncle Basheer filled a cone with red syrup and held it out to her. 
 7. (write) Seven heads in 10 flips is not strong evidence of anything, but 70 heads in 100 flips would be. Explain the difference.  
    **Answer:** A strong answer says that with 10 flips, luck often gives 7 heads, about 1 set in 6. With 100 flips, an ordinary coin almost never gives 70 or more heads, so it would be a surprise and would be worth looking into.. *Why:* A strong answer says that a result is a surprise only when chance rarely gives it.
 8. (mcq) John Snow's comparison of houses supplied by two water companies on the same streets was strong evidence. Why?  
-   Options: The houses were the same in most ways except the water / The companies were famous / The streets were very long / He used a microscope  
+   Options: The companies were famous / The streets were very long / The houses were the same in most ways except the water / He used a microscope  
    **Answer:** The houses were the same in most ways except the water. *Why:* Because neighbours on the same streets shared the air, the poverty and the weather, the main difference left was the water. That cut out many hidden third things.
 9. (match) Match each sneaky trick to an example.  
    **Answer:** Only the hits → Showing three happy customers and hiding three hundred who complained; Too few tries → Testing a toothpaste on four people; Asked only fans → Handing out a survey at a biscuit stall; Sounds scientific → A label with long words and no named study. *Why:* Each trick leaves out something you need to judge the claim.
@@ -567,7 +567,7 @@ That evening Uncle Basheer filled a cone with red syrup and held it out to her. 
 14. (write) In the Okra Pods experiment, longer pods had more seeds. Give two different stories that could explain this, other than that seeds make pods long.  
    **Answer:** A strong answer might say that a longer pod has more room for seeds, or that older pods have had more time to grow both long and full of seeds.. *Why:* A strong answer sees that a pattern can fit several stories until a further test decides.
 15. (mcq) In the Fancy Label Cups activity, every cup was filled from one jug. Why?  
-   Options: So the drink is exactly the same, and only the label differs / So the jug would be empty sooner / So the cups look pretty / So the tasters drink more  
+   Options: So the jug would be empty sooner / So the drink is exactly the same, and only the label differs / So the cups look pretty / So the tasters drink more  
    **Answer:** So the drink is exactly the same, and only the label differs. *Why:* If the drinks differed, a taste difference could come from the drink and not the label. Keeping the drink the same means any difference in picks comes from the label.
 16. (truefalse) True or false: a chart that starts its scale at 90 shows different numbers from one that starts at 0.  
    **Answer:** False. *Why:* False. The numbers are the same. Only the picture changes, which is why it is wise to read the numbers on the side.
@@ -577,14 +577,14 @@ That evening Uncle Basheer filled a cone with red syrup and held it out to her. 
 1. (write) A friend says tying a red thread to a tulsi plant makes her grow faster. Plan a fair test. Say how many plants, what the control is, how a coin is used, what stays the same, and what you record.  
    **Answer:** A strong plan uses several tulsi pots of the same size and age, a coin to choose which get a red thread, the same water, soil and light for all, and measures the height of each plant on the same days. The pots without a thread are the control.. *Why:* A strong plan includes a control, random choice, fairness and a clear record.
 2. (mcq) A school tries a new reading method on its best readers and compares them with last year's class. What is the main problem?  
-   Options: The two groups were different from the start / Reading cannot be tested / The best readers are too few / Last year is too long ago  
+   Options: Reading cannot be tested / The two groups were different from the start / The best readers are too few / Last year is too long ago  
    **Answer:** The two groups were different from the start. *Why:* The best readers were already ahead, and last year's children may differ in other ways. A coin should split a single class into two groups.
 3. (perspective) Three people talk about John Snow and the cholera pump in 1854.  
    **Answer:** A strong answer sees that a map shows a pattern, and a comparison of like with like tests a cause. Charu's view joins the other two, though Anand overstates what a map alone can prove.. *Why:* Marks go for reasons and for being fair to the other views.
 4. (sort) Sort each question: could you settle it with a home experiment, or do you need another kind of evidence?  
    **Answer:** Does salt make a potato float? → Home experiment; What made the dinosaurs die out? → Other evidence; Do wrapped bananas ripen slower? → Home experiment; Was the Sun dimmer a million years ago? → Other evidence; Does music help bean seeds sprout? → Home experiment; Why did a city have a cholera outbreak in 1854? → Other evidence. *Why:* We can run tests on things we can reach and change. For the past or the very far away, scientists compare the best records they have.
 5. (mcq) An advert says: In a test, 8 out of 10 athletes ran faster after our drink. What is the main thing missing?  
-   Options: The names of the athletes / A group of athletes who ran without the drink / The colour of the drink / A picture of the track  
+   Options: The names of the athletes / The colour of the drink / A group of athletes who ran without the drink / A picture of the track  
    **Answer:** A group of athletes who ran without the drink. *Why:* Athletes often run faster the second time, because of warm-up and practice. Without a group that did not get the drink, we cannot tell what the drink did.
 6. (write) Children who sleep with the light on are more afraid of the dark. Say how the arrow could go the other way, and how you could find out which came first.  
    **Answer:** A strong answer says that children who are afraid of the dark may ask for the light to be left on. To find out which came first, ask parents when the fear began and when the light started to stay on.. *Why:* A strong answer sees that the fear may have come first and led to the light being left on.
@@ -593,7 +593,7 @@ That evening Uncle Basheer filled a cone with red syrup and held it out to her. 
 8. (match) Match each problem with its fix.  
    **Answer:** Too few tries → Do many more trials; The tester chose the groups → Let a coin choose; Tasters know which cup is posh → Make the test blind; The seller ran the test → Have someone else repeat it. *Why:* Each fix removes one way the evidence could be tilted.
 9. (mcq) In 200 coin flips, about how many times might you expect a run of four heads in a row to turn up?  
-   Options: Never / About ten times / Exactly 50 times / Only if the coin is bent  
+   Options: About ten times / Never / Exactly 50 times / Only if the coin is bent  
    **Answer:** About ten times. *Why:* Each flip is a possible start of a run. Four heads in a row has a chance of 1 in 16 from any start. With about 197 starts, that is about 12 runs. A fair coin does this without any help.
 10. (draw) Children who have more books at home do better at school. Draw a diagram with one or two hidden third things behind both.  
    **Answer:** Circles for books at home and school marks, with arrows from a third circle such as parents who read, family money or time at home, to both.. *Why:* A strong diagram puts a third thing behind the pair and does not draw an arrow from books to marks.
@@ -604,7 +604,7 @@ That evening Uncle Basheer filled a cone with red syrup and held it out to her. 
 13. (order) Put these in order, from the weakest evidence to the strongest.  
    **Answer:** ["A single person's story", 'A table of every case', 'A comparison with a control group', 'A group chosen by a coin, with nobody knowing who got what', 'Many such tests that agree']. *Why:* Each step removes another way to be fooled, and agreement from many tests removes the most.
 14. (mcq) A review finds that studies paid for by makers of a drug more often favoured the drug. What should a careful reader do?  
-   Options: Throw away all studies / Ask who paid for the study and look for independent tests that agree / Trust the study more / Ignore the review  
+   Options: Ask who paid for the study and look for independent tests that agree / Throw away all studies / Trust the study more / Ignore the review  
    **Answer:** Ask who paid for the study and look for independent tests that agree. *Why:* Who paid does not prove a study is wrong, but it is a reason to look for other tests by people who gain nothing from the answer.
 15. (write) Villages with more tractors have bigger rice harvests. Give a hidden third thing, and a way the arrow might go the other way.  
    **Answer:** A strong answer might say that villages with good irrigation or rich soil have big harvests and can also afford tractors. For the other way round, a big harvest brings money that buys tractors.. *Why:* A strong answer finds both a third thing and the reverse arrow.
@@ -618,7 +618,7 @@ That evening Uncle Basheer filled a cone with red syrup and held it out to her. 
 
 ## Quiz
 1. (mcq) What does a correlation tell you about two things?  
-   Options: That one causes the other / That they rise and fall together, but not why / That they are the same thing / That one is bigger than the other  
+   Options: That one causes the other / That they are the same thing / That they rise and fall together, but not why / That one is bigger than the other  
    **Answer:** That they rise and fall together, but not why. *Why:* A correlation is a real pattern. It is a clue about where to look. It does not say what causes what.
 2. (mcq) In Chennai, on days when more people carry umbrellas, auto fares are higher. What is the best explanation?  
    Options: Umbrellas make fares go up / Rain makes people carry umbrellas and also makes autos harder to find / Auto drivers dislike umbrellas / Fares make it rain  
@@ -630,25 +630,25 @@ That evening Uncle Basheer filled a cone with red syrup and held it out to her. 
    Options: The coin is not fair / This happens by chance about 1 set in 6, so it shows very little / Heads is luckier / The flipper wished for heads  
    **Answer:** This happens by chance about 1 set in 6, so it shows very little. *Why:* Seven or more heads in 10 flips comes up about 17 times in 100 sets from chance alone. It is too common to be a surprise.
 5. (mcq) Why does a total of 200 flips give a steadier picture than one set of 10 flips?  
-   Options: Because the coin warms up / Because over many flips the luck of single sets cancels out / Because 200 is a round number / Because later flips count more  
+   Options: Because the coin warms up / Because 200 is a round number / Because later flips count more / Because over many flips the luck of single sets cancels out  
    **Answer:** Because over many flips the luck of single sets cancels out. *Why:* In a small set, chance can swing far from half. In a large number of flips, the highs and lows balance out and the total settles near half.
 6. (mcq) Which is the best plan for testing whether wrapping a banana stalk slows ripening?  
-   Options: Wrap one banana and watch it / Ask a neighbour what they think / Wrap three bananas and leave three twins bare, using a coin to choose, and score all six each day / Wrap all the bananas in the shop  
+   Options: Wrap one banana and watch it / Ask a neighbour what they think / Wrap all the bananas in the shop / Wrap three bananas and leave three twins bare, using a coin to choose, and score all six each day  
    **Answer:** Wrap three bananas and leave three twins bare, using a coin to choose, and score all six each day. *Why:* You need twins from the same bunch, a control group left bare, and a coin to choose. That makes the two groups alike apart from the wrapping.
 7. (mcq) In a taste test, a coin decides which cup gets the fancy label. Why use a coin and not choose yourself?  
    Options: A coin is faster / Your own choice could tilt the test without you noticing / Coins are lucky / The label looks nicer on one side  
    **Answer:** Your own choice could tilt the test without you noticing. *Why:* If you choose, you may put the label on the cup you expect people to like. A coin has no preference, so the label goes on either side by chance.
 8. (mcq) A medicine test gives half the people a sugar pill that looks identical to the real one. Why?  
-   Options: To save money / So the effect of expecting to feel better can be told apart from the effect of the medicine / To trick the doctors / Because sugar is a medicine  
+   Options: So the effect of expecting to feel better can be told apart from the effect of the medicine / To save money / To trick the doctors / Because sugar is a medicine  
    **Answer:** So the effect of expecting to feel better can be told apart from the effect of the medicine. *Why:* Both groups expect to feel better. If the medicine group improves more than the sugar pill group, the extra is the effect of the medicine.
 9. (mcq) In a double-blind test, who does not know which people got the real treatment?  
-   Options: Only the people being tested / The people being tested and the people measuring / Only the scientist who designed it / Nobody keeps it secret  
+   Options: Only the people being tested / Only the scientist who designed it / The people being tested and the people measuring / Nobody keeps it secret  
    **Answer:** The people being tested and the people measuring. *Why:* If the testers know, a look or a word can give it away, and their hopes can change what they measure. When neither group knows, this cannot happen.
 10. (mcq) What is the most important thing to check on a bar chart before you trust the size of the gap?  
-   Options: The colours of the bars / Whether the side scale starts at zero / How many bars there are / Whether the bars are touching  
+   Options: The colours of the bars / How many bars there are / Whether the side scale starts at zero / Whether the bars are touching  
    **Answer:** Whether the side scale starts at zero. *Why:* If the scale starts above zero, the bottoms of the bars are cut off and a small gap can look large. The numbers on the side tell the truth.
 11. (mcq) A company says: Our own test shows our oil is the healthiest. What is the best next question?  
-   Options: What colour is the bottle? / Has anyone else tested it, and who paid for the test? / How much does it cost? / Is it advertised on TV?  
+   Options: What colour is the bottle? / How much does it cost? / Is it advertised on TV? / Has anyone else tested it, and who paid for the test?  
    **Answer:** Has anyone else tested it, and who paid for the test?. *Why:* A company gains if the answer is yes. Tests by others who gain nothing are stronger evidence.
 12. (mcq) In 1854, John Snow compared houses on the same streets that got water from two different companies. Why was this such strong evidence?  
    Options: The houses were alike in most ways except the water / The companies were large / The streets were famous / He drew a good map  
@@ -732,6 +732,9 @@ Who Else Is Standing There (sci.how-we-know.L4): Topic-level song
 - [A pack of small paper cups](https://www.amazon.in/s?k=small+paper+cups) (material): For the Fancy Label Cups taste test. A pack from any shop is enough. Used in a2. 
 - [A roll of kitchen aluminium foil](https://www.amazon.in/s?k=aluminium+foil+roll+kitchen) (material): To wrap the banana stalk ends in the Banana Test. Most kitchens already have one. Used in p1. 
 - [A graph paper notebook](https://www.amazon.in/s?k=graph+paper+notebook) (material): For the bar charts in the coin test and the Same Numbers, Two Charts activity. Used in e1, a3. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Lucky Coin: how often does chance alone look special?, Okra Pods: longer pods have more seeds. Which causes which?, Same Numbers, Two Charts: does the starting line fool us?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, a3, c1. Get it before The Lucky Coin: how often does chance alone look special?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Okra Pods: longer pods have more seeds. Which causes which?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e2. Get it before Okra Pods: longer pods have more seeds. Which causes which?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is a correlation? → Two things that rise and fall together.
@@ -752,7 +755,7 @@ Who Else Is Standing There (sci.how-we-know.L4): Topic-level song
 ## Sources
 - The founder's Fringe Science concept grid for Grades 3 and 4 (belief should track evidence, not desire; blinding, replication and the limits of peer review), used for the blind test, placebo and sneaky-trick cards.
 - The founder's True and False card game, used for the idea that a claim can sound true and still need checking. Its set of claims was not reused.
-- The Class 3 unit on questioning the evidence, which this unit builds on: says who, how do they know, who is missing. This unit adds patterns, chance and fair comparisons.
+- The Class 3 unit on questioning the evidence, which this lesson builds on: says who, how do they know, who is missing. This lesson adds patterns, chance and fair comparisons.
 - John Snow, On the Mode of Communication of Cholera, second edition, 1855
 - Peverill Squire, 'Why the 1936 Literary Digest poll failed', Public Opinion Quarterly, 1988
 - A. Hrobjartsson and P. C. Gotzsche, 'Placebo interventions for all clinical conditions', Cochrane Database of Systematic Reviews, 2010

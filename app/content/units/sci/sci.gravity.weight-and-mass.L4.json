@@ -156,7 +156,7 @@
    "concept": "A spring scale measures a pull, so the place matters",
    "status": "defined",
    "definition": "A spring scale measures the pull on its spring. On the Moon, the same mango is pulled only about one sixth as hard, so a spring scale shows only about one sixth of the weight.",
-   "description": "A spring scale does not compare the mango with a weight. It lets the mango stretch a spring, and reads the stretch. The stretch depends on how hard the mango is pulled down, which is its weight. On the Earth the pull on a 300-gram mango is about 3 newtons. On the Moon it is about 0.5 newtons. The mango has not lost any matter. The Moon simply pulls less. Many bathroom scales and kitchen scales also measure a push or a pull inside, then show a number in kilograms by assuming the Earth's pull. On the Moon, they would show about one sixth of the right mass.",
+   "description": "A spring scale does not compare the mango with a weight. It lets the mango stretch a spring, and reads the stretch. The stretch depends on how hard the mango is pulled down, which is its weight. On the Earth the pull on a 300-gram mango is about 3 newtons. On the Moon it is about 0.5 newtons. The mango has not lost any matter. The Moon simply pulls less. Many bathroom scales and kitchen scales also measure a push or a pull inside, then show a number in kilograms by assuming the Earth's pull. On the Moon, they would show about one sixth of the right mass. To read a spring scale well, first check that its pointer rests at zero, the mark it shows with nothing on the hook. Then hold the scale still, and read the number at eye level once the load stops swinging. A swinging load pulls harder and softer, so the pointer jumps about.",
    "examples": [
     "A hanging scale in a vegetable shop is a spring scale.",
     "A digital kitchen scale that shows 500 grams on Earth would show about 80 grams for the same bag on the Moon.",
@@ -695,11 +695,11 @@
       "t": "mcq",
       "q": "A balance shows a mango level with a 300-gram weight. On the Moon, what will the pans do?",
       "options": [
-       "Stay level, because both pans are pulled less by the same amount",
        "Tip towards the weight, because the Moon pulls less on the mango",
+       "Stay level, because both pans are pulled less by the same amount",
        "Float up, because there is no air"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Both pans lose the same fraction of their pull, so they stay level. Saying the pans tip towards the weight forgets that the weight is pulled less too."
      },
      "context": "In this step, you play a practice turn and learn how to pick a token."
@@ -732,11 +732,11 @@
       "t": "mcq",
       "q": "A bag has a mass of 10 kilograms. About what is its weight on Mars, where the pull is 3.7 newtons for each kilogram?",
       "options": [
-       "About 37 newtons",
        "About 3.7 newtons",
-       "About 98 newtons"
+       "About 98 newtons",
+       "About 37 newtons"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Weight is mass times the pull of the world. 10 times 3.7 is 37 newtons. Picking 98 uses the Earth's number. Picking 3.7 forgets to multiply by the mass."
      },
      "context": "In this step, you practise working out weight from mass on another world."
@@ -855,11 +855,11 @@
       "t": "mcq",
       "q": "Why do we read the pointer with the empty cup hanging, before any water goes in?",
       "options": [
-       "So that the stretch is the change from the starting reading",
        "So the cup can warm up",
-       "So the water does not spill"
+       "So the water does not spill",
+       "So that the stretch is the change from the starting reading"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The stretch is how much longer the band gets because of the load. We need the reading with no load to compare with. The empty cup has a small mass, which counts as the zero."
      },
      "context": "In this step, you hang the band and cup and read the starting position."
@@ -895,11 +895,11 @@
       "t": "mcq",
       "q": "What does a straight line through the zero mark mean?",
       "options": [
-       "Twice the load gives twice the stretch",
        "The band has broken",
+       "Twice the load gives twice the stretch",
        "The heavier loads stretch it less each time"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A straight line through zero means the stretch grows evenly with the load. If the line bends, the stretch grows by different amounts each time, which is common for rubber."
      },
      "context": "In this step, you draw the graph and look at its shape."
@@ -1031,11 +1031,11 @@
       "t": "mcq",
       "q": "The blob hung from a pin, and the thread hung from the same pin. What does the thread show?",
       "options": [
-       "The straight line down through the shape's centre of gravity",
        "The way north",
+       "The straight line down through the shape's centre of gravity",
        "The widest part of the shape"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A hanging shape swings until its centre of gravity is directly below the pin. The plumb line also points straight down from the pin. So the line you draw passes through the centre of gravity."
      },
      "context": "In this step, you hang the blob and draw its plumb lines."
@@ -1195,11 +1195,11 @@
       "t": "mcq",
       "q": "The sealed bag of ice has the same mass after it melts. What does this show?",
       "options": [
-       "Melting changes the ice into water, and no mass is lost",
        "Water is lighter than ice",
+       "Melting changes the ice into water, and no mass is lost",
        "The bag leaks a little"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Melting changes how the particles are arranged, not how many there are or how much each one weighs. So the mass stays the same."
      },
      "context": "In this step, you weigh a sealed bag of ice before and after it melts."
@@ -1216,11 +1216,11 @@
       "t": "mcq",
       "q": "The closed bottle weighs the same before and after the fizz, though a lot of gas appeared. What does this show?",
       "options": [
-       "The gas has mass, and none of it left the bottle",
        "Gas has no mass",
+       "The gas has mass, and none of it left the bottle",
        "The fizz makes no gas"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The bottle was closed, so everything stayed inside. The total mass did not change. The gas was made from the baking soda and the vinegar, and it weighs what they weighed."
      },
      "context": "In this step, a grown-up makes a closed fizzing bottle and you weigh it before and after."
@@ -1236,11 +1236,11 @@
       "t": "mcq",
       "q": "Baking soda fizzed in an open cup of vinegar, and the mass went down by 3 grams. Where did the 3 grams go?",
       "options": [
-       "Into carbon dioxide gas that floated away into the air",
        "They disappeared",
-       "They went into the scale"
+       "They went into the scale",
+       "Into carbon dioxide gas that floated away into the air"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The baking soda and vinegar made carbon dioxide. In the open cup, the gas drifted away, carrying its mass with it. Nothing disappeared. It moved."
      },
      "context": "In this step, you weigh an open cup of vinegar as baking soda fizzes in it."
@@ -1345,11 +1345,11 @@
       "t": "mcq",
       "q": "Why must the empty balance be level before we weigh anything?",
       "options": [
-       "So that level later means the two sides are equal",
        "So the cups look neat",
-       "So the ruler weighs nothing"
+       "So the ruler weighs nothing",
+       "So that level later means the two sides are equal"
       ],
-      "a": 0,
+      "a": 2,
       "why": "If the empty balance already leans, then a level balance later would not mean the two masses are equal. So we start from level."
      },
      "context": "In this step, you build the balance and make it level."
@@ -1385,11 +1385,11 @@
       "t": "mcq",
       "q": "With the cheating balance, the tomato weighed 90 grams on one side and 150 grams on the other. What is the best guess for its real mass?",
       "options": [
-       "About 120 grams, the average of the two",
        "90 grams, the smaller one",
+       "About 120 grams, the average of the two",
        "150 grams, the bigger one"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Unequal arms make the answer too small on one side and too big on the other. When you swap the pans, the errors go in opposite directions, so the average is close to the real mass."
      },
      "context": "In this step, you make the balance cheat and use the swap trick to catch it."
@@ -1473,11 +1473,11 @@
       "t": "mcq",
       "q": "A 1-kilogram bag on Mars pulls on your hand like a bag of about how much on Earth?",
       "options": [
-       "About 380 grams",
        "About 3.7 kilograms",
-       "About 1 kilogram"
+       "About 1 kilogram",
+       "About 380 grams"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Mars pulls about 3.7 newtons for each kilogram, and Earth about 9.8. The Mars bag feels like 3.7 divided by 9.8 of a kilogram, which is about 380 grams."
      },
      "context": "In this step, you make bags that feel like 1 kilogram on the Moon, Mars and Venus."
@@ -1865,11 +1865,11 @@
       "t": "mcq",
       "q": "The seedlings weigh much more fresh than the seeds weighed dry. Where did most of the extra mass come from?",
       "options": [
-       "Water, and a little from the air",
        "The soil, which got lighter",
-       "The pot"
+       "The pot",
+       "Water, and a little from the air"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A fresh seedling is mostly water. The soil lost very little mass. Most of the extra fresh mass is water, plus a small amount of solid stuff that the seedling made from the air and water."
      },
      "context": "In this step, you cut and weigh the fresh seedlings and start the drying."
@@ -1991,11 +1991,11 @@
       "t": "mcq",
       "q": "With the half, quarter, sixth pattern, the stack sticks out further than the equal-steps stack. Why?",
       "options": [
-       "Each box is placed exactly as far as its pile allows, so no box is wasted",
        "The boxes are lighter",
+       "Each box is placed exactly as far as its pile allows, so no box is wasted",
        "The table is stronger"
       ],
-      "a": 0,
+      "a": 1,
       "why": "In the equal-steps stack, some boxes are not pushed to their limit, and others have to be held back. The pattern puts each step at the limit set by the centre of gravity of the boxes above."
      },
      "context": "In this step, you build the smarter stack from the top down and measure the overhang."
@@ -2043,11 +2043,11 @@
    "t": "mcq",
    "p": "A shopkeeper's two-pan balance holds a mango and a 300-gram weight, and the pans are level on Earth. On the Moon, what will the pans do?",
    "opts": [
-    "Stay level",
     "The mango side will go down",
+    "Stay level",
     "The weight side will go down"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A balance compares two masses. The Moon pulls both pans by the same fraction, so they stay level.",
    "outcome": 0
   },
@@ -2061,6 +2061,18 @@
    ],
    "a": 0,
    "why": "The Moon pulls about one sixth as hard, so the scale shows about one sixth of 6, which is 1 newton. The bag's mass has not changed.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Why should you wait for a swinging mango to stop before you read a spring scale?",
+   "opts": [
+    "A swinging mango loses some of its mass",
+    "A swinging load pulls harder and softer, so the pointer jumps about and does not show a steady pull",
+    "The scale only works when it is still, and it breaks if it moves"
+   ],
+   "a": 1,
+   "why": "A spring scale shows the pull on its spring. When the mango swings, the pull changes from moment to moment, so the pointer jumps. A swinging mango keeps its mass. The scale does not break when it moves; it just gives an unsteady number.",
    "outcome": 0
   },
   {
@@ -2103,11 +2115,11 @@
    "t": "mcq",
    "p": "Which of these is the same on every world?",
    "opts": [
-    "The mass of a bag of rice",
     "The weight of the bag of rice",
-    "The reading of a spring scale"
+    "The reading of a spring scale",
+    "The mass of a bag of rice"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Mass is how much matter there is, and the bag carries all of it everywhere. Weight and a spring scale's reading depend on the pull of the world.",
    "outcome": 3
   },
@@ -2115,11 +2127,11 @@
    "t": "mcq",
    "p": "The plumb lines drawn on a cardboard ring cross in the middle of its hole. Where is the ring's centre of gravity?",
    "opts": [
-    "In the hole, where there is no cardboard",
     "On the cardboard nearest the pin",
+    "In the hole, where there is no cardboard",
     "It has no centre of gravity"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The pulls on all the crumbs of cardboard act as one pull at the crossing point, and for a ring, that is in the empty middle.",
    "outcome": 4
   },
@@ -2139,11 +2151,11 @@
    "t": "mcq",
    "p": "A bottle of vinegar and baking soda is sealed and weighed before and after it fizzes. Then the same mixture fizzes in an open cup, weighed before and after. What is the result?",
    "opts": [
-    "The sealed bottle keeps its mass, and the open cup loses some, as gas floats away",
     "Both keep their mass exactly",
-    "Both lose mass"
+    "Both lose mass",
+    "The sealed bottle keeps its mass, and the open cup loses some, as gas floats away"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Gas has mass. In the sealed bottle, it cannot leave. In the open cup, it floats away and the scale shows a drop.",
    "outcome": 6
   },
@@ -2151,11 +2163,11 @@
    "t": "mcq",
    "p": "Sugar is stirred into a cup of water until it cannot be seen. What happens to the mass of the cup and its contents?",
    "opts": [
-    "It stays the same",
     "It goes down, because the sugar has gone",
+    "It stays the same",
     "It goes up, because the sugar is wet"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Dissolving breaks the sugar into tiny pieces that spread through the water. They are still there and still weigh the same.",
    "outcome": 6
   },
@@ -2187,11 +2199,11 @@
    "t": "mcq",
    "p": "A homemade scale and a trusted scale give different answers for the same tomato. What should you do first?",
    "opts": [
-    "Check both against a known mass, such as a litre of water",
     "Trust the homemade scale, because you made it",
+    "Check both against a known mass, such as a litre of water",
     "Trust the shiny one, because it cost more"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Before you trust any scale, weigh something you already know. The one that disagrees with the known mass needs fixing.",
    "outcome": 1
   }
@@ -2207,11 +2219,11 @@
      "t": "mcq",
      "p": "A shopkeeper in Coimbatore balances a mango against a 250-gram weight on a two-pan balance, and the pans are level. The balance and both things are taken to the Moon. What happens?",
      "opts": [
-      "The pans stay level, because both pans are pulled less by the same amount",
       "The mango side goes down, because it is heavier",
+      "The pans stay level, because both pans are pulled less by the same amount",
       "The weight side goes down, because iron is heavy"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A balance compares two masses, and the Moon pulls both pans by the same fraction. So the pans stay level. The mango still has a mass of 250 grams on the Moon.",
      "outcome": 0
     },
@@ -2397,11 +2409,11 @@
      "t": "mcq",
      "p": "A steel bucket and a tall thin vase both stand on a table. Why is the bucket much harder to knock over?",
      "opts": [
-      "It has a wide base and a low centre of gravity",
       "It is made of steel, which is heavier than glass",
-      "It is closer to the table"
+      "It is closer to the table",
+      "It has a wide base and a low centre of gravity"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A thing topples when the line down from its centre of gravity passes the edge of its base. A wide base and a low centre of gravity make you tilt it much further first.",
      "outcome": 5
     },
@@ -2416,6 +2428,16 @@
      "a": 0,
      "why": "Dissolving breaks the sugar into tiny pieces, but they are still there. No mass is lost, so the total is 200 plus 20, which is 220 grams.",
      "outcome": 6
+    },
+    {
+     "t": "fill",
+     "p": "Before you read a spring scale, check that its pointer rests at ____ with nothing on the hook.",
+     "a": [
+      "zero",
+      "0",
+      "the zero mark"
+     ],
+     "why": "The zero mark is where the pointer rests with nothing hanging on the scale. If the pointer does not start there, every reading will be wrong by the same amount."
     }
    ]
   },
@@ -2429,11 +2451,11 @@
      "t": "mcq",
      "p": "Look at the graph of a rubber band's stretch. For each extra 100 grams, the stretch grew by 0.9, then 1.0, then 1.1, then 1.3, then 1.5 centimetres. What does this tell you?",
      "opts": [
-      "The band does not follow Hooke's law exactly, because each extra 100 grams stretched it a bit more than the one before",
       "The band is broken",
+      "The band does not follow Hooke's law exactly, because each extra 100 grams stretched it a bit more than the one before",
       "A rubber band is the same as a steel spring"
      ],
-     "a": 0,
+     "a": 1,
      "why": "For a perfect spring, every 100 grams would add the same stretch. These steps grow, so the dots curve upwards. Rubber bands often behave like this, which is why you must calibrate them.",
      "chart": {
       "type": "line",
@@ -2558,11 +2580,11 @@
      "t": "mcq",
      "p": "The plumb lines drawn on a cardboard crescent cross in the air beside it. What does this tell you?",
      "opts": [
-      "The centre of gravity is outside the crescent, in the hollow of its curve",
       "The crescent has no weight",
-      "The plumb line was crooked"
+      "The plumb line was crooked",
+      "The centre of gravity is outside the crescent, in the hollow of its curve"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The pulls on all the crumbs of cardboard add up to one pull at the point where the lines cross. For a crescent, that point is in the empty hollow.",
      "outcome": 4
     },
@@ -2578,11 +2600,11 @@
      "t": "mcq",
      "p": "A sealed bottle of vinegar and baking soda weighs the same before and after it fizzes. The same mixture in an open cup weighs 3 grams less afterwards. Why?",
      "opts": [
-      "In the open cup, the gas that was made floated away, taking its mass with it",
       "Baking soda has no mass",
+      "In the open cup, the gas that was made floated away, taking its mass with it",
       "The open cup is lighter than the bottle"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The fizz makes carbon dioxide gas, which has mass. In the closed bottle it stays in, so the total is the same. In the open cup, the gas escapes.",
      "outcome": 6
     },
@@ -2619,11 +2641,11 @@
      "t": "mcq",
      "p": "Surface rock is about 2.7 times as dense as water, and the whole Earth is about 5.4 times as dense. What does this tell us?",
      "opts": [
-      "The inside of the Earth must be much denser than the rock at the surface",
       "The Earth is hollow",
+      "The inside of the Earth must be much denser than the rock at the surface",
       "The surface rock is lighter than water"
      ],
-     "a": 0,
+     "a": 1,
      "why": "If the Earth were rock all the way through, its average density would be about 2.7. It is twice that, so the inside is made of something much heavier. We now know it is an iron core.",
      "outcome": 7
     },
@@ -2685,11 +2707,11 @@
      "t": "mcq",
      "p": "A lorry piled high with sacks is more likely to topple on a sharp bend than the same lorry with the sacks low. Why?",
      "opts": [
-      "The high load raises the centre of gravity, so a smaller tilt takes the line down from it outside the wheels",
       "The sacks are heavier when they are high",
-      "The wheels grip less when the load is high"
+      "The wheels grip less when the load is high",
+      "The high load raises the centre of gravity, so a smaller tilt takes the line down from it outside the wheels"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The same load weighs the same wherever it is. But a higher centre of gravity means the line down from it leaves the base after a smaller tilt, so the lorry topples more easily.",
      "outcome": 5
     }
@@ -2725,11 +2747,11 @@
      "t": "mcq",
      "p": "On which world would a 1-kilogram bag pull on your hand like a bag of 160 grams does on Earth?",
      "opts": [
-      "The Moon",
       "Mars",
-      "Jupiter"
+      "Jupiter",
+      "The Moon"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The Moon pulls with about 1.6 newtons for each kilogram. That is 1.6 divided by 9.8, which is about 0.16 of a kilogram, or 160 grams. Mars would be 380 grams, and Jupiter 2.5 kilograms.",
      "outcome": 3
     },
@@ -2774,11 +2796,11 @@
      "t": "mcq",
      "p": "A sealed bag of ice is weighed, then the ice melts in warm water, and the bag is dried and weighed again. What will the second weighing show?",
      "opts": [
-      "The same mass as the first",
       "Less mass, because ice is heavier than water",
+      "The same mass as the first",
       "More mass, because water is heavier than ice"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Melting changes how the particles are arranged, not how many there are. In a sealed bag, nothing can leave, so the mass is the same.",
      "outcome": 6
     },
@@ -3167,6 +3189,152 @@
     "e1"
    ],
    "why": "For the Rubber Band Scale. A wide, fresh band gives a clear stretch for each 100 grams. Thin or old bands stretch too far or snap. A packet from a stationery shop is enough."
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in How Heavy Is the Air in Our Room?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before How Heavy Is the Air in Our Room?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Rubber Band Scale: how does the stretch grow with the load?, Where Does It Balance? Finding the centre of gravity, Build a Balance, and catch a cheat. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e2",
+    "a1",
+    "a3",
+    "a4",
+    "c1"
+   ],
+   "plan": "Get it before The Rubber Band Scale: how does the stretch grow with the load?."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Where Does It Balance? Finding the centre of gravity. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before Where Does It Balance? Finding the centre of gravity."
+  },
+  {
+   "id": "b-cotton-wool",
+   "item": "Cotton wool",
+   "kind": "material",
+   "why": "Used in Heavy for Its Size: same jar, different mass. About ₹20 to ₹50. Torn clean cloth works.",
+   "url": "https://www.amazon.in/s?k=cotton+wool+roll",
+   "used_in": [
+    "a4"
+   ],
+   "plan": "Get it before Heavy for Its Size: same jar, different mass."
+  },
+  {
+   "id": "b-baking-soda",
+   "item": "Baking soda",
+   "kind": "material",
+   "why": "Used in Where Does the Mass Go? Weighing before and after. About ₹20 to ₹40. Check the kitchen first.",
+   "url": "https://www.amazon.in/s?k=baking+soda",
+   "used_in": [
+    "e3"
+   ],
+   "plan": "Get it before Where Does the Mass Go? Weighing before and after."
+  },
+  {
+   "id": "b-vinegar",
+   "item": "Vinegar",
+   "kind": "material",
+   "why": "Used in Where Does the Mass Go? Weighing before and after. About ₹40 to ₹80. Lemon juice works for many tests.",
+   "url": "https://www.amazon.in/s?k=white+vinegar",
+   "used_in": [
+    "e3"
+   ],
+   "plan": "Get it before Where Does the Mass Go? Weighing before and after."
+  },
+  {
+   "id": "b-clean-sand--a-small-bag",
+   "item": "Clean sand (a small bag)",
+   "kind": "material",
+   "why": "Used in Heavy for Its Size: same jar, different mass. About ₹20 to ₹60. Fine soil sieved from a pot works.",
+   "url": "https://www.amazon.in/s?k=play+sand+small+bag",
+   "used_in": [
+    "a4"
+   ],
+   "plan": "Get it before Heavy for Its Size: same jar, different mass."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in Van Helmont's Pot: where does a plant's mass come from?. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before Van Helmont's Pot: where does a plant's mass come from?."
+  },
+  {
+   "id": "b-a-measuring-jug-or-syringe--",
+   "item": "A measuring jug or syringe (marked in millilitres)",
+   "kind": "tool",
+   "why": "Used in The Rubber Band Scale: how does the stretch grow with the load?, Where Does the Mass Go? Weighing before and after, Build a Balance, and catch a cheat. About ₹30 to ₹100. A clean medicine cup or marked bottle works.",
+   "url": "https://www.amazon.in/s?k=measuring+jug+500+ml",
+   "used_in": [
+    "e1",
+    "e3",
+    "a1",
+    "a2"
+   ],
+   "plan": "Get it before The Rubber Band Scale: how does the stretch grow with the load?."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in Where Does the Mass Go? Weighing before and after. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "e3"
+   ],
+   "plan": "Get it before Where Does the Mass Go? Weighing before and after."
+  },
+  {
+   "id": "b-iron-nails-or-iron-filings",
+   "item": "Iron nails or iron filings",
+   "kind": "material",
+   "why": "Used in The Rubber Band Scale: how does the stretch grow with the load?, Where Does It Balance? Finding the centre of gravity, Where Does the Mass Go? Weighing before and after. About ₹20 to ₹80. Short steel nails from a hardware shop.",
+   "url": "https://www.amazon.in/s?k=iron+filings+science",
+   "used_in": [
+    "e1",
+    "e2",
+    "e3",
+    "a1"
+   ],
+   "plan": "Get it before The Rubber Band Scale: how does the stretch grow with the load?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

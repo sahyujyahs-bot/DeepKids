@@ -1,0 +1,14 @@
+# Escape Gravity Board Game / Region & Tile Count (copied from Google Sheets, 2026-11-27)
+R1: Region Name | Count Of Tiles 
+R2: Core | 1
+R3: Mantle | 4
+R4: Crust | 5
+R5: Surface | 8
+R6: Troposphere | 6
+R7: Stratosphere | 7
+R8: Mesosphere | 9
+R9: Thermosphere | 6
+R10: Leo Ring - ISS | 1
+R11: Thermosphere | 2
+R12: Exosphere | 6
+R13: Lagrange Points | 4 | (sun earth -2, moon earth 2)

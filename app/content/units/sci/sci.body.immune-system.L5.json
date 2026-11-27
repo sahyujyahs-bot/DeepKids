@@ -324,6 +324,17 @@
    "art": "Two children sharing a tiffin box and laughing in a school yard, with small ticks beside drawings of a hug, a shared tumbler and a mosquito."
   },
   {
+   "concept": "Preventing HIV: what stops it passing on",
+   "status": "defined",
+   "definition": "Preventing HIV means stopping the virus from getting from one person's blood or body fluids into another person's body.",
+   "description": "Condoms protect during sex between grown-ups, because they keep body fluids from passing from one partner to the other. A new, single-use needle is used for each injection, so that no blood passes from one person to another. Blood for a transfusion is tested for HIV before it is given, so a patient does not catch the virus from a donor. A free HIV test is given in government hospitals, so a person can know early and start treatment. Early treatment also protects a partner, as explained above.",
+   "examples": [
+    "A blood bank tests every unit of donated blood for HIV before a patient receives it."
+   ],
+   "perspectives": [],
+   "art": "Four simple items in a row, each with a tick: a condom, a single-use needle, a drop of blood labelled tested, and a hospital door with a free-test sign."
+  },
+  {
    "concept": "Onesimus, the tikadars and Jenner: protection before anyone knew of antibodies",
    "status": "defined",
    "definition": "Inoculation meant putting a little matter from a smallpox blister into a scratch on a healthy person. The person usually had a mild illness and was then protected for life. People in Africa, India, China and Turkey did this long before Europe did.",
@@ -721,11 +732,11 @@
       "t": "mcq",
       "q": "A katori was made by weakening a red sample 256 times. It stays yellow. What does that show?",
       "options": [
-       "It holds some, but too little for the test",
        "The turmeric has stopped working",
-       "It holds no washing powder at all"
+       "It holds no washing powder at all",
+       "It holds some, but too little for the test"
       ],
-      "a": 0,
+      "a": 2,
       "why": "You made that katori from the red sample, so some washing powder must be in it. There is too little to change the turmeric. A real blood test has the same limit in the first weeks of an infection. Picking 'none at all' means trusting the test more than what you know you put in."
      },
      "parent": "This is the main point of the test. A 'no' from a test means 'not enough to find', which is different from 'none'.",
@@ -914,10 +925,10 @@
       "q": "After a firm stroke, a mark appears later and spreads wider than the stroke. What does this show?",
       "options": [
        "The spoon left colour on the skin",
-       "The skin answered with chemicals that spread",
-       "The skin was badly damaged"
+       "The skin was badly damaged",
+       "The skin answered with chemicals that spread"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The delay and the spreading show that the body is acting. The usual explanation is that pressure makes mast cells in the skin release a little histamine. The histamine widens the small blood vessels nearby. Picking 'the spoon left colour' misses that the mark came after the spoon had gone."
      },
      "parent": "The explanation, to give only after your child's own idea: the skin holds mast cells packed with histamine. Firm pressure makes some of them release a little. Histamine widens small blood vessels, which gives the colour, and makes them leaky, which gives the swelling. The doctor Thomas Lewis studied this in London in the 1920s. An allergy uses the same cells and the same chemical. The difference is the trigger, which in an allergy is IgE meeting an allergen.",
@@ -1067,11 +1078,11 @@
       "t": "mcq",
       "q": "What can an antibody with two arms do that an antibody with one arm cannot?",
       "options": [
+       "Join two germs together",
        "Fit two different kinds of germ",
-       "Kill a germ by squeezing",
-       "Join two germs together"
+       "Kill a germ by squeezing"
       ],
-      "a": 2,
+      "a": 0,
       "why": "Two arms let one antibody hold two germs, so many antibodies tie many germs into a clump. The two tips are the same, so they fit the same kind of germ. Picking 'kill' treats the antibody as a weapon, but it only holds."
      },
      "parent": "Real clumping is called agglutination. Doctors use it to find a person's blood group.",
@@ -1555,10 +1566,10 @@
       "q": "A child sneezes whenever she meets cat hair. What is her immune system doing?",
       "options": [
        "It is too weak to fight cat germs",
-       "It is answering something harmless",
-       "It is attacking her own nose"
+       "It is attacking her own nose",
+       "It is answering something harmless"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Proteins on cat hair are harmless, and her body answers them with IgE and histamine. That is an allergy. Her defence is not weak. It is aimed at the wrong thing."
      },
      "context": "This is the last step of Right Target, Wrong Target or Too Weak? Here you count the points and ask whether stronger always means better."
@@ -2103,10 +2114,10 @@
      "p": "Which cells does HIV infect and destroy?",
      "opts": [
       "Red blood cells",
-      "Helper T cells",
-      "Skin cells"
+      "Skin cells",
+      "Helper T cells"
      ],
-     "a": 1,
+     "a": 2,
      "why": "HIV fits a molecule called CD4 on helper T cells. These cells switch the rest of the defence on, so losing them weakens everything.",
      "outcome": 5
     },
@@ -2115,10 +2126,10 @@
      "p": "Which of these can pass HIV from one person to another?",
      "opts": [
       "A mosquito bite",
-      "Sharing a tumbler",
-      "A reused injection needle"
+      "A reused injection needle",
+      "Sharing a tumbler"
      ],
-     "a": 2,
+     "a": 1,
      "why": "HIV passes in blood, so a reused needle can carry the virus. HIV does not pass through shared tumblers or mosquitoes.",
      "outcome": 5
     },
@@ -2159,10 +2170,10 @@
      "p": "Why does an antibody have two matching tips?",
      "opts": [
       "To fit two different kinds of germ",
-      "To cut a germ in half",
-      "To hold two germs, or one germ twice"
+      "To hold two germs, or one germ twice",
+      "To cut a germ in half"
      ],
-     "a": 2,
+     "a": 1,
      "why": "Two matching tips let one antibody join two germs into a clump, or grip one germ firmly in two places. The tips are the same, so they fit the same antigen.",
      "outcome": 0,
      "how": "a2"
@@ -2217,11 +2228,11 @@
      "t": "mcq",
      "p": "What does histamine do to small blood vessels?",
      "opts": [
-      "Makes them wider and leaky",
       "Makes them narrower",
-      "Blocks them completely"
+      "Blocks them completely",
+      "Makes them wider and leaky"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Histamine widens small blood vessels and makes them leaky, so fluid moves into the skin or the nose lining. That gives redness, swelling and a runny nose.",
      "outcome": 3,
      "how": "e2"
@@ -2240,10 +2251,10 @@
      "p": "What happens in the thymus to a young T cell whose receptor fits a body protein strongly?",
      "opts": [
       "That T cell becomes a B cell",
-      "That T cell is removed",
-      "That T cell is copied many times"
+      "That T cell is copied many times",
+      "That T cell is removed"
      ],
-     "a": 1,
+     "a": 2,
      "why": "A T cell who fits the body would attack the body, so the thymus gives that cell a signal to die. Choosing 'copied' is what happens later to a T cell who fits a germ.",
      "outcome": 4,
      "how": "g2"
@@ -2315,10 +2326,10 @@
      "p": "Why are three HIV medicines given together?",
      "opts": [
       "Each one treats a different illness",
-      "One tablet is too small to work",
-      "A virus resisting all three is very unlikely"
+      "A virus resisting all three is very unlikely",
+      "One tablet is too small to work"
      ],
-     "a": 2,
+     "a": 1,
      "why": "HIV changes fast, so a virus who resists one medicine soon appears. A virus who resists three different medicines at once is very unlikely.",
      "outcome": 5
     },
@@ -2359,6 +2370,31 @@
      "a": 0,
      "why": "Cowpox virus is closely related to smallpox virus, so antibodies against one fit the other. But cowpox is mild in humans, so nobody died of the protection. Inoculation used real smallpox, and a few people died of it.",
      "outcome": 6
+    },
+    {
+     "t": "match",
+     "p": "Match each protection to the way HIV would otherwise pass.",
+     "pairs": [
+      [
+       "a condom",
+       "body fluids passing between partners in sex"
+      ],
+      [
+       "a single-use needle",
+       "blood left in a needle used by another person"
+      ],
+      [
+       "tested blood for a transfusion",
+       "HIV passing from a donor to a patient"
+      ],
+      [
+       "a free HIV test",
+       "HIV going unnoticed, so treatment starts late"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each protection blocks one way that the blood or body fluids of one person could reach another. An early test lets treatment start sooner.",
+     "outcome": 5
     }
    ]
   },
@@ -2373,10 +2409,10 @@
      "p": "How does the tip of an antibody hold an antigen?",
      "opts": [
       "By tiny hooks that pierce it",
-      "By many weak attractions between atoms",
-      "By one strong chemical bond"
+      "By one strong chemical bond",
+      "By many weak attractions between atoms"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Many weak attractions act together where the shapes and electric charges match. No strong bond forms, which is why a close fit matters and why the antibody can let go.",
      "outcome": 0
     },
@@ -2529,10 +2565,10 @@
      "p": "One of eight samples is positive. You mix four and test the mixture. What does the result tell you?",
      "opts": [
       "Nothing useful at all",
-      "Which half holds the positive sample",
-      "Exactly which sample is positive"
+      "Exactly which sample is positive",
+      "Which half holds the positive sample"
      ],
-     "a": 1,
+     "a": 2,
      "why": "If the mixture is positive, the positive sample is one of those four. If it is negative, it is one of the other four. One test has halved the search.",
      "outcome": 7,
      "how": "c2"
@@ -2577,11 +2613,11 @@
    "t": "mcq",
    "p": "Which cells keep releasing antibodies for years after an infection is over?",
    "opts": [
-    "Mast cells in the skin",
     "Plasma cells in the bone marrow",
+    "Mast cells in the skin",
     "Red blood cells"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Long-lived plasma cells in the bone marrow keep making fresh antibodies. Mast cells hold IgE on their surface but do not make antibodies.",
    "outcome": 1
   },
@@ -2590,10 +2626,10 @@
    "p": "What does an antibody test look for in a person's blood?",
    "opts": [
     "The living germ",
-    "Damaged red blood cells",
-    "Antibodies the body made against the germ"
+    "Antibodies the body made against the germ",
+    "Damaged red blood cells"
    ],
-   "a": 2,
+   "a": 1,
    "why": "The test finds the body's answer to the germ. That is why it can show an infection from long ago, and why it can miss one from last week.",
    "outcome": 2,
    "how": "e1"
@@ -2622,10 +2658,10 @@
    "p": "Why does a baby's first mosquito bite usually leave no bump?",
    "opts": [
     "Babies have no mast cells",
-    "The baby has no IgE against saliva yet",
-    "Mosquito saliva cannot enter a baby's skin"
+    "Mosquito saliva cannot enter a baby's skin",
+    "The baby has no IgE against saliva yet"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A bump is the body's answer to mosquito saliva, and it needs IgE made after an earlier bite. At the first bite there is none yet.",
    "outcome": 3,
    "how": "a1"
@@ -2634,11 +2670,11 @@
    "t": "mcq",
    "p": "In an autoimmune disease, what does the immune system attack?",
    "opts": [
+    "Part of the person's own body",
     "A harmless food or pollen",
-    "A virus hiding in the body",
-    "Part of the person's own body"
+    "A virus hiding in the body"
    ],
-   "a": 2,
+   "a": 0,
    "why": "'Auto' means self. The defence attacks the person's own cells, such as the insulin-making cells in type 1 diabetes. Choosing 'a harmless food' describes an allergy.",
    "outcome": 4
   },
@@ -2679,13 +2715,25 @@
    "p": "844 of 5,759 people died in one group, and 6 of 247 in another. What is the fair comparison?",
    "opts": [
     "The two numbers of deaths",
-    "The two sizes of the groups",
-    "Deaths out of every 100 in each group"
+    "Deaths out of every 100 in each group",
+    "The two sizes of the groups"
    ],
-   "a": 2,
+   "a": 1,
    "why": "The groups are very different in size, so the counts cannot be compared directly. Working out deaths in every 100 gives about 15 and about 2.",
    "outcome": 7,
    "how": "a3"
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these stops HIV passing through blood from one person to another?",
+   "opts": [
+    "Washing the tumbler after a friend uses it",
+    "Using a new, single-use needle every time",
+    "Wearing a mask in class"
+   ],
+   "a": 1,
+   "why": "A single-use needle carries no blood from another person. Washing a tumbler and wearing a mask do nothing against HIV, because HIV does not pass through a tumbler or the air.",
+   "outcome": 5
   }
  ],
  "videos": [
@@ -3006,6 +3054,80 @@
     "g1"
    ],
    "plan": "After the Titre Test, look at the pictures of antibodies and B cells together. After the game Right Target, Wrong Target or Too Weak?, read the chapters on allergy and autoimmune disease aloud, a few pages at a time."
+  },
+  {
+   "id": "b-a-magnifying-glass",
+   "item": "A magnifying glass",
+   "kind": "tool",
+   "why": "Used in The Label Hunt: find the allergens in your kitchen. About ₹30 to ₹120. A water drop on clear plastic magnifies a little.",
+   "url": "https://www.amazon.in/s?k=magnifying+glass+kids",
+   "used_in": [
+    "a5"
+   ],
+   "plan": "Get it before The Label Hunt: find the allergens in your kitchen."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Red Line Test: what does your skin do after one firm stroke?, The Bite Survey: who makes the biggest mosquito bump?, Boylston's Count: was inoculation safer than catching smallpox?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e2",
+    "a1",
+    "a3",
+    "a4"
+   ],
+   "plan": "Get it before The Red Line Test: what does your skin do after one firm stroke?."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Hugs Are Safe: a true-or-false poster about how HIV spreads. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before Hugs Are Safe: a true-or-false poster about how HIV spreads."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in The Helper Count: a bean model of HIV, with and without medicine. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "a4"
+   ],
+   "plan": "Get it before The Helper Count: a bean model of HIV, with and without medicine."
+  },
+  {
+   "id": "b-graph-paper",
+   "item": "Graph paper",
+   "kind": "material",
+   "why": "Used in Boylston's Count: was inoculation safer than catching smallpox?, The Helper Count: a bean model of HIV, with and without medicine. About ₹10 to ₹30. Draw squares on plain paper.",
+   "url": "https://www.amazon.in/s?k=graph+paper+notebook",
+   "used_in": [
+    "a3",
+    "a4"
+   ],
+   "plan": "Get it before Boylston's Count: was inoculation safer than catching smallpox?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

@@ -260,7 +260,8 @@
    "examples": [
     "Birds eat caterpillars. Young lime caterpillars are brown and white, like bird droppings, so birds leave them alone.",
     "Older lime caterpillars are green, the colour of the leaves they eat.",
-    "A grown butterfly does not grow any more. They drink nectar, find a mate and lay eggs."
+    "A grown butterfly does not grow any more. They drink nectar, find a mate and lay eggs.",
+    "A honey bee follows the same four stages. The queen lays an egg in a wax cell, and worker bees feed the larva until it is sealed in its cell as a pupa."
    ],
    "perspectives": [],
    "art": "A circle: a tiny egg on a curry leaf, a brown-and-white caterpillar, a green caterpillar, a green chrysalis on a stem, a black-and-yellow lime butterfly.",
@@ -288,7 +289,8 @@
    "examples": [
     "Just grows: hen, cow, snake, crocodile, human.",
     "Egg, nymph, adult: grasshopper, cockroach, dragonfly.",
-    "Egg, larva, pupa, adult: butterfly, silkworm moth, mosquito, ladybird, honeybee."
+    "Egg, larva, pupa, adult: butterfly, silkworm moth, mosquito, ladybird, honeybee.",
+    "Beetles, such as the Indian rhinoceros beetle, hatch as a grub (a larva) in soil or rotting wood, rest as a pupa, and then come out as adults."
    ],
    "perspectives": [],
    "art": "Three rows: a chick growing into a hen. A small wingless grasshopper growing into a winged one. A caterpillar, chrysalis and butterfly.",
@@ -752,11 +754,11 @@
       "t": "mcq",
       "q": "In a hen's life cycle, what comes straight after the egg?",
       "options": [
-       "A chick",
        "A larva",
+       "A chick",
        "A tadpole"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A chick hatches straight out of the egg. They already look like a small, fluffy hen, so a hen has no larva and no tadpole. Picking 'larva' usually means thinking every animal changes shape. Only some do, like butterflies and mosquitoes."
      },
      "parent": "The four hen cards show the egg in a nest, the chick hatching, the chick growing and the hen laying an egg. A hen has three stages: egg, chick and adult. The last card shows that the adult starts the cycle again."
@@ -779,11 +781,11 @@
       "t": "mcq",
       "q": "Which animal has a pupa, a resting stage, in their life cycle?",
       "options": [
-       "Grasshopper",
        "Mosquito",
+       "Grasshopper",
        "Hen"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A mosquito has four stages: egg, wriggler, tumbler and adult. The tumbler is their pupa. A grasshopper has no pupa. Their young are nymphs that grow wings slowly. Picking 'grasshopper' usually means thinking all insects grow up the same way."
      }
     },
@@ -944,12 +946,12 @@
      "t": "mcq",
      "p": "A big caterpillar on a curry leaf plant stops eating, hangs very still from a twig and holds on with silk. Predict: what is about to happen?",
      "opts": [
-      "Their skin splits, and a chrysalis forms underneath",
       "They are about to die of hunger",
       "They will lay eggs",
-      "They are asleep and will wake up as the same caterpillar"
+      "They are asleep and will wake up as the same caterpillar",
+      "Their skin splits, and a chrysalis forms underneath"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A caterpillar stops eating and hangs still just before the chrysalis stage. Inside, the body gets ready to be rebuilt into a butterfly. Picking 'lay eggs' is a mix-up. Only the adult butterfly lays eggs."
     },
     {
@@ -966,6 +968,18 @@
      "context": "A mosquito has four stages. The young that live in water are called wrigglers. The resting stage, which is the pupa, is called a tumbler."
     },
     {
+     "t": "order",
+     "p": "Put the stages of a honey bee in order: adult, pupa, egg, larva.",
+     "items": [
+      "egg",
+      "larva",
+      "pupa",
+      "adult"
+     ],
+     "a": "order shown",
+     "why": "A honey bee starts as an egg in a wax cell. The larva is fed until it is sealed in its cell. The pupa then becomes an adult bee."
+    },
+    {
      "t": "write",
      "p": "Why do we draw a life cycle as a circle, and not as a straight line?",
      "lines": 3,
@@ -976,12 +990,12 @@
      "t": "mcq",
      "p": "Which stage of a butterfly does most of the eating?",
      "opts": [
-      "The caterpillar",
       "The chrysalis",
+      "The caterpillar",
       "The egg",
       "The butterfly"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The caterpillar eats leaves all day and grows fast. The chrysalis does not eat at all. The butterfly only sips nectar. Picking 'the butterfly' is a common guess, because that is the stage we see most."
     },
     {
@@ -1137,12 +1151,12 @@
      "t": "mcq",
      "p": "Which part of a hen's egg gives the chick their first breath of air before hatching?",
      "opts": [
-      "The air pocket at the round end",
       "The yolk",
       "The twisted cords",
+      "The air pocket at the round end",
       "The white"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Two skins under the shell come apart at the round end, making an air pocket. Just before hatching, the chick pokes their beak in and starts breathing with their lungs. Picking 'the white' is a natural guess, because the white is clear. But the white is mostly water, not air.",
      "how": "a1",
      "context": "In Open an Egg like a Scientist, you cracked an egg and found all its parts."
@@ -1151,12 +1165,12 @@
      "t": "mcq",
      "p": "Look at this chart of one tadpole's tail length. What happened to the tail?",
      "opts": [
-      "It grew, then shrank a little at a time",
       "It fell off in one go on day 30",
+      "It grew, then shrank a little at a time",
       "It stayed the same",
       "It grew all the time"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The line goes up to 18 millimetres by day 20, then comes down step by step: 14, 8, then 2. A tail that fell off would drop to zero in one step. Picking 'fell off in one go' is what most people expect, before they measure.",
      "how": "e3",
      "context": "In Tadpole Watch, children measured a tadpole's tail every few days. These numbers are made up, to show the pattern.",
@@ -1244,6 +1258,12 @@
      ],
      "a": "see items",
      "why": "Butterflies, mosquitoes and bees have a pupa stage. Grasshoppers, cockroaches and dragonflies do not. Their nymphs grow wings slowly."
+    },
+    {
+     "t": "truefalse",
+     "p": "A beetle's grub turns into an adult without a pupa stage.",
+     "a": false,
+     "why": "False. A beetle goes through a pupa stage, like a butterfly. A grasshopper or cockroach skips it and goes from nymph to adult."
     },
     {
      "t": "truefalse",
@@ -1398,11 +1418,11 @@
      "t": "mcq",
      "p": "Some bush frogs in the Western Ghats lay their eggs on wet leaves, far from any pond. Predict: what hatches from these eggs?",
      "opts": [
-      "A tiny froglet. The tadpole stage happens inside the egg",
       "A tadpole, who then crawls to a pond",
+      "A tiny froglet. The tadpole stage happens inside the egg",
       "Nothing, because frog eggs must be in water"
      ],
-     "a": 0,
+     "a": 1,
      "why": "These bush frogs skip the free-swimming tadpole. The young grows through the tadpole stage inside the egg, and a tiny froglet hatches. Picking 'nothing' is a fair first guess, because most frog eggs need ponds."
     },
     {
@@ -1455,11 +1475,11 @@
      "t": "mcq",
      "p": "In the 1600s, many people thought caterpillars grew out of rotting leaves or mud. Maria Sibylla Merian watched caterpillars for years and painted each one with the plant they ate. What did her careful watching show?",
      "opts": [
-      "Each caterpillar hatches from an egg laid by a butterfly or moth on their own food plant",
       "Butterflies grow out of flowers",
-      "Caterpillars never eat"
+      "Caterpillars never eat",
+      "Each caterpillar hatches from an egg laid by a butterfly or moth on their own food plant"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Merian raised caterpillars and recorded every stage, from egg to adult, with their food plant. This helped show that small animals come from eggs, not from mud. Picking 'flowers' mixes up where butterflies feed with where they come from."
     },
     {
@@ -2022,11 +2042,11 @@
       "t": "mcq",
       "q": "In Tadpole Watch, which legs does a tadpole grow first?",
       "options": [
-       "The back legs",
        "The front legs",
-       "All four at the same time"
+       "All four at the same time",
+       "The back legs"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The back legs grow first, near the tail. The front legs grow hidden under the skin, and pop out later. Picking 'front legs' is a natural guess, because the front is where the head is. Picking 'all four' usually means you haven't seen the front legs hiding yet."
      }
     },
@@ -2163,11 +2183,11 @@
       "t": "mcq",
       "q": "In Open an Egg like a Scientist, which part of the egg is food for a growing chick?",
       "options": [
-       "The yolk",
        "The twisted white cords",
-       "The shell"
+       "The shell",
+       "The yolk"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The yolk is a big ball of food. Over 21 days, a growing chick slowly uses up the yolk. Picking 'the twisted cords' is a common mix-up. They look a bit like something alive, but they are just ropes that hold the yolk in the middle."
      }
     },
@@ -2259,11 +2279,11 @@
       "t": "mcq",
       "q": "On the butterfly wheel, which stage comes between the caterpillar and the butterfly?",
       "options": [
-       "The chrysalis",
        "The egg",
+       "The chrysalis",
        "The tadpole"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The caterpillar makes a chrysalis, and the butterfly comes out of the chrysalis. Picking 'egg' usually means thinking the butterfly hatches straight from an egg, like a chick. A tadpole belongs to the frog's wheel."
      }
     },
@@ -2345,11 +2365,11 @@
       "t": "mcq",
       "q": "Why does a caterpillar wriggle out of their skin?",
       "options": [
-       "Their old skin is too tight because they have grown",
        "They are cold",
-       "They are turning into a butterfly already"
+       "They are turning into a butterfly already",
+       "Their old skin is too tight because they have grown"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A caterpillar's skin does not stretch much. So they grow a new, bigger skin underneath and wriggle out of the old one. This is called moulting. Picking 'turning into a butterfly' mixes up moulting with metamorphosis. A caterpillar moults several times and is still a caterpillar."
      }
     },
@@ -2529,11 +2549,11 @@
       "t": "mcq",
       "q": "On the Curry Leaf Hunt, why does a young lime caterpillar look like a bird dropping?",
       "options": [
-       "So birds don't want to eat them",
        "Because they are dirty",
+       "So birds don't want to eat them",
        "Because they are sick"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Birds eat caterpillars, but they don't eat bird droppings. Looking like a dropping keeps the young caterpillar safe. Picking 'dirty' or 'sick' means judging by how they look to us. To a bird, that look means 'not food'."
      }
     },
@@ -2794,11 +2814,11 @@
       "t": "mcq",
       "q": "In Raise a Lime Butterfly, the caterpillar went from brown and white to green after a moult. Are they still a caterpillar?",
       "options": [
-       "Yes, they moulted but they are still a caterpillar",
        "No, they are now a chrysalis",
-       "No, this is a different caterpillar"
+       "No, this is a different caterpillar",
+       "Yes, they moulted but they are still a caterpillar"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Moulting is shedding a skin to grow. A caterpillar moults four times and stays a caterpillar. Only their last moult makes the chrysalis. Picking 'a different caterpillar' is a fair guess, because they look so different. But you have watched them the whole time, so you know."
      }
     },
@@ -2913,11 +2933,11 @@
       "t": "mcq",
       "q": "In the Egg Lift, why does wrapping the egg in something soft help?",
       "options": [
-       "It slows the egg down gently",
        "It makes the egg lighter",
-       "It makes the shell thicker"
+       "It makes the shell thicker",
+       "It slows the egg down gently"
       ],
-      "a": 0,
+      "a": 2,
       "why": "When the box hits the floor, the soft wrapping squashes. That stops the egg slowly, not all at once, so the shell isn't hit so hard. Picking 'lighter' is a natural guess, but the egg weighs the same. What changes is how quickly it stops."
      }
     },
@@ -2995,11 +3015,11 @@
       "t": "mcq",
       "q": "What do lime butterfly caterpillars eat?",
       "options": [
-       "Curry leaf, lemon or orange leaves",
        "Nectar from flowers",
+       "Curry leaf, lemon or orange leaves",
        "Nothing, they don't eat"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Lime butterfly caterpillars can only eat leaves from the citrus family, which includes curry leaf. Picking 'nectar' mixes up the caterpillar with the adult. Adults drink nectar. Caterpillars chew leaves."
      }
     },
@@ -3064,11 +3084,11 @@
    "t": "mcq",
    "p": "Which is the right order for a frog?",
    "opts": [
-    "Frogspawn, tadpole, froglet, frog",
     "Tadpole, frogspawn, frog, froglet",
-    "Frog, tadpole, frogspawn, froglet"
+    "Frog, tadpole, frogspawn, froglet",
+    "Frogspawn, tadpole, froglet, frog"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Frogspawn hatches into tadpoles, which grow legs and become froglets, then frogs. The other orders mix up which stage makes which.",
    "outcome": 0
   },
@@ -3076,11 +3096,11 @@
    "t": "mcq",
    "p": "Which is the right order for a butterfly?",
    "opts": [
-    "Egg, caterpillar, chrysalis, butterfly",
     "Egg, chrysalis, caterpillar, butterfly",
-    "Caterpillar, egg, butterfly, chrysalis"
+    "Caterpillar, egg, butterfly, chrysalis",
+    "Egg, caterpillar, chrysalis, butterfly"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The caterpillar hatches from the egg and later makes the chrysalis. Picking 'egg, chrysalis, caterpillar' puts the chrysalis before the caterpillar. But the chrysalis forms from the caterpillar, so the caterpillar must come first.",
    "outcome": 0
   },
@@ -3100,12 +3120,12 @@
    "t": "mcq",
    "p": "Which animal grows up WITHOUT metamorphosis?",
    "opts": [
-    "Hen",
     "Frog",
+    "Hen",
     "Butterfly",
     "Mosquito"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A chick already looks like a small hen. They just grow. Frogs, butterflies and mosquitoes all change shape completely. Picking 'mosquito' usually means not knowing their babies are wrigglers in water.",
    "outcome": 2
   },
@@ -3113,11 +3133,11 @@
    "t": "mcq",
    "p": "What is the yolk of an egg for?",
    "opts": [
-    "Food for the growing chick",
     "Air for the chick to breathe",
-    "Holding the shell up"
+    "Holding the shell up",
+    "Food for the growing chick"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The yolk is the chick's food store. Air comes in through tiny holes in the shell, and there is an air pocket at the round end. Picking 'air' mixes up the yolk with the air pocket.",
    "outcome": 3,
    "how": "a1",
@@ -3127,11 +3147,11 @@
    "t": "mcq",
    "p": "How can a chick breathe inside their egg?",
    "opts": [
-    "Air comes through thousands of tiny holes in the shell",
     "They hold their breath for 21 days",
+    "Air comes through thousands of tiny holes in the shell",
     "They don't need air until they hatch"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The shell has thousands of tiny holes. In the eggshell bubbles experiment, bubbles came out of them in very hot water. Picking 'doesn't need air' is a common guess, but a growing chick needs oxygen all the time.",
    "outcome": 3,
    "how": "e1",
@@ -3155,11 +3175,11 @@
    "t": "mcq",
    "p": "What happens inside a chrysalis?",
    "opts": [
-    "The caterpillar's body is broken down and rebuilt into a butterfly",
     "The caterpillar sleeps and then wakes up with wings stuck on",
-    "Nothing at all"
+    "Nothing at all",
+    "The caterpillar's body is broken down and rebuilt into a butterfly"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Most of the caterpillar's body is broken down. Waiting cells grow into wings, legs and eyes, using that material. Picking 'nothing at all' is what it looks like from outside. Inside, it is the busiest stage.",
    "outcome": 5
   },
@@ -3167,11 +3187,11 @@
    "t": "mcq",
    "p": "You write down your caterpillar's length every day. Why is this useful?",
    "opts": [
-    "It shows a pattern you might not remember, like fast growth and then a stop",
     "It makes the caterpillar grow faster",
-    "It keeps the caterpillar healthy"
+    "It keeps the caterpillar healthy",
+    "It shows a pattern you might not remember, like fast growth and then a stop"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Writing measurements down lets you see patterns, like fast growth and then a stop before the chrysalis. Picking 'grow faster' or 'healthy' mixes up watching with changing. Measuring does not change the caterpillar.",
    "outcome": 4,
    "how": "p1",
@@ -3181,11 +3201,11 @@
    "t": "mcq",
    "p": "What switches on a tadpole's change into a frog?",
    "opts": [
-    "A hormone, a chemical message in their blood",
     "Their tail getting too long",
-    "Eating flies"
+    "Eating flies",
+    "A hormone, a chemical message in their blood"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The thyroid makes a hormone. When there is enough of it in the blood, the change starts. Picking 'eating flies' gets the order backwards. A tadpole eats insects only after they have become a frog.",
    "outcome": 7
   },
@@ -3193,11 +3213,11 @@
    "t": "mcq",
    "p": "Which of these do scientists still NOT know for sure?",
    "opts": [
-    "How much a butterfly remembers of being a caterpillar",
     "That frogs start as eggs",
+    "How much a butterfly remembers of being a caterpillar",
     "That a chick hatches from an egg"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Experiments with moths suggest some memory may survive, but scientists are still testing it. The other two have been watched and checked thousands of times.",
    "outcome": 6
   },
@@ -3205,11 +3225,11 @@
    "t": "mcq",
    "p": "A caterpillar ate leaves. The leaves were made from air, water and sunlight. Where did the butterfly's body come from?",
    "opts": [
-    "From the world around them, through the leaves",
     "From nothing",
+    "From the world around them, through the leaves",
     "Only from their egg"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Every living body is built from material taken in from outside. It goes back to soil and air when the animal dies. Picking 'only from their egg' forgets that a caterpillar grows many times heavier by eating.",
    "outcome": 7
   },
@@ -3226,6 +3246,30 @@
    "outcome": 3,
    "how": "a1",
    "context": "In Open an Egg like a Scientist, you cracked an egg onto a plate and found all its parts."
+  },
+  {
+   "t": "mcq",
+   "p": "Which is the right order for a honey bee?",
+   "opts": [
+    "Egg, nymph, adult",
+    "Egg, larva, pupa, adult",
+    "Larva, egg, adult, pupa"
+   ],
+   "a": 1,
+   "why": "A honey bee changes completely, like a butterfly. Its larva is fed in a cell, then it rests as a pupa before it becomes an adult.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "A beetle hatches from an egg as a grub. What comes next in the beetle's life cycle?",
+   "opts": [
+    "A nymph that grows wings slowly",
+    "A pupa, and then an adult",
+    "Nothing, the grub is already the adult"
+   ],
+   "a": 1,
+   "why": "A beetle changes completely, like a butterfly. The grub rests as a pupa before it becomes an adult. A grasshopper skips the pupa.",
+   "outcome": 2
   }
  ],
  "applications": [
@@ -3562,6 +3606,91 @@
    "used_in": [
     "a1"
    ]
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in The Naked Egg: what is under the shell?, The Egg Lift: protect a raw egg. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "e2",
+    "c1"
+   ],
+   "plan": "Get it before The Naked Egg: what is under the shell?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Naked Egg: what is under the shell?, Tadpole Watch: where does the tail go? (if you live near a pond in the monsoon), Three Life Cycle Wheels. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e2",
+    "e3",
+    "a2",
+    "p1"
+   ],
+   "plan": "Get it before The Naked Egg: what is under the shell?."
+  },
+  {
+   "id": "b-modelling-clay-or-plasticine",
+   "item": "Modelling clay or plasticine",
+   "kind": "material",
+   "why": "Used in Rebuild the Body: from caterpillar to butterfly. About ₹40 to ₹120. Atta dough mixed with a little salt works.",
+   "url": "https://www.amazon.in/s?k=modelling+clay+plasticine",
+   "used_in": [
+    "a4"
+   ],
+   "plan": "Get it before Rebuild the Body: from caterpillar to butterfly."
+  },
+  {
+   "id": "b-cotton-wool",
+   "item": "Cotton wool",
+   "kind": "material",
+   "why": "Used in The Egg Lift: protect a raw egg. About ₹20 to ₹50. Torn clean cloth works.",
+   "url": "https://www.amazon.in/s?k=cotton+wool+roll",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before The Egg Lift: protect a raw egg."
+  },
+  {
+   "id": "b-vinegar",
+   "item": "Vinegar",
+   "kind": "material",
+   "why": "Used in The Naked Egg: what is under the shell?. About ₹40 to ₹80. Lemon juice works for many tests.",
+   "url": "https://www.amazon.in/s?k=white+vinegar",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before The Naked Egg: what is under the shell?."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in Design a Butterfly Balcony. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "c2"
+   ],
+   "plan": "Get it before Design a Butterfly Balcony."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [
@@ -3884,5 +4013,47 @@
     "Adults can make eggs or babies. A tadpole is still a young stage and cannot."
    ]
   ]
- }
+ },
+ "more_stories": [
+  {
+   "title": "The Crab Who Had to Be Soft",
+   "mins": 6,
+   "read_aloud": true,
+   "note": "",
+   "text": [
+    "I live in the mud of a mangrove creek at Pichavaram, on the coast of Tamil Nadu, where the trees stand on tiptoe on their roots. Twice a day the tide comes in and covers my home, and twice a day it goes out and leaves the mud shining. I am a mud crab. I have ten legs, two of them with strong claws, and a shell as hard as a pot.",
+    "For a long time my shell was my whole world. Inside it I was safe from the herons with their spear beaks, and the fish that snap, and the monitor lizards that dig. I loved my shell.",
+    "But I was growing. Every day I ate, little snails, dead fish, bits of whatever the tide brought, and every day there was more of me. And my shell did not grow. It cannot. It is not alive in the way my soft body is. It is a hard coat that my body made, and once it is made, it stays the size it is.",
+    "So my shell began to pinch. First at the edges, then everywhere. I felt squeezed when I walked. I felt squeezed when I rested in my burrow.",
+    "On the bank above the creek lived a girl called Kayal. She came down to the water most afternoons, to wash pots, or to look for crabs' holes with a stick, or just to sit. Her school shoes were tied around her neck by their laces because they were too small now, and they hurt her feet, and her mother had said there would be new ones after the harvest.",
+    "One afternoon I felt it: the time had come. Underneath my old shell, slowly, over many days, my body had already made a new one, soft and folded and wrinkled like a wet cloth. Now I drank in water until I swelled. There was a crack along the back of my old shell. The crack widened.",
+    "And I backed out.",
+    "It is the hardest thing a crab ever does. I pulled my legs out of my old legs, every one, ten of them. I pulled my claws out through the narrow joints of my old claws. I even pulled out the thin coverings of my eyes and the linings of my gills. It took a long time. When I was finally out, I was soft. Soft all over, like a ripe mango. I couldn't pinch. I couldn't run fast. Anything could have eaten me.",
+    "I crept into the deepest corner of my burrow, under a mangrove root, and waited, and swelled, and was afraid.",
+    "Kayal found my old shell the next day.",
+    "She found it lying on the mud at low tide: a whole crab, perfect, with all ten legs and both claws and even little eye cups. She picked it up and it was so light. She looked inside and it was empty.",
+    "\"Amma!\" Kayal cried, running up the bank with it held out in both hands. \"Amma, a crab has died! There's nothing left of it!\"",
+    "Her mother was spreading rice to dry on a mat. She wiped her hands on her sari and took the shell and turned it over, very carefully.",
+    "\"Look,\" she said. \"Look here, at the back.\" There was the long split where I had climbed out. \"And look, it's not broken anywhere else. Nothing ate this crab. It's not a dead crab, Kayal. It's an empty coat.\"",
+    "Kayal stared at it. \"A coat?\"",
+    "\"The crab grew too big for the shell,\" said her mother. \"So the crab climbed out. Somewhere down there the crab is hiding, soft and new and bigger, waiting for the new shell to harden.\"",
+    "\"It came out of all of it? Even the legs?\"",
+    "\"Even the legs.\"",
+    "Kayal held the empty shell for a long time. Then she looked down at the school shoes hanging round her neck. Last year they had been too big, and she had stuffed paper in the toes.",
+    "She didn't say anything. She just went back down to the creek, and put my old shell on a flat stone by the water, carefully, the right way up, and sat beside it until the tide began to come in.",
+    "Down in my burrow, I was hardening. It took days. My new shell turned from soft to leathery to hard, and it was bigger, so much bigger, with room inside to grow. One evening I came out into the low tide light and walked across the mud, slowly, then faster, and nothing pinched at all.",
+    "On a flat stone at the edge of the water there was an old crab shell, just my size, the size I used to be. A girl was sitting next to it with her chin on her knees, watching the water come in.",
+    "She saw me. She didn't move. And I didn't run."
+   ],
+   "epiphany": "Animals with a hard outside, like crabs, insects and spiders, must moult to grow. The shell can't grow, so the crab makes a new soft one underneath, climbs out of the old one, swells, and waits for the new shell to harden. The turn is Kayal's mother saying 'It's not a dead crab. It's an empty coat.' Kayal's too-small shoes show the same idea without anyone saying it.",
+   "ask": [
+    "Why couldn't the crab's shell grow with the crab?",
+    "Why did Kayal think the crab had died? What showed her mother it hadn't?",
+    "Why did the crab hide after moulting?",
+    "What was the same about the crab's shell and Kayal's shoes?",
+    "Why do you think Kayal put the shell on the stone and waited?"
+   ],
+   "art": []
+  }
+ ]
 }

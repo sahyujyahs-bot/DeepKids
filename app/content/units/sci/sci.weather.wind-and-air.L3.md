@@ -1,9 +1,9 @@
 # Wind: why air moves, and how it lifts kites and turns windmills
 `sci.weather.wind-and-air.L3`
 
-**Summary.** Nobody pushes the air, yet it moves. What makes wind blow? In this unit you will open the fridge to see where the air goes, test whether soil or water warms faster in the sun, and fly a tiny thread kite at home.
+**Summary.** Nobody pushes the air, yet it moves. What makes wind blow? In this lesson you will open the fridge to see where the air goes, test whether soil or water warms faster in the sun, and fly a tiny thread kite at home.
 
-**Intro.** *Switch off the fan and shut the windows. The air in the room is still. Now hold a strip of tissue paper and walk fast across the room. The tissue streams out behind you. Where did that wind come from?* Wind is air moving past you. You can make it by moving through still air, or a fan can push the air past you. But outdoors, nobody is pushing. So what moves the air? In this unit you find out by opening a fridge and watching where its cold air goes. You find out why the sea breeze reaches coastal towns in the afternoon, how a kite stays up on a thread, and how a paper windmill can lift a load. You also meet the people who argued about why the great winds over the oceans blow.
+**Intro.** *Switch off the fan and shut the windows. The air in the room is still. Now hold a strip of tissue paper and walk fast across the room. The tissue streams out behind you. Where did that wind come from?* Wind is air moving past you. You can make it by moving through still air, or a fan can push the air past you. But outdoors, nobody is pushing. So what moves the air? In this lesson you find out by opening a fridge and watching where its cold air goes. You find out why the sea breeze reaches coastal towns in the afternoon, how a kite stays up on a thread, and how a paper windmill can lift a load. You also meet the people who argued about why the great winds over the oceans blow.
 
 ## Learning outcomes
 0. I can explain that wind is moving air, and show that air is real stuff with weight that pushes when it moves.
@@ -575,7 +575,7 @@ Lakshmamma looked at her for a long time. Then she said, 'My father would have l
 ## Worksheets
 ### Wind Detective (core) (core, 15 questions)
 1. (mcq) You hold a tissue strip and walk fast across a room with the fan off. The strip streams out behind you. Why?  
-   Options: The room had a hidden wind / You were moving through the air, so air moved past the strip / Tissue always floats / Your hand was warm  
+   Options: The room had a hidden wind / Tissue always floats / Your hand was warm / You were moving through the air, so air moved past the strip  
    **Answer:** You were moving through the air, so air moved past the strip. *Why:* The air in the room stayed still, but you moved through it, so air rushed past the strip. Wind is air moving past something, whichever one is moving. A strong answer says the strip moved through the air.
 2. (truefalse) Air weighs nothing at all.  
    **Answer:** False. *Why:* False. A litre of air weighs a little over 1 gram. The air in a bedroom weighs about as much as a small grown-up. We do not notice it because it presses on us equally from all sides.
@@ -608,33 +608,33 @@ Lakshmamma looked at her for a long time. Then she said, 'My father would have l
    **Answer:** Wind arrow coming towards the kite's face, the string from the kite to the flyer, the tail at the bottom, and a push arrow going up and back from the kite's face.. *Why:* A strong answer shows the push of the air going up and back, and the string holding the kite against the wind.
 ### Breezes and Blades (stretch) (stretch, 16 questions)
 1. (mcq) The fridge door is open, and smoke is held near the top of the open door. The smoke drifts gently into the fridge. Why?  
-   Options: The fridge sucks in air with a pump / Smoke likes cold places / Warm air flows in at the top to replace the cold air pouring out at the bottom / The light inside pulls the smoke  
+   Options: The fridge sucks in air with a pump / Smoke likes cold places / The light inside pulls the smoke / Warm air flows in at the top to replace the cold air pouring out at the bottom  
    **Answer:** Warm air flows in at the top to replace the cold air pouring out at the bottom. *Why:* Cold air is pouring out at the bottom. Warm room air flows in at the top to take its place. A strong answer links the top and the bottom: one flow out, one flow in.
 2. (write) One person says the Open Fridge experiment proves that cold air is heavier. Another says it only proves that cold air comes out of fridges. What would you add to the test to convince the second person?  
    **Answer:** I would try the same thing somewhere else with cold air, such as a tumbler full of ice. If smoke sinks next to the ice and rises next to a hot tumbler, then cold air sinks everywhere, not only in fridges.. *Why:* A strong answer suggests a new test with cold and warm air that has nothing to do with fridges.
 3. (mcq) In Soil or Water, the soil got warmer in the sun. Then both bowls went into the shade. What usually happens?  
-   Options: The water cools faster / The soil cools faster / Neither cools at all / Both cool at exactly the same speed  
+   Options: The water cools faster / Neither cools at all / Both cool at exactly the same speed / The soil cools faster  
    **Answer:** The soil cools faster. *Why:* Soil warms quickly and also cools quickly. Water warms and cools slowly. That is why, at night, the land becomes cooler than the sea, and the land breeze blows.
 4. (fill) At night on a coast, the land is cooler than the sea, so the wind blows from the land to the sea. This is called a ____ breeze.  
    **Answer:** ['land']. *Why:* A land breeze blows from the land to the sea at night, because the land cools faster than the sea.
 5. (perspective) Three people talk about wind turbines.  
    **Answer:** A strong answer weighs real trade-offs: wind gives clean electricity without smoke, but turbines need the right windy places, cost a lot to build, and can harm birds that fly into them. It gives each person something they have right.. *Why:* There is no single right answer. Wind power is clean, but it depends on the wind, costs money to build, and must be placed with care for birds.
 6. (mcq) In one family's test of the Windmill That Lifts, the clip took 15 seconds at 50 cm from the fan and 45 seconds at 150 cm. What does this show?  
-   Options: Faster wind makes the windmill work faster / The clip is heavier far from the fan / Distance has nothing to do with it / The fan is weaker on the left  
+   Options: The clip is heavier far from the fan / Faster wind makes the windmill work faster / Distance has nothing to do with it / The fan is weaker on the left  
    **Answer:** Faster wind makes the windmill work faster. *Why:* Near the fan the wind was faster, and the windmill did the same job in a third of the time. Faster wind pushes much harder, so the blades turn faster.
 7. (truefalse) A black kite circling high up without flapping is being held up by rising warm air.  
    **Answer:** True. *Why:* True. A black kite must search a big area for food, and flapping uses a lot of energy. By circling in a thermal, a column of rising warm air, the bird rises without flapping and saves energy.
 8. (draw) Draw a windmill's blades from the front. Draw an arrow to show which way they will turn when the wind blows at them.  
    **Answer:** Four or more blades, all tilted the same way, with a curved arrow going round.. *Why:* A strong drawing shows all the blades tilted the same way, so the wind pushes each one round in the same direction.
 9. (mcq) You want to fly a patang from your building. Which place is safest?  
-   Options: The edge of a roof with no railing / The road in front of the building / An open terrace with a railing, away from electric wires / Next to the electric pole, where it is windy  
+   Options: An open terrace with a railing, away from electric wires / The edge of a roof with no railing / The road in front of the building / Next to the electric pole, where it is windy  
    **Answer:** An open terrace with a railing, away from electric wires. *Why:* A terrace with a railing, away from wires, is safest. Never fly a kite near electric wires, from a roof edge, or on a road.
 10. (write) Kite string coated with glass, called manja, cuts other kites. Explain one problem it causes for birds, and what kite flyers can do instead.  
    **Answer:** Birds fly into the thread and are badly cut, and many die. Kite flyers can use plain cotton thread, which does not cut birds.. *Why:* A strong answer starts with the bird's problem: they cannot see the thin thread and fly into it. Then it gives a fix, such as plain cotton thread.
 11. (sort) Sort these winds. Is each one mainly caused by warm and cool places, or by something pushing the air?  
    **Answer:** the sea breeze → Warm place next to a cool place; the land breeze → Warm place next to a cool place; the summer monsoon → Warm place next to a cool place; cold air from an open fridge → Warm place next to a cool place; a ceiling fan → Something pushes the air; a hand fan → Something pushes the air; air out of a balloon → Something pushes the air. *Why:* The sea breeze, land breeze, monsoon and the fridge air all come from a warm place next to a cool one. A ceiling fan, a hand fan and a blown balloon push the air.
 12. (mcq) Bengaluru is far from the sea. Will a sea breeze reach it every afternoon?  
-   Options: Yes, every afternoon / No, it is too far from the sea / Only at night / Only when it rains  
+   Options: Yes, every afternoon / Only at night / Only when it rains / No, it is too far from the sea  
    **Answer:** No, it is too far from the sea. *Why:* A sea breeze travels many kilometres inland, but not hundreds. Bengaluru is about 300 kilometres from the nearest sea, too far. Its breezes have other causes.
 13. (label) Label the picture of the Breeze in a Box: the warm side, the cool side, and the arrows that show which way the smoke flowed.  
    **Answer:** Hot tumbler labelled warm, ice tumbler labelled cool, an arrow along the bottom from the ice to the hot cup, and an arrow up over the hot cup.. *Why:* A strong answer shows the cool air flowing low towards the warm side and rising there, like a sea breeze.
@@ -654,7 +654,7 @@ Lakshmamma looked at her for a long time. Then she said, 'My father would have l
 3. (perspective) Two scientists explain the monsoon.  
    **Answer:** A strong answer sees that both use the Sun's uneven heating. Halley's picture explains why the wind comes from the sea in summer. Gadgil's picture explains things the simple one cannot, such as the breaks in the rains. A good answer says what evidence would help decide.. *Why:* Scientists still discuss this. Both views agree the Sun's uneven heating drives the monsoon. They differ on the best picture of how.
 4. (mcq) A room has a window near the floor and a ventilator near the ceiling. On a hot day, how will air flow through the room?  
-   Options: In at the low window, out at the high ventilator / In at the high ventilator, out at the low window / It will not move at all / Only in at both, never out  
+   Options: In at the high ventilator, out at the low window / In at the low window, out at the high ventilator / It will not move at all / Only in at both, never out  
    **Answer:** In at the low window, out at the high ventilator. *Why:* The warm air in the room rises and goes out of the high ventilator. Cooler air from outside comes in at the low window to take its place. This is the Open Fridge experiment the other way round: there, cold air poured out at the bottom and warm air went in at the top.
 5. (write) In a space station there is no gravity pulling things down. A candle flame there is round, and warm air does not rise. Use this to explain what really makes warm air rise on Earth.  
    **Answer:** On Earth, gravity pulls the heavier cool air down more strongly than the light warm air. So the cool air sinks underneath and pushes the warm air up. With no gravity, nothing is heavier, so nothing sinks and nothing rises.. *Why:* A strong answer says that rising needs the heavier air to sink, and sinking needs gravity.
@@ -665,10 +665,10 @@ Lakshmamma looked at her for a long time. Then she said, 'My father would have l
 8. (write) A fisherman sails out with the land breeze before dawn, and comes home with the sea breeze in the afternoon. What would happen to his plan on a cloudy, cool day? Explain.  
    **Answer:** On a cloudy day the land would not get much warmer than the sea. So the sea breeze might be weak or might not come at all, and it would be hard to sail home.. *Why:* A strong answer says that the sea breeze needs the land to be warmer than the sea, and clouds stop the sun warming the land.
 9. (mcq) Wind farms are built on hill gaps, coasts and open plains, not in the middle of a city. Why?  
-   Options: Wind is stronger and steadier in open places / Cities have no air / Turbines need to be near the sea to make electricity / Wind only blows over hills  
+   Options: Cities have no air / Wind is stronger and steadier in open places / Turbines need to be near the sea to make electricity / Wind only blows over hills  
    **Answer:** Wind is stronger and steadier in open places. *Why:* Buildings slow the wind and make it gusty. In open places the wind is stronger and steadier, and a faster wind pushes the blades much harder, so the turbine makes more electricity.
 10. (mcq) There are two windmills. One has 4 paper blades. The other has 4 card blades twice as big. At 150 cm from the fan, which will probably lift more clips?  
-   Options: The small paper blades / The big card blades / Both exactly the same / Neither will turn  
+   Options: The small paper blades / Both exactly the same / The big card blades / Neither will turn  
    **Answer:** The big card blades. *Why:* Bigger blades catch more wind and get a bigger push. Stiff card also keeps its tilt. So the big card blades will probably lift more. The only way to be sure is to test.
 11. (label) Label a wind turbine: the blades, the tower, the box with the generator inside, and the wire that carries the electricity away.  
    **Answer:** Three long blades at the top, a tall tower, a box behind the blades with the generator, and a wire running down to the ground.. *Why:* A strong answer shows the blades turning the generator in the box.
@@ -689,25 +689,25 @@ Lakshmamma looked at her for a long time. Then she said, 'My father would have l
 
 ## Quiz
 1. (mcq) What is wind?  
-   Options: Air moving past something / A gas made by trees / Water vapour / The sound of air  
+   Options: A gas made by trees / Water vapour / Air moving past something / The sound of air  
    **Answer:** Air moving past something. *Why:* Wind is air moving past something. 'A gas made by trees' is an old idea. In fact, the wind moves the trees.
 2. (mcq) A flat football is pumped up and weighed again. How has its weight changed?  
-   Options: It is lighter / It is a little heavier / It weighs the same / It has no weight  
+   Options: It is lighter / It weighs the same / It has no weight / It is a little heavier  
    **Answer:** It is a little heavier. *Why:* More air has been squeezed into the ball, and air has weight. So the ball is a little heavier. Picking 'lighter' comes from thinking air makes things float.
 3. (mcq) When the fridge door opens, where does the cold air go?  
-   Options: Up to the ceiling / It stays inside / Out at the bottom and down to the floor / Out at the top only  
+   Options: Out at the bottom and down to the floor / Up to the ceiling / It stays inside / Out at the top only  
    **Answer:** Out at the bottom and down to the floor. *Why:* Cold air is heavier for its size, so it pours out at the bottom and sinks to the floor. Picking 'up to the ceiling' mixes it up with warm air.
 4. (mcq) Why does cool air slide under warm air?  
    Options: Cool air is faster / Cool air is denser, so it is heavier for its size / Warm air is sticky / Cool air is wetter  
    **Answer:** Cool air is denser, so it is heavier for its size. *Why:* Cool air is denser, so a litre of it is heavier, and it sinks under the lighter warm air. Picking 'cool air is faster' mixes things up: the particles in cool air move more slowly.
 5. (mcq) Puri is a town by the sea. Which way does the breeze usually blow there in the afternoon?  
-   Options: From the sea onto the land / From the land out to sea / Straight down / There is no breeze by the sea  
+   Options: From the land out to sea / Straight down / From the sea onto the land / There is no breeze by the sea  
    **Answer:** From the sea onto the land. *Why:* In the afternoon the land is warmer than the sea, so a sea breeze flows in from the sea. 'From the land out to sea' describes the land breeze, which blows at night.
 6. (mcq) Why does the land breeze blow at night?  
    Options: The sea is asleep / The Moon pulls the air / The land cools faster than the sea, so the sea is warmer / Fishers need it  
    **Answer:** The land cools faster than the sea, so the sea is warmer. *Why:* At night the land cools down faster than the sea. Now the sea is warmer, its air rises, and the cooler land air flows out to sea.
 7. (mcq) What holds a kite up in the sky?  
-   Options: It is lighter than air / Moving air pushes on its tilted face, and the string holds it / The tail lifts it / It floats like a balloon  
+   Options: It is lighter than air / The tail lifts it / It floats like a balloon / Moving air pushes on its tilted face, and the string holds it  
    **Answer:** Moving air pushes on its tilted face, and the string holds it. *Why:* Moving air pushes on the kite's tilted face, and the string holds it against the wind, so the push holds it up. Picking 'it is lighter than air' is a common guess, but a kite falls when the wind stops.
 8. (mcq) You want to fly a kite, but there is no wind at all. What should you do?  
    Options: Run with the kite / Add a heavier tail / Wait for night / Put it in the fridge  
@@ -716,13 +716,13 @@ Lakshmamma looked at her for a long time. Then she said, 'My father would have l
    Options: To look pretty / To catch rain / So the wind pushes every blade round in the same direction / So the blades are lighter  
    **Answer:** So the wind pushes every blade round in the same direction. *Why:* Tilted blades turn the wind's push into a sideways push. When all tilt the same way, every blade is pushed round in the same direction, so the wheel turns.
 10. (mcq) What does a wind turbine do?  
-   Options: It makes wind / It uses the wind to turn a generator and make electricity / It stores rain / It measures the temperature  
+   Options: It makes wind / It stores rain / It measures the temperature / It uses the wind to turn a generator and make electricity  
    **Answer:** It uses the wind to turn a generator and make electricity. *Why:* The wind turns its blades, and the blades turn a generator, which makes electricity. Picking 'makes wind' mixes it up with a fan.
 11. (mcq) Sailors noticed that some winds over the oceans blow the same way all year round. What mostly drives such steady winds?  
-   Options: There are no such winds / The Moon makes the winds / The sea blows them / The Sun's heating drives the winds  
+   Options: There are no such winds / The Moon makes the winds / The Sun's heating drives the winds / The sea blows them  
    **Answer:** The Sun's heating drives the winds. *Why:* The Sun heats the Earth most near the equator. Warm air rises there and cooler air flows in to take its place, so the winds keep blowing the same way. The Earth's spin bends them.
 12. (mcq) A kite gets stuck on an electric wire. What should you do?  
-   Options: Pull the string hard / Climb up and get it / Leave it and tell a grown-up / Throw a stick at it  
+   Options: Leave it and tell a grown-up / Pull the string hard / Climb up and get it / Throw a stick at it  
    **Answer:** Leave it and tell a grown-up. *Why:* Never pull the string or climb to reach it. Electric wires can kill. Leave the kite and tell a grown-up.
 
 ## Applications
@@ -737,7 +737,7 @@ Lakshmamma looked at her for a long time. Then she said, 'My father would have l
 - Washing flapping on balcony clotheslines on a breezy afternoon.
 - Black kites circling high above a city on a hot day, without flapping.
 - A woman winnowing rice in a muram, a flat basket, letting the breeze carry away the husk.
-- Rows of wind turbines along the highway near Kanyakumari or in Gujarat.
+- Rows of wind turbines along a highway.
 - Cold air rolling out of an open fridge or a shop's ice-cream freezer.
 
 ## Open questions
@@ -786,6 +786,15 @@ Shade, Rain and Wind (sci.weather.L3): A song about shade, rain and wind.
 
 ## Things to buy
 - [A simple room thermometer](https://www.amazon.in/s?k=room+thermometer+analog) (tool): Shows how much warmer the soil gets than the water in the sun. You can do the test by touch without one. Used in e3. 
+- [A magnetic compass](https://www.amazon.in/s?k=magnetic+compass+school) (tool): Used in My Breeze Diary: does the wind change with the time of day?. About ₹30 to ₹150. A phone compass app also works. Used in p1. Get it before My Breeze Diary: does the wind change with the time of day?.
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in The Windmill That Lifts: does a stronger wind lift the load faster?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e2. Get it before The Windmill That Lifts: does a stronger wind lift the load faster?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Windmill That Lifts: does a stronger wind lift the load faster?, Make Your Own Wind: the tissue strip walk, My Breeze Diary: does the wind change with the time of day?. About ₹10 to ₹30. Any school ruler is fine. Used in e2, a1, p1, c1. Get it before The Windmill That Lifts: does a stronger wind lift the load faster?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in The Open Fridge: where does the air go?, The Windmill That Lifts: does a stronger wind lift the load faster?. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in e1, e2. Get it before The Open Fridge: where does the air go?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Breeze in a Box: a model sea breeze. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in a3. Get it before The Breeze in a Box: a model sea breeze.
+- [Clean sand (a small bag)](https://www.amazon.in/s?k=play+sand+small+bag) (material): Used in Soil or Water: which warms faster in the sun?. About ₹20 to ₹60. Fine soil sieved from a pot works. Used in e3. Get it before Soil or Water: which warms faster in the sun?.
+- [A kitchen or weighing scale](https://www.amazon.in/s?k=digital+kitchen+weighing+scale) (tool): Used in Weigh the Air: a soft ball and a pumped ball. About ₹300 to ₹700. A home-made balance from a ruler and two cups can compare weights. Used in a2. Get it before Weigh the Air: a soft ball and a pumped ball.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in The Open Fridge: where does the air go?, Make Your Own Wind: the tissue strip walk, The Thread Kite: fly a tiny kite at home. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e1, a1, a4, p1, c2. Get it before The Open Fridge: where does the air go?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is wind? → Air moving past something.

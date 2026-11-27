@@ -1,0 +1,143 @@
+# DeepKids - Science - Grade Concepts / Gravity all points (copied from Google Sheets, 2026-11-27)
+R1: Topic | Concepts | Activities | Packaging
+R2: What is Gravity? | Mass/Energy Curves, stretches ST, & results in all objects around being dragged towards itself | - blanket stretched, balls placed 1 big, some small, another bigger, 2 equal | Set 1 Actions, Outcomes Cards, Concept Cards ⏎  ⏎ Set 2  Draw 2 from Elements Cards (with energy, mass, density , distance/height deets- puller scores; Outcomes Cards distributed, extra points for the one throwing the right outcome card 
+R3:  | Everything gets dragged towards everything else, heaviers ones succeed  | - Draw cards- predict which gets pulled
+R4:  | No one is actually pulling, no energy expended by objects on gravity | Pull another, expend energy. But thats not gravity ⏎ Tug -of War
+R5:  | Lagrange Point | two pull you from either side, what point do you not get pulled at all
+R6: Why is center of curvature at the geometric center? | ST unlike blanket is 3+ D, so center of curvature = center of object
+R7:  | End point of gravity is at geometric center, where Fg=0
+R8:  | Fg is highest at surface, decreases towards core, decreases as we go up above the surface
+R9: G on Earth | Pulls us back down when we jump, pulls objects down | make an object float with no other material used ⏎ how high can you jump? ⏎ climb stairs,  ⏎ climb slide | Set 3 Draw, Do, Answer, Verify (Do, Question & Answer Cards - numbered) - arrange and follow or shuffle, play relevant cards in a circle |  |  |  |  |  |  |  |  |  | Do
+R10:  | Escape velocity | Jump on Trampoline ⏎ Can you jump into the sky? How? Extra Energy ⏎ Pick paper clip with magnet ⏎ feather float with dryer |  |  |  | Set 2 Darw & Predict Cards |  |  |  |  |  |  | Question
+R11:  | CoG=CoB | Yoga Pose - One leg standing ⏎ Yoga Pose 2 ⏎ Gravitational Spinner ⏎ Jenga |  |  |  | Earth | Particles |  | Energy ⏎ Mass ⏎ Density ⏎ Surface Nature ⏎ Distance/Height from center |  |  |  | Answer
+R12:  | gravitational anamolies- density of material below surface & height less , himalayas, granite mountain, quick sand, equator<poles | Himalayas        Hints                 ⏎ Quick Sand        g highest at surface                 ⏎ Ocean        g high if below surface density high                "Below Surface Density ⏎ Height From Core" ⏎ Granite Mountain                         ⏎ Equator                         ⏎ Poles ⏎ Photons                         | Set 4 Predict  ⏎ Locations Cards (density, height) with Q & options ⏎ Hints Sheet ⏎ Answers Cards |  |  | Sun | Asteroid
+R13:  | Tides - Sun & Moons pull on Earth | (outcome of Moon & Ocean Element cards) | Set 2 Cards |  |  | Moon | Human Floating in Space
+R14:  | Water bulges out on both sides | (Spl outcome of Moon & Ocean Element cards) | Set 2 Cards |  |  | Jupiter | Human On Land
+R15: Earths Fg on Light | Gravitational Lensing- Photons, energy pockets, particles of the sun, coming to earth along the ST curves of the earth, so bend | (outcome of light & Earth) | Set 2 Cards |  |  | Uranus | Light (Photons)
+R16:  | Gravitational redshift - C constant, but, escaping gravity needs more energy to maintain speed c, so loses energy, frequency & wavelength increases | (outcome of light & Sun) | Set 2 Cards |  |  | Black Hole
+R17: Does Photon Have Gravity? | Photon with no rest mass, but energy, also curves ST | predict g | Set 4 Cards |  |  | Land |  |  | Himalayas | Hints
+R18: Quip | Mass is a form of energy | T or F cards, Answer cards | Set 5 Cards |  |  | Ocean |  |  | Quick Sand | g highest at surface
+R19: Normal Force | If not for a solid ground, we would be dragged till we reach the core, along the gravity | Who gets pulled & Outcomes        Empty Space, Earth,Jupiter,Uranus, Moon, Blackhole - Outcomes on a human floating | Set 2 Cards |  |  | Empty Deep Space |  |  | Ocean | g high if below surface density high |  | Below Surface Density ⏎ Height From Core
+R20:  | Every object, every surface, exhibits an opposite push force, against the force applied on it - press into wall, wood, cushion, water - some opp Fn is lesser so you pierce through, some larger so solid | lie down & catch another falling ⏎ how are you standing? ⏎ Push on wall, push on cushion, push water. Were you be able to pierce through?  | Set 3 Cards |  |  |  |  |  | Granite Mountain
+R21:  | Where does this Normal Force comes from, my body e and ground e repelling. depends on density of surface - ground dense enough , high Fn, water, less dense, less Fn, air even lesser - air resistance | drop crumpled and normal paper and one over other - air resistance vs gravity | Set 3 Cards |  |  |  |  |  | Equator
+R22:  | Ground keeps you from getting pulled into the core - by applying an equal and opposite push force to the gravity's pull, called the Normal Force | (outcome Human in space, Earth -Land) | Set 2 Cards |  |  |  |  |  | Poles
+R23:  | Water is not dense enough to keep you from falling, which is why you sink in a pool or ocean | (outcome Human in space, Earth -Ocean | Set 2 Cards |  |  |  |  |  | Space
+R24:  | Two ways to not sink in the ocean, to kick, generate extra force against the gravity, so the push force of water surface(buoyant force + kick force = Fg, or you align your body, spread in such a way, that the buoyant force across the surface water you cover can hold you up, with Fb=Fg | not sinking in a pool? How? Why? | Set 3 Cards
+R25:  | Trampoline , Impact force from elastic energy | Jump on a trampoline. How are you able to reach a greater height? | Set 3 Cards |  |  | Elements | Mass | Energy | Sideways Velocity | Surface Type | Size | Distance From A Hot Star
+R26: 0 Gravity | When no bodies around, no gravity, no pull - so float | (outcome of empty space & human floating cards) | Set 2 Cards |  |  | Options | up, upup,upupup, upupupup,down, downdown,downdowndown, 0 | up, upup,upupup, upupupup,down, downdown,downdowndown | <two arrows at 90deg. one side represents sideways velocity, one gravity. just the velocity vector to be added many times for speed.> ⏎  ⏎ side, sideside, sidesideside, 0 | Solid, Liquid, Plasma, Gas, Ice, Goeey | up, upup, upupup, upupupup , down, downdown, downdowndown, 0  | One, Close, Away, Further
+R27:  | But unless in deep space fully empty, 0 gravity is theoritical, lilttle bit of gravity always |  |  |  |  | Earth
+R28:  | What happens in 0 Gravity - Float in the same speed & direction in which you got ejecte into deepspace. cant change speed or direction becuase no particles around |  |  |  |  | Sun
+R29: Weight | there are 3, true Weight =mg, W we measure = Fn, W we feel | Measure your weight on a scale. then lift up one leg in the air- what happens to the reading on the scale? Did you feel like your weight or mass changed? then why did the scale change? ⏎ When you held your friend from falling, did you feel his weight?  | Set 3 Cards |  |  | Moon
+R30:  | in 0 G, true weightlessness , Wtrue=Fn=W we feel =0 |  |  |  |  | Jupiter
+R31:  | W=Fn on Ground, moving elevator W=Fn+-Fa | Float in a pool | Set 3 Cards |  |  | Uranus
+R32:  | Floating in Pool , Wtrue=mg, Wapparent = Fb, but we feel W=0 | Measure your weight on the ground, on an elevator moving up and while moving down, Note the values. Are they same? Is your true weight changing? then why are the readings? |  |  |  | Black Hole (huge)
+R33:  | Suspended in Pool, Wture=mg, Wapparent= Fb+Fkick, W we feel, lighter | Stay suspended in a pool |  |  |  | Black Hole (Small)
+R34:  | Standing in a pool on a scale , Wture=mg, Wmeasured=Fn-Fb, W we feel, lighter | measure weight inside a pool |  |  |  | Land
+R35: ISS | ISS we experience weightlessness, not 0 g becuse Wtrue=mgiss (90%g), Fn=0 | T or F Cards , Answer Cards | Set 5 Cards |  |  | Ocean
+R36:  | if no Fn holding us, why arent we falling into g? - cos of sideways velocity - 7.6Km/s, 13-15 orbits per day | T or F Cards , Answer Cards |  |  |  | Empty Deep Space
+R37:  | ISS surfing gravity waves just like ocean surfing | T or F Cards , Answer Cards |  |  |  | Asteroid
+R38: Escaping G | orbital velocity | Hoola Hoop,moon& ISS , Planets around Sun | Set 3 Cards |  |  | Dust Particles
+R39:  | Earth around Sun, Moon,Iss around earth | T or F Cards , Answer Cards | Set 5 Cards |  |  | Human Floating in Space
+R40: Time Dialation | Time runs slower towards the core than at the surface | Time Dialation Story of 4 Sisters | Comic Book |  |  | Human On Land
+R41:  | Time runs faster in space than at the surface |  |  |  |  | Light (Photons)
+R42:  | GPS corrections |  |  |  |  | Himalayas
+R43: Gravitons? | Is Gravity a quantum force? | T or F Cards , Answer Cards | Set 5 Cards |  |  | Quick Sand
+R44: Quip | Universe a dance between dark matter expansion & attractive gravity | T or F Cards , Answer Cards | Set 5 Cards |  |  | Ocean
+R45: Gravitas |  |  |  |  |  | Granite Mountain
+R46: Schwarzschild Radius |  |  |  |  |  | Equator
+R47: Centrepetal -Artificial gravity | rotate, particles gets pulled in towards the center | mom filter coffee- tumbler | Set 3 Cards |  |  | Poles
+R48:  |  |  |  |  |  | Space
+R49:  |  |  |  |  |  | Chocolate Goo Planet
+R50: Tides | 🌕 1. Tides happen because gravity isn’t the same everywhere ⏎  ⏎ Earth and Moon pull on each other gravitationally. ⏎ But here’s the key: ⏎  ⏎ The side of Earth facing the Moon feels a stronger pull than ⏎  ⏎ the center of the Earth, which feels stronger than ⏎  ⏎ the far side. ⏎  ⏎ That gradient — not the absolute pull — stretches the planet. ⏎  ⏎ 👉 This is why tides are caused by differential gravity, not just “the Moon pulling water.” ⏎  ⏎ 🌊 2. The Earth bulges on both sides ⏎  ⏎ This always surprises people. If the Moon pulls water toward it, why is there a high tide on the opposite side too? ⏎  ⏎ Near side: water gets pulled harder toward the Moon → bulge. ⏎  ⏎ Far side: the Moon pulls the Earth itself slightly more than the water far away → Earth moves closer to the Moon than the far-side water → bulge in the opposite direction. ⏎  ⏎ Result: ⏎  ⏎ Two bulges of water on opposite sides of the Earth. ⏎  ⏎ As the Earth rotates through these bulges, coastal regions experience two high tides and two low tides every ~24 hours. ⏎  ⏎ 5 ⏎ ☀️ 3. The Sun plays a role too ⏎  ⏎ The Sun is way bigger than the Moon, but it’s also much farther away, so its tidal effect is weaker than the Moon’s but still significant. ⏎  ⏎ When Sun + Moon line up (New Moon, Full Moon): ⏎ → tidal forces add up → Spring Tides (biggest highs and lows). ⏎  ⏎ When Sun and Moon are at right angles (First & Third Quarter): ⏎ → tidal forces partially cancel → Neap Tides (smallest highs and lows). ⏎  ⏎ 📅 Tidal patterns follow both the lunar day (~24h 50min) and the moon phases. ⏎  ⏎ 🪨 4. Land tides are real too ⏎  ⏎ Tides aren’t just about water. ⏎ The solid Earth also flexes by about 30 cm every day due to the same forces. ⏎ Water just makes it obvious because it flows more easily. ⏎  ⏎ 🌌 5. Tides explain a lot more than beaches ⏎  ⏎ Tidal locking: ⏎ The Moon always shows the same face to Earth because over millions of years, Earth’s tidal pull slowed the Moon’s rotation until it matched its orbit. That’s how we get one “near side” forever. ⏎  ⏎ Orbital evolution: ⏎ Earth’s rotation is gradually slowing down, and the Moon is slowly drifting away (about 3.8 cm/year) due to tidal energy transfer. ⏎  ⏎ Tidal heating: ⏎ Moons like Io (around Jupiter) experience huge tidal forces. The stretching and squeezing creates internal friction → heat → volcanic activity. ⏎  ⏎ Tidal disruption: ⏎ Get too close to a massive body, and tidal forces can tear things apart (e.g., Roche limit). ⏎  ⏎ 📈 6. The math behind tides (clean version) ⏎  ⏎ Tidal acceleration is roughly: ⏎  ⏎ 𝑎 ⏎ tidal ⏎ ≈ ⏎ 2 ⏎ 𝐺 ⏎ 𝑀 ⏎ 𝑅 ⏎ 𝑟 ⏎ 3 ⏎ a ⏎ tidal ⏎ 	​ ⏎  ⏎ ≈2GM ⏎ r ⏎ 3 ⏎ R ⏎ 	​ ⏎  ⏎  ⏎ where: ⏎  ⏎ 𝑀 ⏎ M = mass of the moon (or other body) ⏎  ⏎ 𝑅 ⏎ R = radius of the Earth ⏎  ⏎ 𝑟 ⏎ r = distance to the Moon. ⏎  ⏎ Notice the  ⏎ 𝑟 ⏎ 3 ⏎ r ⏎ 3 ⏎  in the denominator → tidal effects drop off very fast with distance. ⏎ That’s why distant stars don’t give us beach tides. ⏎  ⏎ ⚡ 7. Why tides vary from place to place ⏎  ⏎ Shape of coastlines ⏎  ⏎ Ocean depth ⏎  ⏎ Latitude and Coriolis effect ⏎  ⏎ Local resonance ⏎  ⏎ That’s why the Bay of Fundy has a record 16 m tidal range, while other coasts barely notice it.
+R51: Weight
+R59:  | Element | Mass | Energy | Sideways Vel. | Surface Nature | Size | Dist. from Star | Below-Surface Density | Height from Surface | Height from Core | g-Level | Clock Rate
+R60:  | Sun | ↑↑↑↑ | ↑↑↑↑ | →→ (galactic) | Plasma | ↑↑↑↑ | ONE | — | 0 (photosphere) | far (its own core is “near”) | ↑↑↑ (surface) | ↓ (deep potential)
+R61:  | Earth | ↑↑↑ | ↑↑ | →→→ (around Sun) | Solid | ↑↑↑ | CLOSE | — | 0 (sea level) | far (surface) | ↑↑ (9.8 m/s²) | baseline
+R62:  | Moon | ↑↑ | ↑ | →→ (around Earth) | Solid | ↑↑ | CLOSE | — | 0 | far | ↑ (1.62 m/s²) | ↑ (weaker potential)
+R63:  | Jupiter | ↑↑↑↑ | ↑↑↑ | →→→ | Gas | ↑↑↑↑ | FURTHER | high toward center | 0 | far (surface), near (deep) | ↑↑↑ (surface equiv.) | ↓ (deeper well)
+R64:  | Uranus | ↑↑↑ | ↑↑ | →→→ | Ice/Gas | ↑↑↑ | FURTHER | high toward center | 0 | far/near as above | ↑↑ (surface equiv.) | ↓ (shallower than Jupiter)
+R65:  | Black Hole (huge) | ↑↑↑↑ | ↑↑↑↑ | N/A | Singularity | ~0 | ONE–FURTHER | — | event horizon | near (if close) | ↑↑↑↑ (tidal g near) | ↓↓↓↓ (very slow clocks)
+R66:  | Black Hole (small) | ↑↑↑ | ↑↑↑ | N/A | Singularity | ~0 | AWAY–FURTHER | — | horizon | near | ↑↑↑↑ (even steeper near) | ↓↓↓↓
+R67:  | Light (photons) | m₀=0 | ↑↑↑↑ | →→→→ | none | — | ANY | — | — | — | — | n/a (carrier of time, affected by potential via redshift)
+R68:  | Empty Deep Space | • | • | N/A | Vacuum | ∞ | FURTHEST | — | #ERROR! | far from any core | ↓ | ↑↑ (fastest clocks)
+R77:  | Element | Mass (kg) | Energy (E) (J) | Mass ▲ | Energy ▲ | Element | Approx. Size (Diameter or Length Scale) | Size Symbol | Element | Sideways Velocity (typical) | Symbol | Surface Nature | Distance from Star | Element | Below Surface Density (kg/m³) | Symbol | Notes
+R78:  | Earth | (5.972\times10^{24}) | (5.37\times10^{41}) | ↑↑↑↑ | ↑↑↑↑ | Earth | 12,742 km | ↑↑↑ | Earth | 29.8 km/s (heliocentric) | →→→→ | Solid (rocky) | CLOSE | Earth | ~5500 | ↓↓↓
+R79:  | Sun | (1.9885\times10^{30}) | (1.79\times10^{47}) | ↑↑↑↑↑ | ↑↑↑↑↑ | Sun | 1,391,000 km | ↑↑↑↑↑ | Sun | N/A (it’s the star; ~220 km/s galactic, not used here) | N/A | Plasma | ONE | Sun | ~1,400 (avg) — core: ~150,000 | ↓↓ to ↓↓↓↓↓ | plasma — very dense core
+R80:  | Moon | (7.342\times10^{22}) | (6.60\times10^{39}) | ↑↑↑ | ↑↑↑ | Moon | 3,474 km | ↑↑↑ | Moon | 1.022 km/s (around Earth) | →→ | Solid (rocky) | CLOSE | Moon | ~3,340 | ↓↓↓
+R81:  | Jupiter | (1.898\times10^{27}) | (1.71\times10^{44}) | ↑↑↑↑↑ | ↑↑↑↑↑ | Jupiter | 139,820 km | ↑↑↑↑ | Jupiter | 13.1 km/s (heliocentric) | →→→ | Gas (no solid surface) | FURTHER | Jupiter | avg ~1,330; core region may exceed 20,000 | ↓↓ to ↓↓↓↓ | gas outside, dense metallic H core
+R82:  | Uranus | (8.681\times10^{25}) | (7.80\times10^{42}) | ↑↑↑↑ | ↑↑↑↑ | Uranus | 50,724 km | ↑↑↑↑ | Uranus | 6.8 km/s (heliocentric) | →→→ | Ice/Gas (fluid) | FURTHER | Uranus | ~1,270 | ↓↓
+R83:  | Black Hole (huge) (~10^8 M☉) | (1.99\times10^{38}) | (1.79\times10^{55}) | ↑↑↑↑↑ | ↑↑↑↑↑ | Black Hole (huge) (10^8 M☉) | Schwarzschild radius ≈ 300 million km | ↑↑↑↑↑ | Black Hole (huge) | N/A (depends on system; local frame ill-defined) | N/A | No surface (event horizon) | ONE–FURTHER (varies) | Black Hole (huge) | effectively infinite | ↓↓↓↓↓ | singularity (undefined classical density)
+R84:  | Black Hole (small) (~10 M☉) | (1.99\times10^{31}) | (1.79\times10^{48}) | ↑↑↑↑↑ | ↑↑↑↑↑ | Black Hole (small) (10 M☉) | Schwarzschild radius ≈ 30 km | ↑↑ | Black Hole (Small) | N/A | N/A | No surface (event horizon) | AWAY–FURTHER (varies) | Black Hole (small) | effectively infinite | ↓↓↓↓↓ | same as above
+R85:  | Land (continental crust above sea level, rough) | (\sim1.5\times10^{22}) | (\sim1.35\times10^{39}) | ↑↑↑ | ↑↑↑ | Land (continental patch) | ~1,000 km across (representative) | ↑↑ | Land (Earth region) | inherits Earth: 29.8 km/s vs Sun; N/A vs Earth | →→→→ | Solid | CLOSE | Land (Earth) | ~2,500–3,000 | ↓↓↓
+R86:  | Ocean (all Earth’s seawater) | (1.4\times10^{21}) | (1.26\times10^{38}) | ↑↑↑ | ↑↑↑ | Ocean (Earth’s ocean body) | ~12,000 km (basin span) | ↑↑↑ | Ocean (global body) | inherits Earth: 29.8 km/s vs Sun; N/A vs Earth | →→→→ | Liquid | CLOSE | Ocean (Earth) | ~1,000 (water), floor below ~3,000 | ↓↓–↓↓↓
+R87:  | Empty Deep Space | ~0 (per card; no fixed volume) | ~0 (per card) | • | • | Empty Deep Space | effectively infinite (undefined) | • | Empty Deep Space | N/A | N/A | Vacuum | FURTHEST | Empty Deep Space | ~0 | • | vacuum
+R88:  | Asteroid (~1 km dia., ρ≈2000 kg/m³) | (\sim1\times10^{12}) | (\sim8.99\times10^{28}) | ↑↑ | ↑↑ | Asteroid (~1 km body) | ~1 km | ↑ | Asteroid (main belt) | ~17 km/s (heliocentric @ 2–3 AU) | →→→ | Solid (rock/ice) | FURTHER | Asteroid | ~2,000–3,000 (rocky) | ↓↓↓
+R89:  | Dust Particles (~10 μm grain) | (\sim1\times10^{-11}) | (\sim9\times10^{5}) | • | • | Dust Particles | ~10 µm | • | Dust Particles (interplanetary) | ~15–30 km/s (heliocentric; wide range) | →→→ / →→→→ | Solid (micron grains) | FURTHER | Dust Particles | ~2,000–3,000 | ↓↓↓
+R90:  | Human Floating in Space | (\sim70) | (\sim6.29\times10^{18}) | ↑ | ↑ | Human Floating in Space | ~1.7 m | ↑ | Human Floating in Space | ~7.7 km/s (LEO around Earth) | 0 | None (in vehicle), freefall environment | CLOSE | Human Floating in Space | ~1,000 (soft tissue) | ↓↓
+R91:  | Human On Land | (\sim70) | (\sim6.29\times10^{18}) | ↑ | ↑ | Human On Land | ~1.7 m | ↑ | Human On Land | inherits Earth: 29.8 km/s vs Sun; N/A vs Earth | →→→→ | Soft body (on solid ground) | CLOSE | Human On Land | ~1,000 | ↓↓
+R92:  | Light (Photons) | (m_0=0) | per photon (e.g., 500 nm ≈ (3.97\times10^{-19}) J) | — | • (per photon) | Light (Photons) | no defined size | • | Light (Photons) | 299,792 km/s | c | None | ANYWHERE | Light (Photons) | no mass density | •
+R93:  | Himalayas (very rough mountain-range bulk) | (\sim5\times10^{18}) | (\sim4.49\times10^{35}) | ↑↑↑ | ↑↑↑ | Himalayas (range) | ~2,400 km length, 300 km wide | ↑↑ | Himalayas (Earth region) | inherits Earth: 29.8 km/s vs Sun; N/A vs Earth | →→→→ | Solid (mountain range) | CLOSE | Himalayas | ~2,700 (granite + low-density crust) | ↓↓↓
+R94:  | Quick Sand (local patch; highly variable) | (\sim1\times10^{8}) | (\sim8.99\times10^{24}) | ↑↑ | ↑↑ | Quick Sand (patch) | ~10 m | ↑ | Quick Sand (patch) | inherits Earth: 29.8 km/s vs Sun; N/A vs Earth | →→→→ | Gooey (granular fluid) | CLOSE | Quick Sand | ~1,800 (wet granular) | ↓↓
+R95:  | Ocean (duplicate row in your list — same as above) | (1.4\times10^{21}) | (1.26\times10^{38}) | ↑↑↑ | ↑↑↑ | Ocean (duplicate) | ~12,000 km | ↑↑↑ | Ocean (dup. in list) | inherits Earth: 29.8 km/s vs Sun; N/A vs Earth | →→→→ | Liquid | CLOSE | Ocean (dup.) | ~1,000 surface, floor denser | ↓↓–↓↓↓
+R96:  | Granite Mountain (single big mountain) | (\sim1\times10^{15}) | (\sim8.99\times10^{31}) | ↑↑↑ | ↑↑↑ | Granite Mountain | ~10 km across | ↑ | Granite Mountain | inherits Earth: 29.8 km/s vs Sun; N/A vs Earth | →→→→ | Solid (granite) | CLOSE | Granite Mountain | ~2,700 | ↓↓↓
+R97:  | Equator (regional belt; N/A without chosen size) | N/A (regional) | N/A (regional) | — | — | Equator (belt width) | circumference 40,075 km | ↑↑↑ | Equator (Earth belt) | inherits Earth: 29.8 km/s vs Sun; N/A vs Earth | →→→→ | Solid | CLOSE | Equator (Earth) | ~2,500–3,000 | ↓↓↓
+R98:  | Poles (regional caps; N/A without chosen size) | N/A (regional) | N/A (regional) | — | — | Poles (cap region) | ~1,000 km radius | ↑↑ | Poles (Earth caps) | inherits Earth: 29.8 km/s vs Sun; N/A vs Earth | →→→→ | Solid/Ice | CLOSE | Poles (Earth) | ~3,000 (denser crust) | ↓↓↓
+R99:  | Space (generic card like “Empty Deep Space”) | ~0 | ~0 | • | • | Space (conceptual) | infinite | • | Space (generic) | N/A | N/A | Vacuum | FURTHEST | Space | ~0 | •
+R100:  | Chocolate Goo Planet (fictional, internally consistent) | (\boxed{1\times10^{23}}) | (\boxed{8.99\times10^{39}}) | ↑↑↑ | ↑↑↑ | Chocolate Goo Planet (fictional) | 8,000 km (Earth-sized smaller planet) | ↑↑↑ | Chocolate Goo Planet (fictional, kept physical) | ~33 km/s (heliocentric @ ~0.8 AU) | →→→→ | Gooey surface (warm; close-in) | CLOSE | Chocolate Goo Planet | ~3,500–4,000 (viscous mantle, warm) | ↓↓↓
+R112:  | Mass/Energy Curves, stretches ST, & results in all objects around being dragged towards itself | - blanket stretched, balls placed 1 big, some small, another bigger, 2 equal
+R113:  | No one is actually pulling, no energy expended by objects on gravity | Pull another, expend energy. But thats not gravity ⏎ Tug -of War
+R114:  | Lagrange Point | two pull you from either side, what point do you not get pulled at all
+R115:  | Pulls us back down when we jump, pulls objects down | make an object float with no other material used ⏎ how high can you jump? ⏎ climb stairs,  ⏎ climb slide
+R116:  | Escape velocity | Jump on Trampoline ⏎ Can you jump into the sky? How? Extra Energy ⏎ Pick paper clip with magnet ⏎ feather float with dryer
+R117:  | CoG=CoB | Yoga Pose - One leg standing ⏎ Yoga Pose 2 ⏎ Gravitational Spinner ⏎ Jenga
+R118:  | Every object, every surface, exhibits an opposite push force, against the force applied on it - press into wall, wood, cushion, water - some opp Fn is lesser so you pierce through, some larger so solid | lie down & catch another falling ⏎ how are you standing? ⏎ Push on wall, push on cushion, push water. Were you be able to pierce through? 
+R119:  | Where does this Normal Force comes from, my body e and ground e repelling. depends on density of surface - ground dense enough , high Fn, water, less dense, less Fn, air even lesser - air resistance | drop crumpled and normal paper and one over other - air resistance vs gravity
+R120:  | Two ways to not sink in the ocean, to kick, generate extra force against the gravity, so the push force of water surface(buoyant force + kick force = Fg, or you align your body, spread in such a way, that the buoyant force across the surface water you cover can hold you up, with Fb=Fg | not sinking in a pool? How? Why?
+R121:  | Trampoline , Impact force from elastic energy | Jump on a trampoline. How are you able to reach a greater height?
+R122:  | there are 3, true Weight =mg, W we measure = Fn, W we feel | Measure your weight on a scale. then lift up one leg in the air- what happens to the reading on the scale? Did you feel like your weight or mass changed? then why did the scale change? ⏎ When you held your friend from falling, did you feel his weight? 
+R123:  | in 0 G, true weightlessness , Wtrue=Fn=W we feel =0
+R124:  | W=Fn on Ground, moving elevator W=Fn+-Fa | Float in a pool
+R125:  | Floating in Pool , Wtrue=mg, Wapparent = Fb, but we feel W=0 | Measure your weight on the ground, on an elevator moving up and while moving down, Note the values. Are they same? Is your true weight changing? then why are the readings?
+R126:  | Suspended in Pool, Wture=mg, Wapparent= Fb+Fkick, W we feel, lighter | Stay suspended in a pool
+R127:  | Standing in a pool on a scale , Wture=mg, Wmeasured=Fn-Fb, W we feel, lighter | measure weight inside a pool
+R128:  | rotate, particles gets pulled in towards the center | mom filter coffee- tumbler
+R129:  | orbital velocity | Hoola Hoop,moon& ISS , Planets around Sun
+R131:  |  |  |  |  |  |  | Time Dialation | G level |  | Number of squares
+R132:  |  |  |  |  |  |  |  |  | Deep Space
+R133:  |  |  |  |  |  |  |  |  | Lagrange Point
+R134:  |  |  |  |  |  |  |  |  | Low Earth Orbit | ISS
+R135:  |  |  |  |  |  |  |  |  | Exosphere
+R136:  |  |  |  |  |  |  |  |  | Thermosphere
+R137:  |  |  |  |  |  |  |  |  | Mesosphere
+R138:  |  |  |  |  |  |  |  |  | Stratosphere
+R139:  |  |  |  |  |  |  |  |  | Troposphere
+R140:  |  |  |  |  |  |  |  |  | Surface
+R141:  |  |  |  |  |  |  |  |  | Crust
+R142:  |  |  |  |  |  |  |  |  | Mantle
+R145:  | Gravity Wells | Earth - layers above, layers below 
+R146:  |  | Black Hole
+R147:  |  |  |  | Core
+R148:  | Forces Against Gravity | Normal Force | lie down & catch another falling ⏎  ⏎ Push on wall, push on cushion, push water. Were you be able to pierce through?  |  |  | time, weight
+R149:  |  | Buoyancy - low G mode | Float in a pool ⏎ Stay suspended in a pool
+R150:  |  | Sideways Velocity | Hoola Hoop ⏎ moon& ISS , Planets around Sun (colouring pages) ⏎ Surfing
+R151:  |  | Impact Force -Elastic Energy | Jump on Trampoline
+R152:  |  | CoG=CoB | Yoga Pose - One leg standing ⏎ Yoga Pose 2 ⏎ Gravitational Spinner ⏎ Jenga
+R153:  |  | Escape Velocity | Make rocket - chemical energy?
+R154:  |  | Magnetic Energy | Pick paper clip with magnet
+R155:  |  | Air Resistance | drop crumpled and normal paper and one over other -
+R156:  |  | Physical Work | how high can you jump? ⏎ climb stairs,  ⏎ climb slide
+R157:  |  | Air Lift | feather float with dryer
+R158:  |  | Neutral Pull | Tug -Off War |  | Move to lagrange point
+R159:  |  | Wieght Loss (mass) | "Measure your weight on a scale. then lift up one leg in the air- what happens to the reading on the scale? Did you feel like your weight or mass changed? then why did the scale change? ⏎ When you held your friend from falling, did you feel his weight? " ⏎  ⏎ measure weight inside a pool ⏎  ⏎ Measure your weight on the ground, on an elevator moving up and while moving down, Note the values. Are they same? Is your true weight changing? then why are the readings?
+R160:  |  | Knowledge Points | - blanket stretched, balls placed 1 big, some small, another bigger, 2 equal
+R161:  |  |  | Pull another, expend energy. But thats not gravity
+R162:  |  |  | make an object float with no other material used
+R163:  |  |  | End point of gravity is at geometric center, where Fg=0
+R164:  |  |  | Gravitas
+R171:  | Black Hole -> Gravity Increases ->All gets dragged down
+R172:  | Increases your mass - hold weights and stand
+R173:  |  | If FN drops below certain level, you start getting sucked into the Earth
+R174:  | Do Activity Cards - Earn Force Cards - Use them to Move Away from earth
+R178:  | Catch a falling friend | Earn A Normal Force Card & get to roll the dice
+R179:  | move token as many tiles as the dice number | if you land on a gravity event - you move backwards as it says
+R180:  | Use The Force Cards earned to resist  the Gravity Event 

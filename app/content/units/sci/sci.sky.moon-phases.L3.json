@@ -421,7 +421,8 @@
    "description": "Think of a heavy grown-up and a small child holding hands and spinning round. The child swings in a big circle. The grown-up wobbles in a small circle. Both turn round a point between them, close to the grown-up. The Earth and the Moon are like that. Each month, the Earth wobbles in a small circle as the Moon swings round. They also change each other in other ways. The Earth's pull locked the Moon's face. The Moon's pull makes our tides, and slowly slows the Earth's spin. As it does, the Moon drifts about 3.8 centimetres further away every year. Scientists measure this by bouncing laser light off mirrors left on the Moon by astronauts.",
    "examples": [
     "Astronomers find planets round other stars partly this way. A planet makes its star wobble a little, just as the Moon makes the Earth wobble.",
-    "Some scientists think the Moon helps keep the Earth's tilt steady, and so keeps our seasons steady. Others think the Earth would manage without it."
+    "Some scientists think the Moon helps keep the Earth's tilt steady, and so keeps our seasons steady. Others think the Earth would manage without it.",
+    "The Earth also spins once a day. That is why the Moon, like the Sun and the stars, seems to rise in the east and set in the west. Two movements mix together: the Moon's slow trip round the Earth, and the Earth's daily spin."
    ],
    "perspectives": [],
    "art": "A grown-up and a child holding hands and spinning, beside a drawing of the Earth and the Moon both circling a small dot just inside the Earth.",
@@ -752,11 +753,11 @@
       "t": "mcq",
       "q": "Why does the full Moon rise just as the Sun sets?",
       "options": [
-       "The full Moon is on the opposite side of the Earth from the Sun",
        "The Moon waits for the Sun to go to sleep",
+       "The full Moon is on the opposite side of the Earth from the Sun",
        "The full Moon is closest to the Sun"
       ],
-      "a": 0,
+      "a": 1,
       "why": "At full Moon, the Earth is between the Sun and the Moon. So the Moon is on the opposite side of our sky from the Sun. As the Sun sinks in the west, the Moon comes up in the east. Picking 'closest to the Sun' usually comes from thinking a brighter Moon must be nearer the light. In fact, the full Moon is the furthest from the Sun of all the phases."
      }
     },
@@ -974,12 +975,12 @@
      "t": "mcq",
      "p": "Some people think the Moon glows by itself, like a bulb. Which clue best shows that this is wrong?",
      "opts": [
-      "On Amavasya the Moon is still in the sky, but we cannot see it at all",
       "The Moon is very far away",
       "The Moon looks white",
-      "The Moon is cold"
+      "The Moon is cold",
+      "On Amavasya the Moon is still in the sky, but we cannot see it at all"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A strong answer uses the clue: a bulb glows on every side, all the time. The Moon goes completely dark when its sunlit half faces away from us. So its light must come from the Sun. 'Far away' and 'white' say nothing about where the light comes from."
     },
     {
@@ -987,11 +988,11 @@
      "p": "Why does the Moon seem to change shape?",
      "opts": [
       "The Earth's shadow covers part of it",
-      "We see more or less of its sunlit half as it goes round us",
       "Clouds cover part of it",
-      "It really grows and shrinks"
+      "It really grows and shrinks",
+      "We see more or less of its sunlit half as it goes round us"
      ],
-     "a": 1,
+     "a": 3,
      "why": "Half the Moon is always lit. As it goes round the Earth, we see different amounts of that lit half. Picking 'the Earth's shadow' is the most common wrong idea. The Earth's shadow only reaches the Moon in a lunar eclipse.",
      "art": "The Moon in four places round the Earth, with sunlight coming from one side."
     },
@@ -1054,10 +1055,10 @@
      "p": "Remember the ball and lamp experiment. Where was the ball when you saw a full Moon?",
      "opts": [
       "Between you and the lamp",
-      "On the far side of you from the lamp",
-      "Right on top of the lamp"
+      "Right on top of the lamp",
+      "On the far side of you from the lamp"
      ],
-     "a": 1,
+     "a": 2,
      "why": "You saw the whole lit face only with the lamp behind you. So a full Moon is on the far side of the Earth from the Sun. Picking 'between you and the lamp' gives the new Moon, when the lit side faces away.",
      "context": "This question is about the ball and lamp experiment. A lamp is the Sun, a pale ball on a pencil is the Moon, and your head is the Earth. You turn slowly and watch the ball's lit part.",
      "how": "e1"
@@ -1094,6 +1095,12 @@
      ],
      "a": "pairs as given",
      "why": "The Moon rises about 50 minutes later each day. The full Moon is opposite the Sun, so it rises as the Sun sets. The new Moon is next to the Sun, so it rises with it."
+    },
+    {
+     "t": "truefalse",
+     "p": "The Moon rises in the east mainly because the Earth spins once a day.",
+     "a": true,
+     "why": "True. The Earth's daily spin makes the Moon, the Sun and the stars all seem to rise in the east. The Moon's own trip round the Earth adds a small change on top."
     },
     {
      "t": "sort",
@@ -1146,11 +1153,11 @@
      "t": "mcq",
      "p": "In the evening, a growing half Moon seen from India is lit on which side?",
      "opts": [
-      "The right side, towards where the Sun set",
       "The left side",
-      "The top"
+      "The top",
+      "The right side, towards where the Sun set"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The lit side always faces the Sun. In the evening, the Sun has set in the west, which is to the right of the Moon when you face it. Picking 'the left' gives a shrinking Moon, which is best seen late at night or in the morning.",
      "context": "A Moon diary is a record of the Moon's shape, the date, the time and the direction, kept night after night.",
      "how": "a2"
@@ -1200,12 +1207,12 @@
      "t": "mcq",
      "p": "What slowed the young Moon's spin until it matched its trip round the Earth?",
      "opts": [
-      "The Earth's pull on a slight bulge in the Moon's rock, acting like a brake",
       "Air rubbing against the Moon",
       "The Sun's heat",
-      "Astronauts"
+      "Astronauts",
+      "The Earth's pull on a slight bulge in the Moon's rock, acting like a brake"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The Earth's gravity stretched the Moon into a very slight bulge. As the Moon spun, the Earth kept tugging the bulge back, like a brake. Picking 'air' is a good guess, since friction slows things. But the Moon has almost no air."
     },
     {
@@ -1283,11 +1290,11 @@
      "t": "mcq",
      "p": "Why do Indian calendars add an extra month, adhik maas, about once every three years?",
      "opts": [
-      "So that festivals stay in the same season",
       "To give everyone a holiday",
-      "Because the Moon goes faster in some years"
+      "Because the Moon goes faster in some years",
+      "So that festivals stay in the same season"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Twelve Moon months make about 354 days, 11 days short of a Sun year. After three years that is more than a month. The extra month brings the calendar back in step with the seasons."
     },
     {
@@ -1334,11 +1341,11 @@
      "p": "You want to see the Moon high in the sky in the late afternoon, while it is still daylight. Which Moon should you look for?",
      "opts": [
       "The full Moon",
-      "A growing half Moon",
       "The new Moon",
-      "A thin shrinking crescent"
+      "A thin shrinking crescent",
+      "A growing half Moon"
      ],
-     "a": 1,
+     "a": 3,
      "why": "A strong answer uses rising times. A growing half Moon rises around noon, so by late afternoon it is high in the east. The full Moon only rises at sunset. The new Moon is next to the Sun and cannot be seen. A shrinking crescent rises before dawn and sets in the afternoon."
     },
     {
@@ -1368,11 +1375,11 @@
      "t": "mcq",
      "p": "If you stood on the Moon on the night of Amavasya, what would the Earth look like?",
      "opts": [
-      "Nearly full and bright",
       "Completely dark",
+      "Nearly full and bright",
       "A thin crescent"
      ],
-     "a": 0,
+     "a": 1,
      "why": "On Amavasya, the Moon is between the Earth and the Sun. So the side of the Earth facing the Moon is in daylight. From the Moon, you would see a nearly full Earth. Picking 'completely dark' means thinking the Earth and Moon always have the same phase. In fact their phases are opposite."
     },
     {
@@ -1464,11 +1471,11 @@
      "t": "mcq",
      "p": "The Sun is about 400 times wider than the Moon and about 400 times further away. What does this mean?",
      "opts": [
-      "They look about the same size in our sky, so the Moon can just cover the Sun",
       "The Sun is smaller than the Moon",
-      "Eclipses happen every day"
+      "Eclipses happen every day",
+      "They look about the same size in our sky, so the Moon can just cover the Sun"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Something 400 times wider but also 400 times further away looks the same size. So in a total solar eclipse, the Moon just covers the Sun. As the Moon drifts away, this perfect fit will not last for ever."
     },
     {
@@ -1503,12 +1510,12 @@
      "t": "mcq",
      "p": "The Moon is moving away from us very slowly. Imagine it were twice as far away as it is now. What would a solar eclipse look like?",
      "opts": [
-      "The Moon would look smaller than the Sun, so a ring of Sun would shine round it",
       "The Moon would cover the Sun completely, just as now",
       "The Moon would look bigger and cover the Sun for longer",
+      "The Moon would look smaller than the Sun, so a ring of Sun would shine round it",
       "There would be no change at all"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A strong answer uses the 400 times fit. Twice as far away, the Moon would look half as wide. It could no longer cover the whole Sun, so we would see a bright ring round it. This already happens when the Moon is at the far point of its path, and it is called a ring eclipse."
     }
    ]
@@ -1612,11 +1619,11 @@
       "t": "mcq",
       "q": "As you keep turning and the light shrinks, which side of the ball is lit?",
       "options": [
-       "The left side",
        "The right side",
-       "The whole ball"
+       "The whole ball",
+       "The left side"
       ],
-      "a": 0,
+      "a": 2,
       "why": "After the full Moon, the lamp swings round to your left side, so the left side of the ball faces it and is lit. The real shrinking Moon is lit on its left, as seen from India. The right side was lit earlier, on the way to the full Moon, while the Moon was growing."
      }
     },
@@ -1772,11 +1779,11 @@
       "t": "mcq",
       "q": "Which shadow could cover the whole of the other ball?",
       "options": [
-       "The football's shadow covered the whole lime",
        "The lime's shadow covered the whole football",
-       "Both covered the whole of the other ball"
+       "Both covered the whole of the other ball",
+       "The football's shadow covered the whole lime"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The football is much bigger than the lime, so its shadow is big enough to swallow the lime whole. The lime's shadow only makes a small spot on the football. That is why everyone who can see the Moon can see a lunar eclipse, but only people in a small patch see a total solar eclipse. Picking 'both' usually means thinking shadows are always the same size as each other."
      }
     },
@@ -1919,11 +1926,11 @@
       "t": "mcq",
       "q": "What did the dal show?",
       "options": [
-       "The Moon was the same size both times",
        "The rising Moon was much bigger",
+       "The Moon was the same size both times",
        "The high Moon was much bigger"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The dal covered the Moon just the same both times, so the Moon was the same size in the sky. The rising Moon only looks bigger. This is called the Moon illusion, and it happens in our brains, not in the sky. Picking 'the rising Moon was much bigger' means trusting how the Moon looks more than what we measured. Measuring is how we avoid being fooled."
      }
     },
@@ -2025,11 +2032,11 @@
       "t": "mcq",
       "q": "You walked round the chair, always facing it. Did you turn round?",
       "options": [
-       "Yes, I turned round once, because I faced every wall",
        "No, I didn't turn at all",
+       "Yes, I turned round once, because I faced every wall",
        "I turned round four times"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Your face pointed at every wall of the room, one after another. So you turned round once while you went round the chair once. The Moon does the same. It spins once for each trip round the Earth, so the Earth always sees its same face. Picking 'I didn't turn' is the most common answer, because the chair always saw the same side of you."
      }
     },
@@ -2190,11 +2197,11 @@
       "t": "mcq",
       "q": "In your diary, which side of the Moon was lit while it was growing, in the evenings?",
       "options": [
-       "The right side, towards where the Sun set",
        "The left side",
+       "The right side, towards where the Sun set",
        "It changed every night"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The lit side always faces the Sun. In the evening the Sun has set in the west, to the right of the Moon when you face it. So a growing Moon is lit on its right. After Purnima, the lit side swaps to the left. Picking 'it changed every night' usually means some nights were missed or drawn from memory. Look again at your drawings."
      },
      "think": "If you kept your diary for a whole year, how many Purnimas would you draw? Would it be exactly 12?",
@@ -2261,11 +2268,11 @@
       "t": "mcq",
       "q": "Makar Sankranti falls on about 14 January every year. Diwali's date changes. Why?",
       "options": [
-       "Makar Sankranti follows the Sun, and Diwali follows the Moon",
        "Diwali follows the Sun, and Makar Sankranti follows the Moon",
-       "Someone chooses new dates each year"
+       "Someone chooses new dates each year",
+       "Makar Sankranti follows the Sun, and Diwali follows the Moon"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Makar Sankranti marks a point in the Sun's yearly path, so it stays on nearly the same date of our Sun calendar. Diwali falls on an Amavasya, a Moon day. Moon months are a little shorter than Sun months, so Moon festivals land on different dates each year. Picking 'someone chooses' is understandable. But nobody picks new dates each year. The dates follow the Sun or the Moon by fixed rules."
      }
     },
@@ -2517,11 +2524,11 @@
       "t": "mcq",
       "q": "It is 7 days since Amavasya. Which shape should the wheel show?",
       "options": [
-       "A growing half Moon, lit on the right",
        "A full Moon",
+       "A growing half Moon, lit on the right",
        "A shrinking crescent"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A full round of the Moon takes about 29 and a half days. A quarter of that is about 7 days. So a week after Amavasya, the Moon is a quarter of the way round, and we see a half Moon, lit on the right. Picking 'full Moon' usually means counting a week as half the month. The full Moon comes after about 15 days."
      }
     },
@@ -2696,11 +2703,11 @@
       "t": "mcq",
       "q": "Why can't a rover on the far side of the Moon talk to the Earth directly?",
       "options": [
-       "The Moon itself is in the way",
        "The far side is always dark",
-       "Radio does not work in space"
+       "Radio does not work in space",
+       "The Moon itself is in the way"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The far side always faces away from the Earth, so the whole Moon blocks a straight line between them. A relay out beyond the Moon can see both. Picking 'always dark' is a common mix-up. The far side gets just as much sunlight as the near side. Radio works very well in space. That is how all spacecraft talk to us."
      }
     },
@@ -2762,12 +2769,12 @@
    "t": "mcq",
    "p": "Half of the Moon is always lit by the Sun. So why do we see only a thin crescent on some nights?",
    "opts": [
-    "The Moon is nearly between us and the Sun, so we see only a sliver of its lit half",
     "Clouds cover the rest",
+    "The Moon is nearly between us and the Sun, so we see only a sliver of its lit half",
     "The Earth's shadow covers the rest",
     "The Moon has shrunk"
    ],
-   "a": 0,
+   "a": 1,
    "outcome": 0,
    "why": "Near new Moon, the lit half faces mostly towards the Sun and away from us. We see only its edge. Picking 'the Earth's shadow' is the most common wrong answer. The Earth's shadow only reaches the Moon in a lunar eclipse."
   },
@@ -2789,11 +2796,11 @@
    "t": "mcq",
    "p": "Which comes straight after the full Moon?",
    "opts": [
-    "A shrinking gibbous Moon",
     "A thin crescent",
-    "A new Moon"
+    "A new Moon",
+    "A shrinking gibbous Moon"
    ],
-   "a": 0,
+   "a": 2,
    "outcome": 0,
    "why": "After Purnima, the Moon shrinks a little at a time: gibbous, then half, then crescent, then new. Picking 'new Moon' skips the two weeks of shrinking in between."
   },
@@ -2825,13 +2832,25 @@
   },
   {
    "t": "mcq",
+   "p": "The Moon seems to rise in the east and set in the west. What is the main reason?",
+   "opts": [
+    "The Moon flies round the Sun",
+    "The Earth spins once a day",
+    "The Sun pulls the Moon across the sky"
+   ],
+   "a": 1,
+   "why": "The Earth spins once a day, so the whole sky seems to move across us. The Moon also goes round the Earth, which is why it rises about 50 minutes later each day. Flying round the Sun or being pulled by it does not make the Moon rise and set.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
    "p": "Imagine the Moon spun round twice for every trip round the Earth. What would we see over one month?",
    "opts": [
-    "Every side of the Moon, including the side we never see now",
     "Always the same face, just as now",
+    "Every side of the Moon, including the side we never see now",
     "No Moon at all"
    ],
-   "a": 0,
+   "a": 1,
    "outcome": 2,
    "why": "We see one face only because the Moon spins exactly once for each trip round us. Spinning twice, it would turn all its sides towards us in a month. Picking 'the same face' forgets that the match between spin and trip is what keeps one face towards us."
   },
@@ -2839,11 +2858,11 @@
    "t": "mcq",
    "p": "Is anything still being slowed down by the pull between the Earth and the Moon today?",
    "opts": [
-    "Yes. The Moon's pull is slowly slowing the Earth's spin, so our days get very slightly longer",
     "No. Everything stopped changing long ago",
+    "Yes. The Moon's pull is slowly slowing the Earth's spin, so our days get very slightly longer",
     "Yes. The Moon will soon stop spinning"
    ],
-   "a": 0,
+   "a": 1,
    "outcome": 2,
    "why": "The Earth's pull already slowed the Moon until one face stayed towards us, so that has finished. But the Moon's pull on our seas acts like a gentle brake on the Earth's spin. Days get longer by about 2 thousandths of a second every hundred years."
   },
@@ -2851,11 +2870,11 @@
    "t": "mcq",
    "p": "A solar eclipse can only happen at…",
    "opts": [
-    "New Moon",
     "Full Moon",
-    "Half Moon"
+    "Half Moon",
+    "New Moon"
    ],
-   "a": 0,
+   "a": 2,
    "outcome": 3,
    "why": "In a solar eclipse the Moon passes between the Sun and the Earth. That is where it is at new Moon. Picking 'full Moon' mixes it up with a lunar eclipse."
   },
@@ -2863,11 +2882,11 @@
    "t": "mcq",
    "p": "A total lunar eclipse can last more than an hour. A total solar eclipse lasts only a few minutes at any one place. Why?",
    "opts": [
-    "The Earth's shadow is big, so the Moon takes a long time to cross it. The Moon's shadow is small, so it passes over one place quickly",
     "The Sun moves faster than the Moon",
-    "Solar eclipses happen at night"
+    "Solar eclipses happen at night",
+    "The Earth's shadow is big, so the Moon takes a long time to cross it. The Moon's shadow is small, so it passes over one place quickly"
    ],
-   "a": 0,
+   "a": 2,
    "outcome": 3,
    "why": "In the shadow experiment, the football's big shadow could swallow the whole lime, but the lime made only a small spot. The Moon needs a long time to pass through the Earth's wide shadow. The Moon's small shadow sweeps across the Earth, so it covers one town for only minutes.",
    "context": "This question is about the shadow experiment. A torch is the Sun, a football is the Earth and a lime is the Moon.",
@@ -2901,11 +2920,11 @@
    "t": "mcq",
    "p": "Eid al-Fitr starts when people see something in the evening sky. What do they look for?",
    "opts": [
-    "The first thin crescent Moon after the new Moon",
     "A full Moon",
+    "The first thin crescent Moon after the new Moon",
     "A lunar eclipse"
    ],
-   "a": 0,
+   "a": 1,
    "outcome": 4,
    "why": "Eid begins a new Moon month, and the Islamic calendar starts each month with the first sighting of the new crescent just after sunset. That is why Eid's date moves about 11 days earlier each year. Picking 'full Moon' mixes it up with Purnima festivals."
   },
@@ -2913,11 +2932,11 @@
    "t": "mcq",
    "p": "The Earth has a big iron centre. The Moon has only a tiny one. How does the giant crash idea explain this?",
    "opts": [
-    "The crash splashed out mostly the Earth's outer rock, and the iron stayed deep inside the Earth",
     "The Moon's iron melted away",
-    "The Moon was made of iron, and it rusted"
+    "The Moon was made of iron, and it rusted",
+    "The crash splashed out mostly the Earth's outer rock, and the iron stayed deep inside the Earth"
    ],
-   "a": 0,
+   "a": 2,
    "outcome": 5,
    "why": "Iron is heavy, so in the young Earth it had sunk to the centre. A crash that splashed out the outer rock would make a Moon with very little iron. A captured Moon from somewhere else would have no reason to be so poor in iron."
   },
@@ -2937,11 +2956,11 @@
    "t": "mcq",
    "p": "What really causes an eclipse?",
    "opts": [
-    "A shadow",
     "A demon swallowing the Sun or Moon",
+    "A shadow",
     "Clouds"
    ],
-   "a": 0,
+   "a": 1,
    "outcome": 6,
    "why": "In a solar eclipse the Moon covers the Sun. In a lunar eclipse the Earth's shadow covers the Moon. Aryabhata wrote this in India in 499 CE. The demon Rahu comes from an old story."
   },
@@ -2949,11 +2968,11 @@
    "t": "mcq",
    "p": "You want to show a lunar eclipse with a lamp, a round table and a small mirror. Which one should be the Earth?",
    "opts": [
-    "A round table",
     "A mirror",
-    "A lamp"
+    "A lamp",
+    "A round table"
    ],
-   "a": 0,
+   "a": 2,
    "outcome": 6,
    "why": "The lamp is the Sun and the mirror is the Moon. The round table must be the Earth, because its round shadow falls on the mirror, as the Earth's shadow falls on the Moon. Wang Zhenyi used this model in China."
   },
@@ -2961,11 +2980,11 @@
    "t": "mcq",
    "p": "Which of these living beings really time their lives by the Moon?",
    "opts": [
-    "Red crabs on Christmas Island, who release their eggs into the sea at a set phase of the Moon",
     "Mango trees, who flower on every full Moon",
-    "Sunflowers, who turn to face the Moon at night"
+    "Sunflowers, who turn to face the Moon at night",
+    "Red crabs on Christmas Island, who release their eggs into the sea at a set phase of the Moon"
    ],
-   "a": 0,
+   "a": 2,
    "outcome": 6,
    "why": "Millions of red crabs walk to the sea and release their eggs when the Moon is in its last quarter, when the tides change least. Many corals also release eggs together after a full Moon. Mango trees and sunflowers do not follow the Moon in these ways."
   }
@@ -3322,6 +3341,55 @@
    "used_in": [
     "a1"
    ]
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Which Shadow Is Bigger? Wang Zhenyi's eclipses at home, A Moon Wheel: a paper calendar that shows tonight's Moon. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e2",
+    "p1"
+   ],
+   "plan": "Get it before Which Shadow Is Bigger? Wang Zhenyi's eclipses at home."
+  },
+  {
+   "id": "b-a-small-hand-mirror",
+   "item": "A small hand mirror",
+   "kind": "material",
+   "why": "Used in Talk to the Far Side. About ₹20 to ₹80. A shiny steel plate shows reflections too.",
+   "url": "https://www.amazon.in/s?k=small+hand+mirror",
+   "used_in": [
+    "c2"
+   ],
+   "plan": "Get it before Talk to the Far Side."
+  },
+  {
+   "id": "b-sticky-notes",
+   "item": "Sticky notes",
+   "kind": "material",
+   "why": "Used in Walk Round the Chair: does the Moon spin?. About ₹20 to ₹60. Small torn paper and tape do the same job.",
+   "url": "https://www.amazon.in/s?k=sticky+notes+pack",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Get it before Walk Round the Chair: does the Moon spin?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

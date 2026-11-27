@@ -1,9 +1,9 @@
 # Seeds that wait: how a dry seed stays alive for years
 `sci.seeds-and-life-cycles.seeds-and-germination.L5`
 
-**Summary.** Dry moong seeds mostly sprout after a night in the freezer, but soaked seeds die. Why? In this unit you will draw a chana waking up over four days, run the Freezer Test, and find out whether a seed that has begun to wake can be dried again.
+**Summary.** Dry moong seeds mostly sprout after a night in the freezer, but soaked seeds die. Why? In this lesson you will draw a chana waking up over four days, run the Freezer Test, and find out whether a seed that has begun to wake can be dried again.
 
-**Intro.** *A scientist in the United States worked on a lotus seed from a dry lake bed in China. The seed was about 1,300 years old. She filed a small cut in the hard coat and put the seed in water. Soon the seed had a green shoot. How can a seed stay alive for 1,300 years?* The scientist was Jane Shen-Miller, and she reported the lotus seed in 1995. The seed had done almost nothing for all those years. They had not grown, and they had hardly used any food. Then water reached the young plant inside, and the seed germinated like a seed from last year. In this unit you find out what keeps a dry seed alive. You put dry seeds and soaked seeds in the freezer. You dry seeds again after they have started to wake. Then you see how seed banks use the same science to keep seeds safe.
+**Intro.** *A scientist in the United States worked on a lotus seed from a dry lake bed in China. The seed was about 1,300 years old. She filed a small cut in the hard coat and put the seed in water. Soon the seed had a green shoot. How can a seed stay alive for 1,300 years?* The scientist was Jane Shen-Miller, and she reported the lotus seed in 1995. The seed had done almost nothing for all those years. They had not grown, and they had hardly used any food. Then water reached the young plant inside, and the seed germinated like a seed from last year. In this lesson you find out what keeps a dry seed alive. You put dry seeds and soaked seeds in the freezer. You dry seeds again after they have started to wake. Then you see how seed banks use the same science to keep seeds safe.
 
 ## Learning outcomes
 0. I can name the parts of a seed and say, in order, what happens when a seed germinates.
@@ -32,6 +32,9 @@
 - **Seed bank (gene bank)**: A place that keeps seeds of many kinds of plants alive for a long time. The seeds are dried, sealed and frozen. *e.g.* India's National Genebank in New Delhi keeps more than 4 lakh seed samples in cold rooms.
 - **Soil seed bank**: All the living seeds lying in the soil of a place, waiting to germinate. *e.g.* Weeds that come up in a pot where you sowed nothing grew from the soil seed bank.
 - **Regrow (regenerate)**: To sow some stored seeds, grow the plants, and collect fresh seeds to put back in the bank. *e.g.* When fewer than 85 in 100 stored seeds germinate, a seed bank regrows the sample.
+- **Rabi**: A crop sown in the cool months after the monsoon and harvested in spring. *e.g.* Wheat, gram (chana) and mustard are rabi crops.
+- **Kharif**: A crop sown when the monsoon rains come and harvested in autumn. *e.g.* Rice, maize and soybean are kharif crops.
+- **Zaid**: A short crop grown in the hot months, before the monsoon rains. *e.g.* Watermelon, cucumber and muskmelon are zaid crops.
 
 ## Explanations
 ### Inside a seed, and the steps of germination · *defined*
@@ -102,6 +105,7 @@ A frozen seed is safe from floods, pests and war, but the seed does not change. 
 - e.g. Rahibai Popere, a farmer in Maharashtra, has saved many old crop varieties by growing and sharing them.
 - e.g. Women farmers of the Deccan Development Society in Telangana run village seed banks of millets. Seed is lent, and paid back after harvest.
 - e.g. After the tsunami of 2004, farmers in Nagapattinam in Tamil Nadu went back to old paddy that can grow in salty soil.
+- e.g. Farmers sow each crop in its own season. Rabi crops, such as wheat and gram, are sown in the cool months after the monsoon. Kharif crops, such as rice and maize, are sown when the monsoon rains come. Zaid crops, such as watermelon and cucumber, are sown in the hot months before the monsoon.
 - **Scientists who run frozen seed banks:** A freezer keeps thousands of varieties in one small room for a hundred years, at low cost. When a variety is lost from the fields, the bank can give it back. No village could keep growing so many varieties every year.
 - **Farmers and scientists who keep seeds growing, such as the ecologist Debal Deb in Odisha:** A seed in a freezer stops adapting to new weather and new pests. A variety also needs farmers who know how to grow, cook and choose that crop. So the seeds should be sown every year, in many fields.
 - **Many people who work with both:** The two ways cover each other's risks. Fields keep seeds adapting, and frozen banks are the back-up when a field is lost.
@@ -148,7 +152,7 @@ A dry seed can live through more than a freezer. From 2008 to 2009, scientists k
   Against: The seed keeps and protects every part needed for life, and a dead seed does not. Many biologists call that being alive.
 
 ## Roots
-In this unit you froze dry seeds and soaked seeds, and you dried seeds that had started to wake. Here we ask what a waiting seed shows about life, and about ourselves.
+In this lesson you froze dry seeds and soaked seeds, and you dried seeds that had started to wake. Here we ask what a waiting seed shows about life, and about ourselves.
 
 **Deep truth.** In the Freezer Test, dry moong lived through a night in the freezer, and soaked moong died. In No Going Back, moong who were dried after their roots came out died too. A dry seed can live through cold and drying that kill a seedling. So a plant is toughest as a dry seed, and once the root is out there is no way back.  
 *Habit it breaks:* We think of a seed as the small, helpless start of a plant. We think of the grown plant as the strong one. Against cold and drought it is the other way round. The dry seed is the form in which a plant survives what no leaf or root can.  
@@ -555,7 +559,7 @@ Thenmozhi sealed the lid of their pot with mud. Then she took a piece of charcoa
 ## Worksheets
 ### Seeds that wait (core) (core, 15 questions)
 1. (mcq) Which part of a seed is the young plant?  
-   Options: The embryo / The seed coat / The food store / The soil around the seed  
+   Options: The seed coat / The food store / The embryo / The soil around the seed  
    **Answer:** The embryo. *Why:* The embryo is the young plant, with a tiny root and a tiny shoot. The seed coat protects the embryo, and the food store feeds the embryo.
 2. (order) Put the steps of germination in order.  
    **Answer:** ['The seed takes in water and swells', 'The seed coat splits', 'The radicle grows out and turns down', 'The plumule grows up', 'The first green leaves open']. *Why:* Water must go in first. Then the coat splits and the root comes out before the shoot. The leaves open last and start to make food.
@@ -566,7 +570,7 @@ Thenmozhi sealed the lid of their pot with mud. Then she took a piece of charcoa
 5. (truefalse) A moong seed needs light to germinate.  
    **Answer:** False. *Why:* False. Moong germinate in a dark cupboard, because the embryo lives on the food store. A few kinds of seed, such as lettuce, do need light.
 6. (mcq) To test whether seeds need water, which two jars should you compare?  
-   Options: Wet warm jar and dry warm jar / Wet warm jar and wet cold jar / Dry warm jar and wet cold jar / Two dry warm jars  
+   Options: Wet warm jar and wet cold jar / Dry warm jar and wet cold jar / Two dry warm jars / Wet warm jar and dry warm jar  
    **Answer:** Wet warm jar and dry warm jar. *Why:* Only the water should differ between the two jars. If warmth changed too, you could not tell which one caused the result.
 7. (sort) Sort these. Do most seeds need each one to germinate?  
    **Answer:** water → Needed; oxygen from the air → Needed; warmth → Needed; light → Not needed; soil → Not needed. *Why:* Seeds germinate on a wet cloth in a dark cupboard, so they need neither soil nor light. Without water, air or warmth they do not germinate.
@@ -575,7 +579,7 @@ Thenmozhi sealed the lid of their pot with mud. Then she took a piece of charcoa
 9. (write) A germination test uses 20 seeds in each group, not 1. Explain why.  
    **Answer:** In any batch a few seeds are dead already. With 1 seed, a dead one would give the wrong answer. With 20 seeds, one dead seed changes the result by only 5 percent.. *Why:* A strong answer says that single seeds can be dead or odd, and that many seeds make the result steadier.
 10. (mcq) What happens inside a soaked seed in a freezer?  
-   Options: Ice crystals tear the cells / The food store melts / The seed dries out safely / The embryo grows faster  
+   Options: The food store melts / Ice crystals tear the cells / The seed dries out safely / The embryo grows faster  
    **Answer:** Ice crystals tear the cells. *Why:* A soaked seed is full of water. The water freezes into sharp crystals that tear the cell membranes, and the cells die.
 11. (truefalse) Dry moong seeds die after one night in a freezer.  
    **Answer:** False. *Why:* False. A dry seed holds too little water to form ice, so the cold does no harm. Seed banks store dry seeds in freezers.
@@ -587,11 +591,11 @@ Thenmozhi sealed the lid of their pot with mud. Then she took a piece of charcoa
    **Answer:** ['18', 'eighteen']. *Why:* Minus 18 degrees Celsius is about the cold of a home freezer. Cold slows the ageing of a dry seed.
 15. (perspective) Where are old crop seeds safest?  
    **Answer:** Any view with a reason from the unit. For the freezer: dry, cold seeds age very slowly. For the field: frozen seeds do not adapt, and some seeds cannot be dried. For both: each covers the other's risk.. *Why:* Each view is partly right. A strong answer uses a fact about seeds, such as slow ageing in the cold. A strong answer also replies fairly to another view.
-### Dry, cold and counted (stretch) (stretch, 15 questions)
+### Dry, cold and counted (stretch) (stretch, 16 questions)
 1. (write) In the Freezer Test, dry seeds germinated equally well from the freezer and from the shelf. What does this show?  
    **Answer:** It shows that cold alone does not kill a dry seed. The two groups differ only in the freezer, and the result is the same.. *Why:* A strong answer names the one difference between the groups and says that this difference did not change the result.
 2. (mcq) Soaked seeds germinated 100 percent on a shelf and 0 percent frozen. Frozen dry seeds germinated 90 percent. What killed the seeds?  
-   Options: Cold and water together / Cold alone / Water alone / Old age  
+   Options: Cold alone / Water alone / Old age / Cold and water together  
    **Answer:** Cold and water together. *Why:* Dry frozen seeds lived, so cold alone is not the cause. Soaked seeds on the shelf lived, so water alone is not the cause. Only the group with both died.
 3. (truefalse) A dormant seed is a dead seed.  
    **Answer:** False. *Why:* False. A dormant seed is alive and can germinate later. A dead seed can never germinate.
@@ -606,20 +610,22 @@ Thenmozhi sealed the lid of their pot with mud. Then she took a piece of charcoa
    **Answer:** 50. *Why:* 80 percent means 8 of every 10 seeds grow. To get 40 plants you need 5 lots of 10 seeds, which is 50 seeds.
 8. (sort) Sort these seeds. Can each be dried and stored for years, or must each be sown fresh?  
    **Answer:** moong → Can be dried and stored; wheat → Can be dried and stored; paddy → Can be dried and stored; mango → Must be sown fresh; jackfruit → Must be sown fresh. *Why:* Moong, wheat and paddy dry out as they ripen and can wait for years. Mango and jackfruit seeds die if they dry, so they cannot be kept in a frozen seed bank.
-9. (order) Put the steps of a seed bank in order.  
+9. (sort) Sort these crops by season. Is each one rabi, kharif or zaid?  
+   **Answer:** wheat → Rabi; gram → Rabi; rice → Kharif; maize → Kharif; watermelon → Zaid. *Why:* Wheat and gram are sown after the monsoon, so they are rabi. Rice and maize are sown with the monsoon, so they are kharif. Watermelon is sown in the hot months, so it is zaid.
+10. (order) Put the steps of a seed bank in order.  
    **Answer:** ['Collect the seeds and note the place and date', 'Clean the seeds and test a sample', 'Dry the seeds slowly', 'Seal them in packets', 'Freeze the packets', 'Test a sample every few years']. *Why:* Seeds must be dry before they are sealed and frozen, or ice would kill them. Testing goes on for as long as the seeds are stored.
-10. (write) Why does a seed bank let a cold packet warm up before opening the packet?  
+11. (write) Why does a seed bank let a cold packet warm up before opening the packet?  
    **Answer:** Damp from the room air settles as water on anything cold. If the packet were opened cold, the dry seeds would take in that water. Wetter seeds age faster.. *Why:* A strong answer links the cold surface to damp settling on the seeds, and damp to faster ageing.
-11. (mcq) Why does a seed bank regrow a sample when germination falls below 85 percent?  
-   Options: Fresh seeds replace the ageing ones / The freezer has become too full / Old seeds grow into weeds / Farmers ask for bigger seeds  
+12. (mcq) Why does a seed bank regrow a sample when germination falls below 85 percent?  
+   Options: The freezer has become too full / Old seeds grow into weeds / Farmers ask for bigger seeds / Fresh seeds replace the ageing ones  
    **Answer:** Fresh seeds replace the ageing ones. *Why:* Stored seeds slowly die, even when frozen. Sowing them while most are still alive gives fresh seeds of the same variety to store again.
-12. (draw) Draw a soaked cell and a dry cell in a freezer. Show what the ice does in each.  
+13. (draw) Draw a soaked cell and a dry cell in a freezer. Show what the ice does in each.  
    **Answer:** The soaked cell is full of water, with sharp ice crystals poking through the thin skin of the cell. The dry cell is small and solid, with no crystals and an unbroken skin.. *Why:* A strong drawing shows ice only where there is water, and shows the damage as torn cell skins.
-13. (truefalse) Seeds soaked for a few hours and then dried can still germinate later.  
+14. (truefalse) Seeds soaked for a few hours and then dried can still germinate later.  
    **Answer:** True. *Why:* True. Before the root comes out, the embryo still has the protection of a dry seed. Farmers use this to make seeds come up faster.
-14. (match) Match each cause to its effect on a stored seed.  
+15. (match) Match each cause to its effect on a stored seed.  
    **Answer:** Kept very dry → Chemistry almost stops; Kept in damp air → The seed takes in water and ages fast; Kept cold and dry → Slow damage becomes even slower; Frozen while wet → Ice tears the cells. *Why:* Water speeds up the damage inside a seed, and cold slows the damage down. But cold with water inside the seed makes ice, which kills.
-15. (perspective) Is a dry seed in a jar alive?  
+16. (perspective) Is a dry seed in a jar alive?  
    **Answer:** Any view with a reason from the unit. One reason: a dry seed shows almost no activity. Another: a dry seed germinates with water and a boiled seed never does, so something is kept in the dry seed.. *Why:* This is a real disagreement among scientists. A strong answer uses a fact, such as the difference between a dry seed and a boiled seed. A strong answer also replies fairly to another view.
 ### Think like a seed scientist (challenge) (challenge, 15 questions)
 1. (write) Plan a fair test of warm and cool soaking water. Say what you change, measure and keep the same.  
@@ -627,7 +633,7 @@ Thenmozhi sealed the lid of their pot with mud. Then she took a piece of charcoa
 2. (write) A test finds that 2 of 2 seeds germinated: '100 percent'. Give two reasons not to trust this number.  
    **Answer:** Two seeds are too few: one dead seed would have made the result 50 percent. The two seeds may also not stand for the whole batch.. *Why:* A strong answer says that a small sample swings widely by chance. A sample must be big enough to stand for the batch.
 3. (mcq) Two groups of 20 seeds score 95 percent and 90 percent. What is the fairest conclusion?  
-   Options: No clear difference: it is one seed / The first group is clearly better / The second group is dying / The whole test failed  
+   Options: The first group is clearly better / The second group is dying / The whole test failed / No clear difference: it is one seed  
    **Answer:** No clear difference: it is one seed. *Why:* With 20 seeds, 5 percent is a single seed. One seed more or less can happen by chance, so the two groups are about the same.
 4. (write) Frozen shop peas do not grow. Dry peas from a jar do. Explain why, using water and ice.  
    **Answer:** The shop peas were full of water when they were frozen, so ice crystals tore their cells. The dry peas hold too little water to make ice, so their embryos are unharmed.. *Why:* A strong answer says that freezing harms only when there is water inside to form ice.
@@ -636,7 +642,7 @@ Thenmozhi sealed the lid of their pot with mud. Then she took a piece of charcoa
 6. (write) A light shower wakes half the seeds in a field. Then no rain comes. Predict what happens to each half.  
    **Answer:** The half that woke grow roots and then dry out and die, because a seedling cannot go back to waiting. The half that stayed dormant are still alive and can wake at the next rain.. *Why:* A strong answer uses the point of no return, and sees that the seeds that waited save the plant's chances.
 7. (mcq) Why is waiting for a heavy rain safer for a desert seed than waking at the first drops?  
-   Options: A woken seedling cannot go back to waiting / Heavy rain is warmer than light rain / Light rain washes the seeds away / Seeds wake only at night  
+   Options: Heavy rain is warmer than light rain / Light rain washes the seeds away / A woken seedling cannot go back to waiting / Seeds wake only at night  
    **Answer:** A woken seedling cannot go back to waiting. *Why:* Germination cannot be undone. After a light shower the soil soon dries, and a seedling dies. A heavy rain wets the soil for long enough for roots to grow deep.
 8. (fill) All the living seeds lying in the soil of a place are called the soil seed ____.  
    **Answer:** ['bank']. *Why:* The soil seed bank is why weeds appear in bare soil where nobody sowed anything. Some of its seeds wait for many years.
@@ -663,16 +669,16 @@ Thenmozhi sealed the lid of their pot with mud. Then she took a piece of charcoa
 
 ## Quiz
 1. (mcq) What comes out of a germinating seed first?  
-   Options: The root / The shoot / A green leaf / A flower bud  
+   Options: The shoot / The root / A green leaf / A flower bud  
    **Answer:** The root. *Why:* The root, called the radicle, comes out first and turns down. The seedling needs water and a hold on the ground before anything else.
 2. (mcq) What feeds a seedling before the first green leaves open?  
-   Options: The food store in the seed / Sunlight / The soil / Rainwater  
+   Options: Sunlight / The soil / Rainwater / The food store in the seed  
    **Answer:** The food store in the seed. *Why:* The embryo lives on the food the parent plant packed into the seed. That is why a seed can germinate in the dark.
 3. (mcq) Which three things do most seeds need to germinate?  
-   Options: Water, oxygen and warmth / Water, light and soil / Soil, light and warmth / Light, oxygen and fertiliser  
+   Options: Water, light and soil / Water, oxygen and warmth / Soil, light and warmth / Light, oxygen and fertiliser  
    **Answer:** Water, oxygen and warmth. *Why:* Fair tests show that seeds without water, air or warmth do not germinate. Most germinate without light or soil.
 4. (mcq) Seeds in a dark box germinate as well as seeds in the light. What does this show?  
-   Options: These seeds do not need light / Seeds need darkness / The test was unfair / Light harms seeds  
+   Options: Seeds need darkness / These seeds do not need light / The test was unfair / Light harms seeds  
    **Answer:** These seeds do not need light. *Why:* The two groups differ only in light, and the result is the same. So light does not matter for these seeds.
 5. (mcq) 9 of 10 seeds germinate. What is the germination percentage?  
    Options: 90 percent / 9 percent / 19 percent / 45 percent  
@@ -680,10 +686,10 @@ Thenmozhi sealed the lid of their pot with mud. Then she took a piece of charcoa
 6. (truefalse) A test with 5 seeds gives a steadier answer than a test with 100 seeds.  
    **Answer:** False. *Why:* False. With 5 seeds, one dead seed changes the result by 20 percent. With 100 seeds, one dead seed changes the result by 1 percent.
 7. (mcq) Why does a dry seed live through a night in a freezer?  
-   Options: Too little water inside to form ice / The seed coat keeps the cold out / A dry seed is already dead / The seed grows a thicker coat  
+   Options: The seed coat keeps the cold out / Too little water inside to form ice / A dry seed is already dead / The seed grows a thicker coat  
    **Answer:** Too little water inside to form ice. *Why:* Freezing harms cells when the water in them turns to ice. A dry seed is only about one tenth water, held too tightly to freeze into crystals.
 8. (mcq) Soaked seeds are frozen, thawed and put on a wet cloth. What is most likely?  
-   Options: They do not germinate / They germinate faster / They germinate as usual / They become dry seeds again  
+   Options: They germinate faster / They do not germinate / They germinate as usual / They become dry seeds again  
    **Answer:** They do not germinate. *Why:* Ice crystals formed inside the wet cells and tore them. The cells leak and die when they thaw.
 9. (mcq) When can a soaked seed still be dried again safely?  
    Options: Before the root comes out / After the root comes out / After the leaves open / At any time  
@@ -695,8 +701,11 @@ Thenmozhi sealed the lid of their pot with mud. Then she took a piece of charcoa
    Options: Dries, seals and freezes them / Soaks and freezes them / Keeps them warm and damp / Sows them all at once  
    **Answer:** Dries, seals and freezes them. *Why:* Dry seeds age slowly, and cold slows them further. Sealing keeps damp air out. Soaked seeds would be killed by ice.
 12. (mcq) What can a farmer's field do for a crop variety that a freezer cannot?  
-   Options: Let the crop keep adapting / Keep the seeds safe from floods / Stop the seeds from ageing / Hold thousands of varieties in one room  
+   Options: Keep the seeds safe from floods / Stop the seeds from ageing / Hold thousands of varieties in one room / Let the crop keep adapting  
    **Answer:** Let the crop keep adapting. *Why:* Seeds sown every year face each year's weather and pests, and the plants that do well leave the most seed. A frozen seed stays as the seed was.
+13. (mcq) A crop is sown in the cool months after the monsoon and harvested in spring, like gram or wheat. What is its season called?  
+   Options: Kharif / Rabi / Zaid  
+   **Answer:** Rabi. *Why:* Rabi crops are sown after the monsoon and harvested in spring. Kharif crops are sown when the monsoon comes. Zaid crops are short crops grown in the hot months.
 
 ## Applications
 - Seed packets in India print the germination percentage and the date of the test. A farmer uses the number to decide how much seed to sow.
@@ -712,7 +721,7 @@ Thenmozhi sealed the lid of their pot with mud. Then she took a piece of charcoa
 - The label on a seed packet at a nursery or seed shop. The label shows the germination percentage and the date of the test.
 - Sprouts in a tiffin box. If dry moong from the shelf sprouts, the seeds were alive and resting all the time in the jar.
 - A sealed tin, mud pot or bin of seed grain with dry neem leaves on top, in a store room.
-- Lotus pods at a flower market or a temple tank, such as in Madurai or Thrissur. The dark seeds inside have one of the hardest coats of any seed.
+- Lotus pods at a flower market or a temple tank. The dark seeds inside have one of the hardest coats of any seed.
 - Paddy or wheat that sprouts on the standing plant when rain falls at harvest time. Once the grains have sprouted, they cannot be stored as seed.
 - A bare field or roadside that turns green a few days after the first heavy rain of the monsoon.
 
@@ -761,14 +770,19 @@ Seed to Seed Again (sci.seeds-and-life-cycles.L5): Topic-level song
 - [Royal Botanic Gardens, Kew](https://www.kew.org) · interactive: Search the site for 'Millennium Seed Bank' to see how seeds of wild plants are dried, frozen and tested.
 - [Crop Trust](https://www.croptrust.org) · interactive: For the parent: how seed banks around the world keep crop varieties, and why copies are sent to Svalbard.
 - [Genesys](https://www.genesys-pgr.org) · interactive: A catalogue of seed samples held in seed banks around the world. Search for rice or millet and see how many samples come from India.
-- [National Genebank, ICAR-NBPGR]() · place · New Delhi: India's national store of crop seeds, kept in very cold rooms. It is a working research institute, so write and ask before you visit.
-- [Navdanya Biodiversity Conservation Farm]() · place · Near Dehradun: A farm and community seed bank. Hundreds of old varieties of rice, wheat and millets are grown and shared here every year.
-- [Deccan Development Society]() · place · Pastapur, near Zaheerabad, Telangana: Women farmers here run village seed banks of millets and pulses. Ask about a visit during their yearly festival of seeds.
-- [A plant nursery or seed shop near you]() · place · Anywhere: Read the labels on seed packets. Ask how the shop stores its seeds in the monsoon, and how old the oldest packet is.
+- National Genebank, ICAR-NBPGR · place · New Delhi: India's national store of crop seeds, kept in very cold rooms. It is a working research institute, so write and ask before you visit.
+- Navdanya Biodiversity Conservation Farm · place · Near Dehradun: A farm and community seed bank. Hundreds of old varieties of rice, wheat and millets are grown and shared here every year.
+- Deccan Development Society · place · Pastapur, near Zaheerabad, Telangana: Women farmers here run village seed banks of millets and pulses. Ask about a visit during their yearly festival of seeds.
+- A plant nursery or seed shop near you · place · Anywhere: Read the labels on seed packets. Ask how the shop stores its seeds in the monsoon, and how old the oldest packet is.
 
 ## Things to buy
 - [Whole green moong, about 250 grams](https://www.amazon.in/s?k=whole+green+moong) (material): For the Freezer Test, No Going Back and Three Jars, Three Weeks. Most kitchens have it. Use one packet for all the groups in a test. Used in e1, e2, p1. 
 - [The Triumph of Seeds, a book by Thor Hanson (2015)](https://www.amazon.in/s?k=The+Triumph+of+Seeds+Thor+Hanson) (book): For the parent or an older child: a biologist's clear and lively account of how seeds feed, wait, travel and defend themselves. Used in e2. After No Going Back, a parent can read aloud from the chapters on how seeds wait.
+- [Whole kabuli chana, about 10 grains, uncooked](https://www.amazon.in/s?k=kabuli+chana) (material): The seeds are soaked and drawn over four days, to see what happens inside a waking seed. About ₹80 to ₹120 a kilogram at a grocery shop, so a small handful costs only a few rupees. Used in a3. Buy it before the Four Days, Four Drawings activity.
+- [Hand lens or magnifying glass, about 60 to 75 millimetres wide](https://www.amazon.in/s?k=magnifying+glass) (tool): It lets the children look closely at the inside of a waking chana in the drawing activity. About ₹50 to ₹150 at a stationery or science shop. A phone camera zoomed in as far as it goes works as the household alternative. Used in a3. Buy it before the Four Days, Four Drawings activity.
+- [Squared graph paper, a few sheets](https://www.amazon.in/s?k=graph+paper) (material): It is used to draw the line graph of the three jars in the Three Jars project. About ₹5 to ₹15 a sheet at a stationery shop. A notebook page ruled into squares works as well. Used in p1. Buy it before you start the Three Jars project.
+- [Cotton wool, one small roll](https://www.amazon.in/s?k=cotton+wool) (material): It is packed around the sample to keep it cold in the power cut challenge. About ₹40 to ₹80 for a small pack at a chemist. Newspaper or an old towel does the same job. Used in c1. Buy it before the Power Cut challenge.
+- [Printed pages for the game cards, tokens and worksheets, about 15 pages]() (material): The two games use five mix cards, 24 seed fate cards and three answer tokens, and the worksheets are printed too. A copy shop charges about ₹1 to ₹2 a page, so the set costs about ₹15 to ₹30. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print these before the first game.
 
 ## Warm-up
 - Name the three parts of a seed. → The seed coat, the embryo and the food store.

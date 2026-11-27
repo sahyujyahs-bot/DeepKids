@@ -1,9 +1,9 @@
 # The big groups of life: animals, plants, fungi and microbes, and why scientists keep redrawing the tree of life
 `sci.classification.keys-and-kingdoms.L5`
 
-**Summary.** A mushroom stands still in the soil like a plant, yet it is a closer relative of you than of the grass beside it. How can that be? In this unit you will rebuild a hidden family tree by counting letters, and sort 24 living beings into groups.
+**Summary.** A mushroom stands still in the soil like a plant, yet it is a closer relative of you than of the grass beside it. How can that be? In this lesson you will rebuild a hidden family tree by counting letters, and sort 24 living beings into groups.
 
-**Intro.** *Think of a mushroom, a neem tree and yourself. Which two of the three are the closest relatives? Say what you think, and why.* Most people pick the mushroom and the neem tree. Both grow out of the ground, and neither walks about. Scientists thought the same for more than two hundred years, and put mushrooms among the plants. They were wrong. A mushroom cannot make food from sunlight. A mushroom digests food, as you do, and their genes are more like yours than like a neem tree's. In this unit you will find out how anyone can know this. You will also find out why the list of the big groups of life has been rewritten again and again, and why it is still not finished.
+**Intro.** *Think of a mushroom, a neem tree and yourself. Which two of the three are the closest relatives? Say what you think, and why.* Most people pick the mushroom and the neem tree. Both grow out of the ground, and neither walks about. Scientists thought the same for more than two hundred years, and put mushrooms among the plants. They were wrong. A mushroom cannot make food from sunlight. A mushroom digests food, as you do, and their genes are more like yours than like a neem tree's. In this lesson you will find out how anyone can know this. You will also find out why the list of the big groups of life has been rewritten again and again, and why it is still not finished.
 
 ## Learning outcomes
 0. By the end I can name the big groups of life and say one thing that marks each: bacteria, archaea, protists, fungi, plants and animals.
@@ -592,7 +592,7 @@ Devika looked at the curd. She looked at her sign. Curd did not grow white threa
 ## Worksheets
 ### The big groups of life (core) (core, 15 questions)
 1. (mcq) Which part does a mushroom cell have that a bacterium does not?  
-   Options: A nucleus / A cell membrane / Genes / Ribosomes  
+   Options: A cell membrane / Genes / A nucleus / Ribosomes  
    **Answer:** A nucleus. *Why:* A mushroom is a eukaryote, so each cell has a nucleus. Every cell of every kind has a membrane, genes and ribosomes, so those three cannot tell the two apart.
 2. (truefalse) True or false: a mushroom makes food from sunlight.  
    **Answer:** False. *Why:* False. A mushroom has no chlorophyll and cannot photosynthesise. A mushroom digests food such as dead wood or straw. Thinking 'true' usually comes from seeing mushrooms as plants.
@@ -603,7 +603,7 @@ Devika looked at the curd. She looked at her sign. Curd did not grow white threa
 5. (sort) Sort these: do their cells have a nucleus or not?  
    **Answer:** yeast → Has a nucleus; curd bacterium → Has no nucleus; amoeba → Has a nucleus; methane-maker → Has no nucleus; moss → Has a nucleus; cyanobacterium → Has no nucleus. *Why:* Bacteria and archaea have no nucleus. Yeast, amoebae and mosses are eukaryotes. Size does not decide it: a yeast is a single cell and still has a nucleus.
 6. (mcq) Which group is a label for 'everyone left over', and not one family?  
-   Options: Protists / Fungi / Animals / Plants  
+   Options: Fungi / Animals / Plants / Protists  
    **Answer:** Protists. *Why:* Protists are all the eukaryotes who are not animals, plants or fungi. They sit on many separate branches. Fungi, animals and plants are each one whole branch.
 7. (write) In the Two-Box Problem, which beings from your home fitted neither 'plants' nor 'animals'? Why not?  
    **Answer:** Answers vary. Usually the curd bacteria, the yeast, the mushroom and the mould. They do not photosynthesise like plants, and they do not move about and swallow food like animals.. *Why:* A strong answer names the beings and gives the feature that failed each box, such as 'not green, so not a plant' and 'no mouth, so not an animal'.
@@ -627,7 +627,7 @@ Devika looked at the curd. She looked at her sign. Curd did not grow white threa
    **Answer:** Answers vary. A strong answer says that each sorting is right for its job. The cook's sorting helps with cooking. The biologist's sorting tells you about cells, feeding and relatives.. *Why:* There are many useful ways to sort. Only the sorting by relatives has an answer that does not depend on what the sorter wants.
 ### Evidence for the big groups (stretch) (stretch, 15 questions)
 1. (mcq) A being is one cell with a nucleus and no cell wall, and wraps round food. Which group?  
-   Options: Protists / Bacteria / Fungi / Plants  
+   Options: Bacteria / Fungi / Plants / Protists  
    **Answer:** Protists. *Why:* A nucleus rules out bacteria. No cell wall and wrapping round food rule out fungi and plants. One cell rules out animals. What is left is a protist, such as an amoeba.
 2. (write) Iodine turns a cut potato blue-black, but not a slice of mushroom. What does this tell you about fungi?  
    **Answer:** Iodine shows starch. Potato cells store starch, as plants do. A mushroom has none, because fungi store their spare food as glycogen, as animals do.. *Why:* A strong answer links the test to stored food, and says that in this feature fungi are like animals and unlike plants.
@@ -636,12 +636,12 @@ Devika looked at the curd. She looked at her sign. Curd did not grow white threa
 4. (truefalse) True or false: 'prokaryote' is the name of one family of living beings.  
    **Answer:** False. *Why:* False. 'Prokaryote' describes a cell with no nucleus. Two very different groups have such cells, the bacteria and the archaea.
 5. (mcq) Why did Carl Woese compare a gene for part of the ribosome?  
-   Options: Every cell has that gene / It is the shortest gene / Only bacteria have it / It changes very fast  
+   Options: It is the shortest gene / Only bacteria have it / It changes very fast / Every cell has that gene  
    **Answer:** Every cell has that gene. *Why:* To compare all life, you need a gene that all life has. Every cell has ribosomes. The gene also changes slowly, so very old splits can still be read.
 6. (fill) A group made of one ancestor and all of their descendants is called a ____.  
    **Answer:** ['clade']. *Why:* A clade is one whole branch of the tree. Fungi are a clade. Protists are not, because the group leaves some descendants out.
 7. (match) Match each piece of evidence to what it shows.  
-   **Answer:** Mould grows well in the dark → fungi do not make food from light; Fungus walls are made of chitin → fungi are built unlike plants; Methane-makers' ribosome gene is unlike bacteria's → archaea are a separate group; Mitochondria have their own DNA → mitochondria were once free bacteria; Every cell uses the same DNA code → all life shares one ancestor. *Why:* Each conclusion in this unit rests on something that was measured or seen. A strong answer could say who would be surprised by each piece of evidence.
+   **Answer:** Mould grows well in the dark → fungi do not make food from light; Fungus walls are made of chitin → fungi are built unlike plants; Methane-makers' ribosome gene is unlike bacteria's → archaea are a separate group; Mitochondria have their own DNA → mitochondria were once free bacteria; Every cell uses the same DNA code → all life shares one ancestor. *Why:* Each conclusion in this lesson rests on something that was measured or seen. A strong answer could say who would be surprised by each piece of evidence.
 8. (order) P differs from Q in 2 letters, R in 6 and S in 10. Order P's relatives, closest first.  
    **Answer:** ['Q', 'R', 'S']. *Why:* Fewer differing letters mean a more recent shared ancestor. So Q is closest, then R, then S.
 9. (write) In Light or Dark, the mould grew with no light. Where did the mould's food come from?  
@@ -664,7 +664,7 @@ Devika looked at the curd. She looked at her sign. Curd did not grow white threa
 1. (write) One book says there are five kingdoms. Another says three domains. Can both be right? Explain.  
    **Answer:** Yes, in part. Both can describe the same tree, and differ in where they draw the lines. But the five kingdoms put bacteria and archaea together in one group, and genes show that this group is not one branch.. *Why:* A strong answer separates the tree, which is found by evidence, from the lines drawn on it, which are chosen. It also names what the five kingdoms get wrong.
 2. (mcq) Why do very old splits in the tree of life give scientists the most trouble?  
-   Options: The same letter can change twice / Old genes are longer / Old beings had no genes / Microscopes cannot see them  
+   Options: Old genes are longer / Old beings had no genes / The same letter can change twice / Microscopes cannot see them  
    **Answer:** The same letter can change twice. *Why:* Over billions of years the same place in a gene can change more than once, and a later change hides an earlier one. The count of differences then says less about time.
 3. (perspective) Here are two views about our place on the tree of life.  
    **Answer:** Answers vary. A strong answer picks a view, gives a reason, and names evidence that would count against it, such as more archaea grown in a laboratory or trees built from more genes.. *Why:* Scientists have not settled this. What matters is to say what evidence each view rests on, and what would change it.
@@ -675,7 +675,7 @@ Devika looked at the curd. She looked at her sign. Curd did not grow white threa
 6. (sort) Sort these: does the question have a true answer, or is it a choice people make?  
    **Answer:** Are fungi nearer to animals or to plants? → Has a true answer; How many kingdoms should there be? → A choice people make; Did mitochondria come from bacteria? → Has a true answer; Should protists be called a kingdom? → A choice people make; Do archaea have a nucleus? → Has a true answer; Is this branch big enough to be a domain? → A choice people make. *Why:* Questions about ancestors and about what a cell contains can be answered by evidence. Questions about what to call a group, or how many groups to have, are choices.
 7. (mcq) Infections caused by fungi are often harder to treat than those caused by bacteria. Why?  
-   Options: Fungus cells are much like ours / Fungi are too small to reach / Fungi have no genes / Fungi are a kind of plant  
+   Options: Fungi are too small to reach / Fungus cells are much like ours / Fungi have no genes / Fungi are a kind of plant  
    **Answer:** Fungus cells are much like ours. *Why:* Fungi are our close relatives, so their cells work much as ours do. A medicine that harms a fungus cell can easily harm our cells too. Bacteria are built very differently, so more medicines can hit them alone.
 8. (fill) The passing of a gene to a neighbour who is not one's offspring is called ____ gene transfer.  
    **Answer:** ['horizontal', 'sideways']. *Why:* Horizontal means sideways, from one being to another of the same generation. Passing genes to offspring is called vertical.
@@ -703,7 +703,7 @@ Devika looked at the curd. She looked at her sign. Curd did not grow white threa
 
 ## Quiz
 1. (mcq) Which of these living beings has a cell with no nucleus?  
-   Options: A curd bacterium / A yeast / An amoeba / A moss  
+   Options: A yeast / A curd bacterium / An amoeba / A moss  
    **Answer:** A curd bacterium. *Why:* Bacteria have no nucleus. Yeast, amoebae and mosses are eukaryotes, so their cells have one. Choosing yeast or amoeba mixes up 'one cell' with 'no nucleus'.
 2. (mcq) How does a fungus get food?  
    Options: Digests it outside and soaks it up / Makes it from light / Swallows it whole / Needs no food  
@@ -712,7 +712,7 @@ Devika looked at the curd. She looked at her sign. Curd did not grow white threa
    Options: Fungi and animals / Fungi and plants / Plants and animals / Plants and bacteria  
    **Answer:** Fungi and animals. *Why:* Gene studies since 1993 put fungi and animals together. Choosing fungi and plants goes by looks: both stand still.
 4. (mcq) What first showed that archaea are not bacteria?  
-   Options: Their ribosome gene was very different / They are much bigger / They are green / They have a nucleus  
+   Options: They are much bigger / They are green / They have a nucleus / Their ribosome gene was very different  
    **Answer:** Their ribosome gene was very different. *Why:* In 1977 Carl Woese and George Fox found that the ribosome gene of methane-makers was as far from bacteria's as from ours. Archaea are the same size as bacteria and have no nucleus.
 5. (truefalse) True or false: every living being is either a plant or an animal.  
    **Answer:** False. *Why:* False. Fungi, protists, bacteria and archaea are neither. The two-kingdom idea lasted until microscopes showed beings who fitted neither box.
@@ -720,16 +720,16 @@ Devika looked at the curd. She looked at her sign. Curd did not grow white threa
    Options: They share a recent ancestor / They are the same age / They eat the same food / They are the same size  
    **Answer:** They share a recent ancestor. *Why:* Differences build up over time. Few differences mean that little time has passed since the two were one family.
 7. (mcq) Why do scientists say that protists are not one family?  
-   Options: They sit on many separate branches / They are all too small / They have no genes / They are all parasites  
+   Options: They are all too small / They have no genes / They are all parasites / They sit on many separate branches  
    **Answer:** They sit on many separate branches. *Why:* Protists are every eukaryote who is not an animal, a plant or a fungus. Some are nearer to animals, and some nearer to plants. Many are not parasites, and some are large seaweeds.
 8. (mcq) Where did the mitochondria in your cells come from?  
-   Options: Bacteria who lived inside another cell / The food you eat / Plants / Viruses  
+   Options: The food you eat / Plants / Viruses / Bacteria who lived inside another cell  
    **Answer:** Bacteria who lived inside another cell. *Why:* Mitochondria are descended from bacteria who began living inside another cell about two billion years ago. They still have a little DNA of their own, which matches bacteria.
 9. (mcq) Which of these do scientists still argue about today?  
    Options: Whether life has two domains or three / Whether cells exist / Whether fungi have a nucleus / Whether bacteria are alive  
    **Answer:** Whether life has two domains or three. *Why:* Some gene trees put our branch beside the archaea, which gives three domains. Others put our branch inside the archaea, which gives two. The other three are settled.
 10. (mcq) Which living beings have the most branches on the tree of life?  
-   Options: Microbes / Animals / Plants / Fungi  
+   Options: Animals / Plants / Fungi / Microbes  
    **Answer:** Microbes. *Why:* Life was only microbes for most of its history, so microbes have had the longest time to branch. Animals look many to us because we can see them.
 11. (mcq) A being has many cells with no cell walls, and takes food inside the body. Which group?  
    Options: Animals / Fungi / Plants / Bacteria  
@@ -751,7 +751,7 @@ Devika looked at the curd. She looked at her sign. Curd did not grow white threa
 - Mushrooms coming up on a lawn, a log or a termite mound a few days after the first monsoon rain.
 - Idli batter that has risen overnight. Bacteria and yeasts in the batter made the gas.
 - A gobar gas dome beside a cowshed. Inside, archaea are turning dung into cooking gas.
-- Salt pans at Marakkanam in Tamil Nadu or at Ribandar in Goa, which sometimes turn pink before the salt is gathered.
+- Salt pans by the sea, which sometimes turn pink before the salt is gathered.
 - Bubbles rising from the mud of a flooded paddy field. Much of the gas is methane made by archaea.
 - Green slime on a wet bathroom wall or round a leaking tap. It is mostly algae and cyanobacteria.
 - Blue-green powder on an old lemon in the fruit basket. It is a mould, a fungus, and the powder is their spores.
@@ -803,13 +803,21 @@ One Tree, Many Branches (sci.classification.L5): Topic-level song
 - [Lifemap (CNRS, France)](https://lifemap.cnrs.fr/) · interactive: Another free zoomable map of the whole tree of life. It shows how much of the tree is bacteria and archaea.
 - [Understanding Evolution (University of California, Berkeley)](https://evolution.berkeley.edu/) · interactive: For the parent: clear pages on how to read a family tree and what a clade is.
 - [iNaturalist](https://www.inaturalist.org/) · interactive: A free site where a grown-up can upload a photo of a lichen, a mushroom or an insect and get help naming them. Useful for A Census of Our Home.
-- [Regional Museum of Natural History]() · place · Mysuru: Galleries on the variety of life in southern India, from the Western Ghats to the sea.
-- [Government Museum, Egmore]() · place · Chennai: Its botany and zoology galleries show how museums sort and label living beings in groups inside groups.
-- [Indian Museum]() · place · Kolkata: One of the oldest museums in Asia, with large zoology and botany galleries arranged by group.
+- Regional Museum of Natural History · place · Mysuru: Galleries on the variety of life in southern India, from the Western Ghats to the sea.
+- Government Museum, Egmore · place · Chennai: Its botany and zoology galleries show how museums sort and label living beings in groups inside groups.
+- Indian Museum · place · Kolkata: One of the oldest museums in Asia, with large zoology and botany galleries arranged by group.
 
 ## Things to buy
 - [A hand lens that magnifies 5 to 10 times](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): For looking at lichens, moss and mould through the pouch in A Census of Our Home. It is useful but not needed. Stationery shops sell one for about Rs 50 to 150. Used in p1. 
 - [Tree of Life: The Incredible Biodiversity of Life on Earth, by Rochelle Strauss (a picture book)](https://www.amazon.in/s?k=Tree+of+Life+Rochelle+Strauss) (book): A picture book that shows all of life as one tree with its big groups. A library copy is as good as a bought one. Used in a2. Read it together after Four Maps of Life. Ask your child which of the four maps the book uses, and what they would redraw.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Hidden Tree Test: can counting letters rebuild a family tree that nobody shows you?, Light or Dark: does a mould need light the way a seedling does?, The Weight of Life: a paper strip for every big group. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, a4, c2. Get it before The Hidden Tree Test: can counting letters rebuild a family tree that nobody shows you?.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in A Census of Our Home: how many of the big groups of life live with us?, A Chart That Survives a New Discovery. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in p1, c1. Get it before A Census of Our Home: how many of the big groups of life live with us?.
+- [Sticky notes](https://www.amazon.in/s?k=sticky+notes+pack) (material): Used in A Chart That Survives a New Discovery. About ₹20 to ₹60. Small torn paper and tape do the same job. Used in c1. Get it before A Chart That Survives a New Discovery.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Light or Dark: does a mould need light the way a seedling does?, A Census of Our Home: how many of the big groups of life live with us?, A Chart That Survives a New Discovery. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e2, p1, c1, c2. Get it before Light or Dark: does a mould need light the way a seedling does?.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in Light or Dark: does a mould need light the way a seedling does?. About ₹20 to ₹50. Torn clean cloth works. Used in e2. Get it before Light or Dark: does a mould need light the way a seedling does?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Light or Dark: does a mould need light the way a seedling does?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e2. Get it before Light or Dark: does a mould need light the way a seedling does?.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Light or Dark: does a mould need light the way a seedling does?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e2. Get it before Light or Dark: does a mould need light the way a seedling does?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name the three domains of life. → Bacteria, Archaea and Eukarya.
@@ -833,7 +841,7 @@ One Tree, Many Branches (sci.classification.L5): Topic-level song
 - The founder's note in the same file: 'Humans are somehow of a gross misconception that intelligence is unique to us'. Used in 'Every one of these beings senses and decides'.
 - Notebook items bio:171 to bio:174 (Diversity of Life, Prokaryotic kingdoms, Protists, Fungi), which this subtopic covers.
 - Combined lesson sci-C3-kinds-of-living-things-and-sorting-them: its experiment 'Mould or seed: who needs light?' is the starting point for Light or Dark, here made a fair test with a light set and a dark set. Its subconcepts on other ways of sorting (by number of senses), the three domains and the branches that joined are taken further here. Its story is not reused.
-- The Class 3 and Class 4 units sci.classification.sorting-living-things.L3 and L4, which this unit builds on. Their experiments, games and stories are not repeated, and the Carl Woese story told in the Class 3 unit is only summarised here.
+- The Class 3 and Class 4 units sci.classification.sorting-living-things.L3 and L4, which this lesson builds on. Their experiments, games and stories are not repeated, and the Carl Woese story told in the Class 3 unit is only summarised here.
 - knowledge/by_subtopic.json: Concepts of Biology and Biology 2e (OpenStax), 'Protists' and 'Biological Diversity', and Microbiology (OpenStax), 'A Systematic Approach', used for facts only.
 - Whittaker, R. H., 'New concepts of kingdoms of organisms', Science 163, 1969
 - Woese, C. R. and Fox, G. E., 'Phylogenetic structure of the prokaryotic domain: the primary kingdoms', Proceedings of the National Academy of Sciences 74, 1977

@@ -1,9 +1,9 @@
 # Food webs: what happens when one link disappears
 `sci.ecology.food-chains.L5`
 
-**Summary.** When hunters killed the sea otters of the North Pacific, the tall seaweed forests there vanished too, though nobody cut any seaweed. How? In this unit you will turn food chains into a web, test which kind of web loses more when beings go, and find what keeps numbers steady.
+**Summary.** When hunters killed the sea otters of the North Pacific, the tall seaweed forests there vanished too, though nobody cut any seaweed. How? In this lesson you will turn food chains into a web, test which kind of web loses more when beings go, and find what keeps numbers steady.
 
-**Intro.** *A farmer finds a rat snake in her paddy field. Her neighbours tell her to kill him. The snake has never eaten one grain of paddy. Would her harvest be bigger or smaller without him?* A rat snake eats rats, and rats eat paddy. So the snake and the paddy are joined, though the snake never touches a grain. A food web is a map of all such links in one place. In this unit you learn to read that map. You find out what happens to a web when one being disappears, and why some webs cope better than others. You also find out what keeps the numbers of plants and animals steady from year to year.
+**Intro.** *A farmer finds a rat snake in her paddy field. Her neighbours tell her to kill him. The snake has never eaten one grain of paddy. Would her harvest be bigger or smaller without him?* A rat snake eats rats, and rats eat paddy. So the snake and the paddy are joined, though the snake never touches a grain. A food web is a map of all such links in one place. In this lesson you learn to read that map. You find out what happens to a web when one being disappears, and why some webs cope better than others. You also find out what keeps the numbers of plants and animals steady from year to year.
 
 ## Learning outcomes
 0. By the end I can draw a food web for a real place, count the links and say what the arrows mean.
@@ -576,7 +576,7 @@ Zuali never rubbed out the drawing on the floor. Under the bamboo fruit she wrot
 ## Worksheets
 ### Reading a Food Web (core) (core, 15 questions)
 1. (mcq) In a food web, what does an arrow from grass to hare mean?  
-   Options: The hare eats the grass / The grass eats the hare / The hare hides in the grass / The grass grows near hares  
+   Options: The grass eats the hare / The hare hides in the grass / The grass grows near hares / The hare eats the grass  
    **Answer:** The hare eats the grass. *Why:* An arrow points from the food to the eater, the way the food goes. Reading it backwards is a common slip, because we think of the hunter going towards the food.
 2. (truefalse) True or false: every food chain in a web starts with a producer.  
    **Answer:** True. *Why:* True. Only producers make food from sunlight, air and water. A strong answer adds that every animal eats plants, or eats animals who ate plants.
@@ -587,7 +587,7 @@ Zuali never rubbed out the drawing on the floor. Under the bamboo fruit she wrot
 5. (match) Match each word to what it means.  
    **Answer:** Producer → makes food from sunlight, air and water; Predator → hunts and eats other animals; Prey → is hunted and eaten; Scavenger → eats animals who are already dead; Decomposer → breaks dead things down into the soil. *Why:* These words are needed to talk about any food web. A strong answer could give an example of each from a paddy field.
 6. (mcq) Sea otters eat sea urchins, and urchins eat kelp. Hunters kill most of the otters. What happens to the kelp?  
-   Options: The kelp grows thicker / The kelp is eaten down / Nothing changes  
+   Options: The kelp is eaten down / The kelp grows thicker / Nothing changes  
    **Answer:** The kelp is eaten down. *Why:* With few otters, the urchins multiply and eat the kelp down. Choosing 'grows thicker' means following only one step. The change passes down two links.
 7. (write) In the Two Webs Test, the wide web had more beings left. Explain why, using the word 'food'.  
    **Answer:** In the wide web, most animals had more than one food. When one food was taken away, they still had another to eat. In the narrow web each animal had only one food, so they starved when that food went.. *Why:* A strong answer says that the number of foods each eater has made the difference. It uses a result from the test.
@@ -605,13 +605,13 @@ Zuali never rubbed out the drawing on the floor. Under the bamboo fruit she wrot
 13. (perspective) A rat snake is found in a paddy field. Two neighbours disagree about what to do.  
    **Answer:** A strong answer uses the web: the snake eats rats, and rats eat paddy, so killing the snake costs grain. It also takes the fear seriously: some snakes are dangerous, so people should learn to tell them apart and wear shoes in the field.. *Why:* Both neighbours care about the village. The web shows what killing the snake would cost, and the fear shows what people need to feel safe.
 14. (mcq) Why does a frog lay thousands of eggs, while a tigress has only two to four cubs?  
-   Options: Frogs live much longer than tigers / Most frog eggs and tadpoles are eaten / Tigers have less food than frogs  
+   Options: Most frog eggs and tadpoles are eaten / Frogs live much longer than tigers / Tigers have less food than frogs  
    **Answer:** Most frog eggs and tadpoles are eaten. *Why:* Most of a frog's young become food for others, so she needs thousands for a few to be left. A tigress's cubs are seldom eaten, and she guards each one.
 15. (write) In the Leaky Bottle, the level stayed still while water ran through. How is a deer herd like that?  
    **Answer:** Fawns are born and deer die all the time, like water running in and out. If births and deaths match, the number of deer stays about the same, like the water level.. *Why:* A strong answer matches the tap to births, the hole to deaths and the level to the number of deer.
 ### Following a Change (stretch) (stretch, 15 questions)
 1. (mcq) Owls eat rats, and rats eat paddy. All the owls leave a field. Which is the indirect effect?  
-   Options: There are more rats / There is less paddy / There are fewer owl nests  
+   Options: There is less paddy / There are more rats / There are fewer owl nests  
    **Answer:** There is less paddy. *Why:* More rats is the direct effect, along one link. Less paddy is indirect, because it reaches the paddy through the rats.
 2. (write) Insect poison sprayed on paddy also kills the spiders. Explain why the plant-sucking insects may then become more, not fewer.  
    **Answer:** Spiders eat the plant-sucking insects. The poison kills the spiders as well as some of the insects. The insects who are left breed quickly, and now few spiders are there to eat them.. *Why:* A strong answer names the link from the insect to the spider. It says that prey usually multiply faster than their predators.
@@ -657,7 +657,7 @@ Zuali never rubbed out the drawing on the floor. Under the bamboo fruit she wrot
 5. (truefalse) True or false: if a population stays the same size, no animals in that population are dying.  
    **Answer:** False. *Why:* False. Animals are born and die all the time. The number stays the same when births and deaths match, as the level did in the Leaky Bottle.
 6. (mcq) A second equal hole dropped the Leaky Bottle's level from 12 cm to 3 cm. Why not to 6 cm?  
-   Options: The second hole was bigger / Shallow water leaves each hole more slowly / The tap slowed down  
+   Options: The second hole was bigger / The tap slowed down / Shallow water leaves each hole more slowly  
    **Answer:** Shallow water leaves each hole more slowly. *Why:* At 6 cm deep, each jet is only a little slower than at 12 cm. So two holes still let out more than the tap brings in. The level keeps falling until two slow jets together match the tap.
 7. (write) Mizoram's bamboo fruits all together, once in about 48 years. Give one way this could help the bamboo's seeds.  
    **Answer:** There is far more fruit at once than the rats and birds can eat. So many seeds are left to grow. In the long gap between, there is no fruit, so the seed eaters stay few.. *Why:* A strong answer says that a flood of food swamps the eaters. It may add that this is an idea that is hard to test.
@@ -682,7 +682,7 @@ Zuali never rubbed out the drawing on the floor. Under the bamboo fruit she wrot
 
 ## Videos
 - **Some Animals Are More Equal than Others: Keystone Species and Trophic Cascades** (biointeractive, 19 min) id `hRGg5it5FMI`: Robert Paine and James Estes tell how they found keystone species and trophic cascades, on the real shores and islands. *Check:* The address and title were confirmed on YouTube. Not yet watched by a person: watch it first. It is long, so the first 10 minutes are enough.
-- **The desperate battle of Mizoram's farmers with rats** (Mongabay India, 7 min) id `YmMpEzfbwG8`: Shows farmers in Mizoram facing rats after bamboo flowering, the event behind this unit's story. *Check:* The address and title were confirmed on YouTube. Not yet watched by a person: watch it first, and check which year's flowering it covers.
+- **The desperate battle of Mizoram's farmers with rats** (Mongabay India, 7 min) id `YmMpEzfbwG8`: Shows farmers in Mizoram facing rats after bamboo flowering, the event behind this lesson's story. *Check:* The address and title were confirmed on YouTube. Not yet watched by a person: watch it first, and check which year's flowering it covers.
 - **The threat of invasive species - Jennifer Klos** (TED-Ed, 5 min) id `spTWwqVP_2s`: An animated explanation of why some beings brought to new places spread so fast. *Check:* The address and title were confirmed on YouTube. Not yet watched by a person: watch it first.
 
 ## Quiz
@@ -693,30 +693,30 @@ Zuali never rubbed out the drawing on the floor. Under the bamboo fruit she wrot
    Options: Herbivore only / Decomposer / Omnivore and scavenger / Producer  
    **Answer:** Omnivore and scavenger. *Why:* Hares and fruit make a jackal an omnivore. Feeding on dead animals makes a jackal a scavenger too. Many animals fit more than one group.
 3. (mcq) What do decomposers do in a food web?  
-   Options: Return dead matter to the soil / Hunt the top predators / Make food from sunlight / Eat only living plants  
+   Options: Hunt the top predators / Make food from sunlight / Return dead matter to the soil / Eat only living plants  
    **Answer:** Return dead matter to the soil. *Why:* Fungi and bacteria break dead plants and animals down into simple matter. Plants take that matter up again through their roots.
 4. (mcq) Owls eat rats, and rats eat paddy. More owls come to a field. What is the indirect effect?  
-   Options: Fewer rats / More rats / Fewer owls / More paddy  
+   Options: Fewer rats / More rats / More paddy / Fewer owls  
    **Answer:** More paddy. *Why:* Fewer rats is the direct effect. More paddy is the indirect effect, because it reaches the paddy through the rats.
 5. (truefalse) True or false: a leopard can change how much grass grows, without ever eating grass.  
    **Answer:** True. *Why:* True. Leopards eat chital, and chital eat grass. Fewer leopards can mean more chital and less grass. This is an indirect effect.
 6. (mcq) The grass disappears from two webs. In which web do more animals starve?  
-   Options: Where each animal eats several foods / Where each animal eats one food / The same number in both  
+   Options: Where each animal eats several foods / The same number in both / Where each animal eats one food  
    **Answer:** Where each animal eats one food. *Why:* An animal with one food starves when that food goes. An animal with several foods can turn to another. That is what the Two Webs Test showed.
 7. (mcq) A forest has about 500 chital year after year. What must be true?  
-   Options: No chital are born / No chital die / Births and deaths roughly match / The chital never move  
+   Options: No chital are born / No chital die / The chital never move / Births and deaths roughly match  
    **Answer:** Births and deaths roughly match. *Why:* Chital are born and die all the time. The number stays steady because the two roughly match, as the water level did in the Leaky Bottle.
 8. (mcq) Why can rats multiply much faster than the owls who eat them?  
    Options: Rats have many young, several times a year / Rats live much longer than owls / Owls eat only one rat a year  
    **Answer:** Rats have many young, several times a year. *Why:* A rat has 6 to 8 young at a time, several times a year. An owl raises a few chicks a year. Prey usually breed faster than their predators.
 9. (mcq) Hares suddenly have much more food. Hares suddenly get much more food. When will the number of lynx who eat hares rise?  
-   Options: In the same week / Before the hares do / A year or two later / Never  
+   Options: A year or two later / In the same week / Before the hares do / Never  
    **Answer:** A year or two later. *Why:* First the hares increase. Then more lynx kittens live and grow. The eaters follow their food late.
 10. (mcq) Why has lantana spread so widely through India's forests?  
    Options: Lantana is native to India / Few animals here eat lantana / Lantana needs no light  
    **Answer:** Few animals here eat lantana. *Why:* Lantana came from the Americas. Deer and cattle here avoid the leaves, so little holds lantana back.
 11. (mcq) One kind of starfish is removed from a rocky shore for some years. What follows?  
-   Options: Nothing changes / More kinds of animals move in / Mussels take over and other kinds are lost  
+   Options: Mussels take over and other kinds are lost / Nothing changes / More kinds of animals move in  
    **Answer:** Mussels take over and other kinds are lost. *Why:* The starfish ate mussels and kept space open on the rock. Without them, mussels crowded the others out. One predator was holding the whole community together.
 
 ## Applications
@@ -731,9 +731,9 @@ Zuali never rubbed out the drawing on the floor. Under the bamboo fruit she wrot
 ## Spotted around us
 - A house gecko waiting near a tube light for the insects who come to the light.
 - A cattle egret walking beside a grazing buffalo, catching the insects her hooves stir up.
-- A black kite circling over a market or a rubbish heap in Chennai, Mumbai or Delhi, looking for scraps.
-- A T-shaped perch or a scarecrow standing in a paddy field near Thanjavur or in the Godavari delta.
-- Water hyacinth covering a lake or a canal, as in the backwaters of Kerala or the lakes of Bengaluru.
+- A black kite circling over a market or a rubbish heap, looking for scraps.
+- A T-shaped perch or a scarecrow standing in a paddy field.
+- Water hyacinth covering a lake or a canal.
 - Lantana bushes with small pink, orange and yellow flowers along a roadside or a forest edge.
 - A spider's web in a window corner with small insects caught in it.
 - A fig tree in fruit, such as a banyan or a peepal, noisy with mynas, barbets and squirrels.
@@ -782,13 +782,18 @@ Everybody Eats (sci.ecology.L5): Topic-level song
 - [HHMI BioInteractive](https://www.biointeractive.org/) · interactive: For the parent: free films and click-through lessons on keystone species and trophic cascades. Search the site for 'trophic cascades'.
 - [iNaturalist](https://www.inaturalist.org) · interactive: Photograph a plant or an animal near you and find out who they are. Useful for the project My Place, My Web.
 - [India Biodiversity Portal](https://indiabiodiversity.org) · interactive: For the parent: look up what an Indian animal eats and where they live.
-- [Mudumalai Tiger Reserve]() · place · The Nilgiris, Tamil Nadu: The forest of the Two Webs Test. Chital, langurs, peafowl and sometimes dholes can be seen from the road and on safari.
-- [Chilika Lake]() · place · Near Puri and Balugaon, Odisha: A huge lagoon where you can see fishing boats, water birds and Irrawaddy dolphins sharing one food web.
-- [Guindy National Park and Children's Park]() · place · Chennai, Tamil Nadu: A small forest inside a city, with chital and blackbuck. Look at how much grass and shrub the deer need.
+- Mudumalai Tiger Reserve · place · The Nilgiris, Tamil Nadu: The forest of the Two Webs Test. Chital, langurs, peafowl and sometimes dholes can be seen from the road and on safari.
+- Chilika Lake · place · Near Puri and Balugaon, Odisha: A huge lagoon where you can see fishing boats, water birds and Irrawaddy dolphins sharing one food web.
+- Guindy National Park and Children's Park · place · Chennai, Tamil Nadu: A small forest inside a city, with chital and blackbuck. Look at how much grass and shrub the deer need.
 
 ## Things to buy
 - [A pad of graph paper](https://www.amazon.in/s?k=graph+paper+pad+a4) (material): For the line graphs in Ants and the Sugar Drop, the Leaky Bottle and the Ten-Year Wave. A squared maths notebook also works. Used in e2, e3, a4. 
 - [The Serengeti Rules, by Sean B. Carroll (for the parent)](https://www.amazon.in/s?k=The+Serengeti+Rules+Sean+Carroll) (book): Tells the true stories of Robert Paine's starfish, the sea otters and other discoveries about what regulates numbers in nature. Used in a2. For the parent to read alongside the unit. The chapter on Robert Paine goes well with Take the Snakes Away and the card on how we found out.
+- [A magnetic compass](https://www.amazon.in/s?k=magnetic+compass+school) (tool): Used in The Leaky Bottle: what keeps a level steady?. About ₹30 to ₹150. A phone compass app also works. Used in e2. Get it before The Leaky Bottle: what keeps a level steady?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Two Webs Test: which web loses more when three beings go?, The Leaky Bottle: what keeps a level steady?, Two Out of Thousands: why prey animals have many young. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, a3, a4, c2. Get it before The Two Webs Test: which web loses more when three beings go?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Two Webs Test: which web loses more when three beings go?, Two Out of Thousands: why prey animals have many young. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1, a3. Get it before The Two Webs Test: which web loses more when three beings go?.
+- [Iron nails or iron filings](https://www.amazon.in/s?k=iron+filings+science) (material): Used in The Leaky Bottle: what keeps a level steady?. About ₹20 to ₹80. Short steel nails from a hardware shop. Used in e2. Get it before The Leaky Bottle: what keeps a level steady?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What does an arrow in a food web point to? → The eater.
@@ -808,7 +813,7 @@ Everybody Eats (sci.ecology.L5): Topic-level song
 - ideas/by_topic/living-in-harmony.md: the notebook's line for this topic that harmony needs give and take and that imbalance brings instability, used for the natural balance explanation and the Leaky Bottle
 - Notebook items bio:193 (Ecology) and bio:196 (Energy flow: food chains, webs, pyramids), from the curriculum entry
 - NIOS Open Basic Education, Environmental Studies Level B, Lesson 7 'Life of Plants and Animals', for coverage only: food chains and webs, the five feeding groups, natural balance, why prey have many young, forest cutting and protection
-- The Level 3 and Level 4 units of this subtopic (wool web, Hungry Web, Deer and Tiger Toss, the vultures, the sparrows of 1958, energy pyramids), so this unit leads on from them without repeating
+- The Level 3 and Level 4 units of this subtopic (wool web, Hungry Web, Deer and Tiger Toss, the vultures, the sparrows of 1958, energy pyramids), so this lesson leads on from them without repeating
 - Paine, American Naturalist 1966, 'Food web complexity and species diversity', and Paine, American Naturalist 1969, where 'keystone species' is named
 - Estes and Palmisano, Science 1974, 'Sea otters: their role in structuring nearshore communities'
 - Dunne, Williams and Martinez, Ecology Letters 2002, 'Network structure and biodiversity loss in food webs: robustness increases with connectance'

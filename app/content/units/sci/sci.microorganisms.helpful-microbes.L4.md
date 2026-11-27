@@ -1,9 +1,9 @@
 # Idli batter, curd and bread: how tiny living beings make our food
 `sci.microorganisms.helpful-microbes.L4`
 
-**Summary.** Idli batter left out overnight rises to nearly double its size and smells a little sour, though nobody added anything. What made it rise? In this unit you will test what yeast needs to make gas, what milk needs to turn into curd, and which foods at home were made with microbes.
+**Summary.** Idli batter left out overnight rises to nearly double its size and smells a little sour, though nobody added anything. What made it rise? In this lesson you will test what yeast needs to make gas, what milk needs to turn into curd, and which foods at home were made with microbes.
 
-**Intro.** *Look at a bowl of idli batter in the morning. Last night it was flat and thick. Now it is full of bubbles and has climbed up the sides. What made the bubbles?* Nobody blew into it, and nobody stirred it all night. Something alive was working in the batter while your family slept. Microbes, tiny living beings too small to see, were eating the sugars in the rice and dal. As they ate, they made a gas. The sticky batter trapped the gas, and the batter rose. In this unit you find out who the microbes are, what they eat, and how warm they like it. You test it yourself with a bottle and a balloon, and with a cup of milk.
+**Intro.** *Look at a bowl of idli batter in the morning. Last night it was flat and thick. Now it is full of bubbles and has climbed up the sides. What made the bubbles?* Nobody blew into it, and nobody stirred it all night. Something alive was working in the batter while your family slept. Microbes, tiny living beings too small to see, were eating the sugars in the rice and dal. As they ate, they made a gas. The sticky batter trapped the gas, and the batter rose. In this lesson you find out who the microbes are, what they eat, and how warm they like it. You test it yourself with a bottle and a balloon, and with a cup of milk.
 
 ## Learning outcomes
 0. I can explain that fermentation is done by living microbes that eat sugar and make gas, acid or alcohol.
@@ -465,10 +465,10 @@ Reena Aunty went to bed smiling. Thara stayed in the kitchen a little longer, th
 ## Worksheets
 ### Microbes in the Kitchen (core) (core, 17 questions)
 1. (mcq) Which three things do microbes need to grow well?  
-   Options: Food, water and the right warmth / Only sunlight / Only cold air  
+   Options: Only sunlight / Food, water and the right warmth / Only cold air  
    **Answer:** Food, water and the right warmth. *Why:* Microbes are living beings. Like you, they need food and water. Most helpful ones in the kitchen grow best in gentle warmth. Cold slows them, and too much heat kills them.
 2. (mcq) Yeast is a kind of what?  
-   Options: A fungus with one round cell / A tiny plant / A kind of bacterium  
+   Options: A tiny plant / A fungus with one round cell / A kind of bacterium  
    **Answer:** A fungus with one round cell. *Why:* Yeast belongs to the fungi, the same group as mushrooms and moulds. A yeast cell is a single round cell. Bacteria are a different group.
 3. (truefalse) The bubbles in rising bread dough are carbon dioxide gas made by yeast.  
    **Answer:** True. *Why:* True. Yeast eat sugar and make carbon dioxide. The stretchy dough traps the gas in tiny bubbles, and the dough rises.
@@ -477,7 +477,7 @@ Reena Aunty went to bed smiling. Thara stayed in the kitchen a little longer, th
 5. (match) Match each food to what the microbes in it make.  
    **Answer:** Curd → lactic acid, made by bacteria; Bread dough → gas, made by yeast; Toddy → alcohol, made by yeast; Idli batter → gas and acid, made by bacteria and yeast. *Why:* Different microbes make different things from sugar. Bacteria in curd make acid. Yeast in dough make gas. Yeast in palm sap make alcohol. Idli batter has both bacteria and yeast.
 6. (mcq) Why does a spoon of old curd turn a pot of warm milk into curd?  
-   Options: It carries living bacteria that eat the milk sugar / It adds extra sugar to the milk / It makes the milk colder  
+   Options: It adds extra sugar to the milk / It makes the milk colder / It carries living bacteria that eat the milk sugar  
    **Answer:** It carries living bacteria that eat the milk sugar. *Why:* The spoon carries millions of living bacteria. In warm milk they eat the milk sugar, make lactic acid and multiply. The acid makes the milk set.
 7. (sort) Sort each situation by what it does to yeast.  
    **Answer:** warm sugar water → Works well; a fridge → Slows down; boiling water → Dies; a cool room at 15 degrees → Slows down; bath-warm water with sugar → Works well; a very hot oven → Dies. *Why:* Yeast grow best in gentle warmth with food. Cold slows them. Heat above about 60 degrees kills them.
@@ -505,10 +505,10 @@ Reena Aunty went to bed smiling. Thara stayed in the kitchen a little longer, th
    **Answer:** The microbes grow slowly when it is cold. Warmth makes them eat and make gas faster, so in a cold kitchen the batter takes longer to rise.. *Why:* A strong answer says that cold slows the microbes down, and that the gas they make is what makes the batter rise.
 ### How Microbes Do It (stretch) (stretch, 16 questions)
 1. (mcq) Why does the gluten in wheat dough matter for bread?  
-   Options: It stretches into a net that traps the gas / It feeds the yeast / It makes the dough sweet  
+   Options: It feeds the yeast / It makes the dough sweet / It stretches into a net that traps the gas  
    **Answer:** It stretches into a net that traps the gas. *Why:* Gluten is a stretchy protein. When you knead flour and water, it forms a net. The gas pushes against the net and stretches it, and the dough rises.
 2. (mcq) Two batters have microbes that make the same amount of gas. Batter X is rice and dal. Batter Y is rice only. Batter X rises much more. Why?  
-   Options: The sticky dal batter holds the gas in / Dal is warmer than rice / Rice has no sugar in it  
+   Options: Dal is warmer than rice / The sticky dal batter holds the gas in / Rice has no sugar in it  
    **Answer:** The sticky dal batter holds the gas in. *Why:* The gas has to be held in or it escapes. Dal makes the batter thick and sticky, so it traps the gas. Rice batter alone is thin, and the gas bubbles out.
 3. (truefalse) A packet of dry yeast that has been open for a year in a hot cupboard should be tested before baking.  
    **Answer:** True. *Why:* True. Heat and age can kill many yeast cells. A baker tests a pinch in warm sugar water. If it foams, the yeast are alive.
@@ -532,7 +532,7 @@ Reena Aunty went to bed smiling. Thara stayed in the kitchen a little longer, th
 12. (perspective) A company sells a drink and says its bacteria will make your gut perfectly healthy.  
    **Answer:** Answers vary. A strong answer picks a view, gives a reason, and says what test or evidence would help, such as comparing groups of people who drink it and who do not.. *Why:* This question has no single right answer. A strong answer shows that the child can weigh a claim, and asks for evidence.
 13. (mcq) Curd and pickle often stay safe longer than fresh milk or fresh vegetables kept in the same place. Why?  
-   Options: The helpful microbes make acid that stops harmful microbes growing / They are thicker, so microbes cannot move / They have more sugar  
+   Options: They are thicker, so microbes cannot move / They have more sugar / The helpful microbes make acid that stops harmful microbes growing  
    **Answer:** The helpful microbes make acid that stops harmful microbes growing. *Why:* Acid makes it hard for many harmful microbes to grow. This is one reason people have used fermenting to keep food for longer.
 14. (draw) Draw a bowl of curd with a spoon. Then draw a circle zoomed in on one drop, showing bacteria turning milk sugar into lactic acid.  
    **Answer:** A bowl of curd with a spoon, and a zoomed circle with small rod-shaped bacteria and arrows from a sugar to an acid.. *Why:* A strong drawing shows the bacteria and shows the change, from sugar into acid. The bacteria appear only in the zoomed circle, because they are too small to see in the bowl.
@@ -546,7 +546,7 @@ Reena Aunty went to bed smiling. Thara stayed in the kitchen a little longer, th
 2. (count) A bacterium in warm milk splits into two every 30 minutes. Start with 1. How many bacteria are there after 4 hours?  
    **Answer:** 256. *Why:* 4 hours is 8 periods of 30 minutes. The number doubles each time: 1, 2, 4, 8, 16, 32, 64, 128, 256. So there are 256 bacteria.
 3. (mcq) Some cups of milk are set up. Cup P has starter and is kept warm. Cup Q has starter and is kept in the fridge. Cup R has no starter and is kept warm. After 10 hours only P has set. What does this best show?  
-   Options: Both a starter and warmth are needed / A starter alone is enough / Warmth alone is enough  
+   Options: A starter alone is enough / Both a starter and warmth are needed / Warmth alone is enough  
    **Answer:** Both a starter and warmth are needed. *Why:* Cup P has both and set. Cup Q has the starter but is cold, and did not set. Cup R is warm but has no starter, and did not set. So both are needed.
 4. (perspective) A new idli factory has to decide how to start its batter.  
    **Answer:** Answers vary. A strong answer sees that a factory needs safe and steady results at a large scale, and that a home can use a traditional starter that works well enough.. *Why:* Both views have real strengths. A strong answer gives a reason for each choice, and says what the factory or the home needs most.
@@ -570,12 +570,12 @@ Reena Aunty went to bed smiling. Thara stayed in the kitchen a little longer, th
 13. (sort) Sort each food by which microbe mainly does the work.  
    **Answer:** curd → Bacteria; bread → Yeast; toddy → Yeast; penicillin → Mould; buttermilk → Bacteria; appam batter risen with toddy → Yeast. *Why:* Curd and buttermilk are made by bacteria. Bread, toddy and risen appam batter are made by yeast. Penicillin is made by a mould.
 14. (mcq) When someone says 'I made the curd', which is the best description of what the cook really did?  
-   Options: Made a warm, sweet place where the bacteria could do the work / Turned the milk into acid by stirring / Made the bacteria  
+   Options: Turned the milk into acid by stirring / Made a warm, sweet place where the bacteria could do the work / Made the bacteria  
    **Answer:** Made a warm, sweet place where the bacteria could do the work. *Why:* The cook boiled and cooled the milk and added the starter. The bacteria did the changing.
 15. (truefalse) Every microbe found in a fermented food is harmless to people.  
    **Answer:** False. *Why:* False. Fermented food is safe because the microbes we want make acid that keeps harmful ones away. But food that is spoiled can hold harmful microbes, so it must be thrown away.
 16. (mcq) Two kitchens make idli batter in the same way, but the batters have slightly different microbes. What is the most likely reason?  
-   Options: The microbes come from the grains, utensils and air of each kitchen / Microbes come only from the salt / The two kitchens use different kinds of steam  
+   Options: Microbes come only from the salt / The microbes come from the grains, utensils and air of each kitchen / The two kitchens use different kinds of steam  
    **Answer:** The microbes come from the grains, utensils and air of each kitchen. *Why:* Most home-made batter is not given microbes on purpose. They arrive on the rice, the dal, the grinder and the air. Every kitchen has its own mix.
 17. (count) A dosa batter recipe uses 4 cups of rice for every 1 cup of dal. You want to use 3 cups of dal. How many cups of rice do you need?  
    **Answer:** 12. *Why:* The recipe keeps the same ratio of 4 rice to 1 dal. 3 cups of dal is 3 times 1 cup, so you need 3 times 4 cups of rice. 3 times 4 is 12.
@@ -587,28 +587,28 @@ Reena Aunty went to bed smiling. Thara stayed in the kitchen a little longer, th
 
 ## Quiz
 1. (mcq) Which sentence best describes fermentation?  
-   Options: Microbes eat sugar and make gas, acid or alcohol / Food is cooked until it turns sour / Water is removed from food  
+   Options: Food is cooked until it turns sour / Microbes eat sugar and make gas, acid or alcohol / Water is removed from food  
    **Answer:** Microbes eat sugar and make gas, acid or alcohol. *Why:* Fermentation is done by living microbes. They eat sugars and change them into new things, such as gas, acid or alcohol.
 2. (mcq) Which gas fills a balloon on a bottle of yeast, sugar and warm water?  
-   Options: Carbon dioxide / Oxygen / Steam  
+   Options: Oxygen / Carbon dioxide / Steam  
    **Answer:** Carbon dioxide. *Why:* Yeast eat sugar and make carbon dioxide. Steam would need boiling water, and the water is only warm.
 3. (mcq) Which substance makes curd taste sour?  
-   Options: Lactic acid / Salt / Alcohol  
+   Options: Salt / Lactic acid / Alcohol  
    **Answer:** Lactic acid. *Why:* Lactic acid bacteria make lactic acid from milk sugar. The acid makes the milk sour and thick.
 4. (mcq) What makes the dough rise when a baker uses yeast?  
    Options: Gas made by the yeast, trapped in the dough / Steam from the oven / The sugar swelling  
    **Answer:** Gas made by the yeast, trapped in the dough. *Why:* Yeast make carbon dioxide as they eat. The stretchy dough holds the gas, and the whole dough rises.
 5. (mcq) A child wants to test whether salt slows yeast. Which bottle is the control?  
-   Options: The bottle with yeast, sugar and warm water but no salt / The bottle with the most salt / The bottle with no water  
+   Options: The bottle with the most salt / The bottle with yeast, sugar and warm water but no salt / The bottle with no water  
    **Answer:** The bottle with yeast, sugar and warm water but no salt. *Why:* The control has everything except the thing you are testing. It shows what happens anyway, so you can compare.
 6. (mcq) On a line graph of balloon size over time, what would the line for a bottle with no yeast most likely look like?  
-   Options: Flat, close to zero / Going steadily up / Going up and then down  
+   Options: Going steadily up / Going up and then down / Flat, close to zero  
    **Answer:** Flat, close to zero. *Why:* Without yeast, nothing makes gas. The balloon stays flat, so the line stays flat along the bottom.
 7. (mcq) Milk has just boiled and is very hot. What happens if you stir in the starter curd now?  
    Options: The bacteria in the starter die, and the milk does not set / The milk sets faster / The milk turns sweet  
    **Answer:** The bacteria in the starter die, and the milk does not set. *Why:* Heat above about 50 degrees kills most bacteria. The starter only works if the milk is cooled to finger-warm first.
 8. (mcq) At which temperature would the bacteria that make curd work fastest?  
-   Options: About 38 degrees / About 5 degrees / About 80 degrees  
+   Options: About 5 degrees / About 80 degrees / About 38 degrees  
    **Answer:** About 38 degrees. *Why:* They grow best in gentle warmth. At 5 degrees they are slow, and at 80 degrees they die.
 9. (mcq) You find a pot of curd with pink patches on top and a bad smell. What should you do?  
    Options: Throw it away / Scoop out the patches and eat the rest / Stir it and eat it  
@@ -620,7 +620,7 @@ Reena Aunty went to bed smiling. Thara stayed in the kitchen a little longer, th
    Options: Break them down into simple parts that plants can use again / Turn them into stone / Make them bigger  
    **Answer:** Break them down into simple parts that plants can use again. *Why:* These microbes are decomposers. They break down dead leaves, and the simple parts go back into the soil for new plants to use.
 12. (mcq) A boiled sugar broth sits in a flask with a long, curved neck that keeps dust out. The broth stays clear for months. Why?  
-   Options: Microbes in the air could not reach the broth / Boiling made the broth too sweet / The flask was too clean to grow anything  
+   Options: Boiling made the broth too sweet / The flask was too clean to grow anything / Microbes in the air could not reach the broth  
    **Answer:** Microbes in the air could not reach the broth. *Why:* Boiling killed the microbes in the broth. The long curved neck stopped dust and microbes from reaching it. When the neck was tipped, microbes arrived and the broth turned cloudy.
 
 ## Applications
@@ -698,6 +698,13 @@ Tiny Cooks (sci.microorganisms.L4): Topic-level song
 ## Things to buy
 - [A packet of instant dry yeast (baker's yeast)](https://www.amazon.in/s?k=instant+dry+yeast) (material): For the Yeast Balloon test. One small sachet (about 7 to 10 grams) is enough for the test. Check the date on the packet, because old yeast does not work. Used in e1. 
 - [Four small round balloons](https://www.amazon.in/s?k=balloons+small+round) (material): To catch the gas in the Yeast Balloon test. Any balloons from a stationery shop will do. Used in e1. 
+- [A thermometer (for water or room, 0 to 110 °C)](https://www.amazon.in/s?k=lab+thermometer+110+c) (tool): Used in Winter Batter: keep the batter warm in a cold kitchen. About ₹30 to ₹150. A kitchen or fever thermometer works for some tests. Used in c1. Get it before Winter Batter: keep the batter warm in a cold kitchen.
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in Yeast Balloon: what do yeast need to make gas?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e1. Get it before Yeast Balloon: what do yeast need to make gas?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Yeast Balloon: what do yeast need to make gas?, Batter Watch: one bowl, one night, Make idli from scratch: from rice and dal to soft idli. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a1, p1. Get it before Yeast Balloon: what do yeast need to make gas?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Winter Batter: keep the batter warm in a cold kitchen. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before Winter Batter: keep the batter warm in a cold kitchen.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Make idli from scratch: from rice and dal to soft idli. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in p1. Get it before Make idli from scratch: from rice and dal to soft idli.
+- [A measuring jug or syringe (marked in millilitres)](https://www.amazon.in/s?k=measuring+jug+500+ml) (tool): Used in Yeast Balloon: what do yeast need to make gas?. About ₹30 to ₹100. A clean medicine cup or marked bottle works. Used in e1. Get it before Yeast Balloon: what do yeast need to make gas?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Is yeast a plant, an animal or a fungus? → A fungus.

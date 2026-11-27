@@ -468,11 +468,11 @@
       "t": "mcq",
       "q": "A storm blows on a tall coconut palm. Which part keeps the palm from falling over?",
       "options": [
-       "The coconuts",
        "The roots",
+       "The coconuts",
        "The flowers"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Thousands of thin roots spread through the soil and hold on. The coconuts and the flowers do not hold the palm up."
      }
     }
@@ -606,10 +606,10 @@
       "q": "Which part makes food for the whole plant?",
       "options": [
        "The roots",
-       "The leaves",
-       "The seeds"
+       "The seeds",
+       "The leaves"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Green leaves catch sunlight and use the light to make food from air and water. The food then travels through the stem to every part, even the roots."
      }
     }
@@ -773,10 +773,10 @@
       "q": "The sprouts on the cloth held on, but the sprouts on the bare plate fell off. Why?",
       "options": [
        "The cloth was sticky",
-       "The roots grew into the gaps in the cloth and held on",
-       "The cloth sprouts were heavier"
+       "The cloth sprouts were heavier",
+       "The roots grew into the gaps in the cloth and held on"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The cloth is not sticky. Its threads have tiny gaps between them. The roots grew into the gaps and wrapped round the threads. The smooth steel plate had no gaps for the roots to grow into."
      }
     }
@@ -1316,10 +1316,10 @@
       "q": "Which paper plant is hardest to pull out?",
       "options": [
        "One with no roots",
-       "One with many roots spread out in the rice",
-       "One with roots lying on top of the rice"
+       "One with roots lying on top of the rice",
+       "One with many roots spread out in the rice"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Many roots spread through the rice touch and push against lots of grains. To pull the plant out, you must lift all that rice. Real roots in soil work the same way."
      }
     }
@@ -1418,11 +1418,11 @@
      "t": "mcq",
      "p": "A coriander plant came from the market with soil stuck to the roots. Why did the soil stay on?",
      "opts": [
-      "The soil was wet glue",
       "The roots had grown into the soil and held on",
+      "The soil was wet glue",
       "Someone pressed the soil on"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Roots grow into the tiny gaps between bits of soil and wrap round them. That is why some soil stays stuck to the roots.",
      "how": "a1"
     },
@@ -1549,11 +1549,11 @@
      "t": "mcq",
      "p": "In the sprout test, why did the sprouts on the bare steel plate fall off?",
      "opts": [
-      "The plate was too cold",
       "Their roots had no gaps to grow into on the smooth steel",
+      "The plate was too cold",
       "The sprouts were too heavy"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Smooth steel has no gaps. The roots could only lie on top of the plate, so nothing held them when the plate was turned over.",
      "how": "e1"
     },
@@ -1696,11 +1696,11 @@
      "t": "mcq",
      "p": "In the story The Night the Brinjal Fell, Anu's brinjal plant fell over in a storm, and some roots broke. Later that day the leaves drooped. Why?",
      "opts": [
-      "The leaves got less water",
       "The leaves got too much light",
+      "The leaves got less water",
       "The flowers took the water"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Roots drink water for the whole plant. With fewer roots, less water reaches the leaves, so the leaves go floppy until new roots grow."
     }
    ]
@@ -1712,10 +1712,10 @@
    "p": "Which part of a plant usually grows under the soil?",
    "opts": [
     "The leaves",
-    "The roots",
-    "The flowers"
+    "The flowers",
+    "The roots"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Roots grow down into the soil. The leaves and flowers grow up in the light.",
    "outcome": 0
   },
@@ -1723,11 +1723,11 @@
    "t": "mcq",
    "p": "Which part of a plant holds the leaves up to the light?",
    "opts": [
-    "The stem",
     "The seeds",
-    "The roots"
+    "The roots",
+    "The stem"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The stem holds the leaves, flowers and fruits up off the ground, where the leaves can catch sunlight.",
    "outcome": 1
   },
@@ -1748,10 +1748,10 @@
    "p": "What does a fruit, like a mango, do for the plant?",
    "opts": [
     "Makes food from sunlight",
-    "Holds the seed and keeps the seed safe",
-    "Holds on to the soil"
+    "Holds on to the soil",
+    "Holds the seed and keeps the seed safe"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A fruit grows from a flower and holds the seeds. The seed of a mango is inside the big hard stone.",
    "outcome": 1
   },
@@ -1759,11 +1759,11 @@
    "t": "mcq",
    "p": "What is inside a seed?",
    "opts": [
-    "A tiny new plant and some packed food",
     "Only water",
-    "Nothing at all"
+    "Nothing at all",
+    "A tiny new plant and some packed food"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A seed holds a tiny new plant, asleep, and food for when the seed starts to grow.",
    "outcome": 1
   },
@@ -1771,11 +1771,11 @@
    "t": "mcq",
    "p": "In the sprout test, the roots grew into the cloth. What did that do?",
    "opts": [
-    "It made the sprouts fall off",
     "It held the sprouts on when the cloth was turned over",
+    "It made the sprouts fall off",
     "It made the cloth wet"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The roots grew into the gaps between the threads and wrapped round them. So the sprouts held on, even upside down.",
    "how": "e1",
    "outcome": 2
@@ -1784,11 +1784,11 @@
    "t": "mcq",
    "p": "A pot falls over in a storm. The soil comes out in one lump. What holds the lump together?",
    "opts": [
-    "The roots",
     "The rain",
-    "The leaves"
+    "The leaves",
+    "The roots"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Roots grow through the soil and wrap round the bits. They hold the soil together in one lump.",
    "outcome": 2
   },
@@ -1796,11 +1796,11 @@
    "t": "mcq",
    "p": "How does food made in the leaves get down to the roots?",
    "opts": [
-    "The food travels down the stem",
     "Rain washes the food down",
+    "The food travels down the stem",
     "The roots make their own food"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Food made in the leaves travels through thin tubes in the stem to every part of the plant, down to the roots.",
    "outcome": 3
   },
@@ -1808,11 +1808,11 @@
    "t": "mcq",
    "p": "A plant loses most of the roots. What will happen to the leaves?",
    "opts": [
-    "They will grow bigger",
     "They will droop, because less water reaches them",
+    "They will grow bigger",
     "Nothing will change"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Roots drink water for the whole plant. With few roots, the leaves get less water and go floppy.",
    "outcome": 3
   },
@@ -1832,11 +1832,11 @@
    "t": "mcq",
    "p": "Before a test, why do scientists make a guess and say why?",
    "opts": [
-    "So the test can show if the guess was right",
     "So they can throw the sprouts away",
-    "So the plate gets washed"
+    "So the plate gets washed",
+    "So the test can show if the guess was right"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A guess with a reason is an idea to test. Then the test shows whether the idea was right, or needs to change.",
    "how": "e1",
    "outcome": 4
@@ -1993,7 +1993,57 @@
    "why": "Old trees of many kinds, with roots, trunks, flowers and fruits to find."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-a-magnifying-glass",
+   "item": "A magnifying glass",
+   "kind": "tool",
+   "why": "Used in Meet a Whole Plant: a coriander bunch from root to tip. About ₹30 to ₹120. A water drop on clear plastic magnifies a little.",
+   "url": "https://www.amazon.in/s?k=magnifying+glass+kids",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Get it before Meet a Whole Plant: a coriander bunch from root to tip."
+  },
+  {
+   "id": "b-clean-sand--a-small-bag",
+   "item": "Clean sand (a small bag)",
+   "kind": "material",
+   "why": "Used in A Plant That Stays Put: roots that hold. About ₹20 to ₹60. Fine soil sieved from a pot works.",
+   "url": "https://www.amazon.in/s?k=play+sand+small+bag",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before A Plant That Stays Put: roots that hold."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in Sprouts Hold On: can roots grip?, Meet a Whole Plant: a coriander bunch from root to tip, Roots in a Clear Cup: watch roots grow and hold. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "e1",
+    "a1",
+    "p1"
+   ],
+   "plan": "Get it before Sprouts Hold On: can roots grip?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "Name the six parts of a plant.",

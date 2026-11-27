@@ -782,10 +782,10 @@
       "q": "A string of festival lights goes completely dark when one bulb fails. How are its bulbs most likely joined?",
       "options": [
        "They are not joined to a cell",
-       "In a row, in one single path",
-       "Side by side, each with its own path"
+       "Side by side, each with its own path",
+       "In a row, in one single path"
       ],
-      "a": 1,
+      "a": 2,
       "why": "In a row, one broken bulb breaks the only path, so every bulb goes out. If the bulbs were side by side, only the broken one would go dark. A string that goes dark as a whole is wired in a row."
      },
      "context": "In this step, you take one bulb out of each layout and see what happens to the others."
@@ -914,10 +914,10 @@
       "q": "Your LED lit with the long leg on the plus face and stayed dark when turned round. What does this show?",
       "options": [
        "The cell ran out after the first try",
-       "An LED lets current through in one direction only",
-       "The LED broke when it was turned round"
+       "The LED broke when it was turned round",
+       "An LED lets current through in one direction only"
       ],
-      "a": 1,
+      "a": 2,
       "why": "If the cell had run out, the LED would also stay dark when turned back. It lit again, so the cell was fine. An LED is a one-way part. A wrong-way LED is not broken. It only blocks the current."
      },
      "context": "In this step, you try the LED the wrong way round, then the right way again."
@@ -1174,10 +1174,10 @@
       "q": "A fuse in a plug is a thin wire. Why is it thin on purpose?",
       "options": [
        "So that the plug is lighter",
-       "So that it heats up and melts first if the current gets too big",
-       "So that it uses less metal"
+       "So that it uses less metal",
+       "So that it heats up and melts first if the current gets too big"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A thin wire holds back the flow more than a thick one, so it heats first. When a fault makes the current too big, the thin wire melts and breaks the circuit before the thick house wires get hot."
      },
      "context": "In this step, a thin strand of steel wool glows and breaks, as a fuse does."
@@ -1378,11 +1378,11 @@
       "t": "mcq",
       "q": "You unscrew one bulb from your string. The other two keep glowing. What does that show?",
       "options": [
-       "Each bulb has its own path from the cells",
        "The unscrewed bulb was never used",
-       "The cells are very strong"
+       "The cells are very strong",
+       "Each bulb has its own path from the cells"
       ],
-      "a": 0,
+      "a": 2,
       "why": "In a parallel circuit, each branch is a whole loop on its own. Taking one out leaves the other loops whole. Strong cells would not make a difference to this. In a row, taking one out would put all of them out."
      },
      "context": "In this step, you test your string, and take a bulb out to see that the others stay lit."
@@ -1573,10 +1573,10 @@
    "p": "What makes a bulb's filament glow while the thick wires joined to it stay cool?",
    "opts": [
     "The thick wires have no current in them",
-    "The filament has more electrons",
-    "The filament is thin and holds back the flow a lot, so it gets very hot"
+    "The filament is thin and holds back the flow a lot, so it gets very hot",
+    "The filament has more electrons"
    ],
-   "a": 2,
+   "a": 1,
    "why": "The same current goes through both. Only the thin filament has high resistance, so the energy turns to heat and light there.",
    "outcome": 3
   },
@@ -1584,11 +1584,11 @@
    "t": "mcq",
    "p": "In a circuit diagram, which symbol stands for a cell?",
    "opts": [
-    "A long thin line next to a short fat line",
     "A circle with a cross inside",
-    "A gap with a lever"
+    "A gap with a lever",
+    "A long thin line next to a short fat line"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The cell is a long thin line, the plus end, next to a short fat line, the minus end. The circle with a cross is a bulb, and the gap with a lever is a switch.",
    "outcome": 4
   },
@@ -1596,11 +1596,11 @@
    "t": "mcq",
    "p": "The arrow in a circuit diagram goes from the plus end of the cell round to the minus end. What is true about the electrons in a metal wire?",
    "opts": [
-    "They move the opposite way, from minus to plus",
     "They move the same way as the arrow",
+    "They move the opposite way, from minus to plus",
     "They do not move at all"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Franklin guessed the direction of the arrow in 1747. Later the electron was found, and it moves the other way.",
    "outcome": 5
   },
@@ -1608,11 +1608,11 @@
    "t": "mcq",
    "p": "An LED does not light when you join it to a coin cell. What should you try first?",
    "opts": [
-    "Turn the LED round",
     "Wet the legs",
+    "Turn the LED round",
     "Join a second coin cell in a row"
    ],
-   "a": 0,
+   "a": 1,
    "why": "An LED works only one way round. Turned the right way, its long leg is on the plus face. The wrong way round it blocks the current but is not harmed. Two coin cells in a row could burn it out.",
    "outcome": 5
   },
@@ -1620,11 +1620,11 @@
    "t": "mcq",
    "p": "What does a fuse do?",
    "opts": [
-    "It melts and breaks the circuit when the current gets too big",
     "It makes the current steady",
-    "It stores electricity"
+    "It stores electricity",
+    "It melts and breaks the circuit when the current gets too big"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A fuse is a thin wire that heats first. It breaks the circuit before the wires in the walls get dangerously hot.",
    "outcome": 6
   },
@@ -1632,11 +1632,11 @@
    "t": "mcq",
    "p": "A loose wire touches both ends of a cell and quickly gets hot. What is this called?",
    "opts": [
+    "A short circuit",
     "A switch",
-    "A parallel circuit",
-    "A short circuit"
+    "A parallel circuit"
    ],
-   "a": 2,
+   "a": 0,
    "why": "Nothing holds back the flow except the wire, so the current is huge and the wire heats up. It is dangerous and the wire should be removed at once.",
    "outcome": 6
   },
@@ -1644,11 +1644,11 @@
    "t": "mcq",
    "p": "A safe light should come on only when two keys are both turned. How are the two key switches joined?",
    "opts": [
-    "In a row",
     "Side by side",
+    "In a row",
     "On opposite sides of the bulb with no wire"
    ],
-   "a": 0,
+   "a": 1,
    "why": "In a row, the only path goes through both switches, so both must be closed.",
    "outcome": 7
   },
@@ -1656,11 +1656,11 @@
    "t": "mcq",
    "p": "A bell should ring if either of two buttons is pressed. How are the buttons joined?",
    "opts": [
-    "Side by side",
     "One button in the cell holder",
-    "In a row"
+    "In a row",
+    "Side by side"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Side by side, pressing either button makes a whole loop. Pressing both works too.",
    "outcome": 7
   },
@@ -1802,11 +1802,11 @@
      "t": "mcq",
      "p": "A fan keeps turning when you switch off the tube light in the same room. What does that show about how they are wired?",
      "opts": [
-      "They are on separate branches, side by side",
       "The fan has its own cell",
-      "They are in a row"
+      "They are in a row",
+      "They are on separate branches, side by side"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Switching off the tube light opens only its own branch. The fan's branch is still a complete loop, so the fan keeps turning.",
      "outcome": 1
     },
@@ -1877,11 +1877,11 @@
      "t": "mcq",
      "p": "You join an LED to a coin cell and it does not light. When you turn it round, it lights. What was wrong the first time?",
      "opts": [
-      "It was joined the wrong way round",
       "The LED was broken",
-      "The coin cell was empty"
+      "The coin cell was empty",
+      "It was joined the wrong way round"
      ],
-     "a": 0,
+     "a": 2,
      "why": "An LED lets current through one way only. Turned round, it simply blocks the current. It is not damaged, and the cell was fine since it lit afterwards.",
      "outcome": 5
     }
@@ -1965,11 +1965,11 @@
      "t": "mcq",
      "p": "Why do engineers still draw the arrow of current from plus to minus, when the electrons really move from minus to plus?",
      "opts": [
-      "Millions of diagrams and rules already use it, and the answers are right either way",
       "Nobody has found out which way the electrons move",
+      "Millions of diagrams and rules already use it, and the answers are right either way",
       "The electrons switch direction every second"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Franklin guessed the direction in 1747, long before electrons were found. Keeping the rule means old and new diagrams agree, and the results come out right.",
      "outcome": 5
     },
@@ -2060,11 +2060,11 @@
      "t": "mcq",
      "p": "Why is a bulb's filament made so thin?",
      "opts": [
+      "A thin wire holds back the flow, so it gets hot enough to glow",
       "A thin wire carries more current",
-      "A thin wire is cheaper to make",
-      "A thin wire holds back the flow, so it gets hot enough to glow"
+      "A thin wire is cheaper to make"
      ],
-     "a": 2,
+     "a": 0,
      "why": "A thin wire has high resistance. The charges give up their energy there as heat, which makes it glow.",
      "outcome": 3
     }
@@ -2081,10 +2081,10 @@
      "p": "Two cells are joined in a row but facing opposite ways, with a bulb. What does the bulb do?",
      "opts": [
       "It glows as bright as with one cell",
-      "It glows twice as bright",
-      "It stays dark, because the pushes cancel"
+      "It stays dark, because the pushes cancel",
+      "It glows twice as bright"
      ],
-     "a": 2,
+     "a": 1,
      "why": "Cells in a row add their pushes only if they face the same way. Facing opposite ways, the pushes work against each other and cancel.",
      "outcome": 2
     },
@@ -2166,11 +2166,11 @@
      "t": "mcq",
      "p": "Why does a wire joined straight across a cell get hot so fast?",
      "opts": [
-      "The cell makes heat on its own",
       "Nothing holds back the flow, so a huge current goes through the wire",
+      "The cell makes heat on its own",
       "The wire is too long"
      ],
-     "a": 1,
+     "a": 0,
      "why": "A short circuit has almost no resistance, so the current is very large. A large current heats even a thick wire.",
      "outcome": 6
     },
@@ -2245,10 +2245,10 @@
      "p": "A circuit must light a bulb if either a door switch or a hand switch is closed. How should the two switches be wired?",
      "opts": [
       "In a row",
-      "Side by side",
-      "Both on one side of the cell with no bulb between"
+      "Both on one side of the cell with no bulb between",
+      "Side by side"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Side by side, closing either switch makes a whole path. In a row, both would have to be closed.",
      "outcome": 7
     },
@@ -2547,6 +2547,55 @@
    "used_in": [
     "a3"
    ]
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Draw It Like an Engineer: circuit diagrams, Pencil Dimmer: slide the clip, change the glow, Build a Three-Bulb Festival String. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "a1",
+    "a2",
+    "p1"
+   ],
+   "plan": "Get it before Draw It Like an Engineer: circuit diagrams."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Build a Three-Bulb Festival String. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before Build a Three-Bulb Festival String."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in Be the Festival Lights: a human circuit. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "a4"
+   ],
+   "plan": "Get it before Be the Festival Lights: a human circuit."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

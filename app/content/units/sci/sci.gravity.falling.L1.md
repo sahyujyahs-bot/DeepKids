@@ -1,9 +1,9 @@
 # Things fall: everything drops when we let go
 `sci.gravity.falling.L1`
 
-**Summary.** Let go of a spoon and it falls. Does everything fall, even a feather? In this unit you will drop everyday things to find out, take away what holds something up, and see where a dropped thing lands under your hand.
+**Summary.** Let go of a spoon and it falls. Does everything fall, even a feather? In this lesson you will drop everyday things to find out, take away what holds something up, and see where a dropped thing lands under your hand.
 
-**Intro.** *Hold a spoon up high. Open your hand. What happens? Now try it with a feather or a balloon. Does that fall too?* Try the spoon first. Then try a feather and a balloon. Do they all fall? In this unit you let go of many things and watch where they go. You find out what holds things up. And you learn the name scientists give to the pull that makes things fall.
+**Intro.** *Hold a spoon up high. Open your hand. What happens? Now try it with a feather or a balloon. Does that fall too?* Try the spoon first. Then try a feather and a balloon. Do they all fall? In this lesson you let go of many things and watch where they go. You find out what holds things up. And you learn the name scientists give to the pull that makes things fall.
 
 ## Learning outcomes
 0. By the end I can show that everything falls when I let go of it, some things fast and some slowly.
@@ -403,7 +403,7 @@ That night, Nila lay in bed. The bed held her up. The floor held the bed. The bu
 6. (write) In Take Away the Holder, why did the tumbler fall when the book was pulled away? Say your answer out loud, and a grown-up writes it down.  
    **Answer:** The book was holding it up. When the book was pulled away, nothing held it, so the Earth pulled it down.. *Why:* A strong answer says the book held the tumbler up, and that the Earth's pull made it fall once nothing held it.
 7. (mcq) You let go of a mango and a feather from the same height at the same time. Which one reaches the floor first?  
-   Options: The mango / The feather / They land together  
+   Options: The feather / The mango / They land together  
    **Answer:** The mango. *Why:* The mango lands first. The air slows the feather, so it takes longer. Both fall.
 8. (perspective) The first child and the second child watched the balloon in the Let-Go Test. A grown-up reads what each one said. Say your answer out loud, and the grown-up writes it.  
    **Answer:** A strong answer picks a side with a reason from the test. The second child is right that it landed. The first child is right that it moved very slowly, as if floating, and that it is light.. *Why:* The balloon did fall, all the way to the floor. But the first child saw something true: it moved so slowly that it seemed to float, because the air slowed it.
@@ -414,7 +414,7 @@ That night, Nila lay in bed. The bed held her up. The floor held the bed. The bu
    **Answer:** Two pictures: the child in the air, then on the ground, with an arrow pointing down.. *Why:* A strong drawing shows that the child comes back down, and the arrow points down towards the ground.
 ### Down and Held Up (stretch) (stretch, 10 questions)
 1. (mcq) You squash a sheet of paper into a tight ball. You drop it next to a flat sheet of the same paper. Which one lands first?  
-   Options: The tight ball / The flat sheet / They land together  
+   Options: The flat sheet / They land together / The tight ball  
    **Answer:** The tight ball. *Why:* The ball lands first. It is the same paper, but the flat sheet is wide, so the air slows it down more.
 2. (draw) In Right on the Dot, you dropped a lemon and a sheet of paper onto a dot on a newspaper. Draw the dot. Draw the lemon falling onto it. Then draw the path the sheet of paper took as it fell.  
    **Answer:** A straight line down onto the dot for the lemon, and a wobbly, swinging line for the paper, landing away from the dot.. *Why:* A strong drawing shows the lemon going straight down and the paper swinging from side to side, because the air pushes the paper about.
@@ -443,19 +443,19 @@ That night, Nila lay in bed. The bed held her up. The floor held the bed. The bu
 
 ## Quiz
 1. (mcq) A baby opens his hand and lets go of a steel spoon. What does the spoon do?  
-   Options: It falls down / It floats in the air / It flies up  
+   Options: It floats in the air / It falls down / It flies up  
    **Answer:** It falls down. *Why:* Nothing holds the spoon now, so it falls down.
 2. (mcq) Which of these falls slowly when you let go?  
-   Options: A ball of cotton wool / A steel spoon / A lemon  
+   Options: A steel spoon / A lemon / A ball of cotton wool  
    **Answer:** A ball of cotton wool. *Why:* The air slows down light, wide things like cotton wool. They still fall, only slowly.
 3. (mcq) What do scientists call the pull of the Earth that makes things fall?  
    Options: Gravity / Wind / A push  
    **Answer:** Gravity. *Why:* The Earth's pull is called gravity.
 4. (mcq) What pulls a ripe mango down from the tree?  
-   Options: The Earth's pull, gravity / The wind, every time / The air pushing it down  
+   Options: The wind, every time / The Earth's pull, gravity / The air pushing it down  
    **Answer:** The Earth's pull, gravity. *Why:* Gravity, the pull of the Earth, brings the mango down. Wind can shake a mango loose, but gravity makes it fall.
 5. (mcq) A photo frame hangs on a nail. What is holding the frame up?  
-   Options: The nail / The air / Nothing  
+   Options: The air / Nothing / The nail  
    **Answer:** The nail. *Why:* The nail is the frame's support. Without it, the frame would fall.
 6. (mcq) What is holding you up when you stand in your room?  
    Options: The floor / The ceiling / The fan  
@@ -464,13 +464,13 @@ That night, Nila lay in bed. The bed held her up. The floor held the bed. The bu
    Options: In the mug, straight below the tap / On the wall behind the mug / They go up into the tap  
    **Answer:** In the mug, straight below the tap. *Why:* A drop falls straight down, to the spot right under where it left the tap.
 8. (mcq) Which way is 'down', anywhere on the Earth?  
-   Options: Towards the ground / Towards the sky / Towards the Sun  
+   Options: Towards the sky / Towards the ground / Towards the Sun  
    **Answer:** Towards the ground. *Why:* Down always means towards the ground, because the Earth pulls everything towards it.
 9. (mcq) You look out of a window during the monsoon. Which of these do you see falling?  
    Options: Raindrops / The clouds coming down to the street / The buildings  
    **Answer:** Raindrops. *Why:* Raindrops fall from the clouds to the ground, pulled by the Earth.
 10. (mcq) Why does a feather fall more slowly than a steel spoon?  
-   Options: The air slows the feather down / The Earth does not pull the feather / The feather is pulled up  
+   Options: The Earth does not pull the feather / The air slows the feather down / The feather is pulled up  
    **Answer:** The air slows the feather down. *Why:* The Earth pulls both. The feather is light and wide, so the air gets in its way.
 
 ## Applications
@@ -481,11 +481,11 @@ That night, Nila lay in bed. The bed held her up. The floor held the bed. The bu
 - Mango pickers use a long pole with a little bag at the top, so the falling mangoes drop into the bag, not onto the ground.
 
 ## Spotted around us
-- Monsoon rain in Kochi falling from the sky and running down the window glass.
-- Jog Falls in Karnataka, where a river falls down a tall cliff.
-- Shiuli flowers in West Bengal, which fall from the tree in the early morning and cover the ground.
-- Dahi Handi in Mumbai, where a pot of curd hangs on a rope high above the street until someone breaks it.
-- A coconut falling from a tall palm in Goa or Kerala.
+- Monsoon rain falling from the sky and running down the window glass.
+- A waterfall, where a river falls down a tall cliff.
+- Shiuli flowers, which fall from the tree in the early morning and cover the ground.
+- Dahi Handi, where a pot of curd hangs on a rope high above the street until someone breaks it.
+- A coconut falling from a tall palm.
 
 ## Open questions
 - **How does the Earth pull a spoon without touching it?** Scientists can measure the pull very well, and have two good ideas about it. But nobody yet knows what gravity is at the very tiniest scale.
@@ -521,9 +521,15 @@ Gravity (sci.gravity.L1): Topic-level song for Gravity L1
 ## Links
 - [NASA Space Place: What is gravity?](https://spaceplace.nasa.gov/what-is-gravity/en/) · interactive: For the parent: a short, clear page from NASA about gravity, with pictures to look at together.
 - [StoryWeaver, free picture books from Pratham Books](https://storyweaver.org.in/) · interactive: For the parent: free picture books in many Indian languages to read aloud. Search for books about rain, falling and flying.
-- [Kerala State Science and Technology Museum]() · place · Thiruvananthapuram: A science museum and planetarium with hands-on science galleries, good for a family day out.
+- Kerala State Science and Technology Museum · place · Thiruvananthapuram: A science museum and planetarium with hands-on science galleries, good for a family day out.
 
 ## Things to buy
+- [Balloons (a packet)](https://www.amazon.in/s?k=balloons+packet) (material): Used in The Let-Go Test: does everything fall?. About ₹20 to ₹60. Used in e1. Get it before The Let-Go Test: does everything fall?.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in The Wall Marble Run. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in p1. Get it before The Wall Marble Run.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in The Let-Go Test: does everything fall?. About ₹20 to ₹50. Torn clean cloth works. Used in e1. Get it before The Let-Go Test: does everything fall?.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in The Wall Marble Run. About ₹30 to ₹60. Newspaper cut into strips also works. Used in p1. Get it before The Wall Marble Run.
+- [Marbles (a few)](https://www.amazon.in/s?k=glass+marbles+pack) (material): Used in The Wall Marble Run. About ₹10 to ₹40. Small round stones or dried chana. Used in p1. Get it before The Wall Marble Run.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Which way does a spoon go when you let go of it? → Down.
@@ -540,7 +546,7 @@ Gravity (sci.gravity.L1): Topic-level song for Gravity L1
 
 ## Sources
 - ideas/by_topic/gravity.md, Grade 1 concept: gravity keeps your feet on the floor, every jump comes back down, falling leaves and raindrops, and birds and balloons that seem to escape the pull but are using the air. These became the Let-Go Test, Fall Like a Leaf, the Falling Watch and the kite bird in the story.
-- ideas/by_topic/gravity.md: the note that the ground holds you up became Take Away the Holder and the toy challenge. The heavy-and-light drops, crumpled paper and the space-time blanket belong to the Level 3 unit, so this unit uses the let-go sort, the dot drop, the holder hunt and the marble run instead.
+- ideas/by_topic/gravity.md: the note that the ground holds you up became Take Away the Holder and the toy challenge. The heavy-and-light drops, crumpled paper and the space-time blanket belong to the Level 3 unit, so this lesson uses the let-go sort, the dot drop, the holder hunt and the marble run instead.
 - Aristotle, On the Heavens (De Caelo), Book 4: earth and water move down by nature, fire and air move up.
 - Galileo Galilei, Two New Sciences (1638), First Day: weighing a glass vessel with extra air forced into it, to show that air has weight.
 - Archimedes' principle: a thing in a liquid or a gas is pushed up by the weight of what it pushes aside, which is why helium balloons and hot smoke rise.

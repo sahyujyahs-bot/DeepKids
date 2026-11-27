@@ -694,11 +694,11 @@
       "t": "mcq",
       "q": "A clue says: 'I am so light for my size that I would float in water.' Is this planet rocky or a giant, and why?",
       "options": [
-       "A giant, because only gas giants are less dense than water",
        "Rocky, because it floats like a rock",
-       "Rocky, because everything light is rocky"
+       "Rocky, because everything light is rocky",
+       "A giant, because only gas giants are less dense than water"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A planet lighter than water must be made mostly of gas, like Saturn. Rock and metal are much denser than water. If you picked 'rocky', you may have thought that rock floats. Try dropping a stone into water."
      }
     },
@@ -914,11 +914,11 @@
       "t": "mcq",
       "q": "Crater A has a complete round rim. Crater B's rim cuts into A, so a piece of A's rim is missing. Which crater is older?",
       "options": [
-       "Crater A, because B cut into it",
        "Crater B, because it cuts into A",
+       "Crater A, because B cut into it",
        "You cannot tell which is older"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A new crater destroys part of whatever it lands on, so the crater with the broken rim is the older one. The complete one is the newer. Scientists use the same rule on the Moon. If you picked 'cannot tell', look at which rim is complete."
      },
      "parent": "Make the second crater overlap the edge of the first and the third overlap the edge of the second. Do not hide the marble in your fist. Tell your child the true order after they decide."
@@ -1106,11 +1106,11 @@
       "t": "mcq",
       "q": "The ice in the covered tumbler melted sooner. What is the best reason?",
       "options": [
-       "The film kept the warm air from escaping, so the air inside got hotter",
        "The film made more sunshine",
-       "The ice in the covered tumbler was a different kind"
+       "The ice in the covered tumbler was a different kind",
+       "The film kept the warm air from escaping, so the air inside got hotter"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Sunlight passes through the clear film and warms the paper and the air. The film stops the warm air from flowing away, so the inside gets hotter. The film does not make sunshine, and a fair test uses the same ice. If you picked 'a different kind', check that you used cubes from the same tray."
      },
      "parent": "A digital fever thermometer reads only above about 32 degrees Celsius. Stop if it shows HI."
@@ -1485,11 +1485,11 @@
       "t": "mcq",
       "q": "Why do real Mars rovers carry their own rules for avoiding rocks, instead of being driven step by step from the Earth?",
       "options": [
-       "Every message takes minutes to arrive, so step by step control would be very slow and the rover could not react in time",
        "Rovers do not like being told what to do",
+       "Every message takes minutes to arrive, so step by step control would be very slow and the rover could not react in time",
        "There is nobody on the Earth who can drive them"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Messages take minutes to cross the gap, and replies take as long again. A rover that waited for every command would drive a few metres a day. So the rover gets a plan, and uses its own camera and computer to avoid danger. If you picked 'nobody on the Earth can drive them', remember that Mission Control plans every drive."
      }
     }
@@ -1722,11 +1722,11 @@
       "t": "mcq",
       "q": "In the cut-open Earth, which layer is the thickest?",
       "options": [
-       "The mantle",
        "The crust",
-       "The inner core"
+       "The inner core",
+       "The mantle"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The mantle is about 2,900 kilometres thick, much thicker than any other layer. The crust is only a few kilometres to a few tens of kilometres thick. If you picked the crust, that may be because it is the layer we live on."
      }
     },
@@ -1854,11 +1854,11 @@
       "t": "mcq",
       "q": "Why does a landing on Mars need more than a parachute, but a landing on Venus does not?",
       "options": [
-       "Mars has very thin air, and Venus has air that is much thicker than the Earth's",
        "Mars is bigger than Venus",
+       "Mars has very thin air, and Venus has air that is much thicker than the Earth's",
        "Venus has no gravity"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A parachute works by pushing against air. Thick air gives it lots to push against, and thin air gives it little. Mars's air is less than 1 percent as thick as the Earth's. Venus's air presses about 90 times as hard as the Earth's. If you picked 'Mars is bigger than Venus', remember that Mars is smaller than Venus."
      }
     }
@@ -1972,12 +1972,12 @@
      "t": "mcq",
      "p": "One region of the Moon has about 300 craters in a patch. A smooth plain next to it has about 30 craters in a patch of the same size. What does this suggest?",
      "opts": [
-      "The crowded region is older than the smooth plain",
       "The smooth plain is older than the crowded region",
       "Both regions are the same age",
+      "The crowded region is older than the smooth plain",
       "The crowded region has more volcanoes"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Space rocks hit the Moon steadily over billions of years. A surface that has been exposed longer collects more craters. The smooth plain was covered by lava later, which wiped out its older craters. Picking 'smooth is older' mixes up smooth with ancient.",
      "outcome": 2
     },
@@ -2008,12 +2008,12 @@
      "t": "mcq",
      "p": "Venus is further from the Sun than Mercury, yet Venus is the hotter planet. Which is the best reason?",
      "opts": [
-      "Venus has a very thick atmosphere of carbon dioxide that traps heat",
       "Venus spins faster than Mercury",
+      "Venus has a very thick atmosphere of carbon dioxide that traps heat",
       "Venus is bigger than Mercury",
       "Venus is nearer the Earth"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Venus's thick atmosphere acts like a blanket and slows the heat escaping. Mercury has almost no atmosphere, so its heat escapes quickly. Picking 'bigger' or 'spins faster' does not explain heat. Picking 'nearer the Earth' is not a reason at all.",
      "outcome": 3
     },
@@ -2089,12 +2089,12 @@
      "t": "mcq",
      "p": "If the Sun suddenly switched off right now, what would people on the Earth see for the next 8 minutes?",
      "opts": [
-      "The Sun would still shine, because its light is still arriving",
       "The Sun would go dark at once",
       "The Sun would get dimmer a bit at a time",
-      "The Sun would turn red"
+      "The Sun would turn red",
+      "The Sun would still shine, because its light is still arriving"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Light from the Sun needs about 8 minutes and 20 seconds to reach the Earth. The light already on its way keeps arriving. Picking 'dark at once' forgets that light takes time to travel.",
      "outcome": 5
     }
@@ -2110,12 +2110,12 @@
      "t": "mcq",
      "p": "A new planet is found 4 times as far from its Sun-like star as the Earth is from the Sun. Use the rule that year times year equals distance times distance times distance. How long is its year?",
      "opts": [
-      "8 Earth years",
       "4 Earth years",
+      "8 Earth years",
       "16 Earth years",
       "2 Earth years"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Distance times distance times distance is 4 times 4 times 4, which is 64. The year times itself must also be 64, and 8 times 8 is 64. So the year is 8 Earth years. Picking 4 assumes the year grows at the same rate as the distance, which the Planet Data Detective activity showed is not true.",
      "outcome": 4
     },
@@ -2238,12 +2238,12 @@
      "t": "mcq",
      "p": "In a scale model where 1 millimetre stands for 10,000 kilometres, the Earth is 15 metres from the Sun. Mars is about 1.5 times as far. About how far from the Sun is Mars in the model?",
      "opts": [
-      "About 23 metres",
       "About 1.5 metres",
       "About 150 metres",
-      "About 15 metres"
+      "About 15 metres",
+      "About 23 metres"
      ],
-     "a": 0,
+     "a": 3,
      "why": "15 metres times 1.5 is 22.5 metres, which is about 23 metres. Picking 15 forgets to multiply. Picking 150 puts the decimal point in the wrong place.",
      "how": "a1",
      "outcome": 6
@@ -2316,12 +2316,12 @@
      "t": "mcq",
      "p": "Without any greenhouse effect at all, about what would the Earth's average temperature be?",
      "opts": [
-      "About minus 18 degrees Celsius",
       "About 15 degrees Celsius",
       "About 100 degrees Celsius",
+      "About minus 18 degrees Celsius",
       "About 460 degrees Celsius"
      ],
-     "a": 0,
+     "a": 2,
      "why": "With the natural greenhouse effect the Earth averages about 15 degrees Celsius. The effect adds about 33 degrees, so without it the average would be about minus 18. About 460 degrees Celsius is the temperature on Venus.",
      "outcome": 3
     },
@@ -2369,12 +2369,12 @@
      "t": "mcq",
      "p": "Light takes about 8 minutes to cross 1 astronomical unit. A spacecraft is 30 astronomical units from the Earth, as far as Neptune is from the Sun. About how long does a radio message take to travel one way to it?",
      "opts": [
-      "About 4 hours",
       "About 4 minutes",
       "About 30 minutes",
-      "About 1 day"
+      "About 1 day",
+      "About 4 hours"
      ],
-     "a": 0,
+     "a": 3,
      "why": "30 times 8 minutes is 240 minutes, which is 4 hours. Picking 4 minutes forgets to multiply by 30. A reply would take another 4 hours, so a question and its answer take about 8 hours.",
      "outcome": 5
     },
@@ -2390,12 +2390,12 @@
      "t": "mcq",
      "p": "Mars has many more craters than the Earth. What is the best reason?",
      "opts": [
-      "Mars has far less rain and no moving plates to wipe them out",
       "Mars is closer to the asteroid belt, so only Mars was hit",
+      "Mars has far less rain and no moving plates to wipe them out",
       "The Earth was never hit by space rocks",
       "Mars is made of a softer rock"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The Earth was hit as much as Mars, but its water, wind, living things and moving crust wipe out craters. Mars has little of these. Picking 'the Earth was never hit' is wrong, because the Earth has about 190 known craters.",
      "outcome": 2
     },
@@ -2426,12 +2426,12 @@
      "t": "mcq",
      "p": "A spacecraft measures a round world with a density of 0.8. What is the best conclusion?",
      "opts": [
-      "It is made mostly of light gas or ice, not mostly of rock and metal",
       "It is made of solid iron",
+      "It is made mostly of light gas or ice, not mostly of rock and metal",
       "It is certainly the Earth's twin",
       "It has no mass"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Rock and metal are far denser than water, which has a density of 1. A world with a density of 0.8 must be made of light stuff such as gas, with little rock. Solid iron would have a density near 8.",
      "outcome": 1
     },
@@ -2540,12 +2540,12 @@
    "t": "mcq",
    "p": "Why can a spacecraft not land on Jupiter?",
    "opts": [
-    "Jupiter is made of gas and fluid and has no solid surface",
     "Jupiter is too small",
+    "Jupiter is made of gas and fluid and has no solid surface",
     "Jupiter is too cold",
     "Jupiter is moving too fast"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Going deeper into Jupiter, the gas simply gets thicker and hotter. There is nothing solid to land on. Picking 'too small' is wrong, because Jupiter is the biggest planet.",
    "outcome": 0
   },
@@ -2566,12 +2566,12 @@
    "t": "mcq",
    "p": "The Earth's average density is about 5.5, but ordinary surface rock has a density of about 3. What does this tell you?",
    "opts": [
-    "The inside of the Earth must be denser than surface rock, such as heavy iron",
     "The surface rock is lighter than it looks",
     "The Earth is hollow",
-    "The density of the surface rock was measured wrongly"
+    "The density of the surface rock was measured wrongly",
+    "The inside of the Earth must be denser than surface rock, such as heavy iron"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The average of the whole Earth is higher than the rock on top, so something much denser must be inside. This is the iron core. Picking 'hollow' would make the Earth less dense, not more.",
    "outcome": 1
   },
@@ -2579,12 +2579,12 @@
    "t": "mcq",
    "p": "Two plains on a moon look the same size. One has many craters and the other has very few. What is the best conclusion?",
    "opts": [
-    "The plain with many craters has been exposed for longer, so it is older",
     "The plain with few craters is older",
     "The plains are the same age",
+    "The plain with many craters has been exposed for longer, so it is older",
     "The plain with few craters was hit harder"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Craters pile up with time, so more craters means a longer time. A plain with few craters was covered or renewed more recently. If you picked 'the plain with few craters is older', remember that old does not mean smooth.",
    "outcome": 2
   },
@@ -2618,12 +2618,12 @@
    "t": "mcq",
    "p": "What does the greenhouse effect do to a planet?",
    "opts": [
-    "Gases in the air slow the heat escaping, so the surface is warmer",
     "It makes the planet spin faster",
     "It makes sunlight stronger",
-    "It makes the planet bigger"
+    "It makes the planet bigger",
+    "Gases in the air slow the heat escaping, so the surface is warmer"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Greenhouse gases let sunlight in but slow down the heat on its way out. The Earth is about 33 degrees Celsius warmer because of this. Picking 'stronger sunlight' mixes up what comes in with what stays.",
    "outcome": 3
   },
@@ -2631,12 +2631,12 @@
    "t": "mcq",
    "p": "Which statement about the years of the planets is correct?",
    "opts": [
-    "Planets further from the Sun have longer years, and the year grows faster than the distance",
     "All planets have a year of about the same length",
     "A bigger planet always has a longer year",
+    "Planets further from the Sun have longer years, and the year grows faster than the distance",
     "A planet further from the Sun has a shorter year"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A planet farther from the Sun has a longer path and also moves slower, so its year grows faster than its distance. Picking 'bigger planet' mixes up size and distance. Jupiter's year is long because of its distance, not its size.",
    "outcome": 4
   },
@@ -2644,12 +2644,12 @@
    "t": "mcq",
    "p": "When you look at the Sun, what do you see?",
    "opts": [
-    "The Sun as it was about 8 minutes ago",
     "The Sun exactly as it is now",
+    "The Sun as it was about 8 minutes ago",
     "The Sun as it will be in 8 minutes",
     "The Sun as it was a day ago"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Sunlight takes about 8 minutes and 20 seconds to travel to the Earth. The light that enters your eye left the Sun then. Everything far away is seen as it was a little while ago.",
    "outcome": 5
   },
@@ -2657,12 +2657,12 @@
    "t": "mcq",
    "p": "Why is a rover on Mars not driven live from the Earth like a remote-controlled toy?",
    "opts": [
-    "Each message takes minutes to arrive, so the rover would be driven far too slowly",
     "Rovers have no wheels",
+    "Each message takes minutes to arrive, so the rover would be driven far too slowly",
     "Nobody can see the rover",
     "Radio signals cannot reach Mars"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The delay in sending a command and getting the reply can be 6 to 44 minutes. So the rover is sent plans, and uses its own rules to avoid danger. Radio signals do reach Mars. They are just not instant.",
    "outcome": 5
   },
@@ -2670,12 +2670,12 @@
    "t": "mcq",
    "p": "What must be true of a scale model of the solar system for it to be honest?",
    "opts": [
-    "Sizes and distances must both be shrunk by the same amount",
     "Planets must be drawn evenly spaced",
     "Planets must all be the same size",
+    "Sizes and distances must both be shrunk by the same amount",
     "Only the sizes must be to scale"
    ],
-   "a": 0,
+   "a": 2,
    "why": "If the planets are drawn big enough to see, the distances become far too short. A true scale model shows tiny planets very far apart. Books draw the planets evenly spaced so that they fit on a page, and that is not true to scale.",
    "outcome": 6
   }
@@ -2964,6 +2964,133 @@
    "used_in": [
     "p1"
    ]
+  },
+  {
+   "id": "b-a-thermometer--for-water-or-",
+   "item": "A thermometer (for water or room, 0 to 110 °C)",
+   "kind": "tool",
+   "why": "Used in Two Tumblers in the Sun: does a lid make a hotter world?. About ₹30 to ₹150. A kitchen or fever thermometer works for some tests.",
+   "url": "https://www.amazon.in/s?k=lab+thermometer+110+c",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before Two Tumblers in the Sun: does a lid make a hotter world?."
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in Crater Tray: what do dents in flour tell us about a world?, Walk the Solar System: the Sun is a disc 14 centimetres wide, Land on Mars: a parachute that hardly works. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "e1",
+    "a1",
+    "c1"
+   ],
+   "plan": "Get it before Crater Tray: what do dents in flour tell us about a world?."
+  },
+  {
+   "id": "b-a-digital-stopwatch--optiona",
+   "item": "A digital stopwatch (optional)",
+   "kind": "tool",
+   "why": "Used in Drive a Rover from Far Away: messages that take 25 minutes. About ₹150 to ₹400. A phone stopwatch works well.",
+   "url": "https://www.amazon.in/s?k=digital+stopwatch",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before Drive a Rover from Far Away: messages that take 25 minutes."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Crater Tray: what do dents in flour tell us about a world?, Cut-Open Planets: Earth and Jupiter in dough. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "p1"
+   ],
+   "plan": "Get it before Crater Tray: what do dents in flour tell us about a world?."
+  },
+  {
+   "id": "b-food-colour",
+   "item": "Food colour",
+   "kind": "material",
+   "why": "Used in Cut-Open Planets: Earth and Jupiter in dough. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it.",
+   "url": "https://www.amazon.in/s?k=food+colour+liquid",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before Cut-Open Planets: Earth and Jupiter in dough."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Walk the Solar System: the Sun is a disc 14 centimetres wide. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Get it before Walk the Solar System: the Sun is a disc 14 centimetres wide."
+  },
+  {
+   "id": "b-clean-sand--a-small-bag",
+   "item": "Clean sand (a small bag)",
+   "kind": "material",
+   "why": "Used in Planet in a Jar: why the heavy stuff goes to the middle. About ₹20 to ₹60. Fine soil sieved from a pot works.",
+   "url": "https://www.amazon.in/s?k=play+sand+small+bag",
+   "used_in": [
+    "a4"
+   ],
+   "plan": "Get it before Planet in a Jar: why the heavy stuff goes to the middle."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in Walk the Solar System: the Sun is a disc 14 centimetres wide. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Get it before Walk the Solar System: the Sun is a disc 14 centimetres wide."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in Land on Mars: a parachute that hardly works. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before Land on Mars: a parachute that hardly works."
+  },
+  {
+   "id": "b-iron-nails-or-iron-filings",
+   "item": "Iron nails or iron filings",
+   "kind": "material",
+   "why": "Used in Planet in a Jar: why the heavy stuff goes to the middle. About ₹20 to ₹80. Short steel nails from a hardware shop.",
+   "url": "https://www.amazon.in/s?k=iron+filings+science",
+   "used_in": [
+    "a4"
+   ],
+   "plan": "Get it before Planet in a Jar: why the heavy stuff goes to the middle."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

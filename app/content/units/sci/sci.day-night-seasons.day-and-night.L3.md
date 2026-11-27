@@ -1,7 +1,7 @@
 # Day and night: how the spinning Earth makes them
 `sci.day-night-seasons.day-and-night.L3`
 
-**Summary.** The Sun seems to cross the sky, but it is not really moving. So what makes day and night? In this unit you will show day and night with a ball and a torch, follow a shadow stick, and swing a pendulum to see the Earth turn.
+**Summary.** The Sun seems to cross the sky, but it is not really moving. So what makes day and night? In this lesson you will show day and night with a ball and a torch, follow a shadow stick, and swing a pendulum to see the Earth turn.
 
 **Intro.** *Right now, as you read this, you are moving faster than an aeroplane. You are not in a car or a train. You are sitting still. So how can that be?* In most of India, the ground under your feet is moving at about 1,500 kilometres an hour. A passenger jet flies at about 900. Your house, the trees, the air and you all move together, so you feel nothing. When it is afternoon here, it is night for children in America. The Sun has not gone anywhere. Their side of the Earth is facing away from it. So why can't we feel the Earth spin, and how does the spin give us day and night?
 
@@ -115,7 +115,7 @@ Jupiter is the biggest planet, yet it spins fastest. Its day is only about 10 ho
 ### Midnight Sun and long nights near the poles · *defined*
 **Definition:** Near the North and South Poles, there are weeks when the Sun never sets, and weeks when it never rises.
 
-The Earth's axis is tilted, like a top leaning a little to one side. For part of the year, the North Pole leans towards the Sun. Then places near it stay in sunlight all the way round the spin, for weeks on end. The Sun just circles around the sky, low down, all day and all night. People call this the midnight Sun. Half a year later, the North Pole leans away, and the Sun does not rise for weeks. India has a research station called Himadri, in Svalbard, far up in the Arctic. Indian scientists there work under the midnight Sun in summer. Why the tilt also gives us seasons is the subject of another unit.
+The Earth's axis is tilted, like a top leaning a little to one side. For part of the year, the North Pole leans towards the Sun. Then places near it stay in sunlight all the way round the spin, for weeks on end. The Sun just circles around the sky, low down, all day and all night. People call this the midnight Sun. Half a year later, the North Pole leans away, and the Sun does not rise for weeks. India has a research station called Himadri, in Svalbard, far up in the Arctic. Indian scientists there work under the midnight Sun in summer. Why the tilt also gives us seasons is the subject of another lesson.
 - e.g. In Svalbard, the Sun does not set from about the middle of April to late August.
 - e.g. At India's Antarctic stations, Maitri and Bharati, scientists have long dark weeks in the southern winter.
 ### Twilight, and the Sun you see after it has set · *defined*
@@ -621,7 +621,7 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
 ## Worksheets
 ### Day and Night Detective (core) (core, 16 questions)
 1. (mcq) For thousands of years, most people believed the Sun travels round the Earth each day. What really makes night come?  
-   Options: The Sun goes behind the hills / Our side of the Earth spins round, away from the Sun / The Sun switches off / Clouds cover the Sun  
+   Options: The Sun goes behind the hills / The Sun switches off / Clouds cover the Sun / Our side of the Earth spins round, away from the Sun  
    **Answer:** Our side of the Earth spins round, away from the Sun. *Why:* The Earth spins once in about 24 hours. Each place turns into the sunlight, which is day, then away from it, which is night. The Sun shines all the time. The old idea matched what people saw, which is why it lasted so long.
 2. (fill) The imaginary line that the Earth spins around is called its ____.  
    **Answer:** ['axis']. *Why:* The axis goes through the North Pole and the South Pole. A pencil through an orange is a good model.
@@ -630,15 +630,15 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
 4. (truefalse) At any moment, about half of the Earth has day and half has night.  
    **Answer:** True. *Why:* True. The Sun can only light the half of the Earth that faces it.
 5. (mcq) In which direction does the Sun seem to rise?  
-   Options: North / South / East / West  
+   Options: North / East / South / West  
    **Answer:** East. *Why:* The Earth turns from west to east, so the Sun seems to come up in the east. Picking 'west' swaps sunrise and sunset.
 6. (mcq) Today the Earth spins once in about 24 hours, so Chennai gets about 12 hours of night. If the Earth spun twice as fast, about how long would the night be?  
-   Options: About 6 hours / About 12 hours / About 24 hours / There would be no night  
+   Options: About 12 hours / About 6 hours / About 24 hours / There would be no night  
    **Answer:** About 6 hours. *Why:* Twice as fast means one spin takes 12 hours instead of 24. Chennai would spend about half of that turned away from the Sun, so about 6 hours of night. A strong answer links the length of a night to how fast the Earth spins.
 7. (truefalse) The Sun really moves across the sky every day.  
    **Answer:** False. *Why:* False. The Sun only seems to move. Our Earth turns, and carries us past the Sun, the way trees seem to rush past a moving train.
 8. (mcq) You shine a torch at a ball in a dark room. Which part of the ball is like night?  
-   Options: The side facing the torch / The side facing away from the torch / The whole ball / No part  
+   Options: The side facing the torch / The whole ball / No part / The side facing away from the torch  
    **Answer:** The side facing away from the torch. *Why:* The side facing away from the torch gets no light, like the night side of the Earth. Picking 'the whole ball' forgets that the torch always lights one half.
 9. (sort) Sort these. Does each one mostly happen in the day or at night?  
    **Answer:** an owl hunting mice → Night; a sunbird sipping nectar → Day; bats flying round a street lamp → Night; clothes drying in sunshine → Day; fireflies flashing → Night; your long shadow in the evening sunlight → Day. *Why:* Owls, bats and fireflies are nocturnal, which means active at night. Sunbirds feed in the day. Clothes dry in sunshine, and shadows from the Sun only happen in the day.
@@ -649,7 +649,7 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
 12. (order) Put these in order, starting from early morning: noon, sunrise, night, sunset.  
    **Answer:** ['sunrise', 'noon', 'sunset', 'night']. *Why:* First our place turns into the light at sunrise. It faces the Sun most at noon. It turns away at sunset. Then it is night until the next sunrise.
 13. (mcq) In the morning, the Sun is in the east. Which way does your shadow point?  
-   Options: East, towards the Sun / West, away from the Sun / Straight down / There is no shadow in the morning  
+   Options: West, away from the Sun / East, towards the Sun / Straight down / There is no shadow in the morning  
    **Answer:** West, away from the Sun. *Why:* A shadow always falls on the side away from the light. Picking 'towards the Sun' is a common mix-up. Try it outside tomorrow morning and see.
 14. (write) A younger child says, 'The Sun goes to sleep at night.' What would you tell them? Use the word spin.  
    **Answer:** The Sun does not sleep. It shines all the time. Our Earth spins, so at night our side has turned away from the Sun. Children on the other side of the Earth have day then.. *Why:* A good answer says the Sun keeps shining, and that the Earth's spin turns us away from it.
@@ -659,7 +659,7 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
    **Answer:** North Pole at the top end of the axis, South Pole at the bottom end. The axis is the line through both. The side facing the Sun is the day side. The side away is the night side.. *Why:* These five labels show the whole idea of the unit in one picture.
 ### The Turning World (stretch) (stretch, 15 questions)
 1. (mcq) In June, the Sun rises in Dong, Arunachal Pradesh, at about 4 in the morning by the clock. In Bhuj, Kutch, it rises at about 6. Why?  
-   Options: Dong is higher up in the mountains / Dong is further east, so it turns into the sunlight first / The clocks in Dong are wrong / The Sun is closer to Dong  
+   Options: Dong is further east, so it turns into the sunlight first / Dong is higher up in the mountains / The clocks in Dong are wrong / The Sun is closer to Dong  
    **Answer:** Dong is further east, so it turns into the sunlight first. *Why:* The Earth turns from west to east, so eastern places turn into the sunlight first. Picking 'higher up' sounds sensible, but height makes only a tiny difference. Picking 'closer to Dong' imagines the Sun as a nearby lamp. It is 150 million kilometres away, the same for both.
 2. (truefalse) All of India uses one clock time, even though the Sun rises at different times across the country.  
    **Answer:** True. *Why:* True. India uses Indian Standard Time, set by the Sun near Mirzapur, close to the middle of the country.
@@ -676,7 +676,7 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
 7. (truefalse) Places near the equator move faster as the Earth spins than places near the poles.  
    **Answer:** True. *Why:* True. The equator is the fattest part of the Earth, so it has the longest circle to go round in the same 24 hours.
 8. (perspective) Long ago, two great astronomers disagreed about whether the Earth spins. Suppose you lived then, with no pendulum and no photos from space.  
-   **Answer:** A strong answer works with what people knew then. For Ptolemy: it really does look and feel as if the Earth is still, and nobody could see it move. For Aryabhata: the boat shows that what seems to move is not always what moves. The answer-back uses something from this unit, for example: the air and the birds are already moving with the Earth, like a ball tossed up in a smooth train.. *Why:* Both men had good reasons. Ptolemy trusted what he felt. Aryabhata trusted a clever argument. Proof came much later, with Foucault's pendulum in 1851.
+   **Answer:** A strong answer works with what people knew then. For Ptolemy: it really does look and feel as if the Earth is still, and nobody could see it move. For Aryabhata: the boat shows that what seems to move is not always what moves. The answer-back uses something from this lesson, for example: the air and the birds are already moving with the Earth, like a ball tossed up in a smooth train.. *Why:* Both men had good reasons. Ptolemy trusted what he felt. Aryabhata trusted a clever argument. Proof came much later, with Foucault's pendulum in 1851.
 9. (match) Match each world to its day.  
    **Answer:** Jupiter → about 10 hours; Earth → 24 hours; Mars → a little more than 24 hours; Venus → longer than 100 of our days. *Why:* Every planet spins at its own speed. Jupiter is the fastest. Venus is very slow, and spins backwards.
 10. (mcq) After sunset, the sky stays light for a while. Why?  
@@ -694,30 +694,30 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
    **Answer:** Noon is when your place faces the Sun most directly. On the ball, only one line of places faces the torch straight on at a time. Places to the east have already passed their noon. Places to the west have not reached it. On the far side of the ball, it is midnight.. *Why:* A strong answer finds the mistake and uses the model: noon moves round the Earth as it spins, just like sunrise does.
 ### Puzzles of the Spinning Earth (challenge) (challenge, 16 questions)
 1. (mcq) A star rises above a rooftop at 9:00 tonight. When will it rise above the same rooftop tomorrow?  
-   Options: At 9:00 exactly / At about 8:56 / At about 9:04 / At midnight  
+   Options: At about 8:56 / At 9:00 exactly / At about 9:04 / At midnight  
    **Answer:** At about 8:56. *Why:* One spin measured against the stars takes about 23 hours and 56 minutes. So stars come back 4 minutes earlier each night. Picking '9:00 exactly' assumes a spin is exactly 24 hours. Our 24-hour day is measured by the Sun, not the stars.
 2. (mcq) In Paris, a Foucault pendulum's swing goes all the way round in about 32 hours. In Delhi it takes about 50 hours. At the North Pole, how long would it take?  
-   Options: About 24 hours / About 100 hours / It would never turn / About 1 hour  
+   Options: About 100 hours / It would never turn / About 24 hours / About 1 hour  
    **Answer:** About 24 hours. *Why:* At the North Pole, the floor turns all the way round under the pendulum once a day, so the swing goes round in about 24 hours. Closer to the equator it takes longer. Exactly on the equator, it would not turn at all. Picking 'about 100 hours' gets the pattern backwards: the swing takes less time nearer the Pole, not more.
 3. (truefalse) In summer the Earth spins more slowly, and that is why summer days are longer.  
    **Answer:** False. *Why:* False. The Earth spins at the same speed all year, so a day and a night together always take about 24 hours. In summer, more of those 24 hours are daylight, and the night is shorter. That comes from the tilt of the Earth's axis, not from a slower spin.
 4. (mcq) On the International Space Station, astronauts see about 16 sunrises every 24 hours. Why?  
-   Options: The Sun moves faster in space / The station goes round the Earth about 16 times a day, in and out of the Earth's shadow / Space has no night / They have very short days because they sleep less  
+   Options: The Sun moves faster in space / Space has no night / They have very short days because they sleep less / The station goes round the Earth about 16 times a day, in and out of the Earth's shadow  
    **Answer:** The station goes round the Earth about 16 times a day, in and out of the Earth's shadow. *Why:* The station circles the Earth every 90 minutes or so. Each time round, it passes into the Earth's shadow and out again. Picking 'the Sun moves faster in space' still pictures the Sun as the mover.
 5. (mcq) The Sun you see touching the horizon at sunset is actually already just below it. Why can you still see it?  
-   Options: Your eyes are too slow / The air bends the sunlight a little, lifting the picture of the Sun / The Sun is very big / Mirrors in the sky  
+   Options: Your eyes are too slow / The Sun is very big / The air bends the sunlight a little, lifting the picture of the Sun / Mirrors in the sky  
    **Answer:** The air bends the sunlight a little, lifting the picture of the Sun. *Why:* Air bends light a little, like water bends a straw in a glass. Near the horizon, this lifts the picture of the Sun, so we see the Sun for about 2 extra minutes at sunset. Picking 'eyes too slow' is a clever guess about light taking time, but that is a different effect.
 6. (write) Venus spins very slowly, and the opposite way to the Earth. If you stood on Venus, where would the Sun rise? Use the torch and ball to explain.  
    **Answer:** In the west. On Earth, we turn from west to east, so the Sun comes into view in the east. If I turned the ball the other way in front of the torch, a dot would come into the light from the other side. So on Venus the Sun rises in the west.. *Why:* A strong answer shows that 'the Sun rises in the east' is not a rule of the Sun. It comes from which way the ground turns.
 7. (write) Fossil corals from 400 million years ago show about 400 days in a year. A year is about 8,760 hours long. Roughly how long was each day? Show your thinking.  
    **Answer:** About 22 hours. 8,760 hours shared among 400 days is about 21.9 hours each. With 365 days, it is 24 hours each.. *Why:* The same year split into more days means shorter days. This is how scientists worked out that the Earth used to spin faster.
 8. (mcq) Why is the night sky dark, when there are billions of stars?  
-   Options: The stars switch off at night / The universe had a beginning, so light from the furthest stars has not reached us, and far light is stretched too dim to see / Clouds block them / The Moon hides them  
+   Options: The stars switch off at night / Clouds block them / The Moon hides them / The universe had a beginning, so light from the furthest stars has not reached us, and far light is stretched too dim to see  
    **Answer:** The universe had a beginning, so light from the furthest stars has not reached us, and far light is stretched too dim to see. *Why:* This puzzle troubled scientists for centuries. Edgar Allan Poe, a writer, guessed the first part of the answer in 1848. Picking 'clouds' explains why we sometimes see fewer stars, but not why the sky between the stars is black on a clear night. Stars do not switch off at night either. They shine all the time.
 9. (truefalse) Water in a sink swirls one way in India and the other way in Australia because of the Earth's spin.  
    **Answer:** False. *Why:* False. A sink is far too small for the spin to matter. The sink's shape and the way the water moved decide the swirl. The spin does turn huge storms, like cyclones.
 10. (mcq) Cyclones in the Bay of Bengal spin anticlockwise. Which way do cyclones spin near Australia, south of the equator?  
-   Options: Also anticlockwise / Clockwise / They do not spin / It changes every day  
+   Options: Also anticlockwise / They do not spin / Clockwise / It changes every day  
    **Answer:** Clockwise. *Why:* The Earth's spin turns giant storms one way north of the equator and the other way south of it. Picking 'also anticlockwise' assumes the spin pushes the same way everywhere.
 11. (perspective) Aryabhata said the Earth spins in 499 CE, in India. Copernicus said it in 1543, in Poland. Heraclides of Pontus said it in Greece even earlier. Many school books name only Copernicus. Here are three views about who should get the credit.  
    **Answer:** A strong answer uses dates and what each person did. For the first view: 499 CE is over 1,000 years before 1543. For the second view: Copernicus's book was read across Europe, and led on to Galileo and Foucault. For the third view: Heraclides, Aryabhata and Copernicus each reached the idea, and none of them could prove it alone. The answer-back must use a fact too.. *Why:* There is no single right answer. Being first and changing the world are two different kinds of credit.
@@ -739,48 +739,48 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
 
 ## Quiz
 1. (mcq) Right now it is night in Chennai. What is the Sun doing?  
-   Options: Still shining, on the side of the Earth that faces it / Switched off until morning / Hiding behind the Moon / Resting behind the hills  
+   Options: Switched off until morning / Still shining, on the side of the Earth that faces it / Hiding behind the Moon / Resting behind the hills  
    **Answer:** Still shining, on the side of the Earth that faces it. *Why:* The Sun never stops shining. Chennai has simply turned away from it. On the other side of the Earth, it is daytime.
 2. (mcq) Is it true that at night we are in the Earth's own shadow?  
-   Options: Yes. Night is when our place is on the far side of the Earth, which the Earth itself shades from the Sun / No. Night is the Moon's shadow / No. Night is when clouds cover the Sun / No. Shadows only happen in the day  
+   Options: No. Night is the Moon's shadow / No. Night is when clouds cover the Sun / Yes. Night is when our place is on the far side of the Earth, which the Earth itself shades from the Sun / No. Shadows only happen in the day  
    **Answer:** Yes. Night is when our place is on the far side of the Earth, which the Earth itself shades from the Sun. *Why:* The Earth blocks sunlight from reaching its far side, just as the ball shades its back from the torch. So the night half of the Earth is in the Earth's own shadow. Picking 'the Moon's shadow' gives the Moon a job it does not do.
 3. (mcq) You use a torch and a ball to show 'it is midnight in Chennai'. Where should you put the dot for Chennai?  
    Options: On the side facing the torch / In the middle of the side facing away from the torch / On the edge between the bright and the dark side / Inside the ball  
    **Answer:** In the middle of the side facing away from the torch. *Why:* At midnight, Chennai faces directly away from the Sun, so its dot belongs in the middle of the dark half. Picking the edge between bright and dark would show sunrise or sunset, not midnight.
 4. (mcq) The Earth turns from west to east. Which way does the Sun seem to move across our sky?  
-   Options: From east to west / From west to east / From north to south / It does not seem to move  
+   Options: From west to east / From east to west / From north to south / It does not seem to move  
    **Answer:** From east to west. *Why:* We turn towards the east, so the Sun seems to slide the other way, from east to west. It rises in the east and sets in the west.
 5. (mcq) You watch the Sun from a balcony all day. In the morning it is in the east. In the evening it is in the west. What is really moving?  
    Options: Your balcony, carried round by the spinning Earth / The Sun / Both the Sun and the balcony, at the same speed / Nothing moves  
    **Answer:** Your balcony, carried round by the spinning Earth. *Why:* The Sun stays put. The Earth turns, and carries you and your balcony round with it. That makes the still Sun seem to cross the sky, like still trees seem to move past a train.
 6. (mcq) How long does one spin of the Earth take, from one noon to the next?  
-   Options: About 12 hours / About 24 hours / About 7 days / About 365 days  
+   Options: About 12 hours / About 7 days / About 365 days / About 24 hours  
    **Answer:** About 24 hours. *Why:* One day and one night together take about 24 hours. Picking '12 hours' counts only the daytime. Picking '365 days' mixes up the spin with the trip round the Sun.
 7. (mcq) Look at the clock showing the time the Sun rose in Mumbai on a day in June. What time is it?  
-   Options: 6 o'clock / 12 o'clock / 6:30 / 5:45  
+   Options: 12 o'clock / 6:30 / 6 o'clock / 5:45  
    **Answer:** 6 o'clock. *Why:* The short hand points at 6 and the long hand points at 12. So it is 6 o'clock. Picking '12 o'clock' reads the long hand as the hour hand. The short hand shows the hour.
 8. (mcq) Which sees the sunrise first, Chennai or Mumbai?  
-   Options: Chennai, because it is further east / Mumbai, because it is a bigger city / Both at the same time, because India has one clock  
+   Options: Mumbai, because it is a bigger city / Both at the same time, because India has one clock / Chennai, because it is further east  
    **Answer:** Chennai, because it is further east. *Why:* The Earth turns from west to east, so eastern places turn into the sunlight first. Picking 'the same time' is a common mix-up. India has one clock time, but the Sun does not follow our clock.
 9. (mcq) The Earth spins fast: at the equator, the ground moves about 1,670 kilometres every hour. Why are we not thrown off?  
-   Options: The Earth's pull, called gravity, holds us far more strongly than the spin pushes us out / The air presses us down / We are glued on by our shoes / The spin stops at night  
+   Options: The air presses us down / We are glued on by our shoes / The spin stops at night / The Earth's pull, called gravity, holds us far more strongly than the spin pushes us out  
    **Answer:** The Earth's pull, called gravity, holds us far more strongly than the spin pushes us out. *Why:* Gravity pulls everything towards the middle of the Earth. The spin does push us outwards a tiny bit, but gravity is about 300 times stronger. Picking 'the air presses us down' is a common idea, but air pressure pushes from every side, not only down.
 10. (mcq) In 1851, Léon Foucault hung a long pendulum in Paris. Over many hours, its swing seemed to turn round the floor. What did this show?  
-   Options: The pendulum was broken / The Earth turns under the pendulum / Wind pushed it / The Sun pulled it  
+   Options: The pendulum was broken / Wind pushed it / The Earth turns under the pendulum / The Sun pulled it  
    **Answer:** The Earth turns under the pendulum. *Why:* A pendulum keeps swinging the same way unless something pushes it sideways. So it was the floor, and the Earth, that turned. Picking 'wind' is a sensible doubt. But the swing turned at the same slow, steady rate, in the same direction, hour after hour, which wind would not do.
 11. (mcq) Kanyakumari is in the far south of India. Delhi is in the north. From which city does Dhruva Tara, the Pole Star, look lower in the sky?  
-   Options: Kanyakumari, because the further south you live, the lower it sits / Delhi, because the further north you live, the lower it sits / It looks the same height from both / It cannot be seen from either city  
+   Options: Delhi, because the further north you live, the lower it sits / Kanyakumari, because the further south you live, the lower it sits / It looks the same height from both / It cannot be seen from either city  
    **Answer:** Kanyakumari, because the further south you live, the lower it sits. *Why:* The Pole Star sits above the North Pole. Its height in your sky is about the same as how far north of the equator you live. Kanyakumari is about 8 degrees north, so the star is very low. Delhi is about 28 degrees north, so it is much higher.
 12. (truefalse) Scientists know for certain exactly how fast the Earth spun when it was first formed.  
    **Answer:** False. *Why:* False. Scientists agree the young Earth spun much faster, so days were shorter. But how short the very first days were is still uncertain.
 13. (mcq) Why do we use a model, like a torch and a ball, to understand day and night?  
-   Options: We are tiny and stand on the Earth, so we cannot see it turn from where we are / Because the real Sun is switched off at night / Because the Earth is flat / Because models are always more correct than the real thing  
+   Options: Because the real Sun is switched off at night / Because the Earth is flat / Because models are always more correct than the real thing / We are tiny and stand on the Earth, so we cannot see it turn from where we are  
    **Answer:** We are tiny and stand on the Earth, so we cannot see it turn from where we are. *Why:* From the ground, it looks as if the Sun moves and the Earth stands still. A model lets us look from outside, the way an astronaut would, and see the turning. Picking 'models are always more correct' goes too far: a model is only useful if it matches what we see.
 14. (mcq) A woman flies from Chennai to New York, on the other side of the world. For a few days she feels sleepy at lunchtime and wide awake at night. Why?  
-   Options: Her body clock is still on Chennai time / The air on the plane made her tired / New York has no proper night / She ate too much  
+   Options: The air on the plane made her tired / Her body clock is still on Chennai time / New York has no proper night / She ate too much  
    **Answer:** Her body clock is still on Chennai time. *Why:* Lunchtime in New York is night-time in Chennai. Her body clock keeps home time until a few days of New York daylight reset it. This is called jet lag.
 15. (mcq) A touch-me-not plant was kept in a dark cupboard. The plant's leaves still opened and closed each day. What does this show?  
-   Options: The plant has their own body clock / Light got into the cupboard / Plants do not need light / The plant was broken  
+   Options: Light got into the cupboard / The plant has their own body clock / Plants do not need light / The plant was broken  
    **Answer:** The plant has their own body clock. *Why:* The plant kept their daily rhythm with no sunlight, so the timer must be inside them. Jean-Jacques d'Ortous de Mairan found this in 1729. Picking 'light got in' is a good scientist's doubt, and later tests ruled it out.
 
 ## Applications
@@ -800,11 +800,11 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
 ## Spotted around us
 - The sunrise and sunset times printed in the newspaper's weather box.
 - Long shadows in the morning and evening, and tiny ones at noon, on any street.
-- The Samrat Yantra at Jantar Mantar in Jaipur, a sundial as tall as a nine-storey building.
-- Zero Shadow Day, when the noon Sun is straight overhead. In Bengaluru it comes in late April and mid-August.
+- A big stone sundial in a park, as tall as a tall building, or any sundial you can find.
+- Your own shadow at noon in late April or mid-August. On Zero Shadow Day, the Sun is straight overhead and shadows nearly vanish.
 - Roosters crowing before dawn, and koels calling at first light.
 - Owls and fruit bats setting out at dusk, and flowers like night jasmine giving out their scent at night.
-- Sunrise watchers at Kanyakumari, where you can see the Sun rise from the sea and set into the sea.
+- The Sun rising out of the sea, or setting into it, if you live near the coast.
 - Street lamps switching on at dusk, many of them by a light sensor.
 
 ## Open questions
@@ -854,17 +854,22 @@ Turning Into the Light (sci.day-night-seasons.L3): One song for the whole topic 
 - [Stellarium Web](https://stellarium-web.org/) · simulation: A free planetarium in your browser. Speed up time and watch the stars wheel round the Pole Star, or the Sun cross the sky.
 - [NASA Space Place](https://spaceplace.nasa.gov/) · interactive: Free games and explainers about the Sun, the Earth and the planets, from NASA.
 - [Motions of the Sun simulator, University of Nebraska-Lincoln](https://astro.unl.edu/naap/motion3/animations/sunmotions.html) · simulation: Shows the Sun's path across the sky from any place on Earth, at any time of day or year. Best with a parent.
-- [Jantar Mantar, Jaipur]() · place · Jaipur: Giant stone instruments built by Maharaja Sawai Jai Singh II, finished in 1734. The Samrat Yantra sundial tells the time to within about 2 seconds.
-- [Jantar Mantar, New Delhi]() · place · New Delhi: An older, smaller set of Jai Singh's stone instruments, in the middle of the city at Connaught Place.
+- Jantar Mantar, Jaipur · place · Jaipur: Giant stone instruments built by Maharaja Sawai Jai Singh II, finished in 1734. The Samrat Yantra sundial tells the time to within about 2 seconds.
+- Jantar Mantar, New Delhi · place · New Delhi: An older, smaller set of Jai Singh's stone instruments, in the middle of the city at Connaught Place.
 - [Nehru Planetarium](https://nehruplanetarium.org/) · place · New Delhi: Sky shows about the Sun, the Earth's spin and the stars.
-- [M.P. Birla Planetarium]() · place · Kolkata: One of the oldest and largest planetariums in Asia, with shows about the night sky.
-- [Jawaharlal Nehru Planetarium]() · place · Bengaluru: Sky shows, and events on Zero Shadow Day each year.
+- M.P. Birla Planetarium · place · Kolkata: One of the oldest and largest planetariums in Asia, with shows about the night sky.
+- Jawaharlal Nehru Planetarium · place · Bengaluru: Sky shows, and events on Zero Shadow Day each year.
 - [Kodaikanal Solar Observatory, Indian Institute of Astrophysics](https://www.iiap.res.in) · place · Kodaikanal: An observatory that has photographed the Sun almost every day for more than a hundred years. It has a small museum for visitors.
 
 ## Things to buy
 - [A small spinning globe](https://www.amazon.in/s?k=world+globe+for+kids) (tool): Optional. A globe already has an axis and real places on it, so the torch and ball experiment shows exactly which cities see the Sun first. An orange works too. Used in e1, a4. 
 - [What Makes Day and Night, by Franklyn M. Branley (Let's-Read-and-Find-Out Science)](https://www.amazon.in/s?k=What+Makes+Day+and+Night+Franklyn+Branley) (book): A clear picture book that explains the spinning Earth with a lamp and a ball, for ages 4 to 8. Read it after the torch and ball experiment. Used in e1. 
 - [The Sun Is Kind of a Big Deal, by Nick Seluk](https://www.amazon.in/s?k=The+Sun+Is+Kind+of+a+Big+Deal+Nick+Seluk) (book): A funny, comic-style book about the Sun and the planets, for ages 5 to 9. Read it before the game Who Sees the Sun First? Used in g1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Shadow Stick: does the Sun really move across the sky?. About ₹10 to ₹30. Any school ruler is fine. Used in e2. Get it before The Shadow Stick: does the Sun really move across the sky?.
+- [Small torch bulbs or LEDs with a holder](https://www.amazon.in/s?k=torch+bulb+holder+set) (tool): Used in Day and Night You Can Feel. About ₹10 to ₹50. A small torch can be taken apart for its bulb. Used in c2. Get it before Day and Night You Can Feel.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in The Shadow Stick: does the Sun really move across the sky?, Build a Sundial and Find Your Own Noon. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in e2, p1. Get it before The Shadow Stick: does the Sun really move across the sky?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Build a Sundial and Find Your Own Noon. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in p1. Get it before Build a Sundial and Find Your Own Noon.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Day and night happen because the Earth ____. → spins

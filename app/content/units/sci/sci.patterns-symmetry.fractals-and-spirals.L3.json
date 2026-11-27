@@ -442,11 +442,11 @@
       "t": "mcq",
       "q": "Which card is the partner of the whole cauliflower?",
       "options": [
-       "One floret",
        "A pineapple",
-       "A coconut"
+       "A coconut",
+       "One floret"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A floret is a small part of the cauliflower that looks like the whole. That is what makes the cauliflower a fractal."
      }
     },
@@ -1499,11 +1499,11 @@
       "t": "mcq",
       "q": "Which turn packed the beans with the fewest big gaps?",
       "options": [
-       "23 minutes",
        "15 minutes, a quarter circle",
-       "30 minutes, a half circle"
+       "30 minutes, a half circle",
+       "23 minutes"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A quarter or a half turn lines the beans up in spokes with empty gaps between. A turn of 23 minutes, close to the golden angle, puts each bean into a gap, so the beans spread out more evenly."
      }
     }
@@ -1604,12 +1604,12 @@
    "t": "mcq",
    "p": "Why does a tree have branches that split into smaller branches?",
    "opts": [
-    "To hold leaves out in every direction to catch sunlight",
     "To look nice for people",
     "Because the wind breaks them",
+    "To hold leaves out in every direction to catch sunlight",
     "To stop birds sitting on it"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A tree needs sunlight on as many leaves as possible. Branching spreads leaves through the space around the tree.",
    "outcome": 2
   },
@@ -1644,12 +1644,12 @@
    "t": "mcq",
    "p": "In a sunflower, where does each new seed grow?",
    "opts": [
-    "In the biggest gap left by the seeds before it",
     "On top of the last seed",
     "Always at the outside edge",
-    "Anywhere at random"
+    "Anywhere at random",
+    "In the biggest gap left by the seeds before it"
    ],
-   "a": 0,
+   "a": 3,
    "why": "New seeds start at the centre, each in the biggest gap, about 137 and a half degrees round from the last. This packs them with no big gaps.",
    "outcome": 3
   },
@@ -1670,12 +1670,12 @@
    "t": "mcq",
    "p": "Which part of a snail's shell is the oldest?",
    "opts": [
-    "The tiny curl at the centre",
     "The wide edge at the opening",
     "All parts are the same age",
-    "The bottom"
+    "The bottom",
+    "The tiny curl at the centre"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The shell grows at the opening, so the curl at the centre was made first, when the snail was a baby.",
    "outcome": 4
   },
@@ -1683,12 +1683,12 @@
    "t": "mcq",
    "p": "Why do the six corners of a snowflake grow into long arms?",
    "opts": [
-    "They stick out into the moist air, so water freezes on them fastest",
     "The wind blows them into shape",
     "They are heavier",
+    "They stick out into the moist air, so water freezes on them fastest",
     "A cloud cuts them into shape"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The parts that stick out furthest meet the most water vapour, so they grow fastest. Bumps on the arms grow into side branches the same way.",
    "outcome": 5
   },
@@ -1696,12 +1696,12 @@
    "t": "mcq",
    "p": "Paint pulled apart between two sheets leaves a pattern like a tree. Who drew the branches?",
    "opts": [
-    "Nobody: air pushed in and the fingers that got ahead grew fastest",
     "The person pulling",
     "The sheets",
-    "The paint was already in branches"
+    "The paint was already in branches",
+    "Nobody: air pushed in and the fingers that got ahead grew fastest"
    ],
-   "a": 0,
+   "a": 3,
    "how": "a3",
    "why": "Air fingers that get a little ahead grow faster and split, leaving branches of paint. The pattern grows by itself.",
    "outcome": 5
@@ -1813,12 +1813,12 @@
      "t": "mcq",
      "p": "Why do your lungs have so many tiny branching airways?",
      "opts": [
-      "To make a huge surface for oxygen to pass into the blood",
       "To make your chest look bigger",
+      "To make a huge surface for oxygen to pass into the blood",
       "To keep food out",
       "Because they are broken"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Oxygen passes into the blood through a thin, wet surface. Branching packs a very large surface into your chest."
     },
     {
@@ -1906,12 +1906,12 @@
      "t": "mcq",
      "p": "Why do you mark one scale before counting the spiral rows on a pineapple?",
      "opts": [
-      "So you know when you are back at the start and do not count a row twice",
       "So the pineapple ripens faster",
+      "So you know when you are back at the start and do not count a row twice",
       "So the scales stay clean",
       "So you can eat that scale first"
      ],
-     "a": 0,
+     "a": 1,
      "how": "e2",
      "why": "The rows wind all the way round. Without a mark you cannot tell where you started, and you may count a row twice."
     }
@@ -1927,12 +1927,12 @@
      "t": "mcq",
      "p": "Measure the Kerala coast and the Gujarat coast on a map, first with a long strip, then with a short one. Which coast's length grows more?",
      "opts": [
-      "Gujarat, because it has more bends",
       "Kerala, because it is in the south",
       "Both grow by exactly the same",
+      "Gujarat, because it has more bends",
       "Neither grows at all"
      ],
-     "a": 0,
+     "a": 2,
      "how": "e1",
      "why": "Gujarat has big gulfs and bays for the short strip to go into. Kerala's coast is fairly smooth, so there is little extra to follow."
     },
@@ -1962,12 +1962,12 @@
      "t": "mcq",
      "p": "Place beans on a paper clock, each one 15 minutes round from the last and a little further out. What will you see?",
      "opts": [
-      "Four straight spokes with gaps between",
       "Even spirals that fill the circle",
       "One straight line",
-      "A square"
+      "A square",
+      "Four straight spokes with gaps between"
      ],
-     "a": 0,
+     "a": 3,
      "how": "c2",
      "why": "15 minutes is a quarter circle, so every fourth bean lands on the same spoke. A turn of about 23 minutes, close to the golden angle, fills the circle instead."
     },
@@ -1996,12 +1996,12 @@
      "t": "mcq",
      "p": "Why does a snowflake grow six long arms?",
      "opts": [
-      "Its six corners stick out into the moist air and grow fastest",
       "Someone shapes it in the cloud",
       "It is cut by the wind",
-      "It melts into arms"
+      "It melts into arms",
+      "Its six corners stick out into the moist air and grow fastest"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Water vapour freezes onto the parts that stick out furthest. So the corners grow into arms, and bumps on the arms grow into side branches."
     },
     {
@@ -2158,12 +2158,12 @@
      "t": "mcq",
      "p": "On the paper clock, you turn your beans by 22 minutes each time, instead of 23. What will you most likely see?",
      "opts": [
-      "The beans start to line up into spokes again",
       "Exactly the same even spirals",
+      "The beans start to line up into spokes again",
       "All the beans in one place",
       "A perfect square"
      ],
-     "a": 0,
+     "a": 1,
      "how": "c2",
      "why": "The golden angle is about 23 minutes. Turns a little away from it slowly line the beans up into spokes, with gaps. This is why the exact angle matters to the plant."
     },
@@ -2178,12 +2178,12 @@
      "t": "mcq",
      "p": "Mandelbrot wrote that 'clouds are not spheres, mountains are not cones'. What did he mean?",
      "opts": [
-      "Rough natural shapes are better described by fractals than by smooth shapes",
       "Clouds and mountains are not real",
+      "Rough natural shapes are better described by fractals than by smooth shapes",
       "Clouds are square",
       "Mountains are getting smaller"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Spheres and cones are smooth. Clouds and mountains have bumps on bumps at many sizes, which fractals describe well."
     },
     {
@@ -2554,6 +2554,69 @@
     "a2",
     "p1"
    ]
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in How Long Is the Coast? Long steps or short steps, Draw a Fractal Tree and a Triangle of Triangles, The Longest Coast in a Small Box. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "a4",
+    "c1",
+    "c2"
+   ],
+   "plan": "Get it before How Long Is the Coast? Long steps or short steps."
+  },
+  {
+   "id": "b-paper-masking-tape",
+   "item": "Paper masking tape",
+   "kind": "material",
+   "why": "Used in Count the Pineapple Spirals. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor.",
+   "url": "https://www.amazon.in/s?k=paper+masking+tape",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before Count the Pineapple Spirals."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in Draw a Fractal Tree and a Triangle of Triangles, Be a Sunflower: which turn packs the seeds best?. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "a4",
+    "c2"
+   ],
+   "plan": "Get it before Draw a Fractal Tree and a Triangle of Triangles."
+  },
+  {
+   "id": "b-graph-paper",
+   "item": "Graph paper",
+   "kind": "material",
+   "why": "Used in Grow a Shell Spiral on Squared Paper. About ₹10 to ₹30. Draw squares on plain paper.",
+   "url": "https://www.amazon.in/s?k=graph+paper+notebook",
+   "used_in": [
+    "a5"
+   ],
+   "plan": "Get it before Grow a Shell Spiral on Squared Paper."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

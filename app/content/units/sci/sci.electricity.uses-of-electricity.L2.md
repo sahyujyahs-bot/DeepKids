@@ -1,9 +1,9 @@
 # Where we use electricity: from the wall and from cells
 `sci.electricity.uses-of-electricity.L2`
 
-**Summary.** In a power cut the fan and fridge stop, but the torch and a wall clock keep going. Why? In this unit you will listen to what goes quiet when a switch is off, test old cells to see if a clock still runs on them, and follow the wire from your fan back to the power station.
+**Summary.** In a power cut the fan and fridge stop, but the torch and a wall clock keep going. Why? In this lesson you will listen to what goes quiet when a switch is off, test old cells to see if a clock still runs on them, and follow the wire from your fan back to the power station.
 
-**Intro.** *The power goes off on a hot evening. What stops working? What keeps going?* Most children name the fan, the lights and the TV. But the torch still shines, and the wall clock still ticks. Why do some things stop and others keep going? The things that stop get electricity from the wall. The things that keep going carry their own small store of electricity, called a cell. In this unit you find out where wall electricity comes from, and you test how long a cell lasts.
+**Intro.** *The power goes off on a hot evening. What stops working? What keeps going?* Most children name the fan, the lights and the TV. But the torch still shines, and the wall clock still ticks. Why do some things stop and others keep going? The things that stop get electricity from the wall. The things that keep going carry their own small store of electricity, called a cell. In this lesson you find out where wall electricity comes from, and you test how long a cell lasts.
 
 ## Learning outcomes
 0. By the end I can name things at home that use electricity to make light, sound, heat, cold and movement.
@@ -390,7 +390,7 @@ Anju drew a little plug at the top of her first list, and a little cell at the t
 2. (match) Draw a line from each appliance to the job electricity does in it.  
    **Answer:** Bulb → Light; Doorbell → Sound; Iron → Heat; Fridge → Cold; Ceiling fan → Movement. *Why:* Appliances change electricity into light, sound, heat, cold or movement. A strong answer can say what each one does for us.
 3. (mcq) There is a power cut. Which of these keeps working?  
-   Options: The wall clock with a cell / The ceiling fan / The fridge  
+   Options: The ceiling fan / The fridge / The wall clock with a cell  
    **Answer:** The wall clock with a cell. *Why:* The clock carries its own cell, so it does not need the wall. The fan and the fridge get mains electricity, which stops in a power cut.
 4. (draw) Draw one appliance in your home that makes movement. Draw an arrow to show what moves.  
    **Answer:** Any appliance that moves, such as a fan with arrows round the blades or a mixie with an arrow round the blade.. *Why:* A strong drawing shows the part that moves, so it is clear that electricity makes movement.
@@ -411,7 +411,7 @@ Anju drew a little plug at the top of her first list, and a little cell at the t
    Options: Geyser / Wrist watch / Iron / Water pump  
    **Answer:** 1. *Why:* A wrist watch has a tiny button cell inside. A geyser, an iron and a water pump use mains electricity from the wall.
 2. (mcq) In the Tired Cell Test, a cell cannot light the torch but runs the clock. Why?  
-   Options: The clock needs much less electricity than the torch / The clock makes its own electricity / The torch was broken  
+   Options: The clock makes its own electricity / The torch was broken / The clock needs much less electricity than the torch  
    **Answer:** The clock needs much less electricity than the torch. *Why:* A torch needs a lot of electricity every second. A clock needs only a tiny amount. A weak cell still has enough for the clock. We checked the torch with a new cell, so it was not broken.
 3. (write) Your phone's battery number dropped 3 points while it played a video with the torch on. While it rested, it dropped 0 points. Say what this shows.  
    **Answer:** Playing a video and shining the torch use more electricity than resting. So the battery empties faster when the phone does more jobs.. *Why:* A strong answer compares the two drops and says which job used more of the battery's store.
@@ -460,34 +460,34 @@ Anju drew a little plug at the top of her first list, and a little cell at the t
 
 ## Quiz
 1. (mcq) What job does electricity do in a tube light?  
-   Options: Makes light / Makes cold / Makes movement  
+   Options: Makes cold / Makes light / Makes movement  
    **Answer:** Makes light. *Why:* A tube light changes electricity into light. If you chose cold or movement, look at what the tube light does when it is on.
 2. (mcq) What job does electricity do in a geyser?  
    Options: Makes heat / Makes sound / Makes light  
    **Answer:** Makes heat. *Why:* A geyser heats water for a bath. Its small light only shows that it is on.
 3. (mcq) Where does mains electricity come from?  
-   Options: A power station, along wires / The switch on the wall / The fan itself  
+   Options: The switch on the wall / A power station, along wires / The fan itself  
    **Answer:** A power station, along wires. *Why:* Mains electricity is made in a power station. A switch only lets it through. Choosing the switch is a common idea, but in a power cut the switch does nothing.
 4. (mcq) Which of these can a power station use to make electricity?  
    Options: Falling water at a dam / Moonlight / Rain clouds  
    **Answer:** Falling water at a dam. *Why:* A dam's falling water spins machines that make electricity. Moonlight is far too weak, and clouds are not used.
 5. (mcq) In a power cut, which one stops working?  
-   Options: The fridge / The torch / The wall clock  
+   Options: The torch / The fridge / The wall clock  
    **Answer:** The fridge. *Why:* The fridge uses mains electricity from the wall. The torch and the clock carry their own cells.
 6. (mcq) A phone works in a power cut. Why?  
-   Options: Its battery was charged from the wall earlier / Phones never need electricity / The power cut does not reach phones  
+   Options: Phones never need electricity / The power cut does not reach phones / Its battery was charged from the wall earlier  
    **Answer:** Its battery was charged from the wall earlier. *Why:* A phone has a rechargeable battery. It stores electricity from the wall and uses it later.
 7. (mcq) In the Tired Cell Test, an old cell does not light the torch. What should you try next?  
-   Options: Put it in the clock to see if it ticks / Open the cell to look inside / Throw it in the dustbin  
+   Options: Open the cell to look inside / Throw it in the dustbin / Put it in the clock to see if it ticks  
    **Answer:** Put it in the clock to see if it ticks. *Why:* A clock needs very little electricity, so it shows whether the cell still has some. Never open a cell. Used cells go to e-waste, not the dustbin.
 8. (mcq) Why can a weak cell still run a clock but not a torch?  
    Options: A clock needs much less electricity / A clock is bigger than a torch / A clock has its own power station  
    **Answer:** A clock needs much less electricity. *Why:* A torch needs a lot of electricity every second. A clock needs only a tiny amount, so a weak cell is still enough.
 9. (mcq) Which rule keeps you safe with mains electricity?  
-   Options: Never touch a plug or socket with wet hands / Push a pencil into a socket to check it / Pull a plug out by its wire  
+   Options: Push a pencil into a socket to check it / Pull a plug out by its wire / Never touch a plug or socket with wet hands  
    **Answer:** Never touch a plug or socket with wet hands. *Why:* Water lets mains electricity reach your body and give a shock. Never push anything into a socket. A grown-up pulls a plug out by holding the plug itself.
 10. (mcq) A little child finds a button cell on the floor. What should you do?  
-   Options: Give it to a grown-up at once / Let the child hold it, because cells are safe / Put it in a toy for the child  
+   Options: Let the child hold it, because cells are safe / Give it to a grown-up at once / Put it in a toy for the child  
    **Answer:** Give it to a grown-up at once. *Why:* A swallowed button cell can badly burn a small child's insides within two hours. Give it to a grown-up at once.
 
 ## Applications
@@ -497,10 +497,10 @@ Anju drew a little plug at the top of her first list, and a little cell at the t
 - A. Lalitha, from Chennai, became India's first woman electrical engineer in 1943. Engineers like her design the machines and wires that bring mains electricity to homes.
 
 ## Spotted around us
-- Near Kanyakumari in Tamil Nadu, hundreds of tall windmills turn in the wind and make electricity.
-- At the Idukki dam in Kerala, water falling from the reservoir makes electricity for homes across the state.
-- At the Barefoot College in Tilonia, Rajasthan, grandmothers from villages around the world learn to build and fix solar lamps for their own villages.
-- On a city street in Hyderabad or Pune, thick black wires run from poles into every building.
+- Tall windmills turning in the wind and making electricity.
+- A dam, where water falling from the reservoir makes electricity for homes.
+- Solar lamps shining at night in a village home, or a solar panel on a roof.
+- On a city street, thick black wires run from poles into every building.
 - On rooftops in many cities and villages, families put up blue solar panels to make their own electricity.
 
 ## Open questions
@@ -538,10 +538,15 @@ Plug or Cell (sci.electricity.L2): Topic-level song for Electricity L2
 ## Links
 - [PhET Energy Forms and Changes](https://phet.colorado.edu/en/simulations/energy-forms-and-changes) · simulation: A free online game from the University of Colorado. Send energy from the Sun, water or a person on a bicycle to a light bulb. Best played with a grown-up.
 - [StoryWeaver, free picture books from Pratham Books](https://storyweaver.org.in/) · interactive: For the parent: free picture books in many Indian languages. Search for books about electricity, power cuts and the Sun.
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: A science museum with hands-on galleries about machines and electricity.
-- [Birla Industrial and Technological Museum]() · place · Kolkata: A science museum with exhibits about electricity and how it is made.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru: A science museum with hands-on galleries about machines and electricity.
+- Birla Industrial and Technological Museum · place · Kolkata: A science museum with exhibits about electricity and how it is made.
 
 ## Things to buy
+- [AA batteries or torch cells (a few)](https://www.amazon.in/s?k=AA+battery+pack) (material): Used in The Phone Battery Race: which job uses up the battery faster?. About ₹10 to ₹30 each. A used torch cell still works for many circuits. Used in e2. Get it before The Phone Battery Race: which job uses up the battery faster?.
+- [Insulated wire or crocodile clips](https://www.amazon.in/s?k=crocodile+clip+wire+set) (tool): Used in Follow the Wire: from your fan back to the power station. About ₹20 to ₹80. Thin insulated wire from an old charger works. Used in a2. Get it before Follow the Wire: from your fan back to the power station.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in The Tired Cell Test: can a cell that fails the torch still run a clock?. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in e1. Get it before The Tired Cell Test: can a cell that fails the torch still run a clock?.
+- [Butter paper or tracing paper](https://www.amazon.in/s?k=butter+paper+roll) (material): Used in Light the Dinner Table in a Power Cut. About ₹30 to ₹80 for a roll. Thin clean plastic bag or a sheet of waxed paper. Used in c1. Get it before Light the Dinner Table in a Power Cut.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name one appliance that makes light. → A bulb, a tube light, a torch or a TV.
@@ -558,7 +563,7 @@ Plug or Cell (sci.electricity.L2): Topic-level song for Electricity L2
 
 ## Sources
 - ideas/by_topic/electricity-and-staying-safe-with-it.md, Electricity: 'count how many devices need electricity daily' became the listening activity (a1), 'observe city lights at night' and 'watch a documentary on how the grid works' became Follow the Wire (a2), 'drama of a city losing power' became the story and the Power Cut card game (g1). Safety: 'inspect household plugs', with the mains and cell safety rules.
-- combined/sci-C2-electricity-and-staying-safe-with-it.json, Day 1 and Day 2: the power-cut warm-up, the five jobs of electricity and the 'before electricity' questions (a3) were adapted. The electricity hunt sorted into wall and cell is in Level 3 (Simple circuits), so this unit uses listening, the Tired Cell Test and the phone battery test instead.
+- combined/sci-C2-electricity-and-staying-safe-with-it.json, Day 1 and Day 2: the power-cut warm-up, the five jobs of electricity and the 'before electricity' questions (a3) were adapted. The electricity hunt sorted into wall and cell is in Level 3 (Simple circuits), so this lesson uses listening, the Tired Cell Test and the phone battery test instead.
 - Cambridge Primary Science Stage 2, Unit 6.1 'Where do we use electricity?': light, sound, heat, cold and movement, mains electricity and cells.
 - Jane Marcet, Conversations on Chemistry (1806). Faraday credited this book with first teaching him chemistry while he was a bookbinder's apprentice (Science History Institute, 'Jane Marcet'; Whipple Library, Cambridge). The year he read it is given differently in different accounts.
 - Duracell and Energizer guidance, and many battery tests: cells too weak for high-drain devices such as torches can still run low-drain devices such as clocks and remotes.

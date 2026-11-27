@@ -773,11 +773,11 @@
       "t": "mcq",
       "q": "In the game, nobody's bracelet was quite the same. What does that show about the real water cycle?",
       "options": [
-       "Every drop takes its own path, but they all keep going round",
        "Water always goes sea, cloud, river, sea in the same order",
+       "Every drop takes its own path, but they all keep going round",
        "Some water stops for ever"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Real drops do not follow one neat circle. A drop may go sea, cloud, sea, or river, ground, plant, cloud. But they all keep moving round. Picking 'the same order' usually comes from the neat circle drawn in books."
      }
     },
@@ -937,10 +937,10 @@
      "p": "A wet handprint on a sunny tile disappears. Where did the water go?",
      "opts": [
       "Into the tile",
-      "It was used up and is gone",
-      "Into the air, as invisible water vapour"
+      "Into the air, as invisible water vapour",
+      "It was used up and is gone"
      ],
-     "a": 2,
+     "a": 1,
      "why": "The water evaporated into the air. A glazed tile has almost no holes, so it did not soak in. 'Used up' is the most common first guess, but water is never used up. It only changes form and moves.",
      "context": "This question is about The Vanishing Handprint, where you pressed a wet hand on a sunny tile and watched the print fade.",
      "how": "a1"
@@ -961,10 +961,10 @@
      "p": "You fill a steel tumbler with ice and red, salty water. Soon drops form on the outside. Guess first: how will those drops look and taste?",
      "opts": [
       "Red and salty, because they leaked through the steel",
-      "Clear and not salty, because they came from the air",
-      "Red but not salty"
+      "Red but not salty",
+      "Clear and not salty, because they came from the air"
      ],
-     "a": 1,
+     "a": 2,
      "why": "The drops are clear and not salty, so they did not come from inside. They came from water vapour in the air, which condensed on the cold steel. Steel has no holes for water to leak through.",
      "context": "This question is about The Cold Tumbler, where you filled a steel tumbler with ice and coloured, salty water.",
      "how": "e4"
@@ -1063,11 +1063,11 @@
      "t": "mcq",
      "p": "On a cool morning, the seat of a scooter parked outside is wet, but it did not rain. Where did the water come from?",
      "opts": [
-      "Water vapour in the air condensed on the cold seat in the night",
       "The seat leaked water from inside",
+      "Water vapour in the air condensed on the cold seat in the night",
       "Someone must have splashed it"
      ],
-     "a": 0,
+     "a": 1,
      "why": "At night the seat cools down. Vapour in the air touches it and condenses into drops. We call these drops dew. It is the same thing that happens on the cold tumbler."
     },
     {
@@ -1120,11 +1120,11 @@
      "p": "Look at the chart from the Evaporation Race. Which place made the water evaporate fastest?",
      "opts": [
       "The glass in the shade",
+      "The sun",
       "The shade",
-      "The fan in the shade",
-      "The sun"
+      "The fan in the shade"
      ],
-     "a": 3,
+     "a": 1,
      "why": "The sun's bar is the shortest, at 40 minutes. On this chart a short bar means the water was gone quickly. Picking the glass usually means reading the tallest bar as the winner. Here, the tallest bar took the longest.",
      "context": "This question is about the Evaporation Race. You put 2 teaspoons of water in four places and timed how long each took to dry.",
      "chart": {
@@ -1162,10 +1162,10 @@
      "p": "In the Evaporation Race, a plate and a narrow glass in the shade each had 2 teaspoons of water. Why did the glass take much longer to dry?",
      "opts": [
       "Glass is colder than steel",
-      "Less of the water was at the top, open to the air",
-      "The glass had more water in it"
+      "The glass had more water in it",
+      "Less of the water was at the top, open to the air"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Water evaporates from its top surface. A wide plate spreads the water out, so much more of it touches the air. Picking 'more water' misses the fair test: both had exactly 2 teaspoons.",
      "context": "This question is about the Evaporation Race. You put 2 teaspoons of water in four places and timed how long each took to dry.",
      "how": "e5"
@@ -1174,11 +1174,11 @@
      "t": "mcq",
      "p": "Many people call the white puff from a pressure cooker whistle 'steam'. What is the white puff really?",
      "opts": [
-      "Tiny drops of water, like a little cloud",
       "Invisible water vapour",
-      "Smoke from the rice"
+      "Smoke from the rice",
+      "Tiny drops of water, like a little cloud"
      ],
-     "a": 0,
+     "a": 2,
      "why": "True steam, water vapour, is invisible. Look closely: there is a clear gap right at the whistle. As the vapour meets cooler air, it condenses into tiny drops, and the drops are the white puff you see."
     },
     {
@@ -1186,10 +1186,10 @@
      "p": "In A Cloud in a Jar, the cloud was much thicker when you added a little smoke from an agarbatti. Why?",
      "opts": [
       "Smoke is made of water",
-      "The smoke made the jar warmer",
-      "The vapour condensed onto the tiny smoke specks"
+      "The vapour condensed onto the tiny smoke specks",
+      "The smoke made the jar warmer"
      ],
-     "a": 2,
+     "a": 1,
      "why": "Vapour needs a speck to make a drop. More specks means more drops, and a thicker cloud. Real clouds form on specks of dust, sea salt and smoke. Picking 'smoke is water' mixes up the speck with the drop.",
      "context": "This question is about A Cloud in a Jar. You made a cloud with warm water and an icy plate, with and without a little smoke.",
      "how": "e2"
@@ -1240,11 +1240,11 @@
      "t": "mcq",
      "p": "In Leaves in a Bag, why did we tie an empty bag next to the bag over the leaves?",
      "opts": [
-      "To catch more water",
       "To check that the water came from the leaves, not from the air",
+      "To catch more water",
       "In case one bag broke"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The empty bag is the control. It stayed dry, so the water in the other bag must have come from the leaves. Without it, you could not be sure.",
      "context": "This question is about Leaves in a Bag, where you tied a clear bag over a leafy branch and an empty bag beside it.",
      "how": "e3"
@@ -1388,10 +1388,10 @@
      "p": "Long ago, many people believed rivers were fed by sea water flowing under the mountains. In the 1670s, Pierre Perrault measured the rain around the river Seine in France. The rain was about six times what the river carried. What did his numbers show?",
      "opts": [
       "Rivers really are fed by the sea underground",
-      "Rain is more than enough to feed the river",
-      "Most rain falls into the sea"
+      "Most rain falls into the sea",
+      "Rain is more than enough to feed the river"
      ],
-     "a": 1,
+     "a": 2,
      "why": "If the rain is six times what the river carries, the river needs no secret sea water. The rest of the rain soaks in, evaporates or is used by plants. Perrault's numbers overturned a belief that was about two thousand years old."
     },
     {
@@ -1426,11 +1426,11 @@
      "t": "mcq",
      "p": "Warm air can hold more water vapour than cool air. What does this mean for heavy rain as the world gets warmer?",
      "opts": [
+      "Downpours can get heavier",
       "It will stop raining",
-      "Nothing changes",
-      "Downpours can get heavier"
+      "Nothing changes"
      ],
-     "a": 2,
+     "a": 0,
      "why": "More vapour in the air means more water to fall when it rains. Studies of central India since 1950 found that days of very heavy rain had become about three times more common. 'It will stop raining' gets it backwards."
     },
     {
@@ -1438,10 +1438,10 @@
      "p": "A drop of water stays in the air for about 9 days, but in the deep sea for about 3,000 years. Why is there such a big difference?",
      "opts": [
       "Sea water is heavier",
-      "The air holds very little water and rains it out fast. The sea holds a huge amount and loses it slowly.",
-      "The Sun does not shine on the deep sea"
+      "The Sun does not shine on the deep sea",
+      "The air holds very little water and rains it out fast. The sea holds a huge amount and loses it slowly."
      ],
-     "a": 1,
+     "a": 2,
      "why": "How long a drop stays depends on how much water a place holds and how fast water leaves it. The air holds very little and lets it go quickly. The sea holds a lot, and loses water only from its top."
     },
     {
@@ -1484,11 +1484,11 @@
      "t": "mcq",
      "p": "Rain often falls out of warm monsoon clouds faster than scientists' older ideas can explain. What is one new idea being studied?",
      "opts": [
+      "Swirling, bumpy air inside the cloud throws drops together more often",
       "The drops are pulled down by the Moon",
-      "Lightning glues the drops together",
-      "Swirling, bumpy air inside the cloud throws drops together more often"
+      "Lightning glues the drops together"
      ],
-     "a": 2,
+     "a": 0,
      "why": "Scientists think turbulence, swirling air inside clouds, may make tiny drops bump and join much faster. They are still testing this. The Moon pulls on the sea to make tides, but it does not pull drops out of clouds."
     },
     {
@@ -1496,10 +1496,10 @@
      "p": "Most pictures of the water cycle show only the sea, clouds, rain and rivers. In 2019, scientists said a big piece was missing. What was it?",
      "opts": [
       "The Moon",
-      "People: dams, borewells, farms and cities",
-      "Fish"
+      "Fish",
+      "People: dams, borewells, farms and cities"
      ],
-     "a": 1,
+     "a": 2,
      "why": "People now move huge amounts of water with dams, pumps and pipes, but most pictures leave us out. Fish are part of the cycle too, but they move very little water compared with people."
     },
     {
@@ -1623,11 +1623,11 @@
       "t": "mcq",
       "q": "Drops have formed on the underside of the cling film over the bowl. Where did they come from?",
       "options": [
-       "Water evaporated from the bowl and condensed on the film",
        "The cling film leaked",
+       "Water evaporated from the bowl and condensed on the film",
        "Rain fell on it"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The Sun warmed the salty water, and some of it evaporated into the air inside the bowl. When the vapour touched the cooler film, it condensed into drops. Picking 'leaked' usually means thinking the water came through the film. It came from below."
      }
     },
@@ -1798,11 +1798,11 @@
       "t": "mcq",
       "q": "In the Cloud in a Jar experiment, why did the smoke make a thicker cloud?",
       "options": [
-       "Vapour condensed onto the tiny smoke specks, making many more drops",
        "Smoke is a kind of cloud",
-       "The smoke made the water hotter"
+       "The smoke made the water hotter",
+       "Vapour condensed onto the tiny smoke specks, making many more drops"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Water vapour needs something to stick to before it can make a drop. Each smoke speck becomes the seed of one tiny drop. More specks means more drops, and a thicker cloud. Real clouds form on specks of dust, salt and smoke. Picking 'smoke is a cloud' mixes up the seeds with the drops."
      }
     },
@@ -2052,11 +2052,11 @@
       "t": "mcq",
       "q": "The drops on the outside are clear and not salty. The water inside is coloured and salty. Where did the drops come from?",
       "options": [
-       "Water vapour in the air condensed on the cold tumbler",
        "The water leaked through the steel",
+       "Water vapour in the air condensed on the cold tumbler",
        "The ice melted through the steel"
       ],
-      "a": 0,
+      "a": 1,
       "why": "If the drops had leaked through, they would be coloured and salty, like the water inside. They are clear and plain. So they came from the air. Invisible water vapour touched the cold steel, cooled and turned into drops. That is condensation. The tumbler without ice stayed dry, because it was not cold enough."
      }
     },
@@ -2186,11 +2186,11 @@
       "t": "mcq",
       "q": "In the Evaporation Race bar chart, the shortest bar shows the place where water…",
       "options": [
-       "Evaporated fastest",
        "Evaporated slowest",
-       "Did not evaporate"
+       "Did not evaporate",
+       "Evaporated fastest"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The bar shows how many minutes the water took to disappear. A short bar means only a few minutes, so that water evaporated fastest. Picking 'slowest' usually means reading a short bar as a small amount of evaporation. Here, short means quick."
      }
     },
@@ -2314,11 +2314,11 @@
       "t": "mcq",
       "q": "You breathe on a cold steel plate and it mists up. Where did the water come from?",
       "options": [
-       "From your breath: there is invisible water vapour in it",
        "From the steel",
-       "From the air conditioner"
+       "From the air conditioner",
+       "From your breath: there is invisible water vapour in it"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Your breath has invisible water vapour in it. When it touches the cold plate, it cools and turns into tiny drops, which you see as mist. That is condensation. A few seconds later, the drops evaporate back into the air."
      },
      "think": "The water from the handprint went into the air. The water in your breath came out of the air onto the plate. Are these two the same change, going opposite ways?"
@@ -2475,11 +2475,11 @@
       "t": "mcq",
       "q": "A small cloud shrinks and vanishes in 10 minutes. What happened to its tiny drops?",
       "options": [
-       "They evaporated into the air as invisible vapour",
        "They fell as rain",
-       "They floated up into space"
+       "They floated up into space",
+       "They evaporated into the air as invisible vapour"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A small cloud's drops are always evaporating at its edges. If drier air mixes in, they evaporate faster than new drops can form, and the cloud vanishes. Its water is still in the air, as invisible vapour. Picking 'fell as rain' means expecting all clouds to rain. Most clouds dry up without raining at all."
      }
     }
@@ -2546,11 +2546,11 @@
       "t": "mcq",
       "q": "In the water cycle dance, you rose slowly up from the 'sea'. Which part of the water cycle was that?",
       "options": [
-       "Evaporation",
        "Rain",
+       "Evaporation",
        "A river"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Rising up from the sea is evaporation, when water turns into invisible vapour and goes up into the air. Rain is the falling part of the dance. The river is the part where you flow back to the sea."
      }
     },
@@ -2629,11 +2629,11 @@
       "t": "mcq",
       "q": "In Make a Monsoon, why did the drops form on the plate held in the steam?",
       "options": [
-       "The cold plate cooled the vapour, so it condensed into drops",
        "The plate was wet before",
-       "The steam made the plate rusty"
+       "The steam made the plate rusty",
+       "The cold plate cooled the vapour, so it condensed into drops"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Water vapour in the steam touched the cold plate, cooled and turned into drops. That is condensation. On real mountains, wet air is pushed upwards, and rising air cools, so its vapour condenses into clouds and rain."
      }
     },
@@ -2736,11 +2736,11 @@
       "t": "mcq",
       "q": "Which of these places does water usually stay in for the shortest time?",
       "options": [
-       "The air, about 9 days",
        "The deep sea, about 3,000 years",
+       "The air, about 9 days",
        "Antarctic ice, up to hundreds of thousands of years"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Water vapour in the air soon condenses and falls as rain or snow, on average within about 9 days. The sea and the ice hold water for a very long time, because they are so big and the water leaves them slowly."
      },
      "think": "If the air holds water for only 9 days, where does all the water in tomorrow's clouds come from?"
@@ -2855,11 +2855,11 @@
       "t": "mcq",
       "q": "In the closed jar garden, drops form on the inside of the glass. Where did they come from?",
       "options": [
-       "Water evaporated from the soil and leaves, and condensed on the cooler glass",
        "Water leaked in through the lid",
-       "The glass made them"
+       "The glass made them",
+       "Water evaporated from the soil and leaves, and condensed on the cooler glass"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The lid is closed, so no water can get in. Water evaporates from the damp soil, and leaves give off vapour. When the vapour touches the cooler glass, it condenses into drops. The drops run down into the soil, and the cycle starts again."
      }
     },
@@ -3098,11 +3098,11 @@
    "t": "mcq",
    "p": "Is the rain falling today new water?",
    "opts": [
-    "Yes, clouds make new water every day",
     "No. It is old water that has gone round the water cycle many times.",
+    "Yes, clouds make new water every day",
     "Yes, the Sun makes new water"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Almost no new water is made. The same water keeps rising, falling and flowing back. The rain today may once have been in the sea, a river, a tree or a dinosaur's drink.",
    "outcome": 0
   },
@@ -3110,11 +3110,11 @@
    "t": "mcq",
    "p": "On a sticky, humid day in Chennai, wet clothes on the line take all day to dry, even in the sun. Why?",
    "opts": [
-    "The air already holds a lot of water vapour, so water evaporates into it slowly",
     "The Sun gives no heat on humid days",
-    "The clothes soak up water from the air as fast as they dry"
+    "The clothes soak up water from the air as fast as they dry",
+    "The air already holds a lot of water vapour, so water evaporates into it slowly"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Humid air has a lot of water vapour in it already, so it takes up more vapour slowly. Dry air takes up vapour fast. Sun, wind and a wide surface help, but humid air slows everything down.",
    "outcome": 1
   },
@@ -3122,11 +3122,11 @@
    "t": "mcq",
    "p": "Steam from a pot of boiling water touches a cold steel lid. What happens?",
    "opts": [
-    "The steam condenses into drops of water",
     "The steam turns into salt",
-    "The steam is destroyed"
+    "The steam is destroyed",
+    "The steam condenses into drops of water"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The cold lid cools the vapour, and it condenses into drops. That is why the inside of a lid is wet when you lift it.",
    "outcome": 1
   },
@@ -3146,11 +3146,11 @@
    "t": "mcq",
    "p": "How does a tiny cloud drop become a raindrop heavy enough to fall?",
    "opts": [
-    "The wind squeezes it",
     "Many drops bump and join, and in cold clouds ice crystals grow and melt as they fall",
+    "The wind squeezes it",
     "It soaks up dust until it is heavy"
    ],
-   "a": 1,
+   "a": 0,
    "why": "About a million cloud drops' worth of water makes one raindrop. In warm clouds the drops join. In cold clouds, ice crystals grow, fall and often melt into rain.",
    "outcome": 2
   },
@@ -3158,11 +3158,11 @@
    "t": "mcq",
    "p": "Sea water is boiled in a pot with a lid. Drops collect under the lid. How will those drops taste?",
    "opts": [
+    "Not salty",
     "Saltier than the sea",
-    "Just as salty as the sea",
-    "Not salty"
+    "Just as salty as the sea"
    ],
-   "a": 2,
+   "a": 0,
    "why": "Only the water evaporates. The salt stays in the pot. So the drops that condense on the lid are fresh.",
    "outcome": 3
   },
@@ -3170,11 +3170,11 @@
    "t": "mcq",
    "p": "You test where water dries fastest. You put one plate in the sun, one under a fan and one in the shade. What must you keep the same to make it a fair test?",
    "opts": [
-    "The amount of water on each plate",
     "The place of each plate",
+    "The amount of water on each plate",
     "Nothing"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Every plate must start with the same amount of water. The place is the one thing you change on purpose, so that any difference comes from the place.",
    "outcome": 4,
    "how": "e5"
@@ -3195,11 +3195,11 @@
    "t": "mcq",
    "p": "In most of India, the big rains come from June to September. A farmer wants rain to water her young rice plants. When should she plant them?",
    "opts": [
-    "Just before June",
     "In January",
+    "Just before June",
     "In November"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The monsoon usually reaches Kerala around the first of June and covers India by July. Planting just before it means the young plants get water while they grow. In January and November the monsoon is not here.",
    "outcome": 5
   },
@@ -3207,11 +3207,11 @@
    "t": "mcq",
    "p": "Wet wind from the sea blows up a high hill. Which side of the hill gets more rain?",
    "opts": [
-    "The side facing the sea",
     "The far side",
-    "Both sides get the same"
+    "Both sides get the same",
+    "The side facing the sea"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The wet air cools as it is pushed up, so its vapour condenses and rains on the sea side. The far side gets little rain. It is called the rain shadow.",
    "outcome": 5
   },
@@ -3219,11 +3219,11 @@
    "t": "mcq",
    "p": "Where does the energy that lifts water into the sky come from?",
    "opts": [
+    "The Sun",
     "The Moon",
-    "The wind alone",
-    "The Sun"
+    "The wind alone"
    ],
-   "a": 2,
+   "a": 0,
    "why": "The Sun warms water so its molecules break free and rise. That energy comes out again as heat when the vapour condenses in clouds. Wind helps carry vapour, but the energy to evaporate it comes from the Sun.",
    "outcome": 6
   },
@@ -3709,6 +3709,65 @@
     "a2"
    ],
    "plan": "If bought, look at its dew and frost pages after the Cold Tumbler and the Dew Walk."
+  },
+  {
+   "id": "b-a-small-hand-mirror",
+   "item": "A small hand mirror",
+   "kind": "material",
+   "why": "Used in The Vanishing Handprint. About ₹20 to ₹80. A shiny steel plate shows reflections too.",
+   "url": "https://www.amazon.in/s?k=small+hand+mirror",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Get it before The Vanishing Handprint."
+  },
+  {
+   "id": "b-food-colour",
+   "item": "Food colour",
+   "kind": "material",
+   "why": "Used in The Cold Tumbler: where do the drops come from?. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it.",
+   "url": "https://www.amazon.in/s?k=food+colour+liquid",
+   "used_in": [
+    "e4"
+   ],
+   "plan": "Get it before The Cold Tumbler: where do the drops come from?."
+  },
+  {
+   "id": "b-sticky-notes",
+   "item": "Sticky notes",
+   "kind": "material",
+   "why": "Used in Make a Monsoon: the kettle and the mountain. About ₹20 to ₹60. Small torn paper and tape do the same job.",
+   "url": "https://www.amazon.in/s?k=sticky+notes+pack",
+   "used_in": [
+    "a5"
+   ],
+   "plan": "Get it before Make a Monsoon: the kettle and the mountain."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in The Cold Tumbler: where do the drops come from?. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "e4"
+   ],
+   "plan": "Get it before The Cold Tumbler: where do the drops come from?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

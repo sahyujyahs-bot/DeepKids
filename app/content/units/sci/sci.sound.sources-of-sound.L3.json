@@ -149,6 +149,12 @@
    "meaning": "What it takes to make something move, warm up or change. A vibration carries energy. When a sound fades, its energy becomes a tiny amount of warmth.",
    "example": "A ringing bell slowly goes quiet. Its vibration spreads out into the air as a tiny amount of warmth.",
    "art": "A bell's ring fading into faint warm orange dots in the air."
+  },
+  {
+   "term": "Ting and thak",
+   "meaning": "A ting is a sound that rings on for a while. A thak is a short knock that stops at once.",
+   "example": "A steel tumbler tapped with a spoon gives a ting. A wooden board tapped with a spoon gives a thak.",
+   "art": "Two small panels: one with a steel tumbler and wavy lines ringing on, one with a wooden board and a single short knock mark."
   }
  ],
  "explanations": [
@@ -737,11 +743,11 @@
       "t": "mcq",
       "q": "When you hit a tabla, what vibrates to make the sound?",
       "options": [
-       "The wooden body only",
        "The stretched skin",
+       "The wooden body only",
        "Your hand"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The stretched skin on top vibrates back and forth, and pushes the air. That is the sound. The wooden body helps a little, but the skin is the source. Picking 'your hand' usually means mixing up what starts the vibration with what makes the sound."
      }
     },
@@ -906,10 +912,10 @@
      "p": "Someone says, \"Nothing vibrates to make thunder, because there is nothing in the sky to shake.\" What really shakes to make thunder?",
      "opts": [
       "Clouds bumping into each other",
-      "The air, which lightning heats so fast that it bursts outwards with a bang",
-      "Nothing shakes. Thunder is a sound without a vibration"
+      "Nothing shakes. Thunder is a sound without a vibration",
+      "The air, which lightning heats so fast that it bursts outwards with a bang"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Lightning heats the air around it in a flash. The hot air rushes outwards and shoves the air beside it. That push travels to us as thunder. Many people believe clouds bump together, but clouds are soft mist and make no bang. Every sound, even thunder, starts with something moving back and forth."
     },
     {
@@ -975,11 +981,11 @@
      "t": "mcq",
      "p": "A girl hits a drum gently. Then she hits it hard. What changes?",
      "opts": [
-      "The hard hit is louder, because the skin swings further",
       "The hard hit is higher, because the skin moves faster",
-      "Nothing changes, because it is the same drum"
+      "Nothing changes, because it is the same drum",
+      "The hard hit is louder, because the skin swings further"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A harder hit makes the skin swing further up and down, so it pushes the air harder. That bigger vibration is louder. The note stays about the same, because the skin still swings back and forth about as many times each second."
     },
     {
@@ -1042,6 +1048,34 @@
      "why": "Every sound has a source that vibrates. Sometimes it is part of a body, sometimes a solid thing, and sometimes the air itself. A bird’s voice box, called the syrinx, sits deep in the chest, not in the throat as ours does."
     },
     {
+     "t": "sort",
+     "p": "Sort each tapped thing: does it give a ting that rings on, or a thak that stops at once?",
+     "cats": [
+      "Ting",
+      "Thak"
+     ],
+     "items": [
+      [
+       "a steel tumbler tapped with a spoon",
+       "Ting"
+      ],
+      [
+       "a wooden board tapped with a spoon",
+       "Thak"
+      ],
+      [
+       "a glass tapped with a spoon",
+       "Ting"
+      ],
+      [
+       "a plastic box tapped with a spoon",
+       "Thak"
+      ]
+     ],
+     "a": "see items",
+     "why": "Hard solids like steel and glass vibrate and ring on. Wood and plastic give a short knock that stops at once."
+    },
+    {
      "t": "truefalse",
      "p": "You can feel a sound as well as hear it.",
      "a": true,
@@ -1051,11 +1085,11 @@
      "t": "mcq",
      "p": "A girl has two steel bowls of the same size. One is nearly empty. The other is nearly full of water. She taps each one with a spoon. Which bowl gives the lower note?",
      "opts": [
-      "The nearly empty bowl",
       "The nearly full bowl",
+      "The nearly empty bowl",
       "Both give the same note"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The water moves along with the steel and weighs it down, so the full bowl vibrates more slowly. Slower vibrations sound lower. This is how a jal tarang player tunes her bowls.",
      "how": "a3"
     },
@@ -1088,11 +1122,11 @@
      "t": "mcq",
      "p": "A frog's throat swells up like a balloon when he calls. What does the swollen pouch do?",
      "opts": [
-      "It makes his call much louder",
       "It stores food for later",
+      "It makes his call much louder",
       "It helps him breathe underwater"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The thin pouch vibrates along with the frog's call and pushes on a lot more air, so the call carries further. A veena's hollow body works in a similar way. Frogs call to find mates, and they are not calling for us."
     }
    ]
@@ -1126,11 +1160,11 @@
      "t": "mcq",
      "p": "A tabla player taps the wooden blocks under the straps with a small hammer, so the skin is pulled tighter. What happens to the note?",
      "opts": [
-      "It goes higher, because a tighter skin springs back faster and vibrates faster",
       "It goes lower, because a tight skin is heavier",
+      "It goes higher, because a tighter skin springs back faster and vibrates faster",
       "It does not change"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A tighter skin springs back quicker, so it vibrates more times each second, and the note goes up. Tightness changes how fast the skin vibrates, not how heavy it is."
     },
     {
@@ -1205,11 +1239,11 @@
      "t": "mcq",
      "p": "You stretch a thin rubber band and a thick rubber band across a box, both equally tight. You pluck each one. Which gives the higher note?",
      "opts": [
-      "The thin band",
       "The thick band",
-      "Both give the same note"
+      "Both give the same note",
+      "The thin band"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The thin band is lighter, so it vibrates faster, and faster vibrations sound higher. On a veena, the thin strings play the high notes for the same reason.",
      "how": "a4"
     },
@@ -1217,11 +1251,11 @@
      "t": "mcq",
      "p": "Bats fly around a dark room without bumping into the walls. How do they know where the walls are?",
      "opts": [
-      "They listen to the echoes of their own high squeaks bouncing back",
       "They can see perfectly in the dark",
-      "They smell the paint on the walls"
+      "They smell the paint on the walls",
+      "They listen to the echoes of their own high squeaks bouncing back"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Many bats send out squeaks too high for people to hear, and listen for the echoes. A quick echo means a wall is close. This is called echolocation. Bats can see too, but in the dark, sound tells them more."
     },
     {
@@ -1287,11 +1321,11 @@
      "t": "mcq",
      "p": "At a cricket ground, you sit far from the batter. Why do you see the bat hit the ball a moment before you hear the 'tock'?",
      "opts": [
-      "Light travels much faster than sound",
       "Sound travels faster than light, but our ears are slow",
-      "The sound has to wait for the ball to land"
+      "The sound has to wait for the ball to land",
+      "Light travels much faster than sound"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Light from the bat reaches you almost at once. Sound travels about 343 metres every second, so it takes a moment to cross a big ground."
     }
    ]
@@ -1346,11 +1380,11 @@
      "t": "mcq",
      "p": "Air molecules zoom about at around 500 metres every second. Sound travels through air at about 343 metres every second. Why can sound never go faster than the molecules?",
      "opts": [
-      "Sound is passed along only by molecules bumping into each other, so it cannot outrun them",
       "Sound is heavier than air",
-      "Sound gets tired as it travels"
+      "Sound gets tired as it travels",
+      "Sound is passed along only by molecules bumping into each other, so it cannot outrun them"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Sound is not a thing of its own. It is a push handed from molecule to molecule. So the push can only travel as fast as the molecules can carry it. Thinking sound is 'heavier' treats it like an object, when it is really a pattern."
     },
     {
@@ -1371,21 +1405,21 @@
      "p": "A sound slowly fades away. Where does its energy go?",
      "opts": [
       "It vanishes completely",
-      "It spreads out, and ends up as a tiny amount of warmth in the air",
-      "It goes back into the drum"
+      "It goes back into the drum",
+      "It spreads out, and ends up as a tiny amount of warmth in the air"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Energy never disappears. It only changes from one kind into another. The vibration spreads out wider and wider until it becomes the random jiggling of molecules, which is warmth."
     },
     {
      "t": "mcq",
      "p": "A scientist sits in a room built to block every sound from outside. She still hears a soft thumping and a gentle hiss. Where are they coming from?",
      "opts": [
-      "Her own heartbeat and the blood moving in her body",
       "Sound leaking through the walls",
-      "Her ears are broken"
+      "Her ears are broken",
+      "Her own heartbeat and the blood moving in her body"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A living body is never still. The heart beats, blood flows and lungs breathe, and all of these vibrate. Perfect silence is almost impossible for a living listener."
     },
     {
@@ -1466,11 +1500,11 @@
      "t": "mcq",
      "p": "In 2023, scientists in Israel recorded tiny clicking sounds from tomato plants that needed water. Which question about these clicks is still open?",
      "opts": [
-      "Whether any animals listen to the clicks and use them",
       "Whether the clicks were really recorded",
+      "Whether any animals listen to the clicks and use them",
       "Whether the clicks need a medium to travel"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The recordings were careful and real, and like every sound, the clicks travel through air. What nobody knows yet is whether insects or other animals hear the clicks and act on them. Saying clearly what is still unknown is part of good science."
     },
     {
@@ -1591,10 +1625,10 @@
       "q": "When more of the ruler sticks out, it vibrates more slowly. What happens to the sound?",
       "options": [
        "It gets higher",
-       "It gets lower, and at the longest it is hard to hear",
-       "It stays the same"
+       "It stays the same",
+       "It gets lower, and at the longest it is hard to hear"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A longer piece swings more slowly. Slower vibrations sound lower. At the longest lengths it is so slow that we hear almost nothing, even though we can see it move. Picking 'higher' usually means thinking a bigger piece makes a stronger, higher sound."
      }
     },
@@ -2107,10 +2141,10 @@
       "q": "In the coin line, what travelled from one end to the other?",
       "options": [
        "The first coin",
-       "The push, passed from coin to coin",
-       "Nothing at all"
+       "Nothing at all",
+       "The push, passed from coin to coin"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The first coin stopped at the line. Only the push was passed along, coin to coin, and the last coin shot off. Sound in air works the same way. Picking 'the first coin' means thinking the source itself travels to your ear."
      },
      "think": "Real air molecules are not in a neat line, and they never stop zooming about. How is the real air different from our coins?"
@@ -2169,11 +2203,11 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Tap each kitchen thing with the steel spoon, then with the wooden spoon. 2. Listen to how long each one rings.",
+     "do": "1. Tap each kitchen thing with the steel spoon, then with the wooden spoon. 2. Listen to how long each one rings. 3. Also tap a wooden board, a plastic box, a cloth bag and a glass. A ting is a sound that rings on. A thak is a short knock that stops at once. Which one gives a ting, and which gives a thak?",
      "say": "Everything in the kitchen has its own sound. Let's listen to each one. What is vibrating?",
      "kid": "Tap each thing with a spoon. Listen. Which rings longest? What is vibrating?",
      "context": "This is the first step of Kitchen Orchestra. You tap kitchen things to hear their sounds, then make a jal tarang, an Indian instrument of bowls of water.",
-     "parent": "Steel rings long. Wood and plastic give a short knock. A clay pot sounds like a ghatam, the clay-pot drum from Tamil Nadu."
+     "parent": "Steel rings long. Wood and plastic give a short knock. A clay pot sounds like a ghatam, the clay-pot drum from Tamil Nadu. The cloth bag gives a soft thud with almost no ring, because cloth soaks up the vibration. Glass rings on too."
     },
     {
      "id": "s2",
@@ -2194,10 +2228,10 @@
       "q": "You tap tumblers with different amounts of water. Which one sounds lowest?",
       "options": [
        "The empty one",
-       "The fullest one, because more water makes it vibrate more slowly",
-       "They all sound the same"
+       "They all sound the same",
+       "The fullest one, because more water makes it vibrate more slowly"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The tapped tumbler and its water vibrate together. More water means more to move, so the vibration is slower and the note is lower. Picking 'the empty one' is a common guess, because empty things sound hollow and booming."
      }
     }
@@ -2283,11 +2317,11 @@
       "t": "mcq",
       "q": "You make a band tighter or shorter. What happens to its note?",
       "options": [
-       "It goes higher",
        "It goes lower",
+       "It goes higher",
        "It doesn't change"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A tighter or shorter band vibrates faster. Faster vibration sounds higher. This is how veena and sitar players change notes. Picking 'lower' often comes from thinking a tight band is 'stronger', so it should boom."
      }
     },
@@ -2647,11 +2681,11 @@
       "t": "mcq",
       "q": "Why does a band sound louder over a hollow box?",
       "options": [
-       "The box vibrates too, and pushes much more air",
        "The box makes the band vibrate faster",
-       "The box stores up the sound"
+       "The box stores up the sound",
+       "The box vibrates too, and pushes much more air"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The band alone is thin, so it pushes very little air. The box's big sides vibrate along with it and push much more air. Picking 'faster' mixes up loudness with pitch. Picking 'stores up' means thinking of sound as a thing that can be kept."
      }
     }
@@ -2788,10 +2822,10 @@
    "p": "What do all sounds have in common?",
    "opts": [
     "They are all loud",
-    "They all start with something vibrating",
-    "They all come from machines"
+    "They all come from machines",
+    "They all start with something vibrating"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Every sound starts with a vibration. Picking 'loud' forgets whispers and rustles. Picking 'machines' forgets voices, birds and rain.",
    "outcome": 0
   },
@@ -2799,11 +2833,11 @@
    "t": "mcq",
    "p": "A temple bell keeps ringing for a long time after it is struck. What is the bell doing all that time?",
    "opts": [
-    "It is still vibrating",
     "It is letting out sound it stored inside",
-    "It is cooling down"
+    "It is cooling down",
+    "It is still vibrating"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The bell rings only as long as it vibrates. Its heavy metal keeps vibrating for a long time, and the vibration slowly gets smaller. When the vibration stops, the ring stops.",
    "outcome": 0
   },
@@ -2835,11 +2869,11 @@
    "t": "mcq",
    "p": "In the Twanging Ruler experiment, a girl changes how much ruler sticks out and also flicks it harder, both at the same time. Why can she not tell what changed the sound?",
    "opts": [
-    "She changed two things at once, so she cannot tell which one made the difference",
     "Rulers cannot make a fair test",
-    "She should have used a longer ruler"
+    "She should have used a longer ruler",
+    "She changed two things at once, so she cannot tell which one made the difference"
    ],
-   "a": 0,
+   "a": 2,
    "why": "In a fair test, you change only one thing and keep everything else the same. If two things change, you cannot tell which one caused the result.",
    "outcome": 2,
    "how": "e1"
@@ -2848,11 +2882,11 @@
    "t": "mcq",
    "p": "A drum is played across a room. What reaches your ear?",
    "opts": [
-    "Air from the drum, flying across the room",
     "A pattern of pushes passed from molecule to molecule",
+    "Air from the drum, flying across the room",
     "Tiny pieces of the drum"
    ],
-   "a": 1,
+   "a": 0,
    "why": "No air flies across the room. Each molecule moves back and forth a tiny distance and pushes the next. Only the pattern travels to you. Picking 'air flying across' is the most common mistake about sound.",
    "outcome": 3
   },
@@ -2860,11 +2894,11 @@
    "t": "mcq",
    "p": "Coins are laid in a row with wide gaps between them. You flick a coin at the first one. Why does the push not reach the last coin?",
    "opts": [
-    "The coins were too far apart to pass the push on",
     "The coins got tired",
+    "The coins were too far apart to pass the push on",
     "The table was too smooth"
    ],
-   "a": 0,
+   "a": 1,
    "why": "With gaps, the moving coin stopped before it reached the next one. In space, molecules are so far apart that sound can't be passed on either.",
    "outcome": 3,
    "how": "a2"
@@ -2885,11 +2919,11 @@
    "t": "mcq",
    "p": "What makes a tabla ring with a clear note instead of a thud?",
    "opts": [
-    "The black syahi patch on its skin",
     "Its bright colour",
+    "The black syahi patch on its skin",
     "Hitting it very hard"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The heavy syahi changes how the skin vibrates, so its vibrations fit together into one note. C.V. Raman and Sivakali Kumar explained this in 1920. Drum makers had invented it long before.",
    "outcome": 5
   },
@@ -2897,11 +2931,11 @@
    "t": "mcq",
    "p": "A sitar has a big round gourd at the bottom. What is the gourd for?",
    "opts": [
-    "It vibrates along with the strings and makes the sound much louder",
     "It keeps the sitar from rolling over",
-    "It holds spare strings"
+    "It holds spare strings",
+    "It vibrates along with the strings and makes the sound much louder"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The gourd is a resonator, like the hollow body of a veena. A thin string pushes little air, but the big gourd vibrates with it and pushes far more.",
    "outcome": 5
   },
@@ -2921,11 +2955,11 @@
    "t": "mcq",
    "p": "Standing near some elephants, a person feels a throbbing in the air, but hears almost nothing. What is the best explanation?",
    "opts": [
-    "Elephants call with sounds too low for people to hear",
     "Nearby machines are shaking",
+    "Elephants call with sounds too low for people to hear",
     "The wind is blowing hard"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A sound is a vibration. Very low sounds, called infrasound, are too low for human ears, but you can still feel the air throbbing. Elephants use such low calls to talk over long distances.",
    "outcome": 6
   },
@@ -2933,13 +2967,26 @@
    "t": "mcq",
    "p": "Which of these do scientists still not know for sure?",
    "opts": [
-    "Why people everywhere make music",
     "Whether sound needs a medium to travel",
+    "Why people everywhere make music",
     "Whether every sound starts with a vibration"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Every human culture ever found has music, but scientists still argue about why. Some think music helps groups feel close. Others think it grew from parents singing to babies. Whether sound needs a medium is settled: it does.",
    "outcome": 7
+  },
+  {
+   "t": "mcq",
+   "p": "You tap a steel plate and a cloth bag with a spoon. Which one rings on with a ting?",
+   "opts": [
+    "The cloth bag rings on, and the steel gives a soft thud",
+    "Both ring on for the same time",
+    "Neither makes a sound",
+    "The steel plate rings on, and the cloth gives a soft thud"
+   ],
+   "a": 3,
+   "outcome": 2,
+   "why": "Steel is a hard solid that vibrates and rings on. Cloth soaks up the vibration, so it gives a soft thud with almost no ring."
   }
  ],
  "applications": [
@@ -3364,6 +3411,65 @@
     "c2"
    ],
    "why": ""
+  },
+  {
+   "id": "b-modelling-clay-or-plasticine",
+   "item": "Modelling clay or plasticine",
+   "kind": "material",
+   "why": "Used in Kitchen Orchestra and the Jal Tarang. About ₹40 to ₹120. Atta dough mixed with a little salt works.",
+   "url": "https://www.amazon.in/s?k=modelling+clay+plasticine",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before Kitchen Orchestra and the Jal Tarang."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in One Band, Biggest Sound. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before One Band, Biggest Sound."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in My Instrument Concert. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before My Instrument Concert."
+  },
+  {
+   "id": "b-a-measuring-jug-or-syringe--",
+   "item": "A measuring jug or syringe (marked in millilitres)",
+   "kind": "tool",
+   "why": "Used in Kitchen Orchestra and the Jal Tarang. About ₹30 to ₹100. A clean medicine cup or marked bottle works.",
+   "url": "https://www.amazon.in/s?k=measuring+jug+500+ml",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before Kitchen Orchestra and the Jal Tarang."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

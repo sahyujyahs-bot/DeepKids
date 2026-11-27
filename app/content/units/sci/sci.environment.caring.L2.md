@@ -1,9 +1,9 @@
 # Caring for our environment: why some litter traps animals, and what we can do
 `sci.environment.caring.L2`
 
-**Summary.** Why can plastic litter trap a bird when wet paper cannot? In this unit you will soak loops of paper, cloth and plastic and try to pull each one apart, hunt for loops in your dry waste, and play a card game sorting litter that traps, gets swallowed or is safe.
+**Summary.** Why can plastic litter trap a bird when wet paper cannot? In this lesson you will soak loops of paper, cloth and plastic and try to pull each one apart, hunt for loops in your dry waste, and play a card game sorting litter that traps, gets swallowed or is safe.
 
-**Intro.** *On the day after a kite festival, people in many Indian cities find birds caught in kite string on trees and balconies. Why can't the bird just break the string and fly away?* A bird cannot break some kinds of string, however hard the bird pulls. Strong plastic litter can trap animals the same way. Our environment is everything around us: the air, the water, the land and every living being. In this unit we test which kinds of litter can trap an animal. Then we learn what people in India do to care for the places we share.
+**Intro.** *On the day after a kite festival, people in many Indian cities find birds caught in kite string on trees and balconies. Why can't the bird just break the string and fly away?* A bird cannot break some kinds of string, however hard the bird pulls. Strong plastic litter can trap animals the same way. Our environment is everything around us: the air, the water, the land and every living being. In this lesson we test which kinds of litter can trap an animal. Then we learn what people in India do to care for the places we share.
 
 ## Learning outcomes
 0. By the end I can say what our environment is, and name living and non-living parts of it.
@@ -20,6 +20,8 @@
 - **Plastic**: Plastic is a material made by people, mostly from oil or gas. Most plastic is strong, light and does not soak up water. *e.g.* Milk packets, carry bags, straws and nylon string are made of plastic.
 - **Habitat**: A habitat is the place where a living being lives and finds what they need. *e.g.* A lake is a habitat for fish, frogs, ducks and lotus plants.
 - **Protect**: To protect means to keep someone or something safe from harm. *e.g.* Women in Assam protect the nests of big storks in their village trees.
+- **Shelter**: A shelter is a safe place where a living thing can hide, rest or keep her babies. Different animals use different shelters, such as a nest, a hole or a burrow. *e.g.* A sparrow carries twigs into a gap above your window to make a shelter for her chicks.
+- **Nature reserve**: A nature reserve is a place that people keep safe so that wild plants and animals can live there undisturbed. Hunting and building are not allowed inside it. *e.g.* Periyar in Kerala is a nature reserve, where elephants and many other animals live in the forest without people moving in.
 
 ## Explanations
 ### What our environment is · *defined*
@@ -29,6 +31,7 @@ The living parts are plants, animals, fungi and microbes, which are living thing
 - e.g. A crow needs trees for a nest and clean water to drink.
 - e.g. A neem tree needs soil, sunlight, rain and air.
 - e.g. You need clean air, clean water and food that grew in soil.
+- e.g. A woodlouse or an earthworm needs a damp, dark place, such as the underside of a stone or a rotting log, and in hot dry sun she soon dries out.
 ### How litter harms animals · *defined*
 **Definition:** Litter harms animals in two main ways. They get trapped in it, or they eat it.
 
@@ -56,6 +59,7 @@ Put litter in a bin, and sort it into wet and dry waste. Snip every loop before 
 - e.g. Snip a rubber band before it goes in the bin.
 - e.g. Fly kites with cotton string, not nylon string.
 - e.g. Pick up kite string left on the terrace after the festival.
+- **Wangari Maathai (1940–2011), Kenya:** Wangari Maathai was a scientist who studied animals' bodies. She saw that women in the Kenyan countryside walked further and further for firewood and water, because the trees had been cut. In 1977 she started the Green Belt Movement, and village women were paid a little for each young tree they grew and planted. Together they planted tens of millions of trees, and in 2004 she became the first African woman to win the Nobel Peace Prize.
 ### People in India who cared for the places they live · *defined*
 **Definition:** People in India have protected trees and birds by working together, and many of them were women.
 
@@ -63,6 +67,8 @@ In 1974, Gaura Devi and the women of Reni village hugged the trees so that logge
 - e.g. The women of Reni village held on to the trees, and the loggers went away.
 - e.g. The Hargila Army guards the nesting trees of a rare stork.
 - e.g. Thimmakka's banyan trees are now giant trees beside a road.
+- e.g. In many Indian villages a sacred grove is a patch of forest that the community has left untouched for generations, and a nature reserve or sanctuary is a place set aside so that wild animals can live there safely.
+- **Jadav 'Molai' Payeng (born around 1963), Assam, India:** In 1979, when he was a teenager, Jadav Payeng found many snakes dead from the heat on a bare sandbank in the Brahmaputra river, where there was no shade. He began to plant bamboo and then trees, and kept planting almost every day for decades. His forest, now called Molai forest, covers hundreds of hectares, and deer, rhinos, tigers and elephants visit it. Almost nobody knew until 2008, when forest officers following a herd of elephants found it, and in 2015 he received the Padma Shri.
 
 ## Mostly agreed
 - Litter harms many animals, by trapping them or when they eat it. *How we know:* Vets and bird rescuers in India treat birds cut by kite string and cows sick from eating plastic bags. Scientists find plastic in the stomachs of many sea birds and turtles.
@@ -164,11 +170,69 @@ They filled a whole bag. Arun counted the sticks of wound string. There were ele
 
 On the railing, the grey pigeon was back, pecking at a few grains of rice. Both her feet were free.
 
-**For the parent:** A loop that a bird cannot break is a trap. Plastic stays strong even when wet, so plastic string and loops can trap animals. Picking them up keeps the birds safe.
 
-- Ask: Why did Dr. Rehana snip the string instead of pulling it?
-- Ask: Why did the paper loop tear but the plastic loop did not?
-- Ask: What could Meenakshi's family do at the next Sankranti to keep birds safe?
+## Another story: Chirri Needs a Hole
+**
+
+My name is Chirri, and I am a house sparrow. I am small and brown, with a grey cap and a black bib on my chest. I live in Madurai, in a lane full of cycle bells, pressure cookers and the smell of frying vadas.
+
+All my life I lived in a hole. Not just any hole: the best hole in the whole lane, under the old clay tiles of Nila's grandmother's house, just where the roof met the wall. It was dark and dry and just my size. Every year my wife and I filled it with straw, threads and feathers, and every year we had chicks, three or four of them, cheeping in the dark.
+
+Then, one winter, the old house was knocked down.
+
+I watched from the electric wire. Workers came with hammers. The tiles came down. My hole came down. In its place they built a new house of smooth grey concrete with big glass windows. It was very clean. It had no holes at all.
+
+When it was time to nest, my wife and I flew round and round the new house. Smooth wall. Smooth wall. Glass. Smooth wall. There was nowhere. We tried the next house. Smooth. The next. Smooth. Behind the bakery the old tin roof had a gap, but the pigeons had got there first.
+
+Nila saw me. Nila is seven, she has a gap in her teeth, and she notices things. She saw me sitting on her window grill, looking sad (sparrows can be sad, whatever people say). 'Amma,' she said, 'that sparrow is hungry.'
+
+So Nila put out bread.
+
+It was kind of her. I ate a little. But I wasn't hungry, not really. I needed a hole.
+
+The next day Nila put out more bread. And a biscuit. And some murukku. The crows came and ate it all, and squabbled, and made a mess on the balcony. Nila's father sighed.
+
+Then my wife found a place. It was a dark grey box on the wall by the gate, with a little gap at the bottom where the wires came in. It was dark and dry and just our size. We started to carry straw into it.
+
+Nila's father saw us and shouted. 'Not there! That's the electric meter!' He was worried, not angry. He blocked the gap with tape. It was the right thing to do, because a meter box is dangerous for birds. But where were we to go now?
+
+That evening Nila sat on the step with her chin on her knees and watched me. She didn't put out bread. She just watched. She watched me fly to the corner of the yard where nobody went, where the grass was long and there was a tangle of what her father called weeds. She watched me come out with something green and wriggling in my beak.
+
+'Amma,' she said, 'what is the sparrow eating?'
+
+Her mother looked. 'A caterpillar, I think.'
+
+'Not bread?'
+
+'Baby sparrows can't eat bread,' her mother said slowly. 'I remember now. Your Paati used to say it. They need soft insects, caterpillars and little grubs. Lots of them.'
+
+Nila thought about this. She watched me again. She saw me fly to the meter box and find it taped, and sit on the wire, and look at the smooth grey wall. Then she did something no one had done before. Instead of deciding what I needed, she watched to see what I was looking for.
+
+'Amma,' she said, 'he isn't hungry. He wants a house.'
+
+The next Sunday Nila and her mother made a box from old wooden planks left over from the building work. It had a sloping roof, so the rain ran off, and a round hole in the front about 3 centimetres wide. 'Any bigger and the mynas can get in,' said her mother, who had looked it up. They hung it high on the wall under the edge of the roof, out of the afternoon sun, where cats could not reach.
+
+Then Nila went to her father and said, 'Please don't cut the weeds in the corner. The caterpillars live there.'
+
+Her father looked at her for a long moment. 'It looks untidy,' he said.
+
+'It's the sparrows' kitchen,' said Nila.
+
+Her father laughed, and the weeds stayed.
+
+I did not trust the box at first. It smelled of new wood and people. I sat on the wire for three days and looked at it. Then my wife went in, and came out, and went in again, and I knew. We carried in straw and threads, a pigeon's feather, and a bit of red wool that Nila left on the windowsill for us.
+
+Now, in the dark of the box, four chicks are cheeping. All day I fly to the sparrows' kitchen in the corner and back. Caterpillar. Grub. Caterpillar. Little green fly. Nila sits on the step and counts my trips on her fingers. Yesterday she ran out of fingers and borrowed her father's.
+
+I never ate her bread again. But I think she knows that I am grateful.
+
+**For the parent:** Nila first gives Chirri what she imagines a sparrow needs (bread), and it doesn't help. The turn comes when she stops deciding and starts watching. She sees that Chirri needs shelter (a hole for a nest) and the right food for chicks (insects from the 'weeds'). The hidden idea is the habitat: every animal needs their own kind of food, water and shelter, and caring means finding out what another living thing really needs.
+
+- Ask: Why didn't the bread help Chirri?
+- Ask: What did Chirri really need? How did Nila find out?
+- Ask: Why was the new concrete house a problem for sparrows?
+- Ask: Nila's father called the long grass 'weeds'. Nila called it 'the sparrows' kitchen'. Who was right?
+- Ask: What could you watch, near your home, to find out what an animal needs?
 
 ## Games
 ### g1 · Trap, Swallow or Safe? A card sorting game (12 min)
@@ -315,6 +379,34 @@ On the railing, the grey pigeon was back, pecking at a few grains of rice. Both 
   *Parent does:* Count the sticks together. Put the string in a bag in the dry waste.  
   *Parent says:* How many sticks did we fill? What could this string have done to a bird if we had left the string here?  
   *Child mode:* Count your sticks. Put the string in the dry waste.
+### old1 · Water Bowl and Bug Hotel: two homes for small visitors (15 min)
+- **problem:** Small creatures need water to drink and a safe, dry place to hide. In a city flat they often have neither. In this activity you give them both on a balcony, a window ledge or a quiet corner of the building.
+- **safety:** A grown-up cuts the bottle and covers the sharp edge with tape. Wash hands after you handle sticks, soil or bark. Never lean over a railing.
+- **record:** Draw each visitor you see, or write what it was and the day. Check every day for a week.
+- **s1 (4 min)**  
+  *Parent does:* 1. Choose a shady, quiet place on a balcony, a window ledge or a corner of the building. 2. Put the dish there. 3. Fill it with water, 2 to 3 centimetres deep. 4. Put the stone in the middle, so the top of the stone is above the water.  
+  *Parent says:* Small birds and bees need to drink. They cannot swim, so they need a stone to stand on.  
+  *Child mode:* Put the dish in a shady, quiet place. Fill it with water. Put a stone in the middle.
+  - Note: If you have no balcony, a window ledge or the corner of a school or building works. Use a lid of a jar if you have no dish.
+- **s2 (2 min) · grown-up needed**  
+  *Parent does:* A grown-up cuts the bottle in half across the middle and keeps the half with the closed bottom. Cover the cut edge all round with tape, so nobody can be scratched.  
+  *Parent says:* A grown-up must do the cutting. Plastic edges can scratch.  
+  *Child mode:* Ask a grown-up to cut the bottle and tape the edge. Stay back while they cut.
+- **s3 (5 min)**  
+  *Parent does:* Your child packs the half bottle tightly with sticks, rolled cardboard, dry leaves and bark. Push them in firmly so they do not fall out.  
+  *Parent says:* Small creatures like tight, dry spaces. Pack it full, with lots of little holes.  
+  *Child mode:* Pack the bottle tightly with sticks, cardboard, leaves and bark. Push each thing in firmly.
+  - Ask: Why must the hotel stay dry? (good: Wet leaves go mouldy.; Small creatures need a dry place to hide.)
+- **s4 (2 min)**  
+  *Parent does:* Lay the bottle on its side in a quiet corner, with its open end facing away from the wind and under a cover. Rain should not run into it.  
+  *Parent says:* This is the hotel. The open end is the door. Put it where rain cannot get in.  
+  *Child mode:* Lay the hotel on its side in a quiet corner. The open end is the door.
+- **s5 (2 min)**  
+  *Parent does:* Make a plan for the week. Change the water every day, so mosquitoes cannot lay eggs in it. Check the hotel each day. Draw any visitors in the notebook.  
+  *Parent says:* Why must we change the water every day? Mosquitoes can lay eggs in still water, and the young hatch in a few days.  
+  *Child mode:* Change the water every day. Check the hotel every day. Draw each visitor.
+  - Ask: Which small visitors do you think will come first, and why? (good: Ants or bees, because the water is easy to find.; Small insects, because they like to hide in tight spaces.)
+  - Note: In summer the dish dries up fast, so refill it. In the rainy season, empty it after a heavy shower and cover the hotel. Visitors may take a few days to arrive, and that is normal.
 
 ## Projects
 ### p1 · Our Loop-Free Week (35 min, 7 days)
@@ -334,6 +426,35 @@ On the railing, the grey pigeon was back, pecking at a few grains of rice. Both 
   *Parent says:* If every home in our building snipped this many, how many traps would we stop?  
   *Child mode:* Add up the week. Tell a neighbour what you found.
   - Check: Why do we snip loops before they go in the bin? → **So an animal at the dump cannot get trapped in them**
+### old2 · Our Tiny Nature Reserve: a protected corner for two weeks (70 min, 14 days)
+- **safety:** A grown-up holds the pots on a high ledge. Never lean over a railing. Wash hands after you touch soil.
+- **record:** A plan, a sign and a care chart with 14 rows. Each row says Watered? and Who visited?
+- **schedule:** day 1: Choose a corner of a balcony, window ledge or school, about one square metre. Draw a plan. (10 min); day 2: Give the reserve a name and one rule. Make a sign. (10 min); day 3: Plant tulsi, marigold or ixora. Set out the water bowl and the bug hotel. (10 min); day 4: Water the plants, change the water in the bowl, and tick the care chart. Write who visited. (3 min); day 5: Water the plants, change the water in the bowl, and tick the care chart. Write who visited. (3 min); day 6: Water the plants, change the water in the bowl, and tick the care chart. Write who visited. (3 min); day 7: Water the plants, change the water in the bowl, and tick the care chart. Write who visited. (3 min); day 8: Water the plants, change the water in the bowl, and tick the care chart. Write who visited. (3 min); day 9: Water the plants, change the water in the bowl, and tick the care chart. Write who visited. (3 min); day 10: Water the plants, change the water in the bowl, and tick the care chart. Write who visited. (3 min); day 11: Water the plants, change the water in the bowl, and tick the care chart. Write who visited. (3 min); day 12: Water the plants, change the water in the bowl, and tick the care chart. Write who visited. (3 min); day 13: Water the plants, change the water in the bowl, and tick the care chart. Write who visited. (3 min); day 14: Show the family and the neighbours who visited. Count the visitors. (10 min)
+- **s1 (10 min)**  
+  *Parent does:* 1. Choose a corner about one square metre, on a balcony, a window ledge, a school or a building. 2. Draw a plan on chart paper with the water bowl, the bug hotel, the plants and a sign.  
+  *Parent says:* Which corner gets some sun and some shade? Where will the water bowl and the hotel go?  
+  *Child mode:* Choose a corner. Draw a plan with the water bowl, the bug hotel, the plants and a sign.
+  - Note: If you have no outdoor corner, a window ledge with one pot and a water dish is enough.
+- **s2 (10 min)**  
+  *Parent does:* Your child gives the reserve a name and one rule, such as 'No sweeping away the dead leaves' or 'No spraying poison'. Write both on a card sign and tape it up.  
+  *Parent says:* Every reserve has a name and a rule. What will yours be?  
+  *Child mode:* Give your reserve a name. Make one rule. Write them on a sign.
+  - Ask: Why is spraying poison against the rule? (good: It kills the small creatures we want to visit.; It can harm bees and butterflies, which need the flowers.)
+- **s3 (10 min)**  
+  *Parent does:* 1. Plant one seedling of tulsi, marigold or ixora in the pot. 2. Put the water dish with a stone in it, and the bug hotel, in the corner. 3. Make the care chart with a row for each day.  
+  *Parent says:* Tulsi, marigold and ixora flowers give food to bees and butterflies. Plants, water and a hiding place are what a visitor needs.  
+  *Child mode:* Plant the seedling. Put out the water and the hotel. Make a care chart.
+- **s4 (30 min)**  
+  *Parent does:* Each day, your child waters the plant, changes the water in the dish, and ticks the care chart. They write down who visited, or draw it.  
+  *Parent says:* Who came today? Did anything stay in the hotel?  
+  *Child mode:* Water the plant. Change the water in the bowl. Tick the chart and write who visited.
+  - Note: If a seedling dies, plant another and write it on the chart. In heavy rain, empty the dish and cover the hotel. Visitors may take days to come. That is normal.
+  - Wait: Do this every day for 10 days
+- **s5 (10 min)**  
+  *Parent does:* Add up the visitors on the chart. Your child shows the family and the neighbours the reserve, and says who came and what helped.  
+  *Parent says:* Who came to our reserve? What did they need? What would you add next?  
+  *Child mode:* Show the reserve to your family and neighbours. Tell them who came.
+  - Ask: What would you add to make more visitors come? (good: More flowers for bees and butterflies.; A shadier place for the water.)
 
 ## Challenges
 ### c1 · A Kite Day That Is Safe for Birds (25 min)
@@ -383,7 +504,7 @@ On the railing, the grey pigeon was back, pecking at a few grains of rice. Both 
 1. (write) Someone says, 'The pigeon could break the kite string if she pulled harder.' What would you tell them? Use what you found in the Wet Loop Test.  
    **Answer:** Nylon string is a plastic. In the test, the plastic loop only stretched and did not tear, even when wet. So pulling harder would not break it, and it could cut her foot.. *Why:* A strong answer uses the plastic loop as evidence, and says that plastic stays strong when wet.
 2. (mcq) In the wet loop test, why did we keep one paper loop dry?  
-   Options: To see what the water did to the paper / Because there was not enough water / To have a spare loop  
+   Options: Because there was not enough water / To have a spare loop / To see what the water did to the paper  
    **Answer:** To see what the water did to the paper. *Why:* The dry loop held and the wet loop tore. The only difference was the water, so the water made the paper weak.
 3. (draw) In the bag-in-the-bucket test, a thin bag drifted in the water. Draw a sea turtle seeing a floating bag and a jellyfish side by side.  
    **Answer:** A drawing of a turtle with a puffed-open bag and a jellyfish that look alike.. *Why:* A strong drawing shows why the turtle could mix them up: both are thin, pale and drifting.
@@ -409,10 +530,10 @@ On the railing, the grey pigeon was back, pecking at a few grains of rice. Both 
 
 ## Quiz
 1. (mcq) What is our environment?  
-   Options: Everything around us: air, water, land and all living beings / Only forests far away / Only the trees on our street  
+   Options: Only forests far away / Everything around us: air, water, land and all living beings / Only the trees on our street  
    **Answer:** Everything around us: air, water, land and all living beings. *Why:* Our environment is everything around us, living and non-living, including us.
 2. (mcq) Which of these is a non-living part of the environment?  
-   Options: Rain water / A sparrow / A tulsi plant  
+   Options: A sparrow / A tulsi plant / Rain water  
    **Answer:** Rain water. *Why:* Water is not alive, but every living being needs it. The sparrow and the tulsi are alive.
 3. (mcq) What are the two main ways litter harms animals?  
    Options: They get trapped in it, or they eat it / It makes them too cold, or too hot / It makes them sleep, or sing  
@@ -421,22 +542,22 @@ On the railing, the grey pigeon was back, pecking at a few grains of rice. Both 
    Options: It stretched but stayed whole / It tore at once too / It melted  
    **Answer:** It stretched but stayed whole. *Why:* Plastic does not soak up water, so it stays strong when wet. That is why a plastic loop can trap a bird.
 5. (mcq) Why is plastic litter more dangerous to animals than paper litter?  
-   Options: Plastic stays strong in water and lasts for years / Plastic is heavier than paper / Plastic is always brightly coloured  
+   Options: Plastic is heavier than paper / Plastic stays strong in water and lasts for years / Plastic is always brightly coloured  
    **Answer:** Plastic stays strong in water and lasts for years. *Why:* Wet paper goes weak and rots away. Plastic stays strong and lasts, so it can trap or harm animals for a long time.
 6. (mcq) Why might a sea turtle swallow a floating plastic bag?  
-   Options: The bag drifts like a jellyfish, which turtles eat / Turtles eat plastic to grow / The bag tastes sweet  
+   Options: Turtles eat plastic to grow / The bag drifts like a jellyfish, which turtles eat / The bag tastes sweet  
    **Answer:** The bag drifts like a jellyfish, which turtles eat. *Why:* A thin bag in water puffs open and drifts like a jellyfish. Many scientists think turtles mix them up.
 7. (mcq) You find a rubber band in your dry waste. What should you do before it goes in the bin?  
-   Options: Snip it open / Tie it in a knot / Wash it  
+   Options: Tie it in a knot / Wash it / Snip it open  
    **Answer:** Snip it open. *Why:* A snipped band is a strip, which cannot close round an animal's foot or beak.
 8. (mcq) Which bag makes the least litter?  
    Options: A cloth bag used again and again / A new plastic bag each day / A new paper bag each day  
    **Answer:** A cloth bag used again and again. *Why:* A bag used hundreds of times means hundreds fewer bags thrown away.
 9. (mcq) Village women hear that loggers are coming to cut down their forest. They have no weapons and no power. What could they do that might save the trees?  
-   Options: Hold on to the trees so they cannot be cut down / Plant rice / Build a dam  
+   Options: Plant rice / Build a dam / Hold on to the trees so they cannot be cut down  
    **Answer:** Hold on to the trees so they cannot be cut down. *Why:* Standing with the trees means the loggers cannot cut them without hurting people. Many people together, peacefully, are hard to ignore. Women in the Himalayas really did this, and it was called Chipko, 'to hug'.
 10. (mcq) A rare stork nests in tall trees near villages. People cut the trees and chase the birds away. What would help the storks most?  
-   Options: Village people guarding the nests and the nesting trees / A king giving an order / A football team playing nearby  
+   Options: A king giving an order / Village people guarding the nests and the nesting trees / A football team playing nearby  
    **Answer:** Village people guarding the nests and the nesting trees. *Why:* The storks need their nesting trees and peace while they raise their young. People who live nearby can protect both every day.
 11. (truefalse) Nylon kite string is banned in India because it hurts birds and people.  
    **Answer:** True. *Why:* True. In 2017 the National Green Tribunal banned nylon and other plastic kite string across India.
@@ -449,11 +570,11 @@ On the railing, the grey pigeon was back, pecking at a few grains of rice. Both 
 - Village women in Assam protect the nesting trees of the greater adjutant stork.
 
 ## Spotted around us
-- Kite string hanging from trees and wires in Ahmedabad, Hyderabad and Jaipur after the kite festivals.
+- Kite string hanging from trees and wires after the kite festivals.
 - Cows searching through roadside waste heaps in many Indian towns.
 - Green bins for wet waste and blue bins for dry waste in many Indian cities.
-- The banyan trees Saalumarada Thimmakka planted along a road near Kudur in Karnataka, now giant trees.
-- Greater adjutant storks nesting in village trees in Assam, guarded by the Hargila Army.
+- A row of banyan trees planted along a road, now giant trees.
+- A big stork nesting in a village tree. People who guard the nests help the stork's family.
 
 ## Open questions
 - **How long does a plastic bag really last?** Plastic bags have only been around for about 60 years, so nobody has watched one for hundreds of years. Scientists make careful guesses, and they do not all agree.
@@ -486,11 +607,17 @@ Snip the Loop (sci.environment.L2): Topic-level song for Caring for the environm
 
 ## Links
 - [National Green Tribunal of India](https://greentribunal.gov.in/) · interactive: For the parent: India's court for the environment, which banned nylon kite string in 2017.
-- [Keoladeo National Park]() · place · Bharatpur: A protected wetland where thousands of water birds spend the winter.
-- [Pallikaranai Marsh]() · place · Chennai: A protected marsh inside the city, home to many water birds, and a place where people have worked to stop dumping.
-- [Chilika Lake]() · place · Odisha: A huge lagoon where many birds spend the winter and dolphins live.
+- Keoladeo National Park · place · Bharatpur: A protected wetland where thousands of water birds spend the winter.
+- Pallikaranai Marsh · place · Chennai: A protected marsh inside the city, home to many water birds, and a place where people have worked to stop dumping.
+- Chilika Lake · place · Odisha: A huge lagoon where many birds spend the winter and dolphins live.
 
 ## Things to buy
+- [The Curious Garden by Peter Brown](https://www.amazon.in/s?k=The+Curious+Garden) (book): A boy finds a few struggling plants on an old railway and cares for them until the whole grey city turns green. It shows that one person's care can change a place. Used in a1. Read it together after the lesson on caring for the environment.
+- [The Lorax by Dr. Seuss](https://www.amazon.in/s?k=The+Lorax) (book): A funny story about a creature who speaks for the trees and the trouble that follows when they are all cut down. It leads the child to ask what each of us can do. Used in a1. Read it together after the lesson, then talk about what we can look after.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Wet Loop Test: which litter could a bird pull free from?. About ₹10 to ₹30. Any school ruler is fine. Used in e1. Get it before The Wet Loop Test: which litter could a bird pull free from?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Water Bowl and Bug Hotel: two homes for small visitors. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in old1. Get it before Water Bowl and Bug Hotel: two homes for small visitors.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Terrace String Sweep (after a kite festival, if you have a terrace), Water Bowl and Bug Hotel: two homes for small visitors, Our Tiny Nature Reserve: a protected corner for two weeks. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in a3, old1, old2. Get it before Terrace String Sweep (after a kite festival, if you have a terrace).
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is our environment? → Everything around us, living and non-living, including us.
@@ -502,14 +629,14 @@ Snip the Loop (sci.environment.L2): Topic-level song for Caring for the environm
 
 ## Plan
 - Start options: intro, e1, story, g1, cards, a1
-- Default order: intro → e1 → summary → terms → explanations → story → g1 → a1 → ws-core → e2 → g2 → a2 → agreed → challenging → p1 → c1 → a3 → ws-stretch → big_questions → videos → open_questions → roots → quiz
+- Default order: intro → e1 → summary → terms → explanations → story → g1 → a1 → ws-core → e2 → g2 → a2 → agreed → challenging → p1 → c1 → a3 → ws-stretch → big_questions → videos → open_questions → roots → quiz → old2 → old1
 - Core: e1, g1, a1, ws-core
 
 ## Sources
 - ideas/by_topic/caring-for-the-environment.md: mostly climate activities for older levels. Its Rachel Carson card is already used in the Level 1 unit, so it is not repeated here.
-- ideas/by_topic/waste.md: 'Waste is not a waste' week and the reduce-waste-at-home project. Waste sorting, rotting and recycling are taught in the sci.waste units, so this unit keeps to harm to animals and care.
+- ideas/by_topic/waste.md: 'Waste is not a waste' week and the reduce-waste-at-home project. Waste sorting, rotting and recycling are taught in the sci.waste units, so this lesson keeps to harm to animals and care.
 - Board chapter: Cambridge Primary Science Stage 2, 1.5 'How can we care for our environment?' (litter harming animals, recycling, protected places, a survey of places near home). The survey is activity a2, and protected places are in the links and the Hargila Army story.
-- Ladder: sci.environment.caring.L1 (rain carries litter to the drain, ants, caring for a plant) comes before. This unit moves on to what happens when animals meet litter, and why the material matters. It leads to sci.environment.caring.L3 (the living and non-living environment, the closed box) and the pollution and conservation units.
+- Ladder: sci.environment.caring.L1 (rain carries litter to the drain, ants, caring for a plant) comes before. This lesson moves on to what happens when animals meet litter, and why the material matters. It leads to sci.environment.caring.L3 (the living and non-living environment, the closed box) and the pollution and conservation units.
 - Charlton-Howard H. S., Bond A. L., Rivers-Auty J. and Lavers J. L. (2023). 'Plasticosis': characterising macro- and microplastic-associated fibrosis in seabird tissues. Journal of Hazardous Materials. Flesh-footed shearwater chicks on Lord Howe Island; scarring linked to plastic, not to pumice.
 - National Green Tribunal, order of 11 July 2017, banning nylon and synthetic kite string (manja) across India.
 - Schuyler Q. and others (2014). Global analysis of anthropogenic debris ingestion by sea turtles. Conservation Biology. Turtles commonly swallow plastic. That they mistake bags for jellyfish is a widely held but still studied explanation.

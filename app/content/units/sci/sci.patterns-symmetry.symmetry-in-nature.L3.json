@@ -99,6 +99,24 @@
    "meaning": "A pattern drawn on the ground at the doorstep, usually with rice flour, in Tamil Nadu and other parts of South India. A rangoli is a coloured floor pattern made in many parts of India, and has other names: alpona in Bengal, jhoti in Odisha and pookalam (made of flowers) in Kerala. Many kolams and rangolis are drawn with symmetry.",
    "example": "A pulli kolam is drawn around a grid of dots. The line loops round the dots without touching them.",
    "art": "A white pulli kolam of curved loops around a 3 by 3 grid of dots, at the door of a flat."
+  },
+  {
+   "term": "Reflection",
+   "meaning": "A reflection is a flip, like the picture in a mirror. Left and right swap over.",
+   "example": "Hold your right hand up to a mirror. The hand in the mirror looks like a left hand.",
+   "art": "A right hand in front of a mirror and a left hand in the mirror."
+  },
+  {
+   "term": "Translation",
+   "meaning": "A translation is a slide. The shape moves along without turning or flipping.",
+   "example": "Push a book straight along a table without turning it. The book has slid, and that is a translation.",
+   "art": "A book on a table with an arrow showing it sliding along without turning."
+  },
+  {
+   "term": "Tessellation",
+   "meaning": "A tessellation is shapes that fit together with no gaps and no overlaps. Floor tiles and honeycombs are tessellations.",
+   "example": "The six-sided cells of a honeycomb fit together with no gaps, so they make a tessellation.",
+   "art": "A honeycomb of six-sided cells filling the whole picture."
   }
  ],
  "explanations": [
@@ -111,7 +129,8 @@
     "A butterfly: one line of symmetry, no rotational symmetry.",
     "The letter S or the letter Z: no line of symmetry, but order 2 rotational symmetry.",
     "A square kolam with four matching loops: four lines of symmetry and order 4.",
-    "Your hand: neither kind."
+    "Your hand: neither kind.",
+    "A row of the same flower printed along the border of a sari repeats by sliding: each flower is the same one moved along, not flipped or turned."
    ],
    "perspectives": [],
    "art": "Four boxes: a butterfly with one dotted line, the letter S with a half-turn arrow, a square kolam with both, and a hand with a question mark.",
@@ -634,11 +653,11 @@
       "t": "mcq",
       "q": "A pattern is made by drawing one quarter, then copying it by turning the sheet a quarter turn each time. What kind of symmetry does the finished pattern always have?",
       "options": [
-       "Rotational symmetry of order 4",
        "Exactly one line of symmetry",
+       "Rotational symmetry of order 4",
        "No symmetry"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Copying by turning gives a pattern that looks the same after each quarter turn, so it has order 4. It has lines of symmetry as well only if the lines in the first quarter were themselves mirror images."
      }
     }
@@ -817,12 +836,12 @@
       "t": "mcq",
       "q": "Nobody drew the hexagons in the bubble raft. What made them?",
       "options": [
-       "The lid has hexagons printed on it",
        "Each middle bubble was pressed equally on every side by bubbles of the same size",
+       "The lid has hexagons printed on it",
        "Soap is made of tiny hexagons",
        "The sugar"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Every middle bubble had neighbours of the same size pressing equally from every side, and soap walls pull themselves short. The even push all round gave an even, six-sided shape. At the edge the push was not the same on every side, so the shape was lopsided. Soap itself is not six-sided, and the lid is plain."
      },
      "parent": "A strong answer uses the edge bubbles as evidence: same soap, same lid, same size, but a different push around them, and a different shape."
@@ -930,11 +949,11 @@
       "q": "Two bhindis and two lemons are cut across. Both bhindis have 5 seed rows. One lemon has 9 segments and the other has 11. What does this show?",
       "options": [
        "The lemons were cut wrongly",
-       "Some kinds of fruit keep the same number of parts, and others vary",
        "Lemons have no rotational symmetry at all",
+       "Some kinds of fruit keep the same number of parts, and others vary",
        "Bhindi is not a fruit"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The number of parts in a fruit is set by the flower it grew from. Each part grew from one part of the flower's centre. Bhindi flowers are very regular, so bhindis of one kind usually show the same number every time. Lemon flowers vary more, so lemons do too. Both lemons still have rotational symmetry, just a different order."
      },
      "parent": "The parts inside a fruit grew from the flower's centre, one part for each section. Each section holds and feeds a row of seeds."
@@ -1032,11 +1051,11 @@
       "t": "mcq",
       "q": "You turn a leaf all the way round. It only looks the same when the bindi comes back to the start. What does that mean?",
       "options": [
-       "The leaf has no rotational symmetry",
        "The leaf has order 4",
-       "The leaf has no line of symmetry"
+       "The leaf has no line of symmetry",
+       "The leaf has no rotational symmetry"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Everything looks the same after a full turn. A thing that matches only then has order 1, which means no rotational symmetry. The leaf may still have a line of symmetry down its middle vein."
      }
     },
@@ -1203,10 +1222,10 @@
       "q": "Why does every cut appear on all six arms of the paper snowflake?",
       "options": [
        "The scissors cut six times by magic",
-       "All the layers were stacked together, so one cut went through every layer at once",
-       "Paper is made of hexagons"
+       "Paper is made of hexagons",
+       "All the layers were stacked together, so one cut went through every layer at once"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The paper was folded into twelve stacked layers, so one cut went through all of them. Half of the layers are flipped, so each arm is also a mirror image down its middle. A real snowflake is similar in one way: all six arms meet the same air at the same moment, so each change in the air shapes all six arms together."
      }
     }
@@ -1579,11 +1598,11 @@
       "t": "mcq",
       "q": "Your four-blade pinwheel looks the same after each quarter turn, but it has no fold line. Why does that help it spin?",
       "options": [
-       "All the blades are bent the same way round, so they all push the air the same way and turn the pinwheel one way",
        "Paper spins better without fold lines",
-       "Pins only work with no fold lines"
+       "Pins only work with no fold lines",
+       "All the blades are bent the same way round, so they all push the air the same way and turn the pinwheel one way"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Every blade is tilted the same way round, so each one turns the pinwheel in the same direction. If it had a fold line, half the blades would be bent the other way and push it the other way, so the pushes would cancel out."
      }
     },
@@ -1705,12 +1724,12 @@
    "t": "mcq",
    "p": "You fold a picture of a butterfly down the middle, and the two halves match exactly. What is the fold called?",
    "opts": [
-    "A line of symmetry",
     "A centre",
+    "A line of symmetry",
     "An order",
     "A hexagon"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The fold that splits a shape into two matching halves is a line of symmetry, also called a mirror line. 'Centre' is the point a shape turns around, which is for rotational symmetry.",
    "outcome": 0
   },
@@ -1744,12 +1763,12 @@
    "t": "mcq",
    "p": "You make a raft of same-sized soap bubbles and cover it with a clear lid. What shape are most of the bubbles in the middle?",
    "opts": [
+    "Six-sided",
     "Circles",
     "Squares",
-    "Six-sided",
     "Triangles"
    ],
-   "a": 2,
+   "a": 0,
    "why": "Each bubble in the middle is pressed equally by about six neighbours, and the walls meet three at a time at equal angles. So most become six-sided. If you guessed squares, try it: four walls meeting at a point slide apart into threes.",
    "outcome": 2,
    "how": "e1"
@@ -1758,12 +1777,12 @@
    "t": "mcq",
    "p": "In a bubble raft, why are the bubbles at the edge lopsided?",
    "opts": [
-    "They are older bubbles",
     "They are pressed by bubbles on one side only",
+    "They are older bubbles",
     "The soap is thinner at the edge",
     "The lid is bent"
    ],
-   "a": 1,
+   "a": 0,
    "why": "An edge bubble has neighbours on one side and open water or the plate on the other. The push is not the same all round, so the shape is not even. The middle bubbles have the same push from every side.",
    "outcome": 6,
    "how": "e1"
@@ -1812,11 +1831,11 @@
    "p": "A tulsi flower has one line of symmetry and a lip at the bottom. How does this help the plant?",
    "opts": [
     "The lip holds water",
-    "Bees land on the lip the same way up every time, so pollen touches the same place on each bee",
     "The lip scares away ants",
+    "Bees land on the lip the same way up every time, so pollen touches the same place on each bee",
     "It makes the flower bigger"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A bee always lands on the lip the right way up. So the pollen is put on the same part of her body each time, and touches the next flower in the right place.",
    "outcome": 4
   },
@@ -1824,12 +1843,12 @@
    "t": "mcq",
    "p": "Why do fish, ants and people have a left side and a right side that nearly match?",
    "opts": [
-    "They move forward, so they meet the world front first and their two sides meet it in the same way",
     "Their mothers fold them",
     "Water makes them even",
+    "They move forward, so they meet the world front first and their two sides meet it in the same way",
     "They live in cities"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Animals that move forward have their mouth and eyes at the front, and their left and right sides meet the world in the same way. Animals that drift, like jellyfish, are often the same all the way round.",
    "outcome": 4
   },
@@ -1850,12 +1869,12 @@
    "t": "mcq",
    "p": "A money plant beside a window has more leaves on the window side. What does this break in her symmetry tell you?",
    "opts": [
-    "The window side got more light",
     "She is ill",
     "The pot is cracked",
+    "The window side got more light",
     "Plants always grow on one side"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A break in symmetry is a clue that one side met something different. Here, light came from the window, and the plant grew more leaves where she could make more food.",
    "outcome": 6
   }
@@ -2015,11 +2034,11 @@
      "p": "A butterfly needs two matching wings. What is the main reason?",
      "opts": [
       "To look pretty",
-      "So both wings push the same amount of air and she flies straight",
       "To hide from the rain",
+      "So both wings push the same amount of air and she flies straight",
       "So she can fold them into a box"
      ],
-     "a": 1,
+     "a": 2,
      "why": "When both wings push the same amount of air, she flies straight to flowers and away from birds. A butterfly with one big wing would turn in circles."
     },
     {
@@ -2121,12 +2140,12 @@
      "t": "mcq",
      "p": "In a raft of soap bubbles, one bubble in the middle is much smaller than its neighbours. How many walls is it most likely to have?",
      "opts": [
-      "Fewer than 6",
       "Exactly 6",
       "More than 6",
-      "None"
+      "None",
+      "Fewer than 6"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Smaller bubbles in a foam tend to have fewer walls, and bigger ones more. Only bubbles of the same size, pressed equally, come out as six-sided hexagons.",
      "how": "e1"
     },
@@ -2231,12 +2250,12 @@
      "t": "mcq",
      "p": "Which capital letter has both a line of symmetry and order 2 rotational symmetry?",
      "opts": [
-      "H",
       "A",
       "S",
-      "F"
+      "F",
+      "H"
      ],
-     "a": 0,
+     "a": 3,
      "why": "H matches when folded across the middle or down the middle, and it looks the same after half a turn. A has only a fold line, S only a turn, and F neither."
     },
     {
@@ -2256,11 +2275,11 @@
      "p": "You fold a paper square into 8 layers and cut a snowflake. How many arms will it have?",
      "opts": [
       "6",
-      "4 or 8",
       "12",
+      "4 or 8",
       "3"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Folding into 8 gives a four-fold or eight-fold pattern, not six. A real snowflake has six arms. To get six, you fold the paper into three after the first two folds."
     },
     {
@@ -2268,11 +2287,11 @@
      "p": "A snowflake falls past a warm chimney, so one side meets warmer air than the other. What will its arms most likely look like?",
      "opts": [
       "All six still match perfectly",
-      "The arms on the warm side grow differently from the others",
       "It will grow eight arms",
-      "It becomes a bubble"
+      "It becomes a bubble",
+      "The arms on the warm side grow differently from the others"
      ],
-     "a": 1,
+     "a": 3,
      "why": "The arms match only when they all meet the same air. If one side meets different air, those arms grow differently and the symmetry breaks. The break shows where the air was different."
     },
     {
@@ -2280,11 +2299,11 @@
      "p": "A bubble raft sits right next to a ruler lying in the plate. What will the bubbles touching the ruler look like?",
      "opts": [
       "Hexagons like the middle ones",
-      "Flat on the side touching the ruler",
       "Perfect circles",
+      "Flat on the side touching the ruler",
       "Triangles"
      ],
-     "a": 1,
+     "a": 2,
      "why": "The ruler presses on one side only, so the walls touching it are straight and the bubbles are lopsided, like the edge bubbles at the rim of the plate. Wherever the push changes, the shape changes.",
      "how": "e1"
     },
@@ -2632,7 +2651,57 @@
    "why": "During Margazhi (mid-December to mid-January), the streets around the temple fill with large kolams, and there is often a kolam contest. Look for lines of symmetry and turn symmetry."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-seeing-symmetry",
+   "item": "Seeing Symmetry by Loreen Leedy",
+   "kind": "book",
+   "why": "Clear pictures of line and rotational symmetry in letters, shapes, nature and art, with ideas to try at home. It gives the child more examples to check for flips and turns.",
+   "url": "https://www.amazon.in/s?k=Seeing+Symmetry",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Read it together after the symmetry experiments."
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in My Two Halves: how even is my body?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "a5"
+   ],
+   "plan": "Get it before My Two Halves: how even is my body?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in My Two Halves: how even is my body?, Tile the Floor: which shape covers it with no gaps?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "a5",
+    "c2"
+   ],
+   "plan": "Get it before My Two Halves: how even is my body?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "What is a line of symmetry?",

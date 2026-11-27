@@ -693,11 +693,11 @@
       "t": "mcq",
       "q": "At 8 pm the pointer stars point to 12 o'clock. At 2 am, where do they point?",
       "options": [
-       "9 o'clock",
        "3 o'clock",
+       "9 o'clock",
        "6 o'clock"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Six hours is a quarter turn, and the stars turn anticlockwise, the opposite way to a clock hand. So from 12 the arrow goes back to 9. If you picked 3 o'clock, you turned the arrow the way a clock hand goes."
      },
      "parent": "If a child turns the arrow the wrong way, ask them to look at a real clock and then to turn the arrow the opposite way. The stars circle anticlockwise when you look north."
@@ -1075,11 +1075,11 @@
       "t": "mcq",
       "q": "The star moved about one and a half fists in one hour. A fist is about 10 degrees. About how many degrees did it move?",
       "options": [
-       "About 15 degrees",
        "About 1 degree",
+       "About 15 degrees",
        "About 90 degrees"
       ],
-      "a": 0,
+      "a": 1,
       "why": "One and a half fists is 1.5 times 10, which is 15 degrees. This matches the rate at which the Earth spins, 360 degrees in 24 hours, which is 15 degrees an hour. If you picked 1 degree, you may have counted a fist as one degree. A fist is about ten."
      },
      "parent": "With 2 to 4 children, each child counts with their own fist and writes their own table. Compare: a child's fist at arm's length is a little smaller than 10 degrees, so a child may count nearer 1.8 fists than 1.5. Counts differ a little, but all show the same steady turn. One child can be the timekeeper."
@@ -1372,11 +1372,11 @@
       "t": "mcq",
       "q": "In July, Sagittarius is highest at midnight. Which group of stars is hidden by the Sun's glare that month?",
       "options": [
-       "Gemini, on the opposite side of the sky from Sagittarius",
        "Sagittarius",
-       "Scorpius, next to Sagittarius"
+       "Scorpius, next to Sagittarius",
+       "Gemini, on the opposite side of the sky from Sagittarius"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The Sun is on the opposite side of the Earth from the midnight sky. So the group directly across the circle from the midnight group is the one near the Sun. If you picked Sagittarius, you chose the midnight group. Scorpius is next to it, so it is up in the evening."
      }
     },
@@ -1517,11 +1517,11 @@
       "t": "mcq",
       "q": "The string from the equator to the pole is 18 centimetres long and stands for 90 degrees. About where is the mark for 45 degrees?",
       "options": [
-       "At 9 centimetres, halfway",
        "At 4.5 centimetres",
+       "At 9 centimetres, halfway",
        "At 18 centimetres"
       ],
-      "a": 0,
+      "a": 1,
       "why": "45 degrees is half of 90, so the mark is halfway along the string, at 9 centimetres. If you picked 4.5, you took a quarter instead of a half. 18 centimetres is the pole itself."
      }
     },
@@ -1807,11 +1807,11 @@
       "t": "mcq",
       "q": "The line moved back by 5 minute-marks in four weeks. Each minute-mark is 6 degrees. About how many hours of the sky's turning is that?",
       "options": [
-       "About 2 hours",
        "About 5 hours",
-       "About 30 hours"
+       "About 30 hours",
+       "About 2 hours"
       ],
-      "a": 0,
+      "a": 2,
       "why": "5 marks of 6 degrees is 30 degrees. The sky turns 15 degrees an hour, so 30 degrees is 2 hours. So a month from now, the sky at the same clock time looks the way tonight's sky looks 2 hours later. This happens because the Earth has moved on round the Sun for a month. If you picked 5 hours, you may have counted the marks as hours."
      },
      "parent": "From day 1 to day 29 is 28 days, so the line should have moved about 28 degrees, which is about 4 to 5 minute-marks. Being a mark out is fine. The line moves because the stars rise about 4 minutes earlier each day, which adds up to about 2 hours of turning in a month."
@@ -1904,11 +1904,11 @@
       "t": "mcq",
       "q": "On your scale drawing, 1 centimetre stands for 2 metres. The crossing point is 19 centimetres from a. How far is the tree from spot A?",
       "options": [
-       "About 38 metres",
        "About 19 metres",
+       "About 38 metres",
        "About 9.5 metres"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Each centimetre stands for 2 metres, so 19 centimetres stands for 19 times 2, which is 38 metres. If you picked 19, you forgot to double. If you picked 9.5, you halved instead of doubling."
      },
      "parent": "With 2 to 4 children, give out jobs: one holds the board and aims, one stands at the far marker, one measures the baseline, one writes down. Swap and compare the three drawings; the middle answer is the one to trust."
@@ -1945,12 +1945,12 @@
      "t": "mcq",
      "p": "Why do the stars seem to cross the sky during a night?",
      "opts": [
-      "The Earth spins, so we turn past the stars",
       "The stars all circle the Earth once a day",
       "The Sun pushes the stars across the sky",
-      "The stars are on a dome that the Moon turns"
+      "The stars are on a dome that the Moon turns",
+      "The Earth spins, so we turn past the stars"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The Earth spins once in about a day, and we spin with it. So the sky seems to turn the other way, like scenery seen from a train. 'The stars all circle the Earth' is what people believed for thousands of years. Long photos of star trails and the Foucault pendulum show that the Earth is what turns.",
      "outcome": 0
     },
@@ -2033,12 +2033,12 @@
      "t": "mcq",
      "p": "A traveller walks north, from Chennai towards Delhi. What happens to the Pole Star's height above the horizon?",
      "opts": [
-      "It slowly rises higher",
       "It slowly sinks lower",
       "It stays the same",
-      "It moves to the south"
+      "It moves to the south",
+      "It slowly rises higher"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The Pole Star's height equals the latitude, and latitude grows as you go north. So the star climbs. Picking 'stays the same' is a natural idea, because the star never seems to move. It moves only when the traveller does.",
      "outcome": 2
     },
@@ -2061,12 +2061,12 @@
      "t": "mcq",
      "p": "A star rises at 9 pm tonight. About what time will it rise one month from now?",
      "opts": [
-      "About 7 pm",
       "About 9 pm",
       "About 11 pm",
-      "About 3 pm"
+      "About 3 pm",
+      "About 7 pm"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A star rises about 4 minutes earlier each day, so after 30 days it rises about 2 hours earlier. 9 pm take away 2 hours is 7 pm. Picking 11 pm goes the wrong way. Picking 9 pm forgets that the Earth has moved.",
      "outcome": 3
     },
@@ -2111,12 +2111,12 @@
      "t": "mcq",
      "p": "You hold a pencil at arm's length and swap eyes. Then you bring the pencil to half that distance and swap eyes again. What do you see?",
      "opts": [
-      "The jump against the wall is about twice as big",
       "The jump is the same",
+      "The jump against the wall is about twice as big",
       "The jump is much smaller",
       "The pencil does not jump at all"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The nearer a thing is, the more the two eyes disagree about where it is. At half the distance, the jump is about twice as big. Picking 'the same' means forgetting that near things change more than far things.",
      "how": "e1",
      "outcome": 4
@@ -2168,12 +2168,12 @@
      "t": "mcq",
      "p": "Canopus gives out about 400 times as much light as Sirius, yet Sirius looks brighter in the sky. What does this tell you?",
      "opts": [
-      "Sirius must be much nearer to us than Canopus",
       "Sirius must be hotter than Canopus",
+      "Sirius must be much nearer to us than Canopus",
       "Canopus must be moving away",
       "The sky is darker near Sirius"
      ],
-     "a": 0,
+     "a": 1,
      "why": "How bright a star looks depends on how much light it gives out and how far away it is. Canopus is truly far more powerful, but it is about 310 light-years away. Sirius is only about 8.6 light-years away, so it looks brighter.",
      "outcome": 5
     },
@@ -2395,12 +2395,12 @@
      "t": "mcq",
      "p": "The Pole Star is about 0.7 degrees away from the exact north pole of the sky. What does this do to the rule that its height equals your latitude?",
      "opts": [
-      "The rule is right to within about a degree",
       "The rule is completely wrong",
       "The rule works only in Delhi",
+      "The rule is right to within about a degree",
       "The rule works only at the equator"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Because the star is a fraction of a degree from the pole, it makes a small circle round the pole each day, and its height changes by up to about 0.7 degrees. For measuring with a straw and a protractor, that is far less than the error of the tool. So the rule is useful to about a degree.",
      "outcome": 2
     },
@@ -2444,12 +2444,12 @@
      "t": "mcq",
      "p": "In about 12,000 years, a different star will be near the north celestial pole. What is the best reason?",
      "opts": [
-      "The Earth's axis slowly wobbles and points at different stars",
       "The stars all move towards the pole",
       "The Pole Star will burn out",
+      "The Earth's axis slowly wobbles and points at different stars",
       "The Earth will stop spinning"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The Earth's axis traces a slow circle in the sky because of a wobble called precession. It makes a complete circle in about 26,000 years. Picking 'the stars move towards the pole' is wrong, because stars move only very slowly.",
      "outcome": 1
     },
@@ -2490,12 +2490,12 @@
      "t": "mcq",
      "p": "What are stars made of, mostly?",
      "opts": [
-      "Hydrogen and helium",
       "Iron and rock",
+      "Hydrogen and helium",
       "Oxygen and nitrogen",
       "Carbon and water"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Cecilia Payne showed in 1925 that stars are made mostly of hydrogen and helium. Most people at the time believed stars were made of the same stuff as the Earth. Iron and rock are rare in stars.",
      "outcome": 5
     },
@@ -2526,12 +2526,12 @@
      "t": "mcq",
      "p": "A visitor says: 'The stars are twinkling, so they must be giving out light unevenly.' What is the best reply?",
      "opts": [
-      "The flicker is made by the Earth's moving air, and stars seen from space do not twinkle",
       "You are right, stars flicker like candles",
       "The stars are being pulled by the Moon",
-      "Stars twinkle because they are close"
+      "Stars twinkle because they are close",
+      "The flicker is made by the Earth's moving air, and stars seen from space do not twinkle"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Twinkling happens in the air above us, where patches of different temperature bend the light. Photographs taken from space telescopes show steady stars. The visitor's idea is natural, because it looks as if the star itself flickers.",
      "outcome": 6
     },
@@ -2572,12 +2572,12 @@
    "t": "mcq",
    "p": "What is special about the position of the Pole Star?",
    "opts": [
-    "The Earth's axis points almost straight at it",
     "It is the nearest star to the Earth",
+    "The Earth's axis points almost straight at it",
     "It is the star that the Sun passes in front of",
     "It is exactly overhead everywhere in India"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The Pole Star lies almost exactly along the line the Earth spins round. That is why it seems to stay still while the others turn. It is not near, and it is not overhead in India. In Chennai it is only about a fist above the northern horizon.",
    "outcome": 1
   },
@@ -2585,12 +2585,12 @@
    "t": "mcq",
    "p": "A traveller sees the Pole Star 20 degrees above the northern horizon. About what is her latitude?",
    "opts": [
-    "About 20 degrees north",
     "About 70 degrees north",
     "About 20 degrees south",
-    "About 90 degrees north"
+    "About 90 degrees north",
+    "About 20 degrees north"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The Pole Star's height equals the latitude, so 20 degrees high means about 20 degrees north. Picking 70 gives the angle measured down from straight overhead instead. At 90 degrees north, you stand at the pole.",
    "outcome": 2
   },
@@ -2611,12 +2611,12 @@
    "t": "mcq",
    "p": "Why can Orion not be seen at night in June?",
    "opts": [
-    "The Sun is near Orion in the sky, so Orion is up in the day and hidden by sunlight",
     "Orion moves to the other side of the Earth",
+    "The Sun is near Orion in the sky, so Orion is up in the day and hidden by sunlight",
     "Orion is switched off in summer",
     "The Moon covers Orion"
    ],
-   "a": 0,
+   "a": 1,
    "why": "In June, the Earth is on the side of its orbit where the Sun lies in the direction of Orion. At night we look away from the Sun, so we look at other stars. Orion is up in the day, but daylight hides it.",
    "outcome": 3
   },
@@ -2624,12 +2624,12 @@
    "t": "mcq",
    "p": "How much earlier does a star rise each night?",
    "opts": [
-    "About 4 minutes",
     "About 1 hour",
     "About 15 minutes",
-    "The same time every night"
+    "The same time every night",
+    "About 4 minutes"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The Earth moves about one degree round the Sun each day, so we have to turn about a degree further to face a star. That takes about 4 minutes. Over a year, the 4 minutes add up to a whole day.",
    "outcome": 3
   },
@@ -2650,12 +2650,12 @@
    "t": "mcq",
    "p": "Why do astronomers use the Earth's orbit as the baseline for measuring the distance to a star?",
    "opts": [
-    "Stars are so far away that only a very long baseline gives a shift big enough to measure",
     "The Earth's orbit is a perfect circle",
+    "Stars are so far away that only a very long baseline gives a shift big enough to measure",
     "Astronomers cannot use their eyes",
     "The Sun's light helps to measure it"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The longer the baseline, the bigger a star's shift. The Earth's orbit is about 300 million kilometres wide, and it is the longest baseline astronomers can use without leaving the solar system.",
    "outcome": 4
   },
@@ -2663,12 +2663,12 @@
    "t": "mcq",
    "p": "Sirius is the brightest star in the night sky, but there are stars far more powerful than it. Why does Sirius look so bright?",
    "opts": [
-    "It is very near, only about 8.6 light-years away, and it is also quite powerful",
     "It is the hottest star in the sky",
+    "It is very near, only about 8.6 light-years away, and it is also quite powerful",
     "It is the largest star in the sky",
     "It is moving towards us fast"
    ],
-   "a": 0,
+   "a": 1,
    "why": "How bright a star looks depends on both its distance and its true brightness. Sirius gives out about 25 times as much light as the Sun, and it is very near. Stars like Rigel are much more powerful, but they are far away.",
    "outcome": 5
   },
@@ -2689,12 +2689,12 @@
    "t": "mcq",
    "p": "Why do stars twinkle while planets usually shine steadily?",
    "opts": [
-    "A star is a point of light that the moving air bends all at once, and a planet is a tiny disc whose flickers average out",
     "Stars are hotter than planets",
+    "A star is a point of light that the moving air bends all at once, and a planet is a tiny disc whose flickers average out",
     "Planets make their own steady light",
     "Stars are closer than planets"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The air bends the light of a star as a single point, so it seems to flicker. A planet's light comes from a tiny disc, and the flickers cancel out. Planets do not make light, and stars are farther than planets.",
    "outcome": 6
   },
@@ -3016,6 +3016,94 @@
     "a3"
    ],
    "plan": "Use them after the Twinkle and Colour activity, on a clear winter night, to look at the Pleiades and at Orion."
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in The Jump of Your Thumb: can a pencil's jump tell you how far away it is?, Measure the Unreachable: how far is a tree you cannot walk to?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "e1",
+    "c1"
+   ],
+   "plan": "Get it before The Jump of Your Thumb: can a pencil's jump tell you how far away it is?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Jump of Your Thumb: can a pencil's jump tell you how far away it is?, How High Is the Pole Star? Measure your latitude from the sky, Ball, Straw and Far Star: why the Pole Star stands higher as you go north. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e3",
+    "a2",
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before The Jump of Your Thumb: can a pencil's jump tell you how far away it is?."
+  },
+  {
+   "id": "b-modelling-clay-or-plasticine",
+   "item": "Modelling clay or plasticine",
+   "kind": "material",
+   "why": "Used in Ball, Straw and Far Star: why the Pole Star stands higher as you go north, Measure the Unreachable: how far is a tree you cannot walk to?. About ₹40 to ₹120. Atta dough mixed with a little salt works.",
+   "url": "https://www.amazon.in/s?k=modelling+clay+plasticine",
+   "used_in": [
+    "a2",
+    "c1"
+   ],
+   "plan": "Get it before Ball, Straw and Far Star: why the Pole Star stands higher as you go north."
+  },
+  {
+   "id": "b-paper-masking-tape",
+   "item": "Paper masking tape",
+   "kind": "material",
+   "why": "Used in The Jump of Your Thumb: can a pencil's jump tell you how far away it is?, The Year in a Room: a lamp, a ring of star cards and a walk round the Sun. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor.",
+   "url": "https://www.amazon.in/s?k=paper+masking+tape",
+   "used_in": [
+    "e1",
+    "a1"
+   ],
+   "plan": "Get it before The Jump of Your Thumb: can a pencil's jump tell you how far away it is?."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in How High Is the Pole Star? Measure your latitude from the sky. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "e3"
+   ],
+   "plan": "Get it before How High Is the Pole Star? Measure your latitude from the sky."
+  },
+  {
+   "id": "b-postcards-or-plain-cards",
+   "item": "Postcards or plain cards",
+   "kind": "material",
+   "why": "Used in How High Is the Pole Star? Measure your latitude from the sky, The Year in a Room: a lamp, a ring of star cards and a walk round the Sun. About ₹5 to ₹20. Cut card from a cereal box.",
+   "url": "https://www.amazon.in/s?k=blank+postcards",
+   "used_in": [
+    "e3",
+    "a1"
+   ],
+   "plan": "Get it before How High Is the Pole Star? Measure your latitude from the sky."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

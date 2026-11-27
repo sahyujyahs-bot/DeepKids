@@ -176,7 +176,7 @@
    "concept": "Why two careful people get different numbers",
    "status": "defined",
    "definition": "A number means nothing without its unit. Six big coins and twelve small coins can be exactly the same pull.",
-   "description": "In the coin-pull test, you and a grown-up may get different numbers for the same notebook. Both of you can be right. You were counting different small pulls. To compare, you have to find how many of one unit make the other. It is like changing rupees into dollars. Now suppose every town used its own coins, buttons or stones. Nobody could compare a pull in Madurai with a pull in Patna. A builder could not order a rope strong enough for a bridge. That is why people agreed to share one unit of force.",
+   "description": "In the coin-pull test, you and a grown-up may get different numbers for the same notebook. Both of you can be right. You were counting different small pulls. To compare, you have to find how many of one unit make the other. It is like changing rupees into dollars. Now suppose every town used its own coins, buttons or stones. Nobody could compare a pull in Madurai with a pull in Patna. A builder could not order a rope strong enough for a bridge. That is why people agreed to share one unit of force. The same is true of length, mass and volume. Every shop in India measures cloth in metres, so a metre bought in Madurai is the same length as a metre bought in Patna. A litre of milk holds the same amount in Kochi as in Kolkata. A hand span or a cup from the kitchen would give a different answer in each house.",
    "examples": [
     "Suppose one five-rupee coin pulls as hard as two one-rupee coins. Then 6 big coins match 12 small ones.",
     "A grown-up's step is longer than yours. The room is the same, but the number of steps is not.",
@@ -1067,12 +1067,12 @@
       "t": "mcq",
       "q": "A 1 litre water bottle pulls down with about 10 newtons. Which rung of the force ladder is that?",
       "options": [
+       "Medium: 10 newtons or more, but less than 1,000",
        "Tiny: less than 1 newton",
        "Small: 1 newton or more, but less than 10",
-       "Medium: 10 newtons or more, but less than 1,000",
        "Huge: 1,000 newtons or more"
       ],
-      "a": 2,
+      "a": 0,
       "why": "About 10 newtons is the very bottom of the Medium rung. Picking Small usually means 10 was counted as Small, but the Small rung stops just before 10. Picking Tiny or Huge usually means the size of a newton is not clear yet. Hold an apple: that is about 1 newton. The bottle is about ten apples."
      },
      "parent": "10 newtons sits right at the start of the Medium rung. Point out that the Small rung stops just before 10."
@@ -1263,12 +1263,12 @@
       "t": "mcq",
       "q": "In the coin-pull test, your three tries were 6, 7 and 9 coins. Which number is the fairest one to use?",
       "options": [
-       "6, the smallest",
        "7, the middle one",
+       "6, the smallest",
        "9, the biggest",
        "22, all of them added"
       ],
-      "a": 1,
+      "a": 0,
       "why": "7, the middle number. It sits between the others, so one odd try doesn't pull it away. Picking 22 adds the tries, but each try was one pull, not three. Picking the smallest or the biggest trusts one try more than the others."
      },
      "context": "This is the main part of the coin-pull investigation. You count the coins it takes to start one notebook sliding."
@@ -1306,11 +1306,11 @@
       "q": "In the coin-pull test, you needed 6 big coins to slide the notebook. A grown-up needed 12 small coins for the same notebook. What does this show?",
       "options": [
        "The grown-up found a bigger pull",
-       "The notebook changed",
        "It was the same pull, counted in different units",
+       "The notebook changed",
        "One of you made a mistake"
       ],
-      "a": 2,
+      "a": 1,
       "why": "It was the same notebook on the same table, so it needed the same pull. The numbers differ because the coins differ. Each big coin pulls harder than a small one, so fewer were needed. Picking 'a bigger pull' means trusting a number without its unit. Picking 'a mistake' is a fair thing to check, but both counts can be right."
      },
      "parent": "Lighter coins mean more coins for the same pull. To compare the two units, rest a ruler on a round pencil. Put one big coin on one end. Add small coins to the other end until it balances. Coins from different years weigh different amounts, so the answer may not be a whole number.",
@@ -1443,11 +1443,11 @@
       "t": "mcq",
       "q": "With nothing on the hook, your forcemeter's pointer is on 1 newton. What will happen to your readings?",
       "options": [
-       "They will all be 1 newton too big",
        "They will all be right",
+       "They will all be 1 newton too big",
        "They will all be 1 newton too small"
       ],
-      "a": 0,
+      "a": 1,
       "why": "They will all be 1 newton too big, because the pointer starts 1 newton down the scale before anything pulls. Picking 'all right' usually means the zero check seems unimportant. Picking 'too small' usually means the scale is read the wrong way round. Turn the zero screw first, or take 1 away from every reading."
      }
     },
@@ -1678,11 +1678,11 @@
       "t": "mcq",
       "q": "You stand on a bathroom scale and press down hard on a table beside you. What happens to the number?",
       "options": [
-       "It goes up",
        "It goes down",
+       "It goes up",
        "It stays the same"
       ],
-      "a": 1,
+      "a": 0,
       "why": "It goes down. The table now holds up part of you, so your feet push less on the scale. Picking 'goes up' usually means pushing hard feels like adding weight. Picking 'stays the same' usually means the scale is thought to show how much of you there is. It really shows your push."
      },
      "how": "e2",
@@ -2154,11 +2154,11 @@
       "q": "The pointer is on the small mark halfway between 7 and 8. Each small mark is half a newton. What is the reading?",
       "options": [
        "7 newtons",
-       "7 and a half newtons",
        "8 newtons",
+       "7 and a half newtons",
        "75 newtons"
       ],
-      "a": 1,
+      "a": 2,
       "why": "7 and a half newtons. The pointer is past 7 by one small mark, and each small mark is half a newton. Picking 7 or 8 usually means the small marks were not counted. Picking 75 usually means the 7 and the half were read together as one big number."
      }
     },
@@ -2912,12 +2912,12 @@
      "t": "mcq",
      "p": "In the coin-pull test, you use only five-rupee coins, never a mix of coins. Why does that matter?",
      "opts": [
-      "Each five-rupee coin pulls the same amount, so every coin is the same-sized step",
       "Five-rupee coins are shinier",
       "A mix of coins would make the notebook heavier",
-      "It does not matter at all"
+      "It does not matter at all",
+      "Each five-rupee coin pulls the same amount, so every coin is the same-sized step"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A unit must be the same size every time, like every centimetre on a ruler. Coins of one kind all pull about the same. A mix of big and small coins pulls by different amounts, so counting them tells you nothing. Picking 'the notebook gets heavier' mixes up the cup's pull with the notebook.",
      "how": "e4"
     },
@@ -2981,11 +2981,11 @@
      "p": "Look at the forcemeter. Each small mark is half a newton. How hard is it being pulled?",
      "opts": [
       "3 newtons",
-      "3 and a half newtons",
       "4 newtons",
-      "35 newtons"
+      "35 newtons",
+      "3 and a half newtons"
      ],
-     "a": 1,
+     "a": 3,
      "why": "The pointer is on the small mark halfway between 3 and 4. Half a newton past 3 is 3 and a half newtons. Picking 3 or 4 means the small marks were not counted. Picking 35 means the 3 and the 5 were read as one number.",
      "chart": {
       "type": "scale",
@@ -3052,12 +3052,12 @@
      "t": "mcq",
      "p": "You pull a forcemeter with a sudden jerk. What does the pointer do?",
      "opts": [
-      "It jumps past the true reading for a moment",
       "It stays on zero",
+      "It jumps past the true reading for a moment",
       "It shows the true reading straight away",
       "It moves backwards"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A jerk makes the spring overshoot, so the pointer swings too far and then settles. That is why you pull slowly and steadily, and read the pointer only when it is still.",
      "how": "e1"
     },
@@ -3105,11 +3105,11 @@
      "p": "A small apple pulls down on your hand with about 1 newton. About how hard would a bag of 6 small apples pull?",
      "opts": [
       "About 1 newton",
-      "About 6 newtons",
       "About 60 newtons",
+      "About 6 newtons",
       "About 600 newtons"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Each apple adds about 1 newton, so 6 apples pull with about 6 newtons. Picking 60 or 600 means the newton was imagined much smaller than it is. A newton is a small force, about one apple.",
      "how": "a2"
     },
@@ -3118,6 +3118,16 @@
      "p": "Draw a forcemeter. Label the hook, the spring, the pointer and the scale. Then draw the pointer where it would be for a pull of 2 newtons.",
      "a": "A tube with a spring inside and a hook at the bottom. A pointer is fixed to the spring, next to a scale numbered 0, 1, 2, 3 and so on. The pointer is drawn level with the 2.",
      "why": "A strong drawing shows that the pointer is joined to the spring, so it moves when the spring stretches. The 2 newton pointer should be further from 0 than the 1 mark."
+    },
+    {
+     "t": "fill",
+     "p": "Every shop in India measures cloth in ____, so a metre of cloth is the same length in Madurai and Patna.",
+     "a": [
+      "metres",
+      "metre",
+      "m"
+     ],
+     "why": "The metre is a standard unit. Every shop uses the same metre rod. A hand span would give a different length for each person, so it cannot be shared fairly."
     }
    ],
    "context": "This core worksheet checks the main ideas: your own coin unit, why everyone shares the newton, and how a forcemeter works and is read."
@@ -3154,10 +3164,10 @@
      "opts": [
       "One that shows 0 to 10 newtons",
       "One that shows 0 to 50 newtons",
-      "One that shows 0 to 500 newtons",
-      "Any of them, they all work the same"
+      "Any of them, they all work the same",
+      "One that shows 0 to 500 newtons"
      ],
-     "a": 2,
+     "a": 3,
      "why": "A forcemeter can only show pulls inside its range. A 200 newton pull would stretch a 0 to 10 or 0 to 50 forcemeter past its end, and could spoil the spring for good. Picking 'any of them' means the range was not thought about."
     },
     {
@@ -3230,11 +3240,11 @@
      "p": "You hook your forcemeter to a grown-up's forcemeter and you both pull. You think, 'The grown-up is stronger, so their forcemeter will show more.' What is wrong with this idea?",
      "opts": [
       "Nothing. The stronger person's forcemeter shows more",
-      "Both forcemeters always show the same, because each pull comes with an equal pull back",
       "The weaker person's forcemeter shows more",
-      "Two forcemeters can't be hooked together"
+      "Two forcemeters can't be hooked together",
+      "Both forcemeters always show the same, because each pull comes with an equal pull back"
      ],
-     "a": 1,
+     "a": 3,
      "why": "When the grown-up pulls harder, the pull on your side grows too, by exactly the same amount. Both forcemeters feel the one pull that passes through them. Being stronger lets the grown-up pull you along, but the readings stay equal.",
      "how": "a4"
     },
@@ -3395,12 +3405,12 @@
      "t": "mcq",
      "p": "A lift is falling freely, with nothing slowing it down. Inside, a bag hangs from a forcemeter. What does the forcemeter show while the lift falls?",
      "opts": [
-      "Zero, because the bag and the forcemeter fall together",
       "More than usual",
+      "Zero, because the bag and the forcemeter fall together",
       "The same as usual",
       "It cannot be known"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The bag and the forcemeter fall together at the same speed, so the bag does not pull on the spring at all. Gravity is still there, but nothing holds the bag back against it. Astronauts float for the same reason. Einstein used this idea to think about gravity in a new way."
     },
     {
@@ -3430,12 +3440,12 @@
      "t": "mcq",
      "p": "People often say 'about 10 newtons' for a 1 kilogram bag. Why do scientists say 'about', and not exactly 10?",
      "opts": [
-      "On Earth, the real number is about 9.8 newtons, and it changes a little from place to place",
       "Nobody has ever measured it",
       "Bags come in different colours",
+      "On Earth, the real number is about 9.8 newtons, and it changes a little from place to place",
       "Newtons are only a guess"
      ],
-     "a": 0,
+     "a": 2,
      "why": "On Earth, 1 kilogram pulls down with about 9.8 newtons. It is a tiny bit more at the poles and a tiny bit less at the equator and on high mountains. 10 is close enough for everyday sums."
     },
     {
@@ -3495,12 +3505,12 @@
      "t": "mcq",
      "p": "One newton is the push that makes a 1 kilogram trolley speed up by 1 metre per second, every second. Now a 2 newton push acts on the same trolley, with nothing slowing it. What happens?",
      "opts": [
-      "It speeds up twice as fast",
       "It moves at the same steady speed",
+      "It speeds up twice as fast",
       "It speeds up just as fast as with 1 newton",
       "It stops"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A force changes how a thing moves. Twice the push on the same thing gives twice the speeding up. Picking 'steady speed' is the old idea that a push only keeps things going. Newton showed that a push changes the speed."
     },
     {
@@ -3530,11 +3540,11 @@
    "t": "mcq",
    "p": "You invent a unit of pull called 'one eraser'. What must all your erasers be like?",
    "opts": [
-    "The same kind and size, so each one pulls the same",
     "Any erasers at all",
+    "The same kind and size, so each one pulls the same",
     "Brightly coloured"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A unit only works if every one is the same size. Picking 'any erasers' means a big and a small eraser would count as the same, so your numbers would mean nothing.",
    "outcome": 0
   },
@@ -3542,23 +3552,35 @@
    "t": "mcq",
    "p": "A bridge builder in Chennai sends her numbers to a factory in Pune. Why must both of them use newtons?",
    "opts": [
-    "So the numbers mean the same thing in both places",
     "Because newtons are cheaper",
-    "Because Chennai is bigger than Pune"
+    "Because Chennai is bigger than Pune",
+    "So the numbers mean the same thing in both places"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A shared unit means a pull written in Chennai is the same pull when it is read in Pune. Without it, the factory could make parts that are too weak.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "A tailor in Jaipur measures cloth with his hand span. A tailor in Kochi uses a metre rod. Why is the metre rod fairer to the customer?",
+   "opts": [
+    "A metre rod is always heavier, so the cloth it measures is heavier",
+    "Every metre rod is the same length, so a metre of cloth means the same in both shops",
+    "A hand span is always the right size for cloth"
+   ],
+   "a": 1,
+   "why": "A hand span is different for every person, so the cloth measured in Jaipur could be longer or shorter than the same cloth measured in Kochi. A metre is the same in every shop, so a customer gets the same length anywhere. The heavy rod and the 'always right' hand span are both wrong.",
    "outcome": 1
   },
   {
    "t": "mcq",
    "p": "Which of these pulls down on your hand with about 1 newton?",
    "opts": [
-    "A small apple",
     "A school bag full of books",
-    "A feather"
+    "A feather",
+    "A small apple"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A small apple of about 100 grams pulls with about 1 newton. A full school bag is more like 30 or 40 newtons. A feather is far less than 1 newton.",
    "how": "a2",
    "outcome": 2
@@ -3567,11 +3589,11 @@
    "t": "mcq",
    "p": "The newton is named after Isaac Newton. Who decided how big one newton is?",
    "opts": [
-    "People agreed on it together, using the kilogram, the metre and the second",
     "Newton measured it inside an apple",
-    "Nature made it that size"
+    "Nature made it that size",
+    "People agreed on it together, using the kilogram, the metre and the second"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The newton is an agreement between people. It was named in 1948, long after Newton died in 1727. Picking 'nature' mixes up the force, which is real, with the unit we count it in, which people chose.",
    "outcome": 2
   },
@@ -3600,11 +3622,11 @@
    "t": "mcq",
    "p": "A boy reads a forcemeter from far below, looking up at the pointer. What can go wrong?",
    "opts": [
-    "The pointer looks shifted, so he may read the wrong mark",
     "The spring stretches more",
+    "The pointer looks shifted, so he may read the wrong mark",
     "Nothing can go wrong"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Looking from below or above makes the pointer seem to sit on a different mark. Reading with your eyes level with the pointer gives the true reading.",
    "how": "a3",
    "outcome": 3
@@ -3613,11 +3635,11 @@
    "t": "mcq",
    "p": "Why does a forcemeter use a spring, and not a stiff steel rod?",
    "opts": [
-    "A spring stretches more for a bigger pull, so the pointer can show the size",
     "A rod would be too heavy",
-    "Springs are prettier"
+    "Springs are prettier",
+    "A spring stretches more for a bigger pull, so the pointer can show the size"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The stretch is what shows the size of the pull. A stiff rod would hardly stretch at all, so the pointer would not move.",
    "outcome": 4
   },
@@ -3637,11 +3659,11 @@
    "t": "mcq",
    "p": "Before the coin-pull test, you guessed how many coins you would need, and said why. Why say a reason, not just a number?",
    "opts": [
-    "So after the test you can see whether your reason was right",
     "To make the test take longer",
-    "Because a reason changes the result"
+    "Because a reason changes the result",
+    "So after the test you can see whether your reason was right"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A guess with a reason can be checked. If the result surprises you, your reason was wrong somewhere, and you learn what to think again.",
    "how": "e4",
    "outcome": 5
@@ -3650,11 +3672,11 @@
    "t": "mcq",
    "p": "A girl tests two notebooks. She slides the thin one on a smooth table, and the thick one on a rough mat. What is unfair about her test?",
    "opts": [
-    "She changed two things at once, so she can't tell which one made the difference",
     "Nothing is unfair",
-    "She should use more coins"
+    "She should use more coins",
+    "She changed two things at once, so she can't tell which one made the difference"
    ],
-   "a": 0,
+   "a": 2,
    "why": "In a fair test, you change only one thing. She changed the notebook and the surface, so if the numbers differ, she can't say why.",
    "how": "e4",
    "outcome": 5
@@ -3688,11 +3710,11 @@
    "t": "mcq",
    "p": "Which of these do scientists still not know?",
    "opts": [
-    "What gravity really is, deep down",
     "How to measure a pull in newtons",
+    "What gravity really is, deep down",
     "Whether a spring stretches when it is pulled"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Measuring forces is well understood. What gravity is, deep down, is still an open question. Newton, Einstein and physicists today give different answers.",
    "outcome": 7
   }
@@ -4174,6 +4196,58 @@
    "used_in": [
     "g1"
    ]
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Invent a Unit: how many coins to pull a notebook?, The Pull Detective: which pull at home is biggest?, Read It Right: the forcemeter drill. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e4",
+    "e1",
+    "a3",
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before Invent a Unit: how many coins to pull a notebook?."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Can Your Hands Be Fooled? The Big Box and the Small Box. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "e3"
+   ],
+   "plan": "Get it before Can Your Hands Be Fooled? The Big Box and the Small Box."
+  },
+  {
+   "id": "b-clean-sand--a-small-bag",
+   "item": "Clean sand (a small bag)",
+   "kind": "material",
+   "why": "Used in Can Your Hands Be Fooled? The Big Box and the Small Box. About ₹20 to ₹60. Fine soil sieved from a pot works.",
+   "url": "https://www.amazon.in/s?k=play+sand+small+bag",
+   "used_in": [
+    "e3"
+   ],
+   "plan": "Get it before Can Your Hands Be Fooled? The Big Box and the Small Box."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

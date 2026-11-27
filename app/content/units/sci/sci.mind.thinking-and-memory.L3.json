@@ -105,6 +105,12 @@
    "meaning": "Something you have done so often that you do it without deciding to.",
    "example": "Washing your hands as soon as you come home, without anyone telling you.",
    "art": "A child at a wash basin, washing hands, with a school bag dropped by the door."
+  },
+  {
+   "term": "Reflex",
+   "meaning": "A reflex is a quick action the body does without you deciding. The signal goes to a nearby part of the spine and back, so it is faster than a thought.",
+   "example": "When you touch a hot dosa pan, your hand jumps away before you can think. That jump is a reflex.",
+   "art": "A child's hand jumping back from a hot pan, with a short arrow looping to the spine."
   }
  ],
  "explanations": [
@@ -119,7 +125,12 @@
     "While you sleep, your brain keeps your heart beating and your lungs breathing.",
     "When you read a word, your brain turns black marks on paper into a meaning."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Daniel Simons and Christopher Chabris, USA (1999)",
+     "explanation": "In 1999 Simons and Chabris asked people to watch a short film of players passing basketballs and count the passes made by one team. Partway through, a person in a gorilla suit walks into the middle, thumps their chest and walks off, and about half the viewers did not notice the gorilla at all. The result has been repeated many times and shows that attention is limited. It matters for road safety, because drivers busy with phones can miss people crossing."
+    }
+   ],
    "art": "A child crossing a lane carefully, with dotted lines from her eyes and ears to her head, and from her head down to her legs."
   },
   {
@@ -517,10 +528,10 @@
       "q": "You want to remember a long market list. Which trick will help you most?",
       "options": [
        "Saying each thing very fast",
-       "Making a story that joins the things",
-       "Shutting your eyes tight"
+       "Shutting your eyes tight",
+       "Making a story that joins the things"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A story joins each thing to the next, so one brings back the other. Saying things fast does not give them any links. Shutting your eyes can help you picture the story, but on its own it does not join the things."
      }
     },
@@ -626,11 +637,11 @@
       "t": "mcq",
       "q": "Why does saying 'TN 59, AB, 12, 34' help you remember?",
       "options": [
-       "You hold four groups instead of ten separate letters and digits",
        "Saying it makes the plate bigger",
+       "You hold four groups instead of ten separate letters and digits",
        "The letters are easier than the digits"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Your short-term memory can hold only a few things at once. Grouping turns ten small things into four bigger ones. This is called chunking. It is why phone numbers are often written in groups."
      }
     },
@@ -770,10 +781,10 @@
       "q": "The next day, a child remembered 3 words from the repeat list and 8 from the story list. What does this suggest?",
       "options": [
        "Story lists always have easier words",
-       "Making a story helped the child remember more",
-       "The child is better at remembering on some days"
+       "The child is better at remembering on some days",
+       "Making a story helped the child remember more"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Both lists had ten everyday words, and both were tested at the same time of day. The only planned change was the way they were learned. So the story probably helped. The two lists had different words, so for a fairer check someone else can do it the other way round: list A as a story and list B repeated."
      }
     },
@@ -788,11 +799,11 @@
       "t": "mcq",
       "q": "Why does a story help you remember a list?",
       "options": [
-       "Each word is joined to others, so one word brings back the next",
        "Stories are louder in your head",
-       "Your brain only keeps stories and throws away other words"
+       "Your brain only keeps stories and throws away other words",
+       "Each word is joined to others, so one word brings back the next"
       ],
-      "a": 0,
+      "a": 2,
       "why": "In a story, each word is linked to the words around it and to a picture in your mind. When you recall one, it leads you to the next. Repeated words stand alone, so when one is lost, nothing leads back to it. Your brain does keep other words too, but words with more links last longer."
      }
     }
@@ -1213,10 +1224,10 @@
       "q": "A brain is about 2% of the body's weight. How much of the body's energy does it use?",
       "options": [
        "Almost none",
-       "About a fifth",
-       "All of it"
+       "All of it",
+       "About a fifth"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The brain uses about one fifth of the body's energy, even though it is small. Its billions of neurons are sending signals all day and all night, even while you sleep. That is why such a small part of the body needs so much energy."
      }
     }
@@ -1355,11 +1366,11 @@
       "t": "mcq",
       "q": "In the model, what does tracing line B ten times stand for?",
       "options": [
-       "Practising something many times",
        "Forgetting something",
+       "Practising something many times",
        "Sleeping"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Tracing the same line again and again stands for practice. Each time you practise, the links between the neurons you use get stronger, like the line getting deeper. The model is not a picture of a real brain. It only shows that using a path again and again makes it last."
      }
     }
@@ -1514,6 +1525,88 @@
     {
      "art": "The girl pointing to a blue crayon and saying 82, with a tick on a notebook page.",
      "caption": "2. See the colour again. Say its number."
+    }
+   ]
+  },
+  {
+   "id": "old1",
+   "title": "The Neuron Squeeze: pass a message down a line",
+   "mins": 10,
+   "days": 1,
+   "context": "In this activity a line of people holding hands passes a squeeze from one to the next, and you time it. You will feel how a message passes from nerve cell to nerve cell, and why real nerve cells are much faster than people.",
+   "problem": "A message from your finger to your brain passes along a chain of nerve cells called neurons. In this activity each person plays one neuron, and each joined pair of hands is a synapse, the place where one neuron passes the message on to the next.",
+   "materials": [
+    {
+     "item": "at least 3 people, more is better",
+     "qty": 3
+    },
+    {
+     "item": "a phone timer that shows seconds",
+     "qty": 1
+    },
+    {
+     "item": "a pencil and paper",
+     "qty": 1
+    }
+   ],
+   "record": "Write the three times in seconds. Then write the time for the 'go' try.",
+   "setup": [
+    {
+     "art": "Five people sitting in a line, holding hands, the first one holding a phone timer.",
+     "caption": "1. Sit in a line, holding hands."
+    },
+    {
+     "art": "A hand squeezing the next person's hand along a line of people, the last person raising their hand.",
+     "caption": "2. Pass the squeeze from person to person. The last one says 'Done!'."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 2,
+     "do": "Everyone sits in a line, holding hands. Say that each person is a neuron and each pair of joined hands is a synapse.",
+     "say": "Each of us is a nerve cell. Our hands are the places where one cell passes the message to the next. When the first person squeezes, we pass it on as fast as we can.",
+     "kid": "Sit in a line and hold hands. You are a neuron."
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "do": "1. The first person starts the timer and squeezes the next person's hand. 2. Each person squeezes the next as soon as they feel it. 3. The last person says 'Done!' and stops the timer. 4. Do it three times and write each time.",
+     "say": "Squeeze the next hand as soon as you feel it. How long did the message take? Does it get faster with practice?",
+     "kid": "Squeeze the next hand as soon as you feel a squeeze. Do it three times. Write each time.",
+     "ask": [
+      {
+       "q": "Did the message get faster with practice?",
+       "good": [
+        "Yes, a little.",
+        "Not much, because each of us needed time to feel it first."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s3",
+     "mins": 2,
+     "do": "Now pass the message by saying 'go' to the next person instead of squeezing. Time it once. Compare with the squeeze.",
+     "say": "Now whisper 'go' to the next person. Is it faster or slower than the squeeze?",
+     "kid": "Pass the message by saying 'go'. Is it faster or slower?"
+    },
+    {
+     "id": "s4",
+     "mins": 2,
+     "do": "Work out how long the message would take if each person were a real neuron. If the line is 5 people and about 5 metres long, and the fastest nerves carry messages about 100 metres every second, then 5 ÷ 100 = 0.05 seconds. That is much faster than the line.",
+     "say": "In the fastest nerves, messages travel about 100 metres a second. Our line took much longer. Why? Each of us has to feel the squeeze and decide, and real neurons do not need to.",
+     "kid": "Compare your time with 0.05 seconds. Why was your line so much slower?",
+     "ask": [
+      {
+       "q": "Why is the real body so much faster than our line?",
+       "good": [
+        "Real neurons pass the message by tiny electrical and chemical signals.",
+        "We took time to feel and think, but a neuron passes it on at once."
+       ]
+      }
+     ],
+     "parent": "The model leaves things out. A real neuron carries the message as a tiny electrical signal along its length, and a chemical crosses the synapse to the next neuron."
     }
    ]
   }
@@ -1692,11 +1785,11 @@
       "t": "mcq",
       "q": "Why does linking the tablet to the 7 o'clock news help Thatha?",
       "options": [
-       "The news reminds him of the task he does at the same time every day",
        "The news is loud",
+       "The news reminds him of the task he does at the same time every day",
        "It makes the tablet work better"
       ],
-      "a": 0,
+      "a": 1,
       "why": "When a new task is joined to something you already do every day, the old habit brings the new task back to mind. Doing it at the same time and place again and again turns it into a habit too."
      }
     }
@@ -1765,11 +1858,11 @@
       "t": "mcq",
       "q": "Suppose you group Amma's list into kitchen shelf, fridge, vegetables, fruit and cleaning. Why does this help?",
       "options": [
-       "You remember five groups, and each group brings back its four things",
        "Groups make the list shorter",
-       "Shops are easy to spell"
+       "Shops are easy to spell",
+       "You remember five groups, and each group brings back its four things"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Five groups are easy to hold. When you remember 'fridge', it brings back milk, curd, eggs and paneer. The list is still twenty things long, but now the groups link the things together."
      }
     }
@@ -1818,10 +1911,10 @@
    "p": "Which of these is a job of your brain?",
    "opts": [
     "Pumping blood",
-    "Remembering your friend's name",
-    "Breaking down food"
+    "Breaking down food",
+    "Remembering your friend's name"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Remembering is a brain job. The heart pumps blood, and the stomach and gut break down food, though the brain helps control them.",
    "outcome": 0
   },
@@ -1830,10 +1923,10 @@
    "p": "How do neurons pass messages to each other?",
    "opts": [
     "They touch and swap places",
-    "A message crosses a tiny gap called a synapse",
-    "They send light to each other"
+    "They send light to each other",
+    "A message crosses a tiny gap called a synapse"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A message runs along a neuron as an electrical signal, then crosses the synapse as a chemical. Neurons do not swap places or send light.",
    "outcome": 0
   },
@@ -1853,11 +1946,11 @@
    "t": "mcq",
    "p": "Why does a skill get easier with practice?",
    "opts": [
-    "The links between the neurons you use get stronger",
     "Your hands grow new fingers",
-    "Your brain gets heavier every day"
+    "Your brain gets heavier every day",
+    "The links between the neurons you use get stronger"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Each time you practise, the links between the neurons you use get stronger, so the signal passes more easily. Your brain does not get noticeably heavier.",
    "outcome": 2
   },
@@ -1914,11 +2007,11 @@
    "t": "mcq",
    "p": "Grown-ups who spent years learning every street of a big city had their brains scanned before and after. A part used for finding the way grew bigger. What does this show?",
    "opts": [
-    "Grown-up brains can change when they learn",
     "Only children's brains change",
-    "Driving makes the brain smaller"
+    "Driving makes the brain smaller",
+    "Grown-up brains can change when they learn"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Their brains matched other people's before they started. After years of learning, the part for finding the way had grown. So grown-up brains change with learning.",
    "outcome": 5
   },
@@ -1939,10 +2032,10 @@
    "p": "Which of these beings can learn and remember?",
    "opts": [
     "Only people",
-    "Only animals with big brains",
-    "People, bees, dogs and plants"
+    "People, bees, dogs and plants",
+    "Only animals with big brains"
    ],
-   "a": 2,
+   "a": 1,
    "why": "People, bees, dogs and even touch-me-not plants learn from what happened before. Each does it in their own way.",
    "outcome": 6
   }
@@ -2044,11 +2137,11 @@
      "t": "mcq",
      "p": "In the Story Trick, you count backwards from 20 after hearing each list. Why?",
      "opts": [
-      "To make the test harder for the story list",
       "To stop you repeating the words in your head, so both lists are tested after the same kind of wait",
+      "To make the test harder for the story list",
       "Because counting helps memory"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Counting backwards keeps your mind busy, so you cannot keep saying the words to yourself. Both lists are then tested after the same kind of wait, which makes the test fair.",
      "how": "e1"
     },
@@ -2301,21 +2394,21 @@
      "p": "A child of eight hears a list of digits once and says them back. About how many digits can most children of that age hold?",
      "opts": [
       "About 2",
-      "About 5",
-      "About 20"
+      "About 20",
+      "About 5"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Most children of 8 can hold about 5 digits heard once, and most grown-ups about 7. That is why longer numbers are easier in groups."
     },
     {
      "t": "mcq",
      "p": "Why do doctors ask a person who has had a stroke to keep practising a movement?",
      "opts": [
-      "Practice can build new links around the damaged part",
       "The muscle needs to get tired",
+      "Practice can build new links around the damaged part",
       "Practice makes the brain heavier"
      ],
-     "a": 0,
+     "a": 1,
      "why": "After a stroke, part of the brain is damaged. Practice strengthens other links and builds new ones, so the brain can find a new way to do the movement."
     },
     {
@@ -2377,11 +2470,11 @@
      "t": "mcq",
      "p": "Scientists found that London taxi drivers had a bigger back part of the hippocampus. Then they scanned trainee drivers before they started learning the streets. Why?",
      "opts": [
-      "To check whether people with a big hippocampus simply chose to become drivers",
       "To find the best drivers",
-      "Because scans are cheaper for trainees"
+      "Because scans are cheaper for trainees",
+      "To check whether people with a big hippocampus simply chose to become drivers"
      ],
-     "a": 0,
+     "a": 2,
      "why": "If drivers were born with a bigger hippocampus, learning would not explain it. The trainees' brains matched other people's at the start. Only those who learned the streets and passed showed the growth. So the learning caused the change."
     },
     {
@@ -2394,11 +2487,11 @@
      "t": "mcq",
      "p": "A student says, 'I read my notes ten times, so I will remember them for the test.' What is the best advice for the student?",
      "opts": [
-      "Read them ten more times",
       "Close the notes and test yourself, on a few different days",
+      "Read them ten more times",
       "Copy the notes out neatly"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Reading again and again feels easy, but it adds few links. Trying to bring the notes back without looking, on different days, makes the memory much stronger. Copying neatly helps a little, but less."
     },
     {
@@ -2474,11 +2567,11 @@
      "t": "mcq",
      "p": "A Carnatic music teacher in Chennai makes new students sing the same simple exercises every day for months before they learn songs. Why?",
      "opts": [
-      "So the patterns become strong enough to sing without thinking",
       "Because songs are too loud",
+      "So the patterns become strong enough to sing without thinking",
       "Because the teacher has forgotten the songs"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Daily practice strengthens the links for the notes and patterns, until they come without effort. Then the student's attention is free for the song itself."
     },
     {
@@ -2491,22 +2584,22 @@
      "t": "mcq",
      "p": "Mary Calkins found that colours shown three times were remembered better than colours shown once. What is the best explanation?",
      "opts": [
-      "Each time you meet a pair, the link between them gets stronger",
       "Colours shown three times are brighter",
-      "The numbers with them were easier"
+      "The numbers with them were easier",
+      "Each time you meet a pair, the link between them gets stronger"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Seeing a pair again and again strengthens the link between the colour and the number. The colours and numbers were the same kind for every pair, so brightness or easy numbers do not explain it."
     },
     {
      "t": "mcq",
      "p": "A slime mould finds the shortest way through a maze to food, using one cell and chemical signals, not neurons. What does this suggest?",
      "opts": [
-      "Finding a way and leaving a trail does not need neurons",
       "Slime moulds secretly have brains",
-      "Mazes are easy for every living being"
+      "Mazes are easy for every living being",
+      "Finding a way and leaving a trail does not need neurons"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Scientists have seen slime moulds, which are single cells, find short ways through mazes. This suggests that a brain is not needed for every kind of finding the way. Whether to call this memory is still argued about."
     },
     {
@@ -2771,6 +2864,67 @@
    "used_in": [
     "p1"
    ]
+  },
+  {
+   "id": "b-wilfrid-gordon-mcdonald-",
+   "item": "Wilfrid Gordon McDonald Partridge by Mem Fox",
+   "kind": "book",
+   "why": "A small boy helps an old friend find her lost memories through objects. It shows how things we touch can bring memories back.",
+   "url": "https://www.amazon.in/s?k=Wilfrid+Gordon+McDonald+Partridge",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Read it together after the memory game."
+  },
+  {
+   "id": "b-a-digital-stopwatch--optiona",
+   "item": "A digital stopwatch (optional)",
+   "kind": "tool",
+   "why": "Used in The Story Trick: does a story help you remember a list?, The Other Hand: does practice make it easier?, My 7-Day Practice Diary. About ₹150 to ₹400. A phone stopwatch works well.",
+   "url": "https://www.amazon.in/s?k=digital+stopwatch",
+   "used_in": [
+    "e1",
+    "e2",
+    "p1"
+   ],
+   "plan": "Get it before The Story Trick: does a story help you remember a list?."
+  },
+  {
+   "id": "b-modelling-clay-or-plasticine",
+   "item": "Modelling clay or plasticine",
+   "kind": "material",
+   "why": "Used in Make a Neuron from Dough. About ₹40 to ₹120. Atta dough mixed with a little salt works.",
+   "url": "https://www.amazon.in/s?k=modelling+clay+plasticine",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before Make a Neuron from Dough."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Help Thatha Remember. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before Help Thatha Remember."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [
@@ -2846,7 +3000,8 @@
    "ws-challenge",
    "open_questions",
    "roots",
-   "quiz"
+   "quiz",
+   "old1"
   ],
   "core": [
    "a1",

@@ -1,9 +1,9 @@
 # Energy at work: how energy makes things happen, and why a still table has energy too
 `sci.energy.energy-around-us.L5`
 
-**Summary.** Put a wet coin on an empty bottle from the freezer, and the coin starts to click with nobody touching it. A bottle that was not in the freezer does nothing. Why? In this unit you will test this yourself, look for energy in a still table, and join machines in an energy chain.
+**Summary.** Put a wet coin on an empty bottle from the freezer, and the coin starts to click with nobody touching it. A bottle that was not in the freezer does nothing. Why? In this lesson you will test this yourself, look for energy in a still table, and join machines in an energy chain.
 
-**Intro.** *A fan needs electricity. A scooter needs petrol. You need breakfast. A table needs nothing and does nothing. So does a table have any energy at all?* Energy is what makes things happen. In this unit you watch a kitchen at work and find where the energy for each thing comes from. You find that a mixie, a stove and your own body all do the same job. They take energy in one form and give it out in another. Then you test the table. You put a cold bottle on it and a coin on the bottle, and you count what happens. By the end you can say what energy a still table has, and why that energy usually does nothing.
+**Intro.** *A fan needs electricity. A scooter needs petrol. You need breakfast. A table needs nothing and does nothing. So does a table have any energy at all?* Energy is what makes things happen. In this lesson you watch a kitchen at work and find where the energy for each thing comes from. You find that a mixie, a stove and your own body all do the same job. They take energy in one form and give it out in another. Then you test the table. You put a cold bottle on it and a coin on the bottle, and you count what happens. By the end you can say what energy a still table has, and why that energy usually does nothing.
 
 ## Learning outcomes
 0. I can say what energy does, and find energy moving, lighting, sounding, heating and cooling things at home and outside.
@@ -31,10 +31,13 @@
 - **Electricity**: A form of energy that travels through wires. It is easy to send far and easy to change into other forms. *e.g.* Electricity runs the fan, the fridge, the lights and the water pump.
 - **Power station**: A place where electricity is made from another source of energy, such as coal, falling water, wind or sunlight. *e.g.* The Neyveli power station in Tamil Nadu burns a soft brown coal called lignite to make electricity.
 - **Turbine**: A wheel with blades. Moving steam, water or wind pushes the blades and turns the wheel. *e.g.* In a dam, falling water turns a turbine.
+- **Windmill**: A machine with big blades that the wind turns. It can pump water or grind grain. *e.g.* A farmer's windmill pumps water up from a well into the field.
 - **Generator**: A machine that changes movement into electrical energy. A turbine turns the generator. *e.g.* A cycle dynamo is a small generator. The turning wheel makes the lamp light up.
+- **Solar cell**: A flat panel that changes sunlight straight into electricity. It has no flame and no fuel. *e.g.* A solar lantern has a solar cell that charges it all day, and a battery that gives light at night.
 - **Appliance**: A machine at home that runs on electricity or fuel and does one job. *e.g.* A fan, a mixie, an iron, a fridge and a gas stove are appliances.
 - **Energy efficiency**: How much of the energy going into a machine does the job we want. An efficient machine wastes less. *e.g.* A 9 watt LED bulb gives about the same light as an old 60 watt bulb. So the LED bulb needs far less electrical energy to do the same job.
 - **Clean energy**: Electricity made without smoke or harmful gases, from sunlight, wind or flowing water. *e.g.* Solar panels on a roof make clean energy.
+- **Renewable**: A source of energy that the Sun, wind or water renews every day, so that it does not run out. *e.g.* Sunlight, wind and flowing river water are renewable. Coal is not, because it took millions of years to form.
 - **Pollution**: Harmful smoke, gases or waste that make the air, water or land dirty. *e.g.* Smoke from burning coal and wood pollutes the air.
 
 ## Explanations
@@ -66,6 +69,27 @@ The Sun dries clothes and papads, warms water on a roof and lights the day. Food
 - e.g. Electricity gives energy to a fan, to a lift and to a metro train.
 - e.g. Wind lifts a kite at Uttarayan, and it turns a wind turbine near Kanyakumari.
 - e.g. Flowing water turns the turbines at the Idukki dam in Kerala, and it turns the stone of a gharat in the hills.
+### Some books list seven kinds of energy · *defined*
+**Definition:** Some school books list seven kinds of energy. That list mixes up sources and forms. This unit names six sources instead.
+
+The seven in those books are food, solar, wind, hydro, organic, electrical and magnetic. That list mixes up sources, such as the Sun and wind, with a form, electrical. Magnetism is a force, and biogas is a fuel, so neither is a kind of energy on its own. Scientists have no final answer to what energy is. They describe it by what it does. This unit names six sources: the Sun, food, fuel, electricity, wind and flowing water.
+- e.g. Biogas, made from dung and plants, is a fuel. We burn it for heat, as we burn cooking gas.
+- e.g. Hydro means water. Hydro energy is the energy of flowing and falling water, so it is in our list as flowing water.
+### The Sun at work: drying, cooking and electricity · *defined*
+**Definition:** Sunlight carries heat and light. We use both to dry things, to cook and to heat water. Solar cells change sunlight into electricity.
+
+Sunlight is the oldest energy we use. Farmers spread grain on the ground to dry in the Sun before they store it. Clothes and papads dry on a line, much faster than in shade. A solar cooker is a box with a shiny lid. The lid sends sunlight onto a black pot inside. On a sunny day the pot gets hot enough to cook rice or dal in a few hours. A solar water heater on a roof has black pipes under glass. The Sun heats the water in the pipes. A solar cell is different. It is a flat panel that changes light straight into electricity, with no flame and no fuel. Solar cells light bulbs in homes with no wires, and run calculators and small vehicles. They stop at night, so a battery stores some of the electricity for the dark.
+- e.g. After harvest, rice is spread out in village yards in Odisha to dry in the Sun.
+- e.g. A solar lantern charges all day on a roof and gives light at night in a village far from the wires.
+- e.g. Cochin International Airport in Kerala has a large solar plant that supplies the airport's electricity.
+- e.g. A solar cooker on a school roof cooks a pot of khichdi by afternoon.
+### Wind at work: moving air carries energy · *defined*
+**Definition:** Wind is moving air, and moving air carries energy. It can turn a pinwheel, push a sail and turn a windmill.
+
+Moving air means many air particles travelling the same way together. They push on whatever stands in their path. A paper pinwheel spins when you blow on it. Blow harder, and it spins faster. A sail catches the wind and pushes a boat along. A windmill has big blades that turn in the wind. In windy places, farmers used windmills to pump water up from wells, and to grind grain into flour. Today a tall wind turbine turns a generator and makes electricity. A balloon shows it too. Let go of a blown-up balloon with its mouth open. The air rushes out one way, and the balloon shoots the other way. The squeezed air held stored energy. When it moved, the energy did work. You try this in the Balloon Rocket.
+- e.g. A paper pinwheel from a village fair spins slowly in a breeze and fast in a strong wind.
+- e.g. A windmill turns in the wind and pumps water up from a well into a field channel.
+- e.g. A blown-up balloon let go with its mouth open flies across the room.
 ### Follow the energy back: an energy chain · *defined*
 **Definition:** An energy chain is a line of arrows that shows where energy came from, step by step. Most chains on Earth start at the Sun.
 
@@ -134,11 +158,21 @@ Rule one: keep water away from electricity. Never touch a switch, a plug or an a
 ### Using energy well, and keeping the air clean · *defined*
 **Definition:** An efficient machine does the same job with less energy. Clean energy is made without smoke.
 
-Every changer gives out some warmth that nobody wanted. An old glass bulb turns most of its electricity into heat, so it is too hot to touch. An LED bulb gives the same light with about one sixth of the electricity. Burning coal, wood and petrol puts smoke and harmful gases into the air. Smoke from a wood fire inside a kitchen harms the lungs of the person cooking, who is most often a woman. Sunlight, wind and flowing water make electricity without smoke, and they do not run out. So a family can help in two ways: use less, and choose cleaner. Switch off fans and lights in empty rooms. Put a lid on the pot. Dry clothes in the Sun.
+Every changer gives out some warmth that nobody wanted. An old glass bulb turns most of its electricity into heat, so it is too hot to touch. An LED bulb gives the same light with about one sixth of the electricity. Burning coal, wood and petrol puts smoke and harmful gases into the air. Smoke from a wood fire inside a kitchen harms the lungs of the person cooking, who is most often a woman. Sunlight, wind and flowing water make electricity without smoke. The Sun renews them every day, so they are called renewable. Coal, petrol and cooking gas took millions of years to form, and we burn them far faster than they come back. So a family can help in two ways: use less, and choose cleaner. Switch off fans and lights in empty rooms. Put a lid on the pot. Dry clothes in the Sun.
 - e.g. Use a 9 watt LED bulb in place of an old 60 watt bulb. You get the same light for much less electricity.
 - e.g. Put a lid on a pot, so that less cooking gas is needed.
+- e.g. Soak rice and pulses for half an hour before you cook them. Soaked grains are soft, so they cook in fewer minutes and need less gas.
+- e.g. Use only as much water as the food needs. Extra water takes extra gas to heat.
+- e.g. Cook dal and rice in a pressure cooker. It holds the steam in, so the food is ready in much less time than in an open pot.
 - e.g. Use a solar water heater on the roof in place of an electric geyser.
 - e.g. Walk or cycle for short trips, instead of using a vehicle that burns fuel.
+### Old ways of using nature's energy well · *defined*
+**Definition:** Before electricity, people in India learned to use heat, wind and sunlight well in their homes and on their ships.
+
+In the cold hills of the Himalaya, many families keep cattle on the ground floor and live on the floor above. The warmth of the cattle's bodies rises into the rooms above, so the family stays warmer in winter. Many old houses in Rajasthan and in Chettinad in Tamil Nadu have an open courtyard in the middle. Hot air rises and leaves through the open top. Cooler air flows in through the rooms to take its place, so the house stays cooler. Vaastu is an old Indian way of planning houses with the Sun, the wind and the directions in mind. Some ideas in it, like the courtyard, can be tested. Others are beliefs that science has not tested. Sailors of the Indian Ocean used the monsoon winds to sail across the Arabian Sea. They came home when the wind turned. A sail needs no fuel. It needs only a clever knowledge of the winds.
+- e.g. A house in the Spiti valley keeps its cattle below and its family above, so the cattle's warmth rises through the floor.
+- e.g. A courtyard house in Chettinad stays cooler in the afternoon than a closed box of a house.
+- e.g. A dhow with a triangular sail carries goods along the Gujarat coast with no engine.
 ### Living bodies are energy changers that never switch off · *defined*
 **Definition:** Every living being takes in energy and gives it out again, every moment, even while still or asleep.
 
@@ -544,6 +578,28 @@ After that, nobody at the society waited for the cans to go quiet. On hot mornin
   *Parent does:* 1. Ask your child to look at who is named in the table. 2. Ask what changed for them when machines came. 3. Thank the person.  
   *Parent says:* Who did most of the work before machines? What changed for them when machines came? Say thank you to the person you asked.  
   *Child mode:* Look at your table. Who did most of the work before? What changed? Say thank you.
+### a6 · The Balloon Rocket: can moving air push something along a string? (20 min)
+- **safety:** Do not blow up a balloon near anyone who is allergic to rubber. Keep a burst balloon away from small children, because they can choke on pieces.
+- **record:** Draw the balloon, the string and two arrows: one for where the air goes, and one for where the balloon goes. Write how far it travelled with a little air and with a lot of air.
+- **s1 (4 min)**  
+  *Parent does:* Thread the straw on the string. Tie the string between two chairs, about 3 metres apart, and pull it tight. Ask your child what will happen when air rushes out of a balloon, and write the guess.  
+  *Parent says:* We will blow up a balloon and let it go along a string. What do you think will happen? Which way will it go, and why?  
+  *Child mode:* Thread the straw on the string and pull it tight. Guess what the balloon will do.
+- **s2 (5 min) · grown-up needed**  
+  *Parent does:* Blow up a balloon a little. Pinch the neck shut with your fingers. Tape the balloon along the straw. Pull the straw and balloon to one end of the string.  
+  *Parent says:* Blow up the balloon a little. Hold the neck shut. Tape the balloon to the straw. Slide it to the end of the string.  
+  *Child mode:* Blow up a balloon a little. Pinch the neck. Tape it to the straw.
+- **s3 (7 min)**  
+  *Parent does:* Let go of the neck and watch the balloon. Measure how far it goes along the string. Then try again with a lot of air in the balloon. Use the same balloon and the same string each time. Change only the amount of air.  
+  *Parent says:* Let go! How far did it go? Now blow it up much more and let go again. Which one went farther?  
+  *Child mode:* Let go and measure how far the balloon goes. Try again with more air. Write both distances.
+  - Ask: Which way does the air go? Which way does the balloon go? (good: The air goes backwards, out of the neck.; The balloon goes forwards, the other way.)
+- **s4 (4 min)**  
+  *Parent does:* Look at the two distances. Ask your child why more air sent the balloon farther. Talk about what pushed the balloon, and where that energy was before you let go.  
+  *Parent says:* What pushed the balloon along the string? Where was the energy before we let go? Why did more air make it go farther?  
+  *Child mode:* Why did more air send the balloon farther? What pushed it?
+  - Note: This is the same push that sends a rocket up. The hot gas rushes out of the back, and the rocket moves the other way. In science it is called action and reaction, and children will meet it in later classes.
+  - Check: What pushed the balloon along the string? → **The air rushing out of the neck**
 
 ## Projects
 ### p1 · The Street Energy Survey: what powers our street? (55 min, 3 days)
@@ -608,7 +664,7 @@ After that, nobody at the society waited for the cans to go quiet. On hot mornin
   - Ask: Where did the boat's movement energy come from? (good: From the fan's electrical energy, through moving air.; The fan changed electrical energy into moving air, and the sail caught it.)
 
 ## Worksheets
-### Energy at work: changers, sources and the table (core) (core, 15 questions)
+### Energy at work: changers, sources and the table (core) (core, 18 questions)
 1. (mcq) Which sentence about energy is true?  
    Options: Energy makes things happen / Energy is a liquid in wires / Energy is only in moving things / Energy is used up by a bulb  
    **Answer:** Energy makes things happen. *Why:* Energy is what is needed to make anything happen. It makes things move, light up, make a sound, get hotter or cooler. It is not a liquid and it is not used up. A bulb changes electrical energy into light and heat.
@@ -623,7 +679,7 @@ After that, nobody at the society waited for the cans to go quiet. On hot mornin
 6. (fill) A still table has heat energy, because its ____ never stop shaking.  
    **Answer:** ['particles']. *Why:* The tiny particles that the wood is made of keep shaking all the time. That shaking is heat energy. 'Atoms' and 'molecules' are also right.
 7. (mcq) Which of these does an ordinary wooden table NOT have?  
-   Options: Heat energy / Chemical energy in the wood / Electrical energy flowing through it / Energy in its mass  
+   Options: Heat energy / Electrical energy flowing through it / Chemical energy in the wood / Energy in its mass  
    **Answer:** Electrical energy flowing through it. *Why:* A table has heat energy, chemical energy in the wood, stored energy of its height and energy in its mass. No electricity flows through it unless it is wired up.
 8. (truefalse) True or false: if a thing holds a lot of energy, it must be doing something.  
    **Answer:** False. *Why:* False. A still table holds a great deal of energy and does nothing. Energy makes something happen only when it moves or changes form.
@@ -643,9 +699,15 @@ After that, nobody at the society waited for the cans to go quiet. On hot mornin
    **Answer:** For example: dry your hands before touching a switch, because wet skin lets electricity pass into the body. Never push a pin into a socket, because the socket carries enough electricity to kill.. *Why:* A strong answer gives two different rules and a reason for each. The reason mentions water, the body or the strength of the supply.
 15. (truefalse) True or false: it is safe to pull a plug out of a socket by tugging its wire.  
    **Answer:** False. *Why:* False. Tugging the wire can loosen it from the plug and leave bare wire. Switch off first, then hold the plug by its body.
-### Why things happen: differences, fans and the grid (stretch) (stretch, 15 questions)
+16. (fill) Sources that the Sun, wind and water renew every day are called ____.  
+   **Answer:** ['renewable']. *Why:* Renewable sources come back every day. Coal, petrol and cooking gas took millions of years to form, so they are not renewable.
+17. (match) Match each thing to the source of energy it uses.  
+   **Answer:** Biogas in a stove → Fuel; A kite at Uttarayan → Wind; A gharat in the hills → Flowing water; A plate of dosa → Food; A solar cooker → The Sun. *Why:* Biogas is burned for heat, so it is a fuel. The other four are wind, flowing water, food and the Sun.
+18. (sort) Sort these cooking habits. Does each one save gas, or waste it?  
+   **Answer:** a lid on the pot → Saves gas; soaking pulses first → Saves gas; a pressure cooker → Saves gas; boiling a big pot of water for one cup of tea → Wastes gas; cooking with the lid off → Wastes gas; lighting the flame before the food is ready to go on → Wastes gas. *Why:* Gas is saved when the food cooks in less time, with less water, and with the heat kept in. It is wasted when heat escapes or when we heat more than we need.
+### Why things happen: differences, fans and the grid (stretch) (stretch, 18 questions)
 1. (mcq) A freezer bottle made more clicks than a fridge bottle. Why?  
-   Options: A bigger difference moves heat in faster / The freezer bottle was heavier / The freezer bottle had more air / The freezer made the coin lighter  
+   Options: The freezer bottle was heavier / The freezer bottle had more air / The freezer made the coin lighter / A bigger difference moves heat in faster  
    **Answer:** A bigger difference moves heat in faster. *Why:* Both bottles stood in the same warm room. The colder bottle had a bigger gap to the room's temperature, so heat moved in faster and the air expanded faster.
 2. (count) A freezer bottle clicked 14, 8 and 4 times in three half-minutes. How many clicks in all?  
    **Answer:** 26. *Why:* 14 + 8 + 4 = 26. The clicks get fewer in each half minute, because the bottle is warming and the gap to the room is closing.
@@ -654,7 +716,7 @@ After that, nobody at the society waited for the cans to go quiet. On hot mornin
 4. (truefalse) True or false: a fan makes the air in a room colder.  
    **Answer:** False. *Why:* False. A fan only moves air. In the Fan and the Ice, the ice melted faster in the wind, because the wind carried the room's heat to it.
 5. (mcq) In the Fan and the Ice, which is the best reason for the faster melting?  
-   Options: Moving air brought the room's heat to the ice faster / The fan made colder air / The fan's motor heated the ice / The screen was colder  
+   Options: The fan made colder air / The fan's motor heated the ice / Moving air brought the room's heat to the ice faster / The screen was colder  
    **Answer:** Moving air brought the room's heat to the ice faster. *Why:* The fan did not make the air colder, or the cube would have lasted longer. It moved the room's air, so more warmth reached the ice every minute.
 6. (perspective) Three people talk about the electricity in a country that still burns much coal.  
    **Answer:** A strong answer names a fair point for each view. Coal gives steady power and jobs. Smoke harms the lungs of people who live near. Solar is clean, but it needs storage for the night. It picks one view and gives a fair point from another.. *Why:* Each view is right about something. A good choice is not to pick a winner, but to say what each side gives up.
@@ -678,7 +740,13 @@ After that, nobody at the society waited for the cans to go quiet. On hot mornin
    **Answer:** 3. *Why:* A wind turbine, a meal of rice and coal all trace back to sunlight. A hot spring is warmed by heat from deep inside the Earth.
 15. (write) Tea at 80 degrees can warm a cold hand. Tea at 28 degrees in a room at 28 degrees cannot. Why?  
    **Answer:** Heat moves only from a warmer thing to a cooler thing. The hot tea is warmer than the hand, so heat moves into the hand. The room-warm tea is the same as the room and the hand, so no heat moves.. *Why:* A strong answer says heat moves only when there is a difference in temperature. It names which way the heat moves in each case.
-### Reasoning about energy: where it goes and what it can do (challenge) (challenge, 15 questions)
+16. (sort) Sort these ways of using the Sun. Does each one use the Sun's heat, or make electricity from light?  
+   **Answer:** drying grain on a mat → Uses the Sun's heat; a solar cooker → Uses the Sun's heat; a solar water heater → Uses the Sun's heat; a solar lantern → Makes electricity from light; a solar street light → Makes electricity from light; a small solar car → Makes electricity from light. *Why:* A solar cell is the only one of these that changes light into electricity. The cooker, the water heater and the drying mat use the Sun's heat directly.
+17. (write) A paper pinwheel spins slowly in a light breeze and fast in a strong wind. Explain why.  
+   **Answer:** Wind is moving air, and moving air carries energy. A strong wind carries more energy, and it pushes the blades harder, so the pinwheel spins faster.. *Why:* A strong answer says that moving air carries energy and that more movement means more energy to push the blades.
+18. (match) Match each old way of using energy to how it works.  
+   **Answer:** Cattle on the ground floor → Their body heat rises into the rooms above; An open courtyard → Hot air rises out and cooler air flows in; A sail on a ship → The wind pushes the ship with no fuel; A windmill on a farm → The wind turns blades that pump water. *Why:* Each way uses an energy that is already there: warmth from living bodies, rising hot air or the wind. None of them needs fuel or electricity.
+### Reasoning about energy: where it goes and what it can do (challenge) (challenge, 16 questions)
 1. (write) A ship takes heat from warm sea water and leaves colder water behind. Why can it not keep going?  
    **Answer:** Heat does work only as it passes from a warmer place to a colder place. The ship has no colder place to send the heat to, so it cannot make anything move.. *Why:* A strong answer says that heat does work only when it moves from hot to cold. It says the sea around the ship is all at one temperature, like the bottle in the room.
 2. (count) In 10 hours, a 60 watt bulb uses how many more watt-hours than a 9 watt LED?  
@@ -686,14 +754,14 @@ After that, nobody at the society waited for the cans to go quiet. On hot mornin
 3. (perspective) Three people talk about electric scooters.  
    **Answer:** A strong answer names a fair point for each. The scooter makes no smoke on the road. The electricity may come from burning coal, so smoke moves to the power station. Cleaner power makes scooters cleaner. It chooses one view and gives a fair point from another.. *Why:* All three are right about part of it. An electric vehicle is as clean as the electricity that charges it.
 4. (mcq) A cup of tea cools to room temperature. Where has its heat energy gone?  
-   Options: Into the air and the table / It has been destroyed / Into the cup's handle only / It has turned into cold  
+   Options: It has been destroyed / Into the cup's handle only / It has turned into cold / Into the air and the table  
    **Answer:** Into the air and the table. *Why:* Energy is never destroyed. The tea's heat moved into the cooler air and table, which are now a little warmer. It is still there, spread too thin to use.
 5. (truefalse) True or false: the total energy of a closed room stays the same while a hot cup of tea cools in it.  
    **Answer:** True. *Why:* True. The tea loses heat energy and the air and table gain exactly as much. The total is the same.
 6. (write) A table never does anything, so it has no energy. Give two pieces of evidence that this is wrong.  
    **Answer:** The wood can burn, so it has chemical energy. An ice cube melts on it, so it has heat energy. A table pushed off a high balcony would fall and hit the ground, so its height stores energy.. *Why:* A strong answer gives two kinds of energy and an example for each. The ice cube, the burning stick and the falling eraser all work.
 7. (mcq) Why does a fan feel cooler when your skin is wet with sweat?  
-   Options: Moving air dries the sweat faster, taking heat / The fan makes colder air / The sweat is colder than the air / The fan makes more sweat  
+   Options: The fan makes colder air / Moving air dries the sweat faster, taking heat / The sweat is colder than the air / The fan makes more sweat  
    **Answer:** Moving air dries the sweat faster, taking heat. *Why:* Drying takes heat from the skin. Moving air carries the wet air away, so sweat dries faster and your skin cools faster. A fan does not make the air colder.
 8. (sort) Sort these into energy that is moving and energy that is waiting.  
    **Answer:** a whistling cooker → Energy is moving; coal in a heap → Energy is waiting; sunlight crossing a room → Energy is moving; a charged battery → Energy is waiting; a cycle going downhill → Energy is moving; water in a roof tank → Energy is waiting. *Why:* A whistling cooker, sunlight crossing a room and a cycle going downhill are energy on the move. Coal in a heap, a charged battery and water in a roof tank hold energy that waits.
@@ -704,7 +772,7 @@ After that, nobody at the society waited for the cans to go quiet. On hot mornin
 11. (match) Match each danger to the right action.  
    **Answer:** A wire lies on the road after a storm → Stay far away and tell a grown-up; Your hands are wet → Dry them before touching a switch; A pin is near a socket → Never push anything into it; A socket cover is cracked → Do not use it, tell a grown-up; A kite is stuck on a power line → Leave it there. *Why:* Each danger has a rule. Fallen wires and kites on power lines are never touched. Wet hands never touch switches. Nothing goes into a socket.
 12. (mcq) A town has no electricity for a whole day. Which of these still works?  
-   Options: The roof tank pump / A gas stove lit with a match / A lift / A fridge motor  
+   Options: The roof tank pump / A lift / A gas stove lit with a match / A fridge motor  
    **Answer:** A gas stove lit with a match. *Why:* A gas stove runs on the chemical energy of cooking gas, not on electricity. The pump, the lift and the fridge motor all need electricity.
 13. (write) Almost every energy chain ends as heat in the air. Why is that energy so hard to use again?  
    **Answer:** The heat spreads out into a huge amount of air, and the air is only a little warmer. Heat can do work only where there is a difference in temperature, and a little warmth everywhere gives no difference.. *Why:* A strong answer says the heat is spread out thinly and has no colder place to flow to. It uses the idea of a difference in temperature.
@@ -712,6 +780,8 @@ After that, nobody at the society waited for the cans to go quiet. On hot mornin
    **Answer:** False. *Why:* False. Moving air feels cooler on warm skin because it carries heat away faster. A thermometer in the wind reads the same as one in still air.
 15. (fill) Coal and petrol hold energy that came from ____ long ago.  
    **Answer:** ['sunlight', 'the Sun']. *Why:* Coal is the remains of forests, and petrol comes from tiny sea beings. They lived on sunlight, and their energy was stored for millions of years.
+16. (truefalse) Magnetism is one of the six sources of energy that families use every day, like the Sun and the wind.  
+   **Answer:** False. *Why:* False. Magnetism is a force. Our six everyday sources are the Sun, food, fuel, electricity, wind and flowing water.
 
 ## Videos
 - **Jumping coin** (4SciFun, 3 min) id `tYIo7CfYZMs`: To see a coin click on a bottle from the freezer. It also explains why air swells as it warms. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
@@ -720,38 +790,59 @@ After that, nobody at the society waited for the cans to go quiet. On hot mornin
 
 ## Quiz
 1. (mcq) A ceiling fan, a mixie and a loudspeaker all do what with energy?  
-   Options: Change it from one form to another / Make new energy / Use it up for ever / Store it for later  
+   Options: Make new energy / Use it up for ever / Store it for later / Change it from one form to another  
    **Answer:** Change it from one form to another. *Why:* Every machine is an energy changer. It takes energy in one form and gives it out in others. If you chose 'make new energy', remember that no machine has ever made any.
 2. (mcq) A phone charger feels warm. Where did the warmth come from?  
-   Options: Some of the electrical energy changed to heat / The charger made heat from nothing / The phone made it first / A warm charger is broken  
+   Options: The charger made heat from nothing / Some of the electrical energy changed to heat / The phone made it first / A warm charger is broken  
    **Answer:** Some of the electrical energy changed to heat. *Why:* Every machine gives out a little heat. A warm charger is normal. It shows some of the energy going in has become heat instead of charge.
 3. (mcq) Which chain of energy is in the right order?  
-   Options: Sun, paddy plant, rice, muscles / Rice, Sun, muscles, paddy plant / Muscles, rice, paddy plant, Sun / Paddy plant, muscles, rice, Sun  
+   Options: Rice, Sun, muscles, paddy plant / Muscles, rice, paddy plant, Sun / Sun, paddy plant, rice, muscles / Paddy plant, muscles, rice, Sun  
    **Answer:** Sun, paddy plant, rice, muscles. *Why:* Sunlight is the start of most chains. A plant uses sunlight to make rice, and your muscles run on the rice. The other orders put a step before the one that makes it.
 4. (mcq) Which source of energy does not come from the Sun, even through a long chain?  
    Options: Heat from deep inside the Earth / Wind / Coal / Rice  
    **Answer:** Heat from deep inside the Earth. *Why:* Wind, coal and rice all trace back to sunlight. Heat from inside the Earth comes from the Earth itself, so a hot spring is not Sun energy.
 5. (mcq) A table stands still in a room. Which statement is true?  
-   Options: It holds heat energy, because its particles move / It has no energy until it is pushed / It has energy only if it is hot / It has energy only when it is lit  
+   Options: It has no energy until it is pushed / It has energy only if it is hot / It holds heat energy, because its particles move / It has energy only when it is lit  
    **Answer:** It holds heat energy, because its particles move. *Why:* The particles of the wood always shake, and that is heat energy. A table is still on the outside and busy on the inside.
 6. (mcq) By itself, heat energy moves from where to where?  
-   Options: From a warmer thing to a cooler thing / From a cooler thing to a warmer thing / From a heavy thing to a light thing / From a big thing to a small thing  
+   Options: From a cooler thing to a warmer thing / From a warmer thing to a cooler thing / From a heavy thing to a light thing / From a big thing to a small thing  
    **Answer:** From a warmer thing to a cooler thing. *Why:* Heat moves by itself only from warmer to cooler. In the Clicking Coin Test, heat moved from the warm room into the cold bottle.
 7. (mcq) The coin on a freezer bottle stopped clicking. What is the most likely reason?  
    Options: The bottle had warmed to room temperature / The coin got heavier / The room got colder / The bottle ran out of air  
    **Answer:** The bottle had warmed to room temperature. *Why:* When the bottle matches the room, no more heat moves in. With no moving heat, the air stops swelling and the coin stops clicking.
 8. (mcq) A fan blows on an ice cube and it melts faster. What did the fan do?  
-   Options: Moved the room's warm air onto the ice faster / Made the air hotter / Made colder air / Made more ice  
+   Options: Made the air hotter / Made colder air / Moved the room's warm air onto the ice faster / Made more ice  
    **Answer:** Moved the room's warm air onto the ice faster. *Why:* A fan only moves air. Moving air brings the room's heat to the ice faster, so the ice melts sooner.
 9. (mcq) A wire has fallen on a wet road. What should you do?  
    Options: Stay far away and tell a grown-up / Push it aside with a stick / Step over it quickly / Pour water on it  
    **Answer:** Stay far away and tell a grown-up. *Why:* A fallen wire may still carry electricity, and wet ground or a wet stick can carry it to you. Keep far away and tell a grown-up.
 10. (mcq) Why must your hands be dry before you touch a switch?  
-   Options: Wet skin lets electricity pass more easily / Wet hands make the switch rust / Water makes the bulb brighter / Dry hands switch things on faster  
+   Options: Wet hands make the switch rust / Water makes the bulb brighter / Dry hands switch things on faster / Wet skin lets electricity pass more easily  
    **Answer:** Wet skin lets electricity pass more easily. *Why:* Water with salts in it carries electricity, and your body does too. Dry skin is much safer.
 11. (mcq) An engine turns heat into movement. What must it have besides a hot place?  
-   Options: A colder place to send some heat to / A bigger fire / A heavier wheel / More fuel only  
+   Options: A bigger fire / A colder place to send some heat to / A heavier wheel / More fuel only  
    **Answer:** A colder place to send some heat to. *Why:* Heat does work only as it passes from a hotter place to a colder place. With no colder place, nothing makes the engine move.
+12. (mcq) Why do we call wind and flowing water renewable sources?  
+   Options: People can store them in tanks / The Sun renews them every day / They are free to buy / They never move  
+   **Answer:** The Sun renews them every day. *Why:* The Sun heats the air and the sea, which drives the wind and the rain that fills rivers. Coal and petrol took millions of years to form, so they are not renewable.
+13. (mcq) Which of these changes sunlight straight into electricity?  
+   Options: A solar cell / A solar cooker / A solar water heater / Grain drying on a mat  
+   **Answer:** A solar cell. *Why:* A solar cell makes electricity from light. The cooker, the water heater and the drying mat use the Sun's heat, and make no electricity.
+14. (mcq) A windmill's blades turn in the wind. What work did old windmills do on farms?  
+   Options: Made the wind blow harder / Cooled the grain store / Pumped water up from wells and ground grain / Lit the fields at night  
+   **Answer:** Pumped water up from wells and ground grain. *Why:* Moving air carries energy. A windmill changes it into the turning of a pump or a grindstone. It does not make wind or light.
+15. (mcq) You let go of a blown-up balloon with its mouth open, and it shoots across the room. What does this show?  
+   Options: Air has no energy / The balloon makes new energy / Moving air carries energy that can push / The air outside is colder  
+   **Answer:** Moving air carries energy that can push. *Why:* The air rushes out one way and pushes the balloon the other way. The energy in the squeezed air does work. No machine makes new energy.
+16. (mcq) In some hill villages, families live on the upper floor and keep cattle below. How does this help in winter?  
+   Options: The cattle's body heat rises into the rooms above / The cattle block the wind / The cattle give light / The cattle keep the rain out  
+   **Answer:** The cattle's body heat rises into the rooms above. *Why:* Every living body gives out heat, and warm air rises. So the cattle warm the rooms above them, using no fuel at all.
+17. (mcq) Biogas is made from rotting dung and plants, and it is burned in a stove. Which of our six sources is it?  
+   Options: Fuel / Wind / Flowing water / The Sun  
+   **Answer:** Fuel. *Why:* A fuel is burned for heat. Biogas is a fuel, so it is not a separate kind of energy. Some books list 'organic energy', but this unit names it a fuel.
+18. (mcq) Why does soaking dal before cooking save cooking gas?  
+   Options: Soaked dal makes the flame hotter / Soaked dal is soft and cooks in fewer minutes / Soaked dal weighs less / Water in the dal makes gas  
+   **Answer:** Soaked dal is soft and cooks in fewer minutes. *Why:* A shorter cooking time means less time with the flame on. The flame is not hotter, and the dal makes no gas. Gas is saved only by shorter burning.
 
 ## Applications
 - Power stations burn coal or use falling water or wind to turn turbines. The turbines turn generators, and wires carry the electricity to homes, hospitals and trains.
@@ -763,14 +854,14 @@ After that, nobody at the society waited for the cans to go quiet. On hot mornin
 - A cattle shed on the ground floor of a mountain house warms the rooms above with the heat of the animals' bodies.
 
 ## Spotted around us
-- A ceiling fan whose motor feels warm after an hour, in any home in India.
-- Clothes drying on a line in sunshine and wind in a Chennai flat.
+- A ceiling fan whose motor feels warm after an hour.
+- Clothes drying on a line in sunshine and wind.
 - A street-side tea seller's flame, fed by a small cylinder of cooking gas.
 - Rows of solar panels on the roof of a school or a petrol pump.
-- Tall wind turbines turning on a ridge near Kanyakumari or Muppandal in Tamil Nadu.
+- Tall wind turbines turning on a ridge.
 - The hum and warmth of a transformer on a pole, which you must never touch.
 - The warm back of a fridge in a kitchen.
-- A kite rising on the wind at the Uttarayan festival in Gujarat.
+- A kite rising on the wind at a kite festival.
 
 ## Open questions
 - **What is the energy of empty space, which scientists call dark energy?** Measurements of far-away exploding stars show the universe growing faster and faster. Nobody knows what is behind it.
@@ -816,12 +907,21 @@ Where Did It Come From? (sci.energy.L5): Topic-level song for Energy L5
 - [PhET Energy Forms and Changes](https://phet.colorado.edu/en/simulations/energy-forms-and-changes) · simulation: A free online model. Heat water, run a fan and watch energy change form and spread out.
 - [Bureau of Energy Efficiency, India](https://beeindia.gov.in) · interactive: The Government of India's home for star ratings on fans, fridges and air conditioners. A parent can find how a star rating compares appliances.
 - [Central Electricity Authority, India](https://cea.nic.in) · interactive: A parent can look up how much electricity India makes from coal, water, wind and sun.
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: A science museum with working models of engines, electricity and energy.
-- [Nehru Science Centre]() · place · Mumbai: A hands-on science centre with energy and electricity exhibits.
-- [Birla Industrial and Technological Museum]() · place · Kolkata: A science museum with exhibits on steam engines, power and energy.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru: A science museum with working models of engines, electricity and energy.
+- Nehru Science Centre · place · Mumbai: A hands-on science centre with energy and electricity exhibits.
+- Birla Industrial and Technological Museum · place · Kolkata: A science museum with exhibits on steam engines, power and energy.
 
 ## Things to buy
 - [A kitchen or room thermometer](https://www.amazon.in/s?k=room+thermometer) (tool): It shows that the air in a fan's wind and in still air has the same temperature. A medical thermometer is not made for this. Used in e2. 
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in The Clicking Coin Test: does a cold bottle make a coin click?, The Fan and the Ice: does a fan make the air colder?, Most Clicks: make the coin click as many times as you can. About ₹150 to ₹400. A phone stopwatch works well. Used in e1, e2, c1, c2. Get it before The Clicking Coin Test: does a cold bottle make a coin click?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Fan and the Ice: does a fan make the air colder?, The Changer Table: what goes in and what comes out?, The Sail Race: cross a tray with wind alone. About ₹10 to ₹30. Any school ruler is fine. Used in e2, a2, c2. Get it before The Fan and the Ice: does a fan make the air colder?.
+- [Small torch bulbs or LEDs with a holder](https://www.amazon.in/s?k=torch+bulb+holder+set) (tool): Used in The Changer Table: what goes in and what comes out?. About ₹10 to ₹50. A small torch can be taken apart for its bulb. Used in a2. Get it before The Changer Table: what goes in and what comes out?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in The Sail Race: cross a tray with wind alone. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in c2. Get it before The Sail Race: cross a tray with wind alone.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Fan and the Ice: does a fan make the air colder?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e2. Get it before The Fan and the Ice: does a fan make the air colder?.
+- [Wooden ice-cream sticks (a pack)](https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack) (material): Used in Does a Still Table Have Energy? Three small tests. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in. Used in a1. Get it before Does a Still Table Have Energy? Three small tests.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in The Fan and the Ice: does a fan make the air colder?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e2. Get it before The Fan and the Ice: does a fan make the air colder?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
+- [Balloons, a small pack](https://www.amazon.in/s?k=balloons) (material): Used in The Balloon Rocket: can moving air push something along a string?. About ₹20 to ₹50 for a pack. Any party balloon works. Used in a6. Get them before The Balloon Rocket: can moving air push something along a string?.
 
 ## Warm-up
 - Name three things that energy can do. → Move things, light up, make sound, heat or cool things, and do work.
@@ -835,14 +935,14 @@ Where Did It Come From? (sci.energy.L5): Topic-level song for Energy L5
 
 ## Plan
 - Start options: intro, a1, e1, story, g1, big_questions, cards
-- Default order: intro → a1 → summary → terms → e1 → a2 → story → e2 → explanations → g1 → ws-core → a3 → a4 → videos → how_we_found_out → agreed → challenging → g2 → a5 → ws-stretch → c1 → p1 → big_questions → c2 → ws-challenge → open_questions → roots → quiz
+- Default order: intro → a1 → summary → terms → e1 → a2 → story → e2 → explanations → g1 → ws-core → a3 → a6 → a4 → videos → how_we_found_out → agreed → challenging → g2 → a5 → ws-stretch → c1 → p1 → big_questions → c2 → ws-challenge → open_questions → roots → quiz
 - Core: a1, e1, a2, g1, e2, ws-core
 
 ## Sources
 - Founder's notes in ideas/by_topic/energy.md: the grade concept grid for Energy (energy makes things move, warm and light up; energy changes form; conservation; heat engines and efficiency), used for the changers, the energy chains and the Carnot story.
 - Founder's notes, the Entropy grid (heat spreads from hot to cold, and a gap in temperature is needed), used for the Clicking Coin Test and the Fan and the Ice.
 - NCERT Class 5 chapter 7 on energy and how things work, for coverage only: energy at home and in society, what energy does, and what makes things work.
-- The Class 3 and Class 4 units Energy around us, which this unit builds on. Their experiments and stories are not repeated.
+- The Class 3 and Class 4 units Energy around us, which this lesson builds on. Their experiments and stories are not repeated.
 - Carnot, S., Reflexions sur la puissance motrice du feu, Paris, 1824
 - Einstein, A., 'Does the inertia of a body depend upon its energy content?', Annalen der Physik 18, 1905
 - Feynman, R., Leighton, R. and Sands, M., The Feynman Lectures on Physics, Volume 1, chapter 4, 'Conservation of Energy', 1963

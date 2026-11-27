@@ -1,9 +1,9 @@
 # Rights and tax money: what India's laws promise every family
 `sci.india.government-and-rights.L3`
 
-**Summary.** Almost every shop bill has a line called GST. What is it, and who gets that money? In this unit you will hunt for tax on your family's bills, check a pretend work register for cheating, and work out which law helps in different situations.
+**Summary.** Almost every shop bill has a line called GST. What is it, and who gets that money? In this lesson you will hunt for tax on your family's bills, check a pretend work register for cheating, and work out which law helps in different situations.
 
-**Intro.** *Pick up a school textbook or a printed shop bill. Government schools give their textbooks free. A shop bill has a small line called GST. Is a free book really free? Who paid for it?* The book was paid for with public money. Public money is the money the government collects from people, mostly as tax. Some of it came from the GST on bills like yours. In this unit you find out how much tax your family pays when it shops. Then you learn about three rights that India's laws give. Every child has a right to go to school. Every citizen has a right to know how public money is spent. Every village family has a right to ask for paid work.
+**Intro.** *Pick up a school textbook or a printed shop bill. Government schools give their textbooks free. A shop bill has a small line called GST. Is a free book really free? Who paid for it?* The book was paid for with public money. Public money is the money the government collects from people, mostly as tax. Some of it came from the GST on bills like yours. In this lesson you find out how much tax your family pays when it shops. Then you learn about three rights that India's laws give. Every child has a right to go to school. Every citizen has a right to know how public money is spent. Every village family has a right to ask for paid work.
 
 ## Learning outcomes
 0. I can find the tax on a bill, and explain that almost everyone pays tax when they buy things.
@@ -18,6 +18,9 @@
 - **Government**: The government is the group of people chosen to run the country, a state or a town for everyone. In India, people vote to choose them. *e.g.* The Tamil Nadu government runs the state's government schools and buses.
 - **Law**: A law is a rule for the whole country or state. Everyone must follow it, including the government. A law made by Parliament is called an Act. *e.g.* The law says a car must stop at a red light.
 - **Constitution**: The Constitution is India's most important law. It says how the country is run and what rights every person has. It came into force on 26 January 1950. *e.g.* We celebrate Republic Day on 26 January because the Constitution began that day.
+- **Democracy**: A way of governing in which the people choose their law-makers by voting. India is a democracy. *e.g.* Every citizen aged 18 or more in India may vote, and every vote counts the same.
+- **Three parts of government**: The legislature makes laws, the executive carries them out, and the judiciary, which means the courts, checks that they are fair. *e.g.* Parliament made the RTI law, an officer answers the letters, and a court can settle a quarrel about it.
+- **Centre and state**: The Centre is the government of the whole country. A state government looks after its own state. Both have their own jobs. *e.g.* CGST on a bill goes to the Centre, and SGST goes to the state.
 - **Right**: A right is something every person is allowed to have or do, and the law protects it. Nobody has to earn it or pay for it. *e.g.* Every child aged 6 to 14 in India has the right to a free school place.
 - **Tax**: Tax is money people must pay to the government. The government uses it to pay for things everyone shares, such as roads, schools and hospitals. *e.g.* When you buy a packet of biscuits, a little of the price is tax.
 - **GST**: GST stands for Goods and Services Tax. It is the tax added to the price of most things we buy in India. A bill often shows it as CGST and SGST. Half goes to the central government and half to the state. *e.g.* A restaurant bill for a plate of dosa shows a few rupees of CGST and the same of SGST.
@@ -25,6 +28,7 @@
 - **Right to Education Act**: This law, passed in 2009, says every child aged 6 to 14 must get a free school place, up to Class 8. Schools may not test small children before giving them a seat. *e.g.* A 6-year-old in Madurai joins Class 1 at a government school without paying any fee.
 - **Right to Information Act**: This law, passed in 2005, lets any citizen ask a government office for information. The office must answer within 30 days. People call it RTI. *e.g.* A family in Kochi asks the town office how much the repair of their road cost.
 - **Public Information Officer**: The Public Information Officer is the person in each government office whose job is to answer RTI questions. *e.g.* A letter about the road repair goes to the Public Information Officer of the town office.
+- **Information Commission**: A group that looks into RTI appeals when a person gets no answer, or an answer that seems wrong. *e.g.* A man in Pune gets no reply to his RTI letter, and the Information Commission asks the office why.
 - **Rural job guarantee**: This is a law that promises paid work to village families who ask for it, on jobs like digging ponds. From 2009 it was called MGNREGA and promised 100 days a year. From 1 July 2026, a new law promises 125 days. *e.g.* In a village near Anantapur, women dig a farm pond and are paid by the day.
 - **Job card**: A job card is a small book given free to a village family that wants work under the job guarantee. It records the days each person worked and the wages paid. *e.g.* A job card shows that a woman worked 15 days on the village pond in April, and what she was paid.
 - **Muster roll**: A muster roll is the attendance list at a work site. It shows who worked on which days, so they can be paid. *e.g.* The muster roll for the pond has 6 names and a tick for each day each person came.
@@ -48,6 +52,25 @@ Most people never hand money straight to the government. They pay tax inside the
 - e.g. A bill shows CGST 2.5% and SGST 2.5%. That adds up to 5 rupees of tax on every 100 rupees of price.
 - e.g. The road, the drain, the bus stop and the government hospital are paid for with public money.
 - e.g. A small kirana shop's handwritten slip often shows no GST. Very small shops do not have to collect it.
+### Democracy: the people choose · *defined*
+**Definition:** In a democracy, the people choose the ones who make the laws. They choose by voting. India is a democracy.
+
+A vote is a person's say in who will make the rules. In India, every citizen aged 18 or more can vote. It does not matter if she is rich or poor, a woman or a man, or cannot read. Every vote counts the same. India gave every grown-up the vote from the start, when the Constitution began in 1950. In some countries women had to wait many years for it. Nobody may force you or see how you vote. One vote matters because many votes together choose the law-makers. In 2008 a candidate for the Rajasthan assembly lost by a single vote. Voting is also how people change a law they think is unfair. They choose new law-makers who will change it.
+- e.g. Villagers who are 18 or more vote to choose their Gram Panchayat.
+- e.g. In the first general election, in 1951 and 1952, millions of people who could not read voted. Each party had a picture symbol on the ballot, so voters could find it.
+### Three jobs of government · *defined*
+**Definition:** The government does three jobs. One part makes the laws, one part carries them out, and one part checks that they are fair.
+
+The part that makes laws is called the legislature. In Delhi it is Parliament. Each state has its own, called the Vidhan Sabha. The part that carries out the laws is the executive. It is the ministers, and also the officers who work in offices, like a Public Information Officer. The part that checks is the judiciary, which means the courts. If an office refuses a right, a person can go to court, and a judge decides. The highest court in India is the Supreme Court. Why three parts? If one group made the laws, carried them out and judged them, it could be unfair. Three parts keep each other honest. Take the RTI law. Parliament made it in 2005. Officers answer the letters. Courts can decide if an officer broke the law.
+- e.g. Parliament makes a law. A ministry sends it to every state office. An officer follows it. A court settles a quarrel about it.
+- e.g. A mother is refused a school seat for her child. She goes to a court, and the judge reads the law and decides.
+### The Centre and the states · *defined*
+**Definition:** India has one government for the whole country, called the Centre, and one for each state. Each has its own jobs. Sharing jobs like this is called federalism.
+
+The Centre looks after things that are the same for everyone in India: the army, the railways, the post office and the rupee. A state government looks after things closer to the people, such as state police, hospitals and state highways. Some jobs, such as schools, are shared. The nearest government of all is the Gram Panchayat in a village, or the municipality in a town. India has a Centre and states because the country is very big. People in Assam and people in Goa need different things. You can see this sharing on a shop bill. CGST is the Centre's share of the tax, and SGST is the state's share. It is also why RTI fees can differ from state to state.
+- e.g. The Indian Railways, run by the Centre, carry people across many states.
+- e.g. A state highway, built by a state government, joins two towns inside one state.
+- e.g. The Gram Panchayat looks after the village pond and street lights.
 ### The right to go to school · *defined*
 **Definition:** Under the Right to Education Act, 2009, every child aged 6 to 14 has the right to free school up to Class 8, in a school near home.
 
@@ -55,6 +78,12 @@ For a long time, millions of children in India did not go to school. Many had to
 - e.g. A school in Guwahati asks a 5-year-old to sit an entry test. The law does not allow this.
 - e.g. A private school in Mysuru keeps 25 of the 100 seats in its first class for children from poor families.
 - e.g. A girl whose family moved from Odisha to Chennai is given a seat though she has no birth certificate.
+### Why school matters, and which schools may teach · *defined*
+**Definition:** School helps a child in five ways. A school must also be recognised by the state before it may teach children.
+
+Here are five reasons school matters. School teaches you to read, write and count, so nobody can cheat you about a bill or a letter. It helps you find work that you like. It teaches you how to keep clean and healthy. It helps you know your rights, and ask for them. And it lets you do something for your village or town, together with others. The state must recognise a school before it teaches children. A shed or a house that runs classes with no recognition breaks the law. It can be fined up to 1 lakh rupees. A lakh is 100,000.
+- e.g. A girl who can read the word on a medicine packet knows how much to take.
+- e.g. A boy who can count checks the change a shopkeeper gives him.
 ### Lunch at school · *defined*
 **Definition:** Government schools in India give children a free cooked lunch on school days. The scheme is now called PM POSHAN.
 
@@ -64,10 +93,16 @@ A hungry child finds it hard to learn, and a free lunch brings many children to 
 ### The right to know · *defined*
 **Definition:** Under the Right to Information Act, 2005, any citizen may ask a government office for information, and the office must answer within 30 days.
 
-The money a government office spends came from the people, so the people may ask how it was spent. The person asking does not need to give a reason. They write a short letter to the office's Public Information Officer, in English, Hindi or the state's language. The fee is 10 rupees for central government offices, and families below the poverty line pay nothing. States set their own fees. If the question is about someone's life or freedom, the answer must come within 48 hours. If an officer delays without good reason, they can be fined. Some things may be kept secret, such as information that would harm the country's safety or a person's private life. Tamil Nadu and Goa made state laws like this in 1997. The law for the whole country came into force on 12 October 2005.
+The money a government office spends came from the people, so the people may ask how it was spent. A plain sheet of paper is enough, and there is no special form. The person asking does not need to give a reason. They write a short letter to the office's Public Information Officer, in English, Hindi or the state's language. The fee is 10 rupees for central government offices, and families below the poverty line pay nothing. States set their own fees. Copies of papers cost a little more. In central offices, a copy costs 2 rupees a page. If the question is about someone's life or freedom, the answer must come within 48 hours. Tamil Nadu and Goa made state laws like this in 1997. The law for the whole country came into force on 12 October 2005.
 - e.g. A mother in Chennai asks the city corporation when the broken street light outside her building will be fixed.
 - e.g. Villagers in Odisha ask how much money was spent on their school's new toilet, and who built it.
 - e.g. A student asks the university for a copy of their own marked answer sheet.
+### When an office is late, or says no · *defined*
+**Definition:** An officer who delays an RTI answer is fined. A person who gets no answer, or a wrong one, may appeal. Some things may be kept secret.
+
+If an officer delays without good reason, the officer is fined 250 rupees for every day of delay, up to 25,000 rupees. To appeal is to ask again, higher up. First you appeal to a senior officer in the same office. After that, you may appeal to the Information Commission, a group that looks into such cases. Some things may be kept secret. One is anything that would harm the unity or safety of India. Another is anything a court has forbidden to be told. A third is anything that would break the special rights of Parliament or a state assembly. Secrets that another country trusted us with may be kept too. So may a person's private life.
+- e.g. A man in Pune gets no reply in 30 days. He appeals to a senior officer in the same office.
+- e.g. An officer answers 4 days late. The fine is 4 times 250 rupees, which is 1,000 rupees.
 ### Paid work for village families · *defined*
 **Definition:** A rural job guarantee is a law that promises paid work, such as digging ponds, to any village family whose adults ask for it.
 
@@ -75,6 +110,12 @@ In many villages, there is little paid work in the months between harvests. Many
 - e.g. Women in a Telangana village dig a farm pond, so rainwater stays for the dry months.
 - e.g. A family in Kerala asks the Gram Panchayat for work and gets a dated receipt for their request.
 - e.g. Workers in Rajasthan build a small check dam across a stream, so the water soaks into the ground.
+### More promises of the job guarantee · *defined*
+**Definition:** The job guarantee law made promises beyond work and wages: women's share, quick pay, safety and a place for small children.
+
+At least one worker in every three had to be a woman. Wages had to be paid within 15 days. A job card was valid for five years. If a worker was hurt at the work site, the treatment was free. If a worker died or was left disabled, the family was paid money. When five or more children under six were at a site, one person looked after them. Such a place is called a crèche. It lets mothers work without worry.
+- e.g. At a pond site with 30 workers, at least 10 must be women.
+- e.g. A mother digs a canal while a woman from the village minds her baby and two other small children in the shade.
 ### Why open records stop cheating · *idea*
 When records are kept shut in an office, a dishonest person can write a false name or false days, and nobody notices. When the records are read aloud to the people they are about, the false parts stand out. A worker knows how many days she worked. A villager knows whether a road was really built. That is why the job guarantee law requires a social audit, where the village checks the records. Andhra Pradesh was one of the first states to hold regular social audits of the job scheme, from 2006. Many studies have found that open records reduce cheating. They do not stop it completely, and researchers still argue about how much they help.
 - e.g. A muster roll shows a man working 12 days, but he was in Hyderabad all month. The villagers know, and say so at the meeting.
@@ -488,9 +529,9 @@ Lakshmi got out her slate. She wrote a large R and a T, the first letters of Rat
   *Child mode:* Now try to cheat it! Could you add a fake name? What stops you?
 
 ## Worksheets
-### Tax, Rights and Our Street (core) (core, 16 questions)
+### Tax, Rights and Our Street (core) (core, 19 questions)
 1. (mcq) A family's supermarket bill has a line called 'GST'. What is GST?  
-   Options: A discount the shop gives / Tax that goes to the government / A tip for the cashier / The shop's profit  
+   Options: A discount the shop gives / A tip for the cashier / The shop's profit / Tax that goes to the government  
    **Answer:** Tax that goes to the government. *Why:* GST is the Goods and Services Tax, added to the price of most things we buy. The shop passes it on to the government. A strong answer knows it is tax, not a shop charge or a discount.
 2. (truefalse) Only rich people pay tax.  
    **Answer:** False. *Why:* False. GST is in the price of most things anyone buys, so a family buying soap and oil pays tax too. Rich people also pay income tax, but almost everyone pays GST.
@@ -501,7 +542,7 @@ Lakshmi got out her slate. She wrote a large R and a T, the first letters of Rat
 5. (match) Match each law or word to what it means.  
    **Answer:** Right to Education Act → free school for every child aged 6 to 14; Right to Information Act → any citizen may ask a government office for information; Rural job guarantee → paid work for village families who ask for it; GST → tax added to the price of things we buy. *Why:* These four come up all through the unit. A strong answer can give an example of each.
 6. (mcq) A girl aged 11 is told by her family to stop going to school and work at home instead. Which law says she has a right to go to school?  
-   Options: The Right to Education Act / The Right to Information Act / The rural job guarantee / GST  
+   Options: The Right to Information Act / The rural job guarantee / The Right to Education Act / GST  
    **Answer:** The Right to Education Act. *Why:* The Right to Education Act gives every child aged 6 to 14 the right to free school. The other laws are about information and work.
 7. (write) A government school gives a child her textbooks free. Her mother says, 'Nothing is really free.' What does her mother mean?  
    **Answer:** A strong answer: the books were paid for with public money, which comes mostly from tax that families like hers pay when they shop.. *Why:* This is the heart of the unit. The school does not charge, but the money came from everyone, through tax.
@@ -525,16 +566,22 @@ Lakshmi got out her slate. She wrote a large R and a T, the first letters of Rat
 16. (odd) Which one is the odd one out? The road, the street light, the government hospital, our family's car.  
    Options: The road / The street light / The government hospital / Our family's car  
    **Answer:** our family's car. *Why:* The car belongs to one family. The others are shared and paid for with public money.
-### Records, Rights and Trade (stretch) (stretch, 16 questions)
+17. (match) Match each part of government to its job.  
+   **Answer:** Parliament → Makes the laws; An officer in an office → Carries out the laws; A court → Checks that the laws are fair. *Why:* One part makes the laws, one part carries them out, and one part checks. With three parts, no single group has all the power.
+18. (fill) In a democracy, the people choose their law-makers by ____.  
+   **Answer:** ['voting']. *Why:* A vote is each person's say in who makes the rules. In India every citizen aged 18 or more has one vote.
+19. (write) Give two reasons why school matters to you.  
+   **Answer:** For example: School teaches me to read and count, so nobody can cheat me about money. It also helps me find work I like when I grow up.. *Why:* A good answer gives two different reasons, such as reading and counting, finding work, staying healthy, knowing rights or helping the village.
+### Records, Rights and Trade (stretch) (stretch, 21 questions)
 1. (mcq) A new phone box says 'Assembled in India'. What does that tell you?  
-   Options: Every part was made in India / The phone was designed in India / The parts were joined together in India / The phone will only work in India  
+   Options: Every part was made in India / The phone was designed in India / The phone will only work in India / The parts were joined together in India  
    **Answer:** The parts were joined together in India. *Why:* Assembled means put together. The parts may have been made in other countries, then joined in a factory in India.
 2. (write) Choose two things from your Made Where survey. Where was each one made? Why do you think it came from there?  
    **Answer:** A strong answer names the things and countries from the child's own table, and gives a reason, such as 'food goes bad, so it is made nearby' or 'that country has many toy factories'.. *Why:* This uses the child's own evidence. Any reason that thinks about cost, distance or what goes bad is good.
 3. (truefalse) A government school may charge a small monthly fee for Class 4.  
    **Answer:** False. *Why:* False. Under the Right to Education Act, government schools may not charge fees for children aged 6 to 14.
 4. (mcq) Which of these must a job-guarantee work site have?  
-   Options: Drinking water and shade / A shop selling tea / A school for the workers / A bank  
+   Options: A shop selling tea / A school for the workers / A bank / Drinking water and shade  
    **Answer:** Drinking water and shade. *Why:* A work site must have drinking water, shade and first aid for the workers.
 5. (sort) Sort each question: can it be asked under the Right to Information Act?  
    **Answer:** How much did the road repair cost? → Can be asked; How much money is in my neighbour's bank account? → Can be kept back; How many teachers does our government school have? → Can be asked; Where are the army's secret plans? → Can be kept back; When will the broken street light be fixed? → Can be asked; What marks did my friend get? → Can be kept back. *Why:* Records about public money and public services can be asked for. A private person's money or marks, and secrets that would harm the country's safety, can be kept back.
@@ -545,7 +592,7 @@ Lakshmi got out her slate. She wrote a large R and a T, the first letters of Rat
 8. (fill) In the dry months there is little farm work in a village. The rural job guarantee gives people paid work, like digging ponds, so families still have ____ to buy food.  
    **Answer:** ['money', 'wages', 'income', 'pay']. *Why:* The job guarantee promises work close to home when farms have none. The wages keep families fed until farm work comes back.
 9. (mcq) A wooden toy is made in Channapatna, near Bengaluru. A plastic toy is made in a giant factory far away. Why might the far-away toy cost less?  
-   Options: The factory makes huge numbers, and ships carry them cheaply / Far-away things never have tax / Plastic is free / Wood is a rare material  
+   Options: Far-away things never have tax / Plastic is free / Wood is a rare material / The factory makes huge numbers, and ships carry them cheaply  
    **Answer:** The factory makes huge numbers, and ships carry them cheaply. *Why:* Giant factories make huge numbers of the same thing, so each one costs little to make. Big ships carry them cheaply. A strong answer sees that distance is not the only thing that sets a price.
 10. (truefalse) From 1 July 2026, India's new rural job law promises up to 125 days of paid work a year to each village family.  
    **Answer:** True. *Why:* True. The VB-G RAM G Act replaced MGNREGA from that date. MGNREGA had promised up to 100 days.
@@ -562,13 +609,23 @@ Lakshmi got out her slate. She wrote a large R and a T, the first letters of Rat
    **Answer:** A drawn bill with the four parts labelled.. *Why:* Knowing where these are lets anyone find the tax on their own bills.
 16. (write) Government schools give a free cooked lunch. Why might a free lunch bring more children to school?  
    **Answer:** A strong answer: children from poor families get a meal they might not get at home, so families send them, and fed children learn better.. *Why:* Studies in India have found more children, especially girls, come to school when lunch is served.
-### Fair or Not? Big Questions about Rights (challenge) (challenge, 15 questions)
+17. (sort) Sort each job. Does the Centre do it, or a state?  
+   **Answer:** the army → The Centre; the Indian Railways → The Centre; the post office → The Centre; state police → A state; a state highway → A state; a state government hospital → A state. *Why:* The Centre does the jobs that are the same for the whole country. States do the jobs closer to home, such as police, hospitals and state roads.
+18. (fill) If you get no RTI answer, first appeal to a senior officer. After that you can appeal to the ____ Commission.  
+   **Answer:** ['Information']. *Why:* To appeal is to ask again, higher up. The Information Commission looks into RTI cases when the first appeal does not help.
+19. (truefalse) To send an RTI letter, you must first buy a special form from the post office.  
+   **Answer:** False. *Why:* False. A plain sheet of paper is enough. You write who you are, whom you ask, and your question.
+20. (fill) A school with no recognition from the state can be fined up to ____ lakh rupees.  
+   **Answer:** ['1', 'one']. *Why:* A school must be recognised before it teaches children. A lakh is 100,000, so the fine can be up to 1 lakh rupees.
+21. (match) Match each promise of the job guarantee to the problem it answers.  
+   **Answer:** A crèche at the work site → A mother has small children and no one to mind them; Free treatment → A worker is hurt while digging; The same wage for women and men → A woman could be paid less for the same work; Wages paid within 15 days → A family cannot wait long for money to buy food. *Why:* Each promise answers a real worry of a worker's family. A crèche is a place where someone looks after small children while their parents work.
+### Fair or Not? Big Questions about Rights (challenge) (challenge, 17 questions)
 1. (write) A rich family and a poor family both buy the same soap and pay the same tax on it. Is that fair? Explain your thinking.  
    **Answer:** A strong answer sees both sides: the tax is the same in rupees, but it is a much bigger part of a poor family's money. That is one reason richer people also pay income tax.. *Why:* GST is the same rate for everyone, so poorer families spend a bigger share of their money on it. People argue about this.
 2. (perspective) Two people argue about the Right to Information Act.  
    **Answer:** A strong answer chooses a side, gives a reason, and says fairly how the other person might answer.. *Why:* Both points are real. Answering takes time, and openness also catches waste.
 3. (mcq) A woman who works on a village pond was paid for 12 days but worked 15. Which record would help her most at the social audit?  
-   Options: A photo of the pond / Her job card / The officer's diary / Her bus ticket  
+   Options: A photo of the pond / The officer's diary / Her job card / Her bus ticket  
    **Answer:** Her job card. *Why:* Her own job card shows the days she really worked. Comparing it with the register shows the mistake.
 4. (write) A village school has a building but no teacher. Does the right to education still help the children there? What would you do?  
    **Answer:** A strong answer says the right is not real without a teacher, and suggests using it: writing to the education office, or asking under RTI why no teacher was sent.. *Why:* A right needs people to do the work it promises. The law gives families a way to demand it.
@@ -580,7 +637,7 @@ Lakshmi got out her slate. She wrote a large R and a T, the first letters of Rat
 7. (write) Find the mistake in this thinking: 'The government pays for the road with its own money, not ours.'  
    **Answer:** A strong answer: the government's money comes mostly from tax that people pay, so the road was paid for with our money.. *Why:* The government holds public money for everyone. It does not make its own money from nothing.
 8. (mcq) Which of these would be the best evidence that the job guarantee helped poor families?  
-   Options: A minister's speech saying it worked / One happy family on TV / The number of posters printed / A study comparing how many meals families ate in villages with and without the work  
+   Options: A study comparing how many meals families ate in villages with and without the work / A minister's speech saying it worked / One happy family on TV / The number of posters printed  
    **Answer:** A study comparing how many meals families ate in villages with and without the work. *Why:* A careful study compares families with and without the work, and measures something real, such as meals. A speech or one story can't show how common something is.
 9. (draw) Make a picture poster for families who cannot read. It should tell them that every child aged 6 to 14 has a free school place.  
    **Answer:** A poster that a person who cannot read could understand: a child, a school, the numbers 6 and 14, and a sign that it costs nothing.. *Why:* Good design uses pictures and numbers, since many people who cannot read words can read numbers.
@@ -589,15 +646,19 @@ Lakshmi got out her slate. She wrote a large R and a T, the first letters of Rat
 11. (write) Gandhi asked Indians to buy swadeshi, things made close to home. A wooden Channapatna toy costs 300 rupees and a plastic toy from far away costs 100. What would Gandhi say? What would you choose, and why?  
    **Answer:** A strong answer says Gandhi would choose the local toy to support local makers, and then gives the child's own reasoned choice, with one fact about price, makers or fuel.. *Why:* There is no single right answer. The question is about weighing money against the maker's work and the cost of carrying things far.
 12. (mcq) A woman in a village asks the Gram Panchayat for work and gets a dated receipt. Why does the receipt matter?  
-   Options: It proves when she asked, so she can claim the allowance if no work comes / It is her wage / It lets her skip the queue / It is a ticket to the city  
+   Options: It is her wage / It lets her skip the queue / It proves when she asked, so she can claim the allowance if no work comes / It is a ticket to the city  
    **Answer:** It proves when she asked, so she can claim the allowance if no work comes. *Why:* If no work comes within 15 days, the receipt proves when she asked, so she can claim the allowance.
 13. (order) Put these in order, from earliest to latest.  
    **Answer:** ["India's Constitution comes into force", 'Free school lunches spread across Madras State', 'The Right to Information Act comes into force', "The rural job guarantee's first work begins", 'The Right to Education Act comes into force', 'A new rural job law promises 125 days']. *Why:* The Constitution came into force in 1950. Free school lunches spread across Madras State in the 1950s. The Right to Information Act came into force in 2005, and the first job guarantee work began in 2006. The Right to Education Act came into force in 2010. The new rural job law is from 2026.
 14. (write) Should children be allowed to write RTI letters themselves? Give one reason for and one against.  
    **Answer:** A strong answer gives a reason on each side, for example: for, children use schools and parks and have real questions. Against, they may need help to write clearly.. *Why:* This is an open question. Good answers think about who uses public services and what help a child might need.
 15. (mcq) Which of these could an office refuse to answer under the Right to Information Act?  
-   Options: How much the new bus stop cost / How much money a private person has in the bank / How many doctors work at the government hospital / When the school's roof will be repaired  
+   Options: How much the new bus stop cost / How many doctors work at the government hospital / When the school's roof will be repaired / How much money a private person has in the bank  
    **Answer:** How much money a private person has in the bank. *Why:* Information about a private person's own money can be kept back, unless it is in the public interest. The others are about public money and services.
+16. (count) An officer is 120 days late. At 250 rupees a day, that is 30,000 rupees. But the fine has a top limit of 25,000 rupees. How many rupees is the most he can be fined?  
+   **Answer:** 25000. *Why:* The law fines 250 rupees a day, but never more than 25,000 rupees in all. So the most is 25,000 rupees, even though 120 times 250 is 30,000.
+17. (truefalse) An office may refuse to show letters that another country sent India in trust.  
+   **Answer:** True. *Why:* True. The RTI law lets offices keep back secrets another country trusted us with. It also lets them keep back threats to India's safety, court-forbidden papers and a person's private life.
 
 ## Videos
 - **The Brave Teacher: The Inspiring Story of Savitribai Phule** (Veer Gatha Kids, 5 min) id `aesFEx1jKoA`: An animated story for children about Savitribai Phule, who opened a school for girls in Pune in 1848. Watch with the Right to Education card. *Check:* Watch it first yourself.
@@ -606,44 +667,71 @@ Lakshmi got out her slate. She wrote a large R and a T, the first letters of Rat
 
 ## Quiz
 1. (mcq) You buy a packet of biscuits. Do you pay any tax?  
-   Options: No, children never pay tax / Yes, a little GST is in the price / Only if you have a job / Only if the shop is big  
+   Options: No, children never pay tax / Only if you have a job / Yes, a little GST is in the price / Only if the shop is big  
    **Answer:** Yes, a little GST is in the price. *Why:* Yes. GST is added to the price of packaged food, so you pay a little tax inside the price, even though you never hand money to the government.
 2. (mcq) A family's bill shows CGST 9% and SGST 9%. How many rupees of tax are on every 100 rupees of price?  
    Options: 9 / 9 and a half / 18 / 99  
    **Answer:** 18. *Why:* The two are added: 9 + 9 = 18 rupees in every 100.
 3. (mcq) What is a right?  
-   Options: Something every person may have or do, which the law protects / A present from a rich person / A prize for good marks / A rule only for children  
+   Options: A present from a rich person / A prize for good marks / A rule only for children / Something every person may have or do, which the law protects  
    **Answer:** Something every person may have or do, which the law protects. *Why:* A right is something every person may have or do, which the law protects. It is not a gift that can be taken back.
 4. (mcq) Which of these is a right that India's laws give?  
-   Options: A free phone / A free car / A holiday every month / A free school place for children aged 6 to 14  
+   Options: A free phone / A free car / A free school place for children aged 6 to 14 / A holiday every month  
    **Answer:** A free school place for children aged 6 to 14. *Why:* Every child aged 6 to 14 has the right to a free school place. The others are not rights.
 5. (mcq) A school asks a 6-year-old to pass a test before giving a seat in Class 1. Is that allowed?  
-   Options: Yes, schools can test anyone / No, the Right to Education Act does not allow it / Only if she is a girl / Only in Chennai  
+   Options: Yes, schools can test anyone / Only if she is a girl / Only in Chennai / No, the Right to Education Act does not allow it  
    **Answer:** No, the Right to Education Act does not allow it. *Why:* No. The Right to Education Act bans tests for small children before admission.
 6. (mcq) Up to which class does the Right to Education Act promise free school?  
    Options: Class 3 / Class 5 / Class 8 / Class 12  
    **Answer:** Class 8. *Why:* It covers ages 6 to 14, usually Class 1 to Class 8.
 7. (mcq) Why may any citizen ask how public money is spent?  
-   Options: Because it came mostly from the people, as tax / Because officers are bored / Because only rich people pay tax / Because it is a school rule  
+   Options: Because officers are bored / Because only rich people pay tax / Because it came mostly from the people, as tax / Because it is a school rule  
    **Answer:** Because it came mostly from the people, as tax. *Why:* Public money comes mostly from tax that people pay, so it is the people's money.
 8. (mcq) To whom do you send a Right to Information letter?  
    Options: The Prime Minister / The office's Public Information Officer / A newspaper / The police  
    **Answer:** The office's Public Information Officer. *Why:* Every government office has a Public Information Officer whose job is to answer these letters.
 9. (mcq) Under the rural job guarantee, where does a village family ask for work?  
-   Options: At a bank / At a city factory / At the Gram Panchayat / At the post office  
+   Options: At a bank / At the Gram Panchayat / At a city factory / At the post office  
    **Answer:** At the Gram Panchayat. *Why:* The Gram Panchayat is the elected village council. It registers families and gives job cards.
 10. (mcq) At a social audit, what happens?  
-   Options: Workers are paid twice / The pond is filled with water / Officers check the sums in secret / Work records are read aloud, and workers say if they are true  
+   Options: Work records are read aloud, and workers say if they are true / Workers are paid twice / The pond is filled with water / Officers check the sums in secret  
    **Answer:** Work records are read aloud, and workers say if they are true. *Why:* The work records are read aloud to the village, and the workers say whether they are true.
 11. (mcq) You check 20 things at home. A phone box says 'Made in India', and a shirt says 'Made in Bangladesh'. What does this show?  
-   Options: The home has things from more than one country / Bangladesh is in India / Shirts can't be made in India / The labels must be wrong  
+   Options: Bangladesh is in India / Shirts can't be made in India / The labels must be wrong / The home has things from more than one country  
    **Answer:** The home has things from more than one country. *Why:* Things in one home come from many countries. Countries trade, and this is part of globalisation.
 12. (mcq) Which is a real worry about trade with the whole world?  
-   Options: Things get more expensive / Some local makers lose their work / Nobody can buy phones / Ships stop running  
+   Options: Some local makers lose their work / Things get more expensive / Nobody can buy phones / Ships stop running  
    **Answer:** Some local makers lose their work. *Why:* Cheaper goods from far away can put some local makers, such as handloom weavers or toy makers, out of work.
 13. (mcq) Some people say officers get too many RTI letters. Others say the letters catch waste. What is the fairest thing to say?  
-   Options: Only the officers are right / Only the citizens are right / Both have a point, and the evidence matters / Nobody should ever ask questions  
+   Options: Both have a point, and the evidence matters / Only the officers are right / Only the citizens are right / Nobody should ever ask questions  
    **Answer:** Both have a point, and the evidence matters. *Why:* Both sides have real points. A fair answer weighs the time taken against the waste caught.
+14. (mcq) Meena's mother says, 'Why send Meena to school? She can learn to cook at home.' Which is the best answer?  
+   Options: School teaches her to read bills and letters, so nobody can cheat her / School is the only place where she can find friends / School is where the government keeps its books / School is where every child gets a uniform  
+   **Answer:** School teaches her to read bills and letters, so nobody can cheat her. *Why:* Reading, writing and counting protect a person from being cheated, and they help her find work and know her rights. Friends and uniforms are nice, but they are not the main reason.
+15. (mcq) Who may vote in India?  
+   Options: Only people who pay income tax / Only people who can read and write / Every citizen aged 18 or more, rich or poor / Only men who own land  
+   **Answer:** Every citizen aged 18 or more, rich or poor. *Why:* India gave every grown-up the vote from the start. It does not depend on money, reading or being a man. Every vote counts the same.
+16. (mcq) Which part of the government makes new laws?  
+   Options: The officers in the town office / The courts / The shopkeepers in the market / Parliament and the state assemblies  
+   **Answer:** Parliament and the state assemblies. *Why:* The legislature makes laws, which means Parliament and the state assemblies. Officers carry the laws out, and courts check them.
+17. (mcq) On a shop bill, CGST and SGST are two shares of the tax. Who gets each share?  
+   Options: CGST goes to the state and SGST to the Centre / Both go to the shop / Both go to the Gram Panchayat / CGST goes to the Centre and SGST to the state  
+   **Answer:** CGST goes to the Centre and SGST to the state. *Why:* C is for Centre, and S is for state. The tax on one bill is shared between the two governments.
+18. (mcq) A man teaches children in a shed. The state has not recognised it as a school. What does the law say?  
+   Options: He may run it if the fees are low / He may not run it as a school, and can be fined / He may run it if he is a graduate / He may run it if there are fewer than 20 children  
+   **Answer:** He may not run it as a school, and can be fined. *Why:* A school must be recognised by the state before it teaches children. Without recognition, the owner can be fined up to 1 lakh rupees.
+19. (mcq) Asha asks a central government office for copies of 6 pages. A copy costs 2 rupees a page. How much do the copies cost?  
+   Options: 12 rupees / 8 rupees / 6 rupees / 20 rupees  
+   **Answer:** 12 rupees. *Why:* 6 pages at 2 rupees a page is 6 times 2, which is 12 rupees. This is only the cost of the copies. The application has its own fee.
+20. (mcq) An officer is 4 days late with an RTI answer. The fine is 250 rupees for each day of delay. How much is the fine?  
+   Options: 1,000 rupees / 250 rupees / 254 rupees / 4,000 rupees  
+   **Answer:** 1,000 rupees. *Why:* 4 days at 250 rupees a day is 4 times 250, which is 1,000 rupees. The fine can never go above 25,000 rupees in all.
+21. (mcq) A court has forbidden a case paper to be shown to anyone. A person asks for it by RTI. What may the office do?  
+   Options: Give it, because anyone may ask / Give it only to rich people / Give it after 100 days / Refuse, because the court has forbidden it  
+   **Answer:** Refuse, because the court has forbidden it. *Why:* The RTI law lets an office keep back anything a court has forbidden. It lists a few other secrets too, such as threats to India's safety.
+22. (mcq) A village work site for the job guarantee has 30 workers. At least how many must be women?  
+   Options: 10 / 3 / 15 / 30  
+   **Answer:** 10. *Why:* The law said at least one worker in every three must be a woman. One third of 30 is 10.
 
 ## Applications
 - Checking the tax on any bill before paying.
@@ -661,7 +749,7 @@ Lakshmi got out her slate. She wrote a large R and a T, the first letters of Rat
 - Children eating a hot lunch at a government school, served on steel plates.
 - A 'Made in' or 'Country of origin' label on a phone box, a shirt or a toy.
 - A shop that sells khadi or handloom cloth, such as a Khadi Gramodyog Bhavan.
-- Container ships and lorries at the ports of Chennai, Kochi, Kolkata or Mumbai.
+- Container ships and lorries at a port.
 - A board outside a government office naming its Public Information Officer.
 - Women and men digging a pond or a canal on a village work site, with a shade shelter nearby.
 
@@ -715,6 +803,8 @@ One Flag, Many Voices (sci.india.L3): Topic-level song for India: our country L3
 
 ## Things to buy
 - [A printed world map](https://www.amazon.in/s?k=world+map+chart+for+kids) (material): Useful for marking where the things in your home were made. A free map on a phone also works. Used in e2. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in A Notice Board Everyone Can Read, The Register That Is Hard to Fake. About ₹10 to ₹30. Any school ruler is fine. Used in c1, c2. Get it before A Notice Board Everyone Can Read.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in A Notice Board Everyone Can Read. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before A Notice Board Everyone Can Read.
 
 ## Warm-up
 - What does GST stand for? → Goods and Services Tax.

@@ -1,9 +1,9 @@
 # Organs inside you: where they sit and what they do
 `sci.body.organs-inside.L3`
 
-**Summary.** Where do your heart, lungs, stomach and brain sit, and what keeps them safe? In this unit you will feel your insides, make a life-size organ map, see how liquid protects a brain with an egg in a jar, and squeeze a bag to see whether churning breaks down food.
+**Summary.** Where do your heart, lungs, stomach and brain sit, and what keeps them safe? In this lesson you will feel your insides, make a life-size organ map, see how liquid protects a brain with an egg in a jar, and squeeze a bag to see whether churning breaks down food.
 
-**Intro.** *Put your hand flat on your chest and keep very still. You can feel a beat under your hand. It started before you were born, and it goes on while you sleep. What is beating, and where exactly is it?* Your heart, lungs, stomach and brain are hidden under your skin and bones. You cannot see them, but you can feel what they do. You can feel a beat in your chest, air filling you up and a full feeling after dinner. In this unit you find out where each organ sits, what it does and how the organs help each other.
+**Intro.** *Put your hand flat on your chest and keep very still. You can feel a beat under your hand. It started before you were born, and it goes on while you sleep. What is beating, and where exactly is it?* Your heart, lungs, stomach and brain are hidden under your skin and bones. You cannot see them, but you can feel what they do. You can feel a beat in your chest, air filling you up and a full feeling after dinner. In this lesson you find out where each organ sits, what it does and how the organs help each other.
 
 ## Learning outcomes
 0. I can say what an organ is: a body part with a special job, made of many living cells.
@@ -41,7 +41,7 @@
 ### What an organ is · *defined*
 **Definition:** An organ is a body part with a special job. It is made of different tissues, and each tissue is made of many cells of one kind.
 
-Think of a house. Bricks are like cells. A wall of bricks is like a tissue. A whole room, built from walls, a floor and a door, is like an organ. A kitchen is a room with a special job. Your stomach is an organ with a special job. Your body has many organs. This unit looks at four big ones inside you: the heart, the lungs, the stomach and the brain. Your skin is an organ too, and it is the biggest one you have.
+Think of a house. Bricks are like cells. A wall of bricks is like a tissue. A whole room, built from walls, a floor and a door, is like an organ. A kitchen is a room with a special job. Your stomach is an organ with a special job. Your body has many organs. This lesson looks at four big ones inside you: the heart, the lungs, the stomach and the brain. Your skin is an organ too, and it is the biggest one you have.
 - e.g. The heart is an organ. Its job is pumping blood.
 - e.g. The eye is an organ. Its job is seeing.
 - e.g. The skin is an organ. Its job is to cover and protect you.
@@ -181,7 +181,7 @@ We have been learning where the heart, lungs, stomach and brain are, and what th
 
 Long ago, all living things were single cells that did every job alone. Over a very long time, some cells began to live together as one body and share out the work. Some became heart cells that squeeze, some became lung cells that swap gases, and some became nerve cells that carry messages. The jobs one cell once did alone are now shared among many organs. Those many organs still keep one body alive together.
 
-- **Chandogya Upanishad 5.1:** “सा ह वागुच्चक्राम / सा संवत्सरं प्रोष्य पर्येत्योवाच / अथ ह प्राण उच्चिक्रमिषन्स यथा सुहयः पड्वीशशङ्कून्संखिदेदेवमितरान्प्राणान्समखिदत् / भगवन्नेधि / त्वं नः श्रेष्ठोऽसि” The senses and breath once argued about which of them was the greatest. Speech, sight, hearing and mind each left the body in turn, and the body carried on. When breath, prana, began to leave, all the others were pulled up with it. They agreed breath was the one they all depended on. (In this unit, the brain is badly hurt within minutes if the heart's blood stops, and every organ needs the oxygen your lungs bring in. The old story also puts breath at the centre of the body.)
+- **Chandogya Upanishad 5.1:** “सा ह वागुच्चक्राम / सा संवत्सरं प्रोष्य पर्येत्योवाच / अथ ह प्राण उच्चिक्रमिषन्स यथा सुहयः पड्वीशशङ्कून्संखिदेदेवमितरान्प्राणान्समखिदत् / भगवन्नेधि / त्वं नः श्रेष्ठोऽसि” The senses and breath once argued about which of them was the greatest. Speech, sight, hearing and mind each left the body in turn, and the body carried on. When breath, prana, began to leave, all the others were pulled up with it. They agreed breath was the one they all depended on. (In this lesson, the brain is badly hurt within minutes if the heart's blood stops, and every organ needs the oxygen your lungs bring in. The old story also puts breath at the centre of the body.)
 - **Saint Paul, First Letter to the Corinthians 12:12–26:** The body is one, though it has many parts. The eye cannot say to the hand, 'I don't need you.' If one part suffers, every part suffers with it. (Scientists see the same thing. When the heart stops, the brain is hurt within minutes. When the lungs struggle, every organ struggles.)
 - **Tao Te Ching 76:** “人之生也柔弱，其死也堅強。 / 萬物草木之生也柔脆，其死也枯槁。 / 故堅強者死之徒，柔弱者生之徒。” A newborn baby is soft and bendy, and a dead body is hard and stiff. Green plants bend, and dry dead ones snap. So the hard and stiff go with death, and the soft and bending go with life. (Your brain is one of the softest parts of you. In the egg in the jar test, the soft water around the egg protected it better than the hard jar alone.)
 - Science (settled): All animals with backbones share an ancient ancestor. That is why a fish and a child have a brain in a skull, a heart in front and a gut below, and why lungs and swim bladders began as one thing.
@@ -720,7 +720,7 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
 2. (write) In a lung illness called emphysema, the walls between the tiny air bags break, so many small bags become a few big ones. Will the person get more oxygen or less? Use the lump or bits test to explain.  
    **Answer:** Less oxygen. In the lump or bits test, the crushed bits had much more surface touching the water, so they disappeared faster than the whole lump. A few big bags have much less surface than many tiny ones. So less air touches the blood, and less oxygen gets in. The person gets out of breath easily.. *Why:* A strong answer says 'less oxygen', then gives the reason from the lump or bits test: more small pieces means more surface.
 3. (mcq) In the squish bag test, the squished biscuit broke up faster. Which part does the squishing in your real stomach?  
-   Options: The stomach's muscle walls / Your teeth / Your ribs / Your lungs pressing on it  
+   Options: Your teeth / Your ribs / The stomach's muscle walls / Your lungs pressing on it  
    **Answer:** The stomach's muscle walls. *Why:* The stomach is a stretchy bag with walls made of muscle. The walls squeeze and churn food for hours, like your hands on the bag. Teeth do their work earlier, in the mouth.
 4. (write) A friend says, 'Chewing does not matter. The stomach does all the work.' Use the squish bag test and the lump or bits test to show what your friend has missed.  
    **Answer:** Chewing breaks food into small bits before it reaches the stomach. In the lump or bits test, small bits of mishri disappeared faster than a whole lump, because more of the sugar touched the water. So chewed food gives the stomach juices more surface to work on. The stomach then squeezes the food, like your hands squeezing the squish bag. Both steps help.. *Why:* A strong answer finds the mistake and uses evidence from both tests. Chewing and churning work together.
@@ -733,7 +733,7 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
 8. (truefalse) The brain has no pain sensors of its own, so the brain itself does not hurt when touched.  
    **Answer:** True. *Why:* True. The brain feels pain from every other part of the body, but has no pain sensors in itself. That is why doctors can sometimes operate on the brain while the person is awake.
 9. (mcq) When you are scared, your heart starts to beat faster. Which organ sends the message to speed up?  
-   Options: The stomach / The lungs / The brain / No organ, the heart decides alone  
+   Options: The brain / The stomach / The lungs / No organ, the heart decides alone  
    **Answer:** The brain. *Why:* The brain sends messages along nerves that speed the heart up. The heart starts each beat by itself, but the brain changes how fast. So 'the heart decides alone' is half right, which makes this worth thinking about.
 10. (perspective) Three girls in a Class 3 group are arguing about which organ is the boss of the body.  
    **Answer:** A strong answer picks a side and backs it with a real fact. For Kavya: the brain speeds up the heart when you run or are scared. For Lakshmi: the brain dies within minutes without blood, and the heart starts its own beat. For Zoya: the heart needs oxygen from the lungs, and the lungs need the brain's messages to speed up. The answer-back must use a fact too, not just 'she is wrong'.. *Why:* Scientists still describe the body in different ways. Some see the brain as a control centre. Others see a team. Each side has real evidence.
@@ -744,13 +744,13 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
 13. (draw) Draw the rib cage around a heart and two lungs. Show the gaps between the ribs.  
    **Answer:** Curved ribs like the bars of a cage, a heart in the middle tipped left, two lungs filling the rest, and small gaps between the ribs.. *Why:* The gaps and the moving ribs let the chest get bigger when the lungs fill with air. A solid shell could not do that.
 14. (mcq) A cricket helmet is hard on the outside, with soft foam inside. Which part of your head is like the soft foam?  
-   Options: The liquid around the brain / The skull / Your hair / Your ears  
+   Options: The skull / Your hair / Your ears / The liquid around the brain  
    **Answer:** The liquid around the brain. *Why:* The skull is the hard outside, like the helmet's shell. The clear liquid around the brain is the soft cushion, like the foam. Both together keep the brain safe.
 15. (sort) Does this job happen in your chest or in your belly? Swapping air with the blood, pumping blood, churning food, soaking food into the blood.  
    **Answer:** swapping air with the blood → Chest; pumping blood → Chest; churning food → Belly; soaking food into the blood → Belly. *Why:* The lungs and heart are in the chest. The stomach churns food, and the intestines soak the broken-down food into the blood. Both are in the belly.
 ### Body Puzzles and Arguments (challenge) (challenge, 15 questions)
 1. (mcq) Sponges are animals that live in the sea. They have no heart, no stomach and no brain, and they sense and decide with a net of nerves. How do sponges stay alive?  
-   Options: They do not need oxygen or food / Water flows through them, and their cells take oxygen and food straight from the water / They borrow organs from fish / They only live for one day  
+   Options: They do not need oxygen or food / They borrow organs from fish / They only live for one day / Water flows through them, and their cells take oxygen and food straight from the water  
    **Answer:** Water flows through them, and their cells take oxygen and food straight from the water. *Why:* Water flows through tiny holes in a sponge's body. Each cell takes oxygen straight from the water, and some cells catch bits of food and share them. Sponges grow, feed and have babies, so they are alive. Organs are what happens when cells share out jobs in a bigger body.
 2. (mcq) Scientists put some heart muscle cells in a dish, away from any brain. The cells start to beat by themselves. What does this show?  
    Options: The heart needs the brain to start every beat / Heart cells have their own beat built in / The dish is shaking / The cells are copying each other's colour  
@@ -779,7 +779,7 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
 13. (write) What if your skull were made of soft rubber instead of bone? What would change when you bump your head? What would stay the same?  
    **Answer:** A rubber skull would bend in when I bump my head, so the bump would reach my brain and could hurt it. The liquid would still cushion my brain a little, like the water around the egg. My brain would still think and send messages, as long as it was not hurt.. *Why:* A strong answer uses both protections: the hard skull stops the bump, and the liquid cushions what gets through.
 14. (mcq) Someone says, 'Bones are not organs, because organs are soft.' Is that right?  
-   Options: No. A bone is made of many living cells and has jobs, so scientists count each bone as an organ / Yes. Only soft parts are organs / Yes. Bones are not alive / Only the skull is an organ  
+   Options: Yes. Only soft parts are organs / No. A bone is made of many living cells and has jobs, so scientists count each bone as an organ / Yes. Bones are not alive / Only the skull is an organ  
    **Answer:** No. A bone is made of many living cells and has jobs, so scientists count each bone as an organ. *Why:* Most organs are soft, so the guess makes sense. But bones are alive. They grow, mend when broken, and make new blood cells inside. So each bone is an organ too.
 15. (write) Starfish push their stomach out of their mouth to eat a mussel. A cow has a stomach with four parts to break down grass. Why might different animals have such different stomachs?  
    **Answer:** Each stomach fits the food that animal eats. Grass is tough and hard to break down, so a cow needs four parts and a long time. A mussel is shut inside a shell, so a starfish pushes the stomach in through the gap. The job is the same, but the food is different, so the stomach is different.. *Why:* A strong answer links each stomach to that animal's food. The job, breaking down food, stays the same.
@@ -791,46 +791,46 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
 
 ## Quiz
 1. (mcq) What makes your heart an organ, and not just one cell?  
-   Options: It is a team of millions of cells doing one big job together / It is very small / It is a bone / It is made of one giant cell  
+   Options: It is very small / It is a team of millions of cells doing one big job together / It is a bone / It is made of one giant cell  
    **Answer:** It is a team of millions of cells doing one big job together. *Why:* An organ is a body part with a special job, made of many living cells. One cell is the tiny living unit that organs are built from.
 2. (mcq) Stretched out, a grown-up's intestines are several metres long, longer than a car. How do they fit inside the belly?  
-   Options: They are folded and coiled up tightly / They shrink when you are not eating / Half of them hang down inside the legs / Most of them are kept in the chest  
+   Options: They shrink when you are not eating / Half of them hang down inside the legs / They are folded and coiled up tightly / Most of them are kept in the chest  
    **Answer:** They are folded and coiled up tightly. *Why:* The intestines are folded and coiled, like a long rope packed into a small box. That is why they fill most of the belly, below the stomach. A long tube gives food plenty of time and surface to soak into the blood.
 3. (mcq) On an X-ray of the chest, two big dark patches fill most of the space inside the ribs. What are they?  
-   Options: The heart / The stomach / The lungs / The ribs  
+   Options: The heart / The lungs / The stomach / The ribs  
    **Answer:** The lungs. *Why:* The lungs are full of air, and air lets X-rays through, so they look dark. They are big, filling most of the chest on both sides of the heart.
 4. (mcq) You laugh while eating a murukku, and a crumb goes 'down the wrong way'. You cough hard. Where did the crumb go, and why do you cough?  
-   Options: Into your windpipe, which leads to the lungs, so the cough blasts it back out / Into your stomach too early / Up into your brain / Into your heart  
+   Options: Into your stomach too early / Up into your brain / Into your heart / Into your windpipe, which leads to the lungs, so the cough blasts it back out  
    **Answer:** Into your windpipe, which leads to the lungs, so the cough blasts it back out. *Why:* Food and air both pass the back of the throat. A small flap usually closes the windpipe when you swallow. If you laugh or talk, it can stay open. The lungs are only for air, so the body coughs to push the crumb out.
 5. (mcq) A person's lungs are working well, but their heart stops. Why are they in danger?  
-   Options: The lungs will fill with food / Oxygen gets into the blood, but the blood stops moving to the brain and body / The stomach will stop churning / Nothing changes  
+   Options: The lungs will fill with food / The stomach will stop churning / Oxygen gets into the blood, but the blood stops moving to the brain and body / Nothing changes  
    **Answer:** Oxygen gets into the blood, but the blood stops moving to the brain and body. *Why:* The lungs put oxygen into the blood. But only the heart moves that blood around. Without the heart, the brain runs out of oxygen within minutes.
 6. (mcq) After lunch, food stays in your stomach for about three hours. What is the stomach doing all that time?  
-   Options: Pumping it into the lungs / Squeezing and churning it with strong juices into a thick soup / Sending it to the brain / Just holding it still  
+   Options: Pumping it into the lungs / Sending it to the brain / Just holding it still / Squeezing and churning it with strong juices into a thick soup  
    **Answer:** Squeezing and churning it with strong juices into a thick soup. *Why:* The muscle walls churn the food, like your hands squishing the bag in the squish bag test, and strong juices break it down. Then it goes on to the intestines.
 7. (mcq) What is your brain doing while you sleep?  
-   Options: Nothing, it is switched off / It is still busy, keeping you breathing and sorting your memories / Only dreaming / Digesting food  
+   Options: Nothing, it is switched off / Only dreaming / It is still busy, keeping you breathing and sorting your memories / Digesting food  
    **Answer:** It is still busy, keeping you breathing and sorting your memories. *Why:* The brain never switches off. It keeps you breathing all night, and sorts what you learned in the day. Many people think it 'turns off' in sleep.
 8. (mcq) Your ribs have gaps, and they can swing up and out. Why are they not one solid shell?  
-   Options: So the chest can get bigger when the lungs fill with air / So food can get out / To make you lighter / Because they are still growing  
+   Options: So food can get out / To make you lighter / So the chest can get bigger when the lungs fill with air / Because they are still growing  
    **Answer:** So the chest can get bigger when the lungs fill with air. *Why:* When you breathe in, the ribs swing out and the diaphragm pulls down. The chest gets bigger and air rushes into the lungs. A solid shell would not let it grow.
 9. (mcq) Before a big race, your tummy feels fluttery and your heart thumps. Which is the best explanation?  
-   Options: Your brain sends 'get ready' messages along nerves to your gut as well as your heart / Your stomach has moved up into your chest / Your lungs have stopped working / Your heart has dropped into your tummy  
+   Options: Your stomach has moved up into your chest / Your lungs have stopped working / Your brain sends 'get ready' messages along nerves to your gut as well as your heart / Your heart has dropped into your tummy  
    **Answer:** Your brain sends 'get ready' messages along nerves to your gut as well as your heart. *Why:* When you are nervous, the brain sends messages along nerves to many organs at once. The heart speeds up, and the gut slows down or squeezes oddly. That fluttery feeling shows the organs are linked by nerves.
 10. (mcq) In the egg in the jar test, we used the same kind of jar, the same size of egg and the same number of shakes. Why?  
    Options: So that only the water was different, and the test was fair / To save eggs / Because the jars were the only ones at home / It does not matter  
    **Answer:** So that only the water was different, and the test was fair. *Why:* If only one thing changes, we know that thing caused the difference. Here the only change was the water.
 11. (mcq) You eat a plate of idli. Which organs work as a team to get the energy from the idli to your legs?  
-   Options: Only the legs / The stomach and intestines break it down, then the heart pumps it in the blood / Only the lungs / Only the brain  
+   Options: The stomach and intestines break it down, then the heart pumps it in the blood / Only the legs / Only the lungs / Only the brain  
    **Answer:** The stomach and intestines break it down, then the heart pumps it in the blood. *Why:* The stomach churns, the intestines soak the food into the blood, and the heart pumps that blood to the legs. One job needs a team.
 12. (mcq) Which of these is still a mystery to scientists?  
-   Options: Where the heart sits / How the brain makes a thought or a feeling / What the stomach does / How many lungs we have  
+   Options: How the brain makes a thought or a feeling / Where the heart sits / What the stomach does / How many lungs we have  
    **Answer:** How the brain makes a thought or a feeling. *Why:* Where organs are and what they do is well known. How a brain makes the feeling of being you is one of the biggest open questions in science.
 13. (mcq) A fish, a cow and a child each have a brain inside a skull and a heart. What is the best reason?  
-   Options: They all happen to live near water / All animals with backbones share one ancient ancestor, so they share a body plan / The brain and heart grow wherever there is room / Their parents taught them  
+   Options: They all happen to live near water / The brain and heart grow wherever there is room / Their parents taught them / All animals with backbones share one ancient ancestor, so they share a body plan  
    **Answer:** All animals with backbones share one ancient ancestor, so they share a body plan. *Why:* Animals with backbones all come from one ancient ancestor, so their insides follow a similar plan: a brain in a skull, a heart in front and a gut below. That is why a fish and a child can be compared organ by organ.
 14. (mcq) Scientists can grow 'mini-organs', called organoids, from a few cells in a lab. What are they?  
-   Options: Full-sized organs ready to put in people / Tiny, simple versions of organs like the brain or gut, used to study them and test medicines / Toys / Plastic models  
+   Options: Tiny, simple versions of organs like the brain or gut, used to study them and test medicines / Full-sized organs ready to put in people / Toys / Plastic models  
    **Answer:** Tiny, simple versions of organs like the brain or gut, used to study them and test medicines. *Why:* Organoids are about the size of a pea or smaller. They help scientists learn how organs grow and test medicines safely.
 
 ## Applications
@@ -913,6 +913,10 @@ This Body Is a Universe (sci.body.L3): Topic-level song
 - [Kitchen scale that shows grams](https://www.amazon.in/s?k=digital+kitchen+scale) (tool): For the kitchen organ weigh-in. Used in a3. 
 - [Simple real stethoscope (toy ones are usually too weak to hear a heartbeat)](https://www.amazon.in/s?k=stethoscope+for+kids) (tool): To listen to the heart and lungs while learning where they are. A rolled-up paper tube held to the chest also works. Used in a1. 
 - [The Magic School Bus Inside the Human Body, by Joanna Cole and Bruce Degen](https://www.amazon.in/s?k=magic+school+bus+inside+the+human+body) (book): A picture-book trip through the stomach, blood, heart and brain. Used in p1. 
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Pack the Chest. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in c2. Get it before Pack the Chest.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in Helmet for an Egg Brain. About ₹20 to ₹50. Torn clean cloth works. Used in c1. Get it before Helmet for an Egg Brain.
+- [Iron nails or iron filings](https://www.amazon.in/s?k=iron+filings+science) (material): Used in The Egg in the Jar: how liquid protects the brain. About ₹20 to ₹80. Short steel nails from a hardware shop. Used in e1. Get it before The Egg in the Jar: how liquid protects the brain.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Where is your stomach: behind your belly button, or under your ribs on the left? → Under the ribs on the left.

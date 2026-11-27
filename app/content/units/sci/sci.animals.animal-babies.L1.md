@@ -1,9 +1,9 @@
 # Animal babies: how young animals grow into their parents' shape
 `sci.animals.animal-babies.L1`
 
-**Summary.** A baby pigeon hatches with no grey feathers, yet a month later it looks like its parents. In this unit you will measure how many heads tall a baby, a child and a grown-up are, and play a game of who looks like their parent.
+**Summary.** A baby pigeon hatches with no grey feathers, yet a month later it looks like its parents. In this lesson you will measure how many heads tall a baby, a child and a grown-up are, and play a game of who looks like their parent.
 
-**Intro.** *Look at a photo of yourself as a tiny baby. Now look in the mirror. Is the baby just a small you, or a different shape?* Every animal starts small. A kitten looks like a small cat. A tadpole looks nothing like a frog. And a human baby? Babies look like their parents in some ways, and not in others. In this unit we look at baby animals and their parents. Then we measure our own bodies, with strips of paper, to find out how a baby's shape changes as they grow.
+**Intro.** *Look at a photo of yourself as a tiny baby. Now look in the mirror. Is the baby just a small you, or a different shape?* Every animal starts small. A kitten looks like a small cat. A tadpole looks nothing like a frog. And a human baby? Babies look like their parents in some ways, and not in others. In this lesson we look at baby animals and their parents. Then we measure our own bodies, with strips of paper, to find out how a baby's shape changes as they grow.
 
 ## Learning outcomes
 0. By the end I can say that every kind of animal has young, and that humans do too.
@@ -344,7 +344,7 @@ Nandini turned to the last page of her notebook. She drew a pink chick on the le
 3. (draw) Draw yourself as a baby, and yourself now. Make the baby's head the right size for the baby's body.  
    **Answer:** A baby with a big head, about a quarter of the body, and short legs. A child now with a smaller head for the body, and longer legs.. *Why:* A strong drawing shows that the baby's head is big for the body, and that the legs grow the most.
 4. (mcq) You measure how many of their own head-lengths tall a grown-up, a child and a baby are. Who will be the most head-lengths tall?  
-   Options: The grown-up / The child / The baby  
+   Options: The child / The grown-up / The baby  
    **Answer:** The grown-up. *Why:* The grown-up is about 7 head-lengths tall, the child about 6 and the baby about 4. As we grow up, our legs grow much more than our head.
 5. (truefalse) Every kind of animal has young. Humans do too.  
    **Answer:** True. *Why:* True. Every kind of animal has young, and humans are animals.
@@ -361,7 +361,7 @@ Nandini turned to the last page of her notebook. She drew a pink chick on the le
    **Answer:** The second child is right: a baby is about 4 heads long and a grown-up about 7. But the first child is right that a baby has the same parts: two eyes, two arms and two legs.. *Why:* A strong answer uses the head strips to measure, and is fair to both children.
 ### How Babies Grow and Who Cares for Them (stretch) (stretch, 10 questions)
 1. (mcq) A calf can stand within about an hour of being born. A human baby takes about a year to walk. Why might a calf need to stand so soon?  
-   Options: To follow the mother and the herd, and keep safe / Because calves don't like lying down / To play with other calves  
+   Options: Because calves don't like lying down / To follow the mother and the herd, and keep safe / To play with other calves  
    **Answer:** To follow the mother and the herd, and keep safe. *Why:* A calf needs to walk with the mother and the herd, away from danger, from the first day. A human baby is carried by grown-ups, so they can take longer.
 2. (match) Draw a line from each parent to how they carry their young.  
    **Answer:** Mother cat → In her mouth, by the neck; Mother monkey → Holding on to her belly; Mother scorpion → On her back; Seahorse father → In a pouch on his belly. *Why:* Each parent carries the young in their own way. The seahorse father carries the eggs in his pouch until they hatch.
@@ -380,7 +380,7 @@ Nandini turned to the last page of her notebook. She drew a pink chick on the le
 9. (label) Here is the banana jar on day 8. Label the maggot, the brown case and the fly.  
    **Answer:** The white wriggler on the banana is the maggot. The small brown thing stuck to the glass is the brown case, called a pupa. The tiny insect with wings is the fly.. *Why:* A fruit fly starts as a maggot, makes a brown case, and comes out as a fly. All three are the same kind of animal at different ages.
 10. (mcq) A great hornbill mother seals herself into a tree hole with her eggs. Who brings her food?  
-   Options: The father hornbill / Nobody, she goes hungry / The chicks  
+   Options: Nobody, she goes hungry / The chicks / The father hornbill  
    **Answer:** The father hornbill. *Why:* The father hornbill brings fruit to a thin slit in the wall, and passes it to the mother and, later, the chicks.
 
 ## Videos
@@ -390,31 +390,31 @@ Nandini turned to the last page of her notebook. She drew a pink chick on the le
 
 ## Quiz
 1. (mcq) Which of these animals has young?  
-   Options: Only cats and dogs / Every kind of animal, humans too / Only birds  
+   Options: Every kind of animal, humans too / Only cats and dogs / Only birds  
    **Answer:** Every kind of animal, humans too. *Why:* Every kind of animal has young. Humans are animals too.
 2. (mcq) What is the young of a cow called?  
-   Options: A kitten / A calf / A chick  
+   Options: A calf / A kitten / A chick  
    **Answer:** A calf. *Why:* A cow's young is a calf. A kitten is a young cat, and a chick is a young bird.
 3. (mcq) A tadpole grows up into what?  
-   Options: A fish / A frog / A snake  
+   Options: A fish / A snake / A frog  
    **Answer:** A frog. *Why:* A tadpole grows legs, loses the tail and becomes a frog. Many people guess fish, because tadpoles swim.
 4. (mcq) Which baby looks very different from the parent?  
-   Options: A kitten / A puppy / A caterpillar  
+   Options: A caterpillar / A kitten / A puppy  
    **Answer:** A caterpillar. *Why:* A caterpillar has no wings and crawls on leaves. The grown-up is a butterfly or a moth. Kittens and puppies look like small cats and dogs.
 5. (mcq) Where do maggots come from?  
    Options: From eggs that flies lay / From rotting banana, by themselves / From the rain  
    **Answer:** From eggs that flies lay. *Why:* Maggots are fly babies. They hatch from eggs that flies lay on food. People once thought maggots grew out of rotting food by themselves.
 6. (mcq) A newborn baby is about how many of their own heads long?  
-   Options: About 4 / About 8 / About 20  
+   Options: About 8 / About 20 / About 4  
    **Answer:** About 4. *Why:* A newborn is about 4 heads long. A grown-up is about 7 or 8 heads tall, because the legs grow so much.
 7. (mcq) As a child grows up, which part grows the most?  
-   Options: The head / The legs / The ears  
+   Options: The head / The ears / The legs  
    **Answer:** The legs. *Why:* The legs grow the most. That is why a grown-up is more heads tall than a baby.
 8. (mcq) Who feeds a pigeon chick?  
    Options: Only the mother / Both the mother and the father / Nobody  
    **Answer:** Both the mother and the father. *Why:* Both pigeon parents make a milk in their throat and feed the chicks. They also take turns sitting on the eggs.
 9. (mcq) Which father carries the eggs in a pouch on his belly?  
-   Options: The seahorse father / The cat father / The crow father  
+   Options: The cat father / The crow father / The seahorse father  
    **Answer:** The seahorse father. *Why:* A seahorse father carries the eggs in his pouch until the babies hatch and swim out.
 10. (mcq) In the Heads Tall experiment, what did you do first, before you measured with the head strips?  
    Options: Guessed, and said why / Measured only the grown-up / Asked a friend for the answer  
@@ -466,11 +466,16 @@ Little Ones Grow (sci.animals.L1): Topic-level song for Animals L1
 
 ## Links
 - [iNaturalist](https://www.inaturalist.org/) · interactive: For the parent: photograph a bird, insect or animal from your window and find out their name.
-- [Arignar Anna Zoological Park, Vandalur]() · place · Chennai: A big zoo where you can see elephant, deer and monkey families with their young.
-- [Nehru Zoological Park]() · place · Hyderabad: A large zoo with many Indian animals, including mothers with young in some seasons.
-- [Assam State Zoo]() · place · Guwahati: A zoo inside a forest, with animals from Northeast India.
+- Arignar Anna Zoological Park, Vandalur · place · Chennai: A big zoo where you can see elephant, deer and monkey families with their young.
+- Nehru Zoological Park · place · Hyderabad: A large zoo with many Indian animals, including mothers with young in some seasons.
+- Assam State Zoo · place · Guwahati: A zoo inside a forest, with animals from Northeast India.
 
 ## Things to buy
+- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): Used in The Banana Jar: watch fruit fly babies grow. About ₹30 to ₹120. A water drop on clear plastic magnifies a little. Used in p1. Get it before The Banana Jar: watch fruit fly babies grow.
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in As Long as a Newborn: a string baby. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in a3. Get it before As Long as a Newborn: a string baby.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in As Long as a Newborn: a string baby. About ₹10 to ₹30. Any school ruler is fine. Used in a3. Get it before As Long as a Newborn: a string baby.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in Heads Tall: is a baby shaped like a small grown-up?. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in e1. Get it before Heads Tall: is a baby shaped like a small grown-up?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is the young of a cat called? → A kitten.

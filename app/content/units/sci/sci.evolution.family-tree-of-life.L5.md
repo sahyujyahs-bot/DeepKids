@@ -1,9 +1,9 @@
 # The family tree of life: how scientists work out who is related to whom, and how long ago their lines split
 `sci.evolution.family-tree-of-life.L5`
 
-**Summary.** A dolphin looks like a shark, yet the dolphin's closest relatives are hippos and cows. How can anyone know that, when nobody was there to watch the family lines split? In this unit you build trees from bodies and from DNA, and you choose between trees by counting changes. Then you roll a die to find out whether chance copying mistakes can tell time. You use your own dice clock to date a split that a grown-up keeps secret.
+**Summary.** A dolphin looks like a shark, yet the dolphin's closest relatives are hippos and cows. How can anyone know that, when nobody was there to watch the family lines split? In this lesson you build trees from bodies and from DNA, and you choose between trees by counting changes. Then you roll a die to find out whether chance copying mistakes can tell time. You use your own dice clock to date a split that a grown-up keeps secret.
 
-**Intro.** *A hippo stands in an African river. A blue whale swims in the open sea. Scientists say these two are closer relatives than a hippo and a pig. Nobody saw their family lines split. So how do scientists know, and how do they know when it happened?* Nobody has a birth record for a whale. What we have are bodies, fossils and DNA. DNA is the long molecule that carries the instructions for building a body, written in four chemical letters. The cells of every living being hold DNA. In this unit you first guess who is whose cousin from looks alone, and keep your guesses. You count the changes that three different trees would need, and pick the tree that needs the fewest. You roll a die seventy times to see whether chance mistakes add up steadily enough to work as a clock. Then you follow the case of the whale, where teeth, DNA and ankle bones each pointed somewhere. You also meet a purple frog from Kerala whose nearest relatives live on islands far across the Indian Ocean.
+**Intro.** *A hippo stands in an African river. A blue whale swims in the open sea. Scientists say these two are closer relatives than a hippo and a pig. Nobody saw their family lines split. So how do scientists know, and how do they know when it happened?* Nobody has a birth record for a whale. What we have are bodies, fossils and DNA. DNA is the long molecule that carries the instructions for building a body, written in four chemical letters. The cells of every living being hold DNA. In this lesson you first guess who is whose cousin from looks alone, and keep your guesses. You count the changes that three different trees would need, and pick the tree that needs the fewest. You roll a die seventy times to see whether chance mistakes add up steadily enough to work as a clock. Then you follow the case of the whale, where teeth, DNA and ankle bones each pointed somewhere. You also meet a purple frog from Kerala whose nearest relatives live on islands far across the Indian Ocean.
 
 ## Learning outcomes
 0. By the end I can read a family tree by its forks, and say who is whose closer relative.
@@ -158,7 +158,7 @@ The branches near the tips are well known. The deepest forks are harder, because
 We have learned how family trees are built, and how chance changes in DNA can tell time. Now we ask what this tells us about ourselves and the world.
 
 **Deep truth.** In the Dice Clock Test, nobody could say which roll would bring the next change. Yet over seventy rolls the changes piled up at a steady rate, and you told time with them. Copying mistakes in DNA arrive by chance in the same way. So the differences between your DNA and a crow's are a rough count of years. They record how long your two family lines have been apart.  
-*Habit it breaks:* We set chance against order, as if what happens by chance could never be relied on. We also treat a mistake as damage and nothing more. In this unit, each change is a chance mistake, and a large number of them is steady enough to measure time with. The steadiness belongs to the large number, not to any single event.  
+*Habit it breaks:* We set chance against order, as if what happens by chance could never be relied on. We also treat a mistake as damage and nothing more. In this lesson, each change is a chance mistake, and a large number of them is steady enough to measure time with. The steadiness belongs to the large number, not to any single event.  
 *Evidence:* Strips rolled for 10, 20 and 40 rounds ended with about 3, 6 and 11 coloured squares, though no single roll could be predicted. Human and chimpanzee DNA differ at about 1.2 places in every 100, and the clock built on such counts gave a date that later fossils fitted.
 
 - *who am i:* You are a cousin of every living being you will ever meet. The crow at the window is a cousin about 319 million years removed, and the banyan a much more distant one. Your cells carry the count.
@@ -561,7 +561,7 @@ Then she asked for the telephone number in Penang.
 ## Worksheets
 ### Reading and building family trees (core) (core, 16 questions)
 1. (mcq) What decides how closely two living beings are related?  
-   Options: How recently their family lines split / How alike they look / Whether they live in the same place / Whether they eat the same food  
+   Options: How alike they look / Whether they live in the same place / Whether they eat the same food / How recently their family lines split  
    **Answer:** How recently their family lines split. *Why:* Relatives are close when their shared ancestor lived recently. Looks and homes can match in distant relatives. Choosing 'how alike they look' is the natural first guess, and the dolphin and the shark show why it fails.
 2. (fill) On a family tree, each fork stands for a common ____.  
    **Answer:** ['ancestor']. *Why:* A fork is the point where one family line became two. The population living at that point is the ancestor of everything above the fork.
@@ -581,7 +581,7 @@ Then she asked for the telephone number in Penang.
 9. (write) In the Dice Clock Test, no roll could be predicted. Explain how the strips could still tell time.  
    **Answer:** About one roll in three gives a 5 or a 6. Over many rolls the changes add up at close to that rate. So the number of coloured squares rises roughly in step with the number of rounds, and can be read back as a time.. *Why:* A strong answer separates one roll, which is chance, from many rolls, which have a steady average.
 10. (mcq) A strip gains 6 coloured squares in 20 rounds. What is the rate?  
-   Options: 0.3 squares in each round / 3 squares in each round / 26 squares in each round / 120 squares in each round  
+   Options: 3 squares in each round / 0.3 squares in each round / 26 squares in each round / 120 squares in each round  
    **Answer:** 0.3 squares in each round. *Why:* A rate is the amount divided by the time. 6 ÷ 20 = 0.3. Choosing 120 means multiplying where dividing was needed. Choosing 26 means adding.
 11. (order) Put the steps of using a molecular clock in order.  
    **Answer:** ['Count the DNA differences between two species', 'Find a split whose date is known from fossils', 'Work out the rate from that known split', 'Divide the differences by the rate to date the new split']. *Why:* The count comes first, and it is not yet a date. The rate has to be set against something known before the count can be turned into years.
@@ -595,7 +595,7 @@ Then she asked for the telephone number in Penang.
 15. (write) Name one surprising pair of close relatives. Say what evidence shows they are close.  
    **Answer:** For example: whales and hippos. DNA puts them together, and they share jumping genes at the same places. Early fossil whales have the same double-pulley ankle bone as hippos, cattle and deer.. *Why:* A strong answer names the pair and gives at least one piece of evidence that is not about looks.
 16. (mcq) Why do scientists give the date of a split as a range?  
-   Options: The changes arrive by chance, so counts wobble / They have not tried hard enough / Dates are a matter of opinion / The fossils keep moving  
+   Options: They have not tried hard enough / Dates are a matter of opinion / The fossils keep moving / The changes arrive by chance, so counts wobble  
    **Answer:** The changes arrive by chance, so counts wobble. *Why:* A count of chance events is never exactly the average, and the rate itself is an estimate. A range is the honest way to say how far off the date could be. Choosing 'a matter of opinion' misses that the range is worked out from the data.
 ### Fewest changes, fast and slow genes, and setting the clock (stretch) (stretch, 16 questions)
 1. (mcq) On a possible tree, the two animals that share a feature are sisters. How many changes does that feature cost?  
@@ -606,7 +606,7 @@ Then she asked for the telephone number in Penang.
 3. (truefalse) True or false: a dugong is a closer relative of a dolphin than of an elephant.  
    **Answer:** False. *Why:* False. The dugong's line and the elephant's line split about 61 million years ago. The dugong's line and the dolphin's line split about 97 million years ago. The shared shape is a lookalike feature.
 4. (mcq) A fast-changing strip of 12 squares is nearly full. What can it no longer tell you?  
-   Options: A long time from a very long time / Whether any time has passed / Which die was used / How many squares it has  
+   Options: Whether any time has passed / A long time from a very long time / Which die was used / How many squares it has  
    **Answer:** A long time from a very long time. *Why:* Once nearly every square has changed, more rounds add almost nothing to the count. So 24 rounds and 48 rounds look alike. The strip still shows that plenty of time has passed.
 5. (match) Match each kind of evidence to what it is best used for.  
    **Answer:** Fast-changing DNA → Telling apart groups that split recently; A slow-changing gene → Dating a very old split; The same jumping gene at the same place → Showing two species share an ancestor; A fossil in dated rock → Setting the rate of the clock. *Why:* Each tool suits a job. Fast DNA has enough changes to separate recent splits. Slow genes have not filled up over long times. A jumping gene at one place is a rare shared event. A dated fossil turns counts into years.
@@ -621,7 +621,7 @@ Then she asked for the telephone number in Penang.
 10. (sort) Sort each group: a clade, or not a clade?  
    **Answer:** Birds → A clade; Animals that fly → Not a clade; Mammals → A clade; Animals that live in the sea → Not a clade; Whales and hippos, with their shared ancestor → A clade; Fish, without the land animals → Not a clade. *Why:* A clade is one ancestor with all the descendants. Birds, mammals, and whales with hippos each pass that test. Flyers and sea animals come from many separate branches. 'Fish' leaves out the land animals, who descend from fish.
 11. (mcq) Two frog families split 131 million years ago. Their lands broke apart 65 million years ago. What follows?  
-   Options: The families were separate before the land split / The land split caused the families to split / The frogs swam across the sea / The clock must be wrong  
+   Options: The land split caused the families to split / The families were separate before the land split / The frogs swam across the sea / The clock must be wrong  
    **Answer:** The families were separate before the land split. *Why:* 131 is older than 65. So the two families already existed while the land was one piece. When the land broke up, each piece carried one family away. Choosing 'the land split caused it' would need the two dates to match.
 12. (write) The oldest fossil of a branch is 50 million years old. Why might the branch be older than that?  
    **Answer:** Fossils form rarely, and few are found. The first members of the branch probably lived before the oldest fossil we happen to have. So the fossil shows the branch is at least 50 million years old, and it may be older.. *Why:* A strong answer says the fossil gives the latest date by which the branch existed, not the date it began.
@@ -631,7 +631,7 @@ Then she asked for the telephone number in Penang.
    Options: Elephant / Dugong / Hyrax / Dolphin  
    **Answer:** 3. *Why:* Elephants, dugongs and hyraxes belong to an old African branch called Afrotheria. The dolphin belongs with hippos, cattle and deer, on a different branch.
 15. (mcq) Two species differ in 2 letters per 100 and split 10 million years ago. When did a pair that differs in 6 split?  
-   Options: About 30 million years ago / About 12 million years ago / About 60 million years ago / About 3 million years ago  
+   Options: About 12 million years ago / About 30 million years ago / About 60 million years ago / About 3 million years ago  
    **Answer:** About 30 million years ago. *Why:* If the rate is the same, three times the differences means three times the time. 6 ÷ 2 = 3, and 3 × 10 = 30. Choosing 12 means adding 2 to 10 where multiplying was needed. These numbers are made up.
 16. (write) A rohu and a shark are both called fish. Explain why 'fish' is not one branch of the tree.  
    **Answer:** The rohu's line is closer to the line of frogs, birds and humans than to the shark's line. Any branch that holds both the rohu and the shark must also hold the land animals. Leaving them out makes 'fish' a group by way of life, not a whole branch.. *Why:* A strong answer uses the idea of a clade: one ancestor with all the descendants.
@@ -639,7 +639,7 @@ Then she asked for the telephone number in Penang.
 1. (write) Chimpanzees are our closest relatives. Explain how one stretch of our DNA can still be closer to a gorilla's.  
    **Answer:** The ancestor population of all three had several versions of that stretch. The gorilla line split first, and soon after, the human and chimpanzee lines split. By chance the human line kept the same old version as the gorilla line, and the chimpanzee line kept a different one.. *Why:* A strong answer says that the old population had variety, and that the two splits came close together, so chance decided which line kept which version.
 2. (mcq) Different genes give different trees for three species. What do scientists report as the species tree?  
-   Options: The tree most of the DNA supports / The tree from the longest gene / The tree found first / The tree that matches looks  
+   Options: The tree from the longest gene / The tree most of the DNA supports / The tree found first / The tree that matches looks  
    **Answer:** The tree most of the DNA supports. *Why:* Each stretch of DNA has a history of its own. The species tree is the one that the large majority of stretches agree on. Scientists also report how many disagree, because that shows how quickly the splits followed each other.
 3. (perspective) Two scientists argue about the first fork in the tree of the animals.  
    **Answer:** A strong answer picks a side and gives the evidence. For comb jellies first: the old arrangement of genes on their chromosomes. For sponges first: comb jelly DNA changes fast and may be misplaced, and a sponge has the simpler body. It also says what would settle it, such as more species or a new kind of evidence.. *Why:* This question is not settled. A simple body proves little, because bodies can lose parts. A fast-changing branch is a known source of error. Both points are fair.
@@ -648,7 +648,7 @@ Then she asked for the telephone number in Penang.
 5. (write) Two notebooks say '60' and one says '6'. One '60' was copied from the other. Why is this not two against one?  
    **Answer:** The copy only repeats what its source said. So the two notebooks give one piece of evidence, not two. It is one against one, and another notebook from a separate line of copying is needed to decide.. *Why:* Evidence counts as separate only when it comes by separate routes. Scientists apply the same care to genes that are inherited together.
 6. (mcq) Rats collect DNA changes faster each year than elephants do. What is one likely reason?  
-   Options: Rat generations are short, so DNA is copied more often / Rats are less careful animals / Rat DNA uses different letters / Elephant DNA never changes  
+   Options: Rats are less careful animals / Rat DNA uses different letters / Elephant DNA never changes / Rat generations are short, so DNA is copied more often  
    **Answer:** Rat generations are short, so DNA is copied more often. *Why:* Many mutations happen when DNA is copied for the next generation. A rat can be a parent within months, and an elephant takes more than ten years. So a century holds far more rat generations. Scientists think other causes add to this too.
 7. (draw) Sketch the fast strip and the slow strip as two lines over 48 rounds. Label where the fast line flattens.  
    **Answer:** The fast line climbs steeply and then bends flat near 12 squares. The slow line climbs gently and is still rising at round 48. The label points to the bend in the fast line.. *Why:* The bend is where hidden changes take over. After it, the fast strip can no longer separate one long time from another.
@@ -661,7 +661,7 @@ Then she asked for the telephone number in Penang.
 11. (write) There is no fossil for a certain split. Suggest two other ways to check a clock date for it.  
    **Answer:** Use a date from the Earth, such as when an island or a continent broke away. Or date the split again with different genes, or with a rate set from a different fossil, and see whether the answers agree.. *Why:* A strong answer looks for a second route to the same date. A result reached by two separate routes can be trusted more.
 12. (mcq) Tamil and Malayalam share many old words. What does a family tree of languages say about this?  
-   Options: Both descend from one earlier language / Each borrowed every word from the other / All languages have the same words / It is chance  
+   Options: Each borrowed every word from the other / All languages have the same words / It is chance / Both descend from one earlier language  
    **Answer:** Both descend from one earlier language. *Why:* Languages are passed on by copying, with small changes kept. Two languages that share many old words, changed in regular ways, split from one parent language. The reasoning is the same as for shared changes in DNA.
 13. (truefalse) True or false: a tree built from a single gene always matches the tree of the species.  
    **Answer:** False. *Why:* False. A single stretch of DNA can have a history that differs from the species' history, most often when two splits came close together. That is why many genes are used.
@@ -681,36 +681,36 @@ Then she asked for the telephone number in Penang.
 
 ## Quiz
 1. (mcq) On a family tree, how do you find out how closely two tips are related?  
-   Options: Trace back to the fork where their lines meet / See how near each other they are drawn / Count the tips between them / Check which is nearer the top  
+   Options: See how near each other they are drawn / Count the tips between them / Trace back to the fork where their lines meet / Check which is nearer the top  
    **Answer:** Trace back to the fork where their lines meet. *Why:* The fork where two lines meet is their last shared ancestor. The more recent that fork, the closer the relatives. How near two tips are drawn means nothing, because any fork can be flipped.
 2. (mcq) A tree is drawn with a fish at the left and a human at the right. What does that order show?  
-   Options: Nothing: the order of the tips has no meaning / Fish are less evolved than humans / Humans came last / Fish are the ancestors of humans  
+   Options: Fish are less evolved than humans / Humans came last / Nothing: the order of the tips has no meaning / Fish are the ancestors of humans  
    **Answer:** Nothing: the order of the tips has no meaning. *Why:* The same tree can be drawn with the tips in many orders. Every living tip has been evolving for the same length of time. Choosing 'less evolved' reads the tree as a ladder, which a tree is not.
 3. (mcq) A bat and a crow both have wings. Why is that weak evidence that they are close relatives?  
-   Options: Wings evolved separately in each, and are built differently / Wings are too small to study / Bats fly only at night / All animals once had wings  
+   Options: Wings are too small to study / Wings evolved separately in each, and are built differently / Bats fly only at night / All animals once had wings  
    **Answer:** Wings evolved separately in each, and are built differently. *Why:* A bat's wing is skin over long finger bones, and a crow's is feathers on an arm. The two evolved separately, for the same job. A lookalike feature tells you how animals live, not who their ancestors were.
 4. (mcq) Which feature best shows that a dolphin is closer to a cow than to a shark?  
-   Options: The mother feeds her young on milk / The dolphin lives in the sea / The dolphin has a backbone / The dolphin has a smooth shape  
+   Options: The dolphin lives in the sea / The dolphin has a backbone / The mother feeds her young on milk / The dolphin has a smooth shape  
    **Answer:** The mother feeds her young on milk. *Why:* Milk is a new feature that appeared once, in the first mammals, so sharing it marks a shared ancestor. All three have a backbone, so it cannot separate them. The smooth shape is a lookalike shared with the shark.
 5. (mcq) Scientists first try the tree that needs the fewest changes. What counts as a change?  
-   Options: A feature appearing or being lost / A new fossil being found / A scientist changing her mind / An animal moving to a new place  
+   Options: A new fossil being found / A feature appearing or being lost / A scientist changing her mind / An animal moving to a new place  
    **Answer:** A feature appearing or being lost. *Why:* Each change is an event in a family line: a feature appears, or is lost. A tree that makes milk or lungs appear twice needs more such events, so it is less likely.
 6. (mcq) Why can copying mistakes in DNA be used as a clock?  
-   Options: Over long times they add up at a steady average rate / Each mistake happens on a fixed date / Cells count the years / Mistakes happen only once a year  
+   Options: Each mistake happens on a fixed date / Cells count the years / Mistakes happen only once a year / Over long times they add up at a steady average rate  
    **Answer:** Over long times they add up at a steady average rate. *Why:* Each mistake is chance, but a large number of chance events has a steady average. So the count of differences grows roughly in step with time. No cell counts years, and no mistake has a fixed date.
 7. (truefalse) True or false: a scientist can predict which DNA letter will change next.  
    **Answer:** False. *Why:* False. Each mutation is a chance event, like one roll of a die. Only the average rate over very many letters and many generations can be measured.
 8. (mcq) What is a dated fossil used for in a molecular clock?  
-   Options: To set the rate of the clock / To supply the DNA / To replace the counting of differences / To decide which genes to read  
+   Options: To supply the DNA / To replace the counting of differences / To decide which genes to read / To set the rate of the clock  
    **Answer:** To set the rate of the clock. *Why:* The fossil gives a known date for one split. Dividing the DNA differences for that split by the date gives the rate. Almost no fossil has DNA left, so the DNA comes from living relatives.
 9. (mcq) A study dates a split to '131 million years ago, between 93 and 177'. What does the range tell you?  
-   Options: How far from 131 the true date might be / That the scientists disagree with each other / That there were two splits / That the study failed  
+   Options: That the scientists disagree with each other / How far from 131 the true date might be / That there were two splits / That the study failed  
    **Answer:** How far from 131 the true date might be. *Why:* The count of chance changes wobbles, and the rate is an estimate. The range shows the dates that fit the evidence. A study that gave no range would be hiding its uncertainty.
 10. (mcq) Which pair are each other's closest living relatives?  
-   Options: A whale and a hippo / A shark and a dolphin / A bat and a crow / A dugong and a dolphin  
+   Options: A shark and a dolphin / A bat and a crow / A whale and a hippo / A dugong and a dolphin  
    **Answer:** A whale and a hippo. *Why:* DNA, jumping genes and fossil ankle bones all place whales beside hippos. The other three pairs only look alike, because they swim or fly in the same way.
 11. (mcq) Fossil whales with legs had a double-pulley ankle bone. What did that show?  
-   Options: Whales belong with hippos, cattle and deer / Whales once climbed trees / The fossils were not whales / Ankles are lookalike features  
+   Options: Whales once climbed trees / The fossils were not whales / Ankles are lookalike features / Whales belong with hippos, cattle and deer  
    **Answer:** Whales belong with hippos, cattle and deer. *Why:* Only the even-toed hoofed mammals have that ankle. Finding it in early whales agreed with what DNA had already shown. An odd bone shape with no link to diet or swimming is unlikely to be a lookalike.
 12. (mcq) You want to date a split from 500 million years ago. Which gene do you choose?  
    Options: A slow-changing gene / A fast-changing gene / Any gene, since all change alike / The shortest gene  
@@ -732,10 +732,10 @@ Then she asked for the telephone number in Penang.
 - A house crow on the window grill and a mugger crocodile at the Madras Crocodile Bank near Mamallapuram are closer relatives than the crocodile and a garden lizard.
 - On a vegetable cart, the tomato, the potato, the brinjal and the chilli are one family. The cabbage, the cauliflower, the radish and the mustard seed are another.
 - A flying fox hanging in a banyan tree at dusk is a closer relative of the street dog below than of a rat.
-- Dugongs graze on seagrass in Palk Bay, off Thanjavur and Pudukkottai. Tamil Nadu made part of the bay a dugong reserve in 2022. Their nearest living relatives are elephants.
+- Dugongs grazing on seagrass, in a video or an aquarium. Their nearest living relatives are elephants.
 - The black Nilgiri langur in a shola forest and the grey langur at a temple in the plains are closest relatives, though for years books grouped them apart.
-- In the first rains of the monsoon in Kerala, the purple frog comes up from underground for a few days. Their nearest relatives live on the Seychelles islands.
-- Fossils of early whales have been found in Kutch in Gujarat and in Kashmir. Parts of India lay beside a warm, shallow sea when whales were first taking to the water.
+- Frogs coming out in the first rains of the monsoon. Some frogs come up from underground for just a few days.
+- A picture of an early whale fossil. Early whales lived beside a warm, shallow sea when whales were first taking to the water.
 - During the COVID-19 years, news reports named variants such as Delta and Omicron. Each name marked a branch on the virus's family tree.
 
 ## Open questions
@@ -783,14 +783,18 @@ Endless Forms (sci.evolution.L5): Topic-level song for Evolution L5
 - [Understanding Evolution (University of California, Berkeley)](https://evolution.berkeley.edu/) · interactive: For the parent: clear pages on how to read a family tree and the common ways of misreading one.
 - [Creating Phylogenetic Trees from DNA Sequences (HHMI BioInteractive)](https://www.biointeractive.org/classroom-resources/creating-phylogenetic-trees-dna-sequences) · interactive: A free click-through lesson that lines up real DNA letters and builds a tree from them. Best done with a parent.
 - [Nextstrain](https://nextstrain.org/) · interactive: For the parent and a keen child: live family trees of viruses, drawn against time, as health scientists use them.
-- [Madras Crocodile Bank Trust]() · place · Near Mamallapuram, south of Chennai: See mugger crocodiles, gharials and turtles up close. Look at a crocodile's scaly feet, then at a hen's feet.
-- [Regional Museum of Natural History]() · place · Mysuru: Galleries on the variety of life in southern India, with models that show which groups are related.
-- [Indian Museum]() · place · Kolkata: Its fossil galleries hold bones from the Siwalik Hills, where the fossil apes in this unit's history card were found.
+- Madras Crocodile Bank Trust · place · Near Mamallapuram, south of Chennai: See mugger crocodiles, gharials and turtles up close. Look at a crocodile's scaly feet, then at a hen's feet.
+- Regional Museum of Natural History · place · Mysuru: Galleries on the variety of life in southern India, with models that show which groups are related.
+- Indian Museum · place · Kolkata: Its fossil galleries hold bones from the Siwalik Hills, where the fossil apes in this lesson's history card were found.
 
 ## Things to buy
 - [A set of dice](https://www.amazon.in/s?k=dice+set) (tool): One die is enough for the Dice Clock Test and for Fast Gene, Slow Gene. Two let a parent and child roll at the same time. Used in e1, e2. 
 - [The Ancestor's Tale, a book by Richard Dawkins and Yan Wong (second edition, 2016)](https://www.amazon.in/s?k=The+Ancestor%27s+Tale+Dawkins+Wong) (book): For the parent: a walk back down the human family line, meeting each group of cousins at the fork where they join. Used in g1, p1. Read the chapter for one fork after playing Who Split First?, and tell your child who joins there.
 - [Tree of Life: The Incredible Biodiversity of Life on Earth, a book by Rochelle Strauss (2004)](https://www.amazon.in/s?k=Tree+of+Life+Rochelle+Strauss) (book): A picture book for ages 8 to 12 that walks through the big branches of life and how many kinds live on each. Used in p1. Read it together before day 1 of Ten Neighbours on One Time Tree, to help your child choose neighbours from several branches.
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in Ten Neighbours on One Time Tree. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in p1. Get it before Ten Neighbours on One Time Tree.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Dice Clock Test: can chance mistakes tell time?, Fewest Changes: three possible trees for a shark, a dolphin and a cow, The Brinjal Family on a Ruler: a time tree from the kitchen. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a2, a5, p1. Get it before The Dice Clock Test: can chance mistakes tell time?.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in The Dice Clock Test: can chance mistakes tell time?, Fast Gene, Slow Gene: is a faster clock always a better clock?. About ₹10 to ₹30. Draw squares on plain paper. Used in e1, e2. Get it before The Dice Clock Test: can chance mistakes tell time?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - On a family tree, what does a fork stand for? → A common ancestor, where one family line split into two.
@@ -810,7 +814,7 @@ Endless Forms (sci.evolution.L5): Topic-level song for Evolution L5
 - Curriculum entry sci.evolution.family-tree-of-life.L5: how scientists build the tree of life from bodies and DNA (phylogeny), molecular clocks, and surprising cousins. Notebook items bio:48 (phylogeny and cladistics) and bio:155 (molecular evolution).
 - ideas/by_topic/evolution-the-tree-of-life.md: the statement that evolution is a branching, ever-changing tree and not a progression, and that new evidence keeps refuting earlier understanding. Used in the first explanation, the game Tree Talk and the Whale Case. The founder's species list places whales among the even-toed hoofed mammals and tree shrews nearer to primates than to rodents. Both are used in Cousins by Looks and Who Split First?.
 - Combined lesson sci-C4-evolution-the-tree-of-life: the experiment 'Copy, change, branch', where a die decides when a copied DNA row mutates, and the card game 'Who is closer?'. The Dice Clock Test keeps the die and asks a new question, whether the changes keep time. The story and games here are new.
-- Other units were checked so that nothing repeats. Counting letters to rebuild a hidden tree is in sci.classification.keys-and-kingdoms.L5, nested boxes and the chicken wing are in sci.animals.body-plans.L5, and the feature ladder is in sci.animals.vertebrate-groups.L5. This unit adds the counting of changes on rival trees, the clock and its calibration, fast and slow genes, bracket trees and time trees.
+- Other units were checked so that nothing repeats. Counting letters to rebuild a hidden tree is in sci.classification.keys-and-kingdoms.L5, nested boxes and the chicken wing are in sci.animals.body-plans.L5, and the feature ladder is in sci.animals.vertebrate-groups.L5. This lesson adds the counting of changes on rival trees, the clock and its calibration, fast and slow genes, bracket trees and time trees.
 - Facts looked up on 19 Nov 2026: split dates from the TimeTree database (timetree.org), the Sarich and Wilson paper and the Ramapithecus history, the 2001 and 2007 whale papers, the purple frog paper, the Afrotheria and langur papers, the gorilla and chimpanzee genome papers, the 2012 Iceland mutation study, the 2023 comb jelly paper, the Canterbury Tales study, the Palk Bay dugong reserve, and the three video addresses.
 - Hennig W. (1950). Grundzüge einer Theorie der phylogenetischen Systematik. Berlin: Deutscher Zentralverlag. English version: Phylogenetic Systematics (1966). University of Illinois Press.
 - Zuckerkandl E. and Pauling L. (1965). Evolutionary divergence and convergence in proteins. In Evolving Genes and Proteins, Academic Press.

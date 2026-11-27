@@ -189,6 +189,12 @@
    "meaning": "A scientist who studies plants.",
    "example": "Janaki Ammal was an Indian botanist who studied sugarcane.",
    "art": "A botanist kneeling in a field with a notebook and a magnifying glass."
+  },
+  {
+   "term": "Nectar",
+   "meaning": "The sweet juice that a flower makes. Bees, butterflies and birds drink it.",
+   "example": "A bee drinks nectar from a mustard flower and carries pollen to the next flower.",
+   "art": "A bee on a flower with a drop of shining nectar at the middle, and yellow pollen on the bee's legs."
   }
  ],
  "explanations": [
@@ -325,7 +331,8 @@
    "examples": [
     "Shade plants, like the money plant on a dim landing, often have big, thin leaves.",
     "In a field of grown sunflowers, almost every flower head faces east, towards the morning Sun.",
-    "Look down on a tulsi plant. Each pair of leaves sits at right angles to the pair below."
+    "Look down on a tulsi plant. Each pair of leaves sits at right angles to the pair below.",
+    "Leaves differ in colour, shape and feel. A curry leaf is shiny and smooth, a mint leaf is crinkly, and a hibiscus leaf is a little rough. Crush a tulsi or mint leaf and sniff. Tiny drops of oil inside the leaf make the smell. Many plants make such oils partly to keep hungry insects away."
    ],
    "perspectives": [],
    "art": "A view from above a plant, their leaves fitting together like a jigsaw, and a sun leaf and a shade leaf from the same bush side by side.",
@@ -432,6 +439,20 @@
    ],
    "art": "A green leaf and an imaginary black leaf side by side under the Sun, with rainbow arrows bouncing off the green leaf.",
    "context": "Nearly every leaf in the world is green. This card is about a surprise: scientists are still not sure why."
+  },
+  {
+   "concept": "Plant parts feed and house other living beings",
+   "status": "defined",
+   "definition": "Plants are not only for themselves. Animals, birds and insects eat plant parts, drink from them and make homes in them.",
+   "description": "In Rajasthan, camels chew the leaves of the khejri tree, even though it has thorns. A bee lands on a mustard flower and drinks nectar, a sweet juice the flower makes. While she drinks, pollen sticks to her body. She carries it to the next flower, and that helps the flowers make seeds. So the bee gets food, and the plant gets help. A spotted owlet, a small owl, sleeps through the day in a hollow in an old tree trunk. She raises her chicks there, safe from the rain. A leaf, a flower and a trunk each do their own job for the plant. They also do a job for the many living beings who share the plant's neighbourhood.",
+   "examples": [
+    "Goats and cows eat grass leaves, and so do many wild deer.",
+    "A mustard field in flower hums with bees, and the bees' honey tastes of mustard.",
+    "A parrot or a squirrel sitting in a guava tree is eating the fruit that holds the plant's seeds."
+   ],
+   "perspectives": [],
+   "art": "A khejri tree in the desert with a camel eating its leaves, a bee on a yellow mustard flower, and a spotted owlet looking out of a hollow in a trunk.",
+   "context": "Plant parts do jobs for the plant, and also for animals. This card shows how camels, bees and owls use leaves, flowers and trunks."
   },
   {
    "concept": "How plants grew their parts: a story 470 million years long",
@@ -845,11 +866,11 @@
       "t": "mcq",
       "q": "A potato has eyes that sprout. What is a potato really?",
       "options": [
-       "A root",
        "A stem",
+       "A root",
        "A leaf"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A potato's eyes are buds, and buds grow on stems. Each eye can sprout a new shoot. So a potato is a fat underground stem, called a tuber. Picking 'root' usually means deciding by where it grows. Lots of stems grow under the ground."
      }
     },
@@ -1017,10 +1038,10 @@
       "q": "Trouble card: no rain for six months. Which plant has the best chance?",
       "options": [
        "A plant with wide, thin leaves and short roots",
-       "A plant with a fat water-storing stem, spines and long roots",
-       "A plant with floating leaves"
+       "A plant with floating leaves",
+       "A plant with a fat water-storing stem, spines and long roots"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A fat stem stores water for the dry months. Spines lose far less water than wide leaves, and long roots reach water deep down. That is the cactus plan. Picking wide leaves usually means thinking more leaves always help. In a drought, wide leaves lose water fastest."
      }
     },
@@ -1146,12 +1167,12 @@
      "t": "mcq",
      "p": "A money plant cutting is put in a glass of water. After a week, white roots grow from the stem. What does this show?",
      "opts": [
-      "A cutting can grow the parts they are missing",
       "Money plants never need roots",
+      "A cutting can grow the parts they are missing",
       "The roots came from the water",
       "The stem has turned into a root"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The cutting had a stem and leaves but no roots. A plant needs roots to soak up water and hold on, so the cutting grew new ones. Picking 'never need roots' gets it backwards. The cutting grew roots because roots are needed."
     },
     {
@@ -1180,12 +1201,12 @@
      "t": "mcq",
      "p": "Why does a cactus have spines instead of wide leaves?",
      "opts": [
-      "Wide leaves would lose too much water in the desert",
       "Spines catch more sunlight",
       "Cactuses do not need any food",
-      "Spines help them float"
+      "Spines help them float",
+      "Wide leaves would lose too much water in the desert"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Wide leaves lose lots of water into hot, dry air. Spines lose very little, and they also guard the plant from thirsty animals. The fat green stem does the leaf's food-making job. Picking 'cactuses do not need food' misses that the stem makes their food."
     },
     {
@@ -1217,12 +1238,12 @@
      "t": "mcq",
      "p": "Aloe has thick, juicy leaves full of water. What does this suggest about where aloe grows?",
      "opts": [
-      "A dry place, where storing water helps the plant",
       "A pond, where the plant floats",
+      "A dry place, where storing water helps the plant",
       "A dark forest floor, where light is weak",
       "Under the ground, where it is cold"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Thick leaves can hold water for the dry months. Picking 'a pond' mixes this up with the lotus, whose flat leaf floats. A plant with juicy leaves has a water store, which a dry place needs."
     },
     {
@@ -1241,6 +1262,31 @@
       "hair"
      ],
      "why": "Root hairs are far thinner than the hairs on your head. They touch lots of soil, so a root can soak up water quickly."
+    },
+    {
+     "t": "match",
+     "p": "Match each living being to the plant part it uses.",
+     "pairs": [
+      [
+       "A camel in Rajasthan",
+       "eats the leaves of a khejri tree"
+      ],
+      [
+       "A bee",
+       "drinks nectar from a flower"
+      ],
+      [
+       "A spotted owlet",
+       "raises chicks in a hollow in a tree trunk"
+      ],
+      [
+       "A parrot",
+       "eats the fruit of a guava tree"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Leaves, flowers, trunks and fruits are jobs for the plant, and also food and homes for others.",
+     "art": "Four small pictures: a camel by a tree, a bee on a flower, an owlet in a trunk hollow, a parrot on a guava."
     }
    ]
   },
@@ -1351,12 +1397,12 @@
      "t": "mcq",
      "p": "A lotus leaf floats on a pond. Where are its stomata, the tiny holes that let air in?",
      "opts": [
-      "On the top side, facing the air",
       "On the bottom side, in the water",
       "There are none",
+      "On the top side, facing the air",
       "On the stem only"
      ],
-     "a": 0,
+     "a": 2,
      "why": "On most land leaves, stomata are mostly underneath. A floating lotus leaf has them on top, where the air is. Its shape and its holes both fit its life on water. Picking 'bottom side' means using the rule for land leaves. The lotus breaks that rule for a good reason."
     },
     {
@@ -1371,12 +1417,12 @@
      "t": "mcq",
      "p": "Pollen must be carried from flower to flower. A jasmine (malli) flower is white, which shows up in dim light, and it smells strongest in the evening. Which visitors is it most likely to attract?",
      "opts": [
-      "Moths that fly at dusk and at night",
       "Bees that fly at noon",
       "The wind",
-      "Birds that fly in the morning"
+      "Birds that fly in the morning",
+      "Moths that fly at dusk and at night"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A flower's job is to make seeds, and for that pollen must be carried from flower to flower. White shows up in dim light, and a strong smell carries in the dark. Night-flying moths follow both. Picking bees is a fair guess, because bees visit many flowers, but bees mostly fly in the daytime."
     },
     {
@@ -1453,12 +1499,12 @@
      "t": "mcq",
      "p": "Pine trees on cold mountains have thin needles, not wide leaves. How does this help?",
      "opts": [
-      "A needle loses very little water in cold, dry winds",
       "A needle catches more sunlight",
       "A needle floats on water",
-      "A needle stores water like aloe"
+      "A needle stores water like aloe",
+      "A needle loses very little water in cold, dry winds"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A thin, tough needle has little surface for water to escape from. Picking 'catches more sunlight' mixes this up with wide leaves, which catch more light but lose more water."
     },
     {
@@ -1468,6 +1514,14 @@
       "node"
      ],
      "why": "A node is where leaves and buds grow on a stem. In bamboo, the wall at each node stops the tube from squashing flat when it bends."
+    },
+    {
+     "t": "draw",
+     "p": "Take one leaf from the kitchen or balcony, like mint, curry leaf or tulsi. Draw it. Label its colour, its shape, how it feels and its veins. Then crush a corner, sniff, and write its smell word beside it.",
+     "a": "A drawing of the leaf with labels such as 'dark green', 'oval', 'crinkly', 'net veins', and a smell word such as 'sharp' or 'sweet'.",
+     "why": "Leaves differ in colour, shape, feel, veins and smell. A careful drawing with labels is how a botanist records them.",
+     "lines": 6,
+     "art": "A blank page with a mint leaf placed beside it."
     }
    ]
   },
@@ -1481,12 +1535,12 @@
      "t": "mcq",
      "p": "A sweet potato is a root, but it can sprout shoots. Does that break the rule 'buds grow on stems'?",
      "opts": [
-      "It shows that rules in biology have exceptions, so botanists use several clues together",
       "It proves a sweet potato is a stem",
       "It proves the rule is useless",
+      "It shows that rules in biology have exceptions, so botanists use several clues together",
       "Sweet potatoes cannot really sprout"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Most roots have no buds, but a few, like sweet potato, can grow shoots. Botanists look at many clues, like how it grew and what it is joined to. Picking 'the rule is useless' throws away a rule that works for most plants."
     },
     {
@@ -1509,12 +1563,12 @@
      "t": "mcq",
      "p": "Mangrove trees grow in salty mud that floods twice a day. Why do their roots poke up out of the mud?",
      "opts": [
-      "To get air, because flooded mud has almost none",
       "To catch fish",
       "To drink rainwater",
-      "To scare crabs"
+      "To scare crabs",
+      "To get air, because flooded mud has almost none"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Roots need air to stay alive. In waterlogged mud there is almost none, so breathing roots stick up like snorkels. Picking 'drink rainwater' is close, but these roots are mainly for air."
     },
     {
@@ -1567,24 +1621,24 @@
      "t": "mcq",
      "p": "Why are spirals of leaves and scales so common in plants?",
      "opts": [
-      "They pack things tightly and stop leaves shading each other",
       "Plants like the look of spirals",
       "Spirals make plants grow faster upward",
-      "The wind twists them"
+      "The wind twists them",
+      "They pack things tightly and stop leaves shading each other"
      ],
-     "a": 0,
+     "a": 3,
      "why": "In a spiral, each new leaf is turned a little from the last, so each leaf gets its own patch of sky. Seeds and scales in spirals pack together with almost no gaps. Picking 'the wind twists them' is a sensible guess, but the pattern starts in the growing tip, long before the wind can reach it."
     },
     {
      "t": "mcq",
      "p": "Mango, bean and mustard plants have net veins in their leaves and a tap root. Grass and maize have parallel veins and fibrous roots. A plant has net veins in their leaves. What kind of roots do they probably have?",
      "opts": [
-      "A tap root",
       "Fibrous roots",
       "No roots",
+      "A tap root",
       "Breathing roots"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Net veins usually go with a tap root, as in mango, beans and mustard. Parallel veins usually go with fibrous roots, as in grass and maize. Picking fibrous roots means swapping the two groups. Remember: grass has parallel veins and a beard of roots."
     },
     {
@@ -2008,10 +2062,10 @@
       "q": "The potato turned blue-black. The carrot stayed brown. What does this tell us?",
       "options": [
        "The carrot has no stored food",
-       "The potato stores starch, and the carrot stores its food in another way, mostly as sugar",
-       "The iodine did not work on the carrot"
+       "The iodine did not work on the carrot",
+       "The potato stores starch, and the carrot stores its food in another way, mostly as sugar"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Both are food stores. The potato packs its food as starch, so iodine turns it blue-black. The carrot packs most of its food as sugar, which is why it tastes sweet. Iodine does not change colour on sugar. Picking 'no stored food' means taking 'no starch' to mean 'no food'. Taste a raw carrot and you know it is full of food."
      }
     },
@@ -2176,11 +2230,11 @@
       "t": "mcq",
       "q": "On one hibiscus bush, the middle sun leaf covered 18 squares and the middle shade leaf covered 27. What does this suggest?",
       "options": [
-       "Shade leaves grow bigger, to catch more of the weak light",
        "Sun leaves are bigger, because they get more food",
-       "Leaves are always the same size"
+       "Leaves are always the same size",
+       "Shade leaves grow bigger, to catch more of the weak light"
       ],
-      "a": 0,
+      "a": 2,
       "why": "In the shade there is less light, so a plant grows bigger, thinner leaves to catch as much as they can. In full sun there is plenty of light, so smaller, thicker leaves are enough, and they lose less water. Picking 'sun leaves are bigger' is a sensible guess, because the sun gives more energy. But a leaf's size is about how much light it needs to catch."
      },
      "chart": {
@@ -2539,9 +2593,13 @@
      "item": "a hand lens, if you have one",
      "qty": 1,
      "buy": "b-lens"
+    },
+    {
+     "item": "a crayon with its paper wrapper peeled off, and a few sheets of plain paper",
+     "qty": 1
     }
    ],
-   "safety": "Go outdoors only with a grown-up. Do not touch plants with milky sap or itchy hairs, and wash hands afterwards.",
+   "safety": "Go outdoors only with a grown-up. Do not touch plants with milky sap or itchy hairs, and wash hands afterwards. Sniff only leaves that a grown-up knows are safe, like tulsi, mint and curry leaf.",
    "schedule": [
     {
      "day": 1,
@@ -2563,9 +2621,9 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "1. Tape each leaf onto a page. 2. Fold a spare leaf in half along its middle vein. Are the two halves the same? 3. Write three describing words for each leaf, like pointy, waxy, hairy or heart-shaped. 4. Look at its veins. Tell your child to write N next to net-like veins, or S next to veins that run side by side.",
+     "do": "1. Tape each leaf onto a page. 2. Fold a spare leaf in half along its middle vein. Are the two halves the same? 3. Write three describing words for each leaf, like pointy, waxy, hairy or heart-shaped. 4. Look at its veins. Tell your child to write N next to net-like veins, or S next to veins that run side by side. 5. Crush a corner of a tulsi, mint or curry leaf and sniff it. Write a smell word, like sharp, sweet or none. 6. Lay a leaf with the veins facing up under a sheet of paper. Rub the side of a crayon over it. The outline and veins appear.",
      "say": "Describe each leaf like a detective. Fold one in half. Is it the same on both sides? Look at the veins. Do they make a net, or run side by side?",
-     "kid": "Tape each leaf on a page. Fold one in half. Are the halves the same? Write three words for each leaf. Look at the veins. Net, or side by side? Write N or S.",
+     "kid": "Tape each leaf on a page. Fold one in half. Are the halves the same? Write three words for each leaf. Look at the veins. Net, or side by side? Write N or S. Crush a corner of a safe leaf, like tulsi or mint, and sniff. Write a smell word. Then put a leaf under paper and rub a crayon over it.",
      "ask": [
       {
        "q": "Which leaf do you think grew in the most shade? Why?",
@@ -2586,11 +2644,11 @@
       "t": "mcq",
       "q": "A leaf is shiny and waxy on top. Where might it have grown?",
       "options": [
-       "In hot sun, where a waxy skin keeps water in",
        "In a dark cupboard",
-       "Under the ground"
+       "Under the ground",
+       "In hot sun, where a waxy skin keeps water in"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A waxy skin works like a raincoat. It stops water escaping from the leaf in hot sun and wind. On lotus and chembu leaves, wax also makes rain roll off. Picking 'dark cupboard' cannot be right, because leaves need light and grow where there is light."
      }
     }
@@ -2671,11 +2729,11 @@
       "t": "mcq",
       "q": "A coiled tendril twists one way, then switches and twists the other way. Why?",
       "options": [
-       "Both its ends are held, so it cannot twist all one way",
        "It got confused",
+       "Both its ends are held, so it cannot twist all one way",
        "The wind blew it backwards"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Once a tendril has grabbed a support, one end is fixed to the plant and the other to the support. A thread held at both ends cannot twist all one way, so it makes a spring that switches direction in the middle. The spring pulls the plant closer and lets it stretch in the wind. Picking 'the wind' is a fair guess, but tendrils indoors switch too."
      }
     },
@@ -2831,11 +2889,11 @@
       "t": "mcq",
       "q": "In the dark forest you spread your arms wide. Why do plants on a dark forest floor often have big, wide leaves?",
       "options": [
-       "To catch as much of the weak light as they can",
        "To keep the rain off",
+       "To catch as much of the weak light as they can",
        "To store water for the dry season"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Under tall trees, very little light reaches the ground. A big, wide, thin leaf catches as much of it as possible. Picking 'to keep the rain off' is a fair guess, because big leaves do shelter things. But their main job is to catch light."
      }
     }
@@ -2952,11 +3010,11 @@
       "t": "mcq",
       "q": "The beans with no stick have long, floppy stems lying over the edge of the pot. Why?",
       "options": [
-       "They are thin stems built for climbing, and have nothing to hold on to",
        "They need more water",
-       "They are a different kind of bean"
+       "They are a different kind of bean",
+       "They are thin stems built for climbing, and have nothing to hold on to"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A climber saves food by growing a thin stem instead of a strong trunk. They are built to lean on something. With nothing to hold, they flop over and keep searching. Picking 'more water' is a fair guess, because floppy plants are often thirsty. But these stems are firm and green. They are just not built to stand alone."
      }
     },
@@ -3108,12 +3166,12 @@
    "t": "mcq",
    "p": "All the roots are cut off a small plant, and the plant is put back in wet soil. What will most likely happen first?",
    "opts": [
-    "The plant wilts, because they cannot soak up water",
     "The plant grows faster",
     "Nothing changes",
-    "The plant makes flowers"
+    "The plant makes flowers",
+    "The plant wilts, because they cannot soak up water"
    ],
-   "a": 0,
+   "a": 3,
    "outcome": 0,
    "why": "Roots soak up water from the soil. Without roots, the leaves keep losing water but nothing comes in, so the plant goes floppy. Picking 'nothing changes' forgets that the soil water can only get in through roots."
   },
@@ -3121,12 +3179,12 @@
    "t": "mcq",
    "p": "A leaf is covered in thick mud for a week. Which job of the leaf is stopped?",
    "opts": [
-    "Catching light to make food",
     "Holding the plant in the soil",
     "Making seeds",
+    "Catching light to make food",
     "Carrying water down to the roots"
    ],
-   "a": 0,
+   "a": 2,
    "outcome": 0,
    "why": "A leaf catches sunlight to make the plant's food. Mud blocks the light, so the leaf cannot do this. Picking 'holding the plant in the soil' mixes the leaf up with the roots."
   },
@@ -3134,12 +3192,12 @@
    "t": "mcq",
    "p": "Why are roots long, thin and branching?",
    "opts": [
-    "So they can reach far and touch lots of soil to soak up water",
     "So they can catch light underground",
     "So they are easy for us to eat",
+    "So they can reach far and touch lots of soil to soak up water",
     "So worms can climb them"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Thin roots squeeze between soil grains, and many branches touch far more soil than one fat root could. Picking 'easy to eat' thinks of roots as made for us, not for the plant.",
    "outcome": 1
   },
@@ -3147,12 +3205,12 @@
    "t": "mcq",
    "p": "A bean stem is thin and bendy. How does that suit its job?",
    "opts": [
-    "It can wind round a stick to climb towards the light",
     "It can hold up a heavy crown of branches",
     "It can store lots of food",
-    "It can float on water"
+    "It can float on water",
+    "It can wind round a stick to climb towards the light"
    ],
-   "a": 0,
+   "a": 3,
    "why": "A thin, bendy stem is perfect for twining round a support. Picking 'hold up a heavy crown' describes a tree trunk, which is thick and woody for that job.",
    "outcome": 1
   },
@@ -3160,12 +3218,12 @@
    "t": "mcq",
    "p": "Which clue shows that ginger is a stem, not a root?",
    "opts": [
-    "It has rings and buds",
     "It grows underground",
     "It is brown",
-    "It tastes spicy"
+    "It tastes spicy",
+    "It has rings and buds"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Rings are nodes, and buds grow at nodes. Stems have these, and roots usually do not. Picking 'grows underground' is the most common mistake. Roots and stems can both grow underground.",
    "outcome": 2
   },
@@ -3173,12 +3231,12 @@
    "t": "mcq",
    "p": "Why does a carrot plant store food in their root?",
    "opts": [
-    "To use later to grow a flower stalk and seeds",
     "So that people will eat it",
+    "To use later to grow a flower stalk and seeds",
     "Because the leaves cannot hold any food",
     "To make the root heavy so it does not blow away"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A carrot stores food in their root first. Later, after the cold weather, they use that food to grow their flowers and seeds. Picking 'so people will eat it' sees the plant as made for us.",
    "outcome": 3
   },
@@ -3199,12 +3257,12 @@
    "t": "mcq",
    "p": "In the Sun Leaf, Shade Leaf test, you counted squares to measure each leaf. Why did you use the middle number of 5 leaves, not just one leaf?",
    "opts": [
-    "One leaf could be unusual, so the middle of 5 is fairer",
     "To make the sums harder",
+    "One leaf could be unusual, so the middle of 5 is fairer",
     "Because 5 is a lucky number",
     "Because one leaf would be too small to count"
    ],
-   "a": 0,
+   "a": 1,
    "why": "One leaf could be oddly big or small. Testing 5 and taking the middle one gives a fairer answer. Picking 'make the sums harder' misses why scientists repeat tests.",
    "outcome": 4,
    "context": "In the Sun Leaf, Shade Leaf experiment, you trace 5 sun leaves and 5 shade leaves from one bush on squared paper and count the squares.",
@@ -3214,12 +3272,12 @@
    "t": "mcq",
    "p": "Look at the chart from the Wake the Store test. Which piece grew the tallest shoot?",
    "opts": [
-    "Onion",
     "Carrot middle",
     "Potato",
-    "Carrot top"
+    "Carrot top",
+    "Onion"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The onion's bar is the tallest, at 60 mm. Picking the carrot middle means reading the chart upside down. Its bar is at zero, because it grew nothing.",
    "outcome": 4,
    "context": "In the Wake the Store experiment, you stand pieces of vegetables in water for 8 days and measure the tallest new shoot on each.",
@@ -3262,12 +3320,12 @@
    "t": "mcq",
    "p": "In the Roots Hold the Soil test, what was the one thing we changed?",
    "opts": [
-    "Whether the tray had seedling roots or bare soil",
     "The amount of water",
     "The size of the trays",
-    "The height of the books"
+    "The height of the books",
+    "Whether the tray had seedling roots or bare soil"
    ],
-   "a": 0,
+   "a": 3,
    "why": "In a fair test you change only one thing. Here, it was the roots. Everything else stayed the same. Picking 'the amount of water' would make the test unfair, because then two things change.",
    "outcome": 4,
    "context": "In the Roots Hold the Soil experiment, you pour water over a tilted tray full of seedling roots and a tilted tray of bare soil.",
@@ -3277,12 +3335,12 @@
    "t": "mcq",
    "p": "Why does a cactus have a fat green stem?",
    "opts": [
-    "To store water and make food, because their leaves are spines",
     "To look like a tree",
     "To hold up heavy fruit",
-    "Because they have no roots"
+    "Because they have no roots",
+    "To store water and make food, because their leaves are spines"
    ],
-   "a": 0,
+   "a": 3,
    "why": "In the desert, wide leaves would lose too much water. So the cactus's stem stores water and does the leaf's food-making job. Picking 'they have no roots' is wrong: cactuses have roots, often spreading wide to catch rare rain.",
    "outcome": 5
   },
@@ -3290,12 +3348,12 @@
    "t": "mcq",
    "p": "Water hyacinth, called jalkumbhi in Hindi and agaya thamarai in Tamil, floats on ponds. Their leaf stalks are swollen and spongy. How does this shape help them?",
    "opts": [
-    "The spongy stalks are full of air, so the plant floats",
     "The stalks store soil",
     "The stalks sink the plant to the bottom",
-    "The stalks catch fish"
+    "The stalks catch fish",
+    "The spongy stalks are full of air, so the plant floats"
    ],
-   "a": 0,
+   "a": 3,
    "outcome": 5,
    "why": "The swollen stalks are full of tiny air spaces, like a sponge or a float. So the plant sits on top of the water, where the light is. Picking 'sink the plant' gets it backwards."
   },
@@ -3303,14 +3361,40 @@
    "t": "mcq",
    "p": "Fossils show that the very first land plants were tiny stems, with no roots and no leaves. Why could they not grow tall?",
    "opts": [
-    "With no roots, they could not hold on or soak up water from deep in the soil",
     "They had too many flowers",
     "They were too heavy",
+    "With no roots, they could not hold on or soak up water from deep in the soil",
     "They had spines"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Roots hold a plant down and bring up water. Without them, a plant has to stay small and close to wet ground. Roots, wide leaves and flowers came much later, and then plants could grow tall.",
    "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "A bee drinks nectar from a mustard flower. Pollen sticks to her body, and she flies to the next flower. Who gains from this?",
+   "opts": [
+    "Only the bee, because the flower is there to feed animals",
+    "Both: the bee gets food, and the flower gets pollen carried to another flower",
+    "Only the flower, because the bee gets nothing",
+    "Neither, because the pollen falls off at once"
+   ],
+   "a": 1,
+   "why": "The bee gets nectar to eat. The pollen she carries helps the next flower make seeds. Picking 'only the bee' thinks of flowers as made for animals. A flower's own job is to make seeds.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "You crush a tulsi leaf between your fingers and smell it strongly. Where does the smell come from?",
+   "opts": [
+    "The chlorophyll, the green stuff in the leaf",
+    "Tiny drops of oil inside the leaf",
+    "The roots, which send the smell up the stem",
+    "Water that the leaf soaked up"
+   ],
+   "a": 1,
+   "why": "Leaves like tulsi and mint hold small drops of oil, and crushing the leaf lets the smell out. Chlorophyll is a good guess, because it is in every leaf, but chlorophyll catches light and has no smell.",
+   "outcome": 3
   }
  ],
  "applications": [
@@ -3814,6 +3898,58 @@
     "p1",
     "a3"
    ]
+  },
+  {
+   "id": "b-braiding-sweetgrass-for-young-",
+   "item": "Braiding Sweetgrass for Young Adults by Robin Wall Kimmerer, adapted by Monique Gray Smith",
+   "kind": "book",
+   "why": "A botanist from the Potawatomi Nation on seeing plants as relatives and teachers. Read short sections aloud and talk.",
+   "url": "https://www.amazon.in/s?k=Braiding+Sweetgrass+for+Young+Adults+Robin+Wall+Kimmerer%2C+adapted+by+Monique+Gray+Smith",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "A book for the parent to read from, a few pages at a time, aloud. Children who want to read it themselves are welcome to. (10+ (read parts aloud))"
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Wake the Store: can a stored food part grow with no soil?, Sun Leaf, Shade Leaf, Roots Hold the Soil. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e3",
+    "e4",
+    "p1",
+    "c2"
+   ],
+   "plan": "Get it before Wake the Store: can a stored food part grow with no soil?."
+  },
+  {
+   "id": "b-a-dropper",
+   "item": "A dropper",
+   "kind": "tool",
+   "why": "Used in The Blue-Black Test: where do plants keep their starch?. About ₹10 to ₹40. A clean pen refill or straw with a finger on top can drop water.",
+   "url": "https://www.amazon.in/s?k=plastic+dropper",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before The Blue-Black Test: where do plants keep their starch?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

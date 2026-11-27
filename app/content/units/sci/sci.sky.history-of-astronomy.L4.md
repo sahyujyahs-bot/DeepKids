@@ -1,9 +1,9 @@
 # History of astronomy: how people changed their minds about who moves, the Earth or the sky
 `sci.sky.history-of-astronomy.L4`
 
-**Summary.** In the year 499, Aryabhata wrote that the ground turns, not the Sun. How could anyone tell? In this unit you will spin in a chair with your eyes shut, copy what Galileo saw on Venus with a lamp and ball, and measure an angle as Tycho did.
+**Summary.** In the year 499, Aryabhata wrote that the ground turns, not the Sun. How could anyone tell? In this lesson you will spin in a chair with your eyes shut, copy what Galileo saw on Venus with a lamp and ball, and measure an angle as Tycho did.
 
-**Intro.** *Close your eyes in a smooth, steadily turning chair. Can you tell that you are turning? Open your eyes, and the room seems to spin round you. So who is really turning, you or the room? And what does that have to do with the Sun and the Earth?* For thousands of years, people looked up and saw the Sun and the stars move round them. A few said the Earth must be the one that turns. Nobody could feel it. In this unit you sit in a spinning chair and try to feel a steady turn. You make a lamp and a ball show the phases of Venus. You build a quadrant and find how exactly you can measure an angle. You draw an ellipse with string and pins. And you learn how a gap of 8 arcminutes, a very small angle, in a table of numbers changed astronomy.
+**Intro.** *Close your eyes in a smooth, steadily turning chair. Can you tell that you are turning? Open your eyes, and the room seems to spin round you. So who is really turning, you or the room? And what does that have to do with the Sun and the Earth?* For thousands of years, people looked up and saw the Sun and the stars move round them. A few said the Earth must be the one that turns. Nobody could feel it. In this lesson you sit in a spinning chair and try to feel a steady turn. You make a lamp and a ball show the phases of Venus. You build a quadrant and find how exactly you can measure an angle. You draw an ellipse with string and pins. And you learn how a gap of 8 arcminutes, a very small angle, in a table of numbers changed astronomy.
 
 ## Learning outcomes
 0. I can explain why a steady turn or a steady movement cannot be felt, and why the Sun seems to go round us even though the Earth is what turns.
@@ -609,7 +609,7 @@ She stopped. She added one more line. And the edge of a shadow is blurry, becaus
 4. (truefalse) A planet going round the Earth in a plain circle would sometimes slide backwards among the stars.  
    **Answer:** False. *Why:* False. A planet on a plain circle round us would always move the same way. Backward loops needed something extra, such as Ptolemy's small circles, or the Earth overtaking the planet.
 5. (mcq) In a Sun-centred picture, why does Mars seem to slide backwards for a time?  
-   Options: The faster Earth is overtaking the slower Mars / Mars stops and turns round / Mars goes behind the Sun  
+   Options: Mars stops and turns round / The faster Earth is overtaking the slower Mars / Mars goes behind the Sun  
    **Answer:** The faster Earth is overtaking the slower Mars. *Why:* The Earth goes round the Sun faster than Mars does. As the Earth passes Mars, Mars seems to slide back against the stars, as a slower lorry seems to slide back when a car passes it.
 6. (match) Match each word to its meaning.  
    **Answer:** Geocentric → Having the Earth at the centre; Heliocentric → Having the Sun at the centre; Ellipse → A stretched circle with two special points inside; Arcminute → One sixtieth of a degree. *Why:* These four words are used all through the story of how astronomers changed their minds.
@@ -618,7 +618,7 @@ She stopped. She added one more line. And the edge of a shadow is blurry, becaus
 8. (order) Put these steps of Kepler's discovery in order, from first to last.  
    **Answer:** ['Tycho measures Mars very carefully for many years', 'Kepler tries circle after circle for Mars', 'Kepler finds that a circle misses by 8 arcminutes', 'Kepler throws out the circle and finds the ellipse']. *Why:* The careful readings came first. Trying circles showed a small gap, and Kepler trusted the gap more than the circle.
 9. (mcq) What is an ellipse?  
-   Options: A stretched circle, like an oval, with two special points inside / A circle with a bump / A straight line  
+   Options: A circle with a bump / A stretched circle, like an oval, with two special points inside / A straight line  
    **Answer:** A stretched circle, like an oval, with two special points inside. *Why:* A circle is a special ellipse with both special points in the same place. Planets move on ellipses with the Sun at one of the two points.
 10. (sort) Sort these ideas. Does each one put the Earth at the centre or the Sun at the centre?  
    **Answer:** Ptolemy's model → Earth at the centre; Copernicus's model → Sun at the centre; Aristarchus's idea from about 250 BCE → Sun at the centre; the idea that the Sun, Moon and planets all go round us → Earth at the centre. *Why:* Ptolemy and the plain Earth-centred picture put us in the middle. Aristarchus and Copernicus put the Sun there.
@@ -627,7 +627,7 @@ She stopped. She added one more line. And the edge of a shadow is blurry, becaus
 12. (draw) Draw an ellipse that you made with two pins. Mark the two pins and label one of them 'Sun'.  
    **Answer:** An oval with two dots inside it on the long line, one of them labelled Sun.. *Why:* A strong drawing shows the Sun at one of the two points, and not in the middle of the oval.
 13. (mcq) Your sundial says noon when your phone says 12:20. What is the best reason?  
-   Options: The sundial shows the Sun's time at your place, and the phone shows one time for the whole country / The sundial is broken / The phone is wrong  
+   Options: The sundial is broken / The sundial shows the Sun's time at your place, and the phone shows one time for the whole country / The phone is wrong  
    **Answer:** The sundial shows the Sun's time at your place, and the phone shows one time for the whole country. *Why:* Each place has its own noon, because the Earth turns. The phone follows Indian Standard Time, set by the Sun far to the east. Places to the west see their noon later on the phone.
 14. (fill) A sundial is tilted from flat by 90 degrees take away the ____ of its city.  
    **Answer:** ['latitude']. *Why:* The tilt makes the dial parallel to the equator. Then the shadow turns evenly, 15 degrees every hour.
@@ -644,7 +644,7 @@ She stopped. She added one more line. And the edge of a shadow is blurry, becaus
 1. (perspective) In 1543, Copernicus said that the Sun is at the centre. His model was no more accurate than Ptolemy's. Three people are discussing whether he was right to suggest it.  
    **Answer:** A strong answer picks a side and gives a reason, such as the idea explaining loops simply, or the lack of any star shift. It then admits a fair point from another side.. *Why:* This is a real question about how to treat new ideas that are not yet proved. Each view has a good point.
 2. (mcq) Why is it so hot across India in May, when the Earth is not closer to the Sun then?  
-   Options: The tilt of the Earth's axis makes the Sun climb higher and the days longer / The Earth is closer to the Sun in May / The Moon warms the Earth  
+   Options: The Earth is closer to the Sun in May / The Moon warms the Earth / The tilt of the Earth's axis makes the Sun climb higher and the days longer  
    **Answer:** The tilt of the Earth's axis makes the Sun climb higher and the days longer. *Why:* The Earth is actually nearest to the Sun in early January. Seasons come from the tilt of the axis, which changes how high the Sun climbs.
 3. (write) Explain Aryabhata's boat in your own words, and say what it has to do with the Sun seeming to move.  
    **Answer:** A person in a boat moving forward sees the still things on the bank moving backwards. In the same way, we are on the turning Earth and see the still stars and Sun moving the other way across the sky.. *Why:* A strong answer says that our own movement makes the world seem to move the other way.
@@ -678,7 +678,7 @@ She stopped. She added one more line. And the edge of a shadow is blurry, becaus
 16. (write) Cecilia Payne was told her result was impossible, but she was right. What should a careful scientist do when a new result seems wrong?  
    **Answer:** Check the work and the method, ask others to repeat it, and be open to the possibility that it is right. Do not reject a result only because it surprises you or because of who found it.. *Why:* A strong answer says to check the evidence, and not to dismiss it because it is new or comes from an unexpected person.
 17. (mcq) Kolkata is east of Jaipur. Which has local noon first?  
-   Options: Kolkata, because the Sun reaches the east first / Jaipur, because it is larger / They have noon at the same moment  
+   Options: Jaipur, because it is larger / They have noon at the same moment / Kolkata, because the Sun reaches the east first  
    **Answer:** Kolkata, because the Sun reaches the east first. *Why:* The Earth turns towards the east, so the Sun reaches places in the east first. Kolkata has its noon nearly an hour before Jaipur.
 18. (fill) Mars seems to slide backwards when the Earth ____ it.  
    **Answer:** ['overtakes']. *Why:* The Earth is on the faster, inner track. It passes Mars as a car passes a lorry.
@@ -690,10 +690,10 @@ She stopped. She added one more line. And the edge of a shadow is blurry, becaus
 2. (perspective) Careful readings of where a planet is differ by a tiny amount from a perfect circle. Three people are discussing what to do.  
    **Answer:** A strong answer uses Kepler and the 8 arcminutes: the readings had been tested and were more reliable than the circle. It then admits that a difference can sometimes be a mistake, so the readings should be checked first.. *Why:* This is how Kepler decided. It balances trust in careful measurement against love of a beautiful idea.
 3. (mcq) A pendulum is set swinging at the North Pole. About how long does its swing take to turn once all the way round the floor?  
-   Options: About one day / About one hour / It never turns  
+   Options: About one hour / It never turns / About one day  
    **Answer:** About one day. *Why:* At the pole, the floor turns once all the way round in about 24 hours under the pendulum. So the swing seems to turn once round in a day. Near the equator it would hardly turn at all.
 4. (mcq) You draw an ellipse with a 24 centimetre loop and the pins 6 centimetres apart. About how wide is it?  
-   Options: 18 centimetres / 24 centimetres / 30 centimetres  
+   Options: 24 centimetres / 30 centimetres / 18 centimetres  
    **Answer:** 18 centimetres. *Why:* The loop's length is the pin distance plus the width, so the width is 24 take away 6, which is 18 centimetres.
 5. (write) Why would a gap of 8 arcminutes be invisible with your quadrant but plain to see with Tycho's?  
    **Answer:** My quadrant's readings were spread over a degree or more, which is 60 arcminutes. Eight arcminutes is hidden inside that spread. Tycho's readings were good to about one arcminute, so eight stood out clearly.. *Why:* A strong answer compares the gap with the spread of readings.
@@ -709,7 +709,7 @@ She stopped. She added one more line. And the edge of a shadow is blurry, becaus
 10. (sort) Is each of these better explained by the Earth's spin or by the Earth's journey round the Sun?  
    **Answer:** day and night → The Earth's spin; the Sun rising in the east → The Earth's spin; Mars's backward loops → The Earth's journey round the Sun; a star's tiny yearly shift → The Earth's journey round the Sun; different constellations in the evening sky through the year → The Earth's journey round the Sun. *Why:* The spin takes a day and explains rising and setting. The journey takes a year and explains things that repeat through the year.
 11. (mcq) At the equator the ground moves at about 1,670 kilometres an hour with the Earth's spin. How fast does the ground move at the North Pole?  
-   Options: Hardly at all, just turning on the spot / 1,670 kilometres an hour / 3,340 kilometres an hour  
+   Options: 1,670 kilometres an hour / 3,340 kilometres an hour / Hardly at all, just turning on the spot  
    **Answer:** Hardly at all, just turning on the spot. *Why:* Right at the pole, the ground just turns once a day on the spot. The farther from the pole, the bigger the circle, and the faster the ground moves.
 12. (write) Explain how a stone dial in Jaipur can say noon while a phone says 12:27, and both can be right.  
    **Answer:** The dial shows the Sun's time at Jaipur, and noon there is when the Sun is highest. The phone shows Indian Standard Time, set by the Sun far to the east. The Earth turns eastwards, so the Sun reaches Jaipur about 27 minutes later than that eastern place. Each clock answers a different question.. *Why:* A strong answer says that the two clocks measure different things, and uses the turn of the Earth.
@@ -730,31 +730,31 @@ She stopped. She added one more line. And the edge of a shadow is blurry, becaus
 
 ## Quiz
 1. (mcq) A cup of tea stays steady on a tray in a smooth aeroplane flying at 800 kilometres an hour. What does this show about steady movement?  
-   Options: A steady movement does not disturb things or feel like anything / Aeroplanes are made to hold tea cups / Tea is heavy  
+   Options: Aeroplanes are made to hold tea cups / A steady movement does not disturb things or feel like anything / Tea is heavy  
    **Answer:** A steady movement does not disturb things or feel like anything. *Why:* Only changes in movement are felt. A smooth steady speed leaves everything inside as if it were still. This is why we do not feel the Earth turn.
 2. (mcq) Why does the Sun seem to move across the sky from east to west?  
    Options: The Earth turns towards the east, so the Sun seems to go the other way / The Sun goes round the Earth once a day / The sky is a turning bowl  
    **Answer:** The Earth turns towards the east, so the Sun seems to go the other way. *Why:* The Earth turns once a day. We turn with it and do not feel it, so the Sun seems to cross the sky in the opposite direction, as the bank seems to slide backwards from a boat.
 3. (mcq) Why did Ptolemy add small circles to the paths of the planets?  
-   Options: To explain why planets seem to slide backwards for a time / To make the paths look pretty / To make the planets bigger  
+   Options: To make the paths look pretty / To make the planets bigger / To explain why planets seem to slide backwards for a time  
    **Answer:** To explain why planets seem to slide backwards for a time. *Why:* A plain circle round the Earth cannot make a planet go backwards. A small circle riding on a big one can, and Ptolemy's tables worked well enough for over a thousand years.
 4. (mcq) In a Sun-centred picture, what happens when Mars seems to slide backwards?  
    Options: The Earth is passing Mars on the inside track / Mars is slowing to a stop / Mars is turning round the Earth  
    **Answer:** The Earth is passing Mars on the inside track. *Why:* The Earth is on the faster, inner track and overtakes Mars. From the passing Earth, Mars seems to slide back against the stars.
 5. (mcq) A white ball always stays between you and a lamp. What can the ball look like?  
-   Options: A thin crescent or dark / A nearly full ball / A half ball  
+   Options: A nearly full ball / A thin crescent or dark / A half ball  
    **Answer:** A thin crescent or dark. *Why:* The lamp lights the half of the ball that faces the lamp. If the ball stays in front of the lamp, you mostly see the dark half.
 6. (mcq) Galileo saw Venus look nearly full and small, and later look like a big thin crescent. What did this show?  
-   Options: Venus goes round the Sun and not only in front of it / Venus is a star / Venus is a Moon  
+   Options: Venus is a star / Venus is a Moon / Venus goes round the Sun and not only in front of it  
    **Answer:** Venus goes round the Sun and not only in front of it. *Why:* Venus looks nearly full only when it is on the far side of its path, beyond the Sun. Ptolemy's model could not do this.
 7. (mcq) Why do repeated readings of an angle agree more closely when the instrument rests on a table than when it is held in the hands?  
-   Options: The table took away the shaking of the hands / The table made the sticker bigger / The table made the numbers smaller  
+   Options: The table made the sticker bigger / The table made the numbers smaller / The table took away the shaking of the hands  
    **Answer:** The table took away the shaking of the hands. *Why:* A shaking hand scatters the readings. A steady rest makes each reading nearly the same as the last, which is higher precision.
 8. (mcq) Why did Tycho Brahe build huge, steady brass instruments?  
    Options: A bigger instrument has a bigger scale that can be read more finely / To impress the king / Because small ones were not allowed  
    **Answer:** A bigger instrument has a bigger scale that can be read more finely. *Why:* On a larger scale, one arcminute is a few millimetres long and can be read. A steady, fixed instrument also reduces the scatter of readings.
 9. (mcq) What is the shape of the path of a planet round the Sun?  
-   Options: An ellipse, with the Sun at one of the two special points / A perfect circle with the Sun in the middle / A straight line  
+   Options: A perfect circle with the Sun in the middle / An ellipse, with the Sun at one of the two special points / A straight line  
    **Answer:** An ellipse, with the Sun at one of the two special points. *Why:* Kepler found this from Tycho's readings of Mars. For most planets, the ellipse is so close to a circle that only careful readings show the difference.
 10. (mcq) What made Kepler give up circles for the path of Mars?  
    Options: The best circle missed Tycho's careful readings by 8 arcminutes / He saw Mars through a telescope / A king told him to  
@@ -763,10 +763,10 @@ She stopped. She added one more line. And the edge of a shadow is blurry, becaus
    Options: The tilt must match each city's latitude, so the dial lies parallel to the equator / Chennai has more sunshine / Delhi is higher up  
    **Answer:** The tilt must match each city's latitude, so the dial lies parallel to the equator. *Why:* Only a dial parallel to the equator has a shadow that turns evenly, 15 degrees every hour. The tilt from flat is 90 take away the latitude, which differs from city to city.
 12. (mcq) The Jaipur sundial says noon when the phone says 12:27. Why do they differ?  
-   Options: The dial shows Jaipur's own Sun time, and the phone shows one time for all of India / The dial is 27 minutes slow / The phone is 27 minutes fast  
+   Options: The dial is 27 minutes slow / The phone is 27 minutes fast / The dial shows Jaipur's own Sun time, and the phone shows one time for all of India  
    **Answer:** The dial shows Jaipur's own Sun time, and the phone shows one time for all of India. *Why:* Each place has its own noon, because the Earth turns. Indian Standard Time is set by the Sun far to the east, so the Sun reaches Jaipur later on that clock.
 13. (mcq) In 1925, Cecilia Payne found what the stars are mostly made of. What was it?  
-   Options: Hydrogen and helium / Iron and rock / Water and ice  
+   Options: Iron and rock / Water and ice / Hydrogen and helium  
    **Answer:** Hydrogen and helium. *Why:* She used the dark lines in starlight and an equation by the Indian physicist Meghnad Saha. She showed that stars are mostly hydrogen and helium, though she was told at first that this was impossible.
 
 ## Applications
@@ -786,7 +786,7 @@ She stopped. She added one more line. And the edge of a shadow is blurry, becaus
 - A sundial in a garden, a school or a temple courtyard, with a tilted blade casting a shadow on a plate.
 - A bright planet in the evening sky, steady and not twinkling, while the stars around it flicker.
 - A train standing next to yours that seems to slide backwards when your train pulls out of the station.
-- A clock on a wall in a railway station showing the same time as every other station in India.
+- A clock on a wall in a railway station showing the same time as every other station.
 - The shadow of a flagpole or a lamp post, shortest around the middle of the day.
 - A calendar on the wall with 29 February in a leap year.
 - The Moon in the daytime sky, showing that sky objects keep moving whether or not it is dark.
@@ -846,8 +846,8 @@ Star, Planet, Moon (sci.sky.L4): Topic-level song
 - [Stellarium Web](https://stellarium-web.org) · interactive: A free sky map in the browser. Use it to find planets tonight and to speed up time and watch a planet's loop.
 - [Indian Institute of Astrophysics](https://www.iiap.res.in) · interactive: For the parent: India's research institute for astronomy, with news, public talks and open days.
 - [Inter-University Centre for Astronomy and Astrophysics](https://www.iucaa.in) · interactive: For the parent: IUCAA in Pune runs a science park and talks for the public.
-- [Jantar Mantar, Jaipur]() · place · Jaipur, Rajasthan: The great stone observatory with the Samrat Yantra, about 27 metres tall. Look at the shadow's blurred edge as it crawls over the scale.
-- [Jantar Mantar, New Delhi]() · place · Connaught Place, New Delhi: The first of Jai Singh's observatories, with a smaller Samrat Yantra that you can climb, close to the city centre.
+- Jantar Mantar, Jaipur · place · Jaipur, Rajasthan: The great stone observatory with the Samrat Yantra, about 27 metres tall. Look at the shadow's blurred edge as it crawls over the scale.
+- Jantar Mantar, New Delhi · place · Connaught Place, New Delhi: The first of Jai Singh's observatories, with a smaller Samrat Yantra that you can climb, close to the city centre.
 
 ## Things to buy
 - [A half-circle protractor, 12 to 15 centimetres across](https://www.amazon.in/s?k=protractor+180+degree+school) (tool): For the quadrant and for marking the sundial. A school geometry box already has one. Used in e3, a2. 
@@ -856,6 +856,12 @@ Star, Planet, Moon (sci.sky.L4): Topic-level song
 - [A box of drawing pins or thumb tacks](https://www.amazon.in/s?k=drawing+pins) (material): For drawing ellipses with string. A stationery shop sells them for a few rupees. Used in a1. 
 - [A small pack of modelling clay](https://www.amazon.in/s?k=modelling+clay+for+kids) (material): For propping the sundial and holding the pencil gnomon. A small pack is enough. Used in a2. 
 - [A few small fishing swivels](https://www.amazon.in/s?k=fishing+swivels) (tool): For hanging the turntable pendulum so its thread can twist freely. A fishing tackle shop sells them for a few rupees. A key ring or a bent paper clip works less well, and the hand-held version in the activity needs none. Used in p1. 
+- [A magnetic compass](https://www.amazon.in/s?k=magnetic+compass+school) (tool): Used in A Sundial for Your City: build a small Samrat Yantra. About ₹30 to ₹150. A phone compass app also works. Used in a2. Get it before A Sundial for Your City: build a small Samrat Yantra.
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in Tycho's Quadrant: how precisely can you measure an angle?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e3. Get it before Tycho's Quadrant: how precisely can you measure an angle?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Tycho's Quadrant: how precisely can you measure an angle?, Kepler's Ellipse: draw a planet's path with string and two pins, A Sundial for Your City: build a small Samrat Yantra. About ₹10 to ₹30. Any school ruler is fine. Used in e3, a1, a2, p1, c1. Get it before Tycho's Quadrant: how precisely can you measure an angle?.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in Galileo's Venus: can Venus look full if it stays between us and the Sun?, A Pendulum on a Turntable: the idea behind Foucault's proof, Find North and Noon with Just a Stick and the Sun. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in e2, p1, c1. Get it before Galileo's Venus: can Venus look full if it stays between us and the Sun?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Kepler's Ellipse: draw a planet's path with string and two pins. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in a1. Get it before Kepler's Ellipse: draw a planet's path with string and two pins.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Why can you not feel the Earth turn? → A steady movement cannot be felt, only changes.
@@ -875,8 +881,8 @@ Star, Planet, Moon (sci.sky.L4): Topic-level song
 - Core: e1, e2, e3, g1, ws-core
 
 ## Sources
-- ideas/by_topic/the-universe-sun-moon-stars-and-planets.md: the SCI Card for Galileo (the telescope, and falling things), and the topic's emphasis on credit to women, used for Cecilia Payne, Mariam al-Asturlabi and the other women named
-- Curriculum entry for the history of astronomy and the Class 3 unit sci.sky.history-of-astronomy.L3, which this unit goes a step deeper than: the L3 sinking cup, fist ruler, bottle clock, dough tablet, window calendar and the Parameshvara story are not repeated here
+- ideas/by_topic/the-universe-sun-moon-stars-and-planets.md: the SCI Card for Galileo (the telescope, and falling things), and the idea's emphasis on credit to women, used for Cecilia Payne, Mariam al-Asturlabi and the other women named
+- Curriculum entry for the history of astronomy and the Class 3 unit sci.sky.history-of-astronomy.L3, which this lesson goes a step deeper than: the L3 sinking cup, fist ruler, bottle clock, dough tablet, window calendar and the Parameshvara story are not repeated here
 - Checked against the nearby units so nothing repeats: the lamp-and-ball test is about Venus and two models (the Moon phases units use a lamp for the Moon), and the two-viewpoint idea of parallax is only named here, since the stargazing unit tests it
 - Aryabhata, Aryabhatiya, 499, Golapada verses 9 and 10 (the Earth's spin and the boat), in the translation of W. E. Clark, 1930
 - Brahmagupta, Brahmasphutasiddhanta, 628, chapter 11 (arguments against a moving Earth), as discussed in Plofker, Mathematics in India, Princeton University Press, 2009

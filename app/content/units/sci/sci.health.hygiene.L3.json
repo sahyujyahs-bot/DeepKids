@@ -131,6 +131,18 @@
    "art": "A tidy street with a covered drain, a clean public toilet and a worker in gloves sweeping."
   },
   {
+   "term": "Swachh Bharat Mission",
+   "meaning": "A national mission, begun on 2 October 2014, to build toilets and keep India's streets and towns clean. 'Swachh' means clean.",
+   "example": "On Swachh Bharat Diwas, many schools take a pledge not to litter.",
+   "art": "A broom and a dustbin with a tricolour ribbon."
+  },
+  {
+   "term": "Dandruff",
+   "meaning": "White flakes of dead skin that fall from the scalp.",
+   "example": "Washing hair about twice a week and combing it every day helps keep dandruff away.",
+   "art": "A comb and a few white flakes on a dark shoulder."
+  },
+  {
    "term": "Mucous membranes",
    "meaning": "The soft, wet linings of your eyes, nose and mouth. Germs get into the body most easily here.",
    "example": "That is why we wash hands before rubbing our eyes or eating.",
@@ -252,7 +264,7 @@
    "concept": "Caring for the outside of your body",
    "status": "defined",
    "definition": "Dirt and germs collect in different places on the body, and each part has its own way of being kept clean.",
-   "description": "Bathe every day, or at least often, to wash away sweat, dead skin and visitor germs. Brush your teeth twice a day, morning and night. Bacteria in the mouth turn sugar left on teeth into acid, and the acid makes holes. Keep nails short and clean, because dirt and germs hide under them. Wash and comb hair, and check for lice, tiny insects that anyone can get. Never poke anything inside your ears. Your ears clean themselves, because earwax slowly moves out on its own. Do not rub your eyes with dirty hands. Blow your nose into a hanky or tissue, then wash your hands. Wear chappals outside, because some worm larvae in dirty soil can get in through bare feet. Your private parts, the parts covered by underwear, are kept clean and private. Your body belongs to you. If any touch feels wrong, say no, get away, and tell a grown-up you trust.",
+   "description": "Bathe every day, or at least often, to wash away sweat, dead skin and visitor germs. Brush your teeth twice a day, morning and night. Bacteria in the mouth turn sugar left on teeth into acid, and the acid makes holes. Keep nails short and clean, because dirt and germs hide under them. Wash and comb hair, and check for lice, tiny insects that anyone can get. Never poke anything inside your ears. Your ears clean themselves, because earwax slowly moves out on its own. Do not rub your eyes with dirty hands. Blow your nose into a hanky or tissue, then wash your hands. Wear chappals outside, because some worm larvae in dirty soil can get in through bare feet. Your private parts, the parts covered by underwear, are kept clean and private. Your body belongs to you. If any touch feels wrong, say no, get away, and tell a grown-up you trust. Wash your hair with a mild cleanser, such as a gentle shampoo or reetha water, about twice a week. Comb it every day. A clean, combed scalp helps keep dandruff away. Dandruff is the white flakes of dead skin that fall from the scalp. Dirt and sweat left on the scalp make it itchy and flaky.",
    "examples": [
     "A neem datun, a chewed twig, was India's toothbrush for centuries. Today dentists add fluoride toothpaste, which protects teeth from acid.",
     "Hookworm larvae in soil can enter through the skin of bare feet. Chappals stop them."
@@ -273,6 +285,21 @@
    "perspectives": [],
    "art": "A cheerful Indian lane: a covered water tank, a flowerpot tray tipped out, a covered drain, a woman health worker talking to a family at their door.",
    "context": "This card goes beyond one person's hands. It shows how a clean street, clean water and toilets keep everyone healthy."
+  },
+  {
+   "concept": "Keeping home, school and street clean: do's and don'ts",
+   "status": "defined",
+   "definition": "A clean home, school and street keep flies, rats and mosquitoes away. Every child can do small jobs to help.",
+   "description": "Tidying up is a job for the whole family. At home, put things back in their places. Sweep the floor with a broom, and wipe tables and shelves with a damp cloth. Dust and crumbs feed flies and cockroaches, who carry germs. At school, keep your desk and classroom tidy, and use the dustbin. The whole country has joined in too. 'Swachh' means clean. The Swachh Bharat Mission began on 2 October 2014, the birthday of Mahatma Gandhi, who often spoke about keeping villages and streets clean. Every 2 October is Swachh Bharat Diwas, a cleanliness day. On that day many schools take the cleanliness pledge. It is a promise not to litter and not to let others litter. A child can help in small ways. Carry your wrapper home until you find a bin. Keep wet waste, like peels and leftover food, apart from dry waste, like paper and plastic. Carry a cloth bag to the market.",
+   "examples": [
+    "Do: put rubbish in a bin with a lid. Do: sweep and wipe, so dust does not pile up. Do: keep food and drinking water covered. Do: empty still water once a week.",
+    "Don't: throw wrappers or peels on the road or in a drain. Rubbish blocks drains, and water that stands in them grows mosquitoes.",
+    "Don't: spit in public places. Germs in spit can pass to other people.",
+    "Don't: leave rubbish in an open heap. Flies and rats come to it."
+   ],
+   "perspectives": [],
+   "art": "A child with a small broom sweeping a doorway, a dustbin with a lid, a wet-waste bin and a dry-waste bin side by side, and a class of children taking the pledge with raised hands.",
+   "context": "This card shows small jobs that keep home, school and street clean. It also tells about the Swachh Bharat Mission."
   },
   {
    "concept": "Semmelweis, the midwives and the washing basin",
@@ -723,11 +750,11 @@
       "t": "mcq",
       "q": "In a real micelle, where do the oil-loving tails of the soap molecules point?",
       "options": [
-       "Inwards, into the oil",
        "Outwards, into the water",
+       "Inwards, into the oil",
        "Every which way"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The tails avoid water and stick into the oil, so they point inwards. The water-loving heads face out, so water can carry the whole ball away. Picking 'outwards' usually means mixing up the two ends. Remember: tails in the oil, heads in the water."
      }
     }
@@ -760,12 +787,12 @@
      "t": "mcq",
      "p": "You touch a door handle that a child with a cold has just touched. Then you rub your eye. At which moment do the germs get into your body?",
      "opts": [
-      "When you rub your eye",
       "When you touch the handle",
       "When you look at the handle",
+      "When you rub your eye",
       "Never: germs cannot get in through the eye"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Touching the handle only puts germs on the skin of your hand. Dry skin is a strong wall. The soft, wet lining of the eye lets germs in. Picking 'when you touch the handle' is a very common answer, but that is only where the germs got on, not where they got in."
     },
     {
@@ -867,6 +894,15 @@
      "why": "Brushing removes mouth bacteria that make acid. Short nails leave nowhere for germs to hide. Washing and combing keeps hair free of tangles and lice. Chappals stop worm larvae in dirty soil getting in through the feet."
     },
     {
+     "t": "fill",
+     "p": "Wash your hair with a mild cleanser about ____ a week, and comb it every day.",
+     "a": [
+      "twice"
+     ],
+     "why": "Washing about twice a week removes dirt and sweat from the scalp. A clean, combed scalp helps keep dandruff away.",
+     "how": "a5"
+    },
+    {
      "t": "mcq",
      "p": "You need to sneeze, and there is no tissue. What is best?",
      "opts": [
@@ -891,12 +927,12 @@
      "t": "mcq",
      "p": "After washing your hands, why should you dry them on a clean towel or let them dry in the air?",
      "opts": [
-      "Wet hands pick up and pass on germs more easily than dry hands",
       "Water makes germs grow bigger",
+      "Wet hands pick up and pass on germs more easily than dry hands",
       "Drying makes the soap work",
       "There is no reason"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Germs move more easily onto and off wet skin. A shared damp towel can also hold germs. Picking 'water makes germs grow bigger' mixes up washing with leaving food damp for days, as in the bread test."
     },
     {
@@ -942,6 +978,43 @@
      ],
      "a": 0,
      "why": "When many people who share one water supply fall ill together, the water is the first thing to check. Germs from a leaking drain can get into a tank. Picking 'bad smells' is the old idea of bad air. In 1854, John Snow showed that cholera in London spread through water from one pump, not through smells."
+    },
+    {
+     "t": "sort",
+     "p": "Sort these into things to do and things not to do, to keep our surroundings clean.",
+     "cats": [
+      "Do",
+      "Don't"
+     ],
+     "items": [
+      [
+       "put rubbish in a bin with a lid",
+       "Do"
+      ],
+      [
+       "throw a wrapper into the drain",
+       "Don't"
+      ],
+      [
+       "empty the still water from the flowerpot tray",
+       "Do"
+      ],
+      [
+       "spit on the road",
+       "Don't"
+      ],
+      [
+       "leave peels in an open heap",
+       "Don't"
+      ],
+      [
+       "sweep with a broom and wipe with a damp cloth",
+       "Do"
+      ]
+     ],
+     "a": "see items",
+     "why": "A bin, a broom and emptied trays keep flies, rats and mosquitoes away. Rubbish in a drain blocks it, spit spreads germs, and an open heap draws flies and rats.",
+     "how": "a3"
     },
     {
      "t": "write",
@@ -1008,12 +1081,12 @@
      "t": "mcq",
      "p": "In the jar test, why did we stir a pinch of turmeric into the oil first?",
      "opts": [
-      "So we could see where the oil went",
       "So the oil would mix with water",
       "To kill the germs in the jar",
+      "So we could see where the oil went",
       "To make the soap stronger"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Clear oil is hard to see in water. Yellow oil shows clearly whether it floats in a layer or stays spread through the water. Picking 'so the oil would mix' forgets that the jar without soap had turmeric too and still split into layers.",
      "context": "In the jar test, you shake oil and water in two jars, and add soap to only one.",
      "how": "e3"
@@ -1078,24 +1151,24 @@
      "t": "mcq",
      "p": "When you wash with soap, which microbes come off your skin most?",
      "opts": [
-      "The visitors you picked up from things you touched",
       "Every single microbe on your skin",
+      "The visitors you picked up from things you touched",
       "Only the skin's own microbes that live there all the time",
       "None at all"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Visitors sit on top of the skin and wash off. Most of the skin's own microbes live deeper in its folds and stay. Picking 'every single microbe' is common. Losing them all would actually be bad for skin."
     },
     {
      "t": "mcq",
      "p": "Semmelweis's clue came from comparing two wards in the same hospital. Why was the midwives' ward so important?",
      "opts": [
-      "It showed the same building could be much safer, so something in the doctors' ward was different",
       "The midwives had better beds",
+      "It showed the same building could be much safer, so something in the doctors' ward was different",
       "It had more windows",
       "It was not important"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Without a safer ward to compare with, nobody would have known the fever could be stopped. The beds, food and sheets were the same, so the difference had to be something the doctors did. A strong answer calls the midwives' ward the comparison.",
      "context": "In Vienna in 1847, one maternity ward was run by doctors and students, and the other by midwives. Far more mothers caught a fever in the doctors' ward."
     },
@@ -1153,12 +1226,12 @@
      "t": "mcq",
      "p": "After a wash with plain soap, where are most of the bacteria that were on your hands?",
      "opts": [
-      "Down the drain, still alive, in the rinse water",
       "Killed on your hands by the soap",
+      "Down the drain, still alive, in the rinse water",
       "Still on your hands, hidden in the oil",
       "Turned into soap"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Plain soap kills very few bacteria. It wraps the oil they sit in, and the rinse water carries them away. Picking 'killed by the soap' is very common, because adverts talk about killing germs."
     },
     {
@@ -1169,6 +1242,22 @@
      "why": "The bread made invisible living things visible, by letting them grow into spots of mould.",
      "context": "In the bread test, slices of bread were touched by unwashed hands, by hands rinsed in water, and by hands washed with soap. Each slice was sealed in a bag for a week.",
      "how": "e4"
+    },
+    {
+     "t": "write",
+     "p": "Your friend's ten-question hygiene check has 'no' for brushing at night, combing hair and wearing chappals. She feels bad. What would you tell her to do, and why?",
+     "lines": 4,
+     "a": "I would say a 'no' is not a shame. I would ask her to pick one habit, such as brushing at night, and do it every day for a week. Then she can add the next one. Chappals stop worm larvae in soil, and brushing stops the acid that makes holes in teeth.",
+     "why": "A strong answer is kind, picks one habit to start with, and gives a real reason from the unit for it.",
+     "how": "a5"
+    },
+    {
+     "t": "write",
+     "p": "Write two small things a child can do to help the Swachh Bharat Mission, at home or at school.",
+     "lines": 3,
+     "a": "For example: I carry my wrapper until I find a bin. I keep wet waste, like peels, apart from dry waste, like paper. I help sweep our doorway with a broom.",
+     "why": "A strong answer gives two real actions a child can do, such as not littering, using the right bin, or sweeping. It says what each one keeps out of the drains and streets.",
+     "how": "a3"
     }
    ]
   },
@@ -1182,12 +1271,12 @@
      "t": "mcq",
      "p": "Look at the chart of Semmelweis's numbers. What happened after hand-washing began in May 1847?",
      "opts": [
-      "Deaths fell from about 18 out of 100 to about 2 out of 100",
       "Deaths stayed the same",
+      "Deaths fell from about 18 out of 100 to about 2 out of 100",
       "Deaths went up",
       "Nobody counted"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The numbers fell sharply after washing began, and stayed low. Picking 'nobody counted' misses how important counting was. The careful counts were the evidence.",
      "context": "In 1847, Ignaz Semmelweis made doctors in one Vienna maternity ward wash their hands in chlorine water before touching mothers. He wrote down how many mothers died of childbed fever each month.",
      "chart": {
@@ -1242,12 +1331,12 @@
      "t": "mcq",
      "p": "Semmelweis's hands smelled of the room where dead bodies were cut open. Ordinary soap did not remove the smell, but chlorine water did. What did he use the smell as?",
      "opts": [
-      "A sign that something invisible was still on his hands",
       "A way to make his hands smell nice",
       "A medicine",
-      "A test of the soap's colour"
+      "A test of the soap's colour",
+      "A sign that something invisible was still on his hands"
      ],
-     "a": 0,
+     "a": 3,
      "why": "He could not see what was on his hands, but the smell showed that something was still there. Scientists often use a clue they can sense to study things they cannot see."
     },
     {
@@ -1272,12 +1361,12 @@
      "t": "mcq",
      "p": "If soap can break a virus's oily coat, why doesn't soap break the cells of your hands?",
      "opts": [
-      "The top layer of your skin is tough, dead cells packed tightly, so soap cannot reach the living cells",
       "Soap is too weak to touch any cell",
       "Soap washes off before it reaches them",
-      "Soap does break them all"
+      "Soap does break them all",
+      "The top layer of your skin is tough, dead cells packed tightly, so soap cannot reach the living cells"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Your skin's top layer is a tough wall of dead cells. Soap can dry it by removing some oil, but cannot get through to living cells. Picking 'soap does break them all' is a sensible worry, but skin is built to stop that."
     },
     {
@@ -1360,12 +1449,12 @@
      "t": "mcq",
      "p": "Some tummy viruses have no oily coat, so soap cannot break them. Why does washing with soap still help against them?",
      "opts": [
-      "Soap and rubbing lift them off the hands, and the water carries them away",
       "Soap makes them grow an oily coat",
       "Washing does not help at all",
+      "Soap and rubbing lift them off the hands, and the water carries them away",
       "The water is too cold for them"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Soap wraps the oil and dirt the viruses sit in, and the rinse carries them off. Picking 'washing does not help' means thinking soap must kill a germ to work. Mostly, soap works by moving germs off your hands."
     },
     {
@@ -1473,10 +1562,10 @@
       "q": "Which wash usually leaves the least yellow?",
       "options": [
        "Water only, 20 seconds",
-       "Soap, 5 seconds",
-       "Soap, 20 seconds"
+       "Soap, 20 seconds",
+       "Soap, 5 seconds"
       ],
-      "a": 2,
+      "a": 1,
       "why": "Soap holds oil and water both, and 20 seconds of rubbing gives it time to break up all the oil, even in the gaps. Picking water only usually means thinking rubbing is all that matters. Picking soap for 5 seconds usually means thinking soap works instantly."
      },
      "ask": [
@@ -1645,11 +1734,11 @@
       "t": "mcq",
       "q": "Why did the soapy jar stay cloudy?",
       "options": [
-       "Soap molecules wrapped tiny drops of oil, so they stayed mixed in the water",
        "The soap made the oil heavier",
-       "Jar 2 was shaken harder"
+       "Jar 2 was shaken harder",
+       "Soap molecules wrapped tiny drops of oil, so they stayed mixed in the water"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Each tiny oil drop is wrapped in soap molecules, tails in and heads out, so it can stay in the water. Picking 'shaken harder' is a good fairness worry. That is why both jars were shaken for the same 10 seconds."
      }
     },
@@ -2012,11 +2101,11 @@
       "t": "mcq",
       "q": "Why does reetha water foam and clean?",
       "options": [
-       "It has soap-like molecules, with a water-loving end and an oil-loving end",
        "It is full of tiny bubbles of air from the tree",
+       "It has soap-like molecules, with a water-loving end and an oil-loving end",
        "It is just very hot water"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Saponins hold oil and water, like soap, and they hold air in foam bubbles too. Picking 'air from the tree' mixes up foam with something stored inside the fruit. The foam forms only when you squeeze the shells in water. The water was only warm, so heat was not the reason."
      },
      "think": "The tree made saponins to protect its fruit, not to clean our plates. So why do saponins clean oil off a plate?",
@@ -2112,7 +2201,7 @@
   {
    "id": "a5",
    "title": "My Body Care Map",
-   "mins": 25,
+   "mins": 35,
    "days": 1,
    "materials": [
     {
@@ -2127,11 +2216,11 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 25,
-     "what": "Draw round your child. Label each outer body part with one care rule."
+     "mins": 35,
+     "what": "Draw round your child. Label each outer body part with one care rule. Then do the ten-question yes/no hygiene check, and pick one habit to build for each 'no'."
     }
    ],
-   "record": "A life-size poster of the outside of your body, with one care rule for each part.",
+   "record": "A life-size poster of the outside of your body, with one care rule for each part. The ten-question hygiene check, with one habit to build for each 'no'.",
    "flow": [
     {
      "id": "s1",
@@ -2159,13 +2248,21 @@
       "t": "mcq",
       "q": "Which is the safe way to care for your ears?",
       "options": [
-       "Wipe the outer ear with a cloth, and never poke anything inside",
        "Clean deep inside with a matchstick every day",
-       "Pour oil in every morning"
+       "Pour oil in every morning",
+       "Wipe the outer ear with a cloth, and never poke anything inside"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Earwax traps dust and germs and slowly moves out by itself. Poking can push wax deeper or hurt the eardrum. Picking a matchstick is very common, because many people think earwax is dirt. It is actually a cleaner."
      }
+    },
+    {
+     "id": "s4",
+     "mins": 10,
+     "do": "1. Read these ten questions aloud. Your child answers yes or no. 2. Count the 'no' answers. 3. For each 'no', your child picks one habit to build, and writes it on the map.",
+     "say": "Let's do a hygiene check. For every 'no', we won't worry. We'll just pick one habit to build. Ready?",
+     "kid": "Answer yes or no. 1. I brushed my teeth this morning and last night. 2. I bathed today. 3. My nails are short and clean. 4. I washed my hands with soap before I ate. 5. I washed my hands with soap after using the toilet. 6. I combed my hair today. 7. I rinsed my mouth after eating. 8. I wore chappals outside. 9. My clothes are clean today. 10. I used a hanky or tissue when I sneezed or blew my nose. Count your 'no' answers. For each one, pick one habit to build, and write it on your map.",
+     "parent": "A 'no' is not a failure. It is only a habit still to build. Help your child pick the easiest habit first, and build one at a time. Do the check again in a week. Praise every new 'yes'."
     }
    ],
    "context": "This activity makes a life-size map of your body. You label each outer part, such as hair, teeth, nails and feet, with one way to care for it.",
@@ -2238,11 +2335,11 @@
       "t": "mcq",
       "q": "Why did it take so long for people to accept germ theory?",
       "options": [
-       "Germs are too small to see without good microscopes, and many people trusted old ideas about bad air",
        "Nobody was interested in illness",
-       "Germs did not exist before 1800"
+       "Germs did not exist before 1800",
+       "Germs are too small to see without good microscopes, and many people trusted old ideas about bad air"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Without good microscopes, germs could not be seen, and the old idea of bad air seemed to fit. Changing a big idea takes evidence and time. Picking 'germs did not exist' mixes up when something was discovered with when it began. Microbes are billions of years old."
      },
      "think": "Many doctors in 1847 refused to believe that their own hands carried illness. What could help a doctor change their mind?",
@@ -2353,11 +2450,11 @@
       "t": "mcq",
       "q": "Why is the tippy-tap worked with a foot, not a hand?",
       "options": [
-       "So clean hands do not touch a dirty tap and pick germs up again",
        "Because feet are stronger",
-       "It looks funny"
+       "It looks funny",
+       "So clean hands do not touch a dirty tap and pick germs up again"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A tap handle is touched by dirty hands before washing. Touching it again after washing puts germs back on clean hands. A foot loop avoids that. Picking 'feet are stronger' is true, but the bottle is light. The real reason is germs."
      }
     },
@@ -2578,12 +2675,12 @@
    "t": "mcq",
    "p": "Which of these is a germ?",
    "opts": [
-    "The cholera bacteria in dirty water",
     "The bacteria that turn milk into curd",
     "A speck of dust",
+    "The cholera bacteria in dirty water",
     "An ant"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A germ is a microbe or virus that can make us ill. Cholera bacteria do. Curd bacteria are microbes too, but they are helpful, not germs. Dust is not alive, and an ant is far bigger than a microbe.",
    "outcome": 0
   },
@@ -2591,11 +2688,11 @@
    "t": "mcq",
    "p": "How do germs most often get into our bodies?",
    "opts": [
-    "Hands carry them to our eyes, nose and mouth",
     "They jump through dry skin",
+    "Hands carry them to our eyes, nose and mouth",
     "They grow out of our hair"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Hands carry germs to the soft, wet linings of the eyes, nose and mouth. Picking 'through dry skin' misses that skin is a strong wall, unless there is a cut.",
    "outcome": 0
   },
@@ -2641,11 +2738,11 @@
    "t": "mcq",
    "p": "In the turmeric test, which wash left the least yellow?",
    "opts": [
+    "Soap for 20 seconds, rubbing every part",
     "Water only for 20 seconds",
-    "Soap for 5 seconds",
-    "Soap for 20 seconds, rubbing every part"
+    "Soap for 5 seconds"
    ],
-   "a": 2,
+   "a": 0,
    "why": "Soap plus 20 seconds of rubbing reaches all the oil, even between fingers. Picking soap for 5 seconds usually means thinking soap works instantly.",
    "outcome": 2,
    "context": "In the turmeric test, you coat your hands with oil and turmeric as pretend germs, then wash three different ways.",
@@ -2678,11 +2775,11 @@
    "t": "mcq",
    "p": "When is it MOST important to wash your hands with soap?",
    "opts": [
-    "Before eating and after the toilet",
     "After reading a book",
+    "Before eating and after the toilet",
     "Before going to sleep only"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Before eating and after the toilet are the moments when germs most easily travel to your mouth, or from waste to other people. Picking 'after reading' is a kind thought, but books rarely carry germs that make us ill.",
    "outcome": 2
   },
@@ -2690,23 +2787,35 @@
    "t": "mcq",
    "p": "Your ear feels itchy. Which is the safe thing to do?",
    "opts": [
-    "Wipe the outer ear with a cloth, and never poke anything inside",
     "Clean inside with a hairpin",
-    "Pour water in every day"
+    "Pour water in every day",
+    "Wipe the outer ear with a cloth, and never poke anything inside"
+   ],
+   "a": 2,
+   "why": "Earwax moves out of the ear on its own and protects it. Poking can hurt the eardrum. Picking a hairpin is a common, risky habit.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "How often should you wash your hair with a mild cleanser, and how often should you comb it?",
+   "opts": [
+    "Wash about twice a week, and comb every day",
+    "Wash every hour, and never comb",
+    "Never wash, and comb once a month"
    ],
    "a": 0,
-   "why": "Earwax moves out of the ear on its own and protects it. Poking can hurt the eardrum. Picking a hairpin is a common, risky habit.",
+   "why": "Washing about twice a week removes dirt and sweat, and a daily comb keeps the hair tidy and lice easy to spot. A clean scalp helps keep dandruff, the white flakes of dead skin, away. Washing every hour would only dry the scalp out.",
    "outcome": 3
   },
   {
    "t": "mcq",
    "p": "Your private parts are…",
    "opts": [
-    "Kept clean and private, and your body belongs to you",
     "Something you can never talk about with anyone",
+    "Kept clean and private, and your body belongs to you",
     "Not really part of your body"
    ],
-   "a": 0,
+   "a": 1,
    "why": "They are part of you, kept clean and private. You can always talk to a trusted grown-up about them, especially if any touch feels wrong. Picking 'never talk about' is what makes children unsafe, so it is not right.",
    "outcome": 3
   },
@@ -2738,13 +2847,49 @@
   },
   {
    "t": "mcq",
-   "p": "A doctor notices that many mothers fall ill when doctors come straight from touching sick bodies to the mothers' beds. What change would best test whether the doctors' hands carry the illness?",
+   "p": "You finish a banana on the way home from school. What is the best thing to do with the peel?",
    "opts": [
-    "Make doctors wash their hands in strong cleaning water before touching mothers, and count how many fall ill",
-    "Give the doctors a microscope",
-    "Make a new kind of soap"
+    "Keep it until you find a bin",
+    "Drop it in the drain so the water washes it away",
+    "Toss it on the road for the cows"
    ],
    "a": 0,
+   "why": "Peels and wrappers in a drain block it, and water that stands in a blocked drain grows mosquitoes. Rubbish on the road also draws flies, and cows can swallow plastic that lies with it. Carrying it to a bin is the clean way.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "On the cleanliness day, many schools take a pledge. What do the children promise?",
+   "opts": [
+    "To paint the school walls white",
+    "To stay at home for the day",
+    "Not to litter, and not to let others litter"
+   ],
+   "a": 2,
+   "why": "Swachh Bharat Diwas is on 2 October, the day the Swachh Bharat Mission began in 2014. 'Swachh' means clean. The pledge is a promise to keep our surroundings free of litter, and to speak up kindly when others drop it.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "Mira's ten-question hygiene check has three 'no' answers. What is the best next step?",
+   "opts": [
+    "Hide the page, because a 'no' means she is dirty",
+    "Try to change all ten habits in one day",
+    "Pick one 'no' habit to build first, then add the next"
+   ],
+   "a": 2,
+   "why": "A 'no' is not a shame. It is just a habit that is still to be built. One new habit at a time sticks better than ten at once. Hiding the page would throw away what the check just showed her.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "A doctor notices that many mothers fall ill when doctors come straight from touching sick bodies to the mothers' beds. What change would best test whether the doctors' hands carry the illness?",
+   "opts": [
+    "Give the doctors a microscope",
+    "Make a new kind of soap",
+    "Make doctors wash their hands in strong cleaning water before touching mothers, and count how many fall ill"
+   ],
+   "a": 2,
    "why": "If washing hands makes the number of sick mothers fall sharply, the hands were carrying the illness. Counting before and after is the evidence.",
    "outcome": 5
   },
@@ -2752,11 +2897,11 @@
    "t": "mcq",
    "p": "Most microbes are…",
    "opts": [
-    "Harmless or helpful",
     "Germs that make us ill",
+    "Harmless or helpful",
     "Found only in dirty places"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Only a small number of microbes are germs. Many help us, the soil and the sea. Picking 'germs' is a very common belief, often from adverts.",
    "outcome": 6
   },
@@ -3110,6 +3255,100 @@
    "used_in": [
     "g1"
    ]
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in The Sneeze Catcher. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before The Sneeze Catcher."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Sneeze Catcher. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before The Sneeze Catcher."
+  },
+  {
+   "id": "b-food-colour",
+   "item": "Food colour",
+   "kind": "material",
+   "why": "Used in The Sneeze Catcher. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it.",
+   "url": "https://www.amazon.in/s?k=food+colour+liquid",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before The Sneeze Catcher."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in My Body Care Map. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "a5"
+   ],
+   "plan": "Get it before My Body Care Map."
+  },
+  {
+   "id": "b-a-measuring-jug-or-syringe--",
+   "item": "A measuring jug or syringe (marked in millilitres)",
+   "kind": "tool",
+   "why": "Used in Build a Tippy-Tap Hand-Washing Station. About ₹30 to ₹100. A clean medicine cup or marked bottle works.",
+   "url": "https://www.amazon.in/s?k=measuring+jug+500+ml",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before Build a Tippy-Tap Hand-Washing Station."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in Reetha Foam: a plant that makes soap, The Sneeze Catcher. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "a2",
+    "c1"
+   ],
+   "plan": "Get it before Reetha Foam: a plant that makes soap."
+  },
+  {
+   "id": "b-iron-nails-or-iron-filings",
+   "item": "Iron nails or iron filings",
+   "kind": "material",
+   "why": "Used in Build a Tippy-Tap Hand-Washing Station, Soap for Everyone. About ₹20 to ₹80. Short steel nails from a hardware shop.",
+   "url": "https://www.amazon.in/s?k=iron+filings+science",
+   "used_in": [
+    "p1",
+    "c2"
+   ],
+   "plan": "Get it before Build a Tippy-Tap Hand-Washing Station."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

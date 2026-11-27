@@ -167,9 +167,17 @@
   "src": "media/img/sci.body.heart-blood-breath.L4/term.0.webp",
   "drawn": true
  },
+ "term.10": {
+  "src": "media/img/sci.body.heart-blood-breath.L4/term.10.webp",
+  "credit": "OpenStax, Anatomy and Physiology (2013), CC BY 4.0, Figure 20.7"
+ },
  "term.12": {
   "src": "media/img/sci.body.heart-blood-breath.L4/term.12.webp",
   "drawn": true
+ },
+ "term.13": {
+  "src": "media/img/sci.body.heart-blood-breath.L4/term.13.webp",
+  "credit": "OpenStax, Anatomy and Physiology (2013), CC BY 4.0, Figure 22.10"
  },
  "term.15": {
   "src": "media/img/sci.body.heart-blood-breath.L4/term.15.webp",
@@ -182,5 +190,9 @@
  "term.7": {
   "src": "media/img/sci.body.heart-blood-breath.L4/term.7.webp",
   "drawn": true
+ },
+ "term.8": {
+  "src": "media/img/sci.body.heart-blood-breath.L4/term.8.webp",
+  "credit": "OpenStax, Biology (2013), CC BY 4.0, Figure 40.8"
  }
 }

@@ -1,9 +1,9 @@
 # Balance as a team: how eyes, ears and feet keep you upright, and the senses other animals have
 `sci.senses.more-senses.L4`
 
-**Summary.** Stand on one foot with your eyes shut and you wobble much more, though your ears are the same. Why? In this unit you will take away one balance sense at a time, steady yourself with a fingertip lighter than a tomato, and find which sense was fooled.
+**Summary.** Stand on one foot with your eyes shut and you wobble much more, though your ears are the same. Why? In this lesson you will take away one balance sense at a time, steady yourself with a fingertip lighter than a tomato, and find which sense was fooled.
 
-**Intro.** *You sit in a train at the station. The train on the next track starts to move slowly. For a moment you feel your own train sliding backwards, though nothing under you has moved. Who fooled you: your eyes or your body?* Your eyes said you were moving. Your inner ears and the seat said you were still. For a second your brain believed your eyes, and then it checked the other signals and put things right. This shows that balance is a team of senses that can disagree. In this unit you take one member of the team away and see what happens. You test how your eyes stay steady when your head shakes. You find out how a fingertip can steady you, how the skin senses warmth and cold, why pain changes with attention, and how a fly keeps steady with two tiny clubs.
+**Intro.** *You sit in a train at the station. The train on the next track starts to move slowly. For a moment you feel your own train sliding backwards, though nothing under you has moved. Who fooled you: your eyes or your body?* Your eyes said you were moving. Your inner ears and the seat said you were still. For a second your brain believed your eyes, and then it checked the other signals and put things right. This shows that balance is a team of senses that can disagree. In this lesson you take one member of the team away and see what happens. You test how your eyes stay steady when your head shakes. You find out how a fingertip can steady you, how the skin senses warmth and cold, why pain changes with attention, and how a fly keeps steady with two tiny clubs.
 
 ## Learning outcomes
 0. I can name the three sources of information my brain uses for balance, and say what each one tells me.
@@ -642,7 +642,7 @@ At the Vaigai, an old man on the steps looked at the stick and then at Paati. "I
 ## Worksheets
 ### Balance as a Team (core) (core, 15 questions)
 1. (mcq) Which three sources of information does the brain mix to know whether you are upright?  
-   Options: Eyes, inner ears, and sensors in the feet and muscles / Nose, tongue and skin / Eyes, nose and ears  
+   Options: Nose, tongue and skin / Eyes, nose and ears / Eyes, inner ears, and sensors in the feet and muscles  
    **Answer:** Eyes, inner ears, and sensors in the feet and muscles. *Why:* Your eyes show where the horizon and the floor are. Your inner ears feel turning, tilting and speeding up. The sensors in your feet and muscles feel the ground and your joints. Smell and taste do not help you balance.
 2. (fill) The three liquid-filled loops in each inner ear that feel turning are called the semicircular ____.  
    **Answer:** ['canals']. *Why:* When your head turns, the liquid in the canals lags behind and bends tiny hairs. The hairs send signals to the brain.
@@ -657,7 +657,7 @@ At the Vaigai, an old man on the steps looked at the stick and then at Paati. "I
 7. (draw) Draw a child's head and body. Draw three lines that carry messages to the brain from the eyes, the inner ears and the feet. Label each line with what it tells the brain.  
    **Answer:** A child with three lines going to the head: from the eyes (where the horizon is), from the ears (turning and tilting), and from the feet (what the ground is like).. *Why:* Balance is not one sense in one place. It is three sources of information that the brain mixes.
 8. (mcq) What does the head-turn reflex do?  
-   Options: Moves your eyes the opposite way to your head, so what you look at stays steady / Turns your head when your eyes move / Makes you dizzy when you turn quickly  
+   Options: Turns your head when your eyes move / Moves your eyes the opposite way to your head, so what you look at stays steady / Makes you dizzy when you turn quickly  
    **Answer:** Moves your eyes the opposite way to your head, so what you look at stays steady. *Why:* When your head turns, the inner ear starts a very quick eye movement the other way. This keeps the picture on your eye steady. Dizziness comes from the same reflex after spinning, but it is not the job of the reflex.
 9. (order) Put these in order: what happens when you shake your head while reading.  
    **Answer:** ['your head turns', 'the liquid in a canal lags behind and bends tiny hairs', 'your eyes swing the opposite way', 'the print stays steady on your eye']. *Why:* The turn of the head moves the liquid in a canal, the hairs send a signal, and the signal swings the eyes the other way within about a hundredth of a second.
@@ -666,7 +666,7 @@ At the Vaigai, an old man on the steps looked at the stick and then at Paati. "I
 11. (odd) Which one is the odd one out, and why? Halteres, ear crystals, semicircular canals, heat pits.  
    **Answer:** heat pits. *Why:* Halteres, ear crystals and semicircular canals all help an animal sense turning, tilting or speeding up. Heat pits sense warmth from a distance.
 12. (mcq) A fingertip rests on a still wall with a force too light to hold a person up. Why does it still steady them?  
-   Options: It gives the brain extra information about how the body is moving / It takes some of their weight / It makes the floor firmer  
+   Options: It takes some of their weight / It makes the floor firmer / It gives the brain extra information about how the body is moving  
    **Answer:** It gives the brain extra information about how the body is moving. *Why:* A still wall under a fingertip tells the brain exactly how the body is moving compared with the room. The force is much too small to carry weight. The touch works as a sense, not as a prop.
 13. (truefalse) A fever means the body has lost control of its temperature.  
    **Answer:** False. *Why:* False. In a fever, the brain's thermostat is set higher on purpose, so the body shivers until it reaches the higher temperature. The control loop is working, though a very high or long fever needs a doctor.
@@ -676,10 +676,10 @@ At the Vaigai, an old man on the steps looked at the stick and then at Paati. "I
    **Answer:** A strong answer agrees with the first person, because light touch gives the brain extra balance information even when it carries no weight. It also says that Grandmother is right that a stick can be used as a prop, to take weight off a sore knee, and that this is a different use.. *Why:* The light touch of a stick or a finger works as a fourth source of balance information. A prop is a different use.
 ### Gates, Loops and Clubs (stretch) (stretch, 16 questions)
 1. (mcq) When the eyes are shut, the brain relies more on the inner ears and the feet. What is this called?  
-   Options: Reweighting / Reflecting / Dizziness  
+   Options: Reflecting / Dizziness / Reweighting  
    **Answer:** Reweighting. *Why:* Reweighting means listening more to the senses that work well and less to those that do not. The brain does this without you choosing.
 2. (mcq) A child reads a comic in a bus on a winding road and feels sick. Which pair of senses give messages that do not match?  
-   Options: Her eyes say still, and her inner ears say moving / Her nose says still, and her tongue says moving / Her eyes and her ears both say moving  
+   Options: Her nose says still, and her tongue says moving / Her eyes say still, and her inner ears say moving / Her eyes and her ears both say moving  
    **Answer:** Her eyes say still, and her inner ears say moving. *Why:* The comic is still in her hands, so her eyes see no movement. Her inner ears feel every turn and bump. When these two disagree, the brain is confused. Looking at the horizon makes the messages agree again.
 3. (fill) A fly keeps her balance with two tiny club-shaped stalks called ____.  
    **Answer:** ['halteres']. *Why:* The halteres swing up and down as the wings beat, and sensors at their base feel when the body turns. A fly without them cannot fly steadily.
@@ -709,18 +709,18 @@ At the Vaigai, an old man on the steps looked at the stick and then at Paati. "I
 15. (write) In the Shake the Head or Shake the Page test, why was it easier to read with a shaking head than with a shaking page?  
    **Answer:** When my head shakes, my inner ears start the head-turn reflex and move my eyes the opposite way almost at once. When the page shakes, my eyes must follow it on purpose, which is much slower, so the print smears.. *Why:* A strong answer says that the reflex is automatic and very fast, and that following on purpose is slow.
 16. (mcq) Scientists count the layers in a fish's ear stone. What do the layers tell them?  
-   Options: How old the fish is, because the stone grows a layer at a time / How fast the fish can swim / What the fish ate yesterday  
+   Options: How fast the fish can swim / How old the fish is, because the stone grows a layer at a time / What the fish ate yesterday  
    **Answer:** How old the fish is, because the stone grows a layer at a time. *Why:* An ear stone grows a thin new layer every day, and thicker layers in good seasons, so the count shows the age. The stone does not tell speed or meals.
 ### Test It, Weigh It, Argue It (challenge) (challenge, 15 questions)
 1. (write) Plan a fair test to find out whether the soles of your feet matter for balance. Say what you will change, what you will keep the same, and what you will measure.  
    **Answer:** Stand on one foot on a thick towel and on the bare floor, with the same pose, the same foot and my eyes open. Keep the room, the timer and the rest between tries the same. Measure the seconds until the foot touches down. I would change only the surface.. *Why:* A strong answer changes one thing, keeps the others the same, and measures with a number. It also repeats the tries, because one try can be luck.
 2. (mcq) A child stands on one foot for the full 30 seconds in every one of her four balance tests. What should she do to learn something from the test?  
-   Options: Make the pose harder, so the tests give different times / Stop, because the test does not work / Say that her balance is perfect  
+   Options: Stop, because the test does not work / Make the pose harder, so the tests give different times / Say that her balance is perfect  
    **Answer:** Make the pose harder, so the tests give different times. *Why:* When every result hits the top time, the test cannot tell the conditions apart. Making the pose harder, such as heel to toe, spreads the results out. This is part of designing a good test.
 3. (perspective) Two friends, the first person and the second person, are told to 'stand still' on one foot.  
    **Answer:** A strong answer agrees with the second person, because the brain keeps correcting small sways using eyes, ears and feet. It can say that the first person is right that big wobbling is not helpful, and that calm, small movements look still.. *Why:* Standing still is work. A stiff body corrects less well, and a body that moves a little all the time is the steadier one.
 4. (mcq) In a room where the walls slide forward but the floor stays still, a toddler leans back. What is the best explanation?  
-   Options: Her eyes say she is moving forward, and she corrects for it / Her feet feel the walls moving / Her ears feel the floor sliding  
+   Options: Her feet feel the walls moving / Her ears feel the floor sliding / Her eyes say she is moving forward, and she corrects for it  
    **Answer:** Her eyes say she is moving forward, and she corrects for it. *Why:* The eyes see the room sliding, which is how it looks when you move forward. The brain believes the eyes for a moment and leans back. The feet and ears are not fooled, and the floor does not move.
 5. (fill) The feeling that you are moving, when only the world you see is moving, is called ____.  
    **Answer:** ['vection']. *Why:* Vection is the train illusion. The eyes report movement and the brain may believe them, even though the ears and seat say you are still.
@@ -754,10 +754,10 @@ At the Vaigai, an old man on the steps looked at the stick and then at Paati. "I
 
 ## Quiz
 1. (mcq) Which of these is NOT one of the three sources of information the brain mixes to balance?  
-   Options: The nose / The inner ears / The eyes / The feet and muscles  
+   Options: The inner ears / The eyes / The nose / The feet and muscles  
    **Answer:** The nose. *Why:* Balance uses sight, the inner ears, and the sensors in the feet and muscles. The nose smells and does not help you know whether you are upright.
 2. (mcq) A child stands on a thick mattress with her eyes shut and wobbles a lot. What is the best explanation?  
-   Options: Two helpers are weak, so only her inner ears are working clearly / Her inner ears have stopped working / The mattress makes her heavier  
+   Options: Her inner ears have stopped working / The mattress makes her heavier / Two helpers are weak, so only her inner ears are working clearly  
    **Answer:** Two helpers are weak, so only her inner ears are working clearly. *Why:* With her eyes shut there is no sight, and the soft mattress makes the signals from her feet unclear. The inner ears still work, but they cannot do the whole job alone.
 3. (mcq) What makes it possible to read a sign while your head bobs in a bumpy bus?  
    Options: The head-turn reflex, which moves the eyes opposite to the head / The sign moves with your head / Your eyes follow the sign on purpose very quickly  
@@ -766,25 +766,25 @@ At the Vaigai, an old man on the steps looked at the stick and then at Paati. "I
    Options: Your eyes / Your inner ears / Your feet  
    **Answer:** Your eyes. *Why:* Your eyes saw a moving picture, which is what you see when you move yourself. Your inner ears and feet correctly said you were still.
 5. (mcq) Why can a very light fingertip on a wall steady a person?  
-   Options: It gives the brain more information about how the body is moving / It takes weight off the feet / It stops the inner ears from swirling  
+   Options: It takes weight off the feet / It gives the brain more information about how the body is moving / It stops the inner ears from swirling  
    **Answer:** It gives the brain more information about how the body is moving. *Why:* A still wall tells the brain how the body is swaying, even though the force is far too small to hold anyone up. The touch is a message, not a prop.
 6. (mcq) Why does a green chilli feel hot, though the chilli is not warm?  
-   Options: It opens the same gate in your nerve endings that heat opens / The chilli is secretly boiling / The tongue cannot tell hot from cold  
+   Options: The chilli is secretly boiling / The tongue cannot tell hot from cold / It opens the same gate in your nerve endings that heat opens  
    **Answer:** It opens the same gate in your nerve endings that heat opens. *Why:* Capsaicin, the chemical in chilli, opens the same gate that warm temperatures open. The nerve then sends a signal that means hot. The chilli's temperature does not change.
 7. (mcq) What happens in the body's temperature loop when you get too warm?  
-   Options: Sensors tell the brain, and the body sweats and widens the skin's blood vessels / The brain stops measuring / The body shivers to make heat  
+   Options: The brain stops measuring / Sensors tell the brain, and the body sweats and widens the skin's blood vessels / The body shivers to make heat  
    **Answer:** Sensors tell the brain, and the body sweats and widens the skin's blood vessels. *Why:* The loop senses the warmth, then acts to cool the body. Sweat dries and takes heat away, and wider blood vessels let heat leave the skin. Shivering is the response to being too cool.
 8. (mcq) When you stub your toe, you feel a sharp jab and then a throb. Why are there two kinds of pain?  
    Options: The signals travel along two kinds of nerve fibre at different speeds / Your toe gets hurt twice / Your brain forgets and remembers the pain  
    **Answer:** The signals travel along two kinds of nerve fibre at different speeds. *Why:* The fast fibres carry a sharp signal, and the slow fibres carry a dull throbbing one. The throb arrives later because its fibres are thinner and have no fast coat.
 9. (mcq) A person is distracted by an exciting game and does not notice a scraped knee until the game ends. What does this suggest?  
-   Options: Attention changes how strongly pain is felt / The scrape was not real / The nerves in the knee stopped working  
+   Options: The scrape was not real / Attention changes how strongly pain is felt / The nerves in the knee stopped working  
    **Answer:** Attention changes how strongly pain is felt. *Why:* The brain weighs pain against everything else it is paying attention to. The scrape was real, and the nerves worked, but the pain was turned down while the mind was busy.
 10. (mcq) What do the halteres of a fly do?  
-   Options: They swing and sense when the body turns / They help the fly smell / They make the fly's buzzing sound  
+   Options: They help the fly smell / They swing and sense when the body turns / They make the fly's buzzing sound  
    **Answer:** They swing and sense when the body turns. *Why:* The halteres swing as the wings beat. When the body turns, the swinging clubs are pushed sideways, and sensors at the base feel that push.
 11. (mcq) A pit viper has the same kind of gate that other animals use for pain. What does this suggest about how new senses begin?  
-   Options: Evolution often tunes an old gate to a new job / Evolution builds every sense from nothing / Snakes copy the senses of other animals  
+   Options: Evolution builds every sense from nothing / Snakes copy the senses of other animals / Evolution often tunes an old gate to a new job  
    **Answer:** Evolution often tunes an old gate to a new job. *Why:* In snakes and bats, the heat sense uses gates related to ones in other animals, tuned to different temperatures. Evolution often reuses what it has.
 12. (mcq) To test whether a soft surface changes balance, a child stands on a blanket on one try and on a floor on the next. What else must stay the same for a fair test?  
    Options: The pose, the foot, the eyes and the rest between tries / The colour of the blanket / Nothing, because only the surface matters  
@@ -870,6 +870,11 @@ The World Comes In (sci.senses.L4): Topic-level song
 ## Things to buy
 - [A digital kitchen scale that reads in grams](https://www.amazon.in/s?k=digital+kitchen+scale+1+gram) (tool): For A Fingertip Lighter than a Tomato. It shows how light a helpful touch can be. A small kitchen scale from a home store is enough. It costs about Rs 300 to 500, and the activity also gives a way to do it without one. Used in a2. 
 - [A kitchen thermometer that reads between 0 and 100 degrees](https://www.amazon.in/s?k=digital+kitchen+thermometer+probe) (tool): To check that the warm water in Warm Hand, Whole Hand, Matka Magic and Be a Pit Viper is never too hot. Most homes can also use the inside of the wrist. A digital fever thermometer from a medical shop (about Rs 100 to 200) also works, since it reads 32 to 42 degrees. Used in a3, a5, a6. 
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in The Balance Team: what happens when a helper is taken away?, Shake the Head or Shake the Page?, Ice in the Palm: does thinking about something else change the ache?. About ₹150 to ₹400. A phone stopwatch works well. Used in e1, e2, e3, a2, a3, a4, p1. Get it before The Balance Team: what happens when a helper is taken away?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Family Balance Lab: three days, eight people. About ₹10 to ₹30. Any school ruler is fine. Used in p1. Get it before Family Balance Lab: three days, eight people.
+- [Sticky notes](https://www.amazon.in/s?k=sticky+notes+pack) (material): Used in Shake the Head or Shake the Page?. About ₹20 to ₹60. Small torn paper and tape do the same job. Used in e2. Get it before Shake the Head or Shake the Page?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Night Path for Paati: help a grandparent walk safely in the dark. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before Night Path for Paati: help a grandparent walk safely in the dark.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What three sources of information does your brain mix for balance? → Your eyes, your inner ears, and the sensors in your feet and muscles.
@@ -890,7 +895,7 @@ The World Comes In (sci.senses.L4): Topic-level song
 
 ## Sources
 - Founder's notes in ideas/by_topic/senses.md: the Reality grade grid (perception builds experience; what we do not see can still exist) and the SCI Card for Obaid Siddiqi (fruit flies and the genetics of sensing). Used for the big question on what a fly can teach us about a child, and for the deep truth.
-- Combined lessons sci-C3-senses and sci-C1-senses: the subconcepts on balance, body position, inner senses and the senses of other animals, checked so that this unit covers them and goes deeper.
+- Combined lessons sci-C3-senses and sci-C1-senses: the subconcepts on balance, body position, inner senses and the senses of other animals, checked so that this lesson covers them and goes deeper.
 - Neighbouring units read so nothing repeats: sci.senses.more-senses.L3 (Ice Race, Find the Dot, Dizzy Timer, Spin and Stop, Floating Arm, Cool Breath, Cold Spot Map, the prawn story, the Vellore story), and sci.senses.five-senses.L3 and L4 (signal speed, thresholds, tired receptors, the body map, prediction, the rubber hand, magnetic and electric senses).
 - Pierre Flourens, Recherches experimentales sur les proprietes et les fonctions du systeme nerveux, 1824 (cutting the canals of pigeons)
 - Robert Barany, work on the caloric test and nystagmus, about 1906, and the 1914 Nobel Prize in Physiology or Medicine for work on the vestibular apparatus

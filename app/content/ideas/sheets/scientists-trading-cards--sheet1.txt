@@ -1,0 +1,83 @@
+# Scientists Trading Cards / Sheet1 (copied from Google Sheets, 2026-11-27)
+R1: Name | Gender | Country/Region | Era (Birth–Death) / Peak | Field & Key Invention/Discovery | Deep truth it points to | Quick story | Notes / Why-underdog
+R2: Rosalind Franklin |  | UK | 1920–1958 | X-ray diffraction of DNA | Shape encodes function; structure → code | Her “Photo 51” was the smoking gun for the double helix. | Credit skewed to Watson–Crick; pivotal yet under-recognized.
+R3: Lise Meitner |  | Austria/Sweden | 1878–1968 | Explained nuclear fission (with Frisch) | Matter can split and release stars’ energy | Refused to work on the bomb; did the math on a walk in the snow. | Nobel went to Otto Hahn alone.
+R4: Chien-Shiung Wu |  | China/USA | 1912–1997 | Parity violation in weak force | Nature isn’t perfectly symmetrical | Ran a cryogenic midnight experiment that shocked physics. | Colleagues won the Nobel; she didn’t.
+R5: Jocelyn Bell Burnell |  | UK | 1943– | Discovered pulsars | The cosmos has ticking clocks | First called them “LGM” (Little Green Men) signals. | Nobel went to her advisor.
+R6: Nettie Stevens |  | USA | 1861–1912 | X/Y chromosomes determine sex | Information sits on chromosomes | Sorted mealworm cells like a boss; found XX/XY. | Overlooked for decades.
+R7: Henrietta Leavitt |  | USA | 1868–1921 | Cepheid period–luminosity law | You can measure the universe with light rhythms | Measured thousands of stars by hand. | Foundation for Hubble; credit came late.
+R8: Alice Ball |  | USA | 1892–1916 | Effective leprosy (Hansen’s) treatment | Extraction + chemistry can unchain a medicine | Died at 24; method used worldwide. | Work was appropriated, later restored.
+R9: Gerty Cori |  | USA (Czech-born) | 1896–1957 | Cori cycle (muscle–liver energy loop) | Life is about energy flow & recycling | Lab partner = husband; co-won Nobel. | Fought systemic bias to get positions.
+R10: Esther Lederberg |  | USA | 1922–2006 | Replica plating; lambda phage | Evolution hunts solutions already in the population | “Stamping” plates revealed bacterial mutants. | Credit largely to her then-husband.
+R11: Tu Youyou |  | China | 1930– | Artemisinin for malaria | Ancient texts can seed modern breakthroughs | Read a 4th-century formula; saved millions. | Long under the radar; later Nobel.
+R12: Donna Strickland |  | Canada | 1959– | Chirped pulse amplification (lasers) | Stretch, squeeze, amplify → tame extremes | Published the Nobel work as a PhD student. | First female Physics Nobel in 55 years.
+R13: Emmanuelle Charpentier & Jennifer Doudna |  | France/USA | 1968– ; 1964– | CRISPR gene editing | Life’s code is editable—power with responsibility | First “cut and paste” demo for DNA. | Faced priority fights; shared Nobel.
+R14: Katie Bouman |  | USA | 1989– | EHT black hole imaging | Seeing the unseen needs collective inference | Helped stitch Earth-sized telescope data. | Targeted online; clarified team science.
+R15: Katalin Karikó |  | Hungary/USA | 1955– | mRNA stabilization → vaccines | Information therapy: messages heal | Grants rejected for years; kept going. | Nobel in 2023 after decades of “no.”
+R16: Janaki Ammal |  | India | 1897–1984 | Plant cytogenetics; sugarcane breeding | Diversity is an innovation engine | India’s first woman botanist of global note. | Pioneered during colonial & gender bias.
+R17: Kamala Sohonie |  | India | 1911–1998 | Vitamin C in Indian foods; biochem | Nutrition is biochemistry in daily life | Broke gender barrier at IISc after a protest. | Systemic exclusion, then excellence.
+R18: Asima Chatterjee |  | India | 1917–2006 | Anti-epileptic & anti-malarial phytochem | Medicines grow on trees—literally | Isolated drugs from plants for decades. | First Indian woman with science DSc.
+R19: Yamuna Krishnan |  | India | 1974– | DNA nanodevices in living cells | DNA is also a machine part | Builds pH “nanomachines” that light up. | Cutting-edge, often under-publicized.
+R20: Gagandeep Kang |  | India | 1962– | Enteric viruses; rotavirus vaccines | Public health = logistics + lab | Built India’s vaccine trial frameworks. | Champion of field studies in India.
+R21: Priyamvada Natarajan |  | India/USA | 1970– | Dark matter/black hole mapping | Gravity sculpts the invisible | Makes mass maps of the unseen. | High-impact theorist; fewer headlines.
+R22: Satyendra Nath Bose |  | India | 1894–1974 | Bose statistics; Bose–Einstein condensate | Identity matters—even for particles | Einstein translated his paper; boom. | Name lives in “bosons.”
+R23: C. V. Raman |  | India | 1888–1970 | Raman scattering (light–matter) | Light remembers what it touches | Discovered using a homemade spectrograph. | First Asian Physics Nobel.
+R24: Subrahmanyan Chandrasekhar |  | India/USA | 1910–1995 | Chandrasekhar limit; stellar evolution | Limits create destinies (stars collapse) | Did the math on a boat to Cambridge. | Nobel took decades to arrive.
+R25: Meghnad Saha |  | India | 1893–1956 | Saha ionization equation | Stars are laboratories at scale | Explained stellar spectra from first principles. | Textbook-famous; public-policy pioneer.
+R26: G. N. Ramachandran |  | India | 1922–2001 | Ramachandran plot; collagen structure | Geometry constrains life’s shapes | Drew the “allowed angles” of proteins. | Quiet giant of structural biology.
+R27: Vikram Sarabhai |  | India | 1919–1971 | Indian space program | Space tech = national development | Launched ISRO from a church building. | Vision > resources.
+R28: M. S. Swaminathan |  | India | 1925–2023 | Green Revolution genetics | Feed people with science + policy | Bred high-yield wheat/rice varieties. | Also warned about sustainability.
+R29: Venkatraman Ramakrishnan |  | India/UK/USA | 1952– | Ribosome structure | Life is a translation engine | Switched from physics to biology; won Nobel. | Cross-disciplinary path.
+R30: Aryabhata |  | India | 476–550 CE | π approx; rotation of Earth; astronomy | Models can outpace naked-eye intuition | Wrote Āryabhaṭīya at ~23 years old. | Classical Indian science pillar.
+R31: Bhāskara II (Bhaskaracharya) |  | India | 1114–1185 | Calculus ideas; astronomy instruments | Change can be computed | Anticipated differential notions. | Pre-Newtonian insights.
+R32: Kanada (Kaṇāda) |  | India | ~6th–2nd c. BCE | Atomism (Vaiśeṣika) | “Things” may be built from indivisibles | Proposed categories & atoms philosophically. | Proto-scientific metaphysics.
+R33: Sushruta |  | India | ~7th–6th c. BCE | Surgical techniques; anatomy | Systematic observation beats taboo | Described >300 procedures, 120 instruments. | Medical classic (Sushruta Saṃhitā).
+R34: Charaka |  | India | ~2nd c. CE | Systematic medicine; diagnostics | Health = balance & systems | Holistic causation and evidence-like casework. | Medical epistemology ancestor.
+R35: Pingala |  | India | ~3rd–1st c. BCE | Binary & combinatorics in prosody | Patterns = code (0/1 roots) | Chandahsūtra encoded binomial ideas. | Early combinatorics/binary thinking.
+R36: Tholkappiyar |  | Tamilakam (India) | c. 3rd c. BCE? (debated) | Linguistics; phonology; semantics | Structure underlies expression | Tolkāppiyam systematized Tamil grammar. | Science-of-language ancestor.
+R37: Agastya (Siddhar tradition) |  | Tamilakam (India) | Legendary/ancient | Alchemy, medicine (Siddha) | Transformation as a natural law | “Karisal” country lore & herbs. | Blend of proto-chemistry & myth; teach as tradition-attributed.
+R38: Hypatia |  | Egypt (Alexandria) | c. 350–415 | Math, astronomy; instruments | Knowledge needs community | Led a school; built astrolabes. | Martyred; works largely lost.
+R39: Mary Anning |  | UK | 1799–1847 | Fossil hunter; ichthyosaur | Deep time is real and visible | “She sells sea shells” is basically her. | Excluded from societies; data reshaped geology.
+R40: Ada Lovelace |  | UK | 1815–1852 | First algorithm (for Babbage engine) | Machines can manipulate symbols, not just numbers | Predicted creative computing. | Long dismissed as “assistant,” now restored.
+R41: Emmy Noether |  | Germany | 1882–1935 | Noether’s Theorem | Symmetry ↔ conservation laws | Rebuilt physics with pure math | Faced severe bias; Einstein backed her.
+R42: Michael Faraday |  | UK | 1791–1867 | Electromagnetism; induction | Fields are as real as objects | Bookbinder’s apprentice → field lines. | Self-taught powerhouse.
+R43: Nikola Tesla |  | Serbia/USA | 1856–1943 | AC motors; wireless ideas | Systems beat brute force | Built a remote-control boat in 1898. | Genius + poor business sense.
+R44: Marie Curie |  | Poland/France | 1867–1934 | Radioactivity | Atoms aren’t indivisible | Carried radium in her pockets (don’t try this). | Only person with Nobels in 2 sciences.
+R45: Albert Einstein |  | Germany/USA | 1879–1955 | Relativity; photoelectric effect | Space, time, light = one fabric | Patent clerk → rewrote physics in 1905. | Pop icon, yes—still earned.
+R46: Srinivasa Ramanujan |  | India | 1887–1920 | Infinite series; partitions | Intuition can outrun training | Sent wild theorems to Hardy; many proved later. | Math mystic energy.
+R47: Ashoke Sen |  | India | 1956– | String theory; S-duality | Dual views can be the same reality | Unifier of strong/weak pictures. | Quiet legend in theory.
+R48: Shankar Balasubramanian |  | India/UK | 1966– | Next-gen DNA sequencing | Reading life at scale changes medicine | Co-founded Solexa; enabled the genomics era. | Often overshadowed by “genomics” brand.
+R49: Jagadish Chandra Bose (J. C. Bose) |  | India | 1858–1937 | Wireless radio, millimetre waves; plant electrophysiology | Life and matter share signal languages; waves don’t care about walls or empires | 1895: beamed radio through walls in Calcutta before Marconi; built crescograph to “listen” to plants | Western priority claims eclipsed him for decades; patents avoided on principle
+R50: Anna Mani |  | India | 1918–2001 | Meteorology instruments; ozone & wind measurements | Good data beats guesswork; climate is measurable | Standardized Indian weather instruments; key to Monsoon science | Pioneering woman in post-colonial Indian science
+R51: Bibha Chowdhuri |  | India | 1913–1991 | Cosmic rays; early meson evidence | Nature leaves particle footprints | Likely first Indian woman physicist in high-energy; worked with D. S. Kothari & P. M. S. Blackett | Vanished from textbooks for ages
+R52: Rajeshwari Chatterjee |  | India | 1922–2010 | Microwave engineering; antennas | Information rides on invisible fields | Returned from MIT, built IISc’s microwave lab | Quiet builder of Indian RF science
+R53: Yellapragada Subbarow |  | India/USA | 1895–1948 | Tetracycline, methotrexate pathways, ATP chemistry | Chemistry → cures; energy is a currency | His work underpins cancer therapy & antibiotics | Corporate/credit politics buried the name
+R54: Narinder Singh Kapany |  | India/USA | 1926–2020 | Fiber optics | Light can be piped like water | Coined “fiber optics”; enabled modern internet | “Father of Fiber Optics,” not a household name
+R55: Homi J. Bhabha |  | India | 1909–1966 | Nuclear research; TIFR/DAE founder | Institutions are inventions too | Sketched India’s atomic roadmap | Overshadowed by geopolitics/conspiracy lore
+R56: A. P. J. Abdul Kalam |  | India | 1931–2015 | Missiles, launch vehicles; ISRO/DRDO | Systems thinking turns dreams into hardware | “Missile Man,” later President; championed kids | Scientist–statesman; great for kid cards
+R57: Ritu Karidhal |  | India | 1975– | Mission design (Mangalyaan, Chandrayaan) | Precision + thrift can reach other worlds | “Rocket Woman of India” | Modern role model; low media oxygen vs peers
+R58: Tessy Thomas |  | India | 1963– | Long-range missiles | Control systems tame chaos | First woman to lead an Indian missile project | Broke multiple glass ceilings
+R59: C. R. Rao |  | India/USA | 1920–2023 | Cramér–Rao bound; Rao–Blackwell | Limits tell you what’s knowable | A statistician who set the rules of certainty | Only recently got mainstream attention
+R60: Har Gobind Khorana |  | India/USA | 1922–2011 | Genetic code; RNA synthesis | Language of life is modular | Built genes before it was cool | Often filed under “American Nobel”
+R61: Prafulla Chandra Ray |  | India | 1861–1944 | Inorganic chemistry; Bengal Chemicals | Science + industry + nation-building | Wrote classic History of Hindu Chemistry | Proto-industrial chemist, rarely taught
+R62: Madhava of Sangamagrama |  | Kerala (India) | c. 1340–1425 | Infinite series for π; calculus ideas | Change is computable with infinity | Taylor-like series centuries pre-Europe | Under-credited in global narratives
+R63: Baudhāyana |  | India | ~800–500 BCE | Early geometry (Pythagorean-like) | Space has rules long before proofs got pretty | Sulba Sūtras encode constructions | “Pythagoras” gets the pop credit
+R64: Āpastamba |  | India | ~600–300 BCE | Geometry, algorithms in ritual texts | Procedures are proto-algorithms | Construction rules for altars = math labs | Great bridge for “Vedic science” cards
+R65: Varāhamihira |  | India | 505–587 | Astronomy, combinatorics, meteorology | Patterns predict seasons & skies | Bṛhat Saṃhitā = encyclopedia of the natural world | Ancient systems thinker
+R66: Pingala |  | India | ~3rd–1st c. BCE | Binary/Combinatorics in prosody | Poetry can be math; 0/1 roots | Prosody → binomial coefficients & codes | Lovely cross-discipline card
+R67: Tholkappiyar |  | Tamilakam | debated (ancient) | Linguistics/phonology system | Structure underlies meaning | Tolkāppiyam formalizes language | “Science of language” before linguistics
+R68: Cecilia Payne-Gaposchkin |  | UK/USA | 1900–1979 | Stars are mostly H/He | Evidence can overturn authority | Thesis said “stars = hydrogen”; ignored, later vindicated | Classic erased credit
+R69: Hedy Lamarr |  | Austria/USA | 1914–2000 | Spread-spectrum (Wi-Fi ancestor) | Security can be musical (frequency hop) | Co-invented with a composer using piano rolls | Hollywood hid the engineer
+R70: Katherine Johnson |  | USA | 1918–2020 | Orbital mechanics for NASA | Math can put people on the Moon | John Glenn: “Get the girl to check the numbers” | Hidden Figures—literally
+R71: Gladys West |  | USA | 1930– | Geodesy for GPS | Maps are math, not magic | Modeled Earth so your phone knows where you are | Only recently recognized
+R72: Mary Golda Ross |  | USA (Cherokee) | 1908–2008 | Early aerospace systems | Inclusion expands the frontier | Skunk Works mathematician/engineer | Indigenous pioneer, long unsung
+R73: Caroline Herschel |  | Germany/UK | 1750–1848 | Comets; deep-sky cataloguing | Careful looking rewrites the map | First salaried woman astronomer | Often footnoted to her brother
+R74: Mileva Marić (contested) |  | Serbia/Switzerland | 1875–1948 | Contributions to early relativity? | Science is collaborative (and messy) | Co-worked with Einstein; credit debated | Use as a “critical thinking” card
+R75: Mary Somerville |  | UK | 1780–1872 | Mathematical physics syntheses | Synthesis is its own discovery | Popularized Laplace/Newton for a generation | “Queen of Science,” yet sidelined
+R76: Radia Perlman |  | USA | 1951– | Spanning Tree Protocol | Networks can self-organize | Wrote the rhyme that explains STP | “Mother of the Internet” quietly
+R77: Grace Hopper |  | USA | 1906–1992 | Compilers; COBOL | We program ideas, not wires | Debugged with an actual moth | Not underdog now, but kids love the story
+R78: J. B. S. Haldane |  | UK/India | 1892–1964 | Population genetics; Oparin-Haldane | Life emerges from chemistry | Moved to India; wrote wildly readable essays | Bridge between lab & public
+R79: Obaid Siddiqi |  | India | 1932–2013 | Neurogenetics (Drosophila) | Behavior = circuits + genes | Founded NCBS; built India’s modern biology hubs | Architect more than headline
+R80: Sunetra Gupta |  | India/UK | 1965– | Infectious disease modeling | Models are stories with numbers | Also a novelist; teaches model skepticism | Public debate lightning rod = teach kids nuance
+R81: Kalpana Chawla |  | India/USA | 1962–2003 | Astronautics | Curiosity > gravity | Carried a flag of the world to space | Memorialize grit & global science
+R82: C. V. Vishveshwara |  | India | 1938–2017 | Black hole quasi-normal modes | Ringing spacetime is a signature | Predicted the “ringdown” LIGO hears | Often overshadowed in BH lore

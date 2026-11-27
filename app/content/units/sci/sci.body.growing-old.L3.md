@@ -1,7 +1,7 @@
 # Growing old: how a body changes from baby to elder
 `sci.body.growing-old.L3`
 
-**Summary.** How does a body change from a baby to an elder? In this unit you will test how close people of different ages can read, try the snap-back skin test, compare hands across time, and interview an elder about how they have changed.
+**Summary.** How does a body change from a baby to an elder? In this lesson you will test how close people of different ages can read, try the snap-back skin test, compare hands across time, and interview an elder about how they have changed.
 
 **Intro.** *Look at the back of your hand. Now look at the back of the hand of the oldest person you know, or a photo of one. What is different? What is the same?* Every grandparent you know was once a baby. They had no teeth. They could not walk. Their head was huge compared to their body. One day you will be as old as them. Your hair may turn white, and your skin may fold into soft lines. Why does a body change like this? And how much of you is new, and how much is as old as you are?
 
@@ -411,7 +411,7 @@ I am still a needle. I have been held by a girl who became an old woman. Now I a
   - Note: Do not explain anything yet. The aim is for questions to come from your child. Write their 'I wonder' questions down to come back to.
 - **s2 (5 min)**  
   *Parent does:* Take a photo of the hands side by side, or draw around them on one sheet. Then write down three noticings.  
-  *Parent says:* Every hand here was once a baby's hand. Let's keep a picture of them and write down what we noticed. We will find out why during this unit.  
+  *Parent says:* Every hand here was once a baby's hand. Let's keep a picture of them and write down what we noticed. We will find out why during this lesson.  
   *Child mode:* Take a photo of the hands, or draw around them. Tell three things you noticed.
   - Note: The hand did not change on one day. It grew a little every day through childhood and the teenage years, and it stopped growing taller in the late teens. After that, the skin changed slowly, a little each year.
   - Think: An elder's hand was once as small as yours. When did it change?
@@ -557,27 +557,27 @@ I am still a needle. I have been held by a girl who became an old woman. Now I a
 1. (order) Put these people in order of their life stage, from the earliest stage to the latest: A grandmother who is 72. A baby who is 6 months old. A boy who is 15. A girl who is 8. A mother who is 38.  
    **Answer:** order shown. *Why:* Every person goes through the same stages in the same order: baby, child, teenager, adult, older adult. Nobody skips one. A strong answer also names the stage of each person.
 2. (mcq) A baby grows from about 50 cm to about 75 cm in their first year. An 8-year-old grows about 6 cm in a year. Who grows fastest?  
-   Options: The baby, by about 25 cm in one year / The 8-year-old, because she is older and bigger / They grow at the same speed / Nobody grows after they are born  
+   Options: The 8-year-old, because she is older and bigger / The baby, by about 25 cm in one year / They grow at the same speed / Nobody grows after they are born  
    **Answer:** The baby, by about 25 cm in one year. *Why:* 75 take away 50 is 25 cm in one year. That is about four times what an 8-year-old grows. The first year is the fastest growing of a whole life. Many children guess that the 8-year-old grows fastest, because they can see themselves growing out of clothes.
 3. (mcq) A baby's head is about one quarter of their length. A grown-up's head is only about one eighth. What does this tell you?  
-   Options: After birth, the arms, legs and body grow much more than the head / A grown-up's head shrinks / Babies have bigger heads than grown-ups / Heads stop growing at birth  
+   Options: A grown-up's head shrinks / After birth, the arms, legs and body grow much more than the head / Babies have bigger heads than grown-ups / Heads stop growing at birth  
    **Answer:** After birth, the arms, legs and body grow much more than the head. *Why:* The head is already big at birth, because the brain grows early. Then the legs and body do most of the growing. So the head becomes a smaller part of the whole. A grown-up's head is still bigger than a baby's, so 'bigger heads' is wrong.
 4. (mcq) A grandmother's hair has turned grey. Her granddaughter says, 'Grandma's black hairs turned white.' What really happened?  
-   Options: Her black hairs stayed black. The cells at the roots stopped making colour, so new hairs grew in white. / Her black hairs slowly turned white from the tip down / Dust collected on her hair / The sun bleached every hair  
+   Options: Her black hairs slowly turned white from the tip down / Dust collected on her hair / Her black hairs stayed black. The cells at the roots stopped making colour, so new hairs grew in white. / The sun bleached every hair  
    **Answer:** Her black hairs stayed black. The cells at the roots stopped making colour, so new hairs grew in white.. *Why:* A hair that has already grown cannot change colour. Pigment cells at the root put colour into each new hair. As they run out, new hairs grow white. White hairs mixed with dark ones look grey from far away.
 5. (write) Think of your snap-back skin test, where you gently pinched the back of a hand. Whose skin took longest to go flat? Use the springy threads inside skin to explain why.  
    **Answer:** For example: The oldest person's skin took about 3 seconds. Mine went flat in less than 1 second. Skin has springy threads called collagen and elastin. Older skin has fewer of them, so it springs back more slowly.. *Why:* A strong answer uses the child's own numbers, puts the people in order of age, and explains the result with the springy threads, not with 'old skin is tired'.
 6. (fill) The clear, bendy part inside your eye changes shape to make close things look sharp. It is called the ____.  
    **Answer:** ['lens', 'eye lens']. *Why:* The lens gets fatter and rounder to focus on near things. A child's lens is soft like jelly. An older lens is stiffer.
 7. (mcq) In the near point test, you find how close a person can hold a card with tiny print and still read it. Before the test, a girl guessed that her mother, who is 46, would read the card closer than she could. 'Grown-ups read more, so their eyes are better at it,' she said. What did the test most likely show?  
-   Options: The girl read it closer. Her mother had to hold it further away, because her lens is stiffer. / Her mother read it closer, because she reads more / They both read it at exactly the same distance / Neither could read it at all  
+   Options: Her mother read it closer, because she reads more / They both read it at exactly the same distance / The girl read it closer. Her mother had to hold it further away, because her lens is stiffer. / Neither could read it at all  
    **Answer:** The girl read it closer. Her mother had to hold it further away, because her lens is stiffer.. *Why:* Reading a lot does not keep the lens soft. The lens adds new layers all through life and gets stiffer. By about 45, most people must hold small print further away. A strong reason uses the lens, not practice.
 8. (match) Match each life stage to something that often happens in it.  
    **Answer:** Baby → learns to walk; Child → milk teeth fall out; Teenager → growth spurt; Adult → bones at their strongest; Older adult → hair turns white. *Why:* Each stage has its own changes. Babies learn to walk, children lose milk teeth, teenagers grow fast, adults are strongest, and elders' hair often turns white.
 9. (sort) Sort these. Do they usually get HARDER with age, or can they get BETTER?  
    **Answer:** reading tiny print → Often gets harder; knowing many words → Can get better; hearing very high sounds → Often gets harder; telling family stories → Can get better; running fast → Often gets harder; knowing what to do in a crisis → Can get better. *Why:* Bodies slow down with age, but knowledge, words and experience can keep growing all life.
 10. (mcq) Your body makes millions of new cells every second. Which part is NOT replaced during your life?  
-   Options: The outer layer of skin / Red blood cells / The cells in the middle of the eye lens / The lining of the gut  
+   Options: The cells in the middle of the eye lens / The outer layer of skin / Red blood cells / The lining of the gut  
    **Answer:** The cells in the middle of the eye lens. *Why:* The cells in the middle of your eye lens were made before you were born, and they stay all your life. Skin, blood and gut lining are replaced again and again. People who pick 'skin' often think skin stays the same, but the outer skin is replaced about every month.
 11. (truefalse) Grown-ups stop getting taller because they stop eating as much as children.  
    **Answer:** False. *Why:* False. Bones grow longer at their ends, in places called growth plates. In the late teens the growth plates close and turn to solid bone. After that, no amount of food makes a person taller.
@@ -599,17 +599,17 @@ I am still a needle. I have been held by a girl who became an old woman. Now I a
 4. (sort) Your body keeps replacing old cells with new ones. Sort these by how often the body replaces them.  
    **Answer:** gut lining → Every few days or weeks; outer skin → Every few days or weeks; red blood cells → Every few months or years; bones → Every few months or years; middle of the eye lens → Never, they stay all life; most brain cells → Never, they stay all life. *Why:* Different parts of the body renew at very different speeds. So you are partly new and partly as old as you are.
 5. (mcq) A grandmother slipped on a wet bathroom floor and broke her wrist. Her granddaughter slipped on the same floor last week and was not hurt. What is the most likely reason?  
-   Options: Bones lose some hard minerals with age, so they break more easily / The girl is lucky and the grandmother is not / Children's bones are made of rubber / The grandmother fell from much higher up  
+   Options: The girl is lucky and the grandmother is not / Children's bones are made of rubber / The grandmother fell from much higher up / Bones lose some hard minerals with age, so they break more easily  
    **Answer:** Bones lose some hard minerals with age, so they break more easily. *Why:* Older bones slowly lose some of their hard minerals, so the same fall can break them. That is why a rubber mat and a handrail in the bathroom help elders.
 6. (perspective) Can worry turn hair grey? Three people give different answers.  
    **Answer:** A strong answer picks a view and gives evidence, such as the mouse study, or the fact that grown hair cannot change colour. It then admits a fair point from another side. For example, the grandmother's new hairs may really have grown in grey sooner because of stress.. *Why:* This is still being studied. Stress used up pigment cells in mice, but more studies in humans are needed. The views fit together more than they first seem: stress may make new hairs grow in grey sooner, but old hairs do not change.
 7. (mcq) Two twin sisters are 60 years old. They have the same genes. One sister worked outdoors in the hot sun all her life without a hat. The other worked indoors. Whose face most likely has more wrinkles, and why?  
-   Options: The sister who worked in the sun, because sunlight slowly breaks down the springy threads in skin / The indoor sister, because skin needs sun to stay smooth / Both exactly the same, because twins have the same genes / Neither, because wrinkles come only from smiling  
+   Options: The indoor sister, because skin needs sun to stay smooth / The sister who worked in the sun, because sunlight slowly breaks down the springy threads in skin / Both exactly the same, because twins have the same genes / Neither, because wrinkles come only from smiling  
    **Answer:** The sister who worked in the sun, because sunlight slowly breaks down the springy threads in skin. *Why:* The twins have the same genes, so the difference must come from how they lived. Strong sunlight damages collagen and elastin, the springy threads you tested in the snap-back skin test. So a hat and shade help skin age more slowly. Picking 'same genes' forgets that genes are not the whole story.
 8. (draw) Draw two eyes from the side. Give one a soft, round lens for a child. Give the other a flatter, stiffer lens for an elder. Draw a book close to each eye. Label each book sharp or blurry.  
    **Answer:** The child's round lens makes the close book sharp. The elder's stiff lens makes the close book blurry.. *Why:* A soft lens can bulge to focus on near things. A stiff one cannot bulge enough.
 9. (mcq) Jeanne Calment of France lived to 122. Some stories say a man in a village lived to 200. Why do scientists believe the 122 but not the 200?  
-   Options: Jeanne Calment's birth was written down in records, so her age could be checked / Scientists only believe stories from France / Nobody can live past 100 / 200 is too big a number to count  
+   Options: Scientists only believe stories from France / Nobody can live past 100 / 200 is too big a number to count / Jeanne Calment's birth was written down in records, so her age could be checked  
    **Answer:** Jeanne Calment's birth was written down in records, so her age could be checked. *Why:* Her birth certificate, school records and other papers showed when she was born. The 200-year stories have no records at all. Scientists trust a claim when it can be checked.
 10. (write) Someone says, 'Old people can't learn new things.' Karthyayani Amma of Kerala passed a reading and writing exam at the age of 96. What would you tell them?  
    **Answer:** For example: That is not true. Karthyayani Amma learned to read and write in her nineties and passed the exam. Brains keep making new connections all life. Some fast things may get slower, but people can keep learning.. *Why:* A strong answer uses the real example as evidence against a common belief, and is fair that some quick tasks do get slower with age.
@@ -622,7 +622,7 @@ I am still a needle. I have been held by a girl who became an old woman. Now I a
 14. (match) Match each part of the body to the change that comes with age.  
    **Answer:** Hair roots → stop making colour; Skin → fewer springy threads; Eye lens → gets stiffer; Ear → hair cells for high sounds wear out; Bones → lose some hard minerals. *Why:* Each part changes in its own way. Knowing the cause tells us what help works, such as reading glasses for the lens or a handrail for thinner bones.
 15. (write) A child says, 'Older people have weaker grip.' Plan a fair test to find out. Say what you would measure and name two things you would keep the same.  
-   **Answer:** For example: Measure how many seconds each person can hang on to a pencil box lifted by a string handle, or how many seconds each takes to open the same jar. Keep the same jar, the same hand, and the same number of tries.. *Why:* A strong answer names one thing to measure and keeps everything else the same except age, as in the other tests of this unit.
+   **Answer:** For example: Measure how many seconds each person can hang on to a pencil box lifted by a string handle, or how many seconds each takes to open the same jar. Keep the same jar, the same hand, and the same number of tries.. *Why:* A strong answer names one thing to measure and keeps everything else the same except age, as in the other tests of this lesson.
 ### The Big Questions of Ageing (challenge) (challenge, 15 questions)
 1. (write) Your body makes about 4 million new cells every second. Is it still the same body it was last year? Give reasons.  
    **Answer:** Any thoughtful answer. For example: Much of it is new, because skin, blood and gut cells have been replaced. But my eye lens cells and most brain cells are the same. My memories carry on too. So it is the same body, but rebuilt.. *Why:* This is a real puzzle that thinkers have argued about for thousands of years. A strong answer uses facts about which cells are replaced and which stay.
@@ -631,17 +631,17 @@ I am still a needle. I have been held by a girl who became an old woman. Now I a
 3. (write) A mouse lives about 2 years. A human lives about 80. Their cells are very alike. Suggest one reason for the difference.  
    **Answer:** For example: Mice are eaten by cats and owls so young that nature never shaped them to live long. Humans are protected and cared for, so a long life helped. Or their genes may set a different timetable.. *Why:* This is an open question. Scientists point to genes, body size, and how dangerous an animal's life is. A strong answer gives a reason that could be tested.
 4. (perspective) Will doctors one day cure ageing? Three people disagree.  
-   **Answer:** A strong answer picks a view and uses evidence, such as the worm study or the many different changes in the unit (lens, skin, bones, hearing). It then answers back fairly from another view.. *Why:* This is debated. Scientists have made worms, flies and mice live longer. No product has been shown to stop ageing in humans. Whether we should want to is also a real question.
+   **Answer:** A strong answer picks a view and uses evidence, such as the worm study or the many different changes in the lesson (lens, skin, bones, hearing). It then answers back fairly from another view.. *Why:* This is debated. Scientists have made worms, flies and mice live longer. No product has been shown to stop ageing in humans. Whether we should want to is also a real question.
 5. (mcq) Killer whales are big dolphins. Old grandmother killer whales often lead their families to salmon, mostly in years when food is hard to find. Which idea does this support?  
    Options: Long life after having babies can help a family survive / Old animals are always weaker than young ones / Whales do not age / Salmon prefer grandmothers  
    **Answer:** Long life after having babies can help a family survive. *Why:* The grandmothers remember where food was in past hard years. Their families do better with them. This supports the grandmother idea: that long-lived grandmothers help their grandchildren survive.
 6. (mcq) Each time a cell splits, the caps on the ends of its gene threads get a little shorter. Skin cells split again and again all life. The cells in the middle of the eye lens hardly split at all. After 60 years, which cells would you expect to have shorter caps?  
-   Options: The skin cells' caps / The lens cells' caps / Both exactly the same / Neither has caps  
+   Options: The lens cells' caps / The skin cells' caps / Both exactly the same / Neither has caps  
    **Answer:** The skin cells' caps. *Why:* The caps shorten with each split. Skin cells split many more times, so their caps shorten more. The lens shows that ageing is not only about splitting. It ages by keeping its old cells.
 7. (write) When a body dies, its atoms go back into the soil, water and air. Where might those atoms go next?  
    **Answer:** Into a plant, which a cow or a person might eat. Into a tree. Into a river. Into a new living being.. *Why:* Atoms are never lost. They move through soil, plants and animals again and again. A strong answer follows the atoms for at least two steps.
 8. (mcq) Hydras are tiny water animals. In a 1998 study, hydras showed no signs of ageing for four years. What does this tell scientists?  
-   Options: Ageing is not the same for every living being / Hydras live for ever, for sure / All animals live four years / Hydras are not alive  
+   Options: Hydras live for ever, for sure / Ageing is not the same for every living being / All animals live four years / Hydras are not alive  
    **Answer:** Ageing is not the same for every living being. *Why:* Hydras seem to keep renewing their bodies. This shows ageing is not fixed for all life. Scientists still do not know if hydras truly never age.
 9. (draw) Design a bus stop sign that an elder with a stiff eye lens can read from the bench. Label two choices you made, and which body change each one helps with.  
    **Answer:** For example: big, dark letters on a light background, for older eyes. A picture of the bus number, so it can be read from far away. A loud sound and a flashing light when the bus comes, for ears that hear less.. *Why:* Good design fits real changes in older bodies. Big letters with strong contrast are easier for a stiff lens and older eyes.
@@ -650,10 +650,10 @@ I am still a needle. I have been held by a girl who became an old woman. Now I a
 11. (sort) Sort these claims about ageing.  
    **Answer:** Bodies go through stages in the same order → Scientists agree; Exercise helps at any age → Scientists agree; Why bodies age at all → Scientists still argue; Whether ageing can be cured → Scientists still argue; Grey hair comes from fewer pigment cells → Scientists agree; How many new brain cells old brains make → Scientists still argue. *Why:* Science is sure about many facts of ageing, but its deepest causes are still open.
 12. (mcq) Astronauts who spend six months floating in space come back with weaker bones, a little like older people's bones. In space, their legs carry no weight. What does this suggest?  
-   Options: Bones stay strong when they carry weight and are used, so walking and exercise help bones at any age / Space air is bad for bones / Astronauts get old very fast / Only age can make bones weaker  
+   Options: Space air is bad for bones / Astronauts get old very fast / Only age can make bones weaker / Bones stay strong when they carry weight and are used, so walking and exercise help bones at any age  
    **Answer:** Bones stay strong when they carry weight and are used, so walking and exercise help bones at any age. *Why:* Bones are living and are rebuilt all the time. When they carry weight, the body keeps them strong. With no weight to carry, the body takes some of their hard minerals away. So weak bones in old age are partly about less use, and walking, skipping and lifting help.
 13. (mcq) Scientists tested thousands of people. Quick puzzles were done fastest by people in their twenties. But people kept learning more words into their sixties and seventies. A company needs someone to help new workers with hard problems. Someone says, 'Hire only young people.' What does the evidence say?  
-   Options: An older worker's knowledge and experience may help more with hard problems / Only young people can solve problems / Old people know fewer words / Age makes no difference to anything  
+   Options: Only young people can solve problems / Old people know fewer words / An older worker's knowledge and experience may help more with hard problems / Age makes no difference to anything  
    **Answer:** An older worker's knowledge and experience may help more with hard problems. *Why:* Different abilities peak at different ages. Speed on quick puzzles is highest when young. Knowledge, words and experience keep growing. A strong team often needs both.
 14. (truefalse) Animals with bigger bodies always live longer than animals with smaller bodies.  
    **Answer:** False. *Why:* False. It is often true, but not always. Some bats, as small as mice, live for over 40 years, while mice live about 2. So body size is not the whole story.
@@ -667,22 +667,22 @@ I am still a needle. I have been held by a girl who became an old woman. Now I a
 
 ## Quiz
 1. (mcq) A boy is 15, and he is growing very fast. Which life stage is he in, and which stage comes next?  
-   Options: Teenager, then adult / Child, then teenager / Adult, then older adult / Baby, then child  
+   Options: Child, then teenager / Adult, then older adult / Teenager, then adult / Baby, then child  
    **Answer:** Teenager, then adult. *Why:* A person aged about 13 to 19 is a teenager, and the teenage years have a growth spurt. Next comes the adult stage, when growing taller stops.
 2. (mcq) A newborn baby's skull has soft spots, where the bones have not joined yet. Why is this useful?  
    Options: The skull can grow as the baby's brain grows / It makes the head lighter / It lets the baby hear better / It is a sign the baby is ill  
    **Answer:** The skull can grow as the baby's brain grows. *Why:* A baby's brain grows very fast. The soft spots let the skull grow with it. Later the bones join together.
 3. (mcq) A mother is 45. She has started holding her phone far away to read messages. What would help her read up close?  
-   Options: Reading glasses, which do the extra bending her stiff lens cannot do / Longer arms / A brighter phone only / Closing one eye  
+   Options: Longer arms / A brighter phone only / Reading glasses, which do the extra bending her stiff lens cannot do / Closing one eye  
    **Answer:** Reading glasses, which do the extra bending her stiff lens cannot do. *Why:* Her lens has got stiffer, so it cannot bulge enough to focus on near things. Reading glasses add the extra bending. This happens to almost everyone by their mid-forties.
 4. (mcq) A grandmother often misses what little children say. But she hears her husband's deep voice easily. Why?  
    Options: Children's voices are high, and the hair cells for high sounds wear out first / Children speak too fast / She likes her husband more / Deep voices are always louder  
    **Answer:** Children's voices are high, and the hair cells for high sounds wear out first. *Why:* Tiny hair cells deep in the ear pick up sounds. The ones for high sounds wear out first with age. So high voices get harder to hear before deep ones do.
 5. (mcq) In the snap-back skin test, you pinch the back of a hand and count how long the skin takes to go flat. To make it fair, what must stay the same for everyone?  
-   Options: The place pinched and how long it is pinched / The person's age / Nothing, it does not matter / The colour of their clothes  
+   Options: The person's age / The place pinched and how long it is pinched / Nothing, it does not matter / The colour of their clothes  
    **Answer:** The place pinched and how long it is pinched. *Why:* In a fair test you change only the thing you are testing, here the age. Everything else, like the place and time of the pinch, stays the same.
 6. (mcq) Your body makes about 4 million new cells every second. So why don't you keep getting bigger and bigger?  
-   Options: Old cells die and are cleared away while new ones are made / The new cells are invisible / New cells are made only while you sleep / You do get bigger every second, for ever  
+   Options: The new cells are invisible / New cells are made only while you sleep / Old cells die and are cleared away while new ones are made / You do get bigger every second, for ever  
    **Answer:** Old cells die and are cleared away while new ones are made. *Why:* Most new cells replace old ones that are worn out. Red blood cells last about four months, and skin cells about a month. So the body is rebuilt without growing.
 7. (mcq) A grandmother is 75. She can't run fast any more. But she finishes the newspaper word puzzle quicker than anyone in the house. What does this show?  
    Options: Some abilities slow down with age, while knowing words can keep growing / Running and puzzles are the same skill / She is not really old / Word puzzles get easier every year  
@@ -691,22 +691,22 @@ I am still a needle. I have been held by a girl who became an old woman. Now I a
    Options: Ask if they would like help, then help in the way they want / Do everything for them without asking / Laugh, so they feel better / Tell them they are too old  
    **Answer:** Ask if they would like help, then help in the way they want. *Why:* Elders are capable people. Good help starts by asking. Doing everything without asking can make someone feel they are not trusted.
 9. (mcq) A grandmother is 68. She wants to get up from a chair more easily. What is most likely to help?  
-   Options: Standing up and sitting down slowly, a few times every day, to build leg muscles / Staying sitting as much as she can, to rest her legs / Nothing can help after 60 / Only eating more sweets  
+   Options: Staying sitting as much as she can, to rest her legs / Standing up and sitting down slowly, a few times every day, to build leg muscles / Nothing can help after 60 / Only eating more sweets  
    **Answer:** Standing up and sitting down slowly, a few times every day, to build leg muscles. *Why:* Muscles grow stronger with exercise at any age. In 1990, people aged about 90 got much stronger in eight weeks. Resting all the time makes muscles shrink.
 10. (mcq) A shop sells a cream that says it 'stops ageing'. What does the evidence say?  
-   Options: No product has been shown to stop ageing in humans. Scientists still argue whether it can even be slowed. / The cream will keep you young for ever / Creams make cells stop being replaced / Scientists all agree ageing is cured  
+   Options: The cream will keep you young for ever / Creams make cells stop being replaced / No product has been shown to stop ageing in humans. Scientists still argue whether it can even be slowed. / Scientists all agree ageing is cured  
    **Answer:** No product has been shown to stop ageing in humans. Scientists still argue whether it can even be slowed.. *Why:* Scientists have made worms and mice live longer in the lab. But nothing has been shown to stop human ageing. Healthy food, sleep, exercise and friends are what the evidence supports.
 11. (mcq) Why did life expectancy in India rise from about 32 years in 1951 to about 70 today?  
-   Options: Clean water, vaccines, better food and doctors saved many babies and children / People started having more birthdays / Bodies became made of different cells / The weather got cooler  
+   Options: People started having more birthdays / Bodies became made of different cells / Clean water, vaccines, better food and doctors saved many babies and children / The weather got cooler  
    **Answer:** Clean water, vaccines, better food and doctors saved many babies and children. *Why:* Most of the change came from far fewer babies and children dying of illnesses. Picking 'more birthdays' mixes up counting years with the reasons people live longer.
 12. (mcq) What happens at the end of every life cycle?  
-   Options: The living being dies, and their atoms return to the soil, water and air / They start again as a baby the next day / They turn into a different animal / Nothing ever dies  
+   Options: They start again as a baby the next day / They turn into a different animal / The living being dies, and their atoms return to the soil, water and air / Nothing ever dies  
    **Answer:** The living being dies, and their atoms return to the soil, water and air. *Why:* Death is the last stage of every life cycle, for plants, animals and people. The atoms of the body are not lost but become part of other living beings. Families have many different beliefs about what happens after death.
 13. (mcq) Telomeres are tiny caps on the ends of the threads that hold our genes. What happens to them in many cells?  
-   Options: They get shorter each time the cell splits / They grow longer every birthday / They turn into hair / They never change  
+   Options: They grow longer every birthday / They get shorter each time the cell splits / They turn into hair / They never change  
    **Answer:** They get shorter each time the cell splits. *Why:* In many cells the caps shorten with each split. When they get too short, the cell stops splitting. Elizabeth Blackburn and Carol Greider found the substance that can rebuild them.
 14. (mcq) In some families that gather wild food, grandmothers dig up food for their grandchildren. How might this help explain why humans live long after they stop having babies?  
-   Options: Grandmothers who help feed grandchildren help more children survive / Grandmothers never get old / Only humans have grandmothers / Children do not need food from grown-ups  
+   Options: Grandmothers never get old / Grandmothers who help feed grandchildren help more children survive / Only humans have grandmothers / Children do not need food from grown-ups  
    **Answer:** Grandmothers who help feed grandchildren help more children survive. *Why:* This is called the grandmother idea: long-lived grandmothers helped more children survive, so long lives were passed on. It is debated, and other scientists suggest other reasons too.
 
 ## Applications
@@ -788,6 +788,13 @@ This Body Is a Universe (sci.body.L3): Topic-level song
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in/) · place · Bengaluru: A science museum with hands-on galleries. Check what is showing about the body and health before you go.
 
 ## Things to buy
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in How Close Can You Read?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e2. Get it before How Close Can You Read?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in How Close Can You Read?. About ₹10 to ₹30. Any school ruler is fine. Used in e2. Get it before How Close Can You Read?.
+- [Sticky notes](https://www.amazon.in/s?k=sticky+notes+pack) (material): Used in The Sticky-Note Body. About ₹20 to ₹60. Small torn paper and tape do the same job. Used in a5. Get it before The Sticky-Note Body.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Design an Elder-Friendly Room. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before Design an Elder-Friendly Room.
+- [Butter paper or tracing paper](https://www.amazon.in/s?k=butter+paper+roll) (material): Used in Socks on Your Hands: Trying Tasks Like an Elder. About ₹30 to ₹80 for a roll. Thin clean plastic bag or a sheet of waxed paper. Used in a4. Get it before Socks on Your Hands: Trying Tasks Like an Elder.
+- [Iron nails or iron filings](https://www.amazon.in/s?k=iron+filings+science) (material): Used in The Easy-Open Jar. About ₹20 to ₹80. Short steel nails from a hardware shop. Used in c2. Get it before The Easy-Open Jar.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name the five life stages in order. → Baby, child, teenager, adult, older adult.

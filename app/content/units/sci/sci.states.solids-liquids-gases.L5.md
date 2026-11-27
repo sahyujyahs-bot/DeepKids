@@ -1,9 +1,9 @@
 # Solids, liquids and gases: why a gas has mass and fills any container
 `sci.states.solids-liquids-gases.L5`
 
-**Summary.** A balloon of air seems to weigh nothing, so does air have mass at all? In this unit you will weigh two balloons on a hanger to compare gases, watch smoke fill two jars, pour air upwards to catch it, and build a plate of air from 100 grains.
+**Summary.** A balloon of air seems to weigh nothing, so does air have mass at all? In this lesson you will weigh two balloons on a hanger to compare gases, watch smoke fill two jars, pour air upwards to catch it, and build a plate of air from 100 grains.
 
-**Intro.** *A full cooking gas cylinder is 14.2 kilograms heavier than an empty one. You cannot see the gas that burns at the stove. So how can something you cannot see have so much mass?* The gas is a real substance, made of particles, just as water and steel are. Its particles are far apart and fly about freely, so we see straight through it. In the cylinder the gas is squeezed until its particles touch, and it becomes a liquid. Air is a gas too, and air has mass. A bedroom holds about 40 kilograms of it. In this unit you catch a gas, pour it, make a new one, and hang two gases on a balance. You also find out why air seems to weigh nothing at all.
+**Intro.** *A full cooking gas cylinder is 14.2 kilograms heavier than an empty one. You cannot see the gas that burns at the stove. So how can something you cannot see have so much mass?* The gas is a real substance, made of particles, just as water and steel are. Its particles are far apart and fly about freely, so we see straight through it. In the cylinder the gas is squeezed until its particles touch, and it becomes a liquid. Air is a gas too, and air has mass. A bedroom holds about 40 kilograms of it. In this lesson you catch a gas, pour it, make a new one, and hang two gases on a balance. You also find out why air seems to weigh nothing at all.
 
 ## Learning outcomes
 0. By the end I can show that a gas takes up space and has mass, using my own test results.
@@ -30,6 +30,7 @@
 - **Oxygen**: The gas that makes up about 21 of every 100 particles of air. Humans and other animals need it to get energy from food, and fires need it to burn. *e.g.* Hospitals keep oxygen squeezed into strong steel cylinders.
 - **Carbon dioxide**: A gas made when things burn, when living beings breathe out, and when vinegar meets baking soda. It is about one and a half times as heavy as air. *e.g.* The bubbles in soda water are carbon dioxide.
 - **Water vapour**: Water as a gas. It is invisible, and the amount in the air changes from day to day. *e.g.* On a humid monsoon day in Kochi, up to 4 of every 100 particles of air are water vapour.
+- **Hydrogen**: The lightest gas. It is a gas at room temperature. *e.g.* Weather balloons sent up from Chennai and Thiruvananthapuram are filled with hydrogen, the lightest gas.
 - **Atmosphere**: The layer of air around the Earth. It is thickest near the ground and thins out slowly, with no sharp top. *e.g.* Half of all the air lies below about five and a half kilometres, lower than many Himalayan peaks.
 - **Density**: How much mass is packed into a certain space. A dense gas is heavy for its size. *e.g.* Carbon dioxide is denser than air, so a balloon of it falls faster than a balloon of air.
 - **Upthrust**: The upward push of a liquid or a gas on anything inside it. The push equals the weight of the liquid or gas that the thing pushes aside. *e.g.* The upthrust of air holds up a helium balloon, as the upthrust of water holds up a boat.
@@ -41,7 +42,7 @@
 ### A gas is a substance: it takes up space and has mass · *defined*
 **Definition:** A gas is matter, just like a solid or a liquid. It is made of particles, it takes up space, and it has mass.
 
-We cannot see most gases, so they are easy to mistake for nothing. Two tests show that a gas is something. First, a gas takes up space. Push a tumbler mouth-down into water, and the air inside keeps the water out. Second, a gas has mass. One litre of air has a mass of about 1.2 grams. That is small, but air adds up. Take a bedroom 4 metres long, 3 metres wide and 3 metres high. The air in it has a mass of about 43 kilograms. When vinegar and baking soda fizz in an open tumbler, the tumbler gets lighter. The lost grams left as carbon dioxide gas. Cooking gas is even sold by mass. A home cylinder holds 14.2 kilograms of it.
+We cannot see most gases, so they are easy to mistake for nothing. Two tests show that a gas is something. First, a gas takes up space. Push a tumbler mouth-down into water, and the air inside keeps the water out. Second, a gas has mass. One litre of air has a mass of about 1.2 grams. That is small, but air adds up. Take a bedroom 4 metres long, 3 metres wide and 3 metres high. The air in it has a mass of about 43 kilograms. When vinegar and baking soda fizz in an open tumbler, the tumbler gets lighter. The lost grams left as carbon dioxide gas. Cooking gas is even sold by mass. A home cylinder holds 14.2 kilograms of it. Some substances are gases at room temperature, which is a normal warm room. Carbon dioxide, hydrogen and water vapour are three of them. Water vapour is water as a gas, and it is in the air on every humid day.
 - e.g. In Pour Air Upwards, air moved from one tumbler to another under water. It pushed the water out of the second tumbler.
 - e.g. In Weigh the Fizz, the open tumbler lost about 3 grams as the gas left. The closed bottle lost nothing until its cap was opened.
 - e.g. An auto-rickshaw driver in Bengaluru buys compressed natural gas by the kilogram.
@@ -607,9 +608,9 @@ Athai lifted the lid of the steamer, and a white cloud rolled up into the mornin
   - Check: Gas from a fizz pushed 900 ml of water out of an upturned bottle. What is the volume of the gas caught? → **About 900 ml**
 
 ## Worksheets
-### Gases Are Something (core) (core, 15 questions)
+### Gases Are Something (core) (core, 16 questions)
 1. (mcq) Which of these is a gas at room temperature?  
-   Options: Oxygen / Coconut oil / Salt / Honey  
+   Options: Coconut oil / Salt / Honey / Oxygen  
    **Answer:** Oxygen. *Why:* Oxygen is a gas: it has no shape or volume of its own. Coconut oil and honey are liquids, and salt is a solid.
 2. (truefalse) True or false: a tumbler with nothing poured into it is empty.  
    **Answer:** False. *Why:* False. The tumbler is full of air, which is a mixture of gases. A strong answer gives evidence, such as an upturned tumbler keeping water out.
@@ -617,34 +618,36 @@ Athai lifted the lid of the steamer, and a white cloud rolled up into the mornin
    **Answer:** ['container']. *Why:* A gas has no volume of its own. Its particles fly freely until walls stop them, so it fills whatever holds it.
 4. (sort) Sort these into solid, liquid or gas.  
    **Answer:** steel spoon → Solid; water vapour → Gas; petrol → Liquid; ice cube → Solid; carbon dioxide → Gas; buttermilk → Liquid; nitrogen → Gas; a grain of sugar → Solid. *Why:* Solids keep their shape. Liquids flow but keep their volume. Gases spread to fill their container. A strong answer can give the property used for each.
-5. (match) Match each word to what it means.  
+5. (fill) At room temperature, carbon dioxide, hydrogen and water vapour are all ____.  
+   **Answer:** ['gases', 'gas']. *Why:* All three are gases at room temperature, in a normal warm room. Water vapour is water as a gas.
+6. (match) Match each word to what it means.  
    **Answer:** Compress → to squash into a smaller space; Atmosphere → the layer of air around the Earth; Mixture → two or more substances together; Mass → how much matter a thing is made of; Volume → how much space a thing takes up. *Why:* These words come up all through the unit. A strong answer could give a home example of each.
-6. (write) Two balloons are the same size. The carbon dioxide balloon sinks lower on a balance than the air balloon. Explain why.  
+7. (write) Two balloons are the same size. The carbon dioxide balloon sinks lower on a balance than the air balloon. Explain why.  
    **Answer:** Both balloons held the same volume of gas. Carbon dioxide particles are heavier than the particles of air. So the same volume of carbon dioxide has more mass, and its end of the hanger went down.. *Why:* A strong answer says that the sizes were the same, so the difference must come from the gas. It also says that both gases have mass.
-7. (mcq) Baking soda is added to vinegar, and the mix fizzes. What state is the new substance in the bubbles?  
-   Options: A gas / A liquid / A solid / No new substance is made  
+8. (mcq) Baking soda is added to vinegar, and the mix fizzes. What state is the new substance in the bubbles?  
+   Options: A liquid / A solid / No new substance is made / A gas  
    **Answer:** A gas. *Why:* The bubbles are carbon dioxide, a gas made when the solid and the liquid meet. Choosing 'no new substance' treats the fizz as air that was hiding in the vinegar.
-8. (draw) Draw the particles of a solid, a liquid and a gas in three boxes of the same size.  
+9. (draw) Draw the particles of a solid, a liquid and a gas in three boxes of the same size.  
    **Answer:** Solid: many particles touching, in neat rows. Liquid: about as many particles, touching but jumbled. Gas: only one or two particles, far apart, with arrows to show them flying.. *Why:* A strong drawing keeps the particles the same size in all three boxes, and leaves the gas box almost empty.
-9. (odd) Three of these are gases in the air. Which is the odd one out?  
+10. (odd) Three of these are gases in the air. Which is the odd one out?  
    Options: Nitrogen / Oxygen / Salt / Argon  
    **Answer:** 2. *Why:* Nitrogen, oxygen and argon are the three main gases of dry air. Salt is a solid.
-10. (truefalse) True or false: a gas has mass.  
+11. (truefalse) True or false: a gas has mass.  
    **Answer:** True. *Why:* True. A fizzing mix gets lighter as its gas leaves, and a ball gets heavier when air is pumped in. A litre of air has a mass of about 1.2 grams.
-11. (order) These are the steps for making a gas and catching it in a balloon. Put them in order.  
+12. (order) These are the steps for making a gas and catching it in a balloon. Put them in order.  
    **Answer:** ['Pour vinegar into a bottle', 'Put baking soda into a flat balloon', 'Fit the balloon over the bottle mouth', 'Tip the baking soda into the vinegar', 'Tie the balloon when the fizzing stops']. *Why:* The solid and the liquid must meet only after the balloon is fitted. Otherwise the gas escapes before it can be caught.
-12. (label) Label a drawing of an upside-down tumbler pushed under water: trapped air, water inside the tumbler, water outside.  
+13. (label) Label a drawing of an upside-down tumbler pushed under water: trapped air, water inside the tumbler, water outside.  
    **Answer:** ['Trapped air at the top of the tumbler', 'Water inside the tumbler, only a little way up', 'Water outside, much higher']. *Why:* The air takes up space, so the water can rise only a little way inside the tumbler.
-13. (perspective) Two children look at a bottle with nothing poured into it. They disagree about it.  
+14. (perspective) Two children look at a bottle with nothing poured into it. They disagree about it.  
    **Answer:** A strong answer agrees that the bottle is full of air. It gives evidence from a test, such as trapped air keeping water out. It also sees that the first child uses 'empty' the everyday way. To that child, it means that nothing we put there is inside.. *Why:* In science the second child is right. But the everyday word 'empty' is useful too, and the two meanings need not fight.
-14. (mcq) About how much of the air is nitrogen?  
+15. (mcq) About how much of the air is nitrogen?  
    Options: About 78 particles in every 100 / About 21 particles in every 100 / About 1 particle in every 100 / Almost none  
    **Answer:** About 78 particles in every 100. *Why:* About 78 in 100 are nitrogen, 21 are oxygen and 1 is argon. Choosing 21 mixes nitrogen up with oxygen.
-15. (write) Name two things in your home that hold a gas. Say what each gas is used for.  
+16. (write) Name two things in your home that hold a gas. Say what each gas is used for.  
    **Answer:** For example: a cooking gas cylinder holds LPG, which burns to cook food. A cycle tyre holds compressed air, which makes the ride soft. A packet of chips holds nitrogen, which keeps the chips crisp.. *Why:* A strong answer names a real container, the gas inside it and what the gas does.
 ### Why Gases Behave As They Do (stretch) (stretch, 15 questions)
 1. (mcq) Why does a gas spread out to fill a whole room?  
-   Options: Its particles fly freely in all directions / Its particles grow bigger / The walls pull the gas towards them / Air pushes it into the corners  
+   Options: Its particles grow bigger / The walls pull the gas towards them / Its particles fly freely in all directions / Air pushes it into the corners  
    **Answer:** Its particles fly freely in all directions. *Why:* Gas particles are not held together. Each flies until it hits something, so in time they are spread through all the space. The particles do not grow, and nothing pulls or pushes them into place.
 2. (write) A capped bottle of air squeezes in. A capped bottle full of water does not. Explain why, using particles.  
    **Answer:** In air the particles are far apart, with empty space between them, so squeezing pushes them closer. In water the particles already touch, so they have nowhere to go.. *Why:* A strong answer talks about the empty space between gas particles, not about the particles being soft or small.
@@ -659,7 +662,7 @@ Athai lifted the lid of the steamer, and a white cloud rolled up into the mornin
 7. (perspective) A family wants a gas-leak alarm in the kitchen. Two fitters give opposite advice.  
    **Answer:** A strong answer says both can be right, because it depends on the gas. Cooking gas from a cylinder is heavier than air and collects low down. Piped natural gas is lighter than air and collects high up. So the family must first find out which gas they use.. *Why:* Different gases have different densities, so no single rule fits every gas.
 8. (mcq) A balloon of air hangs from a balance in a room. Why does the air inside add almost nothing?  
-   Options: The air around the balloon holds it up / Air has no mass / The rubber is too thin to hold mass / The air inside has leaked out  
+   Options: Air has no mass / The rubber is too thin to hold mass / The air inside has leaked out / The air around the balloon holds it up  
    **Answer:** The air around the balloon holds it up. *Why:* The air inside has mass, but the air outside pushes the balloon up by nearly the same amount. Choosing 'air has no mass' forgets that a pumped ball gets heavier.
 9. (order) Put these in order, from particles closest together to particles farthest apart.  
    **Answer:** ['Water in a tumbler', 'Air pumped into a cycle tyre', 'Air in a room', 'Air at the top of Mount Everest']. *Why:* Liquid particles touch. Tyre air is compressed, so its particles are closer than in room air. High on a mountain the air is thin, so its particles are farthest apart.
@@ -694,7 +697,7 @@ Athai lifted the lid of the steamer, and a white cloud rolled up into the mornin
 7. (sort) Sort these: is it only a gas, or tiny solids and liquids floating in a gas?  
    **Answer:** oxygen → Only a gas; smoke → Bits floating in a gas; fog → Bits floating in a gas; nitrogen → Only a gas; dust haze → Bits floating in a gas; water vapour → Only a gas; carbon dioxide → Only a gas; mist from a spray bottle → Bits floating in a gas. *Why:* Oxygen, nitrogen, water vapour and carbon dioxide are gases, and all are invisible. Smoke, fog, haze and spray can be seen because they hold tiny solid or liquid bits.
 8. (mcq) A sticky square by the road catches 40 specks. One in a bedroom catches 5. What is the fairest conclusion?  
-   Options: More dust floats in air by the road / The bedroom air has no dust at all / Road air holds 40 kinds of gas / The bedroom square was not sticky  
+   Options: The bedroom air has no dust at all / Road air holds 40 kinds of gas / More dust floats in air by the road / The bedroom square was not sticky  
    **Answer:** More dust floats in air by the road. *Why:* The squares compare the dust that floats past. Five specks is still some dust, and the smallest bits do not show at all.
 9. (order) A litre of each is weighed. Put them in order, from the smallest mass to the largest.  
    **Answer:** ['Hydrogen', 'Helium', 'Air', 'Carbon dioxide', 'Water']. *Why:* Hydrogen has the lightest particles, then helium. Air is heavier, and carbon dioxide heavier still. Water is a liquid, with its particles touching, so a litre of it has a mass of a whole kilogram.
@@ -705,7 +708,7 @@ Athai lifted the lid of the steamer, and a white cloud rolled up into the mornin
 12. (label) Label a pie chart of dry air with three slices: nitrogen, oxygen, and argon with other gases.  
    **Answer:** ['Largest slice: nitrogen, about 78 in 100', 'Smaller slice: oxygen, about 21 in 100', 'Thin sliver: argon and other gases, about 1 in 100']. *Why:* Nitrogen is nearly four-fifths of the air and oxygen about one-fifth.
 13. (mcq) Why is the mix of gases in air almost the same in Chennai and in Shimla?  
-   Options: Winds stir the air, and gases mix / Each city makes its own air / The heavy gases all stay in Chennai / Mountain air has no nitrogen  
+   Options: Each city makes its own air / The heavy gases all stay in Chennai / Mountain air has no nitrogen / Winds stir the air, and gases mix  
    **Answer:** Winds stir the air, and gases mix. *Why:* Gases spread to fill the space they reach, and winds mix the whole atmosphere. Shimla has less air in each breath than Chennai, but the same mix.
 14. (odd) Three of these lower air pollution. Which one adds to it?  
    Options: Many people sharing one bus / Burning dry leaves in a heap / Covering a building site / Cooking on gas, not smoky wood  
@@ -720,40 +723,43 @@ Athai lifted the lid of the steamer, and a white cloud rolled up into the mornin
 
 ## Quiz
 1. (mcq) A tumbler is pushed mouth-down into water, and the inside stays mostly dry. Why?  
-   Options: The air inside takes up the space / Glass pushes water away / The water is too heavy to rise / The tumbler is too small  
+   Options: Glass pushes water away / The water is too heavy to rise / The air inside takes up the space / The tumbler is too small  
    **Answer:** The air inside takes up the space. *Why:* Air is a substance that takes up space, so the water has no room to rise. The glass and the size of the tumbler make no difference.
 2. (mcq) Which test best shows that a gas has mass?  
-   Options: A fizzing mix gets lighter as gas leaves / A balloon feels smooth / Smoke looks grey / Wind moves the leaves  
+   Options: A balloon feels smooth / Smoke looks grey / A fizzing mix gets lighter as gas leaves / Wind moves the leaves  
    **Answer:** A fizzing mix gets lighter as gas leaves. *Why:* If mass leaves the scale when only gas leaves, the gas must have mass. Wind shows that air can push, but not that it has mass.
 3. (mcq) Perfume is opened in one corner of a closed room. An hour later, where is the smell?  
-   Options: Everywhere in the room / Only in that corner / Only near the floor / Only near the ceiling  
+   Options: Only in that corner / Only near the floor / Only near the ceiling / Everywhere in the room  
    **Answer:** Everywhere in the room. *Why:* The particles of a gas keep moving until they are spread through all the space they can reach.
 4. (mcq) In which state are the particles far apart and flying freely in all directions?  
-   Options: Gas / Liquid / Solid / All three states  
+   Options: Liquid / Solid / Gas / All three states  
    **Answer:** Gas. *Why:* In a solid and a liquid the particles touch. Only in a gas are they far apart and free.
 5. (mcq) Which property do liquids and gases share, but solids do not have?  
    Options: They flow and take their container's shape / They keep one fixed shape / They can be squashed easily / They have no mass  
    **Answer:** They flow and take their container's shape. *Why:* Liquids and gases both flow. Only gases can be squashed easily, and all three states have mass.
 6. (mcq) A litre of milk is poured from a jug into a wide pan. What stays the same?  
-   Options: Its volume / Its shape / Its height in the vessel / Nothing stays the same  
+   Options: Its shape / Its volume / Its height in the vessel / Nothing stays the same  
    **Answer:** Its volume. *Why:* A liquid takes the shape of its container but keeps its volume. A litre is still a litre in any vessel.
 7. (mcq) Which gas makes up about one-fifth of the air, and is the gas our bodies use?  
-   Options: Oxygen / Nitrogen / Carbon dioxide / Argon  
+   Options: Nitrogen / Carbon dioxide / Argon / Oxygen  
    **Answer:** Oxygen. *Why:* About 21 in every 100 particles of air are oxygen. Nitrogen is nearly four-fifths, but our bodies breathe it in and out unchanged.
-8. (mcq) Vinegar is a liquid and baking soda is a solid. They fizz together. What is made?  
+8. (mcq) Water is in the air on a humid day, but you cannot see it. What state is this water in?  
+   Options: A gas, called water vapour / A solid, called frost / A liquid, in tiny drops you can see  
+   **Answer:** A gas, called water vapour. *Why:* Water vapour is water as a gas, and it is invisible. The tiny drops you can see in fog or a cloud are liquid water, not vapour. Frost is solid water.
+9. (mcq) Vinegar is a liquid and baking soda is a solid. They fizz together. What is made?  
    Options: A new gas, carbon dioxide / More vinegar / Only a new solid / Nothing new  
    **Answer:** A new gas, carbon dioxide. *Why:* The fizz is bubbles of carbon dioxide, a new substance in a third state. Choosing 'nothing new' treats the bubbles as air that was already there.
-9. (mcq) Two balloons are the same size. One holds carbon dioxide and one holds air. Why is the first heavier?  
-   Options: Its particles are heavier, and just as many / It holds a liquid / It is colder / It was blown up harder  
+10. (mcq) Two balloons are the same size. One holds carbon dioxide and one holds air. Why is the first heavier?  
+   Options: It holds a liquid / Its particles are heavier, and just as many / It is colder / It was blown up harder  
    **Answer:** Its particles are heavier, and just as many. *Why:* The same space holds about the same number of gas particles. Carbon dioxide particles have about one and a half times the mass of air particles.
-10. (mcq) A bag of water feels almost weightless while it is under water. What is the same idea for air?  
+11. (mcq) A bag of water feels almost weightless while it is under water. What is the same idea for air?  
    Options: A balloon of air seems weightless in air / Air has no mass / Water has no mass / Bags always float  
    **Answer:** A balloon of air seems weightless in air. *Why:* The water around the bag holds it up. The air around a balloon of air holds it up in the same way. Both the water and the air have mass.
-11. (mcq) What is PM2.5?  
-   Options: Tiny solid and liquid bits floating in air / A gas that plants make / A kind of oxygen / The name of a weather app  
+12. (mcq) What is PM2.5?  
+   Options: A gas that plants make / A kind of oxygen / The name of a weather app / Tiny solid and liquid bits floating in air  
    **Answer:** Tiny solid and liquid bits floating in air. *Why:* PM2.5 is not a gas. It is bits smaller than 2.5 thousandths of a millimetre, small enough to reach deep into the lungs.
-12. (mcq) Two balloons of different gases are compared, but one balloon is bigger. Why is the test not fair?  
-   Options: Two things differ, so the cause is unclear / Bigger balloons always win / A fair test needs three balloons / The balloons must be the same colour  
+13. (mcq) Two balloons of different gases are compared, but one balloon is bigger. Why is the test not fair?  
+   Options: Bigger balloons always win / Two things differ, so the cause is unclear / A fair test needs three balloons / The balloons must be the same colour  
    **Answer:** Two things differ, so the cause is unclear. *Why:* In a fair test only one thing changes. If the gas and the size both differ, either could explain the result.
 
 ## Applications
@@ -819,13 +825,27 @@ Particles on the Move (sci.states.L5): Topic-level song
 - [States of Matter: Basics (PhET, University of Colorado)](https://phet.colorado.edu/en/simulations/states-of-matter-basics) · simulation: Heat and cool a box of particles and watch them change between solid, liquid and gas.
 - [Gas Properties (PhET, University of Colorado)](https://phet.colorado.edu/en/simulations/gas-properties) · simulation: Pump heavy and light particles into a box, squash the box and watch the particles fill it.
 - [National Air Quality Index (Central Pollution Control Board)](https://airquality.cpcb.gov.in/) · interactive: For the parent: today's AQI for cities across India, and which pollutant is highest.
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: A science museum with interactive exhibits and galleries.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru: A science museum with interactive exhibits and galleries.
 - [Birla Industrial and Technological Museum](https://bitm.gov.in/) · place · Kolkata: A science museum with interactive galleries and live science shows.
 
 ## Things to buy
 - [A packet of round balloons](https://www.amazon.in/s?k=round+balloons+pack) (material): For Two Balloons on a Hanger. Any stationery shop sells them. Balloons from one packet are nearly the same mass. Used in e1. 
 - [A digital kitchen scale that shows single grams](https://www.amazon.in/s?k=digital+kitchen+scale) (tool): For Weigh the Fizz. Borrow one if you can. Without it, skip that experiment: the rest of the unit does not need it. Used in e2. 
 - [One metre of clear flexible tube, such as aquarium air tube](https://www.amazon.in/s?k=aquarium+air+tube) (material): For How Much Gas Is One Breath? and Catch the Gas and Measure It. Hardware and aquarium shops sell it. Two bendy straws joined with tape also work for the breath test. Used in a3, c2. 
+- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): Used in Five Sticky Squares: where is the air around our home dustiest?. About ₹30 to ₹120. A water drop on clear plastic magnifies a little. Used in p1. Get it before Five Sticky Squares: where is the air around our home dustiest?.
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in Still Air or Fan: what carries a smell across a room?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e3. Get it before Still Air or Fan: what carries a smell across a room?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Two Balloons on a Hanger: is one gas heavier than another?, Coins on the Floor: how far apart are the particles of a gas?, Five Sticky Squares: where is the air around our home dustiest?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a5, p1. Get it before Two Balloons on a Hanger: is one gas heavier than another?.
+- [A small funnel](https://www.amazon.in/s?k=small+plastic+funnel) (tool): Used in Two Balloons on a Hanger: is one gas heavier than another?. About ₹20 to ₹50. The top of a cut plastic bottle works. Used in e1. Get it before Two Balloons on a Hanger: is one gas heavier than another?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Catch the Gas and Measure It. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in c2. Get it before Catch the Gas and Measure It.
+- [Baking soda](https://www.amazon.in/s?k=baking+soda) (material): Used in Two Balloons on a Hanger: is one gas heavier than another?, Weigh the Fizz: does the gas that leaves have mass? (if you have a kitchen scale), Catch the Gas and Measure It. About ₹20 to ₹40. Check the kitchen first. Used in e1, e2, c2. Get it before Two Balloons on a Hanger: is one gas heavier than another?.
+- [Vinegar](https://www.amazon.in/s?k=white+vinegar) (material): Used in Two Balloons on a Hanger: is one gas heavier than another?, Weigh the Fizz: does the gas that leaves have mass? (if you have a kitchen scale), Catch the Gas and Measure It. About ₹40 to ₹80. Lemon juice works for many tests. Used in e1, e2, c2. Get it before Two Balloons on a Hanger: is one gas heavier than another?.
+- [Clean sand (a small bag)](https://www.amazon.in/s?k=play+sand+small+bag) (material): Used in The Compare Table: a solid, a liquid and a gas, tested side by side. About ₹20 to ₹60. Fine soil sieved from a pot works. Used in a7. Get it before The Compare Table: a solid, a liquid and a gas, tested side by side.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in 100 Grains of Air: build the mixture on a plate. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a4. Get it before 100 Grains of Air: build the mixture on a plate.
+- [A measuring jug or syringe (marked in millilitres)](https://www.amazon.in/s?k=measuring+jug+500+ml) (tool): Used in How Much Gas Is One Breath?. About ₹30 to ₹100. A clean medicine cup or marked bottle works. Used in a3. Get it before How Much Gas Is One Breath?.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Weigh the Fizz: does the gas that leaves have mass? (if you have a kitchen scale), A Mask That Stops Dust and Still Lets You Breathe, Catch the Gas and Measure It. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e2, c1, c2. Get it before Weigh the Fizz: does the gas that leaves have mass? (if you have a kitchen scale).
+- [Postcards or plain cards](https://www.amazon.in/s?k=blank+postcards) (material): Used in Smoke in Two Jars: does a gas fill the space it is given?. About ₹5 to ₹20. Cut card from a cereal box. Used in a2. Get it before Smoke in Two Jars: does a gas fill the space it is given?.
+- [Iron nails or iron filings](https://www.amazon.in/s?k=iron+filings+science) (material): Used in Two Balloons on a Hanger: is one gas heavier than another?. About ₹20 to ₹80. Short steel nails from a hardware shop. Used in e1. Get it before Two Balloons on a Hanger: is one gas heavier than another?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name the three states of matter. → Solid, liquid and gas.

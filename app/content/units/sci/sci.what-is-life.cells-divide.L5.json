@@ -614,11 +614,11 @@
       "t": "mcq",
       "q": "A skin cell has DNA damage that cannot be repaired. What is the safest thing for the body?",
       "options": [
-       "She divides quickly to replace herself",
        "She dies by plan",
+       "She divides quickly to replace herself",
        "She turns into a stem cell"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A cell with broken instructions could pass the damage to her daughters and start a cancer. So she takes herself apart. Choosing 'divides quickly' usually comes from thinking that more cells are always good. Here dividing would spread the damage."
      },
      "parent": "The 'die by plan' heap has eight cards and the mitosis heap has seven. Ask your child to look at the eight together. Each one is shaping, choosing or safety.",
@@ -857,10 +857,10 @@
       "q": "In the Pudina Pieces Test, a bare piece of stem with a node grew roots. A leaf alone did not. What does this show?",
       "options": [
        "Roots need leaves to make food for them",
-       "Cells that can make new roots are at the node",
-       "Every part of a stem can make roots"
+       "Every part of a stem can make roots",
+       "Cells that can make new roots are at the node"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The bare node had no leaves and still grew roots. The leaf had no node and grew none. So the cells that can start dividing again are at the node. Choosing 'leaves' is a sensible first idea, because leaves make food. But the bare node shows that stored food was enough to start."
      },
      "context": "This is the last step of the Pudina Pieces Test. Here you make the last count and explain the result."
@@ -1058,11 +1058,11 @@
       "t": "mcq",
       "q": "In the Shuffle Test, each extra pair of chromosomes changed the number of possible egg cells. How?",
       "options": [
-       "It added 2 more",
        "It doubled the number",
+       "It added 2 more",
        "It did not change the number"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Every result so far can be followed by M or by F for the new pair, so the number doubles. Three pairs give 8, four give 16, and 23 give 8,388,608. Choosing 'added 2' fits the step from one pair to two, but it does not fit the step from two pairs to three."
      },
      "context": "This is the last step of the Shuffle Test. Here you add a fourth pair and carry the pattern on to a human's 23 pairs."
@@ -1257,10 +1257,10 @@
       "q": "A pea plant has 14 chromosomes, in 7 matching pairs. Which chromosomes does a pea egg cell get?",
       "options": [
        "Any 7 of the 14",
-       "One from each of the 7 pairs",
-       "All 14"
+       "All 14",
+       "One from each of the 7 pairs"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The egg cell needs one of each kind, so she gets one chromosome from each pair. 'Any 7' gives the right number but could leave a kind out. 'All 14' would double the number in every generation."
      },
      "context": "This is the last step of Double Trouble. Here you design a way to halve the chromosomes without losing any kind."
@@ -1582,11 +1582,11 @@
       "t": "mcq",
       "q": "A potato piece with an 'eye' sprouts, and a piece with plain skin does not. Why?",
       "options": [
-       "The eye is a bud with cells that still divide",
        "The plain piece had less water",
+       "The eye is a bud with cells that still divide",
        "Potato skin stops growth"
       ],
-      "a": 0,
+      "a": 1,
       "why": "An eye is a bud, and a bud holds cells that can still divide. The plain piece is storage cells only. Both pieces had the same water, and both had skin, so those cannot be the reason."
      },
      "context": "This is the last day of Kitchen Regrowers. Here you compare the pieces and say where the dividing cells were."
@@ -1802,12 +1802,12 @@
      "t": "mcq",
      "p": "What can a stem cell do that a red blood cell cannot?",
      "opts": [
-      "Divide and make other kinds of cell",
       "Carry oxygen",
       "Travel in the blood",
-      "Use food for energy"
+      "Use food for energy",
+      "Divide and make other kinds of cell"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A stem cell can divide, and her daughters can specialise. A red blood cell is fully specialised and never divides. Carrying oxygen is the red cell's own job.",
      "outcome": 2
     },
@@ -1822,12 +1822,12 @@
      "t": "mcq",
      "p": "How did your fingers become separate before you were born?",
      "opts": [
-      "The cells between them died by plan",
       "The skin between them tore",
       "Each finger was added one by one",
+      "The cells between them died by plan",
       "The bones cut through the skin"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The hand begins as a paddle. The cells between the finger bones die by plan and are cleared away. Nothing tears, and nothing is hurt.",
      "outcome": 3
     },
@@ -1871,12 +1871,12 @@
      "t": "mcq",
      "p": "Why does the Pudina Pieces Test use five pieces of each kind, and not one?",
      "opts": [
-      "One piece could fail by bad luck",
       "Five pieces grow faster together",
+      "One piece could fail by bad luck",
       "Pudina needs company",
       "To use up the bunch"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A single piece can rot or dry out for reasons that have nothing to do with nodes. If four or five of a kind do the same thing, the result can be trusted.",
      "how": "e1",
      "outcome": 4
@@ -1909,12 +1909,12 @@
      "t": "mcq",
      "p": "Why do matching chromosomes line up as partners in meiosis?",
      "opts": [
-      "So each new cell gets one of every pair",
       "To make the cell bigger",
       "So the DNA is copied again",
-      "To save energy"
+      "To save energy",
+      "So each new cell gets one of every pair"
      ],
-     "a": 0,
+     "a": 3,
      "why": "When partners line up together and then separate, each side gets one of every pair. Without the pairing, a cell could get two of one kind and none of another.",
      "outcome": 1
     },
@@ -2071,12 +2071,12 @@
      "t": "mcq",
      "p": "Which of these is one cause of cancer?",
      "opts": [
-      "Damaged cells that fail to die",
       "Too many red blood cells",
       "Too much planned cell death",
+      "Damaged cells that fail to die",
       "Cells that specialise"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A cell with damaged instructions normally takes herself apart. If she does not, and keeps dividing, a cancer can start. Too much planned death causes other problems, not cancer.",
      "outcome": 3
     },
@@ -2097,12 +2097,12 @@
      "t": "mcq",
      "p": "A pudina piece cut from between two nodes grows one root. What should you check first?",
      "opts": [
-      "Whether a node is hidden at one end",
       "Whether the water was too cold",
       "Whether the piece was green enough",
+      "Whether a node is hidden at one end",
       "Nothing, because results never matter"
      ],
-     "a": 0,
+     "a": 2,
      "why": "An odd result deserves a second look before you change your idea. A node at the very end of the piece is the most likely cause.",
      "how": "e1",
      "outcome": 4
@@ -2119,12 +2119,12 @@
      "t": "mcq",
      "p": "A woman of 30 releases an egg cell. When did that egg cell begin meiosis?",
      "opts": [
-      "Before the woman was born",
       "When she was 12",
       "One month ago",
+      "Before the woman was born",
       "Yesterday"
      ],
-     "a": 0,
+     "a": 2,
      "why": "All of a girl's egg cells begin meiosis before she is born and then pause. This one waited for more than 30 years.",
      "outcome": 1
     },
@@ -2260,12 +2260,12 @@
      "t": "mcq",
      "p": "Why is a gecko's regrown tail called a repair and not a copy?",
      "opts": [
-      "It has a cartilage rod, not new bones",
       "It is a different animal's tail",
+      "It has a cartilage rod, not new bones",
       "It cannot move at all",
       "It is made of plant cells"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The first tail has a row of small bones. The new tail has a single rod of cartilage, the bendy material in your ear. It works, but it is not the same as the first.",
      "outcome": 2
     },
@@ -2275,10 +2275,10 @@
      "opts": [
       "23",
       "46",
-      "About 8 million",
-      "About 100"
+      "About 100",
+      "About 8 million"
      ],
-     "a": 2,
+     "a": 3,
      "why": "Each pair doubles the number, and doubling 23 times gives 8,388,608. Answering 46 comes from adding 2 for each pair, when each pair doubles it.",
      "how": "e2",
      "outcome": 5
@@ -2287,12 +2287,12 @@
      "t": "mcq",
      "p": "Old yeast cells sometimes die in a tidy, programmed way. Why do they do it?",
      "opts": [
-      "Scientists disagree about why",
       "It is proved to feed the colony",
       "It never really happens",
+      "Scientists disagree about why",
       "Yeast cells are not alive"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Some biologists say the death helps the yeast cell's sisters. Others say it may be a side effect of other machinery. The question is still open.",
      "outcome": 6
     }
@@ -2356,12 +2356,12 @@
    "t": "mcq",
    "p": "Which cells can become every kind of cell in the body?",
    "opts": [
-    "Stem cells of an embryo a few days old",
     "Blood stem cells",
     "Skin stem cells",
+    "Stem cells of an embryo a few days old",
     "Red blood cells"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Only the stem cells of a very young embryo can make every kind. Blood and skin stem cells make only their own tissue, and red blood cells do not divide at all.",
    "outcome": 2
   },
@@ -2376,12 +2376,12 @@
    "t": "mcq",
    "p": "Which of these is planned cell death?",
    "opts": [
-    "A tadpole's tail shrinking",
     "Skin burnt by a hot pan",
+    "A tadpole's tail shrinking",
     "A crushed fingertip",
     "A frozen toe"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The tail cells die on a signal and are reused. Burning, crushing and freezing kill cells by injury, which is necrosis.",
    "outcome": 3
   },
@@ -2402,12 +2402,12 @@
    "t": "mcq",
    "p": "Roots grew at the node of a pudina piece and not between nodes. What is at the node?",
    "opts": [
-    "Cells that can start dividing again",
     "More water",
     "Only dead cells",
-    "The oldest cells"
+    "The oldest cells",
+    "Cells that can start dividing again"
    ],
-   "a": 0,
+   "a": 3,
    "why": "A node holds a bud and cells that can go back to dividing. The stem between the nodes is finished, and makes no new parts.",
    "how": "e1",
    "outcome": 4
@@ -2430,12 +2430,12 @@
    "t": "mcq",
    "p": "Why do most animals have two parents, when copying looks simpler?",
    "opts": [
-    "There is a leading idea, still debated",
     "It is fully proved",
+    "There is a leading idea, still debated",
     "Nobody has studied it",
     "Copying is impossible for animals"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The leading idea is that shuffled children are harder for germs to beat. But some animals copy themselves very well, so scientists still debate it.",
    "outcome": 6
   }
@@ -2760,6 +2760,53 @@
     "a4",
     "p1"
    ]
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Pudina Pieces Test: which piece of a stem can grow roots?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before The Pudina Pieces Test: which piece of a stem can grow roots?."
+  },
+  {
+   "id": "b-modelling-clay-or-plasticine",
+   "item": "Modelling clay or plasticine",
+   "kind": "material",
+   "why": "Used in Paddle to Hand: how do you get fingers out of a paddle?. About ₹40 to ₹120. Atta dough mixed with a little salt works.",
+   "url": "https://www.amazon.in/s?k=modelling+clay+plasticine",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Get it before Paddle to Hand: how do you get fingers out of a paddle?."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in Double Trouble: what happens if nobody halves the chromosomes?. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Get it before Double Trouble: what happens if nobody halves the chromosomes?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

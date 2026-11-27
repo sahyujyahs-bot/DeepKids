@@ -1,9 +1,9 @@
 # The digestive system: what teeth, enzymes and gut microbes each do to your food
 `sci.body.digestion.L5`
 
-**Summary.** A little saliva turns thick starch paste runny in ten minutes, but it does nothing to a thick gel of isabgol. Why? In this unit you will race four pastes down a tilted plate to find what stops saliva working, time how fast your mouth makes saliva, and test whether chewing helps.
+**Summary.** A little saliva turns thick starch paste runny in ten minutes, but it does nothing to a thick gel of isabgol. Why? In this lesson you will race four pastes down a tilted plate to find what stops saliva working, time how fast your mouth makes saliva, and test whether chewing helps.
 
-**Intro.** *A cow lives on grass. If you ate only grass, you would starve. You and the cow both have teeth, a stomach and intestines. So what does the cow have that you do not have?* Grass is mostly fibre, and no enzyme made by a cow or a human can cut fibre. An enzyme is a substance made by living cells that cuts one kind of food molecule. The cow keeps a huge store of microbes in her stomach, and the microbes cut the fibre. You keep microbes too, in your large intestine, but far fewer than she does. In this unit you find what each part of your digestive system does to food. You find out why a crushed lump dissolves faster than a whole one, and what that means for chewing. You test what stops the enzyme in your saliva. You find a food that your saliva cannot change at all.
+**Intro.** *A cow lives on grass. If you ate only grass, you would starve. You and the cow both have teeth, a stomach and intestines. So what does the cow have that you do not have?* Grass is mostly fibre, and no enzyme made by a cow or a human can cut fibre. An enzyme is a substance made by living cells that cuts one kind of food molecule. The cow keeps a huge store of microbes in her stomach, and the microbes cut the fibre. You keep microbes too, in your large intestine, but far fewer than she does. In this lesson you find what each part of your digestive system does to food. You find out why a crushed lump dissolves faster than a whole one, and what that means for chewing. You test what stops the enzyme in your saliva. You find a food that your saliva cannot change at all.
 
 ## Learning outcomes
 0. I can name the organs of the digestive system in order, and say the job of each.
@@ -23,12 +23,14 @@
 - **Enamel**: The white outer layer of a tooth. Enamel is the hardest substance in the body, and it has no living cells. *e.g.* A chip in the enamel never heals, because no cells are there to mend it.
 - **Dentine and pulp**: The two inner layers of a tooth. Dentine is the hard yellowish layer under the enamel. The pulp is the soft centre, with nerves and blood vessels. *e.g.* A tooth hurts when decay reaches the dentine, because the dentine passes signals to nerves in the pulp.
 - **Saliva**: The watery juice made by three pairs of glands around the mouth. Saliva wets food, protects teeth and starts to digest starch. *e.g.* Your mouth makes about 1 litre of saliva every day.
+- **Epiglottis**: A small flap at the back of the throat that folds down over the windpipe when you swallow. *e.g.* The epiglottis keeps food out of the windpipe, unless you laugh while you swallow.
 - **Enzyme**: A substance made by living cells that speeds up one kind of chemical change. A digestive enzyme cuts one kind of food molecule into smaller pieces. *e.g.* The enzyme in saliva cuts starch. It does nothing to protein, fat or fibre.
 - **Amylase**: The enzyme that cuts starch into sugar. Saliva holds amylase, and so does the juice of the pancreas. *e.g.* Amylase in your saliva turns thick starch paste runny in the Run Test.
 - **Starch**: A long chain of sugar units that plants make to store food. Rice, wheat, ragi and potato are rich in starch. *e.g.* One starch molecule can hold thousands of sugar units joined in a row.
 - **Gastric juice**: The juice made by the stomach wall. Gastric juice holds hydrochloric acid and an enzyme called pepsin. *e.g.* A grown-up's stomach makes about 1.5 litres of gastric juice a day.
 - **Pepsin**: The enzyme in gastric juice that starts to cut proteins. Pepsin works only in acid. *e.g.* Pepsin starts to cut the protein in dal, egg and paneer into shorter chains.
 - **Bile**: A yellow-green liquid made by the liver and stored in the gall bladder. Bile breaks fat into tiny droplets. Bile is not an enzyme. *e.g.* Bile breaks up the ghee on your rice so that an enzyme can reach the fat.
+- **Gland**: An organ that makes a juice for the body to use. *e.g.* The liver is the biggest gland in the body. It makes bile.
 - **Pancreatic juice**: The juice made by the pancreas. It holds enzymes for starch, protein and fat, and a base that cancels stomach acid. *e.g.* Pancreatic juice finishes cutting the starch that saliva began to cut.
 - **Villi**: Tiny finger-shaped bumps that cover the inside of the small intestine. Digested food passes through them into the blood. One of them is called a villus. *e.g.* Each villus is up to about 1 millimetre tall and has fine blood vessels inside.
 - **Absorption**: The passing of digested food and water through the wall of the intestine into the blood. *e.g.* Sugar from your rice is absorbed in the small intestine and reaches your muscles in the blood.
@@ -36,6 +38,7 @@
 - **Gut microbes**: The bacteria and other tiny living beings who live in the food tube. Most of them live in the large intestine. *e.g.* A grown-up carries tens of trillions of gut microbes, weighing about 200 grams together.
 - **Fermentation**: The way microbes break down food without using oxygen. Fermentation makes acids and gases. *e.g.* Bacteria in your large intestine ferment fibre. Bacteria in a pot of milk ferment milk sugar and make curd.
 - **Lactose and lactase**: Lactose is the sugar in milk. Lactase is the enzyme in the small intestine that cuts lactose in two. *e.g.* A baby makes plenty of lactase. Most grown-ups in the world make much less.
+- **Indigestion**: A heavy, sore or burning feeling in the belly after a meal. *e.g.* Eating very fast or eating food that has turned bad can give indigestion.
 - **Control**: The part of a fair test where the thing you are testing is left out. You compare everything else with the control. *e.g.* In the Run Test, the cup with water and no saliva is the control.
 
 ## Explanations
@@ -50,10 +53,11 @@ Food is made of molecules, which are particles far too small to see. Many food m
 ### Teeth: four kinds, two sets and three layers · *defined*
 **Definition:** Teeth are the hard tools of the mouth. Each kind of tooth has a shape that fits one job: cutting, tearing or grinding.
 
-A grown-up has 32 teeth. Count one quarter of the mouth, from the middle to the back. There are 2 incisors, 1 canine, 2 premolars and 3 molars. Incisors cut. Canines grip and tear. Premolars and molars crush and grind. A small child has only 20 milk teeth, with no premolars. From about the age of six, milk teeth fall out and permanent teeth replace them. At six, the first permanent molars also come in behind the milk teeth. A child of ten usually has about 24 teeth, some milk and some permanent. The last four molars are called wisdom teeth. They usually come in during the late teens or early twenties, and in some people they never come. A tooth has three layers. The enamel on the outside is the hardest substance in the body. Under it is dentine, which is hard but living. In the centre is the pulp, with nerves and blood vessels. The root holds the tooth in the jaw bone. Enamel has no cells, so the body cannot mend it. Acid made by mouth bacteria from sugar slowly dissolves enamel. Chewing matters for digestion because small pieces give enzymes far more surface to work on.
+A grown-up has 32 teeth. Count one quarter of the mouth, from the middle to the back. There are 2 incisors, 1 canine, 2 premolars and 3 molars. Incisors cut. Canines grip and tear. Premolars and molars crush and grind. A small child has only 20 milk teeth, with no premolars. From about the age of six, milk teeth fall out and permanent teeth replace them. At six, the first permanent molars also come in behind the milk teeth. A child of ten usually has about 24 teeth, some milk and some permanent. The last four molars are called wisdom teeth. They usually come in during the late teens or early twenties, and in some people they never come. A tooth has three layers. The enamel on the outside is the hardest substance in the body. Under it is dentine, which is hard but living. In the centre is the pulp, with nerves and blood vessels. The root holds the tooth in the jaw bone. Enamel has no cells, so the body cannot mend it. Acid made by mouth bacteria from sugar slowly dissolves enamel. Chewing matters for digestion because small pieces give enzymes far more surface to work on. You can protect your enamel. Brush twice a day. Rinse your mouth with water after meals, and eat fewer sweets, because sugar is the food of the bacteria that make the acid. See a dentist if a tooth hurts, if gums bleed, or if you see a dark spot or a hole. A dentist can also find trouble before it hurts. Chew small mouthfuls, and do not talk or laugh with food in your mouth. At the back of the throat, the food pipe lies behind the windpipe, the tube that carries air to the lungs. When you swallow, a small flap called the epiglottis folds down over the top of the windpipe. Talking or laughing keeps the windpipe open, so a bit of food can slip in and make you cough. A cough pushes it back out. If a person cannot cough or breathe, call a grown-up at once.
 - e.g. One quarter of a grown-up's mouth: 2 incisors, 1 canine, 2 premolars, 3 molars. Four quarters make 32.
 - e.g. One quarter of a small child's mouth: 2 incisors, 1 canine, 2 molars. Four quarters make 20.
 - e.g. A cow has no upper front teeth. A tiger's canines are as long as your finger.
+- e.g. Sticky sweets that stay on the teeth are worse than a sweet that is gone quickly. Rinsing with water after a sweet helps to wash the sugar away.
 ### Saliva: much more than water · *defined*
 **Definition:** Saliva is the juice of the mouth. It wets food, starts to digest starch and protects the teeth.
 
@@ -87,7 +91,7 @@ The stomach wall has millions of tiny pits. Cells in the pits make hydrochloric 
 ### The small intestine: three juices finish the cutting · *defined*
 **Definition:** In the small intestine, bile, pancreatic juice and the enzymes of the intestine wall cut food into units small enough to absorb.
 
-The small intestine is 3 to 6 metres long in a grown-up, and most digestion happens here. Three juices work on the food. Bile comes from the liver. It breaks fat into tiny droplets, as dish soap does to grease. Bile is not an enzyme and cuts no molecules. Pancreatic juice comes from the pancreas. It holds amylase for starch, several proteases for protein and lipase for fat. It also holds the base that cancels stomach acid. The third set of enzymes sits on the surface of the villi. These enzymes make the last cuts. One of them cuts malt sugar into two units of glucose. Another cuts table sugar. Another, called lactase, cuts milk sugar. At the end, starch has become glucose. Protein has become single amino acids. Fat has become fatty acids and smaller parts. The pancreas releases its proteases switched off, as the stomach does with pepsin. They become active only inside the intestine.
+The small intestine is 3 to 6 metres long in a grown-up, and most digestion happens here. Three juices work on the food. Bile comes from the liver. It breaks fat into tiny droplets, as dish soap does to grease. Bile is not an enzyme and cuts no molecules. Pancreatic juice comes from the pancreas. It holds amylase for starch, several proteases for protein and lipase for fat. It also holds the base that cancels stomach acid. The third set of enzymes sits on the surface of the villi. These enzymes make the last cuts. One of them cuts malt sugar into two units of glucose. Another cuts table sugar. Another, called lactase, cuts milk sugar. At the end, starch has become glucose. Protein has become single amino acids. Fat has become fatty acids and smaller parts. The pancreas releases its proteases switched off, as the stomach does with pepsin. They become active only inside the intestine. The liver is the biggest gland in the body. A gland is an organ that makes a juice for the body to use. The liver lies on the right side of the stomach, under the lower ribs. The pancreas is a gland too, but a much smaller one.
 - e.g. Starch is cut by amylase, first in the mouth and then in the small intestine. The last cut, made on the villi, gives glucose.
 - e.g. Protein is cut first by pepsin in the stomach, and then by proteases in the small intestine. It ends up as single amino acids.
 - e.g. Fat is first broken into tiny droplets by bile. Then lipase cuts the fat in the small intestine.
@@ -114,6 +118,13 @@ Fibre is made mostly of chains of sugar units, as starch is. The joins between t
 - e.g. Foods with almost no fibre: milk, egg, fish, meat, sugar and maida biscuits.
 - e.g. A meal of rajma makes more gas than a meal of white rice, because more of it reaches the bacteria.
 - e.g. A course of antibiotics kills many gut bacteria as well as harmful ones. The numbers usually recover over some weeks.
+### When digestion goes wrong: indigestion · *defined*
+**Definition:** Indigestion is a heavy, sore or burning feeling in the belly after eating. Most of the time it is mild, but a few signs mean a doctor must see the person.
+
+Sometimes a meal sits badly. The belly feels heavy or sore, with burps or a sour taste. The causes are often plain. A very big or very oily meal takes the stomach a long time to empty. Eating very fast sends big lumps and swallowed air down. Spoiled food is worse. Cooked rice or dal left out all night in a hot kitchen grows bacteria, and some of them make poisons that cause vomiting and loose motions. So eat fresh food, keep it covered, and put leftovers in the fridge soon. Mild indigestion usually passes in a few hours. Many families give curd or buttermilk, which are gentle on the stomach and hold living bacteria. Scientists are still studying how much they help. If there are loose motions, drink ORS, the salt and sugar drink, to replace the water that is lost. Go to a doctor if the pain is strong or keeps coming back. Go too if vomiting will not stop, if there is blood in the vomit or the motion, or if a small child is very sleepy or has a very dry mouth.
+- e.g. A heavy feeling after three helpings of a rich wedding meal usually passes with rest.
+- e.g. A child with loose motions after eating stale rice needs ORS and a visit to the doctor if it does not stop.
+- e.g. Chaas after lunch is a common way to settle a heavy stomach in many Indian homes.
 ### Other animals: the same tube, with different lengths and chambers · *defined*
 **Definition:** Humans and other animals with backbones share the same plan of food tube. What changes most with the kind of food is not the small intestine. It is the large intestine and the chambers where microbes work.
 
@@ -169,7 +180,7 @@ The appendix is a thin tube, about as long as a finger, joined to the first part
   Against: People without an appendix live healthy lives. The job has not been shown clearly in people.
 
 ## Roots
-In this unit you found out that each enzyme cuts one kind of molecule, and that gut microbes cut the fibre that you cannot. Here we ask what this tells us about food and about the one who eats it.
+In this lesson you found out that each enzyme cuts one kind of molecule, and that gut microbes cut the fibre that you cannot. Here we ask what this tells us about food and about the one who eats it.
 
 **Deep truth.** In Starch or Fibre, saliva made the starch paste runny and left the fibre gel thick. Both are chains of sugar units, and an enzyme cuts only the joins it fits. We have no enzyme for the joins in fibre, but gut microbes have. So whether a plant counts as food depends on the enzymes the eater has or can borrow from microbes.  
 *Habit it breaks:* We talk about food as if being food were a property of the thing itself, like its colour. But grass is food for a cow and her microbes together, and it is not food for a person alone. Whether something is food depends on whether the eater has the right enzymes for it.  
@@ -484,7 +495,7 @@ On the train home she slept sitting up, with both hands in her lap. Nila took ou
   *Parent says:* Say what you thought would happen, what you saw, and why you think it happened. A swallowed lump of food is like the whole sugar lump.  
   *Child mode:* Say what you thought would happen. Say what you saw. Say why you think it happened.
   - Ask: What does chewing do for the enzymes in your mouth? (good: It gives them more of the food's outside to work on.; It breaks big lumps into small bits.; It is like crushing the sugar.)
-  - Note: Water, like an enzyme, can only work on the outside of a piece. Cutting a piece into four, or into powder, makes much more outside. Chewing does the same to food. It does not make the food more nutritious. It makes digestion faster. One chewing rule does not suit every food, as the Fletcher card in the unit shows.
+  - Note: Water, like an enzyme, can only work on the outside of a piece. Cutting a piece into four, or into powder, makes much more outside. Chewing does the same to food. It does not make the food more nutritious. It makes digestion faster. One chewing rule does not suit every food, as the Fletcher card in the lesson shows.
   - Think: A cube of 2 centimetres is cut into eight cubes of 1 centimetre. Has the amount of food changed? Has the amount of outside changed?
 ### a3 · The Gut Ladder: string lengths for a cat, a person, a rabbit and a cow (20 min)
 - **record:** Fill in a table of four animals: what each one eats, its weight, and the length of your whole strip and of the large intestine part.
@@ -589,9 +600,9 @@ On the train home she slept sitting up, with both hands in her lap. Nila took ou
   - Think: What would you test next, now that you know the answer?
 
 ## Worksheets
-### The food tube, the teeth and the juices (core) (core, 15 questions)
+### The food tube, the teeth and the juices (core) (core, 17 questions)
 1. (mcq) Which list gives the parts of the food tube in the right order?  
-   Options: Mouth, food pipe, stomach, small intestine, large intestine / Mouth, stomach, food pipe, large intestine, small intestine / Food pipe, mouth, small intestine, stomach, large intestine / Mouth, small intestine, stomach, food pipe, large intestine  
+   Options: Mouth, stomach, food pipe, large intestine, small intestine / Food pipe, mouth, small intestine, stomach, large intestine / Mouth, food pipe, stomach, small intestine, large intestine / Mouth, small intestine, stomach, food pipe, large intestine  
    **Answer:** Mouth, food pipe, stomach, small intestine, large intestine. *Why:* Food goes from the mouth down the food pipe to the stomach. Then it passes through the small intestine, which is long and narrow, and on to the large intestine.
 2. (order) Put these in the order that food passes through them.  
    **Answer:** ['Mouth', 'Food pipe', 'Stomach', 'Small intestine', 'Large intestine']. *Why:* The mouth breaks the food up. The food pipe squeezes it down. The stomach churns it, the small intestine digests and absorbs it, and the large intestine takes back water.
@@ -604,7 +615,7 @@ On the train home she slept sitting up, with both hands in her lap. Nila took ou
 6. (truefalse) A chip in the enamel of a tooth can heal by itself.  
    **Answer:** False. *Why:* False. Enamel has no living cells, so the body cannot mend it. This is why brushing and avoiding acid matter.
 7. (mcq) What does the enzyme in saliva do to starch?  
-   Options: Cuts it into sugar / Turns it into protein / Leaves it unchanged / Turns it into fat  
+   Options: Turns it into protein / Leaves it unchanged / Cuts it into sugar / Turns it into fat  
    **Answer:** Cuts it into sugar. *Why:* The enzyme in saliva is amylase. It cuts the long chains of starch into short pieces of sugar. That is why chewed rice begins to taste sweet.
 8. (sort) Sort each food molecule by the place where it is first cut.  
    **Answer:** starch in rice → Mouth; starch in ragi → Mouth; protein in dal → Stomach; protein in egg → Stomach; fat in ghee → Small intestine; fat in groundnuts → Small intestine. *Why:* Starch is first cut by amylase in saliva. Protein is first cut by pepsin in the stomach. Fat waits for bile and lipase in the small intestine.
@@ -615,7 +626,7 @@ On the train home she slept sitting up, with both hands in her lap. Nila took ou
 11. (truefalse) Bile is an enzyme that cuts fat molecules.  
    **Answer:** False. *Why:* False. Bile breaks fat into tiny droplets and cuts no molecules. Lipase, an enzyme from the pancreas, does the cutting.
 12. (mcq) Where does most digested food pass into the blood?  
-   Options: The small intestine / The stomach / The large intestine / The food pipe  
+   Options: The stomach / The large intestine / The food pipe / The small intestine  
    **Answer:** The small intestine. *Why:* The small intestine is lined with villi, which give it a huge surface. Digested food passes through them into the blood.
 13. (write) Why is a well-chewed bite easier to digest than a whole lump?  
    **Answer:** Chewing breaks food into small pieces, which have far more outside surface. Saliva and other enzymes can work only on the outside of a piece, so more surface means faster cutting.. *Why:* A strong answer says that enzymes work on the outside of the food and that small pieces have more outside. It may mention the sugar lumps in Whole or Crushed.
@@ -623,12 +634,16 @@ On the train home she slept sitting up, with both hands in her lap. Nila took ou
    **Answer:** A finger-shaped bump with a thin wall. A fine blood vessel runs up the middle of it. An arrow shows sugar crossing the wall into the vessel, then a long arrow to the liver, the heart and a muscle.. *Why:* A strong drawing shows the wall that the sugar crosses and the blood vessel inside the villus. It then follows the blood to the liver, the heart and the cells.
 15. (perspective) How many times should a mouthful be chewed?  
    **Answer:** Any view with a reason from the unit. The strongest answers say that chewing gives enzymes more surface, and that the right number depends on the food.. *Why:* Each view has something right. A strong answer links the number of chews to the food and to the surface that the enzymes can reach.
-### Why each station works as it does (stretch) (stretch, 15 questions)
+16. (sort) Sort each habit: good for the teeth, or bad for the teeth?  
+   **Answer:** brushing twice a day → Good for the teeth; rinsing with water after a meal → Good for the teeth; visiting a dentist when a tooth hurts → Good for the teeth; eating sweets all day long → Bad for the teeth; going to bed with food stuck on the teeth → Bad for the teeth. *Why:* Mouth bacteria make acid from sugar, and acid dissolves enamel that cannot grow back. Brushing, rinsing and fewer sweets keep the acid low.
+17. (fill) The liver, the biggest gland in the body, lies on the ____ side of the stomach.  
+   **Answer:** ['right']. *Why:* The liver sits on the right side, under the lower ribs. It makes bile for the small intestine.
+### Why each station works as it does (stretch) (stretch, 17 questions)
 1. (mcq) Why does the enzyme in saliva stop working in the stomach?  
-   Options: The acid changes the shape of the enzyme / The stomach is too cold for it / There is no starch in the stomach / The enzyme runs out of saliva  
+   Options: The stomach is too cold for it / There is no starch in the stomach / The enzyme runs out of saliva / The acid changes the shape of the enzyme  
    **Answer:** The acid changes the shape of the enzyme. *Why:* An enzyme works only while its shape fits its food. Strong acid changes that shape, so amylase stops. Pepsin works only in acid.
 2. (mcq) A tablet cancels the acid in a stomach. What happens to the pepsin there?  
-   Options: It stops working, because it needs acid / It works faster, because the acid is gone / It turns into amylase / Nothing changes  
+   Options: It works faster, because the acid is gone / It turns into amylase / It stops working, because it needs acid / Nothing changes  
    **Answer:** It stops working, because it needs acid. *Why:* Pepsin is switched on by acid, and it works only in acid. If the acid is cancelled, protein digestion in the stomach slows down.
 3. (label) Label the three stations on this strip of the food tube with the right acidity.  
    **Answer:** ['Mouth: about pH 7, amylase works here', 'Stomach: about pH 2, pepsin works here', 'Small intestine: about pH 7, the enzymes of the pancreas work here']. *Why:* The mouth and small intestine are close to neutral. The stomach is strongly acid. Each station keeps the acidity that suits its enzymes.
@@ -641,7 +656,7 @@ On the train home she slept sitting up, with both hands in her lap. Nila took ou
 7. (sort) Is each job done by force, or by cutting molecules with an enzyme?  
    **Answer:** molars grinding roasted chana → By force; the stomach wall churning food → By force; the squeezing of the intestine wall → By force; amylase cutting starch → By an enzyme; pepsin cutting protein → By an enzyme; lipase cutting fat → By an enzyme. *Why:* Chewing, churning and squeezing break food into smaller lumps, but the lumps are still the same molecules. Only enzymes cut the molecules themselves.
 8. (mcq) Lipase cuts fat. Why does the body also need bile?  
-   Options: Droplets give lipase much more surface to work on / Bile is a stronger enzyme than lipase / Bile cuts the fat into sugar / Bile makes fat taste better  
+   Options: Bile is a stronger enzyme than lipase / Droplets give lipase much more surface to work on / Bile cuts the fat into sugar / Bile makes fat taste better  
    **Answer:** Droplets give lipase much more surface to work on. *Why:* Fat floats in a large blob in watery juice. Bile breaks it into tiny droplets, as dish soap does to grease. Lipase can then reach far more of the fat.
 9. (match) Match each animal to the part of her gut that is special.  
    **Answer:** Cow → A stomach of four chambers; Rabbit → A large side pouch of microbes; Crow → A gizzard instead of teeth; Cat → A small large intestine, for easy meat. *Why:* Each gut fits the food. Plant-eaters house microbes in extra chambers or pouches. A crow grinds food in a muscular gizzard. A cat's large intestine is small because meat is easy to digest.
@@ -658,6 +673,10 @@ On the train home she slept sitting up, with both hands in her lap. Nila took ou
 15. (mcq) Which kind of tooth is missing in a small child's 20 milk teeth?  
    Options: Premolars / Incisors / Canines / Molars  
    **Answer:** Premolars. *Why:* A child has 2 incisors, 1 canine and 2 molars in each quarter of the mouth. The premolars come in only with the permanent teeth.
+16. (write) A friend laughs loudly while eating a chapati and starts to cough. Explain what happened, using the words windpipe and food pipe. Then give one rule for eating that would help.  
+   **Answer:** Laughing kept the windpipe open, so a bit of chapati went the wrong way, into the windpipe, instead of down the food pipe. The cough pushes it out. A rule: chew small mouthfuls and do not talk or laugh with food in the mouth.. *Why:* A strong answer names both tubes and says that the flap over the windpipe could not close fully. The rule should be about small mouthfuls or not talking while eating.
+17. (write) Rani is 8 and has a heavy stomach after a wedding lunch. Give two things that may have caused it, one thing she can take at home, and two signs that mean she must see a doctor.  
+   **Answer:** Causes: a very big or oily meal, eating very fast, or food that was left out and turned bad. At home: buttermilk or curd, rest, and ORS if she has loose motions. Doctor: strong or returning pain, vomiting that will not stop, blood in vomit or motion, or being very sleepy with a very dry mouth.. *Why:* A strong answer gives real causes, a gentle home step and clear warning signs. Home steps help with mild trouble only.
 ### Testing ideas about digestion (challenge) (challenge, 15 questions)
 1. (mcq) You want to know whether more saliva makes starch paste runnier. Which pair of cups is a fair test?  
    Options: Same paste and time, with 1 drop or 3 drops / Different paste and time, with 1 drop and with 3 drops / Paste with saliva, and a different paste with water / Warm paste with saliva, and cold paste with more saliva  
@@ -669,14 +688,14 @@ On the train home she slept sitting up, with both hands in her lap. Nila took ou
 4. (perspective) Is a kitchen part of the human digestive system?  
    **Answer:** Any view with a reason from the unit. A strong answer uses an example such as idli batter, which is ground and fermented before the meal.. *Why:* The question is about where to draw a line. A strong answer says what the line depends on, and notes that scientists still argue about when cooking began.
 5. (mcq) Isabgol gel stayed thick when saliva was added. What can you conclude?  
-   Options: Saliva did not cut the fibre in the gel / Saliva cuts nothing at all / Saliva was too cold to work / The gel was too thick to be cut  
+   Options: Saliva cuts nothing at all / Saliva was too cold to work / The gel was too thick to be cut / Saliva did not cut the fibre in the gel  
    **Answer:** Saliva did not cut the fibre in the gel. *Why:* The starch cup next to it ran, so the saliva was working. The gel did not change, so the enzyme in saliva does not fit the joins in this fibre.
 6. (count) Out of 12 South Indians tested, 8 had low lactase. What fraction is that, in its simplest form?  
    **Answer:** 2/3. *Why:* 8 out of 12 is 8/12. Divide the top and the bottom by 4 to get 2/3, or two out of three.
 7. (fill) A cup of paste with water in place of saliva, kept to compare with the saliva cups, is called the ____.  
    **Answer:** ['control']. *Why:* The control shows what happens with the thing you are testing left out. Without it, you cannot tell what the saliva added.
 8. (mcq) Why can many people take curd or buttermilk when a large tumbler of milk gives them a stomach ache?  
-   Options: Curd bacteria have already used up part of the lactose / Curd contains no sugar at all / Curd is digested in the mouth / Curd is made without any milk  
+   Options: Curd contains no sugar at all / Curd is digested in the mouth / Curd bacteria have already used up part of the lactose / Curd is made without any milk  
    **Answer:** Curd bacteria have already used up part of the lactose. *Why:* Bacteria in curd eat milk sugar and carry lactase of their own. So less lactose reaches the large intestine, where it would be fermented and make gas.
 9. (order) Put these in order to show how milk can give a stomach ache.  
    **Answer:** ['A large tumbler of milk reaches the small intestine', 'Little lactase is made, so lactose is not cut', 'The uncut lactose passes into the large intestine', 'Bacteria in the large intestine ferment the lactose', 'Gas and acids make the belly ache']. *Why:* Lactose can be absorbed only after lactase cuts it. If it is not cut, it passes on, and the bacteria at the end of the tube feed on it.
@@ -701,7 +720,7 @@ On the train home she slept sitting up, with both hands in her lap. Nila took ou
 
 ## Quiz
 1. (mcq) Which organ makes acid and pepsin?  
-   Options: The stomach / The mouth / The liver / The large intestine  
+   Options: The mouth / The liver / The large intestine / The stomach  
    **Answer:** The stomach. *Why:* The wall of the stomach makes hydrochloric acid and pepsin. The liver makes bile, and the mouth makes saliva.
 2. (mcq) Which of these cuts starch into sugar?  
    Options: Amylase / Pepsin / Lipase / Bile  
@@ -710,30 +729,42 @@ On the train home she slept sitting up, with both hands in her lap. Nila took ou
    Options: 4 / 2 / 8 / 12  
    **Answer:** 4. *Why:* There is one canine in each quarter of the mouth, so there are four. The pointed canines grip and tear.
 4. (mcq) What is the hardest substance in the body?  
-   Options: Tooth enamel / Bone / Dentine / Nail  
+   Options: Bone / Tooth enamel / Dentine / Nail  
    **Answer:** Tooth enamel. *Why:* Enamel is the hardest, and it has no living cells. Dentine and bone are hard but living.
 5. (mcq) Saliva and a few drops of lemon juice are added to thick starch paste. What do you expect?  
-   Options: The paste stays thick, because acid stops amylase / The paste turns runny, because lemon helps / The paste turns to sugar at once / The paste turns clear  
+   Options: The paste turns runny, because lemon helps / The paste turns to sugar at once / The paste turns clear / The paste stays thick, because acid stops amylase  
    **Answer:** The paste stays thick, because acid stops amylase. *Why:* Lemon juice is acid, like the stomach. Acid changes the shape of amylase, so it cannot cut the starch.
 6. (truefalse) Digestion of protein begins in the mouth.  
    **Answer:** False. *Why:* False. Digestion of protein begins in the stomach, where pepsin works in acid. Starch is the food that begins to be cut in the mouth.
 7. (mcq) What do the villi in the small intestine do?  
-   Options: Pass digested food into the blood / Make bile / Churn the food / Kill all microbes  
+   Options: Make bile / Churn the food / Pass digested food into the blood / Kill all microbes  
    **Answer:** Pass digested food into the blood. *Why:* Villi are tiny finger-shaped bumps. They give the lining a huge surface, and digested food crosses them into the blood.
 8. (mcq) No human enzyme can cut fibre. What happens to it in the large intestine?  
-   Options: Gut bacteria ferment it / It turns into protein / It is cut by pepsin / It is absorbed whole  
+   Options: It turns into protein / It is cut by pepsin / Gut bacteria ferment it / It is absorbed whole  
    **Answer:** Gut bacteria ferment it. *Why:* Gut bacteria make enzymes that fit the joins in fibre. They ferment it into acids, which the cells of the large intestine can use.
 9. (order) Put these in order, to show the route of a sugar molecule from a rice grain to a muscle.  
    **Answer:** ['The blood in a villus', 'The liver', 'The heart', 'A leg muscle']. *Why:* Sugar crosses into the blood in a villus. The blood goes first to the liver, then to the heart, and the heart pumps it to the muscle.
 10. (mcq) Which part of a rabbit's gut is much bigger than a cat's, and why?  
-   Options: The large intestine and caecum, where microbes cut plant fibre / The mouth, to chew faster / The food pipe, to swallow bigger pieces / Nothing, a rabbit's gut is the same as a cat's  
+   Options: The mouth, to chew faster / The food pipe, to swallow bigger pieces / Nothing, a rabbit's gut is the same as a cat's / The large intestine and caecum, where microbes cut plant fibre  
    **Answer:** The large intestine and caecum, where microbes cut plant fibre. *Why:* Plants are rich in fibre, and no enzyme of an animal with a backbone cuts it. Microbes do it slowly, in the large intestine and the caecum. Measurements show that this is where plant-eaters differ most from meat-eaters.
 11. (mcq) Which cup is a good control for a test of saliva on starch paste?  
-   Options: Paste with water in place of saliva / Saliva with lemon juice / Heated saliva with paste / Saliva alone, with no paste  
+   Options: Saliva with lemon juice / Heated saliva with paste / Paste with water in place of saliva / Saliva alone, with no paste  
    **Answer:** Paste with water in place of saliva. *Why:* A control leaves out the thing you test. Paste with water shows what the paste does without saliva.
 12. (mcq) What is lactase?  
-   Options: The enzyme that cuts milk sugar / The sugar in milk / The bacteria in curd / The acid in the stomach  
+   Options: The sugar in milk / The bacteria in curd / The enzyme that cuts milk sugar / The acid in the stomach  
    **Answer:** The enzyme that cuts milk sugar. *Why:* Lactose is the sugar in milk. Lactase is the enzyme in the small intestine that cuts it in two so that it can be absorbed.
+13. (mcq) Why should you not talk or laugh with food in your mouth?  
+   Options: Your saliva would run out / The enzymes in the mouth stop working / The windpipe stays open, so a bit of food can slip into it and make you choke / The food would taste of nothing  
+   **Answer:** The windpipe stays open, so a bit of food can slip into it and make you choke. *Why:* When you swallow, a flap closes over the windpipe. Laughing keeps it open, and food can go the wrong way. Saliva does not run out when you talk, and enzymes do not mind noise.
+14. (mcq) Which organ is the biggest gland in the body?  
+   Options: The pancreas / The stomach / The liver / The tongue  
+   **Answer:** The liver. *Why:* The liver is the biggest gland, and it makes bile. The pancreas is also a gland, but it is much smaller. The stomach and the tongue are not glands.
+15. (mcq) A child has a stomach upset. Which sign means a grown-up must take her to a doctor?  
+   Options: One small burp after lunch / A heavy feeling that is gone in an hour / Vomiting that will not stop, with a very dry mouth / Feeling hungry again by dinner  
+   **Answer:** Vomiting that will not stop, with a very dry mouth. *Why:* Vomiting that does not stop, and a very dry mouth, can mean the body is losing too much water. The other signs are mild and usually pass on their own.
+16. (mcq) Why does it help your teeth to rinse with water after a sweet and to eat fewer sweets?  
+   Options: Water makes the enamel thicker / Bacteria turn sugar into acid that slowly dissolves enamel, and enamel cannot mend itself / Sweets make the teeth grow too many / Rinsing makes the saliva stronger  
+   **Answer:** Bacteria turn sugar into acid that slowly dissolves enamel, and enamel cannot mend itself. *Why:* Sugar feeds mouth bacteria, and they make acid. Enamel has no living cells, so it cannot heal once it dissolves. Less sugar and a quick rinse leave less acid on the teeth.
 
 ## Applications
 - Lactose-free milk has had lactase added at the dairy, so the milk sugar is already cut. Many shops also sell lactase tablets for people who make little lactase.
@@ -806,6 +837,10 @@ This Body Is a Universe (sci.body.L5): Topic-level song
 - [Isabgol (psyllium husk), a small packet of about 100 grams](https://www.amazon.in/s?k=isabgol+husk) (material): For Starch or Fibre. Most chemist shops and grocers sell it. Slimy bhindi water works in its place. Used in e2. 
 - [Kalkandu (rock sugar), 100 grams](https://www.amazon.in/s?k=kalkandu+rock+sugar) (material): For Whole or Crushed. Grocers and sweet shops sell it. Big crystals of ordinary sugar work in its place. Used in a2. 
 - [I Contain Multitudes: The Microbes Within Us and a Grander View of Life, a book by Ed Yong (2016)](https://www.amazon.in/s?k=I+Contain+Multitudes+Ed+Yong) (book): For the parent or an older child: a clear and careful account of the microbes that live in and on animals. Used in p1. After the Milk Survey, a parent can read aloud from the chapters on microbes and the gut.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Run Test: what stops saliva from digesting starch?, Starch or Fibre: can saliva thin every thick food?, The Gut Ladder: string lengths for a cat, a person, a rabbit and a cow. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, a3, a4, p1, c1. Get it before The Run Test: what stops saliva from digesting starch?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Listen to a Gut: is the food tube busier before lunch or after?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e3. Get it before Listen to a Gut: is the food tube busier before lunch or after?.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Listen to a Gut: is the food tube busier before lunch or after?, Mouth Waters: how fast do your saliva glands wake up?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e3, a1. Get it before Listen to a Gut: is the food tube busier before lunch or after?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is an enzyme? → A substance made by living cells that speeds up one kind of chemical change, such as cutting one kind of food molecule.

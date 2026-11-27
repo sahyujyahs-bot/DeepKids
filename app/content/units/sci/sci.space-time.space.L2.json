@@ -40,6 +40,12 @@
    "art": "A child on a bed with a pillow beside her, and the Moon small in the window."
   },
   {
+   "term": "Position and direction words",
+   "meaning": "Position words tell where a thing is: on, in, above, below. Direction words tell which way: left, right, up, down.",
+   "example": "The tumbler is on the shelf. The shelf is above the bed. To find it, look up.",
+   "art": "A shelf with a tumbler, a bed below it, and arrows pointing up, down, left and right."
+  },
+  {
    "term": "Between",
    "meaning": "Between means in the space that separates two things.",
    "example": "In a row of chappals by the door, the middle chappal is between the other two.",
@@ -68,6 +74,18 @@
    "meaning": "To estimate is to make a careful guess about a number, before you count or measure it.",
    "example": "You estimate that the door is 6 steps away. Then you walk and count 5 steps.",
    "art": "A child with a thought bubble showing '6?' next to a door."
+  },
+  {
+   "term": "Volume",
+   "meaning": "Volume is how much space something takes up. A big pumpkin has more volume than a lemon.",
+   "example": "A big pumpkin takes up more space on the kitchen shelf than a lemon, so it has more volume.",
+   "art": "A big pumpkin and a small lemon side by side on a shelf."
+  },
+  {
+   "term": "Coordinates",
+   "meaning": "Coordinates are a set of numbers that tell you exactly where something is. You give one number for how far across and one for how far up or along.",
+   "example": "To find a hidden coin on a floor of tiles, you say it is 3 tiles from the door and 2 tiles from the wall.",
+   "art": "A grid of floor tiles with a coin and arrows labelled 3 across and 2 along."
   }
  ],
  "explanations": [
@@ -98,6 +116,20 @@
    ],
    "perspectives": [],
    "art": "A line from a child's toes to a door, a road to a shop, and a dotted path up to the Moon, each longer than the last."
+  },
+  {
+   "concept": "Where is it? Words for place and direction",
+   "status": "defined",
+   "context": "This card comes after near and far. Near and far say how much space there is. These words say where.",
+   "definition": "Position words tell where a thing is: on, in, above, below. Direction words tell which way to go: left, right, up, down.",
+   "description": "Sit on your bed and look around. Your tumbler is on the shelf. Your clothes are in the cupboard. The fan is above you, and the floor is below you. Up is toward the ceiling. Down is toward the floor. Left is the side of your left hand, and right is the side of your right hand. Left and right change when you turn round, but up and down do not. These words let you tell a friend exactly where to look, even in a room with lots of space and lots of things. Near and far tell how much space is between you and a thing. These words tell which way it lies.",
+   "examples": [
+    "The tiffin box is in the bag, and the bag is on the chair",
+    "The fan is above your head, and the mat is below your feet",
+    "Turn left at the gate, then walk straight to the tulsi plant"
+   ],
+   "perspectives": [],
+   "art": "A child's room: a tumbler on a shelf, clothes in a cupboard, a fan above the bed and a mat on the floor, each with a small label; arrows for up, down, left and right."
   },
   {
    "concept": "Why far things look smaller",
@@ -458,10 +490,10 @@
       "q": "You stand twice as far from a bottle. How tall does the bottle look?",
       "options": [
        "Just as tall",
-       "About half as tall",
-       "Twice as tall"
+       "Twice as tall",
+       "About half as tall"
       ],
-      "a": 1,
+      "a": 2,
       "why": "From twice as far away, the bottle takes up about half as much of what you see, so it looks about half as tall. The bottle did not shrink. Only the distance changed."
      },
      "parent": "Usually the 2-step strip is close to half the 1-step strip, and about 3 to 5 of the 4-step strips fit along the 1-step one. Steps that are not quite even, or an arm that bends, make it less exact. A strong answer uses the strips as evidence: the bottle was the same, there was more space between your child and the bottle, and the strip was shorter.",
@@ -581,11 +613,11 @@
       "t": "mcq",
       "q": "In the mirror tunnel, what happened to the bindis farther down the tunnel?",
       "options": [
-       "They got bigger and brighter",
        "They got smaller and dimmer",
+       "They got bigger and brighter",
        "They all stayed the same"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Each copy comes from light that bounced between the mirrors one more time than the copy before. So that light has travelled a longer way, and the copy looks farther away and smaller. A mirror also keeps a little light each time. So every copy is dimmer than the one before."
      },
      "parent": "Each copy looks smaller because it looks farther away, just as the bottle looked smaller from farther away in the Bottle Strip Test. A strong answer says the row faded out, and that you could not tell whether it really ended.",
@@ -754,11 +786,11 @@
       "t": "mcq",
       "q": "It is 4 steps to the door and 9 steps to the kitchen. Which is nearer?",
       "options": [
-       "The door",
        "The kitchen",
-       "They are the same"
+       "They are the same",
+       "The door"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Fewer steps means less space between, so the door is nearer. 4 is less than 9."
      }
     }
@@ -908,11 +940,11 @@
       "t": "mcq",
       "q": "In the hiding game, the hider holds up 'Farther'. What should the seeker do?",
       "options": [
-       "Keep going the same way",
        "Turn and go back the other way",
+       "Keep going the same way",
        "Stand still"
       ],
-      "a": 1,
+      "a": 0,
       "why": "'Farther' means the space between the seeker and the tumbler is growing. Going back the other way makes it shrink again."
      }
     }
@@ -1043,10 +1075,10 @@
       "q": "Which of these is farthest from you?",
       "options": [
        "The Moon",
-       "A plane in the sky",
-       "The Sun"
+       "The Sun",
+       "A plane in the sky"
       ],
-      "a": 2,
+      "a": 1,
       "why": "A plane is about 10 kilometres up, the Moon about 384,000 kilometres away, and the Sun about 150 million kilometres away. The Sun is farthest by far."
      }
     }
@@ -1196,10 +1228,10 @@
       "q": "How did the small coin hide the big cupboard?",
       "options": [
        "The coin got bigger",
-       "The distances changed, so the cupboard looked smaller than the coin",
-       "The cupboard shrank"
+       "The cupboard shrank",
+       "The distances changed, so the cupboard looked smaller than the coin"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Neither the coin nor the cupboard changed size. When the cupboard is far away, or the coin is very near your eye, the coin takes up more of what you see than the cupboard does."
      }
     }
@@ -1241,11 +1273,11 @@
      "t": "mcq",
      "p": "In the bottle strip test, the strip from 4 steps was shorter than the strip from 1 step. Why?",
      "opts": [
-      "The bottle got smaller",
       "You were farther away, so the bottle looked smaller",
+      "The bottle got smaller",
       "The pencil got shorter"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The bottle and the pencil stayed the same. Only the distance changed. Choosing 'the bottle got smaller' means thinking far things really shrink. Walking back and picking up the same bottle shows they do not.",
      "context": "This question is about the bottle strip test. You measured how tall a bottle looked from 1, 2 and 4 steps away.",
      "how": "e1"
@@ -1292,6 +1324,12 @@
      ],
      "a": "see items",
      "why": "Near things are a small distance away, like the pillow, toes and blanket. The plane, the Moon and the Sun are far, even though we can see them."
+    },
+    {
+     "t": "fill",
+     "p": "The fan is ________ your head. The mat is below your feet.",
+     "a": "above",
+     "why": "Above means higher than something. The fan hangs up at the ceiling, higher than your head. Below means lower, like the mat under your feet."
     },
     {
      "t": "truefalse",
@@ -1372,11 +1410,11 @@
      "t": "mcq",
      "p": "In the mirror tunnel, how did each bindi look compared with the one before it?",
      "opts": [
-      "Smaller and dimmer",
       "Bigger and brighter",
+      "Smaller and dimmer",
       "Exactly the same"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Each copy comes from light that has travelled farther than the light of the copy before, so it looked smaller. Each mirror also keeps a little light, so it looked dimmer.",
      "context": "This question is about the mirror tunnel. You held a small mirror facing a big mirror and counted the copies of a bindi.",
      "how": "e2"
@@ -1397,6 +1435,30 @@
       3
      ],
      "why": "The fan is a few steps away, a plane about 10 kilometres up, the Moon about 384,000 kilometres away and the Sun about 150 million kilometres away."
+    },
+    {
+     "t": "match",
+     "p": "Draw a line from each word to what it tells you.",
+     "pairs": [
+      [
+       "on",
+       "resting on top of something"
+      ],
+      [
+       "in",
+       "inside something"
+      ],
+      [
+       "left",
+       "the side of your left hand"
+      ],
+      [
+       "down",
+       "toward the floor"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "On and in say where a thing is. Left and down say which way to go. Left and right change when you turn round, but up and down stay the same."
     },
     {
      "t": "write",
@@ -1665,11 +1727,11 @@
    "t": "mcq",
    "p": "Which of these is nearest to you right now?",
    "opts": [
-    "Your nose",
     "The door",
-    "The Moon"
+    "The Moon",
+    "Your nose"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Your nose is on your face, so there is almost no space between it and you. The door is a few steps away, and the Moon is very far.",
    "outcome": 1
   },
@@ -1678,22 +1740,46 @@
    "p": "You count 5 steps to the window and 9 steps to the door. Which is farther from you?",
    "opts": [
     "The window",
-    "The door",
-    "They are the same"
+    "They are the same",
+    "The door"
+   ],
+   "a": 2,
+   "why": "More steps means more space between, so the door is farther. 9 is more than 5.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Revathi says, \"My tiffin box is in the bag, and the bag is on the chair.\" Where is the tiffin box?",
+   "opts": [
+    "On the chair, with the bag inside it",
+    "Inside the bag, and the bag sits on the chair",
+    "Below the chair"
    ],
    "a": 1,
-   "why": "More steps means more space between, so the door is farther. 9 is more than 5.",
+   "why": "In means inside something. On means resting on top of something. The box is inside the bag, and the bag rests on the chair. Nothing here is below the chair.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "You lie on your bed and look at the ceiling fan. Which way are you looking?",
+   "opts": [
+    "Down",
+    "Up",
+    "Left"
+   ],
+   "a": 1,
+   "why": "The ceiling is high above you, so you look up. Down is toward the floor. Left is sideways, toward your left hand.",
    "outcome": 1
   },
   {
    "t": "mcq",
    "p": "You look at a bottle from 2 steps away, then from 4 steps away. How does it look from 4 steps?",
    "opts": [
-    "Smaller",
     "Bigger",
+    "Smaller",
     "Just the same"
    ],
-   "a": 0,
+   "a": 1,
    "why": "From farther away, the bottle takes up less of what you see, so it looks smaller. The bottle itself does not change.",
    "outcome": 2,
    "how": "e1"
@@ -1709,11 +1795,11 @@
    "t": "mcq",
    "p": "The Sun is about 400 times wider than the Moon. Why does it look about the same size?",
    "opts": [
-    "It is also about 400 times farther away",
     "It is nearer than the Moon",
+    "It is also about 400 times farther away",
     "The Moon is really bigger"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Far things look smaller. The Sun is much bigger, and also much farther away, so in the sky they look about the same.",
    "outcome": 3
   },
@@ -1758,11 +1844,11 @@
    "t": "mcq",
    "p": "What fills the space in your room between the bed and the wall?",
    "opts": [
-    "Nothing at all",
     "Air",
+    "Nothing at all",
     "Water"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The space looks empty, but it is full of air. A shut bottle pushes back when you squeeze it, because it is full of air.",
    "outcome": 5
   },
@@ -1771,10 +1857,10 @@
    "p": "What is outer space like, out between the stars?",
    "opts": [
     "Full of air, like your room",
-    "Almost empty",
-    "Full of water"
+    "Full of water",
+    "Almost empty"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Out between the stars, there is only about one tiny bit of gas in a space the size of a sugar cube. It is almost empty.",
    "outcome": 5
   }
@@ -1939,7 +2025,34 @@
    "why": "One of the oldest planetariums in India, with sky shows in several languages."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-a-small-hand-mirror",
+   "item": "A small hand mirror",
+   "kind": "material",
+   "why": "Used in The Mirror Tunnel: does the row go on for ever?. About ₹20 to ₹80. A shiny steel plate shows reflections too.",
+   "url": "https://www.amazon.in/s?k=small+hand+mirror",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before The Mirror Tunnel: does the row go on for ever?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "What is space?",

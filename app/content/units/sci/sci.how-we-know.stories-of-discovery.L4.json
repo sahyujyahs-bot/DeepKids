@@ -959,11 +959,11 @@
       "t": "mcq",
       "q": "Which step is clearest for a stranger to follow?",
       "options": [
-       "Make a small hole in the foil.",
        "Put the foil on a folded towel. Press the tip of a sharp pencil once into it, and twist.",
+       "Make a small hole in the foil.",
        "Make a hole in the foil with something sharp."
       ],
-      "a": 1,
+      "a": 0,
       "why": "The second step names the tool, what to rest the foil on, how many presses and the twist. The others leave the reader to guess. A wrong pick usually means the child wrote the step as they would do it, not as a stranger would read it."
      },
      "context": "In this step, you write the steps so a stranger could follow them."
@@ -1178,10 +1178,10 @@
       "q": "Maggots appeared in the open jar of banana but not in the jar with the lid. What does this show?",
       "options": [
        "Banana makes maggots by itself",
-       "The maggots came from flies that could reach the banana",
-       "The lid made the banana go bad"
+       "The lid made the banana go bad",
+       "The maggots came from flies that could reach the banana"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The banana was the same in both jars. The maggots appeared only where flies could get in. This points to flies as the source. A wrong pick usually means the child still thinks the banana made them."
      },
      "ask": [
@@ -1305,11 +1305,11 @@
       "t": "mcq",
       "q": "A claim says paper cannot be folded in half more than seven times. A school student once folded paper twelve times, using a very long, thin roll. What does this show?",
       "options": [
-       "The claim was true for ordinary sheets but not for every kind of paper",
        "The student cheated",
-       "Paper behaves differently in America"
+       "Paper behaves differently in America",
+       "The claim was true for ordinary sheets but not for every kind of paper"
       ],
-      "a": 0,
+      "a": 2,
       "why": "With ordinary sheets, the layers grow too thick and the paper too short to fold. A very long, thin roll gets past that limit. A claim can be true in some conditions and wrong in others. A wrong pick usually means the child thinks a claim must be wholly true or wholly false."
      },
      "parent": "In 2002 Britney Gallivan, a high school student in California, worked out how long a roll of paper had to be, and folded a roll more than a kilometre long in half twelve times. She turned a popular saying into a measurable question. Each fold doubles the thickness, so 7 folds make 128 layers.",
@@ -1815,11 +1815,11 @@
       "t": "mcq",
       "q": "A card says a grain of salt fills half the circle and is as wide as a sesame seed looks without a lens. What makes this card useful to a stranger?",
       "options": [
-       "It compares the size with things the reader knows, and gives a fraction",
        "It uses long words",
+       "It compares the size with things the reader knows, and gives a fraction",
        "It has a beautiful drawing"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A comparison with familiar things and a fraction of the circle let the reader draw it without seeing it. A wrong pick usually means the child valued how the card looked and not what it told the reader."
      },
      "context": "In this last step, a stranger draws from your card and you compare."
@@ -1858,11 +1858,11 @@
      "p": "A girl sees something new through her lens, but nobody else can see it. What does she need before others will believe it?",
      "opts": [
       "To say it louder",
-      "Clear steps that others can follow to see the same thing",
       "A famous teacher",
-      "A bigger lens"
+      "A bigger lens",
+      "Clear steps that others can follow to see the same thing"
      ],
-     "a": 1,
+     "a": 3,
      "why": "A discovery is finished when other people can see it too. Clear steps let them do that."
     },
     {
@@ -1936,11 +1936,11 @@
      "p": "Why does a smaller, rounder drop of water usually magnify more than a bigger, flatter one?",
      "opts": [
       "It is cooler",
-      "It is more curved, so it bends light more",
       "It is heavier",
-      "It is cleaner"
+      "It is cleaner",
+      "It is more curved, so it bends light more"
      ],
-     "a": 1,
+     "a": 3,
      "why": "A more curved surface bends light more strongly. That makes small things look bigger.",
      "how": "e1"
     },
@@ -2043,11 +2043,11 @@
      "p": "Two people follow the same steps and see slightly different pictures that agree on the main thing. What does this suggest?",
      "opts": [
       "The finding is false",
-      "The main finding holds, and the differences come from hands, drops and eyes",
       "One person is cheating",
+      "The main finding holds, and the differences come from hands, drops and eyes",
       "Steps never work"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Small differences are normal. What matters is whether the main finding appears for both people."
     }
    ]
@@ -2088,11 +2088,11 @@
      "p": "A doubter asks, 'Can I try it myself?' Is this kind or rude?",
      "opts": [
       "Rude, because it says you are lying",
-      "Kind, because it asks to see the evidence and does not insult",
       "Neither",
-      "Rude, because it takes time"
+      "Rude, because it takes time",
+      "Kind, because it asks to see the evidence and does not insult"
      ],
-     "a": 1,
+     "a": 3,
      "why": "Asking to try is how science works. It treats the claim as worth checking."
     },
     {
@@ -2152,11 +2152,11 @@
      "p": "Louis Pasteur boiled broth in a flask with a long, curved neck. The broth stayed clear, though air could enter. Why?",
      "opts": [
       "The broth was too hot",
-      "Microbes in the air were caught in the bend and could not reach the broth",
       "Air is poison to broth",
-      "Microbes cannot live in glass"
+      "Microbes cannot live in glass",
+      "Microbes in the air were caught in the bend and could not reach the broth"
      ],
-     "a": 1,
+     "a": 3,
      "why": "Air could move in and out, but the dust and microbes in it settled in the curved neck. This showed that microbes come from other microbes in the air, not from broth itself."
     },
     {
@@ -2303,11 +2303,11 @@
      "p": "Why can some skills not be fully written down?",
      "opts": [
       "Because the people who know them are secretive",
-      "Because they depend on a feel in the hands that comes from practice",
       "Because paper is too small",
-      "Because they are not important"
+      "Because they are not important",
+      "Because they depend on a feel in the hands that comes from practice"
      ],
-     "a": 1,
+     "a": 3,
      "why": "Michael Polanyi argued that we know more than we can say. A feel for dough or for a good water drop is learned by doing."
     },
     {
@@ -2363,12 +2363,12 @@
      "t": "mcq",
      "p": "In 1989 a claim of making energy in a jar of water at room temperature was dropped. Why?",
      "opts": [
-      "Nobody liked it",
       "Other labs followed the steps and could not get the result",
+      "Nobody liked it",
       "The jar broke",
       "It was too expensive"
      ],
-     "a": 1,
+     "a": 0,
      "why": "A claim stands when others can repeat it. When labs around the world followed the steps and found nothing, the claim was set aside."
     },
     {
@@ -2391,11 +2391,11 @@
      "p": "A student says she can lift a small stone with her mind, but only when nobody is watching. What is the best reply?",
      "opts": [
       "Believe her",
-      "Ask for a test she can do while others watch, with steps that others can repeat",
       "Say she is lying",
-      "Ask her to do it louder"
+      "Ask her to do it louder",
+      "Ask for a test she can do while others watch, with steps that others can repeat"
      ],
-     "a": 1,
+     "a": 3,
      "why": "A claim that vanishes whenever it is checked cannot be tested. A fair reply asks for a test that can be repeated, and asks kindly."
     },
     {
@@ -2433,12 +2433,12 @@
      "t": "mcq",
      "p": "Satellites can now measure the continents moving a few centimetres each year. What does this add to the case for moving continents?",
      "opts": [
-      "A direct measurement of the movement that Wegener could not make",
       "Nothing new",
+      "A direct measurement of the movement that Wegener could not make",
       "A reason to doubt it",
       "A map of the Moon"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Wegener had fossils, rocks and coasts. A direct measurement of movement is the kind of evidence that was missing."
     },
     {
@@ -2471,11 +2471,11 @@
    "p": "Why did the Royal Society doubt Leeuwenhoek's report of tiny living beings in water?",
    "opts": [
     "They did not like cloth sellers",
-    "Nobody else had a lens strong enough to check it",
     "They thought water was empty",
+    "Nobody else had a lens strong enough to check it",
     "They could not read Dutch"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A claim that no one else can check must wait. Doubting was not rude. It asked for a way to check.",
    "outcome": 3
   },
@@ -2483,12 +2483,12 @@
    "t": "mcq",
    "p": "When is a discovery really finished?",
    "opts": [
+    "When others can repeat it by following the steps",
     "When one person sees something",
     "When the person writes it down",
-    "When others can repeat it by following the steps",
     "When it is printed"
    ],
-   "a": 2,
+   "a": 0,
    "why": "A result that only one person can get could be a mistake. When others repeat it, it becomes shared knowledge.",
    "outcome": 0
   },
@@ -2496,12 +2496,12 @@
    "t": "mcq",
    "p": "Which is the clearest step for a stranger to follow?",
    "opts": [
-    "Make a small hole in the foil",
     "Put the foil on a folded towel, press the tip of a sharp pencil once into it, and twist",
+    "Make a small hole in the foil",
     "Make a hole with something sharp",
     "Poke the foil"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The clear step names the tool, what to rest the foil on, the number of presses and the twist.",
    "outcome": 1,
    "how": "e1"
@@ -2511,11 +2511,11 @@
    "p": "A helper follows your written steps and gets a very different result. What should you do first?",
    "opts": [
     "Tell the helper to try harder",
-    "Find the step that was unclear and rewrite it",
     "Ignore the result",
-    "Give up"
+    "Give up",
+    "Find the step that was unclear and rewrite it"
    ],
-   "a": 1,
+   "a": 3,
    "why": "If a careful person cannot follow the steps, the steps are the problem. Watching the helper shows which step to fix.",
    "outcome": 1,
    "how": "e1"
@@ -2563,12 +2563,12 @@
    "t": "mcq",
    "p": "In a test with meat or fruit in three jars, maggots appeared in the open jar but not in the sealed one. What does this show?",
    "opts": [
-    "The meat made the maggots",
     "The maggots came from flies that could reach the meat",
+    "The meat made the maggots",
     "The lid made the meat fresh",
     "Maggots live in air"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The meat was the same in both jars. The only difference was whether flies could reach it.",
    "outcome": 4,
    "how": "e2"
@@ -2577,12 +2577,12 @@
    "t": "mcq",
    "p": "In the Redi's Jars test with banana, flies landed and laid eggs on the cloth of the cloth-covered jar, but no maggots got into the banana. Why is this important?",
    "opts": [
-    "The smell got through the cloth, so smell alone does not make maggots",
     "The cloth made flies",
+    "The smell got through the cloth, so smell alone does not make maggots",
     "The banana was too ripe",
     "Cloth is magic"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Smell passed through the cloth but flies could not. Without flies reaching the banana, there were no maggots. So the flies, not the smell, mattered.",
    "outcome": 4,
    "how": "e2"
@@ -2592,11 +2592,11 @@
    "p": "Why can a good idea be rejected for years?",
    "opts": [
     "Good ideas are always wrong at first",
-    "It may have no explanation yet for how it works, and it goes against what experts believe",
     "Because it is easy",
+    "It may have no explanation yet for how it works, and it goes against what experts believe",
     "Because nobody reads"
    ],
-   "a": 1,
+   "a": 2,
    "why": "An idea can be right but lack a mechanism, or need new tools to check it. Evidence can take years to arrive.",
    "outcome": 5
   },
@@ -2604,12 +2604,12 @@
    "t": "mcq",
    "p": "Which is the best reason to keep believing an old idea?",
    "opts": [
+    "Many fair tests, repeated by different people, still support it",
     "It is old",
     "Experts say so",
-    "Many fair tests, repeated by different people, still support it",
     "It makes a good story"
    ],
-   "a": 2,
+   "a": 0,
    "why": "Age, fame and a good story do not make an idea true. Repeated fair tests do.",
    "outcome": 5
   },
@@ -2617,12 +2617,12 @@
    "t": "mcq",
    "p": "Many discoveries rest on people who collect measurements and draw them, not only on the person whose name is on the idea. Why should those people be remembered too?",
    "opts": [
-    "Because without their data the pattern could not have been seen",
     "Because they were rich",
     "Because the idea was theirs alone",
-    "Because it is polite"
+    "Because it is polite",
+    "Because without their data the pattern could not have been seen"
    ],
-   "a": 0,
+   "a": 3,
    "why": "A pattern in a pile of numbers needs someone to gather them and draw them together. Leaving these people out gives a false picture of how discoveries happen.",
    "outcome": 6
   }
@@ -2935,6 +2935,91 @@
    "used_in": [
     "c1"
    ]
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in A String of Years: how long does belief take?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before A String of Years: how long does belief take?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Water-Drop Lens: can someone else see what you saw?, A String of Years: how long does belief take?, Describe It, Then Draw It: steps that carry a picture. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "a3",
+    "a4",
+    "p1"
+   ],
+   "plan": "Get it before The Water-Drop Lens: can someone else see what you saw?."
+  },
+  {
+   "id": "b-a-set-of-lenses--convex-and-",
+   "item": "A set of lenses (convex and concave)",
+   "kind": "tool",
+   "why": "Used in The Size Card: report how big something looks, so anyone can check. About ₹80 to ₹250. A magnifying glass is one convex lens.",
+   "url": "https://www.amazon.in/s?k=convex+concave+lens+set",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before The Size Card: report how big something looks, so anyone can check."
+  },
+  {
+   "id": "b-butter-paper-or-tracing-pape",
+   "item": "Butter paper or tracing paper",
+   "kind": "material",
+   "why": "Used in Fit the Coasts: how much does a puzzle prove?. About ₹30 to ₹80 for a roll. Thin clean plastic bag or a sheet of waxed paper.",
+   "url": "https://www.amazon.in/s?k=butter+paper+roll",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Get it before Fit the Coasts: how much does a puzzle prove?."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in My Sprout Notebook: watch, draw and write for a stranger, The Size Card: report how big something looks, so anyone can check. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before My Sprout Notebook: watch, draw and write for a stranger."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in Fit the Coasts: how much does a puzzle prove?. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Get it before Fit the Coasts: how much does a puzzle prove?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

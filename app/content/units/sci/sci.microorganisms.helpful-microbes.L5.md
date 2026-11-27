@@ -1,9 +1,9 @@
 # Why food spoils, and how drying, salt, sugar and cold keep it
 `sci.microorganisms.helpful-microbes.L5`
 
-**Summary.** Honey keeps for years on a shelf, but cooked dal spoils in a day. Why? In this unit you will test how much salt stops dal water from spoiling, find out whether jaggery water can be too sweet to spoil, and play a card game on the ways families keep food.
+**Summary.** Honey keeps for years on a shelf, but cooked dal spoils in a day. Why? In this lesson you will test how much salt stops dal water from spoiling, find out whether jaggery water can be too sweet to spoil, and play a card game on the ways families keep food.
 
-**Intro.** *A jar of honey can sit on a shelf for years and never spoil. A bowl of cooked dal spoils in one day. Both are wet. So why does one keep and the other spoil?* Food spoils because microbes eat the food before we do. Microbes are living beings too small to see, such as bacteria, yeasts and moulds. They are in the air, on our hands and on every food. They grow fast in cooked dal, because dal gives them food, water and warmth. In this unit you find out what stops them. You set up five glasses of dal water with more and more salt in each, which we call the Salt Ladder. You keep thin jaggery water beside thick jaggery syrup. You dry tomato slices and weigh the water that leaves. By the end you can explain why honey keeps. You can also explain why a wet spoon must never go into the pickle.
+**Intro.** *A jar of honey can sit on a shelf for years and never spoil. A bowl of cooked dal spoils in one day. Both are wet. So why does one keep and the other spoil?* Food spoils because microbes eat the food before we do. Microbes are living beings too small to see, such as bacteria, yeasts and moulds. They are in the air, on our hands and on every food. They grow fast in cooked dal, because dal gives them food, water and warmth. In this lesson you find out what stops them. You set up five glasses of dal water with more and more salt in each, which we call the Salt Ladder. You keep thin jaggery water beside thick jaggery syrup. You dry tomato slices and weigh the water that leaves. By the end you can explain why honey keeps. You can also explain why a wet spoon must never go into the pickle.
 
 ## Learning outcomes
 0. By the end I can explain that microbes spoil food, and say what bacteria, yeasts and moulds need to grow.
@@ -30,10 +30,12 @@
 - **Fermentation**: A change that chosen microbes make in food as they eat sugar. They leave behind acid, gas or alcohol. The acid also helps to keep the food. *e.g.* Bacteria ferment milk into curd. The acid they make gives curd a sour taste and holds back other microbes.
 - **Pasteurisation**: Heating a food enough to kill most microbes, followed by fast cooling. Milk is heated to 72 degrees Celsius for 15 seconds. *e.g.* A milk packet says 'pasteurised'. The milk still has a few microbes, so the packet must stay in the fridge.
 - **Airtight**: Closed so well that air and water vapour cannot get in or out. *e.g.* Biscuits stay crisp in an airtight dabba. In an open plate they take in water from the air and go soft.
+- **Evaporation**: Water slowly turning into a gas in the air. As it does this, it takes heat from what it leaves. *e.g.* A wet cloth round a mud pot dries in the sun. The drying takes heat from the pot, so the water inside stays cool.
 - **Hurdle**: Any one thing that makes a food harder for microbes to grow in. Preserved foods often use several small hurdles together. *e.g.* Mango pickle uses four hurdles: a lot of salt, sour mango, mustard and a layer of oil that keeps air out.
 - **Preservative**: A substance added to food in a small, measured amount to slow microbes. A label lists each one by name or number. *e.g.* A squash bottle may list 'preservative (211)'. That number means sodium benzoate.
 - **Toxin**: A poison made by a living being. Some bacteria and moulds leave toxins in food, and some of these toxins stay even after the food is boiled. *e.g.* Rice left out all day can hold a toxin from bacteria. Heating the rice again kills the bacteria but may not remove the toxin.
 - **Gut microbes**: The bacteria and other microbes who live in your intestines. There are tens of trillions of them. They eat the parts of plants that you are unable to digest. *e.g.* When you eat dal, vegetables and fruit, your gut microbes ferment the fibre. They make substances that feed the cells of your gut wall.
+- **Sprouting**: A seed starting to grow, with a tiny root and shoot, after it has been soaked in water. *e.g.* Moong soaked overnight and kept in a damp cloth sprouts in a day or two.
 
 ## Explanations
 ### Why food spoils: microbes eat the food before we do · *defined*
@@ -82,10 +84,12 @@ When a spoon of curd goes into warm milk, the curd bacteria multiply fast. They 
 ### Cold, heat and sealing · *defined*
 **Definition:** Cold slows microbes down but does not kill them. Strong heat kills them. Sealing a food after heating stops new microbes from getting in.
 
-In a fridge at about 4 degrees Celsius, most bacteria split only once in many hours, so food lasts days. In a freezer at minus 18 degrees there is no liquid water and growth stops. When the food warms up, the microbes who lived through the cold grow again. Boiling kills most microbes, but the spores of some bacteria live through boiling. Pasteurised milk is heated to 72 degrees for 15 seconds, which kills most microbes and leaves the taste. Some milk is sold in cartons that keep for months without a fridge. That milk has been heated to about 140 degrees for a few seconds and packed with no microbes. Tinned food is sealed and then heated to about 121 degrees. That heat is needed because one kind of bacterium grows without air and makes a deadly toxin. A tin or packet that has swollen has gas made by microbes inside, and must be thrown away unopened. In the early 1900s the American chemist Mary Engle Pennington studied eggs, milk and chicken on the way to shops. She worked out how cold they must be kept. She also led a study of cold railway wagons for carrying food.
+In a fridge at about 4 degrees Celsius, most bacteria split only once in many hours, so food lasts days. In a freezer at minus 18 degrees there is no liquid water and growth stops. When the food warms up, the microbes who lived through the cold grow again. Boiling kills most microbes, but the spores of some bacteria live through boiling. Pasteurised milk is heated to 72 degrees for 15 seconds, which kills most microbes and leaves the taste. Some milk is sold in cartons that keep for months without a fridge. That milk has been heated to about 140 degrees for a few seconds and packed with no microbes. Tinned food is sealed and then heated to about 121 degrees. That heat is needed because one kind of bacterium grows without air and makes a deadly toxin. A tin or packet that has swollen has gas made by microbes inside, and must be thrown away unopened. In the early 1900s the American chemist Mary Engle Pennington studied eggs, milk and chicken on the way to shops. She worked out how cold they must be kept. She also led a study of cold railway wagons for carrying food. Cool food does not always need electricity. In many villages, families keep water in a mud pot called a matka. They wrap a wet cloth round the pot, or pack wet sand round it. Water dries off the cloth into the air, and as it dries it takes heat from the pot. This is called evaporation. It works best in hot, dry weather, when water dries fast. It will not freeze anything, but a cooler pot slows microbes a little, so vegetables and milk last longer than on an open shelf.
 - e.g. An unopened carton of long-life milk keeps for months on a shelf. Once opened, it needs the fridge like any milk.
 - e.g. Apples from Himachal Pradesh are kept in cold stores, so they can be sold many months after the harvest.
 - e.g. Frozen peas keep for a year, and cook like fresh ones.
+- e.g. A mud pot with a wet cloth round it keeps water and vegetables cooler than the room, on a hot dry afternoon in Rajasthan.
+- e.g. Farmers in Uttar Pradesh and West Bengal keep their potatoes in big cold stores after the harvest, so families can buy them all through the year.
 ### Hurdles: several small barriers together · *defined*
 **Definition:** A hurdle is anything that makes a food harder for microbes to grow in. Many preserved foods use several hurdles at once, even though each one on its own would be too weak to keep the food safe.
 
@@ -110,10 +114,11 @@ The microbes that make food smell bad are often not the ones that make people il
 ### Helpful microbes in your gut · *defined*
 **Definition:** Tens of trillions of bacteria live in your large intestine. They digest parts of food that you are unable to digest, and they make some vitamins. They also take up space that harmful microbes would otherwise use.
 
-Your own enzymes are unable to break down most plant fibre. Your gut microbes ferment the fibre. As they do, they make small molecules that feed the cells of your gut wall. They also make vitamin K and some B vitamins. A person carries about as many bacteria as they have cells of their own. A gut with many kinds of microbes is usually a sign of good health. One large study looked at more than 10,000 people. Those who ate 30 or more kinds of plants in a week had more kinds of gut microbes. Those who ate fewer than 10 kinds had fewer. After an upset stomach or a course of antibiotics, the gut microbes take time to return to their usual numbers.
+Your own enzymes are unable to break down most plant fibre. Your gut microbes ferment the fibre. As they do, they make small molecules that feed the cells of your gut wall. They also make vitamin K and some B vitamins. A person carries about as many bacteria as they have cells of their own. A gut with many kinds of microbes is usually a sign of good health. One large study looked at more than 10,000 people. Those who ate 30 or more kinds of plants in a week had more kinds of gut microbes. Those who ate fewer than 10 kinds had fewer. After an upset stomach or a course of antibiotics, the gut microbes take time to return to their usual numbers. You can add more kinds of plants to your week in small ways. Soak whole moong or chana overnight, drain them, and keep them in a damp cloth. In a day or two the seeds sprout, and you have one more plant food for your salad or chaat. Sprouts grow in the same warm, wet place that microbes like, so rinse them well, and cook them lightly if they have sat for long. Curd or buttermilk with lunch is another easy change. Scientists are still testing what it does for the gut, as the next card shows.
 - e.g. A meal of rice, sambar and a vegetable poriyal can hold eight or more kinds of plants.
 - e.g. Babies are born with almost no gut microbes. They collect them from their mother, from milk and from the world around them.
 - e.g. Outside the body, soil bacteria and fungi do the same work on fallen leaves and peels. They turn them into food for plants.
+- e.g. A bowl of moong sprouts, grown in a damp cloth on the kitchen shelf, counts as one more kind of plant in the week.
 ### Do fermented foods and probiotics change your gut microbes? · *debated*
 **Definition:** Curd, buttermilk, kanji and other fermented foods hold living bacteria. Scientists agree these foods are safe and nourishing. They disagree about whether the bacteria in them settle in the gut and change a person's health.
 
@@ -184,7 +189,7 @@ We have tested how salt and sugar stop microbes, and learned how people keep foo
 
 Every living being, from a yeast cell to you, is mostly water and must take in free water to grow. All life shares this need, because all life descends from the same first cells, who lived in water. So one rule explains many kitchens. Avakaya in Andhra Pradesh, dried fish in Kerala and murabba in Uttar Pradesh all keep free water from microbes. People who never met each other found the same answer. They were all dealing with the same living beings and the same need.
 
-- **Taittiriya Upanishad 2.2:** “अन्नाद्वै प्रजाः प्रजायन्ते / याः काश्च पृथिवीँ श्रिताः / अथो अन्नेनैव जीवन्ति / अथैनदपि यन्त्यन्ततः” From food all beings are born. By food they live, and into food they pass when they die. (A mango that we do not eat is eaten by moulds and bacteria. The mango returns to the soil as food for plants. In this unit's science too, everything alive is food for someone.)
+- **Taittiriya Upanishad 2.2:** “अन्नाद्वै प्रजाः प्रजायन्ते / याः काश्च पृथिवीँ श्रिताः / अथो अन्नेनैव जीवन्ति / अथैनदपि यन्त्यन्ततः” From food all beings are born. By food they live, and into food they pass when they die. (A mango that we do not eat is eaten by moulds and bacteria. The mango returns to the soil as food for plants. In this lesson's science too, everything alive is food for someone.)
 - **Digha Nikaya 16, the Mahaparinibbana Sutta (the Buddha's last words):** “handa dāni, bhikkhave, āmantayāmi vo, / vayadhammā saṅkhārā appamādena sampādethā.” All things that have been put together come apart. Carry on your work with care. (Preserving slows spoiling but never ends it. Honey keeps for years, yet spoils once water gets in. A cook who keeps food well is working carefully with that fact.)
 - Science (settled): All known life needs liquid water to grow. No living being has been found growing where the measure of free water is below about 0.6.
 - Science (debated): Whether the living bacteria in fermented foods settle in a person's gut for long is still being tested.
@@ -613,9 +618,9 @@ Washed is not the same as dry.
   - Wait: Leave both cloths for one hour
 
 ## Worksheets
-### Why food spoils and how we keep it (core, 15 questions)
+### Why food spoils and how we keep it (core, 16 questions)
 1. (mcq) What makes food spoil?  
-   Options: Air touching the food / Microbes growing in the food / The food simply getting old / The food being kept in the dark  
+   Options: Microbes growing in the food / Air touching the food / The food simply getting old / The food being kept in the dark  
    **Answer:** Microbes growing in the food. *Why:* Bacteria, yeasts and moulds eat the food and multiply. Air alone does not spoil food, and food does not go bad just by being old: dry rice keeps for years.
 2. (fill) Bacteria, yeasts and moulds are all ____: living beings too small to see.  
    **Answer:** ['microbes']. *Why:* Microbe is the word for any living being too small to see without a microscope.
@@ -626,14 +631,14 @@ Washed is not the same as dry.
 5. (match) Match each way of keeping food to what it does to microbes.  
    **Answer:** Drying → Removes the water they need; A lot of salt → Holds the water so they get none; The fridge → Slows their growth; Boiling → Kills most of them; A layer of oil → Keeps air away from moulds. *Why:* Each method takes away one thing microbes need, or kills them. Drying and salt take away free water, cold takes away warmth, oil takes away air, and boiling kills.
 6. (mcq) Thick jaggery syrup has more sugar than thin jaggery water. Why does the thick syrup keep better?  
-   Options: Sugar is a poison for yeasts / Thick syrup is colder / The sugar holds the water / Yeasts dislike the dark colour  
+   Options: The sugar holds the water / Sugar is a poison for yeasts / Thick syrup is colder / Yeasts dislike the dark colour  
    **Answer:** The sugar holds the water. *Why:* Sugar holds on to water. In thick syrup almost no water is free, so yeasts lose water and stop growing. Sugar does not poison them: thin sugar water is their food.
 7. (order) Put these foods in order, from the one that spoils fastest on a shelf to the one that keeps longest.  
    **Answer:** ['Cooked dal', 'Bread', 'Opened jam', 'Raw rice']. *Why:* Cooked dal is wet and warm and spoils in a day. Bread has free water and grows mould in about a week. Jam is held by sugar for weeks. Dry rice keeps for a year or more.
 8. (truefalse) Freezing kills all the microbes in food.  
    **Answer:** False. *Why:* False. Freezing stops microbes from growing, because there is no liquid water. Most are still alive, and grow again when the food warms up.
 9. (mcq) Which of these changes is caused by microbes?  
-   Options: A cut apple going brown / A biscuit going soft / Bread growing green fuzz / Honey turning grainy  
+   Options: A cut apple going brown / A biscuit going soft / Honey turning grainy / Bread growing green fuzz  
    **Answer:** Bread growing green fuzz. *Why:* Green fuzz is a mould growing. A cut apple browns by reacting with air, and a biscuit softens by taking in water. Honey turns grainy as sugar forms crystals.
 10. (fill) Curd bacteria turn milk sugar into an ____, which makes curd sour.  
    **Answer:** ['acid', 'lactic acid']. *Why:* The acid is lactic acid. The acid sets the milk and makes the curd sour. Most other microbes grow poorly in that acid.
@@ -646,17 +651,19 @@ Washed is not the same as dry.
 14. (perspective) A lemon has grown blue-green mould. Is the lemon spoiled?  
    **Answer:** Any view with a reason from the unit. The cook is right that the lemon is unsafe for people. The mould is doing what every living being does, which is to eat and grow. The gardener points out that where the lemon is changes what we call it.. *Why:* Each view is true from where it stands. A strong answer keeps two things apart: whether the lemon is safe for us to eat, and whether something has gone wrong in nature.
 15. (mcq) A sealed tin of food has swollen ends. What should be done with the tin?  
-   Options: Open it and smell the food / Boil the food and eat it / Throw it away unopened / Put it in the fridge  
+   Options: Throw it away unopened / Open it and smell the food / Boil the food and eat it / Put it in the fridge  
    **Answer:** Throw it away unopened. *Why:* Gas from bacteria that grow without air has swollen the tin. They can make a deadly toxin that tasting or boiling at home will not make safe.
-### Amounts, hurdles and reasons (stretch, 15 questions)
+16. (order) Put the steps for growing moong sprouts at home in order.  
+   **Answer:** ['Soak the moong in water overnight', 'Drain the water from the moong', 'Keep the soaked moong in a damp cloth for a day or two', 'Rinse the sprouts well, and cook them lightly if they sat long']. *Why:* A seed needs water to wake up, then damp air to grow. The warm, wet cloth also suits microbes, so the last step keeps the sprouts safe.
+### Amounts, hurdles and reasons (stretch, 16 questions)
 1. (mcq) With no salt or a quarter teaspoon, dal water spoiled. With 2 teaspoons it kept. What does this show?  
-   Options: Any amount of salt stops spoiling / Salt works only in large amounts / Salt makes food spoil faster / Salt has no effect on microbes  
+   Options: Any amount of salt stops spoiling / Salt makes food spoil faster / Salt has no effect on microbes / Salt works only in large amounts  
    **Answer:** Salt works only in large amounts. *Why:* A small amount of salt made no difference, and a large amount stopped the spoiling. So salt preserves only above a certain strength.
 2. (mcq) Honey is one-sixth water. Bread is over one-third water. Why does only the bread go mouldy?  
-   Options: Bread has more free water / Honey is kept colder / Bread has more sugar / No spores ever land on honey  
+   Options: Honey is kept colder / Bread has more sugar / No spores ever land on honey / Bread has more free water  
    **Answer:** Bread has more free water. *Why:* What matters is free water. In honey the sugar holds nearly all the water. In bread much of the water is free for moulds to use.
 3. (mcq) Why do moulds not grow under the oil in a pickle jar?  
-   Options: Oil is too cold for them / Oil is a strong acid / Moulds are afraid of oil / Moulds need air, and oil keeps air out  
+   Options: Moulds need air, and oil keeps air out / Oil is too cold for them / Oil is a strong acid / Moulds are afraid of oil  
    **Answer:** Moulds need air, and oil keeps air out. *Why:* Moulds must have air. The oil keeps air away from the pickle. Pieces that stick out above the oil can grow mould.
 4. (truefalse) No living microbes are left on dried food.  
    **Answer:** False. *Why:* False. Drying stops microbes from growing but does not kill them all. Many wait as spores, and grow if the food gets damp.
@@ -683,18 +690,20 @@ Washed is not the same as dry.
    **Answer:** ['Minus 18 degrees (freezer): they stop growing but most stay alive', '4 degrees (fridge): they grow slowly', '30 degrees (kitchen): they multiply fast', '72 degrees (pasteurising): most are killed']. *Why:* Cold slows and then stops growth without killing. Kitchen warmth is where spoiling microbes grow fastest. Strong heat kills most of them.
 15. (fill) Water moving out of a microbe's cell into salty water is called ____.  
    **Answer:** ['osmosis']. *Why:* In osmosis, water passes through the cell's thin skin. The water moves towards the side with more salt or sugar dissolved.
-### Testing ideas about keeping food (challenge, 15 questions)
+16. (fill) A wet cloth round a mud pot keeps the water inside cool, because the water drying off the cloth takes ____ from the pot.  
+   **Answer:** heat. *Why:* When water dries into the air, it takes heat from what it leaves. This is evaporation. The pot loses heat, so it is cooler than the room.
+### Testing ideas about keeping food (challenge, 16 questions)
 1. (mcq) Cooked rice sat out all day and was then fried until very hot. Is the rice safe now?  
-   Options: Yes, heat destroys everything harmful / Not always: some toxins survive heat / Yes, as long as it smells fine / Yes, rice never causes illness  
+   Options: Yes, heat destroys everything harmful / Yes, as long as it smells fine / Not always: some toxins survive heat / Yes, rice never causes illness  
    **Answer:** Not always: some toxins survive heat. *Why:* Frying kills the bacteria, but some bacteria leave toxins in the rice that heat does not destroy. Smell is no guide, because this rice can smell normal.
 2. (mcq) Hot countries use more spices. Does this prove that spices are used to stop food spoiling?  
-   Options: Yes, the pattern proves it / No, other reasons could explain the pattern / No, spices never affect microbes / Yes, because spices taste strong  
+   Options: No, other reasons could explain the pattern / Yes, the pattern proves it / No, spices never affect microbes / Yes, because spices taste strong  
    **Answer:** No, other reasons could explain the pattern. *Why:* Two things going together does not show that one causes the other. Hot countries also grow more spice plants, for example. A later study found that spice use does not match the risk of illness from food.
 3. (mcq) A test compares salt, lemon juice and drying as ways to keep carrot. Which jar is still needed?  
    Options: A jar of plain carrot / A jar with all three together / A jar of plain water / A second jar with salt  
    **Answer:** A jar of plain carrot. *Why:* Without a plain jar, there is nothing to compare with. Nobody would know how fast the carrot spoils when nothing is done to it.
 4. (mcq) Which finding shows that air alone does not spoil food?  
-   Options: Food in open bowls spoiled / Salted fish kept for months / Sealed tins with no air inside spoiled / Dry rice kept for a year  
+   Options: Food in open bowls spoiled / Salted fish kept for months / Dry rice kept for a year / Sealed tins with no air inside spoiled  
    **Answer:** Sealed tins with no air inside spoiled. *Why:* If air were the cause, a tin with no air could never spoil. Bacteria that survived weak heating spoiled such tins from inside.
 5. (truefalse) If food looks and smells normal, it is always safe to eat.  
    **Answer:** False. *Why:* False. Some harmful bacteria reach dangerous numbers, or leave toxins, without changing the look or smell of the food.
@@ -718,6 +727,8 @@ Washed is not the same as dry.
    **Answer:** Any view with a reason from the unit. One reason is that dry foods have a strong hurdle and change slowly. Another is that wet foods can be unsafe with no sign.. *Why:* A strong answer says that the right choice depends on the kind of food and its hurdles. It uses one example of each.
 15. (draw) Draw a yeast cell in thin jaggery water and one in thick syrup. Show with arrows how water moves.  
    **Answer:** In thin jaggery water the cell is plump, and arrows show water moving in. In thick syrup the cell is shrunken, and arrows show water moving out of the cell into the syrup.. *Why:* A strong drawing shows the direction of the water and the change in the cell's size. It labels which side has more sugar.
+16. (write) A cold store costs a lot to run. Your village has none. Suggest one way to keep vegetables cooler, and say how it works.  
+   **Answer:** A mud pot with wet cloth or wet sand round it. Water dries off the cloth and takes heat with it, so the inside is cooler. Cooler food lets microbes grow more slowly.. *Why:* A strong answer names the wet cloth or wet sand, says that drying water takes heat away, and says that cold slows microbes. It may add that this works best in hot, dry weather.
 
 ## Videos
 - **Time - lapse of Mold Growing on Bread** (MooMooMath and Science, 3 min) id `YeuI30NQJwo`: To see mould threads spread across food, which takes too long to watch at home. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
@@ -726,25 +737,25 @@ Washed is not the same as dry.
 
 ## Quiz
 1. (mcq) Which three kinds of microbes most often spoil food?  
-   Options: Bacteria, yeasts and moulds / Ants, flies and cockroaches / Dust, air and light / Salt, sugar and acid  
+   Options: Ants, flies and cockroaches / Bacteria, yeasts and moulds / Dust, air and light / Salt, sugar and acid  
    **Answer:** Bacteria, yeasts and moulds. *Why:* Bacteria, yeasts and moulds are the microbes that eat food and multiply there. Flies and ants are animals we can see, and they are not what makes dal froth or bread grow fuzz.
 2. (mcq) Which of these do spoiling microbes need in order to grow?  
    Options: Darkness / Free water / A lot of salt / Freezing cold  
    **Answer:** Free water. *Why:* Microbes can grow only where there is water they can take in. Salt and cold both hold them back, and light makes little difference.
 3. (mcq) How does drying keep food?  
-   Options: It kills every microbe / It adds sunlight to the food / It leaves too little water for microbes / It makes the food sour  
+   Options: It leaves too little water for microbes / It kills every microbe / It adds sunlight to the food / It makes the food sour  
    **Answer:** It leaves too little water for microbes. *Why:* Dried food has too little free water for microbes to grow. Many microbes are still on the food, waiting. That is why dried food must stay dry.
 4. (mcq) Why does pickle have to be very salty?  
    Options: Salt works only in large amounts / Salt adds colour / People like the taste / Salt makes mango softer  
    **Answer:** Salt works only in large amounts. *Why:* A little salt leaves plenty of free water for microbes. Only a lot of salt holds enough of the water to stop them.
 5. (mcq) What does a fridge do to most microbes in food?  
-   Options: Kills them / Slows them down / Removes them / Turns them into spores  
+   Options: Kills them / Removes them / Slows them down / Turns them into spores  
    **Answer:** Slows them down. *Why:* Cold slows the growth of microbes. They are still alive, so food from the fridge spoils once it is left warm.
 6. (mcq) Jam and murabba keep for months because they are:  
-   Options: More than half sugar / Brightly coloured / Made from fruit / Kept in glass  
+   Options: Brightly coloured / Made from fruit / Kept in glass / More than half sugar  
    **Answer:** More than half sugar. *Why:* At that strength the sugar holds the water, so microbes get almost none. Fruit alone spoils quickly, and glass does nothing without the sugar.
 7. (mcq) Idli batter has risen overnight and smells a little sour. The batter is:  
-   Options: Spoiled / Fermented / Only changed by air / Dried  
+   Options: Spoiled / Only changed by air / Dried / Fermented  
    **Answer:** Fermented. *Why:* Bacteria and yeasts that we wanted have made gas and acid in the batter. That is fermentation. Spoiling is the work of microbes nobody chose.
 8. (mcq) A crisp biscuit left out overnight now bends. What happened to the biscuit?  
    Options: Microbes ate part of the biscuit / It took in water from the air / It lost its sugar / The air cooled it  
@@ -753,14 +764,26 @@ Washed is not the same as dry.
    Options: Curd is thicker / Curd is whiter / Curd bacteria made acid / Curd has no bacteria  
    **Answer:** Curd bacteria made acid. *Why:* Curd is full of living bacteria. The acid they made holds back most other microbes.
 10. (mcq) What do your gut microbes eat that your own body is unable to digest?  
-   Options: Sugar / Plant fibre / Water / Salt  
+   Options: Plant fibre / Sugar / Water / Salt  
    **Answer:** Plant fibre. *Why:* Your enzymes do not break down most fibre, so it reaches the large intestine. Gut microbes ferment the fibre, and what they make feeds your gut wall.
 11. (mcq) In a fair test of how much salt keeps food, what is the one thing that changes?  
-   Options: The kind of food / The size of the glass / The amount of salt / The place the glasses stand  
+   Options: The kind of food / The size of the glass / The place the glasses stand / The amount of salt  
    **Answer:** The amount of salt. *Why:* Only the amount of salt changes. If the food, the glass or the place also changed, nobody could tell which one caused the result.
 12. (mcq) What are scientists still unsure of about curd and other fermented foods?  
-   Options: Whether they hold living bacteria / Whether their bacteria settle in the gut / Whether they are safe to eat / Whether bacteria make them sour  
+   Options: Whether they hold living bacteria / Whether they are safe to eat / Whether their bacteria settle in the gut / Whether bacteria make them sour  
    **Answer:** Whether their bacteria settle in the gut. *Why:* Fermented foods are safe and do hold living bacteria. What is still being tested is whether those bacteria stay in the gut and change a person's health.
+13. (mcq) Where would a mud pot with a wet cloth round it keep water coolest?  
+   Options: In hot, dry air on a summer afternoon in Rajasthan / In damp air on the Kerala coast during the monsoon / Inside a closed steel cupboard  
+   **Answer:** In hot, dry air on a summer afternoon in Rajasthan. *Why:* The cloth cools the pot as water dries off it. In hot, dry air the water dries fast and takes away more heat. In damp air it dries slowly, and in a closed cupboard it hardly dries at all.
+14. (mcq) Farmers dig potatoes in February. How does a cold store help families eat them in August?  
+   Options: Cold kills every microbe on the potatoes / Cold slows the microbes that would rot the potatoes / Cold turns the potatoes into dry flour  
+   **Answer:** Cold slows the microbes that would rot the potatoes. *Why:* Cold slows microbes but does not kill them. The potatoes rot far more slowly, so they last for months. Once they come out into warm air, microbes speed up again.
+15. (mcq) Priya soaks moong overnight and keeps it in a damp cloth for two days. Why should she rinse the sprouts well?  
+   Options: The warm, wet cloth is also a good home for microbes / Sprouts are poisonous until they are rinsed / Rinsing makes the sprouts grow taller  
+   **Answer:** The warm, wet cloth is also a good home for microbes. *Why:* Warmth and water are what microbes need too. So a damp cloth that helps a seed sprout can also help harmful microbes grow. Rinsing, and light cooking, makes sprouts safer.
+16. (mcq) A family eats rice, dal and one vegetable every day. Which small change adds the most kinds of plants to their week?  
+   Options: Sprouting moong, and using a different vegetable each day / Eating the same vegetable, but twice as much / Drinking a probiotic drink instead of lunch  
+   **Answer:** Sprouting moong, and using a different vegetable each day. *Why:* The large study on gut microbes counted kinds of plants, not amounts. A new sprout and a new vegetable each day are new kinds. More of the same vegetable adds none, and a drink is not a plant meal.
 
 ## Applications
 - Long-life milk in cartons is heated to about 140 degrees Celsius for a few seconds and packed with no microbes. It keeps for months without a fridge until it is opened.
@@ -773,14 +796,14 @@ Washed is not the same as dry.
 - Food for astronauts and for soldiers on mountains is dried, or heated in sealed pouches. It keeps for a year or more without a fridge.
 
 ## Spotted around us
-- White vadam and vathal drying on cloths on terraces in Tamil Nadu in March and April.
-- Red chillies spread to dry across open ground near Guntur in Andhra Pradesh and Byadgi in Karnataka.
-- Fish drying on racks and on the sand along the beaches of Kerala, Konkan and Odisha.
+- White vadam and vathal drying on cloths on terraces in March and April.
+- Red chillies spread to dry across open ground.
+- Fish drying on racks and on the sand along a beach.
 - Tall ceramic pickle jars with cloth tied over their mouths, standing in the sun on a balcony.
 - The words 'pasteurised' on a milk packet and 'best before' on almost every food packet.
 - A small white sachet marked 'do not eat' inside a packet of snacks or a new pair of shoes.
 - Strings of dried brinjal, gourd and turnip hanging from windows in Kashmir in autumn.
-- Racks of meat and fish above the kitchen fire in homes in Nagaland.
+- Racks of meat and fish drying above a kitchen fire.
 
 ## Open questions
 - **Do the living bacteria in fermented foods settle in our gut, and does that change our health?** The studies so far are small and short. In some people swallowed bacteria settle, and in others they pass straight through, and nobody yet knows why.
@@ -831,6 +854,12 @@ The Smallest Neighbours (sci.microorganisms.L5): Topic-level song
 
 ## Things to buy
 - [A small digital kitchen scale](https://www.amazon.in/s?k=digital+kitchen+scale) (tool): For weighing the tomato slices in Sun-Dried Tomato. It is not needed: a hanger balance and a 5 ml medicine spoon do the same job. Used in e3. 
+- [Insulated wire or crocodile clips](https://www.amazon.in/s?k=crocodile+clip+wire+set) (tool): Used in The Fly-Proof Dryer: dry faster than an open plate. About ₹20 to ₹80. Thin insulated wire from an old charger works. Used in c2. Get it before The Fly-Proof Dryer: dry faster than an open plate.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Fly-Proof Dryer: dry faster than an open plate. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c2. Get it before The Fly-Proof Dryer: dry faster than an open plate.
+- [Vinegar](https://www.amazon.in/s?k=white+vinegar) (material): Used in My Own Keeping Trial: design a test and write a report. About ₹40 to ₹80. Lemon juice works for many tests. Used in p1. Get it before My Own Keeping Trial: design a test and write a report.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Salt Ladder: how much salt stops dal water from spoiling?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1. Get it before The Salt Ladder: how much salt stops dal water from spoiling?.
+- [A measuring jug or syringe (marked in millilitres)](https://www.amazon.in/s?k=measuring+jug+500+ml) (tool): Used in The Salt Ladder: how much salt stops dal water from spoiling?. About ₹30 to ₹100. A clean medicine cup or marked bottle works. Used in e1. Get it before The Salt Ladder: how much salt stops dal water from spoiling?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name three kinds of microbes that spoil food. → Bacteria, yeasts and moulds.

@@ -1,9 +1,9 @@
 # Chance, mixing and new species: how whole populations change
 `sci.evolution.population-change.L5`
 
-**Summary.** In one forest in Odisha, many tigers have wide black stripes that almost hide the orange. Scientists have found no wild tigers like this anywhere else, and the dark coat does not seem to help them. So why is it common there? In this unit you shake beans in a steel tumbler and watch a colour take over a small group by chance alone. You find out how a few travellers keep two groups alike. You also find out how groups that stop mixing become new species.
+**Summary.** In one forest in Odisha, many tigers have wide black stripes that almost hide the orange. Scientists have found no wild tigers like this anywhere else, and the dark coat does not seem to help them. So why is it common there? In this lesson you shake beans in a steel tumbler and watch a colour take over a small group by chance alone. You find out how a few travellers keep two groups alike. You also find out how groups that stop mixing become new species.
 
-**Intro.** *Natural selection makes useful features common. But some features are common in one place and do no good at all. If nothing chose them, how did they spread?* You may already know natural selection. Members whose features suit the place leave more young, so those features spread. That is one way a population changes. This unit is about three other ways. First you draw beans from a tumbler with your eyes shut, and find out what chance does to a small group. Then you compare a group of 8 with a group of 40. You pass a narrow bottleneck, and read the real case of the black tigers of Similipal. You open a bridge between two islands of beans and send one traveller across in each round. Last, you lay out paper chromosomes and find out how the wheat in a chapati became a new species in one step.
+**Intro.** *Natural selection makes useful features common. But some features are common in one place and do no good at all. If nothing chose them, how did they spread?* You may already know natural selection. Members whose features suit the place leave more young, so those features spread. That is one way a population changes. This lesson is about three other ways. First you draw beans from a tumbler with your eyes shut, and find out what chance does to a small group. Then you compare a group of 8 with a group of 40. You pass a narrow bottleneck, and read the real case of the black tigers of Similipal. You open a bridge between two islands of beans and send one traveller across in each round. Last, you lay out paper chromosomes and find out how the wheat in a chapati became a new species in one step.
 
 ## Learning outcomes
 0. By the end I can explain genetic drift, using my results from the Lucky Tumbler Test.
@@ -39,7 +39,7 @@
 ### A population is counted in shares, not in single members · *defined*
 **Definition:** A population changes when the shares of its gene versions change. A share is the fraction of all the copies that are one version.
 
-One tiger never changes her stripes. So to find out how tigers change, scientists do not watch one tiger. They count the gene versions in a whole population. Think of one gene with two versions. Count every copy of that gene in the population, and find what fraction is each version. Those fractions are the shares. If the shares are the same in the next generation, the population has not changed for that gene. If the shares have moved, the population has evolved a little. In 1908 the English mathematician G. H. Hardy and the German doctor Wilhelm Weinberg each showed something important. The shares stay the same if four things hold. The population is very large. No version helps survival. Nobody arrives or leaves. No new mutation appears. Real populations break these rules all the time, so real shares keep moving. This unit is about what moves them.
+One tiger never changes her stripes. So to find out how tigers change, scientists do not watch one tiger. They count the gene versions in a whole population. Think of one gene with two versions. Count every copy of that gene in the population, and find what fraction is each version. Those fractions are the shares. If the shares are the same in the next generation, the population has not changed for that gene. If the shares have moved, the population has evolved a little. In 1908 the English mathematician G. H. Hardy and the German doctor Wilhelm Weinberg each showed something important. The shares stay the same if four things hold. The population is very large. No version helps survival. Nobody arrives or leaves. No new mutation appears. Real populations break these rules all the time, so real shares keep moving. This lesson is about what moves them.
 - e.g. In the Lucky Tumbler Test, you begin with 4 dark beans and 4 pale beans. The share of dark is 4 out of 8, which is one half.
 - e.g. Among 12 tigers tested in Similipal, 58 of every 100 copies of the stripe gene were the wide-stripe version. Among 395 wild tigers from other forests, none were.
 - e.g. A population can change a great deal in shares while looking the same from outside. Many gene versions change nothing that we can see.
@@ -203,7 +203,7 @@ We have learned how chance, mixing and separation change whole populations. Now 
 
 All living beings come from one beginning. That one line became millions of species in a plain way: populations stopped mixing, and each went on changing separately. So the many kinds of life are one family whose branches lost touch with each other. Inside each species the mixing still goes on, and it shares every new version among the members. Much of that mixing is chosen. A young tiger decides to leave and walk, and a firefly decides which flash to answer.
 
-- **Zhuangzi, chapter 4 (the oak at the village shrine):** “散木也！以爲舟則沈，以爲棺槨則速腐，以爲器則速毀，以爲門戶則液樠，以爲柱則蠹，是不材之木也，无所可用，故能若是之壽。” A carpenter passes a huge old oak and calls the oak useless, because the wood is good for nothing. That night the oak speaks to him in a dream. The fruit trees are stripped and broken because they are useful, says the oak. Being useless is what let me grow old. (The carpenter judged the oak by what the wood could do for him. This unit's science shows that a feature needs no use to be there. 'What is it for?' is our question, and nature does not always have an answer to it.)
+- **Zhuangzi, chapter 4 (the oak at the village shrine):** “散木也！以爲舟則沈，以爲棺槨則速腐，以爲器則速毀，以爲門戶則液樠，以爲柱則蠹，是不材之木也，无所可用，故能若是之壽。” A carpenter passes a huge old oak and calls the oak useless, because the wood is good for nothing. That night the oak speaks to him in a dream. The fruit trees are stripped and broken because they are useful, says the oak. Being useless is what let me grow old. (The carpenter judged the oak by what the wood could do for him. This lesson's science shows that a feature needs no use to be there. 'What is it for?' is our question, and nature does not always have an answer to it.)
 - **Charles Darwin, On the Origin of Species (1859), chapter 2:** Darwin wrote that he looked at the term species as one arbitrarily given, for the sake of convenience, to a set of individuals closely resembling each other. (Species form slowly, as populations stop mixing. So at any moment some groups are part of the way, like the apple flies and the hawthorn flies. The sharp line is in our word more than in the living beings.)
 - **Milindapanha, Book 2, chapter 1 (the chariot):** The monk Nagasena asks King Milinda whether the axle is the chariot, or the wheels, or the pole. The king says no each time. 'Chariot', they agree, is a name for the parts working together. (No single tiger is 'the tiger', and no single gene is. A species is a name for members who keep breeding together. When they stop, the name stops fitting.)
 - Science (settled): Chance alone changes the shares of gene versions in a population, and does so fastest in small populations.
@@ -579,7 +579,7 @@ The next morning the canoe took her back across. The tea-coloured cat rode as fa
 ## Worksheets
 ### Chance in Small Groups (core) (core, 15 questions)
 1. (mcq) What is genetic drift?  
-   Options: A change in shares caused by chance / A change caused by a useful feature / Animals moving to a new place / A copying mistake in DNA  
+   Options: A change caused by a useful feature / Animals moving to a new place / A change in shares caused by chance / A copying mistake in DNA  
    **Answer:** A change in shares caused by chance. *Why:* Drift is change by chance alone. A useful feature spreading is natural selection, moving is gene flow, and a copying mistake is a mutation.
 2. (fill) When every member of a population has the same gene version, that version is said to be ____.  
    **Answer:** ['fixed']. *Why:* A fixed version has a share of the whole population. The other versions of that gene are lost.
@@ -597,14 +597,14 @@ The next morning the canoe took her back across. The tea-coloured cat rode as fa
 8. (truefalse) True or false: after a bottleneck, the lost gene versions come back once the numbers recover.  
    **Answer:** False. *Why:* False. The new population descends only from the survivors. A lost version can return only by a new mutation or with a migrant.
 9. (mcq) Forty seeds of five kinds pass a bottleneck of five survivors. Which kind is most likely to be lost?  
-   Options: The rarest kind / The most common kind / The largest kind / The darkest kind  
+   Options: The most common kind / The largest kind / The rarest kind / The darkest kind  
    **Answer:** The rarest kind. *Why:* With only 2 seeds among 40, the rarest kind is seldom among 5 picked by chance. Size and colour play no part when the picking is blind.
 10. (draw) Two islands of 8 beans both start with 4 dark. Draw a line chart of how their dark counts might change.  
    **Answer:** Two wobbly lines that both start at 4 and go different ways. A line that reaches 0 or 8 stays flat from there on.. *Why:* A strong drawing shows the lines wandering differently, and shows that a line cannot leave 0 or 8.
 11. (sort) Sort these cases: was the change caused by chance, or by natural selection?  
    **Answer:** An island of 8 beans goes all dark in a blind draw → Chance; Pale beans are caught first on a dark cloth → Natural selection; Seals descended from 20 survivors have little variety → Chance; Bacteria that survive a medicine multiply → Natural selection; Bent tails are common where three cats began a population → Chance; Finches with deep beaks survive a drought of hard seeds → Natural selection. *Why:* In selection the feature itself changes who has young. In drift the feature makes no difference, and the group is small.
 12. (mcq) Northern elephant seals number over 200,000. Why does their DNA have so little variety?  
-   Options: All descend from about 20 survivors / Seals do not have mutations / The sea is the same everywhere / They are all the same age  
+   Options: Seals do not have mutations / The sea is the same everywhere / All descend from about 20 survivors / They are all the same age  
    **Answer:** All descend from about 20 survivors. *Why:* Hunting cut the seals to about 20. Those few carried only part of the old variety, and everyone since has inherited from them.
 13. (write) Why does chance change a group of 40 more slowly than a group of 8?  
    **Answer:** In a group of 40, twenty members become parents. A few lucky ones of one colour are balanced by lucky ones of the other colour, so the share moves little. In a group of 8, only four become parents, and one lucky bean moves the share a long way.. *Why:* A strong answer compares the size of the sample that becomes the parents, and says that luck cancels out in a big sample.
@@ -615,7 +615,7 @@ The next morning the canoe took her back across. The tea-coloured cat rode as fa
    **Answer:** Find a herd where some have the feature and some do not. Count how many young each kind raises, or how many survive, over several years. If those with the feature do no better, the feature may be common by chance.. *Why:* A strong answer asks for a count of survival or young, and says that being common is not evidence of being useful.
 ### Gene Flow and New Species (stretch) (stretch, 15 questions)
 1. (mcq) What is gene flow?  
-   Options: Gene versions moving between populations / Genes changing by copying mistakes / Genes being lost in a small group / Blood moving round the body  
+   Options: Genes changing by copying mistakes / Genes being lost in a small group / Gene versions moving between populations / Blood moving round the body  
    **Answer:** Gene versions moving between populations. *Why:* Gene flow happens when a member moves to another population and has young there. Copying mistakes are mutations, and loss in a small group is drift.
 2. (truefalse) True or false: a tiger who walks to a new forest but has no cubs there has moved genes.  
    **Answer:** False. *Why:* False. Gene versions arrive in the new population only when the traveller has young there.
@@ -633,7 +633,7 @@ The next morning the canoe took her back across. The tea-coloured cat rode as fa
 8. (order) Put these steps in order, to show how one species becomes two.  
    **Answer:** ['One population exchanges genes freely', 'A barrier stops the gene flow', 'Each group changes in different ways', 'The two groups can no longer breed together']. *Why:* Gene flow must stop first. Then separate mutations, drift and selection build up differences, until breeding together fails.
 9. (mcq) A mule has 63 chromosomes. Why can a mule not have young?  
-   Options: An odd number cannot be shared out evenly / 63 is too many for any animal / Mules do not live long enough / Mules never meet other mules  
+   Options: 63 is too many for any animal / Mules do not live long enough / An odd number cannot be shared out evenly / Mules never meet other mules  
    **Answer:** An odd number cannot be shared out evenly. *Why:* To make egg or sperm cells, chromosomes must pair up and separate. With 63, one is always left without a partner, so the cells do not get full sets.
 10. (draw) Draw two forests with a highway between them. Add two different ways for animals to cross.  
    **Answer:** For example: the road raised on pillars so animals walk beneath, and a bridge of ropes or branches above the road for monkeys and squirrels. A tunnel for small animals also counts.. *Why:* A strong drawing shows crossings for different kinds of animal, and keeps the gap wide enough for shy ones.
@@ -642,7 +642,7 @@ The next morning the canoe took her back across. The tea-coloured cat rode as fa
 12. (truefalse) True or false: gene flow makes two populations more different from each other.  
    **Answer:** False. *Why:* False. Gene flow carries each population's versions into the other, so they become more alike. Drift and separate selection make them more different.
 13. (mcq) Eight pumas from Texas were released among the last Florida panthers. What did the pumas bring?  
-   Options: Gene versions the panthers had lost / A new kind of food / A new mutation / Stronger muscles  
+   Options: A new kind of food / A new mutation / Gene versions the panthers had lost / Stronger muscles  
    **Answer:** Gene versions the panthers had lost. *Why:* The small panther population had lost much of its variety through drift and inbreeding. The pumas' young carried versions from a larger population.
 14. (write) A new highway with no crossings cuts a forest in two. Predict what happens to the animals' genes over 100 years.  
    **Answer:** Each half is now a smaller population, so drift is faster. Each side loses some gene versions, and the two sides lose different ones. The two halves become less varied inside and more different from each other. Inbreeding may rise.. *Why:* A strong answer says that the halves are smaller, that drift speeds up, and that the two sides grow apart.
@@ -651,7 +651,7 @@ The next morning the canoe took her back across. The tea-coloured cat rode as fa
    **Answer:** 2. *Why:* A corridor joins two wild places and lets animals move between them. The other three keep populations apart.
 ### Doubled Chromosomes, Chance Against Selection, and One Human Species (challenge) (challenge, 15 questions)
 1. (mcq) Bread wheat has 42 chromosomes, in sets of 7. How many sets is that?  
-   Options: Six / Two / Four / Seven  
+   Options: Two / Six / Four / Seven  
    **Answer:** Six. *Why:* 42 ÷ 7 = 6. The six sets came from three wild grasses, two sets from each.
 2. (write) Explain why a hybrid of two plant species often sets no seed.  
    **Answer:** The hybrid has one set of chromosomes from each parent, and the two sets do not match. To make pollen and eggs, chromosomes must pair with exact partners. With no partners, they are shared out unevenly, so most pollen and egg cells lack some instructions.. *Why:* A strong answer says that the chromosomes cannot pair, and links pairing to making working pollen and eggs.
@@ -667,7 +667,7 @@ The next morning the canoe took her back across. The tea-coloured cat rode as fa
 7. (perspective) Two scientists disagree about what has shaped most of the DNA differences between species.  
    **Answer:** A strong answer gives evidence for each. Changes that leave a protein the same pile up fastest, which fits chance. But beaks and wings clearly fit their uses, which only selection explains. It may say each is right about a different kind of change.. *Why:* Both are partly right. Selection explains features that fit a way of life. For DNA letters, scientists still argue over the shares of chance and selection.
 8. (mcq) Tomoko Ohta studied very slightly harmful gene versions. In which population can such a version spread?  
-   Options: A small one, where drift is strong / A huge one, where selection is strong / Any, at the same rate / None, ever  
+   Options: A huge one, where selection is strong / A small one, where drift is strong / Any, at the same rate / None, ever  
    **Answer:** A small one, where drift is strong. *Why:* Weak selection removes a slightly harmful version from a large population. In a small population chance is stronger than such weak selection.
 9. (write) Black tigers are common in one small forest and absent elsewhere. Give two clues that point to chance rather than selection.  
    **Answer:** Any two: the population is small and cut off, which is where drift is fastest. Their DNA has little variety, a sign of a small isolated group. Scientists found no clear sign that the dark version was favoured. No wild tigers elsewhere carry the version.. *Why:* A strong answer uses the size and isolation of the population, and notes that nobody has shown dark tigers leaving more cubs.
@@ -678,7 +678,7 @@ The next morning the canoe took her back across. The tea-coloured cat rode as fa
 12. (write) Three bowls hold dark and pale beans in slightly different shares. Why can one bean not tell you the bowl?  
    **Answer:** Every bowl holds both colours. A dark bean is a little more likely to come from the bowl with more dark beans, but could easily come from any of the three. The bowls differ in shares, and one bean cannot show a share.. *Why:* A strong answer says that both colours are in every bowl, and that a share is a fact about a group and not about one member.
 13. (mcq) Apple flies and hawthorn flies live in the same countryside. What mostly keeps them apart?  
-   Options: Their fruits ripen at different times / A river between them / Different numbers of wings / They are different colours  
+   Options: A river between them / Different numbers of wings / They are different colours / Their fruits ripen at different times  
    **Answer:** Their fruits ripen at different times. *Why:* The flies mate on the fruit they use, and apples ripen weeks before hawthorn fruit. So most apple flies have finished mating before hawthorn flies come out.
 14. (order) Put the history of bread wheat in order.  
    **Answer:** ['Two wild grasses cross', "Their hybrid's chromosomes double, giving a wheat with 28", 'That wheat crosses with a wild goat grass', "The new hybrid's chromosomes double, giving 42"]. *Why:* Bread wheat was made by crossing and doubling twice. Each doubling gave a plant that could set seed with their own kind.
@@ -692,15 +692,15 @@ The next morning the canoe took her back across. The tea-coloured cat rode as fa
 
 ## Quiz
 1. (mcq) Beans are drawn blind, and neither colour is better. One colour still takes over. What is this called?  
-   Options: Genetic drift / Natural selection / Gene flow / Mutation  
+   Options: Natural selection / Genetic drift / Gene flow / Mutation  
    **Answer:** Genetic drift. *Why:* Change in shares by chance alone is genetic drift. Choosing natural selection would mean that one colour helped beans survive, and here neither did.
 2. (mcq) Why does chance change a population of 8 faster than a population of 800?  
-   Options: A small sample often differs from the whole / Small animals breed faster / Small groups have more mutations / Large groups do not have genes  
+   Options: Small animals breed faster / Small groups have more mutations / Large groups do not have genes / A small sample often differs from the whole  
    **Answer:** A small sample often differs from the whole. *Why:* With few parents, a little luck moves the shares a long way. With many parents, lucky and unlucky members nearly cancel out.
 3. (truefalse) True or false: a version lost by drift comes back by itself in a few generations.  
    **Answer:** False. *Why:* False. Once no member carries a version, nobody can pass it on. Only a new mutation or a migrant can bring it back.
 4. (mcq) A population is cut to 20 survivors and grows back to thousands. What is this event called?  
-   Options: A bottleneck / A corridor / A hybrid zone / Chromosome doubling  
+   Options: A corridor / A bottleneck / A hybrid zone / Chromosome doubling  
    **Answer:** A bottleneck. *Why:* A bottleneck squeezes a population through a few survivors. Their descendants carry only the versions those few had.
 5. (mcq) Three cats start an island population. One has a bent tail. Bent tails become common. What is the simplest cause?  
    Options: The founder effect / Bent tails help on islands / The island bends tails / The cats wished for bent tails  
@@ -714,13 +714,13 @@ The next morning the canoe took her back across. The tea-coloured cat rode as fa
 8. (truefalse) True or false: for two populations to become two species, gene flow between them must nearly stop.  
    **Answer:** True. *Why:* True. While versions keep passing between them, the two change together. Differences that block breeding build up only when they are apart.
 9. (mcq) Which of these is a barrier that acts after two animals have mated?  
-   Options: Their young cannot have young / They breed in different months / Their songs differ / A sea lies between them  
+   Options: They breed in different months / Their young cannot have young / Their songs differ / A sea lies between them  
    **Answer:** Their young cannot have young. *Why:* A mule is healthy but cannot breed, so no genes pass on. The other three stop the two from meeting or choosing each other in the first place.
 10. (mcq) How can a new plant species form in a single generation?  
-   Options: A hybrid's chromosomes double / A plant grows very tall / A seed lands on an island / A plant is watered more  
+   Options: A plant grows very tall / A seed lands on an island / A hybrid's chromosomes double / A plant is watered more  
    **Answer:** A hybrid's chromosomes double. *Why:* Doubling gives every chromosome a partner, so the plant sets seed with their own kind but not with either parent. Landing on an island starts a split that takes thousands of generations.
 11. (mcq) A feature is common in one population. What would show that the feature is useful?  
-   Options: Members with the feature raise more young / Nearly every member has the feature / The feature looks well designed / The feature is very old  
+   Options: Nearly every member has the feature / The feature looks well designed / Members with the feature raise more young / The feature is very old  
    **Answer:** Members with the feature raise more young. *Why:* Useful means leaving more young because of the feature, and that can be counted. Being common is not enough, because chance can make a feature common too.
 12. (mcq) Human populations differ mainly in what?  
    Options: The shares of gene versions / Having completely different genes / The number of chromosomes / Being different species  
@@ -742,7 +742,7 @@ The next morning the canoe took her back across. The tea-coloured cat rode as fa
 - The cats of one street or one fishing harbour often share a coat pattern, because many of them descend from the same few cats.
 - Fireflies flashing over a paddy field or a village pond in the monsoon are signalling to their own kind.
 - A highway raised on pillars through a forest, or a sign that says animals cross here, marks a place where people are keeping gene flow open.
-- A mule carrying loads on a hill path in the Himalayas or the Nilgiris is a hybrid of a horse and a donkey.
+- A mule carrying loads on a hill path is a hybrid of a horse and a donkey.
 - Crickets calling on a warm evening are singing the song of their own species. Another species nearby sings at a different speed.
 
 ## Open questions
@@ -790,14 +790,18 @@ Endless Forms (sci.evolution.L5): Topic-level song for Evolution L5
 - [HHMI BioInteractive](https://www.biointeractive.org/) · interactive: Free short films and classroom activities on populations, selection and new species.
 - [National Centre for Biological Sciences, Bengaluru](https://www.ncbs.res.in/) · interactive: The institute where Uma Ramakrishnan's team studies the genes of India's tigers. Its news pages describe the work on the black tigers of Similipal.
 - [Wildlife Institute of India](https://wii.gov.in/) · interactive: For the parent: the institute whose camera traps recorded animals using the crossings under National Highway 44 at Pench.
-- [Regional Museum of Natural History]() · place · Mysuru: Galleries on the plants and animals of South India and on conservation, good for talking about small and cut-off populations.
-- [Arignar Anna Zoological Park, Vandalur]() · place · Chennai: Look closely at the tigers: no two have the same stripes. Ask a keeper how the zoo chooses which animals to pair.
-- [Pench Tiger Reserve and the raised stretch of National Highway 44]() · place · Between Nagpur and Seoni: The highway here runs on pillars so that animals can walk beneath. You can see the crossings from a car.
+- Regional Museum of Natural History · place · Mysuru: Galleries on the plants and animals of South India and on conservation, good for talking about small and cut-off populations.
+- Arignar Anna Zoological Park, Vandalur · place · Chennai: Look closely at the tigers: no two have the same stripes. Ask a keeper how the zoo chooses which animals to pair.
+- Pench Tiger Reserve and the raised stretch of National Highway 44 · place · Between Nagpur and Seoni: The highway here runs on pillars so that animals can walk beneath. You can see the crossings from a car.
 
 ## Things to buy
 - [A permanent marker](https://www.amazon.in/s?k=permanent+marker) (tool): To colour half the beans dark, so that dark and pale beans feel exactly the same. A dark sketch pen also works. Used in e1, e2, a1, a5, a6, p1. 
 - [The Song of the Dodo, a book by David Quammen (1996)](https://www.amazon.in/s?k=The+Song+of+the+Dodo+David+Quammen) (book): For the parent: a readable account of why small, cut-off populations lose variety and die out, told through islands around the world. Used in e1, a2. Read a chapter yourself after the Lucky Tumbler Test, and tell your child one island story from it.
 - [Evolution: How We and All Living Things Came to Be, a book by Daniel Loxton (2010)](https://www.amazon.in/s?k=Evolution+How+We+and+All+Living+Things+Came+to+Be+Loxton) (book): A picture-rich book for ages 8 to 13 that answers the questions children ask about evolution. Used in e1, e2. Read it together over a week, after the two bean experiments.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Lucky Tumbler Test: when nobody chooses, do the colours stay half and half?, Sixteen Islands: repeat a famous fly experiment with beans, The Wide Crossing: build a road that animals can walk under. About ₹10 to ₹30. Any school ruler is fine. Used in e1, p1, c1. Get it before The Lucky Tumbler Test: when nobody chooses, do the colours stay half and half?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Lucky Tumbler Test: when nobody chooses, do the colours stay half and half?, The Bridge Test: can one traveller in each round keep two islands alike?, Four From Eight: does a blind handful match the whole?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1, e2, a1, a2, a5, a6, p1. Get it before The Lucky Tumbler Test: when nobody chooses, do the colours stay half and half?.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in Sixteen Islands: repeat a famous fly experiment with beans. About ₹10 to ₹30. Draw squares on plain paper. Used in p1. Get it before Sixteen Islands: repeat a famous fly experiment with beans.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is genetic drift? → A change in the shares of gene versions that happens by chance.
@@ -819,7 +823,7 @@ Endless Forms (sci.evolution.L5): Topic-level song for Evolution L5
 - Founder's SCI Card for J. B. S. Haldane (ideas/scientists.json): evolution described as changing shares of gene versions. Used in the first explanation, which counts a population in shares.
 - ideas/by_topic/evolution-the-tree-of-life.md: the statement that new species keep forming within old families, and that evolution is a branching tree. Used in the explanations of speciation and in the roots thread.
 - Combined lessons sci-C2 and sci-C4 on evolution were checked for reuse. They do not cover drift, gene flow or chromosome doubling, so the experiments, games and story here are new.
-- Other units were checked so that nothing repeats. sci.evolution.natural-selection.L5 gives the outline of one species becoming two, with the sholakili and the ring of warblers. sci.habitats.where-life-lives.L5 has a line-copying test of groups kept apart. sci.ecology.biodiversity.L5 has a coin test of small groups dying out. This unit adds inherited chance in a breeding group, bottlenecks, founders, measured gene flow, the kinds of barrier and chromosome doubling.
+- Other units were checked so that nothing repeats. sci.evolution.natural-selection.L5 gives the outline of one species becoming two, with the sholakili and the ring of warblers. sci.habitats.where-life-lives.L5 has a line-copying test of groups kept apart. sci.ecology.biodiversity.L5 has a coin test of small groups dying out. This lesson adds inherited chance in a breeding group, bottlenecks, founders, measured gene flow, the kinds of barrier and chromosome doubling.
 - Facts checked by web search on 19 Nov 2026 against: the PNAS paper and NCBS release on Similipal tigers, summaries of Buri (1956), reports of the Florida panther genetic rescue, the 2024 elephant seal genome study, Mills and Allendorf (1996), reports of Sharma and others (2013), Wildlife Institute of India reports on National Highway 44, Levy and Feldman (2022) on wheat, Flora of North America and Washington State University on Tragopogon, Knowlton and others (1993), Nakatsuka and others (2017), Xu and others (2016), and news reports of the 2024 tigress translocation.
 - Wright S. (1931). Evolution in Mendelian populations. Genetics 16: 97-159.
 - Buri P. (1956). Gene frequency in small populations of mutant Drosophila. Evolution 10: 367-402.

@@ -1,9 +1,9 @@
 # Exploring space: why a satellite never lands, and what it costs to put one up
 `sci.sky.exploring-space.L4`
 
-**Summary.** A rocket climbs only about 400 kilometres to reach the space station, yet it is as tall as a ten-storey building. Why? In this unit you will roll marbles off a table to see falling and missing, load a balloon rocket, and draw satellite orbits on the floor.
+**Summary.** A rocket climbs only about 400 kilometres to reach the space station, yet it is as tall as a ten-storey building. Why? In this lesson you will roll marbles off a table to see falling and missing, load a balloon rocket, and draw satellite orbits on the floor.
 
-**Intro.** *Throw a ball as hard as you can. It curves down and lands. Throw it harder and it lands farther away. Now think of a throw so fast that the ground curves away as quickly as the ball falls. Where does the ball land?* It never lands. That ball would circle the Earth, falling all the time and always missing. This is exactly what the space station does. In this unit you roll marbles off a table and watch speed decide where they land. You load a balloon rocket with paper clips and find out why rockets must carry fuel to lift their own fuel. You build a telescope from two lenses. You draw the orbits of satellites to scale on the floor. And you follow the 40-day journey of India's Chandrayaan-3, which went round the Earth again and again before it ever reached the Moon.
+**Intro.** *Throw a ball as hard as you can. It curves down and lands. Throw it harder and it lands farther away. Now think of a throw so fast that the ground curves away as quickly as the ball falls. Where does the ball land?* It never lands. That ball would circle the Earth, falling all the time and always missing. This is exactly what the space station does. In this lesson you roll marbles off a table and watch speed decide where they land. You load a balloon rocket with paper clips and find out why rockets must carry fuel to lift their own fuel. You build a telescope from two lenses. You draw the orbits of satellites to scale on the floor. And you follow the 40-day journey of India's Chandrayaan-3, which went round the Earth again and again before it ever reached the Moon.
 
 ## Learning outcomes
 0. I can explain that a satellite is always falling, and stays up because it moves sideways fast enough to keep missing the ground.
@@ -125,7 +125,7 @@ In 1967, countries including India signed the Outer Space Treaty. It says that n
 ### India's way: small steps and learning from mistakes · *defined*
 **Definition:** India's space agency, ISRO, builds each mission as a careful step beyond the last, and learns from failures.
 
-In 2014, India's Mangalyaan reached Mars orbit on the first try. No other country had done that. It was reported to cost about 450 crore rupees, much less than most Mars missions. Ritu Karidhal, an engineer from Lucknow, was among the team leaders. In September 2019, the lander of Chandrayaan-2 lost contact just before touching down. The orbiter stayed in good health and kept working around the Moon for years. ISRO studied what went wrong, changed the lander and its landing plan, and tried again. Chandrayaan-3 landed on 23 August 2023. Its project director was P. Veeramuthuvel, from Tamil Nadu. India was the fourth country to land on the Moon, and the first near its south pole.
+In 2014, India's Mangalyaan reached Mars orbit on the first try. No other country had done that. It was reported to cost about 450 crore rupees, much less than most Mars missions. Ritu Karidhal, an engineer from Lucknow, was among the team leaders. In September 2019, the lander of Chandrayaan-2 lost contact just before touching down. The orbiter stayed in good health and kept working around the Moon for years. ISRO studied what went wrong, changed the lander and its landing plan, and tried again. Chandrayaan-3 landed on 23 August 2023. Its project director was P. Veeramuthuvel, from Tamil Nadu. India was the fourth country to land on the Moon, and the first near its south pole. Its lander, named Vikram, touched down on the Moon that same day. It then collected data about the soil and the ground, such as how hot the soil gets and how the ground shakes.
 - e.g. Chandrayaan-3 reused the Chandrayaan-2 orbiter, which was still working, to talk to the lander.
 - e.g. Engineers chose a bigger landing area, so that a small error would not matter.
 - e.g. Many of the engineers and scientists at ISRO are women, and several led teams in these missions.
@@ -609,7 +609,7 @@ She took a pebble from her pocket. She held it out over the dark sea and opened 
 ## Worksheets
 ### Falling, Rockets and Telescopes (core) (core, 18 questions)
 1. (mcq) Why does the space station not fall down to the ground?  
-   Options: It is so high that there is no gravity / It moves sideways so fast that it keeps missing the ground as it falls / The air holds it up  
+   Options: It moves sideways so fast that it keeps missing the ground as it falls / It is so high that there is no gravity / The air holds it up  
    **Answer:** It moves sideways so fast that it keeps missing the ground as it falls. *Why:* Gravity is still pulling the station, about nine tenths as strongly as on the ground. The station falls all the time, but its sideways speed of about 8 kilometres a second carries it past the curve of the Earth. Picking 'no gravity' is a very common mix-up.
 2. (write) Two marbles roll off the same table. One leaves slowly and one leaves fast. Say where each lands, and which one is in the air longer.  
    **Answer:** The fast marble lands farther from the table. Both marbles are in the air for about the same time, because both fall the same height with the same pull. The fast one just moves farther sideways in that time.. *Why:* A strong answer says the landing places differ but the times are about the same, and gives the reason: the fall depends on height and gravity, not on sideways speed.
@@ -618,7 +618,7 @@ She took a pebble from her pocket. She held it out over the dark sea and opened 
 4. (truefalse) To reach orbit, a rocket only has to climb high enough.  
    **Answer:** False. *Why:* False. A rocket that stopped at 400 kilometres up would fall straight back down. Staying up needs a sideways speed of about 8 kilometres a second, and that takes most of the rocket's effort.
 5. (mcq) About how fast must a satellite near the Earth move sideways to stay in orbit?  
-   Options: About 8 kilometres every second / About 80 kilometres an hour / About 8 metres every second  
+   Options: About 80 kilometres an hour / About 8 kilometres every second / About 8 metres every second  
    **Answer:** About 8 kilometres every second. *Why:* At about 8 kilometres a second, which is about 28,000 kilometres an hour, the ground curves away as fast as the satellite falls. It is about 170 times faster than a very fast train.
 6. (match) Match each thing in orbit to the time that one lap takes.  
    **Answer:** The space station → About 90 minutes; A navigation satellite such as GPS → About 12 hours; A geostationary satellite → 24 hours; The Moon → About 27 days. *Why:* The higher the orbit, the longer the lap. At 36,000 kilometres a lap takes exactly one day.
@@ -649,7 +649,7 @@ She took a pebble from her pocket. She held it out over the dark sea and opened 
 18. (mcq) What is space debris?  
    Options: Dust that comes from the Sun / Broken satellites, empty rocket stages and tiny bits that still orbit the Earth / Clouds high above the air  
    **Answer:** Broken satellites, empty rocket stages and tiny bits that still orbit the Earth. *Why:* Space debris is the junk that people have left in orbit. Even a speck moving at orbital speed can damage a satellite.
-### Orbits, Light and Bodies (stretch) (stretch, 19 questions)
+### Orbits, Light and Bodies (stretch) (stretch, 20 questions)
 1. (perspective) More and more satellites are launched each year, and old ones become junk. A town meeting is discussing what to do.  
    **Answer:** A strong answer picks a side and uses a fact, such as: junk moves at 8 kilometres a second, so even tiny pieces cause damage, or old satellites at 36,000 kilometres stay for ages. It then admits a fair point from another side, such as the cost to small companies.. *Why:* This is a real argument. Safety and shared use are set against cost and fairness, and no one answer settles it.
 2. (mcq) Satellite A orbits 500 kilometres above the Earth. Satellite B orbits 1,500 kilometres above it. Which one takes longer for one lap?  
@@ -673,14 +673,14 @@ She took a pebble from her pocket. She held it out over the dark sea and opened 
 10. (sort) The space station moves at about 7.7 kilometres a second. Is each of these faster or slower than the station?  
    **Answer:** a navigation satellite 20,000 kilometres up → Slower than the station; a geostationary satellite → Slower than the station; the Moon → Slower than the station; a satellite 300 kilometres up → Faster than the station; a speck of junk 300 kilometres up → Faster than the station. *Why:* Lower orbits are faster and higher orbits are slower. Anything lower than the station must move faster than it to stay up.
 11. (mcq) Rockets from Sriharikota usually launch towards the east. What is the reason?  
-   Options: The Earth spins towards the east, so the rocket starts with some of that speed for free / The Moon is in the east / The wind always blows from the east  
+   Options: The Moon is in the east / The Earth spins towards the east, so the rocket starts with some of that speed for free / The wind always blows from the east  
    **Answer:** The Earth spins towards the east, so the rocket starts with some of that speed for free. *Why:* The Earth's surface moves eastwards. A rocket launched east gets a speed boost from the spin, which saves fuel.
 12. (write) Fins steer a paper rocket across a room, but they cannot steer a rocket in space. Explain why.  
    **Answer:** Fins work by pushing on the air that flows past them. If the rocket turns sideways, the air pushes the tail back behind the nose. In space there is almost no air, so fins have nothing to push on. Real rockets steer by tilting their engines or firing small thrusters.. *Why:* A strong answer says that fins need air to push on, and names another way to steer.
 13. (truefalse) A telescope on Earth can show the flag left on the Moon if the telescope is big enough.  
    **Answer:** False. *Why:* False. The flag is too small to show up from 384,000 kilometres away, even in the biggest telescopes. Spacecraft circling the Moon close to the surface have photographed the landing sites.
 14. (mcq) Two stars look like one star in a small telescope but like two in a big one. What has the big telescope given?  
-   Options: Finer detail / More colour / A different sky  
+   Options: More colour / A different sky / Finer detail  
    **Answer:** Finer detail. *Why:* A wider opening gives finer detail, which scientists call resolution. It also collects more light.
 15. (match) Match each word to its meaning.  
    **Answer:** Payload → The useful thing a rocket carries; Propellant → The fuel and oxygen a rocket burns; Stage → A section of a rocket that drops when it is empty; Thrust → The push that comes from the engine. *Why:* These four words describe how a rocket is built and how it moves.
@@ -689,9 +689,11 @@ She took a pebble from her pocket. She held it out over the dark sea and opened 
 17. (mcq) Apollo 11 took about 4 days to reach the Moon. Chandrayaan-3 took 40 days. How many times longer did Chandrayaan-3 take?  
    Options: 10 times / 4 times / 36 times  
    **Answer:** 10 times. *Why:* 40 divided by 4 is 10. Chandrayaan-3 used a smaller rocket and many small engine burns, which took ten times as long.
-18. (label) Label the picture of a two-lens telescope: front lens, eyepiece, faraway object, gap between the lenses.  
+18. (write) The lander Vikram collected data about the soil on the Moon. Give one reason why scientists want to know how hot the soil gets.  
+   **Answer:** For example: the heat of the soil shows what the ground is made of, and how it changes from day to night.. *Why:* A strong answer links the heat of the soil, or the shaking of the ground, to what the ground is made of.
+19. (label) Label the picture of a two-lens telescope: front lens, eyepiece, faraway object, gap between the lenses.  
    **Answer:** The faraway object is on the left. The front lens is next to it, and the eyepiece is at the eye end. The gap is the space between the two lenses.. *Why:* A strong labeller puts the big, weak lens at the front and the small, strong lens at the eye.
-19. (fill) The 30 dishes of the Giant Metrewave Radio Telescope work together like one huge ____.  
+20. (fill) The 30 dishes of the Giant Metrewave Radio Telescope work together like one huge ____.  
    **Answer:** ['telescope']. *Why:* Dishes spread over about 25 kilometres act together like one telescope that large.
 ### Space Detective (challenge) (challenge, 16 questions)
 1. (write) A friend says that astronauts float because there is no gravity on the space station. What would you say to her, and what evidence would you give?  
@@ -720,14 +722,14 @@ She took a pebble from her pocket. She held it out over the dark sea and opened 
 11. (sort) Is each of these effects on an astronaut mostly caused by weightlessness or by radiation?  
    **Answer:** weaker leg bones → Mostly weightlessness; a puffy face → Mostly weightlessness; a higher chance of cancer later in life → Mostly radiation; damage to a computer chip → Mostly radiation. *Why:* Without weight to carry, bones weaken and body fluids shift upwards. Radiation damages the cells in living bodies and the parts of electronics.
 12. (mcq) Light from a faraway galaxy took ten billion years to reach us. What do we see when we look at it?  
-   Options: The galaxy as it was ten billion years ago / The galaxy as it is today / The galaxy as it will be in ten billion years  
+   Options: The galaxy as it is today / The galaxy as it will be in ten billion years / The galaxy as it was ten billion years ago  
    **Answer:** The galaxy as it was ten billion years ago. *Why:* The light carries news from the time it left. Looking far away is looking back in time.
 13. (write) Isaac Newton asked whether the pull that drops an apple also reaches the Moon. How could he check this idea with numbers?  
    **Answer:** The Moon is about 60 times farther from the Earth's centre than an apple. So gravity should be 60 times 60, or 3,600 times, weaker there. He worked out how far the Moon should fall each second under that weaker pull, and checked that this matched the way the Moon's path curves as it moves sideways.. *Why:* A strong answer says that the pull gets weaker with distance, and that the number was tested against the Moon's real path.
 14. (fill) To stay above one spot on the equator all day, a satellite must take ____ hours to go round once.  
    **Answer:** ['24']. *Why:* The Earth turns once in 24 hours. A satellite that takes the same time to go round keeps up with the spinning ground.
 15. (mcq) A satellite 400 kilometres up is left alone with its engine off. Why does it slowly sink back over the years?  
-   Options: A trace of air at that height slows it down a little all the time / Gravity gets stronger every year / The Moon pulls it down  
+   Options: Gravity gets stronger every year / The Moon pulls it down / A trace of air at that height slows it down a little all the time  
    **Answer:** A trace of air at that height slows it down a little all the time. *Why:* There is still a very thin trace of air at 400 kilometres. It slows the satellite a little. A slower satellite is lower, and it spirals down until it burns up in the thicker air.
 16. (truefalse) A telescope mirror twice as wide as another one gathers about four times as much light.  
    **Answer:** True. *Why:* True. The light-gathering area depends on the width times itself. Twice as wide means two times two, which is four times the area.
@@ -739,39 +741,42 @@ She took a pebble from her pocket. She held it out over the dark sea and opened 
 
 ## Quiz
 1. (mcq) You throw a ball sideways from the top of a cliff, and it curves down to the ground. What would you have to change for it to go all the way round the Earth?  
-   Options: Throw it much, much faster, at about 8 kilometres a second / Throw it from higher up / Use a heavier ball  
+   Options: Throw it from higher up / Throw it much, much faster, at about 8 kilometres a second / Use a heavier ball  
    **Answer:** Throw it much, much faster, at about 8 kilometres a second. *Why:* A faster throw lands farther away. At about 8 kilometres a second, the ground curves away as fast as the ball falls, so it misses the ground for ever. Height and weight are not what decides it.
 2. (mcq) A rocket climbs to the height of the space station. What takes most of its effort?  
    Options: Building up sideways speed / Going straight up / Carrying people  
    **Answer:** Building up sideways speed. *Why:* Rising 400 kilometres needs only about a third of the speed that staying there needs. Most of the effort goes into the sideways speed of about 8 kilometres a second.
 3. (mcq) A balloon rocket on a string flies a short way when it has paper clips taped to it. What would make it fly farther?  
-   Options: Taking some of the clips off / Adding more clips / Letting some air out first  
+   Options: Adding more clips / Taking some of the clips off / Letting some air out first  
    **Answer:** Taking some of the clips off. *Why:* A lighter rocket gets more speed from the same push. In the Loaded Balloon Rocket test, every extra clip shortened the flight.
 4. (mcq) Why is most of a big rocket's weight at lift-off made up of propellant?  
    Options: It needs a speed far greater than the speed of its gas, so it must throw out a lot of gas, and it must lift its own fuel / Propellant is lighter than the rocket body / Rockets are built to look big  
    **Answer:** It needs a speed far greater than the speed of its gas, so it must throw out a lot of gas, and it must lift its own fuel. *Why:* The gas leaves at 3 to 4 kilometres a second but the rocket needs about 9. So it must throw away most of its weight. The fuel also has to be lifted, which takes more fuel.
 5. (mcq) At about what height does a satellite go round the Earth in exactly one day, so that it stays above one spot?  
-   Options: About 36,000 kilometres / About 400 kilometres / About 384,000 kilometres  
+   Options: About 400 kilometres / About 36,000 kilometres / About 384,000 kilometres  
    **Answer:** About 36,000 kilometres. *Why:* At about 36,000 kilometres, a lap takes 24 hours, the same as the Earth's turn. At 400 kilometres a lap takes 90 minutes. At 384,000 kilometres, where the Moon is, a lap takes about 27 days.
 6. (mcq) A satellite moves from a lower orbit to a higher one. What happens to its speed and to the time of its lap?  
-   Options: It moves slower, and a lap takes longer / It moves faster, and a lap takes longer / It moves faster, and a lap takes less time  
+   Options: It moves faster, and a lap takes longer / It moves faster, and a lap takes less time / It moves slower, and a lap takes longer  
    **Answer:** It moves slower, and a lap takes longer. *Why:* Higher orbits are slower because the Earth's pull is weaker there. The satellite also has a longer way round, so a lap takes longer.
 7. (mcq) Two stars very close together look like one star in a small telescope. A wider telescope shows them as two. What has the wider telescope given?  
    Options: Finer detail / A bigger star / A different colour  
    **Answer:** Finer detail. *Why:* A wider opening shows finer detail, which is called resolution. It also collects more light.
 8. (mcq) Why can a radio telescope work in the daytime and on cloudy days?  
-   Options: Radio waves pass through clouds and do not need a dark sky / Radio waves are very bright / Clouds make radio waves stronger  
+   Options: Radio waves are very bright / Radio waves pass through clouds and do not need a dark sky / Clouds make radio waves stronger  
    **Answer:** Radio waves pass through clouds and do not need a dark sky. *Why:* Radio waves go through air and clouds, and the Sun's brightness does not get in the way of radio dishes. They work day and night.
 9. (mcq) An astronaut spends six months in orbit and does no exercise. What is likely to happen to her?  
    Options: Her bones and muscles get weaker / Her bones get stronger / Nothing, because she does not need to carry any weight  
    **Answer:** Her bones and muscles get weaker. *Why:* On Earth, bones and muscles work against gravity all day. Without that load they lose strength. This is why astronauts exercise for about two hours a day.
 10. (mcq) Why can a tiny fleck of paint in orbit damage a satellite?  
-   Options: It moves at about 8 kilometres a second, so it carries a lot of energy / Paint is very hard / It is very heavy  
+   Options: Paint is very hard / It is very heavy / It moves at about 8 kilometres a second, so it carries a lot of energy  
    **Answer:** It moves at about 8 kilometres a second, so it carries a lot of energy. *Why:* Energy rises quickly with speed. A fleck at orbital speed carries more energy than a bullet.
 11. (mcq) Chandrayaan-3 took 40 days to reach the Moon. What was it doing for most of that time?  
-   Options: Firing its engine to raise its orbit round the Earth, and later to lower its orbit round the Moon / Waiting for the Moon to come near / Looking for a place to land  
+   Options: Waiting for the Moon to come near / Firing its engine to raise its orbit round the Earth, and later to lower its orbit round the Moon / Looking for a place to land  
    **Answer:** Firing its engine to raise its orbit round the Earth, and later to lower its orbit round the Moon. *Why:* A smaller rocket cannot throw the spacecraft all the way to the Moon in one push. The spacecraft's own engine fired many times, raising its orbit step by step, and later lowering it.
-12. (mcq) In September 2019 the lander of Chandrayaan-2 lost contact just before touching down. What did ISRO do next?  
+12. (mcq) Chandrayaan-3's lander, named Vikram, touched down on the Moon on 23 August 2023. What did it do next?  
+   Options: It brought rock samples back to Earth / It turned into an orbiter round the Moon / It collected data about the soil and the ground  
+   **Answer:** It collected data about the soil and the ground. *Why:* Vikram collected data about the soil and the ground where it landed. Chandrayaan-3 did not bring rock samples back to Earth. Its orbiter, not the lander, went round the Moon.
+13. (mcq) In September 2019 the lander of Chandrayaan-2 lost contact just before touching down. What did ISRO do next?  
    Options: Studied what went wrong, changed the lander and its landing plan, and landed in 2023 / Stopped trying to land on the Moon / Waited for another country to do it  
    **Answer:** Studied what went wrong, changed the lander and its landing plan, and landed in 2023. *Why:* ISRO learned from the failure and built Chandrayaan-3. India landed near the Moon's south pole on 23 August 2023.
 
@@ -792,7 +797,7 @@ She took a pebble from her pocket. She held it out over the dark sea and opened 
 - A Diwali rocket firework shooting up, with sparks streaming out of its tail.
 - A ship vanishing hull first beyond the horizon, as seen from a beach or from a harbour wall.
 - A bright steady dot gliding across the sky soon after sunset: the space station or a satellite.
-- The weather map on the TV news, with a swirl of cloud from a satellite over the Bay of Bengal.
+- The weather map on the TV news, with a swirl of cloud from a satellite over the sea.
 - A water bottle rocket or a balloon let go in the park, flying off the other way from its escaping air.
 - A curved satellite dish or a steel bowl that gathers sound, so that a whisper at the middle is clear.
 - The Moon in the daytime or at dusk, which is also falling around the Earth as you watch it.
@@ -860,6 +865,16 @@ Star, Planet, Moon (sci.sky.L4): Topic-level song
 - [A pair of cheap reading glasses, plus 2.0 to plus 2.5](https://www.amazon.in/s?k=reading+glasses+plus+2.0) (tool): For the weak front lens of the two-lens telescope. A medical store, an optician or a roadside stall sells them for about Rs 50 to 150, and a grandparent may have an old pair. Check that the number has a plus sign, because minus lenses are for short sight and will not work. Used in e3. 
 - [A pocket magnifier, 5 to 10 times](https://www.amazon.in/s?k=pocket+magnifier+10x) (tool): For the eyepiece of the two-lens telescope. A stationery shop or a watch repairer often has one for about Rs 30 to 80. Ask for the strongest one (10x is best, 5x works). Used in e3. 
 - [A small pack of modelling clay](https://www.amazon.in/s?k=modelling+clay+for+kids) (material): For the clay nose of the straw rocket and for holding the lenses on the stick. A small pack is enough. Used in p1, e3. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in Falling Sideways: does a faster marble take longer to land?, The Loaded Balloon Rocket: how much does extra weight slow a rocket?, A Telescope from Two Lenses: how much bigger does it make faraway things?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e1, e2, e3, a1, p1. Get it before Falling Sideways: does a faster marble take longer to land?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Falling Sideways: does a faster marble take longer to land?, A Telescope from Two Lenses: how much bigger does it make faraway things?, Orbit Map: draw the satellites to scale on the floor. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e3, a1, a3, a4, c1. Get it before Falling Sideways: does a faster marble take longer to land?.
+- [A set of lenses (convex and concave)](https://www.amazon.in/s?k=convex+concave+lens+set) (tool): Used in A Telescope from Two Lenses: how much bigger does it make faraway things?. About ₹80 to ₹250. A magnifying glass is one convex lens. Used in e3. Get it before A Telescope from Two Lenses: how much bigger does it make faraway things?.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in Falling Sideways: does a faster marble take longer to land?, Orbit Map: draw the satellites to scale on the floor. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in e1, a1. Get it before Falling Sideways: does a faster marble take longer to land?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Sound Needs Something: a tin-can telephone. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in a2. Get it before Sound Needs Something: a tin-can telephone.
+- [Wooden ice-cream sticks (a pack)](https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack) (material): Used in Sound Needs Something: a tin-can telephone. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in. Used in a2. Get it before Sound Needs Something: a tin-can telephone.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in Soft Landing: land five coins from one metre without a bounce. About ₹20 to ₹50. Torn clean cloth works. Used in c1. Get it before Soft Landing: land five coins from one metre without a bounce.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Soft Landing: land five coins from one metre without a bounce. About ₹30 to ₹60. Newspaper cut into strips also works. Used in c1. Get it before Soft Landing: land five coins from one metre without a bounce.
+- [Marbles (a few)](https://www.amazon.in/s?k=glass+marbles+pack) (material): Used in Falling Sideways: does a faster marble take longer to land?. About ₹10 to ₹40. Small round stones or dried chana. Used in e1. Get it before Falling Sideways: does a faster marble take longer to land?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What keeps a satellite from falling to the ground? → It falls all the time, but moves sideways so fast that it keeps missing.
@@ -880,7 +895,7 @@ Star, Planet, Moon (sci.sky.L4): Topic-level song
 
 ## Sources
 - ideas/by_topic/the-universe-sun-moon-stars-and-planets.md: the SCI Cards for Katherine Johnson (orbit calculations for America's first crewed flights), Galileo (the telescope and falling things) and Jocelyn Bell Burnell (radio astronomy), used in the explanations and the credit to women
-- Curriculum entry for exploring space and the Class 3 unit sci.sky.exploring-space.L3, which this unit goes a step deeper than: the L3 jar test, half-lens test, lime Earth and Thumba story are not repeated here
+- Curriculum entry for exploring space and the Class 3 unit sci.sky.exploring-space.L3, which this lesson goes a step deeper than: the L3 jar test, half-lens test, lime Earth and Thumba story are not repeated here
 - Checked against the nearby units so nothing repeats: the balloon rocket is used here for its weight and distance (the push-and-pull unit used it for action and reaction), and falling with sideways speed is new to this subtopic
 - Isaac Newton, Philosophiae Naturalis Principia Mathematica, 1687, and A Treatise of the System of the World (the Moon's fall compared with an apple's, and the cannon fired faster and faster from a high mountain)
 - NASA, International Space Station facts and figures: altitude about 400 kilometres, speed about 7.7 kilometres a second, a lap in about 90 minutes

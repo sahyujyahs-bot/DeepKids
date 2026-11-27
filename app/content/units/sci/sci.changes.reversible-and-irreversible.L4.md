@@ -1,9 +1,9 @@
 # Changes that go back and changes that do not: what cooking does to food for ever
 `sci.changes.reversible-and-irreversible.L4`
 
-**Summary.** You can melt butter and set it again, but you cannot turn toast back into bread. Why not? In this unit you will sort five changes into three piles, stir flour into cold and hot water to see if it comes back, and climb a toast ladder.
+**Summary.** You can melt butter and set it again, but you cannot turn toast back into bread. Why not? In this lesson you will sort five changes into three piles, stir flour into cold and hot water to see if it comes back, and climb a toast ladder.
 
-**Intro.** *A lump of ghee melts in a hot pan. Take the pan off the stove, and the ghee sets again. Pour dosa batter on the same hot pan, and no amount of cooling brings the batter back. Why does one change go back and the other does not?* Both changes used the same pan and the same heat. The ghee only changed from a solid to a liquid. It was ghee before, and it was ghee after. The batter became something new, with a new colour, a new smell and a new feel. In this unit you sort changes into three piles: back easily, back with work, and no way back. You test flour in cold water against flour in hot water. You toast a ladder of bread squares, and you try to bring them back.
+**Intro.** *A lump of ghee melts in a hot pan. Take the pan off the stove, and the ghee sets again. Pour dosa batter on the same hot pan, and no amount of cooling brings the batter back. Why does one change go back and the other does not?* Both changes used the same pan and the same heat. The ghee only changed from a solid to a liquid. It was ghee before, and it was ghee after. The batter became something new, with a new colour, a new smell and a new feel. In this lesson you sort changes into three piles: back easily, back with work, and no way back. You test flour in cold water against flour in hot water. You toast a ladder of bread squares, and you try to bring them back.
 
 ## Learning outcomes
 0. I can sort changes into three groups: back easily, back with work, and no way back. I can name the way back.
@@ -36,7 +36,7 @@
 ### Three piles: back easily, back with work, and no way back · *defined*
 **Definition:** A reversible change can be undone, so that you have the starting substance again. An irreversible change cannot be undone.
 
-Many reversible changes go back with almost no effort. Cool the melted ghee, and it sets. Unfold the paper boat, and it is a sheet again. Other reversible changes go back only with work, time or energy. Salt stirred into water is still salt, but to get it back you must evaporate all the water. Rice mixed with dal is still rice, but someone must pick the grains apart. So this unit uses three piles. The first is 'back easily'. The second is 'back with work'. The third is 'no way back', which holds the irreversible changes. For every change, ask two questions. Is it still the same substance? What exactly would I do to get back to the start? If you can name a way back and it works, the change is reversible.
+Many reversible changes go back with almost no effort. Cool the melted ghee, and it sets. Unfold the paper boat, and it is a sheet again. Other reversible changes go back only with work, time or energy. Salt stirred into water is still salt, but to get it back you must evaporate all the water. Rice mixed with dal is still rice, but someone must pick the grains apart. So this lesson uses three piles. The first is 'back easily'. The second is 'back with work'. The third is 'no way back', which holds the irreversible changes. For every change, ask two questions. Is it still the same substance? What exactly would I do to get back to the start? If you can name a way back and it works, the change is reversible.
 - e.g. Back easily: ice melts, and the water freezes again in the freezer.
 - e.g. Back with work: salt dissolves in water, and comes back when the water evaporates.
 - e.g. No way back: batter cooks into a dosa.
@@ -92,14 +92,14 @@ A torn sheet of paper is still paper. Atta is still wheat. A broken glass is sti
 ### Why people cook · *defined*
 **Definition:** Cooking is heating food so that it changes for good. It makes food softer, safer and easier to digest.
 
-Cooking is the oldest chemistry that people do. It does three useful things, and all three are irreversible. It softens food. Swollen starch and loosened fibres are easier to chew. It makes food safer. The heat denatures the proteins of most harmful microbes, and these microbes die. Raw rajma holds a protein that makes people ill, and about half an hour of hard boiling changes that protein for good. It also lets the body take in more of the food. In one careful study, people's bodies took in about 91 parts in 100 of the protein from cooked egg. From raw egg they took in only about 51 parts in 100. Cooking has a cost too. Heat destroys part of the vitamin C in vegetables, which is one reason to eat some fruit and salad raw. Cooks use reversible changes as well. They melt ghee, dissolve salt and boil off water.
+Cooking is the oldest chemistry that people do. It does three useful things, and all three are irreversible. It softens food. Swollen starch and loosened fibres are easier to chew. It makes food safer. The heat denatures the proteins of most harmful microbes, and these microbes die. Raw rajma holds a protein that makes people ill, and about half an hour of hard boiling changes that protein for good. It also lets the body take in more of the food. In one careful study, people's bodies took in about 91 parts in 100 of the protein from cooked egg. From raw egg they took in only about 51 parts in 100. Cooking has a cost too. Heat destroys part of the vitamin C in vegetables, which is one reason to eat some fruit and salad raw. Cooks use reversible changes as well. They melt ghee, dissolve salt and boil off water. People cook in many ways: steaming, boiling, frying, roasting, grilling and baking. Some food, such as a cucumber salad, is eaten raw, with no cooking at all.
 - e.g. Raw rice is too hard to chew, and cooked rice is soft.
 - e.g. Milk is boiled in most Indian homes to kill microbes before it is drunk.
 - e.g. Lemon juice is squeezed on food after cooking, so that its vitamin C is not destroyed by heat.
 ### Both kinds of change in living bodies, on the Earth and in the stars · *defined*
 **Definition:** Reversible changes let the same substance be used again and again. Irreversible changes happen once.
 
-Your blood carries oxygen by a reversible change. A protein in red blood cells holds oxygen in the lungs and lets it go in the muscles. Each red blood cell makes this round trip about once a minute. Growing is different. A sprouted seed cannot go back to being a seed, and your body will not be a baby's body again. The Earth also runs on both kinds. The same water has been cloud, rain, river and sea many times, because evaporating and condensing leave water unchanged. Rock melts deep underground and sets again as new rock. People copy these cycles. Glass, steel and aluminium can be melted and shaped again and again, which is why they are worth collecting. A phone battery holds a chemical change that charging pushes backwards. The Sun runs on a change that goes one way. Every second it joins hydrogen into helium, and it cannot turn the helium back.
+Your blood carries oxygen by a reversible change. A protein in red blood cells holds oxygen in the lungs and lets it go in the muscles. Each red blood cell makes this round trip about once a minute. Growing is different. A sprouted seed cannot go back to being a seed, and your body will not be a baby's body again. The Earth also runs on both kinds. The same water has been cloud, rain, river and sea many times, because evaporating and condensing leave water unchanged. Rock melts deep underground and sets again as new rock. People copy these cycles. Glass, steel and aluminium can be melted and shaped again and again, which is why they are worth collecting. A phone battery holds a chemical change that charging pushes backwards. The Sun runs on a change that goes one way. Every second it joins hydrogen into helium, and it cannot turn the helium back. Changes also differ in speed. Toast browns in a few minutes. Many trees lose their leaves once a year. A child grows over many years.
 - e.g. Water goes round as vapour, cloud, rain and river without being used up.
 - e.g. A steel tumbler can be melted down and made into a new one.
 - e.g. A chana seed who has grown a root cannot draw the root back in.
@@ -147,7 +147,7 @@ In the kitchen, 'no way back' is a safe rule. In laboratories the line is less s
   Against: The oldest widely accepted traces of fire used by our ancestors are about 1 million years old. They come from Wonderwerk Cave in South Africa. Many scientists think cooking began too late to explain the first of those changes.
 
 ## Roots
-In this unit you stirred flour into cold and hot water, and you toasted a ladder of bread squares. Here we ask what it means that some changes go back and some do not.
+In this lesson you stirred flour into cold and hot water, and you toasted a ladder of bread squares. Here we ask what it means that some changes go back and some do not.
 
 **Deep truth.** In The Toast Ladder, every square of bread could still be toasted darker. No square could be made paler again. So with a change that goes only one way, too little can be fixed and too much cannot. That is why a careful cook heats in small steps and checks each time.  
 *Habit it breaks:* We treat 'a bit too much' and 'a bit too little' as mistakes of the same size. With a change that has no way back, they are different kinds of mistake. After too little, the right amount can still be reached. After too much, it cannot.  
@@ -157,10 +157,10 @@ In this unit you stirred flour into cold and hot water, and you toasted a ladder
 - *what is life:* A living being uses both kinds of change. A dry seed can soak, dry and wait again. Once they grow a root, they have chosen a change with no way back.
 - *what is this world:* The world uses the same water again and again through changes that go back. But the world also has a past and a future, because some changes never go back.
 
-Changes that go back let the world use one substance many times. The water in your glass has been cloud, rain and river before. Changes with no way back are how new things come to exist: toast, a pot, a grown tree, a star's helium. Everything is conscious, down to the particles. So each of these changes is something that happens to someone, and not only to a thing. Many sages taught that all things come from one source, which keeps making new things. The science of this unit adds one plain point. New things keep coming into being, and the change can be slowed down or steered, but it cannot be taken back.
+Changes that go back let the world use one substance many times. The water in your glass has been cloud, rain and river before. Changes with no way back are how new things come to exist: toast, a pot, a grown tree, a star's helium. Everything is conscious, down to the particles. So each of these changes is something that happens to someone, and not only to a thing. Many sages taught that all things come from one source, which keeps making new things. The science of this lesson adds one plain point. New things keep coming into being, and the change can be slowed down or steered, but it cannot be taken back.
 
 - **Tirukkural 481:** “பகல்வெல்லும் கூகையைக் காக்கை இகல்வெல்லும் / வேந்தர்க்கு வேண்டும் பொழுது.” Tiruvalluvar wrote that a crow can defeat an owl by day. In the same way, he said, a ruler who wants to win must choose the right time. (The Kural is about a ruler and an enemy, and it is not about toast. But the lesson fits in the same way. The same act can succeed at one time and fail at another. In The Toast Ladder, taking the bread off the tawa worked only before it turned too dark.)
-- **Dhammapada, verse 277:** “Sabbe saṅkhārā aniccā, / yadā paññāya passati; / Atha nibbindati dukkhe, / esa maggo visuddhiyā.” The Buddha taught that all things that are put together are impermanent. A person who sees this clearly, he said, turns away from suffering. (The verse says that nothing made stays as it is. This unit agrees and adds a detail. Some things change and come back, as water does. Others change once, as toast does.)
+- **Dhammapada, verse 277:** “Sabbe saṅkhārā aniccā, / yadā paññāya passati; / Atha nibbindati dukkhe, / esa maggo visuddhiyā.” The Buddha taught that all things that are put together are impermanent. A person who sees this clearly, he said, turns away from suffering. (The verse says that nothing made stays as it is. This lesson agrees and adds a detail. Some things change and come back, as water does. Others change once, as toast does.)
 - **Heraclitus, as quoted by Plato in the Cratylus, 402a:** “δὶς ἐς τὸν αὐτὸν ποταμὸν οὐκ ἂν ἐμβαίης.” The Greek thinker Heraclitus said that you cannot step twice into the same river. New water is always flowing in. (A river looks the same from day to day, yet its water is always new. Even changes that 'go back' do not return the world to exactly what it was. The ghee that sets again has lost a little heat to the room.)
 - Science (settled): A protein that has lost its shape still has a whole chain. Some proteins fold back by themselves when the cause is taken away. Christian Anfinsen showed this around 1960.
 - Science (open): Nobody knows why the universe began in a state so orderly that changes have run one way ever since.
@@ -473,7 +473,7 @@ That night Yazhini helped to scrape the cold wax out of the tin. It broke into y
 - **creative:** Draw a pattern of fine pencil lines across the flap. After opening, the lines will not meet exactly.; Seal the flap with a strip of the thinnest paper you have, such as tissue. Thin paper tears before the glue lets go.; Lay a thread under the flap in a secret shape, and draw that shape in your notebook. Anyone who opens the letter will move the thread.
 - **s1 (4 min)**  
   *Parent does:* Read the problem together. Look at a real seal at home, such as the ring on a water bottle cap. Ask how it shows that the bottle was opened.  
-  *Parent says:* Look at this cap. Once the ring snaps, can anyone join it again? Which changes from this unit have no way back? Which could a seal use?  
+  *Parent says:* Look at this cap. Once the ring snaps, can anyone join it again? Which changes from this lesson have no way back? Which could a seal use?  
   *Child mode:* Look closely at a bottle cap ring.
   - Ask: Which changes with no way back could a paper seal use? (good: Tearing.; Glue or paste setting.; A pattern that cannot be lined up again.)
 - **s2 (8 min)**  
@@ -493,12 +493,12 @@ That night Yazhini helped to scrape the cold wax out of the tin. It broke into y
   - Note: The idea to draw out: a good seal uses a change with no way back. A paper clip or a rubber band uses a change that goes back easily, so it keeps no record.
 
 ## Worksheets
-### Can it go back? (core, 15 questions)
+### Can it go back? (core, 16 questions)
 1. (mcq) What is a reversible change?  
-   Options: A change that can be undone / A change that makes a new substance / A change that needs a stove / A change that happens fast  
+   Options: A change that makes a new substance / A change that can be undone / A change that needs a stove / A change that happens fast  
    **Answer:** A change that can be undone. *Why:* A reversible change can be undone, and you have the same substance again. A change that makes a new substance usually has no way back.
 2. (mcq) Which of these changes is irreversible?  
-   Options: Toasting bread / Melting ghee / Freezing water / Folding paper  
+   Options: Melting ghee / Toasting bread / Freezing water / Folding paper  
    **Answer:** Toasting bread. *Why:* Toasting makes new brown substances that stay. Melted ghee sets, ice melts and folded paper unfolds.
 3. (fill) Salt stirred into water can be got back by letting the water ____.  
    **Answer:** ['evaporate', 'dry up', 'dry']. *Why:* The water goes into the air as vapour and the salt cannot, so the salt is left on the plate.
@@ -509,7 +509,7 @@ That night Yazhini helped to scrape the cold wax out of the tin. It broke into y
 6. (sort) Sort these changes. Is each one reversible or irreversible?  
    **Answer:** an ice cube melting → Reversible; an egg boiling → Irreversible; a towel drying → Reversible; a matchstick burning → Irreversible; sugar dissolving in water → Reversible; dosa batter cooking → Irreversible. *Why:* Melting, drying and dissolving leave the same substance, so they go back. Boiling an egg, burning and cooking batter make changes that cooling does not undo.
 7. (mcq) Raw flour is stirred into cold water and left to stand. What happens?  
-   Options: Most of it settles to the bottom / It turns into a thick paste / It dissolves and cannot be seen / It turns brown  
+   Options: It turns into a thick paste / Most of it settles to the bottom / It dissolves and cannot be seen / It turns brown  
    **Answer:** Most of it settles to the bottom. *Why:* Raw starch grains do not dissolve or swell in cold water. They hang in the water for a while and then sink. Flour turns to paste only when it is heated.
 8. (truefalse) Cooked flour paste turns back into dry flour when it cools.  
    **Answer:** False. *Why:* False. Heat made the starch grains swell and burst, and a burst grain cannot close again. Cooled paste stays paste.
@@ -518,10 +518,10 @@ That night Yazhini helped to scrape the cold wax out of the tin. It broke into y
 10. (fill) Heat makes the long protein chains in an egg unfold and ____ together.  
    **Answer:** ['tangle', 'stick', 'join']. *Why:* The unfolded chains catch on each other and make a net that holds the water still. That is why a cooked egg white is solid.
 11. (mcq) Why does boiled rice never turn brown in the pot?  
-   Options: Boiling water is not hot enough / Rice has nothing in it to brown / The lid keeps the light out / The water washes the brown away  
+   Options: Rice has nothing in it to brown / Boiling water is not hot enough / The lid keeps the light out / The water washes the brown away  
    **Answer:** Boiling water is not hot enough. *Why:* Browning needs a dry surface hotter than about 140 degrees Celsius. Boiling water stays at 100 degrees Celsius. Rice does brown when it is roasted in a dry pan.
 12. (mcq) Wet cement becomes a hard floor. What kind of change is this?  
-   Options: Irreversible: cement reacts with the water / Reversible: the cement only dries / Reversible: the cement freezes / No change at all  
+   Options: Reversible: the cement only dries / Reversible: the cement freezes / Irreversible: cement reacts with the water / No change at all  
    **Answer:** Irreversible: cement reacts with the water. *Why:* Cement reacts with water and grows tiny crystals. Rain softens dried mud again, and rain does not soften set cement.
 13. (write) Explain in two sentences why melted ghee is still ghee.  
    **Answer:** Melting only changes ghee from a solid to a liquid. When it cools it sets again, and it looks, smells and tastes as it did before.. *Why:* A strong answer says that no new substance was made, and gives the evidence: the ghee comes back when it cools.
@@ -529,21 +529,23 @@ That night Yazhini helped to scrape the cold wax out of the tin. It broke into y
    **Answer:** No. The brown colour comes from new substances made by heat. Cooling, wetting or waiting does not turn them back into bread.. *Why:* A strong answer says that browning makes new substances. It also says that a square can go darker and cannot go paler.
 15. (draw) Draw raw egg white and cooked egg white as tiny threads. Show what heat changed.  
    **Answer:** Raw: several separate threads, each folded into its own small ball. Cooked: the same threads opened out and joined to each other in a net.. *Why:* A strong drawing keeps the same number of threads in both pictures. Nothing is added or broken. Only the folding and the joining change.
-### Same substance or new substance? (stretch, 15 questions)
+16. (fill) Cooking food in a little hot oil in a pan is called ____.  
+   **Answer:** ['frying', 'fry']. *Why:* Frying uses hot oil. Steaming uses hot steam, boiling uses water at its boiling point, and roasting and baking use dry heat. Each one changes the food for good.
+### Same substance or new substance? (stretch, 16 questions)
 1. (mcq) Tearing paper makes no new substance. Why does it still not go back?  
-   Options: The torn fibres cannot be rejoined / The paper turns into ash / The paper dissolves in the air / Torn paper is a new substance  
+   Options: The paper turns into ash / The paper dissolves in the air / The torn fibres cannot be rejoined / Torn paper is a new substance  
    **Answer:** The torn fibres cannot be rejoined. *Why:* Paper is a mat of tiny plant fibres. Tearing pulls them apart, and nothing puts each fibre back in its old place. The pieces are still paper.
 2. (mcq) A phone battery is charged. What does the charging do?  
    Options: Pushes a chemical change backwards / Fills the battery with new metal / Melts the inside of the battery / Dries the battery out  
    **Answer:** Pushes a chemical change backwards. *Why:* Using the battery runs a chemical change one way. Charging uses electrical energy to run it the other way. This is a chemical change that goes back with work.
 3. (mcq) A careful cook adds salt a pinch at a time. Why?  
-   Options: Extra salt cannot be taken out again / Salt melts slowly / Salt costs a lot / Salt burns quickly  
+   Options: Salt melts slowly / Salt costs a lot / Salt burns quickly / Extra salt cannot be taken out again  
    **Answer:** Extra salt cannot be taken out again. *Why:* Salt dissolves into the whole dish, and no cook can pick it out. Too little salt can be fixed by adding more. Too much cannot be fixed.
 4. (mcq) Which pair shows one substance in two states?  
    Options: Ice and steam / Bread and toast / Milk and curd / Iron and rust  
    **Answer:** Ice and steam. *Why:* Ice and steam are both water. Toast, curd and rust each hold new substances that the bread, the milk and the iron did not have.
 5. (mcq) Raw rajma can make people ill. Why is well-boiled rajma safe?  
-   Options: Heat changes the harmful protein for good / Water washes the beans clean / Boiling adds vitamins / The skins fall off  
+   Options: Water washes the beans clean / Boiling adds vitamins / Heat changes the harmful protein for good / The skins fall off  
    **Answer:** Heat changes the harmful protein for good. *Why:* Raw rajma holds a protein that upsets the gut. About half an hour of hard boiling denatures it, and it stays changed after the beans cool.
 6. (truefalse) Every change that makes no new substance can be undone.  
    **Answer:** False. *Why:* False. Tearing paper, grinding wheat and breaking a glass make no new substance, and none of them goes back.
@@ -566,6 +568,8 @@ That night Yazhini helped to scrape the cold wax out of the tin. It broke into y
    **Answer:** The ink particles move about at random. There are vastly more mixed arrangements than gathered ones, so the particles almost never come together again.. *Why:* A strong answer compares the number of mixed arrangements with the number of sorted ones. It does not say that a new substance was made.
 15. (perspective) A city must choose which cups its tea stalls will use.  
    **Answer:** Any view with a reason from the unit. One reason is that melting steel is reversible, so steel can be used without end. Another is that a fired clay cup can never be clay again.. *Why:* Each view has something right in it. A strong answer says which changes go back and which do not. It takes the costs of water, fuel and waste seriously.
+16. (sort) Sort these changes by how long they take.  
+   **Answer:** toast browning on a tawa → In minutes; an egg going hard in boiling water → In minutes; leaves falling from a tree → Once a year; a child growing taller → Over many years. *Why:* Toast and eggs change in minutes. Leaves fall once a year. A child grows over many years. Speed does not decide whether a change can be undone: a boiled egg sets fast and still cannot go back.
 ### Testing the way back (challenge, 15 questions)
 1. (mcq) A white powder is stirred into a liquid. The liquid is dried, and a different powder is left. What happened?  
    Options: A new substance formed / The powder only dissolved / The powder only melted / The liquid froze  
@@ -574,10 +578,10 @@ That night Yazhini helped to scrape the cold wax out of the tin. It broke into y
    Options: Unfolding does not break the chain / Proteins are made of starch / Heat was used to fold it / The protein was a new substance  
    **Answer:** Unfolding does not break the chain. *Why:* A broken chain could not fold into its old shape. The chain stayed whole, and its shape was lost and found again.
 3. (mcq) Which test best shows whether a colour change is reversible?  
-   Options: Try a way back and compare / See how dark the colour is / Smell the new colour / Wait for one minute  
+   Options: See how dark the colour is / Try a way back and compare / Smell the new colour / Wait for one minute  
    **Answer:** Try a way back and compare. *Why:* How a change looks does not tell you whether it goes back. You have to try a way back and compare the result with what you started with.
 4. (mcq) Masons keep a new concrete roof wet for many days. Why?  
-   Options: Cement needs water to react and harden / Wet concrete dries faster / Water makes the roof lighter / Water stops the roof from melting  
+   Options: Wet concrete dries faster / Water makes the roof lighter / Cement needs water to react and harden / Water stops the roof from melting  
    **Answer:** Cement needs water to react and harden. *Why:* Cement hardens by a chemical change with water. If the concrete dries too soon, the change stops early and the roof is weaker.
 5. (truefalse) A change that makes a new substance can never be pushed backwards.  
    **Answer:** False. *Why:* False. Charging a battery pushes its chemical change backwards. Blood picks up oxygen in the lungs and lets it go again in the muscles.
@@ -612,13 +616,13 @@ That night Yazhini helped to scrape the cold wax out of the tin. It broke into y
    Options: Ghee setting on a cold day / Rice cooking / Paper burning / Milk souring  
    **Answer:** Ghee setting on a cold day. *Why:* Set ghee melts again with a little warmth. Cooking, burning and souring all make new substances.
 2. (mcq) Sand is stirred into water. What is the way back?  
-   Options: Let it settle, then pour off the water / Freeze the water / Heat it until it browns / There is no way back  
+   Options: Freeze the water / Heat it until it browns / There is no way back / Let it settle, then pour off the water  
    **Answer:** Let it settle, then pour off the water. *Why:* Sand does not dissolve. It sinks, and the water can be poured off or strained through a cloth.
 3. (mcq) In a reversible change, what stays the same?  
-   Options: The substance / The shape / The temperature / The state  
+   Options: The shape / The temperature / The substance / The state  
    **Answer:** The substance. *Why:* Shape, temperature and state may all change. What stays is the substance: water is still water, and wax is still wax.
 4. (mcq) Steam turns to drops on a cold lid. What are the drops made of?  
-   Options: Water, the same as before / A new liquid / Melted steel from the lid / Air  
+   Options: A new liquid / Melted steel from the lid / Water, the same as before / Air  
    **Answer:** Water, the same as before. *Why:* Condensing is a change of state. The water particles that left the pot as vapour have gathered again as liquid water.
 5. (mcq) Which of these shows that a new substance has formed?  
    Options: A new colour and smell that stay / The thing got wet / The thing changed shape / The thing got colder  
@@ -627,23 +631,29 @@ That night Yazhini helped to scrape the cold wax out of the tin. It broke into y
    Options: They swell and burst / They melt into oil / They turn into protein / They sink faster  
    **Answer:** They swell and burst. *Why:* Hot water gets into the grains, and they swell to many times their size and burst. This is called gelatinising, and it thickens the water.
 7. (mcq) Why does egg white turn from runny to solid when it is heated?  
-   Options: Proteins unfold and join into a net / The water in it freezes / The shell presses on it / Air leaves the egg  
+   Options: The water in it freezes / The shell presses on it / Air leaves the egg / Proteins unfold and join into a net  
    **Answer:** Proteins unfold and join into a net. *Why:* Heat shakes the folded protein chains open. The open chains stick to each other and hold the water still.
 8. (mcq) A square of brown toast is left to cool. What happens to its colour?  
    Options: It stays brown / It fades to white / It turns to steam / It soaks into the plate  
    **Answer:** It stays brown. *Why:* The brown comes from new substances made by the Maillard reaction. Taking the heat away does not turn them back.
 9. (mcq) How can you find out whether a change is reversible?  
-   Options: Try a way back and compare / Ask whether heat was used / See how fast it happened / Weigh the thing once  
+   Options: Ask whether heat was used / See how fast it happened / Try a way back and compare / Weigh the thing once  
    **Answer:** Try a way back and compare. *Why:* Heat and speed are poor guides. Melting uses heat and goes back. You have to try a way back and compare with what you started with.
 10. (mcq) Wheat ground into atta is still wheat. Can the grinding be undone?  
-   Options: No, the bits cannot be rejoined / Yes, by cooling the atta / Yes, by adding water / Yes, by sieving the atta  
+   Options: Yes, by cooling the atta / No, the bits cannot be rejoined / Yes, by adding water / Yes, by sieving the atta  
    **Answer:** No, the bits cannot be rejoined. *Why:* No new substance was made, but nothing joins the powder into whole grains again. A physical change can be irreversible.
 11. (mcq) Why does a shuffled pack of cards almost never come back in order?  
    Options: Mixed orders far outnumber sorted ones / The cards stick together / Shuffling makes new cards / The pack is too heavy  
    **Answer:** Mixed orders far outnumber sorted ones. *Why:* Each shuffle gives another order of the cards. Nearly all the possible orders are mixed ones, so the sorted order almost never comes up.
 12. (mcq) Why can an old steel tumbler be made into a new one?  
-   Options: Melting steel is a reversible change / Steel grows back by itself / Rust turns into steel in the sun / Steel never changes at all  
+   Options: Steel grows back by itself / Rust turns into steel in the sun / Melting steel is a reversible change / Steel never changes at all  
    **Answer:** Melting steel is a reversible change. *Why:* Steel melts in a furnace and sets again as steel. Because this change goes back, steel can be used again and again.
+13. (mcq) Which of these foods is usually eaten with no cooking at all?  
+   Options: Boiled rice / Fried puri / Roasted peanuts / A cucumber salad  
+   **Answer:** A cucumber salad. *Why:* A cucumber salad is cut and eaten raw. Rice is boiled, puri is fried, and peanuts are roasted, so all three are cooked.
+14. (mcq) Which of these changes happens in a few minutes?  
+   Options: A child growing taller / Many trees losing their leaves / A seed becoming a big tree / Toast browning on a tawa  
+   **Answer:** Toast browning on a tawa. *Why:* Toast browns in a few minutes. Many trees lose their leaves once a year. A child grows over many years. A seed becoming a big tree takes many years too. Speed does not decide if a change can go back.
 
 ## Applications
 - Recycling works best for materials whose melting is reversible. Glass, steel and aluminium are melted and shaped again and again.
@@ -707,13 +717,16 @@ Same Atoms, New Partners (sci.changes.L4): Topic-level song
 - [Denaturation (Wikipedia)](https://en.wikipedia.org/wiki/Denaturation_(biochemistry)) · interactive: For the parent: how heat and acid unfold proteins, with a picture of egg white cooking.
 - [Maillard reaction (Wikipedia)](https://en.wikipedia.org/wiki/Maillard_reaction) · interactive: For the parent: the browning reaction of toast, dosas and roasted coffee.
 - [Christian B. Anfinsen (Wikipedia)](https://en.wikipedia.org/wiki/Christian_B._Anfinsen) · interactive: For the parent: the scientist who showed that an unfolded protein can fold back by itself.
-- [Batik (Wikipedia)](https://en.wikipedia.org/wiki/Batik) · interactive: For the parent: how wax and dye are used on cloth, as in the unit's story, The Blue Drop on the White Sari.
+- [Batik (Wikipedia)](https://en.wikipedia.org/wiki/Batik) · interactive: For the parent: how wax and dye are used on cloth, as in the lesson's story, The Blue Drop on the White Sari.
 - [Visvesvaraya Industrial and Technological Museum](https://en.wikipedia.org/wiki/Visvesvaraya_Industrial_and_Technological_Museum) · place · Bengaluru, Karnataka: A science museum with hands-on halls where children can see materials being changed.
 - [Science City](https://en.wikipedia.org/wiki/Science_City,_Kolkata) · place · Kolkata, West Bengal: A large science centre with live science shows and hands-on exhibits.
 
 ## Things to buy
 - [A small packet of cornflour, about 100 grams](https://www.amazon.in/s?k=cornflour) (material): For Cold Stir, Hot Stir. Cornflour settles fastest and gives the clearest paste. Any grocery shop sells it. Rice flour or maida from the kitchen also works, so buy it only if you want to. Used in e1. 
 - [On Food and Cooking: The Science and Lore of the Kitchen, a book by Harold McGee (revised edition, 2004)](https://www.amazon.in/s?k=On+Food+and+Cooking+Harold+McGee) (book): For the parent or an older child: what heat does to eggs, milk, grains and bread, explained by a writer who tests things in his own kitchen. Used in e2. After The Toast Ladder, a parent can read aloud a page from the part on bread and browning.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Cold Stir, Hot Stir: can the flour come back?, Soak, Dry, Sprout: which change can a chana seed undo?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, p1. Get it before Cold Stir, Hot Stir: can the flour come back?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Soak, Dry, Sprout: which change can a chana seed undo?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in p1. Get it before Soak, Dry, Sprout: which change can a chana seed undo?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is a reversible change? → A change that can be undone, so that you have the same substance again.
@@ -732,8 +745,8 @@ Same Atoms, New Partners (sci.changes.L4): Topic-level song
 
 ## Sources
 - Founder's notebook, Changing materials: the concept sheet 'Materials Under Heat' (substances change when heated; bake bread and note the dough; melt chocolate and observe the change; the idea that heat transforms and reveals hidden properties) and the concept sheet 'Fire' (toast bread and observe browning). The Toast Ladder grows from the toast idea.
-- The curriculum entry for this unit: 'Reversible and irreversible changes; cooking changes food for ever.' Burning, rusting and cooking as new materials forming are left for sci.changes.reversible-and-irreversible.L5.
-- The Class 2 unit sci.changes.reversible-and-irreversible.L2 was read so that nothing repeats. It has the Dough Test, the Bend Test, crumpled paper, the clay pot story and Lavoisier's water test. This unit goes on to three piles, the way back, starch, protein, browning and mixing, and its experiments, games and story are new.
+- The curriculum entry for this lesson: 'Reversible and irreversible changes; cooking changes food for ever.' Burning, rusting and cooking as new materials forming are left for sci.changes.reversible-and-irreversible.L5.
+- The Class 2 unit sci.changes.reversible-and-irreversible.L2 was read so that nothing repeats. It has the Dough Test, the Bend Test, crumpled paper, the clay pot story and Lavoisier's water test. This lesson goes on to three piles, the way back, starch, protein, browning and mixing, and its experiments, games and story are new.
 - Other units were checked for overlap. Baking soda and vinegar, rust and the five signs of a reaction are in sci.changes.chemical-reactions.L4. Apple browning is in sci.chemistry.reaction-speed.L4 and the how-we-know units. Rice in boiling water, butter into ghee and curd are in sci.changes.kitchen-science.L2. Splitting hot milk is in sci.food.nutrients.L3. None of these is used as an experiment here.
 - Wu H. (1931). Studies on denaturation of proteins. XIII. A theory of denaturation. Chinese Journal of Physiology 5: 321-344.
 - Mirsky A.E., Pauling L. (1936). On the structure of native, denatured, and coagulated proteins. Proceedings of the National Academy of Sciences 22: 439-447.

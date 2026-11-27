@@ -1004,11 +1004,11 @@
       "t": "mcq",
       "q": "Why do we rest and change hands between rounds?",
       "options": [
-       "So a cold, numb hand does not change the next result",
        "So the ice has time to melt",
-       "So the child forgets the prize"
+       "So the child forgets the prize",
+       "So a cold, numb hand does not change the next result"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A hand that is already cold feels the next cube differently. Resting and changing hands keeps each round as alike as possible, so that only the prize changes. If you picked 'melt', remember that each round starts with a fresh cube."
      },
      "parent": "If your child reaches 90 seconds, stop the round and write '90, stopped'. Pay only for full 10 seconds held."
@@ -1580,11 +1580,11 @@
       "t": "mcq",
       "q": "Which finding shows only a reflex, with none of the four signs?",
       "options": [
-       "The leg kicks when the knee is tapped",
        "The crab leaves a poor shell but stays in a good one",
-       "The octopus chooses the room with the painkiller"
+       "The octopus chooses the room with the painkiller",
+       "The leg kicks when the knee is tapped"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The knee kick happens the same way each time. Nothing is guarded, learned or weighed, and no reward changes it. The crab weighed the shock against the shell, and the octopus sought out relief."
      },
      "parent": "Likely ticks: the trout guards and is eased by a painkiller. The hermit crab weighs. The octopus guards, learns and is eased. The bumblebee weighs. The knee kick has none. The shore crab learns. Few ticks often mean that nobody has run that test yet. They do not mean the animal failed it.",
@@ -1688,11 +1688,11 @@
       "t": "mcq",
       "q": "On three mornings, pigeons left the ledge just after a kite flew over. What is the most careful claim?",
       "options": [
-       "Pigeons on this ledge leave when a kite flies over",
        "Pigeons hate kites",
-       "Pigeons are the most nervous birds"
+       "Pigeons are the most nervous birds",
+       "Pigeons on this ledge leave when a kite flies over"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The first claim says only what was seen on three days. 'Hate' is a guess about a feeling, and it may be true, but the notes do not show it yet. The third claim compares pigeons with birds that were never watched."
      },
      "think": "After five days, do you think your neighbour noticed you?"
@@ -1798,11 +1798,11 @@
       "t": "mcq",
       "q": "A bird picks ragi over rice when both are near. She picks rice when the ragi is close to a person. What does this show?",
       "options": [
-       "She prefers ragi, but not enough to come near a person",
        "She cannot tell ragi from rice",
+       "She prefers ragi, but not enough to come near a person",
        "She prefers rice"
       ],
-      "a": 0,
+      "a": 1,
       "why": "With no cost, she chose ragi, so ragi is her favourite. When ragi cost her a risk, she gave it up. That tells you how much the ragi matters to her. Her choice changed with the cost, so she weighed the two."
      }
     },
@@ -1842,11 +1842,11 @@
      "t": "mcq",
      "p": "What does a longer waggle run tell the bees who follow the dancer?",
      "opts": [
-      "The food is farther away",
       "The food is sweeter",
-      "The dancer is older"
+      "The dancer is older",
+      "The food is farther away"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The length of the waggle stands for distance. A bee who flew farther waggles for longer on each run.",
      "outcome": 0
     },
@@ -2022,11 +2022,11 @@
      "t": "mcq",
      "p": "Bees flew a few metres through a narrow patterned tunnel, then danced for a far place. Why?",
      "opts": [
-      "The pattern rushed past their eyes",
       "The tunnel made them tired",
+      "The pattern rushed past their eyes",
       "They forgot where they had been"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A bee measures distance by how much scenery streams past her eyes. In a narrow patterned tunnel a lot streams past in a short flight, so she measures 'far'.",
      "outcome": 0
     },
@@ -2150,11 +2150,11 @@
      "t": "mcq",
      "p": "Serotonin is found in people, crayfish and bees. What is the best explanation?",
      "opts": [
-      "They inherited it from shared ancestors",
       "They all eat the same food",
+      "They inherited it from shared ancestors",
       "Scientists gave it to them"
      ],
-     "a": 0,
+     "a": 1,
      "why": "These animals share ancestors who lived more than 500 million years ago and already used serotonin. Their descendants kept it.",
      "outcome": 4
     },
@@ -2259,11 +2259,11 @@
      "t": "mcq",
      "p": "Some say pain needs a cortex, so fish feel none. Which fact weakens this argument most?",
      "opts": [
-      "Birds lack a layered cortex but solve hard problems",
       "Fish live in water",
+      "Birds lack a layered cortex but solve hard problems",
       "Fish are smaller than people"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Birds show that a brain without a layered cortex can do jobs that the cortex does in mammals. So lacking a cortex does not show that a job is not done.",
      "outcome": 5
     },
@@ -2326,11 +2326,11 @@
      "t": "mcq",
      "p": "Hens paid a cost to reach loose litter. What does paying a cost add to a choice test?",
      "opts": [
-      "It shows how much the hens want it",
       "It shows hens can count",
-      "It makes the test shorter"
+      "It makes the test shorter",
+      "It shows how much the hens want it"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A free choice shows which thing an animal prefers. A choice with a cost shows how strongly they prefer it.",
      "outcome": 7
     },
@@ -2375,11 +2375,11 @@
    "t": "mcq",
    "p": "A honeybee waggles straight down the comb. Which way should her sisters fly?",
    "opts": [
-    "Directly away from the sun",
     "Towards the sun",
+    "Directly away from the sun",
     "Down to the ground"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Up stands for towards the sun, so down stands for directly away from the sun. If you chose 'down to the ground', remember that the dance is a code for a direction outside.",
    "outcome": 0
   },
@@ -2387,11 +2387,11 @@
    "t": "mcq",
    "p": "How did radar tracking show that bees use the dance and not only smell?",
    "opts": [
-    "Moved bees flew the danced course to the wrong place",
     "Bees flew faster with radar",
+    "Moved bees flew the danced course to the wrong place",
     "Bees stopped dancing"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Bees released from a new spot flew the danced direction and distance from there. Smell would have led them to the real flowers.",
    "outcome": 0
   },
@@ -2399,11 +2399,11 @@
    "t": "mcq",
    "p": "Why do elephants use such low calls to stay in touch?",
    "opts": [
-    "Low sounds carry farther through forest",
     "High sounds hurt their ears",
+    "Low sounds carry farther through forest",
     "Low sounds use no energy"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Low sounds lose less energy to the air and bend around trees and hills, so they reach family members who are far away.",
    "outcome": 1
   },
@@ -2442,11 +2442,11 @@
    "t": "mcq",
    "p": "Which result would suggest that letting go of ice is a weighed choice?",
    "opts": [
-    "Hold times rise as the prize rises",
     "Hold times are the same in every round",
+    "Hold times rise as the prize rises",
     "The ice melts faster each round"
    ],
-   "a": 0,
+   "a": 1,
    "why": "If the time changes with the prize while the ice stays the same, the prize is being weighed against the discomfort.",
    "outcome": 3
   },
@@ -2454,11 +2454,11 @@
    "t": "mcq",
    "p": "Which is the strongest evidence that an animal's response to harm is more than a reflex?",
    "opts": [
-    "She gives up a reward to avoid the harm",
     "She pulls away quickly",
-    "She pulls away every time"
+    "She pulls away every time",
+    "She gives up a reward to avoid the harm"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Pulling away quickly, every time, is what a reflex looks like. Giving up something she wants shows that the harm is being weighed.",
    "outcome": 4
   },
@@ -2473,11 +2473,11 @@
    "t": "mcq",
    "p": "You write: 'The crow cawed three times and flew to the wire.' What kind of note is this?",
    "opts": [
-    "What was seen",
     "A guess about a feeling",
+    "What was seen",
     "An explanation"
    ],
-   "a": 0,
+   "a": 1,
    "why": "It records acts that a camera could capture. A guess would add what the crow felt or wanted.",
    "outcome": 6
   },
@@ -2792,6 +2792,66 @@
     "a3"
    ],
    "plan": "Read chapter by chapter over a few weeks, and tell your child one bee experiment at a meal each time."
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in The Floor Message Test: can a message travel through the ground?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before The Floor Message Test: can a message travel through the ground?."
+  },
+  {
+   "id": "b-a-digital-stopwatch--optiona",
+   "item": "A digital stopwatch (optional)",
+   "kind": "tool",
+   "why": "Used in The Ice and Prize Test: what does a prize change?. About ₹150 to ₹400. A phone stopwatch works well.",
+   "url": "https://www.amazon.in/s?k=digital+stopwatch",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before The Ice and Prize Test: what does a prize change?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Read the Dance: where did the bee send her sisters?, The Evidence Checklist: reflex, or more than a reflex?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "a1",
+    "a4"
+   ],
+   "plan": "Get it before Read the Dance: where did the bee send her sisters?."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in The Ice and Prize Test: what does a prize change?, The Middle Note: how a mood test for bees works. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "e1",
+    "a3"
+   ],
+   "plan": "Get it before The Ice and Prize Test: what does a prize change?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

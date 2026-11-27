@@ -3,7 +3,7 @@
 
 **Summary.** A storm fells trees in a forest every few years. A fire burns a hillside. A volcano buries a whole island in ash. So why is the world not bare by now? You find out with dice and a paper forest of 36 patches. Storms hit your forest 60 times, and you count how much old forest is left. You roast a pot of soil to find out where new plants come from. You follow the wolves who were brought back to Yellowstone, and sort what scientists are sure of from what they still argue about. Then you see how people in Tamil Nadu helped a dying mangrove forest grow back, mostly by letting the sea back in.
 
-**Intro.** *Somewhere near your home, a plant is growing where nobody planted them. It may be a peepal seedling on a wall, grass in a crack, or moss under a dripping pipe. How did they get there? And what would that spot look like in 50 years if nobody touched it?* In the first activity, Nobody Planted Me, you hunt for these plants and work out how each one arrived. They are the first step of a change that goes on in every bare place on Earth. In this unit you follow that change from a crack in a wall to a whole forest, and then to the question of how a damaged place heals.
+**Intro.** *Somewhere near your home, a plant is growing where nobody planted them. It may be a peepal seedling on a wall, grass in a crack, or moss under a dripping pipe. How did they get there? And what would that spot look like in 50 years if nobody touched it?* In the first activity, Nobody Planted Me, you hunt for these plants and work out how each one arrived. They are the first step of a change that goes on in every bare place on Earth. In this lesson you follow that change from a crack in a wall to a whole forest, and then to the question of how a damaged place heals.
 
 ## Learning outcomes
 0. By the end I can say what a disturbance is, and explain why plants and animals return to a cleared place in a certain order.
@@ -38,7 +38,7 @@
 ### Disturbance: places get cleared all the time · *defined*
 **Definition:** A disturbance is an event that kills or removes many living beings from a place in a short time.
 
-Forests, grasslands, rivers and reefs are disturbed again and again. A big tree falls and takes the neighbours down. A cyclone flattens a mangrove. A river in flood scrapes its banks. A fire runs through dry grass. People add more: they cut, burn, plough, mine and build. Disturbances differ in three ways. They differ in size, from one fallen tree to a whole island. They differ in how often they come. And they differ in what they leave behind. A fire may leave the soil with its seeds and roots. A lava flow leaves nothing living at all. What is left behind decides how recovery starts, as your roasted soil shows in The Soil Remembers. A disturbance is not always harm. The gap left by a fallen tree is the only place where many seedlings get enough light to grow.
+Forests, grasslands, rivers and reefs are disturbed again and again. A big tree falls and takes the neighbours down. A cyclone flattens a mangrove. A river in flood scrapes its banks. A fire runs through dry grass. People add more: they cut, burn, plough, mine and build. Disturbances differ in three ways. They differ in size, from one fallen tree to a whole island. They differ in how often they come. And they differ in what they leave behind. A fire may leave the soil with its seeds and roots. A lava flow leaves nothing living at all. What is left behind decides how recovery starts, as your roasted soil shows in The Soil Remembers. A disturbance is not always harm. The gap left by a fallen tree is the only place where many seedlings get enough light to grow. Cutting a forest is one of the biggest of these. It destroys the homes of many living beings. Trees also give water back to the air through their leaves, so a cut hillside gets less rain. With less rain and less forest to hold the soil, floods and droughts become more likely. The carbon the trees held can also go into the air as carbon dioxide.
 - e.g. In a rainforest in the Western Ghats, one giant tree falling can open a gap as wide as a house plot.
 - e.g. On 18 May 1980 the volcano Mount St Helens in the United States blew out sideways and flattened forest for many kilometres.
 - e.g. A village tank that dries out fully in a drought year is a disturbance for the fish and the water plants.
@@ -563,16 +563,16 @@ She counted the ones in rows and the ones not in rows, and the ones not in rows 
   - Check: Two plans have the same number of forest squares. In one they are joined, in the other scattered. Which suits forest animals better? → **The joined one**
 
 ## Worksheets
-### How places change and recover (core) (core, 15 questions)
+### How places change and recover (core) (core, 16 questions)
 1. (mcq) What is a disturbance?  
-   Options: A noisy animal / An event that removes many living beings quickly / Any change in the weather / A new kind of plant  
+   Options: A noisy animal / Any change in the weather / An event that removes many living beings quickly / A new kind of plant  
    **Answer:** An event that removes many living beings quickly. *Why:* A disturbance clears living beings from a place quickly: a storm, a fire, a flood, a bulldozer. Choosing 'a noisy animal' uses the everyday meaning of the word.
 2. (fill) The first living beings to settle on bare ground are called ____ species.  
    **Answer:** ['pioneer']. *Why:* Pioneers arrive easily and can live in the open. Lichens, mosses and grasses are common pioneers.
 3. (order) Put these in the order they usually appear on an abandoned field.  
    **Answer:** ['Grasses and small herbs', 'Shrubs', 'Sun-loving young trees', 'Tall shade-bearing trees']. *Why:* Each group changes the place for the next. Grasses hold the soil. Shrubs give shade and perches. Sun-loving trees make the shade that slower trees' seedlings can bear.
 4. (mcq) Why do pioneer plants not keep a patch for ever?  
-   Options: They are weak plants / Animals eat them all / Their seedlings grow badly in the shade they make / They get tired  
+   Options: Their seedlings grow badly in the shade they make / They are weak plants / Animals eat them all / They get tired  
    **Answer:** Their seedlings grow badly in the shade they make. *Why:* Pioneers change the place. Their own seedlings need full sun and do badly in the shade the pioneers made. Choosing 'they are weak' is not right: they are the only ones able to start on bare ground.
 5. (truefalse) True or false: after a forest fire, new plants must wait for seeds to blow in from far away.  
    **Answer:** False. *Why:* False. The soil usually still holds seeds and living roots, so plants return within weeks. This is secondary succession.
@@ -590,20 +590,22 @@ She counted the ones in rows and the ones not in rows, and the ones not in rows 
 11. (truefalse) True or false: wolves were brought back to Yellowstone National Park in 1995 and 1996.  
    **Answer:** True. *Why:* True. 14 wolves came in 1995 and 17 in 1996, all caught in Canada. The last Yellowstone wolves had been killed in 1926.
 12. (mcq) At Pichavaram, what was killing the mangrove seedlings on the sunken ground?  
-   Options: Too few seeds / Too little sunlight / Crabs eating them / Standing water that had become too salty  
+   Options: Too few seeds / Standing water that had become too salty / Too little sunlight / Crabs eating them  
    **Answer:** Standing water that had become too salty. *Why:* Sea water stood still there and dried in the sun, so the salt built up. Channels let the tide flow in and out again. Choosing 'too few seeds' is the mistake the planters first made.
 13. (fill) A marsh soaks up flood water and lets it out ____.  
    **Answer:** ['slowly']. *Why:* A wetland holds a rush of water and releases it over hours or days, as the towel did in Wetland on a Board.
 14. (write) Why is planting trees on a natural grassland not restoration?  
    **Answer:** Because the grassland is the ecosystem that belongs there. The grasses, blackbuck, larks and bustards need open country. Trees replace their home with a plantation.. *Why:* A strong answer says that restoration aims at what the place naturally is, and that a grassland is not damaged forest.
 15. (mcq) What should a restorer ask first about a damaged place?  
-   Options: How many trees can I plant? / What is stopping this place from recovering? / Which plants look prettiest? / How can I make it tidy?  
+   Options: How many trees can I plant? / Which plants look prettiest? / What is stopping this place from recovering? / How can I make it tidy?  
    **Answer:** What is stopping this place from recovering?. *Why:* Most places regrow by themselves once the block is gone. Choosing 'how many trees can I plant' assumes the problem is always a lack of trees.
+16. (fill) When a forest is cut, the land gets less ____, and floods and droughts become more likely.  
+   **Answer:** ['rain']. *Why:* Trees give water back to the air through their leaves. With the trees gone, less water returns to the air, so less rain falls on the land.
 ### Patches, wolves and wetlands (stretch) (stretch, 15 questions)
 1. (count) A Patchwork Test round has 6 bare, 5 grass and 4 young patches. How many of the 36 are old?  
    **Answer:** 21. *Why:* Add the three: 6 + 5 + 4 = 15. Then 36 − 15 = 21 old patches.
 2. (mcq) With 12 storms a round, not 6, what happened to the old forest count?  
-   Options: It stayed at about 22 / It levelled off at a lower number / It fell to zero / It rose  
+   Options: It levelled off at a lower number / It stayed at about 22 / It fell to zero / It rose  
    **Answer:** It levelled off at a lower number. *Why:* It settled at about 13, down from about 22. It still levelled off. Choosing 'zero' forgets that some patches always escape for three rounds.
 3. (write) After 60 storms on 36 patches, more than half the forest was still old. How can that be?  
    **Answer:** Storms fall on patches at random, so many hit bare or young patches that had been hit before. Meanwhile every patch that escapes for three rounds becomes old again.. *Why:* A strong answer has both parts: storms overlap, and patches regrow. An answer that says 'the storms missed' has only the first part.
@@ -612,12 +614,12 @@ She counted the ones in rows and the ones not in rows, and the ones not in rows 
 5. (sort) Sort each being into the stage where you would expect to find them.  
    **Answer:** lichen on rock → Pioneer stage; great hornbill → Old forest; grass with wind-blown seeds → Pioneer stage; orchid on a mossy branch → Old forest; Macaranga tree in a sunny gap → Pioneer stage; lion-tailed macaque → Old forest. *Why:* Pioneers travel light and need sun. Old forest beings need what only time gives: huge trees, a closed canopy and damp shade.
 6. (mcq) On the new island of Surtsey, where did plants grow thickest?  
-   Options: On the highest point / On the newest lava / Where seabirds nested / Where it rained least  
+   Options: On the highest point / On the newest lava / Where it rained least / Where seabirds nested  
    **Answer:** Where seabirds nested. *Why:* Seabird droppings carry nitrogen and other plant food from the sea to the land. Choosing 'the highest point' forgets that new rock has almost no plant food.
 7. (write) Elk fell after wolves returned to Yellowstone. Give two other causes that could have lowered the elk.  
    **Answer:** Any two of: hunting by people outside the park, more grizzly bears, more cougars, and dry years.. *Why:* A strong answer shows that several things changed in the same years, so the fall cannot be put down to wolves alone.
 8. (mcq) Two teams measured the same Yellowstone willows and disagreed. What did they do differently?  
-   Options: They measured different things / One team made up numbers / They studied different parks / One team counted wolves  
+   Options: One team made up numbers / They studied different parks / They measured different things / One team counted wolves  
    **Answer:** They measured different things. *Why:* One team measured height and the other the volume of the leafy crown. What you choose to measure can change the answer. Choosing 'one team made up numbers' is not what happened.
 9. (draw) Draw a stream with a beaver dam, and without one. Show the water level under the ground in both.  
    **Answer:** Two cut-away drawings. With the dam: a pond, water just under the bank, tall willows. Without: a deep narrow channel, water far below the bank, short willows.. *Why:* A strong drawing shows the water under the ground at two different levels. That hidden water is why willows did not recover with wolves alone.
@@ -629,7 +631,7 @@ She counted the ones in rows and the ones not in rows, and the ones not in rows 
 12. (truefalse) True or false: a forest restored 15 years ago is as rich as an old forest beside it.  
    **Answer:** False. *Why:* False. In the Anamalai hills, restored fragments were ahead of unrestored ones but still behind the old forest. Big trees, nest holes and deep soil take far longer.
 13. (mcq) In Wetland on a Board, what did the third tumbler of water show?  
-   Options: Wetlands stop all floods / Towels do not hold water / A full wetland cannot hold more / Water runs uphill  
+   Options: A full wetland cannot hold more / Wetlands stop all floods / Towels do not hold water / Water runs uphill  
    **Answer:** A full wetland cannot hold more. *Why:* A towel that is already full lets new water run through. A marsh works the same way. Choosing 'wetlands stop all floods' claims too much.
 14. (perspective) Three people look at a bare, grazed hillside next to a forest.  
    **Answer:** A strong answer picks a view and uses the idea of a block to recovery. Seeds can arrive from the forest, so the block is grazing, and Lakshmi's fence may be enough. It can grant that planting helps where seeds cannot arrive.. *Why:* All three want the hill green. They differ on what is stopping it now.
@@ -641,7 +643,7 @@ She counted the ones in rows and the ones not in rows, and the ones not in rows 
 2. (count) Six storms hit 6 different patches out of 36. What is the chance, in sixths, that one named patch escapes?  
    **Answer:** 5. *Why:* 30 of the 36 patches escape. 30 out of 36 is the same as 5 out of 6. So the chance is 5 sixths.
 3. (mcq) A patch needs to escape storms three rounds running to become old. What is that chance, roughly?  
-   Options: About 5 in 6 / A little over 1 in 2 / About 1 in 6 / About 1 in 36  
+   Options: A little over 1 in 2 / About 5 in 6 / About 1 in 6 / About 1 in 36  
    **Answer:** A little over 1 in 2. *Why:* 5/6 × 5/6 × 5/6 = 125/216, which is a little over one half. Choosing '5 in 6' forgets that the patch must escape three times, not once.
 4. (truefalse) True or false: most ecologists today think every place moves to one fixed final community and then stops changing.  
    **Answer:** False. *Why:* False. That was the climax idea of 1916. Old communities change slowly, but they keep changing as trees die, the climate shifts and species arrive.
@@ -650,7 +652,7 @@ She counted the ones in rows and the ones not in rows, and the ones not in rows 
 6. (draw) Draw the Yellowstone chain: wolf, elk, willow, beaver, stream. Make agreed links solid arrows and argued links dotted.  
    **Answer:** Wolf to elk is solid (wolves kill elk). Elk to willow is solid (elk eat willow). Willow to beaver is solid (beavers need willow). 'Wolves made willows recover everywhere' and 'wolves changed the rivers' are dotted or crossed out.. *Why:* A strong drawing shows that the single links are well known. What is argued is how strongly the whole chain ran after 1995.
 7. (mcq) Why did willows on many Yellowstone streams stay short even with fewer elk?  
-   Options: Wolves eat willows / The winters were too warm / The water under the ground had sunk too low / Willows had died out  
+   Options: The water under the ground had sunk too low / Wolves eat willows / The winters were too warm / Willows had died out  
    **Answer:** The water under the ground had sunk too low. *Why:* With beavers gone, streams had cut deep and the water under the ground had sunk below the willow roots. Choosing 'wolves eat willows' mixes up the links of the chain.
 8. (order) Put these steps in the order they happened on Yellowstone streams after wolves were removed.  
    **Answer:** ['Elk became many', 'Elk ate the willows down', 'Beavers left', 'Streams cut deeper and ground water sank']. *Why:* Each step caused the next. The last step then kept willows short by itself, which is why bringing wolves back did not simply undo it.
@@ -678,36 +680,39 @@ She counted the ones in rows and the ones not in rows, and the ones not in rows 
 
 ## Quiz
 1. (mcq) Which of these is a disturbance?  
-   Options: A tree growing a new leaf / A bird building a nest / A cyclone felling trees / Rain on a pond  
+   Options: A tree growing a new leaf / A cyclone felling trees / A bird building a nest / Rain on a pond  
    **Answer:** A cyclone felling trees. *Why:* A cyclone removes many living beings in a short time. The others are slow, everyday events.
-2. (mcq) Why do lichens and mosses come before trees on bare rock?  
-   Options: They are older kinds of life / They can live without soil / Trees dislike rock / Birds plant them first  
+2. (mcq) People cut a whole hillside of forest. Which result is most likely?  
+   Options: The forest is back within a season / Less rain can fall, and floods and droughts become more likely / More rain falls, because the land is open / Nothing changes for the living beings, because only trees are cut  
+   **Answer:** Less rain can fall, and floods and droughts become more likely. *Why:* Trees give water back to the air through their leaves, so a cut forest gives back less, and forests take many years to grow back. Choosing 'back within a season' ignores how slowly forests grow. Choosing 'more rain' gets the water cycle the wrong way round.
+3. (mcq) Why do lichens and mosses come before trees on bare rock?  
+   Options: They are older kinds of life / Trees dislike rock / They can live without soil / Birds plant them first  
    **Answer:** They can live without soil. *Why:* They need no soil, and they help to make the first soil. Choosing 'they are older kinds of life' explains nothing about this rock.
-3. (mcq) A landslide and a lava flow each clear a slope. Which regrows faster, and why?  
-   Options: The landslide: some soil and seeds remain / The lava: it is warmer / Both the same / Neither will regrow  
+4. (mcq) A landslide and a lava flow each clear a slope. Which regrows faster, and why?  
+   Options: The lava: it is warmer / Both the same / The landslide: some soil and seeds remain / Neither will regrow  
    **Answer:** The landslide: some soil and seeds remain. *Why:* A landslide scar keeps some soil and lies next to living forest. Lava leaves no soil and no seeds, so succession there is primary and slow.
-4. (mcq) You plant nothing in a pot of soil from under weeds, and water it. What is most likely to happen?  
-   Options: Nothing grows / Only moss grows / Seedlings come up from seeds in the soil / The soil turns to rock  
+5. (mcq) You plant nothing in a pot of soil from under weeds, and water it. What is most likely to happen?  
+   Options: Nothing grows / Only moss grows / The soil turns to rock / Seedlings come up from seeds in the soil  
    **Answer:** Seedlings come up from seeds in the soil. *Why:* The soil holds a seed bank, so seedlings appear within a week or two. Choosing 'nothing' forgets the seeds you cannot see.
-5. (mcq) Storms hit a large forest at a steady rate for centuries. What is the forest like?  
+6. (mcq) Storms hit a large forest at a steady rate for centuries. What is the forest like?  
    Options: All bare / All young / All old / A steady mix of patches of all ages  
    **Answer:** A steady mix of patches of all ages. *Why:* Patches are cleared and regrow all the time, so the forest holds every age at once, in a steady mix.
-6. (truefalse) True or false: in a steady forest, each single patch stays the same.  
+7. (truefalse) True or false: in a steady forest, each single patch stays the same.  
    **Answer:** False. *Why:* False. Each patch keeps changing. Only the mix of young and old across the whole landscape stays about the same.
-7. (mcq) Which statement about the wolves of Yellowstone is well shown by counting?  
-   Options: Wolves changed the course of rivers / Elk numbers fell after wolves returned / Wolves alone made the elk fall / All willows have recovered  
+8. (mcq) Which statement about the wolves of Yellowstone is well shown by counting?  
+   Options: Elk numbers fell after wolves returned / Wolves changed the course of rivers / Wolves alone made the elk fall / All willows have recovered  
    **Answer:** Elk numbers fell after wolves returned. *Why:* Wolves and elk are counted every year, and elk fell by more than half. The other three go beyond the evidence.
-8. (mcq) A missing predator is brought back, but the streams do not recover. What is the most likely reason?  
-   Options: Predators do not matter / Not enough time, and nothing else / Later changes now keep the damage going / The plants forgot how to grow  
+9. (mcq) A missing predator is brought back, but the streams do not recover. What is the most likely reason?  
+   Options: Later changes now keep the damage going / Predators do not matter / Not enough time, and nothing else / The plants forgot how to grow  
    **Answer:** Later changes now keep the damage going. *Why:* After the predator was lost, later changes took hold, such as deep-cut streams and sunken ground water. Those now hold the place in its new state.
-9. (mcq) Mangroves are dying where sea water stands still on sunken ground. What is the best plan?  
+10. (mcq) Mangroves are dying where sea water stands still on sunken ground. What is the best plan?  
    Options: Dig channels so the tide flows in and out / Plant more seedlings each year / Add fresh soil on top / Build a wall against the sea  
    **Answer:** Dig channels so the tide flows in and out. *Why:* The block is standing salty water. Channels bring back the tide's flow. This is what worked at Pichavaram.
-10. (mcq) A city fills in its marshes and builds on them. What is the likely result in heavy rain?  
-   Options: Less flooding / Faster, worse flooding / No change / Less rain  
+11. (mcq) A city fills in its marshes and builds on them. What is the likely result in heavy rain?  
+   Options: Less flooding / No change / Less rain / Faster, worse flooding  
    **Answer:** Faster, worse flooding. *Why:* The marsh no longer soaks up the rush of water, so it reaches the streets quickly and in one burst.
-11. (mcq) A dry grassland with blackbuck is marked 'wasteland'. What would restore it?  
-   Options: Planting trees in rows / Flooding it to make a lake / Covering it with lawn grass / Protecting it as grassland  
+12. (mcq) A dry grassland with blackbuck is marked 'wasteland'. What would restore it?  
+   Options: Planting trees in rows / Flooding it to make a lake / Protecting it as grassland / Covering it with lawn grass  
    **Answer:** Protecting it as grassland. *Why:* An open grassland is a natural ecosystem. It needs protection from ploughing, building and tree planting, not a forest on top of it.
 
 ## Applications
@@ -722,11 +727,11 @@ She counted the ones in rows and the ones not in rows, and the ones not in rows 
 ## Spotted around us
 - A peepal or banyan seedling growing out of a wall or a roof gutter. A bird left the seed there.
 - An empty plot in a city. In its first monsoon it is all grass and weeds. A few years on, it is a thicket.
-- A dried tank bed in summer, in Tamil Nadu or Telangana. Within weeks of drying it is covered in short grass, and cattle graze there.
-- A landslide scar beside a hill road in Kerala or Uttarakhand, a few years old, now green with grass, ferns and young trees.
-- The hills above Munnar, Ooty or Kodaikanal, where dark shola forest sits in the folds and grassland covers the slopes.
+- A dried tank bed in summer. Within weeks of drying it is covered in short grass, and cattle graze there.
+- A landslide scar beside a hill road, a few years old, now green with grass, ferns and young trees.
+- A hill where dark patches of forest sit in the folds and grassland covers the slopes.
 - A gap where a big tree fell in a park or on a campus after a cyclone. Look at what has grown in the light since.
-- Mangroves along a creek in Mumbai, Kochi or Pichavaram, with their breathing roots standing out of the mud at low tide.
+- Mangroves along a creek, with their breathing roots standing out of the mud at low tide.
 - A damp wall under a leaking pipe: a green film first, then moss, then a small fern. This is primary succession on your own building.
 
 ## Open questions
@@ -773,14 +778,19 @@ Everybody Eats (sci.ecology.L5): Topic-level song
 - [Nature Conservation Foundation: reviving the rainforest](https://www.ncf-india.org/western-ghats/reviving-the-rainforest) · interactive: The team restoring rainforest fragments in the Anamalai hills of Tamil Nadu describe how they do it, with photographs.
 - [Surtsey Research Society](https://english.surtsey.is) · interactive: The story of the island born in 1963, and of each plant and bird as they arrived. For the parent and child together.
 - [Yellowstone National Park](https://www.nps.gov/yell/) · interactive: The park's own pages on wolves, elk and beavers. Look for how the numbers are counted each year.
-- [Pichavaram Mangrove Forest]() · place · Near Chidambaram, Tamil Nadu: Take a rowing boat through the mangrove channels. Ask the boatman where the tide comes in, and look for seedlings that nobody planted.
-- [Pallikaranai Marsh]() · place · Chennai, Tamil Nadu: A city marsh with hundreds of water birds, seen from the roadside. Look at what stands on the filled land all round.
-- [Aravalli Biodiversity Park]() · place · Gurugram, Haryana: Old mining land replanted with the trees and shrubs of the Aravalli hills. Ask what was there before, and what was planted.
+- Pichavaram Mangrove Forest · place · Near Chidambaram, Tamil Nadu: Take a rowing boat through the mangrove channels. Ask the boatman where the tide comes in, and look for seedlings that nobody planted.
+- Pallikaranai Marsh · place · Chennai, Tamil Nadu: A city marsh with hundreds of water birds, seen from the roadside. Look at what stands on the filled land all round.
+- Aravalli Biodiversity Park · place · Gurugram, Haryana: Old mining land replanted with the trees and shrubs of the Aravalli hills. Ask what was there before, and what was planted.
 
 ## Things to buy
 - [A pair of dice in two colours](https://www.amazon.in/s?k=dice+set+two+colours) (tool): For the Patchwork Test, where one die gives the column and the other gives the row, and for Climb to Old Forest. One die rolled twice also works. Used in e1, g1. 
 - [A pad of graph paper](https://www.amazon.in/s?k=graph+paper+pad+a4) (material): For the line graph in the Patchwork Test and the grid in Plan the Patchwork. A squared maths notebook also works. Used in e1, c2. 
 - [The Wolves Are Back, by Jean Craighead George, pictures by Wendell Minor](https://www.amazon.in/s?k=The+Wolves+Are+Back+Jean+Craighead+George) (book): A picture book that tells the simple version of the Yellowstone story. It is good to read side by side with The Wolf Chain. Used in a2. Read it before The Wolf Chain. Afterwards, go back through the book and ask of each page: is this counted, argued about, or claimed too much?
+- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): Used in Nobody Planted Me: who settles a bare place first?. About ₹30 to ₹120. A water drop on clear plastic magnifies a little. Used in a1. Get it before Nobody Planted Me: who settles a bare place first?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Patchwork Test: after 60 storms, how much old forest is left?, Wetland on a Board: what does a marsh do in a flood?, The Seed Ball Drop: a ball that lands whole and still sprouts. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a3, c1, c2. Get it before The Patchwork Test: after 60 storms, how much old forest is left?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in The Seed Ball Drop: a ball that lands whole and still sprouts. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in c1. Get it before The Seed Ball Drop: a ball that lands whole and still sprouts.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Seed Ball Drop: a ball that lands whole and still sprouts. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in c1. Get it before The Seed Ball Drop: a ball that lands whole and still sprouts.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What do we call an event that clears many living beings from a place quickly? → A disturbance.
@@ -801,7 +811,7 @@ Everybody Eats (sci.ecology.L5): Topic-level song
 - Curriculum entry sci.ecology.how-ecosystems-change.L5 (covers: wolves returning to Yellowstone, restoring forests, rivers and wetlands, landscapes as patchworks) and its notebook items bio:201, bio:202, bio:203 and bio:205
 - ideas/by_topic/living-in-harmony.md: the notebook's line that harmony needs give and take and that too much imbalance brings instability, used for the steady mix of the Patchwork Test and for tipping points
 - Combined lesson sci-C5-living-in-harmony: its section on what happens when people remove a predator, and on communities who protect forests, taken further here into bringing a predator back and restoring a place. Its story is not reused
-- The Level 3, 4 and 5 units of the same topic (food webs and keystone species, the first telling of Yellowstone in food-chains.L3, corridors and patch size in biodiversity.L5, carrying capacity in populations.L5), so this unit leads on from them without repeating them
+- The Level 3, 4 and 5 units of the same topic (food webs and keystone species, the first telling of Yellowstone in food-chains.L3, corridors and patch size in biodiversity.L5, carrying capacity in populations.L5), so this lesson leads on from them without repeating them
 - Cowles, H. C., 1899, 'The ecological relations of the vegetation on the sand dunes of Lake Michigan', Botanical Gazette 27
 - Clements, F. E., 1916, Plant Succession: An Analysis of the Development of Vegetation, Carnegie Institution of Washington
 - Gleason, H. A., 1926, 'The individualistic concept of the plant association', Bulletin of the Torrey Botanical Club 53

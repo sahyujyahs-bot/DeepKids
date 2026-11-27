@@ -1,4 +1,8 @@
 {
+ "expl.2": {
+  "src": "media/img/sci.animal-behaviour.animal-communication.L4/expl.2.webp",
+  "credit": "Hopeland, CC BY, via iNaturalist"
+ },
  "setup.a1.0": {
   "src": "media/img/sci.animal-behaviour.animal-communication.L4/setup.a1.0.webp",
   "drawn": true
@@ -118,5 +122,9 @@
  "setup.p1.2": {
   "src": "media/img/sci.animal-behaviour.animal-communication.L4/setup.p1.2.webp",
   "drawn": true
+ },
+ "story.1": {
+  "src": "media/img/sci.animal-behaviour.animal-communication.L4/story.1.webp",
+  "credit": "rajesh rocky, CC BY, via iNaturalist"
  }
 }

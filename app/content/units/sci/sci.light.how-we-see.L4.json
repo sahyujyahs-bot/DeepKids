@@ -714,11 +714,11 @@
       "t": "mcq",
       "q": "A friend stands behind a wall and you cannot see her face. Which reason fits best?",
       "options": [
-       "Blocked",
        "No light",
-       "The brain's guess"
+       "The brain's guess",
+       "Blocked"
       ],
-      "a": 0,
+      "a": 2,
       "why": "There is plenty of light in the room. But light goes in straight lines, and the wall is in the way. Picking 'no light' mixes up light that is missing with light that is stopped."
      },
      "context": "In this step, you play three practice cards and learn how to score."
@@ -775,11 +775,11 @@
      "t": "mcq",
      "p": "A torch shines through three cards with holes, and a spot shows on the wall. The spot vanishes when the middle card is slid sideways. What does this show?",
      "opts": [
-      "Light travels in straight lines",
       "Light bends round the edge of a hole",
-      "The torch is weak"
+      "The torch is weak",
+      "Light travels in straight lines"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The light only passed through while the three holes were on one straight line. When the middle hole moved off the line, the card blocked the light. Light did not bend round the edge. Picking 'the torch is weak' does not fit, because the spot returns when the card is slid back.",
      "how": "e1"
     },
@@ -814,11 +814,11 @@
      "t": "mcq",
      "p": "Why is the picture on the retina upside down?",
      "opts": [
-      "The lens bends rays from the top of a thing downwards and rays from the bottom upwards, so they cross",
       "The eye is hung upside down",
+      "The lens bends rays from the top of a thing downwards and rays from the bottom upwards, so they cross",
       "The brain turns it over before it reaches the eye"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Rays from the top of a thing cross the rays from the bottom as they pass through the lens. So the top ends up at the bottom of the picture. Picking 'the brain turns it over' mixes up the order. The picture is upside down before it gets to the brain.",
      "how": "e3"
     },
@@ -826,11 +826,11 @@
      "t": "mcq",
      "p": "You look up from a book to a clock on the wall, and for a moment it is blurry. What is your eye doing?",
      "opts": [
-      "Changing the lens from thick to thinner",
       "Changing the retina from thin to thick",
+      "Changing the lens from thick to thinner",
       "Making the pupil bigger"
      ],
-     "a": 0,
+     "a": 1,
      "why": "For a near book, the lens is thick. For a far clock, it has to become thinner. This takes a moment, and in that moment the picture is blurry."
     },
     {
@@ -846,11 +846,11 @@
      "t": "mcq",
      "p": "A friend looks 18 centimetres tall on a ruler held at arm's length when she stands 4 metres away. About how tall will she look when she stands 8 metres away?",
      "opts": [
-      "About 9 centimetres",
       "About 36 centimetres",
+      "About 9 centimetres",
       "About 18 centimetres"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Twice as far away makes the angle at the eye half as big. So she looks about half as tall, which is 9 centimetres. Picking 18 forgets that distance matters. Picking 36 gets the pattern backwards.",
      "how": "a4"
     },
@@ -882,11 +882,11 @@
      "t": "mcq",
      "p": "In the Near Pencil, Far Pencil test, you swapped eyes. A pencil held near jumped much more than a pencil held far. What does the brain use the size of the jump for?",
      "opts": [
-      "To work out how far away the pencil is",
       "To make the pencil move",
-      "To change the colour of the pencil"
+      "To change the colour of the pencil",
+      "To work out how far away the pencil is"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A near thing jumps a lot and a far thing jumps a little. So the size of the jump is a clue to the distance.",
      "how": "e2"
     },
@@ -951,11 +951,11 @@
      "t": "mcq",
      "p": "An octopus has no blind spot. Why?",
      "opts": [
-      "Her light-catching cells face the light and her nerve fibres lie behind them",
       "She has more eyes than we do",
+      "Her light-catching cells face the light and her nerve fibres lie behind them",
       "Her brain is bigger than ours"
      ],
-     "a": 0,
+     "a": 1,
      "why": "In our eyes, the nerve fibres lie in front of the light-catching cells, so the nerve must pass through the retina. That makes a gap. In an octopus's eye the fibres lie behind, so there is no gap."
     },
     {
@@ -978,22 +978,22 @@
      "t": "mcq",
      "p": "Light from a window lands on a plain white wall, but the wall shows no picture of the window. Why?",
      "opts": [
-      "Rays from every point of the window land on every point of the wall and mix",
       "The wall is too white",
-      "Light cannot make pictures"
+      "Light cannot make pictures",
+      "Rays from every point of the window land on every point of the wall and mix"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Each point of the window sends rays in all directions, so every point of the wall gets light from every point of the window. It all mixes. To make a picture, you need a hole or a lens to sort the rays."
     },
     {
      "t": "mcq",
      "p": "A pinhole and a lens both make a sharp picture. Why is the lens picture much brighter?",
      "opts": [
-      "The lens gathers light from a wide area and bends it to the same place",
       "The lens makes its own light",
-      "The pinhole makes the picture darker on purpose"
+      "The pinhole makes the picture darker on purpose",
+      "The lens gathers light from a wide area and bends it to the same place"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A pinhole lets through only a thin beam from each point. A lens is a wide window that bends many rays from each point back together."
     },
     {
@@ -1075,11 +1075,11 @@
      "t": "mcq",
      "p": "A fielder runs to where a ball will land, not to where it is. What does this show?",
      "opts": [
-      "The brain predicts, because what it sees is a little old",
       "The fielder sees the future",
+      "The brain predicts, because what it sees is a little old",
       "The ball is slow"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Signals from the eye take a short time to be used. A fast ball moves a long way in that time. So the brain predicts where the ball will be."
     },
     {
@@ -1108,11 +1108,11 @@
      "t": "mcq",
      "p": "A deer has eyes at the sides of her head. What does she gain?",
      "opts": [
-      "A very wide view, almost all the way round",
       "Strong depth for a pounce",
-      "Better sight in the dark than every other animal"
+      "Better sight in the dark than every other animal",
+      "A very wide view, almost all the way round"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Side eyes cover different parts of the world, so together they see almost all the way round. That helps a deer spot danger."
     },
     {
@@ -1172,11 +1172,11 @@
      "t": "mcq",
      "p": "A rabbit has eyes at the sides of her head. Why can she not judge the distance of a close object as well as a cat?",
      "opts": [
-      "Her two eyes see mostly different parts of the world, so there is little overlap to compare",
       "Her eyes are too small",
-      "Rabbits cannot see close things"
+      "Rabbits cannot see close things",
+      "Her two eyes see mostly different parts of the world, so there is little overlap to compare"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Depth from two eyes needs overlapping views. Side eyes overlap very little, so there is not much difference to measure."
     }
    ]
@@ -1191,11 +1191,11 @@
      "t": "mcq",
      "p": "In 1838, Charles Wheatstone showed one flat drawing to each eye, and together the two drawings looked solid. What did this show?",
      "opts": [
-      "The difference between the views of the two eyes is a clue to depth in itself",
       "The brain draws solid things",
-      "Flat things are really solid"
+      "Flat things are really solid",
+      "The difference between the views of the two eyes is a clue to depth in itself"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The drawings were flat, so they had no real depth. Yet the brain made a solid scene from the small difference between them."
     },
     {
@@ -1210,11 +1210,11 @@
      "t": "mcq",
      "p": "A scientist wants to check that the picture on a retina is upside down. Which test would work?",
      "opts": [
-      "Take the back off an animal's eye so that the retina shows through, and look at the picture",
       "Ask a person to draw what they see",
+      "Take the back off an animal's eye so that the retina shows through, and look at the picture",
       "Shine a torch into the eye"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Looking at the picture on the retina directly is the best test. Scheiner did this in the early 1600s. Asking someone what they see would not show the picture on the retina, because the brain has already worked on it."
     },
     {
@@ -1272,11 +1272,11 @@
      "t": "mcq",
      "p": "A cat jumps on a mouse. Why do both her eyes face the front?",
      "opts": [
-      "Two overlapping views give her strong depth for judging the leap",
       "Eyes at the front see further than eyes at the sides",
+      "Two overlapping views give her strong depth for judging the leap",
       "She can see in the dark that way"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Overlapping views let the brain compare and measure the distance. This is what a hunter needs for a leap."
     },
     {
@@ -1322,11 +1322,11 @@
      "t": "mcq",
      "p": "A spinning thaumatrope seems to show a bird inside a cage. Which statement fits best?",
      "opts": [
-      "The brain joins two pictures that come very quickly one after the other",
       "The bird and the cage are drawn on the same side",
+      "The brain joins two pictures that come very quickly one after the other",
       "The card makes a new picture of its own"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The card shows the bird and the cage one after the other, many times a second. Your brain joins them. Scientists still discuss exactly how."
     },
     {
@@ -1348,11 +1348,11 @@
      "t": "mcq",
      "p": "A child cannot read the board from the back bench but reads a book easily. What may help?",
      "opts": [
-      "An eye test, and perhaps glasses with a concave lens",
       "Sitting closer to the Sun",
-      "Eating more carrots"
+      "Eating more carrots",
+      "An eye test, and perhaps glasses with a concave lens"
      ],
-     "a": 0,
+     "a": 2,
      "why": "This is a sign of short sight. A concave lens spreads the light a little, and moves the focus back on to the retina."
     }
    ]
@@ -1684,11 +1684,11 @@
       "t": "mcq",
       "q": "The pencil jumped further the nearer it was held. What does the brain do with the size of the jump?",
       "options": [
-       "It uses the jump to work out how far away the pencil is",
        "It ignores the jump",
+       "It uses the jump to work out how far away the pencil is",
        "It uses the jump to move the pencil"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Near things jump a lot and far things jump a little, so the size of the jump tells the brain the distance. Picking 'ignores the jump' cannot be right, because people judge distance well with two eyes. Picking 'move the pencil' mixes up what the eyes see with what the pencil does."
      },
      "chart": {
@@ -1734,11 +1734,11 @@
       "t": "mcq",
       "q": "With one eye closed, the pencil tips often passed each other. Why?",
       "options": [
-       "The brain loses the difference between two views that tells it how far away the tips are",
        "One eye cannot see a pencil",
-       "The pencil moved on its own"
+       "The pencil moved on its own",
+       "The brain loses the difference between two views that tells it how far away the tips are"
       ],
-      "a": 0,
+      "a": 2,
       "why": "With two eyes, the brain has two views to compare, and the difference tells it how far apart the tips are. With one eye, that clue is gone, so judging a small gap is harder. Picking 'one eye cannot see a pencil' is not right, because you could still see both pencils with one eye closed. Only the distance was harder to judge."
      },
      "chart": {
@@ -1899,11 +1899,11 @@
       "t": "mcq",
       "q": "The bright phone screen was nearer to the lens. The card had to be a little further from the lens for a sharp picture. What does this show?",
       "options": [
-       "A lens needs the card in a different place for near things and far things",
        "The lens got bigger",
+       "A lens needs the card in a different place for near things and far things",
        "The phone was brighter than the window"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A lens brings the rays from a near thing together a little further behind it than the rays from a far thing. So the card has to move. Picking 'the lens got bigger' is not right, because the same lens was used. In your eye, the retina cannot move, so the eye changes the lens instead."
      },
      "chart": {
@@ -2151,11 +2151,11 @@
       "t": "mcq",
       "q": "You noticed the pen moving much earlier than you could say it was red. Why?",
       "options": [
-       "The edges of the retina notice movement well, but have few cone cells for colour",
        "Red is hard to see",
-       "The pen changed colour as it moved"
+       "The pen changed colour as it moved",
+       "The edges of the retina notice movement well, but have few cone cells for colour"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The edges of your retina have many rod cells, which are good at noticing movement and dim light, but only a few cone cells, which see colour. So you notice movement first, and colour later, as the pen moves closer to your sharp spot. Picking 'the pen changed colour' sounds sensible, but the pen stayed red the whole time."
      },
      "context": "In this step, you test the right side of your view and write down what you find."
@@ -2249,11 +2249,11 @@
       "t": "mcq",
       "q": "The writing turned blurry when the card came too near. What does this tell you about the lens in the eye?",
       "options": [
-       "The lens cannot get thick enough to focus on things that close",
        "The card changed",
-       "The eye ran out of light"
+       "The eye ran out of light",
+       "The lens cannot get thick enough to focus on things that close"
       ],
-      "a": 0,
+      "a": 2,
       "why": "To focus on a near thing, the lens must get thicker. It has a limit. Closer than that limit, the picture on the retina is blurry. Picking 'the eye ran out of light' is a natural idea. But the writing was still lit. The problem was the focus, not the light."
      },
      "context": "In this step, you find and measure your own near point."
@@ -2392,11 +2392,11 @@
       "t": "mcq",
       "q": "The pole looked half as tall at 4 metres as at 2 metres. What does this show about distance and size?",
       "options": [
-       "Twice as far away makes a thing look half as tall",
        "A thing gets smaller when it moves",
+       "Twice as far away makes a thing look half as tall",
        "The ruler shrank"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The rays from the top and bottom of the pole make an angle at your eye. Twice as far means half the angle, so it looks half as tall. The pole did not shrink, and neither did the ruler. Picking 'a thing gets smaller' mixes up how it looks with how big it is."
      },
      "chart": {
@@ -2526,11 +2526,11 @@
       "t": "mcq",
       "q": "Why do the two pictures have to be drawn in the middle of each disc?",
       "options": [
-       "So that they sit on top of each other when the disc flips quickly",
        "So that the disc is easy to cut",
+       "So that they sit on top of each other when the disc flips quickly",
        "Because bright colours show best there"
       ],
-      "a": 0,
+      "a": 1,
       "why": "When the disc twirls, each picture lands in the same place as the other one. The brain joins them there. If one picture were off to the side, the two would not overlap, and you would just see two flickering pictures. Picking 'easy to cut' is about making the disc, not about what you see when it spins."
      },
      "adult": true,
@@ -2556,11 +2556,11 @@
       "t": "mcq",
       "q": "In your flip book, each page is a still picture. Why does the ball seem to move?",
       "options": [
-       "The brain joins the pictures that come quickly one after another, and sees movement",
        "The ball is moving on the page",
-       "The pages are warm"
+       "The pages are warm",
+       "The brain joins the pictures that come quickly one after another, and sees movement"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Each page is still. But when they come quickly one after another, your brain joins them and builds movement between them. Films work the same way. Picking 'the ball is moving on the page' can be tested. Stop flicking and look at one page: the ball is still."
      },
      "context": "In this step, you make a flip book of a bouncing ball."
@@ -2699,11 +2699,11 @@
       "t": "mcq",
       "q": "A word with letters 2 centimetres tall could be read from twice as far as the same word with letters 1 centimetre tall. Why?",
       "options": [
-       "Twice as tall at twice the distance makes the same angle at the eye, so it looks the same size",
        "Bigger letters are brighter",
+       "Twice as tall at twice the distance makes the same angle at the eye, so it looks the same size",
        "The reader's eyes got better"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The size that a thing looks depends on the angle between the rays from its top and its bottom. Doubling the height and the distance together keeps the angle the same. Picking 'brighter' is not right, because the paper and the pen were the same. Picking 'eyes got better' fails, because the reader and her eyes did not change."
      },
      "context": "In this step, you test signs with different sizes and colours and write down how far each can be read."
@@ -2751,11 +2751,11 @@
    "t": "mcq",
    "p": "What is the best evidence that light travels in straight lines?",
    "opts": [
-    "The spot of light vanishes when one of three cards with holes is slid sideways",
     "Light is very bright",
-    "Light travels fast"
+    "Light travels fast",
+    "The spot of light vanishes when one of three cards with holes is slid sideways"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The spot only reached the wall when the holes were on one straight line. Brightness and speed do not say anything about the path.",
    "outcome": 0
   },
@@ -2763,11 +2763,11 @@
    "t": "mcq",
    "p": "In a ray diagram, what do the arrows show?",
    "opts": [
-    "The direction that the light travels",
     "How hot the light is",
+    "The direction that the light travels",
     "Where the eye is looking"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A ray is a straight arrow that shows where a thin beam of light is going. In the diagram of a lamp, a mango and an eye, every arrow points the way the light travels.",
    "outcome": 1
   },
@@ -2775,11 +2775,11 @@
    "t": "mcq",
    "p": "A magnifying glass held between a window and a card makes a picture on the card. How does the picture look?",
    "opts": [
-    "Small and upside down",
     "Big and the right way up",
-    "Just a blur of light"
+    "Just a blur of light",
+    "Small and upside down"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A lens makes an upside-down picture of a far window on a card, if the card is at the sharp place. It is small, because the window is far away.",
    "outcome": 2
   },
@@ -2799,11 +2799,11 @@
    "t": "mcq",
    "p": "You swap eyes with a finger held up, and the finger jumps. Where does the finger give the biggest jump?",
    "opts": [
-    "Close to your nose",
     "At arm's length",
-    "Across the room"
+    "Across the room",
+    "Close to your nose"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The nearer the finger, the bigger the jump. The brain uses this to tell how far away things are.",
    "outcome": 4
   },
@@ -2811,11 +2811,11 @@
    "t": "mcq",
    "p": "An owl hunts at night. Where are her eyes, and why?",
    "opts": [
-    "At the front, so that two overlapping views give depth for a pounce",
     "At the sides, so that she can see all round",
+    "At the front, so that two overlapping views give depth for a pounce",
     "On top of her head, so that she can see up"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A hunter needs depth to judge a leap. Front eyes overlap, and the difference between the views gives depth.",
    "outcome": 5
   },
@@ -2835,11 +2835,11 @@
    "t": "mcq",
    "p": "Which of these do scientists not agree on yet?",
    "opts": [
-    "Exactly why the Moon looks bigger near the horizon",
     "That light travels in straight lines in clear air",
-    "That two eyes give two different pictures"
+    "That two eyes give two different pictures",
+    "Exactly why the Moon looks bigger near the horizon"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The other two have been tested many times. The reason for the Moon illusion is still argued about.",
    "outcome": 7
   },
@@ -2847,11 +2847,11 @@
    "t": "mcq",
    "p": "A friend stands 8 metres away and looks half as tall as she looks at 4 metres. Why?",
    "opts": [
-    "The rays from her head and feet make a smaller angle at your eye",
     "She shrinks when she walks away",
+    "The rays from her head and feet make a smaller angle at your eye",
     "Light travels slower far away"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Twice as far means half the angle at the eye, so she looks half as tall. She did not shrink.",
    "outcome": 2
   },
@@ -2871,11 +2871,11 @@
    "t": "mcq",
    "p": "Why can a person with one eye still judge distance quite well?",
    "opts": [
-    "They use clues such as size, overlap and how things shift when the head moves",
     "Their one eye is twice as strong",
+    "They use clues such as size, overlap and how things shift when the head moves",
     "They cannot, but they guess well"
    ],
-   "a": 0,
+   "a": 1,
    "why": "There are many clues to distance in one view. Moving the head gives two views, one after the other, just as two eyes give two at once.",
    "outcome": 4
   },
@@ -2883,11 +2883,11 @@
    "t": "mcq",
    "p": "A sign must be read from twice as far away. How tall should its letters be?",
    "opts": [
-    "About twice as tall",
     "About half as tall",
-    "The same height"
+    "The same height",
+    "About twice as tall"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Twice as far makes the angle half as big. Twice as tall makes it twice as big again, so the sign looks the same size.",
    "outcome": 1
   }
@@ -3260,6 +3260,96 @@
    "used_in": [
     "e3"
    ]
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in A Lens Makes a Window Picture: where is the sharp place?, Near Point: how close can you focus?, How Big Does It Look? A ruler at arm's length. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "e3",
+    "a3",
+    "a4",
+    "c1"
+   ],
+   "plan": "Get it before A Lens Makes a Window Picture: where is the sharp place?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Three Cards, Three Holes: can light go round a corner?, Near Pencil, Far Pencil: the finger jump and the depth test, A Lens Makes a Window Picture: where is the sharp place?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e2",
+    "e3",
+    "a3",
+    "a4",
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before Three Cards, Three Holes: can light go round a corner?."
+  },
+  {
+   "id": "b-a-set-of-lenses--convex-and-",
+   "item": "A set of lenses (convex and concave)",
+   "kind": "tool",
+   "why": "Used in A Lens Makes a Window Picture: where is the sharp place?. About ₹80 to ₹250. A magnifying glass is one convex lens.",
+   "url": "https://www.amazon.in/s?k=convex+concave+lens+set",
+   "used_in": [
+    "e3"
+   ],
+   "plan": "Get it before A Lens Makes a Window Picture: where is the sharp place?."
+  },
+  {
+   "id": "b-sticky-notes",
+   "item": "Sticky notes",
+   "kind": "material",
+   "why": "Used in A Bird in a Cage: pictures that join in your eye. About ₹20 to ₹60. Small torn paper and tape do the same job.",
+   "url": "https://www.amazon.in/s?k=sticky+notes+pack",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before A Bird in a Cage: pictures that join in your eye."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Readable From the Far End: design the best sign. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before Readable From the Far End: design the best sign."
+  },
+  {
+   "id": "b-postcards-or-plain-cards",
+   "item": "Postcards or plain cards",
+   "kind": "material",
+   "why": "Used in Three Cards, Three Holes: can light go round a corner?, A Lens Makes a Window Picture: where is the sharp place?. About ₹5 to ₹20. Cut card from a cereal box.",
+   "url": "https://www.amazon.in/s?k=blank+postcards",
+   "used_in": [
+    "e1",
+    "e3"
+   ],
+   "plan": "Get it before Three Cards, Three Holes: can light go round a corner?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

@@ -468,10 +468,10 @@
       "q": "The finger slice grew spots. The slice nobody touched grew almost none. What does this show?",
       "options": [
        "Potatoes make spots by themselves",
-       "Microbes were on the fingers",
-       "Boxes make spots grow"
+       "Boxes make spots grow",
+       "Microbes were on the fingers"
       ],
-      "a": 1,
+      "a": 2,
       "why": "All three slices came from the same potato and sat in the same kind of box. Only the finger slice was touched by fingers, and that one grew spots. So the microbes came from the fingers. If potatoes made spots by themselves, the Nobody slice would have as many."
      }
     },
@@ -656,11 +656,11 @@
       "t": "mcq",
       "q": "Suppose the Drop katori set into curd, but the Nothing katori stayed runny. Why?",
       "options": [
-       "The drop had a few curd bacteria, and they multiplied all night",
        "The plate made the milk thick",
+       "The drop had a few curd bacteria, and they multiplied all night",
        "Milk always turns into curd by itself"
       ],
-      "a": 0,
+      "a": 1,
       "why": "All three katoris had a plate and warm milk. The Nothing katori stayed runny, so milk does not set into curd by itself. The drop carried a few curd bacteria, and by morning they had multiplied into millions."
      }
     }
@@ -775,11 +775,11 @@
       "t": "mcq",
       "q": "Much of the earthy smell of wet soil is made by whom?",
       "options": [
-       "The rain clouds",
        "Bacteria living in the soil",
+       "The rain clouds",
        "The flower pot"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Soil bacteria make a substance called geosmin. Water lifts tiny amounts into the air, and our noses pick it up. Clouds and pots do not make the smell."
      }
     }
@@ -1161,11 +1161,11 @@
       "t": "mcq",
       "q": "Scientists found living bacteria in clouds high in the sky. What does this show?",
       "options": [
-       "Microbes can float in the air and live high up",
        "Clouds are made of bacteria",
+       "Microbes can float in the air and live high up",
        "Only the sea has microbes"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Microbes float in the air on tiny bits of dust, and some have been found alive in clouds. Clouds are made of water drops, and microbes live in many places besides the sea."
      },
      "ask": [
@@ -1575,11 +1575,11 @@
      "t": "mcq",
      "p": "What is a microbe?",
      "opts": [
-      "A tiny stone",
       "A living being too small to see",
+      "A tiny stone",
       "A baby ant"
      ],
-     "a": 1,
+     "a": 0,
      "why": "A microbe is a living being too small to see with our eyes alone. Most microbes are a single cell. A tiny stone is not alive, and a baby ant is big enough to see."
     },
     {
@@ -1649,11 +1649,11 @@
      "t": "mcq",
      "p": "Why do we wash our hands with soap before we eat?",
      "opts": [
-      "Soap washes off most germs before they get inside us",
       "Soap kills every microbe on Earth",
+      "Soap washes off most germs before they get inside us",
       "Soap makes food taste better"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A few microbes are germs, and soap and water wash most of them off our hands. Soap does not kill every microbe, and most microbes are not harmful."
     }
    ]
@@ -1686,12 +1686,12 @@
      "t": "mcq",
      "p": "Why did the soil slice grow the most spots?",
      "opts": [
-      "Soil holds a huge number of microbes",
       "Soil is heavy",
-      "Soil is brown"
+      "Soil is brown",
+      "Soil holds a huge number of microbes"
      ],
      "how": "e1",
-     "a": 0,
+     "a": 2,
      "why": "Soil is packed with microbes. One teaspoon of rich soil can hold about as many bacteria as there are people in India. So a pinch of soil put many more microbes on the slice than fingers did."
     },
     {
@@ -1824,10 +1824,10 @@
      "p": "Suppose you do the Three Potato Slices experiment again. This time you wash your hands with soap before pressing your fingers on the slice. What will probably happen?",
      "opts": [
       "More spots than before",
-      "Fewer spots than before",
-      "Exactly the same spots"
+      "Exactly the same spots",
+      "Fewer spots than before"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Soap and water wash most microbes off hands. So the slice should grow fewer spots than before, but maybe not zero, because a few microbes stay on skin."
     },
     {
@@ -1912,11 +1912,11 @@
    "t": "mcq",
    "p": "Where do microbes live?",
    "opts": [
+    "Almost everywhere: on skin, in soil, air, water and food",
     "Only in dirty places",
-    "Only inside sick people",
-    "Almost everywhere: on skin, in soil, air, water and food"
+    "Only inside sick people"
    ],
-   "a": 2,
+   "a": 0,
    "why": "Microbes live almost everywhere on Earth. Even clean-looking hands carry thousands.",
    "outcome": 1
   },
@@ -1937,10 +1937,10 @@
    "p": "What do curd bacteria do to milk?",
    "opts": [
     "Make the milk hot",
-    "Eat the milk sugar and make the milk thick and sour",
-    "Turn the milk into water"
+    "Turn the milk into water",
+    "Eat the milk sugar and make the milk thick and sour"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Curd bacteria eat the sugar in milk and make an acid. That acid makes the milk thick and sour.",
    "outcome": 3
   },
@@ -1961,10 +1961,10 @@
    "p": "What are most microbes like?",
    "opts": [
     "Germs that make us ill",
-    "Harmless or helpful",
-    "Dead"
+    "Dead",
+    "Harmless or helpful"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Most microbes are harmless or helpful. Only a few are germs.",
    "outcome": 4
   },
@@ -1972,11 +1972,11 @@
    "t": "mcq",
    "p": "Who makes much of the earthy smell when rain falls on dry soil?",
    "opts": [
-    "Bacteria in the soil",
     "Worms singing",
-    "The clouds"
+    "The clouds",
+    "Bacteria in the soil"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Soil bacteria make a substance called geosmin. Rain lifts tiny amounts into the air, and we smell it.",
    "outcome": 1,
    "how": "a1"
@@ -1986,10 +1986,10 @@
    "p": "You press unwashed fingers on one potato slice. You put a second slice in a box without touching it. Why do you need the second slice?",
    "opts": [
     "To eat it later",
-    "To compare, so you know the spots came from your fingers",
-    "To make the box heavier"
+    "To make the box heavier",
+    "To compare, so you know the spots came from your fingers"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The untouched slice shows what grows without fingers. If only the finger slice grows many spots, the spots must have come from the fingers. This makes the test fair.",
    "outcome": 5,
    "how": "e1"
@@ -2189,7 +2189,46 @@
    "why": "For the parent: the scientist who studies how bacteria use chemicals to sense each other and act together."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-a-magnifying-glass",
+   "item": "A magnifying glass",
+   "kind": "tool",
+   "why": "Used in Three Potato Slices: where do the spots come from?, How Small? Microbes in a full stop. About ₹30 to ₹120. A water drop on clear plastic magnifies a little.",
+   "url": "https://www.amazon.in/s?k=magnifying+glass+kids",
+   "used_in": [
+    "e1",
+    "a3"
+   ],
+   "plan": "Get it before Three Potato Slices: where do the spots come from?."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in How Small? Microbes in a full stop. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before How Small? Microbes in a full stop."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "What is a microbe?",

@@ -561,11 +561,11 @@
       "t": "mcq",
       "q": "The chocolate melted in the warm water, but the wax did not. Why?",
       "options": [
-       "Wax needs more warmth to melt than chocolate",
        "The wax was too big",
-       "Wax never melts"
+       "Wax never melts",
+       "Wax needs more warmth to melt than chocolate"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Each solid has its own melting point. Bath water is warm enough for chocolate, but wax needs much more warmth. If you picked 'Wax never melts', that is a good guess to test in the next step."
      }
     },
@@ -634,11 +634,11 @@
       "t": "mcq",
       "q": "In the fridge, the chocolate went hard but the water stayed liquid. What does that show?",
       "options": [
-       "Water needs more cold to solidify than chocolate",
        "The chocolate was not really melted",
+       "Water needs more cold to solidify than chocolate",
        "The fridge was broken"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Chocolate solidifies a little below the warmth of your body, so the fridge is cold enough. Water freezes only at 0 degrees Celsius, so it needs the freezer."
      }
     }
@@ -778,11 +778,11 @@
       "t": "mcq",
       "q": "In the freezer, where does ice usually start in a tumbler of water?",
       "options": [
-       "In the very middle",
        "At the top and round the sides",
+       "In the very middle",
        "Only at the bottom"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The top touches the cold air and the sides touch the cold cup, so warmth leaves the water there first. The middle is last to lose its warmth."
      }
     }
@@ -1735,11 +1735,11 @@
      "t": "mcq",
      "p": "In the melting race, which solid did not melt in the warm water, and needed a candle flame?",
      "opts": [
-      "The chocolate",
       "The candle wax",
+      "The chocolate",
       "The butter"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Wax melts at a much higher warmth than bath water. Picking chocolate may mean mixing up the warm water step with the plate step.",
      "context": "This question is about the melting race. You put an ice cube, chocolate, butter, coconut oil and candle wax on a steel plate, then in a bowl of warm water, then near a candle flame.",
      "how": "e1"
@@ -1894,11 +1894,11 @@
      "t": "mcq",
      "p": "In the story The Coconut Oil That Turned White, Lakshmi's coconut oil is golden and runny in Kochi, but white and hard on a January morning in Delhi. Why?",
      "opts": [
-      "The oil went bad on the train",
       "Delhi is colder than the oil's melting point that morning",
+      "The oil went bad on the train",
       "Delhi oil is a different oil"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Coconut oil melts at about 24 degrees Celsius. A Delhi winter morning is colder than that, so the oil solidifies. Picking 'went bad' is what Lakshmi's Appa thought at first."
     },
     {
@@ -2020,11 +2020,11 @@
      "t": "mcq",
      "p": "Why do we melt chocolate in a bowl floating on warm water, and not straight on the flame?",
      "opts": [
-      "Chocolate melts with only a little warmth, and a flame can burn it",
       "Chocolate never melts on a flame",
-      "Warm water makes more chocolate"
+      "Warm water makes more chocolate",
+      "Chocolate melts with only a little warmth, and a flame can burn it"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Chocolate melts a little below the warmth of your body, so warm water is enough. A direct flame is far hotter, and the chocolate can burn."
     }
    ]
@@ -2061,11 +2061,11 @@
    "t": "mcq",
    "p": "What is melting?",
    "opts": [
-    "A solid turning into a liquid",
     "A liquid turning into a solid",
+    "A solid turning into a liquid",
     "A liquid turning into a gas"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Melting is a solid turning into a liquid, like ice into water. Picking 'liquid into solid' mixes it up with solidifying.",
    "outcome": 0
   },
@@ -2074,10 +2074,10 @@
    "p": "Water in an ice tray turns into ice in the freezer. What is this called?",
    "opts": [
     "Melting",
-    "Freezing",
-    "Boiling"
+    "Boiling",
+    "Freezing"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Freezing is solidifying in the cold. Water freezes at 0 degrees Celsius.",
    "outcome": 1
   },
@@ -2086,10 +2086,10 @@
    "p": "Which of these needs the most warmth to melt?",
    "opts": [
     "An ice cube",
-    "Butter",
-    "An iron nail"
+    "An iron nail",
+    "Butter"
    ],
-   "a": 2,
+   "a": 1,
    "why": "Iron melts at about 1,500 degrees Celsius, in a furnace. Ice and butter melt in a warm room or a warm hand.",
    "outcome": 2
   },
@@ -2111,11 +2111,11 @@
    "t": "mcq",
    "p": "Melted chocolate is put in the fridge for 20 minutes. What happens?",
    "opts": [
-    "It stays runny",
     "It solidifies and is still chocolate",
+    "It stays runny",
     "It turns into a new food"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Chocolate solidifies as it cools, and it is still chocolate. Melting can be undone.",
    "outcome": 3
   },
@@ -2124,10 +2124,10 @@
    "p": "You hold an ice cube in your hand. Why does your hand feel cold?",
    "opts": [
     "Cold flows out of the ice into your hand",
-    "Warmth flows out of your hand into the ice",
-    "The ice is wet"
+    "The ice is wet",
+    "Warmth flows out of your hand into the ice"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Warmth always flows from the warmer thing to the cooler thing. Your hand loses warmth to melt the ice.",
    "outcome": 4
   },
@@ -2135,11 +2135,11 @@
    "t": "mcq",
    "p": "Why does a glass of buttermilk get colder when you add ice?",
    "opts": [
-    "The ice takes warmth from the buttermilk to melt",
     "The ice adds cold to the buttermilk",
-    "The buttermilk turns into ice"
+    "The buttermilk turns into ice",
+    "The ice takes warmth from the buttermilk to melt"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Melting ice takes in a lot of warmth from what is around it. That warmth comes out of the buttermilk, so it cools down.",
    "outcome": 4
   },
@@ -2147,11 +2147,11 @@
    "t": "mcq",
    "p": "Coconut oil is runny in Chennai but white and hard on a cold Delhi morning. Which is true?",
    "opts": [
-    "It is the same oil in both places",
     "The Delhi oil has gone bad",
-    "Only Chennai oil is real coconut oil"
+    "Only Chennai oil is real coconut oil",
+    "It is the same oil in both places"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Coconut oil melts at about 24 degrees Celsius. Above that it is a liquid, below it a solid. It is the same oil.",
    "outcome": 3
   },
@@ -2160,10 +2160,10 @@
    "p": "You guessed the ice would melt last. Then you watched it melting on the plate. What should you do?",
    "opts": [
     "Say your guess was right anyway",
-    "Say what you saw, and change your idea",
-    "Stop the test"
+    "Stop the test",
+    "Say what you saw, and change your idea"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A good scientist guesses first, then says what the test really showed. A wrong guess is how we learn.",
    "outcome": 5
   },
@@ -2171,11 +2171,11 @@
    "t": "mcq",
    "p": "In a tumbler of water in the freezer, where does the ice usually start?",
    "opts": [
-    "At the top and round the sides",
     "In the very middle",
-    "Nowhere, it all freezes at once"
+    "Nowhere, it all freezes at once",
+    "At the top and round the sides"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The top and sides touch the cold air and the cold cup, so they lose their warmth first.",
    "outcome": 1,
    "how": "e2",
@@ -2338,7 +2338,55 @@
    "why": "A large science museum with hands-on galleries, including engines and metals."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-ice-cream-sticks-melt",
+   "item": "Wooden ice-cream sticks, about 5",
+   "kind": "material",
+   "why": "They are the handles for the ice lollies in the lolly project. About ₹20 to ₹50 for a pack of about 50 sticks at a kirana shop or online. Steel teaspoons are the household alternative.",
+   "url": "https://www.amazon.in/s?k=wooden+ice+cream+sticks",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Buy them before you start the ice lolly project."
+  },
+  {
+   "id": "b-butter-paper",
+   "item": "Butter paper or baking paper, one sheet",
+   "kind": "material",
+   "why": "The melted chocolate is poured onto it so the shapes can be lifted off once they set. About ₹30 to ₹80 for a roll at a kitchen or stationery shop. Foil or a clean plastic sheet can be used instead.",
+   "url": "https://www.amazon.in/s?k=butter+paper+baking",
+   "used_in": [
+    "c2"
+   ],
+   "plan": "Buy it before the Chocolate Shapes challenge."
+  },
+  {
+   "id": "b-chart-melt",
+   "item": "Chart paper, one big sheet",
+   "kind": "material",
+   "why": "The four-column board for the sorting game is drawn on it, so the whole table is visible at once. About ₹10 to ₹25 a sheet at a stationery shop. Two sheets of old newspaper taped together also work.",
+   "url": "https://www.amazon.in/s?k=chart+paper",
+   "used_in": [
+    "g2"
+   ],
+   "plan": "Buy it before you play Room, Hand, Flame or Furnace."
+  },
+  {
+   "id": "b-print-melt",
+   "item": "Printed pages for the change cards, solid cards and worksheets, about 10 pages",
+   "kind": "material",
+   "why": "The two games use 16 printed change cards and 16 printed solid cards, and the worksheets are printed too. A copy shop charges about ₹1 to ₹2 a page, so the set costs about ₹10 to ₹20.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch"
+   ],
+   "plan": "Print these before the first game."
+  }
+ ],
  "warmup": [
   {
    "q": "What is it called when a solid turns into a liquid?",

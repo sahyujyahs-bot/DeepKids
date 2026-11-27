@@ -120,7 +120,7 @@
    "concept": "Traditional meals are balanced in their own way",
    "status": "defined",
    "definition": "A traditional meal is a set of dishes that people in a region have long eaten together. Many of them join a staple food, a pulse, a vegetable and a milk food.",
-   "description": "Meals in different parts of India look different, but they do the same job. In Tamil Nadu a meal is rice, sambar or rasam, a vegetable, curd and a pickle. In Gujarat it is roti, dal, rice, a vegetable, buttermilk and a sweet. In Bengal it is rice, dal, fish or vegetables, and a bitter dish like shukto at the start. In Nagaland and Manipur it is rice, boiled leafy vegetables, and a chutney of chilli and fermented fish or bamboo shoot. In Punjab it is makki roti with sarson saag, butter and lassi. The dishes are different, but each plate has a staple for energy, a pulse or fish or milk for building, and vegetables for protection. These meals grew over many generations from what the land grew, and from families noticing which foods kept them strong. They were not planned from a table of nutrients, and they are not perfect. But they often work.",
+   "description": "Meals in different parts of India look different, but they do the same job. In Tamil Nadu a meal is rice, sambar or rasam, a vegetable, curd and a pickle. In Gujarat it is roti, dal, rice, a vegetable, buttermilk and a sweet. In Bengal it is rice, dal, fish or vegetables, and a bitter dish like shukto at the start. In Nagaland and Manipur it is rice, boiled leafy vegetables, and a chutney of chilli and fermented fish or bamboo shoot. In Punjab it is makki roti with sarson saag, butter and lassi. The dishes are different, but each plate has a staple for energy, a pulse or fish or milk for building, and vegetables for protection. These meals grew over many generations from what the land grew, and from families noticing which foods kept them strong. They were not planned from a table of nutrients, and they are not perfect. But they often work. Your own family has a regional thali too. List its items on a sheet, and mark each one with its food job: energy, building or protecting.",
    "examples": [
     "A Kerala sadya joins rice, parippu, sambar, avial, thoran, pulissery, pickles and payasam on one banana leaf.",
     "A Gujarati thali has bajra or wheat roti, dal, kadhi, a vegetable, rice and chaas.",
@@ -577,11 +577,11 @@
       "t": "mcq",
       "q": "Why is there a cup of plain water among the tastes?",
       "options": [
-       "To check whether the tester is really tasting, or only guessing",
        "To make the other cups weaker",
+       "To check whether the tester is really tasting, or only guessing",
        "To give the tester something to drink"
       ],
-      "a": 0,
+      "a": 1,
       "why": "If the tester names a taste for plain water, the test shows they are guessing, and a taste they name for other cups may be a guess too. Plain water is a control: the thing that should give no taste."
      },
      "adult": true,
@@ -754,11 +754,11 @@
       "t": "mcq",
       "q": "The soaked moong weighs more than the dry moong. Where did the extra weight come from?",
       "options": [
-       "Water that the seeds soaked up",
        "Food that the seeds made from nothing",
-       "Dirt from the bowl"
+       "Dirt from the bowl",
+       "Water that the seeds soaked up"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A dry seed has very little water. Seeds soak up water through their skin and swell. The extra weight is water, so the soaked seeds weigh more."
      },
      "context": "In this step, you drain and weigh the soaked seeds, and set one batch to sprout."
@@ -804,11 +804,11 @@
       "t": "mcq",
       "q": "The sprouted moong turned soft in 10 minutes, and the dry moong needed more than 30. What does this suggest?",
       "options": [
-       "The water in the seed and the start of growth made the seed softer to cook",
        "The sprouted bag sat in hotter water",
-       "The dry moong is a different seed"
+       "The dry moong is a different seed",
+       "The water in the seed and the start of growth made the seed softer to cook"
       ],
-      "a": 0,
+      "a": 2,
       "why": "All three bags sat in the same boiling water. Only the preparation changed. A seed that has taken in water and begun to grow has already started to soften inside, so the seed cooks faster."
      },
      "context": "In this step, you cook all three batches in one pan and time how long each takes to turn soft."
@@ -1022,11 +1022,11 @@
       "t": "mcq",
       "q": "A player has mostly energy dishes on her mat. What kind of dish should she hope to draw?",
       "options": [
-       "A body-building or protective dish, to fill the empty boxes",
        "Another energy dish, since they score the most",
+       "A body-building or protective dish, to fill the empty boxes",
        "A dish she likes, whatever it does"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A balanced meal has all three jobs. If a job box is empty, the meal is missing something, so the player needs a dish from that group."
      },
      "context": "In this step, you play the rest of the cards and look at what your mat is missing."
@@ -1153,11 +1153,11 @@
       "t": "mcq",
       "q": "Your pachadi tastes mostly of tamarind. What should you do to balance it?",
       "options": [
-       "Add a little more of the other tastes, and not more tamarind",
        "Add more tamarind to make it stronger",
-       "Throw it away and start again with only jaggery"
+       "Throw it away and start again with only jaggery",
+       "Add a little more of the other tastes, and not more tamarind"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A balanced pachadi has no boss taste. If sour is the boss, the other five tastes need a little more, or the sour needs to be thinned with water."
      },
      "context": "In this step, you mix the six ingredients and balance the tastes.",
@@ -1296,11 +1296,11 @@
       "t": "mcq",
       "q": "A diary shows many energy foods and very few protective foods. What should the family do?",
       "options": [
-       "Add more vegetables and fruits over the next week, without blaming anyone",
        "Stop eating energy foods completely",
+       "Add more vegetables and fruits over the next week, without blaming anyone",
        "Do nothing, since the body will balance itself"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A short row shows what the week is missing. The answer is to add some of that group in ways the family enjoys. Energy foods are still needed, so there is no reason to stop them."
      },
      "context": "In this step, you count your marks and make a pictograph of the week."
@@ -1400,6 +1400,14 @@
      "think": "Why do people cook special food on special days, and not the same food every day?",
      "parent": "With 2 to 4 children, each child asks a different person and adds their dish to the one shared wheel. Listen to the answer without correcting it. Families often have a reason that goes beyond nutrition: it is what a mother made, it keeps well, or it is shared with neighbours. These reasons are part of the answer. Add a dish from your own family's tradition to the wheel.",
      "context": "In this step, you ask someone about a festival dish from your own family and add it to the wheel."
+    },
+    {
+     "id": "s4",
+     "mins": 5,
+     "do": "1. Write down the meal your family eats on an ordinary day, item by item. 2. Beside each item, write who cooks it at home and who helps. 3. Mark each item with its food job: energy, building or protecting.",
+     "say": "Who cooks the dal in our home? Who helps with the vegetable? Which food gives us energy, and which keeps us protected?",
+     "kid": "Write our everyday meal, item by item. Who cooks each one?",
+     "parent": "Keep it to what your family really eats on an ordinary day, not the festival plate. Every answer about who cooks is a fact about your home, so write it as it is."
     }
    ]
   },
@@ -1489,11 +1497,11 @@
       "t": "mcq",
       "q": "Why are some farmers in dry regions choosing millets over rice?",
       "options": [
-       "Millets can grow with very little water",
        "Millets grow only in rice fields",
-       "Millets need more water than rice"
+       "Millets need more water than rice",
+       "Millets can grow with very little water"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Rice needs a lot of water, often standing water in the field. Millets grow well in dry land with little rain. In a dry place a millet crop is more likely to succeed."
      },
      "context": "In this step, you compare the two porridges and think about where millets grow."
@@ -1741,11 +1749,11 @@
      "t": "mcq",
      "p": "Which sentence best describes a balanced diet?",
      "opts": [
-      "Many different foods eaten over days, so the body gets all the nutrients it needs",
       "One perfect plate at every single meal",
-      "Only the foods that people call healthy"
+      "Only the foods that people call healthy",
+      "Many different foods eaten over days, so the body gets all the nutrients it needs"
      ],
-     "a": 0,
+     "a": 2,
      "why": "What matters is what you eat over days and weeks, not at a single meal. Many kinds of food together give all the nutrients. Choosing only 'healthy' foods can still leave out some groups.",
      "outcome": 0
     },
@@ -1836,11 +1844,11 @@
      "t": "mcq",
      "p": "A green chilli makes your mouth feel hot. What does science say this heat is?",
      "opts": [
-      "A signal of heat and pain from nerves, not one of the five tastes",
       "The sixth basic taste",
+      "A signal of heat and pain from nerves, not one of the five tastes",
       "A sweet taste in disguise"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Chilli heat is felt by nerves that sense heat and pain. Science lists five tastes: sweet, sour, salty, bitter and umami. Ayurveda counts pungent as one of its six rasas.",
      "outcome": 2
     },
@@ -1870,11 +1878,11 @@
      "t": "mcq",
      "p": "A thali has rice, roti, puri and halwa. Which food jobs are missing?",
      "opts": [
-      "Body-building foods and protective foods",
       "Energy foods",
-      "None, because the thali is full"
+      "None, because the thali is full",
+      "Body-building foods and protective foods"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Rice, roti, puri and halwa are all mostly energy foods. The thali also needs dal, curd or another pulse or milk food for building, and vegetables or fruit for protection.",
      "outcome": 1
     },
@@ -1905,11 +1913,11 @@
      "t": "mcq",
      "p": "Why can many festival sweets, like laddu, be kept for weeks?",
      "opts": [
-      "They have very little water, so microbes cannot grow in them",
       "They are always kept in a fridge",
+      "They have very little water, so microbes cannot grow in them",
       "They are cooked with a lot of water"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Microbes need water to grow. A laddu is made of sugar, flour, ghee and nuts, with very little water in it, so spoilage microbes grow very slowly.",
      "outcome": 6
     },
@@ -1952,11 +1960,11 @@
      "t": "mcq",
      "p": "In 1942, a chart showed small differences in how strongly each part of the tongue senses a taste. The chart was then turned into a map of separate zones. What was the mistake?",
      "opts": [
-      "Small differences in strength were read as separate zones",
       "Taste buds were found only on the tip",
-      "People could not taste at all"
+      "People could not taste at all",
+      "Small differences in strength were read as separate zones"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Hänig's numbers in 1901 showed only small differences. When they were drawn as a map, each taste seemed to have its own zone. Careful tests in 1974 showed every zone senses every taste.",
      "outcome": 3
     },
@@ -2094,11 +2102,11 @@
      "t": "mcq",
      "p": "Two cousins taste the same piece of karela. One says it is very bitter and the other says it is a little bitter. What is the best explanation?",
      "opts": [
-      "Their taste sensors differ a little because of genes and past experience",
       "One of them must be telling a lie",
+      "Their taste sensors differ a little because of genes and past experience",
       "The karela changed between the two bites"
      ],
-     "a": 0,
+     "a": 1,
      "why": "People have slightly different genes for bitter sensors, and the foods they grew up on also change how strong a taste feels. So the same food can taste different to two people.",
      "outcome": 4
     },
@@ -2113,11 +2121,11 @@
      "t": "mcq",
      "p": "A family eats rice, rice flakes and potato at most meals. Which change would improve their balance most?",
      "opts": [
-      "Add dal or other pulses, vegetables, curd or milk, and fruit",
       "Eat more rice so nobody is hungry",
+      "Add dal or other pulses, vegetables, curd or milk, and fruit",
       "Stop eating rice completely"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Rice, rice flakes and potato are all energy foods. The family's diet lacks building foods and protective foods. Adding them is better than removing the rice, which is still a useful staple.",
      "outcome": 0
     },
@@ -2142,6 +2150,13 @@
      "a": "Payasam, because it is sweet, and the other three each have a bitter taste.",
      "why": "Ugadi pachadi has neem flowers, shukto has a little karela, and pavakka thoran is made of karela. Payasam is a sweet milk dish.",
      "outcome": 2
+    },
+    {
+     "t": "write",
+     "p": "Pick one ordinary day of your family's meals. Name two items from it, say who cooks each one, and give each item its food job.",
+     "lines": 4,
+     "a": "For example: dal, cooked by Amma, for building; and rice, cooked by Paati, for energy. A strong answer names two real items, a cook, and a job for each.",
+     "why": "Every thali has items that do different jobs. Knowing who cooks each one shows how the family's food is made."
     }
    ]
   },
@@ -2163,11 +2178,11 @@
      "t": "mcq",
      "p": "A friend tests her own tongue with her eyes open and with no plain water cup. Which problem matters most?",
      "opts": [
-      "She can see which cup is which, so her answers are not blind",
       "She used cups instead of bowls",
-      "She rinsed her mouth between tests"
+      "She rinsed her mouth between tests",
+      "She can see which cup is which, so her answers are not blind"
      ],
-     "a": 0,
+     "a": 2,
      "why": "If the tester can see the cup, she may name the taste she expects and not the taste she feels. Hiding the cups, and adding plain water, makes the test fair. Rinsing is a good idea, not a problem.",
      "outcome": 3
     },
@@ -2204,11 +2219,11 @@
      "t": "mcq",
      "p": "A sweet like mysore pak keeps for weeks. Which fact explains this best?",
      "opts": [
-      "It is made of sugar, flour and ghee with almost no water",
       "It is cooked at a very high heat",
-      "It is wrapped in leaves"
+      "It is wrapped in leaves",
+      "It is made of sugar, flour and ghee with almost no water"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Microbes need water to grow. A food with sugar and fat but little water gives them almost nothing to work with, so it keeps. Heat during cooking does not protect food once it has cooled.",
      "outcome": 6
     },
@@ -2352,11 +2367,11 @@
    "t": "mcq",
    "p": "Where on the tongue can you taste sour?",
    "opts": [
-    "Anywhere there are taste buds",
     "Only on the sides",
+    "Anywhere there are taste buds",
     "Only at the back"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Taste buds for every taste are found all over the tongue. The old map that put sour only on the sides was a mistake.",
    "outcome": 3
   },
@@ -2364,11 +2379,11 @@
    "t": "mcq",
    "p": "In the blind taste test, what is the job of the cup of plain water?",
    "opts": [
-    "It checks whether the tester is really tasting or only guessing",
     "It makes the other cups taste weaker",
-    "It gives the tester a drink"
+    "It gives the tester a drink",
+    "It checks whether the tester is really tasting or only guessing"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Plain water is the control. If the tester names a taste for it, the test shows that some answers may be guesses.",
    "outcome": 3
   },
@@ -2376,11 +2391,11 @@
    "t": "mcq",
    "p": "Which of these is not one of the five basic tastes found by science?",
    "opts": [
-    "Pungent",
     "Umami",
+    "Pungent",
     "Bitter"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Pungent is the hot feeling of chilli and pepper, sensed by nerves of heat and pain. Umami and bitter are basic tastes sensed by taste cells.",
    "outcome": 2
   },
@@ -2388,11 +2403,11 @@
    "t": "mcq",
    "p": "Why do sprouted moong seeds cook faster than dry moong seeds?",
    "opts": [
-    "They have taken in water and started to grow, so the seeds are softer inside",
     "They are a different kind of seed",
-    "They are cooked on a hotter flame"
+    "They are cooked on a hotter flame",
+    "They have taken in water and started to grow, so the seeds are softer inside"
    ],
-   "a": 0,
+   "a": 2,
    "why": "In a fair test, the seed and the flame are the same. Soaking lets water in, and sprouting starts the seed breaking down the stored food, so the seed softens sooner.",
    "outcome": 5
   },
@@ -2424,11 +2439,11 @@
    "t": "mcq",
    "p": "Why is Ugadi pachadi made with raw mango and neem flowers?",
    "opts": [
-    "They are in season in spring, when Ugadi falls",
     "They are the only foods that taste bitter and sour",
+    "They are in season in spring, when Ugadi falls",
     "They are the cheapest foods in the market all year"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Festival foods often follow the season. Raw mango and neem flowers appear in spring. Their tastes also fit the idea of a bowl with all six tastes.",
    "outcome": 6
   },
@@ -2478,6 +2493,18 @@
    ],
    "a": 0,
    "why": "A short row is information about the week, not a mistake. The next step is to add some of that group in a way the family enjoys.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "In a Punjabi meal of makki roti, sarson saag and lassi, which item mainly builds the body?",
+   "opts": [
+    "Makki roti",
+    "Sarson saag",
+    "Lassi, a milk drink"
+   ],
+   "a": 2,
+   "why": "Lassi is made from curd, which is a milk food with protein for building. Makki roti is mainly energy, and sarson saag mainly protects with vitamins and minerals.",
    "outcome": 1
   }
  ],
@@ -2749,6 +2776,90 @@
    "used_in": [
     "a4"
    ]
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Wake Up the Moong: what do soaking and sprouting change in a seed?, Millet Hunt: find, cook and compare. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e2",
+    "a4"
+   ],
+   "plan": "Get it before Wake Up the Moong: what do soaking and sprouting change in a seed?."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in The Blind Taste Test: does each taste have its own place on the tongue?, Wake Up the Moong: what do soaking and sprouting change in a seed?, Six Tastes in One Bowl: make a mini pachadi. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "e1",
+    "e2",
+    "a1",
+    "a2"
+   ],
+   "plan": "Get it before The Blind Taste Test: does each taste have its own place on the tongue?."
+  },
+  {
+   "id": "b-a-measuring-jug-or-syringe--",
+   "item": "A measuring jug or syringe (marked in millilitres)",
+   "kind": "tool",
+   "why": "Used in Wake Up the Moong: what do soaking and sprouting change in a seed?. About ₹30 to ₹100. A clean medicine cup or marked bottle works.",
+   "url": "https://www.amazon.in/s?k=measuring+jug+500+ml",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before Wake Up the Moong: what do soaking and sprouting change in a seed?."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in The Blind Taste Test: does each taste have its own place on the tongue?. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before The Blind Taste Test: does each taste have its own place on the tongue?."
+  },
+  {
+   "id": "b-a-small-toy-car-with-free-ro",
+   "item": "A small toy car with free-rolling wheels",
+   "kind": "material",
+   "why": "Used in Our Family Feast: plan, cook and serve a balanced festival meal. About ₹100 to ₹200. A marble or a round torch cell works.",
+   "url": "https://www.amazon.in/s?k=toy+car+pull+back+small",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before Our Family Feast: plan, cook and serve a balanced festival meal."
+  },
+  {
+   "id": "b-marbles--a-few",
+   "item": "Marbles (a few)",
+   "kind": "material",
+   "why": "Used in Six Tastes in One Bowl: make a mini pachadi. About ₹10 to ₹40. Small round stones or dried chana.",
+   "url": "https://www.amazon.in/s?k=glass+marbles+pack",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Get it before Six Tastes in One Bowl: make a mini pachadi."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

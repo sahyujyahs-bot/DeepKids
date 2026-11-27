@@ -221,6 +221,10 @@
     {
      "who": "Some careful scientists",
      "explanation": "We should watch closely before we name an ape's feeling with a human word. A chimpanzee's grin can mean fear, not happiness. Each feeling must be checked by what the ape does next."
+    },
+    {
+     "who": "Sarah Brosnan, USA, and Frans de Waal (1948–2024), Netherlands and USA",
+     "explanation": "In 2003 Brosnan and de Waal trained capuchin monkeys to hand back a small stone in return for food. When one monkey got a grape and her neighbour got cucumber for the same job, the neighbour often refused the cucumber or threw it away. Scientists still argue about this. Some say the monkeys really react to unfairness, and others say they may just be upset that a better food was there and they did not get it."
     }
    ],
    "art": "Jane Goodall sitting quietly in a forest with a notebook, a chimpanzee sitting near her and looking back."
@@ -562,11 +566,11 @@
       "t": "mcq",
       "q": "When you laughed, which way did the flag blow?",
       "options": [
-       "Away from my mouth, because the air went out",
        "Towards my mouth, because the air came in",
-       "It did not move at all"
+       "It did not move at all",
+       "Away from my mouth, because the air went out"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Human laughs are many 'ha' sounds on one breath out, so the air pushes the flag away. A child who picks 'towards' may be thinking of the big gasp after a laugh. That gasp is a breath in, but it is mostly silent."
      }
     }
@@ -1192,13 +1196,135 @@
       "t": "mcq",
       "q": "Which of these do people do too?",
       "options": [
-       "Hug and make up after a quarrel",
        "Build a new bed of leaves every night",
-       "Fish for termites with a stick"
+       "Fish for termites with a stick",
+       "Hug and make up after a quarrel"
       ],
-      "a": 0,
+      "a": 2,
       "why": "People hug and make up, just as chimpanzees do. Some people eat termites, but most do not fish for them, and people do not build a new bed every night."
      }
+    }
+   ]
+  },
+  {
+   "id": "old1",
+   "title": "Through the Treetops: a board race to the nest",
+   "mins": 20,
+   "players": [
+    "with a parent",
+    "with friends"
+   ],
+   "context": "This is a board game about the lives of apes. You roll a die, move through the forest and answer questions about apes. The first player to reach the nest at the top of the tallest tree wins.",
+   "printables": [
+    {
+     "kind": "board",
+     "title": "The forest path: 23 squares",
+     "items": [
+      "START: the forest floor",
+      "A fig tree is full of ripe fruit. Move ahead 2.",
+      "Question: does an ape have a tail?",
+      "The next tree is too far. Sway your tree like an orangutan. Move ahead 1.",
+      "You did not look with both eyes and missed a branch. Go back 2.",
+      "Question: name one ape who lives in Africa.",
+      "A termite mound! Strip a twig to make a tool. Move ahead 2.",
+      "Grip a branch with your feet like a chimpanzee. Move ahead 1.",
+      "Question: what is India's only ape?",
+      "A friend grooms your fur. Rest here. Groom a player's hand gently for five seconds.",
+      "Question: who watched chimpanzees in Tanzania from 1960?",
+      "A storm comes. Hold a big leaf over your head. Move ahead 1.",
+      "The trees here were cut down. Go back 3.",
+      "Question: what do apes have on their fingers instead of claws?",
+      "A silverback gorilla beats his chest. Stay still and miss a turn.",
+      "Question: are humans the grandchildren of chimpanzees, or their cousins?",
+      "Bonobo friends share their fruit with you. Move ahead 2.",
+      "Question: what does an orangutan build almost every night?",
+      "You see your face in a pool of water and know it is you. Move ahead 1.",
+      "Question: why do apes have eyes at the front of the face?",
+      "Gibbons sing their morning duet. Sing it too, then move ahead 1.",
+      "Question: why are many apes in danger?",
+      "HOME: the nest at the top of the tallest tree"
+     ]
+    },
+    {
+     "kind": "answer sheet",
+     "title": "Answers for the grown-up",
+     "items": [
+      "Square 3: no. Apes have no tail.",
+      "Square 6: a chimpanzee, a bonobo or a gorilla.",
+      "Square 9: the hoolock gibbon, in the forests of North-east India.",
+      "Square 11: Jane Goodall.",
+      "Square 14: nails.",
+      "Square 16: cousins. We and chimpanzees share an ancestor from long ago.",
+      "Square 18: a nest of branches and leaves.",
+      "Square 20: to judge how far away a branch is.",
+      "Square 22: their forests are being cut down."
+     ]
+    },
+    {
+     "kind": "tokens",
+     "title": "A counter for each player",
+     "items": [
+      "Counter 1",
+      "Counter 2",
+      "Counter 3",
+      "Counter 4"
+     ]
+    }
+   ],
+   "rules": [
+    "Copy the 23 squares in order onto a big sheet of paper, in a winding path. Each player puts a coin, button or small stone on START.",
+    "Take turns to roll the die and move that many squares. If you have no die, write 1, 2 and 3 on three paper slips and pick one.",
+    "Read the square aloud and do what it says. If it asks a question, answer it first. A grown-up reads the answer from the answer sheet.",
+    "If the answer is wrong, stay where you are this turn. Hear the right answer and try a new square next turn.",
+    "On a forward, back or miss-a-turn square, do what it says. A player who goes back does not do the new square.",
+    "The first player to reach HOME wins. At the end, each player says one thing they learned from a square."
+   ],
+   "setup": [
+    {
+     "art": "A winding path of 23 squares drawn on a large sheet of paper, with START at the bottom and a nest drawn at the top, and four small stones on START.",
+     "caption": "1. Draw the path of 23 squares and put the counters on START."
+    },
+    {
+     "art": "A child rolling a die on a table while a parent holds the answer sheet.",
+     "caption": "2. Roll the die, move and read the square."
+    },
+    {
+     "art": "A child pointing to the nest at the top of the board, with other players clapping.",
+     "caption": "3. The first player to the nest wins."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Copy the squares onto a big sheet of paper in a winding path. 2. Give each player a counter. 3. Put the die in the middle. 4. Keep the answer sheet with the grown-up.",
+     "say": "We are apes in a forest, heading for the nest at the top of the tallest tree.",
+     "kid": "Help draw the path. Put your counter on START."
+    },
+    {
+     "id": "s2",
+     "mins": 15,
+     "do": "Play as the rules say. When a player answers a question, ask 'How do you know?' before the grown-up says if it is right.",
+     "say": "Read your square. What does it say? How do you know?",
+     "kid": "Roll and move. Read your square aloud. Answer questions and do what the square says.",
+     "check": {
+      "t": "mcq",
+      "q": "What is India's only ape?",
+      "options": [
+       "The langur",
+       "The hoolock gibbon",
+       "The orangutan"
+      ],
+      "a": 1,
+      "why": "The hoolock gibbon lives in the forests of North-east India. A langur is a monkey, not an ape. Orangutans live in Borneo and Sumatra."
+     }
+    },
+    {
+     "id": "s3",
+     "mins": 2,
+     "do": "When someone reaches the nest, each player says one thing they learned from a square.",
+     "say": "What was one thing you learned about apes in the game?",
+     "kid": "Say one thing the game taught you about apes."
     }
    ]
   }
@@ -1283,11 +1409,11 @@
       "t": "mcq",
       "q": "Which great ape lives wild in Asia?",
       "options": [
-       "Orangutan",
        "Gorilla",
+       "Orangutan",
        "Chimpanzee"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Orangutans live in Borneo and Sumatra, in Asia. Gorillas and chimpanzees live in Africa."
      }
     }
@@ -1371,11 +1497,11 @@
      "t": "mcq",
      "p": "In the laugh test, what did the tissue flag do while you laughed?",
      "opts": [
-      "It blew away from my mouth",
       "It was pulled into my mouth",
-      "It did not move"
+      "It did not move",
+      "It blew away from my mouth"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Your laugh is many 'ha' sounds on one breath out, so the air pushed the flag away. A child who picks 'pulled into my mouth' may be thinking of the big gasp after a laugh. That gasp is a quiet breath in.",
      "context": "This question is about the laugh test. You held a tissue flag in front of a laughing mouth and counted the 'ha' sounds.",
      "how": "e1"
@@ -1779,11 +1905,11 @@
    "t": "mcq",
    "p": "Which of these is an ape?",
    "opts": [
-    "Gorilla",
     "Langur",
-    "Bonnet macaque"
+    "Bonnet macaque",
+    "Gorilla"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Gorillas have no tail, so they are apes. Langurs and bonnet macaques have long tails, so they are monkeys.",
    "outcome": 0
   },
@@ -1803,11 +1929,11 @@
    "t": "mcq",
    "p": "How does a young chimpanzee laugh when tickled?",
    "opts": [
-    "With a soft pant, breathing out and in",
     "With no sound at all",
+    "With a soft pant, breathing out and in",
     "Exactly like a person, 'ha ha ha'"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A chimpanzee's laugh is a pant, with sound on the breath out and the breath in. Ours is many 'ha' sounds on one breath out.",
    "outcome": 1
   },
@@ -1815,11 +1941,11 @@
    "t": "mcq",
    "p": "Where do orangutans live in the wild?",
    "opts": [
-    "Borneo and Sumatra, in Asia",
     "Central Africa",
+    "Borneo and Sumatra, in Asia",
     "The Himalayas"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Orangutans live only in the forests of Borneo and Sumatra. Gorillas live in Central Africa, and no great ape lives wild in the Himalayas.",
    "outcome": 2
   },
@@ -1851,11 +1977,11 @@
    "t": "mcq",
    "p": "About how long does a young orangutan stay with her mother?",
    "opts": [
-    "About 7 or 8 years",
     "About 1 month",
+    "About 7 or 8 years",
     "About 1 year"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A young orangutan stays with her mother for about 7 or 8 years. In that time she learns how to live in the forest.",
    "outcome": 3
   },
@@ -1887,11 +2013,11 @@
    "t": "mcq",
    "p": "A scientist watches wild chimpanzees for years. She sees them poke grass stems into termite mounds to pull termites out, and hug each other after a fight. What does this tell her?",
    "opts": [
-    "They make and use tools, and have feelings",
     "They only eat leaves",
+    "They make and use tools, and have feelings",
     "They live alone"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Choosing and using a stem to catch termites is using a tool. Hugging after a fight shows feelings. Chimpanzees eat many foods and live in big groups.",
    "outcome": 5
   }
@@ -2085,7 +2211,46 @@
    "why": "A forest sanctuary where hoolock gibbons, India's only apes, live wild. Go with a guide, early in the morning, to hear them sing. Check visiting times before you go."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Where Apes Live: a map of ape homes. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before Where Apes Live: a map of ape homes."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in The Laugh Test: when you laugh, does the air go out or in?. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before The Laugh Test: when you laugh, does the air go out or in?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "old1",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "Do apes have tails?",
@@ -2219,7 +2384,8 @@
    "ws-challenge",
    "videos",
    "big_questions",
-   "open_questions"
+   "open_questions",
+   "old1"
   ],
   "core": [
    "e1",

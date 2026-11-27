@@ -1,9 +1,9 @@
 # Heat and temperature: why the same heat warms oil faster than water
 `sci.energy.heat.L4`
 
-**Summary.** Stand oil and water in the same hot bath, and the oil warms about twice as fast. Why? In this unit you will test both with thermometers, see whether a small katori of hot water or a big bowl of warmer water melts more ice, and watch a thermometer stay still while ice melts.
+**Summary.** Stand oil and water in the same hot bath, and the oil warms about twice as fast. Why? In this lesson you will test both with thermometers, see whether a small katori of hot water or a big bowl of warmer water melts more ice, and watch a thermometer stay still while ice melts.
 
-**Intro.** *Two steel tumblers stand in the same pan of hot water. One holds a katori of cooking oil and the other a katori of water. Both started at room temperature. After ten minutes, one of them has warmed far more than the other. Which one, do you think? And why?* The pan gives the same heat to both tumblers, yet they do not end up the same. In this unit you test this with two thermometers. You find out why a small cup of hot water can melt less ice than a big bowl of warm water. You watch a thermometer stay still while ice melts, though heat keeps going in. You blow up a balloon with warm air, cool a thermometer with a wet cloth, and measure the heat in a groundnut.
+**Intro.** *Two steel tumblers stand in the same pan of hot water. One holds a katori of cooking oil and the other a katori of water. Both started at room temperature. After ten minutes, one of them has warmed far more than the other. Which one, do you think? And why?* The pan gives the same heat to both tumblers, yet they do not end up the same. In this lesson you test this with two thermometers. You find out why a small cup of hot water can melt less ice than a big bowl of warm water. You watch a thermometer stay still while ice melts, though heat keeps going in. You blow up a balloon with warm air, cool a thermometer with a wet cloth, and measure the heat in a groundnut.
 
 ## Learning outcomes
 0. I can explain that temperature tells how hot a thing is, while the heat it can give depends on how much of it there is and what it is made of.
@@ -591,7 +591,7 @@ Sreedevi, listening from the door, added a warning. 'Three drums can keep a smal
 3. (truefalse) Two things at the same temperature always hold the same amount of heat.  
    **Answer:** False. *Why:* False. A bucket and a katori of water can be at the same temperature, but the bucket holds far more heat because it has far more water.
 4. (mcq) 100 grams of oil and 100 grams of water are heated on the same stove for the same time. What happens?  
-   Options: The oil warms by more degrees / The water warms by more degrees / Both warm by the same number of degrees  
+   Options: The water warms by more degrees / The oil warms by more degrees / Both warm by the same number of degrees  
    **Answer:** The oil warms by more degrees. *Why:* Oil needs only about half as much heat as water for each degree. So the same heat warms the oil by about twice as many degrees. Picking the same number of degrees is common, because the heat is the same. But the same heat warms the two liquids by different amounts.
 5. (sort) Sort these. In the same sun for the same time, does each one warm up slowly or quickly?  
    **Answer:** 1 kilogram of water in a steel vessel → Warms slowly; 1 kilogram of dry sand → Warms quickly; 1 kilogram of coconut water → Warms slowly; 1 kilogram iron tawa → Warms quickly; 1 kilogram of milk → Warms slowly; 1 kilogram of bricks → Warms quickly. *Why:* Water, coconut water and milk are mostly water, so they need a lot of heat for each degree and warm slowly. Sand, iron and brick need much less heat for each degree, so they warm quickly.
@@ -618,7 +618,7 @@ Sreedevi, listening from the door, added a warning. 'Three drums can keep a smal
    Options: Steel grows longer when it warms, and needs room to expand / Steel shrinks in the sun, so the gaps fill up / The gaps let rainwater run through  
    **Answer:** Steel grows longer when it warms, and needs room to expand. *Why:* Most solids expand when they warm. A long steel bridge can grow several centimetres on a hot day, and the gaps give it room. Picking the second answer has it backwards.
 16. (mcq) On a very humid day, the air is already full of water. How does this change the way sweat cools you?  
-   Options: Sweat evaporates slowly, so you feel hotter than on a dry day at the same temperature / Sweat evaporates faster, so you feel cooler / Sweat does not matter, only the air temperature does  
+   Options: Sweat evaporates faster, so you feel cooler / Sweat does not matter, only the air temperature does / Sweat evaporates slowly, so you feel hotter than on a dry day at the same temperature  
    **Answer:** Sweat evaporates slowly, so you feel hotter than on a dry day at the same temperature. *Why:* Sweat cools you only as fast as it evaporates. In humid air it evaporates slowly, so less heat leaves, and you feel hotter. This is why Chennai in the rains feels so sticky.
 ### Sharing and Hiding Heat (stretch) (stretch, 17 questions)
 1. (mcq) Look at the chart from the Oil and Water test. Both tumblers stood in the same bath for 12 minutes. What does the taller bar for the oil tell you?  
@@ -636,7 +636,7 @@ Sreedevi, listening from the door, added a warning. 'Three drums can keep a smal
 6. (order) Put these steps in order for a fair test of which of two liquids warms faster.  
    **Answer:** ['Measure the same amount of each liquid', 'Make sure both start at room temperature', 'Put both in the same hot bath', 'Read both every 3 minutes', 'Compare how many degrees each one rose']. *Why:* A fair test keeps the amount, the start and the bath the same, and changes only the liquid. Then you read and compare.
 7. (mcq) Here is an idea: the water must have got less heat from the bath than the oil, because it warmed less. What is wrong with this idea?  
-   Options: Both got heat from the same bath. Water needs more heat for each degree, so it rose by fewer degrees / Nothing is wrong. The idea is right / Water cannot take in heat from a bath  
+   Options: Nothing is wrong. The idea is right / Both got heat from the same bath. Water needs more heat for each degree, so it rose by fewer degrees / Water cannot take in heat from a bath  
    **Answer:** Both got heat from the same bath. Water needs more heat for each degree, so it rose by fewer degrees. *Why:* A smaller rise in temperature does not mean less heat went in. Water needs more heat for each degree, so the same heat gives a smaller rise.
 8. (write) A bucket of water at 30 °C and a cup of tea at 70 °C. If you drop the same amount of ice into each, which would melt more? Explain your thinking.  
    **Answer:** The bucket would melt more ice. It has far more water, so it holds far more heat to give. The cup of tea is hotter, but it has little water, so it runs out of heat quickly.. *Why:* A strong answer separates how hot a thing is from how much heat it can give, and uses the amount of water.
@@ -644,9 +644,9 @@ Sreedevi, listening from the door, added a warning. 'Three drums can keep a smal
    Options: 5,000 calories / 500 calories / 50 calories  
    **Answer:** 5,000 calories. *Why:* The rise is 50 degrees. 100 grams times 50 degrees times 1 calorie is 5,000 calories. Picking 500 means using 10 degrees instead of 50.
 10. (match) Match each thing to the best reason for it.  
-   **Answer:** The sea warms slowly → Water needs a lot of heat for each degree; A steel spoon warms fast → Steel needs little heat for each degree; Ice cools a drink well → Melting ice takes in a lot of heat; A wet cloth cools a bottle → Evaporating water takes heat away; A bridge has gaps in it → Steel grows longer when it warms. *Why:* Each of these comes from one idea in this unit. The first two are about specific heat. The third is hidden heat. The fourth is evaporation, and the last is expansion.
+   **Answer:** The sea warms slowly → Water needs a lot of heat for each degree; A steel spoon warms fast → Steel needs little heat for each degree; Ice cools a drink well → Melting ice takes in a lot of heat; A wet cloth cools a bottle → Evaporating water takes heat away; A bridge has gaps in it → Steel grows longer when it warms. *Why:* Each of these comes from one idea in this lesson. The first two are about specific heat. The third is hidden heat. The fourth is evaporation, and the last is expansion.
 11. (mcq) Why does steam at 100 °C burn your skin worse than water at 100 °C?  
-   Options: When steam turns back to water it gives out a lot of hidden heat / Steam is hotter than water at the same temperature / Steam is heavier than water  
+   Options: Steam is hotter than water at the same temperature / When steam turns back to water it gives out a lot of hidden heat / Steam is heavier than water  
    **Answer:** When steam turns back to water it gives out a lot of hidden heat. *Why:* Each gram of steam gives out about 540 calories when it turns back into water, as well as the heat that the water then gives as it cools. This is the hidden heat of boiling.
 12. (write) On a dry day, a wet thermometer read 4 degrees lower than a dry one. In the monsoon, it read only 1 degree lower. Explain the difference.  
    **Answer:** In the monsoon, the air is already almost full of water, so water evaporates from the wet cloth very slowly. Less evaporation takes away less heat, so the wet thermometer cools less.. *Why:* A strong answer links evaporation speed to the amount of water already in the air.
@@ -668,7 +668,7 @@ Sreedevi, listening from the door, added a warning. 'Three drums can keep a smal
 2. (write) 100 grams of oil and 100 grams of water are heated with the same candle for the same time. The oil rises by 40 degrees. About how much does the water rise? Show your thinking.  
    **Answer:** About 20 degrees. Oil needs about half as much heat as water for each degree. So the same heat warms the water by about half as many degrees as the oil.. *Why:* A strong answer uses the ratio of specific heats, one half, to turn 40 into 20.
 3. (mcq) 1 litre of water at 90 °C is mixed with 2 litres of water at 30 °C. About what temperature will the mix reach?  
-   Options: About 50 °C / About 60 °C / About 40 °C  
+   Options: About 60 °C / About 50 °C / About 40 °C  
    **Answer:** About 50 °C. *Why:* Multiply each amount by its temperature: 1 times 90 is 90, and 2 times 30 is 60. The total is 150. Divide by 3 litres to get 50. The mix is nearer the 30 because there is more of it.
 4. (truefalse) A block of ice taken from a freezer at minus 10 °C first warms up to 0 °C, and only then begins to melt.  
    **Answer:** True. *Why:* True. Heat first makes the ice warmer. Only when it reaches 0 °C does the heat go into melting it.
@@ -680,7 +680,7 @@ Sreedevi, listening from the door, added a warning. 'Three drums can keep a smal
 7. (fill) Melting 1 gram of ice takes about ____ calories.  
    **Answer:** ['80', 'eighty']. *Why:* It takes as much heat as it takes to warm 1 gram of water by 80 degrees. The temperature stays at 0 °C while this heat goes in.
 8. (mcq) A 100-gram steel ladle needs about 10 calories for each degree. 100 grams of water needs about 100. Each gets 300 calories. About how much does each warm up?  
-   Options: Steel by about 30 degrees, water by about 3 degrees / Steel by about 3 degrees, water by about 30 degrees / Both by about 15 degrees  
+   Options: Steel by about 3 degrees, water by about 30 degrees / Steel by about 30 degrees, water by about 3 degrees / Both by about 15 degrees  
    **Answer:** Steel by about 30 degrees, water by about 3 degrees. *Why:* Steel: 300 divided by 10 is 30 degrees. Water: 300 divided by 100 is 3 degrees. The material that needs less heat for each degree warms by more.
 9. (write) In the Katori and the Bowl test, the katori held 100 grams of water at 60 °C. If it cooled all the way to 0 °C, about how many grams of ice could it melt? Hint: it takes 80 calories to melt 1 gram.  
    **Answer:** About 75 grams. The water gives 100 times 60, which is 6,000 calories as it cools to 0. Dividing 6,000 by 80 gives 75 grams.. *Why:* A strong answer works out the heat the katori can give, then divides by the heat needed for each gram. Real cubes melt a little less, since some heat is lost.
@@ -691,14 +691,14 @@ Sreedevi, listening from the door, added a warning. 'Three drums can keep a smal
 12. (label) Label this heating curve of ice being warmed until the water boils: ice warming, ice melting, water warming, water boiling.  
    **Answer:** Ice warming is the sloping line up to 0. Ice melting is the first flat part at 0. Water warming is the long slope from 0 to 100. Water boiling is the second flat part at 100.. *Why:* The two flat parts are where the heat changes the state and not the temperature.
 13. (mcq) A 100-metre steel bridge grows about 4 centimetres when it warms by 30 degrees. About how much would it grow if it warmed by 15 degrees?  
-   Options: About 2 centimetres / About 8 centimetres / About 4 centimetres  
+   Options: About 8 centimetres / About 4 centimetres / About 2 centimetres  
    **Answer:** About 2 centimetres. *Why:* Half as much warming gives about half as much growth. Half of 4 is 2. Picking 8 doubles instead of halving.
 14. (write) James Joule let falling weights turn a paddle in water, and the water got a little warmer. Why does this show that heat is not a fluid stored inside the water?  
    **Answer:** The paddle was not letting any stored fluid out of the water. The movement of the paddle made the water warm. Doing more work made more heat, with no limit to it. So heat can come from movement itself.. *Why:* A strong answer says that movement turned into heat, and that a fixed store would eventually run out.
 15. (truefalse) At absolute zero, all the particles of a thing stop moving completely.  
    **Answer:** False. *Why:* False. Quantum physics says that particles keep a tiny amount of movement even at absolute zero. They move as little as the rules allow.
 16. (mcq) A child tests which warms faster in the sun. She puts a thick brick in full sun and a thin steel plate in the shade. What is wrong with her test?  
-   Options: She changed two things at once, the material and the place, so she cannot tell which caused the difference / Bricks cannot be warmed by the Sun / Steel plates should always be in the shade  
+   Options: Bricks cannot be warmed by the Sun / Steel plates should always be in the shade / She changed two things at once, the material and the place, so she cannot tell which caused the difference  
    **Answer:** She changed two things at once, the material and the place, so she cannot tell which caused the difference. *Why:* A fair test changes only one thing. Here the material, the thickness and the sunshine all differ.
 
 ## Videos
@@ -711,37 +711,37 @@ Sreedevi, listening from the door, added a warning. 'Three drums can keep a smal
    Options: They are at the same temperature, but the bucket holds far more heat / The bucket holds the same heat, because the temperature is the same / The cup holds more heat, because it is smaller  
    **Answer:** They are at the same temperature, but the bucket holds far more heat. *Why:* A thermometer shows how hot something is, not how much heat it holds. The bucket has far more water, so it holds far more heat. Picking the second answer is the most common slip.
 2. (mcq) Which unit is printed on food packets to show the heat in the food?  
-   Options: Kilocalories / Degrees Celsius / Newtons  
+   Options: Degrees Celsius / Newtons / Kilocalories  
    **Answer:** Kilocalories. *Why:* A kilocalorie is 1,000 calories, and a calorie is a unit of heat. Degrees Celsius measure temperature, and newtons measure force.
 3. (mcq) Which of these needs the most heat to warm by one degree?  
-   Options: 100 grams of water / 100 grams of cooking oil / 100 grams of steel  
+   Options: 100 grams of cooking oil / 100 grams of steel / 100 grams of water  
    **Answer:** 100 grams of water. *Why:* Water needs about 1 calorie for each gram and each degree. Oil needs about half of that, and steel about a tenth. So water takes the most.
 4. (mcq) A tumbler of oil and a tumbler of water start at room temperature and stand in the same hot bath. After 12 minutes, what do you expect?  
    Options: The oil is hotter than the water / The water is hotter than the oil / They are exactly the same temperature  
    **Answer:** The oil is hotter than the water. *Why:* Oil needs less heat for each degree, so the heat from the bath warms it by more degrees. Picking exactly the same is common, because the bath is the same. But the same heat warms the two liquids by different amounts.
 5. (mcq) A child wants to find out which of two liquids warms faster. Which is the fairest test?  
-   Options: The same amount of each, starting at the same temperature, in the same hot bath / A big tumbler of one and a small tumbler of the other, in different baths / The same liquid at two different temperatures  
+   Options: A big tumbler of one and a small tumbler of the other, in different baths / The same amount of each, starting at the same temperature, in the same hot bath / The same liquid at two different temperatures  
    **Answer:** The same amount of each, starting at the same temperature, in the same hot bath. *Why:* A fair test changes only the liquid. Everything else, the amount, the start and the bath, stays the same.
 6. (mcq) A katori of water at 60 °C and a big bowl of water at 40 °C each get the same ice. Which melts more ice?  
-   Options: The big bowl, because it holds far more heat / The katori, because it is hotter / They melt the same amount  
+   Options: The katori, because it is hotter / They melt the same amount / The big bowl, because it holds far more heat  
    **Answer:** The big bowl, because it holds far more heat. *Why:* The bowl has about ten times as much water, so it has far more heat to give, even though it is cooler. Picking the katori is a very natural guess. The test shows that amount matters as well as temperature.
 7. (mcq) Ice is melting in a glass of water. What does a thermometer in the ice read while there is still ice?  
-   Options: About 0 °C / A number that keeps rising / About 100 °C  
+   Options: A number that keeps rising / About 100 °C / About 0 °C  
    **Answer:** About 0 °C. *Why:* The heat that goes in is used to melt the ice, so the temperature holds at 0 °C until the last ice is gone.
 8. (mcq) Water boils in an open pot at sea level. You turn the flame up high. What happens to the temperature of the water?  
    Options: It stays at about 100 °C, and the water boils away faster / It rises to 200 °C / It falls, because the flame is too big  
    **Answer:** It stays at about 100 °C, and the water boils away faster. *Why:* The extra heat goes into turning more water to steam. The water cannot go much above 100 °C while it boils in an open pot.
 9. (mcq) A paper clip bent back and forth many times gets warm at the bend. Where does the heat come from?  
-   Options: From the movement of bending, which turns into heat / From a store of heat inside the clip / From the cold air  
+   Options: From a store of heat inside the clip / From the cold air / From the movement of bending, which turns into heat  
    **Answer:** From the movement of bending, which turns into heat. *Why:* The movement energy of your hand makes the metal's particles jiggle faster. That is heat. A store would run out, but bending can keep making heat.
 10. (mcq) A balloon on a closed bottle swells when the bottle stands in hot water. Why?  
-   Options: The air inside warms up and takes up more room / Hot water gets into the bottle / The bottle makes more air  
+   Options: Hot water gets into the bottle / The bottle makes more air / The air inside warms up and takes up more room  
    **Answer:** The air inside warms up and takes up more room. *Why:* The bottle is sealed, so no air can come in. The same air takes up more room when it is warm.
 11. (mcq) Why does sweat cool you?  
-   Options: When sweat evaporates, it takes heat away from your skin / Sweat is always colder than your skin / Sweat blocks the Sun's heat  
+   Options: Sweat is always colder than your skin / When sweat evaporates, it takes heat away from your skin / Sweat blocks the Sun's heat  
    **Answer:** When sweat evaporates, it takes heat away from your skin. *Why:* The fastest water particles leave the skin as sweat evaporates, and they take their energy with them. Sweat starts at body temperature.
 12. (mcq) Why does a sandy beach get hot at noon while the sea beside it stays cool?  
-   Options: Sand needs much less heat than water for each degree, so it warms faster / The Sun shines harder on the sand / Sand makes its own heat  
+   Options: The Sun shines harder on the sand / Sand makes its own heat / Sand needs much less heat than water for each degree, so it warms faster  
    **Answer:** Sand needs much less heat than water for each degree, so it warms faster. *Why:* The Sun shines about equally on both. Sand needs little heat for each degree, and sunlight only warms its top layer. The sea needs a lot of heat for each degree and mixes the heat through a deep layer.
 13. (mcq) People once thought a thermometer showed how much heat a thing holds. Which result shows this idea is wrong?  
    Options: A bucket of water at 40 °C can melt more ice than a katori of water at 60 °C / A thermometer takes about a minute to settle / Ice floats on water  
@@ -764,7 +764,7 @@ Sreedevi, listening from the door, added a warning. 'Three drums can keep a smal
 - A clay matka on a stand, with a damp outside and a cool inside.
 - Small gaps between the sections of a bridge, or between railway rails.
 - Steam rising from a hot pressure cooker or idli steamer.
-- Hot sand and cool sea at a beach at noon, such as Marina in Chennai or Kovalam in Kerala.
+- Hot sand and cool sea at a beach at noon.
 - Wet clothes drying on a line, faster on a dry sunny day than on a rainy day.
 - The coconut water in a coconut, staying cool even on a hot afternoon.
 - A thermometer in a clinic, and the hot-water bottle for a stomach ache.
@@ -822,8 +822,16 @@ Where Did It Come From? (sci.energy.L4): Topic-level song
 - [B. M. Birla Science Centre](https://www.birlasciencecentre.org/) · place · Hyderabad: A science centre and planetarium with hands-on exhibits, with a collection about the physics of everyday life.
 
 ## Things to buy
-- [Two laboratory thermometers, minus 10 to 110 °C, with red liquid (not mercury). Or two digital kitchen probe thermometers.](https://www.amazon.in/s?k=laboratory+thermometer+-10+to+110) (tool): Every test in this unit reads a temperature. Two thermometers let you read both liquids at once. A fever thermometer reads only from about 32 to 42 °C, so it will not work. A digital probe is harder to break and settles faster. Cost: about Rs 60 to 150 each from a school-lab or science-kit shop, or online. Kirana and medical shops usually have only fever thermometers, so buy ahead. One thermometer is enough for every test if you read the two things one after the other. Used in e1, e2, e3, a1, a3, a4, p1, c1. 
+- [Two laboratory thermometers, minus 10 to 110 °C, with red liquid (not mercury). Or two digital kitchen probe thermometers.](https://www.amazon.in/s?k=laboratory+thermometer+-10+to+110) (tool): Every test in this lesson reads a temperature. Two thermometers let you read both liquids at once. A fever thermometer reads only from about 32 to 42 °C, so it will not work. A digital probe is harder to break and settles faster. Cost: about Rs 60 to 150 each from a school-lab or science-kit shop, or online. Kirana and medical shops usually have only fever thermometers, so buy ahead. One thermometer is enough for every test if you read the two things one after the other. Used in e1, e2, e3, a1, a3, a4, p1, c1. 
 - [A small digital kitchen scale that reads in grams](https://www.amazon.in/s?k=digital+kitchen+weighing+scale+1g) (tool): For the groundnut test, to find how much of the nut burned. It is optional. Most kitchens that bake already have one. Used in a4. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in The Balloon on the Bottle: does warm air take up more room?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in a1. Get it before The Balloon on the Bottle: does warm air take up more room?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Balloon on the Bottle: does warm air take up more room?. About ₹10 to ₹30. Any school ruler is fine. Used in a1. Get it before The Balloon on the Bottle: does warm air take up more room?.
+- [Insulated wire or crocodile clips](https://www.amazon.in/s?k=crocodile+clip+wire+set) (tool): Used in The Warm Night Box: keep a box warm with one litre of hot water. About ₹20 to ₹80. Thin insulated wire from an old charger works. Used in c1. Get it before The Warm Night Box: keep a box warm with one litre of hot water.
+- [Balloons (a packet)](https://www.amazon.in/s?k=balloons+packet) (material): Used in The Balloon on the Bottle: does warm air take up more room?. About ₹20 to ₹60. Used in a1. Get it before The Balloon on the Bottle: does warm air take up more room?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Warm Night Box: keep a box warm with one litre of hot water. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before The Warm Night Box: keep a box warm with one litre of hot water.
+- [Clean sand (a small bag)](https://www.amazon.in/s?k=play+sand+small+bag) (material): Used in Sand and Water in the Sun: two plates, two days. About ₹20 to ₹60. Fine soil sieved from a pot works. Used in p1. Get it before Sand and Water in the Sun: two plates, two days.
+- [A measuring jug or syringe (marked in millilitres)](https://www.amazon.in/s?k=measuring+jug+500+ml) (tool): Used in The Katori and the Bowl: which melts more ice?. About ₹30 to ₹100. A clean medicine cup or marked bottle works. Used in e2. Get it before The Katori and the Bowl: which melts more ice?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What does one calorie measure? → Heat: the heat that warms 1 gram of water by 1 degree Celsius.
@@ -844,7 +852,7 @@ Where Did It Come From? (sci.energy.L4): Topic-level song
 ## Sources
 - ideas/by_topic/energy.md: the grade 2 and grade 3 concept rows (friction and 'perpetual' toys convert movement to heat; thermal energy; energy as a measurable capacity to transfer heat), used for the heat-from-movement activity and the calorie units
 - ideas/by_topic/energy.md: the Heat Flow and Heat transfer rows (hot-and-cold race ideas, wrapped bottles, sea breeze), used for the sea and sand explanation and the wet-and-dry activity
-- The Class 3 unit on heat and temperature (sci.energy.heat.L3), which this unit builds on: the idea that heat moves from warmer to cooler and that temperature is how fast particles jiggle, now extended to the amount of heat, specific heat, melting and boiling
+- The Class 3 unit on heat and temperature (sci.energy.heat.L3), which this lesson builds on: the idea that heat moves from warmer to cooler and that temperature is how fast particles jiggle, now extended to the amount of heat, specific heat, melting and boiling
 - The Combined lesson sci-C4-energy: the fair-test habit and the idea that energy is moved and spread out, used in the structure of the experiments
 - Black, J., lectures on heat in Glasgow in the 1760s, published after his death as Lectures on the Elements of Chemistry, edited by John Robison, 1803 (specific heat and latent heat)
 - Boerhaave, H., Elementa Chemiae, 1732 (reports Fahrenheit's mixing experiments with water and mercury)

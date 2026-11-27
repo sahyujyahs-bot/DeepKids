@@ -1,9 +1,9 @@
 # Design and build: make it, test it, make it better
 `sci.making-things.design-and-build.L3`
 
-**Summary.** A tiny foil boat can float and carry a load, but only if it is shaped well. In this unit you will build a foil boat, test it and make it better, find which kitchen paste joins paper best, and hunt for the weak spot in a design.
+**Summary.** A tiny foil boat can float and carry a load, but only if it is shaped well. In this lesson you will build a foil boat, test it and make it better, find which kitchen paste joins paper best, and hunt for the weak spot in a design.
 
-**Intro.** *Here is a square of kitchen foil, as wide as your hand is long. Can you fold it into a boat that carries 20 coins without sinking? Most people's first boat sinks with far fewer. Why, and how do you make the next one better?* Everything people make was designed by someone: your steel tumbler, your chappals, the bus and the Chandrayaan rocket. Designing means deciding what a thing is for, then planning how to make it do that job. Nobody gets it all right the first time. Engineers build, test, find the weak spot and improve. In this unit you do exactly that, with a foil boat, a bucket of water and some coins.
+**Intro.** *Here is a square of kitchen foil, as wide as your hand is long. Can you fold it into a boat that carries 20 coins without sinking? Most people's first boat sinks with far fewer. Why, and how do you make the next one better?* Everything people make was designed by someone: your steel tumbler, your chappals, the bus and the Chandrayaan rocket. Designing means deciding what a thing is for, then planning how to make it do that job. Nobody gets it all right the first time. Engineers build, test, find the weak spot and improve. In this lesson you do exactly that, with a foil boat, a bucket of water and some coins.
 
 ## Learning outcomes
 0. I can say what a design is for (its purpose) and the limits it must work within (its constraints).
@@ -29,6 +29,8 @@
 - **Load**: The weight a design has to carry or hold up. *e.g.* The coins are the load that the foil boat carries.
 - **Joint**: The place where two parts of a design are fixed together. *e.g.* Where two paper strips are stuck together with paste, that is a joint.
 - **Adhesive**: A material that sticks two things together, such as glue, paste or sticky tape. *e.g.* Rice paste is an adhesive that people in India have used for a long time to stick paper.
+- **Raw material**: A raw material is a material taken straight from nature to make something. Clay is the raw material for a pot, and limestone is the raw material for cement. *e.g.* A potter in a village digs wet clay from the riverbank. The clay is the raw material for her pots.
+- **Mould (shape)**: A mould is a hollow shape that soft material is pressed into, so it comes out in that shape. An idli stand is a mould, and so is a brick frame. *e.g.* The cups of an idli stand are moulds. The soft batter fills them and comes out in the shape of the cup.
 
 ## Explanations
 ### Every design starts with a purpose · *defined*
@@ -472,16 +474,16 @@ Kavya smiled. That was exactly what engineers do.
 ## Worksheets
 ### Plan, Build, Test (core) (core, 15 questions)
 1. (mcq) Which of these is a purpose, not a material?  
-   Options: Steel / Keeping rain off your head / Cotton  
+   Options: Keeping rain off your head / Steel / Cotton  
    **Answer:** Keeping rain off your head. *Why:* Keeping rain off is a job, so it is a purpose. Steel and cotton are materials.
 2. (mcq) What is a prototype?  
    Options: The final thing sold in a shop / A first trial version built to be tested / A drawing of a boat  
    **Answer:** A first trial version built to be tested. *Why:* A prototype is built to be tested, so you can find what to improve. A drawing is a plan, not a prototype.
 3. (mcq) Your foil boat tipped and sank with all the coins on one side. What should you try next?  
-   Options: Spread the coins evenly / Use more coins / Use a bigger bucket  
+   Options: Use more coins / Use a bigger bucket / Spread the coins evenly  
    **Answer:** Spread the coins evenly. *Why:* The load was all on one side, so that side went under. Spreading the coins keeps the boat level.
 4. (mcq) Why do we pinch the corners of a foil boat tightly?  
-   Options: To make it shiny / So water cannot leak through gaps in the folds / To make it lighter  
+   Options: To make it shiny / To make it lighter / So water cannot leak through gaps in the folds  
    **Answer:** So water cannot leak through gaps in the folds. *Why:* A gap in a fold lets water in, so the boat fills and sinks. Pinching closes the gaps.
 5. (truefalse) A first design usually works perfectly.  
    **Answer:** False. *Why:* False. First designs almost always have a weak spot. Testing finds it, so you can improve the design.
@@ -507,16 +509,16 @@ Kavya smiled. That was exactly what engineers do.
    **Answer:** A strong answer picks a side with a reason. Shallow is safer for small birds, who can drown in deep water and need to stand. Deep holds water longer in the heat. A strong answer may suggest a design that does both, such as a deep bowl with stones inside to stand on.. *Why:* Both have a point. Designers often face a trade-off, where making one thing better makes another worse.
 ### Find the Weak Spot (stretch) (stretch, 15 questions)
 1. (mcq) A foil boat carried 10 coins. With taller walls, it carried 18. Then the corners were pinched tighter too, and it carried 25. Which statement is true?  
-   Options: Each change helped / Only the tighter corners helped / Neither change helped  
+   Options: Only the tighter corners helped / Neither change helped / Each change helped  
    **Answer:** Each change helped. *Why:* The coins went up after each single change: 10 to 18, then 18 to 25. Because only one thing changed each time, you can tell each change helped.
 2. (mcq) A big steel ship weighs thousands of tonnes but floats. Why?  
-   Options: Steel is lighter than water / Its wide, hollow body pushes aside a huge amount of water / Ships have engines that hold them up  
+   Options: Steel is lighter than water / Ships have engines that hold them up / Its wide, hollow body pushes aside a huge amount of water  
    **Answer:** Its wide, hollow body pushes aside a huge amount of water. *Why:* A ship's hollow shape pushes aside enough water that the upward push equals its weight. Solid steel is heavier than the same amount of water, so a steel bar sinks.
 3. (mcq) You are testing a new way to carry water pots on a bicycle. Why test with half-full pots first?  
-   Options: Half-full pots look nicer / So a failure would spill less water / Because full pots don't fit  
+   Options: So a failure would spill less water / Half-full pots look nicer / Because full pots don't fit  
    **Answer:** So a failure would spill less water. *Why:* Testing with a smaller load first means a failure costs less. Engineers often test small or with less before the full test.
 4. (mcq) In the paste test, a tape joint peeled slowly while the rice paste joint held and the paper tore. Which joint was stronger?  
-   Options: Tape / Rice paste / You can't tell  
+   Options: Rice paste / Tape / You can't tell  
    **Answer:** Rice paste. *Why:* If the paper tore before the rice paste joint gave way, the joint was stronger than the paper. The tape joint gave way first.
 5. (truefalse) A stronger material always makes a better design.  
    **Answer:** False. *Why:* False. The best material depends on the job. A steel kite would be very strong but would never fly.
@@ -546,10 +548,10 @@ Kavya smiled. That was exactly what engineers do.
    Options: That is right / The difference is small. Test each boat again to check it was not a fluke. / Both are bad  
    **Answer:** The difference is small. Test each boat again to check it was not a fluke.. *Why:* A difference of 2 coins could come from chance, such as where a coin landed. Testing again shows whether the difference is real.
 2. (mcq) A boat made from a 15 centimetre square carried 30 coins. What would you predict for a boat of the same shape from a 30 centimetre square?  
-   Options: About the same / Many more coins / Fewer coins  
+   Options: Many more coins / About the same / Fewer coins  
    **Answer:** Many more coins. *Why:* A bigger boat of the same shape has a much bigger base and taller walls, so it can push aside far more water. It should carry many more coins, more than twice as many.
 3. (mcq) Why might a designer make a phone stand from card instead of steel?  
-   Options: Card is stronger / Card is cheap, light, easy to cut and strong enough for the job / Steel would bend  
+   Options: Card is stronger / Steel would bend / Card is cheap, light, easy to cut and strong enough for the job  
    **Answer:** Card is cheap, light, easy to cut and strong enough for the job. *Why:* A material only needs to be strong enough. Card is cheap and easy to shape, and a phone is light.
 4. (truefalse) If a design passes its test, it can never be improved.  
    **Answer:** False. *Why:* False. A design that works may still be made cheaper, lighter, safer or easier to use. Phones and bicycles keep being redesigned.
@@ -583,40 +585,40 @@ Kavya smiled. That was exactly what engineers do.
 
 ## Quiz
 1. (mcq) What is the purpose of a design?  
-   Options: What it is made of / The job it is made to do / How much it costs  
+   Options: What it is made of / How much it costs / The job it is made to do  
    **Answer:** The job it is made to do. *Why:* The purpose is the job the thing must do. What it is made of is its material, and cost is one of its limits. Picking 'material' mixes up what a thing is for with what it is made of.
 2. (mcq) In the foil boat test, each boat must be made from one square of foil. What is this rule called?  
-   Options: A constraint / A prototype / A float  
+   Options: A prototype / A float / A constraint  
    **Answer:** A constraint. *Why:* A constraint is a limit a design must work within. A prototype is a trial version, and float is what a boat does.
 3. (mcq) In the design cycle, what comes right after testing a design?  
    Options: Throw it away / Improve it, then test again / Paint it  
    **Answer:** Improve it, then test again. *Why:* After a test, you look at what went wrong and improve the design, then test again. That loop is the design cycle. Picking 'throw it away' misses that a failed test shows you what to fix.
 4. (mcq) A foil boat sank when water came in over one low corner. What should you change for the next boat?  
-   Options: Use more coins / Make that corner as high as the other walls / Use a smaller bucket  
+   Options: Use more coins / Use a smaller bucket / Make that corner as high as the other walls  
    **Answer:** Make that corner as high as the other walls. *Why:* The low corner was the weak spot, so raising it fixes the problem. More coins would make it sink sooner, and the bucket size does not change where water comes in.
 5. (mcq) You changed the walls, the base and the corners of a foil boat all at once, and it carried more coins. What can you NOT tell?  
-   Options: That the new boat is better / Which change made it better / How many coins it carried  
+   Options: Which change made it better / That the new boat is better / How many coins it carried  
    **Answer:** Which change made it better. *Why:* Three things changed at once, so you cannot tell which one helped. To know, change one thing at a time. You can still see that the new boat is better and count its coins.
 6. (mcq) Why does a foil boat float?  
-   Options: Foil is lighter than air / The water pushes up on the boat / The coins hold it up  
+   Options: Foil is lighter than air / The coins hold it up / The water pushes up on the boat  
    **Answer:** The water pushes up on the boat. *Why:* Water pushes up on anything put into it. The more water a boat pushes aside, the bigger that push. Foil is much heavier than air, and the coins push the boat down, not up.
 7. (mcq) Why does a boat with taller walls usually carry more coins?  
-   Options: It is made of thicker foil / It can sink deeper and push aside more water before water spills in / Tall walls keep the wind off  
+   Options: It can sink deeper and push aside more water before water spills in / It is made of thicker foil / Tall walls keep the wind off  
    **Answer:** It can sink deeper and push aside more water before water spills in. *Why:* Taller walls let the boat sink lower without water coming over the top. A lower boat pushes aside more water, so the water pushes up harder. It uses the same foil, not thicker foil.
 8. (mcq) Which is the best material for a test boat that you fold by hand?  
-   Options: Paper towel / Aluminium foil / A steel plate  
+   Options: Paper towel / A steel plate / Aluminium foil  
    **Answer:** Aluminium foil. *Why:* Foil is thin, light, waterproof and holds a folded shape. Paper towel soaks up water and sinks. Steel is too stiff to fold by hand.
 9. (mcq) In the paste test, the plain water joint fell apart at once. Why did we test plain water at all?  
-   Options: To see what happens with no paste, so we know the paste does the work / Because water is the best glue / To make the paper soft  
+   Options: Because water is the best glue / To see what happens with no paste, so we know the paste does the work / To make the paper soft  
    **Answer:** To see what happens with no paste, so we know the paste does the work. *Why:* Plain water is the 'no paste' joint. Comparing with it shows what each paste adds. It is not a glue.
 10. (mcq) A team's first Moon lander crashed. What is the best thing to do for the next one?  
-   Options: Make it look better / Study what went wrong, and make those parts stronger / Hope the Moon has changed  
+   Options: Make it look better / Hope the Moon has changed / Study what went wrong, and make those parts stronger  
    **Answer:** Study what went wrong, and make those parts stronger. *Why:* A failure shows where a design is weak. India's Chandrayaan-2 lander crashed in 2019. ISRO gave Chandrayaan-3 stronger legs and more fuel, and it landed safely in 2023.
 11. (mcq) A scientist makes a cloudy, runny liquid. Everyone expects liquids like it to be useless. What should she do?  
-   Options: Throw it away / Test it anyway, for example by spinning it into a fibre / Mix it with water  
+   Options: Throw it away / Mix it with water / Test it anyway, for example by spinning it into a fibre  
    **Answer:** Test it anyway, for example by spinning it into a fibre. *Why:* A guess is not a test. Stephanie Kwolek insisted on testing a liquid like this, and found it made a very strong fibre, later called Kevlar.
 12. (mcq) You put out a bird water bowl. A crow lands on the edge and the bowl tips over. What is the best improvement?  
-   Options: Fill it to the top / Use a wider, heavier bowl, or put a stone in the middle / Move it into the sun  
+   Options: Use a wider, heavier bowl, or put a stone in the middle / Fill it to the top / Move it into the sun  
    **Answer:** Use a wider, heavier bowl, or put a stone in the middle. *Why:* A wider, heavier bowl, or a weight in the middle, keeps it steady when a bird lands on the edge. More water might not stop the tipping, and sun would make the water hot.
 
 ## Applications
@@ -630,14 +632,14 @@ Kavya smiled. That was exactly what engineers do.
 - Ramps at railway stations and schools are designed so everyone can use them, including people in wheelchairs.
 
 ## Spotted around us
-- Kattumarams, boats made of logs tied together, on the beaches of Chennai and the Coromandel coast.
-- Kettuvallam houseboats on the backwaters of Kerala, traditionally made of planks stitched with coir rope.
+- Boats made of logs tied together, on a beach.
+- A houseboat on the backwaters, traditionally made of planks stitched with coir rope.
 - The rolled rim of a steel tumbler, and the plastic handle of a pressure cooker.
 - Food safes or shelves with their legs standing in small bowls of water, to keep ants out.
 - Ramps beside the steps at metro stations, for wheelchairs, prams and luggage.
 - Thick yellow cloth bags at the ration shop, strong enough to carry rice.
-- The long crates in which Mumbai's dabbawalas carry tiffin boxes, on bicycle carriers and on their heads.
-- Living root bridges in Meghalaya, grown over many years from the roots of rubber fig trees.
+- The long crates in which dabbawalas carry tiffin boxes, on bicycle carriers and on their heads.
+- A bridge grown over many years from the roots of rubber fig trees, in a picture or a video.
 
 ## Open questions
 - **Can a computer design things better than people, without testing them in the real world?** Computers already design some parts that are lighter and stronger than people's. But real materials and real users still surprise designers, and nobody knows how far computer design can go.
@@ -684,6 +686,11 @@ Look Close, Then Make (sci.making-things.L3): Topic-level song for Making things
 
 ## Things to buy
 - [Aluminium kitchen foil, a small roll](https://www.amazon.in/s?k=aluminium+foil+roll+kitchen) (material): Most city homes already have a roll for wrapping rotis. If not, it is sold at every grocery shop. Thin household foil works best, because it is easy to fold. Used in e1, a4. 
+- [Iggy Peck, Architect by Andrea Beaty](https://www.amazon.in/s?k=Iggy+Peck+Architect) (book): A boy who builds towers from anything he finds, and a class who build a bridge from whatever they have. It shows the child that building starts with an idea. Used in a1. Read it together before the building project.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Foil Boat: build it, test it, make it better, The Paste Test: which kitchen paste joins paper best?, The Phone Stand from One Card. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, c1. Get it before The Foil Boat: build it, test it, make it better.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in A Water Bowl for Birds on the Balcony. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in p1. Get it before A Water Bowl for Birds on the Balcony.
+- [Iron nails or iron filings](https://www.amazon.in/s?k=iron+filings+science) (material): Used in Take Apart a Pen, Keep the Ants Out of the Sugar. About ₹20 to ₹80. Short steel nails from a hardware shop. Used in a2, c2. Get it before Take Apart a Pen.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is a purpose? → The job a thing is made to do.

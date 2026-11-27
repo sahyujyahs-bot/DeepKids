@@ -192,7 +192,8 @@
    "examples": [
     "In Sss and Zzz, your fingers felt a buzz on your throat for 'zzz' but not for 'sss'.",
     "In Sss and Zzz, your hum stopped when you pinched your nose, because the breath could no longer flow.",
-    "A male cricket sings by rubbing his wings. A bee's hum is the beat of her wings."
+    "A male cricket sings by rubbing his wings. A bee's hum is the beat of her wings.",
+    "With your eyes shut, you can often tell the source. A cricket's chirp comes from rubbing wings. A dog's bark comes from vocal folds. A bird's song comes from the syrinx, deep in the chest."
    ],
    "perspectives": [],
    "art": "A view down a throat showing two pale folds, drawn once open and once closed, with small puffs of air rising between them."
@@ -231,7 +232,8 @@
    "examples": [
     "Heat in a steel tumbler is the vibration of its particles.",
     "The Earth rang for weeks after the Sumatra earthquake of December 2004.",
-    "String theory describes every particle as a tiny vibrating string. No experiment has tested it yet."
+    "String theory describes every particle as a tiny vibrating string. No experiment has tested it yet.",
+    "A rustle of dry leaves in the wind is many leaves knocking and rubbing against each other, so it has no clear note."
    ],
    "perspectives": [
     {
@@ -633,11 +635,11 @@
       "t": "mcq",
       "q": "Which change makes a drum skin vibrate more slowly?",
       "options": [
-       "Sticking a lump of paste on it",
        "Tightening it",
+       "Sticking a lump of paste on it",
        "Hitting it harder"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The paste adds weight, so there is more to move and the skin vibrates more slowly. Tightening makes it faster. Hitting harder makes it louder, and leaves the frequency the same."
      },
      "context": "This is the last step of Tighter, Heavier, Shorter. You sort the change cards by the reason on the back."
@@ -824,11 +826,11 @@
       "t": "mcq",
       "q": "What does every sound need between the source and the listener?",
       "options": [
-       "A medium made of particles",
        "A string",
-       "Empty space"
+       "Empty space",
+       "A medium made of particles"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A vibration is passed from particle to particle. So there must be a solid, a liquid or a gas in between. A string is only one kind of medium. Empty space has no particles, so it cannot carry a sound."
      },
      "context": "This is the last step of Pass It On. You check the five chains and find what they all share."
@@ -1190,11 +1192,11 @@
       "t": "mcq",
       "q": "In the Thali and the Skin, why swing the spoon once without hitting the plate?",
       "options": [
-       "To check that wind from the swing moves nothing",
        "To warm up the arm",
-       "To make the plate ring longer"
+       "To make the plate ring longer",
+       "To check that wind from the swing moves nothing"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Suppose the grains stay still for a swing with no strike. Then the sound moved them, and the moving air did not. If you chose another answer, remember that a fair test rules out other causes."
      },
      "parent": "At 10 cm, most of the grains should jump or slide when the plate is struck. If nothing moves, tighten the film, use fewer grains and strike harder.",
@@ -1372,11 +1374,11 @@
       "t": "mcq",
       "q": "In the Spoon on a String, what is the vibration travelling through when your fingers are at your ears?",
       "options": [
-       "The string, your fingers and your head bones",
        "Only the air in the room",
-       "Nothing at all"
+       "Nothing at all",
+       "The string, your fingers and your head bones"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The vibration runs along the solid string and into your fingers. Then it passes through the bones of your head to the inner ear. If you chose the air, notice that the sound was much weaker when your hands were away from your ears."
      },
      "parent": "Through the air the spoon gives a thin 'tink' for a second or two. Through the string it sounds like a large bell, and rings for much longer. Count seconds by saying 'one thousand and one, one thousand and two'.",
@@ -1512,11 +1514,11 @@
       "t": "mcq",
       "q": "A ringing tumbler goes silent when you pinch its rim. What does that show?",
       "options": [
-       "The sound lasts only while the tumbler vibrates",
        "Fingers soak up sound from the air",
-       "The tumbler ran out of sound"
+       "The tumbler ran out of sound",
+       "The sound lasts only while the tumbler vibrates"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The pinch stops the tumbler moving, and the sound stops at the same moment. So the sound comes from the vibration. A thing does not hold a store of sound that can run out."
      },
      "parent": "Keep your child's answer to the last question. The Slow String activity answers it.",
@@ -1617,11 +1619,11 @@
       "t": "mcq",
       "q": "Taking the peg off the Slow String made it swing faster. Why?",
       "options": [
-       "There was less weight to move",
        "The chain became longer",
-       "The peg was holding the sound in"
+       "The peg was holding the sound in",
+       "There was less weight to move"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The chain pulls back just as hard, but with the peg gone it has less weight to move. So each trip takes less time. The length of the chain did not change."
      },
      "parent": "Without the peg, the chain flutters too fast to count. Pulled tight, it becomes a blur, widest in the middle, and you may hear a faint low hum. A tighter chain pulls back harder, so it vibrates faster.",
@@ -1811,11 +1813,11 @@
       "t": "mcq",
       "q": "What do your vocal folds do to make a higher note?",
       "options": [
-       "They stretch tighter and vibrate faster",
        "They stop moving",
-       "They push out more air"
+       "They push out more air",
+       "They stretch tighter and vibrate faster"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Tighter folds are pulled back harder, so they vibrate faster, as a tighter string does. More air makes a voice louder, but it does not make the note higher."
      },
      "parent": "The voice box rises a little for high notes. Muscles stretch the folds longer, thinner and tighter, so they open and close more times each second.",
@@ -1940,11 +1942,11 @@
       "t": "mcq",
       "q": "A louder voice made a longer streak of light. What does that show about the skin?",
       "options": [
-       "It vibrated with a bigger amplitude",
        "It vibrated more times each second",
+       "It vibrated with a bigger amplitude",
        "It stopped vibrating"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A louder sound pushes the skin further from its rest position each time. That is a bigger amplitude. The number of vibrations each second depends on the note, not on the loudness."
      },
      "parent": "The voice pushes the air, the air pushes the skin, and the mirror shows the movement. A microphone works in the same way: a thin skin moves with the sound, and the movement is turned into an electric signal.",
@@ -2036,11 +2038,11 @@
       "t": "mcq",
       "q": "Why is a buzzing phone quieter on a sponge than on a steel plate?",
       "options": [
-       "The sponge keeps the vibration from the plate",
        "The sponge makes the phone's motor spin slower",
-       "Sound cannot travel through air near a sponge"
+       "Sound cannot travel through air near a sponge",
+       "The sponge keeps the vibration from the plate"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The phone's motor spins just the same. The soft sponge takes the energy of the vibration. So the wide plate is not made to vibrate and push the air."
      },
      "parent": "Look for the same idea at home: rubber feet under a mixer-grinder, a mat under a washing machine, and rubber pads where a ceiling fan hangs.",
@@ -2060,12 +2062,12 @@
      "t": "mcq",
      "p": "What is a vibration?",
      "opts": [
-      "A movement back and forth, again and again",
       "A movement in one direction only",
       "A loud sound",
-      "A kind of air"
+      "A kind of air",
+      "A movement back and forth, again and again"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A vibrating thing moves to one side of its rest position and back through it to the other side. It does this over and over. Choosing 'a loud sound' mixes up the sound with the movement that makes it.",
      "outcome": 0
     },
@@ -2115,12 +2117,12 @@
      "t": "mcq",
      "p": "In the Comb Test, why did a quick stroke give a note and not ticks?",
      "opts": [
-      "The ticks came too fast to hear apart",
       "The comb grew warmer",
       "The card changed shape",
-      "The teeth moved closer together"
+      "The teeth moved closer together",
+      "The ticks came too fast to hear apart"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The comb, the card and the teeth were the same. Only the number of ticks each second changed. Above about 20 a second, the ear hears them as one note.",
      "outcome": 2,
      "how": "e1"
@@ -2203,12 +2205,12 @@
      "t": "mcq",
      "p": "In the Thali and the Skin, what did you change on purpose?",
      "opts": [
-      "The distance from the plate to the bowl",
       "The number of grains",
+      "The distance from the plate to the bowl",
       "The size of the bowl",
       "The kind of spoon"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The distance was the independent variable, the one thing changed on purpose. The grains, the bowl and the spoon were control variables, kept the same.",
      "outcome": 5,
      "how": "e2"
@@ -2265,12 +2267,12 @@
      "t": "mcq",
      "p": "Why can sound not cross empty space?",
      "opts": [
-      "No particles are there to pass the push",
       "Space is too cold",
       "Space is too far away",
+      "No particles are there to pass the push",
       "Sound is too slow"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A sound travels when each particle pushes the next. Empty space has no particles, so the vibration has nothing to travel through.",
      "outcome": 4
     }
@@ -2286,12 +2288,12 @@
      "t": "mcq",
      "p": "Where is a vibrating string moving fastest?",
      "opts": [
-      "As it passes its rest position",
       "At the far edge of its swing",
       "At its two fixed ends",
+      "As it passes its rest position",
       "It moves at one speed everywhere"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The string speeds up all the way back to its rest position and slows down after it. At the far edge it stops for an instant. The fixed ends do not move at all.",
      "outcome": 1,
      "how": "a2"
@@ -2300,12 +2302,12 @@
      "t": "mcq",
      "p": "In the Slow String, a clothes peg on the chain made it swing more slowly. Why?",
      "opts": [
-      "There was more weight to move",
       "The chain was pulled back harder",
       "The chain became shorter",
-      "The peg blocked the air"
+      "The peg blocked the air",
+      "There was more weight to move"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The chain pulled back just as hard as before. It had more weight to move, so each trip took longer.",
      "outcome": 1,
      "how": "a2"
@@ -2321,12 +2323,12 @@
      "t": "mcq",
      "p": "The lowest string of a guitar has fine wire wound round it. What is the wire for?",
      "opts": [
-      "To add weight, so it vibrates slowly",
       "To make the string tighter",
       "To make the string shine",
+      "To add weight, so it vibrates slowly",
       "To stop the string vibrating"
      ],
-     "a": 0,
+     "a": 2,
      "why": "More weight to move gives a slower vibration and a lower note. The string can then stay tight enough to ring well.",
      "outcome": 1
     },
@@ -2488,6 +2490,42 @@
      "why": "False. The ends are held still. The string moves most in the middle, where the blur is widest.",
      "outcome": 0,
      "how": "a1"
+    },
+    {
+     "t": "sort",
+     "p": "Sort each sound by what makes it: a living body, or things knocking and rubbing together.",
+     "cats": [
+      "A living body",
+      "Things knocking or rubbing"
+     ],
+     "items": [
+      [
+       "a bird's song",
+       "A living body"
+      ],
+      [
+       "a rustle of dry leaves in the wind",
+       "Things knocking or rubbing"
+      ],
+      [
+       "a dog's bark",
+       "A living body"
+      ],
+      [
+       "a loose tin sheet clanging in the wind",
+       "Things knocking or rubbing"
+      ],
+      [
+       "a cricket's chirp",
+       "A living body"
+      ],
+      [
+       "a gate creaking as it swings",
+       "Things knocking or rubbing"
+      ]
+     ],
+     "a": "see items",
+     "why": "A bird, a dog and a cricket make sound with their own bodies. The leaves, the tin and the gate knock or rub against each other."
     }
    ]
   },
@@ -2501,12 +2539,12 @@
      "t": "mcq",
      "p": "A bell rings inside a jar while the air is pumped out. What happens?",
      "opts": [
-      "The bell still moves, but its sound fades",
       "The bell stops moving",
       "The sound grows louder",
-      "Nothing changes"
+      "Nothing changes",
+      "The bell still moves, but its sound fades"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The bell still vibrates, but with fewer and fewer air particles there is less to carry the pushes. Robert Boyle and Robert Hooke showed this about 1660.",
      "outcome": 4
     },
@@ -2583,12 +2621,12 @@
      "t": "mcq",
      "p": "In the Spoon on a String, the spoon sounded deeper through the string than through the air. Why?",
      "opts": [
-      "Its slow vibrations hardly push the air",
       "The string slowed the spoon down",
+      "Its slow vibrations hardly push the air",
       "Fingers make every sound deeper",
       "The air removed the high notes"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A spoon vibrates in fast ways and slow ways at once. A small spoon pushes the air poorly with its slow vibrations, but they travel well along the string. So the deep part of the ring is heard only through the string.",
      "outcome": 4,
      "how": "e3"
@@ -2682,12 +2720,12 @@
    "t": "mcq",
    "p": "Which words describe one full vibration of a string?",
    "opts": [
-    "To one side, across to the other, and back",
     "From one end of the string to the other",
     "One pluck by a finger",
-    "Once round in a circle"
+    "Once round in a circle",
+    "To one side, across to the other, and back"
    ],
-   "a": 0,
+   "a": 3,
    "why": "One vibration is a full trip: away from the rest position, back through it, out to the other side and back again.",
    "outcome": 0
   },
@@ -2708,12 +2746,12 @@
    "t": "mcq",
    "p": "Why does a plucked string go past its rest position, and not stop there?",
    "opts": [
-    "It is moving fastest there",
     "The air pushes it across",
+    "It is moving fastest there",
     "The finger is still pulling it",
     "Strings cannot stop"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The string is pulled back towards its rest position and speeds up all the way. It arrives at full speed, so it carries on to the other side.",
    "outcome": 1
   },
@@ -2721,12 +2759,12 @@
    "t": "mcq",
    "p": "Which change makes a string vibrate faster?",
    "opts": [
-    "Pulling it tighter",
     "Winding wire round it",
     "Making it longer",
+    "Pulling it tighter",
     "Plucking it harder"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A tighter string is pulled back harder, so it vibrates faster. Wire and extra length add more to move, which slows it. A harder pluck changes only the loudness.",
    "outcome": 1
   },
@@ -2734,12 +2772,12 @@
    "t": "mcq",
    "p": "A card gives 5 ticks a second on a comb, then 80. What do you hear?",
    "opts": [
-    "Separate ticks, then a low note",
     "A note, then separate ticks",
+    "Separate ticks, then a low note",
     "Separate ticks both times",
     "Silence both times"
    ],
-   "a": 0,
+   "a": 1,
    "why": "At 5 a second each tick is heard one by one. At 80 a second they come too fast to hear apart, so the ear hears a note.",
    "outcome": 2,
    "how": "e1"
@@ -2748,12 +2786,12 @@
    "t": "mcq",
    "p": "A male cricket draws one wing across a row of teeth on the other. Which test is this like?",
    "opts": [
-    "The card drawn along a comb",
     "The spoon hung on a string",
     "The phone on a sponge",
-    "The bottle squeezed with its cap on"
+    "The bottle squeezed with its cap on",
+    "The card drawn along a comb"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Each tooth gives one push, as each comb tooth did. The teeth pass so quickly that the pushes blend into a note, which is the cricket's song.",
    "outcome": 2
   },
@@ -2761,12 +2799,12 @@
    "t": "mcq",
    "p": "What vibrates first when someone plays a nadaswaram?",
    "opts": [
-    "A cane reed, then the air column",
     "A stretched skin",
+    "A cane reed, then the air column",
     "A tight string",
     "The player's fingers"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The player's breath makes the cane reed flap, and the reed sets the air inside the long pipe vibrating. A nadaswaram has no skin and no string.",
    "outcome": 3
   },
@@ -2782,12 +2820,12 @@
    "t": "mcq",
    "p": "How does the sound of a struck steel plate reach a skin 10 cm away?",
    "opts": [
-    "Air particles pass the pushes along",
     "Bits of steel fly across",
     "The table carries it",
+    "Air particles pass the pushes along",
     "Light carries it"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The plate pushes the air next to it. Each air particle pushes the next, until the pushes reach the skin. In the Thali and the Skin, nothing but air was in between.",
    "outcome": 4,
    "how": "e2"
@@ -2796,12 +2834,12 @@
    "t": "mcq",
    "p": "A test changes the kind of string and counts seconds of ringing. Which is the dependent variable?",
    "opts": [
-    "The seconds of ringing",
     "The kind of string",
     "The spoon",
+    "The seconds of ringing",
     "The length of the string"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The dependent variable is what you measure. The kind of string is the independent variable, changed on purpose. The spoon and the length are control variables.",
    "outcome": 5
   },
@@ -2809,12 +2847,12 @@
    "t": "mcq",
    "p": "A plucked string slowly goes quiet. Where has the energy of the pluck gone?",
    "opts": [
-    "Into the air as sound, and into warmth",
     "Back into the finger",
     "Nowhere: it was destroyed",
-    "Into the string's weight"
+    "Into the string's weight",
+    "Into the air as sound, and into warmth"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Each vibration passes a little energy to the air as sound. A little more warms the string and what it touches. Energy is never destroyed.",
    "outcome": 6
   },
@@ -2822,14 +2860,27 @@
    "t": "mcq",
    "p": "Why is a veena string much louder on the veena than stretched between two hands?",
    "opts": [
-    "The wide wooden body pushes more air",
     "The wood makes the string tighter",
     "The wood vibrates faster than the string",
+    "The wide wooden body pushes more air",
     "Hands make strings heavier"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A thin string pushes very little air. On the veena, the string makes the wide hollow body vibrate, and that large surface pushes much more air.",
    "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "With your eyes shut, you hear a soft rustle from a tree on a windy day. What is most likely making it?",
+   "opts": [
+    "A note sung by the trunk of the tree",
+    "A bird with two vocal folds, singing from inside the leaves",
+    "A tabla skin under the branches",
+    "Many leaves knocking and rubbing against each other in the wind"
+   ],
+   "a": 3,
+   "outcome": 3,
+   "why": "Wind moves the leaves, and they knock and rub against each other. A rustle has no clear note. Trees do not sing, and birds sing with the syrinx, not with vocal folds."
   }
  ],
  "videos": [
@@ -3099,6 +3150,79 @@
    "used_in": [
     "p1"
    ]
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in The Thali and the Skin: how far can a sound shake a skin?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before The Thali and the Skin: how far can a sound shake a skin?."
+  },
+  {
+   "id": "b-a-digital-stopwatch--optiona",
+   "item": "A digital stopwatch (optional)",
+   "kind": "tool",
+   "why": "Used in The Comb Test: when do ticks become a note?. About ₹150 to ₹400. A phone stopwatch works well.",
+   "url": "https://www.amazon.in/s?k=digital+stopwatch",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before The Comb Test: when do ticks become a note?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Thali and the Skin: how far can a sound shake a skin?, The Palm Pipe: play an air column with a slap, The Dancing Light Spot: a skin that shows your voice. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e2",
+    "a3",
+    "p1"
+   ],
+   "plan": "Get it before The Thali and the Skin: how far can a sound shake a skin?."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in The Palm Pipe: play an air column with a slap, The Dancing Light Spot: a skin that shows your voice. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "a3",
+    "p1"
+   ],
+   "plan": "Get it before The Palm Pipe: play an air column with a slap."
+  },
+  {
+   "id": "b-iron-nails-or-iron-filings",
+   "item": "Iron nails or iron filings",
+   "kind": "material",
+   "why": "Used in The Comb Test: when do ticks become a note?. About ₹20 to ₹80. Short steel nails from a hardware shop.",
+   "url": "https://www.amazon.in/s?k=iron+filings+science",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before The Comb Test: when do ticks become a note?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

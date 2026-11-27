@@ -105,7 +105,12 @@
     "A peepal tree feeds birds with her figs, shelters squirrels in her branches, and is held up by roots that also hold the soil.",
     "A termite eats dead wood, shelters inside a mound, and digs tunnels that let rain water into the ground."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Lucy King, Kenya and UK (beehive fence research, from 2007)",
+     "explanation": "Elephants raiding farms is a serious problem in Africa and in India. Lucy King and her colleagues noticed that elephants avoid trees with beehives, because bees can sting them around the eyes and inside the trunk, and in 2007 they showed that elephants walked away from the recorded sound of angry bees. They then hung beehives on a wire around farms, so that when an elephant pushes the wire the bees come out, and farmers could also sell the honey. Beehive fences work well in many trials but not everywhere, because in a drought the bees can leave and very hungry elephants sometimes break through."
+    }
+   ],
    "art": "A tree with six coloured arrows leaving it, each going to a different animal, and each labelled with one kind of link."
   },
   {
@@ -653,11 +658,11 @@
       "t": "mcq",
       "q": "A thin mud tube climbs a tree trunk. Which link does it show most clearly?",
       "options": [
-       "Clean-up",
        "Making new plants",
-       "Travel"
+       "Travel",
+       "Clean-up"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Termites build the tube to travel safely while they eat dead wood. That is clean-up. A mud tube has nothing to do with pollen or with seeds."
      },
      "context": "This is the main step of Sign Detective. You guess who left each sign and which link it shows."
@@ -785,11 +790,11 @@
       "t": "mcq",
       "q": "Why do we keep one plate with soil only?",
       "options": [
-       "It is the starting point to compare with",
        "Soil is the only thing that holds water",
-       "To use up the soil"
+       "To use up the soil",
+       "It is the starting point to compare with"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Plate A is the starting point. Plate B differs from A in one way only, the leaves on top. So any difference between A and B comes from the leaves. Saying that soil is the only thing that holds water is a guess, and the test can check it."
      },
      "context": "In this step, you build the three plates. Each has a different mix of soil and leaves, so you can compare them."
@@ -815,11 +820,11 @@
       "t": "mcq",
       "q": "Why do we pour the same amount, from the same height, on each plate?",
       "options": [
-       "So that any difference comes from what is on the plate",
        "To make the plates wetter",
-       "Because the strainer is small"
+       "Because the strainer is small",
+       "So that any difference comes from what is on the plate"
       ],
-      "a": 0,
+      "a": 2,
       "why": "If the rain changed from plate to plate, we could not tell whether the rain or the plate made the difference. A fair test changes only one thing at a time."
      },
      "context": "In this step, you make the first pretend rain and catch what runs off each plate."
@@ -854,11 +859,11 @@
       "t": "mcq",
       "q": "Brown water running off bare soil is carrying something away. What is it?",
       "options": [
-       "Tiny bits of soil",
        "Rain that has turned into mud",
+       "Tiny bits of soil",
        "Leaves that have dissolved"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The brown colour is tiny bits of soil carried by the water. When water carries soil away like this, it is called erosion. Rain does not turn into mud, and the leaves do not dissolve."
      },
      "context": "In this step, you compare how muddy the runoff from each plate is."
@@ -971,11 +976,11 @@
       "t": "mcq",
       "q": "Why do all the cups get exactly the same water and the same sun?",
       "options": [
-       "So that only the cover is different",
        "To make the soil grow plants",
-       "Because water is cheap"
+       "Because water is cheap",
+       "So that only the cover is different"
       ],
-      "a": 0,
+      "a": 2,
       "why": "If one cup had more water or more sun, we could not tell if the cover or the water made the difference. Changing only the cover lets the cover alone explain what we see."
      },
      "context": "In this step, you set up the three cups and take the first reading."
@@ -1022,11 +1027,11 @@
       "t": "mcq",
       "q": "A farmer spreads straw around young vegetable plants in summer. Why?",
       "options": [
-       "The straw slows the loss of water from the soil",
        "The straw gives the plants rain",
-       "The straw makes more sunlight"
+       "The straw makes more sunlight",
+       "The straw slows the loss of water from the soil"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The straw works like the leaves in the cups. It shades the soil and keeps the wind off, so the water stays in the soil for longer. Straw does not make rain or sunlight."
      },
      "context": "This is the last step of the Blanket Test. You draw the graph and explain what you found."
@@ -1143,11 +1148,11 @@
       "t": "mcq",
       "q": "A crow sits on a wire and eats a fruit from a tree. Which link is this?",
       "options": [
-       "Food",
        "Shelter",
+       "Food",
        "Clean-up"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The crow takes food from the tree. If the crow also drops the seeds far away, that is travel. Shelter would need the crow to be nesting in the tree."
      },
      "context": "This is the last step of the Window Trail. You join pairs from your list with arrows."
@@ -1307,11 +1312,11 @@
       "t": "mcq",
       "q": "A family puts dried neem leaves in the grain tin to keep insects out. What is the best way to test whether this works?",
       "options": [
-       "Store grain with and without neem leaves, and compare",
        "Ask ten more people",
+       "Store grain with and without neem leaves, and compare",
        "Hope that it works"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A fair test compares two tins that are the same except for the neem leaves. Asking more people tells us what people believe, not what happens in the tin. Hoping is not a test."
      },
      "think": "Can an old rule be good even if the old reason is not the one that science would give?",
@@ -1558,11 +1563,11 @@
       "t": "mcq",
       "q": "What do the roots of a plant do for the soil on a slope?",
       "options": [
-       "They grip the soil and make tunnels for water",
        "They only take water from it",
+       "They grip the soil and make tunnels for water",
        "They have no effect"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Roots hold soil crumbs together and open tunnels, so water sinks in. They do take water too, but they also hold the slope in place. Saying they have no effect does not match what you saw."
      },
      "context": "This is day 7 of the Root Mat. You pour the same pretend rain as in the Forest Floor Test and compare the two plates."
@@ -1744,11 +1749,11 @@
      "t": "mcq",
      "p": "A friend says: 'The web of life is just who eats whom.' What would you say?",
      "opts": [
-      "There are other links too, such as shelter, travel, clean-up and changing the place",
       "Yes, eating is the only link",
-      "Links only matter in a forest"
+      "Links only matter in a forest",
+      "There are other links too, such as shelter, travel, clean-up and changing the place"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Eating is one link. A bird nesting in a tree, a worm opening the soil and a bee carrying pollen are links too. Saying eating is the only one misses most of the web.",
      "outcome": 0
     },
@@ -1938,11 +1943,11 @@
      "t": "mcq",
      "p": "In the Forest Floor Test, why do we pour rain a second time as well as a first time?",
      "opts": [
-      "Wet soil can behave differently from dry soil",
       "Two numbers always look better",
+      "Wet soil can behave differently from dry soil",
       "To use up the water"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Soil that is already wet soaks up less, so more water runs off in the second rain. This is how floods can follow days of heavy rain.",
      "outcome": 2
     },
@@ -2142,11 +2147,11 @@
      "t": "mcq",
      "p": "The same rain is poured on two plates. Plate X has a mat of grass roots and plate Y is bare soil. The water from Y is brown and arrives in 5 seconds. The water from X is clear and arrives after 40 seconds. What does this suggest?",
      "opts": [
-      "Roots hold the soil and let water sink in",
       "Plate X got less rain",
+      "Roots hold the soil and let water sink in",
       "Plate Y has more soil"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Plate X's water arrived later and was clearer, so the roots slowed the water and held the soil. The rain was the same, so plate X did not get less.",
      "outcome": 2
     },
@@ -2154,11 +2159,11 @@
      "t": "mcq",
      "p": "A city covers every yard with concrete and sends the rain into drains. After a big rain the streets flood. Which idea from this lesson explains this best?",
      "opts": [
-      "Concrete stops water sinking in, so all of it runs off",
       "Concrete makes the rain heavier",
+      "Concrete stops water sinking in, so all of it runs off",
       "Drains make more rain"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Concrete has no tunnels or roots, so there is no infiltration and all the rain runs off at once. Concrete does not change how much rain falls.",
      "outcome": 2
     },
@@ -2334,11 +2339,11 @@
    "t": "mcq",
    "p": "Which sentence best describes a web of life?",
    "opts": [
-    "All the living beings of a place and every link between them",
     "A spider's web in a forest",
-    "A list of who eats whom"
+    "A list of who eats whom",
+    "All the living beings of a place and every link between them"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A web of life is the whole set of links between the beings in one place. Eating is one link, but not the only one.",
    "outcome": 0
   },
@@ -2358,11 +2363,11 @@
    "t": "mcq",
    "p": "In the Forest Floor Test, why is plate A, with bare soil, called the control?",
    "opts": [
-    "It is the starting point to compare the others with",
     "It has the most soil",
+    "It is the starting point to compare the others with",
     "It is the first plate"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The control is the plain version. Each other plate differs from it in one way, so we can see what that change does.",
    "outcome": 2
   },
@@ -2394,11 +2399,11 @@
    "t": "mcq",
    "p": "Why do farmers use mulch?",
    "opts": [
-    "It keeps the soil damp and cool",
     "It makes the soil as cold as ice",
-    "It adds sunlight"
+    "It adds sunlight",
+    "It keeps the soil damp and cool"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Mulch shades the soil and keeps the wind off it, so less water evaporates. It does not add sunlight.",
    "outcome": 3
   },
@@ -2406,11 +2411,11 @@
    "t": "mcq",
    "p": "A dropping full of purple seeds lies under a fig tree. Which link does it show?",
    "opts": [
-    "Travel of seeds",
     "Clean-up",
-    "Shelter"
+    "Shelter",
+    "Travel of seeds"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The animal ate the figs and is carrying the seeds in her gut. The dropping puts them in a new place. That is travel.",
    "outcome": 4
   },
@@ -2418,11 +2423,11 @@
    "t": "mcq",
    "p": "What did Elinor Ostrom find about shared meadows, forests and canals?",
    "opts": [
-    "Many were kept safe for centuries by rules the villagers made",
     "They were always ruined",
-    "Only governments can save them"
+    "Only governments can save them",
+    "Many were kept safe for centuries by rules the villagers made"
    ],
-   "a": 0,
+   "a": 2,
    "why": "She studied real villages and found many shared things that lasted for centuries. People made rules, watched each other and fined cheats.",
    "outcome": 6
   },
@@ -2437,11 +2442,11 @@
    "t": "mcq",
    "p": "A bamboo clump grows new stems every year. Which way of cutting is sustainable?",
    "opts": [
-    "Cutting only the oldest stems",
     "Cutting every stem",
-    "Cutting only the youngest stems"
+    "Cutting only the youngest stems",
+    "Cutting only the oldest stems"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Old stems can be cut while the young ones keep the clump growing. Cutting every stem kills the clump, and cutting the youngest takes away its future.",
    "outcome": 6
   },
@@ -2449,11 +2454,11 @@
    "t": "mcq",
    "p": "Which is the best reason to leave fallen leaves under a tree in a garden?",
    "opts": [
-    "They soak up rain, keep the soil damp and feed the worms",
     "They look untidy and that is good",
-    "They stop the tree growing"
+    "They stop the tree growing",
+    "They soak up rain, keep the soil damp and feed the worms"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Leaf litter protects the soil from the beating of the rain, keeps it damp and feeds the animals and fungi that make the soil.",
    "outcome": 2
   },
@@ -2751,6 +2756,67 @@
    "used_in": [
     "e2"
    ]
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Blanket Test: do dead leaves keep soil damp?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before Blanket Test: do dead leaves keep soil damp?."
+  },
+  {
+   "id": "b-clean-sand--a-small-bag",
+   "item": "Clean sand (a small bag)",
+   "kind": "material",
+   "why": "Used in Forest Floor Test: which plate keeps the rain?. About ₹20 to ₹60. Fine soil sieved from a pot works.",
+   "url": "https://www.amazon.in/s?k=play+sand+small+bag",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before Forest Floor Test: which plate keeps the rain?."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in The Shared Pond: how much can we take?, Grow a Root Mat: do living roots hold soil?. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "a4",
+    "p1"
+   ],
+   "plan": "Get it before The Shared Pond: how much can we take?."
+  },
+  {
+   "id": "b-a-measuring-jug-or-syringe--",
+   "item": "A measuring jug or syringe (marked in millilitres)",
+   "kind": "tool",
+   "why": "Used in Forest Floor Test: which plate keeps the rain?, Grow a Root Mat: do living roots hold soil?, Slow the Rain: stop a slope from washing away. About ₹30 to ₹100. A clean medicine cup or marked bottle works.",
+   "url": "https://www.amazon.in/s?k=measuring+jug+500+ml",
+   "used_in": [
+    "e1",
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before Forest Floor Test: which plate keeps the rain?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

@@ -60,6 +60,18 @@
    "art": "A grandmother checking her blood sugar with a small meter at a table, with a calendar on the wall behind her."
   },
   {
+   "term": "Lifestyle disease",
+   "meaning": "A disease that grows slowly over years, helped along by daily habits such as too much sugar and salt, too little movement, tobacco and alcohol.",
+   "example": "Type 2 diabetes, high blood pressure and heart disease are lifestyle diseases.",
+   "art": "A plate of fried snacks and a sugary drink on one side, and a plate of dal, vegetables and a walking family on the other."
+  },
+  {
+   "term": "Blood pressure",
+   "meaning": "How hard the blood pushes on the walls of the arteries as the heart pumps it round the body.",
+   "example": "A nurse wraps a cuff round your arm to measure your blood pressure.",
+   "art": "A blood pressure cuff on an arm, with a small drawing of an artery and arrows pushing on its walls."
+  },
+  {
    "term": "Medicine",
    "meaning": "A substance used to treat, ease or prevent a disease. A medicine is also called a drug.",
    "example": "An antibiotic, a vaccine, an iron tablet and an asthma inhaler are all medicines, and each does a different job.",
@@ -230,6 +242,33 @@
    ],
    "perspectives": [],
    "art": "A girl of about twelve holding an inhaler with a spacer, and beside her an older man testing a drop of blood on a small meter."
+  },
+  {
+   "concept": "Diseases of the way we live",
+   "status": "defined",
+   "context": "This card is about diseases that grow slowly from daily habits, such as food, movement, tobacco and alcohol. It also says how to lower the chance of them.",
+   "definition": "A lifestyle disease grows slowly over many years, and daily habits help bring it on. Obesity, high blood pressure and type 2 diabetes are examples. Habits are only part of the cause, because the body and the family we are born into matter too.",
+   "description": "Obesity means carrying far more body fat than is healthy. It builds up when a body takes in more energy from food than it uses, year after year. Sugary drinks, fried snacks and long sitting add up. Sleep, family and the food a family can afford play a part too. High blood pressure means the blood pushes too hard on the walls of the arteries, the tubes that carry blood from the heart. Too much salt, too little movement and extra weight raise it. It usually gives no signs, so only a check with a cuff can find it. Type 2 diabetes has signs you can notice. A person feels very thirsty, passes urine often, sees things blurred and finds that wounds heal slowly. A healthy weight, daily movement, and less sugar and fried food lower the chance. It can also run in families, so a blood test is the way to be sure. Heart disease, stroke, type 2 diabetes and some cancers all become more likely with too much sugar and fat and too little movement. More likely does not mean certain. Some people with good habits fall ill, and some with poor habits do not.",
+   "examples": [
+    "A father with a cuff on his arm at a health camp finds that his blood pressure is high, though he feels well. He eats less salt and walks every evening.",
+    "A woman who is very thirsty, passes urine often and has a foot wound that will not heal gets a blood test. It shows type 2 diabetes.",
+    "A boy swaps a sugary drink for water or buttermilk each day. Over the years this helps keep his weight healthy."
+   ],
+   "perspectives": [],
+   "art": "A row of three pictures: a blood pressure cuff on an arm, a thirsty girl with a bottle of water, and a family walking in a park at sunset."
+  },
+  {
+   "concept": "Tobacco and alcohol: harm to the whole family",
+   "status": "defined",
+   "context": "This card is about two habits that harm more than the person who has them. It follows the card on diseases of the way we live.",
+   "definition": "Tobacco and alcohol damage the body over years. Their harm reaches children, unborn babies and the whole family.",
+   "description": "Smoking bidis or cigarettes raises the risk of lung cancer and of cancer of the lip and mouth. It causes long coughs and other breathing diseases. Children who live in a smoky home get pneumonia more often. A woman who smokes, or breathes a lot of smoke, while she carries a baby can harm her baby before the baby is born. Drinking a lot of alcohol for years damages the liver, which can scar and harden. This is called cirrhosis. It harms the whole family, not just the person who drinks. Money meant for food and school fees may go on drink, and the home can become an unsafe place. These habits can change. Stopping tobacco at any age lowers the risk, and the sooner the better.",
+   "examples": [
+    "A bidi worker in a small town coughs every morning. A doctor tells him that quitting now will still help his lungs.",
+    "A girl whose uncle smokes indoors has a cough every winter. Her family asks him to smoke outside, and then to stop."
+   ],
+   "perspectives": [],
+   "art": "Two pictures side by side: a snuffed-out bidi beside a small child coughing, and a closed liquor bottle with a family sharing a meal behind it."
   },
   {
    "concept": "What a medicine does, and what only the body can do",
@@ -760,11 +799,11 @@
       "t": "mcq",
       "q": "A person has scurvy, caused by too little vitamin C. Which help fits the cause?",
       "options": [
-       "Fruit and vegetables with vitamin C",
        "An antibiotic",
+       "Fruit and vegetables with vitamin C",
        "A medicine for pain"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Scurvy has no germ, so an antibiotic has nothing to kill. A pain medicine would hide a symptom and leave the cause. Only the missing vitamin removes the cause. Of the 16 patients, only three need a germ-killing medicine: malaria, typhoid and tuberculosis."
      },
      "context": "This is the last step of Find the Cause. You count how many patients are helped by a germ-killing medicine, and what helps the others."
@@ -1122,11 +1161,11 @@
       "t": "mcq",
       "q": "In the Half-Glass Test, the glass holds 3 teaspoons of tea. Half is poured away and a dose of 2 is added. How much tea is in the glass now?",
       "options": [
-       "3 and a half teaspoons",
        "5 teaspoons",
+       "3 and a half teaspoons",
        "2 and a half teaspoons"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Half of 3 is 1 and a half. Adding the dose of 2 makes 3 and a half. If you chose 5, you added the dose but forgot the pour. If you chose 2 and a half, you halved the dose as well as the tea in the glass."
      },
      "context": "In this step of the Half-Glass Test you add six doses, pouring half away before each one. You track the amount of tea."
@@ -1355,11 +1394,11 @@
       "t": "mcq",
       "q": "In the Wilted Stems Trial, which group shows what happens with no sugar?",
       "options": [
-       "The stems in plain water",
        "The stems on the dry plate",
-       "The stems in sugar water"
+       "The stems in sugar water",
+       "The stems in plain water"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The plain water glass differs from the sugar glass in one thing only, the sugar. So it is the control group for the sugar. The dry plate has no sugar, but it has no water either, so two things differ. It shows that the stems need water to recover."
      },
      "wait": "Do this 2 hours after the stems went into the glasses",
@@ -1956,11 +1995,11 @@
       "t": "mcq",
       "q": "A swallowed medicine for a blocked nose makes a person sleepy. What explains this best?",
       "options": [
-       "Blood carries the medicine to the brain too",
        "The medicine was too old",
+       "Blood carries the medicine to the brain too",
        "The nose is joined to the eyes"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A swallowed medicine enters the blood, and blood goes to every organ. If the medicine fits molecules in the brain as well as in the nose, it acts in both places. An old medicine may work less well, but that does not explain sleepiness."
      },
      "context": "This is the last step of the Medicine's Journey. You compare your first idea with the real path, and link the path to side effects."
@@ -2305,11 +2344,11 @@
       "t": "mcq",
       "q": "A tonic's label says 'trusted by millions'. Which question does that leave unanswered?",
       "options": [
-       "Compared with what?",
        "Is the tonic popular?",
-       "Is the bottle full?"
+       "Is the bottle full?",
+       "Compared with what?"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Millions of buyers show that a tonic sells. They do not show what happens to people who do not take it. Without a comparison, nobody knows what the tonic adds."
      },
      "context": "This is day 3 of the Claim Collector. You make a one-page guide to the four questions and explain it to your family."
@@ -2538,12 +2577,12 @@
      "t": "mcq",
      "p": "What is the cause of a disease?",
      "opts": [
-      "The thing that makes the disease begin",
       "The symptom that feels worst",
       "The medicine that treats it",
+      "The thing that makes the disease begin",
       "The day the illness started"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A cause is what makes a disease begin, such as a germ or a missing nutrient. A symptom is only what the disease shows. If you chose the symptom, remember that one symptom can come from many causes.",
      "outcome": 0
     },
@@ -2619,6 +2658,31 @@
      "outcome": 1
     },
     {
+     "t": "match",
+     "p": "Match each habit to the harm it can bring.",
+     "pairs": [
+      [
+       "Smoking bidis or cigarettes",
+       "Lung cancer and cancer of the lip and mouth"
+      ],
+      [
+       "Drinking a lot of alcohol for years",
+       "Cirrhosis of the liver"
+      ],
+      [
+       "Too much salt and too little movement",
+       "High blood pressure"
+      ],
+      [
+       "Too much sugar and sitting still",
+       "Weight gain and type 2 diabetes"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each habit harms one part of the body slowly. Tobacco harms the lungs and mouth, alcohol the liver, salt the arteries, and sugar with little movement leads to weight gain and diabetes.",
+     "outcome": 1
+    },
+    {
      "t": "fill",
      "p": "A medicine that kills bacteria and does nothing to viruses is called an ____.",
      "a": [
@@ -2635,15 +2699,22 @@
      "outcome": 2
     },
     {
+     "t": "truefalse",
+     "p": "A person with high blood pressure always feels ill, so they will know it.",
+     "a": false,
+     "why": "False. High blood pressure usually gives no signs for years. A check with a cuff is the only way to find it, and it can still cause a stroke or heart attack.",
+     "outcome": 1
+    },
+    {
      "t": "mcq",
      "p": "What does insulin do for a person with type 1 diabetes?",
      "opts": [
-      "Replaces what the pancreas no longer makes",
       "Kills the diabetes germ",
+      "Replaces what the pancreas no longer makes",
       "Repairs the pancreas",
       "Eases the pain"
      ],
-     "a": 0,
+     "a": 1,
      "why": "In type 1 diabetes the pancreas stops making insulin. The injected insulin does that missing job each day. No germ causes diabetes, and insulin does not repair the pancreas.",
      "outcome": 2
     },
@@ -2675,12 +2746,12 @@
      "t": "mcq",
      "p": "In the Wilted Stems Trial, why did a coin choose the glass for each stem?",
      "opts": [
-      "So nobody could pick the fresher stems",
       "So the stems recovered faster",
       "Because coins measure wilting",
-      "To save time"
+      "To save time",
+      "So nobody could pick the fresher stems"
      ],
-     "a": 0,
+     "a": 3,
      "why": "If a person chose, they might put the perkier stems in the sugar glass without meaning to. Chance treats both glasses alike. A coin does nothing to the stems themselves.",
      "outcome": 5,
      "how": "e2"
@@ -2756,12 +2827,12 @@
      "t": "mcq",
      "p": "You find a loose tablet on the floor at home. What should you do?",
      "opts": [
-      "Take it to a grown-up",
       "Taste it to find out what it is",
+      "Take it to a grown-up",
       "Put it back in any bottle",
       "Leave it where it is"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A child never tastes or takes a medicine alone. A tablet in the wrong bottle could be given to the wrong person. A tablet left on the floor could be found by a smaller child.",
      "outcome": 6
     }
@@ -2777,12 +2848,12 @@
      "t": "mcq",
      "p": "Why is a dose of a medicine repeated after some hours?",
      "opts": [
-      "The body removes the medicine all the time",
       "The germs return every night",
+      "The body removes the medicine all the time",
       "The first dose is always too weak",
       "Medicine evaporates from the blood"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The liver and kidneys start removing a medicine as soon as it arrives. After a few hours too little is left to work, so another dose is needed.",
      "outcome": 3
     },
@@ -2814,6 +2885,15 @@
      "a": false,
      "why": "False. Two doses together push the level in the blood higher than was planned. A grown-up asks the doctor or the chemist what to do.",
      "outcome": 6
+    },
+    {
+     "t": "fill",
+     "p": "A very thirsty person who passes urine often, sees things blurred and has wounds that heal slowly may have type 2 ____.",
+     "a": [
+      "diabetes"
+     ],
+     "why": "These are the signs of too much sugar in the blood. A blood test from a doctor is the way to be sure. A healthy weight and daily movement lower the chance.",
+     "outcome": 1
     },
     {
      "t": "truefalse",
@@ -2940,6 +3020,14 @@
      "outcome": 3
     },
     {
+     "t": "write",
+     "p": "Write three ways in which one person's drinking alcohol can harm the whole family.",
+     "lines": 4,
+     "a": "Money meant for food and school fees may go on drink. The home may become unsafe or full of fights. Children may feel afraid and may not study well. The person's liver may also fail, and the family then has a sick person to care for.",
+     "why": "A strong answer names harm to more than the person who drinks: money, safety, the children, and the care of a sick person.",
+     "outcome": 1
+    },
+    {
      "t": "perspective",
      "p": "In a trial of a new medicine, should half of the ill people get a dummy?",
      "views": [
@@ -2984,12 +3072,12 @@
      "t": "mcq",
      "p": "Which sentence about a 'natural' remedy is true?",
      "opts": [
-      "It can still have side effects",
       "It is always safe",
       "It never needs testing",
-      "It works because it is old"
+      "It works because it is old",
+      "It can still have side effects"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A plant strong enough to change the body is strong enough to harm it. Datura is natural and poisonous. Old or natural remedies need the same fair trial as any medicine.",
      "outcome": 7
     }
@@ -3005,12 +3093,12 @@
      "t": "mcq",
      "p": "Twenty people took a syrup and all recovered. What is the most important thing still unknown?",
      "opts": [
-      "How many recover without the syrup",
       "The colour of the syrup",
       "The price of the syrup",
-      "The names of the patients"
+      "The names of the patients",
+      "How many recover without the syrup"
      ],
-     "a": 0,
+     "a": 3,
      "why": "If twenty similar people who took nothing also recovered, the syrup added nothing. Without that comparison the twenty recoveries show very little.",
      "outcome": 4
     },
@@ -3018,12 +3106,12 @@
      "t": "mcq",
      "p": "A trial has only six people in each group. Why is that weak evidence?",
      "opts": [
-      "Luck can decide the result in small groups",
       "Six people cannot swallow tablets",
       "Small groups recover faster",
-      "Six is an even number"
+      "Six is an even number",
+      "Luck can decide the result in small groups"
      ],
-     "a": 0,
+     "a": 3,
      "why": "With six in a group, one or two people who recover by luck change the result a great deal. With hundreds, luck evens out.",
      "outcome": 5
     },
@@ -3031,12 +3119,12 @@
      "t": "mcq",
      "p": "In the 2011 asthma trial, what did a dummy inhaler change?",
      "opts": [
-      "How patients felt, and not their measured breathing",
       "Their measured breathing only",
       "Both their feeling and their breathing",
-      "Nothing at all"
+      "Nothing at all",
+      "How patients felt, and not their measured breathing"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Patients said they felt better after the dummy inhaler. A breathing meter showed that their airways had opened only after the real one.",
      "outcome": 7
     },
@@ -3202,12 +3290,12 @@
    "t": "mcq",
    "p": "Which of these protects a sleeping family against malaria?",
    "opts": [
-    "A mosquito net",
     "Iodised salt",
     "Boiled drinking water",
-    "An antibiotic kept at home"
+    "An antibiotic kept at home",
+    "A mosquito net"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Malaria parasites are carried by mosquitoes who bite at night. A net blocks them. Boiled water blocks the germs of cholera and typhoid.",
    "outcome": 1
   },
@@ -3226,14 +3314,50 @@
   },
   {
    "t": "mcq",
-   "p": "What does an antibiotic do to a cold virus?",
+   "p": "Why do doctors say that a child living in a home full of tobacco smoke is at risk?",
    "opts": [
-    "Nothing",
-    "It kills the virus slowly",
-    "It weakens the virus",
-    "It stops the virus spreading"
+    "The child breathes the smoke and gets pneumonia more often",
+    "The smoke gives the child a deficiency disease",
+    "Smoke harms only the person who is smoking"
    ],
    "a": 0,
+   "why": "Smoke harms everyone who breathes it, and children's lungs are small and still growing. They get pneumonia more often when they live with smoke. A deficiency disease comes from a missing nutrient and not from smoke.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "A man drinks a lot of alcohol for many years. Which part of his body is most likely to be damaged, and who else is harmed?",
+   "opts": [
+    "His lungs only, and nobody else",
+    "His liver, and his whole family",
+    "His bones only, and nobody else"
+   ],
+   "a": 1,
+   "why": "Alcohol is broken down in the liver, and years of heavy drinking can scar the liver. This is called cirrhosis. The family is harmed too, because money, safety and peace at home suffer. Smoke, not alcohol, is what harms the lungs.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these is a sign of type 2 diabetes?",
+   "opts": [
+    "A rash that comes only in the rains",
+    "A sore throat that ends in two days",
+    "Cuts and wounds that heal very slowly"
+   ],
+   "a": 2,
+   "why": "Too much sugar in the blood slows healing. It also makes a person very thirsty, makes them pass urine often and can blur their sight. A rash in the rains or a sore throat that ends quickly is usually from another cause.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "What does an antibiotic do to a cold virus?",
+   "opts": [
+    "It kills the virus slowly",
+    "It weakens the virus",
+    "It stops the virus spreading",
+    "Nothing"
+   ],
+   "a": 3,
    "why": "An antibiotic acts on parts that bacteria have and viruses lack. A cold is caused by a virus, so the antibiotic has nothing to act on.",
    "outcome": 2
   },
@@ -3241,12 +3365,12 @@
    "t": "mcq",
    "p": "A broken arm is put in a plaster cast. What mends the bone?",
    "opts": [
-    "The bone's own living cells",
     "The plaster",
+    "The bone's own living cells",
     "A medicine for pain",
     "The bandage under the plaster"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The cast only holds the bone still. Bone cells bridge the break over some weeks. No medicine builds bone.",
    "outcome": 2
   },
@@ -3254,12 +3378,12 @@
    "t": "mcq",
    "p": "A swallowed medicine passes into the blood. Where does the blood carry it?",
    "opts": [
-    "To every part of the body",
     "Only to the part that is ill",
+    "To every part of the body",
     "Only to the stomach",
     "Only to the heart"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Blood reaches every organ, so the medicine does too. That is why a medicine can have effects in places it was not meant for.",
    "outcome": 3
   },
@@ -3267,12 +3391,12 @@
    "t": "mcq",
    "p": "A medicine has a half-life of 4 hours. How much of one dose is left after 8 hours?",
    "opts": [
-    "A quarter",
     "A half",
     "None",
+    "A quarter",
     "All of it"
    ],
-   "a": 0,
+   "a": 2,
    "why": "After 4 hours half is left. After 4 more hours, half of that is left, which is a quarter.",
    "outcome": 3
   },
@@ -3280,12 +3404,12 @@
    "t": "mcq",
    "p": "A cough ended five days after a child took a syrup. What can we say?",
    "opts": [
-    "We cannot tell whether the syrup helped",
     "The syrup cured the cough",
     "The syrup made the cough last longer",
-    "The cough was not real"
+    "The cough was not real",
+    "We cannot tell whether the syrup helped"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Most coughs end by themselves. Without a group that took no syrup, nobody can say what the syrup added.",
    "outcome": 4
   },
@@ -3293,12 +3417,12 @@
    "t": "mcq",
    "p": "In a trial of a medicine, what is the control group for?",
    "opts": [
-    "To show what happens without the medicine",
     "To control the doctors",
     "To take a double dose",
+    "To show what happens without the medicine",
     "To keep the medicine cold"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The control group gets a dummy. Whatever happens to them would have happened anyway, so the medicine's effect is the difference between the groups.",
    "outcome": 5
   },
@@ -3313,12 +3437,12 @@
    "t": "mcq",
    "p": "Who should give a child a medicine?",
    "opts": [
-    "A grown-up, in the way a doctor says",
     "The child, if she can read the label",
     "An older brother or sister",
-    "Anyone who had the same illness"
+    "Anyone who had the same illness",
+    "A grown-up, in the way a doctor says"
    ],
-   "a": 0,
+   "a": 3,
    "why": "A medicine needs the right cause, the right dose and the right times. A grown-up follows the doctor and the label. A child never takes a medicine alone.",
    "outcome": 6
   },
@@ -3636,6 +3760,88 @@
     "p1"
    ],
    "plan": "Read the chapter on the placebo before the Claim Collector. Then help your child put the four questions to one claim from the book."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Worst Day: read the chart of a cold. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "a4"
+   ],
+   "plan": "Get it before The Worst Day: read the chart of a cold."
+  },
+  {
+   "id": "b-food-colour",
+   "item": "Food colour",
+   "kind": "material",
+   "why": "Used in The Half-Glass Test: does a medicine keep building up when dose follows dose?. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it.",
+   "url": "https://www.amazon.in/s?k=food+colour+liquid",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before The Half-Glass Test: does a medicine keep building up when dose follows dose?."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in The Claim Collector: eight health claims and four questions. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before The Claim Collector: eight health claims and four questions."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in The Wilted Stems Trial: does sugar in the water revive limp coriander?, The Lid a Toddler Cannot Open. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "e2",
+    "c1"
+   ],
+   "plan": "Get it before The Wilted Stems Trial: does sugar in the water revive limp coriander?."
+  },
+  {
+   "id": "b-graph-paper",
+   "item": "Graph paper",
+   "kind": "material",
+   "why": "Used in The Worst Day: read the chart of a cold. About ₹10 to ₹30. Draw squares on plain paper.",
+   "url": "https://www.amazon.in/s?k=graph+paper+notebook",
+   "used_in": [
+    "a4"
+   ],
+   "plan": "Get it before The Worst Day: read the chart of a cold."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in The Potato's New Skin: can a living thing close a wound with no medicine?. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "a5"
+   ],
+   "plan": "Get it before The Potato's New Skin: can a living thing close a wound with no medicine?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [
@@ -3891,7 +4097,10 @@
     "source": "Tirukkural 948, by Thiruvalluvar, in the chapter on medicine",
     "teaching": "Find out the disease. Find out its root cause. Find out the way to remove it. Then act in the way that fits.",
     "link": "This couplet is the first rule of this lesson, written in Tamil more than 1,500 years ago. Five tired people had five causes, and each needed a different answer.",
-    "verse": ["நோய்நாடி நோய்முதல் நாடி அதுதணிக்கும்", "வாய்நாடி வாய்ப்பச் செயல்."],
+    "verse": [
+     "நோய்நாடி நோய்முதல் நாடி அதுதணிக்கும்",
+     "வாய்நாடி வாய்ப்பச் செயல்."
+    ],
     "verse_lang": "ta"
    },
    {

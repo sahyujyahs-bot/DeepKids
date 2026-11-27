@@ -1,9 +1,9 @@
 # Adaptation: how living things fit their place, their hunters and their prey
 `sci.habitats.adaptations.L5`
 
-**Summary.** A plain tiger butterfly is bright orange and flies slowly in the open, yet most birds leave her alone. Why? In this unit you will sort animals by their eyes, test which tree shape carries the least snow, and test when a copied warning colour keeps working, using paper prey and a hungry hunter.
+**Summary.** A plain tiger butterfly is bright orange and flies slowly in the open, yet most birds leave her alone. Why? In this lesson you will sort animals by their eyes, test which tree shape carries the least snow, and test when a copied warning colour keeps working, using paper prey and a hungry hunter.
 
-**Intro.** *A tiger is bright orange with black stripes. Yet a spotted deer often fails to notice a tiger lying in the grass. How can such a bright animal hide?* The answer is in the deer's eyes. We have three kinds of colour cells in our eyes, and a deer has two. To a deer, orange looks much like the green of grass. So the tiger's coat is fitted to the eyes of her prey, as well as to the forest. In this unit you look at how plants and animals are fitted to heat, water and cold. Then you look at how hunters and the hunted are fitted to each other. You pour rava snow on paper trees. You also hunt paper prey, to find out when a false warning works.
+**Intro.** *A tiger is bright orange with black stripes. Yet a spotted deer often fails to notice a tiger lying in the grass. How can such a bright animal hide?* The answer is in the deer's eyes. We have three kinds of colour cells in our eyes, and a deer has two. To a deer, orange looks much like the green of grass. So the tiger's coat is fitted to the eyes of her prey, as well as to the forest. In this lesson you look at how plants and animals are fitted to heat, water and cold. Then you look at how hunters and the hunted are fitted to each other. You pour rava snow on paper trees. You also hunt paper prey, to find out when a false warning works.
 
 ## Learning outcomes
 0. I can say what an adaptation is, and sort adaptations into body, behaviour and the body's inner working.
@@ -45,7 +45,7 @@ Adaptations come in three kinds. A structural adaptation is part of the body's s
 ### Plants are adapted to dry, wet and cold places · *defined*
 **Definition:** A plant stays in one spot for life. So the shape and working of their body must suit the heat, water and cold there.
 
-In a hot, dry place, rain is rare and dries fast. A cactus has spines where other plants have leaves, so little water escapes. Her thick stem stores water under a waxy skin. Her roots are shallow and wide, and catch a short shower before it sinks away. The khejri tree of the Thar does the opposite, and sends one root many metres down to deep water. In a pond, a lotus has other problems. Her wide leaves float, and their waxy tops shed water. Her stems hold air tubes that carry oxygen down to roots in airless mud. In the mangrove forests of Pichavaram and the Sundarbans, the mud is soft and salty. Some mangrove trees stand on arching stilt roots. Others pass extra salt out through their leaves. In the rainy forests of the Western Ghats, many leaves end in a long, narrow drip tip. Rain runs to the tip and falls off, so the leaf dries sooner. A peepal leaf has such a tip. On cold Himalayan slopes, firs, spruces and young deodars grow as narrow cones. Their branches slope down and bend. In the Snow Load Test experiment in this unit, a steep paper cone sheds almost all the rava snow poured on top. A flat paper circle keeps all of the rava. Real snow slides off a cone-shaped tree in the same way, before the weight can snap the branches. The needle leaves are thin and waxy, so they lose little water while the ground is frozen.
+In a hot, dry place, rain is rare and dries fast. A cactus has spines where other plants have leaves, so little water escapes. Her thick stem stores water under a waxy skin. Her roots are shallow and wide, and catch a short shower before it sinks away. The khejri tree of the Thar does the opposite, and sends one root many metres down to deep water. In a pond, a lotus has other problems. Her wide leaves float, and their waxy tops shed water. Her stems hold air tubes that carry oxygen down to roots in airless mud. In the mangrove forests of Pichavaram and the Sundarbans, the mud is soft and salty. Some mangrove trees stand on arching stilt roots. Others pass extra salt out through their leaves. In the rainy forests of the Western Ghats, many leaves end in a long, narrow drip tip. Rain runs to the tip and falls off, so the leaf dries sooner. A peepal leaf has such a tip. On cold Himalayan slopes, firs, spruces and young deodars grow as narrow cones. Their branches slope down and bend. In the Snow Load Test experiment in this lesson, a steep paper cone sheds almost all the rava snow poured on top. A flat paper circle keeps all of the rava. Real snow slides off a cone-shaped tree in the same way, before the weight can snap the branches. The needle leaves are thin and waxy, so they lose little water while the ground is frozen.
 - e.g. Dry: a cactus with spines, a thick stem and a waxy skin.
 - e.g. Wet: a lotus with floating leaves and air tubes in her stems.
 - e.g. Salty mud: a mangrove tree on stilt roots at Pichavaram in Tamil Nadu.
@@ -69,7 +69,7 @@ A predator has three problems to solve, in order. The first is to find the prey.
 ### Prey are adapted to notice, escape and resist · *defined*
 **Definition:** Prey animals have adaptations that help them notice a hunter early, avoid being found, get away, or fight back.
 
-Each prey adaptation answers one of the predator's three problems. To notice a hunter early, a deer has eyes on the sides of her head. She sees almost all the way round, though she judges distance less well. Her large ears turn towards a sound. Spotted deer feed below langurs, who see far from the treetops and bark at a tiger. To avoid being found, many prey animals use camouflage and keep still. To get away, a blackbuck can run at up to about 80 kilometres an hour and swerves sharply. A house gecko drops her tail, and the wriggling tail holds the hunter's eye while she runs. An octopus squirts ink and jets away. To resist, a pangolin rolls into a ball of hard scales. A porcupine raises her quills, and bees sting together. Living in a group helps in two more ways. Each animal is one among many, so the chance that the hunter picks her is small. Animals in the middle are also shielded by those outside. In the Edge or Middle activity in this unit, a rolling marble plays a tiger, and 19 chickpeas, called chana, play a herd of deer. The marble tiger nearly always touches a chana on the outer ring of the herd first. Plants are prey too. They resist with thorns, tough leaves and bitter chemicals.
+Each prey adaptation answers one of the predator's three problems. To notice a hunter early, a deer has eyes on the sides of her head. She sees almost all the way round, though she judges distance less well. Her large ears turn towards a sound. Spotted deer feed below langurs, who see far from the treetops and bark at a tiger. To avoid being found, many prey animals use camouflage and keep still. To get away, a blackbuck can run at up to about 80 kilometres an hour and swerves sharply. A house gecko drops her tail, and the wriggling tail holds the hunter's eye while she runs. An octopus squirts ink and jets away. To resist, a pangolin rolls into a ball of hard scales. A porcupine raises her quills, and bees sting together. Living in a group helps in two more ways. Each animal is one among many, so the chance that the hunter picks her is small. Animals in the middle are also shielded by those outside. In the Edge or Middle activity in this lesson, a rolling marble plays a tiger, and 19 chickpeas, called chana, play a herd of deer. The marble tiger nearly always touches a chana on the outer ring of the herd first. Plants are prey too. They resist with thorns, tough leaves and bitter chemicals.
 - e.g. Noticing: a spotted deer's side-facing eyes and turning ears.
 - e.g. Escaping: a house gecko's tail that breaks off and wriggles.
 - e.g. Resisting: an Indian pangolin's ball of scales.
@@ -93,7 +93,7 @@ Warning colours are the opposite of camouflage. The animal gains by being notice
 ### Mimicry: copying a warning · *defined*
 **Definition:** Mimicry is one kind of living thing looking like another kind, and gaining from the likeness. The animal who is copied is called the model, and the copier is called the mimic.
 
-In the first kind of mimicry, a harmless animal copies a harmful one. It is called Batesian mimicry, after Henry Walter Bates, who described it in 1862. The female danaid eggfly tastes fine, but she looks like the bitter plain tiger. A hoverfly has no sting, but she is striped like a wasp. Some female common mormon butterflies copy the bitter common rose. Birds who have learned to avoid the model leave the mimic alone as well. This works only while birds keep meeting the real, harmful kind. In the Copycat Test experiment in this unit, a hunter usually stops eating striped squares when most of them are bitter. When most patterned squares are harmless, the hunter learns that the pattern is safe and eats them. So mimics are safest when they are fewer than their models. In the second kind of mimicry, two harmful kinds look alike. It is called Müllerian mimicry, after Fritz Müller. Many wasps and bees share yellow and black stripes. A bird then has only one pattern to learn, and fewer of each kind die while birds are learning. In the common mormon, only females are mimics. In 2014 Krushnamegh Kunte's team in Bengaluru found that a single gene, called doublesex, switches the copied pattern on.
+In the first kind of mimicry, a harmless animal copies a harmful one. It is called Batesian mimicry, after Henry Walter Bates, who described it in 1862. The female danaid eggfly tastes fine, but she looks like the bitter plain tiger. A hoverfly has no sting, but she is striped like a wasp. Some female common mormon butterflies copy the bitter common rose. Birds who have learned to avoid the model leave the mimic alone as well. This works only while birds keep meeting the real, harmful kind. In the Copycat Test experiment in this lesson, a hunter usually stops eating striped squares when most of them are bitter. When most patterned squares are harmless, the hunter learns that the pattern is safe and eats them. So mimics are safest when they are fewer than their models. In the second kind of mimicry, two harmful kinds look alike. It is called Müllerian mimicry, after Fritz Müller. Many wasps and bees share yellow and black stripes. A bird then has only one pattern to learn, and fewer of each kind die while birds are learning. In the common mormon, only females are mimics. In 2014 Krushnamegh Kunte's team in Bengaluru found that a single gene, called doublesex, switches the copied pattern on.
 - e.g. Model: the plain tiger. Mimic: the female danaid eggfly.
 - e.g. Model: the common rose. Mimic: one form of the female common mormon.
 - e.g. Model: a paper wasp. Mimic: a hoverfly.
@@ -156,7 +156,7 @@ Not every adaptation has an agreed explanation. A zebra's stripes are bold and e
   Against: When the model is only mildly unpleasant, or is missing, hunters soon learn that the pattern is safe. In places with no coral snakes, clay copies of their harmless mimic were attacked more often.
 
 ## Roots
-In this unit you poured rava snow on paper trees and hunted paper prey with false warnings. Here we ask a bigger question. Does a warning pattern belong only to the animal who carries the pattern, or does the protection also depend on other living beings?
+In this lesson you poured rava snow on paper trees and hunted paper prey with false warnings. Here we ask a bigger question. Does a warning pattern belong only to the animal who carries the pattern, or does the protection also depend on other living beings?
 
 **Deep truth.** In the first hunt of the Copycat Test, most striped squares were bitter, so the hunter left the harmless striped squares alone too. In the second hunt, most dotted squares were harmless, so the hunter ate them. A copied warning works only while hunters keep meeting the real, bitter kind. So one animal's safety can depend on the bodies of other animals.  
 *Habit it breaks:* We talk about an adaptation as something an animal owns, like a tool in a bag. But the copied pattern worked in one hunt and failed in the other. The copycat did not change. What changed was how many bitter squares were on the table around it.  
@@ -183,7 +183,7 @@ A camel is suited to sand, and a deodar is suited to snow. A mimic butterfly is 
 - *deep:* A tiger's coat hides her from a deer and stands out to you. Is the tiger camouflaged or not? (hint: Ask whether camouflage belongs to the coat, or to the coat and an eye together.)
 - *big:* Deer make tigers stealthy, and tigers make deer watchful. Does either side ever win? (hint: Think about what would happen to tigers if they caught every deer.)
 - *big:* People can change a place in ten years. A body changes over thousands of years. What follows from that? (hint: Think about the great Indian bustard and the power lines.)
-- *deep:* A plant makes her leaves bitter and her ripe fruit sweet. Is she choosing who eats what? (hint: In the Bitter Leaf, Sweet Fruit activity in this unit, you taste a leaf and a ripe fruit and compare them. Also think about a chilli, which burns a rat's mouth but has no effect on a bird's.)
+- *deep:* A plant makes her leaves bitter and her ripe fruit sweet. Is she choosing who eats what? (hint: In the Bitter Leaf, Sweet Fruit activity in this lesson, you taste a leaf and a ripe fruit and compare them. Also think about a chilli, which burns a rat's mouth but has no effect on a bird's.)
 - *big:* Humans have small teeth, weak claws and slow legs. What are a human's adaptations? (hint: Look at your hands and your forward-facing eyes. Think about sweating, talking and making tools.)
 
 ## Story: The Third Butterfly
@@ -568,13 +568,13 @@ Yazhini opened her diary. Day 29, she wrote. Three butterflies, and all of them 
 ## Worksheets
 ### Adaptations: the main ideas (core, 15 questions)
 1. (mcq) What is an adaptation?  
-   Options: An inherited feature that helps survival / A skill an animal learns by practice / Any change in the weather / A place where an animal lives  
+   Options: A skill an animal learns by practice / Any change in the weather / A place where an animal lives / An inherited feature that helps survival  
    **Answer:** An inherited feature that helps survival. *Why:* An adaptation is inherited from parents and helps a living thing survive and have young in their place. A learned skill is not inherited.
 2. (mcq) Why are a tiger's eyes at the front of her face?  
    Options: To judge the distance to her prey / To see behind her / To keep dust out / To look fierce  
    **Answer:** To judge the distance to her prey. *Why:* Both eyes see the same deer from slightly different places. The brain uses the two views to judge the distance. A hunter needs that to leap exactly.
 3. (mcq) Which of these is a behavioural adaptation?  
-   Options: A lizard resting in a burrow at noon / A camel's wide feet / A cactus's spines / A yak's thick coat  
+   Options: A camel's wide feet / A cactus's spines / A yak's thick coat / A lizard resting in a burrow at noon  
    **Answer:** A lizard resting in a burrow at noon. *Why:* A behavioural adaptation is something a living thing does. Wide feet, spines and a thick coat are parts of the body, so they are structural adaptations.
 4. (fill) Bright colours that tell hunters an animal is bitter or can sting are called ____ colours.  
    **Answer:** ['warning']. *Why:* Warning colours are easy to see and easy to remember. A hunter who has had one bad meal avoids the pattern afterwards.
@@ -591,10 +591,10 @@ Yazhini opened her diary. Day 29, she wrote. Three butterflies, and all of them 
 10. (order) Put a tiger's hunt in order, from her first problem to her last.  
    **Answer:** ['Find a deer by sight, sound or smell', 'Creep close without being noticed', 'Rush and catch the deer', 'Kill with teeth and claws']. *Why:* A hunter must find prey before she can get near, and get near before she can catch and kill. Each step has adaptations of its own.
 11. (mcq) Why does snow slide off a steep, cone-shaped tree?  
-   Options: Snow cannot grip so steep a slope / The tree is warm / The needles push the snow away / Wind always blows it off  
+   Options: The tree is warm / The needles push the snow away / Snow cannot grip so steep a slope / Wind always blows it off  
    **Answer:** Snow cannot grip so steep a slope. *Why:* On a steep slope, the weight of the snow drags it downhill more strongly than the surface can hold it. In the Snow Load Test, rava slides off a steep paper cone in the same way.
 12. (mcq) A hoverfly has no sting, but she is striped like a wasp. What is this called?  
-   Options: Mimicry / Countershading / Masquerade / Co-evolution  
+   Options: Countershading / Mimicry / Masquerade / Co-evolution  
    **Answer:** Mimicry. *Why:* Mimicry is one kind of animal looking like another kind and gaining from it. Birds who have been stung by a wasp leave the hoverfly alone.
 13. (write) Explain in two sentences why a plain tiger butterfly gains by being easy to see.  
    **Answer:** She tastes bitter. A bird who has tried one remembers the bright colours and leaves the others alone. If she were hidden, birds would not learn to avoid her kind.. *Why:* A strong answer says that she has a real defence, and that the bright colour helps hunters to remember it.
@@ -604,13 +604,13 @@ Yazhini opened her diary. Day 29, she wrote. Three butterflies, and all of them 
    **Answer:** The hunter's head, such as a cat's, has both eyes at the front. The prey's head, such as a goat's or a deer's, has one eye on each side.. *Why:* A strong drawing puts the hunter's eyes side by side, facing forward. The prey's eyes are far apart, on the sides of the head.
 ### Fitting a place, and fitting each other (stretch, 15 questions)
 1. (mcq) A deer's eyes have two kinds of colour cells. How does a tiger's orange coat look to her?  
-   Options: Much like the green of grass / Bright red / Pure white / Bright blue  
+   Options: Bright red / Pure white / Much like the green of grass / Bright blue  
    **Answer:** Much like the green of grass. *Why:* With two kinds of colour cells, a deer does not tell orange from green well. So the coat that looks bright to us blends with the grass for a deer.
 2. (mcq) Which kind of camouflage does a stick insect use?  
    Options: Masquerade: she looks like a twig / Countershading / Warning colours / A disruptive pattern  
    **Answer:** Masquerade: she looks like a twig. *Why:* In masquerade the animal can be seen, but she looks like something not worth eating. A bird sees a twig and moves on.
 3. (mcq) A chilli burns a rat's mouth and has no effect on a bird's. How does this help the chilli plant?  
-   Options: Birds spread the seeds whole / Rats water the plant / Birds eat the leaves / The burn makes the seeds grow  
+   Options: Rats water the plant / Birds eat the leaves / The burn makes the seeds grow / Birds spread the seeds whole  
    **Answer:** Birds spread the seeds whole. *Why:* Rats crush the seeds with their teeth, and the burn keeps them away. Birds swallow the seeds whole and drop them somewhere new.
 4. (mcq) Why do many leaves in rainy forests end in a long, narrow tip?  
    Options: Rain runs to the tip and drips off / The tip stores water / The tip stings insects / The tip catches more sun  
@@ -640,10 +640,10 @@ Yazhini opened her diary. Day 29, she wrote. Three butterflies, and all of them 
    **Answer:** ['Spines: they lose far less water than leaves, and keep grazing animals away', 'Thick stem: it stores water', 'Waxy skin: it slows the escape of water']. *Why:* A strong answer links each part to the problem of a dry place: little water, and animals who want it.
 ### Testing ideas about adaptation (challenge, 15 questions)
 1. (mcq) Jays who had never met a monarch butterfly ate the look-alike viceroy. What does this show?  
-   Options: A mimic is protected only by experienced hunters / Viceroys taste sweet / Jays do not notice orange / Monarchs are harmless  
+   Options: Viceroys taste sweet / A mimic is protected only by experienced hunters / Jays do not notice orange / Monarchs are harmless  
    **Answer:** A mimic is protected only by experienced hunters. *Why:* The pattern meant nothing to jays who had never had a bad meal from it. Only jays who had tasted a monarch refused the viceroy.
 2. (mcq) Factory smoke blackened the tree trunks. Why did pale peppered moths become rare?  
-   Options: Birds found them easily on dark bark / The smoke poisoned them / Each moth turned dark in the soot / They flew away to the cities  
+   Options: The smoke poisoned them / Each moth turned dark in the soot / They flew away to the cities / Birds found them easily on dark bark  
    **Answer:** Birds found them easily on dark bark. *Why:* Pale wings no longer matched the trunks, so birds ate most pale moths. Dark moths were born dark. No moth changed colour in her own lifetime.
 3. (mcq) Two bitter kinds of butterfly share one wing pattern. How does each kind gain?  
    Options: Hunters need to learn only one pattern / Hunters stop hunting completely / Each kind becomes more bitter / Both become harder to see  
@@ -681,10 +681,10 @@ Yazhini opened her diary. Day 29, she wrote. Three butterflies, and all of them 
 
 ## Quiz
 1. (mcq) Which of these is an adaptation?  
-   Options: A cactus's waxy skin / A dog learning to sit / A puddle drying up / A scar on a knee  
+   Options: A dog learning to sit / A puddle drying up / A scar on a knee / A cactus's waxy skin  
    **Answer:** A cactus's waxy skin. *Why:* An adaptation is inherited and helps a living thing survive in their place. Learning to sit is learned, and a scar is not passed on to young.
 2. (mcq) Which of these is a physiological adaptation?  
-   Options: A cactus opening her skin holes at night / A tiger's claws / Deer living in herds / A stick insect's shape  
+   Options: A tiger's claws / Deer living in herds / A stick insect's shape / A cactus opening her skin holes at night  
    **Answer:** A cactus opening her skin holes at night. *Why:* A physiological adaptation is a way the body works inside. Claws and shape are structural, and living in herds is behavioural.
 3. (mcq) A tree lives in soft, salty mud where the tide pulls. Which adaptation suits her?  
    Options: Stilt roots / One very deep root / Needle leaves / A cone shape  
@@ -693,25 +693,25 @@ Yazhini opened her diary. Day 29, she wrote. Three butterflies, and all of them 
    Options: To hold her body heat in the cold / To keep sand out / To float in water / To hide from eagles  
    **Answer:** To hold her body heat in the cold. *Why:* The coat traps a layer of air, and trapped air lets little heat through. In the cold of Ladakh that saves her energy.
 5. (mcq) Why do many prey animals have eyes on the sides of the head?  
-   Options: To see almost all the way round / To judge distance exactly / To see more colours / To see in the dark  
+   Options: To judge distance exactly / To see almost all the way round / To see more colours / To see in the dark  
    **Answer:** To see almost all the way round. *Why:* Side-facing eyes give a wide field of view, so a hunter is noticed from almost any direction. Judging distance exactly needs two eyes on the same thing, as a hunter has.
 6. (mcq) What does living in a herd give each deer?  
-   Options: A smaller share of the risk / Sharper teeth / Better camouflage / A warmer coat  
+   Options: Sharper teeth / Better camouflage / A smaller share of the risk / A warmer coat  
    **Answer:** A smaller share of the risk. *Why:* A hunter takes one animal, and in a herd each deer is one among many. Many eyes also notice the hunter sooner.
 7. (mcq) A tiger's stripes break up her outline. What is this kind of camouflage called?  
-   Options: A disruptive pattern / Masquerade / Mimicry / Warning colours  
+   Options: Masquerade / A disruptive pattern / Mimicry / Warning colours  
    **Answer:** A disruptive pattern. *Why:* A disruptive pattern cuts the body's shape into pieces, so the watcher does not see one animal. Masquerade is looking like some other thing, such as a twig.
 8. (mcq) Why does a bitter butterfly gain from bright colours?  
    Options: Birds remember her and avoid her kind / Bright wings fly faster / The colour itself is poisonous / Birds are afraid of orange  
    **Answer:** Birds remember her and avoid her kind. *Why:* A bold pattern is easy to notice and remember. A bird who has had one bad meal then leaves that pattern alone. The poison is in her body, not in the colour.
 9. (mcq) When is a harmless mimic safest?  
-   Options: When harmful models are common / When mimics outnumber models / When there are no models / When hunters forget quickly  
+   Options: When mimics outnumber models / When harmful models are common / When there are no models / When hunters forget quickly  
    **Answer:** When harmful models are common. *Why:* Hunters avoid a pattern that usually gives a bad meal. If mimics outnumber models, or the models vanish, hunters learn that the pattern is safe to eat.
 10. (mcq) In a fair test of paper tree shapes, what should be the only thing that changes?  
-   Options: The slope of the tree / The amount of rava / The kind of paper / The height of pouring  
+   Options: The amount of rava / The slope of the tree / The kind of paper / The height of pouring  
    **Answer:** The slope of the tree. *Why:* A fair test changes one thing and keeps the rest the same. Then any difference in the result must come from the slope.
 11. (mcq) Why do great Indian bustards die on power lines?  
-   Options: They see poorly straight ahead in flight / They like to sit on wires / The wires are warm / They fly only at night  
+   Options: They like to sit on wires / The wires are warm / They fly only at night / They see poorly straight ahead in flight  
    **Answer:** They see poorly straight ahead in flight. *Why:* Their eyes are on the sides of the head, which suits watching for foxes and eagles. Wires straight ahead are a new danger that those eyes do not show in time.
 
 ## Applications
@@ -785,6 +785,12 @@ Fit for This Place (sci.habitats.L5): Topic-level song
 ## Things to buy
 - [Dry rava (sooji), a small packet](https://www.amazon.in/s?k=rava+sooji) (material): For the rava snow in the Snow Load Test. Most kitchens have it already. Fine salt or sugar also works. Used in e1, c2. 
 - [The Book of Indian Butterflies, by Isaac Kehimkar (2008)](https://www.amazon.in/s?k=The+Book+of+Indian+Butterflies+Isaac+Kehimkar) (book): For the family: photographs of Indian butterflies, to look up models and their mimics. Used in g2. After Bitter or Bluff, look up the plain tiger and the danaid eggfly together, and compare the two pictures.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Stand in the Mud: build a mangrove that stays up, Shed the Snow, Catch the Sun: design a tree for a snowy hill. About ₹10 to ₹30. Any school ruler is fine. Used in c1, c2. Get it before Stand in the Mud: build a mangrove that stays up.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in Front Eyes or Side Eyes: sort twelve animals. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in a1. Get it before Front Eyes or Side Eyes: sort twelve animals.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Snow Load Test: which tree shape carries the least snow?, An Animal at Risk: when the place changes faster than the body. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e1, p1. Get it before The Snow Load Test: which tree shape carries the least snow?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Edge or Middle: where in a herd is the safest place?, Bitter Leaf, Sweet Fruit: what a plant lets you eat. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a2, a3. Get it before Edge or Middle: where in a herd is the safest place?.
+- [Marbles (a few)](https://www.amazon.in/s?k=glass+marbles+pack) (material): Used in Edge or Middle: where in a herd is the safest place?. About ₹10 to ₹40. Small round stones or dried chana. Used in a2. Get it before Edge or Middle: where in a herd is the safest place?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is an adaptation? → An inherited feature that helps a living thing survive and have young in their place.
@@ -802,10 +808,10 @@ Fit for This Place (sci.habitats.L5): Topic-level song
 - Core: a1, e1, e2, g1, ws-core
 
 ## Sources
-- Founder's notebook, Biology list, items 124 and 125: predator-prey interactions, and camouflage, mimicry and defence strategies. Both are the centre of this unit.
+- Founder's notebook, Biology list, items 124 and 125: predator-prey interactions, and camouflage, mimicry and defence strategies. Both are the centre of this lesson.
 - Curriculum entry sci.habitats.adaptations.L5 and Cambridge Primary Science Learner's Book 5, Unit 6.3 'Plants and animals are adapted to different environments' and 6.4 'Adaptations of predators and prey', for coverage only. The book's hot, wet and cold places, its predator and prey lists and its Animals at risk project are all covered.
 - The Combined lesson sci-C5-habitats-and-adaptation was read for its ideas on the predator-prey arms race, warning colours and the zebra-stripe debate. Its story and its experiments are not reused.
-- The Class 2 and Class 3 units of this subtopic were read so that nothing repeats. They hold the Bottle Fish, Wrinkly Fingers, Three Wet Leaves, the Huddle Test and the Jelly Coat, and the camel's hump story. This unit goes on to predators and prey, warning colours, mimicry and adaptations that stop fitting.
+- The Class 2 and Class 3 units of this subtopic were read so that nothing repeats. They hold the Bottle Fish, Wrinkly Fingers, Three Wet Leaves, the Huddle Test and the Jelly Coat, and the camel's hump story. This lesson goes on to predators and prey, warning colours, mimicry and adaptations that stop fitting.
 - Other units were checked for overlap. Paper Caterpillars, Still or Moving and Shadow Belly are in sci.animal-behaviour.foraging-and-survival.L3. Wide View, Deep View is in sci.animals.vertebrate-groups.L4. The fat and foot tests are in sci.animals.animal-bodies.L4. So the experiments, games and story here are new.
 - Bates H. W. (1862). Contributions to an insect fauna of the Amazon valley. Lepidoptera: Heliconidae. Transactions of the Linnean Society of London 23: 495-566.
 - Darwin C. to Wallace A. R., 23 February 1867, and Wallace's reply of 24 February 1867, on brightly coloured caterpillars. Darwin Correspondence Project.

@@ -1,9 +1,9 @@
 # Carrying capacity: why no population grows for ever, and why hunters and hunted rise and fall
 `sci.ecology.populations.L5`
 
-**Summary.** One bacterium can split in two in about 20 minutes. If all her daughters kept splitting, they would soon outweigh the Earth. Yet that never happens. In this unit you will double rice grains square by square, grow a paper forest until it is full, and plot a real island's reindeer.
+**Summary.** One bacterium can split in two in about 20 minutes. If all her daughters kept splitting, they would soon outweigh the Earth. Yet that never happens. In this lesson you will double rice grains square by square, grow a paper forest until it is full, and plot a real island's reindeer.
 
-**Intro.** *Put one grain of rice on the table today. Tomorrow put two, the next day four, and double it every day. On which day would you need more rice than a whole one-kilogram packet holds? Guess the day, and say why you think so.* A one-kilogram packet holds roughly 50,000 grains. Most people guess a day far too late. In the first activity, Doubling Rice, you find the real day with real grains. Living beings multiply in the same doubling way. So here is the question for this unit. If every living being can double, why is the world not buried in bacteria, or rats, or deer? What stops them, and at what number?
+**Intro.** *Put one grain of rice on the table today. Tomorrow put two, the next day four, and double it every day. On which day would you need more rice than a whole one-kilogram packet holds? Guess the day, and say why you think so.* A one-kilogram packet holds roughly 50,000 grains. Most people guess a day far too late. In the first activity, Doubling Rice, you find the real day with real grains. Living beings multiply in the same doubling way. So here is the question for this lesson. If every living being can double, why is the world not buried in bacteria, or rats, or deer? What stops them, and at what number?
 
 ## Learning outcomes
 0. By the end I can say what a population is, and name the four things that change its number.
@@ -669,7 +669,7 @@ She wrote 'WHAT THE HILL CAN FEED'. Then she wrote this year's number under it, 
 10. (sort) Sort each story into the curve it makes.  
    **Answer:** yeast in a tube that multiply and then stay level → S-shaped curve; reindeer who eat an island bare and starve → Overshoot and crash; hares who become many about every ten years → Wave; duckweed that covers a bucket and stays → S-shaped curve; rats who multiply on bamboo fruit and then starve → Overshoot and crash; ladybirds and aphids on a hedge, summer after summer → Wave. *Why:* In an S, the number levels off and stays. In an overshoot, it passes the limit and falls fast. In a wave, the rise and fall repeat.
 11. (mcq) Rats and rat snakes live in one field. The rats become many. What happens to the snakes next?  
-   Options: They become many, a little later / They become fewer at once / Nothing changes / They leave the field  
+   Options: They become fewer at once / Nothing changes / They leave the field / They become many, a little later  
    **Answer:** They become many, a little later. *Why:* With many rats, more snakes catch enough to live and raise young. That takes time, so the snakes rise after the rats. Choosing 'fewer' reads the link backward.
 12. (order) Put the four steps of one predator and prey wave in order. Start with the prey rising.  
    **Answer:** ['Prey become many', 'Predators become many', 'Prey become few', 'Predators become few']. *Why:* More prey feed more predators. More predators eat the prey down. Fewer prey starve the predators. Then the prey can rise again.
@@ -687,7 +687,7 @@ She wrote 'WHAT THE HILL CAN FEED'. Then she wrote this year's number under it, 
    Options: 36 / 18 / About 9 / None  
    **Answer:** None. *Why:* Every square has a tree, so every seed lands under a tree and dies. Choosing 36 forgets that seeds need an empty square.
 3. (mcq) When did the paper forest add the most trees in one round?  
-   Options: In the first round / When about half the squares were full / When nearly all were full / It added the same every round  
+   Options: In the first round / When nearly all were full / It added the same every round / When about half the squares were full  
    **Answer:** When about half the squares were full. *Why:* In the middle there are many parent trees and still many empty squares. Early on there are few parents. Late on there is little room.
 4. (fill) A limit that presses harder when a population is more crowded is called density-____.  
    **Answer:** ['dependent']. *Why:* Density means how crowded the members are. Disease and hunger are density-dependent, because they are worse in a crowd.
@@ -698,12 +698,12 @@ She wrote 'WHAT THE HILL CAN FEED'. Then she wrote this year's number under it, 
 7. (count) Reindeer on an island fell from 6,000 to 42. How many died or were missing?  
    **Answer:** 5958. *Why:* 6,000 − 42 = 5,958. That is more than 99 in every 100.
 8. (mcq) In a small glass tube with no hiding places, hunters and prey are kept together. What usually happens?  
-   Options: They rise and fall for ever / The hunters eat all the prey, then starve / The prey eat the hunters / Both stay at one number  
+   Options: They rise and fall for ever / The prey eat the hunters / Both stay at one number / The hunters eat all the prey, then starve  
    **Answer:** The hunters eat all the prey, then starve. *Why:* Georgy Gause found this in the 1930s. With nowhere to hide, every prey animal is caught. Lasting waves need refuges, distance or new arrivals.
 9. (draw) Draw two wavy lines on one graph, for rats and for snakes. Show which peaks first.  
    **Answer:** Two wave-shaped lines. The rat line is taller. Each snake peak is a little to the right of a rat peak.. *Why:* A strong drawing puts every snake peak after a rat peak. Two lines that rise and fall exactly together leave out the time lag.
 10. (mcq) Why are tigers told apart by their stripes in camera photographs?  
-   Options: Stripes show how old a tiger is / No two tigers have the same stripes / Stripes show what a tiger eats / Only females have stripes  
+   Options: Stripes show how old a tiger is / Stripes show what a tiger eats / Only females have stripes / No two tigers have the same stripes  
    **Answer:** No two tigers have the same stripes. *Why:* Each tiger's stripe pattern is her own, like a fingerprint. So a photo counts as a capture of one known tiger, with no need to catch or mark her.
 11. (write) An estimate from mark and recapture is not exact. Give one thing that could make it wrong.  
    **Answer:** The marked beans may not have mixed in well. The sample may be too small. Marked members may be easier or harder to catch than the others.. *Why:* Any one of these is a strong answer. The method works only if marked and unmarked members are equally likely to be in the second sample.
@@ -722,7 +722,7 @@ She wrote 'WHAT THE HILL CAN FEED'. Then she wrote this year's number under it, 
 2. (count) Twenty-nine reindeer double every 2 years. How many are there after 10 years?  
    **Answer:** 928. *Why:* Ten years is 5 doublings: 58, 116, 232, 464, 928.
 3. (mcq) A plant has plenty of water and light but stays small in poor soil. What does this show?  
-   Options: Growth stops at the scarcest need / Plants do not need light / Water is bad for plants / Soil does not matter  
+   Options: Plants do not need light / Water is bad for plants / Growth stops at the scarcest need / Soil does not matter  
    **Answer:** Growth stops at the scarcest need. *Why:* This is the law of the minimum. The need in shortest supply sets the limit, however plentiful the others are.
 4. (truefalse) True or false: at carrying capacity, no young are born.  
    **Answer:** False. *Why:* False. Young are still born, but about as many members die as are born, so the number stays level. On the full island every tree still dropped a seed.
@@ -731,7 +731,7 @@ She wrote 'WHAT THE HILL CAN FEED'. Then she wrote this year's number under it, 
 6. (write) Scientists gave hares extra food in one area and kept predators out of another. Why did they also do both together?  
    **Answer:** To see whether food and predators act separately or together. Doing both raised hare numbers far more than the two effects added up, so the two limits work together.. *Why:* A strong answer says that testing one thing at a time cannot show how two causes combine.
 7. (mcq) Mites on a tray of oranges rose and fell three times only when the tray was large and patchy. Why?  
-   Options: Big trays are warmer / Some prey were always out of reach / The hunters ate oranges instead / Oranges make mites breed faster  
+   Options: Some prey were always out of reach / Big trays are warmer / The hunters ate oranges instead / Oranges make mites breed faster  
    **Answer:** Some prey were always out of reach. *Why:* In a patchy world, prey can settle on oranges the hunters have not found yet. So the prey are never all caught, and both kinds last.
 8. (order) Put the events on St Matthew Island in order.  
    **Answer:** ['29 reindeer are put on the island', 'The herd grows to about 1,350', 'The herd reaches about 6,000 and the lichen is eaten down', 'Nearly all die in one hard winter', '42 reindeer are counted']. *Why:* The herd grew fast with no predators, passed what the island could renew, and then crashed.
@@ -740,7 +740,7 @@ She wrote 'WHAT THE HILL CAN FEED'. Then she wrote this year's number under it, 
 10. (write) The world's population estimate for 2022 is given as 'about 8 billion', and India's tigers as 'about 3,682'. Why 'about'?  
    **Answer:** Both are estimates from samples and counts that cannot reach everyone. The tiger report gives a range from about 3,167 to 3,925 for this reason.. *Why:* A strong answer says that an estimate has a range, and that giving the range is more honest than giving one exact number.
 11. (mcq) Published estimates of how many people the Earth can carry range from under 1 billion to over 1,000 billion. Why so wide?  
-   Options: Nobody has tried to measure it / It depends on how people choose to live / The Earth changes size / Scientists cannot count people  
+   Options: It depends on how people choose to live / Nobody has tried to measure it / The Earth changes size / Scientists cannot count people  
    **Answer:** It depends on how people choose to live. *Why:* Joel Cohen showed this in 1995. The number depends on what people eat, use and throw away, and how they share. Those are choices, not measurements.
 12. (perspective) Three thinkers answer the question: must a growing number of people run out of food?  
    **Answer:** A strong answer uses evidence such as the S-shaped curve, the reindeer overshoot, or the way people have raised their own carrying capacity with new farming. It grants a fair point to another view.. *Why:* This is still argued about. Each view explains part of what has happened since 1798.
@@ -750,7 +750,7 @@ She wrote 'WHAT THE HILL CAN FEED'. Then she wrote this year's number under it, 
    Options: Burrows for the prey / A large, patchy field / New animals arriving now and then / A small bare cage  
    **Answer:** 3. *Why:* In a small bare cage every prey animal is found and eaten, and then the hunters starve. The other three keep some prey out of reach or bring new ones in.
 15. (mcq) A herd is fed by lorry every dry season and grows to three times the hill's own limit. What is the risk?  
-   Options: The herd forgets how to graze / A crash if the lorries ever stop / The hill grows more grass / There is no risk  
+   Options: The herd forgets how to graze / The hill grows more grass / There is no risk / A crash if the lorries ever stop  
    **Answer:** A crash if the lorries ever stop. *Why:* The herd is now above what the hill can carry by itself. It lasts only as long as the outside food comes. The many feet and mouths also wear the hill down.
 
 ## Videos
@@ -763,37 +763,37 @@ She wrote 'WHAT THE HILL CAN FEED'. Then she wrote this year's number under it, 
    Options: All the birds in a park / All the house crows of one town / One crow and her nest / All the animals in India  
    **Answer:** All the house crows of one town. *Why:* A population is one species in one place. All the birds in a park are many species, so they are many populations.
 2. (mcq) Births 40, deaths 25, arrivals 5, departures 20. What happens to the population?  
-   Options: It grows by 20 / It shrinks by 20 / It stays the same / It doubles  
+   Options: It grows by 20 / It stays the same / It shrinks by 20 / It doubles  
    **Answer:** It stays the same. *Why:* In: 40 + 5 = 45. Out: 25 + 20 = 45. The two match, so the number stays the same though the members change.
 3. (mcq) A water plant doubles its patch every week. It covers half a pond today. When will it cover the whole pond?  
-   Options: In one week / In two weeks / In a month / In as long as it took so far  
+   Options: In two weeks / In a month / In one week / In as long as it took so far  
    **Answer:** In one week. *Why:* One more doubling turns a half into a whole. Choosing 'as long as it took so far' treats doubling like steady adding.
 4. (mcq) Why can no population keep doubling for ever?  
-   Options: Animals get tired of having young / Something its members need runs short / Doubling is against the law / Old members refuse to die  
+   Options: Animals get tired of having young / Doubling is against the law / Something its members need runs short / Old members refuse to die  
    **Answer:** Something its members need runs short. *Why:* Each doubling needs twice the food and room. Any place has only so much, so a limiting factor always appears.
 5. (mcq) A forest stops at 36 trees on an island of 36 squares. The island is halved. Where does it stop now?  
-   Options: At 36 again / At about 18 / At about 72 / It never stops  
+   Options: At about 18 / At 36 again / At about 72 / It never stops  
    **Answer:** At about 18. *Why:* The limit comes from the place. Half the squares means room for half the trees. Choosing 36 treats the limit as belonging to the trees.
 6. (mcq) What is the carrying capacity of a place?  
-   Options: The number born there in a year / The largest number it can keep alive for years / The heaviest animal it can hold / The number of species in it  
+   Options: The number born there in a year / The heaviest animal it can hold / The number of species in it / The largest number it can keep alive for years  
    **Answer:** The largest number it can keep alive for years. *Why:* It is the number the place can go on feeding and housing without being damaged. It can change with seasons and weather.
 7. (mcq) A line graph rises slowly, then steeply, then goes flat. What does the flat part mean?  
-   Options: Everyone has died / The population has reached its carrying capacity / Counting stopped / No young are born any more  
+   Options: Everyone has died / Counting stopped / No young are born any more / The population has reached its carrying capacity  
    **Answer:** The population has reached its carrying capacity. *Why:* On the flat part, births and deaths match, so the number stays level. Young are still being born.
 8. (mcq) A graph climbs far above a limit line and then drops almost to zero. What is this called?  
-   Options: An S-shaped curve / A wave / An overshoot and crash / Steady growth  
+   Options: An S-shaped curve / A wave / Steady growth / An overshoot and crash  
    **Answer:** An overshoot and crash. *Why:* The population went past what the place could renew, the food ran out, and most members died.
 9. (mcq) In a field, the number of rats peaks in March. When would you expect the rat snakes to peak?  
-   Options: In March too / A little later / A little earlier / Never  
+   Options: A little later / In March too / A little earlier / Never  
    **Answer:** A little later. *Why:* Snakes multiply only after rats are plentiful, and raising young takes time. So their peak comes after the rats' peak.
 10. (mcq) Why do predators not usually eat every last one of their prey?  
-   Options: They are kind to their prey / Some prey are always hidden or far away / Prey taste bad when few / Predators eat plants too  
+   Options: They are kind to their prey / Prey taste bad when few / Predators eat plants too / Some prey are always hidden or far away  
    **Answer:** Some prey are always hidden or far away. *Why:* Refuges, distance and new arrivals keep some prey alive. In a small bare space with no hiding places, the prey are all eaten.
 11. (mcq) How do scientists estimate the tigers of a forest?  
-   Options: They ask villagers to guess / They count paw prints only / They photograph tigers and match their stripes / They count every deer  
+   Options: They ask villagers to guess / They count paw prints only / They count every deer / They photograph tigers and match their stripes  
    **Answer:** They photograph tigers and match their stripes. *Why:* Each tiger's stripes are her own. Photos from automatic cameras are treated as captures and recaptures, and the number is worked out from them.
 12. (mcq) Which change would raise a forest's carrying capacity for tigers?  
-   Options: More tigers brought in / More deer and other prey / Fewer trees / A fence round each tiger  
+   Options: More tigers brought in / Fewer trees / More deer and other prey / A fence round each tiger  
    **Answer:** More deer and other prey. *Why:* The number of tigers a forest can hold follows its prey. Bringing in more tigers without more prey only means some will starve or leave.
 
 ## Applications
@@ -807,14 +807,14 @@ She wrote 'WHAT THE HILL CAN FEED'. Then she wrote this year's number under it, 
 - City planners find that the number of street dogs, rats and crows follows the amount of open rubbish.
 
 ## Spotted around us
-- Pigeons gathered where someone scatters grain each morning, at a temple tank in Chennai or a chowk in Jaipur. Food sets their number.
+- Pigeons gathered where someone scatters grain each morning, at a temple tank or a market square. Food sets their number.
 - A plant saucer or an old tyre with wriggling mosquito young in the water, in the first weeks of the monsoon.
-- Water hyacinth covering a lake from bank to bank, as on parts of Vembanad in Kerala or Ulsoor in Bengaluru. The surface is full.
+- Water hyacinth covering a lake from bank to bank. The surface is full.
 - Seedlings crowded thin and pale under a big neem or banyan, where almost none will grow up for want of light.
-- A signboard at a tiger reserve such as Nagarahole, Bandipur or Kanha, giving the estimated number of tigers and of deer.
+- A signboard at a wildlife park giving the estimated number of tigers and of deer.
 - Curd that set overnight and then stopped getting much more sour, because the bacteria had slowed down.
 - Crows and street dogs gathered at an open rubbish heap. Where the rubbish is cleared, there are fewer.
-- Fishing boats tied up at harbours on India's coasts during the yearly fishing ban in the monsoon, when many fish breed.
+- Fishing boats tied up at the harbour during the yearly fishing ban in the monsoon, when many fish breed.
 
 ## Open questions
 - **Why do snowshoe hares rise and fall across much of Canada at nearly the same time?** Predators and food explain one forest. Scientists still test what keeps forests thousands of kilometres apart in step. Weather and travelling predators are two ideas.
@@ -859,15 +859,20 @@ Everybody Eats (sci.ecology.L5): Topic-level song
 - [PhET Natural Selection](https://phet.colorado.edu/en/simulations/natural-selection) · simulation: A free online model of rabbits. Run it with no wolves and limited food, and watch the population graph level off. Add wolves and watch it change.
 - [Our World in Data: Population Growth](https://ourworldindata.org/population-growth) · interactive: For the parent and child together: graphs of the world's and India's population that you can move through year by year.
 - [The Wolves and Moose of Isle Royale](https://isleroyalewolf.org) · interactive: The website of the study that has counted wolves and moose on one island every winter since 1958, with the graph of both numbers.
-- [Eravikulam National Park]() · place · Near Munnar, Kerala: The hills of the story. Nilgiri tahr graze close to the path at Rajamala. The park closes in February and March, when the kids are born.
-- [Nagarahole Tiger Reserve]() · place · Kodagu and Mysuru districts, Karnataka: The forest where camera counting of tigers was worked out in India. Look at how many chital and gaur you see for each sign of a tiger.
-- [Kaziranga National Park]() · place · Near Bokakhat, Assam: Home to most of the world's one-horned rhinos, who grew from about a dozen in 1908 to 2,613 in the 2022 count.
-- [Guindy National Park and Children's Park]() · place · Chennai, Tamil Nadu: A small forest inside a city, with chital and blackbuck. Ask what limits their number in a park with a wall all round.
+- Eravikulam National Park · place · Near Munnar, Kerala: The hills of the story. Nilgiri tahr graze close to the path at Rajamala. The park closes in February and March, when the kids are born.
+- Nagarahole Tiger Reserve · place · Kodagu and Mysuru districts, Karnataka: The forest where camera counting of tigers was worked out in India. Look at how many chital and gaur you see for each sign of a tiger.
+- Kaziranga National Park · place · Near Bokakhat, Assam: Home to most of the world's one-horned rhinos, who grew from about a dozen in 1908 to 2,613 in the 2022 count.
+- Guindy National Park and Children's Park · place · Chennai, Tamil Nadu: A small forest inside a city, with chital and blackbuck. Ask what limits their number in a park with a wall all round.
 
 ## Things to buy
 - [A pair of dice in two colours](https://www.amazon.in/s?k=dice+set+two+colours) (tool): For the Full Island Test, where one die gives the column and the other gives the row, and for the Meadow Game. One die rolled twice also works. Used in e1, g1. 
 - [A pad of graph paper](https://www.amazon.in/s?k=graph+paper+pad+a4) (material): For the line graphs in the Full Island Test, the Rats and Snakes Game, the Island Graph and the Human Curve. A squared maths notebook also works. Used in e1, e2, a3, a6. 
 - [The Serengeti Rules, by Sean B. Carroll (for the parent)](https://www.amazon.in/s?k=The+Serengeti+Rules+Sean+Carroll) (book): Tells the true stories of how scientists found the rules that hold the numbers of animals in check. Used in e2. For the parent to read alongside the unit. Read a chapter before the Rats and Snakes Game and tell one story from it at dinner.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Full Island Test: does a forest keep doubling for ever?, The Rats and Snakes Game: what happens to hunters and hunted over many rounds?, Doubling Rice: on which square does the rice run out?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, a1, a3, a6, p1. Get it before The Full Island Test: does a forest keep doubling for ever?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Rats and Snakes Game: what happens to hunters and hunted over many rounds?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e2. Get it before The Rats and Snakes Game: what happens to hunters and hunted over many rounds?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Full Island Test: does a forest keep doubling for ever?, The Rats and Snakes Game: what happens to hunters and hunted over many rounds?, Count Without Counting: how many beans are in the bowl?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1, e2, a2, a5, p1, c1. Get it before The Full Island Test: does a forest keep doubling for ever?.
+- [A kitchen or weighing scale](https://www.amazon.in/s?k=digital+kitchen+weighing+scale) (tool): Used in Crowded Cups: does sowing more seeds give more methi?. About ₹300 to ₹700. A home-made balance from a ruler and two cups can compare weights. Used in p1. Get it before Crowded Cups: does sowing more seeds give more methi?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What do we call all the members of one species living in one place? → A population.
@@ -888,7 +893,7 @@ Everybody Eats (sci.ecology.L5): Topic-level song
 - Curriculum entry sci.ecology.populations.L5 (covers: carrying capacity, predator and prey numbers rising and falling together, simple population graphs) and its notebook items bio:198 (population dynamics: growth, regulation, carrying capacity), bio:221 (biomathematics) and bio:222 (population models: Lotka-Volterra, logistic growth)
 - ideas/by_topic/living-in-harmony.md: the notebook's line that harmony needs give and take and that imbalance brings instability, used for overshoot and for the Tao Te Ching teaching
 - Combined lesson sci-C5-living-in-harmony: 'The rats and snakes game' (experiment e2 there), reused here as the Rats and Snakes Game with a smaller field, beans for rats and a limit of 80 rats and 16 snakes, after computer trials of the rules
-- The Level 5 units of the same topic (food webs: the Leaky Bottle, Two Out of Thousands, the Ten-Year Wave; biodiversity: the Coin Years Test), so this unit leads on from them without repeating them
+- The Level 5 units of the same topic (food webs: the Leaky Bottle, Two Out of Thousands, the Ten-Year Wave; biodiversity: the Coin Years Test), so this lesson leads on from them without repeating them
 - Verhulst, P.-F., 1838, 'Notice sur la loi que la population suit dans son accroissement', Correspondance mathématique et physique 10 (the logistic curve)
 - Gause, G. F., 1934, The Struggle for Existence, Williams and Wilkins (yeast and Paramecium growth curves; Didinium and Paramecium)
 - Volterra, V., 1926, 'Fluctuations in the abundance of a species considered mathematically', Nature 118; Lotka, A. J., 1925, Elements of Physical Biology

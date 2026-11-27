@@ -77,7 +77,7 @@ FLOWK = ("games", "experiments", "activities", "projects", "challenges")
 PLAB = {"intro": "Before we begin", "story": "The story", "terms": "Flashcards", "explanations": "The core ideas", "how_we_found_out": "How we found out",
         "challenging": "Is this true?", "big_questions": "Big questions", "roots": "Roots", "videos": "Watch", "quiz": "Quiz", "open_questions": "Nobody knows yet",
         "jokes": "Jokes", "maths": "Maths", "applications": "Where people use it", "photos": "Real pictures", "spotted": "Spot it around you", "did_you_know": "Did you know?",
-        "ask_kids": "Ask during the day", "song": "Song", "links": "Try these and go see", "buy": "Things that help"}
+        "ask_kids": "Ask during the day", "song": "Song", "links": "Try these and go see", "buy": "What to buy or find"}
 
 
 CHECK_T = ("mcq", "truefalse", "fill")   # the item types the app checks and records
@@ -230,6 +230,24 @@ for subj in plan:
                 for it in data['items']:
                     if it.get('k') == e.get('k'):
                         cdict(it)['units'] = refs
+# a topic is "full" when every unit planned for it is written and live: its older topic lesson is then not shown to families,
+# who see only the units (the app reads c.full)
+for it in data['items']: (it.get('c') or {}).pop('full', None)
+LIVE = set(data['units'])
+ITEM = {it.get('k'): it for it in data['items']}
+for subj, byl in plan.items():
+    for lvl, rungs in byl.items():
+        for e in rungs:
+            it = ITEM.get(e.get('k'))
+            if not it: continue
+            # the curriculum topics this rung stands for at its own class: by name, and through the units already linked to it
+            ts = {t['id']: t for c in CURS.values() for t in c['topic_levels'] if t['subject'] == subj and str(t['level']) == str(lvl) and (e['topic'] == slug(t['name']) or slug(e['title']) == slug(t['name']))}
+            for x in (it.get('c') or {}).get('units', []):
+                t = TL.get(x['id'])
+                if t and str(t['level']) == str(lvl): ts[t['id']] = t
+            if ts and all(s in LIVE for t in ts.values() for s in t['subtopic_levels']): cdict(it)['full'] = True
+for _id in json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '..', 'content', 'new_units.json')))['ids']:   # the units added lately, listed on the 'New units' page
+    if _id in data['units']: data['units'][_id]['new'] = 1
 print('units:', len(data['units']))
 # the welcome slides before log-in: one list (app/content/welcome.json), also copied next to the website's sign-in page
 data['welcome'] = json.load(open(os.path.join(APP, 'content', 'welcome.json')))

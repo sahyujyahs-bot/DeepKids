@@ -619,11 +619,11 @@
       "t": "mcq",
       "q": "A card says: 'A copper pot turns dark over many months.' Which kind of change is it?",
       "options": [
-       "Slow joining with oxygen",
        "No new substance",
+       "Slow joining with oxygen",
        "Fast burning"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The dark layer is a new substance made when copper joins slowly with oxygen. It takes months, so it is the slow kind. It has no flame, so it is not the fast kind."
      },
      "context": "In this step, you finish the cards and count the points."
@@ -728,11 +728,11 @@
       "t": "mcq",
       "q": "Why must all the pieces be cut to the same size?",
       "options": [
-       "So only the shape changes",
        "So the paper looks neat",
+       "So only the shape changes",
        "So the paper does not tear"
       ],
-      "a": 0,
+      "a": 1,
       "why": "In a fair test only one thing changes. If one piece were bigger, you would not know if the size or the shape made the difference."
      },
      "context": "In this step, you cut and shape the six pieces of paper."
@@ -900,11 +900,11 @@
       "t": "mcq",
       "q": "Why must the balance hang level before anything is burned?",
       "options": [
-       "So we can tell if burning changed it",
        "So the stick looks neat",
+       "So we can tell if burning changed it",
        "So the thread does not slip"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A level balance is the starting line. If it were tilted already, you could not tell whether burning changed anything."
      },
      "context": "In this step, you build the balance from a stick and a thread."
@@ -1333,11 +1333,11 @@
       "t": "mcq",
       "q": "You smell gas in the kitchen. What should you do first?",
       "options": [
-       "Not touch any flame or switch, then turn off the regulator and open the windows",
        "Switch on the light to look for the leak",
-       "Light a match to see where the smell comes from"
+       "Light a match to see where the smell comes from",
+       "Not touch any flame or switch, then turn off the regulator and open the windows"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A flame or a spark could set the gas on fire. The safe order is no sparks, regulator off, windows open, then go outside and call for help."
      },
      "context": "In this step, you walk through the five steps in order."
@@ -1567,11 +1567,11 @@
       "t": "mcq",
       "q": "Your flame lasts much longer after you add small holes near the edge of the lid. Why?",
       "options": [
-       "Fresh air can now flow in, while the hot gas goes out of the middle",
        "The holes make the flame bigger",
-       "The foil is cooler"
+       "The foil is cooler",
+       "Fresh air can now flow in, while the hot gas goes out of the middle"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A flame needs a steady supply of oxygen. Holes at the edge let fresh air in. The hot gas from the flame rises and leaves through the middle. This flow is the same idea as a chimney."
      },
      "context": "In this step, you build lids, test them with a timer, and change one thing each time."
@@ -1646,11 +1646,11 @@
    "t": "mcq",
    "p": "Which of these is the best way to describe burning a candle?",
    "opts": [
-    "The wax joins with oxygen and makes new substances",
     "The wax disappears",
-    "The wax melts and evaporates"
+    "The wax melts and evaporates",
+    "The wax joins with oxygen and makes new substances"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Burning makes new substances, carbon dioxide and water. Disappearing is not possible, and melting or evaporating alone would leave the wax as wax.",
    "outcome": 0
   },
@@ -1670,11 +1670,11 @@
    "t": "mcq",
    "p": "Suppose you could weigh a log and the oxygen it uses, and also all the gases and ash it makes. How would the two totals compare?",
    "opts": [
-    "They would be the same",
     "The second would be smaller, because the fire destroys things",
-    "The second would be bigger, because the fire adds new matter"
+    "The second would be bigger, because the fire adds new matter",
+    "They would be the same"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Atoms are rearranged, not made or destroyed. So the total mass is the same before and after.",
    "outcome": 1
   },
@@ -1682,11 +1682,11 @@
    "t": "mcq",
    "p": "Which of these will burn fastest?",
    "opts": [
-    "A heap of thin wood shavings",
     "A thick log",
+    "A heap of thin wood shavings",
     "A log wrapped in wet cloth"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Thin shavings show a lot of surface to the air, so oxygen reaches the fuel at many places at once.",
    "outcome": 2
   },
@@ -1737,11 +1737,11 @@
    "t": "mcq",
    "p": "The Sun has shone for billions of years. Why can it not be burning like a fire?",
    "opts": [
-    "A burning Sun would have run out of fuel in a few thousand years, and space has almost no oxygen",
     "The Sun is too bright to burn",
+    "A burning Sun would have run out of fuel in a few thousand years, and space has almost no oxygen",
     "The Sun is made of liquid"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Burning needs oxygen and would use the Sun up very fast. The Sun shines by fusion, in which hydrogen joins to make helium.",
    "outcome": 6
   },
@@ -1770,11 +1770,11 @@
    "t": "mcq",
    "p": "You smell cooking gas in the kitchen. What should you do first?",
    "opts": [
-    "Touch no flame or switch, turn off the regulator, and open the windows",
     "Light a match to find the leak",
+    "Touch no flame or switch, turn off the regulator, and open the windows",
     "Switch on the fan to blow the smell away"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A flame or a spark from a switch could set the gas on fire. The safe order is no sparks, regulator off, windows open, then go outside and call for help.",
    "outcome": 5
   }
@@ -1912,11 +1912,11 @@
      "t": "mcq",
      "p": "A candle flame is yellow, and a clean gas stove flame is blue. What makes the candle flame yellow?",
      "opts": [
-      "Tiny bits of hot soot glowing inside the flame",
       "Cold water in the flame",
+      "Tiny bits of hot soot glowing inside the flame",
       "The flame is far from the wick"
      ],
-     "a": 0,
+     "a": 1,
      "why": "In the candle, some carbon is not burnt completely. It forms tiny bits of soot, which glow yellow when hot. The stove mixes in air first, so the burning is complete and the flame is blue.",
      "outcome": 3
     },
@@ -1941,11 +1941,11 @@
      "t": "mcq",
      "p": "A pan of cooking oil catches fire on the stove. What is the safest thing to do?",
      "opts": [
-      "Switch off the stove and cover the pan with a lid",
       "Throw a glass of water on it",
+      "Switch off the stove and cover the pan with a lid",
       "Carry the pan outside"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A lid shuts out oxygen. Water sinks under the oil and turns to steam at once, which throws burning oil around. Carrying a burning pan can spill burning oil on you.",
      "outcome": 5
     },
@@ -2010,11 +2010,11 @@
      "t": "mcq",
      "p": "A tuft of steel wool is heavier after it has burned. What is the best explanation?",
      "opts": [
-      "The iron joined with oxygen from the air, and the oxygen is now part of the solid",
       "The fire added new iron",
+      "The iron joined with oxygen from the air, and the oxygen is now part of the solid",
       "The smoke from the match stuck to it"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Iron is a solid, so nothing floats away. It joins with oxygen from the air and makes a solid oxide. The oxide weighs as much as the iron plus the oxygen.",
      "outcome": 4
     },
@@ -2057,11 +2057,11 @@
      "t": "mcq",
      "p": "A candle goes out in a closed jar, though plenty of air is still inside. Why?",
      "opts": [
-      "The oxygen has fallen too low to keep the flame going, though some is left",
       "The jar is too cold",
+      "The oxygen has fallen too low to keep the flame going, though some is left",
       "All the air has been used up"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Air starts with about 21 parts oxygen in every 100. A candle goes out while much of the oxygen is still left. Plenty of air remains, but not enough oxygen.",
      "outcome": 1
     },
@@ -2119,11 +2119,11 @@
      "t": "mcq",
      "p": "A family burns charcoal in a closed room to keep warm. What is the main danger?",
      "opts": [
-      "A poisonous gas with no smell, called carbon monoxide, builds up",
       "The room will get too bright",
+      "A poisonous gas with no smell, called carbon monoxide, builds up",
       "The charcoal will burn too slowly"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Charcoal burns incompletely in a room with little air, and makes carbon monoxide. It has no colour and no smell, so a person cannot tell it is there.",
      "outcome": 3
     },
@@ -2146,11 +2146,11 @@
      "t": "mcq",
      "p": "Carbon dioxide can put out a candle, though you cannot see it. How?",
      "opts": [
-      "It is heavier than air, so it pours down and pushes the oxygen away from the flame",
       "It makes the candle colder",
-      "It is a kind of water"
+      "It is a kind of water",
+      "It is heavier than air, so it pours down and pushes the oxygen away from the flame"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Carbon dioxide does not burn, and it is heavier than air. When poured over a flame, it pushes the air away and cuts off the oxygen.",
      "outcome": 5
     },
@@ -2245,11 +2245,11 @@
      "t": "mcq",
      "p": "A tea-light stands on a kitchen scale inside a sealed jar. The scale shows 400 grams. The flame burns until it goes out. What will the scale show now?",
      "opts": [
-      "400 grams, because nothing has got out of the jar",
       "Less than 400 grams, because the wax was destroyed",
+      "400 grams, because nothing has got out of the jar",
       "More than 400 grams, because the flame added weight"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The wax joined with oxygen inside the sealed jar, and nothing escaped. The new gases weigh as much as the wax and the oxygen that went in.",
      "outcome": 4
     },
@@ -2257,11 +2257,11 @@
      "t": "mcq",
      "p": "A cloud of flour dust in a mill can burn in a flash, but a heap of flour on a shelf does not. Why?",
      "opts": [
-      "The dust has far more surface touching the air, so it burns far faster",
       "The dust is hotter",
-      "The dust is a different kind of food"
+      "The dust is a different kind of food",
+      "The dust has far more surface touching the air, so it burns far faster"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Burning goes on only where oxygen touches the fuel. A cloud of dust shows a huge surface to the air, so it can burn in a flash. A heap shows only its outside.",
      "outcome": 2
     },
@@ -2364,11 +2364,11 @@
      "t": "mcq",
      "p": "Both your body's cells and a candle flame take in oxygen. What do both of them give out?",
      "opts": [
-      "Carbon dioxide and water",
       "Pure oxygen",
-      "Only heat"
+      "Only heat",
+      "Carbon dioxide and water"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Cells break down food with oxygen and make carbon dioxide and water. A flame does the same with wax. The body does it slowly and in small steps.",
      "outcome": 0
     },
@@ -2628,6 +2628,64 @@
    "used_in": [
     "e2"
    ]
+  },
+  {
+   "id": "b-wooden-skewers",
+   "item": "Wooden skewers, a pack of 10",
+   "kind": "material",
+   "why": "The skewer is the beam of the homemade balance that the steel wool hangs from. About ₹20 to ₹40 for a pack at a kitchen or general store. A thin dry stick from the garden works as the household alternative.",
+   "url": "https://www.amazon.in/s?k=wooden+skewers",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Buy them before you build the steel wool balance."
+  },
+  {
+   "id": "b-modelling-clay-fire",
+   "item": "Modelling clay, one small ball",
+   "kind": "material",
+   "why": "It is pressed onto one end of the stick to balance it finely on the thread. About ₹40 to ₹100 for a small block at a stationery shop. Sticky tape does the same job.",
+   "url": "https://www.amazon.in/s?k=modelling+clay",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Buy it before you build the steel wool balance."
+  },
+  {
+   "id": "b-baking-soda",
+   "item": "Baking soda or khane ka soda, about 3 tablespoons",
+   "kind": "material",
+   "why": "It reacts with the vinegar to make carbon dioxide, which puts the candle out in the Pour Out a Fire project. About ₹20 to ₹40 for a small packet at a kirana shop. Use baking soda or khane ka soda, but not baking powder.",
+   "url": "https://www.amazon.in/s?k=baking+soda",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Check your kitchen first, and buy it before you make carbon dioxide in the Pour Out a Fire project."
+  },
+  {
+   "id": "b-white-vinegar",
+   "item": "White vinegar, about 100 millilitres",
+   "kind": "material",
+   "why": "It is poured onto the baking soda to make the carbon dioxide in the Pour Out a Fire project. About ₹40 to ₹80 for a small bottle at a grocery shop. Most kitchens already have some, so check first.",
+   "url": "https://www.amazon.in/s?k=white+vinegar",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Check your kitchen first, and buy it before the Pour Out a Fire project."
+  },
+  {
+   "id": "b-print-fire",
+   "item": "Printed pages for the sorting cards, tokens and worksheets, about 10 pages",
+   "kind": "material",
+   "why": "The sorting game uses 20 two-sided cards and 12 printed tokens, and the worksheets are printed too. A copy shop charges about ₹1 to ₹2 a page, so the set costs about ₹10 to ₹20.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print these before the sorting game."
   }
  ],
  "warmup": [

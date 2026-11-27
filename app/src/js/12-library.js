@@ -7,7 +7,15 @@ function combinedTopicList(sj) {
       .map(Number)
       .sort((a, b) => a - b),
     lv = cls.includes(ui.bl) ? ui.bl : cls.includes(S.levels?.[sj]) ? S.levels[sj] : cls[0],
-    L = ((DATA.combined?.[sj] || {})[lv] || []).filter((e) => unitByK(e.k));
+    L = ((DATA.combined?.[sj] || {})[lv] || []).filter((e) => unitByK(e.k)),
+    // the units that map to this class's board topics, one list with no grouping by topic, the board-required ones first
+    ids = [...new Set(L.flatMap((e) => (e.units || []).map((x) => x.id)))]
+      .filter((id) => DATA.units?.[id])
+      .map((id, i) => [id, i])
+      .sort((a, b) => !!DATA.units[b[0]].req - !!DATA.units[a[0]].req || a[1] - b[1])
+      .map(([id]) => id),
+    // a topic whose units are not all written yet keeps its older lesson until they are
+    over = L.filter((e) => !(e.units || []).some((x) => DATA.units?.[x.id]));
   return {
     ctl:
       dkViewPick(sj) +
@@ -18,9 +26,9 @@ function combinedTopicList(sj) {
           .map((l) => `<button class="chip" aria-pressed="${lv === l}" data-act="bl" data-l="${l}">Class ${l}</button>`)
           .join(""),
       ),
-    sum: ["Topics by class", `Class ${lv}`],
-    count: `${L.length} topics`,
-    body: `<p class="xs muted">Your Class ${lv} plan on the DeepKids track: everything any board teaches in ${SUBJ[sj].toLowerCase()} in Class ${lv}, and more.</p><div class="libgrid">${L.map(combinedCard).join("")}</div>`,
+    sum: ["Board topic units", `Class ${lv}`],
+    count: `${ids.length} units`,
+    body: `<p class="xs muted">The units that cover everything any board teaches in ${SUBJ[sj].toLowerCase()} in Class ${lv}, and more. Your plan follows this list.</p><section class="fxnew">${fxUnitBtns(ids.map((id) => DATA.units[id]))}</section>${over.length ? `<div class="libgrid">${over.map(combinedCard).join("")}</div>` : ""}`,
   };
 }
 // a lesson of the DeepKids class plan, on the same card as a unit, with the picture of a unit it links to
@@ -73,7 +81,7 @@ const dkViewPick = (sj) =>
         "View",
         [
           ["topic", "DeepKids units"],
-          ["class", "Topics by class"],
+          ["class", "Board topic units"],
         ]
           .map(
             ([k, n]) =>
@@ -1056,6 +1064,27 @@ const CATS = {
   tool: "Tools",
   other: "Other",
 };
+// The "New units" page: every unit added lately, by class, for checking in the app. It is not in the menu: open app.deepkids.in/#new-units
+function newUnitsFromLink() {
+  if (location.hash === "#new-units" && ACC && S.setup) {
+    tab = "newunits";
+    render();
+  }
+}
+function viewNewUnits() {
+  const U = Object.values(DATA.units || {}).filter((x) => x.new),
+    byClass = [1, 2, 3, 4, 5].map((c) => [
+      c,
+      U.filter((x) => +x.id.match(/\.L(\d)$/)?.[1] === c).sort((a, b) => a.title.localeCompare(b.title)),
+    ]);
+  return `<section class="sec pagetop"><h1>New units to check</h1><p class="sm muted">${U.length} units added lately. Tap one to open it and read every part. Nothing here changes the Library.</p><p class="xs"><button class="link" data-tab="library">Back to the Library</button></p></section>${byClass
+    .filter(([, L]) => L.length)
+    .map(
+      ([c, L]) =>
+        `<section class="fxnew"><h3 class="fxsh">Class ${c} · ${L.length} unit${L.length === 1 ? "" : "s"}</h3>${fxUnitBtns(L)}</section>`,
+    )
+    .join("")}`;
+}
 function viewLibrary() {
   const t = ui.lt || "topics",
     inv = S.inv || [];

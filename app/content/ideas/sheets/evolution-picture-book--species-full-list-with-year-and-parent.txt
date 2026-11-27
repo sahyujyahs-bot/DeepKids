@@ -1,0 +1,129 @@
+# Evolution Picture Book / Species full list with year and parent (copied from Google Sheets, 2026-11-27)
+R1: Name Of The Species | Year Of Evolution | Parent Species | Biological Features, Characteristics & capabilities of the Species & year of acquiring each feature/property | Drivers For The Changes | List of Biological features, characteristics, capabilities lost at this step of evolution of the species | New Innovation Biological Features | New Innovation Capabilities & Characteristics | Sub Species that evolved within that Species group in the order of evolution with teh year
+R2: RNA | -4.2 Bn |  | - First self-replicating genetic molecule in the RNA world ⏎ i.e. Copied its complete genetic code when it split - -4.35Bn ⏎ - Acts as both information carrier and catalyst (ribozymes)​ - -4.2Bn ⏎ - Templatized the replication, and allowed room for variations , instead of exact copies - 4.2Bn | - Chemical conditions on early Earth favored stable, self-copying molecules ⏎ - Environmental cycling: Wet-dry or hot-cold cycles likely promoted strand separation and copying​, favoring an RNA-based replication system | - No longer capable of direct enzymatic activity like proteins (though ribozymes retained some function). ⏎  - Extremely unstable and prone to degradation, which led to DNA eventually replacing it as the main genetic material.
+R3: Prokaryotic Cells | -3.9 Bn | RNA | -  First cell membranes formed as phospholipid bilayers enclosing self-replicating RNA - Cellular compartmentalization: a lipid membrane covering the RNA,  to maintain an internal homeostasis​ ⏎ , protecting replicators and concentrating reactants ⏎ -  By this time, RNA-directed protein synthesis may have evolved, so the first cells contained RNA plus encoded proteins  ⏎ -  Primitive metabolism: Initially absorbed organic molecules from environment, but soon developed glycolysis/fermentation to generate ATP (all cells use ATP for energy​) -Metabolic pathways: e.g. glycolysis to break down organics and synthesize ATP ⏎ - Asexual reproduction by binary fission (inherited by all prokaryotes).- Protocell division: mechanism to segregate copies of RNA and contents into daughter cells (early cell cycle). ⏎ - Had flagella for movement | - Resource depletion: Prebiotic organic “soup” was limited​, driving evolution of internal energy generation (metabolism). ⏎ - Isolation/protection: Enclosing replicating molecules in a membrane sheltered them from the harsh outside (UV, dilution), increasing survival ⏎  | - Lost the ability to freely exchange genetic material like pre-cellular RNA life forms. ⏎ - No longer had the flexibility of the RNA world’s rapid molecular changes, making them more stable but less adaptable at the genetic level.
+R4: Asgard Archaea | -3.5 Bn | Prokaryotic Cells | - Ether-linked membrane chemistry for stability in extreme conditions​ (e.g. thermophiles’ membranes remain intact at high temperatures). ⏎ - Novel metabolic pathways: e.g. methanogenesis to exploit H₂ + CO₂ reactions for energy – a new way to generate fuel in oxygen-free environments. ⏎ - Extreme tolerance: enzymes and proteins adapted to high temperature or high salt, expanding life’s range to previously uninhabitable niches. | - Selection favored organisms that could survive high heat and chemical extremes. ⏎ - Nutrient scarcity: Different energy sources (hydrogen, sulfur, etc.) were utilized as organic nutrients were scarce; this drove Archaea to diverse chemistries. ⏎ - Competition with bacteria: Archaea occupied niche habitats (e.g. hot vents, hypersaline pools) where their adaptations gave them an edge, avoiding direct competition and oxygen (which was absent or later toxic).
+R5: Bacteria - Anaerobic | -3.5 Bn | Prokaryotic Cells | - Prokaryotic cells (no nucleus) with peptidoglycan cell walls (rigid support unique to bacteria). -  Peptidoglycan cell wall: a tough polymer giving cells shape and protection – an innovation that distinguished Bacteria and allowed surviving varying osmotic conditions ⏎ - Anaerobic metabolism: lived in oxygen-free conditions. Developed fermentation (e.g. glycolysis yielding ATP without O₂) and anaerobic respiration using alternative electron acceptors (e.g. sulfate or iron). ⏎ - Anoxygenic photosynthesis: Some bacteria by ~3.5 Bn evolved primitive photosynthesis that did not produce oxygen​ (used H₂S or Fe²⁺ as electron donors). This exploited a proton gradient to make ATP – a mechanism adopted by virtually all later life​- Photosynthetic pigments: (bacteriochlorophyll) to capture light energy (though anoxygenic), initiating light-powered autotrophy on Earth​ ⏎ -  Diversity of forms: spherical, rod, and spiral bacteria; some developed flagella for motility to seek nutrients | - No oxygen present: Metabolisms had to work without O₂, so bacteria exploited abundant chemicals; e.g. using sulfate or CO₂ as electron acceptors in respiration since the atmosphere was reducing. ⏎ - Energy and carbon needs: As free organic molecules were used up, pressure favored bacteria that could make their own food (autotrophy). Sunlight was a vast energy source, driving evolution of photosynthesis​ despite the complexity of that pathway. ⏎ - Rapid growth advantage: High mutation and reproduction rates in bacteria (vs. slower archaea) let them adapt quickly and fill myriad niches, diversifying their metabolic capabilities under competitive pressure. | - Lost ability to tolerate oxygen (oxygen was toxic to many early bacteria).  ⏎ - Became highly specialized in fermentation pathways rather than more efficient aerobic respiration.
+R6: DNA | -3.5 Bn | RNA
+R7: Cyanobacteria | -3 Bn | Bacteria - Anaerobic | - Oxygen release (Water-splitting): First organisms to produce free oxygen – a revolutionary innovation that transformed Earth’s atmosphere​. This required the photosystem II enzyme complex to extract electrons from water. ⏎ - Stromatolite reef-building: By forming extensive microbial mats that trapped sediments, cyanobacteria pioneered large-scale biological structures (the first “reefs”)​, altering sediment and nutrient dynamics. ⏎ - Protective pigments & enzymes: Evolved UV-screening compounds and antioxidant enzymes to survive their own oxygen output (which can form harmful reactive oxygen species). These innovations were new in an increasingly oxygenated world. | - Resource availability: Earlier anoxygenic photosynthesizers were limited by scarce H₂S/Fe²⁺.  | - Lost reliance on pre-existing organic molecules for energy, fully committing to photosynthesis (could no longer survive in the deep ocean without light).  ⏎ - Became dependent on sunlight, making them vulnerable to environmental shifts affecting light availability.
+R8: Aerobic Bacteria | -2.5Bn | Bacteria - Anaerobic | - Aerobic respiration: A new metabolic pathway unlocking much more energy from food. This innovation – oxidative phosphorylation – gave aerobes a huge advantage in energy yield, fueling more active lifestyles and larger cell sizes. ⏎ - Reactive oxygen defenses: Enzymatic systems to neutralize peroxides and radicals (a novelty since earlier life didn’t face oxygen). This was crucial for exploiting O₂ safely and is found in virtually all aerobes today. ⏎ - Metabolic flexibility: Many aerobic bacteria became facultative – able to switch between aerobic and anaerobic modes. This flexibility was an innovation maximizing survival in fluctuating O₂ conditions (absent in strictly anaerobic ancestors). | - Oxygen “crisis”: The buildup of O₂ (poisonous to anaerobes) exerted immense pressure – most anaerobic bacteria either perished or retreated to anoxic niches during the Great Oxidation Event​. A few survivors evolved to utilize oxygen instead of being killed by it, turning a toxin into a resource. ⏎ - Energy demands: As biosphere productivity increased (thanks to photosynthesis), competition for organic fuels intensified. Aerobes, with higher ATP output, could outcompete anaerobes for resources or inhabit new niches (e.g. consuming oxygenated organic detritus) that anaerobes couldn’t tolerate. ⏎ - Global change: Oxygenation of environments created new habitats (e.g. oxic surface oceans, soils). Bacteria that could exploit these oxic zones spread widely, driving evolutionary radiation. The presence of aerobic bacteria also set the stage for symbiotic relationships (leading to mitochondria in eukaryotes). | - Lost tolerance to anaerobic conditions; oxygen became necessary for survival.  ⏎ - Became reliant on oxidative metabolism, making them more efficient but requiring constant oxygen availability.
+R9: Eukaryote with Mitochondria | -2.1 Bn | Aerobic Bacteria, Archaea | - Endosymbiosis (mitochondria): A revolutionary innovation – one cell living inside another in a mutualistic union. The engulfed bacterium provided abundant ATP, while the host provided nutrients and safety​. This set the template for organelles. ⏎ - Nucleus & organelles: First appearance of a nucleus (separating DNA from cytoplasm) and other organelles. This allowed spatial separation of transcription and translation, more complex gene regulation (splicing, mRNA processing), and storage of much more DNA. ⏎ - Aerobic respiration internally: Mitochondria allowed highly efficient ATP production within the cell, supporting a larger cell size and genome. ⏎ - Sexual reproduction: Likely present almost from the start – evidence suggests the earliest eukaryotes had meiosis and syngamy​. They could recombine genes via sexual cycles, increasing genetic diversity | - Rising oxygen levels: By ~2.1 Bn, O₂ was sufficiently available; an anaerobic archaeal host benefited from teaming up with an aerobic bacterium to survive in an oxidizing world (the symbiotic bacterium consumed O₂ and provided energy). This partnership was favored in an O₂-rich environment where alone the host might struggle. ⏎ - Energy and complexity needs: As cells grew larger and genomes expanded, a powerhouse was needed – mitochondria fulfilled the high ATP demand, permitting evolution of large, complex cells​. Cells with mitochondria could out-compete those without by sustaining more active metabolism and genome maintenance. | - Lost the ability to fully survive without endosymbiotic mitochondria (became dependent on them for energy).  ⏎ - Lost rapid prokaryotic reproduction speeds due to the complexity of cell division.
+R10: Eukaryote with Mito & Chloroplast | -2.1 Bn | Eukaryote with Mitochondria, Cyanobacteria | - Primary endosymbiosis (plastid): A second symbiotic breakthrough – a heterotrophic eukaryote permanently incorporated a photosynthetic prokaryote. This innovation of chloroplasts enabled eukaryotes to become autotrophic, a capability all earlier eukaryotes lacked. ⏎ - Complete autotrophy: The cell could produce its own organic matter and oxygen. This was new among eukaryotes – it no longer relied on eating other organisms, fundamentally altering the flow of energy in ecosystems (eukaryotes could now act as primary producers). ⏎ - Organelle integration: The host evolved novel cellular machinery to manage the chloroplast (protein targeting signals, regulation of chloroplast division, gene transfer to nucleus). This represented a higher level of cellular complexity – a cell with multiple endosymbiont-derived organelles functioning in concert. | - Nutrient advantage: In an ecosystem where competition for fixed carbon was fierce, housing a photosynthetic symbiont meant an endless food supply from sunlight. Selection strongly favored the host–symbiont union because the host gained nutrition without hunting, and the symbiont gained protection and access to inorganic nutrients (CO₂, minerals). ⏎ - Environmental opportunity: By ~1.5–1.8 Bn years ago, oceans had moderate oxygen and ample light in surface waters. They could egulf cyano living in shallow waters and spread to new habitats. | - Lost the ability to consume organic food sources directly (became reliant on photosynthesis for survival).  ⏎ - Reduced motility compared to heterotrophic eukaryotes, as they no longer needed to hunt for food.
+R11: Red Algae | -1.5 Bn | Eukaryote with Mito & Chloroplast |  | - Ecological competition: In crowded marine microbial mats, becoming multicellular gave red algae an edge – they could rise above surfaces to access sunlight and weren’t as easily grazed upon or outcompeted for space. The increase in oxygen and nutrient availability around ~1.2–1.0 Ga allowed larger, more complex algae to thrive. ⏎ - Genetic variation: Environments in Proterozoic oceans were changing (nutrient flux, perhaps occasional global glaciations). Sex provided a way to rapidly generate variation, helping algae adapt. The success of sexual red algae likely pressured other protists to adopt sexual cycles as well. | - Lost the ability to efficiently use all wavelengths of sunlight, adapting primarily to deep-water photosynthesis.  ⏎ - Lost the flagella present in many single-celled ancestors, limiting mobility. | - True multicellularity in eukaryotes: Red algae were the earliest organisms known to develop a complex multicellular body with specialized cells (a major leap from unicellular ancestors). This allowed larger size and shape (e.g. leaf-like thalli) for better light capture and stability on substrates.​ ⏎ - Sexual reproduction with gametes: Introduced gamete differentiation (eggs and spermatia) and fusion in eukaryotes, greatly increasing genetic diversity. The oldest evidence of sex comes from red algal fossils​ ⏎ - this innovation accelerated eukaryotic evolution by enabling recombination. ⏎ - Calcium carbonate deposition (later innovation): Some red algae later evolved the ability to calcify their cell walls (forming coralline algae), helping build reefs. This wasn’t present in the earliest reds, but the group eventually pioneered this among algae, influencing marine ecosystems. |  |  |  | year
+R12: Fungi | -1.2 Bn | Eukaryote with Mitochondria |  |  |  |  |  |  |  | paremt
+R13: Green Algae | -1.0 Bn | Red Algae
+R14: Sponges | -800 Mn | Eukaryote with Mitochondria
+R15: Fungi on Land | -730 Mn | Fungi
+R16: Comb Jellies - Ctenophores | -700 Mn | Eukaryote with Mitochondria | Updated to a Complex Nervous System
+R17: Bilateria | -600 Mn | Eukaryote with Mitochondria
+R18: Land Green Algae | -600 Mn | Green Algae
+R19: Corals, Sea Anemones, Jellyfish -Cnidarians | -580 Mn | Eukaryote with Mitochondria
+R20: Earliest Protosome | -590 Mn | Bilateria
+R21: Earliest Deuterosome  | -570 Mn | Bilateria
+R22: Ambulacaria - 1st Dueterosome Split | - 570 Mn | Earliest Deuterosome 
+R23: Chordate - 2nd Dueterosome | -541 Mn | Earliest Deuterosome 
+R24: Mollusks - Earliest Protosome Split | -540 Mn | Earliest Protosome
+R25: Annelids - 2nd Protosome Split | -530Mn | Earliest Protosome
+R26: Arthropods - earliest Trilobites | -520 Mn | Earliest Protosome
+R27: Lancelets | -520 Mn | Chordate - 2nd Dueterosome
+R28: Plants Colonize Land | -515 Mn | Land Green Algae
+R29: Parasites ⏎ (Some Arthropods evolve parasitic property) | -512Mn | Started with Arthropods? or Only in Arthropods?
+R30: Earliest Cephalopods | -500Mn | Mollusks - Earliest Protosome Split
+R31: Euthycarcinoids | -500Mn | Arthropods - earliest Trilobites
+R32: Vertebrates - 1st one - Jawless fish | -500Mn | Chordate - 2nd Dueterosome
+R33: Bony Fish | -420Mn | Jawless fish
+R34: Scorpions | -420Mn | Arthropods - earliest Trilobites
+R35: Plants take root | -410Mn | Land Plants
+R36: Plants develop woody stems | -400Mn | Rooted Plants
+R37: Cartilignous Fish | -400Mn | Jawless Fish
+R38: Lobe Finned Fish | -400Mn | Bony Fish
+R39: Trees | -385Mn | Rooted Plants
+R40: Tiktaalik | -375Mn | Lobe Finned Fish
+R41: Earliest Tetrapods | -365Mn | Tiktaalik
+R42: Insects grow in size, variety & winged insects | -360Mn | Arthropods - earliest Trilobites
+R43: Early Crab, Shrimps, etc | -360Mn | Arthropods - earliest Trilobites
+R44: Ferns | -360Mn | Rooted Plants
+R45: Amphibians | -360Mn | Earliest Tetrapods
+R46: Amniotes | -320Mn | Earliest Tetrapods
+R47: Earliest Saurapids -1st split in Amniotes | -320Mn | Amniotes
+R48: Earliest Synapsids - 2nd split in Amniotes | -320Mn | Amniotes
+R49: Turtles <family name?> - 1st Split in Saurapids | -300Mn | Earliest Saurapids
+R50: Reptiles -  Saurapids - 2nd Split | -300Mn | Earliest Saurapids
+R51: First Octopus | -296Mn | Earliest Cephalopods
+R52: Crocodiles | -230Mn | Earliest Saurapids
+R53: Dinosaurs | -230Mn | Earliest Saurapids
+R54: Earliest Mammals | -225Mn | Earliest Synapsids
+R55: Lizards & More Reptiles | -200Mn | Reptiles
+R56: Monotromes | -166Mn | Earliest Mammals
+R57: Marsupials | -160Mn | Earliest Mammals
+R58: Pollinating Insects | -160Mn | Insects - Arthropods
+R59: Birds | -150Mn | Dinosaurs
+R60: Earliest Placental Mammals | -120Mn | Earliest Mammals
+R61: Flowering Plants | -120Mn | Rooted Plants
+R62: Tortoises | -100Mn | Turtles
+R63: Snakes | -100Mn | Reptiles
+R64: Grass | -70Mn | Flowering Plants
+R65: Dinosaurs Extinction | -66Mn
+R66: Aftrotheres - 1st Split in Placental Mammals | -65Mn | Earliest Placental Mammals
+R67: Xenartheria - 2nd Placental Split | -65Mn | Earliest Placental Mammals
+R68: Laurasiatheria | -65Mn | Earliest Placental Mammals
+R69: Euarchantoglires | -65Mn | Earliest Placental Mammals
+R70: Elephants | -60Mn | Aftrotheres
+R71: Armadillos | -60Mn | Xenartheria 
+R72: Earliest Rodents | -60Mn | Euarchantoglires
+R73: Rodents, Group1 - Rats, Mice, Squirrels, Beavers | -60Mn | Earliest Rodents ⏎ 
+R74: Earliest Primates | -60Mn | Euarchantoglires
+R75: Sloths, Anteaters | -55Mn | Xenartheria 
+R76: Earliest Even Toed Hoofed Mammals | -55Mn | Laurasiatheria
+R77: Even Toed Hoofed Mammals , Group 1 - Deers, Pigs, Camels, Bovines | -55Mn | Earliest Even Toed Hoofed Mammals
+R78: Bats | -55Mn | Laurasiatheria
+R79: Shrews, Hedgehogs | -55Mn | Laurasiatheria
+R80: Rodents - Group 2 - Rabbits, Hares | -55Mn | Earliest Rodents ⏎ Euarchantoglires
+R81: Earliest Odd Toed Hoofed Mammals | -55Mn | Laurasiatheria
+R82: Odd Toed Hoofed Mammals, Group1 - Rhinos | -55Mn | Earliest Odd Toed Hoofed Mammals
+R83: Even Toed Hoofed Mammals , Group 2 - Whales, Dolphins | -50Mn | Earliest Even Toed Hoofed Mammals
+R84: Odd Toed Hoofed Mammals, Group 2 - Horses | -50Mn | Earliest Odd Toed Hoofed Mammals
+R85: Lemurs | -50Mn | Earliest Primates
+R86: Carnivores -Wolfs, Wild Dogs, Bears, Cats, Seals, Weasles | -40Mn | Earliest Odd Toed Hoofed Mammals ⏎ Laurasiatheria
+R87: Monkeys, Apes | -40Mn | Earliest Primates
+R88: Great Apes | -20Mn | Apes
+R89: Hominims | -7Mn | Great Apes
+R90: Homosapiens | -0.3Mn | Hominims
+R92: Laurasiatheria
+R93: Pangolins ~55 Ma — scaly mammals, sister group to Carnivora (the only mammals with true scales)
+R95: From Euarchontoglires (you're missing): | Rats To Humans
+R96: Treeshrews (Scandentia) ~60 Ma — small squirrel-like mammals, actually closer to primates than to rodents
+R97: Colugos (Dermoptera) ~60 Ma — the "flying lemurs" (they don't fly and aren't lemurs), gliding mammals that are the closest living relatives of primates
+R99: Entry | Date | Parent
+R100: Afrotheria | -65 Ma | Earliest Placental Mammals
+R101: Xenarthria | -65 Ma | Earliest Placental Mammals
+R102: Laurasiatheria | -65 Ma | Earliest Placental Mammals
+R103: Euarchontoglires | -65 Ma | Earliest Placental Mammals
+R104: Elephants, Manatees, Hyraxes | -60 Ma | Afrotheria
+R105: Armadillos | -60 Ma | Xenarthria
+R106: Earliest Rodents | -60 Ma | Euarchontoglires
+R107: Rodents Grp 1 — Rats, Mice, Squirrels, Beavers | -60 Ma | Earliest Rodents
+R108: Lagomorphs — Rabbits, Hares | -55 Ma | Euarchontoglires
+R109: Earliest Primates | -60 Ma | Euarchontoglires
+R110: Treeshrews, Colugos | -60 Ma | Euarchontoglires
+R111: Sloths, Anteaters | -55 Ma | Xenarthria
+R112: Earliest Even-Toed Hoofed Mammals | -55 Ma | Laurasiatheria
+R113: Even-Toed Grp 1 — Deer, Pigs, Camels, Bovines | -55 Ma | Earliest Even-Toed
+R114: Bats | -55 Ma | Laurasiatheria
+R115: Shrews, Hedgehogs | -55 Ma | Laurasiatheria
+R116: Pangolins | -55 Ma | Laurasiatheria
+R117: Earliest Odd-Toed Hoofed Mammals | -55 Ma | Laurasiatheria
+R118: Odd-Toed Grp 1 — Rhinos | -55 Ma | Earliest Odd-Toed
+R119: Even-Toed Grp 2 — Whales, Dolphins | -50 Ma | Earliest Even-Toed
+R120: Odd-Toed Grp 2 — Horses | -50 Ma | Earliest Odd-Toed
+R121: Lemurs | -50 Ma | Earliest Primates
+R122: Tarsiers | -55 Ma | Earliest Primates
+R123: Carnivores — Wolves, Dogs, Bears, Cats, Seals, Weasels | -55 Ma | Laurasiatheria
+R124: New World Monkeys | -40 Ma | Earliest Primates
+R125: Old World Monkeys | -25 Ma | Earliest Primates
+R126: Gibbons (Lesser Apes) | -20 Ma | Earliest Primates
+R127: Great Apes — Orangutans | -14 Ma | Earliest Primates
+R128: Gorillas | -10 Ma | Great Apes
+R129: Hominins | -7 Ma | Great Apes
+R130: Chimpanzees, Bonobos | -7 Ma | Great Apes
+R131: Homo sapiens | -0.3 Ma | Hominins

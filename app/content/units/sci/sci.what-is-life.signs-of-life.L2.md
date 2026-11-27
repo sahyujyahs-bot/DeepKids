@@ -1,9 +1,9 @@
 # Signs of life: why still plants and seeds are alive
 `sci.what-is-life.signs-of-life.L2`
 
-**Summary.** A bowl of moong sprouts sits still on the shelf, but are they alive? In this unit you will shut sprouts in a dabba with chuna water to see whether they breathe, then sort tricky cases like curd, a phone and a cloud into alive or not.
+**Summary.** A bowl of moong sprouts sits still on the shelf, but are they alive? In this lesson you will shut sprouts in a dabba with chuna water to see whether they breathe, then sort tricky cases like curd, a phone and a cloud into alive or not.
 
-**Intro.** *Put a bowl of moong sprouts next to a toy car. Push the car, and the car zooms across the floor. The sprouts just lie there. Which one is breathing?* The car moves, but a car never breathes. The sprouts do not seem to do anything at all. Yet sprouts are alive, and every living being breathes. You cannot see breath, so we need a way to catch it. Chuna water is clear water that turns milky when breathed-out air reaches it. In this unit we use it to find out if still sprouts really breathe.
+**Intro.** *Put a bowl of moong sprouts next to a toy car. Push the car, and the car zooms across the floor. The sprouts just lie there. Which one is breathing?* The car moves, but a car never breathes. The sprouts do not seem to do anything at all. Yet sprouts are alive, and every living being breathes. You cannot see breath, so we need a way to catch it. Chuna water is clear water that turns milky when breathed-out air reaches it. In this lesson we use it to find out if still sprouts really breathe.
 
 ## Learning outcomes
 0. By the end I can name the seven signs of life in simple words: eat, breathe, grow, move, sense, get rid of waste and have young.
@@ -487,7 +487,7 @@ Ajji laughed. 'Put one on a glass of water and see,' she said.
 7. (draw) Draw a plant that senses light. Show where the light comes from and which way the plant bends.  
    **Answer:** A plant with shoots or leaves bending towards a window or a lamp.. *Why:* Plants sense where the light is and grow that way. A strong drawing shows the light and the plant bending towards the light, such as a potato shoot in a maze or a money plant at a window.
 8. (mcq) A spoon of curd set a whole katori of warm milk overnight. Which sign of life did the curd bacteria show?  
-   Options: They had young: they made more of themselves / They moved to a new house / They got rid of the milk  
+   Options: They moved to a new house / They got rid of the milk / They had young: they made more of themselves  
    **Answer:** They had young: they made more of themselves. *Why:* The bacteria ate the milk sugar, grew and split into more bacteria. Making more of their own kind is having young.
 9. (fill) When you sit very still, you still ________ in and out.  
    **Answer:** ['breathe']. *Why:* Breathing never stops, even when you are still or asleep. Sprouts keep breathing too, even though they lie still.
@@ -524,36 +524,36 @@ Ajji laughed. 'Put one on a glass of water and see,' she said.
 
 ## Quiz
 1. (mcq) How many signs of life are there?  
-   Options: Three / Seven / Ten  
+   Options: Seven / Three / Ten  
    **Answer:** Seven. *Why:* There are seven: eat, breathe, grow, move, sense, get rid of waste and have young.
 2. (mcq) Which of these is a sign of life?  
-   Options: Being shiny / Having young / Being heavy  
+   Options: Being shiny / Being heavy / Having young  
    **Answer:** Having young. *Why:* Having young is one of the seven signs. Being shiny or heavy has nothing to do with being alive: a steel spoon is shiny, and a stone is heavy.
 3. (mcq) In the chuna water test, clear chuna water turned milky next to the moong sprouts. What made it milky?  
-   Options: Carbon dioxide breathed out by the sprouts / Water from the wet cloth / Light from the window  
+   Options: Water from the wet cloth / Light from the window / Carbon dioxide breathed out by the sprouts  
    **Answer:** Carbon dioxide breathed out by the sprouts. *Why:* The dabba with only a wet cloth had the same wet cloth and stayed clear. The dabba was shut, so light did not matter. The sprouts breathed out carbon dioxide.
 4. (mcq) Why do plants seem still, though they are alive?  
-   Options: Plants move slowly, mostly by growing / Plants are only pretending to be alive / Plants move only at night  
+   Options: Plants are only pretending to be alive / Plants move only at night / Plants move slowly, mostly by growing  
    **Answer:** Plants move slowly, mostly by growing. *Why:* Plants move by growing: shoots bend to light and roots grow down. This is too slow for our eyes to see. If you said plants move only at night, think of the money plant turning to the window in daytime.
 5. (mcq) Someone says, 'My toy car moves, so my car is alive.' What is wrong with this idea?  
-   Options: Moving is not enough: the car never eats, grows or has young / Nothing, the idea is right / A car is alive only when the engine is on  
+   Options: Nothing, the idea is right / Moving is not enough: the car never eats, grows or has young / A car is alive only when the engine is on  
    **Answer:** Moving is not enough: the car never eats, grows or has young. *Why:* One sign alone does not show life. A living being does all seven signs.
 6. (mcq) Which of these is alive, though it seems to do nothing?  
-   Options: A glass marble / A dry moong seed / A plastic spoon  
+   Options: A dry moong seed / A glass marble / A plastic spoon  
    **Answer:** A dry moong seed. *Why:* A dry moong seed is alive and resting. With water, the seed sprouts. A marble and a plastic spoon were never alive.
 7. (mcq) Why does a spoon of curd turn warm milk into curd?  
-   Options: The curd has tiny living bacteria that grow in the milk / Curd makes milk cold / Curd is heavier than milk  
+   Options: Curd makes milk cold / Curd is heavier than milk / The curd has tiny living bacteria that grow in the milk  
    **Answer:** The curd has tiny living bacteria that grow in the milk. *Why:* Curd bacteria eat the sugar in milk, grow and make more of themselves. As they do, the milk turns thick and sour.
 8. (truefalse) Plants breathe in the daytime and at night.  
    **Answer:** True. *Why:* True. Plants breathe all the time. In sunlight they also make food, which hides the breathing.
 9. (mcq) In the chuna water test, why was there a dabba with only a wet cloth?  
-   Options: To compare: it shows what happens with no sprouts / To keep a spare dabba / To make the test quicker  
+   Options: To keep a spare dabba / To compare: it shows what happens with no sprouts / To make the test quicker  
    **Answer:** To compare: it shows what happens with no sprouts. *Why:* The dabba with only a wet cloth is the same in every way except the sprouts. So any difference must be caused by the sprouts. This is a fair test.
 10. (mcq) Which tricky case was never alive?  
    Options: A potato / Curd / A cloud  
    **Answer:** A cloud. *Why:* A cloud grows and moves, but never eats, breathes or has young. A potato is alive, and curd is full of living bacteria.
 11. (mcq) A karela vine on a balcony touches a string with a thin tendril. The tendril curls tightly round the string. Which sign of life is this?  
-   Options: Sensing touch / Having young / Getting rid of waste  
+   Options: Having young / Sensing touch / Getting rid of waste  
    **Answer:** Sensing touch. *Why:* The tendril senses the touch of the string and curls round it. That is sensing, and moving too.
 
 ## Applications
@@ -564,10 +564,10 @@ Ajji laughed. 'Put one on a glass of water and see,' she said.
 
 ## Spotted around us
 - An onion or a potato in the kitchen basket growing a green or pale shoot.
-- Rain tree leaves folded up on an evening walk along a road in Bengaluru, Chennai or Kolkata.
+- Rain tree leaves folded up on an evening walk along a road.
 - A katori of milk with a spoon of curd, left covered overnight to set.
 - A money plant on a window grill, with every leaf turned towards the light outside.
-- A coconut lying in a backyard in Kerala or Goa, with a green shoot growing out of the husk.
+- A coconut lying in a backyard, with a green shoot growing out of the husk.
 
 ## Open questions
 - **Do plants feel anything, the way we feel?** Plants clearly sense light, touch, water and even sound, and they change what they do. Many scientists say plants feel and decide in their own way. Others say plants only react automatically, because feeling needs a brain. We see brains as one kind of hardware for feeling and deciding. The argument is not settled.
@@ -604,11 +604,13 @@ Seven Signs (sci.what-is-life.L2): Topic-level song for What is life? L2
 - [iNaturalist](https://www.inaturalist.org/) · interactive: For the parent: photograph a plant, an ant or a mushroom from your flat and find out who they are.
 - [Kamala Sohonie, on Wikipedia](https://en.wikipedia.org/wiki/Kamala_Sohonie) · interactive: For the parent: the life of the scientist in the story, who studied how potato cells breathe.
 - [Jan Ingenhousz's book on plants and air (1779), scanned](https://www.biodiversitylibrary.org/search?searchTerm=Ingenhousz+Experiments+upon+vegetables) · interactive: For the parent and an older child: the real book that showed plants make the air stale in the dark, as breathing animals do.
-- [Lalbagh Botanical Garden]() · place · Bengaluru: Old rain trees, a glass house and many plants to watch for signs of life.
-- [Acharya Jagadish Chandra Bose Indian Botanic Garden]() · place · Howrah, near Kolkata: Home of the Great Banyan, one tree that has spread into what looks like a whole forest.
+- Lalbagh Botanical Garden · place · Bengaluru: Old rain trees, a glass house and many plants to watch for signs of life.
+- Acharya Jagadish Chandra Bose Indian Botanic Garden · place · Howrah, near Kolkata: Home of the Great Banyan, one tree that has spread into what looks like a whole forest.
 
 ## Things to buy
 - [A small packet of plain white chuna (slaked lime paste)]() (material): Chuna makes the chuna water that shows carbon dioxide. Many paan shops and grocery shops sell a small packet for a few rupees. Choose plain white chuna, not a coloured or flavoured one. Used in e1, e2. Keep it closed, high up and away from young children.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Do Still Sprouts Breathe? The chuna water test, Cold Sprouts: do sprouts breathe more slowly in the fridge?, Sure or Not Sure? Sorting tricky cases. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1, e2, a1, c1. Get it before Do Still Sprouts Breathe? The chuna water test.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name the seven signs of life. → Eat, breathe, grow, move, sense, get rid of waste and have young.

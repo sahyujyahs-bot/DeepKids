@@ -1,9 +1,9 @@
 # Nerves and hormones: the body's fast messages and slow messages
 `sci.body.messages-in-the-body.L4`
 
-**Summary.** Your body does some things before you decide, and sends some messages through the blood. How fast are they? In this unit you will test what your body does before you choose, time a hormone message with water, and see what makes your mouth water with a lemon.
+**Summary.** Your body does some things before you decide, and sends some messages through the blood. How fast are they? In this lesson you will test what your body does before you choose, time a hormone message with water, and see what makes your mouth water with a lemon.
 
-**Intro.** *You step on a sharp plastic brick in the dark. Your foot lifts before you can say 'ow'. You did not choose to lift it. So who told your leg to move?* A nerve carried the message. It went from your foot to your spinal cord, which runs inside your backbone. The spinal cord sent a message straight back to your leg muscles. Your brain heard about it a moment later. A quick answer like this is called a reflex. Your body also sends slow messages. They are chemicals called hormones, and they travel in your blood. A hormone told your bones to grow this year. In this unit you time a slow message with two tumblers of water. You also test a reflex with drops of lemon juice.
+**Intro.** *You step on a sharp plastic brick in the dark. Your foot lifts before you can say 'ow'. You did not choose to lift it. So who told your leg to move?* A nerve carried the message. It went from your foot to your spinal cord, which runs inside your backbone. The spinal cord sent a message straight back to your leg muscles. Your brain heard about it a moment later. A quick answer like this is called a reflex. Your body also sends slow messages. They are chemicals called hormones, and they travel in your blood. A hormone told your bones to grow this year. In this lesson you time a slow message with two tumblers of water. You also test a reflex with drops of lemon juice.
 
 ## Learning outcomes
 0. I can say what a nerve signal is, and how it passes from one nerve cell to the next.
@@ -138,7 +138,7 @@ Chemical messages are far older than nerves. Bacteria give off chemicals that ot
   Against: Nobody has measured such strength in a test, because it would be wrong to frighten people that badly. The stories cannot be checked.
 
 ## Roots
-In this unit you timed a slow message with two tumblers of water. You watched a fast one start with drops of lemon juice. Here we ask what these messages say about who is in charge of a body.
+In this lesson you timed a slow message with two tumblers of water. You watched a fast one start with drops of lemon juice. Here we ask what these messages say about who is in charge of a body.
 
 **Deep truth.** In the Lemon Test, your mouth watered within seconds of the juice touching your tongue. In the Water Message Test, your kidneys answered the drink many minutes later. So the parts of your body get news at different times. There is no single moment when all of you knows something.  
 *Habit it breaks:* We picture ourselves as one knower in the head. This knower learns each thing at one moment and then tells the body. But the saliva glands, the spinal cord and the kidneys each receive messages and answer on their own time.  
@@ -150,7 +150,7 @@ In this unit you timed a slow message with two tumblers of water. You watched a 
 
 You began as one cell. That cell divided again and again, and the cells became different from each other: skin, nerve, kidney and bone. Messages are what keep those trillions of cells working as one body. Many traditions teach that everything comes from one source and stays joined to it. In a body you can see one way this is true. The many parts stay one body because they never stop sending each other news.
 
-- **Chandogya Upanishad 5.1.6 to 5.1.15:** “सा ह वागुच्चक्राम / सा संवत्सरं प्रोष्य पर्येत्योवाच / अथ ह प्राण उच्चिक्रमिषन्स यथा सुहयः पड्वीशशङ्कून्संखिदेदेवमितरान्प्राणान्समखिदत् / भगवन्नेधि / त्वं नः श्रेष्ठोऽसि” Speech, sight, hearing and the mind quarrel over who is the greatest. Each leaves the body for a year, and the body lives on without them. When the breath begins to leave, all the others are pulled up with it. They beg the breath to stay. (The story is about the breath, and it knows nothing of nerves or hormones. Yet it pictures a body as many powers that depend on each other, with none of them ruling alone. This unit found the same thing in the way the parts send and answer messages.)
+- **Chandogya Upanishad 5.1.6 to 5.1.15:** “सा ह वागुच्चक्राम / सा संवत्सरं प्रोष्य पर्येत्योवाच / अथ ह प्राण उच्चिक्रमिषन्स यथा सुहयः पड्वीशशङ्कून्संखिदेदेवमितरान्प्राणान्समखिदत् / भगवन्नेधि / त्वं नः श्रेष्ठोऽसि” Speech, sight, hearing and the mind quarrel over who is the greatest. Each leaves the body for a year, and the body lives on without them. When the breath begins to leave, all the others are pulled up with it. They beg the breath to stay. (The story is about the breath, and it knows nothing of nerves or hormones. Yet it pictures a body as many powers that depend on each other, with none of them ruling alone. This lesson found the same thing in the way the parts send and answer messages.)
 - **Zhuangzi, chapter 2, 'Discussion on Making All Things Equal':** “百骸九竅六藏，賅而存焉，吾誰與爲親？ / 汝皆悅之乎？ / 其有私焉？ / 如是，皆有爲臣妾乎？ / 其臣妾不足以相治乎？ / 其遞相爲君臣乎？” Zhuangzi lists the hundred joints, the nine openings and the six organs of his body. He asks which of them he should feel closest to. He asks whether they are all servants, or whether they take turns as ruler. He leaves the question open. (This is the question that a reflex raises. Your spinal cord moved your hand, your kidneys answered the water, and your brain was told afterwards. Zhuangzi's question about which part rules is still a fair one.)
 - Science (settled): The gut has its own net of several hundred million neurons. It moves food along by its own reflexes, even when its nerves to the brain are cut. Bayliss and Starling showed this in 1899.
 - Science (debated): In 1983 Benjamin Libet recorded brain activity before people moved a finger. It began a fraction of a second before they said they had decided. Scientists still argue about what this means for how we decide.
@@ -519,7 +519,7 @@ That evening the border was still there. One hand's length of it shook like a be
 ## Worksheets
 ### Nerves, hormones and reflexes (core, 15 questions)
 1. (mcq) What carries a nerve message from your fingertip to your spinal cord?  
-   Options: Nerve fibres / Blood / Air in the lungs / Bones  
+   Options: Blood / Nerve fibres / Air in the lungs / Bones  
    **Answer:** Nerve fibres. *Why:* A nerve message is a signal that travels along nerve fibres. Blood carries hormones, which are the other kind of message.
 2. (mcq) What carries a hormone from a gland to the cells it changes?  
    Options: The blood / Nerve fibres / The bones / The skin  
@@ -535,14 +535,14 @@ That evening the border was still there. One hand's length of it shook like a be
 7. (order) Put these steps in order, to show what happens when a fingertip touches a hot pot.  
    **Answer:** ['The fingertip touches the hot pot', 'A signal travels up the arm nerve', 'The signal crosses a synapse in the spinal cord', 'A signal travels down to the arm muscle', 'The hand pulls away', 'The brain feels the pain']. *Why:* The message turns round in the spinal cord, so the hand moves first. The news reaches the brain by a longer path, so the pain is felt last.
 8. (mcq) In the Water Message Test, both days started at the same time of day. Why?  
-   Options: So only the drink was different / So the water was colder / So the clock was easier to read / So the kidneys were resting  
+   Options: So the water was colder / So the clock was easier to read / So the kidneys were resting / So only the drink was different  
    **Answer:** So only the drink was different. *Why:* A fair test changes only one thing. The body handles water differently in the morning and at night. Keeping the time the same leaves the drink as the only difference.
 9. (fill) The tiny gap between one neuron and the next cell is called a ____.  
    **Answer:** ['synapse']. *Why:* At a synapse a chemical carries the message across the gap. Each synapse adds a small delay.
 10. (truefalse) Your brain feels the pain before your hand leaves a hot pot.  
    **Answer:** False. *Why:* False. The hand is pulled away by a reflex through the spinal cord. The message to the brain takes a longer path, so the pain is felt a moment later.
 11. (mcq) Where does the message turn round when a hand pulls back from something hot?  
-   Options: In the spinal cord / In the heart / In the fingertip / In the stomach  
+   Options: In the heart / In the fingertip / In the stomach / In the spinal cord  
    **Answer:** In the spinal cord. *Why:* The signal goes in to the spinal cord and crosses one or two synapses. Then it comes straight back out to the arm muscle.
 12. (write) Explain in two sentences why growing taller is a job for a hormone and not for a nerve.  
    **Answer:** Growing is slow and goes on for years in bones all over the body. A hormone in the blood reaches all those bones and can keep working for a long time.. *Why:* A strong answer says that the job is slow, long and spread across the body. It also says that blood reaches every part.
@@ -551,20 +551,20 @@ That evening the border was still there. One hand's length of it shook like a be
 14. (draw) Draw an arm and a backbone. Draw a reflex path from a fingertip. Label the spinal cord and the muscle.  
    **Answer:** One arrow from the fingertip along the arm to the spinal cord inside the backbone. A second arrow from the spinal cord back out to the muscle of the upper arm.. *Why:* A strong drawing shows the message going in and coming out again at the spinal cord. It does not go up to the brain first.
 15. (mcq) Why does adrenaline change the heart but not a fingernail?  
-   Options: The nail has no receptors for it / The nail is too far away / Blood never carries adrenaline / The nail is too hard  
+   Options: The nail is too far away / Blood never carries adrenaline / The nail has no receptors for it / The nail is too hard  
    **Answer:** The nail has no receptors for it. *Why:* A hormone changes only cells that have its receptor. Heart muscle cells have receptors for adrenaline. The tip of a nail is not made of living cells, so it has none.
 ### Which messenger, and why (stretch, 15 questions)
 1. (mcq) Which message ends soonest after its sender stops sending?  
-   Options: A nerve signal to a muscle / Adrenaline in the blood / Growth hormone in the blood / Insulin in the blood  
+   Options: Adrenaline in the blood / Growth hormone in the blood / A nerve signal to a muscle / Insulin in the blood  
    **Answer:** A nerve signal to a muscle. *Why:* A nerve message ends when the signals stop. A hormone stays in the blood until the body has cleared it, which takes minutes or hours.
 2. (mcq) What do sodium ions do when a nerve signal passes?  
-   Options: They rush into the fibre / They carry sugar to the brain / They glue two neurons together / They make the fibre longer  
+   Options: They carry sugar to the brain / They rush into the fibre / They glue two neurons together / They make the fibre longer  
    **Answer:** They rush into the fibre. *Why:* Tiny gates open and sodium ions rush in at one spot. That makes the next gates open, so the change moves along the fibre.
 3. (mcq) A person has plenty of a hormone, but their cells lack its receptor. What happens?  
-   Options: The cells do not answer it / The cells answer twice as hard / It turns into a nerve signal / The blood stops flowing  
+   Options: The cells answer twice as hard / The cells do not answer it / It turns into a nerve signal / The blood stops flowing  
    **Answer:** The cells do not answer it. *Why:* A hormone works only by fitting its receptor. Without the receptor, the hormone passes the cells and nothing changes, however much there is.
 4. (mcq) A fright is over, but the heart still pounds for some minutes. Why?  
-   Options: Adrenaline is still in the blood / The nerves are still sending the fright / The heart is tired / The lungs are empty  
+   Options: The nerves are still sending the fright / Adrenaline is still in the blood / The heart is tired / The lungs are empty  
    **Answer:** Adrenaline is still in the blood. *Why:* The nerve part of the fright ended at once. The adrenaline goes on working until the body has broken it down.
 5. (truefalse) Every nerve message is partly chemical.  
    **Answer:** True. *Why:* True. Along the fibre the signal is electrical. At each synapse a chemical carries the message across the gap.
@@ -600,7 +600,7 @@ That evening the border was still there. One hand's length of it shook like a be
    Options: More synapses on the path / A louder voice / More sugar in the blood / A shorter fibre  
    **Answer:** More synapses on the path. *Why:* Each synapse adds a small delay, because a chemical must cross the gap. A shorter fibre would make the message arrive sooner.
 4. (mcq) Some asthma medicines fit the adrenaline receptors of the airways. What do they do there?  
-   Options: Make the airways widen / Make the heart stop / Make the bones grow / Make the kidneys save water  
+   Options: Make the heart stop / Make the bones grow / Make the kidneys save water / Make the airways widen  
    **Answer:** Make the airways widen. *Why:* Adrenaline tells the muscle round the airways to relax, so the airways widen. A medicine that fits the same receptor gives the same order.
 5. (truefalse) Plants send signals from leaf to leaf without using neurons.  
    **Answer:** True. *Why:* True. Plants carry electrical signals and use hormones. A touch-me-not folds as an electrical signal passes along the leaf.
@@ -632,34 +632,34 @@ That evening the border was still there. One hand's length of it shook like a be
 
 ## Quiz
 1. (mcq) Which sentence about a nerve message is true?  
-   Options: It travels along fibres to one place / It travels in the blood / It takes hours to arrive / It reaches every cell  
+   Options: It travels in the blood / It travels along fibres to one place / It takes hours to arrive / It reaches every cell  
    **Answer:** It travels along fibres to one place. *Why:* A nerve message travels along nerve fibres and arrives where those fibres end. The other three answers describe a hormone message.
 2. (mcq) What is a hormone?  
    Options: A chemical message carried by the blood / A kind of nerve fibre / A small bone / A signal made of sound  
    **Answer:** A chemical message carried by the blood. *Why:* A gland releases a hormone into the blood, and the blood carries it round the body. If you chose a nerve fibre, you were thinking of the fast kind of message.
 3. (mcq) Which of these happens fastest?  
-   Options: A reflex / Growing one centimetre / Feeling sleepy at night / Pee turning pale after a drink  
+   Options: Growing one centimetre / Feeling sleepy at night / Pee turning pale after a drink / A reflex  
    **Answer:** A reflex. *Why:* A reflex is carried by nerves and is over in a fraction of a second. The other three are the work of hormones and take minutes, hours or months.
 4. (mcq) You step on a sharp stone and your foot lifts at once. Where did the message turn round?  
-   Options: In the spinal cord / In the stomach / In the heart / In the stone  
+   Options: In the stomach / In the heart / In the stone / In the spinal cord  
    **Answer:** In the spinal cord. *Why:* The signal went up a nerve to the spinal cord and straight back down to the leg muscles. The brain heard about it a moment later.
 5. (mcq) What must a cell have in order to answer a hormone?  
    Options: A receptor that the hormone fits / A nerve fibre of its own / A place near the gland / A hard outer shell  
    **Answer:** A receptor that the hormone fits. *Why:* A hormone fits its receptor as a key fits a lock. Being near the gland does not matter, because the blood carries the hormone everywhere.
 6. (mcq) You run the Water Message Test on two days. What must be the same on both days?  
-   Options: Time of day and an empty bladder / The amount of water drunk / The colour of the tumbler / The weather report on television  
+   Options: The amount of water drunk / Time of day and an empty bladder / The colour of the tumbler / The weather report on television  
    **Answer:** Time of day and an empty bladder. *Why:* The amount of water is the one thing that changes. Everything else that could change the result must stay the same. That includes the time of day and how full the bladder is.
 7. (mcq) A sudden bang makes you jump, and then your heart pounds for minutes. Which messengers were at work?  
-   Options: Nerves first, then a hormone / A hormone first, then nerves / Only nerves / Only hormones  
+   Options: A hormone first, then nerves / Only nerves / Nerves first, then a hormone / Only hormones  
    **Answer:** Nerves first, then a hormone. *Why:* The jump is fast, so nerves carried it. The pounding goes on after the bang is over, because adrenaline is still in the blood.
 8. (mcq) How did scientists first show that some messages travel in the blood?  
-   Options: A message arrived with the nerves cut / They asked patients how they felt / They weighed the blood / They cooled the nerves with ice  
+   Options: They asked patients how they felt / A message arrived with the nerves cut / They weighed the blood / They cooled the nerves with ice  
    **Answer:** A message arrived with the nerves cut. *Why:* In 1902 Bayliss and Starling cut every nerve to a piece of gut. Acid in that piece still made the pancreas pour out juice, so the message had gone by the blood.
 9. (mcq) What crosses the gap at a synapse?  
-   Options: A chemical / A drop of blood / A spark you can see / A tiny bone  
+   Options: A drop of blood / A spark you can see / A tiny bone / A chemical  
    **Answer:** A chemical. *Why:* The end of the nerve fibre lets out a chemical. It drifts across the gap and starts a new signal on the other side.
 10. (mcq) Why can a hormone message last longer than a nerve message?  
-   Options: The hormone stays in the blood longer / Hormones are heavier than nerves / Nerves get tired after one signal / Blood moves more slowly at night  
+   Options: Hormones are heavier than nerves / Nerves get tired after one signal / Blood moves more slowly at night / The hormone stays in the blood longer  
    **Answer:** The hormone stays in the blood longer. *Why:* A nerve message ends when the signals stop. A hormone goes on working until the liver and kidneys have cleared it from the blood.
 11. (mcq) Your hand leaves a hot pot before you feel pain. Why does the pain come later?  
    Options: The path to the brain has more synapses / Pain travels in the blood / The brain is asleep / The pot cools down  
@@ -737,6 +737,10 @@ This Body Is a Universe (sci.body.L4): Topic-level song
 ## Things to buy
 - [A small bottle of food colour](https://www.amazon.in/s?k=food+colour+liquid) (material): For the drop of colour in A Tug and a Drop. Ink, or strong tea or coffee decoction, also works, so buy it only if you want to. Used in a4. 
 - [Aroused: The History of Hormones and How They Control Just About Everything, a book by Randi Hutter Epstein (2018)](https://www.amazon.in/s?k=Aroused+History+of+Hormones+Randi+Hutter+Epstein) (book): For the parent: the stories of how hormones were found, including the test of 1902. Used in e1. During the waits in the Water Message Test, a parent can read the first chapters for their own interest.
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in Wool Paths: measure a reflex path on your own body. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in a3. Get it before Wool Paths: measure a reflex path on your own body.
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in Squeeze Chain: time a nerve message through two bodies. About ₹150 to ₹400. A phone stopwatch works well. Used in a2. Get it before Squeeze Chain: time a nerve message through two bodies.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Wool Paths: measure a reflex path on your own body. About ₹10 to ₹30. Any school ruler is fine. Used in a3. Get it before Wool Paths: measure a reflex path on your own body.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name the two ways the body sends messages. → Nerve signals along nerve fibres, and hormones in the blood.
@@ -754,7 +758,7 @@ This Body Is a Universe (sci.body.L4): Topic-level song
 - Core: a1, e1, g1, e2, ws-core
 
 ## Sources
-- Founder's notebook, Biology list: 'Nervous & endocrine integration' and 'Endocrine system'. This unit takes fast messages by nerves, slow messages by hormones, and reflexes, as the curriculum says. The glands one by one, adrenaline in detail and the hormones of growth and sleep are left for sci.body.messages-in-the-body.L5.
+- Founder's notebook, Biology list: 'Nervous & endocrine integration' and 'Endocrine system'. This lesson takes fast messages by nerves, slow messages by hormones, and reflexes, as the curriculum says. The glands one by one, adrenaline in detail and the hormones of growth and sleep are left for sci.body.messages-in-the-body.L5.
 - Founder's SCI Card on Candace Pert (receptors as locks that only certain molecules fit) gave the lock and key picture used for hormone receptors here.
 - Other units were read so that nothing repeats. The Ruler Drop and the Helmholtz story are in sci.senses.five-senses.L4. The knee kick Stop Test is in sci.animal-behaviour.born-knowing.L2. Pulse after a fright or exercise is in sci.body.heart-blood-breath.L4, sci.body.organs-inside.L4 and sci.body.keeping-balance.L4. The pupil tests are in the light units. Insulin and the Sugar See-Saw are in sci.body.keeping-balance.L4. None of these is used here.
 - Bayliss W.M., Starling E.H. (1902). The mechanism of pancreatic secretion. Journal of Physiology 28: 325-353.

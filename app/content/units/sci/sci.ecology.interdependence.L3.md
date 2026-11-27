@@ -1,9 +1,9 @@
 # Living things need each other: how plants and animals help each other live
 `sci.ecology.interdependence.L3`
 
-**Summary.** Why do seeds not sprout inside a tomato? In this unit you will test whether tomato juice stops seeds sprouting, work out where the seeds of a fruit bowl would go, and play a memory game of who helps whom among plants and animals.
+**Summary.** Why do seeds not sprout inside a tomato? In this lesson you will test whether tomato juice stops seeds sprouting, work out where the seeds of a fruit bowl would go, and play a memory game of who helps whom among plants and animals.
 
-**Intro.** *Cut a ripe tomato in half and look at the seeds in the wet jelly. Seeds sprout when they are warm and wet, and the inside of a tomato is both. So why don't the seeds sprout inside the tomato?* The answer has to do with who eats tomatoes, guavas and mangoes, and why. In this unit you test it with tomato seeds. You find out how plants feed and shelter animals, and how animals help plants in return, by carrying their pollen and their seeds. You also meet a tree that needs a wasp smaller than a grain of rice, and a flower in Madagascar that needed a moth nobody had ever seen.
+**Intro.** *Cut a ripe tomato in half and look at the seeds in the wet jelly. Seeds sprout when they are warm and wet, and the inside of a tomato is both. So why don't the seeds sprout inside the tomato?* The answer has to do with who eats tomatoes, guavas and mangoes, and why. In this lesson you test it with tomato seeds. You find out how plants feed and shelter animals, and how animals help plants in return, by carrying their pollen and their seeds. You also meet a tree that needs a wasp smaller than a grain of rice, and a flower in Madagascar that needed a moth nobody had ever seen.
 
 ## Learning outcomes
 0. I can give examples of how plants help animals: with food, shelter and oxygen.
@@ -125,7 +125,7 @@ We have learned how plants and animals feed, shelter and carry each other, and w
 
 A tomato plant, a bird and a fig wasp each live in their own body. Yet the tomato's fruit is shaped for an eater's mouth, and the fig's tiny hole is shaped for one kind of wasp. These partners grew to fit each other over millions of years. Each now depends on the other to make the next generation.
 
-- **Tattvartha Sutra 5.21, a Jain text by Umaswati:** “परस्परोपग्रहो जीवानाम्” Parasparopagraho jivanam: living beings support and serve one another. (In this unit, the fig feeds the wasp's young and the wasp makes the fig's seeds. The tomato feeds an animal, and the animal carries her seeds to a new place.)
+- **Tattvartha Sutra 5.21, a Jain text by Umaswati:** “परस्परोपग्रहो जीवानाम्” Parasparopagraho jivanam: living beings support and serve one another. (In this lesson, the fig feeds the wasp's young and the wasp makes the fig's seeds. The tomato feeds an animal, and the animal carries her seeds to a new place.)
 - **Thirukkural 322, by Thiruvalluvar, in the chapter on not killing:** “பகுத்துண்டு பல்லுயிர் ஓம்புதல் நூலோர் / தொகுத்தவற்றுள் எல்லாந் தலை.” To share your food and care for every living being is the greatest of all the teachings the wise have gathered. (A fruit is food a plant shares with the animals who carry her seeds. The Kural asks people to share food and protect all living beings in the same way.)
 - **Charles Darwin, On the Origin of Species (1859), the last paragraph:** Darwin asks us to look at a tangled bank of plants, with birds singing, insects flying and worms crawling, and to see how different they are, and how closely they depend on each other. (Three years after writing this, Darwin looked at one orchid's long tube. He predicted that a long-tongued moth must exist, because the orchid depended on one to carry her pollen.)
 - Science (settled): Animals carry the pollen of about 87 in every 100 kinds of flowering plants.
@@ -201,12 +201,65 @@ A myna landed on the park railing and looked at them, her head on one side.
 
 Meenakshi thought of the tiny wasps, somewhere in the city, flying from fig to fig. 'And the wasps will find her,' she said. 'They always find the figs.'
 
-**For the parent:** For the parent: no person planted the peepal on the tank, and yet she had many helpers. A fig wasp pollinated the flowers inside a fig, so the fig could make seeds. A bird ate the fig and carried a seed inside her body to the terrace. The rain let the seed sprout. Then Meenakshi moved the plant to a place where she could grow without cracking the tank. Each helper got something too: the wasp's young grew inside the fig, and the bird got food. This is interdependence: lives that cannot happen without each other.
 
-- Ask: Who planted the peepal on the water tank?
-- Ask: Why can't a bee pollinate a peepal's flowers?
-- Ask: Name every helper the little peepal needed, from the wasp to Meenakshi.
-- Ask: Mr Raghavan wanted to pull the plant out to save the tank. Was he wrong? What else could the family have done?
+## Another story: The Spoon from Downstairs
+**
+
+We moved from Chennai to Delhi in December, and the first thing that went wrong was the curd.
+
+In Chennai, Amma made curd every night without thinking about it. She boiled the milk, let it cool, stirred in a spoonful of the day's curd and put the bowl in the cupboard. In the morning it was thick and white, and it wobbled when you shook the bowl.
+
+But we had packed in a hurry, and there was no curd left. On our first night in the new flat, Amma boiled the milk anyway and left it in a bowl. In the morning it was still milk. Just milk, cold and thin.
+
+"It needs a little curd to begin, Kavya," Amma said. "Curd makes curd."
+
+I didn't understand that. A dosa can't make a dosa. How can curd make curd?
+
+The flat downstairs belonged to an old lady called Harjeet Aunty. She had a long grey plait and a cough, and on our first day she had shouted at the delivery man for blocking the stairs. I was a little afraid of her. But Amma sent me down with an empty katori.
+
+Harjeet Aunty looked at the katori, and then at me. "Jaman?" she asked. That is her word for the starter, the little bit of old curd that begins the new curd. She went into her kitchen and came back with the katori half full. "Don't put it in hot milk," she said. "It's alive. You'll cook it."
+
+Alive? I carried it up the stairs very carefully, as if it might run away.
+
+That night I helped Amma. We let the milk cool until I could keep my finger in it while I counted to ten. We stirred in two spoons of Harjeet Aunty's curd, covered the bowl and put it on the kitchen shelf. I went to bed thinking about the tiny living things in the bowl, and whether they minded moving house.
+
+In the morning the curd had not set. It was a little thicker at the bottom, but when I tilted the bowl it ran like buttermilk. Amma sighed. "Delhi cold," she said.
+
+It was so cold that day that the lizard behind our tube light didn't come out at all. In Chennai there had been three lizards on the kitchen wall every evening, waiting for moths. Here there was one, and it stayed in a crack in the wall, still as a stick.
+
+I looked at the runny curd. Then I looked at the crack where the lizard was hiding. The lizard was alive, and it was too cold, so it had slowed down. If the curd things were alive too, maybe they had slowed down for the same reason.
+
+"Amma," I said, "what if they're cold?"
+
+She laughed, but she let me try. We warmed fresh milk until it was finger-warm again and stirred in the last of the jaman. I wrapped the bowl in my own woollen shawl, the red one Nani knitted, and put it inside the big casserole we keep chapatis in. Then I shut the lid. I put the whole thing in the warmest place in the flat, the corner next to the fridge, where warm air comes out at the back.
+
+All day I wanted to open it. I didn't.
+
+In the evening Amma lifted the lid and unwrapped the shawl. The curd was set, thick and white and shining. When she tipped the bowl, it moved all in one piece, like a soft cake. It tasted a little sour, the way it tasted at home.
+
+Amma said the tiny living things are called bacteria. There are millions of them in one spoon of curd. They eat the sugar in milk, and as they eat, the milk turns thick and sour. When they are warm, they eat and grow fast. When they are cold, they almost stop.
+
+"So we give them milk and a warm bed," I said, "and they give us curd."
+
+"And curd keeps longer than milk," said Amma.
+
+The next morning I filled the katori with our new curd and took it downstairs. Harjeet Aunty opened the door and looked at it. Then she laughed, a real laugh this time, with the cough in the middle of it.
+
+"My jaman came from my mother-in-law in Amritsar," she said. "Hers came from a neighbour. I've been feeding the same little family for fifty years. Now they live upstairs too."
+
+She let me in and made me a glass of lassi from her curd. I sat at her table, in the flat I had been afraid of, and drank it slowly.
+
+A week later, a new family moved into the empty flat above ours. Their boxes filled the stairs. Through the door I heard a woman say, "Oh no. I forgot to bring curd."
+
+I went into our kitchen and found a katori.
+
+**For the parent:** For the parent: Kavya's turn comes when she sees the lizard hiding from the cold and guesses that the curd makers are alive in the same way, so they have slowed down too. Warmth is the fix, and the result proves her guess. Curd is a partnership with bacteria: we give them milk and warmth, they give us curd. The same spoon of curd also connects neighbours, as a gift passed on and never sold.
+
+- Ask: Why didn't the curd set on the cold night?
+- Ask: What made Kavya think of the lizard? How were the lizard and the curd alike?
+- Ask: What did the family give the bacteria, and what did the bacteria give them?
+- Ask: Harjeet Aunty has fed the same family of bacteria for fifty years. Who else has she shared it with?
+- Ask: Why do you think Kavya went to find a katori at the end?
 
 ## Games
 ### g1 · Partners: a memory game of who helps whom (15 min)
@@ -483,7 +536,7 @@ Meenakshi thought of the tiny wasps, somewhere in the city, flying from fig to f
    Options: Pollen-carrying / Food, such as fruit and leaves / Droppings / Tunnels in the soil  
    **Answer:** Food, such as fruit and leaves. *Why:* Plants give animals food, shelter and oxygen. Carrying pollen, droppings and tunnels are things animals give plants.
 2. (mcq) A honeybee drinks nectar in a mustard flower. What does she carry to the next mustard flower?  
-   Options: Water / Pollen stuck to the hairs on her body / Seeds / Leaves  
+   Options: Water / Seeds / Leaves / Pollen stuck to the hairs on her body  
    **Answer:** Pollen stuck to the hairs on her body. *Why:* Pollen sticks to a bee's hairy body while she drinks. Some rubs off in the next flower, so that flower can make seeds.
 3. (truefalse) A plant can walk her seeds to a new place by herself.  
    **Answer:** False. *Why:* False. Plants stay in one place. Animals, wind and water carry their seeds.
@@ -518,7 +571,7 @@ Meenakshi thought of the tiny wasps, somewhere in the city, flying from fig to f
 1. (write) In the Juice Test, the seeds in Box J lay in tomato juice and did not sprout. A friend says they were dead. What test would show the seeds were still alive? What result would prove it?  
    **Answer:** Wash the seeds and put them on wet tissue with water. If they sprout, they were alive, and the juice was only holding them back.. *Why:* A strong answer names a test that could prove the friend wrong, and says what to look for.
 2. (mcq) Scientists found two reasons tomato juice holds seeds back. Which is one of them?  
-   Options: The juice is too cold / Dissolved sugars and salts in the juice hold on to water, so the seed can't drink enough / The juice is too dark / The juice has no air  
+   Options: Dissolved sugars and salts in the juice hold on to water, so the seed can't drink enough / The juice is too cold / The juice is too dark / The juice has no air  
    **Answer:** Dissolved sugars and salts in the juice hold on to water, so the seed can't drink enough. *Why:* A seed must drink water and swell to sprout. The sugars and salts in juice hold on to the water. The juice also has a plant hormone. A hormone is a chemical message, and this one tells seeds to rest.
 3. (fill) A peepal's flowers grow inside her ____.  
    **Answer:** ['figs', 'fig', 'fruits']. *Why:* A peepal fig is a hollow ball lined with tiny flowers. Only a tiny fig wasp can get in through the hole at the end.
@@ -535,7 +588,7 @@ Meenakshi thought of the tiny wasps, somewhere in the city, flying from fig to f
 8. (fill) A partnership between two kinds of living things where both are helped is called ____.  
    **Answer:** ['mutualism']. *Why:* The fig and the fig wasp, and bees and flowers, are examples of mutualism.
 9. (mcq) In Madagascar, an orchid keeps her nectar at the bottom of a tube up to 35 centimetres long. In 1862, what did Charles Darwin predict?  
-   Options: That no animal visits the orchid / That a moth with a very long tongue must live there and carry her pollen / That the orchid pollinates herself / That bees break the tube  
+   Options: That no animal visits the orchid / That the orchid pollinates herself / That bees break the tube / That a moth with a very long tongue must live there and carry her pollen  
    **Answer:** That a moth with a very long tongue must live there and carry her pollen. *Why:* Darwin reasoned that only an animal with a tongue almost as long as the tube could reach the nectar. A moth with a long enough tongue was found in Madagascar and described in 1903.
 10. (perspective) Does a bee help a flower on purpose?  
    **Answer:** A strong answer picks a side and backs it with a fact, such as: the bee visits to get nectar for her colony, and the pollen she carries is a side effect. It then admits a fair point from another side, such as: the flower still gets her pollen carried.. *Why:* Scientists still argue about whether partners know they are helping. A good answer gives something true on each side.
@@ -558,40 +611,40 @@ Meenakshi thought of the tiny wasps, somewhere in the city, flying from fig to f
 
 ## Quiz
 1. (mcq) Which of these is a way plants help animals?  
-   Options: Carrying pollen / Giving shelter, like a branch for a nest / Leaving droppings / Digging tunnels  
+   Options: Carrying pollen / Leaving droppings / Digging tunnels / Giving shelter, like a branch for a nest  
    **Answer:** Giving shelter, like a branch for a nest. *Why:* Plants give animals food, shelter and oxygen. The others are ways animals help plants.
 2. (mcq) Plants make their own food using sunlight. What do they give out as they do it, which animals breathe in?  
-   Options: Carbon dioxide / Oxygen / Smoke / Nectar  
+   Options: Carbon dioxide / Smoke / Nectar / Oxygen  
    **Answer:** Oxygen. *Why:* Photosynthesis gives out oxygen. Animals breathe it in, and breathe out carbon dioxide, which plants take in.
 3. (mcq) A sunbird drinks nectar from one palash flower, then another. How does she help the palash tree?  
    Options: She eats the leaves / She carries pollen from flower to flower / She waters the tree / She guards the tree from monkeys  
    **Answer:** She carries pollen from flower to flower. *Why:* Pollen sticks to the sunbird's head and beak while she drinks, and rubs off in the next flower. Then that flower can make seeds.
 4. (mcq) A cow eats grass in a field. How does she help the grass?  
-   Options: Her dung feeds the soil where the grass grows / She waters the grass / She carries the grass's pollen / She doesn't help it at all  
+   Options: She waters the grass / She carries the grass's pollen / Her dung feeds the soil where the grass grows / She doesn't help it at all  
    **Answer:** Her dung feeds the soil where the grass grows. *Why:* Cow dung feeds the soil, and grass grows thick where it falls. Grass is mostly pollinated by the wind, not by cows.
 5. (mcq) You want to test whether guava flesh holds guava seeds back from sprouting. Which test is fair?  
-   Options: Washed seeds on wet tissue in a warm room, and seeds in guava flesh on wet tissue in a cold room / Washed seeds on wet tissue, and seeds in guava flesh on wet tissue, both in the same warm room / Washed guava seeds in one box, and washed mango seeds with their flesh in another / Only the seeds in guava flesh, because that is what you want to know about  
+   Options: Washed seeds on wet tissue in a warm room, and seeds in guava flesh on wet tissue in a cold room / Washed guava seeds in one box, and washed mango seeds with their flesh in another / Washed seeds on wet tissue, and seeds in guava flesh on wet tissue, both in the same warm room / Only the seeds in guava flesh, because that is what you want to know about  
    **Answer:** Washed seeds on wet tissue, and seeds in guava flesh on wet tissue, both in the same warm room. *Why:* In a fair test, only one thing changes. Here it is the guava flesh. The tissue, the water and the room stay the same. Without washed seeds to compare, you could not tell what the flesh did.
 6. (mcq) In the Juice Test, why do we put 10 seeds in each box and not just 1?  
-   Options: Because 10 is a nice number / Because any one seed might not sprout anyway, so 1 seed could fool us / Because tomatoes have 10 seeds / To make the box full  
+   Options: Because any one seed might not sprout anyway, so 1 seed could fool us / Because 10 is a nice number / Because tomatoes have 10 seeds / To make the box full  
    **Answer:** Because any one seed might not sprout anyway, so 1 seed could fool us. *Why:* One seed might be damaged or not ready. With 10 seeds in each box, a big difference between the boxes is unlikely to be just luck.
 7. (mcq) Why do many plants grow sweet, juicy fruit around their seeds?  
    Options: To feed people / So that animals eat the fruit and carry the seeds to new places / To keep the seeds warm / So the seeds can drink the juice  
    **Answer:** So that animals eat the fruit and carry the seeds to new places. *Why:* Plants cannot carry their seeds. Animals eat the sweet flesh and drop the seeds far away. 'So the seeds can drink the juice' is the opposite of what happens: the juice holds seeds back.
 8. (mcq) A hornbill eats wild figs in a forest, then rests in a faraway tree. How can this help the fig tree?  
-   Options: Fig seeds in her droppings can sprout far from the parent tree / The hornbill waters the fig tree / The hornbill pollinates the figs / It cannot, because fig seeds are always digested  
+   Options: The hornbill waters the fig tree / The hornbill pollinates the figs / It cannot, because fig seeds are always digested / Fig seeds in her droppings can sprout far from the parent tree  
    **Answer:** Fig seeds in her droppings can sprout far from the parent tree. *Why:* Small fig seeds pass through a bird's gut unharmed. Far from the parent tree, there is more light and space. Fig wasps, not hornbills, pollinate figs.
 9. (mcq) Why does a peepal tree need fig wasps?  
-   Options: They eat pests on her leaves / They are the only animals that can get inside her figs to pollinate the hidden flowers / They carry her seeds / They water her roots  
+   Options: They are the only animals that can get inside her figs to pollinate the hidden flowers / They eat pests on her leaves / They carry her seeds / They water her roots  
    **Answer:** They are the only animals that can get inside her figs to pollinate the hidden flowers. *Why:* A peepal's flowers are inside her figs. Only the tiny fig wasp can squeeze in through the hole and carry pollen to them.
 10. (mcq) What does the fig wasp get from the fig?  
-   Options: Nothing / A place for her young to grow up / Water / A ride to a new tree  
+   Options: Nothing / Water / A place for her young to grow up / A ride to a new tree  
    **Answer:** A place for her young to grow up. *Why:* The mother wasp lays her eggs inside the fig, and her young grow up there. Both partners are helped, so this is mutualism.
 11. (mcq) Farmers spray a poison on their fields, and many bees die. What will most likely happen to the farmers' mustard crop?  
    Options: It will grow better / Fewer flowers will make seeds, because fewer bees carry pollen / Nothing will change / The mustard will turn into weeds  
    **Answer:** Fewer flowers will make seeds, because fewer bees carry pollen. *Why:* Mustard flowers make more seeds when bees carry their pollen. Harming the bees harms the crop too.
 12. (mcq) You find a small spider in your room. Which is a way to practise ahimsa?  
-   Options: Squash the spider with a slipper / Catch the spider with a cup and a card, and carry her outside / Spray the spider / Leave a light on so the spider goes away  
+   Options: Catch the spider with a cup and a card, and carry her outside / Squash the spider with a slipper / Spray the spider / Leave a light on so the spider goes away  
    **Answer:** Catch the spider with a cup and a card, and carry her outside. *Why:* Ahimsa means not harming any living being. Cup and card moves a spider without hurting her. Spiders eat mosquitoes and flies, so she helps others too.
 
 ## Applications
@@ -610,7 +663,7 @@ Meenakshi thought of the tiny wasps, somewhere in the city, flying from fig to f
 - Bees on drumstick or mango flowers in spring.
 - Squirrels and parrots pecking at ripe guavas on a tree.
 - A morning kolam drawn with rice flour, with ants carrying away the grains.
-- Bee boxes along mustard fields in West Bengal and Rajasthan, or in litchi orchards in Bihar.
+- Bee boxes along mustard fields or in fruit orchards.
 - Kapok cotton, called ilavam panju in Tamil, inside an old pillow. It comes from a tree whose night flowers are visited by fruit bats.
 
 ## Open questions
@@ -655,11 +708,17 @@ Everybody Eats (sci.ecology.L3): Topic-level song for Living in harmony L3
 - [TED-Ed lesson: Are there really dead wasps in figs?](https://ed.ted.com/lessons/are-there-really-dead-wasps-in-figs-carolyn-beans) · interactive: The fig wasp video with questions to think about afterwards.
 - [Thimmamma Marrimanu, a giant banyan tree](https://en.wikipedia.org/wiki/Thimmamma_Marrimanu) · place · Anantapur district, Andhra Pradesh: One of the biggest banyan trees in the world, spreading over about five acres. Look for the birds eating her figs.
 - [The Great Banyan, Acharya Jagadish Chandra Bose Indian Botanic Garden](https://en.wikipedia.org/wiki/The_Great_Banyan) · place · Howrah, near Kolkata, West Bengal: A banyan so big she looks like a forest. Her main trunk was removed long ago, but the tree lives on through thousands of roots that grew down from her branches.
-- [A fig tree near you]() · place · Your street, a temple or a park: Find a peepal, banyan or fig tree with ripe figs. Watch for ten minutes and count the birds that come. Open one fig and look for the tiny flowers inside.
+- A fig tree near you · place · Your street, a temple or a park: Find a peepal, banyan or fig tree with ripe figs. Watch for ten minutes and count the birds that come. Open one fig and look for the tiny flowers inside.
 
 ## Things to buy
 - [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): To see the tiny white roots as tomato seeds sprout, and the small seeds inside fruits. Any cheap hand lens works. Used in e1, e2, a1. 
 - [A pot about 25 centimetres across, and a small bag of potting soil](https://www.amazon.in/s?k=potting+soil+mix) (material): For growing the sprouted tomato seeds into plants. A big paint tin with holes in the base works too. Any plant nursery sells potting soil. Used in p1. 
+- [I Contain Multitudes by Ed Yong](https://www.amazon.in/s?k=I+Contain+Multitudes+Ed+Yong) (book): A science writer's lively account of the microbes that live with animals and people, and how they help us. Used in a1. A book for the parent to read from, a few pages at a time, aloud. Children who want to read it themselves are welcome to. (Adult (read short parts aloud))
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in Design a Seed That Hitches a Ride. About ₹20 to ₹50. Torn clean cloth works. Used in c1. Get it before Design a Seed That Hitches a Ride.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Waiting or Dead? Wash the juice seeds, The Fruit Bowl Question: where would these seeds go?, Grow a Tomato Plant and Be Her Bee. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e2, a1, p1, c1. Get it before Waiting or Dead? Wash the juice seeds.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in The Juice Test: why don't seeds sprout inside a tomato?, Waiting or Dead? Wash the juice seeds. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e1, e2. Get it before The Juice Test: why don't seeds sprout inside a tomato?.
+- [Postcards or plain cards](https://www.amazon.in/s?k=blank+postcards) (material): Used in Cup and Card: move a small creature without harming them. About ₹5 to ₹20. Cut card from a cereal box. Used in a2. Get it before Cup and Card: move a small creature without harming them.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name one thing plants give animals. → Food, shelter or oxygen.

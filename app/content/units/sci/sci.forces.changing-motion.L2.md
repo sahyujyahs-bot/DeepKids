@@ -1,9 +1,9 @@
 # Three things a force can change: shape, speed and direction
 `sci.forces.changing-motion.L2`
 
-**Summary.** A marble rolls round a curved card wall, then shoots off straight where the wall ends. Why? In this unit you will crumple and bend foil, race a ball down steeper and flatter ramps, and bend a marble's path with a wall, then sort what a push or pull changed.
+**Summary.** A marble rolls round a curved card wall, then shoots off straight where the wall ends. Why? In this lesson you will crumple and bend foil, race a ball down steeper and flatter ramps, and bend a marble's path with a wall, then sort what a push or pull changed.
 
-**Intro.** *Roll a ball across the floor. Without touching the ball, can you make it turn a corner?* A rolling ball goes in a straight line until something pushes it sideways. A wall, a hand or a puff of air can turn it. Pushes and pulls can also squash things and stretch them. They can make things go faster or slower. In this unit you find all three things a force can change: shape, speed and direction. Then you find out what a ball does when the wall that is turning it suddenly ends.
+**Intro.** *Roll a ball across the floor. Without touching the ball, can you make it turn a corner?* A rolling ball goes in a straight line until something pushes it sideways. A wall, a hand or a puff of air can turn it. Pushes and pulls can also squash things and stretch them. They can make things go faster or slower. In this lesson you find all three things a force can change: shape, speed and direction. Then you find out what a ball does when the wall that is turning it suddenly ends.
 
 ## Learning outcomes
 0. By the end I can say that a force is a push or a pull, and that a force can change the shape, the speed or the direction of a thing.
@@ -22,6 +22,7 @@
 - **Speed**: Speed is how fast something is moving. *e.g.* A cycle going downhill has more speed than a cycle going uphill.
 - **Direction**: The direction of a moving thing is the way it is going: forwards, back, left, right, up or down. *e.g.* An auto-rickshaw turning left at a corner changes its direction.
 - **Spring back**: A thing springs back when it goes back to its old shape by itself after a push or a pull stops. *e.g.* Squeeze a sponge and let go. It springs back.
+- **Air resistance**: Air resistance is the push of air against something that moves through it. It slows the moving thing down. The wider the thing is, the more air it pushes against. *e.g.* A sheet of paper falls slowly because the air pushes up against its wide flat shape. The same sheet crumpled into a ball drops fast.
 
 ## Explanations
 ### A force is a push or a pull · *defined*
@@ -102,10 +103,10 @@ We have changed shapes, sped a ball up on a ramp and turned a marble with a card
 - *what is life:* Animals turn by pushing on something. A crow pushes the air, an ant pushes the ground, a fish pushes the water, and you push the floor. The crow chooses when to turn, and the air pushes back on her wings.
 - *what is this world:* The Moon goes round the Earth, and the Earth goes round the Sun, because something pulls them all the time. Without that pull, each would fly off in a straight line.
 
-Nothing in the Bend Wall test turned by itself. The marble turned because the wall pushed it, and the wall felt the marble push back. Every change of shape, speed or direction in this unit came from two things meeting and pushing on each other. A rolling marble, a turning crow and the circling Moon are all changed by what they meet. Everything that took part, the marble and the wall too, is part of one conscious world, sensing and answering what it meets.
+Nothing in the Bend Wall test turned by itself. The marble turned because the wall pushed it, and the wall felt the marble push back. Every change of shape, speed or direction in this lesson came from two things meeting and pushing on each other. A rolling marble, a turning crow and the circling Moon are all changed by what they meet. Everything that took part, the marble and the wall too, is part of one conscious world, sensing and answering what it meets.
 
 - **Prashastapada, Padarthadharmasangraha (Vaisheshika school, India):** Prashastapada described three kinds of samskara. A samskara is a tendency that a thing keeps after something has acted on it. Vega is the tendency of a moving thing to keep moving. Sthitisthapaka is the tendency of a bent thing to spring back. Bhavana is the impression an experience leaves in the mind, which lets us remember. (Vega is the marble rolling straight on after the wall ends. Sthitisthapaka is the rubber band springing back in Foil Shapes. Prashastapada put both in the same family as memory.)
-- **Dhammapada, verse 277:** “Sabbe saṅkhārā aniccā,” The Buddha taught that all conditioned things are impermanent. A conditioned thing is one that comes about through causes, and so it changes when the causes change. (In every test in this unit, a change had a cause you could find: a hand, a wall or the pull of the Earth. When the wall's push ended, the marble's path changed too.)
+- **Dhammapada, verse 277:** “Sabbe saṅkhārā aniccā,” The Buddha taught that all conditioned things are impermanent. A conditioned thing is one that comes about through causes, and so it changes when the causes change. (In every test in this lesson, a change had a cause you could find: a hand, a wall or the pull of the Earth. When the wall's push ended, the marble's path changed too.)
 - Science (settled): A moving thing keeps going straight at the same speed unless a force acts on it. Isaac Newton wrote this down as his first law in 1687.
 - Science (open): Scientists do not agree on a deeper reason why moving things behave this way. Ernst Mach suggested in 1883 that it depends on all the matter in the universe.
 - Other view, Many physicists: Many physicists say there is no awareness in a marble or a wall. They describe the push between them as tiny electric forces between particles, and say nothing more is going on.
@@ -190,12 +191,49 @@ Kavya looked at the auto's front wheel, turned to the left. She looked at the ro
 
 "Paati!" they both called.
 
-**For the parent:** For the parent: Arjun thinks a striker can only go straight, and that a wooden frame cannot push anything. Paati shows him that the frame pushes the striker and turns it. Kavya adds that a wall pushes him when he leans on it. Every change in the striker's speed or direction comes from a push: a finger, a coin or the frame. The open question at the end has an answer the child can work out: the turned wheel pushes sideways on the road, and the road pushes the wheel back, which turns the auto.
 
-- Ask: Why did the striker go faster when Arjun flicked it harder?
-- Ask: How did Paati get the striker to the black coin when the queen was in the way?
-- Ask: What pushed the striker when it changed direction?
-- Ask: What do you think pushed the auto-rickshaw round the corner?
+## Another story: The Clay That Remembers
+**
+
+In Manamadurai, a town in Tamil Nadu where the potters' wheels hum from morning till night, there lived a girl called Lakshmi and her grandmother, Paati. Paati's hands were brown and cracked, like a dry riverbed in May, and they could do wonderful things. Lakshmi had watched them a thousand times: a lump of wet grey clay on the spinning wheel, Paati's thumbs pressing down into its middle, her fingers pulling up its sides, and a pot rising out of nothing like a flower opening.
+
+"How does the clay know what to become?" Lakshmi asked.
+
+"I don't know what clay knows," said Paati. "But I know this. Every push and every pull my hands give it, the clay keeps. A rubber ball doesn't keep anything. Squeeze it, let go, and it jumps back, as if nothing happened. But clay keeps every touch."
+
+Lakshmi tried it. She pressed her thumb into a soft lump of clay. When she lifted it, her thumbprint was still there, with every tiny swirl. She squeezed a rubber ball in her other hand and let go. Pop, back to round. The ball was round again, as if she had never touched it.
+
+After that she tested everything. The hair band on her plait stretched when she pulled it, and went small again when she let go. The tin lid she sat on by mistake stayed bent. Her own cheek, when Paati pinched it, sprang back at once, which made Paati laugh. "You are made of rubber," she said. "Good. Children should spring back."
+
+"Can I make the clay lose a shape, if I want to?" Lakshmi asked.
+
+"Only while it's wet," said Paati. She squashed the thumbprint flat with the heel of her hand, and it was gone. "Push it gently and it changes a little. Push it hard and it changes a lot. But once it goes into the fire, it keeps its shape for ever. The fire turns soft clay as hard as stone."
+
+That rainy season Paati grew tired, and then she grew ill. She stopped going to the wheel. The house was quiet in a way Lakshmi didn't like. When the paddy fields turned gold, Paati died.
+
+Lakshmi didn't want to go near the wheel after that. For weeks it stood still under its cloth. One day her mother asked her to fetch the big old water pot from the storeroom, the one that had been in the family longer than anyone could say. It was heavy and cool, and as Lakshmi carried it into the light, she saw something on its side, near the bottom, that she had never noticed before.
+
+A handprint. A small one, pressed into the clay before it was baked, a long, long time ago. And next to it, a bigger one.
+
+"Whose hands are these?" she whispered.
+
+Her mother knelt beside her and put her finger in the small handprint. "That," she said, "is Paati's hand, when she was about your age. And that big one is her mother's. She was teaching Paati, like Paati taught you."
+
+Lakshmi put her own hand next to the small one. It was almost exactly the same size. The clay had kept Paati's push for sixty years. The fire had made it hard, so the handprint could never be squashed out again.
+
+The next morning Lakshmi took the cloth off the wheel. She wet the clay the way Paati had shown her. She pushed her thumbs into its middle and pulled its walls up, slowly, wobbly, a little lopsided. It wasn't a good pot. But before it went into the kiln, she pressed her hand into its side, and her mother pressed hers next to it.
+
+"Some things spring back," Lakshmi said, looking at the two handprints. "And some things keep the shape you give them."
+
+Her mother didn't answer. She just held Lakshmi's clay-covered hand for a long time.
+
+**For the parent:** Forces change shape. Elastic things (a rubber ball, a hair band, a child's cheek) spring back when the force stops. Plastic things (wet clay, a bent tin lid) keep the new shape. Firing in a kiln makes clay hard, so its shape can't change any more. The story turns on the old handprint on the water pot.
+
+- Ask: What's the difference between the clay and the rubber ball?
+- Ask: Why was Paati's handprint still there after sixty years?
+- Ask: Find three things at home that spring back after a push, and three that stay changed.
+- Ask: What did Paati mean when she said children should spring back?
+- Ask: The handprint stayed for sixty years. What else around you still shows a push or a press from long ago?
 
 ## Games
 ### g1 · Shape, Speed or Direction? (15 min)
@@ -402,6 +440,27 @@ Kavya looked at the auto's front wheel, turned to the left. She looked at the ro
   *Child mode:* Turn the ball three ways. Write one line about each. Read your book to someone.
   - Ask: What is the same about every page of your book? (good: A push or a pull made every change.; There is a force on every page.; Something pushed each thing.)
   - Wait: Day 3
+### p1x · Design a Catapult: does a bigger bend throw further? (45 min, 3 days)
+- **safety:** Shoot only at an empty floor or a wall. Never aim at a person, an animal or a face. Keep fingers out of the rubber bands when they are stretched.
+- **record:** A chart with three rows for how far you press the spoon. Write how far the ball went on each of three tries.
+- **schedule:** day 1: Build the catapult and shoot a first ball to check it works. (15 min); day 2: Test two press depths, three tries each, and measure. (15 min); day 3: Test a third depth, fill in the chart and explain what you found. (15 min)
+- **s1 (15 min)**  
+  *Parent does:* 1. Stack six ice-cream sticks and put a rubber band round each end. 2. Lay the handle of the plastic spoon on top of the stack, with the spoon's bowl sticking out past the edge. 3. Wind two rubber bands tightly round the handle and the stack. 4. Tape the stack to the table edge. 5. Put the paper ball in the bowl, press the bowl down with one finger and let go.  
+  *Parent says:* The spoon is a spring. When we press it down it bends, and when we let go it springs back and throws the ball.  
+  *Child mode:* Tie the spoon to the sticks. Put the paper ball in the spoon. Press down and let go.
+  - Note: If the spoon cracks, use a more bendy one. If the spoon is too stiff to throw, use a thinner plastic spoon. A ball that just drops means the spoon was not bent enough or the rubber bands were loose.
+- **s2 (15 min)**  
+  *Parent does:* 1. Mark the starting spot on the floor. 2. Press the spoon down until its bowl is 3 centimetres above the table, and let go. 3. Measure where the ball lands. 4. Do it three times and write down each distance. 5. Do the same with the bowl pressed all the way to the table.  
+  *Parent says:* We change only one thing, how far we press. The same spoon, the same ball and the same table. We try three times, because one try can be a fluke.  
+  *Child mode:* Press the spoon down a little and let go. Measure how far the ball went. Do it three times. Then press all the way down and do it three times.
+  - Ask: Which press sent the ball furthest? (good: Pressing all the way to the table.; The bigger bend threw the ball further.)
+  - Note: Measure from the spot under the spoon to where the ball first lands. Use heel-to-toe steps if you have no tape.
+- **s3 (15 min)**  
+  *Parent does:* 1. Press the bowl halfway down and shoot three times. 2. Fill in the chart. 3. Ask your child to explain which part of the catapult is bending and springing back.  
+  *Parent says:* The spoon's handle bends and then springs back. The more it bends, the more springy energy it stores, so the more it pushes on the ball.  
+  *Child mode:* Press halfway and shoot three times. Fill in the chart. Which part bends and springs back? Tell your grown-up why a bigger bend throws further.
+  - Ask: What happens to the speed of the ball when the spoon bends more? (good: The ball goes faster, so it travels further.; A bigger push makes a bigger change in the ball's motion.)
+  - Check: You press the spoon further down. What do you expect? → **The ball goes further**
 
 ## Challenges
 ### c1 · Round the Bend: get the ball into the tumbler (20 min)
@@ -477,7 +536,7 @@ Kavya looked at the auto's front wheel, turned to the left. She looked at the ro
 2. (write) A marble is running round inside the rim of a steel plate. Suppose the rim had a gap cut in it halfway round. What would the marble do when it reached the gap? Why?  
    **Answer:** It would roll out through the gap in a straight line, because the rim stops pushing it there.. *Why:* A strong answer uses the Bend Wall result: where the wall or rim ends, the push ends, and the marble goes straight on.
 3. (mcq) A girl swings a sock tied on a string round and round, then lets go of the string. Which way does the sock fly?  
-   Options: Straight off, the way it was going at that moment / Round in a circle, as before / Straight back to her hand  
+   Options: Round in a circle, as before / Straight back to her hand / Straight off, the way it was going at that moment  
    **Answer:** Straight off, the way it was going at that moment. *Why:* The string was pulling the sock inwards to make it go round. When she lets go, nothing pulls it, so it flies off straight, like the marble leaving the wall.
 4. (draw) Design a marble track that makes a marble turn two corners. Draw the walls and the marble's path.  
    **Answer:** Two curved or slanted walls, with the path bending at each wall and going straight between them.. *Why:* A strong design puts a wall wherever the path must turn, and shows straight paths between the walls.
@@ -487,10 +546,10 @@ Kavya looked at the auto's front wheel, turned to the left. She looked at the ro
    **Answer:** pedals harder → Speeds up; squeezes the brakes → Slows down; turns the handle → Turns; rolls down a hill → Speeds up; rides up a hill without pedalling harder → Slows down. *Why:* Pedalling and going downhill give a push or pull forwards. Brakes and going uphill work against the motion. Turning the handle makes the road push the wheel sideways.
 7. (count) In one Ramp Race from 2 books, a ball rolled 5, 6 and 5 hand-spans. Which number came up most often?  
    **Answer:** 5. *Why:* 5 came up twice and 6 only once. Trying three times shows us the usual result, even if one try is a little different.
-8. (write) Many grown-ups think a ball rolling out of a curved pipe keeps curving. Which test in this unit shows what really happens? What does it show?  
+8. (write) Many grown-ups think a ball rolling out of a curved pipe keeps curving. Which test in this lesson shows what really happens? What does it show?  
    **Answer:** The Bend Wall test. When the wall ended, the marble went straight on. It does not keep curving.. *Why:* A strong answer names the test and the evidence, and says that the ball goes straight once nothing pushes it sideways.
 9. (mcq) Which of these needs a force: a ball speeding up, a ball slowing down, or a ball turning?  
-   Options: Only speeding up / Speeding up and slowing down, but not turning / All three  
+   Options: Only speeding up / All three / Speeding up and slowing down, but not turning  
    **Answer:** All three. *Why:* Speeding up, slowing down and turning are all changes in how a thing moves. Every change needs a push or a pull.
 10. (label) On each picture, draw an arrow where the push is: a hand squeezing a lemon, a rolling pin flattening dough, a wall turning a ball.  
    **Answer:** ['arrow from the fingers into the lemon', 'arrow from the rolling pin down into the dough', 'arrow from the wall into the ball, pointing away from the wall']. *Why:* A strong answer shows each push going from the thing that pushes into the thing that changes.
@@ -508,30 +567,30 @@ Kavya looked at the auto's front wheel, turned to the left. She looked at the ro
    Options: Its shape / Its colour / Nothing  
    **Answer:** Its shape. *Why:* Your hands squashed the foil, so its shape changed.
 3. (mcq) Which of these goes back to its old shape when you let go?  
-   Options: A stretched rubber band / Crumpled foil / Dough pressed flat  
+   Options: Crumpled foil / Dough pressed flat / A stretched rubber band  
    **Answer:** A stretched rubber band. *Why:* A rubber band springs back. Foil and dough keep their new shape.
 4. (mcq) The same ball is let go on a ramp on 1 book and on a ramp on 3 books. Which rolls further?  
-   Options: The ball from 3 books / The ball from 1 book / Both the same  
+   Options: The ball from 1 book / Both the same / The ball from 3 books  
    **Answer:** The ball from 3 books. *Why:* The steeper ramp lets gravity speed the ball up more, so it rolls further.
 5. (mcq) A ball rolls off the ramp onto a rug and slows down. What slows it?  
    Options: The rug rubbing against it (friction) / Gravity pushing it up / Nothing  
    **Answer:** The rug rubbing against it (friction). *Why:* The rug rubs against the ball. This rubbing is called friction, and it slows the ball down.
 6. (mcq) A ball is rolling across the floor. You push it gently from its side. What happens?  
-   Options: It turns / It goes faster in the same direction / It changes shape  
+   Options: It goes faster in the same direction / It turns / It changes shape  
    **Answer:** It turns. *Why:* A push from the side changes the ball's direction.
 7. (mcq) You roll a ball straight at a wall. What does it do after it hits?  
-   Options: It comes back towards you / It goes through the wall / It goes off to the side  
+   Options: It goes through the wall / It goes off to the side / It comes back towards you  
    **Answer:** It comes back towards you. *Why:* The wall pushes the ball back the way it came.
 8. (mcq) A marble rolls round the inside of the rim of a steel plate. What keeps it going round?  
-   Options: The rim pushes it inwards all the time / The marble likes going round / The plate is heavy  
+   Options: The marble likes going round / The plate is heavy / The rim pushes it inwards all the time  
    **Answer:** The rim pushes it inwards all the time. *Why:* The rim pushes the marble inwards at every moment. That push bends its path into a circle.
 9. (mcq) In the Bend Wall test, you held a finger on the outside of the wall. What did your finger feel?  
-   Options: The marble knocking against the wall / The wall pulling the marble / Nothing at all  
+   Options: The wall pulling the marble / Nothing at all / The marble knocking against the wall  
    **Answer:** The marble knocking against the wall. *Why:* The wall pushes the marble sideways, and the marble pushes back on the wall, so a finger on the wall feels a small knock.
 10. (truefalse) True or false: a bus going round a corner at the same speed needs no force.  
    **Answer:** False. *Why:* False. The bus changes direction, and that needs a force. The road pushes on its turned wheels.
 11. (mcq) In the Bend Wall test, you guessed the marble would keep curving. It went straight. What is the best thing to do?  
-   Options: Write down what really happened, and think about why / Change your guess in the table so it looks right / Stop doing the test  
+   Options: Change your guess in the table so it looks right / Write down what really happened, and think about why / Stop doing the test  
    **Answer:** Write down what really happened, and think about why. *Why:* A wrong guess is useful. Writing what really happened, and thinking about why, is how scientists learn.
 
 ## Applications
@@ -543,10 +602,10 @@ Kavya looked at the auto's front wheel, turned to the left. She looked at the ro
 
 ## Spotted around us
 - An auto-rickshaw at a street corner turns its front wheel, and the road pushes it round the bend.
-- On a curve in a Mumbai local train, you sway to the side. Your body tries to go straight while the train turns.
-- In a kitchen in Kolkata, a cook presses balls of dough flat to make luchis.
-- On Uttarayan in Gujarat, a flier pulls the kite string, and the kite swoops and turns.
-- At the Thiruvarur temple car festival in Tamil Nadu, thousands of people pull thick ropes together to start the huge wooden chariot rolling.
+- On a curve in a train, you sway to the side. Your body tries to go straight while the train turns.
+- In a kitchen, a cook presses balls of dough flat to make luchis.
+- On Uttarayan, a flier pulls the kite string, and the kite swoops and turns.
+- At a temple car festival, thousands of people pull thick ropes together to start a huge wooden chariot rolling.
 
 ## Open questions
 - **Why does a moving thing keep going in a straight line when nothing pushes it?** Isaac Newton described this rule, and it works everywhere we look. But nobody knows why the world works this way. Some scientists think it may depend on all the matter in the universe.
@@ -585,11 +644,17 @@ Squash It, Speed It, Turn It (sci.forces.L2):
 
 ## Links
 - [Forces and Motion: Basics (PhET simulation)](https://phet.colorado.edu/en/simulations/forces-and-motion-basics) · simulation: For the parent and child together: push a cart or a crate with a person and watch how the push changes its speed.
-- [Birla Industrial and Technological Museum]() · place · Kolkata: A science museum with hands-on galleries on motion and machines.
-- [Kerala State Science and Technology Museum]() · place · Thiruvananthapuram: A science museum and science park with exhibits on forces and motion.
+- Birla Industrial and Technological Museum · place · Kolkata: A science museum with hands-on galleries on motion and machines.
+- Kerala State Science and Technology Museum · place · Thiruvananthapuram: A science museum and science park with exhibits on forces and motion.
 
 ## Things to buy
 - [a small packet of glass marbles (goli)]() (material): Marbles roll smoothly along a card wall, so the Bend Wall result is easy to see. A ping-pong ball or any small hard ball works too. Used in e1, c1. Use them in the Bend Wall test and the Round the Bend challenge. Keep them away from children under 3.
+- [Rosie Revere, Engineer by Andrea Beaty](https://www.amazon.in/s?k=Rosie+Revere+Engineer) (book): A girl builds things from junk, fails, and tries again. It shows the child that a failed try is part of making something work. Used in a1. Read it together after the catapult project.
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in Design a Catapult: does a bigger bend throw further?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in p1x. Get it before Design a Catapult: does a bigger bend throw further?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Design a Catapult: does a bigger bend throw further?. About ₹10 to ₹30. Any school ruler is fine. Used in p1x. Get it before Design a Catapult: does a bigger bend throw further?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Bend Wall: where does the marble go when the wall ends?, The Ramp Race: does a steeper ramp make a faster ball?, Design a Catapult: does a bigger bend throw further?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e1, e2, p1x. Get it before The Bend Wall: where does the marble go when the wall ends?.
+- [Wooden ice-cream sticks (a pack)](https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack) (material): Used in Design a Catapult: does a bigger bend throw further?. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in. Used in p1x. Get it before Design a Catapult: does a bigger bend throw further?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is a push or a pull called? → A force.
@@ -603,12 +668,12 @@ Squash It, Speed It, Turn It (sci.forces.L2):
 
 ## Plan
 - Start options: intro, a1, e1, story, g1, cards
-- Default order: intro → a1 → summary → terms → e1 → explanations → roots → quiz → story → e2 → g1 → ws-core → a2 → a3 → a4 → agreed → challenging → g2 → p1 → c1 → ws-stretch → big_questions → videos → how_we_found_out → ws-challenge → open_questions
+- Default order: intro → a1 → summary → terms → e1 → explanations → roots → quiz → story → e2 → g1 → ws-core → a2 → a3 → a4 → agreed → challenging → g2 → p1 → c1 → ws-stretch → big_questions → videos → how_we_found_out → ws-challenge → open_questions → p1x
 - Core: a1, e1, e2, g1, ws-core
 
 ## Sources
 - ideas/by_topic/forces-and-movement.md, Motion in 1D, 2D, 3D: 'draw curved paths on the floor and roll balls' became the Bend Wall test and the Round the Bend challenge. Everyday forces and Friction: 'mime of brakes slowing a bicycle' became the cyclist questions. The founder's gravity notes on moving straight on forever in empty space are behind the card on why moving things keep going straight.
-- Cambridge Primary Science Stage 2, Unit 2 (2.2 Changing shape, 2.3 Changing speed, 2.4 Changing direction). The Level 1 unit on this subtopic uses the Tap Test, the Flick Test, the ceiling fan and Window Watch. The Level 3 unit uses dough shaping, the clay drop, wet ball prints, the sponge and ruler, and the paper bridge. None of those are repeated here: this unit uses Foil Shapes, the Bottle Squeeze, the Ramp Race, Bounce Off the Wall and the Bend Wall.
+- Cambridge Primary Science Stage 2, Unit 2 (2.2 Changing shape, 2.3 Changing speed, 2.4 Changing direction). The Level 1 unit on this subtopic uses the Tap Test, the Flick Test, the ceiling fan and Window Watch. The Level 3 unit uses dough shaping, the clay drop, wet ball prints, the sponge and ruler, and the paper bridge. None of those are repeated here: this lesson uses Foil Shapes, the Bottle Squeeze, the Ramp Race, Bounce Off the Wall and the Bend Wall.
 - Newton's first and second laws; circular motion needs a centripetal force (here the normal force of the wall or rim). Any introductory physics text.
 - M. McCloskey, A. Caramazza and B. Green, 'Curvilinear motion in the absence of external forces: naive beliefs about the motion of objects', Science 210 (1980) 1139-1141.
 - Robert Hooke's letter to Isaac Newton of November 1679, proposing that orbital motion is a straight tangential motion bent by an attraction to the central body. Newton, Philosophiae Naturalis Principia Mathematica (1687). Émilie du Châtelet, Principes mathématiques de la philosophie naturelle (1759), her French translation of the Principia with her own commentary.

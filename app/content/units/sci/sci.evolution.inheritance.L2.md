@@ -1,9 +1,9 @@
 # Alike and different: features we inherit and skills we learn
 `sci.evolution.inheritance.L2`
 
-**Summary.** Eye colour comes from your parents, but speaking Telugu or drawing a kolam does not. Why? In this unit you will test with paper balls and a bucket whether practice can change a skill, ask your family what they inherited and what they learned, and sort things in a game.
+**Summary.** Eye colour comes from your parents, but speaking Telugu or drawing a kolam does not. Why? In this lesson you will test with paper balls and a bucket whether practice can change a skill, ask your family what they inherited and what they learned, and sort things in a game.
 
-**Intro.** *Hold out your thumb. Can you make it longer by practising? Now think of throwing a ball. Can you get better at that by practising?* Some things about you came from your parents before you were born. Other things you learned after you were born. They feel the same, because they are all part of you. In this unit you find out which is which. You test it with a bucket, a few paper balls and a strip of paper. Then you ask your family what they inherited, what they learned, and who taught them.
+**Intro.** *Hold out your thumb. Can you make it longer by practising? Now think of throwing a ball. Can you get better at that by practising?* Some things about you came from your parents before you were born. Other things you learned after you were born. They feel the same, because they are all part of you. In this lesson you find out which is which. You test it with a bucket, a few paper balls and a strip of paper. Then you ask your family what they inherited, what they learned, and who taught them.
 
 ## Learning outcomes
 0. By the end I can say what it means to inherit a feature, and name some features I inherited.
@@ -357,7 +357,7 @@ Meera grinned and gave him the flour. 'Start with five dots,' she said.
 2. (write) Say it to a grown-up, who writes it down. A girl's Amma is a wonderful cook. Was the girl born able to make rasam? What will she need to do?  
    **Answer:** No. She will need someone to show her, and she will need to practise many times.. *Why:* A strong answer says cooking is a skill, so the girl must learn it. Her Amma can teach her.
 3. (mcq) Very young babies can hear the difference between the sounds of every language. What happens by the time they are one year old?  
-   Options: They get better at the sounds of the language around them, and lose some others / They can hear no sounds at all / They can speak every language  
+   Options: They can hear no sounds at all / They can speak every language / They get better at the sounds of the language around them, and lose some others  
    **Answer:** They get better at the sounds of the language around them, and lose some others. *Why:* Janet Werker found that babies of 6 to 8 months could tell two Hindi 't' sounds apart, and by 10 to 12 months most could not. Their ears tune in to the language they hear.
 4. (perspective) Grace and her friend talk about the friend's uncle. He lifts heavy sacks at the market every day, and his arms are very strong. He and his wife are expecting a baby.  
    **Answer:** Grace is right. Muscles built by work are not passed on at birth. Scientists tested this with mice: August Weismann cut the tails off mice, and their babies were still born with full tails. Grace's friend is right that strong parents often have strong children, because genes help shape a body.. *Why:* A strong answer picks Grace and is fair to her friend's idea.
@@ -369,7 +369,7 @@ Meera grinned and gave him the flour. 'Start with five dots,' she said.
    Options: Speaking Marathi / Swimming / The colour of your eyes / Writing your name  
    **Answer:** 2. *Why:* Eye colour comes from genes. Speaking Marathi, swimming and writing are learned.
 8. (mcq) A girl has two tall parents. She eats good food and sleeps well. Why is she tall?  
-   Options: Only because of her genes / Only because of her food / Because of her genes and her food  
+   Options: Only because of her genes / Because of her genes and her food / Only because of her food  
    **Answer:** Because of her genes and her food. *Why:* Height comes from genes and from good food and health, so it is a bit of both.
 9. (write) Say it to a grown-up, who writes it down. Scientists dropped a touch-me-not plant gently, again and again. At first the plant folded the leaves. Later the plant kept the leaves open. Was this behaviour inherited, or learned? Why do you think so?  
    **Answer:** Learned. The plant changed during their own life, after many harmless drops.. *Why:* A strong answer says the change came after many drops in the plant's own life. So this was learned, not inherited.
@@ -383,19 +383,19 @@ Meera grinned and gave him the flour. 'Start with five dots,' she said.
 
 ## Quiz
 1. (mcq) A girl has curly hair like her Amma's. How did she get it?  
-   Options: She inherited it from her parents / She learned it / She practised it  
+   Options: She learned it / She inherited it from her parents / She practised it  
    **Answer:** She inherited it from her parents. *Why:* Curly hair comes from genes that she got from her parents.
 2. (mcq) A girl has long fingers like her grandmother, draws kolam like her grandmother, and speaks Tamil like her grandmother. Which one did she get from her grandmother when she was born?  
-   Options: Her long fingers / Her kolam skill / Her Tamil words  
+   Options: Her kolam skill / Her long fingers / Her Tamil words  
    **Answer:** Her long fingers. *Why:* Long fingers come through genes. Kolam and Tamil words are learned from the people around her.
 3. (mcq) A boy can swim across the pond. How did he get this skill?  
    Options: He was born with it / He learned it by practising / He got it from his Appa's genes  
    **Answer:** He learned it by practising. *Why:* Swimming is a skill. He learned it by practising.
 4. (mcq) In the Practice Test, why do we throw from the same line in every round?  
-   Options: So the test is fair / Because the bucket is heavy / So we can throw faster  
+   Options: Because the bucket is heavy / So the test is fair / So we can throw faster  
    **Answer:** So the test is fair. *Why:* If the line moved closer, more balls would go in, even without practice. Keeping it the same makes the test fair.
 5. (mcq) A baby boy's Amma speaks five languages. What will the baby speak on the day he is born?  
-   Options: All five languages / No language yet. He will learn from the people around him / Only English  
+   Options: All five languages / Only English / No language yet. He will learn from the people around him  
    **Answer:** No language yet. He will learn from the people around him. *Why:* Languages are learned. A baby is born able to learn any language, but speaks none on the first day.
 6. (mcq) In the 1880s, August Weismann cut the tails off mice. What tails did their babies have?  
    Options: Full tails / No tails / Half tails  
@@ -404,13 +404,13 @@ Meera grinned and gave him the flour. 'Start with five dots,' she said.
    Options: The colour of your eyes / How tall you grow / Speaking Odia  
    **Answer:** How tall you grow. *Why:* Height comes from genes and from food and health. Eye colour comes from genes. Speaking Odia is learned.
 8. (mcq) A young male zebra finch grows up alone and never hears another finch sing. What happens to his song?  
-   Options: It is a normal finch song / It comes out strange and broken / It sounds like a crow  
+   Options: It is a normal finch song / It sounds like a crow / It comes out strange and broken  
    **Answer:** It comes out strange and broken. *Why:* A young zebra finch learns his song from an older male. Without one to listen to, his song comes out strange.
 9. (mcq) Why do young chimpanzees watch their mothers fish for termites with a stick?  
-   Options: They learn how to do it by watching / They are bored / They already know how  
+   Options: They are bored / They learn how to do it by watching / They already know how  
    **Answer:** They learn how to do it by watching. *Why:* Young chimpanzees learn to fish for termites by watching their mothers, and then trying.
 10. (mcq) A girl's family has drawn rangoli for many generations. She is very good at it. What is the best reason?  
-   Options: She practised with her family for years / She was born knowing how / Rangoli is in her genes  
+   Options: She was born knowing how / Rangoli is in her genes / She practised with her family for years  
    **Answer:** She practised with her family for years. *Why:* Rangoli is a skill. It passes from person to person by teaching and practice, not through genes.
 
 ## Applications
@@ -457,11 +457,12 @@ What I Got and What I Learned (sci.evolution.L2): Topic-level song for Evolution
 
 ## Links
 - [Learn.Genetics: what are traits?](https://learn.genetics.utah.edu/content/basics/traits/) · interactive: For the parent: clear pages and pictures from the University of Utah on features that come from genes.
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: Hands-on science galleries, including ones on the human body.
-- [Birla Industrial and Technological Museum]() · place · Kolkata: Science galleries and shows for children, including the human body.
-- [Kerala State Science and Technology Museum]() · place · Thiruvananthapuram: Science galleries and a planetarium, with hands-on exhibits for children.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru: Hands-on science galleries, including ones on the human body.
+- Birla Industrial and Technological Museum · place · Kolkata: Science galleries and shows for children, including the human body.
+- Kerala State Science and Technology Museum · place · Thiruvananthapuram: Science galleries and a planetarium, with hands-on exhibits for children.
 
 ## Things to buy
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What does inherit mean? → To get a feature from your parents, through their genes.
@@ -478,7 +479,7 @@ What I Got and What I Learned (sci.evolution.L2): Topic-level song for Evolution
 
 ## Sources
 - ideas/by_topic/genes-and-inheriting-features.md: the science journal pages on a family tree with traits (p2 to p3) became the family survey, which adds a column for skills and who taught them. The SCI card on Janaki Ammal became an application. The notebook's RNA story and most cards are for older levels.
-- Cambridge Primary Science Stage 2, 4.3 Inheriting characteristics: animals inherit characteristics from both parents and look similar but not identical. This unit adds the other half of the covers line: what we learn.
+- Cambridge Primary Science Stage 2, 4.3 Inheriting characteristics: animals inherit characteristics from both parents and look similar but not identical. This lesson adds the other half of the covers line: what we learn.
 - Weismann, A. (1889). Essays upon Heredity. He removed the tails of mice for five generations; all offspring had normal tails.
 - Lamarck, J.-B. (1809). Philosophie zoologique: inheritance of characters acquired by use and disuse.
 - Werker, J. F. and Tees, R. C. (1984). Cross-language speech perception: evidence for perceptual reorganization during the first year of life. Infant Behavior and Development 7: 49 to 63. English-learning infants discriminated the Hindi dental and retroflex stops at 6 to 8 months, and few did at 10 to 12 months.

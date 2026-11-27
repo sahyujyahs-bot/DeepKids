@@ -695,11 +695,11 @@
       "t": "mcq",
       "q": "A balloon on a bottle of sugar water and yeast swells. Why is that a strong hint of life?",
       "options": [
-       "Something is giving out gas, and the bottle without yeast gave out none",
        "Balloons always swell on bottles",
+       "Something is giving out gas, and the bottle without yeast gave out none",
        "The balloon is made of living material"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A fair comparison is the key. The same bottle without yeast stayed flat, so the yeast made the difference. Picking 'balloons always swell' misses the flat balloon on the bottle with no yeast."
      },
      "context": "In this step, you practise with the two bottle cards before the real game."
@@ -859,11 +859,11 @@
       "t": "mcq",
       "q": "A planet is 7 million kilometres from a star. Why might it be too hot around the Sun but just right around TRAPPIST-1?",
       "options": [
-       "TRAPPIST-1 is much dimmer than the Sun",
        "TRAPPIST-1 is bigger than the Sun",
+       "TRAPPIST-1 is much dimmer than the Sun",
        "Distance does not matter"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A dim star gives out far less light, so a planet can sit very close and stay cool. A bright star warms a planet at the same distance much more. Picking 'distance does not matter' misses that distance does matter, together with how bright the star is."
      },
      "context": "In this step, you compare the same distance around two different stars."
@@ -901,11 +901,11 @@
      "t": "mcq",
      "p": "Which is the best description of a biosignature?",
      "opts": [
-      "A sign that living things have been there, such as a gas that would not last without them",
       "A living creature seen through a telescope",
+      "A sign that living things have been there, such as a gas that would not last without them",
       "Any gas found in a planet's air"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A biosignature is a sign of life, not the life itself. It might be a gas, a chemical or a pattern that is hard to explain without life. Picking 'any gas' misses that most gases can be made without life.",
      "outcome": 3
     },
@@ -1021,11 +1021,11 @@
      "t": "mcq",
      "p": "A news story says 'Life found on a far planet'. What is the best first question to ask?",
      "opts": [
-      "What exactly was seen, and did other teams see it too?",
       "Who is the most famous person in the story?",
+      "What exactly was seen, and did other teams see it too?",
       "How many pictures does the story have?"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A claim is only as good as what was observed and whether others repeat it. Fame and pictures say nothing about whether it is true.",
      "outcome": 7
     },
@@ -1101,11 +1101,11 @@
      "t": "mcq",
      "p": "Which is the strongest sign of life on a faraway planet?",
      "opts": [
-      "Several gases that fit together, seen by several teams",
       "One gas seen once by one team",
-      "A picture of a rock that looks like a face"
+      "A picture of a rock that looks like a face",
+      "Several gases that fit together, seen by several teams"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Strong evidence comes from several signs that fit together and are repeated by different teams. One gas seen once may be an error, and shapes in pictures can fool us.",
      "outcome": 4
     },
@@ -1129,11 +1129,11 @@
      "t": "mcq",
      "p": "Oxygen and methane react with each other. Why are both still in Earth's air?",
      "opts": [
-      "Living things keep making both",
       "They do not react at all",
-      "Rain brings them back"
+      "Rain brings them back",
+      "Living things keep making both"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Left alone, oxygen and methane would react and fade away. They are still in our air because plants, algae and microbes keep making them. That is why the mix is a biosignature.",
      "outcome": 3
     },
@@ -1141,11 +1141,11 @@
      "t": "mcq",
      "p": "A hot planet's air has a lot of oxygen, but scientists think it has no life. How can that be?",
      "opts": [
-      "Strong starlight splits water and makes oxygen without life",
       "Oxygen forms from nothing",
+      "Strong starlight splits water and makes oxygen without life",
       "The planet is too cold for oxygen"
      ],
-     "a": 0,
+     "a": 1,
      "why": "On some planets, strong light can split water vapour and release oxygen. So oxygen alone is a false alarm unless other signs fit with it.",
      "outcome": 4
     },
@@ -1335,11 +1335,11 @@
      "t": "mcq",
      "p": "Bacteria at a deep-sea vent make food from hydrogen sulfide and oxygen. Why does that matter for the dark ocean of Europa?",
      "opts": [
-      "It shows that life can live in the dark if there are chemicals to react",
       "It shows that Europa has deep-sea vents",
+      "It shows that life can live in the dark if there are chemicals to react",
       "It shows that sunlight reaches Europa's ocean"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Life does not need sunlight if it has another source of energy. Whether Europa has such a source is not yet known. Picking 'shows that Europa has vents' is a guess that is not yet proved.",
      "outcome": 2
     }
@@ -1355,11 +1355,11 @@
      "t": "mcq",
      "p": "Look at the chart of balloon sizes at 40 minutes. Which two bottles together show that the gas comes from living yeast, and not just from the yeast powder?",
      "opts": [
-      "A, with living yeast, and D, with boiled yeast",
       "B, with yeast only, and C, with sugar only",
+      "A, with living yeast, and D, with boiled yeast",
       "C, with sugar only, and D, with boiled yeast"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Bottles A and D have the same powder and the same sugar. The only difference is that the yeast in D was killed. A swelled and D did not, so living yeast made the gas.",
      "chart": {
       "type": "bar",
@@ -1405,11 +1405,11 @@
      "t": "mcq",
      "p": "Star P dips by 1 part in 1,000 every 4 days. Star Q dips by 1 part in 100 every 6 days. Which statement is correct?",
      "opts": [
-      "Q's planet is bigger, and P's planet has the shorter year",
       "P's planet is bigger, and Q's planet has the shorter year",
-      "Both planets are the same size"
+      "Both planets are the same size",
+      "Q's planet is bigger, and P's planet has the shorter year"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A deeper dip means a bigger planet, so Q's planet is bigger. A 4-day year is shorter than a 6-day year, so P's planet goes round faster and is closer to its star.",
      "outcome": 4
     },
@@ -1509,11 +1509,11 @@
      "t": "mcq",
      "p": "Why does a spacecraft that flies through a plume have to collect everything in one pass?",
      "opts": [
-      "It moves so fast that it has no second chance",
       "The plume is very cold",
-      "The spacecraft is too heavy to turn"
+      "The spacecraft is too heavy to turn",
+      "It moves so fast that it has no second chance"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A spacecraft flies through a plume at a very high speed, in a few seconds. Its instruments must work during that pass.",
      "how": "c1",
      "outcome": 7
@@ -1562,11 +1562,11 @@
      "t": "mcq",
      "p": "Which is the best reason to bring a Mars rock sample back to laboratories on Earth?",
      "opts": [
-      "Big instruments and many teams can check it in ways a rover cannot",
       "The rock will be warmer on Earth",
-      "Rocks are lighter on Earth"
+      "Rocks are lighter on Earth",
+      "Big instruments and many teams can check it in ways a rover cannot"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Laboratories on Earth have larger and more exact instruments than a rover can carry, and many teams can check the same sample. This is how a claim can be tested.",
      "outcome": 7
     }
@@ -1713,11 +1713,11 @@
       "t": "mcq",
       "q": "Why do we use boiled yeast in bottle D?",
       "options": [
-       "To check that the gas comes from living yeast, not from yeast powder",
        "To make the water hotter",
-       "To save time"
+       "To save time",
+       "To check that the gas comes from living yeast, not from yeast powder"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Boiling kills yeast but leaves the same powder. If bottle D stays flat while bottle A swells, the gas comes from living yeast, not just from the powder. Picking 'hotter' misses that the boiled yeast is cooled first."
      },
      "context": "In this step, a grown-up boils some yeast so that the yeast die, and you pour warm water into all four bottles."
@@ -1742,11 +1742,11 @@
       "t": "mcq",
       "q": "By 20 minutes, only balloon A has started to swell. What does that suggest?",
       "options": [
-       "Yeast and sugar together are making a gas",
        "Sugar alone makes gas when warm",
-       "Balloon A is a different kind"
+       "Balloon A is a different kind",
+       "Yeast and sugar together are making a gas"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Balloon C, with sugar alone, stayed flat. Balloon B, with yeast alone, stayed flat too. Only bottle A, with both, swelled. So it is the yeast using the sugar that makes the gas. Picking 'a different kind of balloon' misses that all four balloons were the same."
      },
      "context": "In this step, you measure the four balloons at 10 and 20 minutes."
@@ -1886,11 +1886,11 @@
       "t": "mcq",
       "q": "Why do we put the same spoon of the same curd in every cup?",
       "options": [
-       "So only the warmth changes",
        "So all the cups taste the same",
-       "So we can eat all of them"
+       "So we can eat all of them",
+       "So only the warmth changes"
       ],
-      "a": 0,
+      "a": 2,
       "why": "In a fair test, only one thing changes. If one cup got more curd, you would not know if the warmth or the curd made it set faster."
      },
      "context": "In this step, you stir curd into the cups and put each cup in its place."
@@ -1907,11 +1907,11 @@
       "t": "mcq",
       "q": "Cup D stayed liquid. What is the best explanation?",
       "options": [
-       "The milk was so hot that it killed the curd bacteria",
        "The curd was old",
-       "The cup was too small"
+       "The cup was too small",
+       "The milk was so hot that it killed the curd bacteria"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Curd bacteria die in milk that is too hot. Cup D had the same curd as the others. Picking 'the curd was old' misses that the same curd made the other cups work."
      },
      "context": "In this step, you look at the four cups the next morning."
@@ -1995,11 +1995,11 @@
       "t": "mcq",
       "q": "If all the people on Earth vanished, which sign of life would a far-off visitor still see?",
       "options": [
-       "Oxygen and methane in the air, kept there by plants and microbes",
        "The lights of cities at night",
+       "Oxygen and methane in the air, kept there by plants and microbes",
        "Radio signals from towers"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Plants, algae and microbes keep making oxygen and methane, whether or not people are there. City lights and radio signals would fade as the machines stopped. The gases made by plants and microbes are the oldest sign of life on Earth."
      },
      "think": "Which of these signs would be best for finding microbes, not people?",
@@ -2079,11 +2079,11 @@
       "t": "mcq",
       "q": "Star X dips on days 5, 11 and 17. How long is the planet's year?",
       "options": [
-       "6 days, the time from one dip to the next",
        "5 days, the first dip",
+       "6 days, the time from one dip to the next",
        "17 days, the last dip"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The planet goes round once between each dip. From day 5 to day 11 is 6 days, and from day 11 to day 17 is 6 days. Picking '5' or '17' confuses the day of a dip with the time between dips."
      },
      "context": "In this step, you draw the graph for Star X and find the length of its planet's year."
@@ -2383,11 +2383,11 @@
       "t": "mcq",
       "q": "A fire uses fuel, grows and responds to the wind. Why do most scientists not call it alive?",
       "options": [
-       "It is not made of cells and does not pass on a code that can change",
        "It is too hot",
+       "It is not made of cells and does not pass on a code that can change",
        "It is too small"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A fire shows some signs of life, such as using energy and growing. But it has no cells, and no code that it passes on and that can change over generations. Picking 'too hot' misses that some living things live in boiling water."
      },
      "context": "In this step, you tick the signs of life for each thing and decide."
@@ -2604,11 +2604,11 @@
       "t": "mcq",
       "q": "Why change only one thing at a time between tests?",
       "options": [
-       "So you know which change made the difference",
        "So the test takes longer",
-       "So every collector looks the same"
+       "So every collector looks the same",
+       "So you know which change made the difference"
       ],
-      "a": 0,
+      "a": 2,
       "why": "If you changed two things, you would not know which one caught more drops. One change at a time shows what each change does."
      },
      "context": "In this step, you improve your collector and test it again."
@@ -2749,11 +2749,11 @@
    "t": "mcq",
    "p": "Which three things does a world need before life as we know it can live there?",
    "opts": [
-    "Liquid water, a supply of energy and the right chemicals",
     "A thick atmosphere, sunlight and a moon",
-    "Gold, iron and oxygen"
+    "Gold, iron and oxygen",
+    "Liquid water, a supply of energy and the right chemicals"
    ],
-   "a": 0,
+   "a": 2,
    "why": "All the life found so far needs liquid water, energy and the chemicals its body is built from. The energy can come from sunlight or from chemicals. Picking 'sunlight' alone misses the life at deep-sea vents, which lives in the dark.",
    "outcome": 0
   },
@@ -2773,11 +2773,11 @@
    "t": "mcq",
    "p": "A planet could go round a bright star or a dim star, at the same distance. Which statement is correct?",
    "opts": [
-    "It is warmer around the bright star, because the bright star gives out more light",
     "It is warmer around the dim star",
+    "It is warmer around the bright star, because the bright star gives out more light",
     "It is the same around both"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A planet gets more light from a bright star at the same distance, so it is warmer. That is why the habitable zone of a dim star is closer in.",
    "outcome": 1
   },
@@ -2785,11 +2785,11 @@
    "t": "mcq",
    "p": "Bacteria at a deep-sea vent make food from hydrogen sulfide. What does this show?",
    "opts": [
-    "Life can get energy from chemicals, without sunlight",
     "Bacteria cannot live without light",
-    "Hydrogen sulfide is food for plants"
+    "Hydrogen sulfide is food for plants",
+    "Life can get energy from chemicals, without sunlight"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Chemosynthesis shows that life can live in the dark if there is a chemical source of energy. This is why scientists consider the oceans of icy moons.",
    "outcome": 2
   },
@@ -2797,11 +2797,11 @@
    "t": "mcq",
    "p": "Europa is far outside the Sun's habitable zone, but may have a liquid ocean under its ice. Why?",
    "opts": [
-    "Jupiter's pull warms the moon from inside",
     "The Sun warms its ocean through the ice",
+    "Jupiter's pull warms the moon from inside",
     "Europa has a thick atmosphere"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Jupiter's pull squeezes Europa a little more and a little less as it goes round, which heats it inside. The habitable zone is not the only place where liquid water can be.",
    "outcome": 2
   },
@@ -2809,11 +2809,11 @@
    "t": "mcq",
    "p": "A sealed bottle of sugar water and living yeast has a balloon that swells. What is the balloon a sign of?",
    "opts": [
-    "A gas made by the yeast",
     "Heat in the bottle",
-    "Air that was already inside"
+    "Air that was already inside",
+    "A gas made by the yeast"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Yeast eat sugar and give out carbon dioxide gas. The bottle without yeast stayed flat, which shows the gas comes from the yeast. Picking 'air that was already inside' misses that the balloon on the bottle without yeast did not swell.",
    "outcome": 3
   },
@@ -2821,11 +2821,11 @@
    "t": "mcq",
    "p": "Oxygen and methane react and would disappear from a planet's air. If both stay there, what does this suggest?",
    "opts": [
-    "Something keeps making them, perhaps life",
     "The planet has no air",
+    "Something keeps making them, perhaps life",
     "The gases cannot react"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A mix that should fade, yet stays, is being refilled. On Earth the refilling is done by plants, algae and microbes. Scientists check that non-living chemistry cannot do the same.",
    "outcome": 3
   },
@@ -2833,11 +2833,11 @@
    "t": "mcq",
    "p": "A star dims by a tiny amount every 6 days. What is the best explanation?",
    "opts": [
-    "A planet crosses in front of the star once every 6 days",
     "The star turns off every 6 days",
-    "The star moves away and back"
+    "The star moves away and back",
+    "A planet crosses in front of the star once every 6 days"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A planet in front of its star blocks a little light. If this repeats every 6 days, the planet's year is 6 days. Picking 'turns off' misses that the dip is tiny and exactly repeating.",
    "outcome": 4
   },
@@ -2845,11 +2845,11 @@
    "t": "mcq",
    "p": "Starlight that has passed through a planet's air is missing certain colours. What can scientists work out from this?",
    "opts": [
-    "Which gases are in the air",
     "How big the planet is",
+    "Which gases are in the air",
     "How many moons it has"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Each gas takes away its own set of colours. So the missing colours show which gases the light passed through.",
    "outcome": 4
   },
@@ -2857,11 +2857,11 @@
    "t": "mcq",
    "p": "A planet's air has lots of oxygen. Why is that not proof of life?",
    "opts": [
-    "Strong starlight can split water and make oxygen with no life",
     "Oxygen is not a gas",
+    "Strong starlight can split water and make oxygen with no life",
     "Only methane can be made by life"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Oxygen can be made in non-living ways on some planets. Scientists look for several signs that fit together, not just one gas.",
    "outcome": 4
   },
@@ -2869,11 +2869,11 @@
    "t": "mcq",
    "p": "In a Drake chain, one set of guesses gave 100 million civilisations and another gave less than one. What does that tell us?",
    "opts": [
-    "The answer depends mostly on the guesses we know least about",
     "The chain gives the exact answer",
-    "There are exactly 100 million civilisations"
+    "There are exactly 100 million civilisations",
+    "The answer depends mostly on the guesses we know least about"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The steps about how often life starts and becomes intelligent are unknown, so different guesses give very different answers. The chain shows what we most need to find out.",
    "outcome": 5
   },
@@ -2881,11 +2881,11 @@
    "t": "mcq",
    "p": "A fire grows and uses fuel, but most scientists do not call it alive. Why?",
    "opts": [
-    "It has no cells and no code that it passes on and that can change over generations",
     "Fires are too hot",
+    "It has no cells and no code that it passes on and that can change over generations",
     "Fires are too short-lived"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A fire shows some signs of life, but it does not carry and pass on a code that changes over many generations. Picking 'too hot' misses that some living things live in boiling water.",
    "outcome": 6
   },
@@ -2905,11 +2905,11 @@
    "t": "mcq",
    "p": "Why do scientists ask other teams to repeat a claim of life?",
    "opts": [
-    "To check that the sign is real and not an error",
     "To make the claim sound more exciting",
-    "To save money"
+    "To save money",
+    "To check that the sign is real and not an error"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A result seen by only one team may be a mistake. If different teams, with different instruments, see the same thing, it is much more believable.",
    "outcome": 7
   }
@@ -3224,6 +3224,67 @@
     "e2"
    ],
    "why": "For checking the warmth of the water in the yeast test and the milk in the curd test."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Bottle Biosignature: which bottles hold life?, Planet Hunter's Graph: find two planets from dips in starlight, Catch the Plume: design a sampler to catch drops from a jet. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "a2",
+    "c1"
+   ],
+   "plan": "Get it before Bottle Biosignature: which bottles hold life?."
+  },
+  {
+   "id": "b-food-colour",
+   "item": "Food colour",
+   "kind": "material",
+   "why": "Used in Catch the Plume: design a sampler to catch drops from a jet. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it.",
+   "url": "https://www.amazon.in/s?k=food+colour+liquid",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before Catch the Plume: design a sampler to catch drops from a jet."
+  },
+  {
+   "id": "b-graph-paper",
+   "item": "Graph paper",
+   "kind": "material",
+   "why": "Used in Planet Hunter's Graph: find two planets from dips in starlight. About ₹10 to ₹30. Draw squares on plain paper.",
+   "url": "https://www.amazon.in/s?k=graph+paper+notebook",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Get it before Planet Hunter's Graph: find two planets from dips in starlight."
+  },
+  {
+   "id": "b-a-small-toy-car-with-free-ro",
+   "item": "A small toy car with free-rolling wheels",
+   "kind": "material",
+   "why": "Used in Alive or Not? Argue it out. About ₹100 to ₹200. A marble or a round torch cell works.",
+   "url": "https://www.amazon.in/s?k=toy+car+pull+back+small",
+   "used_in": [
+    "a5"
+   ],
+   "plan": "Get it before Alive or Not? Argue it out."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

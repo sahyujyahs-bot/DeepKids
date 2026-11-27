@@ -545,10 +545,10 @@
       "q": "Lake Vida's water is minus 13 degrees and very salty, under ice. Do living things live there?",
       "options": [
        "No, it is too cold for anything",
-       "Yes, bacteria live in the salty water",
-       "Only penguins live there"
+       "Only penguins live there",
+       "Yes, bacteria live in the salty water"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Bacteria live in Lake Vida's salty water. The salt keeps the water liquid even at minus 13 degrees, and liquid water is what life needs. Picking 'too cold' is a very common guess, but cold alone does not stop life when the water stays liquid. No penguins live under the ice."
      }
     },
@@ -698,11 +698,11 @@
       "t": "mcq",
       "q": "Why does Lake Vida fit both COLD and SALTY?",
       "options": [
-       "Its water is very cold and very salty at the same time",
        "It is cold in winter and salty in summer",
+       "Its water is very cold and very salty at the same time",
        "It is next to the sea"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Lake Vida's water is about minus 13 degrees and six times saltier than the sea, all year. The salt is what keeps it liquid in the cold, so the two go together."
      }
     }
@@ -850,11 +850,11 @@
       "t": "mcq",
       "q": "The six-spoon cup stayed liquid all night in the freezer. What does this show?",
       "options": [
-       "The freezer was broken",
        "Very salty water stays liquid in cold that freezes plain water",
+       "The freezer was broken",
        "Salt makes water warm"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The plain cup froze hard on the same shelf, so the freezer was working. The salty water was just as cold, as you felt through the cup. It stayed liquid because salt lowers the temperature at which water freezes. Picking 'salt makes water warm' is a natural guess, but the cup felt icy cold."
      }
     }
@@ -995,10 +995,10 @@
       "q": "In sea ice, where do bacteria and algae live?",
       "options": [
        "Inside the solid ice crystals",
-       "In thin channels of very salty liquid water between the ice crystals",
-       "Only on top of the ice, in the sunshine"
+       "Only on top of the ice, in the sunshine",
+       "In thin channels of very salty liquid water between the ice crystals"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Freezing pushes the salt out of the ice crystals into thin channels of brine. The brine stays liquid, and living things need liquid water, so that is where they live. Picking 'inside the ice crystals' is a fair guess, but the solid ice has no liquid water for a cell to use."
      }
     }
@@ -1452,11 +1452,11 @@
       "t": "mcq",
       "q": "Every creature in your book has one thing in common. What is it?",
       "options": [
-       "They all need sunlight",
        "They all need liquid water",
+       "They all need sunlight",
        "They all live in hot places"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Every one needs liquid water, even those in ice, who live in the liquid brine between the crystals. They do not all need sunlight: vent microbes and Lake Vida bacteria live in the dark. And many live in cold places."
      }
     }
@@ -1608,10 +1608,10 @@
       "q": "Why are spacecraft to Mars cleaned so carefully?",
       "options": [
        "So they look shiny in photos",
-       "So Earth microbes do not travel to Mars, where we might mistake them for Martian life",
-       "So they are lighter"
+       "So they are lighter",
+       "So Earth microbes do not travel to Mars, where we might mistake them for Martian life"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Earth microbes can survive hard places. If they rode to Mars on a spacecraft, a rover might later find them and we could not tell if they were Martian. They could also harm any life already there. Shiny and light are not the reasons."
      }
     }
@@ -1684,11 +1684,11 @@
    "t": "mcq",
    "p": "Plain water freezes at 0 degrees. About when does water with as much salt as it can hold freeze?",
    "opts": [
+    "At about minus 21 degrees",
     "At 10 degrees",
-    "At 0 degrees too",
-    "At about minus 21 degrees"
+    "At 0 degrees too"
    ],
-   "a": 2,
+   "a": 0,
    "why": "Very salty water stays liquid until about minus 21 degrees, colder than a home freezer.",
    "outcome": 1
   },
@@ -1721,11 +1721,11 @@
    "t": "mcq",
    "p": "Salty water pulls water out of most cells. How do salt-loving microbes deal with this?",
    "opts": [
-    "They fill their cells with salts too, so water stays inside",
     "They drink fresh water",
-    "They live only in rain"
+    "They live only in rain",
+    "They fill their cells with salts too, so water stays inside"
    ],
-   "a": 0,
+   "a": 2,
    "why": "With salts inside as well as outside, water is not pulled out. Many salt-loving microbes are pink, like the ones that turned Lonar Lake pink in 2020.",
    "outcome": 2
   },
@@ -1734,10 +1734,10 @@
    "p": "What is an extremophile?",
    "opts": [
     "A very big animal",
-    "A living thing who lives where most life could not survive",
-    "A kind of spacecraft"
+    "A kind of spacecraft",
+    "A living thing who lives where most life could not survive"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Extremophile means 'lover of extremes', such as near-boiling water, ice or very salty water.",
    "outcome": 3
   },
@@ -1746,10 +1746,10 @@
    "p": "Why is Europa, a moon of Jupiter, one of the best places to look for life?",
    "opts": [
     "It is the closest moon to Earth",
-    "It has a deep salty ocean of liquid water under its ice",
-    "It is very hot"
+    "It is very hot",
+    "It has a deep salty ocean of liquid water under its ice"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Liquid water is what life needs, and Europa probably has more of it than all of Earth's oceans.",
    "outcome": 4
   },
@@ -1820,11 +1820,11 @@
      "t": "mcq",
      "p": "In the freezer test, which cup froze first?",
      "opts": [
-      "The plain water",
       "The one-spoon cup",
-      "The six-spoon cup"
+      "The six-spoon cup",
+      "The plain water"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Plain water freezes at 0 degrees, so it freezes first. Salt lowers the freezing point, so the salty cups must get colder.",
      "how": "e1"
     },
@@ -1916,11 +1916,11 @@
      "t": "mcq",
      "p": "Heat breaks the working parts inside most cells. How do hot-spring microbes survive?",
      "opts": [
-      "They stay cool by swimming fast",
       "Their working parts are built to hold their shape in heat",
+      "They stay cool by swimming fast",
       "They only come out at night"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Their working parts are heat-proof, so they keep working in hot water. Swimming does not cool them, and the spring is hot day and night."
     },
     {
@@ -2012,10 +2012,10 @@
      "p": "Suppose you do the freezer test with a cup of sugar water as well. It freezes, but later than plain water. What does that tell you?",
      "opts": [
       "Only salt can lower the freezing point",
-      "Other things dissolved in water lower the freezing point too",
-      "Sugar makes water colder"
+      "Sugar makes water colder",
+      "Other things dissolved in water lower the freezing point too"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Anything dissolved in water gets in the way of ice forming, so it lowers the freezing point. Spoon for spoon, salt lowers it more than sugar does.",
      "how": "e1"
     },
@@ -2135,11 +2135,11 @@
      "t": "mcq",
      "p": "Why did the freezer test use three cups that were the same, on the same shelf?",
      "opts": [
-      "So only the amount of salt changed",
       "So the cups looked neat",
+      "So only the amount of salt changed",
       "So they would freeze faster"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Keeping everything else the same is called a fair test. Then any difference must come from the salt.",
      "how": "e1"
     },
@@ -2244,10 +2244,10 @@
      "p": "Europa is about five times further from the Sun than Earth, so it gets very little sunlight. Which is the most likely energy source for any life in its ocean?",
      "opts": [
       "Sunlight shining through the thick ice",
-      "Chemicals from warm rock on the ocean floor, like at Earth's deep-sea vents",
-      "Lightning in the ocean"
+      "Lightning in the ocean",
+      "Chemicals from warm rock on the ocean floor, like at Earth's deep-sea vents"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Very little sunlight gets through kilometres of ice. On Earth, vent microbes take energy from chemicals in the dark, so scientists think the same could happen on Europa's sea floor. There is no evidence of lightning in the ocean."
     },
     {
@@ -2309,11 +2309,11 @@
      "t": "mcq",
      "p": "Which of these would be the strongest sign of life in a faraway planet's air?",
      "opts": [
-      "Water vapour",
       "A lot of oxygen together with methane",
+      "Water vapour",
       "Dust"
      ],
-     "a": 1,
+     "a": 0,
      "why": "On Earth, oxygen and methane react with each other, so both stay plentiful only because living things keep making them. Water vapour and dust can come from places with no life."
     },
     {
@@ -2593,6 +2593,65 @@
    "used_in": [
     "e1"
    ]
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in A Message for Anyone Out There. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before A Message for Anyone Out There."
+  },
+  {
+   "id": "b-a-glass-or-plastic-prism",
+   "item": "A glass or plastic prism",
+   "kind": "tool",
+   "why": "Used in Paint a Hot Spring's Rings. About ₹100 to ₹300. A glass of water in sunlight makes a weak rainbow.",
+   "url": "https://www.amazon.in/s?k=prism+science+kids",
+   "used_in": [
+    "a5"
+   ],
+   "plan": "Get it before Paint a Hot Spring's Rings."
+  },
+  {
+   "id": "b-food-colour",
+   "item": "Food colour",
+   "kind": "material",
+   "why": "Used in Sea Ice in a Cup: does freezing push the salt out?. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it.",
+   "url": "https://www.amazon.in/s?k=food+colour+liquid",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before Sea Ice in a Cup: does freezing push the salt out?."
+  },
+  {
+   "id": "b-a-small-toy-car-with-free-ro",
+   "item": "A small toy car with free-rolling wheels",
+   "kind": "material",
+   "why": "Used in The Life Thermometer: a string from minus 20 to 120 degrees. About ₹100 to ₹200. A marble or a round torch cell works.",
+   "url": "https://www.amazon.in/s?k=toy+car+pull+back+small",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Get it before The Life Thermometer: a string from minus 20 to 120 degrees."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

@@ -1,9 +1,9 @@
 # Moons, asteroids and comets: the smaller worlds, and why shooting stars glow
 `sci.sky.moons-asteroids-comets.L3`
 
-**Summary.** A shooting star is not a star, so what is it? In this unit you will compare a grain of rava with a map to see how small it is, make ice comets and watch what the sun does to them, and sort space rocks.
+**Summary.** A shooting star is not a star, so what is it? In this lesson you will compare a grain of rava with a map to see how small it is, make ice comets and watch what the sun does to them, and sort space rocks.
 
-**Intro.** *Have you ever seen a shooting star? It is not a star at all. Most shooting stars are made by grains of dust no bigger than a grain of rava. So how can something so small make a light you can see from 100 kilometres away?* In this unit you find out. You meet the smaller worlds of the solar system: moons, asteroids and comets. You make a comet from ice and dirt, and watch what happens to it in the sun. And you find out where the dust that makes shooting stars comes from.
+**Intro.** *Have you ever seen a shooting star? It is not a star at all. Most shooting stars are made by grains of dust no bigger than a grain of rava. So how can something so small make a light you can see from 100 kilometres away?* In this lesson you find out. You meet the smaller worlds of the solar system: moons, asteroids and comets. You make a comet from ice and dirt, and watch what happens to it in the sun. And you find out where the dust that makes shooting stars comes from.
 
 ## Learning outcomes
 0. I can say that most planets have moons, and name the moons of Mars and the four big moons of Jupiter.
@@ -404,7 +404,7 @@ As they rolled up the mats, Arjun opened his fist. The grain of rava was still t
   - Ask: What did the buttons look like from the side? (good: They moved left and right in a line.; Sometimes one hid behind the plate.)
   - Note: From the side, a button going round in a circle looks like it moves left and right along a line, exactly like Galileo's dots.
 - **s4 (3 min)**  
-  *Parent does:* Watch the short NASA Juno video in this unit's video list, if you can.  
+  *Parent does:* Watch the short NASA Juno video in this lesson's video list, if you can.  
   *Parent says:* Galileo worked out that these were four moons going round Jupiter. That was a big surprise. Many people then taught that everything in the sky goes round the Earth. Here were four things going round something else.  
   *Child mode:* Galileo found four moons going round Jupiter. Not everything goes round the Earth!
   - Ask: Why did this surprise people in 1610? (good: They thought everything went round the Earth.; These moons went round Jupiter instead.)
@@ -544,7 +544,7 @@ As they rolled up the mats, Arjun opened his fist. The grain of rava was still t
 4. (order) Put these in the order they happen to one bit of space rock.  
    **Answer:** ['It floats in space as a meteoroid.', 'It glows in our air as a meteor.', 'It lands in a field as a meteorite.']. *Why:* Meteoroid in space, meteor in the air, meteorite on the ground. A strong answer notices it is the same rock at three moments.
 5. (mcq) In the Ice Comet experiment, why did we put one ice comet in the shade?  
-   Options: To compare it with the sunny one, so we could see what the sun changed / Because shade makes ice melt faster / To keep one for eating  
+   Options: Because shade makes ice melt faster / To compare it with the sunny one, so we could see what the sun changed / To keep one for eating  
    **Answer:** To compare it with the sunny one, so we could see what the sun changed. *Why:* The shady comet is the comparison. Everything was the same except the sun, so any difference was caused by the sun. Picking 'shade makes ice melt faster' is the opposite of what happens.
 6. (write) In the Ice Comet experiment, the dirt was mixed all through the ice at the start. After 30 minutes in the sun, it was a dark crust on top. Explain why.  
    **Answer:** The sun melted the ice away. The dirt could not melt, so it was left behind on the outside. The more ice went, the more dirt built up.. *Why:* A strong answer says the dirt did not move up or grow. It was left behind where the ice used to be.
@@ -579,14 +579,14 @@ As they rolled up the mats, Arjun opened his fist. The grain of rava was still t
 4. (truefalse) Our Moon is the biggest moon in the solar system.  
    **Answer:** False. *Why:* False. Ganymede, a moon of Jupiter, is the biggest. Our Moon is the fifth biggest.
 5. (mcq) Lonar Lake in Maharashtra is round, with steep sides. How did the hollow it sits in form?  
-   Options: A meteorite hit the ground very fast and blasted out a crater / People dug it for water / A river wore it away / Lightning struck the ground again and again  
+   Options: People dug it for water / A meteorite hit the ground very fast and blasted out a crater / A river wore it away / Lightning struck the ground again and again  
    **Answer:** A meteorite hit the ground very fast and blasted out a crater. *Why:* Lonar Lake fills a crater made by a meteorite impact long ago. Picking 'people dug it' is reasonable for many Indian tanks and ponds, but not for a hollow this big and this round.
 6. (order) Put these in order, from the smallest to the biggest.  
    **Answer:** ['a grain that makes a shooting star', 'Phobos, a moon of Mars, about 22 km', 'Ceres, the biggest asteroid, about 940 km', 'Ganymede, a moon of Jupiter']. *Why:* A grain is smaller than a millimetre. Phobos is about 22 km, Ceres about 940 km, and Ganymede about 5,300 km. A strong answer notices that a moon can be smaller than an asteroid.
 7. (perspective) Two scientists disagree about where the Earth's seas came from.  
    **Answer:** A strong answer uses the evidence each scientist gives. Dr Meenakshi is right that comets hold lots of ice. Dr Rupa is right that the water in many comets does not quite match our seas. Real scientists still argue about this, and the answer may be a bit of both.. *Why:* This is a real, open question. Both views have evidence.
 8. (mcq) In the story Seven Shooting Stars over Madurai, Nila counted 7 shooting stars from her city terrace. From a dark village far from the city, she might have seen more than 50 in the same time. Why?  
-   Options: The village sky was darker, so faint meteors showed up / More dust fell on the village / Villages are closer to space / Nila was not looking properly  
+   Options: More dust fell on the village / Villages are closer to space / The village sky was darker, so faint meteors showed up / Nila was not looking properly  
    **Answer:** The village sky was darker, so faint meteors showed up. *Why:* The same shower falls over the whole area, but city lights hide the faint meteors. Picking 'more dust fell on the village' is a good thought, but both places were under the same shower.
 9. (write) Halley's Comet came near the Sun in 1986 and will come again in 2061. Will it look exactly the same? Explain.  
    **Answer:** Not exactly. Each time it passes the Sun, it loses some ice and dust, so it is a little smaller, with a little more dark crust. Its brightness also depends on where the Earth is when it passes.. *Why:* A strong answer uses what happened in the Ice Comet experiment: each pass near the Sun takes some of the comet away.
@@ -619,7 +619,7 @@ As they rolled up the mats, Arjun opened his fist. The grain of rava was still t
 7. (draw) Draw a comet at three places on its path: far out, coming close to the Sun, and nearest the Sun. Show how its tail changes.  
    **Answer:** Far out: a small dark lump, no tail. Coming close: a small coma and a short tail. Nearest the Sun: a big coma and a long tail. Every tail points away from the Sun.. *Why:* A strong drawing shows the tail growing as the comet nears the Sun and always pointing away from it.
 8. (mcq) Saturn is smaller than Jupiter, but Saturn has more known moons. What does this tell you?  
-   Options: A bigger planet does not always have more moons / Saturn is really bigger than Jupiter / Jupiter's moons are all hidden / Moon counts never change  
+   Options: Saturn is really bigger than Jupiter / Jupiter's moons are all hidden / A bigger planet does not always have more moons / Moon counts never change  
    **Answer:** A bigger planet does not always have more moons. *Why:* Size is not the only thing that sets how many moons a planet has. Also, many small moons are still being found, so the counts keep changing. Picking 'moon counts never change' is wrong: dozens of new small moons have been found in recent years.
 9. (write) Galileo's dots sometimes disappeared for a night. Give two reasons a moon of Jupiter might not be seen.  
    **Answer:** It could be behind Jupiter, so Jupiter hides it. It could be in front of Jupiter, so it is lost against Jupiter's bright face. It could also be in Jupiter's shadow.. *Why:* A strong answer thinks about where the moon is on its path when seen from the side, as in the Galileo's Dots activity, where buttons went round a steel plate.
@@ -644,37 +644,37 @@ As they rolled up the mats, Arjun opened his fist. The grain of rava was still t
 
 ## Quiz
 1. (mcq) Which planet has no moon?  
-   Options: Venus / Mars / Jupiter / Saturn  
+   Options: Mars / Jupiter / Saturn / Venus  
    **Answer:** Venus. *Why:* Mercury and Venus are the only planets with no moons. Picking Mars is a common slip: Mars has two small moons, Phobos and Deimos.
 2. (mcq) Through a telescope you see four small dots beside Jupiter. Night after night they change sides, but always stay close to Jupiter. What are they most likely to be?  
-   Options: Moons going round Jupiter / Rings round Jupiter / A comet hitting Jupiter / New stars  
+   Options: Rings round Jupiter / A comet hitting Jupiter / Moons going round Jupiter / New stars  
    **Answer:** Moons going round Jupiter. *Why:* Dots that stay with Jupiter but swap sides must be going round it, so they are moons. Galileo worked this out in 1610. Rings would not look like separate dots that move.
 3. (mcq) What is the main difference between an asteroid and a comet?  
-   Options: An asteroid is mostly rock and metal. A comet has a lot of ice. / An asteroid is always bigger than a comet. / An asteroid goes round a planet. A comet goes round the Sun.  
+   Options: An asteroid is always bigger than a comet. / An asteroid is mostly rock and metal. A comet has a lot of ice. / An asteroid goes round a planet. A comet goes round the Sun.  
    **Answer:** An asteroid is mostly rock and metal. A comet has a lot of ice.. *Why:* Asteroids are rocky or metal. Comets are ice, dust and rock, and their ice makes the tail near the Sun. Picking 'goes round a planet' describes a moon. Both asteroids and comets go round the Sun.
 4. (mcq) Where are most asteroids?  
    Options: Between Mars and Jupiter / Between the Earth and the Moon / Inside the Sun / Beyond the stars  
    **Answer:** Between Mars and Jupiter. *Why:* Most asteroids go round the Sun in the asteroid belt, between Mars and Jupiter. Picking 'between the Earth and the Moon' is a fair guess, since some asteroids do pass near the Earth, but they are only a tiny few.
 5. (mcq) Why is the nucleus of a real comet darker than coal?  
-   Options: Its ice has turned to gas and left a crust of dark dust / It is made of coal / It is in the Earth's shadow / It is burning  
+   Options: It is made of coal / It is in the Earth's shadow / Its ice has turned to gas and left a crust of dark dust / It is burning  
    **Answer:** Its ice has turned to gas and left a crust of dark dust. *Why:* Each time a comet passes near the Sun, some of its ice turns to gas and the dust stays behind. The dust builds up into a dark crust, as it did on the sunny ice comet in the Ice Comet experiment. Picking 'burning' is a common idea, but comets do not burn. Their glow is sunlight on gas and dust.
 6. (mcq) A comet has passed the Sun and is now moving away from it. Where is its tail?  
    Options: In front of it, pointing away from the Sun / Behind it, pointing towards the Sun / It has no tail at all  
    **Answer:** In front of it, pointing away from the Sun. *Why:* The Sun pushes a comet's tail away from it all the time, so when the comet moves away, its tail goes in front. Picking 'behind it' is what we expect from hair or a kite. It is also what happened in the Fan and Tail experiment when the fan was off.
 7. (mcq) What pushes a comet's tail away from the Sun?  
-   Options: Sunlight and the solar wind / Wind in space / The comet's speed / The Earth's gravity  
+   Options: Wind in space / The comet's speed / Sunlight and the solar wind / The Earth's gravity  
    **Answer:** Sunlight and the solar wind. *Why:* Sunlight and the solar wind, a stream of tiny particles from the Sun, push the gas and dust outwards. Picking 'wind in space' is close, but space has no air, so there is no ordinary wind there.
 8. (mcq) What is a meteor?  
    Options: The streak of light when a bit of space rock burns up in our air / A star that falls / A stone that lands on the ground / A rock in the asteroid belt  
    **Answer:** The streak of light when a bit of space rock burns up in our air. *Why:* The streak of light is the meteor. Picking 'a stone that lands' describes a meteorite, the piece that reaches the ground.
 9. (mcq) Why does a tiny grain glow so brightly when it enters our air?  
-   Options: It moves so fast that it squashes the air in front of it, and the air gets extremely hot / It is on fire before it arrives / It reflects the light of the Moon / It is a small star  
+   Options: It is on fire before it arrives / It moves so fast that it squashes the air in front of it, and the air gets extremely hot / It reflects the light of the Moon / It is a small star  
    **Answer:** It moves so fast that it squashes the air in front of it, and the air gets extremely hot. *Why:* At tens of kilometres a second, the grain squashes the air ahead so hard that it gets hotter than a furnace. The grain turns to glowing gas. Picking 'on fire before it arrives' is a common idea, but space has no air, so nothing can burn there.
 10. (mcq) Why does the Geminid meteor shower come around 13 and 14 December every year?  
    Options: The Earth reaches the same dust trail at the same point in its path each year / Stars fall more in winter / The Moon sends dust in December / December nights are longer  
    **Answer:** The Earth reaches the same dust trail at the same point in its path each year. *Why:* The Earth takes one year to go round the Sun, so it crosses the dust trail at the same point, on the same dates, every year. Picking 'December nights are longer' is a sensible thought, because longer nights give more time to watch, but it does not explain the dates.
 11. (mcq) People say they saw stones fall from the sky. How could a scientist check whether the stones really came from space?  
-   Options: Talk to many people who saw it, map where the stones landed, and check whether they are unlike the local rock / Decide that lightning made them / Decide that a volcano threw them up / Ignore what the people say  
+   Options: Decide that lightning made them / Talk to many people who saw it, map where the stones landed, and check whether they are unlike the local rock / Decide that a volcano threw them up / Ignore what the people say  
    **Answer:** Talk to many people who saw it, map where the stones landed, and check whether they are unlike the local rock. *Why:* Many witnesses, a map of the fall, and stones unlike any local rock together make strong evidence. Deciding before looking is not testing. This is how scientists became sure, in 1803, that stones fall from space.
 
 ## Applications
@@ -686,10 +686,10 @@ As they rolled up the mats, Arjun opened his fist. The grain of rava was still t
 - Meteor cameras around the world record fireballs and work out where any meteorites landed, so people can find them.
 
 ## Spotted around us
-- Shooting stars on the Geminid nights, around 13 and 14 December, from a terrace or a dark beach in Tamil Nadu, Kerala or Odisha.
+- Shooting stars on the Geminid nights, around 13 and 14 December, from a terrace or a dark beach.
 - Jupiter as a bright, steady dot in the evening sky, with tiny moons beside it if you use binoculars.
-- Lonar Lake in Buldhana district, Maharashtra, a round lake inside a crater made by a meteorite.
-- Meteorites on display in museums and science centres, such as the Geological Survey of India's collections.
+- A round lake inside a crater made by a meteorite, in a picture.
+- Meteorites on display in a museum or science centre.
 - The word 'vaal natchathiram', the tail star, in old Tamil stories and in grandparents' memories of Halley's Comet in 1986.
 
 ## Open questions
@@ -743,6 +743,15 @@ Star, Planet, Moon (sci.sky.L3): Topic-level song for Sun, Moon, stars and plane
 
 ## Things to buy
 - [A pair of 7x50 or 10x50 binoculars](https://www.amazon.in/s?k=10x50+binoculars) (tool): Ordinary binoculars show Jupiter's four big moons as tiny dots, just as Galileo saw them. They also show craters on our Moon. Borrowing a pair works just as well. Used in p1. 
+- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): Used in How Small Is a Shooting Star? A grain of rava and a map, Magnet Dust Hunt: could any of this dust be from space?. About ₹30 to ₹120. A water drop on clear plastic magnifies a little. Used in a1, a5. Get it before How Small Is a Shooting Star? A grain of rava and a map.
+- [A bar magnet or two, and a few small magnets](https://www.amazon.in/s?k=bar+magnet+school) (tool): Used in Magnet Dust Hunt: could any of this dust be from space?, Is This Stone from Space? Plan the tests. About ₹50 to ₹200. A fridge magnet is a weak substitute for some tests. Used in a5, c2. Get it before Magnet Dust Hunt: could any of this dust be from space?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Ice Comet: what happens to its dirt in the sun?, Land on a Comet Without Bouncing. About ₹10 to ₹30. Any school ruler is fine. Used in e1, c1. Get it before The Ice Comet: what happens to its dirt in the sun?.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in Land on a Comet Without Bouncing. About ₹20 to ₹50. Torn clean cloth works. Used in c1. Get it before Land on a Comet Without Bouncing.
+- [Clean sand (a small bag)](https://www.amazon.in/s?k=play+sand+small+bag) (material): Used in How Small Is a Shooting Star? A grain of rava and a map. About ₹20 to ₹60. Fine soil sieved from a pot works. Used in a1. Get it before How Small Is a Shooting Star? A grain of rava and a map.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Galileo's Dots: stars or moons?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a2. Get it before Galileo's Dots: stars or moons?.
+- [A kitchen or weighing scale](https://www.amazon.in/s?k=digital+kitchen+weighing+scale) (tool): Used in Is This Stone from Space? Plan the tests. About ₹300 to ₹700. A home-made balance from a ruler and two cups can compare weights. Used in c2. Get it before Is This Stone from Space? Plan the tests.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Fan and Tail: does a comet's tail stream out behind it?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e2. Get it before Fan and Tail: does a comet's tail stream out behind it?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name the two moons of Mars. → Phobos and Deimos.

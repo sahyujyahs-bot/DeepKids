@@ -1,9 +1,9 @@
 # Festivals and the mela: how India celebrates, and why turmeric turns red
 `sci.community.festivals.L3`
 
-**Summary.** Yellow turmeric turns red in some kitchen liquids. Why does aarathi water turn red? In this unit you will test kitchen liquids with turmeric, hunt through a calendar to see which festivals move date each year, and play a festival memory game.
+**Summary.** Yellow turmeric turns red in some kitchen liquids. Why does aarathi water turn red? In this lesson you will test kitchen liquids with turmeric, hunt through a calendar to see which festivals move date each year, and play a festival memory game.
 
-**Intro.** *Stir a pinch of turmeric into a little water. It is yellow. Now add a spoon of soapy water, and it turns red. Why does yellow turmeric turn red?* Turmeric is yellow in sambar and red in aarathi water, yet it is the same turmeric. In this unit you find out why, with a test of your own. You also picture a mela, meet the people who make it work, and see what it is built from. You learn the foods, clothes and customs of festivals from Kerala to Assam. You find out why Pongal comes on almost the same date every year, while Diwali and Eid move. And you learn what India's three national festivals remember.
+**Intro.** *Stir a pinch of turmeric into a little water. It is yellow. Now add a spoon of soapy water, and it turns red. Why does yellow turmeric turn red?* Turmeric is yellow in sambar and red in aarathi water, yet it is the same turmeric. In this lesson you find out why, with a test of your own. You also picture a mela, meet the people who make it work, and see what it is built from. You learn the foods, clothes and customs of festivals from Kerala to Assam. You find out why Pongal comes on almost the same date every year, while Diwali and Eid move. And you learn what India's three national festivals remember.
 
 ## Learning outcomes
 0. I can describe a mela: what the stalls and toys are made of, who works there, and what people do there.
@@ -29,6 +29,10 @@
 - **Indicator**: A substance that changes colour to show whether something is an acid or a base. Turmeric and red hibiscus flowers are indicators. *e.g.* A turmeric stain on a white shirt turns red when you wash it with soap, because turmeric is an indicator.
 - **Lime (chuna or sunnambu)**: A white paste made from limestone or shells, used in paan and in whitewash. Its chemical name is slaked lime. It is a strong base and burns the eyes. *e.g.* A pinch of sunnambu turns turmeric water deep red.
 - **Kolam**: A pattern drawn on the floor at the doorway, made with rice flour or white stone powder. In the North and West a similar pattern, often coloured, is called a rangoli. *e.g.* At Pongal, families draw big kolams with a pot shape in the middle.
+- **Diya**: A small clay lamp with oil or ghee and a cotton wick, lit at Deepawali. *e.g.* A row of diyas on the window ledge on the night of Deepawali.
+- **Eidi**: A small gift of money that elders give to children at Eid. *e.g.* A child gets Eidi from an uncle and buys a toy at the mela.
+- **Pandal**: A big decorated tent built for a festival, such as Durga Puja. *e.g.* In Kolkata, each street builds its own pandal for the nine nights.
+- **Vishukkani**: The first sight of the new year at Vishu in Kerala: rice, fruit, vegetables, golden konna flowers, a mirror and a lit lamp, set out in the puja room. *e.g.* A grandmother leads a child to the vishukkani with her eyes closed, so that the child sees it first.
 - **Volunteer**: A person who helps others without being paid. *e.g.* At a big mela, volunteers at the Lost and Found booth look after lost children until their families come.
 
 ## Explanations
@@ -46,6 +50,40 @@ Festival food often uses the crop that has just been harvested. At Pongal, famil
 - e.g. In Assam, families make rice cakes called pitha for Bihu.
 - e.g. In Karnataka, people share ellu bella, a mix of sesame, jaggery, coconut and groundnut, at Sankranti.
 - e.g. At Durga Puja in Kolkata, people visit pandals, big decorated tents built for the festival.
+### Eid-ul-Fitr: the festival after Ramzan · *defined*
+**Definition:** Eid-ul-Fitr is the Muslim festival at the end of Ramzan, a month of fasting. Its name means the festival of breaking the fast.
+
+During Ramzan, Muslims who are old enough do not eat or drink from dawn to sunset. Young children are not asked to fast. The month ends when the new crescent Moon is seen. The next morning is Eid. Families wear new or their best clothes. They go to the mosque, or to an idgah, which is an open ground, for the special prayer. Before the prayer, each family gives food or money to people in need, so that everyone can celebrate. After it, people hug and say 'Eid Mubarak'. Homes smell of sweet seviyan, and in some places of sheer khurma, a pudding of milk, vermicelli and dates. Elders give children a small gift of money called Eidi. Families visit friends and neighbours of every faith, and share the sweets.
+- e.g. Children get Eidi from their uncles and aunts.
+- e.g. A big plate of seviyan is shared with neighbours.
+- e.g. Thousands of people pray together on an open idgah ground.
+### Durga Puja and Dussehra: nine nights and a tenth day · *defined*
+**Definition:** Durga Puja and Dussehra are autumn festivals of the same nine nights and tenth day. Each region tells a story of good winning over wrong in its own way.
+
+Every year in September or October, India celebrates nine nights and a tenth day. In West Bengal, Assam, Odisha and Tripura, it is Durga Puja. Artists make large clay idols of the goddess Durga, with ten arms. In the story, she defeats the buffalo-demon Mahishasura. In Kolkata, potters in the lane of Kumartuli make the idols. Each neighbourhood builds a pandal, a big decorated tent, to hold her. People walk from pandal to pandal in new clothes and eat together. On the last day, the idols are taken to a river and put in the water. In 2021, UNESCO added Durga Puja in Kolkata to its list of living traditions. In north India, the tenth day is Dussehra, also called Vijayadashami. People watch the Ramlila, a play of the story of Rama. On the tenth day they burn tall figures of Ravana, the demon king. In Mysuru, Dasara has a grand procession. In Kullu, in Himachal Pradesh, people carry the village gods to a big fair. These festivals follow the Moon, so their dates move each year.
+- e.g. A clay Durga idol being painted in Kumartuli, Kolkata.
+- e.g. A tall figure of Ravana with firecrackers inside, ready to be burnt at Dussehra.
+- e.g. A pandal with lights, built for the nine nights.
+- **A family in Kolkata:** Durga comes home to her family for a few days, like a daughter visiting her parents. People welcome her, feast, and say goodbye with sadness.
+- **A family in north India:** The tenth day remembers Rama's victory over Ravana. Burning his tall figure shows that cruelty is beaten in the end.
+- **Some Asur families in Jharkhand and West Bengal:** They see Mahishasura as an ancestor, and do not join the celebration. They remember him quietly. The same story can be told in more than one way.
+### Deepawali: the festival of lights · *defined*
+**Definition:** Deepawali, also called Diwali, is the festival of lights. It comes on or near a new moon night in October or November.
+
+Families clean their homes, draw a rangoli at the door and light rows of small clay lamps called diyas. The dark night is lit by hundreds of tiny flames. People wear new clothes, share sweets such as laddoo and barfi, give gifts and visit friends. In many homes, families pray to Lakshmi, the goddess of good fortune. In many places, people also light firecrackers. But the smoke and the loud bangs harm people with weak lungs, and frighten dogs, birds and cows. So many families light only diyas, or very few crackers. The festival often lasts five days.
+- e.g. A row of clay diyas along a window ledge.
+- e.g. A rangoli of coloured powder in front of the door.
+- e.g. A plate of homemade laddoo, shared with the neighbours.
+- **Many families in north India:** Deepawali remembers Rama's return to Ayodhya, when people lit lamps to welcome him home.
+- **Many families in south India:** The day before is Naraka Chaturdashi. It remembers Krishna defeating the demon Narakasura, and people wake early for an oil bath.
+- **Jain and Sikh families:** Jains remember Mahavira, their great teacher, who attained moksha at this time. Sikhs celebrate Bandi Chhor Divas, which remembers Guru Hargobind's release.
+### Christmas: the birth of Jesus · *defined*
+**Definition:** Christmas, on 25 December, is the Christian festival that remembers the birth of Jesus.
+
+On Christmas Eve, Christians go to church for a midnight service and sing carols. Homes hang stars and lamps, and put up a crib. A crib is a small model of the baby Jesus in a stable, with his mother Mary, his father Joseph and some animals. Many families bake a rich plum cake and share it with neighbours of every faith. Children look forward to gifts, and in some places to Santa Claus. Christians live in every part of India. In Goa, Kerala and the North-East, Christmas is one of the biggest days of the year. Christmas follows the Sun calendar, so it falls on 25 December every year.
+- e.g. A crib under a church altar, with a small star above it.
+- e.g. A plum cake sliced and shared with friends of different faiths.
+- e.g. A group of children singing carols from house to house.
 ### One harvest festival with many names · *defined*
 **Definition:** In mid-January, people across India celebrate the end of the winter harvest. The festival has different names and customs in different states.
 
@@ -53,6 +91,13 @@ In Tamil Nadu it is Pongal, four days long. On the third day, Mattu Pongal, fami
 - e.g. In Gujarat, families fly kites from their rooftops at Uttarayan.
 - e.g. In Punjab, people throw sesame seeds and popcorn into the Lohri bonfire.
 - e.g. In Tamil Nadu, the cows wear painted horns and bells on Mattu Pongal.
+### Spring festivals: flowers, food and a new year · *defined*
+**Definition:** In spring, many parts of India welcome a new season, and often a new year, with flowers, food and thanks. Each state has its own festival and its own customs.
+
+In March and April the trees flower. In Kerala, Vishu comes in mid-April. Before dawn, a family sets out a vishukkani in the puja room. It holds rice, fruit, vegetables, golden konna flowers, a mirror and a lit lamp. Each person is led there with eyes closed. The first thing they see in the new year is plenty. Elders give the children a little money. The day ends with a big sadya feast. In Uttarakhand, children celebrate Phool Dei in March. They go from door to door and scatter flowers on every doorstep. They sing, and families give them rice, jaggery and sweets. In Jharkhand, the Oraon, Munda and Ho communities celebrate Sarhul when the sal trees flower. In the village's sacred grove of sal trees, the priest, called the pahan, offers sal flowers to the Earth and the Sun. People pray for good rain and a good harvest, and then they sing and dance together. Vishu, Phool Dei, Sarhul and Ugadi are all spring festivals with flowers and food. Each one has customs of its own.
+- e.g. In Kerala, a family looks at the vishukkani first thing on Vishu morning.
+- e.g. In Uttarakhand, children put flowers on every doorstep at Phool Dei.
+- e.g. In Jharkhand, villagers offer sal flowers to the Earth and the Sun at Sarhul.
 ### Festivals that follow the Sun, and festivals that follow the Moon · *defined*
 **Definition:** Some festivals are fixed by the Sun's place in the sky and fall on nearly the same date every year. Others are fixed by the Moon and move.
 
@@ -410,6 +455,46 @@ That afternoon, Meenakshi and Arjun made a row of bowls on the kitchen floor, ea
   *Parent says:* Look at 1947 and 1950 on your line. How many years after independence did the Constitution come into force?  
   *Child mode:* Look at 1947 and 1950. Count the gap on your line.
   - Ask: How many years after independence did the Constitution come into force? (good: Two and a half years: from August 1947 to January 1950.)
+### a6 · Our Mock Mela (40 min)
+- **safety:** No real fire, knives or hot food at the mela. A grown-up does any cutting.
+- **record:** Draw your mela. Write each person's job, and the price of one thing in play money.
+- **s1 (10 min)**  
+  *Parent does:* 1. Choose three stalls, such as a toy stall, a fruit stall and a sweets stall. 2. Choose the jobs: sellers, buyers, a first-aid helper, a Lost and Found helper and a cleaner. 3. Write a price on each thing, from 1 to 5 play rupees.  
+  *Parent says:* We are going to have a mela here. What stalls will we have? Who else do we need, so the mela stays safe and clean?  
+  *Child mode:* Choose three stalls. Choose the jobs. Write a price on each thing.
+  - Note: Use prices from 1 to 5, so the sums stay easy. A mela needs more than sellers: helpers for first aid, for lost children and for cleaning make it work.
+- **s2 (10 min)**  
+  *Parent does:* 1. Build each stall from a table or box and a bedsheet. 2. Cut paper slips, or collect bottle caps or seeds, to use as play money. 3. Give each buyer 10 play rupees.  
+  *Parent says:* Build your stalls from what we have. What can we use for money? How many play rupees does each buyer get?  
+  *Child mode:* Build your stalls. Gather the play money. Give each buyer 10 slips.
+  - Note: The play money can be anything small and easy to count. Real mela stalls too are built from light things like bamboo and cloth, so they can be put up and taken down fast.
+- **s3 (15 min)**  
+  *Parent does:* 1. Open the mela. 2. Buyers walk round, choose and pay. 3. Sellers give change. 4. After ten minutes, swap jobs. 5. Ask each person to say what was hardest about their job.  
+  *Parent says:* The mela is open! Buyers, walk round and choose. Sellers, take the play money and give change. After a while we will swap jobs.  
+  *Child mode:* Buy or sell with the play money. Swap jobs when the grown-up says.
+  - Ask: A buyer has 10 play rupees. She buys a toy for 5 and juice for 4. How much is left? (good: 1 play rupee, because 5 + 4 = 9 and 10 take away 9 is 1.)
+  - Note: Help with change. A child who has 10 play rupees, and spends 5, has 5 left. Ask what the cleaner and the first-aid helper did.
+- **s4 (5 min)**  
+  *Parent does:* 1. Close the mela. 2. The cleaner and everyone else put things away. 3. Sort the paper from the rest, and keep the play money for next time.  
+  *Parent says:* At a real mela, the cleaners work long after everyone has gone home. Let's clear up together.  
+  *Child mode:* Close the mela. Put things back where they belong.
+  - Note: Many real melas are cleaned by workers at night, so the ground is ready the next morning.
+### a7 · Festivals of the Year: ask the elders (30 min, 2 days)
+- **record:** Keep the chart. Under it, write one festival that one elder told you about that you did not know.
+- **schedule:** day 1: Ask two or three older people which festivals come in summer, the rains, autumn and winter, and what food is made. (15 min); day 2: Draw a chart with the seasons, the festivals and the foods. (15 min)
+- **s1 (15 min)**  
+  *Parent does:* 1. Ask: Which festivals come in summer? In the rains? In autumn? In winter? 2. For each, ask: What food do you make? 3. Write short answers in the notebook. 4. Ask two or three people if you can.  
+  *Parent says:* Which festivals come in each season? What food does your family make for each one? Who taught you to make it?  
+  *Child mode:* Ask an elder about the festivals in each season. Write the festival and the food.
+  - Note: Different families will name different festivals. That is fine, because India has many. If an elder says the season by the month, help the child match it to a season.
+  - Wait: Ask the elders on day 1. Make the chart on day 2.
+- **s2 (15 min)**  
+  *Parent does:* 1. Draw four columns: summer, the rains, autumn, winter. 2. Write each festival under its season. 3. Draw or write the food beside it. 4. Look at the chart. Which season has most festivals?  
+  *Parent says:* Let's put what they told us on one chart. Which season has the most festivals? Why might that be?  
+  *Child mode:* Draw four columns. Put each festival in its season, with its food.
+  - Ask: Which season has the most festivals on your chart? Why might that be? (good: Autumn or winter, because many harvests come then.; It depends on who we asked.)
+  - Note: Many festivals come after harvests, when families have food and time. The chart will be different from another family's, because families and states have different festivals.
+  - Wait: Do this on day 2.
 
 ## Projects
 ### p1 · Our Family Festival Book (60 min, 3 days)
@@ -476,39 +561,48 @@ That afternoon, Meenakshi and Arjun made a row of bowls on the kitchen floor, ea
   - Ask: Why are the letters red and the rest of the page yellow? (good: Baking soda is a base, and turmeric turns red in a base.; The paper without baking soda has no base, so the turmeric stays yellow.)
 
 ## Worksheets
-### Festivals and the Turmeric Test (core) (core, 15 questions)
+### Festivals and the Turmeric Test (core) (core, 19 questions)
 1. (match) Match each festival to its state.  
    **Answer:** Pongal → Tamil Nadu; Onam → Kerala; Lohri → Punjab; Magh Bihu → Assam; Uttarayan → Gujarat. *Why:* Each of these is a festival of one state. A strong answer also notices that four of them are the January harvest festival.
-2. (sort) Sort these into things you would find at a mela, and the people who work there.  
+2. (match) Match each festival to something people do at it.  
+   **Answer:** Eid-ul-Fitr → Elders give children Eidi; Durga Puja → People visit big decorated pandals; Deepawali → Families light rows of diyas; Christmas → Homes put up a crib and a star. *Why:* Each festival has its own customs, passed from elders to children.
+3. (sort) Sort these into things you would find at a mela, and the people who work there.  
    **Answer:** bamboo poles → Things; giant wheel → Things; clay pots → Things; Lost and Found booth → Things; bangle seller → People; volunteer → People; cook frying vadai → People; cleaner → People. *Why:* A mela needs both: things to build and sell, and many people to sell, cook, help and clean.
-3. (write) Your neighbour says, "A mela is only about buying toys." Name three other things people do at a mela.  
+4. (write) Your neighbour says, "A mela is only about buying toys." Name three other things people do at a mela.  
    **Answer:** People eat festival food, ride the giant wheel, watch shows, meet friends and relatives, and buy things for the home.. *Why:* A strong answer names three different kinds of things, such as eating, riding and meeting people.
-4. (fill) A thin pattern drawn at the door with rice flour is called a ____.  
+5. (fill) A thin pattern drawn at the door with rice flour is called a ____.  
    **Answer:** ['kolam']. *Why:* A kolam is drawn with rice flour or white stone powder. Rice-flour kolams also feed ants and small birds.
-5. (mcq) At Pongal, families boil the newly harvested rice with jaggery in a new pot until it bubbles over. What is the boiling over a sign of?  
+6. (mcq) At Pongal, families boil the newly harvested rice with jaggery in a new pot until it bubbles over. What is the boiling over a sign of?  
    Options: Plenty: a full harvest and a good year ahead / A mistake in cooking / That the pot is too small  
    **Answer:** Plenty: a full harvest and a good year ahead. *Why:* Pongal is a harvest festival. The pot boiling over shows plenty, which is what people hope the harvest brings. Festival food often carries a meaning like this, as well as being tasty.
-6. (write) Choose one festival your family or neighbours celebrate. Write its food, its clothes or decorations, and one custom.  
+7. (write) Choose one festival your family or neighbours celebrate. Write its food, its clothes or decorations, and one custom.  
    **Answer:** Any true example, such as: Onam, a sadya on a banana leaf, kasavu clothes, and a pookalam of flowers.. *Why:* A strong answer names a real food, a real piece of clothing or decoration, and a custom that people do.
-7. (truefalse) A festival that falls on a new moon night will come on the same date every year.  
+8. (truefalse) A festival that falls on a new moon night will come on the same date every year.  
    **Answer:** False. *Why:* False. New moons fall on different dates of our Sun calendar each year, so the festival moves. Diwali is an example.
-8. (order) Put these steps of the Turmeric Test in order.  
+9. (order) Put these steps of the Turmeric Test in order.  
    **Answer:** ['Pour turmeric water into each bowl', 'Add one spoon of a liquid', 'Wait one minute and look at the colour', 'Write the colour in the table']. *Why:* The turmeric water goes in first, then the liquid. Waiting the same minute for every bowl makes the test fair.
-9. (sort) In the Turmeric Test, which liquids turn turmeric red, and which leave it yellow?  
+10. (sort) In the Turmeric Test, which liquids turn turmeric red, and which leave it yellow?  
    **Answer:** soapy water → Turns red; baking soda water → Turns red; lemon juice → Stays yellow; tamarind water → Stays yellow; salt water → Stays yellow; sugar water → Stays yellow. *Why:* Soap and baking soda are bases, so they turn turmeric red. Lemon and tamarind are acids, and salt and sugar are neither, so turmeric stays yellow.
-10. (draw) Draw two bowls of turmeric water: one after you add lemon juice, one after you add soapy water. Colour them and label each one acid or base.  
+11. (draw) Draw two bowls of turmeric water: one after you add lemon juice, one after you add soapy water. Colour them and label each one acid or base.  
    **Answer:** A yellow bowl labelled 'lemon: acid', and a red-brown bowl labelled 'soap: base'.. *Why:* A strong drawing uses the right colours and the right labels, and may show the lemon and the soap beside each bowl.
-11. (write) Someone says the red aarathi water must have red powder in it. How could you show them they are wrong, using only things from the kitchen?  
+12. (write) Someone says the red aarathi water must have red powder in it. How could you show them they are wrong, using only things from the kitchen?  
    **Answer:** Put a pinch of turmeric in water so they see it is yellow. Let them add soapy water or baking soda themselves. It turns red with no red powder. Then add lemon juice, and it turns yellow again.. *Why:* A strong answer lets the person do the test themselves, uses a base that is plainly not red, and may use lemon to show the change goes back.
-12. (match) Match each national festival to its date.  
+13. (match) Match each national festival to its date.  
    **Answer:** Independence Day → 15 August; Republic Day → 26 January; Gandhi Jayanti → 2 October. *Why:* These three national festivals follow the Sun calendar, so their dates never change.
-13. (truefalse) Lime paste from a paan shop is natural, so it is safe to touch and rub near the eyes.  
+14. (truefalse) Lime paste from a paan shop is natural, so it is safe to touch and rub near the eyes.  
    **Answer:** False. *Why:* False. Lime is a strong base and can burn the eyes and skin. Being natural does not make something safe. Only a grown-up should handle it.
-14. (perspective) Two friends are talking about why we have festivals.  
+15. (perspective) Two friends are talking about why we have festivals.  
    **Answer:** A strong answer picks one reason and gives a real festival as evidence. It then says what is right about the other reason, because most festivals do both: Pongal is a harvest festival and a family gathering, and Eid brings people together after a month of fasting.. *Why:* Both friends are right about some festivals. A strong answer sees that one festival can do more than one job.
-15. (label) Here is a drawing of a mela. Label the bamboo stall, the giant wheel, the Lost and Found booth and the first-aid booth.  
+16. (label) Here is a drawing of a mela. Label the bamboo stall, the giant wheel, the Lost and Found booth and the first-aid booth.  
    **Answer:** ['bamboo stall', 'giant wheel', 'Lost and Found booth', 'first-aid booth']. *Why:* A strong answer finds each place and can say what it is for: selling, riding, finding lost children, and helping people who are hurt.
-### Sun, Moon and Indicators (stretch) (stretch, 15 questions)
+17. (truefalse) Dussehra is celebrated in the same way everywhere in India.  
+   **Answer:** False. *Why:* False. In north India people burn tall figures of Ravana. In Mysuru there is a grand procession, and in Kullu, village gods are carried to a fair. In Bengal the same days are Durga Puja.
+18. (fill) At Deepawali, families light small clay lamps called ____.  
+   **Answer:** ['diyas']. *Why:* A diya is a small clay lamp with a wick. Rows of diyas light up the night at Deepawali.
+19. (mcq) At the mock mela, you have 10 play rupees. A juice costs 4 and a toy costs 5. How much is left after you buy both?  
+   Options: 1 / 2 / 6  
+   **Answer:** 1. *Why:* 4 + 5 = 9, and 10 take away 9 leaves 1 play rupee.
+### Sun, Moon and Indicators (stretch) (stretch, 18 questions)
 1. (mcq) Eid-ul-Fitr was on about 10 April one year. About when will it be the next year?  
    Options: About 30 March / About 10 April again / About 21 April  
    **Answer:** About 30 March. *Why:* Eid comes about 11 days earlier each year. 11 days before 10 April is about 30 March. Picking 21 April means adding the days instead of taking them away.
@@ -520,7 +614,7 @@ That afternoon, Meenakshi and Arjun made a row of bowls on the kitchen floor, ea
 4. (write) A turmeric stain on a white shirt turned red when it was scrubbed with soap. After a long rinse, it turned yellow again. Explain both changes.  
    **Answer:** Soap is a base, so it turned the turmeric red. Rinsing washed the soap away, so the turmeric was in plain water again and turned back to yellow.. *Why:* A strong answer explains the red with the base and the change back with the base being washed away.
 5. (mcq) In the Hibiscus Test, hibiscus juice turned pink with lemon and green with soap. Which can hibiscus do that turmeric cannot?  
-   Options: Show that something is a base / Show that something is an acid / Make red aarathi water  
+   Options: Show that something is an acid / Show that something is a base / Make red aarathi water  
    **Answer:** Show that something is an acid. *Why:* Turmeric stays yellow in acids and in plain water, so it cannot tell them apart. Hibiscus turns pink in acids, so it shows an acid clearly.
 6. (write) You add baking soda water to turmeric water. It turns only a little orange. What could you change to make the colour stronger? Why would it work?  
    **Answer:** Add more baking soda water, or a pinch of dry baking soda. More base makes the change stronger, so the colour turns redder.. *Why:* A strong answer adds more base, and explains that more base makes the colour change stronger.
@@ -542,15 +636,21 @@ That afternoon, Meenakshi and Arjun made a row of bowls on the kitchen floor, ea
 14. (truefalse) A rice-flour kolam is drawn only to look pretty.  
    **Answer:** False. *Why:* False. A kolam is decorative, and rice flour is also food for ants and small birds.
 15. (mcq) Why is sakkarai pongal cooked with new rice at Pongal?  
-   Options: The rice has just been harvested / New rice is the only rice that boils over / Old rice cannot be cooked with jaggery  
+   Options: New rice is the only rice that boils over / Old rice cannot be cooked with jaggery / The rice has just been harvested  
    **Answer:** The rice has just been harvested. *Why:* Pongal is a harvest festival, and festival food often uses the crop that has just been harvested.
-### Think Like a Chemist and a Calendar Maker (challenge) (challenge, 15 questions)
+16. (match) Match each spring festival to its custom.  
+   **Answer:** Vishu, Kerala → A vishukkani is the first sight of the year; Phool Dei, Uttarakhand → Children put flowers on every doorstep; Sarhul, Jharkhand → Sal flowers are offered to the Earth and the Sun; Ugadi, Karnataka → A pachadi has all the tastes of the year. *Why:* All four welcome spring with flowers and food, but each has its own custom.
+17. (order) Put these festivals in order through one year, starting in January.  
+   **Answer:** ['Republic Day', 'Vishu', 'Independence Day', 'Gandhi Jayanti', 'Christmas']. *Why:* Republic Day is 26 January, Vishu is in mid-April, Independence Day is 15 August, Gandhi Jayanti is 2 October and Christmas is 25 December.
+18. (write) Before Eid-ul-Fitr prayer, each family gives food or money to people in need. Why do you think this is done before the prayer?  
+   **Answer:** So that people who have little can also celebrate Eid, and can have good food and clothes like everyone else.. *Why:* A strong answer says that sharing first lets everyone join the celebration.
+### Think Like a Chemist and a Calendar Maker (challenge) (challenge, 16 questions)
 1. (write) Some people say Makara Sankranti is the day the Sun starts moving north in the sky. About 1,700 years ago that was nearly true. Today the Sun starts moving north on about 21 or 22 December. Why have the two days moved apart?  
    **Answer:** Sankranti is fixed by where the Sun is against the stars. The shortest day is fixed by the tilt of Earth's axis. The axis slowly wobbles, so the two days drift apart, about one day in 70 years. Long ago they fell together. Now they are about 24 days apart.. *Why:* A strong answer sees that the two days are measured in different ways, and that one of them slowly drifts.
 2. (perspective) In the 1770s, Antoine Lavoisier said all acids contain oxygen. In 1810, Humphry Davy studied hydrochloric acid, the strong acid that can be made from salt.  
    **Answer:** Davy's, because one acid with no oxygen is enough to show the rule is wrong. Lavoisier did right to look for a pattern in his results and to test many acids. His pattern was true for the acids he had tested.. *Why:* One clear case that breaks a rule shows the rule is wrong. A strong answer also respects Lavoisier for making a rule that could be tested.
 3. (mcq) You mix a mystery white powder in water and add it to turmeric water. It stays yellow. What can you say for sure?  
-   Options: The powder is an acid / The powder is not a base / The powder is salt  
+   Options: The powder is an acid / The powder is salt / The powder is not a base  
    **Answer:** The powder is not a base. *Why:* Turmeric stays yellow in acids and in things that are neither, so you cannot tell which the powder is. You can only say it is not a base. Hibiscus juice would tell you more.
 4. (write) Design a test to find out whether toothpaste is a base. Say what you would use, what you would do, and what each result would mean.  
    **Answer:** Mix a pea-sized blob of toothpaste in 3 spoons of water. Add one spoon to a bowl of turmeric water, and keep a bowl with plain water to compare. Wait one minute. If it turns red, the toothpaste is a base. If it stays yellow, it is not a base.. *Why:* A strong design has a control, the same amounts and wait, and says what red and yellow would each mean.
@@ -558,7 +658,7 @@ That afternoon, Meenakshi and Arjun made a row of bowls on the kitchen floor, ea
    Options: Vishu / Christmas / Ganesh Chaturthi / Independence Day  
    **Answer:** 2. *Why:* Ganesh Chaturthi is counted from a new moon, so it moves between August and September. Vishu, Christmas and Independence Day follow the Sun.
 6. (mcq) A seller at a mela wants her stall to survive a windy evening. Which change helps most?  
-   Options: A heavier cloth roof / Slanted poles from the corners to the ground, making triangles / Taller poles  
+   Options: Slanted poles from the corners to the ground, making triangles / A heavier cloth roof / Taller poles  
    **Answer:** Slanted poles from the corners to the ground, making triangles. *Why:* Triangles do not change shape when pushed, so slanted poles stop the stall leaning over. A heavier roof or taller poles make it more likely to tip.
 7. (write) A mela is built in a week and gone in a week. Think of three people whose work keeps going after it ends, and say why.  
    **Answer:** The potter and toy maker, who start making things for the next mela. The cleaners, who clear the ground. The families who earned money, who use it for the rest of the year.. *Why:* A strong answer thinks past the mela days, about makers, cleaners and the money and memories people take home.
@@ -579,6 +679,8 @@ That afternoon, Meenakshi and Arjun made a row of bowls on the kitchen floor, ea
 15. (mcq) The Hindu calendar adds an extra month about every three years. What would happen to Diwali if it did not?  
    Options: Diwali would slide about 11 days earlier each year and move through the seasons / Diwali would always be on the same date / Diwali would come in the same month, 11 days later each year  
    **Answer:** Diwali would slide about 11 days earlier each year and move through the seasons. *Why:* Without the extra month, a Moon year is about 11 days short of a Sun year. Diwali would slide earlier each year, as Eid does.
+16. (write) Deepawali remembers Rama's return in the north, and Krishna defeating Narakasura in the south. Why might one festival have different stories in different places? What is the same?  
+   **Answer:** People in different places have told their own stories for a long time. What is the same is the lamps, the new clothes, the sweets and the joy of light in the dark.. *Why:* A strong answer respects both stories and names what people share. There is no single right answer.
 
 ## Videos
 - **Turmeric and Red Rose as Indicators | Exploring substances | Grade 7 | Science | Khan Academy** (Khan Academy India - English, 6 min) id `PmjT6Z_Cz5c`: Shows turmeric changing colour with acids and bases, and a flower indicator too. It is made for older children, so watch it after the Turmeric Test, and pause to talk. *Check:* Preview it first, then watch together.
@@ -587,28 +689,28 @@ That afternoon, Meenakshi and Arjun made a row of bowls on the kitchen floor, ea
 
 ## Quiz
 1. (mcq) Why are mela stalls usually made of bamboo poles, rope and cloth?  
-   Options: They are light, and quick to put up and take down / They are the strongest materials there are / Bricks are not allowed at a mela  
+   Options: They are the strongest materials there are / Bricks are not allowed at a mela / They are light, and quick to put up and take down  
    **Answer:** They are light, and quick to put up and take down. *Why:* A mela lasts a few days or weeks, so its stalls must go up and come down quickly. Bamboo and cloth are light and can be used again. Bamboo is strong for its weight, but bricks and steel are stronger. They would just take too long.
 2. (mcq) You get lost at a big mela. What is the best thing to do?  
-   Options: Walk around until you find your family / Go to the Lost and Found booth, or ask a police officer or a volunteer / Leave the mela and walk home  
+   Options: Go to the Lost and Found booth, or ask a police officer or a volunteer / Walk around until you find your family / Leave the mela and walk home  
    **Answer:** Go to the Lost and Found booth, or ask a police officer or a volunteer. *Why:* The Lost and Found booth, the police and the volunteers are there to help lost children. Your family will look for you there. Walking around makes you harder to find.
 3. (mcq) In Kerala, Onam comes just when the rice is harvested. Families cook a big meal with the new crop and share it. Why do so many festivals come at harvest time?  
-   Options: People have new food to share, and want to give thanks for it / Schools are closed then / It never rains at harvest time  
+   Options: Schools are closed then / People have new food to share, and want to give thanks for it / It never rains at harvest time  
    **Answer:** People have new food to share, and want to give thanks for it. *Why:* After the harvest, there is plenty of food and the hardest work is done. So people gather, share the new crop and give thanks. Schools and rain have nothing to do with it.
 4. (mcq) Pongal, Lohri, Magh Bihu and Uttarayan all come in mid-January. What do they have in common?  
    Options: They are all festivals of Tamil Nadu / They all celebrate the winter harvest, under different names / They all have kite flying  
    **Answer:** They all celebrate the winter harvest, under different names. *Why:* They are the same harvest festival in different states: Tamil Nadu, Punjab, Assam and Gujarat. Kites are the custom in Gujarat, but not everywhere.
 5. (mcq) Why does Pongal come on 14 or 15 January almost every year?  
-   Options: It follows the Sun, like our school calendar / It follows the Moon / The government chose the date  
+   Options: It follows the Moon / The government chose the date / It follows the Sun, like our school calendar  
    **Answer:** It follows the Sun, like our school calendar. *Why:* Pongal is fixed by the Sun's place in the sky, so it stays in step with our Sun calendar. Festivals that follow the Moon, like Diwali, move.
 6. (mcq) Eid-ul-Fitr comes about 11 days earlier every year. Why?  
-   Options: People choose an earlier day each year / Twelve Moon months are about 11 days shorter than a Sun year / The Earth is speeding up  
+   Options: Twelve Moon months are about 11 days shorter than a Sun year / People choose an earlier day each year / The Earth is speeding up  
    **Answer:** Twelve Moon months are about 11 days shorter than a Sun year. *Why:* Twelve Moon months are about 354 days, and a Sun year is about 365. The Islamic calendar follows only the Moon, so Eid slides 11 days earlier on our calendar each year.
 7. (mcq) What does Republic Day, on 26 January, remember?  
    Options: The day India became free from British rule / The day India's Constitution came into force, in 1950 / Mahatma Gandhi's birthday  
    **Answer:** The day India's Constitution came into force, in 1950. *Why:* Republic Day remembers 26 January 1950, when the Constitution came into force. Independence Day, 15 August 1947, is the day India became free. Gandhi Jayanti, 2 October, is his birthday.
 8. (mcq) Which of these is a national festival, celebrated by the whole country?  
-   Options: Vishu / Gandhi Jayanti / Durga Puja  
+   Options: Gandhi Jayanti / Vishu / Durga Puja  
    **Answer:** Gandhi Jayanti. *Why:* Gandhi Jayanti, on 2 October, is one of India's three national festivals, with Independence Day and Republic Day. Vishu and Durga Puja are celebrated mostly in some states.
 9. (mcq) You add a spoon of soapy water to yellow turmeric water. What will you most likely see?  
    Options: It stays yellow / It turns red-brown / It turns blue  
@@ -617,11 +719,35 @@ That afternoon, Meenakshi and Arjun made a row of bowls on the kitchen floor, ea
    Options: More baking soda / Lemon juice / Sugar  
    **Answer:** Lemon juice. *Why:* Lemon juice is an acid. Enough of it changes the curcumin back, and the colour turns yellow again. More baking soda makes it redder. Sugar is neither an acid nor a base, so it does nothing.
 11. (mcq) How does a pinch of lime turn turmeric water into red aarathi water?  
-   Options: Lime is a base, and turmeric turns red in bases / Lime has red colour hidden inside it / Lime makes the water hot, and it burns  
+   Options: Lime has red colour hidden inside it / Lime is a base, and turmeric turns red in bases / Lime makes the water hot, and it burns  
    **Answer:** Lime is a base, and turmeric turns red in bases. *Why:* Lime is white, so it adds no red. It is a strong base, and turmeric turns red in bases. The same happens with soap and baking soda in the Turmeric Test.
 12. (mcq) A chemist thinks every acid contains oxygen. What would show that this idea is wrong?  
    Options: Finding just one acid that has no oxygen in it / Finding more acids that do have oxygen in them / Tasting an acid  
    **Answer:** Finding just one acid that has no oxygen in it. *Why:* One clear case that breaks a rule is enough to show the rule is wrong. For example, hydrochloric acid is made of hydrogen and chlorine, with no oxygen. It can be made from salt, and it is also the acid in your stomach. Finding more acids that have oxygen cannot prove the rule, because the next acid might break it.
+13. (mcq) What is Eidi?  
+   Options: A small gift of money that elders give to children / A sweet made of seviyan / The special Eid prayer  
+   **Answer:** A small gift of money that elders give to children. *Why:* Eidi is a gift of money that children get at Eid. Seviyan is the sweet dish, and the prayer is held at the mosque or idgah.
+14. (mcq) At the end of the nine nights, big figures of Ravana are burnt in north India. Which play comes first?  
+   Options: Ramlila / Mattu Pongal / Lohri  
+   **Answer:** Ramlila. *Why:* The Ramlila is a play of the story of Rama, and it ends with the burning of Ravana at Dussehra. Mattu Pongal and Lohri are harvest festivals in January.
+15. (mcq) Why do many families light only diyas at Deepawali and few firecrackers?  
+   Options: Crackers can only be used at Christmas / Crackers make smoke and noise that harm people and frighten animals / Diyas are brighter than the Moon  
+   **Answer:** Crackers make smoke and noise that harm people and frighten animals. *Why:* The smoke hurts weak lungs, and the loud noise frightens dogs, birds and cows. Diyas give a soft light without these harms.
+16. (mcq) What is a crib at Christmas?  
+   Options: A small model of the baby Jesus in a stable, with Mary, Joseph and animals / A rich plum cake / A paper star lantern  
+   **Answer:** A small model of the baby Jesus in a stable, with Mary, Joseph and animals. *Why:* A crib shows the scene of Jesus's birth. The plum cake is a Christmas food, and a star lantern is a decoration.
+17. (mcq) At Vishu in Kerala, why are family members led to the vishukkani with their eyes closed?  
+   Options: So the first thing they see in the new year is a sign of plenty / So they cannot see the sadya / Because the room is dark  
+   **Answer:** So the first thing they see in the new year is a sign of plenty. *Why:* The vishukkani has rice, fruit, flowers and a lamp. Seeing it first is a way of wishing for plenty in the new year.
+18. (mcq) At Sarhul in Jharkhand, which tree's flowers are offered in the sacred grove?  
+   Options: Neem / Sal / Mango  
+   **Answer:** Sal. *Why:* Sarhul comes when the sal trees flower. The priest offers sal flowers to the Earth and the Sun. Neem flowers are used for Ugadi pachadi.
+19. (mcq) Why do children use play money at a mock mela?  
+   Options: They can practise buying and selling without spending real money / Real money is not allowed at melas / Play money is worth more  
+   **Answer:** They can practise buying and selling without spending real money. *Why:* A mock mela is for learning how a mela works. Play money lets everyone count and give change, and nobody loses real money.
+20. (mcq) You want to record which festivals your family has in each season. What is the clearest way?  
+   Options: A chart with columns for season, festival and food / Only the names of the festivals / Just remember them  
+   **Answer:** A chart with columns for season, festival and food. *Why:* A chart puts the seasons, festivals and foods side by side, so you can compare. A list of names alone loses the food and the season.
 
 ## Applications
 - Making kumkum and aarathi water from turmeric and lime.
@@ -637,7 +763,7 @@ That afternoon, Meenakshi and Arjun made a row of bowls on the kitchen floor, ea
 - A yellow turmeric stain on a shirt turning red when it is scrubbed with soap.
 - Red aarathi water in a plate, held up to welcome someone home.
 - Rice-flour kolams at doorsteps in the morning, and ants at their edges by afternoon.
-- Kites over rooftops in Ahmedabad and Hyderabad at Sankranti.
+- Kites over rooftops at Sankranti.
 - A printed calendar on the kitchen wall with festival days marked in red.
 - Bamboo stalls and a giant wheel going up on an empty ground before a festival.
 - The flag hoisted on a housing society terrace on Independence Day.
@@ -692,6 +818,9 @@ Our Street, Our Mela (sci.community.L3): Topic-level song for Community and neig
 ## Things to buy
 - [A small packet of baking soda (cooking soda)](https://www.amazon.in/s?k=baking+soda) (material): Many kitchens have it. If yours does not, any grocery shop sells it cheaply. It is the base that turns turmeric red in the tests and the secret greeting. Soapy water works in its place for most steps. Used in e1, e2, c2. 
 - [A small tube or packet of lime paste (chuna or sunnambu)](https://www.amazon.in/s?k=chuna+lime+paste) (material): Only for making aarathi water with a grown-up. Paan shops sell it in small amounts. Baking soda can be used instead, for a lighter red. Used in a4. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in A Timeline of Our National Festivals. About ₹10 to ₹30. Any school ruler is fine. Used in a5. Get it before A Timeline of Our National Festivals.
+- [Wooden ice-cream sticks (a pack)](https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack) (material): Used in Build a Mela Stall That Stands Up. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in. Used in c1. Get it before Build a Mela Stall That Stands Up.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What colour does turmeric turn in soapy water? → Red-brown.
@@ -705,7 +834,7 @@ Our Street, Our Mela (sci.community.L3): Topic-level song for Community and neig
 
 ## Plan
 - Start options: a1, story, e1, g1, big_questions, cards, a2
-- Default order: intro → a1 → e1 → summary → terms → explanations → story → g1 → a2 → e3 → g2 → videos → ws-core → a4 → e2 → a3 → a5 → agreed → challenging → p1 → ws-stretch → c1 → c2 → big_questions → ws-challenge → open_questions → roots → quiz
+- Default order: intro → a1 → e1 → summary → terms → explanations → story → g1 → a2 → e3 → g2 → videos → ws-core → a4 → e2 → a3 → a5 → agreed → challenging → p1 → ws-stretch → c1 → c2 → a6 → a7 → big_questions → ws-challenge → open_questions → roots → quiz
 - Core: a1, e1, e3, g1, ws-core
 
 ## Sources

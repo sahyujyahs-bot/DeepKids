@@ -268,7 +268,8 @@
    "examples": [
     "Kanyakumari: about 12 hours 36 minutes on 21 June and 11 hours 39 minutes on 21 December.",
     "Delhi: about 13 hours 59 minutes on 21 June and 10 hours 20 minutes on 21 December.",
-    "In Tromso in Norway the Sun stays up all night from about 20 May to 22 July."
+    "In Tromso in Norway the Sun stays up all night from about 20 May to 22 July.",
+    "At the North Pole the Sun stays low in the sky, so its rays arrive at a slant. The ground stays cold, even on the long summer day."
    ],
    "perspectives": [
     {
@@ -1058,12 +1059,12 @@
       "t": "mcq",
       "q": "The ball leaned the same way at every place. So why did the count change?",
       "options": [
+       "The light met the same lean from a different side",
        "The lamp grew brighter at place 1",
        "The ball was nearer the lamp at place 1",
-       "The light met the same lean from a different side",
        "The ball spun faster at place 1"
       ],
-      "a": 2,
+      "a": 0,
       "why": "The lean never changed, and every place was 60 cm from the lamp. Only the side the light came from changed. If you chose 'nearer', measure the four distances again."
      },
      "context": "This is the working-out step of The Leaning Ball. You turn dots into hours and match the four places to the solstices and equinoxes."
@@ -1187,10 +1188,10 @@
       "options": [
        "About 6 hours",
        "About 3 hours",
-       "About 1 hour",
-       "Almost no difference"
+       "Almost no difference",
+       "About 1 hour"
       ],
-      "a": 3,
+      "a": 2,
       "why": "The difference shrinks as you go south: about 4 and a half hours in Srinagar and under 1 hour in Kanyakumari. At the equator every day is close to 12 hours. If you chose a larger number, look at how your four bars change from north to south."
      },
      "parent": "In June the Sun rises in Delhi 40 minutes before it rises in Kanyakumari. In December it rises in Kanyakumari 41 minutes before Delhi. The line between night and day leans across India one way in June and the other way in December. The differences do not grow evenly. They grow faster and faster towards the pole.",
@@ -1404,7 +1405,7 @@
      "qty": 1
     }
    ],
-   "record": "Keep the wheel on a wall. Through the year, write the real date each time one of your seasons begins.",
+   "record": "Keep the wheel on a wall. Through the year, write the real date each time one of your seasons begins. Also keep a seasons journal: once in each season, on the same day, write one entry under five themes: plants, animals, weather, water and people.",
    "setup": [
     {
      "art": "A large circle drawn on paper and divided lightly into twelve months round the rim.",
@@ -2333,12 +2334,12 @@
      "t": "mcq",
      "p": "A torch shines on a card. The card leans back. What happens to the patch of light?",
      "opts": [
-      "It gets brighter and smaller",
       "It gets longer and dimmer",
+      "It gets brighter and smaller",
       "It stays the same",
       "It moves but keeps its size"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The same light is spread over a longer patch, so each square gets less. If you chose 'the same', try it once more with a torch and a book.",
      "outcome": 1
     },
@@ -2408,12 +2409,12 @@
      "t": "mcq",
      "p": "Where does the length of the day change least through the year?",
      "opts": [
+      "Kanyakumari",
       "Srinagar",
       "Delhi",
-      "Chennai",
-      "Kanyakumari"
+      "Chennai"
      ],
-     "a": 3,
+     "a": 0,
      "why": "Kanyakumari is nearest the equator, where every day is close to 12 hours. The change grows as you go north.",
      "outcome": 4
     },
@@ -2483,11 +2484,11 @@
      "p": "About when is Pongal, counted from the December solstice?",
      "opts": [
       "On the same day",
-      "About 3 weeks later",
       "About 3 months later",
-      "About 3 weeks earlier"
+      "About 3 weeks earlier",
+      "About 3 weeks later"
      ],
-     "a": 1,
+     "a": 3,
      "why": "Pongal is about 14 January, 24 days after the solstice of about 21 December. About 1,700 years ago the two fell on the same day.",
      "outcome": 7
     },
@@ -2519,11 +2520,11 @@
      "p": "A card leans until the torch patch is twice as long. How much light does each square get now?",
      "opts": [
       "Twice as much",
-      "The same",
       "Half as much",
+      "The same",
       "None"
      ],
-     "a": 2,
+     "a": 1,
      "why": "The same light covers twice the area, so each square gets half. If you chose 'the same', remember that the torch did not get brighter.",
      "outcome": 1
     },
@@ -2585,6 +2586,41 @@
      "outcome": 3
     },
     {
+     "t": "sort",
+     "p": "Sort these journal notes into the five themes: plants, animals, weather, water and people.",
+     "cats": [
+      "Plants",
+      "Animals",
+      "Weather",
+      "Water",
+      "People"
+     ],
+     "items": [
+      [
+       "the mango trees are in flower",
+       "Plants"
+      ],
+      [
+       "a koel calls at dawn",
+       "Animals"
+      ],
+      [
+       "a cool wind comes after the hot dry spell",
+       "Weather"
+      ],
+      [
+       "the village well is low",
+       "Water"
+      ],
+      [
+       "the family gathers for a cousin's wedding",
+       "People"
+      ]
+     ],
+     "a": "see items",
+     "why": "Each note tells you about one theme only. A flowering tree is about plants, a calling bird is about animals, and a cool wind is about weather."
+    },
+    {
      "t": "write",
      "p": "In June the noon shadow of a pole in Chennai points south. Explain why.",
      "lines": 3,
@@ -2614,12 +2650,12 @@
      "t": "mcq",
      "p": "Why is Delhi's coldest week in January and not on 21 December?",
      "opts": [
-      "The Earth is farthest from the Sun in January",
       "The ground keeps losing heat for some weeks",
+      "The Earth is farthest from the Sun in January",
       "January days are shorter than December days",
       "The Sun gives less light in January"
      ],
-     "a": 1,
+     "a": 0,
      "why": "After the shortest day, the ground still loses more heat each night than it gains each day, for a few more weeks. The Earth is in fact nearest the Sun in January.",
      "outcome": 5
     },
@@ -2848,12 +2884,12 @@
      "t": "mcq",
      "p": "Sulochana Gadgil described the monsoon as what?",
      "opts": [
-      "A giant sea breeze",
       "A rain belt that follows the overhead Sun",
+      "A giant sea breeze",
       "Wind made by the Earth's spin",
       "Rain sent down by the Himalaya"
      ],
-     "a": 1,
+     "a": 0,
      "why": "She showed that India's monsoon behaves like the band of rain clouds near the equator, moved north in summer. The sea breeze idea is Edmond Halley's, from 1686.",
      "outcome": 5
     },
@@ -2915,12 +2951,12 @@
    "t": "mcq",
    "p": "Which motion of the Earth gives us the year?",
    "opts": [
-    "Rotation on its axis",
     "Revolution round the Sun",
+    "Rotation on its axis",
     "The wobble of the axis",
     "The Moon's orbit"
    ],
-   "a": 1,
+   "a": 0,
    "why": "One revolution round the Sun is one year. Rotation gives the day. If you chose rotation, think of a top that spins while it slides round a table.",
    "outcome": 0
   },
@@ -2928,12 +2964,12 @@
    "t": "mcq",
    "p": "About how long does the Earth take to go once round the Sun?",
    "opts": [
+    "365 days and 6 hours",
     "24 hours",
     "29 and a half days",
-    "365 days and 6 hours",
     "26,000 years"
    ],
-   "a": 2,
+   "a": 0,
    "why": "The extra 6 hours add up to one day in four years, which is why we have leap years.",
    "outcome": 0
   },
@@ -2941,12 +2977,12 @@
    "t": "mcq",
    "p": "In which month is the Earth nearest to the Sun?",
    "opts": [
-    "January",
     "April",
+    "January",
     "June",
     "September"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Early January. This is winter in the north, so nearness cannot be the cause of summer.",
    "outcome": 1
   },
@@ -2954,12 +2990,12 @@
    "t": "mcq",
    "p": "Why does slanting sunlight warm the ground less than light from overhead?",
    "opts": [
-    "It comes from a cooler part of the Sun",
     "It is spread over more ground",
+    "It comes from a cooler part of the Sun",
     "It travels more slowly",
     "It is a different colour"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The same light covers a larger patch, so each square metre gets less. It also crosses more air on the way.",
    "outcome": 1
   },
@@ -2968,11 +3004,11 @@
    "p": "It is winter in Srinagar. What season is it in Sydney, Australia?",
    "opts": [
     "Winter",
-    "Summer",
     "Monsoon",
-    "Sydney has no seasons"
+    "Sydney has no seasons",
+    "Summer"
    ],
-   "a": 1,
+   "a": 3,
    "why": "When the northern end of the axis leans away from the Sun, the southern end leans towards it. If you chose winter, picture the leaning ball at place 3.",
    "outcome": 2
   },
@@ -2980,12 +3016,12 @@
    "t": "mcq",
    "p": "What would happen to the seasons if the Earth's axis stood upright?",
    "opts": [
+    "Almost no seasons",
     "Hotter summers",
     "Seasons would swap",
-    "Almost no seasons",
     "Longer winters"
    ],
-   "a": 2,
+   "a": 0,
    "why": "With no lean, every place would get the same slant of light and 12 hours of day all year.",
    "outcome": 2
   },
@@ -3007,11 +3043,11 @@
    "p": "What is true on the two equinoxes?",
    "opts": [
     "The Earth is nearest the Sun",
-    "Day and night are nearly equal everywhere",
     "The Sun does not rise in India",
+    "Day and night are nearly equal everywhere",
     "It is the hottest day"
    ],
-   "a": 1,
+   "a": 2,
    "why": "On an equinox the line between day and night passes through both poles, so every place gets about 12 hours of each.",
    "outcome": 3
   },
@@ -3021,11 +3057,24 @@
    "opts": [
     "Kanyakumari",
     "Chennai",
-    "Mumbai",
-    "Srinagar"
+    "Srinagar",
+    "Mumbai"
    ],
-   "a": 3,
+   "a": 2,
    "why": "Srinagar is furthest from the equator. Its longest day is about 4 and a half hours longer than its shortest.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "The Sun stays up for about six months at the North Pole. Why is the pole still very cold?",
+   "opts": [
+    "Its rays arrive at a slant and spread thin over the ground",
+    "The Sun never rises there",
+    "The pole is the farthest place from the Sun",
+    "The Sun's day is short there"
+   ],
+   "a": 0,
+   "why": "The Sun does rise there in spring, and it stays up all summer. But it stays low in the sky, so its light spreads over a wide patch of ground. The pole is not the farthest place from the Sun, and the Sun's day is long there, not short.",
    "outcome": 4
   },
   {
@@ -3033,11 +3082,11 @@
    "p": "What is a monsoon?",
    "opts": [
     "Any heavy rain",
-    "A wind that reverses with the seasons",
     "A storm from the sea",
+    "A wind that reverses with the seasons",
     "The hottest month"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The word means season. The wind blows from the south-west sea in summer and from the north-east in winter.",
    "outcome": 5
   },
@@ -3058,14 +3107,27 @@
    "t": "mcq",
    "p": "Why does Pongal now come about three weeks after the December solstice?",
    "opts": [
-    "The Earth has slowed down",
     "The axis slowly wobbles, shifting the stars",
+    "The Earth has slowed down",
     "The calendar lost three weeks in 1957",
     "The Sun has moved"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Pongal follows the stars. Precession slowly shifts the stars behind the Sun, about one day in 70 years.",
    "outcome": 7
+  },
+  {
+   "t": "mcq",
+   "p": "A seasons journal has five themes: plants, animals, weather, water and people. Which theme does this entry fit? 'The tap ran dry in April and is running again in July.'",
+   "opts": [
+    "Plants",
+    "Weather",
+    "People",
+    "Water"
+   ],
+   "a": 3,
+   "why": "That note is about water in the tap. A note about heat or wind would go under weather, and a note about who came to the house would go under people.",
+   "outcome": 6
   }
  ],
  "videos": [
@@ -3312,6 +3374,85 @@
     "e1",
     "c1"
    ]
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Lean or Distance: which one changes the light more?, The Leaning Ball: would an upright Earth have seasons?, Four Cities, Two Days: where does the length of the day change most?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e2",
+    "e3",
+    "a1",
+    "a3",
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before Lean or Distance: which one changes the light more?."
+  },
+  {
+   "id": "b-small-torch-bulbs-or-leds-wi",
+   "item": "Small torch bulbs or LEDs with a holder",
+   "kind": "tool",
+   "why": "Used in The Leaning Ball: would an upright Earth have seasons?. About ₹10 to ₹50. A small torch can be taken apart for its bulb.",
+   "url": "https://www.amazon.in/s?k=torch+bulb+holder+set",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before The Leaning Ball: would an upright Earth have seasons?."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Lean or Distance: which one changes the light more?, The Wobbling Top: a fast spin and a slow circle, The Noon Shadow Diary: six weeks of one stick (if sunlight reaches a floor in your home at noon). About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "e1",
+    "a4",
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before Lean or Distance: which one changes the light more?."
+  },
+  {
+   "id": "b-graph-paper",
+   "item": "Graph paper",
+   "kind": "material",
+   "why": "Used in Four Cities, Two Days: where does the length of the day change most?. About ₹10 to ₹30. Draw squares on plain paper.",
+   "url": "https://www.amazon.in/s?k=graph+paper+notebook",
+   "used_in": [
+    "e3"
+   ],
+   "plan": "Get it before Four Cities, Two Days: where does the length of the day change most?."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in Lean or Distance: which one changes the light more?. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before Lean or Distance: which one changes the light more?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

@@ -1,9 +1,9 @@
 # A balanced diet: why your body needs many kinds of food
 `sci.food.balanced-diet.L3`
 
-**Summary.** A plate of rice can fill your stomach and still leave your body short of protein and vitamins. Why? In this unit you will build a balanced thali, test which fruit has the most vitamin C, and follow a chapati to your cells with paper clips.
+**Summary.** A plate of rice can fill your stomach and still leave your body short of protein and vitamins. Why? In this lesson you will build a balanced thali, test which fruit has the most vitamin C, and follow a chapati to your cells with paper clips.
 
-**Intro.** *Breathe out slowly onto your hand. Feel how warm it is. Part of that breath is the chapati or rice you ate yesterday. How did your food get into your breath?* Almost all our food starts as plants growing in sunlight. In this unit we follow food after you swallow it. A spoon of dal does not stay dal for long. It is broken into pieces far too small to see. Then it travels in your blood to every part of you. Some of it becomes your muscles and your hair. Your cells use some of it as fuel. What is left over leaves your body as a gas when you breathe out. Some of it feeds trillions of tiny living things in your gut. So why do we need so many kinds of food? Why not just eat rice, or just eat sweets?
+**Intro.** *Breathe out slowly onto your hand. Feel how warm it is. Part of that breath is the chapati or rice you ate yesterday. How did your food get into your breath?* Almost all our food starts as plants growing in sunlight. In this lesson we follow food after you swallow it. A spoon of dal does not stay dal for long. It is broken into pieces far too small to see. Then it travels in your blood to every part of you. Some of it becomes your muscles and your hair. Your cells use some of it as fuel. What is left over leaves your body as a gas when you breathe out. Some of it feeds trillions of tiny living things in your gut. So why do we need so many kinds of food? Why not just eat rice, or just eat sweets?
 
 ## Learning outcomes
 0. I can say what a balanced diet is: many kinds of food, in about the right amounts, over a day or a week.
@@ -257,14 +257,61 @@ That summer I found a broken kerosene tin and filled it with earth from the rail
 
 When the first leaves came, small and round and green, I picked a handful. I washed them at the tap, chopped them as fine as I could, and stirred them into my mother's dal.
 
-**For the parent:** For the parent: the key moment is the doctor's sentence, 'Enough food is not the same as the right food.' Sakhu's stomach was full of rice every day, but her diet was not balanced. It was missing a vitamin, later named folate, that the body needs only in tiny amounts to make new blood cells. At the end, Kamal grows methi leaves for her mother. The story does not say why, but the missing vitamin is found in leaves. Whether a family eats a balanced diet often depends on money and work, not on knowing better.
 
-- Ask: Aai said she was not hungry. Why was she still ill?
-- Ask: What did the doctor mean when she said 'enough food is not the same as the right food'?
-- Ask: Why do you think the rich ladies on Malabar Hill did not get the pale sickness?
-- Ask: The doctor said she did not know yet what was in the jar. Was it brave or strange for a doctor to say that?
-- Ask: Why did Kamal grow methi at the end? What did she understand?
-- Ask: Why could Kamal's family not buy leaves in the city? Whose fault was that?
+## Another story: Sundari and the Sweet Rice Balls
+**
+
+My name is Sundari. I am an elephant, and I live at a big temple in Kumbakonam, a town of many temples near the Kaveri river.
+
+Every morning, before the sun is hot, my keeper Selvi scrubs my back with a coconut husk and paints a white and red mark on my forehead. Then I walk to the temple gate and stand on the warm stone, and the people come.
+
+They bring me gifts. Bananas, a stick of sugarcane, and best of all, sweet rice balls with jaggery. I reach out with the tip of my trunk, take each gift and pop it into my mouth. Then I touch each child's head gently with my trunk. The children squeal and laugh, and their mothers fold their hands.
+
+I loved the sweet rice balls most. They were soft and warm, and the jaggery stuck to my tongue. One, then ten, then fifty. By evening I was so full that I did not want the grass Selvi brought me. I pushed the bundle away with my foot.
+
+Months went by like that. I grew heavy. My feet ached on the hot stone. At night my tummy rumbled and grumbled, and I could not sleep. I was never hungry, but I was not happy either. Selvi stroked my ear and said nothing, but I could tell she was worried.
+
+One day a young woman came to see me. She was Dr. Revathi, an animal doctor. She did not bring me a sweet. She sat on the temple steps with a notebook and watched me for the whole day. She counted the rice balls. She looked at my feet. She even looked at my dung, which I thought was rude.
+
+In the evening she said to Selvi, 'Sundari is eating festival food every day. An elephant's body is made for plants: grass, leaves, branches and bark. In the forest, elephants walk and eat plants for most of the day and part of the night.'
+
+'But she loves the sweets,' said Selvi.
+
+'Everyone loves sweets,' said Dr. Revathi. 'That is why it is hard to stop.'
+
+So one cool season, they took me on a long, bumpy ride in a truck to a camp in the forest by a river. I smelled the other elephants before I saw them. There were dozens of us, all temple elephants, all a little too heavy.
+
+In the forest there were no rice balls. There were no bananas on plates. There was tall grass, and bamboo, and leafy branches piled high.
+
+I sulked. I stood under a tree and did not eat. Selvi sat beside me and did not make me.
+
+An old elephant named Kamakshi walked past. She wrapped her trunk around a clump of grass and pulled it up, roots and all. She knocked the soil off against her knee, thump, thump, and put the grass in her mouth. She chewed slowly, looking at nothing, and then she pulled up another clump.
+
+By evening I was hungry. Not a little bit hungry, the way I felt at the temple when a child came late with a rice ball. This hunger was deep and loud. My tummy roared.
+
+So I copied Kamakshi. I pulled up a clump of grass. I knocked off the soil, thump, thump. It was rough and it took a long time to chew. It was not sweet at all. I pulled up another clump, and another. I stripped the leaves off a branch with my trunk. I walked to the river and drank, and splashed water on my back, and came back for more.
+
+That night I slept the whole night through.
+
+The days went on like this. Walk, pull, thump, chew. Bathe. Walk, pull, thump, chew. I was eating almost all day, but I never felt stuffed. The ground was soft under my feet, and slowly the ache in them went away. My tummy was quiet. My body felt like my own again.
+
+One afternoon Dr. Revathi came to the camp and found me by the river. She watched me for a while, the way she had on the temple steps. Then she smiled. 'Well, Sundari,' she said. 'Is grass as good as rice balls?'
+
+I did not have words to answer her. I pulled up another clump, knocked it on my knee, the way Kamakshi does, and ate.
+
+After many weeks I went home to the temple. Now, every morning, Selvi brings me a great heap of grass and palm leaves, and I eat it slowly while the bells ring. People still come to the gate.
+
+Yesterday a small girl named Kavya came with her mother. She held up one banana in both hands, her arms stretched as high as they would go. I took it with the tip of my trunk, very gently, and put it in my mouth.
+
+It was the sweetest thing I had tasted in weeks. It tasted like a festival.
+
+**For the parent:** For the parent: Sundari's own problem comes first. An elephant's body needs a lot of plants, eaten slowly through the day, but the sweet rice balls filled her so fast that she never ate the grass her body needed. The turn comes when she feels real hunger in the forest and copies Kamakshi: she eats plain food all day and her body feels well again. At the end, one banana tastes like a festival, because a treat is special when it comes sometimes, not all day.
+
+- Ask: Why did Sundari push away the grass at the temple?
+- Ask: How was the hunger in the forest different from how Sundari felt at the temple?
+- Ask: Why did Sundari feel better in the forest, even though she ate almost all day?
+- Ask: Why did one banana taste like a festival at the end?
+- Ask: What food is your 'festival food', the kind you have only sometimes?
 
 ## Games
 ### g1 · Cell Delivery (25 min)
@@ -556,6 +603,22 @@ When the first leaves came, small and round and green, I picked a handful. I was
   *Child mode:* Point to how full you feel now. Is it different from before?
   - Ask: How does your body tell you it is full? (good: My tummy feels stretched.; Food stops tasting so nice.; I feel slower.)
   - Think: Who in your home eats first, and who eats last? Does everyone get to stop when they are full, and eat when they are hungry?
+### a7 · A Week of Plates: check the week's food (15 min, 7 days)
+- **record:** The week's colour counts, one sentence on what was missing, and one change for next week.
+- **schedule:** day 1: Each evening, list the day's food and colour it, as in Yesterday's Plate. (2 min); day 7: Count each colour for the whole week, check the balance, and choose one change for next week. (13 min)
+- **s1 (3 min)**  
+  *Parent does:* 1. Each evening, list the day's food and mark each food with its colour dots, as in Yesterday's Plate. 2. Keep the seven sheets together.  
+  *Parent says:* Each night, colour what you ate. Yellow is for go, red for grow, green for glow and blue for drinks.  
+  *Child mode:* Each night, colour your food. Yellow, red, green, blue.
+- **s2 (7 min)**  
+  *Parent does:* 1. Count each colour across the seven days. 2. Ask: did most days have a red dot and a green dot? 3. Write one sentence for each answer.  
+  *Parent says:* Did most days have a body-building food? A vegetable or fruit? Which colour is missing most?  
+  *Child mode:* Count each colour for the week. Which colour is missing most?
+  - Note: Many children have plenty of yellow and few greens. Do not judge the week. Look for the one gap that shows most.
+- **s3 (5 min)**  
+  *Parent does:* 1. Choose one small change for next week, such as a bowl of curd with lunch or a handful of chana as a snack. 2. Pick one eating habit to try: for example, eating dinner without the TV or phone on, so you can notice when you are full.  
+  *Parent says:* What is one small change you can make next week? Which habit will you try?  
+  *Child mode:* Pick one change for next week. Pick one habit to try too.
 
 ## Projects
 ### p1 · The 30-Plant Week: feed your gut microbes (50 min, 7 days)
@@ -625,7 +688,7 @@ When the first leaves came, small and round and green, I picked a handful. I was
   - Think: Mountaineers and soldiers in the Himalayas need much more energy than usual. Why do you think cold and climbing use so much?
 
 ## Worksheets
-### My Balanced Plate (core) (core, 15 questions)
+### My Balanced Plate (core) (core, 16 questions)
 1. (mcq) A woman eats rice and thin dal every day and always feels full. Yet she grows pale and ill. Why?  
    Options: Enough food is not the same as the right food. Her meals are missing something her body needs. / She ate too much rice / Feeling full always means the body is well fed  
    **Answer:** Enough food is not the same as the right food. Her meals are missing something her body needs.. *Why:* Her stomach is full, but her meals have almost no vegetables, fruit, milk or eggs. So her body is short of a vitamin it needs only a pinch of. A full stomach and a balanced diet are not the same thing.
@@ -634,48 +697,50 @@ When the first leaves came, small and round and green, I picked a handful. I was
 3. (sort) Sort these foods by their main job in your body.  
    **Answer:** ragi mudde → Go (energy); idli → Go (energy); moong dal → Grow (body-building); boiled egg → Grow (body-building); keerai → Glow (protecting); papaya → Glow (protecting). *Why:* Ragi and idli are mostly starch, which gives energy. Dal and egg give protein to build the body. Keerai, which is spinach and other greens, and papaya give vitamins, minerals and fibre. Many foods do more than one job, so this is each food's main job.
 4. (mcq) Here is an idea: "Potato is a vegetable. So a plate of rice and potato curry is half vegetables." What is the mistake in this thinking?  
-   Options: Potato is mostly starch, so in the body it acts more like rice than like greens / Potato is not a plant / There is no mistake  
+   Options: Potato is not a plant / Potato is mostly starch, so in the body it acts more like rice than like greens / There is no mistake  
    **Answer:** Potato is mostly starch, so in the body it acts more like rice than like greens. *Why:* Potato grows in the soil like a vegetable, but it is mostly starch, which gives energy. So that plate is nearly all energy food. Greens, beans, carrots or gourds would fill the vegetable half.
 5. (fill) Food is broken into tiny pieces that are small enough to pass into the ____, which carries them to every cell.  
    **Answer:** ['blood', 'bloodstream']. *Why:* Digestion breaks food into tiny building blocks. These pass through the wall of the gut into the blood. The blood carries them to all your cells.
-6. (truefalse) Eating one plate of jalebis at a wedding makes your whole diet unhealthy.  
+6. (fill) If a week of colour dots has lots of yellow and no red, the plate is missing foods that are good for ____.  
+   **Answer:** ['grow']. *Why:* Red dots mark grow foods, which give protein to build and mend the body. Yellow dots mark go foods, which give energy.
+7. (truefalse) Eating one plate of jalebis at a wedding makes your whole diet unhealthy.  
    **Answer:** False. *Why:* False. A diet is what you usually eat over many days. Sweets on special days are part of a balanced diet. What matters is the everyday pattern.
-7. (mcq) Why is it better to eat vegetables of many colours, not the same one every day?  
-   Options: Different vegetables carry different vitamins and minerals, so a mix gives the body more of what it needs / Bright colours make food taste better / One vegetable has every vitamin, so the colour does not matter  
+8. (mcq) Why is it better to eat vegetables of many colours, not the same one every day?  
+   Options: Bright colours make food taste better / One vegetable has every vitamin, so the colour does not matter / Different vegetables carry different vitamins and minerals, so a mix gives the body more of what it needs  
    **Answer:** Different vegetables carry different vitamins and minerals, so a mix gives the body more of what it needs. *Why:* Orange carrots and pumpkin give beta-carotene, which the body turns into vitamin A. Dark green keerai gives iron and folate. Tomatoes and amla give vitamin C. No one vegetable has everything, so a mix fills more gaps.
-8. (mcq) In the Paper Window Test, which food left a see-through spot that stayed?  
-   Options: Peanut / Apple / Water  
+9. (mcq) In the Paper Window Test, which food left a see-through spot that stayed?  
+   Options: Apple / Water / Peanut  
    **Answer:** Peanut. *Why:* Peanuts carry fat, which leaves a see-through spot that does not dry. Apple has almost no fat, and water dries away. If you picked water, you may have looked at the paper before the water had time to dry.
-9. (write) In the Paper Window Test, two friends rub plain chapati on paper. One friend's chapati leaves a see-through spot that stays. The other friend's leaves none. What could explain the difference?  
+10. (write) In the Paper Window Test, two friends rub plain chapati on paper. One friend's chapati leaves a see-through spot that stays. The other friend's leaves none. What could explain the difference?  
    **Answer:** The first chapati may have had ghee or oil on it. Fat leaves a see-through spot that stays, so the spot shows fat. The second chapati was plain.. *Why:* A strong answer says the first chapati carried some fat, such as ghee, and connects a spot that stays with fat.
-10. (match) Match each nutrient to one of its jobs.  
+11. (match) Match each nutrient to one of its jobs.  
    **Answer:** Protein → builds muscles, hair and skin; Calcium → makes bones and teeth hard; Iron → helps the blood carry oxygen; Vitamin C → helps mend cuts and take in iron. *Why:* Each nutrient has its own jobs. Protein builds the body. Calcium hardens bones. Iron carries oxygen in the blood. Vitamin C helps mend skin and take in iron from plant foods.
-11. (order) Put the journey of a spoon of dal in order.  
+12. (order) Put the journey of a spoon of dal in order.  
    **Answer:** ['mouth', 'stomach', 'small intestine', 'blood', 'muscle cell']. *Why:* The dal is chewed in the mouth. Acid and enzymes break it down in the stomach. In the small intestine it is cut into tiny pieces called amino acids. These pass into the blood. A muscle cell joins them to make new muscle protein.
-12. (write) Suppose you ate only dosa, every meal, every day. Dosa gives energy and some protein. What would your body be short of, and why?  
+13. (write) Suppose you ate only dosa, every meal, every day. Dosa gives energy and some protein. What would your body be short of, and why?  
    **Answer:** My body would be short of vitamins like vitamin C, minerals like calcium and iron, and fibre, because dosa has very little of these. No single food has every nutrient. So I would need vegetables, fruit, curd or milk too.. *Why:* A strong answer names at least two missing nutrients and gives the main idea: no single food has everything.
-13. (draw) Draw a balanced thali. Show the half for vegetables and fruit, and the two quarters.  
+14. (draw) Draw a balanced thali. Show the half for vegetables and fruit, and the two quarters.  
    **Answer:** A plate with half vegetables and fruit, a quarter grains, a quarter protein foods like dal or curd, and a glass of water.. *Why:* Drawing the plate in parts helps you remember the amounts: half vegetables and fruit, a quarter each for grains and protein.
-14. (write) Write a balanced dinner using food your family often cooks. Label each food go, grow or glow.  
+15. (write) Write a balanced dinner using food your family often cooks. Label each food go, grow or glow.  
    **Answer:** Any meal with all three kinds. For example: rice (go), sambar with toor dal (grow), beans poriyal (glow) and a glass of water.. *Why:* A balanced meal has at least one food from each group, with water. Using your own family's food shows you can do it at home.
-15. (truefalse) Water has no energy in it, so it is not a nutrient.  
+16. (truefalse) Water has no energy in it, so it is not a nutrient.  
    **Answer:** False. *Why:* False. A nutrient is anything the body needs from food and drink, not only things with energy. Water makes up more than half of your body. Blood, spit and the inside of every cell are mostly water.
-### Inside My Body (stretch) (stretch, 15 questions)
+### Inside My Body (stretch) (stretch, 16 questions)
 1. (mcq) Why do dal and rice make such a good pair?  
    Options: Each fills the other's gap in amino acids / They taste the same / Rice has no protein at all  
    **Answer:** Each fills the other's gap in amino acids. *Why:* Proteins are built from small pieces called amino acids. Grains are a little low in one of them, and dals are low in another. Eaten over the same day, they give the body the full set. Rice does have some protein, just not the perfect mix.
 2. (mcq) Why is a little oil or ghee useful when cooking carrots or keerai?  
-   Options: It helps the body take in vitamin A / It makes them grow / It removes their fibre  
+   Options: It makes them grow / It helps the body take in vitamin A / It removes their fibre  
    **Answer:** It helps the body take in vitamin A. *Why:* Carrots and keerai have beta-carotene, which your body turns into vitamin A. It dissolves in fat. A little fat in the cooking helps the gut take more of it into the blood.
 3. (mcq) In the Vanishing Blue test, vitamin C clears the blue. But amla also has other substances, called tannins, that clear the blue too. What does this mean for the results?  
-   Options: The drop counts are a good guide to vitamin C, but not an exact measure / The test measures only vitamin C, exactly / The test cannot tell juices apart  
+   Options: The test measures only vitamin C, exactly / The test cannot tell juices apart / The drop counts are a good guide to vitamin C, but not an exact measure  
    **Answer:** The drop counts are a good guide to vitamin C, but not an exact measure. *Why:* Vitamin C clears the blue, and so do some similar substances. So fewer drops usually means more vitamin C, but it is a guide, not an exact measure.
 4. (write) In the Vanishing Blue test, a packet fruit drink is still blue after 40 drops. Does that prove it has no vitamin C? What would you check first?  
    **Answer:** No. It may have only a little, too little to show in 40 drops. I would read the packet first, because some drinks have vitamin C added. The test is only a rough guide.. *Why:* A strong answer does not claim proof, and knows the label and the limit of 40 drops matter.
 5. (truefalse) Squeezing lemon on dal helps your body take in the iron from the dal.  
    **Answer:** True. *Why:* True. Vitamin C in lemon helps the gut take in iron from plant foods like dal and keerai. Iron then helps the blood carry oxygen.
 6. (mcq) In Balloon Bellies, the atta balloon grew more slowly than the sugar balloon. Why?  
-   Options: Enzymes in the flour must first cut its starch into sugar for the yeast / Atta is poison for yeast / Atta has no energy in it  
+   Options: Atta is poison for yeast / Enzymes in the flour must first cut its starch into sugar for the yeast / Atta has no energy in it  
    **Answer:** Enzymes in the flour must first cut its starch into sugar for the yeast. *Why:* Yeast eats sugar. Atta is mostly starch, which has to be cut into sugar first, so the yeast starts later. Atta does have energy, and the yeast does eat atta in the end.
 7. (truefalse) Most of the mass of the food your body burns for energy leaves through your breath, as carbon dioxide.  
    **Answer:** True. *Why:* True. Your cells burn glucose and fat with oxygen. The carbon from the food leaves as carbon dioxide when you breathe out. Many people guess it leaves in poo or sweat, but scientists showed in 2014 that most leaves through the lungs.
@@ -697,19 +762,21 @@ When the first leaves came, small and round and green, I picked a handful. I was
    **Answer:** Mouth (chewing and spit), stomach and small intestine (cut into glucose), blood (carrying glucose), brain cell (burning glucose for energy).. *Why:* A strong drawing shows the three big ideas: food is broken down, carried by the blood, and used in a cell.
 15. (write) A girl is 9 and growing fast. Her grandmother is 70. They eat the same dal. Why might they need different amounts of food?  
    **Answer:** The girl is growing, so her cells need extra protein and minerals to build new bone and muscle. She also runs about a lot and burns more energy for her size. Her grandmother has stopped growing, so she may need less food, but still all the same kinds.. *Why:* A strong answer says that growing and moving use extra food, and that both still need many kinds.
+16. (write) At dinner the TV is on, and a child eats the whole plate without noticing when she is full. Name one change that could help her notice, and say why it might work.  
+   **Answer:** For example: turn off the TV and eat slowly, and stop halfway to check. A strong answer gives one change and a reason based on the body's signal of fullness.. *Why:* The body's signal of fullness takes a while to reach the brain. Paying attention to the meal gives that signal time to arrive.
 ### Thinking Like a Food Scientist (challenge) (challenge, 15 questions)
 1. (perspective) Trillions of tiny living beings called microbes live in your gut. They eat the fibre you cannot digest. People disagree about whether they are part of you.  
    **Answer:** A strong answer picks a side and gives a reason from the science, for example that microbes make acids that feed the cells of the large intestine, or that they have their own genes. It then answers back fairly from another view.. *Why:* Scientists and thinkers really do argue about this. Each view has evidence, so the strength is in the reasons.
 2. (mcq) Lucy Wills was a doctor in Bombay in 1928. She saw that richer women in the city rarely got the pale sickness, but mill women often did. Why was this an important clue?  
-   Options: Both breathed the same city air but ate very different food, so food might be the cause / It showed that rich women were stronger / It proved the sickness was caught from other people  
+   Options: It showed that rich women were stronger / Both breathed the same city air but ate very different food, so food might be the cause / It proved the sickness was caught from other people  
    **Answer:** Both breathed the same city air but ate very different food, so food might be the cause. *Why:* Rich and poor women lived in the same city, but ate very different food. So diet was the clue. Scientists narrow down causes by looking at what is different between groups. 'Stronger' explains nothing, because it does not say why.
 3. (write) Lucy Wills fed animals the same food the mill women ate. Then she added one new food at a time. Why one at a time, and not many foods together?  
    **Answer:** If she added many foods at once and the animals got better, she would not know which food did it. Adding one at a time means that when they get better, she knows that food was the one. That is a fair test.. *Why:* A strong answer says that changing one thing at a time shows which thing caused the change.
 4. (mcq) Many people think the fat you eat goes straight onto your body as body fat. What really happens to most of it?  
-   Options: It is broken into small pieces, and cells burn it for energy or use it to build their thin skins / It sticks to the belly as it is / All of it leaves the body unused  
+   Options: It sticks to the belly as it is / All of it leaves the body unused / It is broken into small pieces, and cells burn it for energy or use it to build their thin skins  
    **Answer:** It is broken into small pieces, and cells burn it for energy or use it to build their thin skins. *Why:* Fat is digested like other food. Its pieces go into the blood. Cells burn some for energy and use some to build the thin skin around every cell. The body stores fat only when it gets more energy than it uses, from any food.
 5. (mcq) A scientist wants to test whether a food helps children's teeth. Which test is fair?  
-   Options: Two groups of children, the same in every way except that one group eats the food, checked for months / Ask children if they like the food / Give the food to one child and look at that child's teeth the next day  
+   Options: Ask children if they like the food / Two groups of children, the same in every way except that one group eats the food, checked for months / Give the food to one child and look at that child's teeth the next day  
    **Answer:** Two groups of children, the same in every way except that one group eats the food, checked for months. *Why:* A fair test changes only one thing, and uses enough people and enough time. Two matching groups, followed for months, can show a real difference. One child for one day can show almost nothing. Liking a food tells you nothing about teeth.
 6. (truefalse) Scientists have proved that eating curd every day makes you live longer.  
    **Answer:** False. *Why:* False. Ilya Mechnikov suggested this in 1907, but it has not been proved. Curd is a good food, but most of its microbes only pass through the gut, and a long life has many causes.
@@ -728,7 +795,7 @@ When the first leaves came, small and round and green, I picked a handful. I was
 12. (truefalse) A growing child needs some protein most days, because the body cannot store much of it.  
    **Answer:** True. *Why:* True. Muscles, skin, blood and hair are always being rebuilt, and children are also growing. The body keeps only a small store of amino acids, so it needs more most days.
 13. (mcq) Some adverts say a vitamin tablet can take the place of vegetables. What is missing from that idea?  
-   Options: Vegetables also give fibre for gut microbes, water and many other things a tablet does not / Nothing. A tablet is the same as vegetables / Vegetables have no vitamins in them  
+   Options: Nothing. A tablet is the same as vegetables / Vegetables also give fibre for gut microbes, water and many other things a tablet does not / Vegetables have no vitamins in them  
    **Answer:** Vegetables also give fibre for gut microbes, water and many other things a tablet does not. *Why:* A tablet gives only the few vitamins written on it. Vegetables give fibre, water, minerals and many other things. A tablet can help someone who is short of one vitamin, but it cannot do everything a plate of vegetables does.
 14. (draw) Draw yourself as a crowd: your own cells and your gut microbes. Show what each one gets from your lunch.  
    **Answer:** Any drawing that shows cells getting glucose, amino acids and minerals, and microbes getting fibre and giving back food for gut cells.. *Why:* This drawing is a model. A strong one shows that one meal feeds many different living beings inside you.
@@ -745,41 +812,47 @@ When the first leaves came, small and round and green, I picked a handful. I was
    Options: Many kinds of food, in about the right amounts, over a day or week / Eating less / Only eating vegetables  
    **Answer:** Many kinds of food, in about the right amounts, over a day or week. *Why:* A balanced diet mixes many kinds of food so the body gets all it needs. It does not mean eating less or only one kind. Picking 'eating less' mixes up 'diet' with going on a diet.
 2. (mcq) Which group is dal, egg and paneer in?  
-   Options: Go (energy) / Grow (body-building) / Glow (protecting)  
+   Options: Grow (body-building) / Go (energy) / Glow (protecting)  
    **Answer:** Grow (body-building). *Why:* Dal, eggs and paneer are full of protein, which builds and mends the body. Picking glow might mean thinking all healthy foods are protecting foods.
 3. (mcq) Moong dal gives protein, iron and fibre. What does this show?  
-   Options: Many foods do more than one job / Dal is a glow food / Iron is a kind of protein  
+   Options: Dal is a glow food / Iron is a kind of protein / Many foods do more than one job  
    **Answer:** Many foods do more than one job. *Why:* Most foods give several nutrients. The food groups are a helpful map, not strict boxes. Picking 'iron is a kind of protein' mixes up a mineral and a nutrient that builds the body.
 4. (mcq) On a balanced plate, about how much is vegetables and fruit?  
    Options: A quarter / Half / None  
    **Answer:** Half. *Why:* About half. Vegetables and fruit give vitamins, minerals and fibre, but little energy, so we need a lot of them. Picking a quarter is close to what many plates have, but the advice is half.
 5. (mcq) Why must food be digested before the body can use it?  
-   Options: Only tiny pieces can pass through the gut wall into the blood / Food is dirty / The stomach likes acid  
+   Options: Food is dirty / The stomach likes acid / Only tiny pieces can pass through the gut wall into the blood  
    **Answer:** Only tiny pieces can pass through the gut wall into the blood. *Why:* Big chains like starch and protein are cut into glucose and amino acids. Only these tiny pieces pass into the blood. Picking 'food is dirty' confuses digestion with cleaning food.
 6. (mcq) What do your cells do with glucose?  
    Options: Burn it with oxygen for energy / Store it in the bones / Turn it into water only  
    **Answer:** Burn it with oxygen for energy. *Why:* Mitochondria join glucose with oxygen and release energy. Carbon dioxide and water are left over. Picking 'store it in the bones' mixes glucose up with calcium.
 7. (mcq) What does iron do in the body?  
-   Options: Helps the blood carry oxygen / Makes bones hard / Makes food taste sweet  
+   Options: Makes bones hard / Makes food taste sweet / Helps the blood carry oxygen  
    **Answer:** Helps the blood carry oxygen. *Why:* Iron is part of the red part of blood that carries oxygen. Calcium makes bones hard. Picking 'makes bones hard' is a common mix-up between the two minerals.
 8. (mcq) Why does the body need some fat?  
-   Options: It builds the thin skin around every cell, and helps us take in some vitamins / It is never needed / It makes bones grow  
+   Options: It is never needed / It makes bones grow / It builds the thin skin around every cell, and helps us take in some vitamins  
    **Answer:** It builds the thin skin around every cell, and helps us take in some vitamins. *Why:* Every cell is wrapped in a thin skin, the cell membrane, made largely of fats. Fat also carries vitamins A, D, E and K. Picking 'it is never needed' is a common idea, but the body cannot live without some fat.
 9. (mcq) In the Vanishing Blue test, which result means the most vitamin C?  
-   Options: The juice needing the fewest drops / The juice needing the most drops / The juice with the brightest colour  
+   Options: The juice needing the most drops / The juice with the brightest colour / The juice needing the fewest drops  
    **Answer:** The juice needing the fewest drops. *Why:* Vitamin C takes away the blue. If a few drops are enough, each drop holds a lot of vitamin C. Picking 'most drops' reads the test backwards.
 10. (mcq) In Balloon Bellies, every bottle had the same yeast and warm water. Only the food was different. Why?  
-   Options: So we know the food caused the difference / To use up the yeast / Because balloons need water  
+   Options: To use up the yeast / Because balloons need water / So we know the food caused the difference  
    **Answer:** So we know the food caused the difference. *Why:* In a fair test, you change only one thing. Then any difference must come from that one thing. Picking 'to use up the yeast' misses the reason for keeping things the same.
 11. (mcq) What do gut microbes mostly eat?  
-   Options: Fibre that we cannot digest / Only sugar / Our blood  
+   Options: Only sugar / Our blood / Fibre that we cannot digest  
    **Answer:** Fibre that we cannot digest. *Why:* Fibre passes through to the large intestine undigested, and gut microbes feast on it. They make acids that feed our gut cells in return. Picking 'only sugar' fits the yeast in a bottle. But our own body takes up most sugar before it reaches the gut microbes.
 12. (mcq) Suppose you eat white bread and no vegetables or fruit for a whole week. What happens to your gut microbes?  
-   Options: Many of them go hungry, because they get very little fibre / They grow more, because bread has sugar / Nothing. Gut microbes do not need food  
+   Options: They grow more, because bread has sugar / Many of them go hungry, because they get very little fibre / Nothing. Gut microbes do not need food  
    **Answer:** Many of them go hungry, because they get very little fibre. *Why:* Gut microbes live mostly on fibre, which comes from vegetables, fruit, dals and whole grains. White bread has little fibre, so many microbes go hungry. Our own body takes up the sugar from bread before it reaches them.
 13. (mcq) Your friend says 'sweets are bad food'. What does science say?  
-   Options: No single food is good or bad. The whole diet over many days matters. / Sweets are poison / Sweets are the best food  
+   Options: Sweets are poison / No single food is good or bad. The whole diet over many days matters. / Sweets are the best food  
    **Answer:** No single food is good or bad. The whole diet over many days matters.. *Why:* Scientists look at the overall pattern. Sweets give quick energy and are fine sometimes. Lots of added sugar every day is linked to tooth decay and other problems. Picking 'sweets are poison' goes far beyond the evidence.
+14. (mcq) After a week of colour dots, a child has lots of yellow dots and almost no red or green. What is the best next step?  
+   Options: Add dal, paneer or curd each day, and a vegetable or fruit / Eat only yellow foods, since they get the most dots / Stop the diary, since the week is already balanced  
+   **Answer:** Add dal, paneer or curd each day, and a vegetable or fruit. *Why:* Yellow dots mean energy foods only. Red (grow) and green (glow) foods are missing. Dal, paneer or curd give protein, and vegetables or fruit give vitamins.
+15. (mcq) A child eats dinner with the TV on and finishes the whole plate without noticing. Which change helps her notice when she is full?  
+   Options: Eat slowly without the TV or phone, and check how full she feels halfway / Eat faster, so the plate is cleared sooner / Skip dinner, so the body has no food to notice  
+   **Answer:** Eat slowly without the TV or phone, and check how full she feels halfway. *Why:* Paying attention to the meal helps you notice the body's signal of fullness. Eating fast or skipping meals does not help the body tell you what it needs.
 
 ## Applications
 - School midday meals (PM POSHAN), planned to give children energy, protein and vitamins every school day.
@@ -855,7 +928,7 @@ Sunlight on My Plate (sci.food.L3): Topic-level song
 - [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free hands-on activities from a science museum in San Francisco.
 - [Science City, Kolkata](https://www.sciencecitykolkata.org.in) · place · Kolkata: A large science centre with galleries on the human body and life.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A science museum with galleries on biology and the human body.
-- [A weekly poriyal market or a millet shop near you]() · place · Your own town or city: Go early with a grown-up. Count how many kinds of leaves, vegetables and grains you can find, and ask the sellers where they grew.
+- A weekly poriyal market or a millet shop near you · place · Your own town or city: Go early with a grown-up. Count how many kinds of leaves, vegetables and grains you can find, and ask the sellers where they grew.
 
 ## Things to buy
 - [Povidone-iodine antiseptic liquid](https://www.amazon.in/s?k=povidone+iodine+solution) (material): For the Vanishing Blue vitamin C test. Most homes already have it in the medicine box. Used in e2. 
@@ -865,6 +938,11 @@ Sunlight on My Plate (sci.food.L3): Topic-level song
 - [Coloured paper clips](https://www.amazon.in/s?k=coloured+paper+clips) (material): For the Paper-Clip Journey model of digestion. Used in a3. 
 - [What Happens to a Hamburger? by Paul Showers (Let's-Read-and-Find-Out Science)](https://www.amazon.in/s?k=What+Happens+to+a+Hamburger+Paul+Showers) (book): A clear picture book on digestion for ages 5 to 9. Used in a3. 
 - [Good Enough to Eat: A Kid's Guide to Food and Nutrition by Lizzy Rockwell](https://www.amazon.in/s?k=Good+Enough+to+Eat+Lizzy+Rockwell) (book): A friendly picture book on nutrients and a balanced diet. Used in a2. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Balloon Bellies: what do microbes like to eat?. About ₹10 to ₹30. Any school ruler is fine. Used in e3. Get it before Balloon Bellies: what do microbes like to eat?.
+- [A small funnel](https://www.amazon.in/s?k=small+plastic+funnel) (tool): Used in Balloon Bellies: what do microbes like to eat?. About ₹20 to ₹50. The top of a cut plastic bottle works. Used in e3. Get it before Balloon Bellies: what do microbes like to eat?.
+- [A kitchen or weighing scale](https://www.amazon.in/s?k=digital+kitchen+weighing+scale) (tool): Used in Food for a Two-Day Trek. About ₹300 to ₹700. A home-made balance from a ruler and two cups can compare weights. Used in c2. Get it before Food for a Two-Day Trek.
+- [A measuring jug or syringe (marked in millilitres)](https://www.amazon.in/s?k=measuring+jug+500+ml) (tool): Used in Balloon Bellies: what do microbes like to eat?. About ₹30 to ₹100. A clean medicine cup or marked bottle works. Used in e3. Get it before Balloon Bellies: what do microbes like to eat?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name one go food, one grow food and one glow food. → For example: rice (go), dal (grow), palak (glow).
@@ -880,7 +958,7 @@ Sunlight on My Plate (sci.food.L3): Topic-level song
 
 ## Plan
 - Start options: a1, story, a2, g1, e2, big_questions, cards
-- Default order: intro → a1 → a2 → summary → terms → explanations → a3 → story → g1 → e1 → videos → ws-core → e2 → a4 → g2 → a6 → e3 → agreed → challenging → a5 → p1 → ws-stretch → c1 → c2 → big_questions → ws-challenge → open_questions → roots → quiz
+- Default order: intro → a1 → a2 → summary → terms → explanations → a3 → story → g1 → e1 → videos → ws-core → e2 → a4 → g2 → a6 → e3 → agreed → challenging → a5 → p1 → ws-stretch → c1 → c2 → a7 → big_questions → ws-challenge → open_questions → roots → quiz
 - Core: a1, a2, a3, e1, e2, g1, ws-core, a4
 
 ## Sources
@@ -890,7 +968,7 @@ Sunlight on My Plate (sci.food.L3): Topic-level song
 - DeepKids HomeSchooling Track, STEM Activities websites: Exploratorium Science Snacks (links).
 - DeepKids Combined Class 5 lesson 'Digestion: the long tube that turns a chapati into you' (app/content/combined/sci-C5-digestion.json): its enzymes-as-scissors idea, the gut microbes 'one and many' day and the Marshall and Warren voice, simplified for Class 3 in the Paper-Clip Journey (a3), the fibre and microbes card and Roots. Its story was not reused.
 - DeepKids Combined Class 3 lesson 'Caring for the body you live in' (app/content/combined/sci-C3-health-hygiene-exercise-and-illness.json): the 'old friends' idea about microbes, used in the microbes card and Roots.
-- DeepKids unit sci.food.where-food-comes-from.L3: this unit builds on it, following food forwards into the body instead of back to the Sun, and shares its topic song. Its iodine starch test is reused in a new way, to measure vitamin C (e2).
+- DeepKids unit sci.food.where-food-comes-from.L3: this lesson builds on it, following food forwards into the body instead of back to the Sun, and shares its topic song. Its iodine starch test is reused in a new way, to measure vitamin C (e2).
 - Cambridge Primary Science Stage 3, 2.2 'A healthy diet' and 2.3 'An unhealthy diet' (app/content/cambridge/sci-L3-02.json): coverage of food groups, the food triangle and balanced thali, water, sugar on drink labels and the paper spot test for fat (e1), and the voices of C. Gopalan, James Lind and John Yudkin.
 - Sender, Fuchs and Milo, 'Revised estimates for the number of human and bacteria cells in the body', PLoS Biology 2016 (about 30 trillion human cells and 38 trillion bacteria)
 - Meerman and Brown, 'When somebody loses weight, where does the fat go?', BMJ 2014 (most of the mass leaves as exhaled carbon dioxide)

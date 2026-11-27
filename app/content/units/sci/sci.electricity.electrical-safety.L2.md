@@ -1,9 +1,9 @@
 # Keeping safe with electricity: sockets, wires and water
 `sci.electricity.electrical-safety.L2`
 
-**Summary.** A crow sits safely on a wire, yet children must never touch a socket. Why? In this unit you will test how dry your hands really are after shaking, wiping and towelling, watch for birds on wires from a window, and play a snakes and ladders game about staying safe.
+**Summary.** A crow sits safely on a wire, yet children must never touch a socket. Why? In this lesson you will test how dry your hands really are after shaking, wiping and towelling, watch for birds on wires from a window, and play a snakes and ladders game about staying safe.
 
-**Intro.** *You can hold a torch cell in your hand and feel nothing. The wall socket also gives electricity. So why must you never touch it?* The electricity from a torch cell is weak. The electricity in the wall socket is very strong, strong enough to hurt or kill a person. It can travel through water, and through your body. In this unit you test how much water stays on your hands after you wash them. You see how far a spill can run. And you learn the rules that keep you safe, and the reason for each one.
+**Intro.** *You can hold a torch cell in your hand and feel nothing. The wall socket also gives electricity. So why must you never touch it?* The electricity from a torch cell is weak. The electricity in the wall socket is very strong, strong enough to hurt or kill a person. It can travel through water, and through your body. In this lesson you test how much water stays on your hands after you wash them. You see how far a spill can run. And you learn the rules that keep you safe, and the reason for each one.
 
 ## Learning outcomes
 0. By the end I can say why the electricity in the wall is dangerous, and why a torch cell is safe to hold.
@@ -33,6 +33,8 @@ A torch cell pushes electricity very gently. You can touch both ends of a torch 
 - e.g. A TV remote runs on two small cells. You can change them yourself.
 - e.g. The iron, the geyser and the washing machine run on mains electricity. Only a grown-up plugs them in.
 - e.g. Never put a small round button cell in your mouth or nose. If one is swallowed, it can burn the inside of the body. Tell a grown-up at once.
+- **Everyday view:** The big number of volts makes the wall dangerous.
+- **Doctors and safety scientists:** Say that it is the current, the amount of electricity through the body, that does the harm, and the path it takes. A small current through the heart can be deadly, and wet skin lets more through.
 ### Electricity travels through some things and not others · *defined*
 **Definition:** A conductor lets electricity pass. An insulator does not let it pass easily.
 
@@ -40,6 +42,8 @@ Electricity flows along the metal inside a wire. Metal is a conductor. The plast
 - e.g. Copper wire is a conductor. Its plastic cover is an insulator.
 - e.g. An electrician's screwdriver has a thick plastic handle, so electricity does not reach their hand.
 - e.g. A wet cloth on a wire is dangerous, because the water in the cloth can carry electricity.
+- **Everyday view:** Plastic, rubber and dry wood keep electricity out.
+- **Physics:** No insulator is perfect. With enough push, such as lightning, even air carries a current.
 ### Why water and electricity are a dangerous pair · *defined*
 **Definition:** Water from a tap, rain or sweat always has some salt and other things mixed into it, so it carries electricity.
 
@@ -47,6 +51,8 @@ Dry skin does not let electricity in easily. Wet skin lets it in much more easil
 - e.g. Never touch a switch straight after a bath or after playing in the rain.
 - e.g. Never use a phone while it is charging in the bathroom.
 - e.g. Keep glasses of water and juice away from the extension board.
+- **Everyday view:** Water carries electricity, so we keep wet hands away from switches.
+- **Chemists:** Pure water is a very poor conductor. Tap water, rain and sweat carry current because of the salts dissolved in them.
 ### Why a bird can sit on a wire · *defined*
 **Definition:** Electricity flows through something only when it has a path to somewhere else, such as the ground or another wire.
 
@@ -54,6 +60,8 @@ A crow on a wire touches only that one wire. The electricity has no path through
 - e.g. Crows, pigeons and mynas sit on wires all over Indian cities.
 - e.g. Never pull down a kite caught on a wire.
 - e.g. Never touch a fallen wire in the street, even if it looks dead.
+- **Physicists:** A bird on a single wire has both feet at the same voltage, so no electricity needs to flow through its body.
+- **Power company engineers:** Find that big birds such as eagles are killed when their wings touch two wires or a wire and a pole. The difference in voltage across the body is what counts.
 ### What a shock does to a body · *defined*
 **Definition:** Your nerves carry tiny electric messages that tell your muscles and heart what to do. A shock is far stronger than these messages.
 
@@ -61,6 +69,8 @@ Your brain sends tiny electric messages along your nerves. They tell your muscle
 - e.g. If you see someone stuck to a machine, do not touch them. Shout for a grown-up.
 - e.g. The grown-up switches off at the switch board or the main switch, then calls for a doctor.
 - e.g. A doctor can check the heartbeat with a machine called an ECG, which reads the heart's own tiny electric signals.
+- **Luigi Galvani and Alessandro Volta:** In the 1780s Galvani saw a frog's leg twitch from electricity and thought animals made their own electricity. Volta argued that two metals produced it. Both were partly right.
+- **Heart doctors:** Use a shock on purpose. A defibrillator sends a strong electric pulse to stop a heart beating wildly, so that it can start again in step.
 
 ## Mostly agreed
 - Mains electricity can kill. Children should not touch sockets, plugs, wires or mains machines. *How we know:* India's official records list thousands of deaths from electric shock every year. Most happen when someone touches a broken wire, a wet switch or a fallen line.
@@ -373,7 +383,7 @@ Amma and Ammamma looked at each other and smiled.
 - **record:** The finished book, and one sentence about what the younger child asked.
 - **schedule:** day 1: Choose six rules. Draw one rule on each page. (15 min); day 2: Write a few words under each picture. Read the book to a younger child. (15 min)
 - **s1 (5 min)**  
-  *Parent does:* Fold and staple the book. Help your child choose six rules from this unit. For example: dry hands before a switch, drinks far from plugs, never touch a fallen wire.  
+  *Parent does:* Fold and staple the book. Help your child choose six rules from this lesson. For example: dry hands before a switch, drinks far from plugs, never touch a fallen wire.  
   *Parent says:* Which six rules matter most for a little child? Let's choose them together.  
   *Child mode:* Choose six rules for a little child.
 - **s2 (10 min)**  
@@ -394,7 +404,7 @@ Amma and Ammamma looked at each other and smiled.
 ## Challenges
 ### c1 · The Safe Homework Corner (20 min)
 - **problem:** Plan a homework corner where the lamp and the charger are safe from spills. Use paper cut-outs on a table plan.
-- **your turn:** Now plan your own homework corner, or the place where you do this unit. Move things to where they go, and show the path a spill would take with an arrow, or a piece of string.
+- **your turn:** Now plan your own homework corner, or the place where you do this lesson. Move things to where they go, and show the path a spill would take with an arrow, or a piece of string.
 - **constraints:** There is only one extension board, and at the start it sits on the floor under the table.; The water bottle and the paint water must stay within reach while the child works.; The lamp's wire must not stretch across where people walk.
 - **general:** Keep the water bottle and paint water at the far end of the table, away from the lamp and the plugs.; Lift the extension board off the floor, onto a dry shelf, so a spill on the floor cannot reach it.; Put the paint water in a wide, low bowl that is hard to knock over.
 - **creative:** Put the drinks on a tray with a rim, so a spill stays on the tray.; Do painting on a different table, away from the lamp.; Stick a 'dry hands' sign with a towel hook next to the switch.
@@ -426,7 +436,7 @@ Amma and Ammamma looked at each other and smiled.
 5. (sort) Sort these into 'a child can do this' and 'only a grown-up does this'.  
    **Answer:** press the light switch with dry hands → A child can do this; put a plug into a socket → Only a grown-up does this; change the cells in the TV remote → A child can do this; turn off the main switch → Only a grown-up does this; unplug the iron → Only a grown-up does this; switch on a torch → A child can do this. *Why:* Cells are weak and safe. Switches are made to be pressed, with dry hands. Plugs, sockets and the main switch carry strong mains electricity, so grown-ups handle them.
 6. (mcq) Someone says: "I wear rubber chappals, so I can touch a broken wire." Are they right?  
-   Options: Yes, rubber always stops electricity / No, chappals can be wet or thin, and the person could touch something else too / Yes, but only on Sundays  
+   Options: No, chappals can be wet or thin, and the person could touch something else too / Yes, rubber always stops electricity / Yes, but only on Sundays  
    **Answer:** No, chappals can be wet or thin, and the person could touch something else too. *Why:* A dry, thick rubber sole helps, but chappals get wet and worn. Another part of the body could touch a wet wall or a steel tap. Nobody should touch a broken wire.
 7. (fill) Never touch a switch, a plug or a socket with ________ hands.  
    **Answer:** wet. *Why:* Wet skin lets electricity into the body much more easily than dry skin.
@@ -456,7 +466,7 @@ Amma and Ammamma looked at each other and smiled.
 8. (write) A younger child says: "I can hold a torch cell, so the wall socket is safe too." Say what you would tell them, and a grown-up writes it.  
    **Answer:** For example: 'A torch cell is weak. The wall is about 150 times stronger. It can go through your body and hurt you.'. *Why:* A strong answer says that both give electricity, but the wall is far stronger, strong enough to pass through a person.
 9. (mcq) Why must drinks be kept away from the extension board?  
-   Options: A spill can run into the board and carry electricity out to us / Drinks get warm near plugs / The board makes drinks taste bad  
+   Options: Drinks get warm near plugs / A spill can run into the board and carry electricity out to us / The board makes drinks taste bad  
    **Answer:** A spill can run into the board and carry electricity out to us. *Why:* In the Spill Test, half a tumbler of water ran a long way on a smooth floor. Water can carry electricity from a socket to anyone touching the puddle.
 10. (fill) Plastic and rubber are called ________, because electricity does not pass through them easily.  
    **Answer:** insulators. *Why:* Insulators keep electricity where it belongs. That is why wires, plugs and switches have plastic on the outside.
@@ -478,7 +488,7 @@ Amma and Ammamma looked at each other and smiled.
 8. (label) Label the picture: safe bird, dangerous kite string, path to the ground.  
    **Answer:** ['safe bird: the crow sitting on one wire', "dangerous kite string: the string hanging from the wire to the boy's hand", 'path to the ground: from the wire, down the string, through the boy, to his feet']. *Why:* The crow touches one wire, so the electricity has no path through her. The string and the boy make a path from the wire to the ground.
 9. (mcq) A big bird opens their wings and touches two electric wires at the same time. What can happen?  
-   Options: Nothing, because birds are always safe / Electricity can pass from one wire through the bird to the other wire, and hurt the bird / The bird becomes a magnet  
+   Options: Electricity can pass from one wire through the bird to the other wire, and hurt the bird / Nothing, because birds are always safe / The bird becomes a magnet  
    **Answer:** Electricity can pass from one wire through the bird to the other wire, and hurt the bird. *Why:* Now there is a path between two wires. A bird on one wire has no such path, so she is safe.
 10. (fill) The wall socket in India gives about 230 volts. A torch cell gives about ________ volts.  
    **Answer:** 1.5. *Why:* A torch cell gives about 1.5 volts. 230 is about 150 times as much.
@@ -490,7 +500,7 @@ Amma and Ammamma looked at each other and smiled.
 
 ## Quiz
 1. (mcq) Why can you hold a torch cell, but must never touch the holes of a wall socket?  
-   Options: The wall electricity is much stronger than a cell's / The cell is made of metal / The wall socket is hot  
+   Options: The cell is made of metal / The wall socket is hot / The wall electricity is much stronger than a cell's  
    **Answer:** The wall electricity is much stronger than a cell's. *Why:* A torch cell gives about 1.5 volts. The wall gives about 230 volts in India, about 150 times stronger. That is strong enough to hurt or kill a person.
 2. (mcq) You drop a hairpin near a socket. What should you do?  
    Options: Push the hairpin into the socket to keep it safe / Pick it up and never poke it into the socket / Blow into the socket  
@@ -499,25 +509,25 @@ Amma and Ammamma looked at each other and smiled.
    Options: Shaking the hand five times / Wiping it on clothes / Rubbing it with a towel for a count of 10  
    **Answer:** Rubbing it with a towel for a count of 10. *Why:* Shaking leaves clear wet prints. A wipe on clothes often leaves damp fingertips. A towel dries the skin properly.
 4. (mcq) Why is a wet hand on a switch more dangerous than a dry one?  
-   Options: Wet skin lets electricity into the body more easily / Water makes the switch slippery, and that is all / Wet hands are colder  
+   Options: Water makes the switch slippery, and that is all / Wet skin lets electricity into the body more easily / Wet hands are colder  
    **Answer:** Wet skin lets electricity into the body more easily. *Why:* Water carries electricity, and wet skin lets it in much more easily than dry skin. So always dry your hands before touching a switch.
 5. (mcq) Your friend is touching a machine and cannot let go. What should you do first?  
    Options: Pull your friend away by the arm / Shout for a grown-up to switch off the electricity / Throw water on the machine  
    **Answer:** Shout for a grown-up to switch off the electricity. *Why:* If you touch your friend, the electricity can flow into you too. Throwing water is dangerous as well, because water carries electricity. A grown-up must switch off the electricity first.
 6. (mcq) After a storm, you see a wire lying in a puddle on the road. What should you do?  
-   Options: Move it out of the way with your foot / Stay far away and tell a grown-up / Step over it quickly  
+   Options: Stay far away and tell a grown-up / Move it out of the way with your foot / Step over it quickly  
    **Answer:** Stay far away and tell a grown-up. *Why:* A fallen wire can still carry mains electricity, and the puddle around it can carry it too. Keep far away and tell a grown-up, who calls the electricity board.
 7. (mcq) A crow sits on an electric wire and is safe. Why?  
-   Options: Crows have rubber feet / The crow touches only one wire, so the electricity has no path through her / The wire is switched off whenever birds land  
+   Options: The crow touches only one wire, so the electricity has no path through her / Crows have rubber feet / The wire is switched off whenever birds land  
    **Answer:** The crow touches only one wire, so the electricity has no path through her. *Why:* Electricity flows through something only when it has a path to somewhere else, like the ground or another wire. A crow on one wire gives the electricity no such path.
 8. (mcq) Your kite is stuck on an electric wire. What is the safe thing to do?  
-   Options: Pull the string hard / Climb up and get it / Let go of the string and leave the kite  
+   Options: Pull the string hard / Let go of the string and leave the kite / Climb up and get it  
    **Answer:** Let go of the string and leave the kite. *Why:* A string, especially a wet one, can carry electricity from the wire to the person holding it. Climbing near wires is very dangerous. A new kite is easy to get.
 9. (mcq) Why is the wire of the table fan covered in plastic?  
-   Options: To make it colourful / Plastic is an insulator, so it keeps the electricity inside the wire / Plastic makes electricity flow faster  
+   Options: Plastic is an insulator, so it keeps the electricity inside the wire / To make it colourful / Plastic makes electricity flow faster  
    **Answer:** Plastic is an insulator, so it keeps the electricity inside the wire. *Why:* The metal inside the wire is a conductor. The plastic outside is an insulator. It keeps the electricity away from your hand.
 10. (mcq) There is a flood in the building, and water is coming into the flat. What should a grown-up do with the electricity?  
-   Options: Turn off the main switch, if it can be reached without standing in water / Leave everything on / Unplug every machine with wet hands  
+   Options: Leave everything on / Turn off the main switch, if it can be reached without standing in water / Unplug every machine with wet hands  
    **Answer:** Turn off the main switch, if it can be reached without standing in water. *Why:* The main switch turns off electricity to the whole home. A grown-up turns it off if they can reach it without standing in water. Then the water in the flat cannot carry mains electricity.
 
 ## Applications
@@ -528,10 +538,10 @@ Amma and Ammamma looked at each other and smiled.
 - Doctors read the heart's own tiny electric signals with an ECG machine.
 
 ## Spotted around us
-- Crows, pigeons and mynas sitting in rows on electric wires, in Chennai, Pune, Guwahati and every Indian city.
+- Crows, pigeons and mynas sitting in rows on electric wires.
 - Danger boards with a skull and a lightning sign on transformers and electric poles.
-- Kites caught on electric wires after Makar Sankranti and Uttarayan, in Ahmedabad, Hyderabad and Jaipur.
-- Lineworkers on electric poles in the monsoon, in Kochi and Mumbai, wearing helmets and rubber gloves.
+- Kites caught on electric wires after Makar Sankranti and Uttarayan.
+- Lineworkers on electric poles in the monsoon, wearing helmets and rubber gloves.
 - Switch boards placed outside the bathroom door, and switches with small plastic covers.
 
 ## Open questions
@@ -568,11 +578,13 @@ Dry Hands, Bright Lights (sci.electricity.L2): Topic-level song for Electricity 
 
 ## Links
 - [Circuit Construction Kit, from PhET](https://phet.colorado.edu/en/simulations/circuit-construction-kit-dc) · simulation: For the parent, or to explore together: build a pretend circuit on screen and see which materials let electricity through.
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: A big science museum with hands-on galleries about electricity and machines.
-- [Birla Industrial and Technological Museum]() · place · Kolkata: A science museum with galleries on electricity, where children can see safe demonstrations.
-- [Nehru Science Centre]() · place · Mumbai: A science centre with hands-on displays, including electricity and energy.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru: A big science museum with hands-on galleries about electricity and machines.
+- Birla Industrial and Technological Museum · place · Kolkata: A science museum with galleries on electricity, where children can see safe demonstrations.
+- Nehru Science Centre · place · Mumbai: A science centre with hands-on displays, including electricity and energy.
 
 ## Things to buy
+- [Insulated wire or crocodile clips](https://www.amazon.in/s?k=crocodile+clip+wire+set) (tool): Used in Birds on the Wire: a window watch, What Do We Do If...? an act-out. About ₹20 to ₹80. Thin insulated wire from an old charger works. Used in a1, a3. Get it before Birds on the Wire: a window watch.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Is a torch cell or the wall socket stronger? → The wall socket, about 150 times stronger.

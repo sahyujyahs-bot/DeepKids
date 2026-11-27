@@ -741,12 +741,12 @@
       "t": "mcq",
       "q": "A torch beam goes at a slant from air into a tank of water. What does the light do?",
       "options": [
-       "Bends toward the normal",
        "Bends away from the normal",
+       "Bends toward the normal",
        "Goes straight on",
        "Gets trapped"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Light moves more slowly in water than in air, so it bends toward the normal. Choosing away means mixing up the two directions. Away is for light leaving water. Choosing straight means forgetting that the beam comes in at a slant."
      },
      "context": "In this step, you play the practice card together, to learn how the game works."
@@ -944,12 +944,12 @@
       "t": "mcq",
       "q": "In this test, where do you measure the angles from?",
       "options": [
-       "From the normal line, standing at a right angle to the surface",
        "From the flat surface of the water",
+       "From the normal line, standing at a right angle to the surface",
        "From the edge of the paper",
        "From the torch"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Scientists always measure the bend of light from the normal. A beam coming in along the normal has an angle of 0 degrees and does not bend. Measuring from the surface instead would give the wrong numbers, such as 90 degrees for a beam that goes straight in."
      },
      "context": "In this step, you draw the map on the paper that you will use for the whole test."
@@ -984,12 +984,12 @@
       "t": "mcq",
       "q": "The torch shines straight along the normal into the water. What does the beam do?",
       "options": [
-       "Goes straight on without bending",
        "Bends toward the normal",
        "Bends away from the normal",
-       "Stops at the surface"
+       "Stops at the surface",
+       "Goes straight on without bending"
       ],
-      "a": 0,
+      "a": 3,
       "why": "When light arrives along the normal, the whole beam reaches the water at the same moment. So no part of the beam slows down before the rest, and the beam does not swing round. It carries straight on. Choosing bends toward the normal usually means thinking the water always bends light, even straight on. The bend only happens when light arrives at a slant."
      },
      "parent": "The outgoing line should lie exactly on the normal line. If it is off to one side, the box is crooked. Straighten it, and try again. Expect the straight-on beam to be slightly dimmer than the slanted ones. That is nothing to worry about.",
@@ -1014,12 +1014,12 @@
       "t": "mcq",
       "q": "As the angle in the air got bigger, what happened to the angle in the water?",
       "options": [
-       "It got bigger too, but it always stayed smaller than the angle in the air",
        "It got smaller",
+       "It got bigger too, but it always stayed smaller than the angle in the air",
        "It stayed the same",
        "It got bigger than the angle in the air"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The water turns the beam toward the normal, so the angle in the water is always smaller than the angle in the air. A bigger slant gives a bigger turn. Choosing that it stayed the same usually means only looking at one angle. Choosing bigger than the air angle means mixing up the direction of the bend."
      },
      "context": "In this step, you put your measurements in a table and work out how much the water turned the beam each time."
@@ -1140,12 +1140,12 @@
       "t": "mcq",
       "q": "The picture of the window on the card is sharp at one distance only. What does that tell you about a lens?",
       "options": [
-       "A lens brings light together to a sharp point at one distance behind it",
        "A lens makes light stronger",
+       "A lens brings light together to a sharp point at one distance behind it",
        "A lens works only in the dark",
        "A lens makes pictures at any distance"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A bulging lens bends all the light from a faraway thing to meet at one spot. In front of or behind that spot, the light is spread out, so the picture is blurry. This is why an eye must be exactly the right length, or have the right lens."
      },
      "context": "In this step, you find the sharp place for the picture of the window and measure its distance."
@@ -1430,12 +1430,12 @@
       "t": "mcq",
       "q": "The stripes wobbled when you looked through the air above the hot plate. What bent the light?",
       "options": [
-       "Hot air rising from the plate, which bends light differently from cool air",
        "The plate itself",
+       "Hot air rising from the plate, which bends light differently from cool air",
        "The stripes",
        "Your eyes getting tired"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Hot air is thinner than cool air, which means it has fewer air particles in each bit of space. Light moves a little faster in it, so the light bends. The hot air rises in moving streams, so the bending keeps changing, and the stripes wobble. Choosing the plate itself is a common idea, but the plate is not see-through. It is the air above it that bends the light."
      },
      "context": "In this step, with a grown-up, you look across the top of a hot plate and see light bending in hot air."
@@ -1561,12 +1561,12 @@
       "t": "mcq",
       "q": "The jet glowed all the way along its curve. What was keeping the light inside the water?",
       "options": [
-       "Total internal reflection, with the light bouncing off the edge of the jet",
        "Gravity pulling the light down",
+       "Total internal reflection, with the light bouncing off the edge of the jet",
        "The water being heavy",
        "The torch being strong"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Light inside the jet meets the edge of the water at a shallow angle each time, beyond the critical angle of about 49 degrees. So all of it bounces back in. It zigzags along the curve of the jet. Gravity pulls the water into its curve, but it does not hold the light in the jet."
      },
      "parent": "If the jet does not glow, make the room darker, bring the torch closer to the hole, and make sure it is aimed right at the hole. A thinner, steadier jet works best. A bright LED torch works better than a phone torch. Fill the bottle again, and try once more. Typical result: a glowing jet for the first 10 seconds or so, which fades as the bottle empties. The torch tilted away gives a much dimmer jet, so the aim is part of the proof.",
@@ -1879,12 +1879,12 @@
      "t": "mcq",
      "p": "In a drawing of light bending at a water surface, what is the normal?",
      "opts": [
-      "An imaginary line standing at a right angle to the surface, at the spot where the light arrives",
       "The flat surface of the water",
       "The path of the light in the water",
-      "The edge of the glass"
+      "The edge of the glass",
+      "An imaginary line standing at a right angle to the surface, at the spot where the light arrives"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Scientists measure every bend from the normal, the upright line at a right angle to the surface. Choosing the surface is a common mistake, and it gives the wrong angles. A beam along the normal has an angle of 0 degrees.",
      "outcome": 0
     },
@@ -2008,11 +2008,11 @@
      "p": "Water, glass, air and diamond all slow light. Which slows it the most?",
      "opts": [
       "Air",
+      "Diamond",
       "Water",
-      "Glass",
-      "Diamond"
+      "Glass"
      ],
-     "a": 3,
+     "a": 1,
      "why": "Diamond has a refractive index of about 2.4, the biggest of these. Light in diamond moves at less than half its speed in air. Glass is about 1.5, water about 1.33, and air is almost 1.",
      "outcome": 3
     },
@@ -2037,12 +2037,12 @@
      "t": "mcq",
      "p": "When can light inside water be trapped by the surface?",
      "opts": [
-      "When it reaches the surface at a very shallow angle, beyond about 49 degrees from the normal",
       "When it reaches the surface along the normal",
       "When the water is very deep",
-      "When the water is cold"
+      "When the water is cold",
+      "When it reaches the surface at a very shallow angle, beyond about 49 degrees from the normal"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Trapping, or total internal reflection, happens only when the angle from the normal is bigger than the critical angle, which is about 49 degrees for water. Light along the normal goes straight out. Depth and temperature do not matter much.",
      "outcome": 4
     },
@@ -2122,12 +2122,12 @@
      "t": "mcq",
      "p": "Light travels at about 300,000 kilometres every second in empty space. Glass has a refractive index of about 1.5. About how fast does light go in glass?",
      "opts": [
-      "About 200,000 kilometres a second",
       "About 300,000 kilometres a second",
       "About 450,000 kilometres a second",
+      "About 200,000 kilometres a second",
       "About 100,000 kilometres a second"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The refractive index says how many times slower light is. 300,000 divided by 1.5 is 200,000. Choosing 450,000 multiplies, which would make light faster in glass. Light never speeds up when it goes into glass.",
      "outcome": 3
     },
@@ -2174,12 +2174,12 @@
      "t": "mcq",
      "p": "The critical angle is about 42 degrees for glass and about 24 degrees for diamond. Which traps light more easily?",
      "opts": [
-      "Diamond, because it has the smaller critical angle",
       "Glass, because it has the bigger critical angle",
+      "Diamond, because it has the smaller critical angle",
       "Both the same",
       "Neither can trap light"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Light is trapped whenever it meets the edge at an angle bigger than the critical angle. A smaller critical angle means that more of the angles trap light. That is part of why diamonds sparkle.",
      "outcome": 4
     },
@@ -2267,12 +2267,12 @@
      "t": "mcq",
      "p": "You walk toward the shiny patch on a hot road, but it keeps moving away. What is the best explanation?",
      "opts": [
-      "It is a picture of the sky, visible only at a shallow angle, and the angle never changes as you move on",
       "The road dries as you come near",
       "Your eyes get tired",
+      "It is a picture of the sky, visible only at a shallow angle, and the angle never changes as you move on",
       "Someone is wiping it away"
      ],
-     "a": 0,
+     "a": 2,
      "why": "You see the picture only when you look along the road at a shallow angle. As you walk, a new patch farther ahead meets that same shallow angle. The picture is real light, but it is not a place that you can walk to.",
      "outcome": 6
     },
@@ -2368,12 +2368,12 @@
      "t": "mcq",
      "p": "A ray goes at a slant through a pane of glass. Which pane shifts the ray sideways more: a thin pane or a thick pane?",
      "opts": [
-      "The thick pane, because the ray travels further on its slanted path inside",
       "The thin pane",
+      "The thick pane, because the ray travels further on its slanted path inside",
       "Both the same",
       "Neither, because the ray does not shift"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Inside the glass the ray travels along a slanted line. The longer that path, the further the ray has moved to one side by the time it comes out. A thin pane shifts a ray hardly at all.",
      "outcome": 1
     },
@@ -2416,12 +2416,12 @@
      "t": "mcq",
      "p": "A lens has a power of 2 dioptres. What is its focal length?",
      "opts": [
-      "50 centimetres",
       "20 centimetres",
+      "50 centimetres",
       "2 centimetres",
       "200 centimetres"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The power is 1 divided by the focal length in metres. So the focal length is 1 divided by 2, which is half a metre, or 50 centimetres. Choosing 200 centimetres divides the other way round.",
      "outcome": 7
     },
@@ -2524,12 +2524,12 @@
      "t": "mcq",
      "p": "Which fact shows that a material that is heavier for its size does not always bend light more?",
      "opts": [
-      "Cooking oil floats on water but bends light more than water does",
       "Glass bends light more than water",
       "Diamond is heavier than glass",
+      "Cooking oil floats on water but bends light more than water does",
       "Air bends light very little"
      ],
-     "a": 0,
+     "a": 2,
      "why": "If heavier meant more bending, oil would bend light less than water, because it floats. It bends light more. So the bend does not depend on how heavy the material is for its size.",
      "outcome": 3
     },
@@ -2569,12 +2569,12 @@
      "t": "mcq",
      "p": "A diver is 4 metres under the sea. The round window of sky above her is about 9 metres wide for every 4 metres of depth. About how wide is it for her?",
      "opts": [
-      "About 9 metres",
       "About 4 metres",
+      "About 9 metres",
       "About 13 metres",
       "About 36 metres"
      ],
-     "a": 0,
+     "a": 1,
      "why": "She is exactly 4 metres deep, so the window is about 9 metres wide. If she rose to 2 metres, it would be about half as wide, 4 and a half metres. Choosing 36 multiplies the two numbers together.",
      "outcome": 5
     }
@@ -2586,12 +2586,12 @@
    "t": "mcq",
    "p": "A ray inside a block of glass goes out into the air at a slant. Which way does it bend?",
    "opts": [
-    "Away from the normal",
     "Toward the normal",
+    "Away from the normal",
     "It does not bend",
     "It bends along the surface"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Light speeds up going from glass into air, so it bends away from the normal. Choosing toward the normal is the rule for going into glass, not out of it.",
    "outcome": 1
   },
@@ -2599,12 +2599,12 @@
    "t": "mcq",
    "p": "A beam of light arrives at the surface of a pond exactly along the normal. What does it do?",
    "opts": [
-    "Goes straight on without bending",
     "Bends toward the normal",
     "Bends away from the normal",
+    "Goes straight on without bending",
     "Is trapped"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Light arriving along the normal has an angle of 0 degrees, and it does not bend. The bend appears only when the light arrives at a slant.",
    "outcome": 1
   },
@@ -2612,12 +2612,12 @@
    "t": "mcq",
    "p": "What is the main reason light bends when it goes into glass at a slant?",
    "opts": [
-    "It moves more slowly in glass than in air",
     "Glass pulls it",
+    "It moves more slowly in glass than in air",
     "Glass is heavy",
     "Light gets tired"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Light moves more slowly in glass. Think of the beam as a wide path. The side that enters the glass first slows down first, while the other side is still moving fast. That uneven speed swings the beam round. Pulling, weight and tiredness are common guesses, but none of them is the reason.",
    "outcome": 3
   },
@@ -2638,12 +2638,12 @@
    "t": "mcq",
    "p": "A diver on a calm day looks up and sees a bright round window of sky with a silver ring around it. What is the silver ring?",
    "opts": [
-    "The underside of the water surface acting as a mirror",
     "A reflection from the Sun",
     "Foam on the sea",
+    "The underside of the water surface acting as a mirror",
     "A cloud"
    ],
-   "a": 0,
+   "a": 2,
    "why": "At shallow angles, light from below meets the surface beyond the critical angle, so all of it bounces back. The ring is a mirror that shows the sea bed. Foam and clouds are not the cause.",
    "outcome": 4
   },
@@ -2651,12 +2651,12 @@
    "t": "mcq",
    "p": "What must be true for total internal reflection to happen?",
    "opts": [
-    "Light goes from a slower material to a faster one, at an angle bigger than the critical angle",
     "Light goes from air into water",
     "Light goes along the normal",
+    "Light goes from a slower material to a faster one, at an angle bigger than the critical angle",
     "The material is very cold"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Only light trying to leave a slower material for a faster one can be trapped, and only if its angle is bigger than the critical angle. Going into a slower material, light always gets in.",
    "outcome": 4
   },
@@ -2664,12 +2664,12 @@
    "t": "mcq",
    "p": "How does an optical fibre keep light inside it as it curves?",
    "opts": [
-    "The light bounces off the walls again and again, because it meets them at shallow angles",
     "The fibre is painted black",
     "The light is pushed along by wind",
-    "The fibre soaks up the light"
+    "The fibre soaks up the light",
+    "The light bounces off the walls again and again, because it meets them at shallow angles"
    ],
-   "a": 0,
+   "a": 3,
    "why": "In a fibre, the light meets the wall at a shallow angle, so total internal reflection sends it back in each time. The light zigzags along, even round curves.",
    "outcome": 5
   },
@@ -2677,12 +2677,12 @@
    "t": "mcq",
    "p": "Why does the shiny patch on a hot road seem to move away as you walk toward it?",
    "opts": [
-    "You see it only along a shallow angle, and ahead of you there is always a new place with that shallow angle",
     "The road is cooling",
     "It is water running away",
-    "It gets embarrassed"
+    "It gets embarrassed",
+    "You see it only along a shallow angle, and ahead of you there is always a new place with that shallow angle"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The picture of the sky is seen only when you look along the road at a shallow angle. A new place farther ahead always has that angle. So it keeps moving ahead of you.",
    "outcome": 6
   },
@@ -2690,12 +2690,12 @@
    "t": "mcq",
    "p": "A child's eye makes a sharp picture in front of the retina, so faraway things look blurry. Which lens helps?",
    "opts": [
-    "A hollow lens",
     "A bulging lens",
     "A flat piece of glass",
-    "A coloured lens"
+    "A coloured lens",
+    "A hollow lens"
    ],
-   "a": 0,
+   "a": 3,
    "why": "A hollow lens spreads the light a little first, so the sharp picture moves back onto the retina. A bulging lens would bend the light even more and make the problem worse.",
    "outcome": 7
   },
@@ -2716,12 +2716,12 @@
    "t": "mcq",
    "p": "Why can you see a rainbow only when the Sun is behind you?",
    "opts": [
-    "The drops send light back toward the Sun's side, so the Sun must be behind you",
     "The Sun is too bright in front",
+    "The drops send light back toward the Sun's side, so the Sun must be behind you",
     "Rain falls only behind you",
     "Rainbows are made by the eyes"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Light enters a raindrop, bounces off the back and comes out heading back roughly toward where it came from. For red light, it leaves about 42 degrees away from the line that runs from the Sun past your head. So the drops that send light to your eyes lie in the direction opposite the Sun.",
    "outcome": 5
   },
@@ -3051,6 +3051,117 @@
     "e2",
     "p1"
    ]
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in Build an Eye That Needs Spectacles, Two-Lens Telescope: see faraway things upside down. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "e2",
+    "p1"
+   ],
+   "plan": "Get it before Build an Eye That Needs Spectacles."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Measure the Bend: how much does water turn a beam?, Build an Eye That Needs Spectacles, Two-Lens Telescope: see faraway things upside down. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e2",
+    "p1"
+   ],
+   "plan": "Get it before Measure the Bend: how much does water turn a beam?."
+  },
+  {
+   "id": "b-small-torch-bulbs-or-leds-wi",
+   "item": "Small torch bulbs or LEDs with a holder",
+   "kind": "tool",
+   "why": "Used in Measure the Bend: how much does water turn a beam?, The Glowing Water Jet. About ₹10 to ₹50. A small torch can be taken apart for its bulb.",
+   "url": "https://www.amazon.in/s?k=torch+bulb+holder+set",
+   "used_in": [
+    "e1",
+    "a3"
+   ],
+   "plan": "Get it before Measure the Bend: how much does water turn a beam?."
+  },
+  {
+   "id": "b-a-set-of-lenses--convex-and-",
+   "item": "A set of lenses (convex and concave)",
+   "kind": "tool",
+   "why": "Used in Build an Eye That Needs Spectacles, Two-Lens Telescope: see faraway things upside down. About ₹80 to ₹250. A magnifying glass is one convex lens.",
+   "url": "https://www.amazon.in/s?k=convex+concave+lens+set",
+   "used_in": [
+    "e2",
+    "p1"
+   ],
+   "plan": "Get it before Build an Eye That Needs Spectacles."
+  },
+  {
+   "id": "b-modelling-clay-or-plasticine",
+   "item": "Modelling clay or plasticine",
+   "kind": "material",
+   "why": "Used in Measure the Bend: how much does water turn a beam?, Build an Eye That Needs Spectacles, Two-Lens Telescope: see faraway things upside down. About ₹40 to ₹120. Atta dough mixed with a little salt works.",
+   "url": "https://www.amazon.in/s?k=modelling+clay+plasticine",
+   "used_in": [
+    "e1",
+    "e2",
+    "p1"
+   ],
+   "plan": "Get it before Measure the Bend: how much does water turn a beam?."
+  },
+  {
+   "id": "b-paper-masking-tape",
+   "item": "Paper masking tape",
+   "kind": "material",
+   "why": "Used in Measure the Bend: how much does water turn a beam?. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor.",
+   "url": "https://www.amazon.in/s?k=paper+masking+tape",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before Measure the Bend: how much does water turn a beam?."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Measure the Bend: how much does water turn a beam?, Build an Eye That Needs Spectacles, Two-Lens Telescope: see faraway things upside down. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "e1",
+    "e2",
+    "p1"
+   ],
+   "plan": "Get it before Measure the Bend: how much does water turn a beam?."
+  },
+  {
+   "id": "b-iron-nails-or-iron-filings",
+   "item": "Iron nails or iron filings",
+   "kind": "material",
+   "why": "Used in The Glowing Water Jet. About ₹20 to ₹80. Short steel nails from a hardware shop.",
+   "url": "https://www.amazon.in/s?k=iron+filings+science",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before The Glowing Water Jet."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

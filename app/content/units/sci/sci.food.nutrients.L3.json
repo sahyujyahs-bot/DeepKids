@@ -123,7 +123,7 @@
    "concept": "What a nutrient is",
    "status": "defined",
    "definition": "A nutrient is a part of food that the body uses to live, grow, move and mend itself. Scientists sort nutrients into six kinds: carbohydrates, proteins, fats, vitamins, minerals and water.",
-   "description": "Your body takes food apart into its nutrients. It burns some of them for energy. It uses others to build new parts, like muscle, bone and blood. Your body needs large amounts of carbohydrates, proteins, fats and water every day. It needs only tiny amounts of vitamins and minerals, but it cannot stay healthy without them.",
+   "description": "Your body takes food apart into its nutrients. It burns some of them for energy. It uses others to build new parts, like muscle, bone and blood. Your body needs large amounts of carbohydrates, proteins, fats and water every day. It needs only tiny amounts of vitamins and minerals, but it cannot stay healthy without them. When a child gets too little food for a long time, the body wastes away. This illness is called marasmus.",
    "examples": [
     "A plate of curd rice gives carbohydrate from the rice, and protein, fat, calcium and water from the curd.",
     "A guava gives water, sugar, fibre and a lot of vitamin C."
@@ -214,7 +214,7 @@
    "concept": "Minerals: from rocks to your bones",
    "status": "defined",
    "definition": "Minerals are nutrients that come from rocks and soil. Plants take them up from the soil with water. We get them from plants, from animals that ate plants, and from water.",
-   "description": "Calcium makes bones and teeth hard. Ragi, milk, curd, til and green leaves give calcium. Iron is used by blood to carry oxygen. Green leaves, dal, ragi, eggs and fish give iron. Iodine helps the body grow and the brain develop. India adds iodine to most salt for this reason. Many minerals dissolve in water. That is why tap water can leave white rings when it dries on a steel tumbler.",
+   "description": "Calcium makes bones and teeth hard. Ragi, milk, curd, til and green leaves give calcium. Iron is used by blood to carry oxygen. Green leaves, dal, ragi, eggs and fish give iron. Iodine helps the body grow and the brain develop. India adds iodine to most salt for this reason. Too little iron can cause anaemia. The blood then carries less oxygen, so a child tires quickly. Too little iodine can cause goitre, a swelling at the front of the neck. Many minerals dissolve in water. That is why tap water can leave white rings when it dries on a steel tumbler.",
    "examples": [
     "100 grams of ragi flour has nearly three times as much calcium as 100 millilitres of milk.",
     "Iron from green leaves is taken in better when the meal also has vitamin C, like a squeeze of lemon."
@@ -517,11 +517,11 @@
       "t": "mcq",
       "q": "Curd is in the dairy box. Which second box is true for curd?",
       "options": [
-       "Protein, because curd carries the protein of the milk",
        "Fruit and vegetables, because curd is white and fresh",
-       "Fats and sugars, because curd is cooked with sugar"
+       "Fats and sugars, because curd is cooked with sugar",
+       "Protein, because curd carries the protein of the milk"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Curd is made from milk, and the milk's protein stays in it. Curd is not a fruit or a vegetable, and plain curd has no sugar added."
      }
     },
@@ -760,11 +760,11 @@
      "t": "mcq",
      "p": "Salt water is added to hot milk. Nothing happens. Then lemon juice is added, and white lumps appear. Why?",
      "opts": [
-      "Lemon juice is an acid, and acid makes milk's protein clump",
       "Lemon juice is yellow",
+      "Lemon juice is an acid, and acid makes milk's protein clump",
       "Salt water was too cold"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Lemon juice is sour, which means it is an acid. Acid makes casein, the main protein in milk, clump into curds. Salt water is not an acid, so the milk stays smooth.",
      "how": "e1"
     },
@@ -864,6 +864,13 @@
      ],
      "why": "First the milk is heated. Then the liquids are added. Then you wait and look for lumps. Last, the cloth separates the curds from the whey.",
      "how": "e1"
+    },
+    {
+     "t": "write",
+     "p": "Say it out loud, and a grown-up writes it: a child feels tired and looks pale. Which mineral may be missing, and what does it do in the blood?",
+     "lines": 2,
+     "a": "Iron may be missing. Iron helps the blood carry oxygen around the body.",
+     "why": "A strong answer names iron and says its job: carrying oxygen in the blood."
     }
    ]
   },
@@ -877,11 +884,11 @@
      "t": "mcq",
      "p": "In a Sun-Dried Slices test, a potato slice kept about a fifth of its weight. A cucumber slice kept almost nothing. Which slice had more of something that is not water?",
      "opts": [
-      "The potato, because it has a lot of starch",
       "The cucumber, because it is green",
-      "Both the same, because they were the same size"
+      "Both the same, because they were the same size",
+      "The potato, because it has a lot of starch"
      ],
-     "a": 0,
+     "a": 2,
      "why": "What is left after drying is the part of a food that is not water. A potato keeps more because about a fifth of it is starch. A cucumber is nearly all water.",
      "how": "e2"
     },
@@ -927,11 +934,11 @@
      "t": "mcq",
      "p": "Why does a carrot poriyal cooked in a little oil help your body more than a raw carrot alone?",
      "opts": [
-      "Vitamin A mixes into fat, so the body takes it in better with a little oil",
       "Oil turns into vitamins",
+      "Vitamin A mixes into fat, so the body takes it in better with a little oil",
       "Cooking adds protein"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Vitamins A, D, E and K mix into fat, not water. A little fat in the meal helps the body take them in."
     },
     {
@@ -1116,11 +1123,11 @@
      "t": "mcq",
      "p": "Sugar, oil and paneer look completely different. What are they mostly made of?",
      "opts": [
-      "The same three kinds of atoms, carbon, hydrogen and oxygen, joined in different ways",
       "Completely different kinds of atoms",
-      "Water"
+      "Water",
+      "The same three kinds of atoms, carbon, hydrogen and oxygen, joined in different ways"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Sugar, fat and protein are all built mostly from carbon, hydrogen and oxygen atoms. Protein also has nitrogen. How the atoms are joined makes each one so different."
     },
     {
@@ -1181,11 +1188,11 @@
      "t": "mcq",
      "p": "Suppose tamarind water made fewer lumps than lemon juice in the milk-splitting test. What is the most likely reason?",
      "opts": [
-      "Tamarind water was less strongly acidic than the lemon juice",
       "Tamarind is brown",
-      "Tamarind has no taste"
+      "Tamarind has no taste",
+      "Tamarind water was less strongly acidic than the lemon juice"
      ],
-     "a": 0,
+     "a": 2,
      "why": "How quickly and fully milk curdles depends on how acidic the liquid is. Tamarind water is sour, but often less strongly than lemon juice. Adding more tamarind water usually gives more lumps.",
      "how": "e1"
     },
@@ -1581,11 +1588,11 @@
       "t": "mcq",
       "q": "The cucumber slice shrank to a thin, wrinkly disc. The chapati hardly changed size. What does this tell us?",
       "options": [
-       "The cucumber was mostly water, and the water went into the air",
        "The sun ate the cucumber",
-       "The chapati is stronger than the cucumber"
+       "The chapati is stronger than the cucumber",
+       "The cucumber was mostly water, and the water went into the air"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A cucumber is nearly all water. The sun and moving air turned that water into water vapour, which went into the air. What is left is the small part of the cucumber that is not water: some sugar, fibre and minerals. Chapati is already much drier, so it had less water to lose. Picking 'the chapati is stronger' is a natural guess, but the difference is in how much water each food held."
      },
      "parent": "After three days the slices may be leathery and not fully dry. Their order still shows. A cucumber slice of 20 grams usually ends at a few grams, a small wrinkled disc. A potato slice keeps more of its weight, because a potato is about four-fifths water and the rest is mostly starch. The potato also dries slowest. The tomato and carrot fall in between. A home scale that reads to 1 gram is good enough to see this. The chapati was already dry, so its size hardly changes."
@@ -1735,11 +1742,11 @@
       "t": "mcq",
       "q": "Suppose the tap water left a white ring and the filtered water left almost nothing. What is the white ring?",
       "options": [
-       "Minerals that were dissolved in the tap water",
        "Dust from the air",
-       "Soap left on the plate"
+       "Soap left on the plate",
+       "Minerals that were dissolved in the tap water"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Tap water flows over and through rocks and soil, and picks up minerals like calcium. They dissolve, so you cannot see them. When the water dries, the minerals stay behind as a white ring. A filter or RO machine takes most of them out. Picking 'dust' is sensible, but dust would land on every spot equally. Soap left on the plate would also show on every spot, not only on the tap water spot."
      },
      "parent": "What you see depends on your water. Hard water, common from borewells in Chennai, Bengaluru and Hyderabad, leaves a clear white ring. Soft water may leave only a faint ring, so look closely. Salt water leaves small white crystals. Coconut water and whey leave a sticky, yellowish film: their sugars, with minerals mixed in."
@@ -1866,11 +1873,11 @@
       "t": "mcq",
       "q": "Out of 10 spoons of dry toor dal, about how many are protein?",
       "options": [
-       "About 2",
        "About 8",
-       "All 10"
+       "All 10",
+       "About 2"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Only about 2 spoons out of 10 are protein. About 6 are carbohydrate. Dal is in the protein box because it has much more protein than rice or wheat, not because it is mostly protein. Most people guess 8 or 10, because of the food group charts."
      },
      "parent": "The big surprises are usually these. Milk is almost all water. Cooked rice is mostly water. Dal is mostly carbohydrate. Peanuts are more fat than protein. These numbers are rounded to the nearest spoon."
@@ -1955,11 +1962,11 @@
       "t": "mcq",
       "q": "Why do you need to drink water every day, even when you are not playing?",
       "options": [
-       "You lose water all day in your breath, sweat and urine",
        "Water gives your body energy",
-       "Water makes you grow taller"
+       "Water makes you grow taller",
+       "You lose water all day in your breath, sweat and urine"
       ],
-      "a": 0,
+      "a": 2,
       "why": "You lose water all day, even sitting still: in every breath, in sweat and in urine. So you must keep putting it back. Water has no energy in it, so picking 'energy' mixes water up with carbohydrates and fats."
      }
     }
@@ -2018,11 +2025,11 @@
       "t": "mcq",
       "q": "Which nutrient makes your bones and teeth hard?",
       "options": [
-       "Calcium, a mineral",
        "Fat",
+       "Calcium, a mineral",
        "Vitamin C"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Calcium is a mineral that makes bones and teeth hard. You get it from ragi, milk, curd, til and green leaves. Fat builds the outer wall of every cell, and vitamin C helps cuts heal."
      }
     },
@@ -2110,11 +2117,11 @@
       "t": "mcq",
       "q": "In chana sundal, the chana gives protein, carbohydrate, fibre and iron. What does the squeeze of lemon add?",
       "options": [
-       "Vitamin C, which also helps your body take in the chana's iron",
        "Fat",
-       "Lots of protein"
+       "Lots of protein",
+       "Vitamin C, which also helps your body take in the chana's iron"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Lemon gives vitamin C. Vitamin C also helps the body take in iron from plant foods like chana. That is one reason a squeeze of lemon on dal or sundal is a good habit."
      },
      "parent": "Chana: protein, carbohydrate, fibre, iron. Coconut: fat and fibre. Oil: fat. Lemon: vitamin C. Salt: the minerals sodium and, if iodised, iodine. Curry leaves: a little calcium and vitamin A. The cooked chana also holds water from the cooking."
@@ -2195,11 +2202,11 @@
       "t": "mcq",
       "q": "Suppose you drank 2 more tumblers on a hot day than on a cool day. Why does the body need more water on a hot day?",
       "options": [
-       "You sweat more, and sweat is mostly water",
        "Hot days make food dry",
-       "The Sun takes water out of the air you breathe"
+       "The Sun takes water out of the air you breathe",
+       "You sweat more, and sweat is mostly water"
       ],
-      "a": 0,
+      "a": 2,
       "why": "On a hot day your body sweats to cool you down. Sweat is mostly water, so you lose more and need to drink more. Watery foods like buttermilk and watermelon help too."
      },
      "parent": "Many doctors suggest about 6 to 8 glasses of drinks a day for children, and more on hot days or after playing. Watery food counts too. Pale urine is a simpler guide than a number."
@@ -2400,11 +2407,11 @@
    "t": "mcq",
    "p": "How many kinds of nutrient does your body need?",
    "opts": [
-    "Six: carbohydrates, proteins, fats, vitamins, minerals and water",
     "Two: food and water",
+    "Six: carbohydrates, proteins, fats, vitamins, minerals and water",
     "One: protein"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Scientists sort nutrients into six kinds. The body needs all of them.",
    "outcome": 0
   },
@@ -2412,11 +2419,11 @@
    "t": "mcq",
    "p": "Which nutrient does your body use most for energy?",
    "opts": [
-    "Carbohydrate",
     "Calcium",
-    "Vitamin C"
+    "Vitamin C",
+    "Carbohydrate"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Carbohydrates, like the starch in rice and idli, are the body's main fuel. Calcium builds bones, and vitamin C helps cuts heal.",
    "outcome": 0
   },
@@ -2436,11 +2443,11 @@
    "t": "mcq",
    "p": "Peanuts are in the protein group. Which other group could they also go in?",
    "opts": [
-    "Fats, because more than a third of a peanut is fat",
     "Dairy",
-    "Fruit and vegetables"
+    "Fruit and vegetables",
+    "Fats, because more than a third of a peanut is fat"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A peanut has more fat than protein. So it fits the fats group as well. Most foods carry several nutrients.",
    "outcome": 1
   },
@@ -2448,11 +2455,11 @@
    "t": "mcq",
    "p": "Why can one food belong to more than one food group?",
    "opts": [
-    "Most foods are a mix of several nutrients",
     "Food groups change every year",
-    "Cooks put foods in the wrong group"
+    "Cooks put foods in the wrong group",
+    "Most foods are a mix of several nutrients"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A food group names the nutrient a food gives most. But most foods carry several, so they can fit several groups.",
    "outcome": 1
   },
@@ -2460,11 +2467,11 @@
    "t": "mcq",
    "p": "Lemon juice makes hot milk split. Which nutrients from the milk are mostly caught in the white lumps?",
    "opts": [
-    "Protein and fat",
     "Sugar and minerals",
-    "Vitamin C"
+    "Vitamin C",
+    "Protein and fat"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The lumps, called curds, hold most of the casein, the main protein in milk, with most of the fat caught inside. The watery whey holds most of the water, milk sugar and some minerals. Milk has no vitamin C to speak of.",
    "outcome": 2,
    "how": "e1"
@@ -2473,11 +2480,11 @@
    "t": "mcq",
    "p": "Which of these would NOT make hot milk curdle?",
    "opts": [
-    "Sugar water",
     "Lemon juice",
-    "Vinegar"
+    "Vinegar",
+    "Sugar water"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Lemon juice and vinegar are acids, which make milk's protein clump. Sugar water is not an acid, so the milk stays smooth.",
    "outcome": 2,
    "how": "e1"
@@ -2486,11 +2493,11 @@
    "t": "mcq",
    "p": "Why does a cucumber slice shrink so much when it dries in the sun?",
    "opts": [
-    "It is nearly all water, and the water goes into the air",
     "The sun burns it up",
-    "Ants eat it"
+    "Ants eat it",
+    "It is nearly all water, and the water goes into the air"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A cucumber is nearly all water. When it dries, the water becomes water vapour in the air, and very little is left.",
    "outcome": 3,
    "how": "e2"
@@ -2499,11 +2506,11 @@
    "t": "mcq",
    "p": "Which of these is a sign that your body needs more water?",
    "opts": [
-    "Dark yellow urine",
     "Feeling cold",
+    "Dark yellow urine",
     "Pale yellow urine"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Dark yellow urine means your body is short of water and is keeping back what it has. Pale yellow usually means you have had enough.",
    "outcome": 3
   },
@@ -2511,11 +2518,11 @@
    "t": "mcq",
    "p": "Why can tap water leave a white ring on a steel tumbler?",
    "opts": [
-    "It carries dissolved minerals that stay behind when the water dries",
     "The steel turns white when wet",
-    "Soap is in the water"
+    "Soap is in the water",
+    "It carries dissolved minerals that stay behind when the water dries"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Tap water picks up minerals like calcium from rocks and soil. They dissolve and cannot be seen. When the water dries, they stay as a white ring.",
    "outcome": 4,
    "how": "e3"
@@ -2524,11 +2531,11 @@
    "t": "mcq",
    "p": "Which food gives a lot of calcium for strong bones?",
    "opts": [
-    "Ragi",
     "Sugar",
+    "Ragi",
     "Coconut oil"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Ragi is rich in calcium, a mineral that makes bones hard. Milk, curd, til and green leaves give calcium too.",
    "outcome": 4
   },
@@ -2536,13 +2543,25 @@
    "t": "mcq",
    "p": "Two scientists ate no protein, then climbed a mountain. They measured how much protein their bodies used. It was far too little to give the energy for the climb. What does this show?",
    "opts": [
-    "Muscles run mainly on carbohydrates and fats, not protein",
     "Muscles run only on protein",
+    "Muscles run mainly on carbohydrates and fats, not protein",
     "Climbing needs no energy"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The climb needed a lot of energy, but very little protein was used. So the energy must have come mostly from carbohydrates and fats.",
    "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "A child is often tired and pale. Her blood has too little iron. What is this illness called?",
+   "opts": [
+    "Anaemia, when the blood carries less oxygen",
+    "Goitre, a swelling at the front of the neck",
+    "Marasmus, when the body wastes away"
+   ],
+   "a": 0,
+   "why": "Too little iron causes anaemia, so the blood carries less oxygen and the child tires quickly. Goitre comes from too little iodine, and marasmus comes from too little food for a long time.",
+   "outcome": 4
   }
  ],
  "applications": [
@@ -2756,7 +2775,69 @@
    "why": "Ask politely if your child can watch paneer being made, and ask what the shop does with the whey."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-vinegar",
+   "item": "Vinegar",
+   "kind": "material",
+   "why": "Used in Splitting Milk: which kitchen liquids curdle it?. About ₹40 to ₹80. Lemon juice works for many tests.",
+   "url": "https://www.amazon.in/s?k=white+vinegar",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before Splitting Milk: which kitchen liquids curdle it?."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in Ten-Spoon Foods: guess what a food is made of, Chana Sundal: cook a snack and find its nutrients. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "a1",
+    "a4"
+   ],
+   "plan": "Get it before Ten-Spoon Foods: guess what a food is made of."
+  },
+  {
+   "id": "b-a-kitchen-or-weighing-scale",
+   "item": "A kitchen or weighing scale",
+   "kind": "tool",
+   "why": "Used in Sun-Dried Slices: how much of a vegetable is water?. About ₹300 to ₹700. A home-made balance from a ruler and two cups can compare weights.",
+   "url": "https://www.amazon.in/s?k=digital+kitchen+weighing+scale",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before Sun-Dried Slices: how much of a vegetable is water?."
+  },
+  {
+   "id": "b-a-measuring-jug-or-syringe--",
+   "item": "A measuring jug or syringe (marked in millilitres)",
+   "kind": "tool",
+   "why": "Used in Splitting Milk: which kitchen liquids curdle it?, My Water Diary: three days of water in and out. About ₹30 to ₹100. A clean medicine cup or marked bottle works.",
+   "url": "https://www.amazon.in/s?k=measuring+jug+500+ml",
+   "used_in": [
+    "e1",
+    "p1"
+   ],
+   "plan": "Get it before Splitting Milk: which kitchen liquids curdle it?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "Name the six kinds of nutrient.",

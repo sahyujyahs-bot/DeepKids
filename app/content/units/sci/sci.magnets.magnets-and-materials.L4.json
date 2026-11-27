@@ -739,11 +739,11 @@
       "t": "mcq",
       "q": "A magnet and a nail pull each other. Which sentence is true?",
       "options": [
-       "The magnet pulls harder because it is the magnet",
        "The two pulls are exactly equal",
+       "The magnet pulls harder because it is the magnet",
        "The nail pulls harder because it is heavier"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The two pulls are always equal and opposite. Picking 'the magnet pulls harder' is the most common guess. It comes from watching the nail move and forgetting that the magnet is held in a hand."
      },
      "context": "In this step you play more cards and check your idea about equal pulls."
@@ -945,10 +945,10 @@
       "q": "An electric crane uses a magnet to lift scrap iron, and must drop the scrap when the electricity is off. What should the core be made of?",
       "options": [
        "Hard steel, so it keeps its magnetism",
-       "Soft iron, so it loses its magnetism when the electricity stops",
-       "Wood, because it is light"
+       "Wood, because it is light",
+       "Soft iron, so it loses its magnetism when the electricity stops"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Soft iron becomes a strong magnet when the current flows and loses it as soon as the current stops, so the load drops. Hard steel would keep part of its magnetism and the scrap would stay stuck."
      },
      "context": "In this step you play the last eight cards and meet the coil and the switch."
@@ -1087,11 +1087,11 @@
       "t": "mcq",
       "q": "Why do we run a trial with a wooden pencil in place of the nails first?",
       "options": [
-       "To see if the rafts move by themselves, from ripples or the water",
        "Because wood is the best raft",
+       "To see if the rafts move by themselves, from ripples or the water",
        "To make the magnet stronger"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A control trial swaps out the one thing we want to test, here the nails. If the rafts do not move with a pencil, then the moves in the next trials must come from the nails. Picking 'wood is the best raft' mixes up the raft with the thing on it."
      },
      "parent": "Nothing should happen. If the rafts drift together, they are too close. Floating things that are very close, within about 2 centimetres, drift together because of the way the surface of the water pulls on them. This has nothing to do with magnetism. That is why we start 8 centimetres apart. If they drift, wait longer for the water to calm and try again.",
@@ -1127,10 +1127,10 @@
       "q": "Both rafts have the same mass, and they meet in the middle. What does this show?",
       "options": [
        "The magnet pulls the nail, and the nail does not pull the magnet",
-       "The magnet and the nail pull each other with equal force",
-       "The nail is stronger than the magnet"
+       "The nail is stronger than the magnet",
+       "The magnet and the nail pull each other with equal force"
       ],
-      "a": 1,
+      "a": 2,
       "why": "If the pulls were different, the raft pulled harder would stay nearer to where it began. They meet in the middle, so the pulls are equal. Picking 'the nail does not pull' goes against what you saw, because the nail raft moved."
      },
      "parent": "Typically the rafts meet near the middle, with each moving a similar distance. Small differences come from the clay, ripples and the raft shape. Write exactly what you see.",
@@ -1265,11 +1265,11 @@
       "t": "mcq",
       "q": "The two nail tips spread apart. What is the best explanation?",
       "options": [
-       "Both tips became the same kind of pole, so they repel",
        "The nails are too heavy to hang straight",
-       "The tips are attracted to the table"
+       "The tips are attracted to the table",
+       "Both tips became the same kind of pole, so they repel"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Each nail becomes an induced magnet. The heads touch the same pole of the magnet, so both heads get the same pole, and both tips get the opposite one. Two poles of the same kind repel. If the nails were just too heavy, they would hang straight down."
      },
      "context": "In this step you hang the first two nails and see the V."
@@ -1769,11 +1769,11 @@
       "t": "mcq",
       "q": "The front of a bendy fridge magnet lifts many staples, and the back lifts almost none. What is the best explanation?",
       "options": [
-       "The magnet is made with stripes of north and south, so its field mostly reaches out of the front",
        "The back is made of a different metal",
+       "The magnet is made with stripes of north and south, so its field mostly reaches out of the front",
        "The front is stronger because it is shinier"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The maker magnetises the rubber in thin stripes of north and south. Their fields loop between neighbours and reach out of the front, and cancel at the back. Picking 'a different metal' mixes this up with the idea that a magnet must be a metal."
      },
      "context": "In this step you test the back face and compare it with the front."
@@ -2004,11 +2004,11 @@
       "t": "mcq",
       "q": "The fridge door pulls a paper clip, but it does not push the hanging magnet away at any spot. What is the door?",
       "options": [
-       "Plain magnetic steel, which is not a magnet",
        "A strong magnet",
+       "Plain magnetic steel, which is not a magnet",
        "A plastic sheet"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The door pulls both ends of the hanging magnet, so it is plain magnetic steel. A real magnet would push the hanging magnet away at one of its poles. A plastic sheet would not move the clip at all."
      },
      "parent": "The rubber seal of the fridge door nearly always has a magnetic strip, so the clip clings and some spots may push the hanging magnet. Loudspeakers and old earphones often have strong ceramic or neodymium magnets inside.",
@@ -2221,11 +2221,11 @@
       "t": "mcq",
       "q": "The engine and the carriage both move towards each other. What does this show?",
       "options": [
-       "The magnet and the nail pull each other",
        "The table is sloping",
+       "The magnet and the nail pull each other",
        "The magnet is pulling the nail only"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Both cars moved, so both are pulled. If only the magnet pulled, only the nail car would move. A table that slopes would move both the same way, not towards each other."
      },
      "parent": "If neither car moves, move them closer, or use a stronger magnet, or add a second nail. If they bang together hard, go on early to the day 2 step, where you make the join gentle.",
@@ -2355,11 +2355,11 @@
       "t": "mcq",
       "q": "A thick bolt holds more rice than a thin nail on the same magnet. What is the best explanation?",
       "options": [
-       "A thick bolt has more iron with domains that can turn, so it makes a stronger induced magnet",
        "A thick bolt is heavier so it sticks harder",
-       "A thick bolt is a different metal"
+       "A thick bolt is a different metal",
+       "A thick bolt has more iron with domains that can turn, so it makes a stronger induced magnet"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A thin nail saturates early, because it has only a few domains to turn. A thick bolt has many more, so it becomes a stronger magnet itself. Picking 'heavier so it sticks harder' is the opposite of what happens, as a heavier thing is harder to hold up."
      },
      "context": "In this step you improve your design and test again."
@@ -2457,11 +2457,11 @@
       "t": "mcq",
       "q": "Adding paper between a magnet and the steel makes the catch weaker. Why?",
       "options": [
-       "The paper keeps the steel further away, and the pull gets weaker quickly with distance",
        "The paper is a magnetic material",
+       "The paper keeps the steel further away, and the pull gets weaker quickly with distance",
        "The paper makes the magnet colder"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A magnet's pull is strongest close up and gets weaker quickly as the gap grows. Each sheet of paper adds to the gap. Picking 'the paper is magnetic' is wrong, because paper is not a magnetic material."
      },
      "context": "In this step you change the gap and find the best catch."
@@ -2491,10 +2491,10 @@
      "opts": [
       "Only the magnet pulls",
       "Only the nail pulls",
-      "The magnet and the nail pull each other equally",
-      "The bigger one pulls harder"
+      "The bigger one pulls harder",
+      "The magnet and the nail pull each other equally"
      ],
-     "a": 2,
+     "a": 3,
      "why": "A pull always comes as a pair of equal forces, one on each thing. Picking 'only the magnet pulls' comes from watching the nail move, because the magnet is usually held in a hand.",
      "outcome": 0
     },
@@ -2504,10 +2504,10 @@
      "opts": [
       "Only the nail raft moves",
       "Only the magnet raft moves",
-      "Both rafts move towards each other and meet near the middle",
-      "Neither raft moves"
+      "Neither raft moves",
+      "Both rafts move towards each other and meet near the middle"
      ],
-     "a": 2,
+     "a": 3,
      "why": "The pulls are equal and the masses are equal, so both rafts move the same distance. Saying that only one raft moves forgets that the pull works both ways.",
      "outcome": 0
     },
@@ -2619,12 +2619,12 @@
      "t": "mcq",
      "p": "A sewing needle keeps its pins after the magnet is taken away. A plain nail drops most of its pins. What does this show?",
      "opts": [
-      "The needle is a harder magnetic material than the nail",
       "The nail is a different metal",
       "The needle is bigger",
-      "The nail was too hot"
+      "The nail was too hot",
+      "The needle is a harder magnetic material than the nail"
      ],
-     "a": 0,
+     "a": 3,
      "why": "In hard steel the domains stay turned. In soft iron they turn back. Picking 'bigger' is a good guess, but the needle is thinner than the nail.",
      "outcome": 4
     },
@@ -2653,12 +2653,12 @@
      "t": "mcq",
      "p": "You hang two nails from the same face of a magnet. Their tips spread apart. Why?",
      "opts": [
-      "The tips are the same kind of pole and repel",
       "The nails are different lengths",
       "The tips are attracted to the table",
+      "The tips are the same kind of pole and repel",
       "The nails are too heavy"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Each nail becomes a magnet. Both heads touch the same pole, so both tips get the opposite pole. Two poles of the same kind repel.",
      "outcome": 2
     },
@@ -2720,12 +2720,12 @@
      "t": "mcq",
      "p": "A lighter girl on skates and a heavier woman on skates hold a rope and the girl pulls. Who moves further?",
      "opts": [
-      "The girl, because she is lighter",
       "The woman, because she is stronger",
       "They move the same distance",
+      "The girl, because she is lighter",
       "Neither moves"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The rope pulls both with the same force. The lighter person speeds up more and moves further. This is like the light raft and the heavy raft.",
      "outcome": 1
     },
@@ -2785,12 +2785,12 @@
      "t": "mcq",
      "p": "In pure soft iron, the edges of the domains slide about easily. In hard steel they catch on tiny bits of carbon. Which fits this idea?",
      "opts": [
-      "Hard steel keeps its magnetism, because its domain edges are held in place",
       "Hard steel loses its magnetism, because its domain edges are free",
       "Soft iron keeps its magnetism for years",
-      "Both keep it equally"
+      "Both keep it equally",
+      "Hard steel keeps its magnetism, because its domain edges are held in place"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Flaws and carbon in the steel hold the domain edges after they have turned. Soft iron lets the edges slide back at once.",
      "outcome": 4
     },
@@ -2831,12 +2831,12 @@
      "t": "mcq",
      "p": "Why is a thick bolt able to hold more weight than a thin nail on the same magnet?",
      "opts": [
-      "It has more iron, so it becomes a stronger induced magnet before it saturates",
       "It is heavier",
       "It is a different metal",
-      "It is shinier"
+      "It is shinier",
+      "It has more iron, so it becomes a stronger induced magnet before it saturates"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A thin nail has only so many domains to turn, and it saturates early. A thick bolt has many more domains. Picking 'heavier' is wrong, because heavier things are harder to hold up.",
      "outcome": 2
     },
@@ -2942,12 +2942,12 @@
      "t": "mcq",
      "p": "A girl on roller skates pushes a wall and rolls backwards. Why?",
      "opts": [
-      "The wall pushes back on her with an equal force",
       "The wall is slippery",
+      "The wall pushes back on her with an equal force",
       "She pushed herself",
       "The floor pulled her"
      ],
-     "a": 0,
+     "a": 1,
      "why": "When she pushes the wall, the wall pushes her. This is Newton's third law. She moves because she is free to roll and the wall is part of a building.",
      "outcome": 0
     },
@@ -2955,12 +2955,12 @@
      "t": "mcq",
      "p": "An apple falls from a tree. The Earth pulls the apple. Does the apple pull the Earth?",
      "opts": [
-      "Yes, with the same force, but the Earth moves by a tiny amount",
       "No, the apple is too small",
       "Yes, with a much bigger force",
-      "Only when the apple lands"
+      "Only when the apple lands",
+      "Yes, with the same force, but the Earth moves by a tiny amount"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The pulls are equal in size. The Earth has so much mass that the same pull moves it by an amount nobody can see.",
      "outcome": 1
     },
@@ -3021,12 +3021,12 @@
      "t": "mcq",
      "p": "You find a long steel rod that picks up pins at one end only. It does not pull pins in the middle. What is the best conclusion?",
      "opts": [
-      "It is a magnet with a pole at that end",
       "It is made of wood",
+      "It is a magnet with a pole at that end",
       "It is a plain nail",
       "It is too light"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A magnet's pull is strongest at its poles. A plain rod pulls the same near any part.",
      "outcome": 3
     },
@@ -3053,12 +3053,12 @@
      "t": "mcq",
      "p": "A steel crane in a scrapyard uses a magnet to lift a car, then drops it. Which is the best core for this magnet?",
      "opts": [
-      "Soft iron, so it loses magnetism when the current stops",
       "Hard steel, so it keeps its magnetism",
       "Wood",
+      "Soft iron, so it loses magnetism when the current stops",
       "Plastic"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Soft iron is a strong magnet while the current flows and stops being one when the current stops, so the crane can let go.",
      "outcome": 4
     },
@@ -3152,12 +3152,12 @@
    "t": "mcq",
    "p": "A magnet attracts a nail. What does the nail do to the magnet?",
    "opts": [
-    "Attracts it with an equal force",
     "Nothing",
     "Attracts it with a smaller force",
-    "Repels it"
+    "Repels it",
+    "Attracts it with an equal force"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Pulls always come in pairs of equal size. The nail seems to do nothing because the magnet is usually held in a hand.",
    "outcome": 0
   },
@@ -3178,12 +3178,12 @@
    "t": "mcq",
    "p": "The same pull acts on a light thing and a heavy thing. Which moves further?",
    "opts": [
-    "The light thing",
     "The heavy thing",
+    "The light thing",
     "They move the same",
     "Neither"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A pull makes a light thing speed up more than a heavy thing, so the light thing moves further.",
    "outcome": 1
   },
@@ -3191,12 +3191,12 @@
    "t": "mcq",
    "p": "A steel nail near a magnet picks up a pin. What has happened to the nail?",
    "opts": [
-    "It has become a magnet for as long as the magnet is near",
     "It has become lighter",
+    "It has become a magnet for as long as the magnet is near",
     "It has become a different metal",
     "It has become hot"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The magnet turns the domains in the nail to point one way. The nail is now an induced magnet.",
    "outcome": 2
   },
@@ -3204,12 +3204,12 @@
    "t": "mcq",
    "p": "Two pins hang from one pole of a magnet. Their tips spread apart. Why?",
    "opts": [
-    "Both tips are the same pole, so they repel",
     "The pins are bent",
     "The tips attract the table",
+    "Both tips are the same pole, so they repel",
     "The pins are heavy"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Both pins become magnets with the same pole at their tips. Two poles of the same kind repel.",
    "outcome": 2
   },
@@ -3256,12 +3256,12 @@
    "t": "mcq",
    "p": "What should the core of an electromagnet in a crane be made of?",
    "opts": [
-    "Soft iron",
     "Hard steel",
     "Wood",
-    "Glass"
+    "Glass",
+    "Soft iron"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Soft iron loses its magnetism when the current stops, so the crane can drop its load.",
    "outcome": 4
   },
@@ -3269,12 +3269,12 @@
    "t": "mcq",
    "p": "Which can weaken a magnet?",
    "opts": [
-    "Heating it, hammering it, or putting a strong opposite magnet near it",
     "Holding a nail for a long time",
     "Putting paper over it",
+    "Heating it, hammering it, or putting a strong opposite magnet near it",
     "Keeping it in a dry box"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Heat, hard knocks and strong opposite fields shake the domains. Holding a nail takes nothing from a magnet.",
    "outcome": 5
   },
@@ -3295,12 +3295,12 @@
    "t": "mcq",
    "p": "A bendy fridge magnet grips on its front and hardly on its back. What is the reason?",
    "opts": [
-    "Thin stripes of north and south make the field reach out of the front only",
     "The back is made of rubber and the front of steel",
+    "Thin stripes of north and south make the field reach out of the front only",
     "The front is a bigger magnet",
     "The back is dirty"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The maker magnetises thin stripes side by side. The loops between neighbours reach out of one face and cancel at the other.",
    "outcome": 6
   },
@@ -3308,12 +3308,12 @@
    "t": "mcq",
    "p": "A hard disk stores information as tiny regions magnetised up or down. Why must the coating be a hard magnetic material?",
    "opts": [
-    "So the pattern stays for years",
     "So the disk is heavy",
     "So the disk is shiny",
-    "So the disk is hot"
+    "So the disk is hot",
+    "So the pattern stays for years"
    ],
-   "a": 0,
+   "a": 3,
    "why": "A soft material would let the pattern fade. A hard material keeps the domains turned.",
    "outcome": 6
   },
@@ -3334,12 +3334,12 @@
    "t": "mcq",
    "p": "Scientists agree that a magnetic field works as a description of the pull around a magnet. What do they still argue about?",
    "opts": [
-    "Exactly what a field is",
     "Whether magnets attract iron",
     "Whether nails can be magnetised",
+    "Exactly what a field is",
     "Whether pulls come in pairs"
    ],
-   "a": 0,
+   "a": 2,
    "why": "It is well tested that magnets attract iron, that nails can be magnetised and that pulls come in pairs. What a field is, underneath, is still being discussed.",
    "outcome": 7
   }
@@ -3697,6 +3697,60 @@
     "e1",
     "p1"
    ]
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Rafts on the Water: does the nail pull the magnet too?, The Hanging V: why do two nails spread apart?, Hidden Magnets at Home: where are they, and how do you know?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e2",
+    "a5",
+    "a6",
+    "p1",
+    "c2"
+   ],
+   "plan": "Get it before Rafts on the Water: does the nail pull the magnet too?."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Build a Magnetic Toy Train, then make it meet softly, The Gentle Gate: a door catch that shuts itself and opens with one finger. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "p1",
+    "c2"
+   ],
+   "plan": "Get it before Build a Magnetic Toy Train, then make it meet softly."
+  },
+  {
+   "id": "b-a-small-toy-car-with-free-ro",
+   "item": "A small toy car with free-rolling wheels",
+   "kind": "material",
+   "why": "Used in Build a Magnetic Toy Train, then make it meet softly. About ₹100 to ₹200. A marble or a round torch cell works.",
+   "url": "https://www.amazon.in/s?k=toy+car+pull+back+small",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before Build a Magnetic Toy Train, then make it meet softly."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

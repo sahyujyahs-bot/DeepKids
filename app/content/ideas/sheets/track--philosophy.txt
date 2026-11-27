@@ -1,0 +1,57 @@
+# DeepKids HomeSchooling Track / Philosophy (copied from Google Sheets, 2026-11-27)
+R2:  | Existence
+R3:  | Waking Life, Dream, Imagination
+R4:  | Perspectives
+R5:  | Reality
+R6:  | Memory
+R7:  | Thought
+R8:  | Subjective Experience
+R9:  | Consciousness
+R10:  | Awareness
+R11:  | Ego
+R12:  | Oneness
+R13:  | Known, Unknown
+R14:  | Knowledge
+R15:  | Good, Bad, Right, Wrong
+R16:  | Truth
+R17:  | Love
+R18:  | Mind and body
+R19:  | Identity and what makes “me”
+R20:  | Time and change
+R21:  | Space and infinity
+R22:  | Cause and effect
+R23:  | Free will and choice
+R24:  | Happiness
+R25:  | what makes life meaningful
+R26:  | The value of nature and animals
+R27:  | Accountibility
+R28:  | The meaning of language and communication
+R29:  | Technology and its impact
+R30:  | Death and what comes after
+R31:  | Future
+R32:  | Karma
+R33:  | Objectivity
+R34:  | Intelligence
+R35:  | Delusion
+R36:  | Time
+R37:  | Change
+R38:  | Past\
+R39:  | Future
+R40:  | Universals & Particulars
+R41:  | Mind & Body Relation
+R42:  | Possibility
+R43:  | Necessity
+R44:  | Rationality
+R45:  | Unprecitabilty
+R46:  | Inference
+R47:  | Duty, Virtue
+R48:  | Honesty
+R49:  | Power
+R50:  | Freedom
+R51:  | Emotion
+R52:  | AI
+R53:  | Meaning
+R54:  | Reference
+R55:  | Language & Thought
+R56:  | Access to Resources
+R57:  | Values, Morals

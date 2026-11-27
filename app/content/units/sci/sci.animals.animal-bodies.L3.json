@@ -880,11 +880,11 @@
       "t": "mcq",
       "q": "The Ganges river dolphin lives in water all their life. Where does the dolphin card go?",
       "options": [
-       "LUNGS",
        "GILLS",
+       "LUNGS",
        "SKIN"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Dolphins breathe air with lungs, through a blowhole. They come up every minute or two. Picking 'gills' usually means thinking that everything living in water breathes water. Living in water is not the same as breathing water."
      },
      "context": "This is the main part of Lungs, Gills or Skin? You take turns sorting animal cards."
@@ -1013,11 +1013,11 @@
      "t": "mcq",
      "p": "A rohu is a river fish who never leaves the water. Does a rohu need oxygen?",
      "opts": [
-      "Yes. Every cell in their body needs oxygen, and their gills take it out of the water",
       "No. Fish live in water, so they do not need oxygen",
-      "Only when they jump out of the water"
+      "Only when they jump out of the water",
+      "Yes. Every cell in their body needs oxygen, and their gills take it out of the water"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Many people think fish do not breathe. But water has oxygen dissolved in it, and a fish's gills take the oxygen out. A rohu's cells use that oxygen to get energy from food, just as yours do."
     },
     {
@@ -1106,11 +1106,11 @@
      "t": "mcq",
      "p": "You count your breaths for one minute sitting still. Then you run up two floors of stairs and count again. What do you expect to find?",
      "opts": [
-      "More breaths after the stairs, because working muscles need more oxygen",
       "Fewer breaths, because you are tired",
+      "More breaths after the stairs, because working muscles need more oxygen",
       "The same number, because lungs always work at one speed"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Climbing stairs makes your leg muscles work hard. Working muscles use more oxygen and make more carbon dioxide, so you breathe faster. A strong answer gives the reason, not just the guess.",
      "how": "e1",
      "context": "In the Breath Count experiment, you counted your breaths for one minute sitting still, then just after jumping."
@@ -1143,11 +1143,11 @@
      "t": "mcq",
      "p": "Why is a fish's gill made of many thin, frilly threads?",
      "opts": [
-      "To give lots of surface for oxygen to pass through",
       "To help them swim faster",
-      "To keep sand out of their eyes"
+      "To keep sand out of their eyes",
+      "To give lots of surface for oxygen to pass through"
      ],
-     "a": 0,
+     "a": 2,
      "why": "More surface lets more oxygen in at once. In the gill shape test, the frilly wet towel dried much faster than the crumpled one, because more of the towel touched the air. Picking 'swim faster' mixes gills up with fins.",
      "how": "a4",
      "context": "In the gill shape test, you hung up a crumpled wet towel and a frilly wet towel to see which dried first."
@@ -1199,11 +1199,11 @@
      "t": "mcq",
      "p": "Your diaphragm is a sheet of muscle under your lungs. What does it do when you breathe in?",
      "opts": [
-      "It pulls down, making space, and air rushes into the lungs",
       "It pushes air up into the nose",
+      "It pulls down, making space, and air rushes into the lungs",
       "It squeezes the heart"
      ],
-     "a": 0,
+     "a": 1,
      "why": "When the diaphragm pulls down, there is more space in the chest, and air flows in to fill it. In Make a Bottle Lung, pulling the bottom balloon down filled the balloon inside in the same way. Picking 'pushes air up' is what happens when you breathe out, not in.",
      "how": "a2",
      "context": "In Make a Bottle Lung, you pulled the stretchy balloon at the bottom of a bottle and watched the balloon inside fill."
@@ -1239,11 +1239,11 @@
      "t": "mcq",
      "p": "Look at the ant chart. Most ants went to the sugar and almost none to the salt. If you put out jaggery instead of salt, what would you expect?",
      "opts": [
-      "Many ants, like on the sugar, because jaggery is mostly sugar too",
       "No ants, because jaggery is brown",
-      "Exactly one ant, like on the salt"
+      "Exactly one ant, like on the salt",
+      "Many ants, like on the sugar, because jaggery is mostly sugar too"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Jaggery is mostly sugar, which is energy food for ants. So it should get many ants, like the sugar. Picking 'brown' would matter only if ants found food by colour, but they find it mostly by smell.",
      "how": "e3",
      "chart": {
@@ -1275,11 +1275,11 @@
      "t": "mcq",
      "p": "A Ganges river dolphin is nearly blind and lives in muddy water. How do they find fish?",
      "opts": [
-      "They send out clicks and listen to the echoes",
       "They see them with big eyes",
+      "They send out clicks and listen to the echoes",
       "They wait for fish to jump into their mouth"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The Ganges river dolphin uses echolocation. They send out clicks, and the echoes tell them where fish are. Their eyes are tiny because seeing doesn't help much in muddy water."
     },
     {
@@ -1390,6 +1390,12 @@
      "lines": 3,
      "a": "Warm water holds less oxygen, and many fish in a small pond use up the oxygen. At the surface the water has a little more oxygen, so the fish gulp there. Bubbling air into the pond or moving the water adds oxygen.",
      "why": "Fish need oxygen dissolved in water. Warm, crowded, still water runs short of it, which is why fish farmers and aquarium pumps bubble in air."
+    },
+    {
+     "t": "draw",
+     "p": "Draw a bottle lung. Label the bottle, the balloon lung and the stretched rubber sheet, which stands for the diaphragm. Write one word for what each part does.",
+     "a": "A simple drawing of a bottle with a balloon inside, and a stretched sheet at the bottom. Each label names one part, and the words say what it does: the chest holds the lung, the lung fills with air, and the diaphragm pulls down.",
+     "why": "A strong drawing is simple, shows the real parts, and has one label for each part. The labels explain the picture."
     }
    ]
   },
@@ -1410,11 +1416,11 @@
      "t": "mcq",
      "p": "Water holds about 30 times less oxygen than air. What would you expect a fish to do in warm, still water with even less oxygen?",
      "opts": [
-      "Move their gill covers faster, or come to the surface",
       "Stop breathing to save oxygen",
-      "Sleep until the water gets better"
+      "Sleep until the water gets better",
+      "Move their gill covers faster, or come to the surface"
      ],
-     "a": 0,
+     "a": 2,
      "why": "With less oxygen in the water, a fish must push more water over their gills, so they pump faster. Some fish come to the surface, where the water has a little more oxygen. Picking 'stop breathing' would be fatal. Every cell needs a steady supply."
     },
     {
@@ -1452,22 +1458,22 @@
      "t": "mcq",
      "p": "Some bats eat moths. Many moths can hear bat sounds. What might a moth do when they hear a bat?",
      "opts": [
-      "Dive, dodge or drop to the ground",
       "Fly straight towards the bat",
+      "Dive, dodge or drop to the ground",
       "Sing back louder"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Many moths dodge or drop when they hear a bat's high sounds. Some even make clicks that confuse bats. Predator and prey keep changing each other over a very long time."
     },
     {
      "t": "mcq",
      "p": "A Cuvier's beaked whale once stayed under water for 222 minutes, nearly 4 hours. Which is the best reason a whale can do this?",
      "opts": [
-      "They store a lot of oxygen in their blood and muscles, and their heart slows down while diving",
       "They have gills hidden behind their flippers",
+      "They store a lot of oxygen in their blood and muscles, and their heart slows down while diving",
       "They breathe through their skin under water"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Whales have lungs and no gills, so they cannot breathe under water. Their blood and muscles hold extra oxygen, and their body uses it slowly while diving. Picking 'gills' is the old idea that whales are fish."
     },
     {
@@ -1534,11 +1540,11 @@
      "t": "mcq",
      "p": "Someone says, 'We breathe in oxygen and we breathe out carbon dioxide, nothing else.' You have done the Limewater Test and read about breath. What should you tell them?",
      "opts": [
-      "Breathed-out air still has a lot of oxygen. It also has much more carbon dioxide than room air",
       "They are completely right",
-      "We breathe out only water"
+      "We breathe out only water",
+      "Breathed-out air still has a lot of oxygen. It also has much more carbon dioxide than room air"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Out of every 100 parts of room air, about 21 are oxygen. Out of every 100 parts of breathed-out air, about 16 are still oxygen. Your body takes only a small part of the oxygen in each breath. Breath also carries about 100 times more carbon dioxide than room air.",
      "how": "e2",
      "context": "In the Limewater Test, you bubbled your breath into one glass of limewater and pushed room air from a squeezed bottle into another glass."
@@ -2243,11 +2249,11 @@
       "t": "mcq",
       "q": "In the bottle lung, you pulled the bottom balloon down and the inside balloon filled. What does the bottom balloon stand for?",
       "options": [
-       "The diaphragm, the muscle under the lungs",
        "The nose",
+       "The diaphragm, the muscle under the lungs",
        "The heart"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The bottom balloon is the diaphragm. In your body, it pulls down to make space, and air rushes into your lungs. Picking 'the nose' usually means thinking we suck air in with our nose. The nose is just the door. The pulling is done by the diaphragm."
      },
      "context": "This is the step where you pull the bottom balloon and watch the model lung fill with air.",
@@ -2273,6 +2279,14 @@
      "parent": "Children love finding what's wrong with a model. It's real science thinking: a model shows one idea, not everything.",
      "think": "A fish has no diaphragm. Think about how water goes in at the mouth and out under the gill covers. How do they move water over their gills?",
      "context": "This is the step where you compare the bottle lung with your own breathing, and find what the model gets wrong."
+    },
+    {
+     "id": "s4",
+     "mins": 4,
+     "context": "In this step, you learn to draw a labelled diagram of the bottle lung you just made.",
+     "do": "Draw the bottle lung simply, as it is. Draw the bottle as the chest, the balloon inside as the lung, and the stretched balloon at the bottom as the diaphragm. Write one label for each part. Under each label, write one word for what it does.",
+     "say": "A labelled diagram shows the real thing in a simple way. Each label names one part. Draw the bottle, the lung and the diaphragm, and say what each one does.",
+     "kid": "Draw the bottle lung. Label the bottle, the lung and the rubber sheet. Write one word for what each does."
     }
    ],
    "problem": "Your lungs cannot move by themselves. A sheet of muscle under them, called the diaphragm, pulls down and makes space, and air rushes in. In this activity you build a model lung from a bottle and two balloons, and watch this happen."
@@ -2643,11 +2657,11 @@
       "t": "mcq",
       "q": "A sea turtle can rest under water for hours, but a Ganges river dolphin must come up every minute or two. Why can a resting turtle stay down so long?",
       "options": [
-       "A resting body uses very little oxygen, so one breath lasts a long time",
        "Turtles have gills as well as lungs",
-       "A turtle's shell stores air like a tank"
+       "A turtle's shell stores air like a tank",
+       "A resting body uses very little oxygen, so one breath lasts a long time"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Sea turtles have lungs and breathe air, like dolphins. A resting turtle's body uses very little oxygen, so one breath lasts for hours. A dolphin that is hunting uses much more oxygen. Picking 'gills' is the mix-up of living in water with breathing water."
      },
      "context": "This is the step where you compare your breath-hold with animals that hold their breath to hunt underwater."
@@ -3080,11 +3094,11 @@
    "t": "mcq",
    "p": "How does a fish get oxygen?",
    "opts": [
-    "Water flows in at their mouth, over their gills, and out under the gill covers",
     "They come to the surface to breathe air, like a dolphin",
+    "Water flows in at their mouth, over their gills, and out under the gill covers",
     "They don't need oxygen"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Fish pump water over their gills, which take oxygen out of the water. Picking 'like a dolphin' mixes up fish and dolphins. Dolphins have lungs and must come up for air.",
    "outcome": 1
   },
@@ -3092,11 +3106,11 @@
    "t": "mcq",
    "p": "Lungs, gills and breathing skin are all…",
    "opts": [
-    "Thin, damp and close to blood",
     "Hard and dry",
+    "Thin, damp and close to blood",
     "Only found in fish"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Oxygen can only pass through a thin, wet wall into blood. Picking 'hard and dry' is the opposite. A dry surface can't let oxygen in, which is why fish die out of water and worms die in the sun.",
    "outcome": 1
   },
@@ -3104,11 +3118,11 @@
    "t": "mcq",
    "p": "An earthworm is left on a hot, dry path in the sun. Why is that dangerous for them?",
    "opts": [
-    "Their skin dries out, and they breathe through their skin",
     "They get sunburned on their gills",
-    "They can't see the way home"
+    "They can't see the way home",
+    "Their skin dries out, and they breathe through their skin"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Earthworms breathe through damp skin. If the skin dries, oxygen can't get through. Picking 'gills' is a mix-up. Earthworms have no gills.",
    "outcome": 1
   },
@@ -3148,11 +3162,11 @@
    "t": "mcq",
    "p": "In the limewater test, breathed-out air made the water milky fast. Room air did not. What does this show?",
    "opts": [
-    "Breathed-out air has more carbon dioxide than room air",
     "Breathed-out air has no oxygen",
-    "Limewater is broken"
+    "Limewater is broken",
+    "Breathed-out air has more carbon dioxide than room air"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Carbon dioxide turns limewater milky. Breathed-out air carries carbon dioxide from your cells. Picking 'no oxygen' is a common mistake. About 16 out of every 100 parts of breathed-out air are still oxygen.",
    "outcome": 3,
    "how": "e2",
@@ -3186,11 +3200,11 @@
    "t": "mcq",
    "p": "A vulture eats animals that have already died. What kind of eater is the vulture?",
    "opts": [
-    "A scavenger",
     "A filter feeder",
+    "A scavenger",
     "A grazer"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A scavenger eats the dead. Vultures keep the land clean and stop disease from spreading. A filter feeder sieves water. A grazer eats plants.",
    "outcome": 5
   },
@@ -3198,11 +3212,11 @@
    "t": "mcq",
    "p": "A spider builds a sticky web and waits. How do they get food?",
    "opts": [
-    "By trapping",
     "By grazing",
+    "By trapping",
     "By filtering water"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A web is a trap. Flying insects get stuck, and the spider eats them. Grazing means eating plants for hours. Filtering means sieving water.",
    "outcome": 5
   },
@@ -3222,11 +3236,11 @@
    "t": "mcq",
    "p": "Where did the oxygen in the air come from?",
    "opts": [
-    "Plants on land and tiny algae in the sea made it",
     "It has always been there since the Earth began",
+    "Plants on land and tiny algae in the sea made it",
     "Volcanoes puff it out"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Living things that make food from sunlight give out oxygen. More than two billion years ago, tiny living things in the sea began filling the air with it. Picking 'always there' is a common idea, but ancient rocks show the early air had almost no oxygen.",
    "outcome": 7
   },
@@ -3234,11 +3248,11 @@
    "t": "mcq",
    "p": "Your lungs bring oxygen in. Which parts of you actually use it?",
    "opts": [
-    "Almost every cell in your body",
     "Only your lungs",
+    "Almost every cell in your body",
     "Only your heart"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The lungs are like a door. The blood carries oxygen to the cells, from your toes to your brain. Each cell uses it to get energy from food. Picking 'only lungs' is the most common mix-up. Taking in oxygen and using it happen in different places.",
    "outcome": 7
   },
@@ -3246,13 +3260,25 @@
    "t": "mcq",
    "p": "Plants take in carbon dioxide to make their food. You breathe carbon dioxide out. What does this mean?",
    "opts": [
-    "Some carbon from the food you ate can end up in a plant's leaf",
     "Plants and people never share anything",
+    "Some carbon from the food you ate can end up in a plant's leaf",
     "Plants make carbon dioxide for us to breathe"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The carbon in your breath came from your food. A plant can take in that carbon dioxide and build it into a new leaf. Picking 'plants make carbon dioxide for us' gets it backwards. Plants give out oxygen in sunlight.",
    "outcome": 7
+  },
+  {
+   "t": "mcq",
+   "p": "What makes a labelled diagram of a lung useful?",
+   "opts": [
+    "It shows the real parts simply, and each label names one part",
+    "It is coloured in with as many colours as possible",
+    "It has no labels, so the picture looks neater"
+   ],
+   "a": 0,
+   "why": "A labelled diagram shows the real parts in a simple way. Each label tells you the name of one part, so the picture explains itself.",
+   "outcome": 1
   }
  ],
  "applications": [
@@ -3608,6 +3634,109 @@
     "c1"
    ],
    "why": "A picture book on how animals use their noses, ears, eyes, mouths, feet and tails, many of them to find food."
+  },
+  {
+   "id": "b-a-magnifying-glass",
+   "item": "A magnifying glass",
+   "kind": "tool",
+   "why": "Used in Ant Detectives: which food do ants find first?. About ₹30 to ₹120. A water drop on clear plastic magnifies a little.",
+   "url": "https://www.amazon.in/s?k=magnifying+glass+kids",
+   "used_in": [
+    "e3"
+   ],
+   "plan": "Get it before Ant Detectives: which food do ants find first?."
+  },
+  {
+   "id": "b-a-small-funnel",
+   "item": "A small funnel",
+   "kind": "tool",
+   "why": "Used in Build a Filter-Feeder's Sieve. About ₹20 to ₹50. The top of a cut plastic bottle works.",
+   "url": "https://www.amazon.in/s?k=small+plastic+funnel",
+   "used_in": [
+    "c2"
+   ],
+   "plan": "Get it before Build a Filter-Feeder's Sieve."
+  },
+  {
+   "id": "b-a-small-hand-mirror",
+   "item": "A small hand mirror",
+   "kind": "material",
+   "why": "Used in Breath on a Steel Tumbler. About ₹20 to ₹80. A shiny steel plate shows reflections too.",
+   "url": "https://www.amazon.in/s?k=small+hand+mirror",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Get it before Breath on a Steel Tumbler."
+  },
+  {
+   "id": "b-modelling-clay-or-plasticine",
+   "item": "Modelling clay or plasticine",
+   "kind": "material",
+   "why": "Used in Design a River-Bottom Hunter. About ₹40 to ₹120. Atta dough mixed with a little salt works.",
+   "url": "https://www.amazon.in/s?k=modelling+clay+plasticine",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before Design a River-Bottom Hunter."
+  },
+  {
+   "id": "b-wooden-ice-cream-sticks--a-p",
+   "item": "Wooden ice-cream sticks (a pack)",
+   "kind": "material",
+   "why": "Used in Mouth Tools Buffet. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in.",
+   "url": "https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack",
+   "used_in": [
+    "a7"
+   ],
+   "plan": "Get it before Mouth Tools Buffet."
+  },
+  {
+   "id": "b-cotton-wool",
+   "item": "Cotton wool",
+   "kind": "material",
+   "why": "Used in Build a Filter-Feeder's Sieve. About ₹20 to ₹50. Torn clean cloth works.",
+   "url": "https://www.amazon.in/s?k=cotton+wool+roll",
+   "used_in": [
+    "c2"
+   ],
+   "plan": "Get it before Build a Filter-Feeder's Sieve."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in Mouth Tools Buffet. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "a7"
+   ],
+   "plan": "Get it before Mouth Tools Buffet."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in Breath on a Steel Tumbler. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Get it before Breath on a Steel Tumbler."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

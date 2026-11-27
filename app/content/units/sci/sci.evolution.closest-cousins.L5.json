@@ -797,11 +797,11 @@
       "t": "mcq",
       "q": "Two chimpanzee groups differ in a habit. What must be true before you call it culture?",
       "options": [
-       "The place could allow the habit in both groups",
        "One group is cleverer than the other",
-       "The habit uses a tool"
+       "The habit uses a tool",
+       "The place could allow the habit in both groups"
       ],
-      "a": 0,
+      "a": 2,
       "why": "If the place makes the habit impossible for one group, the place explains the difference. Culture is what is left when place and genes are ruled out. If you chose 'uses a tool', remember that hand clasping is culture with no tool at all."
      },
      "context": "This is the last step of the game Learned, Place or Genes? Here you sort the cards and see how many differences were learned."
@@ -972,11 +972,11 @@
       "t": "mcq",
       "q": "In the Termite Fishing Test, why do you fish in turn and not five times with one stalk first?",
       "options": [
-       "So no stalk gets all your practice",
        "So the seeds stay dry",
-       "So the game lasts longer"
+       "So the game lasts longer",
+       "So no stalk gets all your practice"
       ],
-      "a": 0,
+      "a": 2,
       "why": "You get better at fishing as you go. If one stalk had all the late dips, it would score higher because of your practice, and not because of its shape. If you chose 'seeds stay dry', notice that every stalk is wet in the same way."
      },
      "context": "In this step of the Termite Fishing Test you fish for seeds five times with each of the three stalks, and count the seeds each time."
@@ -1409,11 +1409,11 @@
       "t": "mcq",
       "q": "Why is finding end letters in the middle of chromosome 2 strong evidence?",
       "options": [
-       "The join idea predicted it before anyone looked",
        "End letters are very rare",
-       "Chromosome 2 is the biggest chromosome"
+       "Chromosome 2 is the biggest chromosome",
+       "The join idea predicted it before anyone looked"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The idea said what should be there. Scientists looked, and it was there. If it had not been, the idea would have been in trouble. If you chose 'the biggest', note that chromosome 1 is bigger."
      },
      "think": "A good guess in science is one that could turn out wrong. Why is that better than a guess that fits anything?",
@@ -1491,11 +1491,11 @@
       "t": "mcq",
       "q": "Ayumu had practised for years and the students had not. What does that mean for the comparison?",
       "options": [
-       "It was not a fully fair test",
        "Chimpanzees are cleverer than people",
+       "It was not a fully fair test",
        "Practice makes no difference"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A fair test changes only one thing. Here two things differed: the species and the amount of practice. If you chose 'cleverer', remember that one task cannot rank whole minds."
      },
      "context": "This is the last step of One Glance. You test a grown-up and hear how the chimpanzee Ayumu did."
@@ -1658,11 +1658,11 @@
       "t": "mcq",
       "q": "What makes a movement a gesture, and not only a movement?",
       "options": [
-       "It is made on purpose to tell another something",
        "It is made with the hands",
-       "It is loud"
+       "It is loud",
+       "It is made on purpose to tell another something"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A gesture is aimed at someone. The gesturer watches for an answer and tries again if none comes. If you chose 'hands', remember that a whole body can gesture, such as turning your back to be groomed."
      },
      "context": "This is the last step of Talking Without Words. You count the messages your family read and compare with real chimpanzee gestures."
@@ -2008,12 +2008,12 @@
      "t": "mcq",
      "p": "A chimpanzee strips a twig before fishing. Why do scientists call this making a tool?",
      "opts": [
-      "The twig was changed to fit a job",
       "The twig is long",
+      "The twig was changed to fit a job",
       "The twig lay near a mound",
       "A chimpanzee held the twig"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Making a tool means changing an object so that it does a job better. Choosing 'held the twig' describes using a thing, which is less than making one."
     },
     {
@@ -2103,12 +2103,12 @@
      "t": "mcq",
      "p": "Lined up letter by letter, about how many DNA letters in 100 differ between you and a chimpanzee?",
      "opts": [
-      "About 1",
       "About 10",
       "About 25",
-      "About 50"
+      "About 50",
+      "About 1"
      ],
-     "a": 0,
+     "a": 3,
      "why": "About 1.2 letters in every 100 differ. Choosing a large number usually comes from how different our bodies look. Small DNA changes can have large effects."
     },
     {
@@ -2154,12 +2154,12 @@
      "t": "mcq",
      "p": "One chimpanzee group cracks no nuts. Their forest has no nut trees. What causes this difference?",
      "opts": [
-      "The place",
       "Culture",
+      "The place",
       "Genes",
       "Chance"
      ],
-     "a": 0,
+     "a": 1,
      "why": "They cannot crack nuts that are not there. Choosing 'culture' skips the first check: could the place explain it?"
     },
     {
@@ -2203,12 +2203,12 @@
      "t": "mcq",
      "p": "In the mirror test, what shows that an ape knows whose reflection it is?",
      "opts": [
-      "Touching the mark on their own face",
       "Touching the mirror",
       "Looking behind the mirror",
-      "Making a threat face"
+      "Making a threat face",
+      "Touching the mark on their own face"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The mark can be seen only in the mirror. Touching it on their own face shows the ape links the reflection to their own body. Looking behind the mirror suggests the ape expects another animal there."
     },
     {
@@ -2283,12 +2283,12 @@
      "t": "mcq",
      "p": "Why does a group of great apes recover slowly after losing some adults?",
      "opts": [
-      "Mothers have one baby every several years",
       "Apes cannot find food",
+      "Mothers have one baby every several years",
       "Apes do not live in groups",
       "Babies are born only in winter"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A chimpanzee mother has a baby about every five years, and an orangutan about every seven or eight. Few young are born, so numbers rise slowly."
     },
     {
@@ -2317,12 +2317,12 @@
      "t": "mcq",
      "p": "A scientist writes 'not seen in other apes so far'. What does she mean?",
      "opts": [
-      "Nobody has observed it yet",
       "Apes can never do it",
+      "Nobody has observed it yet",
       "Apes were tested and failed",
       "Apes do it only in secret"
      ],
-     "a": 0,
+     "a": 1,
      "why": "It reports what has been found up to now. Choosing 'can never' turns a gap in the evidence into a fact about apes."
     },
     {
@@ -2361,12 +2361,12 @@
      "t": "mcq",
      "p": "Young chimpanzees left out a step when they could see it did nothing. What does that show?",
      "opts": [
-      "They understood what the step did",
       "They could not copy",
       "They were not watching",
+      "They understood what the step did",
       "They disliked the reward"
      ],
-     "a": 0,
+     "a": 2,
      "why": "With a box they could not see into, the chimpanzees did copy the step. With a clear box they skipped it. So they could copy, and chose not to."
     },
     {
@@ -2462,12 +2462,12 @@
      "t": "mcq",
      "p": "Which is the best kind of guess in science?",
      "opts": [
-      "One that evidence could show wrong",
       "One that fits whatever is found",
       "One that most people like",
-      "One that uses long words"
+      "One that uses long words",
+      "One that evidence could show wrong"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The joined chromosome idea said what marks should be there. If they had been missing, the idea would have failed. A guess that fits anything tells us nothing."
     },
     {
@@ -2485,12 +2485,12 @@
    "t": "mcq",
    "p": "Which two apes are humans' closest living relatives?",
    "opts": [
-    "Chimpanzees and bonobos",
     "Gorillas and orangutans",
     "Gibbons and gorillas",
+    "Chimpanzees and bonobos",
     "Macaques and langurs"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Our line and the line of chimpanzees and bonobos split most recently. Macaques and langurs are monkeys.",
    "outcome": 0
   },
@@ -2498,12 +2498,12 @@
    "t": "mcq",
    "p": "What is a common ancestor?",
    "opts": [
-    "A being from whom two kinds both descend",
     "The oldest animal alive today",
     "A chimpanzee who became human",
+    "A being from whom two kinds both descend",
     "The strongest member of a group"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Two kinds of living beings today can both descend from one group long ago. No chimpanzee became human.",
    "outcome": 0
   },
@@ -2511,12 +2511,12 @@
    "t": "mcq",
    "p": "What does the join in human chromosome 2 explain?",
    "opts": [
-    "Why humans have 46 chromosomes and other great apes 48",
     "Why humans walk upright",
+    "Why humans have 46 chromosomes and other great apes 48",
     "Why chimpanzees have more hair",
     "Why DNA has four letters"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Two ancestral chromosomes joined end to end on the human line. The same DNA is packed into one pair fewer.",
    "outcome": 1
   },
@@ -2558,12 +2558,12 @@
    "t": "mcq",
    "p": "Two groups differ in a habit. Which finding points most strongly to culture?",
    "opts": [
-    "The habit spreads only to those who watch it",
     "One group is bigger",
+    "The habit spreads only to those who watch it",
     "One forest is wetter",
     "The groups look different"
    ],
-   "a": 0,
+   "a": 1,
    "why": "If only watchers pick the habit up, the habit is learned from others. A wetter forest would point to the place.",
    "outcome": 3
   },
@@ -2571,12 +2571,12 @@
    "t": "mcq",
    "p": "Which of these is a tradition?",
    "opts": [
-    "Cracking nuts the way your group does",
     "Having brown eyes",
+    "Cracking nuts the way your group does",
     "Growing taller each year",
     "Feeling hungry"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A tradition is learned from others in the group. Eye colour is inherited, and growing and hunger happen without learning.",
    "outcome": 3
   },
@@ -2604,12 +2604,12 @@
    "t": "mcq",
    "p": "Why did Jane Goodall see what earlier visitors had missed?",
    "opts": [
-    "She watched the same chimpanzees for years",
     "She had a better camera",
     "She tested them in a laboratory",
+    "She watched the same chimpanzees for years",
     "She taught them signs"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Wild chimpanzees hide from strangers. Only after months did they let her near enough to see tool making, and only years showed whole lives.",
    "outcome": 5
   },
@@ -2617,12 +2617,12 @@
    "t": "mcq",
    "p": "Which of these has not been seen in any wild ape other than humans?",
    "opts": [
-    "Cooking food",
     "Making a tool",
     "Comforting a friend",
+    "Cooking food",
     "Learning by watching"
    ],
-   "a": 0,
+   "a": 2,
    "why": "No wild ape makes fire or cooks. The other three have been seen many times in chimpanzees.",
    "outcome": 6
   }
@@ -2928,6 +2928,33 @@
     "p1"
    ],
    "plan": "A confident reader can read it alone over the three days of A Tradition Map, and tell you how each scientist got the apes to accept her."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Hundred Square: what does 'almost 99 per cent the same' mean?, A Tradition Map: is it learned, the place or genes?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "a2",
+    "p1"
+   ],
+   "plan": "Get it before The Hundred Square: what does 'almost 99 per cent the same' mean?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

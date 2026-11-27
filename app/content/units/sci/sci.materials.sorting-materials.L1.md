@@ -1,7 +1,7 @@
 # Sorting materials: putting things into groups by asking a question
 `sci.materials.sorting-materials.L1`
 
-**Summary.** A steel spoon sinks in water, but a steel katori floats. Both are steel, so why? In this unit you will sort kitchen things by asking yes-or-no questions, then test the metal ones in water, and play a sorting relay.
+**Summary.** A steel spoon sinks in water, but a steel katori floats. Both are steel, so why? In this lesson you will sort kitchen things by asking yes-or-no questions, then test the metal ones in water, and play a sorting relay.
 
 **Intro.** *Here are six things: a steel spoon, a pencil, a comb, a key, a bottle cap and a wooden spoon. Can you put them into two groups? What question did you ask to make your groups?* People sort things every day. A grandmother in Kochi puts the steel vessels on one shelf and the glass jars on another. In Mumbai, the dabbawalas sort thousands of tiffin boxes by the marks on the lids. To sort, you ask one question about each thing, like 'Is it metal?' If the answer is yes, the thing goes in one group. If the answer is no, it goes in the other group.
 
@@ -14,6 +14,7 @@
 
 ## Terms
 - **Material**: A material is what a thing is made of. Wood, metal, plastic, glass, paper and cloth are materials. *e.g.* A spoon can be made of the material steel, or wood, or plastic.
+- **Key**: A list of yes or no questions that you answer one after another, to find out what a thing is. *e.g.* A key can help you name a leaf or a rock, one question at a time.
 - **Sort**: To sort is to put things that are alike together, and things that are different apart. *e.g.* After washing up, a grandmother sorts the spoons into one tumbler and the forks into another.
 - **Group**: A group is a set of things that are alike in one way. *e.g.* A key, a coin and a steel spoon make a group of metal things.
 - **Test**: A test is something you do to find out an answer, instead of only guessing. *e.g.* Tap a tumbler with a spoon. If it rings with a 'ting', it is probably metal.
@@ -28,6 +29,8 @@ When you sort, you look at each thing and decide which group it belongs in. You 
 - e.g. Socks go in one drawer and shirts in another, so you can find them fast.
 - e.g. A kabadiwala keeps newspaper, bottles and tins in separate heaps, because each one is sold to a different buyer.
 - e.g. A bangle seller in Hyderabad sorts bangles by colour, so each customer can find the colour she wants.
+- **Dmitri Mendeleev:** In 1869 he sorted the chemical elements by their weight and behaviour, which led to the periodic table. A good sorting showed new things to find.
+- **Indian philosophers:** The Vaisheshika and Samkhya schools sorted matter into the five great elements: earth, water, fire, air and space. Another way to sort, based on how things feel and act.
 ### A question makes the groups · *defined*
 **Definition:** To sort, you ask the same question about every thing. If the answer is yes, the thing goes in one group. If the answer is no, it goes in the other group.
 
@@ -35,6 +38,15 @@ The question 'Is it metal?' makes two groups: metal things and things that are n
 - e.g. 'Is it metal?' puts a key and a coin together, and a pencil and a comb in the other group.
 - e.g. 'Is it made of plastic?' puts a comb and a bottle cap together.
 - e.g. 'Is it red?' is a sorting question too, but it tells you nothing about the material.
+- **Scientists:** Use yes or no questions in a key to name a plant or rock, one step at a time.
+- **Slime and putty:** Do not fit the questions well. A mix of cornflour and water acts like a solid when squeezed and a liquid when poured, and so it sits in two groups.
+### A key: yes or no questions, one after another · *defined*
+**Definition:** A key is a set of yes or no questions. Each answer sends you to the next question, until you reach the name of one thing.
+
+A key works like a path. The first question splits the heap in two. You then take one group and ask a second question about only that group. Each answer tells you which question to ask next. A key can help you name a leaf or a rock, one step at a time.
+- e.g. Step 1: Is it metal? Yes goes to step 2. No goes to the group of cloth, paper and wood.
+- e.g. Step 2: Does it sink in water? Yes means the steel spoon. No means the steel katori.
+- e.g. Each answer is only yes or no, so you always know which step comes next.
 ### A test settles a tricky thing · *defined*
 **Definition:** When you are not sure which group a thing belongs in, you can do a test to find out.
 
@@ -42,6 +54,8 @@ Looking is not always enough. A clear bottle might be glass or plastic. So you t
 - e.g. Tap a clear bottle with a spoon. Glass goes ting, and plastic goes tock.
 - e.g. A steel spoon feels cold in your hand. A plastic spoon of the same size feels warmer.
 - e.g. A steel tiffin is heavier than a plastic tiffin of the same size.
+- **Scientists:** Use tests to decide which group a tricky thing belongs to.
+- **The Jain tradition of Anekantavada:** Teaches that a thing has many sides, and a statement may be true from one standpoint and not another. A thing can be rightly in two groups, depending on the question you ask.
 ### Why the steel katori floats and the steel spoon sinks · *defined*
 **Definition:** Water pushes up on everything you put in it. A thing floats when that push is strong enough to hold it up.
 
@@ -49,6 +63,8 @@ A steel spoon is small and solid, so the water cannot hold it up and it sinks. A
 - e.g. A one-rupee coin sinks, but a big wooden log floats. So heavy things do not always sink.
 - e.g. A steel ship at the port in Kochi weighs more than many elephants together, yet it floats.
 - e.g. A rubber ball floats on water, but a pebble of the same size sinks.
+- **Archimedes:** Said that the water pushes up with a force equal to the weight of water that the thing pushes aside. A bowl pushes aside a lot of water, so it floats.
+- **Surface tension researchers:** Point out that a small steel needle can float even though steel is denser than water. The skin of the water holds it up, a different reason.
 
 ## Mostly agreed
 - Things can be sorted into groups by what they are made of. *How we know:* Every thing around us is made of one or more materials that can be named, so each thing can be put in a material group.
@@ -265,7 +281,7 @@ She smiled and fell asleep.
   - Check: The steel spoon sank, but the steel katori floated. Why? → **The katori's shape held air inside it**
 
 ## Activities
-### a1 · The Yes-or-No Sort: is it metal? (12 min)
+### a1 · The Yes-or-No Sort: is it metal? (14 min)
 - **safety:** Only the grown-up holds the knife, and only by the handle.
 - **record:** Write the question at the top of a paper. Draw or write the things in the yes circle and the no circle, or take a photo of your circles.
 - **s1 (2 min)**  
@@ -290,6 +306,10 @@ She smiled and fell asleep.
   *Child mode:* Make up a new question. Sort all the things again.
   - Ask: What new groups did your question make? (good: Soft things: the hanky and the paper bag.; Plastic things: the comb and the cap.)
   - Check: You ask 'Is it metal?' about a coin, a pencil and a key. Which one goes in the no circle? → **The pencil**
+- **s5 (2 min)**  
+  *Parent does:* 1. Write 'Is it metal?' on one card. 2. Under yes, write 'Does it sink in water?'. 3. Under no, write 'Is it cloth or paper?'. 4. Walk the ten things through the cards to a name.  
+  *Parent says:* Each answer tells us which card to read next. Where does the steel spoon end up?  
+  *Child mode:* Read the card. Yes or no? Then go to the next card.
 ### a2 · Odd One Out Trays (10 min)
 - **record:** Take a photo of your best odd-one-out plate, or draw it. Put a ring around the odd one if you draw it.
 - **s1 (4 min)**  
@@ -387,10 +407,10 @@ She smiled and fell asleep.
    Options: A bottle cap / A comb / A steel spoon / A bucket  
    **Answer:** 2. *Why:* A bottle cap, a comb and a bucket are usually plastic. A steel spoon is metal. It is shiny and cold, and it rings when tapped.
 4. (mcq) A key, a coin and a spoon are put together in one group. What question was asked?  
-   Options: Is it metal? / Is it soft? / Is it see-through?  
+   Options: Is it soft? / Is it metal? / Is it see-through?  
    **Answer:** Is it metal?. *Why:* A key, a coin and a spoon are all metal. None of them is soft or see-through.
 5. (mcq) Which of these is a good question for sorting a heap of things into two groups?  
-   Options: Is it made of wood? / Is it nice? / Is it a good day?  
+   Options: Is it nice? / Is it a good day? / Is it made of wood?  
    **Answer:** Is it made of wood?. *Why:* A good sorting question has a clear answer, yes or no, for every thing. 'Is it nice?' is different for each person.
 6. (truefalse) All metal things sink in water.  
    **Answer:** False. *Why:* False. In the Sink or Float Sort, the steel katori floated. Big steel ships float too, because their shape holds air.
@@ -402,27 +422,29 @@ She smiled and fell asleep.
    **Answer:** A strong answer picks a side with a reason. For the second child: the knife really is made of two materials. For the first child: the blade is the part that does the cutting, so it is fair to group it with metal things.. *Why:* Both are partly right. A thing made of two materials can go in two groups. Which group you choose depends on why you are sorting.
 10. (draw) Draw something at home that is made of two materials. Colour each material a different colour.  
    **Answer:** For example, a pressure cooker with a metal pot and a black plastic handle, in two colours.. *Why:* A strong drawing shows two clear parts, each a different material, and the child can name both.
-### Sorting Materials (stretch) (stretch, 10 questions)
+### Sorting Materials (stretch) (stretch, 11 questions)
 1. (mcq) You have a clear bottle. You do not know if it is glass or plastic. What is a good test?  
-   Options: Tap it with a spoon and listen / Look at its colour / Count how many you have  
+   Options: Look at its colour / Count how many you have / Tap it with a spoon and listen  
    **Answer:** Tap it with a spoon and listen. *Why:* Glass goes ting and plastic goes tock. Lifting it helps too: glass is heavier. The colour does not tell you.
 2. (sort) Sort these by the question 'Will it float in water?'  
    **Answer:** A pencil → Floated; A coin → Sank; A wooden spoon → Floated; A key → Sank; A steel katori, right way up → Floated; A steel spoon → Sank. *Why:* Wood floated. The solid metal things sank. The katori floated because its shape held air.
-3. (write) Some people say, 'Heavy things sink and light things float.' A big wooden log is very heavy. What does it do in a river? What would you tell them? Say it, and a grown-up writes it down.  
+3. (write) Make a key with two questions that tells apart a steel spoon, a steel katori and a pencil. Write the first question. Then write what the yes answer and the no answer lead to.  
+   **Answer:** A good key starts with 'Is it metal?'. Yes leads to 'Does it sink in water?', which tells the spoon from the katori. No leads to the pencil, which is wood.. *Why:* A key works step by step. Metal leads to the sink test, and the sink test tells the spoon from the katori. The pencil is wood, so it goes down the no path.
+4. (write) Some people say, 'Heavy things sink and light things float.' A big wooden log is very heavy. What does it do in a river? What would you tell them? Say it, and a grown-up writes it down.  
    **Answer:** The log floats. So heavy things do not always sink. A small key is light, and it sinks. What a thing is made of, and its shape, matter more than how heavy it is.. *Why:* A strong answer uses an example that does not fit the rule, like a heavy log that floats or a light key that sinks.
-4. (count) In the Sink or Float Sort, the metal group had a spoon, a coin, a key and a katori. Only the katori floated. How many metal things sank?  
+5. (count) In the Sink or Float Sort, the metal group had a spoon, a coin, a key and a katori. Only the katori floated. How many metal things sank?  
    **Answer:** 3. *Why:* 4 metal things, and 1 floated. 4 take away 1 is 3. The spoon, the coin and the key sank.
-5. (label) Here is a pencil. Say what each part is made of, and a grown-up writes the word.  
+6. (label) Here is a pencil. Say what each part is made of, and a grown-up writes the word.  
    **Answer:** ['wood', 'graphite', 'rubber', 'metal']. *Why:* A pencil is wood outside with a grey graphite stick inside. Many pencils have a rubber at the end, held on by a thin metal band. So a pencil belongs to several material groups.
-6. (perspective) Two cousins are sorting the steel katori after the Sink or Float Sort.  
+7. (perspective) Two cousins are sorting the steel katori after the Sink or Float Sort.  
    **Answer:** A strong answer says both are right, because they asked different questions. The first child asked 'What is it made of?' The second child asked 'Does it float?' The katori is metal and it floats, right way up.. *Why:* The same thing can be in different groups when you ask different questions. The groups come from the question.
-7. (draw) Draw a new thing made of steel that you think would float. Show the air inside it.  
+8. (draw) Draw a new thing made of steel that you think would float. Show the air inside it.  
    **Answer:** For example, a steel tiffin box with its lid shut, a steel plate, or a steel boat, with the air coloured in.. *Why:* A strong drawing shows a hollow or wide steel shape that holds air, like the katori.
-8. (write) One child sorted some toys into 'red' and 'not red'. Another child sorted the same toys into 'plastic' and 'not plastic'. Can both ways be right? Say why. A grown-up can write your answer.  
+9. (write) One child sorted some toys into 'red' and 'not red'. Another child sorted the same toys into 'plastic' and 'not plastic'. Can both ways be right? Say why. A grown-up can write your answer.  
    **Answer:** Yes. Each question makes its own groups. One child sorted by colour and the other sorted by material. Both are good ways to sort.. *Why:* A strong answer says that the same heap can be sorted in many ways, and each question gives different groups.
-9. (truefalse) All plastic things float in water.  
+10. (truefalse) All plastic things float in water.  
    **Answer:** False. *Why:* False. A bottle cap floats, but many plastic combs sink. There are many kinds of plastic, and they do not all do the same thing.
-10. (sort) Sort these by the question 'Can you see through it?'  
+11. (sort) Sort these by the question 'Can you see through it?'  
    **Answer:** A glass window → Yes; A wooden rolling pin → No; A clear plastic bottle → Yes; A steel tumbler → No; A glass jar → Yes; A paper bag → No. *Why:* Glass and clear plastic let light through, so you can see through them. Wood, steel and paper do not.
 
 ## Videos
@@ -456,11 +478,14 @@ She smiled and fell asleep.
    Options: Their shape holds a lot of air inside / Steel always floats / The sea is too deep for them to sink  
    **Answer:** Their shape holds a lot of air inside. *Why:* A ship is a huge hollow shape, like a giant katori. The air inside helps the water hold it up.
 9. (mcq) Before testing, you guess that the pencil will float. What should you do next?  
-   Options: Test it in the water and see / Change your guess without testing / Say you were right without testing  
+   Options: Change your guess without testing / Say you were right without testing / Test it in the water and see  
    **Answer:** Test it in the water and see. *Why:* A guess is where science starts. Then you test it, and the test shows if the guess was right.
 10. (mcq) You guessed that all the metal things would sink. The katori floated. What does that tell you?  
    Options: Your guess was wrong for the katori, so you learned something new / The test went wrong / The katori is not really metal  
    **Answer:** Your guess was wrong for the katori, so you learned something new. *Why:* The katori is metal, and it floated. When a test does not match a guess, you learn something new.
+11. (mcq) In a key of yes or no questions, what does each answer tell you?  
+   Options: What colour the thing is / How heavy the thing is / Which question to ask next  
+   **Answer:** Which question to ask next. *Why:* Each yes or no answer sends you to the next question, until you reach one thing. The colour and the weight do not set the path in a key.
 
 ## Applications
 - Kabadiwalas and recycling workers sort paper, plastic, glass and metal, so each can be made into new things.
@@ -471,10 +496,10 @@ She smiled and fell asleep.
 
 ## Spotted around us
 - A vessel shop in Thrissur, with steel tumblers, brass lamps and aluminium pots each on their own shelf.
-- Dabbawalas in Mumbai sorting hundreds of tiffin boxes by the coloured marks painted on their lids.
-- Bangle shops in Laad Bazaar, Hyderabad, with bangles sorted into shining rows by colour and size.
-- Steel ferry boats crossing the water in Kochi, full of people, floating like big katoris.
-- A kabadiwala in Kolkata with neat piles of newspaper, plastic bottles and metal tins on a hand cart.
+- Dabbawalas sorting hundreds of tiffin boxes by the coloured marks painted on their lids.
+- A bangle shop, with bangles sorted into shining rows by colour and size.
+- Steel ferry boats crossing the water, full of people, floating like big katoris.
+- A kabadiwala with neat piles of newspaper, plastic bottles and metal tins on a hand cart.
 
 ## Open questions
 - **How do babies begin to sort the world into groups before they can talk?** Scientists have found that babies only a few months old notice groups, such as pictures of cats and pictures of dogs. Nobody knows exactly how they do it.
@@ -510,9 +535,12 @@ What Is It Made Of? (sci.materials.L1): Topic-level song for Materials L1
 ## Links
 - [PhET: Density, a free simulation from the University of Colorado](https://phet.colorado.edu/en/simulations/density) · simulation: For the parent: drop blocks of wood, ice and other materials into water and see which float. It helps you explain the Sink or Float Sort.
 - [StoryWeaver, free picture books from Pratham Books](https://storyweaver.org.in/) · interactive: For the parent: free picture books in many Indian languages to read aloud. Search for books about boats, floating or recycling.
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: Hands-on science halls where children can see and touch many materials, and how machines are built from them.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru: Hands-on science halls where children can see and touch many materials, and how machines are built from them.
 
 ## Things to buy
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Recycling Corner: sort what we throw away. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in a3. Get it before The Recycling Corner: sort what we throw away.
+- [Wooden ice-cream sticks (a pack)](https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack) (material): Used in The Sink or Float Sort: does the metal group stay together?, A Raft for a Small Toy. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in. Used in e1, c1. Get it before The Sink or Float Sort: does the metal group stay together?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What question would put a key and a coin in the same group? → Is it metal?
@@ -529,7 +557,7 @@ What Is It Made Of? (sci.materials.L1): Topic-level song for Materials L1
 
 ## Sources
 - ideas/by_topic/materials-and-their-properties.md: the notebook's 'dance' and 'physical games' ideas (moving like a material, guessing a material) shaped Move Like Your Material and the Sorting Relay. Its sound, light and heat activities belong to other units.
-- The Class 3 unit on this subtopic uses one heap sorted by three rules, a scratch ladder, branching keys, sorting by sound, the Floor Venn, dal cleaning, a model recycling line, star sorting and oobleck. So this unit uses a yes-or-no sort, odd one out plates, a home recycling corner and a sink or float sort instead, and leaves Venn diagrams and keys for Class 3.
+- The Class 3 unit on this subtopic uses one heap sorted by three rules, a scratch ladder, branching keys, sorting by sound, the Floor Venn, dal cleaning, a model recycling line, star sorting and oobleck. So this lesson uses a yes-or-no sort, odd one out plates, a home recycling corner and a sink or float sort instead, and leaves Venn diagrams and keys for Class 3.
 - Cambridge Primary Science Stage 1, Unit 4.3 'Sorting materials': sorting with a question such as 'Is it metal?', sorting by feel, inventing tests, and recycling.
 - Archimedes, On Floating Bodies (3rd century BCE): a body in water is pushed up by a force equal to the weight of the water it pushes aside.
 - A. L. Lavoisier, Traité élémentaire de chimie (1789), with 13 plates drawn by Marie-Anne Paulze Lavoisier. Its table of simple substances lists 33, including light and caloric.

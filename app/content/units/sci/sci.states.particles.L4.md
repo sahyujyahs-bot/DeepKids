@@ -1,9 +1,9 @@
 # Particles: one picture that explains why solids hold, liquids pour and gases squash
 `sci.states.particles.L4`
 
-**Summary.** Press a syringe full of air and it squashes to less than half. Press one full of water and it will not move. Why? In this unit you will thin one drop of colour through a row of cups, squeeze air and water, and build a picture of particles.
+**Summary.** Press a syringe full of air and it squashes to less than half. Press one full of water and it will not move. Why? In this lesson you will thin one drop of colour through a row of cups, squeeze air and water, and build a picture of particles.
 
-**Intro.** *Put one drop of red colour into a cup of water, and the whole cup turns pink. Now take a spoonful of that pink water and mix it into a fresh cup. Do it again, and again. How many cups can one single drop colour before the pink is gone?* The answer is surprising, and it tells us something big. A drop is made of far more tiny pieces than anyone can count, and those pieces spread into every cup. In this unit you test how far one drop goes, and you squeeze air and water in a syringe. You find out why air squashes and water does not, and why a steel spoon holds its shape while the steam in a cooker pushes on the lid. One picture explains all of it: everything is made of particles, and what a solid, a liquid and a gas do depends on how close the particles are and how they move.
+**Intro.** *Put one drop of red colour into a cup of water, and the whole cup turns pink. Now take a spoonful of that pink water and mix it into a fresh cup. Do it again, and again. How many cups can one single drop colour before the pink is gone?* The answer is surprising, and it tells us something big. A drop is made of far more tiny pieces than anyone can count, and those pieces spread into every cup. In this lesson you test how far one drop goes, and you squeeze air and water in a syringe. You find out why air squashes and water does not, and why a steel spoon holds its shape while the steam in a cooker pushes on the lid. One picture explains all of it: everything is made of particles, and what a solid, a liquid and a gas do depends on how close the particles are and how they move.
 
 ## Learning outcomes
 0. I can say the difference between a material, a substance and a mixture, and give an example of each.
@@ -42,6 +42,8 @@ Steel is a material. Salt is a substance, because every salt particle is the sam
 - e.g. Sea water is a mixture of water and salt. You can get the salt back by letting the water dry in the sun.
 - e.g. Brass is a mixture of copper and zinc, melted together.
 - e.g. Distilled water, which is used in car batteries, is very nearly a pure substance.
+- **Robert Boyle:** In 1661, in The Sceptical Chymist, he said an element is a simple substance that cannot be split by chemistry. It began modern chemistry.
+- **The Vaisheshika school:** In India taught about 2,000 years ago that matter has four kinds of atoms, of earth, water, fire and air, which join in pairs and threes. A different map of what stuff is.
 ### Solids: particles packed close and held in place · *defined*
 **Definition:** In a solid, the particles touch their neighbours and are held in place by pulls between them. They jiggle on the spot, but they do not move around.
 
@@ -49,6 +51,8 @@ The pulls between particles are strong in a solid. Each particle is held by its 
 - e.g. A steel katori keeps its shape when you carry it from the shelf to the table.
 - e.g. An ice cube keeps its shape until it warms up.
 - e.g. Rock salt grains have flat faces because their particles are stacked in neat rows.
+- **Everyday view:** Solid things look still, and are thought of as still, when we hold them in our hands.
+- **Physicists:** Find that even at the coldest possible temperature particles never stop. They keep a small motion called zero-point motion. A solid is a jiggling crowd, held in place by the pulls between its particles.
 ### Liquids: particles close together but sliding · *defined*
 **Definition:** In a liquid, the particles touch their neighbours but are not held in place. They slide past each other all the time.
 
@@ -56,6 +60,8 @@ The particles in a liquid are about as close as in a solid, but the pulls betwee
 - e.g. Water poured from a bottle into a tumbler takes the shape of the tumbler.
 - e.g. A cup of milk is still a cup of milk if you pour it into a wide plate.
 - e.g. Honey slides slowly because its particles stick to each other more.
+- **Johannes van der Waals:** In 1873 he showed that liquids and gases are two ends of one range, with no sharp wall, and above a certain warmth and pressure there is no difference at all.
+- **Chemists:** Describe a liquid as a crowd where each particle is held by neighbours that change all the time. It has no neat pattern and so is harder to explain than a solid or a gas.
 ### Gases: particles far apart and flying · *defined*
 **Definition:** In a gas, the particles are very far apart compared with their size. They fly about in straight lines until they hit something.
 
@@ -63,6 +69,8 @@ Gas particles hardly pull on each other at all. Each one flies in a straight lin
 - e.g. The steam from a kettle spreads out until you cannot see it.
 - e.g. The smell of tadka spreads from the kitchen to the bedroom.
 - e.g. A balloon is round because gas particles push on its skin from the inside, in all directions.
+- **Daniel Bernoulli:** In 1738 he said that gas is a swarm of tiny particles hitting the walls. Almost no one took notice for a hundred years.
+- **Ludwig Boltzmann:** Used the picture in the 1800s and was attacked by scientists such as Ernst Mach and Wilhelm Ostwald, who doubted that atoms were real. Evidence in 1908 proved him right.
 ### Empty space between particles · *defined*
 **Definition:** Between the particles of every substance there is empty space. In a gas there is a lot of it. In a liquid or a solid there is much less.
 
@@ -70,6 +78,9 @@ When you squeeze air in a syringe, it squashes to half, because the particles mo
 - e.g. Salt dissolved in a full glass of water hardly changes the level, because the salt particles fit between the water particles.
 - e.g. A balloon full of air can be squeezed smaller, but a balloon full of water cannot.
 - e.g. Bicycle tyres can be pumped up, because more and more air particles can be pushed into the same space.
+- **Aristotle:** Said nature does not allow empty space, so there is always something in between.
+- **Democritus and Kanada:** Said everything is atoms and empty space.
+- **Torricelli (1643):** Made a space above mercury in a tube that held no air, and showed empty space can exist.
 ### One substance, three states · *defined*
 **Definition:** A solid, a liquid and a gas can be made of exactly the same particles. Ice, water and steam are all water. What changes is how fast the particles move and how strongly they hold each other.
 
@@ -77,6 +88,8 @@ Heat a solid, and its particles shake harder. When the solid is warm enough, the
 - e.g. A candle's wax melts and runs, and it is still wax when it sets.
 - e.g. Steam on a cold plate turns back to water drops.
 - e.g. Ghee melts in a pan and sets again as it cools.
+- **School books:** Matter has three states: solid, liquid and gas.
+- **Physicists:** Count more. Plasma, a hot gas of charged particles, makes up the Sun and lightning. Others are Bose-Einstein condensates and liquid crystals.
 ### Gas pressure: the push of particles on walls · *defined*
 **Definition:** Gas pressure is the push of a gas on a surface. It is made by countless particles hitting the surface and bouncing off.
 
@@ -84,6 +97,8 @@ One particle hitting a wall makes a push far too small to feel. But in a footbal
 - e.g. A bicycle tyre is hard because the air inside pushes outwards at about three times the push of the outside air.
 - e.g. A balloon left in a hot car can burst, because the hot air inside pushes harder.
 - e.g. A cooker's whistle lifts when the steam inside pushes up on the weight.
+- **Aristotle:** Taught that nature will not allow empty space, so air fills every place.
+- **Evangelista Torricelli:** In 1643 filled a tube with mercury and turned it over. The mercury fell, leaving a gap at the top, and he said that we live at the bottom of a sea of air that weighs on us.
 ### Why smells take minutes, not seconds · *defined*
 **Definition:** Gas particles fly very fast, but they bump into other air particles billions of times every second. So a smell wanders slowly across a room, spreading by diffusion.
 
@@ -91,6 +106,8 @@ A smell particle leaving an agarbatti is moving at hundreds of metres a second. 
 - e.g. A smell reaches the next room mostly because air currents carry it.
 - e.g. Colour in unstirred water takes hours to spread through a glass.
 - e.g. Warm air spreads smells faster, because its particles move faster.
+- **Physicists:** Say a smell moves by particles bumping their way slowly across a room, along with air currents.
+- **Silk moth researchers:** Found that a male silk moth can sense a few molecules of a scent chemical from a female, called bombykol, and follows it from far away. Moths read the air better than a nose.
 ### How many particles are in a drop? · *defined*
 **Definition:** A drop of water holds more than a thousand million million million water particles. That is a 1 followed by 21 zeros. A drop of food colour holds a huge number of colour particles too.
 
@@ -98,6 +115,8 @@ A water particle, one molecule, is about three ten-millionths of a millimetre ac
 - e.g. Even the faintest pink cup still holds millions of colour particles in each teaspoon.
 - e.g. A teaspoon of sea water holds many millions of millions of salt particles.
 - e.g. By some estimates, a single breath holds more air particles than there are grains of sand in all the beaches on Earth.
+- **Amedeo Avogadro and Josef Loschmidt:** In 1811 Avogadro said equal volumes of gas hold equal numbers of molecules. In 1865 Loschmidt gave the first estimate of how big a molecule is.
+- **Jean Perrin:** In 1908 he counted particles by many different methods and got the same number each time, which finally convinced doubters that atoms and molecules exist.
 ### Inside a particle: atoms are mostly empty space · *defined*
 **Definition:** Every particle is made of one or more atoms, and an atom is mostly empty space. The middle of the atom, the nucleus, is about a hundred thousand times smaller than the whole atom.
 
@@ -105,6 +124,8 @@ If an atom were the size of a big cricket ground, the nucleus in the middle woul
 - e.g. A water molecule has three atoms: two of hydrogen and one of oxygen.
 - e.g. A sugar molecule has 45 atoms.
 - e.g. A hammer feels hard because the atoms in it push strongly on each other.
+- **Ernest Rutherford (1911):** Found that an atom is mostly empty space, with a tiny hard centre.
+- **Quantum physics:** Says the space is not empty. The electrons are spread out as a cloud of probability, and fields fill all the space.
 ### Grains and powders: a solid that flows · *defined*
 **Definition:** A heap of rice or sand can pour like a liquid, but each grain is a solid. The particles of a substance are far smaller than the grains.
 
@@ -112,11 +133,15 @@ When you pour rice, the heap flows and takes the shape of the bowl. This makes i
 - e.g. Sand runs through an hourglass like a liquid.
 - e.g. Atta pours from a tin but a lump of atta dough does not.
 - e.g. A sack of cement powder spills across the floor, but each tiny grain is a solid.
+- **Many teachers:** Treat sand as a solid made of solid grains that happens to pour.
+- **Physicists who study grains:** Say sand behaves in ways that solids, liquids and gases do not, and some call it a state of matter of its own. This is still debated.
 ### A model: useful, and always a little wrong · *idea*
 The particle model is a picture that explains a lot: why things have states, why gases squash, why smells spread. But no model is exactly right. We draw particles as tiny balls, yet real atoms are fuzzy and have no sharp edge. Physicists now describe the smallest things as ripples in fields, not as tiny balls. Even so, the particle model gives correct answers to most questions about solids, liquids and gases, which is why scientists use it. A good scientist keeps asking where a model stops working.
 - e.g. A drawing of a particle as a ball is a model.
 - e.g. A tray of rice shaken to show a gas is a model.
 - e.g. Scientists use computer models of particles to design new materials.
+- **Scientists who think models show what is real:** Believe a good model comes close to the way things truly are.
+- **Scientists who think models are tools:** Quote George Box: all models are wrong, but some are useful. They say a model is a picture that helps us predict, whether or not it is the full truth.
 
 ## Mostly agreed
 - Everything is made of particles too small to see, and the three states differ in how the particles are arranged and move. *How we know:* The model predicts how gases squash, how they push, how fast smells spread and how solids melt, and the measurements match.
@@ -182,7 +207,7 @@ Solid, liquid and gas are not three different kinds of stuff. They are three way
 - *deep:* Air squashes and water does not. Both are made of particles. So what must be different about them? (hint: Think about what happens when you try to push particles closer together. What stops them?)
 - *deep:* If an atom is mostly empty space, why can't you push your hand through a wall? (hint: Think about what the atoms in your hand and the atoms in the wall do when they come close.)
 - *deep:* Ice, a cup of water and the steam from a kettle are made of the same particles. Is the ice a different thing from the steam? (hint: Think about ice, water and steam. What is the same, and what is different?)
-- *big:* Nobody has ever seen a gas particle with their eyes. How can we be sure that they are there? (hint: Think about what you tested in this unit, and what it would mean if there were no particles.)
+- *big:* Nobody has ever seen a gas particle with their eyes. How can we be sure that they are there? (hint: Think about what you tested in this lesson, and what it would mean if there were no particles.)
 - *big:* A model is a picture that is not exactly true but is very useful. Can you think of other models in life, such as a map? (hint: A map shows roads but not every tree. What does it leave out? What would be lost if it showed everything?)
 - *big:* The air in a room is made of particles flying at five hundred metres a second, and we feel nothing. Why not? (hint: Think about how many particles hit you every second, and whether they push from only one side.)
 - *big:* Scientists once ignored the idea of flying gas particles for a hundred years. Why might a good idea be ignored for so long? (hint: Think about who proposed it, who read it, and what evidence people thought they had.)
@@ -540,16 +565,16 @@ That afternoon, over the best dal he had ever eaten, Raghu asked Lalitha to expl
    Options: They are far apart and fly about / They touch their neighbours and are held in place, jiggling on the spot / They slide past each other  
    **Answer:** They touch their neighbours and are held in place, jiggling on the spot. *Why:* In a solid the particles are close and held in place by pulls between them. The first answer describes a gas. The last answer describes a liquid.
 2. (mcq) The end of a syringe full of air is sealed, and the plunger is pushed. It goes in about half way. What does this tell you about air?  
-   Options: Air is made of nothing / There is empty space between the air particles / Air particles are soft  
+   Options: There is empty space between the air particles / Air is made of nothing / Air particles are soft  
    **Answer:** There is empty space between the air particles. *Why:* The particles moved closer together into the empty space between them. Air is made of particles, so it is not nothing. The particles do not get squashed, they just get closer.
 3. (mcq) Why does the steam from a kettle spread out until you cannot see it?  
-   Options: Gas particles fly about and spread into all the space they can reach / Steam is lighter than the kitchen / Steam particles melt away  
+   Options: Steam is lighter than the kitchen / Steam particles melt away / Gas particles fly about and spread into all the space they can reach  
    **Answer:** Gas particles fly about and spread into all the space they can reach. *Why:* Gas particles are free to fly in every direction, so a gas spreads out to fill the space it is in. Particles do not melt away.
 4. (mcq) Ice, water and steam are three states of one substance. What is the same in all three?  
-   Options: The distance between the particles / The kind of particle / How fast the particles move  
+   Options: The kind of particle / The distance between the particles / How fast the particles move  
    **Answer:** The kind of particle. *Why:* All three are made of the same water particles. What changes is the distance between them and how fast they move.
 5. (mcq) Why does a football feel hard when it is pumped up?  
-   Options: Nothing is hitting the inside wall / Air particles hit the inside wall very often and push outwards / The air has turned into a solid  
+   Options: Air particles hit the inside wall very often and push outwards / Nothing is hitting the inside wall / The air has turned into a solid  
    **Answer:** Air particles hit the inside wall very often and push outwards. *Why:* A huge number of air particles hit the inside wall every second. Together they push outwards, and that makes the ball hard. The air is still a gas.
 6. (truefalse) The particles in a steel spoon are completely still.  
    **Answer:** False. *Why:* False. The particles in a solid jiggle on the spot all the time. They just do not swap places.
@@ -572,23 +597,23 @@ That afternoon, over the best dal he had ever eaten, Raghu asked Lalitha to expl
 15. (draw) Draw the particles in steam. Show how far apart they are and add arrows to show how they move.  
    **Answer:** Small circles far apart, each with a long arrow in a different direction.. *Why:* A strong drawing shows the particles far apart with arrows in all directions, because steam is a gas.
 16. (mcq) A pressure cooker is heated, and the steam cannot escape. What happens to the push of the steam on the lid?  
-   Options: It gets smaller / It stays the same / It gets bigger, because the particles fly faster and hit the lid harder  
+   Options: It gets smaller / It gets bigger, because the particles fly faster and hit the lid harder / It stays the same  
    **Answer:** It gets bigger, because the particles fly faster and hit the lid harder. *Why:* Heat makes the steam particles move faster. They hit the lid harder and more often, so the pressure goes up. This is also why the lid will not open until the cooker cools.
 ### Gaps, Hits and Models (stretch) (stretch, 17 questions)
 1. (mcq) A jar is full to the top with big chana, and then small mustard seeds slide in between them. What does this show?  
    Options: The chana had gaps between the grains / The chana was soft / The mustard seeds were heavier  
    **Answer:** The chana had gaps between the grains. *Why:* Small things fit into the gaps between big things. In the same way, small particles can fit into the gaps between bigger ones.
 2. (mcq) A smell takes minutes to cross a room, though air particles fly at hundreds of metres a second. What is the best reason?  
-   Options: The smell particles keep colliding with air particles and zigzag / The smell particles are very slow / Smells are not made of particles  
+   Options: The smell particles are very slow / Smells are not made of particles / The smell particles keep colliding with air particles and zigzag  
    **Answer:** The smell particles keep colliding with air particles and zigzag. *Why:* A smell particle hits an air particle billions of times each second, and changes direction each time. So it travels only a little way from where it started. Moving air from a fan carries it much faster.
 3. (mcq) A balloon left in a hot car bursts. What is the best reason?  
-   Options: The hot air particles fly faster and hit the skin harder / The rubber melts into the air / The air particles grow bigger  
+   Options: The rubber melts into the air / The hot air particles fly faster and hit the skin harder / The air particles grow bigger  
    **Answer:** The hot air particles fly faster and hit the skin harder. *Why:* Heat makes the particles faster, so they hit the balloon harder and more often. The pressure goes up until the skin gives way. The particles do not grow.
 4. (mcq) A gas is squashed into half the space. What changes?  
    Options: Each particle is half the size / The particles are closer together and hit the walls more often / There are fewer particles  
    **Answer:** The particles are closer together and hit the walls more often. *Why:* The same particles are now in half the space. They are closer, so they reach the walls twice as often. The particles themselves do not change.
 5. (mcq) Which of these is a mixture?  
-   Options: A glass of distilled water / A bowl of sambar / A grain of table sugar  
+   Options: A bowl of sambar / A glass of distilled water / A grain of table sugar  
    **Answer:** A bowl of sambar. *Why:* Sambar has water, dal, vegetables, tamarind and spices. The other two are very nearly one substance.
 6. (mcq) Which statement about an atom is correct?  
    Options: An atom is a solid ball with no empty space / An atom is mostly empty space, with a tiny nucleus in the middle / All atoms are the same size and kind  
@@ -617,13 +642,13 @@ That afternoon, over the best dal he had ever eaten, Raghu asked Lalitha to expl
    **Answer:** A strong answer agrees with the second person, because a hot spoon is evidence the particles move, since heat is movement. It also says the first person is right that the spoon as a whole does not move, and that the particles stay in their places.. *Why:* Both have part of it. The spoon stays where it is, and its particles stay in their places, as the first person says. But they jiggle on the spot all the time, as the second person says, and heating makes the jiggle bigger.
 ### Think Like a Particle Scientist (challenge) (challenge, 16 questions)
 1. (mcq) 100 millilitres of mustard seeds are poured into 100 millilitres of big dal. What total is most likely?  
-   Options: 200 millilitres / About 170 millilitres, because the seeds fill gaps / 300 millilitres  
+   Options: About 170 millilitres, because the seeds fill gaps / 200 millilitres / 300 millilitres  
    **Answer:** About 170 millilitres, because the seeds fill gaps. *Why:* Small seeds slip into the gaps between the big grains, so the total is less than the two added together.
 2. (mcq) A syringe holds 10 millilitres of air. It is squashed to 2 millilitres. About how many times as many air particles are there in each millilitre now?  
-   Options: The same number / 5 times as many / 10 times as many  
+   Options: 5 times as many / The same number / 10 times as many  
    **Answer:** 5 times as many. *Why:* The same particles are in one fifth of the space. 10 divided by 2 is 5, so there are 5 times as many in each millilitre.
 3. (mcq) The air in a bicycle tyre is at about three times the push of the outside air, at the same warmth. What does this mean for the particles?  
-   Options: There are about three times as many particles in the same space / The particles are three times bigger / The particles are three times slower  
+   Options: The particles are three times bigger / There are about three times as many particles in the same space / The particles are three times slower  
    **Answer:** There are about three times as many particles in the same space. *Why:* At the same warmth, the particles move at the same speed. The extra push comes from more particles hitting the wall each second.
 4. (mcq) A scientist draws particles as tiny round balls. What is the most honest way to describe this drawing?  
    Options: An exact photograph / A useful model that is not exactly true / A wrong idea that nobody uses  
@@ -664,35 +689,35 @@ That afternoon, over the best dal he had ever eaten, Raghu asked Lalitha to expl
    Options: The kind of particle / How the particles are arranged and how they move / The colour of the particles  
    **Answer:** How the particles are arranged and how they move. *Why:* The particles are the same. In a solid they are held in place. In a liquid they slide. In a gas they fly about, far apart.
 2. (mcq) Water is poured from a bottle into a wide bowl. Why does the water take the shape of the bowl, but stay the same amount?  
-   Options: The particles slide past each other but stay close / The particles fly apart / The particles are fixed in rows  
+   Options: The particles fly apart / The particles are fixed in rows / The particles slide past each other but stay close  
    **Answer:** The particles slide past each other but stay close. *Why:* Liquid particles slide, so the liquid can change shape. They stay touching, so the amount stays the same.
 3. (mcq) Why can air be squeezed into a smaller space?  
-   Options: Its particles are far apart, with empty space between them / Its particles are soft / Air has no particles  
+   Options: Its particles are soft / Air has no particles / Its particles are far apart, with empty space between them  
    **Answer:** Its particles are far apart, with empty space between them. *Why:* The particles are not squashed. They are pushed closer together, into the empty space.
 4. (mcq) A drop of colour is stirred into a cup, and a spoonful of that is stirred into another cup, again and again. The last cup looks clear. What is the best description?  
-   Options: The colour is gone / The colour is there, spread so thin you cannot see it / The colour is at the bottom of the first cup  
+   Options: The colour is gone / The colour is at the bottom of the first cup / The colour is there, spread so thin you cannot see it  
    **Answer:** The colour is there, spread so thin you cannot see it. *Why:* Each spoonful carries a tenth of the colour onward. Some always goes on, even when too faint to see.
 5. (mcq) What makes gas pressure?  
-   Options: Particles hitting the walls / Particles being heavy / Particles sticking to the walls  
+   Options: Particles being heavy / Particles hitting the walls / Particles sticking to the walls  
    **Answer:** Particles hitting the walls. *Why:* A gas pushes on its container because its particles hit the walls and bounce back.
 6. (mcq) Sambar is best described as which of these?  
    Options: A substance / A mixture / A gas  
    **Answer:** A mixture. *Why:* Sambar is made of several substances, such as water, dal and spices, mixed together.
 7. (mcq) Which change makes the particles of a solid move faster?  
-   Options: Cooling it / Heating it / Putting it in a box  
+   Options: Cooling it / Putting it in a box / Heating it  
    **Answer:** Heating it. *Why:* Heat is movement of particles. A warmer solid has particles that jiggle harder.
 8. (truefalse) The particles in a gas hardly pull on each other at all.  
    **Answer:** True. *Why:* True. Gas particles are so far apart that they barely pull on each other, so they fly free.
 9. (mcq) A model of particles uses tiny balls. What is true about this model?  
-   Options: It is useful, but not exactly right / It is exactly right / It is useless  
+   Options: It is exactly right / It is useful, but not exactly right / It is useless  
    **Answer:** It is useful, but not exactly right. *Why:* The balls help us think, but real atoms are fuzzy. All models have limits.
 10. (mcq) Which of these makes a smell spread faster across a room?  
-   Options: A fan moving the air / Closing all the windows / Cooling the room  
+   Options: Closing all the windows / Cooling the room / A fan moving the air  
    **Answer:** A fan moving the air. *Why:* Moving air carries the smell particles much faster than they could spread by themselves.
 11. (truefalse) A gas can be made of exactly the same particles as a liquid.  
    **Answer:** True. *Why:* True. Steam and liquid water are both made of water particles.
 12. (mcq) Why was the idea of flying gas particles so useful to scientists?  
-   Options: It explained why heating a gas raises its pressure / It explained why ice floats / It explained why metals shine  
+   Options: It explained why ice floats / It explained why metals shine / It explained why heating a gas raises its pressure  
    **Answer:** It explained why heating a gas raises its pressure. *Why:* Faster particles hit harder, so a hotter gas pushes more. The older idea of fixed particles could not explain this.
 
 ## Applications
@@ -774,6 +799,13 @@ Heavy for Its Size (sci.states.L4): Topic-level song
 ## Things to buy
 - [A 10 millilitre or 20 millilitre plastic syringe with no needle](https://www.amazon.in/s?k=syringe+10ml+without+needle) (material): For the squeeze test. A chemist sells them cheaply, and some baby medicine comes with one. Used in e2. 
 - [A bottle of liquid food colour, red and blue or green](https://www.amazon.in/s?k=liquid+food+colour+red+blue) (material): For the colour dilution test. Any grocery or baking shop sells small bottles. Used in e1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in A Picture Book of the Three Crowds: teach a younger child, Prove That Air Is Something. About ₹10 to ₹30. Any school ruler is fine. Used in p1, c1. Get it before A Picture Book of the Three Crowds: teach a younger child.
+- [A dropper](https://www.amazon.in/s?k=plastic+dropper) (tool): Used in How Far Does One Drop Go? Cup after cup of colour. About ₹10 to ₹40. A clean pen refill or straw with a finger on top can drop water. Used in e1. Get it before How Far Does One Drop Go? Cup after cup of colour.
+- [Balloons (a packet)](https://www.amazon.in/s?k=balloons+packet) (material): Used in Prove That Air Is Something. About ₹20 to ₹60. Used in c1. Get it before Prove That Air Is Something.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in The Squeeze Test: can air, water and a water-and-bubble mix be squashed?. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in e2. Get it before The Squeeze Test: can air, water and a water-and-bubble mix be squashed?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Full Jar, Not Really Full: chana, mustard and water. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a2. Get it before Full Jar, Not Really Full: chana, mustard and water.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Prove That Air Is Something. About ₹30 to ₹60. Newspaper cut into strips also works. Used in c1. Get it before Prove That Air Is Something.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is a particle? → A very tiny piece that a substance is made of, too small to see.
@@ -794,7 +826,7 @@ Heavy for Its Size (sci.states.L4): Topic-level song
 
 ## Sources
 - ideas/by_topic/matter-and-particles.md: the particles grade grid (everything is made of tiny bits we cannot see, air looks empty but has particles, particles move), used for the squeeze test and the gaps activity
-- The Class 3 unit on particles, which this unit builds on: the idea that things are made of particles, now extended to the three states, empty space, pressure and models
+- The Class 3 unit on particles, which this lesson builds on: the idea that things are made of particles, now extended to the three states, empty space, pressure and models
 - Neighbour units the-very-small.atoms, evaporation-and-condensation and dissolving, which are built on and not repeated: Brownian motion, smell races, colour spreading in hot and cold water, and dissolving are left there
 - Cambridge Primary Science Stage 4, 3.1 Materials, substances and particles (coverage only)
 - Bernoulli, D., Hydrodynamica, 1738, section 10 (gas pressure from moving particles)

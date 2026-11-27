@@ -1,0 +1,12 @@
+# Escape Gravity Board Game / Questions (copied from Google Sheets, 2026-11-27)
+R1: Sno | Question | Ideas
+R2: 1 | How to ensure activity completion? - Challenges | Points System
+R3:  |  | If Winning Condition - The winner gets the Force Card ⏎ Fun , No Winning - The player drawing the Activity Card (who's turn it is), gets the Force Card
+R4: 2 | How to ensure activity completeion? - Missions
+R5: 3 | Will kids come back to the board after activity
+R6: 4 | How can we help them prepare for activities before game begins?
+R7: 5 | Sacrifice 2 Cards to Move -works differently than other gravity wells? - how to sort it out?
+R8: 6 | Extra plain activity cards with layout - for kids to create their own activities for the given force cards - parents verify using google /gpt if they got it right. Kids earn 2 force cards for the activities they create 
+R9: 7 | Tracking Acitivities winner - give a notebook to track activity winner in each game. The one with most wins gets 1 extra random force card in the beggining of the next game
+R10: 8 | Add a reasoning booklet to explain how each activity  & the force card are linked?
+R11: 9 | Recall Cards are extra - for parents to try out whenever they get time

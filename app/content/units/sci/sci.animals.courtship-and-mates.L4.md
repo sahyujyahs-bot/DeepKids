@@ -1,9 +1,9 @@
 # How animals choose partners: displays, songs, dances and nests
 `sci.animals.courtship-and-mates.L4`
 
-**Summary.** A peacock's long tail makes flying harder, so why does he have it? In this unit you will watch pigeons at the window, test whether one change to a display changes what is chosen, test how a long tail slows flight, and play a call-and-answer game.
+**Summary.** A peacock's long tail makes flying harder, so why does he have it? In this lesson you will watch pigeons at the window, test whether one change to a display changes what is chosen, test how a long tail slows flight, and play a call-and-answer game.
 
-**Intro.** *A peacock's train is about one and a half metres long. A tiger can see the train from far away, and the train is heavy to carry. He sheds the train every year and grows a new one. Why does he grow something so costly?* The peacock grows his train because peahens choose. A peahen walks past several peacocks, watches them, and picks one to be the father of her chicks. The things animals do to find and win a partner are called courtship. A magpie robin sings. Two sarus cranes dance. A weaver bird builds a nest and waits for a female to inspect it. In this unit you run a choosing test with paper trains. You also find out what a long tail costs a flyer.
+**Intro.** *A peacock's train is about one and a half metres long. A tiger can see the train from far away, and the train is heavy to carry. He sheds the train every year and grows a new one. Why does he grow something so costly?* The peacock grows his train because peahens choose. A peahen walks past several peacocks, watches them, and picks one to be the father of her chicks. The things animals do to find and win a partner are called courtship. A magpie robin sings. Two sarus cranes dance. A weaver bird builds a nest and waits for a female to inspect it. In this lesson you run a choosing test with paper trains. You also find out what a long tail costs a flyer.
 
 ## Learning outcomes
 0. I can say what courtship is, and why animals need it.
@@ -143,7 +143,7 @@ A peahen prefers some peacocks to others. What is her preference about? There ar
   Against: Suhel Quader studied baya weavers in India and published the work in 2006. He found that the place mattered more than the weaving. Females preferred nests hung high, on thorny trees and on thin branches.
 
 ## Roots
-In this unit you counted what choosers pick, and you found that a long tail shortens a paper bird's flight. Here we ask what choosing has made, and whether beauty is in the thing or in the one who looks.
+In this lesson you counted what choosers pick, and you found that a long tail shortens a paper bird's flight. Here we ask what choosing has made, and whether beauty is in the thing or in the one who looks.
 
 **Deep truth.** In the Long Tail Test, the paper bird with the longest tail flew the shortest distance. A male long-tailed widowbird still grows a tail half a metre long. Female widowbirds choose long-tailed males, so those males have more young. So the choices of females have shaped the bodies of males, even where flying became harder.  
 *Habit it breaks:* We think every part of a body is there to help its owner stay alive: legs to run, a beak to feed. A long tail does not help a widowbird stay alive. It is there because others of his kind preferred it.  
@@ -153,7 +153,7 @@ In this unit you counted what choosers pick, and you found that a long tail shor
 - *what is life:* Most animals cannot make young alone. Their kind of life goes on only where two beings find each other and accept each other.
 - *what is this world:* Much of the colour and song around you was shaped by choosers. A peacock's train and a magpie robin's song exist because, over many generations, partners watched and listened and chose.
 
-Two animals begin as separate beings, and often as strangers. In courtship each one pays close attention to the other. Then one cell from each joins, and a new being begins from the two. Many wise teachers taught that many beings come from one source. This unit shows something that goes the other way. Two separate beings come together, and from the two a new life begins, again and again, in every generation.
+Two animals begin as separate beings, and often as strangers. In courtship each one pays close attention to the other. Then one cell from each joins, and a new being begins from the two. Many wise teachers taught that many beings come from one source. This lesson shows something that goes the other way. Two separate beings come together, and from the two a new life begins, again and again, in every generation.
 
 - **Valmiki Ramayana, Bala Kanda, sarga 2:** The poet Valmiki sees a pair of krauncha birds together by a river. A hunter shoots the male, and the female cries out. Valmiki's grief comes out as a verse, which tradition calls the first shloka. (Many scholars think the krauncha is the sarus crane. The poem takes the bond between two birds seriously. Field studies agree that sarus pairs stay together for many years. Whether a crane grieves as a person does cannot yet be measured.)
 - **Kurunthokai 40, by Sembulappeyaneerar (Tamil Sangam poetry):** The poet asks: what is my mother to yours, and how did you and I ever meet? Yet, like red earth and pouring rain, our hearts have mixed. (The poem is about two people. It says plainly what happens in every pair: two beings who were strangers come to act together. Two sarus cranes calling in a duet show the same joining.)
@@ -467,10 +467,10 @@ Yazhini sat down and picked up her strips. They were only a little bent.
 ## Worksheets
 ### Courtship: who displays and who chooses (core, 15 questions)
 1. (mcq) What is courtship?  
-   Options: Finding and winning a partner for having young / Building a home for the winter / Fighting over food / Teaching chicks to fly  
+   Options: Building a home for the winter / Fighting over food / Teaching chicks to fly / Finding and winning a partner for having young  
    **Answer:** Finding and winning a partner for having young. *Why:* Courtship is everything an animal does to find and win a partner for having young. It can be a display, a song, a dance, a nest or a gift.
 2. (mcq) Why does each species of cricket have a chirp pattern of their own?  
-   Options: So partners of the same species meet / So crickets stay awake / So hunters can hear them / So the chirps sound louder  
+   Options: So crickets stay awake / So hunters can hear them / So the chirps sound louder / So partners of the same species meet  
    **Answer:** So partners of the same species meet. *Why:* A female cricket walks towards the pattern of her own species. A pattern shared with another species would lead her to the wrong partner.
 3. (fill) A show of colour, shape or movement that one animal gives for another to see is called a ____.  
    **Answer:** ['display']. *Why:* A display is made for the eyes. A peacock's raised train and a lizard's throat fan are displays.
@@ -490,7 +490,7 @@ Yazhini sat down and picked up her strips. They were only a little bent.
 10. (fill) The part of the year when a species courts, mates and raises young is called the ____ season.  
    **Answer:** ['breeding']. *Why:* Most animals have a breeding season. It puts their young into the world when food is plentiful.
 11. (mcq) In the Long Tail Test, which paper bird usually flies the shortest distance?  
-   Options: The one with the longest tail / The one with no tail / The one with the short tail / All fly the same distance  
+   Options: The one with no tail / The one with the longest tail / The one with the short tail / All fly the same distance  
    **Answer:** The one with the longest tail. *Why:* A long strip drags against the air and slows the paper bird, so the bird drops sooner. If you chose 'no tail', look at your results table again.
 12. (write) Give two things that a chooser can learn from a courtship display.  
    **Answer:** One: the other animal is of her own species. Two: the other animal is healthy, or skilful, or good at finding food.. *Why:* A strong answer gives two different things. Species, readiness to breed, health, skill and the ability to find food are all correct.
@@ -503,16 +503,16 @@ Yazhini sat down and picked up her strips. They were only a little bent.
    **Answer:** Sarus cranes. *Why:* A pair of sarus cranes may stay together for many years and raise chicks together. A peacock and a peahen part after mating, and she raises the chicks alone.
 ### Costs, seasons and many ways to pair (stretch, 15 questions)
 1. (mcq) A male bullfrog is bright yellow for only a day or two. Why not all year?  
-   Options: Bright skin is easy for hunters to see / The yellow washes off in rain / Females dislike yellow / Yellow skin feels too warm  
+   Options: The yellow washes off in rain / Females dislike yellow / Yellow skin feels too warm / Bright skin is easy for hunters to see  
    **Answer:** Bright skin is easy for hunters to see. *Why:* A bright colour is noticed by partners and by hunters. Showing the colour only at breeding time keeps the cost low.
 2. (mcq) Four species of frogs call in one pond. How does a female find her own species?  
-   Options: By the pattern of the call / By the loudest call / By the nearest frog / By luck  
+   Options: By the loudest call / By the nearest frog / By the pattern of the call / By luck  
    **Answer:** By the pattern of the call. *Why:* Each species has a call pattern of their own. She goes towards the pattern of her species, even if another call is louder or nearer.
 3. (mcq) A peacock sheds his train after the breeding season. What does he gain?  
    Options: Less to carry, and harder to see / A warmer body / A louder call / Sharper claws  
    **Answer:** Less to carry, and harder to see. *Why:* The train is needed only for courtship. Without the train he has less to carry and is harder for a hunter to notice.
 4. (mcq) Why do many Indian frogs start courtship after the first heavy rain?  
-   Options: Their tadpoles need pools of water / Rain makes calls louder / Frogs dislike sunshine / Rain washes hunters away  
+   Options: Rain makes calls louder / Frogs dislike sunshine / Rain washes hunters away / Their tadpoles need pools of water  
    **Answer:** Their tadpoles need pools of water. *Why:* Frog eggs and tadpoles need water. Courtship that starts with the rain puts the tadpoles into full pools.
 5. (truefalse) Female birds never sing.  
    **Answer:** False. *Why:* False. A study in 2014 found that females sing in about seven out of ten songbird species with good records. In some species partners sing duets.
@@ -539,16 +539,16 @@ Yazhini sat down and picked up her strips. They were only a little bent.
    **Answer:** ['The thin branch: a snake struggles to climb along a thin branch', 'The woven room: it must hold the eggs and the chicks', 'The opening: the female goes in here to inspect the nest']. *Why:* A female weaver inspects the nest and the place where it hangs. Each part matters for the safety of her eggs.
 ### Testing what choosers prefer (challenge, 15 questions)
 1. (mcq) A scientist changes the tails of some widowbirds and leaves others unchanged. Why leave some unchanged?  
-   Options: To compare them with the changed birds / The glue ran out / Those birds were ill / To save time  
+   Options: The glue ran out / To compare them with the changed birds / Those birds were ill / To save time  
    **Answer:** To compare them with the changed birds. *Why:* The unchanged birds show what happens with no change at all. Without them, nobody could tell whether the changed tails made a difference.
 2. (mcq) A scientist cuts a tail and glues the same piece back on. What does this check?  
-   Options: Whether cutting and gluing alone changes the result / Whether the glue is strong / Whether the bird can fly / The colour of the tail  
+   Options: Whether the glue is strong / Whether the bird can fly / Whether cutting and gluing alone changes the result / The colour of the tail  
    **Answer:** Whether cutting and gluing alone changes the result. *Why:* Catching, cutting and gluing might upset a bird. A bird with the same tail length after cutting shows whether the handling itself matters.
 3. (mcq) Suppose hunters became very common. What would probably happen to displays over many generations?  
-   Options: They would become smaller or duller / They would become bigger / They would stay the same / They would become louder  
+   Options: They would become bigger / They would stay the same / They would become louder / They would become smaller or duller  
    **Answer:** They would become smaller or duller. *Why:* With more hunters, the showiest animals are caught more often and leave fewer young. John Endler found duller male guppies in streams with more fish-eating fishes.
 4. (mcq) In jacanas the father raises the chicks. Which partner is larger and guards the patch of lake?  
-   Options: The female / The male / Neither of them / The oldest chick  
+   Options: The male / The female / Neither of them / The oldest chick  
    **Answer:** The female. *Why:* In jacanas the usual roles are swapped. The female is larger, guards the patch and may have several male partners. Each male cares for a set of eggs.
 5. (truefalse) If most choosers pick the same paper train, they must all have the same reason.  
    **Answer:** False. *Why:* False. A count shows what was chosen. It does not show why. One chooser may like many spots, and another may like a train that looks full.
@@ -580,28 +580,28 @@ Yazhini sat down and picked up her strips. They were only a little bent.
 
 ## Quiz
 1. (mcq) What is courtship for?  
-   Options: Finding and winning a partner for having young / Keeping warm at night / Finding water in summer / Scaring away every other animal  
+   Options: Keeping warm at night / Finding and winning a partner for having young / Finding water in summer / Scaring away every other animal  
    **Answer:** Finding and winning a partner for having young. *Why:* Courtship brings two animals of one species together and gives each a chance to choose. A song may also warn rivals, but its main work in courtship is to win a partner.
 2. (mcq) Each firefly species flashes in a rhythm of their own. What does the rhythm tell another firefly?  
-   Options: Which species is flashing / What time it is / Where the food is / That rain is coming  
+   Options: What time it is / Where the food is / That rain is coming / Which species is flashing  
    **Answer:** Which species is flashing. *Why:* The rhythm is the code of the species. A firefly answers only the rhythm of their own species.
 3. (mcq) Which of these is a courtship dance?  
-   Options: Two sarus cranes bowing and leaping / A crow carrying a twig / A dog chasing a ball / A cat washing her face  
+   Options: A crow carrying a twig / Two sarus cranes bowing and leaping / A dog chasing a ball / A cat washing her face  
    **Answer:** Two sarus cranes bowing and leaping. *Why:* Sarus cranes bow, leap and spread their wings together. The dance helps to form the pair and to keep the pair bond strong.
 4. (mcq) A male kingfisher brings a fish to a female. What can the gift show her?  
-   Options: He can find food / He is not hungry / He dislikes fish / The river is deep  
+   Options: He is not hungry / He dislikes fish / He can find food / The river is deep  
    **Answer:** He can find food. *Why:* A partner who can catch fish now can probably catch fish for the chicks later. A gift is news about a skill.
 5. (mcq) In peafowl, who usually does the choosing?  
-   Options: The peahen / The peacock / The chicks / The oldest bird  
+   Options: The peacock / The chicks / The oldest bird / The peahen  
    **Answer:** The peahen. *Why:* Peacocks display, and each peahen compares several of them before she accepts one.
 6. (mcq) You want to know whether spots change what choosers pick. What must you do?  
    Options: Change only the number of spots / Change the spots and the paper colour / Ask only one chooser / Tell choosers which to pick  
    **Answer:** Change only the number of spots. *Why:* A fair test changes one thing. If two things differ, you cannot tell which one changed the choices. One chooser is too few to show a pattern.
 7. (mcq) Why does a long newspaper tail shorten a paper bird's flight?  
-   Options: The tail drags against the air / The tail makes the paper bird lighter / The tail pushes the paper bird forward / The tail hides the paper bird  
+   Options: The tail makes the paper bird lighter / The tail pushes the paper bird forward / The tail drags against the air / The tail hides the paper bird  
    **Answer:** The tail drags against the air. *Why:* A long strip has a large surface that rubs against the air and flutters. This drag slows the paper bird, and a slower paper bird drops sooner.
 8. (mcq) Which of these is a cost of a loud courtship call?  
-   Options: A hunter can find the caller / The caller grows taller / The pond dries up / Partners hear the call better  
+   Options: The caller grows taller / The pond dries up / A hunter can find the caller / Partners hear the call better  
    **Answer:** A hunter can find the caller. *Why:* A loud call reaches partners and hunters alike. Bats who eat frogs find calling frogs more easily. Being heard by partners is the gain, not the cost.
 9. (mcq) Which of these animals raise their young as a lasting pair?  
    Options: Great hornbills / Peafowl / Bullfrogs / Fireflies  
@@ -610,10 +610,10 @@ Yazhini sat down and picked up her strips. They were only a little bent.
    Options: Lengthen some tails, shorten others, count nests / Watch one bird for an hour / Measure the longest tail / Ask a bird keeper  
    **Answer:** Lengthen some tails, shorten others, count nests. *Why:* Changing the tails and counting what females do is a fair test. Watching one bird, or measuring one tail, cannot show a preference.
 11. (mcq) Which sentence about choosing is correct?  
-   Options: In some species both partners choose / Only males ever choose / Only humans choose partners / Choosing happens only in birds  
+   Options: Only males ever choose / In some species both partners choose / Only humans choose partners / Choosing happens only in birds  
    **Answer:** In some species both partners choose. *Why:* Females choose in many species, and in cranes and grebes both partners choose. Frogs, fishes, insects and mammals choose too. Humans are one choosing animal among many.
 12. (mcq) Many birds begin courtship when the days grow longer. Why does the timing matter?  
-   Options: Chicks hatch when food is plentiful / Long days are quieter / Feathers grow only in summer / Hunters sleep longer  
+   Options: Long days are quieter / Chicks hatch when food is plentiful / Feathers grow only in summer / Hunters sleep longer  
    **Answer:** Chicks hatch when food is plentiful. *Why:* Chicks need a great deal of food. Courtship at the right time of year puts the chicks into the world when insects, seeds or fruit are plentiful.
 
 ## Applications
@@ -628,8 +628,8 @@ Yazhini sat down and picked up her strips. They were only a little bent.
 - A pigeon on a ledge puffing up his neck, bowing and turning in circles in front of another pigeon.
 - A male koel calling 'ku-oo, ku-oo' from a tree in the hot months before the rains.
 - A black and white magpie robin singing from a pole or a rooftop at sunrise.
-- Peacocks calling and displaying as the monsoon begins, in villages and at places such as Viralimalai in Tamil Nadu.
-- Bright yellow bullfrogs in rain pools after the first heavy rain, in Kerala, Goa and Maharashtra.
+- Peacocks calling and displaying as the monsoon begins.
+- Bright yellow frogs calling in rain pools after the first heavy rain.
 - Helmet-shaped, half-built weaver nests hanging from palm leaves or over a well in the rainy season.
 
 ## Open questions
@@ -685,6 +685,9 @@ Fast Lives, Slow Lives (sci.animals.L4): Topic-level song
 ## Things to buy
 - [A sheet of round sticker bindis, all one size and colour](https://www.amazon.in/s?k=round+sticker+bindi) (material): For the spots in the Eyespot Test. Dots drawn with one felt pen also work, so buy the bindis only if you want to. Used in e1. 
 - [The Book of Indian Birds, by Salim Ali](https://www.amazon.in/s?k=The+Book+of+Indian+Birds+Salim+Ali) (book): For naming the birds you hear and see. Salim Ali also made the first careful study of how baya weavers court. Used in p1, a1. During the Morning Song Count, look up each singer you manage to see. Read what the book says about their breeding season.
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in The Long Tail Test: does a long tail make flying harder?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e2. Get it before The Long Tail Test: does a long tail make flying harder?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Long Tail Test: does a long tail make flying harder?. About ₹10 to ₹30. Any school ruler is fine. Used in e2. Get it before The Long Tail Test: does a long tail make flying harder?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is courtship? → Everything an animal does to find and win a partner for having young.
@@ -704,7 +707,7 @@ Fast Lives, Slow Lives (sci.animals.L4): Topic-level song
 ## Sources
 - Founder's notebook, Biology list, items 117 to 121 and 153: mating and reproductive behaviour, sexual selection (mate choice, competition), courtship rituals, monogamy, polygamy, polyandry and promiscuity, parental investment theory, and sexual selection in depth. This Class 4 unit covers courtship rituals and mate choice, and introduces the many ways of pairing by example. Competition between males, the theory of sexual selection, parental investment and the named family systems are left for sci.animals.courtship-and-mates.L5, as the curriculum says.
 - There is no lower-level unit of this subtopic. The prerequisite sci.animals.animal-babies.L2 and the units sci.animal-behaviour.animal-communication.L4, sci.animals.animals-around-us.L3 and sci.forces.flight.L4 were checked so that no experiment, game or story repeats. The peahen eyespot debate also appears in the communication unit as one challenging view. Here it is the centre of the Eyespot Test.
-- The Combined lesson sci-C4-the-world-of-birds has two cards on finding a mate (a fine song and a peacock's train). This unit builds those two lines out into a full unit. Its story is new.
+- The Combined lesson sci-C4-the-world-of-birds has two cards on finding a mate (a fine song and a peacock's train). This lesson builds those two lines out into a full unit. Its story is new.
 - Darwin C. (1871). The Descent of Man, and Selection in Relation to Sex. John Murray, London.
 - Andersson M. (1982). Female choice selects for extreme tail length in a widowbird. Nature 299: 818-820.
 - Petrie M., Halliday T., Sanders C. (1991). Peahens prefer peacocks with elaborate trains. Animal Behaviour 41.

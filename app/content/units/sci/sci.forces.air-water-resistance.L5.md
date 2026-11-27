@@ -1,9 +1,9 @@
 # Air resistance, water resistance and upthrust: what slows a thing down, and what holds it up
 `sci.forces.air-water-resistance.L5`
 
-**Summary.** A loaded box on a table needs several spoonfuls of rice to start sliding. Float the same box in water, and one paper clip pulls it across. Why? In this unit you will find the smallest pull that moves a floating box, race shapes of dough through water, and test a parachute with a hole.
+**Summary.** A loaded box on a table needs several spoonfuls of rice to start sliding. Float the same box in water, and one paper clip pulls it across. Why? In this lesson you will find the smallest pull that moves a floating box, race shapes of dough through water, and test a parachute with a hole.
 
-**Intro.** *A lunch box holds two katoris of raw rice. It floats in a bucket of water. Could one hanging paper clip pull it across the water? Say yes or no, and say why.* Most people say no, because the box feels heavy in the hand. In the experiment Table or Tub you test it. You pull the same loaded box on a table and then on water. You pull the same loaded box on a table and then on water. Each time you count how many spoonfuls of rice, or how many paper clips, it takes to start the box moving. In this unit you find out why water lets a heavy thing start so easily. You also find out why water and air push back hard on anything fast. Then you use both ideas to design a parachute.
+**Intro.** *A lunch box holds two katoris of raw rice. It floats in a bucket of water. Could one hanging paper clip pull it across the water? Say yes or no, and say why.* Most people say no, because the box feels heavy in the hand. In the experiment Table or Tub you test it. You pull the same loaded box on a table and then on water. You pull the same loaded box on a table and then on water. Each time you count how many spoonfuls of rice, or how many paper clips, it takes to start the box moving. In this lesson you find out why water lets a heavy thing start so easily. You also find out why water and air push back hard on anything fast. Then you use both ideas to design a parachute.
 
 ## Learning outcomes
 0. By the end I can name friction, air resistance, water resistance and upthrust, and say which way each one acts.
@@ -23,6 +23,7 @@
 - **Upthrust**: Upthrust is the upward push of a fluid on a thing that is in it. It acts on still things and on moving things. It is also called buoyancy. *e.g.* Push an empty steel tumbler, open end up, down into a bucket of water. The push against your hand is upthrust.
 - **Displace**: To displace water is to push it out of the way and take its place. A thing in water displaces as much water as the part of it that is under the surface. *e.g.* Lower a full bottle into a full bucket. The water that spills over is the water the bottle displaced.
 - **Friction**: Friction is the force between two solid surfaces that touch. It acts against sliding, or against the sliding that would happen without it. *e.g.* A lunch box on a table stays still when you pull it gently. Friction from the table pulls back just as hard.
+- **Applied force**: An applied force is a push or a pull that a person, an animal or a machine gives to a thing. *e.g.* When you pull a loaded box with a rope, your pull on the box is the applied force. Friction then pulls back along the floor.
 - **Gravity**: Gravity is the pull of the Earth on every thing. The size of that pull on a thing is called its weight. *e.g.* Gravity pulls a parachute and its load down all the time, even while they fall slowly.
 - **Normal force**: The normal force is the push of a solid surface on a thing that rests on it. It points straight out of the surface. *e.g.* A table pushes up on a lunch box with a normal force. That push holds the box up.
 - **Force diagram**: A force diagram is a simple drawing of one thing with an arrow for each force on it. A bigger force gets a longer arrow. *e.g.* A floating box gets two arrows of the same length. Gravity points down and upthrust points up.
@@ -656,9 +657,9 @@ That evening she lay on the planks and put one finger against the edge of the to
   - Check: A long cone dropped point first makes a smaller splash than a flat pancake. Why? → **The cone moves water aside little by little**
 
 ## Worksheets
-### Four forces and how they act (core) (core, 15 questions)
+### Four forces and how they act (core) (core, 16 questions)
 1. (mcq) Which force from water acts on a boat that is not moving?  
-   Options: Upthrust / Water resistance / Friction / Air resistance  
+   Options: Water resistance / Friction / Upthrust / Air resistance  
    **Answer:** Upthrust. *Why:* Upthrust pushes up on anything in water, still or moving. Water resistance acts only on a thing that moves through the water.
 2. (truefalse) True or false: water resistance acts on a floating box that is perfectly still.  
    **Answer:** False. *Why:* False. Water resistance comes from pushing water out of the way, so a still box has none. A strong answer adds that upthrust does act on the still box.
@@ -691,9 +692,11 @@ That evening she lay on the planks and put one finger against the edge of the to
    **Answer:** The pancake. *Why:* The pancake has a much bigger front area, so it meets more water resistance at the same speed. The two weigh the same, so 'the heavier one' cannot be right.
 15. (write) A swimmer wears a tight cap and keeps her body straight. Say how each one lowers water resistance.  
    **Answer:** The cap makes her head smooth, so water flows past it easily. A straight body has a small front area and lets the water close up behind her.. *Why:* A strong answer names front area or shape for the straight body, and smoothness for the cap.
+16. (fill) A push or pull that a person gives to a box is called an ____ force.  
+   **Answer:** ['applied']. *Why:* An applied force comes from a person, an animal or a machine. It is different from friction, which comes from a surface.
 ### Balanced forces, upthrust and fair tests (stretch) (stretch, 15 questions)
 1. (mcq) A skydiver falls at a steady 200 kilometres an hour. How big is the air resistance on her?  
-   Options: Bigger than her weight / Equal to her weight / Smaller than her weight / Zero  
+   Options: Bigger than her weight / Smaller than her weight / Equal to her weight / Zero  
    **Answer:** Equal to her weight. *Why:* A steady speed means balanced forces. Air resistance points up and gravity points down, so the two are equal. Choosing 'smaller' usually means thinking that a falling thing must have a bigger force downward.
 2. (write) In the Bag of Water, the rubber band went loose when the bag was under water. Explain why.  
    **Answer:** The bag displaced its own weight of water. So the upthrust on the bag equalled its weight, and nothing was left for the band to hold.. *Why:* A strong answer says that the water around the bag pushes up on it. That push is as big as the weight of the water displaced. It does not say that the water in the bag became lighter.
@@ -702,7 +705,7 @@ That evening she lay on the planks and put one finger against the edge of the to
 4. (count) Five parachute drops land 20, 35, 10, 25 and 30 centimetres from the X. What is the mean, in centimetres?  
    **Answer:** 24. *Why:* 20 + 35 + 10 + 25 + 30 = 120. Then 120 ÷ 5 = 24. The mean distance is 24 centimetres.
 5. (mcq) One paper clip pulls a loaded floating box. The box starts very slowly. What makes the start slow?  
-   Options: Water resistance on the still box / The mass of the loaded box / Friction from the water / Upthrust pushing backward  
+   Options: Water resistance on the still box / Friction from the water / The mass of the loaded box / Upthrust pushing backward  
    **Answer:** The mass of the loaded box. *Why:* A still box has no water resistance, and water has no friction to hold it. The box starts slowly because a big mass takes time to speed up under a small pull.
 6. (draw) Draw a dough ball sinking at a steady speed. Show three forces with arrows of the right lengths.  
    **Answer:** A ball with gravity pointing down, and upthrust and water resistance pointing up. The two up arrows together are as long as the down arrow.. *Why:* A strong drawing makes the upward arrows add up to the downward one, because the speed is steady. A gravity arrow that is longer than both together would mean the ball is still speeding up.
@@ -715,7 +718,7 @@ That evening she lay on the planks and put one finger against the edge of the to
 10. (match) Match each place to the way a spacecraft can slow down to land there.  
    **Answer:** The Moon, with no air → rocket engines only; Mars, with very thin air → a parachute and then rockets; Titan, with thick air → parachutes alone; Deep space, far from any world → nothing slows it, so it keeps its speed. *Why:* A parachute needs air to push against. No air means rockets only. Very thin air means a parachute and rockets. Thick air means parachutes can do the work.
 11. (mcq) Two mean fall times, timed by hand, are 1.9 and 2.0 seconds. What can you say?  
-   Options: The second parachute is slower / The first parachute is slower / The gap is too small to trust / The stopwatch is broken  
+   Options: The gap is too small to trust / The second parachute is slower / The first parachute is slower / The stopwatch is broken  
    **Answer:** The gap is too small to trust. *Why:* A hand on a stopwatch is off by about 0.2 seconds. A gap of 0.1 seconds is smaller than that, so the two parachutes may be the same.
 12. (odd) Three of these get an upthrust. Which one does not?  
    Options: A boat on a lake / A stone on a pond bed / A helium balloon in air / A hammer falling on the Moon  
@@ -768,41 +771,44 @@ That evening she lay on the planks and put one finger against the edge of the to
 
 ## Quiz
 1. (mcq) Which of these forces always points up?  
-   Options: Friction / Air resistance / Upthrust / Water resistance  
+   Options: Upthrust / Friction / Air resistance / Water resistance  
    **Answer:** Upthrust. *Why:* Upthrust is the upward push of water or air. The other three point against a movement or a slide, whichever way that is.
 2. (mcq) A loaded box floats still in a tub. How much water resistance acts on it?  
    Options: None / A little / As much as its weight / Twice its weight  
    **Answer:** None. *Why:* Water resistance acts only on a thing that moves through the water. Upthrust is the force that equals the weight of the box.
 3. (mcq) On a table, what happens to the pull needed to start a box when its load is doubled?  
-   Options: It stays the same / It about doubles / It halves / It becomes zero  
+   Options: It about doubles / It stays the same / It halves / It becomes zero  
    **Answer:** It about doubles. *Why:* Friction grows with the weight pressing the surfaces together. Twice the load gives about twice the friction to overcome.
 4. (mcq) Which change makes the air resistance on a cyclist smaller?  
-   Options: Riding faster / Sitting upright / Bending low over the handlebar / Wearing a loose jacket  
+   Options: Riding faster / Bending low over the handlebar / Sitting upright / Wearing a loose jacket  
    **Answer:** Bending low over the handlebar. *Why:* Bending low makes the front area smaller. Riding faster, sitting upright and loose clothes all make air resistance bigger.
 5. (mcq) Which shape has the least drag in water at the same speed and front area?  
-   Options: A flat plate, face on / A ball / A cube / A fish shape  
+   Options: A fish shape / A flat plate, face on / A ball / A cube  
    **Answer:** A fish shape. *Why:* The fish shape is rounded in front and narrows behind, so water closes up smoothly and the wake is small.
 6. (mcq) What does the upthrust on a thing under water depend on?  
-   Options: How heavy the thing is / How much water the thing displaces / What the thing is made of / How deep the thing is  
+   Options: How heavy the thing is / What the thing is made of / How much water the thing displaces / How deep the thing is  
    **Answer:** How much water the thing displaces. *Why:* Upthrust equals the weight of the water displaced. Choosing 'how heavy' usually comes from seeing light things rise. They rise because their weight is smaller than the upthrust.
 7. (mcq) A bottle weighs less than the water it displaces. What does it do when let go under water?  
-   Options: Rises / Sinks / Hangs still / Spins  
+   Options: Sinks / Rises / Hangs still / Spins  
    **Answer:** Rises. *Why:* The upthrust equals the weight of the water displaced, which is more than the bottle's weight. The forces are unbalanced upward, so the bottle rises.
 8. (mcq) A coin sinks at a steady speed. What is true of the forces on it?  
-   Options: They are balanced / Gravity is winning / Upthrust is winning / There are none  
+   Options: Gravity is winning / Upthrust is winning / They are balanced / There are none  
    **Answer:** They are balanced. *Why:* A steady speed means balanced forces. Upthrust and water resistance together equal gravity.
 9. (mcq) Three parachute designs land, on average, 30, 31 and 29 centimetres from the target. Single drops of one design vary by 20 centimetres. What can you say?  
-   Options: The second design is worst / The third design is best / The designs are too close to tell apart / The test was unfair  
+   Options: The second design is worst / The designs are too close to tell apart / The third design is best / The test was unfair  
    **Answer:** The designs are too close to tell apart. *Why:* The means differ by only 2 centimetres, and single drops vary by ten times that. So the test cannot tell these designs apart.
 10. (mcq) What does a small vent in the top of a parachute mainly do?  
-   Options: Makes the fall much faster / Lets air out, so the canopy swings less / Makes the load lighter / Stops the canopy opening  
+   Options: Makes the fall much faster / Makes the load lighter / Stops the canopy opening / Lets air out, so the canopy swings less  
    **Answer:** Lets air out, so the canopy swings less. *Why:* Air caught under the canopy leaves through the vent and not under the edges. The canopy swings less, and the fall is hardly faster.
 11. (mcq) The same parachute carries a heavier load. What happens to its steady falling speed?  
    Options: It gets faster / It gets slower / It stays the same / It becomes zero  
    **Answer:** It gets faster. *Why:* A heavier load needs more air resistance to balance it. The same canopy gives more air resistance only at a higher speed.
 12. (mcq) Which of these can nobody yet work out exactly?  
-   Options: How turbulent water will swirl / Whether drag grows with speed / Whether upthrust points up / Whether the Moon has air  
+   Options: Whether drag grows with speed / Whether upthrust points up / How turbulent water will swirl / Whether the Moon has air  
    **Answer:** How turbulent water will swirl. *Why:* The equations for turbulent flow have never been solved exactly. The other three are settled.
+13. (mcq) A child pulls a box across the floor with a rope. What is the child's pull on the box?  
+   Options: Upthrust / Air resistance / An applied force  
+   **Answer:** An applied force. *Why:* A push or pull from a person, an animal or a machine is an applied force. Upthrust pushes up in air or water, and air resistance works against movement through air.
 
 ## Applications
 - Parachutes are used for people, for supplies dropped from aeroplanes and for space capsules. The canopy is sized to suit the load, and it has a vent.
@@ -816,12 +822,12 @@ That evening she lay on the planks and put one finger against the edge of the to
 ## Spotted around us
 - A pigeon fanning her tail and spreading her wings in the last second before she lands on a ledge.
 - A shuttlecock that leaves the racket very fast, slows quickly and drops almost straight down.
-- A ferry tied to the jetty with thick ropes at Fort Kochi or at Mumbai's ferry wharf.
+- A ferry tied to the jetty with thick ropes.
 - Silk cotton fluff drifting slowly down a street in summer, each tuft carrying one seed.
 - A plastic or brass kudam floating on the water of a well until it tips, fills and sinks.
 - The long sloping nose of a Vande Bharat train at a station platform.
 - The V-shaped wake behind a duck on a pond, or behind a fishing boat leaving a harbour.
-- A round coracle carrying people across the Kaveri at Hogenakkal. A round boat meets more water resistance than a long, narrow one, so a coracle is slow.
+- A round boat carrying people across a river. A round boat meets more water resistance than a long, narrow one, so a round boat is slow.
 
 ## Open questions
 - **Can the equations for moving air and water always be solved?** They were written about two hundred years ago. For swirling, turbulent flow nobody has found exact answers, or proved that exact answers always exist.
@@ -868,12 +874,16 @@ Name the Force, Draw the Arrow (sci.forces.L5): Topic-level song for Forces L5
 - [PhET Forces and Motion: Basics](https://phet.colorado.edu/en/simulations/forces-and-motion-basics) · simulation: A free online model. Push a crate with and without friction, and see that balanced forces mean a steady speed.
 - [PhET Under Pressure](https://phet.colorado.edu/en/simulations/under-pressure) · simulation: A free online model. Lower a pressure gauge into a tank and see that deeper water presses harder.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A big science museum with engines, aircraft and hands-on exhibits about forces and fluids.
-- [INS Kursura Submarine Museum]() · place · Visakhapatnam: A real submarine on the beach that you can walk through. Look for the tanks that took in water to dive.
+- INS Kursura Submarine Museum · place · Visakhapatnam: A real submarine on the beach that you can walk through. Look for the tanks that took in water to dive.
 - [Science City](https://sciencecitykolkata.org.in) · place · Kolkata: A large science centre with exhibits on motion, water and air.
 
 ## Things to buy
 - [A small box of steel paper clips](https://www.amazon.in/s?k=steel+paper+clips) (material): One to five clips are the tiny weights in Table or Tub. Small safety pins from the house work just as well. Used in e1. 
 - [A small pack of modelling clay](https://www.amazon.in/s?k=modelling+clay+for+kids) (material): Clay keeps its shape in water better than dough. Stiff atta dough from the kitchen also works, so this is only if you want it. Used in e2, c1, c2. 
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in The Sinking Race: which shape of dough sinks fastest?, A Hole in the Parachute: does a vent change the fall?, The Parachute Trial: design, test and improve a parachute in three days. About ₹150 to ₹400. A phone stopwatch works well. Used in e2, e3, p1, c1. Get it before The Sinking Race: which shape of dough sinks fastest?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Table or Tub: how small a pull can start a loaded box?, The Sinking Race: which shape of dough sinks fastest?, A Hole in the Parachute: does a vent change the fall?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, e3, a2, a4, p1, c1, c2. Get it before Table or Tub: how small a pull can start a loaded box?.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in A Hole in the Parachute: does a vent change the fall?, Three Bottles: which one gets the biggest upthrust?, The Parachute Trial: design, test and improve a parachute in three days. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in e3, a1, p1. Get it before A Hole in the Parachute: does a vent change the fall?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Which force from water acts on a boat that is standing still? → Upthrust. Water resistance acts only when the boat moves.
@@ -894,7 +904,7 @@ Name the Force, Draw the Arrow (sci.forces.L5): Topic-level song for Forces L5
 - Founder's notes in ideas/by_topic/forces-and-movement.md, 'Concept activities: Buoyant Force' and 'Drag & Lift': float objects to test buoyancy, run with an umbrella to feel drag, make a simple parachute, and the thought 'resistance and support come from the same medium; motion shapes the forces we feel'. Used in Three Bottles, Newspaper on Your Chest, A Hole in the Parachute, the Parachute Trial and the roots.
 - Founder's notebook items phy:179 (buoyant force) and phy:180 (drag, lift), and the Air Resistance activities 'drop crumpled and normal paper' and 'make a paper parachute'.
 - Cambridge Primary Science Learner's Book 5, Unit 5.3 'Friction, air resistance, water resistance and upthrust', for coverage only: the four forces, force diagrams, the race of clay shapes through water, and the fair test of two parachutes with repeats and a mean.
-- The finished units sci.forces.friction.L5, sci.gravity.weight-and-mass.L5, sci.forces.flight.L3 and L4, sci.gravity.falling.L3 and L4 and sci.states.floating-and-sinking.L2 and L4. Their experiments and stories are not repeated. This unit's parachute test changes the vent, which none of them tests.
+- The finished units sci.forces.friction.L5, sci.gravity.weight-and-mass.L5, sci.forces.flight.L3 and L4, sci.gravity.falling.L3 and L4 and sci.states.floating-and-sinking.L2 and L4. Their experiments and stories are not repeated. This lesson's parachute test changes the vent, which none of them tests.
 - Archimedes, On Floating Bodies, about 250 BCE (the upthrust on a body equals the weight of the fluid it displaces)
 - Stevin, S., De Beghinselen des Waterwichts, 1586 (the argument that water at rest holds up any part of itself)
 - Newton, I., Philosophiae Naturalis Principia Mathematica, 1687 (the first law of motion, and Book II on resistance in fluids)

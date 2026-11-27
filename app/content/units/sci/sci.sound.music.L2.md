@@ -1,9 +1,9 @@
 # Home-made instruments: high and low sounds, and keeping a steady beat
 `sci.sound.music.L2`
 
-**Summary.** A big carton booms when you tap it, and a matchbox ticks, though both are card. Why do they sound so different? In this unit you will make instruments from boxes, bottles and rubber bands, test which sound high and which low, and clap steady beats and the rhythm of your name.
+**Summary.** A big carton booms when you tap it, and a matchbox ticks, though both are card. Why do they sound so different? In this lesson you will make instruments from boxes, bottles and rubber bands, test which sound high and which low, and clap steady beats and the rhythm of your name.
 
-**Intro.** *Find an empty matchbox and a big empty carton. Tap the middle of each one with one finger. Listen. Both are made of card. So why does one tick and the other boom?* In this unit you find out. You make a drum from a box, a hooter from a bottle and a one-string instrument from a rubber band. You test big and small boxes to see which sounds high and which sounds low. Then you learn to keep a steady beat, like drummers all over India do, so that a whole family band can play together.
+**Intro.** *Find an empty matchbox and a big empty carton. Tap the middle of each one with one finger. Listen. Both are made of card. So why does one tick and the other boom?* In this lesson you find out. You make a drum from a box, a hooter from a bottle and a one-string instrument from a rubber band. You test big and small boxes to see which sounds high and which sounds low. Then you learn to keep a steady beat, like drummers all over India do, so that a whole family band can play together.
 
 ## Learning outcomes
 0. I can make an instrument from a box, a bottle or a rubber band, and show which part vibrates to make the sound.
@@ -449,7 +449,7 @@ Afterwards, Kavya sat with the carton on her lap and tapped it softly. Dhum. The
 ## Worksheets
 ### High, Low and the Beat (core) (core, 10 questions)
 1. (mcq) You pluck a rubber band on a box. How can you tell that the band is vibrating?  
-   Options: It goes blurry / It gets warm / It gets longer  
+   Options: It gets warm / It goes blurry / It gets longer  
    **Answer:** It goes blurry. *Why:* A strong answer says the band moves to and fro so fast that it looks blurry.
 2. (truefalse) True or false: every sound starts with something vibrating.  
    **Answer:** True. *Why:* True. A plucked band goes blurry, and your throat buzzes when you hum.
@@ -523,25 +523,25 @@ Afterwards, Kavya sat with the carton on her lap and tapped it softly. Dhum. The
 
 ## Quiz
 1. (mcq) You stretch a rubber band over a tissue box and pluck it. What vibrates to make the sound?  
-   Options: The rubber band / The table under the box / Her ears / Nothing moves at all  
+   Options: The table under the box / Her ears / The rubber band / Nothing moves at all  
    **Answer:** The rubber band. *Why:* The band moves to and fro very fast. Look closely and it goes blurry. The box vibrates along with it, which makes the sound louder.
 2. (mcq) Which of these makes a high sound?  
-   Options: A mouse squeaking / Thunder rumbling / A cow mooing  
+   Options: Thunder rumbling / A cow mooing / A mouse squeaking  
    **Answer:** A mouse squeaking. *Why:* A squeak is thin and sharp, so it is high. Thunder and a moo are deep, so they are low.
 3. (mcq) You tap a matchbox and a big delivery carton in exactly the same way. Which one sounds lower?  
-   Options: The matchbox / The big carton / They sound the same  
+   Options: The big carton / The matchbox / They sound the same  
    **Answer:** The big carton. *Why:* The carton's big sides vibrate more slowly, and slow vibrations make a low sound. If you chose 'the same', you were thinking only about the material, not the size.
 4. (mcq) Why does a big carton sound lower than a small box?  
-   Options: Its big sides vibrate more slowly / The card in it is a different colour / It is always louder  
+   Options: The card in it is a different colour / Its big sides vibrate more slowly / It is always louder  
    **Answer:** Its big sides vibrate more slowly. *Why:* A big side is wide and floppy, so it moves in and out more slowly. Slow vibrations make low sounds. Loudness is a different thing.
 5. (mcq) You tap the big carton very, very gently with one finger. What do you hear?  
-   Options: A soft, low sound / A loud, high sound / A soft, high sound  
+   Options: A loud, high sound / A soft, high sound / A soft, low sound  
    **Answer:** A soft, low sound. *Why:* A gentle tap makes small vibrations, so the sound is soft. The carton's sides still vibrate slowly, so it is still low. Low does not mean loud.
 6. (mcq) You hoot an empty bottle. Then you pour in water until the bottle is half full. What happens to the hoot?  
-   Options: It goes higher / It goes lower / It stops for ever  
+   Options: It goes lower / It goes higher / It stops for ever  
    **Answer:** It goes higher. *Why:* The hoot is the air inside vibrating. Water leaves less air, and less air vibrates faster, so the hoot goes higher.
 7. (mcq) Which of these is a beat?  
-   Options: A steady pulse with the same gap each time, like a clock ticking / The loudest sound in a song / A very high note  
+   Options: The loudest sound in a song / A steady pulse with the same gap each time, like a clock ticking / A very high note  
    **Answer:** A steady pulse with the same gap each time, like a clock ticking. *Why:* A beat repeats steadily. Loudness and highness are about other things.
 8. (mcq) 'Ka-vya' is 2 claps. How many claps is 'Mee-nak-shi'?  
    Options: 2 / 3 / 4  
@@ -550,13 +550,13 @@ Afterwards, Kavya sat with the carton on her lap and tapped it softly. Dhum. The
    Options: It gives a steady beat that every musician can count and come back to together / It makes the song louder / It tells the singer which words to sing  
    **Answer:** It gives a steady beat that every musician can count and come back to together. *Why:* A tala is a cycle of beats that repeats. Because everyone counts the same cycle, singers and drummers stay together and land on beat 1 at the same time. It does not change how loud the song is or what the words are.
 10. (mcq) You pat along to a lullaby and then to a dance song, for 15 seconds each. Which one usually gives more pats?  
-   Options: The dance song / The lullaby / Every song gives the same number  
+   Options: The lullaby / The dance song / Every song gives the same number  
    **Answer:** The dance song. *Why:* A dance song usually has a faster tempo, so it has more beats in 15 seconds. Lullabies are slow, to help a baby calm down.
 11. (mcq) Scientists played a song to a cockatoo, first slow and then fast. How could they tell whether the bird was really keeping the beat?  
-   Options: The bird's head bobs speed up and slow down to match the music / The bird sings the words of the song / The bird plays a drum with sticks  
+   Options: The bird sings the words of the song / The bird plays a drum with sticks / The bird's head bobs speed up and slow down to match the music  
    **Answer:** The bird's head bobs speed up and slow down to match the music. *Why:* If a bird only bobs at their own speed, they might match the music by luck. If their bobbing changes speed when the music changes, they are following the beat. A cockatoo has really been seen doing this.
 12. (mcq) You want to find out if the size of a box changes its sound. Which test is fair?  
-   Options: Tap every box the same way, in the same place / Tap the small box gently and the big box hard / Tap only the biggest box  
+   Options: Tap the small box gently and the big box hard / Tap every box the same way, in the same place / Tap only the biggest box  
    **Answer:** Tap every box the same way, in the same place. *Why:* In a fair test only one thing changes, here the size of the box. If the taps are different, you cannot tell what made the sound change.
 
 ## Applications
@@ -571,8 +571,8 @@ Afterwards, Kavya sat with the carton on her lap and tapped it softly. Dhum. The
 
 ## Spotted around us
 - A big temple bell with a deep 'dong', and small hand bells with a high 'ting'.
-- The chenda drums at a Kerala temple festival, with many drummers keeping one beat.
-- The dhakis playing the big dhak drum during Durga Puja in Bengal.
+- The chenda drums at a temple festival, with many drummers keeping one beat.
+- The dhakis playing the big dhak drum during Durga Puja.
 - The thavil and nadaswaram at a South Indian wedding: a deep drum and a high, loud pipe.
 - The steady clackety-clack of train wheels going over the joins in the rails.
 - Your family's steel bowls and dabbas: tap them and listen, from the biggest to the smallest.
@@ -618,10 +618,13 @@ Big Box Low, Small Box High (sci.sound.L2): Topic-level song for Sound L2
 - [Ghatam (Wikipedia)](https://en.wikipedia.org/wiki/Ghatam) · interactive: For the parent: pictures and the story of the clay-pot drum of South India.
 - [Konnakol (Wikipedia)](https://en.wikipedia.org/wiki/Konnakol) · interactive: For the parent: the South Indian art of speaking drum syllables like 'ta ka di mi'.
 - [Tala in Indian music (Wikipedia)](https://en.wikipedia.org/wiki/Tala_(music)) · interactive: For the parent: how Carnatic and Hindustani musicians count beats in cycles, including Adi talam and Teentaal.
-- [The December music season in Chennai]() · place · Chennai: Every December and January, many halls in Chennai hold Carnatic concerts. Many have morning concerts that are free or cheap, where children can see a mridangam and a ghatam played.
-- [Durga Puja dhak drumming]() · place · Kolkata: During Durga Puja, dhakis play the big dhak drums at the pandals. Watch how the drummers keep one beat together.
+- The December music season in Chennai · place · Chennai: Every December and January, many halls in Chennai hold Carnatic concerts. Many have morning concerts that are free or cheap, where children can see a mridangam and a ghatam played.
+- Durga Puja dhak drumming · place · Kolkata: During Durga Puja, dhakis play the big dhak drums at the pandals. Watch how the drummers keep one beat together.
 
 ## Things to buy
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Big Box, Small Box: which makes the deepest sound?, Our Box Band Concert, A Band of Three: high, middle and low. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e1, p1, c1. Get it before Big Box, Small Box: which makes the deepest sound?.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Tissue-box Ektara: a one-string instrument, Our Box Band Concert. About ₹30 to ₹60. Newspaper cut into strips also works. Used in a3, p1. Get it before Tissue-box Ektara: a one-string instrument.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What does 'vibrate' mean? → To move to and fro very fast, again and again.

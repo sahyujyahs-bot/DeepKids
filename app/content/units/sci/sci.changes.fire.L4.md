@@ -1,9 +1,9 @@
 # Fire: where the wax goes, and why burning loses nothing
 `sci.changes.fire.L4`
 
-**Summary.** A log can leave only a handful of ash, so where does the rest go? In this unit you will catch water and soot from a candle flame on a cold plate, test which paper shape burns fastest, and read a stove flame as blue or yellow.
+**Summary.** A log can leave only a handful of ash, so where does the rest go? In this lesson you will catch water and soot from a candle flame on a cold plate, test which paper shape burns fastest, and read a stove flame as blue or yellow.
 
-**Intro.** *A grown-up lights a tea-light candle. A cold steel plate is held a hand's width above the flame for ten seconds. When the plate is lifted, its underside is wet with tiny drops and has a black smudge. The candle was burning, so how can it make water?* Fire seems to use things up. A log turns into a pinch of ash, and a candle gets shorter and shorter. In this unit you catch what a flame really makes. You test what changes how fast something burns, and you weigh things before and after burning. Then you see how the same idea explains your own breath, why the Sun is not a fire, and how flames burn in space.
+**Intro.** *A grown-up lights a tea-light candle. A cold steel plate is held a hand's width above the flame for ten seconds. When the plate is lifted, its underside is wet with tiny drops and has a black smudge. The candle was burning, so how can it make water?* Fire seems to use things up. A log turns into a pinch of ash, and a candle gets shorter and shorter. In this lesson you catch what a flame really makes. You test what changes how fast something burns, and you weigh things before and after burning. Then you see how the same idea explains your own breath, why the Sun is not a fire, and how flames burn in space.
 
 ## Learning outcomes
 0. I can explain that burning is a chemical reaction in which a fuel joins with oxygen and makes new substances such as carbon dioxide, water and soot.
@@ -482,14 +482,14 @@ Thatha put a hand on her head. "Then I have a lot to learn about letting go," he
 8. (write) Why does blowing gently on glowing embers make them glow brighter? Use the word oxygen.  
    **Answer:** Blowing brings fresh air to the embers. The air carries oxygen, so the embers burn faster and glow brighter.. *Why:* A strong answer says that burning needs oxygen at the surface of the fuel, and that blowing sends in new oxygen. A weaker answer says only that blowing makes the fire bigger.
 9. (mcq) A candle flame is yellow, and a clean gas stove flame is blue. What makes the candle flame yellow?  
-   Options: Tiny bits of hot soot glowing inside the flame / Cold water in the flame / The flame is far from the wick  
+   Options: Cold water in the flame / Tiny bits of hot soot glowing inside the flame / The flame is far from the wick  
    **Answer:** Tiny bits of hot soot glowing inside the flame. *Why:* In the candle, some carbon is not burnt completely. It forms tiny bits of soot, which glow yellow when hot. The stove mixes in air first, so the burning is complete and the flame is blue.
 10. (truefalse) Carbon monoxide has a strong smell, so you will always notice it.  
    **Answer:** False. *Why:* False. Carbon monoxide has no colour and no smell. That is why it is dangerous. A coal or charcoal fire must never burn in a closed room.
 11. (fill) A smelly chemical is added to cooking gas so that people can notice a ____.  
    **Answer:** ['leak', 'gas leak']. *Why:* LPG has no smell of its own. The added smell warns people of a leak before the gas builds up.
 12. (mcq) A pan of cooking oil catches fire on the stove. What is the safest thing to do?  
-   Options: Switch off the stove and cover the pan with a lid / Throw a glass of water on it / Carry the pan outside  
+   Options: Throw a glass of water on it / Switch off the stove and cover the pan with a lid / Carry the pan outside  
    **Answer:** Switch off the stove and cover the pan with a lid. *Why:* A lid shuts out oxygen. Water sinks under the oil and turns to steam at once, which throws burning oil around. Carrying a burning pan can spill burning oil on you.
 13. (draw) Draw a candle with a cold plate above it. Draw arrows to show where the water and the soot collect, and label them.  
    **Answer:** A candle flame with a plate above it, an arrow to drops of water on the plate's underside, and an arrow to a black patch of soot.. *Why:* A strong drawing shows drops of water on the cold plate, soot where the plate touches the yellow tip, and invisible carbon dioxide rising away.
@@ -501,7 +501,7 @@ Thatha put a hand on her head. "Then I have a lot to learn about letting go," he
    **Answer:** 2,880. *Why:* 3,000 take away 120 is 2,880. About 2,880 grams of the fronds turned into gases and fine smoke that went into the air.
 ### Where Does the Weight Go? (stretch) (stretch, 17 questions)
 1. (mcq) A tuft of steel wool is heavier after it has burned. What is the best explanation?  
-   Options: The iron joined with oxygen from the air, and the oxygen is now part of the solid / The fire added new iron / The smoke from the match stuck to it  
+   Options: The fire added new iron / The iron joined with oxygen from the air, and the oxygen is now part of the solid / The smoke from the match stuck to it  
    **Answer:** The iron joined with oxygen from the air, and the oxygen is now part of the solid. *Why:* Iron is a solid, so nothing floats away. It joins with oxygen from the air and makes a solid oxide. The oxide weighs as much as the iron plus the oxygen.
 2. (mcq) A log leaves only a small heap of ash. Where did most of its weight go?  
    Options: Into gases, such as carbon dioxide and water vapour, in the air / Into nothing at all / Down into the ground  
@@ -513,21 +513,21 @@ Thatha put a hand on her head. "Then I have a lot to learn about letting go," he
 5. (truefalse) The phlogiston idea could not explain why some burnt metals got heavier.  
    **Answer:** True. *Why:* True. If burning let something escape, burnt things should get lighter. Tin and iron got heavier, because they took oxygen from the air.
 6. (mcq) A candle goes out in a closed jar, though plenty of air is still inside. Why?  
-   Options: The oxygen has fallen too low to keep the flame going, though some is left / The jar is too cold / All the air has been used up  
+   Options: The jar is too cold / The oxygen has fallen too low to keep the flame going, though some is left / All the air has been used up  
    **Answer:** The oxygen has fallen too low to keep the flame going, though some is left. *Why:* Air starts with about 21 parts oxygen in every 100. A candle goes out while much of the oxygen is still left. Plenty of air remains, but not enough oxygen.
 7. (order) Put these in the right order for running a fair test of how shape changes burning speed.  
    **Answer:** ['Cut every piece of paper to the same size', 'Make each piece into a different shape', 'Light each piece in the same way', 'Time how long each one burns', 'Compare the times']. *Why:* A fair test changes only one thing. The paper is the same and the lighting is the same, so only the shape differs. Timing and comparing come last.
 8. (sort) Sort each flame by whether the fuel is burning completely or incompletely.  
    **Answer:** a clean gas stove burner with a blue flame → Burns completely; a candle with a sooty yellow flame → Burns incompletely; a smoky wood chulha with black smoke → Burns incompletely; a stove burner with a blue ring and no soot on the pan → Burns completely; a pan blackened by a yellow stove flame → Burns incompletely; a Bunsen burner with its air hole fully open → Burns completely. *Why:* Blue flames with no soot show that the fuel has plenty of air and burns completely. Yellow flames and black smoke show soot, which means some carbon did not burn completely.
 9. (mcq) A family burns charcoal in a closed room to keep warm. What is the main danger?  
-   Options: A poisonous gas with no smell, called carbon monoxide, builds up / The room will get too bright / The charcoal will burn too slowly  
+   Options: The room will get too bright / A poisonous gas with no smell, called carbon monoxide, builds up / The charcoal will burn too slowly  
    **Answer:** A poisonous gas with no smell, called carbon monoxide, builds up. *Why:* Charcoal burns incompletely in a room with little air, and makes carbon monoxide. It has no colour and no smell, so a person cannot tell it is there.
 10. (write) A neighbour says: 'If there is no smoke, it is safe to burn charcoal in a closed room.' Do you agree? Why?  
    **Answer:** No. Carbon monoxide has no colour, no smell and no smoke, but it is poisonous. A fire in a closed room can make it even when you see nothing.. *Why:* A strong answer says that the dangerous gas is invisible and has no smell. The lack of smoke does not mean the room is safe.
 11. (truefalse) Water is the best way to put out a burning pan of oil.  
    **Answer:** False. *Why:* False. Oil floats on water. Water thrown on burning oil sinks, turns to steam at once, and throws the burning oil outwards. Cover the pan with a lid.
 12. (mcq) Carbon dioxide can put out a candle, though you cannot see it. How?  
-   Options: It is heavier than air, so it pours down and pushes the oxygen away from the flame / It makes the candle colder / It is a kind of water  
+   Options: It makes the candle colder / It is a kind of water / It is heavier than air, so it pours down and pushes the oxygen away from the flame  
    **Answer:** It is heavier than air, so it pours down and pushes the oxygen away from the flame. *Why:* Carbon dioxide does not burn, and it is heavier than air. When poured over a flame, it pushes the air away and cuts off the oxygen.
 13. (perspective) Here are two views about the Sun.  
    **Answer:** Answers vary. A strong answer picks the second view. It notes that burning needs oxygen, and that a burning Sun would run out in a few thousand years, while the Sun has shone for billions of years.. *Why:* The second view is right. The Sun runs on fusion, not burning. The first view is right that the Sun is hot and bright, but a fire could not last as long as the Sun has.
@@ -547,10 +547,10 @@ Thatha put a hand on her head. "Then I have a lot to learn about letting go," he
 3. (count) A candle loses 12 grams of wax as it burns. The oxygen it uses weighs 36 grams. How many grams of gases and soot does it make?  
    **Answer:** 48. *Why:* Everything the wax and oxygen weighed must still be there. 12 plus 36 is 48. So the new gases and soot weigh 48 grams.
 4. (mcq) A tea-light stands on a kitchen scale inside a sealed jar. The scale shows 400 grams. The flame burns until it goes out. What will the scale show now?  
-   Options: 400 grams, because nothing has got out of the jar / Less than 400 grams, because the wax was destroyed / More than 400 grams, because the flame added weight  
+   Options: Less than 400 grams, because the wax was destroyed / 400 grams, because nothing has got out of the jar / More than 400 grams, because the flame added weight  
    **Answer:** 400 grams, because nothing has got out of the jar. *Why:* The wax joined with oxygen inside the sealed jar, and nothing escaped. The new gases weigh as much as the wax and the oxygen that went in.
 5. (mcq) A cloud of flour dust in a mill can burn in a flash, but a heap of flour on a shelf does not. Why?  
-   Options: The dust has far more surface touching the air, so it burns far faster / The dust is hotter / The dust is a different kind of food  
+   Options: The dust is hotter / The dust is a different kind of food / The dust has far more surface touching the air, so it burns far faster  
    **Answer:** The dust has far more surface touching the air, so it burns far faster. *Why:* Burning goes on only where oxygen touches the fuel. A cloud of dust shows a huge surface to the air, so it can burn in a flash. A heap shows only its outside.
 6. (perspective) A village is deciding how to cook. Some families use wood fires in the kitchen. Others have an LPG stove. Here are two views.  
    **Answer:** Answers vary. A strong answer weighs cost against health, and notes that incomplete burning in a closed kitchen makes smoke and carbon monoxide. It may ask who pays for gas, and who breathes the smoke.. *Why:* Both views have a point. Wood is cheap, but incomplete burning gives smoke, soot and carbon monoxide. A cleaner fire needs better air supply, a chimney, or a different fuel.
@@ -570,7 +570,7 @@ Thatha put a hand on her head. "Then I have a lot to learn about letting go," he
 13. (fill) In a chemical reaction the atoms are rearranged, but none are ____.  
    **Answer:** ['lost', 'destroyed']. *Why:* The atoms that start the reaction are all still there at the end. They have only changed partners.
 14. (mcq) Both your body's cells and a candle flame take in oxygen. What do both of them give out?  
-   Options: Carbon dioxide and water / Pure oxygen / Only heat  
+   Options: Pure oxygen / Only heat / Carbon dioxide and water  
    **Answer:** Carbon dioxide and water. *Why:* Cells break down food with oxygen and make carbon dioxide and water. A flame does the same with wax. The body does it slowly and in small steps.
 15. (odd) Which one is not a case of burning? An oil lamp, a chulha, the Sun, a sparkler.  
    **Answer:** The Sun, because it shines by fusion and not by burning. The other three join a fuel with oxygen.. *Why:* An oil lamp, a chulha and a sparkler all burn fuel in oxygen. The Sun has almost no oxygen, and its energy comes from fusion.
@@ -584,16 +584,16 @@ Thatha put a hand on her head. "Then I have a lot to learn about letting go," he
 
 ## Quiz
 1. (mcq) Which of these is the best way to describe burning a candle?  
-   Options: The wax joins with oxygen and makes new substances / The wax disappears / The wax melts and evaporates  
+   Options: The wax disappears / The wax melts and evaporates / The wax joins with oxygen and makes new substances  
    **Answer:** The wax joins with oxygen and makes new substances. *Why:* Burning makes new substances, carbon dioxide and water. Disappearing is not possible, and melting or evaporating alone would leave the wax as wax.
 2. (mcq) A cold steel spoon is held over a flame and gets drops of water on it. Where did that water come from?  
    Options: The flame made it from the hydrogen in the fuel and oxygen from the air / The spoon made it / It was inside the candle as liquid water  
    **Answer:** The flame made it from the hydrogen in the fuel and oxygen from the air. *Why:* The hydrogen in the wax joins with oxygen and makes water vapour. The cold spoon turns it back into drops.
 3. (mcq) Suppose you could weigh a log and the oxygen it uses, and also all the gases and ash it makes. How would the two totals compare?  
-   Options: They would be the same / The second would be smaller, because the fire destroys things / The second would be bigger, because the fire adds new matter  
+   Options: The second would be smaller, because the fire destroys things / The second would be bigger, because the fire adds new matter / They would be the same  
    **Answer:** They would be the same. *Why:* Atoms are rearranged, not made or destroyed. So the total mass is the same before and after.
 4. (mcq) Which of these will burn fastest?  
-   Options: A heap of thin wood shavings / A thick log / A log wrapped in wet cloth  
+   Options: A thick log / A heap of thin wood shavings / A log wrapped in wet cloth  
    **Answer:** A heap of thin wood shavings. *Why:* Thin shavings show a lot of surface to the air, so oxygen reaches the fuel at many places at once.
 5. (mcq) A flame is yellow and leaves black marks on a pan. What does this tell you about the air supply?  
    Options: There is too little oxygen, so some carbon is left unburnt as soot / There is too much oxygen / The pan is too hot  
@@ -607,7 +607,7 @@ Thatha put a hand on her head. "Then I have a lot to learn about letting go," he
    Options: Switching off the heat and covering the pan with a lid / Pouring cold water on the pan / Blowing on the pan hard  
    **Answer:** Switching off the heat and covering the pan with a lid. *Why:* A lid cuts off the oxygen. Water would sink and turn to steam, and throw burning oil out. Blowing would bring in more oxygen.
 9. (mcq) The Sun has shone for billions of years. Why can it not be burning like a fire?  
-   Options: A burning Sun would have run out of fuel in a few thousand years, and space has almost no oxygen / The Sun is too bright to burn / The Sun is made of liquid  
+   Options: The Sun is too bright to burn / A burning Sun would have run out of fuel in a few thousand years, and space has almost no oxygen / The Sun is made of liquid  
    **Answer:** A burning Sun would have run out of fuel in a few thousand years, and space has almost no oxygen. *Why:* Burning needs oxygen and would use the Sun up very fast. The Sun shines by fusion, in which hydrogen joins to make helium.
 10. (mcq) Why was it a puzzle for the phlogiston idea that tin got heavier when it burned?  
    Options: If burning lets something escape, burnt things should get lighter / Tin does not burn / Phlogiston is heavy  
@@ -615,7 +615,7 @@ Thatha put a hand on her head. "Then I have a lot to learn about letting go," he
 11. (fill) A pinch of salt turns a flame yellow-orange, because of the element ____ in the salt.  
    **Answer:** ['sodium']. *Why:* Sodium atoms give out yellow light when they are heated. Every element has its own colours, which lets astronomers read starlight.
 12. (mcq) You smell cooking gas in the kitchen. What should you do first?  
-   Options: Touch no flame or switch, turn off the regulator, and open the windows / Light a match to find the leak / Switch on the fan to blow the smell away  
+   Options: Light a match to find the leak / Touch no flame or switch, turn off the regulator, and open the windows / Switch on the fan to blow the smell away  
    **Answer:** Touch no flame or switch, turn off the regulator, and open the windows. *Why:* A flame or a spark from a switch could set the gas on fire. The safe order is no sparks, regulator off, windows open, then go outside and call for help.
 
 ## Applications
@@ -688,6 +688,11 @@ Same Atoms, New Partners (sci.changes.L4): Topic-level song
 ## Things to buy
 - [A pack of tea-light candles](https://www.amazon.in/s?k=tea+light+candles+pack) (material): For the flame activity, the candle pouring project and the lid challenge. They burn for about four hours each, and are sold at most stationery and gift shops. Used in a1, p1, c1. 
 - [Fine steel wool, grade 0 or finer](https://www.amazon.in/s?k=fine+steel+wool+grade+0000) (material): For the steel wool balance. It is sold at hardware shops and for polishing wood. A stainless steel kitchen scrubber (the shiny jaali kind) will not burn. Ask for "steel wool 0000" at a paint or hardware shop; it costs about Rs 50 to 150 and one pad is plenty for several tries. Used in e2. 
+- [Wooden skewers, a pack of 10](https://www.amazon.in/s?k=wooden+skewers) (material): The skewer is the beam of the homemade balance that the steel wool hangs from. About ₹20 to ₹40 for a pack at a kitchen or general store. A thin dry stick from the garden works as the household alternative. Used in e2. Buy them before you build the steel wool balance.
+- [Modelling clay, one small ball](https://www.amazon.in/s?k=modelling+clay) (material): It is pressed onto one end of the stick to balance it finely on the thread. About ₹40 to ₹100 for a small block at a stationery shop. Sticky tape does the same job. Used in e2. Buy it before you build the steel wool balance.
+- [Baking soda or khane ka soda, about 3 tablespoons](https://www.amazon.in/s?k=baking+soda) (material): It reacts with the vinegar to make carbon dioxide, which puts the candle out in the Pour Out a Fire project. About ₹20 to ₹40 for a small packet at a kirana shop. Use baking soda or khane ka soda, but not baking powder. Used in p1. Check your kitchen first, and buy it before you make carbon dioxide in the Pour Out a Fire project.
+- [White vinegar, about 100 millilitres](https://www.amazon.in/s?k=white+vinegar) (material): It is poured onto the baking soda to make the carbon dioxide in the Pour Out a Fire project. About ₹40 to ₹80 for a small bottle at a grocery shop. Most kitchens already have some, so check first. Used in p1. Check your kitchen first, and buy it before the Pour Out a Fire project.
+- [Printed pages for the sorting cards, tokens and worksheets, about 10 pages]() (material): The sorting game uses 20 two-sided cards and 12 printed tokens, and the worksheets are printed too. A copy shop charges about ₹1 to ₹2 a page, so the set costs about ₹10 to ₹20. Used in g1, ws-core, ws-stretch, ws-challenge. Print these before the sorting game.
 
 ## Warm-up
 - What two things does a burning candle make that we cannot see? → Carbon dioxide and water vapour.
@@ -707,7 +712,7 @@ Same Atoms, New Partners (sci.changes.L4): Topic-level song
 ## Sources
 - Founder's notes in ideas/by_topic/changing-materials.md, section 'Concept activities: Fire': combustion as oxidation, the exothermic release, comparing flame colours with salt, toasting bread, watching a gas stove flame, and the philosophy of transformation through release. Used for the flame activities, the salt colour test and the roots
 - Founder's notes in the same file on 'Materials Under Heat', for the idea that heat reveals hidden properties
-- The Class 3 unit on fire (what a flame needs, fire safety, how people learned to use fire), which this unit builds on and does not repeat: the candle-gas idea, the fire triangle and the safety lamp stay there
+- The Class 3 unit on fire (what a flame needs, fire safety, how people learned to use fire), which this lesson builds on and does not repeat: the candle-gas idea, the fire triangle and the safety lamp stay there
 - The Class 4 unit on helpful microbes and the Class 4 unit on floating and sinking, for the structure and depth of a Class 4 unit
 - Cambridge Stage 4 chemical reactions and NCERT material on changes, for coverage only. Their text is not copied
 - Lavoisier, A., Traité élémentaire de chimie, Paris, 1789 (the conservation of mass, oxygen and burning)

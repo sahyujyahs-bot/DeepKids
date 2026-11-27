@@ -1,9 +1,9 @@
 # Where humans came from: many kinds of humans, and what old bones and DNA tell us
 `sci.evolution.human-origins.L5`
 
-**Summary.** Today there is only one kind of human on Earth. A hundred thousand years ago there were at least five, and they lived at the same time. Where did the others go? In this unit you will feel four clues on your own skull, and follow one ancestor's DNA down the generations with squared paper, a coin and number chits. You will see why most people alive today carry small pieces of Neanderthal DNA, and why your pieces differ from your neighbour's. You will also weigh a question that scientists still argue about: what, if anything, makes our kind different?
+**Summary.** Today there is only one kind of human on Earth. A hundred thousand years ago there were at least five, and they lived at the same time. Where did the others go? In this lesson you will feel four clues on your own skull, and follow one ancestor's DNA down the generations with squared paper, a coin and number chits. You will see why most people alive today carry small pieces of Neanderthal DNA, and why your pieces differ from your neighbour's. You will also weigh a question that scientists still argue about: what, if anything, makes our kind different?
 
-**Intro.** *If you had walked across Asia 100,000 years ago, you could have met at least five different kinds of humans. Today you would meet only one kind, us. What happened to the other four?* For a long time the answer seemed simple: they died out, and nothing of them was left. Then scientists learned to read DNA from bones tens of thousands of years old. The DNA showed something nobody could have seen in the bones alone. Our ancestors met some of these other humans and had children with them, and pieces of their DNA are still inside most people alive today. In this unit you will find out who the other humans were, how a bone or a speck of bone powder can tell us about them, and what is still unknown. India has a part in this story too, and a big gap in it.
+**Intro.** *If you had walked across Asia 100,000 years ago, you could have met at least five different kinds of humans. Today you would meet only one kind, us. What happened to the other four?* For a long time the answer seemed simple: they died out, and nothing of them was left. Then scientists learned to read DNA from bones tens of thousands of years old. The DNA showed something nobody could have seen in the bones alone. Our ancestors met some of these other humans and had children with them, and pieces of their DNA are still inside most people alive today. In this lesson you will find out who the other humans were, how a bone or a speck of bone powder can tell us about them, and what is still unknown. India has a part in this story too, and a big gap in it.
 
 ## Learning outcomes
 0. By the end I can name at least four other kinds of humans, say where and when they lived, and explain that several kinds lived at the same time.
@@ -501,7 +501,7 @@ Nobody knows what Denny's real name was, or what words she heard from her mother
 ## Worksheets
 ### Many Kinds of Humans (core) (core, 15 questions)
 1. (mcq) About how many kinds of humans were alive 100,000 years ago?  
-   Options: Only one / At least five / Exactly two / None yet  
+   Options: At least five / Only one / Exactly two / None yet  
    **Answer:** At least five. *Why:* Our species, Neanderthals, Denisovans, Homo floresiensis and Homo luzonensis were all alive then. Choosing 'only one' follows the old picture of a single line.
 2. (fill) The kind of human who lived in Europe until about 40,000 years ago is called the ____.  
    **Answer:** ['Neanderthal', 'Neanderthals']. *Why:* Neanderthals lived across Europe and western and central Asia. They are named after the Neander Valley in Germany.
@@ -510,7 +510,7 @@ Nobody knows what Denny's real name was, or what words she heard from her mother
 4. (match) Match each kind of human to where their fossils were found.  
    **Answer:** Neanderthals → Europe and western Asia; Denisovans → Siberia, Tibet and eastern Asia; Homo floresiensis → Flores, in Indonesia; Homo naledi → South Africa; Homo luzonensis → Luzon, in the Philippines. *Why:* Each kind is known from a different part of the world. Only our species spread to every continent.
 5. (mcq) Which feature of the skeleton is found only in our species?  
-   Options: A large brain / A chin that sticks out / Legs for upright walking / A thumb  
+   Options: A large brain / Legs for upright walking / A thumb / A chin that sticks out  
    **Answer:** A chin that sticks out. *Why:* Only Homo sapiens has a chin that sticks out. Neanderthals had brains as large as ours, and all these humans walked upright and had thumbs.
 6. (sort) Sort each one: can a fossil bone or tooth show it?  
    **Answer:** How tall the person was → A bone or tooth can show it; How old the person was → A bone or tooth can show it; An injury that healed → A bone or tooth can show it; The person's favourite song → A bone or tooth cannot show it; The language the person spoke → A bone or tooth cannot show it; The person's skin colour → A bone or tooth cannot show it. *Why:* Bones and teeth record size, age and injuries. Soft parts, words and thoughts leave nothing in bone.
@@ -521,7 +521,7 @@ Nobody knows what Denny's real name was, or what words she heard from her mother
 9. (write) In the Shrinking Pieces Test, the red piece got shorter down each block. Explain why.  
    **Answer:** Each new row was made by crossing over. One side was copied from the row above, and the other side came from a white partner. So part of the red was swapped for white in each generation, and it could never grow back.. *Why:* A strong answer names crossing over, and says that only one side is copied from the family's chromosome.
 10. (mcq) Why is ancient DNA found mostly in cold places?  
-   Options: Ancient humans lived only in cold places / DNA breaks down more slowly in the cold / Cold makes new DNA / Hot places have no caves  
+   Options: DNA breaks down more slowly in the cold / Ancient humans lived only in cold places / Cold makes new DNA / Hot places have no caves  
    **Answer:** DNA breaks down more slowly in the cold. *Why:* The reactions that cut DNA go more slowly in the cold. Ancient humans lived in hot places too, as India's stone tools show, but their DNA has not lasted.
 11. (order) Put these in order, from longest ago to most recent.  
    **Answer:** ['The oldest known fossils on our line', 'Denny, the girl with parents of two kinds, lives', 'Most of the mixing between our ancestors and Neanderthals', 'Neanderthals are gone as a separate people', 'The first Neanderthal genome is read']. *Why:* The fossils are about 315,000 years old. Denny lived about 90,000 years ago, the mixing was about 47,000 years ago, Neanderthals were gone by about 40,000, and the genome was read in 2010.
@@ -536,7 +536,7 @@ Nobody knows what Denny's real name was, or what words she heard from her mother
    **Answer:** Stone lasts, but bones rarely become fossils, and almost no bones have been found with the tools. India is also warm, so no ancient DNA has been recovered. Without bones or DNA, the tools cannot be matched to a kind of human.. *Why:* A strong answer says that tools show someone was there, and that only bones or DNA can say who.
 ### Reading Old DNA (stretch) (stretch, 15 questions)
 1. (mcq) In the Shrinking Pieces Test, all six lines followed the same rules. Why did they end differently?  
-   Options: Chance chose each cut place and side / The lines had different rules / Some lines started with less red / Red squares are weaker than white  
+   Options: The lines had different rules / Some lines started with less red / Red squares are weaker than white / Chance chose each cut place and side  
    **Answer:** Chance chose each cut place and side. *Why:* The chit and the coin were different each time, so each line lost different parts. Every line began with the same 20 red squares.
 2. (write) Each person has about 2 percent Neanderthal DNA. How can living people together hold about half a Neanderthal genome?  
    **Answer:** Different people carry different pieces, because chance decided which pieces each family line kept. When the pieces from thousands of people are laid side by side, they cover much more of the genome than any one person's pieces do.. *Why:* A strong answer says that the pieces differ from person to person, as the All Together row showed.
@@ -545,7 +545,7 @@ Nobody knows what Denny's real name was, or what words she heard from her mother
 4. (truefalse) True or false: one very long piece of Neanderthal DNA means a Neanderthal ancestor only a few generations back.  
    **Answer:** True. *Why:* True. Crossing over cuts pieces shorter in every generation, so a long unbroken piece has not been through many generations.
 5. (mcq) A child has one Neanderthal copy and one Denisovan copy at every marker place. Who were the parents?  
-   Options: One Neanderthal and one Denisovan / Two Neanderthals / Two Denisovans / Two people of our species  
+   Options: Two Neanderthals / Two Denisovans / Two people of our species / One Neanderthal and one Denisovan  
    **Answer:** One Neanderthal and one Denisovan. *Why:* Each parent gave one copy at every place. One could give only the Neanderthal kind and the other only the Denisovan kind.
 6. (match) Match each word to its meaning.  
    **Answer:** Contamination → DNA from outside mixed into a sample; Collagen → the main protein in bone; Hybrid → a child of parents from two kinds; Extinct → no members left alive; Interbreeding → two groups having children together. *Why:* These are the main words for reading old DNA. A strong answer can also give an example of each.
@@ -574,7 +574,7 @@ Nobody knows what Denny's real name was, or what words she heard from her mother
 1. (write) Scientists knew Denisovans existed before they had a skull. What could DNA tell them, and what could it not?  
    **Answer:** DNA could tell them that Denisovans were a separate group, who their nearest relatives were, and that they had children with Neanderthals and with our ancestors. It could not show their faces, their height, their tools or how they lived.. *Why:* A strong answer gives at least one thing on each side.
 2. (mcq) In the paper test the red share kept halving. Why does the real Neanderthal share stay near 2 percent?  
-   Options: Neanderthal DNA copies itself faster / Later partners carried pieces too / People still meet Neanderthals / The paper test was wrong in every way  
+   Options: Later partners carried pieces too / Neanderthal DNA copies itself faster / People still meet Neanderthals / The paper test was wrong in every way  
    **Answer:** Later partners carried pieces too. *Why:* In the paper test every partner was all white. In real life, after the mixing, most people in the group carried some pieces, so the average stopped falling quickly.
 3. (perspective) Three children argue about what makes our kind of human different.  
    **Answer:** A strong answer picks one view, or combines two, and gives evidence. It also names one thing that does not fit the view chosen.. *Why:* Scientists hold all three views. Language helps teaching, but nobody knows whether Neanderthals spoke. Big groups keep ideas alive. And nearly every single ability has been found elsewhere.
@@ -588,7 +588,7 @@ Nobody knows what Denny's real name was, or what words she heard from her mother
    Options: Their groups were very small / The climate kept changing / Our ancestors came in larger numbers / Their brains were too small  
    **Answer:** 3. *Why:* Neanderthal brains were as large as ours. The other three are ideas that scientists take seriously.
 8. (mcq) A fossil's mitochondrial DNA is the Neanderthal kind. What does that prove, taken alone?  
-   Options: That both parents were Neanderthals / That the father was a Neanderthal / Only that the mother's line was Neanderthal / That the fossil is our species  
+   Options: Only that the mother's line was Neanderthal / That both parents were Neanderthals / That the father was a Neanderthal / That the fossil is our species  
    **Answer:** Only that the mother's line was Neanderthal. *Why:* Mitochondrial DNA comes only from the mother. Denny's was Neanderthal, yet her father was a Denisovan. The rest of the genome is needed for the father's side.
 9. (draw) Draw the human family of the last 350,000 years as a bush. Show five kinds and two arrows for mixing.  
    **Answer:** Five or more branches side by side, most ending before the top. One arrow from Neanderthals to our branch and one from Denisovans to our branch, or one between Neanderthals and Denisovans.. *Why:* A strong drawing shows branches that overlap in time, and arrows that cross between them.
@@ -601,7 +601,7 @@ Nobody knows what Denny's real name was, or what words she heard from her mother
 13. (truefalse) True or false: one strange result is enough for a scientist to announce a discovery.  
    **Answer:** False. *Why:* False. A strange result is usually a mistake, so it must be repeated and checked first. Denny's result was tested on six separate samples.
 14. (mcq) What is the leading explanation for the small size of Homo floresiensis?  
-   Options: They were all children / On islands with little food, small bodies do better / Cold weather shrinks bones / They ate only plants  
+   Options: They were all children / Cold weather shrinks bones / They ate only plants / On islands with little food, small bodies do better  
    **Answer:** On islands with little food, small bodies do better. *Why:* A small body needs less food, so over many generations island animals often become smaller. The skeleton had adult teeth and bones, so she was not a child.
 15. (match) Match each finding to what it shows.  
    **Answer:** Healed injuries on a Neanderthal man → Neanderthals cared for each other; One copy of each kind at every marker → Parents of two different kinds; Only short Neanderthal pieces in people today → The mixing was long ago; A chin on a fossil jaw → The jaw is from our species; Old tools with no bones nearby → Humans lived there, kind unknown. *Why:* Each finding is evidence for one conclusion. Saying which evidence supports which claim is the main skill here.
@@ -609,17 +609,17 @@ Nobody knows what Denny's real name was, or what words she heard from her mother
 ## Videos
 - **When We Met Other Human Species** (PBS Eons, 11 min) id `jdYwMLSNHnU`: Tells how our ancestors met Neanderthals and Denisovans, and how DNA shows that they had children together. *Check:* Id, title and channel confirmed through YouTube's public lookup on 19 Nov 2026. The running time is an estimate. Not watched from here: a parent should preview it.
 - **The Ancient Human Species With A Missing Body** (PBS Eons, 10 min) id `Y20pXB20Mog`: Chosen for the Denisovans, the humans known from DNA and very few bones. A parent should preview it first to check that it fits. *Check:* Id, title and channel confirmed through YouTube's public lookup on 19 Nov 2026. The subject is judged from the title only, and the running time is an estimate. Not watched from here: a parent must preview it.
-- **What Happened Before History? Human Origins** (Kurzgesagt – In a Nutshell, 10 min) id `dGiQaabX3_o`: A fast animated overview of the human family, including the other kinds of humans who lived beside our ancestors. *Check:* Id, title and channel confirmed through YouTube's public lookup on 19 Nov 2026. The running time is an estimate. The video dates from 2016, so some dates in it are older than those in this unit. Not watched from here: a parent should preview it.
+- **What Happened Before History? Human Origins** (Kurzgesagt – In a Nutshell, 10 min) id `dGiQaabX3_o`: A fast animated overview of the human family, including the other kinds of humans who lived beside our ancestors. *Check:* Id, title and channel confirmed through YouTube's public lookup on 19 Nov 2026. The running time is an estimate. The video dates from 2016, so some dates in it are older than those in this lesson. Not watched from here: a parent should preview it.
 
 ## Quiz
 1. (mcq) Which statement about the human family is correct?  
    Options: Each kind turned into the next / Several kinds lived at the same time / Only one kind ever existed / Humans came from chimpanzees  
    **Answer:** Several kinds lived at the same time. *Why:* Fossils show several kinds alive together. Humans and chimpanzees share an ancestor, and neither came from the other.
 2. (mcq) On which continent did Denisovans live?  
-   Options: Asia / South America / Antarctica / Australia  
+   Options: South America / Antarctica / Asia / Australia  
    **Answer:** Asia. *Why:* Denisovan fossils come from Siberia, the Tibetan Plateau and eastern Asia. No other kind of human reached the Americas or Antarctica.
 3. (mcq) What can the teeth in a fossil jaw tell a scientist?  
-   Options: What language they spoke / The person's name / Their favourite food by taste / About how old the person was  
+   Options: About how old the person was / What language they spoke / The person's name / Their favourite food by taste  
    **Answer:** About how old the person was. *Why:* Teeth come through in a fixed order and have growth lines, so they show age. Words and names leave no trace in bone.
 4. (truefalse) True or false: a fossil skull can show what a person thought about.  
    **Answer:** False. *Why:* False. A skull shows the size and shape of the brain's space, not the thoughts. Thoughts leave no fossil.
@@ -627,25 +627,25 @@ Nobody knows what Denny's real name was, or what words she heard from her mother
    Options: It slowly breaks into short pieces / It grows longer / It turns into bone / It stays whole for ever  
    **Answer:** It slowly breaks into short pieces. *Why:* Repair stops at death, and water slowly cuts the DNA. After thousands of years the pieces are very short.
 6. (mcq) Where does most of the DNA in an old bone usually come from?  
-   Options: Microbes that lived in the bone / The person who died / Plants growing nearby / The rock around the bone  
+   Options: The person who died / Microbes that lived in the bone / Plants growing nearby / The rock around the bone  
    **Answer:** Microbes that lived in the bone. *Why:* Microbes move into a bone after death and leave their DNA. The person's own DNA is often a small part, which is why the work is hard.
 7. (mcq) In the Shrinking Pieces Test, what made the red piece shorter in each new row?  
    Options: The red colour fading / Crossing over with a white chromosome / The paper wearing out / A counting mistake  
    **Answer:** Crossing over with a white chromosome. *Why:* Each new row copied only one side from the row above. The other side came from a white partner, so part of the red was swapped away.
 8. (mcq) Two people each carry about 2 percent Neanderthal DNA. How do their pieces compare?  
-   Options: They are exactly the same pieces / One of them must have none / Both have a whole Neanderthal chromosome / They are mostly different pieces  
+   Options: They are mostly different pieces / They are exactly the same pieces / One of them must have none / Both have a whole Neanderthal chromosome  
    **Answer:** They are mostly different pieces. *Why:* Chance decided which pieces each family line kept. That is why the pieces of many people together cover so much more of the genome.
 9. (mcq) Which evidence shows that our ancestors had children with Neanderthals?  
-   Options: Neanderthal tools in museums / Neanderthal DNA pieces in living people / Old stories about giants / Neanderthal bones in Europe  
+   Options: Neanderthal tools in museums / Old stories about giants / Neanderthal DNA pieces in living people / Neanderthal bones in Europe  
    **Answer:** Neanderthal DNA pieces in living people. *Why:* Tools and bones show that Neanderthals existed. Only shared DNA shows that children were born between the two groups.
 10. (mcq) A bone's DNA has one Neanderthal and one Denisovan copy all along every chromosome. What does that show?  
-   Options: One parent of each kind / A mistake in the laboratory, always / Two Neanderthal parents / A long-mixed family  
+   Options: A mistake in the laboratory, always / Two Neanderthal parents / A long-mixed family / One parent of each kind  
    **Answer:** One parent of each kind. *Why:* Each parent gives one copy of every chromosome. Unbroken copies of two kinds mean the parents themselves were of the two kinds. A long-mixed family would show patches.
 11. (mcq) Which of these is found only in our species, as far as we know?  
    Options: Using fire / Making tools / Caring for the injured / Writing  
    **Answer:** Writing. *Why:* Neanderthals used fire, made tools and cared for injured friends. Writing is only about 5,000 years old.
 12. (mcq) Which of these is still not known?  
-   Options: Whether Neanderthals existed / Whether children get DNA from parents / Which kind of human made India's oldest stone tools / Whether our species began in Africa  
+   Options: Which kind of human made India's oldest stone tools / Whether Neanderthals existed / Whether children get DNA from parents / Whether our species began in Africa  
    **Answer:** Which kind of human made India's oldest stone tools. *Why:* India's oldest tools have no bones with them and no DNA has lasted, so the makers are unknown. The other three are well supported by evidence.
 
 ## Applications
@@ -659,13 +659,13 @@ Nobody knows what Denny's real name was, or what words she heard from her mother
 
 ## Spotted around us
 - Look in a mirror and press the bump of your chin. You are looking at the one bony feature that no other kind of human had.
-- At the Government Museum in Egmore, Chennai, look for stone hand axes. Robert Bruce Foote found the first one at Pallavaram in 1863.
-- Near Chennai, at Attirampakkam, people made hand axes about 1.5 million years ago. No bones were found, so nobody knows which kind of human they were.
-- On the bank of the Narmada at Hathnora in Madhya Pradesh, the top of an ancient human skull was found in 1982.
-- At Bhimbetka in Madhya Pradesh, people of our own species painted animals and dancers on rock walls thousands of years ago.
-- Food left out in a Chennai summer spoils in hours, and the same food lasts for days in the fridge. Cold slows chemical reactions, and that is also why DNA lasts in cold caves.
+- In a museum, look for stone hand axes made long ago.
+- A stone hand axe in a museum picture. People made hand axes about 1.5 million years ago. No bones were found with them, so nobody knows which kind of human made them.
+- The top of an ancient human skull, found in 1982 on a river bank, in a museum picture.
+- Paintings of animals and dancers on rock walls, painted by people of our own species thousands of years ago.
+- Food left out in a summer kitchen spoils in hours, and the same food lasts for days in the fridge. Cold slows chemical reactions, and that is also why DNA lasts in cold caves.
 - Watch a grandmother teach a kolam, or a mother teach how to pleat a sari. Notice how much is passed on by words, not only by showing.
-- Many Tibetan families live at Bylakuppe in Karnataka and in Ladakh. Many Tibetan people carry a gene version for thin mountain air that came from Denisovans.
+- Tibetan families living in the mountains. Many Tibetan people carry a gene version for thin mountain air that came from Denisovans.
 - In a family photograph, look for a feature that skipped a child. Each child gets a different half of each parent's DNA, which is the same chance you saw in the Shrinking Pieces Test.
 
 ## Open questions
@@ -709,20 +709,26 @@ Nobody knows what Denny's real name was, or what words she heard from her mother
 Endless Forms (sci.evolution.L5): Topic-level song for Evolution L5
 
 ## Links
-- [Smithsonian National Museum of Natural History: Human Origins](https://humanorigins.si.edu) · interactive: Pictures, three-dimensional skulls and short pages for each kind of human in this unit.
+- [Smithsonian National Museum of Natural History: Human Origins](https://humanorigins.si.edu) · interactive: Pictures, three-dimensional skulls and short pages for each kind of human in this lesson.
 - [eFossils](https://www.efossils.org) · interactive: Turn and compare fossil skulls and skeletons on screen. Good after Four Clues on Your Own Skull.
 - [Max Planck Institute for Evolutionary Anthropology](https://www.eva.mpg.de) · interactive: For the parent: news from the laboratory in Leipzig that read the Neanderthal, Denisovan and Denny genomes.
 - [The Nobel Prize](https://www.nobelprize.org) · interactive: Search for the 2022 prize in Physiology or Medicine to read how Svante Pääbo's work is explained for the public.
 - [Natural History Museum, London](https://www.nhm.ac.uk) · interactive: Search the site for 'human evolution' for clear articles on Neanderthals and on why they disappeared.
-- [Government Museum, Egmore]() · place · Chennai: See stone hand axes from Tamil Nadu, including tools collected by Robert Bruce Foote.
-- [Indira Gandhi Rashtriya Manav Sangrahalaya]() · place · Bhopal: India's national museum of humankind, with galleries on human evolution and on how people have lived.
-- [Bhimbetka rock shelters]() · place · Raisen district, near Bhopal: Rock paintings made by people of our own species over thousands of years. A good place to talk about art and symbols.
-- [Indian Museum]() · place · Kolkata: The galleries on human evolution and prehistoric tools show casts of fossil skulls to compare with your own.
+- Government Museum, Egmore · place · Chennai: See stone hand axes from Tamil Nadu, including tools collected by Robert Bruce Foote.
+- Indira Gandhi Rashtriya Manav Sangrahalaya · place · Bhopal: India's national museum of humankind, with galleries on human evolution and on how people have lived.
+- Bhimbetka rock shelters · place · Raisen district, near Bhopal: Rock paintings made by people of our own species over thousands of years. A good place to talk about art and symbols.
+- Indian Museum · place · Kolkata: The galleries on human evolution and prehistoric tools show casts of fossil skulls to compare with your own.
 
 ## Things to buy
 - [A maths notebook with squared pages](https://www.amazon.in/s?k=square+ruled+maths+notebook) (material): The Shrinking Pieces Test needs rows of 20 squares. Any squared notebook from a stationery shop will do, or rule your own grid. Used in e1. 
 - [Fruit salt, such as ENO, or citric acid crystals and baking soda](https://www.amazon.in/s?k=fruit+salt) (material): Warm or Cold needs a powder that fizzes in water. Most kitchens and all chemists have one. Used in a4. 
 - [Early Indians: The Story of Our Ancestors and Where We Came From, by Tony Joseph](https://www.amazon.in/s?k=Early+Indians+Tony+Joseph) (book): For the parent. A clear account of how people came to India, told through stone tools, bones and DNA. Used in p1. Read the first chapter before day 3 of The Human Bush, and share one finding about India with your child.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Shrinking Pieces Test: what happens to one ancestor's DNA over the generations?, The Shredded Message: read a sentence from short pieces, Who Lived When? Seven kinds of humans on one time line. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a3, a5. Get it before The Shrinking Pieces Test: what happens to one ancestor's DNA over the generations?.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in Four Clues on Your Own Skull. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in a1. Get it before Four Clues on Your Own Skull.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Human Bush: a poster of our family, with the mixing shown. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in p1. Get it before The Human Bush: a poster of our family, with the mixing shown.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Teaching Test: is a skill learned better by watching, or by watching with words?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e2. Get it before The Teaching Test: is a skill learned better by watching, or by watching with words?.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in The Shrinking Pieces Test: what happens to one ancestor's DNA over the generations?. About ₹10 to ₹30. Draw squares on plain paper. Used in e1. Get it before The Shrinking Pieces Test: what happens to one ancestor's DNA over the generations?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name three kinds of humans other than our own. → Any three of Neanderthals, Denisovans, Homo floresiensis, Homo naledi, Homo luzonensis and Homo erectus.
@@ -743,7 +749,7 @@ Endless Forms (sci.evolution.L5): Topic-level song for Evolution L5
 - Curriculum entry sci.evolution.human-origins.L5: many human species (Neanderthals, Denisovans), what fossils and DNA tell us, and what makes us human.
 - The founder's notebook for this topic (ideas/by_topic/where-humans-came-from.md): evolution as a branching tree and not a straight line, every step still open to revision, and the note that intelligence is not unique to humans.
 - DeepKids Combined lesson sci-C5-where-humans-came-from: the other kinds of humans, Neanderthal DNA in living people, the 'human bush' poster (improved here as p1, with mixing arrows and an India box), the big questions on 'us' and 'them', and the archaeologist's point that India has old tools and almost no bones.
-- DeepKids Combined lesson sci-C4-where-humans-came-from, which covers the shared ancestor with chimpanzees, upright walking and the first tools. This unit builds on it and does not repeat its experiments or its story.
+- DeepKids Combined lesson sci-C4-where-humans-came-from, which covers the shared ancestor with chimpanzees, upright walking and the first tools. This lesson builds on it and does not repeat its experiments or its story.
 - The Level 5 units of the same topic (inheritance, natural selection, the story of life), for the shared song title and so that DNA, chromosomes and species are built on and not taught again.
 - Krings M. et al. (1997). Neandertal DNA sequences and the origin of modern humans. Cell 90, 19-30.
 - Green R.E. et al. (2010). A draft sequence of the Neandertal genome. Science 328, 710-722.

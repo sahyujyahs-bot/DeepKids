@@ -1,9 +1,9 @@
 # Carbon and nitrogen: how the same atoms go round from the air to living beings and back
 `sci.ecology.cycles-and-decomposers.L5`
 
-**Summary.** A paddy plant stands in air that is nearly four-fifths nitrogen, yet the farmer still buys nitrogen fertiliser. Why can the plant not use it? In this unit you will follow carbon and nitrogen atoms round their cycles, and test three compost bottles to see which rots best.
+**Summary.** A paddy plant stands in air that is nearly four-fifths nitrogen, yet the farmer still buys nitrogen fertiliser. Why can the plant not use it? In this lesson you will follow carbon and nitrogen atoms round their cycles, and test three compost bottles to see which rots best.
 
-**Intro.** *Air is nearly four-fifths nitrogen, and every plant needs nitrogen to grow. A plant stands in air all day and all night. So why do farmers buy nitrogen in bags?* The nitrogen in the air is there, but plants have no way to take it in. In the air, nitrogen atoms hold on to each other in pairs, and a plant has no tool to pull a pair apart. A few kinds of bacteria have that tool. Almost all the nitrogen in your body passed through such bacteria, or through a factory, before it reached you. Carbon has its own path. A leaf takes carbon from the air, and your breath gives carbon back. In this unit you follow both atoms all the way round. You also make compost, and find out why a good compost bin needs two kinds of waste.
+**Intro.** *Air is nearly four-fifths nitrogen, and every plant needs nitrogen to grow. A plant stands in air all day and all night. So why do farmers buy nitrogen in bags?* The nitrogen in the air is there, but plants have no way to take it in. In the air, nitrogen atoms hold on to each other in pairs, and a plant has no tool to pull a pair apart. A few kinds of bacteria have that tool. Almost all the nitrogen in your body passed through such bacteria, or through a factory, before it reached you. Carbon has its own path. A leaf takes carbon from the air, and your breath gives carbon back. In this lesson you follow both atoms all the way round. You also make compost, and find out why a good compost bin needs two kinds of waste.
 
 ## Learning outcomes
 0. By the end I can explain that living beings do not make or destroy atoms. The same atoms move between the air, water, soil, rocks and living bodies.
@@ -40,7 +40,7 @@
 ### Atoms are kept: living beings only move them and join them in new ways · *defined*
 **Definition:** A matter cycle is the path that one kind of atom takes between the air, water, soil, rocks and living beings. No living being makes atoms or destroys them.
 
-When a seed grows into a tree, the tree's body has to come from somewhere. When a log rots, what the log was made of has to go somewhere. Chemists have weighed what goes in and what comes out of burning, rotting, growing and breathing. The weights always match. So every atom in a living body was somewhere else before, and will be somewhere else later. Almost no matter reaches the Earth from space or leaves it. The Earth has been using the same atoms for about four and a half billion years. Energy is different. Energy arrives from the Sun every day and leaves again as heat. This unit follows two kinds of atom, carbon and nitrogen.
+When a seed grows into a tree, the tree's body has to come from somewhere. When a log rots, what the log was made of has to go somewhere. Chemists have weighed what goes in and what comes out of burning, rotting, growing and breathing. The weights always match. So every atom in a living body was somewhere else before, and will be somewhere else later. Almost no matter reaches the Earth from space or leaves it. The Earth has been using the same atoms for about four and a half billion years. Energy is different. Energy arrives from the Sun every day and leaves again as heat. This lesson follows two kinds of atom, carbon and nitrogen.
 - e.g. The water you drink has been rain, river, sea and cloud many times before.
 - e.g. A carbon atom in your breakfast idli was in the air above a paddy field a few months ago.
 - e.g. In the project Bottle World, nothing goes into a sealed jar except light. The plant inside goes on living, because the atoms in the jar go round.
@@ -79,6 +79,7 @@ Every living being needs nitrogen. Proteins are built from it, and so are genes.
 - e.g. A paddy plant short of nitrogen has pale yellow older leaves and stays small.
 - e.g. A packet of chips is filled with nitrogen gas to keep the chips crisp. The gas is used because it hardly reacts with anything.
 - e.g. In Browns, Greens or Both, the bottle of paper and dry leaves stood in air full of nitrogen and still rotted slowly.
+- e.g. The air around Earth is a mix of gases. About 78 in every 100 particles are nitrogen, about 21 are oxygen, and only a tiny share is carbon dioxide.
 ### The nitrogen fixers: who can open the pair · *defined*
 **Definition:** Nitrogen fixing means changing nitrogen gas into ammonia, a form that living beings can use. Certain bacteria do it. Lightning and fertiliser factories do it too.
 
@@ -578,9 +579,9 @@ In the last week of February she went out alone with the weeding blade. The kiln
   - Check: Why does rain wash nitrate fertiliser out of a bare field so easily? → **Nitrate dissolves in water**
 
 ## Worksheets
-### The Two Cycles (core) (core, 15 questions)
+### The Two Cycles (core) (core, 16 questions)
 1. (mcq) Where does most of the dry weight of a tree come from?  
-   Options: The soil / Water only / Carbon dioxide in the air / Sunlight  
+   Options: The soil / Water only / Sunlight / Carbon dioxide in the air  
    **Answer:** Carbon dioxide in the air. *Why:* A leaf takes carbon dioxide from the air and builds sugar, and the tree builds wood from sugar. Soil gives water and minerals, which are a small part of the weight. Sunlight gives energy, and energy has no weight to add.
 2. (truefalse) True or false: when a log rots, the atoms of the log are destroyed.  
    **Answer:** False. *Why:* False. Decomposers take the log apart. The atoms move into the air, the soil and the decomposers' own bodies. No atom is destroyed.
@@ -600,17 +601,19 @@ In the last week of February she went out alone with the weeding blade. The kiln
    Options: Groundnut / Black gram / Rice / Beans  
    **Answer:** 2. *Why:* Rice is a grass. Groundnut, black gram and beans are of the bean family, and keep nitrogen-fixing bacteria in their root nodules.
 10. (mcq) Why can a paddy plant not use the nitrogen in the air?  
-   Options: The air has too little nitrogen / Nitrogen atoms are held in tight pairs / Nitrogen gas poisons plants / Paddy leaves have no holes  
+   Options: Nitrogen atoms are held in tight pairs / The air has too little nitrogen / Nitrogen gas poisons plants / Paddy leaves have no holes  
    **Answer:** Nitrogen atoms are held in tight pairs. *Why:* The air is mostly nitrogen, so there is plenty. But each nitrogen atom is joined very strongly to a partner, and a plant has no enzyme to split them.
 11. (truefalse) True or false: about 78 of every 100 particles of air are nitrogen.  
    **Answer:** True. *Why:* True. Most of the air is nitrogen gas. Oxygen is about 21 of every 100, and carbon dioxide is far less than 1.
-12. (fill) A root nodule that is fixing nitrogen is ____ inside.  
+12. (fill) About ___ in every 100 particles of air is oxygen.  
+   **Answer:** ['21']. *Why:* Oxygen is about 21 of every 100 particles of air. Nitrogen is far more, at about 78.
+13. (fill) A root nodule that is fixing nitrogen is ____ inside.  
    **Answer:** ['pink', 'red']. *Why:* The colour comes from a red protein that carries oxygen to the bacteria in small amounts. A white or green nodule is not working.
-13. (label) Label each store of carbon 'fast' or 'slow': a leaf, limestone, a cow, coal.  
+14. (label) Label each store of carbon 'fast' or 'slow': a leaf, limestone, a cow, coal.  
    **Answer:** ['A leaf: fast', 'Limestone: slow', 'A cow: fast', 'Coal: slow']. *Why:* Carbon passes through leaves and animals within months or years. Carbon in rock and coal stays for millions of years.
-14. (perspective) A compost bin on a balcony smells bad. Two neighbours give different advice.  
+15. (perspective) A compost bin on a balcony smells bad. Two neighbours give different advice.  
    **Answer:** A strong answer agrees with the second neighbour and uses the test: the bottle of only greens smelled, and the mix did not. It also grants that the first neighbour is right about one thing. A badly kept bin does smell, and neighbours should not have to put up with it.. *Why:* The smell is real, and so is the cure. A bin smells when it is too wet and has too little air, and browns fix both.
-15. (mcq) Used tea leaves look brown. Why do they count as a 'green' in compost?  
+16. (mcq) Used tea leaves look brown. Why do they count as a 'green' in compost?  
    Options: They are wet and rich in nitrogen / They were green once / They smell pleasant / They are in small pieces  
    **Answer:** They are wet and rich in nitrogen. *Why:* The words brown and green are about carbon and nitrogen. Tea leaves are rich in nitrogen and hold water, so they act as greens whatever their colour.
 ### Following the Atoms (stretch) (stretch, 15 questions)
@@ -651,7 +654,7 @@ In the last week of February she went out alone with the weeding blade. The kiln
 1. (write) Peas in clean sand grew well only when soil water was added. Why was boiled soil water tested too?  
    **Answer:** Boiling kills the bacteria in the soil water and leaves everything else in it. The peas given boiled soil water grew badly and made no nodules. So the living bacteria made the difference, and not something dissolved in the water.. *Why:* A strong answer says that the two pots differed in only one thing, living bacteria. That is what makes the test fair.
 2. (mcq) The air's carbon dioxide went from 317 parts in a million to 427. About how much did it rise?  
-   Options: By about a tenth / By about a third / It doubled / It halved  
+   Options: By about a tenth / It doubled / By about a third / It halved  
    **Answer:** By about a third. *Why:* The rise is 427 − 317 = 110. One third of 317 is about 106. So the amount rose by about a third in 65 years.
 3. (perspective) Do living beings keep the Earth's air steady? Two scientists disagree.  
    **Answer:** A strong answer gives evidence for each. For the first: living beings made the oxygen in the air, and forests take up part of the extra carbon dioxide. For the second: long ago, bacteria filled the air with oxygen that poisoned many others, and today one kind of animal is changing the air fast.. *Why:* Both agree that living beings shape the air. They disagree about whether anything holds it steady. Scientists still argue about this.
@@ -671,7 +674,7 @@ In the last week of February she went out alone with the weeding blade. The kiln
    Options: Rain washing nitrate away / Taking the harvested grain away / Bacteria in the nodules of a dal crop / Denitrifying bacteria in wet mud  
    **Answer:** 2. *Why:* Bacteria in root nodules bring new nitrogen in from the air. The other three carry nitrogen out of the field.
 11. (mcq) Why is urea in India coated with neem oil?  
-   Options: To slow bacteria who make nitrate / To give it a better smell / To add more nitrogen / To make it dissolve faster  
+   Options: To give it a better smell / To slow bacteria who make nitrate / To add more nitrogen / To make it dissolve faster  
    **Answer:** To slow bacteria who make nitrate. *Why:* Nitrate is easily washed away. Neem slows the soil bacteria who make nitrate, so the nitrogen stays near the roots for longer.
 12. (write) In Carbon Journey, a six lets you leave the rock. What does the game get wrong about real rock?  
    **Answer:** In the game you leave the rock after a few throws. A real carbon atom can stay in rock for millions of years, far longer than in any other store. The game shows which stores are slow, but it cannot show how slow.. *Why:* A strong answer says what the model shows well and what it leaves out. Every model leaves something out.
@@ -680,7 +683,7 @@ In the last week of February she went out alone with the weeding blade. The kiln
 14. (truefalse) True or false: a planted tree locks carbon away for millions of years, as coal does.  
    **Answer:** False. *Why:* False. A tree holds carbon for decades or a few centuries. When the tree rots or burns, the carbon goes back to the air.
 15. (mcq) Which is true of the cells in the body of a 40-year-old person?  
-   Options: Most are much younger than 40 / All are exactly 40 years old / All are replaced every day / None contain any carbon  
+   Options: All are exactly 40 years old / All are replaced every day / Most are much younger than 40 / None contain any carbon  
    **Answer:** Most are much younger than 40. *Why:* The body is rebuilt all the time with atoms from food. Most cells are replaced within years. A few kinds, such as some nerve cells, last a lifetime.
 
 ## Videos
@@ -690,13 +693,13 @@ In the last week of February she went out alone with the weeding blade. The kiln
 
 ## Quiz
 1. (mcq) A mango leaf falls and rots away. What happens to the atoms of the leaf?  
-   Options: They are destroyed / They move into air, soil and living beings / They turn into energy / They stay in the leaf for ever  
+   Options: They are destroyed / They turn into energy / They stay in the leaf for ever / They move into air, soil and living beings  
    **Answer:** They move into air, soil and living beings. *Why:* Decomposers take the leaf apart. The carbon goes mostly to the air as carbon dioxide, and the nitrogen goes to the soil. Atoms are not destroyed and do not turn into energy when something rots.
 2. (mcq) Which of these takes carbon out of the air?  
-   Options: A rotting log / A goat breathing / A neem tree in sunlight / A burning lamp  
+   Options: A rotting log / A neem tree in sunlight / A goat breathing / A burning lamp  
    **Answer:** A neem tree in sunlight. *Why:* Only photosynthesis takes carbon dioxide out of the air. Rotting, breathing and burning all put carbon dioxide in.
 3. (mcq) Coal is burnt at a power station. Where was its carbon before the coal formed?  
-   Options: It was always underground / In ancient plants, and earlier in the air / Only in sea water / Inside volcanoes  
+   Options: In ancient plants, and earlier in the air / It was always underground / Only in sea water / Inside volcanoes  
    **Answer:** In ancient plants, and earlier in the air. *Why:* Coal formed from plants buried hundreds of millions of years ago. Those plants took their carbon from the air by photosynthesis. Burning coal puts that old carbon back in the air.
 4. (mcq) Air is mostly nitrogen. Why do crops still go short of nitrogen?  
    Options: Plants cannot split the paired nitrogen atoms / Nitrogen gas is too heavy to reach leaves / The air has nitrogen only at night / Crops do not need nitrogen  
@@ -708,23 +711,26 @@ In the last week of February she went out alone with the weeding blade. The kiln
    Options: Decomposers and other soil bacteria / The Sun / The cow / The rain  
    **Answer:** Decomposers and other soil bacteria. *Why:* Soil microbes change the nitrogen in urine and dung into ammonium and nitrate, which roots can take up. Rain only moves the nitrogen. It does not change its form.
 7. (mcq) In waterlogged soil, bacteria change nitrate into nitrogen gas. Where does that nitrogen go?  
-   Options: Back into the air / Into rocks / Into plant roots / It is destroyed  
+   Options: Into rocks / Into plant roots / It is destroyed / Back into the air  
    **Answer:** Back into the air. *Why:* Denitrifying bacteria give off nitrogen gas, which goes back to the air. This closes the nitrogen cycle. Plant roots cannot take up nitrogen gas.
 8. (mcq) Which mix makes compost quickly, without a bad smell?  
-   Options: Only dry leaves / Only wet peels / About two parts browns to one part greens / Only soil  
+   Options: Only dry leaves / Only wet peels / Only soil / About two parts browns to one part greens  
    **Answer:** About two parts browns to one part greens. *Why:* Decomposers need carbon and nitrogen together, with air and water. Dry leaves alone have too little nitrogen. Wet peels alone pack down, lose their air and smell.
 9. (mcq) A heap of only fresh grass smells sharp, like ammonia. What is leaving the heap?  
-   Options: Carbon, as coal / Nitrogen, as a gas / Only water / Nothing is leaving  
+   Options: Nitrogen, as a gas / Carbon, as coal / Only water / Nothing is leaving  
    **Answer:** Nitrogen, as a gas. *Why:* Ammonia is a gas of nitrogen and hydrogen. Fresh grass has more nitrogen than the decomposers can use, and the spare nitrogen escapes. Adding browns keeps it in the heap.
 10. (mcq) Carbon dioxide in the air has risen since 1960. What is the main cause?  
-   Options: Burning coal, oil and gas / More people breathing out / More volcanoes / The Sun growing hotter  
+   Options: More people breathing out / More volcanoes / The Sun growing hotter / Burning coal, oil and gas  
    **Answer:** Burning coal, oil and gas. *Why:* Fossil fuels hold carbon that was out of the air for millions of years. Breath only returns carbon that plants took out a few months before, so it adds nothing new.
 11. (mcq) Rain washes spare nitrogen fertiliser from fields into a lake. What can follow?  
    Options: Algae multiply, and later fish may die / The water becomes salty / The lake dries up / Nothing changes in the lake  
    **Answer:** Algae multiply, and later fish may die. *Why:* The nitrogen feeds algae, and the water turns green. When the algae die, decomposers eating them use up the oxygen in the water, and fish can die.
 12. (mcq) Which of these is a flow, not a store?  
-   Options: The carbon in a coal seam / The nitrogen in the air / A leaf taking in carbon dioxide / The carbon dissolved in the sea  
+   Options: The carbon in a coal seam / The nitrogen in the air / The carbon dissolved in the sea / A leaf taking in carbon dioxide  
    **Answer:** A leaf taking in carbon dioxide. *Why:* A store is an amount that stays somewhere. A flow is a movement between stores. A leaf taking in carbon dioxide moves carbon from the air into the plant.
+13. (mcq) Air around Earth is a mix of gases. Which gas makes up the largest share?  
+   Options: Nitrogen / Carbon dioxide / Oxygen / Steam  
+   **Answer:** Nitrogen. *Why:* About 78 in every 100 particles of air are nitrogen. Oxygen is about 21, and carbon dioxide is only a tiny share. Steam is not a fixed part of the air; it changes with the weather.
 
 ## Applications
 - Farmers in the Cauvery delta sow black gram after paddy. Bacteria in the root nodules fix nitrogen from the air, so the crop needs little bought fertiliser.
@@ -791,14 +797,23 @@ Everybody Eats (sci.ecology.L5): Topic-level song
 - [The Carbon Cycle, from NASA Earth Observatory](https://earthobservatory.nasa.gov/features/CarbonCycle) · interactive: For the parent: a clear account of the fast and slow carbon cycles, with diagrams.
 - [Agritech Portal of Tamil Nadu Agricultural University](https://agritech.tnau.ac.in/) · interactive: For the parent: how farmers in Tamil Nadu grow black gram after paddy, and how they coat the seed with nitrogen-fixing bacteria.
 - [Daily Dump](https://www.dailydump.org/) · interactive: For the parent: plain guides to composting at home in an Indian flat, from a group in Bengaluru.
-- [Regional Museum of Natural History]() · place · Mysuru, Karnataka: Galleries on how living beings depend on each other and on the soil, air and water.
-- [Botanical Garden of Tamil Nadu Agricultural University]() · place · Coimbatore, Tamil Nadu: Look for plants of the bean family, and at the dark leaf litter under the old trees.
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru, Karnataka: A science museum with hands-on exhibits. Ask which exhibits show gases, burning and energy.
+- Regional Museum of Natural History · place · Mysuru, Karnataka: Galleries on how living beings depend on each other and on the soil, air and water.
+- Botanical Garden of Tamil Nadu Agricultural University · place · Coimbatore, Tamil Nadu: Look for plants of the bean family, and at the dark leaf litter under the old trees.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru, Karnataka: A science museum with hands-on exhibits. Ask which exhibits show gases, burning and energy.
 
 ## Things to buy
 - [A pad of graph paper](https://www.amazon.in/s?k=graph+paper+pad+a4) (material): For the line graph in Read the Keeling Curve. A squared maths notebook also works. Used in a5. 
 - [A terracotta home composter with air holes](https://www.amazon.in/s?k=terracotta+home+composter) (tool): For a family who wants to go on composting after the three-bottle test. A large flowerpot with a hole in the base and a lid also works. Used in e1, c1. Start it after Browns, Greens or Both, using the mix that worked best. Add greens and twice as many browns each day.
 - [The Alchemy of Air, by Thomas Hager (for the parent)](https://www.amazon.in/s?k=The+Alchemy+of+Air+Thomas+Hager) (book): Tells the true story of Fritz Haber and Carl Bosch, and how fixing nitrogen in a factory changed farming and the world. Used in a4. For the parent to read alongside the unit. It goes well with The Nitrogen Relay and the card on how people have changed the nitrogen cycle.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Browns, Greens or Both: which bottle rots best?, Read the Keeling Curve: 65 years of air on one page. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a5. Get it before Browns, Greens or Both: which bottle rots best?.
+- [A dropper](https://www.amazon.in/s?k=plastic+dropper) (tool): Used in Keep It in the Field: stop the rain from washing fertiliser away. About ₹10 to ₹40. A clean pen refill or straw with a finger on top can drop water. Used in c2. Get it before Keep It in the Field: stop the rain from washing fertiliser away.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Keep It in the Field: stop the rain from washing fertiliser away. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in c2. Get it before Keep It in the Field: stop the rain from washing fertiliser away.
+- [Food colour](https://www.amazon.in/s?k=food+colour+liquid) (material): Used in Keep It in the Field: stop the rain from washing fertiliser away. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it. Used in c2. Get it before Keep It in the Field: stop the rain from washing fertiliser away.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Browns, Greens or Both: which bottle rots best?, Two Heaps: sort one day's waste, Rescue the Smelly Bottle. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e1, a1, c1. Get it before Browns, Greens or Both: which bottle rots best?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Root Dig: look for nodules (if you have a garden, a park or a farm nearby). Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a6. Get it before Root Dig: look for nodules (if you have a garden, a park or a farm nearby).
+- [Marbles (a few)](https://www.amazon.in/s?k=glass+marbles+pack) (material): Used in The Nitrogen Relay: pass one atom all the way round. About ₹10 to ₹40. Small round stones or dried chana. Used in a4. Get it before The Nitrogen Relay: pass one atom all the way round.
+- [Iron nails or iron filings](https://www.amazon.in/s?k=iron+filings+science) (material): Used in Rescue the Smelly Bottle. About ₹20 to ₹80. Short steel nails from a hardware shop. Used in c1. Get it before Rescue the Smelly Bottle.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What gas is most of the air made of? → Nitrogen.
@@ -818,7 +833,7 @@ Everybody Eats (sci.ecology.L5): Topic-level song
 - ideas/by_topic/living-in-harmony.md: the notebook's line for this topic that harmony needs give and take, that too much imbalance brings instability, and that invisible flows maintain life. Used for stores and flows, and for what people have changed in the two cycles
 - Notebook items bio:60, bio:61, bio:62 and bio:197, from the curriculum entry for this subtopic
 - combined/sci-C5-living-in-harmony.json: the subconcepts 'energy flows one way, but atoms go round and round' and 'decomposers breathe out carbon dioxide, returning carbon to the air', taken further here. Its story is not reused
-- The Level 3 and Level 4 units of this subtopic (the chapati mould test, bottle compost, the Breathing Soil limewater test, the Rot Race, matter goes round and energy goes through), so that this unit leads on from them without repeating
+- The Level 3 and Level 4 units of this subtopic (the chapati mould test, bottle compost, the Breathing Soil limewater test, the Rot Race, matter goes round and energy goes through), so that this lesson leads on from them without repeating
 - knowledge/by_subtopic.json: OpenStax Biology 2e, 'Biogeochemical Cycles' and 'Prokaryotic Metabolism', and OpenStax Microbiology, 'Biogeochemical Cycles', for facts only
 - NOAA Global Monitoring Laboratory, Mauna Loa annual mean carbon dioxide (316.91 in 1960, 427.35 in 2025), read on 18 November 2026
 - Friedlingstein and others, Global Carbon Budget 2024, Earth System Science Data 2025: about 41.6 billion tonnes of carbon dioxide a year, 48 percent staying in the air, 26 percent taken up by the sea and 29 percent by the land

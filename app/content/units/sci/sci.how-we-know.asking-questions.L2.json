@@ -28,6 +28,12 @@
    "art": "A child dropping a steel spoon into a glass tumbler of water, with a tick mark beside it."
   },
   {
+   "term": "Source",
+   "meaning": "A book, chart or map made by someone else, which you can read to find an answer.",
+   "example": "A rainfall chart in an atlas is a source. You read it to see which month has the most rain.",
+   "art": "A child reading a bar chart in an open atlas, with a finger on the tallest bar."
+  },
+  {
    "term": "Prediction",
    "meaning": "A prediction is what you think will happen, and why, said before you try. It is a guess with a reason.",
    "example": "'The crumpled paper will land first, because it is a small ball and the air slows it less.'",
@@ -75,11 +81,24 @@
    "art": "Four boxes on a page: a spoon sinking in water with a tick, a mango and a banana with two smiling faces, a dark starry sky with a question mark, and a grandmother talking to a child."
   },
   {
+   "concept": "A book or a chart can answer some questions",
+   "status": "defined",
+   "context": "This card is about questions that other people have already answered in a book or on a chart.",
+   "definition": "A source is a book, chart or map made by someone else that you can read to find an answer.",
+   "description": "You cannot test everything yourself. You cannot visit a rainforest to see what lives there before dinner. But people have watched, measured and written it down. A book, a picture chart or a table in your class book is a source. You read it, find the part that matches your question, and take the answer from it. A good source says who made it. If two sources give different answers, that is a new question to look into.",
+   "examples": [
+    "How many days a chick takes to hatch? A poultry chart or a book of birds can tell you. You do not need your own hen.",
+    "Which month brings most rain to your town? Look along the rainfall chart in an atlas and find the tallest bar."
+   ],
+   "perspectives": [],
+   "art": "A child with a finger on a bar chart in a book, next to a question written on a slip of paper."
+  },
+  {
    "concept": "A prediction is a guess with a reason",
    "status": "defined",
    "context": "This card is about what a prediction is, and why we say the reason too.",
    "definition": "A prediction says what you think will happen in a test, and why you think so, before the test starts.",
-   "description": "'I think the bottle will fall' is a guess. 'I think the bottle will fall, because rice is loose and slippery' is a prediction, because it has a reason. If the bottle lifts, the reason shows which idea to change. Say your prediction before the test. If you wait until after the test, anyone can say 'I knew it!', even when they did not. A prediction said before the test cannot be faked.",
+   "description": "'I think the bottle will fall' is a guess. 'I think the bottle will fall, because rice is loose and slippery' is a prediction, because it has a reason. If the bottle lifts, the reason shows which idea to change. Say your prediction before the test. If you wait until after the test, anyone can say 'I knew it!', even when they did not. A prediction said before the test cannot be faked. After a test, put your result next to your prediction. If they match, we say the result supports your prediction. If they do not match, the result does not support it. Either way, say why. A result that supports a prediction does not prove it for ever. It only tells you that this test agreed.",
    "examples": [
     "'The ice will float, because I have seen ice floating in a glass of water.'",
     "'The crumpled paper will land first, because it is smaller, so the air pushes it less.'",
@@ -408,10 +427,10 @@
       "t": "mcq",
       "q": "Which pile does 'Which song is the best song?' go in?",
       "options": [
-       "We can test it by trying",
-       "We can't test it by trying"
+       "We can't test it by trying",
+       "We can test it by trying"
       ],
-      "a": 1,
+      "a": 0,
       "why": "It is an opinion. Each person likes different songs, and no test can show one right answer. If you chose 'test it', think: what would you do, and would everyone agree?"
      }
     },
@@ -528,11 +547,11 @@
       "t": "mcq",
       "q": "You predicted the lemon would sink, but it floated. What gets you a point?",
       "options": [
-       "Saying a reason for your prediction",
        "Pretending you said 'float'",
+       "Saying a reason for your prediction",
        "Nothing, because you were wrong"
       ],
-      "a": 0,
+      "a": 1,
       "why": "In this game a reason always earns a point, even when the prediction is wrong. A reason shows which idea to change. Pretending is never allowed, because then the test can't teach you anything."
      }
     },
@@ -918,10 +937,10 @@
       "q": "Can anyone predict every coin shake right?",
       "options": [
        "Yes, if they try hard",
-       "No, each shake lands by chance",
-       "Yes, grown-ups can"
+       "Yes, grown-ups can",
+       "No, each shake lands by chance"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A coin lands heads or tails by chance, so nobody can predict one shake for sure. Over many shakes, about half come out heads. If you chose 'yes', look at your crosses: you tried hard and still got some wrong."
      }
     }
@@ -1286,11 +1305,11 @@
    "t": "mcq",
    "p": "Which question can you test by trying?",
    "opts": [
-    "Does a steel spoon sink in water?",
     "Which colour is the prettiest?",
+    "Does a steel spoon sink in water?",
     "Is Holi more fun than Pongal?"
    ],
-   "a": 0,
+   "a": 1,
    "why": "You can drop a spoon in water and everyone will see it sink. The other two are opinions: each person's answer is true for them.",
    "outcome": 0
   },
@@ -1311,10 +1330,10 @@
    "p": "Which one is a prediction?",
    "opts": [
     "The ice floated.",
-    "I think the ice will float, because ice in my drink floats.",
-    "I like ice."
+    "I like ice.",
+    "I think the ice will float, because ice in my drink floats."
    ],
-   "a": 1,
+   "a": 2,
    "why": "A prediction says what you think will happen, and why, before the test. 'The ice floated' is a result, after the test.",
    "outcome": 1
   },
@@ -1322,11 +1341,11 @@
    "t": "mcq",
    "p": "When should you say your prediction?",
    "opts": [
-    "Before the test",
     "After the test",
-    "Only if you are sure"
+    "Only if you are sure",
+    "Before the test"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A prediction comes before the test, so the test can show if it was right. After a test, anyone can say 'I knew it', even when they did not.",
    "outcome": 1
   },
@@ -1360,11 +1379,11 @@
    "how": "a1",
    "p": "Which can you predict right every single time?",
    "opts": [
-    "A spoon you let go of will fall",
     "A coin will land heads",
+    "A spoon you let go of will fall",
     "A die will show six"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The Earth pulls a spoon down every time. A coin and a die land by chance.",
    "outcome": 4
   },
@@ -1392,13 +1411,37 @@
    "t": "mcq",
    "p": "A comet comes back about every 76 years. On its trip it passes near big planets like Jupiter and Saturn. Why might it come back a little later than expected?",
    "opts": [
-    "The pull of the big planets can slow it down",
     "It gets tired",
+    "The pull of the big planets can slow it down",
     "Comets always come early"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Big planets pull on things that pass near them. Working out these pulls makes a prediction more exact.",
    "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "Rohan predicted that the big ball would bounce higher, because it is heavier. The small ball bounced higher. What should he say?",
+   "opts": [
+    "The result does not support my prediction, so I need to rethink my reason",
+    "The result supports my prediction",
+    "The test is wrong, so I will bounce them again until the big ball wins"
+   ],
+   "a": 0,
+   "why": "The result and the prediction do not match, so the result does not support it. Rohan should write it down and change his idea. Bouncing again until the big ball wins would not be a fair look at what really happened.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "Which question can a book or chart answer, when you cannot go and test it yourself?",
+   "opts": [
+    "Which fruit is the tastiest?",
+    "Is blue prettier than green?",
+    "What do giraffes eat in the wild?"
+   ],
+   "a": 2,
+   "why": "People who watched giraffes have written down what they eat, so a book can tell you. The other two are opinions, and no book can say which one is true for you.",
+   "outcome": 0
   }
  ],
  "worksheets": [
@@ -1521,11 +1564,11 @@
      "how": "e2",
      "p": "In the Lucky Blow test, why do we roll 30 times each, and not just once?",
      "opts": [
-      "One roll can be a fluke",
       "To make the die tired",
-      "Because 30 is a lucky number"
+      "Because 30 is a lucky number",
+      "One roll can be a fluke"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A die lands by chance, so one roll tells us almost nothing. Many rolls show what usually happens."
     },
     {
@@ -1541,6 +1584,34 @@
      "lines": 2,
      "a": "For example: because everyone likes different fruits. My best fruit is mango, but my friend's is banana.",
      "why": "A strong answer says it is an opinion, and that different people's answers are all true for them."
+    },
+    {
+     "t": "sort",
+     "p": "Aisha predicted: 'A steel spoon will sink in water.' Sort each result into 'Supports her prediction' or 'Does not support it'.",
+     "cats": [
+      "Supports her prediction",
+      "Does not support it"
+     ],
+     "items": [
+      [
+       "The spoon went to the bottom of the tumbler",
+       "Supports her prediction"
+      ],
+      [
+       "The spoon stayed floating on top",
+       "Does not support it"
+      ],
+      [
+       "The spoon sank straight away",
+       "Supports her prediction"
+      ],
+      [
+       "The spoon bobbed on the surface",
+       "Does not support it"
+      ]
+     ],
+     "a": "see items",
+     "why": "A result supports a prediction when it matches. When it does not match, it does not support it, and that is still worth writing down."
     }
    ]
   },
@@ -1597,11 +1668,11 @@
      "t": "mcq",
      "p": "We can never visit a star. But each material gives out its own colours of light. How could we still find out what stars are made of?",
      "opts": [
-      "By looking at the colours in starlight",
       "We can never know anything about it",
-      "By bringing back a piece of a star"
+      "By bringing back a piece of a star",
+      "By looking at the colours in starlight"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Each material gives out its own pattern of colours. Matching the colours in starlight to these patterns shows that stars are mostly hydrogen and helium."
     },
     {
@@ -1636,11 +1707,11 @@
      "t": "mcq",
      "p": "Forecasters say it will probably rain tomorrow. It doesn't. What does that show?",
      "opts": [
-      "Weather can be predicted often, but not every time",
       "Forecasts are always wrong",
-      "It will never rain again"
+      "It will never rain again",
+      "Weather can be predicted often, but not every time"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Weather depends on many things that keep changing. Forecasters use measurements and are right often, but not always."
     },
     {
@@ -1677,6 +1748,15 @@
      "lines": 2,
      "a": "For example: 'Is there life near another star?' We can't go there yet.",
      "why": "A strong answer gives a real reason: too far, too long ago, or too small to see with the tools we have."
+    },
+    {
+     "t": "fill",
+     "p": "Your class chart says a bean plant was 1 cm tall on Day 2, 3 cm on Day 4 and 6 cm on Day 6. How tall was it on Day 4? ________ cm",
+     "a": [
+      "3",
+      "3 cm"
+     ],
+     "why": "You read a chart by finding the row for your question and reading across. The person who made the chart measured the plant, so you can use their answer."
     }
    ]
   }
@@ -1845,7 +1925,55 @@
    "why": "A large hands-on science centre where children can try experiments and ask why."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-a-small-funnel",
+   "item": "A small funnel",
+   "kind": "tool",
+   "why": "Used in The Rice Bottle Lift: can a pencil lift a bottle of rice?. About ₹20 to ₹50. The top of a cut plastic bottle works.",
+   "url": "https://www.amazon.in/s?k=small+plastic+funnel",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before The Rice Bottle Lift: can a pencil lift a bottle of rice?."
+  },
+  {
+   "id": "b-wooden-ice-cream-sticks--a-p",
+   "item": "Wooden ice-cream sticks (a pack)",
+   "kind": "material",
+   "why": "Used in The Rice Bottle Lift: can a pencil lift a bottle of rice?. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in.",
+   "url": "https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before The Rice Bottle Lift: can a pencil lift a bottle of rice?."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in Guess the Grains: predict, count, predict again. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before Guess the Grains: predict, count, predict again."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "What do we call a guess with a reason, said before a test?",

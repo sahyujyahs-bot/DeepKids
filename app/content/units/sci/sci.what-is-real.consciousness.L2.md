@@ -1,7 +1,7 @@
 # Being aware: how you notice the world, and what it is like to be you
 `sci.what-is-real.consciousness.L2`
 
-**Summary.** The fan hums all evening, yet most of the time you do not hear it. Why not? In this unit you will count the sounds you notice when you are busy and when you sit still, and taste the same lemon as your family to see whether everyone feels the same sour.
+**Summary.** The fan hums all evening, yet most of the time you do not hear it. Why not? In this lesson you will count the sounds you notice when you are busy and when you sit still, and taste the same lemon as your family to see whether everyone feels the same sour.
 
 **Intro.** *Can you hear the fan right now? Could you hear it a minute ago?* Stop and listen for ten seconds. You may hear the fan, the fridge, a horn on the road or a bird. Most of these sounds were there before you stopped. You were not noticing them. Being aware of something means you know or feel that it is there. So what decides which sounds you are aware of?
 
@@ -22,6 +22,7 @@
 - **Senses**: Your senses are how your body takes in the world: seeing, hearing, smelling, tasting and touching, and more. *e.g.* Your ears take in the sound of rain on the window.
 - **Getting used to (habituation)**: Getting used to something means you stop noticing it because it goes on and on. Scientists call this habituation. *e.g.* After a few minutes in a room, you stop noticing the smell of the incense.
 - **Dream**: A dream is what you are aware of during sleep: pictures, sounds and stories your sleeping mind makes. *e.g.* You might dream you are riding an elephant through Mysuru.
+- **Reflex**: A reflex is something your body does by itself, before you choose. It is quick because the signal does not wait for you to think. *e.g.* When a speck flies towards your face, your eyes blink before you decide to. That blink is a reflex.
 
 ## Explanations
 ### Being aware · *defined*
@@ -67,6 +68,7 @@ Every living being notices their world in their own way. An ant notices the smel
 - **Many scientists who signed the New York Declaration on Animal Consciousness, 2024:** There is strong evidence that mammals and birds are aware, and a real chance that fish, octopuses, crabs and insects are too.
 - **Most brain scientists:** Awareness is something brains do. Plants have no brain. Plants do sense and respond, but these scientists say that happens automatically, without awareness.
 - **Plant scientists such as Monica Gagliano, and thinkers such as Philip Goff:** Sensing, choosing and remembering happen in plants too. Some thinkers say every bit of the world has some awareness.
+- **Gordon Gallup (born 1941), USA, and Masanori Kohda and colleagues (2019), Japan:** In 1970 Gallup put a coloured mark on chimpanzees' faces while they were asleep under anaesthetic, and when they woke and looked in a mirror they touched the mark on their own faces. This 'mirror test' became a way to ask whether an animal knows herself. In 2019 Kohda's team reported that small cleaner fish with a mark on their throat tried to scrape it off after seeing themselves in a mirror. Gallup and others doubted the fish result, and whether the test really measures knowing yourself is still argued.
 
 ## Mostly agreed
 - You notice only a small part of what your senses take in. Attention picks out what you notice. *How we know:* In 1999, Daniel Simons and Christopher Chabris asked people to count ball passes in a short film. About half of them did not notice a person in a gorilla suit walking through the middle.
@@ -105,7 +107,7 @@ In the sound test, we counted the sounds we noticed when busy and when sitting s
 
 At any moment there is one world of sound in your flat. You, a grown-up at home, a crow on the ledge and an ant on the floor each notice a different part of it. Each of them is aware in their own way. Some thinkers say awareness runs through all of them, and through everything, down to the smallest particle. So one world is being noticed in countless ways at once.
 
-- **Mandukya Upanishad, verses 3 to 7:** “जागरितस्थानो बहिः प्रज्ञः सप्ताङ्गः एकोनविंशतिमुखः स्थूलभुग्वैश्वानरः प्रथमः पादः / स्वप्नस्थानोऽन्तः प्रज्ञः सप्ताङ्ग एकोनविंशतिमुखः प्रविविक्तभुक्तैजसो द्वितीयः पादः / यत्र सुप्तो न कञ्चन कामं कामयते न कञ्चन स्वप्नं पश्यति तत्सुषुप्तम् / नान्तःप्रज्ञं न बहिःप्रज्ञं नोभयतःप्रज्ञं न प्रज्ञानघनं न प्रज्ञं नाप्रज्ञम् / अदृष्टमव्यवहार्यमग्राह्यमलक्षणमचिन्त्यमव्यपदेश्यमेकात्मप्रत्ययसारं प्रपञ्चोपशमं शान्तं शिवमद्वैतं चतुर्थं मन्यन्ते” This Upanishad describes three states: waking, when we are aware of the world outside; dreaming, when we are aware of a world inside; and deep sleep, when we are aware of almost nothing. It names a fourth state, turiya: the awareness that is there through all three. (In this unit you sorted moments into awake, dreaming and deep sleep. Sleep scientists also find that awareness changes through a night.)
+- **Mandukya Upanishad, verses 3 to 7:** “जागरितस्थानो बहिः प्रज्ञः सप्ताङ्गः एकोनविंशतिमुखः स्थूलभुग्वैश्वानरः प्रथमः पादः / स्वप्नस्थानोऽन्तः प्रज्ञः सप्ताङ्ग एकोनविंशतिमुखः प्रविविक्तभुक्तैजसो द्वितीयः पादः / यत्र सुप्तो न कञ्चन कामं कामयते न कञ्चन स्वप्नं पश्यति तत्सुषुप्तम् / नान्तःप्रज्ञं न बहिःप्रज्ञं नोभयतःप्रज्ञं न प्रज्ञानघनं न प्रज्ञं नाप्रज्ञम् / अदृष्टमव्यवहार्यमग्राह्यमलक्षणमचिन्त्यमव्यपदेश्यमेकात्मप्रत्ययसारं प्रपञ्चोपशमं शान्तं शिवमद्वैतं चतुर्थं मन्यन्ते” This Upanishad describes three states: waking, when we are aware of the world outside; dreaming, when we are aware of a world inside; and deep sleep, when we are aware of almost nothing. It names a fourth state, turiya: the awareness that is there through all three. (In this lesson you sorted moments into awake, dreaming and deep sleep. Sleep scientists also find that awareness changes through a night.)
 - **Satipatthana Sutta, the Buddha's teaching on mindfulness (Majjhima Nikaya 10):** “Puna caparaṁ, bhikkhave, bhikkhu gacchanto vā gacchāmī pajānāti, ṭhito vā ṭhitomhī pajānāti, nisinno vā nisinnomhī pajānāti, sayāno vā sayānomhī pajānāti. / Dīghaṁ vā assasanto dīghaṁ assasāmī pajānāti, dīghaṁ vā passasanto dīghaṁ passasāmī pajānāti,” The Buddha taught: when walking, know that you are walking. When breathing in, know that you are breathing in. (This is attention on purpose. It is what you did in the still round of the sound test, when you noticed sounds you had been missing.)
 - **Zhuangzi, chapter 2:** “昔者莊周夢爲胡蝶，栩栩然胡蝶也，自喻適志與，不知周也。 / 俄然覺，則蘧蘧然周也。 / 不知周之夢爲胡蝶與？ / 胡蝶之夢爲周與？” The Chinese thinker Zhuangzi dreamt he was a butterfly, happily flying about. When he woke, he wondered: was he Zhuangzi who had dreamt of being a butterfly, or a butterfly now dreaming of being Zhuangzi? (A dream feels real while you are in it. Only you have your experience, so it is hard for anyone else to check what it was like.)
 - Science (settled): Attention picks out a small part of everything your senses take in. Many experiments since the 1950s show this.
@@ -294,6 +296,34 @@ She laughed and took his hand. "Appa, sit down on the mat and close your eyes," 
   - Ask: Can we know if two fours feel the same? (good: No, I can only feel my own sour.; We can only tell each other in words and fingers.)
   - Note: Numbers usually differ a little. If everyone showed the same, the question still stands: is your four the same as mine? There is no way to check from the outside. That is the point of the test. Only after the child has said what they think, read the card on what it is like to be you.
   - Think: Your sour is yours. How do other people find out about it?
+### old1 · The Sticker Test: who knows the face in the mirror is their own? (10 min)
+- **problem:** A scientist named Gordon Gallup invented the mirror test in 1970. He put a mark on an animal where it could only see the mark in a mirror. In this experiment you do the same, to find out who knows that the face in the mirror is themselves.
+- **question:** When we put a mark on a face and show a mirror, who touches the mark on their own face?
+- **predict:** Will your child touch the mark? Will a pet? Will a baby? Say why you think so.
+- **fair test:** We use the same kind of sticker in the same place on the forehead, and the same mirror, every time. First we look to see what each one does with the mirror and no sticker. Then we add the sticker. We give each one one try with the sticker, and write down what they really did.
+- **safety:** Use a skin-safe sticker. Never force a person or an animal to look in a mirror. Stop if they seem upset.
+- **record:** Fill in the table with what each one did.
+- **results table:** Who looked in the mirror | Touched the mark on their own face? (yes or no) | What they did
+- **s1 (2 min)**  
+  *Parent does:* Ask your child to guess who will touch the mark. Write the guesses. Then, during a hug or a tickle, put the sticker on your child's forehead without saying anything about it.  
+  *Parent says:* Who will touch the sticker on their own face, do you think? Why?  
+  *Child mode:* Guess who will touch the mark on their face, you, a pet or a baby. Say why you think so.
+  - Note: First show the mirror for a few seconds with no sticker. Watch what your child does. This shows what they do anyway, when nothing is on their face.
+- **s2 (3 min)**  
+  *Parent does:* 1. Hand your child the mirror. 2. Watch for 10 seconds without speaking. 3. Write down if they touched the sticker on their own forehead.  
+  *Parent says:* Look in the mirror. Do not say anything. I will just watch.  
+  *Child mode:* Look in the mirror. What do you see?
+  - Ask: What did you do when you saw the sticker? (good: I touched my forehead.; I knew it was me, so I reached for my own face.)
+- **s3 (3 min)**  
+  *Parent does:* If you have a pet, hold the mirror in front of them for 10 seconds with no sticker, then with a small sticker on the brow or shoulder if the pet allows it. Write down what they did. Do not force them to look. If a toddler is visiting and their parent agrees, try the sticker and mirror with them too.  
+  *Parent says:* What does your pet do? Does it look behind the mirror, ignore it or touch the sticker?  
+  *Child mode:* Hold the mirror in front of the pet. What does the pet do?
+  - Note: Most pets ignore the mirror or treat the reflection as another animal. Children from about 18 months to 2 years often touch the mark. Younger babies often treat the baby in the mirror as a playmate.
+- **s4 (2 min)**  
+  *Parent does:* Fill in the table together. Say what the test can and cannot tell us.  
+  *Parent says:* Touching a mark on your own face after you see it in a mirror shows you know the reflection is you. Chimpanzees, Asian elephants and magpies have passed versions of this test. But a dog lives by smell, so a mirror may not be a fair test for a dog. What other test would you try?  
+  *Child mode:* Fill in the table. What other test could we use for an animal that lives by smell?
+  - Ask: If a dog does not touch the mark, does that mean it does not know itself? (good: No. A dog may know itself by smell, not by sight.; Not for sure. The test uses sight, so it may be unfair for a dog.)
 
 ## Activities
 ### a1 · The Sound That Went Away (10 min)
@@ -355,7 +385,7 @@ She laughed and took his hand. "Appa, sit down on the mat and close your eyes," 
   - Ask: Who was noticing the dream? (good: I was.; My mind, while my body slept.)
 
 ## Projects
-### p1 · My Noticing Diary: five days, five senses (50 min, 5 days)
+### p1 · My Noticing Diary: five days of noticing with our senses (50 min, 5 days)
 - **record:** The five-page diary: a drawing or photo on day 1, and one sentence a day. The child says the sentence and a grown-up can write it.
 - **schedule:** day 1: Seeing: find one thing in your home you have never noticed before, and draw it. (10 min); day 2: Hearing: sit still at a window for two minutes, then tell the sound you had never noticed before. (10 min); day 3: Touch: feel five different surfaces with your eyes shut, such as a cloth, a coin, a leaf, a steel spoon and a sponge. Sort them into rough and smooth, and tell which one surprised you. (10 min); day 4: Smell: smell five things in the kitchen with your eyes shut, such as jeera, coffee, coconut, a lemon and soap. Tell which you like best, and why. (10 min); day 5: Taste: eat one small piece of fruit very slowly, and say how the taste changed. (10 min)
 - **s1 (10 min)**  
@@ -405,7 +435,7 @@ She laughed and took his hand. "Appa, sit down on the mat and close your eyes," 
 2. (fill) Choosing what to notice is called your ___.  
    **Answer:** attention. *Why:* Attention picks out a small part of everything your senses take in.
 3. (match) Draw a line from each word to what it means.  
-   **Answer:** aware → knowing or feeling that something is there; attention → choosing what to notice; experience → what something is like for you. *Why:* These three words are the heart of this unit.
+   **Answer:** aware → knowing or feeling that something is there; attention → choosing what to notice; experience → what something is like for you. *Why:* These three words are the heart of this lesson.
 4. (sort) Sort these sounds into steady sounds we stop noticing, and sudden sounds we notice at once.  
    **Answer:** the fan's hum → Steady: we stop noticing; a cooker whistle → Sudden: we notice at once; the fridge buzzing → Steady: we stop noticing; the doorbell → Sudden: we notice at once; traffic far away → Steady: we stop noticing; a plate falling → Sudden: we notice at once. *Why:* We get used to sounds that go on without changing. A sudden sound is a change, so we notice it.
 5. (write) In the sound test, why did you notice more sounds when you sat still? Say it out loud and a grown-up can write it down.  
@@ -415,10 +445,10 @@ She laughed and took his hand. "Appa, sit down on the mat and close your eyes," 
 7. (write) Name one sound at home that you hardly ever notice. How could you make yourself notice it? Say it out loud and a grown-up can write it down.  
    **Answer:** For example: the fridge hum. I could sit still, shut my eyes and listen for it.. *Why:* A strong answer names a real steady sound and says that paying attention, or a change, makes us notice it.
 8. (mcq) In the lemon test, people showed different numbers of fingers for the same lemon. What does this tell us?  
-   Options: Some of them tasted it wrongly / Each person has their own experience, and we learn about it by being told / The lemon changed for each person  
+   Options: Some of them tasted it wrongly / The lemon changed for each person / Each person has their own experience, and we learn about it by being told  
    **Answer:** Each person has their own experience, and we learn about it by being told. *Why:* Only you have your own sour. Other people learn about it from your words, your face and your fingers.
 9. (mcq) In a dream, you fly like a bird. Where is your body?  
-   Options: Flying in the sky / Lying in bed / On the roof  
+   Options: Lying in bed / Flying in the sky / On the roof  
    **Answer:** Lying in bed. *Why:* In a dream you are aware of a world your sleeping mind makes. Your body stays in bed.
 10. (truefalse) True or false: almost everyone dreams every night, even people who forget their dreams.  
    **Answer:** True. *Why:* True. People woken during dreaming sleep in sleep laboratories usually say they were dreaming, even if they forget their dreams at home.
@@ -451,7 +481,7 @@ She laughed and took his hand. "Appa, sit down on the mat and close your eyes," 
 2. (perspective) Two scientists are talking about a touch-me-not plant, who folds her leaves when touched.  
    **Answer:** A strong answer picks a side and uses evidence: the medicine result, or the fact that brains change awareness in people. Then it says what the other side has right.. *Why:* Scientists really do argue about this. Both use real evidence.
 3. (mcq) Suppose you do the busy round in a noisy room in the day, and the still round in a quiet room at night. The busy round wins. Can you say that being busy helps you notice sounds?  
-   Options: Yes, the busy round won / No, because the room and the time changed too / Yes, because night is always quiet  
+   Options: No, because the room and the time changed too / Yes, the busy round won / Yes, because night is always quiet  
    **Answer:** No, because the room and the time changed too. *Why:* In a fair test only one thing changes. Here the noisy room simply had more sounds in it.
 4. (truefalse) True or false: scientists know exactly how being aware happens.  
    **Answer:** False. *Why:* False. Nobody knows how or why being aware happens at all. This is one of the biggest open questions in science.
@@ -462,12 +492,12 @@ She laughed and took his hand. "Appa, sit down on the mat and close your eyes," 
 7. (write) If you stop noticing the smell of your own home, has the smell gone? How could a visitor help you find out? Say it out loud and a grown-up can write it down.  
    **Answer:** No. The smell is still there. A visitor who has not got used to it can tell you what they smell.. *Why:* A strong answer says that getting used to a smell is different from the smell going, and uses someone fresh to check.
 8. (mcq) Which of these shows that the fan's sound still reaches you when you are not noticing it?  
-   Options: You notice at once when the fan stops / You hear the doorbell / You sing a song  
+   Options: You hear the doorbell / You notice at once when the fan stops / You sing a song  
    **Answer:** You notice at once when the fan stops. *Why:* If the sound was not reaching you, you could not notice the change when it stops.
 9. (sort) Sort these things your body does into 'I usually notice' and 'I usually do not notice'.  
    **Answer:** blinking → I usually do not notice; a mosquito bite → I usually notice; digesting food → I usually do not notice; feeling hungry → I usually notice; hair growing → I usually do not notice; a sneeze → I usually notice. *Why:* Your body does a great deal without your noticing. Changes, such as a bite or a sneeze, catch your attention.
 10. (mcq) In 1960, Anne Treisman, a student at Oxford, played one story into each ear and swapped the stories halfway. Many people followed their story into the wrong ear for a word or two. What did this show?  
-   Options: The ear they ignored was shut out completely / Some meaning from the ignored ear still gets through / People cannot hear with two ears  
+   Options: The ear they ignored was shut out completely / People cannot hear with two ears / Some meaning from the ignored ear still gets through  
    **Answer:** Some meaning from the ignored ear still gets through. *Why:* If the ignored ear were shut out like a closed door, nobody could follow a story into it. Its sounds are turned down, not shut out.
 
 ## Videos
@@ -477,22 +507,22 @@ She laughed and took his hand. "Appa, sit down on the mat and close your eyes," 
 
 ## Quiz
 1. (mcq) What does it mean to be aware of something?  
-   Options: You know or feel that it is there / You can draw it / You own it  
+   Options: You can draw it / You know or feel that it is there / You own it  
    **Answer:** You know or feel that it is there. *Why:* Being aware means knowing or feeling that something is there. Being aware of anything at all is called consciousness.
 2. (mcq) In the sound test, when do most children notice more sounds?  
-   Options: While racing to sort beans / While sitting still and listening / It is always the same  
+   Options: While racing to sort beans / It is always the same / While sitting still and listening  
    **Answer:** While sitting still and listening. *Why:* When you sit still and listen, your attention is on sounds, so you notice many more.
 3. (mcq) Why did we do the sound test in two rooms, in a different order each time?  
-   Options: To make it last longer / So that going second is not what made the difference / Because the first room was too noisy  
+   Options: To make it last longer / Because the first room was too noisy / So that going second is not what made the difference  
    **Answer:** So that going second is not what made the difference. *Why:* If the still round wins in both rooms, whichever round came first, then going second was not the reason.
 4. (mcq) You are reading a story and do not hear your name called. Why?  
-   Options: Your attention is on the story / Your ears are not working / You are asleep  
+   Options: Your ears are not working / Your attention is on the story / You are asleep  
    **Answer:** Your attention is on the story. *Why:* Attention picks what you notice. Your ears heard the call, but your attention was on the story.
 5. (mcq) The fan hums all evening. Why do you stop noticing it?  
-   Options: The fan gets quieter / Your mind lets a steady sound fade from notice / Your ears switch off  
+   Options: The fan gets quieter / Your ears switch off / Your mind lets a steady sound fade from notice  
    **Answer:** Your mind lets a steady sound fade from notice. *Why:* This is getting used to it, or habituation. The sound still reaches your ears.
 6. (mcq) In a power cut the fan suddenly stops. What usually happens?  
-   Options: You notice the quiet at once / You notice nothing / You fall asleep  
+   Options: You notice nothing / You notice the quiet at once / You fall asleep  
    **Answer:** You notice the quiet at once. *Why:* A change catches your attention. The stop is a change, so you notice it.
 7. (truefalse) True or false: two people tasting the same lemon always feel exactly the same sour.  
    **Answer:** False. *Why:* False. In the lemon test people often show different numbers. Even with the same number, nobody can check that their sours feel alike.
@@ -506,7 +536,7 @@ She laughed and took his hand. "Appa, sit down on the mat and close your eyes," 
    Options: Awake / Dreaming / Deep sleep  
    **Answer:** Deep sleep. *Why:* In deep sleep you are aware of very little. In the morning it can feel as if no time went by.
 11. (mcq) Which of these notice their world?  
-   Options: Only people / Only people and pet dogs / An ant, a crow, a tulsi plant and you  
+   Options: An ant, a crow, a tulsi plant and you / Only people / Only people and pet dogs  
    **Answer:** An ant, a crow, a tulsi plant and you. *Why:* Every being notices their world in their own way. Some scientists say only beings with brains are aware, and this is still argued about.
 12. (mcq) Which of these do scientists still not know?  
    Options: Whether people dream / How and why being aware happens at all / Whether steady sounds fade from notice  
@@ -520,11 +550,11 @@ She laughed and took his hand. "Appa, sit down on the mat and close your eyes," 
 - Some schools teach children to notice their breath for a minute, to help them settle and pay attention.
 
 ## Spotted around us
-- In a Hyderabad flat, everyone notices the sudden quiet when the fan stops in a power cut.
-- A flower seller in a busy Chennai market hears her own name through all the noise.
-- A crow on a Kochi balcony turns her head the moment a steel plate clinks.
-- A tulsi plant on a Pune windowsill leans towards the light.
-- In Guwahati homes, many mothers say they sleep through thunder but wake at their baby's small cry.
+- In a flat, everyone notices the sudden quiet when the fan stops in a power cut.
+- A flower seller in a busy market hears her own name through all the noise.
+- A crow on a balcony turns her head the moment a steel plate clinks.
+- A tulsi plant on a windowsill leans towards the light.
+- In many homes, mothers say they sleep through thunder but wake at their baby's small cry.
 
 ## Open questions
 - **How does being aware happen at all?** Scientists can see which parts of the brain are busy when people notice things. Nobody knows how or why that comes with an experience. The philosopher David Chalmers called this the hard problem in 1995.
@@ -564,10 +594,13 @@ I Am Here, I Notice (sci.what-is-real.L2): Topic-level song for What is real? L2
 - [Attention (Wikipedia)](https://en.wikipedia.org/wiki/Attention) · interactive: For the parent: what scientists know about attention, including the listening tests of the 1950s.
 - [Inattentional blindness (Wikipedia)](https://en.wikipedia.org/wiki/Inattentional_blindness) · interactive: For the parent: the gorilla film test and why people miss things in plain sight.
 - [Anne Treisman (Wikipedia)](https://en.wikipedia.org/wiki/Anne_Treisman) · interactive: For the parent: the life and work of the scientist in How We Found Out.
-- [Lalbagh Botanical Garden]() · place · Bengaluru: Sit still on a bench for two minutes and count the bird calls you notice, then count again while walking.
-- [Sanjay Gandhi National Park]() · place · Mumbai: Walk quietly on a trail and notice how many sounds the forest makes that the city hides.
+- Lalbagh Botanical Garden · place · Bengaluru: Sit still on a bench for two minutes and count the bird calls you notice, then count again while walking.
+- Sanjay Gandhi National Park · place · Mumbai: Walk quietly on a trail and notice how many sounds the forest makes that the city hides.
 
 ## Things to buy
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in The Sticker Test: who knows the face in the mirror is their own?. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in old1. Get it before The Sticker Test: who knows the face in the mirror is their own?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Busy or Still: do you notice more sounds when you pay attention?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1. Get it before Busy or Still: do you notice more sounds when you pay attention?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is it called when you choose what to notice? → Attention.
@@ -579,7 +612,7 @@ I Am Here, I Notice (sci.what-is-real.L2): Topic-level song for What is real? L2
 
 ## Plan
 - Start options: intro, e1, story, g1, a1, cards
-- Default order: intro → e1 → summary → terms → explanations → e2 → story → a1 → g1 → ws-core → a3 → g2 → a2 → a4 → agreed → challenging → p1 → c1 → ws-stretch → ws-challenge → big_questions → videos → open_questions → how_we_found_out → roots → quiz
+- Default order: intro → e1 → summary → terms → explanations → e2 → story → a1 → g1 → ws-core → a3 → g2 → a2 → a4 → agreed → challenging → p1 → c1 → ws-stretch → ws-challenge → big_questions → videos → open_questions → how_we_found_out → roots → quiz → old1
 - Core: e1, e2, a1, g1, ws-core
 
 ## Sources

@@ -83,6 +83,12 @@
    "art": "A child sitting cross-legged with eyes closed, a hand on the belly rising with the breath."
   },
   {
+   "term": "Posture",
+   "meaning": "Posture is the way you hold your body when you sit, stand or walk.",
+   "example": "Sitting tall at your desk with your back straight is good posture.",
+   "art": "Two children at desks: one slouching, one sitting tall with a straight back."
+  },
+  {
    "term": "Sleep cycle",
    "meaning": "During a night, sleep goes round in cycles. Each cycle has light sleep, deep sleep and dreaming sleep, and lasts about one and a half hours in older children and adults.",
    "example": "In ten hours of sleep, you go round the cycle about six or seven times.",
@@ -152,6 +158,19 @@
    "context": "This card is about what exercise does to your body when you do it often, over weeks and months."
   },
   {
+   "concept": "Staying active, in body and mind",
+   "status": "idea",
+   "description": "Exercise is good for your mind as well as your body. After a game of kho-kho, most people feel happier and think more clearly, and they sleep better that night. You do not have to run to stay active. A grandfather whose knees ache can still walk slowly in the park each morning, as many elders do. If walking is hard for a while, he can play chess or carrom with friends, which keeps his mind busy and gives him company. A doctor can say which movements are safe for a person in pain. The idea is the same at any age: keep the body moving in the ways it can, and keep the mind busy.",
+   "examples": [
+    "A grandmother walks to the temple and back every morning. She feels cheerful and sleeps well.",
+    "A grandfather with sore knees plays chess on the verandah with his neighbour each evening.",
+    "A girl who skips for ten minutes before homework finds it easier to focus."
+   ],
+   "perspectives": [],
+   "art": "A park at sunrise: an elder walking slowly, two old friends playing chess on a bench, and a child skipping nearby.",
+   "context": "This card says that being active is good for the mind too, and that every body can stay active in its own way."
+  },
+  {
    "concept": "Yoga",
    "status": "defined",
    "definition": "Yoga is an old Indian practice. It has three main parts: poses called asanas, slow breathing called pranayama, and paying close attention to the body and the mind.",
@@ -164,6 +183,33 @@
    "perspectives": [],
    "art": "A family doing yoga on mats on a small balcony in the morning, a grandmother in tree pose, a child in cobra pose.",
    "context": "This card says what yoga is, where it comes from, and what it does for the body."
+  },
+  {
+   "concept": "Yoga and posture",
+   "status": "defined",
+   "definition": "Posture is the way you hold your body when you sit, stand or walk.",
+   "description": "Think of a child bent over a desk for an hour. Her shoulders round forward and her back aches. Yoga poses like mountain pose and cobra pose make the back and shoulder muscles stronger. Stronger muscles make it easier to sit and stand tall, so good posture gets less tiring.",
+   "examples": [
+    "Mountain pose, tadasana, is standing tall with the body in one straight line.",
+    "Cobra pose lifts the chest and uses the muscles along the back."
+   ],
+   "perspectives": [],
+   "art": "Two children at desks: one slouching, one sitting tall with a straight back.",
+   "context": "This card says how yoga helps the way you hold your body."
+  },
+  {
+   "concept": "Deep breathing",
+   "status": "defined",
+   "definition": "Deep breathing is breathing in slowly so the belly rises, and out even more slowly.",
+   "description": "Pranayama is yoga's breathing practice, and deep breathing is the simplest kind. Sit tall and put a hand on your belly. Breathe in slowly through the nose until your belly pushes your hand out. Then breathe out slowly. A few slow breaths like this usually slow your heartbeat a little and help you feel calmer. That is why people try it before a test or a performance, or when they feel upset. It is not a cure for illness. It is one way to help your body settle, and you can do it anywhere, for free.",
+   "examples": [
+    "Before a school race, a girl takes five slow breaths and feels her fast heartbeat slow down.",
+    "At bedtime, a boy breathes in for a count of four and out for six, and his body feels ready to rest.",
+    "The bee breath, bhramari, is a deep breath out with a hum."
+   ],
+   "perspectives": [],
+   "art": "A child sitting cross-legged with a hand on the belly, a small arrow showing the belly rising as the air goes in.",
+   "context": "This card says how to do deep breathing and what it helps with."
   },
   {
    "concept": "What happens while you sleep",
@@ -530,10 +576,10 @@
       "t": "mcq",
       "q": "Does rest help a tired muscle recover?",
       "options": [
-       "Yes, blood refills it with what it needs",
-       "No, a tired muscle stays tired all day"
+       "No, a tired muscle stays tired all day",
+       "Yes, blood refills it with what it needs"
       ],
-      "a": 0,
+      "a": 1,
       "why": "While a muscle rests, blood keeps flowing through it. The blood brings oxygen, and the muscle uses it to refill its quick fuel. That is why, in the Tired Peg test, the count rises after two minutes of rest."
      }
     },
@@ -762,11 +808,11 @@
       "t": "mcq",
       "q": "A child did five rounds of the Tired Peg test with no break. The counts were 50, 44, 39, 35 and 31. After two minutes of rest, what do you think round 6 was?",
       "options": [
+       "About 45, because the rest let the fingers recover",
        "About 25, because the fingers are more tired",
-       "About 31, the same as round 5",
-       "About 45, because the rest let the fingers recover"
+       "About 31, the same as round 5"
       ],
-      "a": 2,
+      "a": 0,
       "why": "Rest lets the muscle recover. In two minutes, blood brings oxygen and the muscle refills much of its quick fuel, so the count goes up again. Picking 25 means thinking tiredness only builds up. Picking 31 means thinking rest does nothing. Your own round 6 is the real test."
      }
     },
@@ -930,11 +976,11 @@
       "t": "mcq",
       "q": "Why do fingers usually tire faster when the arm is held up?",
       "options": [
-       "The peg gets heavier when it is held up",
        "Less blood reaches the hand, so less oxygen arrives to refill the muscle",
+       "The peg gets heavier when it is held up",
        "Fingers are always weaker in the morning"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Blood has to be pumped uphill to a raised hand, so less flows there. Less blood means less oxygen to help the muscle refill its fuel, and slower removal of waste. Picking 'the peg gets heavier' means thinking the load changed. It did not: the same peg was used both times."
      },
      "parent": "Usually the arm-up count is lower and the ache comes sooner. After only one minute the difference can be small, and it can go the other way. If the two counts are within a few squeezes of each other, say honestly that it is too close to call, and try again another day. Ask what might have been different, such as tired fingers from earlier or counting mistakes."
@@ -1053,10 +1099,10 @@
       "q": "Why are most people a little taller in the morning?",
       "options": [
        "Children grow a whole centimetre every night",
-       "The soft discs in the backbone soak up water while you lie down, and get squashed again during the day",
-       "Feet get flatter in the morning"
+       "Feet get flatter in the morning",
+       "The soft discs in the backbone soak up water while you lie down, and get squashed again during the day"
       ],
-      "a": 1,
+      "a": 2,
       "why": "All day, standing and sitting squeeze some water out of the discs between the bones of your backbone. Lying down at night takes the weight off, and they soak it back up. Children do grow, but much more slowly: about 5 or 6 centimetres in a whole year."
      }
     }
@@ -1221,10 +1267,10 @@
       "q": "In tree pose, why does your standing ankle keep wobbling a little?",
       "options": [
        "Because your leg is too weak to stand still",
-       "Because the muscles in your leg are making tiny changes all the time to keep you balanced",
-       "Because the floor is moving"
+       "Because the floor is moving",
+       "Because the muscles in your leg are making tiny changes all the time to keep you balanced"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Staying balanced is not one big push. The muscles in your foot and leg keep making tiny corrections, contracting and relaxing, to keep your weight over your foot. Practice makes the corrections quicker and smaller."
      }
     },
@@ -1619,10 +1665,10 @@
       "q": "A child held tree pose for 12 seconds on day 1 and 40 seconds on day 10, after practising every day. What is the best explanation?",
       "options": [
        "The child's leg grew longer",
-       "The child's body and brain got better at the tiny corrections that keep the body balanced",
-       "The floor got flatter"
+       "The floor got flatter",
+       "The child's body and brain got better at the tiny corrections that keep the body balanced"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Practice trains the muscles and the brain together. The tiny corrections that keep you balanced become quicker and smaller. Ten days is too short for legs to grow much, and the floor stayed the same."
      },
      "parent": "Most children improve their tree pose time within ten days. The reach may change only a little. Both are real results. If nothing changed, ask your child what might help, such as practising at the same time every day."
@@ -1820,10 +1866,10 @@
    "p": "You squeeze a clothes peg for five rounds of 30 seconds with no break. What usually happens to your count?",
    "opts": [
     "It goes up each round",
-    "It goes down each round",
-    "It stays exactly the same"
+    "It stays exactly the same",
+    "It goes down each round"
    ],
-   "a": 1,
+   "a": 2,
    "why": "With no break, your finger muscles use up their quick fuel faster than your blood can help refill it, so each round you manage fewer squeezes. Picking 'goes up' means thinking practice wins over tiredness in a few minutes.",
    "outcome": 0,
    "how": "e1"
@@ -1832,11 +1878,11 @@
    "t": "mcq",
    "p": "You squeeze a clothes peg for five rounds with no break. Then you rest your hand for two minutes. What happens to your next count?",
    "opts": [
-    "It goes up again",
     "It falls even lower",
+    "It goes up again",
     "You cannot squeeze at all"
    ],
-   "a": 0,
+   "a": 1,
    "why": "During the rest, blood brings oxygen and the muscle refills much of its fuel. Picking 'falls even lower' means thinking rest does nothing.",
    "outcome": 0,
    "how": "e1"
@@ -1845,11 +1891,11 @@
    "t": "mcq",
    "p": "What does blood bring to a working muscle?",
    "opts": [
-    "Oxygen and food",
     "Only water",
+    "Oxygen and food",
     "Electricity"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Blood carries oxygen from the lungs and food from the gut. The muscle uses them to refill its fuel. Blood also carries waste away.",
    "outcome": 0
   },
@@ -1870,11 +1916,11 @@
    "t": "mcq",
    "p": "Which of these is mainly a stamina exercise?",
    "opts": [
-    "Skipping for five minutes",
     "Touching your toes",
-    "Carrying one heavy bucket once"
+    "Carrying one heavy bucket once",
+    "Skipping for five minutes"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Stamina means keeping going for a long time, which works the heart and lungs. Touching the toes is a stretch. Carrying a heavy bucket is mostly strength.",
    "outcome": 2
   },
@@ -1882,11 +1928,11 @@
    "t": "mcq",
    "p": "What is a yoga pose called?",
    "opts": [
-    "An asana",
     "A raga",
-    "A kolam"
+    "A kolam",
+    "An asana"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Asana is the Sanskrit word for a yoga pose. A raga is a pattern of notes in music. A kolam is a pattern drawn on the floor.",
    "outcome": 3
   },
@@ -1906,11 +1952,11 @@
    "t": "mcq",
    "p": "How many hours of sleep does a child of 8 need each night?",
    "opts": [
-    "About 6",
     "About 9 to 12",
+    "About 6",
     "About 15"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Children aged 6 to 12 need about 9 to 12 hours. Six hours is too little for a child. Fifteen hours is closer to what a baby sleeps.",
    "outcome": 4
   },
@@ -1919,10 +1965,10 @@
    "p": "What does the brain do during dreaming sleep?",
    "opts": [
     "It switches off completely",
-    "It is nearly as busy as when you are awake",
-    "It only controls breathing"
+    "It only controls breathing",
+    "It is nearly as busy as when you are awake"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Recordings of the brain's signals show it is very active in dreaming sleep. For a long time people thought the brain switched off at night. That was shown wrong in 1953.",
    "outcome": 4
   },
@@ -1942,11 +1988,11 @@
    "t": "mcq",
    "p": "Why are most people a little taller in the morning than at bedtime?",
    "opts": [
-    "The discs in their backbone fill up with water while they lie down",
     "They grow 1 centimetre every night",
+    "The discs in their backbone fill up with water while they lie down",
     "Their hair stands up"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Standing and sitting squeeze water out of the soft discs between the bones of the backbone. Lying down lets them soak it back. Children grow only about 5 or 6 centimetres in a whole year.",
    "outcome": 4,
    "how": "e3"
@@ -1955,13 +2001,49 @@
    "t": "mcq",
    "p": "You have a test tomorrow. Which plan will help your body and brain most?",
    "opts": [
-    "Study late until midnight, then wake up at 6",
     "Study, play outside, and go to bed on time for 10 hours of sleep",
+    "Study late until midnight, then wake up at 6",
     "Skip dinner and study all evening"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Sleep helps the brain store what was learned, and play gives the body exercise. Studying until midnight leaves only 6 hours of sleep, far less than a child needs.",
    "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "You feel nervous before a race, and your heart is beating fast. What can a few slow, deep breaths do?",
+   "opts": [
+    "Make your muscles bigger straight away",
+    "Take the place of a night's sleep",
+    "Usually help your body calm down and slow the heartbeat a little"
+   ],
+   "a": 2,
+   "why": "Slow deep breathing usually helps the body settle and feel calmer. It does not build muscle in a minute, and nothing replaces sleep.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "Meera slouches over her desk. How can yoga help her?",
+   "opts": [
+    "Yoga makes her backbone longer",
+    "Poses like cobra make her back and shoulder muscles stronger, so she can sit tall",
+    "Yoga means she never has to sit at a desk"
+   ],
+   "a": 1,
+   "why": "Posture is how you hold your body. Stronger back and shoulder muscles make a tall seat easier. Yoga does not stretch the bones or remove the desk.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "Dadaji's knees ache, so he cannot run. What can he still do to stay active in body and mind?",
+   "opts": [
+    "Walk slowly in the park and play chess with a friend",
+    "Stay in bed all day until the pain is gone",
+    "Nothing, because only running counts as exercise"
+   ],
+   "a": 0,
+   "why": "Gentle walking keeps the body moving, and chess keeps the mind busy. Running is not the only exercise. A doctor can say what is safe for a person in pain.",
+   "outcome": 2
   }
  ],
  "worksheets": [
@@ -1987,11 +2069,11 @@
      "t": "mcq",
      "p": "Which word means a muscle getting shorter and pulling?",
      "opts": [
-      "Relax",
       "Contract",
+      "Relax",
       "Stretch"
      ],
-     "a": 1,
+     "a": 0,
      "why": "A muscle contracts to pull. When it stops pulling and goes soft, it relaxes."
     },
     {
@@ -2009,22 +2091,22 @@
      "t": "mcq",
      "p": "Which of these is a flexibility exercise?",
      "opts": [
-      "Cobra pose",
       "Running up the stairs",
+      "Cobra pose",
       "Carrying a bag of rice"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Cobra pose bends the back gently and stretches the front of the body. Running builds stamina, and carrying builds strength."
     },
     {
      "t": "mcq",
      "p": "Which helps a child sleep well?",
      "opts": [
-      "A dark, quiet, cool room",
       "A bright phone screen in bed",
-      "A big, sugary drink at bedtime"
+      "A big, sugary drink at bedtime",
+      "A dark, quiet, cool room"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Darkness, quiet and coolness help the body feel sleepy. Bright screens delay the body's sleep signal."
     },
     {
@@ -2154,6 +2236,23 @@
      "a": "A child standing on one leg, with the standing leg's calf, thigh and ankle marked.",
      "why": "The standing leg does all the work, making tiny corrections to keep you balanced.",
      "art": "A blank box with a floor line."
+    },
+    {
+     "t": "order",
+     "p": "Put the steps of one deep breath in order.",
+     "items": [
+      "Breathe out slowly",
+      "Sit tall and put a hand on your belly",
+      "Feel your belly push your hand out",
+      "Breathe in slowly through your nose"
+     ],
+     "a": [
+      "Sit tall and put a hand on your belly",
+      "Breathe in slowly through your nose",
+      "Feel your belly push your hand out",
+      "Breathe out slowly"
+     ],
+     "why": "First sit tall, then breathe in slowly so the belly rises, then breathe out slowly."
     }
    ]
   },
@@ -2167,11 +2266,11 @@
      "t": "mcq",
      "p": "You squeeze a peg for one minute with your arm up, and later with your arm down. Which way do your fingers usually tire faster?",
      "opts": [
-      "Arm up",
       "Arm down",
-      "Both exactly the same"
+      "Both exactly the same",
+      "Arm up"
      ],
-     "a": 0,
+     "a": 2,
      "why": "With the arm up, blood has to be pumped uphill, so less reaches the hand. Less oxygen arrives to help the muscle refill.",
      "how": "e2"
     },
@@ -2341,6 +2440,13 @@
      "a": "Light sleep first, then deep sleep, then dreaming sleep, before the cycle begins again.",
      "why": "A night is made of several of these cycles.",
      "art": "A circle divided into three unlabelled parts, with an arrow showing the direction of the cycle."
+    },
+    {
+     "t": "write",
+     "p": "Say it out loud, and a grown-up writes it: your grandmother says, 'I cannot run, so I cannot exercise.' What can you tell her?",
+     "lines": 2,
+     "a": "She can walk slowly or do gentle yoga, and play chess or carrom to keep her mind busy. Being active helps the body and the mind.",
+     "why": "A strong answer says exercise is not only running, and gives one way for the body and one way for the mind."
     }
    ]
   },
@@ -2354,22 +2460,22 @@
      "t": "mcq",
      "p": "A cricket fast bowler bowls six balls in an over, then fields for a few minutes before the next over. Why does the rest between overs help?",
      "opts": [
-      "It gives the blood time to help refill the leg and arm muscles",
       "It lets the ball cool down",
+      "It gives the blood time to help refill the leg and arm muscles",
       "It has nothing to do with the bowler's muscles"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Short rests let working muscles refill their quick fuel and clear waste, so the next over can be fast again."
     },
     {
      "t": "mcq",
      "p": "On the space station, astronauts strap themselves to a treadmill with belts. Why?",
      "opts": [
-      "So their bones get jolts and carry weight, as they do on Earth",
       "So they do not float into the walls while sleeping",
-      "So the treadmill does not break"
+      "So the treadmill does not break",
+      "So their bones get jolts and carry weight, as they do on Earth"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Bones get stronger when they carry weight and get jolted. In space nothing presses down, so belts pull the astronaut onto the treadmill."
     },
     {
@@ -2387,11 +2493,11 @@
      "t": "mcq",
      "p": "Dolphins must swim up to breathe, even at night. How do dolphins sleep?",
      "opts": [
-      "With one half of the brain at a time",
       "They never sleep",
-      "Only on the beach"
+      "Only on the beach",
+      "With one half of the brain at a time"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Dolphins rest one half of the brain while the other half stays awake enough to swim and breathe."
     },
     {
@@ -2502,6 +2608,15 @@
      "a": "A circle of 24 slices with 9 to 10 slices for sleep, about 6 for school or study, at least 1 for active play, and slices for meals.",
      "why": "A child needs 9 to 12 hours of sleep and at least one hour of active play a day.",
      "art": "A blank circle divided into 24 equal slices."
+    },
+    {
+     "t": "fill",
+     "p": "Yoga can help your ______, which is the way you hold your body when you sit and stand. It does this by making your back and shoulder ______ stronger.",
+     "a": [
+      "posture",
+      "muscles"
+     ],
+     "why": "Posture is how you hold your body. Strong back and shoulder muscles make it easier to sit and stand tall."
     }
    ]
   }
@@ -2790,6 +2905,77 @@
     "a2",
     "p1"
    ]
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in Taller in the Morning? A bedtime and wake-up measure, My Ten-Day Yoga Log: does practice make me steadier?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "e3",
+    "p1"
+   ],
+   "plan": "Get it before Taller in the Morning? A bedtime and wake-up measure."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in My Ten-Day Yoga Log: does practice make me steadier?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before My Ten-Day Yoga Log: does practice make me steadier?."
+  },
+  {
+   "id": "b-paper-masking-tape",
+   "item": "Paper masking tape",
+   "kind": "material",
+   "why": "Used in Taller in the Morning? A bedtime and wake-up measure. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor.",
+   "url": "https://www.amazon.in/s?k=paper+masking+tape",
+   "used_in": [
+    "e3"
+   ],
+   "plan": "Get it before Taller in the Morning? A bedtime and wake-up measure."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in The Sleep Den: help someone fall asleep in a noisy city. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "c2"
+   ],
+   "plan": "Get it before The Sleep Den: help someone fall asleep in a noisy city."
+  },
+  {
+   "id": "b-cotton-wool",
+   "item": "Cotton wool",
+   "kind": "material",
+   "why": "Used in The Sleep Den: help someone fall asleep in a noisy city. About ₹20 to ₹50. Torn clean cloth works.",
+   "url": "https://www.amazon.in/s?k=cotton+wool+roll",
+   "used_in": [
+    "c2"
+   ],
+   "plan": "Get it before The Sleep Den: help someone fall asleep in a noisy city."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

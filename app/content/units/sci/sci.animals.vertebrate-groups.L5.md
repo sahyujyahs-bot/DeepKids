@@ -1,7 +1,7 @@
 # In-between animals: mammals that lay eggs, fish that breathe air, and what the five groups tell us about evolution
 `sci.animals.vertebrate-groups.L5`
 
-**Summary.** A platypus has fur and feeds her babies milk, yet she lays eggs. A murrel is a fish, yet she comes up to breathe air. In this unit you will test how much air cold and warm water hold, put animal features in order of arrival, and find old leftover parts in your body.
+**Summary.** A platypus has fur and feeds her babies milk, yet she lays eggs. A murrel is a fish, yet she comes up to breathe air. In this lesson you will test how much air cold and warm water hold, put animal features in order of arrival, and find old leftover parts in your body.
 
 **Intro.** *Which came first in the history of animals: lungs or legs? And which came first: milk, or babies born without an egg? Say what you think, and why.* Many people guess that lungs and legs arrived together, when animals first moved onto land. Many also guess that birth came before milk. In the first activity, the Feature Ladder, you tick the features of seven animals and read the order from your own table. Two animals settle the question: a fish with lungs and a mammal who lays eggs. Then you test why a fish would ever need to breathe air.
 
@@ -558,7 +558,7 @@ The fish slid out and was gone. They waited. Far out on the brown water, a ring 
 ## Worksheets
 ### In-between animals: air-breathing fish and egg-laying mammals (core) (core, 15 questions)
 1. (mcq) Why do the five groups of vertebrates share so many features?  
-   Options: They descend from one ancestor / They live in the same places / They eat the same food / Scientists chose them that way  
+   Options: They live in the same places / They eat the same food / Scientists chose them that way / They descend from one ancestor  
    **Answer:** They descend from one ancestor. *Why:* All vertebrates descend from one group of fish-like animals who lived about 500 million years ago. Shared features such as the backbone were inherited from them.
 2. (truefalse) True or false: every mammal is born alive.  
    **Answer:** False. *Why:* False. The platypus and the four echidnas are mammals, and they lay eggs. They have fur and feed their young on milk.
@@ -593,12 +593,12 @@ The fish slid out and was gone. They waited. Far out on the brown water, a ring 
    **Answer:** A strong answer uses the Feature Ladder: the platypus has fur and milk, and her row differs from the cow's by one feature only. It chooses a view, gives that evidence, and says what another view has right.. *Why:* The child is right that she breaks a common rule. The teacher is right that the rule was made from too few animals. The biologist explains why: groups are branches, and rules are our short descriptions of them.
 ### In-between animals: evidence and reasons (stretch) (stretch, 15 questions)
 1. (mcq) What did the fossil Acanthostega show about the first limbs with fingers?  
-   Options: They were used in water / They were for running on land / They were for digging burrows / They always had five fingers  
+   Options: They were for running on land / They were for digging burrows / They were used in water / They always had five fingers  
    **Answer:** They were used in water. *Why:* She had limbs with eight fingers, and also gills, weak ribs and elbows that could not bend forward. She lived in water. Choosing 'running on land' is the old idea her fossil overturned.
 2. (write) Explain how the platypus shows that milk is older than birth without an egg.  
    **Answer:** The platypus makes milk and still lays eggs. Her branch split from ours after milk evolved. If birth without an egg had come first, an egg-laying mammal with milk would be hard to explain. All mammals share the same milk genes, so milk was there in their shared ancestor.. *Why:* A strong answer uses the order of branching: a feature shared by both branches was present before the split.
 3. (mcq) Why is 'born alive' a poor clue to which animals are close relatives?  
-   Options: It arose many separate times / Only mammals do it / It is hard to see / Eggs are older than babies  
+   Options: Only mammals do it / It is hard to see / Eggs are older than babies / It arose many separate times  
    **Answer:** It arose many separate times. *Why:* Vipers, some sharks, guppies and cows all bear live young, but they are not close relatives. The feature arose separately in each branch.
 4. (fill) When the same feature arises separately in animals who are not close relatives, it is called ____ evolution.  
    **Answer:** ['convergent']. *Why:* Convergent means 'coming together'. Wings in bats and birds are an example.
@@ -613,7 +613,7 @@ The fish slid out and was gone. They waited. Far out on the brown water, a ring 
 9. (write) A friend says a cow is 'more evolved' than a carp. What would you tell them?  
    **Answer:** Both have been evolving for exactly the same length of time since their shared ancestor. The cow's branch gained limbs, an amnion and milk. The carp's branch gained its own features, such as the swim bladder and fan fins. The family tree has branches, not a top.. *Why:* A strong answer says that every living animal is equally modern, and names a feature that the carp's branch gained.
 10. (mcq) Which of these is evidence that your ancestors had thick fur?  
-   Options: Goosebumps / Fingernails / Your navel / Milk teeth  
+   Options: Fingernails / Goosebumps / Your navel / Milk teeth  
    **Answer:** Goosebumps. *Why:* A tiny muscle raises each hair when you are cold. On a furry animal this fluffs the coat. On us it does almost nothing, so it is a leftover.
 11. (draw) Draw a small family tree for a lizard, a crocodile and a crow. Show which two are closest.  
    **Answer:** The crocodile and the crow join at one fork. That fork then joins the lizard's line further down.. *Why:* A strong drawing puts the crocodile with the crow. Putting the crocodile with the lizard goes by scales and shape, which are old features.
@@ -623,7 +623,7 @@ The fish slid out and was gone. They waited. Far out on the brown water, a ring 
    Options: Snake / Whale / Caecilian / Seahorse  
    **Answer:** 3. *Why:* A seahorse is a fish with thin fan fins, and her ancestors never had four limbs. Snakes, whales and caecilians lost limbs that their ancestors had.
 14. (mcq) Scientists compare the DNA of two animals and find few differences. What does that suggest?  
-   Options: They share a recent ancestor / They are the same size / They live in the same place / They eat the same food  
+   Options: They are the same size / They share a recent ancestor / They live in the same place / They eat the same food  
    **Answer:** They share a recent ancestor. *Why:* Copying mistakes build up over time. Few differences means little time on separate branches.
 15. (perspective) Two scientists talk about the word 'reptile'.  
    **Answer:** A strong answer chooses one view and gives a reason from the family tree or from everyday use. It also says what the other view gets right.. *Why:* Both scientists accept the same family tree. They disagree about what names are for: showing who is related, or describing a way of living.
@@ -631,7 +631,7 @@ The fish slid out and was gone. They waited. Far out on the brown water, a ring 
 1. (write) Lungs and limbs came before life on land. Give two ideas for why limbed animals first left the water.  
    **Answer:** One idea: the banks had food, such as insects and millipedes, and no big hunters. Another: warm shallows held little oxygen, and a raised head could reach the air. An older idea, that they crawled between drying ponds, is now doubted.. *Why:* A strong answer gives two ideas and treats them as ideas. Nobody knows for certain.
 2. (mcq) Humans carry broken genes for making egg yolk. What is the best explanation?  
-   Options: Our distant ancestors laid yolky eggs / Humans will lay eggs one day / We get them from eating eggs / They came from hens  
+   Options: Humans will lay eggs one day / We get them from eating eggs / Our distant ancestors laid yolky eggs / They came from hens  
    **Answer:** Our distant ancestors laid yolky eggs. *Why:* The early ancestors of mammals laid eggs with yolk. After milk took over the feeding of young, the yolk genes were no longer needed and stopped working. Genes do not come from food.
 3. (count) One centimetre is 1 million years. Tiktaalik is at 375 and Acanthostega at 365. How many centimetres apart?  
    **Answer:** 10. *Why:* 375 − 365 = 10 centimetres, which stands for 10 million years.
@@ -640,7 +640,7 @@ The fish slid out and was gone. They waited. Far out on the brown water, a ring 
 5. (truefalse) True or false: lungs evolved from the swim bladders of fish.  
    **Answer:** False. *Why:* False, as far as the evidence shows. Lungfish and bichirs, on two early branches, both have lungs. So the first bony fish probably had lungs, and the swim bladder is a changed lung.
 6. (mcq) The purple frog's closest relatives live on the Seychelles islands. What explains this best?  
-   Options: The land they lived on split apart / Frogs swam across the ocean / People carried them there / Birds dropped their eggs  
+   Options: Frogs swam across the ocean / People carried them there / Birds dropped their eggs / The land they lived on split apart  
    **Answer:** The land they lived on split apart. *Why:* India and the Seychelles were once joined. The land split and drifted apart with the frogs' ancestors on both pieces. Frogs cannot survive in sea water for long.
 7. (sort) Sort these: scientists agree, or scientists still argue.  
    **Answer:** Birds are dinosaurs → Agree; Four-limbed animals came from lobe-finned fish → Agree; Why limbed animals first left the water → Still argue; What the first milk was for → Still argue; Warm water holds less oxygen than cold → Agree; Whether to call birds reptiles → Still argue. *Why:* Scientists agree on the family tree itself. They still argue about the reasons for some changes, and about how to name the groups.
@@ -665,43 +665,43 @@ The fish slid out and was gone. They waited. Far out on the brown water, a ring 
 ## Videos
 - **Great Transitions: The Origin of Tetrapods | HHMI BioInteractive Video** (biointeractive, 17 min) id `zK8XGEDcTfo`: Neil Shubin tells how his team predicted where a fish with limbs should be found, searched the Arctic for years and found Tiktaalik. Watch it after Predict the In-between Animal. *Check:* Address, title and channel confirmed through YouTube's public lookup. The length of about 17 minutes comes from a library listing of the film. Not watched from here: a parent should watch it first.
 - **Mudskippers: The Fish That Walk on Land | Life | BBC Earth** (BBC Earth, 4 min) id `CAQuoH_fOWM`: To see fish who live on wet mud, move on their front fins and breathe air through their skin and mouth. *Check:* Address, title and channel confirmed through YouTube's public lookup. The length is a guess. Not watched from here: a parent should watch it first.
-- **Platypus Parts | National Geographic** (National Geographic, 3 min) id `QNoQvjlmGdk`: To see a living platypus swim and feed, and to look at her bill, fur and feet. *Check:* Address, title and channel confirmed through YouTube's public lookup. The length is a guess. Not watched from here: a parent should watch it first, and check what it says against this unit.
+- **Platypus Parts | National Geographic** (National Geographic, 3 min) id `QNoQvjlmGdk`: To see a living platypus swim and feed, and to look at her bill, fur and feet. *Check:* Address, title and channel confirmed through YouTube's public lookup. The length is a guess. Not watched from here: a parent should watch it first, and check what it says against this lesson.
 
 ## Quiz
 1. (mcq) A murrel is kept in a pot filled to the brim, under a tight lid. What is the danger?  
    Options: She cannot reach air and may drown / The water is too clean / The water is too cold / She has no room to turn  
    **Answer:** She cannot reach air and may drown. *Why:* A murrel must gulp air at the surface. With no air gap she cannot breathe properly, even though she is in water.
 2. (mcq) Which holds more oxygen: a litre of air or a litre of pond water?  
-   Options: Air, about 30 times as much / Water, about 30 times as much / They hold the same / It depends on the fish  
+   Options: Water, about 30 times as much / Air, about 30 times as much / They hold the same / It depends on the fish  
    **Answer:** Air, about 30 times as much. *Why:* Air is about one-fifth oxygen. Water holds only a little dissolved oxygen, about 9 milligrams in a litre at 20 °C.
 3. (mcq) Which came first in the history of animals?  
    Options: Lungs, then legs / Legs, then lungs / Both at the same time / Nobody has any evidence  
    **Answer:** Lungs, then legs. *Why:* Lungfish have lungs and no legs, and every animal with four limbs has lungs. Fossils agree: fish had lungs long before any had limbs.
 4. (mcq) Which animal shows that milk evolved before mammals stopped laying eggs?  
-   Options: Platypus / Kangaroo / Fruit bat / Penguin  
+   Options: Kangaroo / Fruit bat / Penguin / Platypus  
    **Answer:** Platypus. *Why:* The platypus lays eggs and feeds her hatched young on milk. A kangaroo is born alive, and a penguin is a bird with no milk.
 5. (mcq) Tiktaalik had gills and scales, and also a neck and wrists. What is such a fossil called?  
-   Options: A transitional fossil / A living fossil / A vestigial part / A convergent fossil  
+   Options: A living fossil / A vestigial part / A convergent fossil / A transitional fossil  
    **Answer:** A transitional fossil. *Why:* A transitional fossil has features of an older group and of a newer group. It shows what the animals in between were like.
 6. (mcq) Which of these is the closest living relative of a crow?  
-   Options: Mugger crocodile / Monitor lizard / Fruit bat / King cobra  
+   Options: Monitor lizard / Mugger crocodile / Fruit bat / King cobra  
    **Answer:** Mugger crocodile. *Why:* Crocodiles and birds share an ancestor that lizards and snakes do not. A bat flies, but she is a mammal.
 7. (mcq) Bats and birds both have wings. Why is this not a sign that they are close relatives?  
-   Options: Wings arose separately in each / Bats are a kind of bird / Wings are a very old feature / Both lay eggs  
+   Options: Bats are a kind of bird / Wings are a very old feature / Wings arose separately in each / Both lay eggs  
    **Answer:** Wings arose separately in each. *Why:* Their shared ancestor had no wings. Each branch evolved wings separately, which is called convergent evolution.
 8. (truefalse) True or false: the steps of the Feature Ladder show which animals are better.  
    **Answer:** False. *Why:* False. The steps show the order in which features first appeared. Every animal on the ladder is alive today and has evolved for the same length of time.
 9. (mcq) Which part of your body is the leftover of a tail?  
-   Options: The tailbone / The navel / The kneecap / The heel  
+   Options: The navel / The kneecap / The heel / The tailbone  
    **Answer:** The tailbone. *Why:* The tailbone is three to five small joined bones at the end of the backbone. The navel is where the cord from the placenta joined you.
 10. (mcq) Why do fish in a warm, shallow pond gasp at the surface at dawn?  
-   Options: The water has very little dissolved oxygen / They are hungry / The water is too cold / They are looking for light  
+   Options: They are hungry / The water is too cold / The water has very little dissolved oxygen / They are looking for light  
    **Answer:** The water has very little dissolved oxygen. *Why:* Warm water holds little oxygen, and plants and rotting leaves use it up overnight. The thin top layer of water, next to the air, has the most.
 11. (mcq) A fossil has feathers, and also teeth and a long bony tail. What does it most likely show?  
    Options: An animal between older dinosaurs and birds / A bird that grew teeth by mistake / A lizard that could fly / Two animals mixed up  
    **Answer:** An animal between older dinosaurs and birds. *Why:* Feathers are a bird feature. Teeth and a long bony tail are older dinosaur features. Archaeopteryx, about 150 million years old, is such an animal.
 12. (mcq) In the Air in Water test, what had to stay the same for all three tumblers?  
-   Options: The tumbler, the amount and the place / Only the colour of the tumbler / How cold the water was at the start / Nothing at all  
+   Options: Only the colour of the tumbler / How cold the water was at the start / Nothing at all / The tumbler, the amount and the place  
    **Answer:** The tumbler, the amount and the place. *Why:* Only the water's history was changed: cold, room-warm or boiled. Everything else was kept the same, so any difference in bubbles came from that one change.
 
 ## Applications
@@ -716,7 +716,7 @@ The fish slid out and was gone. They waited. Far out on the brown water, a ring 
 ## Spotted around us
 - Live murrels or climbing perches in a tub at a fish market, coming up to the surface for air while other fish lie on ice.
 - A fighting fish in a small bowl at a pet shop, swimming up every few minutes to gulp air.
-- Mudskippers hopping on the wet mud at low tide in a mangrove creek, such as at Point Calimere in Tamil Nadu or Coringa in Andhra Pradesh.
+- Mudskippers hopping on the wet mud at low tide in a mangrove creek.
 - Fish crowding and gasping at the surface of a temple tank or village pond early on a hot summer morning.
 - The scaly legs and feet of a crow, a hen or a pigeon. They are the same kind of scales a crocodile has.
 - Goosebumps on your own arm when you step out of a bath on a cool morning.
@@ -768,15 +768,20 @@ Many Ways to Live a Life (sci.animals.L5): Topic-level song
 - [Tiktaalik roseae, University of Chicago](https://tiktaalik.uchicago.edu) · interactive: Pictures of the fossil, the story of the search in the Arctic, and what each part of her body shows, from the team who found her.
 - [Understanding Evolution, University of California Museum of Paleontology](https://evolution.berkeley.edu) · interactive: For the parent and an older child: clear pages on family trees, on how to read them, and on the move from water to land.
 - [OneZoom tree of life explorer](https://www.onezoom.org) · interactive: A family tree of all life that you can zoom into. Search for the platypus, the lungfish or the crow and see where each branch joins.
-- [HHMI BioInteractive](https://www.biointeractive.org) · interactive: Free films and activities on evolution for classrooms, including the film about Tiktaalik in this unit.
+- [HHMI BioInteractive](https://www.biointeractive.org) · interactive: Free films and activities on evolution for classrooms, including the film about Tiktaalik in this lesson.
 - [Madras Crocodile Bank Trust and Centre for Herpetology](https://madrascrocodilebank.org) · place · Mamallapuram, near Chennai: Watch muggers, gharials and other crocodiles, the closest living relatives of birds. Ask the keepers how the mothers guard their nests.
-- [Dinosaur Fossil Park and Museum, Raiyoli]() · place · Raiyoli, near Balasinor, Gujarat: Fossil dinosaur eggs and bones in the rocks where they were found, from the time when India was an island.
-- [Indroda Dinosaur and Fossil Park]() · place · Gandhinagar, Gujarat: Fossil dinosaur eggs from Gujarat, and life-size models of the dinosaurs who laid them.
-- [B. M. Birla Science Museum]() · place · Hyderabad: The Dinosaurium holds the mounted skeleton of Kotasaurus, a large plant-eating dinosaur found in Telangana.
+- Dinosaur Fossil Park and Museum, Raiyoli · place · Raiyoli, near Balasinor, Gujarat: Fossil dinosaur eggs and bones in the rocks where they were found, from the time when India was an island.
+- Indroda Dinosaur and Fossil Park · place · Gandhinagar, Gujarat: Fossil dinosaur eggs from Gujarat, and life-size models of the dinosaurs who laid them.
+- B. M. Birla Science Museum · place · Hyderabad: The Dinosaurium holds the mounted skeleton of Kotasaurus, a large plant-eating dinosaur found in Telangana.
 
 ## Things to buy
 - [Paper or steel drinking straws](https://www.amazon.in/s?k=paper+drinking+straws) (material): The 'teat' in Lap or Suck. One straw is enough. A clean tender-coconut straw works as well. Used in e2. 
 - [Your Inner Fish, by Neil Shubin (2008)](https://www.amazon.in/s?k=your+inner+fish+neil+shubin) (book): For the parent or a keen older reader. One of the finders of Tiktaalik explains how the human body carries the history of fish, in plain language. Used in a5, a2. Read chapter 1, on finding Tiktaalik, after Predict the In-between Animal. Read the chapter on hands before Old Parts in Your Body.
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in Five Hundred Million Years on a String: a timeline of the vertebrates. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in p1. Get it before Five Hundred Million Years on a String: a timeline of the vertebrates.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Feature Ladder: which features came first?, Five Hundred Million Years on a String: a timeline of the vertebrates, A Fin That Can Do a Push-up. About ₹10 to ₹30. Any school ruler is fine. Used in a1, p1, c1. Get it before The Feature Ladder: which features came first?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in A Fin That Can Do a Push-up. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before A Fin That Can Do a Push-up.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in Count the Differences: reading the family tree from letters. About ₹10 to ₹30. Draw squares on plain paper. Used in a3. Get it before Count the Differences: reading the family tree from letters.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name a mammal who lays eggs. → The platypus, or an echidna.
@@ -798,8 +803,8 @@ Many Ways to Live a Life (sci.animals.L5): Topic-level song
 - Founder's evolution timeline in ideas/by_topic/evolution-the-tree-of-life.md: the first vertebrates at 500 million years, bony fish at 420, lobe-finned fish, Tiktaalik at 375, the earliest four-limbed animals at 365, animals with an amnion at 320, the earliest mammals at 225, the monotremes, birds at 150 'from dinosaurs', and the extinction at 66. Used for the Feature Ladder, the string timeline and the explanation cards.
 - Founder's true or false card game in ideas/by_topic/how-we-know.md, which includes the card 'Dinosaurs are extinct (F)'. Used as the model and the first card of the game Sure or Surprised?
 - The curriculum entry for sci.animals.vertebrate-groups.L5: 'Surprises: mammals that lay eggs, fish that breathe air, birds that are dinosaurs; what the groups tell us about evolution.' All four parts are covered.
-- The Class 3 and Class 4 units on vertebrate groups, and the units sci.classification.sorting-living-things.L4 and sci.animals.birds.L4, which this unit builds on. Their experiments and stories are not repeated. The platypus's discovery, the same-bones activity and the evidence that birds are dinosaurs are told there, so this unit only recalls them.
-- The Combined lesson sci-C4-evolution-the-tree-of-life (common ancestry as a branching tree and not a ladder, evidence from bones and from DNA). This unit takes those ideas further for vertebrates. Its story is not reused.
+- The Class 3 and Class 4 units on vertebrate groups, and the units sci.classification.sorting-living-things.L4 and sci.animals.birds.L4, which this lesson builds on. Their experiments and stories are not repeated. The platypus's discovery, the same-bones activity and the evidence that birds are dinosaurs are told there, so this lesson only recalls them.
+- The Combined lesson sci-C4-evolution-the-tree-of-life (common ancestry as a branching tree and not a ladder, evidence from bones and from DNA). This lesson takes those ideas further for vertebrates. Its story is not reused.
 - PHILOSOPHY.md, for the Roots card.
 - Daeschler, E. B., Shubin, N. H. and Jenkins, F. A., 'A Devonian tetrapod-like fish and the evolution of the tetrapod body plan', Nature 440, 2006 (Tiktaalik)
 - Coates, M. I. and Clack, J. A., 'Polydactyly in the earliest known tetrapod limbs', Nature 347, 1990, and 'Fish-like gills and breathing in the earliest known tetrapod', Nature 352, 1991 (Acanthostega)

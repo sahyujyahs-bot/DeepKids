@@ -1,9 +1,9 @@
 # Measuring the weather: thermometers, rain gauges and wind vanes
 `sci.weather.weather.L3`
 
-**Summary.** A thermometer in the sun can say 45 degrees on a day that is not that hot. Why? In this unit you will test a thermometer in the sun and in the shade, find out whether a wider rain gauge catches deeper rain, and make a wind vane.
+**Summary.** A thermometer in the sun can say 45 degrees on a day that is not that hot. Why? In this lesson you will test a thermometer in the sun and in the shade, find out whether a wider rain gauge catches deeper rain, and make a wind vane.
 
-**Intro.** *Nila hangs a thermometer on her sunny balcony in Chennai. It says 45 degrees. The radio says it is 36 degrees in Chennai today. Both thermometers work. So which one tells the truth about the air?* Weather is what the air is doing right now: how warm it is, whether rain is falling, and which way the wind blows. To compare one day with another, or one town with another, people measure it. In this unit you measure temperature with a thermometer, rain with a rain gauge and wind with a wind vane. You find out why a thermometer must be kept in the shade. Then you keep your own weather diary, like the weather scientists of India.
+**Intro.** *Nila hangs a thermometer on her sunny balcony in Chennai. It says 45 degrees. The radio says it is 36 degrees in Chennai today. Both thermometers work. So which one tells the truth about the air?* Weather is what the air is doing right now: how warm it is, whether rain is falling, and which way the wind blows. To compare one day with another, or one town with another, people measure it. In this lesson you measure temperature with a thermometer, rain with a rain gauge and wind with a wind vane. You find out why a thermometer must be kept in the shade. Then you keep your own weather diary, like the weather scientists of India.
 
 ## Learning outcomes
 0. I can measure the temperature of the air with a thermometer, and explain why it must be kept in the shade.
@@ -40,24 +40,32 @@
 Words like 'hot' or 'very rainy' mean different things to different people. A child from Shimla and a child from Chennai would not agree on what 'cold' means. Numbers let everyone compare. Each measurement needs its own tool. A thermometer measures temperature. A rain gauge measures rain. A wind vane shows wind direction, and an anemometer measures wind speed. Clouds are still mostly judged by eye, by how much of the sky they cover.
 - e.g. 'Very hot' in Delhi in May might be 45 °C. 'Very hot' in Bengaluru might be 36 °C.
 - e.g. A weather report gives the maximum and minimum temperature, the rainfall in millimetres, and the wind.
+- **Weather scientists:** Measure temperature, pressure, wind, rain and humidity with instruments, and record numbers.
+- **North Indian farmers:** Pass on sayings called Ghagh and Bhaddari, which link the sky, the winds and the behaviour of animals and plants with the coming weather. They hold generations of watching.
 ### A thermometer shows its own temperature · *defined*
 **Definition:** A thermometer can only show how warm the thermometer itself is. It shows the air's temperature only when the air is the only thing warming or cooling it.
 
 In the shade, the thermometer gives heat to the air or takes heat from it until both are equally warm. Then its reading is the air's temperature. In sunlight, something else happens. The thermometer takes in sunlight, and that light warms it as well as the air does. So its reading climbs above the air's temperature. The air around it has not changed. Only the thermometer has. This is why a thermometer in the sun can read 5, 10 or even more degrees above one in the shade nearby.
 - e.g. In the Sun or Shade test, a thermometer hung in the sun read 44 °C. In the shade, a metre away, it read 33 °C.
 - e.g. Digital temperature signs at bus stops often stand in the sun. On sunny days they can show much higher numbers than the weather report.
+- **Everyday view:** The thermometer tells the temperature of the air.
+- **Physicists:** Say it tells only its own temperature. In the sun it can read much higher than the air, because it takes in sunlight, so a thermometer must be kept in shade and in moving air.
 ### Why sunlight warms things more than it warms the air · *defined*
 **Definition:** Clear air lets most sunlight pass straight through it. The ground, walls and other solid things take in much more sunlight, and they warm up first. The air is warmed mostly by touching the warm ground.
 
 Air is see-through, so most sunlight goes through it without warming it much. When sunlight lands on a floor, a wall or a thermometer, much of it is taken in, and the thing gets warm. A dark thing takes in more light than a white or shiny thing, so it warms more. This is why a sunny wall or ledge can be too hot to touch while the air beside it feels only warm. A thermometer near a sunny wall is warmed by the wall too.
 - e.g. At noon, a black car roof can be too hot to touch while the air beside it is only warm.
 - e.g. A white paper roof over a thermometer takes in less sunlight than a black one would.
+- **Joseph Fourier:** In the 1820s he said that the air near Earth must keep some heat, like glass in a frame.
+- **John Tyndall:** In 1859 showed in the lab that gases such as carbon dioxide and water vapour take in heat rays. He found that air is clear to sunlight but takes in heat that rises from the ground.
 ### The weather screen: a shaded house for thermometers · *defined*
 **Definition:** A weather screen is a white box with slatted sides, on legs. It holds thermometers about 1.25 to 2 metres above short grass. It keeps sunlight off them and lets air flow through.
 
 Every part of it has a reason. White takes in little sunlight, so the box itself stays cool. The slats let the air blow through, so the air inside is the same as the air outside. The legs keep it away from the ground, which gets hot in the day and cold at night. It stands in an open place, away from walls. The design was made in Scotland in the 1860s by Thomas Stevenson, a lighthouse engineer, so it is often called a Stevenson screen. Today almost every country follows the same rules, so a reading in Chennai can be fairly compared with one in Nairobi or Tokyo.
 - e.g. Weather stations in India keep their thermometers in white screens on legs.
 - e.g. Your white paper roof in the Sun or Shade test was a very simple weather screen.
+- **Thomas Stevenson:** In the 1860s he designed the white slatted box that is used all over the world, so that thermometers are shaded and air can flow.
+- **Luke Howard:** In the 1810s used readings from London and the countryside to show that the city is warmer than its surroundings. It shows how a reading depends on where the thermometer stands.
 ### How a rain gauge measures rain · *defined*
 **Definition:** A rain gauge catches rain, and we measure the depth of water in it in millimetres. That depth is the rainfall.
 
@@ -65,34 +73,46 @@ Rain falls over a whole area. A wide container catches more water than a narrow 
 - e.g. In the Wide or Narrow test, a steel dabba and a straight glass under the same rain from a chalni both filled to about the same depth, around 12 mm.
 - e.g. If 10 mm of rain falls on a flat terrace of 50 square metres, that is 500 litres of water.
 - e.g. An old Indian book, the Arthashastra, describes a bowl set up in front of a storehouse as a rain gauge.
+- **Kautilya's Arthashastra:** An old Indian book of government, from about 2,000 years ago, tells officers to measure rain in bowls at storehouses, so that taxes and crops could be planned.
+- **Korean court scientists:** In 1441 a rain gauge was made of iron and set up across the land under King Sejong. Rain was measured to help farmers, and the records were kept.
 ### Which way the wind blows · *defined*
 **Definition:** A wind is named for the direction it comes from. A wind vane turns until its arrow points into the wind, towards where the wind comes from.
 
 A wind vane has a small arrowhead at one end and a big, flat tail at the other. The wind pushes harder on the big tail. So the vane swings round until the tail is blown away from the wind, downwind. Then the arrow points the other way, into the wind. If the arrow points west, the wind is coming from the west. In India, the big summer winds come from the southwest, over the sea, and bring the southwest monsoon. In Chennai, much of the year's rain comes in October to December, with winds from the northeast. This is called the northeast monsoon.
 - e.g. Hold a hand fan to the east of a wind vane and wave it. The arrow turns to point east, at the fan.
 - e.g. An airport windsock is the other way round. Its open end faces the wind, and the sock blows away from it.
+- **Meteorologists:** Name a wind by where it comes from, so a west wind blows from the west.
+- **Oceanographers:** Name a sea current by where it goes, so a westward current flows toward the west. The two habits are opposite, and it is a good idea to say 'from' or 'toward' clearly.
 ### How strong is the wind? · *defined*
 **Definition:** Wind speed is how fast the air is moving. An anemometer measures it. You can also judge it by eye, from what the wind does to things around you.
 
 In a cup anemometer, the wind pushes the open side of each cup harder than the round back, so the cups spin. The faster they spin, the stronger the wind. Long before machines, sailors judged the wind from what they saw. In 1805, Francis Beaufort, an officer in the British navy, wrote down a scale from 0, calm, to 12, a hurricane. At first, each number was described by what the wind did to a ship's sails. Later, signs on land were added, such as smoke rising straight up or branches swaying. Weather offices still use a version of his scale.
 - e.g. When the wind is calm, smoke rises straight up and leaves do not move.
 - e.g. In a strong breeze, big branches sway and it is hard to hold an umbrella.
+- **Francis Beaufort:** In 1805 an Irish naval officer made a scale from 0 to 12 for judging the wind by what it does to the sea, sails and trees, with no instrument.
+- **Instrument makers:** Use cup anemometers, which spin faster in a faster wind, and now sonic sensors that time sound in the air. Numbers can be recorded and compared.
 ### The warmest time of day · *defined*
 **Definition:** On a clear day, the air is usually warmest in the middle of the afternoon, around 2 to 4 o'clock, not at noon. It is usually coolest just before sunrise.
 
 The Sun is highest at about noon, but the air keeps warming after that. The ground and buildings keep taking in sunlight and passing warmth to the air. Until mid-afternoon, they take in more heat than they lose. After that, the Sun is lower and they lose more than they take in, so the air starts to cool. All night, heat keeps leaving, so the coolest time is just before the Sun comes back. Clouds change this. On a cloudy or rainy day, the temperature may hardly change at all.
 - e.g. A shade thermometer in Madurai might read 28 °C at 7 in the morning, 35 °C at noon and 37 °C at 3 in the afternoon.
 - e.g. Think of a pot of water on the stove. If you turn the flame down a little, the water still gets hotter for a while. The ground and the air do the same after noon. The Sun gets weaker, but it still gives them more heat than they lose.
+- **Everyday view:** The Sun is highest at noon, so noon must be hottest.
+- **Meteorologists:** Explain that the ground keeps gaining heat as long as it takes in more than it gives out. The air is warmest at about two to four o'clock, and the warmest days of the year come weeks after the longest day.
 ### India's weather watchers · *defined*
 **Definition:** The India Meteorological Department, IMD, measures and reports the weather for the whole country. It was started in 1875.
 
 Every day, hundreds of IMD weather stations measure temperature, rain and wind in the same way, at the same times. Many are now automatic weather stations, which send readings by themselves. For a long time, India bought its weather instruments from abroad. Anna Mani, a scientist born in Peermade in Kerala in 1918, changed that. She joined IMD in 1948 and led the work to design and make weather instruments in India. She also measured sunlight and wind across India, to find good places for solar and wind power.
 - e.g. Chennai's weather reports come from two stations: Nungambakkam in the city and Meenambakkam at the airport.
 - e.g. Thousands of rain gauges across India are read every morning, and the rain is added up for each district.
+- **Traditional weather knowledge:** Farmers' sayings like those of Ghagh and Bhaddari, and Varahamihira's old book the Brihat Samhita, linked clouds, animals and winds to coming rain.
+- **India Meteorological Department (1875):** Uses instruments, satellites and computers to forecast. Many sayings are still checked by scientists, and some turn out to hold truth.
 ### The 'feels like' temperature · *idea*
 Many weather apps show two numbers: the temperature, and what it 'feels like'. The first is measured with a thermometer in the shade. The second is worked out from the temperature, how damp the air is, and how windy it is. Damp air makes it harder for sweat to dry, so a humid 34 °C in Chennai can feel worse than a dry 38 °C in Jaipur. There is no single agreed way to work out the 'feels like' number. Different countries and apps use different formulas, so they can give different answers for the same weather.
 - e.g. A weather app may say 33 °C, feels like 41 °C, on a sticky Chennai afternoon.
 - e.g. A fan makes you feel cooler, but it does not change what a thermometer reads.
+- **Different formulas:** The heat index, the wind chill and the wet-bulb temperature each give a different number for the same air.
+- **Scientists who study people:** Say bodies differ in size, clothing, age and what they are doing, so no single 'feels like' number fits everybody.
 
 ## Mostly agreed
 - To measure the temperature of the air, a thermometer must be kept out of direct sunlight, with air flowing round it. *How we know:* A thermometer in the sun reads well above one in the shade nearby. Weather offices around the world follow the same rules from the World Meteorological Organization, so their readings can be compared.
@@ -312,7 +332,7 @@ And next to the word 'Temperature' she added a small note to herself, in red pen
   *Child mode:* Put both containers side by side. Hold the chalni above them. Pour three mugs of water through it.
   - Note: No chalni? Use a colander, or a plastic bottle with ten small holes in the cap, made by a grown-up. The spray is never perfectly even, so expect the two depths to differ by a few millimetres. The water on the floor goes down the bathroom drain.
 - **s3 (5 min)**  
-  *Parent does:* 1. Stand the ruler straight up inside each container, touching the bottom. 2. Read the depth of the water in millimetres. 3. Write both depths.  
+  *Parent does:* 1. Stand the ruler straight up inside each container, touching the bottom. 2. Read the depth of the water in millimetres. 3. Write both depths. Bend down so your eye is level with the water line, and read the mark on the ruler.  
   *Parent says:* Look at where your ruler's 0 is. Many rulers have a little gap before the 0, so we line up the 0 with the bottom.  
   *Child mode:* Stand the ruler in each one. Read how deep the water is, in millimetres. Write it down.
   - Check: The wide dabba and the narrow glass both have water about 12 mm deep. Which one caught more water? → **The wide dabba**
@@ -356,7 +376,7 @@ And next to the word 'Temperature' she added a small note to herself, in red pen
   - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: the air is warmest in the afternoon, not at noon. What I saw: it was 28 °C at 7, 34 °C at noon and 36 °C at 2, then it went down to 31 °C by 7 in the evening. Why: the ground and walls keep warming the air after noon, until the Sun gets low.
 
 ## Activities
-### a1 · What Is the Weather Doing Now? Senses first (8 min)
+### a1 · What Is the Weather Doing Now? Senses first (12 min)
 - **safety:** Don't look at the Sun.
 - **record:** Write four words for today's weather, and your guess of the temperature.
 - **s1 (4 min)**  
@@ -369,6 +389,11 @@ And next to the word 'Temperature' she added a small note to herself, in red pen
   *Parent says:* If you had to give it a number, how many degrees is the air right now? What makes that hard to guess?  
   *Child mode:* Guess how many degrees the air is. Write it down. Is it easy to guess?
   - Note: Most guesses are a few degrees off. That is the point: our skin is not a measuring tool. Keep the guess for the Sun or Shade test.
+- **s3 (4 min)**  
+  *Parent does:* If it is raining, or has just rained, look at the drops outside or on the window. 1. Are the drops big or small? 2. Do they fall straight down, or slant? 3. Do they fall as fine lines, or as a grey sheet? 4. Watch one drop: does it fall fast or slow?  
+  *Parent says:* What do you see in the rain? Is it falling straight down, or slanting? Are the drops big or small?  
+  *Child mode:* Look at the rain. Is it slanting? Are the drops big or small?
+  - Note: No rain today? Skip this step, and try it on the next rainy day.
 ### a2 · Make a Wind Vane (25 min)
 - **safety:** A grown-up pushes the pin in. Keep the pin point away from faces.
 - **record:** Take a photo of your wind vane, or draw it. Write where the wind was coming from.
@@ -493,7 +518,7 @@ And next to the word 'Temperature' she added a small note to herself, in red pen
   - Note: On a cool or cloudy day both jars may lose almost nothing. That is a real result: try again on a hot, sunny day.
 
 ## Worksheets
-### Weather Watcher (core) (core, 15 questions)
+### Weather Watcher (core) (core, 16 questions)
 1. (mcq) You want to measure how warm the air is on your balcony. Where should you hang the thermometer?  
    Options: In the shade, hanging in the air / In full sun, on the wall / Inside the fridge / Touching the hot ledge  
    **Answer:** In the shade, hanging in the air. *Why:* In the shade, with air all round it, the air is the only thing warming the thermometer, so it shows the air's temperature. In the sun, or touching a hot wall, it is heated by more than the air.
@@ -502,7 +527,7 @@ And next to the word 'Temperature' she added a small note to herself, in red pen
 3. (match) Match each tool to what it measures.  
    **Answer:** Thermometer → how warm the air is; Rain gauge → how much rain fell; Wind vane → where the wind comes from; Anemometer → how fast the wind blows. *Why:* Each part of the weather needs its own tool. A strong answer could also say where each tool should be placed.
 4. (mcq) A wind vane points east. Where is the wind coming from?  
-   Options: From the east / From the west / From the north / It is not blowing  
+   Options: From the west / From the north / From the east / It is not blowing  
    **Answer:** From the east. *Why:* A wind vane points into the wind, to where it comes from. So it is an east wind. Picking 'west' is the common mix-up of thinking the arrow shows where the wind is going.
 5. (write) In the story, Nila's thermometer read 45 °C in the sun and 36 °C under a paper roof in the same spot. Explain why.  
    **Answer:** The paper roof stopped sunlight landing on the thermometer. In the sun, the sunlight heated the thermometer itself, so it read higher than the air. Under the roof, only the air warmed it, so it showed the air's temperature.. *Why:* A strong answer says the air was the same in both places, and that sunlight heated the thermometer, not the air.
@@ -514,23 +539,25 @@ And next to the word 'Temperature' she added a small note to herself, in red pen
    **Answer:** A vane with a small arrowhead, a bigger tail and a pin. The wind arrow comes from the west, and the vane's arrowhead points west, into the wind.. *Why:* A strong drawing shows that the tail is bigger, and that the arrowhead points to where the wind comes from.
 9. (order) You want to find out whether a thermometer reads differently in the sun and in the shade. Put the steps of your test in order.  
    **Answer:** ['Guess the readings, and say why', 'Hang the thermometer in the shade and wait a few minutes', 'Read the thermometer in the sun', 'Write down both readings and compare them']. *Why:* First guess, then measure, then compare. Guessing first lets the test answer your question, and waiting gives the thermometer time to settle.
-10. (odd) Three of these are weather tools. Which one is the odd one out?  
+10. (order) Put the steps of reading the rain in a gauge in order.  
+   **Answer:** ['Stand the ruler straight up inside the gauge, touching the bottom', 'Bend down so your eye is level with the water', 'Read the mark on the ruler where the water line is', 'Write the depth in millimetres']. *Why:* First stand the ruler, then level your eye with the water, then read the mark, then write it down. Reading from above or below gives the wrong depth.
+11. (odd) Three of these are weather tools. Which one is the odd one out?  
    Options: Rain gauge / Wind vane / Thermometer / Weighing scale  
    **Answer:** 3. *Why:* A weighing scale measures weight. The other three measure parts of the weather: rain, wind direction and temperature.
-11. (perspective) Two friends in Hyderabad argue about where to put the rain gauge for their school weather diary.  
+12. (perspective) Two friends in Hyderabad argue about where to put the rain gauge for their school weather diary.  
    **Answer:** A strong answer picks the first child for a truer reading, because a gauge under a sunshade catches little or no rain. It also gives the second child his due: a gauge must not blow over, and it must be easy to read every day. A good answer joins both: put it on the open terrace, and weigh it down or tape it in place.. *Why:* Both care about something real: getting all the rain, and making the gauge safe and easy to read. The best plan meets both needs.
-12. (write) Why do weather stations all follow the same rules for where to put their thermometers?  
+13. (write) Why do weather stations all follow the same rules for where to put their thermometers?  
    **Answer:** So that their readings can be compared. If one station put its thermometer in the sun and another in the shade, their numbers would be different even in the same weather.. *Why:* A strong answer says that the same method makes readings from different places and days fair to compare.
-13. (label) Label the parts of this weather screen: the white paint, the slatted sides, the legs, the thermometer inside.  
+14. (label) Label the parts of this weather screen: the white paint, the slatted sides, the legs, the thermometer inside.  
    **Answer:** ['white paint', 'slatted sides', 'legs', 'thermometer']. *Why:* White takes in little sunlight. The slats let air through. The legs keep it away from the hot ground. The thermometer inside is shaded. A strong answer says what each part is for.
-14. (truefalse) You miss the 3 o'clock reading in your weather diary. You should write a number that is probably right.  
+15. (truefalse) You miss the 3 o'clock reading in your weather diary. You should write a number that is probably right.  
    **Answer:** False. *Why:* False. Write 'missed'. A guessed number looks like a real reading, and then the record cannot be trusted.
-15. (mcq) Which of these tells you the most about how strong the wind is, without any tool?  
-   Options: Whether the sky is blue / Whether big branches are swaying / Whether the road is dry / Whether it is morning  
+16. (mcq) Which of these tells you the most about how strong the wind is, without any tool?  
+   Options: Whether the sky is blue / Whether the road is dry / Whether big branches are swaying / Whether it is morning  
    **Answer:** Whether big branches are swaying. *Why:* Wind moves things: leaves, branches, clothes, flags. The bigger the thing it moves, the stronger the wind.
-### Reading the Records (stretch) (stretch, 15 questions)
+### Reading the Records (stretch) (stretch, 16 questions)
 1. (mcq) At 7 in the morning, a shade thermometer in Kochi reads 26 °C. At noon it reads 31 °C. What will it most likely read at 3 in the afternoon on a clear day?  
-   Options: About 24 °C / About 26 °C / About 32 °C / About 50 °C  
+   Options: About 24 °C / About 32 °C / About 26 °C / About 50 °C  
    **Answer:** About 32 °C. *Why:* On a clear day the air keeps warming after noon, until the middle of the afternoon. So it will probably be a little warmer than at noon. 50 °C is far too high for shade air in Kochi.
 2. (write) Arun, Nila's little brother in the story, thinks noon is the hottest time of day, because the Sun is highest then. Explain what really happens, and how you could test it.  
    **Answer:** The ground and walls keep taking in sunlight and warming the air after noon, so the air is usually warmest at about 2 to 4 in the afternoon. To test it, read a shade thermometer every two hours through a clear day and find the highest reading.. *Why:* A strong answer gives the reason and a fair way to test it: same thermometer, same shaded place, many readings.
@@ -538,36 +565,38 @@ And next to the word 'Temperature' she added a small note to herself, in red pen
    **Answer:** False. *Why:* False. Its wide top catches rain over a big opening, but the water collects in the narrow bottom, so it fills deeper than the true rain. A good rain gauge has straight sides, or a funnel of known size.
 4. (count) A rain gauge shows 4 mm on Monday, 12 mm on Tuesday, 0 mm on Wednesday and 9 mm on Thursday. How much rain fell in the four days?  
    **Answer:** 25. *Why:* 4 + 12 + 0 + 9 = 25 mm. Adding the daily depths gives the total rainfall. A strong answer counts the 0 too, because a dry day is still a day in the record.
-5. (mcq) You measure 10 mm of rain on a terrace in Guwahati. The weather station 5 km away measures 25 mm. What is the most likely reason?  
+5. (write) Look at the rain from a window. Say if the drops are big or small, if they slant, and if the rain looks like fine lines or a grey sheet.  
+   **Answer:** A strong answer describes what the child saw, such as small drops slanting in the wind, or a heavy shower that looks like a grey sheet. It says why: wind pushes the drops sideways.. *Why:* A good answer describes size and slant from what was seen, and does not guess numbers it did not measure.
+6. (mcq) You measure 10 mm of rain on a terrace in Guwahati. The weather station 5 km away measures 25 mm. What is the most likely reason?  
    Options: One of the gauges must be broken / Rain does not fall evenly, so different places get different amounts / Rain gauges always give different numbers / You measured in centimetres  
    **Answer:** Rain does not fall evenly, so different places get different amounts. *Why:* A rain cloud can drop more rain in one place than another, even nearby. That is why the India Meteorological Department (IMD) has many rain gauges, not one per city. A broken gauge is possible, but the first thing to think of is that the rain really was different.
-6. (match) Match each wind to where it comes from.  
+7. (match) Match each wind to where it comes from.  
    **Answer:** A north wind → comes from the north; A sea breeze in Chennai → comes from the sea, to the east; The southwest monsoon → comes from the southwest, over the Arabian Sea; A west wind → comes from the west. *Why:* Every wind is named for where it comes from. Chennai's sea lies to the east, so a breeze off the sea there comes from the east.
-7. (write) Why does a wind vane have a bigger tail than arrowhead? What would happen with a tiny tail?  
+8. (write) Why does a wind vane have a bigger tail than arrowhead? What would happen with a tiny tail?  
    **Answer:** The wind pushes harder on the bigger tail, so the tail swings away from the wind and the arrow ends up pointing into it. With a tiny tail and a big arrowhead, the arrowhead would be pushed away instead, and the vane would point the wrong way, or not settle.. *Why:* A strong answer says that the wind pushes more on a bigger surface, and that is what turns the vane.
-8. (sort) Sort these readings from a weather diary.  
+9. (sort) Sort these readings from a weather diary.  
    **Answer:** 32 °C → Temperature; 8 mm → Rainfall; from the southwest → Wind; a wind number of 3 → Wind; Min 24 °C → Temperature; 0 mm → Rainfall. *Why:* Degrees Celsius are temperatures, millimetres are rain, and a direction or a wind number describes the wind. A strong answer notices that 0 mm is still a rainfall reading.
-9. (perspective) Two sisters in Bengaluru look at the weather app. It says 30 °C, but 'feels like 34 °C'.  
+10. (perspective) Two sisters in Bengaluru look at the weather app. It says 30 °C, but 'feels like 34 °C'.  
    **Answer:** A strong answer sees that both are partly right. The first child is right that 30 °C was measured in the shade, and that 'feels like' is worked out from a formula, not measured. The second child is right that damp air and no wind make it feel hotter to people, and that matters for health. A good answer says each number answers a different question.. *Why:* The measured temperature describes the air. The 'feels like' number tries to describe how people's bodies cope. Different apps work it out differently.
-10. (mcq) Why are weather screens painted white?  
-   Options: White reflects most sunlight, so the box stays cool / White is easy to see from far away / Paint keeps insects out / Weather scientists like white  
+11. (mcq) Why are weather screens painted white?  
+   Options: White is easy to see from far away / Paint keeps insects out / White reflects most sunlight, so the box stays cool / Weather scientists like white  
    **Answer:** White reflects most sunlight, so the box stays cool. *Why:* A white surface reflects most sunlight. A dark box would heat up in the sun, warm the air inside, and the thermometer would read too high.
-11. (draw) Draw a line chart for this day in Chennai: 7 am 27 °C, 10 am 31 °C, 1 pm 34 °C, 3 pm 35 °C, 6 pm 31 °C. Circle the warmest time.  
+12. (draw) Draw a line chart for this day in Chennai: 7 am 27 °C, 10 am 31 °C, 1 pm 34 °C, 3 pm 35 °C, 6 pm 31 °C. Circle the warmest time.  
    **Answer:** A line rising from 27 to a peak of 35 at 3 pm, then falling to 31, with the 3 pm point circled.. *Why:* A strong chart has the times evenly along the bottom, the temperatures up the side, and the highest point at 3 pm circled.
-12. (fill) The highest temperature in a day is called the ____ temperature. The lowest is called the ____ temperature.  
+13. (fill) The highest temperature in a day is called the ____ temperature. The lowest is called the ____ temperature.  
    **Answer:** ['maximum', 'minimum']. *Why:* Maximum and minimum, often shortened to max and min in weather reports.
-13. (odd) Three of these would make a thermometer read too high. Which one would not?  
+14. (odd) Three of these would make a thermometer read too high. Which one would not?  
    Options: Hanging it in full sun / Letting it touch a sunny wall / Hanging it in the shade with air all round / Putting it in a closed black box in the sun  
    **Answer:** 2. *Why:* In the shade with air round it, only the air warms it, so it reads correctly. The others all let sunlight or a hot surface heat it.
-14. (truefalse) If the wind vane on your balcony keeps swinging about, your vane must be broken.  
+15. (truefalse) If the wind vane on your balcony keeps swinging about, your vane must be broken.  
    **Answer:** False. *Why:* False. In a city, buildings and walls bend the wind and make it gusty, so a balcony vane often swings. A strong answer suggests watching for a minute and writing the direction it points most often.
-15. (label) Label this rain gauge: the funnel, the measuring jar, the ruler marks in mm, and the open sky above it.  
+16. (label) Label this rain gauge: the funnel, the measuring jar, the ruler marks in mm, and the open sky above it.  
    **Answer:** ['funnel', 'measuring jar', 'ruler marks in mm', 'open sky']. *Why:* The funnel leads rain into the jar. The marks show the depth in millimetres. The open sky above means nothing blocks or adds water. A strong answer says why each matters.
 ### Think like a Meteorologist (challenge) (challenge, 15 questions)
 1. (write) You have two thermometers. Before a Sun or Shade test, you hang them side by side in the shade. One reads 30 °C and the other 32 °C. What should you do before comparing sun and shade with them?  
    **Answer:** Note that one reads 2 degrees higher than the other. Then either correct for it, or use the same thermometer in both places. Otherwise a difference you see might come from the thermometers, not from the sun.. *Why:* A strong answer understands that tools must be checked against each other first, so the only difference in the test is the sunlight.
 2. (mcq) In Korea in 1441, people stopped measuring rain by digging into the soil. Why was the soil a poor rain gauge?  
-   Options: Soil is too heavy to carry / Dry soil soaks up more rain than wet soil, so the same rain gave different answers / Soil turns into mud / Kings did not like digging  
+   Options: Dry soil soaks up more rain than wet soil, so the same rain gave different answers / Soil is too heavy to carry / Soil turns into mud / Kings did not like digging  
    **Answer:** Dry soil soaks up more rain than wet soil, so the same rain gave different answers. *Why:* How deep the soil got wet depended on how dry it was before, and on the kind of soil. A metal vessel soaks up nothing, so it measures only the rain.
 3. (perspective) Here are three views about the thermometer at a bus stop in Hyderabad, which stands in the sun and shows 47 °C.  
    **Answer:** A strong answer agrees with Usha about the air, using the Sun or Shade test: a thermometer in the sun reads many degrees above the shade. It also gives Zara her due: the sign really is at 47, which is true of the sign. It gives Gopal his due: a person standing in the sun is heated by sunlight too, just like the sign, so it can feel far hotter than the air.. *Why:* Each view describes something true: the sign, the air, and a person standing in the sun. The weather report gives the air in the shade, because that can be fairly compared.
@@ -583,7 +612,7 @@ And next to the word 'Temperature' she added a small note to herself, in red pen
 8. (draw) Design your own weather screen from things at home. Draw it, and label how it keeps sunlight out and lets air in.  
    **Answer:** Any design with a shade that stops all direct sunlight, gaps or slots for air, a light colour, and the thermometer hanging free inside.. *Why:* A strong design gives a reason for each part, as the real weather screen does.
 9. (mcq) A week of weather diary readings in Kochi, in July, shows the wind coming from the southwest on 6 days out of 7. What is the best conclusion?  
-   Options: The southwest monsoon wind was blowing that week / The vane is stuck / Winds never change / The wind was going towards the southwest  
+   Options: The vane is stuck / Winds never change / The wind was going towards the southwest / The southwest monsoon wind was blowing that week  
    **Answer:** The southwest monsoon wind was blowing that week. *Why:* In July, the southwest monsoon brings winds from the southwest over Kerala. The vane pointed southwest, into the wind. Picking 'going towards the southwest' is the common mix-up about which way a vane points.
 10. (order) Put these in order, from the reading that is most likely to be too high to the one most likely to be right for the air.  
    **Answer:** ['A thermometer lying on a black car roof in the sun', 'A thermometer hanging in full sun', 'A thermometer under a white paper roof in the sun', 'A thermometer in a white slatted box in the shade']. *Why:* The black roof heats the thermometer by touching it, on top of the sunlight. Full sun heats it directly. The paper roof shades it, but the paper warms a little. The weather screen is the best shade with air flowing through.
@@ -606,34 +635,40 @@ And next to the word 'Temperature' she added a small note to herself, in red pen
 
 ## Quiz
 1. (mcq) One thermometer hangs in the sun and one in the shade, a metre apart. Which reads higher?  
-   Options: The one in the sun / The one in the shade / They read the same / Neither works outside  
+   Options: The one in the shade / They read the same / Neither works outside / The one in the sun  
    **Answer:** The one in the sun. *Why:* Sunlight heats the thermometer in the sun, so it reads higher than the air. Picking 'the same' means thinking a thermometer only feels the air.
 2. (mcq) What does a thermometer in the shade show?  
-   Options: The temperature of the air / How bright the sunlight is / How much rain will fall / The wind speed  
+   Options: How bright the sunlight is / How much rain will fall / The temperature of the air / The wind speed  
    **Answer:** The temperature of the air. *Why:* In the shade, only the air warms or cools the thermometer, so it shows the air's temperature.
 3. (mcq) In the Sun or Shade test, why do we keep the thermometer at the same height and on the same thread each time?  
-   Options: So that only the sunlight changes, and the test is fair / So it looks neat / Because the thread is magic / So it reads higher  
+   Options: So it looks neat / Because the thread is magic / So it reads higher / So that only the sunlight changes, and the test is fair  
    **Answer:** So that only the sunlight changes, and the test is fair. *Why:* A fair test changes only one thing. Here that thing is the sunlight.
 4. (mcq) Rain fills a narrow straight glass to 15 mm. A wide straight dabba stands next to it. How deep is the water in the dabba?  
-   Options: About 15 mm / Much more than 15 mm / Much less than 15 mm / It is empty  
+   Options: Much more than 15 mm / Much less than 15 mm / It is empty / About 15 mm  
    **Answer:** About 15 mm. *Why:* Straight-sided containers fill to the same depth in the same rain. The dabba holds more water, at the same depth.
-5. (mcq) Rainfall is measured as...  
-   Options: a depth, in millimetres / a weight, in kilograms / a temperature, in degrees / a number of drops  
+5. (mcq) You read the water in a rain gauge with a ruler. Where should your eye be?  
+   Options: Level with the water line / High above the gauge, looking down / Low down, looking up at the water  
+   **Answer:** Level with the water line. *Why:* Looking from above or below moves the water line in your view, so you read the wrong mm. Looking level with the line gives the true depth.
+6. (mcq) On a windy day, the rain falls at a slant. What is the wind doing to the rain?  
+   Options: Making the drops fall straight down faster / Making the drops smaller / Pushing the falling drops sideways  
+   **Answer:** Pushing the falling drops sideways. *Why:* Wind pushes the falling drops sideways, so the rain slants. Wind does not make the drops smaller, and gravity still pulls them down.
+7. (mcq) Rainfall is measured as...  
+   Options: a weight, in kilograms / a temperature, in degrees / a number of drops / a depth, in millimetres  
    **Answer:** a depth, in millimetres. *Why:* Rain is measured as the depth of water it makes, in millimetres. That way, any straight-sided gauge gives the same answer.
-6. (mcq) A wind vane's arrow points north. What is the wind called?  
-   Options: A north wind, coming from the north / A south wind, going south / A west wind / No wind  
+8. (mcq) A wind vane's arrow points north. What is the wind called?  
+   Options: A south wind, going south / A west wind / No wind / A north wind, coming from the north  
    **Answer:** A north wind, coming from the north. *Why:* A vane points into the wind, to where it comes from. Winds are named for where they come from.
-7. (mcq) In a weather diary, the shade temperature on a clear day is usually highest at...  
+9. (mcq) In a weather diary, the shade temperature on a clear day is usually highest at...  
    Options: about 2 to 4 in the afternoon / sunrise / midnight / exactly noon  
    **Answer:** about 2 to 4 in the afternoon. *Why:* The ground and buildings keep warming the air after noon. Picking noon is the common guess.
-8. (mcq) On a dry day, you write '0 mm' in your weather diary. Is that useful?  
-   Options: Yes, a dry day is a real reading / No, only rainy days count / No, you should guess a number / Only if it is cloudy  
+10. (mcq) On a dry day, you write '0 mm' in your weather diary. Is that useful?  
+   Options: No, only rainy days count / No, you should guess a number / Only if it is cloudy / Yes, a dry day is a real reading  
    **Answer:** Yes, a dry day is a real reading. *Why:* A dry day is part of the record. Leaving it out would make the week look wetter than it was.
-9. (mcq) Long ago, people measured rain by digging to see how deep the soil was wet. Which is a better way to measure rain?  
+11. (mcq) Long ago, people measured rain by digging to see how deep the soil was wet. Which is a better way to measure rain?  
    Options: Catch the rain in a straight-sided metal pot and measure the water's depth with a ruler / Count the raindrops / Ask farmers to guess / Weigh the clouds  
    **Answer:** Catch the rain in a straight-sided metal pot and measure the water's depth with a ruler. *Why:* A pot soaks up nothing, so the depth of water in it shows only the rain. Soil soaks up different amounts depending on how dry it was before.
-10. (mcq) A weather report for Kolkata says 'Max 38, Min 27'. What does 'Min 27' mean?  
-   Options: The lowest air temperature that day was 27 °C / 27 mm of rain fell / The wind blew at 27 / It was 27 °C at noon  
+12. (mcq) A weather report for Kolkata says 'Max 38, Min 27'. What does 'Min 27' mean?  
+   Options: 27 mm of rain fell / The wind blew at 27 / The lowest air temperature that day was 27 °C / It was 27 °C at noon  
    **Answer:** The lowest air temperature that day was 27 °C. *Why:* Min is the minimum, the lowest temperature of the day, usually just before sunrise.
 
 ## Applications
@@ -701,6 +736,12 @@ Shade, Rain and Wind (sci.weather.L3): Topic-level song for Weather L3
 
 ## Things to buy
 - [A laboratory thermometer, minus 10 to 110 °C, with red liquid (not mercury). Or a digital thermometer with a probe.](https://www.amazon.in/s?k=laboratory+thermometer+red+liquid) (tool): The experiments need a thermometer that reads air from about 10 °C to 60 °C. A fever thermometer will not work: it reads only a small range near body temperature. Some wall thermometers stop at 50 °C, which a thermometer in strong sun can pass. A second thermometer lets you read the sun and the shade at the same time. Used in e1, e3, p1, c1. 
+- [A magnetic compass](https://www.amazon.in/s?k=magnetic+compass+school) (tool): Used in Make a Wind Vane. About ₹30 to ₹150. A phone compass app also works. Used in a2. Get it before Make a Wind Vane.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Sun or Shade: where does a thermometer tell the truth about the air?, Wide or Narrow: does a bigger rain gauge catch deeper rain?, My Weather Diary: one week. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, p1, c2. Get it before Sun or Shade: where does a thermometer tell the truth about the air?.
+- [A small funnel](https://www.amazon.in/s?k=small+plastic+funnel) (tool): Used in Rain While You Are Away. About ₹20 to ₹50. The top of a cut plastic bottle works. Used in c2. Get it before Rain While You Are Away.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in A Weather Screen for Your Balcony. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before A Weather Screen for Your Balcony.
+- [Clean sand (a small bag)](https://www.amazon.in/s?k=play+sand+small+bag) (material): Used in Make a Wind Vane. About ₹20 to ₹60. Fine soil sieved from a pot works. Used in a2. Get it before Make a Wind Vane.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What tool measures temperature? → A thermometer.

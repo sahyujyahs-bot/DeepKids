@@ -1,7 +1,7 @@
 # Chlorophyll and starch: how a leaf catches sunlight and keeps it as food
 `sci.plants.photosynthesis.L5`
 
-**Summary.** Leaves picked at sunset and at sunrise look the same, but an iodine test shows the sunset leaf holds far more starch. Where does the starch go at night? In this unit you will test real leaves for starch, check a white patch, and trace your meal back to the Sun.
+**Summary.** Leaves picked at sunset and at sunrise look the same, but an iodine test shows the sunset leaf holds far more starch. Where does the starch go at night? In this lesson you will test real leaves for starch, check a white patch, and trace your meal back to the Sun.
 
 **Intro.** *Think of everything you ate yesterday. Was there one food that did not need sunlight? Say what you think, and why.* Most people find this hard to answer. Rice and dal are plants, so they needed sunlight. But what about an egg, a fish or a mushroom? In the first activity, Plate to Sun, you follow each food on a real plate backwards and see where the trail ends. After that you test real leaves. You find out what chlorophyll does, where a leaf keeps the food it makes, and what happens to that food at night. You also meet the few living beings on Earth whose food does not start with sunlight.
 
@@ -105,9 +105,10 @@ Leaves hold other pigments besides chlorophyll. Red and purple pigments sit diss
 ### Almost all food starts with caught sunlight · *defined*
 **Definition:** Producers make food from things that are not food. Almost all producers on Earth use sunlight to do it. Every consumer lives on what producers made.
 
-Follow any food backwards and ask each time, 'and what did they eat?' The trail nearly always ends at a producer. On land the producers are mostly plants. In the sea they are mostly algae and cyanobacteria, which are tiny living beings that float near the surface. Cyanobacteria are bacteria that photosynthesise. The sea's producers do about half of all the photosynthesis on Earth. So 'food comes from plants' is a simplification. The fuller picture is that food comes from every living being that has chlorophyll. A sardine ate tiny animals that ate algae. A hen ate grain. A mushroom fed on dead straw. Each step passes on only a part of the energy, because every eater uses most of their food to stay alive. Producers catch only a small share of the sunlight that reaches the Earth, roughly one part in a thousand. All animals, fungi and most bacteria live on that share.
+Follow any food backwards and ask each time, 'and what did they eat?' The trail nearly always ends at a producer. On land the producers are mostly plants. In the sea they are mostly algae and cyanobacteria, which are tiny living beings that float near the surface. Cyanobacteria are bacteria that photosynthesise. The sea's producers do about half of all the photosynthesis on Earth. So 'food comes from plants' is a simplification. The fuller picture is that food comes from every living being that has chlorophyll. A sardine ate tiny animals that ate algae. A hen ate grain. A mushroom fed on dead straw. Each step passes on only a part of the energy, because every eater uses most of their food to stay alive. Producers catch only a small share of the sunlight that reaches the Earth, roughly one part in a thousand. All animals, fungi and most bacteria live on that share. Animals complete the balance of the air. In the light, a plant takes in carbon dioxide and gives out oxygen. Animals breathe the other way round: they take in oxygen and give out carbon dioxide. A plant also breathes in the dark, using oxygen, as every living cell does. Over time the air's oxygen and carbon dioxide stay in balance, because each kind of living being gives out what the other one uses.
 - e.g. Curd: sunlight was caught by grass, the cow ate the grass and made milk, and bacteria turned the milk into curd.
 - e.g. Fish curry in Kochi: sunlight was caught by algae in the Arabian Sea, small animals ate the algae, and the fish ate them.
+- e.g. A cow in a village field breathes out carbon dioxide, and the grass beside it takes that carbon dioxide in to make sugar.
 - e.g. Salt and water are on your plate too, but they give no energy. They are not food in this sense, and they do not come from sunlight.
 ### The 'almost': living beings fed by chemicals · *defined*
 **Definition:** A few living beings get their energy from chemicals that come out of rock, not from light. This is called chemosynthesis.
@@ -177,7 +178,7 @@ We have learned how chlorophyll catches light, and how a leaf keeps that energy 
 Light leaves the Sun as one stream of energy. A chlorophyll molecule catches one tiny packet of it. From there the same energy takes many forms. It is in the sugar and starch of a leaf, in a grain of rice, in the muscles of the child who eats the rice, and in the warmth of her skin. The energy is never made and never lost on the way. Each living being holds it for a while and passes it on.
 
 - **Chandogya Upanishad 6.7:** “अन्नमयं हि सोम्य मनः / आपोमयः प्राणः / तेजोमयी वागिति” Uddalaka asks his son Shvetaketu to eat nothing for fifteen days and only drink water. Afterwards the boy has forgotten the verses he knew well. He eats, and his memory returns. His father tells him that the mind is made of food. (Thinking and remembering run on the energy in food, and that energy was sunlight caught by chlorophyll. So energy from light that a leaf caught is at work in a child's memory.)
-- **Bhagavad Gita 15.12 to 15.13:** “यदादित्यगतं तेजो जगद्भासयतेऽखिलम्। / यच्चन्द्रमसि यच्चाग्नौ तत्तेजो विद्धि मामकम्।। / गामाविश्य च भूतानि धारयाम्यहमोजसा। / पुष्णामि चौषधीः सर्वाः सोमो भूत्वा रसात्मकः।।” The Gita says that the light in the Sun which lights the whole world, and the sap that feeds all plants, come from one and the same source. (The science in this unit finds the same link from the other side. The food in every plant holds energy from the Sun's light, caught and kept.)
+- **Bhagavad Gita 15.12 to 15.13:** “यदादित्यगतं तेजो जगद्भासयतेऽखिलम्। / यच्चन्द्रमसि यच्चाग्नौ तत्तेजो विद्धि मामकम्।। / गामाविश्य च भूतानि धारयाम्यहमोजसा। / पुष्णामि चौषधीः सर्वाः सोमो भूत्वा रसात्मकः।।” The Gita says that the light in the Sun which lights the whole world, and the sap that feeds all plants, come from one and the same source. (The science in this lesson finds the same link from the other side. The food in every plant holds energy from the Sun's light, caught and kept.)
 - **Robin Wall Kimmerer, Braiding Sweetgrass (2013):** Kimmerer is a plant scientist and a member of the Potawatomi nation. She writes that plants know how to make food from light and water, and then they give it away. (A green leaf feeds the white patch beside it, the root below it, and in the end every animal. Nearly every being who cannot catch light lives on those who can.)
 - Science (settled): Energy is never made or destroyed. A plant does not create energy. They change the energy of light into chemical energy, as Julius Robert Mayer wrote in 1845.
 - Science (settled): Thale cress plants use their leaf starch at a steady rate that lasts until dawn, and change the rate at once when the night is made longer.
@@ -513,7 +514,7 @@ She ate the rice slowly. Then she went to find the blade.
   - Note: Width times width times three quarters is close enough for a circle. Most healthy pot plants hold out between 2 and 6 times the area of their pot.
   - Check: Why do most leaves grow thin and flat, not thick and round? → **A flat leaf catches more light for the same material**
 ### a6 · A Photon's Journey: draw the comic strip (20 min)
-- **record:** Keep the comic strip. Read it aloud to someone who has not done this unit, and see whether they can follow it.
+- **record:** Keep the comic strip. Read it aloud to someone who has not done this lesson, and see whether they can follow it.
 - **s1 (4 min)**  
   *Parent does:* 1. Rule the paper into six boxes. 2. Ask your child to tell the journey aloud first, in their own words. 3. Write six short titles together, one for each box.  
   *Parent says:* A photon is one tiny packet of light. Tell me the journey first. A photon leaves the Sun. What happens to its energy, step by step, until someone eats it?  
@@ -579,7 +580,7 @@ She ate the rice slowly. Then she went to find the blade.
 ## Worksheets
 ### Chlorophyll, starch and food chains (core) (core, 16 questions)
 1. (mcq) What does chlorophyll do in a leaf?  
-   Options: It keeps the leaf stiff / It catches light / It carries water / It joins sugar into starch  
+   Options: It catches light / It keeps the leaf stiff / It carries water / It joins sugar into starch  
    **Answer:** It catches light. *Why:* Chlorophyll is the pigment that catches light. Choosing 'joins sugar into starch' mixes up the catcher with the builders. Enzymes do the building.
 2. (truefalse) True or false: chlorophyll is spread evenly through every part of a leaf cell.  
    **Answer:** False. *Why:* False. Chlorophyll sits only inside the chloroplasts, the small green bodies in the cell. The rest of the cell has no colour.
@@ -601,7 +602,7 @@ She ate the rice slowly. Then she went to find the blade.
 10. (truefalse) True or false: a red amaranth leaf has no chlorophyll.  
    **Answer:** False. *Why:* False. The chlorophyll is under the red pigment. Hot water takes out the red, and the leaf turns green.
 11. (mcq) Why is the leaf warmed in spirit during the starch test?  
-   Options: To take the green colour out / To add starch to the leaf / To make the leaf sweet / To kill germs on the leaf  
+   Options: To add starch to the leaf / To make the leaf sweet / To kill germs on the leaf / To take the green colour out  
    **Answer:** To take the green colour out. *Why:* Chlorophyll dissolves in spirit. With the green gone, the blue-black of the iodine is easy to see. Spirit adds nothing to the leaf.
 12. (fill) The sugar that travels through a plant's phloem is called ____.  
    **Answer:** ['sucrose']. *Why:* Sucrose is the travelling sugar. It is the same sugar as kitchen sugar. Glucose is made first, and starch is the stored form.
@@ -615,9 +616,9 @@ She ate the rice slowly. Then she went to find the blade.
 16. (mcq) A white patch on a leaf makes no food. How do its cells stay alive?  
    Options: They need no food / They eat the iodine / Green cells nearby send them sugar / They take food from the soil  
    **Answer:** Green cells nearby send them sugar. *Why:* Sucrose flows from the green cells to the white ones. Choosing 'from the soil' is an old idea about plants. Soil gives water and minerals, not food.
-### Light, starch and who feeds whom (stretch) (stretch, 16 questions)
+### Light, starch and who feeds whom (stretch) (stretch, 17 questions)
 1. (mcq) Which colours of light does chlorophyll take in most?  
-   Options: Only green / Only white / Red and blue / Green and yellow  
+   Options: Only green / Only white / Green and yellow / Red and blue  
    **Answer:** Red and blue. *Why:* Chlorophyll takes in mostly red and blue light. Choosing 'green' is a common mix-up. Green is the colour a leaf sends back most, which is why we see it.
 2. (write) Explain why a leaf looks green.  
    **Answer:** Chlorophyll takes in mostly red and blue light. More of the green light is sent back or passes through, and that green light reaches our eyes.. *Why:* A strong answer says the colour we see is the light the leaf does not keep. An answer such as 'because it uses green light' has it the wrong way round.
@@ -626,7 +627,7 @@ She ate the rice slowly. Then she went to find the blade.
 4. (count) A leaf holds 60 units of starch at dusk. The night is 12 hours. How many units an hour last until dawn?  
    **Answer:** 5. *Why:* 60 ÷ 12 = 5. At 5 units an hour the starch lasts exactly 12 hours.
 5. (mcq) Scientists made night come four hours early for thale cress plants. What did the plants do?  
-   Options: Used their starch more slowly / Used their starch faster / Stopped using starch / Made starch in the dark  
+   Options: Used their starch faster / Used their starch more slowly / Stopped using starch / Made starch in the dark  
    **Answer:** Used their starch more slowly. *Why:* The plants slowed down at once, and the starch still lasted until dawn. A plant makes no starch in the dark, because photosynthesis needs light.
 6. (fill) Every chlorophyll molecule has one atom of ____ at its centre.  
    **Answer:** ['magnesium']. *Why:* Magnesium sits in the middle of the chlorophyll molecule. A plant short of magnesium turns yellow.
@@ -636,27 +637,29 @@ She ate the rice slowly. Then she went to find the blade.
    **Answer:** ['Tiny sea algae', 'Tiny sea animals', 'Sardine', 'A child eating fish fry']. *Why:* The algae catch sunlight. Tiny animals eat the algae, the sardine eats them, and the child eats the sardine.
 9. (perspective) Three people talk about who makes a plant's food.  
    **Answer:** A strong answer uses evidence: the white patch for the textbook, a food chain for the physicist, or the Red Glow for the plant scientist. It also gives a fair point to another view.. *Why:* Each is right about one part. Chlorophyll is needed, the energy is the Sun's, and only the whole chloroplast can turn that energy into sugar.
-10. (mcq) In the Banana Clock, the very ripe slice hardly changed colour with iodine. Why?  
+10. (fill) When animals breathe, they take in oxygen and give out ________.  
+   **Answer:** carbon dioxide. *Why:* Animals breathe the other way round from a plant in the light. The plant takes in carbon dioxide and gives out oxygen, so the two living things keep the air in balance.
+11. (mcq) In the Banana Clock, the very ripe slice hardly changed colour with iodine. Why?  
    Options: It had dried out / Its food had been used up / Iodine was too weak / Its starch had turned into sugar  
    **Answer:** Its starch had turned into sugar. *Why:* A ripening banana breaks starch into sugars, and sugar gives no colour with iodine. The food is still there, as sugar.
-11. (draw) Draw what happens to a photon's energy in a leaf, and in a jar of chlorophyll. Use two boxes.  
+12. (draw) Draw what happens to a photon's energy in a leaf, and in a jar of chlorophyll. Use two boxes.  
    **Answer:** Box 1: a photon lands on chlorophyll in a leaf, and an arrow leads on to 'sugar'. Box 2: a photon lands on chlorophyll in a jar, and arrows lead back out as 'red light' and 'heat'.. *Why:* A strong drawing shows the energy being passed on in the leaf and coming straight back out in the jar.
-12. (truefalse) True or false: plants store starch because starch dissolves easily in water.  
+13. (truefalse) True or false: plants store starch because starch dissolves easily in water.  
    **Answer:** False. *Why:* False. Starch does not dissolve. That is why it is good for storing. It sits in the cell as small grains and does not pull water in.
-13. (odd) Three of these photosynthesise. Which one does not?  
+14. (odd) Three of these photosynthesise. Which one does not?  
    Options: Seaweed / Cyanobacteria / Mushroom / Paddy plant  
    **Answer:** 2. *Why:* A mushroom is a fungus with no chlorophyll, and feeds on dead plants. Seaweed, cyanobacteria and paddy all make food from light.
-14. (write) A pure white seedling grows well for three weeks and then dies. Explain both parts.  
+15. (write) A pure white seedling grows well for three weeks and then dies. Explain both parts.  
    **Answer:** For three weeks the seedling lives on food stored in the seed. With no chlorophyll they catch no light and make no new food. When the seed is empty, they starve.. *Why:* A strong answer explains the good start by the seed's store, and the death by the missing chlorophyll.
-15. (match) Match each living being to the way they are fed.  
+16. (match) Match each living being to the way they are fed.  
    **Answer:** Dodder (amarbel) → takes sucrose from a green plant; Giant tubeworm → fed by bacteria that use chemicals; Reef coral → fed by algae living inside their body; Mushroom → feeds on dead plants; Hibiscus → makes food from light. *Why:* Only the hibiscus and the coral's algae catch light themselves. The others live on food that someone else made.
-16. (label) List the four liquids used in the starch test on a leaf. Beside each, write its job.  
+17. (label) List the four liquids used in the starch test on a leaf. Beside each, write its job.  
    **Answer:** ['Very hot water: kills the cells and lets liquids in', 'Warm spirit: takes out the chlorophyll', 'Warm rinse water: softens the leaf', 'Iodine: turns blue-black with starch']. *Why:* Each step does one job. Skipping the hot water or the spirit gives a result that is hard to read.
 ### Energy, the night and the 'almost' (challenge) (challenge, 16 questions)
 1. (write) People say 'the energy is in the sugar'. What is the more exact way to say it?  
    **Answer:** The energy is in sugar and oxygen kept apart. It comes out when the two react and turn back into carbon dioxide and water.. *Why:* A strong answer brings in the oxygen. Sugar gives energy only when it reacts with oxygen, in a flame or in a cell.
 2. (mcq) Most bacteria at deep-sea hot springs still need one thing that photosynthesis made. What is it?  
-   Options: Sunlight / Oxygen / Starch / Chlorophyll  
+   Options: Sunlight / Starch / Oxygen / Chlorophyll  
    **Answer:** Oxygen. *Why:* They use oxygen to get energy from hydrogen sulphide. That oxygen was made by algae and plants far above, and was carried down in the sea water.
 3. (count) A square metre of paddy gives 300 grams of rice. You eat 150 grams a day. How many days does it last?  
    **Answer:** 2. *Why:* 300 ÷ 150 = 2. One square metre of field feeds you rice for only two days.
@@ -665,7 +668,7 @@ She ate the rice slowly. Then she went to find the blade.
 5. (perspective) Two groups of scientists talk about a leaf's starch at night.  
    **Answer:** A strong answer sees that both explain the same results, and suggests a test where the two would differ, such as changing the sugar level without changing the starch.. *Why:* This is a real, open argument. A good scientist can say what would change their mind.
 6. (mcq) How do satellites measure photosynthesis from space?  
-   Options: By the faint red glow of leaves / By counting trees / By weighing forests / By the smell of leaves  
+   Options: By counting trees / By the faint red glow of leaves / By weighing forests / By the smell of leaves  
    **Answer:** By the faint red glow of leaves. *Why:* Chlorophyll in living leaves gives off a very faint red glow while it works. Satellites have measured this glow over the whole Earth since 2011.
 7. (fill) Making food with energy from chemicals, not from light, is called ____.  
    **Answer:** ['chemosynthesis']. *Why:* Chemo means 'chemical' and photo means 'light'. Some bacteria make food by chemosynthesis.
@@ -674,7 +677,7 @@ She ate the rice slowly. Then she went to find the blade.
 9. (order) Put in order what happens to light energy in a leaf.  
    **Answer:** ['Chlorophyll catches a photon', 'An electron gains the energy', 'The energy reaches a reaction centre', 'Enzymes build sugar', 'Sugar is stored as starch']. *Why:* The light is caught first. The energy is passed on, then used to build sugar, and part of the sugar is stored as starch.
 10. (mcq) A plant short of magnesium turns yellow. Why?  
-   Options: They have too much starch / They get too much light / They cannot make enough chlorophyll / Magnesium is yellow  
+   Options: They cannot make enough chlorophyll / They have too much starch / They get too much light / Magnesium is yellow  
    **Answer:** They cannot make enough chlorophyll. *Why:* Every chlorophyll molecule needs one magnesium atom. With too little magnesium, less chlorophyll is made, and the yellow pigments show.
 11. (draw) Sketch a line graph of the starch in a leaf over 24 hours, from sunrise to the next sunrise.  
    **Answer:** A line that starts low at sunrise, rises through the day to a peak at sunset, then falls in a straight line through the night to nearly zero at the next sunrise.. *Why:* A strong sketch shows a steady fall at night, not a sudden drop. The line should reach almost zero at dawn, not hours before.
@@ -682,13 +685,13 @@ She ate the rice slowly. Then she went to find the blade.
    Options: A fish / A child / Tubeworm bacteria / Rock microbes living on hydrogen  
    **Answer:** 3. *Why:* Fish, children and most hot spring bacteria use oxygen that photosynthesis made. The microbes deep in rock use hydrogen and need no oxygen.
 13. (write) Name one thing about chlorophyll or starch that scientists still argue about.  
-   **Answer:** One answer: how a plant sets the speed of starch use at night. Another: whether green sea slugs really live on the chloroplasts they take from algae.. *Why:* Any open question from this unit is right, as long as it is truly unsettled.
+   **Answer:** One answer: how a plant sets the speed of starch use at night. Another: whether green sea slugs really live on the chloroplasts they take from algae.. *Why:* Any open question from this lesson is right, as long as it is truly unsettled.
 14. (truefalse) True or false: chlorophyll on paper fades in sunlight, but chlorophyll in a living leaf is kept in repair.  
    **Answer:** True. *Why:* True. A living leaf passes the caught energy on and replaces harmed parts all day. On paper nothing replaces them.
 15. (sort) Sort these into 'settled' and 'still argued about'.  
    **Answer:** Chlorophyll holds a magnesium atom → Settled; Leaves use up most of their starch by dawn → Settled; Plants do division to share out starch → Still argued about; A green sea slug lives on sunlight → Still argued about; The sea does about half of all photosynthesis → Settled; Life began at deep-sea hot springs → Still argued about. *Why:* Science has both kinds of statement. Saying which is which is part of being honest about what we know.
 16. (mcq) Of 1,000 units of sunlight energy on a field, the crop stores about 10. What share is that?  
-   Options: 1 in 1,000 / 1 in 100 / 1 in 10 / Half  
+   Options: 1 in 1,000 / 1 in 10 / 1 in 100 / Half  
    **Answer:** 1 in 100. *Why:* 10 out of 1,000 is the same as 1 out of 100. Most of the light warms the field, passes through or is sent back.
 
 ## Videos
@@ -704,13 +707,13 @@ She ate the rice slowly. Then she went to find the blade.
    Options: An electron gains the energy / Starch appears / The leaf gets heavier / Oxygen is caught  
    **Answer:** An electron gains the energy. *Why:* The photon's energy lifts an electron in the chlorophyll. Sugar and starch come later, after the energy is passed on.
 3. (mcq) In the starch test, what is the job of the very hot water?  
-   Options: It turns starch blue / It adds sugar / It kills the cells and lets liquids in / It takes the green out  
+   Options: It turns starch blue / It adds sugar / It takes the green out / It kills the cells and lets liquids in  
    **Answer:** It kills the cells and lets liquids in. *Why:* Hot water stops the cells using starch and breaks their thin skins. Taking the green out is the job of the spirit.
 4. (mcq) When does a leaf on a sunny balcony hold the most starch?  
-   Options: At midnight / The same all day / Late afternoon / Just before sunrise  
+   Options: At midnight / The same all day / Just before sunrise / Late afternoon  
    **Answer:** Late afternoon. *Why:* Starch builds up all day and is used up all night. So it is highest late in the afternoon and lowest just before sunrise.
 5. (mcq) A green and white leaf is tested with iodine. Which parts turn blue-black?  
-   Options: Only the parts that were green / Only the parts that were white / The whole leaf / No part  
+   Options: Only the parts that were white / The whole leaf / Only the parts that were green / No part  
    **Answer:** Only the parts that were green. *Why:* Starch is made only where there is chlorophyll. Choosing 'the whole leaf' usually means thinking that light alone is enough.
 6. (mcq) A purple coleus leaf turns blue-black in the starch test. What does that show?  
    Options: Purple pigment makes starch / The test went wrong / Purple leaves need no light / It has chlorophyll under the purple  
@@ -719,18 +722,21 @@ She ate the rice slowly. Then she went to find the blade.
    Options: It is made in the root / As sucrose, through the phloem / As starch grains, through the soil / As chlorophyll, through the veins  
    **Answer:** As sucrose, through the phloem. *Why:* Starch does not dissolve, so it cannot travel. The leaf turns it into sucrose, which flows through the phloem. The root then stores it as starch again.
 8. (mcq) Why does a leaf store food as starch and not as dissolved sugar?  
-   Options: Starch does not dissolve or pull in water / Starch is sweeter / Starch is green / Starch catches light  
+   Options: Starch is sweeter / Starch is green / Starch does not dissolve or pull in water / Starch catches light  
    **Answer:** Starch does not dissolve or pull in water. *Why:* A lot of dissolved sugar would draw water into the cell and swell it. Starch sits as small grains and causes no such trouble.
 9. (truefalse) True or false: the fish in a fish curry needed sunlight.  
    **Answer:** True. *Why:* True. The fish ate smaller animals, who ate tiny sea algae, and the algae made food from sunlight.
 10. (mcq) What comes first in nearly every food chain?  
-   Options: A fungus / Soil / A producer that catches light / A small animal  
+   Options: A producer that catches light / A fungus / Soil / A small animal  
    **Answer:** A producer that catches light. *Why:* Nearly every chain begins with a plant, an alga or a cyanobacterium making food from light. Soil gives minerals and water, not energy.
-11. (mcq) What feeds the giant tubeworms at hot springs on the deep sea floor?  
+11. (mcq) A leaf is in a dark room all night. What does it take in and give out?  
+   Options: Oxygen in, carbon dioxide out / Carbon dioxide in, oxygen out / Nothing at all, because the leaf is resting  
+   **Answer:** Oxygen in, carbon dioxide out. *Why:* Every living cell breathes all day and night, taking in oxygen and giving out carbon dioxide. Carbon dioxide in and oxygen out needs light, so it stops in the dark.
+12. (mcq) What feeds the giant tubeworms at hot springs on the deep sea floor?  
    Options: Nothing at all / Bacteria that use chemicals for energy / Seaweed growing on the rocks / Sunlight shining down  
    **Answer:** Bacteria that use chemicals for energy. *Why:* No light reaches the deep sea floor, so no seaweed grows there. Bacteria inside the tubeworms make food using energy from chemicals in the hot water.
-12. (mcq) Which of these do scientists still argue about?  
-   Options: Whether leaves hold chlorophyll / Whether iodine shows starch / Whether plants need light / How a plant sets the speed of starch use at night  
+13. (mcq) Which of these do scientists still argue about?  
+   Options: How a plant sets the speed of starch use at night / Whether leaves hold chlorophyll / Whether iodine shows starch / Whether plants need light  
    **Answer:** How a plant sets the speed of starch use at night. *Why:* Everyone agrees that leaves use starch at a steady rate that lasts until dawn. How the plant sets that rate is not settled.
 
 ## Applications
@@ -795,15 +801,21 @@ Spore, Cone and Flower (sci.plants.L5): Topic-level song for Plants L5
 - [Ask A Biologist](https://askabiologist.asu.edu/) · interactive: Free, clear pages on chloroplasts, pigments and how plants make food, from Arizona State University. Search the site for chlorophyll.
 - [NASA Earth Observatory](https://earthobservatory.nasa.gov/) · interactive: Satellite maps of the Earth's green cover and of chlorophyll in the sea. Search the site for fluorescence to see the red glow of plants mapped from space.
 - [NOAA Ocean Exploration](https://oceanexplorer.noaa.gov/) · interactive: Photos and short films of hot springs on the deep sea floor and the animals that live there without sunlight.
-- [Jawaharlal Nehru Tropical Botanic Garden and Research Institute]() · place · Palode, near Thiruvananthapuram: A large garden of tropical plants. Look for leaves that are red, purple or patterned, and ask where their chlorophyll is.
-- [Lalbagh Botanical Garden]() · place · Bengaluru: Old trees, a glasshouse and a lake. Look down on plants from above and see how little the leaves overlap.
-- [Acharya Jagadish Chandra Bose Indian Botanic Garden]() · place · Howrah, near Kolkata: A very large old garden named after the scientist who recorded photosynthesis with his own instruments.
-- [Government Botanical Garden]() · place · Udhagamandalam (Ooty), Tamil Nadu: A hill garden with many variegated and coloured-leaf plants in its beds and glasshouses.
+- Jawaharlal Nehru Tropical Botanic Garden and Research Institute · place · Palode, near Thiruvananthapuram: A large garden of tropical plants. Look for leaves that are red, purple or patterned, and ask where their chlorophyll is.
+- Lalbagh Botanical Garden · place · Bengaluru: Old trees, a glasshouse and a lake. Look down on plants from above and see how little the leaves overlap.
+- Acharya Jagadish Chandra Bose Indian Botanic Garden · place · Howrah, near Kolkata: A very large old garden named after the scientist who recorded photosynthesis with his own instruments.
+- Government Botanical Garden · place · Udhagamandalam (Ooty), Tamil Nadu: A hill garden with many variegated and coloured-leaf plants in its beds and glasshouses.
 
 ## Things to buy
 - [Povidone-iodine solution, the brown antiseptic sold at medical shops (a small bottle)](https://www.amazon.in/s?k=povidone+iodine+solution) (material): Mixed with a little water, it turns blue-black on starch. Many homes already have a bottle. Used in e1, e2, a2. 
 - [Surgical spirit or isopropyl rubbing alcohol (a small bottle)](https://www.amazon.in/s?k=surgical+spirit) (material): It dissolves chlorophyll, so it takes the green out of a leaf before the iodine test. It is also used to make the green liquid for the Red Glow. Medical shops sell it. Used in e1, e2, a3. 
 - [A small ultraviolet torch, of the kind sold for checking banknotes](https://www.amazon.in/s?k=uv+torch+395nm) (tool): Its violet light makes chlorophyll glow red in the Red Glow activity. It is optional: the rest of the unit does not need it. Used in a3. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Measure the Sun Catcher: how much leaf does one plant hold out?, A Photon's Journey: draw the comic strip, The Leaf Tower: fix 12 leaves on one stem so that none is in the shade. About ₹10 to ₹30. Any school ruler is fine. Used in a5, a6, c1. Get it before Measure the Sun Catcher: how much leaf does one plant hold out?.
+- [Small torch bulbs or LEDs with a holder](https://www.amazon.in/s?k=torch+bulb+holder+set) (tool): Used in The Red Glow: what chlorophyll does with light in a jar. About ₹10 to ₹50. A small torch can be taken apart for its bulb. Used in a3. Get it before The Red Glow: what chlorophyll does with light in a jar.
+- [Food colour](https://www.amazon.in/s?k=food+colour+liquid) (material): Used in The Red Glow: what chlorophyll does with light in a jar. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it. Used in a3. Get it before The Red Glow: what chlorophyll does with light in a jar.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Leaf Prints That Fade: what light does to chlorophyll outside a leaf. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in p1. Get it before Leaf Prints That Fade: what light does to chlorophyll outside a leaf.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in Measure the Sun Catcher: how much leaf does one plant hold out?. About ₹10 to ₹30. Draw squares on plain paper. Used in a5. Get it before Measure the Sun Catcher: how much leaf does one plant hold out?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is the green pigment in leaves called? → Chlorophyll.
@@ -823,7 +835,7 @@ Spore, Cone and Flower (sci.plants.L5): Topic-level song for Plants L5
 ## Sources
 - Founder's notes in ideas/by_topic/plants.md, the row 'Photosynthesis and vision': 'place leaves in sunlight, then test starch with iodine' (Dawn Leaf, Dusk Leaf and the White Patch), 'chlorophyll absorbs photons' (the explanations), 'draw a photon's journey' and 'story of a Sunbeam's journey' (A Photon's Journey), 'make chlorophyll prints on paper' (Leaf Prints That Fade), 'take a nature walk noting plant colours' (Green Under Red and the spotted list), the board game idea of gathering photons to feed plants (Starch Bank), and the thought 'light is life's bridge, turning energy into food' (the roots).
 - Founder's notes in plants.md on cyanobacteria, chloroplasts and algae, used for 'Almost all food starts with caught sunlight'.
-- The Class 3 and Class 4 units on photosynthesis (sci.plants.photosynthesis.L3 and L4), which this unit builds on. The home method for the leaf starch test comes from the Class 3 unit. Their experiments, stories and discovery stories are not repeated.
+- The Class 3 and Class 4 units on photosynthesis (sci.plants.photosynthesis.L3 and L4), which this lesson builds on. The home method for the leaf starch test comes from the Class 3 unit. Their experiments, stories and discovery stories are not repeated.
 - DeepKids Combined sci-C3-plants.json (the idea that food chains begin with a leaf), for coverage only. Its story was not reused.
 - Open textbooks listed for this subtopic (Biology 2e and Concepts of Biology, the sections on photosynthesis), for facts only.
 - Pelletier, P.-J. and Caventou, J. B., 'Sur la matière verte des feuilles', Annales de Chimie et de Physique 9, 1818 (the name chlorophyll, proposed in 1817)

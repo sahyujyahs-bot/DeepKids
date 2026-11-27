@@ -1,0 +1,223 @@
+# DeepKids HomeSchooling Track / Chemistry (copied from Google Sheets, 2026-11-27)
+R2: 1. Foundations
+R3: Measurement & Math Tools: units, significant figures, dimensional analysis
+R4: Atomic Theory: historical models (Dalton → Quantum), subatomic particles
+R5: Periodic Table & Periodicity: groups, periods, trends (size, ionization, electronegativity)
+R6: Chemical Nomenclature: ions, compounds, acids/bases naming
+R7: Stoichiometry: mole concept, balancing equations, limiting reagents, yield
+R8: 2. Structure of Matter
+R9: Quantum Chemistry
+R10: Wave–particle duality, Heisenberg uncertainty
+R11: Schrödinger equation, orbitals (s, p, d, f)
+R12: Electron configurations, Hund’s & Pauli principles
+R13: Chemical Bonding
+R14: Ionic, covalent, metallic
+R15: VSEPR, hybridization, molecular orbital theory
+R16: Intermolecular forces: London, dipole, H-bonding
+R17: Solid-State Chemistry
+R18: Crystal lattices, unit cells, defects
+R19: Band theory, semiconductors
+R20: 3. Chemical Reactions & Thermodynamics
+R21: Types of Reactions: synthesis, decomposition, redox, acid–base, precipitation
+R22: Energetics
+R23: First law, enthalpy, calorimetry
+R24: Hess’s law, bond energy
+R25: Entropy & Free Energy
+R26: Second & Third laws
+R27: Gibbs free energy, spontaneity, equilibrium constants
+R28: 4. Chemical Kinetics
+R29: Rate laws, order of reaction
+R30: Collision theory, transition-state theory
+R31: Catalysis, enzyme kinetics
+R32: 5. Equilibria
+R33: Chemical Equilibrium: Le Châtelier’s principle, equilibrium constant expressions
+R34: Acid–Base Equilibria: pH, pKa, buffers, titration curves
+R35: Solubility Equilibria: Ksp, common-ion effect
+R36: 6. Electrochemistry
+R37: Redox reactions, half-cells
+R38: Galvanic and electrolytic cells
+R39: Nernst equation, electrolysis, corrosion
+R40: 7. States of Matter
+R41: Gases: ideal gas law, real gases (van der Waals), kinetic-molecular theory
+R42: Liquids & Solutions: vapor pressure, Raoult’s law, colligative properties
+R43: Phase Changes: phase diagrams, critical point
+R44: 8. Descriptive Inorganic Chemistry
+R45: s-, p-, d-, f-block element chemistry
+R46: Coordination compounds: crystal field theory, ligands, isomerism
+R47: Bioinorganic: metalloproteins, hemoglobin, chlorophyll
+R48: 9. Organic Chemistry
+R49: Structure & Bonding: hybridization, resonance, stereochemistry
+R50: Functional Groups & Reactions
+R51: Alkanes, alkenes, alkynes, aromatics
+R52: Alcohols, aldehydes, ketones, carboxylic acids, amines
+R53: Reaction Mechanisms: substitution, elimination, addition, rearrangements
+R54: Spectroscopy & Analysis: IR, NMR, MS
+R55: Biomolecules: carbohydrates, proteins, nucleic acids, lipids
+R56: Polymers & Materials: synthetic polymers, biopolymers
+R57: 10. Analytical Chemistry
+R58: Gravimetric & volumetric analysis
+R59: Chromatography (GC, HPLC), electrophoresis
+R60: Spectroscopy (UV-Vis, atomic absorption, X-ray, fluorescence)
+R61: Mass spectrometry
+R62: 11. Advanced / Applied Fields
+R63: Environmental Chemistry: atmospheric, water, soil chemistry
+R64: Industrial Chemistry: petrochemicals, fertilizers, pharmaceuticals
+R65: Materials Science: nanomaterials, superconductors
+R66: Nuclear Chemistry: radioactivity, fission/fusion, nuclear medicine
+R67: Computational & Theoretical Chemistry: molecular modeling, quantum simulations
+R68: 12. Emerging & Cross-Disciplinary
+R69: Supramolecular chemistry, green chemistry
+R70: Chemical biology, medicinal chemistry
+R71: Astrochemistry, geochemistry
+R72: Chemoinformatics, machine learning in chemistry
+R74: Physical Chemistry – Deeper Cuts
+R75: Statistical Mechanics – microstates, partition functions, Maxwell-Boltzmann, Fermi-Dirac, Bose-Einstein stats
+R76: Thermodynamics Beyond Basics – chemical potential, fugacity, activity coefficients, phase rule (Gibbs)
+R77: Quantum Chemistry Extras – Hartree-Fock, post-HF methods, density functional theory, basis sets
+R78: Spectroscopy Advanced – Raman, EPR/ESR, Mössbauer, ultrafast laser spectroscopy
+R79: Surface Chemistry – adsorption isotherms (Langmuir, BET), catalysis on surfaces, thin films
+R80: Inorganic Chemistry – More Granular
+R81: Organometallic Chemistry – metal carbonyls, sandwich compounds (ferrocene), cross-coupling catalysts
+R82: Solid State Details – perovskites, spinels, superconductors, ferromagnetism/antiferromagnetism
+R83: Bioinorganic Nuances – nitrogenase, oxygen evolution complex, metallodrugs (cisplatin, MRI agents)
+R84: Reaction Mechanisms – oxidative addition, reductive elimination, ligand substitution kinetics
+R85: Organic Chemistry – Finer Mechanistic Web
+R86: Named Reactions (tip of the iceberg): Aldol, Diels–Alder, Grignard, Wittig, Claisen, Sandmeyer, Friedel–Crafts, Suzuki, Heck, Sharpless epoxidation, etc.
+R87: Reactive Intermediates – carbenes, nitrenes, free radicals, carbocations, carbanions
+R88: Stereochemistry – optical activity, chiral pool synthesis, enantiomeric excess, conformational analysis
+R89: Pericyclic Reactions – electrocyclic, sigmatropic, cycloaddition (Woodward–Hoffmann rules)
+R90: Physical Organic – Hammett plots, isotope effects, linear free-energy relationships
+R91: Analytical Chemistry – Beyond the Intro
+R92: Electroanalytical: cyclic voltammetry, potentiometry, coulometry
+R93: Hyphenated techniques: LC-MS, GC-MS, ICP-MS
+R94: X-ray techniques: XRD, XPS
+R95: Thermal analysis: DSC, TGA
+R96: Specialized / Cross-Disciplinary Areas
+R97: Chemical Kinetics at Scale – chain reactions, photochemistry, atmospheric reaction mechanisms
+R98: Green Chemistry – atom economy, benign solvents, catalytic cycles for sustainability
+R99: Materials & Nanochemistry – quantum dots, MOFs (metal-organic frameworks), graphene chemistry, self-assembly
+R100: Medicinal Chemistry – drug design, SAR (structure–activity relationships), prodrugs, pharmacokinetics
+R101: Computational & Data-Driven Chem – cheminformatics, molecular dynamics, machine-learning-driven reaction prediction
+R102: Astrochemistry & Geochemistry – interstellar molecules, isotope ratios, planetary atmospheres
+R103: Radiochemistry & Nuclear Fuel Cycle – isotope production, nuclear waste processing, radiopharmaceuticals
+R104: Industrial & Applied
+R105: Petrochemical processes: cracking, reforming, polymerization
+R106: Fertilizer chemistry: Haber–Bosch, Ostwald process
+R107: Battery & Energy Storage: lithium-ion, solid-state batteries, redox-flow cells
+R108: Corrosion science and coatings
+R109: Food chemistry: Maillard reactions, flavor compounds, preservatives
+R111: More Specialized Branches
+R112: Photochemistry & Photophysics – Jablonski diagrams, singlet–triplet intersystem crossing, photosensitizers, solar fuels.
+R113: Organocatalysis – proline catalysis, enamine chemistry, phase-transfer catalysts.
+R114: High-Energy Chemistry – explosives chemistry, propellants, energetic materials, combustion kinetics.
+R115: Electro-organic synthesis – paired electrolysis, anodic oxidation, cathodic reductions.
+R116: Fine-grained Inorganic/Organometallic
+R117: Cluster chemistry (boranes, carboranes, metal clusters).
+R118: Lanthanide & actinide chemistry.
+R119: f-block organometallics, single-molecule magnets.
+R120: Catalytic cycles: olefin metathesis, hydroformylation, polymerization catalysts.
+R121: Advanced Materials
+R122: MOFs & COFs (metal-/covalent-organic frameworks).
+R123: Perovskite solar cells, halide perovskites.
+R124: Conducting polymers, organic electronics.
+R125: Spintronics, molecular electronics.
+R126: Physical/Computational Extras
+R127: Non-linear spectroscopy (2D-IR, pump–probe).
+R128: Ultrafast femtochemistry.
+R129: Ab initio molecular dynamics, Car–Parrinello methods.
+R130: Machine-learning force fields, reaction network modelling.
+R131: Analytical & Characterisation
+R132: Atom probe tomography.
+R133: Cryo-EM for chemical structures.
+R134: Single-molecule fluorescence spectroscopy.
+R135: Advanced isotope ratio mass spectrometry.
+R136: Interdisciplinary / Frontier Topics
+R137: Chemical oceanography, atmospheric aerosols.
+R138: Prebiotic chemistry & origin-of-life studies.
+R139: Quantum information chemistry (chemistry for quantum computing materials).
+R140: Chemical robotics, self-replicating molecular systems.
+R143: A. Measurement, Units & Data Handling
+R144: Metrology & Standards
+R145: SI base and derived units, 2020 redefinition using physical constants.
+R146: Calibration of instruments; traceability to national standards.
+R147: Error & Uncertainty
+R148: Random vs systematic error, bias, drift.
+R149: Confidence intervals, standard deviation, relative standard deviation (RSD).
+R150: Type-A vs Type-B uncertainty analysis.
+R151: Data Treatment
+R152: Significant figures in logarithms and exponentials.
+R153: Propagation of uncertainty through multivariate functions.
+R154: Graphical methods: residual plots, linearisation techniques.
+R155: B. Matter and Its Classifications
+R156: States of Matter Beyond the Big Three
+R157: Superfluids, Bose-Einstein condensates, plasmas.
+R158: Liquid crystals, amorphous solids, metallic glasses.
+R159: Properties of Matter
+R160: Intensive vs extensive, additive vs non-additive properties.
+R161: Density measurement techniques (pycnometry, Archimedes method).
+R162: Phase Diagrams Basics
+R163: Triple point, critical point, Clapeyron equation.
+R164: C. Atomic & Nuclear Structure
+R165: Historical Experiments in Detail
+R166: J.J. Thomson’s e/m ratio derivation.
+R167: Millikan’s oil-drop mathematics.
+R168: Rutherford scattering cross-section calculation.
+R169: Quantum Numbers & Orbitals
+R170: Radial and angular node formulae.
+R171: Penetration & shielding; why 4s fills before 3d.
+R172: Nuclear Chemistry Fundamentals
+R173: Nuclear binding energy, mass defect.
+R174: Types of radioactive decay (α, β, γ, electron capture).
+R175: Half-life calculations and decay chains.
+R176: D. Periodicity and the Periodic Table
+R177: Trends & Underlying Causes
+R178: Slater’s rules for Z_eff.
+R179: Lanthanide contraction and its effect on chemistry of 4d/5d metals.
+R180: Anomalous electron configurations (Cr, Cu, Pd, Pt).
+R181: Group-Specific Chemistry (descriptive)
+R182: Alkali vs alkaline earth reactivity.
+R183: Halogen interhalogen compounds.
+R184: Noble gas compounds (XeF₂, XeO₄).
+R185: E. Chemical Bonding
+R186: Classical Theories
+R187: Valence bond theory; hybridization (sp, sp², sp³, dsp², d²sp³).
+R188: VSEPR: AXE notation, lone-pair repulsion hierarchies.
+R189: Molecular Orbital Theory
+R190: Energy ordering in homonuclear diatomics (B₂ vs O₂).
+R191: Bond order, paramagnetism.
+R192: Intermolecular Forces
+R193: London dispersion, dipole–dipole, hydrogen bonding.
+R194: van der Waals equation and derivation.
+R195: F. Stoichiometry & Chemical Calculations
+R196: Gas Stoichiometry
+R197: Dalton’s law of partial pressures.
+R198: Graham’s law of effusion and kinetic molecular theory.
+R199: Solution Concentration Scales
+R200: Molarity, molality, mole fraction, normality.
+R201: ppm, ppb, pph (parts per hundred).
+R202: Titrimetry & Gravimetry
+R203: Primary standards, end-point detection, common indicators.
+R204: Constant-mass drying, weighing errors.
+R205: G. Chemical Reactions & Energy
+R206: Types of Reactions
+R207: Combination, decomposition, single-replacement, double-replacement.
+R208: Redox balancing in acidic vs basic solution.
+R209: Thermochemistry
+R210: Hess’s law, standard enthalpies of formation.
+R211: Bond enthalpy calculations.
+R212: Enthalpy vs internal energy; PV work.
+R213: H. Introduction to Chemical Kinetics
+R214: Rate laws, differential vs integrated rate equations.
+R215: Determination of reaction order (method of initial rates).
+R216: Collision theory and activation energy.
+R217: I. Basic Equilibria
+R218: Le Châtelier’s principle with quantitative examples.
+R219: Equilibrium constant expressions (Kc, Kp).
+R220: Relationship between K and ΔG°.
+R221: J. Foundations of Acids & Bases
+R222: Arrhenius, Brønsted–Lowry, and Lewis definitions.
+R223: Strong vs weak acids; Ka, pKa, polyprotic systems.
+R224: Buffers and Henderson–Hasselbalch equation.
+R225: K. Early Electrochemistry
+R226: Redox half-reactions, standard electrode potentials.
+R227: Galvanic vs electrolytic cells, Nernst equation basics.

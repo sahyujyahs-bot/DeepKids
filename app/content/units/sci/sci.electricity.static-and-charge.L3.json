@@ -518,10 +518,10 @@
       "q": "A rubbed balloon, with minus charge, meets a neutral paper bit. What happens?",
       "options": [
        "Nothing, because the paper has no charge",
-       "They attract",
-       "They repel"
+       "They repel",
+       "They attract"
       ],
-      "a": 1,
+      "a": 2,
       "why": "They attract. The balloon pushes the electrons in the paper a tiny way towards the far side, so the near side of the paper has a little plus charge, and that side is pulled up. Picking 'nothing' is a good thought, because the paper has no extra charge. But a charged thing still attracts a neutral one."
      }
     },
@@ -708,10 +708,10 @@
       "q": "It starts to thunder while you are in an open field. There is one big tree near you. Where is safest?",
       "options": [
        "Under the tree, out of the rain",
-       "Running to the nearest building, or crouching low away from the tree if there is none",
-       "Standing tall in the middle of the field"
+       "Standing tall in the middle of the field",
+       "Running to the nearest building, or crouching low away from the tree if there is none"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Lightning often strikes tall things standing alone, like a lone tree, and can jump from the tree to a person sheltering below. A building is safest. Picking 'under the tree' makes sense for rain, but not for lightning."
      }
     },
@@ -1000,11 +1000,11 @@
       "t": "mcq",
       "q": "A rubbed comb bends the water, but a rubbed steel spoon does not. Why?",
       "options": [
-       "The spoon is too heavy",
        "Steel is a conductor, so the charge runs through the spoon and into your hand",
+       "The spoon is too heavy",
        "Spoons are not allowed near water"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Plastic is an insulator, so the charge stays on the comb. Steel is a conductor, and so is your body. Any charge on the spoon runs away through your hand. Picking 'too heavy' is a fair guess, but the spoon does not move, only the water does, so the spoon's weight does not matter."
      }
     },
@@ -1229,10 +1229,10 @@
       "q": "The rubbed plastic strips spread apart. Why?",
       "options": [
        "The wool blew air between them",
-       "Every strip has the same kind of charge, and the same charges repel",
-       "The strips got heavier"
+       "The strips got heavier",
+       "Every strip has the same kind of charge, and the same charges repel"
       ],
-      "a": 1,
+      "a": 2,
       "why": "All the strips were rubbed with the same wool, so they all got the same kind of charge. The same charges push each other away. Picking 'air' is a good guess, but the strips stay spread out long after the wool has gone."
      }
     },
@@ -1306,11 +1306,11 @@
       "t": "mcq",
       "q": "Why does the pepper jump up to the balloon before the salt does?",
       "options": [
-       "Pepper grains are lighter, so the small electric force can lift them first",
        "Pepper is charged and salt is not",
+       "Pepper grains are lighter, so the small electric force can lift them first",
        "Salt is a magnet"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The rubbed balloon attracts both pepper and salt. But the force is small, so the lighter pepper grains are lifted first. Picking 'pepper is charged' is a fair guess, but neither was rubbed: both are attracted because the balloon is charged."
      }
     },
@@ -1474,11 +1474,11 @@
       "t": "mcq",
       "q": "The can has no charge. Why does it roll towards the rubbed balloon?",
       "options": [
-       "The balloon pushes the electrons in the can to the far side, so the near side is pulled",
        "The can is magnetic",
+       "The balloon pushes the electrons in the can to the far side, so the near side is pulled",
        "The balloon blows air at it"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The balloon's extra electrons push the electrons in the metal can to the far side. The near side is left with plus charge, and it is pulled towards the balloon. Picking 'magnetic' is a good thought, but aluminium is not magnetic, and a plain balloon does nothing."
      }
     },
@@ -1727,11 +1727,11 @@
       "t": "mcq",
       "q": "In a Static Weather Diary, a balloon lifted 15 bits on a dry day and 3 bits on a rainy day. What is the best reason?",
       "options": [
-       "The balloon was tired on the rainy day",
        "Damp air lets the charge leak away through a thin layer of water",
+       "The balloon was tired on the rainy day",
        "Rain makes paper heavier"
       ],
-      "a": 1,
+      "a": 0,
       "why": "In damp air, a very thin layer of water forms on the balloon, and water lets the charge leak away. Picking 'paper heavier' is a fair thought, because damp paper is a little heavier, but the main reason is the charge leaking away."
      }
     }
@@ -1935,10 +1935,10 @@
    "p": "A new balloon, straight out of the packet, does not lift paper bits. Why not?",
    "opts": [
     "It has no charge in it at all",
-    "It has equal plus and minus charge, so they cancel",
-    "It is too big"
+    "It is too big",
+    "It has equal plus and minus charge, so they cancel"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Every atom in the balloon has plus and minus charge, in equal amounts, so they cancel. We call it neutral. Picking 'no charge at all' is a very common idea, but the balloon is full of charge. It is only balanced.",
    "outcome": 0
   },
@@ -1970,11 +1970,11 @@
    "t": "mcq",
    "p": "After you rub your hair with a balloon, your hair stands up and the strands spread apart. Why do the strands spread apart?",
    "opts": [
-    "Each strand has the same plus charge, and the same charges repel",
     "The wind blows them",
-    "The strands are pulled by gravity"
+    "The strands are pulled by gravity",
+    "Each strand has the same plus charge, and the same charges repel"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Every strand lost electrons to the balloon, so every strand has plus charge. The same charges push each other away. Gravity pulls the hair down, not apart.",
    "outcome": 1
   },
@@ -1982,11 +1982,11 @@
    "t": "mcq",
    "p": "A rubbed comb bends a thin stream of tap water. The water was never rubbed. Why does it bend?",
    "opts": [
-    "The water is charged by the tap",
     "The comb's charge pushes the water's electrons a tiny way, so the near side is pulled",
+    "The water is charged by the tap",
     "The comb blows on the water"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The water is neutral. The comb's charge moves the electrons in the water a tiny way, so the side nearest the comb gets the opposite charge and is pulled. Picking 'charged by the tap' is a fair guess, but the stream does not bend at all until the comb comes near.",
    "outcome": 2,
    "how": "e2"
@@ -2008,11 +2008,11 @@
    "t": "mcq",
    "p": "Why do we test the balloon over the paper before rubbing it at all?",
    "opts": [
-    "To see what happens with no rubbing, so we can compare",
     "To warm it up",
+    "To see what happens with no rubbing, so we can compare",
     "To count the paper bits"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A test with no rubbing shows that the balloon on its own lifts nothing. Then we know that any bits it lifts later are because of the rubbing. Scientists call this a control.",
    "outcome": 3,
    "how": "e1"
@@ -2022,10 +2022,10 @@
    "p": "Balloon tricks that worked in Bengaluru in January do not work in Kochi in the monsoon. Why?",
    "opts": [
     "Kochi has different balloons",
-    "The damp air leaves a thin layer of water that lets the charge leak away",
-    "It is too hot for electrons"
+    "It is too hot for electrons",
+    "The damp air leaves a thin layer of water that lets the charge leak away"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Water lets charge move. In humid air, a thin layer of water on the balloon lets its extra electrons leak away. Picking 'too hot' is a fair thought, but the dampness is what matters: a dry hot day works well.",
    "outcome": 4
   },
@@ -2033,11 +2033,11 @@
    "t": "mcq",
    "p": "You rub a steel spoon on wool, holding its handle. It does not bend the water stream. Why?",
    "opts": [
-    "Steel is a conductor, so the charge runs through the spoon and your body",
     "The spoon is too shiny",
-    "You did not rub it enough"
+    "You did not rub it enough",
+    "Steel is a conductor, so the charge runs through the spoon and your body"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Steel and your body are conductors, so any charge on the spoon runs away through your hand. Plastic is an insulator, so a comb keeps its charge.",
    "outcome": 4,
    "how": "e2"
@@ -2046,11 +2046,11 @@
    "t": "mcq",
    "p": "What is lightning?",
    "opts": [
-    "Fire falling from the clouds",
     "A giant spark of electric charge jumping from a storm cloud",
+    "Fire falling from the clouds",
     "Sunlight shining through rain"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Lightning is a giant spark, the same kind of thing as the tiny crackle from a sweater, only far bigger. Picking 'fire' is how many people once thought of it, but it is electric charge heating the air.",
    "outcome": 5
   },
@@ -2071,10 +2071,10 @@
    "p": "You are playing in a park when you hear thunder. What should you do?",
    "opts": [
     "Shelter under the biggest tree",
-    "Go inside a building at once",
-    "Keep playing until it rains"
+    "Keep playing until it rains",
+    "Go inside a building at once"
    ],
-   "a": 1,
+   "a": 2,
    "why": "If you can hear thunder, lightning is close enough to reach you. A building is safe. A lone tree is one of the most dangerous places, because lightning often strikes tall things.",
    "outcome": 6
   },
@@ -2082,11 +2082,11 @@
    "t": "mcq",
    "p": "Why is a closed car a safe place in a thunderstorm?",
    "opts": [
-    "Its rubber tyres stop the lightning",
     "Its metal body carries the charge round the outside to the ground",
+    "Its rubber tyres stop the lightning",
     "Lightning cannot see cars"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The metal body carries the charge around you and into the ground. Picking 'tyres' is the most common belief, but a few centimetres of rubber cannot stop a spark that has crossed kilometres of air.",
    "outcome": 6
   },
@@ -2192,11 +2192,11 @@
      "t": "mcq",
      "p": "You rub only one side of a balloon on wool. You hold the other side over paper bits. What happens?",
      "opts": [
-      "Many bits jump",
       "Few or no bits jump",
+      "Many bits jump",
       "The balloon pops"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Rubber is an insulator, so the charge stays on the patch that was rubbed. The other side has hardly any. That is why it is called static.",
      "how": "e1"
     },
@@ -2304,11 +2304,11 @@
      "t": "mcq",
      "p": "The plastic strips of a rubbed tassel spread out like a fan. What does this show?",
      "opts": [
-      "The strips have the same kind of charge, and the same charges repel",
       "The strips are wet",
-      "Plastic is magnetic"
+      "Plastic is magnetic",
+      "The strips have the same kind of charge, and the same charges repel"
      ],
-     "a": 0,
+     "a": 2,
      "why": "All the strips were rubbed with the same wool, so they got the same kind of charge, and they push each other away.",
      "how": "a2"
     },
@@ -2349,11 +2349,11 @@
      "t": "mcq",
      "p": "You rub a balloon on your hair. The balloon now has 1,000 extra electrons. How many electrons has your hair lost?",
      "opts": [
-      "1,000",
       "500",
-      "None"
+      "None",
+      "1,000"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Rubbing does not make or destroy charge. Every electron the balloon gained came from your hair, so your hair lost exactly 1,000. Real numbers are far bigger, but the rule is the same."
     },
     {
@@ -2373,11 +2373,11 @@
      "t": "mcq",
      "p": "A rubbed comb touches the water stream for a moment. Afterwards it hardly bends the water. Why?",
      "opts": [
-      "The comb is now wet, and the water lets the charge leak away",
       "The water washed off the plastic",
-      "The comb got cold"
+      "The comb got cold",
+      "The comb is now wet, and the water lets the charge leak away"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Water is a conductor, so a wet comb loses its charge. Dry it and rub it again, and it works.",
      "how": "e2"
     },
@@ -2392,11 +2392,11 @@
      "t": "mcq",
      "p": "Why does a charged balloon lift a paper bit but not a book?",
      "opts": [
-      "The electric force is small, so it can only lift very light things",
       "Books are conductors",
+      "The electric force is small, so it can only lift very light things",
       "Books have no atoms"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The force on a neutral thing is small, so it lifts only very light things like paper bits, pepper and hair. A book is far heavier."
     },
     {
@@ -2437,11 +2437,11 @@
      "t": "mcq",
      "p": "A petrol tanker is joined to the ground by a wire before it unloads. Why?",
      "opts": [
-      "Any charge that has built up can flow safely into the ground, so no spark jumps near the fuel",
       "So the tanker cannot roll away",
-      "To keep the fuel cool"
+      "To keep the fuel cool",
+      "Any charge that has built up can flow safely into the ground, so no spark jumps near the fuel"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Fuel pumping and a moving tanker can build up charge. A wire to the ground lets it drain away quietly, instead of jumping as a spark near the fuel."
     },
     {
@@ -2484,11 +2484,11 @@
      "t": "mcq",
      "p": "A bumblebee flies to a flower that another bee visited a few seconds ago. How can the bee tell?",
      "opts": [
-      "The flower's electric field has changed for a while",
       "The flower tells her with a sound",
-      "The bee can see the nectar is gone"
+      "The bee can see the nectar is gone",
+      "The flower's electric field has changed for a while"
      ],
-     "a": 0,
+     "a": 2,
      "why": "When a charged bee lands, the flower's electric field changes for a while. Bumblebees can feel this with the tiny hairs on their body, and skip that flower, which saves them time."
     },
     {
@@ -2583,11 +2583,11 @@
      "t": "mcq",
      "p": "Dust gathers thickly on the blades of a ceiling fan. What is one reason?",
      "opts": [
-      "The blades rub against the air and get charged, and a charged blade attracts neutral dust",
       "Dust is magnetic",
+      "The blades rub against the air and get charged, and a charged blade attracts neutral dust",
       "The blades are made of paper"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Spinning blades rub against the air and pick up charge, and a charged surface attracts light, neutral specks of dust, the way a balloon attracts paper bits."
     },
     {
@@ -2616,11 +2616,11 @@
      "t": "mcq",
      "p": "A young spider has no wings but needs to travel to a new home. How does the Earth's electric field help?",
      "opts": [
-      "It pulls on the spider's charged silk threads and helps lift the spider into the air",
       "It makes the spider lighter",
-      "It blows a wind"
+      "It blows a wind",
+      "It pulls on the spider's charged silk threads and helps lift the spider into the air"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Young spiders let out silk threads that carry charge. The Earth's electric field pulls on the threads and helps lift the spiders up, so they can drift to a new place. This is called ballooning."
     },
     {
@@ -2644,11 +2644,11 @@
      "t": "mcq",
      "p": "A photocopier makes black powder stick to the paper only where the words are. What does it use?",
      "opts": [
-      "Static charge: the words are charged, and they attract the powder",
       "Glue on the paper",
+      "Static charge: the words are charged, and they attract the powder",
       "A magnet under the paper"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The copier charges the drum in the shape of the page. The charged parts attract the powder, which is pressed onto the paper. It is the same pull as a balloon on paper bits."
     },
     {
@@ -2913,6 +2913,68 @@
     "c1",
     "c2"
    ]
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Rubbing Test: which cloth charges a balloon best?, Bend the Water: can every rubbed thing do it?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e2"
+   ],
+   "plan": "Get it before The Rubbing Test: which cloth charges a balloon best?."
+  },
+  {
+   "id": "b-a-small-hand-mirror",
+   "item": "A small hand mirror",
+   "kind": "material",
+   "why": "Used in The Sticky Balloon and the Rising Hair. About ₹20 to ₹80. A shiny steel plate shows reflections too.",
+   "url": "https://www.amazon.in/s?k=small+hand+mirror",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Get it before The Sticky Balloon and the Rising Hair."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in The Rolling Can, The Can Race: how far can a balloon pull?, Build a Charge Detector. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "a5",
+    "c1",
+    "c2"
+   ],
+   "plan": "Get it before The Rolling Can."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in The Rubbing Test: which cloth charges a balloon best?. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before The Rubbing Test: which cloth charges a balloon best?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

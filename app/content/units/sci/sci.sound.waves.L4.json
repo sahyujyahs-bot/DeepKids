@@ -704,10 +704,10 @@
       "q": "A clock ticks once each second. A resting child's heart beats about 90 times each minute. Which repeats more often?",
       "options": [
        "The clock ticks more often",
-       "The heart beats more often",
-       "They repeat equally often"
+       "They repeat equally often",
+       "The heart beats more often"
       ],
-      "a": 1,
+      "a": 2,
       "why": "90 beats a minute is one and a half beats each second, which is more than one tick each second. To compare, put both in the same time, such as each second. If you picked the clock, you may have compared 1 with 90 and forgotten that one is each second and one is each minute."
      },
      "context": "In this step, you play one practice round so you know how scoring works."
@@ -861,11 +861,11 @@
       "t": "mcq",
       "q": "Why do we measure the length to the middle of the washer, and not to the top of it?",
       "options": [
-       "The washer's weight acts at its middle",
        "The top is harder to measure",
+       "The washer's weight acts at its middle",
        "It does not matter where we measure"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The whole washer swings, and it behaves as if its weight were at its middle. If you measured to the top one time and to the middle another time, the lengths would differ by a centimetre, and the timings would be a little off."
      },
      "context": "In this step, you hang the first pendulum and set its length."
@@ -918,11 +918,11 @@
       "t": "mcq",
       "q": "In your test, which one thing changed how long 10 swings took?",
       "options": [
-       "The length of the thread",
        "The weight of the washer",
+       "The length of the thread",
        "How wide the swing was"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A longer thread gave a longer time for 10 swings. A second washer gave about the same time, and a wide swing gave about the same time as a small one. Many people expect weight or width to matter. A heavier washer is pulled down harder, but it is also harder to move, and the two cancel."
      },
      "parent": "A strong answer sounds like this: 'The length of the thread changed the time. 25 centimetres took about 10 seconds for 10 swings, and 100 centimetres took about 20. Weight and width did not change it. I think the pendulum has its own beat that comes from its length.' Now read the card 'What sets the beat of a pendulum'.",
@@ -1366,11 +1366,11 @@
       "t": "mcq",
       "q": "In your grid, the wave moves 1 square each beat, and the wave-maker colours a new square every 4 beats. How far apart are the coloured squares in a row?",
       "options": [
-       "4 squares apart",
        "1 square apart",
+       "4 squares apart",
        "12 squares apart"
       ],
-      "a": 0,
+      "a": 1,
       "why": "In 4 beats, the first coloured square slides 4 places before the next one begins. So the coloured squares are 4 apart. If you chose 1, you used the wave speed and forgot the beat of the wave-maker."
      },
      "context": "In this step, you colour the first grid, with a new crest every 4 beats."
@@ -1930,11 +1930,11 @@
       "t": "mcq",
       "q": "In your graph, the line rises as the depth increases. What does this say about ripples?",
       "options": [
-       "Ripples travel faster in deeper water",
        "Ripples travel slower in deeper water",
+       "Ripples travel faster in deeper water",
        "Ripples travel at the same speed in all depths"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The line goes up as the water gets deeper, so the speed grows. This matches the gaps you measured at the three depths. If you chose slower, check which axis is speed and which is depth."
      },
      "context": "On day 2, you draw a line graph of speed against depth."
@@ -2044,11 +2044,11 @@
       "t": "mcq",
       "q": "Your pendulum takes 33 seconds for 30 swings. What should you do?",
       "options": [
-       "Make the thread shorter",
        "Make the thread longer",
+       "Make the thread shorter",
        "Use a heavier washer"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Taking more time means the pendulum is too slow, and a shorter pendulum swings faster. A heavier washer changes nothing, as you saw in Counting Swings."
      },
      "context": "In this step, you adjust the length until the pendulum passes the test."
@@ -2097,11 +2097,11 @@
      "t": "mcq",
      "p": "Three pendulums hang side by side. One has a 20 centimetre thread, one has 50 and one has 100. Which one swings most often?",
      "opts": [
-      "The one with the 20 centimetre thread",
       "The one with the 50 centimetre thread",
-      "The one with the 100 centimetre thread"
+      "The one with the 100 centimetre thread",
+      "The one with the 20 centimetre thread"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A shorter pendulum swings more often. Length is the thing that sets a pendulum's beat.",
      "outcome": 1,
      "how": "e1"
@@ -2193,11 +2193,11 @@
      "t": "mcq",
      "p": "Ripples travel 20 centimetres each second. You tap twice each second. How far apart are the ripples?",
      "opts": [
-      "10 centimetres",
       "22 centimetres",
-      "40 centimetres"
+      "40 centimetres",
+      "10 centimetres"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The gap is the speed divided by the taps each second. 20 divided by 2 is 10 centimetres. Adding 20 and 2 to get 22 is a common slip.",
      "outcome": 3,
      "how": "e2"
@@ -2222,11 +2222,11 @@
      "t": "mcq",
      "p": "Which kind of wave is sound in air?",
      "opts": [
-      "A push wave, where the air is squeezed and spread along the way the sound goes",
       "A shake wave, where the air moves up and down across the way the sound goes",
-      "A wave that needs no material to travel through"
+      "A wave that needs no material to travel through",
+      "A push wave, where the air is squeezed and spread along the way the sound goes"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Sound in air is a push wave. The air is squeezed together and spread out along the line of travel. Air cannot hold its shape sideways, so it cannot carry a shake wave.",
      "outcome": 4
     },
@@ -2316,11 +2316,11 @@
      "t": "mcq",
      "p": "A second note has a frequency of 680 hertz, twice the first, in the same air. What is its wavelength?",
      "opts": [
-      "Half a metre",
       "2 metres",
-      "1 metre"
+      "1 metre",
+      "Half a metre"
      ],
-     "a": 0,
+     "a": 2,
      "why": "340 divided by 680 is half a metre. Doubling the frequency halves the wavelength when the speed stays the same.",
      "outcome": 3
     },
@@ -2457,11 +2457,11 @@
      "t": "mcq",
      "p": "A radio signal always shows up at the same place among the stars, about four minutes earlier by the clock each day. Where does the signal most likely come from?",
      "opts": [
-      "From far away among the stars, because it follows the stars' timing",
       "From something on Earth, such as a car or a radio",
+      "From far away among the stars, because it follows the stars' timing",
       "From the Sun, because the Sun rises every day"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The stars rise about four minutes earlier each day. A signal that keeps their time is following the sky, not anything on the ground.",
      "outcome": 6
     },
@@ -2553,11 +2553,11 @@
      "t": "mcq",
      "p": "Ripples are made 5 times each second and travel 25 centimetres each second. What is the gap between ripples?",
      "opts": [
-      "5 centimetres",
       "20 centimetres",
+      "5 centimetres",
       "125 centimetres"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The gap is the speed divided by the frequency. 25 divided by 5 is 5 centimetres. If you got 125, you multiplied instead of dividing.",
      "outcome": 3
     },
@@ -2772,11 +2772,11 @@
    "t": "mcq",
    "p": "Which of these is a frequency?",
    "opts": [
-    "3 taps each second",
     "12 centimetres",
-    "5 seconds"
+    "5 seconds",
+    "3 taps each second"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Frequency is a count of how many times something repeats each second. 12 centimetres is a distance and 5 seconds is a time.",
    "outcome": 0
   },
@@ -2803,11 +2803,11 @@
    "t": "mcq",
    "p": "Ripples travel 30 centimetres each second. You tap 3 times each second. How far apart are the ripples?",
    "opts": [
-    "10 centimetres",
     "33 centimetres",
+    "10 centimetres",
     "90 centimetres"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The gap is the speed divided by the frequency. 30 divided by 3 is 10 centimetres.",
    "outcome": 3
   },
@@ -2827,11 +2827,11 @@
    "t": "mcq",
    "p": "Two waves on the same string have the same frequency. One is twice as tall as the other. Which carries more energy?",
    "opts": [
-    "The taller one",
     "The shorter one",
-    "They carry the same"
+    "They carry the same",
+    "The taller one"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A bigger amplitude means more energy. The frequency is the same, so the height is the only thing that differs.",
    "outcome": 5
   },
@@ -2891,11 +2891,11 @@
    "t": "mcq",
    "p": "In an earthquake, which kind of wave cannot travel through the liquid part of the Earth?",
    "opts": [
-    "The shake waves",
     "The push waves",
-    "Both can"
+    "Both can",
+    "The shake waves"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A liquid does not hold its shape sideways, so it cannot carry a shake wave. Push waves can cross liquid.",
    "outcome": 4
   }
@@ -3197,6 +3197,83 @@
     "e2",
     "p1"
    ]
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in Counting Swings: what decides how often a pendulum swings?, The Thirty-Second Pendulum: build a timer from a thread. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "e1",
+    "c1"
+   ],
+   "plan": "Get it before Counting Swings: what decides how often a pendulum swings?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Counting Swings: what decides how often a pendulum swings?, Tap Faster: what happens to the ripples?, The Wave Grid: shift and colour. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e2",
+    "a2",
+    "a5",
+    "a6",
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before Counting Swings: what decides how often a pendulum swings?."
+  },
+  {
+   "id": "b-paper-masking-tape",
+   "item": "Paper masking tape",
+   "kind": "material",
+   "why": "Used in Counting Swings: what decides how often a pendulum swings?. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor.",
+   "url": "https://www.amazon.in/s?k=paper+masking+tape",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before Counting Swings: what decides how often a pendulum swings?."
+  },
+  {
+   "id": "b-graph-paper",
+   "item": "Graph paper",
+   "kind": "material",
+   "why": "Used in The Wave Grid: shift and colour, Ripple Speed Machine: work out how fast ripples travel. About ₹10 to ₹30. Draw squares on plain paper.",
+   "url": "https://www.amazon.in/s?k=graph+paper+notebook",
+   "used_in": [
+    "a2",
+    "p1"
+   ],
+   "plan": "Get it before The Wave Grid: shift and colour."
+  },
+  {
+   "id": "b-marbles--a-few",
+   "item": "Marbles (a few)",
+   "kind": "material",
+   "why": "Used in Spreading Rings: where does the energy go?. About ₹10 to ₹40. Small round stones or dried chana.",
+   "url": "https://www.amazon.in/s?k=glass+marbles+pack",
+   "used_in": [
+    "a5"
+   ],
+   "plan": "Get it before Spreading Rings: where does the energy go?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

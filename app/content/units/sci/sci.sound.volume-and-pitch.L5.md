@@ -1,9 +1,9 @@
 # Volume and pitch: what makes a sound loud or quiet, high or low
 `sci.sound.volume-and-pitch.L5`
 
-**Summary.** Pluck a string harder and it sounds louder, but the note stays the same. Hang a heavier weight on it and the note rises, but the loudness hardly changes. In this unit you will find three ways to change a string's pitch, and test what makes a ringing phone quietest.
+**Summary.** Pluck a string harder and it sounds louder, but the note stays the same. Hang a heavier weight on it and the note rises, but the loudness hardly changes. In this lesson you will find three ways to change a string's pitch, and test what makes a ringing phone quietest.
 
-**Intro.** *A mosquito near your ear is quiet, and her whine is high. A chenda drum across a temple yard is loud, and its beat is low. If you hit the chenda harder, will its note go higher? If the mosquito comes closer, will her whine go lower?* Both answers are no. Hitting harder makes the drum louder, and its note stays where it was. Coming closer makes the whine louder, and it stays just as high. Loud and high are two different things, and different changes move them. In this unit you build one string on a table and test it with a bottle of water. You measure its loudness in decibels and its note in hertz. Then you wrap a ringing phone in a towel and find what the towel changes and what it leaves alone.
+**Intro.** *A mosquito near your ear is quiet, and her whine is high. A chenda drum across a temple yard is loud, and its beat is low. If you hit the chenda harder, will its note go higher? If the mosquito comes closer, will her whine go lower?* Both answers are no. Hitting harder makes the drum louder, and its note stays where it was. Coming closer makes the whine louder, and it stays just as high. Loud and high are two different things, and different changes move them. In this lesson you build one string on a table and test it with a bottle of water. You measure its loudness in decibels and its note in hertz. Then you wrap a ringing phone in a towel and find what the towel changes and what it leaves alone.
 
 ## Learning outcomes
 0. I can describe any sound with two measures, its volume and its pitch, and tell them apart.
@@ -143,7 +143,7 @@ A sound meter measures the strength of a sound in the air. Loudness is what a li
   Against: A meter measures the strength of the sound in the air. Loudness also depends on the pitch and on the listener. A low hum and a high beep with the same reading do not sound equally loud. A phone's microphone is also rough, and two phones can differ by several decibels.
 
 ## Roots
-In this unit you changed the volume and the pitch of a string, and you muffled a ringing phone. Here we ask which part of a sound you can trust when it reaches you from far away.
+In this lesson you changed the volume and the pitch of a string, and you muffled a ringing phone. Here we ask which part of a sound you can trust when it reaches you from far away.
 
 **Deep truth.** In the Muffle Test, four layers of towel made the phone's tune much quieter. Every note of the tune stayed at its own pitch. Towels, walls and distance take away a sound's energy and leave its frequency alone. So the pitch you hear is the same pitch the source made, however far the sound has travelled. That is how you can tell what made a sound from a long way off.  
 *Habit it breaks:* We usually treat loudness and pitch as two equal facts about a sound. In one way they are not equal. Loudness changes on the way to you, because distance and walls make a sound weaker. Pitch is set once, at the source, and it arrives just as it left.  
@@ -155,7 +155,7 @@ In this unit you changed the volume and the pitch of a string, and you muffled a
 
 The Water-Bottle String was one string. With three amounts of water and three lengths, it gave many notes. Nothing was added to the string. Only the way it was held and pulled had changed. Many sages taught that the many things of the world come from one source in a similar way. That is a teaching, and a string cannot prove it. What the string shows is smaller and certain. One string can give many notes. Each note belongs to the string together with the way it is held.
 
-- **Anguttara Nikaya 6.55, the Sona Sutta (the Buddha's talk with the monk Sona):** “Taṁ kiṁ maññasi, soṇa, yadā te vīṇāya tantiyo accāyatā honti, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā? / Taṁ kiṁ maññasi, soṇa, yadā te vīṇāya tantiyo atisithilā honti, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā? / Yadā pana te, soṇa, vīṇāya tantiyo na accāyatā honti nātisithilā same guṇe patiṭṭhitā, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā? / Evamevaṁ kho, soṇa, accāraddhavīriyaṁ uddhaccāya saṁvattati, atisithilavīriyaṁ kosajjāya saṁvattati.” Sona had been a veena player. The Buddha asked him about his strings. When they were too tight, the veena could not be played well. When they were too loose, it could not be played well either. It played well when the strings were tuned to the right pitch between the two. The Buddha told Sona to tune his own effort in the same way. (The talk rests on the science of this unit: the tension of a string sets its pitch. The Buddha used a fact that every player knew to say something about effort. The fact about strings can be tested. The advice about effort is a teaching.)
+- **Anguttara Nikaya 6.55, the Sona Sutta (the Buddha's talk with the monk Sona):** “Taṁ kiṁ maññasi, soṇa, yadā te vīṇāya tantiyo accāyatā honti, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā? / Taṁ kiṁ maññasi, soṇa, yadā te vīṇāya tantiyo atisithilā honti, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā? / Yadā pana te, soṇa, vīṇāya tantiyo na accāyatā honti nātisithilā same guṇe patiṭṭhitā, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā? / Evamevaṁ kho, soṇa, accāraddhavīriyaṁ uddhaccāya saṁvattati, atisithilavīriyaṁ kosajjāya saṁvattati.” Sona had been a veena player. The Buddha asked him about his strings. When they were too tight, the veena could not be played well. When they were too loose, it could not be played well either. It played well when the strings were tuned to the right pitch between the two. The Buddha told Sona to tune his own effort in the same way. (The talk rests on the science of this lesson: the tension of a string sets its pitch. The Buddha used a fact that every player knew to say something about effort. The fact about strings can be tested. The advice about effort is a teaching.)
 - **Bharata, Natya Shastra, chapter 28 (India, perhaps 2,000 years ago; its date is not certain):** The book describes a test with two veenas tuned exactly alike. One is left as it is. On the other, the strings are loosened a little at a time. The two are compared by ear at each step. In this way a listener learns the smallest steps of pitch, which the book calls shrutis. (This is a fair test. One veena is the control, and one thing is changed on the other: the tension. In the Water-Bottle String you did the same. Water took the place of a peg, and a tuner took the place of a trained ear.)
 - **Aristotle, Metaphysics, Book 1, chapter 5, on the followers of Pythagoras (Greece, about 2,350 years ago):** “ἔτι δὲ τῶν ἁρμονιῶν ἐν ἀριθμοῖς ὁρῶντες τὰ πάθη καὶ τοὺς λόγους / τὰ τῶν ἀριθμῶν στοιχεῖα τῶν ὄντων στοιχεῖα πάντων ὑπέλαβον εἶναι, καὶ τὸν ὅλον οὐρανὸν ἁρμονίαν εἶναι καὶ ἀριθμόν” Aristotle reports that the followers of Pythagoras found the notes of a scale could be written as numbers. From this they came to think that numbers were the makings of all things. They thought the whole sky was a scale. (Pitch really can be written as a number, the frequency, and you measured it in hertz. The step from 'notes are numbers' to 'everything is number' was a bold guess, and Aristotle himself doubted it. Physics still writes the world in numbers, and nobody is sure why that works so well.)
 - Science (settled): When a wave passes from one material into another, its frequency stays the same. Its speed changes, and so does the distance between one push and the next.
@@ -569,7 +569,7 @@ Kathir looked at his violin. Then he looked at the bowl.
 ## Worksheets
 ### Loud or quiet, high or low (core) (core, 15 questions)
 1. (mcq) What does the volume of a sound tell you?  
-   Options: How loud or quiet it is / How high or low it is / How fast it travels / How long it lasts  
+   Options: How high or low it is / How fast it travels / How loud or quiet it is / How long it lasts  
    **Answer:** How loud or quiet it is. *Why:* Volume is loudness. Choosing 'how high or low' mixes volume up with pitch, which is the other measure of a sound.
 2. (mcq) What does the pitch of a sound depend on?  
    Options: The number of vibrations each second / The size of each vibration / The distance to the listener / The size of the room  
@@ -587,7 +587,7 @@ Kathir looked at his violin. Then he looked at the bowl.
 8. (count) How many times the sound energy of 60 decibels does a sound of 70 decibels have?  
    **Answer:** 10. *Why:* Every 10 decibels more means ten times the sound energy. If you wrote 10 more, or a little more, you read the scale as adding. It multiplies.
 9. (mcq) Which change makes the note of a string higher?  
-   Options: Making it tighter / Making it longer / Making it heavier / Plucking it more gently  
+   Options: Making it longer / Making it tighter / Making it heavier / Plucking it more gently  
    **Answer:** Making it tighter. *Why:* A tighter string is pulled back harder, so it vibrates faster. A longer or heavier string vibrates more slowly. A gentle pluck only makes the sound quieter.
 10. (truefalse) True or false: a shorter air column gives a lower note.  
    **Answer:** False. *Why:* False. In the Filling Bottle, the note rose as the air column above the water got shorter. A shorter air column vibrates faster.
@@ -606,10 +606,10 @@ Kathir looked at his violin. Then he looked at the bowl.
 1. (count) A string gives 110 hertz. The pull on it is made four times as great. What is the new frequency?  
    **Answer:** 220. *Why:* Four times the pull doubles the frequency, and 110 × 2 = 220. If you wrote 440, you multiplied by four. The frequency grows more slowly than the pull.
 2. (mcq) A string 40 cm long is shortened to 20 cm, with the same pull. What happens to its frequency?  
-   Options: It doubles / It halves / It stays the same / It becomes four times as high  
+   Options: It halves / It stays the same / It becomes four times as high / It doubles  
    **Answer:** It doubles. *Why:* Half the length gives twice the frequency. If you chose 'halves', you matched a shorter string to a smaller number. A shorter string vibrates faster.
 3. (mcq) Why does a thick string give a lower note than a thin one of the same length and tension?  
-   Options: It has more weight to move / It is pulled back harder / It pushes less air / It is longer  
+   Options: It is pulled back harder / It pushes less air / It has more weight to move / It is longer  
    **Answer:** It has more weight to move. *Why:* A heavier string takes longer over each trip, so it vibrates more slowly. In the Water-Bottle String, a string with a second strand wound on it gave a lower note.
 4. (truefalse) True or false: a wooden soundboard adds energy to the sound of a string.  
    **Answer:** False. *Why:* False. The soundboard pushes more air than the thin string can, so the string's energy reaches the air faster. Only an amplifier adds energy, from a battery or the mains.
@@ -638,10 +638,10 @@ Kathir looked at his violin. Then he looked at the bowl.
    **Answer:** False. *Why:* False. In Gentle Pluck, Hard Pluck, the blur got narrower as the sound faded. The tuner showed the same number of hertz. A fading sound loses amplitude and keeps its frequency.
 ### Testing ideas about volume and pitch (challenge) (challenge, 15 questions)
 1. (mcq) A tuner reads 220 hertz beside a steady humming string. What does it read from across the room?  
-   Options: 220 hertz / Less than 220 hertz / More than 220 hertz / It depends on the room  
+   Options: Less than 220 hertz / More than 220 hertz / 220 hertz / It depends on the room  
    **Answer:** 220 hertz. *Why:* Distance lowers the volume and leaves the frequency alone. Every push that leaves the string still arrives, so the pushes arrive just as often.
 2. (mcq) Two equal loudspeakers play together. How does the meter reading compare with one alone?  
-   Options: About 3 decibels more / Twice as many decibels / 10 decibels more / The same  
+   Options: Twice as many decibels / 10 decibels more / About 3 decibels more / The same  
    **Answer:** About 3 decibels more. *Why:* Two equal sources give twice the energy, and twice the energy is only about 3 decibels more. It takes ten times the energy to add 10 decibels.
 3. (truefalse) True or false: a sound of 80 decibels has twice the energy of a sound of 40 decibels.  
    **Answer:** False. *Why:* False. Each 10 decibels is ten times the energy. From 40 to 80 is four steps: 10 × 10 × 10 × 10, which is 10,000 times the energy.
@@ -654,7 +654,7 @@ Kathir looked at his violin. Then he looked at the bowl.
 7. (fill) Sound below 20 hertz is called ____, and sound above 20,000 hertz is called ____.  
    **Answer:** ['infrasound', 'ultrasound']. *Why:* Elephants call with infrasound, and bats find insects with ultrasound. Both lie outside the range of human hearing.
 8. (mcq) Near thunder has a sharp crack. Far thunder is only a low rumble. Why?  
-   Options: Air weakens high notes more than low notes / The pitch of every note drops with distance / Low notes travel faster than high notes / Thunder slows down on the way  
+   Options: The pitch of every note drops with distance / Air weakens high notes more than low notes / Low notes travel faster than high notes / Thunder slows down on the way  
    **Answer:** Air weakens high notes more than low notes. *Why:* Air absorbs high frequencies more than low ones, so only the low part of the sound arrives from far away. The notes that arrive still have the frequency they started with.
 9. (write) Many people think a drum sounds higher when it is hit harder. Describe a fair test of this idea.  
    **Answer:** Hit the same drum in the same place with the same stick, gently and then hard, three times each. Hold a tuner app in the same place and read the frequency each time. Change only the strength of the hit. If the hertz stay the same, the idea is wrong.. *Why:* A strong answer changes one thing and measures the frequency, not the loudness. It keeps the drum, the stick and the place the same, and repeats each hit.
@@ -678,28 +678,28 @@ Kathir looked at his violin. Then he looked at the bowl.
 
 ## Quiz
 1. (mcq) A sound gets louder, and its note stays the same. What has changed?  
-   Options: The amplitude / The frequency / The length of the string / The pitch  
+   Options: The frequency / The amplitude / The length of the string / The pitch  
    **Answer:** The amplitude. *Why:* A louder sound comes from a bigger amplitude. The frequency sets the pitch, and the pitch did not change.
 2. (mcq) Which pair of units is right?  
-   Options: Volume in decibels, frequency in hertz / Volume in hertz, frequency in decibels / Both in decibels / Volume in metres, frequency in seconds  
+   Options: Volume in hertz, frequency in decibels / Volume in decibels, frequency in hertz / Both in decibels / Volume in metres, frequency in seconds  
    **Answer:** Volume in decibels, frequency in hertz. *Why:* Decibels measure volume. Hertz measure frequency, the number of vibrations each second.
 3. (mcq) Which of these sounds is quiet and high-pitched?  
-   Options: A mosquito at the window / A chenda across the yard / A pressure cooker whistle / A lorry engine far away  
+   Options: A chenda across the yard / A mosquito at the window / A pressure cooker whistle / A lorry engine far away  
    **Answer:** A mosquito at the window. *Why:* A mosquito's whine is quiet and about 500 hertz. A chenda is loud and low, a whistle is loud and high, and a far lorry is quiet and low.
 4. (mcq) A reading goes from 50 decibels to 60 decibels. How much more sound energy is that?  
-   Options: Ten times as much / Twice as much / A fifth more / Sixty times as much  
+   Options: Twice as much / A fifth more / Sixty times as much / Ten times as much  
    **Answer:** Ten times as much. *Why:* Every 10 decibels more is ten times the energy. If you chose 'a fifth more', you treated decibels like centimetres. The scale multiplies.
 5. (mcq) Which of these sounds can harm hearing if it goes on for hours?  
-   Options: A mixie one metre away / A whisper / A fridge humming / Quiet talking  
+   Options: A whisper / A fridge humming / A mixie one metre away / Quiet talking  
    **Answer:** A mixie one metre away. *Why:* A mixie at one metre is about 85 to 90 decibels. Sounds above 85 decibels can damage the inner ear over hours. The others are far below that.
 6. (mcq) A hanging bottle of water pulls a string tight. Which change gives a lower note?  
-   Options: Pouring some water out / Moving the two pencils closer / Changing to a thinner string / Plucking more gently  
+   Options: Moving the two pencils closer / Changing to a thinner string / Plucking more gently / Pouring some water out  
    **Answer:** Pouring some water out. *Why:* Less water means less tension, and a looser string vibrates more slowly. A shorter or thinner string is higher. A gentle pluck is only quieter.
 7. (mcq) How much more pull does it take to double the frequency of a string?  
-   Options: Four times the pull / Twice the pull / Ten times the pull / Half the pull  
+   Options: Twice the pull / Ten times the pull / Four times the pull / Half the pull  
    **Answer:** Four times the pull. *Why:* Four times the pull doubles the frequency. Twice the pull raises it only about 1.4 times. The Water-Bottle String shows this.
 8. (mcq) Water is poured into a tall bottle, and the sound of the pouring rises. Why?  
-   Options: The air column gets shorter / The water gets heavier / The bottle gets tighter / The water falls faster  
+   Options: The water gets heavier / The air column gets shorter / The bottle gets tighter / The water falls faster  
    **Answer:** The air column gets shorter. *Why:* The air above the water is what vibrates. As the bottle fills, the air column gets shorter and vibrates faster.
 9. (mcq) What does a wooden soundboard do for a string?  
    Options: It pushes more air, making the sound louder / It adds energy from the wood / It makes the string vibrate faster / It makes the note last longer  
@@ -707,7 +707,7 @@ Kathir looked at his violin. Then he looked at the bowl.
 10. (truefalse) True or false: a narrow gap under a door lets very little sound through.  
    **Answer:** False. *Why:* False. In the Muffle Test, opening the dabba's lid by one finger-width sent the reading up a lot. Sound gets through any gap.
 11. (mcq) In a fair test of covers for a ringing phone, which is the independent variable?  
-   Options: The cover / The reading in decibels / The tune / The distance between the phones  
+   Options: The reading in decibels / The cover / The tune / The distance between the phones  
    **Answer:** The cover. *Why:* The independent variable is the one thing changed on purpose. The reading in decibels is measured, so it is the dependent variable. The tune and the distance are kept the same.
 12. (mcq) A song comes faintly through a wall. What about it has not changed?  
    Options: The pitch of each note / Its volume / The energy it carries / How sharp it sounds  
@@ -783,6 +783,11 @@ Back and Forth, Again and Again (sci.sound.L5): Topic-level song
 
 ## Things to buy
 - [A reel of thin nylon thread or fishing line](https://www.amazon.in/s?k=nylon+thread+reel) (material): For the Water-Bottle String and everything built on it. Stationery, tailoring and hardware shops sell it. Kite string with no glass coating, or dental floss, also works. Used in e1, e2, p1, c1. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in The Water-Bottle String: does twice the pull give twice the frequency?, The Muffle Test: what makes a ringing phone quietest?, The Sound Grid: eight home sounds, two numbers. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e1, e3, a2. Get it before The Water-Bottle String: does twice the pull give twice the frequency?.
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in Gentle Pluck, Hard Pluck: does a bigger vibration change the note?. About ₹150 to ₹400. A phone stopwatch works well. Used in e2. Get it before Gentle Pluck, Hard Pluck: does a bigger vibration change the note?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Water-Bottle String: does twice the pull give twice the frequency?, Gentle Pluck, Hard Pluck: does a bigger vibration change the note?, The Muffle Test: what makes a ringing phone quietest?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, e3, a2, a3, a4, p1, c1. Get it before The Water-Bottle String: does twice the pull give twice the frequency?.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in The Sound Grid: eight home sounds, two numbers. About ₹10 to ₹30. Draw squares on plain paper. Used in a2. Get it before The Sound Grid: eight home sounds, two numbers.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What does the volume of a sound tell you? → How loud or quiet it is.

@@ -120,7 +120,8 @@
    "examples": [
     "A shadow of a cup has the outline of the cup.",
     "A shadow of your hand shows the gaps between your fingers.",
-    "A shadow of a fork shows each of its prongs."
+    "A shadow of a fork shows each of its prongs.",
+    "A shadow of your closed fist is a round lump, with no gaps. Open your hand and the gaps between the fingers appear."
    ],
    "perspectives": [],
    "art": "Straight lines drawn with a ruler from a torch past the edges of a toy, meeting the edges of the toy's shadow on the wall."
@@ -157,7 +158,7 @@
    "status": "defined",
    "context": "This card is about the Which Way Does It Point? activity, where you moved a torch round a toy.",
    "definition": "A shadow always falls on the side of the thing that is away from the light.",
-   "description": "Light comes from the torch and stops at the toy. The place that gets no light is behind the toy, on the far side from the torch. Move the torch to the left, and the shadow swings to the right. Lift the torch high above the toy, and the shadow becomes short and sits close round the toy's feet. If you know where a shadow is, you can work out where the light is.",
+   "description": "Light comes from the torch and stops at the toy. The place that gets no light is behind the toy, on the far side from the torch. Move the torch to the left, and the shadow swings to the right. Lift the torch high above the toy, and the shadow becomes short and sits close round the toy's feet. If you know where a shadow is, you can work out where the light is. The shadow also goes where the thing goes. Slide the toy to the left along the table, and its shadow slides left with it. So where a shadow lands depends on where the thing stands, as well as on where the light is.",
    "examples": [
     "If the torch is on the left, the shadow falls on the right.",
     "If a light is on the ceiling, the shadow of a chair is under the chair.",
@@ -492,11 +493,11 @@
       "t": "mcq",
       "q": "You want your hand's shadow to have a fuzzy edge. Where should you hold your hand?",
       "options": [
-       "Close to the torch",
        "Close to the wall",
+       "Close to the torch",
        "Behind the torch"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Close to the torch, your hand hides only part of the torch's light near the edge of the shadow, so the edge is grey and soft. Close to the wall, the edge is sharp. Behind the torch, there is no shadow on the wall at all."
      }
     }
@@ -908,11 +909,11 @@
       "t": "mcq",
       "q": "A room has a tube light and a table lamp switched on. How many shadows does a chair in that room make on the floor?",
       "options": [
-       "Two",
        "One",
+       "Two",
        "None"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Each light makes its own shadow, so two lights make two shadows. If you picked one, try your test again with both lights on, and count."
      }
     }
@@ -991,11 +992,11 @@
       "t": "mcq",
       "q": "You switch off the torch. What happens to your hand shadow?",
       "options": [
-       "It disappears at once",
        "It stays on the wall for a while",
+       "It disappears at once",
        "It gets darker"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A shadow is the place light cannot reach. With the torch off, no light reaches the wall at all, so there is no dark patch to see. The shadow is gone at once."
      }
     }
@@ -1178,11 +1179,11 @@
       "t": "mcq",
       "q": "The torch is on the left of a toy. Where does the toy's shadow fall?",
       "options": [
-       "On the right of the toy",
        "On the left of the toy",
-       "Under the torch"
+       "Under the torch",
+       "On the right of the toy"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A shadow always falls on the side away from the light. The torch is on the left, so the shadow is on the right."
      }
     }
@@ -1554,11 +1555,11 @@
    "t": "mcq",
    "p": "What is a shadow?",
    "opts": [
-    "A dark patch where light is blocked",
     "A dark copy that comes out of a thing",
+    "A dark patch where light is blocked",
     "A kind of light"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A shadow is the place the light cannot reach, because something is in the way. Nothing dark comes out of the thing.",
    "outcome": 0
   },
@@ -1578,11 +1579,11 @@
    "t": "mcq",
    "p": "A toy stands between a torch and a wall. When is its shadow biggest?",
    "opts": [
-    "When the toy was close to the torch",
     "When the toy was close to the wall",
-    "It was the same size everywhere"
+    "It was the same size everywhere",
+    "When the toy was close to the torch"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Close to the torch, the toy blocks a big part of the spreading light, so the shadow on the wall is big.",
    "outcome": 2,
    "how": "e1"
@@ -1603,11 +1604,11 @@
    "t": "mcq",
    "p": "A lamp hangs straight above a dining table. Where is the table's shadow?",
    "opts": [
-    "Under the table",
     "On the ceiling",
-    "On the wall behind the lamp"
+    "On the wall behind the lamp",
+    "Under the table"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The light comes from above, so the blocked place is below the table, on the floor.",
    "outcome": 3
   },
@@ -1615,11 +1616,11 @@
    "t": "mcq",
    "p": "With two torches on, why is each shadow pale grey, not dark?",
    "opts": [
-    "The other torch still shines into it",
     "Shadows are always pale",
+    "The other torch still shines into it",
     "The toy lets light through"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Each shadow is lit by the other torch. Only where the two shadows overlap does no light get in, so that part is dark.",
    "outcome": 4,
    "how": "e2"
@@ -1628,11 +1629,11 @@
    "t": "mcq",
    "p": "Your shadow puppet is a crow coloured bright blue. What colour is the crow's shadow?",
    "opts": [
-    "Dark, with no blue",
     "Bright blue",
-    "Pale blue"
+    "Pale blue",
+    "Dark, with no blue"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The card blocks the light, so the shadow is dark. A shadow shows only the outline, not the colours painted on the card.",
    "outcome": 5,
    "how": "a2"
@@ -1641,11 +1642,11 @@
    "t": "mcq",
    "p": "Tholpavakoothu is a shadow-puppet play from which state?",
    "opts": [
-    "Kerala",
     "Punjab",
-    "Assam"
+    "Assam",
+    "Kerala"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Tholpavakoothu comes from Kerala, mostly round Palakkad. Andhra Pradesh has tholu bommalata, Karnataka has togalu gombeyaata and Odisha has ravanachhaya.",
    "outcome": 5
   },
@@ -1653,11 +1654,11 @@
    "t": "mcq",
    "p": "Why does a shadow have the same outline as the thing that makes it?",
    "opts": [
-    "Light travels in straight lines",
     "Light bends round things",
+    "Light travels in straight lines",
     "The wall copies the thing"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Light that just misses the edge goes straight on to the wall, and light that hits the thing stops. So the edge of the shadow follows the edge of the thing.",
    "outcome": 0
   },
@@ -1672,6 +1673,30 @@
    "a": 0,
    "why": "Close to the torch, the edge of the shadow gets a little light from part of the torch, so it is grey and soft. Close to the wall, the edge is sharp.",
    "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "A torch stands still on a table and shines on a wall. You slide a toy sideways to the left, in front of the torch. What does the toy's shadow do?",
+   "opts": [
+    "It stays where it was",
+    "It slides left with the toy",
+    "It jumps to the right of the torch"
+   ],
+   "a": 1,
+   "why": "The shadow is the place the toy blocks the light. When the toy moves, the blocked place moves with it, so the shadow follows the toy. It does not stay behind.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "You hold your hand in front of a torch with your fingers wide apart. What does the shadow on the wall show?",
+   "opts": [
+    "One solid round lump",
+    "Nothing, because a hand is too small",
+    "Five thin fingers with gaps between them"
+   ],
+   "a": 2,
+   "why": "Light goes straight past the edges of your fingers and lands in the gaps, so the gaps stay bright. Only a closed fist makes a solid lump. A hand is big enough to block plenty of light.",
+   "outcome": 0
   }
  ],
  "worksheets": [
@@ -1818,6 +1843,12 @@
      ],
      "why": "The nearer the toy is to the torch, the more light it blocks, so the bigger its shadow.",
      "how": "e1"
+    },
+    {
+     "t": "fill",
+     "p": "You slide the toy to a new spot in front of the torch. Its shadow moves too, because the shadow always stays ___ the toy.",
+     "a": "with",
+     "why": "The shadow is the place the toy blocks the light. When the toy is in a new place, the blocked place is new too. Accept: next to, behind, beside, following."
     }
    ]
   },
@@ -1904,11 +1935,11 @@
      "t": "mcq",
      "p": "Your shadow on the floor points towards the door. Where is the light?",
      "opts": [
-      "On the side away from the door",
       "Next to the door",
+      "On the side away from the door",
       "Under the floor"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A shadow points away from the light. So if the shadow points to the door, the light is on the other side, away from the door."
     },
     {
@@ -1931,6 +1962,30 @@
      ],
      "why": "The fuzzy edge is grey because part of the torch's bright face can still be seen from there.",
      "art": "A big hand shadow with a dark middle and a soft grey edge all round it."
+    },
+    {
+     "t": "match",
+     "p": "Shadow puzzle: draw a line from each hand pose, held in front of a torch, to its shadow.",
+     "pairs": [
+      [
+       "a fist",
+       "a round lump"
+      ],
+      [
+       "a hand with fingers wide apart",
+       "five thin fingers with gaps"
+      ],
+      [
+       "one finger pointing at the wall",
+       "a thin stick"
+      ],
+      [
+       "a flat hand with fingers together",
+       "a shape like a mitten"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "A shadow has the outline of the thing, seen from the torch. Gaps between fingers stay bright, so spread fingers show as separate shapes."
     }
    ]
   },
@@ -2254,7 +2309,69 @@
    "why": "Families here make painted leather puppets for tholu bommalata."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Near or Far: when does a shadow grow?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before Near or Far: when does a shadow grow?."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Draw a Shadow Portrait, Our Box Theatre Shadow Play. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "a4",
+    "p1"
+   ],
+   "plan": "Get it before Draw a Shadow Portrait."
+  },
+  {
+   "id": "b-wooden-ice-cream-sticks--a-p",
+   "item": "Wooden ice-cream sticks (a pack)",
+   "kind": "material",
+   "why": "Used in Make a Card Shadow Puppet, Our Box Theatre Shadow Play. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in.",
+   "url": "https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack",
+   "used_in": [
+    "a2",
+    "p1"
+   ],
+   "plan": "Get it before Make a Card Shadow Puppet."
+  },
+  {
+   "id": "b-butter-paper-or-tracing-pape",
+   "item": "Butter paper or tracing paper",
+   "kind": "material",
+   "why": "Used in Our Box Theatre Shadow Play. About ₹30 to ₹80 for a roll. Thin clean plastic bag or a sheet of waxed paper.",
+   "url": "https://www.amazon.in/s?k=butter+paper+roll",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before Our Box Theatre Shadow Play."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "What is a shadow?",

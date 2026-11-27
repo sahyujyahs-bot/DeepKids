@@ -1,9 +1,9 @@
 # How life began: the oldest life and the RNA idea
 `sci.evolution.story-of-life.L3`
 
-**Summary.** Every living thing comes from another living thing. So where did the very first one come from? In this unit you will rust iron nails to see what the first oxygen did to the sea, copy a chain of RNA letters by matching pairs, and stretch 4.5 billion years along a corridor.
+**Summary.** Every living thing comes from another living thing. So where did the very first one come from? In this lesson you will rust iron nails to see what the first oxygen did to the sea, copy a chain of RNA letters by matching pairs, and stretch 4.5 billion years along a corridor.
 
-**Intro.** *Every living thing is born from another living thing. You were born from your mother, and she was born from her mother. A curry leaf plant grows from a seed that fell from another curry leaf plant. Now think about the very first living thing. Nothing alive came before it. So where did it come from?* This is one of the biggest questions in science, and it is still open. In this unit you meet the oldest life we know, which left striped rocks behind. You test what the first oxygen did to iron, with nails in jars of water. You see the white threads of DNA from a banana. And you learn the leading idea about how life began: the RNA idea. Scientists are still testing it, and you can weigh the evidence too.
+**Intro.** *Every living thing is born from another living thing. You were born from your mother, and she was born from her mother. A curry leaf plant grows from a seed that fell from another curry leaf plant. Now think about the very first living thing. Nothing alive came before it. So where did it come from?* This is one of the biggest questions in science, and it is still open. In this lesson you meet the oldest life we know, which left striped rocks behind. You test what the first oxygen did to iron, with nails in jars of water. You see the white threads of DNA from a banana. And you learn the leading idea about how life began: the RNA idea. Scientists are still testing it, and you can weigh the evidence too.
 
 ## Learning outcomes
 0. I can say that every living thing comes from another living thing, and explain why that makes the first life a puzzle.
@@ -359,9 +359,9 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
   - Note: Children often name cave people, then animals, then a fish. Let them. All are on the real path back. Don't correct the order now.
 - **s3 (2 min)**  
   *Parent does:* At the far left end, write a big question mark.  
-  *Parent says:* Every living thing came from another living thing. So where did the very first one come from? That is what this unit is about.  
+  *Parent says:* Every living thing came from another living thing. So where did the very first one come from? That is what this lesson is about.  
   *Child mode:* Write a big question mark at the far end. It stands for the very first living thing.
-  - Note: There is no sure answer yet. Scientists have ideas, and this unit looks at the leading one. It is fine for your child to say 'nobody knows'.
+  - Note: There is no sure answer yet. Scientists have ideas, and this lesson looks at the leading one. It is fine for your child to say 'nobody knows'.
   - Think: If life only comes from life, how could the first life begin?
 ### a2 · The Time String: 4.5 billion years along a corridor (15 min)
 - **problem:** The Earth is 4.5 billion years old. That is too long to picture. You will lay out a string where each metre is one billion years. Then you will see where life, oxygen, animals and people come in.
@@ -534,10 +534,10 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
 ## Worksheets
 ### The First Life (core) (core, 15 questions)
 1. (mcq) About how old is the Earth?  
-   Options: About 4,500 years / About 4.5 million years / About 4.5 billion years / About 45 years  
+   Options: About 4.5 billion years / About 4,500 years / About 4.5 million years / About 45 years  
    **Answer:** About 4.5 billion years. *Why:* The Earth is about 4.5 billion years old. Picking 4,500 years is a common mix-up between thousands and billions.
 2. (mcq) How old are the oldest signs of life we are fairly sure of?  
-   Options: About 6,000 years / About 3.5 billion years / About 66 million years / About 1 billion years  
+   Options: About 3.5 billion years / About 6,000 years / About 66 million years / About 1 billion years  
    **Answer:** About 3.5 billion years. *Why:* Stromatolites about 3.5 billion years old, in Western Australia, are the oldest signs of life most scientists accept.
 3. (truefalse) Every living thing today comes from another living thing.  
    **Answer:** True. *Why:* True. Puppies come from dogs, plants from seeds, and bacteria from other bacteria.
@@ -554,7 +554,7 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
 9. (write) A friend says: 'A nail rusts because it gets old.' Using the nail test, what would you say?  
    **Answer:** The nail under oil stayed grey as long as the others sat in air, so age is not the cause. Rust needs oxygen to reach the iron, and water helps.. *Why:* The test changed only the oxygen, so oxygen explains the rust.
 10. (mcq) What did the first oxygen made by microbes do to the iron in the sea?  
-   Options: It made rust, which sank in layers / It made the iron float / Nothing happened / It turned the iron into salt  
+   Options: It made the iron float / Nothing happened / It made rust, which sank in layers / It turned the iron into salt  
    **Answer:** It made rust, which sank in layers. *Why:* Oxygen met the dissolved iron and made rust, which sank in layers. These became banded iron rocks.
 11. (truefalse) Almost all the oxygen in the air was made by living things that use sunlight.  
    **Answer:** True. *Why:* True. Cyanobacteria, algae and plants give out oxygen when they make food from sunlight.
@@ -575,7 +575,7 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
 3. (fill) Friedrich Wöhler made ____, a chemical found in urine, from non-living chemicals.  
    **Answer:** ['urea']. *Why:* In 1828 he made urea from ammonium cyanate.
 4. (mcq) Why is the RNA idea attractive to scientists?  
-   Options: Because RNA is a rock / Because RNA is found only in meteorites / Because RNA can carry instructions and also do some jobs / Because RNA makes oxygen  
+   Options: Because RNA can carry instructions and also do some jobs / Because RNA is a rock / Because RNA is found only in meteorites / Because RNA makes oxygen  
    **Answer:** Because RNA can carry instructions and also do some jobs. *Why:* RNA can both carry instructions, like DNA, and do some jobs, like proteins. So it could have come first.
 5. (truefalse) The RNA idea has been proven in the lab.  
    **Answer:** False. *Why:* False. Scientists have made parts of it work, such as RNA that copies other RNA, but not RNA that copies itself from scratch.
@@ -584,12 +584,12 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
 7. (write) Why did we boil the water for jar B in the nail test?  
    **Answer:** Boiling drives most of the air, with its oxygen, out of the water.. *Why:* With little oxygen in the water, the nail could hardly rust.
 8. (mcq) What is a ribozyme?  
-   Options: RNA that does a job / A kind of fossil / A meteorite / A sea-floor vent  
+   Options: A kind of fossil / A meteorite / RNA that does a job / A sea-floor vent  
    **Answer:** RNA that does a job. *Why:* A ribozyme is a piece of RNA that does a job, like cutting or joining other molecules.
 9. (fill) The part of the ribosome that joins amino acids into proteins is made of ____.  
    **Answer:** ['RNA']. *Why:* This was shown in 2000. It is one of the strongest clues for the RNA idea.
 10. (mcq) A ribosome is the part of a cell that builds proteins. Why did scientists want to work out its exact shape?  
-   Options: To give it a name / Because it is the biggest thing in a cell / Its shape shows how it does its job, and helps make medicines that stop germs' ribosomes / To find out how old it is  
+   Options: To give it a name / Because it is the biggest thing in a cell / To find out how old it is / Its shape shows how it does its job, and helps make medicines that stop germs' ribosomes  
    **Answer:** Its shape shows how it does its job, and helps make medicines that stop germs' ribosomes. *Why:* How something is shaped tells you how it works. Many medicines for germs work by jamming their ribosomes, so knowing the shape helps make better ones.
 11. (truefalse) Fatty acid molecules can form tiny hollow bubbles in water by themselves.  
    **Answer:** True. *Why:* True. Their water-shy ends tuck in, and they close up into bubbles. The first cell skins may have formed this way.
@@ -608,7 +608,7 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
 2. (write) Give one piece of evidence for the idea that life began in warm pools on land, and one problem with it.  
    **Answer:** For: drying and wetting helps small molecules join into chains. Against: there was little dry land on the young Earth.. *Why:* Again, there is evidence on both sides.
 3. (mcq) Some say life came to Earth from space. What is the biggest problem with this as an answer to how life began?  
-   Options: Space is too dark / Meteorites are too small / It does not explain how life began out there / Nobody has looked  
+   Options: Space is too dark / It does not explain how life began out there / Meteorites are too small / Nobody has looked  
    **Answer:** It does not explain how life began out there. *Why:* Even if life came from space, it still had to begin somewhere. The idea moves the question, but does not answer it.
 4. (write) Divya, a girl in Class 4, did the nail test. Her nail in jar B rusted a little on day 3. Give one reason this might have happened.  
    **Answer:** Some air got into the water: from splashing while pouring, a gap in the oil layer, or air dissolving back in while it cooled.. *Why:* An odd result is a clue. Less oxygen still gave much less rust than in jars A and C.
@@ -619,20 +619,20 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
 7. (perspective) A chain of RNA copies itself in the sea. Is it alive?  
    **Answer:** A strong answer picks a side and gives a reason, such as copying and change, or no skin and no food. It then admits a fair point from the other side.. *Why:* Scientists themselves disagree on where to draw the line between chemistry and life.
 8. (mcq) Why is it hard to find fossils of the very first life?  
-   Options: Very few rocks that old survive, and the first life was tiny and soft / Nobody has looked / The first life was made of iron / Fossils only form in India  
+   Options: Nobody has looked / The first life was made of iron / Very few rocks that old survive, and the first life was tiny and soft / Fossils only form in India  
    **Answer:** Very few rocks that old survive, and the first life was tiny and soft. *Why:* Very few rocks older than about 3.5 billion years survive, and the first life was tiny and soft.
 9. (write) Proteins are needed to copy DNA, and DNA is needed to make proteins. Explain why this is a puzzle, and how the RNA idea tries to solve it.  
    **Answer:** Each needs the other, so it is hard to see which came first. RNA can carry instructions and do jobs, so RNA could have come first, before both.. *Why:* This is like the chicken and the egg. The RNA idea says the first life used one molecule for both jobs.
 10. (mcq) Zita Martins and her team found uracil in the Murchison meteorite. Why does this matter?  
-   Options: It proves there are aliens / It shows that an RNA letter can form without life / It shows the meteorite came from India / It shows the meteorite was alive  
+   Options: It proves there are aliens / It shows the meteorite came from India / It shows the meteorite was alive / It shows that an RNA letter can form without life  
    **Answer:** It shows that an RNA letter can form without life. *Why:* Uracil is one of the four letters of RNA. Finding it in a meteorite shows that RNA letters can form in space, without life.
 11. (write) Kavya, a girl in your class, says: 'Oxygen was always in the air.' What would you tell her, using the nail test and banded iron rock?  
    **Answer:** Iron rusts where oxygen reaches it. The young sea held dissolved iron without rusting, so it had little oxygen. Red rust layers in banded iron show when oxygen made by microbes arrived.. *Why:* Rocks older than about 2.4 billion years show almost no oxygen in the air.
 12. (mcq) Which of these is NOT evidence that all life is one family?  
-   Options: All life uses DNA / All life uses ribosomes / All life reads the same genetic code / All life is green  
+   Options: All life uses DNA / All life is green / All life uses ribosomes / All life reads the same genetic code  
    **Answer:** All life is green. *Why:* All life using DNA, ribosomes and the same code points to one family. Being green does not: many living things are not green.
 13. (mcq) Which result would make the RNA idea much stronger?  
-   Options: Finding RNA that copies itself from scratch in a lab flask / Finding a stromatolite / Finding rust on a nail / Finding DNA in a banana  
+   Options: Finding a stromatolite / Finding rust on a nail / Finding RNA that copies itself from scratch in a lab flask / Finding DNA in a banana  
    **Answer:** Finding RNA that copies itself from scratch in a lab flask. *Why:* The idea needs RNA that copies itself from scratch. Nobody has made that yet.
 14. (write) Ask one question about how life began that you think nobody has answered yet.  
    **Answer:** Any honest question. For example: what was the first RNA chain? Did life begin more than once?. *Why:* Open questions drive science. Good ones can be tested.
@@ -646,19 +646,19 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
 
 ## Quiz
 1. (mcq) Every living thing comes from another living thing. Why does that make the first life a puzzle?  
-   Options: Because there are too many living things / Because the first life had no living thing to come from / Because life is very small / Because the Earth is round  
+   Options: Because there are too many living things / Because life is very small / Because the Earth is round / Because the first life had no living thing to come from  
    **Answer:** Because the first life had no living thing to come from. *Why:* If life only comes from life, then the first life had nothing alive to come from. So something must once have been different.
 2. (mcq) The Earth is about 4.5 billion years old. About how old are the oldest signs of life we are fairly sure of?  
-   Options: 4.5 billion years / 3.5 billion years / 600 million years / 6,000 years  
+   Options: 3.5 billion years / 4.5 billion years / 600 million years / 6,000 years  
    **Answer:** 3.5 billion years. *Why:* About 3.5 billion years, from stromatolites in Western Australia. Picking 4.5 billion would mean life began the moment the Earth formed.
 3. (mcq) What tells us there was liquid water on the Earth about 4.4 billion years ago?  
-   Options: Tiny zircon crystals from Western Australia / Fossil fish / Stromatolites in India / Banded iron rock in Karnataka  
+   Options: Fossil fish / Stromatolites in India / Banded iron rock in Karnataka / Tiny zircon crystals from Western Australia  
    **Answer:** Tiny zircon crystals from Western Australia. *Why:* Tiny zircon crystals from Western Australia are about 4.4 billion years old, and their chemistry shows they formed with water around. There were no fish then, and stromatolites and banded iron rocks are younger.
 4. (mcq) How did microbes build stromatolites?  
    Options: They carried small stones / They ate rock / Mud settled on their mat, and they grew up through it, again and again / They froze into ice  
    **Answer:** Mud settled on their mat, and they grew up through it, again and again. *Why:* Mud settled on a mat of microbes, and the microbes grew up through it to make a new mat. Layer after layer built a dome. Picking 'carried stones' gives microbes a job they cannot do at their size.
 5. (mcq) A girl puts an iron nail in boiled water, pours oil on top and closes the lid. Another nail sits in open tap water. After three days, what will she most likely see?  
-   Options: Both nails rusty / The open-water nail rusty, the sealed nail almost grey / The sealed nail rusty, the open-water nail grey / Both nails gone  
+   Options: Both nails rusty / The sealed nail rusty, the open-water nail grey / The open-water nail rusty, the sealed nail almost grey / Both nails gone  
    **Answer:** The open-water nail rusty, the sealed nail almost grey. *Why:* The nail in open water rusts, because oxygen reaches it. The nail sealed under oil gets very little oxygen, so it stays almost grey.
 6. (mcq) What do the red stripes in banded iron rock show?  
    Options: Rust that formed when oxygen from microbes met iron in the sea / Dried blood of old animals / Paint from long ago / Red sand from deserts  
@@ -667,22 +667,22 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
    Options: C A G U / A C U G / G U C A / U G A C  
    **Answer:** G U C A. *Why:* C pairs with G, A with U, G with C, and U with A. So the partner is G U C A.
 8. (mcq) What does the RNA idea say?  
-   Options: DNA came before everything / The first life may have been RNA that could help copy itself / Life began with animals / RNA is a kind of rock  
+   Options: The first life may have been RNA that could help copy itself / DNA came before everything / Life began with animals / RNA is a kind of rock  
    **Answer:** The first life may have been RNA that could help copy itself. *Why:* It says that the first life may have been RNA, which can carry instructions and do jobs. DNA and proteins came later. It is still being tested.
 9. (mcq) Why do scientists call the RNA idea a hypothesis and not a fact?  
-   Options: Because nobody likes it / Because RNA does not exist / Because it has not yet been fully shown to work / Because it is too old  
+   Options: Because nobody likes it / Because RNA does not exist / Because it is too old / Because it has not yet been fully shown to work  
    **Answer:** Because it has not yet been fully shown to work. *Why:* It has good evidence, but nobody has yet shown RNA copying itself from scratch, as the idea needs.
 10. (mcq) Scientists put water and simple gases in a sealed flask and passed sparks through it for a week. Building blocks of proteins formed. What does this show?  
-   Options: Building blocks of life can form without living things / Life can be made in a week / Lightning kills microbes / Gases cannot change  
+   Options: Life can be made in a week / Building blocks of life can form without living things / Lightning kills microbes / Gases cannot change  
    **Answer:** Building blocks of life can form without living things. *Why:* Nothing in the flask was alive, yet amino acids, the building blocks of proteins, formed from water and simple gases with energy. Stanley Miller did this in 1953.
 11. (mcq) Before 1828, many chemists believed something that Wöhler showed was wrong. What was it?  
    Options: That the Earth is flat / That only living things could make the chemicals of life / That iron never rusts / That RNA was the first life  
    **Answer:** That only living things could make the chemicals of life. *Why:* They believed only living things could make the chemicals of life. Wöhler made urea from non-living chemicals.
 12. (mcq) Which is true about where life began?  
-   Options: It began at sea-floor vents, for certain / It began in warm pools, for certain / It came from space, for certain / Nobody knows yet  
+   Options: Nobody knows yet / It began at sea-floor vents, for certain / It began in warm pools, for certain / It came from space, for certain  
    **Answer:** Nobody knows yet. *Why:* Vents, warm pools and space all have supporters and evidence, but nobody knows yet.
 13. (mcq) In the banana test, why do we add washing liquid?  
-   Options: To make the banana taste nice / To break open the thin skins of the cells / To make the spirit cold / To turn DNA white  
+   Options: To make the banana taste nice / To make the spirit cold / To turn DNA white / To break open the thin skins of the cells  
    **Answer:** To break open the thin skins of the cells. *Why:* Washing liquid breaks the thin skins of the cells open, so the DNA comes out. Salt then helps the DNA strands clump together.
 
 ## Applications
@@ -698,9 +698,9 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
 ## Spotted around us
 - A rusty iron gate, grille or bicycle chain after the monsoon. Oxygen and water reached the iron.
 - Green or black streaks on damp walls and old clay pots in the rainy season, made by cyanobacteria and algae.
-- Red, orange and grey striped rocks, used as building stone or seen on hillsides in Karnataka, Goa and Odisha, where iron ore is mined.
+- Red, orange and grey striped rocks, used as building stone or seen on hillsides where iron ore is mined.
 - Shooting stars on a clear night. They are tiny bits of space dust burning up. Some bigger pieces land as meteorites.
-- The sea at a beach such as Marina in Chennai, Puri in Odisha or Kovalam in Kerala. Life lived only in water for most of the Earth's story.
+- The sea at a beach. Life lived only in water for most of the Earth's story.
 - Curd setting overnight. Today, new microbes come only from living microbes.
 
 ## Open questions
@@ -757,6 +757,9 @@ A with U, C with G (sci.evolution.L3): Topic-level song for Evolution L3
 - [Surgical spirit or rubbing alcohol, a small bottle](https://www.amazon.in/s?k=surgical+spirit) (material): Needed for the banana DNA test. Sold at medical shops. Keep it away from flames and children. Used in e2. 
 - [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): For looking at the green living film closely. A phone camera zoomed in also works. Used in a5. 
 - [The Story of Life: A First Book about Evolution, by Catherine Barr and Steve Williams, illustrated by Amy Husband](https://www.amazon.in/s?k=The+Story+of+Life+Catherine+Barr) (book): A picture book that tells the story of life from the first cells to today, for ages 5 to 8. Used in p1. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in The Time String: 4.5 billion years along a corridor. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in a2. Get it before The Time String: 4.5 billion years along a corridor.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Time String: 4.5 billion years along a corridor. About ₹10 to ₹30. Any school ruler is fine. Used in a2. Get it before The Time String: 4.5 billion years along a corridor.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - How old is the Earth? → About 4.5 billion years.

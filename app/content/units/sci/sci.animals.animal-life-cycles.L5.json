@@ -847,11 +847,11 @@
       "t": "mcq",
       "q": "In Emerge!, why is 13 a safer year than 12?",
       "options": [
-       "13 is a bigger number",
        "Neither 2 nor 3 divides 13 exactly",
+       "13 is a bigger number",
        "Birds dislike the number 13"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The game's two predators have good years every 2 years and every 3 years. Year 12 falls on both, and year 13 falls on neither, because 13 is a prime number. Choosing 'a bigger number' forgets that 14, 15, 16 and 18 are bigger still and less safe."
      },
      "context": "This is the last step of Emerge! Here you add up the scores and talk about the safest years."
@@ -1052,11 +1052,11 @@
       "t": "mcq",
       "q": "In the Crowd Test, a bird ate 8 rajma from a crowd of 10 and 9 from a crowd of 80. What does this show?",
       "options": [
-       "A bigger crowd makes the bird hungrier",
        "Each one is much safer in the bigger crowd",
+       "A bigger crowd makes the bird hungrier",
        "The bird cannot see a big crowd"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The bird ate almost the same number each time, so the share eaten fell from 8 in 10 to 9 in 80. Each member of the big crowd had a much smaller chance of being picked. Choosing 'hungrier' usually means looking at the number eaten and missing the share."
      },
      "context": "This is the last step of the Crowd Test. Here you explain your results and say what the model leaves out."
@@ -1322,11 +1322,11 @@
       "t": "mcq",
       "q": "A periodical cicada lives 17 years. About how long is the winged adult stage?",
       "options": [
-       "About 4 weeks",
        "About 8 years",
-       "About 16 years"
+       "About 16 years",
+       "About 4 weeks"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The nymph lives underground for 17 years, and the winged adult lives about four weeks. Choosing 8 or 16 years usually comes from expecting adult life to be the long part, as it is for humans."
      },
      "context": "This is the last step of Life Bars. Here you compare the five bars and think about an animal whose bar cannot be drawn."
@@ -1415,10 +1415,10 @@
       "q": "When the immortal jellyfish turns from a medusa into a polyp, where does the polyp's body come from?",
       "options": [
        "From a new egg",
-       "From the medusa's own cells, which change kind",
-       "From food she catches"
+       "From food she catches",
+       "From the medusa's own cells, which change kind"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The medusa's own cells are reused, and many of them change from one kind into another. No egg is involved, and the medusa is often starving at the time. Choosing 'a new egg' means thinking of the usual way a polyp begins."
      },
      "context": "This is the last step of Run It Backwards. Here you say what the dough model shows and what it leaves out."
@@ -1518,11 +1518,11 @@
       "t": "mcq",
       "q": "Why can't a fish lay 300 million eggs that are each as big as a hen's egg?",
       "options": [
-       "Big eggs sink too fast",
        "Her body has only so much material for eggs",
+       "Big eggs sink too fast",
        "Fish do not like big eggs"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Eggs are made from the mother's own body and food. A fixed amount of material can be cut into a few big eggs or many small ones. Three hundred million hen-sized eggs would weigh far more than any fish."
      },
      "context": "This is the last step of the Egg Budget. Here you match big eggs and small eggs to the lives of real animals."
@@ -1611,10 +1611,10 @@
       "q": "A survival curve drops almost to zero in the first weeks of life and then runs flat. Which animal does it fit?",
       "options": [
        "An Asian elephant",
-       "A hilsa",
-       "A human today"
+       "A human today",
+       "A hilsa"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A hilsa lays a million or more eggs with no care, and nearly all the young die in the first weeks. Elephants and humans today mostly survive when young and die late in life, so their curve stays high and drops at the end."
      },
      "context": "This is the last step of Three Survival Curves. Here you match each curve to real animals."
@@ -1721,10 +1721,10 @@
       "q": "A potato strip goes limp in very salty water. Why?",
       "options": [
        "Salt melts the potato",
-       "Water moves out of the cells towards the salt",
-       "The potato soaks up too much water"
+       "The potato soaks up too much water",
+       "Water moves out of the cells towards the salt"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Water moves through the thin skin of each cell towards the saltier side. This is osmosis. The cells lose water and go soft. Choosing 'soaks up too much water' gets the direction the wrong way round: that happens, a little, in plain water."
      },
      "context": "This is the last step of the Salt Switch. Here you explain the results and link them to a fish in the sea."
@@ -2076,10 +2076,10 @@
       "q": "A fish lives in a pool that is dry for eight months of every year. Which timetable fits best?",
       "options": [
        "Grow slowly and breed at ten years old",
-       "Grow fast, and lay eggs that can wait in dry mud",
-       "Lay one large egg and guard it all year"
+       "Lay one large egg and guard it all year",
+       "Grow fast, and lay eggs that can wait in dry mud"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The adults cannot survive the dry months, so they must breed within one wet season. Eggs that can wait in dry mud carry the animal through to the next rain. Slow growth or a year of guarding needs water all year."
      },
      "context": "This is the last step of Design a Life Cycle. Here you compare your design with real animals and test it in another home."
@@ -2098,12 +2098,12 @@
      "t": "mcq",
      "p": "What is unusual about the life cycle of a periodical cicada?",
      "opts": [
-      "The whole population comes out in one year",
       "The adults live for 17 years",
+      "The whole population comes out in one year",
       "The eggs are laid deep underground",
       "The nymphs can fly"
      ],
-     "a": 0,
+     "a": 1,
      "why": "All the nymphs of a brood grow up together and come out in the same few evenings. The adults live only about a month, and the eggs are laid in twigs. Choosing '17 years as adults' mixes up the nymph and the adult.",
      "outcome": 0
     },
@@ -2213,12 +2213,12 @@
      "t": "mcq",
      "p": "How does a salmon find the stream where she hatched?",
      "opts": [
-      "Mainly by its smell",
       "By following older fish",
+      "Mainly by its smell",
       "By remembering what it looks like",
       "Her parents lead her"
      ],
-     "a": 0,
+     "a": 1,
      "why": "She learned the smell of her stream as a young fish and follows it back. Her parents died years before, so nobody leads her.",
      "outcome": 2
     },
@@ -2349,12 +2349,12 @@
      "t": "mcq",
      "p": "Salmon with plugged noses chose between two streams at random. What does this show?",
      "opts": [
-      "They need smell to find home",
       "Cotton makes fish ill",
+      "They need smell to find home",
       "They find home by sight",
       "They have no home stream"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Fish with open noses chose their own branch, and fish who could not smell could not. So smell is what they use. Choosing 'cotton makes fish ill' is a fair worry, and it is why the open-nosed fish were handled the same way.",
      "outcome": 2
     },
@@ -2462,12 +2462,12 @@
      "t": "mcq",
      "p": "Which of these animals is semelparous?",
      "opts": [
-      "A mayfly",
       "A hen",
       "A hilsa",
+      "A mayfly",
       "A house crow"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A mayfly breeds once and dies within a day or two. A hen, a hilsa and a crow can all breed again. Choosing the hilsa mixes her up with the Pacific salmon.",
      "outcome": 3
     },
@@ -2517,12 +2517,12 @@
      "t": "mcq",
      "p": "A muscle cell and a nerve cell in the same body differ mainly in what?",
      "opts": [
-      "Which genes are switched on",
       "Which genes they carry",
       "How old they are",
+      "Which genes are switched on",
       "What food reaches them"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Nearly every cell in a body carries the same genes. The kind of cell depends on which genes are in use. Choosing 'which genes they carry' is the old idea that John Gurdon's frog experiment showed to be wrong.",
      "outcome": 5
     },
@@ -2569,13 +2569,13 @@
      "t": "mcq",
      "p": "The bird in the Crowd Test was limited only by time. What else limits a real bird?",
      "opts": [
-      "A stomach that gets full",
       "The colour of the cicadas",
+      "A stomach that gets full",
       "The size of the towel",
       "Nothing else limits her"
      ],
      "how": "e1",
-     "a": 0,
+     "a": 1,
      "why": "A real bird stops eating when she is full. That limit, like the time limit in the model, means a predator can eat only so many.",
      "outcome": 6
     },
@@ -2605,12 +2605,12 @@
      "t": "mcq",
      "p": "Landlocked sockeye salmon never go to sea, yet they die after spawning. What does this suggest?",
      "opts": [
-      "The long journey alone is not the cause",
       "Fresh water slowly poisons them",
       "They are not really salmon",
-      "They die of cold"
+      "They die of cold",
+      "The long journey alone is not the cause"
      ],
-     "a": 0,
+     "a": 3,
      "why": "These fish make only a short trip and still die. So the death is set off from inside the body, by hormones, when the fish spawns. The journey makes it harder but does not cause it.",
      "outcome": 3
     },
@@ -2782,12 +2782,12 @@
    "t": "mcq",
    "p": "Where does a periodical cicada spend most of her life?",
    "opts": [
-    "Underground, as a nymph",
     "In the treetops, as an adult",
+    "Underground, as a nymph",
     "Inside an egg",
     "In a stream"
    ],
-   "a": 0,
+   "a": 1,
    "why": "She is a nymph underground for 13 or 17 years and a winged adult for about a month.",
    "outcome": 0
   },
@@ -2795,12 +2795,12 @@
    "t": "mcq",
    "p": "Millions of cicadas come out within a few evenings. How does this help each one?",
    "opts": [
-    "Predators get full, and most cicadas are left",
     "They keep each other warm",
     "Their noise frightens every bird away",
-    "They find food faster together"
+    "They find food faster together",
+    "Predators get full, and most cicadas are left"
    ],
-   "a": 0,
+   "a": 3,
    "why": "This is predator satiation. Birds and other predators eat all they can, and that is a small share of a huge crowd. The loud song is for finding mates.",
    "outcome": 1
   },
@@ -2808,12 +2808,12 @@
    "t": "mcq",
    "p": "A bird eats 10 insects from a crowd of 20 and 10 from 200. Which crowd is safer to be in?",
    "opts": [
-    "The crowd of 200",
     "The crowd of 20",
     "Equally safe in both",
+    "The crowd of 200",
     "It cannot be worked out"
    ],
-   "a": 0,
+   "a": 2,
    "why": "In the crowd of 20, half are eaten. In the crowd of 200, only 1 in 20 is eaten. The same meal is a much smaller share of the bigger crowd.",
    "outcome": 1
   },
@@ -2834,12 +2834,12 @@
    "t": "mcq",
    "p": "Which test best shows whether salmon need smell to find home?",
    "opts": [
-    "Plug some noses and compare with open noses",
     "Follow one fish up the river",
     "Count the fish in the river",
-    "Smell the river water yourself"
+    "Smell the river water yourself",
+    "Plug some noses and compare with open noses"
    ],
-   "a": 0,
+   "a": 3,
    "why": "A fair test changes one thing, the sense of smell, and compares two groups. Following one fish or counting fish cannot show which sense is used.",
    "outcome": 2
   },
@@ -2847,12 +2847,12 @@
    "t": "mcq",
    "p": "What does 'semelparous' mean?",
    "opts": [
-    "Breeds once and then dies",
     "Breeds many times",
+    "Breeds once and then dies",
     "Lives in both river and sea",
     "Changes from male to female"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A semelparous animal, such as a Pacific salmon or a mayfly, puts everything into one breeding. An animal who breeds many times is iteroparous.",
    "outcome": 3
   },
@@ -2860,12 +2860,12 @@
    "t": "mcq",
    "p": "Why can it work for a Pacific salmon to spend her whole body on one spawning?",
    "opts": [
-    "Few would survive a second journey",
     "Salmon dislike the sea",
     "Eggs cannot hatch unless the parents die",
-    "The river is too warm to leave"
+    "The river is too warm to leave",
+    "Few would survive a second journey"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The return to the sea and a second climb up the river would kill most fish. So a salmon who holds something back for next time usually wastes what she held back.",
    "outcome": 3
   },
@@ -2886,12 +2886,12 @@
    "t": "mcq",
    "p": "Where the number of animals stays steady, about how many young from each pair live to breed?",
    "opts": [
-    "About two",
     "About half of the eggs",
     "About a hundred",
+    "About two",
     "All of them"
    ],
-   "a": 0,
+   "a": 2,
    "why": "About two, which just replaces the parents. This is true for an elephant with a few calves and for a fish with a million eggs.",
    "outcome": 4
   },
@@ -2899,12 +2899,12 @@
    "t": "mcq",
    "p": "What happens to the cells when the immortal jellyfish turns from a medusa into a polyp?",
    "opts": [
-    "Many change from one kind of cell into another",
     "All die, and a new egg grows",
+    "Many change from one kind of cell into another",
     "They stay exactly as they were",
     "They are shed into the sea"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The medusa's own cells are reused, and many change kind by switching different genes on. This is called transdifferentiation.",
    "outcome": 5
   },
@@ -3223,6 +3223,94 @@
    "used_in": [
     "p1"
    ]
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Crowd Test: is it safer to come out alone or all together?, Life Bars: how much of a life is spent growing up?, Three Survival Curves: when in life do most animals die?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "a1",
+    "a4",
+    "a5",
+    "c1"
+   ],
+   "plan": "Get it before The Crowd Test: is it safer to come out alone or all together?."
+  },
+  {
+   "id": "b-modelling-clay-or-plasticine",
+   "item": "Modelling clay or plasticine",
+   "kind": "material",
+   "why": "Used in Run It Backwards: a dough model of the immortal jellyfish, The Egg Budget: many small eggs or a few big ones?. About ₹40 to ₹120. Atta dough mixed with a little salt works.",
+   "url": "https://www.amazon.in/s?k=modelling+clay+plasticine",
+   "used_in": [
+    "a2",
+    "a3"
+   ],
+   "plan": "Get it before Run It Backwards: a dough model of the immortal jellyfish."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in The Fish Pass: get a hilsa past a barrage. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before The Fish Pass: get a hilsa past a barrage."
+  },
+  {
+   "id": "b-vinegar",
+   "item": "Vinegar",
+   "kind": "material",
+   "why": "Used in The Home Stream Test: how weak a smell can your nose follow?. About ₹40 to ₹80. Lemon juice works for many tests.",
+   "url": "https://www.amazon.in/s?k=white+vinegar",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before The Home Stream Test: how weak a smell can your nose follow?."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in The Crowd Test: is it safer to come out alone or all together?, The Egg Budget: many small eggs or a few big ones?, The Dal Jar Watch: a whole life cycle inside one seed (if you find pulse beetles). Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "e1",
+    "a3",
+    "p1"
+   ],
+   "plan": "Get it before The Crowd Test: is it safer to come out alone or all together?."
+  },
+  {
+   "id": "b-graph-paper",
+   "item": "Graph paper",
+   "kind": "material",
+   "why": "Used in Three Survival Curves: when in life do most animals die?. About ₹10 to ₹30. Draw squares on plain paper.",
+   "url": "https://www.amazon.in/s?k=graph+paper+notebook",
+   "used_in": [
+    "a4"
+   ],
+   "plan": "Get it before Three Survival Curves: when in life do most animals die?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

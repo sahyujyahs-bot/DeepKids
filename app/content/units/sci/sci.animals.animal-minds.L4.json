@@ -788,11 +788,11 @@
       "t": "mcq",
       "q": "Why do we shuffle the cards instead of going from 2 up to 9?",
       "options": [
-       "So the child cannot guess from the order",
        "So the cards stay clean",
+       "So the child cannot guess from the order",
        "So the test is quicker"
       ],
-      "a": 0,
+      "a": 1,
       "why": "If the cards go from small to big, the child can guess the next number without looking. A mixed order makes the answers come from the dots, not the order."
      },
      "parent": "With 2 to 4 children, give each child their own table. Use the same cards, shuffled again for each child. The other children take turns lifting the sheet, and the children not being tested look away. If your child gets every card right, even 9, the flash was probably too long. Try again with 12 and 15 dots. If your child is upset by wrong answers, remind them that guessing is the point."
@@ -938,11 +938,11 @@
       "t": "mcq",
       "q": "Why do we toss a coin to decide which side the bigger pile goes on?",
       "options": [
-       "So the child cannot guess that the bigger pile is always on one side",
        "So the coin gets a turn",
-       "So the test takes longer"
+       "So the test takes longer",
+       "So the child cannot guess that the bigger pile is always on one side"
       ],
-      "a": 0,
+      "a": 2,
       "why": "If the bigger pile were always on the left, a child could point left and score full marks without looking. The coin makes the side random, so the score comes from judging the piles."
      },
      "parent": "Mix the order of the pairs, so a child cannot get used to one gap. If a pair is clearly easy, still do all six tries. Each pair must have the same number of tries. With 2 to 4 children, the child being tested keeps their eyes closed, another child tosses the coin and sets the plates, and a third writes the ticks. Each child does 3 tries per pair, and you add up the scores of all the children for the table. With a single child and only 6 tries, treat a difference of one try as luck. You may repeat the test on another day.",
@@ -1209,11 +1209,11 @@
       "t": "mcq",
       "q": "When a child follows a string with her eyes before pulling, which best describes what she does?",
       "options": [
-       "She plans the pull in her mind before acting",
        "She gives up",
+       "She plans the pull in her mind before acting",
        "She guesses"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Looking first and then pulling the right string at once means the answer was worked out before the action. Trying one string and then the other is trial and error. Both are ways of solving a problem."
      },
      "parent": "Many children trace the string with a finger or with their eyes. This is a way of thinking before acting. Write the wrong pulls for round 3 and compare the three rounds. With 2 to 4 children, each child solves a new arrangement alone while the others look away, then they swap. Keep the heavy book flat on the table so it cannot fall on a foot, and keep the small toy away from children under five."
@@ -1415,11 +1415,11 @@
       "t": "mcq",
       "q": "Which change makes a dog's counting test fairer?",
       "options": [
-       "A helper who does not know the answer asks the question from behind a screen",
        "The owner stands closer",
-       "The dog is given more treats"
+       "The dog is given more treats",
+       "A helper who does not know the answer asks the question from behind a screen"
       ],
-      "a": 0,
+      "a": 2,
       "why": "If the person who knows the answer cannot be seen, the dog cannot read small signs from them. A helper who does not know the answer, and a screen, remove that clue. Then the dog's answer is more likely to come from number."
      }
     }
@@ -1613,11 +1613,11 @@
       "t": "mcq",
       "q": "A crow always picks the pile on the left. What does this most likely show?",
       "options": [
-       "She uses position, not number",
        "She counts perfectly",
-       "She cannot see"
+       "She cannot see",
+       "She uses position, not number"
       ],
-      "a": 0,
+      "a": 2,
       "why": "If the side decides her choice, the test does not show number sense. A coin to choose the side breaks that clue."
      },
      "parent": "If no bird visits, your family member can play the crow, or you can test the plan with a pigeon or squirrel if one comes."
@@ -1656,11 +1656,11 @@
      "t": "mcq",
      "p": "What is number sense?",
      "opts": [
-      "A quick feeling for how many, without counting or number words",
       "Knowing all the number words",
-      "Being good at sums"
+      "Being good at sums",
+      "A quick feeling for how many, without counting or number words"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Number sense is the quick feeling for 'how many' or 'which is more'. Chicks, fish and bees have this feeling, though they have no number words.",
      "outcome": 0
     },
@@ -1697,11 +1697,11 @@
      "t": "mcq",
      "p": "Which pair of piles is hardest to tell apart at a glance?",
      "opts": [
-      "6 and 12",
       "8 and 9",
+      "6 and 12",
       "10 and 20"
      ],
-     "a": 1,
+     "a": 0,
      "why": "8 and 9 have a ratio close to 1, so they look almost the same. 6 and 12, and 10 and 20, each have a ratio of 1 to 2, which is easy.",
      "outcome": 2
     },
@@ -1853,11 +1853,11 @@
      "t": "mcq",
      "p": "Two piles have a ratio of 1 to 2. Which pair of numbers is that?",
      "opts": [
-      "10 and 20",
       "10 and 12",
-      "10 and 15"
+      "10 and 15",
+      "10 and 20"
      ],
-     "a": 0,
+     "a": 2,
      "why": "20 is 2 times 10, so the ratio of 10 to 20 is 1 to 2. The other pairs are closer.",
      "outcome": 2
     },
@@ -1865,11 +1865,11 @@
      "t": "mcq",
      "p": "Babies six months old told 8 dots from 16 dots, but not 8 from 12. What does this show?",
      "opts": [
-      "The ratio matters, and 1 to 2 is easier than 2 to 3",
       "Babies can count to 16",
-      "Babies can see only 8 dots"
+      "Babies can see only 8 dots",
+      "The ratio matters, and 1 to 2 is easier than 2 to 3"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Fei Xu and Elizabeth Spelke found that babies used the ratio. 8 to 16 is 1 to 2, which is far from 1. 8 to 12 is 2 to 3, which is closer.",
      "outcome": 2
     },
@@ -2017,11 +2017,11 @@
      "t": "mcq",
      "p": "Children waited much less when a grown-up had already broken a promise. What is the best reading of this?",
      "opts": [
-      "Waiting depends on trust as well as on willpower",
       "Those children had no self-control",
+      "Waiting depends on trust as well as on willpower",
       "Promises do not matter"
      ],
-     "a": 0,
+     "a": 1,
      "why": "If the later reward may not come, taking the small reward now is sensible. Waiting works only in a place you trust.",
      "outcome": 4
     },
@@ -2036,11 +2036,11 @@
      "t": "mcq",
      "p": "Why were stilts and stumps used on desert ants?",
      "opts": [
-      "To change how long each step was, without changing the number of steps",
       "To make the ants slower",
+      "To change how long each step was, without changing the number of steps",
       "To keep them off the hot sand"
      ],
-     "a": 0,
+     "a": 1,
      "why": "If ants count steps, longer legs should carry them too far and shorter legs not far enough. That is what happened.",
      "outcome": 0
     },
@@ -2072,11 +2072,11 @@
      "t": "mcq",
      "p": "A crow picks the pile with more peanuts. Which extra check best shows she uses number and not size?",
      "opts": [
-      "Use bigger peanuts in the smaller pile, so both piles take up the same space",
       "Use the same peanuts and the same pile size",
-      "Give her more time to look"
+      "Give her more time to look",
+      "Use bigger peanuts in the smaller pile, so both piles take up the same space"
      ],
-     "a": 0,
+     "a": 2,
      "why": "If the smaller pile has bigger peanuts, the size and the space cannot give away the answer. Only the number is different.",
      "outcome": 5
     },
@@ -2084,11 +2084,11 @@
      "t": "mcq",
      "p": "A raven chooses a tool and uses it hours later. Which result would make 'she planned' hardest to doubt?",
      "opts": [
-      "She picks the right tool for a task she has never seen before",
       "She uses the tool she always uses",
-      "She picks a tool at random"
+      "She picks a tool at random",
+      "She picks the right tool for a task she has never seen before"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A new task cannot be solved by an old habit. If she still picks the right tool, planning is a better explanation.",
      "outcome": 5
     },
@@ -2117,11 +2117,11 @@
      "t": "mcq",
      "p": "In a deck with 2 Safe and 8 Thief rounds, which choice scores more over 10 rounds?",
      "opts": [
-      "Taking: 10 seeds against 6",
       "Waiting: 24 seeds against 10",
+      "Taking: 10 seeds against 6",
       "Both score the same"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Waiting wins 3 seeds on 2 Safe rounds, which is 6. Taking wins 10. In an untrustworthy place, waiting does not pay.",
      "outcome": 4
     },
@@ -2216,11 +2216,11 @@
      "t": "mcq",
      "p": "A computer circuit of four neurons can estimate how many things it scans. What can we say?",
      "opts": [
-      "A small circuit can do some number tasks, but this does not prove that a real bee works this way",
       "Bees have only four neurons",
+      "A small circuit can do some number tasks, but this does not prove that a real bee works this way",
       "Bees cannot count"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Vera Vasas and Lars Chittka showed a small circuit can work. Whether a real bee uses that circuit is a separate question for more tests.",
      "outcome": 6
     },
@@ -2242,11 +2242,11 @@
      "t": "mcq",
      "p": "How might number words help us to say big numbers exactly?",
      "opts": [
-      "Words give each number its own name and place in a list, so we can say 17 and not just 'many'",
       "Words make numbers bigger",
+      "Words give each number its own name and place in a list, so we can say 17 and not just 'many'",
       "Words have nothing to do with numbers"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The quick sense of number is blurry for big numbers. Number words let people say exactly how many, as the research with the Pirahã community and others suggests.",
      "outcome": 3
     }
@@ -2259,11 +2259,11 @@
    "t": "mcq",
    "p": "Which is the best example of an animal using number sense?",
    "opts": [
-    "A fish joins the larger of two groups of fish",
     "A fish swims in a tank",
-    "A fish eats a worm"
+    "A fish eats a worm",
+    "A fish joins the larger of two groups of fish"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Choosing the larger group means telling which group has more, which is number sense. Swimming and eating do not need it.",
    "outcome": 0
   },
@@ -2271,11 +2271,11 @@
    "t": "mcq",
    "p": "A child tells 3 dots from 4 dots at a glance, but cannot tell 12 from 13. What best explains this?",
    "opts": [
-    "The quick sense of number is sharp for small numbers and blurry when the ratio is close to 1",
     "The child has not learned maths",
-    "Dots are hard to see"
+    "Dots are hard to see",
+    "The quick sense of number is sharp for small numbers and blurry when the ratio is close to 1"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Small numbers can be known exactly. Bigger numbers are estimated, and close ratios blur together.",
    "outcome": 1
   },
@@ -2283,11 +2283,11 @@
    "t": "mcq",
    "p": "Which pair is the easiest to tell apart at a glance?",
    "opts": [
-    "5 and 10",
     "20 and 22",
+    "5 and 10",
     "50 and 52"
    ],
-   "a": 0,
+   "a": 1,
    "why": "5 and 10 have a ratio of 1 to 2. The other pairs have ratios very near 1, so they are much harder.",
    "outcome": 2
   },
@@ -2295,11 +2295,11 @@
    "t": "mcq",
    "p": "Two pairs of bean piles both differ by 6. One pair is 6 and 12. The other is 24 and 30. Why is the 6 and 12 pair easier?",
    "opts": [
-    "6 to 12 is a ratio of 1 to 2, which is far from 1",
     "It has more beans",
+    "6 to 12 is a ratio of 1 to 2, which is far from 1",
     "Six beans are easier to see"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Ratio matters more than the gap. 24 to 30 is 4 to 5, which is close to 1, so it is harder.",
    "outcome": 2
   },
@@ -2307,11 +2307,11 @@
    "t": "mcq",
    "p": "Which of these is counting, and not only number sense?",
    "opts": [
-    "Touching each toy, saying the numbers in order, and using the last number as the total",
     "Seeing two groups and knowing one is bigger",
-    "Walking to the bigger pile"
+    "Walking to the bigger pile",
+    "Touching each toy, saying the numbers in order, and using the last number as the total"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Counting follows rules: numbers in order, one for each thing, and the last number is the total. Number sense needs none of these.",
    "outcome": 3
   },
@@ -2319,11 +2319,11 @@
    "t": "mcq",
    "p": "A cuttlefish waits for a better food instead of taking a plain one. What does this show?",
    "opts": [
-    "She can hold back a small reward now for a bigger one later",
     "She cannot taste",
-    "She dislikes food"
+    "She dislikes food",
+    "She can hold back a small reward now for a bigger one later"
    ],
-   "a": 0,
+   "a": 2,
    "why": "This is self-control. Waiting is a choice, and the tests show she makes it.",
    "outcome": 4
   },
@@ -2343,11 +2343,11 @@
    "t": "mcq",
    "p": "A horse seems to count by tapping, but only when the owner can see the answer. What should a scientist check first?",
    "opts": [
-    "Whether the horse is reading small signs from the owner",
     "How loud the taps are",
-    "What colour the horse is"
+    "What colour the horse is",
+    "Whether the horse is reading small signs from the owner"
    ],
-   "a": 0,
+   "a": 2,
    "why": "If the horse is reading hidden signs, number is not needed. A helper who does not know the answer can check.",
    "outcome": 5
   },
@@ -2367,11 +2367,11 @@
    "t": "mcq",
    "p": "What is anthropodenial?",
    "opts": [
-    "Refusing to see a mind or feeling that the evidence shows",
     "Giving animals human feelings with no evidence",
-    "Studying only humans"
+    "Studying only humans",
+    "Refusing to see a mind or feeling that the evidence shows"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Frans de Waal used this word for the opposite of anthropomorphism. Both are mistakes, and the fair way is to follow the evidence.",
    "outcome": 5
   },
@@ -2379,11 +2379,11 @@
    "t": "mcq",
    "p": "A honeybee has about a million neurons and still handles number tasks. What does this suggest?",
    "opts": [
-    "The size of a brain is not the only thing that sets what it can do",
     "Bees are as clever as people in every way",
+    "The size of a brain is not the only thing that sets what it can do",
     "Neurons are not needed"
    ],
-   "a": 0,
+   "a": 1,
    "why": "How a brain is wired matters, not only how big it is. A computer model with four neurons can estimate a number.",
    "outcome": 6
   },
@@ -2391,11 +2391,11 @@
    "t": "mcq",
    "p": "Desert ants on stilts walk past their nest. What does this suggest?",
    "opts": [
-    "They keep count of their steps, and longer steps carry them too far",
     "They cannot find their nest",
+    "They keep count of their steps, and longer steps carry them too far",
     "They like stilts"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The ants counted the same number of steps, but each step was longer, so they overshot. That points to step counting.",
    "outcome": 0
   }
@@ -2666,6 +2666,42 @@
    "used_in": [
     "a2"
    ]
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in Stilt Steps: be a desert ant. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Get it before Stilt Steps: be a desert ant."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in Which Pile Is Bigger? The ratio test. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before Which Pile Is Bigger? The ratio test."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

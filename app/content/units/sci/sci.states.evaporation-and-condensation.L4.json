@@ -779,11 +779,11 @@
       "t": "mcq",
       "q": "The dew point of the air is 20 degrees. Which glass will get mist?",
       "options": [
-       "A glass of water at 15 degrees",
        "A glass of water at 25 degrees",
-       "Both glasses"
+       "Both glasses",
+       "A glass of water at 15 degrees"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Mist forms on any surface colder than the dew point. At 15 degrees, the glass is colder than 20, so it mists. The glass at 25 degrees is warmer than the dew point, so it stays dry."
      },
      "context": "In this step you play the last eight cards, add up the points and check what you learned.",
@@ -1115,11 +1115,11 @@
       "t": "mcq",
       "q": "What is the control jar of salt for?",
       "options": [
-       "To show what salt does in dry air, so you can compare",
        "To make the box more humid",
-       "To keep the salt for cooking"
+       "To keep the salt for cooking",
+       "To show what salt does in dry air, so you can compare"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A control shows what happens when the one thing you are testing, the damp air, is missing. If the control salt stays dry while the box salt gets wet, the damp air must be the cause."
      },
      "context": "In this step you set out six saucers and a control jar of salt."
@@ -1163,11 +1163,11 @@
       "t": "mcq",
       "q": "The salt in the humid box got damp, but the salt in the closed jar stayed dry. What does this show?",
       "options": [
-       "The salt pulled water out of the damp air",
        "The box made the salt cold",
-       "Salt gets damp when it is old"
+       "Salt gets damp when it is old",
+       "The salt pulled water out of the damp air"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The only difference between the two salts was the damp air. So the damp air is the cause. The salt was not cold, and the control salt was just as old, so neither of those could explain the difference."
      },
      "context": "In this step you say what you think, what you saw, and why."
@@ -1298,11 +1298,11 @@
       "t": "mcq",
       "q": "Why do both pans start with exactly the same amount of water?",
       "options": [
-       "So that only the lid changes",
        "So the pans are easy to carry",
+       "So that only the lid changes",
        "So they boil at the same moment"
       ],
-      "a": 0,
+      "a": 1,
       "why": "If one pan had more water, you could not tell if the lid or the amount made the difference. In a fair test, only one thing changes."
      },
      "context": "In this step you measure the water into two pans. Only one gets a lid."
@@ -1347,11 +1347,11 @@
       "t": "mcq",
       "q": "The covered pan lost far less water than the open pan. What does this show?",
       "options": [
-       "Vapour met the cooler lid, turned back into drops and fell into the pan",
        "The water in the covered pan did not boil",
+       "Vapour met the cooler lid, turned back into drops and fell into the pan",
        "The lid made the water boil hotter"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Both pans boiled, as the steady bubbles showed. In the covered pan the vapour had a lid to condense on, and the drops ran back. Water at sea level boils at 100 degrees whether or not there is a lid, so the lid did not make it hotter."
      },
      "context": "In this step you say what you think, what you saw, and why."
@@ -1541,11 +1541,11 @@
       "t": "mcq",
       "q": "Why is the back of a running fridge warm?",
       "options": [
-       "The fridge moves heat from the inside to the back, where it is given out to the room",
        "The fridge motor is the only warm part",
-       "Heat from inside the food just disappears"
+       "Heat from inside the food just disappears",
+       "The fridge moves heat from the inside to the back, where it is given out to the room"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A fridge takes heat from inside and gives it out at the back, where the special liquid condenses. The motor adds a little heat too, but the main warmth is the heat taken from the food. Heat never just disappears."
      },
      "context": "In this step you feel the air from an outdoor air conditioner, if your home has one, and answer the question."
@@ -1638,11 +1638,11 @@
       "t": "mcq",
       "q": "The dew point is 23 degrees. Which glass of water will mist?",
       "options": [
-       "Water at 15 degrees",
        "Water at 28 degrees",
+       "Water at 15 degrees",
        "Neither will mist"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Mist forms on any surface colder than the dew point. At 15 degrees the glass is colder than 23, so it mists. At 28 degrees it is warmer, so it stays dry."
      },
      "context": "In this step you test the three glasses and compare the results with your predictions."
@@ -1832,11 +1832,11 @@
       "t": "mcq",
       "q": "A camphor tablet in the open gets smaller and leaves no puddle. What has happened to the camphor?",
       "options": [
-       "It has turned straight into a gas and spread through the air",
        "It has melted into the shelf",
-       "It has turned into water"
+       "It has turned into water",
+       "It has turned straight into a gas and spread through the air"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Camphor turns directly from a solid into a gas, which is called sublimation. That is why you can smell it. There was no puddle, so it did not melt, and it did not become water."
      },
      "context": "On day 7 you measure the tablets, look inside the jar and say what happened."
@@ -2080,11 +2080,11 @@
       "t": "mcq",
       "q": "A salt jar with a tight lid stays dry while an open saucer of salt in the same box goes damp. What does this show?",
       "options": [
-       "The lid stopped water vapour reaching the salt",
        "The jar kept the salt cold",
+       "The lid stopped water vapour reaching the salt",
        "Jars stop salt dissolving"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The salt is the same, and both were in the same humid air. Only the lid changed. The lid kept the vapour away from the salt, so it stayed dry. The jar did not make the salt colder, and dissolving has nothing to do with it."
      },
      "context": "In this step you open the box and compare all your designs with the control."
@@ -2103,12 +2103,12 @@
      "t": "mcq",
      "p": "Which of these liquids evaporates fastest at normal room warmth?",
      "opts": [
-      "Hand sanitiser",
       "Plain water",
+      "Hand sanitiser",
       "Sugar syrup",
       "Coconut oil"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The alcohol in sanitiser has particles that hold each other weakly, so many escape each second. Water is slower, syrup slower still, and coconut oil hardly evaporates at all.",
      "how": "e1"
     },
@@ -2210,11 +2210,11 @@
      "t": "mcq",
      "p": "Air has a relative humidity of 100 per cent. What does that mean?",
      "opts": [
-      "The air is carrying all the water vapour it can at its temperature",
       "The air is made of water",
-      "The air is at 100 degrees"
+      "The air is at 100 degrees",
+      "The air is carrying all the water vapour it can at its temperature"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Relative humidity compares the vapour in the air with the most it could carry at that temperature. At 100 per cent, the air is full."
     },
     {
@@ -2353,11 +2353,11 @@
      "t": "mcq",
      "p": "Water boils at about 92 degrees at Ooty, which is high in the hills. Why is it lower than 100 degrees?",
      "opts": [
-      "The air presses less on the water, so its vapour can form bubbles at a lower temperature",
       "The air is colder, so the water is colder",
-      "The water has less salt"
+      "The water has less salt",
+      "The air presses less on the water, so its vapour can form bubbles at a lower temperature"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Boiling happens when the vapour can push back the air. High up, the air presses less, so water boils at a lower temperature. Rice takes longer to cook at Ooty for this reason."
     },
     {
@@ -2506,11 +2506,11 @@
      "t": "mcq",
      "p": "Steam at 100 degrees burns skin worse than boiling water at 100 degrees. Why?",
      "opts": [
-      "Steam gives out a large amount of heat as it condenses on the skin, as well as the heat it gives out as it cools",
       "Steam is hotter than 100 degrees",
-      "Water cannot burn"
+      "Water cannot burn",
+      "Steam gives out a large amount of heat as it condenses on the skin, as well as the heat it gives out as it cools"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Steam carries a lot of latent heat, and gives it all up as it turns back into water on the skin. Boiling water gives up only the heat of cooling."
     },
     {
@@ -2696,11 +2696,11 @@
    "t": "mcq",
    "p": "Hand sanitiser, water and coconut oil sit in the same air. Which will be gone first?",
    "opts": [
-    "Hand sanitiser, because its particles hold each other weakly",
     "Coconut oil, because it is thinnest",
-    "Water, because it is clear"
+    "Water, because it is clear",
+    "Hand sanitiser, because its particles hold each other weakly"
    ],
-   "a": 0,
+   "a": 2,
    "why": "How fast a liquid leaves depends on how tightly its particles hold each other. Alcohol particles hold weakly, so they escape easily. Oil particles hold very tightly.",
    "outcome": 0,
    "how": "e1"
@@ -2709,11 +2709,11 @@
    "t": "mcq",
    "p": "Why does wet skin feel cold when the water on it evaporates?",
    "opts": [
-    "The escaping water carries heat away from the skin",
     "The water was cold to begin with",
-    "Evaporation makes new cold"
+    "Evaporation makes new cold",
+    "The escaping water carries heat away from the skin"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The fastest, most energetic particles leave first and take their heat with them. The skin loses heat and feels cold.",
    "outcome": 1
   },
@@ -2733,11 +2733,11 @@
    "t": "mcq",
    "p": "Why is the back of a running fridge warm?",
    "opts": [
-    "It gives out heat taken from the inside",
     "The food inside is hot",
-    "The door is open"
+    "The door is open",
+    "It gives out heat taken from the inside"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A fridge moves heat from inside to the pipes at the back, where the refrigerant condenses and gives the heat out to the room.",
    "outcome": 2
   },
@@ -2758,11 +2758,11 @@
    "t": "mcq",
    "p": "Why does a pressure cooker cook dal faster?",
    "opts": [
-    "The higher pressure raises the boiling point, so the water is hotter",
     "It uses more flame",
-    "It removes the water"
+    "It removes the water",
+    "The higher pressure raises the boiling point, so the water is hotter"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The sealed cooker lets the pressure rise. At higher pressure, water boils at a higher temperature, so the food is cooked by hotter water.",
    "outcome": 3
   },
@@ -2770,11 +2770,11 @@
    "t": "mcq",
    "p": "The dew point of the air is 26 degrees. A steel glass of water is at 20 degrees. What happens?",
    "opts": [
-    "Mist forms on the outside of the glass",
     "The glass stays dry",
-    "The glass gets hot"
+    "The glass gets hot",
+    "Mist forms on the outside of the glass"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The glass is colder than the dew point, so water vapour in the air condenses on it.",
    "outcome": 4,
    "how": "a3"
@@ -2783,11 +2783,11 @@
    "t": "mcq",
    "p": "Which can carry more water vapour in each cubic metre?",
    "opts": [
-    "Air at 30 degrees",
     "Air at 10 degrees",
+    "Air at 30 degrees",
     "Both the same"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The most that air can carry rises quickly with temperature. At 30 degrees it is about 30 grams in each cubic metre, and at 10 degrees about 9.",
    "outcome": 4
   },
@@ -2808,11 +2808,11 @@
    "t": "mcq",
    "p": "A camphor tablet gets smaller in the open and leaves no puddle. What has happened?",
    "opts": [
-    "It has turned straight from solid into gas",
     "It has melted into the shelf",
-    "It has turned into water"
+    "It has turned into water",
+    "It has turned straight from solid into gas"
    ],
-   "a": 0,
+   "a": 2,
    "why": "This is sublimation. The camphor's particles escape directly into the air, which is why you can smell it.",
    "outcome": 6
   },
@@ -2832,11 +2832,11 @@
    "t": "mcq",
    "p": "Why are the bottoms of fair-weather clouds flat and at about the same height?",
    "opts": [
-    "Rising air reaches its dew point at about the same height everywhere",
     "The wind cuts them flat",
+    "Rising air reaches its dew point at about the same height everywhere",
     "The Sun melts the bottoms"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Rising air cools as it climbs, and its vapour condenses where it reaches the dew point. That height is almost the same across a wide area.",
    "outcome": 4,
    "how": "a4"
@@ -3152,6 +3152,98 @@
    "used_in": [
     "a5"
    ]
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Vanishing Kapoor: a solid that evaporates, Evaporation Pan: how many millimetres does the Sun take each day?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "a5",
+    "p1"
+   ],
+   "plan": "Get it before The Vanishing Kapoor: a solid that evaporates."
+  },
+  {
+   "id": "b-wooden-ice-cream-sticks--a-p",
+   "item": "Wooden ice-cream sticks (a pack)",
+   "kind": "material",
+   "why": "Used in Drop Race: which liquid leaves first, and which feels coldest?. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in.",
+   "url": "https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before Drop Race: which liquid leaves first, and which feels coldest?."
+  },
+  {
+   "id": "b-baking-soda",
+   "item": "Baking soda",
+   "kind": "material",
+   "why": "Used in Thirsty Things: which kitchen things pull water out of the air?. About ₹20 to ₹40. Check the kitchen first.",
+   "url": "https://www.amazon.in/s?k=baking+soda",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before Thirsty Things: which kitchen things pull water out of the air?."
+  },
+  {
+   "id": "b-vinegar",
+   "item": "Vinegar",
+   "kind": "material",
+   "why": "Used in Drop Race: which liquid leaves first, and which feels coldest?. About ₹40 to ₹80. Lemon juice works for many tests.",
+   "url": "https://www.amazon.in/s?k=white+vinegar",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before Drop Race: which liquid leaves first, and which feels coldest?."
+  },
+  {
+   "id": "b-a-measuring-jug-or-syringe--",
+   "item": "A measuring jug or syringe (marked in millilitres)",
+   "kind": "tool",
+   "why": "Used in Lid On or Lid Off: how much water leaves a boiling pan?. About ₹30 to ₹100. A clean medicine cup or marked bottle works.",
+   "url": "https://www.amazon.in/s?k=measuring+jug+500+ml",
+   "used_in": [
+    "e3"
+   ],
+   "plan": "Get it before Lid On or Lid Off: how much water leaves a boiling pan?."
+  },
+  {
+   "id": "b-graph-paper",
+   "item": "Graph paper",
+   "kind": "material",
+   "why": "Used in Evaporation Pan: how many millimetres does the Sun take each day?. About ₹10 to ₹30. Draw squares on plain paper.",
+   "url": "https://www.amazon.in/s?k=graph+paper+notebook",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before Evaporation Pan: how many millimetres does the Sun take each day?."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in Keep the Salt Free-Flowing: design a salt box for the monsoon. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before Keep the Salt Free-Flowing: design a salt box for the monsoon."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

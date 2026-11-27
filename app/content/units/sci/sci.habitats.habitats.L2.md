@@ -1,9 +1,9 @@
 # Habitats: why a frog lives in a pond and moss grows on a wet wall
 `sci.habitats.habitats.L2`
 
-**Summary.** Why does moss grow on an old brick wall but not on the shiny stone steps beside it? In this unit you will stand a clay diya and a smooth stone in water with mustard seeds on top, rescue animals from the wrong home in a game, and find plant homes in your flat.
+**Summary.** Why does moss grow on an old brick wall but not on the shiny stone steps beside it? In this lesson you will stand a clay diya and a smooth stone in water with mustard seeds on top, rescue animals from the wrong home in a game, and find plant homes in your flat.
 
-**Intro.** *Put a fish on the hot sand of the Thar desert, or a camel in the sea, and neither would be all right for long. Why?* The fish needs water all around, to breathe through gills. The camel needs dry land to walk on and fresh water to drink, and the sea is salty. Each living being has a place that suits their body. That place is called their habitat. In this unit we look at habitats near and far: a pond, a forest, a desert, the seashore, and even a rock. Then we test whether a stone can be a home for a seed.
+**Intro.** *Put a fish on the hot sand of the Thar desert, or a camel in the sea, and neither would be all right for long. Why?* The fish needs water all around, to breathe through gills. The camel needs dry land to walk on and fresh water to drink, and the sea is salty. Each living being has a place that suits their body. That place is called their habitat. In this lesson we look at habitats near and far: a pond, a forest, a desert, the seashore, and even a rock. Then we test whether a stone can be a home for a seed.
 
 ## Learning outcomes
 0. By the end I can say what a habitat is, and name what a habitat gives: water, food, air, shelter and the right warmth.
@@ -21,6 +21,8 @@
 - **Rock**: Rock is the hard, natural material that the land is made of, deep down. Stones and pebbles are small pieces of rock. *e.g.* Granite is a rock. Many kitchen counters and temple steps are made of granite.
 - **Soil**: Soil is the loose top layer of the ground. It is made of tiny bits of rock mixed with bits of dead plants and animals. *e.g.* The soil in a flowerpot holds water for the plant's roots.
 - **Moss**: Moss is a small, soft green plant that grows in damp places, often on walls, stones and tree bark. *e.g.* In the Kerala monsoon, green moss covers many old compound walls.
+- **Microhabitat**: A microhabitat is a very small habitat inside a bigger one. Each microhabitat has its own light, damp and food, so it suits different small creatures. *e.g.* The underside of a leaf in your garden is a microhabitat for tiny insects. The damp soil under a flowerpot is another one, for woodlice and worms.
+- **Condensation**: Condensation is water in the air turning back into drops of liquid water on a cool surface. The air holds invisible water vapour, and cooling squeezes some of it out as drops. *e.g.* A steel glass of cold water in the Kerala heat gets drops all over the outside. The drops come from the warm air touching the cold steel.
 
 ## Explanations
 ### What a habitat is · *defined*
@@ -44,6 +46,8 @@ A lotus grows in a pond. The roots hold on to the mud at the bottom, and the wid
 - e.g. A money plant can grow in a bottle of water on a windowsill.
 - e.g. Aloe vera grows well in a sunny pot that dries out between waterings.
 - e.g. Ferns and moss grow on the shady, wet walls of old wells.
+- **Nathaniel Bagshaw Ward (1791–1868), England:** Ward was a London doctor who could not grow ferns in his garden because of the city's smoke. Around 1829 he noticed a fern and some grass sprouting in a sealed glass bottle where he had put a moth chrysalis in damp soil, and the plants lived inside for years without new water. He designed sealed glass cases, called Wardian cases, and showed that plants could survive long sea journeys inside them. The cases carried tea from China to India and rubber from South America to Asia, though this often made money for empires rather than for the people whose plants they were.
+- **Alexander von Humboldt (1769–1859), Germany, and Aimé Bonpland (1773–1858), France:** In 1802, travelling in South America, Humboldt and the plant scientist Bonpland climbed high up the volcano Chimborazo with local guides. They noted that plants change in bands as you go up: hot forest at the bottom, then cooler forest, then grassland, then only mosses and lichens near the snow. Humboldt became famous across Europe, while Bonpland, who did much of the plant collecting and describing, and the local guides who knew the mountain were hardly named. Today scientists are watching many mountain plants move higher up as the climate warms.
 ### Animals in different habitats · *defined*
 **Definition:** Animals live in habitats that give them their food, water and shelter, and their bodies suit those places.
 
@@ -354,7 +358,7 @@ Lakshmi smiled. "That," she said, "is a very good question. Shall we find out?"
 3. (draw) Draw the clay diya and the smooth stone from the diya and stone test, standing in the plate of water. Draw the seeds on each top as they looked on day 3.  
    **Answer:** The diya has sprouted seeds with little roots or green leaves. The stone has dry seeds that did not grow.. *Why:* A strong drawing shows the difference the child saw, and the water in the plate under both.
 4. (mcq) In the diya and stone test, the clay diya and the smooth stone stood in a plate of water. After 15 minutes, which top was wet?  
-   Options: The top of the clay diya / The top of the smooth stone / Both tops were dry  
+   Options: The top of the smooth stone / The top of the clay diya / Both tops were dry  
    **Answer:** The top of the clay diya. *Why:* Water climbed up through the tiny holes in the clay, so the diya's top turned dark and damp. The smooth stone let no water climb up. If your stone's top was wet, check that no water was splashed on it.
 5. (truefalse) Nothing can live on a rock.  
    **Answer:** False. *Why:* False. Moss, ferns and crusty lichens grow on damp rocks. Lizards, ants and spiders live in rock cracks.
@@ -400,28 +404,28 @@ Lakshmi smiled. "That," she said, "is a very good question. Shall we find out?"
 
 ## Quiz
 1. (mcq) What is a habitat?  
-   Options: The place where a living being lives and finds what they need / A kind of food / A kind of rock  
+   Options: A kind of food / The place where a living being lives and finds what they need / A kind of rock  
    **Answer:** The place where a living being lives and finds what they need. *Why:* A habitat gives a living being water, food, air, shelter and the right warmth.
 2. (mcq) Which of these does a habitat give a living being?  
    Options: Water and shelter / Toys / Money  
    **Answer:** Water and shelter. *Why:* Every habitat gives the living beings there what they need, such as water, food, air and shelter.
 3. (mcq) Who lives in the Thar desert?  
-   Options: A camel / A lotus / A ghost crab  
+   Options: A lotus / A ghost crab / A camel  
    **Answer:** A camel. *Why:* Camels live in the dry desert. A lotus needs a pond, and a ghost crab needs the seashore.
 4. (mcq) Where does a lotus grow?  
-   Options: In a pond / On a dry rock / In the desert sand  
+   Options: On a dry rock / In a pond / In the desert sand  
    **Answer:** In a pond. *Why:* A lotus has roots in the mud at the bottom of a pond, and leaves that float on the water.
 5. (mcq) Why can a fish not live on land?  
-   Options: A fish breathes with gills, which work only in water / A fish is too big / A fish does not like the sun  
+   Options: A fish is too big / A fish breathes with gills, which work only in water / A fish does not like the sun  
    **Answer:** A fish breathes with gills, which work only in water. *Why:* Gills take oxygen from water. Out of water, a fish cannot breathe.
 6. (mcq) A lizard slips into a crack between two rocks when a bird flies over. What does the rock give the lizard?  
-   Options: Shelter / Salty water / Fruit  
+   Options: Salty water / Fruit / Shelter  
    **Answer:** Shelter. *Why:* A crack in a rock is a shelter. Rocks give shelter, some hold water, and over a very long time they crumble into soil.
 7. (mcq) What is soil made from?  
-   Options: Tiny bits of rock and bits of dead plants / Only sand / Only water  
+   Options: Only sand / Only water / Tiny bits of rock and bits of dead plants  
    **Answer:** Tiny bits of rock and bits of dead plants. *Why:* Over a long time, rocks crumble into tiny grains. These mix with bits of dead plants and animals to make soil.
 8. (mcq) Before the diya and stone test, you say: "The seeds will sprout on both the diya and the stone." What are you doing?  
-   Options: Making a guess to test / Counting the seeds / Cleaning the plate  
+   Options: Counting the seeds / Cleaning the plate / Making a guess to test  
    **Answer:** Making a guess to test. *Why:* A guess you make before a test is called a prediction. The test then shows whether the guess was right.
 9. (mcq) In the diya and stone test, both stood in the same water. Why is that important?  
    Options: So that only what the seeds sat on was different / So that the plate looked nice / So that the seeds could swim  
@@ -437,11 +441,11 @@ Lakshmi smiled. "That," she said, "is a very good question. Shall we find out?"
 - Farmers know that good soil takes a very long time to form, so they try not to let rain wash it away.
 
 ## Spotted around us
-- Green moss and small ferns on old laterite walls in Kerala and Goa during the monsoon.
-- Rock agama lizards sunning themselves on the great boulders of Hampi in Karnataka.
-- Mangrove trees standing in salty mud at Pichavaram in Tamil Nadu and in the Sundarbans of West Bengal.
-- Camels and thorny khejri trees in the Thar desert of Rajasthan.
-- Lotus and water hyacinth on village ponds in Assam and Odisha.
+- Green moss and small ferns on old stone walls during the monsoon.
+- Rock agama lizards sunning themselves on big boulders.
+- Mangrove trees standing in salty mud.
+- Camels and thorny trees in the desert, in a picture or a zoo.
+- Lotus and water hyacinth on village ponds.
 
 ## Open questions
 - **How many kinds of living beings live in the cracks of one old wall?** Many of the tiniest beings in moss and cracks have never been counted or named, so nobody knows.
@@ -475,12 +479,18 @@ Every Home Is Somebody's (sci.habitats.L2): Topic-level song for Habitats L2
 
 ## Links
 - [iNaturalist](https://www.inaturalist.org/) · interactive: For the parent: photograph a plant or an animal near home and find out their name.
-- [Desert National Park]() · place · Jaisalmer: Sand dunes, rocky land and grassland, home to great Indian bustards, chinkara and desert foxes.
-- [Pichavaram Mangrove Forest]() · place · near Chidambaram, Tamil Nadu: Row a boat between mangrove trees growing in salty water.
-- [Hampi boulders]() · place · Hampi, Karnataka: Huge granite boulders, with lizards in the sun and plants in the cracks.
-- [Silent Valley National Park]() · place · Palakkad, Kerala: An old, wet forest of the Western Ghats, home to lion-tailed macaques.
+- Desert National Park · place · Jaisalmer: Sand dunes, rocky land and grassland, home to great Indian bustards, chinkara and desert foxes.
+- Pichavaram Mangrove Forest · place · near Chidambaram, Tamil Nadu: Row a boat between mangrove trees growing in salty water.
+- Hampi boulders · place · Hampi, Karnataka: Huge granite boulders, with lizards in the sun and plants in the cracks.
+- Silent Valley National Park · place · Palakkad, Kerala: An old, wet forest of the Western Ghats, home to lion-tailed macaques.
 
 ## Things to buy
+- [Island: A Story of the Galápagos by Jason Chin](https://www.amazon.in/s?k=Island) (book): An island rises from the sea, and plants and animals arrive and change to fit it. It gives the child a first look at how living things and their homes fit together. Used in a1. Read it together after the habitat walk.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in The Diya and the Stone: can a seed live on a rock?, A Shoebox Home for a Frog. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in e1, c1. Get it before The Diya and the Stone: can a seed live on a rock?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in A Shoebox Home for a Frog. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before A Shoebox Home for a Frog.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Diya and the Stone: can a seed live on a rock?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1. Get it before The Diya and the Stone: can a seed live on a rock?.
+- [Marbles (a few)](https://www.amazon.in/s?k=glass+marbles+pack) (material): Used in The Diya and the Stone: can a seed live on a rock?. About ₹10 to ₹40. Small round stones or dried chana. Used in e1. Get it before The Diya and the Stone: can a seed live on a rock?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name something a living being needs from their home. → Water, food, air, shelter or the right warmth.

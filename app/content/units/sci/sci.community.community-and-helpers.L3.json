@@ -105,6 +105,30 @@
    "meaning": "A sudden danger to someone's life, health or home, which needs help at once.",
    "example": "A fire in a kitchen, a person who has fallen and will not wake, or a serious accident on the road is an emergency. In India, the number to call is 112.",
    "art": "A phone screen showing the number 112."
+  },
+  {
+   "term": "Public place",
+   "meaning": "A public place is a place that everyone in a community can use, such as a park or a library.",
+   "example": "The park near your home is a public place, so everyone helps to keep it clean.",
+   "art": "A park with benches and children playing."
+  },
+  {
+   "term": "Court",
+   "meaning": "A court is a place where a judge listens to both sides of a quarrel and decides by the law.",
+   "example": "Two neighbours who cannot agree about a wall go to a court.",
+   "art": "A judge at a desk with two people before her."
+  },
+  {
+   "term": "Mela",
+   "meaning": "A mela is a big fair where many people gather, often for a festival.",
+   "example": "At a mela, an ambulance and a police jeep stand ready.",
+   "art": "A fairground with stalls and a Ferris wheel."
+  },
+  {
+   "term": "Sanitation worker",
+   "meaning": "A sanitation worker cleans streets and drains and carries away garbage, so the neighbourhood stays healthy.",
+   "example": "The sanitation worker sweeps our lane every morning.",
+   "art": "A worker with a broom and a garbage cart."
   }
  ],
  "explanations": [
@@ -113,7 +137,7 @@
    "status": "defined",
    "context": "This card is about what turns people who live near each other into a community.",
    "definition": "A community is a group of people who live near each other, share places and things, and depend on each other.",
-   "description": "A family is a small group of people who care for each other. A community is bigger. It is the families of a building, a street or a village, and the people who work there. They share roads, water, a market and a school. They also share problems, such as a blocked drain or a dry tank. Nobody in a community can meet all their needs alone.",
+   "description": "A family is a small group of people who care for each other. A community is bigger. It is the families of a building, a street or a village, and the people who work there. They share roads, water, a market and a school. They also share problems, such as a blocked drain or a dry tank. Nobody in a community can meet all their needs alone. Neighbours help each other every day. They lend a cup of sugar, keep an eye on a child for a while, or take a sick neighbour to the doctor. A neighbour often helps before anyone else can reach you.",
    "examples": [
     "An apartment block in Chennai, with its families, its watchman and its residents' association.",
     "A fishing village near Kochi, where families share the boats, the beach and the market.",
@@ -131,10 +155,24 @@
    "examples": [
     "A tailor stitches clothes for the farmer, and the farmer grows rice for the tailor.",
     "A doctor cannot work if nobody cleans the hospital.",
-    "A postwoman carries letters for the whole street, so each family does not have to travel."
+    "A postwoman carries letters for the whole street, so each family does not have to travel.",
+    "A school runs because of many people. Teachers teach, the caretaker keeps the building clean and safe, and the bus driver brings children to class. If one is missing, the whole school feels it."
    ],
    "perspectives": [],
    "art": "A plate of idlis in the middle, with lines out to a farmer, a truck driver, a shopkeeper, a gas delivery man and a tap."
+  },
+  {
+   "concept": "How and why jobs change",
+   "status": "defined",
+   "definition": "Jobs change over time as people find new tools, new needs and new places to live.",
+   "description": "Long ago, many people worked as lamplighters, tonga drivers or letter-sorters. Today fewer do. New machines can do some tasks faster, and people move to cities. Some jobs vanish, and new ones appear. Today a delivery rider, an e-rickshaw driver and a software engineer have jobs that did not exist 100 years ago. When mills began to make cloth, many handloom weavers lost their customers. Some found new work, and some still weave today. People who lose a job need help to learn something new.",
+   "examples": [
+    "Lamplighters once lit street lamps by hand. Now electric lamps light up by themselves.",
+    "Many tonga drivers in Lucknow now drive autos."
+   ],
+   "perspectives": [],
+   "art": "A time-line: a lamplighter, a tonga, a handloom weaver, an auto driver, a delivery rider with a phone.",
+   "context": "This card tells why some jobs go and new ones come."
   },
   {
    "concept": "Every job needs skill, and every worker deserves respect",
@@ -151,6 +189,19 @@
    "art": "A row of workers' hands: a hand stringing jasmine, a hand holding an iron, a hand writing, a hand holding a broom."
   },
   {
+   "concept": "How people use science at work",
+   "status": "defined",
+   "definition": "Science is a way of asking questions and testing the answers, and many workers use it every day.",
+   "description": "A doctor uses a thermometer and medicines that were tested. A farmer checks the soil, picks seeds and knows when the rain is due. An engineer works out how strong a bridge must be. A scientist asks a question and does a test to find the answer. A cook knows how heat changes a raw dal into a soft one. Everyone uses a little science, and some people use a lot of it all day, as their work.",
+   "examples": [
+    "A farmer in Punjab tests the soil before sowing wheat.",
+    "An engineer checks that a bridge over the Godavari can hold heavy trucks."
+   ],
+   "perspectives": [],
+   "art": "A doctor with a thermometer, a farmer with soil in her hand, an engineer with a plan and a scientist with a flask.",
+   "context": "This card names people who use science in their work."
+  },
+  {
    "concept": "Public services",
    "status": "defined",
    "context": "This card is about the services set up for everyone, and who pays for them.",
@@ -165,6 +216,32 @@
    "art": "Small pictures of a school, a health centre, a post office, a fire engine, a garbage van and a water pipe, arranged in a circle around a coin marked 'tax'."
   },
   {
+   "concept": "Public places: use them with care",
+   "status": "defined",
+   "definition": "A public place is a place that everyone in a community can use, so everyone must look after it.",
+   "description": "Parks, playgrounds, libraries, health centres, markets, bus stops and public toilets are public places. We need them because not every family has a garden, a big room or a clinic of its own. Each place has a use. A park is for play and rest, a library for reading, and a health centre for getting well. To behave well, wait in a line, speak softly in a library, and give your seat to an older person. To keep a place clean, put litter in a bin, keep water taps closed, and tell the municipality if a toilet is broken. For a festival, neighbours can decorate a park together with flowers and rangoli, then clean it afterwards. A big task is easier when it is split into jobs, such as sweeping, planting and watering.",
+   "examples": [
+    "Children in Pune take turns on the swings and put their wrappers in the bin.",
+    "Families on one street in Kochi make a flower carpet for Onam in the park, and clean up after."
+   ],
+   "perspectives": [],
+   "art": "A park with a bin, a bench, children in a queue for a slide, and families making a flower carpet.",
+   "context": "This card tells about the places everyone shares, and how to keep them clean and safe."
+  },
+  {
+   "concept": "The work of the police and courts",
+   "status": "defined",
+   "definition": "The police keep people safe and make sure the law is kept. A court listens to both sides in a quarrel and decides by the law.",
+   "description": "The police protect people and their things. They find a lost child, stop a fight and take down a complaint. They also guide traffic. A court is a place where a judge listens to both sides of a quarrel. The judge decides what the law says. The police and the courts are different. The police bring a matter to the court, and the court decides. In India, the law says every person is equal before it.",
+   "examples": [
+    "A police officer helps a lost child find her mother at a bus stand.",
+    "A judge in a district court listens to two neighbours who quarrel over a boundary wall."
+   ],
+   "perspectives": [],
+   "art": "A police officer helping a child, and a judge at a desk listening to two people.",
+   "context": "This card explains what the police and the courts do for a community."
+  },
+  {
    "concept": "Who to call in an emergency",
    "status": "defined",
    "context": "This card is about the numbers that bring help fast.",
@@ -177,6 +254,19 @@
    ],
    "perspectives": [],
    "art": "A card stuck by a door with 112, 108, 101 and 1098 written on it, and a space for the home address."
+  },
+  {
+   "concept": "Services at a mela and in hard times",
+   "status": "defined",
+   "definition": "A big gathering such as a mela needs public services on the spot. In a hard time like COVID-19, health and sanitation workers keep a neighbourhood safe.",
+   "description": "A mela is a big fair where many people gather. It has an ambulance for the hurt or sick, a police jeep to keep order, a fire engine in case of fire, and a lost-and-found booth, where a lost child or a lost bag is looked after. Each service has its own vehicle and its own job. In the COVID-19 time, doctors, nurses, garbage collectors and shopkeepers kept neighbourhoods going. Health workers treated the sick. Sanitation workers, who clean streets and carry away garbage, kept the streets clean when many people stayed home.",
+   "examples": [
+    "At a Kumbh Mela, thousands of police, doctors and sanitation workers are on duty.",
+    "A police patrol jeep goes round a neighbourhood at night to keep it safe."
+   ],
+   "perspectives": [],
+   "art": "A mela with a Ferris wheel, an ambulance, a police jeep, a fire engine and a booth with a 'Lost and Found' board.",
+   "context": "This card shows which services work at a crowd and in hard times."
   },
   {
    "concept": "Shared resources",
@@ -1320,6 +1410,60 @@
      "caption": "2. Write how far each one is."
     }
    ]
+  },
+  {
+   "id": "a7",
+   "title": "Our Family Work Chart: split a big task into jobs",
+   "mins": 20,
+   "days": 1,
+   "context": "You will plan a task for your family or your building, such as cleaning a corner and planting a pot. You split it into named jobs.",
+   "materials": [
+    {
+     "item": "a big sheet of paper and a pencil",
+     "qty": 1
+    },
+    {
+     "item": "a plant pot, soil and water, if you have them",
+     "qty": 1
+    }
+   ],
+   "safety": "A grown-up helps with anything sharp or heavy.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 20,
+     "what": "List the jobs: cleaning, planting, watering and cooking a small snack. Write a name next to each job. Do the jobs together."
+    }
+   ],
+   "record": "Tick each job as it is done. Write what went well.",
+   "setup": [
+    {
+     "art": "A chart with four rows: cleaning, planting, watering and cooking, each with a name.",
+     "caption": "1. Write the jobs and give each a name."
+    },
+    {
+     "art": "A family doing the jobs: sweeping, planting, watering and cooking in the kitchen.",
+     "caption": "2. Do the jobs together and tick them off."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 10,
+     "context": "This is the first step. You split one task into jobs.",
+     "do": "1. Choose one task, such as making a corner of your home look nice. 2. Write four jobs on a chart: cleaning, planting, watering and cooking. 3. Give each person a job.",
+     "say": "Let's split our task into jobs. Who will do which one?",
+     "kid": "Choose a job and write your name next to it."
+    },
+    {
+     "id": "s2",
+     "mins": 10,
+     "do": "Do the jobs. Tick each one when it is done, and say thank you to each person.",
+     "say": "How did it feel when each person did one job?",
+     "kid": "Do your job. Tick it when it is done.",
+     "parent": "Splitting a task into jobs lets a group finish faster. It also shows how a community works."
+    }
+   ]
   }
  ],
  "projects": [
@@ -1590,10 +1734,10 @@
    "p": "A family eats idli for breakfast. Whose work was needed to make it?",
    "opts": [
     "Only the person who cooked it",
-    "The farmer, the shopkeeper, the gas delivery man and the cook",
-    "Only the shopkeeper, who sold the rice"
+    "Only the shopkeeper, who sold the rice",
+    "The farmer, the shopkeeper, the gas delivery man and the cook"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Many people's work is in one plate: the farmer grew the rice and dal, the shopkeeper sold them, the gas delivery man brought the cylinder and the cook made the idli. Choosing only one person means seeing only the last step.",
    "outcome": 0
   },
@@ -1625,11 +1769,11 @@
    "t": "mcq",
    "p": "You see smoke coming from the flat below. Which number should you call?",
    "opts": [
-    "1098",
     "112",
+    "1098",
     "A friend's number"
    ],
-   "a": 1,
+   "a": 0,
    "why": "112 is India's single emergency number. It brings the fire service, the police or an ambulance. 1098 is the helpline for children who need help.",
    "outcome": 2
   },
@@ -1637,11 +1781,11 @@
    "t": "mcq",
    "p": "Which of these is a shared resource?",
    "opts": [
-    "A child's own water bottle",
     "The water tank on the roof of a building",
+    "A child's own water bottle",
     "A song on the radio"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Many flats use the tank, and the water one flat uses is not there for the others. A child's own bottle is hers or his alone. A song on the radio is shared, but when you listen to it there is no less of the song for anyone else.",
    "outcome": 3
   },
@@ -1650,10 +1794,10 @@
    "p": "A pond has 20 fish. After each round, the fish left in the pond double, up to 20. Four players each take 5 fish in the first round. What happens?",
    "opts": [
     "The pond fills up again",
-    "No fish are left, so the pond is empty for good",
-    "Each player gets 10 fish"
+    "Each player gets 10 fish",
+    "No fish are left, so the pond is empty for good"
    ],
-   "a": 1,
+   "a": 2,
    "why": "5 fish each for 4 players is 20 fish, the whole pond. No fish are left to double, so no new fish come. Taking everything at once ends the game for everyone.",
    "outcome": 4,
    "how": "e1"
@@ -1662,11 +1806,11 @@
    "t": "mcq",
    "p": "Two groups play the same fish-sharing game with the same pond. One group chooses in silence. The other talks first and agrees a rule. Which pond is more likely to last, and why?",
    "opts": [
-    "The silent group's, because nobody argues",
     "The talking group's, because they agreed how much to leave",
+    "The silent group's, because nobody argues",
     "Both the same, because the fish are the same"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The fish, the players and the rounds are the same. Only the talking changes. Agreeing a rule lets everyone leave enough fish to breed.",
    "outcome": 4,
    "how": "e1"
@@ -1675,11 +1819,11 @@
    "t": "mcq",
    "p": "A village has shared one forest for 300 years without using it up. What is the most likely reason?",
    "opts": [
-    "Nobody ever took anything from the forest",
     "The villagers made their own rules about how much each could take, and checked that the rules were kept",
+    "Nobody ever took anything from the forest",
     "The forest grew faster every year by luck"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Shared things can last a very long time when the people who use them agree rules and check them. Scientists have found many villages like this around the world.",
    "outcome": 5
   },
@@ -1712,12 +1856,129 @@
    "p": "In India today, can a child grow up to do any job she chooses, even if her family has always done a different job?",
    "opts": [
     "No, each person must do their family's work",
-    "Yes, every citizen has the right to choose their work, and treating anyone as untouchable is against the law",
-    "Only if all jobs pay the same"
+    "Only if all jobs pay the same",
+    "Yes, every citizen has the right to choose their work, and treating anyone as untouchable is against the law"
    ],
-   "a": 1,
+   "a": 2,
    "why": "India's Constitution gives every citizen the right to choose their work, and it ended untouchability. It did not make every job pay the same.",
    "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these is a way neighbours help one another?",
+   "opts": [
+    "Playing loud music at night",
+    "Blocking the lane",
+    "Hiding a lost parcel",
+    "Taking a sick neighbour to the doctor"
+   ],
+   "a": 3,
+   "why": "Neighbours help by looking after a child or a sick person. The others make life harder for the neighbours.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Which person uses science as part of their work?",
+   "opts": [
+    "A farmer who tests the soil",
+    "A person who never looks at the weather",
+    "A person who only guesses",
+    "None of them"
+   ],
+   "a": 0,
+   "why": "A farmer who tests the soil uses science to choose seeds and care for the crop.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Why are parks, libraries and health centres needed in a neighbourhood?",
+   "opts": [
+    "Because every family can use them, even without a garden or clinic of its own",
+    "Because only the rich can use them",
+    "So that nobody needs a home",
+    "To block the road"
+   ],
+   "a": 0,
+   "why": "A public place gives everyone a place to play, read or get well.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "A child sees a banana peel on a park path. What is the best thing to do?",
+   "opts": [
+    "Kick it into the bushes",
+    "Leave it for others",
+    "Put it in a bin",
+    "Throw it at a friend"
+   ],
+   "a": 2,
+   "why": "A bin keeps a public place clean and safe.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "A neighbourhood has a mela. Which service takes care of a child who has lost her mother?",
+   "opts": [
+    "The fire engine",
+    "The lost-and-found booth with the police",
+    "The ambulance alone",
+    "Nobody"
+   ],
+   "a": 1,
+   "why": "A mela has a lost-and-found booth where a lost child is looked after until the family comes.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "What does a judge in a court do?",
+   "opts": [
+    "Catches thieves",
+    "Guides traffic",
+    "Puts out fires",
+    "Listens to both sides and decides by the law"
+   ],
+   "a": 3,
+   "why": "The police bring a matter, and the court decides. The judge listens to both sides.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "Why did many jobs, such as lamplighting, change over time?",
+   "opts": [
+    "People forgot how to work",
+    "New tools and machines changed the work",
+    "The Sun stopped shining",
+    "Nobody wanted lamps"
+   ],
+   "a": 1,
+   "why": "New machines and new needs mean old jobs shrink and new ones appear.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "A school has a teacher, a caretaker and a bus driver. What happens if the caretaker is not there?",
+   "opts": [
+    "The school becomes dirty and unsafe, so everyone feels it",
+    "Nothing changes",
+    "School closes for ever",
+    "Children teach the class"
+   ],
+   "a": 0,
+   "why": "Each role matters. A school runs only when all do their jobs.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "During COVID-19, which workers helped keep neighbourhoods clean and healthy?",
+   "opts": [
+    "Nobody",
+    "Sanitation workers, nurses and doctors",
+    "Only the police",
+    "Only the shopkeepers"
+   ],
+   "a": 1,
+   "why": "Health workers treated the sick, and sanitation workers kept the streets clean.",
+   "outcome": 2
   }
  ],
  "worksheets": [
@@ -1754,12 +2015,12 @@
     {
      "t": "mcq",
      "p": "A flat gets its water from the city's water board. What kind of service is this?",
-     "a": 1,
+     "a": 2,
      "why": "The water board is run by the city government for everyone, so it is a public service. A strong answer says who it is for.",
      "opts": [
       "A private shop",
-      "A public service",
-      "A family job"
+      "A family job",
+      "A public service"
      ]
     },
     {
@@ -1855,12 +2116,12 @@
     {
      "t": "mcq",
      "p": "You buy a notebook at a shop. Part of the price is a tax called GST. Where does that tax money go?",
-     "a": 2,
+     "a": 1,
      "why": "Taxes go to the government, which uses them for public services. That is how a child buying a notebook helps pay for schools and roads.",
      "opts": [
       "To the shopkeeper only",
-      "To the notebook factory",
-      "To the government, to pay for things like roads and schools"
+      "To the government, to pay for things like roads and schools",
+      "To the notebook factory"
      ]
     },
     {
@@ -1926,6 +2187,67 @@
      "ask": "Who do you agree with? Give a reason from your Shared Pond Test. Then say one thing the other child has right.",
      "lines": 5,
      "how": "e1"
+    },
+    {
+     "t": "match",
+     "p": "Match each place to what it is used for.",
+     "pairs": [
+      [
+       "A library",
+       "reading books"
+      ],
+      [
+       "A health centre",
+       "getting well and vaccines"
+      ],
+      [
+       "A playground",
+       "play and games"
+      ],
+      [
+       "A bus stop",
+       "waiting for a bus"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each public place has its own use. A strong answer could name one more, such as a market."
+    },
+    {
+     "t": "match",
+     "p": "Match each person who uses science to their work.",
+     "pairs": [
+      [
+       "Doctor",
+       "uses medicines that were tested"
+      ],
+      [
+       "Farmer",
+       "checks soil and rain"
+      ],
+      [
+       "Engineer",
+       "works out how strong a bridge must be"
+      ],
+      [
+       "Scientist",
+       "tests an answer to a question"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each worker uses science to do their work well."
+    },
+    {
+     "t": "truefalse",
+     "p": "It is fine to drop litter on a park path, because a sweeper will clean it.",
+     "a": false,
+     "why": "A public place is for everyone, so everyone keeps it clean. A bin is the right place."
+    },
+    {
+     "t": "write",
+     "p": "Name three roles in a school and say how each one helps the school run.",
+     "lines": 4,
+     "a": "A teacher teaches children. A caretaker keeps the school clean and safe. A bus driver brings children to school.",
+     "why": "A strong answer names three roles and says how each helps."
     }
    ]
   },
@@ -1938,11 +2260,11 @@
     {
      "t": "mcq",
      "p": "A building has 12 flats sharing one water tank. Every flat says, \"I only take my share.\" Yet the tank is empty by afternoon. What is the most likely reason?",
-     "a": 1,
+     "a": 0,
      "why": "Each flat's share seemed small, but all the shares added up to more than the tank holds. The same thing happens in the silent game of the Shared Pond Test.",
      "opts": [
-      "The lorry brought no water",
       "Each flat's share added up to more than the tank holds",
+      "The lorry brought no water",
       "The water leaked out of the sky"
      ]
     },
@@ -2051,11 +2373,11 @@
     {
      "t": "mcq",
      "p": "Long ago, farmers in a Tamil Nadu village shared one rain tank. A water keeper opened the gate so each field got water in turn. Why was this better than each farmer opening the gate whenever they liked?",
-     "a": 0,
+     "a": 1,
      "why": "Taking turns, with one person in charge, shares the water fairly and makes it last. If everyone opened the gate at once, the nearest fields would take most of it.",
      "opts": [
-      "The far fields still got water, and the tank did not empty in one day",
       "The water keeper wanted to stay busy",
+      "The far fields still got water, and the tank did not empty in one day",
       "Water flows faster when one person opens the gate"
      ]
     },
@@ -2140,6 +2462,60 @@
       "pin"
      ],
      "why": "PIN stands for Postal Index Number."
+    },
+    {
+     "t": "sort",
+     "p": "Sort these services at a mela by what they do.",
+     "cats": [
+      "Health",
+      "Safety",
+      "Finding people"
+     ],
+     "items": [
+      [
+       "an ambulance",
+       "Health"
+      ],
+      [
+       "a fire engine",
+       "Safety"
+      ],
+      [
+       "a police jeep",
+       "Safety"
+      ],
+      [
+       "a lost-and-found booth",
+       "Finding people"
+      ]
+     ],
+     "a": "see items",
+     "why": "Each service has its own vehicle and job. Together they keep a crowd safe."
+    },
+    {
+     "t": "mcq",
+     "p": "Who decides a quarrel between two neighbours by the law?",
+     "opts": [
+      "A court",
+      "A fire engine",
+      "A bus driver",
+      "A shopkeeper"
+     ],
+     "a": 0,
+     "why": "A court, led by a judge, listens to both sides and decides by the law."
+    },
+    {
+     "t": "write",
+     "p": "Name one job that is less common than long ago, and one new job. Say why the change came.",
+     "lines": 5,
+     "a": "Lamplighters are rare now because electric lamps came. Delivery riders are new, because phones and apps came.",
+     "why": "A strong answer names an old job, a new job, and a real reason such as new tools."
+    },
+    {
+     "t": "fill",
+     "p": "A person who cleans streets and carries away garbage is a ____ worker.",
+     "a": "sanitation",
+     "why": "Sanitation workers keep the neighbourhood healthy. In COVID-19 times, they kept working."
     }
    ]
   },
@@ -2325,14 +2701,32 @@
     {
      "t": "mcq",
      "p": "A building tries a new water rule for a month. Which is the best sign that the rule is working?",
-     "a": 1,
+     "a": 0,
      "why": "A rule works when people can see it working. A tank still half full at two o'clock, with a notebook everyone can read, is evidence. A rule nobody talks about or a very long rule proves nothing.",
      "opts": [
-      "Nobody ever talks about the rule",
       "The tank is still half full at two o'clock, and everyone can read the notebook",
+      "Nobody ever talks about the rule",
       "The rule is very long"
      ],
      "how": "a5"
+    },
+    {
+     "t": "truefalse",
+     "p": "The police decide the law in a court.",
+     "a": false,
+     "why": "The police bring a matter, but a judge in a court decides."
+    },
+    {
+     "t": "odd",
+     "p": "Three of these are public places. Which one is the odd one out?",
+     "items": [
+      "A park",
+      "A library",
+      "A bedroom",
+      "A bus stop"
+     ],
+     "a": "A bedroom",
+     "why": "A bedroom is a private room. The others can be used by everyone."
     }
    ]
   }
@@ -2508,7 +2902,44 @@
    "why": "A large old post office building in George Town. Visit on a working day to see how the counters work."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-postcard",
+   "item": "Postcard or stamped envelope",
+   "kind": "material",
+   "why": "The child posts a letter to a relative in another town and counts the days and the people who carry it. About ₹5 to ₹15 for a postcard at a post office, plus the postage. A plain envelope with a stamp from the post office does the same job.",
+   "url": "",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Buy it on the day you post the card."
+  },
+  {
+   "id": "b-chart-community",
+   "item": "Chart paper, one large sheet",
+   "kind": "material",
+   "why": "The public services map is drawn on it so the whole neighbourhood fits on one page. About ₹10 to ₹25 a sheet at a stationery shop. Two sheets of old newspaper taped together work too.",
+   "url": "https://www.amazon.in/s?k=chart+paper",
+   "used_in": [
+    "a6"
+   ],
+   "plan": "Buy it before you draw the Public Services Map."
+  },
+  {
+   "id": "b-print-community",
+   "item": "Printed pages for the problem cards, score sheet and worksheets, about 10 pages",
+   "kind": "material",
+   "why": "The card game uses 16 printed problem cards with the helper on the back, and the worksheets are printed too. A copy shop charges about ₹1 to ₹2 a page, so the set costs about ₹10 to ₹20.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print these before the card game."
+  }
+ ],
  "warmup": [
   {
    "q": "What number do you call in India for police, fire or an ambulance?",
@@ -2572,6 +3003,7 @@
    "ws-stretch",
    "c1",
    "c2",
+   "a7",
    "big_questions",
    "ws-challenge",
    "open_questions",

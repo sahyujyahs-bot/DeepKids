@@ -457,10 +457,10 @@
       "q": "Whose light set off longer ago: Andromeda or the Pinwheel?",
       "options": [
        "Andromeda",
-       "The Pinwheel",
-       "They are the same"
+       "They are the same",
+       "The Pinwheel"
       ],
-      "a": 1,
+      "a": 2,
       "why": "21 million years is longer than 2.5 million years. The Pinwheel's light has travelled longer, so the Pinwheel is further away, and we see it as it was longer ago."
      }
     },
@@ -618,11 +618,11 @@
       "q": "Which bindi moved furthest away from the home bindi, H?",
       "options": [
        "The nearest one, A",
-       "The middle one, B",
        "The furthest one, C",
+       "The middle one, B",
        "They all moved the same"
       ],
-      "a": 2,
+      "a": 1,
       "why": "C started furthest away, so there was the most rubber between H and C to stretch. If the balloon doubled in width, a 3 cm gap became about 6 cm, but a 9 cm gap became about 18 cm. Balloon rubber does not stretch perfectly evenly, so your numbers will be close to this, not exact. If they show something else, check that every bindi is on the fat middle of the balloon."
      }
     },
@@ -778,10 +778,10 @@
       "q": "What did the plate look like from the side?",
       "options": [
        "A circle with arms",
-       "An oval with arms",
-       "A thin line with a bump in the middle"
+       "A thin line with a bump in the middle",
+       "An oval with arms"
       ],
-      "a": 2,
+      "a": 1,
       "why": "From the side, a flat disc shows only its edge, and the dough bulge sticks up in the middle. The arms are hidden. If you still saw arms, the plate was not turned all the way to the side."
      }
     },
@@ -997,11 +997,11 @@
       "t": "mcq",
       "q": "On the one-year calendar, when did the light we see from Andromeda set off?",
       "options": [
+       "On 31 December, late at night",
        "On 1 January",
-       "In September",
-       "On 31 December, late at night"
+       "In September"
       ],
-      "a": 2,
+      "a": 0,
       "why": "Andromeda's light set off 2.5 million years ago. One day on the calendar is about 38 million years, so 2.5 million years is less than one day. That puts it late on 31 December, about an hour and a half before midnight."
      }
     },
@@ -1452,12 +1452,12 @@
    "t": "mcq",
    "p": "What is the Milky Way?",
    "opts": [
-    "Our galaxy, the one our Sun is in",
     "A cloud of milky gas near the Earth",
     "The path of the Moon across the sky",
-    "Another name for the Andromeda galaxy"
+    "Another name for the Andromeda galaxy",
+    "Our galaxy, the one our Sun is in"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The Milky Way is our galaxy. From a dark place we see part of it as a faint band of light, made of the light of billions of stars.",
    "outcome": 0
   },
@@ -1465,12 +1465,12 @@
    "t": "mcq",
    "p": "Which kind of galaxy is a smooth oval of stars, with no arms?",
    "opts": [
-    "Elliptical",
     "Spiral",
+    "Elliptical",
     "Barred spiral",
     "Irregular"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Elliptical galaxies are smooth ovals or balls of mostly old stars. Spirals and barred spirals have arms. Irregular galaxies have no clear shape.",
    "outcome": 0
   },
@@ -1478,11 +1478,11 @@
    "t": "mcq",
    "p": "Almost every galaxy is moving away from us. Does that mean we are at the centre of the universe?",
    "opts": [
-    "Yes, everything moves away from the centre",
     "No, from any galaxy, the others would seem to move away",
+    "Yes, everything moves away from the centre",
     "Yes, because the Milky Way is the biggest galaxy"
    ],
-   "a": 1,
+   "a": 0,
    "why": "In the Bindi Balloon experiment, the other bindis moved away from every bindi. In the same way, from every galaxy the others seem to move away, so no galaxy is the centre. The Milky Way is not the biggest galaxy either.",
    "outcome": 2
   },
@@ -1490,12 +1490,12 @@
    "t": "mcq",
    "p": "Why are galaxies far apart moving away from each other?",
    "opts": [
-    "The space between them is stretching",
     "They are running away from a giant black hole",
     "A wind in space pushes them",
-    "They are falling towards the Sun"
+    "They are falling towards the Sun",
+    "The space between them is stretching"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The galaxies are not being pushed. The space between them is growing, like the rubber between the bindis on the balloon.",
    "outcome": 1
   },
@@ -1503,12 +1503,12 @@
    "t": "mcq",
    "p": "What was the Big Bang?",
    "opts": [
-    "The time, about 13.8 billion years ago, when the universe was very hot and packed together, before it stretched out",
     "A huge bomb that exploded at one spot in space",
     "The noise a star makes when it explodes",
+    "The time, about 13.8 billion years ago, when the universe was very hot and packed together, before it stretched out",
     "The crash when two galaxies meet"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The Big Bang was not an explosion at one spot, and it made no sound. It was the hot, packed start of the universe, which has been stretching and cooling ever since.",
    "outcome": 3
   },
@@ -1516,12 +1516,12 @@
    "t": "mcq",
    "p": "Which of these is a clue that the universe had a hot beginning?",
    "opts": [
-    "A faint glow of microwaves reaches us from every direction",
     "Stars twinkle",
     "The Moon changes shape",
-    "Galaxies have different shapes"
+    "Galaxies have different shapes",
+    "A faint glow of microwaves reaches us from every direction"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The faint glow, found in 1965, is light left from when the whole universe was hot. Twinkling comes from our air, and the Moon's shape comes from where it is lit by the Sun.",
    "outcome": 3
   },
@@ -1541,11 +1541,11 @@
    "t": "mcq",
    "p": "A galaxy is twice as far away as Andromeda. Compared with Andromeda's light, when did this galaxy's light set off?",
    "opts": [
-    "About twice as long ago",
     "At the same time",
-    "More recently"
+    "More recently",
+    "About twice as long ago"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Twice as far means the light took about twice as long to arrive, so it set off about twice as long ago, around 5 million years.",
    "outcome": 4
   },
@@ -1553,12 +1553,12 @@
    "t": "mcq",
    "p": "In 1965, Arno Penzias and Robert Wilson heard a faint hiss in their radio antenna. They cleaned out pigeon droppings, but the hiss stayed. What was the hiss?",
    "opts": [
-    "A faint glow left over from the hot early universe",
     "Radio from a nearby city",
     "The sound of the Sun",
+    "A faint glow left over from the hot early universe",
     "Pigeons nesting in the antenna"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The hiss came from every direction, day and night. It was the leftover glow from when the whole universe was hot, which Ralph Alpher and Robert Herman had predicted in 1948.",
    "outcome": 5
   },
@@ -1566,11 +1566,11 @@
    "t": "mcq",
    "p": "Far galaxies are all moving apart, so the universe is growing. If you ran time backwards, what would the universe have been like long ago?",
    "opts": [
-    "Tiny, packed close together and very hot",
     "Just the same size as today",
+    "Tiny, packed close together and very hot",
     "Bigger and colder than today"
    ],
-   "a": 0,
+   "a": 1,
    "why": "If everything is moving apart now, then going back in time brings it all closer. Long ago it must have been packed tight, and packed things get hot.",
    "outcome": 5
   },
@@ -1578,12 +1578,12 @@
    "t": "mcq",
    "p": "What came before the Big Bang?",
    "opts": [
-    "Nobody knows yet",
     "An earlier universe, for certain",
     "Nothing at all, for certain",
-    "A giant star"
+    "A giant star",
+    "Nobody knows yet"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Scientists have ideas, but none has been tested. Some think time began with the Big Bang. Others think an earlier universe came first.",
    "outcome": 6
   }
@@ -1599,12 +1599,12 @@
      "t": "mcq",
      "p": "What is a galaxy?",
      "opts": [
-      "A huge group of stars, gas and dust, held together by gravity",
       "One very bright star",
       "A cloud in the Earth's air",
+      "A huge group of stars, gas and dust, held together by gravity",
       "Another name for the Solar System"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A galaxy holds billions of stars. Through a small telescope a galaxy looks like a faint cloud, which is why people once called galaxies nebulae, from the Latin word for clouds."
     },
     {
@@ -1699,10 +1699,10 @@
      "opts": [
       "About 6,000 years ago",
       "About 4.6 billion years ago",
-      "About 13.8 billion years ago",
-      "Never. It has always been the same."
+      "Never. It has always been the same.",
+      "About 13.8 billion years ago"
      ],
-     "a": 2,
+     "a": 3,
      "why": "About 13.8 billion years ago. If you picked 4.6 billion, that is when the Sun and Earth formed, much later. The idea that the universe has always been the same was the steady state theory, and the leftover glow found in 1965 showed it was wrong."
     },
     {
@@ -1818,11 +1818,11 @@
      "t": "mcq",
      "p": "In the Tilt the Spiral experiment, you turn an orange round in your hand. What shape do you see from every side?",
      "opts": [
-      "Always a circle",
       "A thin line from the side",
+      "Always a circle",
       "An oval from the top"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A ball looks round from every side. Elliptical galaxies are more like balls, so their shape changes little with direction. A disc, like the plate, changes a lot.",
      "how": "e2",
      "context": "In the Tilt the Spiral experiment, you draw a spiral galaxy on a paper plate, look at it from the top, at a slant and from the side, and do the same with an orange."
@@ -1852,11 +1852,11 @@
      "t": "mcq",
      "p": "Some stars get brighter and dimmer again and again. The brighter such a star really is, the slower it blinks. Two of these stars blink at the same speed, but one looks much fainter. What does that tell you?",
      "opts": [
-      "The fainter one is much further away",
       "The fainter one is smaller and closer",
-      "They are both inside the Solar System"
+      "They are both inside the Solar System",
+      "The fainter one is much further away"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Same blink speed means they are really just as bright. If one looks fainter, it must be further away. Timing the blinks lets you work out how far away a star is."
     },
     {
@@ -1990,12 +1990,12 @@
      "t": "mcq",
      "p": "In 1923, Edwin Hubble timed a Cepheid star in Andromeda. It blinked every 31 days but looked very faint. What did this show?",
      "opts": [
-      "Andromeda is far outside the Milky Way",
       "Andromeda is inside the Milky Way",
       "The star was broken",
+      "Andromeda is far outside the Milky Way",
       "Andromeda is very close to the Sun"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A Cepheid that blinks every 31 days is really very bright. It looked faint, so it had to be very far away. That put Andromeda outside our galaxy."
     }
    ]
@@ -2128,12 +2128,12 @@
      "t": "mcq",
      "p": "If the whole universe is stretching, like the bindi balloon, what pattern would you expect between how far away a galaxy is and how fast it moves away?",
      "opts": [
-      "The further away a galaxy is, the faster it moves away",
       "The nearer a galaxy is, the faster it moves away",
       "All galaxies move away at the same speed",
-      "Galaxies are not moving at all"
+      "Galaxies are not moving at all",
+      "The further away a galaxy is, the faster it moves away"
      ],
-     "a": 0,
+     "a": 3,
      "why": "When everything stretches, there is more stretching space between you and a far galaxy than a near one. So far galaxies move away faster. This is just what the bindis on the balloon did, and it is what astronomers measure."
     },
     {
@@ -2454,6 +2454,78 @@
     "e1",
     "c1"
    ]
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in Stretch the Elastic: does every mark move the same?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before Stretch the Elastic: does every mark move the same?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Bindi Balloon: do far bindis move away faster than near ones?, A Grain of Sand of Sky: count the galaxies in one tiny patch, Stretch the Elastic: does every mark move the same?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "a1",
+    "a3",
+    "c1"
+   ],
+   "plan": "Get it before The Bindi Balloon: do far bindis move away faster than near ones?."
+  },
+  {
+   "id": "b-modelling-clay-or-plasticine",
+   "item": "Modelling clay or plasticine",
+   "kind": "material",
+   "why": "Used in Tilt the Spiral: can one galaxy look like different shapes?. About ₹40 to ₹120. Atta dough mixed with a little salt works.",
+   "url": "https://www.amazon.in/s?k=modelling+clay+plasticine",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before Tilt the Spiral: can one galaxy look like different shapes?."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Tilt the Spiral: can one galaxy look like different shapes?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before Tilt the Spiral: can one galaxy look like different shapes?."
+  },
+  {
+   "id": "b-butter-paper-or-tracing-pape",
+   "item": "Butter paper or tracing paper",
+   "kind": "material",
+   "why": "Used in A Grain of Sand of Sky: count the galaxies in one tiny patch. About ₹30 to ₹80 for a roll. Thin clean plastic bag or a sheet of waxed paper.",
+   "url": "https://www.amazon.in/s?k=butter+paper+roll",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Get it before A Grain of Sand of Sky: count the galaxies in one tiny patch."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

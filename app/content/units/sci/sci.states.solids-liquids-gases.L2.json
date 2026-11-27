@@ -105,11 +105,12 @@
    "status": "defined",
    "context": "This card explains what happened in our test, when we poured one tumbler of water into a thin bottle and a wide bowl.",
    "definition": "A liquid flows. It has no shape of its own, so it takes the shape of whatever holds it. Its amount stays the same.",
-   "description": "In the thin bottle, the water stood tall. In the wide bowl, it spread out low and flat. It looked like more, then less. But when we poured it back into the tumbler, it came up to the same line, which we had marked with a bindi. The shape changed. The amount did not. A liquid also always settles at the bottom of its container, with a flat top.",
+   "description": "In the thin bottle, the water stood tall. In the wide bowl, it spread out low and flat. It looked like more, then less. But when we poured it back into the tumbler, it came up to the same line, which we had marked with a bindi. The shape changed. The amount did not. A liquid also always settles at the bottom of its container, with a flat top. Look closely at a glass of clean drinking water. It is clear, with no colour. Sniff it: it has almost no smell. Take a sip: it has almost no taste. That is how you tell it from milk, which is white, or from nimbu pani, which smells and tastes of lime. But it still takes the shape of the glass, like every liquid.",
    "examples": [
     "Water from the thin bottle filled the tumbler back to the bindi line.",
     "Rasam poured from a pot takes the shape of each bowl.",
-    "Coconut water takes the shape of the inside of the coconut."
+    "Coconut water takes the shape of the inside of the coconut.",
+    "A glass of clean water is clear, with almost no smell or taste. Milk is white and smells of milk."
    ],
    "perspectives": [
     {
@@ -145,6 +146,21 @@
     }
    ],
    "art": "Three polythene bags side by side: one with a stone lying at the bottom, one with water at the bottom, and one puffed full of air."
+  },
+  {
+   "concept": "We use solids, liquids and gases every day",
+   "status": "defined",
+   "context": "This card shows where you meet a solid, a liquid and a gas on an ordinary day, in your food, your water and the air.",
+   "definition": "We use each state for what it does best. We hold and cut solids, pour and drink liquids, and breathe gases.",
+   "description": "Your food is mostly solid or liquid. Roti, rice and a banana are solids. You can hold them, bite them and cut them, because they keep their shape. Dal, milk and water are liquids. You pour them and drink them, and they take the shape of the katori or the tumbler. Air is a gas. You cannot see it, but you breathe it all day, and it fills a football and a cycle tyre. We use each state in its own way. A solid keeps its shape, so a steel plate holds your rice. A liquid flows, so a tap can send water to your kitchen. A gas spreads out, so the air reaches every corner of a room.",
+   "examples": [
+    "Roti, rice and a banana: solids you hold, bite and chew.",
+    "Dal, milk and water: liquids you pour and drink.",
+    "Air: a gas you breathe, and the air in a football or a cycle tyre.",
+    "A steel plate holds rice because it keeps its shape. A tap sends water along a pipe because water flows."
+   ],
+   "perspectives": [],
+   "art": "A thali on a kitchen floor with roti and rice, a katori of dal, a tumbler of water, and a child blowing up a balloon beside a cycle with a round tyre."
   },
   {
    "concept": "Ice, water and steam are the same water",
@@ -487,11 +503,11 @@
       "t": "mcq",
       "q": "The water went into the thin bottle and came back to the bindi. What does that show?",
       "options": [
-       "The bottle made more water",
        "It was the same amount of water all along",
+       "The bottle made more water",
        "Some water disappeared"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The water only looked like more because the bottle is thin, so it had to stand tall. The amount never changed."
      },
      "context": "In this step of the pouring test, you pour the water back to see if the amount changed."
@@ -796,11 +812,11 @@
       "t": "mcq",
       "q": "Which bag stayed puffed full, even upside down?",
       "options": [
+       "The air bag",
        "The stone bag",
-       "The water bag",
-       "The air bag"
+       "The water bag"
       ],
-      "a": 2,
+      "a": 0,
       "why": "Air is a gas. A gas spreads out to fill all the space in its container, so it filled the whole bag every way up."
      }
     }
@@ -1487,10 +1503,10 @@
      "p": "When you blow up a balloon, where does the air go?",
      "opts": [
       "Only to the bottom of the balloon",
-      "It fills the whole balloon",
-      "It stays near the mouth"
+      "It stays near the mouth",
+      "It fills the whole balloon"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Air is a gas, and a gas spreads out to fill all the space it has. If you picked 'only to the bottom', you mixed up a gas with a liquid."
     },
     {
@@ -1499,6 +1515,26 @@
      "lines": 2,
      "a": "For example: a steel plate (solid), coconut oil on a warm day (liquid) and the steam from the idli pot (gas).",
      "why": "A strong answer gives one of each and can say why: it keeps its shape, it flows, or it spreads out."
+    },
+    {
+     "t": "match",
+     "p": "Match each thing you use every day to what it is.",
+     "pairs": [
+      [
+       "a banana you peel and eat",
+       "a solid, because it keeps its shape"
+      ],
+      [
+       "milk you pour into a glass",
+       "a liquid, because it flows"
+      ],
+      [
+       "the air in a cycle tyre",
+       "a gas, because it fills the whole space"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each one is a different state. A banana keeps its shape, milk flows into the glass, and air spreads out to fill the tyre."
     }
    ]
   },
@@ -1656,6 +1692,15 @@
      "p": "An ice tray has 2 rows, with 6 little boxes in each row. How many ice cubes does it make?",
      "a": 12,
      "why": "2 rows of 6 make 12. Each cube takes the shape of its little box, because the water was a liquid when it was poured in."
+    },
+    {
+     "t": "fill",
+     "p": "Clean drinking water is clear. It has no ____, and almost no smell or taste.",
+     "a": [
+      "colour",
+      "color"
+     ],
+     "why": "Water is clear, so we say it has no colour. That helps us tell it from milk, which is white, or from tea, which is brown."
     }
    ]
   }
@@ -1703,11 +1748,11 @@
    "t": "mcq",
    "p": "Which of these is a liquid?",
    "opts": [
-    "A steel plate",
     "Coconut oil on a hot day",
+    "A steel plate",
     "The air in a tyre"
    ],
-   "a": 1,
+   "a": 0,
    "why": "On a hot day coconut oil flows and takes the shape of its bottle, so it is a liquid. A steel plate is a solid. Air is a gas.",
    "outcome": 0
   },
@@ -1715,11 +1760,11 @@
    "t": "mcq",
    "p": "You pour a tumbler of water into a wide plate with a rim. The water looks very low. How much water is on the plate?",
    "opts": [
-    "Less than was in the tumbler",
     "The same as was in the tumbler",
+    "Less than was in the tumbler",
     "More than was in the tumbler"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Water takes the shape of the plate, so it spreads out low. The amount stays the same. If you picked 'less', you judged the amount by its height.",
    "outcome": 2,
    "how": "e1"
@@ -1728,11 +1773,11 @@
    "t": "mcq",
    "p": "In the pouring test, why did the water stand taller in the thin bottle?",
    "opts": [
-    "The bottle made more water",
     "The bottle is narrow, so the same water has to stand higher",
+    "The bottle made more water",
     "The water got heavier"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A narrow container has less room across, so the same amount of water stands taller.",
    "outcome": 2,
    "how": "e1"
@@ -1742,10 +1787,10 @@
    "p": "In the Three Bags activity, one bag held a stone, one held water and one held air. Which one filled its whole bag, even upside down?",
    "opts": [
     "The stone",
-    "The water",
-    "The air"
+    "The air",
+    "The water"
    ],
-   "a": 2,
+   "a": 1,
    "why": "Air is a gas, so it spreads out to fill all the space. The stone and the water went to the bottom.",
    "outcome": 1,
    "how": "a1"
@@ -1754,11 +1799,11 @@
    "t": "mcq",
    "p": "What is ice?",
    "opts": [
-    "Water as a solid",
     "A different thing from water",
-    "Water as a gas"
+    "Water as a gas",
+    "Water as a solid"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Ice is frozen water. Let it melt and it becomes liquid water again. Nothing is added or taken away.",
    "outcome": 3
   },
@@ -1767,10 +1812,10 @@
    "p": "What is real steam like?",
    "opts": [
     "White and cloudy",
-    "Invisible, like air",
-    "Hard, like ice"
+    "Hard, like ice",
+    "Invisible, like air"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Real steam is water as a gas, and it is invisible. The white cloud is tiny drops of liquid water. Most people pick 'white', because they think the cloud is the steam.",
    "outcome": 4,
    "how": "a2"
@@ -1804,13 +1849,39 @@
    "t": "mcq",
    "p": "Before the pouring test, what should you do first?",
    "opts": [
-    "Guess what will happen, and say why",
     "Ask someone for the answer",
-    "Pour without looking"
+    "Pour without looking",
+    "Guess what will happen, and say why"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A guess with a reason helps you notice when the test surprises you.",
    "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "At lunch, why does Amma put dal in a katori, but she can pass a roti from hand to hand?",
+   "opts": [
+    "Dal is hotter than roti",
+    "A roti is lighter than dal",
+    "Dal cannot be eaten without a spoon",
+    "Dal is a liquid with no shape of its own, but a roti is a solid that keeps its shape"
+   ],
+   "a": 3,
+   "why": "A liquid flows, so it needs a container to hold it. A solid keeps its own shape, so you can hold it in your hand. Dal being hotter or roti being lighter does not explain why one needs a katori.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Two glasses stand on the table. One has clean water and one has milk. You do not look at them. You only sniff and sip. What do you find?",
+   "opts": [
+    "Both have exactly the same smell and taste",
+    "The water has almost no smell or taste, and the milk has its own",
+    "The water is sweet and the milk has no taste",
+    "Neither one has a smell"
+   ],
+   "a": 1,
+   "why": "Clean water has almost no smell or taste. Milk has its own smell and taste. So we can tell the two liquids apart even with our eyes closed.",
+   "outcome": 1
   }
  ],
  "applications": [
@@ -1957,7 +2028,55 @@
    "why": "A science centre with hands-on exhibits and a science park for children."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-a-small-funnel",
+   "item": "A small funnel",
+   "kind": "tool",
+   "why": "Used in One Tumbler, Three Shapes: does the amount of water change?. About ₹20 to ₹50. The top of a cut plastic bottle works.",
+   "url": "https://www.amazon.in/s?k=small+plastic+funnel",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before One Tumbler, Three Shapes: does the amount of water change?."
+  },
+  {
+   "id": "b-balloons--a-packet",
+   "item": "Balloons (a packet)",
+   "kind": "material",
+   "why": "Used in The Ice Glove: what shape will frozen water be?. About ₹20 to ₹60.",
+   "url": "https://www.amazon.in/s?k=balloons+packet",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before The Ice Glove: what shape will frozen water be?."
+  },
+  {
+   "id": "b-food-colour",
+   "item": "Food colour",
+   "kind": "material",
+   "why": "Used in One Tumbler, Three Shapes: does the amount of water change?. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it.",
+   "url": "https://www.amazon.in/s?k=food+colour+liquid",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before One Tumbler, Three Shapes: does the amount of water change?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "Name a solid in this room.",

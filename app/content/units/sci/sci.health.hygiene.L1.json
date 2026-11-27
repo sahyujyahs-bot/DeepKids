@@ -103,6 +103,20 @@
    "art": "A child pouring a mug of water from a bucket over their shoulders in a bathroom, with soap on a dish nearby."
   },
   {
+   "concept": "Clean clothes, washed and dried well",
+   "status": "defined",
+   "definition": "Clothes hold sweat, dust and dirt after we wear them. Washing takes them off, and drying clothes fully keeps them fresh.",
+   "description": "Sweat and dust soak into the shirt and the socks we wear all day. Wash them soon, not after many days, or the sweat smell gets stronger. Rub soap into the dirty parts, such as the collar and the cuffs. Rinse well, until the water runs clear. Wring out the water, and shake each piece out before you dry it. Dry clothes in the sun and fresh air. In the rains, dry them near a fan or in the sun between showers. Damp cloth can grow mould, so never fold clothes until they are fully dry.",
+   "examples": [
+    "A school uniform and socks go into the bucket soon after school, not at the end of the week.",
+    "A cotton kurta dries on a line on the balcony, in the sun and the breeze.",
+    "A wet towel left in a closed cupboard starts to smell stale in a few days."
+   ],
+   "perspectives": [],
+   "context": "This card says how to wash and dry clothes, so they stay clean and fresh.",
+   "art": "A child hanging a small white shirt on a balcony line in the sun, with a bucket of soapy water beside them."
+  },
+  {
    "concept": "Are the tiny beings on us friends or enemies?",
    "status": "debated",
    "description": "We often call all tiny living beings germs, as if they were all enemies. But most bacteria on your skin and in your mouth do you no harm. Many of them help you. Some keep harmful kinds away just by living in their place. Only a few kinds make us ill. So washing and brushing do not try to remove every tiny being. They keep the numbers small, and keep harmful kinds out of our mouths. Bacteria also send each other chemical signals. Scientists think these signals help them build a sticky layer like plaque.",
@@ -475,11 +489,11 @@
       "t": "mcq",
       "q": "Why does 'Crumbs stuck in a groove' make you miss a turn?",
       "options": [
-       "The tiny beings in your mouth eat the crumbs and make acid",
        "Crumbs make your tooth fall out at once",
+       "The tiny beings in your mouth eat the crumbs and make acid",
        "Crumbs are too heavy"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Crumbs left in a groove feed the tiny beings in your mouth. They make an acid, which can wear a hole in the tooth over many days."
      }
     },
@@ -549,11 +563,11 @@
      "t": "mcq",
      "p": "You have a new big tooth at the back, with little hills and valleys on top. After you eat puttu, where is the food most likely to hide?",
      "opts": [
-      "In the grooves on top of the tooth",
       "On the tip of your tongue",
-      "Behind your ear"
+      "Behind your ear",
+      "In the grooves on top of the tooth"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A back tooth has little hills and valleys on top. Food hides in those valleys, which are called grooves."
     },
     {
@@ -625,11 +639,11 @@
      "t": "mcq",
      "p": "If you only brush your front teeth, what are you missing?",
      "opts": [
-      "The back teeth, where food hides",
       "Nothing, the front is enough",
+      "The back teeth, where food hides",
       "Only the tongue"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Food hides most in the grooves of the back teeth. Holes in children's teeth are found most often there. If you picked 'the front is enough', remember the Biscuit Test: after a swish of water, crumbs stayed in the grooves of the back teeth."
     },
     {
@@ -637,6 +651,25 @@
      "p": "Draw yourself having a bath. Draw what the water is washing off you.",
      "a": "A child pouring water or under a shower, with dust, sweat drops or tiny flakes washing off.",
      "why": "A strong drawing shows the water carrying something away: sweat, dust, or tiny flakes of old skin."
+    },
+    {
+     "t": "order",
+     "p": "Put the washing of a school shirt in order, from first to last.",
+     "items": [
+      "Hang the shirt in the sun to dry",
+      "Rinse until the water runs clear",
+      "Rub soap on the dirty collar",
+      "Put the shirt in soapy water",
+      "Wring out the water"
+     ],
+     "a": [
+      "Put the shirt in soapy water",
+      "Rub soap on the dirty collar",
+      "Rinse until the water runs clear",
+      "Wring out the water",
+      "Hang the shirt in the sun to dry"
+     ],
+     "why": "Soak and rub first, so the soap can loosen the dirt. Rinse the soap away. Wring out the water, then dry in the sun."
     }
    ]
   },
@@ -953,10 +986,10 @@
       "q": "After the water rinse, where were crumbs most likely to stay?",
       "options": [
        "On the front teeth",
-       "In the grooves of the back teeth",
-       "On the tongue"
+       "On the tongue",
+       "In the grooves of the back teeth"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Water runs over the smooth front teeth and washes them. It flows over the grooves of the back teeth without reaching inside, so crumbs stay there. If you picked the front teeth, look again at your results table: the front teeth were clean after the rinse."
      },
      "think": "Tiny living beings in your mouth eat leftover crumbs. Where in your mouth would they find the most food?"
@@ -1172,11 +1205,11 @@
       "t": "mcq",
       "q": "What is the fuzz on your teeth in the morning?",
       "options": [
-       "Plaque, a sticky layer made by tiny living beings",
        "Toothpaste left from last night",
-       "Your teeth growing hair"
+       "Your teeth growing hair",
+       "Plaque, a sticky layer made by tiny living beings"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The fuzz is plaque. The bacteria in your mouth build this sticky layer. It grows back every night, so we brush every day. If you picked toothpaste, remember that the fuzz came back even though you brushed the night before."
      }
     }
@@ -1676,11 +1709,11 @@
    "t": "mcq",
    "p": "When should you wash your hands with soap?",
    "opts": [
-    "Before eating and after the toilet",
     "Only when they look dirty",
+    "Before eating and after the toilet",
     "Only once a day"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Germs are too small to see, so hands can carry them even when they look clean. Before eating and after the toilet are the most important times.",
    "outcome": 0
   },
@@ -1688,11 +1721,11 @@
    "t": "mcq",
    "p": "How long should you rub soap on your hands?",
    "opts": [
-    "About 20 seconds, like singing Happy Birthday twice",
     "One second",
-    "Ten minutes"
+    "Ten minutes",
+    "About 20 seconds, like singing Happy Birthday twice"
    ],
-   "a": 0,
+   "a": 2,
    "why": "About 20 seconds gives enough time to rub every part. One second misses most of the hand, and ten minutes is far more than needed.",
    "outcome": 1
   },
@@ -1700,11 +1733,11 @@
    "t": "mcq",
    "p": "In the biscuit test, where did the crumbs stay after the water rinse?",
    "opts": [
-    "In the grooves of the back teeth",
     "On the front teeth",
-    "On the tongue"
+    "On the tongue",
+    "In the grooves of the back teeth"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Water runs over the top of the back teeth without reaching into the grooves. Only the bristles of a brush reach in.",
    "outcome": 2,
    "how": "e1"
@@ -1726,11 +1759,11 @@
    "t": "mcq",
    "p": "How many times a day should you brush your teeth?",
    "opts": [
-    "Twice: morning and night",
     "Once a week",
-    "Only after sweets"
+    "Only after sweets",
+    "Twice: morning and night"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Plaque grows back all the time, so dentists say to brush twice a day, for about two minutes, morning and night.",
    "outcome": 2
   },
@@ -1738,11 +1771,11 @@
    "t": "mcq",
    "p": "What do the tiny living beings in your mouth eat?",
    "opts": [
-    "Leftover food, especially sugar",
     "Your teeth",
+    "Leftover food, especially sugar",
     "Only toothpaste"
    ],
-   "a": 0,
+   "a": 1,
    "why": "They eat leftover food on your teeth. As they eat sugar, they make an acid, and the acid can wear a hole in a tooth over time. They do not eat the tooth itself.",
    "outcome": 3
   },
@@ -1750,11 +1783,11 @@
    "t": "mcq",
    "p": "Most of the tiny living beings on your skin and in your mouth are...",
    "opts": [
-    "Harmless or helpful",
     "All dangerous",
+    "Harmless or helpful",
     "Not alive"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Only a few kinds make us ill. Most live with us quietly, and some help keep harmful ones away.",
    "outcome": 3
   },
@@ -1774,11 +1807,11 @@
    "t": "mcq",
    "p": "In the white cloth test, the sole of a foot was wiped before a bath and after it. What did the cloths most often show?",
    "opts": [
-    "The cloth from before the bath was greyer",
     "Both cloths stayed white",
+    "The cloth from before the bath was greyer",
     "The cloth from after the bath was greyer"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Before the bath, dust and sweat were on the skin, even when we could not see them. The bath washed them off.",
    "outcome": 4,
    "how": "e2"
@@ -1787,14 +1820,26 @@
    "t": "mcq",
    "p": "Before the Biscuit Test, you might say: 'I think the water will wash all the crumbs away.' What is that?",
    "opts": [
-    "A guess, to check with a test",
     "The answer",
-    "A mistake"
+    "A mistake",
+    "A guess, to check with a test"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A guess made before a test is how scientists start. Then the test shows what really happens. A guess that turns out wrong is still a good guess.",
    "outcome": 5,
    "how": "e1"
+  },
+  {
+   "t": "mcq",
+   "p": "Why must clothes be fully dry before you fold them and put them away?",
+   "opts": [
+    "Wet cloth is too heavy to fold",
+    "Folded cloth dries in the cupboard by itself",
+    "Damp cloth can grow mould and smell bad"
+   ],
+   "a": 2,
+   "why": "Mould grows in damp cloth. Wet clothes folded up stay damp, and they do not dry in the cupboard.",
+   "outcome": 4
   }
  ],
  "applications": [
@@ -1948,7 +1993,56 @@
    "why": "A museum about the history of toilets and keeping towns clean, from many countries and times."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-a-small-hand-mirror",
+   "item": "A small hand mirror",
+   "kind": "material",
+   "why": "Used in The Biscuit Test: what does a rinse clean, and what does a brush clean?. About ₹20 to ₹80. A shiny steel plate shows reflections too.",
+   "url": "https://www.amazon.in/s?k=small+hand+mirror",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before The Biscuit Test: what does a rinse clean, and what does a brush clean?."
+  },
+  {
+   "id": "b-cotton-wool",
+   "item": "Cotton wool",
+   "kind": "material",
+   "why": "Used in The White Cloth Test: what does a bath wash off?. About ₹20 to ₹50. Torn clean cloth works.",
+   "url": "https://www.amazon.in/s?k=cotton+wool+roll",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before The White Cloth Test: what does a bath wash off?."
+  },
+  {
+   "id": "b-iron-nails-or-iron-filings",
+   "item": "Iron nails or iron filings",
+   "kind": "material",
+   "why": "Used in What Hides Under Your Nails?, Mine, Not Shared: my own clean-up kit. About ₹20 to ₹80. Short steel nails from a hardware shop.",
+   "url": "https://www.amazon.in/s?k=iron+filings+science",
+   "used_in": [
+    "a2",
+    "a4"
+   ],
+   "plan": "Get it before What Hides Under Your Nails?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "Name one time you should wash your hands.",

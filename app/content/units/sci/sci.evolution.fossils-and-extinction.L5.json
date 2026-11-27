@@ -631,11 +631,11 @@
       "t": "mcq",
       "q": "What do the causes of the five mass extinctions have in common?",
       "options": [
-       "Air, sea or climate changed too fast",
        "An asteroid struck each time",
-       "Predators ate everyone"
+       "Predators ate everyone",
+       "Air, sea or climate changed too fast"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Ice, lava gases and an asteroid are different causes. Each one changed the air, the sea or the climate faster than species could keep up with. If you chose the asteroid, check the cards. Only the last of the five has clear signs of one."
      },
      "context": "This is the last step of Which Mass Extinction? Here you lay the cards under the five names and look for what the causes share."
@@ -1292,11 +1292,11 @@
       "t": "mcq",
       "q": "Nearly every species that ever lived is extinct. Why is the Earth still full of species?",
       "options": [
-       "New species keep arising from living ones",
        "Extinct species come back later",
+       "New species keep arising from living ones",
        "No species has ended for a long time"
       ],
-      "a": 0,
+      "a": 1,
       "why": "While some species end, others split into new species, so the total stays high. If you chose that extinct species come back, they never do. Their relatives may live on, as birds do for the dinosaurs."
      },
      "parent": "Good questions to hear: Did they all die at once? Who was the first? Will we end too? The unit takes up each of these.",
@@ -1486,11 +1486,11 @@
       "t": "mcq",
       "q": "Great size helped dinosaurs for millions of years. Why did it harm them after the asteroid strike?",
       "options": [
-       "A big body needs a lot of food every day",
        "Big animals are always slower",
+       "A big body needs a lot of food every day",
        "The asteroid aimed at big animals"
       ],
-      "a": 0,
+      "a": 1,
       "why": "With the plants dead, there was almost no food, and a large animal starves first. If you chose 'slower', speed was not the problem. No animal could outrun months without food."
      },
      "context": "This is the last step of Three Rules for Survival. You compare each rule's guesses with what really happened and count how often each rule was right."
@@ -1557,11 +1557,11 @@
       "t": "mcq",
       "q": "Nobody has seen a small night bird in a thick forest for 30 years. What is the fairest thing to say?",
       "options": [
-       "Not found yet, so search carefully",
        "Certainly extinct",
-       "Certainly still alive"
+       "Certainly still alive",
+       "Not found yet, so search carefully"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A small night bird is easy to miss, so 30 years without a sighting is weak evidence. If you chose 'certainly extinct', remember Jerdon's courser, missed for 86 years. Being sure they live is also a guess."
      },
      "parent": "A species found again is nearly always very rare. Finding one is the start of the work to protect them.",
@@ -1638,11 +1638,11 @@
       "t": "mcq",
       "q": "Losses since 1900 are about 53 times the normal number. What does that mean?",
       "options": [
-       "Species are ending much faster than normal",
        "53 out of 100 species are gone",
-       "53 species are gone"
+       "53 species are gone",
+       "Species are ending much faster than normal"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The 53 compares two rates: 477 real losses against 9 expected. If you chose 53 out of 100, look at your page. The red block is about 1 part in 84 of all the species checked."
      },
      "parent": "477 divided by 9 is 53. At 8 in each 100 years, 477 losses would take about 60 lots of 100 years, which is 6,000 years. 477 out of 40,000 is about 1 in 84. So the rate is far above normal, and most species are still alive. Both facts matter. A mass extinction means about 3 in 4 gone. That is why some scientists say one has begun, and others say it can still be prevented.",
@@ -1823,11 +1823,11 @@
       "t": "mcq",
       "q": "Sunlight is blocked for many months. Which has the best chance of growing afterwards?",
       "options": [
-       "A dry seed lying in the soil",
        "A young seedling",
+       "A dry seed lying in the soil",
        "A tree in full leaf"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A dry seed uses almost none of the stored food while waiting. A seedling or a leafy tree must keep making food and cannot, so the store runs out. If you chose the tree, a few trees can regrow from roots, but most growing plants died."
      },
      "parent": "Most of the dry seeds should have sprouted, as if nothing had happened. The pale seedlings should be turning green. This is why the first plants after the strike grew from spores and seeds, and why animals who could eat seeds had food.",
@@ -1949,12 +1949,12 @@
      "t": "mcq",
      "p": "What is a mass extinction?",
      "opts": [
-      "Most species on Earth ending within a short time",
       "One species ending in one forest",
+      "Most species on Earth ending within a short time",
       "Many animals dying in one cold winter",
       "A species moving to a new place"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A mass extinction ends most species, all over the world, in a short stretch of geological time. One hard winter kills many animals but ends no species."
     },
     {
@@ -2018,12 +2018,12 @@
      "t": "mcq",
      "p": "Which rare metal in a thin clay layer was the first clue to an asteroid strike?",
      "opts": [
-      "Iridium",
       "Iron",
       "Gold",
-      "Copper"
+      "Copper",
+      "Iridium"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Asteroids hold far more iridium than Earth's surface rocks. Iron is common in ordinary rock, so it would be no clue."
     },
     {
@@ -2088,12 +2088,12 @@
      "t": "mcq",
      "p": "Which land animals mostly survived the asteroid strike?",
      "opts": [
-      "Small ones with shelter who ate insects or seeds",
       "The largest plant-eaters",
+      "Small ones with shelter who ate insects or seeds",
       "The largest meat-eaters",
       "Animals who lived in treetops"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Small animals need little food, and insects and seeds were still there. Choosing the largest animals mixes up strength with what the dark months demanded."
     },
     {
@@ -2161,12 +2161,12 @@
      "t": "mcq",
      "p": "Why did shell-building sea animals suffer most at the end of the Permian?",
      "opts": [
-      "Dissolved carbon dioxide made the sea more acid",
       "The sea froze solid",
+      "Dissolved carbon dioxide made the sea more acid",
       "Fishing boats caught them",
       "The sea dried up"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Carbon dioxide from the eruptions dissolved in the sea and made a weak acid. Shells are harder to build in more acid water. There were no people or boats then."
     },
     {
@@ -2227,12 +2227,12 @@
      "t": "mcq",
      "p": "In a refill game, a group holding 2 squares may add at most 2 more. What does this rule stand for?",
      "opts": [
-      "New species arise only from living species",
       "Small groups are lazy",
       "The die is unfair",
+      "New species arise only from living species",
       "Species grow bigger each round"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Each new species splits off from one that already exists. So a group with few species can add only a few at a time.",
      "how": "e1"
     },
@@ -2306,12 +2306,12 @@
      "t": "mcq",
      "p": "About how long did the number of species take to recover after past extinctions?",
      "opts": [
-      "About 10 million years",
       "About 100 years",
       "About 10,000 years",
-      "It never recovered"
+      "It never recovered",
+      "About 10 million years"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A study of the whole record of sea life found about 10 million years. That is more than 30 times as long as our species has existed."
     },
     {
@@ -2354,12 +2354,12 @@
      "t": "mcq",
      "p": "Why were rivers and lakes hit less hard than the open sea after the strike?",
      "opts": [
-      "Dead matter washed in from the land fed them",
       "Rivers have no animals",
       "The dust did not reach rivers",
-      "River water is always warm"
+      "River water is always warm",
+      "Dead matter washed in from the land fed them"
      ],
-     "a": 0,
+     "a": 3,
      "why": "River food chains can run on dead leaves and other detritus from the land. Food chains of the open sea begin with floating algae, who need light."
     }
    ]
@@ -2382,12 +2382,12 @@
      "t": "mcq",
      "p": "Since 1900, 477 species were lost where 9 were expected. About how many times the normal number is that?",
      "opts": [
-      "About 50 times",
       "About 5 times",
       "About 470 times",
+      "About 50 times",
       "About 9 times"
      ],
-     "a": 0,
+     "a": 2,
      "why": "477 ÷ 9 = 53, which is about 50 times. Subtracting 9 from 477 gives the extra losses, not how many times.",
      "how": "a5"
     },
@@ -2485,12 +2485,12 @@
      "t": "mcq",
      "p": "Suppose the asteroid had missed the Earth. Why might humans never have appeared?",
      "opts": [
-      "Big dinosaurs would have kept the niches of large animals",
       "Mammals did not exist yet",
+      "Big dinosaurs would have kept the niches of large animals",
       "The Earth would be too hot",
       "Humans come from dinosaurs"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Mammals already existed, but stayed small while big dinosaurs held the niches for large land animals. Large mammals, including apes, arose only after those niches emptied."
     },
     {
@@ -2583,12 +2583,12 @@
    "t": "mcq",
    "p": "Which of these would count as a mass extinction?",
    "opts": [
-    "Three quarters of all species end within a short time",
     "A lake dries and one fish species ends",
     "A flood kills many animals in one state",
+    "Three quarters of all species end within a short time",
     "A forest loses half of the trees"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A mass extinction ends most species across the world. A flood or a lost forest kills many living beings, but that is different from ending most species.",
    "outcome": 0
   },
@@ -2609,12 +2609,12 @@
    "t": "mcq",
    "p": "Which mass extinction has clear signs of an asteroid strike?",
    "opts": [
-    "End of the Cretaceous",
     "End of the Permian",
     "Late Devonian",
-    "End of the Ordovician"
+    "End of the Ordovician",
+    "End of the Cretaceous"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The crater and the iridium layer are both 66 million years old. The end of the Permian is linked to eruptions in Siberia.",
    "outcome": 1
   },
@@ -2622,12 +2622,12 @@
    "t": "mcq",
    "p": "After a mass extinction, where do the new species come from?",
    "opts": [
-    "From the species that survived",
     "From the species that ended",
     "From other planets",
+    "From the species that survived",
     "From rocks and soil"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Every new species splits off from a living one. That is why the group you wiped out never returned to your board.",
    "outcome": 2,
    "how": "e1"
@@ -2636,12 +2636,12 @@
    "t": "mcq",
    "p": "Why do new species arise faster after a mass extinction than before?",
    "opts": [
-    "Many niches are empty",
     "The survivors try harder",
     "The Sun is brighter",
-    "Fossils form faster"
+    "Fossils form faster",
+    "Many niches are empty"
    ],
-   "a": 0,
+   "a": 3,
    "why": "With few rivals, more varieties can live and have young, and natural selection fits them to the empty niches. Trying harder does not change what is inherited.",
    "outcome": 2
   },
@@ -2649,12 +2649,12 @@
    "t": "mcq",
    "p": "Which animal was most likely to survive the asteroid strike?",
    "opts": [
-    "A small burrowing insect-eater",
     "A giant plant-eater",
+    "A small burrowing insect-eater",
     "A giant meat-eater",
     "A treetop bird"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A small animal needs little food, insects lived on, and a burrow gave shelter. Giants starved, and the forests that treetop birds needed were lost.",
    "outcome": 3
   },
@@ -2662,12 +2662,12 @@
    "t": "mcq",
    "p": "In the dark months, why did food chains that begin with dead leaves keep going?",
    "opts": [
-    "Dead matter was there without sunlight",
     "Dead leaves make their own food",
+    "Dead matter was there without sunlight",
     "Insects stopped eating",
     "Dead leaves grew back"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Fallen leaves and wood were already lying there, so the animals who eat them still had food. Chains that begin with living plants stopped when the plants could not make food.",
    "outcome": 3
   },
@@ -2675,12 +2675,12 @@
    "t": "mcq",
    "p": "A rare species' last fossil lies eight layers below a boundary. What is the fairest conclusion?",
    "opts": [
-    "They may have lived up to the boundary",
     "They surely ended eight layers early",
     "They never existed",
+    "They may have lived up to the boundary",
     "They are alive today"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Rare species leave gaps, so the last fossil is usually below the real end. Choosing 'surely ended early' reads the gap as the truth.",
    "outcome": 4,
    "how": "e2"
@@ -2702,12 +2702,12 @@
    "t": "mcq",
    "p": "What do scientists agree about extinction today?",
    "opts": [
-    "Species are ending faster than normal, because of people",
     "Three quarters of species are already gone",
     "No species has ended since 1900",
+    "Species are ending faster than normal, because of people",
     "The rate is the same as always"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The rate is many times the normal one, and the causes are things people do. But most species are still alive, so three quarters gone is wrong.",
    "outcome": 6
   },
@@ -3097,6 +3097,49 @@
     "a2"
    ],
    "plan": "A parent reads the chapters on the Deccan lava and the end of the dinosaurs, and tells the best parts while the child makes the paper time line."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Empty Board Test: after a mass extinction, who fills the world again?, The Last Fossil Test: if five species died on the same day, would the rocks show it?, The Hundred Squares: how many of all the species that ever lived are alive today?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e2",
+    "a1",
+    "a2",
+    "a3",
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before The Empty Board Test: after a mass extinction, who fills the world again?."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in The Dark Week: who gets through a time without sunlight?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before The Dark Week: who gets through a time without sunlight?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

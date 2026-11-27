@@ -561,11 +561,11 @@
       "t": "mcq",
       "q": "The river Kaveri flows to the sea. Is the flowing a wave?",
       "options": [
-       "Yes, because the river moves",
        "No, because the water itself travels to the sea",
+       "Yes, because the river moves",
        "Yes, because it is water"
       ],
-      "a": 1,
+      "a": 0,
       "why": "In a flowing river, the water itself travels all the way to the sea. In a wave, the energy travels and the water stays. A river can have ripples on it, and those ripples are waves, but the flowing is not."
      }
     },
@@ -653,11 +653,11 @@
       "t": "mcq",
       "q": "In the game, what decided whether the wave was fast or slow?",
       "options": [
-       "How quickly each person moved after the one next to them",
        "Who was the caller",
-       "How tall the crest was"
+       "How tall the crest was",
+       "How quickly each person moved after the one next to them"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The wave went as fast as the line passed it on. In the slow crowd, everyone waited, so the wave was slow. The caller only started it, and a tall crest did not make it faster."
      }
     }
@@ -783,11 +783,11 @@
       "t": "mcq",
       "q": "You gave the water the same push every time. What made the wave faster?",
       "options": [
-       "A harder push",
        "Deeper water",
+       "A harder push",
        "A brighter torch"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The push was the same each time, and the torch only helps you see. Only the depth changed, so the deeper water made the wave faster. The water passes the energy along at its own speed. Picking 'a harder push' is a natural guess, because a ball thrown harder goes faster. A wave is not a ball: after the push, the water carries it."
      },
      "parent": "A strong answer sounds like this: 'Deeper water makes a faster wave. In my table, 4 cm took less time than 1 cm, with the same push. I think the water decides how fast the wave goes.' Now read the card 'The medium sets a wave's speed'."
@@ -943,11 +943,11 @@
       "t": "mcq",
       "q": "Ripples crossed the bucket, but the puffed rice stayed near the middle. What did the ripples carry across?",
       "options": [
-       "Water",
        "Energy from your tapping",
+       "Water",
        "Puffed rice"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The ripples carried the energy of your taps across the bucket. The water and the grains only bobbed up and down and stayed near the middle. Picking 'water' is a common idea, because waves seem to be moving water. But if they carried water, the grains would have gone too, as they did when you blew."
      },
      "parent": "A strong answer: 'The ripples carried the energy, not the water. The grains bobbed up and down but stayed near the middle. When I blew, I pushed the water itself, so the grains moved across.'"
@@ -1122,10 +1122,10 @@
       "q": "In both waves, where did the paper tag end up?",
       "options": [
        "At the far end of the spring",
-       "Back near where it started",
-       "Off the spring on the floor"
+       "Off the spring on the floor",
+       "Back near where it started"
       ],
-      "a": 1,
+      "a": 2,
       "why": "In both waves, the tag moved a little and came back near where it started. The wave travelled along the spring, but each coil stayed in its place. If you picked 'the far end', try again and watch only the tag, not the wave."
      }
     }
@@ -1502,11 +1502,11 @@
       "t": "mcq",
       "q": "Why did the wave slow down in the heavy half?",
       "options": [
-       "Because the first push was weaker",
        "Because the heavy straws pass the twist on more slowly",
+       "Because the first push was weaker",
        "Because the tape ran out"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The push at the start was the same. The heavy straws are slower to start turning, so they pass the twist on more slowly. The material the wave travels through sets its speed, just as the depth did in the Tray Test."
      }
     }
@@ -1689,10 +1689,10 @@
    "p": "You float a leaf in the middle of a bucket and tap the water at one side. What does the leaf do?",
    "opts": [
     "It sails to the far side",
-    "It bobs up and down and stays near the middle",
-    "It sinks to the bottom"
+    "It sinks to the bottom",
+    "It bobs up and down and stays near the middle"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The ripples pass under the leaf, so the leaf bobs up and down. The ripples carry energy, not water, so the leaf stays near the middle. 'Sails to the far side' is what happens when you blow on the water, which pushes the water itself.",
    "outcome": 1,
    "how": "e2"
@@ -1701,11 +1701,11 @@
    "t": "mcq",
    "p": "What is a wave?",
    "opts": [
-    "Water moving from one place to another",
     "Energy travelling through a material while the material stays in place",
+    "Water moving from one place to another",
     "Anything that goes up and down"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A wave is travelling energy. The material, such as water or a rope, moves a little and stays where it is. A swing goes up and down too, but nothing travels from it, so going up and down is not enough to make a wave.",
    "outcome": 0
   },
@@ -1713,11 +1713,11 @@
    "t": "mcq",
    "p": "You send the same wave across a tray. First the water is 1 cm deep, then 4 cm deep. When is the wave faster?",
    "opts": [
-    "At 1 cm",
     "At 4 cm",
+    "At 1 cm",
     "The same at both depths"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Deeper water carries this kind of wave faster. In 4 cm of water it goes about twice as fast as in 1 cm. If you picked 'the same', you may be thinking the push sets the speed. The push was the same both times, but the water was not.",
    "outcome": 3,
    "how": "e1"
@@ -1726,11 +1726,11 @@
    "t": "mcq",
    "p": "You time a wave in a tray at different water depths. Why must you push the water the same way every time?",
    "opts": [
-    "So that only the depth changes, and we know the depth made the difference",
     "So the water does not spill",
-    "So the stopwatch works"
+    "So the stopwatch works",
+    "So that only the depth changes, and we know the depth made the difference"
    ],
-   "a": 0,
+   "a": 2,
    "why": "In a fair test only one thing changes. If the push changed too, we could not tell whether the depth or the push made the wave faster.",
    "outcome": 3,
    "how": "e1"
@@ -1739,11 +1739,11 @@
    "t": "mcq",
    "p": "Which of these is NOT a wave?",
    "opts": [
+    "Water flowing out of a tap",
     "A Mexican wave at a cricket match",
-    "Ripples on a pond",
-    "Water flowing out of a tap"
+    "Ripples on a pond"
    ],
-   "a": 2,
+   "a": 0,
    "why": "Water from a tap travels, so it is a flow, not a wave. In a Mexican wave and in ripples, the energy travels while the people or the water stay in place.",
    "outcome": 2
   },
@@ -1751,11 +1751,11 @@
    "t": "mcq",
    "p": "A Mexican wave runs round a stadium. What do the people do?",
    "opts": [
-    "Each person stands up and sits down in their seat",
     "People run round the stadium",
+    "Each person stands up and sits down in their seat",
     "Only the first person moves"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Each person stays in their seat. The standing up is passed from one person to the next, and that is what travels round.",
    "outcome": 2
   },
@@ -1763,11 +1763,11 @@
    "t": "mcq",
    "p": "What is the crest of a wave?",
    "opts": [
-    "Its lowest point",
     "Its highest point",
+    "Its lowest point",
     "The distance between two waves"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The crest is the top of a wave. The lowest point is the trough. The distance from one crest to the next is the wavelength.",
    "outcome": 4
   },
@@ -1799,11 +1799,11 @@
    "t": "mcq",
    "p": "Fishermen far out at sea, in deep water, sometimes did not notice the 2004 tsunami passing under their boats. Why?",
    "opts": [
-    "In deep water the tsunami was low and very long",
     "The tsunami was asleep",
-    "Boats cannot float on a tsunami"
+    "Boats cannot float on a tsunami",
+    "In deep water the tsunami was low and very long"
    ],
-   "a": 0,
+   "a": 2,
    "why": "In deep water a tsunami is less than a metre high and more than 100 kilometres long, so a boat only rises and falls very gently. It grows tall only near the shore.",
    "outcome": 5
   },
@@ -1951,11 +1951,11 @@
     {
      "t": "mcq",
      "p": "You push the water in a tray the same way each time. The wave takes 5 seconds in 1 cm of water and 3 seconds in 4 cm. What does this show?",
-     "a": 0,
+     "a": 1,
      "why": "A shorter time means a faster wave. The wave was faster in 4 cm of water, and the push did not change, so the depth made the difference.",
      "opts": [
-      "Deeper water carries the wave faster",
       "Shallow water carries the wave faster",
+      "Deeper water carries the wave faster",
       "The depth makes no difference"
      ],
      "how": "e1"
@@ -1963,13 +1963,13 @@
     {
      "t": "mcq",
      "p": "Which of these could you use as a medium for a wave at home?",
-     "a": 3,
+     "a": 1,
      "why": "A wave can travel through cloth, water, a spring and many other materials.",
      "opts": [
       "A dupatta",
+      "All of these",
       "A bucket of water",
-      "A spring toy",
-      "All of these"
+      "A spring toy"
      ]
     },
     {
@@ -2064,23 +2064,23 @@
     {
      "t": "mcq",
      "p": "When you make a shake wave on a spring toy, how does a paper tag on one coil move?",
-     "a": 0,
+     "a": 2,
      "why": "In a shake wave the coils move sideways and back while the bump travels along. The tag moves with its coil, then comes back.",
      "opts": [
-      "Sideways and back, across the spring",
       "Along the spring to the far end",
-      "It does not move at all"
+      "It does not move at all",
+      "Sideways and back, across the spring"
      ],
      "how": "a2"
     },
     {
      "t": "mcq",
      "p": "In the straw wave machine, why did the wave slow down when it reached the straws with dough on their ends?",
-     "a": 1,
+     "a": 0,
      "why": "Heavy-ended straws are slower to start turning, so they pass the twist on more slowly. The material sets the speed, as the depth did in the tray.",
      "opts": [
-      "The tape was sticky",
       "The heavy straws pass the twist on more slowly",
+      "The tape was sticky",
       "The first push got tired"
      ],
      "how": "p1"
@@ -2088,12 +2088,12 @@
     {
      "t": "mcq",
      "p": "A garden spider sits in the middle of her web. How does she know where an insect has landed?",
-     "a": 2,
+     "a": 1,
      "why": "Many web-building spiders see poorly. The spider rests her legs on the threads, and the waves from a struggling insect tell her which way to run.",
      "opts": [
       "She hears it buzzing",
-      "She sees it with her sharp eyes",
-      "She feels the waves of shaking along the threads with her legs"
+      "She feels the waves of shaking along the threads with her legs",
+      "She sees it with her sharp eyes"
      ]
     },
     {
@@ -2204,56 +2204,56 @@
     {
      "t": "mcq",
      "p": "Two trays have water 4 cm deep. Tray A is 30 cm long and tray B is 60 cm long. The same wave goes there and back once in each. Which takes longer?",
-     "a": 1,
+     "a": 2,
      "why": "The depth is the same, so the wave goes at the same speed. Tray B is twice as long, so the trip takes about twice as long.",
      "opts": [
       "Tray A",
-      "Tray B, about twice as long",
-      "Both take the same time"
+      "Both take the same time",
+      "Tray B, about twice as long"
      ]
     },
     {
      "t": "mcq",
      "p": "A tsunami travels about 800 km in an hour over the deep ocean. Near the shore it slows to about 40 km in an hour. Why does it slow down?",
-     "a": 0,
+     "a": 2,
      "why": "Like the wave in the Tray Test, a tsunami slows down in shallow water. It still carries most of its energy, which is why it grows tall and dangerous.",
      "opts": [
-      "The water near the shore is shallow",
       "The wave runs out of energy",
-      "The wind pushes against it"
+      "The wind pushes against it",
+      "The water near the shore is shallow"
      ]
     },
     {
      "t": "mcq",
      "p": "Sound goes faster through steel than through air. What does this tell you?",
-     "a": 2,
+     "a": 1,
      "why": "Sound waves, like water waves, travel at a speed set by the material they pass through.",
      "opts": [
       "Steel sounds are louder",
-      "Sound is made of steel",
-      "The material sets the speed of a wave"
+      "The material sets the speed of a wave",
+      "Sound is made of steel"
      ]
     },
     {
      "t": "mcq",
      "p": "In 1929, a big earthquake shook New Zealand. Machines on the far side of the world recorded faint waves where a fully liquid core would leave none. What did Inge Lehmann conclude?",
-     "a": 1,
+     "a": 0,
      "why": "Lehmann showed that a solid inner core would bend the waves so that some reach those places. More sensitive machines confirmed this in 1970.",
      "opts": [
-      "The machines were broken",
       "The core has a solid ball inside it",
+      "The machines were broken",
       "The Earth is hollow"
      ]
     },
     {
      "t": "mcq",
      "p": "You push the water in a tray once. The wave fades after one trip. What would help you see it for longer?",
-     "a": 0,
+     "a": 2,
      "why": "In very shallow water, rubbing against the bottom takes the wave's energy quickly. In deeper water the wave lasts longer. A torch at a slant also helps.",
      "opts": [
-      "Use deeper water, so the bottom slows the wave less",
       "Use a smaller tray",
-      "Push it sideways"
+      "Push it sideways",
+      "Use deeper water, so the bottom slows the wave less"
      ]
     },
     {
@@ -2583,6 +2583,69 @@
    "used_in": [
     "a2"
    ]
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in Draw and Label a Wave, The Straw Wave Machine. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "a5",
+    "p1"
+   ],
+   "plan": "Get it before Draw and Label a Wave."
+  },
+  {
+   "id": "b-a-digital-stopwatch--optiona",
+   "item": "A digital stopwatch (optional)",
+   "kind": "tool",
+   "why": "Used in The Tray Test: does a wave cross deep or shallow water faster?, The Straw Wave Machine. About ₹150 to ₹400. A phone stopwatch works well.",
+   "url": "https://www.amazon.in/s?k=digital+stopwatch",
+   "used_in": [
+    "e1",
+    "p1"
+   ],
+   "plan": "Get it before The Tray Test: does a wave cross deep or shallow water faster?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Tray Test: does a wave cross deep or shallow water faster?, Draw and Label a Wave, The Straw Wave Machine. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "a5",
+    "p1"
+   ],
+   "plan": "Get it before The Tray Test: does a wave cross deep or shallow water faster?."
+  },
+  {
+   "id": "b-modelling-clay-or-plasticine",
+   "item": "Modelling clay or plasticine",
+   "kind": "material",
+   "why": "Used in Save the Clay Village. About ₹40 to ₹120. Atta dough mixed with a little salt works.",
+   "url": "https://www.amazon.in/s?k=modelling+clay+plasticine",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before Save the Clay Village."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

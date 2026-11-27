@@ -100,7 +100,8 @@
     "Farmers in Kerala used the thoppikkuda, a hat made of palm leaves, shaped like a small umbrella.",
     "Khasi farmers in Meghalaya wear the knup, a rain shield of bamboo and leaves, on their head and back. It leaves both hands free to work.",
     "In Assam, the japi, a wide hat of bamboo and palm leaves, shades farmers from the sun.",
-    "On the cold hills of Ladakh and Sikkim, people wear a windproof jacket over their woollens."
+    "On the cold hills of Ladakh and Sikkim, people wear a windproof jacket over their woollens.",
+    "At home you may wear a cotton frock or shorts. At school, many children wear a uniform of a shirt and shorts, or a skirt."
    ],
    "perspectives": [],
    "art": "Four children, each dressed for one weather: a cap and cotton for sun, a raincoat for rain, a sweater with a jacket on top for wind, and a sweater for cold."
@@ -547,11 +548,11 @@
       "t": "mcq",
       "q": "The tumbler sat in the fan's wind for five minutes. How did it feel?",
       "options": [
-       "Much colder than the other tumbler",
        "The same as the other tumbler",
+       "Much colder than the other tumbler",
        "Hot"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The fan moves the room's air, but it does not make it colder. The tumbler was as warm as the room, so it had no extra warmth to lose. Your warm hand did, so it felt cold."
      },
      "parent": "Both tumblers feel the same, a little cool, as steel always does. That is the surprise. The fan cools your hand because your hand is warmer than the air."
@@ -748,7 +749,7 @@
   {
    "id": "a3",
    "title": "Sort the Cupboard: clothes for each weather",
-   "mins": 12,
+   "mins": 15,
    "days": 1,
    "context": "In this activity you find out which clothes keep off the sun, the rain, the wind or the cold. You take clothes out of the family cupboard and sort them into piles: for sun, for rain, for wind and for cold. You say what job each one does.",
    "materials": [
@@ -764,7 +765,7 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 12,
+     "mins": 15,
      "what": "Sort clothes into four weather piles and say the job of each one."
     }
    ],
@@ -812,6 +813,13 @@
        ]
       }
      ]
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "Ask your child to pick one thing they wear today, and draw and colour it on a paper. Then they say which weather it is for.",
+     "say": "What is this called? Which weather is it for, and what job does it do?",
+     "kid": "Draw and colour one of your own clothes. Say which weather it is for."
     }
    ]
   }
@@ -1036,11 +1044,11 @@
      "t": "mcq",
      "p": "In the fan test, one steel tumbler stood in the fan's wind for five minutes. The other tumbler was kept far from the fan. How did the tumbler from the wind feel next to the other one?",
      "opts": [
-      "Much colder",
       "The same",
+      "Much colder",
       "Wet"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The fan moves air but does not make it colder. The tumbler was as warm as the room, so it had no extra warmth to lose.",
      "how": "e1"
     },
@@ -1089,6 +1097,35 @@
      "why": "Cloth made of threads has tiny gaps, so wind gets through. Plastic and paper sheets have no gaps.",
      "how": "e1",
      "art": "Six small pictures: a sweater, a raincoat, a dupatta, a newspaper, a T-shirt and a plastic sheet."
+    },
+    {
+     "t": "sort",
+     "p": "Sort these clothes: is each one worn mostly at home, or at school?",
+     "cats": [
+      "At home",
+      "At school"
+     ],
+     "items": [
+      [
+       "a cotton frock",
+       "At home"
+      ],
+      [
+       "a school uniform shirt",
+       "At school"
+      ],
+      [
+       "a nightsuit",
+       "At home"
+      ],
+      [
+       "school shoes",
+       "At school"
+      ]
+     ],
+     "a": "see items",
+     "why": "At home we wear what is cool and comfortable. At school many children wear a uniform. A nightsuit is for sleeping at home.",
+     "outcome": 3
     },
     {
      "t": "write",
@@ -1195,10 +1232,10 @@
      "p": "In A Cloud for the Torch, you held a thin white cloth in front of the torch. What did the cloth do to the toy's shadow?",
      "opts": [
       "Made it sharper",
-      "Made it soft and pale",
-      "Made it red"
+      "Made it red",
+      "Made it soft and pale"
      ],
-     "a": 1,
+     "a": 2,
      "why": "The cloth spread out the torch's light, like a cloud spreads sunlight. So the shadow went soft.",
      "how": "a2"
     },
@@ -1207,6 +1244,13 @@
      "p": "Draw a windy day. Show three things that the wind is moving.",
      "a": "A drawing with three things the wind moves, such as a bending tree, flapping clothes and a flying kite.",
      "why": "A strong drawing shows wind by what it moves, because we cannot see air itself."
+    },
+    {
+     "t": "draw",
+     "p": "Draw one of your own clothes and colour it. Write which weather it is best for.",
+     "a": "A child draws a cotton kurta and says it is for hot sun. Or draws a woollen cap and says it is for cold wind.",
+     "why": "A strong answer names the clothes it draws and matches them to a weather with a reason.",
+     "outcome": 3
     },
     {
      "t": "draw",
@@ -1298,11 +1342,11 @@
    "t": "mcq",
    "p": "What is wind?",
    "opts": [
-    "Moving air",
     "Cold water",
-    "Smoke"
+    "Smoke",
+    "Moving air"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Wind is air that is moving. We can't see air, but we see what wind moves.",
    "outcome": 1
   },
@@ -1310,23 +1354,35 @@
    "t": "mcq",
    "p": "Which is a kind of weather?",
    "opts": [
-    "Rainy",
     "Sleepy",
+    "Rainy",
     "Hungry"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Rainy is a kind of weather. Sleepy and hungry are how a body feels.",
    "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Ravi wears a school uniform: a shirt and shorts. Which words name his clothes?",
+   "opts": [
+    "Sun and rain",
+    "A cloud",
+    "Shirt and shorts"
+   ],
+   "a": 2,
+   "why": "A shirt and shorts are clothes, worn on the body. Sun and rain are weather, and a cloud is weather too. They are not clothes.",
+   "outcome": 3
   },
   {
    "t": "mcq",
    "p": "In the fan test, what did the paper strip do behind the raincoat?",
    "opts": [
     "Flew about",
-    "Hung still",
-    "Caught fire"
+    "Caught fire",
+    "Hung still"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The raincoat has no gaps, so the wind could not get through. The strip hung still.",
    "outcome": 2,
    "how": "e1"
@@ -1349,10 +1405,10 @@
    "p": "Why does the fan make your arm feel cold?",
    "opts": [
     "The fan makes cold air",
-    "The moving air carries your warmth away",
-    "The fan is made of ice"
+    "The fan is made of ice",
+    "The moving air carries your warmth away"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Your arm is warmer than the air. The moving air keeps carrying that warmth away.",
    "outcome": 1
   },
@@ -1372,11 +1428,11 @@
    "t": "mcq",
    "p": "You are going out in the hot May sun. What should you wear?",
    "opts": [
-    "A thick sweater",
     "A cap and loose cotton clothes",
+    "A thick sweater",
     "A raincoat"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A cap shades your head, and loose cotton lets your sweat dry and cool you.",
    "outcome": 3
   },
@@ -1390,6 +1446,18 @@
    ],
    "a": 1,
    "why": "The sweater keeps your warmth in. The jacket on top stops the wind blowing it away.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "Anita draws her own clothes on paper: a blue cotton frock and yellow sandals. Which weather is her drawing for?",
+   "opts": [
+    "A cold, windy hill",
+    "A hot, sunny day",
+    "A rainy day in the monsoon"
+   ],
+   "a": 1,
+   "why": "A thin cotton frock and sandals keep the sun off and keep you cool. A cold, windy hill needs a sweater and a layer that stops the wind. In the rain you need a raincoat or an umbrella.",
    "outcome": 3
   },
   {
@@ -1410,10 +1478,10 @@
    "p": "You guessed the sweater would stop the wind. In the fan test, wind came through it. What should you do?",
    "opts": [
     "Say the test was wrong",
-    "Change your idea to fit what you saw",
-    "Never test again"
+    "Never test again",
+    "Change your idea to fit what you saw"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A good scientist changes her idea when the test shows something new. A wrong guess helps you learn.",
    "outcome": 5,
    "how": "e1"
@@ -1565,7 +1633,44 @@
    "why": "The highest hilltop in the Nilgiris, often cool and windy. A good place to feel wind through a sweater."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-butter-paper-or-tracing-pape",
+   "item": "Butter paper or tracing paper",
+   "kind": "material",
+   "why": "Used in A Cloud for the Torch: why are shadows soft on a cloudy day?. About ₹30 to ₹80 for a roll. Thin clean plastic bag or a sheet of waxed paper.",
+   "url": "https://www.amazon.in/s?k=butter+paper+roll",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Get it before A Cloud for the Torch: why are shadows soft on a cloudy day?."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in The Fan and the Sweater: which clothes stop the wind?. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before The Fan and the Sweater: which clothes stop the wind?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "Name four kinds of weather.",

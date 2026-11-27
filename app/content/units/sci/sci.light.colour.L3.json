@@ -311,7 +311,8 @@
    "examples": [
     "A spinning rainbow top looks pale while it spins fast.",
     "Phone and TV screens make white from tiny red, green and blue dots very close together.",
-    "A second prism, turned the other way, can join the colours again."
+    "A second prism, turned the other way, can join the colours again.",
+    "A square card spun fast can look round, because the moving corners blur together in your eye."
    ],
    "perspectives": [],
    "art": "Two prisms, the first fanning sunlight into colours, the second turned the other way and squeezing them back into one white beam.",
@@ -753,11 +754,11 @@
       "q": "Which colour bends the most in a prism?",
       "options": [
        "Red",
-       "Green",
        "Violet",
+       "Green",
        "They all bend the same"
       ],
-      "a": 2,
+      "a": 1,
       "why": "Violet bends the most and red the least. That is why the colours spread apart. If they all bent the same, a prism would make no rainbow at all. Picking red is common, because red is at the top of the rainbow. A correct answer wins a colour card."
      }
     },
@@ -772,12 +773,12 @@
       "t": "mcq",
       "q": "Rainbow Line-Up: you need violet, and you have a white light card. Can you use it?",
       "options": [
-       "Yes, because white light holds all the colours, including violet",
        "No, because white is not a colour",
        "Only if you spin it",
+       "Yes, because white light holds all the colours, including violet",
        "Only on a rainy day"
       ],
-      "a": 0,
+      "a": 2,
       "why": "In the game, as in real life, white light can be split into any colour, because it is all the colours together. Picking 'white is not a colour' is half right. White is not one colour. It is all of them."
      }
     },
@@ -976,12 +977,12 @@
      "t": "mcq",
      "p": "You hold red cellophane in the sunbeam, before the light reaches the glass of water. Which colour reaches the paper on the floor?",
      "opts": [
-      "Mostly red",
       "All the colours",
+      "Mostly red",
       "Mostly green",
       "None"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A red filter lets red light through and absorbs most of the others. Picking 'all the colours' means thinking the cellophane is just clear. Picking 'mostly green' mixes up which colour passes.",
      "context": "Remember Colour Filters, where you held coloured cellophane in the sunbeam before it reached the glass of water?",
      "how": "a2"
@@ -1069,12 +1070,12 @@
      "t": "mcq",
      "p": "Why does a white shirt look white in sunlight?",
      "opts": [
-      "It reflects nearly all the colours of sunlight together",
       "It absorbs all the colours",
       "It makes its own white light",
+      "It reflects nearly all the colours of sunlight together",
       "It has no colour at all"
      ],
-     "a": 0,
+     "a": 2,
      "why": "When all the colours reach your eye together, you see white. A white shirt reflects them all. A black shirt absorbs nearly all of them, which is why it looks dark."
     }
    ]
@@ -1089,24 +1090,24 @@
      "t": "mcq",
      "p": "Each colour bends by its own amount in a prism. Predict: if every colour bent by exactly the same amount, what would you see on the floor?",
      "opts": [
-      "A patch of white light, with no colours",
       "A brighter rainbow",
+      "A patch of white light, with no colours",
       "Only red",
       "The colours in the opposite order"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The colours spread apart only because they bend by different amounts. If they all bent the same, they would stay together and look white. This is why a flat window pane makes no rainbow: light comes out at the same angle it went in."
     },
     {
      "t": "mcq",
      "p": "In the water prism test, the glass, the mirror in water and the prism all gave the same order of colours. What is the best conclusion?",
      "opts": [
-      "The order comes from the light itself",
       "All three were painted the same way",
       "It was luck",
+      "The order comes from the light itself",
       "Mirrors make rainbows"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Three different things gave the same order, so the order must come from the light. Each colour has its own bending amount. Picking 'luck' would need three lucky results in a row.",
      "context": "Remember the water prism test, where you split sunlight with a glass of water, a mirror in a tray of water and a prism?",
      "how": "e1"
@@ -1115,12 +1116,12 @@
      "t": "mcq",
      "p": "A rainbow is part of a circle. Where is the centre of that circle?",
      "opts": [
-      "At the shadow of your head",
       "At the Sun",
       "At the top of the cloud",
-      "At the end of the rainbow"
+      "At the end of the rainbow",
+      "At the shadow of your head"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The rainbow is a circle around the point exactly opposite the Sun, which is where your head's shadow falls. Picking 'the Sun' is a common mix-up, but the bow is on the other side of the sky from the Sun.",
      "context": "Remember Make Your Own Rainbow, where you sprayed a fine mist of water in the sunshine?",
      "how": "e2"
@@ -1217,12 +1218,12 @@
      "t": "mcq",
      "p": "Why is the sky blue in the daytime?",
      "opts": [
-      "Air scatters blue light much more than other colours, sending it all over the sky",
       "The sea reflects onto it",
+      "Air scatters blue light much more than other colours, sending it all over the sky",
       "The sky is made of blue gas",
       "Space is blue"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The tiny particles of gas in air scatter blue light much more than red. So blue comes at us from every part of the sky. Picking 'the sea reflects onto it' is a very old idea. But the sky is blue over deserts too."
     },
     {
@@ -1283,6 +1284,12 @@
      "why": "A filter does not add colours. It only takes some away. Two different filters together take away nearly all of them.",
      "context": "Remember Colour Filters, where you held coloured cellophane in the sunbeam before it reached the glass of water?",
      "how": "a2"
+    },
+    {
+     "t": "truefalse",
+     "p": "A square card spun fast really turns into a circle.",
+     "a": false,
+     "why": "False. The card stays square. Your eye blurs its moving corners, so the edge looks round."
     }
    ]
   },
@@ -1296,12 +1303,12 @@
      "t": "mcq",
      "p": "Newton passed red light from one prism through a second prism. What happened?",
      "opts": [
-      "It stayed red",
       "It split into more colours",
       "It turned white",
+      "It stayed red",
       "It disappeared"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A single colour does not split again. This showed that the prism does not add colours. It only separates the ones already in white light. Picking 'split into more colours' is what people who thought prisms make colours would expect."
     },
     {
@@ -1315,12 +1322,12 @@
      "t": "mcq",
      "p": "A tube light seen through a spectroscope shows bright lines instead of a smooth rainbow. What do the lines come from?",
      "opts": [
-      "The atoms inside the tube, which each give out their own colours",
       "Dust on the tube",
+      "The atoms inside the tube, which each give out their own colours",
       "A broken CD",
       "The wall paint"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Each kind of atom gives out its own colours, like a fingerprint. Tube lights contain a little mercury vapour. Picking 'dust' is a fair guess, but a clean tube shows the same lines.",
      "how": "p1"
     },
@@ -1328,12 +1335,12 @@
      "t": "mcq",
      "p": "Helium was found in the Sun before anyone found it on Earth. How?",
      "opts": [
-      "A yellow line in the Sun's split light did not match any element known on Earth",
       "Astronomers went to the Sun",
+      "A yellow line in the Sun's split light did not match any element known on Earth",
       "It fell from the sky",
       "It was found in a balloon"
      ],
-     "a": 0,
+     "a": 1,
      "why": "In 1868, during an eclipse seen from Guntur in India, Pierre Janssen and other astronomers saw a yellow line in the Sun's spectrum. It matched no element known on Earth. Helium was found on Earth in 1895. Balloons came much later."
     },
     {
@@ -1346,12 +1353,12 @@
      "t": "mcq",
      "p": "A mantis shrimp has 12 kinds of colour cells in its eyes. You have 3. How could scientists test whether it tells close colours apart better than you?",
      "opts": [
-      "Train it to pick one colour for food, then show it two very close shades and see if it still picks right",
       "Count its colour cells again",
       "Look at the colours on its shell",
-      "Ask other scientists what they think"
+      "Ask other scientists what they think",
+      "Train it to pick one colour for food, then show it two very close shades and see if it still picks right"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A test of what the animal can do is better than a guess from its eyes. When scientists tested the shrimp this way, they were worse than us at close shades. More colour cells does not always mean seeing more colours."
     },
     {
@@ -1365,12 +1372,12 @@
      "t": "mcq",
      "p": "Why are sunsets red and orange?",
      "opts": [
-      "Sunlight crosses so much air that most of the blue is scattered away, leaving red and orange",
       "The Sun cools down in the evening",
       "Clouds are red",
+      "Sunlight crosses so much air that most of the blue is scattered away, leaving red and orange",
       "The Sun is on fire"
      ],
-     "a": 0,
+     "a": 2,
      "why": "At sunset, sunlight takes a long path through the air. Air scatters blue more than red, so by the time the light reaches you, mostly red and orange are left. Picking 'the Sun cools down' is a common idea, but the Sun is just as hot at sunset.",
      "how": "a5"
     },
@@ -1400,12 +1407,12 @@
      "t": "mcq",
      "p": "Plants are green. What does that tell us about which light they use most to make food?",
      "opts": [
-      "They absorb mostly red and blue light, and reflect the green",
       "They use mostly green light",
       "They use no light",
+      "They absorb mostly red and blue light, and reflect the green",
       "They use only ultraviolet"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Plants reflect the light they use least. Green comes back to our eyes, so plants use mostly red and blue. Picking 'mostly green' is the most common mistake."
     },
     {
@@ -1594,11 +1601,11 @@
       "q": "In the water prism test, everything you tried gave red at one end and violet at the other. What does this tell us?",
       "options": [
        "Each thing paints its own colours",
-       "The colours and their order come from the sunlight itself",
        "It was luck",
+       "The colours and their order come from the sunlight itself",
        "Red is the strongest colour"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Very different things gave the same colours in the same order. So the order must come from the light, not from the glass or the mirror. Each colour always bends by its own amount, red least and violet most. Picking 'each thing paints its own colours' would mean different orders, which we did not see. It was not luck either: we looked at each one twice, and the order was the same every time."
      }
     },
@@ -1698,10 +1705,10 @@
       "options": [
        "Facing the Sun",
        "With the Sun beside me",
-       "With the Sun behind me",
-       "It did not matter"
+       "It did not matter",
+       "With the Sun behind me"
       ],
-      "a": 2,
+      "a": 3,
       "why": "Light goes into each drop, bounces off the back and comes back out towards the side the Sun is on. So you see it with the Sun behind you. Picking 'facing the Sun' is a common guess, because light comes from the Sun. But the drops send the colours back, like a mirror bounce."
      }
     },
@@ -1814,11 +1821,11 @@
       "q": "In Newton's Wheel, the rainbow disc looked pale grey-white when it spun fast. What does this show?",
       "options": [
        "Spinning washes the colour off",
-       "When all the colours reach your eye together, they look white",
        "The disc was really white all along",
+       "When all the colours reach your eye together, they look white",
        "Grey is a rainbow colour"
       ],
-      "a": 1,
+      "a": 2,
       "why": "When the disc spins fast, every colour reaches your eye almost at the same moment. Your eye mixes them, just as it mixes the colours in sunlight. So you see a pale grey, nearly white. Picking 'spinning washes the colour off' is a fair guess. But the all-red disc stayed red when it spun, so spinning does not remove colour."
      }
     },
@@ -1938,11 +1945,11 @@
       "q": "The glass and water are clear. Sunlight looks white. So where do you think the colours on the paper came from?",
       "options": [
        "The water has colour in it",
-       "The colours were hiding in the sunlight",
        "The paper made them",
+       "The colours were hiding in the sunlight",
        "Nobody can know"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The water is clear and the paper is plain white. The colours were already in the sunlight. The water only spread them apart. Picking 'the water has colour' is a very common first idea. Try pouring the water into a white cup. It has no colour. Picking 'nobody can know' is honest, but we can test it in this lesson."
      },
      "parent": "The strip is small, about the size of a finger, and often lies at the edge of the glass's shadow. Look along the edges of the shadow. If no window gets direct sun, put the glass on a step or wall in the sun outside, with the paper on the ground below."
@@ -2051,11 +2058,11 @@
       "q": "You hold red cellophane in the sunbeam. Mostly red reaches the paper. What happened to the green and blue light?",
       "options": [
        "The cellophane turned them into red",
-       "The cellophane absorbed them",
        "They went round the cellophane",
+       "The cellophane absorbed them",
        "They were never in the sunlight"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The red sheet lets red light through and absorbs most of the other colours. It does not change green into red. Picking 'turned them into red' is a common idea. But then the red patch would grow wider and brighter. Instead, the green and blue patches just went dark. Picking 'never in the sunlight' forgets that we saw green and blue on the paper a minute ago."
      }
     },
@@ -2151,11 +2158,11 @@
       "q": "A CD has no water and no prism. It still makes rainbow colours. What does this tell us?",
       "options": [
        "CDs are painted in rainbow colours",
-       "There is more than one way to spread white light into its colours",
        "The torch has coloured bulbs",
-       "Colours only come from water"
+       "Colours only come from water",
+       "There is more than one way to spread white light into its colours"
       ],
-      "a": 1,
+      "a": 3,
       "why": "Prisms, raindrops, thin bubbles and tiny grooves all spread white light into its colours, in different ways. Picking 'CDs are painted' is a good guess. But the colours slide and change as you tilt the CD, and paint does not do that. Picking 'only from water' is an idea this test proves wrong."
      }
     },
@@ -2259,11 +2266,11 @@
       "q": "Three people counted 5, 6 and 7 colours on the same strip. Who is right?",
       "options": [
        "Only the person who counted 7, because books say so",
-       "Nobody, because the strip was wrong",
        "Each count is a fair way of naming colours that have no edges",
+       "Nobody, because the strip was wrong",
        "The person who counted 5, because fewer is simpler"
       ],
-      "a": 2,
+      "a": 1,
       "why": "The colours in a spectrum change smoothly, with no lines between them. So the number of colours depends on how we choose to name them. Picking '7, because books say so' trusts the book over your own eyes. Newton himself first counted five."
      }
     },
@@ -2371,11 +2378,11 @@
       "q": "At sunset, sunlight crosses much more air before it reaches you. Air scatters blue light away. What colours are left to reach you?",
       "options": [
        "Mostly blue and violet",
-       "Mostly red and orange",
        "No colours, only white",
+       "Mostly red and orange",
        "Only green"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Air scatters blue light more than red. After a long trip through the air, most of the blue has been sent off sideways. Red and orange are left. Picking 'mostly blue' forgets that the blue gets scattered away on the long path. Picking 'only white' forgets that white is a mixture, and part of it has been removed."
      }
     },
@@ -2482,12 +2489,12 @@
       "t": "mcq",
       "q": "Through a spectroscope, a tubelight or CFL shows a few bright coloured lines instead of a smooth rainbow. What might that tell a scientist?",
       "options": [
-       "The tubelight is broken",
        "The light comes from a particular kind of atom, which makes its own lines",
+       "The tubelight is broken",
        "Tubelights have no colours",
        "The CD is scratched"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Each kind of atom gives out its own colours, which show as bright lines. A tubelight has mercury gas inside, and mercury has its own lines. This is how astronomers find out what stars are made of. Picking 'broken' is a fair first thought, but the tubelight is working fine."
      }
     },
@@ -2653,11 +2660,11 @@
       "q": "It is 5 o'clock in the evening. The Sun is low in the west. Rain is falling. Which way should you look for a rainbow?",
       "options": [
        "West, towards the Sun",
-       "East, with the Sun behind you",
        "Straight up",
+       "East, with the Sun behind you",
        "Any way at all"
       ],
-      "a": 1,
+      "a": 2,
       "why": "You see a rainbow with the Sun behind you. In the evening the Sun is in the west, so you look east. Picking 'towards the Sun' is a common mistake. Remember the spray rainbow test: facing the Sun, there was no rainbow."
      }
     },
@@ -2705,11 +2712,11 @@
    "p": "What is white sunlight made of?",
    "opts": [
     "One colour, white",
-    "Many colours mixed together",
     "Only yellow",
+    "Many colours mixed together",
     "Heat only"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Sunlight is all the colours mixed. A prism or a drop spreads them apart. 'One colour, white' is how sunlight looks, not what it is.",
    "outcome": 0
   },
@@ -2717,12 +2724,12 @@
    "t": "mcq",
    "p": "What does a prism do to white light?",
    "opts": [
-    "Paints colours onto it",
     "Spreads apart the colours already in it",
+    "Paints colours onto it",
     "Makes it darker",
     "Turns it into heat"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Each colour bends by a different amount, so they spread apart. Picking 'paints colours' was an old idea. Newton showed a single colour does not change in a second prism.",
    "outcome": 1
   },
@@ -2753,11 +2760,11 @@
    "p": "Which colour bends the most in a prism or raindrop?",
    "opts": [
     "Red",
-    "Yellow",
     "Violet",
+    "Yellow",
     "All the same"
    ],
-   "a": 2,
+   "a": 1,
    "why": "Violet bends most. If all bent the same, there would be no rainbow. Picking red is common, because red is on top.",
    "outcome": 1
   },
@@ -2765,12 +2772,12 @@
    "t": "mcq",
    "p": "What happens to sunlight inside a raindrop to make a rainbow?",
    "opts": [
-    "It goes in, bends, bounces off the back and comes out split into colours",
     "It gets painted",
     "It stops",
-    "It turns into rain"
+    "It turns into rain",
+    "It goes in, bends, bounces off the back and comes out split into colours"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The light bends as it goes into the drop, bounces off the back, and bends again as it comes out. Each colour leaves at its own angle. Picking 'it stops' forgets that the light comes back out to your eye.",
    "outcome": 2
   },
@@ -2820,11 +2827,11 @@
    "p": "Which of these do scientists NOT know yet?",
    "opts": [
     "That sunlight is many colours",
-    "Whether your red looks the same to you as my red does to me",
     "That rainbows are made by raindrops",
-    "That violet bends more than red"
+    "That violet bends more than red",
+    "Whether your red looks the same to you as my red does to me"
    ],
-   "a": 1,
+   "a": 3,
    "why": "The other three are settled by experiments. What a colour feels like inside someone is still an open question.",
    "outcome": 6
   },
@@ -2832,12 +2839,12 @@
    "t": "mcq",
    "p": "A bee looks at a flower. What can a bee see that we cannot?",
    "opts": [
-    "Infrared heat",
     "Ultraviolet patterns",
+    "Infrared heat",
     "Nothing at all",
     "Radio waves"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Bees see ultraviolet, just past violet. Many flowers have ultraviolet patterns that guide bees to nectar. Picking 'infrared' mixes up the two ends of the rainbow.",
    "outcome": 7
   },
@@ -2845,12 +2852,12 @@
    "t": "mcq",
    "p": "How do astronomers know what stars are made of?",
    "opts": [
-    "They visit them",
     "They split starlight into a rainbow and read the lines, which are like atom fingerprints",
+    "They visit them",
     "They guess",
     "From the colour of the night sky"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Each kind of atom makes its own lines in a spectrum. Cecilia Payne used this in 1925 to show stars are mostly hydrogen and helium. Nobody can visit a star. Stars are much too far away and too hot.",
    "outcome": 7
   },
@@ -2858,12 +2865,12 @@
    "t": "mcq",
    "p": "You walk towards a rainbow over a field. What happens?",
    "opts": [
-    "The rainbow moves away as you move, so you never reach the end",
     "You reach the end and touch the colours",
     "The rainbow gets brighter and stays still",
-    "The rainbow turns white"
+    "The rainbow turns white",
+    "The rainbow moves away as you move, so you never reach the end"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Each drop sends each colour to one place. When you move, different drops make your rainbow, so the bow moves with you. Even a rainbow in a spray moves when you move.",
    "outcome": 2
   },
@@ -2872,12 +2879,25 @@
    "p": "You mix red, yellow, green and blue paint together in a cup. What colour do you get?",
    "opts": [
     "White, like sunlight",
-    "A dark, muddy brown",
     "A bright rainbow",
-    "Clear, like water"
+    "Clear, like water",
+    "A dark, muddy brown"
    ],
-   "a": 1,
+   "a": 3,
    "why": "Each paint's pigment absorbs some colours. Mixed together, they absorb nearly all of them, so very little light is reflected. Picking 'white' mixes up paint with light. Coloured lights add up to white, but paints do not.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "You spin a square card fast, and it looks round. Why?",
+   "opts": [
+    "The card really turned round",
+    "The square was painted round",
+    "Your eye blurs the moving corners together, so the edge looks like a circle",
+    "Spinning bends the square into a circle"
+   ],
+   "a": 2,
+   "why": "The corners move so fast that your eye blurs them into one smooth edge. The card stays square. 'The card really turned round' is a fair guess, but a square card still has four corners when it stops.",
    "outcome": 4
   }
  ],
@@ -3221,6 +3241,68 @@
    "used_in": [
     "p1"
    ]
+  },
+  {
+   "id": "b-a-magnetic-compass",
+   "item": "A magnetic compass",
+   "kind": "tool",
+   "why": "Used in The Rainbow Forecaster. About ₹30 to ₹150. A phone compass app also works.",
+   "url": "https://www.amazon.in/s?k=magnetic+compass+school",
+   "used_in": [
+    "c2"
+   ],
+   "plan": "Get it before The Rainbow Forecaster."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Biggest Rainbow Indoors. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before The Biggest Rainbow Indoors."
+  },
+  {
+   "id": "b-a-small-hand-mirror",
+   "item": "A small hand mirror",
+   "kind": "material",
+   "why": "Used in The Water Prism: do the colours ever change order?, Where Does Green End? Counting the colours, The Biggest Rainbow Indoors. About ₹20 to ₹80. A shiny steel plate shows reflections too.",
+   "url": "https://www.amazon.in/s?k=small+hand+mirror",
+   "used_in": [
+    "e1",
+    "a4",
+    "c1"
+   ],
+   "plan": "Get it before The Water Prism: do the colours ever change order?."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in The Biggest Rainbow Indoors, The Rainbow Forecaster. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "c1",
+    "c2"
+   ],
+   "plan": "Get it before The Biggest Rainbow Indoors."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

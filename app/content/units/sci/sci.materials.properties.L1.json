@@ -610,11 +610,11 @@
       "t": "mcq",
       "q": "Why did the zigzag bridge hold more coins?",
       "options": [
-       "Its folds made the paper stiff",
        "The coins were lighter",
-       "Zigzag paper is a different material"
+       "Zigzag paper is a different material",
+       "Its folds made the paper stiff"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The paper was the same material. Folding it into a zigzag changed its shape, and that made it stiff."
      }
     }
@@ -774,11 +774,11 @@
       "t": "mcq",
       "q": "Which surface would leave the plainest rubbing?",
       "options": [
-       "A smooth floor tile",
        "A rough doormat",
-       "A coconut shell"
+       "A coconut shell",
+       "A smooth floor tile"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A smooth surface has no bumps big enough to push up into the crayon, so the colour comes out plain."
      }
     }
@@ -849,13 +849,116 @@
       "t": "mcq",
       "q": "A steel spoon is stiff. A thin steel wire bends easily. Why?",
       "options": [
-       "The wire is much thinner",
        "The wire is made of cloth",
+       "The wire is much thinner",
        "The spoon is soft"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Both are steel. A thin piece of a material bends more easily than a thick piece."
      }
+    }
+   ]
+  },
+  {
+   "id": "old1",
+   "title": "The Knock Orchestra: what does each material sound like?",
+   "mins": 10,
+   "days": 1,
+   "context": "In this activity you knock on things made of different materials and listen. You will find out that materials sound different, and that soft materials soak up sound.",
+   "problem": "Every material has its own sound when you knock it. In this activity you listen to six materials, make a family rhythm, and find out which material quietens a phone alarm best.",
+   "materials": [
+    {
+     "item": "a steel spoon, to knock with",
+     "qty": 1
+    },
+    {
+     "item": "a steel tumbler or plate",
+     "qty": 1
+    },
+    {
+     "item": "a wooden spoon or a wooden board",
+     "qty": 1
+    },
+    {
+     "item": "a plastic box or bottle",
+     "qty": 1
+    },
+    {
+     "item": "a clay cup or small clay pot",
+     "qty": 1
+    },
+    {
+     "item": "a folded cloth or a cushion",
+     "qty": 1
+    },
+    {
+     "item": "a phone with an alarm sound",
+     "qty": 1
+    }
+   ],
+   "safety": "Knock gently. Do not knock a clay pot hard, in case it cracks.",
+   "record": "Write each material and one sound word beside it, such as ring, tok, clack, thud or almost nothing.",
+   "setup": [
+    {
+     "art": "Six objects in a row on a table: a steel tumbler, a wooden spoon, a plastic box, a clay cup, a folded cloth and a steel spoon.",
+     "caption": "1. Line up the six materials on a table."
+    },
+    {
+     "art": "A child knocking a steel tumbler with a steel spoon, ear tilted to listen.",
+     "caption": "2. Knock each one gently with the steel spoon and listen."
+    },
+    {
+     "art": "A phone playing an alarm placed under an upside-down steel tumbler, then under a thick folded cloth.",
+     "caption": "3. Cover a phone alarm with steel, then with cloth."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Lay the six objects in a row. 2. Your child knocks each one once, gently, with the steel spoon. 3. Your child says a sound word for each.",
+     "say": "Knock each one softly. Does it ring, tok, clack or make almost no sound? Which one is longest?",
+     "kid": "Knock each thing gently. Find a sound word for each one.",
+     "ask": [
+      {
+       "q": "Which material rang for the longest time?",
+       "good": [
+        "The steel one rang the longest.",
+        "The cloth made almost no sound."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s2",
+     "mins": 2,
+     "do": "Knock the cloth and then the steel. Ask your child which one soaked up the sound. Explain that to absorb means to soak up, like a sponge soaks up water.",
+     "say": "The cloth did not ring. It absorbed the knock. That means it soaked up the sound.",
+     "kid": "Which material made the least sound? That material absorbs sound. Absorb means soak up."
+    },
+    {
+     "id": "s3",
+     "mins": 2,
+     "do": "Make a family rhythm. Each person picks a material and knocks it in turn, four knocks each, to make one tune.",
+     "say": "Let us make a tune with all six materials. Each person picks one.",
+     "kid": "Pick a material. Knock your part of the family tune."
+    },
+    {
+     "id": "s4",
+     "mins": 3,
+     "do": "1. Play a phone alarm at a low volume on the table. 2. Turn the steel tumbler upside down over the phone and listen. 3. Take it off and cover the phone with the thick cloth. 4. Listen again.",
+     "say": "Which covering made the alarm quieter, steel or cloth? Why do you think so?",
+     "kid": "Cover the alarm with steel and then with cloth. Which one is quieter?",
+     "ask": [
+      {
+       "q": "Why is a cushion better than steel at making a room quiet?",
+       "good": [
+        "A soft thing soaks up sound.",
+        "A hard thing sends sound back, so it keeps ringing."
+       ]
+      }
+     ],
+     "parent": "If you cannot hear a difference, turn the volume up one step and try again. A thick cushion nearly always quietens the sound more than a thin cloth."
     }
    ]
   }
@@ -959,11 +1062,11 @@
       "t": "mcq",
       "q": "Which test tells you if a thing is rough?",
       "options": [
-       "Stroke it with your finger",
        "Shine a torch on it",
-       "Smell it"
+       "Smell it",
+       "Stroke it with your finger"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Your finger feels the bumps on a rough surface. A smooth surface feels flat and even."
      }
     }
@@ -1089,11 +1192,11 @@
       "t": "mcq",
       "q": "The clues are: hard, smooth, shiny. Which thing could it be?",
       "options": [
-       "A steel plate",
        "A cotton towel",
+       "A steel plate",
        "A doormat"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A steel plate is hard, smooth and shiny. A towel is soft and dull, and a doormat is rough."
      }
     }
@@ -1394,11 +1497,11 @@
      "t": "mcq",
      "p": "You smooth kitchen foil flat and see a blurry face in it. Then you crumple the foil into a ball. What will you see now?",
      "opts": [
-      "No face at all",
       "A clearer face",
+      "No face at all",
       "The same blurry face"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Crumpled foil has many bumps and folds. They send the light off in many directions, so no face comes back.",
      "how": "c1"
     },
@@ -1528,11 +1631,11 @@
      "t": "mcq",
      "p": "The sole of a chappal is rough underneath. Why is that useful?",
      "opts": [
-      "The bumps grip the floor, so your foot does not slip",
       "The bumps make the chappal shine",
-      "The bumps make the chappal lighter"
+      "The bumps make the chappal lighter",
+      "The bumps grip the floor, so your foot does not slip"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A rough surface has bumps that catch on the floor. A smooth sole slides more easily."
     },
     {
@@ -1621,11 +1724,11 @@
    "t": "mcq",
    "p": "What do we call words like hard, soft, rough and shiny?",
    "opts": [
-    "Properties",
     "Materials",
-    "Colours"
+    "Colours",
+    "Properties"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Properties tell us what a material is like. A material is what a thing is made of.",
    "outcome": 1
   },
@@ -1645,11 +1748,11 @@
    "t": "mcq",
    "p": "Why does a mirror shine?",
    "opts": [
-    "Its surface is very smooth",
     "It is soft",
+    "Its surface is very smooth",
     "It makes its own light"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A very smooth surface reflects light back in one direction. A mirror does not make light. In a dark room it does not shine.",
    "outcome": 2
   },
@@ -1669,11 +1772,11 @@
    "t": "mcq",
    "p": "Which of these is shiny but is NOT made of metal?",
    "opts": [
-    "A glass bottle",
     "A steel plate",
+    "A glass bottle",
     "A brass lamp"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Glass is very smooth, so it shines. Steel and brass are metals.",
    "outcome": 2
   },
@@ -1681,11 +1784,11 @@
    "t": "mcq",
    "p": "Cardboard boxes have a wavy layer of paper inside. Why?",
    "opts": [
-    "The waves make the card stiff",
     "The waves make the card shiny",
-    "The waves make the card softer"
+    "The waves make the card softer",
+    "The waves make the card stiff"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A wavy layer is like the zigzag paper bridge. The shape makes thin paper stiff.",
    "outcome": 3
   },
@@ -1880,7 +1983,66 @@
    "why": "A science museum with hands-on exhibits for children."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Gentle Bend: bendy or stiff?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before The Gentle Bend: bendy or stiff?."
+  },
+  {
+   "id": "b-a-small-hand-mirror",
+   "item": "A small hand mirror",
+   "kind": "material",
+   "why": "Used in The Torch Spot Test: which things are shiny, and why?. About ₹20 to ₹80. A shiny steel plate shows reflections too.",
+   "url": "https://www.amazon.in/s?k=small+hand+mirror",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before The Torch Spot Test: which things are shiny, and why?."
+  },
+  {
+   "id": "b-modelling-clay-or-plasticine",
+   "item": "Modelling clay or plasticine",
+   "kind": "material",
+   "why": "Used in The Knock Orchestra: what does each material sound like?. About ₹40 to ₹120. Atta dough mixed with a little salt works.",
+   "url": "https://www.amazon.in/s?k=modelling+clay+plasticine",
+   "used_in": [
+    "old1"
+   ],
+   "plan": "Get it before The Knock Orchestra: what does each material sound like?."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in A Mirror for a Doll. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before A Mirror for a Doll."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "Is a pillow hard or soft?",
@@ -2012,7 +2174,8 @@
    "videos",
    "open_questions",
    "roots",
-   "quiz"
+   "quiz",
+   "old1"
   ],
   "core": [
    "a1",

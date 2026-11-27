@@ -1,9 +1,9 @@
 # Animal babies: how they grow up, and how they are cared for
 `sci.animals.animal-babies.L2`
 
-**Summary.** Some baby animals walk soon after birth, and a human baby cannot. Why do some babies need so much more care? In this unit you will line up babies by how soon they walk, test which chick gets fed in a dark nest, and play a game of ready or needs help.
+**Summary.** Some baby animals walk soon after birth, and a human baby cannot. Why do some babies need so much more care? In this lesson you will line up babies by how soon they walk, test which chick gets fed in a dark nest, and play a game of ready or needs help.
 
-**Intro.** *Sparrow chicks live in a dark hole in a wall. When a parent flies in with food, how does the parent find the right place to put it?* Every animal starts small and grows into an adult. A calf can stand on the day she is born. A sparrow chick hatches with no feathers and shut eyes. A human baby cannot even sit up for months. Babies like these need someone to look after them. But babies are not only waiting to be cared for. They call, beg, cry and open their mouths wide. In this unit you find out how babies help their own care. You test it with a dark nest full of paper mouths.
+**Intro.** *Sparrow chicks live in a dark hole in a wall. When a parent flies in with food, how does the parent find the right place to put it?* Every animal starts small and grows into an adult. A calf can stand on the day she is born. A sparrow chick hatches with no feathers and shut eyes. A human baby cannot even sit up for months. Babies like these need someone to look after them. But babies are not only waiting to be cared for. They call, beg, cry and open their mouths wide. In this lesson you find out how babies help their own care. You test it with a dark nest full of paper mouths.
 
 ## Learning outcomes
 0. By the end I can say how young animals, including humans, change as they grow into adults.
@@ -97,8 +97,8 @@ We have learnt how young animals grow up, how they are cared for, and how they b
 
 Every animal alive today, including you, was once young. Many were fed by someone else. A sparrow chick's yellow mouth and the parent's search for that mouth work together: the food reaches the chick only when both do their part. A human baby's cry and a grandmother's arms work the same way. Every baby grows up among others who answer them.
 
-- **Mencius 2A:6:** “今人乍見孺子將入於井，皆有怵惕惻隱之心。 / 非所以內交於孺子之父母也，非所以要譽於鄉黨朋友也，非惡其聲而然也。” Mencius, a Chinese thinker, said that anyone who suddenly sees a small child about to fall into a well feels alarm and wants to help. Nobody has to teach them this feeling. (A carer answers a baby's signals quickly, often before thinking. In this unit, a parent sparrow flies to the open yellow mouth, and a grandmother turns to a crying baby.)
-- **Karaniya Metta Sutta, Sutta Nipata 1.8:** “Mātā yathā niyaṁ puttam / Āyusā ekaputtamanurakkhe; / Evampi sabbabhūtesu, / Mānasaṁ bhāvaye aparimāṇaṁ.” The Buddha taught: just as a mother protects her only child with her own life, so we should grow a boundless kindness towards all living beings. (In this unit, care is often shared beyond one parent: langur aunts, worker bee sisters and the many people around a human baby. The teaching asks us to stretch that care to every being.)
+- **Mencius 2A:6:** “今人乍見孺子將入於井，皆有怵惕惻隱之心。 / 非所以內交於孺子之父母也，非所以要譽於鄉黨朋友也，非惡其聲而然也。” Mencius, a Chinese thinker, said that anyone who suddenly sees a small child about to fall into a well feels alarm and wants to help. Nobody has to teach them this feeling. (A carer answers a baby's signals quickly, often before thinking. In this lesson, a parent sparrow flies to the open yellow mouth, and a grandmother turns to a crying baby.)
+- **Karaniya Metta Sutta, Sutta Nipata 1.8:** “Mātā yathā niyaṁ puttam / Āyusā ekaputtamanurakkhe; / Evampi sabbabhūtesu, / Mānasaṁ bhāvaye aparimāṇaṁ.” The Buddha taught: just as a mother protects her only child with her own life, so we should grow a boundless kindness towards all living beings. (In this lesson, care is often shared beyond one parent: langur aunts, worker bee sisters and the many people around a human baby. The teaching asks us to stretch that care to every being.)
 - Science (settled): In a 2003 study with great tits, scientists painted the chicks' mouths yellow or red. In dim nests, parents fed yellow-painted chicks more. In bright nests, the colour made no difference.
 - Science (debated): Why chick mouths are coloured is still argued about. In some birds the colour helps parents find the chicks, and in others the colour seems to show how hungry or healthy the chick is.
 - Other view, Many biologists who study animal behaviour: A parent bird feeding an open mouth is a fixed, automatic response to a signal, like a key opening a lock. In this view, neither chick nor parent needs to feel or decide anything for the feeding to happen.
@@ -455,31 +455,31 @@ Kavya drew one last picture in the notebook. It showed a dark hole, three yellow
    Options: Within about an hour of birth / After one month / After one year  
    **Answer:** Within about an hour of birth. *Why:* A calf stands within about an hour, so she can follow her mother.
 3. (mcq) What does a sparrow chick look like when they first hatch?  
-   Options: Covered in brown feathers / Almost bare, with shut eyes / Just like a small grown-up  
+   Options: Almost bare, with shut eyes / Covered in brown feathers / Just like a small grown-up  
    **Answer:** Almost bare, with shut eyes. *Why:* Sparrow chicks hatch almost bare and with shut eyes. They need their parents to feed them.
 4. (mcq) Which is a way a hen cares for her chicks?  
-   Options: She broods them under her wings to keep them warm / She leaves them alone on the first day / She feeds them milk  
+   Options: She leaves them alone on the first day / She broods them under her wings to keep them warm / She feeds them milk  
    **Answer:** She broods them under her wings to keep them warm. *Why:* A hen broods her chicks under her wings. Birds do not make milk.
 5. (mcq) Who helps a langur mother look after her baby?  
-   Options: Nobody / Other female langurs, who take turns holding the baby / Only crows  
+   Options: Other female langurs, who take turns holding the baby / Nobody / Only crows  
    **Answer:** Other female langurs, who take turns holding the baby. *Why:* Among langurs, other females take turns holding and carrying a new baby.
 6. (mcq) What does a hungry sparrow chick do when a parent lands at the nest?  
-   Options: Hides quietly / Stretches up, cheeps and opens a wide mouth / Flies away  
+   Options: Hides quietly / Flies away / Stretches up, cheeps and opens a wide mouth  
    **Answer:** Stretches up, cheeps and opens a wide mouth. *Why:* The chick begs. Begging tells the parent the chick is hungry and where to put the food.
 7. (mcq) How does a human baby help their own care?  
-   Options: By cooking / By crying, gripping and smiling / By walking to the kitchen  
+   Options: By crying, gripping and smiling / By cooking / By walking to the kitchen  
    **Answer:** By crying, gripping and smiling. *Why:* Babies cry when they need something, grip fingers and smile at faces. Carers answer these signals.
 8. (mcq) Paper chick mouths of different colours are laid in a dark box. A player puts chana on the mouths they find. Why should the mouths be mixed up before every round?  
    Options: So no colour is always in the best place / To make the game longer / So the chana do not roll  
    **Answer:** So no colour is always in the best place. *Why:* Mixing makes the test fair. If yellow was always in the middle, it might be found because of the place, not the colour.
 9. (mcq) In the Find the Hungry Mouth experiment, yellow mouths got 5 chana in all in dim light and black mouths got 1. What does that show?  
-   Options: Yellow mouths are easier to find in dim light / Black mouths are hungrier / The test did not work  
+   Options: Black mouths are hungrier / The test did not work / Yellow mouths are easier to find in dim light  
    **Answer:** Yellow mouths are easier to find in dim light. *Why:* The yellow mouths were found five times as often. In dim light, bright colours stand out against a dark nest.
 10. (mcq) Which of these is true about humans?  
    Options: Humans are not animals / Humans are animals whose young need care for many years / Human babies walk on the first day  
    **Answer:** Humans are animals whose young need care for many years. *Why:* Humans are animals, and mammals. Human babies need care for many years, longer than most animals.
 11. (mcq) About how long does a human take to grow up?  
-   Options: About two months / About two years / About eighteen years  
+   Options: About eighteen years / About two months / About two years  
    **Answer:** About eighteen years. *Why:* A human takes about 18 years to grow up. A mouse takes about two months and a cow about two years.
 
 ## Applications
@@ -489,11 +489,11 @@ Kavya drew one last picture in the notebook. It showed a dark hole, three yellow
 - Nature Forever Society, started by Mohammed Dilawar in Nashik, gives out nest boxes so that house sparrows have dark holes to raise their chicks in city buildings.
 
 ## Spotted around us
-- House sparrows carrying grass into a gap behind a meter box or an AC pipe in a building in Kochi or Pune.
-- A hen in a village or a backyard in Odisha, with chicks tucked under her wings.
-- Langur mothers and aunts on the walls of a temple in Hampi, passing a dark-faced baby between them.
-- A street dog in Hyderabad feeding her puppies under a parked car.
-- A baby on her grandmother's lap at a wedding in Chennai, gripping the grandmother's finger.
+- House sparrows carrying grass into a gap behind a meter box or an AC pipe.
+- A hen in a village or a backyard, with chicks tucked under her wings.
+- Langur mothers and aunts on a wall, passing a dark-faced baby between them.
+- A street dog feeding her puppies under a parked car.
+- A baby on her grandmother's lap at a wedding, gripping the grandmother's finger.
 
 ## Open questions
 - **Why do human children take so long to grow up?** Scientists have several ideas: big brains that take years to grow, a lot to learn, and many carers who share the work. They still argue about which matters most.
@@ -529,10 +529,13 @@ Feathers, Fur and Fins (sci.animals.L2): Topic-level song for Animals L2
 ## Links
 - [iNaturalist](https://www.inaturalist.org/) · interactive: For the parent: photograph a bird or animal with young from your window and find out their name.
 - [Nature Forever Society](https://www.natureforever.org/) · interactive: For the parent: how to put up a sparrow nest box on a balcony, and how to count sparrows.
-- [Sri Chamarajendra Zoological Gardens (Mysuru Zoo)]() · place · Mysuru: See animal mothers with young when there are babies, such as monkeys and deer.
-- [Alipore Zoological Gardens]() · place · Kolkata: An old zoo in the city where you can watch animal families.
+- Sri Chamarajendra Zoological Gardens (Mysuru Zoo) · place · Mysuru: See animal mothers with young when there are babies, such as monkeys and deer.
+- Alipore Zoological Gardens · place · Kolkata: An old zoo in the city where you can watch animal families.
 
 ## Things to buy
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Find the Hungry Mouth: which chick gets fed in a dark nest?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1. Get it before Find the Hungry Mouth: which chick gets fed in a dark nest?.
+- [A small toy car with free-rolling wheels](https://www.amazon.in/s?k=toy+car+pull+back+small) (material): Used in The Walking Line: how soon can each baby walk?, Who Grows Up Fastest? Baby to grown-up cards. About ₹100 to ₹200. A marble or a round torch cell works. Used in a1, a4. Get it before The Walking Line: how soon can each baby walk?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What do we call a baby cow? → A calf.

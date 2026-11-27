@@ -1,7 +1,7 @@
 # Why you pant when you run: how blood and breath deliver oxygen to every cell
 `sci.body.heart-blood-breath.L4`
 
-**Summary.** Why do you pant and feel your heart pound when you run? In this unit you will find your pulse and count your breaths, test what changes them, and watch how fast the pink comes back to cold fingers. You will also play a card game on pulse and breathing.
+**Summary.** Why do you pant and feel your heart pound when you run? In this lesson you will find your pulse and count your breaths, test what changes them, and watch how fast the pink comes back to cold fingers. You will also play a card game on pulse and breathing.
 
 **Intro.** *Sit still and count how many times you breathe in one minute. Then count how many times your heart beats. Which number is bigger, and by how much?* Most people find that their heart beats about four times for every breath. Now jump on the spot for one minute and count both again. Both numbers go up, and both go up together. Why would a heart and a pair of lungs, so far apart, speed up at the same moment?
 
@@ -37,7 +37,7 @@
 ### Pulse and breathing rate: two numbers you can count · *defined*
 **Definition:** Your pulse rate is the number of heartbeats in one minute. Your breathing rate is the number of breaths in one minute. Both change all day.
 
-Press two fingers, not your thumb, on the inside of your wrist and you feel a small push again and again. Each push is one heartbeat travelling along an artery. Count the pushes for 15 seconds and multiply by 4, and you have your pulse rate. To count breaths, watch a chest or a belly rise and fall for 15 seconds, and multiply by 4. A child of 6 to 10 sitting still has a pulse rate of about 70 to 110 beats per minute and a breathing rate of about 18 to 25 breaths per minute. A grown-up at rest has a slower pulse and slower breathing. A newborn baby has a much faster pulse and breathing. Heart rate and breathing rate are not fixed numbers. They change from moment to moment, depending on how hard your body is working.
+Press two fingers, not your thumb, on the inside of your wrist and you feel a small push again and again. Each push is one heartbeat travelling along an artery. Count the pushes for 15 seconds and multiply by 4, and you have your pulse rate. To count breaths, watch a chest or a belly rise and fall for 15 seconds, and multiply by 4. A child of 6 to 10 sitting still has a pulse rate of about 70 to 110 beats per minute and a breathing rate of about 18 to 25 breaths per minute. A grown-up at rest has a slower pulse and slower breathing. A newborn baby has a much faster pulse and breathing. Heart rate and breathing rate are not fixed numbers. They change from moment to moment, depending on how hard your body is working. An adult at rest breathes about 16 to 18 times a minute. Exercise, illness and fever all make breathing faster.
 - e.g. A child lying down has a lower pulse than the same child standing up.
 - e.g. After 30 step-ups, a child's pulse can double, and then falls back over a few minutes.
 - e.g. A sleeping person has one of the slowest pulses of the day.
@@ -528,7 +528,7 @@ That night the water ran along the edge of the barley field, soaking the dry gro
   - Think: What would you change to make your meter more exact?
 
 ## Worksheets
-### Pulse, Breath and Blood (core) (core, 17 questions)
+### Pulse, Breath and Blood (core) (core, 18 questions)
 1. (mcq) A child's pulse is counted for 15 seconds, and the count is 22 beats. What is the pulse per minute?  
    Options: 88 beats / 37 beats / 22 beats  
    **Answer:** 88 beats. *Why:* There are four 15-second spells in one minute. 22 times 4 is 88. If you chose 37, you added 15 to the count instead of multiplying.
@@ -540,21 +540,21 @@ That night the water ran along the edge of the barley field, soaking the dry gro
    Options: Oxygen / Only water / Carbon dioxide  
    **Answer:** Oxygen. *Why:* Red blood cells pick up oxygen in the lungs and let go of it in the rest of the body. Carbon dioxide travels the other way, mostly dissolved in the plasma.
 5. (mcq) Cells use food to get energy. What gas do they make as waste?  
-   Options: Carbon dioxide / Oxygen / Nitrogen  
+   Options: Oxygen / Carbon dioxide / Nitrogen  
    **Answer:** Carbon dioxide. *Why:* Cells use oxygen to release energy from sugar, and they give out carbon dioxide and water. The carbon dioxide travels in the blood back to the lungs.
 6. (match) Match each part of the blood to its job.  
    **Answer:** Red blood cell → carries oxygen; White blood cell → fights germs; Platelet → plugs a cut; Plasma → the pale liquid that carries cells and food; Haemoglobin → the red protein that holds oxygen. *Why:* Blood is a mix of liquid and different cells, and each one has its own job.
 7. (fill) Red blood cells are red because they are full of a red protein with iron in it, called ____.  
    **Answer:** ['haemoglobin', 'hemoglobin']. *Why:* Haemoglobin holds oxygen. It has iron at its centre, which is why the body needs iron in food.
 8. (mcq) Which blood vessels are so thin that red blood cells pass through them in single file?  
-   Options: Capillaries / Arteries / Veins  
+   Options: Arteries / Capillaries / Veins  
    **Answer:** Capillaries. *Why:* A capillary is only one cell thick, and it is narrow enough that red cells must go through one at a time. This lets oxygen cross easily into the cells around it.
 9. (order) Put these in order, to follow one oxygen molecule from the air to a muscle cell.  
    **Answer:** ['It is breathed in through the nose', 'It travels down the windpipe to the lungs', 'It crosses the thin wall of an alveolus into a capillary', 'It is carried to the heart by a red blood cell', 'It is pumped out of the heart to the leg muscle']. *Why:* Oxygen goes from the nose to the lungs, across into the blood, along to the heart, and out to the muscle.
 10. (truefalse) Blood in your veins is blue until it touches the air.  
    **Answer:** False. *Why:* False. Blood is always red. It is bright red with oxygen and dark red without much. Veins look blue because of the way light goes through skin.
 11. (mcq) Your pulse and your breathing both go up when you run. What is the best reason?  
-   Options: Your muscle cells need more oxygen and make more carbon dioxide / Your heart and lungs are tired / Your brain wants to cool the blood  
+   Options: Your heart and lungs are tired / Your brain wants to cool the blood / Your muscle cells need more oxygen and make more carbon dioxide  
    **Answer:** Your muscle cells need more oxygen and make more carbon dioxide. *Why:* Busy muscles use oxygen faster and make more carbon dioxide. The heart and lungs speed up to deliver the oxygen and clear the carbon dioxide.
 12. (sort) Is each job done by the right side or the left side of the heart?  
    **Answer:** sends blood to the lungs → Right side; sends blood to the whole body → Left side; has the thickest wall → Left side; receives blood coming back from the body → Right side; receives blood coming back from the lungs → Left side. *Why:* The right side sends blood a short way to the lungs. The left side sends it all the way round the body, so it needs the thicker wall.
@@ -567,14 +567,16 @@ That night the water ran along the edge of the barley field, soaking the dry gro
 16. (count) A child's heart beats 80 times a minute. How many times does it beat in 10 minutes?  
    **Answer:** 800. *Why:* 80 times 10 is 800. Multiplying by 10 puts a zero on the end.
 17. (mcq) You press a fingernail until it goes white, and the pink comes back slowly. What does this suggest?  
-   Options: Less blood is reaching the fingertip / The nail is growing / The finger has too much blood  
+   Options: The nail is growing / The finger has too much blood / Less blood is reaching the fingertip  
    **Answer:** Less blood is reaching the fingertip. *Why:* A white nail is a nail with the blood squeezed out. The pink returns when new blood arrives. If it comes back slowly, the blood is arriving slowly, as in cold fingers.
+18. (fill) A grown-up at rest breathes about ____ times a minute.  
+   **Answer:** ['16 to 18']. *Why:* A grown-up at rest takes about 16 to 18 breaths a minute. Exercise, illness and fever push the number higher.
 ### Surface, Signals and Other Bodies (stretch) (stretch, 16 questions)
 1. (mcq) Your lungs have hundreds of millions of tiny air bags and not one big bag. Why does this help?  
-   Options: It gives a huge surface for oxygen to cross into the blood / It makes the lungs lighter / It keeps the air warm  
+   Options: It makes the lungs lighter / It gives a huge surface for oxygen to cross into the blood / It keeps the air warm  
    **Answer:** It gives a huge surface for oxygen to cross into the blood. *Why:* Oxygen crosses the lung's thin wall, and the more wall there is, the more oxygen can cross each second. Many small bags have more surface than one big bag of the same volume.
 2. (mcq) A crushed sugar lump dissolves faster than a whole one. What does this tell you about why lungs fold into so many bags?  
-   Options: More surface means a faster swap / Small pieces are lighter / Warm water is better for powder  
+   Options: Small pieces are lighter / Warm water is better for powder / More surface means a faster swap  
    **Answer:** More surface means a faster swap. *Why:* A swap happens only where two things touch. Breaking something into many small pieces gives much more touching surface.
 3. (truefalse) The air you breathe out has no oxygen left in it.  
    **Answer:** False. *Why:* False. Breathed-out air still holds about 16 parts oxygen in 100. The body takes only about a quarter of the oxygen in each breath.
@@ -597,7 +599,7 @@ That night the water ran along the edge of the barley field, soaking the dry gro
 11. (perspective) Two children are arguing about what makes the heart speed up when you run.  
    **Answer:** Answers vary. A strong answer uses the test, for example that the pulse and breathing rose together and fell together, which suggests that the same thing was driving both. It also admits that the heart has a built-in pacemaker.. *Why:* The heart does have its own rhythm, and signals from outside change it. Seeing both sides is better than picking only one.
 12. (mcq) Why does the left side of the heart have a thicker wall than the right?  
-   Options: It pushes blood all the way round the body / It is bigger than the right / It is older than the right  
+   Options: It is bigger than the right / It is older than the right / It pushes blood all the way round the body  
    **Answer:** It pushes blood all the way round the body. *Why:* The right side sends blood a short way to the lungs. The left side must push blood through the whole body, so it needs stronger muscle.
 13. (count) A child's heart pushes out 45 millilitres of blood with each beat, and beats 80 times in a minute. How many millilitres of blood is that in one minute?  
    **Answer:** 3600. *Why:* 45 times 80 is 3,600. That is 3.6 litres, more than the 2 to 3 litres of blood in the child's whole body. So the same blood must go round more than once each minute.
@@ -622,28 +624,28 @@ That night the water ran along the edge of the barley field, soaking the dry gro
 5. (write) A mouse's heart beats about 600 times a minute and an elephant's about 30. Using the idea of cells that need oxygen, explain one reason for the difference.  
    **Answer:** A small body loses heat fast and each gram of a mouse uses oxygen much faster than a gram of an elephant. So a mouse's cells ask for oxygen at a faster rate, and the heart must deliver faster.. *Why:* A strong answer links the heart rate to how quickly the cells use oxygen, which depends on the size of the body.
 6. (mcq) An octopus has blue-green blood. What is the reason?  
-   Options: It carries oxygen with copper instead of iron / It has no oxygen in it / It is cold-blooded  
+   Options: It has no oxygen in it / It is cold-blooded / It carries oxygen with copper instead of iron  
    **Answer:** It carries oxygen with copper instead of iron. *Why:* The octopus's oxygen carrier has copper, and copper makes the blood bluish. Ours has iron, and iron makes blood red.
 7. (truefalse) In a tree, sugar and water are moved round by a heart.  
    **Answer:** False. *Why:* False. A tree has no heart. Water is pulled up by the loss of water from the leaves, and sugar moves down tubes from the leaves to the rest of the tree.
 8. (perspective) People have long said that feelings live in the heart.  
    **Answer:** Answers vary. A strong answer uses evidence, such as the heart-transplant fact or the racing heart in fear, and admits that each view has a point.. *Why:* Racing hearts are real, and brain damage changing feelings is real too. The question of where feelings live is still open.
 9. (mcq) Why do climbers rest for days partway up a high mountain before going higher?  
-   Options: The body needs time to make more red blood cells and adjust its breathing / The food is better at the lower camps / The air is warmer at the lower camps  
+   Options: The food is better at the lower camps / The body needs time to make more red blood cells and adjust its breathing / The air is warmer at the lower camps  
    **Answer:** The body needs time to make more red blood cells and adjust its breathing. *Why:* It takes days to weeks for the body to adjust to thin air. Going too fast can cause altitude sickness.
 10. (match) Match each tool to what it tells a doctor.  
    **Answer:** Stethoscope → lets the doctor listen to the heart and lungs; Pulse oximeter → shows how much of the haemoglobin is carrying oxygen; Haemoglobin test → shows how much haemoglobin is in the blood; ECG → records the heart's electrical signals; Spirometer → measures how much air a person can breathe out. *Why:* Each tool lets us see a different part of what the heart, blood and lungs are doing.
 11. (draw) A child's pulse after exercise was 138 at 0 minutes, 112 at 1 minute, 98 at 2 minutes, 90 at 3 minutes and 86 at 4 minutes. Draw a line graph of these.  
    **Answer:** A graph with minutes along the bottom from 0 to 4 and pulse up the side. The line starts high at 138 and drops steeply, then flattens out near 86.. *Why:* A line graph shows the fall in pulse and how it slows down. The steepest fall is in the first minute.
 12. (mcq) A pulse oximeter clipped to a finger shows 98 percent. What does this mean?  
-   Options: About 98 out of every 100 haemoglobin molecules are carrying oxygen / 98 percent of the air is oxygen / The pulse is 98 beats a minute  
+   Options: 98 percent of the air is oxygen / The pulse is 98 beats a minute / About 98 out of every 100 haemoglobin molecules are carrying oxygen  
    **Answer:** About 98 out of every 100 haemoglobin molecules are carrying oxygen. *Why:* A pulse oximeter shines light through the finger and measures how much of the haemoglobin is holding oxygen. It often shows the pulse in a separate number.
 13. (write) Plan a fair test of this question: do children who play sport every day recover their pulse faster than children who do not? Say what you would keep the same.  
    **Answer:** Test several children from each group. Have each do the same one minute of step-ups on the same step, and count the pulse every minute for four minutes. Keep the exercise, the time of day and the way of counting the same. Compare how long each group takes to return close to the resting pulse.. *Why:* A strong answer changes one thing, the sport habit, and keeps the rest the same, and uses more than one child from each group.
 14. (count) A red blood cell lives for about 120 days. About how many weeks is that, to the nearest whole week?  
    **Answer:** 17. *Why:* 120 divided by 7 is about 17.1. So a red blood cell lives about 17 weeks, a little over four months.
 15. (mcq) At 3,500 metres, each breath holds about two thirds as much oxygen as at sea level. Which could help the body get the same oxygen?  
-   Options: Breathing faster, pumping more blood and making more red blood cells / Breathing slower / Eating more salt  
+   Options: Breathing slower / Breathing faster, pumping more blood and making more red blood cells / Eating more salt  
    **Answer:** Breathing faster, pumping more blood and making more red blood cells. *Why:* Breathing faster brings in more air, pumping more blood moves the oxygen faster, and more red blood cells carry more oxygen on each trip. All three help.
 16. (order) Put these in order, to show how your body answers when you start to run.  
    **Answer:** ['Muscle cells use more oxygen and make more carbon dioxide', 'Sensors notice the carbon dioxide rising', 'The breathing and the pulse speed up', 'More oxygen reaches the muscle cells']. *Why:* First the muscle cells use more oxygen and make more carbon dioxide. Then sensors notice the carbon dioxide rising. The lungs and heart speed up, and more oxygen reaches the muscle cells.
@@ -667,16 +669,16 @@ That night the water ran along the edge of the barley field, soaking the dry gro
    Options: Haemoglobin, a red protein with iron in it / The salt in the blood / Air from the lungs  
    **Answer:** Haemoglobin, a red protein with iron in it. *Why:* Haemoglobin holds oxygen and is red. Blood is red whether or not the person has just breathed.
 5. (mcq) Which part of the heart pushes blood to the whole body?  
-   Options: The left side / The right side / Both sides do the same job  
+   Options: The right side / Both sides do the same job / The left side  
    **Answer:** The left side. *Why:* The right side sends blood to the lungs and the left side sends it to the whole body.
 6. (mcq) Why are the walls of the alveoli so thin?  
-   Options: So oxygen can pass through quickly into the blood / So the lungs are light / So the air stays inside  
+   Options: So the lungs are light / So oxygen can pass through quickly into the blood / So the air stays inside  
    **Answer:** So oxygen can pass through quickly into the blood. *Why:* A swap needs a thin wall. Oxygen crosses a wall that is only half a thousandth of a millimetre thick.
 7. (mcq) Which gas level in the blood mostly tells your body to breathe faster?  
-   Options: Carbon dioxide / Oxygen / Nitrogen  
+   Options: Oxygen / Nitrogen / Carbon dioxide  
    **Answer:** Carbon dioxide. *Why:* Rising carbon dioxide is the main signal. Falling oxygen matters later and only when it falls a long way.
 8. (mcq) Your fingers are white and cold after a swim. When you press a nail, the pink returns slowly. What is your body doing?  
-   Options: Sending less blood to the fingers to keep the middle of the body warm / Making more blood in the fingers / Stopping your heart  
+   Options: Making more blood in the fingers / Sending less blood to the fingers to keep the middle of the body warm / Stopping your heart  
    **Answer:** Sending less blood to the fingers to keep the middle of the body warm. *Why:* In the cold, the small vessels near the skin narrow. The blood stays near the heart and the other organs that must stay warm.
 9. (mcq) Which of these would give the lowest pulse?  
    Options: Sleeping soundly / Standing in a queue / Reading a book  
@@ -688,8 +690,11 @@ That night the water ran along the edge of the barley field, soaking the dry gro
    Options: Each breath of thin air holds less oxygen / Leh is hotter / The visitor is afraid  
    **Answer:** Each breath of thin air holds less oxygen. *Why:* At 3,500 metres each breath holds about two thirds as much oxygen as at sea level. Breathing faster brings in more air.
 12. (mcq) A nurse takes blood from a vein in your arm. What colour is the blood in the syringe?  
-   Options: Dark red / Blue / Bright yellow  
+   Options: Blue / Bright yellow / Dark red  
    **Answer:** Dark red. *Why:* Blood is always red. Blood from a vein has given up some oxygen, so it is dark red.
+13. (mcq) Which of these makes a person breathe faster than usual?  
+   Options: A fever / Sitting still in a cool room / A long, quiet sleep  
+   **Answer:** A fever. *Why:* A fever, an illness or exercise all make the breathing faster, because the body is working harder or fighting an illness. Sitting still in a cool room and sleeping quietly both slow the breathing down.
 
 ## Applications
 - Doctors count the pulse and breathing rate of every patient, because the two numbers show quickly how the body is coping.
@@ -768,6 +773,11 @@ Beat and Breath (sci.body.L4): Topic-level song
 - [A simple sports stopwatch](https://www.amazon.in/s?k=sports+stopwatch) (tool): To count 15 seconds without holding a phone. Any phone or kitchen clock with a stopwatch also works. Used in e1, e2, e3, a1, a2, a5, a6, p1. 
 - [A small box of plain white sugar cubes](https://www.amazon.in/s?k=sugar+cubes) (material): For the Big Surface test. Sugar cubes are sold at most grocery shops for about Rs 40 to 80. Rock sugar (mishri) also works but dissolves much more slowly, so the times are longer. Used in e3. 
 - [A strong magnet, such as a ceramic or neodymium block](https://www.amazon.in/s?k=strong+neodymium+magnet) (tool): For the iron-in-cereal activity. A fridge magnet is too weak, so the magnet must be a strong one, such as a neodymium magnet, which is sold at hardware and electronics shops and online, or one taken from an old loudspeaker. Keep strong magnets away from small children and from phones and cards. If you cannot find one, skip the activity. Used in a3. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Family Pulse Study: a pulse for every age, The Tummy Lever: count breaths without anyone noticing. About ₹10 to ₹30. Any school ruler is fine. Used in p1, c1. Get it before The Family Pulse Study: a pulse for every age.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in The Tummy Lever: count breaths without anyone noticing. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in c1. Get it before The Tummy Lever: count breaths without anyone noticing.
+- [A measuring jug or syringe (marked in millilitres)](https://www.amazon.in/s?k=measuring+jug+500+ml) (tool): Used in Big Surface, Fast Swap: why are lungs so wide?. About ₹30 to ₹100. A clean medicine cup or marked bottle works. Used in e3. Get it before Big Surface, Fast Swap: why are lungs so wide?.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in The Family Pulse Study: a pulse for every age. About ₹10 to ₹30. Draw squares on plain paper. Used in p1. Get it before The Family Pulse Study: a pulse for every age.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - How do you find your pulse? → Rest two fingers, not the thumb, on the inside of the wrist and count the pushes.
@@ -788,7 +798,7 @@ Beat and Breath (sci.body.L4): Topic-level song
 ## Sources
 - Founder's notes in ideas/by_topic/body-parts-and-skeleton.md: the Pulse Party idea (dance for 30 seconds, check the pulse, breathe down) and the Cooling Cloud breathing, used for the Pulse Detective test and the calm and scary story activity
 - DeepKids notebook items bio:21 and bio:22 (the heart, blood and breathing)
-- The Class 3 unit on the heart, blood and breath, which this unit builds on. Pulse counting goes further here, and the experiments are new
+- The Class 3 unit on the heart, blood and breath, which this lesson builds on. Pulse counting goes further here, and the experiments are new
 - Fleming, S. and others, Normal ranges of heart rate and respiratory rate in children from birth to 18 years, The Lancet 377, 2011
 - Lavoisier, A. and Laplace, P., Memoire sur la chaleur, 1783 (the guinea pig and ice experiment)
 - Lavoisier, A. and Seguin, A., experiments on the respiration of a man at rest and at work, 1789 to 1790

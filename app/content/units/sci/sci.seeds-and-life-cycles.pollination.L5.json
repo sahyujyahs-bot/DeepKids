@@ -96,6 +96,18 @@
    "art": "An ovary cut open to show a row of tiny pale grains on short stalks."
   },
   {
+   "term": "Bisexual flower",
+   "meaning": "A flower that has both stamens and carpels.",
+   "example": "A hibiscus is bisexual. It has stamens that make pollen and carpels that hold ovules, in one flower.",
+   "art": "A hibiscus cut in half, with the stamen tube and the carpels both labelled."
+  },
+  {
+   "term": "Unisexual flower",
+   "meaning": "A flower that has only stamens or only carpels, not both.",
+   "example": "A pumpkin vine has some flowers with only stamens and others with only carpels. Each one is unisexual.",
+   "art": "Two pumpkin flowers side by side, one with only a stamen in the middle and one with a small round ovary below the petals."
+  },
+  {
    "term": "Nectar",
    "meaning": "A sugary liquid that many flowers make. Animals visit flowers to drink nectar, and they carry pollen away on their bodies.",
    "example": "Pull out an ixora flower and you find a drop of sweet nectar at the base of the thin tube.",
@@ -148,6 +160,12 @@
    "meaning": "The part of a plant that grows from the ovary of a flower and holds the seeds.",
    "example": "A mango, a bhindi, a pea pod, a tomato and a grain of paddy are all fruits.",
    "art": "A mango, a bhindi, a pea pod and a tomato in a row, each cut open to show the seeds."
+  },
+  {
+   "term": "Seed dispersal",
+   "meaning": "The carrying of seeds away from the plant that made them, by animals, wind or water.",
+   "example": "A bird eats a ripe fig and drops the seeds far from the tree. This carries the seeds away.",
+   "art": "A bird flying away from a fig tree with a small fig seed falling from its beak onto a distant wall."
   }
  ],
  "explanations": [
@@ -155,7 +173,7 @@
    "concept": "The four rings of a flower",
    "status": "defined",
    "definition": "A complete flower has four rings of parts, one inside the other. From the outside in, they are the sepals, the petals, the stamens and the carpels.",
-   "description": "Look at a flower from the outside in. The outer ring is the sepals. They are usually green, and they cover the bud before the flower opens. The second ring is the petals. Petals are often large and coloured, and many have a scent. They help animal visitors find the flower. The third ring is the stamens, which are the male parts. Each stamen makes pollen. In the middle are the carpels, which are the female part. The carpels hold the ovules, and the ovules can become seeds. The number of parts in each ring is often the same, or one number is a multiple of the other. A hibiscus has 5 sepals, 5 petals and 5 carpels. A mustard flower has 4 sepals, 4 petals and 6 stamens. Not every flower has all four rings. A paddy flower has no petals. A pumpkin vine makes some flowers with only stamens and other flowers with only carpels.",
+   "description": "Look at a flower from the outside in. The outer ring is the sepals. They are usually green, and they cover the bud before the flower opens. The second ring is the petals. Petals are often large and coloured, and many have a scent. They help animal visitors find the flower. The third ring is the stamens, which are the male parts. Each stamen makes pollen. In the middle are the carpels, which are the female part. The carpels hold the ovules, and the ovules can become seeds. The number of parts in each ring is often the same, or one number is a multiple of the other. A hibiscus has 5 sepals, 5 petals and 5 carpels. A mustard flower has 4 sepals, 4 petals and 6 stamens. Not every flower has all four rings. A paddy flower has no petals. A pumpkin vine makes some flowers with only stamens and other flowers with only carpels. A flower that has both stamens and carpels is called bisexual. Hibiscus, mustard and tuberose flowers are bisexual. A flower that has only stamens, or only carpels, is called unisexual. The pumpkin flowers above are unisexual, and so are cucumber flowers and most papaya flowers. A maize plant keeps its unisexual flowers apart: the male flowers are in the tassel at the top, and the female flowers are on the cob below.",
    "examples": [
     "A hibiscus has 5 sepals and 5 petals. It has more than 50 stamens joined in a tube, and 5 carpels joined together.",
     "A mustard flower has 4 sepals and 4 yellow petals, which make a cross. It has 6 stamens and 1 long, thin ovary.",
@@ -306,6 +324,20 @@
    ],
    "perspectives": [],
    "art": "The Sun shining on a leaf, an arrow from the leaf to a drop of nectar in a flower, and an arrow from the nectar to a bee in flight carrying pollen."
+  },
+  {
+   "concept": "Animals help plants, and plants help animals",
+   "status": "defined",
+   "context": "What does a plant get from animals, and what does it give back? This card explains the help that goes both ways.",
+   "definition": "Many animals carry pollen or seeds for plants. The plants pay them with food, such as nectar and fruit.",
+   "description": "A bee drinks the nectar of a flower and carries pollen on her body to the next flower. The flower gets its seeds, and the bee gets her food. The help does not stop when the flower becomes a fruit. A ripe guava or a red peepal fig is soft, sweet and easy to see. Birds, bats and squirrels eat it. Many of the seeds pass through a bird's body whole, and fall to the ground far from the mother tree. There they land in droppings that feed them. Some seeds do not wait to be eaten. Hooked seeds of some wild grasses cling to the fur of a goat or a dog, and drop off far away. A squirrel buries nuts for the winter and forgets some, and they grow. Carrying seeds away helps the young plants, because they do not have to share light and water with their mother. The animals are not servants. Each side gets something it needs.",
+   "examples": [
+    "A bulbul eats peepal figs and drops the seeds on a wall or a roof, where a new peepal tree may start to grow in a crack.",
+    "A bee gets nectar from a mustard flower, and the mustard flower gets pollen carried to another flower.",
+    "A dog comes home from a walk with hooked grass seeds in its fur. They fall off a long way from where they grew."
+   ],
+   "perspectives": [],
+   "art": "Three small pictures: a bee at a flower with pollen on her legs, a bird eating a red fig on a branch, and a goat walking away with a hooked seed stuck in its coat."
   },
   {
    "concept": "Does a plant choose which pollen fertilises the ovules?",
@@ -473,7 +505,9 @@
     "source": "Tao Te Ching 42",
     "teaching": "Laozi says that the Tao gives birth to One, and One gives birth to Two. Two gives birth to Three, and Three gives birth to all things.",
     "link": "In fertilisation, two cells from two parents join and make a third being, a new plant. All the cells of a banyan tree come from that one cell. Laozi was writing about the whole world, long before anyone saw a pollen tube. The verse and the science share a pattern, and the science does not prove the verse.",
-    "verse": ["道生一，一生二，二生三，三生萬物。"],
+    "verse": [
+     "道生一，一生二，二生三，三生萬物。"
+    ],
     "verse_lang": "zh"
    },
    {
@@ -1800,11 +1834,11 @@
       "t": "mcq",
       "q": "A flower is white, opens in the evening and has a strong scent at night. Who most likely carries the pollen?",
       "options": [
-       "Moths",
        "The wind",
-       "Sunbirds"
+       "Sunbirds",
+       "Moths"
       ],
-      "a": 0,
+      "a": 2,
       "why": "White shows up in dim light, and a strong scent at night guides moths, who fly then. A wind flower has no need of scent. Sunbirds feed by day and find flowers mostly by colour."
      },
      "context": "This is the last step of Wind or Visitor. You check your sorting and look at the flower that uses both ways."
@@ -1993,11 +2027,11 @@
       "t": "mcq",
       "q": "A sunflower head makes about 1,000 seeds. What does that tell you about the head?",
       "options": [
-       "It held about 1,000 small flowers",
        "It had about 1,000 petals",
-       "It had one very large ovary"
+       "It had one very large ovary",
+       "It held about 1,000 small flowers"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Each sunflower seed grows from the ovary of one small flower in the head. About 1,000 seeds mean about 1,000 small flowers. Choosing one large ovary treats the head as a single flower."
      },
      "context": "This is the last step of the Marigold Count. You decide whether each piece of a marigold is a petal or a whole small flower."
@@ -2470,12 +2504,12 @@
      "t": "mcq",
      "p": "What is pollination?",
      "opts": [
-      "Pollen carried from an anther to a stigma",
       "A male cell joining an egg cell",
       "A seed starting to grow",
+      "Pollen carried from an anther to a stigma",
       "A ripe fruit falling off"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Pollination is the journey of pollen from an anther to a stigma of the same kind of plant. A male cell joining an egg cell is fertilisation, which comes afterwards."
     },
     {
@@ -2571,12 +2605,12 @@
      "t": "mcq",
      "p": "Which of these is a fruit to a botanist?",
      "opts": [
-      "Bhindi",
       "Potato",
       "Carrot",
+      "Bhindi",
       "Cabbage leaf"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A bhindi grew from the ovary of a flower and holds seeds, so it is a fruit. A potato is a stem, a carrot is a root, and cabbage is leaves."
     },
     {
@@ -2585,6 +2619,42 @@
      "a": "The pod is drawn open, with 5 full seeds and 2 tiny grains on short stalks along the seam. The sepals are the green cap at the stalk end.",
      "why": "A strong drawing shows every seed and every empty place on a stalk, because each began as an ovule.",
      "art": "A blank outline of an open pea pod with a stalk at one end and a point at the other."
+    },
+    {
+     "t": "sort",
+     "p": "Sort these flowers: bisexual or unisexual?",
+     "a": "see items",
+     "why": "A bisexual flower has both stamens and carpels. A unisexual flower has only one of them. A strong answer says what is in the flower for each one.",
+     "cats": [
+      "Bisexual",
+      "Unisexual"
+     ],
+     "items": [
+      [
+       "hibiscus flower",
+       "Bisexual"
+      ],
+      [
+       "mustard flower",
+       "Bisexual"
+      ],
+      [
+       "pumpkin flower with only stamens",
+       "Unisexual"
+      ],
+      [
+       "maize cob flower with silks",
+       "Unisexual"
+      ],
+      [
+       "tuberose flower",
+       "Bisexual"
+      ],
+      [
+       "maize tassel flower",
+       "Unisexual"
+      ]
+     ]
     }
    ]
   },
@@ -2661,12 +2731,12 @@
      "t": "mcq",
      "p": "A flower is red, with a lot of thin nectar and almost no scent. Who most likely pollinates it?",
      "opts": [
-      "Birds",
       "Moths",
+      "Birds",
       "The wind",
       "Nobody"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Birds see red well, drink a lot of nectar and find flowers mostly by sight. Moths are guided by scent at night, and wind flowers have no nectar at all."
     },
     {
@@ -2698,12 +2768,12 @@
      "t": "mcq",
      "p": "What were the dry brown threads at the tip of a maize cob, when the cob was young?",
      "opts": [
-      "Styles",
       "Roots",
       "Petals",
+      "Styles",
       "Stamens"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Each thread is a silk, which is the style of one ovule. Pollen lands on the silk, and a pollen tube grows down it to the ovule."
     },
     {
@@ -2758,12 +2828,12 @@
      "t": "mcq",
      "p": "A banana has tiny dark specks in the middle, and no seeds. What are the specks?",
      "opts": [
-      "Ovules that never grew",
       "Pollen grains",
       "Tiny embryos",
-      "Bits of soil"
+      "Bits of soil",
+      "Ovules that never grew"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The bananas we eat grow without fertilisation. The ovules stay tiny and turn dark. Wild bananas, which are fertilised, are full of hard seeds."
     },
     {
@@ -2803,6 +2873,30 @@
      "a": "The wind flower has no bright petals, anthers hanging out on long filaments, and feathery stigmas. The insect flower has bright petals, nectar, and a sticky stigma inside the flower.",
      "why": "A strong drawing shows a reason for each difference: what helps pollen leave on the wind, and what brings a visitor.",
      "art": "Two blank boxes side by side, headed Wind and Insect."
+    },
+    {
+     "t": "match",
+     "p": "Match each living being to what it carries for a plant, and what it gets.",
+     "a": "pairs as given",
+     "why": "Animals help plants by carrying pollen or seeds. Plants pay with food, or the carrying costs the animal nothing. A strong answer says whether the animal gets something or not.",
+     "pairs": [
+      [
+       "A bee at a flower",
+       "carries pollen, and gets nectar"
+      ],
+      [
+       "A bird eating a peepal fig",
+       "carries seeds, and gets food"
+      ],
+      [
+       "A goat with hooked grass seeds in its fur",
+       "carries seeds, and gets nothing"
+      ],
+      [
+       "A squirrel burying nuts",
+       "plants some nuts by forgetting them"
+      ]
+     ]
     }
    ]
   },
@@ -2871,12 +2965,12 @@
      "t": "mcq",
      "p": "Pollen from a hibiscus lands on the stigma of a pumpkin flower. What most likely happens?",
      "opts": [
-      "No tube reaches the ovules",
       "A hibiscus fruit grows on the vine",
       "Pumpkin seeds form as usual",
+      "No tube reaches the ovules",
       "The pumpkin flower turns red"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Pollen must be of the same kind of plant. Pollen of another kind usually grows no tube, or the tube stops in the style. Without fertilisation, no seeds form."
     },
     {
@@ -2908,12 +3002,12 @@
      "t": "mcq",
      "p": "In a pine, pollen lands right beside an open ovule. What is different in a flowering plant?",
      "opts": [
-      "The ovules are sealed inside an ovary",
       "There is no pollen",
       "There are no ovules",
+      "The ovules are sealed inside an ovary",
       "Seeds form without fertilisation"
      ],
-     "a": 0,
+     "a": 2,
      "why": "In a flowering plant the ovules are shut inside the carpel. Pollen lands on the stigma outside, and must grow a tube through the style to reach an ovule."
     },
     {
@@ -3028,12 +3122,12 @@
    "t": "mcq",
    "p": "Which part of a flower makes pollen?",
    "opts": [
-    "The anther",
     "The stigma",
+    "The anther",
     "The ovary",
     "The sepal"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The anther is the head of a stamen, and pollen forms inside it. The stigma catches pollen but does not make it.",
    "outcome": 0
   },
@@ -3041,12 +3135,12 @@
    "t": "mcq",
    "p": "Which three parts make up a carpel?",
    "opts": [
-    "Stigma, style and ovary",
     "Anther, filament and pollen",
     "Sepal, petal and stamen",
-    "Ovule, seed and fruit"
+    "Ovule, seed and fruit",
+    "Stigma, style and ovary"
    ],
-   "a": 0,
+   "a": 3,
    "why": "A carpel has a stigma on top, a style in the middle and an ovary at the base. The anther and filament make up a stamen.",
    "outcome": 0
   },
@@ -3054,12 +3148,12 @@
    "t": "mcq",
    "p": "What is the main job of the sepals?",
    "opts": [
-    "To cover the bud",
     "To make pollen",
+    "To cover the bud",
     "To catch pollen",
     "To hold the ovules"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The sepals wrap the bud before the flower opens. Pollen is made by the anthers and caught by the stigma, and the ovary holds the ovules.",
    "outcome": 1
   },
@@ -3106,12 +3200,12 @@
    "t": "mcq",
    "p": "Where does fertilisation happen?",
    "opts": [
-    "Inside an ovule",
     "On the stigma",
     "In the anther",
+    "Inside an ovule",
     "On a petal"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The egg cell is inside the ovule, in the ovary. The pollen lands on the stigma, but the cells join only when the tube reaches the ovule.",
    "outcome": 4
   },
@@ -3132,12 +3226,12 @@
    "t": "mcq",
    "p": "The green star on top of a tomato grew from which part of the flower?",
    "opts": [
-    "The sepals",
     "The petals",
     "The stamens",
-    "The ovules"
+    "The ovules",
+    "The sepals"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The sepals often stay on the fruit after the petals and stamens have fallen. The tomato below them grew from the ovary.",
    "outcome": 5
   },
@@ -3158,12 +3252,12 @@
    "t": "mcq",
    "p": "A maize cob has a bare patch with no kernels. What is the most likely reason?",
    "opts": [
-    "The silks there caught no pollen",
     "The plant had too much sun",
+    "The silks there caught no pollen",
     "The cob had no ovules there",
     "The kernels there ripened early"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Each kernel has one silk, and grows only if that silk catches a pollen grain. The bare patch had ovules and silks, but no pollen reached them.",
    "outcome": 6
   },
@@ -3180,6 +3274,30 @@
    "why": "Pods differ from each other. One pod might be full, or half empty, by chance. Counting 20 shows what usually happens.",
    "outcome": 7,
    "how": "e1"
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these flowers is bisexual?",
+   "opts": [
+    "A pumpkin flower with only stamens",
+    "A hibiscus, with stamens and carpels in one flower",
+    "A papaya flower with only carpels"
+   ],
+   "a": 1,
+   "why": "Bisexual means that one flower has both stamens and carpels. A flower with only one of them is unisexual, like the pumpkin flower with only stamens and the papaya flower with only carpels.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "A bulbul eats a ripe peepal fig and later drops the seeds on a roof, far from the tree. What did the bird do for the tree, and what did it get?",
+   "opts": [
+    "It carried the seeds away, and got food",
+    "It carried pollen, and got nectar",
+    "It kept the seeds safe, and got nothing"
+   ],
+   "a": 0,
+   "why": "The seeds passed through the bird's body and fell far from the tree, so the bird carried them away. The fig paid the bird with food. Carrying pollen is the job of a flower visitor, not of a bird that eats a ripe fruit.",
+   "outcome": 2
   }
  ],
  "videos": [
@@ -3444,6 +3562,48 @@
    "used_in": [
     "p1"
    ]
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Pollen Rain Test: how much wind-blown pollen lands on a small stigma and on a big one?, The Hidden Journey: draw how a pollen grain reaches an ovule, The Pollen Catcher: build a stigma that catches more of the pollen rain. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e2",
+    "a3",
+    "c1"
+   ],
+   "plan": "Get it before The Pollen Rain Test: how much wind-blown pollen lands on a small stigma and on a big one?."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in The Empty Places Test: does every ovule in a pod become a seed?, The Pollen Rain Test: how much wind-blown pollen lands on a small stigma and on a big one?, The Bag Test: does this plant need a visitor to make fruit? (if you have a plant in flower). Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "e1",
+    "e2",
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before The Empty Places Test: does every ovule in a pod become a seed?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

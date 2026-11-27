@@ -1,9 +1,9 @@
 # Who cares for the young? Sexual selection, family systems and fathers who carry the eggs
 `sci.animals.courtship-and-mates.L5`
 
-**Summary.** On a lotus pond in India, the bird sitting on the eggs is the father, and a seahorse father carries the eggs in a pouch. Who looks after the young, and why? In this unit you will guess first, run the Warm Egg Test with steel tumblers of warm water, and play a game.
+**Summary.** On a lotus pond in India, the bird sitting on the eggs is the father, and a seahorse father carries the eggs in a pouch. Who looks after the young, and why? In this lesson you will guess first, run the Warm Egg Test with steel tumblers of warm water, and play a game.
 
-**Intro.** *A seahorse mother places her eggs in a pouch on the father's belly. He carries them for weeks, and then he gives birth. On Indian ponds, a jacana father sits on the eggs alone. Why does the father do the caring in some animals, and the mother in others?* Animals raise their young in many ways. Two pigeons share one nest and take turns. One male elephant seal lives with dozens of females and looks after no pups at all. A turtle mother buries her eggs and never sees them hatch. In this unit you first guess who looks after the young in eight animal families. Then you test, with warm water in steel tumblers, what an egg needs from the ones who sit on it. The result explains a lot about bird families. After that you meet the idea that explains the rest. It is called sexual selection.
+**Intro.** *A seahorse mother places her eggs in a pouch on the father's belly. He carries them for weeks, and then he gives birth. On Indian ponds, a jacana father sits on the eggs alone. Why does the father do the caring in some animals, and the mother in others?* Animals raise their young in many ways. Two pigeons share one nest and take turns. One male elephant seal lives with dozens of females and looks after no pups at all. A turtle mother buries her eggs and never sees them hatch. In this lesson you first guess who looks after the young in eight animal families. Then you test, with warm water in steel tumblers, what an egg needs from the ones who sit on it. The result explains a lot about bird families. After that you meet the idea that explains the rest. It is called sexual selection.
 
 ## Learning outcomes
 0. I can say what makes an animal female or male: the size of the sex cells they make.
@@ -155,7 +155,7 @@ Because female and male are defined by sex cells, an animal's sex can be less fi
 - e.g. A clownfish who is a father this year may be a mother next year.
 - e.g. People who protect turtle nests on Chennai's beaches sometimes measure the warmth of the sand.
 ### Does the size of the sex cells decide the roles? · *debated*
-Scientists agree on what female and male mean. They disagree on how much follows from it. One side says the size of the sex cells pushes females and males in different directions in nearly all animals. Females start out having spent more on each young, so they tend to care and to choose, and males tend to compete. In 2016 Tim Janicke and his team put together 72 studies of 66 kinds of animals. On average, competition for partners was stronger among males. The other side says the push is weak, and that surroundings decide most of it. Hanna Kokko and Michael Jennions pointed out in 2008 that having spent more in the past is no reason, in itself, to spend more in future. They say care goes to whoever gains most by giving it, and that depends on things such as how many partners are free and how sure a parent is of being the parent. Patricia Gowaty showed in 2012 that a famous experiment behind the first view had a flaw. Both sides accept the facts in this unit. They differ on how strong the pull of the sex cells is.
+Scientists agree on what female and male mean. They disagree on how much follows from it. One side says the size of the sex cells pushes females and males in different directions in nearly all animals. Females start out having spent more on each young, so they tend to care and to choose, and males tend to compete. In 2016 Tim Janicke and his team put together 72 studies of 66 kinds of animals. On average, competition for partners was stronger among males. The other side says the push is weak, and that surroundings decide most of it. Hanna Kokko and Michael Jennions pointed out in 2008 that having spent more in the past is no reason, in itself, to spend more in future. They say care goes to whoever gains most by giving it, and that depends on things such as how many partners are free and how sure a parent is of being the parent. Patricia Gowaty showed in 2012 that a famous experiment behind the first view had a flaw. Both sides accept the facts in this lesson. They differ on how strong the pull of the sex cells is.
 - e.g. For the first view: in most kinds of mammals, mothers do the caring and males compete.
 - e.g. For the second view: jacanas, seahorses and hyenas have the same two sizes of sex cell as cows, yet they have very different roles.
 - **Tim Janicke and his team, 2016:** Across 66 kinds of animals, competition for partners was on average stronger in males. The size of the sex cells sets a pattern, and surroundings can strengthen or weaken it.
@@ -205,7 +205,7 @@ In the Warm Egg Test you found out what an egg loses each time the sitter leaves
 - *what is life:* No life goes on to the next generation unless someone gives up part of their own energy for the young. Different animals share out that giving in different ways.
 - *what is this world:* The world has no single correct family. A pond, a beach, a tree hollow and a herd each led to a different one.
 
-The first living beings that mixed their instructions made sex cells of one size. From that one kind came two kinds, large and small. From those two kinds came every family in this unit: the pair of pigeons, the seal harem, the jacana mother with four mates, the seahorse father with a pouch and the elephant grandmother. They look very different. Under each of them are the same two cells and the same need, which is that someone must spend energy on the young.
+The first living beings that mixed their instructions made sex cells of one size. From that one kind came two kinds, large and small. From those two kinds came every family in this lesson: the pair of pigeons, the seal harem, the jacana mother with four mates, the seahorse father with a pouch and the elephant grandmother. They look very different. Under each of them are the same two cells and the same need, which is that someone must spend energy on the young.
 
 - **Brihadaranyaka Upanishad 1.4.3:** “स वै नैव रेमे । तस्मादेकाकी न रमते । स द्वितीयमैच्छत्। / स हैतावानास यथा स्त्रीपुमांसौ सम्परिष्वक्तौ । स इममेवात्मानं द्वेधापातयत्। / ततः पतिश्च पत्नी चाभवताम्” As paraphrased: in the beginning the Self was alone, and was as large as a woman and a man holding each other. The Self divided into two, and from the two halves came wife and husband. (The Upanishad says female and male came from one being who was both. Science says the two sizes of sex cell came from one earlier size. The two accounts are different kinds of statement, but both begin with one and arrive at two.)
 - **Tao Te Ching 28:** “知其雄，守其雌，為天下谿。 / 為天下谿，常德不離，復歸於嬰兒。” As paraphrased: know the male, but keep to the female, and be like a valley that all the streams of the world run into. (Lao Tzu asks one person to hold both. A jacana father who guards his patch and also warms the eggs does both jobs in one body, and so does a clownfish who is father one year and mother the next.)
@@ -406,7 +406,7 @@ Thamarai took the binoculars from around her neck and put them around his. 'Come
   *Parent says:* Here are eight animals. For each one, who looks after the eggs or the young? Write mother, father, both, group or nobody. Tell me why for two of them.  
   *Child mode:* Write the eight animals. Guess who looks after the young of each. Say why for two.
   - Ask: What made you guess 'mother' for that one? (good: Mothers usually look after babies.; The mother lays the eggs, so she stays with them.; I have seen a picture of it.)
-  - Note: Do not correct any guess yet. Most children write 'mother' for most of the list, and that is the starting point this unit needs.
+  - Note: Do not correct any guess yet. Most children write 'mother' for most of the list, and that is the starting point this lesson needs.
 - **s2 (3 min)**  
   *Parent does:* Read out the real answers one at a time from the parent note. Your child writes each in the 'Really' column and circles each surprise.  
   *Parent says:* Here is what really happens. Write each answer down. Put a circle around every one that surprises you.  
@@ -514,7 +514,7 @@ Thamarai took the binoculars from around her neck and put them around his. 'Come
 ## Worksheets
 ### Who Cares for the Young? (core) (core, 15 questions)
 1. (mcq) What makes an animal female?  
-   Options: She makes the larger sex cells / She looks after the young / She is smaller than the male  
+   Options: She looks after the young / She is smaller than the male / She makes the larger sex cells  
    **Answer:** She makes the larger sex cells. *Why:* A female is the one who makes egg cells, the larger sex cells. Caring and size do not decide it. Jacana females are bigger than males and do not sit on the eggs.
 2. (mcq) A seahorse father carries the young. Why is he still called male?  
    Options: He makes sperm / He is the bigger one / He does not feed the young  
@@ -533,7 +533,7 @@ Thamarai took the binoculars from around her neck and put them around his. 'Come
    Options: The one always covered / The one covered half the time / The one never covered  
    **Answer:** The one always covered. *Why:* A cover slows the loss of warmth. The tumbler that was never bare lost the least. If you chose the half-covered one, remember that it lost warmth in every bare minute.
 9. (mcq) What are the two parts of sexual selection?  
-   Options: Competing for partners and choosing partners / Finding food and hiding from hunters / Laying eggs and guarding them  
+   Options: Finding food and hiding from hunters / Laying eggs and guarding them / Competing for partners and choosing partners  
    **Answer:** Competing for partners and choosing partners. *Why:* Sexual selection is about winning partners, by competing with rivals and by being chosen. Finding food and hiding are about staying alive, which is a different matter.
 10. (count) A guard kept 12, 11 and 12 coins in three tries. What is the middle number?  
    **Answer:** 12. *Why:* Put the numbers in order: 11, 12, 12. The middle one is 12. The middle number is not pulled about by one odd try.
@@ -553,7 +553,7 @@ Thamarai took the binoculars from around her neck and put them around his. 'Come
    Options: 2 / 8 / 10  
    **Answer:** 2. *Why:* Every pup has one father. If one male fathered 8 of the 10, only 2 are left for the other nine males. Most of them fathered none.
 2. (mcq) Why is the sex that spends more on each young usually the choosier one?  
-   Options: A poor choice costs them more / They are shyer by nature / They are the weaker sex  
+   Options: They are shyer by nature / A poor choice costs them more / They are the weaker sex  
    **Answer:** A poor choice costs them more. *Why:* A cow who chooses badly loses a whole year. A bull loses almost nothing. Choosiness follows the cost. In jacanas the father spends more, and he is the one the females compete for.
 3. (truefalse) All the females in a group together have the same number of young as all the males together.  
    **Answer:** True. *Why:* True. Each young has exactly one mother and one father, so the two totals must be equal. What differs is how evenly the young are shared out.
@@ -585,13 +585,13 @@ Thamarai took the binoculars from around her neck and put them around his. 'Come
    **Answer:** Answers vary. A strong answer picks a side with a reason, and names something to count, such as how many kinds of animals fit each pattern.. *Why:* Both views accept the same facts. They differ on whether the exceptions are rare or whether surroundings decide most of it. Scientists still argue about this.
 ### Test the Idea (challenge) (challenge, 15 questions)
 1. (mcq) Some pond algae make sex cells of one size only. What follows from that?  
-   Options: They have no females and no males / They are all female / They cannot have young  
+   Options: They are all female / They cannot have young / They have no females and no males  
    **Answer:** They have no females and no males. *Why:* Female and male are defined by two sizes of sex cell. With one size there are no two sexes, yet the cells still join and make young.
 2. (mcq) Why might middle-sized sex cells do badly?  
    Options: Too few to find partners, too small to feed young / They swim too fast to join / Other cells eat them first  
    **Answer:** Too few to find partners, too small to feed young. *Why:* Tiny cells win by being many. Large cells win by feeding the young well. A middle size gets neither gain. This is the leading idea, and it is not proved.
 3. (mcq) The sand on a turtle beach gets warmer every year. What is likely to change?  
-   Options: More hatchlings will be female / More hatchlings will be male / The eggs will grow larger  
+   Options: More hatchlings will be male / The eggs will grow larger / More hatchlings will be female  
    **Answer:** More hatchlings will be female. *Why:* In sea turtles the warmth of the nest sets the sex of the hatchling. Warmer nests give more females. Too few males could become a problem.
 4. (truefalse) A clownfish can be a father one year and a mother in a later year.  
    **Answer:** True. *Why:* True. All clownfish start as males. If the female of a group is lost, her mate changes into a female.
@@ -626,30 +626,30 @@ Thamarai took the binoculars from around her neck and put them around his. 'Come
 
 ## Quiz
 1. (mcq) Among all animals, which one is the female?  
-   Options: The one who makes egg cells / The one who sits on the eggs / The smaller of the two  
+   Options: The one who sits on the eggs / The one who makes egg cells / The smaller of the two  
    **Answer:** The one who makes egg cells. *Why:* Female means the maker of the larger sex cells, the egg cells. If you chose 'sits on the eggs', remember the jacana father and the emperor penguin father.
 2. (mcq) Peahens pick among peacocks. Blackbuck males fight each other. Both are parts of what?  
-   Options: Sexual selection / Parental care / Cooperative breeding  
+   Options: Parental care / Sexual selection / Cooperative breeding  
    **Answer:** Sexual selection. *Why:* Choosing and competing are the two parts of sexual selection. Parental care is what happens after the eggs or young arrive.
 3. (truefalse) Every pup has one mother and one father, so female and male seals have the same total number of pups.  
    **Answer:** True. *Why:* True. The totals must match. But the pups are shared evenly among the mothers and very unevenly among the fathers.
 4. (mcq) One female jacana has three mates. What is this family system called?  
-   Options: Polyandry / Polygyny / Monogamy  
+   Options: Polygyny / Polyandry / Monogamy  
    **Answer:** Polyandry. *Why:* Polyandry is one female with several males. Polygyny is the reverse, one male with several females.
 5. (mcq) One male gorilla lives with several females. What is this family system called?  
-   Options: Polygyny / Polyandry / Promiscuity  
+   Options: Polyandry / Polygyny / Promiscuity  
    **Answer:** Polygyny. *Why:* Polygyny is one male with several females. In promiscuity, both sexes have several partners and no group stays around one male.
 6. (mcq) In jacanas the father does all the caring. Who competes for partners?  
    Options: The females / The males / Nobody competes  
    **Answer:** The females. *Why:* The sex that spends less on each young competes for the sex that spends more. In jacanas the fathers spend more, so the females compete.
 7. (mcq) In the Warm Egg Test, what did the lid and cloth do?  
-   Options: They slowed the loss of warmth / They made new warmth / They made no difference  
+   Options: They made new warmth / They made no difference / They slowed the loss of warmth  
    **Answer:** They slowed the loss of warmth. *Why:* A cover only slows the loss. The warmth that left in the bare minutes did not come back. If you chose 'made new warmth', remember that even tumbler A cooled a little.
 8. (mcq) Why do fathers help with the young in so few kinds of mammals?  
    Options: Only mothers carry the baby and make milk / Mammal fathers are lazy / Mammal babies need very little  
    **Answer:** Only mothers carry the baby and make milk. *Why:* What the young need most, a warm body to grow in and then milk, only the mother can give. So in most mammals a father can add little.
 9. (mcq) Where do young seahorses grow before they are born?  
-   Options: In a pouch on the father / Inside the mother / In a nest of seagrass  
+   Options: Inside the mother / In a nest of seagrass / In a pouch on the father  
    **Answer:** In a pouch on the father. *Why:* The mother puts her eggs into the father's brood pouch. He carries them for 9 to 45 days and then gives birth.
 10. (truefalse) A spotted hyena clan is usually led by a female.  
    **Answer:** True. *Why:* True. Hyena females outrank the males, and a cub takes the rank just below their mother.
@@ -657,7 +657,7 @@ Thamarai took the binoculars from around her neck and put them around his. 'Come
    Options: Tell friends from strangers / Run faster from danger / Find more partners  
    **Answer:** Tell friends from strangers. *Why:* Families with older matriarchs bunched together at a stranger's call and stayed calm at a friend's. The leader's memory helped everyone.
 12. (mcq) Some animals keep harems. Does that show how people should live?  
-   Options: No. A fact is not a rule / Yes. Nature is always right / Yes, if the animal is a mammal  
+   Options: Yes. Nature is always right / No. A fact is not a rule / Yes, if the animal is a mammal  
    **Answer:** No. A fact is not a rule. *Why:* Other animals live in every kind of family. What happens in nature is a fact about them. It cannot tell people what is fair or right.
 
 ## Applications
@@ -671,12 +671,12 @@ Thamarai took the binoculars from around her neck and put them around his. 'Come
 ## Spotted around us
 - Two pigeons at one nest on a ledge or behind an air conditioner. One sits while the other is away, and later they change places.
 - Jacanas walking on lotus or water lily leaves on a village tank, a temple pond or a lake. A sitting bird is most likely a father.
-- A herd of elephants at Mudumalai, Bandipur or Nagarhole. Look for the old female at the front. Any big male is usually off to one side or alone.
-- Male blackbuck with long twisted horns at Guindy National Park in Chennai or at Point Calimere. The fawn-coloured females usually have no horns.
+- A herd of elephants in a forest or a zoo. Look for the old female at the front. Any big male is usually off to one side or alone.
+- Male blackbuck with long twisted horns, in a park or a zoo. The fawn-coloured females usually have no horns.
 - A street dog with puppies. She feeds and guards them alone, and no father helps.
 - A chital stag with antlers among does who have none, in any deer park or forest. Antlers are for competing with other stags.
 - An earthworm in a flowerpot after rain. Each earthworm is both female and male.
-- People walking the beaches of Chennai and Odisha at night between January and March, moving olive ridley turtle eggs to safe hatcheries.
+- People walking a beach at night between January and March, moving sea turtle eggs to safe hatcheries. Watch a video of this if you are far from the sea.
 
 ## Open questions
 - **Why did carrying the young fall to the father in seahorses?** There are several ideas, about speed, about being sure of being the father, and about small steps from guarding. Nobody has found a test that settles it.
@@ -723,15 +723,20 @@ Many Ways to Live a Life (sci.animals.L5): Topic-level song
 - [eBird India](https://ebird.org/india) · interactive: Look up bronze-winged and pheasant-tailed jacanas to see maps of where people have seen them near you.
 - [Bird Count India](https://birdcount.in/) · interactive: Join a bird count with your family and add what you see to a record that scientists use.
 - [Nature Conservation Foundation](https://www.ncf-india.org/) · interactive: Read about the Indian scientists who study hornbills and elephants, and about the hornbill nest adoption programme.
-- [Vedanthangal Bird Sanctuary]() · place · Near Chengalpattu, Tamil Nadu: Between November and February, watch thousands of water birds nesting in pairs, and see how the two parents share the work.
-- [Guindy National Park]() · place · Chennai, Tamil Nadu: See blackbuck inside the city. Compare the horned males with the females.
-- [Keoladeo National Park]() · place · Bharatpur, Rajasthan: Look for pairs of sarus cranes, who stay together for years and raise their chick together.
-- [Mudumalai Tiger Reserve]() · place · The Nilgiris, Tamil Nadu: Watch a family of elephants from a safari vehicle and try to pick out the matriarch.
+- Vedanthangal Bird Sanctuary · place · Near Chengalpattu, Tamil Nadu: Between November and February, watch thousands of water birds nesting in pairs, and see how the two parents share the work.
+- Guindy National Park · place · Chennai, Tamil Nadu: See blackbuck inside the city. Compare the horned males with the females.
+- Keoladeo National Park · place · Bharatpur, Rajasthan: Look for pairs of sarus cranes, who stay together for years and raise their chick together.
+- Mudumalai Tiger Reserve · place · The Nilgiris, Tamil Nadu: Watch a family of elephants from a safari vehicle and try to pick out the matriarch.
 
 ## Things to buy
 - [A kitchen thermometer with a metal probe](https://www.amazon.in/s?k=digital+kitchen+thermometer+probe) (tool): For measuring the warm water in the Warm Egg Test and the nest challenge. A fever thermometer or a blind finger test also works. Used in e1, c1. 
 - [Small binoculars for a child (8x21 or similar)](https://www.amazon.in/s?k=kids+binoculars+8x21) (tool): For telling two pigeons apart at a nest without going close. The project works without them if the nest is near. Used in p1. 
 - [Mother Nature, by Sarah Blaffer Hrdy (1999)](https://www.amazon.in/s?k=Mother+Nature+Sarah+Blaffer+Hrdy) (book): For the parent: how mothers, fathers and helpers raise young across the animal world, by the scientist who studied langurs at Mount Abu. Used in a3. Read a chapter at a time over some weeks, and tell your child about one animal family from the book at a meal.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Size Detective: what does body size say about a family?. About ₹10 to ₹30. Any school ruler is fine. Used in a2. Get it before Size Detective: what does body size say about a family?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Parent Is Away: build a nest that keeps an egg warm alone. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before The Parent Is Away: build a nest that keeps an egg warm alone.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in The Parent Is Away: build a nest that keeps an egg warm alone. About ₹20 to ₹50. Torn clean cloth works. Used in c1. Get it before The Parent Is Away: build a nest that keeps an egg warm alone.
+- [A small toy car with free-rolling wheels](https://www.amazon.in/s?k=toy+car+pull+back+small) (material): Used in The Parent Is Away: build a nest that keeps an egg warm alone. About ₹100 to ₹200. A marble or a round torch cell works. Used in c1. Get it before The Parent Is Away: build a nest that keeps an egg warm alone.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What makes an animal female? → She makes the larger sex cells, the egg cells.
@@ -749,10 +754,10 @@ Many Ways to Live a Life (sci.animals.L5): Topic-level song
 - Core: a1, e1, e2, g1, a2, ws-core
 
 ## Sources
-- Founder's notebook, Biology list, items 117 to 121 and 153: mating and reproductive behaviour, sexual selection (mate choice and competition), courtship rituals, monogamy, polygamy, polyandry and promiscuity, parental investment theory, and sexual selection in depth. The Class 4 unit covered courtship and mate choice. This unit takes competition, the theory of sexual selection, parental investment and the named family systems.
-- sci.animals.courtship-and-mates.L4: read in full so that nothing repeats. Its widowbird and peafowl experiments, baya weaver story and Darwin-to-Andersson history are not reused. This unit starts where its explanation 'Many ways to pair and raise young' stops.
+- Founder's notebook, Biology list, items 117 to 121 and 153: mating and reproductive behaviour, sexual selection (mate choice and competition), courtship rituals, monogamy, polygamy, polyandry and promiscuity, parental investment theory, and sexual selection in depth. The Class 4 unit covered courtship and mate choice. This lesson takes competition, the theory of sexual selection, parental investment and the named family systems.
+- sci.animals.courtship-and-mates.L4: read in full so that nothing repeats. Its widowbird and peafowl experiments, baya weaver story and Darwin-to-Andersson history are not reused. This lesson starts where its explanation 'Many ways to pair and raise young' stops.
 - combined/sci-C1-growing-up-and-having-young.json: the card that asks who looks after the young (pheasant-tailed jacana father, seahorse father, elephant grandmother and aunts, turtle mother who leaves). It is the seed of the activity Who Looks After the Young. The story here is new.
-- sci.animals.animal-life-cycles.L5 and sci.animals.animal-minds.L5 were checked. The Egg Budget activity (many small eggs or few big ones) is in the life cycles unit, so this unit treats egg cells against sperm instead. The song title is the one those units use.
+- sci.animals.animal-life-cycles.L5 and sci.animals.animal-minds.L5 were checked. The Egg Budget activity (many small eggs or few big ones) is in the life cycles unit, so this lesson treats egg cells against sperm instead. The song title is the one those units use.
 - PHILOSOPHY.md: the roots card, and 'humans are animals, 100%'.
 - Darwin C. (1871). The Descent of Man, and Selection in Relation to Sex. John Murray, London.
 - Bateman A.J. (1948). Intra-sexual selection in Drosophila. Heredity 2: 349-368.

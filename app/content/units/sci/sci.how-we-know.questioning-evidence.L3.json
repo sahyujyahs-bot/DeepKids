@@ -69,6 +69,12 @@
    "meaning": "A story that many people repeat and believe, but that checking has shown to be wrong.",
    "example": "Many people say a goldfish forgets everything in three seconds. Tests show goldfish remember things for months.",
    "art": "A goldfish in a bowl swimming to the side where food is usually dropped."
+  },
+  {
+   "term": "Pseudoscience",
+   "meaning": "Pseudoscience is something that looks like science but is not tested the way science is. Its claims cannot be checked, or the people who make them ignore the results when a test goes against them.",
+   "example": "A bottle says it makes you smarter, but nobody has tested it fairly against a plain bottle. That claim is pseudoscience.",
+   "art": "A bottle with a big promise on the label and a question mark above it."
   }
  ],
  "explanations": [
@@ -124,7 +130,12 @@
     "Only sounds true: we use only a tenth of our brain. Brain scans show every part of the brain is used during a day.",
     "Checked at home: water from a tumbler left in the sun gets warm. You can feel it yourself."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Martin Fleischmann (1927–2012) and Stanley Pons (born 1943), England and USA",
+     "explanation": "In March 1989, at a press conference at the University of Utah, they announced 'cold fusion': the energy of the Sun, happening in a jar of heavy water at room temperature, which would have meant almost endless cheap energy. Hundreds of labs rushed to repeat it. Most found nothing, and the particles that fusion must produce were missing, so within months most scientists decided the result was a mistake. It is remembered as a warning that an extraordinary claim needs extraordinary evidence."
+    }
+   ],
    "art": "Two boxes side by side: one labelled 'Checked' with a magnifying glass and a ruler, one labelled 'Only sounds true' with a cloud of speech bubbles.",
    "context": "This card is about the second question: how do they know?"
   },
@@ -184,7 +195,7 @@
   {
    "concept": "We cannot check everything ourselves",
    "status": "idea",
-   "description": "Nobody can test every claim. You have not been to the Moon, and you have not looked inside an octopus. So we all trust other people. 'Says who?' does not mean 'trust nobody'. It means trust people because of how they know, not because of how sure they sound. A good source can say how they found out, lets others check, and changes their mind when new evidence comes. People still argue about how much to trust experts, and when.",
+   "description": "Nobody can test every claim. You have not been to the Moon, and you have not looked inside an octopus. So we all trust other people. 'Says who?' does not mean 'trust nobody'. It means trust people because of how they know, not because of how sure they sound. A good source can say how they found out, lets others check, and changes their mind when new evidence comes. People still argue about how much to trust experts, and when. Books and trusted sources can answer many questions we cannot test ourselves. A good book on birds, written by a bird scientist, can tell you where a migrating bird goes in winter. You cannot follow the bird to check, so check who wrote the book, and whether they say how they know.",
    "examples": [
     "You trust the train timetable because the railway sets the times and you can see trains leave on time.",
     "You trust that the Earth goes round the Sun because many people, over hundreds of years, measured it in ways anyone can repeat."
@@ -614,10 +625,10 @@
       "t": "mcq",
       "q": "Who would know better whether it will rain in Chennai tomorrow?",
       "options": [
-       "A neighbour whose knee aches before rain",
-       "The weather office, which measures air, wind and clouds every day"
+       "The weather office, which measures air, wind and clouds every day",
+       "A neighbour whose knee aches before rain"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The weather office measures the air across India and keeps records of what came next. That is how they know. A knee feels only one place, and nobody has kept a record of how often it is right."
      }
     },
@@ -748,11 +759,11 @@
       "t": "mcq",
       "q": "A grown-up at home was very sure the clock has all 12 numbers. How do we find out if they are right?",
       "options": [
-       "Ask again, louder",
        "Look at the clock",
+       "Ask again, louder",
        "Ask who is the oldest in the family"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Only the clock can show what is on the clock. Asking again only tells us what they remember. Age does not make a memory right."
      }
     },
@@ -911,11 +922,11 @@
       "t": "mcq",
       "q": "The top spoonful had only chana. Why was it wrong about the jar?",
       "options": [
-       "The spoon was too small",
        "The moong at the bottom was missing from the sample",
+       "The spoon was too small",
        "Chana is heavier than moong"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The sample came only from the top, so the moong at the bottom was left out. A sample tells you only about the part it came from."
      }
     },
@@ -1033,11 +1044,11 @@
       "t": "mcq",
       "q": "A grown-up says two facts in the same sure voice. What helps you decide which one is true?",
       "options": [
-       "How sure they sound",
        "Evidence: a way to check",
+       "How sure they sound",
        "Which one is more surprising"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Both facts were said in the same sure voice, so the voice tells you nothing. You need evidence. You can check your arm span with a string. You cannot check the snail's teeth at home, so for that one you ask: how do they know?"
      },
      "parent": "Most people find that the string is close to their height, though not exactly the same. Checking it yourself with the string gives a better answer than being told."
@@ -1121,11 +1132,11 @@
       "t": "mcq",
       "q": "A message says, 'NASA says the Earth will go dark for six days.' What is the best way to check it?",
       "options": [
-       "Forward it quickly, in case it is true",
        "Look on NASA's own website to see if NASA said it",
+       "Forward it quickly, in case it is true",
        "Ask the friend who sent it if they are sure"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The message names NASA, so NASA is the source to check. A friend who forwarded it has not seen NASA say it. NASA's own website shows what NASA really said."
      }
     }
@@ -1273,10 +1284,10 @@
       "q": "A child asked only the two parents if the rasam was too spicy. Both said no. What is the problem with saying 'Nobody thinks it's too spicy'?",
       "options": [
        "Parents never tell the truth",
-       "The children, and anyone else not asked, are missing",
-       "Rasam is never too spicy"
+       "Rasam is never too spicy",
+       "The children, and anyone else not asked, are missing"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Only two people were asked. The children might find it too spicy. To say what 'everybody' thinks, you have to ask everybody, or at least people from every group."
      }
     }
@@ -1343,11 +1354,11 @@
       "t": "mcq",
       "q": "A message went along five people and changed. Whose words are the best evidence of what happened?",
       "options": [
-       "The last person's",
        "The person who saw it and wrote it down",
+       "The last person's",
        "Whoever speaks loudest"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Every time a message is passed on, it can change. The person who saw it, and wrote it down at the time, is the closest to what really happened."
      }
     }
@@ -1460,11 +1471,11 @@
       "t": "mcq",
       "q": "Someone tested the saying for a week. A crow called on all 7 mornings and a guest came on 2 days. Does the crow bring guests?",
       "options": [
-       "Yes, because guests came on crow days",
        "We can't tell, because the crow called every day, so there are no quiet days to compare",
+       "Yes, because guests came on crow days",
        "No, crows never call"
       ],
-      "a": 1,
+      "a": 0,
       "why": "If the crow calls every morning, every guest will arrive on a crow day, whatever brings the guests. To test the saying, you need some mornings with no crow, to see if guests come then too."
      }
     }
@@ -1552,10 +1563,10 @@
       "q": "In one home, the father reaches 210 centimetres, the mother 195, and their six-year-old son 140. How high can the shelf be so everyone can reach it?",
       "options": [
        "210 centimetres",
-       "195 centimetres",
-       "No higher than 140 centimetres"
+       "No higher than 140 centimetres",
+       "195 centimetres"
       ],
-      "a": 2,
+      "a": 1,
       "why": "The son has the lowest reach. A shelf above 140 centimetres would leave him out. Measuring only the grown-ups would have given the wrong answer."
      }
     }
@@ -1676,11 +1687,11 @@
    "p": "What is evidence?",
    "opts": [
     "Something a famous person says",
-    "Something you can see, count or measure that shows whether a claim is true",
     "A claim that many people repeat",
-    "How sure someone feels"
+    "How sure someone feels",
+    "Something you can see, count or measure that shows whether a claim is true"
    ],
-   "a": 1,
+   "a": 3,
    "why": "Evidence is what you can look at or measure for yourself. A famous name, many voices or a sure feeling are not evidence.",
    "outcome": 0
   },
@@ -1702,12 +1713,12 @@
    "t": "mcq",
    "p": "A girl did the Sure or Right? test with her family. She found that 3 of their 'very sure' answers were wrong. What does this show?",
    "opts": [
-    "Her family is careless",
     "Feeling very sure does not always mean being right",
+    "Her family is careless",
     "Very sure answers are always wrong",
     "The questions were unfair"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Most very sure answers may be right, but not all. Feeling sure is a feeling. Only checking shows whether an answer is right.",
    "outcome": 2,
    "how": "e1"
@@ -1717,11 +1728,11 @@
    "p": "A message says, 'NASA says the Earth will go dark for six days. Forward to everyone!' Which question should you ask first?",
    "opts": [
     "How many people have forwarded it?",
-    "Says who? Did NASA really say it?",
     "Is the message long?",
-    "Is it in English?"
+    "Is it in English?",
+    "Says who? Did NASA really say it?"
    ],
-   "a": 1,
+   "a": 3,
    "why": "The message names NASA, so check NASA's own website. A message like this once went round the world, and NASA had never said it.",
    "outcome": 1
   },
@@ -1730,11 +1741,11 @@
    "p": "A boy asked the five children in the front row of his class which sweet they like best. All five said jalebi. He says, 'Everyone in my class likes jalebi best.' What is the problem?",
    "opts": [
     "Jalebi is not a sweet",
-    "Five children from one row are few, and the rest of the class is missing",
     "He should have asked grown-ups",
-    "Nothing, five is enough"
+    "Nothing, five is enough",
+    "Five children from one row are few, and the rest of the class is missing"
    ],
-   "a": 1,
+   "a": 3,
    "why": "He asked only five children from one row. The rest of the class is missing from his evidence.",
    "outcome": 4
   },
@@ -1742,12 +1753,12 @@
    "t": "mcq",
    "p": "A grandmother says a calling crow means a guest is coming. She feels the saying always comes true. Why might she feel that, even if it is not true?",
    "opts": [
-    "Because crows can see guests coming",
     "Because she remembered the days a guest came and forgot the days nobody came",
+    "Because crows can see guests coming",
     "Because guests only come when crows call",
     "Because she counted every day"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A guest is easy to remember, and an ordinary day is easy to forget. Only a tally of every day, with or without a crow, shows whether the saying is true.",
    "outcome": 5
   },
@@ -1770,11 +1781,11 @@
    "p": "Which of these claims has been checked and found true?",
    "opts": [
     "A goldfish forgets everything after three seconds",
-    "Lightning never strikes the same place twice",
     "An octopus has three hearts",
+    "Lightning never strikes the same place twice",
     "A camel stores water in their hump"
    ],
-   "a": 2,
+   "a": 1,
    "why": "Scientists have looked inside octopuses and found three hearts. The other three are repeated often, but checking has shown them wrong.",
    "outcome": 3
   },
@@ -1782,12 +1793,12 @@
    "t": "mcq",
    "p": "In 1904, Prosper-René Blondlot said he could see invisible rays, called N-rays, with the help of a prism. Robert Wood secretly took the prism away while Blondlot was looking. Blondlot kept reading out the same numbers. What did this show?",
    "opts": [
-    "N-rays can pass through anything",
     "Blondlot was seeing what he expected, not real rays",
+    "N-rays can pass through anything",
     "The prism was broken",
     "Wood was not a real scientist"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Without the prism, the rays could not have fallen where Blondlot said. He kept seeing them because he expected to. Wood's test could have shown the rays were real, and it showed they were not.",
    "outcome": 6
   },
@@ -1795,12 +1806,12 @@
    "t": "mcq",
    "p": "In 1903 and 1904, many scientists said they saw N-rays, which did not exist. Why were they fooled?",
    "opts": [
-    "They expected to see them, and the signs were faint and hard to judge",
     "N-rays were real but disappeared later",
     "They did not have eyes",
-    "Wood paid them"
+    "Wood paid them",
+    "They expected to see them, and the signs were faint and hard to judge"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The rays were said to make a spark a tiny bit brighter, in a dark room. A change that small is easy to imagine when you expect it.",
    "outcome": 6
   },
@@ -1808,12 +1819,12 @@
    "t": "mcq",
    "p": "Who is usually the best source about whether it will rain in Madurai tomorrow?",
    "opts": [
-    "A message forwarded many times",
     "The weather office, which measures air and clouds every day",
+    "A message forwarded many times",
     "Someone who is very sure",
     "A crow on the balcony"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The weather office measures the air across India and checks how its forecasts turned out. That is how they know.",
    "outcome": 1
   },
@@ -1829,6 +1840,18 @@
    "a": 1,
    "why": "Many people say that a goldfish forgets everything after three seconds, and that lightning never strikes the same place twice. Both are wrong. What makes a claim trustworthy is that someone checked it, in a way others can repeat.",
    "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "You want to know where a bird goes in winter, but you cannot follow it yourself. What is the best next step?",
+   "opts": [
+    "Ask the first person you meet, who sounds very sure",
+    "Read a bird book by a bird scientist, and check who wrote it and how they know",
+    "Forward a message from a friend, because many people shared it"
+   ],
+   "a": 1,
+   "why": "A book written by a scientist who studied birds is a source, and you can check how the writer knows. A sure voice or a forwarded message does not show how anyone knows.",
+   "outcome": 1
   }
  ],
  "worksheets": [
@@ -1941,12 +1964,12 @@
      "t": "mcq",
      "p": "A girl asked only the grown-ups in her home if the TV was too loud. They all said no. What is missing from her evidence?",
      "opts": [
-      "The TV's brand",
       "The children's answers",
+      "The TV's brand",
       "The time of day",
       "Nothing"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Only some people were asked. Others might find the TV too loud. Who is missing can change the answer."
     },
     {
@@ -2019,6 +2042,25 @@
      "why": "You decide last, after you have asked the questions and looked at the evidence."
     },
     {
+     "t": "order",
+     "p": "Put the steps of finding an answer in a book in order.",
+     "items": [
+      "Write the answer, and name the book it came from",
+      "Find a book written by someone who studied the thing",
+      "Compare it with a second trusted source",
+      "Check who wrote the book and how they know",
+      "Read the part that answers your question"
+     ],
+     "a": [
+      "Find a book written by someone who studied the thing",
+      "Check who wrote the book and how they know",
+      "Read the part that answers your question",
+      "Compare it with a second trusted source",
+      "Write the answer, and name the book it came from"
+     ],
+     "why": "First pick a good source. Check it before you trust it. Read the answer, then check it against a second source. Last, write the answer with its source, so someone else can check it."
+    },
+    {
      "t": "label",
      "p": "Here is a forwarded message: 'Doctors say eating three bananas a day makes you taller. My cousin tried it! Forward to everyone.' Label the part with no named source, the part that is only one person's story, and the part that rushes you.",
      "a": "No named source: 'Doctors say'. Only one person's story: 'My cousin tried it'. Rushes you: 'Forward to everyone'.",
@@ -2065,11 +2107,11 @@
      "p": "A horse seems to answer sums by tapping his hoof. He gets them right when the people watching know the answer, and wrong when nobody watching knows it. What is the horse really doing?",
      "opts": [
       "Doing the sums in his head",
-      "Reading tiny signs from the people watching him",
       "Not trying",
-      "Reading numbers on paper"
+      "Reading numbers on paper",
+      "Reading tiny signs from the people watching him"
      ],
-     "a": 1,
+     "a": 3,
      "why": "If the horse did the sums, it would not matter who knew the answer. He was reading faces and bodies, which is a real skill of its own.",
      "how": "a3"
     },
@@ -2234,11 +2276,11 @@
      "p": "In one Sure or Right? test, a family gave 12 'very sure' answers, and 3 were wrong. They gave 10 'just guessing' answers, and 5 were wrong. What is the fairest conclusion?",
      "opts": [
       "Being sure is useless",
-      "Very sure answers were right more often than guesses, but some were still wrong",
       "Guessing is better than being sure",
-      "The test was unfair"
+      "The test was unfair",
+      "Very sure answers were right more often than guesses, but some were still wrong"
      ],
-     "a": 1,
+     "a": 3,
      "why": "9 of 12 very sure answers were right, and 5 of 10 guesses were right. So being sure often goes with being right, but it is not proof.",
      "how": "e1"
     },
@@ -2276,11 +2318,11 @@
      "p": "Some old remedies have been tested. Tu Youyou, a scientist in China, read about sweet wormwood in a book about 1,700 years old. Tests showed a substance in it treats malaria. What does this show?",
      "opts": [
       "All old remedies work",
-      "All old remedies are just stories",
       "Old knowledge should be tested, and some of it passes",
+      "All old remedies are just stories",
       "Only Chinese books are right"
      ],
-     "a": 2,
+     "a": 1,
      "why": "Some old knowledge is right and some is wrong. The fair thing is to test each one, not to decide in advance."
     },
     {
@@ -2344,12 +2386,12 @@
      "t": "mcq",
      "p": "In the Top-Spoon Test, after mixing, three spoonfuls had 20, 23 and 18 moong grains. Why are the numbers not all the same?",
      "opts": [
-      "The test went wrong",
       "Each spoonful is a small sample, and samples differ a little by chance",
+      "The test went wrong",
       "Moong grains change size",
       "Only the first spoon counts"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Even in a well-mixed jar, each spoonful takes a slightly different set of grains. That is why scientists take several samples and look at all of them.",
      "how": "e2"
     },
@@ -2616,7 +2658,69 @@
    "why": "A science museum and planetarium, with exhibits that let children see evidence with their own eyes."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in One True, One Made Up, The Shelf for Everyone. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "a1",
+    "c1"
+   ],
+   "plan": "Get it before One True, One Made Up."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Sure or Right? The Family Check, The Shelf for Everyone. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "c1"
+   ],
+   "plan": "Get it before Sure or Right? The Family Check."
+  },
+  {
+   "id": "b-paper-masking-tape",
+   "item": "Paper masking tape",
+   "kind": "material",
+   "why": "Used in The Shelf for Everyone. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor.",
+   "url": "https://www.amazon.in/s?k=paper+masking+tape",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before The Shelf for Everyone."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in The Top-Spoon Test: does one spoonful tell you about the whole jar?. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before The Top-Spoon Test: does one spoonful tell you about the whole jar?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "What is evidence?",
@@ -2789,7 +2893,7 @@
   "who": "Prosper-René Blondlot, a French physicist, and Robert Wood, an American physicist who tested his claim",
   "when": "1903 (N-rays announced), 1904 (Wood's visit to Nancy and his report in Nature)",
   "wrong_idea": "Many scientists believed N-rays were real, because a respected physicist and many others said they saw them. Wood's test, removing the prism without telling anyone, showed that the rays were seen even when they could not be there.",
-  "context": "If many respected scientists say they have seen something, should we believe them at once? This card tells the true story of a new kind of ray that a famous physicist announced, and of the scientist who tested the claim."
+  "context": "If many respected scientists say they have seen something, should everyone accept it at once? This card tells the true story of a new kind of ray that a famous physicist announced, and of the scientist who tested the claim."
  },
  "warm": {
   "words": [

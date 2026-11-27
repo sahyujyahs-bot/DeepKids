@@ -1,9 +1,9 @@
 # Life began in water: from the first tiny cells to us
 `sci.evolution.story-of-life.L2`
 
-**Summary.** Dry baking soda and dry citric acid do nothing together, but add water and they fizz. What does that say about where life began? In this unit you will try the dry mix, lay out the whole story of life on a one-year calendar, and see how small the first cells were.
+**Summary.** Dry baking soda and dry citric acid do nothing together, but add water and they fizz. What does that say about where life began? In this lesson you will try the dry mix, lay out the whole story of life on a one-year calendar, and see how small the first cells were.
 
-**Intro.** *Put a pinch of baking soda and a pinch of citric acid side by side on a dry steel plate. Push them together with a dry spoon. Watch for one minute. Is anything happening?* Dry powders can sit together for months and stay just the same. Yet a few drops of water change them in a second. In this unit you find out what water does to them. Then you find out why every living being began in water, long ago, and how long the story of life really is. Before you read on, make a guess. Will the powders fizz if you pour cooking oil on them instead of water? You are going to test it.
+**Intro.** *Put a pinch of baking soda and a pinch of citric acid side by side on a dry steel plate. Push them together with a dry spoon. Watch for one minute. Is anything happening?* Dry powders can sit together for months and stay just the same. Yet a few drops of water change them in a second. In this lesson you find out what water does to them. Then you find out why every living being began in water, long ago, and how long the story of life really is. Before you read on, make a guess. Will the powders fizz if you pour cooking oil on them instead of water? You are going to test it.
 
 ## Learning outcomes
 0. By the end I can say that baking soda and citric acid change only when water lets them meet.
@@ -68,6 +68,7 @@ Children are a little different from their parents. Over thousands and thousands
 - e.g. The first animals big enough to see were soft, flat and lived in the sea.
 - e.g. Scientists have found that birds come from a group of dinosaurs. So the crow at your window is a kind of living dinosaur.
 - e.g. Humans and monkeys are cousins: they come from the same ancestors, millions of years back.
+- **James Hutton (1726–1797), Scotland:** Hutton, a farmer and doctor, watched soil wash away and rocks slowly form. In 1788 at Siccar Point he showed his friends upright rock layers with flat layers on top, and explained that this needed unimaginable time, with layers laid down, tilted, worn away and covered by new ones. Many people then believed the Earth was only a few thousand years old, and his ideas were attacked until his friend John Playfair explained them in clearer words. Hutton was wrong that there was no beginning, because in 1956 Clair Patterson measured the Earth's age at about 4.5 billion years using meteorites.
 
 ## Mostly agreed
 - Life began in water. *How we know:* The oldest signs of life are in rocks that formed in water. Every living being needs water inside their cells, where the chemicals of life meet and react.
@@ -400,9 +401,9 @@ Arun picked up the packet of fruit salt and held it tight in both hands. "I'll k
 3. (truefalse) Sea water made the dry mix fizz too.  
    **Answer:** True. *Why:* True. Sea water is water with salt in it. The water still dissolved the powders, so they fizzed.
 4. (match) Draw a line from each word to what it means.  
-   **Answer:** Cell → the smallest part of a living being that is alive by itself; Fossil → the mark of a living being from long ago, kept in rock; React → when chemicals meet and change into new ones; Timeline → a line that shows things in the order they happened. *Why:* These are the four words the child needs most in this unit.
+   **Answer:** Cell → the smallest part of a living being that is alive by itself; Fossil → the mark of a living being from long ago, kept in rock; React → when chemicals meet and change into new ones; Timeline → a line that shows things in the order they happened. *Why:* These are the four words the child needs most in this lesson.
 5. (mcq) Why do scientists say life began in water?  
-   Options: The chemicals of life can move about, meet and react in water / Water is cold and keeps things asleep / There was no land at all  
+   Options: Water is cold and keeps things asleep / There was no land at all / The chemicals of life can move about, meet and react in water  
    **Answer:** The chemicals of life can move about, meet and react in water. *Why:* Just as the powders met and fizzed only in water, the chemicals of life met and changed in water. There was land, but life began in the sea.
 6. (fill) The first living beings on Earth lived in ____.  
    **Answer:** ['water', 'the sea', 'sea water']. *Why:* The chemicals of life meet and react in water, and the oldest signs of life come from rocks that formed in sea water.
@@ -421,7 +422,7 @@ Arun picked up the packet of fruit salt and held it tight in both hands. "I'll k
 2. (sort) Sort these living beings: lives in water, or lives on land.  
    **Answer:** prawn → Lives in water; crow → Lives on land; octopus → Lives in water; tulsi plant → Lives on land; starfish → Lives in water; goat → Lives on land. *Why:* Many kinds still live in water, where all life began. The land kinds came from ancestors who once lived in water.
 3. (mcq) Tiny cells like the first living cells are very small. About how many would fit side by side across one hair?  
-   Options: About 50 / Only 1 / About 5 million  
+   Options: Only 1 / About 5 million / About 50  
    **Answer:** About 50. *Why:* Tiny cells like the first cells are far too small to see. About 50 of them, side by side, would just stretch across one hair.
 4. (write) The first living beings had no bones and no shells. Why do you think their fossils are layered rocks called stromatolites, and not bones?  
    **Answer:** Because they were tiny soft cells. The only thing big enough to stay was the layered rock their mats built.. *Why:* A strong answer says tiny cells leave no bones, so we find the rocks their mats built, layer by layer.
@@ -441,7 +442,7 @@ Arun picked up the packet of fruit salt and held it tight in both hands. "I'll k
 1. (write) Many people think the first living beings were fish. What evidence shows they were not?  
    **Answer:** The oldest fossils are stromatolites and tiny cells, about 3.5 billion years old. Fish fossils appear only about 500 million years ago.. *Why:* A strong answer uses the order of fossils in the rocks: tiny cells come far earlier than any fish.
 2. (mcq) A scientist works out the Earth's age from how fast it has cooled. Later, people find that rocks inside the Earth make their own heat. What does this mean for his answer?  
-   Options: The Earth cooled more slowly, so it is older than he worked out / The Earth must be younger / Nothing changes  
+   Options: The Earth must be younger / Nothing changes / The Earth cooled more slowly, so it is older than he worked out  
    **Answer:** The Earth cooled more slowly, so it is older than he worked out. *Why:* Extra heat from inside means the Earth took much longer to cool. So it is older. This happened to Lord Kelvin, who did not know about radioactive rock.
 3. (perspective) Two people are arguing about where life began.  
    **Answer:** A strong answer picks a side with a reason, such as 'drying pushes chemicals close together', and gives the other side's reason too. It may say that nobody knows yet, and that scientists test both ideas in labs.. *Why:* This is a real argument among scientists. Both ideas have some evidence, and the question is still open.
@@ -468,16 +469,16 @@ Arun picked up the packet of fruit salt and held it tight in both hands. "I'll k
 
 ## Quiz
 1. (mcq) Why did the fruit salt in the packet not fizz for months?  
-   Options: It was dry, so the powders could not meet / It was too old / The packet was too small  
+   Options: It was too old / It was dry, so the powders could not meet / The packet was too small  
    **Answer:** It was dry, so the powders could not meet. *Why:* The powders react only when water dissolves them. Picking 'too old' may mean thinking the powder went bad, but a pinch in water still fizzes.
 2. (mcq) Where did life on Earth begin?  
-   Options: In water / On dry rock / In the air  
+   Options: On dry rock / In water / In the air  
    **Answer:** In water. *Why:* The chemicals of life meet and react in water, and the oldest signs of life come from rocks made in sea water.
 3. (mcq) What is most of every cell in your body made of?  
-   Options: Water / Salt / Sand  
+   Options: Salt / Sand / Water  
    **Answer:** Water. *Why:* Every cell is mostly water inside. That is where the body's chemicals meet and react.
 4. (mcq) What were the first living beings like?  
-   Options: Tiny cells, far too small to see / Big fish / Small dinosaurs  
+   Options: Big fish / Small dinosaurs / Tiny cells, far too small to see  
    **Answer:** Tiny cells, far too small to see. *Why:* The first life was single tiny cells. Fish and dinosaurs came billions of years later.
 5. (mcq) What is a stromatolite?  
    Options: A rock built in layers by mats of tiny cells / A dinosaur egg / A kind of fish  
@@ -489,10 +490,10 @@ Arun picked up the packet of fruit salt and held it tight in both hands. "I'll k
    Options: Humans / Flowers / Dinosaurs  
    **Answer:** Humans. *Why:* Humans like us came only about 300,000 years ago. Flowers came about 130 million years ago, and dinosaurs before that.
 8. (mcq) If the story of the Earth were one year, when would humans like us appear?  
-   Options: About half an hour before midnight on 31 December / On 1 January / In June  
+   Options: On 1 January / About half an hour before midnight on 31 December / In June  
    **Answer:** About half an hour before midnight on 31 December. *Why:* On the Year of Life, one day is about 12 million years. 300,000 years is only about half an hour.
 9. (mcq) Where do all the living beings alive today come from?  
-   Options: From the first cells, through a very long line of parents / Each kind appeared suddenly, all at once / From rocks  
+   Options: Each kind appeared suddenly, all at once / From rocks / From the first cells, through a very long line of parents  
    **Answer:** From the first cells, through a very long line of parents. *Why:* Every living being comes from parents. Those parents had parents too, all the way back to the first cells.
 10. (mcq) How did a few kinds of tiny cells become so many kinds of living beings?  
    Options: Small changes added up over a very, very long time / They all changed in one day / People made the new kinds  
@@ -507,10 +508,10 @@ Arun picked up the packet of fruit salt and held it tight in both hands. "I'll k
 
 ## Spotted around us
 - A pinch of fruit salt fizzing in a tumbler of water, at home or at a relative's house.
-- A fish market in Kochi, Kolkata, Visakhapatnam or Mumbai, with prawns, crabs, squid and many kinds of fish. They are a few of the many kinds that still live in the sea.
-- Tree trunks that turned to stone millions of years ago, at the National Fossil Wood Park in Tiruvakkarai, near Puducherry.
+- A fish market with prawns, crabs, squid and many kinds of fish. They are a few of the many kinds that still live in the sea.
+- A tree trunk that turned to stone millions of years ago, in a museum or a fossil park.
 - A green slimy film in a rain puddle or on a wet wall in the monsoon. It is made of tiny water-living cells.
-- Old stromatolites in the rocks at Jhamarkotra, near Udaipur in Rajasthan.
+- Old stromatolites, layered lumps in rock. They are among the oldest signs of life.
 
 ## Open questions
 - **How exactly did the first living cell begin?** Scientists have made some of life's chemicals in labs, and even RNA chains that help join other chains. Nobody has yet made a living cell from chemicals.
@@ -546,12 +547,20 @@ One Long Family, from the Sea to Me (sci.evolution.L2): Topic-level song for Evo
 
 ## Links
 - [OneZoom tree of life explorer](https://www.onezoom.org) · interactive: A zoomable tree that shows how all living beings are related. A grown-up can zoom in from all of life to a crow, a moong plant or humans.
-- [Birbal Sahni Institute of Palaeosciences]() · place · Lucknow: A research institute named after the Indian scientist Birbal Sahni, who studied fossil plants. It has a fossil museum. Check visiting times before you go.
-- [National Fossil Wood Park]() · place · Tiruvakkarai, near Puducherry: Tree trunks that turned to stone millions of years ago, lying in the open.
-- [Stromatolite park at Jhamarkotra]() · place · near Udaipur, Rajasthan: Very old layered rocks built by mats of tiny cells. Check whether it is open to visitors before you go.
+- Birbal Sahni Institute of Palaeosciences · place · Lucknow: A research institute named after the Indian scientist Birbal Sahni, who studied fossil plants. It has a fossil museum. Check visiting times before you go.
+- National Fossil Wood Park · place · Tiruvakkarai, near Puducherry: Tree trunks that turned to stone millions of years ago, lying in the open.
+- Stromatolite park at Jhamarkotra · place · near Udaipur, Rajasthan: Very old layered rocks built by mats of tiny cells. Check whether it is open to visitors before you go.
 
 ## Things to buy
 - [Citric acid crystals (nimbu sat or lemon salt), or a sachet of fruit salt]() (material): Needed for the dry mix test and the fizz challenge. Most grocery shops sell citric acid cheaply. Fruit salt from a chemist works too, because it already holds baking soda and citric acid. Used in e1, c1. Keep it in a dry, closed jar. A small packet is enough for the whole unit.
+- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): Used in How Small Was the First Life? A hair and a dot. About ₹30 to ₹120. A water drop on clear plastic magnifies a little. Used in a2. Get it before How Small Was the First Life? A hair and a dot.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in A Shoebox Sea from Long Ago. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in p1. Get it before A Shoebox Sea from Long Ago.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in A Shoebox Sea from Long Ago. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in p1. Get it before A Shoebox Sea from Long Ago.
+- [Baking soda](https://www.amazon.in/s?k=baking+soda) (material): Used in The Dry Mix: will the powders fizz without water?, Fizz Later: make the powder wait in water. About ₹20 to ₹40. Check the kitchen first. Used in e1, c1. Get it before The Dry Mix: will the powders fizz without water?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Sea Water Sprouts: can moong sprout in water as salty as the sea?, How Small Was the First Life? A hair and a dot. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e2, a2. Get it before Sea Water Sprouts: can moong sprout in water as salty as the sea?.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Fizz Later: make the powder wait in water. About ₹30 to ₹60. Newspaper cut into strips also works. Used in c1. Get it before Fizz Later: make the powder wait in water.
+- [A small toy car with free-rolling wheels](https://www.amazon.in/s?k=toy+car+pull+back+small) (material): Used in A Shoebox Sea from Long Ago. About ₹100 to ₹200. A marble or a round torch cell works. Used in p1. Get it before A Shoebox Sea from Long Ago.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Do baking soda and citric acid fizz when they are dry? → No. They fizz only when water lets them meet.
@@ -569,7 +578,7 @@ One Long Family, from the Sea to Me (sci.evolution.L2): Topic-level song for Evo
 
 ## Sources
 - ideas/by_topic/evolution-the-tree-of-life.md: 'The First Mother' and 'The Great Great Grandmother', the founder's picture of the first cells as everyone's oldest grandmother, a drop of ocean inside her. Used for the first-cells explanation, the ancestor term and the roots card. The RNA picture book chemistry suits higher levels and is used in sci.evolution.story-of-life.L3.
-- Built on the prerequisite sci.what-is-life.signs-of-life.L2 (living beings grow, use food and make more of themselves), and leads to sci.evolution.story-of-life.L3 (the rusting nails test, the time string and the RNA copying game), which this unit does not repeat.
+- Built on the prerequisite sci.what-is-life.signs-of-life.L2 (living beings grow, use food and make more of themselves), and leads to sci.evolution.story-of-life.L3 (the rusting nails test, the time string and the RNA copying game), which this lesson does not repeat.
 - Patterson, C. (1956). Age of meteorites and the earth. Geochimica et Cosmochimica Acta 10: 230-237.
 - Holmes, A. (1913). The Age of the Earth. London: Harper. Holmes, A. (1911), uranium-lead ages of rocks, Proceedings of the Royal Society A 85.
 - Allwood, A. C., Walter, M. R., Kamber, B. S., Marshall, C. P. and Burch, I. W. (2006). Stromatolite reef from the Early Archaean era of Australia. Nature 441: 714-718.

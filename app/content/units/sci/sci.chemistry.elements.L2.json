@@ -469,11 +469,11 @@
       "t": "mcq",
       "q": "In which bowl did the silver turn shiny?",
       "options": [
-       "The bowl with no foil",
        "The bowl with foil",
+       "The bowl with no foil",
        "Both bowls the same"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The dark layer is silver joined with sulfur. Aluminium holds on to sulfur more strongly than silver does. So on the foil, the sulfur moves from the silver to the aluminium. The silver is left shiny. Without foil, the sulfur has nowhere to go."
      },
      "parent": "This is the main idea of the unit. Tell your child now: the dark layer was silver joined with sulfur. The foil, which is aluminium, took the sulfur. The same silver atoms stayed on the anklet. Scrubbing rubs a little silver off with the black. The foil bowl keeps all the silver."
@@ -593,11 +593,11 @@
       "t": "mcq",
       "q": "What took the dull layer off the brass?",
       "options": [
-       "Plain water",
        "The sour tamarind",
+       "Plain water",
        "Rubbing alone"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The dull layer is copper joined with oxygen and other things from the air. The sour acid in tamarind dissolves that layer, and it washes away. The bright metal underneath shows again. Plain water does not dissolve it."
      },
      "parent": "Here the dull layer is washed away into the tamarind water, so a very thin bit of metal goes with it. In the foil bowl, the silver stayed on the anklet. These are two different ways to get a shine back."
@@ -688,11 +688,11 @@
       "t": "mcq",
       "q": "Why were more things in the Two or more column?",
       "options": [
-       "Most things are elements joined together",
        "Elements are so rare that nobody has any",
-       "The things were sorted wrongly"
+       "The things were sorted wrongly",
+       "Most things are elements joined together"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Elements usually join with other elements. Water, salt, sugar, steel and wood are all elements joined together."
      },
      "parent": "Most homes find many more things in the Two or more column. Elements are usually joined with others. Pure elements like gold, copper and aluminium are mostly things people have made pure on purpose."
@@ -1141,11 +1141,11 @@
       "t": "mcq",
       "q": "A balloon that floats up is filled with which element?",
       "options": [
-       "Helium",
        "Iron",
+       "Helium",
        "Gold"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Helium is a very light gas, so a balloon filled with it floats up."
      }
     }
@@ -1225,11 +1225,11 @@
       "t": "mcq",
       "q": "Which element in your book is a gas?",
       "options": [
+       "Oxygen",
        "Gold",
-       "Iron",
-       "Oxygen"
+       "Iron"
       ],
-      "a": 2,
+      "a": 0,
       "why": "Oxygen is a gas in the air. Gold and iron are solid metals."
      },
      "parent": "The gas is oxygen. The metals are gold, silver and iron. Carbon is neither. It is a black solid that is not a metal."
@@ -1324,11 +1324,11 @@
      "t": "mcq",
      "p": "An element is a substance made of…",
      "opts": [
-      "just one kind of atom",
       "two kinds of atoms joined",
+      "just one kind of atom",
       "anything shiny"
      ],
-     "a": 0,
+     "a": 1,
      "why": "An element has only one kind of atom. Gold has only gold atoms."
     },
     {
@@ -1472,11 +1472,11 @@
      "t": "mcq",
      "p": "Many iron gates are painted. Why does paint help?",
      "opts": [
-      "It keeps air and water away from the iron",
       "It makes the gate heavier",
+      "It keeps air and water away from the iron",
       "It turns the iron into gold"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Iron joins with oxygen and water to make rust. Paint keeps them away from the iron, so less rust grows."
     },
     {
@@ -1531,11 +1531,11 @@
      "t": "mcq",
      "p": "Tamarind made the brass shine, but plain water did not. What did the tamarind do?",
      "opts": [
-      "It painted the brass gold",
       "Its sour juice dissolved the dull layer",
+      "It painted the brass gold",
       "It made the brass hotter"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The sour acid in tamarind dissolves the dull layer of copper joined with oxygen. The bright metal underneath shows again.",
      "how": "e2"
     },
@@ -1706,10 +1706,10 @@
    "p": "Which of these is an element?",
    "opts": [
     "Salt",
-    "Gold",
-    "Water"
+    "Water",
+    "Gold"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Gold has only one kind of atom. Salt and water are each made of elements joined together.",
    "outcome": 1
   },
@@ -1717,11 +1717,11 @@
    "t": "mcq",
    "p": "Which gas, an element, is about one fifth of the air?",
    "opts": [
-    "Oxygen",
     "Steam",
+    "Oxygen",
     "Smoke"
    ],
-   "a": 0,
+   "a": 1,
    "why": "About one fifth of the air is oxygen. Steam is water, and smoke is a mix of many things.",
    "outcome": 1
   },
@@ -1729,11 +1729,11 @@
    "t": "mcq",
    "p": "Kitchen foil is made of which element?",
    "opts": [
+    "Aluminium",
     "Iron",
-    "Silver",
-    "Aluminium"
+    "Silver"
    ],
-   "a": 2,
+   "a": 0,
    "why": "Foil is almost all aluminium. Silver is a shiny metal too, but kitchen foil is not silver.",
    "outcome": 2
   },
@@ -1742,10 +1742,10 @@
    "p": "You are sorting things at home. Which one should go in the 'two or more elements' column?",
    "opts": [
     "A copper wire",
-    "A spoon of sugar",
-    "A gold coin"
+    "A gold coin",
+    "A spoon of sugar"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Sugar is carbon, hydrogen and oxygen joined. Copper and gold are elements.",
    "outcome": 2
   },
@@ -1753,11 +1753,11 @@
    "t": "mcq",
    "p": "In the foil bowl test, dark silver turned shiny. Where was the silver while it was dark?",
    "opts": [
-    "It had gone away",
     "It was still there, joined with sulfur",
+    "It had gone away",
     "It had turned into gold"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The dark layer was silver joined with sulfur. When the foil took the sulfur, the same silver was left.",
    "outcome": 3,
    "how": "e1"
@@ -1766,11 +1766,11 @@
    "t": "mcq",
    "p": "In the foil bowl test, which part took the sulfur away from the silver?",
    "opts": [
-    "The aluminium foil",
     "The salt",
-    "The steel spoon"
+    "The steel spoon",
+    "The aluminium foil"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Aluminium holds on to sulfur more strongly than silver does. So the sulfur moves from the silver to the foil, and the silver is left shiny.",
    "outcome": 3,
    "how": "e1"
@@ -1792,10 +1792,10 @@
    "p": "An iron gate is left out in the rain. What happens over time?",
    "opts": [
     "It turns gold",
-    "It gets orange rust",
-    "It turns into water"
+    "It turns into water",
+    "It gets orange rust"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Iron joins with oxygen and water to make orange rust.",
    "outcome": 4
   },
@@ -1816,10 +1816,10 @@
    "p": "Someone says the foil made the silver shiny in the foil bowl test. What is the best evidence for this?",
    "opts": [
     "The foil was shiny too",
-    "The same silver stayed dark with no foil, then turned shiny on foil",
-    "A grown-up said so"
+    "A grown-up said so",
+    "The same silver stayed dark with no foil, then turned shiny on foil"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Only the foil changed between the two bowls. So the change in the silver came from the foil.",
    "outcome": 5,
    "how": "e1"
@@ -2012,7 +2012,45 @@
    "why": "A science museum with hands-on galleries and live science shows."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-a-magnifying-glass",
+   "item": "A magnifying glass",
+   "kind": "tool",
+   "why": "Used in The Pencil Mystery: is there lead in a pencil?. About ₹30 to ₹120. A water drop on clear plastic magnifies a little.",
+   "url": "https://www.amazon.in/s?k=magnifying+glass+kids",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before The Pencil Mystery: is there lead in a pencil?."
+  },
+  {
+   "id": "b-baking-soda",
+   "item": "Baking soda",
+   "kind": "material",
+   "why": "Used in The Foil Bowl: can dark silver shine again without rubbing?. About ₹20 to ₹40. Check the kitchen first.",
+   "url": "https://www.amazon.in/s?k=baking+soda",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before The Foil Bowl: can dark silver shine again without rubbing?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "What is an element?",

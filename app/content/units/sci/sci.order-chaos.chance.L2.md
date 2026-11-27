@@ -1,9 +1,9 @@
 # Coins and dice: why many tosses are easier to guess than one
 `sci.order-chaos.chance.L2`
 
-**Summary.** Nobody can say how one coin toss will land, but twenty tosses give close to ten heads. Why? In this unit you will toss a coin and roll a die many times and keep a tally, play a slips game, and sort things into certain, likely, unlikely and impossible.
+**Summary.** Nobody can say how one coin toss will land, but twenty tosses give close to ten heads. Why? In this lesson you will toss a coin and roll a die many times and keep a tally, play a slips game, and sort things into certain, likely, unlikely and impossible.
 
-**Intro.** *Hold a coin. Before you drop it on the bed, say 'heads' or 'tails'. Were you right? Try again. Can you get it right every time?* Some things we can say for sure. The Sun will rise tomorrow. A dropped spoon will fall down. Other things we cannot know, like how the next coin toss will land. In this unit you toss coins and roll a die many times, and keep count. You find out that one toss is a surprise, but many tosses are not. You also learn the words likely, unlikely, certain and impossible, and play games that are fair and games that are not.
+**Intro.** *Hold a coin. Before you drop it on the bed, say 'heads' or 'tails'. Were you right? Try again. Can you get it right every time?* Some things we can say for sure. The Sun will rise tomorrow. A dropped spoon will fall down. Other things we cannot know, like how the next coin toss will land. In this lesson you toss coins and roll a die many times, and keep count. You find out that one toss is a surprise, but many tosses are not. You also learn the words likely, unlikely, certain and impossible, and play games that are fair and games that are not.
 
 ## Learning outcomes
 0. By the end I can say that nobody can know how one coin toss will land, but that many tosses give close to half heads.
@@ -54,6 +54,7 @@ In the slips game, 8 slips had a star and only 2 were blank, so a star came out 
 - e.g. Tossing a coin to choose who bats first
 - e.g. 5 star slips and 5 blank slips in a tumbler
 - e.g. A race where one player moves on a six and the other moves on any other number, which is unfair
+- **Gerolamo Cardano (1501–1576), Italy:** Cardano was a doctor and mathematician who also loved playing dice games. He wrote a book about games of chance, one of the first to count the ways dice can fall, and he saw that with a fair die each face is equally likely. His book was only printed in 1663, long after he died, and by then Blaise Pascal and Pierre de Fermat had worked out probability in their letters of 1654. They usually get the credit, though historians agree Cardano had many of the key ideas first.
 ### Each toss starts fresh · *defined*
 **Definition:** The chance of heads is the same on every toss, whatever came before. After many heads in a row, tails is not any more likely than before.
 
@@ -406,7 +407,7 @@ Outside, the rain went on falling. Nobody knew when it would stop. But everyone 
 1. (match) Draw a line from each word to what it means.  
    **Answer:** Certain → will happen for sure; Impossible → can never happen; Likely → will happen more often than not; Fair → everyone has the same chance. *Why:* These are the four words the child needs to talk about chance. Certain and impossible are the two ends. Likely sits in between. Fair is about everyone having the same chance.
 2. (mcq) In the coin test, you guessed ten tosses. About how many guesses do most people get right?  
-   Options: All ten / About five / None  
+   Options: All ten / None / About five  
    **Answer:** About five. *Why:* Heads and tails each have the same chance, so a guess is right about half the time. Choosing 'all ten' means thinking that trying hard can tell you how the coin will land. The test shows it cannot.
 3. (draw) Draw your tally from the coin test. Show the heads row and the tails row.  
    **Answer:** Two rows of tally lines, in bundles of five, of nearly the same length.. *Why:* A strong drawing shows both rows close in length. That is the evidence that heads and tails came up about the same number of times.
@@ -448,12 +449,12 @@ Outside, the rain went on falling. Nobody knew when it would stop. But everyone 
 9. (label) Look at the bar chart of made-up results from the six test. Label the bar that is 'likely' and the bar that is 'unlikely'.  
    **Answer:** ['short bar for six: unlikely', 'tall bar for not six: likely']. *Why:* The six bar is short because a six is one face out of six. The not-six bar is tall because five faces are not six. A taller bar means it happened more often.
 10. (mcq) The weather forecast for Mumbai says rain is likely tomorrow. Tomorrow it does not rain. What does this mean?  
-   Options: The forecast must have been wrong / Likely is not certain, so a dry day can still happen / It will never rain again  
+   Options: Likely is not certain, so a dry day can still happen / The forecast must have been wrong / It will never rain again  
    **Answer:** Likely is not certain, so a dry day can still happen. *Why:* Likely means more often than not, not every time. A good forecast of 'likely rain' is right on most such days, not on all of them. Choosing 'wrong' mixes up likely and certain.
 
 ## Videos
 - **Super slow motion: flipping a quarter** (GE Research, 1 min) id `xyqmN8uX8QI`: Shows a coin spinning many times in the air before it lands, too fast for our eyes to follow. That is why nobody can know how one toss will land. *Check:* Found by search: "Super slow motion: Flipping a quarter" by GE Research, 33 seconds. A parent may preview it.
-- **How random is a coin toss? (Numberphile)** (Numberphile, 8 min) id `AYnJv68T3MM`: A scientist who studied coin tosses explains that a coin tossed by hand lands on its starting side a little more often. The grown-up should watch it first, then share parts of it. *Check:* Found by search: "How random is a coin toss? - Numberphile" by Numberphile, 7 min 40 sec. A parent may preview it, and check it matches the 51 in 100 result described in this unit.
+- **How random is a coin toss? (Numberphile)** (Numberphile, 8 min) id `AYnJv68T3MM`: A scientist who studied coin tosses explains that a coin tossed by hand lands on its starting side a little more often. The grown-up should watch it first, then share parts of it. *Check:* Found by search: "How random is a coin toss? - Numberphile" by Numberphile, 7 min 40 sec. A parent may preview it, and check it matches the 51 in 100 result described in this lesson.
 - **Rolling a die many times: what comes up most?** (, 4 min) id `to find`: Shows that each face of a die comes up about the same number of times when you roll very many times. *Check:* Not yet found. Look for a short children's video that rolls or simulates many rolls of one die and shows the counts for each face.
 
 ## Quiz
@@ -461,34 +462,34 @@ Outside, the rain went on falling. Nobody knew when it would stop. But everyone 
    Options: Yes, if they think hard / No, nobody can / Yes, if they blow on it  
    **Answer:** No, nobody can. *Why:* Tiny differences in the shake, spin and bounce decide it, and nobody can see or control them. Thinking hard or blowing on the coin does not change this.
 2. (mcq) You toss a coin 20 times. About how many heads will you get?  
-   Options: About 2 / About 10 / About 20  
+   Options: About 2 / About 20 / About 10  
    **Answer:** About 10. *Why:* Heads and tails have the same chance, so about half of 20 tosses are heads. Half of 20 is 10.
 3. (mcq) What is a quick way to count with lines, in bundles of five?  
-   Options: A tally / A die / A toss  
+   Options: A die / A toss / A tally  
    **Answer:** A tally. *Why:* A tally is a line for each thing, with every fifth line across the four before it. It helps you count tosses without losing track.
 4. (mcq) You roll one die. Which is most likely?  
-   Options: A six / Not a six / A seven  
+   Options: Not a six / A six / A seven  
    **Answer:** Not a six. *Why:* Five of the six faces are not six, so 'not a six' comes most often. A seven is impossible on one die.
 5. (mcq) Why is a six unlikely on one roll of a die?  
-   Options: Only one of the six faces is a six / Sixes are heavier / The die is scared of sixes  
+   Options: Sixes are heavier / Only one of the six faces is a six / The die is scared of sixes  
    **Answer:** Only one of the six faces is a six. *Why:* Each face has the same chance, and only one face is a six. So a six comes about once in every six rolls.
 6. (mcq) Which of these is certain?  
-   Options: Rain tomorrow in Kochi / Rolling a number from 1 to 6 on one die / Tossing heads  
+   Options: Rain tomorrow in Kochi / Tossing heads / Rolling a number from 1 to 6 on one die  
    **Answer:** Rolling a number from 1 to 6 on one die. *Why:* Every face of a die has a number from 1 to 6, so you always get one. Rain and heads can both happen or not happen.
 7. (mcq) Which of these is impossible?  
-   Options: A crow at the window / Picking a blank from 8 stars and 2 blanks / Picking a blank from a tumbler of only star slips  
+   Options: Picking a blank from a tumbler of only star slips / A crow at the window / Picking a blank from 8 stars and 2 blanks  
    **Answer:** Picking a blank from a tumbler of only star slips. *Why:* If there are no blank slips, a blank can never come out. A crow at the window and picking a blank from 8 stars and 2 blanks can both happen.
 8. (mcq) Two sisters want to choose who goes first. Which way is fair?  
-   Options: The older sister goes first if a die shows 1 to 5 / Toss a coin: heads for one sister, tails for the other / The older sister always goes first because she is older  
+   Options: Toss a coin: heads for one sister, tails for the other / The older sister goes first if a die shows 1 to 5 / The older sister always goes first because she is older  
    **Answer:** Toss a coin: heads for one sister, tails for the other. *Why:* A coin gives each sister the same chance. The die rule gives the older sister five faces and the younger sister only one.
 9. (mcq) A tumbler has 8 star slips and 2 blank slips. How can you make it fair for a star player and a blank player?  
-   Options: Add more star slips / Make the numbers of star and blank slips the same / Pick with your eyes open  
+   Options: Make the numbers of star and blank slips the same / Add more star slips / Pick with your eyes open  
    **Answer:** Make the numbers of star and blank slips the same. *Why:* With the same number of each, a star and a blank have the same chance. More star slips would make it even less fair.
 10. (mcq) You toss heads five times in a row. What is the chance of heads on the next toss?  
    Options: Less than before, because tails is due / The same as before, half and half / More than before, because heads is on a run  
    **Answer:** The same as before, half and half. *Why:* Each toss starts fresh. The last five tosses do not change how the next one spins and lands. Thinking tails is due is a very common mistake.
 11. (mcq) Someone tosses a coin 10,000 times. What will the heads count be close to?  
-   Options: Close to 5,000 / Close to 100 / Exactly 10,000  
+   Options: Close to 100 / Exactly 10,000 / Close to 5,000  
    **Answer:** Close to 5,000. *Why:* About half the tosses are heads, and the more tosses there are, the closer to half it usually gets. John Kerrich did this and got 5,067 heads.
 
 ## Applications
@@ -499,11 +500,11 @@ Outside, the rain went on falling. Nobody knew when it would stop. But everyone 
 - Lucky draws at school fairs pick a name without looking, so every ticket has the same chance.
 
 ## Spotted around us
-- The coin toss before a cricket match, on TV or in a street game in Kolkata or Chennai.
-- A Ludo or snakes and ladders board at home on a rainy afternoon in Kochi or Mumbai.
-- The weather report on TV or in the newspaper saying rain is 'likely' over coastal Karnataka.
+- The coin toss before a cricket match, on TV or in a street game.
+- A Ludo or snakes and ladders board at home on a rainy afternoon.
+- The weather report on TV or in the newspaper saying rain is 'likely'.
 - A lucky draw at a school fair or a Durga Puja pandal, where a name is picked from a box without looking.
-- Cowrie shells or tamarind seeds thrown in old Indian board games, such as chowka bara in Karnataka, where how they land decides the move.
+- Cowrie shells or tamarind seeds thrown in an old board game, where how they land decides the move.
 
 ## Open questions
 - **If we knew exactly how a coin was tossed, could we always say how it would land?** A machine built to toss a coin the same way every time can make it land the same way every time. But nobody can measure a hand toss that exactly. Scientists still argue about how much of chance is only what we cannot measure.
@@ -539,10 +540,12 @@ Never the Same Way Twice (sci.order-chaos.L2): Topic-level song for Order, chaos
 
 ## Links
 - [Random.org coin flipper](https://www.random.org/coins/) · simulation: A free website that flips pictures of coins for you. Flip many at once and count the heads, to see what many tosses come close to.
-- [Kerala State Science and Technology Museum]() · place · Thiruvananthapuram: A science museum with hands-on displays. Ask the guides if anything there is about chance or games.
-- [Birla Industrial and Technological Museum]() · place · Kolkata: A big science museum with hands-on galleries. A good outing to ask the museum guides about chance and games.
+- Kerala State Science and Technology Museum · place · Thiruvananthapuram: A science museum with hands-on displays. Ask the guides if anything there is about chance or games.
+- Birla Industrial and Technological Museum · place · Kolkata: A big science museum with hands-on galleries. A good outing to ask the museum guides about chance and games.
 
 ## Things to buy
+- [Probably Pistachio by Stuart J. Murphy](https://www.amazon.in/s?k=Probably+Pistachio) (book): A boy guesses what will happen on a bad day and learns the words probably and probably not. It gives the child everyday words for chance. Used in a1. Read it together before the chance games.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Can anyone know how one coin toss will land? → No. Nobody can.

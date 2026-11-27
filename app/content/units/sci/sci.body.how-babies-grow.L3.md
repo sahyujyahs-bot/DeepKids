@@ -1,7 +1,7 @@
 # How a baby grows: from one cell to birth
 `sci.body.how-babies-grow.L3`
 
-**Summary.** Every person began as one tiny cell. How does one cell become a baby? In this unit you will watch dough double to see cells multiply, test whether water protects an egg, make a growing fruit line, and play a game of the forty weeks before birth.
+**Summary.** Every person began as one tiny cell. How does one cell become a baby? In this lesson you will watch dough double to see cells multiply, test whether water protects an egg, make a growing fruit line, and play a game of the forty weeks before birth.
 
 **Intro.** *Look at your hand. Spread your fingers wide. Once, your whole body, with its hands, eyes, bones and brain, was one single cell. That cell was smaller than the full stop at the end of this sentence. Where did all the rest of you come from?* Put a grain of salt on a dark plate and look at it closely. You began even smaller than that, as one cell. A cell is the smallest living building block of a body. Now you are made of about 30 trillion cells. Every one of them came from that first cell.
 
@@ -584,7 +584,7 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
 ## Worksheets
 ### From One Cell to Me (core) (core, 16 questions)
 1. (mcq) Some people say a baby starts as a tiny, ready-made person who just gets bigger. Are they right?  
-   Options: Yes. The tiny person is just too small to see. / No. A baby starts as one cell, and the body parts form step by step. / Yes, but only for big babies.  
+   Options: Yes. The tiny person is just too small to see. / Yes, but only for big babies. / No. A baby starts as one cell, and the body parts form step by step.  
    **Answer:** No. A baby starts as one cell, and the body parts form step by step.. *Why:* A strong answer says 'no'. Every person began as one cell, with no body parts at all. The heart, the hands and the eyes formed one after another. Scientists believed in the tiny ready-made person about 300 years ago, until they watched eggs grow day by day.
 2. (fill) The warm water around a baby in the womb is called ____ fluid.  
    **Answer:** ['amniotic']. *Why:* The baby floats in amniotic fluid. It cushions bumps, keeps the baby warm and lets the baby move.
@@ -596,7 +596,7 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
    Options: They are too sleepy to breathe / Their nose is not made yet / There is no air there. The baby floats in water and gets oxygen through the cord.  
    **Answer:** There is no air there. The baby floats in water and gets oxygen through the cord.. *Why:* The baby is surrounded by water, and their lungs are full of fluid. Oxygen comes from the mother's blood, through the placenta and the cord. The first breath of air comes at birth.
 6. (mcq) In the Floating Safe test, you shook a raw egg in an empty jar and a raw egg in a jar full of water. What does this test tell us about a baby in the womb?  
-   Options: The water around the baby spreads out bumps, so the baby is hardly jolted / Water makes the baby heavier / The baby needs to drink the water  
+   Options: Water makes the baby heavier / The water around the baby spreads out bumps, so the baby is hardly jolted / The baby needs to drink the water  
    **Answer:** The water around the baby spreads out bumps, so the baby is hardly jolted. *Why:* In the full jar, each shake was spread out through the water, so the egg hardly knocked the jar. The water around a baby does the same. A strong answer links what you saw with the egg to the baby.
 7. (write) Find the mistake. 'A baby grows in the mother's stomach, along with her food.' What is wrong? Where does the baby really grow?  
    **Answer:** The baby does not grow in the stomach. The stomach is where food goes to be broken down. The baby grows in the womb, a separate stretchy bag of muscle below the stomach.. *Why:* People say 'a baby in her tummy', so this mistake is very common. A strong answer names the womb and says the stomach is only for food.
@@ -623,7 +623,7 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
 1. (order) A mother eats idli and sambar for lunch. Put these steps in order, to show how that food reaches the baby in her womb.  
    **Answer:** order shown. *Why:* Food is broken down, carried by the mother's blood, passed across the thin wall in the placenta, and carried along the cord. A strong answer puts the placenta before the cord.
 2. (mcq) A mother has blood group O. Her new baby girl has blood group B. How can the baby have a different blood group from the mother she grew inside?  
-   Options: The baby's blood changed at birth / In the placenta, the two bloods stay apart, with a thin wall between them / The doctor gave the baby new blood  
+   Options: In the placenta, the two bloods stay apart, with a thin wall between them / The baby's blood changed at birth / The doctor gave the baby new blood  
    **Answer:** In the placenta, the two bloods stay apart, with a thin wall between them. *Why:* Many people think the two bloods mix. They do not. Food and oxygen pass through a very thin wall, but the bloods stay mostly apart. So the baby can have their own blood group.
 3. (write) A pregnant woman hums a low lullaby. Then she hums a high, squeaky tune, just as loud. Which will the baby in her womb hear more clearly? Use what you heard in the Hearing Through Water test, when you listened to a low hum and a high hum through a bag of water.  
    **Answer:** The low lullaby. If the test worked, the low hum came through the bag of water a little more clearly, and the high hum sounded more muffled. The baby is surrounded by water and the mother's body, so low sounds reach them best.. *Why:* A strong answer makes a prediction, then backs it with what the child heard through the water bag.
@@ -663,7 +663,7 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
 3. (write) Mothers read the same story aloud every day before birth. After birth, their babies sucked harder to hear that story than a new one. Does that prove the babies remembered the story? What else could explain it?  
    **Answer:** It suggests the babies remembered something. But maybe they only got used to the sound of that story, its rhythm and tune, without knowing it was a story. So it shows they learned a sound, but not exactly what they remembered.. *Why:* A strong answer says what the evidence shows and what it does not. Scientists still argue about how much an unborn baby learns.
 4. (mcq) A grown-up has about 30 to 40 trillion cells. Where did all of them come from?  
-   Options: From the food, which turned into cells by itself / From one first cell, splitting again and again / Each body part was made separately  
+   Options: From one first cell, splitting again and again / From the food, which turned into cells by itself / Each body part was made separately  
    **Answer:** From one first cell, splitting again and again. *Why:* Every cell came from another cell, by splitting. Food is the building material, but it does not turn into cells by itself. A strong answer separates the builders (cells) from the bricks (food).
 5. (truefalse) A few of a baby's cells can stay inside the mother's body for many years after the birth.  
    **Answer:** True. *Why:* True. Scientists found cells from sons in their mothers' blood 27 years after birth. Nobody yet knows if these cells help, harm or do nothing.
@@ -693,7 +693,7 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
 
 ## Videos
 - **Pregnancy 101 | National Geographic** (National Geographic, 10 min) id `XEfnq4Q4bfk`: For the parent: real 3D ultrasound footage of babies yawning, sucking thumbs and moving. Choose a short clip, not the whole film. *Check:* Watch it first yourself, and choose a short clip rather than the whole film.
-- **Does Placenta Size Matter? | Horizon: The Nine Months that Made You | BBC Studios** (BBC Studios, 5 min) id `O8KdLdRsbRk`: Shows, with clear animation, how one cell becomes a whole baby, and how cells know where to go. *Check:* Watch it first yourself. Some parts talk about how a baby is conceived in more detail than this unit does.
+- **Does Placenta Size Matter? | Horizon: The Nine Months that Made You | BBC Studios** (BBC Studios, 5 min) id `O8KdLdRsbRk`: Shows, with clear animation, how one cell becomes a whole baby, and how cells know where to go. *Check:* Watch it first yourself. Some parts talk about how a baby is conceived in more detail than this lesson does.
 - **Maternal health: Ensuring kangaroo mother care for every small or preterm baby** (World Health Organization (WHO), 4 min) id `YfhWxMmBIW4`: Shows real parents holding tiny babies skin to skin, and why it keeps them warm and safe. *Check:* Watch it first yourself.
 
 ## Quiz
@@ -701,22 +701,22 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
    Options: A tiny heart, tiny hands and tiny eyes / The instructions, called DNA, for building a body, but no body parts yet / Nothing at all  
    **Answer:** The instructions, called DNA, for building a body, but no body parts yet. *Why:* The first cell had no heart, no hands and no eyes. It had DNA, the instruction book. The body parts were built later, step by step, as the cell split again and again. Picking 'a tiny heart' is the old idea scientists gave up.
 2. (mcq) Each round of splitting doubles the number of cells. Which takes more rounds: going from 1 cell to 8 cells, or going from 8 cells to 64 cells?  
-   Options: 1 to 8 takes more rounds / 8 to 64 takes more rounds / Both take 3 rounds  
+   Options: 1 to 8 takes more rounds / Both take 3 rounds / 8 to 64 takes more rounds  
    **Answer:** Both take 3 rounds. *Why:* 1 to 2 to 4 to 8 is 3 rounds. 8 to 16 to 32 to 64 is also 3 rounds. Many children guess 8 to 64 takes longer, because 64 is a big number. But doubling grows faster and faster, so each round adds more cells than the last.
 3. (mcq) A cell splits into two. What is each new cell?  
-   Options: Half of a cell / A dead piece of the old cell / A whole living cell with the same DNA  
+   Options: A whole living cell with the same DNA / Half of a cell / A dead piece of the old cell  
    **Answer:** A whole living cell with the same DNA. *Why:* Each new cell is whole and alive, with a full copy of the instructions. Later, cells read different parts of them and become different kinds.
 4. (mcq) Predict. A pregnant woman cooks every day on a smoky wood fire. Could the smoke matter for her baby in the womb?  
-   Options: No. The baby is safe inside the womb, away from the air / Yes. Smoke goes into the mother's blood from her lungs, and some of it can pass through the placenta to the baby / Only if the baby can smell the smoke  
+   Options: Yes. Smoke goes into the mother's blood from her lungs, and some of it can pass through the placenta to the baby / No. The baby is safe inside the womb, away from the air / Only if the baby can smell the smoke  
    **Answer:** Yes. Smoke goes into the mother's blood from her lungs, and some of it can pass through the placenta to the baby. *Why:* Anything in the mother's blood can pass through the thin wall in the placenta. Some harmful things from smoke get into her blood, so they can reach the baby. This is why a clean stove or good air is better for a pregnant woman. Picking 'safe inside the womb' forgets that the baby is fed from the mother's blood.
 5. (mcq) Why does a baby in the womb hear their mother's voice best?  
-   Options: Her voice travels through her own body to the baby / The womb has a little window / Babies can only hear high sounds  
+   Options: The womb has a little window / Her voice travels through her own body to the baby / Babies can only hear high sounds  
    **Answer:** Her voice travels through her own body to the baby. *Why:* The mother's voice travels through her body and the water. Low sounds, like voices, get through water best.
 6. (mcq) You want to test whether water around an egg protects it when it is shaken. You shake two raw eggs in two jars. What should be the only difference between the jars?  
-   Options: The size of the egg / How hard you shook / Whether the jar was full of water  
+   Options: Whether the jar was full of water / The size of the egg / How hard you shook  
    **Answer:** Whether the jar was full of water. *Why:* Only the water should change. Everything else stays the same, so any difference comes from the water. That is what makes it a fair test.
 7. (mcq) Someone says, 'The egg in the water jar did not crack. So water protects a baby.' Which part is the evidence?  
-   Options: The egg in the water jar did not crack / Water protects a baby / Both parts are claims  
+   Options: Water protects a baby / Both parts are claims / The egg in the water jar did not crack  
    **Answer:** The egg in the water jar did not crack. *Why:* Evidence is what was seen: the egg did not crack. The claim is the idea drawn from it: water protects a baby.
 8. (mcq) Find the mistake. 'A baby's heart starts beating on the day they are born.' What is wrong?  
    Options: Nothing. It is right / The heart starts beating at about six weeks, months before birth / The heart starts beating at one year  
@@ -725,16 +725,16 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
    Options: About three weeks, like a mouse / About nine months, between the two / About two years, like an elephant  
    **Answer:** About nine months, between the two. *Why:* About nine months, or 40 weeks. Bigger animals usually grow longer inside their mother. A human is bigger than a mouse but much smaller than an elephant.
 10. (mcq) Why does a newborn often cry right after birth?  
-   Options: The cry helps air fill their lungs for the first time / The cord hurts them / They want to go back  
+   Options: The cord hurts them / They want to go back / The cry helps air fill their lungs for the first time  
    **Answer:** The cry helps air fill their lungs for the first time. *Why:* Before birth, the lungs were full of fluid. A good cry helps open the lungs and fill them with air.
 11. (mcq) Why can doctors cut the cord once a newborn is breathing well?  
-   Options: The baby now gets oxygen from the air in their own lungs, so the cord's job is done / The cord would grow too long / The cord makes the baby heavy  
+   Options: The cord would grow too long / The baby now gets oxygen from the air in their own lungs, so the cord's job is done / The cord makes the baby heavy  
    **Answer:** The baby now gets oxygen from the air in their own lungs, so the cord's job is done. *Why:* Before birth, the cord brought oxygen and food from the placenta. Once the baby breathes air, their lungs bring the oxygen. So the cord can be clamped and cut. The stump dries and falls off, and leaves the belly button.
 12. (mcq) Which of these is true of every person in the world, whatever their family?  
-   Options: They were born in a hospital / They began as one cell and grew in a womb / They grew in the womb for exactly 40 weeks  
+   Options: They were born in a hospital / They grew in the womb for exactly 40 weeks / They began as one cell and grew in a womb  
    **Answer:** They began as one cell and grew in a womb. *Why:* Some babies are born at home and some in hospital. Some come early and some late. Some are raised by the family they were born into and some are adopted. But every person began as one cell and grew in a womb. Every family is a real family.
 13. (mcq) Which of these do scientists still not know for sure?  
-   Options: Whether a baby needs oxygen / Whether a baby grows in a womb / Exactly what signal starts birth  
+   Options: Whether a baby needs oxygen / Exactly what signal starts birth / Whether a baby grows in a womb  
    **Answer:** Exactly what signal starts birth. *Why:* Scientists know the baby and the mother both seem to play a part. But exactly which signal starts birth is still being studied.
 
 ## Applications
@@ -814,6 +814,12 @@ This Body Is a Universe (sci.body.L3): Topic-level song
 - [Magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): To see the loops and whorls of fingerprints. Used in a3. 
 - [Kitchen or digital thermometer](https://www.amazon.in/s?k=digital+kitchen+thermometer) (tool): To measure how warm each pretend baby stays in Keep the Baby Warm. Feeling with your cheek also works, but is rougher. Used in e3. 
 - [Soft measuring tape, 150 centimetres](https://www.amazon.in/s?k=measuring+tape+150+cm) (tool): For marking baby lengths and measuring your own height. Used in a2. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in How Big Was I? The growing fruit line, Newborn Eyes: what a baby sees, The Forty-Week Scroll. About ₹10 to ₹30. Any school ruler is fine. Used in a2, a6, p1. Get it before How Big Was I? The growing fruit line.
+- [Balloons (a packet)](https://www.amazon.in/s?k=balloons+packet) (material): Used in Womb in a Bottle: a model. About ₹20 to ₹60. Used in a5. Get it before Womb in a Bottle: a model.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in One Cell to Many: the dough doubling. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in a1. Get it before One Cell to Many: the dough doubling.
+- [Food colour](https://www.amazon.in/s?k=food+colour+liquid) (material): Used in One Cell to Many: the dough doubling. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it. Used in a1. Get it before One Cell to Many: the dough doubling.
+- [Butter paper or tracing paper](https://www.amazon.in/s?k=butter+paper+roll) (material): Used in Newborn Eyes: what a baby sees. About ₹30 to ₹80 for a roll. Thin clean plastic bag or a sheet of waxed paper. Used in a6. Get it before Newborn Eyes: what a baby sees.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Every person began as one ____. → Cell.

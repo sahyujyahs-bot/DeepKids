@@ -1,9 +1,9 @@
 # Nutrients: what food is made of, and what each part does
 `sci.food.nutrients.L3`
 
-**Summary.** Pour lemon juice into hot milk and it splits into white lumps and a watery liquid. So what is milk made of? In this unit you will split milk with different kitchen liquids, dry vegetable slices in the sun to see how much is water, and sort foods in a card game.
+**Summary.** Pour lemon juice into hot milk and it splits into white lumps and a watery liquid. So what is milk made of? In this lesson you will split milk with different kitchen liquids, dry vegetable slices in the sun to see how much is water, and sort foods in a card game.
 
-**Intro.** *Your school chart puts dal in the 'protein' box. But if you could pull apart a spoon of dry toor dal, more than half of it would be carbohydrate. So what is a 'protein food'? And what is inside the food we eat?* Every food is made of a few kinds of nutrients. A nutrient is a part of food that your body uses to live, grow and move. In this unit you split milk into its parts, dry slices of vegetables in the sun to find out how much water they hold, and look for minerals hiding in clear water. Then you will know what the food group boxes really mean.
+**Intro.** *Your school chart puts dal in the 'protein' box. But if you could pull apart a spoon of dry toor dal, more than half of it would be carbohydrate. So what is a 'protein food'? And what is inside the food we eat?* Every food is made of a few kinds of nutrients. A nutrient is a part of food that your body uses to live, grow and move. In this lesson you split milk into its parts, dry slices of vegetables in the sun to find out how much water they hold, and look for minerals hiding in clear water. Then you will know what the food group boxes really mean.
 
 ## Learning outcomes
 0. I can name the six kinds of nutrients and say one job each does in my body.
@@ -35,7 +35,7 @@
 ### What a nutrient is · *defined*
 **Definition:** A nutrient is a part of food that the body uses to live, grow, move and mend itself. Scientists sort nutrients into six kinds: carbohydrates, proteins, fats, vitamins, minerals and water.
 
-Your body takes food apart into its nutrients. It burns some of them for energy. It uses others to build new parts, like muscle, bone and blood. Your body needs large amounts of carbohydrates, proteins, fats and water every day. It needs only tiny amounts of vitamins and minerals, but it cannot stay healthy without them.
+Your body takes food apart into its nutrients. It burns some of them for energy. It uses others to build new parts, like muscle, bone and blood. Your body needs large amounts of carbohydrates, proteins, fats and water every day. It needs only tiny amounts of vitamins and minerals, but it cannot stay healthy without them. When a child gets too little food for a long time, the body wastes away. This illness is called marasmus.
 - e.g. A plate of curd rice gives carbohydrate from the rice, and protein, fat, calcium and water from the curd.
 - e.g. A guava gives water, sugar, fibre and a lot of vitamin C.
 ### Food groups: boxes to sort food · *defined*
@@ -77,7 +77,7 @@ Vitamin A helps your eyes see in dim light. It is in carrots, mangoes, papaya an
 ### Minerals: from rocks to your bones · *defined*
 **Definition:** Minerals are nutrients that come from rocks and soil. Plants take them up from the soil with water. We get them from plants, from animals that ate plants, and from water.
 
-Calcium makes bones and teeth hard. Ragi, milk, curd, til and green leaves give calcium. Iron is used by blood to carry oxygen. Green leaves, dal, ragi, eggs and fish give iron. Iodine helps the body grow and the brain develop. India adds iodine to most salt for this reason. Many minerals dissolve in water. That is why tap water can leave white rings when it dries on a steel tumbler.
+Calcium makes bones and teeth hard. Ragi, milk, curd, til and green leaves give calcium. Iron is used by blood to carry oxygen. Green leaves, dal, ragi, eggs and fish give iron. Iodine helps the body grow and the brain develop. India adds iodine to most salt for this reason. Too little iron can cause anaemia. The blood then carries less oxygen, so a child tires quickly. Too little iodine can cause goitre, a swelling at the front of the neck. Many minerals dissolve in water. That is why tap water can leave white rings when it dries on a steel tumbler.
 - e.g. 100 grams of ragi flour has nearly three times as much calcium as 100 millilitres of milk.
 - e.g. Iron from green leaves is taken in better when the meal also has vitamin C, like a squeeze of lemon.
 ### Water: the nutrient you need most of · *defined*
@@ -493,7 +493,7 @@ Arjun licked his finger, touched the sticky film and tasted it. 'Sweet,' he said
   - Check: Why does a sports day drink have a pinch of salt in it? → **Sweat carries salt out of the body, so the salt puts some back**
 
 ## Worksheets
-### What Is Inside Our Food (core) (core, 15 questions)
+### What Is Inside Our Food (core) (core, 16 questions)
 1. (mcq) Which of these is a nutrient?  
    Options: Protein / A spoon / A plate  
    **Answer:** Protein. *Why:* Protein is a part of food that your body uses to build and mend itself. A spoon and a plate hold food, but they are not part of it.
@@ -506,7 +506,7 @@ Arjun licked his finger, touched the sticky film and tasted it. 'Sweet,' he said
 5. (fill) When lemon juice makes hot milk split, the white lumps are called ____ and the watery liquid is called ____.  
    **Answer:** ['curds', 'whey']. *Why:* The curds hold most of the milk's protein and fat. The whey is mostly water, with milk sugar and minerals.
 6. (mcq) Salt water is added to hot milk. Nothing happens. Then lemon juice is added, and white lumps appear. Why?  
-   Options: Lemon juice is an acid, and acid makes milk's protein clump / Lemon juice is yellow / Salt water was too cold  
+   Options: Lemon juice is yellow / Lemon juice is an acid, and acid makes milk's protein clump / Salt water was too cold  
    **Answer:** Lemon juice is an acid, and acid makes milk's protein clump. *Why:* Lemon juice is sour, which means it is an acid. Acid makes casein, the main protein in milk, clump into curds. Salt water is not an acid, so the milk stays smooth.
 7. (write) After splitting milk with lemon juice, there was much more whey than curd. What does this tell you about milk?  
    **Answer:** Milk is mostly water. The water went into the whey. Only a small part of milk is protein and fat, which made the curds.. *Why:* A strong answer joins what was seen (lots of whey) to what it means (milk is mostly water).
@@ -527,9 +527,11 @@ Arjun licked his finger, touched the sticky film and tasted it. 'Sweet,' he said
    **Answer:** ['starch']. *Why:* Starch is a long chain of sugar pieces joined together.
 15. (order) Put the steps of the milk-splitting test in order.  
    **Answer:** ['A grown-up heats the milk and pours it into tumblers', 'Add 1 tablespoon of each liquid and stir', 'Wait 3 minutes and look for lumps', 'Pour it through a cotton cloth']. *Why:* First the milk is heated. Then the liquids are added. Then you wait and look for lumps. Last, the cloth separates the curds from the whey.
+16. (write) Say it out loud, and a grown-up writes it: a child feels tired and looks pale. Which mineral may be missing, and what does it do in the blood?  
+   **Answer:** Iron may be missing. Iron helps the blood carry oxygen around the body.. *Why:* A strong answer names iron and says its job: carrying oxygen in the blood.
 ### Nutrients at Work (stretch) (stretch, 15 questions)
 1. (mcq) In a Sun-Dried Slices test, a potato slice kept about a fifth of its weight. A cucumber slice kept almost nothing. Which slice had more of something that is not water?  
-   Options: The potato, because it has a lot of starch / The cucumber, because it is green / Both the same, because they were the same size  
+   Options: The cucumber, because it is green / Both the same, because they were the same size / The potato, because it has a lot of starch  
    **Answer:** The potato, because it has a lot of starch. *Why:* What is left after drying is the part of a food that is not water. A potato keeps more because about a fifth of it is starch. A cucumber is nearly all water.
 2. (write) Tap water left a white ring when it dried on a steel plate. Filtered water left almost nothing. Explain why.  
    **Answer:** Tap water carries minerals like calcium, dissolved from rocks and soil. When the water dried, the minerals stayed. The filter took most minerals out.. *Why:* A strong answer says the minerals were dissolved, so they could not be seen, and stayed behind when the water left.
@@ -538,7 +540,7 @@ Arjun licked his finger, touched the sticky film and tasted it. 'Sweet,' he said
 4. (match) Match each vitamin to one job it does.  
    **Answer:** Vitamin A → helps eyes see in dim light; Vitamin C → helps cuts heal; Vitamin D → helps the body use calcium; B vitamins → help cells get energy from food. *Why:* Each vitamin has its own jobs. These are well known ones.
 5. (mcq) Why does a carrot poriyal cooked in a little oil help your body more than a raw carrot alone?  
-   Options: Vitamin A mixes into fat, so the body takes it in better with a little oil / Oil turns into vitamins / Cooking adds protein  
+   Options: Oil turns into vitamins / Vitamin A mixes into fat, so the body takes it in better with a little oil / Cooking adds protein  
    **Answer:** Vitamin A mixes into fat, so the body takes it in better with a little oil. *Why:* Vitamins A, D, E and K mix into fat, not water. A little fat in the meal helps the body take them in.
 6. (write) A spoon of fat gives about twice as much energy as a spoon of sugar. Why might the body store spare energy as fat, not as sugar?  
    **Answer:** Fat holds more energy in the same amount, so it takes up less room in the body. It is a good way to keep energy for later.. *Why:* A strong answer uses the idea that fat packs more energy into less space.
@@ -569,7 +571,7 @@ Arjun licked his finger, touched the sticky film and tasted it. 'Sweet,' he said
 3. (write) Design a fair test to find out whether cold milk curdles with lemon juice as well as hot milk. Say what you would change, what you would keep the same, and what you would look at.  
    **Answer:** I would change only the temperature of the milk: one tumbler hot and one cold. I would keep the amount of milk, the amount of lemon juice, the stirring and the waiting time the same. I would look at how many lumps form and how big they are after 3 minutes.. *Why:* A strong design changes one thing, keeps the rest the same, and says what will be compared.
 4. (mcq) Sugar, oil and paneer look completely different. What are they mostly made of?  
-   Options: The same three kinds of atoms, carbon, hydrogen and oxygen, joined in different ways / Completely different kinds of atoms / Water  
+   Options: Completely different kinds of atoms / Water / The same three kinds of atoms, carbon, hydrogen and oxygen, joined in different ways  
    **Answer:** The same three kinds of atoms, carbon, hydrogen and oxygen, joined in different ways. *Why:* Sugar, fat and protein are all built mostly from carbon, hydrogen and oxygen atoms. Protein also has nitrogen. How the atoms are joined makes each one so different.
 5. (truefalse) The more vitamin tablets a healthy child takes, the healthier the child becomes.  
    **Answer:** False. *Why:* False. The body needs only tiny amounts of vitamins, and most children who eat a mix of foods get enough. Too much of some vitamins, like A and D, can make a person ill.
@@ -578,13 +580,13 @@ Arjun licked his finger, touched the sticky film and tasted it. 'Sweet,' he said
 7. (write) Coconut water and whey both left a sticky film when they dried. Tap water left a white ring. What different things might each one be leaving behind?  
    **Answer:** The sticky film is mostly sugars, with some minerals. The white ring from tap water is mostly minerals like calcium, with no sugar.. *Why:* A strong answer uses how each dried spot felt, sticky or not, to tell sugar from minerals.
 8. (match) Match each finding to the person or group who made it.  
-   **Answer:** Justus von Liebig, 1840s → said muscles burn their own protein; Fick and Wislicenus, 1865 → showed muscles run mainly on carbohydrates and fats; National Institute of Nutrition, Hyderabad → measures what is in Indian foods. *Why:* These are the people and the institute named in this unit.
+   **Answer:** Justus von Liebig, 1840s → said muscles burn their own protein; Fick and Wislicenus, 1865 → showed muscles run mainly on carbohydrates and fats; National Institute of Nutrition, Hyderabad → measures what is in Indian foods. *Why:* These are the people and the institute named in this lesson.
 9. (write) Ragi has nearly three times as much calcium as the same weight of milk. Why do you think most food charts put milk, not ragi, first for calcium?  
    **Answer:** We cannot be sure. One idea is that many food charts were first made where milk is the usual food and ragi is not eaten. Another is that milk is easy to drink every day. A good answer gives a reason and says it is a guess.. *Why:* Good answers think about who made the chart and what foods they knew, and say plainly that it is a guess.
 10. (draw) Draw a cycle that shows how the water in a cucumber could end up inside you, and then back in the air.  
    **Answer:** Rain falls on soil, the cucumber plant drinks the water, you eat the cucumber, the water goes into your blood, and you breathe or sweat it back into the air, where it forms clouds.. *Why:* This joins water in food, water in the body and water leaving the body.
 11. (mcq) Suppose tamarind water made fewer lumps than lemon juice in the milk-splitting test. What is the most likely reason?  
-   Options: Tamarind water was less strongly acidic than the lemon juice / Tamarind is brown / Tamarind has no taste  
+   Options: Tamarind is brown / Tamarind has no taste / Tamarind water was less strongly acidic than the lemon juice  
    **Answer:** Tamarind water was less strongly acidic than the lemon juice. *Why:* How quickly and fully milk curdles depends on how acidic the liquid is. Tamarind water is sour, but often less strongly than lemon juice. Adding more tamarind water usually gives more lumps.
 12. (sort) Sort these foods: is each one nearly a single nutrient, or a mix of many?  
    **Answer:** white sugar → Nearly one nutrient; coconut oil → Nearly one nutrient; salt → Nearly one nutrient; milk → A mix of many; toor dal → A mix of many; peanuts → A mix of many. *Why:* Sugar is nearly all carbohydrate, oil nearly all fat, salt nearly all minerals. Most whole foods, like milk, dal and peanuts, are mixes.
@@ -603,41 +605,44 @@ Arjun licked his finger, touched the sticky film and tasted it. 'Sweet,' he said
 
 ## Quiz
 1. (mcq) How many kinds of nutrient does your body need?  
-   Options: Six: carbohydrates, proteins, fats, vitamins, minerals and water / Two: food and water / One: protein  
+   Options: Two: food and water / Six: carbohydrates, proteins, fats, vitamins, minerals and water / One: protein  
    **Answer:** Six: carbohydrates, proteins, fats, vitamins, minerals and water. *Why:* Scientists sort nutrients into six kinds. The body needs all of them.
 2. (mcq) Which nutrient does your body use most for energy?  
-   Options: Carbohydrate / Calcium / Vitamin C  
+   Options: Calcium / Vitamin C / Carbohydrate  
    **Answer:** Carbohydrate. *Why:* Carbohydrates, like the starch in rice and idli, are the body's main fuel. Calcium builds bones, and vitamin C helps cuts heal.
 3. (mcq) Your hair, nails and muscles are made mostly of which nutrient?  
    Options: Protein / Fat / Sugar  
    **Answer:** Protein. *Why:* Hair, nails and muscles are built mostly from protein. That is why growing children need protein every day.
 4. (mcq) Peanuts are in the protein group. Which other group could they also go in?  
-   Options: Fats, because more than a third of a peanut is fat / Dairy / Fruit and vegetables  
+   Options: Dairy / Fruit and vegetables / Fats, because more than a third of a peanut is fat  
    **Answer:** Fats, because more than a third of a peanut is fat. *Why:* A peanut has more fat than protein. So it fits the fats group as well. Most foods carry several nutrients.
 5. (mcq) Why can one food belong to more than one food group?  
-   Options: Most foods are a mix of several nutrients / Food groups change every year / Cooks put foods in the wrong group  
+   Options: Food groups change every year / Cooks put foods in the wrong group / Most foods are a mix of several nutrients  
    **Answer:** Most foods are a mix of several nutrients. *Why:* A food group names the nutrient a food gives most. But most foods carry several, so they can fit several groups.
 6. (mcq) Lemon juice makes hot milk split. Which nutrients from the milk are mostly caught in the white lumps?  
-   Options: Protein and fat / Sugar and minerals / Vitamin C  
+   Options: Sugar and minerals / Vitamin C / Protein and fat  
    **Answer:** Protein and fat. *Why:* The lumps, called curds, hold most of the casein, the main protein in milk, with most of the fat caught inside. The watery whey holds most of the water, milk sugar and some minerals. Milk has no vitamin C to speak of.
 7. (mcq) Which of these would NOT make hot milk curdle?  
-   Options: Sugar water / Lemon juice / Vinegar  
+   Options: Lemon juice / Vinegar / Sugar water  
    **Answer:** Sugar water. *Why:* Lemon juice and vinegar are acids, which make milk's protein clump. Sugar water is not an acid, so the milk stays smooth.
 8. (mcq) Why does a cucumber slice shrink so much when it dries in the sun?  
-   Options: It is nearly all water, and the water goes into the air / The sun burns it up / Ants eat it  
+   Options: The sun burns it up / Ants eat it / It is nearly all water, and the water goes into the air  
    **Answer:** It is nearly all water, and the water goes into the air. *Why:* A cucumber is nearly all water. When it dries, the water becomes water vapour in the air, and very little is left.
 9. (mcq) Which of these is a sign that your body needs more water?  
-   Options: Dark yellow urine / Feeling cold / Pale yellow urine  
+   Options: Feeling cold / Dark yellow urine / Pale yellow urine  
    **Answer:** Dark yellow urine. *Why:* Dark yellow urine means your body is short of water and is keeping back what it has. Pale yellow usually means you have had enough.
 10. (mcq) Why can tap water leave a white ring on a steel tumbler?  
-   Options: It carries dissolved minerals that stay behind when the water dries / The steel turns white when wet / Soap is in the water  
+   Options: The steel turns white when wet / Soap is in the water / It carries dissolved minerals that stay behind when the water dries  
    **Answer:** It carries dissolved minerals that stay behind when the water dries. *Why:* Tap water picks up minerals like calcium from rocks and soil. They dissolve and cannot be seen. When the water dries, they stay as a white ring.
 11. (mcq) Which food gives a lot of calcium for strong bones?  
-   Options: Ragi / Sugar / Coconut oil  
+   Options: Sugar / Ragi / Coconut oil  
    **Answer:** Ragi. *Why:* Ragi is rich in calcium, a mineral that makes bones hard. Milk, curd, til and green leaves give calcium too.
 12. (mcq) Two scientists ate no protein, then climbed a mountain. They measured how much protein their bodies used. It was far too little to give the energy for the climb. What does this show?  
-   Options: Muscles run mainly on carbohydrates and fats, not protein / Muscles run only on protein / Climbing needs no energy  
+   Options: Muscles run only on protein / Muscles run mainly on carbohydrates and fats, not protein / Climbing needs no energy  
    **Answer:** Muscles run mainly on carbohydrates and fats, not protein. *Why:* The climb needed a lot of energy, but very little protein was used. So the energy must have come mostly from carbohydrates and fats.
+13. (mcq) A child is often tired and pale. Her blood has too little iron. What is this illness called?  
+   Options: Anaemia, when the blood carries less oxygen / Goitre, a swelling at the front of the neck / Marasmus, when the body wastes away  
+   **Answer:** Anaemia, when the blood carries less oxygen. *Why:* Too little iron causes anaemia, so the blood carries less oxygen and the child tires quickly. Goitre comes from too little iodine, and marasmus comes from too little food for a long time.
 
 ## Applications
 - Paneer, chhena for rasgulla, and cheese are all made by making milk's protein clump.
@@ -654,7 +659,7 @@ Arjun licked his finger, touched the sticky film and tasted it. 'Sweet,' he said
 - Paneer, or chhena for rasgulla and sandesh, being made in a sweet shop or at home, with whey dripping from a tied cloth.
 - A packet of iodised salt in the kitchen, with a small sun or a label saying 'iodised'.
 - Neer mor or sambharam, thin spiced buttermilk, given out on hot summer days.
-- Ragi mudde, ragi dosa or ragi kanji, a calcium-rich food from Karnataka and Tamil Nadu.
+- Ragi mudde, ragi dosa or ragi kanji, a calcium-rich food.
 - The nutrition table on the back of a biscuit or milk packet.
 - Sundal handed out during Navaratri in South Indian homes.
 - Tender coconut sellers at the roadside on a hot day.
@@ -704,9 +709,14 @@ Sunlight on My Plate (sci.food.L3): Topic-level song for Food and nutrition L3
 - [USDA FoodData Central](https://fdc.nal.usda.gov) · interactive: A large free table of nutrients in foods from the United States government. Older children can compare a cucumber and a potato.
 - [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free hands-on science activities from a science museum in San Francisco, in the United States.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A science museum with galleries on biology and the human body.
-- [A local dairy or a sweet shop that makes paneer]() · place · Your own town or city: Ask politely if your child can watch paneer being made, and ask what the shop does with the whey.
+- A local dairy or a sweet shop that makes paneer · place · Your own town or city: Ask politely if your child can watch paneer being made, and ask what the shop does with the whey.
 
 ## Things to buy
+- [Vinegar](https://www.amazon.in/s?k=white+vinegar) (material): Used in Splitting Milk: which kitchen liquids curdle it?. About ₹40 to ₹80. Lemon juice works for many tests. Used in e1. Get it before Splitting Milk: which kitchen liquids curdle it?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Ten-Spoon Foods: guess what a food is made of, Chana Sundal: cook a snack and find its nutrients. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a1, a4. Get it before Ten-Spoon Foods: guess what a food is made of.
+- [A kitchen or weighing scale](https://www.amazon.in/s?k=digital+kitchen+weighing+scale) (tool): Used in Sun-Dried Slices: how much of a vegetable is water?. About ₹300 to ₹700. A home-made balance from a ruler and two cups can compare weights. Used in e2. Get it before Sun-Dried Slices: how much of a vegetable is water?.
+- [A measuring jug or syringe (marked in millilitres)](https://www.amazon.in/s?k=measuring+jug+500+ml) (tool): Used in Splitting Milk: which kitchen liquids curdle it?, My Water Diary: three days of water in and out. About ₹30 to ₹100. A clean medicine cup or marked bottle works. Used in e1, p1. Get it before Splitting Milk: which kitchen liquids curdle it?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name the six kinds of nutrient. → Carbohydrates, proteins, fats, vitamins, minerals and water.
@@ -725,7 +735,7 @@ Sunlight on My Plate (sci.food.L3): Topic-level song for Food and nutrition L3
 - Core: a1, e1, e2, g1, ws-core, a2
 
 ## Sources
-- ideas/by_topic/food-and-a-balanced-diet.md: SCI Cards for Barry Marshall and M. S. Swaminathan (read; this unit's story is about nutrients, so neither is the main story, and Marshall's stomach work belongs with digestion)
+- ideas/by_topic/food-and-a-balanced-diet.md: SCI Cards for Barry Marshall and M. S. Swaminathan (read; this lesson's story is about nutrients, so neither is the main story, and Marshall's stomach work belongs with digestion)
 - Cambridge Primary Science Stage 3, Unit 2 'Looking after ourselves' pack (five food groups, water, sugar on labels)
 - NIOS Level A, Lesson 8 'Food'
 - Nearby units read and not repeated: sci.food.balanced-diet.L3 (paper fat test, vitamin C iodine test, yeast balloons, beriberi story), sci.food.where-food-comes-from.L3 (curd bacteria, sprouting moong, iodine starch test), sci.what-is-life.cells.L3 (curd bowls)

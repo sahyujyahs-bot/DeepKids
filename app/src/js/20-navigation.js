@@ -348,7 +348,7 @@ function renderMain() {
   ui.lastView = vk;
   m.replaceChildren(
     htmlToEl(
-      `<div class="wrap">${banner}${ob ? viewOnboarding() : { today: viewToday, week: viewPlanner, tasks: viewTasks, library: viewLibrary, journey: viewJourneyTabs }[tab]()}</div>`,
+      `<div class="wrap">${banner}${ob ? viewOnboarding() : { today: viewToday, week: viewPlanner, tasks: viewTasks, library: viewLibrary, journey: viewJourneyTabs, newunits: viewNewUnits }[tab]()}</div>`,
     ),
   );
   if (kept) restoreInputs(m, kept);
@@ -364,7 +364,7 @@ function fxCrumbs() {
   if (ob) {
     return "<b>Set up</b>";
   }
-  const T = { today: "Today", week: "Plan", journey: "Progress", library: "Library" },
+  const T = { today: "Today", week: "Plan", journey: "Progress", library: "Library", newunits: "New units" },
     parts = [T[tab] || "Today"];
   if (tab === "today" && ui.tday && ui.tday !== today) parts.push(fmt(ui.tday));
   if (parts.filter(Boolean).length < 2) return ""; // a main tab on its own is already marked in the tab bar

@@ -1,7 +1,7 @@
 # Microbes: tiny living beings on your hands, in soil and in curd
 `sci.microorganisms.microbes-everywhere.L2`
 
-**Summary.** Three potato slices look clean, but touch one with your fingers and one with soil and spots grow in a few days. Where do the spots come from? In this unit you will grow them and count them, smell what soil microbes make, and find out how a spoon of curd sets milk.
+**Summary.** Three potato slices look clean, but touch one with your fingers and one with soil and spots grow in a few days. Where do the spots come from? In this lesson you will grow them and count them, smell what soil microbes make, and find out how a spoon of curd sets milk.
 
 **Intro.** *Look closely at your palm. You can see skin and lines, and nothing else. Yet thousands of tiny living beings are on it right now. How could we find out if that is true?* Some living beings are far too small to see with our eyes alone. They are called microbes. One microbe is too small to see, but a microbe can split into two, and two into four. On food, in a warm place, a few microbes can become millions in a day or two. Millions together make a spot we can see. So if we give the microbes on our hands some food, we can watch them grow.
 
@@ -445,7 +445,7 @@ That night, Nila watched Ammamma add the spoon of curd to the warm milk. This ti
 1. (match) Draw a line from each place to the microbes that live there.  
    **Answer:** A spoon of curd → Curd bacteria; Wet soil in a flower pot → Bacteria that make the rain smell; Your hands after playing → Thousands of skin microbes; Old bread → Fuzzy mould. *Why:* Microbes live in all these places. Curd bacteria set milk, soil bacteria make the rain smell, and thousands of microbes live on our hands.
 2. (mcq) What is a microbe?  
-   Options: A tiny stone / A living being too small to see / A baby ant  
+   Options: A living being too small to see / A tiny stone / A baby ant  
    **Answer:** A living being too small to see. *Why:* A microbe is a living being too small to see with our eyes alone. Most microbes are a single cell. A tiny stone is not alive, and a baby ant is big enough to see.
 3. (truefalse) A hand that looks clean has no microbes on it.  
    **Answer:** False. *Why:* False. In the Three Potato Slices experiment, the slice touched by fingers grew spots. Microbes live on hands even when the hands look clean.
@@ -463,13 +463,13 @@ That night, Nila watched Ammamma add the spoon of curd to the warm milk. This ti
 9. (label) Label the picture of the kitchen. Write curd, soil, hands or air next to each place where microbes live.  
    **Answer:** Curd: the katori on the shelf. Soil: the flower pot by the window. Hands: the child's hands. Air: the space by the open window.. *Why:* Microbes live in all four places. A strong answer labels all four and knows that the air holds microbes too.
 10. (mcq) Why do we wash our hands with soap before we eat?  
-   Options: Soap washes off most germs before they get inside us / Soap kills every microbe on Earth / Soap makes food taste better  
+   Options: Soap kills every microbe on Earth / Soap washes off most germs before they get inside us / Soap makes food taste better  
    **Answer:** Soap washes off most germs before they get inside us. *Why:* A few microbes are germs, and soap and water wash most of them off our hands. Soap does not kill every microbe, and most microbes are not harmful.
 ### How Spots and Curd Grow (stretch) (stretch, 10 questions)
 1. (perspective) Two sisters in Hyderabad look at a potato slice with spots on it after four days in a closed box.  
    **Answer:** A strong answer agrees more with the sister aged 9 and uses the test: the slice nobody touched grew the fewest spots, so the spots came from what touched the slices. The sister aged 7 has something right too: the potato is the food that the microbes grew on.. *Why:* The spots are colonies grown from microbes that landed on the slice. The potato only gave them food. A strong answer uses the Nobody slice as evidence.
 2. (mcq) Why did the soil slice grow the most spots?  
-   Options: Soil holds a huge number of microbes / Soil is heavy / Soil is brown  
+   Options: Soil is heavy / Soil is brown / Soil holds a huge number of microbes  
    **Answer:** Soil holds a huge number of microbes. *Why:* Soil is packed with microbes. One teaspoon of rich soil can hold about as many bacteria as there are people in India. So a pinch of soil put many more microbes on the slice than fingers did.
 3. (order) Put these in order, to show how a spot grows.  
    **Answer:** ['A few microbes land on the potato', 'Each microbe splits into two', 'They split again and again', 'Millions make a spot we can see']. *Why:* Spots grow because microbes multiply. Each one splits into two, again and again, until there are enough to see.
@@ -493,7 +493,7 @@ That night, Nila watched Ammamma add the spoon of curd to the warm milk. This ti
 2. (write) A friend says, 'I can't see any microbes, so they are not real.' Write what you would show your friend to change their mind.  
    **Answer:** I would show my friend the potato slices, where spots grew from fingers, or set curd with one drop of curd.. *Why:* A strong answer uses evidence a friend can see: the spots that grow from fingers or soil, or curd that sets from a drop. We can see what microbes do, and the crowds they make.
 3. (mcq) Suppose you do the Three Potato Slices experiment again. This time you wash your hands with soap before pressing your fingers on the slice. What will probably happen?  
-   Options: More spots than before / Fewer spots than before / Exactly the same spots  
+   Options: More spots than before / Exactly the same spots / Fewer spots than before  
    **Answer:** Fewer spots than before. *Why:* Soap and water wash most microbes off hands. So the slice should grow fewer spots than before, but maybe not zero, because a few microbes stay on skin.
 4. (write) In the curd experiment, one katori of warm milk got a spoon of curd and one got only a drop. Suppose the Drop katori set softer than the Spoon katori. Why would that happen?  
    **Answer:** The drop had fewer curd bacteria, so they took longer to multiply and set the milk.. *Why:* A strong answer links the amount of starter to the number of bacteria, and the number of bacteria to how fast the milk sets.
@@ -520,25 +520,25 @@ That night, Nila watched Ammamma add the spoon of curd to the warm milk. This ti
    Options: Microbes are invisible on purpose / Microbes are far too small / Microbes only come out at night  
    **Answer:** Microbes are far too small. *Why:* Microbes are much smaller than the smallest thing our eyes can see. A thousand bacteria in a row would just reach across a mustard seed.
 2. (mcq) Where do microbes live?  
-   Options: Only in dirty places / Only inside sick people / Almost everywhere: on skin, in soil, air, water and food  
+   Options: Almost everywhere: on skin, in soil, air, water and food / Only in dirty places / Only inside sick people  
    **Answer:** Almost everywhere: on skin, in soil, air, water and food. *Why:* Microbes live almost everywhere on Earth. Even clean-looking hands carry thousands.
 3. (mcq) A spot on the potato is too big to be one microbe. What is a spot?  
    Options: A crowd of millions of microbes / A burn on the potato / A drop of water  
    **Answer:** A crowd of millions of microbes. *Why:* Each spot is a colony: millions of microbes that grew from one or a few by splitting again and again.
 4. (mcq) What do curd bacteria do to milk?  
-   Options: Make the milk hot / Eat the milk sugar and make the milk thick and sour / Turn the milk into water  
+   Options: Make the milk hot / Turn the milk into water / Eat the milk sugar and make the milk thick and sour  
    **Answer:** Eat the milk sugar and make the milk thick and sour. *Why:* Curd bacteria eat the sugar in milk and make an acid. That acid makes the milk thick and sour.
 5. (mcq) Why do we add a spoon of old curd to warm milk?  
    Options: To make the milk colder / To add the living curd bacteria / To make the milk sweeter  
    **Answer:** To add the living curd bacteria. *Why:* The spoon of curd is the starter. The starter carries the living bacteria that turn the milk into curd.
 6. (mcq) What are most microbes like?  
-   Options: Germs that make us ill / Harmless or helpful / Dead  
+   Options: Germs that make us ill / Dead / Harmless or helpful  
    **Answer:** Harmless or helpful. *Why:* Most microbes are harmless or helpful. Only a few are germs.
 7. (mcq) Who makes much of the earthy smell when rain falls on dry soil?  
-   Options: Bacteria in the soil / Worms singing / The clouds  
+   Options: Worms singing / The clouds / Bacteria in the soil  
    **Answer:** Bacteria in the soil. *Why:* Soil bacteria make a substance called geosmin. Rain lifts tiny amounts into the air, and we smell it.
 8. (mcq) You press unwashed fingers on one potato slice. You put a second slice in a box without touching it. Why do you need the second slice?  
-   Options: To eat it later / To compare, so you know the spots came from your fingers / To make the box heavier  
+   Options: To eat it later / To make the box heavier / To compare, so you know the spots came from your fingers  
    **Answer:** To compare, so you know the spots came from your fingers. *Why:* The untouched slice shows what grows without fingers. If only the finger slice grows many spots, the spots must have come from the fingers. This makes the test fair.
 9. (mcq) Where do spots on old food come from?  
    Options: Out of the food itself / From microbes that land on the food and multiply / From the light in the room  
@@ -598,6 +598,9 @@ Too Small to See (sci.microorganisms.L2): Topic-level song for Microorganisms L2
 - [Bonnie Bassler, on Wikipedia](https://en.wikipedia.org/wiki/Bonnie_Bassler) · interactive: For the parent: the scientist who studies how bacteria use chemicals to sense each other and act together.
 
 ## Things to buy
+- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): Used in Three Potato Slices: where do the spots come from?, How Small? Microbes in a full stop. About ₹30 to ₹120. A water drop on clear plastic magnifies a little. Used in e1, a3. Get it before Three Potato Slices: where do the spots come from?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in How Small? Microbes in a full stop. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a3. Get it before How Small? Microbes in a full stop.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is a microbe? → A living being too small to see with our eyes alone.

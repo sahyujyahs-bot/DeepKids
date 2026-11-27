@@ -120,6 +120,12 @@
    "art": "A crescent-shaped mud bank holding a pool of rainwater on a dry hillside."
   },
   {
+   "term": "Rainwater harvesting",
+   "meaning": "Rainwater harvesting means catching rain and keeping it for later, instead of letting it run away.",
+   "example": "A pipe takes rain from a roof into a tank. The family uses the water to wash clothes and water plants.",
+   "art": "A roof with a pipe that carries rain down into a tank, with a tap at the bottom of the tank."
+  },
+  {
    "term": "Dissolve",
    "meaning": "When something mixes into water so completely that you cannot see it any more. It is still there.",
    "example": "Stir salt or sugar into water and it dissolves.",
@@ -372,6 +378,34 @@
      }
     ]
    }
+  },
+  {
+   "concept": "Too much water, all at once",
+   "status": "defined",
+   "definition": "Too much water is a problem too. When heavy rain cannot soak in or drain away, it floods streets and homes.",
+   "description": "A place can have too little water in summer and too much water in the monsoon. Both hurt people. In September 2022, very heavy rain fell on Bengaluru. Water stood on roads and flowed into homes and offices. People went to work in tractors and boats. Many people said the city had built over lakes and blocked the old drains, so the rain had nowhere to go. The same city worries about too little water in dry summers. This is why we need ground that soaks rain in, clear drains and tanks that store the extra rain for later.",
+   "examples": [
+    "A tarred road with a blocked drain turns into a stream in heavy rain.",
+    "A river that spills over its banks in the monsoon covers fields and villages.",
+    "A pond or lake holds extra rain, and keeps it from flooding the street."
+   ],
+   "perspectives": [],
+   "art": "A Bengaluru street in heavy rain, with water up to the wheels of a bus, a boat carrying people, and a blocked drain with plastic bags in it.",
+   "context": "Water can be too little and also too much. This card is about floods, and why the same city can have both problems."
+  },
+  {
+   "concept": "Saving water at home",
+   "status": "defined",
+   "definition": "We save water by wasting less, using the same water twice, and catching rain. Small habits at home add up to many litres.",
+   "description": "Three small habits save a lot. Turn the tap off while you brush your teeth. Take a bucket bath instead of a long shower. Fix a dripping tap. Next, use water twice. The water you used to rinse rice, dal or vegetables is clean enough for the tulsi on the balcony. Do not use it if it has soap or oil in it. Last, catch the rain. A roof sends rain down a pipe, and the pipe can fill a tank instead of running into the drain. One millimetre of rain on one square metre of roof gives about one litre of water. A roof of 100 square metres, in a rain of 10 millimetres, gives about 1,000 litres. Catching rain from roofs is called rainwater harvesting. Many cities in India now ask for it in new buildings.",
+   "examples": [
+    "A child pours the rice-washing water on the tulsi, instead of down the drain.",
+    "A school roof sends rain through a pipe into an underground tank.",
+    "A family keeps a bucket in the bathroom, and fills it with the water that comes before the hot water."
+   ],
+   "perspectives": [],
+   "art": "A house with a roof pipe leading into a tank, a child pouring rinse water on a potted tulsi on the balcony, and a tap being turned off while a child brushes her teeth.",
+   "context": "After shortage and floods, what can one home do? This card gives three habits, and two ways to use water twice."
   },
   {
    "concept": "Weighing hidden water from space",
@@ -774,11 +808,11 @@
       "t": "mcq",
       "q": "A raindrop lands on a tarred road. Why is that bad news for reaching the well?",
       "options": [
-       "The road has no gaps, so the drop runs off into a drain",
        "The road is too hot",
-       "The road soaks it up too fast"
+       "The road soaks it up too fast",
+       "The road has no gaps, so the drop runs off into a drain"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A tarred road has no gaps for water to trickle into. So the drop runs off into a drain, and it cannot soak down to the groundwater that fills the well. Picking 'soaks it up' usually means thinking all ground is like soil."
      }
     },
@@ -928,10 +962,10 @@
       "q": "Water from a stream in the Nilgiri hills, clear and very cold. Which mat?",
       "options": [
        "DRINK IT: it is clear and cold",
-       "MAKE IT SAFE FIRST: boil or purify it",
-       "NEVER DRINK IT"
+       "NEVER DRINK IT",
+       "MAKE IT SAFE FIRST: boil or purify it"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Clear, cold water can still carry germs from animals or people upstream. Germs are far too small to see. Boiling it, or purifying it, makes it safe. Picking 'drink it' usually means trusting how water looks. Looking clean does not make water safe."
      }
     },
@@ -989,11 +1023,11 @@
      "p": "Where does almost all the fresh water we use begin?",
      "opts": [
       "In the tap",
-      "As rain",
       "In the overhead tank",
+      "As rain",
       "In the sea"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Rain fills rivers, lakes and the ground. Taps and tanks only pass water on. Picking the tap or the tank means stopping the trail too early. The sea is salty, so we cannot drink it without removing the salt.",
      "art": "A rain cloud above a river, a lake and a well."
     },
@@ -1011,10 +1045,10 @@
      "p": "In Rain on Four Grounds, you pour the same mug of water on a tub of soil, a tub of sand, a tub of gravel and a tile. Guess first: where will most of the water run off?",
      "opts": [
       "The sand",
-      "The gravel",
-      "The tile"
+      "The tile",
+      "The gravel"
      ],
-     "a": 2,
+     "a": 1,
      "why": "A tile has no gaps for water to go into, so the water runs off its edges. Sand, gravel and soil have gaps, so water soaks in. Gravel and sand soak it up fastest, because their gaps are biggest.",
      "context": "This question is about Rain on Four Grounds, where you poured the same mug of 'rain' on different kinds of ground and watched where it went.",
      "how": "e1"
@@ -1085,10 +1119,10 @@
      "opts": [
       "Clay is made of something cold",
       "The matka keeps the sunlight out",
-      "Water seeps through the clay and evaporates, taking heat away",
-      "The water inside slowly turns to ice"
+      "The water inside slowly turns to ice",
+      "Water seeps through the clay and evaporates, taking heat away"
      ],
-     "a": 2,
+     "a": 3,
      "why": "Evaporating water carries heat away, so the water inside cools. 'Clay is cold' is a common guess. But a dry clay pot left in the sun gets hot like anything else. Any covered pot keeps sunlight out, but that does not explain why a matka is cooler than a steel pot."
     },
     {
@@ -1106,12 +1140,12 @@
      "t": "mcq",
      "p": "Which way kills germs in water?",
      "opts": [
+      "Boiling it until big bubbles roll",
       "Leaving it to settle",
       "Pouring it through a cloth",
-      "Boiling it until big bubbles roll",
       "Putting it in a steel tumbler"
      ],
-     "a": 2,
+     "a": 0,
      "why": "Boiling kills germs. Settling and a cloth remove bits you can see, but germs are far too small to be caught that way. Most slip right through the cloth."
     },
     {
@@ -1165,6 +1199,42 @@
      "p": "Rain that soaks into the ground can end up in a well far away from where it fell.",
      "a": true,
      "why": "True. Groundwater moves very slowly through the gaps in soil and rock, sometimes for years, so the rain that fills a well may have fallen a long way off."
+    },
+    {
+     "t": "sort",
+     "p": "Which of these save water, and which waste it?",
+     "cats": [
+      "Saves water",
+      "Wastes water"
+     ],
+     "items": [
+      [
+       "turning the tap off while brushing teeth",
+       "Saves water"
+      ],
+      [
+       "a bucket bath",
+       "Saves water"
+      ],
+      [
+       "rice-rinsing water poured on a plant",
+       "Saves water"
+      ],
+      [
+       "a dripping tap nobody fixes",
+       "Wastes water"
+      ],
+      [
+       "a hose running while washing a car",
+       "Wastes water"
+      ],
+      [
+       "a roof pipe that fills a tank",
+       "Saves water"
+      ]
+     ],
+     "a": "see items",
+     "why": "Using less water, using it twice, and catching rain all save water. A dripping tap and a running hose lose many litres for nothing."
     }
    ]
   },
@@ -1214,11 +1284,11 @@
      "t": "mcq",
      "p": "On a hot, dry day the matka water is cool. On a sticky, humid day in the monsoon, it is hardly cooler than the room. Why?",
      "opts": [
-      "The clay gets wet from the rain",
       "Water evaporates slowly when the air is already full of water vapour",
+      "The clay gets wet from the rain",
       "Matkas only work in summer"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The matka cools because water evaporates from its outside. Humid air already holds a lot of vapour, so evaporation is slow, and less heat is carried away. This is also why wet clothes dry slowly in the monsoon.",
      "context": "This question is about the Cool Matka Test. You filled a clay matka, a steel bottle and a steel bottle wrapped in a wet cloth with the same water, and measured them after 4 hours in the shade.",
      "how": "e3"
@@ -1227,11 +1297,11 @@
      "t": "mcq",
      "p": "In A Well in a Jar, the water level fell after 5 pumps. Then you covered the soil with plastic and poured more rain on top. What happened?",
      "opts": [
-      "The level rose a lot",
       "The level did not rise, because the rain could not soak in",
+      "The level rose a lot",
       "The jar overflowed"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The plastic stopped the rain soaking down, just like cement over real ground. So nothing refilled the groundwater. Picking 'rose a lot' means thinking rain reaches the well whatever covers the ground.",
      "context": "This question is about A Well in a Jar. You built layers of gravel, sand and soil in a clear jar, with a straw as a well, and poured in 'rain'.",
      "how": "e2"
@@ -1277,10 +1347,10 @@
      "p": "Why does a city with lots of roads and buildings often flood in heavy rain?",
      "opts": [
       "Cities get more rain than villages",
-      "Buildings make rain",
-      "Rain cannot soak into cement and tar, so it all runs off at once"
+      "Rain cannot soak into cement and tar, so it all runs off at once",
+      "Buildings make rain"
      ],
-     "a": 2,
+     "a": 1,
      "why": "Hard ground has no gaps, so the rain runs off all at once and overfills the drains. Cities usually do not get more rain than villages. The difference is the ground, not the sky."
     },
     {
@@ -1325,11 +1395,11 @@
      "p": "Look at the chart from a Family Water Count. Which job used the most water?",
      "opts": [
       "Drinking",
-      "The toilet",
       "Bathing",
+      "The toilet",
       "Washing clothes"
      ],
-     "a": 2,
+     "a": 1,
      "why": "Bathing has the tallest bar, at 150 litres. The toilet is second, at 120 litres. Picking drinking means guessing from what we think matters most, not reading the chart.",
      "context": "This question is about the Family Water Count. A family put a tally mark on a chart every time they used water for one day, then worked out the litres.",
      "chart": {
@@ -1471,6 +1541,13 @@
      "p": "In the same storm, a bigger roof catches more rain than a smaller roof.",
      "a": true,
      "why": "True. Each square metre of roof catches 1 litre for every millimetre of rain, so more square metres catch more litres."
+    },
+    {
+     "t": "write",
+     "p": "Tell a grown-up your answer, and ask them to write it down. Bengaluru has floods in the monsoon and water shortage in summer. Name one thing the city could do that helps with both.",
+     "lines": 3,
+     "a": "For example: keep the lakes and open soil so rain soaks in and fills the ground, or catch roof rain in tanks. Any sensible idea is good.",
+     "why": "Anything that holds rain in the monsoon, in a lake, in the soil or in a tank, helps with floods and gives water for the dry months. A strong answer says how the rain would be kept."
     }
    ]
   },
@@ -1484,11 +1561,11 @@
      "t": "mcq",
      "p": "A village well dried up after the forest on the hills above it was cut down. The hills became bare and hard. Why did the well dry up?",
      "opts": [
-      "The well was dug too deep",
       "Rain ran off the bare hills before it could soak in and refill the groundwater",
+      "The well was dug too deep",
       "Trees drink all the rain, so cutting them should have helped"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Forest floors slow rain down and let it soak in. Bare, hard ground makes it run away. So less water refilled the ground. Trees do use water, but forests help far more rain soak in than they use."
     },
     {
@@ -1603,11 +1680,11 @@
      "t": "mcq",
      "p": "A city by the sea runs out of lake water in a dry summer. Why can't people just drink the sea water?",
      "opts": [
-      "It is too salty, and taking the salt out needs special plants and lots of electricity",
       "Sea water is too cold to drink",
-      "It is fine to drink just as it is"
+      "It is fine to drink just as it is",
+      "It is too salty, and taking the salt out needs special plants and lots of electricity"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Salty water makes the body lose more water than it gains. The salt can be removed, but that needs special plants and lots of electricity. So a city may have to bring fresh water from far away, by pipe or even by train."
     },
     {
@@ -1765,11 +1842,11 @@
       "t": "mcq",
       "q": "A puddle on a tile slowly gets smaller. Where does its water go?",
       "options": [
-       "It evaporates into the air as invisible vapour",
        "It soaks into the tile",
-       "It disappears for ever"
+       "It disappears for ever",
+       "It evaporates into the air as invisible vapour"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A tile has almost no gaps, so the water cannot soak in. Instead, it slowly turns into water vapour, an invisible gas, and goes into the air. Later, that vapour may become rain again. Picking 'soaks in' means thinking a tile is like soil. Picking 'disappears' means thinking water can be destroyed. It can't. It only moves."
      },
      "wait": "Come back after an hour or two, or the next morning."
@@ -1917,11 +1994,11 @@
       "t": "mcq",
       "q": "In the jar well, the water level dropped after pumping. What would refill it?",
       "options": [
-       "More rain soaking down from the top",
        "Pumping even faster",
+       "More rain soaking down from the top",
        "Covering the soil with plastic"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Groundwater only comes back when rain soaks down through the soil to refill the gaps. Pumping faster makes the level drop more. Covering the soil with plastic, like covering land with cement, stops rain soaking in. Picking 'pumping faster' usually means thinking a well makes its own water. It doesn't. It only collects water that soaked in."
      },
      "parent": "The first pull often brings only air. Pull slowly and keep going until water comes up the straw. Five full syringes take out about 50 millilitres. In a jar about 10 cm across, the water sits in the gaps between the stones, so that lowers the level by about 1 to 2 cm, enough to see. With a small medicine dropper the change is too small, so use a syringe."
@@ -2120,11 +2197,11 @@
       "t": "mcq",
       "q": "Why does the matka keep water cooler than the steel bottle?",
       "options": [
-       "Water seeps out through the clay and evaporates, taking heat away",
        "Clay is a cold material",
-       "The matka is heavier"
+       "The matka is heavier",
+       "Water seeps out through the clay and evaporates, taking heat away"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Clay has tiny holes. A little water seeps through and evaporates from the outside. Evaporating water carries heat away, so the water inside cools. The wet cloth does the same for the bottle. Picking 'clay is cold' is a common idea. But a dry clay pot left in the sun gets just as hot as anything else."
      }
     },
@@ -2276,11 +2353,11 @@
       "t": "mcq",
       "q": "Glass A and glass B looked exactly the same. Glass B left a white ring when it dried. What does this show?",
       "options": [
-       "Water can look clear and still have things dissolved in it",
        "The plate was dirty",
-       "Salt turns into water"
+       "Salt turns into water",
+       "Water can look clear and still have things dissolved in it"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The salt dissolved, so it spread out between the water molecules where you could not see it. When the water evaporated, the salt was left behind as a white ring. Plain tap water often leaves a very faint ring too. That ring is minerals the water dissolved from rock and soil on its way to you. Arsenic dissolves in water in the same way, and germs are too small to see. Picking 'salt turns into water' means thinking the salt was gone. It wasn't."
      },
      "parent": "Plain water from a tap or borewell often leaves a faint white ring. These are minerals, such as calcium, that the water dissolved from rock and soil. That is normal. If your tap gives RO water, it leaves almost nothing, because RO takes most minerals out. The muddy water's top leaves a faint brown mark, because a little fine mud stays floating even after settling. If the plain water leaves nothing you can see, look with a magnifying glass, or try a spoon of borewell or bottled mineral water."
@@ -2572,11 +2649,11 @@
       "t": "mcq",
       "q": "Your rain gauge shows 0 millimetres, but the soil outside is wet. What is the best explanation?",
       "options": [
-       "Dew or a sprinkle wet the soil, but too little to measure, or the soil got water another way",
        "The rain gauge made the rain disappear",
+       "Dew or a sprinkle wet the soil, but too little to measure, or the soil got water another way",
        "Soil makes its own water"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A rain gauge only catches rain that falls into it. A tiny sprinkle, dew or a garden hose can wet soil without adding a whole millimetre. Picking 'soil makes its own water' means mixing up wet soil with a water source. Soil only holds water that came from somewhere else."
      },
      "think": "If no rain falls this week, where can you find out how much fell in your city? (Look for the India Meteorological Department's rainfall report, or the newspaper.)"
@@ -2798,11 +2875,11 @@
       "t": "mcq",
       "q": "A tap drips 40 millilitres in 10 minutes. How much does it drip in one hour?",
       "options": [
-       "46 millilitres",
        "240 millilitres",
+       "46 millilitres",
        "400 millilitres"
       ],
-      "a": 1,
+      "a": 0,
       "why": "One hour is 6 lots of 10 minutes. So it is 6 lots of 40 millilitres. 6 × 40 = 240 millilitres. Picking 46 means adding 6 instead of multiplying. Picking 400 means multiplying by 10, but an hour has only 6 lots of 10 minutes."
      },
      "think": "That is one hour. How much would it drip in a whole day of 24 hours?"
@@ -2969,11 +3046,11 @@
       "t": "mcq",
       "q": "Why does a tap in every home matter so much for girls in many villages?",
       "options": [
-       "Girls often do much of the water-carrying, so a tap gives them time back for school and play",
        "Girls drink more water than boys",
+       "Girls often do much of the water-carrying, so a tap gives them time back for school and play",
        "Taps make water taste better"
       ],
-      "a": 0,
+      "a": 1,
       "why": "In homes without water nearby, women and girls usually do most of the fetching. That can take hours every day. A tap at home gives that time back. Picking 'girls drink more' is not true. The difference is in who does the carrying, not who drinks."
      },
      "think": "Who fills the water bottles in your home? Who switches on the motor? How much of that work did you notice before today?"
@@ -3207,11 +3284,11 @@
       "t": "mcq",
       "q": "Which cooler will work best on a hot, dry, windy day?",
       "options": [
-       "A bottle wrapped in a wet cloth, in the shade and the breeze",
        "A bottle wrapped in a dry wool blanket in the sun",
-       "A plain bottle in a closed cupboard"
+       "A plain bottle in a closed cupboard",
+       "A bottle wrapped in a wet cloth, in the shade and the breeze"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Wind and dry air make water evaporate fast. Evaporation takes heat away, so the wet cloth cools the bottle. Shade stops the sun heating it. Picking the blanket in the sun is a common idea, because blankets keep us warm in winter. A blanket slows heat moving in or out, but sunshine will still warm it, and it has no evaporation to cool it."
      },
      "think": "Wet khus screens and the pot-in-pot cooler both use evaporation. What kind of air makes evaporation work best?"
@@ -3350,10 +3427,10 @@
    "p": "Which of these only stores water and passes it on, but is not where the water really comes from?",
    "opts": [
     "A river",
-    "An overhead tank",
-    "Groundwater"
+    "Groundwater",
+    "An overhead tank"
    ],
-   "a": 1,
+   "a": 2,
    "why": "An overhead tank is filled by a motor from a sump, a borewell or a pipe. Rivers and groundwater are real sources, filled by rain.",
    "outcome": 0
   },
@@ -3361,11 +3438,11 @@
    "t": "mcq",
    "p": "What is groundwater mostly like?",
    "opts": [
-    "Rain held in tiny gaps between grains of soil and rock, like water in a sponge",
     "A big underground lake under every city",
-    "Water lying in puddles on the ground"
+    "Water lying in puddles on the ground",
+    "Rain held in tiny gaps between grains of soil and rock, like water in a sponge"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Groundwater fills tiny gaps, like water in a sponge. 'A big lake' is a very common picture, but it is mostly wrong. Puddles are on top of the ground, not in it.",
    "outcome": 2
   },
@@ -3375,10 +3452,10 @@
    "opts": [
     "A cement floor",
     "A tin roof",
-    "Sand",
-    "A tiled courtyard"
+    "A tiled courtyard",
+    "Sand"
    ],
-   "a": 2,
+   "a": 3,
    "why": "Sand has big gaps between its grains, so water rushes in. Cement, tin and tiles have no gaps, so rain runs off.",
    "outcome": 1
   },
@@ -3386,11 +3463,11 @@
    "t": "mcq",
    "p": "In A Well in a Jar, what made the water level at the bottom fall?",
    "opts": [
-    "Pouring more rain on top",
     "Pumping water up the straw",
+    "Pouring more rain on top",
     "Leaving it alone"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Pumping takes water out of the gaps, so the level falls. Only rain soaking down refills it.",
    "outcome": 2,
    "context": "This question is about A Well in a Jar. You built layers of gravel, sand and soil in a clear jar, with a straw as a well, and poured in 'rain'.",
@@ -3400,11 +3477,11 @@
    "t": "mcq",
    "p": "To keep water cool, why must a matka be plain clay, with no shiny coating?",
    "opts": [
-    "Water must seep through tiny holes in the clay and evaporate on the outside",
     "A shiny coating makes the pot heavy",
+    "Water must seep through tiny holes in the clay and evaporate on the outside",
     "A shiny coating makes the water salty"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The cooling comes from water evaporating on the outside of the pot. A shiny glaze blocks the tiny holes, so no water seeps out, and the pot stays as warm as a steel one.",
    "outcome": 3
   },
@@ -3412,11 +3489,11 @@
    "t": "mcq",
    "p": "In the Thar desert, rain falls on only a few days a year. Families store rainwater in a tank dug under the ground, with a cover. Why put it under the ground and cover it?",
    "opts": [
-    "So the water stays cool and clean, and less of it dries up in the sun",
     "So nobody can find it",
-    "Because rain falls upwards"
+    "Because rain falls upwards",
+    "So the water stays cool and clean, and less of it dries up in the sun"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Under the ground and covered, the water stays cool, so less evaporates. The cover keeps out dust and animals. So the water lasts clean for the dry months.",
    "outcome": 3
   },
@@ -3425,10 +3502,10 @@
    "p": "A glass of water is perfectly clear and tastes sweet. Is it safe to drink?",
    "opts": [
     "Yes, clear water is always safe",
-    "Not for certain. It could carry germs or dissolved poisons that we cannot see.",
-    "Only if it is cold"
+    "Only if it is cold",
+    "Not for certain. It could carry germs or dissolved poisons that we cannot see."
    ],
-   "a": 1,
+   "a": 2,
    "why": "Germs and dissolved substances like arsenic are invisible. The Broad Street pump in 1854 had clear, sweet water that spread cholera.",
    "outcome": 4
   },
@@ -3448,11 +3525,11 @@
    "t": "mcq",
    "p": "Why does muddy water come out clearer after it trickles through a thick layer of sand?",
    "opts": [
-    "The bits of mud get stuck in the tiny gaps between the sand grains, and the water slips through",
     "The sand turns the mud into water",
-    "The sand kills all the germs"
+    "The sand kills all the germs",
+    "The bits of mud get stuck in the tiny gaps between the sand grains, and the water slips through"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Sand grains have tiny gaps between them, like the ground that holds groundwater. Water fits through, but most bits of mud do not. A sand filter does not kill germs, so the water must still be boiled or purified.",
    "outcome": 4
   },
@@ -3460,11 +3537,11 @@
    "t": "mcq",
    "p": "A family counted their water on a Sunday, when everyone was home and all the clothes were washed. Why might one Sunday not show how much they usually use?",
    "opts": [
-    "Different days use different amounts, so it is better to count on a few days",
     "Water is heavier on Sundays",
-    "Tally marks only work on school days"
+    "Tally marks only work on school days",
+    "Different days use different amounts, so it is better to count on a few days"
    ],
-   "a": 0,
+   "a": 2,
    "why": "One day can be unusual. Counting on a few different days and comparing gives a fairer picture of what a family usually uses.",
    "outcome": 5
   },
@@ -3472,12 +3549,48 @@
    "t": "mcq",
    "p": "Why do wells and borewells in many parts of India go dry?",
    "opts": [
-    "People pump out groundwater faster than rain refills it",
     "It never rains in India",
-    "The water sinks too deep to be found"
+    "The water sinks too deep to be found",
+    "People pump out groundwater faster than rain refills it"
+   ],
+   "a": 2,
+   "why": "When pumping is faster than refilling, the water level falls. India pumps more groundwater than any other country. India gets a lot of rain, but unevenly.",
+   "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "In September 2022, heavy rain flooded parts of Bengaluru. Which thing makes a flood worse?",
+   "opts": [
+    "Lakes and soil covered over, and drains blocked",
+    "Lots of trees and open soil",
+    "A lake that holds extra rain"
    ],
    "a": 0,
-   "why": "When pumping is faster than refilling, the water level falls. India pumps more groundwater than any other country. India gets a lot of rain, but unevenly.",
+   "why": "When the ground is covered and the drains are blocked, rain has nowhere to go, so it stays on the street. Open soil, trees and lakes hold the rain, so they help against floods.",
+   "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "A roof sends its rain into a tank. What does this do for the family?",
+   "opts": [
+    "It makes the water clean enough to drink at once",
+    "It stores rain to use later, for washing and plants",
+    "It stops rain from falling on the roof"
+   ],
+   "a": 1,
+   "why": "A tank holds the rain for dry days. Roof rain picks up dust and bird droppings, so the water still needs cleaning before anyone drinks it.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "Which water is fine to pour on the tulsi pot?",
+   "opts": [
+    "Water from washing greasy pans with strong soap",
+    "The water used to rinse rice",
+    "Water from a blocked drain"
+   ],
+   "a": 1,
+   "why": "Rice-rinsing water is only a little starchy, so the plant can drink it up. Soap, grease and drain water can harm the plant's roots.",
    "outcome": 6
   },
   {
@@ -3485,10 +3598,10 @@
    "p": "Scientists think the hydrogen atoms in the water you drink were made…",
    "opts": [
     "at the water treatment plant",
-    "in the Big Bang, when the universe began",
-    "last monsoon"
+    "last monsoon",
+    "in the Big Bang, when the universe began"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Hydrogen atoms were made in the Big Bang, about 13.8 billion years ago. The water itself goes round and round, so it is very old. 'Last monsoon' mixes up when the rain fell with when its atoms were made.",
    "outcome": 7
   },
@@ -3953,6 +4066,70 @@
    "used_in": [
     "c2"
    ]
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in A Well in a Jar, Rain Gauge and Sky Diary, Catch the Rain: a model rooftop tank. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e2",
+    "a2",
+    "p1"
+   ],
+   "plan": "Get it before A Well in a Jar."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Catch the Rain: a model rooftop tank. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before Catch the Rain: a model rooftop tank."
+  },
+  {
+   "id": "b-clean-sand--a-small-bag",
+   "item": "Clean sand (a small bag)",
+   "kind": "material",
+   "why": "Used in Rain on Four Grounds: soak in or run off?, A Well in a Jar, Cool Water Without a Fridge. About ₹20 to ₹60. Fine soil sieved from a pot works.",
+   "url": "https://www.amazon.in/s?k=play+sand+small+bag",
+   "used_in": [
+    "e1",
+    "e2",
+    "c1",
+    "c2"
+   ],
+   "plan": "Get it before Rain on Four Grounds: soak in or run off?."
+  },
+  {
+   "id": "b-a-small-toy-car-with-free-ro",
+   "item": "A small toy car with free-rolling wheels",
+   "kind": "material",
+   "why": "Used in Catch the Rain: a model rooftop tank. About ₹100 to ₹200. A marble or a round torch cell works.",
+   "url": "https://www.amazon.in/s?k=toy+car+pull+back+small",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before Catch the Rain: a model rooftop tank."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

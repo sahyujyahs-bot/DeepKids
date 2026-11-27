@@ -1,9 +1,9 @@
 # Feelings: naming them, and what helps when we feel sad or angry
 `sci.health.feelings-and-wellbeing.L1`
 
-**Summary.** Can you feel happy, sad and angry all in one day? In this unit you will name your feelings and say how big they are, keep a chart of your feelings through a day, and try things that help when you feel sad or angry.
+**Summary.** Can you feel happy, sad and angry all in one day? In this lesson you will name your feelings and say how big they are, keep a chart of your feelings through a day, and try things that help when you feel sad or angry.
 
-**Intro.** *Put your hand on your tummy and close your eyes. What are you feeling right now? Can you give it a name?* A feeling is something you notice inside you. Happy is a feeling. So are sad, angry, scared and calm. Every person has all of these, and so do many other animals. In this unit you give your feelings names. You draw your feelings through one whole day. And you find out what helps when you feel sad or angry.
+**Intro.** *Put your hand on your tummy and close your eyes. What are you feeling right now? Can you give it a name?* A feeling is something you notice inside you. Happy is a feeling. So are sad, angry, scared and calm. Every person has all of these, and so do many other animals. In this lesson you give your feelings names. You draw your feelings through one whole day. And you find out what helps when you feel sad or angry.
 
 ## Learning outcomes
 0. By the end I can name at least five feelings: happy, sad, angry, scared and calm.
@@ -421,34 +421,34 @@ On the bus home, she counted on her fingers. 'Happy, angry, sad, calm, happy,' s
 
 ## Quiz
 1. (mcq) Which of these is a feeling?  
-   Options: Scared / A spoon / Blue  
+   Options: A spoon / Scared / Blue  
    **Answer:** Scared. *Why:* Scared is a feeling. A spoon is a thing, and blue is a colour.
 2. (mcq) Your heart beats fast and you want to run. Which feeling is this most likely to be?  
-   Options: Calm / Scared / Sleepy  
+   Options: Calm / Sleepy / Scared  
    **Answer:** Scared. *Why:* Fear makes the heart beat fast and gets the body ready to run. Calm and sleepy make the body slow.
 3. (mcq) Is it all right to feel sad?  
    Options: Yes, everyone feels sad sometimes / No, only babies feel sad / Only girls feel sad  
    **Answer:** Yes, everyone feels sad sometimes. *Why:* Everyone feels sad sometimes: children and grown-ups, girls and boys. It is a normal feeling.
 4. (mcq) In the story Chinnu's Sandcastle, Chinnu felt happy, then angry, then calm, then happy again, all in one evening at the beach. What does this show?  
-   Options: Feelings change through the day / A feeling stays all day / Only sad feelings change  
+   Options: A feeling stays all day / Only sad feelings change / Feelings change through the day  
    **Answer:** Feelings change through the day. *Why:* Chinnu's feelings changed again and again. Feelings come and go.
 5. (mcq) You feel very angry. Which of these helps you calm down?  
    Options: Taking slow breaths / Hitting someone / Shouting louder  
    **Answer:** Taking slow breaths. *Why:* Slow breaths calm the body. Hitting hurts someone, and shouting keeps the anger going.
 6. (mcq) Where do feelings happen?  
-   Options: In the whole body: heart, tummy, face and thoughts / Only in the head / Only on the face  
+   Options: Only in the head / Only on the face / In the whole body: heart, tummy, face and thoughts  
    **Answer:** In the whole body: heart, tummy, face and thoughts. *Why:* When you are scared, your heart beats fast. When you are angry, your face gets hot. When you are sad, your throat gets tight. Feelings happen in the whole body.
 7. (mcq) Your friend is crying because her balloon burst. What could you do to comfort her?  
    Options: Laugh at her / Sit with her and ask if she wants a hug / Walk away  
    **Answer:** Sit with her and ask if she wants a hug. *Why:* Sitting with someone and offering a hug comforts them. Laughing or walking away can make them feel worse.
 8. (mcq) Why does saying 'I am cross' help?  
-   Options: It often makes the feeling a little smaller, and others know how you feel / It makes the feeling bigger / It does nothing at all  
+   Options: It makes the feeling bigger / It often makes the feeling a little smaller, and others know how you feel / It does nothing at all  
    **Answer:** It often makes the feeling a little smaller, and others know how you feel. *Why:* Scientists have found that putting a feeling into words often makes it a little smaller. It also lets others know, so they can help.
 9. (mcq) In the story Chinnu's Sandcastle, a boy broke Chinnu's sandcastle. She felt angry and sad at the same time. Can two feelings come at once?  
-   Options: Yes, two feelings can come together / No, only one feeling at a time / Only on the beach  
+   Options: No, only one feeling at a time / Yes, two feelings can come together / Only on the beach  
    **Answer:** Yes, two feelings can come together. *Why:* Two or more feelings often come together, like angry and sad when something you made is broken.
 10. (mcq) A dog jumps and wags her tail when her friend comes home. What feeling does the dog most likely have?  
-   Options: Happy / Sleepy / Scared  
+   Options: Sleepy / Scared / Happy  
    **Answer:** Happy. *Why:* A wagging tail and jumping usually show a happy, excited dog. Humans and other animals have feelings.
 
 ## Applications
@@ -498,10 +498,13 @@ How Do I Feel Today? (sci.health.L1): Topic-level song for Health L1
 ## Links
 - [Tele MANAS: India's free mental health helpline](https://telemanas.mohfw.gov.in/) · interactive: For the parent: if a child's sadness, fear or anger stays for weeks or seems too big, this government helpline gives free advice in many Indian languages.
 - [Sesame Street in Communities](https://sesamestreetincommunities.org/) · interactive: For the parent and child: free videos and activities about feelings and calming down for young children.
-- [Cubbon Park]() · place · Bengaluru: A big, quiet green park in the middle of the city. Sit under a tree and notice how your feelings change.
-- [Marina Beach]() · place · Chennai: Where Chinnu built her sandcastle. Try the wave breath: breathe in as a wave comes in, and out as it goes back.
+- Cubbon Park · place · Bengaluru: A big, quiet green park in the middle of the city. Sit under a tree and notice how your feelings change.
+- Marina Beach · place · Chennai: Where Chinnu built her sandcastle. Try the wave breath: breathe in as a wave comes in, and out as it goes back.
 
 ## Things to buy
+- [Food colour](https://www.amazon.in/s?k=food+colour+liquid) (material): Used in The Settling Bottle: watch it, and breathe. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it. Used in a2. Get it before The Settling Bottle: watch it, and breathe.
+- [A small toy car with free-rolling wheels](https://www.amazon.in/s?k=toy+car+pull+back+small) (material): Used in A Cheer-Up Box for Someone at Home. About ₹100 to ₹200. A marble or a round torch cell works. Used in c1. Get it before A Cheer-Up Box for Someone at Home.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name three feelings. → For example: happy, sad, angry, scared, calm, excited.

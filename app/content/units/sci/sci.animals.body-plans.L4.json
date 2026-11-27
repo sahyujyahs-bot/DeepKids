@@ -626,11 +626,11 @@
       "t": "mcq",
       "q": "In Sit or Seek, which sea suits an animal who is the same on every side?",
       "options": [
-       "The sea where food drifts in from all sides",
        "The sea where food stays far away",
+       "The sea where food drifts in from all sides",
        "Both seas equally"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A ring body is ready on every side, so drifting food is caught wherever it arrives. In the still sea the ring animal is too slow to reach the food. A front body does better there, because she can travel to it."
      },
      "context": "This is the last step of Sit or Seek. You compare the ring animal and the front animal in the two seas."
@@ -802,11 +802,11 @@
       "t": "mcq",
       "q": "In the Lopsided Roller test, which way did the roller with unequal balls curve?",
       "options": [
-       "Towards the side with the small ball",
        "Towards the side with the big ball",
+       "Towards the side with the small ball",
        "A different way on every roll"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The roller curves towards the small ball. In one full turn the big ball rolls further along the floor than the small ball. So the big ball's side gets ahead, and the roller swings round the small ball. If you chose 'the big ball', look again at which ball is on the inside of the curve."
      },
      "parent": "The 4 and 3 roller makes a wide curve to the right. The 4 and 2 roller turns in a tight circle and may come back towards the ramp. Write 'circle' for that.",
@@ -980,11 +980,11 @@
       "t": "mcq",
       "q": "In Tall Cone or Coil, the coil was made from the dough of the tallest cone. Why?",
       "options": [
-       "So that only the shape was different",
        "So that the coil was heavier",
-       "So that less dough was wasted"
+       "So that less dough was wasted",
+       "So that only the shape was different"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A fair test changes one thing. The coil and the tall cone have the same amount of dough, so any difference comes from the shape. If you chose 'heavier', remember that the same dough weighs the same in any shape."
      },
      "parent": "The coil usually stays in place until the board is very steep, and then it slides. Write 'did not fall' and the height you reached.",
@@ -1235,11 +1235,11 @@
       "t": "mcq",
       "q": "In Four Tissues in Your Hand, the mound at the base of your thumb went firm when you pinched. Which tissue is it?",
       "options": [
-       "Muscle tissue",
        "Covering tissue",
+       "Muscle tissue",
        "Nerve tissue"
       ],
-      "a": 0,
+      "a": 1,
       "why": "It is muscle tissue. Muscle cells are long, and they shorten together when you pinch, so the mound bunches up and feels firm. Covering tissue is the skin over the mound. Nerve tissue carried the order to pinch."
      },
      "context": "This is the last step of Four Tissues in Your Hand. You label a drawing of your hand with the four kinds of tissue."
@@ -1412,11 +1412,11 @@
       "t": "mcq",
       "q": "Where is the oldest part of a snail's shell?",
       "options": [
-       "At the tip, in the middle of the coil",
        "At the rim of the opening",
-       "The whole shell is the same age"
+       "The whole shell is the same age",
+       "At the tip, in the middle of the coil"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The tip is the oldest part. A snail adds new shell only at the opening, so the rim is the newest part. The tip is the shell she hatched with. If you chose 'the rim', remember that the rim is where the growing happens."
      },
      "parent": "Nearly every shell you find will have the opening on the right. That is a right-handed shell. A left-handed one is rare.",
@@ -1516,11 +1516,11 @@
       "t": "mcq",
       "q": "Twelve animals are found at home and at the market. Which body plan is likely to be the most common?",
       "options": [
-       "Two matching halves",
        "Rings",
-       "A spiral shell"
+       "A spiral shell",
+       "Two matching halves"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Two matching halves. About ninety-nine of every hundred kinds of animals are two-sided. Every animal who walks, flies or swims past a home is two-sided. Ring animals live in water, mostly in the sea."
      },
      "context": "This is day 4 of My Body Plan Album. You sort all twelve animals by body plan."
@@ -1649,12 +1649,12 @@
      "t": "mcq",
      "p": "What is a body plan?",
      "opts": [
-      "The basic layout of an animal's body",
       "A list of what an animal eats",
       "The place where an animal lives",
-      "The colour of an animal's skin"
+      "The colour of an animal's skin",
+      "The basic layout of an animal's body"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A body plan says which parts a body has and how they are arranged. Two animals with very different colours and homes can share one body plan.",
      "outcome": 0
     },
@@ -1662,12 +1662,12 @@
      "t": "mcq",
      "p": "Which animal has matching parts arranged all the way round a middle point?",
      "opts": [
-      "A sea anemone",
       "A crow",
       "An earthworm",
+      "A sea anemone",
       "A house gecko"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A sea anemone has a ring of tentacles round one mouth. A crow, an earthworm and a gecko each have a head end and two matching sides.",
      "outcome": 1
     },
@@ -1753,12 +1753,12 @@
      "t": "mcq",
      "p": "In the Lopsided Roller test, the roller with one big ball and one small ball curved. Why?",
      "opts": [
-      "The big ball rolls further each turn",
       "The small ball is heavier",
       "The floor slopes to one side",
+      "The big ball rolls further each turn",
       "The pencil is too long"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Both balls turn together on one pencil. In one turn the big ball covers more floor than the small ball. So the big ball's side gets ahead, and the roller curves.",
      "outcome": 3
     },
@@ -2065,12 +2065,12 @@
      "t": "mcq",
      "p": "An adult flatfish lies on one side, with both eyes on the upper side. What does this show?",
      "opts": [
-      "Not every two-sided animal stays matched",
       "Flatfish are built in rings",
       "Flatfish have no head",
+      "Not every two-sided animal stays matched",
       "Flatfish have no backbone"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A young flatfish has matching sides. As she grows, one eye moves across her head. Body plans have exceptions, and they can change during one life.",
      "outcome": 2
     }
@@ -2086,12 +2086,12 @@
      "t": "mcq",
      "p": "Two animals share a ring shape. What is the best way to check whether they are close relatives?",
      "opts": [
-      "Compare their young and their genes",
       "Compare their colours",
       "Compare where they live",
-      "Count their arms"
+      "Count their arms",
+      "Compare their young and their genes"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Shape alone can mislead, as it did with starfish and jellyfish. Young forms and genes carry more of an animal's family history.",
      "outcome": 7
     },
@@ -2099,12 +2099,12 @@
      "t": "mcq",
      "p": "A lopsided roller curves left. You add dough to the small ball until both balls match. What should happen?",
      "opts": [
-      "The roller goes nearly straight",
       "The roller curves left more sharply",
+      "The roller goes nearly straight",
       "The roller curves right in a circle",
       "The roller stops rolling"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The curve came from the unequal balls. With equal balls, both sides cover the same distance in each turn, so the path is straight.",
      "outcome": 3
     },
@@ -2125,12 +2125,12 @@
      "t": "mcq",
      "p": "A prawn's segments carry feelers, jaws, walking legs and swimming legs. What does this show about segments?",
      "opts": [
-      "Repeated parts can change for different jobs",
       "Every segment must stay the same",
       "Segments are only for bending",
-      "Prawns have too many legs"
+      "Prawns have too many legs",
+      "Repeated parts can change for different jobs"
      ],
-     "a": 0,
+     "a": 3,
      "why": "All these parts grow from segments built on one pattern. Repeating a part and then changing some copies gives a body many tools.",
      "outcome": 4
     },
@@ -2259,12 +2259,12 @@
    "t": "mcq",
    "p": "Which list names four animal body plans?",
    "opts": [
-    "Rings, two halves, spirals, segments",
     "Fur, feathers, scales, skin",
     "Run, swim, fly, crawl",
+    "Rings, two halves, spirals, segments",
     "Egg, larva, pupa, adult"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A body plan is a layout. Fur and feathers are coverings, running and swimming are ways to move, and egg to adult is a life cycle.",
    "outcome": 0
   },
@@ -2272,12 +2272,12 @@
    "t": "mcq",
    "p": "What does radial symmetry mean?",
    "opts": [
-    "Matching parts arranged round a middle",
     "One left side and one right side",
     "A body with no pattern",
+    "Matching parts arranged round a middle",
     "A body made of one cell"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Radial symmetry is the ring plan. The parts are arranged round a middle point, like the spokes of a cycle wheel.",
    "outcome": 1
   },
@@ -2298,12 +2298,12 @@
    "t": "mcq",
    "p": "What does every two-sided animal have?",
    "opts": [
-    "A front end and one middle line",
     "Matching parts round a centre",
     "A shell that coils",
-    "No fixed shape"
+    "No fixed shape",
+    "A front end and one middle line"
    ],
-   "a": 0,
+   "a": 3,
    "why": "A two-sided animal has a front end, a tail end and one line down the middle. The left and right sides on either side of that line match.",
    "outcome": 2
   },
@@ -2311,12 +2311,12 @@
    "t": "mcq",
    "p": "Why do matching left and right sides help an animal who travels?",
    "opts": [
-    "Both sides push equally, so she goes straight",
     "They make her lighter",
     "They let her see behind",
-    "They keep her warm"
+    "They keep her warm",
+    "Both sides push equally, so she goes straight"
    ],
-   "a": 0,
+   "a": 3,
    "why": "If one side pushed harder, the animal would curve. Equal sides give equal pushes and a straight path.",
    "outcome": 2
   },
@@ -2324,12 +2324,12 @@
    "t": "mcq",
    "p": "A roller has a big left ball and a small right ball. Which way will it curve?",
    "opts": [
-    "To the right, towards the small ball",
     "To the left, towards the big ball",
     "It will go straight",
-    "It will roll backwards"
+    "It will roll backwards",
+    "To the right, towards the small ball"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The big ball covers more floor in each turn, so the left side gets ahead. The roller swings round towards the small ball.",
    "outcome": 3
   },
@@ -2350,12 +2350,12 @@
    "t": "mcq",
    "p": "Which part of your own body is built in repeated segments?",
    "opts": [
-    "Your backbone and ribs",
     "Your nose",
     "Your tongue",
-    "Your navel"
+    "Your navel",
+    "Your backbone and ribs"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Your backbone is a row of alike bones, and your ribs repeat in pairs. Humans are segmented animals on the inside.",
    "outcome": 4
   },
@@ -2363,12 +2363,12 @@
    "t": "mcq",
    "p": "Why does a snail's shell coil as the snail grows?",
    "opts": [
-    "A coil stays compact and easy to carry",
     "The snail spins while she sleeps",
     "The wind twists the shell",
-    "A coil is heavier"
+    "A coil is heavier",
+    "A coil stays compact and easy to carry"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The shell grows only at the opening, so it gets longer all the time. Coiling keeps that long cone low and compact.",
    "outcome": 5
   },
@@ -2376,12 +2376,12 @@
    "t": "mcq",
    "p": "Which of these is one of the four main kinds of animal tissue?",
    "opts": [
-    "Nerve tissue",
     "Finger tissue",
     "Shell tissue",
+    "Nerve tissue",
     "Water tissue"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The four kinds are covering tissue, connecting tissue, muscle tissue and nerve tissue. A finger is a body part made of all four.",
    "outcome": 6
   },
@@ -2389,12 +2389,12 @@
    "t": "mcq",
    "p": "What is an organ?",
    "opts": [
-    "A body part built from several tissues",
     "A single cell",
     "A group of animals",
+    "A body part built from several tissues",
     "A kind of shell"
    ],
-   "a": 0,
+   "a": 2,
    "why": "An organ, such as a heart or an eye, is built from several tissues that work together.",
    "outcome": 6
   },
@@ -2402,12 +2402,12 @@
    "t": "mcq",
    "p": "A dolphin and a shark have the same body shape. Does this prove they are close relatives?",
    "opts": [
-    "No. Similar lives can give similar shapes",
     "Yes. Shape always shows family",
     "Yes. Both live in the sea",
-    "No. Sharks have no body plan"
+    "No. Sharks have no body plan",
+    "No. Similar lives can give similar shapes"
    ],
-   "a": 0,
+   "a": 3,
    "why": "A dolphin is a mammal and a shark is a fish. Both swim fast, and fast swimming suits a smooth, pointed body. Shape alone does not prove family.",
    "outcome": 7
   }
@@ -2677,6 +2677,47 @@
     "a1"
    ],
    "plan": "After Three Pairs of Sides, a parent can read aloud a few pages from the chapter on heads."
+  },
+  {
+   "id": "b-a-magnifying-glass",
+   "item": "A magnifying glass",
+   "kind": "tool",
+   "why": "Used in Four Tissues in Your Hand. About ₹30 to ₹120. A water drop on clear plastic magnifies a little.",
+   "url": "https://www.amazon.in/s?k=magnifying+glass+kids",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Get it before Four Tissues in Your Hand."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Lopsided Roller: do matching sides help a body go straight?, Tall Cone or Coil: which shell is easier to carry as it grows?, One Segment, Many Times: a paper chain animal. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e2",
+    "a3",
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before The Lopsided Roller: do matching sides help a body go straight?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

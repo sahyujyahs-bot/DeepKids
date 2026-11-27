@@ -683,10 +683,10 @@
       "q": "In the story of life, which of these came first?",
       "options": [
        "The first animals",
-       "Oxygen starts to fill the air",
-       "Dinosaurs die out"
+       "Dinosaurs die out",
+       "Oxygen starts to fill the air"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Oxygen began to fill the air about 2.4 billion years ago. The first animals came about 600 million years ago, which is much later. Dinosaurs died out 66 million years ago. Many people think animals came soon after the first life, but for most of Earth's story the only life was tiny."
      }
     }
@@ -883,11 +883,11 @@
       "t": "mcq",
       "q": "Long ago, the sea had almost no oxygen. Then tiny microbes began making oxygen. What happened to the iron in the sea?",
       "options": [
-       "Nothing, because iron never changes",
        "It joined with the oxygen, made rust and sank in layers",
+       "Nothing, because iron never changes",
        "It turned into microbes"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Your nail test showed that iron rusts where oxygen reaches it. In the sea, oxygen from microbes met the dissolved iron, and rust formed and settled on the sea floor. These layers became the red stripes in banded iron rock. Picking 'turned into microbes' mixes up the microbes with what their oxygen did."
      }
     }
@@ -1170,10 +1170,10 @@
       "q": "On the time string, one metre is one billion years. The string is 4.5 metres long. For how much of the string was there no life, or only tiny life?",
       "options": [
        "Just the first metre",
-       "About 3.9 metres, until the first animals",
-       "Only the last 60 cm"
+       "Only the last 60 cm",
+       "About 3.9 metres, until the first animals"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Animals appear about 60 cm from the Today end. Before that, for about 3.9 metres, the Earth had no life at all and then only microbes and other tiny living things. Picking 'only the last 60 cm' mixes up when animals came with when there was only tiny life."
      },
      "think": "For most of the Earth's story, the only life was too small to see. What were those tiny living things doing all that time?",
@@ -1245,11 +1245,11 @@
       "t": "mcq",
       "q": "A chain reads A C G U. Which is its partner chain?",
       "options": [
-       "A C G U",
        "U G C A",
+       "A C G U",
        "C A U G"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A pairs with U, C with G, G with C, and U with A. So A C G U has the partner U G C A. Picking 'A C G U' means copying the letters straight, but the chain is copied by partners, not by the same letters."
      }
     },
@@ -1324,11 +1324,11 @@
       "t": "mcq",
       "q": "In a copying game, a mistake is made in copy 3. Why does it show up in copies 4 to 8 too?",
       "options": [
-       "Each copy was made from the copy before, so the mistake was copied too",
        "The pencil was blunt",
-       "Mistakes disappear after one copy"
+       "Mistakes disappear after one copy",
+       "Each copy was made from the copy before, so the mistake was copied too"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Each copy is made from the one before it. So a change, once made, is passed on to every later copy. This is how changes add up in living things over many generations. Picking 'mistakes disappear' is a common guess, but a mistake is fixed only if someone checks the copy against the first chain."
      },
      "think": "Living cells copy their DNA with a checker that fixes most mistakes. Why might it be good to let a few mistakes through?",
@@ -1460,11 +1460,11 @@
       "t": "mcq",
       "q": "Which of these is true about where life began?",
       "options": [
+       "Nobody knows yet, and scientists are testing several ideas",
        "Scientists know it began at sea-floor vents",
-       "Scientists know it came from space",
-       "Nobody knows yet, and scientists are testing several ideas"
+       "Scientists know it came from space"
       ],
-      "a": 2,
+      "a": 0,
       "why": "There is evidence for each idea, but none is proven. Picking a single place usually comes from hearing one idea told as if it were settled. Good scientists say 'nobody knows yet' when that is true."
      }
     }
@@ -1542,10 +1542,10 @@
       "q": "On one page, RNA says 'I was the very first life, for certain.' Is that a good sentence for a true book?",
       "options": [
        "Yes, scientists have proven it",
-       "No, it should say many scientists think so, but it is still being tested",
-       "Yes, because RNA is in every cell"
+       "Yes, because RNA is in every cell",
+       "No, it should say many scientists think so, but it is still being tested"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The RNA idea is a hypothesis. It has good evidence but is not proven. Picking 'RNA is in every cell' is a fair reason to like the idea, but it does not prove RNA came first."
      }
     },
@@ -1751,24 +1751,24 @@
   {
    "t": "mcq",
    "p": "Every living thing comes from another living thing. Why does that make the first life a puzzle?",
-   "a": 1,
+   "a": 3,
    "why": "If life only comes from life, then the first life had nothing alive to come from. So something must once have been different.",
    "opts": [
     "Because there are too many living things",
-    "Because the first life had no living thing to come from",
     "Because life is very small",
-    "Because the Earth is round"
+    "Because the Earth is round",
+    "Because the first life had no living thing to come from"
    ],
    "outcome": 0
   },
   {
    "t": "mcq",
    "p": "The Earth is about 4.5 billion years old. About how old are the oldest signs of life we are fairly sure of?",
-   "a": 1,
+   "a": 0,
    "why": "About 3.5 billion years, from stromatolites in Western Australia. Picking 4.5 billion would mean life began the moment the Earth formed.",
    "opts": [
-    "4.5 billion years",
     "3.5 billion years",
+    "4.5 billion years",
     "600 million years",
     "6,000 years"
    ],
@@ -1777,13 +1777,13 @@
   {
    "t": "mcq",
    "p": "What tells us there was liquid water on the Earth about 4.4 billion years ago?",
-   "a": 0,
+   "a": 3,
    "why": "Tiny zircon crystals from Western Australia are about 4.4 billion years old, and their chemistry shows they formed with water around. There were no fish then, and stromatolites and banded iron rocks are younger.",
    "opts": [
-    "Tiny zircon crystals from Western Australia",
     "Fossil fish",
     "Stromatolites in India",
-    "Banded iron rock in Karnataka"
+    "Banded iron rock in Karnataka",
+    "Tiny zircon crystals from Western Australia"
    ],
    "outcome": 1
   },
@@ -1803,12 +1803,12 @@
   {
    "t": "mcq",
    "p": "A girl puts an iron nail in boiled water, pours oil on top and closes the lid. Another nail sits in open tap water. After three days, what will she most likely see?",
-   "a": 1,
+   "a": 2,
    "why": "The nail in open water rusts, because oxygen reaches it. The nail sealed under oil gets very little oxygen, so it stays almost grey.",
    "opts": [
     "Both nails rusty",
-    "The open-water nail rusty, the sealed nail almost grey",
     "The sealed nail rusty, the open-water nail grey",
+    "The open-water nail rusty, the sealed nail almost grey",
     "Both nails gone"
    ],
    "outcome": 3,
@@ -1844,11 +1844,11 @@
   {
    "t": "mcq",
    "p": "What does the RNA idea say?",
-   "a": 1,
+   "a": 0,
    "why": "It says that the first life may have been RNA, which can carry instructions and do jobs. DNA and proteins came later. It is still being tested.",
    "opts": [
-    "DNA came before everything",
     "The first life may have been RNA that could help copy itself",
+    "DNA came before everything",
     "Life began with animals",
     "RNA is a kind of rock"
    ],
@@ -1857,24 +1857,24 @@
   {
    "t": "mcq",
    "p": "Why do scientists call the RNA idea a hypothesis and not a fact?",
-   "a": 2,
+   "a": 3,
    "why": "It has good evidence, but nobody has yet shown RNA copying itself from scratch, as the idea needs.",
    "opts": [
     "Because nobody likes it",
     "Because RNA does not exist",
-    "Because it has not yet been fully shown to work",
-    "Because it is too old"
+    "Because it is too old",
+    "Because it has not yet been fully shown to work"
    ],
    "outcome": 5
   },
   {
    "t": "mcq",
    "p": "Scientists put water and simple gases in a sealed flask and passed sparks through it for a week. Building blocks of proteins formed. What does this show?",
-   "a": 0,
+   "a": 1,
    "why": "Nothing in the flask was alive, yet amino acids, the building blocks of proteins, formed from water and simple gases with energy. Stanley Miller did this in 1953.",
    "opts": [
-    "Building blocks of life can form without living things",
     "Life can be made in a week",
+    "Building blocks of life can form without living things",
     "Lightning kills microbes",
     "Gases cannot change"
    ],
@@ -1896,26 +1896,26 @@
   {
    "t": "mcq",
    "p": "Which is true about where life began?",
-   "a": 3,
+   "a": 0,
    "why": "Vents, warm pools and space all have supporters and evidence, but nobody knows yet.",
    "opts": [
+    "Nobody knows yet",
     "It began at sea-floor vents, for certain",
     "It began in warm pools, for certain",
-    "It came from space, for certain",
-    "Nobody knows yet"
+    "It came from space, for certain"
    ],
    "outcome": 7
   },
   {
    "t": "mcq",
    "p": "In the banana test, why do we add washing liquid?",
-   "a": 1,
+   "a": 3,
    "why": "Washing liquid breaks the thin skins of the cells open, so the DNA comes out. Salt then helps the DNA strands clump together.",
    "opts": [
     "To make the banana taste nice",
-    "To break open the thin skins of the cells",
     "To make the spirit cold",
-    "To turn DNA white"
+    "To turn DNA white",
+    "To break open the thin skins of the cells"
    ],
    "outcome": 4,
    "how": "e2"
@@ -1931,23 +1931,23 @@
     {
      "t": "mcq",
      "p": "About how old is the Earth?",
-     "a": 2,
+     "a": 0,
      "why": "The Earth is about 4.5 billion years old. Picking 4,500 years is a common mix-up between thousands and billions.",
      "opts": [
+      "About 4.5 billion years",
       "About 4,500 years",
       "About 4.5 million years",
-      "About 4.5 billion years",
       "About 45 years"
      ]
     },
     {
      "t": "mcq",
      "p": "How old are the oldest signs of life we are fairly sure of?",
-     "a": 1,
+     "a": 0,
      "why": "Stromatolites about 3.5 billion years old, in Western Australia, are the oldest signs of life most scientists accept.",
      "opts": [
-      "About 6,000 years",
       "About 3.5 billion years",
+      "About 6,000 years",
       "About 66 million years",
       "About 1 billion years"
      ]
@@ -2026,12 +2026,12 @@
     {
      "t": "mcq",
      "p": "What did the first oxygen made by microbes do to the iron in the sea?",
-     "a": 0,
+     "a": 2,
      "why": "Oxygen met the dissolved iron and made rust, which sank in layers. These became banded iron rocks.",
      "opts": [
-      "It made rust, which sank in layers",
       "It made the iron float",
       "Nothing happened",
+      "It made rust, which sank in layers",
       "It turned the iron into salt"
      ]
     },
@@ -2141,12 +2141,12 @@
     {
      "t": "mcq",
      "p": "Why is the RNA idea attractive to scientists?",
-     "a": 2,
+     "a": 0,
      "why": "RNA can both carry instructions, like DNA, and do some jobs, like proteins. So it could have come first.",
      "opts": [
+      "Because RNA can carry instructions and also do some jobs",
       "Because RNA is a rock",
       "Because RNA is found only in meteorites",
-      "Because RNA can carry instructions and also do some jobs",
       "Because RNA makes oxygen"
      ]
     },
@@ -2172,12 +2172,12 @@
     {
      "t": "mcq",
      "p": "What is a ribozyme?",
-     "a": 0,
+     "a": 2,
      "why": "A ribozyme is a piece of RNA that does a job, like cutting or joining other molecules.",
      "opts": [
-      "RNA that does a job",
       "A kind of fossil",
       "A meteorite",
+      "RNA that does a job",
       "A sea-floor vent"
      ]
     },
@@ -2192,13 +2192,13 @@
     {
      "t": "mcq",
      "p": "A ribosome is the part of a cell that builds proteins. Why did scientists want to work out its exact shape?",
-     "a": 2,
+     "a": 3,
      "why": "How something is shaped tells you how it works. Many medicines for germs work by jamming their ribosomes, so knowing the shape helps make better ones.",
      "opts": [
       "To give it a name",
       "Because it is the biggest thing in a cell",
-      "Its shape shows how it does its job, and helps make medicines that stop germs' ribosomes",
-      "To find out how old it is"
+      "To find out how old it is",
+      "Its shape shows how it does its job, and helps make medicines that stop germs' ribosomes"
      ]
     },
     {
@@ -2263,12 +2263,12 @@
     {
      "t": "mcq",
      "p": "Some say life came to Earth from space. What is the biggest problem with this as an answer to how life began?",
-     "a": 2,
+     "a": 1,
      "why": "Even if life came from space, it still had to begin somewhere. The idea moves the question, but does not answer it.",
      "opts": [
       "Space is too dark",
-      "Meteorites are too small",
       "It does not explain how life began out there",
+      "Meteorites are too small",
       "Nobody has looked"
      ]
     },
@@ -2323,12 +2323,12 @@
     {
      "t": "mcq",
      "p": "Why is it hard to find fossils of the very first life?",
-     "a": 0,
+     "a": 2,
      "why": "Very few rocks older than about 3.5 billion years survive, and the first life was tiny and soft.",
      "opts": [
-      "Very few rocks that old survive, and the first life was tiny and soft",
       "Nobody has looked",
       "The first life was made of iron",
+      "Very few rocks that old survive, and the first life was tiny and soft",
       "Fossils only form in India"
      ]
     },
@@ -2341,13 +2341,13 @@
     {
      "t": "mcq",
      "p": "Zita Martins and her team found uracil in the Murchison meteorite. Why does this matter?",
-     "a": 1,
+     "a": 3,
      "why": "Uracil is one of the four letters of RNA. Finding it in a meteorite shows that RNA letters can form in space, without life.",
      "opts": [
       "It proves there are aliens",
-      "It shows that an RNA letter can form without life",
       "It shows the meteorite came from India",
-      "It shows the meteorite was alive"
+      "It shows the meteorite was alive",
+      "It shows that an RNA letter can form without life"
      ]
     },
     {
@@ -2359,24 +2359,24 @@
     {
      "t": "mcq",
      "p": "Which of these is NOT evidence that all life is one family?",
-     "a": 3,
+     "a": 1,
      "why": "All life using DNA, ribosomes and the same code points to one family. Being green does not: many living things are not green.",
      "opts": [
       "All life uses DNA",
+      "All life is green",
       "All life uses ribosomes",
-      "All life reads the same genetic code",
-      "All life is green"
+      "All life reads the same genetic code"
      ]
     },
     {
      "t": "mcq",
      "p": "Which result would make the RNA idea much stronger?",
-     "a": 0,
+     "a": 2,
      "why": "The idea needs RNA that copies itself from scratch. Nobody has made that yet.",
      "opts": [
-      "Finding RNA that copies itself from scratch in a lab flask",
       "Finding a stromatolite",
       "Finding rust on a nail",
+      "Finding RNA that copies itself from scratch in a lab flask",
       "Finding DNA in a banana"
      ]
     },
@@ -2674,6 +2674,43 @@
    "used_in": [
     "p1"
    ]
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in The Time String: 4.5 billion years along a corridor. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Get it before The Time String: 4.5 billion years along a corridor."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Time String: 4.5 billion years along a corridor. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Get it before The Time String: 4.5 billion years along a corridor."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

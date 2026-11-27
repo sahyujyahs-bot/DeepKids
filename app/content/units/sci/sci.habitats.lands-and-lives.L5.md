@@ -1,9 +1,9 @@
 # India's ecological regions: why each land has its own plants, animals and knowledge
 `sci.habitats.lands-and-lives.L5`
 
-**Summary.** Mangaluru and Bengaluru get the same monsoon wind, but Mangaluru gets more than three times as much rain. Why? In this unit you will draw India's ecological regions on a map, test how buttress roots help a tall tree stand, and build paper towers for still air and windy air.
+**Summary.** Mangaluru and Bengaluru get the same monsoon wind, but Mangaluru gets more than three times as much rain. Why? In this lesson you will draw India's ecological regions on a map, test how buttress roots help a tall tree stand, and build paper towers for still air and windy air.
 
-**Intro.** *In Meghalaya, people cross some rivers on bridges that are alive. Nobody cut a single plank for them. Why would anyone grow a bridge when they could build one?* The answer is in the rain. The hills of southern Meghalaya get about 12 metres of rain a year, more than almost any place on Earth. A bridge of cut wood or bamboo rots there in a few years. A living root gets thicker and stronger every year. So Khasi and Jaintia villagers guide the roots of a rubber fig tree across the stream. Then they wait up to 15 years. The bridge fits that land. In this unit you find out what makes one land differ from another. You meet living beings who are found in only one place. You also test whether a good design for one land still works when it is moved to another.
+**Intro.** *In Meghalaya, people cross some rivers on bridges that are alive. Nobody cut a single plank for them. Why would anyone grow a bridge when they could build one?* The answer is in the rain. The hills of southern Meghalaya get about 12 metres of rain a year, more than almost any place on Earth. A bridge of cut wood or bamboo rots there in a few years. A living root gets thicker and stronger every year. So Khasi and Jaintia villagers guide the roots of a rubber fig tree across the stream. Then they wait up to 15 years. The bridge fits that land. In this lesson you find out what makes one land differ from another. You meet living beings who are found in only one place. You also test whether a good design for one land still works when it is moved to another.
 
 ## Learning outcomes
 0. I can say what an ecological region is, and name four things that make regions differ: rain, height, salt and soil.
@@ -25,6 +25,7 @@
 - **Endemic**: Found naturally in only one place in the world. *e.g.* The lion-tailed macaque is endemic to the Western Ghats. The sangai deer is endemic to Manipur.
 - **Buttress roots**: Wide, flat roots that spread out from the bottom of a tall trunk like the fins of a rocket. They help to hold the tree up. *e.g.* Many rainforest trees of the Andaman Islands stand on buttress roots taller than a person.
 - **Mangrove**: A tree who can grow in salty mud that the sea covers twice a day. *e.g.* Mangroves grow in the Sundarbans of West Bengal and at Pichavaram in Tamil Nadu.
+- **Deciduous**: A tree who drops all her leaves in the dry months to save water, and grows new ones when the rain returns. *e.g.* Sal and teak trees stand bare in the hot dry months and turn green again in the monsoon.
 - **Breathing roots**: Roots that grow upwards out of wet mud and take in air. Scientists call them pneumatophores. *e.g.* The sundari tree of the Sundarbans sends up hundreds of breathing roots, like pencils stuck in the mud.
 - **Coral**: A tiny sea animal with a soft body, who builds a hard cup of stone around herself. Thousands of corals live joined together. *e.g.* One lump of coral the size of a football holds thousands of coral animals.
 - **Coral reef**: A rocky ridge under the sea, built over thousands of years from the stony cups of corals. *e.g.* Coral reefs ring the Andaman Islands. The islands of Lakshadweep sit on top of coral reefs.
@@ -34,6 +35,8 @@
 - **Shola**: A patch of low, dense evergreen forest in a fold of the high hills of South India. Open grassland lies all round. *e.g.* In the Nilgiris, sholas fill the damp valleys and grass covers the windy slopes.
 - **Biodiversity hotspot**: A region with very many endemic plants which has already lost most of its natural plant cover. *e.g.* The Western Ghats, together with Sri Lanka, form one of the world's 36 biodiversity hotspots.
 - **Protected area**: Land or water where the law protects wild plants and animals. National parks and wildlife sanctuaries are protected areas. *e.g.* Silent Valley in Kerala is a national park. Nobody may cut trees or harm animals there.
+- **Natural heritage**: A sticky resin made by tiny insects on the twigs of some trees. People make bangles and shellac from lac. *e.g.* The Western Ghats, the Sundarbans and the Thar are all part of India's natural heritage.
+- **Lac**: A sticky resin made by tiny insects on the twigs of some trees. It is used to make bangles and shellac. *e.g.* Colourful lac bangles are made and sold in the bazaars of Jaipur.
 - **Traditional knowledge**: What the people of a place have learned about their land over many generations. They learn by trying and watching, and they teach their children. *e.g.* A farmer knows when the salt has washed out of her field, and which rice will stand in a flood.
 - **Variety**: One kind of a crop plant, with a taste, size or strength of their own. Farmers keep a variety going by saving seed. *e.g.* Pokkali is a variety of rice. Pokkali plants grow tall and can stand some salt in the water.
 
@@ -53,6 +56,14 @@ Rain matters most. Evergreen forest needs about 200 centimetres of rain a year o
 - e.g. For height, Ooty, at 2,240 metres, is about 13 degrees cooler than the plains below.
 - e.g. For salt, the water in the mud of the Sundarbans is salty, so only trees who can deal with salt grow there.
 - e.g. For soil, rainforest soil keeps its plant food in the top few centimetres, so even giant trees have shallow roots.
+### Five kinds of forest, from wet to dry · *defined*
+**Definition:** India's forests change with the rain. The wetter the land, the greener and thicker the forest. The five main kinds are evergreen, deciduous, thorn, mangrove and Himalayan.
+
+Evergreen forest grows where about 200 centimetres of rain or more falls a year. Water never runs short, so the trees keep green leaves all year. Deciduous trees drop all their leaves in the dry months to save water, and grow new ones when the rain returns. Moist deciduous forest gets between 100 and 200 centimetres of rain. Sal trees grow here. Dry deciduous forest gets between 75 and 100 centimetres, so the trees stand farther apart. Teak and mahua grow here. Thorn forest gets less than 75 centimetres. Its trees have small leaves and sharp thorns, and lose very little water. Mangrove forest grows where the tide brings salt water, as in the Sundarbans. Himalayan forest does not follow rain alone. It changes with height, from sal in the warm foothills to oak, then fir, as the air gets colder.
+- e.g. Evergreen forest: the rainforests of the Western Ghats and the Andaman Islands.
+- e.g. Moist deciduous forest: the sal forests of Odisha and Jharkhand lose their leaves in the hot, dry months.
+- e.g. Thorn forest: babool, khejri and ber trees in Rajasthan and Gujarat.
+- e.g. Himalayan forest: deodar and fir trees on cold slopes, where snow slides off their sloping branches.
 ### India's ten ecological regions · *defined*
 **Definition:** Scientists divide India into ten large ecological regions, which they call biogeographic zones.
 
@@ -61,6 +72,7 @@ In 1988 two scientists at the Wildlife Institute of India, W. A. Rodgers and H. 
 - e.g. The Semi-arid zone is the dry grassland and thorn forest of Gujarat, Rajasthan and Punjab, around the desert.
 - e.g. The Gangetic Plain is the flat, fertile land of the Ganga, from Haryana to West Bengal.
 - e.g. The Coasts are the beaches, lagoons and mangroves along about 7,500 kilometres of shore.
+- e.g. On the coast at Puri in Odisha, fishing families push their boats into the surf each morning. Children pick up sea shells on the sand. The sand artist Sudarsan Pattnaik, who grew up in Puri, shapes huge sculptures on its beach. Olive ridley turtles come to nest on Odisha's shore. The Thar is hundreds of kilometres from any sea. There, families keep camels and sheep, and save rain in kunds.
 ### Mountains and rain: the wet side and the dry side · *defined*
 **Definition:** When wet air is pushed up a mountain range, the air cools. Most of its rain falls on the side facing the wind. The far side stays much drier and is called the rain shadow.
 
@@ -75,6 +87,7 @@ This is why there is snow on the Himalaya in June. The peaks are a little nearer
 - e.g. Chennai, at sea level, has an average temperature of about 28 degrees. Ooty, at 2,240 metres, has about 15.
 - e.g. The red panda lives in the cool bamboo forests of Sikkim and Arunachal Pradesh, mostly above 2,200 metres.
 - e.g. In Leh, at 3,500 metres, winter nights can fall to minus 20 degrees.
+- e.g. In cold, high hills, people build and dress for the cold. In snowy parts of Himachal Pradesh and Kashmir, houses have steep sloping roofs, so snow slides off before its weight can break them. Families wear thick wool, such as the pheran in Kashmir. Himalayan slopes are so steep that farmers cut them into flat steps, called terraces, to grow crops. Fir and deodar trees are cone-shaped, so snow slips off their branches.
 ### The Andaman and Nicobar Islands: rainforest, buttress roots and coral reefs · *defined*
 **Definition:** The Andaman and Nicobar Islands are more than 500 islands in the sea east of the Indian mainland. They are covered in rainforest and ringed by coral reefs.
 
@@ -102,7 +115,7 @@ The region has more kinds of land than any other part of India of its size. The 
 ### The Western Ghats: rainforest, sholas and protected valleys · *defined*
 **Definition:** The Western Ghats are a range of hills about 1,600 kilometres long. They run down the west side of India through six states.
 
-The Ghats are older than the Himalaya. Their western face catches the monsoon, so thick evergreen forest grows there. In the south, above about 1,700 metres, the land opens into grassland with sholas in the folds. The Nilgiri tahr, a wild mountain goat, grazes on those grassy cliffs and lives nowhere else. So many endemic plants and animals live in the Ghats that scientists count the range as a biodiversity hotspot. The purple frog spends almost the whole year under the ground. She comes up for a few days in the monsoon to lay eggs. The neelakurinji bush flowers once in 12 years and turns whole hillsides blue. Many parts of the Ghats are protected areas, such as Periyar, Silent Valley, Bandipur and Eravikulam. Silent Valley was nearly lost. In the 1970s a dam was planned that would have drowned its rainforest. Teachers, scientists and writers in Kerala argued against the dam for years, and the plan was dropped in 1983. The valley became a national park in 1984. India's mainland ends just south of the Ghats at Kanyakumari, where three seas meet.
+The Ghats are older than the Himalaya. They cross six states: Gujarat, Maharashtra, Goa, Karnataka, Kerala and Tamil Nadu. Their western face catches the monsoon, so thick evergreen forest grows there. All that rain feeds rivers. The Godavari, the Krishna and the Kaveri begin in these hills and flow east across the peninsula to the Bay of Bengal. Many shorter rivers run west to the Arabian Sea. In the south, above about 1,700 metres, the land opens into grassland with sholas in the folds. The Nilgiri tahr, a wild mountain goat, grazes on those grassy cliffs and lives nowhere else. So many endemic plants and animals live in the Ghats that scientists count the range as a biodiversity hotspot. The purple frog spends almost the whole year under the ground. She comes up for a few days in the monsoon to lay eggs. The neelakurinji bush flowers once in 12 years and turns whole hillsides blue. Many parts of the Ghats are protected areas, such as Periyar, Silent Valley, Bandipur and Eravikulam. Silent Valley was nearly lost. In the 1970s a dam was planned that would have drowned its rainforest. Teachers, scientists and writers in Kerala argued against the dam for years, and the plan was dropped in 1983. The valley became a national park in 1984. India's mainland ends just south of the Ghats at Kanyakumari, where three seas meet.
 - e.g. The lion-tailed macaque lives only in the rainforest canopy of the Western Ghats.
 - e.g. The neelakurinji flowered in 2018. The next flowering is expected in 2030.
 - e.g. Anamudi in Kerala, at 2,695 metres, is the highest peak in India south of the Himalaya.
@@ -114,6 +127,14 @@ The Thar gets between 10 and 50 centimetres of rain a year, most of it in a few 
 - e.g. The Thar has khejri trees, chinkara and desert foxes. It also has the great Indian bustard, of whom perhaps only about 150 are left.
 - e.g. The Rann of Kutch has the Indian wild ass, and flamingos who nest on the salt flats in wet years.
 - e.g. Ladakh has snow leopards, wild asses called kiang, and black-necked cranes who nest beside high lakes.
+### Birds and animals of the regions, and the parks that guard them · *defined*
+**Definition:** India has a great many kinds of animals, including more than 1,200 kinds of birds. Each region has its own, and national parks protect the land where they live.
+
+The Himalaya have snow leopards and red pandas. The Thar has chinkara and great Indian bustards. The wet forests of the North-East have hoolock gibbons, and the Sundarbans have tigers. Birds follow the seasons. Every winter, birds fly to Keoladeo National Park at Bharatpur in Rajasthan from far to the north. A national park is a protected area. A park guards the animals and also their homes, because without a forest or grassland they have nowhere to live. Corbett, in Uttarakhand, was the first national park in India, in 1936. Kaziranga in Assam protects the one-horned rhinoceros. Gir in Gujarat is where wild Asiatic lions live, in and around the forest. Parks are added over the years, so you will find more of them than a book can list.
+- e.g. Kaziranga National Park in Assam: the one-horned rhinoceros.
+- e.g. Gir National Park in Gujarat: the Asiatic lion, who lives wild nowhere else in the world.
+- e.g. Corbett National Park in Uttarakhand: tigers, in India's first national park.
+- e.g. Keoladeo National Park in Rajasthan: winter birds from the far north.
 ### Endemic and rare: why unique places have living beings of their own · *defined*
 **Definition:** An endemic living being is found naturally in only one place in the world. Places that are cut off, or unlike anywhere else, have the most endemic living beings.
 
@@ -151,7 +172,7 @@ Traditional knowledge and science share a lot. Both watch nature closely, try th
 ### Do mangroves protect a coast from a tsunami? · *debated*
 **Definition:** Scientists agree that mangroves weaken ordinary waves and storm floods. They still argue about how much mangroves can do against a giant tsunami.
 
-After the tsunami of 26 December 2004, scientists visited villages on the coast of Tamil Nadu. Some reported that villages behind mangroves or other trees had less damage. Other scientists checked the same villages. They pointed out that the safer villages were often farther from the sea, or on higher ground. So the trees may not have been the cause. This is a common problem in science. When two things differ between two villages, you cannot tell which one made the difference. You work through such a case in the activity Two Villages and a Wave. The evidence is stronger for cyclones. In 1999 a great cyclone struck Odisha. The economist Saudamini Das later compared hundreds of villages, and allowed for distance and height. Villages with wider mangroves in front of them had fewer deaths. For a tsunami, everyone agrees on what saves the most lives: a warning, and running to high ground.
+After the tsunami of 26 December 2004, scientists visited villages on the coast of Tamil Nadu. Some reported that villages behind mangroves or other trees had less damage. Other scientists checked the same villages. They pointed out that the safer villages were often farther from the sea, or on higher ground. So the trees may not have been the cause. This is a common problem in science. When two things differ between two villages, you cannot tell which one made the difference. You work through such a case in the activity Two Villages and a Wave. The evidence is stronger for cyclones. In 1999 a great cyclone struck Odisha. The economist Saudamini Das later compared hundreds of villages, and allowed for distance and height. Villages with wider mangroves in front of them had fewer deaths. For a tsunami, everyone agrees on what saves the most lives: a warning, and running to high ground. Nature gave some signs before the 2004 waves. On many beaches the sea pulled far back, and people who knew what that meant ran inland. Reports from Sri Lanka and Thailand say that some animals left the shore early, and that elephants climbed uphill. Nobody knows for certain how they sensed it. Some scientists think they felt the ground shake before people did. Others say the stories are not well tested. In the Andaman Islands, reports say that most people of the Onge and Jarawa, who live close to the sea, came through safely. A few days later a coast guard helicopter flew over North Sentinel Island. A man from the island came out and shot arrows at it. The Sentinelese keep away from outsiders, and Indian law protects their choice to be left alone. We do not know what signs they read, because they have not told us. Before 2004 the Indian Ocean had no tsunami warning system. India now has a warning centre in Hyderabad. Still, if you feel strong shaking near the sea, or see the water pull back, do not wait for a message. Go up, away from the shore, at once.
 - e.g. Mangrove roots and trunks rub against moving water and slow it down.
 - e.g. A village 1 kilometre from the sea is safer than a village 200 metres away, with or without trees.
 - e.g. India and Bangladesh replant mangroves mainly against cyclones and erosion.
@@ -165,6 +186,15 @@ The ground of India rides on a huge slab of rock called a plate. Long ago this p
 - e.g. The purple frog's nearest relatives live on the Seychelles islands, which were once joined to India.
 - e.g. Sea shells are found in rocks high in the Himalaya, because those rocks formed under a sea.
 - e.g. The earthquake of 26 December 2004 happened where the Indian plate slides under its neighbour, near Sumatra.
+### India's natural heritage: ours to use with care · *defined*
+**Definition:** Natural heritage is the nature we are given by those before us. We keep it for those after us. It includes living beings, forests, mountains, rivers, seas, deserts and the minerals under the ground.
+
+Forests show how much heritage gives. About a fifth of India's land is under forest. Forests give wood, bamboo, honey, rubber and lac. Lac is a sticky resin made by tiny insects on tree twigs. People make bangles and shellac from lac. Forests give silk from wild silkworms too. They do more than give things. Roots hold the soil, so rain does not wash it away. Shade keeps the ground cool and damp, and forests help rain to fall on the land near them. Scientists are still measuring how much. Some heritage grows back and some does not. A forest can regrow, though slowly. A lost kind of living being is gone for ever. Minerals like coal and iron took millions of years to form and do not come back. So we use them with care.
+- e.g. Bamboo grows back in a few years, so cutting it with care can go on for ever.
+- e.g. Coal and iron are minerals. Once they are dug out, they cannot be made again.
+- e.g. Lac comes from insects living on trees, so the trees must be kept standing to keep the lac.
+- **People of a forest village:** We take wood, honey and leaves from the forest every year, and leave enough for it to stay a forest. Our children need it as we do.
+- **A steel maker:** Steel for bridges and railways needs iron from the ground, and a mine gives work to many families. Mining should be done with care, and the land mended after.
 
 ## Mostly agreed
 - Rain is shared out very unevenly across India, and mountain ranges cause much of the difference. *How we know:* Weather offices have measured rain with gauges for more than 100 years. Mangaluru, on the sea side of the Western Ghats, gets about 375 centimetres a year. Bengaluru, behind the hills, gets about 110.
@@ -201,7 +231,7 @@ The ground of India rides on a huge slab of rock called a plate. Long ago this p
   Against: Each square metre of ground in Jaisalmer still receives about 250 litres of rain a year. A kund with a wide saucer of hard ground collects enough for a family. People have lived this way in the Thar for centuries.
 
 ## Roots
-In this unit you tilted paper trees and built towers for a still land and a windy land. Here we ask what it means for a way of doing things to be right.
+In this lesson you tilted paper trees and built towers for a still land and a windy land. Here we ask what it means for a way of doing things to be right.
 
 **Deep truth.** In the Two Lands Test, the tall thin tower won in still air and fell under the fan. The short wide tower stood under the fan but lost in still air. Each design had been improved by the tests of one land only. So knowledge that is right for one land can be wrong for another.  
 *Habit it breaks:* We rank ways of doing things as modern or backward, as if one list fitted every place. But each tower was right only for the land that had tested it. A ranking forgets to ask where the way of doing things is used.  
@@ -214,7 +244,7 @@ In this unit you tilted paper trees and built towers for a still land and a wind
 One wind brings rain to the whole west coast. One range of hills turns that wind into a wet side and a dry side. From that single difference come different forests, different animals and different roofs. So the many ways of living in India are answers to the same few things: rain, height, salt and soil. Tamil poets noticed this about 2,000 years ago, when they divided their land into five landscapes. The Two Lands Test shows the same idea with paper towers.
 
 - **Tolkappiyam, Porulatikaram, the chapter Akattinaiyiyal (Tamil, about 2,000 years old, though scholars disagree on the exact date):** “மாயோன் மேய காடுறை உலகமுஞ் / சேயோன் மேய மைவரை உலகமும் / வேந்தன் மேய தீம்புனல் உலகமும் / வருணன் மேய பெருமணல் உலகமும் / முல்லை குறிஞ்சி மருத நெய்தலெனச் / சொல்லிய முறையாற் சொல்லவும் படுமே.” The Tolkappiyam divides the Tamil country into five landscapes: hills, forest, farmland, seashore and dry land. Each landscape has its own flower, tree, animals, work and way of life. The hills are named kurinji, after the flower that blooms there. (This is close to the idea of an ecological region. The poets saw that the land, the living beings and the people's lives go together. They used it to write poems, and scientists use it to plan protected areas.)
-- **Udana 6.4, the Buddha's story of the blind men and the elephant:** “ediso dhammo, nediso dhammo; / nediso dhammo, ediso dhammo. / ediso, deva, hatthī seyyathāpi kumbho. / ediso, deva, hatthī seyyathāpi thūṇo. / ediso, deva, hatthī seyyathāpi sammajjanī.” Several men who had been blind from birth each touched one part of an elephant. One said an elephant is like a pot, another like a pillar, another like a broom. Each was sure, and they quarrelled. (The Buddha told this story about people who argue over what is true. It fits this unit in one small way. The knowledge of one land is true for the part of the world that tested it. It goes wrong when people use it to describe every land.)
+- **Udana 6.4, the Buddha's story of the blind men and the elephant:** “ediso dhammo, nediso dhammo; / nediso dhammo, ediso dhammo. / ediso, deva, hatthī seyyathāpi kumbho. / ediso, deva, hatthī seyyathāpi thūṇo. / ediso, deva, hatthī seyyathāpi sammajjanī.” Several men who had been blind from birth each touched one part of an elephant. One said an elephant is like a pot, another like a pillar, another like a broom. Each was sure, and they quarrelled. (The Buddha told this story about people who argue over what is true. It fits this lesson in one small way. The knowledge of one land is true for the part of the world that tested it. It goes wrong when people use it to describe every land.)
 - Science (settled): Ferdinand Ludwig's team surveyed more than 70 living root bridges in Meghalaya. Where two roots cross and press together, they grow into each other, so an old bridge becomes one connected frame.
 - Science (open): Rain, sea level and temperature are now changing within one lifetime. Nobody knows how much traditional knowledge will still fit, or how quickly new knowledge can be built.
 - Other view, Meera Nanda, an Indian historian of science, in her book Prophets Facing Backward (2003), and many working scientists: The laws of nature are the same in every land. A claim that has been tested fairly is true in Ladakh and in Kerala alike. On this view, calling local knowledge 'right for its own place' can protect mistaken beliefs from being tested. The fair course is to test every practice, old or new, in the same way.
@@ -475,8 +505,8 @@ Nimmy opened her notebook. Beside NEW RICE and POKKALI she ruled a third column,
   - Think: The root did the growing and you chose the path. Who made the crossing?
 
 ## Activities
-### a1 · Ten Regions on One Map: draw India's ecological regions (20 min)
-- **record:** Your own map of India with ten regions coloured and a key beside it. Five unique places and your own home are marked with dots and names.
+### a1 · Ten Regions on One Map: draw India's ecological regions (25 min)
+- **record:** Your own map of India with ten regions coloured and a key beside it. Five unique places and your own home are marked with dots and names. On a second sheet, three friends' holiday places are listed with their regions and one special thing about each, beside a note on your own land.
 - **s1 (3 min)**  
   *Parent does:* Before opening the map, ask your child to name every kind of land in India they can think of. Write the list. Ask what makes each kind different from the others.  
   *Parent says:* Close your eyes and think of India. How many different kinds of land can you name? What makes a desert different from a rainforest? What makes a mountain different from a coast?  
@@ -498,6 +528,11 @@ Nimmy opened her notebook. Beside NEW RICE and POKKALI she ruled a third column,
   *Child mode:* Mark the five special places. Put a star on your home. Which region do you live in?
   - Note: Most city children live in the Deccan Peninsula, the Gangetic Plain, the Semi-arid zone or the Coasts. Chennai is on the Coasts. Bengaluru and Hyderabad are in the Deccan Peninsula. Kolkata and Patna are in the Gangetic Plain. Delhi is in the Semi-arid zone. On the west coast, the Coasts and the Western Ghats lie side by side.
   - Check: Where is the southernmost point of India? → **Indira Point, on Great Nicobar Island**
+- **s5 (5 min)**  
+  *Parent does:* Ask your child to remember where two or three friends or cousins spent their holidays. Ring or message them if you can. For each place, your child writes the place and the region it lies in. Then comes one special thing about it, such as a beach, a snow peak, a tiger forest or a desert fort. Your child also writes one special thing about the land where you live. Ask how it is the same as a friend's place, and how it is different.  
+  *Parent says:* Where did your friends go for their holidays? Which of the ten regions is each place in? What is special about each one? Now think of our own land. How is it like their places, and how is it different?  
+  *Child mode:* Where did three friends spend their holidays? Write each place, its region and one special thing. Then compare with your own land.
+  - Note: Some examples. Digha or Puri is on the Coasts. Manali is in the Himalaya. Jaisalmer is in the Desert. Munnar is in the Western Ghats. Kaziranga is in the North-East. Many children are surprised that a holiday place can be so unlike home.
 ### a2 · Two Sides of One Hill: compare the rain on both sides of the Western Ghats (20 min)
 - **record:** A bar chart with six bars in three pairs. Each pair is one town on the sea side of the Western Ghats and one town behind the hills. Use one colour for the sea side and another for the far side.
 - **s1 (3 min)**  
@@ -617,7 +652,7 @@ Nimmy opened her notebook. Beside NEW RICE and POKKALI she ruled a third column,
   - Note: Good examples are clay pots for cool water, buttermilk and ragi in summer, and sloping tiled roofs. Others are inner courtyards, and drying fish or vegetables before the rains. If the reason is unclear, write that down too. It is something to test.
   - Wait: Carry on tomorrow
 - **s4 (25 min)**  
-  *Parent does:* Your child chooses one very different region from this unit, such as Ladakh, the Thar or the Sundarbans. On page 4 they draw a table with two columns and five rows: rain, height, a plant, an animal and a way of building. Then they present the file to the family in three minutes.  
+  *Parent does:* Your child chooses one very different region from this lesson, such as Ladakh, the Thar or the Sundarbans. On page 4 they draw a table with two columns and five rows: rain, height, a plant, an animal and a way of building. Then they present the file to the family in three minutes.  
   *Parent says:* Choose a region as different from ours as you can. Fill in the table for both. Then tell us about our own land in three minutes.  
   *Child mode:* Choose a very different region. Fill in the table. Present your file in three minutes.
   - Ask: Would the local knowledge on page 3 work in the other region? (good: No. A clay pot would not cool water in the damp Sundarbans air.; Yes. Both places flood, so stilts would help in both.)
@@ -679,12 +714,12 @@ Nimmy opened her notebook. Beside NEW RICE and POKKALI she ruled a third column,
   - Note: Much of what a builder knows is in the hands, and is hard to write down. That is why traditional knowledge is mostly taught by working beside someone. It is also why such knowledge can be lost in one generation, if nobody learns it. Since 2002, Indian villages can record what they know about local plants and animals in a People's Biodiversity Register.
 
 ## Worksheets
-### India's regions: the main ideas (core, 15 questions)
+### India's regions: the main ideas (core, 18 questions)
 1. (mcq) What is an ecological region?  
-   Options: A large area with its own climate / A state with its own language / Any place that has a forest / The capital city of a country  
+   Options: A state with its own language / A large area with its own climate / Any place that has a forest / The capital city of a country  
    **Answer:** A large area with its own climate. *Why:* An ecological region is a large area with its own climate, landforms, plants and animals. Its edges follow rain and height, and state borders do not matter to it.
 2. (mcq) Which four things decide most of what can live in a region?  
-   Options: Sun, Moon, stars and clouds / Rain, height, salt and soil / Roads, towns, shops and schools / Colour, shape, size and smell  
+   Options: Rain, height, salt and soil / Sun, Moon, stars and clouds / Roads, towns, shops and schools / Colour, shape, size and smell  
    **Answer:** Rain, height, salt and soil. *Why:* Rain decides between forest and desert. Height decides how cold the air is. Salt and soil decide which plants can grow in the ground.
 3. (fill) The drier land on the far side of a mountain range is called a rain ____.  
    **Answer:** ['shadow']. *Why:* The air drops its rain while climbing the near side. The far side, which gets little, is the rain shadow.
@@ -701,7 +736,7 @@ Nimmy opened her notebook. Beside NEW RICE and POKKALI she ruled a third column,
 9. (order) Put these in order, as wet sea air crosses the Western Ghats.  
    **Answer:** ['Wet air blows in from the sea', 'The hills push the air upwards', 'The air cools as it rises', 'Rain falls on the sea side', 'Drier air sinks down the far side']. *Why:* Air must rise before it cools, and cool before it rains. What sinks on the far side has already lost most of its water.
 10. (mcq) How do buttress roots help a tall rainforest tree?  
-   Options: They reach water deep down / They frighten animals away / They make her base wider / They store rainwater  
+   Options: They make her base wider / They reach water deep down / They frighten animals away / They store rainwater  
    **Answer:** They make her base wider. *Why:* A wide base means the tree must lean much farther before she falls. Her other roots are shallow, because the soil's plant food is near the top.
 11. (mcq) A tall paper tube has two buttresses. Which tilt makes the tube fall soonest?  
    Options: A tilt across the buttresses / A tilt along the buttresses / Both are the same  
@@ -714,15 +749,21 @@ Nimmy opened her notebook. Beside NEW RICE and POKKALI she ruled a third column,
    **Answer:** A hill in side view with the sea on one side. Arrows of wind rise up the sea side, with clouds and rain there. The far side has few clouds and is labelled dry, or rain shadow.. *Why:* A strong drawing shows the air rising, the rain on the side facing the wind, and the dry side behind.
 15. (perspective) A village in the wet Khasi hills needs a new bridge across a stream.  
    **Answer:** Any view with a reason. One reason is that cut wood and bamboo rot within a few years in very heavy rain. Another is that a root bridge cannot carry anyone for many years. A strong answer also says what the other view gets right.. *Why:* Each view has something right in it. A strong answer uses the rain of the Khasi hills and the time a root bridge takes. It also takes the children's needs seriously.
-### Unique places, and the knowledge that fits them (stretch, 15 questions)
+16. (match) Match each kind of forest to its rain and its place.  
+   **Answer:** Evergreen forest → About 200 centimetres of rain or more, as in the Western Ghats; Moist deciduous forest → About 100 to 200 centimetres of rain, with sal trees in Odisha; Thorn forest → Less than 75 centimetres of rain, with babool trees in Rajasthan; Mangrove forest → Salty tidal mud, as in the Sundarbans; Himalayan forest → Changes with height, from sal to oak to fir. *Why:* Rain sorts most of India's forests from wet to dry. The two odd ones out are the mangrove, which is set by salt, and the Himalayan forest, which is set by height.
+17. (sort) Sort these gifts of a forest. Is each one a thing we take, or a help the forest gives by standing?  
+   **Answer:** wood → A thing we take; lac → A thing we take; honey → A thing we take; roots that hold the soil → A help the forest gives; shade that keeps the ground cool → A help the forest gives; help to bring rain → A help the forest gives. *Why:* Wood, lac and honey can be carried home. Holding soil, giving shade and helping the rain are done by the forest while it stays standing, so cutting it takes them away.
+18. (fill) The Western Ghats cross Gujarat, Maharashtra, Goa, Karnataka, Kerala and ____.  
+   **Answer:** ['Tamil Nadu']. *Why:* The range runs down the west side of India through six states, and ends near Kanyakumari in Tamil Nadu.
+### Unique places, and the knowledge that fits them (stretch, 20 questions)
 1. (mcq) Why do islands and high hilltops hold many endemic living beings?  
-   Options: They are cut off from other places / They get the most rain / They have the most people / They are closest to the Sun  
+   Options: They get the most rain / They are cut off from other places / They have the most people / They are closest to the Sun  
    **Answer:** They are cut off from other places. *Why:* Living beings who are cut off for a very long time change in their own way. Sea cuts off an island, and hot valleys cut off a cold hilltop.
 2. (mcq) Why does a living root bridge suit Meghalaya better than a wooden one?  
-   Options: Wooden bridges are too heavy / Cut wood rots fast in heavy rain / Wood is hard to find there / Living roots cross in one month  
+   Options: Wooden bridges are too heavy / Wood is hard to find there / Living roots cross in one month / Cut wood rots fast in heavy rain  
    **Answer:** Cut wood rots fast in heavy rain. *Why:* The Khasi hills get about 12 metres of rain a year. Dead wood rots in a few years, and a living root grows thicker each year.
 3. (mcq) The sangai deer lives on one lake only. What follows for her safety?  
-   Options: She must be very common / She can move to another lake / Harm to that lake harms every sangai / She is safe everywhere else  
+   Options: Harm to that lake harms every sangai / She must be very common / She can move to another lake / She is safe everywhere else  
    **Answer:** Harm to that lake harms every sangai. *Why:* An endemic being has one home. If the floating mats of Loktak Lake are harmed, there is no second place where sangai live.
 4. (truefalse) An endemic living being is always rare.  
    **Answer:** False. *Why:* False. Endemic means found in one place only. Some endemic beings are common in that one place. Rare means few are left.
@@ -749,25 +790,35 @@ Nimmy opened her notebook. Beside NEW RICE and POKKALI she ruled a third column,
    **Answer:** Any view with a reason. A strong answer separates the two kinds of knowing. Local people knew where and when the frog appears. The scientists added her family tree.. *Why:* People really disagree about this, so no answer is the only right one. A strong answer says exactly what each side knew.
 15. (label) Draw a kund from the side. Label the saucer, the tank and the cover. Write what each does.  
    **Answer:** ['Saucer of hard ground: it catches the rain of a storm and slopes towards the tank', 'Tank: it stores the water under the ground for the whole year', 'Cover: it keeps out the Sun, the dust and animals']. *Why:* A strong answer links each part to the desert's problem. Rain is rare, so a wide area must catch it, and the Sun must not dry it up.
-### Testing ideas about lands and knowledge (challenge, 15 questions)
+16. (write) Name one way of living at Puri on the coast, and one in the Thar. Say what the land gives.  
+   **Answer:** At Puri, fishing families go out in boats, because the sea gives fish, and children collect shells on the sand. In the Thar, families keep camels and sheep and save rain in a kund, because there is little rain and no sea.. *Why:* A strong answer names one way of life for each place, and says what the place gives or lacks.
+17. (match) Match each mountain answer to the problem of the cold hills.  
+   **Answer:** A steep sloping roof → Heavy snow could break a flat roof; Thick wool clothes → The air is very cold; A cone-shaped fir tree → Snow could break her branches; Flat steps cut into the slope → The hillside is too steep to plant on. *Why:* People and trees both answer the cold and the steep slopes. A cone shape lets snow slip off, and steps hold the soil flat for crops.
+18. (write) Ask a friend where she spent her holidays. Write the place, its region and one special thing. Then compare it with your home.  
+   **Answer:** For example: Manali, in the Himalaya, with snow on the peaks. My home is on the Deccan plateau, where it never snows, but both have hills and a monsoon.. *Why:* A strong answer names the region from the ten, gives one real feature of the place, and compares it with home in one way.
+19. (sort) Before the tsunami of 2004, some signs were seen. Sort these. Is each a warning sign, or not?  
+   **Answer:** the sea pulls far back from the beach → A warning sign; the ground shakes hard near the sea → A warning sign; animals leave the shore and go uphill → A warning sign; a boat rocks gently at the pier → Not a warning sign; a cool breeze in the evening → Not a warning sign. *Why:* A sea that pulls back and strong shaking are signs to run uphill. Reports say animals moved early too, though scientists are not sure how they knew. A rocking boat and a breeze are everyday things.
+20. (match) Match each national park to the animal it is known for.  
+   **Answer:** Kaziranga, Assam → The one-horned rhinoceros; Gir, Gujarat → The Asiatic lion; Corbett, Uttarakhand → The tiger; Keoladeo, Rajasthan → Winter birds from the far north. *Why:* A national park guards an animal's home as well as the animal. Each of these parks is known for one famous guest.
+### Testing ideas about lands and knowledge (challenge, 16 questions)
 1. (mcq) A new rice gave double the grain in tests. What should a coastal farmer ask first?  
-   Options: Where was it tested? / What colour is the grain? / Who sells the seed? / How old is the variety?  
+   Options: What colour is the grain? / Who sells the seed? / How old is the variety? / Where was it tested?  
    **Answer:** Where was it tested?. *Why:* A result is true for the land where the test was done. A field of shallow fresh water does not test a rice for salt or deep floods.
 2. (mcq) Bog layers showed grass on the Nilgiris 20,000 years ago. Which idea did this overturn?  
-   Options: That bogs are wet / That the grasslands were ruined forest / That the Nilgiris are hills / That grass needs rain  
+   Options: That the grasslands were ruined forest / That bogs are wet / That the Nilgiris are hills / That grass needs rain  
    **Answer:** That the grasslands were ruined forest. *Why:* Foresters had thought the grass was waste land left after people destroyed a forest. The layers showed that the grass was far older than any herd or plantation.
 3. (mcq) Why is Ladakh both cold and dry?  
-   Options: It has sandy soil / It has few trees / It is high, and behind the Himalaya / It is far from any river  
+   Options: It has sandy soil / It is high, and behind the Himalaya / It has few trees / It is far from any river  
    **Answer:** It is high, and behind the Himalaya. *Why:* Height makes the air cold. The Himalaya stop the monsoon, so Ladakh lies in a rain shadow. Leh gets about 4 centimetres of rain a year.
 4. (mcq) Corals turn white, and may die, when the sea does what?  
-   Options: Has a very high tide / Has too many fish / Becomes fresh after rain / Stays too warm for weeks  
+   Options: Has a very high tide / Stays too warm for weeks / Has too many fish / Becomes fresh after rain  
    **Answer:** Stays too warm for weeks. *Why:* In water that stays too warm, corals push out the tiny algae who live inside them and share food. Without the algae they are white, and they slowly starve.
 5. (truefalse) A method that was tested in one land is sure to work in every land.  
    **Answer:** False. *Why:* False. A method is tested by the rain, height, salt and soil of one land. Where those differ, the method may fail, as the tall tower did in the wind.
 6. (truefalse) Scientists agree that mangroves weaken storm floods.  
    **Answer:** True. *Why:* True. Roots and trunks slow moving water. What scientists still argue about is how much mangroves help against a giant tsunami.
 7. (count) Jaisalmer gets 25 centimetres of rain a year. How many litres fall on one square metre of ground?  
-   **Answer:** 200. *Why:* 250 litres. One centimetre of rain on one square metre is 10 litres. 25 times 10 is 250.
+   **Answer:** 250. *Why:* 250 litres. One centimetre of rain on one square metre is 10 litres. 25 times 10 is 250.
 8. (count) A root grows 2 centimetres a day. How many days does she need to cross a 10-metre stream?  
    **Answer:** 500. *Why:* 500 days. 10 metres is 1,000 centimetres, and 1,000 divided by 2 is 500. That is well over a year, before the root has thickened at all.
 9. (fill) India's ten ecological regions were mapped in 1988, to check that each kind of land had a ____ area.  
@@ -784,6 +835,8 @@ Nimmy opened her notebook. Beside NEW RICE and POKKALI she ruled a third column,
    **Answer:** Any view with a reason. A strong answer says what each side added: the community knew the plant and what the plant can do, and the scientists tested and made a safe medicine. Many will choose sharing.. *Why:* This question has been argued in courts and parliaments. A strong answer is fair to both kinds of work.
 15. (draw) Design a house for the Assam flood plain. Draw the house, label three features, and give the reason for each.  
    **Answer:** A house raised on tall stilts, with the floor above flood level. It has a steep roof for heavy rain and bamboo walls that dry quickly. The steps or ladder can be lifted, and a boat may be tied underneath.. *Why:* A strong design answers what this land tests: yearly floods, heavy rain and damp. Each label should name one of these.
+16. (write) Name three parts of India's natural heritage. Then say why we must take more care of coal and iron than of bamboo.  
+   **Answer:** For example: forests, rivers and the Thar. Bamboo grows back in a few years, but coal and iron took millions of years to form and cannot be made again, so once they are used up they are gone.. *Why:* A strong answer names three real parts of heritage, and says that some things grow back while minerals do not.
 
 ## Videos
 - **Living Root Bridges: Meghalaya's Incredible Centuries-Old Sustainable Design** (Strange but True, 5 min) id `Naqhqduxvfo`: To see a real root bridge, the hollow palm trunks that guide the young roots, and people walking across. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
@@ -792,38 +845,68 @@ Nimmy opened her notebook. Beside NEW RICE and POKKALI she ruled a third column,
 
 ## Quiz
 1. (mcq) Which of these is an ecological region?  
-   Options: The Thar desert / The city of Chennai / A cricket ground / A school  
+   Options: The city of Chennai / A cricket ground / The Thar desert / A school  
    **Answer:** The Thar desert. *Why:* An ecological region is a large area with its own climate, plants and animals. A city or a school is a place people built inside a region.
 2. (mcq) Two towns get the same sea wind. One lies behind a range of hills. Which town gets less rain?  
-   Options: It changes every day / The town behind the hills / The town on the sea side / Both get the same  
+   Options: It changes every day / The town on the sea side / Both get the same / The town behind the hills  
    **Answer:** The town behind the hills. *Why:* The air drops most of its rain while climbing the side facing the wind. The town behind the hills is in the rain shadow.
 3. (mcq) Ooty and Coimbatore are close together. Why is Ooty much cooler?  
    Options: Ooty has more people / Ooty is farther south / Ooty is far higher / Ooty is nearer the sea  
    **Answer:** Ooty is far higher. *Why:* Ooty stands at about 2,240 metres. Air cools by about 6 degrees for every 1,000 metres of height.
 4. (mcq) What do a mangrove's breathing roots take in?  
-   Options: Salt / Sunlight / Mud / Air  
+   Options: Salt / Air / Sunlight / Mud  
    **Answer:** Air. *Why:* Waterlogged mud has almost no air, and roots need oxygen. The breathing roots take in air at low tide.
 5. (mcq) What is a coral reef built from?  
-   Options: The stony cups of tiny animals / Sand pressed hard by waves / Dead seaweed / Lava from a volcano  
+   Options: Sand pressed hard by waves / The stony cups of tiny animals / Dead seaweed / Lava from a volcano  
    **Answer:** The stony cups of tiny animals. *Why:* Each coral animal builds a hard cup of lime. Over thousands of years the cups pile up into a reef.
 6. (mcq) Which of these is endemic to the Western Ghats?  
    Options: The snow leopard / The lion-tailed macaque / The house crow / The sangai deer  
    **Answer:** The lion-tailed macaque. *Why:* The lion-tailed macaque lives only in the rainforests of the Western Ghats. The sangai belongs to Manipur, and the snow leopard to the high Himalaya.
 7. (mcq) Which place lies farthest south in India?  
-   Options: Kochi / Chennai / Indira Point / Kanyakumari  
+   Options: Kochi / Indira Point / Chennai / Kanyakumari  
    **Answer:** Indira Point. *Why:* Indira Point is on Great Nicobar Island. Kanyakumari is the southern tip of the mainland only.
 8. (mcq) How is traditional knowledge mostly built?  
-   Options: One person invents it in a year / People copy it from a book / It appears by chance, untested / Many generations keep what works  
+   Options: One person invents it in a year / People copy it from a book / Many generations keep what works / It appears by chance, untested  
    **Answer:** Many generations keep what works. *Why:* People try things, keep what works, warn their children about what failed, and change a little in each generation.
 9. (mcq) A design wins in one land and fails in another. What is the most likely reason?  
-   Options: The two lands test it differently / The builders were careless / The design was never good / The materials were different  
+   Options: The builders were careless / The two lands test it differently / The design was never good / The materials were different  
    **Answer:** The two lands test it differently. *Why:* In the Two Lands Test the tall tower won in still air and fell in wind. A design fits the land that tested it.
 10. (mcq) A village behind trees had less damage than a village on open shore. What else must you check?  
-   Options: The day of the week / Their distance and height from the sea / The names of the two villages / The colour of the houses  
+   Options: The day of the week / The names of the two villages / Their distance and height from the sea / The colour of the houses  
    **Answer:** Their distance and height from the sea. *Why:* If the safer village was also farther away or higher, the trees may not be the reason. A fair comparison changes one thing only.
 11. (mcq) Why do Mising families in the Assam valley build their houses on stilts?  
    Options: To watch for tigers / To catch more wind / The river floods most years / Bamboo must not touch soil  
    **Answer:** The river floods most years. *Why:* The Brahmaputra floods the valley almost every monsoon. On stilts, the water passes under the floor.
+12. (mcq) A forest gets about 40 centimetres of rain a year. Its trees have thorns and small leaves. Which kind of forest is it?  
+   Options: Thorn forest / Evergreen forest / Moist deciduous forest / Mangrove forest  
+   **Answer:** Thorn forest. *Why:* Thorn forest grows where less than 75 centimetres of rain falls. Evergreen forest needs about 200 centimetres or more, and mangroves need salty tidal mud.
+13. (mcq) Why do the trees of a deciduous forest drop their leaves in the dry months?  
+   Options: Because the sea air is too salty / To make room for birds' nests / Because the Sun burns the leaves in winter / To save water when little rain falls  
+   **Answer:** To save water when little rain falls. *Why:* Leaves lose water into the air. With no leaves, a tree loses very little, and she lives through the dry months. The new leaves come with the rain.
+14. (mcq) Lac, used to make bangles, is made by what?  
+   Options: Fishers on the coast / The roots of mangrove trees / A mine under the forest / Tiny insects living on tree twigs  
+   **Answer:** Tiny insects living on tree twigs. *Why:* Lac insects make the sticky resin on twigs. So the trees must stay standing for the lac to be gathered. It is a gift of the forest, and not a mineral.
+15. (mcq) Which animal is best known to be protected by Kaziranga National Park in Assam?  
+   Options: The Asiatic lion / The one-horned rhinoceros / The snow leopard / The Nilgiri tahr  
+   **Answer:** The one-horned rhinoceros. *Why:* Kaziranga guards the one-horned rhinoceros. The Asiatic lion lives at Gir in Gujarat, the snow leopard in the high Himalaya, and the Nilgiri tahr in the Western Ghats.
+16. (mcq) Which of these would you find on the coast at Puri, and not in the Thar?  
+   Options: A kund that catches rain / A fishing boat pulled up on the sand / A khejri tree / A camel herd  
+   **Answer:** A fishing boat pulled up on the sand. *Why:* Puri has the sea, so families fish from boats. The kund, the khejri tree and the camel belong to the dry Thar, where families save every drop of rain.
+17. (mcq) Why do houses in snowy parts of the Himalaya have steep sloping roofs?  
+   Options: So that snow slides off before it gets too heavy / So that the monsoon rain collects on them / To catch the wind / To keep out the heat of the plains  
+   **Answer:** So that snow slides off before it gets too heavy. *Why:* A flat roof would hold a thick layer of snow, and its weight could break the roof. A steep roof lets the snow slide off. This is an answer to a land of snow.
+18. (mcq) A friend spent her holidays on a camel in the sand dunes near Jaisalmer. Which of India's ten ecological regions is that?  
+   Options: The Himalaya / The Desert / The Coasts / The Western Ghats  
+   **Answer:** The Desert. *Why:* Jaisalmer lies in the Thar, which belongs to the Desert region. The Semi-arid region is the dry band around it.
+19. (mcq) Which of these rivers begins in the Western Ghats?  
+   Options: The Ganga / The Brahmaputra / The Kaveri / The Indus  
+   **Answer:** The Kaveri. *Why:* The Kaveri, the Krishna and the Godavari begin in the Ghats. The Ganga begins in the Himalaya, and the Brahmaputra and the Indus begin high in Tibet.
+20. (mcq) The sea pulls far back from the beach, and the fish are lying on the sand. What should you do?  
+   Options: Walk out to pick up the fish / Wait on the beach to see what happens / Run to high ground at once / Swim out to look  
+   **Answer:** Run to high ground at once. *Why:* A sea that pulls far back can be the first sign of a tsunami. The big waves come back within minutes. Running to high ground is what saves lives.
+21. (mcq) Which part of India's natural heritage can never be made again once it has been used up?  
+   Options: Bamboo in a grove / Coal and iron in the ground / Lac on the twigs / New leaves on sal trees  
+   **Answer:** Coal and iron in the ground. *Why:* Coal and iron took millions of years to form. Bamboo, lac and leaves grow again within a year or a few years.
 
 ## Applications
 - Planners use the map of ten ecological regions. They check that every kind of land in India has national parks and sanctuaries.
@@ -836,13 +919,13 @@ Nimmy opened her notebook. Beside NEW RICE and POKKALI she ruled a third column,
 
 ## Spotted around us
 - A banyan or peepal in a city, with roots hanging from the branches. Root bridges are grown from hanging roots like these.
-- A sloping tiled roof on an old house in Kerala or coastal Karnataka, beside a flat concrete roof.
+- A sloping tiled roof on an old house, beside a flat concrete roof.
 - A clay pot of drinking water on a window sill in a dry, hot town.
 - Wide feet on a table fan, a crane or a water tank tower. They do what buttress roots do.
 - Different kinds of banana or rice at the market, each with its own name and its own district.
 - Mist on a cold steel tumbler, or on a mirror when you breathe on it. Cool air holds less water vapour, so the extra turns into drops. The same thing happens to air that rises up a mountain.
-- Clouds piled against the hills on the road up to Munnar, Ooty or Mahabaleshwar, and clear sky beyond.
-- Mangrove trees along a creek in Mumbai, Chennai, Kochi or Kolkata, with roots standing out of the mud.
+- Clouds piled against the hills on a hill road, and clear sky beyond.
+- Mangrove trees along a creek, with roots standing out of the mud.
 
 ## Open questions
 - **How many kinds of living beings in the Western Ghats and the North-East are still unknown to science?** New frogs, fish and plants are described from these regions almost every year. Nobody knows how many remain.
@@ -899,6 +982,14 @@ Fit for This Place (sci.habitats.L5): Topic-level song
 - [Sticky tape, one roll](https://www.amazon.in/s?k=cello+tape) (material): For the paper trees, the newspaper towers and the water channels. Most homes have a roll already. Used in e1, e2, c1, c2. 
 - [Whole green moong, a small packet](https://www.amazon.in/s?k=whole+green+moong) (material): For the Guided Root Test. Whole green moong from the kitchen sprouts well. Split moong does not sprout. Used in e3. 
 - [The Radiant Raindrops of Rajasthan, by Anupam Mishra, translated by Maya Jani](https://www.amazon.in/s?k=The+Radiant+Raindrops+of+Rajasthan+Anupam+Mishra) (book): For the parent: how the people of the Thar catch and keep rain in kunds, tanks and wells. Used in p1. Read a chapter before day 3 of My Region File. It gives good questions to ask an older person about water.
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in The Two Lands Test: does the best tower for still air also win in wind?, Pass It On: make your best tower outlive you. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e2, c2. Get it before The Two Lands Test: does the best tower for still air also win in wind?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Leaning Tree Test: how much do buttress roots help a tall tree stand?, The Two Lands Test: does the best tower for still air also win in wind?, The Guided Root Test: can a slope lead a growing root across a gap?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, e3, a2, c1, c2. Get it before The Leaning Tree Test: how much do buttress roots help a tall tree stand?.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in Two Sides of One Hill: compare the rain on both sides of the Western Ghats. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in a2. Get it before Two Sides of One Hill: compare the rain on both sides of the Western Ghats.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in The Guided Root Test: can a slope lead a growing root across a gap?. About ₹20 to ₹50. Torn clean cloth works. Used in e3. Get it before The Guided Root Test: can a slope lead a growing root across a gap?.
+- [A measuring jug or syringe (marked in millilitres)](https://www.amazon.in/s?k=measuring+jug+500+ml) (tool): Used in Split the Stream: water three plants from one trickle. About ₹30 to ₹100. A clean medicine cup or marked bottle works. Used in c1. Get it before Split the Stream: water three plants from one trickle.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in Two Sides of One Hill: compare the rain on both sides of the Western Ghats. About ₹10 to ₹30. Draw squares on plain paper. Used in a2. Get it before Two Sides of One Hill: compare the rain on both sides of the Western Ghats.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in The Guided Root Test: can a slope lead a growing root across a gap?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e3. Get it before The Guided Root Test: can a slope lead a growing root across a gap?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is an ecological region? → A large area with its own climate, landforms, plants and animals.

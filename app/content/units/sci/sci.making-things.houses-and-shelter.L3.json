@@ -28,6 +28,12 @@
    "art": "People standing dry under a bus stop roof while rain falls around it."
   },
   {
+   "term": "Ventilation",
+   "meaning": "Ventilation is letting fresh air move into a room and stale air move out, through windows, doors or gaps.",
+   "example": "In the evening, Amma opens the kitchen window so that the smoke from the tadka goes out and fresh air comes in.",
+   "art": "A kitchen with an open window, a curl of smoke going out and a breeze coming in."
+  },
+  {
    "term": "Material",
    "meaning": "What a thing is made of.",
    "example": "A door can be made of wood, steel or plastic. Each one is a different material.",
@@ -92,6 +98,24 @@
    "meaning": "A sudden shaking of the ground, caused by huge blocks of rock deep under the ground slipping past each other.",
    "example": "In January 2001, a big earthquake shook Kutch in Gujarat.",
    "art": "A cracked road and a gently shaking house, with wavy lines under the ground."
+  },
+  {
+   "term": "Terracotta",
+   "meaning": "Terracotta is baked clay, usually reddish brown. Diyas, clay cups and flower pots are made of terracotta. The word means baked earth.",
+   "example": "The small clay diya you light at Deepavali is terracotta. The clay was baked hard in a fire.",
+   "art": "A reddish brown diya lamp next to a flower pot, both made of baked clay."
+  },
+  {
+   "term": "Mortar",
+   "meaning": "Mortar is a wet paste put between bricks that dries hard and holds them together. Today it is usually made of cement, sand and water.",
+   "example": "A mason in your street spreads grey mortar on top of a brick and presses the next brick down on it. By next day the wall is firm.",
+   "art": "A mason's trowel spreading grey paste on a brick wall."
+  },
+  {
+   "term": "Model",
+   "meaning": "A model is a small copy of something real. It shows one or two ideas about the real thing, and leaves the rest out.",
+   "example": "A clay house with a sloping roof shows where rain runs off, but it cannot show how many people live inside.",
+   "art": "A small clay house with a tilted card roof, on a table beside a spoon of water."
   }
  ],
  "explanations": [
@@ -99,11 +123,12 @@
    "concept": "What a shelter does",
    "status": "defined",
    "definition": "A shelter is a place that protects a living being from the weather and from danger, so they can rest, sleep and keep their young and their food safe.",
-   "description": "Shelter is one of our basic needs, along with air, water, food and clothing. A house keeps off rain and sun, keeps out cold wind, and keeps out snakes, rats and thieves. People are not the only ones who build shelters. A male baya weaver bird weaves a hanging nest of grass strips. His problem is that snakes and other hunters eat eggs and chicks. So the nest hangs from a thin branch, often over water, and the way in is a long tube that opens downwards. A hunter finds it very hard to reach inside. Ants dig rooms under the ground, where it stays cool and damp. A shelter must suit the weather of its place and the life of whoever lives in it.",
+   "description": "Shelter is one of our basic needs, along with air, water, food and clothing. A house keeps off rain and sun, keeps out cold wind, and keeps out snakes, rats and thieves. People are not the only ones who build shelters. A male baya weaver bird weaves a hanging nest of grass strips. His problem is that snakes and other hunters eat eggs and chicks. So the nest hangs from a thin branch, often over water, and the way in is a long tube that opens downwards. A hunter finds it very hard to reach inside. Ants dig rooms under the ground, where it stays cool and damp. A shelter must suit the weather of its place and the life of whoever lives in it. A home also needs light and fresh air. Windows let daylight in, so we can read and cook without a bulb in the daytime. Sunlight also helps dry damp clothes and floors. Windows, doors and gaps near the roof let stale air out and fresh air in. Stale air is air that we have breathed again and again, or that is full of cooking smoke, and it makes a room stuffy. Letting air move through a room is called ventilation.",
    "examples": [
     "A city flat keeps a family dry in the monsoon and cool in summer.",
     "A baya weaver's nest hangs over water, with its door at the bottom.",
-    "Ants keep their eggs in rooms under the soil, out of the hot sun."
+    "Ants keep their eggs in rooms under the soil, out of the hot sun.",
+    "A kitchen window and a chimney or exhaust fan carry cooking smoke out of the room."
    ],
    "perspectives": [],
    "art": "A baya weaver nest hanging from a thin branch over a pond, with a long entrance tube at the bottom.",
@@ -127,12 +152,14 @@
    "concept": "Houses are built from what is near",
    "status": "defined",
    "definition": "Long ago, people built homes from materials found close by. The weather of the place decided what kind of house kept people safe and comfortable.",
-   "description": "Carrying heavy materials far is hard, so people used what they had. In Kerala and coastal Karnataka, many old houses have walls of laterite, a reddish stone cut from the ground, and steep roofs of clay tiles for the heavy monsoon rain. In Assam, some families, such as the Mising people, build bamboo houses raised on poles. When the river floods, the water flows under the floor. In Ladakh, rain and snow are light, so houses have thick walls of sun-dried mud bricks and flat mud roofs. Thick mud walls are slow to heat up in the day and slow to cool at night. In the Nilgiris, the Toda people built small huts with a rounded roof of bamboo, cane and thatch. In Kutch, round mud houses called bhungas have light cone-shaped roofs. Today many homes are made of brick, cement, steel and glass, which can be carried a long way by truck.",
+   "description": "Carrying heavy materials far is hard, so people used what they had. In Kerala and coastal Karnataka, many old houses have walls of laterite, a reddish stone cut from the ground, and steep roofs of clay tiles for the heavy monsoon rain. In Assam, some families, such as the Mising people, build bamboo houses raised on poles. When the river floods, the water flows under the floor. In Ladakh, rain and snow are light, so houses have thick walls of sun-dried mud bricks and flat mud roofs. Thick mud walls are slow to heat up in the day and slow to cool at night. In the Nilgiris, the Toda people built small huts with a rounded roof of bamboo, cane and thatch. In Kutch, round mud houses called bhungas have light cone-shaped roofs. In many villages, families plaster their mud walls with clay mixed with hay and cow dung. Hay is dried grass or straw, and its fibres help hold the clay together. Dung makes the surface smooth and fills small cracks. Often the women of the family do the plastering. They then paint patterns on the wall with a paste of rice flour and water, which dries white. The Warli people of Maharashtra are famous for such white paintings on red mud walls. The rain slowly washes the paint away, so families freshen the walls every year, often before Diwali. These walls suit village life because everything comes from near the house, they cost very little, they stay cool in the heat, and when they crumble they go back into the soil. Today many homes are made of brick, cement, steel and glass, which can be carried a long way by truck. Look along your own street and you will see different kinds of homes. A flat is a home inside a tall building, with other homes above and below it. An independent house stands on its own piece of land. A hut is a small home that a family builds from mud, bamboo, grass or tin sheets found near them. On Dal Lake in Kashmir, some families live on houseboats that float on the water.",
    "examples": [
     "A Kerala house with a steep tiled roof.",
     "A Mising house on bamboo stilts in Assam.",
     "A flat-roofed mud house in Ladakh.",
-    "A round bhunga with a cone roof in Kutch, Gujarat."
+    "A round bhunga with a cone roof in Kutch, Gujarat.",
+    "A village wall of clay, hay and cow dung, with white rice-flour patterns.",
+    "A flat in a tall block, a house on its own land, a mud hut and a houseboat on Dal Lake."
    ],
    "perspectives": [],
    "art": "A map of India with five small houses drawn on it: Kerala, Assam, Ladakh, the Nilgiris and Kutch.",
@@ -170,11 +197,12 @@
    "concept": "New designs: less material, more comfort",
    "status": "debated",
    "definition": "",
-   "description": "People keep inventing new ways to build. Laurie Baker, an architect born in England who made his home in Kerala, built with local brick and stone. His rat-trap bond lays bricks on their edges, with an air gap inside the wall. It uses about a quarter fewer bricks and keeps rooms cooler. His jaali walls, with holes between the bricks, let breeze through. Other builders prefer concrete and steel, which are strong, quick to build tall, and easy to find. People still argue about which is better, because the answer depends on the place, the money, the weather and how well the house is built.",
+   "description": "People keep inventing new ways to build. Laurie Baker, an architect born in England who made his home in Kerala, built with local brick and stone. His rat-trap bond lays bricks on their edges, with an air gap inside the wall. It uses about a quarter fewer bricks and keeps rooms cooler. His jaali walls, with holes between the bricks, let breeze through. Other builders prefer concrete and steel, which are strong, quick to build tall, and easy to find. People still argue about which is better, because the answer depends on the place, the money, the weather and how well the house is built. Whatever is chosen, building also changes the place around the house. Land is cleared, and the plants and animals that lived there lose their home. Bricks are baked in kilns, which are big ovens that burn wood or coal and make smoke. Making cement releases carbon dioxide, a gas that traps heat in the air. Sand dug from riverbeds for concrete can harm the river and the creatures that live in it. A house of local mud and bamboo needs far less of this. A house that stays cool with thick walls and a breeze needs less electricity for fans and AC. Builders can also leave old trees standing and plant new ones.",
    "examples": [
     "Brick walls with gaps in a pattern, called jaali, in many Laurie Baker buildings in Thiruvananthapuram.",
     "Tall blocks of concrete flats in Chennai, Bengaluru and Hyderabad.",
-    "Houses built with blocks of pressed mud and a little cement, made near the building site."
+    "Houses built with blocks of pressed mud and a little cement, made near the building site.",
+    "A brick kiln outside a town, with smoke rising from its tall chimney."
    ],
    "perspectives": [
     {
@@ -514,11 +542,11 @@
       "t": "mcq",
       "q": "Which roof would suit a place with very heavy monsoon rain?",
       "options": [
-       "A flat mud roof",
        "A steep tiled roof",
+       "A flat mud roof",
        "A roof of loose leaves with no slope"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A steep roof sheds rain fast, before it can soak in or leak. A flat mud roof suits a dry place like Ladakh, but heavy rain would soak and soften it."
      }
     }
@@ -786,11 +814,11 @@
       "t": "mcq",
       "q": "When you pushed the triangle, why did it not lean like the square?",
       "options": [
-       "It was made of stronger card",
        "To lean, one of its sides would have to get longer or shorter",
+       "It was made of stronger card",
        "It had fewer pins, so it was lighter"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Both frames used the same card and the same pins. A triangle with three fixed sides can only make one shape. To lean, a side would have to stretch or squash. A square can lean just by turning its corners, with no side changing length."
      }
     },
@@ -1075,13 +1103,136 @@
      }
     }
    ]
+  },
+  {
+   "id": "old1",
+   "title": "The Settling Jar: what is soil made of, and where is the clay?",
+   "mins": 15,
+   "days": 2,
+   "context": "In this experiment you shake soil in water and watch it settle into layers. You will find out that soil has grains of different sizes, and which layer is the clay that potters and mud builders use.",
+   "problem": "Soil is not one thing. It is a mix of grains of different sizes. In this experiment you let a bottle of muddy water settle and see which grains sink first. The finest layer is clay, the sticky part that holds mud bricks together.",
+   "question": "If we shake soil in water and leave it still, do all the grains sink at the same speed?",
+   "predict": "What will happen to the soil when we leave it still? Will it all sink at the same speed? Say why you think so.",
+   "fair_test": "We use one clear plastic bottle with a lid. We shake it for the same time, one minute, and then leave it where nobody moves it. We look at the same times, after 1 minute, 10 minutes and the next day.",
+   "results_table": [
+    "When I looked",
+    "What the layers looked like",
+    "How tall each layer was, in centimetres"
+   ],
+   "materials": [
+    {
+     "item": "a clear plastic jar or bottle with a lid, wide enough to put soil in",
+     "qty": 1
+    },
+    {
+     "item": "3 big spoons of soil from a plant pot or tree bed, not cocopeat",
+     "qty": 3
+    },
+    {
+     "item": "water",
+     "qty": 1
+    },
+    {
+     "item": "a ruler",
+     "qty": 1
+    },
+    {
+     "item": "a pencil and paper",
+     "qty": 1
+    }
+   ],
+   "safety": "Wash hands with soap after touching soil. Keep the jar where it will not fall.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Make the jar, shake it, and watch it settle."
+    },
+    {
+     "day": 2,
+     "mins": 5,
+     "what": "Look again, measure the layers, and draw them."
+    }
+   ],
+   "record": "Fill in the table. Draw the layers you see, with sand at the bottom, then silt, then clay.",
+   "setup": [
+    {
+     "art": "A clear plastic jar with three spoons of soil on a table, water being poured to two thirds full.",
+     "caption": "1. Put three spoons of soil in the jar. Fill it two thirds with water."
+    },
+    {
+     "art": "A child shaking a closed plastic jar full of muddy water with both hands.",
+     "caption": "2. Close the lid. Shake hard for one minute."
+    },
+    {
+     "art": "A plastic jar on a shelf showing layers: gritty sand at the bottom, a lighter layer of silt, and a thin smooth layer of clay under cloudy water.",
+     "caption": "3. Leave it still and look at the layers."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Ask your child to guess what will happen. 2. Put 3 big spoons of soil in the jar. 3. Fill the jar two thirds with water. 4. Close the lid tightly.",
+     "say": "If we leave this soil still in water, will it all sink at the same speed? What do you think?",
+     "kid": "Guess what will happen. Put 3 spoons of soil in the jar and add water. Close the lid.",
+     "parent": "Use soil from a plant pot or a tree bed. Cocopeat is plant fibre, so it does not settle into layers. If you cannot get soil, use a spoon of fine sand with a spoon of mud."
+    },
+    {
+     "id": "s2",
+     "mins": 2,
+     "do": "Your child shakes the closed jar hard for one minute, counting with you. Then put it down where nobody will move it.",
+     "say": "Shake it hard for one minute. Then we will put it down and watch.",
+     "kid": "Shake the jar hard for one minute. Put it down and do not move it."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "1. Watch the jar for the first minute. 2. Look again after 10 minutes. 3. Draw what you see and measure each layer with the ruler.",
+     "say": "Which grains sank first? Which ones are still floating? Why do you think so?",
+     "kid": "Watch the jar. Draw what you see after 1 minute and after 10 minutes. Which grains sank first?",
+     "ask": [
+      {
+       "q": "Which grains sank first, big ones or tiny ones?",
+       "good": [
+        "The big, gritty grains.",
+        "The sand sank first. The tiny grains stayed floating."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s4",
+     "mins": 5,
+     "do": "The next day, look at the jar again. Draw the layers and measure each. Say what you notice.",
+     "say": "Soil is a mix of grains of different sizes. Big, heavy sand grains sink fast. Silt grains are smaller and sink more slowly. Clay grains are so tiny you cannot see one, so they sink slowest of all, and some stay floating. Potters clean clay the same way. They mix soil with water, let the sand sink, and take the fine clay from the top. Mud-brick builders use the sticky clay layer to bind the mud.",
+     "kid": "Look at the jar. Draw the layers. Which one is the thin smooth layer on top?",
+     "ask": [
+      {
+       "q": "Why does the water stay cloudy for a day or more?",
+       "good": [
+        "Clay grains are so tiny that they sink very slowly.",
+        "Some of the finest grains are still floating."
+       ]
+      },
+      {
+       "q": "Which layer would you want for making a clay pot, and why?",
+       "good": [
+        "The clay, because it is smooth and sticky.",
+        "The clay, because the grains are tiny and hold together."
+       ]
+      }
+     ],
+     "parent": "If the water is still cloudy after a day, that is normal. It is the finest clay. Wait another day if you like."
+    }
+   ]
   }
  ],
  "activities": [
   {
    "id": "a1",
    "title": "What Is Our Home Made Of? A home walk",
-   "mins": 10,
+   "mins": 15,
    "days": 1,
    "context": "This is a short walk round your own home. You look at walls, floor, roof, doors and windows, and name the material each one is made of and why. You will find out how many different materials one home is made from.",
    "materials": [
@@ -1094,11 +1245,11 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 10,
-     "what": "Walk round the home. Name the material of each part, and why it was chosen."
+     "mins": 15,
+     "what": "Walk round the home. Name the material of each part, and why it was chosen. Then draw your home from outside and label its parts."
     }
    ],
-   "record": "Make a table: part of the house, material, and why that material.",
+   "record": "Make a table: part of the house, material, and why that material. Add a drawing of your home from outside, with the roof, walls, door and windows labelled.",
    "setup": [
     {
      "art": "A child and a mother walking through a flat, the child pointing at a window, the mother holding a notebook.",
@@ -1107,6 +1258,10 @@
     {
      "art": "A notebook page with a table: window, glass, lets light in; door, wood, strong and can be locked; floor, tiles, easy to clean.",
      "caption": "2. Write each part, its material, and why."
+    },
+    {
+     "art": "A child drawing the outside of a flat on a notebook page, with labels roof, wall, door and window.",
+     "caption": "3. Draw your home and label its parts."
     }
    ],
    "flow": [
@@ -1135,6 +1290,14 @@
      "say": "Which of these came from nature, like wood or stone? Which were made in a factory, like glass or cement?",
      "kid": "Sort what you found into two groups: from nature, or made in a factory.",
      "parent": "Wood and stone come from nature. Glass is made from sand, and cement from limestone and clay, but both are heated in factories. Every material started in nature."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "1. Stand outside and look at your home, or look at a photo of it. 2. Draw it: the roof, the walls, the door and the windows. 3. Write the name of each part with a line to it. 4. Ask which part lets in light and fresh air.",
+     "say": "Draw the outside of our home. Which part is the roof? Which parts are the walls? Which parts let light and fresh air in?",
+     "kid": "Draw your home. Label the roof, the walls, the door and the windows.",
+     "parent": "A flat may show only a wall with windows and a door. That is fine. Windows and doors let in light and fresh air. If a room has only one small window, ask where the stale air goes."
     }
    ]
   },
@@ -1373,6 +1536,83 @@
      "parent": "Both keep off rain and sun, keep young ones safe, and keep out hunters."
     }
    ]
+  },
+  {
+   "id": "a6",
+   "title": "A Clay House You Can Explain",
+   "mins": 30,
+   "days": 1,
+   "context": "In this activity you make a small house from clay and use it to show a parent how a house works. You will find out that a model is a small copy that shows one idea at a time.",
+   "materials": [
+    {
+     "item": "clay, or soft garden mud, or atta dough (a small fistful of clay or a cup of dough)",
+     "qty": 1
+    },
+    {
+     "item": "a piece of thin card or a flat lid, for a base",
+     "qty": 1
+    },
+    {
+     "item": "a folded piece of card, for a sloping roof",
+     "qty": 1
+    },
+    {
+     "item": "a spoon and a cup of water",
+     "qty": 1
+    },
+    {
+     "item": "a pencil or a stick, for poking windows",
+     "qty": 1
+    }
+   ],
+   "safety": "Wash your hands after touching mud. Do the water test over a tray so the floor stays dry.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 30,
+     "what": "Shape a small clay house with walls, a door and windows. Put on a sloping card roof. Pour water on the roof and use the model to explain your house to a parent."
+    }
+   ],
+   "record": "Draw your model and label the roof, walls, door and windows. Write one thing the model showed and one thing it could not show.",
+   "setup": [
+    {
+     "art": "Hands pressing a flat slab of clay into a wall on a card base, with a stick poking a window hole.",
+     "caption": "1. Press clay into four walls. Poke a door and windows."
+    },
+    {
+     "art": "A folded card roof resting on the clay walls, and a spoon pouring water that runs down one side into a tray.",
+     "caption": "2. Add a sloping roof and pour water on it."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 15,
+     "do": "1. Roll the clay flat like a chapati. 2. Cut or press four walls and stand them on the card base. 3. Poke a door and two windows with the stick. 4. Rest the folded card on top as a sloping roof.",
+     "say": "We are making a small copy of a house. What does a house need? Where will the door go? Where will the windows go?",
+     "kid": "Press clay into four walls. Poke a door and two windows. Put the roof on top.",
+     "parent": "A model is a small copy that shows how the real thing works. If the clay cracks, wet your fingers and smooth it. If you use atta dough, it dries hard in a day or two. Clay is the same soil that Kumhars (potters) in many villages shape into pots and terracotta tiles.",
+     "context": "This is a model-making activity. Here you build a small clay house."
+    },
+    {
+     "id": "s2",
+     "mins": 15,
+     "do": "1. Pour a spoon of water slowly on the roof. 2. Watch where it runs. 3. Point to the windows and say what each one lets in. 4. Explain the house to a parent in three sentences.",
+     "say": "Pour the water on the roof. Where does it go? Now tell me how this house keeps the rain out, and how light and fresh air come in.",
+     "kid": "Pour water on your roof. Where does it run? Tell a grown-up how your house works.",
+     "ask": [
+      {
+       "q": "What does your model show? What can it not show?",
+       "good": [
+        "It shows where rain runs off the roof.",
+        "It shows where the windows let in light.",
+        "It cannot show how many people live inside."
+       ]
+      }
+     ],
+     "parent": "The water runs down the slope and off the edge, which is why real roofs slope. Windows let in light and fresh air. A model leaves things out. It has no people, no furniture and no real weather, so it can show only one or two ideas."
+    }
+   ]
   }
  ],
  "projects": [
@@ -1469,11 +1709,11 @@
       "t": "mcq",
       "q": "One side of your hut leans when you push it. What is the best fix?",
       "options": [
-       "Add more tape to the corners",
        "Add a stick from one corner of that side to the opposite corner",
+       "Add more tape to the corners",
        "Make the sticks longer"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A stick from corner to corner, called a brace, turns the leaning square into two triangles, and triangles cannot lean. More tape helps only a little, because a taped corner can still bend."
      }
     }
@@ -1648,23 +1888,35 @@
    "t": "mcq",
    "p": "What does a shelter protect us from?",
    "opts": [
-    "Only from rain",
     "Rain, sun, heat, cold, wind and danger",
+    "Only from rain",
     "Only from animals"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A shelter protects from all of these. Choosing only one leaves out the others.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Which home stands on its own piece of land, with no other home above or below it?",
+   "opts": [
+    "A flat in a tall block",
+    "An independent house",
+    "A houseboat floating on a lake"
+   ],
+   "a": 1,
+   "why": "A flat shares its building with other homes, and a houseboat floats on water. An independent house stands alone on its own land.",
    "outcome": 0
   },
   {
    "t": "mcq",
    "p": "You push a square frame of card strips sideways. What happens?",
    "opts": [
-    "It stays square",
     "It leans and folds flat",
+    "It stays square",
     "It becomes a triangle"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The square's corners turn like hinges, so it leans. Choosing 'stays square' usually means thinking more strips make it stronger.",
    "outcome": 1,
    "how": "e1"
@@ -1734,10 +1986,10 @@
    "p": "Water was poured on a flat tray and on a tray tilted on four books. What happened?",
    "opts": [
     "Both dried at the same time",
-    "The water ran off the tilted tray fast and stayed on the flat one",
-    "The water stayed on the tilted tray"
+    "The water stayed on the tilted tray",
+    "The water ran off the tilted tray fast and stayed on the flat one"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Water flows downhill. The steeper the slope, the faster it runs off.",
    "outcome": 4,
    "how": "e2"
@@ -1783,13 +2035,61 @@
    "t": "mcq",
    "p": "In an earthquake, why is a heavy roof more dangerous than a light one?",
    "opts": [
-    "Heavy roofs are pushed harder by the shaking and hurt more if they fall",
     "Heavy roofs let rain in",
+    "Heavy roofs are pushed harder by the shaking and hurt more if they fall",
     "Heavy roofs are hotter"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The shaking pushes heavy things harder, and a falling heavy roof is the main danger. In Kutch in 2001, many bhungas with light roofs stood.",
    "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "A village family plasters a wall with clay, hay and cow dung. Why is this wall a good choice for the village?",
+   "opts": [
+    "It is stronger than a concrete wall",
+    "Everything comes from near the house, it costs little and it keeps rooms cool",
+    "It never needs mending"
+   ],
+   "a": 1,
+   "why": "The clay, hay and dung are found nearby, and a thick mud wall heats up slowly. The rain still washes the paint away, so families freshen the wall every year.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "A small room has no window, and many people sit in it for a long time. What happens?",
+   "opts": [
+    "The room gets more daylight",
+    "The air gets stale and stuffy, because no fresh air comes in",
+    "The walls become stronger"
+   ],
+   "a": 1,
+   "why": "Breath and cooking smoke stay in the room, and nothing brings fresh air in. A window or a gap lets stale air out and fresh air in.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Which is one way that building a house can harm the world around it?",
+   "opts": [
+    "Baking bricks in a kiln burns wood or coal and makes smoke",
+    "Houses make the rain stop",
+    "Houses make the Sun dimmer"
+   ],
+   "a": 0,
+   "why": "Brick kilns make smoke, making cement releases carbon dioxide, and clearing land takes away the home of plants and animals. Rain and sunlight are not changed by one house.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "You make a clay house model and pour water on its sloping roof. What does the model show you?",
+   "opts": [
+    "Where the rain runs off a roof like that",
+    "How many people can live in the real house",
+    "What colour the real house is"
+   ],
+   "a": 0,
+   "why": "A model shows one idea at a time. The water shows how a slope sheds rain. It cannot show who lives inside or what colour the real house is.",
+   "outcome": 4
   }
  ],
  "worksheets": [
@@ -1803,11 +2103,11 @@
      "t": "mcq",
      "p": "In the Push Test, you pushed the top of a square card frame sideways. What happened?",
      "opts": [
-      "It stayed square",
       "It leaned into a diamond and folded flat",
+      "It stayed square",
       "One strip broke"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The corners of a square turn like hinges, so the square leans and folds without any strip changing length.",
      "how": "e1"
     },
@@ -1815,11 +2115,11 @@
      "t": "mcq",
      "p": "Which of these frames keeps its shape when pushed?",
      "opts": [
+      "A triangle",
       "A square",
-      "A rectangle",
-      "A triangle"
+      "A rectangle"
      ],
-     "a": 2,
+     "a": 0,
      "why": "A triangle cannot change shape unless one side changes length. Squares and rectangles can lean by turning their corners."
     },
     {
@@ -1860,6 +2160,30 @@
      ],
      "a": "pairs as given",
      "why": "Each house suits the weather and dangers of its place."
+    },
+    {
+     "t": "match",
+     "p": "Match each home to what it is like.",
+     "pairs": [
+      [
+       "Flat",
+       "A home inside a tall building, with other homes above and below"
+      ],
+      [
+       "Independent house",
+       "Stands alone on its own piece of land"
+      ],
+      [
+       "Mud hut",
+       "A small home built by the family from mud, bamboo or grass found near"
+      ],
+      [
+       "Houseboat",
+       "Floats on a lake, with a family living on it"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each kind of home suits the land, the money and the people who live there."
     },
     {
      "t": "sort",
@@ -1919,11 +2243,11 @@
      "t": "mcq",
      "p": "In the card frames of the Push Test, what is each split pin?",
      "opts": [
-      "A brace",
       "A joint, where two strips meet",
+      "A brace",
       "A load"
      ],
-     "a": 1,
+     "a": 0,
      "why": "A joint is the place where two parts of a frame meet and are fixed together."
     },
     {
@@ -1938,6 +2262,20 @@
      ],
      "why": "A strong answer puts the brace across the frame from corner to corner.",
      "art": "A simple house drawing with its frame showing on one side, a diagonal brace in the frame, a sloping roof and a door, with five empty label lines."
+    },
+    {
+     "t": "draw",
+     "p": "Draw your home, or a house on your street, from outside. Label the roof, the walls, the door and a window.",
+     "a": "A house with a roof, walls, a door and at least one window, each with a label.",
+     "why": "A strong drawing names every part and shows which part lets in light and fresh air.",
+     "art": "An empty page with a pencil."
+    },
+    {
+     "t": "write",
+     "p": "Name two things a window gives a room. What would the room be like with no window?",
+     "lines": 3,
+     "a": "A window gives daylight and fresh air. Without one, the room would be dark and stuffy, and cooking smoke would stay inside.",
+     "why": "A strong answer names light and fresh air, and says what goes wrong without them."
     },
     {
      "t": "truefalse",
@@ -2033,10 +2371,10 @@
      "p": "You add a strip across a square frame, from the middle of the top to the middle of the bottom. Will it stop the square leaning?",
      "opts": [
       "Yes, any extra strip stops leaning",
-      "No, it makes two smaller rectangles, which can still lean",
-      "Only if the strip is thicker"
+      "Only if the strip is thicker",
+      "No, it makes two smaller rectangles, which can still lean"
      ],
-     "a": 1,
+     "a": 2,
      "why": "A strip from the middle of the top to the middle of the bottom makes two smaller rectangles, not triangles. Rectangles still lean. The brace must go from corner to corner."
     },
     {
@@ -2050,11 +2388,11 @@
      "t": "mcq",
      "p": "In the Kutch earthquake of 2001, many bhungas with light roofs stood. Why is a light roof safer in an earthquake?",
      "opts": [
-      "A light roof is cheaper",
       "If a light roof falls, it is far less likely to hurt people, and shaking pushes light things less",
+      "A light roof is cheaper",
       "A light roof keeps the house cool"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The shaking ground pushes heavy things harder, and a falling heavy roof is the main danger. A light roof both moves less and hurts less if it falls."
     },
     {
@@ -2064,6 +2402,13 @@
      "a": "In the test, water stayed in a puddle on the flat tray but ran off the steep tray in seconds. Kerala gets very heavy rain, so it needs steep roofs to shed water. Ladakh gets very little rain, so a flat roof is fine and can be used for drying food.",
      "why": "A strong answer uses the test results, then links each roof to each place's rain.",
      "how": "e2"
+    },
+    {
+     "t": "write",
+     "p": "A village wall is made of clay, hay and cow dung, and painted with rice-flour paste. Give two reasons it suits village life. Why must the paint be done again each year?",
+     "lines": 4,
+     "a": "Everything comes from near the house and costs little, and the thick wall stays cool. The rain washes the paint away, so the family paints it again, often before a festival.",
+     "why": "A strong answer gives two real reasons and links the paint to the rain."
     },
     {
      "t": "sort",
@@ -2123,11 +2468,11 @@
      "t": "mcq",
      "p": "Laurie Baker's rat-trap bond lays bricks on their edges, with a gap inside the wall. What does the gap do?",
      "opts": [
-      "Saves bricks and keeps the room cooler",
       "Lets rats live in the wall",
-      "Makes the wall heavier"
+      "Makes the wall heavier",
+      "Saves bricks and keeps the room cooler"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The air gap means fewer bricks are needed, and still air slows heat coming through the wall. The name comes from the shape of the brick pattern, not from rats."
     },
     {
@@ -2190,11 +2535,18 @@
      "p": "You want a light frame for a balcony tent. Which one will stay up best in the wind?",
      "opts": [
       "Four sticks in a square",
-      "Sticks in triangles, with a brace on each side",
-      "One tall stick in the middle"
+      "One tall stick in the middle",
+      "Sticks in triangles, with a brace on each side"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Triangles and braces stop the frame leaning in a sideways push from the wind. A square can fold, and one stick can tip over."
+    },
+    {
+     "t": "write",
+     "p": "Your clay house model has no people and no furniture. Name one thing it can show you, and one thing it cannot.",
+     "lines": 3,
+     "a": "It can show where rain runs off a sloping roof, or where windows let in light. It cannot show how many people live inside, or how warm the house is.",
+     "why": "A strong answer sees that a model shows only one or two ideas and leaves the rest out."
     }
    ]
   },
@@ -2253,6 +2605,13 @@
      "lines": 3,
      "a": "A small door lets less cold air in and less warm air out, so the hut stays warmer. It is also easy to close.",
      "why": "A strong answer links the door to keeping warmth in, in a cool place. It is fine to say this is a guess."
+    },
+    {
+     "t": "write",
+     "p": "A builder can use bricks baked in a kiln, or blocks of mud pressed near the site. Which harms the air and land around it less? What might the family give up?",
+     "lines": 4,
+     "a": "Pressed mud blocks make less smoke and need no coal or wood for baking. The family may give up some strength against heavy rain, and the walls may need more care. Some builders think brick or concrete is worth it for tall or crowded places.",
+     "why": "A strong answer weighs both choices. People really do argue about this, so there is no single right answer."
     },
     {
      "t": "mcq",
@@ -2618,6 +2977,101 @@
    "used_in": [
     "e1"
    ]
+  },
+  {
+   "id": "b-dreaming-up",
+   "item": "Dreaming Up: A Celebration of Building by Christy Hale",
+   "kind": "book",
+   "why": "Children's block towers and sand castles are shown beside real buildings from around the world. It helps the child see that building starts the same way at any size.",
+   "url": "https://www.amazon.in/s?k=Dreaming+Up",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Read it together before the house project."
+  },
+  {
+   "id": "b-a-magnetic-compass",
+   "item": "A magnetic compass",
+   "kind": "tool",
+   "why": "Used in The Push Test: square frame or triangle frame?. About ₹30 to ₹150. A phone compass app also works.",
+   "url": "https://www.amazon.in/s?k=magnetic+compass+school",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before The Push Test: square frame or triangle frame?."
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in Build a Newspaper Hut You Can Sit In, The Tower That Stands in the Fan's Wind. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before Build a Newspaper Hut You Can Sit In."
+  },
+  {
+   "id": "b-a-digital-stopwatch--optiona",
+   "item": "A digital stopwatch (optional)",
+   "kind": "tool",
+   "why": "Used in Rain on the Roof: how steep should it be?. About ₹150 to ₹400. A phone stopwatch works well.",
+   "url": "https://www.amazon.in/s?k=digital+stopwatch",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before Rain on the Roof: how steep should it be?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Push Test: square frame or triangle frame?, The Settling Jar: what is soil made of, and where is the clay?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "old1"
+   ],
+   "plan": "Get it before The Push Test: square frame or triangle frame?."
+  },
+  {
+   "id": "b-wooden-ice-cream-sticks--a-p",
+   "item": "Wooden ice-cream sticks (a pack)",
+   "kind": "material",
+   "why": "Used in The Flood-Proof House. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in.",
+   "url": "https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack",
+   "used_in": [
+    "c2"
+   ],
+   "plan": "Get it before The Flood-Proof House."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in Which Way Should the Tiles Overlap?, The Flood-Proof House. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "e3",
+    "c2"
+   ],
+   "plan": "Get it before Which Way Should the Tiles Overlap?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [
@@ -2693,7 +3147,9 @@
    "big_questions",
    "ws-challenge",
    "open_questions",
-   "quiz"
+   "quiz",
+   "old1",
+   "a6"
   ],
   "core": [
    "a1",
@@ -2795,5 +3251,44 @@
   "when": "the 1960s",
   "wrong_idea": "Engineers thought that a taller building needed a thicker and heavier skeleton of columns and stiff joints, so very tall towers would cost too much steel. Khan showed that big diagonal braces making triangles on the outside could hold the building firm against wind with far less steel.",
   "context": "How can a very tall building stand up to the wind without too much steel? This card tells the true story of an engineer who found a clever way."
- }
+ },
+ "more_stories": [
+  {
+   "title": "The Bull That Did Not Melt",
+   "mins": 7,
+   "read_aloud": true,
+   "note": "",
+   "text": [
+    "My name is Asha, or that is what you may call me. You could not say my real name, because the words of my city were forgotten long ago. I live by a great river, in a city of brick, about four and a half thousand years before you were born. You call my city Mohenjo-daro.",
+    "Every morning my father goes down to the riverbank with two baskets. He fills them with the smooth grey mud that the river leaves behind when the water falls. He carries it to our yard, mixes it with water and treads it with his bare feet until it is soft all through. Then he presses it into a wooden mould, flat on the ground, and lifts the mould away. There is a brick, wet and shining. He does it again, and again, until the yard is full of wet bricks in rows, like a field of flat grey seeds.",
+    "'Every brick the same,' he says. 'This long, this wide, this thick. The same as the bricks in the cities up the river. A brick should fit any wall.'",
+    "The sun dries them in a few days. They turn pale and hard, and ring a little when you tap them together. Father sells them to the builders. They are good bricks, and they cost nothing but mud, water, feet and sun.",
+    "Across the lane lives my aunt Rupi, who is not really my aunt. She bakes bricks. Her kiln is a big round oven built of old bricks, and when it burns, the smoke stings my eyes from our yard. She stacks her dried bricks inside with wood between them, and feeds the fire for a day and a night. When the bricks come out they are red, and they are heavier to lift, and they sound different when you knock them.",
+    "Father shakes his head at her kiln. 'All that wood,' he says. 'All that work. The sun does the same job for nothing.'",
+    "I wanted a bull. Not a real one, a small one, to pull a little cart. So I took a handful of Father's mud and made two. I gave them horns and humps, and I pressed in eyes with a stick. One I left to dry in the sun on our wall. The other I gave to Aunt Rupi, and asked if it could go in her kiln, and she laughed and pushed it in among her bricks.",
+    "Mine from the wall was pale and smooth. The one from the kiln came back red, a little smaller, with a black smudge on one side where the fire had kissed it. I liked the pale one better. It looked like it had come from the river.",
+    "That summer the river grew. It always grows in summer, when the snow melts in the far mountains and the rains come. But that year it kept growing. It filled the low fields. It came up the lanes at the bottom of the city, slowly, brown and quiet, carrying sticks and a drowned goat. Our house stands on a high platform of bricks, and we watched from the roof as the water rose up the street, and touched the walls, and stayed.",
+    "It stayed for six days. Then, as slowly as it came, it went away.",
+    "When we came down, the lane smelled of wet earth. Father went straight to the wall at the bottom of our yard. It was the wall he had built himself, from his own sun-dried bricks. The lowest rows had gone soft. They had slumped and spread like porridge, and the wall above them leaned and cracked. Father put his hand on it, and a piece came away in his palm, just mud again, the same mud he had carried from the river.",
+    "My pale bull was gone from the top of the wall. I looked for it everywhere. At last I found a soft grey lump in the corner of the yard, with one horn still sticking out of it.",
+    "Then I remembered the other bull. I had left it by Aunt Rupi's door. I ran across the lane. The water had been there too. Mud lay over everything, and in the mud, on its side, was a small red bull with a black smudge. I picked it up and washed it in a pot of water. It was hard. Every horn and every eye was still there.",
+    "Aunt Rupi's house had red baked bricks in its lowest rows, below the sun-dried ones. Those rows stood straight. The drain in the lane, which the city builders had made of baked bricks too, was full of mud but whole.",
+    "I took both bulls to Father, the lump and the red one. I put them side by side on his palm.",
+    "'They were the same mud,' I said. 'Your mud.'",
+    "He looked at them for a long time. He turned the red bull over and tapped it with his nail, and it made that small hard sound.",
+    "'The same mud,' he said. 'Once.'",
+    "The next week Father carried a basket of his dried bricks across the lane to Aunt Rupi's kiln, and came back with his eyes red from the smoke. When he built the new wall, he laid the baked bricks at the bottom, where the water reaches, and his own pale bricks on top, where only the sun and the wind can touch them.",
+    "I keep the red bull on the shelf by my bed. Sometimes I put it in a bowl of water, just to watch it stay."
+   ],
+   "epiphany": "For the parent: this is an imagined story set in a real place, Mohenjo-daro, where builders did use both sun-dried and kiln-baked bricks, and used baked ones where water reached. The turn is the flood: the sun-dried bricks and the sun-dried bull turn back to mud, but the baked bull and baked bricks do not. Fire changed the clay for ever. Asha's father's words 'Once' say it: they were the same mud, but baking was an irreversible change. Let your child find this out with the diya test on Day 3 before you name it.",
+   "ask": [
+    "Both bulls were made from the same mud. Why did one melt and one did not?",
+    "Why did Asha's father think the kiln was a waste at first? Was he wrong about everything?",
+    "Why did he put the baked bricks at the bottom of the new wall, and his own bricks on top?",
+    "What did the baked bricks cost that the sun-dried bricks did not?",
+    "Why do you think Asha puts the red bull in water just to watch it?"
+   ],
+   "art": []
+  }
+ ]
 }

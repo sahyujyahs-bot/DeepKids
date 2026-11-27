@@ -1,9 +1,9 @@
 # How we see: light goes straight, a lens makes a sharp picture, and two eyes build depth
 `sci.light.how-we-see.L4`
 
-**Summary.** Close one eye and judging distance gets harder. Why? In this unit you will test whether light can go round a corner, make a sharp picture of a window with a lens, find how close you can focus, and try the near pencil, far pencil depth test.
+**Summary.** Close one eye and judging distance gets harder. Why? In this lesson you will test whether light can go round a corner, make a sharp picture of a window with a lens, find how close you can focus, and try the near pencil, far pencil depth test.
 
-**Intro.** *Hold one finger up at arm's length, in front of a plain wall. Close your left eye and look at the finger. Now open the left eye and close the right. What happened to your finger? Did the finger really move, or did something else change?* The finger did not move. But each of your eyes looks from a slightly different place, so each gets a slightly different picture. Your brain joins the two into one, and it uses the difference to tell how far away things are. In this unit you find out how light travels from the world to your eyes in straight lines. You build a lens that makes a picture of a window. Then you measure the jump, and find out how much of what you see is worked out and not simply seen.
+**Intro.** *Hold one finger up at arm's length, in front of a plain wall. Close your left eye and look at the finger. Now open the left eye and close the right. What happened to your finger? Did the finger really move, or did something else change?* The finger did not move. But each of your eyes looks from a slightly different place, so each gets a slightly different picture. Your brain joins the two into one, and it uses the difference to tell how far away things are. In this lesson you find out how light travels from the world to your eyes in straight lines. You build a lens that makes a picture of a window. Then you measure the jump, and find out how much of what you see is worked out and not simply seen.
 
 ## Learning outcomes
 0. I can show with a test that light travels in straight lines, and say what happens when something is in the way.
@@ -574,7 +574,7 @@ From that evening, Thamarai fielded wherever the ball was most likely to go high
 ## Worksheets
 ### Straight Light and Two Views (core) (core, 16 questions)
 1. (mcq) A torch shines through three cards with holes, and a spot shows on the wall. The spot vanishes when the middle card is slid sideways. What does this show?  
-   Options: Light travels in straight lines / Light bends round the edge of a hole / The torch is weak  
+   Options: Light bends round the edge of a hole / The torch is weak / Light travels in straight lines  
    **Answer:** Light travels in straight lines. *Why:* The light only passed through while the three holes were on one straight line. When the middle hole moved off the line, the card blocked the light. Light did not bend round the edge. Picking 'the torch is weak' does not fit, because the spot returns when the card is slid back.
 2. (truefalse) A shadow has a sharp edge because light cannot curve round the thing that blocks it.  
    **Answer:** True. *Why:* True. Light goes in straight lines, so the place behind the thing gets no light, and the edge between light and dark is sharp.
@@ -583,20 +583,20 @@ From that evening, Thamarai fielded wherever the ball was most likely to go high
 4. (order) Put these in order, to show how a lens makes a picture of a window on a card.  
    **Answer:** order shown. *Why:* Light first spreads out from every point of the window. The lens catches some of it and bends it. The rays from each point come together again on the card, and that makes a sharp, upside-down picture.
 5. (mcq) Why is the picture on the retina upside down?  
-   Options: The lens bends rays from the top of a thing downwards and rays from the bottom upwards, so they cross / The eye is hung upside down / The brain turns it over before it reaches the eye  
+   Options: The eye is hung upside down / The lens bends rays from the top of a thing downwards and rays from the bottom upwards, so they cross / The brain turns it over before it reaches the eye  
    **Answer:** The lens bends rays from the top of a thing downwards and rays from the bottom upwards, so they cross. *Why:* Rays from the top of a thing cross the rays from the bottom as they pass through the lens. So the top ends up at the bottom of the picture. Picking 'the brain turns it over' mixes up the order. The picture is upside down before it gets to the brain.
 6. (mcq) You look up from a book to a clock on the wall, and for a moment it is blurry. What is your eye doing?  
-   Options: Changing the lens from thick to thinner / Changing the retina from thin to thick / Making the pupil bigger  
+   Options: Changing the retina from thin to thick / Changing the lens from thick to thinner / Making the pupil bigger  
    **Answer:** Changing the lens from thick to thinner. *Why:* For a near book, the lens is thick. For a far clock, it has to become thinner. This takes a moment, and in that moment the picture is blurry.
 7. (fill) To focus on a near thing, the lens in the eye gets ____.  
    **Answer:** ['thicker', 'fatter']. *Why:* A thicker lens bends light more, which is what a near thing needs to make a sharp picture on the retina.
 8. (mcq) A friend looks 18 centimetres tall on a ruler held at arm's length when she stands 4 metres away. About how tall will she look when she stands 8 metres away?  
-   Options: About 9 centimetres / About 36 centimetres / About 18 centimetres  
+   Options: About 36 centimetres / About 9 centimetres / About 18 centimetres  
    **Answer:** About 9 centimetres. *Why:* Twice as far away makes the angle at the eye half as big. So she looks about half as tall, which is 9 centimetres. Picking 18 forgets that distance matters. Picking 36 gets the pattern backwards.
 9. (match) Match each animal to the place where their eyes sit and what that gives.  
    **Answer:** An owl → eyes at the front, for depth to judge a pounce; A deer → eyes at the sides, for a wide view; A hen → eyes at the sides, with a head bob to keep the picture steady; A chameleon → each eye can move on its own. *Why:* Each design suits the way the animal lives. Front eyes give depth for a hunter. Side eyes give a wide view for an animal that must watch for danger.
 10. (mcq) In the Near Pencil, Far Pencil test, you swapped eyes. A pencil held near jumped much more than a pencil held far. What does the brain use the size of the jump for?  
-   Options: To work out how far away the pencil is / To make the pencil move / To change the colour of the pencil  
+   Options: To make the pencil move / To change the colour of the pencil / To work out how far away the pencil is  
    **Answer:** To work out how far away the pencil is. *Why:* A near thing jumps a lot and a far thing jumps a little. So the size of the jump is a clue to the distance.
 11. (truefalse) A person with sight in only one eye cannot tell how far away anything is.  
    **Answer:** False. *Why:* False. A person with one eye can use clues such as size, overlap, haze and how things shift when the head moves. Two eyes make it easier for things that are close.
@@ -607,16 +607,16 @@ From that evening, Thamarai fielded wherever the ball was most likely to go high
 14. (sort) Sort these. Does each one help the brain to judge distance with one eye, or does it need two eyes?  
    **Answer:** a nearer tree looks bigger than the same tree far away → Works with one eye; a house hides part of the hill behind it → Works with one eye; far hills look hazy and blue → Works with one eye; a pencil seems to jump when you swap eyes → Needs two eyes; a near tree slides further than a far tree when you move your head → Works with one eye; each eye gets a slightly different picture → Needs two eyes. *Why:* A nearer tree looking bigger, a house hiding part of a hill, hazy far hills and a tree sliding across the view when you move your head are all clues you can use with one eye. The pencil jump and the two different pictures only exist when you have two eyes.
 15. (mcq) An octopus has no blind spot. Why?  
-   Options: Her light-catching cells face the light and her nerve fibres lie behind them / She has more eyes than we do / Her brain is bigger than ours  
+   Options: She has more eyes than we do / Her light-catching cells face the light and her nerve fibres lie behind them / Her brain is bigger than ours  
    **Answer:** Her light-catching cells face the light and her nerve fibres lie behind them. *Why:* In our eyes, the nerve fibres lie in front of the light-catching cells, so the nerve must pass through the retina. That makes a gap. In an octopus's eye the fibres lie behind, so there is no gap.
 16. (write) A friend says, 'Light can bend round a corner like sound can, because I can hear my mother in the next room.' Write two sentences to help your friend.  
    **Answer:** Sound waves are long, so they bend round corners easily. Light waves are tiny, so they bend round corners by almost nothing, and we cannot see round a corner. A shadow has a sharp edge for the same reason.. *Why:* A strong answer says that light goes in straight lines in everyday life, and gives evidence such as sharp shadows, or the spot of light that vanished in the Three Cards test.
 ### How the Eye and Brain Build the Picture (stretch) (stretch, 17 questions)
 1. (mcq) Light from a window lands on a plain white wall, but the wall shows no picture of the window. Why?  
-   Options: Rays from every point of the window land on every point of the wall and mix / The wall is too white / Light cannot make pictures  
+   Options: The wall is too white / Light cannot make pictures / Rays from every point of the window land on every point of the wall and mix  
    **Answer:** Rays from every point of the window land on every point of the wall and mix. *Why:* Each point of the window sends rays in all directions, so every point of the wall gets light from every point of the window. It all mixes. To make a picture, you need a hole or a lens to sort the rays.
 2. (mcq) A pinhole and a lens both make a sharp picture. Why is the lens picture much brighter?  
-   Options: The lens gathers light from a wide area and bends it to the same place / The lens makes its own light / The pinhole makes the picture darker on purpose  
+   Options: The lens makes its own light / The pinhole makes the picture darker on purpose / The lens gathers light from a wide area and bends it to the same place  
    **Answer:** The lens gathers light from a wide area and bends it to the same place. *Why:* A pinhole lets through only a thin beam from each point. A lens is a wide window that bends many rays from each point back together.
 3. (truefalse) There is a small screen inside the head where a picture is turned right way up and shown.  
    **Answer:** False. *Why:* False. There is no screen inside the head. The picture on the retina is upside down, but the brain does not need to turn it. It learns how signals from each part of the retina match what we touch and where up is.
@@ -632,7 +632,7 @@ From that evening, Thamarai fielded wherever the ball was most likely to go high
 8. (match) Match each word to its meaning.  
    **Answer:** Fovea → the tiny spot of finest detail in the retina; Near point → the closest distance at which a thing is still sharp; Parallax → a near thing seems to shift more than a far thing; Field of view → how much you can see at once. *Why:* These four ideas appear all through the unit. The fovea sees detail, the near point shows how far the lens can thicken, parallax gives depth, and the field of view tells how wide you can see.
 9. (mcq) A fielder runs to where a ball will land, not to where it is. What does this show?  
-   Options: The brain predicts, because what it sees is a little old / The fielder sees the future / The ball is slow  
+   Options: The fielder sees the future / The brain predicts, because what it sees is a little old / The ball is slow  
    **Answer:** The brain predicts, because what it sees is a little old. *Why:* Signals from the eye take a short time to be used. A fast ball moves a long way in that time. So the brain predicts where the ball will be.
 10. (truefalse) Reading in dim light damages your eyes for good.  
    **Answer:** False. *Why:* False. Reading in dim light can make eyes tired, but eye doctors say it does not cause lasting harm.
@@ -641,7 +641,7 @@ From that evening, Thamarai fielded wherever the ball was most likely to go high
 12. (write) Explain why a sign that is twice as far away must be twice as tall to look the same size. Use the word 'angle'.  
    **Answer:** The size a thing looks depends on the angle between the rays from its top and its bottom. Twice as far makes the angle half as big. A sign twice as tall makes the angle twice as big again, so the two cancel and the sign looks the same size.. *Why:* A strong answer links distance, size and angle in one chain of reasoning.
 13. (mcq) A deer has eyes at the sides of her head. What does she gain?  
-   Options: A very wide view, almost all the way round / Strong depth for a pounce / Better sight in the dark than every other animal  
+   Options: Strong depth for a pounce / Better sight in the dark than every other animal / A very wide view, almost all the way round  
    **Answer:** A very wide view, almost all the way round. *Why:* Side eyes cover different parts of the world, so together they see almost all the way round. That helps a deer spot danger.
 14. (sort) Sort these. Is each one about the sharp centre of the eye, or about the edges of the retina?  
    **Answer:** reads small print → The sharp centre; notices a movement from the side → The edges; packed with cone cells → The sharp centre; works well in dim light → The edges; names colours well → The sharp centre; makes a faint star seem to appear when you look beside it → The edges. *Why:* The fovea in the centre has many cone cells, so it sees detail and colour. The edges have many rod cells, so they are good at movement and dim light.
@@ -650,16 +650,16 @@ From that evening, Thamarai fielded wherever the ball was most likely to go high
 16. (odd) Which one is the odd one out? A hen, a deer, a horse, an owl. Say why.  
    **Answer:** an owl. *Why:* The hen, the deer and the horse have eyes at the sides of the head, for a wide view. The owl has both eyes at the front, for depth.
 17. (mcq) A rabbit has eyes at the sides of her head. Why can she not judge the distance of a close object as well as a cat?  
-   Options: Her two eyes see mostly different parts of the world, so there is little overlap to compare / Her eyes are too small / Rabbits cannot see close things  
+   Options: Her eyes are too small / Rabbits cannot see close things / Her two eyes see mostly different parts of the world, so there is little overlap to compare  
    **Answer:** Her two eyes see mostly different parts of the world, so there is little overlap to compare. *Why:* Depth from two eyes needs overlapping views. Side eyes overlap very little, so there is not much difference to measure.
 ### Thinking Like Wheatstone and Kepler (challenge) (challenge, 15 questions)
 1. (mcq) In 1838, Charles Wheatstone showed one flat drawing to each eye, and together the two drawings looked solid. What did this show?  
-   Options: The difference between the views of the two eyes is a clue to depth in itself / The brain draws solid things / Flat things are really solid  
+   Options: The brain draws solid things / Flat things are really solid / The difference between the views of the two eyes is a clue to depth in itself  
    **Answer:** The difference between the views of the two eyes is a clue to depth in itself. *Why:* The drawings were flat, so they had no real depth. Yet the brain made a solid scene from the small difference between them.
 2. (write) Plan a fair test to find out whether children catch a ball better with two eyes open than with one eye covered. Say what you change, what you keep the same, and how you will count.  
    **Answer:** I change whether one eye or two eyes are open. I keep the ball, the distance, the thrower and the number of throws the same. I toss 10 times with two eyes and 10 times with one, in a mixed order so that practice does not help one side. I count how many catches.. *Why:* A strong answer changes one thing, keeps the rest the same, repeats the test and counts the results. It also mixes the order, so that practice does not give one side an unfair help.
 3. (mcq) A scientist wants to check that the picture on a retina is upside down. Which test would work?  
-   Options: Take the back off an animal's eye so that the retina shows through, and look at the picture / Ask a person to draw what they see / Shine a torch into the eye  
+   Options: Ask a person to draw what they see / Take the back off an animal's eye so that the retina shows through, and look at the picture / Shine a torch into the eye  
    **Answer:** Take the back off an animal's eye so that the retina shows through, and look at the picture. *Why:* Looking at the picture on the retina directly is the best test. Scheiner did this in the early 1600s. Asking someone what they see would not show the picture on the retina, because the brain has already worked on it.
 4. (truefalse) Light from a star takes the same time to reach us as light from the Moon.  
    **Answer:** False. *Why:* False. Light from the Moon takes about a second. Light from the nearest stars takes years. We see stars as they were long ago.
@@ -673,21 +673,21 @@ From that evening, Thamarai fielded wherever the ball was most likely to go high
 8. (perspective) Why is short sight becoming more common in children? Scientists are still working it out.  
    **Answer:** A strong answer picks an idea and plans a test, such as comparing children who spend different amounts of time outdoors, or following children over years. It gives the other idea a fair point. Both could be true.. *Why:* Scientists have not settled this. Studies in several countries suggest that time outdoors helps, but the reason is unclear.
 9. (mcq) A cat jumps on a mouse. Why do both her eyes face the front?  
-   Options: Two overlapping views give her strong depth for judging the leap / Eyes at the front see further than eyes at the sides / She can see in the dark that way  
+   Options: Eyes at the front see further than eyes at the sides / Two overlapping views give her strong depth for judging the leap / She can see in the dark that way  
    **Answer:** Two overlapping views give her strong depth for judging the leap. *Why:* Overlapping views let the brain compare and measure the distance. This is what a hunter needs for a leap.
 10. (sort) Sort these. Do scientists agree on it, or does nobody know yet?  
    **Answer:** Two eyes give two slightly different pictures. → Scientists agree; The brain uses the difference to judge depth. → Scientists agree; Light travels in straight lines in clear air. → Scientists agree; Exactly why the Moon looks bigger near the horizon. → Nobody knows yet; How the brain turns signals into the experience of a solid world. → Nobody knows yet. *Why:* The first three have been tested many times. The reason for the Moon illusion is argued about, and how signals become an experience is still an open question.
 11. (write) A robot car uses two cameras to measure distance. Explain how this is like what your eyes do.  
    **Answer:** The two cameras see the same scene from two places, a little apart, like two eyes. A near thing is at different places in the two pictures, and a far thing is at nearly the same place. The robot measures the difference and works out the distance.. *Why:* A strong answer says that the cameras compare two views and measure the shift. Nearer things shift more.
 12. (mcq) A spinning thaumatrope seems to show a bird inside a cage. Which statement fits best?  
-   Options: The brain joins two pictures that come very quickly one after the other / The bird and the cage are drawn on the same side / The card makes a new picture of its own  
+   Options: The bird and the cage are drawn on the same side / The brain joins two pictures that come very quickly one after the other / The card makes a new picture of its own  
    **Answer:** The brain joins two pictures that come very quickly one after the other. *Why:* The card shows the bird and the cage one after the other, many times a second. Your brain joins them. Scientists still discuss exactly how.
 13. (draw) Draw a top-down picture of a head with two eyes looking at a pencil held in front, with a wall behind. Draw the line of sight from each eye to the pencil and on to the wall. Mark where the pencil seems to be on the wall for each eye.  
    **Answer:** Two lines start at the two eyes and meet at the pencil. They carry on to the wall and land at two different places. The distance between the two places is the jump.. *Why:* The two eyes see the pencil against different parts of the wall. The distance between those parts is the jump.
 14. (label) Label the drawing of an eye: cornea, lens, retina, fovea, blind spot and optic nerve.  
    **Answer:** The cornea is the clear window at the front, the lens is behind the pupil, the retina lines the back, the fovea is the tiny sharp spot in the middle of the retina, the blind spot is where the nerve leaves, and the optic nerve carries signals to the brain.. *Why:* Light passes through the cornea and lens and lands on the retina. The fovea sees fine detail. The blind spot has no light-catching cells.
 15. (mcq) A child cannot read the board from the back bench but reads a book easily. What may help?  
-   Options: An eye test, and perhaps glasses with a concave lens / Sitting closer to the Sun / Eating more carrots  
+   Options: Sitting closer to the Sun / Eating more carrots / An eye test, and perhaps glasses with a concave lens  
    **Answer:** An eye test, and perhaps glasses with a concave lens. *Why:* This is a sign of short sight. A concave lens spreads the light a little, and moves the focus back on to the retina.
 
 ## Videos
@@ -697,40 +697,40 @@ From that evening, Thamarai fielded wherever the ball was most likely to go high
 
 ## Quiz
 1. (mcq) What is the best evidence that light travels in straight lines?  
-   Options: The spot of light vanishes when one of three cards with holes is slid sideways / Light is very bright / Light travels fast  
+   Options: Light is very bright / Light travels fast / The spot of light vanishes when one of three cards with holes is slid sideways  
    **Answer:** The spot of light vanishes when one of three cards with holes is slid sideways. *Why:* The spot only reached the wall when the holes were on one straight line. Brightness and speed do not say anything about the path.
 2. (mcq) In a ray diagram, what do the arrows show?  
-   Options: The direction that the light travels / How hot the light is / Where the eye is looking  
+   Options: How hot the light is / The direction that the light travels / Where the eye is looking  
    **Answer:** The direction that the light travels. *Why:* A ray is a straight arrow that shows where a thin beam of light is going. In the diagram of a lamp, a mango and an eye, every arrow points the way the light travels.
 3. (mcq) A magnifying glass held between a window and a card makes a picture on the card. How does the picture look?  
-   Options: Small and upside down / Big and the right way up / Just a blur of light  
+   Options: Big and the right way up / Just a blur of light / Small and upside down  
    **Answer:** Small and upside down. *Why:* A lens makes an upside-down picture of a far window on a card, if the card is at the sharp place. It is small, because the window is far away.
 4. (mcq) You look from a book to a far tree. What does the lens in your eye do?  
    Options: It gets thinner / It gets thicker / It moves back  
    **Answer:** It gets thinner. *Why:* A thick lens bends light a lot, for near things. A thinner lens bends light less, for far things.
 5. (mcq) You swap eyes with a finger held up, and the finger jumps. Where does the finger give the biggest jump?  
-   Options: Close to your nose / At arm's length / Across the room  
+   Options: At arm's length / Across the room / Close to your nose  
    **Answer:** Close to your nose. *Why:* The nearer the finger, the bigger the jump. The brain uses this to tell how far away things are.
 6. (mcq) An owl hunts at night. Where are her eyes, and why?  
-   Options: At the front, so that two overlapping views give depth for a pounce / At the sides, so that she can see all round / On top of her head, so that she can see up  
+   Options: At the sides, so that she can see all round / At the front, so that two overlapping views give depth for a pounce / On top of her head, so that she can see up  
    **Answer:** At the front, so that two overlapping views give depth for a pounce. *Why:* A hunter needs depth to judge a leap. Front eyes overlap, and the difference between the views gives depth.
 7. (mcq) Which sentence best explains why touching the tips of two pencils together is harder with one eye?  
    Options: With one eye, the brain loses the difference between two views that tells it how far away the tips are / One eye is weaker than two / Pencils are hard to see  
    **Answer:** With one eye, the brain loses the difference between two views that tells it how far away the tips are. *Why:* Reasoning says why. It uses what we know about two views and depth. 'One eye is weaker' does not explain anything.
 8. (mcq) Which of these do scientists not agree on yet?  
-   Options: Exactly why the Moon looks bigger near the horizon / That light travels in straight lines in clear air / That two eyes give two different pictures  
+   Options: That light travels in straight lines in clear air / That two eyes give two different pictures / Exactly why the Moon looks bigger near the horizon  
    **Answer:** Exactly why the Moon looks bigger near the horizon. *Why:* The other two have been tested many times. The reason for the Moon illusion is still argued about.
 9. (mcq) A friend stands 8 metres away and looks half as tall as she looks at 4 metres. Why?  
-   Options: The rays from her head and feet make a smaller angle at your eye / She shrinks when she walks away / Light travels slower far away  
+   Options: She shrinks when she walks away / The rays from her head and feet make a smaller angle at your eye / Light travels slower far away  
    **Answer:** The rays from her head and feet make a smaller angle at your eye. *Why:* Twice as far means half the angle at the eye, so she looks half as tall. She did not shrink.
 10. (mcq) What best explains the blind spot?  
    Options: The optic nerve leaves the eye there, so there are no light-catching cells / The lens is thin there / The pupil blocks the light  
    **Answer:** The optic nerve leaves the eye there, so there are no light-catching cells. *Why:* The nerve fibres gather and leave the eye at one place, and there are no light-catching cells in that place.
 11. (mcq) Why can a person with one eye still judge distance quite well?  
-   Options: They use clues such as size, overlap and how things shift when the head moves / Their one eye is twice as strong / They cannot, but they guess well  
+   Options: Their one eye is twice as strong / They use clues such as size, overlap and how things shift when the head moves / They cannot, but they guess well  
    **Answer:** They use clues such as size, overlap and how things shift when the head moves. *Why:* There are many clues to distance in one view. Moving the head gives two views, one after the other, just as two eyes give two at once.
 12. (mcq) A sign must be read from twice as far away. How tall should its letters be?  
-   Options: About twice as tall / About half as tall / The same height  
+   Options: About half as tall / The same height / About twice as tall  
    **Answer:** About twice as tall. *Why:* Twice as far makes the angle half as big. Twice as tall makes it twice as big again, so the sign looks the same size.
 
 ## Applications
@@ -756,7 +756,7 @@ From that evening, Thamarai fielded wherever the ball was most likely to go high
 - A cow, a goat or a hen with eyes on the sides of their head, and a cat with eyes at the front.
 - An eye-testing chart at a school or an eye clinic, with letters getting smaller.
 - A grandparent holding the newspaper at arm's length to read it.
-- The full Moon rising huge over the sea at Marina Beach in Chennai.
+- The full Moon rising huge over the sea, or over rooftops.
 - A spectacles shop with a tray of different lenses, and an eye test with a row of lenses on a frame.
 - Your own face reflected in the dark pupil of a friend's eye, when you look closely.
 
@@ -816,6 +816,13 @@ Follow the Light (sci.light.L4): Topic-level song
 ## Things to buy
 - [A small pack of modelling clay](https://www.amazon.in/s?k=modelling+clay+for+kids) (material): To stand the cards upright for the Three Cards test. A small pack from a stationery shop is enough. Used in e1. 
 - [A magnifying glass with a handle](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): To make an upside-down picture of a window for the Lens test. The lens from an old pair of reading glasses also works. Used in e3. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in A Lens Makes a Window Picture: where is the sharp place?, Near Point: how close can you focus?, How Big Does It Look? A ruler at arm's length. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e3, a3, a4, c1. Get it before A Lens Makes a Window Picture: where is the sharp place?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Three Cards, Three Holes: can light go round a corner?, Near Pencil, Far Pencil: the finger jump and the depth test, A Lens Makes a Window Picture: where is the sharp place?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, e3, a3, a4, p1, c1. Get it before Three Cards, Three Holes: can light go round a corner?.
+- [A set of lenses (convex and concave)](https://www.amazon.in/s?k=convex+concave+lens+set) (tool): Used in A Lens Makes a Window Picture: where is the sharp place?. About ₹80 to ₹250. A magnifying glass is one convex lens. Used in e3. Get it before A Lens Makes a Window Picture: where is the sharp place?.
+- [Sticky notes](https://www.amazon.in/s?k=sticky+notes+pack) (material): Used in A Bird in a Cage: pictures that join in your eye. About ₹20 to ₹60. Small torn paper and tape do the same job. Used in p1. Get it before A Bird in a Cage: pictures that join in your eye.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Readable From the Far End: design the best sign. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before Readable From the Far End: design the best sign.
+- [Postcards or plain cards](https://www.amazon.in/s?k=blank+postcards) (material): Used in Three Cards, Three Holes: can light go round a corner?, A Lens Makes a Window Picture: where is the sharp place?. About ₹5 to ₹20. Cut card from a cereal box. Used in e1, e3. Get it before Three Cards, Three Holes: can light go round a corner?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Do your eyes send out rays to see? → No. Light comes into your eyes.
@@ -836,7 +843,7 @@ Follow the Light (sci.light.L4): Topic-level song
 
 ## Sources
 - Founder's notes in ideas/by_topic/light-seeing-and-shadows.md: make a pinhole camera or camera obscura to mimic the optics of the eye, watch the eyes adapt when the lights go off, a drama of a photon travelling to the eye, and a mime of an eye capturing an image
-- The Class 3 unit How we see, which this unit builds on: light comes into the eye, the parts of the eye, the pupil, rods and cones, the blind spot and the brain
+- The Class 3 unit How we see, which this lesson builds on: light comes into the eye, the parts of the eye, the pupil, rods and cones, the blind spot and the brain
 - Combined lesson sci-C4-light-seeing-and-shadows.json: rays and ray diagrams, light travels in straight lines, the pinhole picture, and sunlight being about 8 minutes old
 - Kepler, Ad Vitellionem Paralipomena, 1604 (the picture on the retina is upside down)
 - Scheiner, Oculus, 1619 (the picture on the retina of an animal's eye seen directly)

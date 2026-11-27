@@ -865,11 +865,11 @@
       "t": "mcq",
       "q": "Why does Nudge usually keep the counter closer to 10 than Bang does?",
       "options": [
-       "Its push matches the size of the gap",
        "It pushes harder every time",
+       "Its push matches the size of the gap",
        "It ignores small gaps"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Nudge makes a big move for a big gap and a small move for a small gap, so it rarely jumps past 10. Bang makes the same big move every time, so near 10 it overshoots. Choosing 'pushes harder' may mean thinking a stronger response is always better."
      }
     }
@@ -1056,11 +1056,11 @@
       "t": "mcq",
       "q": "With your eyes shut, the long stick fell quickly. Which job of the loop was missing?",
       "options": [
-       "Acting: moving the hand",
        "Sensing: news of the lean",
+       "Acting: moving the hand",
        "Nothing was missing"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Your arm could still move and your brain could still decide. But no news of the lean was coming in from your eyes, so the loop was open. Choosing 'acting' may mean thinking that balance is only about a quick hand."
      }
     }
@@ -1340,11 +1340,11 @@
       "t": "mcq",
       "q": "What does turning the iron's dial change?",
       "options": [
-       "The temperature at which the switch opens",
        "How strongly the heater heats",
+       "The temperature at which the switch opens",
        "How fast the strip cools"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The dial moves the switch contact, so the strip must bend further, at a higher temperature, before the switch opens. The heater's strength stays the same. Choosing 'how strongly' may mean thinking of the dial as a fan regulator."
      }
     }
@@ -1527,10 +1527,10 @@
       "q": "Which question tells you whether a machine is a closed loop?",
       "options": [
        "Does it use electricity?",
-       "Does it have a sensor?",
-       "Does news of its result change its action?"
+       "Does news of its result change its action?",
+       "Does it have a sensor?"
       ],
-      "a": 2,
+      "a": 1,
       "why": "A closed loop measures its own result and changes what it does. A sensor alone is not enough: a dusk street light has a sensor but never checks its own effect. Choosing 'has a sensor' is the most common mix-up."
      }
     }
@@ -1622,11 +1622,11 @@
       "t": "mcq",
       "q": "The 'left' and 'right' round gave a zigzag line. Which machine controls its level in the same way?",
       "options": [
-       "An iron with an on-off switch",
        "An inverter air conditioner",
+       "An iron with an on-off switch",
        "A fan regulator"
       ],
-      "a": 0,
+      "a": 1,
       "why": "An iron's heater is fully on or fully off, so its temperature zigzags round the set point, as the pencil did between the road's edges. An inverter air conditioner changes how hard it works, like the 'a little left' messages. A fan regulator has no feedback at all."
      }
     }
@@ -1855,11 +1855,11 @@
       "t": "mcq",
       "q": "A float with a mast tells your finger when the tumbler is full. Who is the effector in this loop?",
       "options": [
+       "Your pouring hand",
        "The float",
-       "The straw",
-       "Your pouring hand"
+       "The straw"
       ],
-      "a": 2,
+      "a": 0,
       "why": "The float is the sensor and the straw carries the news. Your hand is the part that acts, by tipping the jug or stopping. The device and you together make one closed loop."
      }
     }
@@ -1965,11 +1965,11 @@
      "t": "mcq",
      "p": "Which three jobs does every feedback loop need?",
      "opts": [
-      "Sensing, deciding and acting",
       "Heating, cooling and resting",
+      "Sensing, deciding and acting",
       "Starting, running and stopping"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A loop must detect the change, compare it with what is needed, and act. Take one away and the level drifts.",
      "outcome": 0
     },
@@ -2056,11 +2056,11 @@
      "t": "mcq",
      "p": "You pour water with your eyes shut and it overflows. What was missing?",
      "opts": [
-      "A stronger hand",
       "News of the water level",
+      "A stronger hand",
       "A bigger jug"
      ],
-     "a": 1,
+     "a": 0,
      "why": "With eyes shut, no news of the level came back, so the hand could not stop in time. The loop was open.",
      "outcome": 1,
      "how": "a1"
@@ -2079,10 +2079,10 @@
      "p": "With eyes shut, the long stick fell quickly. Which part of the loop had been removed?",
      "opts": [
       "The control centre",
-      "The effector",
-      "The main sensor"
+      "The main sensor",
+      "The effector"
      ],
-     "a": 2,
+     "a": 1,
      "why": "The eyes are the main sensor for the stick's lean. The brain and the arm were unchanged.",
      "outcome": 2,
      "how": "e1"
@@ -2139,11 +2139,11 @@
      "t": "mcq",
      "p": "What does the bimetallic strip in an iron do when it gets hot?",
      "opts": [
-      "It bends and opens a switch",
       "It melts",
+      "It bends and opens a switch",
       "It glows red"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The strip is two metals joined together. One grows more when heated, so the strip bends, and the bend pulls the switch open.",
      "outcome": 4,
      "how": "e3"
@@ -2184,10 +2184,10 @@
      "p": "In a loop, what does 'error' mean?",
      "opts": [
       "A mistake made by the sensor",
-      "The gap between level and set point",
-      "A broken effector"
+      "A broken effector",
+      "The gap between level and set point"
      ],
-     "a": 1,
+     "a": 2,
      "why": "The error is how far the level is from the set point, and on which side. It is a measurement, not a mistake.",
      "outcome": 0
     },
@@ -2205,10 +2205,10 @@
      "p": "An AC is set to 24 degrees. The room is at 30 degrees. What is the error?",
      "opts": [
       "24 degrees",
-      "54 degrees",
-      "6 degrees too warm"
+      "6 degrees too warm",
+      "54 degrees"
      ],
-     "a": 2,
+     "a": 1,
      "why": "The error is the gap between now and the set point. 30 − 24 = 6, and the room is on the warm side.",
      "outcome": 0
     },
@@ -2465,11 +2465,11 @@
      "t": "mcq",
      "p": "James Watt's governor had two spinning balls. What did the balls sense?",
      "opts": [
-      "The speed of the engine",
       "The heat of the steam",
-      "The weight of the load"
+      "The weight of the load",
+      "The speed of the engine"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The faster the engine turned, the further the balls swung out. Their height showed the speed, and a lever used it to move the steam valve.",
      "outcome": 4
     },
@@ -2507,10 +2507,10 @@
      "p": "A pencil with forks hanging below it stays up with your eyes shut. What kind of steadiness is this?",
      "opts": [
       "Steady by a fast feedback loop",
-      "Steady by its shape, with no loop",
-      "Steady by luck"
+      "Steady by luck",
+      "Steady by its shape, with no loop"
      ],
-     "a": 1,
+     "a": 2,
      "why": "With the weight below the support, a lean swings back by itself. No sensing or correcting is needed.",
      "outcome": 2,
      "how": "c2"
@@ -2578,10 +2578,10 @@
      "p": "Warm weather wears rock away faster, which removes carbon dioxide and cools the Earth. What is this?",
      "opts": [
       "Positive feedback",
-      "An open loop",
-      "Negative feedback"
+      "Negative feedback",
+      "An open loop"
      ],
-     "a": 2,
+     "a": 1,
      "why": "The response acts against the warming, so it is negative feedback. It works over hundreds of thousands of years.",
      "outcome": 6
     }
@@ -2593,11 +2593,11 @@
    "t": "mcq",
    "p": "Which part of a feedback loop compares the level with what is needed?",
    "opts": [
-    "The control centre",
     "The sensor",
-    "The effector"
+    "The effector",
+    "The control centre"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The control centre receives the sensor's report, compares it with the level that is needed and sends an order. Choosing 'sensor' mixes up detecting with deciding.",
    "outcome": 0
   },
@@ -2605,11 +2605,11 @@
    "t": "mcq",
    "p": "Sweat glands carry out an order from the brain. Which job in the loop is that?",
    "opts": [
-    "Sensor",
     "Effector",
+    "Sensor",
     "Control centre"
    ],
-   "a": 1,
+   "a": 0,
    "why": "An effector acts and so changes the level. Sweat glands, muscles and the heart are effectors.",
    "outcome": 0
   },
@@ -2629,11 +2629,11 @@
    "t": "mcq",
    "p": "Which of these is an open loop?",
    "opts": [
-    "A mixer-grinder",
     "A fridge",
-    "A flush tank"
+    "A flush tank",
+    "A mixer-grinder"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A mixer-grinder runs while the switch is held, whatever is in the jar. A fridge and a flush tank both check their own result.",
    "outcome": 1
   },
@@ -2679,11 +2679,11 @@
    "t": "mcq",
    "p": "In a flush tank, which part is the sensor?",
    "opts": [
-    "The inlet tap",
     "The float",
+    "The inlet tap",
     "The flush handle"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The float rides on the water, so its height shows the water level. The tap is the effector. The handle only starts the flush.",
    "outcome": 4
   },
@@ -2691,11 +2691,11 @@
    "t": "mcq",
    "p": "An iron's light goes on and off. What kind of control is this?",
    "opts": [
+    "On-off control",
     "How-much control",
-    "No control",
-    "On-off control"
+    "No control"
    ],
-   "a": 2,
+   "a": 0,
    "why": "The heater is either fully on or fully off, and a switch moved by a bimetallic strip decides which.",
    "outcome": 5,
    "how": "e3"
@@ -2704,11 +2704,11 @@
    "t": "mcq",
    "p": "Which of these senses glucose and releases insulin with no order from the brain?",
    "opts": [
-    "A beta cell in the pancreas",
     "A sweat gland",
-    "A baroreceptor"
+    "A baroreceptor",
+    "A beta cell in the pancreas"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A beta cell is a sensor and a control in one cell. It shows that not every loop passes through the brain.",
    "outcome": 6
   },
@@ -2717,10 +2717,10 @@
    "p": "You timed a stick 5 times. Why find the mean and not use the best try?",
    "opts": [
     "The mean is always bigger",
-    "One try can be lucky or unlucky",
-    "It is quicker"
+    "It is quicker",
+    "One try can be lucky or unlucky"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A single try can be unusually good or bad. The mean of several tries is a fairer picture of what usually happens.",
    "outcome": 7,
    "how": "e1"
@@ -3050,6 +3050,58 @@
     "a2"
    ],
    "plan": "After Open or Closed?, look up one of your closed-loop machines in the book and find its sensor in the drawing."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Stick Test: which stick is easiest to balance, and what does balancing need?, Pour to the Line: eyes open, eyes shut, finger in, The Bowl That Refills Itself: a three-day water loop. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "a1",
+    "p1",
+    "c1",
+    "c2"
+   ],
+   "plan": "Get it before The Stick Test: which stick is easiest to balance, and what does balancing need?."
+  },
+  {
+   "id": "b-sticky-notes",
+   "item": "Sticky notes",
+   "kind": "material",
+   "why": "Used in Open or Closed? A loop hunt round the home. About ₹20 to ₹60. Small torn paper and tape do the same job.",
+   "url": "https://www.amazon.in/s?k=sticky+notes+pack",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Get it before Open or Closed? A loop hunt round the home."
+  },
+  {
+   "id": "b-iron-nails-or-iron-filings",
+   "item": "Iron nails or iron filings",
+   "kind": "material",
+   "why": "Used in The Bowl That Refills Itself: a three-day water loop. About ₹20 to ₹80. Short steel nails from a hardware shop.",
+   "url": "https://www.amazon.in/s?k=iron+filings+science",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before The Bowl That Refills Itself: a three-day water loop."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

@@ -1,9 +1,9 @@
 # Other points of view: what someone else sees, knows and needs
 `sci.me-and-others.me-and-others.L3`
 
-**Summary.** Two people can look at the same thing from different seats and see something different. In this unit you will draw what another person sees and check it, play Martin Hughes's hiding game, and guess what someone else will think is inside a box.
+**Summary.** Two people can look at the same thing from different seats and see something different. In this lesson you will draw what another person sees and check it, play Martin Hughes's hiding game, and guess what someone else will think is inside a box.
 
-**Intro.** *Sit at the dining table and put a steel tumbler in the middle. Hide a lime behind it, so you cannot see the lime. Can the person sitting opposite you see it? How do you know, without getting up?* Everyone looks at the world from their own place. A tumbler that hides a lime from you may not hide it from someone else. People also know different things, so they can think different things about the same box or the same quarrel. In this unit you test how well you can picture another person's view. You find hidden differences inside your own family. You learn what scientists found about how children come to understand other minds, and why friends who see things differently can still do things well together.
+**Intro.** *Sit at the dining table and put a steel tumbler in the middle. Hide a lime behind it, so you cannot see the lime. Can the person sitting opposite you see it? How do you know, without getting up?* Everyone looks at the world from their own place. A tumbler that hides a lime from you may not hide it from someone else. People also know different things, so they can think different things about the same box or the same quarrel. In this lesson you test how well you can picture another person's view. You find hidden differences inside your own family. You learn what scientists found about how children come to understand other minds, and why friends who see things differently can still do things well together.
 
 ## Learning outcomes
 0. I can draw what another person sees from a different seat, and check my drawing against a photo from that seat.
@@ -23,6 +23,8 @@
 - **Dominant eye**: The eye your brain uses first when you line up or aim at something. Most people have one. *e.g.* When you look through a keyhole, you put one eye to it without thinking. That is often your dominant eye.
 - **Colour blindness**: Seeing some colours differently from most people, because some of the light-sensing cells in the eye work differently. *e.g.* Many people with red-green colour blindness find it hard to tell a red chilli from a green one by colour alone.
 - **Left-handed**: Using the left hand more, and with more skill, for jobs like writing and throwing. *e.g.* About 1 person in 10 writes with their left hand.
+- **Variation**: Variation means the differences between members of the same kind of living thing. Children in one class are of different heights and have different hair and eyes. *e.g.* In a class of Class 3 children, no two have exactly the same height, and that spread of heights is variation.
+- **Survey**: A survey is asking many people the same questions and writing down their answers. It helps you find out what most people think or do. *e.g.* You ask ten neighbours which fruit they like best, and write each answer in a table. That is a survey.
 
 ## Explanations
 ### What a point of view is · *defined*
@@ -53,6 +55,8 @@ About 1 person in 10 is left-handed. Most people have one eye that the brain use
 - e.g. A left-handed child bumps elbows with a right-handed child if they sit on the wrong sides at a table.
 - e.g. A cricket player may hold the bat one way and write with the other hand.
 - e.g. A colour-blind child may find a map that uses only red and green hard to read.
+- e.g. Eye colour is a feature you are born with and it stays. Hair length changes with every haircut. Height is both, because the family you were born into sets a range and food and sleep change where you end up.
+- **Nina Jablonski and George Chaplin, USA, scientists who study human evolution:** In 2000 Jablonski and Chaplin compared skin colour with the amount of UV sunlight in each part of the world. Skin is darker where UV is strongest, near the equator, and lighter where it is weak. Their explanation is that melanin, the colouring in skin, protects the body from strong UV, but skin also needs some UV to make vitamin D, which keeps bones strong, so where sunlight is weak, lighter skin helps. Most scientists accept that sunlight shaped skin colour.
 ### What friends do · *idea*
 Scientists who study children have no single agreed definition of a friend. But they find that friends choose to spend time together, share, help each other and trust each other. Young children often call someone a friend because they play together. Older children add that a friend understands you and keeps your secrets. Friends quarrel too. Studies find that friends are more likely than other children to talk a quarrel through and stay together after it. Understanding your friend's point of view helps you do that.
 - e.g. Two friends at the park take turns on the swing without being told.
@@ -180,13 +184,69 @@ At breakfast Meenu saved one idli on a small steel plate by the window. Paati ra
 
 "Ah," said Paati, as if that made perfect sense. "Then put the plate on the floor, kanna. He might not reach the ledge."
 
-**For the parent:** For the parent: Meenu and Kombu were each frightened by what they saw from their own place. From the cot, the street light behind Kombu threw a big horn shadow on the wall. From the floor, a girl looks huge and her voice is loud. Neither could see the other's view until Meenu lay down where Kombu lived. Then she asked him what he needed, because some things you cannot see even from another place: you have to be told.
 
-- Ask: Why did Kombu's shadow look so much bigger than Kombu?
-- Ask: What did Meenu see when she lay on the floor that she could not see from her cot?
-- Ask: Why was Kombu scared of Meenu?
-- Ask: Meenu said, "You have to tell me what you need." Why couldn't she just look and see?
-- Ask: Paati told Meenu to put the plate on the floor. Whose point of view was Paati thinking from?
+## Another story: Which Crow Is Which?
+**
+
+I am a crow. I live on the water tank on top of Building C, in a housing society in Hyderabad. From up there I can see eleven balconies, two neem trees and the corner where the bread man stops his cycle.
+
+Humans think all crows look the same. We do not think all humans look the same. I know the old man in 3B, who throws chapati crusts at seven every morning. I know the woman in 5A, who waves a broom when I sit on her railing. I know them by their faces, the way they walk and the sound of their slippers. A crow who cannot tell faces apart does not eat for long. A crow who forgets a cruel face does not live for long.
+
+That summer a new family came to 2C. They had a boy called Stanzin, with a round face and straight black hair cut short. He sat on the steps by the wall and watched the other children play cricket in the parking lot.
+
+On the third day, a boy called Karthik walked over, swinging his bat. "Are you from Nepal?" he asked.
+
+"From Leh," said Stanzin. "In Ladakh. It's in India."
+
+"Oh," said Karthik. He went back to the game. Nobody asked Stanzin to play.
+
+So Stanzin watched us instead.
+
+He came every evening with a notebook. At first I did not like it. A crow who is watched closely becomes careful. But he never threw anything and never shouted. On the fourth evening he put a steel katori of water on the wall. On the fifth, a few grains of cooked rice beside it. He sat very still while we drank.
+
+He drew us. I saw his pages when the wind turned them. There was a crow with a grey patch on her left wing. That was me. There was a crow with one toe bent sideways, from a kite string long ago. That was my mate. There was a young one who still opened his beak and begged, though he was big enough to find his own food. That was our son. Under each drawing Stanzin wrote a name. He called me Grey-wing.
+
+By the end of the month he had seven drawings and seven names. That was every crow who lived on Building C.
+
+One evening the cricket ball rolled to the steps. A girl called Diya came to fetch it. She saw the notebook.
+
+"What are you drawing?"
+
+"The crows," said Stanzin. "There are seven who live here."
+
+Karthik laughed from the pitch. "Seven? It's the same two crows every day. All crows look the same!"
+
+Stanzin did not argue. He opened the notebook and waited.
+
+My mate landed on the wall. Stanzin pointed at the drawing with the bent toe, then at my mate's foot. Diya bent down and looked. The toe was bent sideways, just like the drawing.
+
+Then I came down. Stanzin turned the page to Grey-wing. Diya looked at my wing, and at the page, and at my wing again.
+
+"How can you tell?" she asked.
+
+"I looked at them every day," said Stanzin. "At first they all looked the same to me too."
+
+Diya did not say anything for a while. She looked at the crows. Then she looked at Stanzin, as if she was seeing him properly for the first time. Then she looked at her shoes.
+
+"Can I try?" she said at last.
+
+The next evening she came back with her own notebook. The evening after, Karthik came too, though he pretended he was only there to sit down. Stanzin showed them how to look: at the shape of the beak, the patches on the wings, the way each of us walks. Karthik was bad at it. Diya was good at it. Stanzin was best.
+
+"That one," Karthik said one evening, pointing at my son. "Bent-toe."
+
+"No," said Diya. "Look at his feet."
+
+Karthik looked for a long time. "Oh," he said. "He's the one who begs." And then, after a moment, "Stanzin, are you batting tomorrow? We need one more."
+
+The next morning, before the old man in 3B and before the bread man, I flew down to the wall by the steps. Three faces were waiting there, with a katori of water. I knew all three.
+
+**For the parent:** For the parent: the story turns when Diya sees that the crows only looked the same because nobody had looked closely, and then she looks at Stanzin 'properly for the first time'. The children had treated him as 'different' without knowing him. The idea is that we tell apart best the faces we see often, and that crows can tell human faces apart. Let your child find the link to Stanzin themselves.
+
+- Ask: How did the crow know the people in the building?
+- Ask: How did Stanzin learn to tell the crows apart?
+- Ask: Why did Karthik think there were only two crows?
+- Ask: Why do you think Diya looked at her shoes?
+- Ask: What changed for Stanzin by the end? What made it change?
 
 ## Games
 ### g1 · Guess Who I Am: answer as someone else (20 min)
@@ -452,7 +512,7 @@ At breakfast Meenu saved one idli on a small steel plate by the window. Paati ra
    Options: A guest thinks no party is planned, but one is. / A watcher thinks the coin is in the left hand, but the magician moved it. / A grandmother knows the box holds pencils, because she filled it herself. / Maxi thinks his chocolate is in the cupboard, after his mother moved it.  
    **Answer:** 2. *Why:* A false belief is a wrong belief held by someone who missed what changed. The grandmother filled the box herself, so her belief is true. The other three people all missed a change.
 8. (mcq) Two books stand in a cross on the table, making four corners. A toy watchman stands at the end of one book. How many corners can the watchman see?  
-   Options: One / Two / All four  
+   Options: One / All four / Two  
    **Answer:** Two. *Why:* From the end of one book, the watchman can look along both sides of it, into two corners. The other book hides the other two corners.
 9. (order) Put these steps of the Biscuit Box Surprise in order.  
    **Answer:** ['Show your child the closed box and ask what is inside', 'Open the box and show the pencils', 'Guess what the person who has not looked will say', 'Ask a person who has not looked what is inside']. *Why:* You need to guess before you ask, or the guess is not a real prediction.
@@ -465,7 +525,7 @@ At breakfast Meenu saved one idli on a small steel plate by the window. Paati ra
 13. (write) A child lies in bed and sees big shadows on the wall. A small creature on the floor sees a huge child and hears a voice like thunder. Each is scared of the other. Explain why, using what each can see from their own place.  
    **Answer:** From the bed, the child sees only scary shadows, not what makes them. From the floor, the small creature sees a giant and hears a loud voice. Each one is scared by how the other looks from where they are.. *Why:* A strong answer links each fear to what each one could see or hear from their own place.
 14. (mcq) A psychologist gave each child in a group one part of a lesson, so they needed each other. What did his studies find?  
-   Options: The children fought more / The children came to like each other more / Nothing changed  
+   Options: The children fought more / Nothing changed / The children came to like each other more  
    **Answer:** The children came to like each other more. *Why:* Elliot Aronson's jigsaw classroom studies found children in these groups came to like each other more. Scientists still argue about when working together helps most.
 15. (truefalse) A child with red-green colour blindness cannot read a map because the child is not clever enough.  
    **Answer:** False. *Why:* False. Colour blindness comes from light-sensing cells in the eye that work differently. It has nothing to do with being clever. A map that also uses shapes and labels is easy for everyone to read.
@@ -480,12 +540,12 @@ At breakfast Meenu saved one idli on a small steel plate by the window. Paati ra
 4. (sort) Sort these. Is the person's belief true or false?  
    **Answer:** A grandmother thinks the biscuit box holds biscuits, but it holds pencils → False belief; A boy thinks his chappals are by the door, and they are → True belief; Maxi thinks his chocolate is in the cupboard, after his mother moved it → False belief; A girl thinks it is raining, and she can hear it on the roof → True belief. *Why:* A belief is false when the world changed or was different, and the person did not see or hear it.
 5. (mcq) A three-year-old sees the biscuit box opened to show pencils. Many three-year-olds then say something surprising. What?  
-   Options: That they knew it held pencils all along / That it holds biscuits / That it is empty  
+   Options: That it holds biscuits / That they knew it held pencils all along / That it is empty  
    **Answer:** That they knew it held pencils all along. *Why:* Many children of three say they thought 'pencils' from the start, and that the next person will say 'pencils' too. They find it hard to hold what they used to believe apart from what they now know.
 6. (write) Why did scientists need a story with a false belief, like Maxi and the chocolate, to test theory of mind? Why not just ask where the chocolate is?  
    **Answer:** If Maxi's belief were true, a child could answer by saying where the chocolate really is. Only a false belief shows whether the child understands what Maxi thinks.. *Why:* A strong answer says the right answer must be different from the truth, so we can tell whether the child is thinking about Maxi's mind or about the real world.
 7. (mcq) In the Dominant Eye Test, a grandmother's eye changed from try to try. What is the best thing to write?  
-   Options: Right, because most people are right-eyed / Not clear, and test again another day / Left, because her first try was left  
+   Options: Right, because most people are right-eyed / Left, because her first try was left / Not clear, and test again another day  
    **Answer:** Not clear, and test again another day. *Why:* Some people do not have a clear dominant eye. A scientist writes what they really found, not what is usual.
 8. (count) A family of 6 did the Dominant Eye Test. 4 were right-eyed and 2 were left-eyed. 5 wrote with their right hand. At least how many people must have had a dominant eye on a different side from their writing hand?  
    **Answer:** 1. *Why:* 5 are right-handed, but only 4 are right-eyed. So at least 1 right-handed person must be left-eyed.
@@ -494,7 +554,7 @@ At breakfast Meenu saved one idli on a small steel plate by the window. Paati ra
 10. (draw) Draw your room the way an ant on the floor would see the room. Then write one thing the ant can see that you never notice.  
    **Answer:** A drawing from very low down: huge table legs, chappals, the underside of the bed. One noticed thing, such as dust or a crumb under the cupboard.. *Why:* A strong answer draws from the floor and notices what a small being on the floor needs or meets.
 11. (mcq) Scientists put out two pieces of food for two chimpanzees. A screen hid one piece from the high-ranking chimp. Which piece did the low-ranking chimp mostly take?  
-   Options: The piece the high-ranking chimp could see / The piece hidden from the high-ranking chimp / Neither piece  
+   Options: The piece the high-ranking chimp could see / Neither piece / The piece hidden from the high-ranking chimp  
    **Answer:** The piece hidden from the high-ranking chimp. *Why:* The low-ranking chimp mostly took the hidden piece. Many scientists think this shows the chimp knew what the other could see. Others think a simple rule could explain it.
 12. (perspective) Two scientists disagree about the chimpanzee food test.  
    **Answer:** A strong answer picks one side with a reason, and suggests a test where the two ideas predict different things, for example a see-through screen, where the rule says go but the other chimp can see.. *Why:* Good science designs a test where two ideas give different answers.
@@ -503,7 +563,7 @@ At breakfast Meenu saved one idli on a small steel plate by the window. Paati ra
 14. (label) On the drawing of a cross of two books seen from above, label each corner with the watchmen who can see it: A, B, both or neither.  
    **Answer:** The two corners each watchman looks into are labelled with that watchman; the corner both see is labelled both; the one corner neither sees is labelled neither.. *Why:* From the end of a wall, a watchman sees the two corners beside it. With two watchmen at the ends of two walls next to each other, one corner is seen by both, and one by neither.
 15. (mcq) In the story 'The Monster Under Meenu's Cot', Meenu lay on the floor and her chappals looked as big as boats. What does this show?  
-   Options: The chappals really grew / How big something looks depends on where you look from / Meenu was dreaming  
+   Options: The chappals really grew / Meenu was dreaming / How big something looks depends on where you look from  
    **Answer:** How big something looks depends on where you look from. *Why:* The chappals did not change. From the floor you are small and close to them, so they look huge. If you chose 'dreaming', remember that Kombu saw the same from the floor.
 ### Many Sides, One World (challenge) (challenge, 15 questions)
 1. (write) Jean Piaget and Bärbel Inhelder's three mountains task asked children to choose a picture of what a doll saw. Why might this be harder than hiding a toy from a watchman, even if a child can picture the doll's view?  
@@ -516,7 +576,7 @@ At breakfast Meenu saved one idli on a small steel plate by the window. Paati ra
    Options: Writing hand / Dominant eye / Height / Colour vision  
    **Answer:** 2. *Why:* You can see someone's height just by looking. Their writing hand, dominant eye and colour vision you find out only by watching or testing them.
 5. (mcq) In many countries about 1 boy in 12 has red-green colour blindness, but only about 1 girl in 200. In a school of 600 boys and 600 girls, about how many would you expect to be colour blind?  
-   Options: About 53 / About 6 / About 600  
+   Options: About 6 / About 53 / About 600  
    **Answer:** About 53. *Why:* 600 divided by 12 is 50 boys. 600 divided by 200 is 3 girls. 50 + 3 = 53. The real number in any one school may be different.
 6. (truefalse) If two people look at the same chilli, they always receive the same picture of it.  
    **Answer:** False. *Why:* False. A person with colour blindness may see the colours differently, and someone in a different place sees a different side.
@@ -547,10 +607,10 @@ At breakfast Meenu saved one idli on a small steel plate by the window. Paati ra
 
 ## Quiz
 1. (mcq) You sit on one side of a table. A tall tumbler hides a lime from you. Can a person sitting on the other side see the lime?  
-   Options: Yes, if nothing is between them and the lime / No, because you can't see it / Only if you point at it  
+   Options: No, because you can't see it / Only if you point at it / Yes, if nothing is between them and the lime  
    **Answer:** Yes, if nothing is between them and the lime. *Why:* What one person can see depends on where they sit. The tumbler blocks your view, not the view of the person on the other side. Picking 'No, because you can't see it' means thinking everyone sees what you see.
 2. (mcq) You face someone across a table. The banana is on your left. Where is it for the person facing you?  
-   Options: On their left / On their right / In front of them  
+   Options: On their left / In front of them / On their right  
    **Answer:** On their right. *Why:* When two people face each other, left and right swap. If you chose 'on their left', stand face to face with someone and both point to one thing.
 3. (mcq) A girl puts her ball in the cupboard and goes out. Her brother moves the ball under the bed. Where will the girl look first when she comes back?  
    Options: Under the bed / In the cupboard / She won't look  
@@ -559,28 +619,28 @@ At breakfast Meenu saved one idli on a small steel plate by the window. Paati ra
    Options: One of them is not clever / They have seen or been told different things / Boxes look different to everyone  
    **Answer:** They have seen or been told different things. *Why:* A belief comes from what a person has seen and heard. If one person saw inside and one did not, they can believe different things. Being clever has nothing to do with it.
 5. (mcq) In the Dominant Eye Test, what does 'dominant eye' mean?  
-   Options: The stronger eye, which sees more clearly / The eye your brain uses first to aim and line things up / The eye on the same side as your writing hand  
+   Options: The eye your brain uses first to aim and line things up / The stronger eye, which sees more clearly / The eye on the same side as your writing hand  
    **Answer:** The eye your brain uses first to aim and line things up. *Why:* The dominant eye is the one the brain uses first for aiming. It is not always the clearer eye, and it is not always on the side of the writing hand.
 6. (mcq) About how many people in 10 write with their left hand?  
-   Options: About 1 / About 5 / About 9  
+   Options: About 5 / About 1 / About 9  
    **Answer:** About 1. *Why:* About 1 person in 10 is left-handed. So in a class of 30 you might find about 3 left-handed children.
 7. (mcq) A child has red-green colour blindness. Which game piece would be easiest for this child to tell apart from a green piece?  
    Options: A red piece / A red piece with a star drawn on it / A light green piece  
    **Answer:** A red piece with a star drawn on it. *Why:* Red and green can look alike to this child, but a star is a shape they can see clearly. Good designs use shape or pattern as well as colour.
 8. (mcq) A test asks small children to pick a photo of what a doll sees across a model of three mountains. Many get it wrong. What is the best conclusion?  
-   Options: The children cannot ever picture what another person sees / The test may be strange and hard, so it may not show what they can really do / Children see more than grown-ups  
+   Options: The test may be strange and hard, so it may not show what they can really do / The children cannot ever picture what another person sees / Children see more than grown-ups  
    **Answer:** The test may be strange and hard, so it may not show what they can really do. *Why:* A strange task can hide what a child understands. When children play a hiding game that makes sense to them, most three- and four-year-olds can picture what someone else sees.
 9. (mcq) A four-year-old plays a game: hide a toy boy behind toy walls so that two toy watchmen cannot see him. If the child can picture what each watchman sees, what will they do?  
-   Options: Hide the boy where the watchmen can see him / Hide the boy where neither watchman can see him / Refuse to play  
+   Options: Hide the boy where the watchmen can see him / Refuse to play / Hide the boy where neither watchman can see him  
    **Answer:** Hide the boy where neither watchman can see him. *Why:* To hide well, you must picture what each watchman can see from where he stands. In real tests, about 9 children in 10 of this age did it, because the game made sense to them.
 10. (mcq) A child retells the Panchatantra story of the monkey and the crocodile as the crocodile would tell it. What changes?  
-   Options: The events of the story / What the teller saw, knew and wanted / The ending  
+   Options: What the teller saw, knew and wanted / The events of the story / The ending  
    **Answer:** What the teller saw, knew and wanted. *Why:* The same things happen, but each teller notices and explains them from their own place. If you chose 'the ending', remember the monkey still escapes.
 11. (mcq) Three children of different ages share one swing. What makes a turns plan fair?  
-   Options: The oldest always decides / Each child can see why it is fair from their own point of view / Whoever runs fastest goes first  
+   Options: Each child can see why it is fair from their own point of view / The oldest always decides / Whoever runs fastest goes first  
    **Answer:** Each child can see why it is fair from their own point of view. *Why:* A plan is fair when each person can see why it is fair from where they stand. 'The oldest decides' works for the oldest only.
 12. (mcq) A family makes a drink, but each person holds a card with only one step of the recipe. Why does everyone have to take part?  
-   Options: Each card holds a different part of the recipe / The cards are all the same / Only the grown-up's card matters  
+   Options: The cards are all the same / Only the grown-up's card matters / Each card holds a different part of the recipe  
    **Answer:** Each card holds a different part of the recipe. *Why:* Each person holds one part, so the drink can only be made together. This is the idea of the jigsaw classroom: when everyone's part is needed, everyone matters.
 
 ## Applications
@@ -633,6 +693,10 @@ From Where You Stand (sci.me-and-others.L3): Topic-level song for Me and others 
 - [DakshinaChitra Heritage Museum](https://www.dakshinachitra.net) · place · Chennai: A museum of real old homes from different South Indian states, side by side. Walk through and see how families in each place lived, cooked and built.
 
 ## Things to buy
+- [Wonder by R. J. Palacio](https://www.amazon.in/s?k=Wonder) (book): A boy with a different face starts school. It suits a child who can read longer chapters and wants to talk about how others feel. Used in a1. Read a few chapters aloud over the lesson and talk about seeing from each person's side.
+- [Gifts of the Crow by John Marzluff and Tony Angell](https://www.amazon.in/s?k=Gifts+of+the+Crow+John+Marzluff+and+Tony+Angell) (book): The crow scientist from voice v4 tells what crows know, including how they remember faces. Used in a1. A book for the parent to read from, a few pages at a time, aloud. Children who want to read it themselves are welcome to. (adult; read parts aloud)
+- [Postcards or plain cards](https://www.amazon.in/s?k=blank+postcards) (material): Used in The Dominant Eye Test: does everyone at home look with the same eye first?. About ₹5 to ₹20. Cut card from a cereal box. Used in e2. Get it before The Dominant Eye Test: does everyone at home look with the same eye first?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - You face someone. Your right hand is on which side for them? → Their left side.

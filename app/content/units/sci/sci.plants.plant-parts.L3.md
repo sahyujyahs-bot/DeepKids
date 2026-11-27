@@ -1,9 +1,9 @@
 # Plant parts: how each part's shape suits its job
 `sci.plants.plant-parts.L3`
 
-**Summary.** A potato grows under the ground, so is it a root? In this unit you will play detective with vegetables to tell roots from stems, wake a stored food part with no soil, and test where plants keep their starch.
+**Summary.** A potato grows under the ground, so is it a root? In this lesson you will play detective with vegetables to tell roots from stems, wake a stored food part with no soil, and test where plants keep their starch.
 
-**Intro.** *Look at a carrot and a potato. Both grow under the ground. Both are fat and full of food. But only one of them is a root. Which one? And how could you ever tell?* A carrot and a potato look alike, but they are different parts of a plant. The carrot is a root. The potato is a stem that grows under the ground. Its 'eyes' show this, because only stems have buds like that. In this unit you will learn to tell each part by its clues, not by where it grows. You will also find out why each part of a plant has the shape it has.
+**Intro.** *Look at a carrot and a potato. Both grow under the ground. Both are fat and full of food. But only one of them is a root. Which one? And how could you ever tell?* A carrot and a potato look alike, but they are different parts of a plant. The carrot is a root. The potato is a stem that grows under the ground. Its 'eyes' show this, because only stems have buds like that. In this lesson you will learn to tell each part by its clues, not by where it grows. You will also find out why each part of a plant has the shape it has.
 
 ## Learning outcomes
 0. I can name the parts of a plant and say the main job of each one.
@@ -43,6 +43,7 @@
 - **Spine**: A hard, sharp point on a plant. A cactus's spines are leaves that have changed shape. *e.g.* Touch a cactus gently and you feel its spines.
 - **Cell**: The tiny building block that every living thing is made of. A leaf is built from millions of cells. *e.g.* Onion skin under a microscope looks like a wall of tiny bricks. Each brick is a cell.
 - **Botanist**: A scientist who studies plants. *e.g.* Janaki Ammal was an Indian botanist who studied sugarcane.
+- **Nectar**: The sweet juice that a flower makes. Bees, butterflies and birds drink it. *e.g.* A bee drinks nectar from a mustard flower and carries pollen to the next flower.
 
 ## Explanations
 ### Every part has a job, and the parts need each other · *defined*
@@ -114,6 +115,7 @@ A leaf works like a solar panel. A wide, flat shape catches lots of light. A thi
 - e.g. Shade plants, like the money plant on a dim landing, often have big, thin leaves.
 - e.g. In a field of grown sunflowers, almost every flower head faces east, towards the morning Sun.
 - e.g. Look down on a tulsi plant. Each pair of leaves sits at right angles to the pair below.
+- e.g. Leaves differ in colour, shape and feel. A curry leaf is shiny and smooth, a mint leaf is crinkly, and a hibiscus leaf is a little rough. Crush a tulsi or mint leaf and sniff. Tiny drops of oil inside the leaf make the smell. Many plants make such oils partly to keep hungry insects away.
 ### Leaves in hard places · *defined*
 **Definition:** Where light, water or food is hard to get, leaves change shape. Some become spines, some float, some store water and some even catch insects.
 
@@ -141,6 +143,13 @@ This sounds like a silly question, but it is a real puzzle. A black leaf would s
 - e.g. Sunlight is strongest in the blue-green and green part of the rainbow.
 - **Nathaniel Gabor and colleagues, 2020:** Leaves let some green light go to keep their energy supply steady when the light keeps changing.
 - **Other scientists:** Leaves are green because their ancient ancestors in the sea were built that way, and changing would be too hard. Both ideas may be partly true.
+### Plant parts feed and house other living beings · *defined*
+**Definition:** Plants are not only for themselves. Animals, birds and insects eat plant parts, drink from them and make homes in them.
+
+In Rajasthan, camels chew the leaves of the khejri tree, even though it has thorns. A bee lands on a mustard flower and drinks nectar, a sweet juice the flower makes. While she drinks, pollen sticks to her body. She carries it to the next flower, and that helps the flowers make seeds. So the bee gets food, and the plant gets help. A spotted owlet, a small owl, sleeps through the day in a hollow in an old tree trunk. She raises her chicks there, safe from the rain. A leaf, a flower and a trunk each do their own job for the plant. They also do a job for the many living beings who share the plant's neighbourhood.
+- e.g. Goats and cows eat grass leaves, and so do many wild deer.
+- e.g. A mustard field in flower hums with bees, and the bees' honey tastes of mustard.
+- e.g. A parrot or a squirrel sitting in a guava tree is eating the fruit that holds the plant's seeds.
 ### How plants grew their parts: a story 470 million years long · *defined*
 **Definition:** The first plants on land had no roots and no leaves. Over many millions of years, plants grew roots, then woody stems, then wide leaves, and much later flowers.
 
@@ -501,16 +510,16 @@ When her father came home for Baisakhi, she showed him both. She did not explain
   *Child mode:* Sort them onto three papers: ROOT, STEM, LEAF. Say your clue for each one.
   - Think: Why would a plant keep their food under the ground, instead of up in the air?
 ### a2 · Leaf Detective Album (30 min)
-- **safety:** Go outdoors only with a grown-up. Do not touch plants with milky sap or itchy hairs, and wash hands afterwards.
+- **safety:** Go outdoors only with a grown-up. Do not touch plants with milky sap or itchy hairs, and wash hands afterwards. Sniff only leaves that a grown-up knows are safe, like tulsi, mint and curry leaf.
 - **record:** Make one album page for each leaf: the leaf taped down, three describing words, its veins (N or S), where it grew, and a pet name.
 - **s1 (12 min) · grown-up needed**  
   *Parent does:* 1. Collect 10 leaves that are as different as possible. 2. Look on a walk or in a park. Or use balcony pots and the kitchen: curry leaf, mint, cabbage. 3. Put them in a cloth bag. 4. For each one, note where it grew: in sun or shade.  
   *Parent says:* Let's find the most different leaves we can. Big and small, round and pointy, shiny and hairy. Remember where each one grew.  
   *Child mode:* Find 10 leaves that are all different. Try outside with a grown-up, or the kitchen. Remember where each grew.
 - **s2 (10 min)**  
-  *Parent does:* 1. Tape each leaf onto a page. 2. Fold a spare leaf in half along its middle vein. Are the two halves the same? 3. Write three describing words for each leaf, like pointy, waxy, hairy or heart-shaped. 4. Look at its veins. Tell your child to write N next to net-like veins, or S next to veins that run side by side.  
+  *Parent does:* 1. Tape each leaf onto a page. 2. Fold a spare leaf in half along its middle vein. Are the two halves the same? 3. Write three describing words for each leaf, like pointy, waxy, hairy or heart-shaped. 4. Look at its veins. Tell your child to write N next to net-like veins, or S next to veins that run side by side. 5. Crush a corner of a tulsi, mint or curry leaf and sniff it. Write a smell word, like sharp, sweet or none. 6. Lay a leaf with the veins facing up under a sheet of paper. Rub the side of a crayon over it. The outline and veins appear.  
   *Parent says:* Describe each leaf like a detective. Fold one in half. Is it the same on both sides? Look at the veins. Do they make a net, or run side by side?  
-  *Child mode:* Tape each leaf on a page. Fold one in half. Are the halves the same? Write three words for each leaf. Look at the veins. Net, or side by side? Write N or S.
+  *Child mode:* Tape each leaf on a page. Fold one in half. Are the halves the same? Write three words for each leaf. Look at the veins. Net, or side by side? Write N or S. Crush a corner of a safe leaf, like tulsi or mint, and sniff. Write a smell word. Then put a leaf under paper and rub a crayon over it.
   - Ask: Which leaf do you think grew in the most shade? Why? (good: The biggest, thinnest one, because it needs to catch more light.)
   - Note: Net veins usually go with tap roots, as in mango, hibiscus and beans. Parallel veins usually go with fibrous roots, as in grass, maize and banana. These are the two big groups of flowering plants.
 - **s3 (8 min)**  
@@ -638,7 +647,7 @@ When her father came home for Baisakhi, she showed him both. She did not explain
   - Think: Bicycle frames and the poles that hold up festival pandals are tubes too. Why do you think engineers chose the same shape as bamboo?
 
 ## Worksheets
-### Plant Part Detective (core) (core, 15 questions)
+### Plant Part Detective (core) (core, 16 questions)
 1. (match) Match each part of a plant to its main job.  
    **Answer:** Root → holds the plant in the soil and soaks up water; Stem → holds the plant up and carries water and food; Leaf → catches sunlight to make food; Flower → makes seeds. *Why:* Each part has its own job. The plant needs all of them to stay alive.
 2. (truefalse) Everything that grows under the ground is a root.  
@@ -651,7 +660,7 @@ When her father came home for Baisakhi, she showed him both. She did not explain
    Options: To spread out and catch lots of sunlight / To be light enough to blow away / To hold the plant in the ground / To store water  
    **Answer:** To spread out and catch lots of sunlight. *Why:* A thin, flat leaf works like a solar panel. It spreads out to catch light, and light can reach every cell inside it. Picking 'to store water' mixes up ordinary leaves with thick, juicy leaves like aloe, which are a special case.
 6. (mcq) A money plant cutting is put in a glass of water. After a week, white roots grow from the stem. What does this show?  
-   Options: A cutting can grow the parts they are missing / Money plants never need roots / The roots came from the water / The stem has turned into a root  
+   Options: Money plants never need roots / A cutting can grow the parts they are missing / The roots came from the water / The stem has turned into a root  
    **Answer:** A cutting can grow the parts they are missing. *Why:* The cutting had a stem and leaves but no roots. A plant needs roots to soak up water and hold on, so the cutting grew new ones. Picking 'never need roots' gets it backwards. The cutting grew roots because roots are needed.
 7. (write) Name one root and one stem that store food. Say one clue that tells you each is a root or a stem.  
    **Answer:** For example: a carrot is a root, because it has no eyes or rings along its sides. A potato is a stem, because it has eyes, which are buds.. *Why:* Any correct pair with a clue for each is right. Clues for stems are buds, eyes and rings. Roots usually have none of these.
@@ -660,20 +669,22 @@ When her father came home for Baisakhi, she showed him both. She did not explain
 9. (fill) The curly thread a pea or gourd plant uses to grab things is called a ____.  
    **Answer:** ['tendril']. *Why:* Tendrils coil round anything they touch. A pea's tendrils are changed leaf tips.
 10. (mcq) Why does a cactus have spines instead of wide leaves?  
-   Options: Wide leaves would lose too much water in the desert / Spines catch more sunlight / Cactuses do not need any food / Spines help them float  
+   Options: Spines catch more sunlight / Cactuses do not need any food / Spines help them float / Wide leaves would lose too much water in the desert  
    **Answer:** Wide leaves would lose too much water in the desert. *Why:* Wide leaves lose lots of water into hot, dry air. Spines lose very little, and they also guard the plant from thirsty animals. The fat green stem does the leaf's food-making job. Picking 'cactuses do not need food' misses that the stem makes their food.
 11. (perspective) Two children are arguing about which part of a plant matters most.  
    **Answer:** A strong answer picks a side and gives evidence. For the roots: a cut rose with no roots lasts only a few days. For the leaves: leaves catch the sunlight that makes the plant's food, and a covered leaf cannot do it. A strong answer then admits the other side's point, because a plant needs both: the roots bring water to the leaves, and the leaves send food to the roots.. *Why:* There is no single winner. Roots and leaves depend on each other. A good answer notices this, and still argues one side with real evidence.
 12. (draw) Draw a plant with roots, a stem and leaves. Draw an arrow showing where water goes, and another showing where light comes from.  
    **Answer:** Roots in the soil, a stem, and leaves spread out. A water arrow from the roots up the stem to the leaves. A light arrow from the Sun to the leaves.. *Why:* Water goes up from the roots. Light is caught by the leaves. The unit on how water travels through a plant tells this journey in full.
 13. (mcq) Aloe has thick, juicy leaves full of water. What does this suggest about where aloe grows?  
-   Options: A dry place, where storing water helps the plant / A pond, where the plant floats / A dark forest floor, where light is weak / Under the ground, where it is cold  
+   Options: A pond, where the plant floats / A dry place, where storing water helps the plant / A dark forest floor, where light is weak / Under the ground, where it is cold  
    **Answer:** A dry place, where storing water helps the plant. *Why:* Thick leaves can hold water for the dry months. Picking 'a pond' mixes this up with the lotus, whose flat leaf floats. A plant with juicy leaves has a water store, which a dry place needs.
 14. (fill) The fat underground stem of a potato, with buds called eyes, is called a ____.  
    **Answer:** ['tuber']. *Why:* A tuber is a fat underground stem that stores food. Its eyes are buds that can grow into new plants.
 15. (fill) The tiny hairs on a young root, which push between soil grains and soak up water, are called root ____.  
    **Answer:** ['hairs', 'hair']. *Why:* Root hairs are far thinner than the hairs on your head. They touch lots of soil, so a root can soak up water quickly.
-### Shapes and Jobs (stretch) (stretch, 15 questions)
+16. (match) Match each living being to the plant part it uses.  
+   **Answer:** A camel in Rajasthan → eats the leaves of a khejri tree; A bee → drinks nectar from a flower; A spotted owlet → raises chicks in a hollow in a tree trunk; A parrot → eats the fruit of a guava tree. *Why:* Leaves, flowers, trunks and fruits are jobs for the plant, and also food and homes for others.
+### Shapes and Jobs (stretch) (stretch, 16 questions)
 1. (mcq) Someone says shade leaves are bigger because the shade makes them swell up with water. How could you check this idea?  
    Options: Feel whether the shade leaves are thicker or thinner than the sun leaves / Count the leaves on the bush / Water the bush more / Pick the leaves at night  
    **Answer:** Feel whether the shade leaves are thicker or thinner than the sun leaves. *Why:* If the idea is right, the shade leaves should be thick and puffy. In fact they are thinner than the sun leaves. So they are not swollen. They are spread out to catch more of the weak light. Counting the leaves would not test the idea at all.
@@ -685,12 +696,12 @@ When her father came home for Baisakhi, she showed him both. She did not explain
 4. (match) Match each root to its surprising job.  
    **Answer:** Banyan's hanging roots → hold up branches like pillars; Mangrove's pencil roots → breathe air above the mud; Money plant's little roots → grip a wall to climb; Carrot → store food. *Why:* Roots can hold up, breathe, climb and store, not only drink.
 5. (mcq) A lotus leaf floats on a pond. Where are its stomata, the tiny holes that let air in?  
-   Options: On the top side, facing the air / On the bottom side, in the water / There are none / On the stem only  
+   Options: On the bottom side, in the water / There are none / On the top side, facing the air / On the stem only  
    **Answer:** On the top side, facing the air. *Why:* On most land leaves, stomata are mostly underneath. A floating lotus leaf has them on top, where the air is. Its shape and its holes both fit its life on water. Picking 'bottom side' means using the rule for land leaves. The lotus breaks that rule for a good reason.
 6. (fill) A stem that grows sideways under the ground, like ginger or turmeric, is called a ____.  
    **Answer:** ['rhizome']. *Why:* Ginger and turmeric are rhizomes. Their rings are nodes, and their buds can grow new shoots.
 7. (mcq) Pollen must be carried from flower to flower. A jasmine (malli) flower is white, which shows up in dim light, and it smells strongest in the evening. Which visitors is it most likely to attract?  
-   Options: Moths that fly at dusk and at night / Bees that fly at noon / The wind / Birds that fly in the morning  
+   Options: Bees that fly at noon / The wind / Birds that fly in the morning / Moths that fly at dusk and at night  
    **Answer:** Moths that fly at dusk and at night. *Why:* A flower's job is to make seeds, and for that pollen must be carried from flower to flower. White shows up in dim light, and a strong smell carries in the dark. Night-flying moths follow both. Picking bees is a fair guess, because bees visit many flowers, but bees mostly fly in the daytime.
 8. (write) Chembu leaves and lotus leaves make raindrops roll off in balls. How might that help a plant?  
    **Answer:** The rolling drops pick up dust and dirt and carry it away, so the leaf stays clean. A clean leaf catches more light. Water also does not sit on the leaf and block its tiny holes.. *Why:* A good answer links the waxy shape to the leaf's job: staying clean to catch light and breathe.
@@ -705,20 +716,22 @@ When her father came home for Baisakhi, she showed him both. She did not explain
 13. (write) A farmer cuts a seed potato into four pieces and plants them. Why must every piece have at least one eye?  
    **Answer:** The eyes are buds. A shoot can only grow from a bud, so a piece with no eye cannot grow into a new plant.. *Why:* A strong answer says that an eye is a bud, and that new shoots grow from buds.
 14. (mcq) Pine trees on cold mountains have thin needles, not wide leaves. How does this help?  
-   Options: A needle loses very little water in cold, dry winds / A needle catches more sunlight / A needle floats on water / A needle stores water like aloe  
+   Options: A needle catches more sunlight / A needle floats on water / A needle stores water like aloe / A needle loses very little water in cold, dry winds  
    **Answer:** A needle loses very little water in cold, dry winds. *Why:* A thin, tough needle has little surface for water to escape from. Picking 'catches more sunlight' mixes this up with wide leaves, which catch more light but lose more water.
 15. (fill) In a hollow bamboo stem, a solid wall runs across the tube at each ring. A ring on a stem is called a ____.  
    **Answer:** ['node']. *Why:* A node is where leaves and buds grow on a stem. In bamboo, the wall at each node stops the tube from squashing flat when it bends.
+16. (draw) Take one leaf from the kitchen or balcony, like mint, curry leaf or tulsi. Draw it. Label its colour, its shape, how it feels and its veins. Then crush a corner, sniff, and write its smell word beside it.  
+   **Answer:** A drawing of the leaf with labels such as 'dark green', 'oval', 'crinkly', 'net veins', and a smell word such as 'sharp' or 'sweet'.. *Why:* Leaves differ in colour, shape, feel, veins and smell. A careful drawing with labels is how a botanist records them.
 ### Think Like a Botanist (challenge) (challenge, 15 questions)
 1. (mcq) A sweet potato is a root, but it can sprout shoots. Does that break the rule 'buds grow on stems'?  
-   Options: It shows that rules in biology have exceptions, so botanists use several clues together / It proves a sweet potato is a stem / It proves the rule is useless / Sweet potatoes cannot really sprout  
+   Options: It proves a sweet potato is a stem / It proves the rule is useless / It shows that rules in biology have exceptions, so botanists use several clues together / Sweet potatoes cannot really sprout  
    **Answer:** It shows that rules in biology have exceptions, so botanists use several clues together. *Why:* Most roots have no buds, but a few, like sweet potato, can grow shoots. Botanists look at many clues, like how it grew and what it is joined to. Picking 'the rule is useless' throws away a rule that works for most plants.
 2. (write) Cactuses grow in the Americas. Some euphorbias grow in Africa. Both have fat, green, spiny stems, but they are not close relatives. Explain how two plants that are not related could end up with the same shape.  
    **Answer:** Both live in hot, dry places. There, wide leaves would lose too much water, so spines and a fat stem that stores water help a plant survive. Over a very long time, the plants with those shapes survived best in both places. So the same problem gave the same answer twice.. *Why:* A strong answer links the shape to the job in that place: saving and storing water. It says the shape helped each plant survive, not that one copied the other.
 3. (write) In the Wake the Store test, the carrot middle grew nothing. Is that a failure? What did it teach us?  
    **Answer:** No, it was our check. It had food but no buds, and it grew nothing. So it showed that new shoots need a bud, not only food.. *Why:* A check that stays the same is as useful as a result that changes. It tells you what made the difference.
 4. (mcq) Mangrove trees grow in salty mud that floods twice a day. Why do their roots poke up out of the mud?  
-   Options: To get air, because flooded mud has almost none / To catch fish / To drink rainwater / To scare crabs  
+   Options: To catch fish / To drink rainwater / To scare crabs / To get air, because flooded mud has almost none  
    **Answer:** To get air, because flooded mud has almost none. *Why:* Roots need air to stay alive. In waterlogged mud there is almost none, so breathing roots stick up like snorkels. Picking 'drink rainwater' is close, but these roots are mainly for air.
 5. (perspective) People have argued for over 200 years about whether petals, tendrils and spines are all leaves in disguise.  
    **Answer:** A strong answer backs one view with an example. A pea tendril grows where the last leaflets should be, and a cactus spine is a changed leaf, so Goethe was often right. But a bougainvillea thorn grows from a bud point, so it is a changed branch, which the gene scientists point out. A strong answer then says what another view got right, for example that Arber showed leaves and stems are closely linked.. *Why:* Each view is partly right. Goethe's idea works for flowers and for many parts, but not for every part. What matters is using real examples as evidence.
@@ -729,10 +742,10 @@ When her father came home for Baisakhi, she showed him both. She did not explain
 8. (write) A Khasi root bridge gets stronger every year. A bridge made of cut bamboo slowly rots in the rain. Why is the root bridge different?  
    **Answer:** The root bridge is made of living roots. They keep growing thicker, join together and mend damage. Cut bamboo is no longer growing, so it cannot mend itself, and it rots.. *Why:* A good answer says that the roots are alive and still growing, so the bridge can grow stronger and repair itself.
 9. (mcq) Why are spirals of leaves and scales so common in plants?  
-   Options: They pack things tightly and stop leaves shading each other / Plants like the look of spirals / Spirals make plants grow faster upward / The wind twists them  
+   Options: Plants like the look of spirals / Spirals make plants grow faster upward / The wind twists them / They pack things tightly and stop leaves shading each other  
    **Answer:** They pack things tightly and stop leaves shading each other. *Why:* In a spiral, each new leaf is turned a little from the last, so each leaf gets its own patch of sky. Seeds and scales in spirals pack together with almost no gaps. Picking 'the wind twists them' is a sensible guess, but the pattern starts in the growing tip, long before the wind can reach it.
 10. (mcq) Mango, bean and mustard plants have net veins in their leaves and a tap root. Grass and maize have parallel veins and fibrous roots. A plant has net veins in their leaves. What kind of roots do they probably have?  
-   Options: A tap root / Fibrous roots / No roots / Breathing roots  
+   Options: Fibrous roots / No roots / A tap root / Breathing roots  
    **Answer:** A tap root. *Why:* Net veins usually go with a tap root, as in mango, beans and mustard. Parallel veins usually go with fibrous roots, as in grass and maize. Picking fibrous roots means swapping the two groups. Remember: grass has parallel veins and a beard of roots.
 11. (write) Light is made of tiny packets called photons. Explain in your own words what a leaf does with a photon.  
    **Answer:** When a photon hits the green chlorophyll in a leaf, its energy is caught. The energy is passed along to where the leaf makes food.. *Why:* Chlorophyll catches the energy of light and passes it on. The unit on photosynthesis explains how the food is made.
@@ -753,44 +766,50 @@ When her father came home for Baisakhi, she showed him both. She did not explain
 
 ## Quiz
 1. (mcq) All the roots are cut off a small plant, and the plant is put back in wet soil. What will most likely happen first?  
-   Options: The plant wilts, because they cannot soak up water / The plant grows faster / Nothing changes / The plant makes flowers  
+   Options: The plant grows faster / Nothing changes / The plant makes flowers / The plant wilts, because they cannot soak up water  
    **Answer:** The plant wilts, because they cannot soak up water. *Why:* Roots soak up water from the soil. Without roots, the leaves keep losing water but nothing comes in, so the plant goes floppy. Picking 'nothing changes' forgets that the soil water can only get in through roots.
 2. (mcq) A leaf is covered in thick mud for a week. Which job of the leaf is stopped?  
-   Options: Catching light to make food / Holding the plant in the soil / Making seeds / Carrying water down to the roots  
+   Options: Holding the plant in the soil / Making seeds / Catching light to make food / Carrying water down to the roots  
    **Answer:** Catching light to make food. *Why:* A leaf catches sunlight to make the plant's food. Mud blocks the light, so the leaf cannot do this. Picking 'holding the plant in the soil' mixes the leaf up with the roots.
 3. (mcq) Why are roots long, thin and branching?  
-   Options: So they can reach far and touch lots of soil to soak up water / So they can catch light underground / So they are easy for us to eat / So worms can climb them  
+   Options: So they can catch light underground / So they are easy for us to eat / So they can reach far and touch lots of soil to soak up water / So worms can climb them  
    **Answer:** So they can reach far and touch lots of soil to soak up water. *Why:* Thin roots squeeze between soil grains, and many branches touch far more soil than one fat root could. Picking 'easy to eat' thinks of roots as made for us, not for the plant.
 4. (mcq) A bean stem is thin and bendy. How does that suit its job?  
-   Options: It can wind round a stick to climb towards the light / It can hold up a heavy crown of branches / It can store lots of food / It can float on water  
+   Options: It can hold up a heavy crown of branches / It can store lots of food / It can float on water / It can wind round a stick to climb towards the light  
    **Answer:** It can wind round a stick to climb towards the light. *Why:* A thin, bendy stem is perfect for twining round a support. Picking 'hold up a heavy crown' describes a tree trunk, which is thick and woody for that job.
 5. (mcq) Which clue shows that ginger is a stem, not a root?  
-   Options: It has rings and buds / It grows underground / It is brown / It tastes spicy  
+   Options: It grows underground / It is brown / It tastes spicy / It has rings and buds  
    **Answer:** It has rings and buds. *Why:* Rings are nodes, and buds grow at nodes. Stems have these, and roots usually do not. Picking 'grows underground' is the most common mistake. Roots and stems can both grow underground.
 6. (mcq) Why does a carrot plant store food in their root?  
-   Options: To use later to grow a flower stalk and seeds / So that people will eat it / Because the leaves cannot hold any food / To make the root heavy so it does not blow away  
+   Options: So that people will eat it / To use later to grow a flower stalk and seeds / Because the leaves cannot hold any food / To make the root heavy so it does not blow away  
    **Answer:** To use later to grow a flower stalk and seeds. *Why:* A carrot stores food in their root first. Later, after the cold weather, they use that food to grow their flowers and seeds. Picking 'so people will eat it' sees the plant as made for us.
 7. (mcq) Which of these climbs using tendrils?  
    Options: Pea / Money plant / Mango tree / Carrot  
    **Answer:** Pea. *Why:* Pea plants grab with curly tendrils. A money plant climbs with little roots instead. Picking 'money plant' is close, because they climb, but they use a different tool.
 8. (mcq) In the Sun Leaf, Shade Leaf test, you counted squares to measure each leaf. Why did you use the middle number of 5 leaves, not just one leaf?  
-   Options: One leaf could be unusual, so the middle of 5 is fairer / To make the sums harder / Because 5 is a lucky number / Because one leaf would be too small to count  
+   Options: To make the sums harder / One leaf could be unusual, so the middle of 5 is fairer / Because 5 is a lucky number / Because one leaf would be too small to count  
    **Answer:** One leaf could be unusual, so the middle of 5 is fairer. *Why:* One leaf could be oddly big or small. Testing 5 and taking the middle one gives a fairer answer. Picking 'make the sums harder' misses why scientists repeat tests.
 9. (mcq) Look at the chart from the Wake the Store test. Which piece grew the tallest shoot?  
-   Options: Onion / Carrot middle / Potato / Carrot top  
+   Options: Carrot middle / Potato / Carrot top / Onion  
    **Answer:** Onion. *Why:* The onion's bar is the tallest, at 60 mm. Picking the carrot middle means reading the chart upside down. Its bar is at zero, because it grew nothing.
 10. (mcq) In the Roots Hold the Soil test, what was the one thing we changed?  
-   Options: Whether the tray had seedling roots or bare soil / The amount of water / The size of the trays / The height of the books  
+   Options: The amount of water / The size of the trays / The height of the books / Whether the tray had seedling roots or bare soil  
    **Answer:** Whether the tray had seedling roots or bare soil. *Why:* In a fair test you change only one thing. Here, it was the roots. Everything else stayed the same. Picking 'the amount of water' would make the test unfair, because then two things change.
 11. (mcq) Why does a cactus have a fat green stem?  
-   Options: To store water and make food, because their leaves are spines / To look like a tree / To hold up heavy fruit / Because they have no roots  
+   Options: To look like a tree / To hold up heavy fruit / Because they have no roots / To store water and make food, because their leaves are spines  
    **Answer:** To store water and make food, because their leaves are spines. *Why:* In the desert, wide leaves would lose too much water. So the cactus's stem stores water and does the leaf's food-making job. Picking 'they have no roots' is wrong: cactuses have roots, often spreading wide to catch rare rain.
 12. (mcq) Water hyacinth, called jalkumbhi in Hindi and agaya thamarai in Tamil, floats on ponds. Their leaf stalks are swollen and spongy. How does this shape help them?  
-   Options: The spongy stalks are full of air, so the plant floats / The stalks store soil / The stalks sink the plant to the bottom / The stalks catch fish  
+   Options: The stalks store soil / The stalks sink the plant to the bottom / The stalks catch fish / The spongy stalks are full of air, so the plant floats  
    **Answer:** The spongy stalks are full of air, so the plant floats. *Why:* The swollen stalks are full of tiny air spaces, like a sponge or a float. So the plant sits on top of the water, where the light is. Picking 'sink the plant' gets it backwards.
 13. (mcq) Fossils show that the very first land plants were tiny stems, with no roots and no leaves. Why could they not grow tall?  
-   Options: With no roots, they could not hold on or soak up water from deep in the soil / They had too many flowers / They were too heavy / They had spines  
+   Options: They had too many flowers / They were too heavy / With no roots, they could not hold on or soak up water from deep in the soil / They had spines  
    **Answer:** With no roots, they could not hold on or soak up water from deep in the soil. *Why:* Roots hold a plant down and bring up water. Without them, a plant has to stay small and close to wet ground. Roots, wide leaves and flowers came much later, and then plants could grow tall.
+14. (mcq) A bee drinks nectar from a mustard flower. Pollen sticks to her body, and she flies to the next flower. Who gains from this?  
+   Options: Only the bee, because the flower is there to feed animals / Both: the bee gets food, and the flower gets pollen carried to another flower / Only the flower, because the bee gets nothing / Neither, because the pollen falls off at once  
+   **Answer:** Both: the bee gets food, and the flower gets pollen carried to another flower. *Why:* The bee gets nectar to eat. The pollen she carries helps the next flower make seeds. Picking 'only the bee' thinks of flowers as made for animals. A flower's own job is to make seeds.
+15. (mcq) You crush a tulsi leaf between your fingers and smell it strongly. Where does the smell come from?  
+   Options: The chlorophyll, the green stuff in the leaf / Tiny drops of oil inside the leaf / The roots, which send the smell up the stem / Water that the leaf soaked up  
+   **Answer:** Tiny drops of oil inside the leaf. *Why:* Leaves like tulsi and mint hold small drops of oil, and crushing the leaf lets the smell out. Chlorophyll is a good guess, because it is in every leaf, but chlorophyll catches light and has no smell.
 
 ## Applications
 - Farmers grow carrot and radish seed by replanting the best roots in winter. This is called the root-to-seed method.
@@ -813,8 +832,8 @@ When her father came home for Baisakhi, she showed him both. She did not explain
 - Sugarcane at a juice stall, with its rings showing where leaves once grew.
 - Lotus and chembu leaves in a pond or a market, with raindrops rolling off in shiny balls.
 - Short prop roots at the bottom of maize plants in a field, gripping the soil like tent pegs.
-- Cactuses and aloe on a sunny balcony, and nagphani hedges along dry roads in Rajasthan, Gujarat or Tamil Nadu.
-- Mangrove breathing roots poking out of the mud at low tide in the Sundarbans, at Pichavaram in Tamil Nadu, or along creeks in Mumbai.
+- Cactuses and aloe on a sunny balcony, and nagphani hedges along dry roads.
+- Mangrove breathing roots poking out of the mud at low tide.
 - Plants on a dim landing with big, thin leaves, and plants in full sun with small, tough ones.
 
 ## Open questions
@@ -864,8 +883,8 @@ Green and Growing (sci.plants.L3): Topic-level song for Plants L3
 
 ## Links
 - [Acharya Jagadish Chandra Bose Indian Botanic Garden, home of the Great Banyan](https://bsi.gov.in) · place · Howrah, near Kolkata: See the Great Banyan, a single tree standing on thousands of pillar roots. The garden is run by the Botanical Survey of India, whose website is linked here.
-- [Lalbagh Botanical Garden]() · place · Bengaluru: Old trees, climbers, cactuses and a glass house. Look for prop roots, climbing stems and leaves of every shape.
-- [Sundarbans mangrove forest]() · place · South 24 Parganas, West Bengal: The world's largest mangrove forest. Boats take visitors past breathing roots at low tide.
+- Lalbagh Botanical Garden · place · Bengaluru: Old trees, climbers, cactuses and a glass house. Look for prop roots, climbing stems and leaves of every shape.
+- Sundarbans mangrove forest · place · South 24 Parganas, West Bengal: The world's largest mangrove forest. Boats take visitors past breathing roots at low tide.
 - [Living root bridges of Meghalaya](https://www.meghalayatourism.in) · place · East Khasi Hills, near Cherrapunji, Meghalaya: Bridges grown from the aerial roots of rubber fig trees by Khasi and Jaintia families over many years.
 - [Birbal Sahni Institute of Palaeosciences](https://www.bsip.res.in) · place · Lucknow: A research institute named after a great Indian scientist who studied fossil plants. Its museum shows plants turned to stone.
 - [Nehru Science Centre](https://www.nehrusciencecentre.gov.in) · place · Mumbai: Hands-on science exhibits, and a garden to look for plant shapes.
@@ -874,7 +893,7 @@ Green and Growing (sci.plants.L3): Topic-level song for Plants L3
 - [iNaturalist](https://www.inaturalist.org) · interactive: Take a photo of a plant and get help naming that plant. A grown-up should make the account.
 - [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a science museum in San Francisco. Search for leaves and plants.
 - [Science Buddies](https://www.sciencebuddies.org/) · interactive: Step-by-step plant science projects for older children, including ones on roots and leaves.
-- [A banyan, a vegetable market and a kitchen garden near you]() · place · anywhere: Every street has plant parts in disguise. Ask the vegetable seller which vegetables are roots and which are stems, and see if they know.
+- A banyan, a vegetable market and a kitchen garden near you · place · anywhere: Every street has plant parts in disguise. Ask the vegetable seller which vegetables are roots and which are stems, and see if they know.
 
 ## Things to buy
 - [Magnifying glass (hand lens)](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): To see root hairs, potato eyes, ginger rings and the veins of leaves. Useful but not needed: eyes alone work for every step. Used in a1, a2, a3, e4. 
@@ -883,6 +902,10 @@ Green and Growing (sci.plants.L3): Topic-level song for Plants L3
 - [Climbing bean seeds, such as sem, avarai (hyacinth bean) or a pole bean](https://www.amazon.in/s?k=pole+bean+seeds) (material): For the Climbing Bean Diary. Check the packet says 'pole' or 'climbing', not 'bush'. Used in p1. 
 - [Tops & Bottoms, by Janet Stevens](https://www.amazon.in/s?k=Tops+and+Bottoms+Janet+Stevens) (book): A funny picture book about a clever hare who tricks a lazy bear out of carrots, lettuce and corn, by knowing which part of each plant we eat. Used in g1, a1. 
 - [Plants Can't Sit Still, by Rebecca E. Hirsch](https://www.amazon.in/s?k=Plants+Can%27t+Sit+Still+Rebecca+Hirsch) (book): A picture book showing that plants move: they climb, twist, turn and spread. Used in p1, a3. 
+- [Braiding Sweetgrass for Young Adults by Robin Wall Kimmerer, adapted by Monique Gray Smith](https://www.amazon.in/s?k=Braiding+Sweetgrass+for+Young+Adults+Robin+Wall+Kimmerer%2C+adapted+by+Monique+Gray+Smith) (book): A botanist from the Potawatomi Nation on seeing plants as relatives and teachers. Read short sections aloud and talk. Used in a1. A book for the parent to read from, a few pages at a time, aloud. Children who want to read it themselves are welcome to. (10+ (read parts aloud))
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Wake the Store: can a stored food part grow with no soil?, Sun Leaf, Shade Leaf, Roots Hold the Soil. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e3, e4, p1, c2. Get it before Wake the Store: can a stored food part grow with no soil?.
+- [A dropper](https://www.amazon.in/s?k=plastic+dropper) (tool): Used in The Blue-Black Test: where do plants keep their starch?. About ₹10 to ₹40. A clean pen refill or straw with a finger on top can drop water. Used in e2. Get it before The Blue-Black Test: where do plants keep their starch?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Root, stem or leaf: a potato? → A stem. Its eyes are buds.

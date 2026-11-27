@@ -676,11 +676,11 @@
       "t": "mcq",
       "q": "A fast magnet drags an aluminium can but not a plastic bottle. What is the best reason?",
       "options": [
-       "The can carries electricity well, so swirls of electricity form in it",
        "The can is heavier than the bottle",
-       "The can is shinier than the bottle"
+       "The can is shinier than the bottle",
+       "The can carries electricity well, so swirls of electricity form in it"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A moving magnet makes swirling electric currents in a metal that carries electricity well. Plastic is an insulator, so it has none. 'Heavier' and 'shinier' are good guesses, but they are not the reason. A steel can is heavy and shiny too, and a still magnet pulls it instead."
      },
      "context": "In this step you play more cards and check your idea about why the can is dragged."
@@ -967,11 +967,11 @@
       "t": "mcq",
       "q": "Why do we test the fridge door and the aluminium vessel before the steel things?",
       "options": [
-       "To set the top and bottom of our 0 to 3 scale",
        "Because they are the biggest",
-       "To warm up the magnet"
+       "To warm up the magnet",
+       "To set the top and bottom of our 0 to 3 scale"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A score means something only if you know what the highest and lowest look like. The fridge door sets the 3 and the aluminium sets the 0. 'To warm up the magnet' is wrong. An engine needs warming up, but a magnet does not."
      },
      "parent": "If your fridge door is stainless and the magnet does not stick, use an almirah or an iron gate for the 3.",
@@ -1006,11 +1006,11 @@
       "t": "mcq",
       "q": "A steel spoon sticks weakly at the bent neck and not at the smooth bowl. What is the best explanation?",
       "options": [
-       "Bending changed the steel inside, so more of its tiny magnets can line up",
        "The neck is made of a different metal",
-       "The magnet is stronger near the neck"
+       "The magnet is stronger near the neck",
+       "Bending changed the steel inside, so more of its tiny magnets can line up"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Bending or rolling steel can change how its atoms are packed. In some stainless steels, this makes the bent place a little more magnetic. Picking 'different metal' is a natural guess, but the spoon was made from one piece."
      },
      "parent": "Expect some things to score 3, some 0, and some in between. A pan sold for induction cooking should score 2 or 3 on its base. Write exactly what you find, even if it is odd.",
@@ -1158,11 +1158,11 @@
       "t": "mcq",
       "q": "The aluminium can ignores a still magnet but rolls after a fast one. What is the best explanation?",
       "options": [
-       "The moving magnet makes swirls of electric current in the can, and these push against the magnet",
        "The can has become a magnet like iron",
-       "The can is attracted by the air from the swish"
+       "The can is attracted by the air from the swish",
+       "The moving magnet makes swirls of electric current in the can, and these push against the magnet"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A moving magnet makes eddy currents in a metal that carries electricity. These make their own magnetic field and drag the can along. Picking 'has become a magnet like iron' is wrong because a still magnet does nothing to the can. Picking 'the air' can be tested with a plastic bottle, which does not move."
      },
      "parent": "A strong magnet swished at about 1 cm should make the can roll a few centimetres or more. A weak or slow magnet may only make the can wobble. If nothing moves, make the swish faster and the gap smaller, and write that down too.",
@@ -1308,11 +1308,11 @@
       "t": "mcq",
       "q": "Why do we swing the magnet with no plate first?",
       "options": [
-       "To see how long it swings when nothing is under it, so we can compare",
        "To warm up the thread",
+       "To see how long it swings when nothing is under it, so we can compare",
        "To make the magnet stronger"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A baseline shows how many swings the magnet makes by itself, because air and the thread also slow it. Without it, you could not tell how much of the slowing comes from the plate. 'To warm up the thread' is wrong. A sports player needs a warm-up, but a thread does not."
      },
      "context": "In this step you swing the magnet with no plate, so that you have a count to compare with."
@@ -1565,11 +1565,11 @@
       "t": "mcq",
       "q": "A sorter says, 'I tap it. Brass rings long and warm, and steel rings short and dull.' Is this a good way to tell them apart?",
       "options": [
-       "Yes, because different metals ring differently, and a trained ear can hear it",
        "No, because only magnets can tell metals apart",
-       "No, because sound has nothing to do with metal"
+       "No, because sound has nothing to do with metal",
+       "Yes, because different metals ring differently, and a trained ear can hear it"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Different metals and shapes ring differently when tapped. People who handle metal every day learn to hear the difference. A magnet is one way, and sound is another. 'Only magnets' comes from the mistaken idea that a magnet is the only test."
      },
      "context": "In this step you compare the sorter's ways with the magnet tests in this lesson."
@@ -1765,11 +1765,11 @@
       "t": "mcq",
       "q": "Why does a real centre take the steel out before the spinning magnet drum?",
       "options": [
-       "Steel would stick to the drum, since a still magnet attracts it",
        "Steel is too heavy to travel on the belt",
+       "Steel would stick to the drum, since a still magnet attracts it",
        "Steel makes the drum rust"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A magnet drum would grab steel cans and hold them. The steel must be taken out first. Picking 'too heavy' mixes up weight with magnetism."
      },
      "context": "In this step you place the four machines along the belt and explain your order."
@@ -2105,11 +2105,11 @@
       "t": "mcq",
       "q": "Colour splits six pieces into 3 and 3. The magnet test splits them into 2 and 4. Which is usually the better first question for a short flowchart?",
       "options": [
-       "The magnet test, because it always gives the shortest chart",
        "Colour, because 3 and 3 is the more even split",
+       "The magnet test, because it always gives the shortest chart",
        "It makes no difference which is first"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A test that splits the pieces more evenly tends to give a shorter flowchart. But a short chart also depends on the later questions, so try both orders and count the questions."
      },
      "context": "In this step you test all six pieces three ways."
@@ -2248,12 +2248,12 @@
      "t": "mcq",
      "p": "A fridge magnet is held still against an aluminium can. What happens?",
      "opts": [
-      "Nothing, because a still magnet does not attract aluminium",
       "The can sticks firmly",
       "The can rolls away",
+      "Nothing, because a still magnet does not attract aluminium",
       "The can melts"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Aluminium is not a magnetic material, so a still magnet does not hold it. Picking 'sticks firmly' is the idea that all metals stick.",
      "outcome": 0
     },
@@ -2291,12 +2291,12 @@
      "t": "mcq",
      "p": "Which of these carries electricity best, and so drags a moving magnet most?",
      "opts": [
-      "Copper",
       "Wood",
       "Glass",
+      "Copper",
       "Rubber"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Copper is one of the best conductors of electricity, so strong swirls form in it. Wood, glass and rubber do not carry electricity.",
      "outcome": 4
     },
@@ -2371,12 +2371,12 @@
      "t": "mcq",
      "p": "A recycling centre must take steel cans out of a heap before it uses a spinning magnet drum to throw aluminium off the belt. Why?",
      "opts": [
-      "Steel would stick to the drum, since a still magnet attracts it",
       "Steel is heavier",
       "Steel is cheaper",
+      "Steel would stick to the drum, since a still magnet attracts it",
       "Steel makes the belt rust"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A drum of magnets would grab the steel and hold it. So a magnet takes out the steel first.",
      "outcome": 5
     },
@@ -2421,12 +2421,12 @@
      "t": "mcq",
      "p": "A metal detector beeps over a buried brass key. Brass is not attracted by a still magnet. How can the detector find it?",
      "opts": [
-      "It senses the eddy currents the changing magnetic field makes in the key",
       "It senses the key's tiny magnets",
+      "It senses the eddy currents the changing magnetic field makes in the key",
       "It smells the metal",
       "It weighs the ground"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The detector makes a changing magnetic field. This field makes eddy currents in any metal that carries electricity, and the detector senses them.",
      "outcome": 3
     },
@@ -2458,12 +2458,12 @@
      "t": "mcq",
      "p": "A magnet swings over a wooden board, a plastic tray and an aluminium plate. Over which does it stop in the fewest swings?",
      "opts": [
-      "The aluminium plate",
       "The wooden board",
+      "The aluminium plate",
       "The plastic tray",
       "All the same"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Swirls of current form only in the aluminium, and they push against the swinging magnet. Wood and plastic do nothing.",
      "outcome": 2,
      "how": "e3"
@@ -2472,12 +2472,12 @@
      "t": "mcq",
      "p": "A thin sheet of aluminium foil and a thick aluminium plate are both under a swinging magnet. Which stops it sooner, and why?",
      "opts": [
-      "The thick plate, because more metal gives the swirls more room",
       "The foil, because it is lighter",
+      "The thick plate, because more metal gives the swirls more room",
       "They stop it equally",
       "Neither, because aluminium is not magnetic"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A thick plate has more room for eddy currents to flow, so the push is stronger. 'Not magnetic' only applies to a still magnet.",
      "outcome": 4
     },
@@ -2485,12 +2485,12 @@
      "t": "mcq",
      "p": "Cuts are made in a copper plate so that the swirls cannot loop round. What happens to the drag on a moving magnet?",
      "opts": [
-      "It gets weaker",
       "It gets stronger",
+      "It gets weaker",
       "It stays the same",
       "The plate becomes magnetic"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The swirls need unbroken paths to flow round. Slits stop them, so the push on the magnet falls.",
      "outcome": 3
     },
@@ -2516,12 +2516,12 @@
      "t": "mcq",
      "p": "A magnet sticks firmly to the base of a pan but not to the sides. Will the pan heat on an induction stove?",
      "opts": [
-      "Probably yes, because the base touches the stove and is magnetic",
       "No, because the sides are not magnetic",
+      "Probably yes, because the base touches the stove and is magnetic",
       "No, because pans need to stick everywhere",
       "It will melt"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The stove heats the part of the pan that sits on it. A magnetic base heats well.",
      "outcome": 6
     },
@@ -2537,12 +2537,12 @@
      "t": "mcq",
      "p": "A tin can is steel with a very thin coat of tin on it. A magnet sticks to the can. Why?",
      "opts": [
-      "The magnet feels the steel under the thin coat of tin",
       "Tin is magnetic",
       "The magnet pulls the label",
-      "The can is hollow"
+      "The can is hollow",
+      "The magnet feels the steel under the thin coat of tin"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Tin is not magnetic, but the coat is very thin and the steel is what the magnet feels. A name for a thing may describe only its outside.",
      "outcome": 7
     },
@@ -2640,12 +2640,12 @@
      "t": "mcq",
      "p": "Why is the oxygen in the air called paramagnetic?",
      "opts": [
-      "It is pulled extremely weakly by a very strong magnet",
       "It is pushed strongly away",
       "It sticks to a fridge magnet",
-      "It carries electricity"
+      "It carries electricity",
+      "It is pulled extremely weakly by a very strong magnet"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Oxygen is attracted extremely weakly. Liquid oxygen, which is very cold, clings between the poles of a strong magnet.",
      "outcome": 0
     },
@@ -2729,12 +2729,12 @@
      "t": "mcq",
      "p": "A magnet falls slowly down a thick copper pipe. What would make the fall even slower?",
      "opts": [
-      "A pipe with a thicker wall made of copper",
       "A pipe with slits cut along it",
+      "A pipe with a thicker wall made of copper",
       "A pipe made of plastic",
       "A pipe made of wood"
      ],
-     "a": 0,
+     "a": 1,
      "why": "More copper means more room for swirls, so a stronger push up. Slits break the swirls, and plastic and wood have none.",
      "outcome": 4
     },
@@ -2805,12 +2805,12 @@
      "t": "mcq",
      "p": "A rusty nail still sticks to a magnet, but the brown flakes mostly do not. What is the best explanation?",
      "opts": [
-      "The nail still has an iron core, and the rust is only weakly magnetic",
       "The flakes are too small",
       "Rust is a different colour",
-      "A magnet cannot lift flakes"
+      "A magnet cannot lift flakes",
+      "The nail still has an iron core, and the rust is only weakly magnetic"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A magnet feels iron that is still iron. The rust is iron joined with oxygen and water, which is only weakly magnetic.",
      "outcome": 1
     },
@@ -2844,12 +2844,12 @@
      "t": "mcq",
      "p": "A magnet does not stick to a coin. Someone says this proves the coin is real silver. What does the test truly show?",
      "opts": [
-      "The coin is not made of iron, nickel or cobalt, but it could be made of many other things",
       "The coin is definitely silver",
       "The coin is definitely aluminium",
-      "The coin has no metal in it"
+      "The coin has no metal in it",
+      "The coin is not made of iron, nickel or cobalt, but it could be made of many other things"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Many metals ignore a still magnet. A magnet that does not stick rules out only a few.",
      "outcome": 7
     },
@@ -2882,12 +2882,12 @@
      "t": "mcq",
      "p": "In a recycling centre, which step uses an eddy current separator?",
      "opts": [
-      "Throwing aluminium cans off the belt",
       "Lifting steel cans off the belt",
       "Blowing paper off the belt",
+      "Throwing aluminium cans off the belt",
       "Picking glass by hand"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The spinning drum makes eddy currents in aluminium and other non-ferrous metals, and these push the pieces forward. The magnet lifts steel. The blower lifts paper.",
      "outcome": 5
     },
@@ -2944,12 +2944,12 @@
    "t": "mcq",
    "p": "Which of these is extremely weakly pushed away by a very strong magnet?",
    "opts": [
-    "Water",
     "Iron",
     "Nickel",
-    "Cobalt"
+    "Cobalt",
+    "Water"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Water is diamagnetic, so it is pushed away extremely weakly. Iron, nickel and cobalt are pulled strongly.",
    "outcome": 0
   },
@@ -2957,12 +2957,12 @@
    "t": "mcq",
    "p": "A magnet sticks to the rim of a steel tumbler, but hardly to its wall. What is the best explanation?",
    "opts": [
-    "Rolling the rim may have changed the steel inside, so more tiny magnets line up",
     "The rim is made of a different metal",
+    "Rolling the rim may have changed the steel inside, so more tiny magnets line up",
     "The magnet is stronger at the rim",
     "The wall is thicker"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Bending and rolling can change how atoms are packed in some stainless steels.",
    "outcome": 1
   },
@@ -2970,12 +2970,12 @@
    "t": "mcq",
    "p": "A fast-moving magnet makes an aluminium can roll. What is the main reason?",
    "opts": [
-    "It makes swirling electric currents in the can",
     "The can becomes a magnet like iron",
+    "It makes swirling electric currents in the can",
     "The air moves the can",
     "The magnet sticks to the can"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The swirls make a magnetic field that drags the can. A still magnet does nothing.",
    "outcome": 2
   },
@@ -2983,12 +2983,12 @@
    "t": "mcq",
    "p": "What name do we give the swirling currents a moving magnet makes in metal?",
    "opts": [
-    "Eddy currents",
     "Static charges",
     "Tiny magnets",
+    "Eddy currents",
     "Rust"
    ],
-   "a": 0,
+   "a": 2,
    "why": "An eddy is a small whirl, like a river's swirl behind a rock.",
    "outcome": 3
   },
@@ -2996,12 +2996,12 @@
    "t": "mcq",
    "p": "Which of these will drag a moving magnet the most?",
    "opts": [
-    "A thick copper plate",
     "A glass plate",
     "A rubber mat",
-    "A wooden board"
+    "A wooden board",
+    "A thick copper plate"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Copper carries electricity very well, so strong swirls form in it. The others are insulators.",
    "outcome": 4
   },
@@ -3009,12 +3009,12 @@
    "t": "mcq",
    "p": "A magnet dropped through a plastic pipe falls fast. Dropped through a copper pipe of the same size, it falls slowly. Why?",
    "opts": [
-    "Swirling currents in the copper push up against the falling magnet",
     "Copper is heavier",
     "Plastic is slippery",
-    "Copper is magnetic like iron"
+    "Copper is magnetic like iron",
+    "Swirling currents in the copper push up against the falling magnet"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Plastic makes no swirls. Copper makes them, and they push against the movement.",
    "outcome": 3
   },
@@ -3035,12 +3035,12 @@
    "t": "mcq",
    "p": "Which machine throws aluminium cans off a conveyor belt?",
    "opts": [
-    "An eddy current separator",
     "A big magnet over the belt",
     "An air blower",
+    "An eddy current separator",
     "A sieve"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A spinning magnetic drum makes eddy currents in the aluminium that push the cans forward.",
    "outcome": 5
   },
@@ -3048,12 +3048,12 @@
    "t": "mcq",
    "p": "A pan works on an induction stove. What is likely to be true of its base?",
    "opts": [
-    "A magnet sticks firmly to it",
     "It is made of aluminium",
     "It is made of glass",
-    "It is made of clay"
+    "It is made of clay",
+    "A magnet sticks firmly to it"
    ],
-   "a": 0,
+   "a": 3,
    "why": "A magnetic steel base heats well in the stove's changing field.",
    "outcome": 6
   },
@@ -3061,12 +3061,12 @@
    "t": "mcq",
    "p": "Why does an aluminium pan heat poorly on an induction stove?",
    "opts": [
-    "It is not magnetic and carries electricity so well that it heats very little",
     "It is too light",
     "It is too shiny",
+    "It is not magnetic and carries electricity so well that it heats very little",
     "It is too cold"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A magnetic steel base heats strongly. Aluminium heats very little.",
    "outcome": 6
   },
@@ -3074,12 +3074,12 @@
    "t": "mcq",
    "p": "A magnet does not stick to a ring. What can you truly say?",
    "opts": [
-    "The ring is not made of iron, nickel or cobalt, but it could be made of many other things",
     "The ring is gold",
+    "The ring is not made of iron, nickel or cobalt, but it could be made of many other things",
     "The ring has no metal",
     "The ring is silver"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Many metals ignore a still magnet, including gold, silver, copper, brass and aluminium.",
    "outcome": 7
   },
@@ -3087,12 +3087,12 @@
    "t": "mcq",
    "p": "A metal detector finds a brass key in the ground. Brass is not attracted by a still magnet. How can the detector find it?",
    "opts": [
-    "It senses the eddy currents the key makes",
     "It senses the key's weight",
     "It smells the key",
-    "It sees the key"
+    "It sees the key",
+    "It senses the eddy currents the key makes"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The detector's changing field makes eddy currents in any conducting metal.",
    "outcome": 3
   },
@@ -3100,12 +3100,12 @@
    "t": "mcq",
    "p": "A rusty nail sticks to a magnet. What is the best reason?",
    "opts": [
-    "The nail still has an iron core under the rust",
     "Rust is the strongest magnet",
     "The nail is clean",
-    "The rust is steel"
+    "The rust is steel",
+    "The nail still has an iron core under the rust"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The rust itself is only weakly magnetic, but the iron under it is.",
    "outcome": 1
   },
@@ -3113,12 +3113,12 @@
    "t": "mcq",
    "p": "Which sentence is most exact?",
    "opts": [
-    "A still magnet does not attract aluminium, but a moving magnet pushes on it",
     "Aluminium is not affected by magnets",
+    "A still magnet does not attract aluminium, but a moving magnet pushes on it",
     "Aluminium is magnetic like iron",
     "Aluminium does not carry electricity"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The best sentence says what the test was. A still magnet and a moving magnet give different answers.",
    "outcome": 7
   }
@@ -3433,6 +3433,114 @@
    "used_in": [
     "e3"
    ]
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in The Can That Follows: does a moving magnet push aluminium?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before The Can That Follows: does a moving magnet push aluminium?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Three Columns: sort the world by how it answers a magnet, Plan a Sorting Line on Paper. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "a3",
+    "a4"
+   ],
+   "plan": "Get it before Three Columns: sort the world by how it answers a magnet."
+  },
+  {
+   "id": "b-insulated-wire-or-crocodile-",
+   "item": "Insulated wire or crocodile clips",
+   "kind": "tool",
+   "why": "Used in Ask a Kabadiwala or Waste Picker: how do you tell metals apart?, Plan a Sorting Line on Paper, Six Mystery Pieces: name them with the fewest tests. About ₹20 to ₹80. Thin insulated wire from an old charger works.",
+   "url": "https://www.amazon.in/s?k=crocodile+clip+wire+set",
+   "used_in": [
+    "a2",
+    "a4",
+    "c1"
+   ],
+   "plan": "Get it before Ask a Kabadiwala or Waste Picker: how do you tell metals apart?."
+  },
+  {
+   "id": "b-modelling-clay-or-plasticine",
+   "item": "Modelling clay or plasticine",
+   "kind": "material",
+   "why": "Used in Will It Work on an Induction Stove? Test with a magnet. About ₹40 to ₹120. Atta dough mixed with a little salt works.",
+   "url": "https://www.amazon.in/s?k=modelling+clay+plasticine",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Get it before Will It Work on an Induction Stove? Test with a magnet."
+  },
+  {
+   "id": "b-sticky-notes",
+   "item": "Sticky notes",
+   "kind": "material",
+   "why": "Used in Our Kitchen's Metal Map: a poster of what sticks. About ₹20 to ₹60. Small torn paper and tape do the same job.",
+   "url": "https://www.amazon.in/s?k=sticky+notes+pack",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before Our Kitchen's Metal Map: a poster of what sticks."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in The Pocket Induction Tester: a card that checks a pan in ten seconds. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "c2"
+   ],
+   "plan": "Get it before The Pocket Induction Tester: a card that checks a pan in ten seconds."
+  },
+  {
+   "id": "b-a-small-toy-car-with-free-ro",
+   "item": "A small toy car with free-rolling wheels",
+   "kind": "material",
+   "why": "Used in Three Columns: sort the world by how it answers a magnet, Plan a Sorting Line on Paper. About ₹100 to ₹200. A marble or a round torch cell works.",
+   "url": "https://www.amazon.in/s?k=toy+car+pull+back+small",
+   "used_in": [
+    "a3",
+    "a4"
+   ],
+   "plan": "Get it before Three Columns: sort the world by how it answers a magnet."
+  },
+  {
+   "id": "b-iron-nails-or-iron-filings",
+   "item": "Iron nails or iron filings",
+   "kind": "material",
+   "why": "Used in Does Rust Stick? An old nail and its flakes, Six Mystery Pieces: name them with the fewest tests. About ₹20 to ₹80. Short steel nails from a hardware shop.",
+   "url": "https://www.amazon.in/s?k=iron+filings+science",
+   "used_in": [
+    "a5",
+    "c1"
+   ],
+   "plan": "Get it before Does Rust Stick? An old nail and its flakes."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

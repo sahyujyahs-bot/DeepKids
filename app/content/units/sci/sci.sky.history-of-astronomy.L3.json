@@ -136,7 +136,8 @@
    "examples": [
     "Pongal follows the Sun, so it falls in the middle of January every year. Bohag Bihu in Assam follows the Sun too, so it falls in mid-April.",
     "Deepavali follows the Moon, so its date moves between October and November.",
-    "Onam needs both: the Sun's month of Chingam and the Moon in the nakshatra Thiruvonam."
+    "Onam needs both: the Sun's month of Chingam and the Moon in the nakshatra Thiruvonam.",
+    "Even the week has names from the sky. Ravivar, Sunday, is named after Ravi, the Sun. Somvar, Monday, is named after Soma, the Moon. The other days are named after the planets Mars, Mercury, Jupiter, Venus and Saturn."
    ],
    "perspectives": [],
    "art": "Two wheels side by side, one with a Sun in the middle and 12 seasons, one with a Moon in the middle and 12 Moon shapes, with a small extra slice added to the Moon wheel.",
@@ -546,11 +547,11 @@
       "t": "mcq",
       "q": "Which people kept a table of the planet Venus coming back every 584 days?",
       "options": [
-       "The Maya",
        "The Babylonians",
-       "The Greeks"
+       "The Greeks",
+       "The Maya"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The Maya Dresden Codex has a Venus table. The Babylonians also watched Venus and wrote about it on clay. But the 584-day table in the game is the Maya one."
      }
     },
@@ -675,11 +676,11 @@
       "t": "mcq",
       "q": "Which comes back more often?",
       "options": [
-       "The full Moon",
        "The Sun's year",
+       "The full Moon",
        "Halley's Comet"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The full Moon comes back about every 29 and a half days. The year takes about 365 days and Halley's Comet about 76 years. Sky-watchers needed long records to find the slow repeats, like eclipses and comets."
      }
     },
@@ -973,11 +974,11 @@
       "t": "mcq",
       "q": "A grown-up's fist is bigger than a child's, but the two counts are often close. Why?",
       "options": [
-       "The grown-up holds the fist further away, on a longer arm",
        "Fists do not really have sizes",
+       "The grown-up holds the fist further away, on a longer arm",
        "The sky is closer to children"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A fist further from the eye covers less of the view. The grown-up's longer arm puts their bigger fist further away, so it often covers about the same piece of view as a child's. If your counts were very different, that shows fists do not always agree. This is why astronomers later built instruments with marked scales."
      },
      "parent": "A good answer: I thought I would count more fists. We counted 5 and 4 and a half. My arm is shorter, so my small fist is closer and covers more of the view."
@@ -1218,11 +1219,11 @@
       "t": "mcq",
       "q": "Your three guesses of a minute were all different. What does that show?",
       "options": [
-       "Our own sense of time drifts, so we need something steadier to count with",
        "A minute is a different length each time",
-       "The stopwatch was broken"
+       "The stopwatch was broken",
+       "Our own sense of time drifts, so we need something steadier to count with"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A minute is always 60 seconds. Your feeling of a minute changes with what you are doing. That is why people looked for something steadier, and found it in the sky's repeats and in water clocks."
      }
     }
@@ -1435,11 +1436,11 @@
       "t": "mcq",
       "q": "Two cities, one far north of the other, have noon shadows of different lengths at the same moment. What did Eratosthenes say this shows?",
       "options": [
-       "The Earth's ground is curved, so the Sun hits it at different slants",
        "Delhi sticks are taller",
+       "The Earth's ground is curved, so the Sun hits it at different slants",
        "The Sun is closer to Chennai"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Because the Earth is round, the ground in one city is tilted a little compared with the ground in the other. The sunlight hits it at different slants, so the shadows differ. On a flat Earth, the shadows would be the same length. Eratosthenes used the difference in angle, and the distance between two towns, to work out the size of the Earth."
      }
     }
@@ -1794,11 +1795,11 @@
    "t": "mcq",
    "p": "What gives us the day?",
    "opts": [
-    "The Earth turning once",
     "The Moon going round the Earth",
+    "The Earth turning once",
     "The Earth going round the Sun"
    ],
-   "a": 0,
+   "a": 1,
    "why": "One turn of the Earth gives one day and night. The Moon gives the month, and the Earth going round the Sun gives the year.",
    "outcome": 0
   },
@@ -1806,13 +1807,25 @@
    "t": "mcq",
    "p": "About how long is a solar year?",
    "opts": [
-    "365 days",
     "29 and a half days",
+    "365 days",
     "584 days"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The Earth goes round the Sun in about 365 and a quarter days. 29 and a half days is a lunar month, and 584 days is the Venus cycle.",
    "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Somvar is the Indian name for Monday. Which sky body is it named after?",
+   "opts": [
+    "The Moon",
+    "The Sun",
+    "Venus"
+   ],
+   "a": 0,
+   "why": "Somvar is named after Soma, the Moon. Ravivar is named after the Sun, and Shukravar, Friday, after the planet Venus.",
+   "outcome": 6
   },
   {
    "t": "mcq",
@@ -1830,11 +1843,11 @@
    "t": "mcq",
    "p": "Why did the ghati bowl sink?",
    "opts": [
-    "Water came in slowly through a small hole until it was full",
     "It was too heavy to float",
+    "Water came in slowly through a small hole until it was full",
     "Someone pushed it under"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The bowl floated at first. Water came in through the tiny hole, and when it was full enough, it sank. The hole size set the time.",
    "outcome": 2
   },
@@ -1854,11 +1867,11 @@
    "t": "mcq",
    "p": "Venus comes back to the same place in the sky about every 584 days. Why could people who watched it carefully for many years predict where it would be?",
    "opts": [
-    "Its movement repeats in a steady cycle",
     "Venus never moves",
+    "Its movement repeats in a steady cycle",
     "Venus shines only once"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Anything that repeats in a steady cycle can be predicted once you have counted the cycle. Long records let sky-watchers count it.",
    "outcome": 3
   },
@@ -1866,11 +1879,11 @@
    "t": "mcq",
    "p": "A bright new star suddenly appears in the sky, bright enough to see by day. It fades over months. Today a glowing cloud of gas is in that spot. What was the new star most likely?",
    "opts": [
-    "A star exploding",
     "A new planet being born",
-    "The Moon passing by"
+    "The Moon passing by",
+    "A star exploding"
    ],
-   "a": 0,
+   "a": 2,
    "why": "An exploding star suddenly shines very brightly, then fades, and leaves a spreading cloud of gas behind. Old written records of such 'guest stars' help astronomers today.",
    "outcome": 3
   },
@@ -1890,11 +1903,11 @@
    "t": "mcq",
    "p": "Why did astronomers check their water clocks against the Sun and stars?",
    "opts": [
-    "Water clocks drift a little, and the sky's repeats are much steadier",
     "Water clocks only work in the daytime",
-    "The stars told them to"
+    "The stars told them to",
+    "Water clocks drift a little, and the sky's repeats are much steadier"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A water clock can run fast or slow if it is bumped, if the water warms, or if the hole changes. The turning sky is much steadier, so it was used to set them right.",
    "outcome": 5
   },
@@ -1934,11 +1947,11 @@
      "t": "mcq",
      "p": "Which repeat in the sky gives us the month?",
      "opts": [
-      "The Moon going from full to full again",
       "The Earth turning once",
-      "The Sun coming back to the same season"
+      "The Sun coming back to the same season",
+      "The Moon going from full to full again"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The Moon goes from full to full in about 29 and a half days, and that is where the month comes from. The Earth turning once gives the day. The Sun coming back to the same season gives the year."
     },
     {
@@ -2046,6 +2059,12 @@
      "why": "Festivals on the same date every year, like Pongal, Vishu, Bohag Bihu and Christmas, follow the Sun. Festivals that move each year, like Deepavali, Eid, Holi and Gudi Padwa, follow the Moon. A strong sorter checks whether the date moves."
     },
     {
+     "t": "fill",
+     "p": "Shanivar is the Indian name for Saturday. It is named after the planet ____.",
+     "a": "Saturn",
+     "why": "Shani is the name of Saturn in Hindi, so Shanivar is Saturn's day. The planets give their names to the days of the week."
+    },
+    {
      "t": "mcq",
      "p": "You want your cup clock to sink faster. What should you change?",
      "opts": [
@@ -2137,11 +2156,11 @@
      "t": "mcq",
      "p": "A child closed his eyes and said 'now' when he thought a minute had passed. His three tries were 45, 52 and 71 seconds. What does this show?",
      "opts": [
-      "Our feeling of time is not steady, so we need a clock or the sky to count",
       "The child was cheating",
+      "Our feeling of time is not steady, so we need a clock or the sky to count",
       "A minute is not always 60 seconds"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A minute is always 60 seconds, but our own sense of it drifts. That is why people looked for steadier ways to count time.",
      "how": "a1"
     }
@@ -2231,11 +2250,11 @@
      "t": "mcq",
      "p": "Five Venus cycles of 584 days make 2,920 days. Eight years of 365 days also make 2,920 days. Why was this useful to the Maya?",
      "opts": [
-      "Every 8 years, Venus came back to the same place on the same date of their calendar",
       "Venus disappeared after 8 years",
-      "It meant Venus is 8 times bigger than Earth"
+      "It meant Venus is 8 times bigger than Earth",
+      "Every 8 years, Venus came back to the same place on the same date of their calendar"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Because the two counts meet at 2,920 days, the Venus pattern lines up with the year every 8 years. That made it easy to predict Venus far ahead."
     },
     {
@@ -2286,11 +2305,11 @@
      "t": "mcq",
      "p": "The Tamil month Karthigai is named after Krittika, a star group. Why name a month after a star group?",
      "opts": [
-      "The full Moon in that month sits in or near that star group",
       "Krittika can only be seen in that month",
+      "The full Moon in that month sits in or near that star group",
       "Krittika was the name of a queen"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Many Indian month names come from the nakshatra where the full Moon sits in that month. Karthigai Deepam is lit on the full Moon in Krittika."
     },
     {
@@ -2347,11 +2366,11 @@
      "t": "mcq",
      "p": "Chinese astronomers wrote about a 'guest star' in the year 1054. Why do astronomers today still use this record?",
      "opts": [
-      "It tells them when the star exploded, so they know how old the Crab Nebula is",
       "It proves the Chinese had telescopes",
-      "It shows the star is still bright"
+      "It shows the star is still bright",
+      "It tells them when the star exploded, so they know how old the Crab Nebula is"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The guest star was an exploding star. Its leftover cloud is the Crab Nebula. The Chinese record gives its birth date. No telescopes existed then. The record was made by eye."
     }
    ]
@@ -2461,11 +2480,11 @@
      "t": "mcq",
      "p": "In the Window Calendar, the sunset marks move north for weeks, slow down, and then start to move back south. What does the word solstice mean here?",
      "opts": [
-      "The Sun seems to stand still, then turn back",
       "The Sun stops setting",
-      "The day and night are exactly equal"
+      "The day and night are exactly equal",
+      "The Sun seems to stand still, then turn back"
      ],
-     "a": 0,
+     "a": 2,
      "why": "At a solstice the Sun's rising and setting points reach their furthest north or south, seem to stop, and turn back. Equal day and night happens at the equinoxes, in March and September.",
      "how": "p1"
     },
@@ -2516,11 +2535,11 @@
      "t": "mcq",
      "p": "To work out the size of the whole Earth, what did Eratosthenes need?",
      "opts": [
-      "The angle of a noon shadow in one town, and the distance to another town where there was no shadow",
       "A telescope and a ship",
+      "The angle of a noon shadow in one town, and the distance to another town where there was no shadow",
       "The weight of the Earth"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The difference in the Sun's angle between two towns, and the distance between them, tell you what part of the Earth's circle lies between them. From that, he worked out the whole circle."
     },
     {
@@ -2752,6 +2771,105 @@
     "e1",
     "c1"
    ]
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in The Fist Ruler: does a child's fist measure the same piece of sky as a grown-up's?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before The Fist Ruler: does a child's fist measure the same piece of sky as a grown-up's?."
+  },
+  {
+   "id": "b-a-digital-stopwatch--optiona",
+   "item": "A digital stopwatch (optional)",
+   "kind": "tool",
+   "why": "Used in The Sinking Cup Clock: does it sink in the same time every round?, The Leaking Bottle Clock: does water run out at the same speed all the way?, How Long Is a Minute? Test your own sense of time. About ₹150 to ₹400. A phone stopwatch works well.",
+   "url": "https://www.amazon.in/s?k=digital+stopwatch",
+   "used_in": [
+    "e1",
+    "e3",
+    "a1",
+    "c1"
+   ],
+   "plan": "Get it before The Sinking Cup Clock: does it sink in the same time every round?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Fist Ruler: does a child's fist measure the same piece of sky as a grown-up's?, The Leaking Bottle Clock: does water run out at the same speed all the way?, A Day of 60 Nazhigai: draw the old Indian day wheel. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e2",
+    "e3",
+    "a2",
+    "a4"
+   ],
+   "plan": "Get it before The Fist Ruler: does a child's fist measure the same piece of sky as a grown-up's?."
+  },
+  {
+   "id": "b-modelling-clay-or-plasticine",
+   "item": "Modelling clay or plasticine",
+   "kind": "material",
+   "why": "Used in Eratosthenes on the Phone: compare noon shadows with someone in another city, Be a Babylonian Sky-Writer: tonight's sky on a dough tablet. About ₹40 to ₹120. Atta dough mixed with a little salt works.",
+   "url": "https://www.amazon.in/s?k=modelling+clay+plasticine",
+   "used_in": [
+    "a4",
+    "a5"
+   ],
+   "plan": "Get it before Eratosthenes on the Phone: compare noon shadows with someone in another city."
+  },
+  {
+   "id": "b-paper-masking-tape",
+   "item": "Paper masking tape",
+   "kind": "material",
+   "why": "Used in The Window Calendar: does the Sun set in the same place every day?. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor.",
+   "url": "https://www.amazon.in/s?k=paper+masking+tape",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before The Window Calendar: does the Sun set in the same place every day?."
+  },
+  {
+   "id": "b-sticky-notes",
+   "item": "Sticky notes",
+   "kind": "material",
+   "why": "Used in The Fist Ruler: does a child's fist measure the same piece of sky as a grown-up's?. About ₹20 to ₹60. Small torn paper and tape do the same job.",
+   "url": "https://www.amazon.in/s?k=sticky+notes+pack",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before The Fist Ruler: does a child's fist measure the same piece of sky as a grown-up's?."
+  },
+  {
+   "id": "b-wooden-ice-cream-sticks--a-p",
+   "item": "Wooden ice-cream sticks (a pack)",
+   "kind": "material",
+   "why": "Used in Be a Babylonian Sky-Writer: tonight's sky on a dough tablet. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in.",
+   "url": "https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack",
+   "used_in": [
+    "a5"
+   ],
+   "plan": "Get it before Be a Babylonian Sky-Writer: tonight's sky on a dough tablet."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

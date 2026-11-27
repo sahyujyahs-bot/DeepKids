@@ -512,11 +512,11 @@
       "t": "mcq",
       "q": "A camphor tablet left on a plate gets smaller every day. Where did the camphor go?",
       "options": [
-       "It was destroyed",
        "Into the air, as camphor particles",
+       "It was destroyed",
        "Into the plate"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Camphor particles leave the tablet and go into the air. That is why a room with camphor smells of it: the particles reach your nose. Picking 'destroyed' is the usual first guess, because we can't see where it went. Picking 'into the plate' is a good thought, but the plate stays dry and does not smell."
      }
     },
@@ -636,10 +636,10 @@
       "q": "A 5 by 5 square has 25 beans. How many touch the water at the start?",
       "options": [
        "All 25",
-       "16",
-       "9"
+       "9",
+       "16"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The outside ring has 16 beans. The 9 in the middle are covered on every side. Picking 'all 25' means forgetting that water can only reach the outside. Picking 9 counts the middle instead of the edge."
      }
     },
@@ -1209,11 +1209,11 @@
       "t": "mcq",
       "q": "You crushed sugar into powder so fine that the grains are hard to see. Is it still sugar?",
       "options": [
-       "Yes, it is still sweet, just in smaller pieces",
        "No, crushing turns it into something else",
-       "Only the big pieces are sugar"
+       "Only the big pieces are sugar",
+       "Yes, it is still sweet, just in smaller pieces"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Each tiny piece of powder is still made of sugar particles, so it still tastes sweet. If you could keep going, the smallest piece of sugar would be one sugar particle. Picking 'turns it into something else' is a fair thought, because the powder looks different, softer and whiter. But it tastes the same."
      }
     }
@@ -1289,11 +1289,11 @@
       "t": "mcq",
       "q": "After 30 minutes, the top tasted plain and the bottom tasted very sweet. What does this show?",
       "options": [
-       "Sugar particles stay where they are and never move",
        "Sugar particles do spread by themselves, but very slowly",
+       "Sugar particles stay where they are and never move",
        "The top water has no particles in it"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Sugar particles are always moving, so they do spread out on their own. This spreading is called diffusion. But through water it is very slow: it would take many days to reach the top of the glass. Picking 'never move' is a fair reading of what you tasted, but in a few days the top would get sweet. Picking 'the top has no particles' forgets that the water itself is made of particles."
      }
     },
@@ -1379,11 +1379,11 @@
       "t": "mcq",
       "q": "Suppose the ants gather at the sugar water drop and leave the plain water alone. How did they find it?",
       "options": [
-       "They saw the sugar",
        "They sensed the sugar particles with their antennae",
+       "They saw the sugar",
        "It was luck"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Ants smell and taste with their antennae. When an ant touches the sugar water, her antennae pick up the sugar particles, so she can tell sugar water from plain water. Then she lays a scent trail so other ants can find it too. Picking 'they saw it' is a natural guess, but the sugar particles are too small for anyone to see. Picking 'luck' is worth testing: try again with the drops swapped."
      }
     },
@@ -1704,10 +1704,10 @@
    "p": "What is everything around you made of?",
    "opts": [
     "Particles only in solids, not in water or air",
-    "Particles far too small to see, in solids, liquids and gases",
-    "Grains you can see with a magnifying glass"
+    "Grains you can see with a magnifying glass",
+    "Particles far too small to see, in solids, liquids and gases"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Solids, liquids and gases are all made of particles far too small to see. Picking 'only in solids' means thinking water and air are smooth all the way down, with no pieces. Picking 'grains you can see' confuses grains, which are huge heaps of particles, with particles.",
    "outcome": 0
   },
@@ -1716,10 +1716,10 @@
    "p": "You stir sugar into water and the grains disappear. Where is the sugar now?",
    "opts": [
     "It has been destroyed",
-    "Spread through the water as tiny sugar particles",
-    "It has turned into water"
+    "It has turned into water",
+    "Spread through the water as tiny sugar particles"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The sugar broke into particles too small to see, and they spread among the water particles. Picking 'destroyed' is the most common guess, because we trust our eyes. Picking 'turned into water' misses that the water tastes sweet: the sugar is still sugar.",
    "outcome": 1
   },
@@ -1727,11 +1727,11 @@
    "t": "mcq",
    "p": "On a kitchen scale, a closed bottle of water and a packet of sugar weigh 120 grams together. You pour the sugar into the bottle, close it and shake it until the sugar is gone. You put the bottle and the empty packet back on the scale. What does the scale show?",
    "opts": [
-    "Less than 120 grams",
     "120 grams",
+    "Less than 120 grams",
     "More than 120 grams"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Every sugar particle is still in the bottle, so the weight stays the same. Picking 'less' means thinking dissolved sugar weighs nothing. Picking 'more' is a guess that sugar water is heavier than water and sugar apart, but nothing was added.",
    "outcome": 2,
    "how": "e1"
@@ -1740,11 +1740,11 @@
    "t": "mcq",
    "p": "In the hanger balance test, why did we first lift the sugar packet out of the bag and watch the straw?",
    "opts": [
-    "To check that the balance could feel the weight of the sugar",
     "To let the sugar cool down",
-    "To make the test go faster"
+    "To make the test go faster",
+    "To check that the balance could feel the weight of the sugar"
    ],
-   "a": 0,
+   "a": 2,
    "why": "If the balance moved when the packet was lifted out, we knew it could feel the sugar. So when it did not move after dissolving, we knew the sugar had not lost any weight.",
    "outcome": 2,
    "how": "e1"
@@ -1766,11 +1766,11 @@
    "t": "mcq",
    "p": "You want to test whether stirring makes sugar dissolve faster. What should you keep the same?",
    "opts": [
-    "Nothing, it doesn't matter",
     "The water, the glass and the amount of sugar",
+    "Nothing, it doesn't matter",
     "Only the glass"
    ],
-   "a": 1,
+   "a": 0,
    "why": "In a fair test only one thing changes, here the stirring. Everything else stays the same, so you know the stirring made the difference.",
    "outcome": 3
   },
@@ -1791,10 +1791,10 @@
    "p": "Someone says, 'Sugar melts in tea because the tea is hot.' What is wrong with this?",
    "opts": [
     "Nothing, it is right",
-    "Sugar dissolves even in cold water, so it is dissolving, not melting",
-    "Sugar never goes into tea"
+    "Sugar never goes into tea",
+    "Sugar dissolves even in cold water, so it is dissolving, not melting"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Sugar dissolves in ice-cold water too. Melting sugar needs a dry pan at about 186 degrees Celsius. Hot tea only makes dissolving faster.",
    "outcome": 4
   },
@@ -1802,11 +1802,11 @@
    "t": "mcq",
    "p": "Some people once said that when silver dissolves in a strong acid, the silver stops existing. Which result would show they were wrong?",
    "opts": [
-    "Getting the same silver back out of the acid",
     "Seeing nothing in the acid",
+    "Getting the same silver back out of the acid",
     "Weighing the air"
    ],
-   "a": 0,
+   "a": 1,
    "why": "If the silver had stopped existing, nobody could get it back. So it must have been there all along, as tiny particles. A doctor called Daniel Sennert did this in the 1600s.",
    "outcome": 5
   },
@@ -1827,11 +1827,11 @@
    "t": "mcq",
    "p": "Ants went to a drop of sugar water and left a drop of plain water alone. The drops looked the same. How did the ants know?",
    "opts": [
-    "They sensed the sugar particles with their antennae",
     "They saw the sugar",
+    "They sensed the sugar particles with their antennae",
     "They guessed"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Ants smell and taste with their antennae. When an ant touches the sugar water, she picks up the sugar particles and knows it is food. Nobody can see dissolved sugar.",
    "outcome": 2,
    "how": "a4"
@@ -1859,11 +1859,11 @@
      "t": "mcq",
      "p": "Which of these is made of particles?",
      "opts": [
+      "A stone, water and air",
       "Only a stone",
-      "Only water",
-      "A stone, water and air"
+      "Only water"
      ],
-     "a": 2,
+     "a": 0,
      "why": "Solids, liquids and gases are all made of particles. Picking only the stone means thinking only hard things have pieces."
     },
     {
@@ -1881,11 +1881,11 @@
      "t": "mcq",
      "p": "In the hanger balance test, what happened to the straw pointer when the sugar dissolved?",
      "opts": [
+      "It stayed at the line",
       "It swung towards bottle A",
-      "It swung towards bottle B",
-      "It stayed at the line"
+      "It swung towards bottle B"
      ],
-     "a": 2,
+     "a": 0,
      "why": "The sugar was still in the bottle, so the weight did not change and the balance stayed level.",
      "how": "e1"
     },
@@ -2064,10 +2064,10 @@
      "p": "When a sugar grain dissolves, which particles leave first?",
      "opts": [
       "The ones in the middle",
-      "The ones on the outside",
-      "All of them at once"
+      "All of them at once",
+      "The ones on the outside"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Water can only reach the outside of the grain, so the outside particles leave first. That is why corners go round first.",
      "how": "g2"
     },
@@ -2075,11 +2075,11 @@
      "t": "mcq",
      "p": "The tablet of camphor in a closed jar hardly shrank in a week. Why?",
      "opts": [
-      "Camphor in jars cannot move",
       "The camphor particles could not escape, so the air in the jar filled up with them",
+      "Camphor in jars cannot move",
       "The jar was cold"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Particles leave the tablet in the jar too. But they stay trapped, so soon as many go back onto the tablet as leave it.",
      "how": "p1"
     },
@@ -2218,10 +2218,10 @@
      "p": "You put a camphor tablet in an empty jar, close the lid tight, and weigh the jar every day for a week. What happens to the weight of the closed jar?",
      "opts": [
       "It goes down",
-      "It stays the same",
-      "It goes up"
+      "It goes up",
+      "It stays the same"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Some camphor particles leave the tablet, but they stay in the air inside the closed jar. Nothing escapes, so the total weight stays the same."
     },
     {
@@ -2240,10 +2240,10 @@
      "p": "Which test would best show that dissolved salt is still in water, without tasting?",
      "opts": [
       "Looking at the water closely",
-      "Letting a few drops dry on a clean steel plate",
-      "Smelling the water"
+      "Smelling the water",
+      "Letting a few drops dry on a clean steel plate"
      ],
-     "a": 1,
+     "a": 2,
      "why": "When the water goes into the air, the salt particles stay behind and gather into white grains again. Looking cannot work, because the particles are too small to see."
     },
     {
@@ -2251,10 +2251,10 @@
      "p": "In the old days, some scientists said particles were not real because nobody could see one. What is the problem with that reason?",
      "opts": [
       "Nothing, it is a good reason",
-      "Many real things are too small to see, and we can find them in other ways",
-      "Particles are big enough to see"
+      "Particles are big enough to see",
+      "Many real things are too small to see, and we can find them in other ways"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Tasting, weighing and the ants all found sugar we could not see. Not being able to see something does not show it is not there."
     },
     {
@@ -2592,6 +2592,55 @@
    "used_in": [
     "p1"
    ]
+  },
+  {
+   "id": "b-kitchen-scale",
+   "item": "Digital kitchen scale, reads to 1 gram",
+   "kind": "tool",
+   "why": "It weighs the sugar in the hanger test and the dry-sugar challenge. About ₹250 to ₹600 for a digital kitchen scale at an electronics or kitchen shop. The hanger balance still works without one, so this is optional.",
+   "url": "https://www.amazon.in/s?k=digital+kitchen+scale",
+   "used_in": [
+    "e1",
+    "c1"
+   ],
+   "plan": "Buy it only if you want to weigh the sugar, before the Hanger Balance test."
+  },
+  {
+   "id": "b-magnifier-sugar",
+   "item": "Magnifying glass, about 75 millimetres wide",
+   "kind": "tool",
+   "why": "It lets the children look closely at grains of sugar, salt and kalkandu. About ₹50 to ₹150 at a stationery or science shop. A phone camera zoomed in as far as it goes works as the household alternative.",
+   "url": "https://www.amazon.in/s?k=magnifying+glass+for+children",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Buy it before the Zoom In on a Grain activity."
+  },
+  {
+   "id": "b-dice",
+   "item": "Dice, two",
+   "kind": "game",
+   "why": "The Dissolve Race board game is played by rolling dice. About ₹20 to ₹40 for a pair at a stationery or toy shop. A dice app on a phone works too.",
+   "url": "https://www.amazon.in/s?k=dice",
+   "used_in": [
+    "g2"
+   ],
+   "plan": "Buy them before you play the Dissolve Race game."
+  },
+  {
+   "id": "b-print-particles",
+   "item": "Printed pages for the game cards, mat, key cards and worksheets, about 15 pages",
+   "kind": "material",
+   "why": "The two games use 16 printed cards, four key cards and a 25-circle mat, and the worksheets are printed too. A copy shop charges about ₹1 to ₹2 a page, so the set costs about ₹15 to ₹30.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print these before the first game."
   }
  ],
  "warmup": [

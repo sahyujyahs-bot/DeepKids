@@ -593,11 +593,11 @@
       "t": "mcq",
       "q": "Square 4 is twice as far as square 2. About how many times as many flips did it take?",
       "options": [
-       "About 3 to 4 times as many",
        "About the same",
-       "Exactly twice as many"
+       "Exactly twice as many",
+       "About 3 to 4 times as many"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Twice as far takes about four times as long, because each step forward can be undone by a step back. The averages are about 6 flips for square 2 and 20 for square 4, which is between 3 and 4 times more. Many people guess 'exactly twice as many' first, because they think of the walk as a straight run."
      },
      "context": "In this step, you play the ant, a longer trip."
@@ -824,11 +824,11 @@
       "t": "mcq",
       "q": "Most crabs breathe water with gills. Which crab on the cards breathes air?",
       "options": [
-       "A coconut crab",
        "A mud crab",
+       "A coconut crab",
        "A prawn"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Most crabs breathe water with gills. The coconut crab lives on land and breathes air with a lung-like organ. The mud crab and the prawn both breathe water with gills."
      },
      "context": "In this step, you play the last ten cards."
@@ -973,11 +973,11 @@
       "t": "mcq",
       "q": "Why do we cut all the pieces from the same jelly?",
       "options": [
-       "So the only difference between them is size and shape",
        "So the jelly goes further",
-       "So the colour is darker"
+       "So the colour is darker",
+       "So the only difference between them is size and shape"
       ],
-      "a": 0,
+      "a": 2,
       "why": "If the jellies were different, we would not know if the colour went in differently because of the size or because of the jelly. The same jelly makes it a fair test."
      },
      "parent": "The big cube must be a true 2 centimetre cube. Cut straight down. If the pieces break, cut new ones from the leftover jelly.",
@@ -1149,11 +1149,11 @@
       "t": "mcq",
       "q": "Why must all three glasses have the same amount of water, and the same amount of sugar?",
       "options": [
-       "So that only the shape of the sugar is different",
        "So the glasses look neat",
+       "So that only the shape of the sugar is different",
        "So the sugar tastes the same"
       ],
-      "a": 0,
+      "a": 1,
       "why": "If the water or sugar were different, we would not know whether the shape made the difference. Changing one thing at a time makes it a fair test."
      },
      "parent": "Use one cube for each. The broken and crushed sugar must weigh the same as the whole one, so do not lose any pieces from the cloth.",
@@ -1187,11 +1187,11 @@
       "t": "mcq",
       "q": "Why do we repeat the test?",
       "options": [
-       "One try can be a fluke, so a second try makes us surer",
        "To use up the sugar",
+       "One try can be a fluke, so a second try makes us surer",
        "Because the first result is always wrong"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A single try can be unusual because of a draught, a bit of stirring, or a different lump. If the second result agrees, we can trust the pattern more."
      },
      "context": "In this step, you repeat the test to check it."
@@ -1316,11 +1316,11 @@
       "t": "mcq",
       "q": "Why do we put the drop in each glass in the same way?",
       "options": [
-       "So the way we add the colour does not change the result",
        "So the glasses look the same",
-       "So we use up the colour"
+       "So we use up the colour",
+       "So the way we add the colour does not change the result"
       ],
-      "a": 0,
+      "a": 2,
       "why": "If one drop were dropped from high up, it would push into the water and mix by itself. The same gentle drop in each glass keeps the test fair."
      },
      "context": "In this step, you add the colour and stir only the third glass."
@@ -1448,11 +1448,11 @@
       "t": "mcq",
       "q": "A flat body is 10 cells wide. Which is bigger, its edge ring or its middle?",
       "options": [
-       "Its middle, with 64 cells against 36",
        "Its edge ring, with 40 cells against 60",
-       "They are the same"
+       "They are the same",
+       "Its middle, with 64 cells against 36"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A 10 wide square has 100 cells. The ring has 4 times 10 minus 4, which is 36 cells. The middle has 100 minus 36, which is 64 cells. In a wider body, most cells are far from the edge, and drifting oxygen has a long way to reach them."
      },
      "context": "In this step, you count the cells and find the pattern."
@@ -1671,11 +1671,11 @@
       "t": "mcq",
       "q": "A diving beetle carries a bubble of air under her wing covers when she dives. What does the air bubble do?",
       "options": [
-       "It gives her air to breathe under water",
        "It makes her float like a cork",
+       "It gives her air to breathe under water",
        "It keeps her warm"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Her air tubes open into the bubble. She breathes the air from it, and the bubble also gets a little more oxygen from the water. 'It makes her float' is partly true, because air makes her lighter, but she uses the bubble mainly to breathe."
      },
      "parent": "Diving beetles and some water bugs trap air on hairs and under their wings. Some bugs keep a very thin layer of air on tiny hairs that works a little like a gill, because oxygen can drift from the water into the air layer as they use it.",
@@ -2005,11 +2005,11 @@
       "t": "mcq",
       "q": "In the model, what does the blowing stand for?",
       "options": [
-       "An insect pumping her belly to push air along her tubes",
        "A crab drinking water",
-       "A worm breathing through her skin"
+       "A worm breathing through her skin",
+       "An insect pumping her belly to push air along her tubes"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Blowing is the pump. A big insect pumps her belly to push air along her tubes, so air reaches the far parts faster than drifting alone would."
      },
      "context": "In this step, you blow and watch which strips move.",
@@ -2241,11 +2241,11 @@
      "t": "mcq",
      "p": "In Colour Cubes, the colour crept in about the same distance whatever the size of the piece. Why did the big cube keep a clear middle?",
      "opts": [
-      "The colour could not travel far enough into the middle in that time",
       "The big cube was made of different jelly",
-      "Colour only goes into small things"
+      "Colour only goes into small things",
+      "The colour could not travel far enough into the middle in that time"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The edge was about the same width on every piece. The middle of the big cube was too far from the edge for the colour to reach in 40 minutes. The jelly was the same, and colour does go into big things, just slowly.",
      "outcome": 0,
      "how": "e1"
@@ -2419,11 +2419,11 @@
      "t": "mcq",
      "p": "What does the gill bailer of a crab do?",
      "opts": [
-      "It pushes water over her gills",
       "It catches food",
+      "It pushes water over her gills",
       "It helps her to walk"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The gill bailer is a flap near her mouth that beats back and forth. It draws water past her gills so fresh water with new oxygen keeps arriving.",
      "outcome": 3
     },
@@ -2446,11 +2446,11 @@
      "t": "mcq",
      "p": "A cube 1 centimetre wide has 6 square centimetres of outside and 1 cubic centimetre of inside. A cube 2 centimetres wide has 24 square centimetres outside and 8 cubic centimetres inside. How does the outside for each bit of inside change?",
      "opts": [
-      "It is half as much",
       "It is the same",
-      "It is twice as much"
+      "It is twice as much",
+      "It is half as much"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The small cube has 6 square centimetres of outside for 1 cubic centimetre of inside. The big cube has 24 square centimetres of outside for 8 cubic centimetres of inside, which works out to 3 square centimetres for each one. Three is half of six, so each bit of inside has half as much outside.",
      "outcome": 1
     },
@@ -2475,11 +2475,11 @@
      "t": "mcq",
      "p": "Air holds about 30 times more oxygen than the same amount of water. A crab needs the oxygen from 3 litres of air. About how much water must pass over her gills?",
      "opts": [
-      "About 90 litres",
       "About 3 litres",
+      "About 90 litres",
       "About 30 litres"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Water has about one-thirtieth the oxygen, so she needs about 30 times as much. 3 times 30 is 90 litres. This is why gills need a lot of moving water.",
      "outcome": 4
     },
@@ -2532,11 +2532,11 @@
      "t": "mcq",
      "p": "An ant manages with open blood. What is the reason?",
      "opts": [
-      "Her air tubes bring the oxygen, not her blood",
       "Her blood is red",
+      "Her air tubes bring the oxygen, not her blood",
       "She is too big for closed blood"
      ],
-     "a": 0,
+     "a": 1,
      "why": "In an insect the air tubes take oxygen straight to the cells. The blood does not have to carry it fast, so a simple heart and open blood are enough.",
      "outcome": 5
     },
@@ -2651,11 +2651,11 @@
      "t": "mcq",
      "p": "In Drop and Stir, the stirred glass was evenly coloured in seconds, but the still glass stayed patchy. What does this suggest about how a crab breathes?",
      "opts": [
-      "Moving water brings fresh water to the gills much faster than waiting",
       "Stirring makes more oxygen",
-      "Crabs stir the water for fun"
+      "Crabs stir the water for fun",
+      "Moving water brings fresh water to the gills much faster than waiting"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Still water spreads slowly, so the water next to the gills would soon run out of oxygen. A gill bailer keeps fresh water arriving.",
      "outcome": 3,
      "how": "e3"
@@ -2705,11 +2705,11 @@
      "t": "mcq",
      "p": "A crab lives in warm water that holds little oxygen. Which change would help a bigger crab get enough?",
      "opts": [
-      "More gill surface and faster flow of water over it",
       "A thicker skin",
-      "Sleeping all day"
+      "Sleeping all day",
+      "More gill surface and faster flow of water over it"
      ],
-     "a": 0,
+     "a": 2,
      "why": "More surface lets more oxygen drift in, and faster flow keeps fresh water arriving. Thicker skin would slow the drift down.",
      "outcome": 3
     },
@@ -2802,11 +2802,11 @@
      "t": "mcq",
      "p": "Scientists disagree about why the giant insects of long ago died out. What is the honest thing to say?",
      "opts": [
-      "Several ideas fit the facts, and nobody knows for sure",
       "Oxygen was the only cause",
+      "Several ideas fit the facts, and nobody knows for sure",
       "Birds ate them all"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Oxygen, flying hunters and body weight are all suggested. The fossils have gaps, so we cannot yet tell which, or which together, is right.",
      "outcome": 7
     },
@@ -2863,11 +2863,11 @@
      "t": "mcq",
      "p": "When is a still, weedy pond lowest in oxygen?",
      "opts": [
-      "Just before sunrise",
       "In the middle of a sunny afternoon",
-      "Just after sunset"
+      "Just after sunset",
+      "Just before sunrise"
      ],
-     "a": 0,
+     "a": 2,
      "why": "In the dark, the plants cannot make oxygen, but plants and animals keep using it. By dawn the night's use has added up, and the oxygen is lowest.",
      "outcome": 4
     }
@@ -2879,11 +2879,11 @@
    "t": "mcq",
    "p": "How does the time a drifting particle takes change when the distance doubles?",
    "opts": [
-    "Twice as far takes about four times as long",
     "Twice as far takes twice as long",
-    "Distance makes no difference to the time"
+    "Distance makes no difference to the time",
+    "Twice as far takes about four times as long"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Drifting is a random wander, so each step forward can be undone. The time goes up with the square of the distance.",
    "outcome": 0
   },
@@ -2891,11 +2891,11 @@
    "t": "mcq",
    "p": "Which has more outside for each bit of inside?",
    "opts": [
-    "A small cube",
     "A big cube",
-    "They are the same"
+    "They are the same",
+    "A small cube"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Take a 1 centimetre cube and a 2 centimetre cube. The small one has 6 square centimetres of outside for 1 cubic centimetre of inside. The big one has 24 square centimetres of outside for 8 cubic centimetres of inside, which is only 3 square centimetres of outside for each cubic centimetre.",
    "outcome": 1
   },
@@ -2903,11 +2903,11 @@
    "t": "mcq",
    "p": "Which animal gets most of her air through her skin?",
    "opts": [
-    "An earthworm",
     "A mud crab",
-    "An ant"
+    "An ant",
+    "An earthworm"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The earthworm is thin and has a wet skin. The crab uses gills, and the ant uses air tubes.",
    "outcome": 2
   },
@@ -2915,11 +2915,11 @@
    "t": "mcq",
    "p": "A caterpillar has a row of dark dots down her sides. What are they for?",
    "opts": [
-    "They let air in to her air tubes",
     "They are her eyes",
+    "They let air in to her air tubes",
     "They are where she tastes"
    ],
-   "a": 0,
+   "a": 1,
    "why": "They are spiracles. Air goes in through them and along the tubes to the parts that need it.",
    "outcome": 2
   },
@@ -2939,11 +2939,11 @@
    "t": "mcq",
    "p": "A fish farmer sees fish gasping at dawn in a still, warm tank. What should she do first?",
    "opts": [
-    "Add air to the water, move it, and cool it",
     "Feed them more",
-    "Add salt"
+    "Add salt",
+    "Add air to the water, move it, and cool it"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Still, warm water holds little oxygen, and the night has used it up. Moving and aerating the water brings oxygen back.",
    "outcome": 4
   },
@@ -2951,11 +2951,11 @@
    "t": "mcq",
    "p": "Whose blood carries most of the oxygen to the cells?",
    "opts": [
-    "A person",
     "An ant",
-    "A caterpillar"
+    "A caterpillar",
+    "A person"
    ],
-   "a": 0,
+   "a": 2,
    "why": "People carry oxygen in red blood. In ants and caterpillars, air tubes take the oxygen directly to the cells.",
    "outcome": 5
   },
@@ -2988,11 +2988,11 @@
    "t": "mcq",
    "p": "Which of these do scientists still argue about?",
    "opts": [
-    "Why the giant insects died out",
     "Whether insects have air tubes",
-    "Whether crabs have gills"
+    "Whether crabs have gills",
+    "Why the giant insects died out"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Insects do have air tubes and crabs do have gills. Why the giants disappeared is not settled.",
    "outcome": 7
   },
@@ -3000,11 +3000,11 @@
    "t": "mcq",
    "p": "A spider has thin plates stacked inside her belly. What are they called?",
    "opts": [
-    "Book lungs",
     "Gills",
+    "Book lungs",
     "Spiracles"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A book lung is a stack of thin plates, like the pages of a book. Air flows between them and blood flows through them.",
    "outcome": 2
   },
@@ -3012,11 +3012,11 @@
    "t": "mcq",
    "p": "In Colour Cubes, a thin slice was coloured right through but the 2 centimetre cube kept a clear middle. Why?",
    "opts": [
-    "The middle of the big cube was too far from the edge for the colour to reach in that time",
     "The slice was a different jelly",
-    "The big cube had no room"
+    "The big cube had no room",
+    "The middle of the big cube was too far from the edge for the colour to reach in that time"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The colour crept in about the same few millimetres on each piece. The slice was thin enough to be reached from both sides, and the big cube was not.",
    "outcome": 0,
    "how": "e1"
@@ -3310,6 +3310,82 @@
    "used_in": [
     "a5"
    ]
+  },
+  {
+   "id": "b-a-thermometer--for-water-or-",
+   "item": "A thermometer (for water or room, 0 to 110 °C)",
+   "kind": "tool",
+   "why": "Used in Drop and Stir: why do crabs move water over their gills?. About ₹30 to ₹150. A kitchen or fever thermometer works for some tests.",
+   "url": "https://www.amazon.in/s?k=lab+thermometer+110+c",
+   "used_in": [
+    "e3"
+   ],
+   "plan": "Get it before Drop and Stir: why do crabs move water over their gills?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Colour Cubes: how far does colour creep into jelly?, Ring or Core: how much of a body is near the edge?, Pipes or a Wet Sponge: two kinds of blood. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "a1",
+    "a5",
+    "p1",
+    "c2"
+   ],
+   "plan": "Get it before Colour Cubes: how far does colour creep into jelly?."
+  },
+  {
+   "id": "b-modelling-clay-or-plasticine",
+   "item": "Modelling clay or plasticine",
+   "kind": "material",
+   "why": "Used in Pipes or a Wet Sponge: two kinds of blood, Air Tubes in a Roll: a model of an insect's breathing. About ₹40 to ₹120. Atta dough mixed with a little salt works.",
+   "url": "https://www.amazon.in/s?k=modelling+clay+plasticine",
+   "used_in": [
+    "a5",
+    "p1"
+   ],
+   "plan": "Get it before Pipes or a Wet Sponge: two kinds of blood."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Air Tubes in a Roll: a model of an insect's breathing. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before Air Tubes in a Roll: a model of an insect's breathing."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in Dry Finger: carrying a bubble of air under water, Air Tubes in a Roll: a model of an insect's breathing. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "a3",
+    "p1"
+   ],
+   "plan": "Get it before Dry Finger: carrying a bubble of air under water."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

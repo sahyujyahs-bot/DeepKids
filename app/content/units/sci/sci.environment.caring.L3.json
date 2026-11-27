@@ -490,11 +490,11 @@
       "t": "mcq",
       "q": "Which box suits a dry moong seed best?",
       "options": [
-       "Non-living and natural",
        "Living and natural",
+       "Non-living and natural",
        "Non-living and made by people"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A dry moong seed is alive. Given water, the seed sprouts. Many people first say 'non-living', because a dry seed does not move or grow."
      }
     },
@@ -632,10 +632,10 @@
       "q": "In the game, what happens to a wrapper token put on the River square?",
       "options": [
        "It leaves the board",
-       "It stays on the board until someone moves it",
-       "It turns into a water drop"
+       "It turns into a water drop",
+       "It stays on the board until someone moves it"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Nothing leaves the board, just as nothing thrown away leaves the Earth. Even the Dump yard is beside the board. Choosing 'it leaves the board' comes from the habit of thinking that what we throw away is gone."
      }
     }
@@ -825,10 +825,10 @@
       "q": "What came into the closed box from outside during the week?",
       "options": [
        "Water",
-       "Fresh air",
-       "Only light"
+       "Only light",
+       "Fresh air"
       ],
-      "a": 2,
+      "a": 1,
       "why": "The lid kept water and air in and kept new water and air out. Only light came through the clear plastic. Picking 'fresh air' is a common guess, because we feel plants must need new air. The seedlings used the same air again and again."
      }
     }
@@ -1127,10 +1127,10 @@
       "q": "You hear a temple bell from your window. Which box does the bell go in?",
       "options": [
        "Living and natural",
-       "Non-living and natural",
-       "Non-living and made by people"
+       "Non-living and made by people",
+       "Non-living and natural"
       ],
-      "a": 2,
+      "a": 1,
       "why": "A bell is made of metal by people, and it is not alive. The sound reaches you through the air. People pick 'natural' when they think of the sound travelling through the air, which is natural, and not of the bell that makes it."
      }
     }
@@ -1215,11 +1215,11 @@
       "t": "mcq",
       "q": "A plastic wrapper is washed down a street drain. Where is the wrapper most likely to end up?",
       "options": [
-       "It disappears",
        "In a river, a lake or the sea, or stuck in the drain",
+       "It disappears",
        "It turns into soil within a week"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Plastic does not rot away within weeks, and it does not disappear. Drains carry it to rivers, lakes and the sea, or it blocks the drain. 'It disappears' is the 'away' habit: thinking that what we cannot see any more has stopped existing."
      }
     }
@@ -1730,11 +1730,11 @@
       "t": "mcq",
       "q": "Why should the water in a bird bowl be changed every day?",
       "options": [
-       "So mosquito eggs in it never have time to hatch into mosquitoes",
        "Because birds only drink fresh water once",
-       "To make it colder"
+       "To make it colder",
+       "So mosquito eggs in it never have time to hatch into mosquitoes"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Mosquitoes lay eggs in still water, and the young take several days to grow into flying mosquitoes. Changing the water every day tips them out before that. Some mosquitoes spread dengue, so this matters for people too."
      }
     }
@@ -1804,11 +1804,11 @@
       "t": "mcq",
       "q": "Why does a tea strainer not stop oil going down the sink?",
       "options": [
-       "Oil is a liquid, so it flows through the holes",
        "Oil is too heavy",
-       "Oil turns into water in the sink"
+       "Oil turns into water in the sink",
+       "Oil is a liquid, so it flows through the holes"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Oil is a liquid, like water, so it runs through the mesh. Wiping the pan with paper first catches it. In the pipes, cooled oil and fat can stick and build up into a blockage."
      }
     }
@@ -1857,10 +1857,10 @@
    "p": "What does the word 'environment' mean?",
    "opts": [
     "Only forests, rivers and wild animals",
-    "Everything around a living thing that affects them",
-    "Only the things people have built"
+    "Only the things people have built",
+    "Everything around a living thing that affects them"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The environment is everything around a living thing that affects them: air, water, soil, light, other living things and things people make. Picking 'only forests' is a common idea, but a city flat has an environment too.",
    "outcome": 0
   },
@@ -1868,11 +1868,11 @@
    "t": "mcq",
    "p": "Which of these is part of the living environment?",
    "opts": [
-    "The sunlight on the floor",
     "The ants in the kitchen",
+    "The sunlight on the floor",
     "The water in the tap"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Ants are alive: they eat, breathe, grow and make young. Sunlight and tap water are important parts of the environment, but they are non-living, so they belong to the physical environment.",
    "outcome": 0
   },
@@ -1893,10 +1893,10 @@
    "p": "Which of these is a bit of both natural and made by people?",
    "opts": [
     "A cloud",
-    "A plastic bucket",
-    "A bowl of curd"
+    "A bowl of curd",
+    "A plastic bucket"
    ],
-   "a": 2,
+   "a": 1,
    "why": "People make curd by adding a spoon of old curd to warm milk, but living bacteria do the work of turning the milk into curd. A cloud is fully natural. A bucket is made by people.",
    "outcome": 1
   },
@@ -1904,11 +1904,11 @@
    "t": "mcq",
    "p": "In the Closed Box Test, drops formed on the inside of the closed lid. Where did the water in the drops come from?",
    "opts": [
-    "From the air outside the box",
     "From the cotton and the seedlings inside the box",
+    "From the air outside the box",
     "From the plastic of the lid"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The lid kept outside air out. Water evaporated from the wet cotton and the seedlings' leaves, then condensed on the cooler lid. Picking 'from outside' is common, because we expect water to have been brought in.",
    "outcome": 3,
    "how": "e1"
@@ -1930,11 +1930,11 @@
    "t": "mcq",
    "p": "How is Earth like the closed box in the Closed Box Test?",
    "opts": [
-    "New water rains in from space every day",
     "Sunlight comes in, but almost no new water or air arrives, so the same water and air go round",
+    "New water rains in from space every day",
     "Nothing at all comes in, not even light"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Sunlight reaches Earth from outside, and heat goes back out to space. But gravity holds the air and water close, and almost no new matter arrives. So water and air are used again and again.",
    "outcome": 4
   },
@@ -1942,11 +1942,11 @@
    "t": "mcq",
    "p": "In the story The Bottle on Ammamma's Shelf, Arjun washes leftover rasam down the sink. Where does the rasam go?",
    "opts": [
-    "It disappears",
     "Through drains to a treatment plant, a river, a lake or the sea",
+    "It disappears",
     "Back into Arjun's tap"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Nothing poured down a sink leaves the Earth. It travels through drains, and some is cleaned at treatment plants, before reaching rivers, lakes or the sea. Choosing 'it disappears' comes from the habit of thinking that what we wash away is gone.",
    "outcome": 5
   },
@@ -2075,10 +2075,10 @@
      "p": "Which of these is NOT part of a pigeon's environment on a city balcony?",
      "opts": [
       "the railing they sit on",
-      "the grain someone scatters",
-      "a lion in a forest far away"
+      "a lion in a forest far away",
+      "the grain someone scatters"
      ],
-     "a": 2,
+     "a": 1,
      "why": "A pigeon's environment is everything around them that affects them. A lion far away does not affect the pigeon. The railing and the grain do."
     },
     {
@@ -2167,10 +2167,10 @@
      "p": "A gecko waits next to the tube light every night. Why there?",
      "opts": [
       "The light warms the gecko like the Sun",
-      "Insects come to the light, so there is food there",
-      "Geckos like to look at bright things"
+      "Geckos like to look at bright things",
+      "Insects come to the light, so there is food there"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Many insects fly to lights at night, so the light brings the gecko food. This is a non-living part of the environment, the light, shaping where a living thing spends their time."
     },
     {
@@ -2229,11 +2229,11 @@
      "p": "In the Closed Box Test, both boxes are weighed on day 1 and day 7. The seedlings in the closed box grew taller. What happens to the closed box's weight?",
      "opts": [
       "It gets much heavier, because the seedlings grew",
-      "It stays about the same, because nothing went in or out",
-      "It gets much lighter, like the open box"
+      "It gets much lighter, like the open box",
+      "It stays about the same, because nothing went in or out"
      ],
      "how": "e1",
-     "a": 1,
+     "a": 2,
      "why": "Nothing went in or out of the closed box, so its weight stayed about the same, even though the seedlings grew. They were built from water and air that were already in the box. The open box got lighter, because water vapour left it."
     },
     {
@@ -2339,10 +2339,10 @@
      "p": "Which of these changes the environment the MOST?",
      "opts": [
       "one crow building a nest",
-      "people building a new city",
-      "an ant carrying a crumb"
+      "an ant carrying a crumb",
+      "people building a new city"
      ],
-     "a": 1,
+     "a": 2,
      "why": "One crow or ant makes only small changes. People build cities, cut and plant forests, dig lakes and send out smoke and sewage, so people change the environment the most."
     },
     {
@@ -2906,6 +2906,112 @@
     "a2"
    ],
    "plan": "Read a few pages after Where Is Away?, once your child has followed the kitchen water."
+  },
+  {
+   "id": "b-the-great-kapok-tree",
+   "item": "The Great Kapok Tree by Lynne Cherry",
+   "kind": "book",
+   "why": "A man falls asleep while trying to cut down a rainforest tree, and the animals who live in it whisper to him about why it matters. It shows how many living things depend on one tree.",
+   "url": "https://www.amazon.in/s?k=The+Great+Kapok+Tree",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Read it together after the lesson on caring for places."
+  },
+  {
+   "id": "b-a-magnifying-glass",
+   "item": "A magnifying glass",
+   "kind": "tool",
+   "why": "Used in Who Else Lives Here? A week of home neighbours. About ₹30 to ₹120. A water drop on clear plastic magnifies a little.",
+   "url": "https://www.amazon.in/s?k=magnifying+glass+kids",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before Who Else Lives Here? A week of home neighbours."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Drain Test: does washing powder in water change how seeds sprout?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before The Drain Test: does washing powder in water change how seeds sprout?."
+  },
+  {
+   "id": "b-insulated-wire-or-crocodile-",
+   "item": "Insulated wire or crocodile clips",
+   "kind": "tool",
+   "why": "Used in A Water Bowl for Birds on a Hot Balcony. About ₹20 to ₹80. Thin insulated wire from an old charger works.",
+   "url": "https://www.amazon.in/s?k=crocodile+clip+wire+set",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before A Water Bowl for Birds on a Hot Balcony."
+  },
+  {
+   "id": "b-modelling-clay-or-plasticine",
+   "item": "Modelling clay or plasticine",
+   "kind": "material",
+   "why": "Used in Natural, Made or Both? The kitchen hunt, A Bottle Garden to Keep, A Water Bowl for Birds on a Hot Balcony. About ₹40 to ₹120. Atta dough mixed with a little salt works.",
+   "url": "https://www.amazon.in/s?k=modelling+clay+plasticine",
+   "used_in": [
+    "a4",
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before Natural, Made or Both? The kitchen hunt."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in A Water Bowl for Birds on a Hot Balcony. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before A Water Bowl for Birds on a Hot Balcony."
+  },
+  {
+   "id": "b-cotton-wool",
+   "item": "Cotton wool",
+   "kind": "material",
+   "why": "Used in The Closed Box Test: can moong seedlings live with the lid on?, The Drain Test: does washing powder in water change how seeds sprout?. About ₹20 to ₹50. Torn clean cloth works.",
+   "url": "https://www.amazon.in/s?k=cotton+wool+roll",
+   "used_in": [
+    "e1",
+    "e2"
+   ],
+   "plan": "Get it before The Closed Box Test: can moong seedlings live with the lid on?."
+  },
+  {
+   "id": "b-a-kitchen-or-weighing-scale",
+   "item": "A kitchen or weighing scale",
+   "kind": "tool",
+   "why": "Used in The Closed Box Test: can moong seedlings live with the lid on?. About ₹300 to ₹700. A home-made balance from a ruler and two cups can compare weights.",
+   "url": "https://www.amazon.in/s?k=digital+kitchen+weighing+scale",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before The Closed Box Test: can moong seedlings live with the lid on?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

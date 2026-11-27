@@ -1,9 +1,9 @@
 # See-through and opaque: how we see clear things, and what really stops light
 `sci.light.transparent-opaque.L4`
 
-**Summary.** A clear glass marble almost vanishes in honey. Why, and why does a heap of clear sugar crystals look white? In this unit you will hide a clear thing, find a hidden marble three ways, and use two see-through filters to make darkness.
+**Summary.** A clear glass marble almost vanishes in honey. Why, and why does a heap of clear sugar crystals look white? In this lesson you will hide a clear thing, find a hidden marble three ways, and use two see-through filters to make darkness.
 
-**Intro.** *Put a clear glass marble in a jar of honey, and it almost vanishes. Take it out and it is easy to see again. The marble did not change, and neither did the honey. So what were you looking at when you saw the marble in the air?* A window is see-through, but we are very good at noticing when there is one, because we see the frame, the dust and the glints on the glass. In this unit you find out why we can see clear things at all, and what happens to every bit of light that falls on something. You will make a clear thing vanish, turn clear crystals white, and make two see-through filters give darkness. You will also meet some waves that go straight through things that stop light completely.
+**Intro.** *Put a clear glass marble in a jar of honey, and it almost vanishes. Take it out and it is easy to see again. The marble did not change, and neither did the honey. So what were you looking at when you saw the marble in the air?* A window is see-through, but we are very good at noticing when there is one, because we see the frame, the dust and the glints on the glass. In this lesson you find out why we can see clear things at all, and what happens to every bit of light that falls on something. You will make a clear thing vanish, turn clear crystals white, and make two see-through filters give darkness. You will also meet some waves that go straight through things that stop light completely.
 
 ## Learning outcomes
 0. I can explain that we see a clear thing only where light bends or bounces at its edges, and use this to explain why a clear marble almost vanishes in honey.
@@ -499,7 +499,7 @@ The bus stand was built beside the school instead. And every evening I still sit
 ## Worksheets
 ### Seeing the See-Through (core) (core, 16 questions)
 1. (mcq) Which of these best describes a translucent material, such as butter paper?  
-   Options: It lets light through, but scatters it, so you see a glow and no clear picture / It lets all light through in straight lines / It stops all light / It makes its own light  
+   Options: It lets all light through in straight lines / It stops all light / It lets light through, but scatters it, so you see a glow and no clear picture / It makes its own light  
    **Answer:** It lets light through, but scatters it, so you see a glow and no clear picture. *Why:* A translucent material passes on light but scatters it in many directions. A transparent material lets light through straight, and an opaque one lets none through.
 2. (fill) Every bit of light that meets a material is bounced back, soaked up, scattered or ____ on.  
    **Answer:** ['passed', 'passes']. *Why:* The four things that can happen to light are bounce, soak up, scatter and pass on. Together the four shares make up all of the light that fell.
@@ -518,7 +518,7 @@ The bus stand was built beside the school instead. And every evening I still sit
 8. (match) Match each word to what it means.  
    **Answer:** transparent → lets light through in straight lines, so you see clearly; translucent → lets light through but scatters it, so you see no clear picture; opaque → lets no visible light through; matching liquid → a liquid that bends light by about the same amount as a clear solid. *Why:* Transparent, translucent and opaque describe three ways of sharing out light among bounce, soak, scatter and pass. A matching liquid is what makes a clear thing nearly vanish.
 9. (mcq) Rock sugar candy is clear, but ground to powder it is white. Why?  
-   Options: The powder has thousands of tiny surfaces that scatter light in every direction / The sugar changes into a white material when it is crushed / The powder soaks up more light / The powder is heavier  
+   Options: The sugar changes into a white material when it is crushed / The powder soaks up more light / The powder has thousands of tiny surfaces that scatter light in every direction / The powder is heavier  
    **Answer:** The powder has thousands of tiny surfaces that scatter light in every direction. *Why:* Each grain is still clear. But light bends and bounces at every surface and zigzags through the heap, coming back out in all directions. Mixed light from every direction looks white.
 10. (truefalse) True or false: a heap of clear salt crystals looks white because salt is made of a white material.  
    **Answer:** False. *Why:* False. Each salt crystal is clear. The heap looks white because the many tiny surfaces scatter light in every direction.
@@ -536,7 +536,7 @@ The bus stand was built beside the school instead. And every evening I still sit
    **Answer:** 180. *Why:* A tenth of 200 is 20. Nine tenths is 9 times 20, which is 180. So 180 parts pass on.
 ### Where the Light Goes (stretch) (stretch, 17 questions)
 1. (mcq) Four identical sunglass lenses are held in a row. Each lets through half of the light that reaches it. What share of the original light gets through all four?  
-   Options: One sixteenth / One eighth / One quarter / Nothing at all  
+   Options: One eighth / One quarter / One sixteenth / Nothing at all  
    **Answer:** One sixteenth. *Why:* After the first lens a half is left. After the second, half of a half, which is a quarter. After the third, an eighth. After the fourth, a sixteenth. Each lens takes the same share of what reaches it.
 2. (count) A made-up lens passes one half of the light that reaches it. 640 parts of light fall on the first of three of these lenses in a row. How many parts get through the third lens?  
    **Answer:** 80. *Why:* Half of 640 is 320. Half of 320 is 160. Half of 160 is 80. So 80 parts get through all three.
@@ -546,7 +546,7 @@ The bus stand was built beside the school instead. And every evening I still sit
 4. (truefalse) True or false: a red fish deep in the sea is easy to spot with only sunlight.  
    **Answer:** False. *Why:* False. In the deep, only blue light is left, and a red animal soaks that blue up, so she looks black. This is one way red helps animals hide in deep water.
 5. (mcq) Ordinary window glass passes visible light but blocks most ultraviolet B light. What is the best explanation?  
-   Options: Ultraviolet photons carry enough energy to lift electrons in the glass, and visible photons do not / Ultraviolet is a colour that glass does not like / Glass is too thin for ultraviolet / Ultraviolet light is slower  
+   Options: Ultraviolet is a colour that glass does not like / Ultraviolet photons carry enough energy to lift electrons in the glass, and visible photons do not / Glass is too thin for ultraviolet / Ultraviolet light is slower  
    **Answer:** Ultraviolet photons carry enough energy to lift electrons in the glass, and visible photons do not. *Why:* Light comes in packets of energy. Ultraviolet packets carry more energy than visible ones. In glass, only the big packets are strong enough to move the electrons, so the glass soaks up ultraviolet and passes visible light.
 6. (fill) A trace of ____ in clear aluminium oxide turns it into a red ruby.  
    **Answer:** ['chromium']. *Why:* Pure aluminium oxide is clear. A tiny amount of chromium gives its electrons a jump that soaks up some colours of light, and the crystal looks red.
@@ -557,7 +557,7 @@ The bus stand was built beside the school instead. And every evening I still sit
 9. (match) Match each use of polarised light to what it does.  
    **Answer:** polarising sunglasses → cut the glare bouncing off water and wet roads; a bee or a desert ant → uses the pattern of polarised light in the sky as a compass; a dung beetle → keeps a straight line by the polarised light of the Moon; a laptop screen with a polarising lens → goes dark when the lens is turned a quarter turn. *Why:* Light that bounces off a flat shiny surface is partly polarised, and so is light from the sky and from many screens. Filters and some animals can sort light by its wiggle direction.
 10. (mcq) A wet piece of cloth looks darker than a dry one. What is the best explanation?  
-   Options: Water fills the gaps between the fibres, so less light is scattered back to your eye / Water makes the cloth black / Water is heavy / Wet cloth is thicker  
+   Options: Water makes the cloth black / Water is heavy / Water fills the gaps between the fibres, so less light is scattered back to your eye / Wet cloth is thicker  
    **Answer:** Water fills the gaps between the fibres, so less light is scattered back to your eye. *Why:* Dry cloth scatters light at the many surfaces between fibres and air. Water fills the gaps and bends light less at each surface, so less light scatters back to your eye, and the cloth looks darker.
 11. (write) Explain why an eye that let all the light pass through it, without stopping any, could not see.  
    **Answer:** An eye senses light by soaking some of it up. Special cells at the back take in the light and send a signal to the brain. If the light all passed through, the cells would have nothing to sense. That is why almost every see-through animal still has dark eyes.. *Why:* A strong answer says that seeing needs the eye to take in some light. A perfectly see-through eye would pass the light on, and the animal would sense nothing.
@@ -574,7 +574,7 @@ The bus stand was built beside the school instead. And every evening I still sit
    Options: A clean glass window / Clear water in a tumbler / A lump of clear rock sugar candy / A heap of sugar candy powder  
    **Answer:** 3. *Why:* The powder is made of the same clear sugar, but its many surfaces scatter light in every direction, so the heap looks white and you cannot see through it. The other three let light pass on straight.
 17. (mcq) In clear sea water at 50 metres deep, which colour of sunlight is left the most?  
-   Options: Blue / Red / Orange / Yellow  
+   Options: Red / Blue / Orange / Yellow  
    **Answer:** Blue. *Why:* Water soaks up red first, then orange, yellow and green. Blue is soaked up least, so blue is the colour that lasts the deepest.
 ### Think Like a Light Detective (challenge) (challenge, 16 questions)
 1. (mcq) Two identical windows are in a row. Each passes on 90 parts of every 100. What share of the light passes through both?  
@@ -585,7 +585,7 @@ The bus stand was built beside the school instead. And every evening I still sit
 3. (write) A glass marble is easy to see in air but nearly vanishes in honey. A clear fish is hard to see in water. Explain both, using the words edge and bend.  
    **Answer:** We see a clear thing only where light bends or bounces at its edge. The marble in air has a big bend at its edge, so it shows. In honey there is almost no bend, so it nearly vanishes. A clear fish in water is made mostly of water, so there is almost no bend at her edge, and she is hard to see.. *Why:* A strong answer says that we see edges, that the size of the bend depends on how different the two materials are, and that a fish is mostly water.
 4. (mcq) Which liquid would hide a glass marble best? Glass has a refractive index of about 1.5.  
-   Options: A liquid with a refractive index of about 1.5 / A liquid with a refractive index of about 1.33 / A liquid with a refractive index of about 1 / A liquid with a refractive index of about 2.4  
+   Options: A liquid with a refractive index of about 1.33 / A liquid with a refractive index of about 1 / A liquid with a refractive index of about 1.5 / A liquid with a refractive index of about 2.4  
    **Answer:** A liquid with a refractive index of about 1.5. *Why:* A clear thing vanishes best when the liquid bends light by the same amount as the thing. Glass is about 1.5, so a liquid of 1.5 is the best match. Water at 1.33 is only a partial match, and 2.4 would bend light the other way and the marble would reappear.
 5. (truefalse) True or false: a green glass marble could vanish completely in a perfectly matching liquid.  
    **Answer:** False. *Why:* False. A matching liquid would hide the edge, but the green glass would still soak up some colours of light. You would see a green patch where the marble is. Only a perfectly clear marble can vanish completely.
@@ -599,14 +599,14 @@ The bus stand was built beside the school instead. And every evening I still sit
 9. (perspective) A school wants to put tinted windows on its bus.  
    **Answer:** A strong answer weighs safety, comfort and the view, and might suggest a light tint that blocks ultraviolet and cuts glare, but is still clear enough to see through. There is no single right answer, but the reason matters.. *Why:* A light tint soaks up a share of the light and passes on the rest, so it can cut heat and glare while still letting people see in and out. A heavy tint trades the view for comfort.
 10. (mcq) A student says that something which is opaque to light must be opaque to every kind of wave. Which fact shows that she is wrong?  
-   Options: X-rays go through a hand that stops sunlight / Glass is clear / Mirrors bounce light / Sugar is white  
+   Options: Glass is clear / X-rays go through a hand that stops sunlight / Mirrors bounce light / Sugar is white  
    **Answer:** X-rays go through a hand that stops sunlight. *Why:* X-rays pass through skin and muscle, which stop visible light. Radio waves go through walls too. Whether a material is opaque depends on the kind of wave.
 11. (write) A lump of rock salt is clear, but a spoonful of table salt is white. Explain why, and say what you could do to make the table salt look clearer.  
    **Answer:** The lump of rock salt has a few smooth surfaces, and light goes through it. The table salt is made of thousands of tiny crystals, and light bends and bounces off all of their surfaces, so it scatters in every direction and the salt looks white. A drop of oil would fill the gaps between the grains and make the patch look more see-through.. *Why:* A strong answer uses scattering from many surfaces, and the idea that filling the gaps with a liquid that bends light a similar amount reduces the scattering.
 12. (draw) Draw two polarising filters, one with upright bars and one with sideways bars, with a light wave arriving, wiggling up and down. Show where it goes through and where it stops.  
    **Answer:** A wavy line passing through the filter with upright bars, and then stopped at the filter with sideways bars, with nothing coming out of the second filter.. *Why:* A strong drawing shows the up-and-down wiggle passing through the first gate and being stopped at the second, which only lets sideways wiggles pass.
 13. (mcq) The edge of a thick sheet of clear window glass looks green. What is the best reason?  
-   Options: A trace of iron in the glass soaks up some of the red light, and the thick edge soaks up enough to show / The glass is painted green / The glass is wet / Green light is faster  
+   Options: The glass is painted green / The glass is wet / A trace of iron in the glass soaks up some of the red light, and the thick edge soaks up enough to show / Green light is faster  
    **Answer:** A trace of iron in the glass soaks up some of the red light, and the thick edge soaks up enough to show. *Why:* Glass contains a trace of iron. In a thin sheet it hardly shows. Looking along the edge, the light passes through a long path of glass, and more of the red is soaked up, so the green shows.
 14. (match) Match each sight to the reason for it.  
    **Answer:** a snowman looks white although ice is clear → light scatters off the many tiny ice crystals; a marble vanishes in honey → honey and glass bend light almost the same, so there is no bend at the edge; a hospital picture shows the bones in a hand → X-rays pass through soft parts and are stopped by bone; a red fish looks black deep in the sea → the water has soaked up the red light. *Why:* Each sight comes from one thing that happens to light: it is scattered, passed on, stopped or soaked up. The reason depends on what the light meets and what kind of light it is.
@@ -626,37 +626,37 @@ The bus stand was built beside the school instead. And every evening I still sit
    Options: 10 parts / 20 parts / 40 parts / 90 parts  
    **Answer:** 10 parts. *Why:* The four shares add up to 100. 50 plus 30 plus 10 is 90. 100 take away 90 is 10. So 10 parts are scattered, if the sheet only passes, bounces, soaks and scatters.
 2. (mcq) Three identical lenses are in a row, and each lets through half the light that reaches it. What fraction of the light passes through all three?  
-   Options: One eighth / One half / One third / One sixth  
+   Options: One half / One eighth / One third / One sixth  
    **Answer:** One eighth. *Why:* Half of a half is a quarter, and half of a quarter is an eighth. Each lens takes the same share of what reaches it.
 3. (mcq) A heat-proof glass rod nearly vanishes in a jar of cooking oil. What is the best reason?  
    Options: The oil bends light almost the same as the glass, so there is hardly any bend at the rod's edge / The oil is warmer than the rod / The oil is thicker than the rod / The oil soaks up the glass  
    **Answer:** The oil bends light almost the same as the glass, so there is hardly any bend at the rod's edge. *Why:* We see a clear thing by the bend of light at its edge. When the liquid bends light by about the same amount, there is almost no bend left to see.
 4. (mcq) Why does a heap of clear salt crystals look white?  
-   Options: Light scatters off the many tiny surfaces in every direction / Salt soaks up all colours except white / The crystals make their own white light / Salt is lighter than glass  
+   Options: Salt soaks up all colours except white / The crystals make their own white light / Salt is lighter than glass / Light scatters off the many tiny surfaces in every direction  
    **Answer:** Light scatters off the many tiny surfaces in every direction. *Why:* Each crystal is clear, but light bends and bounces at every surface, and comes back out in all directions. Mixed light from every direction looks white.
 5. (mcq) Why does ordinary window glass pass visible light but block most ultraviolet B?  
-   Options: Ultraviolet photons carry enough energy to move electrons in the glass, and visible photons do not / Ultraviolet is a colour that glass reflects / Ultraviolet moves too fast / Window glass is painted  
+   Options: Ultraviolet is a colour that glass reflects / Ultraviolet photons carry enough energy to move electrons in the glass, and visible photons do not / Ultraviolet moves too fast / Window glass is painted  
    **Answer:** Ultraviolet photons carry enough energy to move electrons in the glass, and visible photons do not. *Why:* Light comes in packets of energy, and ultraviolet packets carry more energy than visible ones. Only the larger packets can lift the electrons in glass, so the glass soaks up the ultraviolet.
 6. (mcq) Two polarising lenses are turned a quarter turn from each other, and no light gets through. What is the best explanation?  
-   Options: The first lens passes only one wiggle direction, and the second blocks that direction / Each lens soaks up half of the light / The lenses reflect all the light / The lenses are too close  
+   Options: Each lens soaks up half of the light / The first lens passes only one wiggle direction, and the second blocks that direction / The lenses reflect all the light / The lenses are too close  
    **Answer:** The first lens passes only one wiggle direction, and the second blocks that direction. *Why:* A polarising lens passes only light wiggling in one direction. A second lens turned across the first passes only the other direction, and nothing is left for it to pass.
 7. (mcq) You look at a laptop screen through a polarising sunglass lens, and turn the lens. The screen goes dark at one angle. What does this show?  
    Options: The screen's light wiggles in one direction / The screen is broken / The lens is dirty / The lens soaks up the screen  
    **Answer:** The screen's light wiggles in one direction. *Why:* A polarising lens lets through light that wiggles in one direction, and blocks light that wiggles across that direction. If the screen goes dark at one angle, the light from the screen must wiggle in only one direction.
 8. (mcq) Which of these passes through a hand that stops sunlight?  
-   Options: X-rays / Visible light / Ultraviolet B / Blue light  
+   Options: Visible light / Ultraviolet B / Blue light / X-rays  
    **Answer:** X-rays. *Why:* X-rays pass through skin and muscle, and are stopped by bone. This shows that being opaque is about the kind of wave, not only the material.
 9. (mcq) Why does a red fish look black in the deep sea, where only blue light is left?  
    Options: She soaks up the blue light, and has no red light to send back / She changes colour / The sea paints her / Red light is brighter  
    **Answer:** She soaks up the blue light, and has no red light to send back. *Why:* A red thing sends back red light and soaks up other colours. If no red light reaches her, she has nothing to send back, and she looks dark.
 10. (mcq) Why does almost every see-through animal still have dark eyes?  
-   Options: An eye must take in some light in order to sense it / Dark eyes look nicer / Dark eyes are warmer / All animals must be dark somewhere  
+   Options: Dark eyes look nicer / Dark eyes are warmer / All animals must be dark somewhere / An eye must take in some light in order to sense it  
    **Answer:** An eye must take in some light in order to sense it. *Why:* An eye senses light by soaking some of it up. If every bit passed straight through, there would be nothing to sense. So seeing and being completely clear cannot go together.
 11. (mcq) In 1895 Röntgen found rays that passed through black cardboard. What idea did this show was wrong?  
    Options: That anything that stops light stops every kind of ray / That light travels in straight lines / That cardboard is cheap / That glass is clear  
    **Answer:** That anything that stops light stops every kind of ray. *Why:* Many scientists thought that a thick black cover stops all rays. X-rays passed through it, so opaque only describes what a material does with one kind of wave.
 12. (mcq) In the Vanishing Glass test, you scored how easy the marble was to see in four places. Which result best fits the idea that we see clear things by what they do to light?  
-   Options: The marble was easiest to see in air and hardest in honey / The marble was easiest to see in honey / The marble looked the same everywhere / The marble changed size  
+   Options: The marble was easiest to see in honey / The marble was easiest to see in air and hardest in honey / The marble looked the same everywhere / The marble changed size  
    **Answer:** The marble was easiest to see in air and hardest in honey. *Why:* Air bends light very differently from glass, so the marble's edge shows clearly. Honey bends light almost like glass, so the edge nearly disappears.
 
 ## Applications
@@ -739,6 +739,13 @@ Follow the Light (sci.light.L4): Topic-level song
 - [A polarising film sheet, or a cheap pair of polarising sunglasses](https://www.amazon.in/s?k=polarizing+film+sheet+linear) (tool): For Two Gates for Light and the Tape Stained Glass project. Some sunglasses are already polarising, but many cheap ones are not, so test them against a screen first. A small sheet of film costs about Rs 100 to 200 and is the sure choice. This is the one item that may cost more than the Rs 100 for the whole unit, and one set can serve both activities. Used in e2, p1. 
 - [Rock sugar candy (kalkandu or mishri)](https://www.amazon.in/s?k=kalkandu+rock+sugar+candy) (material): For Clear Candy, White Powder. It is sold in grocery shops across India, and a small pack is enough. Used in a1. 
 - [A roll of clear, shiny sticky tape](https://www.amazon.in/s?k=transparent+cello+tape+roll) (material): For the Tape Stained Glass project. Most homes already have a roll. Matt or frosted tape does not work as well. Used in p1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Tape Stained Glass: colours from clear tape. About ₹10 to ₹30. Any school ruler is fine. Used in p1. Get it before Tape Stained Glass: colours from clear tape.
+- [A set of lenses (convex and concave)](https://www.amazon.in/s?k=convex+concave+lens+set) (tool): Used in Find the Marble: three ways to catch a hidden clear thing, Tape Stained Glass: colours from clear tape. About ₹80 to ₹250. A magnifying glass is one convex lens. Used in a3, p1. Get it before Find the Marble: three ways to catch a hidden clear thing.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in Ten Light Balls: act out the four fates. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in a2. Get it before Ten Light Balls: act out the four fates.
+- [Butter paper or tracing paper](https://www.amazon.in/s?k=butter+paper+roll) (material): Used in Ten Light Balls: act out the four fates. About ₹30 to ₹80 for a roll. Thin clean plastic bag or a sheet of waxed paper. Used in a2. Get it before Ten Light Balls: act out the four fates.
+- [A measuring jug or syringe (marked in millilitres)](https://www.amazon.in/s?k=measuring+jug+500+ml) (tool): Used in Vanish the Marble: make a liquid that hides it best. About ₹30 to ₹100. A clean medicine cup or marked bottle works. Used in c1. Get it before Vanish the Marble: make a liquid that hides it best.
+- [Postcards or plain cards](https://www.amazon.in/s?k=blank+postcards) (material): Used in Tape Stained Glass: colours from clear tape. About ₹5 to ₹20. Cut card from a cereal box. Used in p1. Get it before Tape Stained Glass: colours from clear tape.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What are the four things that can happen to light when it meets a material? → It can bounce back, be soaked up, be scattered, or pass on.
@@ -758,8 +765,8 @@ Follow the Light (sci.light.L4): Topic-level song
 
 ## Sources
 - Founder's notebook, Light, seeing and shadows: the activity to shine a flashlight through different coloured plastics to see absorption, used in the four fates of light and the polarising lens tests
-- Combined lesson sci-C4-light-seeing-and-shadows: its Class 4 coverage of transparent, translucent and opaque materials, which this unit extends to measuring the share of light, matching liquids and polarisation
-- The Class 3 and Class 2 units on transparent, translucent and opaque materials, which this unit builds on: the idea that a material can be sorted by how much light it lets through, now taken on to what we actually see when we see a clear thing
+- Combined lesson sci-C4-light-seeing-and-shadows: its Class 4 coverage of transparent, translucent and opaque materials, which this lesson extends to measuring the share of light, matching liquids and polarisation
+- The Class 3 and Class 2 units on transparent, translucent and opaque materials, which this lesson builds on: the idea that a material can be sorted by how much light it lets through, now taken on to what we actually see when we see a clear thing
 - Wilhelm Röntgen, Über eine neue Art von Strahlen (On a new kind of rays), Würzburg, December 1895
 - Étienne-Louis Malus, on the polarisation of light by reflection, 1808 to 1809
 - Marie Dacke, Dan-Eric Nilsson, Clarke Scholtz, Marcus Byrne and Eric Warrant, Insect orientation to polarized moonlight, Nature, 2003

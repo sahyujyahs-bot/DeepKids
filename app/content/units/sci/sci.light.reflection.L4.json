@@ -739,12 +739,12 @@
       "t": "mcq",
       "q": "A steel spoon with many fine scratches gives a hazy image. What is the best reason?",
       "options": [
-       "The scratches scatter part of the light",
        "Steel makes its own light",
        "Scratches make the spoon heavier",
-       "The spoon is too small to reflect"
+       "The spoon is too small to reflect",
+       "The scratches scatter part of the light"
       ],
-      "a": 0,
+      "a": 3,
       "why": "Each scratch has sides tilted every way, so it sends some light off in other directions. The smooth parts between the scratches still reflect in order, so you get a hazy image. Picking 'steel makes its own light' mixes up shining with making light."
      }
     },
@@ -778,12 +778,12 @@
       "t": "mcq",
       "q": "How could you make a rough clay matka show a faint image?",
       "options": [
-       "Wet it, or polish it with wax, to fill the bumps",
        "Paint it a darker colour",
        "Heat it in the Sun",
+       "Wet it, or polish it with wax, to fill the bumps",
        "Make it bigger"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Wax or water fills the tiny dips, so the top becomes smoother and reflects in order. Colour does not change the bumps. Picking 'paint it a darker colour' mixes up how dark a surface is with how smooth it is."
      }
     },
@@ -933,12 +933,12 @@
       "t": "mcq",
       "q": "A beam travelling down meets a mirror leaning left, which is a backslash. Which way does it go?",
       "options": [
-       "Right",
        "Left",
        "Up",
-       "It carries on down"
+       "It carries on down",
+       "Right"
       ],
-      "a": 0,
+      "a": 3,
       "why": "A beam going down and meeting a backslash turns to the right. Picture a ball rolling down onto a backslash. It is knocked off toward the right. If you picked 'left', you may have used the slash rule by mistake."
      }
     },
@@ -963,12 +963,12 @@
       "t": "mcq",
       "q": "In a maze, a beam enters at the left of row 2 and meets no mirrors at all. Where does it leave?",
       "options": [
-       "The right side of row 2",
        "The top of column 5",
        "The left side of row 5",
-       "It never leaves"
+       "It never leaves",
+       "The right side of row 2"
       ],
-      "a": 0,
+      "a": 3,
       "why": "With no mirrors, the beam goes straight on. It travels along row 2 and leaves at the right side of the same row. Light only changes direction when it meets something."
      }
     },
@@ -1148,12 +1148,12 @@
       "t": "mcq",
       "q": "You can see the lit spot on the white paper from all five marks, but on the mirror from only one. What is the best reason?",
       "options": [
-       "Paper scatters the light in every direction, and the mirror sends it in one direction",
        "Paper makes its own light",
        "The mirror takes in the light",
-       "Paper is closer to the torch"
+       "Paper is closer to the torch",
+       "Paper scatters the light in every direction, and the mirror sends it in one direction"
       ],
-      "a": 0,
+      "a": 3,
       "why": "The bumps in paper face every way, so the beam is scattered, and some reaches every mark. The mirror is smooth, so the beam leaves in one direction only, toward mark 4. Picking 'the mirror takes in the light' is wrong, because the mirror sends a bright flash toward mark 4."
      },
      "context": "In this step, you test the other four surfaces from the same five marks."
@@ -1271,12 +1271,12 @@
       "t": "mcq",
       "q": "Why do we leave strip A alone?",
       "options": [
-       "So we can compare the treated strips with an untreated one",
        "So we have a spare strip",
        "Because it is already the shiniest",
-       "To save the wax"
+       "To save the wax",
+       "So we can compare the treated strips with an untreated one"
       ],
-      "a": 0,
+      "a": 3,
       "why": "Strip A is the control. It shows what dull paper looks like with no treatment, so you can see how much each treatment changes it. Picking 'it is already the shiniest' does not fit, because it is the plain dull paper."
      },
      "context": "In this step, you prepare the four strips."
@@ -1300,12 +1300,12 @@
       "t": "mcq",
       "q": "Strip A showed a faint reflection from a low angle and none from a high angle. What does this suggest?",
       "options": [
-       "Even a dull surface acts more like a mirror when you look at it from a low angle",
        "Strip A makes its own light",
        "Strip A is a mirror",
-       "The torch was switched off"
+       "The torch was switched off",
+       "Even a dull surface acts more like a mirror when you look at it from a low angle"
       ],
-      "a": 0,
+      "a": 3,
       "why": "At a very low angle, the light skims over the tiny bumps instead of hitting them head on, so the surface reflects more in order. Seen from above, the same bumps scatter the light. Picking 'strip A is a mirror' is wrong. It was dull from above."
      },
      "context": "In this step, you look at the strips from a high angle and compare with the low angle."
@@ -1413,12 +1413,12 @@
       "t": "mcq",
       "q": "With two mirrors at a right angle, the beam came out parallel to the way it went in, at all three angles. What does this show?",
       "options": [
-       "Two right-angle mirrors send light back the way it came, whatever the angle",
        "The mirrors made the beam stronger",
+       "Two right-angle mirrors send light back the way it came, whatever the angle",
        "The torch was too bright",
        "Light always goes parallel to everything"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The first mirror turns the beam through some angle. The second mirror turns it through the same angle again, but the other way round. This works because the mirrors are at a right angle. So the beam ends up going parallel to its path in, but in the opposite direction. Picking 'the mirrors made the beam stronger' is wrong, because a mirror cannot add light."
      },
      "context": "In this step, you follow the beam through the two mirrors at three different angles."
@@ -1511,12 +1511,12 @@
       "t": "mcq",
       "q": "Crumpled foil is shiny, but shows no clear window. Why?",
       "options": [
-       "Its many little folds face every way and scatter the light",
        "Foil makes its own light",
        "Crumpled foil is too thin",
-       "It only works in sunlight"
+       "It only works in sunlight",
+       "Its many little folds face every way and scatter the light"
       ],
-      "a": 0,
+      "a": 3,
       "why": "Each flat fold of the foil is a tiny mirror, but each one faces a different way. The rays leave in every direction, so no clear window forms. Picking 'foil makes its own light' mixes up shining with making light."
      },
      "context": "In this step, you do the window test on each of the twelve things."
@@ -1617,12 +1617,12 @@
       "t": "mcq",
       "q": "The torch light only landed on the red card, yet the white card looked slightly pink near the fold. Why?",
       "options": [
-       "Light bounced off the red card onto the white card, carrying red with it",
        "The white card made its own pink light",
+       "Light bounced off the red card onto the white card, carrying red with it",
        "The torch was pink",
        "White paper turns pink in the dark"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The red card mostly scatters red light and absorbs the other colours. Some of that red light lands on the white card and scatters again, into your eyes. So the white card looks slightly pink where it catches the red light. Picking 'the torch was pink' does not fit, because the same torch makes the white card look plain when the red card is removed."
      },
      "context": "In this step, you look for a tint on a white card, from light that bounced off a red card."
@@ -1725,12 +1725,12 @@
       "t": "mcq",
       "q": "The inside of the katori made the light into a small, bright spot. What does a concave mirror do?",
       "options": [
-       "It gathers light to a point",
        "It makes new light",
        "It spreads light in every direction",
+       "It gathers light to a point",
        "It absorbs light"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The curve of the inside tilts every tiny patch so that the reflected rays cross at one spot. The light there is packed tight, so it is bright. Picking 'it spreads light' describes the outside of the bowl, not the inside."
      },
      "context": "In this step, you find the focus of the bowl, the place where it gathers the light."
@@ -1953,12 +1953,12 @@
       "t": "mcq",
       "q": "Why is the long side of each wedge set at 45 degrees?",
       "options": [
-       "A mirror at 45 degrees turns a ray through a right angle",
        "It makes the periscope taller",
        "It makes the mirrors lighter",
+       "A mirror at 45 degrees turns a ray through a right angle",
        "It makes the picture bigger"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A ray that hits a mirror tilted at 45 degrees leaves at a right angle to the way it came in. Light going straight in turns down the tube, and later turns out again. Picking 'bigger' is a common idea, but a flat mirror does not change the size of a picture."
      },
      "context": "In this step, you make the two wedges that hold the mirrors at exactly 45 degrees."
@@ -2079,12 +2079,12 @@
       "t": "mcq",
       "q": "Your bendy periscope shows the toy. Which statement fits best?",
       "options": [
-       "Each mirror turns the path, and an even number of mirrors keeps the picture the right way round",
        "More mirrors always make the picture brighter",
        "The mirrors make the toy bigger",
+       "Each mirror turns the path, and an even number of mirrors keeps the picture the right way round",
        "Mirrors turn the picture upside down"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A single flat mirror reverses the picture once, like a bathroom mirror that swaps your left hand and right hand. An even number of mirrors reverses it back, so two or four mirrors give an upright picture. One or three mirrors give a reversed one. More mirrors make the picture slightly dimmer, because each mirror loses a little light."
      },
      "context": "In this step, you check your design and think about what the mirrors do to the picture."
@@ -2173,12 +2173,12 @@
       "t": "mcq",
       "q": "The back of the katori showed more of the room than a flat plate, but the toys looked smaller. Why?",
       "options": [
-       "A curve that bulges outward spreads the view over a wider space, so each thing is squeezed smaller",
        "The katori is bigger than the plate",
        "The katori makes its own light",
-       "The toys shrank"
+       "The toys shrank",
+       "A curve that bulges outward spreads the view over a wider space, so each thing is squeezed smaller"
       ],
-      "a": 0,
+      "a": 3,
       "why": "Each tiny patch of a convex mirror faces a different way, so the mirror collects light from a wide range of directions. All that is squeezed into a small picture. That is why shop mirrors and car side mirrors show a wide view where things look small."
      },
      "context": "In this step, you compare the shiny things and explain what you lose with a wide view."
@@ -2197,12 +2197,12 @@
      "t": "mcq",
      "p": "A white wall and a mirror both reflect light. Why do you see a clear picture of your face in the mirror but not in the wall?",
      "opts": [
-      "The mirror is smooth and sends light back in order, but the wall scatters it in every direction",
       "The mirror makes its own light",
+      "The mirror is smooth and sends light back in order, but the wall scatters it in every direction",
       "The wall takes in all the light",
       "The wall is too big"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Both bounce light. The mirror is smooth, so the rays leave together in order and your eye collects a picture. The wall is made of tiny bumps facing every way, so the rays leave in every direction. Picking 'the wall takes in all the light' is a common idea, but you can see the wall only because it reflects.",
      "outcome": 0
     },
@@ -2289,12 +2289,12 @@
      "t": "mcq",
      "p": "A shoeshine man polishes a dull black shoe, and it gleams. What did the polish do?",
      "opts": [
-      "It filled and flattened the tiny bumps, so light reflects in order",
       "It added light to the shoe",
       "It made the shoe heavier",
-      "It made the shoe a darker colour"
+      "It made the shoe a darker colour",
+      "It filled and flattened the tiny bumps, so light reflects in order"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Polish fills the tiny dips and rubbing makes the top smooth. A smoother surface reflects in order and shows bright reflections. Picking 'it added light' mixes up shining with making light.",
      "outcome": 3
     },
@@ -2317,12 +2317,12 @@
      "t": "mcq",
      "p": "Which tool uses two mirrors so that you can see over a wall?",
      "opts": [
-      "A periscope",
       "A magnifying glass",
       "A pair of spectacles",
+      "A periscope",
       "A camera with a lens"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A periscope has a mirror at each end of a tube. Light from the scene goes down the tube by two bounces to your eye.",
      "outcome": 5
     },
@@ -2525,12 +2525,12 @@
      "t": "mcq",
      "p": "The biggest telescopes use a curved mirror and not a big glass lens. What is the best reason?",
      "opts": [
-      "A mirror bounces all colours at the same angle, so there are no coloured fringes",
       "A mirror is lighter than a lens",
       "A mirror makes its own light",
-      "A mirror makes stars brighter"
+      "A mirror makes stars brighter",
+      "A mirror bounces all colours at the same angle, so there are no coloured fringes"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Glass bends different colours by different amounts, so a lens gives coloured fringes. A mirror reflects every colour alike. A big mirror is also easier to hold up and support from behind. Picking 'a mirror makes stars brighter' is wrong. It only gathers more of their light.",
      "outcome": 7
     },
@@ -2571,12 +2571,12 @@
      "t": "mcq",
      "p": "An optical fibre carries a flash of light round a bend inside a thin strand of glass. How does the light stay inside?",
      "opts": [
-      "It bounces off the inside walls and does not escape",
       "It is pushed by the glass",
       "It goes through the walls and comes back",
-      "It turns into heat and then back into light"
+      "It turns into heat and then back into light",
+      "It bounces off the inside walls and does not escape"
      ],
-     "a": 0,
+     "a": 3,
      "why": "When light hits the glass wall at a shallow angle from the inside, all of it is reflected back in. It zigzags down the strand. This is called total internal reflection."
     },
     {
@@ -2663,12 +2663,12 @@
      "t": "mcq",
      "p": "A sheet of white paper looks equally bright from every side of a room. What is the best reason?",
      "opts": [
-      "It scatters light in every direction",
       "It makes its own light",
       "It is a mirror",
-      "It takes in the light"
+      "It takes in the light",
+      "It scatters light in every direction"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The fibres in paper face every way, so light leaves in every direction. Wherever you stand, some reaches your eyes. A mirror would look bright from only one place.",
      "outcome": 0
     },
@@ -2763,12 +2763,12 @@
      "t": "mcq",
      "p": "A cat's eyes glow green in a torch beam at night. What is the best reason?",
      "opts": [
-      "A mirror layer behind the cat's retina sends light back out through the eye",
       "The cat's eyes make their own light",
       "The cat's eyes are made of glass",
-      "The torch beam heats the cat's eyes"
+      "The torch beam heats the cat's eyes",
+      "A mirror layer behind the cat's retina sends light back out through the eye"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The mirror layer gives light a second chance to be caught by the eye, which helps a cat see in dim light. Some of it comes back out, and you see it as a glow. Picking 'the cat's eyes make their own light' mixes up reflecting with making light.",
      "outcome": 6
     },
@@ -2807,12 +2807,12 @@
      "t": "mcq",
      "p": "A beam travelling right meets a mirror leaning right, like a slash. It turns upward and then meets a mirror leaning left, like a backslash. Which way does it go after the second mirror?",
      "opts": [
-      "Left",
       "Right",
       "Up",
+      "Left",
       "Down"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A beam going up that meets a backslash turns to the left. Picture a ball flying up at a backslash. It is knocked off to the left. The first mirror turned the beam from right to up, and the second turns it from up to left.",
      "how": "g2",
      "outcome": 5
@@ -2875,12 +2875,12 @@
      "t": "mcq",
      "p": "Why is it dangerous to use a curved shaving mirror to shine sunlight onto your hand?",
      "opts": [
-      "The mirror gathers the sunlight into a spot hot enough to burn",
       "The mirror makes new sunlight",
       "The mirror spreads the light too thin",
-      "The mirror is too heavy"
+      "The mirror is too heavy",
+      "The mirror gathers the sunlight into a spot hot enough to burn"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A concave mirror gathers light to a focus. The light there is packed tight and turns into heat when it lands on skin. It can burn, start a fire or harm eyes. Always use a torch for experiments, never sunlight.",
      "outcome": 7
     },
@@ -2899,12 +2899,12 @@
    "t": "mcq",
    "p": "A narrow beam of light lands on a mirror and on a sheet of white paper at the same angle. What is different about the light that leaves?",
    "opts": [
-    "From the mirror it leaves in one direction, and from the paper it leaves in many directions",
     "From the mirror it leaves in many directions, and from the paper in one direction",
+    "From the mirror it leaves in one direction, and from the paper it leaves in many directions",
     "Both send it off in exactly the same direction",
     "Neither sends any light back"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A mirror is smooth, so all the rays leave together in one direction. Paper is rough, so the rays go off in many directions. Both reflect, which is why you can see the lit spot on the paper from anywhere.",
    "outcome": 0
   },
@@ -2925,12 +2925,12 @@
    "t": "mcq",
    "p": "Which treatment would make a dull piece of card show the clearest reflection of a lamp?",
    "opts": [
-    "Covering it with smooth clear tape",
     "Scratching it with sandpaper",
     "Crumpling it",
+    "Covering it with smooth clear tape",
     "Painting it with matt paint"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Clear tape lays a very flat skin over the bumps, so the surface is smooth. The other three make the bumps bigger or leave them as they are.",
    "outcome": 3
   },
@@ -2938,12 +2938,12 @@
    "t": "mcq",
    "p": "A calm lake shows the trees almost perfectly at sunrise, but shows them poorly at noon. What helps most at sunrise?",
    "opts": [
-    "The Sun is low, so we see the water at a low angle, and calm water is smooth",
     "The lake is deeper at sunrise",
     "The lake is warmer at sunrise",
-    "The trees are taller at sunrise"
+    "The trees are taller at sunrise",
+    "The Sun is low, so we see the water at a low angle, and calm water is smooth"
    ],
-   "a": 0,
+   "a": 3,
    "why": "A low angle makes any surface reflect more in order, and calm water is smooth already. Together they make a clear picture. Seen from high above at noon, the same lake reflects less of the sky.",
    "outcome": 4
   },
@@ -2951,12 +2951,12 @@
    "t": "mcq",
    "p": "How many mirrors does a simple periscope have, and how are they set?",
    "opts": [
-    "Two, each tilted at 45 degrees, with their shiny sides facing each other",
     "One, tilted at 90 degrees",
     "Three, each pointing at the viewer",
-    "Two, one flat on the floor and one on the ceiling"
+    "Two, one flat on the floor and one on the ceiling",
+    "Two, each tilted at 45 degrees, with their shiny sides facing each other"
    ],
-   "a": 0,
+   "a": 3,
    "why": "A mirror tilted at 45 degrees turns a ray through a right angle. Two of them, one at each end of a tube, turn the ray twice, so you can look over a wall.",
    "outcome": 5
   },
@@ -2964,12 +2964,12 @@
    "t": "mcq",
    "p": "A periscope with just one mirror, instead of two, would show what kind of picture?",
    "opts": [
-    "Reversed, because one reversal is not cancelled",
     "Upright, the same as with two mirrors",
     "Upside down",
+    "Reversed, because one reversal is not cancelled",
     "Twice as bright"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Each flat mirror reverses the picture once. With two mirrors, the second reversal undoes the first. With one mirror, the reversal stays and the picture is reversed.",
    "outcome": 5
   },
@@ -3352,6 +3352,47 @@
     "e2",
     "a2"
    ]
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Make a Dull Thing Shine: how does polish work?, Send It Straight Back: two mirrors at a right angle, Milk-Carton Periscope: see over the wall. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e2",
+    "e3",
+    "p1"
+   ],
+   "plan": "Get it before Make a Dull Thing Shine: how does polish work?."
+  },
+  {
+   "id": "b-modelling-clay-or-plasticine",
+   "item": "Modelling clay or plasticine",
+   "kind": "material",
+   "why": "Used in Where Does the Bounce Go? Mirror, foil, paper, cloth and glossy page, Send It Straight Back: two mirrors at a right angle, Look Round Two Corners: a bendy periscope. About ₹40 to ₹120. Atta dough mixed with a little salt works.",
+   "url": "https://www.amazon.in/s?k=modelling+clay+plasticine",
+   "used_in": [
+    "e1",
+    "e3",
+    "c1"
+   ],
+   "plan": "Get it before Where Does the Bounce Go? Mirror, foil, paper, cloth and glossy page."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

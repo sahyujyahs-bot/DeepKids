@@ -338,7 +338,7 @@
    "concept": "India's way: small steps and learning from mistakes",
    "status": "defined",
    "definition": "India's space agency, ISRO, builds each mission as a careful step beyond the last, and learns from failures.",
-   "description": "In 2014, India's Mangalyaan reached Mars orbit on the first try. No other country had done that. It was reported to cost about 450 crore rupees, much less than most Mars missions. Ritu Karidhal, an engineer from Lucknow, was among the team leaders. In September 2019, the lander of Chandrayaan-2 lost contact just before touching down. The orbiter stayed in good health and kept working around the Moon for years. ISRO studied what went wrong, changed the lander and its landing plan, and tried again. Chandrayaan-3 landed on 23 August 2023. Its project director was P. Veeramuthuvel, from Tamil Nadu. India was the fourth country to land on the Moon, and the first near its south pole.",
+   "description": "In 2014, India's Mangalyaan reached Mars orbit on the first try. No other country had done that. It was reported to cost about 450 crore rupees, much less than most Mars missions. Ritu Karidhal, an engineer from Lucknow, was among the team leaders. In September 2019, the lander of Chandrayaan-2 lost contact just before touching down. The orbiter stayed in good health and kept working around the Moon for years. ISRO studied what went wrong, changed the lander and its landing plan, and tried again. Chandrayaan-3 landed on 23 August 2023. Its project director was P. Veeramuthuvel, from Tamil Nadu. India was the fourth country to land on the Moon, and the first near its south pole. Its lander, named Vikram, touched down on the Moon that same day. It then collected data about the soil and the ground, such as how hot the soil gets and how the ground shakes.",
    "examples": [
     "Chandrayaan-3 reused the Chandrayaan-2 orbiter, which was still working, to talk to the lander.",
     "Engineers chose a bigger landing area, so that a small error would not matter.",
@@ -1017,11 +1017,11 @@
       "t": "mcq",
       "q": "Why do you use the same marble and ramp each time, and change only the starting height?",
       "options": [
-       "So only the speed changes and every other thing stays the same",
        "So the marble does not get lost",
+       "So only the speed changes and every other thing stays the same",
        "So the ramp is easier to build"
       ],
-      "a": 0,
+      "a": 1,
       "why": "In a fair test only one thing changes. The ramp, marble and table all stay the same, so any change in where the marble lands must come from its speed."
      },
      "context": "In this step you build the ramp and mark the zero line on the floor."
@@ -1047,11 +1047,11 @@
       "t": "mcq",
       "q": "The marble that started higher left the table faster. Where did it land?",
       "options": [
-       "Farther from the table",
        "Nearer to the table",
-       "In the same place"
+       "In the same place",
+       "Farther from the table"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A faster marble moves sideways farther in the time it takes to fall to the floor. The time to fall is about the same for every marble, but a faster marble covers more ground in that time."
      }
     },
@@ -1066,11 +1066,11 @@
       "t": "mcq",
       "q": "A cannonball is fired sideways from a very high mountain. What would make it go right round the Earth and never land?",
       "options": [
-       "Being fired fast enough, about 8 kilometres a second",
        "Being a heavier cannonball",
+       "Being fired fast enough, about 8 kilometres a second",
        "Being fired a little higher up"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The ground curves away below the ball as it falls. If the ball moves sideways fast enough, the ground drops away as fast as the ball falls, so it keeps missing. A heavier ball falls the same way, so weight does not matter."
      }
     }
@@ -1251,11 +1251,11 @@
       "t": "mcq",
       "q": "Why does a real rocket drop its empty stage as it climbs?",
       "options": [
-       "The empty stage is dead weight, and dropping it lets the engine speed the rest up more",
        "The empty stage makes too much noise",
+       "The empty stage is dead weight, and dropping it lets the engine speed the rest up more",
        "The stage is needed on the ground"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The balloon test showed that the same push gives less speed to a heavier rocket. A stage with empty tanks adds weight and no push. Dropping it makes the rest lighter, so the next engine can speed it up more."
      }
     }
@@ -1539,11 +1539,11 @@
       "t": "mcq",
       "q": "On the map the space station's circle is almost touching the Earth's circle. What does this tell you?",
       "options": [
-       "The space station is very close to the Earth, compared to the size of the Earth",
        "The map is drawn wrongly",
-       "The space station is on the ground"
+       "The space station is on the ground",
+       "The space station is very close to the Earth, compared to the size of the Earth"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The station is 400 kilometres up and the Earth is 6,371 kilometres from its middle to its edge. 400 is small next to 6,371, so the circles are very close."
      }
     },
@@ -1666,11 +1666,11 @@
       "t": "mcq",
       "q": "Why does the phone stop working when the string is pinched?",
       "options": [
-       "The shaking cannot pass along the string past your finger",
        "The cups get tired",
+       "The shaking cannot pass along the string past your finger",
        "The string gets longer"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Sound is a shaking. It passes from one bit of the string to the next. A pinching finger stops the shaking from going on."
      }
     },
@@ -1685,11 +1685,11 @@
       "t": "mcq",
       "q": "Two astronauts float outside the space station, and one shouts. Why can the other not hear her shout directly?",
       "options": [
-       "There is almost no air to carry the sound across the gap",
        "Their helmets are too thick",
-       "It is too dark"
+       "It is too dark",
+       "There is almost no air to carry the sound across the gap"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Sound needs something to shake, such as air. In space there is almost none between the astronauts, so the shout cannot cross the gap. They use radio inside their suits."
      }
     }
@@ -1772,11 +1772,11 @@
       "t": "mcq",
       "q": "Why is the whisper loudest when the ear is at the middle of the bowl?",
       "options": [
-       "The curved bowl bounces the sound so it all meets at one spot",
        "The bowl makes the sound louder by itself",
+       "The curved bowl bounces the sound so it all meets at one spot",
        "The middle is closer to the speaker"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A curved dish reflects the waves that fall on it and sends them to one spot, the focus. Putting an ear at the focus collects the sound from the whole dish."
      }
     },
@@ -1791,11 +1791,11 @@
       "t": "mcq",
       "q": "Where does a radio telescope put its receiver?",
       "options": [
-       "At the spot where the curved dish gathers the waves together",
        "On the edge of the dish",
+       "At the spot where the curved dish gathers the waves together",
        "Far away from the dish"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The dish bounces the waves it collects to one spot. Putting the receiver at that spot collects the signal from the whole dish."
      }
     }
@@ -1874,11 +1874,11 @@
       "t": "mcq",
       "q": "Chandrayaan-3 took 40 days to reach the Moon and Apollo 11 took about 4. What is the best reason?",
       "options": [
-       "Chandrayaan-3 used a smaller rocket and made many small engine burns",
        "The Moon was nearer in 1969",
+       "Chandrayaan-3 used a smaller rocket and made many small engine burns",
        "Chandrayaan-3 flew in circles to look for water"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A smaller rocket cannot throw the spacecraft all the way in one push. Many small burns raise the orbit step by step. This costs time but allows a smaller, cheaper rocket."
      }
     }
@@ -1985,11 +1985,11 @@
       "t": "mcq",
       "q": "Why do the three rockets have the same length and width and differ only in fins and clay?",
       "options": [
-       "So that only the fins and the nose weight change",
        "So they look the same",
-       "So they are easier to tape"
+       "So they are easier to tape",
+       "So that only the fins and the nose weight change"
       ],
-      "a": 0,
+      "a": 2,
       "why": "In a fair test, only one thing changes at a time. If the rockets differed in length too, you could not tell whether the fins or the length made the difference."
      }
     },
@@ -2014,11 +2014,11 @@
       "t": "mcq",
       "q": "Why can fins steer a paper rocket in a room but not a rocket in space?",
       "options": [
-       "Fins work by pushing on air, and space has almost none",
        "Fins are too heavy in space",
-       "Fins melt in space"
+       "Fins melt in space",
+       "Fins work by pushing on air, and space has almost none"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Fins push on the air as the rocket moves through it, and keep the tail behind. In space there is no air to push on, so rockets steer by tilting their engines or firing small thrusters."
      }
     }
@@ -2139,11 +2139,11 @@
       "t": "mcq",
       "q": "Why does a crushable leg or a soft cushion help a lander survive a drop?",
       "options": [
-       "It makes the lander stop over a longer time, so the push on it is smaller",
        "It makes the lander heavier",
+       "It makes the lander stop over a longer time, so the push on it is smaller",
        "It makes the lander fall slower in the air"
       ],
-      "a": 0,
+      "a": 1,
       "why": "To stop a falling thing, the ground must take away its speed. Soft or crushable parts spread that stopping over a longer time, so the force is smaller and nothing breaks."
      }
     }
@@ -2237,11 +2237,11 @@
      "t": "mcq",
      "p": "Why does the space station not fall down to the ground?",
      "opts": [
-      "It is so high that there is no gravity",
       "It moves sideways so fast that it keeps missing the ground as it falls",
+      "It is so high that there is no gravity",
       "The air holds it up"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Gravity is still pulling the station, about nine tenths as strongly as on the ground. The station falls all the time, but its sideways speed of about 8 kilometres a second carries it past the curve of the Earth. Picking 'no gravity' is a very common mix-up.",
      "outcome": 0
     },
@@ -2274,11 +2274,11 @@
      "t": "mcq",
      "p": "About how fast must a satellite near the Earth move sideways to stay in orbit?",
      "opts": [
-      "About 8 kilometres every second",
       "About 80 kilometres an hour",
+      "About 8 kilometres every second",
       "About 8 metres every second"
      ],
-     "a": 0,
+     "a": 1,
      "why": "At about 8 kilometres a second, which is about 28,000 kilometres an hour, the ground curves away as fast as the satellite falls. It is about 170 times faster than a very fast train.",
      "outcome": 1
     },
@@ -2597,11 +2597,11 @@
      "t": "mcq",
      "p": "Rockets from Sriharikota usually launch towards the east. What is the reason?",
      "opts": [
-      "The Earth spins towards the east, so the rocket starts with some of that speed for free",
       "The Moon is in the east",
+      "The Earth spins towards the east, so the rocket starts with some of that speed for free",
       "The wind always blows from the east"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The Earth's surface moves eastwards. A rocket launched east gets a speed boost from the spin, which saves fuel.",
      "outcome": 1
     },
@@ -2625,11 +2625,11 @@
      "t": "mcq",
      "p": "Two stars look like one star in a small telescope but like two in a big one. What has the big telescope given?",
      "opts": [
-      "Finer detail",
       "More colour",
-      "A different sky"
+      "A different sky",
+      "Finer detail"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A wider opening gives finer detail, which scientists call resolution. It also collects more light.",
      "outcome": 4
     },
@@ -2678,6 +2678,13 @@
      "why": "40 divided by 4 is 10. Chandrayaan-3 used a smaller rocket and many small engine burns, which took ten times as long.",
      "how": "a4",
      "outcome": 6
+    },
+    {
+     "t": "write",
+     "p": "The lander Vikram collected data about the soil on the Moon. Give one reason why scientists want to know how hot the soil gets.",
+     "lines": 3,
+     "a": "For example: the heat of the soil shows what the ground is made of, and how it changes from day to night.",
+     "why": "A strong answer links the heat of the soil, or the shaking of the ground, to what the ground is made of."
     },
     {
      "t": "label",
@@ -2857,11 +2864,11 @@
      "t": "mcq",
      "p": "Light from a faraway galaxy took ten billion years to reach us. What do we see when we look at it?",
      "opts": [
-      "The galaxy as it was ten billion years ago",
       "The galaxy as it is today",
-      "The galaxy as it will be in ten billion years"
+      "The galaxy as it will be in ten billion years",
+      "The galaxy as it was ten billion years ago"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The light carries news from the time it left. Looking far away is looking back in time.",
      "outcome": 4
     },
@@ -2886,11 +2893,11 @@
      "t": "mcq",
      "p": "A satellite 400 kilometres up is left alone with its engine off. Why does it slowly sink back over the years?",
      "opts": [
-      "A trace of air at that height slows it down a little all the time",
       "Gravity gets stronger every year",
-      "The Moon pulls it down"
+      "The Moon pulls it down",
+      "A trace of air at that height slows it down a little all the time"
      ],
-     "a": 0,
+     "a": 2,
      "why": "There is still a very thin trace of air at 400 kilometres. It slows the satellite a little. A slower satellite is lower, and it spirals down until it burns up in the thicker air.",
      "outcome": 5
     },
@@ -2909,11 +2916,11 @@
    "t": "mcq",
    "p": "You throw a ball sideways from the top of a cliff, and it curves down to the ground. What would you have to change for it to go all the way round the Earth?",
    "opts": [
-    "Throw it much, much faster, at about 8 kilometres a second",
     "Throw it from higher up",
+    "Throw it much, much faster, at about 8 kilometres a second",
     "Use a heavier ball"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A faster throw lands farther away. At about 8 kilometres a second, the ground curves away as fast as the ball falls, so it misses the ground for ever. Height and weight are not what decides it.",
    "outcome": 0
   },
@@ -2933,11 +2940,11 @@
    "t": "mcq",
    "p": "A balloon rocket on a string flies a short way when it has paper clips taped to it. What would make it fly farther?",
    "opts": [
-    "Taking some of the clips off",
     "Adding more clips",
+    "Taking some of the clips off",
     "Letting some air out first"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A lighter rocket gets more speed from the same push. In the Loaded Balloon Rocket test, every extra clip shortened the flight.",
    "outcome": 2,
    "how": "e2"
@@ -2958,11 +2965,11 @@
    "t": "mcq",
    "p": "At about what height does a satellite go round the Earth in exactly one day, so that it stays above one spot?",
    "opts": [
-    "About 36,000 kilometres",
     "About 400 kilometres",
+    "About 36,000 kilometres",
     "About 384,000 kilometres"
    ],
-   "a": 0,
+   "a": 1,
    "why": "At about 36,000 kilometres, a lap takes 24 hours, the same as the Earth's turn. At 400 kilometres a lap takes 90 minutes. At 384,000 kilometres, where the Moon is, a lap takes about 27 days.",
    "outcome": 3
   },
@@ -2970,11 +2977,11 @@
    "t": "mcq",
    "p": "A satellite moves from a lower orbit to a higher one. What happens to its speed and to the time of its lap?",
    "opts": [
-    "It moves slower, and a lap takes longer",
     "It moves faster, and a lap takes longer",
-    "It moves faster, and a lap takes less time"
+    "It moves faster, and a lap takes less time",
+    "It moves slower, and a lap takes longer"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Higher orbits are slower because the Earth's pull is weaker there. The satellite also has a longer way round, so a lap takes longer.",
    "outcome": 3
   },
@@ -2994,11 +3001,11 @@
    "t": "mcq",
    "p": "Why can a radio telescope work in the daytime and on cloudy days?",
    "opts": [
-    "Radio waves pass through clouds and do not need a dark sky",
     "Radio waves are very bright",
+    "Radio waves pass through clouds and do not need a dark sky",
     "Clouds make radio waves stronger"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Radio waves go through air and clouds, and the Sun's brightness does not get in the way of radio dishes. They work day and night.",
    "outcome": 4
   },
@@ -3018,11 +3025,11 @@
    "t": "mcq",
    "p": "Why can a tiny fleck of paint in orbit damage a satellite?",
    "opts": [
-    "It moves at about 8 kilometres a second, so it carries a lot of energy",
     "Paint is very hard",
-    "It is very heavy"
+    "It is very heavy",
+    "It moves at about 8 kilometres a second, so it carries a lot of energy"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Energy rises quickly with speed. A fleck at orbital speed carries more energy than a bullet.",
    "outcome": 5
   },
@@ -3030,12 +3037,24 @@
    "t": "mcq",
    "p": "Chandrayaan-3 took 40 days to reach the Moon. What was it doing for most of that time?",
    "opts": [
-    "Firing its engine to raise its orbit round the Earth, and later to lower its orbit round the Moon",
     "Waiting for the Moon to come near",
+    "Firing its engine to raise its orbit round the Earth, and later to lower its orbit round the Moon",
     "Looking for a place to land"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A smaller rocket cannot throw the spacecraft all the way to the Moon in one push. The spacecraft's own engine fired many times, raising its orbit step by step, and later lowering it.",
+   "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "Chandrayaan-3's lander, named Vikram, touched down on the Moon on 23 August 2023. What did it do next?",
+   "opts": [
+    "It brought rock samples back to Earth",
+    "It turned into an orbiter round the Moon",
+    "It collected data about the soil and the ground"
+   ],
+   "a": 2,
+   "why": "Vikram collected data about the soil and the ground where it landed. Chandrayaan-3 did not bring rock samples back to Earth. Its orbiter, not the lander, went round the Moon.",
    "outcome": 6
   },
   {
@@ -3393,6 +3412,130 @@
     "p1",
     "e3"
    ]
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in Falling Sideways: does a faster marble take longer to land?, The Loaded Balloon Rocket: how much does extra weight slow a rocket?, A Telescope from Two Lenses: how much bigger does it make faraway things?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "e1",
+    "e2",
+    "e3",
+    "a1",
+    "p1"
+   ],
+   "plan": "Get it before Falling Sideways: does a faster marble take longer to land?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Falling Sideways: does a faster marble take longer to land?, A Telescope from Two Lenses: how much bigger does it make faraway things?, Orbit Map: draw the satellites to scale on the floor. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e3",
+    "a1",
+    "a3",
+    "a4",
+    "c1"
+   ],
+   "plan": "Get it before Falling Sideways: does a faster marble take longer to land?."
+  },
+  {
+   "id": "b-a-set-of-lenses--convex-and-",
+   "item": "A set of lenses (convex and concave)",
+   "kind": "tool",
+   "why": "Used in A Telescope from Two Lenses: how much bigger does it make faraway things?. About ₹80 to ₹250. A magnifying glass is one convex lens.",
+   "url": "https://www.amazon.in/s?k=convex+concave+lens+set",
+   "used_in": [
+    "e3"
+   ],
+   "plan": "Get it before A Telescope from Two Lenses: how much bigger does it make faraway things?."
+  },
+  {
+   "id": "b-paper-masking-tape",
+   "item": "Paper masking tape",
+   "kind": "material",
+   "why": "Used in Falling Sideways: does a faster marble take longer to land?, Orbit Map: draw the satellites to scale on the floor. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor.",
+   "url": "https://www.amazon.in/s?k=paper+masking+tape",
+   "used_in": [
+    "e1",
+    "a1"
+   ],
+   "plan": "Get it before Falling Sideways: does a faster marble take longer to land?."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Sound Needs Something: a tin-can telephone. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Get it before Sound Needs Something: a tin-can telephone."
+  },
+  {
+   "id": "b-wooden-ice-cream-sticks--a-p",
+   "item": "Wooden ice-cream sticks (a pack)",
+   "kind": "material",
+   "why": "Used in Sound Needs Something: a tin-can telephone. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in.",
+   "url": "https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Get it before Sound Needs Something: a tin-can telephone."
+  },
+  {
+   "id": "b-cotton-wool",
+   "item": "Cotton wool",
+   "kind": "material",
+   "why": "Used in Soft Landing: land five coins from one metre without a bounce. About ₹20 to ₹50. Torn clean cloth works.",
+   "url": "https://www.amazon.in/s?k=cotton+wool+roll",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before Soft Landing: land five coins from one metre without a bounce."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in Soft Landing: land five coins from one metre without a bounce. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before Soft Landing: land five coins from one metre without a bounce."
+  },
+  {
+   "id": "b-marbles--a-few",
+   "item": "Marbles (a few)",
+   "kind": "material",
+   "why": "Used in Falling Sideways: does a faster marble take longer to land?. About ₹10 to ₹40. Small round stones or dried chana.",
+   "url": "https://www.amazon.in/s?k=glass+marbles+pack",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before Falling Sideways: does a faster marble take longer to land?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

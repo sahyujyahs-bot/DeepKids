@@ -1,9 +1,9 @@
 # Inside a cell: the skin, the jelly and the instruction room
 `sci.what-is-life.cells.L4`
 
-**Summary.** A potato strip stays stiff in plain water but goes floppy in strong salt water, though nobody squeezed it. Why? In this unit you will test potato strips in plain and salty water, bring a wilted herb back to life, and play a game to find which cell part does what.
+**Summary.** A potato strip stays stiff in plain water but goes floppy in strong salt water, though nobody squeezed it. Why? In this lesson you will test potato strips in plain and salty water, bring a wilted herb back to life, and play a game to find which cell part does what.
 
-**Intro.** *Look at a bunch of coriander that has gone limp on the kitchen counter. Put the stems in a glass of water for an hour. The leaves stand up again. The water went in through the cut ends and the roots, but the leaves are far away. How did the water get to every leaf, and why did the leaves go floppy in the first place?* Every leaf is made of tiny cells, and each cell has a thin skin. When a cell holds plenty of water, she is firm, and the leaf stands up. When she loses water, she goes soft, and the leaf droops. In this unit you find out what a cell is made of, what the skin does, and where the water goes. You also meet cells that live alone in a drop of pond water and do everything a body does.
+**Intro.** *Look at a bunch of coriander that has gone limp on the kitchen counter. Put the stems in a glass of water for an hour. The leaves stand up again. The water went in through the cut ends and the roots, but the leaves are far away. How did the water get to every leaf, and why did the leaves go floppy in the first place?* Every leaf is made of tiny cells, and each cell has a thin skin. When a cell holds plenty of water, she is firm, and the leaf stands up. When she loses water, she goes soft, and the leaf droops. In this lesson you find out what a cell is made of, what the skin does, and where the water goes. You also meet cells that live alone in a drop of pond water and do everything a body does.
 
 ## Learning outcomes
 0. I can name the three main parts of a cell, the membrane, the cytoplasm and the nucleus, and say what each one does.
@@ -525,7 +525,7 @@ Anjana wrote in her notebook: 'A plant can be thirsty while standing in water. I
    Options: The cell membrane / The cytoplasm / The nucleus  
    **Answer:** The cell membrane. *Why:* The membrane is the thin skin around the cell. It lets some things pass, helps some across and blocks the rest. The cytoplasm is the jelly inside, and the nucleus keeps the DNA.
 2. (mcq) Where does a bacterium keep her DNA?  
-   Options: Inside a round nucleus / Floating loose in the cytoplasm / Inside the cell membrane  
+   Options: Floating loose in the cytoplasm / Inside a round nucleus / Inside the cell membrane  
    **Answer:** Floating loose in the cytoplasm. *Why:* Bacteria have no nucleus. Their DNA is a loop that floats in the cytoplasm. Plant, animal and fungus cells keep their DNA in a nucleus.
 3. (truefalse) Animal cells have a stiff cell wall outside the membrane.  
    **Answer:** False. *Why:* False. Plant cells, fungus cells and bacteria have a cell wall. Animal cells do not, which is why animal cells can be many shapes.
@@ -534,7 +534,7 @@ Anjana wrote in her notebook: 'A plant can be thirsty while standing in water. I
 5. (match) Match each cell part to its job.  
    **Answer:** Membrane → decides what passes in and out; Cytoplasm → the jelly where most of the cell's work happens; Nucleus → keeps the DNA that holds the instructions; Vacuole → a bag of water that keeps a plant cell firm. *Why:* Each part has its own job. The membrane is the skin, the cytoplasm is the working jelly, the nucleus is the instruction room, and a big vacuole pushes on the wall of a plant cell.
 6. (mcq) A potato strip goes floppy in strong salt water. What happened to the water that was inside its cells?  
-   Options: Some of it moved out into the salty water / More of it moved in from the salty water / It turned into salt  
+   Options: More of it moved in from the salty water / It turned into salt / Some of it moved out into the salty water  
    **Answer:** Some of it moved out into the salty water. *Why:* Strong salt water has more dissolved stuff than the inside of the cells. Water moves through the cell skin towards the saltier side, so the cells lose water and the strip goes soft.
 7. (sort) Sort each cell part by where it is found.  
    **Answer:** a cell wall → Plant cells only; chloroplasts → Plant cells only; a membrane → Both; a nucleus → Both; a very large central vacuole → Plant cells only; mitochondria → Both. *Why:* Plant cells have three extra parts: a wall, chloroplasts and a large vacuole. Everything else on this list is found in both kinds of cell.
@@ -549,7 +549,7 @@ Anjana wrote in her notebook: 'A plant can be thirsty while standing in water. I
 12. (draw) Draw a plant cell. Label the wall, the membrane, the nucleus, a chloroplast and the big vacuole.  
    **Answer:** A box-shaped cell with a thick wall outside a thin membrane, a round nucleus, several small green ovals and one large vacuole filling most of the space.. *Why:* A strong drawing shows the wall outside the membrane, and the vacuole pushing against the wall. It does not show a round cell with no wall.
 13. (mcq) Why does a limp coriander bunch stand up again when you put the stems in water?  
-   Options: The leaf cells fill with water and push against their walls / The leaf cells grow new walls / The leaf cells turn green again  
+   Options: The leaf cells grow new walls / The leaf cells fill with water and push against their walls / The leaf cells turn green again  
    **Answer:** The leaf cells fill with water and push against their walls. *Why:* Cells that have lost water are soft. When water comes back, the vacuoles fill and push on the walls, and the cells and leaf go firm.
 14. (fill) Water that moves through a skin towards the side with more dissolved stuff is called ____.  
    **Answer:** ['osmosis']. *Why:* Osmosis is the movement of water through a membrane towards the side with more dissolved stuff such as salt or sugar.
@@ -586,10 +586,10 @@ Anjana wrote in her notebook: 'A plant can be thirsty while standing in water. I
 12. (draw) Draw an amoeba eating a smaller cell. Show the food and how the amoeba takes it in.  
    **Answer:** A blob-shaped cell with two arms pushed out, curling round a small cell, and a bubble forming round the food inside her.. *Why:* A strong drawing shows the amoeba wrapping around the food and the food ending up in a bubble inside her cytoplasm.
 13. (mcq) Evert Gorter and François Grendel spread the fat from red blood cells on water. It covered about twice the surface of the cells. What did they conclude?  
-   Options: The skin of a cell is two layers of fat thick / The cells were twice as big as they looked / The cells had no skin  
+   Options: The cells were twice as big as they looked / The cells had no skin / The skin of a cell is two layers of fat thick  
    **Answer:** The skin of a cell is two layers of fat thick. *Why:* If the fat could cover twice the surface of the cells, then the skin must have been two layers thick. Their numbers were rough, but electron microscopes later showed two layers.
 14. (mcq) Why did scientists in the 1870s say that a living cell skin must exist, even though nobody could see it?  
-   Options: Water and dissolved stuff moved in and out as though through a skin / They had photographed it / A book said so  
+   Options: They had photographed it / Water and dissolved stuff moved in and out as though through a skin / A book said so  
    **Answer:** Water and dissolved stuff moved in and out as though through a skin. *Why:* Wilhelm Pfeffer and others saw that water moved in a way only a thin skin could explain. Even when no tool can show a thing, scientists can still tell it is there from what it does.
 15. (write) A paramecium lives in pond water, which has far less dissolved stuff than her insides. Using osmosis, explain why water keeps flowing into her, and what her pump does.  
    **Answer:** Her cytoplasm has more dissolved stuff than the pond water, so water moves into her through her membrane all the time. Her pump, the contractile vacuole, collects the extra water and pushes it out, so she does not swell and burst.. *Why:* A strong answer says water moves towards the side with more dissolved stuff, which is inside her, and that the pump pushes the extra out.
@@ -612,7 +612,7 @@ Anjana wrote in her notebook: 'A plant can be thirsty while standing in water. I
 7. (match) Match each scientist to what they found about cell skins.  
    **Answer:** Wilhelm Pfeffer → measured how water moves through a man-made skin, in 1877; Ernest Overton → noticed that substances that dissolve in fat get into cells fastest; Evert Gorter and François Grendel → showed that the cell skin is two layers thick, in 1925; Singer and Nicolson → said that the skin is a fluid with proteins floating in it, in 1972. *Why:* Each step added a clue. First came the idea that a skin exists, then that it is fatty, then that it has two layers, and then that it flows.
 8. (mcq) Fat molecules have a head that likes water and a tail that avoids water. In water, why do they form a double layer with the tails inside?  
-   Options: The tails hide from the water between the two layers of heads / The heads push the tails together / Fat molecules always stack in twos  
+   Options: The heads push the tails together / The tails hide from the water between the two layers of heads / Fat molecules always stack in twos  
    **Answer:** The tails hide from the water between the two layers of heads. *Why:* The heads face the water on both sides and the tails tuck away from it in the middle. This happens on its own, which is one reason scientists think skins formed early.
 9. (order) Put these discoveries about the cell skin in the order scientists made them.  
    **Answer:** ['Pfeffer showed that water moves as though through a skin (1877)', 'Overton showed that fat-soluble substances get in fastest (1890s)', 'Gorter and Grendel showed the skin is two layers thick (1925)', 'Singer and Nicolson said the skin flows like a fluid (1972)']. *Why:* Each result built on the one before. First the skin was needed to explain how water moved, then it was found to be fatty, then to be two layers, and then to flow.
@@ -623,7 +623,7 @@ Anjana wrote in her notebook: 'A plant can be thirsty while standing in water. I
 12. (write) Plan a fair test to find out if sugar water pulls water out of potato strips as well as salt water does. Say what you change and what you keep the same.  
    **Answer:** I change the dissolved stuff: one cup of sugar water and one of salt water. I keep the same: strips cut from one potato, the same amount of water, the same amount of sugar and salt, and the same time. I also use a cup of plain water as a control.. *Why:* A strong answer changes only one thing, keeps the rest the same, and includes a plain water cup to compare with.
 13. (mcq) Which of these questions about the first cell are scientists still debating?  
-   Options: Whether the skin, the instructions or the chemistry came first / Whether the first cells lived more than three billion years ago / Whether fat molecules can form hollow bubbles in water  
+   Options: Whether the first cells lived more than three billion years ago / Whether the skin, the instructions or the chemistry came first / Whether fat molecules can form hollow bubbles in water  
    **Answer:** Whether the skin, the instructions or the chemistry came first. *Why:* Scientists agree that the first cells appeared more than 3.5 billion years ago, and that fat bubbles form easily. What came first is still open.
 14. (fill) A plant stands up because the water in the big vacuole pushes against the cell ____.  
    **Answer:** ['wall']. *Why:* The wall is stiff, so the water pressure from inside makes the whole cell firm. When the water is lost, the pressure drops and the plant wilts.
@@ -637,43 +637,43 @@ Anjana wrote in her notebook: 'A plant can be thirsty while standing in water. I
 
 ## Quiz
 1. (mcq) Which three things do almost all cells have?  
-   Options: A membrane, cytoplasm and DNA / A wall, a leaf and a root / A nucleus, a brain and a heart  
+   Options: A wall, a leaf and a root / A membrane, cytoplasm and DNA / A nucleus, a brain and a heart  
    **Answer:** A membrane, cytoplasm and DNA. *Why:* Every cell has a membrane for a skin, cytoplasm for her working jelly, and DNA for her instructions. Bacteria have no nucleus, and not every cell has a wall.
 2. (mcq) What is the main job of the cell membrane?  
-   Options: To decide what goes in and out of the cell / To make sugar from sunlight / To store the DNA  
+   Options: To make sugar from sunlight / To store the DNA / To decide what goes in and out of the cell  
    **Answer:** To decide what goes in and out of the cell. *Why:* The membrane is the skin of the cell. It lets some things pass, helps some across, and stops the rest. Making sugar is the job of chloroplasts and storing DNA is the job of the nucleus.
 3. (mcq) Which of these is found in plant cells but not in animal cells?  
    Options: Chloroplasts / A nucleus / Cytoplasm  
    **Answer:** Chloroplasts. *Why:* Plant cells have a wall, chloroplasts and a big vacuole as well. Plant and animal cells share the nucleus and cytoplasm.
 4. (mcq) A potato strip stays stiff in plain water but goes soft in salt water. What is the best explanation?  
-   Options: Water leaves the cells of the strip and goes into the salty water / The salt makes the potato rot quickly / The potato drinks the salt and gets heavy  
+   Options: The salt makes the potato rot quickly / Water leaves the cells of the strip and goes into the salty water / The potato drinks the salt and gets heavy  
    **Answer:** Water leaves the cells of the strip and goes into the salty water. *Why:* Strong salt water has more dissolved stuff than the potato cells have. Water moves through the cell skins towards the saltier side, so the cells go soft. Rot would take days.
 5. (mcq) Which sentence about water and a cell's skin is correct?  
-   Options: Water moves through the skin in both directions and ends up on the side with more dissolved stuff / Water can only enter a cell and can never leave / Water cannot pass through a cell's skin at all  
+   Options: Water can only enter a cell and can never leave / Water cannot pass through a cell's skin at all / Water moves through the skin in both directions and ends up on the side with more dissolved stuff  
    **Answer:** Water moves through the skin in both directions and ends up on the side with more dissolved stuff. *Why:* Water crosses the membrane both ways all the time. More ends up on the side that has more dissolved stuff. This is osmosis.
 6. (mcq) Why can a cell not grow as big as a mango?  
    Options: Her inside grows faster than her surface, so the middle would not get food and oxygen / Her membrane would be too thin to see / Her nucleus would get too hot  
    **Answer:** Her inside grows faster than her surface, so the middle would not get food and oxygen. *Why:* Food and oxygen come in through the surface. When a cell gets bigger, her inside grows faster than her surface, so the middle would starve.
 7. (mcq) Which single-celled living being has chloroplasts and swims with a tail?  
-   Options: Euglena / Amoeba / Yeast  
+   Options: Amoeba / Euglena / Yeast  
    **Answer:** Euglena. *Why:* A euglena makes sugar in the light like a plant and swims towards the light like an animal. An amoeba flows along without a tail, and yeast does not swim.
 8. (mcq) How does a paramecium get rid of the extra water that flows into her?  
-   Options: A small pump called a contractile vacuole pushes it out / She drinks it / Her wall squeezes it out  
+   Options: She drinks it / Her wall squeezes it out / A small pump called a contractile vacuole pushes it out  
    **Answer:** A small pump called a contractile vacuole pushes it out. *Why:* Pond water has less dissolved stuff than her insides, so water keeps flowing in. Her contractile vacuole collects it and pumps it out again and again.
 9. (mcq) What does the nucleus hold?  
    Options: The cell's DNA, which carries the instructions / The cell's sugar / The cell's water  
    **Answer:** The cell's DNA, which carries the instructions. *Why:* The nucleus is the room that keeps the DNA safe. The cell copies out the pages of instructions she needs.
 10. (mcq) Which of these has no nucleus?  
-   Options: A bacterium / A cheek cell / A mushroom cell  
+   Options: A cheek cell / A bacterium / A mushroom cell  
    **Answer:** A bacterium. *Why:* Bacteria keep their DNA loose in the cytoplasm. Animal, plant and fungus cells keep their DNA in a nucleus.
 11. (mcq) What were mitochondria before they lived inside larger cells?  
-   Options: Free-living bacteria / Tiny plants / Pieces of the nucleus  
+   Options: Tiny plants / Free-living bacteria / Pieces of the nucleus  
    **Answer:** Free-living bacteria. *Why:* Mitochondria have their own loops of DNA and divide on their own. They began as bacteria that moved into larger cells and stayed.
 12. (mcq) How do we know a cell has a skin, even though early microscopes could not see it?  
    Options: Water and dissolved stuff moved in and out as though through a skin, and fat tests showed it was there / A scientist guessed it and nobody checked / Because a plant cell has a wall  
    **Answer:** Water and dissolved stuff moved in and out as though through a skin, and fat tests showed it was there. *Why:* Scientists such as Wilhelm Pfeffer and Ernest Overton inferred a fatty skin from how water and other substances moved. Electron microscopes later showed it.
 13. (mcq) Why does a plate of cut brinjal slices get wet after you sprinkle salt on it?  
-   Options: Salt pulls water out of the cells of the brinjal / The salt melts the brinjal / The salt makes water out of air  
+   Options: The salt melts the brinjal / Salt pulls water out of the cells of the brinjal / The salt makes water out of air  
    **Answer:** Salt pulls water out of the cells of the brinjal. *Why:* Salt on the outside of the cells makes water move out through the cell skins. The water collects on the plate.
 14. (truefalse) The cell wall of a plant cell is the same thing as her cell membrane.  
    **Answer:** False. *Why:* False. The wall is a stiff layer outside the membrane. The membrane is a thin, fatty skin that decides what passes in and out.
@@ -745,11 +745,20 @@ What Makes a Thing Alive? (sci.what-is-life.L4): Topic-level song
 - [Cell Size and Scale, Learn.Genetics, University of Utah](https://learn.genetics.utah.edu/content/cells/scale/) · interactive: Slide from a coffee bean down to a cell and a bacterium to see how much smaller each step is.
 - [Inside a Cell, Learn.Genetics, University of Utah](https://learn.genetics.utah.edu/content/cells/insideacell/) · interactive: Click on a cell's parts to see what each one does.
 - [Foldscope](https://foldscope.com/) · interactive: A paper microscope made at Stanford by Manu Prakash and Jim Cybulski. Its site has guides and a gallery of what people have seen.
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: A science museum with galleries on the human body and on life, where older children can look at models of cells.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru: A science museum with galleries on the human body and on life, where older children can look at models of cells.
 
 ## Things to buy
 - [A pocket microscope or a clip-on phone microscope (60 times)](https://www.amazon.in/s?k=pocket+microscope+60x) (tool): Optional, about Rs 300 to 600. For the Hay Pond. A clip-on lens shows single-celled swimmers much better than a magnifier, but a phone camera and a torch also work. Used in p1. 
 - [A digital kitchen scale that reads in grams](https://www.amazon.in/s?k=digital+kitchen+scale) (tool): Optional. For weighing the potato strips before and after the Potato Strips test, as an extra measurement. The test works with a ruler alone. Used in e1. 
+- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): Used in Hay Pond: a week of looking for single-celled swimmers. About ₹30 to ₹120. A water drop on clear plastic magnifies a little. Used in p1. Get it before Hay Pond: a week of looking for single-celled swimmers.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Potato Strips: what does salt water do to a cell?, Naked Egg: a skin you can see and measure, Raisin Swell: plain water or salt water?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, a4, c1. Get it before Potato Strips: what does salt water do to a cell?.
+- [A small funnel](https://www.amazon.in/s?k=small+plastic+funnel) (tool): Used in Be the Membrane: build a filter that picks by size. About ₹20 to ₹50. The top of a cut plastic bottle works. Used in c1. Get it before Be the Membrane: build a filter that picks by size.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Build a Plant Cell and an Animal Cell from the kitchen. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in a3. Get it before Build a Plant Cell and an Animal Cell from the kitchen.
+- [Vinegar](https://www.amazon.in/s?k=white+vinegar) (material): Used in Naked Egg: a skin you can see and measure. About ₹40 to ₹80. Lemon juice works for many tests. Used in e2. Get it before Naked Egg: a skin you can see and measure.
+- [Clean sand (a small bag)](https://www.amazon.in/s?k=play+sand+small+bag) (material): Used in Be the Membrane: build a filter that picks by size. About ₹20 to ₹60. Fine soil sieved from a pot works. Used in c1. Get it before Be the Membrane: build a filter that picks by size.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Build a Plant Cell and an Animal Cell from the kitchen. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a3. Get it before Build a Plant Cell and an Animal Cell from the kitchen.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Potato Strips: what does salt water do to a cell?, Be the Membrane: build a filter that picks by size. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e1, c1. Get it before Potato Strips: what does salt water do to a cell?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is the thin skin around a cell called? → The cell membrane.
@@ -771,7 +780,7 @@ What Makes a Thing Alive? (sci.what-is-life.L4): Topic-level song
 - Founder's RNA picture book in ideas/by_topic/microorganisms.md (single-celled life that senses, decides and signals; the prokaryote mother who splits into two), used in the single-cell explanation and the roots
 - DeepKids notebook items bio:71 to bio:73 (cell biology, cell theory, prokaryotic and eukaryotic cells)
 - Existing DeepKids lesson sci-C3-living-and-non-living-signs-of-life (cells, bacteria and viruses), improved on, with a different story
-- Level 3 unit sci.what-is-life.cells.L3, which this unit goes deeper than and does not repeat. NCERT and Cambridge primary science chapters for coverage only. Their text is not copied
+- Level 3 unit sci.what-is-life.cells.L3, which this lesson goes deeper than and does not repeat. NCERT and Cambridge primary science chapters for coverage only. Their text is not copied
 - Pfeffer, W., Osmotische Untersuchungen, 1877 (osmosis and the man-made membrane)
 - de Vries, H., on plasmolysis in plant cells, 1884
 - Overton, E., on the entry of substances into cells and the fatty nature of the membrane, 1895 to 1899

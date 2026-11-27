@@ -1,7 +1,7 @@
 # How plants sense light, gravity and touch, and respond
 `sci.plants.plant-senses.L2`
 
-**Summary.** Plants have no eyes, so how does a moong shoot know where the window is? In this unit you will watch which way leaves face, test if moong shoots turn back to the light when you turn the cup, and see which way four roots grow.
+**Summary.** Plants have no eyes, so how does a moong shoot know where the window is? In this lesson you will watch which way leaves face, test if moong shoots turn back to the light when you turn the cup, and see which way four roots grow.
 
 **Intro.** *Find a plant that grows by a window or on a balcony. Which way are their leaves facing: into the room, or out towards the light?* Plants have no eyes and no muscles. Yet they know where the light is, which way is down, and when something touches them. To sense something means to notice it. To respond means to do something because of it. Plants do both, all day long. Before you read on, make a guess. If you turn a plant round so the leaves face away from the window, will they stay that way, or turn back? You are going to find out.
 
@@ -424,7 +424,7 @@ That night, Nila drew the wiggly moong shoots in her notebook. Next to them she 
 ## Worksheets
 ### Light, Down and Touch (core) (core, 10 questions)
 1. (mcq) Why did we grow the moong in the dark before the window test?  
-   Options: So all the shoots stood straight before the test / So the shoots grow faster in the dark / So the shoots turn green  
+   Options: So the shoots grow faster in the dark / So the shoots turn green / So all the shoots stood straight before the test  
    **Answer:** So all the shoots stood straight before the test. *Why:* Shoots grown near a window lean before the test starts. In the dark they stand straight, so any lean we see later comes from the window light.
 2. (draw) Draw your cup of moong shoots after one day by the window. Draw an arrow to show where the light came from.  
    **Answer:** The cup with the shoots leaning towards the window, and an arrow from the window to the shoots.. *Why:* A strong drawing shows the shoots leaning the same way the light came from, as in the child's own test.
@@ -449,7 +449,7 @@ That night, Nila drew the wiggly moong shoots in her notebook. Next to them she 
 1. (order) Put the steps of the root box in order.  
    **Answer:** [0, 1, 2, 3]. *Why:* First set up the sprouts, then close the box and wait, and only then look at what the roots did.
 2. (mcq) In the root box, a sprout is laid with the root pointing sideways, to the left. Where will the root tip point the next day?  
-   Options: Still to the left / Curved round, pointing down / Up, towards the light  
+   Options: Still to the left / Up, towards the light / Curved round, pointing down  
    **Answer:** Curved round, pointing down. *Why:* Roots grow in the direction gravity pulls, so the tip curves down. Picking 'up' mixes up roots with shoots.
 3. (sort) Sort these plant movements: fast (in seconds) or slow (hours or days).  
    **Answer:** touch-me-not leaflets folding → Fast; moong shoot bending to a window → Slow; root curving down → Slow; Venus flytrap shutting on an insect → Fast; young sunflower turning from east to west → Slow. *Why:* Most plants move by growing, which is slow. A touch-me-not moves fast by moving water in their cells. A Venus flytrap also shuts in about a second.
@@ -471,7 +471,7 @@ That night, Nila drew the wiggly moong shoots in her notebook. Next to them she 
 1. (write) Many people think a sunflower in full bloom follows the Sun all day. What would you look at, and when, to find out?  
    **Answer:** Look at a sunflower with an open flower in the morning, at midday and in the evening, and see which way the flower faces each time.. *Why:* A strong answer looks more than once, at different times of day. Scientists who did this found that most open sunflowers face east all day.
 2. (mcq) Darwin covered the tips of grass seedlings with tiny caps. Then the seedlings did not bend to the light. What does this show?  
-   Options: The tip senses the light / The caps were too heavy / Grass grows only in the dark  
+   Options: The caps were too heavy / The tip senses the light / Grass grows only in the dark  
    **Answer:** The tip senses the light. *Why:* Only the tip was covered, and the bending stopped. So the tip is where the light is sensed.
 3. (perspective) A girl and her aunt, who is a plant scientist, look at the root box. The girl speaks first.  
    **Answer:** A strong answer picks a side with a reason, and thinks about whether knowing how something works also tells us whether the root decided.. *Why:* The second person describes how the root senses gravity. The first person describes what the root does with it. Some scientists say the root decides where to grow. Others use only words like the second person's.
@@ -480,7 +480,7 @@ That night, Nila drew the wiggly moong shoots in her notebook. Next to them she 
 5. (truefalse) If you turn a potted plant round on a windowsill, the leaves slowly turn back to face the window.  
    **Answer:** True. *Why:* True. The plant senses which side the light comes from and turns the leaves to face it, over days or weeks.
 6. (mcq) A cup of moong shoots stands by a window. You turn the cup a little every hour, all day long. Which way will the shoots lean in the evening?  
-   Options: Strongly towards the window / Mostly straight up / Away from the window  
+   Options: Strongly towards the window / Away from the window / Mostly straight up  
    **Answer:** Mostly straight up. *Why:* Each side of the cup faces the light in turn, so no side stays shady for long. The shoots grow mostly straight. Picking 'strongly towards the window' forgets that the cup kept turning.
 7. (sort) Sort by what the plant sensed: light, gravity or touch.  
    **Answer:** shoot bends to the window → Light; root turns down → Gravity; touch-me-not folds → Touch; tendril coils round a stick → Touch; root bends again when the box is turned → Gravity; young sunflower turns from east to west → Light. *Why:* Bending to a window and following the Sun are about light. Roots turning down are about gravity. Folding and coiling are about touch.
@@ -498,40 +498,40 @@ That night, Nila drew the wiggly moong shoots in her notebook. Next to them she 
 
 ## Quiz
 1. (mcq) You put a cup of straight moong shoots by a window. The next day, which way will they lean?  
-   Options: Towards the window / Away from the window / They fall flat  
+   Options: Away from the window / Towards the window / They fall flat  
    **Answer:** Towards the window. *Why:* The shoots sense the light and grow towards it. If you picked 'they fall flat', you may have thought the shoots get knocked over. They stay standing and only lean.
 2. (mcq) Which part of a shoot senses the light?  
-   Options: The tip / The roots / The seed  
+   Options: The roots / The tip / The seed  
    **Answer:** The tip. *Why:* Darwin covered the tips of seedlings, and they stopped bending to the light. Picking 'roots' mixes up light with gravity.
 3. (mcq) A moong sprout lies with the root pointing up. What will the root do?  
-   Options: Keep growing up / Curve round and grow down / Stop growing  
+   Options: Keep growing up / Stop growing / Curve round and grow down  
    **Answer:** Curve round and grow down. *Why:* Roots grow in the direction gravity pulls. If you picked 'keep growing up', you may have thought a root just carries on the way it points.
 4. (mcq) What helps a root tip know which way is down?  
-   Options: Tiny heavy grains that sink to the lowest side of each cell / The root sees the floor / Water pulls the root  
+   Options: The root sees the floor / Tiny heavy grains that sink to the lowest side of each cell / Water pulls the root  
    **Answer:** Tiny heavy grains that sink to the lowest side of each cell. *Why:* The grains always sink to the lowest side, whichever way the root lies. Roots have no eyes, so 'sees the floor' cannot be right.
 5. (mcq) What does a touch-me-not do when you touch the tip of one leaf?  
-   Options: The leaflets fold up, pair after pair / The leaf turns red / The plant grows taller  
+   Options: The leaf turns red / The leaflets fold up, pair after pair / The plant grows taller  
    **Answer:** The leaflets fold up, pair after pair. *Why:* A signal runs along the leaf, water moves out of cells at the base of each leaflet, and the leaflets fold.
 6. (mcq) When else does a touch-me-not fold their leaves, with nobody touching them?  
    Options: At night / At noon in bright sun / Never  
    **Answer:** At night. *Why:* A touch-me-not folds their leaves every night and opens them in the morning.
 7. (mcq) How does a moong shoot bend towards the light?  
-   Options: The shady side of the stem grows longer, so the stem curves / The plant walks on their roots / The wind blows the shoot over  
+   Options: The plant walks on their roots / The wind blows the shoot over / The shady side of the stem grows longer, so the stem curves  
    **Answer:** The shady side of the stem grows longer, so the stem curves. *Why:* The plant sends a growth chemical to the shady side. That side grows longer, so the stem curves towards the light.
 8. (mcq) Why can't we see a moong shoot bending, even if we stare at the shoot?  
-   Options: The shoot bends by growing, and growing is slow / The shoot moves only when nobody is looking / Shoots never bend  
+   Options: The shoot moves only when nobody is looking / The shoot bends by growing, and growing is slow / Shoots never bend  
    **Answer:** The shoot bends by growing, and growing is slow. *Why:* Growing takes hours. We see the bend only if we look again later, or watch a time-lapse film.
 9. (mcq) You turn a money plant pot round, so the leaves face the room. What will happen in a week?  
    Options: The leaves slowly turn back to face the window / The leaves fall off / Nothing changes  
    **Answer:** The leaves slowly turn back to face the window. *Why:* The plant senses which side the light comes from, and turns the leaves to face it again.
 10. (mcq) In one experiment, a scientist dropped touch-me-not plants gently, again and again, with no harm. What happened after a few drops?  
-   Options: Many stopped folding their leaves for the drop / They folded faster each time / They lost all their leaves  
+   Options: They folded faster each time / Many stopped folding their leaves for the drop / They lost all their leaves  
    **Answer:** Many stopped folding their leaves for the drop. *Why:* Many stopped folding for the drop. They still folded when shaken in a new way, so they were not just tired. Scientists still argue about whether to call this learning.
 11. (mcq) You guess that moong shoots will lean to the window. What is the best way to check your guess?  
    Options: Put shoots by a window and look the next day / Ask a friend what they think / Guess again, harder  
    **Answer:** Put shoots by a window and look the next day. *Why:* A test with real shoots shows what really happens. Asking or guessing again cannot tell us.
 12. (mcq) Which of these do plants sense?  
-   Options: Light, gravity and touch / Only water / Nothing at all  
+   Options: Only water / Light, gravity and touch / Nothing at all  
    **Answer:** Light, gravity and touch. *Why:* Plants sense light, which way is down, touch, water and more. If you picked 'nothing at all', you may have thought that a plant that stays still senses nothing.
 
 ## Applications
@@ -543,7 +543,7 @@ That night, Nila drew the wiggly moong shoots in her notebook. Next to them she 
 ## Spotted around us
 - Money plants and tulsi on balconies and windowsills, with their leaves turned towards the open sky.
 - Touch-me-not growing low on empty plots, roadsides and the edges of school grounds, with small pink puffball flowers.
-- Sunflower fields in Karnataka, Andhra Pradesh and Maharashtra, with nearly all the open flowers facing the same way.
+- A field of sunflowers, with nearly all the open flowers facing the same way.
 - A plant growing through a crack in a wall, leaning out towards the light.
 - Bottle gourd or bitter gourd on a terrace or a balcony grille, their tendrils coiled round the bars.
 
@@ -580,13 +580,18 @@ That night, Nila drew the wiggly moong shoots in her notebook. Next to them she 
 Root, Stem, Leaf, Flower, Fruit and Seed (sci.plants.L2): Topic-level song for Plants L2
 
 ## Links
-- [Acharya Jagadish Chandra Bose Indian Botanic Garden]() · place · Howrah, near Kolkata: A big garden named after J.C. Bose, who measured the signals in touch-me-not plants. It is home to the Great Banyan.
-- [Bose Institute]() · place · Kolkata: The research institute J.C. Bose founded in 1917. Check before you go whether the museum of his instruments is open to visitors.
-- [Lalbagh Botanical Garden]() · place · Bengaluru: Many plants to watch, including climbers with tendrils and plants leaning towards light at the edges of shady paths.
+- Acharya Jagadish Chandra Bose Indian Botanic Garden · place · Howrah, near Kolkata: A big garden named after J.C. Bose, who measured the signals in touch-me-not plants. It is home to the Great Banyan.
+- Bose Institute · place · Kolkata: The research institute J.C. Bose founded in 1917. Check before you go whether the museum of his instruments is open to visitors.
+- Lalbagh Botanical Garden · place · Bengaluru: Many plants to watch, including climbers with tendrils and plants leaning towards light at the edges of shady paths.
 - [Plants of the World Online, Kew](https://powo.science.kew.org) · interactive: For the parent: look up Mimosa pudica, the touch-me-not, and see where in the world they first grew.
 
 ## Things to buy
 - [A small touch-me-not plant (Mimosa pudica), or a packet of their seeds]() (material): Only needed for the touch-me-not tests. Many plant nurseries sell small plants cheaply, and seeds are sold online. The plant also grows wild on many empty plots, so look there first. Used in a2. Seeds have a hard coat. Soak them in warm water overnight, and they sprout in about one to two weeks, so start early. A plant from a nursery can be used the same day.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Straight Shoots by a Window. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before Straight Shoots by a Window.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in The Window Test: will moong shoots turn back to the light?. About ₹20 to ₹50. Torn clean cloth works. Used in e1. Get it before The Window Test: will moong shoots turn back to the light?.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in The Root Box: which way will four roots grow?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e2. Get it before The Root Box: which way will four roots grow?.
+- [A small toy car with free-rolling wheels](https://www.amazon.in/s?k=toy+car+pull+back+small) (material): Used in Straight Shoots by a Window. About ₹100 to ₹200. A marble or a round torch cell works. Used in c1. Get it before Straight Shoots by a Window.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Which way does a shoot grow when light comes from one side? → Towards the light.

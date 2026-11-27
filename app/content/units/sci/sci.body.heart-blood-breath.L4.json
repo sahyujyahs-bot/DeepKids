@@ -125,7 +125,7 @@
    "concept": "Pulse and breathing rate: two numbers you can count",
    "status": "defined",
    "definition": "Your pulse rate is the number of heartbeats in one minute. Your breathing rate is the number of breaths in one minute. Both change all day.",
-   "description": "Press two fingers, not your thumb, on the inside of your wrist and you feel a small push again and again. Each push is one heartbeat travelling along an artery. Count the pushes for 15 seconds and multiply by 4, and you have your pulse rate. To count breaths, watch a chest or a belly rise and fall for 15 seconds, and multiply by 4. A child of 6 to 10 sitting still has a pulse rate of about 70 to 110 beats per minute and a breathing rate of about 18 to 25 breaths per minute. A grown-up at rest has a slower pulse and slower breathing. A newborn baby has a much faster pulse and breathing. Heart rate and breathing rate are not fixed numbers. They change from moment to moment, depending on how hard your body is working.",
+   "description": "Press two fingers, not your thumb, on the inside of your wrist and you feel a small push again and again. Each push is one heartbeat travelling along an artery. Count the pushes for 15 seconds and multiply by 4, and you have your pulse rate. To count breaths, watch a chest or a belly rise and fall for 15 seconds, and multiply by 4. A child of 6 to 10 sitting still has a pulse rate of about 70 to 110 beats per minute and a breathing rate of about 18 to 25 breaths per minute. A grown-up at rest has a slower pulse and slower breathing. A newborn baby has a much faster pulse and breathing. Heart rate and breathing rate are not fixed numbers. They change from moment to moment, depending on how hard your body is working. An adult at rest breathes about 16 to 18 times a minute. Exercise, illness and fever all make breathing faster.",
    "examples": [
     "A child lying down has a lower pulse than the same child standing up.",
     "After 30 step-ups, a child's pulse can double, and then falls back over a few minutes.",
@@ -499,11 +499,11 @@
       "t": "mcq",
       "q": "Why do we use two fingers and not the thumb to find a pulse?",
       "options": [
-       "The thumb has a pulse of its own, which can fool you",
        "The thumb is too big to press",
-       "Fingers are always warmer than thumbs"
+       "Fingers are always warmer than thumbs",
+       "The thumb has a pulse of its own, which can fool you"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Your thumb has a small artery that beats, so you may count your own thumb's pulse by mistake. Two fingers pick up only the artery in your wrist. If you picked another answer, try again with a finger and a thumb on a friend's wrist, and compare."
      }
     },
@@ -987,11 +987,11 @@
       "t": "mcq",
       "q": "You count 21 beats in 15 seconds at your wrist and 22 at your temple. What does this suggest?",
       "options": [
-       "It is the same heart beating, so the counts should be close",
        "Your temple has its own heart",
-       "One of the counts must be wrong by a lot"
+       "One of the counts must be wrong by a lot",
+       "It is the same heart beating, so the counts should be close"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A pulse is a wave of pressure from one heart, so it reaches your wrist and temple together. A difference of one or two is just a counting slip. If you picked another answer, count again at both places."
      }
     }
@@ -1073,11 +1073,11 @@
       "t": "mcq",
       "q": "Who would you expect to breathe fastest while resting?",
       "options": [
-       "A young baby",
        "A grandparent",
-       "A grown-up"
+       "A grown-up",
+       "A young baby"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Smaller bodies and younger bodies usually breathe faster at rest. A young baby breathes about twice as fast as a grown-up. If you picked another answer, check your counts against the bar chart."
      }
     }
@@ -1173,11 +1173,11 @@
       "t": "mcq",
       "q": "The magnet caught tiny dark flecks. Why does the body need iron?",
       "options": [
-       "Iron is a part of haemoglobin, which carries oxygen",
        "Iron makes bones bend",
-       "Iron makes blood watery"
+       "Iron makes blood watery",
+       "Iron is a part of haemoglobin, which carries oxygen"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Each haemoglobin molecule has iron at its heart. This is where oxygen grabs on. Without enough iron, the body makes less haemoglobin, so less oxygen can be carried. If you picked another answer, look at the haemoglobin card."
      }
     },
@@ -1203,11 +1203,11 @@
       "t": "mcq",
       "q": "The magnet caught tiny dark flecks. Why does the body need iron?",
       "options": [
-       "Iron is a part of haemoglobin, which carries oxygen",
        "Iron makes bones bend",
-       "Iron makes blood watery"
+       "Iron makes blood watery",
+       "Iron is a part of haemoglobin, which carries oxygen"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Each haemoglobin molecule has iron at its heart. This is where oxygen grabs on. Without enough iron, the body makes less haemoglobin, so less oxygen can be carried. If you picked another answer, look at the haemoglobin card."
      }
     }
@@ -1266,11 +1266,11 @@
       "t": "mcq",
       "q": "The low hand looked pinker, with veins that stood out. Why?",
       "options": [
-       "Gravity pulled more blood down into that hand",
        "The low hand worked harder",
-       "The low hand was nearer the heart"
+       "The low hand was nearer the heart",
+       "Gravity pulled more blood down into that hand"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Blood weighs something, so gravity pulls it down. In the raised hand, the blood drains back towards the heart. In the hanging hand, the blood collects and the veins fill up. If you picked another answer, think about which hand was further from the heart."
      }
     }
@@ -1349,11 +1349,11 @@
       "t": "mcq",
       "q": "Why did the straw make breathing hard work?",
       "options": [
-       "The air has to squeeze through a very narrow tube",
        "The straw takes oxygen out of the air",
+       "The air has to squeeze through a very narrow tube",
        "The straw makes the lungs smaller"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The air still has oxygen, but a narrow tube slows the air down, so the breathing muscles must work harder. In asthma, the airways tighten in the same way. If you picked another answer, remember that the straw only changes the width."
      }
     },
@@ -1370,11 +1370,11 @@
       "t": "mcq",
       "q": "Why did the straw make breathing hard work?",
       "options": [
-       "The air has to squeeze through a very narrow tube",
        "The straw takes oxygen out of the air",
+       "The air has to squeeze through a very narrow tube",
        "The straw makes the lungs smaller"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The air still has oxygen, but a narrow tube slows the air down, so the breathing muscles must work harder. In asthma, the airways tighten in the same way. If you picked another answer, remember that the straw only changes the width."
      }
     }
@@ -1438,11 +1438,11 @@
       "t": "mcq",
       "q": "The pulse was a little higher in the exciting story. What is a fair thing to say?",
       "options": [
-       "The change might be real, but the count is rough, so we should test more times",
        "The story proved that feelings change the pulse",
-       "The pulse never changes when you sit"
+       "The pulse never changes when you sit",
+       "The change might be real, but the count is rough, so we should test more times"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A 15-second count is rough, so a small difference could be chance. A fair scientist repeats the test. If you picked another answer, remember to be careful about what one test can show."
      }
     }
@@ -1859,11 +1859,11 @@
       "t": "mcq",
       "q": "Why is the long end of the lever easier to count than the belly?",
       "options": [
-       "It moves further than the belly does",
        "It moves faster than the belly",
+       "It moves further than the belly does",
        "It is lighter than the belly"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A lever makes a small movement into a large one. The short side moves a little and the long side moves about three times as far, so it is easier to see. If you picked another answer, measure how far each end moves with a ruler."
      }
     }
@@ -1921,11 +1921,11 @@
      "t": "mcq",
      "p": "Cells use food to get energy. What gas do they make as waste?",
      "opts": [
-      "Carbon dioxide",
       "Oxygen",
+      "Carbon dioxide",
       "Nitrogen"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Cells use oxygen to release energy from sugar, and they give out carbon dioxide and water. The carbon dioxide travels in the blood back to the lungs.",
      "outcome": 2
     },
@@ -1972,11 +1972,11 @@
      "t": "mcq",
      "p": "Which blood vessels are so thin that red blood cells pass through them in single file?",
      "opts": [
-      "Capillaries",
       "Arteries",
+      "Capillaries",
       "Veins"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A capillary is only one cell thick, and it is narrow enough that red cells must go through one at a time. This lets oxygen cross easily into the cells around it.",
      "outcome": 5
     },
@@ -2011,11 +2011,11 @@
      "t": "mcq",
      "p": "Your pulse and your breathing both go up when you run. What is the best reason?",
      "opts": [
-      "Your muscle cells need more oxygen and make more carbon dioxide",
       "Your heart and lungs are tired",
-      "Your brain wants to cool the blood"
+      "Your brain wants to cool the blood",
+      "Your muscle cells need more oxygen and make more carbon dioxide"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Busy muscles use oxygen faster and make more carbon dioxide. The heart and lungs speed up to deliver the oxygen and clear the carbon dioxide.",
      "outcome": 6
     },
@@ -2098,13 +2098,22 @@
      "t": "mcq",
      "p": "You press a fingernail until it goes white, and the pink comes back slowly. What does this suggest?",
      "opts": [
-      "Less blood is reaching the fingertip",
       "The nail is growing",
-      "The finger has too much blood"
+      "The finger has too much blood",
+      "Less blood is reaching the fingertip"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A white nail is a nail with the blood squeezed out. The pink returns when new blood arrives. If it comes back slowly, the blood is arriving slowly, as in cold fingers.",
      "outcome": 7
+    },
+    {
+     "t": "fill",
+     "p": "A grown-up at rest breathes about ____ times a minute.",
+     "a": [
+      "16 to 18"
+     ],
+     "why": "A grown-up at rest takes about 16 to 18 breaths a minute. Exercise, illness and fever push the number higher.",
+     "outcome": 0
     }
    ]
   },
@@ -2118,11 +2127,11 @@
      "t": "mcq",
      "p": "Your lungs have hundreds of millions of tiny air bags and not one big bag. Why does this help?",
      "opts": [
-      "It gives a huge surface for oxygen to cross into the blood",
       "It makes the lungs lighter",
+      "It gives a huge surface for oxygen to cross into the blood",
       "It keeps the air warm"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Oxygen crosses the lung's thin wall, and the more wall there is, the more oxygen can cross each second. Many small bags have more surface than one big bag of the same volume.",
      "outcome": 5
     },
@@ -2130,11 +2139,11 @@
      "t": "mcq",
      "p": "A crushed sugar lump dissolves faster than a whole one. What does this tell you about why lungs fold into so many bags?",
      "opts": [
-      "More surface means a faster swap",
       "Small pieces are lighter",
-      "Warm water is better for powder"
+      "Warm water is better for powder",
+      "More surface means a faster swap"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A swap happens only where two things touch. Breaking something into many small pieces gives much more touching surface.",
      "outcome": 5
     },
@@ -2275,11 +2284,11 @@
      "t": "mcq",
      "p": "Why does the left side of the heart have a thicker wall than the right?",
      "opts": [
-      "It pushes blood all the way round the body",
       "It is bigger than the right",
-      "It is older than the right"
+      "It is older than the right",
+      "It pushes blood all the way round the body"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The right side sends blood a short way to the lungs. The left side must push blood through the whole body, so it needs stronger muscle.",
      "outcome": 4
     },
@@ -2402,11 +2411,11 @@
      "t": "mcq",
      "p": "An octopus has blue-green blood. What is the reason?",
      "opts": [
-      "It carries oxygen with copper instead of iron",
       "It has no oxygen in it",
-      "It is cold-blooded"
+      "It is cold-blooded",
+      "It carries oxygen with copper instead of iron"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The octopus's oxygen carrier has copper, and copper makes the blood bluish. Ours has iron, and iron makes blood red.",
      "outcome": 3
     },
@@ -2444,11 +2453,11 @@
      "t": "mcq",
      "p": "Why do climbers rest for days partway up a high mountain before going higher?",
      "opts": [
-      "The body needs time to make more red blood cells and adjust its breathing",
       "The food is better at the lower camps",
+      "The body needs time to make more red blood cells and adjust its breathing",
       "The air is warmer at the lower camps"
      ],
-     "a": 0,
+     "a": 1,
      "why": "It takes days to weeks for the body to adjust to thin air. Going too fast can cause altitude sickness.",
      "outcome": 2
     },
@@ -2493,11 +2502,11 @@
      "t": "mcq",
      "p": "A pulse oximeter clipped to a finger shows 98 percent. What does this mean?",
      "opts": [
-      "About 98 out of every 100 haemoglobin molecules are carrying oxygen",
       "98 percent of the air is oxygen",
-      "The pulse is 98 beats a minute"
+      "The pulse is 98 beats a minute",
+      "About 98 out of every 100 haemoglobin molecules are carrying oxygen"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A pulse oximeter shines light through the finger and measures how much of the haemoglobin is holding oxygen. It often shows the pulse in a separate number.",
      "outcome": 3
     },
@@ -2520,11 +2529,11 @@
      "t": "mcq",
      "p": "At 3,500 metres, each breath holds about two thirds as much oxygen as at sea level. Which could help the body get the same oxygen?",
      "opts": [
-      "Breathing faster, pumping more blood and making more red blood cells",
       "Breathing slower",
+      "Breathing faster, pumping more blood and making more red blood cells",
       "Eating more salt"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Breathing faster brings in more air, pumping more blood moves the oxygen faster, and more red blood cells carry more oxygen on each trip. All three help.",
      "outcome": 6
     },
@@ -2602,11 +2611,11 @@
    "t": "mcq",
    "p": "Which part of the heart pushes blood to the whole body?",
    "opts": [
-    "The left side",
     "The right side",
-    "Both sides do the same job"
+    "Both sides do the same job",
+    "The left side"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The right side sends blood to the lungs and the left side sends it to the whole body.",
    "outcome": 4
   },
@@ -2614,11 +2623,11 @@
    "t": "mcq",
    "p": "Why are the walls of the alveoli so thin?",
    "opts": [
-    "So oxygen can pass through quickly into the blood",
     "So the lungs are light",
+    "So oxygen can pass through quickly into the blood",
     "So the air stays inside"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A swap needs a thin wall. Oxygen crosses a wall that is only half a thousandth of a millimetre thick.",
    "outcome": 5
   },
@@ -2626,11 +2635,11 @@
    "t": "mcq",
    "p": "Which gas level in the blood mostly tells your body to breathe faster?",
    "opts": [
-    "Carbon dioxide",
     "Oxygen",
-    "Nitrogen"
+    "Nitrogen",
+    "Carbon dioxide"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Rising carbon dioxide is the main signal. Falling oxygen matters later and only when it falls a long way.",
    "outcome": 6
   },
@@ -2638,11 +2647,11 @@
    "t": "mcq",
    "p": "Your fingers are white and cold after a swim. When you press a nail, the pink returns slowly. What is your body doing?",
    "opts": [
-    "Sending less blood to the fingers to keep the middle of the body warm",
     "Making more blood in the fingers",
+    "Sending less blood to the fingers to keep the middle of the body warm",
     "Stopping your heart"
    ],
-   "a": 0,
+   "a": 1,
    "why": "In the cold, the small vessels near the skin narrow. The blood stays near the heart and the other organs that must stay warm.",
    "outcome": 7
   },
@@ -2686,13 +2695,25 @@
    "t": "mcq",
    "p": "A nurse takes blood from a vein in your arm. What colour is the blood in the syringe?",
    "opts": [
-    "Dark red",
     "Blue",
-    "Bright yellow"
+    "Bright yellow",
+    "Dark red"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Blood is always red. Blood from a vein has given up some oxygen, so it is dark red.",
    "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these makes a person breathe faster than usual?",
+   "opts": [
+    "A fever",
+    "Sitting still in a cool room",
+    "A long, quiet sleep"
+   ],
+   "a": 0,
+   "why": "A fever, an illness or exercise all make the breathing faster, because the body is working harder or fighting an illness. Sitting still in a cool room and sleeping quietly both slow the breathing down.",
+   "outcome": 0
   }
  ],
  "maths": [
@@ -3045,6 +3066,65 @@
    "used_in": [
     "a3"
    ]
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Family Pulse Study: a pulse for every age, The Tummy Lever: count breaths without anyone noticing. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before The Family Pulse Study: a pulse for every age."
+  },
+  {
+   "id": "b-modelling-clay-or-plasticine",
+   "item": "Modelling clay or plasticine",
+   "kind": "material",
+   "why": "Used in The Tummy Lever: count breaths without anyone noticing. About ₹40 to ₹120. Atta dough mixed with a little salt works.",
+   "url": "https://www.amazon.in/s?k=modelling+clay+plasticine",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before The Tummy Lever: count breaths without anyone noticing."
+  },
+  {
+   "id": "b-a-measuring-jug-or-syringe--",
+   "item": "A measuring jug or syringe (marked in millilitres)",
+   "kind": "tool",
+   "why": "Used in Big Surface, Fast Swap: why are lungs so wide?. About ₹30 to ₹100. A clean medicine cup or marked bottle works.",
+   "url": "https://www.amazon.in/s?k=measuring+jug+500+ml",
+   "used_in": [
+    "e3"
+   ],
+   "plan": "Get it before Big Surface, Fast Swap: why are lungs so wide?."
+  },
+  {
+   "id": "b-graph-paper",
+   "item": "Graph paper",
+   "kind": "material",
+   "why": "Used in The Family Pulse Study: a pulse for every age. About ₹10 to ₹30. Draw squares on plain paper.",
+   "url": "https://www.amazon.in/s?k=graph+paper+notebook",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before The Family Pulse Study: a pulse for every age."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

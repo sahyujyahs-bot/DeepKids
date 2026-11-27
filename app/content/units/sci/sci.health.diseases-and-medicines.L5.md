@@ -1,9 +1,9 @@
 # Diseases and medicines: what causes an illness, what a medicine does, and how we know it works
 `sci.health.diseases-and-medicines.L5`
 
-**Summary.** Limp coriander stems stand up just as well in plain water as in sugar water. A cold also ends in a week with or without a remedy. So how do we know a medicine works? In this unit you will run a fair trial on wilted stems, and track doses of tea in a glass.
+**Summary.** Limp coriander stems stand up just as well in plain water as in sugar water. A cold also ends in a week with or without a remedy. So how do we know a medicine works? In this lesson you will run a fair trial on wilted stems, and track doses of tea in a glass.
 
-**Intro.** *A cold goes away about a week after you take a remedy. A cold also goes away about a week after you take nothing. So how can anyone find out whether a remedy works?* People have used remedies for thousands of years, and many of them did nothing. For about two thousand years, doctors let blood out of ill people, and it harmed far more than it helped. Nobody could tell, because many ill people get better whatever is done to them. In this unit you find out how people learned to tell a real medicine from a useless one. First you learn that every disease has a cause, and that a treatment must fit the cause. You use a glass of water and spoons of tea as a model of a body. You see how a medicine builds up there and leaves. You run a fair trial on wilted coriander stems, with a remedy group and a comparison group. You test whether a label changes how sweet a drink tastes. No real medicine is used anywhere in this unit. Medicines are only for a grown-up to give, in the way a doctor says. By the end you can say what a medicine can do and what only the body can do. You can also say what counts as evidence that a medicine works.
+**Intro.** *A cold goes away about a week after you take a remedy. A cold also goes away about a week after you take nothing. So how can anyone find out whether a remedy works?* People have used remedies for thousands of years, and many of them did nothing. For about two thousand years, doctors let blood out of ill people, and it harmed far more than it helped. Nobody could tell, because many ill people get better whatever is done to them. In this lesson you find out how people learned to tell a real medicine from a useless one. First you learn that every disease has a cause, and that a treatment must fit the cause. You use a glass of water and spoons of tea as a model of a body. You see how a medicine builds up there and leaves. You run a fair trial on wilted coriander stems, with a remedy group and a comparison group. You test whether a label changes how sweet a drink tastes. No real medicine is used anywhere in this lesson. Medicines are only for a grown-up to give, in the way a doctor says. By the end you can say what a medicine can do and what only the body can do. You can also say what counts as evidence that a medicine works.
 
 ## Learning outcomes
 0. By the end I can name five kinds of cause of disease, and say why treatment must fit the cause.
@@ -22,6 +22,8 @@
 - **Diagnosis**: Finding out which disease a person has, and what caused it. A doctor asks questions, examines the body and may order tests. *e.g.* A doctor sends a drop of blood to be tested for malaria parasites before choosing a medicine.
 - **Deficiency disease**: A disease caused by too little of one nutrient for a long time. *e.g.* Too little iron causes anaemia. Too little vitamin C causes scurvy.
 - **Long-term disease**: A disease that lasts for years, and that medicines can control but usually cannot end. Doctors also say 'chronic disease'. *e.g.* Diabetes and asthma are long-term diseases. A person takes medicine for them for many years and lives a full life.
+- **Lifestyle disease**: A disease that grows slowly over years, helped along by daily habits such as too much sugar and salt, too little movement, tobacco and alcohol. *e.g.* Type 2 diabetes, high blood pressure and heart disease are lifestyle diseases.
+- **Blood pressure**: How hard the blood pushes on the walls of the arteries as the heart pumps it round the body. *e.g.* A nurse wraps a cuff round your arm to measure your blood pressure.
 - **Medicine**: A substance used to treat, ease or prevent a disease. A medicine is also called a drug. *e.g.* An antibiotic, a vaccine, an iron tablet and an asthma inhaler are all medicines, and each does a different job.
 - **Antibiotic**: A medicine that kills bacteria or stops them multiplying. An antibiotic does nothing to viruses. *e.g.* A doctor may give an antibiotic for typhoid, which bacteria cause. A virus causes a cold, so an antibiotic cannot help a cold.
 - **Dose**: The amount of a medicine to be given at one time. The doctor or the label also says how often. *e.g.* A label may say 5 millilitres, three times a day. The 5 millilitres is the dose.
@@ -79,6 +81,19 @@ In type 1 diabetes the pancreas stops making insulin. Insulin is the hormone tha
 - e.g. Insulin injections replace the insulin that the pancreas no longer makes.
 - e.g. A reliever inhaler opens tight airways in an asthma attack. A preventer inhaler is used every day.
 - e.g. A person with high blood pressure may take one tablet daily for decades and stay well.
+### Diseases of the way we live · *defined*
+**Definition:** A lifestyle disease grows slowly over many years, and daily habits help bring it on. Obesity, high blood pressure and type 2 diabetes are examples. Habits are only part of the cause, because the body and the family we are born into matter too.
+
+Obesity means carrying far more body fat than is healthy. It builds up when a body takes in more energy from food than it uses, year after year. Sugary drinks, fried snacks and long sitting add up. Sleep, family and the food a family can afford play a part too. High blood pressure means the blood pushes too hard on the walls of the arteries, the tubes that carry blood from the heart. Too much salt, too little movement and extra weight raise it. It usually gives no signs, so only a check with a cuff can find it. Type 2 diabetes has signs you can notice. A person feels very thirsty, passes urine often, sees things blurred and finds that wounds heal slowly. A healthy weight, daily movement, and less sugar and fried food lower the chance. It can also run in families, so a blood test is the way to be sure. Heart disease, stroke, type 2 diabetes and some cancers all become more likely with too much sugar and fat and too little movement. More likely does not mean certain. Some people with good habits fall ill, and some with poor habits do not.
+- e.g. A father with a cuff on his arm at a health camp finds that his blood pressure is high, though he feels well. He eats less salt and walks every evening.
+- e.g. A woman who is very thirsty, passes urine often and has a foot wound that will not heal gets a blood test. It shows type 2 diabetes.
+- e.g. A boy swaps a sugary drink for water or buttermilk each day. Over the years this helps keep his weight healthy.
+### Tobacco and alcohol: harm to the whole family · *defined*
+**Definition:** Tobacco and alcohol damage the body over years. Their harm reaches children, unborn babies and the whole family.
+
+Smoking bidis or cigarettes raises the risk of lung cancer and of cancer of the lip and mouth. It causes long coughs and other breathing diseases. Children who live in a smoky home get pneumonia more often. A woman who smokes, or breathes a lot of smoke, while she carries a baby can harm her baby before the baby is born. Drinking a lot of alcohol for years damages the liver, which can scar and harden. This is called cirrhosis. It harms the whole family, not just the person who drinks. Money meant for food and school fees may go on drink, and the home can become an unsafe place. These habits can change. Stopping tobacco at any age lowers the risk, and the sooner the better.
+- e.g. A bidi worker in a small town coughs every morning. A doctor tells him that quitting now will still help his lungs.
+- e.g. A girl whose uncle smokes indoors has a cough every winter. Her family asks him to smoke outside, and then to stop.
 ### What a medicine does, and what only the body can do · *defined*
 **Definition:** A medicine removes a cause, replaces something missing, eases a symptom or prevents a disease. The body does the repair.
 
@@ -205,7 +220,7 @@ First: only a grown-up gives a medicine. If you find a tablet or a bottle, do no
   Against: When the body is measured, a placebo changes little. In the 2011 asthma trial, people felt better after a dummy inhaler, but their airways had not opened.
 
 ## Roots
-In this unit you ran a trial on wilted stems and watched a cut potato grow a new skin. Now we ask what healing tells us about ourselves and about living beings.
+In this lesson you ran a trial on wilted stems and watched a cut potato grow a new skin. Now we ask what healing tells us about ourselves and about living beings.
 
 **Deep truth.** In the Wilted Stems Trial, stems in plain water stood up as well as stems in sugar water. The stems recovered by drawing water back into their own cells. A body ends most colds and closes most cuts in the same way, by its own repair. A medicine removes a cause or supplies what is missing, and the body does the mending.  
 *Habit it breaks:* We say 'the medicine cured me', and give the bottle all the credit. People have done this for thousands of years, which is how useless remedies such as bloodletting lasted so long. A medicine does one exact job. The living cells of the body do the rest, and in many illnesses they do all of it.  
@@ -217,8 +232,8 @@ In this unit you ran a trial on wilted stems and watched a cut potato grow a new
 
 A cut potato, a limp stem and a child with a cold recover by the work of their own cells. Some other animals search out plants that help them when they are ill. People have learned to make medicines that each do one exact job. So a medicine is one living being's help to another being's own repair. The same power of repair runs through every living body. A doctor's skill is to know when a body needs help and when it needs only time.
 
-- **Tirukkural 948, by Thiruvalluvar, in the chapter on medicine:** “நோய்நாடி நோய்முதல் நாடி அதுதணிக்கும் / வாய்நாடி வாய்ப்பச் செயல்.” Find out the disease. Find out its root cause. Find out the way to remove it. Then act in the way that fits. (This couplet is the first rule of this unit, written in Tamil more than 1,500 years ago. Five tired people had five causes, and each needed a different answer.)
-- **Charaka Samhita, Sutra Sthana, chapter 9:** Treatment stands on four legs: the physician, the medicine, the attendant and the patient. All four must be sound for the treatment to succeed. (Charaka counts the patient as one of the four supports of a cure, beside the medicine. In this unit, too, the medicine does one job and the patient's own body does the mending.)
+- **Tirukkural 948, by Thiruvalluvar, in the chapter on medicine:** “நோய்நாடி நோய்முதல் நாடி அதுதணிக்கும் / வாய்நாடி வாய்ப்பச் செயல்.” Find out the disease. Find out its root cause. Find out the way to remove it. Then act in the way that fits. (This couplet is the first rule of this lesson, written in Tamil more than 1,500 years ago. Five tired people had five causes, and each needed a different answer.)
+- **Charaka Samhita, Sutra Sthana, chapter 9:** Treatment stands on four legs: the physician, the medicine, the attendant and the patient. All four must be sound for the treatment to succeed. (Charaka counts the patient as one of the four supports of a cure, beside the medicine. In this lesson, too, the medicine does one job and the patient's own body does the mending.)
 - **Hippocratic writings, Epidemics, book 6, section 5:** The body's own nature is the healer of diseases. (The Greek doctors saw that many illnesses end by themselves. But they had no fair trial, so they could not tell which of their own treatments helped. Bloodletting came from the same tradition.)
 - Science (settled): Common colds and many other everyday illnesses are ended by the body's own defences, and remedies do not shorten them.
 - Science (settled): A wound is closed by the body's own cells. Medicines can keep germs out, but no medicine builds new skin or bone.
@@ -666,46 +681,50 @@ Chinni drank it and pulled a face.
   - Check: In a trial of a cold remedy, both groups are well in seven days. The remedy group slept better. What does the remedy do? → **It eases a symptom, and does not shorten the cold**
 
 ## Worksheets
-### Causes, medicines and fair tests (core, 16 questions)
+### Causes, medicines and fair tests (core, 18 questions)
 1. (mcq) What is the cause of a disease?  
-   Options: The thing that makes the disease begin / The symptom that feels worst / The medicine that treats it / The day the illness started  
+   Options: The symptom that feels worst / The medicine that treats it / The thing that makes the disease begin / The day the illness started  
    **Answer:** The thing that makes the disease begin. *Why:* A cause is what makes a disease begin, such as a germ or a missing nutrient. A symptom is only what the disease shows. If you chose the symptom, remember that one symptom can come from many causes.
 2. (sort) Sort these diseases by their kind of cause.  
    **Answer:** malaria → Germ; typhoid → Germ; anaemia → Missing nutrient; goitre → Missing nutrient; type 1 diabetes → A body part stops working; cataract → A body part stops working. *Why:* Malaria and typhoid are caused by germs. Anaemia comes from too little iron, and goitre from too little iodine. In type 1 diabetes the pancreas stops making insulin, and in cataract the lens of the eye clouds.
 3. (match) Match each disease to the protection that prevents it.  
    **Answer:** Malaria → A mosquito net; Cholera → Safe drinking water; Measles → A vaccine; Goitre → Iodised salt; Anaemia → Iron-rich food with lemon; Lung disease from smoke → No tobacco. *Why:* Each protection blocks one cause. A net blocks the mosquito, safe water blocks the cholera germ, and iodised salt supplies the missing iodine.
-4. (fill) A medicine that kills bacteria and does nothing to viruses is called an ____.  
+4. (match) Match each habit to the harm it can bring.  
+   **Answer:** Smoking bidis or cigarettes → Lung cancer and cancer of the lip and mouth; Drinking a lot of alcohol for years → Cirrhosis of the liver; Too much salt and too little movement → High blood pressure; Too much sugar and sitting still → Weight gain and type 2 diabetes. *Why:* Each habit harms one part of the body slowly. Tobacco harms the lungs and mouth, alcohol the liver, salt the arteries, and sugar with little movement leads to weight gain and diabetes.
+5. (fill) A medicine that kills bacteria and does nothing to viruses is called an ____.  
    **Answer:** ['antibiotic']. *Why:* Antibiotics act on parts that bacteria have and viruses lack. So they cannot help a cold or flu.
-5. (truefalse) Paracetamol lowers a fever by killing the germ that caused the fever.  
+6. (truefalse) Paracetamol lowers a fever by killing the germ that caused the fever.  
    **Answer:** False. *Why:* False. Paracetamol eases the symptom. The germ is untouched, and the body's defenders or another medicine must deal with it.
-6. (mcq) What does insulin do for a person with type 1 diabetes?  
-   Options: Replaces what the pancreas no longer makes / Kills the diabetes germ / Repairs the pancreas / Eases the pain  
+7. (truefalse) A person with high blood pressure always feels ill, so they will know it.  
+   **Answer:** False. *Why:* False. High blood pressure usually gives no signs for years. A check with a cuff is the only way to find it, and it can still cause a stroke or heart attack.
+8. (mcq) What does insulin do for a person with type 1 diabetes?  
+   Options: Kills the diabetes germ / Replaces what the pancreas no longer makes / Repairs the pancreas / Eases the pain  
    **Answer:** Replaces what the pancreas no longer makes. *Why:* In type 1 diabetes the pancreas stops making insulin. The injected insulin does that missing job each day. No germ causes diabetes, and insulin does not repair the pancreas.
-7. (truefalse) A swallowed tablet travels only to the part of the body that hurts.  
+9. (truefalse) A swallowed tablet travels only to the part of the body that hurts.  
    **Answer:** False. *Why:* False. The medicine passes into the blood, and the blood carries it to every part. This is why side effects happen.
-8. (fill) The time a body takes to remove half of a medicine is called its ____.  
+10. (fill) The time a body takes to remove half of a medicine is called its ____.  
    **Answer:** ['half-life']. *Why:* After one half-life, half the medicine is left. After two, a quarter is left. The half-life decides how far apart the doses are.
-9. (count) A glass holds 4 teaspoons of tea. Half is poured away, twice. How many teaspoons are left?  
+11. (count) A glass holds 4 teaspoons of tea. Half is poured away, twice. How many teaspoons are left?  
    **Answer:** 1. *Why:* Half of 4 is 2, and half of 2 is 1. A medicine in the body falls in the same way, by half in each half-life.
-10. (mcq) In the Wilted Stems Trial, why did a coin choose the glass for each stem?  
-   Options: So nobody could pick the fresher stems / So the stems recovered faster / Because coins measure wilting / To save time  
+12. (mcq) In the Wilted Stems Trial, why did a coin choose the glass for each stem?  
+   Options: So the stems recovered faster / Because coins measure wilting / To save time / So nobody could pick the fresher stems  
    **Answer:** So nobody could pick the fresher stems. *Why:* If a person chose, they might put the perkier stems in the sugar glass without meaning to. Chance treats both glasses alike. A coin does nothing to the stems themselves.
-11. (write) In the Wilted Stems Trial, what would the sugar glass alone have made you believe? Why is that a mistake?  
+13. (write) In the Wilted Stems Trial, what would the sugar glass alone have made you believe? Why is that a mistake?  
    **Answer:** I would have believed that sugar revives wilted stems, because they stood up. That is a mistake, because the stems in plain water stood up just as well. The water revived them and the sugar added nothing.. *Why:* A strong answer says that recovery after a treatment needs a comparison group. It uses the plain water glass as the evidence.
-12. (write) A cold ended a week after a remedy. Give two reasons why this does not show that the remedy worked.  
+14. (write) A cold ended a week after a remedy. Give two reasons why this does not show that the remedy worked.  
    **Answer:** First, a cold ends by itself in about a week. Second, people take a remedy on the worst day, and after the worst day a cold improves anyway. Only a comparison with children who took nothing could show what the remedy added.. *Why:* A strong answer names getting better anyway, and says what evidence would be needed.
-13. (draw) Draw the path of a swallowed tablet through the body, from the mouth to the urine. Label five stops.  
+15. (draw) Draw the path of a swallowed tablet through the body, from the mouth to the urine. Label five stops.  
    **Answer:** Mouth, stomach, small intestine, blood and liver, then the heart pumps it everywhere. The liver changes it, the kidneys filter it out, and it leaves in urine.. *Why:* A strong drawing shows the medicine passing into the blood and reaching the whole body. It also shows the liver and kidneys removing it.
-14. (perspective) A child has an ordinary cold. Should the family give a home remedy?  
+16. (perspective) A child has an ordinary cold. Should the family give a home remedy?  
    **Answer:** Any view with a reason. The grandmother is right that easing a symptom is a real help. The neighbour is right that the cold is not shortened. The doctor adds the limit: some illnesses do not end by themselves.. *Why:* All three speakers say something true. A strong answer keeps apart two things: shortening the illness and easing the symptoms.
-15. (order) Put the steps of a fair trial in order.  
+17. (order) Put the steps of a fair trial in order.  
    **Answer:** ['Find many people who agree to take part', 'Chance puts the people into two groups', 'One group gets the medicine and one gets a dummy', 'Measure everyone without knowing their group', 'Compare the two groups']. *Why:* People must agree first. Chance makes the groups alike. The dummy and the blind measuring keep hopes from changing the result. The comparison comes last.
-16. (mcq) You find a loose tablet on the floor at home. What should you do?  
-   Options: Take it to a grown-up / Taste it to find out what it is / Put it back in any bottle / Leave it where it is  
+18. (mcq) You find a loose tablet on the floor at home. What should you do?  
+   Options: Taste it to find out what it is / Take it to a grown-up / Put it back in any bottle / Leave it where it is  
    **Answer:** Take it to a grown-up. *Why:* A child never tastes or takes a medicine alone. A tablet in the wrong bottle could be given to the wrong person. A tablet left on the floor could be found by a smaller child.
-### Doses, journeys and evidence (stretch, 15 questions)
+### Doses, journeys and evidence (stretch, 17 questions)
 1. (mcq) Why is a dose of a medicine repeated after some hours?  
-   Options: The body removes the medicine all the time / The germs return every night / The first dose is always too weak / Medicine evaporates from the blood  
+   Options: The germs return every night / The body removes the medicine all the time / The first dose is always too weak / Medicine evaporates from the blood  
    **Answer:** The body removes the medicine all the time. *Why:* The liver and kidneys start removing a medicine as soon as it arrives. After a few hours too little is left to work, so another dose is needed.
 2. (mcq) In the Half-Glass Test, why did the tea stop rising near 4 teaspoons?  
    Options: Loss at each pour equalled one dose / The glass was full / Dark tea dissolves less / The spoon held less each time  
@@ -714,39 +733,43 @@ Chinni drank it and pulled a face.
    **Answer:** 7. *Why:* Half of 6 is 3. Adding the dose of 4 makes 7.
 4. (truefalse) Taking two doses together is a safe way to make up for a missed dose.  
    **Answer:** False. *Why:* False. Two doses together push the level in the blood higher than was planned. A grown-up asks the doctor or the chemist what to do.
-5. (truefalse) An inhaler needs a smaller dose than a tablet, because its medicine goes straight to the lungs.  
+5. (fill) A very thirsty person who passes urine often, sees things blurred and has wounds that heal slowly may have type 2 ____.  
+   **Answer:** ['diabetes']. *Why:* These are the signs of too much sugar in the blood. A blood test from a doctor is the way to be sure. A healthy weight and daily movement lower the chance.
+6. (truefalse) An inhaler needs a smaller dose than a tablet, because its medicine goes straight to the lungs.  
    **Answer:** True. *Why:* True. A swallowed medicine is spread through the whole body. A breathed-in medicine lands where it is needed, so far less is enough.
-6. (odd) Three of these are needed for a fair trial. Which one is the odd one out?  
+7. (odd) Three of these are needed for a fair trial. Which one is the odd one out?  
    Options: A comparison group / Chance choosing the groups / Blind measuring / A famous person's support  
    **Answer:** 3. *Why:* A trial needs a comparison group, chance and blind measuring. A famous person's support tells us nothing about whether a medicine works.
-7. (match) Match each medicine to the job it does.  
+8. (match) Match each medicine to the job it does.  
    **Answer:** Antibiotic → Kills bacteria; Iron tablet → Supplies a missing nutrient; Insulin → Replaces what the pancreas no longer makes; Paracetamol → Eases fever and pain; Vaccine → Prevents a disease; ORS → Replaces lost water and salts. *Why:* Each medicine does one exact job. None of them does the body's repair work.
-8. (sort) Sort these jobs. Is each one done by the treatment, or by the body?  
+9. (sort) Sort these jobs. Is each one done by the treatment, or by the body?  
    **Answer:** killing bacteria → The treatment; holding the edges of a cut together → The treatment; supplying iron → The treatment; growing new skin across a cut → The body; knitting a broken bone → The body; building new red blood cells → The body. *Why:* An antibiotic, stitches and an iron tablet each do one job. Growing skin, bone and blood cells is done only by living cells.
-9. (fill) A dummy treatment with no medicine in it, used in trials, is called a ____.  
+10. (fill) A dummy treatment with no medicine in it, used in trials, is called a ____.  
    **Answer:** ['placebo']. *Why:* A placebo looks and tastes like the real treatment. It lets the control group expect the same as the treated group.
-10. (write) In a trial, the doctor chooses which patients get the new medicine. Explain how this could spoil the trial.  
+11. (write) In a trial, the doctor chooses which patients get the new medicine. Explain how this could spoil the trial.  
    **Answer:** Without meaning to, the doctor might give the new medicine to the patients who look stronger. Then the groups differ before the trial starts. A difference at the end could come from the choosing and not from the medicine.. *Why:* A strong answer says the groups must be alike at the start, and that only chance makes them alike.
-11. (write) In the Label Test, both cups held the same drink. Explain why their scores can still differ.  
+12. (write) In the Label Test, both cups held the same drink. Explain why their scores can still differ.  
    **Answer:** The label told the tasters to expect a sweeter drink. The brain builds a taste from the tongue's signal and from what it expects. So an honest taster can score the labelled cup higher.. *Why:* A strong answer says that expecting something changes what a person reports, and links this to why trials are blind.
-12. (write) A swallowed medicine for a blocked nose can make a person sleepy. Explain why.  
+13. (write) A swallowed medicine for a blocked nose can make a person sleepy. Explain why.  
    **Answer:** The medicine passes into the blood, and the blood carries it to every part of the body. In the brain its molecules also fit, and there they cause sleepiness.. *Why:* A strong answer says that a swallowed medicine goes everywhere. A side effect is the same medicine acting in another place.
-13. (perspective) In a trial of a new medicine, should half of the ill people get a dummy?  
+14. (write) Write three ways in which one person's drinking alcohol can harm the whole family.  
+   **Answer:** Money meant for food and school fees may go on drink. The home may become unsafe or full of fights. Children may feel afraid and may not study well. The person's liver may also fail, and the family then has a sick person to care for.. *Why:* A strong answer names harm to more than the person who drinks: money, safety, the children, and the care of a sick person.
+15. (perspective) In a trial of a new medicine, should half of the ill people get a dummy?  
    **Answer:** Any view with a reason. For the patient: wanting the best chance is fair. For the doctor: an untested medicine may be worse than the dummy, as bloodletting was. For the later patient: without trials, useless treatments last for centuries.. *Why:* This is a real question that doctors argue about. A strong answer notices that the new medicine is not yet known to be better.
-14. (label) On a body outline, label where each goes in: a tablet, an inhaler, eye drops, an ointment.  
+16. (label) On a body outline, label where each goes in: a tablet, an inhaler, eye drops, an ointment.  
    **Answer:** ['Tablet: the mouth, then the gut and the blood', 'Inhaler: the lungs', 'Eye drops: the eye', 'Ointment: the skin']. *Why:* A tablet reaches the whole body through the blood. The other three put the medicine at the place where it is needed.
-15. (mcq) Which sentence about a 'natural' remedy is true?  
-   Options: It can still have side effects / It is always safe / It never needs testing / It works because it is old  
+17. (mcq) Which sentence about a 'natural' remedy is true?  
+   Options: It is always safe / It never needs testing / It works because it is old / It can still have side effects  
    **Answer:** It can still have side effects. *Why:* A plant strong enough to change the body is strong enough to harm it. Datura is natural and poisonous. Old or natural remedies need the same fair trial as any medicine.
 ### Testing claims about remedies (challenge, 15 questions)
 1. (mcq) Twenty people took a syrup and all recovered. What is the most important thing still unknown?  
-   Options: How many recover without the syrup / The colour of the syrup / The price of the syrup / The names of the patients  
+   Options: The colour of the syrup / The price of the syrup / The names of the patients / How many recover without the syrup  
    **Answer:** How many recover without the syrup. *Why:* If twenty similar people who took nothing also recovered, the syrup added nothing. Without that comparison the twenty recoveries show very little.
 2. (mcq) A trial has only six people in each group. Why is that weak evidence?  
-   Options: Luck can decide the result in small groups / Six people cannot swallow tablets / Small groups recover faster / Six is an even number  
+   Options: Six people cannot swallow tablets / Small groups recover faster / Six is an even number / Luck can decide the result in small groups  
    **Answer:** Luck can decide the result in small groups. *Why:* With six in a group, one or two people who recover by luck change the result a great deal. With hundreds, luck evens out.
 3. (mcq) In the 2011 asthma trial, what did a dummy inhaler change?  
-   Options: How patients felt, and not their measured breathing / Their measured breathing only / Both their feeling and their breathing / Nothing at all  
+   Options: Their measured breathing only / Both their feeling and their breathing / Nothing at all / How patients felt, and not their measured breathing  
    **Answer:** How patients felt, and not their measured breathing. *Why:* Patients said they felt better after the dummy inhaler. A breathing meter showed that their airways had opened only after the real one.
 4. (truefalse) A remedy that has been used for a thousand years must work.  
    **Answer:** False. *Why:* False. Bloodletting was used for about two thousand years and did harm. A useless remedy can last for centuries, because most of its patients get better anyway.
@@ -783,35 +806,44 @@ Chinni drank it and pulled a face.
    Options: One symptom can have different causes / Fevers differ in colour / Doctors like variety / Each person needs the newest medicine  
    **Answer:** One symptom can have different causes. *Why:* A fever is a symptom. Malaria, typhoid and flu each cause one, and each needs a different treatment. So the cause must be found first.
 2. (mcq) Which of these protects a sleeping family against malaria?  
-   Options: A mosquito net / Iodised salt / Boiled drinking water / An antibiotic kept at home  
+   Options: Iodised salt / Boiled drinking water / An antibiotic kept at home / A mosquito net  
    **Answer:** A mosquito net. *Why:* Malaria parasites are carried by mosquitoes who bite at night. A net blocks them. Boiled water blocks the germs of cholera and typhoid.
 3. (mcq) Which disease is cured by a nutrient, and not by a medicine that kills germs?  
    Options: Goitre / Typhoid / Malaria / Tuberculosis  
    **Answer:** Goitre. *Why:* Goitre comes from too little iodine, and iodised salt prevents and treats it. The other three are caused by germs.
-4. (mcq) What does an antibiotic do to a cold virus?  
-   Options: Nothing / It kills the virus slowly / It weakens the virus / It stops the virus spreading  
+4. (mcq) Why do doctors say that a child living in a home full of tobacco smoke is at risk?  
+   Options: The child breathes the smoke and gets pneumonia more often / The smoke gives the child a deficiency disease / Smoke harms only the person who is smoking  
+   **Answer:** The child breathes the smoke and gets pneumonia more often. *Why:* Smoke harms everyone who breathes it, and children's lungs are small and still growing. They get pneumonia more often when they live with smoke. A deficiency disease comes from a missing nutrient and not from smoke.
+5. (mcq) A man drinks a lot of alcohol for many years. Which part of his body is most likely to be damaged, and who else is harmed?  
+   Options: His lungs only, and nobody else / His liver, and his whole family / His bones only, and nobody else  
+   **Answer:** His liver, and his whole family. *Why:* Alcohol is broken down in the liver, and years of heavy drinking can scar the liver. This is called cirrhosis. The family is harmed too, because money, safety and peace at home suffer. Smoke, not alcohol, is what harms the lungs.
+6. (mcq) Which of these is a sign of type 2 diabetes?  
+   Options: A rash that comes only in the rains / A sore throat that ends in two days / Cuts and wounds that heal very slowly  
+   **Answer:** Cuts and wounds that heal very slowly. *Why:* Too much sugar in the blood slows healing. It also makes a person very thirsty, makes them pass urine often and can blur their sight. A rash in the rains or a sore throat that ends quickly is usually from another cause.
+7. (mcq) What does an antibiotic do to a cold virus?  
+   Options: It kills the virus slowly / It weakens the virus / It stops the virus spreading / Nothing  
    **Answer:** Nothing. *Why:* An antibiotic acts on parts that bacteria have and viruses lack. A cold is caused by a virus, so the antibiotic has nothing to act on.
-5. (mcq) A broken arm is put in a plaster cast. What mends the bone?  
-   Options: The bone's own living cells / The plaster / A medicine for pain / The bandage under the plaster  
+8. (mcq) A broken arm is put in a plaster cast. What mends the bone?  
+   Options: The plaster / The bone's own living cells / A medicine for pain / The bandage under the plaster  
    **Answer:** The bone's own living cells. *Why:* The cast only holds the bone still. Bone cells bridge the break over some weeks. No medicine builds bone.
-6. (mcq) A swallowed medicine passes into the blood. Where does the blood carry it?  
-   Options: To every part of the body / Only to the part that is ill / Only to the stomach / Only to the heart  
+9. (mcq) A swallowed medicine passes into the blood. Where does the blood carry it?  
+   Options: Only to the part that is ill / To every part of the body / Only to the stomach / Only to the heart  
    **Answer:** To every part of the body. *Why:* Blood reaches every organ, so the medicine does too. That is why a medicine can have effects in places it was not meant for.
-7. (mcq) A medicine has a half-life of 4 hours. How much of one dose is left after 8 hours?  
-   Options: A quarter / A half / None / All of it  
+10. (mcq) A medicine has a half-life of 4 hours. How much of one dose is left after 8 hours?  
+   Options: A half / None / A quarter / All of it  
    **Answer:** A quarter. *Why:* After 4 hours half is left. After 4 more hours, half of that is left, which is a quarter.
-8. (mcq) A cough ended five days after a child took a syrup. What can we say?  
-   Options: We cannot tell whether the syrup helped / The syrup cured the cough / The syrup made the cough last longer / The cough was not real  
+11. (mcq) A cough ended five days after a child took a syrup. What can we say?  
+   Options: The syrup cured the cough / The syrup made the cough last longer / The cough was not real / We cannot tell whether the syrup helped  
    **Answer:** We cannot tell whether the syrup helped. *Why:* Most coughs end by themselves. Without a group that took no syrup, nobody can say what the syrup added.
-9. (mcq) In a trial of a medicine, what is the control group for?  
-   Options: To show what happens without the medicine / To control the doctors / To take a double dose / To keep the medicine cold  
+12. (mcq) In a trial of a medicine, what is the control group for?  
+   Options: To control the doctors / To take a double dose / To show what happens without the medicine / To keep the medicine cold  
    **Answer:** To show what happens without the medicine. *Why:* The control group gets a dummy. Whatever happens to them would have happened anyway, so the medicine's effect is the difference between the groups.
-10. (truefalse) In a blind trial, the patients know whether they got the real medicine or the dummy.  
+13. (truefalse) In a blind trial, the patients know whether they got the real medicine or the dummy.  
    **Answer:** False. *Why:* False. Blind means the patients do not know. This keeps their hopes from changing what they report.
-11. (mcq) Who should give a child a medicine?  
-   Options: A grown-up, in the way a doctor says / The child, if she can read the label / An older brother or sister / Anyone who had the same illness  
+14. (mcq) Who should give a child a medicine?  
+   Options: The child, if she can read the label / An older brother or sister / Anyone who had the same illness / A grown-up, in the way a doctor says  
    **Answer:** A grown-up, in the way a doctor says. *Why:* A medicine needs the right cause, the right dose and the right times. A grown-up follows the doctor and the label. A child never takes a medicine alone.
-12. (mcq) Which of these do scientists still argue about?  
+15. (mcq) Which of these do scientists still argue about?  
    Options: How much a dummy can change a disease / Whether germs cause cholera / Whether iron prevents anaemia / Whether vaccines prevent measles  
    **Answer:** How much a dummy can change a disease. *Why:* The other three are settled by strong evidence. How much a placebo can do, beyond changing what people feel and report, is still argued over.
 
@@ -885,6 +917,13 @@ Clean, Strong and Happy (sci.health.L5): Topic-level song
 
 ## Things to buy
 - [Bad Science, a book by Ben Goldacre (2008)](https://www.amazon.in/s?k=Bad+Science+Ben+Goldacre) (book): For the parent: a doctor explains, with many examples, how to tell good evidence about medicines and remedies from bad. Used in g2, p1. Read the chapter on the placebo before the Claim Collector. Then help your child put the four questions to one claim from the book.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Worst Day: read the chart of a cold. About ₹10 to ₹30. Any school ruler is fine. Used in a4. Get it before The Worst Day: read the chart of a cold.
+- [Food colour](https://www.amazon.in/s?k=food+colour+liquid) (material): Used in The Half-Glass Test: does a medicine keep building up when dose follows dose?. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it. Used in e1. Get it before The Half-Glass Test: does a medicine keep building up when dose follows dose?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Claim Collector: eight health claims and four questions. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in p1. Get it before The Claim Collector: eight health claims and four questions.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Wilted Stems Trial: does sugar in the water revive limp coriander?, The Lid a Toddler Cannot Open. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e2, c1. Get it before The Wilted Stems Trial: does sugar in the water revive limp coriander?.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in The Worst Day: read the chart of a cold. About ₹10 to ₹30. Draw squares on plain paper. Used in a4. Get it before The Worst Day: read the chart of a cold.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in The Potato's New Skin: can a living thing close a wound with no medicine?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in a5. Get it before The Potato's New Skin: can a living thing close a wound with no medicine?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is the difference between a symptom and a cause? → A symptom is what an illness shows, such as fever. A cause is what makes the illness begin, such as a germ.

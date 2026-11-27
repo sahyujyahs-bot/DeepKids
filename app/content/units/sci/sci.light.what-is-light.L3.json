@@ -790,10 +790,10 @@
       "q": "Which light took longer to reach your eye?",
       "options": [
        "The Moon's light",
-       "The Sun's light",
-       "Both arrive at the same moment"
+       "Both arrive at the same moment",
+       "The Sun's light"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The Sun is about 400 times further away than the Moon. Moonlight takes about 1 and a quarter seconds. Sunlight takes about 8 minutes. Picking the Moon usually means guessing that the Moon is further away than the Sun. Picking 'the same moment' usually means thinking light is instant."
      },
      "ask": [
@@ -908,11 +908,11 @@
       "t": "mcq",
       "q": "In the game, the GLASS card makes photons slow down. What does that show about real light?",
       "options": [
-       "Light slows down inside glass",
        "Light stops inside glass",
+       "Light slows down inside glass",
        "Light speeds up inside glass"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Light goes about two thirds as fast inside glass as in empty space. When it comes out, it speeds up again. Picking 'stops' usually means thinking glass blocks light, but glass lets light through. Picking 'speeds up' gets it the wrong way round."
      }
     },
@@ -938,11 +938,11 @@
      "t": "mcq",
      "p": "You switch on a torch in a dark room. The far wall lights up at once. Many people think light gets there in no time at all. What is really true?",
      "opts": [
-      "It takes no time at all",
       "It takes a tiny time, far too short to notice",
+      "It takes no time at all",
       "It takes about one second"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Light has a speed: about 3 lakh kilometres every second. Across a room, that takes about one hundred-millionth of a second, far too short to notice. So it feels instant, but it is not. A strong answer separates 'too fast to notice' from 'no time'."
     },
     {
@@ -968,11 +968,11 @@
      "t": "mcq",
      "p": "A helper far away bangs two steel plates together. You stand 200 big steps away. What do you notice, and what does it show?",
      "opts": [
-      "I saw the plates meet before I heard the bang, so light travels faster than sound",
       "I heard the bang before I saw the plates meet, so sound is faster",
+      "I saw the plates meet before I heard the bang, so light travels faster than sound",
       "I saw and heard them at the same moment, so they travel at the same speed"
      ],
-     "a": 0,
+     "a": 1,
      "why": "From far away there is a gap: the sight arrives first, the sound later. Light crosses 200 steps in almost no time. Sound takes about two fifths of a second. A strong answer gives what was seen and what it shows.",
      "how": "e1"
     },
@@ -987,10 +987,10 @@
      "p": "Imagine the Sun suddenly stopped shining. When would people on Earth notice?",
      "opts": [
       "At that very moment",
-      "About 8 minutes later",
-      "The next day"
+      "The next day",
+      "About 8 minutes later"
      ],
-     "a": 1,
+     "a": 2,
      "why": "The last light the Sun gave out would still be on its way. For about 8 minutes, we would go on seeing the Sun as if nothing had happened. A strong answer uses the 8-minute trip to predict."
     },
     {
@@ -998,10 +998,10 @@
      "p": "In the Glow Star Test, you shine a red phone screen on glow star 1 for 2 minutes. Then you shine a blue screen on glow star 2 for 30 seconds. Which one makes its star glow?",
      "opts": [
       "The red screen, because it shone for longer",
-      "The blue screen",
-      "Both the same"
+      "Both the same",
+      "The blue screen"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Only the blue light made the star glow, even though the red shone four times as long. Many people expect more light, for longer, to always do more. The test shows it does not. Each bit of blue light carries more energy than each bit of red.",
      "how": "e2"
     },
@@ -1136,11 +1136,11 @@
      "t": "mcq",
      "p": "In 1676, Ole Rømer noticed that Jupiter's moon Io came out of Jupiter's shadow later than expected when the Earth was far from Jupiter. What was his explanation?",
      "opts": [
-      "Io slowed down when Earth was far away",
       "Light from Io needed extra time to cross the extra distance",
+      "Io slowed down when Earth was far away",
       "The clocks were wrong"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Io was always on time. When the Earth was further away, the light carrying Io's picture had further to travel, so it arrived later. This was the first proof that light takes time to travel.",
      "how": "a4"
     },
@@ -1198,11 +1198,11 @@
      "t": "mcq",
      "p": "Around 1803, Thomas Young shone light through two thin slits close together. On the wall he saw bright and dark stripes. What did the stripes show?",
      "opts": [
-      "Light is a wave: where two sets of ripples meet, they add up in some places and cancel in others",
       "The slits were dirty",
-      "Light is made of stripes"
+      "Light is made of stripes",
+      "Light is a wave: where two sets of ripples meet, they add up in some places and cancel in others"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Only waves make a pattern like that. In the Ripples in an Uruli activity, two sets of ripples crossed and made a pattern too. Particles flying in straight lines would just make two bright lines.",
      "how": "a3"
     },
@@ -1236,11 +1236,11 @@
      "t": "mcq",
      "p": "An iron rod heated in a fire glows red. What inside the iron is giving out the light?",
      "opts": [
-      "Tiny electrons in its atoms, which give out energy as light",
       "Smoke inside the iron",
-      "The air around it"
+      "The air around it",
+      "Tiny electrons in its atoms, which give out energy as light"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Heat gives the electrons in the iron's atoms extra energy. They give some of it out again as light. Nearly all light, from the Sun to a bulb, is made this way, by electrons giving out energy."
     },
     {
@@ -1275,10 +1275,10 @@
      "p": "Someone says, 'Light is so fast, so it must be infinitely fast.' What is the best answer?",
      "opts": [
       "That is right",
-      "Very fast is not the same as infinitely fast. Rømer measured a delay of minutes across space.",
-      "Light is actually slower than sound"
+      "Light is actually slower than sound",
+      "Very fast is not the same as infinitely fast. Rømer measured a delay of minutes across space."
      ],
-     "a": 1,
+     "a": 2,
      "why": "Light takes about 8 minutes from the Sun and minutes more from Jupiter. Those delays can be measured, so light's speed is huge but not infinite."
     },
     {
@@ -1315,21 +1315,21 @@
      "p": "The Moon is about one and a quarter light-seconds away. Astronauts left mirrors on the Moon. A laser flash is sent there from Earth and bounces back. About how long until the flash returns?",
      "opts": [
       "About 1 and a quarter seconds",
-      "About 2 and a half seconds",
-      "About 8 minutes"
+      "About 8 minutes",
+      "About 2 and a half seconds"
      ],
-     "a": 1,
+     "a": 2,
      "why": "The flash goes there and comes back, so it makes the trip twice. One and a quarter plus one and a quarter is two and a half seconds. Scientists use this to measure the Moon's distance very exactly."
     },
     {
      "t": "mcq",
      "p": "An astronaut is on Mars. She sends a radio message home. Radio travels at the speed of light, and the trip takes 12 minutes. When does her family hear her?",
      "opts": [
-      "At the same moment she speaks",
       "12 minutes after she speaks",
+      "At the same moment she speaks",
       "12 hours after she speaks"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Radio is a kind of light. It needs 12 minutes to cross the distance. So a chat with Mars is slow: a question and its answer take at least 24 minutes."
     },
     {
@@ -1873,11 +1873,11 @@
       "t": "mcq",
       "q": "The melted spots are 6 centimetres apart. How long is one whole wave?",
       "options": [
-       "12 centimetres",
        "6 centimetres",
-       "3 centimetres"
+       "3 centimetres",
+       "12 centimetres"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The hot spots are half a wave apart. So one whole wave is twice the gap, 6 + 6 = 12 centimetres. Picking 6 means taking the gap as a whole wave. Picking 3 means halving instead of doubling."
      }
     },
@@ -2170,11 +2170,11 @@
       "t": "mcq",
       "q": "When two ripples cross in the uruli, what happens?",
       "options": [
-       "They add up in some places and cancel out in others",
        "They bounce off each other like balls",
-       "The bigger ripple wins and the smaller one stops"
+       "The bigger ripple wins and the smaller one stops",
+       "They add up in some places and cancel out in others"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Waves pass through each other. Where two tops meet, they add up. Where a top meets a dip, they cancel. Thomas Young saw the same kind of pattern with light in about 1803, so he said light is a wave. Picking 'bounce' usually means imagining waves as solid things, like balls."
      }
     },
@@ -2282,11 +2282,11 @@
       "t": "mcq",
       "q": "When the Earth was far from Jupiter, Io seemed late. Why?",
       "options": [
-       "The light carrying the news had further to travel",
        "Io slowed down",
-       "Jupiter's shadow got bigger"
+       "Jupiter's shadow got bigger",
+       "The light carrying the news had further to travel"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Io always came out on time. But the light carrying its picture had a longer trip to reach the Earth. That took extra minutes. Picking 'Io slowed down' is what people first thought. Rømer showed the moon was not late at all. Only the news of it was late."
      }
     },
@@ -2388,11 +2388,11 @@
       "t": "mcq",
       "q": "You see Betelgeuse tonight. Its light left it about 600 years ago. What are you seeing?",
       "options": [
-       "Betelgeuse as it was about 600 years ago",
        "Betelgeuse exactly as it is tonight",
+       "Betelgeuse as it was about 600 years ago",
        "Betelgeuse as it will be in 600 years"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Light from Betelgeuse travelled for hundreds of years to reach you. So you see the star as it was when that light set out. Picking 'as it is tonight' usually means thinking light is instant. Nobody can see the future in a star's light."
      },
      "parent": "At other times of year, find any bright star with the app. It will tell you the star's distance in light-years. That number is also how many years old its light is."
@@ -2477,11 +2477,11 @@
       "t": "mcq",
       "q": "Why do you see a pattern of dots around the street light?",
       "options": [
-       "Light waves spread out through the tiny gaps and cross each other",
        "The cloth has tiny lights in it",
-       "Your eye is tired"
+       "Your eye is tired",
+       "Light waves spread out through the tiny gaps and cross each other"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The gaps between threads are very tiny. Light waves passing through them spread out and overlap. Where they add up, you see bright dots. This is called diffraction. Picking 'tiny lights in the cloth' means thinking the cloth makes light, but it only lets light through."
      }
     },
@@ -2565,11 +2565,11 @@
       "t": "mcq",
       "q": "Which idea best matches what scientists know about light?",
       "options": [
-       "Tiny packets travelling in straight lines, with a wave pattern",
        "Nothing, light is instant",
-       "A rope joining the lamp to the wall"
+       "A rope joining the lamp to the wall",
+       "Tiny packets travelling in straight lines, with a wave pattern"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Light travels from the lamp in straight lines. It acts like a wave and arrives in packets called photons. It takes a tiny bit of time. 'Nothing, light is instant' is what many people believed before Rømer. Picking 'a rope' means thinking light joins things, but it flies from one to the other."
      }
     }
@@ -2677,11 +2677,11 @@
       "t": "mcq",
       "q": "On the string, Earth is 8 centimetres from the Sun, and Neptune is 250 centimetres. What does that tell you?",
       "options": [
-       "Neptune's sunlight takes far longer to arrive than Earth's",
        "Neptune is closer to the Sun than Earth",
+       "Neptune's sunlight takes far longer to arrive than Earth's",
        "Light slows down near Neptune"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Each centimetre is one minute of light travel. So sunlight takes about 250 minutes, over 4 hours, to reach Neptune, but only 8 minutes to reach Earth. Light does not slow down out there. It just has much further to go. Picking 'light slows down' mixes up a longer trip with a slower speed."
      },
      "parent": "Proxima Centauri is about 4.24 light-years away. That is about 22 lakh light-minutes, so about 22 kilometres on a string with 1 centimetre per minute."
@@ -2888,11 +2888,11 @@
    "t": "mcq",
    "p": "Which of these is a light source, making its own light?",
    "opts": [
-    "The Moon",
     "A candle flame",
+    "The Moon",
     "A mirror"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A candle flame makes its own light. The Moon and a mirror only bounce back light that comes from somewhere else, like the Sun.",
    "outcome": 0
   },
@@ -2936,11 +2936,11 @@
    "t": "mcq",
    "p": "A helper bangs two plates, and you see the plates meet before you hear the bang. You want to show that the gap grows with distance. What is the one thing you should change between tries?",
    "opts": [
-    "How far you stand from the helper",
     "The kind of plates",
+    "How far you stand from the helper",
     "How hard the helper bangs"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A fair test changes only one thing. Changing only the distance shows that the gap between seeing and hearing grows with distance.",
    "outcome": 2,
    "how": "e1"
@@ -2949,11 +2949,11 @@
    "t": "mcq",
    "p": "You count 15 seconds between a lightning flash and its thunder. About how far away is the lightning?",
    "opts": [
-    "About 5 kilometres",
     "About 15 kilometres",
-    "About 45 kilometres"
+    "About 45 kilometres",
+    "About 5 kilometres"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Sound takes about 3 seconds to travel 1 kilometre. 15 divided by 3 is 5. So the lightning is about 5 kilometres away.",
    "outcome": 2,
    "how": "e1"
@@ -2975,11 +2975,11 @@
    "t": "mcq",
    "p": "Light is far too fast to time with a stopwatch. How could you measure its speed here on the Earth?",
    "opts": [
-    "Send light through a gap in a fast-spinning wheel with teeth, to a far mirror and back, and see how fast the wheel must spin for a tooth to block it",
     "Two lanterns on hills and a stopwatch",
+    "Send light through a gap in a fast-spinning wheel with teeth, to a far mirror and back, and see how fast the wheel must spin for a tooth to block it",
     "A glow star"
    ],
-   "a": 0,
+   "a": 1,
    "why": "You know how far the light went, there and back. The spinning wheel tells you how long the next tooth took to move into the gap. Distance and time together give the speed.",
    "outcome": 3
   },
@@ -2999,11 +2999,11 @@
    "t": "mcq",
    "p": "Photons are tiny packets of light energy. Which colour of light carries the most energy in each photon?",
    "opts": [
+    "Blue",
     "Red",
-    "Yellow",
-    "Blue"
+    "Yellow"
    ],
-   "a": 2,
+   "a": 0,
    "why": "Blue photons carry more energy than yellow, and yellow more than red. That is why blue light could make the glow star glow and red light could not.",
    "outcome": 4
   },
@@ -3377,6 +3377,67 @@
    "used_in": [
     "a5"
    ]
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in The Light-Minute String. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before The Light-Minute String."
+  },
+  {
+   "id": "b-a-digital-stopwatch--optiona",
+   "item": "A digital stopwatch (optional)",
+   "kind": "tool",
+   "why": "Used in Galileo's Lantern Test. About ₹150 to ₹400. A phone stopwatch works well.",
+   "url": "https://www.amazon.in/s?k=digital+stopwatch",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before Galileo's Lantern Test."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Chocolate in the Microwave: measure the speed of light, The 8-Minute Wait, The Light-Minute String. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e3",
+    "a2",
+    "p1"
+   ],
+   "plan": "Get it before Chocolate in the Microwave: measure the speed of light."
+  },
+  {
+   "id": "b-marbles--a-few",
+   "item": "Marbles (a few)",
+   "kind": "material",
+   "why": "Used in Ripples in an Uruli: what is a wave?. About ₹10 to ₹40. Small round stones or dried chana.",
+   "url": "https://www.amazon.in/s?k=glass+marbles+pack",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before Ripples in an Uruli: what is a wave?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

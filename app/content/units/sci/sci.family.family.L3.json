@@ -103,14 +103,19 @@
    "status": "defined",
    "context": "This card is about how the people in a family are connected, and the words we use for them.",
    "definition": "A relation is the way two people in a family are connected, such as 'my mother's brother'. A relation word is the name we call them, such as Mama.",
-   "description": "Each person has two parents, four grandparents and eight great-grandparents. Your relatives come through your mother's side and your father's side. Many Indian languages have a separate word for each relation. In Tamil, Mama is your mother's brother, Chithappa is your father's younger brother and Periyappa is your father's elder brother. Hindi has Mama, Chacha and Tau. English calls all of them uncle. The words tell you exactly how a person is related. Children also get about half of their genes from their mother and half from their father. Genes are the instructions inside every cell of a body.",
+   "description": "Each person has two parents, four grandparents and eight great-grandparents. Your relatives come through your mother's side and your father's side. Many Indian languages have a separate word for each relation. In Tamil, Mama is your mother's brother, Chithappa is your father's younger brother and Periyappa is your father's elder brother. Hindi has Mama, Chacha and Tau. English calls all of them uncle. The words tell you exactly how a person is related. Using the right word is also a way to show respect. It tells everyone where each elder fits in the family. Children also get about half of their genes from their mother and half from their father. Genes are the instructions inside every cell of a body.",
    "examples": [
     "Tamil: Paati and Thatha are grandmother and grandfather. Athai is your father's sister.",
     "Kannada: Ajji is grandmother.",
     "Hindi: Bua is your father's sister and Mausi is your mother's sister.",
     "Bengali: Pishi is your father's sister and Mashi is your mother's sister."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Douglas Rohde, Steve Olson and Joseph Chang, USA (published in Nature, 2004)",
+     "explanation": "Using computer models of how people have moved and had children over thousands of years, they estimated that the most recent person who is an ancestor of every human alive today may have lived only a few thousand years ago. A few thousand years further back, every person alive was either an ancestor of everyone living now or of no one. Family trees must join, which is accepted, but the exact dates are uncertain because they depend on how much people moved and mixed."
+    }
+   ],
    "art": "A family tree with Tamil and English names under each face: Amma, Appa, Mama, Athai, Paati, Thatha."
   },
   {
@@ -124,7 +129,12 @@
     "Sitting with a sick grandparent at night is care work.",
     "A house help who sweeps and mops is doing paid work. The same sweeping by Amma is unpaid work."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Marilyn Waring (born 1952), New Zealand",
+     "explanation": "In her book If Women Counted (1988), Waring showed that the way countries measure their economy leaves out unpaid work done at home, such as cooking, cleaning, caring for children and elders, and fetching water, most of which is done by women. So the work that keeps families alive appears to be worth nothing. Her work helped persuade countries to run time-use surveys, and India's first national Time Use Survey (2019) found women spending about five hours a day on this work and men about one and a half."
+    }
+   ],
    "art": "A bar chart drawn on a kitchen wall: a tall bar for women's minutes of home work and a short bar for men's."
   },
   {
@@ -146,7 +156,7 @@
    "status": "defined",
    "context": "This card is about how girls and women have been treated in India, and what has changed.",
    "definition": "Discrimination against girls and women means treating them unfairly because they are female, for example by giving them less schooling, food, money or say.",
-   "description": "For a long time, many Indian families sent sons to school and kept daughters at home to work. In 1848 in Pune, Savitribai Phule and Jyotirao Phule opened a school for girls. People threw mud and stones at Savitribai on her way to school, and she carried a spare sari to change into. In 1950, India's Constitution gave women and men equal rights. Many things have changed, but not all. In the 2011 Census, about 82 in every 100 men could read and write, but only about 65 in every 100 women. Women still do most of the unpaid work at home.",
+   "description": "For a long time, many Indian families sent sons to school and kept daughters at home to work. In 1848 in Pune, Savitribai Phule and Jyotirao Phule opened a school for girls. People threw mud and stones at Savitribai on her way to school, and she carried a spare sari to change into. In 1950, India's Constitution gave women and men equal rights. Many things have changed, but not all. In the 2011 Census, about 82 in every 100 men could read and write, but only about 65 in every 100 women. Women still do most of the unpaid work at home. Many women also work outside the home, as teachers, nurses, farmers and factory workers. Many still get less pay and fewer chances than men.",
    "examples": [
     "Savitribai Phule, who opened a girls' school in Pune in 1848 and wrote poems.",
     "In Kerala, more than 90 in every 100 women could read and write in the 2011 Census.",
@@ -469,10 +479,10 @@
       "q": "Who looks after the seahorse eggs until the babies hatch?",
       "options": [
        "The mother",
-       "The father",
-       "Nobody"
+       "Nobody",
+       "The father"
       ],
-      "a": 1,
+      "a": 2,
       "why": "In seahorses, the father has a pouch, and he carries the eggs in it until they hatch. If you chose the mother, that is the usual guess, because in most animals she does it."
      }
     },
@@ -707,10 +717,10 @@
       "q": "A child took 8 minutes to fold the clothes alone. When her mother helped, the two of them took 5 minutes. Was that exactly half the time?",
       "options": [
        "Yes, 5 is half of 8",
-       "No, half of 8 is 4, so it took a little longer than half",
-       "No, it took twice as long"
+       "No, it took twice as long",
+       "No, half of 8 is 4, so it took a little longer than half"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Half of 8 minutes is 4 minutes. They took 5, which is more than half. Helpers can get in each other's way or wait for each other. If you chose 'Yes', check by doubling 5: that is 10, not 8."
      }
     },
@@ -1418,11 +1428,11 @@
    "t": "mcq",
    "p": "A child lives with his grandparents, his parents, his uncle, his aunt and two cousins in one home. What kind of family is this?",
    "opts": [
-    "A nuclear family",
     "A joint family",
+    "A nuclear family",
     "Not a family, because there are too many people"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A joint family has grandparents, parents, uncles, aunts and cousins under one roof. A nuclear family is only parents and their children.",
    "outcome": 1
   },
@@ -1430,11 +1440,11 @@
    "t": "mcq",
    "p": "A girl lives with only her mother. Are they a family?",
    "opts": [
-    "Yes, because they live together and care for each other",
     "No, a family needs a mother and a father",
+    "Yes, because they live together and care for each other",
     "Only if grandparents live with them"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Care is what makes a family, not how many people there are. A mother and a daughter are a family of two. Choosing 'No' means thinking there is only one shape of family.",
    "outcome": 1
   },
@@ -1442,11 +1452,11 @@
    "t": "mcq",
    "p": "In Telugu, Ammamma is your mother's mother and Nannamma is your father's mother. What does English call both of them?",
    "opts": [
-    "Grandmother",
     "Aunt",
+    "Grandmother",
     "Great-grandmother"
    ],
-   "a": 0,
+   "a": 1,
    "why": "English uses one word, grandmother, for both. Telugu has a separate word for each, so the word tells you which side of the family she is on.",
    "outcome": 0
   },
@@ -1467,11 +1477,11 @@
    "t": "mcq",
    "p": "In many Indian homes, women do most of the unpaid home work, like cooking, cleaning and caring. If a survey timed this work for women and for men, what would it most likely find?",
    "opts": [
-    "Both spend about the same time",
     "Women spend much more time on it than men",
+    "Both spend about the same time",
     "Men spend much more time on it than women"
    ],
-   "a": 1,
+   "a": 0,
    "why": "If women do most of the unpaid home work, they spend far more minutes on it each day. India's Time Use Survey found about 299 minutes a day for women and about 97 for men.",
    "outcome": 3
   },
@@ -1480,10 +1490,10 @@
    "p": "Which of these must parents or guardians in India do for a child of 8?",
    "opts": [
     "Send the child out to work for money",
-    "Send the child to school",
-    "Keep the child at home to do housework"
+    "Keep the child at home to do housework",
+    "Send the child to school"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The Right to Education Act of 2009 gives every child from 6 to 14 the right to free schooling, and parents are expected to send daughters and sons alike. Paid work for a child under 14 is mostly against the law.",
    "outcome": 4
   },
@@ -1491,11 +1501,11 @@
    "t": "mcq",
    "p": "Long ago, most girls in India were kept at home and not sent to school. What would change that most for girls?",
    "opts": [
-    "Opening schools where girls are welcome to study",
     "Building more hospitals",
-    "Starting a newspaper"
+    "Starting a newspaper",
+    "Opening schools where girls are welcome to study"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Girls can only learn at school if there is a school that lets them in. When people opened schools for girls, more girls learned to read, even though some people fought against it.",
    "outcome": 5
   },
@@ -1504,10 +1514,10 @@
    "p": "Harry Harlow gave baby monkeys two model mothers. One was wire and gave milk. One was soft cloth and gave no milk. Which did the babies cling to?",
    "opts": [
     "The wire one, because it gave milk",
-    "The cloth one",
-    "Neither of them"
+    "Neither of them",
+    "The cloth one"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The babies drank from the wire mother, then went back to cling to the cloth one, and ran to her when scared. Comfort mattered to them as much as food. Choosing the wire one is the old idea that babies love whoever feeds them.",
    "outcome": 4
   },
@@ -1516,10 +1526,10 @@
    "p": "An Asian koel lays her egg in a house crow's nest. Who feeds the koel chick?",
    "opts": [
     "The koel mother",
-    "The house crows",
-    "Nobody"
+    "Nobody",
+    "The house crows"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The crows raise the koel chick along with their own chicks. The koel mother does not come back to feed the chick.",
    "outcome": 6,
    "how": "g1"
@@ -1536,6 +1546,30 @@
    "why": "The father holds the egg on his feet under a fold of skin for about two months. The mother is at sea, feeding. Choosing 'the mother' is the usual guess, because in many animals she does it.",
    "outcome": 6,
    "how": "g1"
+  },
+  {
+   "t": "mcq",
+   "p": "A child in Chennai calls her grandmother Paati, not by her first name. What does that word show?",
+   "opts": [
+    "Respect for the elder and her place in the family",
+    "That the grandmother is a stranger",
+    "That the child is angry"
+   ],
+   "a": 0,
+   "why": "The relation word shows who the elder is to the child. Using it is a polite way to speak to an elder.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "A woman is a nurse at a hospital and is paid every month. Which kind of work is this?",
+   "opts": [
+    "Unpaid home work",
+    "Paid work outside the home",
+    "Not really work at all"
+   ],
+   "a": 1,
+   "why": "Nursing at a hospital is paid work outside the home. Cooking and cleaning for your own family are unpaid home work, and they are real work too.",
+   "outcome": 3
   }
  ],
  "worksheets": [
@@ -1630,11 +1664,11 @@
      "t": "mcq",
      "p": "In Hindi, Bua is your father's sister and Mausi is your mother's sister. What does English call both of them?",
      "opts": [
-      "Aunt",
       "Cousin",
-      "Grandmother"
+      "Grandmother",
+      "Aunt"
      ],
-     "a": 0,
+     "a": 2,
      "why": "English uses aunt for both. Hindi has two words, so the word tells you which side of the family she is on."
     },
     {
@@ -1721,11 +1755,11 @@
      "t": "mcq",
      "p": "Your mother's mother belongs to which side of your family?",
      "opts": [
-      "Your mother's side",
       "Your father's side",
+      "Your mother's side",
       "Neither side"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Relatives through your mother are on your mother's side, and that includes her parents."
     },
     {
@@ -1743,6 +1777,13 @@
       "care"
      ],
      "why": "Care work is looking after people who need help."
+    },
+    {
+     "t": "write",
+     "p": "Name one elder at home and the word you use to call them. Then write one way you show that elder respect.",
+     "lines": 3,
+     "a": "For example: Ajji, and I wait for her to finish before I speak, and I bring her water when she asks. A strong answer names the relation word and a real action.",
+     "why": "The relation word shows the elder's place in the family. Respect shows in what you say and do, every day."
     }
    ]
   },
@@ -1757,10 +1798,10 @@
      "p": "When India adds up the value of all the work done in the country in a year, which of these is left out?",
      "opts": [
       "A cook paid to make meals in a hotel",
-      "Ajji cooking lunch for her own family",
-      "A factory making bicycles"
+      "A factory making bicycles",
+      "Ajji cooking lunch for her own family"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Unpaid home work is left out. So cooking, cleaning and caring for your own family are not counted, though every family needs them. The paid cook and the factory are counted."
     },
     {
@@ -1806,11 +1847,11 @@
      "t": "mcq",
      "p": "Long ago, some experts told parents not to hug or kiss their children. Later studies showed that baby monkeys clung to a soft cloth mother for comfort. What does that tell us about the old advice?",
      "opts": [
-      "It was right: hugs spoil children",
       "It was wrong: young ones need comfort and touch",
+      "It was right: hugs spoil children",
       "It does not matter either way"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Baby monkeys chose a soft, comforting mother even over one that gave milk. Comfort and touch matter to young ones, so telling parents not to hug was poor advice."
     },
     {
@@ -1827,6 +1868,13 @@
      "lines": 4,
      "a": "For example: many schools close to home, families who wanted their daughters to study, and women who were teachers.",
      "why": "A strong answer gives reasons a child can think through, such as schools nearby and families choosing to send girls. Scientists still study exactly why."
+    },
+    {
+     "t": "write",
+     "p": "Name one kind of paid work that women in India do outside the home. Then name one unpaid job that women in your home do.",
+     "lines": 3,
+     "a": "For example: a teacher, a nurse or a farm worker, and cooking or cleaning for the family. A strong answer names two different kinds of work.",
+     "why": "Paid work outside the home is one kind of work. Unpaid home work is another kind, and it is still work."
     },
     {
      "t": "sort",
@@ -1891,11 +1939,11 @@
      "t": "mcq",
      "p": "Which is the best reason to do the Home Work Count on a normal evening, not a festival day?",
      "opts": [
-      "Festival days have no work",
       "So the count shows a usual day",
+      "Festival days have no work",
       "Because clocks do not work on festivals"
      ],
-     "a": 1,
+     "a": 0,
      "why": "On festival days there is often much more cooking and cleaning. A normal evening shows what a usual day needs. That makes it a fair test.",
      "how": "e1"
     },
@@ -1974,10 +2022,10 @@
      "p": "In the 2011 Census, about 82 in every 100 men in India could read and write, and about 65 in every 100 women. What is the best explanation?",
      "opts": [
       "Women are not as good at learning to read",
-      "For many years, fewer girls were sent to school",
-      "Women did not want to read"
+      "Women did not want to read",
+      "For many years, fewer girls were sent to school"
      ],
-     "a": 1,
+     "a": 2,
      "why": "For many years, many families kept daughters at home to work, so fewer women learned to read. It is about who got the chance, not about ability."
     },
     {
@@ -1998,11 +2046,11 @@
      "t": "mcq",
      "p": "A girl folded 20 clothes alone in 12 minutes, then with her aunt in 7 minutes, then alone again in 9 minutes. Why was her second try alone faster than her first?",
      "opts": [
-      "Practice made her faster",
       "The clothes got smaller",
+      "Practice made her faster",
       "Her aunt was still helping"
      ],
-     "a": 0,
+     "a": 1,
      "why": "She had folded the same clothes twice before, so she had practised. This is why the test folds alone at the start and the end.",
      "how": "e2"
     },
@@ -2261,7 +2309,90 @@
    "why": "Walk through real old homes from Tamil Nadu, Kerala, Karnataka and Andhra Pradesh, and see how big joint families lived, cooked and shared work."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-a-chair-for-my-mother",
+   "item": "A Chair for My Mother by Vera B. Williams",
+   "kind": "book",
+   "why": "A girl, her mother and her grandmother save coins in a jar for a new chair after a fire, helped by their neighbours. It shows how a family looks after each other.",
+   "url": "https://www.amazon.in/s?k=A+Chair+for+My+Mother",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Read it together at the start of the family lesson."
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in Family Handprints: what each pair of hands does. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before Family Handprints: what each pair of hands does."
+  },
+  {
+   "id": "b-a-digital-stopwatch--optiona",
+   "item": "A digital stopwatch (optional)",
+   "kind": "tool",
+   "why": "Used in Many Hands: do two people fold clothes twice as fast?. About ₹150 to ₹400. A phone stopwatch works well.",
+   "url": "https://www.amazon.in/s?k=digital+stopwatch",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before Many Hands: do two people fold clothes twice as fast?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Family Handprints: what each pair of hands does. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before Family Handprints: what each pair of hands does."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in The Family Job Wheel: share the home work for a week, A Steady Tray for Shaky Hands. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "p1",
+    "c2"
+   ],
+   "plan": "Get it before The Family Job Wheel: share the home work for a week."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in The Home Work Count: who keeps our home running in one evening?, Games Our Grandparents Played. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "e1",
+    "a4"
+   ],
+   "plan": "Get it before The Home Work Count: who keeps our home running in one evening?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "What does English call your mother's brother?",

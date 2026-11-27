@@ -471,11 +471,11 @@
       "t": "mcq",
       "q": "You stand a mirror on the middle of a letter F. What do you see?",
       "options": [
-       "A new shape that is not an F",
        "A whole F",
-       "Nothing at all"
+       "Nothing at all",
+       "A new shape that is not an F"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The letter F has no line of symmetry. Its two halves don't match, so the mirror makes a new shape."
      }
     }
@@ -550,11 +550,11 @@
       "t": "mcq",
       "q": "You fold a tulsi leaf along the middle vein. What do you see?",
       "options": [
-       "The halves nearly match",
        "The halves are very different",
+       "The halves nearly match",
        "The leaf has three halves"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A leaf grows one half on each side of the middle vein. The halves nearly match, but never perfectly."
      },
      "parent": "Each half grows in its own place, so each half has its own small differences. Accept any sensible idea."
@@ -726,11 +726,11 @@
       "t": "mcq",
       "q": "You rubbed your folded drawing and opened it. Where is the line of symmetry of your picture?",
       "options": [
-       "Along the fold",
        "Along the top edge of the paper",
-       "Round the outside"
+       "Round the outside",
+       "Along the fold"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The copy is made by folding, so the two halves meet at the fold. The fold is the line of symmetry."
      }
     }
@@ -816,11 +816,11 @@
       "t": "mcq",
       "q": "The leader lifts the arm on the window side. You are the mirror, facing the leader. Which arm do you lift?",
       "options": [
-       "The arm on the window side",
        "The arm on the door side",
+       "The arm on the window side",
        "Both arms"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A mirror copies on the same side. So the mirror lifts the arm on the window side too. Together, the two of them make one symmetric shape."
      },
      "ask": [
@@ -970,6 +970,123 @@
       "a": 0,
       "why": "In the Mirror Test, the mirror face looked like the person, but not quite. Faces nearly match, never exactly."
      }
+    }
+   ]
+  },
+  {
+   "id": "old1",
+   "title": "Pattern Path: a board game about patterns that repeat",
+   "mins": 15,
+   "players": [
+    "with a parent",
+    "with friends"
+   ],
+   "context": "This is a board game about things that repeat and things that match, such as patterns, halves and mirror moves. You roll a die, move along the path and do the task on each square. The first player home wins.",
+   "printables": [
+    {
+     "kind": "board",
+     "title": "The path: 20 squares",
+     "items": [
+      "START",
+      "Name a thing with two matching sides.",
+      "Clap, clap, stamp. The next player copies it.",
+      "Touch something on your body that there is only one of.",
+      "A butterfly carries you. Go forward 2.",
+      "What comes next? Red, blue, red, blue, ...",
+      "Draw half a heart in the air. The next player draws the other half.",
+      "Stand on one leg in tree pose and count to five.",
+      "You looked in the mirror too long. Miss a turn.",
+      "How many arms do most starfish have?",
+      "Make your face the same on both sides. Now make it different.",
+      "Name a thing that looks the same when you turn it a little.",
+      "Bees build six-sided cells. Go forward 2.",
+      "Hold the mirror down the middle of the letter H. Does it still look like an H?",
+      "Make a pattern with your hands. The next player says what comes next.",
+      "Your two hands are a pair. Hold them up and flip one over.",
+      "The rain washed half of your kolam away. Go back 2.",
+      "Say one thing that comes again every day.",
+      "Do a mirror dance move with the player on your left.",
+      "HOME"
+     ]
+    },
+    {
+     "kind": "answer sheet",
+     "title": "Answers for the grown-up",
+     "items": [
+      "Square 2: any thing with two matching sides, such as a butterfly, a leaf or a thali.",
+      "Square 5: red.",
+      "Square 10: five. A few kinds of starfish have more.",
+      "Square 11: either way is fine. Your face is nearly the same on both sides, but never exactly.",
+      "Square 12: any answer that still looks right after a small turn, such as a flower or a wheel.",
+      "Square 14: yes. The letter H has a line of mirror symmetry down the middle, so the half and the mirror make a whole H.",
+      "Square 18: any answer, such as sunrise, meals or the tide."
+     ]
+    },
+    {
+     "kind": "tokens",
+     "title": "A counter for each player",
+     "items": [
+      "Counter 1",
+      "Counter 2",
+      "Counter 3",
+      "Counter 4"
+     ]
+    }
+   ],
+   "rules": [
+    "Copy the 20 squares in order onto a big sheet of paper, in a winding path. Put all the counters on START.",
+    "Take turns to roll the die and move that many squares. If you have no die, write 1, 2 and 3 on three paper slips and pick one.",
+    "When you land on a task square, do the task. The other players check it. For the question squares, the grown-up reads the answer from the answer sheet.",
+    "On a forward, back or miss-a-turn square, do what it says. If a player has to go back, they do not do the task on the new square.",
+    "If you cannot do a task, say what is hard about it and miss nothing. Everyone helps.",
+    "The first player to reach HOME wins. Then everyone claps the winner's favourite pattern together."
+   ],
+   "setup": [
+    {
+     "art": "A winding path of 20 squares drawn on a big sheet of paper, with START at one end and HOME at the other, and four small counters on START.",
+     "caption": "1. Draw the path of 20 squares and put the counters on START."
+    },
+    {
+     "art": "A child standing on one leg in tree pose while another child counts to five, with a die and a small mirror on the table.",
+     "caption": "2. Roll the die, move and do the task."
+    },
+    {
+     "art": "Four children clapping together around a finished board.",
+     "caption": "3. At HOME, everyone claps the winner's favourite pattern."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Copy the squares onto a big sheet of paper in a winding path. 2. Put a die, the counters and a small hand mirror on the table. 3. Explain the rules.",
+     "say": "Roll the die and move your counter. Do the task on your square. The first one home wins.",
+     "kid": "Help draw the path. Put your counter on START."
+    },
+    {
+     "id": "s2",
+     "mins": 10,
+     "do": "Play as the rules say. When a task is a pattern or a matching half, ask your child to say how they know.",
+     "say": "How do you know the two sides match? What comes next, and why?",
+     "kid": "Roll, move and do the task on your square. Check the other players' tasks.",
+     "check": {
+      "t": "mcq",
+      "q": "What comes next? Red, blue, red, blue, ...",
+      "options": [
+       "Blue",
+       "Green",
+       "Red"
+      ],
+      "a": 2,
+      "why": "The pattern repeats red, then blue, over and over. After blue, the next one is red."
+     }
+    },
+    {
+     "id": "s3",
+     "mins": 2,
+     "do": "The winner picks a favourite pattern from the game. Everyone claps it together. Ask each player to name one pattern they saw on the board.",
+     "say": "Which pattern was your favourite? Let us all clap it.",
+     "kid": "Pick your favourite pattern. Clap it with everyone."
     }
    ]
   }
@@ -1291,11 +1408,11 @@
      "t": "mcq",
      "p": "You fold a paper in half and cut a shape on the fold. Then you open the paper. What do you see?",
      "opts": [
-      "A shape with two matching halves",
       "A shape with no middle",
+      "A shape with two matching halves",
       "Two different shapes"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The two halves were cut together, so they match. The fold becomes the line of symmetry."
     }
    ]
@@ -1326,11 +1443,11 @@
      "t": "mcq",
      "p": "You stand a mirror on the middle line of a hibiscus flower. What do you see?",
      "opts": [
-      "A whole flower",
       "Half a flower and an empty mirror",
+      "A whole flower",
       "A new shape, not a flower"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A hibiscus flower has a line through its centre that cuts it into two matching halves. So the mirror shows the other half, and you see a whole flower."
     },
     {
@@ -1374,11 +1491,11 @@
      "t": "mcq",
      "p": "You cut a paper butterfly. One wing comes out much bigger than the other. You rest the butterfly on a pencil along her middle. What happens?",
      "opts": [
-      "She tips towards the bigger wing",
       "She balances",
-      "She flies away"
+      "She flies away",
+      "She tips towards the bigger wing"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The bigger wing is heavier. The two sides no longer match, so the butterfly tips towards the heavier side.",
      "how": "c1"
     },
@@ -1423,11 +1540,11 @@
    "t": "mcq",
    "p": "A shape has symmetry. What does that mean?",
    "opts": [
-    "Its two halves match",
     "It is very big",
+    "Its two halves match",
     "It has many colours"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Symmetry means the two halves of a shape match, like a butterfly's two sides.",
    "outcome": 0
   },
@@ -1447,11 +1564,11 @@
    "t": "mcq",
    "p": "Where is the line of symmetry on a butterfly?",
    "opts": [
-    "Down her body, from head to tail",
     "Across her wings, from side to side",
+    "Down her body, from head to tail",
     "Round the edge of her wings"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The line down her body has two wings on each side, and the two sides match.",
    "outcome": 1
   },
@@ -1459,11 +1576,11 @@
    "t": "mcq",
    "p": "Where is the line of symmetry on your face?",
    "opts": [
-    "Down the middle of your nose",
     "Across your eyes",
-    "Along your chin"
+    "Along your chin",
+    "Down the middle of your nose"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A line down the middle of your nose has one eye, one ear and one cheek on each side.",
    "outcome": 1
   },
@@ -1471,11 +1588,11 @@
    "t": "mcq",
    "p": "You stand a mirror on the middle vein of a leaf. You see a whole leaf. What does that show?",
    "opts": [
-    "The leaf's two halves match",
     "The leaf is broken",
+    "The leaf's two halves match",
     "The mirror makes leaves"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The mirror shows one half of the leaf, flipped over. A whole leaf appears only when the two halves match.",
    "outcome": 2,
    "how": "e1"
@@ -1484,11 +1601,11 @@
    "t": "mcq",
    "p": "Are the two sides of your face exactly the same?",
    "opts": [
-    "Nearly, but not exactly",
     "Yes, exactly the same",
+    "Nearly, but not exactly",
     "No, not at all alike"
    ],
-   "a": 0,
+   "a": 1,
    "why": "In the Mirror Test, the mirror face looked like the person, but not quite. Faces nearly match, never exactly.",
    "outcome": 3,
    "how": "e1"
@@ -1497,11 +1614,11 @@
    "t": "mcq",
    "p": "Why does a butterfly need her two sides to match?",
    "opts": [
-    "So both sides push the same air, and she flies straight",
     "So she can hear better",
-    "So she stays warm at night"
+    "So she stays warm at night",
+    "So both sides push the same air, and she flies straight"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Matching wings push the same amount of air on each side. If one side were much smaller, she would fly crooked.",
    "outcome": 4
   },
@@ -1522,11 +1639,11 @@
    "t": "mcq",
    "p": "What do we call the middle line where a shape folds into two matching halves?",
    "opts": [
-    "The line of symmetry",
     "The edge",
+    "The line of symmetry",
     "The corner"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Fold a shape along its line of symmetry, and the two halves match.",
    "outcome": 1
   },
@@ -1715,7 +1832,68 @@
    "why": "A large butterfly park beside the Kaveri river, with gardens full of butterflies."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-seeing-symmetry",
+   "item": "Seeing Symmetry by Loreen Leedy",
+   "kind": "book",
+   "why": "Clear pictures of symmetry in letters, shapes, nature and art, with ideas to try at home. It gives the child many examples of the pattern she is looking for.",
+   "url": "https://www.amazon.in/s?k=Seeing+Symmetry",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Read it together after the symmetry hunt."
+  },
+  {
+   "id": "b-snowflake-bentley",
+   "item": "Snowflake Bentley by Jacqueline Briggs Martin",
+   "kind": "book",
+   "why": "The true story of Wilson Bentley, the farmer who photographed snowflakes and found that no two are the same. It shows how patient looking leads to discovery.",
+   "url": "https://www.amazon.in/s?k=Snowflake+Bentley",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Read it together on Day 5, after looking at symmetry in nature."
+  },
+  {
+   "id": "b-a-small-hand-mirror",
+   "item": "A small hand mirror",
+   "kind": "material",
+   "why": "Used in The Mirror Test: can half a thing and a mirror make the whole?, Dal Butterfly: build the other half. About ₹20 to ₹80. A shiny steel plate shows reflections too.",
+   "url": "https://www.amazon.in/s?k=small+hand+mirror",
+   "used_in": [
+    "e1",
+    "a2"
+   ],
+   "plan": "Get it before The Mirror Test: can half a thing and a mirror make the whole?."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in Dal Butterfly: build the other half. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Get it before Dal Butterfly: build the other half."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "old1",
+    "ws-core",
+    "ws-stretch"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "What do we call it when a shape's two halves match?",
@@ -1842,7 +2020,8 @@
    "ws-stretch",
    "big_questions",
    "videos",
-   "open_questions"
+   "open_questions",
+   "old1"
   ],
   "core": [
    "a1",
@@ -1878,5 +2057,44 @@
    "The Taj Mahal is symmetric, except that Shah Jahan's cenotaph sits beside Mumtaz Mahal's, off the centre line."
   ]
  },
- "playtest": "Walked through every game, activity, experiment, project and challenge as a parent and a six-year-old would in a flat. Fixed: Mirror Moves and the running game now say how 4 players play, and the running game says who scores on 'nearly' cards; the face step says how to see the other half; guess column wording matches the example; no mirror to buy; round pencil is taped down. Every quiz name is introduced, with more girls. Replaced repeated items (two leaf checks, butterfly exactness, wing counts) with new ones, and weak jokes."
+ "playtest": "Walked through every game, activity, experiment, project and challenge as a parent and a six-year-old would in a flat. Fixed: Mirror Moves and the running game now say how 4 players play, and the running game says who scores on 'nearly' cards; the face step says how to see the other half; guess column wording matches the example; no mirror to buy; round pencil is taped down. Every quiz name is introduced, with more girls. Replaced repeated items (two leaf checks, butterfly exactness, wing counts) with new ones, and weak jokes.",
+ "more_stories": [
+  {
+   "title": "Half a Kolam",
+   "mins": 7,
+   "read_aloud": true,
+   "note": "",
+   "text": [
+    "I am a crow. The people in the flats call me Kaaki. Every morning, when the sky over Chennai turns from grey to pink, I fly to the same railing on the second floor of a building near the lake. I come at the same time every day, because something happens at the same time every day. That is how a crow lives. I watch, I remember, and I know what comes next.",
+    "At the door by my railing lives a girl called Meenu. She is six. Every morning her Amma sits on the corridor floor outside their door with a small steel bowl of rice flour. She pinches the flour between her fingers and lets it fall in a thin white line. A flower grows on the floor. First come dots, then curls around the dots, then petals. Meenu sits beside her with her chin on her knees and watches. When the kolam is done, a few grains of flour always lie where the ants can find them, and one or two where I can.",
+    "I like that kolam. Its left side is just like its right side. A line of dots runs down the middle, and every curl on one side has a curl on the other side, turning the other way. I understand that kind of shape. I have two wings, one on each side, and they match. If they did not match, I would fly round in circles instead of straight to my railing.",
+    "\"Can I draw it, Amma?\" Meenu asks most mornings. Amma always lets her try one corner. Meenu's line goes wobbly. Her curl turns the wrong way. She rubs it out with her palm and frowns. \"My side never looks like your side,\" she says.",
+    "\"Look at my side first,\" says Amma. \"The other half is the same as this half, only flipped over. Like your two hands.\" Meenu looks at her two hands. She does not understand, and she says so.",
+    "Then one morning, in the rainy weeks of November, Amma's phone rings very early. Amma is a nurse. \"They need me at the hospital now,\" she says. She has drawn only half the kolam. One side of the flower lies on the floor, up to the line of dots in the middle. The other side is bare grey floor. Amma ties Meenu's hair, kisses her forehead and runs for the bus.",
+    "Appa comes out with his coffee tumbler. He looks down at the half flower. \"Oh no,\" he says. \"Your Amma's kolam is only half done. I don't know how to draw kolams. Shall we sweep it away?\"",
+    "\"No!\" says Meenu. She kneels down and stares at the half. I stare too, from my railing. I want to help, but a crow can only say kaa. So I say it, loudly, and I stretch out both my wings to shake off the rain.",
+    "That week I am growing new feathers. A crow does not lose her big wing feathers all at once. She loses them in pairs, one from each wing, so the two wings stay the same and she can still fly straight. Meenu looks up. She sees my two wings, each with one feather missing in the same place.",
+    "\"Kaaki,\" she says slowly, \"your wings are like Amma's kolam.\" Then she puts her two hands flat on the floor, thumbs touching at the line of dots. Her left hand lies on the half that Amma drew. Her right hand lies on the bare half. Her right hand is just like her left hand, only flipped. Meenu's eyes go wide.",
+    "She counts. On Amma's side, there are four dots from the middle to the edge. So she will need four dots on her side too, at the same distances. Amma's top petal curls up and to the left. So her top petal must curl up and to the right.",
+    "\"Appa,\" says Meenu, \"you put the dots. I will tell you where. Count with me.\" Appa puts down his tumbler. He kneels on the wet floor in his office trousers. \"One, two, three, four,\" says Meenu, and Appa presses a dot of flour at each count. Then Meenu takes the bowl and draws the curls herself. She keeps looking back at Amma's half, petal by petal, and flips each one in her head before she draws it.",
+    "It takes a long time. One petal comes out fatter than its partner. One curl has a little wobble. A neighbour steps carefully around them on the way to the lift and smiles.",
+    "In the evening Amma comes home tired, with her bag on her shoulder. The kolam is still there, a little smudged by footsteps. She stops at the door and looks at it for a long time.",
+    "\"Who finished it?\" she asks.",
+    "\"I did,\" says Meenu. \"Appa did the dots. I just looked at your half and flipped it.\"",
+    "Amma bends down and touches the fat petal with one finger. \"This one is bigger than mine,\" she says.",
+    "\"Yes,\" says Meenu.",
+    "\"Good,\" says Amma. \"Now I can tell which half is yours.\"",
+    "The next morning I come at the same time, as I always do. There is a whole kolam on the floor, and the two halves almost match. And on my railing, someone has left a small pinch of rice, just for me."
+   ],
+   "epiphany": "For the parent: the turn comes when Meenu sees Kaaki's two matching wings, each missing a feather in the same place, and then lays her own two hands on the kolam. She understands Amma's words: the missing half is the drawn half, flipped. A symmetrical shape holds the plan for its own missing half. The crow also shows a pattern in time: she comes at the same time each day because the kolam is drawn at the same time each day. The fat petal shows that hand-made and living things are never exactly symmetrical.",
+   "ask": [
+    "How did Meenu know how to finish the kolam?",
+    "What did Kaaki's wings show Meenu?",
+    "Why did Meenu count the dots on Amma's side first?",
+    "Why do you think Amma was happy that one petal was fatter?",
+    "Why does Kaaki come at the same time every morning?"
+   ],
+   "art": []
+  }
+ ]
 }

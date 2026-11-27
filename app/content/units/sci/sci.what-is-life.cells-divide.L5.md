@@ -1,7 +1,7 @@
 # Two ways to divide, cells with no job yet, and cells that die on time
 `sci.what-is-life.cells-divide.L5`
 
-**Summary.** Your fingers began as a flat paddle, so some of your cells had to die on time. How does a body make a hand? In this unit you will test which piece of a mint stem grows roots, and act out two ways cells divide with paper chromosomes.
+**Summary.** Your fingers began as a flat paddle, so some of your cells had to die on time. How does a body make a hand? In this lesson you will test which piece of a mint stem grows roots, and act out two ways cells divide with paper chromosomes.
 
 **Intro.** *Cut a 6 centimetre piece from a pudina stem and stand it in water. In about a week it grows roots, and later it becomes a whole plant. The piece had no roots at all. So which cells made the new roots, and where in the stem were they waiting? Say what you think, and why.* You will test this yourself in the Pudina Pieces Test, with four kinds of pieces. Before that, here is a second puzzle. Every cell in your body came from one first cell, by copying. Copies are the same as each other. So why are a brother and a sister from the same two parents not copies of each other? Both puzzles are about how cells divide, and about what a cell is still able to become.
 
@@ -510,12 +510,12 @@ In the morning the tile was empty. Out by the pepper vines, something the size o
 6. (sort) Sort these cells by the kind of division that made them.  
    **Answer:** a new skin cell → Made by mitosis; a sperm cell → Made by meiosis; a cell at a root tip → Made by mitosis; an egg cell → Made by meiosis; a new liver cell → Made by mitosis; a young pollen grain → Made by meiosis. *Why:* Body cells for growing and mending come from mitosis. Sex cells, and the young pollen grains of a flower, come from meiosis.
 7. (mcq) What can a stem cell do that a red blood cell cannot?  
-   Options: Divide and make other kinds of cell / Carry oxygen / Travel in the blood / Use food for energy  
+   Options: Carry oxygen / Travel in the blood / Use food for energy / Divide and make other kinds of cell  
    **Answer:** Divide and make other kinds of cell. *Why:* A stem cell can divide, and her daughters can specialise. A red blood cell is fully specialised and never divides. Carrying oxygen is the red cell's own job.
 8. (truefalse) True or false: a blood stem cell in a grown-up can make new nerve cells.  
    **Answer:** False. *Why:* False. An adult stem cell makes only the cells of her own tissue. A blood stem cell makes blood cells. Only the stem cells of a very young embryo can make every kind.
 9. (mcq) How did your fingers become separate before you were born?  
-   Options: The cells between them died by plan / The skin between them tore / Each finger was added one by one / The bones cut through the skin  
+   Options: The skin between them tore / Each finger was added one by one / The cells between them died by plan / The bones cut through the skin  
    **Answer:** The cells between them died by plan. *Why:* The hand begins as a paddle. The cells between the finger bones die by plan and are cleared away. Nothing tears, and nothing is hurt.
 10. (fill) The death of cells by injury, such as a burn, is called ____.  
    **Answer:** ['necrosis']. *Why:* In necrosis the cells swell and burst, and the place becomes sore. Apoptosis is the planned, tidy kind of cell death.
@@ -524,7 +524,7 @@ In the morning the tile was empty. Out by the pepper vines, something the size o
 12. (write) In the Pudina Pieces Test, a bare node grew roots and a leaf alone did not. What does that show?  
    **Answer:** It shows that the cells that can make new roots are at the node. The bare node had no leaves and still made roots, so leaves are not what makes roots. The leaf had no node and made none.. *Why:* A strong answer uses both pieces: the node without a leaf, and the leaf without a node.
 13. (mcq) Why does the Pudina Pieces Test use five pieces of each kind, and not one?  
-   Options: One piece could fail by bad luck / Five pieces grow faster together / Pudina needs company / To use up the bunch  
+   Options: Five pieces grow faster together / One piece could fail by bad luck / Pudina needs company / To use up the bunch  
    **Answer:** One piece could fail by bad luck. *Why:* A single piece can rot or dry out for reasons that have nothing to do with nodes. If four or five of a kind do the same thing, the result can be trusted.
 14. (write) Name two things in your home made of cells that died by plan. Say what job the dead cells did.  
    **Answer:** For example: a wooden spoon and a cotton towel. Wood is made of a tree's dead, hollow water pipes and stiff fibres, which carried water and held the tree up. Hair, nails, coir, wool and feathers are also right.. *Why:* A strong answer names the living being the thing came from, and says what the dead cells did there.
@@ -532,7 +532,7 @@ In the morning the tile was empty. Out by the pepper vines, something the size o
    **Answer:** One cell with 4 chromosomes, and two cells below it that each have the same 4 chromosomes.. *Why:* A strong drawing gives each new cell all 4 chromosomes. A drawing with 2 in each cell shows a mix-up with meiosis.
 ### Halving, shuffling and cells that can still divide (stretch) (stretch, 15 questions)
 1. (mcq) Why do matching chromosomes line up as partners in meiosis?  
-   Options: So each new cell gets one of every pair / To make the cell bigger / So the DNA is copied again / To save energy  
+   Options: To make the cell bigger / So the DNA is copied again / To save energy / So each new cell gets one of every pair  
    **Answer:** So each new cell gets one of every pair. *Why:* When partners line up together and then separate, each side gets one of every pair. Without the pairing, a cell could get two of one kind and none of another.
 2. (count) A rice plant has 24 chromosomes in each body cell. How many are in a rice egg cell?  
    **Answer:** 12. *Why:* A sex cell has half the set. 24 ÷ 2 = 12. A rice sperm cell brings 12 more, so the new seed has 24 again.
@@ -558,17 +558,17 @@ In the morning the tile was empty. Out by the pepper vines, something the size o
 12. (order) Put the steps of meiosis in order.  
    **Answer:** ['The cell copies every chromosome', 'Partners line up side by side and swap pieces', 'The first division separates the partners', 'The second division separates the copies']. *Why:* Copying comes first. Then the partners pair up and cross over. The first division parts the partners, and the second parts the copies.
 13. (mcq) Which of these is one cause of cancer?  
-   Options: Damaged cells that fail to die / Too many red blood cells / Too much planned cell death / Cells that specialise  
+   Options: Too many red blood cells / Too much planned cell death / Damaged cells that fail to die / Cells that specialise  
    **Answer:** Damaged cells that fail to die. *Why:* A cell with damaged instructions normally takes herself apart. If she does not, and keeps dividing, a cancer can start. Too much planned death causes other problems, not cancer.
 14. (mcq) Which stem cell treatment is well proven?  
    Options: A bone marrow transplant for blood cancer / An injection that cures any illness / Regrowing a lost arm / Making an old person young  
    **Answer:** A bone marrow transplant for blood cancer. *Why:* Bone marrow transplants have worked for decades. The other three are not possible today, and anyone who offers them is selling something unproven.
 15. (mcq) A pudina piece cut from between two nodes grows one root. What should you check first?  
-   Options: Whether a node is hidden at one end / Whether the water was too cold / Whether the piece was green enough / Nothing, because results never matter  
+   Options: Whether the water was too cold / Whether the piece was green enough / Whether a node is hidden at one end / Nothing, because results never matter  
    **Answer:** Whether a node is hidden at one end. *Why:* An odd result deserves a second look before you change your idea. A node at the very end of the piece is the most likely cause.
 ### Mistakes, going back and open questions (challenge) (challenge, 15 questions)
 1. (mcq) A woman of 30 releases an egg cell. When did that egg cell begin meiosis?  
-   Options: Before the woman was born / When she was 12 / One month ago / Yesterday  
+   Options: When she was 12 / One month ago / Before the woman was born / Yesterday  
    **Answer:** Before the woman was born. *Why:* All of a girl's egg cells begin meiosis before she is born and then pause. This one waited for more than 30 years.
 2. (count) A tiny roundworm makes 1,090 body cells, and 131 of them die by plan. How many are left?  
    **Answer:** 959. *Why:* 1,090 − 131 = 959. Every worm of this kind ends with the same 959 cells, which showed that the deaths are planned.
@@ -594,17 +594,17 @@ In the morning the tile was empty. Out by the pepper vines, something the size o
 12. (fill) Scientists turned mouse skin cells back into ____ cells by switching on four genes.  
    **Answer:** ['stem']. *Why:* This showed that a specialised cell still holds the instructions for other jobs. They are closed, not lost.
 13. (mcq) Why is a gecko's regrown tail called a repair and not a copy?  
-   Options: It has a cartilage rod, not new bones / It is a different animal's tail / It cannot move at all / It is made of plant cells  
+   Options: It is a different animal's tail / It has a cartilage rod, not new bones / It cannot move at all / It is made of plant cells  
    **Answer:** It has a cartilage rod, not new bones. *Why:* The first tail has a row of small bones. The new tail has a single rod of cartilage, the bendy material in your ear. It works, but it is not the same as the first.
 14. (mcq) A human has 23 pairs of chromosomes. About how many different egg cells can the shuffle make?  
-   Options: 23 / 46 / About 8 million / About 100  
+   Options: 23 / 46 / About 100 / About 8 million  
    **Answer:** About 8 million. *Why:* Each pair doubles the number, and doubling 23 times gives 8,388,608. Answering 46 comes from adding 2 for each pair, when each pair doubles it.
 15. (mcq) Old yeast cells sometimes die in a tidy, programmed way. Why do they do it?  
-   Options: Scientists disagree about why / It is proved to feed the colony / It never really happens / Yeast cells are not alive  
+   Options: It is proved to feed the colony / It never really happens / Scientists disagree about why / Yeast cells are not alive  
    **Answer:** Scientists disagree about why. *Why:* Some biologists say the death helps the yeast cell's sisters. Others say it may be a side effect of other machinery. The question is still open.
 
 ## Videos
-- **Mitosis vs. Meiosis: Side by Side Comparison** (Amoeba Sisters, 7 min) id `zrKdz93WlVk`: To see mitosis and meiosis drawn next to each other, step by step, after doing them with paper strips. *Check:* Id, title and channel confirmed through YouTube's public lookup on 18 Nov 2026. Not watched from here: a parent should preview it. It uses the stage names (prophase, metaphase and so on), which this unit leaves out.
+- **Mitosis vs. Meiosis: Side by Side Comparison** (Amoeba Sisters, 7 min) id `zrKdz93WlVk`: To see mitosis and meiosis drawn next to each other, step by step, after doing them with paper strips. *Check:* Id, title and channel confirmed through YouTube's public lookup on 18 Nov 2026. Not watched from here: a parent should preview it. It uses the stage names (prophase, metaphase and so on), which this lesson leaves out.
 - **What are stem cells? - Craig A. Kohn** (TED-Ed, 4 min) id `evH0I7Coc54`: To see what stem cells are, where they are found, and how doctors hope to use them. *Check:* Id, title and channel confirmed through YouTube's public lookup on 18 Nov 2026. Not watched from here: a parent should preview it.
 - **Apoptosis 4K (2006) by Drew Berry wehi.tv, sound design Franc Tétaz** (WEHImovies, 5 min) id `P5jEKs7AxVc`: To see a cell receive a death signal and take herself apart, in an animation made at a research institute in Melbourne. No home experiment can show this. *Check:* Id and title confirmed through YouTube's public lookup on 18 Nov 2026. Not watched from here: a parent should preview it. It shows the molecules inside the cell in detail and has no narration for children, so watch it together and pause to talk.
 
@@ -622,24 +622,24 @@ In the morning the tile was empty. Out by the pepper vines, something the size o
    Options: Each grew from a different egg and sperm / They ate different food / Mitosis made many mistakes / One is older  
    **Answer:** Each grew from a different egg and sperm. *Why:* Meiosis gives every egg cell and every sperm cell a different mix of chromosomes. Food and age change a body, but they do not change which chromosomes it started with.
 5. (mcq) Which cells can become every kind of cell in the body?  
-   Options: Stem cells of an embryo a few days old / Blood stem cells / Skin stem cells / Red blood cells  
+   Options: Blood stem cells / Skin stem cells / Stem cells of an embryo a few days old / Red blood cells  
    **Answer:** Stem cells of an embryo a few days old. *Why:* Only the stem cells of a very young embryo can make every kind. Blood and skin stem cells make only their own tissue, and red blood cells do not divide at all.
 6. (truefalse) True or false: your bone marrow makes new blood cells every second.  
    **Answer:** True. *Why:* True. Blood stem cells in the marrow make about two million red blood cells each second, to replace those that wear out.
 7. (mcq) Which of these is planned cell death?  
-   Options: A tadpole's tail shrinking / Skin burnt by a hot pan / A crushed fingertip / A frozen toe  
+   Options: Skin burnt by a hot pan / A tadpole's tail shrinking / A crushed fingertip / A frozen toe  
    **Answer:** A tadpole's tail shrinking. *Why:* The tail cells die on a signal and are reused. Burning, crushing and freezing kill cells by injury, which is necrosis.
 8. (mcq) How is planned cell death different from death by injury?  
    Options: The cell packs herself up and nothing spills / The cell swells and bursts / It only happens in plants / It always hurts  
    **Answer:** The cell packs herself up and nothing spills. *Why:* In planned death the cell shrinks into sealed parcels, and cleaner cells remove them. A burst cell that spills and causes soreness is the sign of injury.
 9. (mcq) Roots grew at the node of a pudina piece and not between nodes. What is at the node?  
-   Options: Cells that can start dividing again / More water / Only dead cells / The oldest cells  
+   Options: More water / Only dead cells / The oldest cells / Cells that can start dividing again  
    **Answer:** Cells that can start dividing again. *Why:* A node holds a bud and cells that can go back to dividing. The stem between the nodes is finished, and makes no new parts.
 10. (mcq) Three pairs of chromosomes can be shuffled into 8 different sex cells. How many for four pairs?  
    Options: 10 / 12 / 16 / 24  
    **Answer:** 16. *Why:* Each extra pair doubles the number, and 8 × 2 = 16. Answering 10 comes from adding 2.
 11. (mcq) Why do most animals have two parents, when copying looks simpler?  
-   Options: There is a leading idea, still debated / It is fully proved / Nobody has studied it / Copying is impossible for animals  
+   Options: It is fully proved / There is a leading idea, still debated / Nobody has studied it / Copying is impossible for animals  
    **Answer:** There is a leading idea, still debated. *Why:* The leading idea is that shuffled children are harder for germs to beat. But some animals copy themselves very well, so scientists still debate it.
 
 ## Applications
@@ -653,11 +653,11 @@ In the morning the tile was empty. Out by the pepper vines, something the size o
 
 ## Spotted around us
 - A bunch of pudina from the market, forgotten in a tumbler of water, growing white roots at its nodes.
-- Sugarcane setts being planted in a field near Mandya or Kolhapur. Each sett is a piece of cane with two or three nodes.
+- Sugarcane setts being planted in a field. Each sett is a piece of cane with two or three nodes.
 - Toad tadpoles in a rain puddle in June, some with a full tail, some with legs and a stub of tail.
 - A duck paddling on a village pond in Kuttanad, with webs between the toes that a hen on the bank does not have.
 - A blood donation camp. Each donor's bone marrow replaces the red cells within a few weeks.
-- Skin peeling from your shoulders a few days after a sunny day at Marina Beach or in Goa.
+- Skin peeling from your shoulders a few days after a sunny day at the beach.
 - A wall gecko with a tail that is shorter, smoother and a different colour from the rest of the body, because it has regrown.
 
 ## Open questions
@@ -705,13 +705,17 @@ What Makes a Thing Alive? (sci.what-is-life.L5): Topic-level song
 - [HHMI BioInteractive](https://www.biointeractive.org/) · interactive: Free animations and short films on cell division, meiosis and cell death, made by a research institute for schools.
 - [The Nobel Prize in Physiology or Medicine 2002](https://www.nobelprize.org/prizes/medicine/2002/summary/) · interactive: For the parent: the prize for the roundworm work that showed cell death is planned, with a plain summary.
 - [The Nobel Prize in Physiology or Medicine 2012](https://www.nobelprize.org/prizes/medicine/2012/summary/) · interactive: For the parent: the prize for showing that specialised cells can be turned back into stem cells.
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: A science museum with galleries on biotechnology and the human body, where children can see models of cells and DNA.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru: A science museum with galleries on biotechnology and the human body, where children can see models of cells and DNA.
 - [Nehru Science Centre](https://www.nehrusciencecentre.gov.in) · place · Mumbai: A science centre with hands-on galleries about the human body and life.
-- [Kerala State Science and Technology Museum]() · place · Thiruvananthapuram: A science museum with galleries on life science and the human body.
+- Kerala State Science and Technology Museum · place · Thiruvananthapuram: A science museum with galleries on life science and the human body.
 
 ## Things to buy
 - [A fresh bunch of pudina (mint)](https://www.amazon.in/s?k=fresh+pudina+mint+leaves) (material): For the Pudina Pieces Test. Any vegetable seller has it. Choose a bunch with firm green stems at least 12 centimetres long. Used in e1. 
 - [A magnifying glass, about 5 times](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): For seeing the first white bumps of new roots, and for looking at hair, nails and wood. It is useful in many other units. Used in e1, a4, p1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Pudina Pieces Test: which piece of a stem can grow roots?. About ₹10 to ₹30. Any school ruler is fine. Used in e1. Get it before The Pudina Pieces Test: which piece of a stem can grow roots?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Paddle to Hand: how do you get fingers out of a paddle?. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in a1. Get it before Paddle to Hand: how do you get fingers out of a paddle?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Double Trouble: what happens if nobody halves the chromosomes?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a2. Get it before Double Trouble: what happens if nobody halves the chromosomes?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Which division makes two cells with the full set of chromosomes? → Mitosis.
@@ -732,7 +736,7 @@ What Makes a Thing Alive? (sci.what-is-life.L5): Topic-level song
 - DeepKids notebook items bio:80 and bio:81 (cells copy themselves), which this subtopic is mapped to in the curriculum.
 - Founder's SCI Cards in ideas/by_topic/genes-and-inheriting-features.md: Nettie Stevens (chromosomes and sex), Marthe Gautier (the extra chromosome 21, and the credit taken from her) and Barbara McClintock. Used in the explanations and the agreed facts.
 - Founder's SCI Card for Lynn Margulis in ideas/by_topic/living-and-non-living-signs-of-life.md, used in the explanation of why a cell would die for others.
-- The Level 4 unit sci.what-is-life.cells-divide.L4, which this unit builds on. Its root tip tests, replacement game, chromosome count story and ship of Theseus are not repeated.
+- The Level 4 unit sci.what-is-life.cells-divide.L4, which this lesson builds on. Its root tip tests, replacement game, chromosome count story and ship of Theseus are not repeated.
 - There is no founder's topic note or combined lesson for this subtopic, and no open-textbook entry in knowledge/by_subtopic.json. The activities here are new.
 - Flemming, W., Zellsubstanz, Kern und Zelltheilung, 1882 (mitosis)
 - Hertwig, O., Beiträge zur Kenntniss der Bildung, Befruchtung und Theilung des thierischen Eies, Morphologisches Jahrbuch 1, 1876 (fertilisation in sea urchins)

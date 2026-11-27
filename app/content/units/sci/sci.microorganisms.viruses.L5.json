@@ -176,7 +176,8 @@
    "examples": [
     "A polio virus particle carries one strand of RNA about 7,500 letters long. The cell's ribosomes read that strand directly, as if it were one of the cell's own messages.",
     "In the Factory Test, you drew six grains each round and built whatever each one said. The marked grains doubled each round, so more and more of your six jobs were for the virus.",
-    "An mRNA vaccine works because of the same fact. Your ribosomes build the spike protein from a message that your own genes never wrote."
+    "An mRNA vaccine works because of the same fact. Your ribosomes build the spike protein from a message that your own genes never wrote.",
+    "The tumbler in the Factory Test is a model. It shows how ribosomes pick up messages, but it leaves out the cell's defences and the tricks that real viruses play. Every model leaves things out."
    ],
    "perspectives": [],
    "art": "A ribosome in the middle with two message strands approaching it, one plain and one marked with a small V, and the same chain of beads starting to grow from either.",
@@ -312,7 +313,7 @@
    "concept": "Ending a virus for good",
    "status": "defined",
    "definition": "A virus who can be copied only in human cells, and against whom a good vaccine exists, can be ended completely, because the virus needs an unbroken chain of human hosts.",
-   "description": "A virus particle outside a cell does not last long. Every virus who infects only humans must keep reaching new humans, without a break, or that kind of virus ends. Smallpox infected only humans, and the vaccine was very good. After a worldwide effort, the last natural case was in Somalia in 1977, and the world was declared free of smallpox in 1980. Only one other disease has been ended in this way: rinderpest, a virus disease of cattle, whose end was announced in 2010. Polio may be the third. In the 1980s India had thousands of polio cases every year. The Pulse Polio programme began in 1995, with the aim of giving every child under five two drops of vaccine on the same days. India's last case of wild polio was recorded on 13 January 2011, in West Bengal. The World Health Organization declared India polio-free on 27 March 2014. Two of the three types of wild polio virus are now gone from the whole world. The third type still passes between people in Afghanistan and Pakistan. Until that chain breaks too, children everywhere still need the vaccine. A virus who also lives in other animals, such as rabies or bird flu, cannot be ended this way.",
+   "description": "A virus particle outside a cell does not last long. Every virus who infects only humans must keep reaching new humans, without a break, or that kind of virus ends. Smallpox infected only humans, and the vaccine was very good. After a worldwide effort, the last natural case was in Somalia in 1977, and the world was declared free of smallpox in 1980. Only one other disease has been ended in this way: rinderpest, a virus disease of cattle, whose end was announced in 2010. Polio may be the third. In the 1980s India had thousands of polio cases every year. The Pulse Polio programme began in 1995, with the aim of giving every child under five two drops of vaccine on the same days. India's last case of wild polio was recorded on 13 January 2011, in West Bengal. The World Health Organization declared India polio-free on 27 March 2014. Two of the three types of wild polio virus are now gone from the whole world. The third type still passes between people in Afghanistan and Pakistan. Until that chain breaks too, children everywhere still need the vaccine. A virus who also lives in other animals, such as rabies or bird flu, cannot be ended this way. Protection also reaches people who cannot be vaccinated. When most people nearby are vaccinated, the virus has few people left to reach, so a baby too young for the vaccine is safer. Covering a cough and staying home when ill protect others in the same way.",
    "examples": [
     "Smallpox: only humans, a strong vaccine, eradicated in 1980.",
     "Polio in India: Pulse Polio from 1995, the last wild case in January 2011, declared polio-free in March 2014.",
@@ -784,11 +785,11 @@
       "t": "mcq",
       "q": "What does a vaccine give the body in this game?",
       "options": [
-       "A stronger die",
        "Defence cards in hand before the virus arrives",
+       "A stronger die",
        "Fewer steps for the virus"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A vaccinated body holds antibody cards from the start, as a real body holds memory cells and antibodies. The virus's steps do not change. If you chose 'fewer steps', remember that the virus still has all seven to get through."
      },
      "parent": "Three games each is a small number, so one family may see the Virus win twice with a vaccine. Add your results to another day's and the pattern becomes clear.",
@@ -944,12 +945,12 @@
       "t": "mcq",
       "q": "Which of the four has no DNA and no RNA?",
       "options": [
-       "A prion",
        "A virus",
        "A viroid",
+       "A prion",
        "A bacterium"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A prion is only protein. A viroid is nothing but RNA, a virus has DNA or RNA inside a coat, and a bacterium has both. If you chose a viroid, you remembered 'the one with least', but a viroid's whole body is RNA."
      },
      "context": "This is the last step of Who Am I? Here you count your cards and look again at the clues you missed."
@@ -1165,11 +1166,11 @@
       "t": "mcq",
       "q": "During which rounds was the virus message inside the model cell?",
       "options": [
-       "Every round, from round 1",
        "Only rounds 6 and 7",
+       "Every round, from round 1",
        "Only in rounds when you drew a marked grain"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The marked grain was in the tumbler from round 1 and doubled every round. In the early rounds there were too few to be drawn often. If you chose rounds 6 and 7, you were thinking of when the virus showed. A real infection also has a quiet time before anything shows."
      },
      "parent": "Good answers mention the quiet early rounds, the fast rise at the end, and that nothing was forced. If your child's run was unusual, say so and keep the numbers. Chance is part of the model.",
@@ -1354,10 +1355,10 @@
       "q": "A spoon of curd sets a pot of milk overnight. A lump of chhena does not. Why?",
       "options": [
        "Curd is more sour than chhena",
-       "Chhena is too solid to mix in",
-       "Curd holds living bacteria who multiply"
+       "Curd holds living bacteria who multiply",
+       "Chhena is too solid to mix in"
       ],
-      "a": 2,
+      "a": 1,
       "why": "Curd carries living bacteria. They multiply in the milk and make acid, and the acid sets the milk. Rinsed chhena carries only changed milk protein, and that does not pass its change on. If you chose 'more sour', you were close: acid does the setting, but only the bacteria can keep making more of it."
      },
      "parent": "Now you can explain. Acid from the lemon made the milk protein, called casein, tangle into lumps. The lumps do not make other casein tangle. In almost every protein, a changed form does not pass its change on. A prion is the rare protein whose changed form does. No kitchen test can show a prion at work, so this test shows what a prion is not. If your family eats eggs, try a piece of boiled egg white in raw egg white. The raw egg white stays raw.",
@@ -2127,12 +2128,12 @@
      "t": "mcq",
      "p": "Who builds the new virus proteins in an infected cell?",
      "opts": [
-      "The cell's own ribosomes",
       "Ribosomes inside the virus particle",
+      "The cell's own ribosomes",
       "Nobody, they grow",
       "White blood cells"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A virus particle has no ribosomes. The cell's ribosomes build every virus protein, from the virus's messages. White blood cells fight viruses and do not build them.",
      "outcome": 0
     },
@@ -2181,11 +2182,11 @@
      "p": "In the Factory Test, why did you draw more marked grains in the later rounds?",
      "opts": [
       "The rules told you to pick them",
+      "There were more marked grains to pick",
       "Plain grains were taken out",
-      "Marked grains are easier to feel",
-      "There were more marked grains to pick"
+      "Marked grains are easier to feel"
      ],
-     "a": 3,
+     "a": 1,
      "how": "e1",
      "why": "The marked grains doubled each round, so a blind pick landed on them more often. Nothing forced the pick. A ribosome meets virus messages more often for the same reason.",
      "outcome": 0
@@ -2228,10 +2229,10 @@
      "opts": [
       "A medicine that kills the germ",
       "A wall the germ cannot cross",
-      "The illness in a mild form",
-      "An antigen of the germ"
+      "An antigen of the germ",
+      "The illness in a mild form"
      ],
-     "a": 3,
+     "a": 2,
      "why": "A vaccine shows the body an antigen, which is a part of the germ that defenders recognise by shape. It is not a medicine or a wall. Most vaccines cause no illness at all.",
      "outcome": 3
     },
@@ -2286,12 +2287,12 @@
      "t": "mcq",
      "p": "What is a viroid made of?",
      "opts": [
-      "One very small cell",
       "A bare loop of RNA",
+      "One very small cell",
       "A protein with no genes",
       "DNA in a protein coat"
      ],
-     "a": 1,
+     "a": 0,
      "why": "A viroid is a loop of RNA a few hundred letters long, with no coat. A protein with no genes describes a prion. DNA in a coat describes some viruses.",
      "outcome": 5
     },
@@ -2348,11 +2349,11 @@
      "p": "A polio virus blocks the cell's own messages. Why are polio messages still read?",
      "opts": [
       "They are much longer",
-      "They start in a different way",
       "Ribosomes prefer virus messages",
-      "They hide in the nucleus"
+      "They hide in the nucleus",
+      "They start in a different way"
      ],
-     "a": 1,
+     "a": 3,
      "why": "The cell's messages need a cap at the front for a ribosome to start. Polio messages have a folded stretch that lets a ribosome start without a cap. Ribosomes read both kinds of message in the same way.",
      "outcome": 0
     },
@@ -2369,10 +2370,10 @@
      "opts": [
       "It gives them antibodies",
       "It kills them at once",
-      "It makes them slow their protein building",
-      "It makes them divide faster"
+      "It makes them divide faster",
+      "It makes them slow their protein building"
      ],
-     "a": 2,
+     "a": 3,
      "why": "Warned cells slow their ribosomes and cut up RNA, so a virus who enters them gains little. Antibodies come later, from B cells.",
      "outcome": 2
     },
@@ -2462,6 +2463,30 @@
      "outcome": 4
     },
     {
+     "t": "sort",
+     "p": "Sort each action: does it protect only you, or does it also protect other people?",
+     "cats": [
+      "Protects only me",
+      "Protects others too"
+     ],
+     "items": [
+      [
+       "A measles vaccine",
+       "Protects others too"
+      ],
+      [
+       "Covering your cough with your elbow",
+       "Protects others too"
+      ],
+      [
+       "Drinking a glass of milk every day",
+       "Protects only me"
+      ]
+     ],
+     "a": "see items",
+     "why": "A vaccine and a covered cough cut the chain of a virus, so the people around you are safer too. Milk helps your own body, but it does not stop a virus passing to someone else."
+    },
+    {
      "t": "write",
      "p": "Two doses of measles vaccine protect for many years. A flu vaccine protects for about one. Explain the difference.",
      "lines": 4,
@@ -2473,12 +2498,12 @@
      "t": "mcq",
      "p": "A rinsed lump of curdled milk did not curdle fresh milk. What does this show?",
      "opts": [
-      "A changed protein rarely passes its change on",
       "Prions are in milk",
+      "A changed protein rarely passes its change on",
       "Lemon juice does nothing to milk",
       "Milk protein cannot change"
      ],
-     "a": 0,
+     "a": 1,
      "how": "e2",
      "why": "In Lemon, Chhena or Nothing, the lemon changed the milk and the lump did not. In ordinary proteins a changed form is not catching. A prion is unusual because its changed form is.",
      "outcome": 5
@@ -2567,11 +2592,11 @@
      "p": "In the Factory Test, a cell with twice as many plain grains was taken over only one round later. Why?",
      "opts": [
       "Plain grains were removed",
-      "The die was unfair",
       "Doubling catches up in one round",
+      "The die was unfair",
       "Bigger cells are weaker"
      ],
-     "a": 2,
+     "a": 1,
      "how": "e1",
      "why": "The marked grains double every round. So going from 20 to 40 plain grains costs the virus just one more doubling. This is why a virus who is copied quickly is hard to outrun.",
      "outcome": 6
@@ -2714,12 +2739,12 @@
      "t": "mcq",
      "p": "Lambda phage usually waits inside a starving bacterium and does not burst out. What could the phage gain?",
      "opts": [
+      "A starving cell makes few new phages",
       "A starving cell bursts anyway",
       "Starving cells have no DNA",
-      "A starving cell makes few new phages",
       "Waiting changes the phage's coat"
      ],
-     "a": 2,
+     "a": 0,
      "why": "A starving cell has little material and energy, so few phages would be made. Joined to the cell's DNA, the phage is copied at each division until times are better.",
      "outcome": 1
     },
@@ -2760,12 +2785,12 @@
    "t": "mcq",
    "p": "What does a virus bring into a cell?",
    "opts": [
-    "Energy",
     "Instructions",
+    "Energy",
     "Ribosomes",
     "Amino acids"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A virus brings a genome, which is a set of instructions. The cell supplies the ribosomes, the energy and the amino acids. If you chose ribosomes, remember that a virus particle has none.",
    "outcome": 0
   },
@@ -2774,11 +2799,11 @@
    "p": "Why does a cell build proteins for a virus?",
    "opts": [
     "The virus pushes the ribosomes",
-    "Ribosomes build from any message they meet",
     "The virus pays the cell with energy",
-    "The cell wants more viruses"
+    "The cell wants more viruses",
+    "Ribosomes build from any message they meet"
    ],
-   "a": 1,
+   "a": 3,
    "why": "A ribosome builds from whichever message it meets. Once virus messages are in the cell, they are read like the cell's own. No force is used.",
    "outcome": 0
   },
@@ -2787,11 +2812,11 @@
    "p": "Why is there a quiet time after a virus gets in, before a person feels ill?",
    "opts": [
     "The virus has not entered any cell",
-    "Too few cells are infected at first",
     "Antibodies are hiding the virus",
-    "The virus is asleep"
+    "The virus is asleep",
+    "Too few cells are infected at first"
    ],
-   "a": 1,
+   "a": 3,
    "why": "The virus is being copied from the start, but it takes several rounds of cells before many are infected. If you chose 'asleep', that describes a latent virus, which is a different thing.",
    "outcome": 1
   },
@@ -2807,11 +2832,11 @@
    "p": "Which defence starts within hours, long before antibodies are made?",
    "opts": [
     "An antibiotic",
-    "Interferon",
     "Memory cells",
-    "A vaccine"
+    "A vaccine",
+    "Interferon"
    ],
-   "a": 1,
+   "a": 3,
    "why": "An infected cell releases interferon at once, and the cells nearby slow their protein building. New antibodies take one to two weeks the first time. Antibiotics do not act on viruses.",
    "outcome": 2
   },
@@ -2819,12 +2844,12 @@
    "t": "mcq",
    "p": "How does a bacterium recognise a phage who attacked their ancestors?",
    "opts": [
+    "From a stored piece of the phage's DNA",
     "Bacteria have no way",
     "From antibodies in their blood",
-    "From a stored piece of the phage's DNA",
     "By the phage's smell"
    ],
-   "a": 2,
+   "a": 0,
    "why": "The bacterium keeps a short piece of the phage's DNA in a CRISPR row and uses it as a guide for cutting matching DNA. Bacteria have no blood and no antibodies.",
    "outcome": 2
   },
@@ -2832,12 +2857,12 @@
    "t": "mcq",
    "p": "Which kind of vaccine holds whole virus particles that can no longer be copied?",
    "opts": [
-    "An inactivated vaccine",
     "A one-part vaccine",
     "A live weakened vaccine",
-    "An mRNA vaccine"
+    "An mRNA vaccine",
+    "An inactivated vaccine"
    ],
-   "a": 0,
+   "a": 3,
    "why": "In an inactivated vaccine the whole virus is treated so that the genome cannot be copied, and the shape remains. A live weakened virus can still multiply a little.",
    "outcome": 3
   },
@@ -2847,10 +2872,10 @@
    "opts": [
     "New DNA",
     "The whole virus",
-    "One protein of the virus",
-    "Antibiotics"
+    "Antibiotics",
+    "One protein of the virus"
    ],
-   "a": 2,
+   "a": 3,
    "why": "The mRNA is the message for one protein, such as the spike. Ribosomes build only that. The message does not enter the nucleus and does not change DNA.",
    "outcome": 3
   },
@@ -2858,12 +2883,12 @@
    "t": "mcq",
    "p": "Why is there no vaccine against the common cold?",
    "opts": [
-    "Colds are too mild to matter",
     "At least 165 types of cold virus exist",
+    "Colds are too mild to matter",
     "Cold viruses have no antigens",
     "Colds are caused by prions"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Antibodies against one type of rhinovirus give little protection against the others. A vaccine would have to cover a very large number of types.",
    "outcome": 4
   },
@@ -2878,12 +2903,12 @@
    "t": "mcq",
    "p": "How does a prion spread in a brain?",
    "opts": [
+    "It makes normal proteins refold",
     "It divides in two",
     "Ribosomes read it",
-    "Its genes are copied",
-    "It makes normal proteins refold"
+    "Its genes are copied"
    ],
-   "a": 3,
+   "a": 0,
    "why": "A prion has no genes and does not divide. It touches a normal protein of the same kind, and that protein takes the prion shape. If you chose genes, you were thinking of a virus.",
    "outcome": 5
   },
@@ -2892,11 +2917,11 @@
    "p": "Which of these is a bare loop of RNA with no coat?",
    "opts": [
     "A bacterium",
-    "A viroid",
     "A prion",
-    "A phage"
+    "A phage",
+    "A viroid"
    ],
-   "a": 1,
+   "a": 3,
    "why": "A viroid is RNA alone. A prion is protein alone. A phage is a virus, with a genome in a coat, and a bacterium is a whole cell.",
    "outcome": 5
   },
@@ -2904,15 +2929,39 @@
    "t": "mcq",
    "p": "Which of these did the Factory Test leave out?",
    "opts": [
-    "The cell's defences",
     "The copying of virus messages",
     "The cell's own messages",
+    "The cell's defences",
     "Chance"
    ],
-   "a": 0,
+   "a": 2,
    "how": "e1",
    "why": "The model cell never fought back. A real cell senses virus RNA, sends out interferon and may self-destruct. The model did include the cell's messages, the copying and chance.",
    "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "A tumbler model shows how ribosomes pick up messages. What is true of every model like this?",
+   "opts": [
+    "It shows every part of the real thing",
+    "It leaves things out of the real thing",
+    "It is exactly the same as the real thing"
+   ],
+   "a": 1,
+   "why": "Every model leaves things out. The tumbler has six draws and twenty messages, not millions, and it has no cell defences.",
+   "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "Your neighbour's baby is too young for a measles vaccine. Why does your own vaccination still help that baby?",
+   "opts": [
+    "Your antibodies float into the baby's lungs",
+    "The vaccine passes to the baby by touch",
+    "Fewer people with the virus are left nearby to pass it on"
+   ],
+   "a": 2,
+   "why": "When most people around the baby are protected, the virus has few people to reach. Your antibodies stay in your own blood, so they do not reach the baby through the air or by touch.",
+   "outcome": 4
   }
  ],
  "videos": [
@@ -3196,7 +3245,79 @@
    "why": "A science museum to visit. Ask at the entrance which galleries show cells, DNA and biotechnology."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Drift Cards: how much can a pattern change before you stop knowing it?, Which Part Shall We Show? Plan a vaccine for a made-up virus. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "a2",
+    "c1"
+   ],
+   "plan": "Get it before Drift Cards: how much can a pattern change before you stop knowing it?."
+  },
+  {
+   "id": "b-vinegar",
+   "item": "Vinegar",
+   "kind": "material",
+   "why": "Used in Lemon, Chhena or Nothing: can changed milk change fresh milk?. About ₹40 to ₹80. Lemon juice works for many tests.",
+   "url": "https://www.amazon.in/s?k=white+vinegar",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before Lemon, Chhena or Nothing: can changed milk change fresh milk?."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in The Factory Test: whose jobs get done inside an infected cell?. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before The Factory Test: whose jobs get done inside an infected cell?."
+  },
+  {
+   "id": "b-graph-paper",
+   "item": "Graph paper",
+   "kind": "material",
+   "why": "Used in Four Rules, Four Days: my own takeover trial. About ₹10 to ₹30. Draw squares on plain paper.",
+   "url": "https://www.amazon.in/s?k=graph+paper+notebook",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before Four Rules, Four Days: my own takeover trial."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in The Wet Road: wrap a message so that it arrives. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "c2"
+   ],
+   "plan": "Get it before The Wet Road: wrap a message so that it arrives."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "Who builds the new viruses in an infected cell?",

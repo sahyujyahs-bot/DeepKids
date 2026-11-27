@@ -365,11 +365,11 @@
       "t": "mcq",
       "q": "These babies look very different from their parents. What happens as they grow up?",
       "options": [
-       "They change their whole body",
        "They stay the same shape",
-       "They get smaller and smaller"
+       "They get smaller and smaller",
+       "They change their whole body"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A tadpole grows legs and loses the tail. A caterpillar grows wings. A maggot grows legs and wings. Each one changes their whole body until they look like a grown-up."
      }
     }
@@ -481,10 +481,10 @@
       "q": "Who looks after the eggs until the babies hatch?",
       "options": [
        "The mother",
-       "The father",
-       "Neither. The eggs are left on their own."
+       "Neither. The eggs are left on their own.",
+       "The father"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The father does. The mother puts her eggs into a pouch on his belly. He keeps them safe in the pouch until the tiny seahorses hatch."
      },
      "parent": "In seahorses, the mother puts her eggs into the father's belly pouch. He carries them for a few weeks, and then the tiny seahorses come out. Most animals are not like this, which is why the game has this card."
@@ -669,10 +669,10 @@
       "q": "Who had the biggest head for their body?",
       "options": [
        "The grown-up",
-       "The child",
-       "The baby"
+       "The baby",
+       "The child"
       ],
-      "a": 2,
+      "a": 1,
       "why": "The baby was only about 4 heads long, so the head is a big part of the whole baby. The grown-up was about 7 heads tall, so their head is a smaller part.",
       "how": "e1"
      },
@@ -823,11 +823,11 @@
       "t": "mcq",
       "q": "Why can't a young chick get their own food?",
       "options": [
-       "The chick cannot fly yet",
        "The chick does not like food",
-       "The chick is asleep all day"
+       "The chick is asleep all day",
+       "The chick cannot fly yet"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A young chick has no flying feathers yet, so they wait in the nest. The parents bring the food."
      }
     }
@@ -1027,11 +1027,11 @@
       "t": "mcq",
       "q": "What is a maggot?",
       "options": [
-       "A baby fly",
        "A kind of worm that grows from banana",
+       "A baby fly",
        "A seed"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A maggot is the young of a fly. Maggots hatch from eggs that flies lay on food. They do not grow out of the banana.",
       "how": "p1"
      },
@@ -1196,11 +1196,11 @@
      "t": "mcq",
      "p": "You measure how many of their own head-lengths tall a grown-up, a child and a baby are. Who will be the most head-lengths tall?",
      "opts": [
-      "The grown-up",
       "The child",
+      "The grown-up",
       "The baby"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The grown-up is about 7 head-lengths tall, the child about 6 and the baby about 4. As we grow up, our legs grow much more than our head.",
      "how": "e1"
     },
@@ -1285,11 +1285,11 @@
      "t": "mcq",
      "p": "A calf can stand within about an hour of being born. A human baby takes about a year to walk. Why might a calf need to stand so soon?",
      "opts": [
-      "To follow the mother and the herd, and keep safe",
       "Because calves don't like lying down",
+      "To follow the mother and the herd, and keep safe",
       "To play with other calves"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A calf needs to walk with the mother and the herd, away from danger, from the first day. A human baby is carried by grown-ups, so they can take longer."
     },
     {
@@ -1410,11 +1410,11 @@
      "t": "mcq",
      "p": "A great hornbill mother seals herself into a tree hole with her eggs. Who brings her food?",
      "opts": [
-      "The father hornbill",
       "Nobody, she goes hungry",
-      "The chicks"
+      "The chicks",
+      "The father hornbill"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The father hornbill brings fruit to a thin slit in the wall, and passes it to the mother and, later, the chicks."
     }
    ]
@@ -1451,11 +1451,11 @@
    "t": "mcq",
    "p": "Which of these animals has young?",
    "opts": [
-    "Only cats and dogs",
     "Every kind of animal, humans too",
+    "Only cats and dogs",
     "Only birds"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Every kind of animal has young. Humans are animals too.",
    "outcome": 0
   },
@@ -1463,11 +1463,11 @@
    "t": "mcq",
    "p": "What is the young of a cow called?",
    "opts": [
-    "A kitten",
     "A calf",
+    "A kitten",
     "A chick"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A cow's young is a calf. A kitten is a young cat, and a chick is a young bird.",
    "outcome": 1
   },
@@ -1476,10 +1476,10 @@
    "p": "A tadpole grows up into what?",
    "opts": [
     "A fish",
-    "A frog",
-    "A snake"
+    "A snake",
+    "A frog"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A tadpole grows legs, loses the tail and becomes a frog. Many people guess fish, because tadpoles swim.",
    "outcome": 1
   },
@@ -1487,11 +1487,11 @@
    "t": "mcq",
    "p": "Which baby looks very different from the parent?",
    "opts": [
+    "A caterpillar",
     "A kitten",
-    "A puppy",
-    "A caterpillar"
+    "A puppy"
    ],
-   "a": 2,
+   "a": 0,
    "why": "A caterpillar has no wings and crawls on leaves. The grown-up is a butterfly or a moth. Kittens and puppies look like small cats and dogs.",
    "outcome": 2
   },
@@ -1512,11 +1512,11 @@
    "t": "mcq",
    "p": "A newborn baby is about how many of their own heads long?",
    "opts": [
-    "About 4",
     "About 8",
-    "About 20"
+    "About 20",
+    "About 4"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A newborn is about 4 heads long. A grown-up is about 7 or 8 heads tall, because the legs grow so much.",
    "outcome": 3,
    "how": "e1"
@@ -1526,10 +1526,10 @@
    "p": "As a child grows up, which part grows the most?",
    "opts": [
     "The head",
-    "The legs",
-    "The ears"
+    "The ears",
+    "The legs"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The legs grow the most. That is why a grown-up is more heads tall than a baby.",
    "outcome": 3,
    "how": "e1"
@@ -1550,11 +1550,11 @@
    "t": "mcq",
    "p": "Which father carries the eggs in a pouch on his belly?",
    "opts": [
-    "The seahorse father",
     "The cat father",
-    "The crow father"
+    "The crow father",
+    "The seahorse father"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A seahorse father carries the eggs in his pouch until the babies hatch and swim out.",
    "outcome": 4,
    "how": "g2"
@@ -1727,7 +1727,66 @@
    "why": "A zoo inside a forest, with animals from Northeast India."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-a-magnifying-glass",
+   "item": "A magnifying glass",
+   "kind": "tool",
+   "why": "Used in The Banana Jar: watch fruit fly babies grow. About ₹30 to ₹120. A water drop on clear plastic magnifies a little.",
+   "url": "https://www.amazon.in/s?k=magnifying+glass+kids",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before The Banana Jar: watch fruit fly babies grow."
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in As Long as a Newborn: a string baby. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before As Long as a Newborn: a string baby."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in As Long as a Newborn: a string baby. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before As Long as a Newborn: a string baby."
+  },
+  {
+   "id": "b-paper-masking-tape",
+   "item": "Paper masking tape",
+   "kind": "material",
+   "why": "Used in Heads Tall: is a baby shaped like a small grown-up?. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor.",
+   "url": "https://www.amazon.in/s?k=paper+masking+tape",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before Heads Tall: is a baby shaped like a small grown-up?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "What is the young of a cat called?",
@@ -1840,14 +1899,20 @@
     "source": "Tao Te Ching 51",
     "teaching": "The Tao gives birth to all things and raises them, but does not hold on to them as its own.",
     "link": "The Tao is the name ancient Chinese thinkers gave to the way nature works. In the same way, pigeon parents feed their chicks for about four weeks. Then the young pigeons fly off and live their own lives.",
-    "verse": ["道生之，德畜之。長之育之，亭之毒之，蓋之覆之。", "生而不有，為而不恃，長而不宰。是謂玄德。"],
+    "verse": [
+     "道生之，德畜之。長之育之，亭之毒之，蓋之覆之。",
+     "生而不有，為而不恃，長而不宰。是謂玄德。"
+    ],
     "verse_lang": "zh"
    },
    {
     "source": "Isha Upanishad, opening verse (also Brihadaranyaka Upanishad 5.1.1)",
     "teaching": "That is whole, this is whole. From the whole, the whole comes out. Take the whole from the whole, and the whole remains.",
     "link": "In the same way, a mother cat who has four kittens is still a whole cat. Each kitten is a whole new cat of their own.",
-    "verse": ["ॐ पूर्णमदः पूर्णमिदं पूर्णात् पूर्णमुदच्यते", "पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते"],
+    "verse": [
+     "ॐ पूर्णमदः पूर्णमिदं पूर्णात् पूर्णमुदच्यते",
+     "पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते"
+    ],
     "verse_lang": "sa"
    }
   ],
@@ -1887,5 +1952,117 @@
   "art": "A glass tank of sea water with several flat, see-through, leaf-shaped baby eels and one small round see-through eel, and a notebook beside the tank."
  },
  "playtest": "Walked through every game, experiment, activity, project and worksheet as a parent and a six-year-old in a flat. The sorting game now says how the gap between the mats is used and how 2 or 4 players share the 16 cards; the Heads Tall test, string baby, Busy Beaks and banana jar add up in minutes and days, and the head-strip steps are fair (own head strip for each person, same standing). I fixed the claim that the head hardly grows (it grows, but less than the legs), the fruit fly timing note for cool weather, ages of the two Class 1 girls, a repeated Redi fact and a repeated head-strip question, and swapped five weak jokes for real ones. The three video entries still have no checked link (the validator needs exactly 3), so they stay marked to find.",
- "warm": {"words": ["HATCH", "YOUNG", "CHICK", "GROWS", "PUPPY"], "quiz": [["A newly hatched pigeon chick looks very different from the grown-up pigeons.", true, "Some young look nothing like their parents at first, and change as they grow."], ["A human baby has the same shape as a grown-up, only smaller.", false, "A baby is about 4 heads long, and a grown-up is about 7 or 8 heads tall."], ["Maggots grow out of rotting food by themselves.", false, "Flies lay eggs on the food, and the maggots hatch from those eggs."], ["A human baby's head is big for the body.", true, "After birth the legs grow much more than the head does."], ["A tadpole has the same body shape as a grown frog.", false, "A tadpole has a tail and no legs, and her body changes a lot as she grows."], ["Young animals come only from parents of their own kind.", true, "Pigeons have pigeon chicks, and cows have calves."], ["Young animals are born as big as their parents.", false, "Young are small and grow bigger until they become grown-ups."], ["Pigeon fathers feed their chicks too.", true, "Both pigeon parents make a milk in the throat to feed the chicks."], ["A young animal grows up and can later have young of her own.", true, "Every kind of animal has young, and the young grow into grown-ups."], ["A pigeon chick is fed only grain by her parents.", false, "Pigeon parents feed their chicks with a milk they make in their throat."]], "odd": [[["Pigeon chick", "Caterpillar", "Tadpole", "Puppy"], "Puppy", "The first three look very different from their parents at first; a puppy looks like a small dog."], [["Pigeon father feeding", "Seahorse father carrying eggs", "Jacana father sitting on eggs", "Fly leaving her eggs"], "Fly leaving her eggs", "The first three are fathers who look after the young; a fly lays her eggs and leaves."], [["Pigeon chick", "Baby spider", "Baby crocodile", "Calf"], "Calf", "The first three hatch from eggs; a calf is born from her mother."], [["Big head for the body", "Short legs", "About 4 heads long", "About 8 heads tall"], "About 8 heads tall", "The first three describe a newborn baby; about 8 heads tall is a grown-up."], [["Fly's egg", "Hen's egg", "Frog's egg", "Rotting food"], "Rotting food", "The first three are eggs that young hatch from; rotting food does not make young."]]}
+ "warm": {
+  "words": [
+   "HATCH",
+   "YOUNG",
+   "CHICK",
+   "GROWS",
+   "PUPPY"
+  ],
+  "quiz": [
+   [
+    "A newly hatched pigeon chick looks very different from the grown-up pigeons.",
+    true,
+    "Some young look nothing like their parents at first, and change as they grow."
+   ],
+   [
+    "A human baby has the same shape as a grown-up, only smaller.",
+    false,
+    "A baby is about 4 heads long, and a grown-up is about 7 or 8 heads tall."
+   ],
+   [
+    "Maggots grow out of rotting food by themselves.",
+    false,
+    "Flies lay eggs on the food, and the maggots hatch from those eggs."
+   ],
+   [
+    "A human baby's head is big for the body.",
+    true,
+    "After birth the legs grow much more than the head does."
+   ],
+   [
+    "A tadpole has the same body shape as a grown frog.",
+    false,
+    "A tadpole has a tail and no legs, and her body changes a lot as she grows."
+   ],
+   [
+    "Young animals come only from parents of their own kind.",
+    true,
+    "Pigeons have pigeon chicks, and cows have calves."
+   ],
+   [
+    "Young animals are born as big as their parents.",
+    false,
+    "Young are small and grow bigger until they become grown-ups."
+   ],
+   [
+    "Pigeon fathers feed their chicks too.",
+    true,
+    "Both pigeon parents make a milk in the throat to feed the chicks."
+   ],
+   [
+    "A young animal grows up and can later have young of her own.",
+    true,
+    "Every kind of animal has young, and the young grow into grown-ups."
+   ],
+   [
+    "A pigeon chick is fed only grain by her parents.",
+    false,
+    "Pigeon parents feed their chicks with a milk they make in their throat."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Pigeon chick",
+     "Caterpillar",
+     "Tadpole",
+     "Puppy"
+    ],
+    "Puppy",
+    "The first three look very different from their parents at first; a puppy looks like a small dog."
+   ],
+   [
+    [
+     "Pigeon father feeding",
+     "Seahorse father carrying eggs",
+     "Jacana father sitting on eggs",
+     "Fly leaving her eggs"
+    ],
+    "Fly leaving her eggs",
+    "The first three are fathers who look after the young; a fly lays her eggs and leaves."
+   ],
+   [
+    [
+     "Pigeon chick",
+     "Baby spider",
+     "Baby crocodile",
+     "Calf"
+    ],
+    "Calf",
+    "The first three hatch from eggs; a calf is born from her mother."
+   ],
+   [
+    [
+     "Big head for the body",
+     "Short legs",
+     "About 4 heads long",
+     "About 8 heads tall"
+    ],
+    "About 8 heads tall",
+    "The first three describe a newborn baby; about 8 heads tall is a grown-up."
+   ],
+   [
+    [
+     "Fly's egg",
+     "Hen's egg",
+     "Frog's egg",
+     "Rotting food"
+    ],
+    "Rotting food",
+    "The first three are eggs that young hatch from; rotting food does not make young."
+   ]
+  ]
+ }
 }

@@ -105,6 +105,18 @@
    "meaning": "A material that sticks two things together, such as glue, paste or sticky tape.",
    "example": "Rice paste is an adhesive that people in India have used for a long time to stick paper.",
    "art": "A small steel bowl of mashed rice paste with a spoon, beside paper strips."
+  },
+  {
+   "term": "Raw material",
+   "meaning": "A raw material is a material taken straight from nature to make something. Clay is the raw material for a pot, and limestone is the raw material for cement.",
+   "example": "A potter in a village digs wet clay from the riverbank. The clay is the raw material for her pots.",
+   "art": "Clay in a riverbank with arrows to a finished pot."
+  },
+  {
+   "term": "Mould (shape)",
+   "meaning": "A mould is a hollow shape that soft material is pressed into, so it comes out in that shape. An idli stand is a mould, and so is a brick frame.",
+   "example": "The cups of an idli stand are moulds. The soft batter fills them and comes out in the shape of the cup.",
+   "art": "An idli stand with batter filling the round cups and finished idlis beside it."
   }
  ],
  "explanations": [
@@ -429,10 +441,10 @@
       "q": "A paper bag's handle tore off at the corner. What is the weak spot?",
       "options": [
        "The bottom of the bag",
-       "The joint where the handle meets the bag",
-       "The colour of the paper"
+       "The colour of the paper",
+       "The joint where the handle meets the bag"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The handle tore at the corner, so the joint between the handle and the bag failed first. That is the weak spot. Picking 'the bottom' means fixing a part that did not fail. A good fix makes that corner joint stronger."
      }
     }
@@ -677,10 +689,10 @@
       "q": "Two foil boats are made from the same size of foil. Boat A has walls 1 centimetre high. Boat B has walls 3 centimetres high. Which will most likely carry more coins?",
       "options": [
        "Boat A, because it is flatter",
-       "Boat B, because it can sink deeper before water comes in",
-       "Both the same, because they use the same foil"
+       "Both the same, because they use the same foil",
+       "Boat B, because it can sink deeper before water comes in"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A boat with taller walls can sink deeper and push aside more water before water spills over the top. The more water it pushes aside, the bigger the upward push. Picking 'the same foil' is a natural guess, but shape matters, not only the amount of foil. Picking 'flatter' may come from seeing that flat boats do not tip, but low walls let water in early."
      },
      "parent": "A good answer sounds like this. What I think: taller, even walls help a boat carry more. What I saw: boat 1 carried 9 coins and sank at a low corner, and boat 3 carried 31. Why: a boat with taller walls can sink deeper and push aside more water before the water spills in."
@@ -1094,11 +1106,11 @@
       "t": "mcq",
       "q": "Why does a foil boat with all the coins piled at one end usually sink sooner?",
       "options": [
-       "That end goes down, and water spills in over its edge",
        "Piled coins are heavier than spread coins",
-       "The foil gets thinner at that end"
+       "The foil gets thinner at that end",
+       "That end goes down, and water spills in over its edge"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The same coins weigh the same wherever they sit. But piled at one end, they push that end down until water comes over its wall. Spread evenly, the whole boat sinks level. Picking 'heavier' is a common mix-up: the place of a load matters, not only its weight."
      },
      "parent": "If boat A carries as many coins as boat B, check that the coins really sat at one end, and that both boats are folded the same way."
@@ -1402,10 +1414,10 @@
    "p": "What is the purpose of a design?",
    "opts": [
     "What it is made of",
-    "The job it is made to do",
-    "How much it costs"
+    "How much it costs",
+    "The job it is made to do"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The purpose is the job the thing must do. What it is made of is its material, and cost is one of its limits. Picking 'material' mixes up what a thing is for with what it is made of.",
    "outcome": 0
   },
@@ -1413,11 +1425,11 @@
    "t": "mcq",
    "p": "In the foil boat test, each boat must be made from one square of foil. What is this rule called?",
    "opts": [
-    "A constraint",
     "A prototype",
-    "A float"
+    "A float",
+    "A constraint"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A constraint is a limit a design must work within. A prototype is a trial version, and float is what a boat does.",
    "outcome": 0
   },
@@ -1438,10 +1450,10 @@
    "p": "A foil boat sank when water came in over one low corner. What should you change for the next boat?",
    "opts": [
     "Use more coins",
-    "Make that corner as high as the other walls",
-    "Use a smaller bucket"
+    "Use a smaller bucket",
+    "Make that corner as high as the other walls"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The low corner was the weak spot, so raising it fixes the problem. More coins would make it sink sooner, and the bucket size does not change where water comes in.",
    "outcome": 5,
    "how": "e1"
@@ -1450,11 +1462,11 @@
    "t": "mcq",
    "p": "You changed the walls, the base and the corners of a foil boat all at once, and it carried more coins. What can you NOT tell?",
    "opts": [
-    "That the new boat is better",
     "Which change made it better",
+    "That the new boat is better",
     "How many coins it carried"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Three things changed at once, so you cannot tell which one helped. To know, change one thing at a time. You can still see that the new boat is better and count its coins.",
    "outcome": 3,
    "how": "e1"
@@ -1464,10 +1476,10 @@
    "p": "Why does a foil boat float?",
    "opts": [
     "Foil is lighter than air",
-    "The water pushes up on the boat",
-    "The coins hold it up"
+    "The coins hold it up",
+    "The water pushes up on the boat"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Water pushes up on anything put into it. The more water a boat pushes aside, the bigger that push. Foil is much heavier than air, and the coins push the boat down, not up.",
    "outcome": 4
   },
@@ -1475,11 +1487,11 @@
    "t": "mcq",
    "p": "Why does a boat with taller walls usually carry more coins?",
    "opts": [
-    "It is made of thicker foil",
     "It can sink deeper and push aside more water before water spills in",
+    "It is made of thicker foil",
     "Tall walls keep the wind off"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Taller walls let the boat sink lower without water coming over the top. A lower boat pushes aside more water, so the water pushes up harder. It uses the same foil, not thicker foil.",
    "outcome": 4,
    "how": "e1"
@@ -1489,10 +1501,10 @@
    "p": "Which is the best material for a test boat that you fold by hand?",
    "opts": [
     "Paper towel",
-    "Aluminium foil",
-    "A steel plate"
+    "A steel plate",
+    "Aluminium foil"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Foil is thin, light, waterproof and holds a folded shape. Paper towel soaks up water and sinks. Steel is too stiff to fold by hand.",
    "outcome": 2
   },
@@ -1500,11 +1512,11 @@
    "t": "mcq",
    "p": "In the paste test, the plain water joint fell apart at once. Why did we test plain water at all?",
    "opts": [
-    "To see what happens with no paste, so we know the paste does the work",
     "Because water is the best glue",
+    "To see what happens with no paste, so we know the paste does the work",
     "To make the paper soft"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Plain water is the 'no paste' joint. Comparing with it shows what each paste adds. It is not a glue.",
    "outcome": 3,
    "how": "e2"
@@ -1514,10 +1526,10 @@
    "p": "A team's first Moon lander crashed. What is the best thing to do for the next one?",
    "opts": [
     "Make it look better",
-    "Study what went wrong, and make those parts stronger",
-    "Hope the Moon has changed"
+    "Hope the Moon has changed",
+    "Study what went wrong, and make those parts stronger"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A failure shows where a design is weak. India's Chandrayaan-2 lander crashed in 2019. ISRO gave Chandrayaan-3 stronger legs and more fuel, and it landed safely in 2023.",
    "outcome": 5
   },
@@ -1526,10 +1538,10 @@
    "p": "A scientist makes a cloudy, runny liquid. Everyone expects liquids like it to be useless. What should she do?",
    "opts": [
     "Throw it away",
-    "Test it anyway, for example by spinning it into a fibre",
-    "Mix it with water"
+    "Mix it with water",
+    "Test it anyway, for example by spinning it into a fibre"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A guess is not a test. Stephanie Kwolek insisted on testing a liquid like this, and found it made a very strong fibre, later called Kevlar.",
    "outcome": 6
   },
@@ -1537,11 +1549,11 @@
    "t": "mcq",
    "p": "You put out a bird water bowl. A crow lands on the edge and the bowl tips over. What is the best improvement?",
    "opts": [
-    "Fill it to the top",
     "Use a wider, heavier bowl, or put a stone in the middle",
+    "Fill it to the top",
     "Move it into the sun"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A wider, heavier bowl, or a weight in the middle, keeps it steady when a bird lands on the edge. More water might not stop the tipping, and sun would make the water hot.",
    "outcome": 5,
    "how": "p1"
@@ -1558,11 +1570,11 @@
      "t": "mcq",
      "p": "Which of these is a purpose, not a material?",
      "opts": [
-      "Steel",
       "Keeping rain off your head",
+      "Steel",
       "Cotton"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Keeping rain off is a job, so it is a purpose. Steel and cotton are materials.",
      "art": "An umbrella, a steel rod and a ball of cotton."
     },
@@ -1581,11 +1593,11 @@
      "t": "mcq",
      "p": "Your foil boat tipped and sank with all the coins on one side. What should you try next?",
      "opts": [
-      "Spread the coins evenly",
       "Use more coins",
-      "Use a bigger bucket"
+      "Use a bigger bucket",
+      "Spread the coins evenly"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The load was all on one side, so that side went under. Spreading the coins keeps the boat level.",
      "how": "a4"
     },
@@ -1594,10 +1606,10 @@
      "p": "Why do we pinch the corners of a foil boat tightly?",
      "opts": [
       "To make it shiny",
-      "So water cannot leak through gaps in the folds",
-      "To make it lighter"
+      "To make it lighter",
+      "So water cannot leak through gaps in the folds"
      ],
-     "a": 1,
+     "a": 2,
      "why": "A gap in a fold lets water in, so the boat fills and sinks. Pinching closes the gaps.",
      "how": "e1"
     },
@@ -1759,11 +1771,11 @@
      "t": "mcq",
      "p": "A foil boat carried 10 coins. With taller walls, it carried 18. Then the corners were pinched tighter too, and it carried 25. Which statement is true?",
      "opts": [
-      "Each change helped",
       "Only the tighter corners helped",
-      "Neither change helped"
+      "Neither change helped",
+      "Each change helped"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The coins went up after each single change: 10 to 18, then 18 to 25. Because only one thing changed each time, you can tell each change helped.",
      "how": "e1"
     },
@@ -1772,32 +1784,32 @@
      "p": "A big steel ship weighs thousands of tonnes but floats. Why?",
      "opts": [
       "Steel is lighter than water",
-      "Its wide, hollow body pushes aside a huge amount of water",
-      "Ships have engines that hold them up"
+      "Ships have engines that hold them up",
+      "Its wide, hollow body pushes aside a huge amount of water"
      ],
-     "a": 1,
+     "a": 2,
      "why": "A ship's hollow shape pushes aside enough water that the upward push equals its weight. Solid steel is heavier than the same amount of water, so a steel bar sinks."
     },
     {
      "t": "mcq",
      "p": "You are testing a new way to carry water pots on a bicycle. Why test with half-full pots first?",
      "opts": [
-      "Half-full pots look nicer",
       "So a failure would spill less water",
+      "Half-full pots look nicer",
       "Because full pots don't fit"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Testing with a smaller load first means a failure costs less. Engineers often test small or with less before the full test."
     },
     {
      "t": "mcq",
      "p": "In the paste test, a tape joint peeled slowly while the rice paste joint held and the paper tore. Which joint was stronger?",
      "opts": [
-      "Tape",
       "Rice paste",
+      "Tape",
       "You can't tell"
      ],
-     "a": 1,
+     "a": 0,
      "why": "If the paper tore before the rice paste joint gave way, the joint was stronger than the paper. The tape joint gave way first.",
      "how": "e2"
     },
@@ -1975,11 +1987,11 @@
      "t": "mcq",
      "p": "A boat made from a 15 centimetre square carried 30 coins. What would you predict for a boat of the same shape from a 30 centimetre square?",
      "opts": [
-      "About the same",
       "Many more coins",
+      "About the same",
       "Fewer coins"
      ],
-     "a": 1,
+     "a": 0,
      "why": "A bigger boat of the same shape has a much bigger base and taller walls, so it can push aside far more water. It should carry many more coins, more than twice as many."
     },
     {
@@ -1987,10 +1999,10 @@
      "p": "Why might a designer make a phone stand from card instead of steel?",
      "opts": [
       "Card is stronger",
-      "Card is cheap, light, easy to cut and strong enough for the job",
-      "Steel would bend"
+      "Steel would bend",
+      "Card is cheap, light, easy to cut and strong enough for the job"
      ],
-     "a": 1,
+     "a": 2,
      "why": "A material only needs to be strong enough. Card is cheap and easy to shape, and a phone is light."
     },
     {
@@ -2374,6 +2386,68 @@
     "e1",
     "a4"
    ]
+  },
+  {
+   "id": "b-iggy-peck-architect",
+   "item": "Iggy Peck, Architect by Andrea Beaty",
+   "kind": "book",
+   "why": "A boy who builds towers from anything he finds, and a class who build a bridge from whatever they have. It shows the child that building starts with an idea.",
+   "url": "https://www.amazon.in/s?k=Iggy+Peck+Architect",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Read it together before the building project."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Foil Boat: build it, test it, make it better, The Paste Test: which kitchen paste joins paper best?, The Phone Stand from One Card. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e2",
+    "c1"
+   ],
+   "plan": "Get it before The Foil Boat: build it, test it, make it better."
+  },
+  {
+   "id": "b-modelling-clay-or-plasticine",
+   "item": "Modelling clay or plasticine",
+   "kind": "material",
+   "why": "Used in A Water Bowl for Birds on the Balcony. About ₹40 to ₹120. Atta dough mixed with a little salt works.",
+   "url": "https://www.amazon.in/s?k=modelling+clay+plasticine",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before A Water Bowl for Birds on the Balcony."
+  },
+  {
+   "id": "b-iron-nails-or-iron-filings",
+   "item": "Iron nails or iron filings",
+   "kind": "material",
+   "why": "Used in Take Apart a Pen, Keep the Ants Out of the Sugar. About ₹20 to ₹80. Short steel nails from a hardware shop.",
+   "url": "https://www.amazon.in/s?k=iron+filings+science",
+   "used_in": [
+    "a2",
+    "c2"
+   ],
+   "plan": "Get it before Take Apart a Pen."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

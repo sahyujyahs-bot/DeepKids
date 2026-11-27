@@ -1,9 +1,9 @@
 # The Sun up close: layers, spots, storms and the wind that blows past the Earth
 `sci.sky.the-sun.L4`
 
-**Summary.** The Sun looks like a ball with a sharp edge, but it has no ground at all. So what is its edge? In this unit you will make a glowing fog to see where a ball of gas ends, boil a pot to see how the Sun churns, and sort clues into its layers.
+**Summary.** The Sun looks like a ball with a sharp edge, but it has no ground at all. So what is its edge? In this lesson you will make a glowing fog to see where a ball of gas ends, boil a pot to see how the Sun churns, and sort clues into its layers.
 
-**Intro.** *If you flew to the Sun in a spacecraft and tried to land, where would you put your feet? The Sun looks like a ball with a skin, but there is no ground to stand on. It is gas all the way to the centre. So what is the edge that we see in every picture?* The edge is real to our eyes, but it is not a wall. It is the place where the hot gas becomes clear enough for light to get out and reach us. Above that edge the Sun does not stop. Thin, hot gas goes on for millions of kilometres, and a wind from it blows past the Earth. In this unit you make your own glowing cloud to find out what an edge is, and you follow dark spots across the Sun to prove that it turns.
+**Intro.** *If you flew to the Sun in a spacecraft and tried to land, where would you put your feet? The Sun looks like a ball with a skin, but there is no ground to stand on. It is gas all the way to the centre. So what is the edge that we see in every picture?* The edge is real to our eyes, but it is not a wall. It is the place where the hot gas becomes clear enough for light to get out and reach us. Above that edge the Sun does not stop. Thin, hot gas goes on for millions of kilometres, and a wind from it blows past the Earth. In this lesson you make your own glowing cloud to find out what an edge is, and you follow dark spots across the Sun to prove that it turns.
 
 ## Learning outcomes
 0. I can name the Sun's layers in order, from the core to the corona, and say what happens in each one.
@@ -564,7 +564,7 @@ That night, when the mist came up again, Ilakkiya kept the orange on her windows
 1. (order) Put the Sun's layers in order, from the inside out.  
    **Answer:** ['Core', 'Radiative zone', 'Convection zone', 'Photosphere', 'Chromosphere', 'Corona']. *Why:* Energy is made in the core, then crosses the radiative zone and the boiling convection zone. The photosphere is the layer we call the surface, and above it lie the thin chromosphere and the huge corona.
 2. (mcq) What is the photosphere?  
-   Options: The layer where the Sun's gas becomes clear enough for light to escape / A solid crust over the Sun / The Sun's core / The Sun's wind  
+   Options: A solid crust over the Sun / The Sun's core / The Sun's wind / The layer where the Sun's gas becomes clear enough for light to escape  
    **Answer:** The layer where the Sun's gas becomes clear enough for light to escape. *Why:* The photosphere is the layer we see as the Sun's surface. It is not a crust. Below it the gas is too thick for light to get out. Picking 'a solid crust' is common, because we draw the Sun with a skin.
 3. (fill) The Sun's outer atmosphere, which is hotter than its surface, is called the ____.  
    **Answer:** ['corona']. *Why:* The corona is over a million degrees Celsius, much hotter than the 5,500 degrees of the photosphere below it.
@@ -573,12 +573,12 @@ That night, when the mist came up again, Ilakkiya kept the orange on her windows
 5. (write) A jar of water with a little milk in it is lit from below. Explain why the cloud seems to have a glowing edge, even though you could put your hand into it.  
    **Answer:** The milk scatters light, so you can only see a short way into the cloud. Light from deeper down does not reach your eyes. The edge you see is just how far you can see, and not a wall.. *Why:* A strong answer says that the edge is where we stop being able to see in. The Sun's surface works in the same way.
 6. (mcq) A sunspot looks dark. What is the best reason?  
-   Options: It is cooler than the gas around it / It is a hole in the Sun / It is a planet in front of the Sun / It has no light at all  
+   Options: It is a hole in the Sun / It is cooler than the gas around it / It is a planet in front of the Sun / It has no light at all  
    **Answer:** It is cooler than the gas around it. *Why:* A sunspot is about 4,000 degrees Celsius, cooler than the 5,500 degrees around it. Next to the brighter Sun it looks dark, but alone it would glow brightly. A hole or a planet would not behave like a spot.
 7. (match) Match each word to what it means.  
    **Answer:** Granule → a bubble of hot gas about 1,000 kilometres wide at the Sun's surface; Sunspot → a cooler patch held by a strong magnetic field; Solar wind → a stream of charged pieces flowing out from the corona; Aurora → glowing light near the poles when charged pieces hit the Earth's air; Convection → hot material rising and cooler material sinking in a loop. *Why:* These words are the main ideas of the unit. A strong answer could give an example of each.
 8. (mcq) A sunspot crosses the Sun and vanishes at the western edge. About when might it come back?  
-   Options: About two weeks later at the eastern edge / The next morning at the same edge / Never, because it was destroyed / Exactly one year later  
+   Options: The next morning at the same edge / Never, because it was destroyed / Exactly one year later / About two weeks later at the eastern edge  
    **Answer:** About two weeks later at the eastern edge. *Why:* The Sun turns once in about 27 days as seen from the Earth. The spot is hidden for about half of that. If it is still alive, it comes back at the eastern edge.
 9. (draw) Draw the Sun three times. In the first, show a spot just arriving at one edge. In the second, show it in the middle. In the third, show it leaving at the other edge. Draw how its shape changes.  
    **Answer:** Three circles with a spot. At the edge the spot is thin and squashed. In the middle it is round. At the other edge it is thin again.. *Why:* A strong drawing shows the squashed edge shape. It tells us that the Sun is a ball and the spot is on its surface.
@@ -599,39 +599,39 @@ That night, when the mist came up again, Ilakkiya kept the orange on her windows
 16. (truefalse) The dark lines in sunlight's rainbow tell us which atoms are in the Sun.  
    **Answer:** True. *Why:* True. Each kind of atom takes out its own pattern of colours. The same patterns are made by those atoms in laboratories on Earth.
 17. (mcq) The Sun's wind blows past the Earth. What does this tell us?  
-   Options: The Earth is inside the Sun's outer atmosphere / The Earth is part of the Sun's core / Space is full of air like on Earth / The wind is too weak to matter  
+   Options: The Earth is part of the Sun's core / Space is full of air like on Earth / The Earth is inside the Sun's outer atmosphere / The wind is too weak to matter  
    **Answer:** The Earth is inside the Sun's outer atmosphere. *Why:* The solar wind fills the solar system, so the Earth sits inside the Sun's thin outer gas. It does not mean space has air like ours. The wind is very thin.
 ### Spins, Storms and Light (stretch) (stretch, 16 questions)
 1. (mcq) A sunspot near the Sun's middle goes round in about 25 days, and a spot near the pole takes about 35 days. What does this tell us?  
-   Options: The Sun is a ball of gas, not a solid ball / The Sun has a crack in it / The poles are heavier / The Earth slows the Sun  
+   Options: The Sun has a crack in it / The poles are heavier / The Sun is a ball of gas, not a solid ball / The Earth slows the Sun  
    **Answer:** The Sun is a ball of gas, not a solid ball. *Why:* A solid ball turns all in one piece, so every spot would take the same time. Different times in different places mean the Sun is gas, which can turn at different speeds.
 2. (write) Use the idea of a spinning orange to explain why a sunspot looks thin and squashed near the Sun's edge.  
    **Answer:** The Sun is a ball, so near the edge the surface curves away from us. We see the spot at a slant, so it looks thin and seems to move slowly, even though it moves at a steady speed.. *Why:* A strong answer says the Sun is a ball and the spot is seen from the side at the edge. It also says the spot has not shrunk.
 3. (fill) Heinrich Schwabe, a pharmacist, drew the Sun for many years and found that the number of sunspots rises and falls in a cycle of about ____ years.  
    **Answer:** ['11', 'eleven', '10', 'ten']. *Why:* The average cycle is about 11 years, though a cycle can be shorter or longer. Schwabe first saw it as about ten years.
 4. (mcq) A flare and a cloud of plasma leave the Sun at the same time. Which arrives first, and about when?  
-   Options: The flash of light, in about 8 minutes / The cloud, in 8 minutes / Both together, in a day / The cloud, in 8 seconds  
+   Options: The cloud, in 8 minutes / Both together, in a day / The cloud, in 8 seconds / The flash of light, in about 8 minutes  
    **Answer:** The flash of light, in about 8 minutes. *Why:* Light travels at the greatest speed there is. A cloud of plasma is made of material, so it is much slower and takes one to three days.
 5. (order) Put these in order, from the one that takes the least time to reach the Earth to the one that takes the most.  
    **Answer:** ['light from a flare', 'the first particles of a flare', 'a cloud of plasma from a big eruption', 'wind that leaves the Sun at an ordinary speed']. *Why:* Light takes about 8 minutes. Some fast particles arrive in an hour or so. A fast eruption cloud takes a day or two. The ordinary wind takes about four days. A strong answer uses the word 'speed'.
 6. (label) Label the picture of the Earth in the Sun's wind: the Sun, the wind, the Earth's magnetic field and the aurora.  
    **Answer:** The Sun on one side, arrows of wind coming towards the Earth, the field bending the wind round the Earth, and glowing light at the poles.. *Why:* The field steers the wind round the Earth and down towards the poles. A strong label puts the aurora at the poles.
 7. (mcq) Why does an aurora appear near the poles and not at the equator?  
-   Options: The Earth's magnetic field steers the charged pieces towards the poles / The poles are closer to the Sun / The equator is too hot / The poles have more air  
+   Options: The poles are closer to the Sun / The equator is too hot / The Earth's magnetic field steers the charged pieces towards the poles / The poles have more air  
    **Answer:** The Earth's magnetic field steers the charged pieces towards the poles. *Why:* The magnetic field lines of the Earth go into the ground near the poles, and charged pieces follow them down. In a very strong storm the aurora can reach farther from the poles.
 8. (truefalse) Solar storms are the main reason it rains more in some years.  
    **Answer:** False. *Why:* False. Space storms affect satellites, radio and power lines. The Sun's total light changes very little over the cycle, too little to explain big changes in rain.
 9. (sort) Sort each thing into 'can be harmed by a strong space storm' or 'not affected much'.  
    **Answer:** a satellite in orbit → Can be harmed; a long power line → Can be harmed; a GPS guide on a phone → Can be harmed; a kitchen stove → Not affected much; a wooden table → Not affected much. *Why:* Storms disturb electronics, radio and long metal lines. Ordinary things with no electronics or long wires are hardly affected. A strong answer talks about electric current and radio signals.
 10. (mcq) A coil heater glows dull red, then orange as it gets hotter. What does a blue-white star tell you?  
-   Options: It is hotter than a red star / It is colder than a red star / It is the same as a red star / It is not a star  
+   Options: It is colder than a red star / It is the same as a red star / It is hotter than a red star / It is not a star  
    **Answer:** It is hotter than a red star. *Why:* Hotter things glow bluer and whiter, and cooler things glow redder. A star's colour is a clue to its temperature.
 11. (write) Fraunhofer saw hundreds of dark lines in sunlight's rainbow, and Kirchhoff and Bunsen showed that sodium makes a pair of lines in the same place. What did this tell them about the Sun?  
    **Answer:** The dark lines come from atoms in the Sun's outer layers taking out their own colours. Sodium makes a pair of lines, so sodium atoms are in the Sun.. *Why:* A strong answer says each atom has its own pattern and the match means that atom is present.
 12. (perspective) Two friends are talking about the corona being hotter than the Sun's surface.  
    **Answer:** A strong answer admits that scientists do not yet know. It names a test, such as measuring waves in the corona, or counting tiny flares with spacecraft. It gives both friends their due, since both processes may share the work.. *Why:* This tests how scientists treat an open puzzle: they list ideas and plan measurements.
 13. (mcq) Why does the corona have less heat than the surface even though its temperature is higher?  
-   Options: It is very thin, so there is little material in it to hold heat / Its temperature is mistaken / It is closer to the core / It is colder than the surface  
+   Options: Its temperature is mistaken / It is very thin, so there is little material in it to hold heat / It is closer to the core / It is colder than the surface  
    **Answer:** It is very thin, so there is little material in it to hold heat. *Why:* Temperature is how fast the particles move. Heat also depends on how many particles there are. The corona has very few, so it holds little heat, like a hot spark.
 14. (draw) Draw the Sun with its wind. Show three arrows of wind going out, and draw the Earth with a bubble of the Sun's wind round it.  
    **Answer:** A circle for the Sun, arrows going out in all directions, and the Earth inside a large bubble of wind.. *Why:* A strong drawing puts the Earth inside the wind and not outside it.
@@ -650,7 +650,7 @@ That night, when the mist came up again, Ilakkiya kept the orange on her windows
 3. (mcq) A comet is leaving the Sun, and its tail still points away from the Sun. What does this show?  
    Options: The tail is pushed by the Sun's wind and light, not left behind by the comet's movement / The tail is made of fire / The comet is going backwards / Gravity pulls the tail  
    **Answer:** The tail is pushed by the Sun's wind and light, not left behind by the comet's movement. *Why:* If the tail were only left behind, it would point back along the comet's path. A tail pointing away from the Sun, even when the comet is leaving it, shows that something from the Sun pushes it.
-4. (write) A friend says, 'The Sun's edge is a wall, and space starts there.' Use two facts from this unit to answer them.  
+4. (write) A friend says, 'The Sun's edge is a wall, and space starts there.' Use two facts from this lesson to answer them.  
    **Answer:** The Sun is gas, so there is no wall. The edge is the layer where light can escape. The corona and the wind continue beyond it and blow past the Earth, so space near us still has the Sun's gas in it.. *Why:* A strong answer uses the idea of the photosphere and the wind to show that the Sun does not stop at the edge.
 5. (perspective) A class is deciding how to watch the Sun's spots.  
    **Answer:** A strong answer picks one and gives a reason. It gives credit to the other: spacecraft pictures are clear and safe, while a home projection shows the real Sun today and teaches how people first saw spots. Neither involves looking at the Sun directly.. *Why:* There is a real trade-off between quality and learning by doing. Both are safe.
@@ -661,14 +661,14 @@ That night, when the mist came up again, Ilakkiya kept the orange on her windows
 8. (write) An astronomer sees a dark gap in a star's rainbow, where one colour is missing. What could have caused it?  
    **Answer:** Atoms in the star's outer layers took in light of that colour. Each kind of atom takes out its own colours, so the gap is a clue to which atom is there.. *Why:* A strong answer names atoms taking in light and links the missing colour to a kind of atom.
 9. (mcq) The corona is hotter than the Sun's surface. One idea is that countless tiny flares, called nanoflares, heat it. Which would be the best way to test this idea?  
-   Options: Count tiny bright flashes in the corona with a spacecraft / Look at the Moon / Measure the Earth's tilt / Count the stars  
+   Options: Look at the Moon / Measure the Earth's tilt / Count the stars / Count tiny bright flashes in the corona with a spacecraft  
    **Answer:** Count tiny bright flashes in the corona with a spacecraft. *Why:* If many tiny flares heat the corona, then we should see many small flashes. A spacecraft that can see the corona closely can count them. Looking at the Moon or the stars tells us nothing about it.
 10. (truefalse) If the Sun's magnetic field vanished tomorrow, there would be no sunspots.  
    **Answer:** True. *Why:* True. Sunspots are patches where strong magnetic fields slow the boiling gas and keep it cooler. Without the field, there would be nothing to make them.
 11. (label) Label the sunspot cycle graph: a peak, a valley and the time between two peaks.  
    **Answer:** A high point labelled maximum, a low point labelled minimum, and about 11 years between two peaks.. *Why:* The cycle swings between busy and quiet. A strong label gives about 11 years.
 12. (mcq) Aditya-L1 sits near a point called L1, about 1.5 million kilometres from the Earth. Why is that a good place to watch the Sun?  
-   Options: The Earth never blocks its view of the Sun / It is the hottest place / It is close to the Moon / It is inside the Sun  
+   Options: It is the hottest place / It is close to the Moon / It is inside the Sun / The Earth never blocks its view of the Sun  
    **Answer:** The Earth never blocks its view of the Sun. *Why:* From a spot between the Earth and the Sun, the Earth never gets in the way, so the Sun can be watched all the time.
 13. (write) Why might a space storm bring both beautiful aurora and trouble for a power company?  
    **Answer:** Both come from the same cause: charged pieces and changing magnetic fields arrive at the Earth. The glow is light made high in the air. The changing field can push extra current along long power lines.. *Why:* A strong answer says one cause, the storm, has both a beautiful and a harmful result.
@@ -690,37 +690,37 @@ That night, when the mist came up again, Ilakkiya kept the orange on her windows
    Options: The layer where the Sun's gas becomes clear enough for light to escape / A solid crust / The core / The solar wind  
    **Answer:** The layer where the Sun's gas becomes clear enough for light to escape. *Why:* The photosphere is the layer we see as the Sun's surface. Below it, the gas is too thick for light to escape. Picking a solid crust is the most common mistake.
 2. (mcq) Which is the correct order of layers, from the core outwards?  
-   Options: Core, radiative zone, convection zone, photosphere, chromosphere, corona / Core, corona, photosphere, convection zone / Photosphere, core, corona / Corona, core, photosphere  
+   Options: Core, corona, photosphere, convection zone / Photosphere, core, corona / Core, radiative zone, convection zone, photosphere, chromosphere, corona / Corona, core, photosphere  
    **Answer:** Core, radiative zone, convection zone, photosphere, chromosphere, corona. *Why:* Energy is made in the core and moves outwards through the layers. The corona is the outermost.
 3. (mcq) Why does a sunspot look dark?  
-   Options: It is cooler than the gas around it / It has no light / It is a planet / It is a hole  
+   Options: It has no light / It is cooler than the gas around it / It is a planet / It is a hole  
    **Answer:** It is cooler than the gas around it. *Why:* A sunspot is still hot, about 4,000 degrees Celsius, but it is cooler than the 5,500 degrees round it, so it looks dark by comparison.
 4. (mcq) A sunspot disappears at one edge of the Sun. What is the best explanation?  
-   Options: The Sun turns, so the spot has gone round the back / The spot melted / The Sun moved / The Moon covered it  
+   Options: The spot melted / The Sun moved / The Sun turns, so the spot has gone round the back / The Moon covered it  
    **Answer:** The Sun turns, so the spot has gone round the back. *Why:* The Sun turns like a ball. A spot that crosses to the edge is carried round the far side and can return about two weeks later.
 5. (mcq) A spot near the Sun's pole takes longer to go round than a spot near the middle. What does that show?  
-   Options: The Sun is gas and turns at different speeds / The poles are cold / The Sun is solid / The poles are heavy  
+   Options: The poles are cold / The Sun is solid / The Sun is gas and turns at different speeds / The poles are heavy  
    **Answer:** The Sun is gas and turns at different speeds. *Why:* A solid ball turns in one piece. The Sun does not, so it must be gas.
 6. (mcq) What is the solar wind?  
-   Options: A steady stream of charged pieces flowing out from the Sun's corona / Air blowing from the Sun / A cloud of dust / The Sun's light  
+   Options: Air blowing from the Sun / A cloud of dust / A steady stream of charged pieces flowing out from the Sun's corona / The Sun's light  
    **Answer:** A steady stream of charged pieces flowing out from the Sun's corona. *Why:* The solar wind is made of charged pieces, not air. It flows out in all directions and passes the Earth at about 400 kilometres in every second.
 7. (mcq) What does it mean that the Earth is inside the Sun's atmosphere?  
-   Options: The Sun's thin outer gas and wind reach past the Earth / The Earth is hot / The Earth is part of the Sun / The Earth has no air  
+   Options: The Earth is hot / The Earth is part of the Sun / The Sun's thin outer gas and wind reach past the Earth / The Earth has no air  
    **Answer:** The Sun's thin outer gas and wind reach past the Earth. *Why:* The Sun's wind fills the space round all the planets. We are inside it, just as a fish is inside a lake.
 8. (mcq) Why does an aurora glow near the poles?  
-   Options: The Earth's magnetic field steers charged pieces towards the poles / The poles are warmer / The Moon makes it / The air is thickest there  
+   Options: The poles are warmer / The Moon makes it / The Earth's magnetic field steers charged pieces towards the poles / The air is thickest there  
    **Answer:** The Earth's magnetic field steers charged pieces towards the poles. *Why:* Charged pieces follow the magnetic field lines down at the poles and make the gases glow.
 9. (mcq) How long does a flare's flash take to reach the Earth?  
-   Options: About 8 minutes / About 4 days / About 4 hours / It never reaches  
+   Options: About 4 days / About 4 hours / About 8 minutes / It never reaches  
    **Answer:** About 8 minutes. *Why:* A flash of light moves at the speed of light and takes about 8 minutes. The slower cloud takes a day or more.
 10. (mcq) Why is Aditya-L1 placed near a point called L1?  
-   Options: From there, the Earth never blocks its view of the Sun / It is the closest place to the Sun / It is safe from all storms / It is where the Moon is  
+   Options: It is the closest place to the Sun / It is safe from all storms / It is where the Moon is / From there, the Earth never blocks its view of the Sun  
    **Answer:** From there, the Earth never blocks its view of the Sun. *Why:* L1 is on the Sun's side of the Earth, about 1.5 million kilometres away, so the Sun can be watched without a break.
 11. (mcq) What do the dark lines in the Sun's rainbow tell us?  
-   Options: Which kinds of atom are in the Sun / How far the Sun is / How old the Sun is / The Sun's mass  
+   Options: How far the Sun is / How old the Sun is / The Sun's mass / Which kinds of atom are in the Sun  
    **Answer:** Which kinds of atom are in the Sun. *Why:* Each kind of atom takes out its own pattern of colours. The lines match the patterns made by those atoms in laboratories.
 12. (mcq) Comet tails always point away from the Sun. What did this help scientists to guess?  
-   Options: Something flows out from the Sun and pushes the tails / The comet is burning / The comet is going backwards / The tail is made of rock  
+   Options: The comet is burning / The comet is going backwards / The tail is made of rock / Something flows out from the Sun and pushes the tails  
    **Answer:** Something flows out from the Sun and pushes the tails. *Why:* Ludwig Biermann used this clue in 1951 to say that a stream must flow out from the Sun. Parker explained the stream in 1958 and Mariner 2 measured it in 1962.
 
 ## Applications
@@ -736,12 +736,12 @@ That night, when the mist came up again, Ilakkiya kept the orange on her windows
 - Learning from the Sun how to make fusion power on Earth, where the plasma must be held by magnetic fields.
 
 ## Spotted around us
-- The thin pink-red rim and silvery glow round the black Moon in pictures of a total solar eclipse, such as the one seen in India on 22 July 2009.
-- Solar panels on apartment roofs, always tilted towards the south in India.
+- The thin pink-red rim and silvery glow round the black Moon in pictures of a total solar eclipse.
+- Solar panels on apartment roofs, tilted towards the south.
 - A compass needle that settles and points north, steered by the Earth's magnetic field.
 - The boiling in a pot of sambar or dal, with bubbles rising in the middle and sinking at the edges.
 - Bright dots of sunlight on the ground under a tree. Each dot is a tiny round picture of the Sun, which is why the dots turn into crescents during an eclipse.
-- Kodaikanal Solar Observatory, which has been recording the Sun since 1899.
+- A solar observatory that has been recording the Sun since 1899, in a picture.
 - The glow round a street lamp on a foggy winter morning, which seems to have an edge but fades into the mist.
 - A spectrum of colours spread across the back of a CD in the light of a lamp.
 
@@ -795,11 +795,16 @@ Star, Planet, Moon (sci.sky.L4): Topic-level song
 - [NASA Space Place: Sun](https://spaceplace.nasa.gov/) · interactive: Short, clear pages and games for children about the Sun and space weather.
 - [Aditya-L1, ISRO](https://www.isro.gov.in/) · interactive: India's spacecraft that studies the Sun from near the point called L1. Search for Aditya-L1 on the page.
 - [Kodaikanal Solar Observatory](https://www.iiap.res.in/) · place · Kodaikanal, Tamil Nadu: An observatory that has been recording the Sun since 1899. Check visiting rules on the Indian Institute of Astrophysics website before you go.
-- [Jawaharlal Nehru Planetarium]() · place · Bengaluru, Karnataka: A planetarium with shows about the Sun and the sky. Check show times before you go.
+- Jawaharlal Nehru Planetarium · place · Bengaluru, Karnataka: A planetarium with shows about the Sun and the sky. Check show times before you go.
 
 ## Things to buy
 - [A pack of blank CDs or DVDs](https://www.amazon.in/s?k=blank+cd+pack) (material): For splitting light into colours in the Sun's Barcode. An old CD that nobody needs works just as well. Used in e3. 
 - [A protractor and a straight pencil](https://www.amazon.in/s?k=protractor+set) (tool): For measuring the tilt in the Sun-Facing Stand. A stationery shop sells them for a few rupees. Used in c1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Glowing Fog: where does a ball of gas end?, A Stream Past a Stone: how a wind flows round the Earth, The Sunspot Diary: how long does the Sun take to turn?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a3, p1. Get it before Glowing Fog: where does a ball of gas end?.
+- [Small torch bulbs or LEDs with a holder](https://www.amazon.in/s?k=torch+bulb+holder+set) (tool): Used in The Sun's Barcode: split light into colours with a CD. About ₹10 to ₹50. A small torch can be taken apart for its bulb. Used in e3. Get it before The Sun's Barcode: split light into colours with a CD.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Spin the Orange: how a spot proves the Sun turns, A Stream Past a Stone: how a wind flows round the Earth, The Sun-Facing Stand: find the tilt for solar panels in your city. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in a2, a3, c1. Get it before Spin the Orange: how a spot proves the Sun turns.
+- [Food colour](https://www.amazon.in/s?k=food+colour+liquid) (material): Used in The Boiling Pot: how the Sun's surface churns. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it. Used in e2. Get it before The Boiling Pot: how the Sun's surface churns.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Does the Sun have solid ground? → No. It is gas from the outside to the centre.
@@ -820,7 +825,7 @@ Star, Planet, Moon (sci.sky.L4): Topic-level song
 ## Sources
 - ideas/by_topic/the-universe-sun-moon-stars-and-planets.md: SCI Cards for Maria Mitchell (daily sunspot photographs) and Ruby Payne-Scott (radio bursts from the Sun), and the activity of tracking the Sun's behaviour, used in the sunspot diary and the Sunspot story
 - ideas/by_topic/the-universe-sun-moon-stars-and-planets.md: concept row on light bending and splitting into colours (prism, rainbows), used in the Sun's Barcode
-- The Class 3 unit on the Sun, built on and not repeated: no magnifying glass, ice test, mirror Sun, sun print, sun cooker or eclipse party here. This unit adds the layers, spots, spin, wind and aurora
+- The Class 3 unit on the Sun, built on and not repeated: no magnifying glass, ice test, mirror Sun, sun print, sun cooker or eclipse party here. This lesson adds the layers, spots, spin, wind and aurora
 - Galileo Galilei, Istoria e dimostrazioni intorno alle macchie solari (Letters on Sunspots), 1613; Christoph Scheiner, Tres epistolae de maculis solaribus, 1612
 - Heinrich Schwabe, Astronomische Nachrichten, 1843 (the sunspot cycle); Annie Maunder and Walter Maunder, the butterfly diagram of sunspot latitudes, 1904 (Wikipedia, Annie Maunder; Annie was not named on the paper, which her husband published)
 - Joseph von Fraunhofer, dark lines in the Sun's spectrum, 1814; Kirchhoff and Bunsen, 1859 to 1860 (sodium lines in the Sun)

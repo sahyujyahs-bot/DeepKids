@@ -1,9 +1,9 @@
 # Living light: how a glow is made, how it is read, and why eyes need the dark
 `sci.light.living-light.L4`
 
-**Summary.** How does a firefly make light with no heat and no flame? In this unit you will watch your pupils change, test how much you can see in the dark after waiting, use raw and boiled potato to see how heat stops a helper chemical, and play a game of fireflies flashing together.
+**Summary.** How does a firefly make light with no heat and no flame? In this lesson you will watch your pupils change, test how much you can see in the dark after waiting, use raw and boiled potato to see how heat stops a helper chemical, and play a game of fireflies flashing together.
 
-**Intro.** *Walk out of bright sunshine into a dark cupboard. For a minute you see nothing at all. Stay there, and shapes begin to appear. Nothing in the cupboard has changed. What has?* Your eyes have been changing, step by step, so that they can catch very faint light. A firefly's flash is faint light too, made by chemistry inside their body. In this unit you find out what a flash needs, why a helper chemical stops working in hot water, and how a squid and a crowd of bacteria make one lamp together. You also test how much your own eyes can see in the dark, and play a game in which fireflies with different beats learn to flash as one.
+**Intro.** *Walk out of bright sunshine into a dark cupboard. For a minute you see nothing at all. Stay there, and shapes begin to appear. Nothing in the cupboard has changed. What has?* Your eyes have been changing, step by step, so that they can catch very faint light. A firefly's flash is faint light too, made by chemistry inside their body. In this lesson you find out what a flash needs, why a helper chemical stops working in hot water, and how a squid and a crowd of bacteria make one lamp together. You also test how much your own eyes can see in the dark, and play a game in which fireflies with different beats learn to flash as one.
 
 ## Learning outcomes
 0. I can name the four things a firefly's flash needs, luciferin, luciferase, oxygen and ATP, and say what each one does.
@@ -669,7 +669,7 @@ In the morning, the rocks were plain and black, and the sea was only grey. Mythi
 ## Worksheets
 ### Glow Detective (core) (core, 16 questions)
 1. (mcq) Which list shows the four things a firefly's flash needs?  
-   Options: Luciferin, luciferase, oxygen and ATP / Luciferin, sunlight, water and sugar / Luciferase, heat, oxygen and salt  
+   Options: Luciferin, sunlight, water and sugar / Luciferin, luciferase, oxygen and ATP / Luciferase, heat, oxygen and salt  
    **Answer:** Luciferin, luciferase, oxygen and ATP. *Why:* Luciferin gives out the light, luciferase is the helper, oxygen joins the reaction, and ATP carries the energy. Picking 'sunlight' mixes a firefly up with a glow-in-the-dark star, which stores light. A firefly makes new light and needs no heat or salt.
 2. (fill) The helper chemical that makes luciferin react quickly is called ____.  
    **Answer:** ['luciferase']. *Why:* Luciferase is an enzyme, a helper chemical. It makes the reaction go fast but is not used up.
@@ -678,7 +678,7 @@ In the morning, the rocks were plain and black, and the sea was only grey. Mythi
 4. (truefalse) An enzyme is used up each time it helps with a reaction.  
    **Answer:** False. *Why:* False. An enzyme is not used up. It can do the same job again and again, often thousands of times in a second.
 5. (mcq) Raw potato fizzes in hydrogen peroxide, but boiled potato does not. What did boiling do to the enzyme?  
-   Options: It bent the enzyme out of shape, so it could not help any more / It made more enzyme / It made the potato lighter  
+   Options: It made more enzyme / It bent the enzyme out of shape, so it could not help any more / It made the potato lighter  
    **Answer:** It bent the enzyme out of shape, so it could not help any more. *Why:* An enzyme works by its shape. Heat bends the shape out, and then the enzyme cannot grip anything. Picking 'made more enzyme' goes the wrong way. Boiling takes helpers away, it does not add them.
 6. (write) In the Helper That Heat Stops test, glass D held hydrogen peroxide but no potato. Why was it included, and what did it show?  
    **Answer:** Glass D was the control. It showed what the peroxide does alone. It did not foam, so the foam in the other glasses came from the potato.. *Why:* A strong answer says that a control shows what happens without the thing you are testing, so the other results can be trusted.
@@ -687,7 +687,7 @@ In the morning, the rocks were plain and black, and the sea was only grey. Mythi
 8. (order) Put the steps of seeing a faint flash in order.  
    **Answer:** [0, 1, 2, 3, 4]. *Why:* A reaction in the firefly makes light. The light travels to your eye. In the rod cell it changes rhodopsin, which starts a chain that ends in a nerve signal. Your brain makes the picture. Making light and seeing it are two ends of a chemical chain.
 9. (mcq) Why do colours become hard to name in very dim light?  
-   Options: Rod cells take over in dim light, and they cannot tell colours / Colours only exist in the daytime / The pupil closes up and stops light  
+   Options: Colours only exist in the daytime / The pupil closes up and stops light / Rod cells take over in dim light, and they cannot tell colours  
    **Answer:** Rod cells take over in dim light, and they cannot tell colours. *Why:* In dim light, cone cells cannot catch enough light, and rod cells do the seeing. Rod cells cannot tell colours apart. Picking 'colours only exist in the daytime' mixes up the thing you are looking at with your eye. The thing does not change. Your eye does.
 10. (draw) Here are made-up numbers from an Eyes in the Dark test. They show how many sheets of paper the glow was seen through: 3 sheets at 1 minute, 5 sheets at 5 minutes, 7 sheets at 10 minutes and 9 sheets at 20 minutes. Draw a line graph of these numbers. Say what the line shows.  
    **Answer:** A line that rises from 3 sheets at 1 minute to 9 sheets at 20 minutes, rising quickly at first and then more slowly. It shows that the longer the eyes are in the dark, the fainter a light they can see.. *Why:* A strong drawing has minutes along the bottom, sheets up the side, four points joined by a line, and a sentence saying the line goes up because the eyes became ready for dim light.
@@ -706,10 +706,10 @@ In the morning, the rocks were plain and black, and the sea was only grey. Mythi
    **Answer:** False. *Why:* False. In the Flash Together game, no one led. Each firefly followed one rule about the flashes they saw, and the group lined up. Real fireflies seem to work in a similar way.
 ### How Living Light Works (stretch) (stretch, 16 questions)
 1. (mcq) What does ATP do in a firefly's lantern?  
-   Options: It carries the energy that gets the luciferin ready to react / It is the light itself / It takes the place of oxygen  
+   Options: It is the light itself / It carries the energy that gets the luciferin ready to react / It takes the place of oxygen  
    **Answer:** It carries the energy that gets the luciferin ready to react. *Why:* ATP is the small packet of energy that cells spend. In the lantern it gets the luciferin ready, and then oxygen turns it into light. Picking 'the light itself' mixes up the energy that is spent with the light that comes out.
 2. (mcq) In 1947, a firefly lantern extract that had stopped glowing glowed again. What had William McElroy added?  
-   Options: ATP / Sugar / Cold water  
+   Options: Sugar / ATP / Cold water  
    **Answer:** ATP. *Why:* ATP brought the glow back. This showed that a flash needs a payment of cell energy as well as luciferin, luciferase and oxygen.
 3. (write) Someone says, 'Living light is perfectly efficient, so no energy is wasted.' Give one reason why this is not quite true.  
    **Answer:** Even if most reacting molecules give out light, the firefly still has to spend food energy to make ATP and luciferin. Some energy also leaves as heat. No living thing shines for free.. *Why:* A strong answer separates the moment of light from the whole animal, who has to pay for the light.
@@ -724,7 +724,7 @@ In the morning, the rocks were plain and black, and the sea was only grey. Mythi
 8. (order) Put these steps in order to show how a crowd of glowing bacteria lights up.  
    **Answer:** [0, 1, 2, 3, 4]. *Why:* Every bacterium makes some signal, and in a small crowded space it builds up. Past a level, the light genes switch on in all of them together.
 9. (mcq) In an Eyes in the Dark test, a child saw a hidden glow stick through 3 sheets of paper at 1 minute and through 8 sheets at 20 minutes. The glow stick and the sheets did not change. What is the best conclusion?  
-   Options: The child's eyes became able to catch fainter light / The glow stick got much brighter / The sheets got thinner  
+   Options: The glow stick got much brighter / The child's eyes became able to catch fainter light / The sheets got thinner  
    **Answer:** The child's eyes became able to catch fainter light. *Why:* If the stick and the sheets stayed the same, the part that changed must be the eye. The rod cells rebuilt their rhodopsin in the dark. Picking 'the stick got brighter' goes against what we know, because a glow stick slowly fades.
 10. (write) A cold raw potato cube still fizzed in peroxide, though more slowly, but a boiled cube did not fizz at all. Explain the difference between what cold does and what boiling does to an enzyme.  
    **Answer:** Cold slows an enzyme down, but does not change its shape, so when it warms up it can work again. Boiling bends the enzyme out of shape for good, so it cannot grip anything any more.. *Why:* A strong answer says that cold only slows the enzyme and heat changes its shape.
@@ -740,16 +740,16 @@ In the morning, the rocks were plain and black, and the sea was only grey. Mythi
 15. (fill) Gonyaulax, a glowing sea plankton, glows more at night even in constant dim light. This shows that they have an inner ____.  
    **Answer:** ['clock']. *Why:* The glow rose and fell in a cycle of about a day, though nothing outside changed. So the cycle comes from an inner clock.
 16. (mcq) A shopkeeper's UV machine makes a banknote's thread glow. The glow stops the moment the machine is switched off. What kind of glow is it?  
-   Options: Fluorescence / Phosphorescence / Bioluminescence  
+   Options: Phosphorescence / Bioluminescence / Fluorescence  
    **Answer:** Fluorescence. *Why:* A glow that stops at once when the light goes off is fluorescence. A stored glow would fade slowly. Bioluminescence is made by living beings, and a banknote is not alive.
 ### Numbers and Nature (challenge) (challenge, 16 questions)
 1. (write) Two children do the Eyes in the Dark test. Child A saw the glow through 4 sheets at 1 minute, 6 at 5 minutes, 8 at 10 minutes and 9 at 20 minutes. Child B saw it through 4, 4, 5 and 5. Give two reasons why B's numbers may have risen less.  
    **Answer:** B's room may not have been fully dark, so some light kept B's eyes from becoming ready. B may have looked at a phone or a bright light during the wait. B may also have been looking at the stack the whole time instead of waiting calmly.. *Why:* A strong answer gives two different reasons, such as stray light in the room or a peek at a screen, and says how to check, for example by repeating the test in a darker room.
 2. (mcq) A glow stick behind 10 sheets of paper cannot be seen at first. A friend says there is no light there. What is the best reply?  
-   Options: There is light, but your eyes are not ready yet to see something so faint / You are right, because you cannot see it / The light only starts after 20 minutes  
+   Options: You are right, because you cannot see it / There is light, but your eyes are not ready yet to see something so faint / The light only starts after 20 minutes  
    **Answer:** There is light, but your eyes are not ready yet to see something so faint. *Why:* The glow stick gives out light all the time. After about twenty minutes in the dark, the eyes can catch it. 'You cannot see it' is different from 'it is not there'.
 3. (mcq) In the Helper That Heat Stops test, a boiled potato cube still fizzed a little in the hydrogen peroxide. What is the most likely reason?  
-   Options: The middle of the cube did not get hot enough to bend all the enzyme / Boiling makes more enzyme / The peroxide was too strong  
+   Options: Boiling makes more enzyme / The peroxide was too strong / The middle of the cube did not get hot enough to bend all the enzyme  
    **Answer:** The middle of the cube did not get hot enough to bend all the enzyme. *Why:* Heat reaches the middle of a cube slowly. If it was not boiled long enough, some enzyme in the middle still works. Boiling longer or cutting smaller cubes would fix it.
 4. (truefalse) If an enzyme is cooled in ice water, it is destroyed.  
    **Answer:** False. *Why:* False. Cold only slows an enzyme down. When it warms up, it can work again. Heat is what bends it out of shape.
@@ -758,7 +758,7 @@ In the morning, the rocks were plain and black, and the sea was only grey. Mythi
 6. (match) Match each observation to what it shows about the eye.  
    **Answer:** A red torch hardly spoils eyes that are used to the dark → rod cells are not very sensitive to red; A faint star vanishes when you stare straight at it → the very centre of the retina has few rod cells; It takes twenty minutes to see well in the dark → rhodopsin has to be built back; Pupils get wider in the dark → more light can enter the eye. *Why:* Each observation links to a part of the eye. Rods, cones, rhodopsin and the pupil each play their own role in seeing in dim light.
 7. (mcq) Look at the chart of foam heights. Which two glasses, compared with each other, show that heat stops the enzyme?  
-   Options: A, with raw potato, and B, with boiled potato / B, with boiled potato, and D, with no potato / C, with cold potato, and D, with no potato  
+   Options: B, with boiled potato, and D, with no potato / C, with cold potato, and D, with no potato / A, with raw potato, and B, with boiled potato  
    **Answer:** A, with raw potato, and B, with boiled potato. *Why:* A and B hold the same potato, one raw and one heated. They differ in only one way, the heat, and the foam is very different. Glass D shows what the peroxide does with no potato at all.
 8. (mcq) A group of 100 glowing bacteria doubles in number every hour. How many are there after 3 hours?  
    Options: 800 / 300 / 600  
@@ -776,7 +776,7 @@ In the morning, the rocks were plain and black, and the sea was only grey. Mythi
 14. (draw) Draw a squid seen from below, with a light organ that has a lens and a shutter. Show moonlight coming down from above and show how the squid's shadow is cancelled.  
    **Answer:** A squid with a glowing patch on the underside, a lens and shutter drawn on the patch, arrows of moonlight coming from above, and a note that the blue light from the patch makes the squid as bright as the water above, so the shadow vanishes.. *Why:* A strong drawing shows that the lamp points downwards and is adjusted to the brightness of the moonlight, so from below there is no dark shape.
 15. (mcq) Which observation best tells fluorescence from stored light?  
-   Options: Whether the glow stops the moment the light shining on it is switched off / The colour of the glow / How big the glowing thing is  
+   Options: The colour of the glow / Whether the glow stops the moment the light shining on it is switched off / How big the glowing thing is  
    **Answer:** Whether the glow stops the moment the light shining on it is switched off. *Why:* Fluorescence stops at once when the light goes off. Stored light fades slowly. Colour and size do not tell them apart, because both kinds can glow in many colours.
 16. (truefalse) Strong heat can stop an enzyme working, but cold only slows it down.  
    **Answer:** True. *Why:* True. Heat bends the enzyme's shape. Cold keeps the shape and only slows the movement of the molecules.
@@ -800,34 +800,34 @@ In the morning, the rocks were plain and black, and the sea was only grey. Mythi
    Options: Fluorescence / Phosphorescence / Living light  
    **Answer:** Fluorescence. *Why:* A glow that stops at once when the light stops is fluorescence. A stored glow would fade slowly. Living light would carry on in total darkness, with no torch at all.
 5. (mcq) A white shirt glows blue-white under a UV lamp. A friend says the shirt is bioluminescent. What is wrong with that?  
-   Options: The shirt is not alive, and it needs the UV lamp to glow / Shirts cannot glow at all / The glow is stored light  
+   Options: Shirts cannot glow at all / The shirt is not alive, and it needs the UV lamp to glow / The glow is stored light  
    **Answer:** The shirt is not alive, and it needs the UV lamp to glow. *Why:* Bioluminescence is light made by living beings, and it carries on with no other light. The shirt glows only while the lamp is on, so it is fluorescence. Picking 'stored light' mixes up two kinds of glow. A stored glow would linger after the lamp goes off.
 6. (mcq) Why does a hatchetfish make blue belly lights?  
    Options: Blue matches the faint light from above, so their shadow disappears / Blue is the warmest colour / Blue lights are the brightest lights  
    **Answer:** Blue matches the faint light from above, so their shadow disappears. *Why:* The light that comes down to the deep sea is a faint blue, because blue goes furthest in water. Belly lights of the same colour and brightness hide a dark shape from hunters below. Picking 'warmest' misses that living light is cold.
 7. (mcq) You step from bright sunshine into a dark room and cannot see the chairs. A minute later you can see a little, and after twenty minutes you see a lot. What is the best explanation?  
-   Options: Your eyes slowly get ready, as rod cells build back their light-catching chemical / The chairs slowly become brighter / The room slowly gets lighter  
+   Options: The chairs slowly become brighter / The room slowly gets lighter / Your eyes slowly get ready, as rod cells build back their light-catching chemical  
    **Answer:** Your eyes slowly get ready, as rod cells build back their light-catching chemical. *Why:* Nothing in the room changed. Bright light had used up the rhodopsin in your rod cells, and in the dark it is slowly built back. Picking 'the room gets lighter' misses that a dark room has no new light coming in.
 8. (mcq) Faint stars seem to vanish when you stare straight at them, and come back when you look a little to one side. Why?  
-   Options: The centre of the retina has few rod cells, and the sides have many / Stars move when you look at them / Your pupils close when you stare  
+   Options: Stars move when you look at them / Your pupils close when you stare / The centre of the retina has few rod cells, and the sides have many  
    **Answer:** The centre of the retina has few rod cells, and the sides have many. *Why:* Rod cells catch faint light, and there are few in the very centre of the retina. Looking a little to the side puts the star's light on more rods. Picking 'stars move' misses that stars stay where they are.
 9. (mcq) The sea is huge and a squid's light organ is tiny. How does this help the glowing bacteria count themselves?  
    Options: In the tiny organ the signal chemical builds up, and in the sea it spreads out and fades / The sea is too cold for bacteria to glow / The squid tells the bacteria when to glow  
    **Answer:** In the tiny organ the signal chemical builds up, and in the sea it spreads out and fades. *Why:* Bacteria switch on their light when their signal chemical passes a level. In a small, crowded space, it builds up fast. In the open sea, it drifts away. Picking 'the squid tells them' misses that the bacteria answer a chemical signal from each other.
 10. (mcq) A newborn bobtail squid has no glowing bacteria. How do they get them?  
-   Options: They pick them up from the sea water / They are born with them / They get them from their mother's food  
+   Options: They are born with them / They pick them up from the sea water / They get them from their mother's food  
    **Answer:** They pick them up from the sea water. *Why:* A baby squid has no bacteria at first. They pick up the right kind from the sea water, and only one kind is allowed to stay. Picking 'born with them' misses that this partnership has to be set up again by each new squid.
 11. (mcq) There are two groups of fireflies with different beats. In group one, each firefly joins any flash they see once they are past halfway to their own flash. In group two, each firefly ignores every flash but their own. Which group will line up, and why?  
-   Options: Group one, because answering each other's flashes pulls them into step / Group two, because each keeps their own steady beat / Neither, because only a leader can line them up  
-   **Answer:** Group one, because answering each other's flashes pulls them into step. *Why:* A firefly that joins a flash when they are past halfway pulls late fireflies into step, and after a few cycles the group flashes together. A group that ignores all flashes keeps its different beats and almost never lines up. Picking 'only a leader' misses what this unit shows: no leader is needed.
+   Options: Group two, because each keeps their own steady beat / Neither, because only a leader can line them up / Group one, because answering each other's flashes pulls them into step  
+   **Answer:** Group one, because answering each other's flashes pulls them into step. *Why:* A firefly that joins a flash when they are past halfway pulls late fireflies into step, and after a few cycles the group flashes together. A group that ignores all flashes keeps its different beats and almost never lines up. Picking 'only a leader' misses what this lesson shows: no leader is needed.
 12. (mcq) The pacemaker cells of your heart keep time together with no boss cell. How is this like fireflies flashing together?  
    Options: Each cell answers its neighbours, and the whole group keeps one beat / Both are led by one main cell / Both make light  
-   **Answer:** Each cell answers its neighbours, and the whole group keeps one beat. *Why:* In both cases, many separate beats pull each other into step. No member leads. Picking 'one main cell' misses what this unit shows: no leader is needed.
+   **Answer:** Each cell answers its neighbours, and the whole group keeps one beat. *Why:* In both cases, many separate beats pull each other into step. No member leads. Picking 'one main cell' misses what this lesson shows: no leader is needed.
 13. (mcq) A scientist adds the gene for a green glowing protein next to the gene for a nerve cell's protein. What does the green glow tell her?  
-   Options: That the nerve cell's gene is working in that cell / That the cell is hot / That the cell is dead  
+   Options: That the cell is hot / That the nerve cell's gene is working in that cell / That the cell is dead  
    **Answer:** That the nerve cell's gene is working in that cell. *Why:* The glowing gene is switched on wherever the gene beside it is switched on. So the green light marks where the gene is working. Picking 'hot' misses that this glow is cold.
 14. (mcq) Why is a bright lamp near a beach bad for baby turtles?  
-   Options: They crawl towards the brightest horizon, so they may crawl away from the sea / The lamp makes the sea warm / The lamp makes the sand too hot  
+   Options: The lamp makes the sea warm / They crawl towards the brightest horizon, so they may crawl away from the sea / The lamp makes the sand too hot  
    **Answer:** They crawl towards the brightest horizon, so they may crawl away from the sea. *Why:* Hatchlings use the brightest, lowest horizon to find the sea. A lamp behind the beach can pull them the wrong way. Picking 'warm' misses that the harm is from the light, not from heat.
 
 ## Applications
@@ -845,13 +845,13 @@ In the morning, the rocks were plain and black, and the sea was only grey. Mythi
 - Computer scientists copy the way fireflies line up to make groups of sensors keep time together with no master clock.
 
 ## Spotted around us
-- Fireflies flashing together in trees, in the mangroves of Southeast Asia, and in the Western Ghats in late May and June.
-- The blue sparkle of sea sparkle in the waves of beaches near Chennai, Mumbai, Goa and Kerala on some winter nights.
+- Fireflies flashing together in trees, in mangroves or in forests in late May and June.
+- The blue sparkle of sea sparkle in the waves of a beach on some winter nights.
 - A black cat's or a dog's eyes shining green in a torch beam, because of a mirror-like layer at the back of the eye.
 - The pupils of your own eyes getting bigger in a dark cinema, and smaller when you come out into the sun.
 - A shopkeeper's UV machine making parts of a banknote glow.
 - A white shirt glowing under a purple party light, because of the brightener from washing powder.
-- Olive Ridley turtle nesting beaches near Chennai, where volunteers ask neighbours to keep lights low in the hatching season.
+- A sea turtle nesting beach, where volunteers ask neighbours to keep lights low in the hatching season.
 - A dim red light in a train driver's cabin, in an observatory, or on a ship's bridge at night.
 
 ## Open questions
@@ -916,6 +916,8 @@ The Rest of the Rainbow (sci.light.L4): Topic-level song
 - [Food colouring, a small bottle](https://www.amazon.in/s?k=food+colour+liquid) (material): For the Crowd and the Signal activity. Strong tea works too. Used in a3. 
 - [Coloured cellophane sheets, red, green and blue](https://www.amazon.in/s?k=coloured+cellophane+sheets) (material): For the Unforgeable Flash challenge, to change the colour of a torch. Used in c1. 
 - [Silent Sparks: The Wondrous World of Fireflies, by Sara Lewis](https://www.amazon.in/s?k=silent+sparks+sara+lewis) (book): A readable book about fireflies by a firefly scientist, for the parent and for older readers. Used in c1, c2. Read a short chapter aloud on the evenings you do the Unforgeable Flash and Fireflies in Step challenges.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Helper That Heat Stops: raw potato, boiled potato and a bottle of peroxide. About ₹10 to ₹30. Any school ruler is fine. Used in e2. Get it before The Helper That Heat Stops: raw potato, boiled potato and a bottle of peroxide.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name the four ingredients of a firefly's flash. → Luciferin, luciferase, oxygen and ATP.
@@ -937,7 +939,7 @@ The Rest of the Rainbow (sci.light.L4): Topic-level song
 ## Sources
 - Founder's notes in ideas/by_topic/light-seeing-and-shadows.md, 'Bioluminescence & fluorescence': shine a UV lamp on tonic water, highlighter ink under blacklight, collect things that fluoresce under a UV torch (white clothes), glowing scorpions, card game matching organisms to their type of luminescence and a quiz on the difference between fluorescence and bioluminescence (used in e3, g2), candle-gazing and dark-room breathing (roots practice), glow tag and night games (c1)
 - Founder's notes on the philosophy 'Life creates its own light; darkness can reveal hidden glow; energy transformation is universal', which the unit takes further with the eye that reads the light and the crowd that flashes as one
-- The Class 3 unit Living light, which this unit builds on: glow sticks, cold light, the firefly, the deep sea and light pollution, now taken to the chemistry, the eye and the crowd
+- The Class 3 unit Living light, which this lesson builds on: glow sticks, cold light, the firefly, the deep sea and light pollution, now taken to the chemistry, the eye and the crowd
 - McElroy, W. D., Proceedings of the National Academy of Sciences 1947: the energy source for firefly bioluminescence is ATP
 - Dubois, R. (1885, 1887): luciferin and luciferase, and the effect of heat on the helper
 - Ando, Y. and others, Nature Photonics 2008: firefly luciferin reaction quantum yield about 41 percent

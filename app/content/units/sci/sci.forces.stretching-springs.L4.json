@@ -888,11 +888,11 @@
       "t": "mcq",
       "q": "A bottle bounces on a band. You pull it down twice as far. What happens to the bounce time?",
       "options": [
-       "It stays the same",
        "It doubles",
+       "It stays the same",
        "It halves"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A bigger bounce has further to go, but the band pulls harder, so the bottle goes faster. The extra distance and the extra speed make up for each other. The time would double only if the bottle kept the same speed over the longer path, and it does not."
      },
      "context": "In this step of Beat Match, you play more cards and see why some changes do not change the beat."
@@ -1028,11 +1028,11 @@
       "t": "mcq",
       "q": "Why do we use the same bands for all the tests?",
       "options": [
-       "So that only the thing we change can alter the bounce time",
        "So that the bands do not get tired",
-       "So that the bag stays dry"
+       "So that the bag stays dry",
+       "So that only the thing we change can alter the bounce time"
       ],
-      "a": 0,
+      "a": 2,
       "why": "In a fair test, only one thing changes. If the bands were different, we would not know whether the load or the band changed the bounce time. Tired bands and dry bags are not the reason."
      },
      "context": "In this step, you build the rig with two bands in a row and a bag of rice."
@@ -1079,11 +1079,11 @@
       "t": "mcq",
       "q": "Ten bounces took 5 seconds with 250 grams. About how long do you expect for 1000 grams?",
       "options": [
-       "About 10 seconds",
        "About 20 seconds",
+       "About 10 seconds",
        "About 5 seconds"
       ],
-      "a": 0,
+      "a": 1,
       "why": "1000 grams is 4 times 250 grams. The square root of 4 is 2, so the time doubles to about 10 seconds. The answer 20 seconds would be right if the time grew four times. The answer 5 seconds would be right if the load did not matter."
      },
      "context": "In this step, you time ten bounces with three different loads, to see how the load changes the beat."
@@ -1554,11 +1554,11 @@
       "t": "mcq",
       "q": "A clip bends fine once, but snaps after 12 bends back and forth. What is the best explanation?",
       "options": [
-       "Each bend leaves a tiny change, and tiny cracks grow until it snaps",
        "The clip got weaker because it was cold",
+       "Each bend leaves a tiny change, and tiny cracks grow until it snaps",
        "The twelfth bend was bigger than the others"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Every bend leaves a small change in the metal at the bend, and tiny cracks start and grow a little each time. After enough bends, the crack goes all the way through. This is fatigue. A bigger twelfth bend is not needed."
      },
      "context": "In this step, you bend a clip back and forth by a big angle and count the bends until it breaks."
@@ -1653,11 +1653,11 @@
       "t": "mcq",
       "q": "The tape stays straight as you press harder, and then folds suddenly. What does this tell you?",
       "options": [
-       "There is a limit to the push, and passing it makes the tape fold all at once",
        "The tape is broken",
-       "The push got bigger suddenly"
+       "The push got bigger suddenly",
+       "There is a limit to the push, and passing it makes the tape fold all at once"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A buckling strip holds its shape until the push passes a limit. At the limit, a tiny extra push flips it into a bend. The push did not suddenly grow, and the tape is not broken. It springs back when released."
      },
      "context": "In this step, you press the end of the tape and watch it fold suddenly."
@@ -1749,11 +1749,11 @@
       "t": "mcq",
       "q": "A load of 500 grams bounces in 0.5 seconds. About what load will bounce in 1 second?",
       "options": [
-       "About 2000 g",
        "About 1000 g",
+       "About 2000 g",
        "About 250 g"
       ],
-      "a": 0,
+      "a": 1,
       "why": "To double the bounce time, the load must be four times as heavy, because the time grows with the square root of the load. Four times 500 grams is 2000 grams. The answer 1000 grams would only multiply the time by about 1.4. The answer 250 grams would shorten the time."
      },
      "context": "In this step, you use the square-root rule to work out the load for a one-second bounce."
@@ -1886,11 +1886,11 @@
       "t": "mcq",
       "q": "Ten wobbles take 4 seconds with 20 grams. About how long do you expect for 80 grams?",
       "options": [
-       "About 8 seconds",
        "About 16 seconds",
-       "About 2 seconds"
+       "About 2 seconds",
+       "About 8 seconds"
       ],
-      "a": 0,
+      "a": 2,
       "why": "80 grams is 4 times 20 grams. The square root of 4 is 2, so the time doubles to about 8 seconds. The answer 16 seconds would multiply by 4. The answer 2 seconds would halve the time."
      },
      "context": "In this step, you time the wobble with three known lumps of clay."
@@ -1935,11 +1935,11 @@
       "t": "mcq",
       "q": "With the same clay, a ruler sticking out 15 centimetres wobbles faster than the same ruler sticking out 25 centimetres. What does this show?",
       "options": [
-       "The beat depends on the stiffness as well as the mass",
        "The clay is lighter on the short ruler",
+       "The beat depends on the stiffness as well as the mass",
        "The ruler is broken"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A short ruler is stiffer than a long one, and a stiffer spring gives a faster beat for the same mass. So the beat is set by the mass and the stiffness, and a wobble scale needs no gravity. The clay is the same on both, and a broken ruler would not wobble at all."
      },
      "context": "This is the last step of the Wobble Scale. You change the stiffness of the ruler and see that the beat depends on it, not on gravity."
@@ -2065,11 +2065,11 @@
      "t": "mcq",
      "p": "A band stretches 4 cm under a 2 N load. What is its stiffness?",
      "opts": [
-      "0.5 N for each cm",
       "2 N for each cm",
-      "8 N for each cm"
+      "8 N for each cm",
+      "0.5 N for each cm"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Stiffness is the pull divided by the stretch. 2 divided by 4 is 0.5. An answer of 8 comes from multiplying the numbers instead of dividing them.",
      "outcome": 0
     },
@@ -2222,11 +2222,11 @@
      "t": "mcq",
      "p": "What does a quartz watch count to keep time?",
      "opts": [
-      "The vibrations of a tiny crystal",
       "The swings of a pendulum",
+      "The vibrations of a tiny crystal",
       "The movement of the Sun"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A quartz watch uses a tiny crystal that vibrates 32,768 times each second. A chip counts the beats. The other answers describe other kinds of clock. A pendulum clock counts the swings of a pendulum, and a sundial uses the shadow of the Sun.",
      "outcome": 7
     },
@@ -2378,11 +2378,11 @@
      "t": "mcq",
      "p": "Why does a rubber band feel warm after a quick stretch?",
      "opts": [
-      "The long chains line up as they stretch and give out a little heat",
       "The band is rubbing against the air",
-      "The band was warm inside before"
+      "The band was warm inside before",
+      "The long chains line up as they stretch and give out a little heat"
      ],
-     "a": 0,
+     "a": 2,
      "why": "When rubber is stretched, the tangled chains line up, which gives out some heat. This is different from friction with the air, and it happens even in a clean, cool band.",
      "outcome": 6
     },
@@ -2423,11 +2423,11 @@
      "t": "mcq",
      "p": "A pendulum clock runs down, and its swings get smaller. What happens to the time for one swing?",
      "opts": [
-      "It stays about the same",
       "It gets much longer",
-      "It gets much shorter"
+      "It gets much shorter",
+      "It stays about the same"
      ],
-     "a": 0,
+     "a": 2,
      "why": "For small swings, the time of one swing does not depend on how big the swing is. This is why pendulum clocks can keep time even as the swings get smaller.",
      "outcome": 3
     },
@@ -2462,11 +2462,11 @@
      "t": "mcq",
      "p": "Why can a spring seat find an astronaut's mass in space, when a bathroom scale cannot?",
      "opts": [
-      "The bounce time depends on the mass and the stiffness, and not on gravity",
       "The spring makes gravity",
+      "The bounce time depends on the mass and the stiffness, and not on gravity",
       "The bathroom scale is too heavy"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A bathroom scale measures how hard you press on it, which needs gravity. A spring seat bounces at a beat set by the mass and the stiffness, so it works wherever you are.",
      "outcome": 7
     },
@@ -2517,11 +2517,11 @@
      "t": "mcq",
      "p": "A quartz watch crystal vibrates 32,768 times each second. A chip halves the count 15 times to get one tick each second. Why 15 times?",
      "opts": [
-      "32,768 is 2 multiplied by itself 15 times",
       "Because 15 is the number of seconds in a quarter minute",
+      "32,768 is 2 multiplied by itself 15 times",
       "Because quartz has 15 corners"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Halving 32,768 fifteen times gives 1, because 2 multiplied by itself 15 times is 32,768. The other reasons are made up.",
      "outcome": 7
     },
@@ -2600,11 +2600,11 @@
      "t": "mcq",
      "p": "Why do aeroplane windows have round corners rather than square ones?",
      "opts": [
-      "Cracks from fatigue start easily at sharp corners",
       "Round windows are lighter",
+      "Cracks from fatigue start easily at sharp corners",
       "Round windows look nicer"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Sharp corners concentrate the stress, so fatigue cracks start there. After two Comet airliners broke up in 1954, round corners became the rule. Lightness and looks were not the reason.",
      "outcome": 6
     },
@@ -2670,11 +2670,11 @@
    "t": "mcq",
    "p": "What does the stiffness of a spring tell you?",
    "opts": [
-    "How much pull it needs for each centimetre it stretches",
     "How long the spring is",
+    "How much pull it needs for each centimetre it stretches",
     "How heavy the spring is"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Stiffness is the pull divided by the stretch. A stiff spring needs a big pull for a small stretch.",
    "outcome": 0
   },
@@ -2694,11 +2694,11 @@
    "t": "mcq",
    "p": "Why do we time ten bounces and divide, rather than time one bounce?",
    "opts": [
-    "A stopwatch cannot time a fraction of a second well, and dividing shrinks the error",
     "Ten bounces are more fun",
+    "A stopwatch cannot time a fraction of a second well, and dividing shrinks the error",
     "One bounce is not a real bounce"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A small timing error of a quarter of a second is a big part of one bounce, but a small part of ten bounces. Dividing by ten shares the error out.",
    "outcome": 2
   },
@@ -2706,11 +2706,11 @@
    "t": "mcq",
    "p": "A bottle on a band is pulled down 3 cm and let go. Later it is pulled down 6 cm and let go. What can you say about the bounce time?",
    "opts": [
-    "About the same",
     "The 6 cm bounce takes twice as long",
+    "About the same",
     "The 6 cm bounce takes half as long"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The band pulls harder when stretched further, so the bottle goes faster. The bounce time stays about the same.",
    "outcome": 3
   },
@@ -2730,11 +2730,11 @@
    "t": "mcq",
    "p": "A spring is swapped for one that is 4 times stiffer, with the same load. What happens to the bounce time?",
    "opts": [
-    "It is half as long",
     "It is twice as long",
-    "It stays the same"
+    "It stays the same",
+    "It is half as long"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A stiffer spring pulls harder and speeds the load up faster. Four times the stiffness halves the bounce time.",
    "outcome": 4
   },
@@ -2766,11 +2766,11 @@
    "t": "mcq",
    "p": "What happens to the temperature of a rubber band that is stretched quickly and then let go?",
    "opts": [
-    "It warms up when stretched and cools when let go",
     "It cools when stretched and warms when let go",
+    "It warms up when stretched and cools when let go",
     "It never changes"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The rubber chains line up when stretched, which gives out heat. When let go, they tangle again and take in heat from their surroundings, so the band cools.",
    "outcome": 6
   },
@@ -2790,11 +2790,11 @@
    "t": "mcq",
    "p": "Which of these keeps time by the swing of a fine coiled spring?",
    "opts": [
-    "A mechanical watch",
     "A sundial",
-    "A candle clock"
+    "A candle clock",
+    "A mechanical watch"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A mechanical watch has a balance spring that swings a small wheel at a steady beat. A sundial uses the Sun's shadow, and a candle clock uses burning.",
    "outcome": 7
   },
@@ -3158,6 +3158,105 @@
    "used_in": [
     "a4"
    ]
+  },
+  {
+   "id": "b-a-digital-stopwatch--optiona",
+   "item": "A digital stopwatch (optional)",
+   "kind": "tool",
+   "why": "Used in The Favourite Beat: which shake builds the biggest bounce?. About ₹150 to ₹400. A phone stopwatch works well.",
+   "url": "https://www.amazon.in/s?k=digital+stopwatch",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before The Favourite Beat: which shake builds the biggest bounce?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Bounce Time: what changes how fast a spring bounces?, The Favourite Beat: which shake builds the biggest bounce?, The Stiffness League: which stretchy thing is stiffest?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e2",
+    "a1",
+    "a4",
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before Bounce Time: what changes how fast a spring bounces?."
+  },
+  {
+   "id": "b-paper-masking-tape",
+   "item": "Paper masking tape",
+   "kind": "material",
+   "why": "Used in Bounce Time: what changes how fast a spring bounces?, The Wobble Scale: weigh a lump of clay without gravity, Soft Landing: keep a stack of coins standing. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor.",
+   "url": "https://www.amazon.in/s?k=paper+masking+tape",
+   "used_in": [
+    "e1",
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before Bounce Time: what changes how fast a spring bounces?."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Soft Landing: keep a stack of coins standing. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before Soft Landing: keep a stack of coins standing."
+  },
+  {
+   "id": "b-graph-paper",
+   "item": "Graph paper",
+   "kind": "material",
+   "why": "Used in The Stiffness League: which stretchy thing is stiffest?, The Wobble Scale: weigh a lump of clay without gravity. About ₹10 to ₹30. Draw squares on plain paper.",
+   "url": "https://www.amazon.in/s?k=graph+paper+notebook",
+   "used_in": [
+    "a1",
+    "p1"
+   ],
+   "plan": "Get it before The Stiffness League: which stretchy thing is stiffest?."
+  },
+  {
+   "id": "b-a-small-toy-car-with-free-ro",
+   "item": "A small toy car with free-rolling wheels",
+   "kind": "material",
+   "why": "Used in Soft Landing: keep a stack of coins standing. About ₹100 to ₹200. A marble or a round torch cell works.",
+   "url": "https://www.amazon.in/s?k=toy+car+pull+back+small",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before Soft Landing: keep a stack of coins standing."
+  },
+  {
+   "id": "b-iron-nails-or-iron-filings",
+   "item": "Iron nails or iron filings",
+   "kind": "material",
+   "why": "Used in The Stiffness League: which stretchy thing is stiffest?. About ₹20 to ₹80. Short steel nails from a hardware shop.",
+   "url": "https://www.amazon.in/s?k=iron+filings+science",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Get it before The Stiffness League: which stretchy thing is stiffest?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

@@ -729,10 +729,10 @@
       "q": "Where is the Sun's energy made?",
       "options": [
        "In the corona",
-       "In the core",
-       "In the photosphere"
+       "In the photosphere",
+       "In the core"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Energy is made in the core, where hydrogen joins into helium. The corona is the outer atmosphere and the photosphere is the layer we call the surface. Picking the corona is common, because it is the part that shows in an eclipse."
      },
      "context": "In this step, you play one practice card so everyone knows how to score."
@@ -1006,11 +1006,11 @@
       "t": "mcq",
       "q": "Why do storm clouds from the Sun take longer to arrive than a flare's light?",
       "options": [
-       "The cloud is made of material that travels slower than light",
        "The cloud takes a longer path",
+       "The cloud is made of material that travels slower than light",
        "Light waits for the cloud"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A flare's light travels at the greatest speed there is. A cloud of plasma is made of material, so it is much slower. 'A longer path' is wrong, because both come straight from the Sun."
      },
      "think": "What would a space-weather forecaster want to watch on the Sun every day? Think of the cards you just played.",
@@ -1153,11 +1153,11 @@
       "t": "mcq",
       "q": "Why do we test clear water first?",
       "options": [
-       "To have a starting point to compare with",
        "To make the card wet",
-       "To use up the water"
+       "To use up the water",
+       "To have a starting point to compare with"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A starting point shows what normal looks like. Without it, we could not say that the milk made any change. Picking 'to make the card wet' mixes up a side effect with the purpose."
      },
      "context": "In this step, you test clear water with no milk. This is the starting point."
@@ -1184,10 +1184,10 @@
       "q": "You add more milk. Where does the black patch vanish?",
       "options": [
        "Deeper down in the jar",
-       "Nearer the top of the jar",
-       "In the same place"
+       "In the same place",
+       "Nearer the top of the jar"
       ],
-      "a": 1,
+      "a": 2,
       "why": "More milk scatters more light, so light from the patch is lost sooner. You can see only a short way into thick cloud. Picking deeper down would mean the cloud had cleared, which is the opposite of what the milk does."
      },
      "context": "In this step, you add milk bit by bit and find how deep you can see each time."
@@ -1329,11 +1329,11 @@
       "t": "mcq",
       "q": "Why do we warm the water slowly?",
       "options": [
-       "So we can see the slow loops before big bubbles hide them",
        "To save gas",
+       "So we can see the slow loops before big bubbles hide them",
        "To keep the pepper dry"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Boiling hard makes big bubbles that hide the quiet loops. Warm water shows the slow rising and sinking. Saving gas is a side effect, not the reason."
      },
      "context": "In this step, a grown-up warms the water and you add the pepper."
@@ -1360,11 +1360,11 @@
       "t": "mcq",
       "q": "Why does the water in the middle rise?",
       "options": [
-       "It is hotter and lighter than the cooler water around it",
        "It is heavier than the water around it",
-       "The pepper pushes it up"
+       "The pepper pushes it up",
+       "It is hotter and lighter than the cooler water around it"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Hot water spreads out and becomes a little lighter than cool water, so it floats upwards. Cool water at the edges sinks to take its place. Picking 'heavier' is the opposite of what happens."
      },
      "context": "In this step, you watch the loops and time how long one takes."
@@ -1503,11 +1503,11 @@
       "t": "mcq",
       "q": "Why do we use a thin slit of light?",
       "options": [
-       "So the colours separate cleanly",
        "To save the torch's battery",
-       "To make the light hotter"
+       "To make the light hotter",
+       "So the colours separate cleanly"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A thin line of light gives thin lines of each colour. A wide beam makes every colour overlap and smear. Saving the battery is a side effect, not the reason."
      },
      "context": "In this step, you make a thin slit of light, so the colours are sharp."
@@ -1564,11 +1564,11 @@
       "t": "mcq",
       "q": "Why does the red torch show only red?",
       "options": [
-       "The cellophane lets through only red light",
        "Red is the strongest colour",
-       "The CD is red"
+       "The CD is red",
+       "The cellophane lets through only red light"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The cellophane takes in the other colours and passes the red. Light of one colour makes one band. Picking 'red is the strongest' would not explain why the other colours vanish."
      },
      "context": "In this step, you compare the red torch and the candle with the white torch."
@@ -1652,11 +1652,11 @@
       "t": "mcq",
       "q": "If a spacecraft tried to land on the Sun, what would it find?",
       "options": [
-       "Gas, hotter and thicker the deeper it went",
        "Hot rock",
-       "A thin skin over water"
+       "A thin skin over water",
+       "Gas, hotter and thicker the deeper it went"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The Sun is gas from the outside to the centre, getting hotter and thicker as you go in. Hot rock is a common guess, because we think of the Sun as a very hot planet."
      },
      "think": "The picture shows a sharp edge. If there is no ground, what can that edge be? You will find out in the Glowing Fog experiment.",
@@ -1762,11 +1762,11 @@
       "t": "mcq",
       "q": "Why does a spot look thin near the Sun's edge?",
       "options": [
-       "We see it from the side as the ball curves away",
        "The spot is shrinking",
-       "The spot is cooling"
+       "The spot is cooling",
+       "We see it from the side as the ball curves away"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The Sun is a ball, so at the edge the surface is turning away from us. A spot there is seen at a slant, and looks squashed. Picking 'shrinking' is wrong, because the spot is the same size."
      },
      "context": "In this step, you watch how a spot looks as it crosses the front of the orange."
@@ -1798,11 +1798,11 @@
       "t": "mcq",
       "q": "A sunspot vanishes at the Sun's western edge. About when might it come back?",
       "options": [
-       "About two weeks later at the eastern edge",
        "Never, it has died",
-       "The next day at the same edge"
+       "The next day at the same edge",
+       "About two weeks later at the eastern edge"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The Sun takes about 27 days to turn once, as seen from the Earth, and a spot is hidden for about half of it. If the spot is still alive, it comes back at the other edge. 'Never' is true only if the spot fades while hidden, which we cannot see."
      },
      "context": "In this step, you time how long a spot is hidden, using one second for one day."
@@ -1922,11 +1922,11 @@
       "t": "mcq",
       "q": "What does the katori stand for in this model?",
       "options": [
-       "The Earth and its magnetic field",
        "The Sun",
-       "A comet"
+       "A comet",
+       "The Earth and its magnetic field"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The katori is the obstacle that the stream has to flow round. In real space, the Earth's magnetic field bends the Sun's wind round the planet. The Sun is where the stream comes from, not the thing it flows round."
      },
      "context": "In this step, you pour water and watch how it flows round the katori."
@@ -2176,11 +2176,11 @@
       "t": "mcq",
       "q": "When the pencil's shadow is a dot, what does that tell you?",
       "options": [
-       "The pencil points straight at the Sun",
        "The Sun has gone",
-       "The pencil is too short"
+       "The pencil is too short",
+       "The pencil points straight at the Sun"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A pencil makes no shadow only when the Sun is exactly in line with it. The card is square to the pencil, so it also faces the Sun."
      },
      "context": "In this step, you find the tilt that faces the Sun straight on."
@@ -2214,11 +2214,11 @@
       "t": "mcq",
       "q": "A panel is fixed in one place all year. Which tilt is a good compromise?",
       "options": [
-       "About the same as the city's latitude, facing south",
        "Flat on the floor",
-       "Standing straight up"
+       "Standing straight up",
+       "About the same as the city's latitude, facing south"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The Sun's height changes through the year, higher in summer and lower in winter. A tilt close to the latitude sits half-way between the summer and winter tilts. Flat or upright would be good for only a few days."
      },
      "context": "In this last step, you decide on a tilt for the whole year."
@@ -2258,12 +2258,12 @@
      "t": "mcq",
      "p": "What is the photosphere?",
      "opts": [
-      "The layer where the Sun's gas becomes clear enough for light to escape",
       "A solid crust over the Sun",
       "The Sun's core",
-      "The Sun's wind"
+      "The Sun's wind",
+      "The layer where the Sun's gas becomes clear enough for light to escape"
      ],
-     "a": 0,
+     "a": 3,
      "outcome": 1,
      "why": "The photosphere is the layer we see as the Sun's surface. It is not a crust. Below it the gas is too thick for light to get out. Picking 'a solid crust' is common, because we draw the Sun with a skin."
     },
@@ -2293,12 +2293,12 @@
      "t": "mcq",
      "p": "A sunspot looks dark. What is the best reason?",
      "opts": [
-      "It is cooler than the gas around it",
       "It is a hole in the Sun",
+      "It is cooler than the gas around it",
       "It is a planet in front of the Sun",
       "It has no light at all"
      ],
-     "a": 0,
+     "a": 1,
      "outcome": 2,
      "why": "A sunspot is about 4,000 degrees Celsius, cooler than the 5,500 degrees around it. Next to the brighter Sun it looks dark, but alone it would glow brightly. A hole or a planet would not behave like a spot."
     },
@@ -2334,12 +2334,12 @@
      "t": "mcq",
      "p": "A sunspot crosses the Sun and vanishes at the western edge. About when might it come back?",
      "opts": [
-      "About two weeks later at the eastern edge",
       "The next morning at the same edge",
       "Never, because it was destroyed",
-      "Exactly one year later"
+      "Exactly one year later",
+      "About two weeks later at the eastern edge"
      ],
-     "a": 0,
+     "a": 3,
      "outcome": 2,
      "why": "The Sun turns once in about 27 days as seen from the Earth. The spot is hidden for about half of that. If it is still alive, it comes back at the eastern edge."
     },
@@ -2451,12 +2451,12 @@
      "t": "mcq",
      "p": "The Sun's wind blows past the Earth. What does this tell us?",
      "opts": [
-      "The Earth is inside the Sun's outer atmosphere",
       "The Earth is part of the Sun's core",
       "Space is full of air like on Earth",
+      "The Earth is inside the Sun's outer atmosphere",
       "The wind is too weak to matter"
      ],
-     "a": 0,
+     "a": 2,
      "outcome": 4,
      "why": "The solar wind fills the solar system, so the Earth sits inside the Sun's thin outer gas. It does not mean space has air like ours. The wind is very thin."
     }
@@ -2472,12 +2472,12 @@
      "t": "mcq",
      "p": "A sunspot near the Sun's middle goes round in about 25 days, and a spot near the pole takes about 35 days. What does this tell us?",
      "opts": [
-      "The Sun is a ball of gas, not a solid ball",
       "The Sun has a crack in it",
       "The poles are heavier",
+      "The Sun is a ball of gas, not a solid ball",
       "The Earth slows the Sun"
      ],
-     "a": 0,
+     "a": 2,
      "outcome": 3,
      "why": "A solid ball turns all in one piece, so every spot would take the same time. Different times in different places mean the Sun is gas, which can turn at different speeds."
     },
@@ -2504,12 +2504,12 @@
      "t": "mcq",
      "p": "A flare and a cloud of plasma leave the Sun at the same time. Which arrives first, and about when?",
      "opts": [
-      "The flash of light, in about 8 minutes",
       "The cloud, in 8 minutes",
       "Both together, in a day",
-      "The cloud, in 8 seconds"
+      "The cloud, in 8 seconds",
+      "The flash of light, in about 8 minutes"
      ],
-     "a": 0,
+     "a": 3,
      "outcome": 4,
      "why": "Light travels at the greatest speed there is. A cloud of plasma is made of material, so it is much slower and takes one to three days."
     },
@@ -2541,12 +2541,12 @@
      "t": "mcq",
      "p": "Why does an aurora appear near the poles and not at the equator?",
      "opts": [
-      "The Earth's magnetic field steers the charged pieces towards the poles",
       "The poles are closer to the Sun",
       "The equator is too hot",
+      "The Earth's magnetic field steers the charged pieces towards the poles",
       "The poles have more air"
      ],
-     "a": 0,
+     "a": 2,
      "outcome": 4,
      "why": "The magnetic field lines of the Earth go into the ground near the poles, and charged pieces follow them down. In a very strong storm the aurora can reach farther from the poles."
     },
@@ -2592,12 +2592,12 @@
      "t": "mcq",
      "p": "A coil heater glows dull red, then orange as it gets hotter. What does a blue-white star tell you?",
      "opts": [
-      "It is hotter than a red star",
       "It is colder than a red star",
       "It is the same as a red star",
+      "It is hotter than a red star",
       "It is not a star"
      ],
-     "a": 0,
+     "a": 2,
      "outcome": 6,
      "why": "Hotter things glow bluer and whiter, and cooler things glow redder. A star's colour is a clue to its temperature."
     },
@@ -2630,12 +2630,12 @@
      "t": "mcq",
      "p": "Why does the corona have less heat than the surface even though its temperature is higher?",
      "opts": [
-      "It is very thin, so there is little material in it to hold heat",
       "Its temperature is mistaken",
+      "It is very thin, so there is little material in it to hold heat",
       "It is closer to the core",
       "It is colder than the surface"
      ],
-     "a": 0,
+     "a": 1,
      "outcome": 4,
      "why": "Temperature is how fast the particles move. Heat also depends on how many particles there are. The corona has very few, so it holds little heat, like a hot spark."
     },
@@ -2772,12 +2772,12 @@
      "t": "mcq",
      "p": "The corona is hotter than the Sun's surface. One idea is that countless tiny flares, called nanoflares, heat it. Which would be the best way to test this idea?",
      "opts": [
-      "Count tiny bright flashes in the corona with a spacecraft",
       "Look at the Moon",
       "Measure the Earth's tilt",
-      "Count the stars"
+      "Count the stars",
+      "Count tiny bright flashes in the corona with a spacecraft"
      ],
-     "a": 0,
+     "a": 3,
      "outcome": 4,
      "why": "If many tiny flares heat the corona, then we should see many small flashes. A spacecraft that can see the corona closely can count them. Looking at the Moon or the stars tells us nothing about it."
     },
@@ -2798,12 +2798,12 @@
      "t": "mcq",
      "p": "Aditya-L1 sits near a point called L1, about 1.5 million kilometres from the Earth. Why is that a good place to watch the Sun?",
      "opts": [
-      "The Earth never blocks its view of the Sun",
       "It is the hottest place",
       "It is close to the Moon",
-      "It is inside the Sun"
+      "It is inside the Sun",
+      "The Earth never blocks its view of the Sun"
      ],
-     "a": 0,
+     "a": 3,
      "outcome": 5,
      "why": "From a spot between the Earth and the Sun, the Earth never gets in the way, so the Sun can be watched all the time."
     },
@@ -2863,12 +2863,12 @@
    "t": "mcq",
    "p": "Which is the correct order of layers, from the core outwards?",
    "opts": [
-    "Core, radiative zone, convection zone, photosphere, chromosphere, corona",
     "Core, corona, photosphere, convection zone",
     "Photosphere, core, corona",
+    "Core, radiative zone, convection zone, photosphere, chromosphere, corona",
     "Corona, core, photosphere"
    ],
-   "a": 0,
+   "a": 2,
    "outcome": 0,
    "why": "Energy is made in the core and moves outwards through the layers. The corona is the outermost."
   },
@@ -2876,12 +2876,12 @@
    "t": "mcq",
    "p": "Why does a sunspot look dark?",
    "opts": [
-    "It is cooler than the gas around it",
     "It has no light",
+    "It is cooler than the gas around it",
     "It is a planet",
     "It is a hole"
    ],
-   "a": 0,
+   "a": 1,
    "outcome": 2,
    "why": "A sunspot is still hot, about 4,000 degrees Celsius, but it is cooler than the 5,500 degrees round it, so it looks dark by comparison."
   },
@@ -2889,12 +2889,12 @@
    "t": "mcq",
    "p": "A sunspot disappears at one edge of the Sun. What is the best explanation?",
    "opts": [
-    "The Sun turns, so the spot has gone round the back",
     "The spot melted",
     "The Sun moved",
+    "The Sun turns, so the spot has gone round the back",
     "The Moon covered it"
    ],
-   "a": 0,
+   "a": 2,
    "outcome": 2,
    "why": "The Sun turns like a ball. A spot that crosses to the edge is carried round the far side and can return about two weeks later."
   },
@@ -2902,12 +2902,12 @@
    "t": "mcq",
    "p": "A spot near the Sun's pole takes longer to go round than a spot near the middle. What does that show?",
    "opts": [
-    "The Sun is gas and turns at different speeds",
     "The poles are cold",
     "The Sun is solid",
+    "The Sun is gas and turns at different speeds",
     "The poles are heavy"
    ],
-   "a": 0,
+   "a": 2,
    "outcome": 3,
    "why": "A solid ball turns in one piece. The Sun does not, so it must be gas."
   },
@@ -2915,12 +2915,12 @@
    "t": "mcq",
    "p": "What is the solar wind?",
    "opts": [
-    "A steady stream of charged pieces flowing out from the Sun's corona",
     "Air blowing from the Sun",
     "A cloud of dust",
+    "A steady stream of charged pieces flowing out from the Sun's corona",
     "The Sun's light"
    ],
-   "a": 0,
+   "a": 2,
    "outcome": 4,
    "why": "The solar wind is made of charged pieces, not air. It flows out in all directions and passes the Earth at about 400 kilometres in every second."
   },
@@ -2928,12 +2928,12 @@
    "t": "mcq",
    "p": "What does it mean that the Earth is inside the Sun's atmosphere?",
    "opts": [
-    "The Sun's thin outer gas and wind reach past the Earth",
     "The Earth is hot",
     "The Earth is part of the Sun",
+    "The Sun's thin outer gas and wind reach past the Earth",
     "The Earth has no air"
    ],
-   "a": 0,
+   "a": 2,
    "outcome": 4,
    "why": "The Sun's wind fills the space round all the planets. We are inside it, just as a fish is inside a lake."
   },
@@ -2941,12 +2941,12 @@
    "t": "mcq",
    "p": "Why does an aurora glow near the poles?",
    "opts": [
-    "The Earth's magnetic field steers charged pieces towards the poles",
     "The poles are warmer",
     "The Moon makes it",
+    "The Earth's magnetic field steers charged pieces towards the poles",
     "The air is thickest there"
    ],
-   "a": 0,
+   "a": 2,
    "outcome": 4,
    "why": "Charged pieces follow the magnetic field lines down at the poles and make the gases glow."
   },
@@ -2954,12 +2954,12 @@
    "t": "mcq",
    "p": "How long does a flare's flash take to reach the Earth?",
    "opts": [
-    "About 8 minutes",
     "About 4 days",
     "About 4 hours",
+    "About 8 minutes",
     "It never reaches"
    ],
-   "a": 0,
+   "a": 2,
    "outcome": 5,
    "why": "A flash of light moves at the speed of light and takes about 8 minutes. The slower cloud takes a day or more."
   },
@@ -2967,12 +2967,12 @@
    "t": "mcq",
    "p": "Why is Aditya-L1 placed near a point called L1?",
    "opts": [
-    "From there, the Earth never blocks its view of the Sun",
     "It is the closest place to the Sun",
     "It is safe from all storms",
-    "It is where the Moon is"
+    "It is where the Moon is",
+    "From there, the Earth never blocks its view of the Sun"
    ],
-   "a": 0,
+   "a": 3,
    "outcome": 5,
    "why": "L1 is on the Sun's side of the Earth, about 1.5 million kilometres away, so the Sun can be watched without a break."
   },
@@ -2980,12 +2980,12 @@
    "t": "mcq",
    "p": "What do the dark lines in the Sun's rainbow tell us?",
    "opts": [
-    "Which kinds of atom are in the Sun",
     "How far the Sun is",
     "How old the Sun is",
-    "The Sun's mass"
+    "The Sun's mass",
+    "Which kinds of atom are in the Sun"
    ],
-   "a": 0,
+   "a": 3,
    "outcome": 6,
    "why": "Each kind of atom takes out its own pattern of colours. The lines match the patterns made by those atoms in laboratories."
   },
@@ -2993,12 +2993,12 @@
    "t": "mcq",
    "p": "Comet tails always point away from the Sun. What did this help scientists to guess?",
    "opts": [
-    "Something flows out from the Sun and pushes the tails",
     "The comet is burning",
     "The comet is going backwards",
-    "The tail is made of rock"
+    "The tail is made of rock",
+    "Something flows out from the Sun and pushes the tails"
    ],
-   "a": 0,
+   "a": 3,
    "outcome": 6,
    "why": "Ludwig Biermann used this clue in 1951 to say that a stream must flow out from the Sun. Parker explained the stream in 1958 and Mariner 2 measured it in 1962."
   }
@@ -3283,6 +3283,69 @@
    "used_in": [
     "c1"
    ]
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Glowing Fog: where does a ball of gas end?, A Stream Past a Stone: how a wind flows round the Earth, The Sunspot Diary: how long does the Sun take to turn?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "a3",
+    "p1"
+   ],
+   "plan": "Get it before Glowing Fog: where does a ball of gas end?."
+  },
+  {
+   "id": "b-small-torch-bulbs-or-leds-wi",
+   "item": "Small torch bulbs or LEDs with a holder",
+   "kind": "tool",
+   "why": "Used in The Sun's Barcode: split light into colours with a CD. About ₹10 to ₹50. A small torch can be taken apart for its bulb.",
+   "url": "https://www.amazon.in/s?k=torch+bulb+holder+set",
+   "used_in": [
+    "e3"
+   ],
+   "plan": "Get it before The Sun's Barcode: split light into colours with a CD."
+  },
+  {
+   "id": "b-modelling-clay-or-plasticine",
+   "item": "Modelling clay or plasticine",
+   "kind": "material",
+   "why": "Used in Spin the Orange: how a spot proves the Sun turns, A Stream Past a Stone: how a wind flows round the Earth, The Sun-Facing Stand: find the tilt for solar panels in your city. About ₹40 to ₹120. Atta dough mixed with a little salt works.",
+   "url": "https://www.amazon.in/s?k=modelling+clay+plasticine",
+   "used_in": [
+    "a2",
+    "a3",
+    "c1"
+   ],
+   "plan": "Get it before Spin the Orange: how a spot proves the Sun turns."
+  },
+  {
+   "id": "b-food-colour",
+   "item": "Food colour",
+   "kind": "material",
+   "why": "Used in The Boiling Pot: how the Sun's surface churns. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it.",
+   "url": "https://www.amazon.in/s?k=food+colour+liquid",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before The Boiling Pot: how the Sun's surface churns."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

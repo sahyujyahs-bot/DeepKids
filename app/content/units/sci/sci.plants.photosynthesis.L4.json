@@ -710,12 +710,12 @@
       "t": "mcq",
       "q": "In the game, plants add oxygen in the day and use oxygen at night. Why?",
       "options": [
-       "They make oxygen only in light, and use oxygen all the time",
        "They are asleep at night and do nothing",
        "They make oxygen from the moon",
+       "They make oxygen only in light, and use oxygen all the time",
        "They only breathe out"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Photosynthesis needs light, so it stops at night. Respiration does not need light, so it never stops. The option that says plants do nothing at night is a common wrong idea."
      },
      "parent": "A new plant adds oxygen in the day but also uses oxygen at night. Let the child notice this before you say it.",
@@ -936,12 +936,12 @@
       "t": "mcq",
       "q": "A root in the soil has no chlorophyll. Which job does the root do?",
       "options": [
-       "Respiration only",
        "Photosynthesis only",
+       "Respiration only",
        "Both",
        "Neither"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Photosynthesis needs chlorophyll and light. A root has neither. But a root is alive and needs energy, so they respire. Anyone who picks neither has forgotten that roots are alive."
      },
      "context": "In this step you play the first eight cards and learn how to score."
@@ -987,12 +987,12 @@
      "t": "mcq",
      "p": "What does a green plant do with the air during the night?",
      "opts": [
-      "Take in a little oxygen and give out a little carbon dioxide",
       "Take in carbon dioxide and give out oxygen",
+      "Take in a little oxygen and give out a little carbon dioxide",
       "Nothing, because plants sleep at night",
       "Take in only nitrogen"
      ],
-     "a": 0,
+     "a": 1,
      "why": "At night there is no light, so photosynthesis stops. But every cell of the plant still respires, so they take in some oxygen and give out some carbon dioxide. It is a common wrong idea that plants do nothing at night.",
      "outcome": 0
     },
@@ -1016,12 +1016,12 @@
      "t": "mcq",
      "p": "Blue-purple cabbage water turns pink when you blow into it through a straw. What does your breath add to the water?",
      "opts": [
-      "Carbon dioxide, which makes the water slightly sour",
       "Oxygen, which makes the water pink",
       "Heat, which changes the colour",
-      "Nitrogen, which bleaches the cabbage"
+      "Nitrogen, which bleaches the cabbage",
+      "Carbon dioxide, which makes the water slightly sour"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Your breath has a lot of carbon dioxide. It dissolves in water and makes a weak acid, and cabbage water turns pinker with acid. Heat from the breath is far too small to change the colour.",
      "outcome": 1,
      "how": "e1",
@@ -1196,12 +1196,12 @@
      "t": "mcq",
      "p": "After three cloudy days, which one thing would most likely help a pond at 4 in the morning?",
      "opts": [
-      "Stirring the water to mix in air",
       "Adding more fish",
       "Adding extra food",
+      "Stirring the water to mix in air",
       "Covering the pond with a cloth"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Stirring mixes air from above into the water, which adds oxygen when nothing is making it. More fish and more food would use up more oxygen. A cloth would cut off even more air.",
      "outcome": 2
     }
@@ -1217,12 +1217,12 @@
      "t": "mcq",
      "p": "A leaf is at its compensation point. What is true about its gases overall?",
      "opts": [
-      "No oxygen or carbon dioxide leaves or enters overall",
       "Oxygen leaves in large amounts",
       "Only carbon dioxide enters",
+      "No oxygen or carbon dioxide leaves or enters overall",
       "The leaf makes no sugar"
      ],
-     "a": 0,
+     "a": 2,
      "why": "At the compensation point, the sugar made equals the sugar spent. The oxygen from photosynthesis is used by respiration, and the carbon dioxide from respiration is used by photosynthesis, so nothing moves in or out overall. The leaf is still making sugar.",
      "outcome": 3
     },
@@ -1333,12 +1333,12 @@
      "t": "mcq",
      "p": "A graph of photosynthesis against light rises steeply and then goes flat. What does the flat part show?",
      "opts": [
-      "Something else, such as carbon dioxide or warmth, is now the limit",
       "The plant has stopped being alive",
       "Light has stopped being needed",
+      "Something else, such as carbon dioxide or warmth, is now the limit",
       "The leaf has run out of water"
      ],
-     "a": 0,
+     "a": 2,
      "why": "When more light no longer makes any difference, light is no longer the shortest supply. Another factor has taken over as the limit.",
      "outcome": 4
     },
@@ -1346,12 +1346,12 @@
      "t": "mcq",
      "p": "Why does the amount of carbon dioxide in the whole Earth's air dip each northern summer?",
      "opts": [
-      "The land plants of the north are growing and taking in carbon dioxide",
       "The northern oceans freeze",
+      "The land plants of the north are growing and taking in carbon dioxide",
       "People burn less fuel in summer",
       "The Sun gets brighter in summer"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Most of the Earth's land lies in the north. When the leaves open in spring, photosynthesis pulls carbon dioxide out of the air. In autumn, the fallen leaves rot and give it back.",
      "outcome": 6
     },
@@ -1448,12 +1448,12 @@
      "t": "mcq",
      "p": "Look at the graph of oxygen in a pond on a cloudy day. About when is the oxygen lowest?",
      "opts": [
-      "At about 6 in the morning",
       "At about 3 in the afternoon",
+      "At about 6 in the morning",
       "At about noon",
       "At about 9 at night"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The line falls all night and reaches its lowest value, 1.5, at 6 in the morning. The peak, 4.5, is in the afternoon.",
      "outcome": 2,
      "how": "a5",
@@ -1507,12 +1507,12 @@
      "t": "mcq",
      "p": "Someone repeats the cabbage-water test with leaves in the light, but the jar is no pinker or bluer than the jar with no leaves. What is the most likely reason?",
      "opts": [
-      "Too few leaves, or too little light, for a change to show",
       "Leaves cannot change the water at all",
       "The cabbage water was too fresh",
-      "Jars must be kept in the dark"
+      "Jars must be kept in the dark",
+      "Too few leaves, or too little light, for a change to show"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A leaf only takes up a little carbon dioxide each hour, so a small number of leaves or weak light may give a change too small to see. The fix is to use more leaves, give brighter light or wait longer.",
      "outcome": 1,
      "how": "e1",
@@ -1564,12 +1564,12 @@
      "t": "mcq",
      "p": "Which chain of events best explains how an algae bloom can kill fish?",
      "opts": [
-      "The bloom dies and rots, and bacteria use up the oxygen while they rot the dead algae",
       "The algae eat the fish",
+      "The bloom dies and rots, and bacteria use up the oxygen while they rot the dead algae",
       "The bloom makes the water too cold",
       "The algae make too much oxygen"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Rotting uses oxygen. A big bloom that dies at once feeds a big crowd of bacteria, which use up the oxygen the fish need.",
      "outcome": 2
     },
@@ -1577,12 +1577,12 @@
      "t": "mcq",
      "p": "A grower raises the light and the warmth in a greenhouse, but the plants grow no faster. What does this suggest?",
      "opts": [
-      "Carbon dioxide may be the limiting factor",
       "Light is always the limit",
+      "Carbon dioxide may be the limiting factor",
       "Plants cannot grow faster than they do",
       "The plants need less water"
      ],
-     "a": 0,
+     "a": 1,
      "why": "If raising two factors changes nothing, the limit is probably the factor that was not raised. A grower would test by adding carbon dioxide.",
      "outcome": 4
     },
@@ -1697,12 +1697,12 @@
      "t": "mcq",
      "p": "Which situation matches the idea of the pond at dawn, where something is made and used at the same time?",
      "opts": [
-      "A water tank that fills from a small tap while a bigger tap at the bottom is open",
       "A bottle with its cap on",
+      "A water tank that fills from a small tap while a bigger tap at the bottom is open",
       "A stone sitting on the ground",
       "A lamp that is switched off"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The pond's oxygen goes up when making beats using, and down when using beats making. A tank with water coming in and going out does the same. The level depends on which flow is bigger.",
      "outcome": 0
     },
@@ -1717,12 +1717,12 @@
      "t": "mcq",
      "p": "A scientist finds that photorespiration protects a leaf in very strong light. What does this do to the argument about it?",
      "opts": [
-      "It supports the view that photorespiration is not only a waste, but it does not settle the question",
       "It proves photorespiration is only a waste",
       "It ends the argument for good",
+      "It supports the view that photorespiration is not only a waste, but it does not settle the question",
       "It shows that rubisco is not needed"
      ],
-     "a": 0,
+     "a": 2,
      "why": "One finding adds a reason in favour of one view. The debate is about the total of costs and benefits, which needs many tests in many plants and conditions.",
      "outcome": 7
     }
@@ -1837,12 +1837,12 @@
       "t": "mcq",
       "q": "Why do we use the same cabbage water for all four jars?",
       "options": [
-       "So that every jar starts with the same colour",
        "So that we use less cabbage",
        "So that the water is warm",
+       "So that every jar starts with the same colour",
        "So that the leaves grow"
       ],
-      "a": 0,
+      "a": 2,
       "why": "If the jars started with different colours, we could not tell what changed them. The same water means a change comes from the breath, the leaves or the light."
      },
      "context": "In this step, a grown-up helps you make the colour-changing water, called an indicator."
@@ -1868,12 +1868,12 @@
       "t": "mcq",
       "q": "Why do we blow for exactly one minute into each of A, B and C?",
       "options": [
-       "So that each jar gets the same amount of breath",
        "So that the jars get warm",
+       "So that each jar gets the same amount of breath",
        "So that the water bubbles longer",
        "So that jar D turns pink as well"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A fair test gives each jar the same amount of breath. If one jar got more breath, it could look pinker for that reason, and not because of the leaves."
      },
      "context": "In this step, you put your breath into three of the jars and watch the colour change."
@@ -1928,12 +1928,12 @@
       "t": "mcq",
       "q": "In this test, a jar with leaves in the dark turned pinker than a jar with no leaves. What does that show?",
       "options": [
-       "The leaves in the dark gave out carbon dioxide",
        "The leaves in the dark took carbon dioxide in",
        "The dark turned the water pink",
+       "The leaves in the dark gave out carbon dioxide",
        "Leaves do nothing in the dark"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Pink means more carbon dioxide in the water. The leaves in the dark could not photosynthesise, but their cells kept respiring and gave out carbon dioxide. The choice that leaves do nothing in the dark is a common wrong idea."
      },
      "parent": "A claim says what happened. The evidence is what you saw. The reasoning joins the two with the science. Accept the child's own words, and help them add the missing part.",
@@ -2043,12 +2043,12 @@
       "t": "mcq",
       "q": "Why do all three jars get the same water and the same pinch of fertiliser?",
       "options": [
-       "So that light is the only thing that changes",
        "So that the water tastes the same",
        "So that the jars weigh the same",
+       "So that light is the only thing that changes",
        "So that the algae are not hungry"
       ],
-      "a": 0,
+      "a": 2,
       "why": "In a fair test, only one thing changes. If one jar had more fertiliser, it might go green for that reason and not because of light."
      },
      "context": "In this step, you fill the three jars and make everything the same except the light."
@@ -2230,12 +2230,12 @@
       "t": "mcq",
       "q": "Why do we pour all three glasses from the same jug of fridge-cold water?",
       "options": [
-       "So the water in every glass starts the same",
        "So the glasses get heavy",
+       "So the water in every glass starts the same",
        "So the bubbles are bigger",
        "So the warm water cools down"
       ],
-      "a": 0,
+      "a": 1,
       "why": "If the glasses held different water, the bubbles could come from the water itself. The same cold jug means any difference comes from the bowl."
      },
      "context": "In this step, you set up the three glasses in three bowls of different warmth."
@@ -2279,12 +2279,12 @@
       "t": "mcq",
       "q": "In the test, the warm water grew more bubbles than the cold water. What does this show?",
       "options": [
-       "Warm water holds less dissolved air",
        "Warm water has more air to start with",
+       "Warm water holds less dissolved air",
        "Cold water is full of air bubbles",
        "The bubbles come from the glass"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The glasses started with the same water. When some warmed up, the dissolved air came out as bubbles because warmer water cannot hold as much. A pond in hot weather has less dissolved oxygen for the same reason."
      },
      "think": "On a hot night, a pond has less oxygen to start with, and the fish and plants use oxygen faster. What would you do if you looked after the pond?",
@@ -2374,12 +2374,12 @@
       "t": "mcq",
       "q": "The polish print shows the shape of the leaf's skin. What does the polish do?",
       "options": [
-       "It sets into the shape of the skin, like a mould",
        "It paints the leaf green",
        "It kills the stomata",
-       "It makes the leaf grow"
+       "It makes the leaf grow",
+       "It sets into the shape of the skin, like a mould"
       ],
-      "a": 0,
+      "a": 3,
       "why": "The liquid polish fills the tiny bumps and dips of the skin. When it dries and is peeled off, it keeps the shape, like a mould. It does not change the leaf."
      },
      "context": "In this step, you make a print of the leaf's skin."
@@ -2495,12 +2495,12 @@
       "t": "mcq",
       "q": "A shade leaf is often bigger, thinner and darker green than a sun leaf. Which is the best reason?",
       "options": [
-       "It catches as much of the weak light as possible",
        "It wants to hide from the sun",
        "It was given more water",
+       "It catches as much of the weak light as possible",
        "It is older"
       ],
-      "a": 0,
+      "a": 2,
       "why": "In weak light, a wide, thin leaf with lots of chlorophyll catches more of the little light there is. A leaf in strong sun does not need to be as large and can be thicker to cope with the strong light."
      },
      "context": "In this step, you measure and compare the two leaves."
@@ -2714,12 +2714,12 @@
       "t": "mcq",
       "q": "Why do you breathe faster after jumping?",
       "options": [
-       "Your cells are using more oxygen and making more carbon dioxide",
        "Your lungs have shrunk",
        "The air has changed",
-       "You have more blood"
+       "You have more blood",
+       "Your cells are using more oxygen and making more carbon dioxide"
       ],
-      "a": 0,
+      "a": 3,
       "why": "Your muscles are doing respiration faster to release more energy. That needs more oxygen, and it makes more carbon dioxide to get rid of. Breathing faster brings the oxygen in and the carbon dioxide out."
      },
      "context": "In this step, you count your breaths three times."
@@ -2813,12 +2813,12 @@
       "t": "mcq",
       "q": "On the graph, the cloudy day line is lower than the sunny day line all day. What is the best reason?",
       "options": [
-       "Dim light means the plants and algae make less oxygen",
        "Clouds use up oxygen from the air",
        "Fish breathe more on cloudy days",
-       "The pond is cooler on cloudy days"
+       "The pond is cooler on cloudy days",
+       "Dim light means the plants and algae make less oxygen"
       ],
-      "a": 0,
+      "a": 3,
       "why": "Photosynthesis needs light. On a cloudy day, the pond's plants and algae make less oxygen, but everything in the pond still uses it. So the whole line sits lower."
      },
      "context": "In this step, you draw the two lines of practice numbers.",
@@ -2955,12 +2955,12 @@
       "t": "mcq",
       "q": "Why is the jar kept in bright light but out of direct sun?",
       "options": [
-       "The plants need light, but a closed jar in strong sun gets too hot",
        "Plants need no light in a jar",
        "Direct sun makes the soil dry",
+       "The plants need light, but a closed jar in strong sun gets too hot",
        "The glass needs to stay cool for the lid"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Plants need light for photosynthesis. But a sealed jar traps heat, so strong direct sun can overheat and cook the plants. Bright, indirect light is the safe middle."
      },
      "context": "In this step, you build the jar garden and seal it."
@@ -3091,12 +3091,12 @@
       "t": "mcq",
       "q": "A grower spends 50 coins on light level 3 and leaves carbon dioxide at level 1. What is the growth?",
       "options": [
-       "1, because carbon dioxide is still the lowest",
        "3, because light is the highest",
        "2, because it is the average",
-       "0, because nothing is raised"
+       "0, because nothing is raised",
+       "1, because carbon dioxide is still the lowest"
       ],
-      "a": 0,
+      "a": 3,
       "why": "Growth is the lowest of the three levels. The 50 coins on light were wasted while carbon dioxide stayed at level 1."
      },
      "context": "In this step, you try plans and find the growth for each."
@@ -3157,12 +3157,12 @@
    "t": "mcq",
    "p": "A jar of blue-purple cabbage water with breath in it turns pink. A jar with the same water and breath, with leaves in the light, ends up bluer than that jar. What does this show?",
    "opts": [
-    "The leaves in the light used up carbon dioxide",
     "The leaves gave out carbon dioxide",
+    "The leaves in the light used up carbon dioxide",
     "The light turned the water blue",
     "The breath changed itself"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Pink means more carbon dioxide. Bluer means less. The jar with leaves in the light lost carbon dioxide because photosynthesis used it.",
    "outcome": 1,
    "how": "e1",
@@ -3172,12 +3172,12 @@
    "t": "mcq",
    "p": "When is the dissolved oxygen in a still pond usually lowest?",
    "opts": [
-    "Just before sunrise",
     "At noon",
+    "Just before sunrise",
     "At about three in the afternoon",
     "Just after sunset"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The oxygen falls through the whole night, because nothing makes any and everything uses it. It is lowest just before the sun comes up.",
    "outcome": 2
   },
@@ -3185,12 +3185,12 @@
    "t": "mcq",
    "p": "Why is warm water a problem for pond fish on a hot night?",
    "opts": [
-    "It holds less oxygen, and the living things in it use oxygen faster",
     "It holds more oxygen, which is too much",
+    "It holds less oxygen, and the living things in it use oxygen faster",
     "It makes the plants stop breathing",
     "It makes the water heavy"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Warm water holds less dissolved gas, and the living things in warm water use oxygen faster. Both lower the oxygen at the same time.",
    "outcome": 2,
    "how": "e3",
@@ -3200,12 +3200,12 @@
    "t": "mcq",
    "p": "Where in a cell does respiration mainly happen?",
    "opts": [
-    "In the mitochondria",
     "In the chloroplasts",
+    "In the mitochondria",
     "In the cell wall",
     "In the stomata"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Mitochondria break sugar down with oxygen to release energy. Chloroplasts are where photosynthesis happens. Stomata are holes in the leaf, not parts of a cell.",
    "outcome": 3
   },
@@ -3213,12 +3213,12 @@
    "t": "mcq",
    "p": "A graph of photosynthesis rises with light, then goes flat. A grower adds carbon dioxide and the graph rises again. What was limiting the plants before?",
    "opts": [
-    "Carbon dioxide",
     "Light",
     "Soil colour",
+    "Carbon dioxide",
     "The age of the plant"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The flat part means light was no longer the limit. When adding carbon dioxide made the rate rise, carbon dioxide was the limiting factor there.",
    "outcome": 4
   },
@@ -3226,12 +3226,12 @@
    "t": "mcq",
    "p": "Why do pineapples and cactuses open their stomata at night?",
    "opts": [
-    "It is cooler, so they lose less water while taking in carbon dioxide",
     "They need moonlight to make sugar",
     "They cannot open them in the day because they are asleep",
-    "They breathe out more oxygen at night"
+    "They breathe out more oxygen at night",
+    "It is cooler, so they lose less water while taking in carbon dioxide"
    ],
-   "a": 0,
+   "a": 3,
    "why": "CAM plants take in carbon dioxide at night, when little water escapes, and store it. They keep the stomata shut in the hot day and use the stored carbon dioxide with sunlight.",
    "outcome": 5
   },
@@ -3239,12 +3239,12 @@
    "t": "mcq",
    "p": "Sugarcane stays green and grows fast in hot, bright weather. What helps it do so?",
    "opts": [
-    "A pump that gathers carbon dioxide, so photosynthesis stays fast even when the stomata are only a little open",
     "More chlorophyll than any other plant",
+    "A pump that gathers carbon dioxide, so photosynthesis stays fast even when the stomata are only a little open",
     "It does not need light",
     "It does not do respiration"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Sugarcane is a C4 plant. Its carbon dioxide pump keeps a crowd of carbon dioxide round rubisco, so it works well in heat with its stomata partly shut.",
    "outcome": 5
   },
@@ -3252,12 +3252,12 @@
    "t": "mcq",
    "p": "Coal and oil are called fossil fuels. Which is the best description of where their energy came from?",
    "opts": [
-    "Sunlight caught by plants and tiny sea creatures millions of years ago",
     "Heat from inside the Earth only",
+    "Sunlight caught by plants and tiny sea creatures millions of years ago",
     "The Moon",
     "Electricity stored in rocks"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The carbon in coal and oil was taken from the air by photosynthesis long ago. The stored energy is that ancient sunlight.",
    "outcome": 6
   },
@@ -3265,12 +3265,12 @@
    "t": "mcq",
    "p": "Each year, the carbon dioxide in the world's air dips in the northern spring and summer. What is the best reason?",
    "opts": [
-    "Land plants in the north are growing and taking carbon dioxide in",
     "Fewer people breathe in summer",
+    "Land plants in the north are growing and taking carbon dioxide in",
     "The air gets colder",
     "The oceans stop taking in gas"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Most of the land lies in the north. When the leaves open, photosynthesis pulls carbon dioxide out of the air. In autumn the leaves fall and rot, and it goes back.",
    "outcome": 6
   },
@@ -3285,12 +3285,12 @@
    "t": "mcq",
    "p": "In 1882, Theodor Engelmann shone a rainbow on a thread of green alga with oxygen-loving bacteria around it. Why did the bacteria gather in the red and blue parts?",
    "opts": [
-    "Those colours made the alga give out the most oxygen, and the bacteria swim towards oxygen",
     "The bacteria like to eat red and blue light",
     "Those colours are the warmest",
+    "Those colours made the alga give out the most oxygen, and the bacteria swim towards oxygen",
     "Green light is poisonous to bacteria"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The bacteria were a living instrument. They gather where there is most oxygen. The crowds in the red and blue showed that chlorophyll uses those colours best.",
    "outcome": 7
   }
@@ -3579,6 +3579,113 @@
    "used_in": [
     "e3"
    ]
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Sun Leaf and Shade Leaf: same plant, two kinds of leaf, The Pond's Day on Paper: draw a line graph of oxygen, Sealed Jar Garden: a garden that recycles its own air. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "a2",
+    "a5",
+    "p1"
+   ],
+   "plan": "Get it before Sun Leaf and Shade Leaf: same plant, two kinds of leaf."
+  },
+  {
+   "id": "b-modelling-clay-or-plasticine",
+   "item": "Modelling clay or plasticine",
+   "kind": "material",
+   "why": "Used in From Air to Lamp Black: the carbon in a flame. About ₹40 to ₹120. Atta dough mixed with a little salt works.",
+   "url": "https://www.amazon.in/s?k=modelling+clay+plasticine",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before From Air to Lamp Black: the carbon in a flame."
+  },
+  {
+   "id": "b-baking-soda",
+   "item": "Baking soda",
+   "kind": "material",
+   "why": "Used in Breath Colours: does a leaf use up the breath you blow into water?. About ₹20 to ₹40. Check the kitchen first.",
+   "url": "https://www.amazon.in/s?k=baking+soda",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before Breath Colours: does a leaf use up the breath you blow into water?."
+  },
+  {
+   "id": "b-vinegar",
+   "item": "Vinegar",
+   "kind": "material",
+   "why": "Used in Breath Colours: does a leaf use up the breath you blow into water?. About ₹40 to ₹80. Lemon juice works for many tests.",
+   "url": "https://www.amazon.in/s?k=white+vinegar",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before Breath Colours: does a leaf use up the breath you blow into water?."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in Stomata Prints: see the tiny doors in a leaf, Greenhouse Budget: spend 100 coins to grow the most tomatoes. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "a1",
+    "c1"
+   ],
+   "plan": "Get it before Stomata Prints: see the tiny doors in a leaf."
+  },
+  {
+   "id": "b-graph-paper",
+   "item": "Graph paper",
+   "kind": "material",
+   "why": "Used in Sun Leaf and Shade Leaf: same plant, two kinds of leaf, The Pond's Day on Paper: draw a line graph of oxygen. About ₹10 to ₹30. Draw squares on plain paper.",
+   "url": "https://www.amazon.in/s?k=graph+paper+notebook",
+   "used_in": [
+    "a2",
+    "a5"
+   ],
+   "plan": "Get it before Sun Leaf and Shade Leaf: same plant, two kinds of leaf."
+  },
+  {
+   "id": "b-a-small-toy-car-with-free-ro",
+   "item": "A small toy car with free-rolling wheels",
+   "kind": "material",
+   "why": "Used in Greenhouse Budget: spend 100 coins to grow the most tomatoes. About ₹100 to ₹200. A marble or a round torch cell works.",
+   "url": "https://www.amazon.in/s?k=toy+car+pull+back+small",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before Greenhouse Budget: spend 100 coins to grow the most tomatoes."
+  },
+  {
+   "id": "b-iron-nails-or-iron-filings",
+   "item": "Iron nails or iron filings",
+   "kind": "material",
+   "why": "Used in Stomata Prints: see the tiny doors in a leaf. About ₹20 to ₹80. Short steel nails from a hardware shop.",
+   "url": "https://www.amazon.in/s?k=iron+filings+science",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Get it before Stomata Prints: see the tiny doors in a leaf."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

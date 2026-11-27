@@ -1,9 +1,9 @@
 # Animal life cycles compared: how many young, how much care, how long a life
 `sci.animals.animal-life-cycles.L4`
 
-**Summary.** Do big animals really live longer than small ones, and do all animals begin life the same way? In this unit you will lay out a lifespan line in string, test whether many young or a few cared-for young survive better, and sort sixteen animals.
+**Summary.** Do big animals really live longer than small ones, and do all animals begin life the same way? In this lesson you will lay out a lifespan line in string, test whether many young or a few cared-for young survive better, and sort sixteen animals.
 
-**Intro.** *A grown mayfly may live for only a day. A hen lives for about eight years. A giant tortoise can live for more than a hundred years. They all began as an egg. Why do lives that start the same way end up so different in length?* Every animal goes round a life cycle, from egg or birth, to growing up, to having young of their own. In this unit you compare the cycles of mammals, birds, insects and amphibians. You lay out how long animals live on a piece of string, you play a dice game to test whether many young or few cared-for young leave more survivors, and you meet animals that live for a day and animals that live for centuries.
+**Intro.** *A grown mayfly may live for only a day. A hen lives for about eight years. A giant tortoise can live for more than a hundred years. They all began as an egg. Why do lives that start the same way end up so different in length?* Every animal goes round a life cycle, from egg or birth, to growing up, to having young of their own. In this lesson you compare the cycles of mammals, birds, insects and amphibians. You lay out how long animals live on a piece of string, you play a dice game to test whether many young or few cared-for young leave more survivors, and you meet animals that live for a day and animals that live for centuries.
 
 ## Learning outcomes
 0. I can compare how mammals, birds, insects and amphibians begin life, grow up and have young of their own.
@@ -519,7 +519,7 @@ That evening, Jincy took the notebook home. On the last page, under the hundred 
 ## Worksheets
 ### Animal life cycles compared (core) (core, 16 questions)
 1. (mcq) Which group of animals lays soft eggs covered in jelly, usually in water?  
-   Options: Amphibians / Birds / Mammals  
+   Options: Birds / Mammals / Amphibians  
    **Answer:** Amphibians. *Why:* Frogs, toads and newts lay jelly-covered eggs with no shell, so they need water or very damp places. Birds lay hard-shelled eggs, and most mammals do not lay eggs at all.
 2. (truefalse) All mammals give birth to live young.  
    **Answer:** False. *Why:* False. Platypuses and echidnas are mammals that lay eggs and feed the hatchlings on milk. Most mammals do give birth to live young, but there are exceptions.
@@ -530,21 +530,21 @@ That evening, Jincy took the notebook home. On the last page, under the hundred 
 5. (match) Match each newborn to what she is like.  
    **Answer:** Calf → stands within an hour; Kitten → blind and needs her mother; Hen's chick → pecks at food on day one; Sparrow chick → needs feeding many times a day. *Why:* Calves and hen's chicks are ready-born. Kittens and sparrow chicks are helpless-born and depend on their parents for food and warmth.
 6. (mcq) Which of these animals has a pupa stage in her life cycle?  
-   Options: Housefly / Grasshopper / Dragonfly  
+   Options: Grasshopper / Dragonfly / Housefly  
    **Answer:** Housefly. *Why:* A housefly goes from egg to maggot to pupa to adult. A grasshopper and a dragonfly grow up as nymphs, without a pupa.
 7. (order) Put the stages of a butterfly's life cycle in order.  
    **Answer:** ['Egg on a leaf', 'Caterpillar eating', 'Pupa (chrysalis)', 'Adult butterfly']. *Why:* A butterfly goes through four stages. The caterpillar grows, the pupa is where the body is rebuilt, and the adult flies and lays eggs.
 8. (odd) Which is the odd one out, and why? Butterfly, housefly, honeybee, cockroach.  
    **Answer:** Cockroach, because she has no pupa. The other three do.. *Why:* A butterfly, a housefly and a honeybee go through complete metamorphosis with a pupa. A cockroach grows by shedding her skin as a nymph, with no pupa.
 9. (mcq) Which of these animals has the longest lifespan?  
-   Options: Giant tortoise / Hen / House mouse  
+   Options: Hen / Giant tortoise / House mouse  
    **Answer:** Giant tortoise. *Why:* A giant tortoise can live more than 100 years. A hen lives about 8 years and a house mouse about 2.
 10. (count) On the Lifespan Line, a dog's string is 12 centimetres and an elephant's string is 60 centimetres. How many times as long is the elephant's string?  
    **Answer:** 5. *Why:* 60 divided by 12 is 5. The elephant's string is 5 times as long, because she lives about 5 times as many years.
 11. (write) A friend says 'bigger animals always live longer'. Give one animal that shows this is not always true, and explain.  
    **Answer:** A parakeet is small but can live 20 years or more, longer than a dog. Or a giant tortoise outlives an elephant. A naked mole-rat is mouse-sized and lives over 30 years.. *Why:* A strong answer names an animal that breaks the pattern and compares the two animals. The pattern is true for many mammals, but not for all animals.
 12. (mcq) A frog lays 1,000 eggs and gives no care. An elephant has one calf and cares for her for years. What is true about the two?  
-   Options: Both can keep their kind going / Only the elephant's way works / Only the frog's way works  
+   Options: Only the elephant's way works / Both can keep their kind going / Only the frog's way works  
    **Answer:** Both can keep their kind going. *Why:* Both ways work, because in a steady population an average mother leaves about two grown-up young. The frog loses most eggs, and the elephant protects her few.
 13. (truefalse) A frog's tadpoles usually get a lot of care from their mother.  
    **Answer:** False. *Why:* False. Most frogs lay their eggs and leave. A few amphibians, such as some caecilians and some frogs, guard their eggs, but most do not.
@@ -565,7 +565,7 @@ That evening, Jincy took the notebook home. On the last page, under the hundred 
 4. (match) Match each animal to her lifespan.  
    **Answer:** Honeybee worker in summer → about 6 weeks; House mouse → about 2 years; Asian elephant → about 60 years; Giant tortoise → more than 100 years. *Why:* Lifespans run from weeks to over a century. Small animals tend to live shorter lives and large animals longer lives, but a tortoise outlives an elephant.
 5. (mcq) The bar chart shows one class's totals after three rounds of the Survival Cup. What does the chart show?  
-   Options: The three families had similar totals, and the numbers vary by chance / The frog family is always best / The elephant family always loses  
+   Options: The frog family is always best / The three families had similar totals, and the numbers vary by chance / The elephant family always loses  
    **Answer:** The three families had similar totals, and the numbers vary by chance. *Why:* The totals are close, 6, 7 and 5. Dice rolls vary by chance, so a difference of one or two is not proof that one family is better. More rounds would give a fairer picture.
 6. (count) A dog's heart beats 100 times a minute. Take a year as 500,000 minutes. How many million beats is that in one year?  
    **Answer:** 50. *Why:* 100 times 500,000 is 50,000,000, which is 50 million beats in a year.
@@ -576,7 +576,7 @@ That evening, Jincy took the notebook home. On the last page, under the hundred 
 9. (write) A zoo says its tortoise is 250 years old, but has no birth record. How much would you trust the age, and what would you want to check?  
    **Answer:** I would trust it less, because there is no record. I would want to see old photos or papers, measure the age in a way that gives a range, or compare with how long other tortoises have lived.. *Why:* A strong answer says that an age needs a record or a measurement, not just a story. It suggests a way to check, such as a dated record, and says what a range is.
 10. (mcq) An animal's 'average lifespan' is 5 years but her 'maximum lifespan' is 15. What does that mean?  
-   Options: Most die young, but a few live much longer / She always lives 5 years / She lives 15 years in the wild  
+   Options: She always lives 5 years / Most die young, but a few live much longer / She lives 15 years in the wild  
    **Answer:** Most die young, but a few live much longer. *Why:* The average is the typical age at death. The maximum is the oldest ever recorded. Most wild animals die long before the maximum, from hunger, disease or being eaten.
 11. (order) Put these in order for a sea turtle on a beach, from first to last.  
    **Answer:** ['The mother lays about 100 eggs in a nest in the sand', 'The eggs stay in warm sand for about 45 to 60 days', 'The hatchlings come out at night', 'The hatchlings crawl to the sea']. *Why:* A turtle mother lays her eggs and leaves them. The warm sand incubates them. The hatchlings come out together and head to the bright horizon, which should be the sea.
@@ -593,7 +593,7 @@ That evening, Jincy took the notebook home. On the last page, under the hundred 
    **Answer:** So they do not compete for the same food. *Why:* One idea is that a larva and an adult eat different foods in different places. That way the young do not compete with their parents. A caterpillar eats leaves to grow, and a butterfly drinks nectar.
 ### Animal life cycles compared (challenge) (challenge, 16 questions)
 1. (mcq) An ocean sunfish lays about 300 million eggs. If the sunfish population stays steady, about how many of an average mother's young grow up to have young themselves?  
-   Options: About 2 / About 1,000 / About 300 million  
+   Options: About 1,000 / About 300 million / About 2  
    **Answer:** About 2. *Why:* If the population is steady, each average mother is replaced by about two grown-up young over her life. All the rest are eaten or die. The huge number of eggs is how she gets those two.
 2. (truefalse) Every mammal's heart beats exactly one billion times in a lifetime.  
    **Answer:** False. *Why:* False. The pattern is rough. Most mammals get between about half a billion and one and a half billion beats. Humans get about three times as many, and bats and many birds get more.
@@ -602,7 +602,7 @@ That evening, Jincy took the notebook home. On the last page, under the hundred 
 4. (count) A horse's heart beats about 40 times a minute. Take a year as 525,000 minutes. If a horse lives 25 years, about how many million beats is that?  
    **Answer:** 525. *Why:* 40 times 525,000 is 21,000,000 beats in a year. Times 25 is 525,000,000, which is 525 million.
 5. (mcq) In 1993, Steven Austad found that opossums on an island with no predators lived longer than mainland opossums. What does this suggest?  
-   Options: Danger from outside can shape how long a kind of animal lives / Island food makes animals immortal / Opossums have special hearts  
+   Options: Island food makes animals immortal / Opossums have special hearts / Danger from outside can shape how long a kind of animal lives  
    **Answer:** Danger from outside can shape how long a kind of animal lives. *Why:* Where animals are eaten young, evolution gives them little reason to build a body that lasts. Where danger is low, long life can evolve. This is one idea, supported by evidence in opossums.
 6. (perspective) Two scientists are discussing Hydra, a small freshwater animal that seems not to age in the lab.  
    **Answer:** Answers vary. A strong answer asks how long the study ran, how many Hydra were watched, and whether they were tested in the wild. It says that more evidence is needed.. *Why:* Both views have a point. A claim that something never happens is hard to prove, because we can only watch for so long. It is a good example of an open question.
@@ -635,10 +635,10 @@ That evening, Jincy took the notebook home. On the last page, under the hundred 
 
 ## Quiz
 1. (mcq) Which of these mammals lays eggs?  
-   Options: Platypus / Cow / Bat  
+   Options: Cow / Bat / Platypus  
    **Answer:** Platypus. *Why:* A platypus is a monotreme, a mammal that lays eggs and feeds the hatchlings on milk. Cows and bats give birth to live young.
 2. (mcq) A newborn kitten is blind and cannot walk. What kind of newborn is she?  
-   Options: Helpless-born / Ready-born / Egg-born  
+   Options: Ready-born / Helpless-born / Egg-born  
    **Answer:** Helpless-born. *Why:* A kitten is helpless-born. She needs her mother for food and warmth. A calf is ready-born, and a hen's chick can feed herself on the first day.
 3. (mcq) Which stage does a grasshopper NOT have in her life cycle?  
    Options: Pupa / Egg / Nymph  
@@ -647,13 +647,13 @@ That evening, Jincy took the notebook home. On the last page, under the hundred 
    Options: It is taken apart and rebuilt as a butterfly / It rests and does not change / It stops living for a while  
    **Answer:** It is taken apart and rebuilt as a butterfly. *Why:* A pupa looks still from outside, but inside the body is being rebuilt. It is one of the busiest times in the insect's life.
 5. (mcq) On a line with one centimetre of string for every year, how long is the string for an elephant that lives 60 years?  
-   Options: 60 centimetres / 6 centimetres / 600 centimetres  
+   Options: 6 centimetres / 60 centimetres / 600 centimetres  
    **Answer:** 60 centimetres. *Why:* One centimetre stands for one year, so 60 years is 60 centimetres.
 6. (mcq) Which statement about lifespan is best supported by the evidence?  
-   Options: Bigger mammals tend to live longer, but there are exceptions / Bigger animals always live longer / Size has nothing to do with lifespan  
+   Options: Bigger animals always live longer / Size has nothing to do with lifespan / Bigger mammals tend to live longer, but there are exceptions  
    **Answer:** Bigger mammals tend to live longer, but there are exceptions. *Why:* Across many mammals, a mouse lives about 2 years, a dog 12 and an elephant 60. But parakeets, bats and tortoises are exceptions.
 7. (mcq) The Survival Cup gave the frog family 18 eggs and the elephant family 3 calves. What did it show?  
-   Options: Many young with no care and few young with care can leave similar numbers / A frog always has more young left / An elephant always has more young left  
+   Options: A frog always has more young left / Many young with no care and few young with care can leave similar numbers / An elephant always has more young left  
    **Answer:** Many young with no care and few young with care can leave similar numbers. *Why:* In the model, 18 eggs that each needed a 5 or 6 to live left about as many young as 3 calves that each needed only a 2 or more. Both ways can work.
 8. (mcq) A pond has the same number of frogs every year. About how many of each mother's tadpoles grow up and have young?  
    Options: About 2 / About 100 / About 1,000  
@@ -662,13 +662,13 @@ That evening, Jincy took the notebook home. On the last page, under the hundred 
    Options: By measuring radioactive carbon in the lens of her eye / By counting the rings on her fin / By weighing her  
    **Answer:** By measuring radioactive carbon in the lens of her eye. *Why:* The lens of the eye is made in the shark's first years and holds a record of the carbon in the sea at that time. The age is an estimate with a wide range.
 10. (mcq) Can you tell an adult tortoise's age by counting the rings on her shell?  
-   Options: No, rings are added when food and rain change, and wear off / Yes, one ring for each year / Yes, but only for male tortoises  
+   Options: Yes, one ring for each year / Yes, but only for male tortoises / No, rings are added when food and rain change, and wear off  
    **Answer:** No, rings are added when food and rain change, and wear off. *Why:* Shell rings are not a reliable clock for an adult. They grow with food and weather, and they wear away.
 11. (mcq) A mouse lives about 2 years with a heart rate near 600 beats a minute. An elephant lives about 60 years with a heart rate near 30 beats a minute. Which is closest to the truth?  
-   Options: Their total heartbeats in a life are about the same, around half a billion to a billion / The elephant gets about 30 times as many / The mouse gets about 20 times as many  
+   Options: The elephant gets about 30 times as many / Their total heartbeats in a life are about the same, around half a billion to a billion / The mouse gets about 20 times as many  
    **Answer:** Their total heartbeats in a life are about the same, around half a billion to a billion. *Why:* The mouse's heart is about 20 times faster, and the elephant lives about 30 times as long. So the two effects nearly balance, and the totals come out close.
 12. (mcq) What does the heartbeat pattern NOT show?  
-   Options: That every animal's heart stops after one billion beats / That a mouse's heart beats faster than an elephant's / That bigger mammals tend to live longer  
+   Options: That a mouse's heart beats faster than an elephant's / That bigger mammals tend to live longer / That every animal's heart stops after one billion beats  
    **Answer:** That every animal's heart stops after one billion beats. *Why:* The pattern is rough. Humans get about three times as many beats, and bats and many birds get more. A heart is not a counter that stops at a fixed number.
 
 ## Applications
@@ -737,6 +737,11 @@ Fast Lives, Slow Lives (sci.animals.L4): Topic-level song
 - [A ball of jute twine or cotton string](https://www.amazon.in/s?k=jute+twine+ball) (material): For the Lifespan Line, which needs about 9 metres. Used in a1. 
 - [A small magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): For the Banana Jar Nursery and the Moult and Shell Hunt, to see maggots and empty skins. Used in p1, a4. 
 - [A picture book on animal life cycles](https://www.amazon.in/s?k=animal+life+cycles+book+for+kids) (book): To read together after the unit, for more life cycles from around the world. Used in a2. Read one life cycle each evening and add it to the table from the Four Life Cycles activity.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Lifespan Line: one centimetre of string for every year. About ₹10 to ₹30. Any school ruler is fine. Used in a1. Get it before The Lifespan Line: one centimetre of string for every year.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in The Lifespan Line: one centimetre of string for every year. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in a1. Get it before The Lifespan Line: one centimetre of string for every year.
+- [Clean sand (a small bag)](https://www.amazon.in/s?k=play+sand+small+bag) (material): Used in Save the Nests: protect 100 turtle eggs on a model beach. About ₹20 to ₹60. Fine soil sieved from a pot works. Used in c1. Get it before Save the Nests: protect 100 turtle eggs on a model beach.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Survival Cup: many young, or a few cared-for young?, Save the Nests: protect 100 turtle eggs on a model beach. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1, c1. Get it before The Survival Cup: many young, or a few cared-for young?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What do we call a mammal baby's time growing inside the mother? → Gestation.
@@ -754,7 +759,7 @@ Fast Lives, Slow Lives (sci.animals.L4): Topic-level song
 
 ## Sources
 - Founder's notes in ideas/by_topic/growing-up-and-having-young.md: the Nest Watch idea (looking at nests and discussing egg care), used in the Moult and Shell Hunt; the Lifecycle Board Game idea and the stage-matching cards, used in The Waiting Line; the Tree Rings Talk idea, used in the rings-and-age claim
-- The Class 3 unit on animal life cycles, which this unit builds on: egg, caterpillar, tadpole and chick cycles, and the two kinds of metamorphosis. This unit does not repeat its experiments or its story
+- The Class 3 unit on animal life cycles, which this lesson builds on: egg, caterpillar, tadpole and chick cycles, and the two kinds of metamorphosis. This lesson does not repeat its experiments or its story
 - The notebook entry for animal life cycles, which asks for a comparison of mammals, birds, insects and amphibians and of how long animals live
 - NCERT and Cambridge materials on animal life cycles, for coverage only. Their text is not copied
 - Levine, H. J., 'Rest heart rate and life expectancy', Journal of the American College of Cardiology 30, 1997 (the rough billion-heartbeats pattern in mammals)

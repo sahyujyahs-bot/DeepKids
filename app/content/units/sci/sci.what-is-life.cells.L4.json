@@ -609,11 +609,11 @@
       "t": "mcq",
       "q": "A cell has a wall, chloroplasts and a big vacuole. Which kind of cell is she?",
       "options": [
-       "A plant cell",
        "An animal cell",
-       "A bacterium"
+       "A bacterium",
+       "A plant cell"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Those three parts belong to plant cells. Animal cells have no wall and no chloroplasts, and a bacterium has no nucleus or big vacuole. If you picked animal, remember the three things that only plant cells have: a wall, chloroplasts and a big vacuole."
      },
      "context": "In this step you finish the game and count the cards."
@@ -777,11 +777,11 @@
       "t": "mcq",
       "q": "Which visitor needs the cell to spend energy to get across?",
       "options": [
-       "Sodium that must be pushed out",
        "Oxygen going in",
+       "Sodium that must be pushed out",
        "Carbon dioxide leaving"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A pump uses energy to push something across against the way it would naturally go. Oxygen and carbon dioxide slip straight through the fat layer, so they need none. If you picked oxygen, look at the PASS cards again."
      },
      "context": "This is the last step of Gatekeeper. You count the points and think about what a skin does.",
@@ -813,11 +813,11 @@
      "t": "mcq",
      "p": "Where does a bacterium keep her DNA?",
      "opts": [
-      "Inside a round nucleus",
       "Floating loose in the cytoplasm",
+      "Inside a round nucleus",
       "Inside the cell membrane"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Bacteria have no nucleus. Their DNA is a loop that floats in the cytoplasm. Plant, animal and fungus cells keep their DNA in a nucleus.",
      "outcome": 0
     },
@@ -867,11 +867,11 @@
      "t": "mcq",
      "p": "A potato strip goes floppy in strong salt water. What happened to the water that was inside its cells?",
      "opts": [
-      "Some of it moved out into the salty water",
       "More of it moved in from the salty water",
-      "It turned into salt"
+      "It turned into salt",
+      "Some of it moved out into the salty water"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Strong salt water has more dissolved stuff than the inside of the cells. Water moves through the cell skin towards the saltier side, so the cells lose water and the strip goes soft.",
      "outcome": 2
     },
@@ -954,11 +954,11 @@
      "t": "mcq",
      "p": "Why does a limp coriander bunch stand up again when you put the stems in water?",
      "opts": [
-      "The leaf cells fill with water and push against their walls",
       "The leaf cells grow new walls",
+      "The leaf cells fill with water and push against their walls",
       "The leaf cells turn green again"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Cells that have lost water are soft. When water comes back, the vacuoles fill and push on the walls, and the cells and leaf go firm.",
      "outcome": 2
     },
@@ -1171,11 +1171,11 @@
      "t": "mcq",
      "p": "Evert Gorter and François Grendel spread the fat from red blood cells on water. It covered about twice the surface of the cells. What did they conclude?",
      "opts": [
-      "The skin of a cell is two layers of fat thick",
       "The cells were twice as big as they looked",
-      "The cells had no skin"
+      "The cells had no skin",
+      "The skin of a cell is two layers of fat thick"
      ],
-     "a": 0,
+     "a": 2,
      "why": "If the fat could cover twice the surface of the cells, then the skin must have been two layers thick. Their numbers were rough, but electron microscopes later showed two layers.",
      "outcome": 6
     },
@@ -1183,11 +1183,11 @@
      "t": "mcq",
      "p": "Why did scientists in the 1870s say that a living cell skin must exist, even though nobody could see it?",
      "opts": [
-      "Water and dissolved stuff moved in and out as though through a skin",
       "They had photographed it",
+      "Water and dissolved stuff moved in and out as though through a skin",
       "A book said so"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Wilhelm Pfeffer and others saw that water moved in a way only a thin skin could explain. Even when no tool can show a thing, scientists can still tell it is there from what it does.",
      "outcome": 6
     },
@@ -1308,11 +1308,11 @@
      "t": "mcq",
      "p": "Fat molecules have a head that likes water and a tail that avoids water. In water, why do they form a double layer with the tails inside?",
      "opts": [
-      "The tails hide from the water between the two layers of heads",
       "The heads push the tails together",
+      "The tails hide from the water between the two layers of heads",
       "Fat molecules always stack in twos"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The heads face the water on both sides and the tails tuck away from it in the middle. This happens on its own, which is one reason scientists think skins formed early.",
      "outcome": 2
     },
@@ -1355,11 +1355,11 @@
      "t": "mcq",
      "p": "Which of these questions about the first cell are scientists still debating?",
      "opts": [
-      "Whether the skin, the instructions or the chemistry came first",
       "Whether the first cells lived more than three billion years ago",
+      "Whether the skin, the instructions or the chemistry came first",
       "Whether fat molecules can form hollow bubbles in water"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Scientists agree that the first cells appeared more than 3.5 billion years ago, and that fat bubbles form easily. What came first is still open.",
      "outcome": 7
     },
@@ -1518,11 +1518,11 @@
       "t": "mcq",
       "q": "The boiled water in the jar was clear on day 1 and cloudy on day 3. What does the cloudiness show?",
       "options": [
-       "Living things from the pond water and the grass have been growing",
        "The grass has dissolved",
+       "Living things from the pond water and the grass have been growing",
        "The water has got old"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Boiling kills the microbes in the water. The pond water and the grass brought new ones, and they eat and divide, so the water turns cloudy. If you picked dissolved grass, look at whether the grass is still in the jar."
      },
      "context": "This is the last step of the Hay Pond. You look back at your photos and think about who lives there.",
@@ -1655,11 +1655,11 @@
       "t": "mcq",
       "q": "Why do we measure the strips before they go in the cups?",
       "options": [
-       "So we know how stiff each strip was at the start",
        "To make the strips wet",
-       "So the strips know the way"
+       "So the strips know the way",
+       "So we know how stiff each strip was at the start"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Without a starting number, a change cannot be measured. The start is what each later reading is compared with."
      },
      "context": "In this step you measure how stiff each strip is before the test, and then start the test."
@@ -1850,11 +1850,11 @@
       "t": "mcq",
       "q": "Why do we measure around the egg with the same string every time?",
       "options": [
-       "So the numbers can be compared fairly",
        "Because string is waterproof",
+       "So the numbers can be compared fairly",
        "So the egg stays still"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The same method each time means any change in the numbers comes from the egg, not from measuring in a different way."
      },
      "context": "In this step you measure the egg with no shell and put it into plain water."
@@ -1979,11 +1979,11 @@
       "t": "mcq",
       "q": "A limp herb stands up again in plain water. What has changed inside the leaf?",
       "options": [
-       "The cells have filled with water and gone firm",
        "The cells have grown new walls",
+       "The cells have filled with water and gone firm",
        "The cells have turned green"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A limp leaf has cells that have lost water. When water comes back, the vacuoles fill and push on the cell walls, and the leaf stands up. If you picked new walls, notice how quickly it happened, in only half an hour."
      },
      "context": "In this step you set up the two tumblers and watch the herbs. One tumbler has plain water and one has salt water."
@@ -2072,11 +2072,11 @@
       "t": "mcq",
       "q": "Why does crushed ice melt faster than a whole cube that has the same amount of ice?",
       "options": [
-       "It has more surface for the warmth to reach",
        "It is colder to start with",
-       "It has less water in it"
+       "It has less water in it",
+       "It has more surface for the warmth to reach"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Warmth gets into the ice through its surface. The same amount of ice, crushed into small pieces, has far more surface. If you picked colder, remember that both cubes came from the same tray."
      },
      "context": "In this step you watch the race and say why one won."
@@ -2173,11 +2173,11 @@
       "t": "mcq",
       "q": "Which parts does the plant cell model have that the animal cell model does not?",
       "options": [
-       "The box, the green peas and the big water bag",
        "The curd, the dough ball and the beans",
+       "The box, the green peas and the big water bag",
        "The zip bag and the curd"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A plant cell has a cell wall, chloroplasts and a big vacuole. Animal cells have the membrane, cytoplasm, nucleus and mitochondria, as plant cells do, but no wall or chloroplasts."
      },
      "context": "In this step you build both cells. The animal cell has a bag for a skin. The plant cell also has a box for a wall."
@@ -2284,11 +2284,11 @@
       "t": "mcq",
       "q": "Why did the raisins in plain water swell?",
       "options": [
-       "Water moved into their sugary cells",
        "The raisins grew new cells overnight",
-       "Air filled the raisins"
+       "Air filled the raisins",
+       "Water moved into their sugary cells"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A raisin's cells hold a lot of dissolved sugar. Plain water has less, so water moves in through the skins of the cells. The cells swell. Growing new cells would take far longer."
      },
      "context": "In this step you compare the raisins. You say what the water did."
@@ -2328,11 +2328,11 @@
    "t": "mcq",
    "p": "Which three things do almost all cells have?",
    "opts": [
-    "A membrane, cytoplasm and DNA",
     "A wall, a leaf and a root",
+    "A membrane, cytoplasm and DNA",
     "A nucleus, a brain and a heart"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Every cell has a membrane for a skin, cytoplasm for her working jelly, and DNA for her instructions. Bacteria have no nucleus, and not every cell has a wall.",
    "outcome": 0
   },
@@ -2340,11 +2340,11 @@
    "t": "mcq",
    "p": "What is the main job of the cell membrane?",
    "opts": [
-    "To decide what goes in and out of the cell",
     "To make sugar from sunlight",
-    "To store the DNA"
+    "To store the DNA",
+    "To decide what goes in and out of the cell"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The membrane is the skin of the cell. It lets some things pass, helps some across, and stops the rest. Making sugar is the job of chloroplasts and storing DNA is the job of the nucleus.",
    "outcome": 0
   },
@@ -2364,11 +2364,11 @@
    "t": "mcq",
    "p": "A potato strip stays stiff in plain water but goes soft in salt water. What is the best explanation?",
    "opts": [
-    "Water leaves the cells of the strip and goes into the salty water",
     "The salt makes the potato rot quickly",
+    "Water leaves the cells of the strip and goes into the salty water",
     "The potato drinks the salt and gets heavy"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Strong salt water has more dissolved stuff than the potato cells have. Water moves through the cell skins towards the saltier side, so the cells go soft. Rot would take days.",
    "outcome": 3
   },
@@ -2376,11 +2376,11 @@
    "t": "mcq",
    "p": "Which sentence about water and a cell's skin is correct?",
    "opts": [
-    "Water moves through the skin in both directions and ends up on the side with more dissolved stuff",
     "Water can only enter a cell and can never leave",
-    "Water cannot pass through a cell's skin at all"
+    "Water cannot pass through a cell's skin at all",
+    "Water moves through the skin in both directions and ends up on the side with more dissolved stuff"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Water crosses the membrane both ways all the time. More ends up on the side that has more dissolved stuff. This is osmosis.",
    "outcome": 2
   },
@@ -2400,11 +2400,11 @@
    "t": "mcq",
    "p": "Which single-celled living being has chloroplasts and swims with a tail?",
    "opts": [
-    "Euglena",
     "Amoeba",
+    "Euglena",
     "Yeast"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A euglena makes sugar in the light like a plant and swims towards the light like an animal. An amoeba flows along without a tail, and yeast does not swim.",
    "outcome": 4
   },
@@ -2412,11 +2412,11 @@
    "t": "mcq",
    "p": "How does a paramecium get rid of the extra water that flows into her?",
    "opts": [
-    "A small pump called a contractile vacuole pushes it out",
     "She drinks it",
-    "Her wall squeezes it out"
+    "Her wall squeezes it out",
+    "A small pump called a contractile vacuole pushes it out"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Pond water has less dissolved stuff than her insides, so water keeps flowing in. Her contractile vacuole collects it and pumps it out again and again.",
    "outcome": 4
   },
@@ -2436,11 +2436,11 @@
    "t": "mcq",
    "p": "Which of these has no nucleus?",
    "opts": [
-    "A bacterium",
     "A cheek cell",
+    "A bacterium",
     "A mushroom cell"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Bacteria keep their DNA loose in the cytoplasm. Animal, plant and fungus cells keep their DNA in a nucleus.",
    "outcome": 0
   },
@@ -2448,11 +2448,11 @@
    "t": "mcq",
    "p": "What were mitochondria before they lived inside larger cells?",
    "opts": [
-    "Free-living bacteria",
     "Tiny plants",
+    "Free-living bacteria",
     "Pieces of the nucleus"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Mitochondria have their own loops of DNA and divide on their own. They began as bacteria that moved into larger cells and stayed.",
    "outcome": 7
   },
@@ -2472,11 +2472,11 @@
    "t": "mcq",
    "p": "Why does a plate of cut brinjal slices get wet after you sprinkle salt on it?",
    "opts": [
-    "Salt pulls water out of the cells of the brinjal",
     "The salt melts the brinjal",
+    "Salt pulls water out of the cells of the brinjal",
     "The salt makes water out of air"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Salt on the outside of the cells makes water move out through the cell skins. The water collects on the plate.",
    "outcome": 2
   },
@@ -2775,11 +2775,11 @@
       "t": "mcq",
       "q": "Does your filter stop the salt that is dissolved in the water?",
       "options": [
-       "No, the dissolved salt goes right through",
        "Yes, the paper catches it",
+       "No, the dissolved salt goes right through",
        "Only if the paper is wet"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Dissolved salt is made of tiny particles, far smaller than the holes in any cloth or paper. Only a real cell skin, with pumps and carriers, can stop dissolved salt. If you picked yes, do not taste the water to check. Dry a spoon of the water on a plate in the sun and look for crystals."
      },
      "context": "In this step you test your layers. You write what each one stops."
@@ -2844,6 +2844,113 @@
    "used_in": [
     "e1"
    ]
+  },
+  {
+   "id": "b-a-magnifying-glass",
+   "item": "A magnifying glass",
+   "kind": "tool",
+   "why": "Used in Hay Pond: a week of looking for single-celled swimmers. About ₹30 to ₹120. A water drop on clear plastic magnifies a little.",
+   "url": "https://www.amazon.in/s?k=magnifying+glass+kids",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before Hay Pond: a week of looking for single-celled swimmers."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Potato Strips: what does salt water do to a cell?, Naked Egg: a skin you can see and measure, Raisin Swell: plain water or salt water?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e2",
+    "a4",
+    "c1"
+   ],
+   "plan": "Get it before Potato Strips: what does salt water do to a cell?."
+  },
+  {
+   "id": "b-a-small-funnel",
+   "item": "A small funnel",
+   "kind": "tool",
+   "why": "Used in Be the Membrane: build a filter that picks by size. About ₹20 to ₹50. The top of a cut plastic bottle works.",
+   "url": "https://www.amazon.in/s?k=small+plastic+funnel",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before Be the Membrane: build a filter that picks by size."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Build a Plant Cell and an Animal Cell from the kitchen. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before Build a Plant Cell and an Animal Cell from the kitchen."
+  },
+  {
+   "id": "b-vinegar",
+   "item": "Vinegar",
+   "kind": "material",
+   "why": "Used in Naked Egg: a skin you can see and measure. About ₹40 to ₹80. Lemon juice works for many tests.",
+   "url": "https://www.amazon.in/s?k=white+vinegar",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before Naked Egg: a skin you can see and measure."
+  },
+  {
+   "id": "b-clean-sand--a-small-bag",
+   "item": "Clean sand (a small bag)",
+   "kind": "material",
+   "why": "Used in Be the Membrane: build a filter that picks by size. About ₹20 to ₹60. Fine soil sieved from a pot works.",
+   "url": "https://www.amazon.in/s?k=play+sand+small+bag",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before Be the Membrane: build a filter that picks by size."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in Build a Plant Cell and an Animal Cell from the kitchen. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before Build a Plant Cell and an Animal Cell from the kitchen."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in Potato Strips: what does salt water do to a cell?, Be the Membrane: build a filter that picks by size. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "e1",
+    "c1"
+   ],
+   "plan": "Get it before Potato Strips: what does salt water do to a cell?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

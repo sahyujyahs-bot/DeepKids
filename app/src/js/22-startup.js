@@ -1012,4 +1012,7 @@ document.addEventListener(
 document.addEventListener("visibilitychange", trackVisibleTime);
 /* History: every finished part, named clearly (lesson parts of board chapters too, not only whole chapters) */
 // To finish: units show all parts and the core path separately
-boot().then(loadReady);
+boot().then(() => {
+  newUnitsFromLink();
+  loadReady();
+});

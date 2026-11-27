@@ -1,9 +1,9 @@
 # Thinking and memory: how brains and other living beings learn and remember
 `sci.mind.thinking-and-memory.L3`
 
-**Summary.** Can a story help you remember a list better? In this unit you will test that fairly, see how much you can hold in your head at once, play a market memory game, and walk through your home to place things in memory.
+**Summary.** Can a story help you remember a list better? In this lesson you will test that fairly, see how much you can hold in your head at once, play a market memory game, and walk through your home to place things in memory.
 
-**Intro.** *What did you eat for breakfast yesterday? What did you eat for breakfast on the same day last month? Why is one easy and the other so hard?* Your brain kept yesterday's breakfast, but let last month's go. In this unit you find out how your brain holds on to things. You test two ways of learning a list of words, and see which one lasts until tomorrow. You practise something hard with your other hand and watch it get easier. You find out what neurons are, and why practice changes them. And you try the tricks that people with very strong memories use.
+**Intro.** *What did you eat for breakfast yesterday? What did you eat for breakfast on the same day last month? Why is one easy and the other so hard?* Your brain kept yesterday's breakfast, but let last month's go. In this lesson you find out how your brain holds on to things. You test two ways of learning a list of words, and see which one lasts until tomorrow. You practise something hard with your other hand and watch it get easier. You find out what neurons are, and why practice changes them. And you try the tricks that people with very strong memories use.
 
 ## Learning outcomes
 0. I can say what my brain does: it senses, thinks, remembers and moves my body, using nerve cells called neurons.
@@ -29,6 +29,7 @@
 - **Chunking**: Grouping many small things into a few bigger pieces, so they are easier to hold in memory. *e.g.* A mobile number like 98410 23456 is easier to remember as two groups of five than as ten separate digits.
 - **Skill memory**: The memory of how to do something with your body. You use it without thinking about the steps. *e.g.* Tying your shoelaces or swimming. You can do it, but it is hard to explain each step in words.
 - **Habit**: Something you have done so often that you do it without deciding to. *e.g.* Washing your hands as soon as you come home, without anyone telling you.
+- **Reflex**: A reflex is a quick action the body does without you deciding. The signal goes to a nearby part of the spine and back, so it is faster than a thought. *e.g.* When you touch a hot dosa pan, your hand jumps away before you can think. That jump is a reflex.
 
 ## Explanations
 ### What the brain does · *defined*
@@ -38,6 +39,7 @@ Your brain sits inside your skull, floating in a liquid that protects it. A grow
 - e.g. When an auto honks behind you, your brain hears it, works out where it is, and makes you step aside, all in under a second.
 - e.g. While you sleep, your brain keeps your heart beating and your lungs breathing.
 - e.g. When you read a word, your brain turns black marks on paper into a meaning.
+- **Daniel Simons and Christopher Chabris, USA (1999):** In 1999 Simons and Chabris asked people to watch a short film of players passing basketballs and count the passes made by one team. Partway through, a person in a gorilla suit walks into the middle, thumps their chest and walks off, and about half the viewers did not notice the gorilla at all. The result has been repeated many times and shows that attention is limited. It matters for road safety, because drivers busy with phones can miss people crossing.
 ### Neurons: how the brain sends messages · *defined*
 **Definition:** Neurons are nerve cells. They carry messages as tiny electrical signals, and pass them on to other neurons across tiny gaps called synapses.
 
@@ -464,6 +466,28 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
   *Child mode:* Count back from 20. Then say the number for each colour.
   - Note: Most children get the colours shown three times right more often than the others. If yours does not, that is a real result too. Calkins found that how often a pair was seen mattered more than anything else she tested.
   - Check: In the Colour and Number Pairs test, which pairs do most children remember best? → **The ones shown three times**
+### old1 · The Neuron Squeeze: pass a message down a line (10 min)
+- **problem:** A message from your finger to your brain passes along a chain of nerve cells called neurons. In this activity each person plays one neuron, and each joined pair of hands is a synapse, the place where one neuron passes the message on to the next.
+- **record:** Write the three times in seconds. Then write the time for the 'go' try.
+- **s1 (2 min)**  
+  *Parent does:* Everyone sits in a line, holding hands. Say that each person is a neuron and each pair of joined hands is a synapse.  
+  *Parent says:* Each of us is a nerve cell. Our hands are the places where one cell passes the message to the next. When the first person squeezes, we pass it on as fast as we can.  
+  *Child mode:* Sit in a line and hold hands. You are a neuron.
+- **s2 (4 min)**  
+  *Parent does:* 1. The first person starts the timer and squeezes the next person's hand. 2. Each person squeezes the next as soon as they feel it. 3. The last person says 'Done!' and stops the timer. 4. Do it three times and write each time.  
+  *Parent says:* Squeeze the next hand as soon as you feel it. How long did the message take? Does it get faster with practice?  
+  *Child mode:* Squeeze the next hand as soon as you feel a squeeze. Do it three times. Write each time.
+  - Ask: Did the message get faster with practice? (good: Yes, a little.; Not much, because each of us needed time to feel it first.)
+- **s3 (2 min)**  
+  *Parent does:* Now pass the message by saying 'go' to the next person instead of squeezing. Time it once. Compare with the squeeze.  
+  *Parent says:* Now whisper 'go' to the next person. Is it faster or slower than the squeeze?  
+  *Child mode:* Pass the message by saying 'go'. Is it faster or slower?
+- **s4 (2 min)**  
+  *Parent does:* Work out how long the message would take if each person were a real neuron. If the line is 5 people and about 5 metres long, and the fastest nerves carry messages about 100 metres every second, then 5 ÷ 100 = 0.05 seconds. That is much faster than the line.  
+  *Parent says:* In the fastest nerves, messages travel about 100 metres a second. Our line took much longer. Why? Each of us has to feel the squeeze and decide, and real neurons do not need to.  
+  *Child mode:* Compare your time with 0.05 seconds. Why was your line so much slower?
+  - Ask: Why is the real body so much faster than our line? (good: Real neurons pass the message by tiny electrical and chemical signals.; We took time to feel and think, but a neuron passes it on at once.)
+  - Note: The model leaves things out. A real neuron carries the message as a tiny electrical signal along its length, and a chemical crosses the synapse to the next neuron.
 
 ## Projects
 ### p1 · My 7-Day Practice Diary (90 min, 7 days)
@@ -545,7 +569,7 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
 5. (sort) Sort these. Does your brain do it while you notice, or without you noticing?  
    **Answer:** choosing a sweet at a shop → I notice; keeping your heart beating → Without noticing; working out a sum → I notice; breathing while you sleep → Without noticing; remembering a friend's name → I notice; making you shiver in the cold → Without noticing. *Why:* Your brain does many jobs you never notice, like your heartbeat and breathing in sleep. Thinking and remembering are the jobs you notice.
 6. (mcq) In the Story Trick, you count backwards from 20 after hearing each list. Why?  
-   Options: To make the test harder for the story list / To stop you repeating the words in your head, so both lists are tested after the same kind of wait / Because counting helps memory  
+   Options: To stop you repeating the words in your head, so both lists are tested after the same kind of wait / To make the test harder for the story list / Because counting helps memory  
    **Answer:** To stop you repeating the words in your head, so both lists are tested after the same kind of wait. *Why:* Counting backwards keeps your mind busy, so you cannot keep saying the words to yourself. Both lists are then tested after the same kind of wait, which makes the test fair.
 7. (truefalse) Most forgetting happens in the first day after you learn something.  
    **Answer:** True. *Why:* True. Hermann Ebbinghaus found this in 1885, and many later studies agree. After the first day, forgetting slows down. That is why recalling something the next day helps so much.
@@ -554,8 +578,8 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
    **Answer:** In two groups, 98410 and 23456. *Why:* Two groups of five are much easier to hold than ten separate digits. This is chunking. Saying it fast does not help you keep it.
 9. (order) Put these in order, from first to last, to show how a new memory is made and kept.  
    **Answer:** ['notice it', 'hold it in your mind for a few seconds', 'link it to something you already know', 'recall it again on another day']. *Why:* First you must notice something. Then short-term memory holds it. Linking it to what you know helps your brain keep it, and recalling it on later days makes it last.
-10. (write) In the story, Paati tells Kavya that a path in the head grows by walking on it. Choose one experiment you did in this unit and say how it matches her words.  
-   **Answer:** For example: 'In the Other Hand experiment, my times got shorter each try. Each try was a walk on the same path, and the path got easier.'. *Why:* A strong answer picks a real experiment from this unit and says that repeating it again and again made it easier or made more words last.
+10. (write) In the story, Paati tells Kavya that a path in the head grows by walking on it. Choose one experiment you did in this lesson and say how it matches her words.  
+   **Answer:** For example: 'In the Other Hand experiment, my times got shorter each try. Each try was a walk on the same path, and the path got easier.'. *Why:* A strong answer picks a real experiment from this lesson and says that repeating it again and again made it easier or made more words last.
 11. (draw) Draw two neurons with a gap between them. Draw an arrow to show which way the message goes.  
    **Answer:** Two neurons, each with a round middle, branches and a tail. The tail of the first is close to a branch of the second, with a small gap. The arrow goes along the first neuron's tail, across the gap, into the second.. *Why:* A good drawing shows the gap, the synapse, and the message going from the tail of one neuron to the branches of the next.
 12. (mcq) Which of these is long-term memory?  
@@ -593,10 +617,10 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
 11. (odd) Which one is the odd one out, and why? Hippocampus, neuron, synapse, kidney.  
    **Answer:** kidney. *Why:* The kidney cleans the blood. The hippocampus, neurons and synapses are all parts of the brain's way of thinking and remembering.
 12. (mcq) A child of eight hears a list of digits once and says them back. About how many digits can most children of that age hold?  
-   Options: About 2 / About 5 / About 20  
+   Options: About 2 / About 20 / About 5  
    **Answer:** About 5. *Why:* Most children of 8 can hold about 5 digits heard once, and most grown-ups about 7. That is why longer numbers are easier in groups.
 13. (mcq) Why do doctors ask a person who has had a stroke to keep practising a movement?  
-   Options: Practice can build new links around the damaged part / The muscle needs to get tired / Practice makes the brain heavier  
+   Options: The muscle needs to get tired / Practice can build new links around the damaged part / Practice makes the brain heavier  
    **Answer:** Practice can build new links around the damaged part. *Why:* After a stroke, part of the brain is damaged. Practice strengthens other links and builds new ones, so the brain can find a new way to do the movement.
 14. (write) You must learn the names of eight rivers of India for a quiz next week. Plan how you would use a story, groups or a memory walk, and on which days you would test yourself.  
    **Answer:** For example: 'I would group them by region, make a silly story for each group, and test myself without looking on day 2, day 4 and the day before the quiz.'. *Why:* A strong answer names a trick and says why it helps, and spreads testing over different days.
@@ -610,12 +634,12 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
 3. (write) A child says, 'I am a picture learner. I can only learn from pictures.' How could you test whether this is true?  
    **Answer:** Give the child ten words to learn by hearing them, and ten different but similar words to learn from pictures. Test both the next day. Then do the same with other children. If almost everyone does better with pictures, the pictures help everyone, not only 'picture learners'.. *Why:* When scientists tested this, people did not learn more in their own favourite style. Pictures help most people. A strong answer compares both ways for this child and for others.
 4. (mcq) Scientists found that London taxi drivers had a bigger back part of the hippocampus. Then they scanned trainee drivers before they started learning the streets. Why?  
-   Options: To check whether people with a big hippocampus simply chose to become drivers / To find the best drivers / Because scans are cheaper for trainees  
+   Options: To find the best drivers / Because scans are cheaper for trainees / To check whether people with a big hippocampus simply chose to become drivers  
    **Answer:** To check whether people with a big hippocampus simply chose to become drivers. *Why:* If drivers were born with a bigger hippocampus, learning would not explain it. The trainees' brains matched other people's at the start. Only those who learned the streets and passed showed the growth. So the learning caused the change.
 5. (truefalse) Each time you recall a memory, your brain builds it again, so a memory can change over time.  
    **Answer:** True. *Why:* True. Memories are rebuilt each time we recall them. That is why two people can remember the same day differently, and why a memory is not an exact recording.
 6. (mcq) A student says, 'I read my notes ten times, so I will remember them for the test.' What is the best advice for the student?  
-   Options: Read them ten more times / Close the notes and test yourself, on a few different days / Copy the notes out neatly  
+   Options: Close the notes and test yourself, on a few different days / Read them ten more times / Copy the notes out neatly  
    **Answer:** Close the notes and test yourself, on a few different days. *Why:* Reading again and again feels easy, but it adds few links. Trying to bring the notes back without looking, on different days, makes the memory much stronger. Copying neatly helps a little, but less.
 7. (fill) When the same synapse is used again and again, the message crosses it more ____.  
    **Answer:** ['easily']. *Why:* A synapse that is used often gets stronger, so the message passes more easily. This is how practice changes the brain.
@@ -627,15 +651,15 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
    Options: Use a stopwatch to read both rounds at one letter each second / Do only the word round again / Ask the child which was easier  
    **Answer:** Use a stopwatch to read both rounds at one letter each second. *Why:* If both rounds are read at the same speed, speed cannot explain the difference. Only the order of the letters should change. Asking the child tells us what they felt, not what caused it.
 11. (mcq) A Carnatic music teacher in Chennai makes new students sing the same simple exercises every day for months before they learn songs. Why?  
-   Options: So the patterns become strong enough to sing without thinking / Because songs are too loud / Because the teacher has forgotten the songs  
+   Options: Because songs are too loud / So the patterns become strong enough to sing without thinking / Because the teacher has forgotten the songs  
    **Answer:** So the patterns become strong enough to sing without thinking. *Why:* Daily practice strengthens the links for the notes and patterns, until they come without effort. Then the student's attention is free for the song itself.
 12. (odd) Which one is the odd one out, and why? Making a story, grouping, a memory walk, reading the same page ten times.  
    **Answer:** reading the same page ten times. *Why:* Making a story, grouping and a memory walk all give new things links to each other or to things you know. Reading the same page again adds very few new links.
 13. (mcq) Mary Calkins found that colours shown three times were remembered better than colours shown once. What is the best explanation?  
-   Options: Each time you meet a pair, the link between them gets stronger / Colours shown three times are brighter / The numbers with them were easier  
+   Options: Colours shown three times are brighter / The numbers with them were easier / Each time you meet a pair, the link between them gets stronger  
    **Answer:** Each time you meet a pair, the link between them gets stronger. *Why:* Seeing a pair again and again strengthens the link between the colour and the number. The colours and numbers were the same kind for every pair, so brightness or easy numbers do not explain it.
 14. (mcq) A slime mould finds the shortest way through a maze to food, using one cell and chemical signals, not neurons. What does this suggest?  
-   Options: Finding a way and leaving a trail does not need neurons / Slime moulds secretly have brains / Mazes are easy for every living being  
+   Options: Slime moulds secretly have brains / Mazes are easy for every living being / Finding a way and leaving a trail does not need neurons  
    **Answer:** Finding a way and leaving a trail does not need neurons. *Why:* Scientists have seen slime moulds, which are single cells, find short ways through mazes. This suggests that a brain is not needed for every kind of finding the way. Whether to call this memory is still argued about.
 15. (truefalse) If two people remember the same festival differently, one of them must be lying.  
    **Answer:** False. *Why:* False. Memories are built again each time we recall them, so two honest people can remember the same day differently.
@@ -647,16 +671,16 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
 
 ## Quiz
 1. (mcq) Which of these is a job of your brain?  
-   Options: Pumping blood / Remembering your friend's name / Breaking down food  
+   Options: Pumping blood / Breaking down food / Remembering your friend's name  
    **Answer:** Remembering your friend's name. *Why:* Remembering is a brain job. The heart pumps blood, and the stomach and gut break down food, though the brain helps control them.
 2. (mcq) How do neurons pass messages to each other?  
-   Options: They touch and swap places / A message crosses a tiny gap called a synapse / They send light to each other  
+   Options: They touch and swap places / They send light to each other / A message crosses a tiny gap called a synapse  
    **Answer:** A message crosses a tiny gap called a synapse. *Why:* A message runs along a neuron as an electrical signal, then crosses the synapse as a chemical. Neurons do not swap places or send light.
 3. (mcq) Knowing how to swim is which kind of memory?  
    Options: A skill memory / A fact / Short-term memory  
    **Answer:** A skill memory. *Why:* Swimming is a skill memory: your body knows how to do it without thinking of the steps. It lasts a long time, so it is not short-term.
 4. (mcq) Why does a skill get easier with practice?  
-   Options: The links between the neurons you use get stronger / Your hands grow new fingers / Your brain gets heavier every day  
+   Options: Your hands grow new fingers / Your brain gets heavier every day / The links between the neurons you use get stronger  
    **Answer:** The links between the neurons you use get stronger. *Why:* Each time you practise, the links between the neurons you use get stronger, so the signal passes more easily. Your brain does not get noticeably heavier.
 5. (mcq) In the Story Trick, you learn list A by repeating it and list B by making a story. To make the test fair, what must be the same?  
    Options: The number and kind of words, and the time for each word / The words themselves / The story  
@@ -671,13 +695,13 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
    Options: Yes, the rest is spare / No, every part of the brain is used / Yes, but only children  
    **Answer:** No, every part of the brain is used. *Why:* Brain scans show every part of the brain working over a day. The 10% idea is a myth.
 9. (mcq) Grown-ups who spent years learning every street of a big city had their brains scanned before and after. A part used for finding the way grew bigger. What does this show?  
-   Options: Grown-up brains can change when they learn / Only children's brains change / Driving makes the brain smaller  
+   Options: Only children's brains change / Driving makes the brain smaller / Grown-up brains can change when they learn  
    **Answer:** Grown-up brains can change when they learn. *Why:* Their brains matched other people's before they started. After years of learning, the part for finding the way had grown. So grown-up brains change with learning.
 10. (mcq) A touch-me-not plant was dropped gently many times and stopped folding their leaves. What had happened?  
    Options: The plant had learned that the drop was harmless / The plant had died / The leaves had fallen off  
    **Answer:** The plant had learned that the drop was harmless. *Why:* The plants learned the drop was harmless and kept that memory for weeks. They still folded when shaken in a new way, so they were not dead or worn out.
 11. (mcq) Which of these beings can learn and remember?  
-   Options: Only people / Only animals with big brains / People, bees, dogs and plants  
+   Options: Only people / People, bees, dogs and plants / Only animals with big brains  
    **Answer:** People, bees, dogs and plants. *Why:* People, bees, dogs and even touch-me-not plants learn from what happened before. Each does it in their own way.
 
 ## Applications
@@ -696,9 +720,9 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
 - Avadhanam, a show of memory and quick thinking in Telugu and Kannada, where one poet answers many questioners in turn, and remembers every unfinished answer.
 - A Carnatic music student practising sarali varisai, the same simple patterns every day, before learning songs.
 - A kolam drawn from memory at a doorstep every morning, especially in the month of Margazhi.
-- An auto driver in Chennai who knows the way through hundreds of small lanes without a map.
+- An auto driver who knows the way through hundreds of small lanes without a map.
 - A pill box with the days of the week on it, in a grandparent's room.
-- A Baul singer in Bengal, who learns many songs by ear from a teacher, without a written page, and sings them from memory.
+- A folk singer who learns many songs by ear from a teacher, without a written page, and sings them from memory.
 
 ## Open questions
 - **How do signals between neurons become the experience of remembering?** Scientists can see which neurons send signals when we remember, but nobody knows how that becomes the feeling of seeing a loved one's face in your mind.
@@ -710,7 +734,7 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
 - What is the first thing you remember from when you were little?
 - What did you learn today that you want to remember tomorrow? How will you remember it?
 - Can you tell me today's day from start to finish, in order?
-- Which trick from this unit will you use for your next test or poem?
+- Which trick from this lesson will you use for your next test or poem?
 - Why do you think we remember happy and scary days better than ordinary ones?
 - Which do you think helps you remember more: reading something again, or trying to say it without looking?
 - What is your favourite memory of a grandparent or another older person you love?
@@ -746,7 +770,12 @@ Practise, Practise, Make the Path (sci.mind.L3): A song about how practice makes
 - [NIMHANS Brain Museum](https://nimhans.ac.in) · place · Bengaluru: A museum at the National Institute of Mental Health and Neurosciences where visitors can see real human brains and learn how they work. Check the opening days before you go.
 
 ## Things to buy
-- [Your Fantastic Elastic Brain, by JoAnn Deak, a picture book](https://www.amazon.in/s?k=your+fantastic+elastic+brain) (book): A clear picture book for children aged about 5 to 10 on how the brain changes as we practise and make mistakes. Optional: everything in this unit works without it. Used in p1. 
+- [Your Fantastic Elastic Brain, by JoAnn Deak, a picture book](https://www.amazon.in/s?k=your+fantastic+elastic+brain) (book): A clear picture book for children aged about 5 to 10 on how the brain changes as we practise and make mistakes. Optional: everything in this lesson works without it. Used in p1. 
+- [Wilfrid Gordon McDonald Partridge by Mem Fox](https://www.amazon.in/s?k=Wilfrid+Gordon+McDonald+Partridge) (book): A small boy helps an old friend find her lost memories through objects. It shows how things we touch can bring memories back. Used in a1. Read it together after the memory game.
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in The Story Trick: does a story help you remember a list?, The Other Hand: does practice make it easier?, My 7-Day Practice Diary. About ₹150 to ₹400. A phone stopwatch works well. Used in e1, e2, p1. Get it before The Story Trick: does a story help you remember a list?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Make a Neuron from Dough. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in a3. Get it before Make a Neuron from Dough.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Help Thatha Remember. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before Help Thatha Remember.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What are nerve cells called? → Neurons.
@@ -760,7 +789,7 @@ Practise, Practise, Make the Path (sci.mind.L3): A song about how practice makes
 
 ## Plan
 - Start options: a1, story, e1, a5, big_questions, cards, g1
-- Default order: intro → a1 → summary → e1 → terms → explanations → a4 → story → a2 → a3 → e3 → g1 → videos → ws-core → a5 → e2 → a6 → g2 → agreed → challenging → p1 → ws-stretch → c1 → c2 → big_questions → ws-challenge → open_questions → roots → quiz
+- Default order: intro → a1 → summary → e1 → terms → explanations → a4 → story → a2 → a3 → e3 → g1 → videos → ws-core → a5 → e2 → a6 → g2 → agreed → challenging → p1 → ws-stretch → c1 → c2 → big_questions → ws-challenge → open_questions → roots → quiz → old1
 - Core: a1, a4, e1, e3, g1, ws-core, a5
 
 ## Sources

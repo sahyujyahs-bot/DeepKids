@@ -478,10 +478,10 @@
       "q": "We turned cup A round. The next day, which way did the tops of the sprouts point?",
       "options": [
        "Into the room",
-       "Back towards the window",
-       "Straight down"
+       "Straight down",
+       "Back towards the window"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The sprouts sensed the light coming from behind them. They grew more on their shady side, so their tops bent back to the window."
      },
      "parent": "Rai sprouts usually bend back within half a day to a day. The bottom of each stem still leans the old way, and the top curves round, so the stem looks like a hook. If nothing has changed, wait one more day, and check the cup is in bright light."
@@ -619,11 +619,11 @@
       "t": "mcq",
       "q": "What did the rai seeds on wet tissue do, with no soil?",
       "options": [
-       "They sprouted",
        "They stayed dry seeds",
-       "They turned to soil"
+       "They turned to soil",
+       "They sprouted"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A seed carries a little store of food inside. With water, the seed germinates even without soil."
      },
      "parent": "Both cups usually sprout about the same number. A seed needs water, air and warmth to germinate, but not soil."
@@ -789,11 +789,11 @@
       "t": "mcq",
       "q": "When you poured water on dry soil, bubbles came up. What does that show?",
       "options": [
-       "Soil has air in it",
        "Water makes air",
-       "Soil is very hot"
+       "Soil is very hot",
+       "Soil has air in it"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Soil has tiny gaps full of air. Water filled the gaps and pushed the air out. Roots need this air to breathe."
      }
     },
@@ -1612,11 +1612,11 @@
      "t": "mcq",
      "p": "Which gas do leaves take in from the air to make food?",
      "opts": [
-      "Carbon dioxide",
       "Smoke",
-      "Steam"
+      "Steam",
+      "Carbon dioxide"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Carbon dioxide is a gas in the air. Leaves take it in through tiny holes, and use it with water and light to make food."
     },
     {
@@ -1691,11 +1691,11 @@
      "t": "mcq",
      "p": "Charles Darwin and his son Francis put tiny black caps on the tips of some grass shoots. Those shoots did not bend to the light. What does that show?",
      "opts": [
-      "The tip is the part that senses the light",
       "Black caps are heavy",
+      "The tip is the part that senses the light",
       "Grass does not need light"
      ],
-     "a": 0,
+     "a": 1,
      "why": "When light could not reach the tip, the shoot did not bend. So the tip senses where the light is, and a message travels down to the part that bends."
     },
     {
@@ -1734,11 +1734,11 @@
      "t": "mcq",
      "p": "A tulsi plant sits in a sunny window, and nobody waters the plant for a week. The leaves go soft and droop. Then the plant gets water. What will most likely happen next?",
      "opts": [
-      "The leaves stand up again after a few hours",
       "The leaves turn into soil",
+      "The leaves stand up again after a few hours",
       "Nothing, the plant stays soft for ever"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Water keeps the leaves firm. A plant that is only a little dry can stand up again after a drink."
     }
    ]
@@ -1799,11 +1799,11 @@
    "t": "mcq",
    "p": "How does a sprout bend towards light?",
    "opts": [
-    "The sprout walks on their roots",
     "The shady side of the stem grows faster",
+    "The sprout walks on their roots",
     "The light pulls the stem"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The side away from the light grows faster, so the stem bends towards the light. Light does not pull.",
    "outcome": 2
   },
@@ -1811,11 +1811,11 @@
    "t": "mcq",
    "p": "Rai seeds on wet tissue, with no soil, will most likely do what?",
    "opts": [
+    "Sprout",
     "Stay dry and still",
-    "Turn into soil",
-    "Sprout"
+    "Turn into soil"
    ],
-   "a": 2,
+   "a": 0,
    "why": "Seeds carry a little food store. With water, air and warmth they sprout, even with no soil.",
    "outcome": 3,
    "how": "e2"
@@ -1824,11 +1824,11 @@
    "t": "mcq",
    "p": "Why do plants growing for many weeks need soil, or minerals in water?",
    "opts": [
-    "The seed's food store runs out, and the plant needs minerals",
     "Soil is their food",
-    "Soil keeps them dark"
+    "Soil keeps them dark",
+    "The seed's food store runs out, and the plant needs minerals"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Plants make their food in their leaves, but they need minerals from the soil to stay healthy. They do not eat the soil.",
    "outcome": 3
   },
@@ -1837,10 +1837,10 @@
    "p": "Bubbles came up when we poured water on dry soil. What were they?",
    "opts": [
     "Soap",
-    "Gas made by the water",
-    "Air from the gaps in the soil"
+    "Air from the gaps in the soil",
+    "Gas made by the water"
    ],
-   "a": 2,
+   "a": 1,
    "why": "Soil has gaps full of air. Water pushes the air out. Roots breathe this air.",
    "outcome": 4,
    "how": "a2"
@@ -1850,10 +1850,10 @@
    "p": "A pot is kept full to the top with water every day. What will most likely happen to the roots?",
    "opts": [
     "Nothing at all",
-    "They can rot, because they cannot get air",
-    "They grow faster"
+    "They grow faster",
+    "They can rot, because they cannot get air"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Roots need air as well as water. In soaking soil, water fills the air gaps.",
    "outcome": 4
   },
@@ -1861,11 +1861,11 @@
    "t": "mcq",
    "p": "Rai seeds are sown in a very cold room and in a warm room. Where will they most likely sprout first?",
    "opts": [
-    "In the warm room",
     "In the cold room",
+    "In the warm room",
     "Both at exactly the same time"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Seeds germinate faster when it is warm enough for them. In the cold, they are slow.",
    "outcome": 0
   },
@@ -1873,11 +1873,11 @@
    "t": "mcq",
    "p": "A child wants to find out if rai seeds need soil. She sows 10 seeds in soil by a window, and 10 seeds on tissue in a dark cupboard. What is wrong with her test?",
    "opts": [
-    "She changed two things: soil and light",
     "She used too many seeds",
-    "Tissue is not allowed"
+    "Tissue is not allowed",
+    "She changed two things: soil and light"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A fair test changes one thing only. If the seeds differ, she cannot tell if soil or light made the difference.",
    "outcome": 5,
    "how": "e2"
@@ -1886,11 +1886,11 @@
    "t": "mcq",
    "p": "A potato is kept in a dark kitchen basket with a small gap of light at one side. Which way will the pale shoots grow?",
    "opts": [
-    "Towards the gap of light",
     "Away from the gap",
-    "Straight down"
+    "Straight down",
+    "Towards the gap of light"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Shoots grow towards light, even a small amount. The shoots are pale and long because it is dark.",
    "outcome": 1
   }
@@ -2048,7 +2048,71 @@
    "why": "A hill garden where plants grow in cool air, very different from the plains."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in The Maze Box: can a shoot find the way out?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before The Maze Box: can a shoot find the way out?."
+  },
+  {
+   "id": "b-cotton-wool",
+   "item": "Cotton wool",
+   "kind": "material",
+   "why": "Used in Soil or No Soil? Two cups of rai. About ₹20 to ₹50. Torn clean cloth works.",
+   "url": "https://www.amazon.in/s?k=cotton+wool+roll",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before Soil or No Soil? Two cups of rai."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in The Turning Cup: will the sprouts turn back?, Soil or No Soil? Two cups of rai, Straight or Bent? Two trays of rai to eat. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "e1",
+    "e2",
+    "p1"
+   ],
+   "plan": "Get it before The Turning Cup: will the sprouts turn back?."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in The Turning Cup: will the sprouts turn back?, Soil or No Soil? Two cups of rai, Straight or Bent? Two trays of rai to eat. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "e1",
+    "e2",
+    "p1"
+   ],
+   "plan": "Get it before The Turning Cup: will the sprouts turn back?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "Name the five things a plant needs.",

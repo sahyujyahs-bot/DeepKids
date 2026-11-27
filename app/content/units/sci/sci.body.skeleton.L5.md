@@ -1,9 +1,9 @@
 # Muscles in pairs, joints, and skeletons of shell and water: how muscles that can only pull move a body
 `sci.body.skeleton.L5`
 
-**Summary.** A muscle can only pull. It can never push. So how do you push your tongue out of your mouth? In this unit you will roll a dough worm to find how much longer a body gets when it is squeezed thinner. You will find the partner of each muscle, hunt for six kinds of joint, and measure how high each finger can lift alone. Then you will see how a crab moves inside armour, and how an earthworm moves with a skeleton made of water.
+**Summary.** A muscle can only pull. It can never push. So how do you push your tongue out of your mouth? In this lesson you will roll a dough worm to find how much longer a body gets when it is squeezed thinner. You will find the partner of each muscle, hunt for six kinds of joint, and measure how high each finger can lift alone. Then you will see how a crab moves inside armour, and how an earthworm moves with a skeleton made of water.
 
-**Intro.** *Bend your arm. A muscle pulled it. Now stick out your tongue. No muscle can push. So what moved your tongue forward, out of your mouth?* Every muscle in every animal works in one way. It gets shorter, and so it pulls. It cannot push, and it cannot make itself long again. Your arm has bones for muscles to pull on. Your tongue has no bone at all, and neither has an earthworm. Yet a tongue can reach out and an earthworm can stretch forward. By the end of this unit you will be able to say exactly how they do it.
+**Intro.** *Bend your arm. A muscle pulled it. Now stick out your tongue. No muscle can push. So what moved your tongue forward, out of your mouth?* Every muscle in every animal works in one way. It gets shorter, and so it pulls. It cannot push, and it cannot make itself long again. Your arm has bones for muscles to pull on. Your tongue has no bone at all, and neither has an earthworm. Yet a tongue can reach out and an earthworm can stretch forward. By the end of this lesson you will be able to say exactly how they do it.
 
 ## Learning outcomes
 0. I can explain why a muscle can only pull, using the sliding threads inside a muscle fibre.
@@ -20,6 +20,8 @@
 - **Antagonistic pair**: Two muscles that pull in opposite ways across the same joint. Each one stretches the other back to its long shape. *e.g.* The biceps bends your elbow. The triceps straightens it. They are an antagonistic pair.
 - **Flexor**: A muscle that bends a joint. *e.g.* The biceps is the flexor of the elbow.
 - **Extensor**: A muscle that straightens a joint. *e.g.* The triceps is the extensor of the elbow.
+- **Voluntary muscle**: A muscle that moves when you decide it should. *e.g.* The muscles in your fingers are voluntary. You decide to pick up a spoon, and they move.
+- **Involuntary muscle**: A muscle that works by itself, without you deciding. *e.g.* Your heart is an involuntary muscle. It keeps beating while you sleep.
 - **Muscle fibre**: One muscle cell. It is long and very thin, and a muscle is a bundle of thousands of them. *e.g.* Pull a thread from a piece of cooked chicken, or look at the strings in the flesh of a cooked fish. Each thread is a bundle of muscle fibres.
 - **Actin and myosin**: Two kinds of protein thread inside every muscle fibre. Myosin threads grab actin threads and pull them along. *e.g.* When you make a fist, countless myosin threads in your forearm are pulling on actin threads.
 - **ATP**: A small molecule that cells use to carry energy from food to wherever work is done. Its full name is adenosine triphosphate. *e.g.* A myosin thread uses one ATP each time it lets go of actin and reaches for a new grip.
@@ -40,10 +42,16 @@
 ### A muscle can only pull · *defined*
 **Definition:** A muscle works by contracting, which means getting shorter. A muscle that gets shorter pulls. No muscle can push, and no muscle can make itself long again.
 
-This is true of every muscle in every animal, from an ant's leg to an elephant's trunk. The reason is inside the muscle. A muscle is made of threads that slide past each other to make it shorter. The threads can pull themselves together. They have no way to push themselves apart. So after a muscle has contracted, something else must pull it long again. That something is usually another muscle. It can also be gravity, a springy band, or liquid under pressure. The rest of this unit is about the different ways bodies solve this one problem.
+This is true of every muscle in every animal, from an ant's leg to an elephant's trunk. The reason is inside the muscle. A muscle is made of threads that slide past each other to make it shorter. The threads can pull themselves together. They have no way to push themselves apart. So after a muscle has contracted, something else must pull it long again. That something is usually another muscle. It can also be gravity, a springy band, or liquid under pressure. The rest of this lesson is about the different ways bodies solve this one problem.
 - e.g. Your biceps pulls your forearm up. It cannot push the forearm down again.
 - e.g. A rope works the same way. You can pull a bucket up from a well with a rope, but you cannot push the bucket down with the rope.
 - e.g. Your heart is a muscle. It squeezes blood out by getting shorter all round. Blood coming back in stretches it again.
+### Muscles you choose and muscles that work alone · *defined*
+**Definition:** A voluntary muscle moves when you decide it should. An involuntary muscle works without you deciding.
+
+Your body has about six hundred named muscles. You choose to move some of them. These are voluntary muscles, such as the muscles of your hands, feet and fingers. You decide to pick up a pencil, and your fingers do it. Other muscles work by themselves, all day and all night. These are involuntary muscles. Your heart is one. It keeps squeezing while you sleep. The muscles in the walls of your intestines are another. After you eat a roti, they squeeze it slowly along, and you never have to ask them. Both kinds can only pull, and both are made of the same sliding threads.
+- e.g. Voluntary: the muscles that move your fingers when you write, and your feet when you walk to school.
+- e.g. Involuntary: your heart beating, and your intestines squeezing food along.
 ### Inside a muscle: threads that slide · *defined*
 **Definition:** A muscle fibre is packed with two kinds of protein thread, called actin and myosin. A muscle contracts when the myosin threads pull the actin threads past them. The threads do not shrink. They slide.
 
@@ -59,10 +67,16 @@ The flexor bends the joint and the extensor straightens it. At the elbow, the fl
 - e.g. Knee: the front thigh muscles straighten it, and the back thigh muscles bend it.
 - e.g. Ankle: the calf muscle points the foot down, and the shin muscle lifts the foot up.
 - e.g. Lowering a bucket into a well slowly: the same arm muscles that lift it are working to let it down.
+### Counting your bones: the longest and the smallest · *defined*
+**Definition:** An adult skeleton has 206 bones. A baby is born with more, and some join together as the child grows.
+
+The longest bone in your body is the thigh bone. It runs from your hip down to your knee. The smallest bones are deep inside your ears. Each ear has three tiny ones, and the smallest of them is smaller than a grain of rice. When a sound shakes your eardrum, these bones pass the shaking inward. That is how you hear a bell or a friend's voice. Bones meet at joints, and joints are where your body bends.
+- e.g. The thigh bone is the longest bone. Put your hand on the top of your leg and feel how long the bone under it must be.
+- e.g. The smallest bone is in the ear, inside your head, where you cannot feel it at all.
 ### Six kinds of moving joint · *defined*
 **Definition:** A joint is a place where two bones meet. The shape of the bone ends decides how the joint can move. There are six main kinds of moving joint.
 
-A hinge joint bends one way and back, like a door. Your elbow, your knee and the joints in your fingers are hinges. A ball and socket joint has a ball on one bone in a cup on the other, so it can swing in a full circle. Your shoulder and your hip are of this kind. A pivot joint lets one bone turn round. One pivot at the top of your neck turns your head. Another near your elbow turns your palm up and down. A saddle joint bends two ways, and the base of your thumb has one. An ellipsoid joint is an oval knob in an oval cup. It bends two ways but cannot spin, and your wrist is one. A gliding joint has flat surfaces that slide a little, as between the small bones of your wrist and ankle. Some joints do not move at all. The plates of your skull are locked together by zigzag joints called sutures. There is a price for free movement. A joint that can swing every way, like the shoulder, has to be held in place mostly by muscles and ligaments, and not by the fit of the bones.
+A hinge joint bends one way and back, like a door. Your elbow, your knee and the joints in your fingers are hinges. A ball and socket joint has a ball on one bone in a cup on the other, so it can swing in a full circle. Your shoulder and your hip are of this kind. A pivot joint lets one bone turn round. One pivot at the top of your neck turns your head. Another near your elbow turns your palm up and down. A saddle joint bends two ways, and the base of your thumb has one. An ellipsoid joint is an oval knob in an oval cup. It bends two ways but cannot spin, and your wrist is one. A gliding joint has flat surfaces that slide a little, as between the small bones of your wrist and ankle. Some joints do not move at all. The plates of your skull are locked together by zigzag joints called sutures. There is a price for free movement. A joint that can swing every way, like the shoulder, has to be held in place mostly by muscles and ligaments, and not by the fit of the bones. So joints fall into two groups. Movable joints, such as the knee, elbow, wrist and fingers, bend or turn. Immovable joints, such as the ones between the plates of the skull, do not move at all.
 - e.g. Hinge: elbow, knee, finger joints.
 - e.g. Ball and socket: shoulder, hip.
 - e.g. Pivot: turning the head, turning the palm.
@@ -175,7 +189,7 @@ The largest land arthropod alive, the coconut crab, weighs about 4 kilograms. Th
   Against: A 2026 study of 44 kinds of insect found that the finest tubes take very little room at any size. Moulting, weight, and being hunted by birds and bats may matter as much or more.
 
 ## Roots
-In this unit you found that a muscle can only pull, and that a body gets longer when it is squeezed thinner. Here we ask what that tells us about who does the moving when a body moves.
+In this lesson you found that a muscle can only pull, and that a body gets longer when it is squeezed thinner. Here we ask what that tells us about who does the moving when a body moves.
 
 **Deep truth.** A muscle can only shorten, and it cannot make itself long again. In the Dough Worm, the dough grew four times as long when it was squeezed to half its width. An earthworm's ring muscles squeeze their own body like that, and the lengthening stretches the lengthwise muscles for their next pull. Bone, shell and liquid all do this one job: they carry one muscle's pull across to stretch another. So a skeleton is whatever lets muscles undo each other, and it need not be hard.  
 *Habit it breaks:* We say 'my biceps bends my arm', as if one muscle did the job alone. We also use the word skeleton to mean bones. Both habits hide the same fact. A muscle is useless without a partner, and a skeleton is defined by what it does for the pair, not by what it is made of.  
@@ -188,7 +202,7 @@ In this unit you found that a muscle can only pull, and that a body gets longer 
 The threads inside a muscle can only slide together. From that one limit come very different bodies: your arm with two muscles and a bone, a crab with muscles inside a tube, a spider who straightens a leg with liquid, an earthworm whose skeleton is liquid, and a tongue that is its own skeleton. They look unlike, but each is the same arrangement, in which one pull is undone by an opposite pull. One rule shows up as many kinds of body. And inside each body, no muscle acts alone, so every movement is something the whole arrangement does.
 
 - **Heraclitus, fragment 51 (Diels-Kranz B51):** Heraclitus says that people do not understand how a thing that pulls against itself agrees with itself. He calls it a fitting-together that turns back on itself, like that of a bow or a lyre. (A bow works only because the wood pulls one way and the string pulls the other. Your elbow works only because two muscles pull opposite ways. The opposition is what makes the movement possible.)
-- **Bhagavad Gita 3.27:** The verse says that all actions are carried out by the qualities of nature. A person confused by the sense of 'I' thinks, 'I am the doer.' (The verse is about a person and their actions, not about muscles. But the science of this unit shows something of the same shape in the body. We say one muscle bends the arm, when the bending is done by a pair, a bone, nerves and fuel together.)
+- **Bhagavad Gita 3.27:** The verse says that all actions are carried out by the qualities of nature. A person confused by the sense of 'I' thinks, 'I am the doer.' (The verse is about a person and their actions, not about muscles. But the science of this lesson shows something of the same shape in the body. We say one muscle bends the arm, when the bending is done by a pair, a bone, nerves and fuel together.)
 - **Tao Te Ching 76:** The chapter says that a person is soft and supple while alive, and stiff and hard when dead. It calls the stiff and hard the companions of death, and the soft and weak the companions of life. (A living muscle can let go, and letting go needs energy. A muscle with no energy left locks stiff. And two of the most skilful movers, an octopus's arm and an elephant's trunk, have no hard parts at all.)
 - Science (settled): Actin and myosin are far older than muscles. Single-celled beings such as amoebas use the same two proteins to crawl and to divide. Animals built muscle from a tool that cells already had.
 - Science (open): Whether muscle arose once or more than once in animals is still being worked out. A 2012 study found that the striped muscle of jellyfish lacks some key proteins that ours has. Its authors argue that such muscle arose separately in jellyfish and in animals like us.
@@ -580,12 +594,12 @@ Ammu put her hand on the biggest stone. It was still warm from the day.
   - Think: A real crab's closing muscle is far bigger than the opening muscle. Why might that be?
 
 ## Worksheets
-### Pairs, joints and three kinds of skeleton (core) (core, 15 questions)
+### Pairs, joints and three kinds of skeleton (core) (core, 17 questions)
 1. (mcq) What can a muscle do?  
-   Options: Pull only / Push only / Pull and push / Neither, it only holds  
+   Options: Push only / Pull and push / Pull only / Neither, it only holds  
    **Answer:** Pull only. *Why:* A muscle works by getting shorter, and a thing that gets shorter pulls. The threads inside it have no way to push apart.
 2. (mcq) Which two muscles are the antagonistic pair of the elbow?  
-   Options: Biceps and triceps / Biceps and calf / Triceps and shin muscle / Biceps and tendon  
+   Options: Biceps and calf / Triceps and shin muscle / Biceps and triceps / Biceps and tendon  
    **Answer:** Biceps and triceps. *Why:* The biceps bends the elbow and the triceps straightens it. A tendon is a cord, not a muscle.
 3. (fill) A muscle that bends a joint is called a ____.  
    **Answer:** ['flexor']. *Why:* A flexor bends a joint. An extensor straightens it.
@@ -605,10 +619,10 @@ Ammu put her hand on the biggest stone. It was still warm from the day.
 10. (order) Put these in order, from a whole muscle down to its smallest part.  
    **Answer:** ['Muscle', 'Bundle of fibres', 'Muscle fibre', 'Actin and myosin threads']. *Why:* A muscle is made of bundles. A bundle is made of fibres, which are cells. Each fibre is packed with actin and myosin threads.
 11. (mcq) An earthworm's circular muscles contract. What happens to the segment?  
-   Options: It gets longer and thinner / It gets shorter and fatter / It curls sideways / It gets smaller all over  
+   Options: It gets shorter and fatter / It curls sideways / It gets smaller all over / It gets longer and thinner  
    **Answer:** It gets longer and thinner. *Why:* The liquid inside keeps its volume. A segment squeezed thinner must get longer.
 12. (mcq) Which of these has no bone in it at all?  
-   Options: Your tongue / Your thumb / Your jaw / Your heel  
+   Options: Your thumb / Your tongue / Your jaw / Your heel  
    **Answer:** Your tongue. *Why:* A tongue is almost all muscle. Thumb, jaw and heel each have bone.
 13. (write) Why does every muscle need a partner? Use the words 'pull' and 'long'.  
    **Answer:** A muscle can only pull by getting shorter. It cannot make itself long again. So something else, usually another muscle, must pull it long before it can work again.. *Why:* A strong answer says that a muscle only shortens, and that the partner's job is to stretch it back.
@@ -616,9 +630,13 @@ Ammu put her hand on the biggest stone. It was still warm from the day.
    **Answer:** It became about four times as long. The amount of dough stayed the same. The roll got narrower from side to side and from top to bottom at once, so the dough had to spread along four times the length.. *Why:* A strong answer gives 'about four times' and says that the amount of dough did not change.
 15. (draw) Draw an arm twice: once bent and once straight. Colour the muscle that is contracted in each.  
    **Answer:** Bent arm: the biceps, on the front of the upper arm, is short and fat. Straight arm: the triceps, on the back, is short and fat. In each drawing the other muscle is long.. *Why:* A strong drawing shows the two muscles on opposite sides of the upper arm bone. Only one is short in each picture.
-### Inside the muscle and inside the joint (stretch) (stretch, 15 questions)
+16. (fill) The smallest bones in the body are inside the ____.  
+   **Answer:** ['ear']. *Why:* The three tiny bones of each ear pass the shaking of a sound inward, so you can hear. The longest bone, the thigh bone, is at the other end of the body.
+17. (sort) Sort each muscle by whether you choose to move it.  
+   **Answer:** fingers writing → Voluntary; feet kicking a football → Voluntary; heart beating → Involuntary; intestines squeezing food along → Involuntary. *Why:* You decide when to write or kick, so those muscles are voluntary. Your heart and intestines keep working without you deciding.
+### Inside the muscle and inside the joint (stretch) (stretch, 16 questions)
 1. (mcq) Under a microscope, what happens to the threads inside a muscle fibre when it contracts?  
-   Options: They slide past each other / They shrink / They coil up like springs / They melt together  
+   Options: They shrink / They coil up like springs / They melt together / They slide past each other  
    **Answer:** They slide past each other. *Why:* The actin and myosin threads keep their length and overlap more. Scientists once thought they folded or coiled, and in 1954 two teams showed otherwise.
 2. (mcq) What does a myosin arm need in order to let go of actin?  
    Options: ATP / Oxygen gas / A push from actin / Nothing  
@@ -626,14 +644,14 @@ Ammu put her hand on the biggest stone. It was still warm from the day.
 3. (truefalse) A body goes stiff some hours after death because the muscles have run out of ATP.  
    **Answer:** True. *Why:* True. Without ATP the myosin arms cannot let go of actin, so the muscles lock. The stiffness passes when the threads begin to break down.
 4. (mcq) You lower a full bucket slowly into a well. Which arm muscle works hardest?  
-   Options: The biceps, letting the arm down / The triceps, pushing the arm down / No muscle, because gravity does it / The calf  
+   Options: The triceps, pushing the arm down / The biceps, letting the arm down / No muscle, because gravity does it / The calf  
    **Answer:** The biceps, letting the arm down. *Why:* Gravity straightens the elbow. The biceps works to let the arm down slowly, so it works while it gets longer.
 5. (fill) Cartilage has no ____ vessels, so it takes its food from the fluid in the joint.  
    **Answer:** ['blood']. *Why:* Cartilage has no blood supply of its own. This is one reason why damaged cartilage heals slowly.
 6. (match) Match each part to what it does in a joint.  
    **Answer:** Cartilage → Covers the bone ends smoothly; Synovial fluid → Makes the surfaces slippery; Ligament → Ties bone to bone; Tendon → Ties muscle to bone. *Why:* Each part has one main job. Together they let a joint move smoothly without coming apart.
 7. (mcq) Where are the muscles that bend and straighten your fingers?  
-   Options: Mostly in the forearm / Inside each finger / In the palm only / In the upper arm  
+   Options: Inside each finger / In the palm only / Mostly in the forearm / In the upper arm  
    **Answer:** Mostly in the forearm. *Why:* Long tendons carry the pull from forearm muscles to the finger bones. You can feel the muscles work near your elbow when you wiggle your fingers.
 8. (mcq) At two main joints of a spider's leg, what straightens the leg?  
    Options: The pressure of the spider's blood / An extensor muscle / A spring of silk / The weight of the leg  
@@ -653,12 +671,14 @@ Ammu put her hand on the biggest stone. It was still warm from the day.
    **Answer:** A ring. The circular muscle is a thin layer round the outside, under the skin. The longitudinal muscle is a thicker layer inside it, seen as cut ends. The space in the middle is full of liquid, with the gut in the centre.. *Why:* A strong drawing has two muscle layers round a space of liquid. Arrows may show that one layer squeezes round and the other pulls along.
 15. (perspective) Is an inside skeleton better than an outside one?  
    **Answer:** Any view with a reason from the unit. For example: an exoskeleton must be moulted, and the animal is soft and in danger each time. But a tube on the outside is strong for its weight.. *Why:* Each view has something right. A strong answer names a real gain and a real cost, such as armour and moulting.
-### Tongues, moults and fair tests (challenge) (challenge, 15 questions)
+16. (sort) Sort each joint into movable or immovable.  
+   **Answer:** elbow → Movable; knee → Movable; wrist → Movable; between the plates of the skull → Immovable. *Why:* The elbow, knee and wrist bend or turn. The skull plates are locked together to protect the brain.
+### Tongues, moults and fair tests (challenge) (challenge, 16 questions)
 1. (mcq) A tongue gets a little narrower and thinner. What happens to its length?  
-   Options: It grows by a lot / It grows by the same small amount / It stays the same / It gets shorter  
+   Options: It grows by the same small amount / It stays the same / It grows by a lot / It gets shorter  
    **Answer:** It grows by a lot. *Why:* The volume stays the same. A small squeeze in two directions gives a large gain in length. That is why hydrostats can reach far and fast.
 2. (mcq) Why does a freshly moulted crab move so poorly?  
-   Options: Soft tubes bend when muscles pull / The muscles have been shed too / The crab is asleep / The new shell is too heavy  
+   Options: The muscles have been shed too / The crab is asleep / Soft tubes bend when muscles pull / The new shell is too heavy  
    **Answer:** Soft tubes bend when muscles pull. *Why:* A muscle needs something stiff to pull against. Until the new exoskeleton hardens, the tubes give way under the pull.
 3. (mcq) A plant has no muscles. How does a touch-me-not fold a leaf?  
    Options: Cells on one side let water out / A tendon pulls the leaf / The leaf dries up / Wind pushes the leaf  
@@ -674,7 +694,7 @@ Ammu put her hand on the biggest stone. It was still warm from the day.
 8. (count) A dough roll 2 centimetres wide is 5 centimetres long. Rolled to 1 centimetre wide, about how many centimetres long is it?  
    **Answer:** 20. *Why:* Half the width gives about four times the length. 5 times 4 is 20 centimetres.
 9. (mcq) Scientists disagree about why no insect is as big as a dog. What should you say?  
-   Options: Several ideas are being tested / It is because of oxygen / It is because of moulting / Nobody has studied it  
+   Options: It is because of oxygen / Several ideas are being tested / It is because of moulting / Nobody has studied it  
    **Answer:** Several ideas are being tested. *Why:* Oxygen supply, moulting, weight and being hunted by birds and bats have all been suggested. A 2026 study argued against the oxygen idea. It is honest to say the question is open.
 10. (write) Explain how you stick out your tongue, to someone who knows that muscles only pull.  
    **Answer:** Fibres that run across the tongue and from top to bottom contract. The tongue gets narrower and thinner. Its volume cannot change, so it gets longer and comes forward. A muscle from the chin also pulls the back of the tongue forward.. *Why:* A strong answer has no pushing muscle in it. It uses the idea that the tongue keeps its volume.
@@ -688,49 +708,60 @@ Ammu put her hand on the biggest stone. It was still warm from the day.
    **Answer:** A tube of shell with a second tube joined to it by a soft joint. Inside the first tube are two muscles, one fixed to each side of the next tube's base. One bends the joint and one straightens it.. *Why:* A strong drawing puts both muscles inside the tube, on opposite sides of the joint.
 15. (perspective) Is the liquid inside an earthworm a skeleton?  
    **Answer:** Any view with a reason. For example: in the Water Balloon Worm, the water passed one pair of hands' squeeze to the other pair, which is what a bone does for two muscles. But the water did nothing until the balloon shut it in.. *Why:* Scientists do call it a skeleton, because of the job it does. A strong answer says what job a skeleton does and tests the liquid against that.
+16. (truefalse) The human body has about six hundred named muscles, and only a few are voluntary.  
+   **Answer:** False. *Why:* False. Most of the muscles you move on purpose, in your arms, legs, hands and face, are voluntary. The heart and the gut muscles are the ones that work alone.
 
 ## Videos
 - **How your muscular system works - Emma Bryce** (TED-Ed, 5 min) id `VVL-8zr2hk4`: To see the three kinds of muscle and how skeletal muscles pull on bones in pairs. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
-- **Muscle Tissues and Sliding Filament Model** (Amoeba Sisters, 8 min) id `dpxalWACO7k`: To watch actin and myosin threads slide, and see why a myosin arm needs ATP to let go. It uses some words beyond this unit, so watch it together. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
+- **Muscle Tissues and Sliding Filament Model** (Amoeba Sisters, 8 min) id `dpxalWACO7k`: To watch actin and myosin threads slide, and see why a myosin arm needs ATP to let go. It uses some words beyond this lesson, so watch it together. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
 - **Earthworm: movement - hydrostatic skeleton** (Vidya-mitra, 3 min) id `Swy9dr9LtUU`: To watch a real earthworm's segments go thin and long, then short and fat, as the wave passes along. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
 
 ## Quiz
 1. (mcq) Why can a muscle not push?  
-   Options: Its threads can only slide together / It is too soft / Bones get in the way / It has no nerves  
+   Options: It is too soft / Its threads can only slide together / Bones get in the way / It has no nerves  
    **Answer:** Its threads can only slide together. *Why:* The myosin arms drag the actin threads inwards. Nothing in the fibre can drive the threads apart again.
 2. (mcq) What stretches your biceps back to its long shape?  
-   Options: The triceps, or gravity / The biceps itself / The elbow bone / The blood  
+   Options: The biceps itself / The elbow bone / The blood / The triceps, or gravity  
    **Answer:** The triceps, or gravity. *Why:* A muscle cannot lengthen itself. The triceps straightens the elbow and stretches the biceps. The weight of the arm can do it too.
 3. (mcq) Which joint is a ball and socket?  
-   Options: The hip / The knee / The wrist / A finger joint  
+   Options: The knee / The wrist / The hip / A finger joint  
    **Answer:** The hip. *Why:* The round top of the thigh bone sits in a cup in the hip bone. The knee and finger joints are hinges.
 4. (mcq) Which kind of joint lets you shake your head to say no?  
-   Options: Pivot / Hinge / Saddle / Gliding  
+   Options: Hinge / Pivot / Saddle / Gliding  
    **Answer:** Pivot. *Why:* At the top of the neck, one bone turns round a peg on the bone below. That is a pivot.
 5. (mcq) What does cartilage do in a joint?  
-   Options: Gives the bone ends a smooth cap / Ties bone to bone / Pulls the bone / Makes blood  
+   Options: Ties bone to bone / Pulls the bone / Gives the bone ends a smooth cap / Makes blood  
    **Answer:** Gives the bone ends a smooth cap. *Why:* Smooth cartilage on smooth cartilage, wetted by synovial fluid, slides with very little friction. Ligaments tie bone to bone.
 6. (mcq) A beetle's leg muscles are where?  
-   Options: Inside the hard tubes of the leg / On the outside of the shell / Only in the body, not the legs / Beetles have no muscles  
+   Options: On the outside of the shell / Inside the hard tubes of the leg / Only in the body, not the legs / Beetles have no muscles  
    **Answer:** Inside the hard tubes of the leg. *Why:* A beetle has an exoskeleton. The muscles are inside it and pull on the inner side of the shell.
 7. (mcq) What is the biggest cost of an exoskeleton?  
    Options: The animal must moult to grow / It is always too heavy / It cannot have joints / Muscles cannot pull on it  
    **Answer:** The animal must moult to grow. *Why:* A hard shell cannot grow. Each moult leaves the animal soft, slow and without armour for a time.
 8. (mcq) What is an earthworm's skeleton made of?  
-   Options: Liquid shut inside each segment / Tiny bones / Chitin / Hard skin  
+   Options: Tiny bones / Chitin / Hard skin / Liquid shut inside each segment  
    **Answer:** Liquid shut inside each segment. *Why:* Each segment is a closed bag of liquid wrapped in muscle. The liquid keeps its volume, so the muscles can work against it.
 9. (mcq) A roll of dough is squeezed to half its width. How long does it become?  
-   Options: About four times as long / Twice as long / The same length / Half as long  
+   Options: Twice as long / The same length / About four times as long / Half as long  
    **Answer:** About four times as long. *Why:* The roll gets narrower in two directions at once, so the same dough needs about four times the length. If you chose 'twice', remember that it also got thinner from top to bottom.
 10. (mcq) How does your tongue come out of your mouth?  
-   Options: Muscles pull it thinner, so it gets longer / A muscle behind it pushes / Air pressure pushes it / A bone slides forward  
+   Options: A muscle behind it pushes / Muscles pull it thinner, so it gets longer / Air pressure pushes it / A bone slides forward  
    **Answer:** Muscles pull it thinner, so it gets longer. *Why:* A tongue is a muscular hydrostat. Its volume stays the same, so when fibres pull it narrower and thinner it must lengthen.
 11. (mcq) Which of these is a muscular hydrostat?  
-   Options: An octopus's arm / A crab's leg / A bird's wing / A cat's tail  
+   Options: A crab's leg / An octopus's arm / A bird's wing / A cat's tail  
    **Answer:** An octopus's arm. *Why:* An octopus's arm is almost all muscle, with no bone and no shell. A crab's leg has a shell, and a wing and a tail have bones.
 12. (mcq) In a fair test of finger lifting, what must stay the same for every finger?  
-   Options: How the height is measured / Which finger is lifted / The height reached / Nothing  
+   Options: Which finger is lifted / The height reached / How the height is measured / Nothing  
    **Answer:** How the height is measured. *Why:* Only the finger changes. The ruler, the helper, the hand position and the way of measuring stay the same, so the numbers can be compared.
+13. (mcq) Which is the longest bone in an adult's body?  
+   Options: The thigh bone / The bone of the upper arm / The bone of the spine / The bone of the skull  
+   **Answer:** The thigh bone. *Why:* The thigh bone runs from the hip to the knee and is the longest bone we have. The smallest bone is not in the arm or the leg at all. It is deep inside the ear.
+14. (mcq) Which of these joints does not move?  
+   Options: The elbow / The plates of the skull / The knee / A finger joint  
+   **Answer:** The plates of the skull. *Why:* The plates of the skull lock together and do not move, to protect the brain. The elbow, knee and finger joints are movable joints.
+15. (mcq) Which muscle keeps working while you are fast asleep, without you deciding?  
+   Options: The muscle that lifts your finger / The muscle that moves your tongue to speak / The heart / The muscle that kicks a ball  
+   **Answer:** The heart. *Why:* The heart is an involuntary muscle. It works all day and night without being told. The other three are voluntary muscles. They move only when you decide.
 
 ## Applications
 - A physiotherapist treats a stiff or weak joint by working on both muscles of a pair. Strengthening one and stretching its partner go together.
@@ -744,10 +775,10 @@ Ammu put her hand on the biggest stone. It was still warm from the day.
 ## Spotted around us
 - An earthworm on wet ground after the first rains. Watch one part of the body go thin and reach forward while another part goes fat and grips.
 - The empty brown skins of cicadas, holding on to tree trunks. Each one has a split down the back where the insect climbed out.
-- The Chinese fishing nets at Fort Kochi in Kerala. The crew's weight pulls the net down, and stones on ropes pull it up again.
+- A big fishing net hung from a wooden frame by the shore. The crew's weight pulls the net down, and stones on ropes pull it up again.
 - An elephant at a temple or in a forest such as Mudumalai, picking up one banana or a whole bundle of leaves with the trunk.
 - A dead spider in a corner, with every leg curled in. No pressure is left to hold the legs straight.
-- Crabs running sideways on a beach in Chennai, Goa or Puri. Their leg joints are hinges that swing mostly one way.
+- Crabs running sideways on a beach. Their leg joints are hinges that swing mostly one way.
 - A touch-me-not plant by a roadside or in a garden. Brush a leaf and watch it fold.
 - An excavator digging a road. Shiny rods slide in and out of cylinders on the arm as liquid is pushed in.
 
@@ -802,6 +833,12 @@ This Body Is a Universe (sci.body.L5): Topic-level song
 ## Things to buy
 - [Round party balloons, a small packet](https://www.amazon.in/s?k=party+balloons) (material): For the Water Balloon Worm. Any general store sells them. A thin polythene bag tied tightly shut works in their place, though it is harder to hold. Used in a4. 
 - [A hand lens (magnifying glass)](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): For Armour Up Close. A phone camera held close and zoomed in works in its place. Used in a5. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Dough Worm: if a body gets half as wide, how much longer does it get?, The Finger Lift: which finger can lift highest all alone?, The Tongue Puzzle: what pushes a tongue out?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, a1, a4, p1. Get it before The Dough Worm: if a body gets half as wide, how much longer does it get?.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in The Tongue Puzzle: what pushes a tongue out?. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in a1. Get it before The Tongue Puzzle: what pushes a tongue out?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in The Dough Worm: if a body gets half as wide, how much longer does it get?. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in e1. Get it before The Dough Worm: if a body gets half as wide, how much longer does it get?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Droop and Rise: a water skeleton in a plant. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a6. Get it before Droop and Rise: a water skeleton in a plant.
+- [Postcards or plain cards](https://www.amazon.in/s?k=blank+postcards) (material): Used in The Dough Worm: if a body gets half as wide, how much longer does it get?. About ₹5 to ₹20. Cut card from a cereal box. Used in e1. Get it before The Dough Worm: if a body gets half as wide, how much longer does it get?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Can a muscle push? → No. A muscle can only pull, by getting shorter.
@@ -821,9 +858,9 @@ This Body Is a Universe (sci.body.L5): Topic-level song
 ## Sources
 - Founder's notebook, item bio:20, 'Musculoskeletal system', which this subtopic is mapped to.
 - Founder's topic notes for body parts and skeleton (ideas/by_topic/body-parts-and-skeleton.md): the evolution picture book pages on the first animals to swim using muscles and on the first exoskeletons, and the SCI Card for Gerty Cori on how muscles use energy.
-- DeepKids Combined lessons sci-C4 and sci-C5 on body parts and skeleton: muscles contract, relax and work in pairs. Tendons and ligaments. Kinds of joints. Exoskeletons, moulting and hydrostatic skeletons. This unit takes each of these further and does not reuse their stories or experiments.
+- DeepKids Combined lessons sci-C4 and sci-C5 on body parts and skeleton: muscles contract, relax and work in pairs. Tendons and ligaments. Kinds of joints. Exoskeletons, moulting and hydrostatic skeletons. This lesson takes each of these further and does not reuse their stories or experiments.
 - Curriculum entry sci.body.skeleton.L5: muscles work in pairs, joints, exoskeletons and hydrostatic skeletons.
-- The Level 2 and Level 4 units of this subtopic, read so that this unit builds on them: hinge and ball and socket joints (Level 2), and levers, bone and the three kinds of skeleton (Level 4).
+- The Level 2 and Level 4 units of this subtopic, read so that this lesson builds on them: hinge and ball and socket joints (Level 2), and levers, bone and the three kinds of skeleton (Level 4).
 - Huxley A. F., Niedergerke R. (1954). Structural changes in muscle during contraction: interference microscopy of living muscle fibres. Nature 173: 971-973.
 - Huxley H., Hanson J. (1954). Changes in the cross-striations of muscle during contraction and stretch and their structural interpretation. Nature 173: 973-976.
 - Kier W. M., Smith K. K. (1985). Tongues, tentacles and trunks: the biomechanics of movement in muscular-hydrostats. Zoological Journal of the Linnean Society 83: 307-324. https://doi.org/10.1111/j.1096-3642.1985.tb01178.x

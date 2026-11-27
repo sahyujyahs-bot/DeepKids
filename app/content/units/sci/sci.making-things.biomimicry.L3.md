@@ -1,7 +1,7 @@
 # Biomimicry: copying how living things solve their problems
 `sci.making-things.biomimicry.L3`
 
-**Summary.** Velcro was copied from a plant's hooked burrs. What else can people copy from living things? In this unit you will test why water rolls off a leaf, test what makes a dive splash less, and build walls like a termite mound to keep ice cold.
+**Summary.** Velcro was copied from a plant's hooked burrs. What else can people copy from living things? In this lesson you will test why water rolls off a leaf, test what makes a dive splash less, and build walls like a termite mound to keep ice cold.
 
 **Intro.** *Find a shoe or a bag with a Velcro strap. Look closely at its two sides. One side has tiny stiff hooks. The other side has soft loops. A plant was using hooks like these long before anyone made Velcro. Why would a plant need hooks?* A burdock plant cannot walk. If their seeds just dropped to the ground, they would grow right under the parent plant. There they would have to share their parent's light, water and soil. So the burdock's seed heads, called burrs, are covered in stiff spines with tiny hooks at the tips. When a fox, a cow or a dog brushes past, the hooks catch in their fur. The animal carries the burr away, and the seeds fall off in new ground. Over many generations, burdock plants whose hooks gripped better spread further, so strong hooks became common. In 1941, a Swiss engineer called George de Mestral came home from a walk in the mountains with burrs all over his clothes and his dog. He looked at one under a microscope. He saw hundreds of tiny hooks caught in loops of fur and thread. He copied exactly that: one strip of hooks and one strip of loops. That became Velcro.
 
@@ -619,7 +619,7 @@ People tell this story now in many countries. They say that a train copied a kin
 2. (write) In your own words, what is biomimicry? Give one example that is not Velcro.  
    **Answer:** Biomimicry is finding out how a living thing solves a problem in their life, and using the same idea to solve a human problem. For example, the lotus leaf's tiny waxy bumps make rain roll off, and self-cleaning paint copies them.. *Why:* A strong answer has both parts: the living thing's own problem and how they solve it, and the human problem the copy solves.
 3. (mcq) Sprinkle a little chalk dust on a chembu leaf. Then drip water on the leaf and tilt it. What will the rolling drops do to the chalk dust?  
-   Options: Push it into the leaf / Pick it up and carry it off the leaf / Leave it exactly where it was / Turn it into mud that sticks to the leaf  
+   Options: Push it into the leaf / Leave it exactly where it was / Pick it up and carry it off the leaf / Turn it into mud that sticks to the leaf  
    **Answer:** Pick it up and carry it off the leaf. *Why:* The drops stay round and roll. As they roll, dust sticks to the water more than to the waxy bumps, so the drops carry it away. This is how a lotus leaf stays clean in a muddy pond. A strong answer says why the dust sticks to the drop and not to the leaf.
 4. (fill) Velcro has tiny ____ on one strip and soft loops on the other.  
    **Answer:** ['hooks']. *Why:* The hooks on one strip catch in the loops on the other, just as a burr's hooks catch in an animal's fur.
@@ -631,14 +631,14 @@ People tell this story now in many countries. They say that a train copied a kin
 7. (sort) Sort each one by the problem it solves.  
    **Answer:** a burr → Holding on; a gecko's toes → Holding on; Velcro → Holding on; a lotus leaf → Staying clean and dry; self-cleaning paint → Staying clean and dry; a termite mound → Keeping cool; a clay water pot → Keeping cool; a thick-walled mud house → Keeping cool. *Why:* Living things and inventions that look nothing alike can solve the same problem. Sorting by problem, not by looks, is how inventors find ideas.
 8. (mcq) Some people think a gecko's feet are sticky, like glue. What could you check to show that this is wrong?  
-   Options: What colour the gecko is / How fast the gecko runs / Whether the window is cold / Whether the gecko leaves glue marks on the glass  
+   Options: What colour the gecko is / How fast the gecko runs / Whether the gecko leaves glue marks on the glass / Whether the window is cold  
    **Answer:** Whether the gecko leaves glue marks on the glass. *Why:* Glue would leave marks, and it would get dirty and stop working. Gecko feet leave no glue. They grip because hundreds of millions of tiny hair tips get so close to the wall that their atoms pull on the wall's atoms.
 9. (write) In the ice experiment, which cup house kept its ice the longest? Give your result, and explain it using the word 'walls'.  
    **Answer:** For example: the cup in thick newspaper kept its ice for 50 minutes, and the bare cup for only 20. Thick walls slow down the heat from the sun getting in, so the ice melts more slowly.. *Why:* A strong answer gives the child's own numbers, and explains that walls slow heat getting in. They do not make cold.
 10. (truefalse) To copy a living thing well, an invention must look like that living thing.  
    **Answer:** False. *Why:* False. Good biomimicry copies how something works, not how it looks. Velcro looks nothing like a burdock plant, but Velcro uses the same hooks. Many people guess 'true' at first.
 11. (mcq) The first bullet trains in Japan made a loud boom every time they came out of a tunnel. Why?  
-   Options: They squeezed the air in front of them, and it burst out of the far end / Their engines exploded / They hit the tunnel walls / Birds flew into them  
+   Options: Their engines exploded / They hit the tunnel walls / They squeezed the air in front of them, and it burst out of the far end / Birds flew into them  
    **Answer:** They squeezed the air in front of them, and it burst out of the far end. *Why:* A fast train pushes the air ahead of it, like a plunger in a pipe. The squeezed air rushes ahead and bursts out of the tunnel with a boom. Nothing broke. It was the air.
 12. (perspective) Two children are arguing about who should get the credit for Velcro.  
    **Answer:** A strong answer picks a side and backs it up. For de Mestral: the plant's hooks could not hold a shoe strap, and it took him years to find hooks and loops that work in cloth. For the plant: without the burr there would be no idea to copy. It then admits a fair point from the other side.. *Why:* There is no single right answer. This is a question about what counts as inventing: having the design, or making it useful for people.
@@ -647,21 +647,21 @@ People tell this story now in many countries. They say that a train copied a kin
 14. (draw) Draw a burr's hook catching a loop of wool. Label the hook and the loop.  
    **Answer:** A curved hook, like the letter J, caught through a round loop of wool, both labelled.. *Why:* The hook catches in the loop, so they hold together. A strong drawing shows the hook going through the loop, not just touching it.
 15. (mcq) In the leaf experiment, the drops on the smooth, shiny steel plate stayed as domes and often did not roll. The drops on the chembu leaf rolled away. What does this show?  
-   Options: Smooth things always make water roll / Being smooth is not enough. The leaf's tiny bumps and wax make the difference / Steel soaks up water / The steel plate was not tilted enough  
+   Options: Smooth things always make water roll / Steel soaks up water / Being smooth is not enough. The leaf's tiny bumps and wax make the difference / The steel plate was not tilted enough  
    **Answer:** Being smooth is not enough. The leaf's tiny bumps and wax make the difference. *Why:* Many people think smooth and shiny means slippery for water. The steel plate shows that is not so. The chembu leaf is bumpy and waxy, and that is what keeps the drops round so they roll.
 16. (truefalse) Every kind of bird that dives into water has a long, pointed beak like a kingfisher's.  
    **Answer:** False. *Why:* False. Brown pelicans plunge into the sea with a huge pouched beak. Cormorants and ducks dive from the surface with hooked or flat beaks. The kingfisher's long, slowly widening beak is one good answer to the splash problem, not the only one. A strong answer names another diving bird or says what else could help, such as folding the wings back.
 ### How Nature's Designs Work (stretch) (stretch, 16 questions)
 1. (mcq) Why does touching a lotus leaf with your fingers spoil the lotus effect in that spot?  
-   Options: Fingers make the leaf colder / Fingers rub off the wax / Fingers are wet  
+   Options: Fingers rub off the wax / Fingers make the leaf colder / Fingers are wet  
    **Answer:** Fingers rub off the wax. *Why:* The leaf's self-cleaning needs both the bumps and the wax. Rubbing wipes away the wax, so water can grip that spot and spread. 'Fingers are wet' is a fair thought, but even dry fingers rub off wax.
 2. (write) In the Lotus Spoon activity, the sooty spoon looked silver under water, but a clean spoon did not. Explain what the silver shine was, and how this is like a lotus leaf.  
    **Answer:** The soot is covered in tiny bumps. Water cannot push into the gaps between them, so a thin layer of air stays trapped there. Light bounces off the air and looks silver. A lotus leaf also keeps air between their bumps, so the water sits on top and rolls.. *Why:* A strong answer names the trapped air and links it to the lotus leaf's bumps.
 3. (mcq) In the splash experiment, why must every dough shape have the same amount of dough and be dropped from the same height?  
-   Options: Because 30 centimetres is a lucky height / To make the splash bigger / So that only the shape changes, and we know the shape caused the difference  
+   Options: So that only the shape changes, and we know the shape caused the difference / Because 30 centimetres is a lucky height / To make the splash bigger  
    **Answer:** So that only the shape changes, and we know the shape caused the difference. *Why:* In a fair test, only one thing changes. A heavier lump or a higher drop makes a bigger splash. Then you could not tell whether the shape or the weight made the difference.
 4. (mcq) One girl's splash results were pancake 22 spots, ball 9, beak 2. Her friend's results were pancake 15, ball 6, beak 1. The numbers are different. Do the two tests agree?  
-   Options: No, because the numbers are different / No, so one of the tests must be wrong / You cannot compare two tests / Yes. Both show the same order: pancake most, beak least  
+   Options: Yes. Both show the same order: pancake most, beak least / No, because the numbers are different / No, so one of the tests must be wrong / You cannot compare two tests  
    **Answer:** Yes. Both show the same order: pancake most, beak least. *Why:* The exact numbers depend on things like the bucket and the newspaper. What matters is the pattern, and both tests show the same pattern. A strong answer says that the order is what both tests found.
 5. (write) Eiji Nakatsu, a Japanese train engineer who loved watching birds, said the kingfisher and the bullet train have the same problem. What is the problem? Explain how the beak shape solves it.  
    **Answer:** Both push fast into something that cannot get out of the way quickly: the kingfisher into water, the train into the air inside a tunnel. A blunt front shoves it all at once, which makes a splash or a boom. A long front that widens slowly pushes it aside a little at a time.. *Why:* A strong answer names both the water and the air, and explains 'a little at a time'.
@@ -677,7 +677,7 @@ People tell this story now in many countries. They say that a train copied a kin
 10. (fill) A first, rough model of an invention, made to test an idea, is called a ____.  
    **Answer:** ['prototype']. *Why:* A prototype is a quick first try. Engineers expect it to have problems, because testing it shows how to make it better.
 11. (mcq) Early inventors built machines with flapping wings, and none could lift a person. Later, a plane with fixed wings that could twist at the tips to balance did fly. What is the lesson for copying birds?  
-   Options: Copy how a part works, like the wing twist for balance, not just how it looks / Flapping is the only way to fly / Feathers are the secret / Beaks help planes fly  
+   Options: Flapping is the only way to fly / Copy how a part works, like the wing twist for balance, not just how it looks / Feathers are the secret / Beaks help planes fly  
    **Answer:** Copy how a part works, like the wing twist for balance, not just how it looks. *Why:* Copying the look of flapping did not work for big machines. Copying a design idea, the twist that keeps a bird balanced, did.
 12. (write) The Lotus Temple in Delhi is shaped like a lotus flower. Self-cleaning paint looks nothing like a lotus. Which one is biomimicry? Explain.  
    **Answer:** The self-cleaning paint is biomimicry. It copies the lotus leaf's tiny waxy bumps, so rain washes it clean. The temple only copies the look of the flower.. *Why:* Biomimicry copies how something works. Copying only the look is art or decoration, which is lovely too, but different.
@@ -688,11 +688,11 @@ People tell this story now in many countries. They say that a train copied a kin
 15. (draw) Draw a water drop sitting on a lotus leaf, as if you could see it from the side, very close up. Show the bumps, the wax and the air.  
    **Answer:** A round drop resting on the tips of bumps, a thin wax coat on each bump, and air in the gaps under the drop.. *Why:* This shows why the drop stays round: it touches only the tips, and air fills the rest. A strong drawing shows the drop not sinking between the bumps.
 16. (mcq) Why is a big splash a problem for a kingfisher?  
-   Options: Splashing makes the kingfisher wet / Splashing scares other kingfishers away / The splash warns the fish, and slapping the water slows the bird down / The kingfisher cannot see in a splash  
+   Options: Splashing makes the kingfisher wet / The splash warns the fish, and slapping the water slows the bird down / Splashing scares other kingfishers away / The kingfisher cannot see in a splash  
    **Answer:** The splash warns the fish, and slapping the water slows the bird down. *Why:* A kingfisher lives by catching small fish. A blunt head would slap the water, slow the bird down and send out ripples that warn the fish. A slowly widening beak solves the kingfisher's own problem, long before trains.
 ### Atoms, Evolution and Big Arguments (challenge) (challenge, 15 questions)
 1. (mcq) Deep down, why does water pull itself into a ball on a waxy leaf?  
-   Options: Wax pushes water away with magnets / The leaf is spinning / Water molecules pull on each other more strongly than the wax pulls on them / The water is too cold  
+   Options: Wax pushes water away with magnets / Water molecules pull on each other more strongly than the wax pulls on them / The leaf is spinning / The water is too cold  
    **Answer:** Water molecules pull on each other more strongly than the wax pulls on them. *Why:* Water molecules tug on each other. Wax hardly pulls on water at all. So the water's own pull wins, and it gathers into a round drop. The pull between molecules is electric, but it is not magnetism.
 2. (write) In the cling film activity, the film held on to smooth glass and steel but fell off a towel and a rough wall. Use this to explain why a gecko needs millions of tiny, bendy hairs, not one flat pad.  
    **Answer:** Cling film grips only where it gets extremely close to a surface. On a rough wall, it touches only the tops of the bumps. A gecko's walls and trees are rough too. Millions of tiny bendy hairs can reach into the dips, so much more of the foot gets close enough to grip.. *Why:* A strong answer links the result to 'getting very close', and explains why many tiny bendy tips beat one stiff pad on a bumpy surface.
@@ -706,7 +706,7 @@ People tell this story now in many countries. They say that a train copied a kin
    Options: Kingfishers dive with little splash / Geckos climb glass / Lotus leaves stay clean / Your eye has a blind spot, but an octopus eye does not  
    **Answer:** Your eye has a blind spot, but an octopus eye does not. *Why:* Evolution changes what is already there, a little at a time. Our eyes are wired in a way that leaves a blind spot. An octopus eye, which evolved separately, is wired the other way and has none. The other answers show designs working well.
 7. (mcq) A car company copied the shape of the boxfish, thinking it helps the fish slip fast through water. Later, scientists found the shape mainly helps the fish turn and steer. What is the lesson?  
-   Options: Find out what a shape is really for before copying it / Never copy fish / All cars should be shaped like boxes / Fish cannot swim fast  
+   Options: Never copy fish / Find out what a shape is really for before copying it / All cars should be shaped like boxes / Fish cannot swim fast  
    **Answer:** Find out what a shape is really for before copying it. *Why:* A shape solves a problem in the animal's own life. Before copying it, find out which problem, or the copy may not do what you hoped.
 8. (sort) Sort these. Does each one copy how a living thing works, or only how it looks?  
    **Answer:** a train nose that widens slowly, like a kingfisher's beak → Copies how it works; a dolphin-shaped swimming float → Copies only the look; a slippery coating copied from the inside of a pitcher plant → Copies how it works; a peacock-feather pattern printed on a sari → Copies only the look; gripper tape with tiny hairs, like a gecko's toes → Copies how it works; a butterfly-shaped hair clip → Copies only the look. *Why:* Copying the working part solves a problem. Copying the look decorates. A strong answer can say what working part each 'how it works' item copies.
@@ -734,10 +734,10 @@ People tell this story now in many countries. They say that a train copied a kin
 
 ## Quiz
 1. (mcq) What does biomimicry mean?  
-   Options: Studying how animals sleep / Making machines that look like animals / Protecting plants / Copying how a living thing solves a problem, to solve a human problem  
+   Options: Studying how animals sleep / Making machines that look like animals / Copying how a living thing solves a problem, to solve a human problem / Protecting plants  
    **Answer:** Copying how a living thing solves a problem, to solve a human problem. *Why:* Biomimicry copies how living things solve the problems of their own lives. Picking 'machines that look like animals' is a common mix-up. A good copy uses how the living thing works, not how they look.
 2. (mcq) Which of these is an example of biomimicry?  
-   Options: Velcro, copied from a burr's hooks / A plastic flower for decoration / A photo of a gecko / A toy shaped like a fish  
+   Options: A plastic flower for decoration / A photo of a gecko / A toy shaped like a fish / Velcro, copied from a burr's hooks  
    **Answer:** Velcro, copied from a burr's hooks. *Why:* Velcro copies a working design, the hooks. The plastic flower and the fish toy only copy a look. A photo copies nothing that works.
 3. (mcq) Why does a burdock plant have hooked burrs?  
    Options: So animals cannot eat them / So animals carry their seeds to new ground / To catch insects for food / So they can climb up walls  
@@ -746,22 +746,22 @@ People tell this story now in many countries. They say that a train copied a kin
    Options: Their hooks catch in the wool's loops / Wool is sticky / Burrs like warm things  
    **Answer:** Their hooks catch in the wool's loops. *Why:* Hooks need loops to catch. Wool and fur are full of loops. Smooth cloth has none. Picking 'wool is sticky' means thinking the grip is glue. It is hooks and loops.
 5. (mcq) Velcro's hooks hold tight when you press the two strips together. Why can you still peel them apart easily?  
-   Options: The hooks melt when you pull / Peeling pulls only a few bendy hooks at a time, and each one bends open and slips out of its loop / The loops disappear / Velcro has glue that dries out  
+   Options: Peeling pulls only a few bendy hooks at a time, and each one bends open and slips out of its loop / The hooks melt when you pull / The loops disappear / Velcro has glue that dries out  
    **Answer:** Peeling pulls only a few bendy hooks at a time, and each one bends open and slips out of its loop. *Why:* Peeling makes only a few hooks let go at once, so each pull is small. Pulling the whole strip straight off is much harder, because every hook must let go together. Burrs come off fur the same way, a few hooks at a time. Picking 'glue' means thinking the grip is sticky. It is hooks and loops.
 6. (mcq) Why does a lotus plant need their leaves to stay clean?  
-   Options: So people think it looks pretty / So frogs can sit on it / Dirt would block the sunlight the leaf uses to make food  
+   Options: So people think it looks pretty / Dirt would block the sunlight the leaf uses to make food / So frogs can sit on it  
    **Answer:** Dirt would block the sunlight the leaf uses to make food. *Why:* A leaf makes food from sunlight, so dirt on it means less food. Germs and spores left on a leaf can also make the plant sick. Picking 'so people think it looks pretty' thinks about what people want, not what the lotus needs. The lotus keeps clean for their own life.
 7. (mcq) What makes a lotus leaf stay clean?  
    Options: It is perfectly smooth / Tiny waxy bumps that make water roll off and carry dirt away / It is always under water / It is sticky, so dirt can't land  
    **Answer:** Tiny waxy bumps that make water roll off and carry dirt away. *Why:* The bumps and wax make drops stay round and roll, picking up dirt. Picking 'perfectly smooth' is the most common wrong idea. The leaf is bumpy.
 8. (mcq) On which surface did the drops roll off most easily in the leaf experiment?  
-   Options: The paper / The chembu or lotus leaf / The steel plate  
+   Options: The paper / The steel plate / The chembu or lotus leaf  
    **Answer:** The chembu or lotus leaf. *Why:* On the chembu leaf, drops stay round and roll at a small tilt. Paper soaks water up. On steel, drops sit as domes and often stay put. Picking steel usually means thinking 'smooth and shiny means slippery for water'.
 9. (mcq) A fast train makes a loud boom when it rushes out of a tunnel, because it squeezes the air ahead of it. Which nose shape would help most?  
-   Options: A flat, blunt nose / A nose painted to look like a bird / A bigger engine / A long nose that widens slowly, like a kingfisher's beak  
+   Options: A flat, blunt nose / A long nose that widens slowly, like a kingfisher's beak / A nose painted to look like a bird / A bigger engine  
    **Answer:** A long nose that widens slowly, like a kingfisher's beak. *Why:* A blunt nose squeezes the air all at once, which bursts out with a boom. A long nose that widens slowly parts the air gently, as a kingfisher's beak parts water. Painting it like a bird copies the look, not the design.
 10. (mcq) How does a gecko stick to a glass window?  
-   Options: Millions of tiny hairs get so close that their atoms pull on the glass / Sticky glue on their toes / Suction cups on their feet / Tiny claws that dig into the glass  
+   Options: Sticky glue on their toes / Millions of tiny hairs get so close that their atoms pull on the glass / Suction cups on their feet / Tiny claws that dig into the glass  
    **Answer:** Millions of tiny hairs get so close that their atoms pull on the glass. *Why:* Gecko hairs split into hundreds of millions of tiny tips. They get extremely close to the glass, and the atoms pull on each other. Claws cannot dig into glass, because glass is too hard. There is no glue, and experiments ruled out suction.
 11. (mcq) In the ice experiment, why did the cup wrapped in thick newspaper keep its ice longer than the bare cup?  
    Options: Newspaper is cold / Thick walls slow down the heat getting in / The newspaper cup had a bigger ice cube  
@@ -770,19 +770,19 @@ People tell this story now in many countries. They say that a train copied a kin
    Options: Turn it into water / Keep it perfectly still / Move it one way by day and the other way at night  
    **Answer:** Move it one way by day and the other way at night. *Why:* Warm air rises and cool air sinks. When the walls are warmer than the middle, the air moves one way. When they are cooler, it moves the other way. So the mound breathes with no fans.
 13. (mcq) You test your grip invention. Which is a fair test?  
-   Options: Test it and a plain version on the same slope, with the same weight / Test your invention on a rough floor, and the plain version on a smooth floor / Test only your invention  
+   Options: Test your invention on a rough floor, and the plain version on a smooth floor / Test only your invention / Test it and a plain version on the same slope, with the same weight  
    **Answer:** Test it and a plain version on the same slope, with the same weight. *Why:* In a fair test, only one thing changes. If the floors are different, you can't tell whether the invention or the floor made the difference. Testing only your invention gives nothing to compare it with.
 14. (mcq) Look at the made-up splash results. Which shape splashed least?  
-   Options: Flat pancake / Pointed beak / Ball  
+   Options: Pointed beak / Flat pancake / Ball  
    **Answer:** Pointed beak. *Why:* The shortest bar is the pointed beak, with 2 splash spots. Picking 'flat pancake' means reading the tallest bar as the best. Here a tall bar means a big splash.
 15. (mcq) Where did the burr's hooks and the gecko's hairs come from?  
-   Options: A scientist designed them / They were made in a factory / Evolution over millions of years  
+   Options: A scientist designed them / Evolution over millions of years / They were made in a factory  
    **Answer:** Evolution over millions of years. *Why:* Over many generations, plants with better hooks and geckos with better grip left more young. So those features spread. Picking 'a scientist designed them' mixes up nature's designs with people's copies of them.
 16. (mcq) Deep down, the gecko's grip and the water drop's round shape both come from…  
-   Options: Gravity / Magnets / Electric pulls between atoms and molecules / Glue  
+   Options: Electric pulls between atoms and molecules / Gravity / Magnets / Glue  
    **Answer:** Electric pulls between atoms and molecules. *Why:* Gecko hair tips and the wall pull on each other with tiny electric forces. Water molecules pull on each other with electric forces too, which rounds a drop. Picking gravity is common, but gravity here is far too weak.
 17. (mcq) Which of these do scientists still argue about?  
-   Options: Whether lotus leaves have bumps / Whether Velcro has hooks / Whether kingfishers dive into water / Whether a thin film of water helps geckos grip  
+   Options: Whether a thin film of water helps geckos grip / Whether lotus leaves have bumps / Whether Velcro has hooks / Whether kingfishers dive into water  
    **Answer:** Whether a thin film of water helps geckos grip. *Why:* Scientists agree the pull between atoms does most of the gecko's grip. They still argue about how much a thin film of water helps. The other three can be seen with a microscope or your own eyes.
 
 ## Applications
@@ -808,7 +808,7 @@ People tell this story now in many countries. They say that a train copied a kin
 - Silver balls of rain rolling on lotus leaves in a temple tank, or on chembu leaves in a garden.
 - A kingfisher sitting on an electric wire over a pond or canal, then diving.
 - A chhipkali, the house gecko, upside down on the ceiling near the tube light.
-- Termite mounds in fields and forests, especially in south and central India.
+- Termite mounds in fields and forests.
 - A clay water pot (kooja, matka or surahi) keeping water cool in summer.
 - A honeycomb hanging from a tree or under a balcony, with six-sided cells.
 
@@ -864,14 +864,21 @@ Look Close, Then Make (sci.making-things.L3): Topic-level song
 - [Nehru Science Centre](https://www.nehrusciencecentre.gov.in) · place · Mumbai: A science centre with many hands-on exhibits about how things are made and how they work.
 - [National Science Centre](https://www.nscd.gov.in) · place · New Delhi: A science centre with galleries on science and technology. Look for inventions and machines.
 - [The Lotus Temple](https://bahaihouseofworship.in) · place · New Delhi: A building shaped like a lotus flower. Talk about copying a look, and compare it with the lotus leaf's real design.
-- [Keoladeo National Park]() · place · Bharatpur, Rajasthan: A famous wetland for birds. Look for kingfishers diving, and watch how little they splash.
-- [A pond, lake or temple tank near you]() · place · anywhere: Look for lotus leaves after rain, kingfishers on wires, and dragonflies. Sit still and watch, like Eiji Nakatsu.
+- Keoladeo National Park · place · Bharatpur, Rajasthan: A famous wetland for birds. Look for kingfishers diving, and watch how little they splash.
+- A pond, lake or temple tank near you · place · anywhere: Look for lotus leaves after rain, kingfishers on wires, and dragonflies. Sit still and watch, like Eiji Nakatsu.
 
 ## Things to buy
 - [Magnifying glass (hand lens), 5 times or 10 times](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): To look closely at burrs, Velcro, leaves and feathers, the way inventors do. Used in a1, a2, e1. 
 - [Plastic droppers (pipettes)](https://www.amazon.in/s?k=plastic+dropper+pipette+kids) (tool): To make drops of the same size, so the leaf and spoon tests are fair. Used in e1, a5. 
 - [Soft paintbrushes with long bristles](https://www.amazon.in/s?k=soft+paint+brush+set+kids) (tool): For the Gecko Toe Prints activity. Soft bristles act like gecko hairs. Used in a3. 
 - [Cling film (food wrap)](https://www.amazon.in/s?k=cling+film+food+wrap) (material): For the How Close Is Close? activity, testing which surfaces it clings to without glue. Used in a4. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Splash Like a Kingfisher, My Nature Invention. About ₹10 to ₹30. Any school ruler is fine. Used in e2, p1. Get it before Splash Like a Kingfisher.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in How Close Is Close? (cling film). About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in a4. Get it before How Close Is Close? (cling film).
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Splash Like a Kingfisher. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in e2. Get it before Splash Like a Kingfisher.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Gecko Toe Prints, My Nature Invention, Make a Fastener Like a Burr. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in a3, p1, c1. Get it before Gecko Toe Prints.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Hitchhiker Sock Walk, Zoom In Like an Inventor. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a1, a2. Get it before The Hitchhiker Sock Walk.
+- [A kitchen or weighing scale](https://www.amazon.in/s?k=digital+kitchen+weighing+scale) (tool): Used in Splash Like a Kingfisher. About ₹300 to ₹700. A home-made balance from a ruler and two cups can compare weights. Used in e2. Get it before Splash Like a Kingfisher.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What does biomimicry mean? → Learning how a plant or an animal solves a problem in their own life, and copying the idea to solve a human problem.
@@ -894,7 +901,7 @@ Look Close, Then Make (sci.making-things.L3): Topic-level song
 
 ## Sources
 - DeepKids notebook items bio:297 'Biomimetics & Bionics', bio:298 'Engineering inspired by biology', bio:300 'Bio-inspired materials (gecko tape, lotus effect, spider silk)'
-- The founder's brief for this unit: the kingfisher-nosed bullet train, burrs and Velcro, lotus leaves and self-cleaning surfaces, termite mounds and cooling, gecko feet, and children designing and testing their own nature-inspired things
+- The founder's brief for this lesson: the kingfisher-nosed bullet train, burrs and Velcro, lotus leaves and self-cleaning surfaces, termite mounds and cooling, gecko feet, and children designing and testing their own nature-inspired things
 - DeepKids Combined Class 5 Forces and movement: the 'Nature's shapes' step and voice v1 (Eiji Nakatsu and the kingfisher beak), and its dough-in-water idea, adapted into the splash experiment
 - DeepKids Combined Class 2 Habitats: experiment e2 'The leaf that water can't wet' (colocasia leaf, dust and rolling drops), deepened into experiment e1
 - DeepKids Combined Class 5 Water: the lotus effect step and self-cleaning paint

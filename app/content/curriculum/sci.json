@@ -143,7 +143,8 @@
    ],
    "subtopic_levels": [
     "sci.food.healthy-food.L1",
-    "sci.food.where-food-comes-from.L1"
+    "sci.food.where-food-comes-from.L1",
+    "sci.food.food-through-life.L1"
    ],
    "chapters": [
     "C1-1.4"
@@ -215,7 +216,9 @@
    ],
    "subtopic_levels": [
     "sci.health.hygiene.L1",
-    "sci.health.feelings-and-wellbeing.L1"
+    "sci.health.feelings-and-wellbeing.L1",
+    "sci.health.safe-touch.L1",
+    "sci.health.breathe-and-stretch.L1"
    ],
    "chapters": []
   },
@@ -284,7 +287,8 @@
     1
    ],
    "subtopic_levels": [
-    "sci.me-and-others.me-and-others.L1"
+    "sci.me-and-others.me-and-others.L1",
+    "sci.me-and-others.playing-fair.L1"
    ],
    "chapters": [
     "C1-3.1",
@@ -616,7 +620,8 @@
     2
    ],
    "subtopic_levels": [
-    "sci.energy.heat.L2"
+    "sci.energy.heat.L2",
+    "sci.energy.vehicles-and-fuels.L2"
    ],
    "chapters": []
   },
@@ -726,7 +731,8 @@
    ],
    "subtopic_levels": [
     "sci.health.exercise-and-rest.L2",
-    "sci.health.sleep.L2"
+    "sci.health.sleep.L2",
+    "sci.health.safe-at-home.L2"
    ],
    "chapters": [
     "C2-4.4"
@@ -1065,7 +1071,8 @@
     "sci.animals.animal-bodies.L3",
     "sci.animals.animal-minds.L3",
     "sci.animals.vertebrate-groups.L3",
-    "sci.animals.invertebrates.L3"
+    "sci.animals.invertebrates.L3",
+    "sci.animals.insects.L3"
    ],
    "chapters": [
     "N3-5"
@@ -1270,7 +1277,9 @@
     "sci.energy.energy-around-us.L3",
     "sci.energy.heat.L3",
     "sci.energy.stored-energy.L3",
-    "sci.energy.heat-moves.L3"
+    "sci.energy.heat-moves.L3",
+    "sci.energy.using-the-sun.L3",
+    "sci.energy.renewable-and-not.L3"
    ],
    "chapters": []
   },
@@ -1287,7 +1296,8 @@
    "subtopic_levels": [
     "sci.environment.caring.L3",
     "sci.environment.conservation.L3",
-    "sci.environment.pollution.L3"
+    "sci.environment.pollution.L3",
+    "sci.environment.swachh-bharat.L3"
    ],
    "chapters": [
     "O3-4",
@@ -1463,7 +1473,8 @@
     "sci.how-we-know.asking-questions.L3",
     "sci.how-we-know.fair-tests.L3",
     "sci.how-we-know.stories-of-discovery.L3",
-    "sci.how-we-know.questioning-evidence.L3"
+    "sci.how-we-know.questioning-evidence.L3",
+    "sci.how-we-know.models-and-diagrams.L3"
    ],
    "chapters": []
   },
@@ -1586,7 +1597,8 @@
     "sci.materials.properties.L4",
     "sci.materials.sorting-materials.L4",
     "sci.materials.testing-materials.L4",
-    "sci.materials.using-materials.L4"
+    "sci.materials.using-materials.L4",
+    "sci.materials.separating-mixtures.L4"
    ],
    "chapters": []
   },
@@ -1922,7 +1934,8 @@
    "subtopic_levels": [
     "sci.water.water-sources-and-uses.L3",
     "sci.water.saving-water.L3",
-    "sci.water.water-cycle.L3"
+    "sci.water.water-cycle.L3",
+    "sci.water.rainwater-harvesting.L3"
    ],
    "chapters": [
     "N3-7",
@@ -2299,7 +2312,8 @@
     "sci.forces.friction.L4",
     "sci.forces.flight.L4",
     "sci.forces.measuring-forces.L4",
-    "sci.forces.stretching-springs.L4"
+    "sci.forces.stretching-springs.L4",
+    "sci.forces.everyday-forces.L4"
    ],
    "chapters": [
     "N4-7"
@@ -2410,7 +2424,9 @@
    "subtopic_levels": [
     "sci.how-we-know.fair-tests.L4",
     "sci.how-we-know.science-and-right-wrong.L4",
-    "sci.how-we-know.asking-questions.L4"
+    "sci.how-we-know.asking-questions.L4",
+    "sci.how-we-know.measuring-things.L4",
+    "sci.how-we-know.safe-practical-work.L4"
    ],
    "chapters": []
   },
@@ -3179,7 +3195,8 @@
    ],
    "subtopic_levels": [
     "sci.food.balanced-diet.L5",
-    "sci.food.food-safety.L5"
+    "sci.food.food-safety.L5",
+    "sci.food.is-my-food-pure.L5"
    ],
    "chapters": [
     "C5-4.2",
@@ -3687,7 +3704,8 @@
     "sci.sound.music.L5",
     "sci.sound.waves.L5",
     "sci.sound.doppler-and-shock.L5",
-    "sci.sound.adding-waves.L5"
+    "sci.sound.adding-waves.L5",
+    "sci.sound.noise-and-ears.L5"
    ],
    "chapters": [
     "C5-2.1",
@@ -3847,6 +3865,28 @@
     "sci.what-is-life.cells-divide.L5"
    ],
    "chapters": []
+  },
+  {
+   "id": "sci.community.L2",
+   "subject": "sci",
+   "topic": "community",
+   "name": "Community and neighbourhood",
+   "strand": "People and society",
+   "level": 2,
+   "classes": [
+    2
+   ],
+   "subtopic_levels": [
+    "sci.community.caring-for-others.L2",
+    "sci.community.phones-and-internet.L2"
+   ],
+   "chapters": [
+    "O3-2",
+    "N3-2",
+    "N3-3",
+    "O3-3",
+    "O3-10"
+   ]
   }
  ],
  "subtopic_levels": [
@@ -33741,6 +33781,426 @@
    ],
    "source": "notes",
    "chapter_refs": []
+  },
+  {
+   "id": "sci.me-and-others.playing-fair.L1",
+   "subject": "sci",
+   "topic": "me-and-others",
+   "topic_name": "Me and others",
+   "strand": "Body and health",
+   "topic_level": "sci.me-and-others.L1",
+   "subtopic": "playing-fair",
+   "name": "Playing fair: games and rules",
+   "level": 1,
+   "classes": [
+    1
+   ],
+   "covers": "Indoor and outdoor games and their rules; playing safely; taking turns, winning and losing kindly; games children play in India.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [],
+   "go_wide": [],
+   "maths": []
+  },
+  {
+   "id": "sci.health.safe-touch.L1",
+   "subject": "sci",
+   "topic": "health",
+   "topic_name": "Health and well-being",
+   "strand": "Body and health",
+   "topic_level": "sci.health.L1",
+   "subtopic": "safe-touch",
+   "name": "My body is mine: safe and unsafe touch",
+   "level": 1,
+   "classes": [
+    1
+   ],
+   "covers": "Good touch and bad touch; our body belongs to us; saying no; telling a trusted grown-up; secrets we never keep.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [],
+   "go_wide": [],
+   "maths": []
+  },
+  {
+   "id": "sci.health.breathe-and-stretch.L1",
+   "subject": "sci",
+   "topic": "health",
+   "topic_name": "Health and well-being",
+   "strand": "Body and health",
+   "topic_level": "sci.health.L1",
+   "subtopic": "breathe-and-stretch",
+   "name": "Breathe and stretch",
+   "level": 1,
+   "classes": [
+    1
+   ],
+   "covers": "Slow breathing and simple stretches; how they feel in the body; resting and staying active; yoga and play from India.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [],
+   "go_wide": [],
+   "maths": []
+  },
+  {
+   "id": "sci.food.food-through-life.L1",
+   "subject": "sci",
+   "topic": "food",
+   "topic_name": "Food and nutrition",
+   "strand": "Body and health",
+   "topic_level": "sci.food.L1",
+   "subtopic": "food-through-life",
+   "name": "Food for babies, children and grandparents",
+   "level": 1,
+   "classes": [
+    1
+   ],
+   "covers": "Why babies, children and elders eat different food; mother's milk; first foods; soft food for the old; food for the sick.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [],
+   "go_wide": [],
+   "maths": []
+  },
+  {
+   "id": "sci.community.caring-for-others.L2",
+   "subject": "sci",
+   "topic": "community",
+   "topic_name": "Community and neighbourhood",
+   "strand": "People and society",
+   "topic_level": "sci.community.L2",
+   "subtopic": "caring-for-others",
+   "name": "Caring for people who need help",
+   "level": 2,
+   "classes": [
+    2
+   ],
+   "covers": "Care and concern for old, sick and differently abled people; ramps and aids; how to offer help; dignity and respect.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [],
+   "go_wide": [],
+   "maths": []
+  },
+  {
+   "id": "sci.energy.vehicles-and-fuels.L2",
+   "subject": "sci",
+   "topic": "energy",
+   "topic_name": "Energy",
+   "strand": "Physics",
+   "topic_level": "sci.energy.L2",
+   "subtopic": "vehicles-and-fuels",
+   "name": "What makes vehicles go",
+   "level": 2,
+   "classes": [
+    2
+   ],
+   "covers": "Fuels (petrol, diesel, CNG, electricity) and muscle power; ways to save fuel; walking, cycling and sharing rides.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [],
+   "go_wide": [],
+   "maths": []
+  },
+  {
+   "id": "sci.community.phones-and-internet.L2",
+   "subject": "sci",
+   "topic": "community",
+   "topic_name": "Community and neighbourhood",
+   "strand": "People and society",
+   "topic_level": "sci.community.L2",
+   "subtopic": "phones-and-internet",
+   "name": "Phones and the internet: using them kindly and safely",
+   "level": 2,
+   "classes": [
+    2
+   ],
+   "covers": "What phones and the internet do; using devices kindly and safely; misuse of messages and devices; telling a trusted adult.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [],
+   "go_wide": [],
+   "maths": []
+  },
+  {
+   "id": "sci.health.safe-at-home.L2",
+   "subject": "sci",
+   "topic": "health",
+   "topic_name": "Health and well-being",
+   "strand": "Body and health",
+   "topic_level": "sci.health.L2",
+   "subtopic": "safe-at-home",
+   "name": "Safe at home: sharp, hot and heavy things",
+   "level": 2,
+   "classes": [
+    2
+   ],
+   "covers": "Safe use of household tools, knives, scissors and the stove; hot things; heavy things; what to do after a cut or burn.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [],
+   "go_wide": [],
+   "maths": []
+  },
+  {
+   "id": "sci.energy.using-the-sun.L3",
+   "subject": "sci",
+   "topic": "energy",
+   "topic_name": "Energy",
+   "strand": "Physics",
+   "topic_level": "sci.energy.L3",
+   "subtopic": "using-the-sun",
+   "name": "Using the Sun's heat and light",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "covers": "Sun's heat and light in daily life; solar cooker, solar cell and solar water heater and how each works; building a simple solar cooker.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [],
+   "go_wide": [],
+   "maths": []
+  },
+  {
+   "id": "sci.animals.insects.L3",
+   "subject": "sci",
+   "topic": "animals",
+   "topic_name": "Animals",
+   "strand": "Life",
+   "topic_level": "sci.animals.L3",
+   "subtopic": "insects",
+   "name": "Insects: body, life cycle, friends and foes",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "covers": "Insect body parts (six legs, antennae, wings); life cycles; helpful insects (bees, silkworms, ladybirds); pests and bee-safe ways to deal with them.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [],
+   "go_wide": [],
+   "maths": []
+  },
+  {
+   "id": "sci.environment.swachh-bharat.L3",
+   "subject": "sci",
+   "topic": "environment",
+   "topic_name": "Caring for the environment",
+   "strand": "Earth and space",
+   "topic_level": "sci.environment.L3",
+   "subtopic": "swachh-bharat",
+   "name": "Swachh Bharat: small actions for a clean India",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "covers": "Small actions that keep homes, streets and rivers clean; sorting waste; not littering or spitting; community clean-ups; the Swachh Bharat mission.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [],
+   "go_wide": [],
+   "maths": []
+  },
+  {
+   "id": "sci.water.rainwater-harvesting.L3",
+   "subject": "sci",
+   "topic": "water",
+   "topic_name": "Water",
+   "strand": "Earth and space",
+   "topic_level": "sci.water.L3",
+   "subtopic": "rainwater-harvesting",
+   "name": "Rainwater harvesting: catching the rain",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "covers": "Why catch rainwater; roof and ground methods; step wells, johads and tanks of India; building a model; why it refills wells.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [],
+   "go_wide": [],
+   "maths": []
+  },
+  {
+   "id": "sci.energy.renewable-and-not.L3",
+   "subject": "sci",
+   "topic": "energy",
+   "topic_name": "Energy",
+   "strand": "Physics",
+   "topic_level": "sci.energy.L3",
+   "subtopic": "renewable-and-not",
+   "name": "Renewable and non-renewable energy",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "covers": "Energy sources with examples; renewable and non-renewable; what runs out and what does not; why it matters for families and India.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [],
+   "go_wide": [],
+   "maths": []
+  },
+  {
+   "id": "sci.how-we-know.models-and-diagrams.L3",
+   "subject": "sci",
+   "topic": "how-we-know",
+   "topic_name": "How we know: thinking and working scientifically",
+   "strand": "Nature of science",
+   "topic_level": "sci.how-we-know.L3",
+   "subtopic": "models-and-diagrams",
+   "name": "Models and diagrams: how scientists show ideas",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "covers": "What a model is and what it leaves out; physical models and diagrams; how a diagram differs from a picture; using a model to explain.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [],
+   "go_wide": [],
+   "maths": []
+  },
+  {
+   "id": "sci.materials.separating-mixtures.L4",
+   "subject": "sci",
+   "topic": "materials",
+   "topic_name": "Materials and their properties",
+   "strand": "Matter",
+   "topic_level": "sci.materials.L4",
+   "subtopic": "separating-mixtures",
+   "name": "Separating mixtures",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "What a mixture is; materials keep their properties in a mixture; separating by sieving, filtering, magnet, evaporation and picking; choosing a method.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [],
+   "go_wide": [],
+   "maths": []
+  },
+  {
+   "id": "sci.forces.everyday-forces.L4",
+   "subject": "sci",
+   "topic": "forces",
+   "topic_name": "Forces and movement",
+   "strand": "Physics",
+   "topic_level": "sci.forces.L4",
+   "subtopic": "everyday-forces",
+   "name": "Forces we meet every day",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Pushes, pulls, friction, gravity, magnetic and muscle force in daily life; reading the forces on everyday objects.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [],
+   "go_wide": [],
+   "maths": []
+  },
+  {
+   "id": "sci.how-we-know.measuring-things.L4",
+   "subject": "sci",
+   "topic": "how-we-know",
+   "topic_name": "How we know: thinking and working scientifically",
+   "strand": "Nature of science",
+   "topic_level": "sci.how-we-know.L4",
+   "subtopic": "measuring-things",
+   "name": "Measuring things: units and instruments",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Why we measure; standard units for length, mass, volume, time and temperature; choosing and reading instruments; everyday measuring in India.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [],
+   "go_wide": [],
+   "maths": []
+  },
+  {
+   "id": "sci.how-we-know.safe-practical-work.L4",
+   "subject": "sci",
+   "topic": "how-we-know",
+   "topic_name": "How we know: thinking and working scientifically",
+   "strand": "Nature of science",
+   "topic_level": "sci.how-we-know.L4",
+   "subtopic": "safe-practical-work",
+   "name": "Safe practical work: choosing equipment, naming risks, judging predictions",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Choosing and using equipment; naming risks and how to reduce them; carrying out practical work safely; predicting and judging how close a prediction was.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [],
+   "go_wide": [],
+   "maths": []
+  },
+  {
+   "id": "sci.sound.noise-and-ears.L5",
+   "subject": "sci",
+   "topic": "sound",
+   "topic_name": "Sound",
+   "strand": "Physics",
+   "topic_level": "sci.sound.L5",
+   "subtopic": "noise-and-ears",
+   "name": "Noise and our ears",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Loud sound and hearing; noise pollution from vehicles, crackers and loudspeakers; decibels; protecting the ears; sounds that warn.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [],
+   "go_wide": [],
+   "maths": []
+  },
+  {
+   "id": "sci.food.is-my-food-pure.L5",
+   "subject": "sci",
+   "topic": "food",
+   "topic_name": "Food and nutrition",
+   "strand": "Body and health",
+   "topic_level": "sci.food.L5",
+   "subtopic": "is-my-food-pure",
+   "name": "Is my food pure? Adulteration and simple tests",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Food adulteration at awareness level; simple home tests; labels; why adulteration harms; what families and the law can do.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [],
+   "go_wide": [],
+   "maths": []
   }
  ],
  "chapters": {

@@ -762,10 +762,10 @@
       "q": "Which of these three worlds gives the biggest weight?",
       "options": [
        "The Moon",
-       "Jupiter",
-       "Saturn"
+       "Saturn",
+       "Jupiter"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Jupiter's number is about 25, much more than Saturn's 10.4 or the Moon's 1.6. Choosing Saturn mixes up the size of the world with the pull at its top. The Sun has a bigger number still, 274."
      },
      "context": "This is the last step of World Ladder. Here you build the whole ladder and think about standing on it."
@@ -972,11 +972,11 @@
       "t": "mcq",
       "q": "In the Dough Stack, the dough under book 8 was squashed the most. Why?",
       "options": [
-       "Book 8 is heavier than the others",
        "It carried the weight of all eight books",
+       "Book 8 is heavier than the others",
        "Dough at the bottom is softer"
       ],
-      "a": 1,
+      "a": 0,
       "why": "All the books are the same weight. Each book rests on the one below it, so the load grows towards the bottom. The bottom ball carried eight books, and the top ball carried one. Choosing 'heavier' forgets that the books are equal."
      },
      "context": "This is the last step of the Dough Stack. Here you explain your results and draw the arrows."
@@ -1174,11 +1174,11 @@
       "t": "mcq",
       "q": "In Lift, Press and Tilt, the scale read 700 grams while the packet hung partly from a string. What was the string pulling up with?",
       "options": [
-       "About 7 newtons",
        "About 3 newtons",
+       "About 7 newtons",
        "About 10 newtons"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The packet's weight was about 10 newtons. The scale pushed up with 7. The string pulled up with the other 3, because 7 and 3 together make 10. Choosing 7 mixes up the scale's push with the string's pull."
      },
      "context": "This is the last step of Lift, Press and Tilt. Here you explain your results and draw the forces."
@@ -1476,11 +1476,11 @@
       "t": "mcq",
       "q": "You hold a book still on your palm. Which two forces on the book are equal?",
       "options": [
-       "Gravity pulling down and your palm pushing up",
        "Your palm pushing up and the book pushing up",
-       "Gravity pulling down and gravity pulling up"
+       "Gravity pulling down and gravity pulling up",
+       "Gravity pulling down and your palm pushing up"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The book is still, so the forces on it are balanced. Gravity pulls it down, and your palm pushes it up with the same force. The book also pushes down on your palm, but that is a force on your palm, not on the book."
      },
      "context": "This is the last step of Be the Table. Here the table takes over from your hand."
@@ -1595,11 +1595,11 @@
       "t": "mcq",
       "q": "A girl weighs 300 newtons on Earth. About what does she weigh on Mars, where the number is 3.7?",
       "options": [
-       "About 110 newtons",
        "About 300 newtons",
+       "About 110 newtons",
        "About 800 newtons"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Her mass is about 30 kilograms, because 300 divided by 10 is 30. On Mars, 30 times 3.7 is 111 newtons. Choosing 300 forgets that weight changes from world to world."
      },
      "context": "This is the last step of Nine Worlds. Here you think about what the bars show."
@@ -1727,11 +1727,11 @@
       "t": "mcq",
       "q": "A string holds up both bottles, so weight is not the difference. Why did the full bottle swing less?",
       "options": [
-       "It has more mass, so it is harder to start moving",
        "It is pulled harder by gravity, so it cannot swing",
-       "Water pushes the ball back"
+       "Water pushes the ball back",
+       "It has more mass, so it is harder to start moving"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The string carries the weight of the bottle. The sideways hit meets only the mass, which decides how hard the bottle is to start moving. Choosing gravity mixes up weight, which is held by the string, with inertia, which is about mass."
      },
      "context": "This is the last step of Hit the Bottles. Here you explain what mass does."
@@ -2100,11 +2100,11 @@
       "t": "mcq",
       "q": "A pillar on the ground floor holds up 6 floors. A pillar on the top floor holds up only the roof. How do their loads compare?",
       "options": [
-       "Equal",
        "The ground-floor pillar carries 6 times as much",
+       "Equal",
        "The top-floor pillar carries more"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Each floor adds the same load, and the ground-floor pillar carries every floor above it. So its load is 6 times the load at the top, if the floor areas are the same. Choosing equal forgets that loads are passed down and add up."
      },
      "context": "This is day 3 of the Load on the Pillar. Here you compare the loads and draw the path of the load.",
@@ -2295,11 +2295,11 @@
       "t": "mcq",
       "q": "Which pack gets heavier for the same 50 newtons: on the Moon or on Earth?",
       "options": [
-       "The Moon pack carries more mass",
        "The Earth pack carries more mass",
-       "Both carry the same mass"
+       "Both carry the same mass",
+       "The Moon pack carries more mass"
       ],
-      "a": 0,
+      "a": 2,
       "why": "On the Moon each kilogram weighs only 1.6 newtons, so 50 newtons holds about 31 kilograms. On Earth each kilogram weighs about 10 newtons, so 50 newtons holds about 5 kilograms. The pack with more mass is the Moon pack."
      },
      "context": "This step of the 50-Newton Pack is the packing. Here you choose items for two worlds."
@@ -2435,11 +2435,11 @@
      "p": "A book rests on a level table and does not move. Which force stops it falling through the table?",
      "opts": [
       "Gravity",
-      "The normal force of the table",
       "An applied force from the book",
-      "The weight of the table"
+      "The weight of the table",
+      "The normal force of the table"
      ],
-     "a": 1,
+     "a": 3,
      "why": "The table is squashed a tiny amount by the book, and it pushes back up. That push is the normal force. Gravity is what pulls the book down.",
      "outcome": 3
     },
@@ -2489,12 +2489,12 @@
      "t": "mcq",
      "p": "Which tool gives the same answer on the Earth and on the Moon?",
      "opts": [
+      "A two-pan balance",
       "A spring scale",
       "A bathroom scale",
-      "A two-pan balance",
       "A forcemeter"
      ],
-     "a": 2,
+     "a": 0,
      "why": "A two-pan balance compares one mass with another, so the pull of the world cancels out. The other three measure a pull or a push, which is smaller on the Moon.",
      "outcome": 0
     },
@@ -2562,10 +2562,10 @@
      "opts": [
       "About 12 newtons",
       "About 25 newtons",
-      "About 50 newtons",
-      "About 100 newtons"
+      "About 100 newtons",
+      "About 50 newtons"
      ],
-     "a": 2,
+     "a": 3,
      "why": "Multiply the mass by the strength of gravity. 2 times 25 is 50 newtons. Choosing 25 forgets to multiply by the mass.",
      "outcome": 1
     },
@@ -2751,11 +2751,11 @@
      "p": "Which of these worlds gives the weakest pull at its surface?",
      "opts": [
       "Mars",
-      "The Moon",
       "Mercury",
-      "Venus"
+      "Venus",
+      "The Moon"
      ],
-     "a": 1,
+     "a": 3,
      "why": "The Moon's number is about 1.6 newtons for each kilogram. Mars and Mercury have 3.7, and Venus has 8.9.",
      "outcome": 1
     },
@@ -2817,12 +2817,12 @@
      "t": "mcq",
      "p": "Mars has about twice the mass of Mercury, and both pull with 3.7 newtons for each kilogram. What explains this?",
      "opts": [
-      "Mars is wider, so its surface is further from its centre",
       "Mercury is closer to the Sun",
       "Mars has an atmosphere",
+      "Mars is wider, so its surface is further from its centre",
       "Weight does not depend on mass"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Mars has more mass, which pulls harder. But its surface is further from its centre, which pulls less. Here the two effects cancel almost exactly.",
      "outcome": 2
     },
@@ -2961,11 +2961,11 @@
      "p": "The Earth pulls an apple with a force of 1 newton. How hard does the apple pull the Earth?",
      "opts": [
       "Almost nothing",
-      "1 newton",
       "10 newtons",
-      "1 newton, only while it falls"
+      "1 newton, only while it falls",
+      "1 newton"
      ],
-     "a": 1,
+     "a": 3,
      "why": "Forces come in pairs. The apple pulls the Earth with the same force of 1 newton. The Earth is so massive that this pull moves it by too little to measure.",
      "outcome": 0
     },
@@ -3010,12 +3010,12 @@
    "t": "mcq",
    "p": "Which of these is the same on every world?",
    "opts": [
-    "Your weight",
     "Your mass",
+    "Your weight",
     "The reading of a spring scale",
     "The pull of gravity on you"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Mass is the amount of matter in you, and you take it with you to every world. The other three change with the strength of gravity.",
    "outcome": 0
   },
@@ -3036,12 +3036,12 @@
    "t": "mcq",
    "p": "A dog has a mass of 12 kilograms. About what does she weigh on the Moon, where each kilogram weighs 1.6 newtons?",
    "opts": [
-    "About 19 newtons",
     "About 120 newtons",
+    "About 19 newtons",
     "About 7.5 newtons",
     "About 12 newtons"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Multiply the mass by the strength of gravity. 12 times 1.6 is 19.2 newtons. Choosing 120 uses the Earth's number instead of the Moon's.",
    "outcome": 1
   },
@@ -3049,12 +3049,12 @@
    "t": "mcq",
    "p": "Why is the pull at Saturn's cloud tops only a little more than the Earth's?",
    "opts": [
-    "Its cloud tops are far from its centre",
     "Gas has no weight",
     "Saturn is very cold",
-    "Saturn spins fast"
+    "Saturn spins fast",
+    "Its cloud tops are far from its centre"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Saturn has 95 times the Earth's mass, which alone would give a much bigger pull. But its cloud tops are about 9.5 times as far from its centre. The pull gets weaker by the distance multiplied by itself, which is about 9.5 times 9.5, or 90. That cancels most of the extra mass.",
    "outcome": 2
   },
@@ -3062,12 +3062,12 @@
    "t": "mcq",
    "p": "What is the normal force?",
    "opts": [
-    "The push of a surface on a thing pressing on it",
     "The pull of gravity on a thing",
+    "The push of a surface on a thing pressing on it",
     "A push from a hand",
     "The force that slows a sliding thing"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The normal force is the push of a surface on a thing that presses on it. It points straight out from the surface. Gravity is a different force, and friction slows sliding.",
    "outcome": 3
   },
@@ -3088,12 +3088,12 @@
    "t": "mcq",
    "p": "Which of these is an applied force?",
    "opts": [
-    "The Earth pulling a mango",
     "A hand pushing a swing",
+    "The Earth pulling a mango",
     "A magnet pulling a pin",
     "A falling mango"
    ],
-   "a": 1,
+   "a": 0,
    "why": "An applied force is a push or pull put on a thing by touching it. A hand on a swing does this. The Earth and a magnet act across a gap.",
    "outcome": 5
   },
@@ -3102,11 +3102,11 @@
    "p": "A ball leaves your hand and flies up. Which of these is true?",
    "opts": [
     "The push of your hand fades away slowly",
-    "The push of your hand ended when the ball left it",
     "The ball carries the same push as before",
+    "The push of your hand ended when the ball left it",
     "The hand pulls the ball back"
    ],
-   "a": 1,
+   "a": 2,
    "why": "An applied force is a contact force, so it ends when the touching ends. After that, only gravity and the air act on the ball.",
    "outcome": 5
   },
@@ -3140,12 +3140,12 @@
    "t": "mcq",
    "p": "Which of these do scientists still not know?",
    "opts": [
-    "Why the mass that pulls is the same as the mass that resists",
     "Whether the Moon has gravity",
     "Whether mass exists",
+    "Why the mass that pulls is the same as the mass that resists",
     "How to measure mass"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Every test finds that a thing's mass sets its weight and how hard it is to speed up. The two always match. Nobody has a final reason why.",
    "outcome": 7
   },
@@ -3457,6 +3457,73 @@
     "e3",
     "p1"
    ]
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Dough Stack: which level of a pile is pushed up the hardest?, Lift, Press and Tilt: does a scale always read the weight?, The Spreading Square: why does a pull get weaker with distance?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e2",
+    "e3",
+    "a2",
+    "a3",
+    "a4",
+    "p1"
+   ],
+   "plan": "Get it before The Dough Stack: which level of a pile is pushed up the hardest?."
+  },
+  {
+   "id": "b-small-torch-bulbs-or-leds-wi",
+   "item": "Small torch bulbs or LEDs with a holder",
+   "kind": "tool",
+   "why": "Used in The Spreading Square: why does a pull get weaker with distance?. About ₹10 to ₹50. A small torch can be taken apart for its bulb.",
+   "url": "https://www.amazon.in/s?k=torch+bulb+holder+set",
+   "used_in": [
+    "e3"
+   ],
+   "plan": "Get it before The Spreading Square: why does a pull get weaker with distance?."
+  },
+  {
+   "id": "b-a-small-hand-mirror",
+   "item": "A small hand mirror",
+   "kind": "material",
+   "why": "Used in The Spreading Square: why does a pull get weaker with distance?. About ₹20 to ₹80. A shiny steel plate shows reflections too.",
+   "url": "https://www.amazon.in/s?k=small+hand+mirror",
+   "used_in": [
+    "e3"
+   ],
+   "plan": "Get it before The Spreading Square: why does a pull get weaker with distance?."
+  },
+  {
+   "id": "b-graph-paper",
+   "item": "Graph paper",
+   "kind": "material",
+   "why": "Used in The Spreading Square: why does a pull get weaker with distance?, Weigh Yourself on Nine Worlds, Arrows to Scale: weigh it, then draw the forces. About ₹10 to ₹30. Draw squares on plain paper.",
+   "url": "https://www.amazon.in/s?k=graph+paper+notebook",
+   "used_in": [
+    "e3",
+    "a2",
+    "a4"
+   ],
+   "plan": "Get it before The Spreading Square: why does a pull get weaker with distance?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [
@@ -3705,14 +3772,19 @@
     "source": "Atharva Veda 12.1.12 (the hymn to the Earth)",
     "teaching": "The Earth is my mother, and I am her child.",
     "link": "The verse speaks of the Earth as the one who holds us. In this lesson, the Earth is the last link in every chain that holds something up. The verse is a statement of faith and care, and the unit does not test it.",
-    "verse": ["यत्ते मध्यं पृथिवि यच्च नभ्यं यास्त ऊर्जस्तन्वः संबभूवुः ।", "तासु नो धेह्यभि नः पवस्व माता भूमिः पुत्रो अहं पृथिव्याः पर्जन्यः पिता स उ नः पिपर्तु"],
+    "verse": [
+     "यत्ते मध्यं पृथिवि यच्च नभ्यं यास्त ऊर्जस्तन्वः संबभूवुः ।",
+     "तासु नो धेह्यभि नः पवस्व माता भूमिः पुत्रो अहं पृथिव्याः पर्जन्यः पिता स उ नः पिपर्तु"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Zhuangzi, chapter 26 (Burton Watson's translation)",
     "teaching": "A person uses only the small patch of ground under her feet. But if the earth around her were dug away down to the Yellow Springs, that small patch would be no use to her.",
     "link": "A pillar or a foot seems to need only the ground it touches. But the ground there is held up by all the ground round it. The passage says this as a lesson about usefulness, not about weight.",
-    "verse": ["夫地非不廣且大也，人之所用，容足耳，然則廁足而墊之致黃泉，人尚有用乎？"],
+    "verse": [
+     "夫地非不廣且大也，人之所用，容足耳，然則廁足而墊之致黃泉，人尚有用乎？"
+    ],
     "verse_lang": "zh"
    }
   ],

@@ -400,11 +400,11 @@
       "t": "mcq",
       "q": "A fossil shows big, sharp, curved teeth with ridges like a saw. What does it tell us about the animal?",
       "options": [
-       "The animal ate meat",
        "The animal ate only leaves",
-       "The animal lived in a nest"
+       "The animal lived in a nest",
+       "The animal ate meat"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Sharp teeth with ridges cut through flesh, so the animal ate meat. Flat teeth grind leaves."
      }
     }
@@ -558,11 +558,11 @@
       "t": "mcq",
       "q": "Which kind of animal had the best chance in the big change?",
       "options": [
-       "A small animal who could hide and eat many foods",
        "A huge animal who ate only one kind of food",
+       "A small animal who could hide and eat many foods",
        "A flying reptile with skin wings"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Small animals need less food, and can hide in burrows or water. Animals who can eat many foods can find something to eat when their usual food is gone."
      }
     }
@@ -750,11 +750,11 @@
       "t": "mcq",
       "q": "Which row of prints was clearer?",
       "options": [
-       "The hard things",
        "The soft things",
-       "Both rows were the same"
+       "Both rows were the same",
+       "The hard things"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Hard things keep their shape when pressed, so they push a sharp print into the dough. Soft things squash and spread, so their prints are blurry."
      }
     },
@@ -857,11 +857,11 @@
       "t": "mcq",
       "q": "A scientist finds one fossil deep down and another near the top. Which is usually older?",
       "options": [
-       "The deep one",
        "The one near the top",
+       "The deep one",
        "We can never tell"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Layers pile up one on top of another, so the deeper layers were laid down first. A fossil deep down is usually older."
      },
      "parent": "This is how scientists tell which fossils are older. Rock layers pile up like newspapers, with the oldest at the bottom.",
@@ -1350,11 +1350,11 @@
      "t": "mcq",
      "p": "A scientist finds the print of a leaf in a rock in a very dry place. What does it tell us?",
      "opts": [
-      "Plants once grew here",
       "The leaf fell from a tree today",
+      "Plants once grew here",
       "No plants ever grew here"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A leaf print is a trace of a plant. The plant lived there long ago, even if the place is dry now."
     },
     {
@@ -1464,11 +1464,11 @@
    "t": "mcq",
    "p": "You find the shape of a leaf in a dark rock. What is it?",
    "opts": [
-    "A fossil",
     "A drawing",
-    "A new leaf"
+    "A new leaf",
+    "A fossil"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A leaf print kept in rock is a fossil, a trace of a plant from long ago.",
    "outcome": 0
   },
@@ -1525,11 +1525,11 @@
    "t": "mcq",
    "p": "What does extinct mean?",
    "opts": [
-    "Every last one of that kind has died",
     "The animal is asleep",
+    "Every last one of that kind has died",
     "The animal lives far away"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Extinct means that kind of being is gone for ever.",
    "outcome": 3
   },
@@ -1549,11 +1549,11 @@
    "t": "mcq",
    "p": "Which group spread into many new kinds after the big dinosaurs died out?",
    "opts": [
-    "Mammals, like elephants and whales",
     "Ammonites",
+    "Mammals, like elephants and whales",
     "Pterosaurs"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Mammals had been small. After the big dinosaurs were gone, they spread into many new kinds, including humans much later. Ammonites and pterosaurs died out.",
    "outcome": 4
   },
@@ -1561,11 +1561,11 @@
    "t": "mcq",
    "p": "Are humans mammals?",
    "opts": [
-    "Yes. Humans have hair and feed babies on milk",
     "No. Mammals are only animals with four legs",
-    "No. Humans are not animals"
+    "No. Humans are not animals",
+    "Yes. Humans have hair and feed babies on milk"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Humans are animals, and mammals like cows, cats and elephants. We have hair and feed our babies on milk.",
    "outcome": 4
   },
@@ -1736,7 +1736,55 @@
    "why": "A geology gallery with rocks and fossils, and a long zoology gallery."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Footprint Detective: what can footprints tell us?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Get it before Footprint Detective: what can footprints tell us?."
+  },
+  {
+   "id": "b-cotton-wool",
+   "item": "Cotton wool",
+   "kind": "material",
+   "why": "Used in The Print Test: which things leave a fossil print?. About ₹20 to ₹50. Torn clean cloth works.",
+   "url": "https://www.amazon.in/s?k=cotton+wool+roll",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before The Print Test: which things leave a fossil print?."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in The Print Test: which things leave a fossil print?. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before The Print Test: which things leave a fossil print?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "What is a fossil?",

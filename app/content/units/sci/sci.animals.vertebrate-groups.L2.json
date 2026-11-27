@@ -506,11 +506,11 @@
       "t": "mcq",
       "q": "A snake can curl up into rings. What does the Bendy Backbone test tell you about a snake's backbone?",
       "options": [
-       "It is one long, soft bone",
        "It has a great many small vertebrae",
+       "It is one long, soft bone",
        "It has no bones at all"
       ],
-      "a": 1,
+      "a": 0,
       "why": "In the Bendy Backbone test, more pieces made a rounder curve. A snake has a few hundred vertebrae, so a snake can coil tightly. If you chose 'no bones', remember that snakes are vertebrates: they have a backbone."
      }
     }
@@ -1257,10 +1257,10 @@
       "q": "Frog, toad, house gecko, tree frog. Which is the odd one out?",
       "options": [
        "Frog",
-       "House gecko",
-       "Tree frog"
+       "Tree frog",
+       "House gecko"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A house gecko has dry scales, so the gecko is a reptile. Frogs, toads and tree frogs have smooth, damp skin, so they are amphibians."
      }
     }
@@ -1519,11 +1519,11 @@
      "t": "mcq",
      "p": "Which clue tells you for sure that an animal is a bird?",
      "opts": [
-      "Feathers",
       "Four legs",
-      "Lives in a tree"
+      "Lives in a tree",
+      "Feathers"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Only birds have feathers. Monkeys and squirrels live in trees too, and birds have two legs, not four."
     },
     {
@@ -1592,11 +1592,11 @@
      "t": "mcq",
      "p": "A tadpole lives in a pond. What does a tadpole breathe with?",
      "opts": [
-      "Gills",
       "Lungs",
+      "Gills",
       "Feathers"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A tadpole breathes with gills, like a fish. When the tadpole becomes a frog, the frog breathes with lungs and through the damp skin."
     },
     {
@@ -1762,11 +1762,11 @@
      "t": "mcq",
      "p": "A caecilian lives in wet soil in the Western Ghats. They have no legs, smooth damp skin and no scales. Which group are they in?",
      "opts": [
-      "Reptiles, like snakes",
       "Amphibians, like frogs",
+      "Reptiles, like snakes",
       "Invertebrates, like earthworms"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Smooth, damp skin with no scales is the amphibian clue. A caecilian has a backbone, so a caecilian is not an invertebrate. Having no legs is not enough to make an animal a snake."
     },
     {
@@ -1865,11 +1865,11 @@
      "t": "mcq",
      "p": "Which of these animals is an invertebrate?",
      "opts": [
-      "A crab",
       "A shark",
-      "A toad"
+      "A toad",
+      "A crab"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A crab has a hard shell outside and no backbone. A shark is a fish and a toad is an amphibian, so both have a backbone."
     }
    ]
@@ -1907,10 +1907,10 @@
    "p": "What is your backbone made of?",
    "opts": [
     "One long, stiff bone",
-    "A chain of many small bones",
-    "Soft muscle with no bones"
+    "Soft muscle with no bones",
+    "A chain of many small bones"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Your backbone is a chain of 33 small bones called vertebrae. You can feel them as bumps when you bend.",
    "outcome": 0
   },
@@ -1919,10 +1919,10 @@
    "p": "In the Bendy Backbone test, which chain wrapped round the tumbler best?",
    "opts": [
     "The whole straw",
-    "The straw in 2 pieces",
-    "The straw in 8 pieces"
+    "The straw in 8 pieces",
+    "The straw in 2 pieces"
    ],
-   "a": 2,
+   "a": 1,
    "why": "More pieces meant more joints. Each joint tilted a little, and together they curved round the tumbler.",
    "how": "e1",
    "outcome": 5
@@ -1943,11 +1943,11 @@
    "t": "mcq",
    "p": "Which group has smooth, damp skin and starts life as tadpoles?",
    "opts": [
-    "Reptiles",
     "Amphibians",
+    "Reptiles",
     "Birds"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Frogs and toads are amphibians. They have smooth, damp skin and begin life in water as tadpoles.",
    "outcome": 2
   },
@@ -1955,11 +1955,11 @@
    "t": "mcq",
    "p": "How does a fish take in oxygen?",
    "opts": [
-    "With gills",
     "With lungs",
-    "Through feathers"
+    "Through feathers",
+    "With gills"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A fish takes water in through the mouth and over the gills. The gills take oxygen from the water.",
    "outcome": 3
   },
@@ -1967,11 +1967,11 @@
    "t": "mcq",
    "p": "What is true of every mammal?",
    "opts": [
-    "They can fly",
     "The mothers feed their babies milk",
+    "They can fly",
     "They lay eggs with hard shells"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Every mammal mother makes milk for her young. Only a few mammals fly, and birds are the ones that lay hard-shelled eggs.",
    "outcome": 3
   },
@@ -1979,11 +1979,11 @@
    "t": "mcq",
    "p": "A bat flies with wings. Which group is a bat in?",
    "opts": [
-    "Birds, because bats fly",
     "Mammals, because bats have fur and drink milk",
+    "Birds, because bats fly",
     "Reptiles, because bats like the dark"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Flying is only one clue. A bat has fur, and the mother feeds her baby milk, so a bat is a mammal.",
    "outcome": 4
   },
@@ -2227,6 +2227,32 @@
     "p1"
    ],
    "plan": "Keep the pack with the craft things. One straw is enough for the experiment."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in A Backbone That Bends and Stands Up. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before A Backbone That Bends and Stands Up."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

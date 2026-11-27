@@ -361,10 +361,10 @@
       "q": "A banyan seed is tiny. What does a banyan seed grow into?",
       "options": [
        "A tiny plant",
-       "A huge tree",
-       "A coconut palm"
+       "A coconut palm",
+       "A huge tree"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A banyan seed is smaller than a grain of rai, but a banyan grows into a huge tree. The kind of seed decides, not the size."
      },
      "parent": "The banyan pair is the surprise. Banyan seeds are tiny, about a millimetre across."
@@ -469,10 +469,10 @@
       "q": "What does the root do for a young plant?",
       "options": [
        "Opens in the light",
-       "Drinks water and holds on",
-       "Makes the flowers"
+       "Makes the flowers",
+       "Drinks water and holds on"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The root grows down into the soil. The root drinks water and holds the plant in place."
      }
     }
@@ -728,11 +728,11 @@
       "t": "mcq",
       "q": "Under the soil, what did the chana seed grow first?",
       "options": [
-       "A green leaf",
        "A white root",
+       "A green leaf",
        "A flower"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A seed grows a root first. The root grows down, drinks water and holds on. The shoot comes later."
      },
      "parent": "Ask your child what they found out (the root comes first), how they know (the records in a row) and why it is so (the root needs to drink and hold on). Chana can need 6 to 10 days to show above the soil, so if seed 5 is not up, wait a few more days.",
@@ -1297,11 +1297,11 @@
       "t": "mcq",
       "q": "A cotton strip stands in water and touches the tissue. What does the strip do?",
       "options": [
-       "Nothing",
        "Carries water up to the tissue",
+       "Nothing",
        "Makes the seeds dry"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Water creeps along cotton threads. The strip carries water from the tumbler to the tissue, so the seeds stay damp."
      },
      "wait": "Check every day for three days."
@@ -1320,11 +1320,11 @@
      "t": "mcq",
      "p": "In Peek Under the Soil, you dug up one chana seed each day. What came out of the seed first?",
      "opts": [
-      "A leaf",
       "A root",
+      "A leaf",
       "A flower"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The root comes out first and grows down. The shoot comes later.",
      "how": "e1"
     },
@@ -1413,10 +1413,10 @@
      "p": "A chana seed is planted in dry soil and never watered. What happens to the seed?",
      "opts": [
       "The seed grows fast",
-      "The seed stays the same",
-      "The seed turns into a pebble"
+      "The seed turns into a pebble",
+      "The seed stays the same"
      ],
-     "a": 1,
+     "a": 2,
      "why": "A seed needs water to start growing. In dry soil the seed waits and does not grow."
     },
     {
@@ -1626,11 +1626,11 @@
    "t": "mcq",
    "p": "What does a seed need to start growing?",
    "opts": [
-    "Water",
     "Sugar",
+    "Water",
     "Milk"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A seed needs water to start growing. A dry seed waits.",
    "outcome": 1
   },
@@ -1638,11 +1638,11 @@
    "t": "mcq",
    "p": "Which part comes out of a seed first?",
    "opts": [
-    "The leaf",
     "The root",
+    "The leaf",
     "The flower"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The root comes out first and grows down.",
    "outcome": 2,
    "how": "e1"
@@ -1675,11 +1675,11 @@
    "t": "mcq",
    "p": "You plant a pumpkin seed. What will grow?",
    "opts": [
-    "A mango tree",
     "A pumpkin plant",
+    "A mango tree",
     "A coconut palm"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A seed grows into the same kind of plant as the plant the seed came from.",
    "outcome": 5
   },
@@ -1687,11 +1687,11 @@
    "t": "mcq",
    "p": "Why do we soak chana before planting?",
    "opts": [
-    "So the seed can drink water and start growing",
     "To make the chana taste nice",
+    "So the seed can drink water and start growing",
     "To wash off the colour"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Soaking gives the seed water, so the seed swells and starts to grow sooner.",
    "outcome": 1,
    "how": "e1"
@@ -1713,11 +1713,11 @@
    "t": "mcq",
    "p": "The shoot comes up bent over, like a finger. Why?",
    "opts": [
-    "So the soil does not scrape the soft tip",
     "So the shoot can hide from the sun",
+    "So the soil does not scrape the soft tip",
     "Because the shoot is tired"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The bent shoot pushes up with its back first, so the soft tip stays safe.",
    "outcome": 3
   },
@@ -1900,6 +1900,60 @@
     "p1"
    ],
    "plan": "Only needed if there is no soil at home. Soil from any existing pot works just as well."
+  },
+  {
+   "id": "b-wooden-ice-cream-sticks--a-p",
+   "item": "Wooden ice-cream sticks (a pack)",
+   "kind": "material",
+   "why": "Used in Peek Under the Soil: what does a seed do first?. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in.",
+   "url": "https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before Peek Under the Soil: what does a seed do first?."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in Peek Under the Soil: what does a seed do first?, Big Seed, Small Seed: who sprouts first?, The Seed Feely Bag. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "e1",
+    "e2",
+    "a1",
+    "a2",
+    "a3",
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before Peek Under the Soil: what does a seed do first?."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in Big Seed, Small Seed: who sprouts first?, Water While We Sleep. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "e2",
+    "c1"
+   ],
+   "plan": "Get it before Big Seed, Small Seed: who sprouts first?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

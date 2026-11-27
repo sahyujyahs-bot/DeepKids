@@ -64,6 +64,12 @@
    "art": "A pink-brown earthworm on damp soil, with the rings of the body showing."
   },
   {
+   "term": "Termite",
+   "meaning": "A small insect that lives in a big family, eats dead plants and wood, and often lives in soil or in a mound.",
+   "example": "After the first monsoon rains, winged termites rise from the ground, fly to find a mate and start a new family.",
+   "art": "A termite mound with a line of small termites going in and out, and a few winged termites rising from the top."
+  },
+  {
    "term": "Colony",
    "meaning": "A colony is a big family of animals who live together and share the work. Ants and honeybees live in colonies.",
    "example": "One ant colony can have thousands of ants. Almost all of them are sisters, and one or more queens lay the eggs.",
@@ -105,7 +111,7 @@
    "status": "defined",
    "context": "This card is about how an earthworm moves without any legs.",
    "definition": "An earthworm has no legs. Muscles squeeze and stretch the body, and tiny bristles grip the soil.",
-   "description": "An earthworm's body is made of many rings, with muscles under the skin. First the front end gets long and thin and pushes forward. Then the body gets short and fat, and pulls the back end along. On each ring there are tiny stiff hairs called bristles. They grip the soil so the worm does not slide back. Earthworms breathe through their skin, so the skin must stay damp.",
+   "description": "An earthworm's body is made of many rings, with muscles under the skin. First the front end gets long and thin and pushes forward. Then the body gets short and fat, and pulls the back end along. On each ring there are tiny stiff hairs called bristles. They grip the soil so the worm does not slide back. Earthworms breathe through their skin, so the skin must stay damp. Many other creatures live in the soil too. Ants, termites and beetles dig there, and some are too small to see. Grasshoppers lay their eggs in the soil. After the first monsoon rains, winged termites fly up out of the ground in a swarm.",
    "examples": [
     "Earthworms in the soil of a big potted plant.",
     "Earthworms on a wet path after the first monsoon rain.",
@@ -538,11 +544,11 @@
       "t": "mcq",
       "q": "Why do earthworms choose damp places?",
       "options": [
-       "They breathe through their skin, and the skin must stay damp",
        "They like the colour of damp paper",
+       "They breathe through their skin, and the skin must stay damp",
        "Damp paper is warmer"
       ],
-      "a": 0,
+      "a": 1,
       "why": "An earthworm breathes through the skin, which only works when the skin is damp. If you chose warmth, remember that both sides were in the same room and under the same cover."
      }
     },
@@ -711,11 +717,11 @@
       "t": "mcq",
       "q": "On an insect, where do all six legs join the body?",
       "options": [
-       "The head",
        "The middle part, the thorax",
+       "The head",
        "The back part, the abdomen"
       ],
-      "a": 1,
+      "a": 0,
       "why": "All six legs join the thorax, the middle part. The head has the eyes, mouth and antennae."
      }
     }
@@ -1514,11 +1520,11 @@
      "t": "mcq",
      "p": "Silk is a strong, thin thread made inside an animal's body. Which of these animals makes silk?",
      "opts": [
-      "A spider",
       "A honeybee",
-      "A cockroach"
+      "A cockroach",
+      "A spider"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A spider makes silk at the back end of her body, and uses it for her web."
     },
     {
@@ -1576,6 +1582,39 @@
      "p": "The two feelers on an insect's head are called ________.",
      "a": "antennae",
      "why": "Antennae are the two feelers on an insect's head. Insects smell and touch with them."
+    },
+    {
+     "t": "sort",
+     "p": "Sort these creatures: do they spend most of their lives in the soil, or in the air and on plants?",
+     "cats": [
+      "Mostly in the soil",
+      "Mostly in the air or on plants"
+     ],
+     "items": [
+      [
+       "termite",
+       "Mostly in the soil"
+      ],
+      [
+       "earthworm",
+       "Mostly in the soil"
+      ],
+      [
+       "butterfly",
+       "Mostly in the air or on plants"
+      ],
+      [
+       "honeybee",
+       "Mostly in the air or on plants"
+      ],
+      [
+       "grasshopper",
+       "Mostly in the air or on plants"
+      ]
+     ],
+     "a": "as given",
+     "why": "Termites and earthworms spend most of their lives in the soil. Butterflies, bees and grasshoppers live on plants and in the air, though a grasshopper lays its eggs in the soil.",
+     "outcome": 0
     }
    ]
   },
@@ -1618,11 +1657,11 @@
      "t": "mcq",
      "p": "Which of these gives the best reason why a small ant can carry a big crumb?",
      "opts": [
-      "Ants eat a lot of sugar",
       "A small body is very light for the strength of the muscles",
+      "Ants eat a lot of sugar",
       "Ants have more legs than people"
      ],
-     "a": 1,
+     "a": 0,
      "why": "A small body weighs very little compared with how strong the muscles are, so there is strength left over for a load. Sugar and the number of legs do not explain it."
     },
     {
@@ -1758,10 +1797,10 @@
    "p": "How many legs does every grown-up insect have?",
    "opts": [
     "Four",
-    "Six",
-    "Eight"
+    "Eight",
+    "Six"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Every grown-up insect has six legs, three on each side. Ants, bees and butterflies all have six.",
    "outcome": 0
   },
@@ -1805,11 +1844,11 @@
    "t": "mcq",
    "p": "How does an earthworm move without legs?",
    "opts": [
-    "The body squeezes and stretches, and tiny bristles grip the soil",
     "The worm rolls like a ball",
-    "The worm jumps"
+    "The worm jumps",
+    "The body squeezes and stretches, and tiny bristles grip the soil"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Muscles make the body long and thin, then short and fat. Tiny bristles on each ring hold on to the soil, so the worm moves forward.",
    "outcome": 2
   },
@@ -1829,11 +1868,11 @@
    "t": "mcq",
    "p": "In the crumb test, what did the ants usually do with the biggest crumbs?",
    "opts": [
-    "Carried them away fast",
     "Crowded on them and bit off small bits",
+    "Carried them away fast",
     "Ran away from them"
    ],
-   "a": 1,
+   "a": 0,
    "how": "e1",
    "why": "The biggest crumbs were too big for one ant to carry, so many ants crowded on them and took small bits home. If you picked 'carried them away', look again at how many big crumbs were left.",
    "outcome": 4
@@ -1842,11 +1881,11 @@
    "t": "mcq",
    "p": "In the crumb test, why did we put all 20 crumbs along one line, with the sizes mixed up?",
    "opts": [
-    "So every size was the same distance from the ants",
     "So the paper looked nice",
+    "So every size was the same distance from the ants",
     "So the ants could not find them"
    ],
-   "a": 0,
+   "a": 1,
    "how": "e1",
    "why": "Mixing the sizes along one line makes the test fair. No size was closer to the ants than another.",
    "outcome": 4
@@ -1855,11 +1894,11 @@
    "t": "mcq",
    "p": "A small ant can carry a load bigger than her own head. A person cannot carry a load bigger than their own body. Why can the ant carry so much?",
    "opts": [
-    "A small body is very light for the strength of the muscles",
     "Ants eat more food than people",
+    "A small body is very light for the strength of the muscles",
     "Ants have stronger bones"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A small body weighs very little compared with the strength of the muscles. Ants have no bones inside at all. Their hard skin is on the outside.",
    "outcome": 5
   },
@@ -1867,13 +1906,25 @@
    "t": "mcq",
    "p": "What does a honeybee's dance tell her sisters?",
    "opts": [
-    "That she is tired",
     "Which way to fly, and how far, to find flowers",
+    "That she is tired",
     "That it will rain"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The waggle dance shows which way to fly and how far. A bee learns where the flowers are, and tells her sisters.",
    "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "After the first monsoon rains, winged termites fly up out of the ground. Why?",
+   "opts": [
+    "To escape the rain and drown",
+    "To drink from the puddles",
+    "To find a mate and start a new family"
+   ],
+   "a": 2,
+   "why": "Winged termites fly out to find a mate and start a new colony. Most of them are eaten by birds and lizards before they manage it. They are not trying to escape the rain, and puddles are not their reason to fly.",
+   "outcome": 0
   }
  ],
  "applications": [
@@ -2076,6 +2127,43 @@
     "p1"
    ],
    "plan": "Keep the glass by the window, so it is ready whenever a small creature visits."
+  },
+  {
+   "id": "b-insulated-wire-or-crocodile-",
+   "item": "Insulated wire or crocodile clips",
+   "kind": "tool",
+   "why": "Used in Web Builder: make a web that catches the most paper flies. About ₹20 to ₹80. Thin insulated wire from an old charger works.",
+   "url": "https://www.amazon.in/s?k=crocodile+clip+wire+set",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before Web Builder: make a web that catches the most paper flies."
+  },
+  {
+   "id": "b-modelling-clay-or-plasticine",
+   "item": "Modelling clay or plasticine",
+   "kind": "material",
+   "why": "Used in Build an Insect and a Spider from Dough. About ₹40 to ₹120. Atta dough mixed with a little salt works.",
+   "url": "https://www.amazon.in/s?k=modelling+clay+plasticine",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Get it before Build an Insect and a Spider from Dough."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

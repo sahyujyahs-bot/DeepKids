@@ -1,0 +1,48 @@
+# History Board Game / Sheet2 (copied from Google Sheets, 2026-11-27)
+R1: Civilization/Empire
+R2: Start
+R3: End
+R4: Duration
+R5: Location
+R7: Geography
+R8: Rivers
+R9: Mountain Ranges
+R10: Direct Access Oceans/Seas
+R11: Forests
+R12: Deserts
+R13: Minerals, Ores
+R14: Other Natural Resources
+R17: Lifestyle
+R18: Family, Children, Community
+R19: Culture
+R20: God
+R21: Rituals
+R22: Burrials
+R23: Food Habits
+R24: Relationship with animals
+R25: Place of Women
+R27: Livelihood
+R28: Agriculture
+R29: Using Animals
+R30: Trade
+R31: Mining
+R32: Education
+R33: Others
+R35: Architecture
+R36: Housing - layout, materials
+R37: Drainage
+R38: Storage
+R39: Community Spaces
+R40: Planning
+R41: Monuments
+R42: Temples
+R43: Palaces
+R45: Tools
+R46: Crafts
+R54: Art, Crafts, Tools, Tech, Inventions, Advances, Scriptures, Books, Language -symbols, scripts, Music
+R69: Governance
+R71: Routes
+R77: Sites
+R81: Trade
+R85: Health
+R87: Decline

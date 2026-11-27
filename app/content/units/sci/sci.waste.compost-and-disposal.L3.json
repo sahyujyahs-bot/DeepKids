@@ -542,11 +542,11 @@
       "t": "mcq",
       "q": "A pot has 4 greens and 1 brown. It smells sour. Which card would help most?",
       "options": [
-       "Torn newspaper, a brown",
        "Mango skin, a green",
+       "Torn newspaper, a brown",
        "Heavy rain"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The pot has too many wet greens. A brown such as newspaper soaks up the wet and makes air spaces. Mango skin and rain would make it wetter still."
      }
     }
@@ -1453,11 +1453,11 @@
    "p": "Which of these is a green for a compost pot?",
    "opts": [
     "Torn newspaper",
-    "Papaya peel",
     "A dry leaf",
-    "An egg tray"
+    "An egg tray",
+    "Papaya peel"
    ],
-   "a": 1,
+   "a": 3,
    "why": "A papaya peel is wet, fresh plant waste, so a papaya peel is a green. Newspaper, a dry leaf and an egg tray are dry, so they are browns. Picking one of those usually means mixing up the two groups: greens are wet, browns are dry.",
    "outcome": 0
   },
@@ -1477,11 +1477,11 @@
    "t": "mcq",
    "p": "The same peels go into two jars. Torn paper is mixed into jar B only. After a week, jar A has liquid at the bottom and smells sour. What does this show?",
    "opts": [
-    "Paper keeps peels drier and lets air in",
     "Paper makes peels rot faster than anything",
-    "Jar A had no microbes"
+    "Jar A had no microbes",
+    "Paper keeps peels drier and lets air in"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The only difference was the paper. It soaked up the liquid and held the peels apart, so air could get in and microbes that use air could work. Jar A had plenty of microbes, but they were the kind that live without air.",
    "outcome": 1,
    "how": "e1"
@@ -1490,11 +1490,11 @@
    "t": "mcq",
    "p": "In the Peels Alone or Peels with Paper test, jar B has paper mixed in and jar A does not. Why do both jars get exactly one cup of the same peels?",
    "opts": [
-    "So the only difference is the paper",
     "Because one cup is the most a jar can hold",
+    "So the only difference is the paper",
     "So the jars look nice"
    ],
-   "a": 0,
+   "a": 1,
    "why": "In a fair test only one thing changes. If jar A had more peels, we could not tell whether the smell came from the extra peels or from having no paper.",
    "outcome": 1,
    "how": "e1"
@@ -1503,12 +1503,12 @@
    "t": "mcq",
    "p": "Who does most of the work of turning peels into compost?",
    "opts": [
-    "Bacteria",
     "Earthworms",
     "Flies",
+    "Bacteria",
     "The Sun"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Bacteria do most of the work. Worms help a lot, but a pot with no worms still makes compost. If you picked earthworms, remember that they are the decomposers we can see. Most of the work is done by the ones we cannot.",
    "outcome": 2
   },
@@ -1516,11 +1516,11 @@
    "t": "mcq",
    "p": "Microbes that live without air are called anaerobic. What do many of them make?",
    "opts": [
-    "Sour and rotten smells",
     "Sweet smells, like flowers",
-    "Plastic"
+    "Plastic",
+    "Sour and rotten smells"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Many anaerobic microbes make sour acids and smelly gases. Some also make methane, which has no smell but burns easily.",
    "outcome": 2
   },
@@ -1528,11 +1528,11 @@
    "t": "mcq",
    "p": "A compost pot is dry and dusty, and nothing has changed for two weeks. What should you do?",
    "opts": [
-    "Sprinkle a little water and stir",
     "Add a tight lid",
+    "Sprinkle a little water and stir",
     "Put it in the fridge"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Microbes need water to digest food. A dry pot is too dry for them to work. A little water, until it feels like a squeezed sponge, gets them going again.",
    "outcome": 3
   },
@@ -1540,11 +1540,11 @@
    "t": "mcq",
    "p": "Why does a compost pot need holes in its sides?",
    "opts": [
-    "To let air in for the microbes that use air",
     "To let the compost fall out",
+    "To let air in for the microbes that use air",
     "To let worms escape"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Air holes let oxygen reach the waste. Then aerobic microbes do the work, and the pot smells of damp earth instead of turning sour.",
    "outcome": 3
   },
@@ -1552,11 +1552,11 @@
    "t": "mcq",
    "p": "Food and paper in a dump can last for many years. Why?",
    "opts": [
-    "The garbage is pressed tight with almost no air",
     "There are no microbes in a city",
-    "Dumps are kept very cold"
+    "Dumps are kept very cold",
+    "The garbage is pressed tight with almost no air"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Microbes are everywhere, also in dumps. But without air only the slow anaerobic microbes can work. William Rathje's team found newspapers they could still read decades after they were buried.",
    "outcome": 4
   },
@@ -1564,11 +1564,11 @@
    "t": "mcq",
    "p": "Dumps often catch fire. Which gas, made by microbes that live without air, helps the fires start?",
    "opts": [
-    "Methane",
     "Oxygen",
+    "Methane",
     "Water vapour"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Anaerobic microbes in the dump make methane, which burns easily. That is one reason fires like the one at Brahmapuram, near Kochi, in 2023 are so hard to put out.",
    "outcome": 4
   },
@@ -1576,11 +1576,11 @@
    "t": "mcq",
    "p": "How can you tell that compost in a pot is ready to use?",
    "opts": [
-    "It is dark and crumbly, smells like damp earth, and you cannot see the peels",
     "It is wet and slimy",
-    "It smells sour"
+    "It smells sour",
+    "It is dark and crumbly, smells like damp earth, and you cannot see the peels"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Ready compost looks like dark soil and smells earthy. Slime and a sour smell mean it needs more browns and air, and more time.",
    "outcome": 5
   },
@@ -1588,11 +1588,11 @@
    "t": "mcq",
    "p": "What should go on top of each day's peels in a compost pot?",
    "opts": [
-    "About twice as much browns, such as torn paper or dry leaves",
     "Water, to keep them wet",
-    "A plastic sheet"
+    "A plastic sheet",
+    "About twice as much browns, such as torn paper or dry leaves"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Browns soak up the wet, make air spaces and hide the peels from flies. Water would make the pot too wet, and plastic would keep air out.",
    "outcome": 5
   }
@@ -1711,11 +1711,11 @@
      "t": "mcq",
      "p": "What does good compost smell like?",
      "opts": [
-      "Damp earth, like the first rain",
       "Old curd",
-      "Rotten eggs"
+      "Rotten eggs",
+      "Damp earth, like the first rain"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Good compost is made by microbes that use air. Soil bacteria in the compost make the smell of damp earth. Sour or rotten smells mean there is too little air."
     },
     {
@@ -1744,11 +1744,11 @@
      "t": "mcq",
      "p": "Why does chopping peels into small pieces help them become compost faster?",
      "opts": [
-      "Small pieces have more surface for microbes to work on",
       "Small pieces are lighter",
+      "Small pieces have more surface for microbes to work on",
       "Chopping kills the microbes"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Microbes work on the outside of each piece. Cutting a peel into many pieces gives them much more outside to work on."
     },
     {
@@ -1778,11 +1778,11 @@
      "t": "mcq",
      "p": "You squeeze a handful of compost and one or two drops of water come out. What does that tell you?",
      "opts": [
-      "The pot is just right: damp, like a squeezed-out sponge",
       "The pot is far too wet",
+      "The pot is just right: damp, like a squeezed-out sponge",
       "The pot is far too dry"
      ],
-     "a": 0,
+     "a": 1,
      "why": "One or two drops means damp but not soggy. Many drops mean too wet, so add browns. Dust and no drops mean too dry, so sprinkle a little water."
     },
     {
@@ -1897,11 +1897,11 @@
      "t": "mcq",
      "p": "Which living things make the earthy smell of soil and good compost?",
      "opts": [
-      "Soil bacteria called Streptomyces",
       "Earthworms",
-      "Flies"
+      "Flies",
+      "Soil bacteria called Streptomyces"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Streptomyces bacteria make geosmin, the substance that smells of damp earth. They grow where there is air and damp."
     },
     {
@@ -1944,11 +1944,11 @@
      "t": "mcq",
      "p": "India's waste rules ask every home to keep wet and dry waste in separate bins. Why?",
      "opts": [
-      "So wet waste can be composted, and dry waste can be sorted and recycled",
       "So the garbage truck has less to carry",
-      "Because wet waste is dangerous to touch"
+      "Because wet waste is dangerous to touch",
+      "So wet waste can be composted, and dry waste can be sorted and recycled"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Mixed waste is hard to compost and hard to recycle. Kept apart, wet waste can become compost or biogas, and clean dry waste can be sorted and sold for recycling."
     },
     {
@@ -2008,11 +2008,11 @@
      "t": "mcq",
      "p": "You see white, fluffy threads on an old peel in a compost pot. What are they?",
      "opts": [
-      "A fungus feeding on the peel",
       "Cotton from the cloth",
-      "Plastic"
+      "Plastic",
+      "A fungus feeding on the peel"
      ],
-     "a": 0,
+     "a": 2,
      "why": "White threads are a fungus. It is a helper, not a pest."
     },
     {
@@ -2071,11 +2071,11 @@
      "t": "mcq",
      "p": "100 grams of peels and paper turn into much less than 100 grams of compost. Where did most of the rest go?",
      "opts": [
-      "Into the air, as water and carbon dioxide made by the microbes",
       "It vanished, and nothing is left of it anywhere",
-      "It turned into worms"
+      "It turned into worms",
+      "Into the air, as water and carbon dioxide made by the microbes"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Nothing just vanishes. As microbes feed, they breathe out carbon dioxide and let out water, which go into the air. Picking 'vanished' is a common idea, but the stuff of the peel is still in the world."
     },
     {
@@ -2116,11 +2116,11 @@
      "t": "mcq",
      "p": "Many families in Bengaluru compost in terracotta pots. Why does a clay pot work well?",
      "opts": [
-      "Its walls let a little air and water through",
       "Clay kills smells by itself",
-      "Clay is the only thing microbes can live in"
+      "Clay is the only thing microbes can live in",
+      "Its walls let a little air and water through"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Unglazed clay has tiny holes. Air can pass in, and extra water can soak out and dry, so the compost does not get airless and soggy."
     },
     {
@@ -2160,12 +2160,12 @@
      "t": "mcq",
      "p": "A farm has a big compost heap. Which of these would let the most air into the middle of it?",
      "opts": [
-      "A pipe full of holes pushed through the middle",
       "A plastic sheet over the top",
+      "A pipe full of holes pushed through the middle",
       "Pressing it down with a roller",
       "Pouring water on it"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A pipe with holes carries air into the middle, where it is hardest to reach. A plastic sheet and pressing both keep air out, and too much water fills the air spaces."
     },
     {
@@ -2380,7 +2380,77 @@
    "why": "Ask to see their compost or vermicompost beds, and smell ready compost."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-compost-stew",
+   "item": "Compost Stew: An A to Z Recipe for the Earth by Mary McKenna Siddals",
+   "kind": "book",
+   "why": "A rhyming list of what can go into a compost pot, from apple cores to zucchini peels. It matches what the child puts in her own compost.",
+   "url": "https://www.amazon.in/s?k=Compost+Stew",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Read it together when you start the compost pot."
+  },
+  {
+   "id": "b-a-magnifying-glass",
+   "item": "A magnifying glass",
+   "kind": "tool",
+   "why": "Used in Peels Alone or Peels with Paper: which jar smells of earth?. About ₹30 to ₹120. A water drop on clear plastic magnifies a little.",
+   "url": "https://www.amazon.in/s?k=magnifying+glass+kids",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before Peels Alone or Peels with Paper: which jar smells of earth?."
+  },
+  {
+   "id": "b-aa-batteries-or-torch-cells-",
+   "item": "AA batteries or torch cells (a few)",
+   "kind": "material",
+   "why": "Used in Greens, Browns, or Not in the Pot?. About ₹10 to ₹30 each. A used torch cell still works for many circuits.",
+   "url": "https://www.amazon.in/s?k=AA+battery+pack",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Get it before Greens, Browns, or Not in the Pot?."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Greens, Browns, or Not in the Pot?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Get it before Greens, Browns, or Not in the Pot?."
+  },
+  {
+   "id": "b-iron-nails-or-iron-filings",
+   "item": "Iron nails or iron filings",
+   "kind": "material",
+   "why": "Used in Our Balcony Compost Pot. About ₹20 to ₹80. Short steel nails from a hardware shop.",
+   "url": "https://www.amazon.in/s?k=iron+filings+science",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before Our Balcony Compost Pot."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "Is a banana peel a green or a brown?",

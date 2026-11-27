@@ -1,9 +1,9 @@
 # Bones and joints: the hard frame inside you, and where it bends
 `sci.body.skeleton.L2`
 
-**Summary.** Why can your shoulder draw a circle when your elbow can only draw a line? In this unit you will shine a torch on the wall to trace how each joint moves, hunt for bones you can feel just under your skin, and play a game sorting bone, bend and soft.
+**Summary.** Why can your shoulder draw a circle when your elbow can only draw a line? In this lesson you will shine a torch on the wall to trace how each joint moves, hunt for bones you can feel just under your skin, and play a game sorting bone, bend and soft.
 
-**Intro.** *Bend one finger slowly. How many places does it bend? Why does it not bend everywhere, like a piece of string?* Hold out your hand and wiggle your fingers. Now press the back of one finger. It feels hard inside. That hard part is bone. Your finger can only bend in a few places. In this unit you find your bones by feeling them. You find your joints, where bones meet. Then you test which joints can move in a circle.
+**Intro.** *Bend one finger slowly. How many places does it bend? Why does it not bend everywhere, like a piece of string?* Hold out your hand and wiggle your fingers. Now press the back of one finger. It feels hard inside. That hard part is bone. Your finger can only bend in a few places. In this lesson you find your bones by feeling them. You find your joints, where bones meet. Then you test which joints can move in a circle.
 
 ## Learning outcomes
 0. By the end I can say that I have bones inside me, and find some of them by pressing gently.
@@ -35,6 +35,8 @@ Press gently on your shin, your knuckles or your head, and you feel something ha
 - e.g. The longest bone in your body is your thigh bone. It goes from your hip to your knee.
 - e.g. The smallest bone is deep inside your ear. It is smaller than a grain of rice.
 - e.g. Each hand has 27 bones, and each foot has 26.
+- **Sushruta, the surgeon of ancient India:** His book, the Sushruta Samhita, described bones in detail for surgery and counted 300, including teeth and soft bones.
+- **Biologists:** Note that many animals have no inside bones. An insect wears its skeleton outside, as an exoskeleton, and a jellyfish has none at all, only water pressure.
 ### What bones do for us · *defined*
 **Definition:** Bones hold the body up, keep soft parts safe, and give muscles something to pull on.
 
@@ -43,6 +45,8 @@ Without bones, you would flop like an empty sock. Your leg bones carry your weig
 - e.g. The ribs keep the heart and lungs safe.
 - e.g. The backbone holds you up and keeps the soft cord of nerves inside it safe.
 - e.g. Leg bones carry your weight when you walk.
+- **Old view:** Bones are a frame. They hold the body up and protect the heart and brain.
+- **Modern doctors:** Bone is also a factory and a store. Its soft middle, the marrow, makes blood cells, and it stores calcium that the rest of the body draws on.
 ### Joints are where bones meet · *defined*
 **Definition:** A joint is a place where two bones meet. Most joints let the body bend or turn.
 
@@ -50,6 +54,8 @@ A bone is stiff. It does not bend. So you can only bend where two bones meet. Ea
 - e.g. Each finger has 3 bones. The thumb has 2 bones you can feel, and another inside the palm.
 - e.g. Your elbow, knee, wrist, ankle, shoulder and hip are joints.
 - e.g. Your skull is made of many bones that joined together. Those joints do not move.
+- **Sushruta:** Described eight kinds of joints, such as ones that turn, ones that slide and ones shaped like a mortar and pestle. He studied them to set broken and dislocated limbs.
+- **Modern anatomists:** Group joints by how they move, and also by what holds them: ligaments, cartilage and fluid. A joint is a whole working part, not only the place where two bones meet.
 ### Hinge joints and ball and socket joints · *defined*
 **Definition:** A hinge joint moves one way and back, like a door. A ball and socket joint can move in almost every direction, because a round ball of bone turns in a cup.
 
@@ -57,6 +63,8 @@ At your elbow, the bones fit together like a hinge. So in the Torch on the Wall 
 - e.g. Hinge joints: elbow, knee, the middle and end joints of your fingers.
 - e.g. Ball and socket joints: shoulder and hip.
 - e.g. In between: wrist, ankle, and the big knuckles where your fingers join your hand.
+- **Engineers:** See the elbow as a hinge and the hip as a ball and socket, and use these ideas to design robots and artificial hips.
+- **Octopus researchers:** Point out that an octopus arm has no bones and no joints, and still it can bend anywhere along its length. Joints are one solution, not the only one.
 ### Muscles pull bones · *defined*
 **Definition:** Muscles move bones by getting shorter and pulling on them. A muscle can pull, but it cannot push.
 
@@ -64,6 +72,8 @@ Put your hand on the front of your upper arm and bend your elbow. The muscle the
 - e.g. The muscle at the front of your upper arm bends your elbow.
 - e.g. Your calf muscle pulls your heel up when you stand on tiptoe.
 - e.g. Your heart is a muscle too. It squeezes blood round your body.
+- **Galen:** The Greek doctor Galen, about 170 CE, taught that nerves carry a spirit that makes muscles pull.
+- **Andrew and Hugh Huxley:** In 1954 two scientists, unrelated, showed that muscle works by thin threads of protein sliding past one another, which makes the muscle shorter. This is called the sliding filament theory.
 ### Bones are alive · *defined*
 **Definition:** Bone is living. It has living bone cells and blood running through it.
 
@@ -71,6 +81,8 @@ Bone looks hard like stone, but it is alive. Inside are bone cells that build ne
 - e.g. A child's broken arm usually mends in a few weeks.
 - e.g. Bone cells build more bone where your body pushes on it most, for example in a tennis player's hitting arm.
 - e.g. Astronauts in space lose some bone, because nothing presses on their bones there.
+- **The everyday view:** A skeleton in a museum looks dry and dead, like a stick. Many people think bones are just hard props.
+- **Bone scientists:** A living bone is full of blood and busy cells. Some cells build bone and others take it apart. The whole skeleton is slowly replaced, which is how a broken bone mends.
 ### Children have more bones than grown-ups · *defined*
 **Definition:** A newborn baby has about 300 bones and bits of bone. Many of them join together as the child grows, until a grown-up has about 206.
 
@@ -78,6 +90,8 @@ A baby's skull is made of plates with soft gaps between them. You may have felt 
 - e.g. The soft spot on top of a baby's head closes by about the age of 2.
 - e.g. A baby's lower jaw starts as two halves, which join in the first year.
 - e.g. The bones at the bottom of the backbone join together by the time a person is grown up.
+- **Anatomists:** Count 206 bones in a grown-up and about 270 or more in a newborn. Several bones fuse as a child grows.
+- **Counting differently:** The count depends on the rule. Sushruta's 300 included cartilages and teeth. Some people have an extra rib or tiny extra bones, so 206 is a usual number, not a law.
 ### Skeletons in other animals · *defined*
 **Definition:** Most fish, and all frogs, lizards, birds and mammals, have a skeleton of bone inside, with a backbone. Humans are one of these animals.
 
@@ -85,6 +99,9 @@ A crow, a cat, a house lizard and you all have a backbone, a skull and ribs. The
 - e.g. A giraffe and a human both have 7 neck bones.
 - e.g. A bird's leg seems to bend backwards. That bend is really the ankle. The knee is hidden up in the feathers.
 - e.g. An ant's hard skeleton is on the outside of their body.
+- **Animals with a bony skeleton inside:** Fish, frogs, lizards, birds and mammals, including humans, have bones and a backbone.
+- **Insects, crabs and spiders:** Wear their skeleton on the outside, as a hard shell they shed as they grow.
+- **Worms and jellyfish:** Have no bones at all. Water inside their bodies holds them up and gives their muscles something to push on.
 
 ## Mostly agreed
 - A grown-up human has about 206 bones. A newborn baby has more separate pieces, about 300, and many of them join as the child grows. *How we know:* Doctors have counted bones in skeletons and watched them on X-rays of children of every age.
@@ -124,7 +141,7 @@ We have felt our bones, found our joints and tested which joints can draw a circ
 Bone cells feel the pressing of your weight and the jolts of your jumping. They answer by building bone where it is needed and taking it away where it is not. So the shape of your bones is a record of how you have lived and moved. Some scientists call this an automatic response to pressure.
 
 - **Sushruta Samhita, Sharira Sthana, chapter 5:** Sushruta, a surgeon in ancient India, named the joints of the body by their shapes. He called the joints of the fingers, knees and elbows kora, like a hinge. He called the joints of the shoulders and hips ulukhala, like a mortar with its pestle. (The Torch on the Wall experiment found the same thing: the hinge joints swing one way, and the shoulder and hip turn in a cup like a pestle in a mortar.)
-- **Tao Te Ching, chapter 76:** “人之生也柔弱，其死也堅強。 / 萬物草木之生也柔脆，其死也枯槁。 / 故堅強者死之徒，柔弱者生之徒。” The Tao Te Ching, an old Chinese book, says that a living person is soft and bending, and a dead body is stiff and hard. A living plant is soft and bends, and a dead one is dry and breaks. (This unit says something similar: life goes with moving and changing. A living body bends at its joints, and living bone is always being rebuilt. A museum skeleton is hard and still, because its living cells have died.)
+- **Tao Te Ching, chapter 76:** “人之生也柔弱，其死也堅強。 / 萬物草木之生也柔脆，其死也枯槁。 / 故堅強者死之徒，柔弱者生之徒。” The Tao Te Ching, an old Chinese book, says that a living person is soft and bending, and a dead body is stiff and hard. A living plant is soft and bends, and a dead one is dry and breaks. (This lesson says something similar: life goes with moving and changing. A living body bends at its joints, and living bone is always being rebuilt. A museum skeleton is hard and still, because its living cells have died.)
 - Science (settled): Bone is living. Bone cells build and remove bone all through life, and build more bone where it is pressed and pushed.
 - Science (open): Exactly how bone cells sense pressure and pass the message to other cells is still being worked out.
 - Other view, Many biologists: Many biologists say bone cells do not listen or answer in any way like a person does. They say the cells follow chemical rules when they are squeezed, the way a switch turns on when it is pressed.
@@ -503,28 +520,28 @@ Thatha laughed. "My doctor and my granddaughter have taught an old man two thing
    Options: About 206 / About 20 / About 2,000  
    **Answer:** About 206. *Why:* A grown-up has about 206 bones. A newborn baby has more pieces, about 300, and many of them join as the child grows.
 3. (mcq) What is a joint?  
-   Options: A place where two bones meet / The middle of a bone / A kind of muscle  
+   Options: The middle of a bone / A kind of muscle / A place where two bones meet  
    **Answer:** A place where two bones meet. *Why:* A joint is where two bones meet. Your body bends at its joints.
 4. (mcq) Your elbow bends and straightens like a door. What kind of joint is it?  
-   Options: A hinge joint / A ball and socket joint / It is not a joint  
+   Options: A ball and socket joint / It is not a joint / A hinge joint  
    **Answer:** A hinge joint. *Why:* A hinge joint moves one way and back, like a door. The elbow and knee are hinge joints.
 5. (mcq) Which of these joints can move round in a circle?  
-   Options: The hip / The knee / The elbow  
+   Options: The knee / The hip / The elbow  
    **Answer:** The hip. *Why:* The hip is a ball and socket joint, like the shoulder. The knee and elbow are hinges.
 6. (mcq) What do your ribs do?  
-   Options: Keep your heart and lungs safe / Help you see / Make your hair grow  
+   Options: Help you see / Make your hair grow / Keep your heart and lungs safe  
    **Answer:** Keep your heart and lungs safe. *Why:* The ribs make a cage of bone round the heart and lungs.
 7. (mcq) What would a body be like with no bones at all?  
-   Options: Floppy, like an empty sock / Just the same / Stiff, like a ruler  
+   Options: Just the same / Stiff, like a ruler / Floppy, like an empty sock  
    **Answer:** Floppy, like an empty sock. *Why:* Bones hold the body up. Without them, a body would flop, like the empty sock in the Floppy Sock Arm activity.
 8. (mcq) How does a muscle move a bone?  
    Options: It gets shorter and pulls / It pushes the bone away / It gets longer and pushes  
    **Answer:** It gets shorter and pulls. *Why:* Muscles can only pull. They get shorter and harder as they pull a bone.
 9. (mcq) A nurse puts a plaster cast on a broken arm. Why?  
-   Options: To keep the pieces still while the bone cells mend it / Because the cast makes new bone / To keep the arm warm  
+   Options: Because the cast makes new bone / To keep the arm warm / To keep the pieces still while the bone cells mend it  
    **Answer:** To keep the pieces still while the bone cells mend it. *Why:* Bone is alive. Bone cells build new bone across the crack. The cast only holds the pieces still so they join straight.
 10. (mcq) Why can a broken bone mend, when a cracked stone cannot?  
-   Options: Bone is alive and has living cells / Bone is softer than stone / Bone is made of water  
+   Options: Bone is softer than stone / Bone is alive and has living cells / Bone is made of water  
    **Answer:** Bone is alive and has living cells. *Why:* Living bone cells build new bone. A stone has no living cells, so a crack in a stone stays.
 
 ## Applications
@@ -541,7 +558,7 @@ Thatha laughed. "My doctor and my granddaughter have taught an old man two thing
 - A cricket bowler swings their straight arm round in a big circle from the shoulder, a ball and socket joint.
 - A crow or a myna walking on a balcony rail, standing on their toes, with the heel and ankle bent backwards.
 - An X-ray film in an envelope from a hospital, which a family member keeps after a fall.
-- A kalaripayattu student in Kerala doing deep stretches and kicks that swing the leg round from the hip.
+- A martial arts student doing deep stretches and kicks that swing the leg round from the hip.
 
 ## Open questions
 - **How exactly do bone cells feel the pushes of running and jumping, and pass the message on?** Scientists know that bone cells sense pressure and send signals to build more bone. Exactly how they sense it is still being worked out.
@@ -580,10 +597,13 @@ I Grow a Little Every Day (sci.body.L2): Topic-level song for Our bodies L2
 
 ## Links
 - [Human skeleton (Wikipedia)](https://en.wikipedia.org/wiki/Human_skeleton) · interactive: For the parent: clear pictures of the whole skeleton, with every bone named.
-- [Government Museum, Chennai]() · place · Chennai: The zoology galleries show skeletons of many animals. Look for the backbone, ribs and skull in each one.
-- [Regional Museum of Natural History, Mysuru]() · place · Mysuru: A natural history museum about animals, plants and the living world.
+- Government Museum, Chennai · place · Chennai: The zoology galleries show skeletons of many animals. Look for the backbone, ribs and skull in each one.
+- Regional Museum of Natural History, Mysuru · place · Mysuru: A natural history museum about animals, plants and the living world.
 
 ## Things to buy
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in My Life-Size Bone Map. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in p1. Get it before My Life-Size Bone Map.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Floppy Sock Arm: why do we need bones?, My Life-Size Bone Map, Make a Paper Finger That Bends. About ₹10 to ₹30. Any school ruler is fine. Used in a2, p1, c1. Get it before Floppy Sock Arm: why do we need bones?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - About how many bones does a grown-up have? → About 206.

@@ -88,7 +88,7 @@
    "concept": "Temperature, and the Celsius scale",
    "status": "defined",
    "definition": "Temperature is how hot or cold something is. In India we measure it in degrees Celsius, written °C.",
-   "description": "On the Celsius scale, 0 is the temperature at which pure water freezes. 100 is the temperature at which it boils, at sea level. The space between them is cut into 100 equal steps called degrees. Anything colder than freezing water gets a minus number. A freezer is about minus 18 °C. The scale is named after Anders Celsius, a Swedish astronomer. In 1742 he made a scale with 100 for freezing and 0 for boiling. A few years later, others turned it the other way round, which is how we use it today.",
+   "description": "On the Celsius scale, 0 is the temperature at which pure water freezes. 100 is the temperature at which it boils, at sea level. The space between them is cut into 100 equal steps called degrees. Anything colder than freezing water gets a minus number. A freezer is about minus 18 °C. The scale is named after Anders Celsius, a Swedish astronomer. In 1742 he made a scale with 100 for freezing and 0 for boiling. A few years later, others turned it the other way round, which is how we use it today. A thermometer is one measuring tool. Other tools measure other things, each in its own unit. A ruler measures length in centimetres. A measuring tape measures longer lengths in metres. A weighing machine, which is also called a scale, measures weight in kilograms. A clock measures time in minutes and seconds.",
    "examples": [
     "A fridge is about 4 °C inside.",
     "A healthy body is about 37 °C inside.",
@@ -791,10 +791,10 @@
       "q": "After 3 hours, why did both tumblers stop changing?",
       "options": [
        "The water got tired",
-       "They were both at room temperature, so there was no difference left to make heat move",
-       "The thermometer stopped working"
+       "The thermometer stopped working",
+       "They were both at room temperature, so there was no difference left to make heat move"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Heat moves only when there is a difference in temperature. Once both tumblers were as warm as the room, heat stopped moving in or out. Picking 'the thermometer stopped working' is a fair worry. You can check by dipping it in warm water, and it moves again."
      }
     }
@@ -902,11 +902,11 @@
       "t": "mcq",
       "q": "The water in the bowl got warmer, though nobody heated it. Why?",
       "options": [
-       "Heat moved from the hot tumbler, through the steel, into the cooler water",
        "Cold moved out of the bowl water into the tumbler",
+       "Heat moved from the hot tumbler, through the steel, into the cooler water",
        "Stirring made it warm"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Heat moves from the warmer thing to the cooler thing. The steel tumbler passed the heat from the hot water into the bowl water. Picking 'cold moved out' is how many people talk, but nothing called cold moves. Stirring does make a tiny bit of heat, far too little to show on a thermometer."
      }
     },
@@ -1130,11 +1130,11 @@
       "t": "mcq",
       "q": "Why did one hand feel the middle water as warm and the other as cold?",
       "options": [
-       "The water was warm on one side and cold on the other",
        "Each hand felt whether it was getting warmer or cooler, and one hand was colder to start with",
+       "The water was warm on one side and cold on the other",
        "One hand is better at feeling than the other"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The hand from the ice was cold, so it gained heat in the middle bowl and felt warm. The hand from the warm bowl lost heat and felt cold. The thermometer showed the water was one temperature. Picking 'warm on one side' is a sensible guess, and you can test it: put the hands in the outside bowls the other way round, and the feelings swap."
      }
     }
@@ -1383,10 +1383,10 @@
       "q": "Ice cubes are melting in a tumbler of lemon juice. Which way is the heat going?",
       "options": [
        "From the ice into the juice",
-       "From the juice into the ice",
-       "No heat is moving"
+       "No heat is moving",
+       "From the juice into the ice"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The juice is warmer than the ice, so heat moves from the juice into the ice. That is why the ice melts and the juice gets colder. Picking 'from the ice' is how it can feel, because the drink gets cold, but what really happens is that the juice loses heat."
      }
     }
@@ -1493,11 +1493,11 @@
       "t": "mcq",
       "q": "Why is 2 in the afternoon usually warmer than 8 in the morning?",
       "options": [
-       "The Sun has been heating the ground and air for hours",
        "The thermometer warms up by itself during the day",
-       "People cook lunch"
+       "People cook lunch",
+       "The Sun has been heating the ground and air for hours"
       ],
-      "a": 0,
+      "a": 2,
       "why": "From sunrise, sunlight heats the ground, the walls and the air. By the early afternoon they have taken in the most heat. At night the heat leaks away to the sky, so the morning is cooler. Lunch cooking warms a kitchen, but not the air outside a window."
      }
     }
@@ -1571,11 +1571,11 @@
       "t": "mcq",
       "q": "Why does pouring coffee between a tumbler and a davara cool it quickly?",
       "options": [
-       "Pouring makes the coffee lose its heat to the air faster, because much more of it touches the air",
        "The steel davara makes cold",
+       "Pouring makes the coffee lose its heat to the air faster, because much more of it touches the air",
        "Pouring shakes the heat out"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Heat leaves through the surface that touches the cooler air. A falling stream and a wide davara give much more surface than a tall tumbler, so heat leaves faster. Some water also evaporates, which carries away heat too. Steel does not make cold."
      }
     }
@@ -1646,11 +1646,11 @@
       "t": "mcq",
       "q": "Why does the straw thermometer take much longer to settle than a real thermometer?",
       "options": [
-       "Its bottle holds much more water, so it needs much more heat to warm up",
        "Straws are lazy",
-       "The colour slows it down"
+       "The colour slows it down",
+       "Its bottle holds much more water, so it needs much more heat to warm up"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A real thermometer has a tiny bulb, so very little heat warms it to the water's temperature. The bottle holds a lot of water, so it takes much longer to reach the same temperature. This is why real thermometers are thin."
      }
     }
@@ -1689,10 +1689,10 @@
    "p": "What does a thermometer measure?",
    "opts": [
     "How heavy something is",
-    "How hot or cold something is",
-    "How much heat something holds"
+    "How much heat something holds",
+    "How hot or cold something is"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A thermometer measures temperature: how hot or cold something is. It does not say how much heat a thing holds. A big bucket and a small cup can read the same.",
    "outcome": 0
   },
@@ -1712,11 +1712,11 @@
    "t": "mcq",
    "p": "Why does the red liquid in a thermometer climb when it gets warmer?",
    "opts": [
-    "The liquid expands and the only place to go is up the narrow tube",
     "Heat is lighter than air, so it floats up",
+    "The liquid expands and the only place to go is up the narrow tube",
     "The glass squeezes it upwards"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Warmer liquid takes up more space. The narrow tube turns a tiny bit of extra liquid into a long rise. Heat is not a thing that floats, so 'heat floats up' cannot be right.",
    "outcome": 2
   },
@@ -1724,11 +1724,11 @@
    "t": "mcq",
    "p": "A parent has been holding a cold drink, so their hand is cold. They touch a child's forehead and it feels very warm. A clinical thermometer reads 37.0 °C. Which should the parent trust?",
    "opts": [
-    "The hand, because it can feel heat directly",
     "The thermometer, because a hand only feels whether it is warming up or cooling down",
+    "The hand, because it can feel heat directly",
     "Neither, because a number cannot show a fever"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A cold hand gains heat from the forehead and feels it as warm, as in the two-hands bowl test. The thermometer waits until it matches the body and shows one steady number. 37.0 °C is a normal body temperature.",
    "outcome": 1
   },
@@ -1736,11 +1736,11 @@
    "t": "mcq",
    "p": "A hot dosa is put on a cool steel plate. Which way does heat move?",
    "opts": [
-    "From the plate into the dosa",
     "From the dosa into the plate",
+    "From the plate into the dosa",
     "No heat moves"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Heat moves from the warmer thing to the cooler thing. The dosa is hotter, so heat goes from the dosa into the plate, and the plate gets warm.",
    "outcome": 3
   },
@@ -1748,11 +1748,11 @@
    "t": "mcq",
    "p": "Two tumblers, one of hot water and one of fridge water, stand in a room at 30 °C for 3 hours. What will they read?",
    "opts": [
-    "The hot one 60 °C, the cold one 8 °C, the same as at the start",
     "Both about 30 °C",
+    "The hot one 60 °C, the cold one 8 °C, the same as at the start",
     "The hot one 8 °C and the cold one 60 °C"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Both share heat with the room until they are the same as the room. In the Hot Tumbler, Cold Tumbler test, both ended within a degree or two of the room.",
    "outcome": 4
   },
@@ -1760,11 +1760,11 @@
    "t": "mcq",
    "p": "A small katori of water is at 70 °C. A big bucket of water is at 40 °C. Which statement is true?",
    "opts": [
-    "The katori is hotter, but the bucket holds more heat",
     "The katori is hotter and holds more heat",
-    "They hold the same heat"
+    "They hold the same heat",
+    "The katori is hotter, but the bucket holds more heat"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Temperature says how hot, and the katori is hotter. But the bucket has so much more water that it holds far more heat. It would melt much more ice.",
    "outcome": 5
   },
@@ -1786,10 +1786,10 @@
    "p": "A flask of snow is set in front of a mirror, and a thermometer across the room starts to fall. What is really happening?",
    "opts": [
     "Snow sends out rays of cold",
-    "The thermometer gives out more heat towards the snow than it gets back",
-    "Mirrors make things cold"
+    "Mirrors make things cold",
+    "The thermometer gives out more heat towards the snow than it gets back"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Everything sends out heat, and warmer things send out more. The thermometer loses more heat towards the snow than it gains from it, so it cools. Only heat is moving.",
    "outcome": 6
   },
@@ -1797,13 +1797,25 @@
    "t": "mcq",
    "p": "A tumbler of water on a sunny sill reads 45 °C, but the air in the shade reads 33 °C. What is the best explanation?",
    "opts": [
-    "Sunlight is heating the water directly, so it is warmer than the air",
     "Heat is flowing from the shady air into the water",
+    "Sunlight is heating the water directly, so it is warmer than the air",
     "The thermometer is broken"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Sunlight brings heat straight to the water, so the water ends up warmer than the air around it. Heat cannot flow by itself from the cooler shady air into warmer water.",
    "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "Which tool should you use to find how heavy a bag of rice is?",
+   "opts": [
+    "A weighing machine",
+    "A ruler",
+    "A clock"
+   ],
+   "a": 0,
+   "why": "A weighing machine measures weight in kilograms. A ruler measures length, and a clock measures time.",
+   "outcome": 1
   }
  ],
  "worksheets": [
@@ -1834,11 +1846,11 @@
      "t": "mcq",
      "p": "A thermometer is dipped into hot water and read straight away. What is wrong with the reading?",
      "opts": [
-      "Nothing, a thermometer is right at once",
       "It will be too low, because the thermometer has not warmed up to the water yet",
+      "Nothing, a thermometer is right at once",
       "It will be too high, because thermometers start hot"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Heat takes about a minute to move into the thermometer's bulb. Until then the thermometer is cooler than the water, so it reads too low. A strong answer says: wait until the line stops moving."
     },
     {
@@ -1846,10 +1858,10 @@
      "p": "You want to measure the water in the fridge. You have a fever thermometer and a laboratory thermometer. Which should you use?",
      "opts": [
       "The fever thermometer, because it is digital",
-      "The laboratory thermometer, because a fever thermometer reads only from about 32 to 42 °C",
-      "Either one"
+      "Either one",
+      "The laboratory thermometer, because a fever thermometer reads only from about 32 to 42 °C"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Fridge water is about 4 to 8 °C, far below what a fever thermometer can read, so it would just show 'Lo'. A laboratory thermometer reads from about minus 10 to 110 °C."
     },
     {
@@ -1930,6 +1942,31 @@
      "why": "Knowing a few real temperatures helps you judge any number you read. Your body is warmer than most rooms, and a fridge is just above freezing."
     },
     {
+     "t": "match",
+     "p": "Match each tool to what it measures.",
+     "pairs": [
+      [
+       "Ruler",
+       "length of a pencil, in centimetres"
+      ],
+      [
+       "Measuring tape",
+       "length of a room, in metres"
+      ],
+      [
+       "Weighing machine",
+       "weight of a bag of rice, in kilograms"
+      ],
+      [
+       "Clock",
+       "time, in minutes and seconds"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each tool gives a number in its own unit. A thermometer gives degrees, but the same idea holds for every tool.",
+     "outcome": 1
+    },
+    {
      "t": "order",
      "p": "Put these steps for reading a thermometer in water in the right order.",
      "items": [
@@ -1950,11 +1987,11 @@
      "t": "mcq",
      "p": "A laboratory thermometer has a round bulb at the bottom. Why must the bulb be right in the water, and not just the tip of the glass?",
      "opts": [
-      "Most of the liquid is in the bulb, so the bulb must reach the water's temperature",
       "The bulb makes the water hotter",
+      "Most of the liquid is in the bulb, so the bulb must reach the water's temperature",
       "The glass tip is too sharp"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The bulb holds most of the liquid. Heat must move into the bulb until it is as warm as the water, and then the line shows the water's temperature."
     },
     {
@@ -2005,11 +2042,11 @@
      "t": "mcq",
      "p": "A tumbler of hot water at 62 °C stands in a bowl of water at 30 °C. The bowl holds three times as much water as the tumbler. Where will the two numbers stop?",
      "opts": [
-      "Both at 62 °C",
       "Both at about 37 °C, nearer the bowl's start",
+      "Both at 62 °C",
       "Both at 30 °C"
      ],
-     "a": 1,
+     "a": 0,
      "how": "e2",
      "why": "Heat moves from the tumbler into the bowl until both are the same. The bowl holds three times as much water, so it goes up only a little while the tumbler comes down a lot. They meet at about 37 °C."
     },
@@ -2196,10 +2233,10 @@
      "p": "A thermometer has been standing in a hot tumbler. It is moved straight into fridge water and read after 5 seconds. What will it show?",
      "opts": [
       "About 8 °C, the temperature of the fridge water",
-      "A number still close to the hot water's, because the thermometer has not cooled yet",
-      "Exactly 0 °C"
+      "Exactly 0 °C",
+      "A number still close to the hot water's, because the thermometer has not cooled yet"
      ],
-     "a": 1,
+     "a": 2,
      "why": "A thermometer shows its own temperature. It takes about a minute to give up its heat to the cold water. Until then the reading is too high."
     }
    ]
@@ -2222,10 +2259,10 @@
      "p": "1 katori of water at 60 °C is mixed with 2 katoris of water at 15 °C. About what will the mix read?",
      "opts": [
       "About 37 °C, halfway",
-      "About 30 °C, nearer the cold",
-      "About 50 °C, nearer the hot"
+      "About 50 °C, nearer the hot",
+      "About 30 °C, nearer the cold"
      ],
-     "a": 1,
+     "a": 2,
      "how": "e3",
      "why": "Think of three katoris sharing heat. The total of the three starting numbers is 60 + 15 + 15 = 90, and 90 shared by 3 is 30. There is more cold water, so the mix is nearer the cold number."
     },
@@ -2357,11 +2394,11 @@
      "t": "mcq",
      "p": "A glass clinical thermometer keeps its reading after it is taken out of the mouth. What makes this possible?",
      "opts": [
-      "A small kink in the tube stops the liquid sliding back",
       "The liquid cannot cool down",
-      "The glass stays warm for hours"
+      "The glass stays warm for hours",
+      "A small kink in the tube stops the liquid sliding back"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The kink holds the liquid in the tube, so a grown-up can read it after taking it out. You shake it down before the next use."
     },
     {
@@ -2369,10 +2406,10 @@
      "p": "In the Tumbler in a Bowl test, the hot tumbler started at 62 °C and the bowl water at 30 °C. Suppose the bowl held ten times as much water as the tumbler. Where would the two numbers stop?",
      "opts": [
       "About 37 °C, as before",
-      "Very near 30 °C, only a little warmer",
-      "Near 62 °C"
+      "Near 62 °C",
+      "Very near 30 °C, only a little warmer"
      ],
-     "a": 1,
+     "a": 2,
      "how": "e2",
      "why": "The tumbler's heat is shared among much more water, so the bowl warms very little. The more water the bowl holds, the nearer the meeting point is to the bowl's start."
     }
@@ -2638,6 +2675,64 @@
     "c2"
    ],
    "why": "Every experiment in this lesson needs a thermometer that can read cold water, room air and hot water. A fever thermometer reads only from about 32 to 42 °C, so it will not work. Glass laboratory thermometers are cheap in stationery and science shops. A digital probe is harder to break."
+  },
+  {
+   "id": "b-modelling-clay-or-plasticine",
+   "item": "Modelling clay or plasticine",
+   "kind": "material",
+   "why": "Used in Make a Straw Thermometer. About ₹40 to ₹120. Atta dough mixed with a little salt works.",
+   "url": "https://www.amazon.in/s?k=modelling+clay+plasticine",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before Make a Straw Thermometer."
+  },
+  {
+   "id": "b-food-colour",
+   "item": "Food colour",
+   "kind": "material",
+   "why": "Used in Make a Straw Thermometer. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it.",
+   "url": "https://www.amazon.in/s?k=food+colour+liquid",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before Make a Straw Thermometer."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Cool the Hot Water Fast. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before Cool the Hot Water Fast."
+  },
+  {
+   "id": "b-a-measuring-jug-or-syringe--",
+   "item": "A measuring jug or syringe (marked in millilitres)",
+   "kind": "tool",
+   "why": "Used in Half and Half: what do you get when you mix hot and cold?. About ₹30 to ₹100. A clean medicine cup or marked bottle works.",
+   "url": "https://www.amazon.in/s?k=measuring+jug+500+ml",
+   "used_in": [
+    "e3"
+   ],
+   "plan": "Get it before Half and Half: what do you get when you mix hot and cold?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

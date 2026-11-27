@@ -1,9 +1,9 @@
 # Day and night: why the Sun reaches Guwahati before Mumbai
 `sci.day-night-seasons.day-and-night.L4`
 
-**Summary.** The Sun reaches Guwahati long before Mumbai, yet both clocks say the same time. How? In this unit you will compare noon in five cities, spin an orange Earth to see how fast places move, and work out how long a day lasts on other planets.
+**Summary.** The Sun reaches Guwahati long before Mumbai, yet both clocks say the same time. How? In this lesson you will compare noon in five cities, spin an orange Earth to see how fast places move, and work out how long a day lasts on other planets.
 
-**Intro.** *Open a weather app and look at today's sunrise in Guwahati and in Mumbai. Both times are on the same clock, the clock of one country. Yet they are about an hour apart. Did the Sun visit Guwahati first?* The Sun did not visit anyone. The Earth is turning, and the Sun's light reaches each place in its turn. In this unit you collect real sunrise and sunset times from five cities and find the pattern in them. You measure how fast the spin carries different places, using an orange. You make a model of why a day is a little longer than one spin. You also find out how the length of a day changes on other planets and over millions of years, and who is awake while we sleep.
+**Intro.** *Open a weather app and look at today's sunrise in Guwahati and in Mumbai. Both times are on the same clock, the clock of one country. Yet they are about an hour apart. Did the Sun visit Guwahati first?* The Sun did not visit anyone. The Earth is turning, and the Sun's light reaches each place in its turn. In this lesson you collect real sunrise and sunset times from five cities and find the pattern in them. You measure how fast the spin carries different places, using an orange. You make a model of why a day is a little longer than one spin. You also find out how the length of a day changes on other planets and over millions of years, and who is awake while we sleep.
 
 ## Learning outcomes
 0. I can explain why the Sun is highest about 4 minutes later for every degree of longitude we go west, and use this to compare two places.
@@ -16,6 +16,7 @@
 
 ## Terms
 - **Rotate**: To spin around a line through the middle. *e.g.* The Earth rotates once in about a day.
+- **Revolve**: To go round something. The Earth revolves round the Sun once in a year, which is about 365 days. Rotate is to spin on the spot. *e.g.* The Earth rotates once in a day and revolves round the Sun once in a year.
 - **Axis**: The line that something rotates around. The Earth's axis runs through the North Pole and the South Pole. *e.g.* A skewer pushed through an orange is its axis.
 - **Anticlockwise**: Turning the opposite way to the hands of a clock. Seen from above the North Pole, the Earth turns anticlockwise, which is from west to east. *e.g.* A person turning slowly to their left is turning anticlockwise.
 - **Day-night line**: The line between the half of the Earth that is lit by the Sun and the half that is dark. *e.g.* At dawn the line is passing over you.
@@ -33,17 +34,19 @@
 ### The Earth spins west to east, so the Sun reaches the east first · *defined*
 **Definition:** The Earth spins once around its axis in about a day, from west to east. So places in the east turn into the sunlight before places in the west.
 
-Seen from above the North Pole, the Earth turns anticlockwise. A place in the east is carried into the sunlit half before a place in the west. That is why the Sun rises in the east, and why Arunachal Pradesh sees sunrise before Gujarat does. Half of the Earth is always lit. The day-night line runs from the North Pole to the South Pole. As the Earth turns, this line moves west over the ground, all day and all night. When the dawn part of the line is over Guwahati, Dong, in Arunachal Pradesh further east, is already in daylight, and Mumbai in the west is still in the dark. The line never stops, so at every moment, somewhere on Earth, it is sunrise.
+Seen from above the North Pole, the Earth turns anticlockwise. A place in the east is carried into the sunlit half before a place in the west. That is why the Sun rises in the east, and why Arunachal Pradesh sees sunrise before Gujarat does. Half of the Earth is always lit. The day-night line runs from the North Pole to the South Pole. As the Earth turns, this line moves west over the ground, all day and all night. When the dawn part of the line is over Guwahati, Dong, in Arunachal Pradesh further east, is already in daylight, and Mumbai in the west is still in the dark. The line never stops, so at every moment, somewhere on Earth, it is sunrise. Look at a globe and turn it. About seven parts in every ten of the Earth's surface are sea, which is nearly three-quarters. India and the USA lie on opposite sides of the globe. So when India has day, much of the USA is in the dark half. At noon in India, it is the middle of the night in New York.
 - e.g. The Sun seems to rise in the east because the spinning Earth carries us towards the east, into the light.
 - e.g. Sunrise in Arunachal Pradesh comes more than an hour before sunrise in Gujarat.
 - e.g. At any moment, it is sunrise somewhere on Earth.
+- e.g. When children in Chennai eat lunch at noon, children in New York are fast asleep.
 ### The Sun is highest about 4 minutes later for every degree you go west · *defined*
 **Definition:** The Earth turns 1 degree of longitude in 4 minutes. So solar noon comes about 4 minutes later for each degree of longitude we move west.
 
-The Earth turns 360 degrees in 24 hours. 24 hours is 1,440 minutes. 1,440 divided by 360 is 4. So the Earth turns 1 degree every 4 minutes. Two places that are 1 degree apart in longitude have their solar noon 4 minutes apart. India is about 29 degrees wide, from about 68 degrees east to about 97 degrees east. So noon in the far west comes about 116 minutes, nearly two hours, after noon in the far east. Sunrise gaps are untidy, because sunrise also depends on how far north you are and on the season. In winter, a northern city has a later sunrise and an earlier sunset than a southern one. But the middle of the day, solar noon, depends only on longitude. You can find it by taking the time halfway between sunrise and sunset. That is why the noon gaps come out neat.
+The Earth turns 360 degrees in 24 hours. 24 hours is 1,440 minutes. 1,440 divided by 360 is 4. So the Earth turns 1 degree every 4 minutes. Two places that are 1 degree apart in longitude have their solar noon 4 minutes apart. India is about 29 degrees wide, from about 68 degrees east to about 97 degrees east. So noon in the far west comes about 116 minutes, nearly two hours, after noon in the far east. Sunrise gaps are untidy, because sunrise also depends on how far north you are and on the season. In winter, a northern city has a later sunrise and an earlier sunset than a southern one. But the middle of the day, solar noon, depends only on longitude. You can find it by taking the time halfway between sunrise and sunset. That is why the noon gaps come out neat. The Sun's journey across the sky also moves shadows. Stand a stick upright in the Sun, in a pot of soil on the terrace. In the morning the Sun is low in the east, so the shadow is long and points west. As the Sun climbs, the shadow gets shorter. At solar noon the Sun is highest and the shadow is shortest. Then the Sun slides down the west, and the shadow grows long again, pointing east. It is the Earth's spin that makes the Sun seem to move, so the spin is what makes shadows change. A separate unit on shadows tells how shadows are made.
 - e.g. Chennai is about 4 degrees east of Kochi, so noon comes about 16 minutes earlier in Chennai.
 - e.g. Delhi and Bengaluru are almost on the same line of longitude, so their noons are only about 2 minutes apart, though they are far apart north to south.
 - e.g. Guwahati and Mumbai are about 19 degrees apart, so noon in Mumbai is about 75 minutes later.
+- e.g. A flagpole's shadow is longest just after sunrise and just before sunset, and shortest at solar noon.
 ### Clock time and Sun time: Indian Standard Time · *defined*
 **Definition:** Indian Standard Time is the one clock time used all over India. It matches the Sun on the line of longitude 82.5 degrees east, which passes near Mirzapur in Uttar Pradesh. It is 5 hours 30 minutes ahead of the world's reference time, UTC.
 
@@ -366,7 +369,7 @@ From then on, she woke at five every day, and we sat at the window and waited fo
   - Think: If the equator is carried at 1,670 kilometres an hour, how fast is a person at the 60 degree circle?
 
 ## Activities
-### a1 · The Extra Turn: why a day is a little longer than one spin (20 min)
+### a1 · The Extra Turn: why a day is a little longer than one spin (26 min)
 - **record:** Draw the circle, the lamp and the star, with an arrow for the way you turned and a mark for the extra bit. Or take a photo of your marks and tell your grown-up where the extra turn was.
 - **s1 (5 min)**  
   *Parent does:* Put the torch on a low table in the middle of the room. The torch is the lamp. Stick the star on the far wall. Lay out eight marks in a circle around the lamp, each with an arrow on it. Every arrow points the same way, towards the star. The first mark is the one where the star is straight behind the lamp.  
@@ -397,6 +400,12 @@ From then on, she woke at five every day, and we sat at the window and waited fo
   *Child mode:* A star comes back after one spin. The Sun takes four minutes more. So does a star rise earlier or later each night?
   - Note: A star comes back after one spin, which is 4 minutes before the Sun comes back. So a star rises 4 minutes earlier each night by the clock. After 30 nights it is 2 hours earlier.
   - Think: After a whole month, how much earlier does a star rise?
+- **s6 (6 min)**  
+  *Parent does:* Now show a whole year. Give your child a ball or an orange with a small sticker on it for your home. The ball is the Earth. Hold it and turn it once anticlockwise on the spot, while it is in front of the lamp. That is one day. Then carry the ball slowly round the lamp from mark to mark, all the way round to the first mark. That whole trip is one year. Count the marks as you go.  
+  *Parent says:* The ball is the Earth, and the sticker is our home. One turn on the spot is one day. Now carry it all the way round the lamp, mark by mark. When it is back on the first mark, a whole year has gone by.  
+  *Child mode:* Turn the ball once. That is a day. Now carry it round the lamp to every mark and back to the first. That is a year.
+  - Note: The Earth goes once round the Sun in about 365 days. With 8 marks, each step is about 45 days. Real years are not all 365 days: every fourth year has an extra day, to make up the quarter of a day left over. Say 'the Earth revolves round the Sun' for going round, and 'the Earth rotates' for the spin on the spot.
+  - Check: The ball turns once on the spot, and then goes all the way round the lamp. Which is a day, and which is a year? → **The turn on the spot is a day, and the trip round the lamp is a year**
 ### a2 · Night Watch: who is awake while we sleep? (25 min)
 - **safety:** A grown-up must come with you. Stay in a safe place, away from the edge of a terrace. Do not go near wild animals. Do not touch bats, snakes or scorpions. Cover arms and legs or use the grown-up's mosquito repellent, because dusk is mosquito time.
 - **record:** A table with three columns: what I heard, what I saw, and where the light came from. Add one night creature and the sense this creature needs. Draw it or write about it.
@@ -493,6 +502,31 @@ From then on, she woke at five every day, and we sat at the window and waited fo
   *Child mode:* Vote again. Did anyone change their mind? Why?
   - Note: A good result is that your child can name one reason for each side. The Sun's time is different in each place, and the clock time is something people agreed on. The real question is how closely the clock should follow the Sun.
   - Think: Is a clock supposed to follow the Sun, or to help people work together?
+### a6 · Sky Diary: morning, afternoon and night (30 min)
+- **safety:** Never look straight at the Sun, not even for a moment. Look at the colour of the sky and where the Sun is by looking at the light and the shadows. A grown-up must be with you at night.
+- **record:** A table with three rows: morning, afternoon and night. The columns are the time, the colour of the sky, the Sun or shadow, and the Moon or stars.
+- **s1 (8 min) · grown-up needed**  
+  *Parent does:* Draw a table with three rows: Morning, Afternoon and Night. Draw the columns: Time, Colour of the sky, Sun or shadows, Moon and stars. Choose a morning time soon after sunrise. Look at the sky and write the time. Write the colour of the sky. Do not look at the Sun. Say if the light is low and golden or high and white, and which way the shadow of a tree or a pole points. Write what you see.  
+  *Parent says:* Write the time. What colour is the sky? Is the Sun low or high? Which way does the shadow of that pole point? Do not look straight at the Sun.  
+  *Child mode:* Write the time. What colour is the sky? Is the Sun low or high? Which way is the shadow? Never look at the Sun.
+  - Note: Morning shadows point west, because the Sun is in the east. If the Moon is still up in the daytime sky, a pale Moon in the morning is a good thing to note. The Moon is often up in the day, and many children do not know this.
+- **s2 (6 min)**  
+  *Parent does:* In the afternoon, go to the same place. Write the time. Fill the same row. Write the colour of the sky. Is the Sun higher or lower than in the morning? Which way does the shadow of the same pole point, and is it longer or shorter? Compare it with the morning.  
+  *Parent says:* Go back to the same spot. Is the sky the same colour? Is the shadow of the same pole longer or shorter? Which way does it point now?  
+  *Child mode:* Go back to the same spot. Write the new sky colour. Is the shadow longer or shorter? Which way does it point?
+  - Note: Near midday the shadow is at its shortest. By the late afternoon it grows long again, pointing east. The sky is usually a deeper blue around midday. Near sunset it goes orange or red.
+  - Check: In the morning the shadow of a pole pointed west. In the late afternoon, which way will it point? → **East**
+- **s3 (10 min) · grown-up needed**  
+  *Parent does:* After dark, go out with a grown-up. Write the time. Fill the last row. Write the colour of the sky. Look for the Moon. If you see it, draw its shape and say if it is high or low. Count the bright stars you can see. If you cannot see the Moon tonight, write 'no Moon' and note that.  
+  *Parent says:* What colour is the sky now? Can you see the Moon? If you can, what shape is it? Is it high or low? How many bright stars can you count?  
+  *Child mode:* Look at the night sky. Draw the Moon if you can see it. Count some stars.
+  - Note: The Moon rises at a different time each day, so it is often not in the sky at the time you look. That is a real result, so write it down. A low Moon can look bigger than a high Moon, but it is not. Hold a coin out at arm's length and compare: it covers the Moon the same either way.
+- **s4 (6 min)**  
+  *Parent does:* Look at the three rows together. Ask your child which things changed through the day, and which stayed the same. Then ask what makes the Sun seem to move.  
+  *Parent says:* Look at the whole table. What changed from morning to night? What stayed the same? What makes the Sun seem to move?  
+  *Child mode:* Look at your table. What changed? What stayed the same?
+  - Note: A strong answer says that the sky colour, the Sun's height and the shadows changed, and that the Earth's spin makes the Sun seem to move across the sky. The shape of the Moon changes over weeks, not over one night.
+  - Think: If we looked again tomorrow morning, which row of the table would look the same as today?
 
 ## Projects
 ### p1 · Star Gate: the star that comes early (60 min, 6 days)
@@ -573,15 +607,15 @@ From then on, she woke at five every day, and we sat at the window and waited fo
   - Think: What is a lamp for? Who is it for?
 
 ## Worksheets
-### Day and Night, Noon and Speed (core) (core, 16 questions)
+### Day and Night, Noon and Speed (core) (core, 18 questions)
 1. (mcq) The Earth turns 360 degrees in 24 hours. How long does it take to turn 1 degree?  
    Options: 4 minutes / 15 minutes / 1 minute  
    **Answer:** 4 minutes. *Why:* 24 hours is 1,440 minutes. 1,440 divided by 360 is 4. So the Earth turns 1 degree every 4 minutes.
 2. (mcq) Seen from above the North Pole, which way does the Earth spin?  
-   Options: Anticlockwise, from west to east / Clockwise, from east to west / It does not spin, and the Sun goes round it  
+   Options: Clockwise, from east to west / It does not spin, and the Sun goes round it / Anticlockwise, from west to east  
    **Answer:** Anticlockwise, from west to east. *Why:* The Earth turns from west to east. That is why the Sun seems to rise in the east and why places in the east see the Sun first.
 3. (mcq) City A is 5 degrees of longitude west of city B. When is the Sun at its highest in A, compared with B?  
-   Options: About 20 minutes later / About 20 minutes earlier / At the same time  
+   Options: About 20 minutes earlier / About 20 minutes later / At the same time  
    **Answer:** About 20 minutes later. *Why:* 5 degrees times 4 minutes is 20 minutes. A is to the west, so the Sun reaches it later.
 4. (truefalse) At 12 o'clock on the clock, the Sun is at its highest in every city in India.  
    **Answer:** False. *Why:* False. Everyone uses one clock, but the Sun is highest about 4 minutes later for every degree you go west. In Guwahati it is about 37 minutes before 12 and in Mumbai about 38 minutes after.
@@ -594,12 +628,12 @@ From then on, she woke at five every day, and we sat at the window and waited fo
 8. (order) Put these cities in the order in which the Sun rises over them, first to last: Mumbai, Dong, Chennai, Guwahati.  
    **Answer:** ['Dong', 'Guwahati', 'Chennai', 'Mumbai']. *Why:* The Earth spins from west to east, so the Sun reaches the places in the east first. Dong is furthest east, then Guwahati, then Chennai, and Mumbai is furthest west.
 9. (mcq) A circle drawn on a spinning ball is shorter near the pole than at the equator. Why does that make a spot near the pole move more slowly?  
-   Options: It goes round a shorter path in the same time / It is further from the Sun / It is colder there  
+   Options: It is further from the Sun / It goes round a shorter path in the same time / It is colder there  
    **Answer:** It goes round a shorter path in the same time. *Why:* Every spot goes round once in 24 hours. A shorter path in the same time means a slower speed.
 10. (truefalse) A person standing at the North Pole is carried round at about 1,670 kilometres an hour.  
    **Answer:** False. *Why:* False. A person at the pole only turns on the spot. The speed of about 1,670 kilometres an hour belongs to the equator.
 11. (mcq) Why can we not feel the Earth spinning?  
-   Options: It turns smoothly and steadily, and we are carried along with everything around us / It is too slow to be real / We feel it, but we get used to it  
+   Options: It is too slow to be real / We feel it, but we get used to it / It turns smoothly and steadily, and we are carried along with everything around us  
    **Answer:** It turns smoothly and steadily, and we are carried along with everything around us. *Why:* A smooth, steady motion cannot be felt. We feel bumps, starts and stops, like in a train. Everything around us is carried along too.
 12. (fill) The Earth is a little wider across the ____ than from pole to pole, because it spins.  
    **Answer:** ['equator']. *Why:* The spin flings the Earth outward a little around its middle. The difference is about 43 kilometres.
@@ -611,9 +645,13 @@ From then on, she woke at five every day, and we sat at the window and waited fo
    **Answer:** A circle for the Earth with the Sun to one side, the far half shaded, an anticlockwise arrow, and sunrise marked on the line between night and day on the side where the Earth is turning into the light.. *Why:* A strong drawing shows half the Earth lit and half dark, an anticlockwise arrow, and sunrise at the edge where the ground is turning from dark into light.
 16. (count) Port Blair is at about 93 degrees east and Chennai is at about 80 degrees east. How many minutes later is the Sun highest in Chennai?  
    **Answer:** 52. *Why:* 93 minus 80 is 13 degrees. 13 times 4 is 52 minutes.
-### Why the Day Is 24 Hours (stretch) (stretch, 17 questions)
+17. (fill) In the morning the Sun is in the east, so the shadow of a pole points to the ____.  
+   **Answer:** ['west']. *Why:* A shadow falls on the side away from the Sun. The Sun is in the east in the morning, so the shadow points west.
+18. (fill) About ____ parts in every ten of the Earth's surface are sea.  
+   **Answer:** ['7', 'seven']. *Why:* About seven parts in ten of the surface are sea, which is nearly three-quarters. The rest is land.
+### Why the Day Is 24 Hours (stretch) (stretch, 19 questions)
 1. (mcq) Two cities are on almost the same line of longitude, but one is much further north. When is the Sun highest in each?  
-   Options: At almost the same clock time / Much earlier in the northern city / Much later in the northern city  
+   Options: Much earlier in the northern city / Much later in the northern city / At almost the same clock time  
    **Answer:** At almost the same clock time. *Why:* Noon depends on longitude only. Cities on the same line of longitude have their Sun at its highest at the same time, however far north or south they are.
 2. (mcq) The gaps between sunrise times of different cities are untidy, but the gaps between noons are neat. Why?  
    Options: Sunrise also depends on how far north a city is and on the season, but noon depends only on longitude / Noon is easier to measure / Sunrise depends on the clock but noon does not  
@@ -621,7 +659,7 @@ From then on, she woke at five every day, and we sat at the window and waited fo
 3. (truefalse) The Earth spins once in exactly 24 hours.  
    **Answer:** False. *Why:* False. One spin takes 23 hours 56 minutes. The day from one noon to the next is 24 hours, because the Earth also moves round the Sun.
 4. (mcq) Why does a bright star rise about 4 minutes earlier each night?  
-   Options: The star is back after one spin, which is 4 minutes before the Sun is back / The star moves closer to us each night / Our clocks run slow  
+   Options: The star moves closer to us each night / Our clocks run slow / The star is back after one spin, which is 4 minutes before the Sun is back  
    **Answer:** The star is back after one spin, which is 4 minutes before the Sun is back. *Why:* A star returns after one spin of 23 hours 56 minutes. The clock day is 24 hours. So each night the star rises 4 minutes earlier by the clock.
 5. (fill) One full spin of the Earth, compared with the stars, takes 23 hours and ____ minutes.  
    **Answer:** ['56', 'fifty-six', 'fifty six']. *Why:* One spin takes 23 hours 56 minutes. The extra 4 minutes to make a 24-hour day come from the Earth moving round the Sun.
@@ -634,13 +672,13 @@ From then on, she woke at five every day, and we sat at the window and waited fo
 9. (odd) Which one is the odd one out, and why? Earth, Mars, Jupiter, Venus. Think about the length of each planet's day compared with its year.  
    **Answer:** Venus. Its day (243 Earth days) is longer than its year (225 Earth days). For the other three, a day is much shorter than a year.. *Why:* Venus spins so slowly that one spin takes longer than one trip round the Sun. This is true of no other planet in this list.
 10. (mcq) What is slowing the Earth's spin?  
-   Options: The Moon's pull on the oceans, which makes tides that rub on the sea floor / The Earth is running out of energy from the Sun / The wind blowing against the ground  
+   Options: The Earth is running out of energy from the Sun / The wind blowing against the ground / The Moon's pull on the oceans, which makes tides that rub on the sea floor  
    **Answer:** The Moon's pull on the oceans, which makes tides that rub on the sea floor. *Why:* The tides raised by the Moon move over the sea floor and rub like a gentle brake. The Earth loses spin energy, and the Moon gains some and moves slowly away.
 11. (mcq) Fossil corals that lived about 400 million years ago show about 400 daily growth lines in each year. What does this suggest?  
-   Options: A year had about 400 days, so each day was shorter than today's / The year was longer than it is today / Corals grow faster than they used to  
+   Options: The year was longer than it is today / Corals grow faster than they used to / A year had about 400 days, so each day was shorter than today's  
    **Answer:** A year had about 400 days, so each day was shorter than today's. *Why:* The length of a year has stayed about the same. If a year had about 400 days, each day was about 22 hours long.
 12. (mcq) A barn owl finds a mouse in the dark mainly by her ears. What helps her work out where the sound is coming from?  
-   Options: Her ears sit at different heights, so the sound reaches them at slightly different times / She has one very large ear / She hears best when she closes her eyes  
+   Options: She has one very large ear / Her ears sit at different heights, so the sound reaches them at slightly different times / She hears best when she closes her eyes  
    **Answer:** Her ears sit at different heights, so the sound reaches them at slightly different times. *Why:* Her left and right ears hear the rustle at slightly different moments and at slightly different loudness. Her brain uses the difference to find the direction and the height.
 13. (truefalse) Streetlights on a beach can lead baby turtles away from the sea.  
    **Answer:** True. *Why:* True. Hatchlings crawl towards the brightest, lowest horizon, which on a dark natural beach is the open sea. Streetlights can fool them.
@@ -652,7 +690,11 @@ From then on, she woke at five every day, and we sat at the window and waited fo
    **Answer:** A globe with two circles, a long one at the equator and a half-length one near the top, longer arrow on the equator, and the label 2 times faster.. *Why:* A strong drawing shows the equator circle about twice as long as the 60 degree circle, so the equator's arrow is about twice as long.
 17. (perspective) Two friends are talking about school start times in a state in the far east of India, where the Sun rises very early.  
    **Answer:** Answers vary. A strong answer picks a side, gives a reason, and uses a fact such as noon being about 58 minutes earlier in Dong than at the middle of India.. *Why:* Both views have a point. A single clock is simple, and following the Sun saves daylight. The clock time is something people agreed on, and the Sun's own time is different in each place.
-### Clocks, Noon and the Slowing Earth (challenge) (challenge, 16 questions)
+18. (order) Put these in the order that a pole's shadow changes on a clear day, from morning to evening: shorter; longer again, pointing east; long, pointing west; shortest, at solar noon.  
+   **Answer:** ['Long, pointing west', 'Shorter', 'Shortest, at solar noon', 'Longer again, pointing east']. *Why:* The shadow follows the Sun. It is long when the Sun is low, shortest when the Sun is highest, and long again in the evening on the other side.
+19. (write) It is 12 noon in Delhi. A girl in Chicago, in the USA, video-calls her grandmother in Delhi. Is it day or night where the girl is? Say why, using the day-night line.  
+   **Answer:** It is night in Chicago, in the middle of the night or very early morning. The Earth is lit on one half only. When Delhi is in the sunlit half, Chicago is on the far side, in the dark half.. *Why:* A strong answer says that half the Earth is lit and half dark, and that India and the USA are on opposite sides of the Earth.
+### Clocks, Noon and the Slowing Earth (challenge) (challenge, 17 questions)
 1. (count) One town is at 85 degrees east and another is at 71 degrees east. The Sun is highest in the first at 11:50. At what time is it highest in the second? Show your working.  
    **Answer:** 12:46. *Why:* The second town is 14 degrees west. 14 times 4 is 56 minutes. 11:50 plus 56 minutes is 12:46.
 2. (count) Indian Standard Time matches the Sun at 82.5 degrees east. A town is 7.5 degrees west of that line. At what clock time is the Sun highest there?  
@@ -663,10 +705,10 @@ From then on, she woke at five every day, and we sat at the window and waited fo
    Options: It matches the Sun at 82.5 degrees east, and 82.5 divided by 15 is 5.5 / It was chosen because it is easy to remember / India is 5.5 hours from the Sun  
    **Answer:** It matches the Sun at 82.5 degrees east, and 82.5 divided by 15 is 5.5. *Why:* The Earth turns 15 degrees every hour. 82.5 degrees east is 5.5 hours of turning ahead of Greenwich, so the Sun reaches it 5 hours 30 minutes earlier.
 5. (mcq) A jet flies west near 60 degrees north at about 835 kilometres an hour. That is the same speed as the ground there is carried east by the spin. What would the passengers see the Sun do?  
-   Options: It would stay at nearly the same height for a long time / The Sun would set faster than on the ground / The Sun would rise in the west  
+   Options: The Sun would set faster than on the ground / It would stay at nearly the same height for a long time / The Sun would rise in the west  
    **Answer:** It would stay at nearly the same height for a long time. *Why:* The plane moves west as fast as the ground is carried east. So it stays under the same part of the sky, and the Sun hardly moves.
 6. (mcq) Which statement about Venus is true?  
-   Options: One spin takes longer than one trip round the Sun, and it spins backwards / It spins faster than any other planet / It has a day of exactly 24 hours  
+   Options: It spins faster than any other planet / One spin takes longer than one trip round the Sun, and it spins backwards / It has a day of exactly 24 hours  
    **Answer:** One spin takes longer than one trip round the Sun, and it spins backwards. *Why:* Venus spins once in 243 Earth days and goes round the Sun in 225 Earth days. It also spins the opposite way, so the Sun would rise in the west.
 7. (truefalse) Fossil corals show that the Earth's days were longer 400 million years ago than they are today.  
    **Answer:** False. *Why:* False. Corals with about 400 daily lines in a year show that a year had about 400 days, so each day was shorter, about 22 hours.
@@ -688,6 +730,8 @@ From then on, she woke at five every day, and we sat at the window and waited fo
    **Answer:** The Earth with a bulge of ocean towards the Moon, an arrow for the Earth's spin, and an arrow showing the tide dragging against the spin. The Moon is drawn a little further away.. *Why:* A strong drawing shows the tide bulge, the Earth's spin and the tide rubbing against it like a brake.
 16. (perspective) A town on the coast wants brighter lights on its beach for safety. Turtle watchers say the lights confuse the hatchlings.  
    **Answer:** Answers vary. A strong answer picks a side or finds a middle way, such as shielded lights that point down, lights that are warm in colour, or lights that switch off in hatching season, and gives a reason.. *Why:* Both safety and wildlife matter. Shielded, dim lights that point at the ground show how a design can help both.
+17. (write) Make a table with three rows, Morning, Afternoon and Night, and write what you expect to see in the sky in each: the colour, the Sun's height or the shadow, and the Moon or stars. Then say what makes it change.  
+   **Answer:** Morning: pale light, low Sun in the east, long shadow pointing west. Afternoon: blue sky, high Sun, short shadow (then longer, pointing east towards evening). Night: dark sky, stars, and maybe the Moon. The Earth spins, and that makes the Sun seem to move across the sky.. *Why:* A strong answer gives the sky colour, the Sun or shadow and the Moon or stars for each time, and says that the Earth's spin makes the Sun appear to move.
 
 ## Videos
 - **Understanding World Time Zones | School Education** (S Chand School Education, 6 min) id `DX5YhLmjk2I`: To see the day-night line sweep across the Earth, and why clocks in different places differ. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
@@ -708,28 +752,40 @@ From then on, she woke at five every day, and we sat at the window and waited fo
    Options: It is an agreement that makes timetables and communication simple / The Sun is highest at the same time everywhere / The Earth stops spinning at the borders  
    **Answer:** It is an agreement that makes timetables and communication simple. *Why:* Indian Standard Time is set by the Sun at 82.5 degrees east and used for the whole country. The Sun's own time is different in each place.
 5. (mcq) One spin of the Earth takes 23 hours 56 minutes, but a day is 24 hours. Why the 4 extra minutes?  
-   Options: The Earth also moves round the Sun, so it must turn a little more to face the Sun again / The Earth slows down at night / Clocks are set wrongly  
+   Options: The Earth slows down at night / Clocks are set wrongly / The Earth also moves round the Sun, so it must turn a little more to face the Sun again  
    **Answer:** The Earth also moves round the Sun, so it must turn a little more to face the Sun again. *Why:* After one spin the Earth has moved about 1 degree round the Sun. It needs about 1 degree more of turning, which takes about 4 minutes.
 6. (mcq) What is the main reason the Earth's days are slowly getting longer?  
-   Options: Tides raised by the Moon act as a gentle brake / The wind blows against the spin / The Sun's heat slows the Earth  
+   Options: The wind blows against the spin / The Sun's heat slows the Earth / Tides raised by the Moon act as a gentle brake  
    **Answer:** Tides raised by the Moon act as a gentle brake. *Why:* As the tides move over the sea floor, they rub and take energy from the Earth's spin.
 7. (mcq) A day on Jupiter lasts about 10 Earth hours. About how many Jupiter days fit into one Earth day of 24 hours?  
-   Options: A little more than 2 / A little more than 1 / About 10  
+   Options: A little more than 1 / About 10 / A little more than 2  
    **Answer:** A little more than 2. *Why:* 24 divided by 10 is 2.4. So Jupiter turns a little more than 2 times in an Earth day.
 8. (mcq) Why can streetlights on a beach harm baby turtles?  
-   Options: They crawl towards the brightest horizon, and a streetlight can be brighter than the sea / They are scared of the light / The light is too warm for them  
+   Options: They are scared of the light / They crawl towards the brightest horizon, and a streetlight can be brighter than the sea / The light is too warm for them  
    **Answer:** They crawl towards the brightest horizon, and a streetlight can be brighter than the sea. *Why:* Hatchlings use the bright, low horizon to find the sea. A road light can fool them into walking the wrong way.
 9. (mcq) Which night animal finds prey mainly by sensing warmth?  
-   Options: An Indian rock python / A barn owl / A bat  
+   Options: A barn owl / A bat / An Indian rock python  
    **Answer:** An Indian rock python. *Why:* A python has heat-sensing pits on her lips. An owl and a bat find prey mainly by hearing.
 10. (mcq) At 12 noon on the clock, which statement about Guwahati and Mumbai is true?  
-   Options: The Sun has already passed its highest in Guwahati and has not yet reached it in Mumbai / The Sun is at its highest in both / The Sun is at its highest in Mumbai before Guwahati  
+   Options: The Sun is at its highest in both / The Sun has already passed its highest in Guwahati and has not yet reached it in Mumbai / The Sun is at its highest in Mumbai before Guwahati  
    **Answer:** The Sun has already passed its highest in Guwahati and has not yet reached it in Mumbai. *Why:* Guwahati is in the east, so its noon comes earlier, about 11:23. Mumbai's noon comes later, about 12:38.
 11. (truefalse) The Earth is a little wider across the equator than from pole to pole, because it spins.  
    **Answer:** True. *Why:* True. The spin makes the Earth bulge at its middle. The difference is about 43 kilometres.
 12. (mcq) A town is 4 degrees east of the line at 82.5 degrees east, where the Sun is highest at 12:00. When is the Sun highest in that town?  
    Options: 16 minutes before 12:00 / 16 minutes after 12:00 / Exactly at 12:00  
    **Answer:** 16 minutes before 12:00. *Why:* 4 times 4 is 16 minutes. East means earlier, so the Sun is highest at 11:44.
+13. (mcq) A stick stands upright in the Sun on a clear day. When is its shadow the shortest?  
+   Options: At solar noon, when the Sun is highest / Just after sunrise / Just before sunset / At midnight  
+   **Answer:** At solar noon, when the Sun is highest. *Why:* The higher the Sun, the shorter the shadow. The Sun is highest at solar noon. At sunrise and sunset, the Sun is low and shadows are long. At midnight there is no Sun, so there is no shadow.
+14. (mcq) The ball is carried once round the lamp. What does one trip round the lamp stand for?  
+   Options: One year / One day / One night / One hour  
+   **Answer:** One year. *Why:* The Earth goes once round the Sun in about a year. The spin on the spot is the day. The trip round the Sun is the year.
+15. (mcq) It is noon in India. Which place on the globe is most likely to be in the middle of the night?  
+   Options: Colombo in Sri Lanka / Dhaka in Bangladesh / New York in the USA / Kathmandu in Nepal  
+   **Answer:** New York in the USA. *Why:* New York is on the far side of the Earth from India, in the dark half. Colombo, Dhaka and Kathmandu are close to India and are in daylight at the same time.
+16. (mcq) Look at a globe. About how much of the Earth's surface is sea?  
+   Options: About half / Nearly three-quarters / About half of half of it / Almost all of it  
+   **Answer:** Nearly three-quarters. *Why:* Seven parts in every ten of the surface are sea, which is nearly three-quarters. Land is a little under one-third. So the globe looks mostly blue.
 
 ## Applications
 - Railway and flight timetables use one agreed clock time, even across places where the Sun's time is different.
@@ -789,7 +845,7 @@ From then on, she woke at five every day, and we sat at the window and waited fo
 - Look at the bar chart of the circle lengths measured on an orange. How many times longer is the equator circle than the 60 degree circle? **2 times longer.**. The equator bar is 26 and the 60 degree bar is 13. 26 divided by 13 is 2. So the equator circle is twice as long. (queues `math.data.bar-charts.L4`)
 
 ## Song
-Turning Into the Light (sci.day-night-seasons.L4): Topic-level song for Day, night and seasons L4. The Day and night unit shares it with the other units of the topic.
+Turning Into the Light (sci.day-night-seasons.L4): Topic-level song for Day, night and seasons L4. The Day and night unit shares it with the other units of the idea.
 
 ## Links
 - [Sunrise and sunset times for any city, timeanddate.com](https://www.timeanddate.com/sun/) · interactive: Look up sunrise and sunset for any city in the world, for the Five Noons test.
@@ -798,12 +854,17 @@ Turning Into the Light (sci.day-night-seasons.L4): Topic-level song for Day, nig
 - [Indian Standard Time (Wikipedia)](https://en.wikipedia.org/wiki/Indian_Standard_Time) · interactive: For the parent: how Indian Standard Time was set, and the debate about more than one time zone.
 - [DarkSky International](https://darksky.org/) · interactive: For the parent: how light pollution harms wildlife and the night sky, and how to choose better lights.
 - [Nehru Science Centre](https://www.nehrusciencecentre.gov.in/) · place · Mumbai: A science centre with hands-on exhibits about the Earth and space. Check the opening times before you go.
-- [B. M. Birla Planetarium]() · place · Chennai: A planetarium dome where you can watch the sky turn above you in a few minutes. Check the show times before you go.
+- B. M. Birla Planetarium · place · Chennai: A planetarium dome where you can watch the sky turn above you in a few minutes. Check the show times before you go.
 
 ## Things to buy
 - [A small globe](https://www.amazon.in/s?k=world+globe+for+kids) (tool): Optional. A globe shows the longitudes and latitudes of real places. An orange works for the experiments, but a globe is good for the card game. Used in g1, e2. 
 - [Red cellophane or a red gel sheet](https://www.amazon.in/s?k=red+cellophane+sheet) (material): For the red torch in the Night Watch and the lamp challenge. Red cellophane from a stationery or gift-wrap shop costs a few rupees. A red sweet wrapper, red polythene or a thick red cloth over a torch also works, but use two layers if the light still looks white. Used in a2, c2. 
 - [A small pair of binoculars](https://www.amazon.in/s?k=binoculars+for+kids) (tool): Optional. For the Star Gate project and the star count. Stars are easy to see without them, but binoculars show many more. Used in p1, a3. 
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in A Day on Each Planet: one second for every hour. About ₹150 to ₹400. A phone stopwatch works well. Used in a4. Get it before A Day on Each Planet: one second for every hour.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Orange Earth: does every place on Earth move at the same speed?. About ₹10 to ₹30. Any school ruler is fine. Used in e1. Get it before The Orange Earth: does every place on Earth move at the same speed?.
+- [Sticky notes](https://www.amazon.in/s?k=sticky+notes+pack) (material): Used in The Extra Turn: why a day is a little longer than one spin. About ₹20 to ₹60. Small torn paper and tape do the same job. Used in a1. Get it before The Extra Turn: why a day is a little longer than one spin.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Count the Stars: how much of the sky does a city hide?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in a3. Get it before Count the Stars: how much of the sky does a city hide?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - How many minutes does the Earth take to turn 1 degree? → 4 minutes.
@@ -817,13 +878,13 @@ Turning Into the Light (sci.day-night-seasons.L4): Topic-level song for Day, nig
 
 ## Plan
 - Start options: intro, e2, e1, story, g1, big_questions, cards
-- Default order: intro → summary → terms → e2 → explanations → e1 → g1 → ws-core → a1 → story → roots → quiz → a4 → a2 → g2 → a3 → videos → how_we_found_out → agreed → challenging → ws-stretch → c1 → a5 → p1 → c2 → big_questions → ws-challenge → open_questions
+- Default order: intro → summary → terms → e2 → explanations → e1 → g1 → ws-core → a1 → story → roots → quiz → a4 → a2 → g2 → a3 → videos → how_we_found_out → agreed → challenging → ws-stretch → c1 → a5 → p1 → c2 → a6 → big_questions → ws-challenge → open_questions
 - Core: e2, e1, g1, a1, a4, ws-core
 
 ## Sources
 - Founder's notes in ideas/by_topic/day-night-seasons-and-rhythms-of-nature.md: the ideas of keeping a record over time, photographing the same view, tracking the Sun and stars, and the science journal pages 'Time Tracker - India, Countries' (journal pages 119 and 120), used in the Five Noons test and the Star Gate project
 - The Combined Class 4 lesson sci-C4-day-night-seasons-and-rhythms-of-nature, reworked here: the speed of the spin, days on other planets, the lengthening day and fossil corals, the night watch and light pollution
-- The Class 3 unit on Day and night, which this unit builds on: the idea that night is the half of the Earth turned away from the Sun, now extended to numbers, longitude and the clock
+- The Class 3 unit on Day and night, which this lesson builds on: the idea that night is the half of the Earth turned away from the Sun, now extended to numbers, longitude and the clock
 - Cambridge Stage 4 section 5.5 'Day and night', for coverage only. Its text is not copied
 - Newton, I., Philosophiae Naturalis Principia Mathematica, 1687 (a spinning Earth bulges at the equator)
 - Richer, J., Observations astronomiques et physiques faites en l'isle de Caienne, 1679 (the pendulum clock that ran slow near the equator)

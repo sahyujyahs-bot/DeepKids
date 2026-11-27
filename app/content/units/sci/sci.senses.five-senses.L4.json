@@ -915,11 +915,11 @@
       "t": "mcq",
       "q": "Why does the dropper wait a different time before each drop?",
       "options": [
-       "So the catcher cannot guess when it will drop",
        "So the ruler falls faster",
-       "So the game is slower"
+       "So the game is slower",
+       "So the catcher cannot guess when it will drop"
       ],
-      "a": 0,
+      "a": 2,
       "why": "If the drop came at the same moment each time, the catcher could guess and catch early. That would measure guessing, not the time the signal takes. Picking 'so the ruler falls faster' mixes up the ruler with the catcher: the wait changes what the catcher can guess, not how the ruler falls."
      },
      "context": "In this step, you set up and do three practice drops. These do not count."
@@ -990,11 +990,11 @@
       "t": "mcq",
       "q": "Why do we use the middle value of seven tries and not the biggest or smallest?",
       "options": [
-       "One lucky or sleepy try cannot change the middle value much",
        "The middle value is always the correct one",
+       "One lucky or sleepy try cannot change the middle value much",
        "The biggest value is too hard to read"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A single try can be unusually quick or slow. The middle value stays steady even when one try is odd. It is not always 'correct', but it is more trustworthy than one extreme."
      },
      "context": "In this step, you find the middle value for each cue and decide what your results say."
@@ -1169,11 +1169,11 @@
       "t": "mcq",
       "q": "A lifter needs an extra of 20 millilitres on a 100 millilitre bottle. About how much extra would they need on a 400 millilitre bottle if the share stays the same?",
       "options": [
-       "About 80 millilitres",
        "About 20 millilitres",
+       "About 80 millilitres",
        "About 4 millilitres"
       ],
-      "a": 0,
+      "a": 1,
       "why": "20 out of 100 is the share. The same share of 400 is 80, because 400 is four times as much as 100 and 20 times 4 is 80. Picking 20 means expecting the extra to stay the same whatever the weight."
      },
      "context": "In this step, you turn the extra water into a share and compare the two sets."
@@ -1301,11 +1301,11 @@
       "t": "mcq",
       "q": "The orange smells strong right after the spice smell faded. What does that suggest?",
       "options": [
-       "Smell receptors adapt to one smell at a time",
        "The brain has stopped working",
-       "The orange is stronger than the spice"
+       "The orange is stronger than the spice",
+       "Smell receptors adapt to one smell at a time"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The receptors that detect clove molecules were tired. The receptors that detect orange molecules were not. So adaptation is specific to the smell, which is why a new smell in a room still stands out."
      },
      "context": "In this step, you test whether a second smell fades too."
@@ -1427,11 +1427,11 @@
       "t": "mcq",
       "q": "Your child says the rubber hand 'feels like mine'. What is the best explanation?",
       "options": [
-       "The brain matched what it saw with what it felt, and guessed that the rubber hand is part of the body",
        "The glove is really joined to the arm",
-       "The brush has magic in it"
+       "The brush has magic in it",
+       "The brain matched what it saw with what it felt, and guessed that the rubber hand is part of the body"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The eyes saw a brush touching the rubber hand while the skin felt a touch at the same moment. The brain looked for the best explanation and picked the visible hand. It is a guess, and it can be wrong. Picking 'joined' or 'magic' ignores that the real hand was behind the screen."
      },
      "context": "In this step, you stroke both hands together and score how much the rubber hand feels like yours."
@@ -1552,11 +1552,11 @@
       "t": "mcq",
       "q": "Why do we swap which sheet is on the left for every other person?",
       "options": [
-       "So that left or right does not change the answer",
        "So the paper stays clean",
-       "So people have to think harder"
+       "So people have to think harder",
+       "So that left or right does not change the answer"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Some people may tend to pick the left one. If the round shape were always on the left, you could not tell whether people chose by sound or by position. Swapping balances this out."
      },
      "context": "In this step, you ask at least 10 people one by one and tally their answers."
@@ -1723,11 +1723,11 @@
       "t": "mcq",
       "q": "A person catches the strip at 14 cm normally and 19 cm while counting backwards. About how much longer was the second time?",
       "options": [
-       "About 0.03 seconds longer, from about 0.17 to 0.20 seconds",
        "About 0.5 seconds longer",
+       "About 0.03 seconds longer, from about 0.17 to 0.20 seconds",
        "There was no change"
       ],
-      "a": 0,
+      "a": 1,
       "why": "14 centimetres is about 0.17 seconds and 19 centimetres is about 0.20 seconds on the strip. The difference is about 0.03 seconds. That is small, but it counts. A longer distance means a longer reaction time."
      },
      "context": "In this step, you test while the catcher is distracted and finish the league table."
@@ -1824,11 +1824,11 @@
       "t": "mcq",
       "q": "Why does a code that uses only taps still work, even though a tap carries so little information?",
       "options": [
-       "Patterns of taps in time and place can stand for many different letters",
        "A tap can hold a whole word",
-       "The receiver can guess the message"
+       "The receiver can guess the message",
+       "Patterns of taps in time and place can stand for many different letters"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A single tap says almost nothing. But the number of taps, the pauses and the place can be combined into many different patterns. Your nerves work the same way: pulses of equal size carry information by their timing and by which thread they travel on."
      },
      "context": "In this step, you send the full message and time it."
@@ -1884,11 +1884,11 @@
      "p": "A harder press on your skin makes a touch nerve do what?",
      "opts": [
       "Send bigger pulses",
-      "Send more pulses each second",
       "Send pulses that travel faster",
+      "Send more pulses each second",
       "Send a different kind of pulse"
      ],
-     "a": 1,
+     "a": 2,
      "why": "All nerve pulses are the same size. A stronger stimulus makes more of them each second. Picking 'bigger pulses' is a common idea, because we imagine a signal like a loud sound, but a pulse is either there or not there.",
      "outcome": 0
     },
@@ -1912,12 +1912,12 @@
      "t": "mcq",
      "p": "Which steps are part of your reaction time when you catch a falling ruler?",
      "opts": [
-      "Only the time the ruler takes to fall",
       "The signal going to the brain, a decision, and the signal going out to the hand",
+      "Only the time the ruler takes to fall",
       "Only the time your hand takes to close",
       "Only the time light takes to reach your eye"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Your reaction time is the whole chain from the stimulus to the movement. A child who picks 'only the hand' forgets the signal travelling in and the deciding.",
      "outcome": 1
     },
@@ -1965,12 +1965,12 @@
      "t": "mcq",
      "p": "After you stub your toe, a sharp pain comes first and a deep ache comes a moment later. What is the best reason?",
      "opts": [
-      "Two kinds of nerve thread carry the pain at different speeds",
       "The toe hurts twice because it is hit twice",
       "The brain has to think about the ache first",
+      "Two kinds of nerve thread carry the pain at different speeds",
       "The ache is made in the toe, and the sharp pain is made in the head"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Fast threads bring the sharp pain and slow threads bring the ache. Both reach the brain, but at different times. Picking 'hit twice' ignores that the threads have different speeds.",
      "outcome": 2
     },
@@ -2007,12 +2007,12 @@
      "t": "mcq",
      "p": "On the brain's body map, the lips and fingertips take up a very large patch. Why?",
      "opts": [
-      "They have very many receptors",
       "They are the strongest parts of the body",
       "They are closest to the brain",
-      "They are the oldest parts of the body"
+      "They are the oldest parts of the body",
+      "They have very many receptors"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The brain gives more room to parts that send more detailed signals. Lips and fingertips are packed with receptors. The size of a patch depends on how much detail the part sends, not on its strength or its distance from the brain.",
      "outcome": 5
     },
@@ -2057,12 +2057,12 @@
      "t": "mcq",
      "p": "Why can you not tickle yourself?",
      "opts": [
-      "Your brain predicts your own touch from your movement and turns the feeling down",
       "Your skin is less sensitive to your own fingers",
+      "Your brain predicts your own touch from your movement and turns the feeling down",
       "Tickling only works on feet",
       "You get used to it too fast"
      ],
-     "a": 0,
+     "a": 1,
      "why": "When you move your own finger, your brain knows what touch to expect. It turns down that expected signal. A touch you did not make cannot be predicted, so it stays strong.",
      "outcome": 6
     },
@@ -2115,12 +2115,12 @@
      "t": "mcq",
      "p": "Why is it harder to hear a whisper in a noisy market than in a quiet library?",
      "opts": [
-      "The noise raises the amount of extra sound you need to notice anything new",
       "Whispers are quieter in markets",
       "Your ears get tired in a market",
-      "Sound cannot travel through crowds"
+      "Sound cannot travel through crowds",
+      "The noise raises the amount of extra sound you need to notice anything new"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A whisper is a small change on top of the noise. Because the change you can notice is a fraction of what is already there, the noise hides it.",
      "outcome": 3
     },
@@ -2157,12 +2157,12 @@
      "t": "mcq",
      "p": "A sprinter starts 0.08 seconds after the gun. Why is that counted as a false start?",
      "opts": [
-      "Reaction times that fast are not possible, so the runner must have guessed the gun",
       "The sprinter was too slow",
+      "Reaction times that fast are not possible, so the runner must have guessed the gun",
       "The sound of the gun was not loud enough",
       "Sprinters must wait for a flash, not a sound"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The signal has to go from the ear to the brain and back to the legs, and that takes more than a tenth of a second. A faster start means the runner did not wait for the sound.",
      "outcome": 1
     },
@@ -2247,12 +2247,12 @@
      "t": "mcq",
      "p": "A person who lost a hand feels a touch on their cheek as a touch on their missing fingers. What is the best explanation?",
      "opts": [
-      "The cheek patch and the hand patch lie side by side on the brain's body map, and signals from the cheek spread into the hand patch",
       "The hand has grown back",
       "The cheek has become part of the hand",
-      "The person is imagining it"
+      "The person is imagining it",
+      "The cheek patch and the hand patch lie side by side on the brain's body map, and signals from the cheek spread into the hand patch"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The brain's map is real and the hand's patch is still there. When it gets no signals, its neighbour can spread into it. The feeling is real. Picking 'imagining' misses that it can be tested.",
      "outcome": 5
     },
@@ -2268,12 +2268,12 @@
      "t": "mcq",
      "p": "A mantis shrimp has 12 to 16 kinds of colour receptor, yet was no better than people at telling similar colours apart. What does this show?",
      "opts": [
-      "More kinds of receptor do not automatically give finer colour vision",
       "Mantis shrimps are colour blind",
+      "More kinds of receptor do not automatically give finer colour vision",
       "People have the most receptors of any animal",
       "The tests were wrong"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Having many kinds of receptor is not the same as comparing colours finely. How the signals are used matters too. Picking 'colour blind' goes too far, because the shrimp can clearly sense colours.",
      "outcome": 7
     },
@@ -2351,12 +2351,12 @@
      "t": "mcq",
      "p": "A touch signal at 50 metres each second and a slow pain signal at 1 metre each second both start in a toe 1.5 metres from the brain. About how much later does the pain signal arrive?",
      "opts": [
-      "About 0.03 seconds later",
       "About 1.5 seconds later",
+      "About 0.03 seconds later",
       "About 15 seconds later",
       "At the same time"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The touch signal takes about 0.03 seconds and the pain signal takes 1.5 seconds. The difference is about 1.5 seconds. Picking 'at the same time' forgets that the threads have different speeds.",
      "outcome": 2
     },
@@ -2407,12 +2407,12 @@
      "t": "mcq",
      "p": "Why does the eye respond to ratios of brightness instead of fixed steps?",
      "opts": [
-      "So it can work in dim starlight and in bright sunshine, a range of billions of times, without being dazzled",
       "So all colours look the same",
+      "So it can work in dim starlight and in bright sunshine, a range of billions of times, without being dazzled",
       "So the pupil never changes",
       "So it can ignore moving things"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A sense that responded to fixed steps would be dazzled in daylight or blind in starlight. Working in ratios squeezes a huge range into one that the nerves can handle.",
      "outcome": 3
     },
@@ -2568,12 +2568,12 @@
    "t": "mcq",
    "p": "A very bright light shines in your eye. What do the nerves from the eye do?",
    "opts": [
-    "Send pulses faster",
     "Send bigger pulses",
+    "Send pulses faster",
     "Stop sending pulses",
     "Send the light to the brain"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A stronger stimulus makes more pulses each second. The light never reaches the brain. Only the pulses do.",
    "outcome": 0
   },
@@ -2581,12 +2581,12 @@
    "t": "mcq",
    "p": "When you catch a falling ruler, where is most of the delay between the ruler starting to fall and your fingers closing?",
    "opts": [
-    "Inside your body: the signal going in, the decision and the signal going out",
     "In the light travelling to your eye",
     "In the ruler falling",
+    "Inside your body: the signal going in, the decision and the signal going out",
     "In the table"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Light takes almost no time. The delay is the time for signals to travel and for the brain to decide. Picking 'the light' mixes up what happens outside the body with what happens inside it.",
    "outcome": 1
   },
@@ -2594,12 +2594,12 @@
    "t": "mcq",
    "p": "In simple reaction tests, how do sight, hearing and touch usually compare?",
    "opts": [
-    "Touch and hearing are usually slightly quicker than sight",
     "Sight is always the quickest",
+    "Touch and hearing are usually slightly quicker than sight",
     "All three are exactly the same",
     "Sight is ten times quicker"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The eye does extra work before it sends its signal, so sight is usually a little slower. The differences are small, about a hundredth to a few hundredths of a second.",
    "outcome": 1
   },
@@ -2607,12 +2607,12 @@
    "t": "mcq",
    "p": "Which kind of nerve thread carries a signal fastest?",
    "opts": [
-    "A thick one wrapped in myelin",
     "A thin one with no wrapping",
+    "A thick one wrapped in myelin",
     "A short one",
     "A cold one"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Myelin works like the plastic around a wire. Signals jump along wrapped threads and are much faster. Length and temperature matter less.",
    "outcome": 2
   },
@@ -2633,12 +2633,12 @@
    "t": "mcq",
    "p": "Someone can just feel an extra 100 grams on a 1 kilogram weight. About how much extra do they need on a 3 kilogram weight, if the fraction is the same?",
    "opts": [
-    "About 300 grams",
     "About 100 grams",
     "About 30 grams",
-    "About 3 kilograms"
+    "About 3 kilograms",
+    "About 300 grams"
    ],
-   "a": 0,
+   "a": 3,
    "why": "100 grams out of 1000 is one tenth. One tenth of 3000 grams is 300 grams.",
    "outcome": 3
   },
@@ -2659,12 +2659,12 @@
    "t": "mcq",
    "p": "If you drew the body as the brain's body map shows it, what would it look like?",
    "opts": [
-    "Huge lips, hands and tongue and a tiny back",
     "A body with equal parts",
     "A big head and tiny arms",
-    "A tiny hand and huge legs"
+    "A tiny hand and huge legs",
+    "Huge lips, hands and tongue and a tiny back"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Parts with many receptors get big patches on the brain's map. Lips, hands and the tongue are packed with them. The back has few.",
    "outcome": 5
   },
@@ -2685,12 +2685,12 @@
    "t": "mcq",
    "p": "You step down onto a stair that is lower than you expected, and you jolt. What happened?",
    "opts": [
-    "Your brain predicted a stair at a different height",
     "Your ears were tired",
     "The stair moved",
-    "Your eyes shut"
+    "Your eyes shut",
+    "Your brain predicted a stair at a different height"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The brain predicts what the foot will meet and prepares the leg. A surprise tells you the prediction was wrong.",
    "outcome": 6
   },
@@ -2698,12 +2698,12 @@
    "t": "mcq",
    "p": "Which animal can sense the weak electric fields of other animals?",
    "opts": [
-    "A shark",
     "A cow",
     "A sparrow",
+    "A shark",
     "A goat"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Sharks have jelly-filled pores on their snout that sense weak electric fields. The platypus does something similar. Many animals have senses we do not.",
    "outcome": 7
   }
@@ -3016,6 +3016,66 @@
     "g1"
    ],
    "plan": "Read one animal chapter aloud over a week, after the unit."
+  },
+  {
+   "id": "b-a-dropper",
+   "item": "A dropper",
+   "kind": "tool",
+   "why": "Used in The Reaction Ruler: build a ruler that reads time, and hold a three-day family league. About ₹10 to ₹40. A clean pen refill or straw with a finger on top can drop water.",
+   "url": "https://www.amazon.in/s?k=plastic+dropper",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before The Reaction Ruler: build a ruler that reads time, and hold a three-day family league."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in The Rubber Hand: can your eyes fool your skin?, The Reaction Ruler: build a ruler that reads time, and hold a three-day family league. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "a2",
+    "p1"
+   ],
+   "plan": "Get it before The Rubber Hand: can your eyes fool your skin?."
+  },
+  {
+   "id": "b-cotton-wool",
+   "item": "Cotton wool",
+   "kind": "material",
+   "why": "Used in The Rubber Hand: can your eyes fool your skin?, Pulse Talk: send a message using only touch. About ₹20 to ₹50. Torn clean cloth works.",
+   "url": "https://www.amazon.in/s?k=cotton+wool+roll",
+   "used_in": [
+    "a2",
+    "c1"
+   ],
+   "plan": "Get it before The Rubber Hand: can your eyes fool your skin?."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in The Tired Nose: how fast does a smell fade, and how fast does the nose wake up?. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Get it before The Tired Nose: how fast does a smell fade, and how fast does the nose wake up?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

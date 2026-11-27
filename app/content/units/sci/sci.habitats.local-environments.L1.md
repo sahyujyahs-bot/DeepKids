@@ -1,7 +1,7 @@
 # Homes near our home: a tree, a pond, a park and under a stone
 `sci.habitats.local-environments.L1`
 
-**Summary.** Lift a stone and the ground under it is dark, damp and cool. Who lives there? In this unit you will play a memory game of homes, cover wet soil with a plate to see what happens, and feel which places are damp or dry.
+**Summary.** Lift a stone and the ground under it is dark, damp and cool. Who lives there? In this lesson you will play a memory game of homes, cover wet soil with a plate to see what happens, and feel which places are damp or dry.
 
 **Intro.** *Touch the floor in a sunny spot. Now touch the floor under a bucket or a doormat. Do they feel the same?* They do not. The floor in the sun is usually warm and dry. The floor under the bucket is often cooler and a little damp. The ground under a stone in a park is cool and damp in the same way. Lift a stone and you may find earthworms, ants and pill bugs. We will visit homes near our home, and then make a small one.
 
@@ -18,6 +18,7 @@
 - **Damp**: Damp means a little wet. *e.g.* Soil under a stone is damp. A towel after your bath is damp.
 - **Shelter**: A shelter is a place that keeps a living being safe from the sun, the rain or danger. *e.g.* A stone is a shelter for ants. The branches of a tree are a shelter for a crow's nest.
 - **Pond**: A pond is a small pool of still water. Some ponds are made by nature and some by people. *e.g.* A temple tank is a pond made by people. Fish and turtles live in many temple tanks.
+- **Mould**: Mould is a tiny living thing, a kind of fungus, that grows as fuzzy spots on old damp food. It is alive and it spreads where it is warm and wet. *e.g.* A slice of bread left in a damp kitchen cupboard in Chennai grows green and white fuzzy spots after a few days.
 
 ## Explanations
 ### A habitat is a home place · *defined*
@@ -51,7 +52,7 @@ Fish swim in the water and breathe with gills. Frogs lay eggs in the water, and 
 ### A park has many small habitats · *defined*
 **Definition:** In a park, the grass, the flowers and the soil are different habitats, each with their own living beings.
 
-Grasshoppers hide in the grass, and mynas walk on the grass to catch them. Bees and butterflies drink a sweet juice called nectar from flowers. Under the grass, earthworms dig tunnels in the soil.
+Grasshoppers hide in the grass, and mynas walk on the grass to catch them. Bees and butterflies drink a sweet juice called nectar from flowers. Under the grass, earthworms dig tunnels in the soil. A sunny patch of grass at noon is hot and dry. The ground under a big tree is cooler and damper, so ants and pill bugs can live there.
 - e.g. A myna hops behind the grass cutter, picking up the insects that jump out.
 - e.g. A honeybee pushes into a flower to drink nectar.
 - e.g. After rain, small heaps of soil on the grass show where earthworms are working below.
@@ -342,7 +343,7 @@ The next morning, before school, Kiran lifted the tile very slowly. The soil und
   - Wait: Watch over the next two days.
 
 ## Worksheets
-### Homes Near Our Home (core) (core, 10 questions)
+### Homes Near Our Home (core) (core, 11 questions)
 1. (match) Draw a line from each living being to their home.  
    **Answer:** Earthworm → Under a stone; Tadpole → A pond; Squirrel → A tree; Honeybee → Flowers in a park. *Why:* Earthworms need damp soil, tadpoles need water, squirrels nest high in trees, and bees drink nectar from flowers.
 2. (sort) Colour the damp, dark places blue. Colour the dry, bright places yellow.  
@@ -357,17 +358,19 @@ The next morning, before school, Kiran lifted the tile very slowly. The soil und
    **Answer:** Under the stone the soil is damp and cool. The earthworm breathes through damp skin, and the hot road would dry the skin.. *Why:* A strong answer links the place (damp and cool) to what the earthworm needs (damp skin to breathe).
 7. (perspective) Two friends in Kochi find a big flat stone in the park.  
    **Answer:** A strong answer picks a side and gives a reason, such as 'The first child, because we can learn who lives there.' Then it is fair to the other side: The second child is right that the stone is a roof for the animals.. *Why:* Both friends have a point. Looking teaches us about small homes. Lifting the stone slowly, not touching, and putting the stone back the same way keeps the home safe.
-8. (odd) Which place is the odd one out? Think about water.  
+8. (write) Say it to a grown-up, who writes it down: how is a sunny patch of grass at noon different from the damp ground under a big tree? Name one living being you might find in each.  
+   **Answer:** The grass at noon is hot and dry, and the ground under the tree is cooler and damp. Grasshoppers hide in the grass. Ants and pill bugs live under the tree.. *Why:* A strong answer names a difference in heat or water (hot and dry, or cool and damp) and a living being that fits each place.
+9. (odd) Which place is the odd one out? Think about water.  
    Options: A pond / A temple tank / A puddle after rain / A sunny windowsill  
    **Answer:** 3. *Why:* A pond, a temple tank and a puddle all hold water, so water animals can live in them. A sunny windowsill is dry.
-9. (truefalse) An earthworm likes to lie on hot, dry ground.  
+10. (truefalse) An earthworm likes to lie on hot, dry ground.  
    **Answer:** False. *Why:* False. An earthworm breathes through her skin, and her skin must stay damp. Hot, dry ground would dry her out.
-10. (mcq) Which place gives a crow a high, safe home for her nest?  
-   Options: A pond / A tall tree / Under a stone  
+11. (mcq) Which place gives a crow a high, safe home for her nest?  
+   Options: A pond / Under a stone / A tall tree  
    **Answer:** A tall tree. *Why:* A crow builds her nest in the branches of a tall tree, high above cats and dogs.
 ### Homes Near Our Home (stretch) (stretch, 10 questions)
 1. (mcq) You lay a tile on damp soil in a sunny pot. After lunch, you lift the tile. What will you most likely find?  
-   Options: Dry, pale soil / Damp, dark soil / Hot sand  
+   Options: Dry, pale soil / Hot sand / Damp, dark soil  
    **Answer:** Damp, dark soil. *Why:* The tile keeps off the sun and holds the water in, just like the plate in the Plate on the Soil test. Dry, pale soil is what you find on the open half, with no cover.
 2. (order) Put the plate test in order.  
    **Answer:** ['Wet the soil', 'Put the plate on half the soil', 'Leave the pot in the sun', 'Lift the plate and touch both halves']. *Why:* First we wet the soil, then cover half, then wait in the sun, then look and touch.
@@ -395,35 +398,38 @@ The next morning, before school, Kiran lifted the tile very slowly. The soil und
 
 ## Quiz
 1. (mcq) Which of these is a habitat, a home place for living beings?  
-   Options: A pond / A spoon / A pencil  
+   Options: A spoon / A pencil / A pond  
    **Answer:** A pond. *Why:* A pond is a habitat. Fish, frogs and lotus live there. A spoon and a pencil are not homes for anyone.
 2. (mcq) Where would you look for earthworms?  
-   Options: Under a damp stone / On a hot road / On a dry windowsill  
+   Options: On a hot road / On a dry windowsill / Under a damp stone  
    **Answer:** Under a damp stone. *Why:* Earthworms need damp soil to keep their skin wet. A hot road or a dry windowsill would dry them out.
 3. (mcq) What is the ground under a stone like?  
-   Options: Dark, damp and cool / Bright, dry and hot / Full of sunlight  
+   Options: Bright, dry and hot / Full of sunlight / Dark, damp and cool  
    **Answer:** Dark, damp and cool. *Why:* The stone keeps off the sun and holds the water in. So the ground below is dark, damp and cool.
 4. (mcq) Who lives in a pond?  
    Options: Tadpoles / Squirrels / Cows  
    **Answer:** Tadpoles. *Why:* Tadpoles hatch from frog eggs in the water and live there until they grow into frogs.
 5. (mcq) Who lives in one big tree?  
-   Options: Many beings: birds, squirrels, ants and more / Only birds / Nobody  
+   Options: Only birds / Many beings: birds, squirrels, ants and more / Nobody  
    **Answer:** Many beings: birds, squirrels, ants and more. *Why:* One tree is home to many living beings at once, high in the branches, on the bark and in the leaves.
 6. (mcq) Why do bees visit the flowers in a park?  
    Options: To drink nectar / To sleep / To swim  
    **Answer:** To drink nectar. *Why:* Flowers make a sweet juice called nectar. Bees and butterflies drink it.
 7. (mcq) In the Plate on the Soil test, which soil was cooler to touch?  
-   Options: The soil under the plate / The soil in the open sun / Both the same  
+   Options: The soil in the open sun / The soil under the plate / Both the same  
    **Answer:** The soil under the plate. *Why:* The plate kept the sun off the soil under it, so that soil stayed cooler. The soil in the open sun warmed up and dried.
 8. (mcq) You lift a stone in the park and find ants and a pill bug. What should you do next?  
-   Options: Put the stone back gently, the same way / Throw the stone away / Take the pill bug home in your pocket  
+   Options: Throw the stone away / Put the stone back gently, the same way / Take the pill bug home in your pocket  
    **Answer:** Put the stone back gently, the same way. *Why:* The stone is their roof. Putting the stone back gently gives them their damp, dark home again.
 9. (mcq) Why does a squirrel build a nest high in a tree?  
-   Options: To be safe from cats and dogs / To be near the fish / Because the ground is too wet  
+   Options: To be near the fish / Because the ground is too wet / To be safe from cats and dogs  
    **Answer:** To be safe from cats and dogs. *Why:* High branches keep a squirrel's babies away from cats, dogs and other animals on the ground.
 10. (mcq) You lift a flowerpot and see ants carrying their white young ones away. Why do they do that?  
    Options: The young ones need a dark place, and the pot's roof was gone / The young ones wanted to see the sun / The ants were tidying the floor  
    **Answer:** The young ones need a dark place, and the pot's roof was gone. *Why:* Ant young ones are kept in the dark and damp. When the pot was lifted, the ants moved them to a darker place.
+11. (mcq) A sunny patch of grass at noon, and the damp ground under a big tree. Which one is more likely to have ants and pill bugs?  
+   Options: The damp ground under a big tree / The sunny patch of grass at noon / The bare road in the sun  
+   **Answer:** The damp ground under a big tree. *Why:* Ants and pill bugs need damp ground and shade. The grass at noon is hot and dry. The ground under the tree is cooler and damper.
 
 ## Applications
 - Gardeners lift pots and stones to check for earthworms, which are a sign of healthy soil.
@@ -432,11 +438,11 @@ The next morning, before school, Kiran lifted the tile very slowly. The soil und
 - People put out shallow water for birds in the hot months, making a small new habitat on a balcony.
 
 ## Spotted around us
-- Fish and turtles living in a temple tank, in towns across Tamil Nadu and Kerala.
+- Fish and turtles living in a temple tank.
 - A small peepal tree growing out of an old wall or a roof, in almost any Indian town.
-- Green moss on walls and tree trunks during the Kerala and Konkan monsoon.
-- Egrets walking beside cows in a field, catching the insects the cows stir up, from Assam to Karnataka.
-- Lotus leaves covering a village pond in Odisha or West Bengal.
+- Green moss on walls and tree trunks during the monsoon.
+- Egrets walking beside cows in a field, catching the insects the cows stir up.
+- Lotus leaves covering a village pond.
 
 ## Open questions
 - **How many kinds of living beings live in one handful of soil?** A handful of soil holds millions of tiny beings. Most of the kinds have never been named, so nobody knows the full count.
@@ -470,12 +476,16 @@ Who Lives Under the Stone? (sci.habitats.L1): Topic-level song for Habitats L1
 
 ## Links
 - [iNaturalist](https://www.inaturalist.org/) · interactive: For the parent: photograph a small animal or plant near home and find out their name.
-- [Lalbagh Botanical Garden]() · place · Bengaluru: Old trees, a lake and lawns in the middle of the city, each with their own birds and insects.
-- [Pallikaranai Marsh]() · place · Chennai: A large wetland inside the city, where many water birds feed.
-- [Deepor Beel]() · place · Guwahati: A big natural lake at the edge of the city, home to fish, water plants and many birds.
-- [Sanjay Gandhi National Park]() · place · Mumbai: A forest with streams and lakes inside a big city.
+- Lalbagh Botanical Garden · place · Bengaluru: Old trees, a lake and lawns in the middle of the city, each with their own birds and insects.
+- Pallikaranai Marsh · place · Chennai: A large wetland inside the city, where many water birds feed.
+- Deepor Beel · place · Guwahati: A big natural lake at the edge of the city, home to fish, water plants and many birds.
+- Sanjay Gandhi National Park · place · Mumbai: A forest with streams and lakes inside a big city.
 
 ## Things to buy
+- [The Salamander Room by Anne Mazer](https://www.amazon.in/s?k=The+Salamander+Room) (book): A boy wants to keep a salamander in his bedroom, and every answer about what the salamander needs turns his room into the wild place she came from. It shows what a living thing needs from where she lives. Used in a1. Read it together after the first walk round the neighbourhood.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in The Plate on the Soil: what happens under a cover?, A Stone Home on the Balcony, Make a Water Place for Birds on a Hot Day. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in e1, p1, c1. Get it before The Plate on the Soil: what happens under a cover?.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in The Plate on the Soil: what happens under a cover?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e1. Get it before The Plate on the Soil: what happens under a cover?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name one place near home where living beings live. → A tree, a pond, a park, or under a stone.

@@ -1,0 +1,18 @@
+{
+ "checked": "27 Nov 2026",
+ "units": {
+  "sci.animals.insects.L3": {
+   "videos": [
+    {
+     "title": "Life Cycle of Silkworm",
+     "channel": "Khan Academy",
+     "youtube": "6Qho_OihVxA",
+     "mins": 5,
+     "pitch": "stretch",
+     "matches": "Shows the egg, larva, pupa and adult stages of the silk moth, as in the four-stage card on complete metamorphosis.",
+     "confidence": "high"
+    }
+   ]
+  }
+ }
+}

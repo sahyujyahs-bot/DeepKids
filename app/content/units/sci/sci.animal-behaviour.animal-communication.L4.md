@@ -1,9 +1,9 @@
 # How animals send messages: smell, colour, sound, touch and echoes
 `sci.animal-behaviour.animal-communication.L4`
 
-**Summary.** A female silk moth sits silent on a leaf, yet a male finds her in the dark. How does her message reach him? In this unit you will spot animal signals at the window, test how long a smell message lasts, and find a steel plate by echoes alone.
+**Summary.** A female silk moth sits silent on a leaf, yet a male finds her in the dark. How does her message reach him? In this lesson you will spot animal signals at the window, test how long a smell message lasts, and find a steel plate by echoes alone.
 
-**Intro.** *A tigress sprays a tree and walks away. Three days later, another tiger sniffs the tree and learns that she lives here. How did a message pass between two animals who never met?* The tigress left a smell on the bark, and the smell stayed after she had gone. A smell is one way to send a message. A peacock uses colour. A frog uses a call. A monkey uses her fingers. Each way works well in some places and badly in others. In this unit you leave smell marks on paper and test how long they last. You also cover your eyes and find a steel plate by listening for echoes, as a bat finds a moth.
+**Intro.** *A tigress sprays a tree and walks away. Three days later, another tiger sniffs the tree and learns that she lives here. How did a message pass between two animals who never met?* The tigress left a smell on the bark, and the smell stayed after she had gone. A smell is one way to send a message. A peacock uses colour. A frog uses a call. A monkey uses her fingers. Each way works well in some places and badly in others. In this lesson you leave smell marks on paper and test how long they last. You also cover your eyes and find a steel plate by listening for echoes, as a bat finds a moth.
 
 ## Learning outcomes
 0. I can name the four channels of animal signals and give an example of each.
@@ -34,7 +34,7 @@
 ### Signals travel on four channels · *defined*
 **Definition:** A signal is something one animal does or makes that carries a message to another animal. A channel is the way the signal travels: smell, sight, sound or touch.
 
-Every signal needs a sender and a receiver. The sender must make the signal, and the receiver must have a body that can pick it up. A smell needs a nose or an antenna. A colour needs an eye. A call needs an ear. A touch needs skin or hairs that feel. Most animals use more than one channel. A street dog growls, shows her teeth, raises the hair on her back and leaves scent marks. Humans are animals too, and we use all four channels. We speak, we smile, we hug, and our noses can tell family from strangers. This unit takes the channels one at a time, and then compares them.
+Every signal needs a sender and a receiver. The sender must make the signal, and the receiver must have a body that can pick it up. A smell needs a nose or an antenna. A colour needs an eye. A call needs an ear. A touch needs skin or hairs that feel. Most animals use more than one channel. A street dog growls, shows her teeth, raises the hair on her back and leaves scent marks. Humans are animals too, and we use all four channels. We speak, we smile, we hug, and our noses can tell family from strangers. This lesson takes the channels one at a time, and then compares them.
 - e.g. An ant leaves a scent trail to food. That is a message on the smell channel.
 - e.g. A fan-throated lizard flashes a blue, black and orange throat. That is a message on the sight channel.
 - e.g. A koel calls from a mango tree before the rains. That is a message on the sound channel.
@@ -135,7 +135,7 @@ When a monkey gives an alarm call and the others climb, what has passed between 
   Against: Some scientists say the neighbour is only picking up a leak. They keep the word 'signal' for messages that evolved to be sent.
 
 ## Roots
-In this unit you left smell marks on paper and found a steel plate by its echo. Here we ask what a message is, and whether a message needs its sender to be there.
+In this lesson you left smell marks on paper and found a steel plate by its echo. Here we ask what a message is, and whether a message needs its sender to be there.
 
 **Deep truth.** In the Smell Mark Test, your nose found the clove mark long after the sender had left the room. A call or a wave ends when the sender stops. A smell mark goes on giving its message while the sender is far away. So one tigress can warn others off many trees at once, without being at any of them.  
 *Habit it breaks:* We think of a message as something that passes between two beings who are together, as when we talk. A scent mark needs no meeting. The sender and the receiver may never see each other.  
@@ -147,7 +147,7 @@ In this unit you left smell marks on paper and found a steel plate by its echo. 
 
 A signal is never the work of one being. A moth's pheromone does nothing without an antenna built to catch it. A peacock's train does nothing without a peahen's eye. Over millions of years, senders and receivers have shaped each other's bodies. Many sages taught that all beings are one life in many bodies. The science here says something close. All animals share ancestors, and that is partly why a dog's growl makes sense to you.
 
-- **Rig Veda 1.164.45:** “चत्वारि वाक्परिमिता पदानि तानि विदुर्ब्राह्मणा ये मनीषिणः । / गुहा त्रीणि निहिता नेङ्गयन्ति तुरीयं वाचो मनुष्या वदन्ति” The hymn says that speech is measured out in four parts. Three parts are kept hidden, and humans speak only the fourth. (The hymn is about sacred speech, and it is not about animals. Yet its picture fits what this unit found. The talk that humans can hear is a small part of all the signalling around us. Bat calls, elephant rumbles and pheromones were hidden from us until instruments found them.)
+- **Rig Veda 1.164.45:** “चत्वारि वाक्परिमिता पदानि तानि विदुर्ब्राह्मणा ये मनीषिणः । / गुहा त्रीणि निहिता नेङ्गयन्ति तुरीयं वाचो मनुष्या वदन्ति” The hymn says that speech is measured out in four parts. Three parts are kept hidden, and humans speak only the fourth. (The hymn is about sacred speech, and it is not about animals. Yet its picture fits what this lesson found. The talk that humans can hear is a small part of all the signalling around us. Bat calls, elephant rumbles and pheromones were hidden from us until instruments found them.)
 - **Zhuangzi, chapter 17, 'Autumn Floods':** “莊子曰：「鯈魚出游從容，是魚樂也。」 / 惠子曰：「子非魚，安知魚之樂？」 / 莊子曰：「子非我，安知我不知魚之樂？」” Zhuangzi and his friend Huizi stand on a bridge over the Hao river. Zhuangzi says the fish are enjoying themselves. Huizi asks: you are not a fish, so how do you know what fish enjoy? (Scientists meet Huizi's question with every signal. They cannot ask a frog what his foot wave means. They can only test what other frogs do when they see it.)
 - Science (settled): Even bacteria signal. Many kinds give off chemicals and sense how much has built up around them. When there are enough of them, they act together. This is called quorum sensing.
 - Science (open): In 1974 the philosopher Thomas Nagel asked what it is like to be a bat. He argued that we could learn everything about echolocation and still not know how it feels to the bat.
@@ -474,7 +474,7 @@ The next morning she went back to the flat rock alone and sat very still. After 
 ## Worksheets
 ### Signals and channels (core, 15 questions)
 1. (mcq) What is a signal?  
-   Options: Something an animal does that carries a message / Any loud noise in a forest / A kind of animal that lives in groups / The food an animal carries home  
+   Options: Any loud noise in a forest / A kind of animal that lives in groups / Something an animal does that carries a message / The food an animal carries home  
    **Answer:** Something an animal does that carries a message. *Why:* A signal carries a message from a sender to a receiver. It can be a smell, a colour, a movement, a sound or a touch. It does not have to be loud.
 2. (mcq) Which body part does a male moth use to pick up a female's pheromone?  
    Options: His antennae / His eyes / His wings / His feet  
@@ -488,7 +488,7 @@ The next morning she went back to the flat rock alone and sat very still. After 
 6. (sort) Sort these signals. Does each one work in the dark, or does it need light?  
    **Answer:** a scent mark on a tree → Works in the dark; a frog's call → Works in the dark; a bat's echolocation → Works in the dark; a peacock's display → Needs light; a lizard's throat fan → Needs light; a butterfly's warning colours → Needs light. *Why:* Smells and sounds do not need light. Colours and displays are picked up by eyes, and eyes need light.
 7. (mcq) In the Smell Mark Test, three plain squares got 5 drops of water. Why?  
-   Options: So all four squares were equally damp / So the vinegar smelled stronger / So the paper would not burn / So the clove would stick  
+   Options: So the vinegar smelled stronger / So the paper would not burn / So all four squares were equally damp / So the clove would stick  
    **Answer:** So all four squares were equally damp. *Why:* A fair test changes only one thing. With water on the plain squares, the only difference between the four squares was the smell of vinegar.
 8. (truefalse) A scent mark can be read after the animal who made it has gone away.  
    **Answer:** True. *Why:* True. The smell stays on the tree or the wall. That is what makes a scent mark different from a call or a wave.
@@ -506,17 +506,17 @@ The next morning she went back to the flat rock alone and sat very still. After 
 14. (draw) Draw a bat's call going out to a moth and the echo coming back. Label the call and the echo.  
    **Answer:** A bat and a moth with one arrow from the bat's mouth to the moth, labelled 'call', and one arrow from the moth back to the bat's ears, labelled 'echo'.. *Why:* A strong drawing shows the sound going both ways. The echo must start at the moth and end at the bat's ears.
 15. (mcq) Which signal could reach an elephant family three kilometres away?  
-   Options: A deep rumble / A touch of the trunk / A flap of the ears / A raised tail  
+   Options: A touch of the trunk / A flap of the ears / A deep rumble / A raised tail  
    **Answer:** A deep rumble. *Why:* Low sounds travel far. Elephant rumbles can reach other elephants several kilometres away. A touch needs contact, and a flap or a raised tail must be seen.
 ### Which channel, and why (stretch, 15 questions)
 1. (mcq) A frog beside a loud stream calls and waves a white foot. Why does he wave?  
-   Options: The stream's noise hides his call / His foot is tired / Waving keeps him cool / Females cannot hear at all  
+   Options: His foot is tired / Waving keeps him cool / The stream's noise hides his call / Females cannot hear at all  
    **Answer:** The stream's noise hides his call. *Why:* Noise blocks the sound channel but not the sight channel. A second signal on another channel gets the message through.
 2. (mcq) An alarm pheromone fades after about a minute. Why is that useful?  
-   Options: The alarm ends soon after the danger ends / It saves the animal from making smells / Hunters cannot smell at all / It makes the nest smell nicer  
+   Options: It saves the animal from making smells / Hunters cannot smell at all / It makes the nest smell nicer / The alarm ends soon after the danger ends  
    **Answer:** The alarm ends soon after the danger ends. *Why:* An alarm that stayed for days would keep the nest fighting an enemy who had gone. A fast-fading smell suits a short message.
 3. (mcq) A child scores 9 out of 10 with 'shhh' and 5 out of 10 in silence. What does this show?  
-   Options: The echo of the 'shhh' was helping / The child was peeking / The plate was too small / Silence is easier  
+   Options: The child was peeking / The plate was too small / The echo of the 'shhh' was helping / Silence is easier  
    **Answer:** The echo of the 'shhh' was helping. *Why:* Guessing gives about 5 out of 10. The score rose well above that only when there was a sound to bounce off the plate.
 4. (mcq) A tiger moth hears a bat's call and dives to the ground. What is the moth doing?  
    Options: Eavesdropping / Echolocating / Grooming / Giving a display  
@@ -546,10 +546,10 @@ The next morning she went back to the flat rock alone and sat very still. After 
    **Answer:** ['Where the clicks are made: the nose passages, just below the blowhole', 'The pad of fat in the forehead: it aims the clicks forward', 'The lower jaw: the echoes come in through it and pass to the ears']. *Why:* A dolphin sends clicks out through her forehead and takes the echoes in through her jaw. Sound goes out by one path and comes back by another.
 ### Testing signals (challenge, 15 questions)
 1. (mcq) A male moth sees a female, but his antennae are covered. He fails to find her. What does this show?  
-   Options: He finds her by smell / He finds her by sight / He finds her by sound / He was not looking for her  
+   Options: He finds her by sight / He finds her by sound / He was not looking for her / He finds her by smell  
    **Answer:** He finds her by smell. *Why:* With his eyes working and his antennae covered, he fails. So the antennae, which pick up smell, are what he needs.
 2. (mcq) Suppose most of a drongo's alarm calls were false. What would probably happen?  
-   Options: Other animals would stop responding / Other animals would respond faster / The drongo would lose their voice / Real hunters would stay away  
+   Options: Other animals would respond faster / Other animals would stop responding / The drongo would lose their voice / Real hunters would stay away  
    **Answer:** Other animals would stop responding. *Why:* A false signal only works while most signals are true. Receivers who are fooled too often learn to ignore the call.
 3. (mcq) A bat hears the echo from thing A sooner than the echo from thing B. What does she learn?  
    Options: A is nearer than B / A is bigger than B / A is louder than B / A is higher than B  
@@ -590,13 +590,13 @@ The next morning she went back to the flat rock alone and sat very still. After 
    Options: Smell, sight, sound and touch / Run, jump, swim and fly / Eyes, ears, nose and tail / Bark, purr, roar and sing  
    **Answer:** Smell, sight, sound and touch. *Why:* A channel is the way a signal travels. Eyes and ears are body parts that receive signals, and barks and purrs are all on one channel, sound.
 2. (mcq) What is a pheromone?  
-   Options: A chemical signal between animals of one kind / A very high sound / A bright warning colour / A kind of echo  
+   Options: A very high sound / A chemical signal between animals of one kind / A bright warning colour / A kind of echo  
    **Answer:** A chemical signal between animals of one kind. *Why:* A pheromone is a chemical that an animal gives off, which changes what others of the same kind do. It travels on the smell channel.
 3. (mcq) Why is a scent mark on a tree useful to a tigress?  
-   Options: It works while she is far away / It makes the tree grow / It keeps the rain off / It can be changed in a second  
+   Options: It makes the tree grow / It works while she is far away / It keeps the rain off / It can be changed in a second  
    **Answer:** It works while she is far away. *Why:* A smell stays on the bark for days. So the mark tells other tigers she lives here, even while she hunts elsewhere. A smell cannot be changed quickly.
 4. (mcq) In the Smell Mark Test, the squares came in a mixed-up order. Why?  
-   Options: So I could not guess from the order / So the smell lasted longer / So the paper dried faster / So the test was shorter  
+   Options: So the smell lasted longer / So the paper dried faster / So I could not guess from the order / So the test was shorter  
    **Answer:** So I could not guess from the order. *Why:* If the marked square always came third, you could answer without smelling. A mixed-up order means only your nose can find the mark.
 5. (mcq) Which of these blocks a display but does not block a call?  
    Options: Darkness / Loud noise / A strong wind / Rain on the leaves  
@@ -608,19 +608,19 @@ The next morning she went back to the flat rock alone and sat very still. After 
    Options: Infrasound / Ultrasound / An echo / A pheromone  
    **Answer:** Infrasound. *Why:* Infrasound is below our hearing, and elephants use it. Ultrasound is above our hearing, and bats use it.
 8. (mcq) Why is a call a good way to raise an alarm?  
-   Options: It is fast and spreads all round / It lasts for days / Hunters cannot hear it / It needs bright light  
+   Options: It lasts for days / It is fast and spreads all round / Hunters cannot hear it / It needs bright light  
    **Answer:** It is fast and spreads all round. *Why:* A call reaches everyone nearby at once, even behind trees and in the dark. It can stop as soon as the danger ends. Hunters can hear it too, which is its cost.
 9. (mcq) Which signal needs the sender and the receiver to touch the same thing?  
-   Options: A pluck on a spider's web / A koel's call / A peacock's display / A moth's pheromone  
+   Options: A koel's call / A peacock's display / A pluck on a spider's web / A moth's pheromone  
    **Answer:** A pluck on a spider's web. *Why:* A vibration travels along the thread, so both spiders must be on the web. Calls, displays and pheromones cross open air.
 10. (mcq) How does a bat know how far away a moth is?  
-   Options: By how soon the echo comes back / By the moth's colour / By the moth's smell / By feeling the wind  
+   Options: By the moth's colour / By how soon the echo comes back / By the moth's smell / By feeling the wind  
    **Answer:** By how soon the echo comes back. *Why:* Sound takes time to travel. The longer the echo takes to return, the further away the moth is.
 11. (mcq) Why does a Ganges river dolphin find fish by echoes and not by sight?  
-   Options: Muddy water blocks light but not sound / Fish are too small to see / Dolphins have no ears / Her eyes are on her back  
+   Options: Fish are too small to see / Dolphins have no ears / Her eyes are on her back / Muddy water blocks light but not sound  
    **Answer:** Muddy water blocks light but not sound. *Why:* Light cannot pass through muddy water, so eyes are little use there. Sound travels well in water, so echoes work.
 12. (mcq) A male frog's call draws a female. It also draws a hunting bat. What is the bat doing?  
-   Options: Eavesdropping / Giving a display / Leaving a scent mark / Grooming  
+   Options: Giving a display / Eavesdropping / Leaving a scent mark / Grooming  
    **Answer:** Eavesdropping. *Why:* The call was meant for female frogs. The bat picks up a signal meant for someone else, which is eavesdropping.
 
 ## Applications
@@ -691,6 +691,9 @@ Pack Your Fat, Cross the Sea (sci.animal-behaviour.L4): Topic-level song
 ## Things to buy
 - [A small bottle of white vinegar](https://www.amazon.in/s?k=white+vinegar) (material): For the vinegar mark in the Smell Mark Test. Fresh lemon juice also works, so buy it only if you want to. Used in e1. 
 - [An Immense World, a book by Ed Yong (2022)](https://www.amazon.in/s?k=An+Immense+World+Ed+Yong) (book): For the parent or an older child: how other animals sense smells, echoes and vibrations that we miss. Used in e2. After the Echo Plate Test, a parent can read aloud a few pages from the chapter on echoes.
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in The Echo Plate Test: can you find a thing by sound alone?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e2. Get it before The Echo Plate Test: can you find a thing by sound alone?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Echo Plate Test: can you find a thing by sound alone?. About ₹10 to ₹30. Any school ruler is fine. Used in e2. Get it before The Echo Plate Test: can you find a thing by sound alone?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name the four channels of animal signals. → Smell, sight, sound and touch.
@@ -709,7 +712,7 @@ Pack Your Fat, Cross the Sea (sci.animal-behaviour.L4): Topic-level song
 
 ## Sources
 - Founder's notebook, Biology list, items 105 to 110: communication, chemical (pheromones), visual (displays, colours), auditory (songs, calls, echolocation), tactile (touch, grooming, vibration) and symbolic language. Symbolic language, the bee dance in detail and the question of ape and whale language are left for sci.animal-behaviour.animal-communication.L5, as the curriculum says.
-- The Class 2 unit sci.animal-behaviour.animal-communication.L2 was read so that nothing repeats. It has barks, purrs, birdsong, the La-La Test and the vervet monkey speaker tests. This unit goes on to the four channels, pheromones, sounds beyond human hearing and echolocation, and its experiments, games and story are new.
+- The Class 2 unit sci.animal-behaviour.animal-communication.L2 was read so that nothing repeats. It has barks, purrs, birdsong, the La-La Test and the vervet monkey speaker tests. This lesson goes on to the four channels, pheromones, sounds beyond human hearing and echolocation, and its experiments, games and story are new.
 - Other units were checked for overlap. The firefly flash games are in sci.light.living-light, Bat and Moth is in sci.animals.animal-bodies.L3, and the bat discovery story is in sci.sound.hearing.L3, so none of these is used here.
 - Butenandt A., Beckmann R., Stamm D., Hecker E. (1959). On the sex attractant of the silk moth Bombyx mori (in German). Zeitschrift für Naturforschung B 14: 283-284.
 - Karlson P., Lüscher M. (1959). 'Pheromones': a new term for a class of biologically active substances. Nature 183: 55-56.

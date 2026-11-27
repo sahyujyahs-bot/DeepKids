@@ -3,6 +3,11 @@
 const GUIDE = {
   today: [
     [".thero", "Your day at a glance", "The date, how much is done today, and the read-aloud button."],
+    [
+      ".findbar",
+      "Follow the plan, or follow your heart",
+      "Below is the day DeepKids planned. Or type any topic here, like volcanoes or fractions. Choose Do it now, Tomorrow or Add to queue. If we don't have the lesson yet, we write it for you.",
+    ],
     [".calhead", "Today's plan", "Everything planned for today, in time order. Use ‹ and › to look at other days."],
     [
       ".tr.focus",

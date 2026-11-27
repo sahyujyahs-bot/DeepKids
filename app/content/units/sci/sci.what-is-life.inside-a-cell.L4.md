@@ -1,9 +1,9 @@
 # Inside a cell: the power stations, the recipe book and the workshops
 `sci.what-is-life.inside-a-cell.L4`
 
-**Summary.** A cube of beetroot stays pale in cold water but spills red in hot water. What was keeping the red inside? In this unit you will test beetroot, pull stringy DNA out of a banana, and walk through how a cell copies a recipe and builds a protein.
+**Summary.** A cube of beetroot stays pale in cold water but spills red in hot water. What was keeping the red inside? In this lesson you will test beetroot, pull stringy DNA out of a banana, and walk through how a cell copies a recipe and builds a protein.
 
-**Intro.** *Run on the spot for one minute, then put a hand on your chest. Your heart is thumping and you are breathing hard. You also feel warm.* Nothing in your body is on fire. Yet you got warm, and you needed more air. The reason is inside your cells. Each cell is full of small rooms, and some of them turn food and air into the energy you just used. In this unit you open the cell and look at the rooms, one by one.
+**Intro.** *Run on the spot for one minute, then put a hand on your chest. Your heart is thumping and you are breathing hard. You also feel warm.* Nothing in your body is on fire. Yet you got warm, and you needed more air. The reason is inside your cells. Each cell is full of small rooms, and some of them turn food and air into the energy you just used. In this lesson you open the cell and look at the rooms, one by one.
 
 ## Learning outcomes
 0. I can name the main rooms of a cell (organelles) and say what each one does.
@@ -522,7 +522,7 @@ Afterwards, the girls lay in the boat with their arms hanging over the sides, la
 7. (order) Put these steps in order for how a cell makes a protein.  
    **Answer:** ['A gene is copied into a messenger copy', 'The copy leaves the nucleus through a pore', 'A ribosome reads the copy', 'Building blocks are joined in order', 'The chain folds into a protein']. *Why:* A cell copies the recipe first and keeps the book. The copy travels to a ribosome, which reads it and builds the chain. The chain folds into its shape last.
 8. (mcq) Beetroot cubes turn the water red in hot water but not in cold water. What is the best explanation?  
-   Options: Heat makes new red colour / Heat breaks the cell skins, so the red leaves the cells / Cold water washes the red away  
+   Options: Heat makes new red colour / Cold water washes the red away / Heat breaks the cell skins, so the red leaves the cells  
    **Answer:** Heat breaks the cell skins, so the red leaves the cells. *Why:* The red is stored inside the cells. A whole skin keeps it in. Heat melts the fatty skin, so the red spills. Cold leaves the skin whole.
 9. (truefalse) Plant cells have chloroplasts and no mitochondria.  
    **Answer:** False. *Why:* False. Plant cells have both. Chloroplasts make sugar in light, and mitochondria release energy from the sugar, day and night.
@@ -544,7 +544,7 @@ Afterwards, the girls lay in the boat with their arms hanging over the sides, la
    Options: The folds give more surface for the energy machines to sit on / The folds make the mitochondrion green / The folds let the mitochondrion hold more water  
    **Answer:** The folds give more surface for the energy machines to sit on. *Why:* The machines that release energy sit in the inner wall. Folding gives a much larger wall in the same small room, so more machines can work. It is like folding a long towel into a small bucket.
 2. (mcq) Scientists put the nucleus of a frog's gut cell into an egg cell that had no nucleus of her own, and a tadpole grew. What does this show?  
-   Options: Gut cells are really egg cells / The gut cell's nucleus still held the whole recipe / Eggs do not need a nucleus  
+   Options: Gut cells are really egg cells / Eggs do not need a nucleus / The gut cell's nucleus still held the whole recipe  
    **Answer:** The gut cell's nucleus still held the whole recipe. *Why:* A tadpole needs all the recipes, so the gut cell's nucleus must have held them all. The gut cell used only a few pages. The rest were still there.
 3. (mcq) Mitochondria divide in two inside a cell, much as bacteria do. Why is this a clue about their past?  
    Options: The cell cannot make a new mitochondrion from nothing, so each comes from an older one / They are bigger than bacteria / They are the same colour as bacteria  
@@ -581,37 +581,37 @@ Afterwards, the girls lay in the boat with their arms hanging over the sides, la
 
 ## Quiz
 1. (mcq) Which room of a cell keeps the DNA?  
-   Options: The mitochondrion / The nucleus / The lysosome  
+   Options: The nucleus / The mitochondrion / The lysosome  
    **Answer:** The nucleus. *Why:* The nucleus keeps the DNA. Mitochondria release energy and lysosomes digest old parts.
 2. (mcq) Why do you breathe harder when you run?  
-   Options: Your cells need more oxygen to release more energy / Your lungs get smaller / Your blood turns blue  
+   Options: Your lungs get smaller / Your blood turns blue / Your cells need more oxygen to release more energy  
    **Answer:** Your cells need more oxygen to release more energy. *Why:* Your mitochondria use oxygen to release energy for your muscles. More work needs more oxygen, so you breathe harder.
 3. (truefalse) Plant cells have mitochondria.  
    **Answer:** True. *Why:* Yes. Plant cells have chloroplasts and mitochondria. Mitochondria release energy from sugar in the day and in the night.
 4. (mcq) In what order does a cell make a protein?  
-   Options: Copy the gene, carry the copy, build the protein / Build the protein, copy the gene, carry the copy / Carry the book, build the protein, copy the gene  
+   Options: Build the protein, copy the gene, carry the copy / Copy the gene, carry the copy, build the protein / Carry the book, build the protein, copy the gene  
    **Answer:** Copy the gene, carry the copy, build the protein. *Why:* The nucleus keeps the book and sends out a copy. The copy goes to a ribosome, which builds the protein.
 5. (mcq) Beetroot cubes stay pale in cold water and spill red in hot water. What does this show?  
-   Options: Whole cell skins hold the red in, and heat breaks them / Beetroot makes red in hot water / Cold water has no effect on anything  
+   Options: Beetroot makes red in hot water / Cold water has no effect on anything / Whole cell skins hold the red in, and heat breaks them  
    **Answer:** Whole cell skins hold the red in, and heat breaks them. *Why:* The red is stored inside whole cells. Heat melts the fat of the skins, so the red leaves. In cold water the skins stay whole.
 6. (fill) A ____ reads a messenger copy and builds a protein.  
    **Answer:** ['ribosome']. *Why:* A ribosome is the tiny machine that reads the copy and joins the building blocks.
 7. (mcq) Which fact shows that the nucleus is not the only part in charge of a cell?  
-   Options: A red blood cell lives for months with no nucleus / Nuclei are round / Plant cells are bigger than animal cells  
+   Options: Nuclei are round / A red blood cell lives for months with no nucleus / Plant cells are bigger than animal cells  
    **Answer:** A red blood cell lives for months with no nucleus. *Why:* A red blood cell works for months without a nucleus. The nucleus keeps the recipes, but the whole cell does the work.
 8. (truefalse) Mitochondria have a small piece of DNA of their own.  
    **Answer:** True. *Why:* True. Human mitochondria have a ring of DNA 16,569 letters long with 37 genes. This is one clue that they began as bacteria.
 9. (mcq) What does the city picture of a cell leave out?  
-   Options: That a cell is always moving and has no single boss / That a cell has rooms / That a cell has a skin  
+   Options: That a cell has rooms / That a cell has a skin / That a cell is always moving and has no single boss  
    **Answer:** That a cell is always moving and has no single boss. *Why:* A city picture shows rooms with jobs, which is useful. It leaves out the constant motion and the lack of any single ruler.
 10. (mcq) Which room digests old parts and swallowed germs?  
-   Options: The lysosome / The ribosome / The chloroplast  
+   Options: The ribosome / The chloroplast / The lysosome  
    **Answer:** The lysosome. *Why:* Lysosomes are small bags of strong juice. Ribosomes build proteins and chloroplasts catch light.
 11. (mcq) Which of these is still an open question?  
-   Options: How the first cell with a nucleus and mitochondria began / Whether cells have a skin / Whether mitochondria use oxygen  
+   Options: Whether cells have a skin / How the first cell with a nucleus and mitochondria began / Whether mitochondria use oxygen  
    **Answer:** How the first cell with a nucleus and mitochondria began. *Why:* Scientists agree that cells have skins and that mitochondria use oxygen. How the first complex cell began is still argued.
 12. (mcq) Muscle cells and skin cells hold the same DNA. Why are they different?  
-   Options: They switch on different genes / Their DNA is different / Muscle cells have no nucleus  
+   Options: Their DNA is different / They switch on different genes / Muscle cells have no nucleus  
    **Answer:** They switch on different genes. *Why:* Each cell uses the recipes she needs. Gurdon's frog experiment showed that a grown-up cell still holds the whole book.
 
 ## Applications
@@ -679,14 +679,21 @@ Tiny Rooms, Big Life (sci.what-is-life.L4): Topic-level song
 - [Cell Size and Scale (Genetic Science Learning Center, University of Utah)](https://learn.genetics.utah.edu/) · interactive: A zoom from a grain of sand down to an atom, with cells and mitochondria on the way.
 - [Mitochondrion (Wikipedia)](https://en.wikipedia.org/wiki/Mitochondrion) · interactive: For the parent: a clear article on the structure, the DNA and how mitochondria began.
 - [Nobel Prize in Chemistry 2009: the ribosome](https://www.nobelprize.org/) · interactive: For the parent: the Nobel site has a plain summary of what Yonath, Ramakrishnan and Steitz found.
-- [Visvesvaraya Industrial and Technological Museum, Bengaluru]() · place · Bengaluru: A science museum with a human body section, to see cells and organs in larger models.
-- [Birla Industrial and Technological Museum, Kolkata]() · place · Kolkata: A science museum with models of the human body and of life.
+- Visvesvaraya Industrial and Technological Museum, Bengaluru · place · Bengaluru: A science museum with a human body section, to see cells and organs in larger models.
+- Birla Industrial and Technological Museum, Kolkata · place · Kolkata: A science museum with models of the human body and of life.
 
 ## Things to buy
 - [Fresh raw beetroot, one or two](https://www.amazon.in/s?k=beetroot) (material): For the beetroot test. Any vegetable seller or kirana has it. Fresh and firm works best. Cooked or tinned beetroot will not do. Used in e1. 
 - [A digital thermometer with a probe](https://www.amazon.in/s?k=digital+probe+thermometer) (tool): For the sprout heat test, which needs to read a difference of half a degree. A digital probe thermometer costs a few hundred rupees. A glass lab thermometer from a stationery or science shop also works, but is harder to read to half a degree. A fever thermometer will not do, because it does not read room temperature. Used in e1, e3. 
 - [Isopropyl rubbing alcohol, 90 percent or stronger](https://www.amazon.in/s?k=isopropyl+alcohol+99) (material): For the DNA test. Ask a chemist or order online for isopropyl alcohol of 90 percent or more (often sold as IPA 99). The 70 percent rubbing alcohol gives few or no strands. About 100 millilitres is enough for each glass. A grown-up must handle it. Used in e2. 
 - [Coloured paper or beads in four colours](https://www.amazon.in/s?k=assorted+craft+beads) (material): For the Copy Walk, if you want colours instead of pulses. Used in a1, p1. 
+- [A small funnel](https://www.amazon.in/s?k=small+plastic+funnel) (tool): Used in Banana DNA: can you pull the recipe book out of a cell?. About ₹20 to ₹50. The top of a cut plastic bottle works. Used in e2. Get it before Banana DNA: can you pull the recipe book out of a cell?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Cell City on a Tray: build the rooms and walk a protein through. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in p1. Get it before Cell City on a Tray: build the rooms and walk a protein through.
+- [Food colour](https://www.amazon.in/s?k=food+colour+liquid) (material): Used in Cell City on a Tray: build the rooms and walk a protein through. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it. Used in p1. Get it before Cell City on a Tray: build the rooms and walk a protein through.
+- [Sticky notes](https://www.amazon.in/s?k=sticky+notes+pack) (material): Used in The Copy Walk: from recipe book to bead necklace. About ₹20 to ₹60. Small torn paper and tape do the same job. Used in a1. Get it before The Copy Walk: from recipe book to bead necklace.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Warm Sprouts: do living seeds make heat?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e3. Get it before Warm Sprouts: do living seeds make heat?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Warm Sprouts: do living seeds make heat?, The Copy Walk: from recipe book to bead necklace, Cell City on a Tray: build the rooms and walk a protein through. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e3, a1, p1. Get it before Warm Sprouts: do living seeds make heat?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is the room that holds the DNA called? → The nucleus.

@@ -1,0 +1,14 @@
+# DeepKids - Science - Grade Concepts / Sheet16 (copied from Google Sheets, 2026-11-27)
+R1: COUNT of Tile no |  |  |  | Gravity well type
+R2: Region | turn loss | opportunity | downfall or opportunity | doownfall | turn loss or downfall | Gravitas | safespot | Grand Total
+R3: Core | 100.00% |  |  |  |  |  |  | 100.00% | lowest G
+R4: Mantle | 50.00% | 25.00% |  | 25.00% |  |  |  | 100.00%
+R5: Crust | 20.00% |  |  | 60.00% |  |  | 20.00% | 100.00%
+R6: Surface |  | 37.50% |  | 50.00% |  |  | 12.50% | 100.00% | highest g
+R7: Troposphere | 16.67% | 16.67% | 16.67% | 33.33% |  |  | 16.67% | 100.00%
+R8: Stratosphere | 14.29% |  |  | 71.43% |  |  | 14.29% | 100.00%
+R9: Mesosphere |  | 11.11% |  | 66.67% |  | 11.11% | 11.11% | 100.00%
+R10: Thermosphere |  | 14.29% | 14.29% | 57.14% |  | 14.29% |  | 100.00%
+R11: Exosphere |  | 28.57% | 14.29% | 28.57% | 14.29% |  | 14.29% | 100.00%
+R12: ISS |  | 100.00% |  |  |  |  |  | 100.00%
+R13: Grand Total | 10.91% | 18.18% | 5.45% | 49.09% | 1.82% | 3.64% | 10.91% | 100.00% | low g

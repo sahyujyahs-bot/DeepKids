@@ -93,6 +93,12 @@
    "meaning": "An abacus is a counting frame. Beads on each rod or in each row stand for ones, tens or hundreds.",
    "example": "A rod with no beads pushed up shows an empty place, like a 0.",
    "art": "A wooden abacus with three rods: 2 beads up, none up, 5 beads up, showing 205."
+  },
+  {
+   "term": "Vacuum",
+   "meaning": "A vacuum is a space with almost nothing in it, not even air. Sound cannot travel through a vacuum.",
+   "example": "Space between the stars is almost a vacuum. A flask keeps tea hot partly because there is almost no air in a layer between its walls.",
+   "art": "A flask cut open to show an almost empty gap between two walls."
   }
  ],
  "explanations": [
@@ -210,7 +216,8 @@
    "description": "An empty bottle is full of air. Space is far emptier. Between the stars there is only about one atom in a space the size of a sugar cube, and light passes through it. Physicists have found that even a space with no atoms at all is not perfectly still. It holds a tiny amount of energy that they have measured. So nobody has ever found a place with exactly nothing in it. Whether a perfect nothing can exist anywhere is still an open question.",
    "examples": [
     "Push an upside-down 'empty' tumbler into a bucket of water: the air inside stops the water coming in.",
-    "Between the stars, there is about one atom in a space the size of a sugar cube."
+    "Between the stars, there is about one atom in a space the size of a sugar cube.",
+    "A rest in a song is a beat with no sound, yet the singers count it just like a note. A 'silent' minute in a classroom is full of fan hum, bird calls and breathing."
    ],
    "perspectives": [],
    "art": "The black space between two galaxies, with a few tiny dots of atoms drawn in one small cube of it.",
@@ -451,11 +458,11 @@
       "t": "mcq",
       "q": "The goal is the BIGGEST number. You roll a 6, which is a zero. Which box should it go in?",
       "options": [
+       "Ones",
        "Hundreds",
-       "Tens",
-       "Ones"
+       "Tens"
       ],
-      "a": 2,
+      "a": 0,
       "why": "A zero in Ones costs you the least, because the Ones place is worth the least. A zero in Hundreds would make your number smaller than 100. In this game, where the zero sits changes the value of everything else."
      }
     },
@@ -827,11 +834,11 @@
       "t": "mcq",
       "q": "In your table, the difference came out about the same for every object. What does that tell you?",
       "options": [
-       "The ruler has a blank strip before the 0, and it adds the same length every time",
        "All your objects are the same length",
-       "You measured too fast"
+       "You measured too fast",
+       "The ruler has a blank strip before the 0, and it adds the same length every time"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The strip before the 0 is not part of any centimetre. Starting at the edge adds that strip to every length, so the difference is the width of the strip. A random slip would be different each time. If your ruler starts right at the edge, every difference is 0 and there is no strip."
      }
     },
@@ -960,11 +967,11 @@
       "t": "mcq",
       "q": "In the date 30 October, what does the 0 tell you?",
       "options": [
-       "There are no days",
        "The 3 means three tens, and there are no extra ones",
+       "There are no days",
        "It is a nothing date"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The 0 holds the ones place, so the 3 stays in the tens place. Thirty is three tens and no ones. Picking 'no days' means mixing up the 0 in a number with the number zero on its own."
      },
      "parent": "Notice which zeros are 'none' and which are holding a place, like the 0 in 30 or in a pin code such as 600 028. You will come back to this difference."
@@ -1158,10 +1165,10 @@
       "q": "Why does the calculator show an error for 12 ÷ 0?",
       "options": [
        "The calculator is broken",
-       "No number of groups of 0 can ever make 12",
-       "The answer is too big to fit on the screen"
+       "The answer is too big to fit on the screen",
+       "No number of groups of 0 can ever make 12"
       ],
-      "a": 1,
+      "a": 2,
       "why": "12 ÷ 0 asks: how many groups of 0 make 12? Every number of groups of 0 makes 0, never 12. So there is no answer. Mathematicians call it undefined. Picking 'too big' means thinking the answer is a huge number, but no number works at all."
      }
     }
@@ -1330,6 +1337,92 @@
     }
    ],
    "problem": "Is zero the smallest number? A lift in a tall building goes below the ground floor, to the basement floors. In this activity you use lift buttons and a number line to find out what the numbers below zero are."
+  },
+  {
+   "id": "old1",
+   "title": "Listening to Nothing: what do you hear in a silent minute?",
+   "mins": 10,
+   "days": 1,
+   "context": "In this activity you sit very still for one minute and listen, and then you clap a rhythm with a rest in it. You will find out that a 'silent' minute is full of sounds, and that a rest is a real beat with nothing in it, like a zero.",
+   "problem": "There is almost never perfect silence at home. In this activity you listen for one minute, write down what you hear, and then write a clapped rhythm with 0 for each rest. A zero is a way to write 'nothing here', and it still counts.",
+   "materials": [
+    {
+     "item": "a phone timer",
+     "qty": 1
+    },
+    {
+     "item": "a notebook",
+     "qty": 1
+    },
+    {
+     "item": "a pencil",
+     "qty": 1
+    }
+   ],
+   "record": "A list of the sounds in your silent minute, and two rhythms written with a dot for each clap and a 0 for each rest.",
+   "setup": [
+    {
+     "art": "A child sitting cross-legged on the floor with eyes closed, back straight and hands on knees.",
+     "caption": "1. Sit cross-legged with your eyes closed and listen for one minute."
+    },
+    {
+     "art": "A notebook with a list of sounds such as fan, horn, bird and breathing.",
+     "caption": "2. Write down every sound you heard."
+    },
+    {
+     "art": "A notebook page with a row of dots and zeros, and two hands clapping beside it.",
+     "caption": "3. Write the rhythm with a dot for a clap and a 0 for a rest."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Sit cross-legged on the floor, back straight, hands on your knees. 2. Close your eyes. 3. Set a timer for one minute. 4. Stay as still as a statue and listen. Make no sound.",
+     "say": "For one minute, we do not move and we do not speak. Just listen.",
+     "kid": "Close your eyes. Stay still and listen for one minute. Make no sound."
+    },
+    {
+     "id": "s2",
+     "mins": 2,
+     "do": "Open your eyes. Your child writes down every sound they heard, such as a fan, a horn, a bird or their own breathing.",
+     "say": "There was no talking, but was there silence? What did you hear?",
+     "kid": "Write down every sound you heard.",
+     "ask": [
+      {
+       "q": "Was the minute really silent?",
+       "good": [
+        "No. I heard a fan and a horn.",
+        "I heard my own breathing."
+       ]
+      }
+     ],
+     "parent": "There is no perfect silence in a flat. Even a very quiet room has the sound of your own body."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "1. Clap this rhythm together: clap, clap, rest, clap. 2. On the rest, open your hands without a sound. 3. Do it four times. 4. Write the rhythm in the notebook with a dot for each clap and a 0 for each rest.",
+     "say": "A rest is a beat with no sound. We write it with a 0, because the beat is there, but there is nothing in it.",
+     "kid": "Clap, clap, rest, clap. Do it four times. Write it as dot, dot, 0, dot.",
+     "ask": [
+      {
+       "q": "Why do we write a 0 for a rest, and not leave a gap?",
+       "good": [
+        "Without the 0, we would lose the beat.",
+        "The rest is still a beat, even with no sound."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s4",
+     "mins": 2,
+     "do": "Your child makes up a rhythm with one rest. Clap it and write it. Then make up one with three rests. Clap it and write it. Ask which one sounded more different.",
+     "say": "Now make your own rhythm. First with one rest, then with three rests. Which one sounds more different?",
+     "kid": "Make a rhythm with one rest. Write it. Make one with three rests. Write it. Which sounds more different?"
+    }
+   ]
   }
  ],
  "projects": [
@@ -1574,11 +1667,11 @@
    "t": "mcq",
    "p": "A plate has no dosas on it. How many dosas are on the plate?",
    "opts": [
-    "One",
     "Zero",
+    "One",
     "We can't say, because there are none"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Zero is the number for none. It is a real answer to 'how many?'. Picking 'we can't say' means thinking that none is not a number.",
    "outcome": 0
   },
@@ -1586,11 +1679,11 @@
    "t": "mcq",
    "p": "You write 520 but forget the 0. What number have you written?",
    "opts": [
-    "52, which is ten times smaller",
     "520, because the 0 means nothing",
+    "52, which is ten times smaller",
     "502"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Without the 0, the 5 and 2 slide into the tens and ones places, so the number becomes 52. The 0 adds nothing to count, but it keeps the digits in their places.",
    "outcome": 1
   },
@@ -1599,10 +1692,10 @@
    "p": "In the missing zero test, a reader is shown the card '52' with a blank space after it. The writer meant 520. What will the reader most likely say?",
    "opts": [
     "Five hundred and twenty",
-    "Fifty-two",
-    "Five hundred and two"
+    "Five hundred and two",
+    "Fifty-two"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A blank at the end of a number looks like ordinary paper, so the reader sees only 52. That is why a 0 is needed at the end of a number.",
    "outcome": 2,
    "how": "e1"
@@ -1636,10 +1729,10 @@
    "p": "You type 8 ÷ 0 on a calculator. What will it show?",
    "opts": [
     "0",
-    "8",
-    "An error, because there is no answer"
+    "An error, because there is no answer",
+    "8"
    ],
-   "a": 2,
+   "a": 1,
    "why": "8 ÷ 0 asks what number times 0 gives 8. Every number times 0 is 0, so no number works. Picking 0 is the mistake Brahmagupta made for 0 ÷ 0.",
    "outcome": 4
   },
@@ -1671,11 +1764,11 @@
    "t": "mcq",
    "p": "You measure a pencil from the very edge of a ruler. The 0 mark is 5 mm in from the edge. What happens?",
    "opts": [
-    "The answer is 5 mm too long",
     "The answer is 5 mm too short",
+    "The answer is 5 mm too long",
     "It makes no difference"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The strip before the 0 is not part of the length scale. Starting at the edge adds it to every measurement, so each length is 5 mm too long.",
    "outcome": 6,
    "how": "e2"
@@ -1769,11 +1862,11 @@
      "p": "What is 6 - 0?",
      "opts": [
       "0",
-      "6",
       "60",
-      "There is no answer"
+      "There is no answer",
+      "6"
      ],
-     "a": 1,
+     "a": 3,
      "why": "Taking away nothing leaves what you had. That is one of Brahmagupta's rules."
     },
     {
@@ -1956,12 +2049,12 @@
      "t": "mcq",
      "p": "About 2,300 years ago, scribes in Babylon put a mark for an empty place in the middle of a number, but never at the end. Which pair of numbers would look the same in their writing?",
      "opts": [
-      "2 and 20",
       "203 and 230",
+      "2 and 20",
       "12 and 21",
       "105 and 150"
      ],
-     "a": 0,
+     "a": 1,
      "why": "With no mark at the end, 20 would be written just like 2. A reader had to guess from the writing around the number. A middle gap had a mark, so 203 and 230 could be told apart."
     },
     {
@@ -2138,12 +2231,12 @@
      "t": "mcq",
      "p": "Bees learn to pick the card with fewer shapes. Then they are shown a blank card and a card with one shape. If they pick the blank card, what might that tell us?",
      "opts": [
-      "They may treat none as less than one",
       "They cannot see blank cards",
       "They always like one shape best",
-      "They were not hungry"
+      "They were not hungry",
+      "They may treat none as less than one"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Picking the blank card as 'fewer' would mean they put none below one. Scientists still argue whether that means bees understand zero, or just 'less'."
     },
     {
@@ -2170,12 +2263,12 @@
      "t": "mcq",
      "p": "On the original thermometer scale Anders Celsius made in 1742, water boiled at 0 and froze at 100. Later the scale was turned round. What does this show?",
      "opts": [
-      "Where zero goes on a scale is chosen by people",
       "Water used to boil at a different temperature",
       "Celsius made a mistake with his thermometer",
+      "Where zero goes on a scale is chosen by people",
       "Zero always means the coldest"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The zero on a temperature scale is a starting point people choose. The water did not change. Only the numbers we put on it did."
     },
     {
@@ -2516,6 +2609,88 @@
    "used_in": [
     "p1"
    ]
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in Where does the ruler start?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before Where does the ruler start?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Where does the ruler start?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before Where does the ruler start?."
+  },
+  {
+   "id": "b-paper-masking-tape",
+   "item": "Paper masking tape",
+   "kind": "material",
+   "why": "Used in Zero's journey: a map and a timeline. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor.",
+   "url": "https://www.amazon.in/s?k=paper+masking+tape",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before Zero's journey: a map and a timeline."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Build an abacus that can show 1,005. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "c2"
+   ],
+   "plan": "Get it before Build an abacus that can show 1,005."
+  },
+  {
+   "id": "b-wooden-ice-cream-sticks--a-p",
+   "item": "Wooden ice-cream sticks (a pack)",
+   "kind": "material",
+   "why": "Used in Build an abacus that can show 1,005. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in.",
+   "url": "https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack",
+   "used_in": [
+    "c2"
+   ],
+   "plan": "Get it before Build an abacus that can show 1,005."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in The katori abacus, Brahmagupta's rules with beans. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "a2",
+    "a3"
+   ],
+   "plan": "Get it before The katori abacus."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [
@@ -2593,7 +2768,8 @@
    "ws-challenge",
    "open_questions",
    "roots",
-   "quiz"
+   "quiz",
+   "old1"
   ],
   "core": [
    "a1",

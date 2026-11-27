@@ -1,9 +1,9 @@
 # Growing up: how a body grows from baby to grown-up, and how we measure growing
 `sci.body.growing.L2`
 
-**Summary.** Are you taller when you wake up than when you go to bed? In this unit you will measure your height carefully at both times and compare, try on old clothes to see how you have grown, and play a game of taller, shorter or the same.
+**Summary.** Are you taller when you wake up than when you go to bed? In this lesson you will measure your height carefully at both times and compare, try on old clothes to see how you have grown, and play a game of taller, shorter or the same.
 
-**Intro.** *Are you the same height at bedtime as when you wake up in the morning?* Find a shirt or frock you wore three years ago. Try it on. The sleeves stop above your wrists, and it feels tight. You grew, but you never saw yourself growing. Growing happens too slowly to watch. So people measure, and write the numbers down. In this unit you learn how a body grows from a baby to a grown-up. You also learn to measure yourself carefully. Then you test a strange idea: that you are taller in the morning.
+**Intro.** *Are you the same height at bedtime as when you wake up in the morning?* Find a shirt or frock you wore three years ago. Try it on. The sleeves stop above your wrists, and it feels tight. You grew, but you never saw yourself growing. Growing happens too slowly to watch. So people measure, and write the numbers down. In this lesson you learn how a body grows from a baby to a grown-up. You also learn to measure yourself carefully. Then you test a strange idea: that you are taller in the morning.
 
 ## Learning outcomes
 0. By the end I can name the stages of a human life, from baby to older adult, and say how a body changes in each.
@@ -53,6 +53,7 @@ A body builds new bone and muscle out of food. Milk, dal, eggs, fish, ragi and g
 - e.g. Identical twins usually grow to almost the same height.
 - **Many geneticists:** When children have enough food and good health, most of the difference in height between people comes from what they get from their parents.
 - **Many child health scientists, such as the team behind the WHO growth study:** Healthy, well-fed babies in very different countries grow almost the same. So when many children in one place are short, the main reason is food, illness and dirty water, not their families.
+- **Rita Levi-Montalcini (1909–2012), Italy and the USA:** When Mussolini's 1938 racial laws barred Jewish scientists from universities, Levi-Montalcini set up a laboratory in her bedroom and studied how nerves grow in chick embryos, using sewing needles as tools. Later, in the USA in the 1950s, she and Stanley Cohen discovered nerve growth factor, a chemical messenger that tells nerve cells to grow and where to go. Many scientists doubted for years that one chemical could guide growth, but she and Cohen shared the Nobel Prize in 1986.
 ### Smooth or in jumps: how do babies grow? · *debated*
 **Definition:** Some scientists found that babies grow in sudden jumps, with long gaps in between. Others think most growing is smooth and steady.
 
@@ -95,7 +96,7 @@ We have learnt how a body grows from a baby to a grown-up, and how to measure gr
 
 You began very small, and every part of you since then has been built from food: milk, rice, dal, greens. The food came from plants, and the plants grew from sunlight, water and soil. So the water and soil of a paddy field in Thanjavur can become part of your thigh bone. Your body is always taking in new material and changing.
 
-- **Bhagavad Gita 2.13:** “देहिनोऽस्मिन्यथा देहे कौमारं यौवनं जरा। / तथा देहान्तरप्राप्तिर्धीरस्तत्र न मुह्यति।।” Krishna tells Arjuna that a person passes through childhood, youth and old age in the same body. A wise person is not confused by these changes. (In this unit, a body changes from baby to child to adult, and even from night to morning. Yet the person inside feels like the same person.)
+- **Bhagavad Gita 2.13:** “देहिनोऽस्मिन्यथा देहे कौमारं यौवनं जरा। / तथा देहान्तरप्राप्तिर्धीरस्तत्र न मुह्यति।।” Krishna tells Arjuna that a person passes through childhood, youth and old age in the same body. A wise person is not confused by these changes. (In this lesson, a body changes from baby to child to adult, and even from night to morning. Yet the person inside feels like the same person.)
 - **Heraclitus, as quoted in Plato's Cratylus 402a:** “δὶς ἐς τὸν αὐτὸν ποταμὸν οὐκ ἂν ἐμβαίης.” Heraclitus, a Greek thinker who lived about 2,500 years ago, said you cannot step into the same river twice, because new water is always flowing. (Your body is a little like the river. It looks the same from day to day, but it is always taking in new food and changing its size, even overnight.)
 - Science (settled): People are a little taller in the morning than in the evening, because the discs in the backbone lose and regain water.
 - Science (debated): Whether children grow smoothly or in sudden jumps is still argued about.
@@ -400,7 +401,7 @@ Arjun had stopped crying. He stood against the door on his tiptoes. "Me too," he
 5. (truefalse) True or false: grown-ups keep getting taller every year.  
    **Answer:** False. *Why:* False. Most people stop getting taller at about 15 to 18. Some older people even get a little shorter.
 6. (mcq) You want to see if you have grown since last month. When should you measure yourself?  
-   Options: At the same time of day as last month / Any time at all / Only after playing outside  
+   Options: Any time at all / At the same time of day as last month / Only after playing outside  
    **Answer:** At the same time of day as last month. *Why:* Height changes during the day. Measuring at the same time each time is fair, so only real growth shows.
 7. (sort) Sort these into things that help a body grow, and things that slow growing down.  
    **Answer:** sleeping well at night → Helps growing; being ill again and again → Slows growing; eating dal, eggs and greens → Helps growing; not getting enough food → Slows growing. *Why:* Bones and muscles are built from food. In deep sleep the body makes more growth hormone, which tells bones to grow. Long illness and hunger slow growing down.
@@ -440,7 +441,7 @@ Arjun had stopped crying. He stood against the door on his tiptoes. "Me too," he
 2. (perspective) Two scientists are arguing about how babies grow.  
    **Answer:** A strong answer picks one side, then suggests a test: measure a baby very carefully, many times, in the same way each day, and see whether the jumps stay.. *Why:* This is still argued about. A good answer suggests careful, repeated measuring, like the Measure the Wriggler challenge.
 3. (mcq) In the WHO growth study, well-fed, healthy babies in India, Ghana, Brazil and Norway were measured. What did the scientists find?  
-   Options: They grew almost the same / Indian babies always grew much less / Norwegian babies always grew much less  
+   Options: Indian babies always grew much less / They grew almost the same / Norwegian babies always grew much less  
    **Answer:** They grew almost the same. *Why:* Healthy babies with good food and care grew almost the same in all six countries. So food and health matter a lot.
 4. (draw) Draw a picture graph of how tall a person is at 0, 1, 7, 15 and 30 years old.  
    **Answer:** Five people getting taller quickly at first, then more slowly, with the 15-year-old and 30-year-old close in height.. *Why:* A strong graph shows fast growing as a baby, steady growing in childhood, and no growing after the teens.
@@ -464,25 +465,25 @@ Arjun had stopped crying. He stood against the door on his tiptoes. "Me too," he
 
 ## Quiz
 1. (mcq) Which life stage comes right after toddler?  
-   Options: Child / Teenager / Baby  
+   Options: Teenager / Child / Baby  
    **Answer:** Child. *Why:* The stages go baby, toddler, child, teenager, adult, older adult.
 2. (mcq) When do people grow fastest after they are born?  
-   Options: In their first year / When they are about 7 / When they are adults  
+   Options: When they are about 7 / When they are adults / In their first year  
    **Answer:** In their first year. *Why:* A baby grows about 25 centimetres in the first year. That is the fastest growing after birth.
 3. (mcq) About how much does a child of 7 grow in one year?  
-   Options: About 5 or 6 centimetres / About 50 centimetres / Nothing at all  
+   Options: About 50 centimetres / About 5 or 6 centimetres / Nothing at all  
    **Answer:** About 5 or 6 centimetres. *Why:* Children grow slowly and steadily, about 5 or 6 centimetres a year. 50 centimetres is the length of a newborn.
 4. (mcq) When are most people a little taller?  
    Options: In the morning, after sleep / In the evening, after a busy day / Exactly the same all day  
    **Answer:** In the morning, after sleep. *Why:* At night the discs in the backbone fill up again. During the day they are squashed a little.
 5. (mcq) What are the soft pads between the bones of your backbone called?  
-   Options: Discs / Muscles / Teeth  
+   Options: Muscles / Teeth / Discs  
    **Answer:** Discs. *Why:* They are called discs. They squash a little in the day and fill up at night.
 6. (mcq) You measure yourself every month. What makes your measuring fair?  
-   Options: The same wall, the same book, the same time of day, heels down / A different wall each month / Standing on tiptoes  
+   Options: A different wall each month / The same wall, the same book, the same time of day, heels down / Standing on tiptoes  
    **Answer:** The same wall, the same book, the same time of day, heels down. *Why:* If everything else stays the same, only real growing can change the line.
 7. (mcq) Why do we measure three times, not once?  
-   Options: One try can be a little wrong / Three is a lucky number / To make the line darker  
+   Options: Three is a lucky number / To make the line darker / One try can be a little wrong  
    **Answer:** One try can be a little wrong. *Why:* Small changes in standing or holding the book make tiny mistakes. Three tries show the real height better.
 8. (mcq) Which of these helps a child's body grow?  
    Options: Good food and sleep / Staying awake late every night / Skipping meals  
@@ -491,7 +492,7 @@ Arjun had stopped crying. He stood against the door on his tiptoes. "Me too," he
    Options: 3 millimetres more / 13 millimetres more / 5 millimetres more  
    **Answer:** 3 millimetres more. *Why:* 8 take away 5 is 3. The first child's height changed 3 millimetres more than the other child's.
 10. (mcq) A newborn is about 50 centimetres long. A girl of 7 is about 120 centimetres. Is the girl more than twice as long as the newborn?  
-   Options: Yes, two newborns make 100, and she is 120 / No, she is less than twice as long / They are the same  
+   Options: No, she is less than twice as long / They are the same / Yes, two newborns make 100, and she is 120  
    **Answer:** Yes, two newborns make 100, and she is 120. *Why:* 50 and 50 make 100. 120 is more than 100, so she is more than twice as long.
 
 ## Applications
@@ -502,9 +503,9 @@ Arjun had stopped crying. He stood against the door on his tiptoes. "Me too," he
 
 ## Spotted around us
 - A growth chart printed on the Mother and Child Protection card that many families get from the anganwadi or hospital.
-- Pencil marks with names and dates on a door frame in a home in Kochi or Pune, where a family measures the children every year.
+- Pencil marks with names and dates on a door frame, where a family measures the children every year.
 - A height measuring stick on the wall at a children's clinic or a school medical check-up.
-- Children's clothes in a shop in Kolkata or Hyderabad labelled by age: 5 to 6 years, 7 to 8 years.
+- Children's clothes in a shop labelled by age: 5 to 6 years, 7 to 8 years.
 - A school uniform that a parent bought a little big, with folded-up sleeves, so the child can grow into it.
 
 ## Open questions
@@ -541,6 +542,12 @@ I Grow a Little Every Day (sci.body.L2):
 - [WHO Child Growth Standards](https://www.who.int/tools/child-growth-standards) · interactive: For the parent: the growth charts that anganwadis and doctors in India use, made from the study of healthy babies in six countries.
 
 ## Things to buy
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in Arms Out: is your arm span the same as your height?, My Growing Chart: measure three times, a month apart, Measure the Wriggler: a fair way to measure someone lying down. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e2, p1, c1. Get it before Arms Out: is your arm span the same as your height?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Bedtime Tall, Morning Tall: are you taller when you wake up?, Arms Out: is your arm span the same as your height?, Feet in a Row: is the oldest foot the biggest?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, a2, p1, c1. Get it before Bedtime Tall, Morning Tall: are you taller when you wake up?.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in Bedtime Tall, Morning Tall: are you taller when you wake up?. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in e1. Get it before Bedtime Tall, Morning Tall: are you taller when you wake up?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in My Growing Chart: measure three times, a month apart. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in p1. Get it before My Growing Chart: measure three times, a month apart.
+- [A kitchen or weighing scale](https://www.amazon.in/s?k=digital+kitchen+weighing+scale) (tool): Used in As Heavy as a Newborn: the atta packet baby. About ₹300 to ₹700. A home-made balance from a ruler and two cups can compare weights. Used in a3. Get it before As Heavy as a Newborn: the atta packet baby.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - About how long is a newborn baby? → About 50 centimetres.

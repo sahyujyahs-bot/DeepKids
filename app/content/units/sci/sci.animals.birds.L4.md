@@ -1,9 +1,9 @@
 # Birds: how beaks and feet fit their food, and why birds are dinosaurs
 `sci.animals.birds.L4`
 
-**Summary.** A beak can crack a seed or sip nectar, and scientists say birds are dinosaurs. What shows that? In this unit you will watch a bird's beak and feet, test where a beak bites hardest with a lever, match clue cards, and find the dinosaur in a bird.
+**Summary.** A beak can crack a seed or sip nectar, and scientists say birds are dinosaurs. What shows that? In this lesson you will watch a bird's beak and feet, test where a beak bites hardest with a lever, match clue cards, and find the dinosaur in a bird.
 
-**Intro.** *A sparrow's beak is short and thick. A godwit's beak is as long as a pencil. Why can the sparrow crack a hard seed when the godwit cannot?* A beak has two halves joined at a hinge, like a pair of scissors. In this unit you cut stacks of newspaper with scissors, near the hinge and at the tips. You find out which part cuts hardest and which part reaches farthest. That explains why birds with different foods have different beaks. Then you read feet, nests and migration in the same way. Last, you look for a dinosaur's features on a bird at your window.
+**Intro.** *A sparrow's beak is short and thick. A godwit's beak is as long as a pencil. Why can the sparrow crack a hard seed when the godwit cannot?* A beak has two halves joined at a hinge, like a pair of scissors. In this lesson you cut stacks of newspaper with scissors, near the hinge and at the tips. You find out which part cuts hardest and which part reaches farthest. That explains why birds with different foods have different beaks. Then you read feet, nests and migration in the same way. Last, you look for a dinosaur's features on a bird at your window.
 
 ## Learning outcomes
 0. I can look at a beak and say what food that beak fits, and why.
@@ -144,7 +144,7 @@ The asteroid that struck 66 million years ago set off fires and filled the sky w
   Against: Skin prints from Tyrannosaurus show small scales on several parts of the body. A full-grown Tyrannosaurus may have had few feathers or none.
 
 ## Roots
-In this unit you tested a model beak and looked for a dinosaur's features on a bird. Here we ask what it means that a kind of animal can change, and still be the same family.
+In this lesson you tested a model beak and looked for a dinosaur's features on a bird. Here we ask what it means that a kind of animal can change, and still be the same family.
 
 **Deep truth.** In Find the Dinosaur in a Bird, you saw scaly feet, three front toes and a walk on tiptoe. Fossils show small meat-eating dinosaurs with the same feet, and with feathers and wishbones too. Birds are the one branch of the dinosaur family that lived through the asteroid strike. So dinosaurs are still alive, and one may be sitting on your window grill now.  
 *Habit it breaks:* We say 'the dinosaurs died out' and treat birds as a separate kind of animal. The family tree puts birds inside the dinosaurs. So that sentence is true only of the other dinosaurs.  
@@ -494,7 +494,7 @@ Appa was still holding the jar lid of rice. He looked at it. Then he tipped it o
 ## Worksheets
 ### Beaks, feet, nests and dinosaurs (core, 15 questions)
 1. (mcq) Which beak is best for cracking hard seeds?  
-   Options: A short, thick cone / A long, thin curve / A flat, wide scoop / A long, straight dagger  
+   Options: A long, thin curve / A short, thick cone / A flat, wide scoop / A long, straight dagger  
    **Answer:** A short, thick cone. *Why:* A short, thick beak has its tip close to the hinge, so the bite is hard. Long beaks reach far, and bite weakly at the tip.
 2. (mcq) Where along a beak is the bite strongest?  
    Options: Near the hinge / At the very tip / Exactly in the middle / The same everywhere  
@@ -508,7 +508,7 @@ Appa was still holding the jar lid of rice. He looked at it. Then he tipped it o
 6. (sort) Sort these birds by beak: built for a hard bite, or built for a long reach?  
    **Answer:** house sparrow → Short beak, hard bite; munia → Short beak, hard bite; parakeet → Short beak, hard bite; godwit → Long beak, long reach; sunbird → Long beak, long reach; painted stork → Long beak, long reach. *Why:* Sparrows, munias and parakeets crack seeds. Godwits, sunbirds and storks reach into mud, flowers or water.
 7. (mcq) Why does a godwit leave Siberia in autumn?  
-   Options: The mud freezes over her food / She dislikes the long nights / Her feathers stop growing / Her chicks chase her away  
+   Options: She dislikes the long nights / Her feathers stop growing / The mud freezes over her food / Her chicks chase her away  
    **Answer:** The mud freezes over her food. *Why:* The worms are still in the ground, and a thin beak cannot enter frozen mud. She flies to places where the mud stays soft.
 8. (truefalse) A nest is a home where a bird lives all year.  
    **Answer:** False. *Why:* False. Most birds use a nest only while there are eggs and chicks. For the rest of the year they sleep on branches, ledges or water.
@@ -517,7 +517,7 @@ Appa was still holding the jar lid of rice. He looked at it. Then he tipped it o
 10. (fill) Birds belong to the group of two-legged dinosaurs called ____.  
    **Answer:** ['theropods']. *Why:* Theropods walked on two legs and had hollow bones, three main toes and a wishbone. Tyrannosaurus, Velociraptor and all birds are theropods.
 11. (mcq) Which feature do birds share with Velociraptor?  
-   Options: A wishbone / Teeth in the jaws / A long bony tail / Four walking legs  
+   Options: Teeth in the jaws / A long bony tail / A wishbone / Four walking legs  
    **Answer:** A wishbone. *Why:* A Velociraptor wishbone has been found. Velociraptor also had teeth and a long bony tail, and birds have lost both.
 12. (write) A sunbird has a long, thin, curved beak. Explain in two sentences what this beak is for.  
    **Answer:** It reaches the nectar deep inside a flower, where a short thick beak could not go. The thin beak is weak at the tip, and nectar does not need a hard bite.. *Why:* A strong answer links the shape to the job, and says that reach matters here and bite strength does not.
@@ -526,20 +526,20 @@ Appa was still holding the jar lid of rice. He looked at it. Then he tipped it o
 14. (draw) Draw a nest for a tree where snakes climb. Label how your nest keeps the eggs safe.  
    **Answer:** Any nest that a snake cannot easily reach or enter. One example is a nest hanging from a thin branch tip with the door at the bottom. Another is a hole with a very narrow opening.. *Why:* A strong drawing names the danger and shows one feature that deals with it. A baya weaver's hanging nest and a hornbill's sealed hole are two real answers.
 15. (mcq) What does 'incubate' mean?  
-   Options: Keep eggs warm until they hatch / Build a nest from grass / Carry food to a chick / Fly south for winter  
+   Options: Build a nest from grass / Keep eggs warm until they hatch / Carry food to a chick / Fly south for winter  
    **Answer:** Keep eggs warm until they hatch. *Why:* A chick grows inside an egg only if the egg stays warm. Most birds incubate by sitting on the eggs.
 ### Read the body, find the food (stretch, 15 questions)
 1. (mcq) A kingfisher's long beak bites weakly at the tip. What is that beak good at?  
-   Options: Snapping shut fast on a fish / Cracking hard nuts / Straining tiny food from water / Chiselling into wood  
+   Options: Cracking hard nuts / Snapping shut fast on a fish / Straining tiny food from water / Chiselling into wood  
    **Answer:** Snapping shut fast on a fish. *Why:* The tip of a long beak moves far and fast. A fish needs speed and reach, and does not need a hard bite.
 2. (mcq) A parakeet has two toes pointing forward and two back. What does this help her do?  
-   Options: Climb, and hold food / Paddle through water / Walk on soft mud / Run fast on sand  
+   Options: Paddle through water / Walk on soft mud / Run fast on sand / Climb, and hold food  
    **Answer:** Climb, and hold food. *Why:* Two toes each way make a strong grip on bark, and let one foot hold a fruit like a hand.
 3. (mcq) After a drought, finches had deeper beaks on average. Why?  
-   Options: Deep-beaked finches lived and had chicks / Each finch stretched their own beak / Shallow-beaked finches flew away / The seeds became softer  
+   Options: Each finch stretched their own beak / Shallow-beaked finches flew away / The seeds became softer / Deep-beaked finches lived and had chicks  
    **Answer:** Deep-beaked finches lived and had chicks. *Why:* Only big, hard seeds were left. Finches with deeper beaks could crack them, so more of them lived and passed deep beaks to their chicks.
 4. (mcq) Sinosauropteryx had feathers and could not fly. What does this show?  
-   Options: Feathers came before flight / All dinosaurs could fly / Feathers grow only on wings / Birds are older than dinosaurs  
+   Options: All dinosaurs could fly / Feathers came before flight / Feathers grow only on wings / Birds are older than dinosaurs  
    **Answer:** Feathers came before flight. *Why:* A dinosaur with short arms and a coat of feathers could not fly. So feathers first did another job, such as keeping the body warm.
 5. (truefalse) In the Frozen Mud Test, the tweezers found no beans because the beans were gone.  
    **Answer:** False. *Why:* False. All ten beans were still in the bowl. The mud was too hard for the tweezers to enter.
@@ -569,13 +569,13 @@ Appa was still holding the jar lid of rice. He looked at it. Then he tipped it o
    Options: Animals who are already dead / Animals she catches alive / Nectar from flowers / Seeds strained from water  
    **Answer:** Animals who are already dead. *Why:* The hook tears meat, and weak feet with blunt claws cannot kill. This is the plan of a vulture.
 2. (mcq) Several wet years bring plenty of small, soft seeds. What may happen to finch beaks over the generations?  
-   Options: Smaller beaks become more common / Deeper beaks become more common / Beaks can never change again / Every finch gets the same beak  
+   Options: Deeper beaks become more common / Smaller beaks become more common / Beaks can never change again / Every finch gets the same beak  
    **Answer:** Smaller beaks become more common. *Why:* A big beak costs more to grow and is clumsy with small seeds. When small seeds are plentiful, finches with smaller beaks raise more chicks.
 3. (mcq) Gerhard Heilmann said dinosaurs had no wishbone, so birds could not come from them. What showed he was wrong?  
-   Options: Wishbones found in theropod fossils / A living Velociraptor / Birds losing their wishbones / Older drawings of dinosaurs  
+   Options: A living Velociraptor / Birds losing their wishbones / Wishbones found in theropod fossils / Older drawings of dinosaurs  
    **Answer:** Wishbones found in theropod fossils. *Why:* Wishbones have been found in many theropods. Heilmann's reasoning was careful, and the fossils he needed had not yet been recognised.
 4. (mcq) Which is the best evidence that some dinosaurs sat on their eggs?  
-   Options: A fossil dinosaur found on a nest / Dinosaurs were very large / Hens sit on eggs today / Dinosaur eggs were round  
+   Options: Dinosaurs were very large / Hens sit on eggs today / A fossil dinosaur found on a nest / Dinosaur eggs were round  
    **Answer:** A fossil dinosaur found on a nest. *Why:* Fossils of Citipati show the animal sitting on the nest with the arms spread over the eggs. What hens do today is only a hint.
 5. (truefalse) A crocodile is a closer relative of a sparrow than of a lizard.  
    **Answer:** True. *Why:* True. Crocodiles and dinosaurs, including birds, share a more recent ancestor than the one that they share with lizards.
@@ -607,10 +607,10 @@ Appa was still holding the jar lid of rice. He looked at it. Then he tipped it o
 
 ## Quiz
 1. (mcq) A bird has a flat, wide beak with edges like a comb. How does she feed?  
-   Options: She strains food from water / She cracks hard nuts / She tears meat / She drinks nectar  
+   Options: She cracks hard nuts / She strains food from water / She tears meat / She drinks nectar  
    **Answer:** She strains food from water. *Why:* The comb-like edges let water out and keep small food in. Ducks feed this way.
 2. (mcq) Why can a sparrow crack a seed that a godwit cannot?  
-   Options: Her beak tip is close to the hinge / Her beak is more pointed / She is always hungrier / A godwit has no jaw muscles  
+   Options: Her beak is more pointed / She is always hungrier / A godwit has no jaw muscles / Her beak tip is close to the hinge  
    **Answer:** Her beak tip is close to the hinge. *Why:* A short beak keeps the tip near the hinge, where the bite is strong. The tip of a godwit's long beak is far from the hinge.
 3. (mcq) In the Beak Lever Test, where did the scissor blades open widest?  
    Options: At the tips / Near the hinge / In the middle / The same everywhere  
@@ -622,24 +622,24 @@ Appa was still holding the jar lid of rice. He looked at it. Then he tipped it o
    Options: To spread her weight on floating leaves / To swim faster / To grip live prey / To dig nest holes  
    **Answer:** To spread her weight on floating leaves. *Why:* Long toes spread her weight over a wide area, so a floating leaf can hold her up.
 6. (mcq) Why does a baya weaver hang the nest from a thin branch tip?  
-   Options: Snakes cannot easily reach it / The eggs get more sun / It needs less grass / Rain cannot wet it  
+   Options: The eggs get more sun / It needs less grass / Rain cannot wet it / Snakes cannot easily reach it  
    **Answer:** Snakes cannot easily reach it. *Why:* A thin tip will not hold a climbing hunter, and the entrance points down. The nest answers the danger of that place.
 7. (truefalse) Every kind of bird builds a nest of their own.  
    **Answer:** False. *Why:* False. A koel lays her egg in a crow's nest, and a lapwing lays on almost bare ground.
 8. (mcq) Why do godwits spend the winter in India?  
-   Options: Northern mud freezes, and Indian mud stays soft / India has no hunters / They come here to lay eggs / They follow the monsoon rain  
+   Options: India has no hunters / They come here to lay eggs / They follow the monsoon rain / Northern mud freezes, and Indian mud stays soft  
    **Answer:** Northern mud freezes, and Indian mud stays soft. *Why:* A godwit feeds by probing mud. When the northern ground freezes, the food is locked away, so she flies to soft mud.
 9. (mcq) Which of these birds is a winter visitor to India?  
-   Options: Bar-headed goose / House crow / Common myna / Rose-ringed parakeet  
+   Options: House crow / Bar-headed goose / Common myna / Rose-ringed parakeet  
    **Answer:** Bar-headed goose. *Why:* Bar-headed geese nest in Mongolia and Tibet and fly to India for the winter. Crows, mynas and parakeets live here all year.
 10. (mcq) Which group of dinosaurs do birds belong to?  
-   Options: Theropods, who walked on two legs / Long-necked plant-eaters / Horned plant-eaters / Armoured plant-eaters  
+   Options: Long-necked plant-eaters / Horned plant-eaters / Armoured plant-eaters / Theropods, who walked on two legs  
    **Answer:** Theropods, who walked on two legs. *Why:* Theropods had hollow bones, three main toes and a wishbone. Small feathered theropods were the ancestors of birds.
 11. (mcq) A fossil found in 1996 showed a small dinosaur with a coat of feathers. Why did that matter?  
-   Options: It was strong evidence that birds are dinosaurs / It proved all dinosaurs could fly / It showed dinosaurs were mammals / It showed feathers are scales  
+   Options: It proved all dinosaurs could fly / It showed dinosaurs were mammals / It was strong evidence that birds are dinosaurs / It showed feathers are scales  
    **Answer:** It was strong evidence that birds are dinosaurs. *Why:* Before 1996, feathers were known only on birds. A feathered dinosaur who could not fly tied the two groups together.
 12. (mcq) After a drought, finches had deeper beaks on average. What had changed?  
-   Options: Which finches lived and bred / Each finch's own beak / The size of the island / The colour of the seeds  
+   Options: Each finch's own beak / The size of the island / The colour of the seeds / Which finches lived and bred  
    **Answer:** Which finches lived and bred. *Why:* Natural selection changes the mix of individuals in a group. No finch's own beak grew deeper.
 
 ## Applications
@@ -712,6 +712,13 @@ Fast Lives, Slow Lives (sci.animals.L4): Topic-level song
 ## Things to buy
 - [Birds of the Indian Subcontinent, a field guide by Richard Grimmett, Carol Inskipp and Tim Inskipp](https://www.amazon.in/s?k=Birds+of+the+Indian+Subcontinent+Grimmett) (book): Clear paintings of every Indian bird, so a child can compare beaks and feet. A library copy or the free Merlin app does the same job. Used in a1, g1. After Beak and Feet Watch, find your bird in the guide. Then find one bird with a very different beak.
 - [The Beak of the Finch, a book by Jonathan Weiner (1994)](https://www.amazon.in/s?k=The+Beak+of+the+Finch+Jonathan+Weiner) (book): For the parent or an older child: the story of the Grants' finch study, told for general readers. Used in e1. After the Beak Lever Test, a parent can read aloud a few pages about the drought of 1977.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Beak Lever Test: where does a beak bite hardest?. About ₹10 to ₹30. Any school ruler is fine. Used in e1. Get it before The Beak Lever Test: where does a beak bite hardest?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Stick a Nest to a Wall: build with pellets like a swallow. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before Stick a Nest to a Wall: build with pellets like a swallow.
+- [Clean sand (a small bag)](https://www.amazon.in/s?k=play+sand+small+bag) (material): Used in The Frozen Mud Test: can a probing beak find food in frozen ground?. About ₹20 to ₹60. Fine soil sieved from a pot works. Used in e2. Get it before The Frozen Mud Test: can a probing beak find food in frozen ground?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Frozen Mud Test: can a probing beak find food in frozen ground?, Stick a Nest to a Wall: build with pellets like a swallow. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e2, c1. Get it before The Frozen Mud Test: can a probing beak find food in frozen ground?.
+- [Marbles (a few)](https://www.amazon.in/s?k=glass+marbles+pack) (material): Used in Stick a Nest to a Wall: build with pellets like a swallow. About ₹10 to ₹40. Small round stones or dried chana. Used in c1. Get it before Stick a Nest to a Wall: build with pellets like a swallow.
+- [Iron nails or iron filings](https://www.amazon.in/s?k=iron+filings+science) (material): Used in The Beak Lever Test: where does a beak bite hardest?. About ₹20 to ₹80. Short steel nails from a hardware shop. Used in e1. Get it before The Beak Lever Test: where does a beak bite hardest?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Where along a beak is the bite strongest? → Near the hinge, at the back of the mouth.
@@ -730,10 +737,10 @@ Fast Lives, Slow Lives (sci.animals.L4): Topic-level song
 
 ## Sources
 - Founder's notebook for The world of birds: the evolution picture book, whose timeline has dinosaurs from about 230 million years ago, birds from dinosaurs about 150 million years ago, and the dinosaur extinction 66 million years ago. Its introduction says that evolution is a branching tree in which every kind keeps changing. That idea shapes the family tree project and the section on finch beaks.
-- The Combined Class 4 lesson sci-C4-the-world-of-birds was read. From it this unit takes natural selection of beaks (the Grants' finches), birds as living dinosaurs, feathers before flight and migration. Its story, its drought game and its feather, wing and egg activities are not reused. Flight, feathers and eggs are left to sci.forces.flight and sci.animals.animal-life-cycles.
-- The Class 1 unit sci.animals.birds.L1 was read so that nothing repeats. It has the bean count of bird calls, the feather zip, the sunbird straw, the bird café, the window bird book, the tailorbird cradle and the bulbul story. This unit's experiments, games, activities and story are new.
+- The Combined Class 4 lesson sci-C4-the-world-of-birds was read. From it this lesson takes natural selection of beaks (the Grants' finches), birds as living dinosaurs, feathers before flight and migration. Its story, its drought game and its feather, wing and egg activities are not reused. Flight, feathers and eggs are left to sci.forces.flight and sci.animals.animal-life-cycles.
+- The Class 1 unit sci.animals.birds.L1 was read so that nothing repeats. It has the bean count of bird calls, the feather zip, the sunbird straw, the bird café, the window bird book, the tailorbird cradle and the bulbul story. This lesson's experiments, games, activities and story are new.
 - NCERT Class 4, chapter 3, Nature Trail: guessing a bird's food from the beak and claws, and keeping a bird diary. Beak and Feet Watch and the clue card game cover both.
-- Other units were checked for overlap. Mouth Tools Buffet is in sci.animals.animal-bodies.L3 and The Mudflat Buffet is in sci.animal-behaviour.migration.L4, so this unit tests the lever rule of a beak instead of matching tools to foods. Footprint Detective is in sci.evolution.fossils-and-extinction.L2, so footprints are not tested here.
+- Other units were checked for overlap. Mouth Tools Buffet is in sci.animals.animal-bodies.L3 and The Mudflat Buffet is in sci.animal-behaviour.migration.L4, so this lesson tests the lever rule of a beak instead of matching tools to foods. Footprint Detective is in sci.evolution.fossils-and-extinction.L2, so footprints are not tested here.
 - Herrel A., Podos J., Huber S.K., Hendry A.P. (2005). Bite performance and morphology in a population of Darwin's finches: implications for the evolution of beak shape. Functional Ecology 19: 43-48.
 - Boag P.T., Grant P.R. (1981). Intense natural selection in a population of Darwin's finches (Geospizinae) in the Galápagos. Science 214: 82-85.
 - Grant P.R., Grant B.R. (2002). Unpredictable evolution in a 30-year study of Darwin's finches. Science 296: 707-711.

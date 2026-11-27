@@ -1,9 +1,9 @@
 # The immune system: the defence that learns and remembers
 `sci.body.immune-system.L4`
 
-**Summary.** The second time you meet a germ, your body fights it faster than the first time. How does it remember? In this unit you will read a vaccination card, play the Key Shop to see how many random cells it takes to find one that fits, and test how protecting some squares protects all.
+**Summary.** The second time you meet a germ, your body fights it faster than the first time. How does it remember? In this lesson you will read a vaccination card, play the Key Shop to see how many random cells it takes to find one that fits, and test how protecting some squares protects all.
 
-**Intro.** *Most children in India have a small round scar on the top of one arm. It came from one tiny injection when they were babies, and it never went away. Why would an injection from one day in your first weeks still matter now?* That injection was a vaccine. It showed your body a harmless piece of a germ, once, long ago. Your body is still ready for that germ today. You do not remember the injection, but your body has not forgotten the germ. Your body has two defences. One is quick and works the same way every time. The other one learns, and it keeps what it learns for years. In this unit you find out how a body can learn without a teacher, and how doctors found a way to use that.
+**Intro.** *Most children in India have a small round scar on the top of one arm. It came from one tiny injection when they were babies, and it never went away. Why would an injection from one day in your first weeks still matter now?* That injection was a vaccine. It showed your body a harmless piece of a germ, once, long ago. Your body is still ready for that germ today. You do not remember the injection, but your body has not forgotten the germ. Your body has two defences. One is quick and works the same way every time. The other one learns, and it keeps what it learns for years. In this lesson you find out how a body can learn without a teacher, and how doctors found a way to use that.
 
 ## Learning outcomes
 0. I can explain the difference between the quick defence that is the same every time and the defence that learns.
@@ -421,7 +421,7 @@ She never learned what the memory was made of. Neither did Jenner. It took peopl
   *Parent says:* This card lists the vaccines a child has had. Take your time. What do you wonder about it?  
   *Child mode:* Look at the card. Find one thing that surprises you.
   - Ask: What do you notice about the dates and the vaccines? (good: Some vaccines appear again and again.; Most are given when the child is a baby.; There are different dates for the same vaccine.)
-  - Note: Do not explain yet. Let your child notice. Write down what they say. The reasons come later in the unit. Cards differ by state and year. If your child's card is hard to find, ask a clinic.
+  - Note: Do not explain yet. Let your child notice. Write down what they say. The reasons come later in the lesson. Cards differ by state and year. If your child's card is hard to find, ask a clinic.
 - **s2 (5 min)**  
   *Parent does:* Ask your child to point to the vaccines that have more than one date. Count the doses of each. Write the counts on paper. Ask why they think some have more than one dose. Then count every dose on the card from birth to five years old, and write the total.  
   *Parent says:* Point to every vaccine that appears more than once. How many doses does each one have? Why do you think some have more than one?  
@@ -600,7 +600,7 @@ She never learned what the memory was made of. Neither did Jenner. It took peopl
 5. (sort) Sort each one by which defence does it.  
    **Answer:** tears washing out dust → Quick defence; antibodies made after a vaccine → Defence that learns; sticky mucus in the nose → Quick defence; memory cells for measles → Defence that learns; redness around a scrape → Quick defence; a killer T cell finding a virus → Defence that learns. *Why:* The quick defence is always ready and the same for every germ. The defence that learns uses antibodies, T cells and memory.
 6. (mcq) Why does the defence that learns take about a week the first time a germ arrives?  
-   Options: It has to find and multiply the one cell that fits that germ / It waits for the germ to die first / It has to be taught by a doctor  
+   Options: It waits for the germ to die first / It has to be taught by a doctor / It has to find and multiply the one cell that fits that germ  
    **Answer:** It has to find and multiply the one cell that fits that germ. *Why:* The body already holds many cells, but only a few fit a new germ. Those few must divide until there are enough to fight. That takes days. Memory cells make it faster next time.
 7. (truefalse) An antibody against measles will also stick to a flu virus.  
    **Answer:** False. *Why:* False. An antibody fits one shape. A measles antibody does not fit a flu virus, so a different antibody is needed.
@@ -609,7 +609,7 @@ She never learned what the memory was made of. Neither did Jenner. It took peopl
 9. (order) Put these in order, for what happens when a germ meets a body for the first time.  
    **Answer:** ['A germ arrives', 'The germ meets the one B cell whose antibody fits', 'That B cell splits into many copies', 'The copies make lots of antibodies', 'A few cells stay behind as memory cells']. *Why:* The germ comes first. It picks a matching cell. That cell copies itself, the copies fight, and a few remain as memory.
 10. (mcq) What does a vaccine do?  
-   Options: It shows the body a safe version of a germ, so memory cells are made before the real germ arrives / It kills every germ in the body for ever / It gives the body the antibodies ready-made, to use up  
+   Options: It kills every germ in the body for ever / It gives the body the antibodies ready-made, to use up / It shows the body a safe version of a germ, so memory cells are made before the real germ arrives  
    **Answer:** It shows the body a safe version of a germ, so memory cells are made before the real germ arrives. *Why:* A vaccine does the slow first lesson in a safe way. B cells and T cells find the safe version, multiply, and leave memory cells behind.
 11. (count) A vaccination card shows polio drops 3 times, measles and rubella 2 times and one booster. How many doses are there in all?  
    **Answer:** 6. *Why:* 3 plus 2 plus 1 is 6. Some vaccines are given in more than one dose so the memory is stronger.
@@ -620,7 +620,7 @@ She never learned what the memory was made of. Neither did Jenner. It took peopl
 14. (perspective) A family is not sure about taking a child for a vaccine.  
    **Answer:** Any view with a reason is fine. A strong answer asks real questions, such as what is in the vaccine, how safe it is, and what the illness can do.. *Why:* Vaccines are one place where evidence and fear meet. A good decision uses the evidence and also listens to the worry.
 15. (mcq) A child has a sore arm and a mild fever the day after a vaccine. What is the best explanation?  
-   Options: The immune system is responding, which is expected / The vaccine has given the child the illness / The vaccine has failed  
+   Options: The vaccine has given the child the illness / The immune system is responding, which is expected / The vaccine has failed  
    **Answer:** The immune system is responding, which is expected. *Why:* A sore arm or a low fever shows the immune system at work. It is usually mild and short. A high fever, trouble breathing or a rash needs a doctor.
 16. (truefalse) A fever after a vaccine always means something has gone wrong.  
    **Answer:** False. *Why:* False. A mild fever can be the immune system at work. A fever that is high or that lasts needs a doctor.
@@ -629,7 +629,7 @@ She never learned what the memory was made of. Neither did Jenner. It took peopl
    Options: One kind / As many as there are germs / Three kinds  
    **Answer:** One kind. *Why:* Each B cell makes only one kind of antibody. That is why the body needs millions of different B cells, each ready for a different shape.
 2. (mcq) Why does the body need killer T cells as well as antibodies?  
-   Options: Viruses hide inside body cells, where antibodies cannot reach / Antibodies are too slow / Killer T cells make antibodies  
+   Options: Antibodies are too slow / Killer T cells make antibodies / Viruses hide inside body cells, where antibodies cannot reach  
    **Answer:** Viruses hide inside body cells, where antibodies cannot reach. *Why:* Antibodies work on germs floating outside cells. A virus inside a cell is out of their reach. Killer T cells find and destroy the cell with the virus hidden in it.
 3. (fill) The fluid that drains from your tissues, flows through the nodes and returns to your blood is called ____.  
    **Answer:** ['lymph']. *Why:* Lymph carries bits of whatever is in the tissues, including germ pieces, through lymph nodes. In the nodes, immune cells can meet them.
@@ -666,7 +666,7 @@ She never learned what the memory was made of. Neither did Jenner. It took peopl
    Options: The germ picks a ready-made cell and does not shape the antibody / The germ shapes the antibody like clay around a coin / Antibodies are not made by cells  
    **Answer:** The germ picks a ready-made cell and does not shape the antibody. *Why:* If a cell already makes one fixed kind before any germ arrives, the germ cannot have shaped it. The germ can only find the cell that fits.
 2. (mcq) A child tests shields in a grid town but chooses the places herself. What is the problem with her test?  
-   Options: She might choose places that block the germ well, so the number of shields is not the only change / Choosing is always more fair than drawing / Shields do not matter in a grid  
+   Options: Choosing is always more fair than drawing / Shields do not matter in a grid / She might choose places that block the germ well, so the number of shields is not the only change  
    **Answer:** She might choose places that block the germ well, so the number of shields is not the only change. *Why:* A fair test changes only one thing. If she picks smart places, then the places and the number both change. Drawing from a bowl keeps the places random.
 3. (write) The first vaccine test was done on a healthy eight-year-old boy, and then he was exposed to smallpox. Why would this not be allowed today? Describe how a careful test would be done instead.  
    **Answer:** Today we do not deliberately expose healthy children to a deadly illness. A careful test would first be done in a lab and then on small groups of adults who agree, with doctors watching and the right to leave. Then it would be tested on larger groups, always with checks and agreement.. *Why:* A strong answer names consent and safety, and describes testing in steps from small to large. Jenner did not know how to do this, and the world has learned since.
@@ -689,7 +689,7 @@ She never learned what the memory was made of. Neither did Jenner. It took peopl
 12. (draw) Draw a town where most houses have a shield and a few do not. Show the germ's path stopping at the shields.  
    **Answer:** A grid of houses, most with shield marks, a few without, and arrows showing the germ spreading from one sick house and stopping at the shields.. *Why:* A strong drawing shows unshielded houses surrounded by shields, with no arrow reaching them.
 13. (mcq) In the Spread and Shield test, one group had 16 shields but 9 sick squares. Which is the best next step?  
-   Options: Run the town again several times, since chance can change one result / Decide that shields do not work / Choose the shield squares by hand next time  
+   Options: Decide that shields do not work / Run the town again several times, since chance can change one result / Choose the shield squares by hand next time  
    **Answer:** Run the town again several times, since chance can change one result. *Why:* Dice are random, so one run can be unusual. Repeating the town and adding up the results shows the pattern. Choosing squares by hand would stop the test being fair.
 14. (order) Put these in order, for what happens the second time a known germ arrives.  
    **Answer:** ['The germ arrives', 'Memory cells meet the germ', 'Memory cells multiply very fast', 'Antibodies appear within two to four days', 'The germ is stopped before illness']. *Why:* Memory cells are already waiting, so they act at once. This is much faster than the first meeting, when the matching cell had to be found.
@@ -699,25 +699,25 @@ She never learned what the memory was made of. Neither did Jenner. It took peopl
    **Answer:** More than 200 different viruses cause colds, so one vaccine would have to fit many shapes. Cold viruses also change over time, so the memory would fit less well.. *Why:* A strong answer names the number of different viruses and their changing shapes. Both make a single memory hard to use.
 
 ## Videos
-- **The Immune System Explained I: Bacteria Infection** (Kurzgesagt: In a Nutshell, 7 min) id `zQGOcOUBi6s`: A clear animation of a bacterium getting in and the body answering. Watch the second half for antibodies and the cells that learn, which is the topic of this unit. Parents should watch first, because it shows the body's defence as a battle. *Check:* The id is the same film as in the Class 3 unit. Check that it still plays. The battle pictures suit most children.
+- **The Immune System Explained I: Bacteria Infection** (Kurzgesagt: In a Nutshell, 7 min) id `zQGOcOUBi6s`: A clear animation of a bacterium getting in and the body answering. Watch the second half for antibodies and the cells that learn, which is the idea of this lesson. Parents should watch first, because it shows the body's defence as a battle. *Check:* The id is the same film as in the Class 3 unit. Check that it still plays. The battle pictures suit most children.
 - **Why Do We Get Vaccines?** (SciShow Kids, 5 min) id `5SproXmRUkI`: To see a vaccine showing the body a safe piece of a germ, and memory cells being made. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 - **How we conquered the deadly smallpox virus - Simona Zompi** (TED-Ed, 5 min) id `yqUFy-t4MlQ`: To see the real campaign that ended smallpox, with the teams that went from village to village. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) Which is true of the quick defence?  
-   Options: It acts within minutes or hours, and in much the same way against most germs / It makes a different antibody for each germ / It remembers a germ for years  
+   Options: It makes a different antibody for each germ / It remembers a germ for years / It acts within minutes or hours, and in much the same way against most germs  
    **Answer:** It acts within minutes or hours, and in much the same way against most germs. *Why:* The quick defence is always ready and does not tell germs apart well. Antibodies and memory belong to the defence that learns.
 2. (mcq) Why does an antibody for one germ not work against a different germ?  
-   Options: Its shape fits one antigen only, like a key in one lock / Antibodies are too slow / Different germs do not have shapes  
+   Options: Antibodies are too slow / Its shape fits one antigen only, like a key in one lock / Different germs do not have shapes  
    **Answer:** Its shape fits one antigen only, like a key in one lock. *Why:* An antibody's tip fits one shape. A different germ has a different shape, so a different antibody is needed.
 3. (mcq) In the Key Shop test, you made random cells by flipping coins. The average number of cells you needed rose when each code had more flips. What does this show about a body's defender cells?  
-   Options: The more shapes are possible, the more random cells are needed to find a match / More flips make the germ weaker / A matching cell is always found on the first try  
+   Options: More flips make the germ weaker / A matching cell is always found on the first try / The more shapes are possible, the more random cells are needed to find a match  
    **Answer:** The more shapes are possible, the more random cells are needed to find a match. *Why:* More flips mean more possible shapes, and the matching one is rarer. A real body deals with this by making huge numbers of cells with many different shapes.
 4. (mcq) A child meets measles for the second time. Why is she far less likely to get ill than the first time?  
    Options: Memory cells recognise the germ and act within days / The germ gets weaker each time / Her skin has become thicker  
    **Answer:** Memory cells recognise the germ and act within days. *Why:* After the first meeting, memory cells stay. When the germ returns they multiply and make antibodies very fast, before the germ can make her ill.
 5. (mcq) What does a vaccine do for a child who has never met the real germ?  
-   Options: It starts the slow first lesson safely, so memory cells are ready / It gives the child the full illness in a mild form / It makes the skin harder for germs to pass  
+   Options: It gives the child the full illness in a mild form / It makes the skin harder for germs to pass / It starts the slow first lesson safely, so memory cells are ready  
    **Answer:** It starts the slow first lesson safely, so memory cells are ready. *Why:* A vaccine shows the immune system a safe version of the germ. The matching cells multiply, and memory cells stay for later.
 6. (mcq) Why might a child need a booster dose of a vaccine?  
    Options: The memory can fade over time, and an extra dose strengthens it / The first dose was a mistake / A booster makes the vaccine cheaper  
@@ -725,10 +725,10 @@ She never learned what the memory was made of. Neither did Jenner. It took peopl
 7. (truefalse) When most people in a town are protected, even a few people who are not protected are safer.  
    **Answer:** True. *Why:* True. The germ has fewer paths to reach them. This is herd protection.
 8. (mcq) What is an allergy?  
-   Options: The immune system reacts strongly to something harmless, such as pollen / A germ that lives in the nose / A kind of vaccine  
+   Options: A germ that lives in the nose / A kind of vaccine / The immune system reacts strongly to something harmless, such as pollen  
    **Answer:** The immune system reacts strongly to something harmless, such as pollen. *Why:* In an allergy, the defence treats a harmless thing as if it were a germ. That causes sneezing, itching or a rash.
 9. (mcq) Why can a person catch a cold many times in a life, even though the body has memory cells?  
-   Options: Many different viruses cause colds, so memory for one does not fit the next / Memory cells only last a week / Colds are not caused by germs  
+   Options: Memory cells only last a week / Colds are not caused by germs / Many different viruses cause colds, so memory for one does not fit the next  
    **Answer:** Many different viruses cause colds, so memory for one does not fit the next. *Why:* More than 200 different viruses cause colds. Memory for one does not fit another. Chickenpox is one virus, so memory helps for life.
 10. (mcq) How does a body get an antibody for a germ it has never met before?  
    Options: It already holds many B cells with different shapes, and one of them fits / It copies the shape of the germ at once / A doctor adds the antibody to the blood  
@@ -806,12 +806,17 @@ This Body Is a Universe (sci.body.L4): Topic-level song
 - [National Science Centre](https://www.nscdelhi.org) · place · New Delhi: A science centre with many hands-on galleries. Look for exhibits about the body and health.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A big science museum. Look for exhibits about living things and the body.
 - [Birla Industrial and Technological Museum](https://www.bitm.gov.in) · place · Kolkata: A science museum with galleries for children. Ask about exhibits on health and the body.
-- [Your nearest clinic or health centre]() · place · Your nearest clinic: Ask a nurse to show your child a vaccine carrier, and to explain the vaccination card and when each dose is due.
+- Your nearest clinic or health centre · place · Your nearest clinic: Ask a nurse to show your child a vaccine carrier, and to explain the vaccination card and when each dose is due.
 
 ## Things to buy
 - [A pack of six dice](https://www.amazon.in/s?k=dice+set+six+sided) (material): For Spread and Shield and Shield the Town. A die from Ludo or Snakes and Ladders works, so you may not need to buy any. More dice make the games faster with friends. Used in e2, g2. 
 - [Digital kitchen thermometer (optional)](https://www.amazon.in/s?k=digital+kitchen+thermometer) (tool): Optional, for the cold box challenge. You can do it by touch. A fever thermometer cannot read cold temperatures, so it will not work here. A kitchen thermometer that reads down to 0 degrees is best. Used in c1. 
 - [A children's book about the immune system or vaccines](https://www.amazon.in/s?k=children+book+immune+system+vaccines) (book): To read together after the unit. Choose one that explains antibodies and memory in plain words, and read it first yourself. Used in a1. Read it after the explanation cards. Stop at each picture and ask your child to say what is happening, before reading the words.
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in Faster the second time: the word puzzle model. About ₹150 to ₹400. A phone stopwatch works well. Used in a2. Get it before Faster the second time: the word puzzle model.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Spread and Shield: does protecting some squares protect all?, Paper keys and a changing germ, The long fight against smallpox: a timeline poster. About ₹10 to ₹30. Any school ruler is fine. Used in e2, a5, p1, c2. Get it before Spread and Shield: does protecting some squares protect all?.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in Find your lymph nodes. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in a3. Get it before Find your lymph nodes.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The long fight against smallpox: a timeline poster. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in p1. Get it before The long fight against smallpox: a timeline poster.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Which defence is quick and the same for most germs, and which one learns? → The innate defence is quick. The adaptive defence learns.
@@ -831,11 +836,11 @@ This Body Is a Universe (sci.body.L4): Topic-level song
 - Core: a1, e1, g1, e2, a2, ws-core
 
 ## Sources
-- DeepKids notebook items bio:26 (Immune system) and bio:240 to bio:246 (innate immunity, adaptive immunity, vaccines and memory, autoimmunity, immunodeficiency). This unit takes adaptive immunity, vaccines and memory, with a short look at allergy and misfiring; the rest is left for Class 5.
+- DeepKids notebook items bio:26 (Immune system) and bio:240 to bio:246 (innate immunity, adaptive immunity, vaccines and memory, autoimmunity, immunodeficiency). This lesson takes adaptive immunity, vaccines and memory, with a short look at allergy and misfiring; the rest is left for Class 5.
 - ideas/by_topic/health-hygiene-exercise-and-illness.md: SCI Cards for Gagandeep Kang (vaccines tested in the place they will be used), Charaka (disease has causes that can be studied) and Sunetra Gupta (flu viruses change their shape to slip past memory).
 - ideas/by_topic/microorganisms.md: SCI Cards for Katalin Karikó (mRNA vaccines), Emmanuelle Charpentier and Jennifer Doudna, and the note that bacteria have their own immune system, which is used in the Roots card.
 - Combined lessons sci-C4-health-hygiene-exercise-and-illness and sci-C3-health-hygiene-exercise-and-illness: the idea of self and not-self and the germ tag game, adapted here into the Shield the Town game. Their stories were not reused.
-- The Class 3 unit sci.body.immune-system.L3, which this unit builds on. Its experiments and story were not repeated.
+- The Class 3 unit sci.body.immune-system.L3, which this lesson builds on. Its experiments and story were not repeated.
 - Edward Jenner, An Inquiry into the Causes and Effects of the Variolae Vaccinae (1798): the account of Sarah Nelmes, Blossom the cow and James Phipps, and the date 14 May 1796.
 - Derrick Baxby, Jenner's Smallpox Vaccine: the Riddle of Vaccinia Virus and its Origin (1981): background on Jenner's work and earlier cowpox protection, including Benjamin Jesty in 1774.
 - Isobel Grundy, Lady Mary Wortley Montagu: Comet of the Enlightenment (1999): Lady Mary and variolation in Constantinople and London.

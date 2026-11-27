@@ -126,6 +126,10 @@
     {
      "who": "Many child health scientists, such as the team behind the WHO growth study",
      "explanation": "Healthy, well-fed babies in very different countries grow almost the same. So when many children in one place are short, the main reason is food, illness and dirty water, not their families."
+    },
+    {
+     "who": "Rita Levi-Montalcini (1909–2012), Italy and the USA",
+     "explanation": "When Mussolini's 1938 racial laws barred Jewish scientists from universities, Levi-Montalcini set up a laboratory in her bedroom and studied how nerves grow in chick embryos, using sewing needles as tools. Later, in the USA in the 1950s, she and Stanley Cohen discovered nerve growth factor, a chemical messenger that tells nerve cells to grow and where to go. Many scientists doubted for years that one chemical could guide growth, but she and Cohen shared the Nobel Prize in 1986."
     }
    ],
    "art": "A plate of rice, sambar, a boiled egg and greens, a child sleeping, and a mother and daughter standing back to back to compare height."
@@ -411,11 +415,11 @@
       "t": "mcq",
       "q": "You are measured at bedtime and again the next morning. What usually happens?",
       "options": [
-       "You are a little taller in the morning",
        "You are a little taller at bedtime",
+       "You are a little taller in the morning",
        "You are always exactly the same"
       ],
-      "a": 0,
+      "a": 1,
       "why": "At night you lie flat, and the soft discs in your backbone fill up again. So you are a little taller in the morning. If you picked bedtime, look at your own blue and red lines again."
      }
     }
@@ -540,11 +544,11 @@
       "t": "mcq",
       "q": "You measure the arm span and the height of everyone in a family. What will you most likely find?",
       "options": [
-       "Arm span and height are close for most people",
        "Arm span is always twice the height",
-       "Arm span is always much shorter than height"
+       "Arm span is always much shorter than height",
+       "Arm span and height are close for most people"
       ],
-      "a": 0,
+      "a": 2,
       "why": "For most people, arm span and height are within a few centimetres of each other. Your own strings show this."
      }
     }
@@ -622,11 +626,11 @@
       "t": "mcq",
       "q": "A girl of 7 tries on a frock she wore when she was 4. The sleeves stop above her wrists. What does this show?",
       "options": [
-       "Her arms have grown longer",
        "The frock has shrunk in the wash",
-       "Her arms are the same, but her hands grew"
+       "Her arms are the same, but her hands grew",
+       "Her arms have grown longer"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The sleeves stop above her wrists because her arms grew longer. Clothes are a record of how big we were."
      }
     }
@@ -960,10 +964,10 @@
       "q": "Which of these people is still growing taller?",
       "options": [
        "A woman of 35",
-       "A girl of 9",
-       "A man of 50"
+       "A man of 50",
+       "A girl of 9"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Children and teenagers are still growing taller. Adults have stopped, so the woman of 35 and the man of 50 stay the same height."
      }
     }
@@ -1320,11 +1324,11 @@
      "t": "mcq",
      "p": "You want to see if you have grown since last month. When should you measure yourself?",
      "opts": [
-      "At the same time of day as last month",
       "Any time at all",
+      "At the same time of day as last month",
       "Only after playing outside"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Height changes during the day. Measuring at the same time each time is fair, so only real growth shows."
     },
     {
@@ -1536,11 +1540,11 @@
      "t": "mcq",
      "p": "In the WHO growth study, well-fed, healthy babies in India, Ghana, Brazil and Norway were measured. What did the scientists find?",
      "opts": [
-      "They grew almost the same",
       "Indian babies always grew much less",
+      "They grew almost the same",
       "Norwegian babies always grew much less"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Healthy babies with good food and care grew almost the same in all six countries. So food and health matter a lot."
     },
     {
@@ -1671,11 +1675,11 @@
    "t": "mcq",
    "p": "Which life stage comes right after toddler?",
    "opts": [
-    "Child",
     "Teenager",
+    "Child",
     "Baby"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The stages go baby, toddler, child, teenager, adult, older adult.",
    "outcome": 0
   },
@@ -1683,11 +1687,11 @@
    "t": "mcq",
    "p": "When do people grow fastest after they are born?",
    "opts": [
-    "In their first year",
     "When they are about 7",
-    "When they are adults"
+    "When they are adults",
+    "In their first year"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A baby grows about 25 centimetres in the first year. That is the fastest growing after birth.",
    "outcome": 2
   },
@@ -1695,11 +1699,11 @@
    "t": "mcq",
    "p": "About how much does a child of 7 grow in one year?",
    "opts": [
-    "About 5 or 6 centimetres",
     "About 50 centimetres",
+    "About 5 or 6 centimetres",
     "Nothing at all"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Children grow slowly and steadily, about 5 or 6 centimetres a year. 50 centimetres is the length of a newborn.",
    "outcome": 2
   },
@@ -1719,11 +1723,11 @@
    "t": "mcq",
    "p": "What are the soft pads between the bones of your backbone called?",
    "opts": [
-    "Discs",
     "Muscles",
-    "Teeth"
+    "Teeth",
+    "Discs"
    ],
-   "a": 0,
+   "a": 2,
    "why": "They are called discs. They squash a little in the day and fill up at night.",
    "outcome": 3
   },
@@ -1731,11 +1735,11 @@
    "t": "mcq",
    "p": "You measure yourself every month. What makes your measuring fair?",
    "opts": [
-    "The same wall, the same book, the same time of day, heels down",
     "A different wall each month",
+    "The same wall, the same book, the same time of day, heels down",
     "Standing on tiptoes"
    ],
-   "a": 0,
+   "a": 1,
    "why": "If everything else stays the same, only real growing can change the line.",
    "outcome": 1
   },
@@ -1743,11 +1747,11 @@
    "t": "mcq",
    "p": "Why do we measure three times, not once?",
    "opts": [
-    "One try can be a little wrong",
     "Three is a lucky number",
-    "To make the line darker"
+    "To make the line darker",
+    "One try can be a little wrong"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Small changes in standing or holding the book make tiny mistakes. Three tries show the real height better.",
    "outcome": 1
   },
@@ -1780,11 +1784,11 @@
    "t": "mcq",
    "p": "A newborn is about 50 centimetres long. A girl of 7 is about 120 centimetres. Is the girl more than twice as long as the newborn?",
    "opts": [
-    "Yes, two newborns make 100, and she is 120",
     "No, she is less than twice as long",
-    "They are the same"
+    "They are the same",
+    "Yes, two newborns make 100, and she is 120"
    ],
-   "a": 0,
+   "a": 2,
    "why": "50 and 50 make 100. 120 is more than 100, so she is more than twice as long.",
    "outcome": 5
   }
@@ -1919,7 +1923,84 @@
    "why": "For the parent: the growth charts that anganwadis and doctors in India use, made from the study of healthy babies in six countries."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in Arms Out: is your arm span the same as your height?, My Growing Chart: measure three times, a month apart, Measure the Wriggler: a fair way to measure someone lying down. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "e2",
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before Arms Out: is your arm span the same as your height?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Bedtime Tall, Morning Tall: are you taller when you wake up?, Arms Out: is your arm span the same as your height?, Feet in a Row: is the oldest foot the biggest?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e2",
+    "a2",
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before Bedtime Tall, Morning Tall: are you taller when you wake up?."
+  },
+  {
+   "id": "b-paper-masking-tape",
+   "item": "Paper masking tape",
+   "kind": "material",
+   "why": "Used in Bedtime Tall, Morning Tall: are you taller when you wake up?. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor.",
+   "url": "https://www.amazon.in/s?k=paper+masking+tape",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before Bedtime Tall, Morning Tall: are you taller when you wake up?."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in My Growing Chart: measure three times, a month apart. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before My Growing Chart: measure three times, a month apart."
+  },
+  {
+   "id": "b-a-kitchen-or-weighing-scale",
+   "item": "A kitchen or weighing scale",
+   "kind": "tool",
+   "why": "Used in As Heavy as a Newborn: the atta packet baby. About ₹300 to ₹700. A home-made balance from a ruler and two cups can compare weights.",
+   "url": "https://www.amazon.in/s?k=digital+kitchen+weighing+scale",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before As Heavy as a Newborn: the atta packet baby."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "About how long is a newborn baby?",

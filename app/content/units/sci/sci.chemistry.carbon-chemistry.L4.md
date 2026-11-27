@@ -1,9 +1,9 @@
 # Carbon: how one kind of atom builds sugar, fuel, plastic and living things
 `sci.chemistry.carbon-chemistry.L4`
 
-**Summary.** Heat a piece of sugar, bread or wax and it turns black. What is the black stuff? In this unit you will heat kitchen things to see which hold carbon, compare glucose, cornflour and cotton, and put carbon chains in order from cooking gas to candle wax.
+**Summary.** Heat a piece of sugar, bread or wax and it turns black. What is the black stuff? In this lesson you will heat kitchen things to see which hold carbon, compare glucose, cornflour and cotton, and put carbon chains in order from cooking gas to candle wax.
 
-**Intro.** *Sugar is white, and a cotton thread is white. Heat either one on a hot tawa and it turns black. Where does the black come from?* Many things go black when they get too hot: a forgotten dosa, a roti left on the flame, milk that boils dry. Salt never does. In this unit you find out what the black solid is and why only some things leave it. You heat eight kitchen things side by side. You build molecules on paper with atoms that make one, two or four bonds. You also test glucose, cornflour and cotton, which are three materials built from one and the same ring of atoms.
+**Intro.** *Sugar is white, and a cotton thread is white. Heat either one on a hot tawa and it turns black. Where does the black come from?* Many things go black when they get too hot: a forgotten dosa, a roti left on the flame, milk that boils dry. Salt never does. In this lesson you find out what the black solid is and why only some things leave it. You heat eight kitchen things side by side. You build molecules on paper with atoms that make one, two or four bonds. You also test glucose, cornflour and cotton, which are three materials built from one and the same ring of atoms.
 
 ## Learning outcomes
 0. I can say that carbon is an element, and that each carbon atom makes four bonds.
@@ -134,7 +134,7 @@ Every living being found so far is built on carbon. Scientists have asked whethe
   Against: Silicon chains break easily and form far fewer shapes. Even on the Earth, with all that silicon, life chose carbon. No silicon life has been found.
 
 ## Roots
-In this unit you found carbon inside sugar, cotton, paper, wood, fuel and plastic. Here we ask what it means that one kind of atom is the frame of so many things, including you.
+In this lesson you found carbon inside sugar, cotton, paper, wood, fuel and plastic. Here we ask what it means that one kind of atom is the frame of so many things, including you.
 
 **Deep truth.** In The Black Inside, sugar, atta, cotton thread and paper each left a black solid when heated. That black solid is mostly carbon. Each carbon atom makes four bonds, so carbon atoms join into long chains and rings. That is why one element can be the frame of food, cloth, fuel and every living body.  
 *Habit it breaks:* We treat food, cloth, fuel, plastic and living bodies as different kinds of matter. They share one frame, which is carbon atoms joined in chains and rings. What differs is the pattern of the joins.  
@@ -529,7 +529,7 @@ At breakfast, Kathir's dosa came off the tawa with one black edge. He held it up
 8. (fill) Rice, potato and cornflour are mostly ____, a long chain of glucose rings.  
    **Answer:** ['starch']. *Why:* Plants join glucose rings into starch and pack the starch away as a food store.
 9. (mcq) Which of these is built from glucose rings joined in long, straight chains?  
-   Options: Cotton / Salt / Steel / Glass  
+   Options: Salt / Steel / Cotton / Glass  
    **Answer:** Cotton. *Why:* Cotton is mostly cellulose. Each cellulose molecule is a straight chain of thousands of glucose rings.
 10. (order) Put these in order, from the shortest carbon chain to the longest.  
    **Answer:** ['Methane', 'Butane', 'Octane', 'Candle wax', 'Polythene']. *Why:* Methane has 1 carbon atom, butane 4, octane 8, wax about 25 and polythene many thousands.
@@ -542,14 +542,14 @@ At breakfast, Kathir's dosa came off the tawa with one black edge. He held it up
 14. (perspective) Is a plastic bottle 'unnatural'?  
    **Answer:** Any view with a reason from the unit. One reason is that plastic and wood share a carbon frame. Another is that microbes have enzymes for wood but almost none for plastic.. *Why:* Each view has something right in it. A strong answer uses a fact about carbon chains or about microbes, and answers another view fairly.
 15. (mcq) Where does a plant get the carbon to build wood?  
-   Options: From carbon dioxide in the air / From the soil / From water / From sunlight  
+   Options: From the soil / From water / From sunlight / From carbon dioxide in the air  
    **Answer:** From carbon dioxide in the air. *Why:* A leaf takes carbon dioxide from the air and joins the carbon into glucose. Sunlight gives the energy, but light is not a material.
 ### Chains, rings and reasons (stretch, 15 questions)
 1. (mcq) An atom makes only one bond. What is the biggest molecule that such atoms can build alone?  
-   Options: A pair of two atoms / A chain of three / A ring of six / A chain of any length  
+   Options: A chain of three / A ring of six / A chain of any length / A pair of two atoms  
    **Answer:** A pair of two atoms. *Why:* Once two one-bond atoms join, neither has a bond left for a third. Hydrogen gas is made of such pairs.
 2. (mcq) A carbon atom in the middle of a chain has two bonds left. What can they hold?  
-   Options: Hydrogen atoms or a branch / Nothing at all / Only another chain end / Only oxygen atoms  
+   Options: Nothing at all / Only another chain end / Hydrogen atoms or a branch / Only oxygen atoms  
    **Answer:** Hydrogen atoms or a branch. *Why:* Each spare bond can hold a hydrogen atom, or it can hold another carbon atom and start a branch.
 3. (truefalse) Baking soda holds carbon, so it turns black on a hot tawa.  
    **Answer:** False. *Why:* False. Each carbon atom in baking soda sits alone, held by oxygen atoms. When heated, it leaves as carbon dioxide gas. A black solid needs carbon atoms joined to each other.
@@ -577,20 +577,20 @@ At breakfast, Kathir's dosa came off the tawa with one black edge. He held it up
 14. (perspective) Should a food packet be allowed to say 'chemical-free'?  
    **Answer:** Any view with a reason. A strong answer notices that the word 'chemical' is used with two meanings. It may suggest a clearer label.. *Why:* This is a real disagreement about words. A strong answer separates what is true in chemistry from what the customer wants to know.
 15. (mcq) Fuel gas from a cylinder burns. What becomes of its carbon atoms?  
-   Options: They join oxygen as carbon dioxide / They vanish / They turn into heat / They stay in the burner  
+   Options: They vanish / They turn into heat / They stay in the burner / They join oxygen as carbon dioxide  
    **Answer:** They join oxygen as carbon dioxide. *Why:* Atoms are never lost. Each carbon atom joins with oxygen and leaves as carbon dioxide gas. The heat comes from the new bonds forming.
 ### Carbon, from stars to plastic (challenge, 15 questions)
 1. (mcq) In 1828 Friedrich Wöhler made urea from a mineral salt. Which idea did this test?  
-   Options: That only living bodies make such substances / That carbon makes four bonds / That urea is an element / That salt holds carbon  
+   Options: That carbon makes four bonds / That urea is an element / That salt holds carbon / That only living bodies make such substances  
    **Answer:** That only living bodies make such substances. *Why:* Chemists thought a life force was needed. Wöhler made a substance of the body from a mineral, with no living thing involved.
 2. (mcq) A diamond is burnt in pure oxygen. Only carbon dioxide forms. What does this show?  
-   Options: Diamond is pure carbon / Diamond holds water / Diamond is a kind of glass / Oxygen is made of carbon  
+   Options: Diamond holds water / Diamond is pure carbon / Diamond is a kind of glass / Oxygen is made of carbon  
    **Answer:** Diamond is pure carbon. *Why:* Carbon dioxide holds only carbon and oxygen. The oxygen was supplied, so the carbon must have come from the diamond, and nothing else was in it.
 3. (mcq) Silicon atoms also make four bonds. Why is life not built on silicon chains?  
    Options: Silicon chains break easily / Silicon is too rare / Silicon is a gas / Silicon makes only one bond  
    **Answer:** Silicon chains break easily. *Why:* Bonds between silicon atoms are weaker than bonds between carbon atoms. Long silicon chains fall apart in water and air. Silicon is not rare: sand is full of it.
 4. (mcq) Where were the carbon atoms in your body first made?  
-   Options: Inside stars / In the soil / In the sea / In the Sun, this year  
+   Options: In the soil / In the sea / In the Sun, this year / Inside stars  
    **Answer:** Inside stars. *Why:* Old stars press three helium atoms into one carbon atom. Dying stars threw that carbon into space, and the Earth formed from it.
 5. (truefalse) Two substances with exactly the same atoms must behave in exactly the same way.  
    **Answer:** False. *Why:* False. The three liquids made of 5 carbon and 12 hydrogen atoms boil at 36, 28 and 10 degrees. The pattern of the joins matters too.
@@ -611,7 +611,7 @@ At breakfast, Kathir's dosa came off the tawa with one black edge. He held it up
 13. (write) Burning petrol and breathing both put carbon dioxide into the air. Why is the carbon from petrol a bigger problem?  
    **Answer:** The carbon you breathe out was taken from the air by a plant a short time ago. So it only goes round. The carbon in petrol was buried for millions of years. Burning it adds carbon to the air that was not there before.. *Why:* A strong answer separates carbon that goes round quickly from carbon that was locked away for a very long time.
 14. (perspective) Could there be living things built on something other than carbon?  
-   **Answer:** Any view with a reason. A strong answer uses the facts about four bonds and strong chains. It may say that one example is too few to be sure.. *Why:* Nobody knows the answer. A strong answer uses the chemistry of this unit and admits what is not known.
+   **Answer:** Any view with a reason. A strong answer uses the facts about four bonds and strong chains. It may say that one example is too few to be sure.. *Why:* Nobody knows the answer. A strong answer uses the chemistry of this lesson and admits what is not known.
 15. (draw) Draw a ring of six carbon atoms. Add hydrogen atoms until every carbon atom has four bonds.  
    **Answer:** Six C atoms joined in a closed loop by six lines. Each carbon atom uses two bonds in the ring and holds 2 H atoms. That is 12 H atoms in all.. *Why:* A strong drawing gives every carbon atom exactly four lines. A ring has no ends, so no atom holds 3 hydrogen atoms.
 
@@ -622,25 +622,25 @@ At breakfast, Kathir's dosa came off the tawa with one black edge. He held it up
 
 ## Quiz
 1. (mcq) Why can carbon atoms build long chains?  
-   Options: Each makes four strong bonds / They are the smallest atoms / They are black / They are magnetic  
+   Options: They are the smallest atoms / Each makes four strong bonds / They are black / They are magnetic  
    **Answer:** Each makes four strong bonds. *Why:* A carbon atom holds two neighbours and still has two bonds free. The bonds between carbon atoms are strong, so the chain lasts.
 2. (mcq) What is the black solid left when sugar is heated strongly?  
-   Options: Mostly carbon / Burnt salt / Iron from the tawa / Dried water  
+   Options: Burnt salt / Mostly carbon / Iron from the tawa / Dried water  
    **Answer:** Mostly carbon. *Why:* Heat drives the hydrogen and oxygen out of sugar. A black solid that is mostly carbon stays behind.
 3. (mcq) Which of these stays white on a hot tawa?  
-   Options: Salt / Sugar / Atta / Paper  
+   Options: Sugar / Atta / Salt / Paper  
    **Answer:** Salt. *Why:* Salt holds no carbon. Sugar, atta and paper are built on carbon chains and rings, so they char.
 4. (mcq) Which list holds only forms of the element carbon?  
-   Options: Charcoal, graphite, diamond / Sugar, salt, sand / Iron, gold, silver / Water, ice, steam  
+   Options: Sugar, salt, sand / Iron, gold, silver / Charcoal, graphite, diamond / Water, ice, steam  
    **Answer:** Charcoal, graphite, diamond. *Why:* Charcoal, graphite and diamond are carbon atoms joined in different ways. The other lists hold other elements or mixtures of atoms.
 5. (mcq) What do cooking gas, petrol and candle wax have in common?  
-   Options: All are chains of carbon and hydrogen / All are gases / All hold oxygen atoms / All are made by plants today  
+   Options: All are gases / All are chains of carbon and hydrogen / All hold oxygen atoms / All are made by plants today  
    **Answer:** All are chains of carbon and hydrogen. *Why:* All three are hydrocarbons. They differ in the length of the carbon chain.
 6. (mcq) Candle wax is a solid and cooking gas is a gas. What is the main reason?  
    Options: Wax has much longer chains / Wax holds more water / Gas has heavier atoms / Wax is colder  
    **Answer:** Wax has much longer chains. *Why:* A wax chain has about 25 carbon atoms and a cooking gas molecule has 1 to 4. Long chains hold each other strongly.
 7. (mcq) What is a starch molecule?  
-   Options: A long chain of glucose rings / A single glucose ring / A chain of salt / A ring of iron atoms  
+   Options: A single glucose ring / A chain of salt / A long chain of glucose rings / A ring of iron atoms  
    **Answer:** A long chain of glucose rings. *Why:* Plants join hundreds or thousands of glucose rings into one starch chain.
 8. (truefalse) Cotton and cornflour are both built from glucose rings.  
    **Answer:** True. *Why:* True. Cotton is cellulose and cornflour is starch. Both are chains of glucose rings, joined in different ways.
@@ -717,13 +717,19 @@ Hold On Tight (sci.chemistry.L4): Topic-level song
 - [Carbon (Royal Society of Chemistry periodic table)](https://www.rsc.org/periodic-table/element/6/carbon) · interactive: For the parent: the facts about the element, with its history and uses.
 - [Organic chemistry (Wikipedia)](https://en.wikipedia.org/wiki/Organic_chemistry) · interactive: For the parent: an overview, including the story of Wöhler and the life force.
 - [Carbon cycle (Wikipedia)](https://en.wikipedia.org/wiki/Carbon_cycle) · interactive: For the parent: the real journeys behind the game Carbon Trail, with how long carbon stays in each place.
-- [Keeladi Museum]() · place · Keeladi, near Madurai, Tamil Nadu: To see black-and-red bowls more than 2,000 years old. The story The Pot That Came Out Red is about such a bowl.
+- Keeladi Museum · place · Keeladi, near Madurai, Tamil Nadu: To see black-and-red bowls more than 2,000 years old. The story The Pot That Came Out Red is about such a bowl.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in/) · place · Bengaluru: A science museum with galleries on materials and engines, where carbon-chain fuels are put to work.
 - [Birla Industrial and Technological Museum](https://bitm.gov.in/) · place · Kolkata: A science museum with a model coal mine that visitors can walk through.
 
 ## Things to buy
 - [Glucose powder, a small plain pack](https://www.amazon.in/s?k=glucose+powder) (material): For One Ring, Three Materials. Any chemist or grocery shop sells it. Table sugar works in its place, so buy it only if you want to. Used in e2. 
 - [Aluminium kitchen foil, one small roll](https://www.amazon.in/s?k=aluminium+kitchen+foil) (material): For The Black Inside, Foil Packet Charcoal and The Drawing Stick. Most kitchens already have it. Used in e1, e3, c1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Drawing Stick: make charcoal that draws dark and does not snap. About ₹10 to ₹30. Any school ruler is fine. Used in c1. Get it before The Drawing Stick: make charcoal that draws dark and does not snap.
+- [Wooden ice-cream sticks (a pack)](https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack) (material): Used in The Drawing Stick: make charcoal that draws dark and does not snap. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in. Used in c1. Get it before The Drawing Stick: make charcoal that draws dark and does not snap.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in One Ring, Three Materials: glucose, cornflour and cotton. About ₹20 to ₹50. Torn clean cloth works. Used in e2. Get it before One Ring, Three Materials: glucose, cornflour and cotton.
+- [Baking soda](https://www.amazon.in/s?k=baking+soda) (material): Used in The Black Inside: which kitchen things turn black when heated?. About ₹20 to ₹40. Check the kitchen first. Used in e1. Get it before The Black Inside: which kitchen things turn black when heated?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Paper Chain Starch: join eight glucose rings and count the water. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a3. Get it before Paper Chain Starch: join eight glucose rings and count the water.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - How many bonds does a carbon atom make? → A carbon atom makes four bonds.
@@ -741,7 +747,7 @@ Hold On Tight (sci.chemistry.L4): Topic-level song
 - Core: a1, e1, e2, g1, ws-core
 
 ## Sources
-- Founder's notebook, Chemistry list, item 47 (Organic Chemistry) and item 50 (alkanes, alkenes, alkynes, aromatics). This unit takes the first step: carbon's four bonds, chains, branches and rings, and the chain-length ladder of the alkanes.
+- Founder's notebook, Chemistry list, item 47 (Organic Chemistry) and item 50 (alkanes, alkenes, alkynes, aromatics). This lesson takes the first step: carbon's four bonds, chains, branches and rings, and the chain-length ladder of the alkanes.
 - Chemistry list items 49, 51, 52 and 83 to 88 (functional groups, alcohols and acids, reaction mechanisms, named reactions, handedness of molecules) are left for sci.chemistry.carbon-chemistry.L5, as the curriculum says. Item 79 (metals bonded to carbon) is not used at this level.
 - No Class 1 to 3 unit exists for this subtopic. These units were read so that nothing repeats: sci.chemistry.bonds.L3 (Wax or Sugar, Build Molecules with Chana and Toothpicks, Pencil Sheets), sci.chemistry.elements.L2 (the pencil and diamond story), sci.chemistry.polymers.L3 and L4, sci.changes.fire.L3 and L4 (soot and water from a candle), sci.changes.chemical-reactions.L4, sci.food.nutrients.L4 (Burning Nuts) and sci.plants.photosynthesis.L4 (lamp black). The experiments, games and story here are new.
 - Wöhler F. (1828). Ueber künstliche Bildung des Harnstoffs. Annalen der Physik und Chemie 88: 253-256.

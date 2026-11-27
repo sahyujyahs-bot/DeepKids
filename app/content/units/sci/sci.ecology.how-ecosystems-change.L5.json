@@ -136,7 +136,7 @@
    "concept": "Disturbance: places get cleared all the time",
    "status": "defined",
    "definition": "A disturbance is an event that kills or removes many living beings from a place in a short time.",
-   "description": "Forests, grasslands, rivers and reefs are disturbed again and again. A big tree falls and takes the neighbours down. A cyclone flattens a mangrove. A river in flood scrapes its banks. A fire runs through dry grass. People add more: they cut, burn, plough, mine and build. Disturbances differ in three ways. They differ in size, from one fallen tree to a whole island. They differ in how often they come. And they differ in what they leave behind. A fire may leave the soil with its seeds and roots. A lava flow leaves nothing living at all. What is left behind decides how recovery starts, as your roasted soil shows in The Soil Remembers. A disturbance is not always harm. The gap left by a fallen tree is the only place where many seedlings get enough light to grow.",
+   "description": "Forests, grasslands, rivers and reefs are disturbed again and again. A big tree falls and takes the neighbours down. A cyclone flattens a mangrove. A river in flood scrapes its banks. A fire runs through dry grass. People add more: they cut, burn, plough, mine and build. Disturbances differ in three ways. They differ in size, from one fallen tree to a whole island. They differ in how often they come. And they differ in what they leave behind. A fire may leave the soil with its seeds and roots. A lava flow leaves nothing living at all. What is left behind decides how recovery starts, as your roasted soil shows in The Soil Remembers. A disturbance is not always harm. The gap left by a fallen tree is the only place where many seedlings get enough light to grow. Cutting a forest is one of the biggest of these. It destroys the homes of many living beings. Trees also give water back to the air through their leaves, so a cut hillside gets less rain. With less rain and less forest to hold the soil, floods and droughts become more likely. The carbon the trees held can also go into the air as carbon dioxide.",
    "examples": [
     "In a rainforest in the Western Ghats, one giant tree falling can open a gap as wide as a house plot.",
     "On 18 May 1980 the volcano Mount St Helens in the United States blew out sideways and flattened forest for many kilometres.",
@@ -682,12 +682,12 @@
       "t": "mcq",
       "q": "A storm removes the Middle cards from a patch. The Pioneer cards stay. What kind of start is this?",
       "options": [
-       "Primary succession, from bare rock",
        "Secondary succession, with soil still there",
+       "Primary succession, from bare rock",
        "No succession at all",
        "The end of the forest for ever"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The lower stage is still there, as soil and seeds are after a real storm. So the patch regrows from part-way up. Choosing 'primary' means thinking every disturbance clears a place to bare rock, which is rare."
      },
      "parent": "A game takes about 15 to 25 turns each. Old forest cards met early go back under the pile, which is how it is for a real hornbill who finds only bushes.",
@@ -839,11 +839,11 @@
       "q": "What do most of the helpful plans do?",
       "options": [
        "Add as many plants as possible",
-       "Remove what blocks natural recovery",
        "Make the place look tidy",
+       "Remove what blocks natural recovery",
        "Bring in new kinds from far away"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The helpful plans take away a block: cattle, a dam, standing salt water, or the distance seeds must travel. Choosing 'add as many plants as possible' fits the plans that failed on the grassland and the mudflat."
      },
      "context": "This is the last step of Help or Harm? Here you look for what the helpful plans share."
@@ -1247,12 +1247,12 @@
       "t": "mcq",
       "q": "A forest burns, but the soil is not badly heated. Where will most of the first new plants come from?",
       "options": [
-       "From seeds and roots already in the soil",
        "From seeds people plant",
        "From nowhere, so it stays bare",
+       "From seeds and roots already in the soil",
        "Only from seeds blown from far away"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Soil holds a seed bank and living roots, so plants appear within weeks. This is secondary succession. Choosing 'only from far away' describes primary succession, as on new lava, which is much slower."
      },
      "parent": "After your child has answered, explain: the plain pot started with a seed bank, like land after a fire or a storm. That is secondary succession. The roasted pot is like new lava. Every plant there had to arrive from outside, which is primary succession.",
@@ -1449,12 +1449,12 @@
       "t": "mcq",
       "q": "Why is it hard to prove what the wolves changed in Yellowstone?",
       "options": [
-       "Nobody has counted the wolves",
        "There is only one Yellowstone, and much else changed too",
+       "Nobody has counted the wolves",
        "Wolves do not eat elk",
        "Scientists do not go there in winter"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A fair test changes one thing and keeps a second copy unchanged. There is no second Yellowstone, and hunters, bears, cougars and weather changed in the same years. Choosing 'nobody has counted' is not right, because wolves and elk are counted every year."
      },
      "parent": "Good tests: fence some willows from elk and compare. Raise the water with a small dam on some streams. Put collars on elk to see where they really go. Scientists have done all three.",
@@ -1553,12 +1553,12 @@
       "t": "mcq",
       "q": "A marsh beside a city is filled in and built over. What changes when heavy rain falls?",
       "options": [
-       "Less rain falls on the city",
        "Rain water reaches the streets faster",
+       "Less rain falls on the city",
        "The rain water becomes cleaner",
        "Nothing changes"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A marsh soaks up a rush of water and lets it out slowly, as the dry towel did. Built over, the water runs straight off, as it did over the plastic. Choosing 'less rain falls' mixes up how much rain falls with where it goes."
      },
      "how": "a3",
@@ -1711,12 +1711,12 @@
       "t": "mcq",
       "q": "A storm fells the trees of a 30-year-old forest. The soil stays. How does it regrow, compared with bare rock?",
       "options": [
-       "Much faster",
        "At the same speed",
        "Much slower",
-       "Not at all"
+       "Not at all",
+       "Much faster"
       ],
-      "a": 0,
+      "a": 3,
       "why": "The soil still holds seeds, roots, fungi and water, so plants return within weeks. Bare rock must first gain soil. Choosing 'the same speed' treats every disturbance as a start from nothing."
      },
      "context": "This is the last step of The Hundred-Year Film. Here a storm strikes your film."
@@ -2057,11 +2057,11 @@
       "q": "Two plans have the same number of forest squares. In one they are joined, in the other scattered. Which suits forest animals better?",
       "options": [
        "The scattered one",
-       "The joined one",
        "Both the same",
+       "The joined one",
        "Neither"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Joined forest lets animals and seeds move, and has less edge. Scattered squares are each too small for many beings. Choosing 'both the same' counts area only and forgets how the patches are arranged."
      },
      "context": "This is the last step of Plan the Patchwork. Here you test your plan and compare it with other ideas."
@@ -2079,13 +2079,13 @@
     {
      "t": "mcq",
      "p": "What is a disturbance?",
-     "a": 1,
+     "a": 2,
      "why": "A disturbance clears living beings from a place quickly: a storm, a fire, a flood, a bulldozer. Choosing 'a noisy animal' uses the everyday meaning of the word.",
      "outcome": 0,
      "opts": [
       "A noisy animal",
-      "An event that removes many living beings quickly",
       "Any change in the weather",
+      "An event that removes many living beings quickly",
       "A new kind of plant"
      ]
     },
@@ -2119,13 +2119,13 @@
     {
      "t": "mcq",
      "p": "Why do pioneer plants not keep a patch for ever?",
-     "a": 2,
+     "a": 0,
      "why": "Pioneers change the place. Their own seedlings need full sun and do badly in the shade the pioneers made. Choosing 'they are weak' is not right: they are the only ones able to start on bare ground.",
      "outcome": 0,
      "opts": [
+      "Their seedlings grow badly in the shade they make",
       "They are weak plants",
       "Animals eat them all",
-      "Their seedlings grow badly in the shade they make",
       "They get tired"
      ]
     },
@@ -2243,14 +2243,14 @@
     {
      "t": "mcq",
      "p": "At Pichavaram, what was killing the mangrove seedlings on the sunken ground?",
-     "a": 3,
+     "a": 1,
      "why": "Sea water stood still there and dried in the sun, so the salt built up. Channels let the tide flow in and out again. Choosing 'too few seeds' is the mistake the planters first made.",
      "outcome": 4,
      "opts": [
       "Too few seeds",
+      "Standing water that had become too salty",
       "Too little sunlight",
-      "Crabs eating them",
-      "Standing water that had become too salty"
+      "Crabs eating them"
      ]
     },
     {
@@ -2273,15 +2273,24 @@
     {
      "t": "mcq",
      "p": "What should a restorer ask first about a damaged place?",
-     "a": 1,
+     "a": 2,
      "why": "Most places regrow by themselves once the block is gone. Choosing 'how many trees can I plant' assumes the problem is always a lack of trees.",
      "outcome": 4,
      "opts": [
       "How many trees can I plant?",
-      "What is stopping this place from recovering?",
       "Which plants look prettiest?",
+      "What is stopping this place from recovering?",
       "How can I make it tidy?"
      ]
+    },
+    {
+     "t": "fill",
+     "p": "When a forest is cut, the land gets less ____, and floods and droughts become more likely.",
+     "a": [
+      "rain"
+     ],
+     "why": "Trees give water back to the air through their leaves. With the trees gone, less water returns to the air, so less rain falls on the land.",
+     "outcome": 0
     }
    ]
   },
@@ -2302,12 +2311,12 @@
     {
      "t": "mcq",
      "p": "With 12 storms a round, not 6, what happened to the old forest count?",
-     "a": 1,
+     "a": 0,
      "why": "It settled at about 13, down from about 22. It still levelled off. Choosing 'zero' forgets that some patches always escape for three rounds.",
      "outcome": 2,
      "opts": [
-      "It stayed at about 22",
       "It levelled off at a lower number",
+      "It stayed at about 22",
       "It fell to zero",
       "It rose"
      ],
@@ -2371,14 +2380,14 @@
     {
      "t": "mcq",
      "p": "On the new island of Surtsey, where did plants grow thickest?",
-     "a": 2,
+     "a": 3,
      "why": "Seabird droppings carry nitrogen and other plant food from the sea to the land. Choosing 'the highest point' forgets that new rock has almost no plant food.",
      "outcome": 1,
      "opts": [
       "On the highest point",
       "On the newest lava",
-      "Where seabirds nested",
-      "Where it rained least"
+      "Where it rained least",
+      "Where seabirds nested"
      ]
     },
     {
@@ -2392,13 +2401,13 @@
     {
      "t": "mcq",
      "p": "Two teams measured the same Yellowstone willows and disagreed. What did they do differently?",
-     "a": 0,
+     "a": 2,
      "why": "One team measured height and the other the volume of the leafy crown. What you choose to measure can change the answer. Choosing 'one team made up numbers' is not what happened.",
      "outcome": 3,
      "opts": [
-      "They measured different things",
       "One team made up numbers",
       "They studied different parks",
+      "They measured different things",
       "One team counted wolves"
      ]
     },
@@ -2440,13 +2449,13 @@
     {
      "t": "mcq",
      "p": "In Wetland on a Board, what did the third tumbler of water show?",
-     "a": 2,
+     "a": 0,
      "why": "A towel that is already full lets new water run through. A marsh works the same way. Choosing 'wetlands stop all floods' claims too much.",
      "outcome": 5,
      "opts": [
+      "A full wetland cannot hold more",
       "Wetlands stop all floods",
       "Towels do not hold water",
-      "A full wetland cannot hold more",
       "Water runs uphill"
      ],
      "how": "a3"
@@ -2510,12 +2519,12 @@
     {
      "t": "mcq",
      "p": "A patch needs to escape storms three rounds running to become old. What is that chance, roughly?",
-     "a": 1,
+     "a": 0,
      "why": "5/6 × 5/6 × 5/6 = 125/216, which is a little over one half. Choosing '5 in 6' forgets that the patch must escape three times, not once.",
      "outcome": 2,
      "opts": [
-      "About 5 in 6",
       "A little over 1 in 2",
+      "About 5 in 6",
       "About 1 in 6",
       "About 1 in 36"
      ],
@@ -2547,13 +2556,13 @@
     {
      "t": "mcq",
      "p": "Why did willows on many Yellowstone streams stay short even with fewer elk?",
-     "a": 2,
+     "a": 0,
      "why": "With beavers gone, streams had cut deep and the water under the ground had sunk below the willow roots. Choosing 'wolves eat willows' mixes up the links of the chain.",
      "outcome": 3,
      "opts": [
+      "The water under the ground had sunk too low",
       "Wolves eat willows",
       "The winters were too warm",
-      "The water under the ground had sunk too low",
       "Willows had died out"
      ]
     },
@@ -2658,53 +2667,66 @@
   {
    "t": "mcq",
    "p": "Which of these is a disturbance?",
-   "a": 2,
+   "a": 1,
    "why": "A cyclone removes many living beings in a short time. The others are slow, everyday events.",
    "outcome": 0,
    "opts": [
     "A tree growing a new leaf",
-    "A bird building a nest",
     "A cyclone felling trees",
+    "A bird building a nest",
     "Rain on a pond"
    ]
   },
   {
    "t": "mcq",
-   "p": "Why do lichens and mosses come before trees on bare rock?",
+   "p": "People cut a whole hillside of forest. Which result is most likely?",
    "a": 1,
+   "why": "Trees give water back to the air through their leaves, so a cut forest gives back less, and forests take many years to grow back. Choosing 'back within a season' ignores how slowly forests grow. Choosing 'more rain' gets the water cycle the wrong way round.",
+   "outcome": 0,
+   "opts": [
+    "The forest is back within a season",
+    "Less rain can fall, and floods and droughts become more likely",
+    "More rain falls, because the land is open",
+    "Nothing changes for the living beings, because only trees are cut"
+   ]
+  },
+  {
+   "t": "mcq",
+   "p": "Why do lichens and mosses come before trees on bare rock?",
+   "a": 2,
    "why": "They need no soil, and they help to make the first soil. Choosing 'they are older kinds of life' explains nothing about this rock.",
    "outcome": 0,
    "opts": [
     "They are older kinds of life",
-    "They can live without soil",
     "Trees dislike rock",
+    "They can live without soil",
     "Birds plant them first"
    ]
   },
   {
    "t": "mcq",
    "p": "A landslide and a lava flow each clear a slope. Which regrows faster, and why?",
-   "a": 0,
+   "a": 2,
    "why": "A landslide scar keeps some soil and lies next to living forest. Lava leaves no soil and no seeds, so succession there is primary and slow.",
    "outcome": 1,
    "opts": [
-    "The landslide: some soil and seeds remain",
     "The lava: it is warmer",
     "Both the same",
+    "The landslide: some soil and seeds remain",
     "Neither will regrow"
    ]
   },
   {
    "t": "mcq",
    "p": "You plant nothing in a pot of soil from under weeds, and water it. What is most likely to happen?",
-   "a": 2,
+   "a": 3,
    "why": "The soil holds a seed bank, so seedlings appear within a week or two. Choosing 'nothing' forgets the seeds you cannot see.",
    "outcome": 1,
    "opts": [
     "Nothing grows",
     "Only moss grows",
-    "Seedlings come up from seeds in the soil",
-    "The soil turns to rock"
+    "The soil turns to rock",
+    "Seedlings come up from seeds in the soil"
    ]
   },
   {
@@ -2730,12 +2752,12 @@
   {
    "t": "mcq",
    "p": "Which statement about the wolves of Yellowstone is well shown by counting?",
-   "a": 1,
+   "a": 0,
    "why": "Wolves and elk are counted every year, and elk fell by more than half. The other three go beyond the evidence.",
    "outcome": 3,
    "opts": [
-    "Wolves changed the course of rivers",
     "Elk numbers fell after wolves returned",
+    "Wolves changed the course of rivers",
     "Wolves alone made the elk fall",
     "All willows have recovered"
    ]
@@ -2743,13 +2765,13 @@
   {
    "t": "mcq",
    "p": "A missing predator is brought back, but the streams do not recover. What is the most likely reason?",
-   "a": 2,
+   "a": 0,
    "why": "After the predator was lost, later changes took hold, such as deep-cut streams and sunken ground water. Those now hold the place in its new state.",
    "outcome": 3,
    "opts": [
+    "Later changes now keep the damage going",
     "Predators do not matter",
     "Not enough time, and nothing else",
-    "Later changes now keep the damage going",
     "The plants forgot how to grow"
    ]
   },
@@ -2769,27 +2791,27 @@
   {
    "t": "mcq",
    "p": "A city fills in its marshes and builds on them. What is the likely result in heavy rain?",
-   "a": 1,
+   "a": 3,
    "why": "The marsh no longer soaks up the rush of water, so it reaches the streets quickly and in one burst.",
    "outcome": 5,
    "opts": [
     "Less flooding",
-    "Faster, worse flooding",
     "No change",
-    "Less rain"
+    "Less rain",
+    "Faster, worse flooding"
    ]
   },
   {
    "t": "mcq",
    "p": "A dry grassland with blackbuck is marked 'wasteland'. What would restore it?",
-   "a": 3,
+   "a": 2,
    "why": "An open grassland is a natural ecosystem. It needs protection from ploughing, building and tree planting, not a forest on top of it.",
    "outcome": 6,
    "opts": [
     "Planting trees in rows",
     "Flooding it to make a lake",
-    "Covering it with lawn grass",
-    "Protecting it as grassland"
+    "Protecting it as grassland",
+    "Covering it with lawn grass"
    ]
   }
  ],
@@ -3123,6 +3145,68 @@
     "a2"
    ],
    "plan": "Read it before The Wolf Chain. Afterwards, go back through the book and ask of each page: is this counted, argued about, or claimed too much?"
+  },
+  {
+   "id": "b-a-magnifying-glass",
+   "item": "A magnifying glass",
+   "kind": "tool",
+   "why": "Used in Nobody Planted Me: who settles a bare place first?. About ₹30 to ₹120. A water drop on clear plastic magnifies a little.",
+   "url": "https://www.amazon.in/s?k=magnifying+glass+kids",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Get it before Nobody Planted Me: who settles a bare place first?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Patchwork Test: after 60 storms, how much old forest is left?, Wetland on a Board: what does a marsh do in a flood?, The Seed Ball Drop: a ball that lands whole and still sprouts. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "a3",
+    "c1",
+    "c2"
+   ],
+   "plan": "Get it before The Patchwork Test: after 60 storms, how much old forest is left?."
+  },
+  {
+   "id": "b-modelling-clay-or-plasticine",
+   "item": "Modelling clay or plasticine",
+   "kind": "material",
+   "why": "Used in The Seed Ball Drop: a ball that lands whole and still sprouts. About ₹40 to ₹120. Atta dough mixed with a little salt works.",
+   "url": "https://www.amazon.in/s?k=modelling+clay+plasticine",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before The Seed Ball Drop: a ball that lands whole and still sprouts."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in The Seed Ball Drop: a ball that lands whole and still sprouts. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before The Seed Ball Drop: a ball that lands whole and still sprouts."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

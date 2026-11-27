@@ -418,10 +418,10 @@
       "q": "Sparrow chicks live in dark holes in walls. Why are yellow mouth edges useful to them?",
       "options": [
        "Yellow edges keep the chicks warm",
-       "A parent can find yellow edges easily in the dark",
-       "Yellow edges make the food taste better"
+       "Yellow edges make the food taste better",
+       "A parent can find yellow edges easily in the dark"
       ],
-      "a": 1,
+      "a": 2,
       "why": "In the Find the Hungry Mouth experiment, yellow mouths were found and fed more than dark ones in dim light. A parent coming into a dark hole can find bright yellow edges quickly. If you picked warmth, remember that the colour only changed how easy the mouths were to see."
      }
     }
@@ -717,11 +717,11 @@
       "t": "mcq",
       "q": "Which animal takes longest to grow up?",
       "options": [
-       "A dog",
        "A human",
+       "A dog",
        "A mouse"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Humans take about 18 years to grow up. A dog takes one or two years, and a mouse only about two months."
      }
     }
@@ -863,10 +863,10 @@
       "q": "Which baby needs the most help after birth?",
       "options": [
        "A calf",
-       "A sparrow chick",
-       "A duckling"
+       "A duckling",
+       "A sparrow chick"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A sparrow chick hatches with almost no feathers and shut eyes, and must be fed in the nest. A calf and a duckling can walk within a day."
      }
     }
@@ -956,10 +956,10 @@
       "q": "Who feeds young honeybees?",
       "options": [
        "Their father",
-       "Their older sisters, the worker bees",
-       "Nobody, they feed alone"
+       "Nobody, they feed alone",
+       "Their older sisters, the worker bees"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Worker bees are all female, and they feed the young bees in the hive. The queen lays the eggs."
      }
     }
@@ -1654,11 +1654,11 @@
    "t": "mcq",
    "p": "What does a sparrow chick look like when they first hatch?",
    "opts": [
-    "Covered in brown feathers",
     "Almost bare, with shut eyes",
+    "Covered in brown feathers",
     "Just like a small grown-up"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Sparrow chicks hatch almost bare and with shut eyes. They need their parents to feed them.",
    "outcome": 1
   },
@@ -1666,11 +1666,11 @@
    "t": "mcq",
    "p": "Which is a way a hen cares for her chicks?",
    "opts": [
-    "She broods them under her wings to keep them warm",
     "She leaves them alone on the first day",
+    "She broods them under her wings to keep them warm",
     "She feeds them milk"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A hen broods her chicks under her wings. Birds do not make milk.",
    "outcome": 2
   },
@@ -1678,11 +1678,11 @@
    "t": "mcq",
    "p": "Who helps a langur mother look after her baby?",
    "opts": [
-    "Nobody",
     "Other female langurs, who take turns holding the baby",
+    "Nobody",
     "Only crows"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Among langurs, other females take turns holding and carrying a new baby.",
    "outcome": 2
   },
@@ -1691,10 +1691,10 @@
    "p": "What does a hungry sparrow chick do when a parent lands at the nest?",
    "opts": [
     "Hides quietly",
-    "Stretches up, cheeps and opens a wide mouth",
-    "Flies away"
+    "Flies away",
+    "Stretches up, cheeps and opens a wide mouth"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The chick begs. Begging tells the parent the chick is hungry and where to put the food.",
    "outcome": 3
   },
@@ -1702,11 +1702,11 @@
    "t": "mcq",
    "p": "How does a human baby help their own care?",
    "opts": [
-    "By cooking",
     "By crying, gripping and smiling",
+    "By cooking",
     "By walking to the kitchen"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Babies cry when they need something, grip fingers and smile at faces. Carers answer these signals.",
    "outcome": 3
   },
@@ -1727,11 +1727,11 @@
    "t": "mcq",
    "p": "In the Find the Hungry Mouth experiment, yellow mouths got 5 chana in all in dim light and black mouths got 1. What does that show?",
    "opts": [
-    "Yellow mouths are easier to find in dim light",
     "Black mouths are hungrier",
-    "The test did not work"
+    "The test did not work",
+    "Yellow mouths are easier to find in dim light"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The yellow mouths were found five times as often. In dim light, bright colours stand out against a dark nest.",
    "outcome": 4,
    "how": "e1"
@@ -1752,11 +1752,11 @@
    "t": "mcq",
    "p": "About how long does a human take to grow up?",
    "opts": [
+    "About eighteen years",
     "About two months",
-    "About two years",
-    "About eighteen years"
+    "About two years"
    ],
-   "a": 2,
+   "a": 0,
    "why": "A human takes about 18 years to grow up. A mouse takes about two months and a cow about two years.",
    "outcome": 5
   }
@@ -1914,7 +1914,46 @@
    "why": "An old zoo in the city where you can watch animal families."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in Find the Hungry Mouth: which chick gets fed in a dark nest?. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before Find the Hungry Mouth: which chick gets fed in a dark nest?."
+  },
+  {
+   "id": "b-a-small-toy-car-with-free-ro",
+   "item": "A small toy car with free-rolling wheels",
+   "kind": "material",
+   "why": "Used in The Walking Line: how soon can each baby walk?, Who Grows Up Fastest? Baby to grown-up cards. About ₹100 to ₹200. A marble or a round torch cell works.",
+   "url": "https://www.amazon.in/s?k=toy+car+pull+back+small",
+   "used_in": [
+    "a1",
+    "a4"
+   ],
+   "plan": "Get it before The Walking Line: how soon can each baby walk?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "What do we call a baby cow?",

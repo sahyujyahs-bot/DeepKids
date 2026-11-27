@@ -1,9 +1,9 @@
 # Organ systems: how the organs inside you share parts and work together
 `sci.body.organs-inside.L5`
 
-**Summary.** Sitting still, you can count aloud for about 20 seconds on one breath. Straight after step-ups, you manage far fewer. Your lungs have not shrunk, so why? In this unit you will time your own voice before and after exercise, share out 100 beans as blood, and sort organs into the systems they work in.
+**Summary.** Sitting still, you can count aloud for about 20 seconds on one breath. Straight after step-ups, you manage far fewer. Your lungs have not shrunk, so why? In this lesson you will time your own voice before and after exercise, share out 100 beans as blood, and sort organs into the systems they work in.
 
-**Intro.** *Say 'aaaa' in one long, steady sound. In the middle of it, swallow. Your voice stops, every time. Why can you not make a sound and swallow at the same moment?* Your throat is one passage with two jobs. Air passes through it to the lungs, and food passes through it to the stomach. Your voice box sits at the top of the windpipe, so your voice needs the same air as your breathing. In this unit you learn the organ systems of the body and the organs in each one. You also find the places where two systems share one part. You time how long you can count on one breath, at rest and after exercise. You share out 100 beans to see where the blood goes when you run.
+**Intro.** *Say 'aaaa' in one long, steady sound. In the middle of it, swallow. Your voice stops, every time. Why can you not make a sound and swallow at the same moment?* Your throat is one passage with two jobs. Air passes through it to the lungs, and food passes through it to the stomach. Your voice box sits at the top of the windpipe, so your voice needs the same air as your breathing. In this lesson you learn the organ systems of the body and the organs in each one. You also find the places where two systems share one part. You time how long you can count on one breath, at rest and after exercise. You share out 100 beans to see where the blood goes when you run.
 
 ## Learning outcomes
 0. I can name the main organ systems, the main organs in each, and each system's job.
@@ -43,7 +43,7 @@
 ### Cells, tissues, organs and organ systems · *defined*
 **Definition:** An organ system is a group of organs that work together on one big job for the whole body.
 
-Your body is built in levels. The smallest living unit is the cell, and a grown-up has about 30 trillion of them. Cells of one kind form a tissue, such as muscle tissue or nerve tissue. Several tissues together form an organ, such as the heart. Several organs together form an organ system. Books usually list about ten systems. This unit uses nine: skeletal, muscular, digestive, respiratory, circulatory, excretory, nervous, hormone and reproductive. Doctors call the hormone system the endocrine system. The skin, hair and nails are often counted as one more system. No organ system can keep the body alive without the others.
+Your body is built in levels. The smallest living unit is the cell, and a grown-up has about 30 trillion of them. Cells of one kind form a tissue, such as muscle tissue or nerve tissue. Several tissues together form an organ, such as the heart. Several organs together form an organ system. Books usually list about ten systems. This lesson uses nine: skeletal, muscular, digestive, respiratory, circulatory, excretory, nervous, hormone and reproductive. Doctors call the hormone system the endocrine system. The skin, hair and nails are often counted as one more system. No organ system can keep the body alive without the others.
 - e.g. Level 1 is a cell. One example is a single heart muscle cell.
 - e.g. Level 2 is a tissue. One example is heart muscle tissue.
 - e.g. Level 3 is an organ. One example is the heart.
@@ -166,7 +166,7 @@ Humans are one kind of animal, and our plan is one among many. In whales and dol
   Against: Many anatomists say the fluid between cells was already well known. They add that a set of spaces is a tissue and cannot be called an organ.
 
 ## Roots
-In this unit you learned the organ systems, and you found organs that work in two systems. Here we ask what those shared parts tell us about a body.
+In this lesson you learned the organ systems, and you found organs that work in two systems. Here we ask what those shared parts tell us about a body.
 
 **Deep truth.** In the One Breath Count, you could count for far less time straight after the step-ups. Your voice and your breathing use the same stream of air, so your voice had to wait. Your throat is shared too, by air and by food. So one body part can work in two systems, and the two must take turns.  
 *Habit it breaks:* We learn the organ systems as separate lists, as if each organ belonged to one list only. People made the lists, to make the body easier to study. The body uses one throat for air and food, and one stream of air for breathing and speaking.  
@@ -179,7 +179,7 @@ In this unit you learned the organ systems, and you found organs that work in tw
 You began as one cell. That cell divided, and its daughter cells became bone, muscle, nerve, blood and gut. So all your organs are the descendants of one cell, doing different work. They never became fully separate. They share one supply of blood, one throat and one stream of air. When we name nine systems, we are describing one body, and each system is a different way of looking at it.
 
 - **Taittiriya Upanishad 2.1 to 2.5:** “स वा एष पुरुषोऽन्नरसमयः / तस्माद्वा एतस्मादन्नरसमयात् । अन्योऽन्तर आत्मा प्राणमयः / तस्माद्वा एतस्मात् प्राणमयात् । अन्योऽन्तर आत्मा मनोमयः / तस्माद्वा एतस्मान्मनोमयात् । अन्योऽन्तर आत्मा विज्ञानमयः / तस्माद्वा एतस्माद्विज्ञानमयात् । अन्योऽन्तर आत्माऽऽनन्दमयः” The text describes a person as five bodies, one inside the other: a body made of food, then bodies of breath, of mind, of understanding and of joy. Each one has the shape of a person and fills the one before. (In the Layer Book you draw one body on several see-through pages, one page for each group of systems. Every page fills the same outline. The Upanishad uses its layers to ask what the self is, which science does not test. What the two share is the idea that one body can be described fully in more than one way.)
-- **Marcus Aurelius, Meditations, Book 2, section 1:** “γεγόναμεν γὰρ πρὸς συνεργίαν ὡς πόδες, ὡς χεῖρες, ὡς βλέφαρα, ὡς οἱ στοῖχοι τῶν ἄνω καὶ κάτω ὀδόντων.” We were born to work together, like the feet, the hands, the eyelids, and the rows of upper and lower teeth. (He was writing about how people should treat each other. He chose the body as his example of parts that need one another. This unit shows that his example holds. No organ system can keep a body alive without the others.)
+- **Marcus Aurelius, Meditations, Book 2, section 1:** “γεγόναμεν γὰρ πρὸς συνεργίαν ὡς πόδες, ὡς χεῖρες, ὡς βλέφαρα, ὡς οἱ στοῖχοι τῶν ἄνω καὶ κάτω ὀδόντων.” We were born to work together, like the feet, the hands, the eyelids, and the rows of upper and lower teeth. (He was writing about how people should treat each other. He chose the body as his example of parts that need one another. This lesson shows that his example holds. No organ system can keep a body alive without the others.)
 - Science (settled): Every organ in your body grew from one fertilised egg cell.
 - Science (settled): Many organs do work for two or more organ systems, and many organs make hormones that act on other organs.
 - Science (debated): Are the organ systems real divisions in the body, or useful ways of describing one body? Anatomists and philosophers still argue about this.
@@ -567,7 +567,7 @@ Yazhini thought she did. Whoever made the rule, long ago, had not needed a stopw
 6. (sort) Sort these muscles. Is each one voluntary or involuntary?  
    **Answer:** biceps → Voluntary; tongue → Voluntary; leg muscles → Voluntary; heart muscle → Involuntary; stomach wall → Involuntary; muscles of the intestines → Involuntary. *Why:* You choose when to move your arm, tongue and legs. The heart, the stomach and the intestines work without your choosing.
 7. (mcq) Which part of the brain keeps your balance and makes movement smooth?  
-   Options: The cerebellum / The cerebrum / The brainstem / The spinal cord  
+   Options: The cerebrum / The brainstem / The spinal cord / The cerebellum  
    **Answer:** The cerebellum. *Why:* The cerebellum sits at the back, under the cerebrum. Choosing the cerebrum is a common slip, because the names sound alike. The cerebrum does the thinking.
 8. (order) Put these in the order that urine passes through them.  
    **Answer:** ['Kidney', 'Ureter', 'Bladder', 'Urethra']. *Why:* The kidney makes urine. A ureter carries it to the bladder, which stores it. Urine leaves through the urethra.
@@ -587,16 +587,16 @@ Yazhini thought she did. Whoever made the rule, long ago, had not needed a stopw
    **Answer:** Any view with a reason from the unit. For example, the heart cannot work without oxygen from the lungs and sugar from the gut and the liver.. *Why:* Each view has something right. A strong answer follows at least one handover from one organ to another to make its point.
 ### Shared parts and handovers (stretch) (stretch, 15 questions)
 1. (mcq) Why does your breathing stop for about a second when you swallow?  
-   Options: The windpipe is covered / The lungs are full / The stomach pushes up / The nose closes  
+   Options: The lungs are full / The windpipe is covered / The stomach pushes up / The nose closes  
    **Answer:** The windpipe is covered. *Why:* The voice box lifts and the epiglottis folds over the windpipe, so food cannot enter it. No air can pass until the swallow ends.
 2. (mcq) In hard exercise, which organs get less blood than at rest?  
-   Options: The gut and the kidneys / The leg muscles / The heart muscle / The skin  
+   Options: The leg muscles / The gut and the kidneys / The heart muscle / The skin  
    **Answer:** The gut and the kidneys. *Why:* In the Hundred Beans, the gut and liver fall from 6 beans to 2. The kidneys fall from 5 to 2. Muscles, heart muscle and skin all get more.
 3. (mcq) Six hours after a meal, where does most of the sugar in your blood come from?  
-   Options: Glycogen stored in the liver / The air in the lungs / The bones / The bladder  
+   Options: The air in the lungs / Glycogen stored in the liver / The bones / The bladder  
    **Answer:** Glycogen stored in the liver. *Why:* The liver turns its stored glycogen back into sugar and releases it. The lungs, bones and bladder do not store sugar.
 4. (mcq) Which organ makes urea, and which organ removes it from the blood?  
-   Options: The liver makes it, the kidneys remove it / The kidneys make it, the liver removes it / The lungs make it, the skin removes it / The stomach makes it, the bladder removes it  
+   Options: The kidneys make it, the liver removes it / The lungs make it, the skin removes it / The stomach makes it, the bladder removes it / The liver makes it, the kidneys remove it  
    **Answer:** The liver makes it, the kidneys remove it. *Why:* The liver makes urea from used protein. The blood carries urea to the kidneys, which pass it out in urine.
 5. (truefalse) A muscle can push a bone as well as pull it.  
    **Answer:** False. *Why:* False. A muscle can only shorten, so it can only pull. That is why muscles work in pairs, one to bend a joint and one to straighten it.
@@ -623,16 +623,16 @@ Yazhini thought she did. Whoever made the rule, long ago, had not needed a stopw
    **Answer:** ['The cerebrum is the large top part. It does thinking, memory, speech and chosen movement.', 'The cerebellum is the small part at the lower back. It keeps your balance and makes movement smooth.', 'The brainstem is the stalk at the base. It runs breathing, heartbeat and swallowing.']. *Why:* The cerebrum is by far the largest part. The cerebellum sits under it at the back, and the brainstem leads down to the spinal cord.
 ### Testing ideas about organs (challenge) (challenge, 15 questions)
 1. (mcq) A liver is washed until no sugar comes out. The next day it holds sugar again. What does this show?  
-   Options: The liver makes sugar itself / Sugar came in from the air / The washing was not finished / The liver makes bile from sugar  
+   Options: Sugar came in from the air / The washing was not finished / The liver makes bile from sugar / The liver makes sugar itself  
    **Answer:** The liver makes sugar itself. *Why:* No food could reach the washed liver, so the new sugar must have come from a store inside it. That store is glycogen.
 2. (mcq) A child moves 24 beans alone, 17 while counting backwards and 23 while singing. What is the best conclusion?  
-   Options: Two jobs that need attention slow each other / Singing makes hands faster / The hands were tired by the second round / Counting backwards is impossible  
+   Options: Singing makes hands faster / Two jobs that need attention slow each other / The hands were tired by the second round / Counting backwards is impossible  
    **Answer:** Two jobs that need attention slow each other. *Why:* Counting backwards cost 7 beans and singing cost only 1. Tired hands would have slowed the singing round as well.
 3. (mcq) An insect's blood carries almost no oxygen. How do the insect's cells get oxygen?  
-   Options: Air tubes reach every part of the body / The insect does not need oxygen / Through the mouth and stomach / The wings fan it in  
+   Options: The insect does not need oxygen / Through the mouth and stomach / The wings fan it in / Air tubes reach every part of the body  
    **Answer:** Air tubes reach every part of the body. *Why:* Fine air tubes run from holes along the insect's sides to every part of the body. So in an insect, breathing does not depend on blood.
 4. (mcq) When a person's kidneys stop working, why does the heart come under strain?  
-   Options: Spare water and salt stay in the blood / The kidneys stop pumping blood / The heart has to make the urine / The lungs stop working too  
+   Options: The kidneys stop pumping blood / The heart has to make the urine / The lungs stop working too / Spare water and salt stay in the blood  
    **Answer:** Spare water and salt stay in the blood. *Why:* The kidneys let out spare water and salt. If they stop, the amount of blood grows and the heart must pump harder. The kidneys never pumped the blood.
 5. (truefalse) Scientists agree that the human body has exactly 78 organs.  
    **Answer:** False. *Why:* False. No group of scientists has agreed on a list. The number depends on what you count as one organ.
@@ -664,22 +664,22 @@ Yazhini thought she did. Whoever made the rule, long ago, had not needed a stopw
 
 ## Quiz
 1. (mcq) What is an organ system?  
-   Options: A group of organs sharing one big job / The largest organ in the body / A group of cells of one kind / Any organ with two jobs  
+   Options: The largest organ in the body / A group of cells of one kind / Any organ with two jobs / A group of organs sharing one big job  
    **Answer:** A group of organs sharing one big job. *Why:* Organs that work together on one big job, such as digesting food, form an organ system. A group of cells of one kind is a tissue.
 2. (mcq) Which chamber of the heart pumps blood out to the whole body?  
    Options: The left ventricle / The right ventricle / The left atrium / The right atrium  
    **Answer:** The left ventricle. *Why:* The left ventricle has the thickest wall, because it pumps blood all round the body. The right ventricle pumps only to the lungs.
 3. (mcq) Where does oxygen pass from the air into the blood?  
-   Options: In the alveoli / In the windpipe / In the heart / In the throat  
+   Options: In the windpipe / In the heart / In the throat / In the alveoli  
    **Answer:** In the alveoli. *Why:* The alveoli are tiny air bags wrapped in capillaries. The windpipe and throat only carry the air.
 4. (mcq) Which part of the brain runs your breathing and heartbeat?  
    Options: The brainstem / The cerebrum / The cerebellum / The spinal cord  
    **Answer:** The brainstem. *Why:* The brainstem keeps breathing and heartbeat going without your thinking, even in sleep. The cerebrum does the thinking.
 5. (mcq) Which of these is an involuntary muscle?  
-   Options: The muscle of the stomach wall / The biceps / The tongue / The calf muscle  
+   Options: The biceps / The tongue / The calf muscle / The muscle of the stomach wall  
    **Answer:** The muscle of the stomach wall. *Why:* The stomach wall churns food without your choosing. You move the biceps, the tongue and the calf when you decide to.
 6. (mcq) In which organ does a baby grow before birth?  
-   Options: The uterus / The stomach / The ovary / The bladder  
+   Options: The stomach / The ovary / The bladder / The uterus  
    **Answer:** The uterus. *Why:* The uterus, or womb, is a bag of muscle where the baby grows for about nine months. The ovary only releases the egg.
 7. (mcq) Which organ works for both the digestive system and the hormone system?  
    Options: The pancreas / The bladder / The windpipe / The skull  
@@ -688,7 +688,7 @@ Yazhini thought she did. Whoever made the rule, long ago, had not needed a stopw
    Options: The body must breathe in fresh air sooner / The lungs have become smaller / The voice box is tired / The room has less air  
    **Answer:** The body must breathe in fresh air sooner. *Why:* Working muscles add carbon dioxide to the blood, so the brainstem forces the next breath sooner. The lungs stay the same size.
 9. (mcq) In hard exercise, where does most of the blood go?  
-   Options: To the muscles / To the gut / To the kidneys / To the brain  
+   Options: To the gut / To the kidneys / To the muscles / To the brain  
    **Answer:** To the muscles. *Why:* About four fifths of the blood goes to the working muscles. The gut and the kidneys get less, and the brain gets about the same as at rest.
 10. (truefalse) Food and air take completely separate paths from the face down into the body.  
    **Answer:** False. *Why:* False. Both pass through the throat. The paths divide lower down, into the windpipe and the food pipe.
@@ -768,6 +768,12 @@ This Body Is a Universe (sci.body.L5): Topic-level song
 ## Things to buy
 - [Tracing paper or butter paper, 5 sheets of about A4 size](https://www.amazon.in/s?k=tracing+paper+a4) (material): For the see-through pages of the Layer Book. Stationery shops sell tracing paper, and baking butter paper from the kitchen works too. Used in p1. 
 - [The Way We Work: Getting to Know the Amazing Human Body, a book by David Macaulay (2008)](https://www.amazon.in/s?k=The+Way+We+Work+David+Macaulay) (book): For the parent and child together: large, exact drawings of how each organ system works and how the systems connect. Used in a4. Before the Handover Map, look together at the pages on breathing and on the blood. Use them afterwards to check your arrows.
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in One Breath Count: how long can you count aloud on one breath?, Beans and Threes: can your brain do two hard jobs at once?. About ₹150 to ₹400. A phone stopwatch works well. Used in e1, e2. Get it before One Breath Count: how long can you count aloud on one breath?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Your Largest Organ: measure your skin with one hand, The Throat Switch: one way in, two ways down. About ₹10 to ₹30. Any school ruler is fine. Used in a3, c1. Get it before Your Largest Organ: measure your skin with one hand.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Throat Switch: one way in, two ways down. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before The Throat Switch: one way in, two ways down.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Beans and Threes: can your brain do two hard jobs at once?, The Hundred Beans: where does the blood go when you run?, The Throat Switch: one way in, two ways down. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e2, a2, c1. Get it before Beans and Threes: can your brain do two hard jobs at once?.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in One Breath Count: how long can you count aloud on one breath?. About ₹10 to ₹30. Draw squares on plain paper. Used in e1. Get it before One Breath Count: how long can you count aloud on one breath?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name four organ systems. → Any four of: skeletal, muscular, digestive, respiratory, circulatory, excretory, nervous, hormone, reproductive.

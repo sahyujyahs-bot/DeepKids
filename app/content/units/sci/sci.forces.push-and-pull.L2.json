@@ -787,11 +787,11 @@
       "t": "mcq",
       "q": "Your fingers squeeze a lemon to get the juice out. Is that a push or a pull?",
       "options": [
-       "A push",
        "A pull",
-       "Not a force"
+       "Not a force",
+       "A push"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Your fingers press into the lemon. That press is a push, and every push is a force."
      }
     }
@@ -974,11 +974,11 @@
       "t": "mcq",
       "q": "A dry leaf blows across the balcony floor. Who gave the push?",
       "options": [
-       "The wind",
        "The floor",
+       "The wind",
        "Nobody"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The wind pushes the leaf. We can't see the wind, but we can see what it does."
      }
     }
@@ -1089,11 +1089,11 @@
       "t": "mcq",
       "q": "In the Force Caller game, which card has the biggest force?",
       "options": [
-       "A big wave pushes you towards the beach",
        "A soft breeze pushes a feather",
-       "Still! No new force"
+       "Still! No new force",
+       "A big wave pushes you towards the beach"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A big wave can push a whole person. A breeze on a feather is a small force, and 'Still!' adds no new force."
      }
     }
@@ -1179,11 +1179,11 @@
       "t": "mcq",
       "q": "Your school bag pulls on your shoulders. Who gives that pull?",
       "options": [
-       "The Earth, pulling the bag down",
        "Your shoulders",
+       "The Earth, pulling the bag down",
        "The air"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The Earth pulls the bag down, and the bag's straps pull on your shoulders. You feel the pull, though you cannot see it."
      }
     }
@@ -1351,11 +1351,11 @@
      "t": "mcq",
      "p": "In the Secret Packet test, why do you shut your eyes?",
      "opts": [
-      "So you cannot see the packet go in",
       "So the bag gets lighter",
+      "So you cannot see the packet go in",
       "So the packet is quieter"
      ],
-     "a": 0,
+     "a": 1,
      "why": "With your eyes shut, you can only feel. That way the test checks your hand, not your eyes.",
      "context": "This question is about the Secret Packet test. With your eyes shut, you hold a cloth bag while a grown-up sometimes slips in a small packet of rice. First the bag is empty, then it holds two full water bottles.",
      "how": "e1"
@@ -1364,11 +1364,11 @@
      "t": "mcq",
      "p": "Which bag pulls your hand down more?",
      "opts": [
-      "The bag with two full water bottles",
       "The empty bag",
+      "The bag with two full water bottles",
       "Both the same"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The bottles are heavy, so the Earth pulls that bag down harder. A strong answer says the heavy bag gives a bigger pull.",
      "how": "e1"
     },
@@ -1451,11 +1451,11 @@
      "t": "mcq",
      "p": "A bucket is pulled up a well with a rope. Is the rope's force a push or a pull?",
      "opts": [
-      "A pull",
       "A push",
-      "Not a force"
+      "Not a force",
+      "A pull"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The rope pulls the bucket up towards the person above. Every pull is a force."
     },
     {
@@ -1597,11 +1597,11 @@
      "t": "mcq",
      "p": "Your hand missed the packet in the heavy bag. What could help you feel it better?",
      "opts": [
-      "Lift the bag up and down gently",
       "Hold the bag very, very still",
+      "Lift the bag up and down gently",
       "Hold it behind your back"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Lifting helps a little, because your muscles and joints join in. Ernst Weber found that people compare weights better when they lift them.",
      "how": "e1",
      "context": "This question is about the Secret Packet test. With your eyes shut, you hold a cloth bag while a grown-up sometimes slips in a small packet of rice. First the bag is empty, then it holds two full water bottles."
@@ -1695,11 +1695,11 @@
    "t": "mcq",
    "p": "Which of these is a force?",
    "opts": [
-    "Kicking a ball",
     "The colour of a ball",
+    "Kicking a ball",
     "The name of a ball"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A kick is a push, and every push is a force. A colour or a name does not push or pull.",
    "outcome": 0
   },
@@ -1707,11 +1707,11 @@
    "t": "mcq",
    "p": "A kite goes up on a windy day at the Uttarayan kite festival in Gujarat. What gives the push?",
    "opts": [
-    "The wind",
     "The sky",
-    "Nothing"
+    "Nothing",
+    "The wind"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The wind pushes the kite up. If you chose 'nothing', you may think a force must be seen. Look at what the kite does instead.",
    "outcome": 1
   },
@@ -1719,11 +1719,11 @@
    "t": "mcq",
    "p": "A mango falls from a tree in Ratnagiri, in Maharashtra. What pulls it down?",
    "opts": [
-    "The Earth",
     "The leaves",
+    "The Earth",
     "Nothing pulls it"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The Earth pulls everything down. That pull is called gravity.",
    "outcome": 1
   },
@@ -1731,11 +1731,11 @@
    "t": "mcq",
    "p": "A fridge magnet holds a paper up. Can you see the magnet's force?",
    "opts": [
-    "No, but we see that the paper stays up",
     "Yes, it looks like a thin line",
+    "No, but we see that the paper stays up",
     "Only in the dark"
    ],
-   "a": 0,
+   "a": 1,
    "why": "No force can be seen. We know the magnet's force is there because the paper does not fall.",
    "outcome": 2
   },
@@ -1755,11 +1755,11 @@
    "t": "mcq",
    "p": "You shut your eyes and hold an empty cloth bag. A grown-up slips in a small rice packet. What will most likely happen?",
    "opts": [
-    "You feel it",
     "You feel nothing",
+    "You feel it",
     "The bag feels lighter"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The packet is a big part of what you hold, so your hand notices the extra pull.",
    "outcome": 4,
    "how": "e1"
@@ -1781,11 +1781,11 @@
    "t": "mcq",
    "p": "Which one of these is a pull?",
    "opts": [
-    "A magnet drawing a steel pin towards itself",
     "A foot kicking a ball",
+    "A magnet drawing a steel pin towards itself",
     "A fan blowing a paper away"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A magnet moves the pin towards itself, so it pulls. A kick and a fan's wind both push things away.",
    "outcome": 1
   },
@@ -1793,11 +1793,11 @@
    "t": "mcq",
    "p": "How can you tell that a force is big?",
    "opts": [
-    "It does a big job, like lifting something heavy",
     "You can see it clearly",
-    "It makes a loud sound"
+    "It makes a loud sound",
+    "It does a big job, like lifting something heavy"
    ],
-   "a": 0,
+   "a": 2,
    "why": "We cannot see a force. We tell a big one from a small one by what it does.",
    "outcome": 3
   },
@@ -1994,7 +1994,45 @@
    "why": "A large science centre with hands-on exhibits about forces and motion."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-a-bar-magnet-or-two--and-a-f",
+   "item": "A bar magnet or two, and a few small magnets",
+   "kind": "tool",
+   "why": "Used in Who Is Pushing? A force hunt at home. About ₹50 to ₹200. A fridge magnet is a weak substitute for some tests.",
+   "url": "https://www.amazon.in/s?k=bar+magnet+school",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Get it before Who Is Pushing? A force hunt at home."
+  },
+  {
+   "id": "b-a-kitchen-or-weighing-scale",
+   "item": "A kitchen or weighing scale",
+   "kind": "tool",
+   "why": "Used in Push the Scale: how big is your push?. About ₹300 to ₹700. A home-made balance from a ruler and two cups can compare weights.",
+   "url": "https://www.amazon.in/s?k=digital+kitchen+weighing+scale",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before Push the Scale: how big is your push?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "Is the wind's push on a kite a force?",

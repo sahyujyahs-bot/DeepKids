@@ -1,9 +1,9 @@
 # Parts of a plant, and the job each part does
 `sci.plants.plant-parts.L1`
 
-**Summary.** Can a tiny root really hold a plant in the ground? In this unit you will look at a whole coriander plant from root to tip, grow sprouts to test how roots grip, hold a leaf to the light to find its veins, and play a clue game.
+**Summary.** Can a tiny root really hold a plant in the ground? In this lesson you will look at a whole coriander plant from root to tip, grow sprouts to test how roots grip, hold a leaf to the light to find its veins, and play a clue game.
 
-**Intro.** *Here is a bunch of coriander from the market, with the roots still on. Shake it over a newspaper. Some soil falls off, but some soil stays stuck to the roots. Why does that soil hold on?* The part of a plant we usually see is the green part above the soil. But a plant also has parts under the ground, and every part has a job to do. In this unit you look at a whole plant, from the roots to the tip. You find the roots, the stem, the leaves, the flowers, the fruits and the seeds. Then you grow moong sprouts and test how roots hold on.
+**Intro.** *Here is a bunch of coriander from the market, with the roots still on. Shake it over a newspaper. Some soil falls off, but some soil stays stuck to the roots. Why does that soil hold on?* The part of a plant we usually see is the green part above the soil. But a plant also has parts under the ground, and every part has a job to do. In this lesson you look at a whole plant, from the roots to the tip. You find the roots, the stem, the leaves, the flowers, the fruits and the seeds. Then you grow moong sprouts and test how roots hold on.
 
 ## Learning outcomes
 0. By the end I can name the six parts of a plant, roots, stem, leaves, flowers, fruits and seeds, and point to them on a real plant.
@@ -400,7 +400,7 @@ Outside, in the corner of the balcony, the brinjal plant stood tall, holding on 
 2. (match) Draw a line from each part to the job it does.  
    **Answer:** Roots → drink water and hold on; Stem → holds the plant up; Leaves → make food from sunlight; Fruit → keeps the seeds safe. *Why:* Each part has its own job for the whole plant.
 3. (mcq) A coriander plant came from the market with soil stuck to the roots. Why did the soil stay on?  
-   Options: The soil was wet glue / The roots had grown into the soil and held on / Someone pressed the soil on  
+   Options: The roots had grown into the soil and held on / The soil was wet glue / Someone pressed the soil on  
    **Answer:** The roots had grown into the soil and held on. *Why:* Roots grow into the tiny gaps between bits of soil and wrap round them. That is why some soil stays stuck to the roots.
 4. (truefalse) The leaves make food for the whole plant, even for the roots.  
    **Answer:** True. *Why:* True. Leaves use sunlight to make food from air and water. The food goes down the stem to the roots, which live in the dark and cannot make food.
@@ -423,7 +423,7 @@ Outside, in the corner of the balcony, the brinjal plant stood tall, holding on 
    **Answer:** A plant with roots under a soil line, a stem, leaves, a flower, a fruit, and seeds inside the fruit.. *Why:* A strong drawing puts the roots under the soil and the seeds inside the fruit.
 ### How the Parts Help Each Other (stretch) (stretch, 12 questions)
 1. (mcq) In the sprout test, why did the sprouts on the bare steel plate fall off?  
-   Options: The plate was too cold / Their roots had no gaps to grow into on the smooth steel / The sprouts were too heavy  
+   Options: Their roots had no gaps to grow into on the smooth steel / The plate was too cold / The sprouts were too heavy  
    **Answer:** Their roots had no gaps to grow into on the smooth steel. *Why:* Smooth steel has no gaps. The roots could only lie on top of the plate, so nothing held them when the plate was turned over.
 2. (truefalse) Every plant has big, bright flowers.  
    **Answer:** False. *Why:* False. Grass and rice have tiny green flowers that are hard to see. Ferns and mosses have no flowers at all.
@@ -447,7 +447,7 @@ Outside, in the corner of the balcony, the brinjal plant stood tall, holding on 
 11. (write) A friend says, 'Plants eat soil with their roots.' What would you tell your friend?  
    **Answer:** Roots drink water from the soil and take in tiny bits of minerals. But the plant's food is made in the leaves, from sunlight, air and water.. *Why:* Many people think plants eat soil. A strong answer says that the leaves make the food, and the roots bring water.
 12. (mcq) In the story The Night the Brinjal Fell, Anu's brinjal plant fell over in a storm, and some roots broke. Later that day the leaves drooped. Why?  
-   Options: The leaves got less water / The leaves got too much light / The flowers took the water  
+   Options: The leaves got too much light / The leaves got less water / The flowers took the water  
    **Answer:** The leaves got less water. *Why:* Roots drink water for the whole plant. With fewer roots, less water reaches the leaves, so the leaves go floppy until new roots grow.
 
 ## Videos
@@ -457,37 +457,37 @@ Outside, in the corner of the balcony, the brinjal plant stood tall, holding on 
 
 ## Quiz
 1. (mcq) Which part of a plant usually grows under the soil?  
-   Options: The leaves / The roots / The flowers  
+   Options: The leaves / The flowers / The roots  
    **Answer:** The roots. *Why:* Roots grow down into the soil. The leaves and flowers grow up in the light.
 2. (mcq) Which part of a plant holds the leaves up to the light?  
-   Options: The stem / The seeds / The roots  
+   Options: The seeds / The roots / The stem  
    **Answer:** The stem. *Why:* The stem holds the leaves, flowers and fruits up off the ground, where the leaves can catch sunlight.
 3. (mcq) What does a flower do for the plant?  
    Options: Drinks water from the soil / Makes seeds, and part of the flower grows into a fruit / Holds the plant in the ground  
    **Answer:** Makes seeds, and part of the flower grows into a fruit. *Why:* Flowers make seeds. After the petals fall, part of the flower grows into a fruit that holds the seeds.
 4. (mcq) What does a fruit, like a mango, do for the plant?  
-   Options: Makes food from sunlight / Holds the seed and keeps the seed safe / Holds on to the soil  
+   Options: Makes food from sunlight / Holds on to the soil / Holds the seed and keeps the seed safe  
    **Answer:** Holds the seed and keeps the seed safe. *Why:* A fruit grows from a flower and holds the seeds. The seed of a mango is inside the big hard stone.
 5. (mcq) What is inside a seed?  
-   Options: A tiny new plant and some packed food / Only water / Nothing at all  
+   Options: Only water / Nothing at all / A tiny new plant and some packed food  
    **Answer:** A tiny new plant and some packed food. *Why:* A seed holds a tiny new plant, asleep, and food for when the seed starts to grow.
 6. (mcq) In the sprout test, the roots grew into the cloth. What did that do?  
-   Options: It made the sprouts fall off / It held the sprouts on when the cloth was turned over / It made the cloth wet  
+   Options: It held the sprouts on when the cloth was turned over / It made the sprouts fall off / It made the cloth wet  
    **Answer:** It held the sprouts on when the cloth was turned over. *Why:* The roots grew into the gaps between the threads and wrapped round them. So the sprouts held on, even upside down.
 7. (mcq) A pot falls over in a storm. The soil comes out in one lump. What holds the lump together?  
-   Options: The roots / The rain / The leaves  
+   Options: The rain / The leaves / The roots  
    **Answer:** The roots. *Why:* Roots grow through the soil and wrap round the bits. They hold the soil together in one lump.
 8. (mcq) How does food made in the leaves get down to the roots?  
-   Options: The food travels down the stem / Rain washes the food down / The roots make their own food  
+   Options: Rain washes the food down / The food travels down the stem / The roots make their own food  
    **Answer:** The food travels down the stem. *Why:* Food made in the leaves travels through thin tubes in the stem to every part of the plant, down to the roots.
 9. (mcq) A plant loses most of the roots. What will happen to the leaves?  
-   Options: They will grow bigger / They will droop, because less water reaches them / Nothing will change  
+   Options: They will droop, because less water reaches them / They will grow bigger / Nothing will change  
    **Answer:** They will droop, because less water reaches them. *Why:* Roots drink water for the whole plant. With few roots, the leaves get less water and go floppy.
 10. (mcq) Why are most leaves flat and thin?  
    Options: To catch lots of sunlight / To hold on to the soil / To keep the seeds safe  
    **Answer:** To catch lots of sunlight. *Why:* A flat, thin leaf spreads out wide and catches lots of light. Leaves use light to make the plant's food.
 11. (mcq) Before a test, why do scientists make a guess and say why?  
-   Options: So the test can show if the guess was right / So they can throw the sprouts away / So the plate gets washed  
+   Options: So they can throw the sprouts away / So the plate gets washed / So the test can show if the guess was right  
    **Answer:** So the test can show if the guess was right. *Why:* A guess with a reason is an idea to test. Then the test shows whether the idea was right, or needs to change.
 
 ## Applications
@@ -498,7 +498,7 @@ Outside, in the corner of the balcony, the brinjal plant stood tall, holding on 
 
 ## Spotted around us
 - A small peepal plant growing out of a crack in an old wall or a roof, holding on with roots in the crack.
-- A banyan tree with roots hanging down from the branches. The Adyar banyan in Chennai and the Great Banyan in Howrah are held up by roots like these.
+- A banyan tree with roots hanging down from the branches. Some giant banyans are held up by roots like these.
 - A sugarcane juice stall, where the seller crushes the stems to get the sweet juice.
 - A lotus in a temple tank, with round leaves floating flat on the water.
 - A banana flower (vazhaipoo, mocha) at the vegetable market, big and purple.
@@ -537,11 +537,15 @@ Roots Hold On (sci.plants.L1): A short song about how roots hold on.
 
 ## Links
 - [iNaturalist](https://www.inaturalist.org/) · interactive: For the parent: photograph a plant near your home and find out who they are.
-- [Acharya Jagadish Chandra Bose Indian Botanic Garden, the Great Banyan]() · place · Howrah, Kolkata: See a banyan whose main trunk was removed about 100 years ago. The tree lives on, held up by thousands of roots that grew down from the branches.
-- [The Adyar Banyan Tree, Theosophical Society]() · place · Chennai: A huge old banyan with many prop roots. The main trunk fell in a storm in 1989, and the roots kept the rest of the tree standing.
-- [Lalbagh Botanical Garden]() · place · Bengaluru: Old trees of many kinds, with roots, trunks, flowers and fruits to find.
+- Acharya Jagadish Chandra Bose Indian Botanic Garden, the Great Banyan · place · Howrah, Kolkata: See a banyan whose main trunk was removed about 100 years ago. The tree lives on, held up by thousands of roots that grew down from the branches.
+- The Adyar Banyan Tree, Theosophical Society · place · Chennai: A huge old banyan with many prop roots. The main trunk fell in a storm in 1989, and the roots kept the rest of the tree standing.
+- Lalbagh Botanical Garden · place · Bengaluru: Old trees of many kinds, with roots, trunks, flowers and fruits to find.
 
 ## Things to buy
+- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): Used in Meet a Whole Plant: a coriander bunch from root to tip. About ₹30 to ₹120. A water drop on clear plastic magnifies a little. Used in a1. Get it before Meet a Whole Plant: a coriander bunch from root to tip.
+- [Clean sand (a small bag)](https://www.amazon.in/s?k=play+sand+small+bag) (material): Used in A Plant That Stays Put: roots that hold. About ₹20 to ₹60. Fine soil sieved from a pot works. Used in c1. Get it before A Plant That Stays Put: roots that hold.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Sprouts Hold On: can roots grip?, Meet a Whole Plant: a coriander bunch from root to tip, Roots in a Clear Cup: watch roots grow and hold. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1, a1, p1. Get it before Sprouts Hold On: can roots grip?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name the six parts of a plant. → Roots, stem, leaves, flowers, fruits and seeds.

@@ -1,9 +1,9 @@
 # From flower to fruit: the parts of a flower, pollination, and how each seed begins with one pollen grain
 `sci.seeds-and-life-cycles.pollination.L5`
 
-**Summary.** Pollen lands at the top of a hibiscus flower, but the future seeds are sealed deep inside it. How does pollen on the outside start a seed on the inside? In this unit you will take a flower apart, draw the pollen's journey, and count seeds and empty places in 20 pods.
+**Summary.** Pollen lands at the top of a hibiscus flower, but the future seeds are sealed deep inside it. How does pollen on the outside start a seed on the inside? In this lesson you will take a flower apart, draw the pollen's journey, and count seeds and empty places in 20 pods.
 
-**Intro.** *Open a pea pod and count. You may find five fat peas, and two tiny pale specks that never grew. All seven sat in the same pod, on the same plant, with the same water and light. Why did five become seeds and two did not?* The answer starts in the flower, weeks before the pod was picked. In this unit you first take a hibiscus flower apart, ring by ring. You find the parts that make pollen and the part that holds the ovules. You learn how pollen travels from flower to flower, and what happens after the pollen lands. Then you open 20 pods and count the seeds and the empty places. You also drop a rain of moong seeds to see how much pollen the wind wastes. By the end you can say what has to happen before one seed can form.
+**Intro.** *Open a pea pod and count. You may find five fat peas, and two tiny pale specks that never grew. All seven sat in the same pod, on the same plant, with the same water and light. Why did five become seeds and two did not?* The answer starts in the flower, weeks before the pod was picked. In this lesson you first take a hibiscus flower apart, ring by ring. You find the parts that make pollen and the part that holds the ovules. You learn how pollen travels from flower to flower, and what happens after the pollen lands. Then you open 20 pods and count the seeds and the empty places. You also drop a rain of moong seeds to see how much pollen the wind wastes. By the end you can say what has to happen before one seed can form.
 
 ## Learning outcomes
 0. I can find the four rings of a real flower, and name the parts of a stamen and a carpel.
@@ -28,6 +28,8 @@
 - **Style**: The stalk of a carpel. The style joins the stigma to the ovary, and pollen tubes grow down through it. *e.g.* Each silk thread on a maize cob is one very long style.
 - **Ovary**: The swollen base of a carpel. The ovary holds the ovules, and grows into the fruit after fertilisation. *e.g.* The small green swelling at the base of a bhindi flower is the ovary. It grows into the bhindi.
 - **Ovule**: A tiny grain inside the ovary that holds one egg cell. A fertilised ovule grows into a seed. *e.g.* A pea flower's ovary holds about 6 to 10 ovules in a row. Each can become one pea.
+- **Bisexual flower**: A flower that has both stamens and carpels. *e.g.* A hibiscus is bisexual. It has stamens that make pollen and carpels that hold ovules, in one flower.
+- **Unisexual flower**: A flower that has only stamens or only carpels, not both. *e.g.* A pumpkin vine has some flowers with only stamens and others with only carpels. Each one is unisexual.
 - **Nectar**: A sugary liquid that many flowers make. Animals visit flowers to drink nectar, and they carry pollen away on their bodies. *e.g.* Pull out an ixora flower and you find a drop of sweet nectar at the base of the thin tube.
 - **Pollination**: The carrying of pollen from an anther to a stigma of the same kind of plant. The wind, water or an animal carries the pollen. *e.g.* A bee who visits one pumpkin flower and then another carries pollen from anther to stigma.
 - **Self-pollination**: Pollination in which the pollen comes from the same flower, or from another flower on the same plant. *e.g.* A pea flower pollinates itself inside the closed bud, before the flower opens.
@@ -37,12 +39,13 @@
 - **Fertilisation**: The joining of a male cell from a pollen grain with the egg cell inside an ovule. A seed begins only after fertilisation. *e.g.* Pollination puts pollen on a bhindi's stigma. Fertilisation happens later, deep inside the ovary.
 - **Embryo**: The young plant inside a seed. The embryo grows from the fertilised egg cell. *e.g.* Split a soaked chana and you find the embryo as a tiny root and shoot between the two halves.
 - **Fruit**: The part of a plant that grows from the ovary of a flower and holds the seeds. *e.g.* A mango, a bhindi, a pea pod, a tomato and a grain of paddy are all fruits.
+- **Seed dispersal**: The carrying of seeds away from the plant that made them, by animals, wind or water. *e.g.* A bird eats a ripe fig and drops the seeds far from the tree. This carries the seeds away.
 
 ## Explanations
 ### The four rings of a flower · *defined*
 **Definition:** A complete flower has four rings of parts, one inside the other. From the outside in, they are the sepals, the petals, the stamens and the carpels.
 
-Look at a flower from the outside in. The outer ring is the sepals. They are usually green, and they cover the bud before the flower opens. The second ring is the petals. Petals are often large and coloured, and many have a scent. They help animal visitors find the flower. The third ring is the stamens, which are the male parts. Each stamen makes pollen. In the middle are the carpels, which are the female part. The carpels hold the ovules, and the ovules can become seeds. The number of parts in each ring is often the same, or one number is a multiple of the other. A hibiscus has 5 sepals, 5 petals and 5 carpels. A mustard flower has 4 sepals, 4 petals and 6 stamens. Not every flower has all four rings. A paddy flower has no petals. A pumpkin vine makes some flowers with only stamens and other flowers with only carpels.
+Look at a flower from the outside in. The outer ring is the sepals. They are usually green, and they cover the bud before the flower opens. The second ring is the petals. Petals are often large and coloured, and many have a scent. They help animal visitors find the flower. The third ring is the stamens, which are the male parts. Each stamen makes pollen. In the middle are the carpels, which are the female part. The carpels hold the ovules, and the ovules can become seeds. The number of parts in each ring is often the same, or one number is a multiple of the other. A hibiscus has 5 sepals, 5 petals and 5 carpels. A mustard flower has 4 sepals, 4 petals and 6 stamens. Not every flower has all four rings. A paddy flower has no petals. A pumpkin vine makes some flowers with only stamens and other flowers with only carpels. A flower that has both stamens and carpels is called bisexual. Hibiscus, mustard and tuberose flowers are bisexual. A flower that has only stamens, or only carpels, is called unisexual. The pumpkin flowers above are unisexual, and so are cucumber flowers and most papaya flowers. A maize plant keeps its unisexual flowers apart: the male flowers are in the tassel at the top, and the female flowers are on the cob below.
 - e.g. A hibiscus has 5 sepals and 5 petals. It has more than 50 stamens joined in a tube, and 5 carpels joined together.
 - e.g. A mustard flower has 4 sepals and 4 yellow petals, which make a cross. It has 6 stamens and 1 long, thin ovary.
 - e.g. A tuberose, which is called rajnigandha or sampangi, has 6 white parts that look like petals. It has 6 stamens and 3 carpels joined together.
@@ -123,6 +126,13 @@ A plant's leaves use the energy of sunlight to make sugar from water and carbon 
 - e.g. A hibiscus flower lasts one day. Keeping a large petal fresh costs water and food.
 - e.g. Honey is nectar that bees have dried and stored. The sugar in nectar was made by leaves, using sunlight. So the energy in a spoon of honey came from the Sun.
 - e.g. A paddy flower opens for only a short time, sheds pollen into the air and closes.
+### Animals help plants, and plants help animals · *defined*
+**Definition:** Many animals carry pollen or seeds for plants. The plants pay them with food, such as nectar and fruit.
+
+A bee drinks the nectar of a flower and carries pollen on her body to the next flower. The flower gets its seeds, and the bee gets her food. The help does not stop when the flower becomes a fruit. A ripe guava or a red peepal fig is soft, sweet and easy to see. Birds, bats and squirrels eat it. Many of the seeds pass through a bird's body whole, and fall to the ground far from the mother tree. There they land in droppings that feed them. Some seeds do not wait to be eaten. Hooked seeds of some wild grasses cling to the fur of a goat or a dog, and drop off far away. A squirrel buries nuts for the winter and forgets some, and they grow. Carrying seeds away helps the young plants, because they do not have to share light and water with their mother. The animals are not servants. Each side gets something it needs.
+- e.g. A bulbul eats peepal figs and drops the seeds on a wall or a roof, where a new peepal tree may start to grow in a crack.
+- e.g. A bee gets nectar from a mustard flower, and the mustard flower gets pollen carried to another flower.
+- e.g. A dog comes home from a walk with hooked grass seeds in its fur. They fall off a long way from where they grew.
 ### Does a plant choose which pollen fertilises the ovules? · *debated*
 **Definition:** Scientists agree that a stigma can recognise pollen and stop some grains from growing tubes. They disagree about how far a plant goes on choosing among the grains that are allowed.
 
@@ -169,7 +179,7 @@ Pine trees and their relatives have no carpels. Their ovules lie open on the sca
   Against: The same results could come from some pollen grains simply growing faster tubes. Tests that separate the two are hard to do, and the results differ from plant to plant.
 
 ## Roots
-In this unit you took a flower apart, and you counted the seeds and the empty places in 20 pods. Here we ask what those counts show about how a new life begins, and about ourselves.
+In this lesson you took a flower apart, and you counted the seeds and the empty places in 20 pods. Here we ask what those counts show about how a new life begins, and about ourselves.
 
 **Deep truth.** In the Empty Places Test, one pod held full seeds and also tiny ovules that never grew. All of them sat in the same ovary, on the same mother plant. Each seed began only when a pollen tube reached that one ovule. So a fruit holds many young, and each of them was begun separately.  
 *Habit it breaks:* We count a fruit as one thing, and we say that the plant made a fruit. Inside, the seeds were started one at a time, each by a different pollen grain. Some places in the same fruit were never started at all.  
@@ -615,7 +625,7 @@ Next June she drew her plot in the dust with a stick before she sowed it: eight 
   - Check: A pumpkin vine has male flowers and female flowers. What must happen for a pumpkin to grow? → **Pollen must be carried to a female flower**
 
 ## Worksheets
-### Rings, Pollen and Fruit (core) (core, 16 questions)
+### Rings, Pollen and Fruit (core) (core, 17 questions)
 1. (order) Put the four rings of a flower in order, from the outside in.  
    **Answer:** ['Sepals', 'Petals', 'Stamens', 'Carpels']. *Why:* The sepals are outside and covered the bud. Then come the petals, then the stamens, and the carpels are in the middle. A strong answer says what each ring does.
 2. (match) Match each part of a flower to its job.  
@@ -630,7 +640,7 @@ Next June she drew her plot in the dust with a stick before she sowed it: eight 
 6. (label) Draw a flower cut in half. Label: sepal, petal, anther, filament, stigma, style, ovary, ovule.  
    **Answer:** ['Sepal: outer ring, at the base', 'Petal: second ring', 'Anther: the head of a stamen', 'Filament: the stalk of a stamen', 'Stigma: the top of the carpel', 'Style: the stalk of the carpel', 'Ovary: the swollen base of the carpel', 'Ovule: a small grain inside the ovary']. *Why:* A strong drawing shows the stamens around the carpel. It puts the ovules inside the ovary, not on the petals or in the anthers.
 7. (mcq) What is pollination?  
-   Options: Pollen carried from an anther to a stigma / A male cell joining an egg cell / A seed starting to grow / A ripe fruit falling off  
+   Options: A male cell joining an egg cell / A seed starting to grow / Pollen carried from an anther to a stigma / A ripe fruit falling off  
    **Answer:** Pollen carried from an anther to a stigma. *Why:* Pollination is the journey of pollen from an anther to a stigma of the same kind of plant. A male cell joining an egg cell is fertilisation, which comes afterwards.
 8. (sort) Sort these features: do they belong to a wind flower or an animal-visited flower?  
    **Answer:** bright petals → Animal-visited flower; feathery stigma → Wind flower; nectar → Animal-visited flower; no petals and no scent → Wind flower; anthers hanging outside the flower → Wind flower; sticky, spiky pollen → Animal-visited flower. *Why:* Animal-visited flowers spend food on being found and on paying the visitor. Wind flowers spend food on extra pollen and on stigmas that reach into the air. A strong answer gives the reason for one feature in each group.
@@ -649,11 +659,13 @@ Next June she drew her plot in the dust with a stick before she sowed it: eight 
 14. (fill) Pollination with pollen from a different plant of the same kind is called ____-pollination.  
    **Answer:** ['cross']. *Why:* In cross-pollination the pollen comes from another plant, so the seed has two different parents. In self-pollination the pollen comes from the same plant.
 15. (mcq) Which of these is a fruit to a botanist?  
-   Options: Bhindi / Potato / Carrot / Cabbage leaf  
+   Options: Potato / Carrot / Bhindi / Cabbage leaf  
    **Answer:** Bhindi. *Why:* A bhindi grew from the ovary of a flower and holds seeds, so it is a fruit. A potato is a stem, a carrot is a root, and cabbage is leaves.
 16. (draw) Draw an open pea pod with 5 seeds and 2 empty places. Label one of each, and the sepals.  
    **Answer:** The pod is drawn open, with 5 full seeds and 2 tiny grains on short stalks along the seam. The sepals are the green cap at the stalk end.. *Why:* A strong drawing shows every seed and every empty place on a stalk, because each began as an ovule.
-### Tubes, Seeds and Carriers (stretch) (stretch, 16 questions)
+17. (sort) Sort these flowers: bisexual or unisexual?  
+   **Answer:** hibiscus flower → Bisexual; mustard flower → Bisexual; pumpkin flower with only stamens → Unisexual; maize cob flower with silks → Unisexual; tuberose flower → Bisexual; maize tassel flower → Unisexual. *Why:* A bisexual flower has both stamens and carpels. A unisexual flower has only one of them. A strong answer says what is in the flower for each one.
+### Tubes, Seeds and Carriers (stretch) (stretch, 17 questions)
 1. (mcq) An ovary holds 10 ovules. Pollen tubes reach 6 of them. How many seeds can form?  
    Options: 6 / 10 / 16 / 4  
    **Answer:** 6. *Why:* One pollen tube fertilises one ovule, so 6 tubes can start 6 seeds. The other 4 ovules stay as empty places. Choosing 10 means thinking that some pollen is enough for all.
@@ -664,14 +676,14 @@ Next June she drew her plot in the dust with a stick before she sowed it: eight 
 4. (fill) A pollen grain on a stigma grows a pollen ____ down through the style.  
    **Answer:** ['tube']. *Why:* The pollen tube is thinner than a hair. It carries the male cells from the pollen grain down to an ovule.
 5. (mcq) A flower is red, with a lot of thin nectar and almost no scent. Who most likely pollinates it?  
-   Options: Birds / Moths / The wind / Nobody  
+   Options: Moths / Birds / The wind / Nobody  
    **Answer:** Birds. *Why:* Birds see red well, drink a lot of nectar and find flowers mostly by sight. Moths are guided by scent at night, and wind flowers have no nectar at all.
 6. (order) Put these events in order, from pollen to fruit.  
    **Answer:** ['Pollen leaves the anther', 'Pollen lands on a stigma', 'A pollen tube grows down the style', 'A male cell joins the egg cell', 'The ovule grows into a seed and the ovary into a fruit']. *Why:* Pollination comes first, then the tube, then fertilisation, and only then the seed and the fruit. A strong answer says which step is pollination and which is fertilisation.
 7. (truefalse) True or false: a marigold is a single flower with many petals.  
    **Answer:** False. *Why:* False. A marigold is a head of many small flowers. Each piece has an ovary and a stigma of its own, and a petal has neither.
 8. (mcq) What were the dry brown threads at the tip of a maize cob, when the cob was young?  
-   Options: Styles / Roots / Petals / Stamens  
+   Options: Roots / Petals / Styles / Stamens  
    **Answer:** Styles. *Why:* Each thread is a silk, which is the style of one ovule. Pollen lands on the silk, and a pollen tube grows down it to the ovule.
 9. (write) A bowl is 3 times as wide as a katori. Why does it catch about 9 times as many seeds?  
    **Answer:** A bowl 3 times as wide is also 3 times as long. So it covers 3 × 3 = 9 times as much floor. Seeds fall over the whole floor, so the bowl catches about 9 times as many.. *Why:* A strong answer says that catching depends on the area covered, and shows 3 × 3 = 9.
@@ -681,7 +693,7 @@ Next June she drew her plot in the dust with a stick before she sowed it: eight 
 11. (match) Match each part of a fruit to the part of the flower that it grew from.  
    **Answer:** The green cap on a brinjal → sepals; The dry point at the tip of a pea pod → style; One pea → ovule; The green wall of a pea pod → ovary wall; The segments of an orange → carpels. *Why:* A fruit keeps signs of the flower. A strong answer can point to these signs on a real fruit in the kitchen.
 12. (mcq) A banana has tiny dark specks in the middle, and no seeds. What are the specks?  
-   Options: Ovules that never grew / Pollen grains / Tiny embryos / Bits of soil  
+   Options: Pollen grains / Tiny embryos / Bits of soil / Ovules that never grew  
    **Answer:** Ovules that never grew. *Why:* The bananas we eat grow without fertilisation. The ovules stay tiny and turn dark. Wild bananas, which are fertilised, are full of hard seeds.
 13. (write) A papaya tree flowers every year but never gives fruit. Give two possible reasons.  
    **Answer:** The tree may be a male tree, with flowers that have stamens and no ovary. Or the tree may be female, with no male tree near enough for pollen to arrive.. *Why:* A strong answer uses the idea that some plants keep male flowers and female flowers on separate plants.
@@ -691,6 +703,8 @@ Next June she drew her plot in the dust with a stick before she sowed it: eight 
    **Answer:** A strong answer sees the trade-off. Hand pollination is sure and quick to start, but it takes time every morning and cannot cover a large field. Bringing back bees takes a season or more, but then the bees pollinate every flower, for every crop.. *Why:* There is no single right answer. The best choice depends on the size of the field and how long the farmer can wait.
 16. (draw) Draw a wind-pollinated flower and an insect-pollinated flower side by side. Label three differences.  
    **Answer:** The wind flower has no bright petals, anthers hanging out on long filaments, and feathery stigmas. The insect flower has bright petals, nectar, and a sticky stigma inside the flower.. *Why:* A strong drawing shows a reason for each difference: what helps pollen leave on the wind, and what brings a visitor.
+17. (match) Match each living being to what it carries for a plant, and what it gets.  
+   **Answer:** A bee at a flower → carries pollen, and gets nectar; A bird eating a peepal fig → carries seeds, and gets food; A goat with hooked grass seeds in its fur → carries seeds, and gets nothing; A squirrel burying nuts → plants some nuts by forgetting them. *Why:* Animals help plants by carrying pollen or seeds. Plants pay with food, or the carrying costs the animal nothing. A strong answer says whether the animal gets something or not.
 ### How Botanists Argue (challenge) (challenge, 16 questions)
 1. (perspective) A pea pod holds five peas. Three people describe the same pod.  
    **Answer:** A strong answer sees that each view is true of a part. The pod is one ovary of the mother plant. Each pea began at a separate fertilisation and can grow into a separate plant. The cook's meaning is about use.. *Why:* The question has no single winner. It shows that 'one' depends on what you are counting.
@@ -701,7 +715,7 @@ Next June she drew her plot in the dust with a stick before she sowed it: eight 
 4. (write) Covered clover heads made no seeds. Open heads made 2,700. What does this show, and not show?  
    **Answer:** Darwin covered 100 heads of red clover and left 100 open. The result shows that red clover needs visitors to carry pollen, because the covered flowers made no seeds. It does not show that every plant needs visitors. Pea flowers pollinate themselves and would set seed under a cover.. *Why:* A strong answer keeps the conclusion to the plant that was tested, and names a plant that would behave differently.
 5. (mcq) Pollen from a hibiscus lands on the stigma of a pumpkin flower. What most likely happens?  
-   Options: No tube reaches the ovules / A hibiscus fruit grows on the vine / Pumpkin seeds form as usual / The pumpkin flower turns red  
+   Options: A hibiscus fruit grows on the vine / Pumpkin seeds form as usual / No tube reaches the ovules / The pumpkin flower turns red  
    **Answer:** No tube reaches the ovules. *Why:* Pollen must be of the same kind of plant. Pollen of another kind usually grows no tube, or the tube stops in the style. Without fertilisation, no seeds form.
 6. (write) A lopsided apple has seeds only on the round side. Explain why the apple grew like this.  
    **Answer:** The ovules on the flat side were not fertilised, so no seeds grew there. Young seeds send a signal that makes the fruit around them grow. With no seeds on one side, that side grew less.. *Why:* A strong answer links the missing seeds to missing fertilisation, and then links seeds to the growth of the fruit.
@@ -711,7 +725,7 @@ Next June she drew her plot in the dust with a stick before she sowed it: eight 
 8. (truefalse) True or false: the white part of a rice grain grew from a second joining of cells.  
    **Answer:** True. *Why:* True. A pollen tube carries two male cells. One joins the egg cell and becomes the embryo. The other joins another cell, and that joining grows into the food store of the grain.
 9. (mcq) In a pine, pollen lands right beside an open ovule. What is different in a flowering plant?  
-   Options: The ovules are sealed inside an ovary / There is no pollen / There are no ovules / Seeds form without fertilisation  
+   Options: There is no pollen / There are no ovules / The ovules are sealed inside an ovary / Seeds form without fertilisation  
    **Answer:** The ovules are sealed inside an ovary. *Why:* In a flowering plant the ovules are shut inside the carpel. Pollen lands on the stigma outside, and must grow a tube through the style to reach an ovule.
 10. (match) Match each plant to the way that plant keeps out pollen from the same plant.  
    **Answer:** Hibiscus → the stigmas stand beyond the anthers; Pumpkin → male flowers and female flowers on one vine; Papaya → male trees and female trees; Custard apple → the stigmas are ready before the pollen is shed; Cabbage → the stigma stops pollen from the same plant. *Why:* Plants keep the male and female parts apart in space or in time, or the stigma recognises the pollen. A strong answer says which of the three each one is.
@@ -736,13 +750,13 @@ Next June she drew her plot in the dust with a stick before she sowed it: eight 
 
 ## Quiz
 1. (mcq) Which part of a flower makes pollen?  
-   Options: The anther / The stigma / The ovary / The sepal  
+   Options: The stigma / The anther / The ovary / The sepal  
    **Answer:** The anther. *Why:* The anther is the head of a stamen, and pollen forms inside it. The stigma catches pollen but does not make it.
 2. (mcq) Which three parts make up a carpel?  
-   Options: Stigma, style and ovary / Anther, filament and pollen / Sepal, petal and stamen / Ovule, seed and fruit  
+   Options: Anther, filament and pollen / Sepal, petal and stamen / Ovule, seed and fruit / Stigma, style and ovary  
    **Answer:** Stigma, style and ovary. *Why:* A carpel has a stigma on top, a style in the middle and an ovary at the base. The anther and filament make up a stamen.
 3. (mcq) What is the main job of the sepals?  
-   Options: To cover the bud / To make pollen / To catch pollen / To hold the ovules  
+   Options: To make pollen / To cover the bud / To catch pollen / To hold the ovules  
    **Answer:** To cover the bud. *Why:* The sepals wrap the bud before the flower opens. Pollen is made by the anthers and caught by the stigma, and the ovary holds the ovules.
 4. (mcq) A bee carries pollen from one mango tree to another mango tree. What is this called?  
    Options: Cross-pollination / Self-pollination / Fertilisation / Germination  
@@ -754,23 +768,29 @@ Next June she drew her plot in the dust with a stick before she sowed it: eight 
    Options: A male cell reaches an egg cell / The petals change colour / The fruit ripens / The stigma falls off  
    **Answer:** A male cell reaches an egg cell. *Why:* The pollen grain grows a tube down to an ovule, and a male cell joins the egg cell. That joining is fertilisation. Choosing another answer treats pollination as the end of the story.
 7. (mcq) Where does fertilisation happen?  
-   Options: Inside an ovule / On the stigma / In the anther / On a petal  
+   Options: On the stigma / In the anther / Inside an ovule / On a petal  
    **Answer:** Inside an ovule. *Why:* The egg cell is inside the ovule, in the ovary. The pollen lands on the stigma, but the cells join only when the tube reaches the ovule.
 8. (mcq) After fertilisation, what does each ovule grow into?  
    Options: A seed / A fruit / A petal / A new flower  
    **Answer:** A seed. *Why:* Each fertilised ovule grows into a seed. The ovary around the ovules grows into the fruit. Choosing the fruit mixes up the ovule and the ovary.
 9. (mcq) The green star on top of a tomato grew from which part of the flower?  
-   Options: The sepals / The petals / The stamens / The ovules  
+   Options: The petals / The stamens / The ovules / The sepals  
    **Answer:** The sepals. *Why:* The sepals often stay on the fruit after the petals and stamens have fallen. The tomato below them grew from the ovary.
 10. (mcq) A bean ovary holds 9 ovules. Pollen tubes reach 6 of them. What will the ripe pod hold?  
    Options: 6 seeds and 3 empty places / 9 seeds / 3 seeds and 6 empty places / 15 seeds  
    **Answer:** 6 seeds and 3 empty places. *Why:* Each ovule needs their own pollen tube. Six were fertilised and grew into seeds. The other three stayed tiny, as empty places.
 11. (mcq) A maize cob has a bare patch with no kernels. What is the most likely reason?  
-   Options: The silks there caught no pollen / The plant had too much sun / The cob had no ovules there / The kernels there ripened early  
+   Options: The plant had too much sun / The silks there caught no pollen / The cob had no ovules there / The kernels there ripened early  
    **Answer:** The silks there caught no pollen. *Why:* Each kernel has one silk, and grows only if that silk catches a pollen grain. The bare patch had ovules and silks, but no pollen reached them.
 12. (mcq) Why did the Empty Places Test use 20 pods, and not 1?  
    Options: One pod may be unusual / 20 pods are easier to open / Pods must be counted in twenties / One pod has no seeds  
    **Answer:** One pod may be unusual. *Why:* Pods differ from each other. One pod might be full, or half empty, by chance. Counting 20 shows what usually happens.
+13. (mcq) Which of these flowers is bisexual?  
+   Options: A pumpkin flower with only stamens / A hibiscus, with stamens and carpels in one flower / A papaya flower with only carpels  
+   **Answer:** A hibiscus, with stamens and carpels in one flower. *Why:* Bisexual means that one flower has both stamens and carpels. A flower with only one of them is unisexual, like the pumpkin flower with only stamens and the papaya flower with only carpels.
+14. (mcq) A bulbul eats a ripe peepal fig and later drops the seeds on a roof, far from the tree. What did the bird do for the tree, and what did it get?  
+   Options: It carried the seeds away, and got food / It carried pollen, and got nectar / It kept the seeds safe, and got nothing  
+   **Answer:** It carried the seeds away, and got food. *Why:* The seeds passed through the bird's body and fell far from the tree, so the bird carried them away. The fig paid the bird with food. Carrying pollen is the job of a flower visitor, not of a bird that eats a ripe fruit.
 
 ## Applications
 - Farmers who grow date palms, custard apples and vanilla carry pollen to the flowers by hand, to be sure of fruit.
@@ -836,11 +856,14 @@ Seed to Seed Again (sci.seeds-and-life-cycles.L5): Topic-level song
 - [India Biodiversity Portal](https://indiabiodiversity.org) · interactive: For the parent and an older child: records and photographs of Indian plants and the animals that visit them.
 - [Royal Botanic Gardens, Kew](https://www.kew.org) · interactive: Search the site for 'pollination' to read about unusual flowers and their pollinators.
 - [Jawaharlal Nehru Tropical Botanic Garden and Research Institute](https://www.jntbgri.res.in) · place · Palode, near Thiruvananthapuram: A large garden of tropical plants, where many kinds of flowers can be seen and compared in one visit.
-- [Lalbagh Botanical Garden]() · place · Bengaluru: An old public garden with flowering trees from many countries. Take a hand lens and look for stamens and stigmas.
+- Lalbagh Botanical Garden · place · Bengaluru: An old public garden with flowering trees from many countries. Take a hand lens and look for stamens and stigmas.
 
 ## Things to buy
 - [A hand lens (magnifying glass), about 5 times or 10 times](https://www.amazon.in/s?k=magnifying+glass+10x) (tool): For seeing ovules, pollen and the small flowers of a marigold. A phone camera on zoom does the same job, so the lens is helpful but not needed. Used in a1, e1, a6. 
 - [Small net pouches (organza gift bags), about 10 centimetres square, pack of 10](https://www.amazon.in/s?k=organza+pouch+small) (material): For the Bag Test. Pieces of old net curtain or mosquito net tied with thread work just as well. Used in p1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Pollen Rain Test: how much wind-blown pollen lands on a small stigma and on a big one?, The Hidden Journey: draw how a pollen grain reaches an ovule, The Pollen Catcher: build a stigma that catches more of the pollen rain. About ₹10 to ₹30. Any school ruler is fine. Used in e2, a3, c1. Get it before The Pollen Rain Test: how much wind-blown pollen lands on a small stigma and on a big one?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Empty Places Test: does every ovule in a pod become a seed?, The Pollen Rain Test: how much wind-blown pollen lands on a small stigma and on a big one?, The Bag Test: does this plant need a visitor to make fruit? (if you have a plant in flower). Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1, e2, p1, c1. Get it before The Empty Places Test: does every ovule in a pod become a seed?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name the four rings of a flower, from the outside in. → Sepals, petals, stamens and carpels.

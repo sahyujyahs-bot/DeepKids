@@ -1,9 +1,9 @@
 # The microbes who live on you and in you: many lands on one body
 `sci.microorganisms.microbes-everywhere.L5`
 
-**Summary.** The bacteria between your toes are different from the bacteria on your forearm, though both places are your own skin. Why? In this unit you swab three places on your skin and grow what you find on potato slices. You play a dice game that shows how the microbes who live in you keep harmful newcomers out. You also find out why the same microbe can help in one place and harm in another.
+**Summary.** The bacteria between your toes are different from the bacteria on your forearm, though both places are your own skin. Why? In this lesson you swab three places on your skin and grow what you find on potato slices. You play a dice game that shows how the microbes who live in you keep harmful newcomers out. You also find out why the same microbe can help in one place and harm in another.
 
-**Intro.** *Your forearm and the gap between your toes are less than a metre apart, and both are covered by your own skin. Yet different microbes live in each. How can one body be so many different homes?* A microbe is a living being too small to see without a microscope. Bacteria are the commonest microbes on you. About 38 trillion bacteria live on and in a grown-up, and nearly all of them are harmless or helpful. They do not live evenly spread. A dry forearm, an oily forehead, a damp toe gap, a mouth and a large intestine each give different food, water and air. So each holds a different community. In this unit you test that yourself. You rub clean cotton buds on three places on your skin and grow what they pick up. You play Hold the Space, a dice game about how the microbes who already live in a gut keep a harmful newcomer out. By the end you can explain why most microbes do you no harm. You can also explain when a harmless microbe becomes a harmful one.
+**Intro.** *Your forearm and the gap between your toes are less than a metre apart, and both are covered by your own skin. Yet different microbes live in each. How can one body be so many different homes?* A microbe is a living being too small to see without a microscope. Bacteria are the commonest microbes on you. About 38 trillion bacteria live on and in a grown-up, and nearly all of them are harmless or helpful. They do not live evenly spread. A dry forearm, an oily forehead, a damp toe gap, a mouth and a large intestine each give different food, water and air. So each holds a different community. In this lesson you test that yourself. You rub clean cotton buds on three places on your skin and grow what they pick up. You play Hold the Space, a dice game about how the microbes who already live in a gut keep a harmful newcomer out. By the end you can explain why most microbes do you no harm. You can also explain when a harmless microbe becomes a harmful one.
 
 ## Learning outcomes
 0. By the end I can say what residents and visitors are, and name the main places on and in a body where microbes live.
@@ -206,9 +206,9 @@ We have swabbed our own skin and learned who lives on and in a body. Now we ask 
 
 All life on Earth descends from the same first cells. Some of their descendants stayed as single cells. Others, much later, became bodies made of trillions of cells. Then the two came together again, because the single cells settled on the bodies. So when bacteria settle on a newborn, two branches of one very old family are meeting. The body gives land, and the bacteria become part of how the body lives.
 
-- **Bhagavad Gita 13.1 (numbered 13.2 in editions that count Arjuna's question as the first verse):** “इदं शरीरं कौन्तेय क्षेत्रमित्यभिधीयते। / एतद्यो वेत्ति तं प्राहुः क्षेत्रज्ञ इति तद्विदः।।” This body is called the field. The one who knows the field is called the knower of the field. (The Gita means the field in which a person's actions and experiences take place, and it does not speak of microbes. The science in this unit found that a body is also a field in a plain sense. It is ground on which many beings grow, each in the patch that suits them.)
+- **Bhagavad Gita 13.1 (numbered 13.2 in editions that count Arjuna's question as the first verse):** “इदं शरीरं कौन्तेय क्षेत्रमित्यभिधीयते। / एतद्यो वेत्ति तं प्राहुः क्षेत्रज्ञ इति तद्विदः।।” This body is called the field. The one who knows the field is called the knower of the field. (The Gita means the field in which a person's actions and experiences take place, and it does not speak of microbes. The science in this lesson found that a body is also a field in a plain sense. It is ground on which many beings grow, each in the patch that suits them.)
 - **Thirukkural 322:** “பகுத்துண்டு பல்லுயிர் ஓம்புதல் நூலோர் / தொகுத்தவற்றுள் எல்லாந் தலை.” To share your food and to care for the many living beings is the chief of all the teachings. (A body already does this. The fibre in your meal that you cannot digest feeds the bacteria of your large intestine. A mother's milk holds sugars that feed her baby's bacteria and that the baby cannot digest.)
-- **John Donne, Devotions upon Emergent Occasions (1624), Meditation 17:** No man is an island, entire of itself. Every man is a piece of the continent, a part of the main. (Donne meant that people's lives are joined to each other. The science in this unit found that bodies are joined too. People in one home share skin microbes with each other and with their dog.)
+- **John Donne, Devotions upon Emergent Occasions (1624), Meditation 17:** No man is an island, entire of itself. Every man is a piece of the continent, a part of the main. (Donne meant that people's lives are joined to each other. The science in this lesson found that bodies are joined too. People in one home share skin microbes with each other and with their dog.)
 - Science (settled): The place on a body decides which microbes live there more than the person does.
 - Science (debated): Whether a host and all their microbes should be counted as one unit that evolves together is argued about among biologists.
 - Science (open): Nobody knows what share of the microbes on a healthy body help, what share harm, and what share simply live there.
@@ -582,7 +582,7 @@ Her grandmother put the ball of rice into her mouth. 'Who do you think?' she sai
 ## Worksheets
 ### Who lives where on a body (core, 15 questions)
 1. (mcq) What is a resident microbe?  
-   Options: One who lives and multiplies on a body / One who always causes illness / One who washes off with soap / One found only in soil  
+   Options: One who always causes illness / One who washes off with soap / One found only in soil / One who lives and multiplies on a body  
    **Answer:** One who lives and multiplies on a body. *Why:* A resident lives and multiplies on or in a body for months or years. Most residents cause no illness, and soap does not remove those deep in the pores.
 2. (fill) A microbe who lands on your skin and is gone within hours is called a ____.  
    **Answer:** ['visitor']. *Why:* A visitor comes from soil, food, a handle or another person, and does not stay. Hand washing is aimed at visitors.
@@ -593,17 +593,17 @@ Her grandmother put the ball of rice into her mouth. 'Who do you think?' she sai
 5. (match) Match each land of the body to what it gives a microbe.  
    **Answer:** Forehead → Skin oil; Toe gap → Water from sweat; Stomach → Strong acid; Large intestine → Fibre and no oxygen; Forearm → Little water or oil. *Why:* Each land offers different food, water and air. That is why each holds a different community.
 6. (mcq) Where do most of a body's bacteria live?  
-   Options: On the skin / In the mouth / In the large intestine / In the blood  
+   Options: In the large intestine / On the skin / In the mouth / In the blood  
    **Answer:** In the large intestine. *Why:* Nearly all of a grown-up's 38 trillion bacteria are in the large intestine, which is warm, wet, slow and full of fibre. Healthy blood has none. Choosing the skin is common, because skin is the part we see.
 7. (order) Put these in order, from the fewest bacteria to the most.  
    **Answer:** ['A millilitre of healthy blood', 'A millilitre of stomach contents', 'A millilitre of saliva', 'A millilitre of large intestine contents']. *Why:* Healthy blood has none. Stomach contents hold a few thousand, because of the acid. Saliva holds about a billion. Large intestine contents hold about a hundred billion.
 8. (truefalse) A potato slice with no spots proves that the swabbed skin had no microbes.  
    **Answer:** False. *Why:* False. A spot grows only from a microbe who can eat potato and live in air. Many skin residents need oil, or a place without oxygen, and never show up.
 9. (mcq) In the Three Lands Test, why is one slice wiped with a bud that touched no skin?  
-   Options: To use up the spare slice / To show what grows without skin microbes / To keep the other slices clean / To make the test longer  
+   Options: To show what grows without skin microbes / To use up the spare slice / To keep the other slices clean / To make the test longer  
    **Answer:** To show what grows without skin microbes. *Why:* That slice shows what comes from the potato, the water and the air alone. The other slices are compared with it. Without it, you could not tell which spots came from skin.
 10. (mcq) Washing hands with soap at home mostly removes which microbes?  
-   Options: Residents deep in the pores / Visitors sitting on the surface / Bacteria in the gut / All microbes on the body  
+   Options: Residents deep in the pores / Bacteria in the gut / All microbes on the body / Visitors sitting on the surface  
    **Answer:** Visitors sitting on the surface. *Why:* Soap lifts off the visitors on the surface, among whom germs are found. The residents in the pores stay and spread back within hours.
 11. (fill) The oil that skin makes beside each hair is called ____.  
    **Answer:** ['sebum']. *Why:* Sebum keeps skin soft, and it is food for the oil-eating bacteria and yeasts of the face and scalp.
@@ -617,7 +617,7 @@ Her grandmother put the ball of rice into her mouth. 'Who do you think?' she sai
    **Answer:** Any view with a reason from the unit. The girl is right that some residents protect the skin. The biologist is right that they are separate beings. The doctor is right that the place matters.. *Why:* Each view is true from where it stands. A strong answer says what 'part of you' means before deciding.
 ### Holding the space, and how microbes arrive (stretch, 15 questions)
 1. (mcq) What does 'holding the space' mean?  
-   Options: Residents leave newcomers no room or food / Residents hold on to the skin / The body keeps microbes out of blood / Microbes rest between meals  
+   Options: Residents hold on to the skin / The body keeps microbes out of blood / Residents leave newcomers no room or food / Microbes rest between meals  
    **Answer:** Residents leave newcomers no room or food. *Why:* Residents already cover the surface and eat the food, and some make substances that stop newcomers. So a harmful microbe who arrives finds it hard to settle.
 2. (mcq) In Hold the Space, why do newcomers win many squares after the antibiotic?  
    Options: The dice change / Newcomers become stronger / Most squares are empty / Residents stop multiplying  
@@ -648,20 +648,20 @@ Her grandmother put the ball of rice into her mouth. 'Who do you think?' she sai
 14. (perspective) A healthy child has a cold. Should she take an antibiotic 'to be safe'?  
    **Answer:** The doctor is right about the science: antibiotics do not work on viruses, and they harm residents. The grandmother's plan is sensible care. The uncle's wish to protect the child is kind, but the medicine would not do what he hopes.. *Why:* A strong answer separates the wish to help from whether the medicine can help.
 15. (mcq) Why does mother's milk hold sugars that a baby cannot digest?  
-   Options: By mistake / They feed the baby's gut bacteria / They make the milk sweeter / They kill all microbes  
+   Options: By mistake / They make the milk sweeter / They feed the baby's gut bacteria / They kill all microbes  
    **Answer:** They feed the baby's gut bacteria. *Why:* The sugars pass through the baby's stomach untouched and feed Bifidobacterium in the gut. Choosing 'by mistake' misses that these sugars are the third largest solid part of the milk.
 ### Germ or neighbour? Evidence and open questions (challenge, 15 questions)
 1. (mcq) A bacterium is harmless in the gut and harmful in the bladder. What is different?  
-   Options: The kind of bacterium / The place she is in / Her age / Her size  
+   Options: The place she is in / The kind of bacterium / Her age / Her size  
    **Answer:** The place she is in. *Why:* She is the same kind of bacterium in both. In the bladder she is in a place where she can multiply and cause illness.
 2. (mcq) What is an opportunist?  
-   Options: A microbe who is always harmful / A microbe who never harms anyone / A microbe harmless in one place, harmful in another / A microbe who lives only in soil  
+   Options: A microbe harmless in one place, harmful in another / A microbe who is always harmful / A microbe who never harms anyone / A microbe who lives only in soil  
    **Answer:** A microbe harmless in one place, harmful in another. *Why:* An opportunist causes illness only when she reaches the wrong place or when the body's defences are low. Many residents are opportunists.
 3. (mcq) Growing found 28 kinds of bacteria in tooth film. Reading genes found 59. What does this show?  
-   Options: Reading genes makes mistakes / Growing misses many kinds / Tooth film has few bacteria / The two methods agree  
+   Options: Reading genes makes mistakes / Tooth film has few bacteria / Growing misses many kinds / The two methods agree  
    **Answer:** Growing misses many kinds. *Why:* Many bacteria will not grow on a laboratory dish, because they need food or air that the dish does not give. Reading genes finds them anyway.
 4. (mcq) Carriers of a stomach bacterium have asthma less often. What can we say for certain?  
-   Options: The bacterium prevents asthma / The two are linked, cause unknown / Asthma kills the bacterium / The study must be wrong  
+   Options: The bacterium prevents asthma / Asthma kills the bacterium / The two are linked, cause unknown / The study must be wrong  
    **Answer:** The two are linked, cause unknown. *Why:* A link between two things does not show that one causes the other. Carriers may differ from other people in other ways as well. Choosing 'prevents asthma' jumps from a link to a cause.
 5. (truefalse) Most kinds of microbes on Earth can make a person ill.  
    **Answer:** False. *Why:* False. A count in 2001 listed 538 kinds of bacteria that make people ill. Human mouths alone hold more than 500 kinds, and soil and sea hold far more.
@@ -693,42 +693,42 @@ Her grandmother put the ball of rice into her mouth. 'Who do you think?' she sai
 
 ## Quiz
 1. (mcq) Which of these is a resident of your body?  
-   Options: Soil bacteria on your fingers / Bacteria deep in your skin pores / Bacteria on a door handle / Bacteria in a spoon of soil  
+   Options: Bacteria deep in your skin pores / Soil bacteria on your fingers / Bacteria on a door handle / Bacteria in a spoon of soil  
    **Answer:** Bacteria deep in your skin pores. *Why:* Bacteria deep in the pores live and multiply there for years. Soil bacteria on fingers are visitors, and soap removes them.
 2. (mcq) Why do different parts of your skin hold different microbes?  
    Options: They are washed at different times / They give different water, oil and air / Microbes choose places by chance / Some parts are older  
    **Answer:** They give different water, oil and air. *Why:* A dry forearm, an oily forehead and a damp toe gap give different food and water, so different microbes do well in each. Washing changes the numbers for a while, but not who lives where.
 3. (mcq) Why are bacteria so few in the stomach?  
-   Options: It is too dark / It is too cold / It is very acid / It has no food  
+   Options: It is too dark / It is too cold / It has no food / It is very acid  
    **Answer:** It is very acid. *Why:* Stomach acid kills most of the bacteria swallowed with saliva. The stomach is warm and has food, so acid is what keeps the numbers low.
 4. (mcq) A swab from an oily forehead grows few spots on potato. What is the best explanation?  
-   Options: No microbes live on foreheads / Oil-eaters do not grow on potato in air / The bud was too clean / Foreheads are washed more  
+   Options: Oil-eaters do not grow on potato in air / No microbes live on foreheads / The bud was too clean / Foreheads are washed more  
    **Answer:** Oil-eaters do not grow on potato in air. *Why:* The commonest forehead bacteria eat skin oil and avoid oxygen, so a potato slice in air does not suit them. Choosing 'no microbes live there' trusts the slice too much.
 5. (mcq) In a fair swab test, what should be the only thing that differs between the slices?  
-   Options: The size of the slice / The place on the skin that was swabbed / The number of rubs / The day they are counted  
+   Options: The place on the skin that was swabbed / The size of the slice / The number of rubs / The day they are counted  
    **Answer:** The place on the skin that was swabbed. *Why:* Everything else is kept the same, so that any difference in spots comes from the place on the skin.
 6. (mcq) A harmful bacterium lands in a gut that is full of residents. What usually happens?  
-   Options: She takes over at once / She finds little room or food / The residents become harmful too / She turns into a resident  
+   Options: She takes over at once / The residents become harmful too / She finds little room or food / She turns into a resident  
    **Answer:** She finds little room or food. *Why:* The residents already cover the surface and use the food, and some make substances that stop her. Most newcomers fail to settle.
 7. (mcq) After a long course of antibiotics, why can one tough bacterium take over the gut?  
-   Options: The medicine feeds her / Her neighbours were killed / She becomes bigger / The gut wall gets thinner  
+   Options: The medicine feeds her / She becomes bigger / Her neighbours were killed / The gut wall gets thinner  
    **Answer:** Her neighbours were killed. *Why:* The antibiotic kills many residents and leaves room and food. A bacterium who survives the medicine can then multiply with nobody in her way.
 8. (truefalse) Most kinds of microbes never make people ill.  
    **Answer:** True. *Why:* True. The list of microbes known to make people ill is short beside the number of kinds living harmlessly on us, in soil and in the sea.
 9. (mcq) Which of these microbes is harmful wherever she grows in a person?  
-   Options: The cholera bacterium / Fibre-eaters of the gut / Oil-eaters of the forehead / Curd bacteria  
+   Options: Fibre-eaters of the gut / Oil-eaters of the forehead / Curd bacteria / The cholera bacterium  
    **Answer:** The cholera bacterium. *Why:* The cholera bacterium causes illness whenever she multiplies in a person's gut. The other three are harmless or helpful in their usual places.
 10. (mcq) Where do a newborn baby's first microbes come from?  
-   Options: They are made by the baby's body / From the mother and people who hold the baby / From the baby's first solid food / From the air only  
+   Options: They are made by the baby's body / From the baby's first solid food / From the mother and people who hold the baby / From the air only  
    **Answer:** From the mother and people who hold the baby. *Why:* A baby meets her first microbes at birth, from her mother and from everyone and everything that touches her. A body does not make microbes: every microbe comes from another microbe.
 11. (mcq) Which change brings many new kinds of microbes into a baby's gut?  
-   Options: Learning to walk / Starting solid food / Growing teeth / Sleeping longer  
+   Options: Learning to walk / Growing teeth / Sleeping longer / Starting solid food  
    **Answer:** Starting solid food. *Why:* Solid food brings fibre and other new foods for microbes, and new kinds settle. Milk alone feeds only a few kinds.
 12. (mcq) People who live in one home share microbes most on which part of the body?  
    Options: The gut / The mouth / The skin / The blood  
    **Answer:** The skin. *Why:* Skin touches people, pets and furniture directly all day. A study of 60 families found the strongest sharing on the skin.
 13. (mcq) Which of these is still argued about by scientists?  
-   Options: Whether skin has microbes / Whether probiotics help after antibiotics / Whether the stomach is acid / Whether bacteria multiply  
+   Options: Whether probiotics help after antibiotics / Whether skin has microbes / Whether the stomach is acid / Whether bacteria multiply  
    **Answer:** Whether probiotics help after antibiotics. *Why:* One study found that a probiotic slowed the return of a person's own gut community after antibiotics. Other studies find some benefits. The other three are settled.
 
 ## Applications
@@ -742,14 +742,14 @@ Her grandmother put the ball of rice into her mouth. 'Who do you think?' she sai
 - Police scientists are studying whether the microbes a person leaves on objects could show who touched them.
 
 ## Spotted around us
-- A cow chewing cud beside a road in Madurai. She is grinding grass for the microbes in her first stomach chamber.
+- A cow chewing cud beside a road. She is grinding grass for the microbes in her first stomach chamber.
 - Fresh elephant dung on a forest road in Mudumalai or Nagarahole. Calves eat such dung to gain gut microbes.
-- Shoes left outside a door in Kochi after a monsoon day. The smell is made by foot bacteria.
-- A baby's first rice, called choroonu in Kerala and annaprashan in Bengal. It is also the first rice for the baby's gut bacteria.
-- A 'clean your hands' sign beside a hospital bed in Bengaluru. It is aimed at the visitors on hands.
-- Curd rice in a steel tiffin box in Chennai. Every spoonful carries living bacteria, most of whom will pass through.
-- A box of antibiotic tablets at a chemist's counter in Kolkata. The box says the medicine is to be sold only on a doctor's prescription.
-- A street dog being patted by children on the steps of a building in Mumbai. Skin microbes pass both ways.
+- Shoes left outside a door after a monsoon day. The smell is made by foot bacteria.
+- A baby's first rice, the day a baby first eats rice. It is also the first rice for the baby's gut bacteria.
+- A 'clean your hands' sign beside a hospital bed. It is aimed at the visitors on hands.
+- Curd rice in a steel tiffin box. Every spoonful carries living bacteria, most of whom will pass through.
+- A box of antibiotic tablets at a chemist's counter. The box says the medicine is to be sold only on a doctor's prescription.
+- A street dog being patted by children on the steps of a building. Skin microbes pass both ways.
 
 ## Open questions
 - **Do the microbes we pick up from family, pets and furniture settle on us, or do they only pass through?** Studies can show that people in one home carry the same kinds. They cannot yet tell a microbe who has settled from one who landed an hour ago.
@@ -804,6 +804,10 @@ The Smallest Neighbours (sci.microorganisms.L5): Topic-level song
 - [Small clear zip pouches](https://www.amazon.in/s?k=small+zip+lock+pouches) (material): For sealing the potato slices in the Three Lands Test, so that nothing can get in or out. Clean steel katoris covered with plates work too. Used in e1, c1. 
 - [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): For looking at the spots through the bag. The zoom on a phone camera does the same job. Used in e1. 
 - [I Contain Multitudes, by Ed Yong (2016)](https://www.amazon.in/s?k=I+Contain+Multitudes+Ed+Yong) (book): A book for grown-ups about the microbes who live with animals, including the bobtail squid and the story of mother's milk. Used in p1. A parent reads a chapter and retells one story from it while the child works on My Body Atlas.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Hold the Space: can a newcomer settle in a full gut?. About ₹10 to ₹30. Any school ruler is fine. Used in e2. Get it before Hold the Space: can a newcomer settle in a full gut?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Hold the Space: can a newcomer settle in a full gut?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e2. Get it before Hold the Space: can a newcomer settle in a full gut?.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in Count the Kinds: how many microbes are germs?. About ₹10 to ₹30. Draw squares on plain paper. Used in a1. Get it before Count the Kinds: how many microbes are germs?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is a microbe who lives and multiplies on a body for years called? → A resident.
@@ -823,7 +827,7 @@ The Smallest Neighbours (sci.microorganisms.L5): Topic-level song
 
 ## Sources
 - ideas/by_topic/microorganisms.md: the founder's picture of single cells as whole individuals who sense, decide, signal to each other and form partnerships. It is used for the way microbes are written about as someones, for the explanation of quorum sensing, and for the Roots thread about single cells and bodies meeting again. Her SCI Cards for Lynn Margulis and Barry Marshall are used in the explanations.
-- combined/sci-C5-microorganisms.json: its subconcept 'where microbes live: air, soil, water, and on and inside us (the microbiome)' is the starting point of this unit. Its roti test, curd and yeast tests and its story are not reused.
+- combined/sci-C5-microorganisms.json: its subconcept 'where microbes live: air, soil, water, and on and inside us (the microbiome)' is the starting point of this lesson. Its roti test, curd and yeast tests and its story are not reused.
 - Other units were checked so that nothing repeats: the potato slices touched by fingers and soil (microbes everywhere L2), the bread test for washed hands (hygiene L3), the Morning Coat tooth film test, the tissue blot map of the skin and the story of the ten-to-one count (cells L5), gut microbes and fibre (digestion L5), fermented foods and probiotics (helpful microbes L5). The Three Lands Test compares body places, which none of them does, and Hold the Space is new.
 - This subtopic has no board chapter. NCERT Class 5 Chapter 3 (ncert/sci-L5-03.json) was read for coverage of 'good bacteria' only.
 - Grice E. A., Kong H. H., Conlan S. and others, Segre J. A. (2009). Topographical and temporal diversity of the human skin microbiome. Science 324: 1190-1192.

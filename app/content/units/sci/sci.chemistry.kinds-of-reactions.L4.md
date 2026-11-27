@@ -1,9 +1,9 @@
 # Kinds of chemical reactions: joining, splitting, swapping and burning
 `sci.chemistry.kinds-of-reactions.L4`
 
-**Summary.** Squeeze lemon into milk and curds form, and a second squeeze makes no more. Why does it stop? In this unit you will find out which ran out, heat a powder to see if it splits, and build one reaction each of four kinds.
+**Summary.** Squeeze lemon into milk and curds form, and a second squeeze makes no more. Why does it stop? In this lesson you will find out which ran out, heat a powder to see if it splits, and build one reaction each of four kinds.
 
-**Intro.** *A cook squeezes lemon juice into hot milk to make paneer. The milk was a liquid, and the lemon juice was a liquid. So where did the solid curds come from?* The curds were in the milk all along, as tiny clusters too small to see. The acid in the lemon juice changed them, so they stuck together and came out as a solid. That is one kind of chemical reaction. In this unit you meet four kinds. In a joining reaction, two substances become one. In a splitting reaction, one substance becomes two or more. In a swapping reaction, substances exchange parts. In burning, a fuel reacts with oxygen and gives out heat and light. You make curds, heat baking soda under a cold lid, mix plaster and shake soap with vinegar.
+**Intro.** *A cook squeezes lemon juice into hot milk to make paneer. The milk was a liquid, and the lemon juice was a liquid. So where did the solid curds come from?* The curds were in the milk all along, as tiny clusters too small to see. The acid in the lemon juice changed them, so they stuck together and came out as a solid. That is one kind of chemical reaction. In this lesson you meet four kinds. In a joining reaction, two substances become one. In a splitting reaction, one substance becomes two or more. In a swapping reaction, substances exchange parts. In burning, a fuel reacts with oxygen and gives out heat and light. You make curds, heat baking soda under a cold lid, mix plaster and shake soap with vinegar.
 
 ## Learning outcomes
 0. I can say what reactants and products are, and that a reaction breaks old bonds and makes new ones.
@@ -37,7 +37,7 @@
 ### A reaction breaks old bonds and makes new ones · *defined*
 **Definition:** A chemical reaction is a change in which substances turn into new substances. Bonds between atoms break, and new bonds form.
 
-Everything is made of atoms. In most substances the atoms are joined to each other, and each join is called a bond. In a chemical reaction, some bonds break and new bonds form. The atoms themselves do not change, and none is made or lost. They only end up with new partners. The substances you start with are the reactants. The new substances are the products. Breaking a bond takes energy in. Making a bond gives energy out. That is why some reactions feel warm and others need heating. There are millions of known reactions. Chemists sort them into kinds by what the atoms do. This unit uses four kinds: joining, splitting, swapping and burning.
+Everything is made of atoms. In most substances the atoms are joined to each other, and each join is called a bond. In a chemical reaction, some bonds break and new bonds form. The atoms themselves do not change, and none is made or lost. They only end up with new partners. The substances you start with are the reactants. The new substances are the products. Breaking a bond takes energy in. Making a bond gives energy out. That is why some reactions feel warm and others need heating. There are millions of known reactions. Chemists sort them into kinds by what the atoms do. This lesson uses four kinds: joining, splitting, swapping and burning.
 - e.g. Milk protein and lemon acid are reactants. Curds and whey are products.
 - e.g. When plaster sets, new bonds form, and the cup feels warm.
 - e.g. Baking soda splits only when heat is put in.
@@ -94,7 +94,7 @@ The four kinds are a way of sorting, and some reactions fit two kinds. A burning
 ### The four kinds inside living bodies · *defined*
 **Definition:** Living cells run thousands of reactions every second. Most of them are joining, splitting or swapping reactions.
 
-Your body uses every kind of reaction in this unit. Digestion is mostly splitting. Long chains of starch and protein are cut into small units, and each cut uses one water molecule. Growing is mostly joining. Your cells join small units into long chains of protein, and so build muscle, skin and hair. Your cells also react sugar with oxygen. The products are the same as in burning: carbon dioxide and water. Plants do the reverse. A green leaf joins carbon dioxide and water into sugar, using the energy of light, and gives out oxygen. Living beings make precipitates too. A clam builds their shell from calcium and carbon dioxide dissolved in sea water. Your bone cells lay down a hard solid from substances dissolved in your blood.
+Your body uses every kind of reaction in this lesson. Digestion is mostly splitting. Long chains of starch and protein are cut into small units, and each cut uses one water molecule. Growing is mostly joining. Your cells join small units into long chains of protein, and so build muscle, skin and hair. Your cells also react sugar with oxygen. The products are the same as in burning: carbon dioxide and water. Plants do the reverse. A green leaf joins carbon dioxide and water into sugar, using the energy of light, and gives out oxygen. Living beings make precipitates too. A clam builds their shell from calcium and carbon dioxide dissolved in sea water. Your bone cells lay down a hard solid from substances dissolved in your blood.
 - e.g. Starch + water → sugar, in your mouth and gut.
 - e.g. Carbon dioxide + water, with light → sugar + oxygen, in a leaf.
 - e.g. A hen builds the shell of each egg from calcium dissolved in her blood.
@@ -139,7 +139,7 @@ Rain joins with carbon dioxide from the air and becomes a very weak acid. Over t
   Against: The four patterns can be seen without knowing about electrons, and they help a learner guess the products. Both ways of sorting are in use.
 
 ## Roots
-In this unit you sorted reactions into four kinds: joining, splitting, swapping and burning. Here we ask what is the same under all four.
+In this lesson you sorted reactions into four kinds: joining, splitting, swapping and burning. Here we ask what is the same under all four.
 
 **Deep truth.** In The Pan and the Lid, heat broke bonds in baking soda, and one powder became three substances. In Powder and Water, plaster and water made new bonds and became one hard solid. In Soap and Sour, old bonds broke and new bonds formed in the same bottle. So every reaction, whatever its kind, is made of the same two steps: bonds break and bonds form.  
 *Habit it breaks:* We sort reactions into kinds, and then we treat the kinds as separate things. The kinds are patterns that people noticed. Under every pattern, the same two steps are happening.  
@@ -153,7 +153,7 @@ A seashell, a lump of lime, a plastered wall and a stalactite all hold calcium a
 
 - **Empedocles, fragment 17 (Diels-Kranz B17), about 450 BCE:** “δίπλ’ ἐρέω· τοτὲ μὲν γὰρ ἕν ηὐξήθη μόνον εἶναι / ἐκ πλεόνων, τοτὲ δ’ αὖ διέφυ πλέον’ ἐξ ἑνὸς εἶναι / πῦρ καὶ ὕδωρ καὶ γαῖα καὶ ἠέρος ἄπλετον ὕψος,” The Greek thinker Empedocles said that all things are made of a few lasting 'roots'. At one time they grow together into one, and at another time they grow apart into many. (This is joining and splitting, said 2,400 years ago. His four roots were earth, water, air and fire, which are not the elements of chemistry. But his idea that change is lasting parts coming together and apart is what chemists later found.)
 - **Chandogya Upanishad 6.1.4:** “यथा सोम्यैकेन मृत्पिण्डेन सर्वं मृन्मयं विज्ञातं स्यात् / वाचारम्भणं विकारो नामधेयं मृत्तिकेत्येव सत्यम्” Uddalaka tells his son Shvetaketu that by knowing one lump of clay, everything made of clay is known. The different shapes are names. What is real in all of them is the clay. (In a reaction the atoms stay and only their arrangement changes. Chemistry adds one thing that the verse does not say. The new arrangement really behaves in a new way, because curds do not act like milk.)
-- **Dhammapada, verse 277:** “Sabbe saṅkhārā aniccā,” The Buddha teaches that all things that are put together are impermanent. (Every substance in this unit could be changed by some reaction. Even a hard plaster wall is slowly joining with carbon dioxide from the air.)
+- **Dhammapada, verse 277:** “Sabbe saṅkhārā aniccā,” The Buddha teaches that all things that are put together are impermanent. (Every substance in this lesson could be changed by some reaction. Even a hard plaster wall is slowly joining with carbon dioxide from the air.)
 - Science (settled): In a chemical reaction no atom is made or lost. Lavoisier showed this in the 1780s by weighing reactions in sealed vessels.
 - Science (settled): Chemists can now follow a bond as it breaks, using laser flashes far shorter than a billionth of a second. Ahmed Zewail won the Nobel Prize in Chemistry in 1999 for this work.
 - Science (idea): Some scientists think that life began as reactions that kept each other going, before there were any cells.
@@ -529,7 +529,7 @@ Behind her, Aaya lit the kiln.
 ## Worksheets
 ### The four kinds of reaction (core, 15 questions)
 1. (mcq) What happens to the atoms in a chemical reaction?  
-   Options: They get new partners / They are destroyed / They turn into other atoms / They stop moving  
+   Options: They are destroyed / They turn into other atoms / They stop moving / They get new partners  
    **Answer:** They get new partners. *Why:* A reaction breaks some bonds and makes new ones. Every atom is still there afterwards, joined to new partners.
 2. (match) Match each kind of reaction to its pattern.  
    **Answer:** Joining → Two substances become one; Splitting → One substance becomes two or more; Swapping → Substances exchange parts; Burning → A fuel reacts with oxygen. *Why:* Count the substances before and after. Two into one is joining, and one into two is splitting. An exchange is swapping. A fuel with oxygen is burning.
@@ -547,7 +547,7 @@ Behind her, Aaya lit the kiln.
 8. (truefalse) Burning needs oxygen.  
    **Answer:** True. *Why:* True. Burning is a reaction between a fuel and oxygen. A flame goes out when the oxygen around it runs low.
 9. (mcq) Vinegar is added to soap water. What do you see?  
-   Options: The water turns milky white / The foam gets taller / A flame appears / Nothing changes  
+   Options: The foam gets taller / The water turns milky white / A flame appears / Nothing changes  
    **Answer:** The water turns milky white. *Why:* Soap and vinegar swap parts. One product is a waxy solid that does not dissolve, so the water turns milky.
 10. (order) Lemon juice is stirred into hot milk. Put what happens in order.  
    **Answer:** ['The acid cancels the charge on the casein clusters', 'The clusters stop repelling each other', 'The clusters stick together', 'Curds separate from the whey']. *Why:* The charge keeps the clusters apart. Once the acid cancels it, they can stick together and come out as a solid.
@@ -560,7 +560,7 @@ Behind her, Aaya lit the kiln.
 14. (perspective) Is burning a splitting or a joining?  
    **Answer:** Any view can be argued well. The first child is right that the fuel comes apart. The second is right that oxygen is taken in. The chemist joins the two views.. *Why:* A strong answer uses evidence, such as the need for oxygen or the gases given off. It also answers another view fairly.
 15. (mcq) Which of these is a fuel?  
-   Options: Candle wax / Water / Sand / Ash  
+   Options: Water / Sand / Candle wax / Ash  
    **Answer:** Candle wax. *Why:* Wax is made of carbon and hydrogen, which can join with oxygen. Water, sand and ash are already joined with oxygen.
 ### Why each kind happens (stretch, 15 questions)
 1. (mcq) Why do many splitting reactions need heat or electricity?  
@@ -570,7 +570,7 @@ Behind her, Aaya lit the kiln.
    Options: They carry the same charge and repel / They are too heavy to move / The milk is too cold / They are dissolved like sugar  
    **Answer:** They carry the same charge and repel. *Why:* Charges of the same kind repel. Each cluster pushes the others away, so they stay spread through the milk.
 3. (mcq) A candle under a glass goes out while wax is still left. Which reactant ran low?  
-   Options: Oxygen / Wax / Carbon dioxide / Water  
+   Options: Wax / Carbon dioxide / Water / Oxygen  
    **Answer:** Oxygen. *Why:* Burning needs fuel and oxygen. The glass keeps new air out, so the oxygen runs low and the flame stops.
 4. (truefalse) In a swapping reaction, some atoms are destroyed.  
    **Answer:** False. *Why:* False. The parts only change partners. Every atom that was there before is there afterwards.
@@ -602,13 +602,13 @@ Behind her, Aaya lit the kiln.
    Options: Burning and joining / Burning and splitting / Swapping and splitting / Joining and swapping  
    **Answer:** Burning and joining. *Why:* A fuel reacts with oxygen, so it is burning. Two substances become one, so it is also a joining.
 2. (mcq) Vinegar and baking soda swap parts and then fizz. Which step makes the gas?  
-   Options: Carbonic acid splits / Two gases join / The vinegar burns / Water swaps with air  
+   Options: Two gases join / The vinegar burns / Water swaps with air / Carbonic acid splits  
    **Answer:** Carbonic acid splits. *Why:* The swap makes carbonic acid. Carbonic acid then splits into water and carbon dioxide gas, which is the fizz.
 3. (mcq) People once said a burning thing loses a substance. Which finding does not fit that idea?  
-   Options: Metals get heavier when they burn / Wood leaves a little light ash / Flames give out heat / Candles get shorter  
+   Options: Wood leaves a little light ash / Flames give out heat / Metals get heavier when they burn / Candles get shorter  
    **Answer:** Metals get heavier when they burn. *Why:* A thing that only loses something cannot get heavier. Burning metals gain weight because they join with oxygen.
 4. (mcq) A mix holds twice the water that its plaster can join with. What happens to the extra water?  
-   Options: It is left over / It becomes plaster / It makes the cast harder / It turns into heat  
+   Options: It becomes plaster / It makes the cast harder / It is left over / It turns into heat  
    **Answer:** It is left over. *Why:* Plaster joins with a fixed amount of water. When the plaster is used up, the rest of the water is left over and dries away.
 5. (truefalse) A swapping reaction can run backwards if one of its products is present in a huge amount.  
    **Answer:** True. *Why:* True. Berthollet saw this at the salt lakes of Egypt. Amounts help to decide which way a reaction runs.
@@ -646,33 +646,33 @@ Behind her, Aaya lit the kiln.
    Options: Splitting / Joining / Swapping / Burning  
    **Answer:** Splitting. *Why:* One substance becoming two or more is a splitting. Heated baking soda does this.
 3. (mcq) What does burning need, besides a fuel and some heat to start?  
-   Options: Oxygen / Water / Carbon dioxide / Salt  
+   Options: Water / Carbon dioxide / Oxygen / Salt  
    **Answer:** Oxygen. *Why:* Burning is a fuel reacting with oxygen. Water and carbon dioxide are what burning makes.
 4. (mcq) Why does lemon juice make curds in hot milk?  
-   Options: Acid makes casein clusters stick together / Lemon juice freezes the milk / Lemon juice dries the milk / Lemon pulp turns white  
+   Options: Lemon juice freezes the milk / Lemon juice dries the milk / Lemon pulp turns white / Acid makes casein clusters stick together  
    **Answer:** Acid makes casein clusters stick together. *Why:* The acid cancels the charge that keeps the casein clusters apart. They stick together and come out as curds.
 5. (mcq) Plaster of Paris sets hard while it is still wet. What happened to the water?  
-   Options: It joined with the plaster / It dried into the air / It sank to the bottom / It turned into a gas  
+   Options: It dried into the air / It sank to the bottom / It turned into a gas / It joined with the plaster  
    **Answer:** It joined with the plaster. *Why:* Plaster and water join and make one new solid. The water is locked inside the solid.
 6. (mcq) A reaction stops, although plenty of one reactant is left. What is the most likely reason?  
-   Options: The other reactant is used up / The atoms have worn out / The products have escaped / The bowl is too large  
+   Options: The atoms have worn out / The products have escaped / The bowl is too large / The other reactant is used up  
    **Answer:** The other reactant is used up. *Why:* A reaction needs every reactant. When one is used up, the reaction stops, however much of the other is left.
 7. (mcq) Soap and vinegar make a white solid and a dissolved salt. What kind of reaction is this?  
-   Options: Swapping / Joining / Splitting / Burning  
+   Options: Joining / Splitting / Swapping / Burning  
    **Answer:** Swapping. *Why:* Two substances exchange parts and make two new substances. The sodium and the hydrogen change places.
 8. (truefalse) In a chemical reaction, atoms are made and destroyed.  
    **Answer:** False. *Why:* False. Atoms are only rearranged. The same atoms are there before and after.
 9. (mcq) Which of these will not burn in a candle flame?  
-   Options: Ash / Paper / A dry leaf / A cotton thread  
+   Options: Paper / A dry leaf / Ash / A cotton thread  
    **Answer:** Ash. *Why:* Ash is what is left after burning. Its atoms have already joined with oxygen.
 10. (mcq) Dry baking soda is heated, and drops of water collect on a cold lid. Where did the water come from?  
-   Options: From the baking soda as it split / From the steel of the lid / From the air in the kitchen / From the gas cylinder  
+   Options: From the steel of the lid / From the air in the kitchen / From the gas cylinder / From the baking soda as it split  
    **Answer:** From the baking soda as it split. *Why:* Heat splits baking soda into washing soda, water and carbon dioxide. The water leaves as steam and turns to drops on the cold lid.
 11. (mcq) Which reaction fits two kinds at once?  
-   Options: Hydrogen burning to make water / Sand drying in the sun / Sugar dissolving in tea / Ice melting  
+   Options: Sand drying in the sun / Sugar dissolving in tea / Hydrogen burning to make water / Ice melting  
    **Answer:** Hydrogen burning to make water. *Why:* Hydrogen burning is a fuel reacting with oxygen, and it is two substances becoming one. The other three are not chemical reactions.
 12. (mcq) What is a precipitate?  
-   Options: A solid formed inside a liquid / A gas that escapes from a liquid / A liquid that dissolves a solid / A powder that is stirred into water  
+   Options: A gas that escapes from a liquid / A solid formed inside a liquid / A liquid that dissolves a solid / A powder that is stirred into water  
    **Answer:** A solid formed inside a liquid. *Why:* A precipitate is a new solid that appears inside a liquid, because one product does not dissolve.
 
 ## Applications
@@ -684,12 +684,12 @@ Behind her, Aaya lit the kiln.
 - Engines and stoves are built to mix fuel with enough oxygen. With too little oxygen, burning makes soot and a poisonous gas called carbon monoxide.
 
 ## Spotted around us
-- A sweet shop in Kolkata, where cooks split hot milk with sour whey to make chhena for rasgulla and sandesh.
+- A sweet shop where cooks split hot milk with sour whey to make chhena for rasgulla and sandesh.
 - A grey or white ring round the inside of a bathroom bucket. It is soap that has swapped parts with the calcium in hard water.
 - White crust inside a kettle or a water heater. Heating breaks down a substance that was dissolved in hard water. That makes limestone, which does not dissolve, so it forms a solid crust.
-- A doctor's plaster cast on an arm, or a plaster Ganesha drying before Ganesh Chaturthi in Mumbai or Hyderabad.
-- The blue flame of a gas stove in any kitchen. The yellow flames of oil lamps at Karthigai Deepam in Tamil Nadu.
-- Stalactites in the Borra Caves in Andhra Pradesh and the Mawsmai Cave in Meghalaya. Each one is a precipitate that grew drop by drop.
+- A doctor's plaster cast on an arm, or a plaster Ganesha drying before Ganesh Chaturthi.
+- The blue flame of a gas stove in any kitchen. The yellow flames of oil lamps at Karthigai Deepam.
+- Stalactites hanging in a cave. Each one is a precipitate that grew drop by drop.
 
 ## Open questions
 - **Which chemical reactions first led to life on the Earth?** No one was there to see it, and the first reactions left no fossils. Scientists test ideas in the laboratory, but no one has yet made life from simple chemicals.
@@ -743,6 +743,12 @@ Hold On Tight (sci.chemistry.L4): Topic-level song
 ## Things to buy
 - [Plaster of Paris, 500 grams](https://www.amazon.in/s?k=plaster+of+paris+powder) (material): For Powder and Water and The Sharpest Coin Print. Hardware, paint and stationery shops sell it, and a small pack costs little. No home powder sets in the same way. Used in e2, c1. 
 - [A bottle of white vinegar, about 500 millilitres](https://www.amazon.in/s?k=white+vinegar) (material): For Soap and Sour. Any grocery shop sells it, and a bottle costs little. Strained lemon juice works in its place. Used in e3. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Soap and Sour: what does vinegar do to soap?. About ₹10 to ₹30. Any school ruler is fine. Used in e3. Get it before Soap and Sour: what does vinegar do to soap?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Will It Burn? Seven things in a candle flame. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in a2. Get it before Will It Burn? Seven things in a candle flame.
+- [Baking soda](https://www.amazon.in/s?k=baking+soda) (material): Used in The Pan and the Lid: can heat split a powder?. About ₹20 to ₹40. Check the kitchen first. Used in a1. Get it before The Pan and the Lid: can heat split a powder?.
+- [Clean sand (a small bag)](https://www.amazon.in/s?k=play+sand+small+bag) (material): Used in Powder and Water: which powder joins with the water?. About ₹20 to ₹60. Fine soil sieved from a pot works. Used in e2. Get it before Powder and Water: which powder joins with the water?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Four Plates: build one reaction of each kind. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a3. Get it before Four Plates: build one reaction of each kind.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Two substances become one. What kind of reaction is that? → A joining reaction.
@@ -763,7 +769,7 @@ Hold On Tight (sci.chemistry.L4): Topic-level song
 - Founder's notebook, Chemistry list, item 20: 'Types of Reactions: synthesis, decomposition, redox, acid-base, precipitation', and items 200 to 202: 'Combination, decomposition, single-replacement, double-replacement'. Redox and balancing (item 203) are left for sci.chemistry.kinds-of-reactions.L5, as the curriculum says.
 - Curriculum entry sci.chemistry.kinds-of-reactions.L4: 'Joining, splitting, swapping and burning; milk and lemon make curds (precipitation).' All five are covered.
 - No lower level of this subtopic exists. Related units were read so that nothing repeats. Splitting Milk in sci.food.nutrients.L3 tests which liquids curdle milk, so Second Squeeze asks a different question: which reactant is used up. sci.changes.chemical-reactions.L4 has the vinegar and baking soda tests, the rust glass and the Reaction Families game. sci.changes.fire.L3 and L4 have the candle tests. sci.chemistry.reaction-speed.L3 and L4 have peroxide, fruit salt and apple tests. sci.chemistry.bonds.L3 has water splitting with a battery. The experiments, the game and the story here are new.
-- The topic-level song title, Hold On Tight, is shared with sci.chemistry.polymers.L4 and sci.chemistry.reaction-speed.L4.
+- The idea-level song title, Hold On Tight, is shared with sci.chemistry.polymers.L4 and sci.chemistry.reaction-speed.L4.
 - Bergman T. (1775). Disquisitio de attractionibus electivis. Nova Acta Regiae Societatis Scientiarum Upsaliensis 2. (English: A Dissertation on Elective Attractions, 1785.)
 - Berthollet C.-L. (1801). Recherches sur les lois de l'affinité. Paris.
 - Berthollet C.-L. (1803). Essai de statique chimique. Firmin Didot, Paris.

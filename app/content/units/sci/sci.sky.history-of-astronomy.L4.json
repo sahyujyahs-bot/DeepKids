@@ -639,11 +639,11 @@
       "t": "mcq",
       "q": "Over hours, a long pendulum's swing seems to turn round on the floor. Why?",
       "options": [
-       "The floor is turning under it, because the Earth spins",
        "The pendulum is getting tired",
-       "The wire is twisting"
+       "The wire is twisting",
+       "The floor is turning under it, because the Earth spins"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A pendulum keeps swinging in the same direction in space. The Earth turns under it, so the swing seems to turn over the floor."
      }
     },
@@ -919,11 +919,11 @@
       "t": "mcq",
       "q": "Why does the grown-up pick the slips in secret and make a small touch on every round?",
       "options": [
-       "So that the child cannot guess from any clue except the turning itself",
        "To make the game last longer",
-       "So the chair does not wear out"
+       "So the chair does not wear out",
+       "So that the child cannot guess from any clue except the turning itself"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A fair test changes one thing, which here is whether the chair turns. If the child could hear or feel something else that gave the answer away, you would not be testing the turning."
      },
      "context": "In this step you play six rounds with the eyes shut, and score each answer."
@@ -940,11 +940,11 @@
       "t": "mcq",
       "q": "When the chair stopped suddenly with your eyes shut, what did you feel?",
       "options": [
-       "A lean or a push, because stopping is a change of movement",
        "Nothing at all",
+       "A lean or a push, because stopping is a change of movement",
        "The room turning faster"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Our bodies feel changes in movement, such as starts, stops and turns. A steady movement is not felt. The sudden stop was a big change, so it was easy to feel."
      }
     },
@@ -1122,11 +1122,11 @@
       "t": "mcq",
       "q": "In the Earth-centred model, the ball stays between you and the lamp. What phases can it show?",
       "options": [
-       "Only thin crescents or dark",
        "Half and full",
+       "Only thin crescents or dark",
        "Always full"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The lamp always lights the half of the ball that faces the lamp. If the ball stays in front of the lamp, most of what you see is the unlit side. So it can only look like a thin crescent."
      }
     },
@@ -1161,11 +1161,11 @@
       "t": "mcq",
       "q": "Galileo saw Venus look nearly full through his telescope. What did that show?",
       "options": [
-       "Venus can go behind the Sun, so it goes round the Sun",
        "Venus is bigger than the Sun",
+       "Venus can go behind the Sun, so it goes round the Sun",
        "Venus is made of light"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Venus looks nearly full only when it is on the far side of its path, beyond the Sun. That means it goes round the Sun, and not just in front of it. Ptolemy's model could not make this happen."
      }
     }
@@ -1342,11 +1342,11 @@
       "t": "mcq",
       "q": "Which setup do you expect to have the smallest spread?",
       "options": [
-       "Resting on a table with the long straw",
        "Held in the hands with the short straw",
+       "Resting on a table with the long straw",
        "They will all be the same"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A steady rest and a longer sight both help aim at the same spot every time. So the readings should agree more closely. If your results differ, write them down as they are and ask why."
      }
     },
@@ -1361,11 +1361,11 @@
       "t": "mcq",
       "q": "Your best spread is 1 degree. How many arcminutes is that, and could you have noticed the 8 arcminute gap that Kepler found in Mars's path?",
       "options": [
-       "60 arcminutes, and no, the gap is hidden inside the spread",
        "60 arcminutes, and yes, easily",
-       "8 arcminutes, and yes"
+       "8 arcminutes, and yes",
+       "60 arcminutes, and no, the gap is hidden inside the spread"
       ],
-      "a": 0,
+      "a": 2,
       "why": "One degree has 60 arcminutes. A gap of 8 arcminutes is much smaller than the spread of your readings, so you could not see it. Tycho's readings were good to about one arcminute, so 8 arcminutes stood out clearly."
      }
     }
@@ -1511,11 +1511,11 @@
       "t": "mcq",
       "q": "The path of Mars looks almost exactly like a circle. How did Kepler know it was an ellipse?",
       "options": [
-       "Careful readings showed the Sun is off-centre, and that a circle missed by 8 arcminutes",
        "He measured the width of the path with a ruler",
+       "Careful readings showed the Sun is off-centre, and that a circle missed by 8 arcminutes",
        "He saw it through a telescope"
       ],
-      "a": 0,
+      "a": 1,
       "why": "To the eye, Mars's path is almost a circle. Only careful readings revealed the gap. Kepler trusted Tycho's readings enough to follow the gap, and found the ellipse."
      }
     }
@@ -1738,11 +1738,11 @@
       "t": "mcq",
       "q": "Why were planets called 'wanderers' by the Greeks?",
       "options": [
-       "They change place among the fixed stars from night to night",
        "They twinkle more than stars",
+       "They change place among the fixed stars from night to night",
        "They are lost in space"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Over days and weeks, the fixed stars keep their patterns, but a planet slowly moves against them. That wandering was the puzzle that astronomers worked on for thousands of years."
      }
     },
@@ -1766,11 +1766,11 @@
       "t": "mcq",
       "q": "In the app, Mars seems to slide backwards for a time. What is happening in a Sun-centred picture?",
       "options": [
-       "The faster Earth is overtaking the slower Mars",
        "Mars is turning round",
+       "The faster Earth is overtaking the slower Mars",
        "Mars is losing speed"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The Earth goes round the Sun faster than Mars does. As the Earth passes Mars, Mars seems to slide back against the stars, as a slower lorry seems to slide back when a car overtakes it."
      }
     }
@@ -1840,11 +1840,11 @@
       "t": "mcq",
       "q": "A calendar year is 11 minutes too long. After about how many years is the calendar one day out?",
       "options": [
-       "About 128 years",
        "About 4 years",
+       "About 128 years",
        "About 1,000 years"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A day has 1,440 minutes. 1,440 divided by 11 is about 131. So after about 128 to 131 years, the 11 minutes a year have added up to a day."
      }
     },
@@ -1868,11 +1868,11 @@
       "t": "mcq",
       "q": "Was the year 1900 a leap year?",
       "options": [
-       "No, because it does not divide by 400",
        "Yes, because it divides by 4",
-       "Yes, because it is a century year"
+       "Yes, because it is a century year",
+       "No, because it does not divide by 400"
       ],
-      "a": 0,
+      "a": 2,
       "why": "1900 divides by 4, but it is a century year, and century years are leap years only if they divide by 400. 1900 does not, so there was no 29 February that year. The year 2000 did divide by 400, so it was a leap year."
      }
     }
@@ -1965,11 +1965,11 @@
       "t": "mcq",
       "q": "Why does the pendulum hang from a swivel?",
       "options": [
-       "So the frame can turn without the thread twisting the weight round",
        "So the weight is heavier",
+       "So the frame can turn without the thread twisting the weight round",
        "So the pendulum swings faster"
       ],
-      "a": 0,
+      "a": 1,
       "why": "If the thread were fixed, turning the frame would twist the thread, and the twist would push the pendulum round. A swivel lets the top turn freely while the weight carries on in its own direction."
      },
      "context": "In this step you build the frame and hang the pendulum."
@@ -1995,11 +1995,11 @@
       "t": "mcq",
       "q": "In Foucault's pendulum, the swing seemed to turn slowly round the floor. What did that show?",
       "options": [
-       "The floor, and the Earth, was turning under the pendulum",
        "The pendulum was tired",
+       "The floor, and the Earth, was turning under the pendulum",
        "The wire was twisting"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A pendulum keeps its swing direction, as your turntable pendulum did. If the swing seems to turn over the floor, the floor must be turning under it. This showed that the Earth spins."
      }
     }
@@ -2096,11 +2096,11 @@
       "t": "mcq",
       "q": "When is the shadow of a stick shortest in the day?",
       "options": [
-       "At local noon, when the Sun is highest",
        "At sunrise",
+       "At local noon, when the Sun is highest",
        "At sunset"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The Sun is highest at local noon, so it shines down more steeply and makes the shortest shadow. At sunrise and sunset the Sun is low and the shadow is long."
      }
     },
@@ -2250,11 +2250,11 @@
      "t": "mcq",
      "p": "In a Sun-centred picture, why does Mars seem to slide backwards for a time?",
      "opts": [
-      "The faster Earth is overtaking the slower Mars",
       "Mars stops and turns round",
+      "The faster Earth is overtaking the slower Mars",
       "Mars goes behind the Sun"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The Earth goes round the Sun faster than Mars does. As the Earth passes Mars, Mars seems to slide back against the stars, as a slower lorry seems to slide back when a car passes it.",
      "outcome": 1
     },
@@ -2314,11 +2314,11 @@
      "t": "mcq",
      "p": "What is an ellipse?",
      "opts": [
-      "A stretched circle, like an oval, with two special points inside",
       "A circle with a bump",
+      "A stretched circle, like an oval, with two special points inside",
       "A straight line"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A circle is a special ellipse with both special points in the same place. Planets move on ellipses with the Sun at one of the two points.",
      "outcome": 4
     },
@@ -2371,11 +2371,11 @@
      "t": "mcq",
      "p": "Your sundial says noon when your phone says 12:20. What is the best reason?",
      "opts": [
-      "The sundial shows the Sun's time at your place, and the phone shows one time for the whole country",
       "The sundial is broken",
+      "The sundial shows the Sun's time at your place, and the phone shows one time for the whole country",
       "The phone is wrong"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Each place has its own noon, because the Earth turns. The phone follows Indian Standard Time, set by the Sun far to the east. Places to the west see their noon later on the phone.",
      "how": "a2",
      "outcome": 5
@@ -2462,11 +2462,11 @@
      "t": "mcq",
      "p": "Why is it so hot across India in May, when the Earth is not closer to the Sun then?",
      "opts": [
-      "The tilt of the Earth's axis makes the Sun climb higher and the days longer",
       "The Earth is closer to the Sun in May",
-      "The Moon warms the Earth"
+      "The Moon warms the Earth",
+      "The tilt of the Earth's axis makes the Sun climb higher and the days longer"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The Earth is actually nearest to the Sun in early January. Seasons come from the tilt of the axis, which changes how high the Sun climbs.",
      "outcome": 4
     },
@@ -2652,11 +2652,11 @@
      "t": "mcq",
      "p": "Kolkata is east of Jaipur. Which has local noon first?",
      "opts": [
-      "Kolkata, because the Sun reaches the east first",
       "Jaipur, because it is larger",
-      "They have noon at the same moment"
+      "They have noon at the same moment",
+      "Kolkata, because the Sun reaches the east first"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The Earth turns towards the east, so the Sun reaches places in the east first. Kolkata has its noon nearly an hour before Jaipur.",
      "outcome": 5
     },
@@ -2719,11 +2719,11 @@
      "t": "mcq",
      "p": "A pendulum is set swinging at the North Pole. About how long does its swing take to turn once all the way round the floor?",
      "opts": [
-      "About one day",
       "About one hour",
-      "It never turns"
+      "It never turns",
+      "About one day"
      ],
-     "a": 0,
+     "a": 2,
      "why": "At the pole, the floor turns once all the way round in about 24 hours under the pendulum. So the swing seems to turn once round in a day. Near the equator it would hardly turn at all.",
      "outcome": 0
     },
@@ -2731,11 +2731,11 @@
      "t": "mcq",
      "p": "You draw an ellipse with a 24 centimetre loop and the pins 6 centimetres apart. About how wide is it?",
      "opts": [
-      "18 centimetres",
       "24 centimetres",
-      "30 centimetres"
+      "30 centimetres",
+      "18 centimetres"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The loop's length is the pin distance plus the width, so the width is 24 take away 6, which is 18 centimetres.",
      "how": "a1",
      "outcome": 4
@@ -2832,11 +2832,11 @@
      "t": "mcq",
      "p": "At the equator the ground moves at about 1,670 kilometres an hour with the Earth's spin. How fast does the ground move at the North Pole?",
      "opts": [
-      "Hardly at all, just turning on the spot",
       "1,670 kilometres an hour",
-      "3,340 kilometres an hour"
+      "3,340 kilometres an hour",
+      "Hardly at all, just turning on the spot"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Right at the pole, the ground just turns once a day on the spot. The farther from the pole, the bigger the circle, and the faster the ground moves.",
      "outcome": 0
     },
@@ -2892,11 +2892,11 @@
    "t": "mcq",
    "p": "A cup of tea stays steady on a tray in a smooth aeroplane flying at 800 kilometres an hour. What does this show about steady movement?",
    "opts": [
-    "A steady movement does not disturb things or feel like anything",
     "Aeroplanes are made to hold tea cups",
+    "A steady movement does not disturb things or feel like anything",
     "Tea is heavy"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Only changes in movement are felt. A smooth steady speed leaves everything inside as if it were still. This is why we do not feel the Earth turn.",
    "outcome": 0
   },
@@ -2916,11 +2916,11 @@
    "t": "mcq",
    "p": "Why did Ptolemy add small circles to the paths of the planets?",
    "opts": [
-    "To explain why planets seem to slide backwards for a time",
     "To make the paths look pretty",
-    "To make the planets bigger"
+    "To make the planets bigger",
+    "To explain why planets seem to slide backwards for a time"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A plain circle round the Earth cannot make a planet go backwards. A small circle riding on a big one can, and Ptolemy's tables worked well enough for over a thousand years.",
    "outcome": 1
   },
@@ -2940,11 +2940,11 @@
    "t": "mcq",
    "p": "A white ball always stays between you and a lamp. What can the ball look like?",
    "opts": [
-    "A thin crescent or dark",
     "A nearly full ball",
+    "A thin crescent or dark",
     "A half ball"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The lamp lights the half of the ball that faces the lamp. If the ball stays in front of the lamp, you mostly see the dark half.",
    "outcome": 2,
    "how": "e2"
@@ -2953,11 +2953,11 @@
    "t": "mcq",
    "p": "Galileo saw Venus look nearly full and small, and later look like a big thin crescent. What did this show?",
    "opts": [
-    "Venus goes round the Sun and not only in front of it",
     "Venus is a star",
-    "Venus is a Moon"
+    "Venus is a Moon",
+    "Venus goes round the Sun and not only in front of it"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Venus looks nearly full only when it is on the far side of its path, beyond the Sun. Ptolemy's model could not do this.",
    "outcome": 2
   },
@@ -2965,11 +2965,11 @@
    "t": "mcq",
    "p": "Why do repeated readings of an angle agree more closely when the instrument rests on a table than when it is held in the hands?",
    "opts": [
-    "The table took away the shaking of the hands",
     "The table made the sticker bigger",
-    "The table made the numbers smaller"
+    "The table made the numbers smaller",
+    "The table took away the shaking of the hands"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A shaking hand scatters the readings. A steady rest makes each reading nearly the same as the last, which is higher precision.",
    "outcome": 3,
    "how": "e3"
@@ -2990,11 +2990,11 @@
    "t": "mcq",
    "p": "What is the shape of the path of a planet round the Sun?",
    "opts": [
-    "An ellipse, with the Sun at one of the two special points",
     "A perfect circle with the Sun in the middle",
+    "An ellipse, with the Sun at one of the two special points",
     "A straight line"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Kepler found this from Tycho's readings of Mars. For most planets, the ellipse is so close to a circle that only careful readings show the difference.",
    "outcome": 4
   },
@@ -3027,11 +3027,11 @@
    "t": "mcq",
    "p": "The Jaipur sundial says noon when the phone says 12:27. Why do they differ?",
    "opts": [
-    "The dial shows Jaipur's own Sun time, and the phone shows one time for all of India",
     "The dial is 27 minutes slow",
-    "The phone is 27 minutes fast"
+    "The phone is 27 minutes fast",
+    "The dial shows Jaipur's own Sun time, and the phone shows one time for all of India"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Each place has its own noon, because the Earth turns. Indian Standard Time is set by the Sun far to the east, so the Sun reaches Jaipur later on that clock.",
    "outcome": 5
   },
@@ -3039,11 +3039,11 @@
    "t": "mcq",
    "p": "In 1925, Cecilia Payne found what the stars are mostly made of. What was it?",
    "opts": [
-    "Hydrogen and helium",
     "Iron and rock",
-    "Water and ice"
+    "Water and ice",
+    "Hydrogen and helium"
    ],
-   "a": 0,
+   "a": 2,
    "why": "She used the dark lines in starlight and an equation by the Indian physicist Meghnad Saha. She showed that stars are mostly hydrogen and helium, though she was told at first that this was impossible.",
    "outcome": 6
   }
@@ -3416,6 +3416,82 @@
    "used_in": [
     "p1"
    ]
+  },
+  {
+   "id": "b-a-magnetic-compass",
+   "item": "A magnetic compass",
+   "kind": "tool",
+   "why": "Used in A Sundial for Your City: build a small Samrat Yantra. About ₹30 to ₹150. A phone compass app also works.",
+   "url": "https://www.amazon.in/s?k=magnetic+compass+school",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Get it before A Sundial for Your City: build a small Samrat Yantra."
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in Tycho's Quadrant: how precisely can you measure an angle?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "e3"
+   ],
+   "plan": "Get it before Tycho's Quadrant: how precisely can you measure an angle?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Tycho's Quadrant: how precisely can you measure an angle?, Kepler's Ellipse: draw a planet's path with string and two pins, A Sundial for Your City: build a small Samrat Yantra. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e3",
+    "a1",
+    "a2",
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before Tycho's Quadrant: how precisely can you measure an angle?."
+  },
+  {
+   "id": "b-paper-masking-tape",
+   "item": "Paper masking tape",
+   "kind": "material",
+   "why": "Used in Galileo's Venus: can Venus look full if it stays between us and the Sun?, A Pendulum on a Turntable: the idea behind Foucault's proof, Find North and Noon with Just a Stick and the Sun. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor.",
+   "url": "https://www.amazon.in/s?k=paper+masking+tape",
+   "used_in": [
+    "e2",
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before Galileo's Venus: can Venus look full if it stays between us and the Sun?."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Kepler's Ellipse: draw a planet's path with string and two pins. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Get it before Kepler's Ellipse: draw a planet's path with string and two pins."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

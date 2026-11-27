@@ -53,6 +53,12 @@
    "art": "One plain apple slice on a plate with a small flag saying 'control'."
   },
   {
+   "term": "Hazard",
+   "meaning": "Something that could hurt you or someone else.",
+   "example": "A sharp knife, boiling water, or a wet floor.",
+   "art": "A knife, a steaming kettle and a puddle on a floor, each with a small warning triangle."
+  },
+  {
    "term": "Prediction",
    "meaning": "Your guess about what will happen, with a reason, made before the test.",
    "example": "\"I think the lemon slice will stay white, because lemon juice is sour and I have seen it put on cut fruit.\"",
@@ -89,6 +95,12 @@
    "art": "A table with one column shaded blue and one row shaded yellow."
   },
   {
+   "term": "Block graph",
+   "meaning": "A picture of results where each block is as tall as the number it shows.",
+   "example": "A block 7 squares tall for underarm and a block 4 squares tall for overarm.",
+   "art": "Two blocks on squared paper, one tall and one short, with a scale up the side."
+  },
+  {
    "term": "Repeat",
    "meaning": "To do the same test again, in the same way, to see if you get the same result.",
    "example": "Throw the paper ball 10 times, not once, before you decide which throw is better.",
@@ -99,6 +111,12 @@
    "meaning": "A result that happened by chance once and may not happen again.",
    "example": "One wild throw that goes straight in the bucket is a fluke if the next nine miss.",
    "art": "A paper ball flying into a bucket while the child looks surprised."
+  },
+  {
+   "term": "Average",
+   "meaning": "One middle number for a set of results. Add the results and divide by how many there are.",
+   "example": "Bounces of 45, 44 and 46 centimetres add up to 135. Divided by 3, the average is 45 centimetres.",
+   "art": "Three bars of different heights with a dotted line across the middle."
   },
   {
    "term": "Evidence",
@@ -156,6 +174,20 @@
    "context": "This card is about the control, the part of a test where you change nothing, and why every fair test needs one."
   },
   {
+   "concept": "Checking for hazards",
+   "status": "defined",
+   "definition": "A hazard is something that could hurt you or someone else.",
+   "description": "Before you start any test, look around and ask: what could go wrong? A knife can cut, so a grown-up cuts the apples. Lemon juice stings if it gets in your eyes. Hot water can burn, so use warm water, not boiling. A wet floor can make someone slip. Write the hazards down with the plan. Then decide how to avoid each one, and keep that decision the same for every try, so safety does not change the test.",
+   "examples": [
+    "Brown Apple Test: a grown-up cuts the apple. Wash your hands after touching lemon juice.",
+    "Ten Throws: wipe any water on the floor near the bucket. Clear the space so nobody gets hit.",
+    "Tumbler test: use warm water from the tap, not boiling water."
+   ],
+   "perspectives": [],
+   "art": "A child at a table with a plan on paper, a short list headed hazards, and a grown-up cutting an apple behind her.",
+   "context": "This card says to look for hazards before a test, and how to deal with them."
+  },
+  {
    "concept": "Writing results in a table",
    "status": "defined",
    "definition": "A results table has rows and columns. Each column has a heading that says what it holds, with the unit, such as 'Height (cm)'. Each row is one thing you tested.",
@@ -170,6 +202,33 @@
    "context": "This card explains how to write results in a table, and why we draw the table before we start."
   },
   {
+   "concept": "Drawing what you see",
+   "status": "defined",
+   "definition": "A labelled diagram is a drawing of what you see, with a word or two beside each part.",
+   "description": "A table is good for numbers. But some things you see cannot be written in a number, like how brown an apple slice looks. For these, draw a diagram next to the table. Draw each slice. Colour it as it looks. Write a label beside it, such as lemon, plain or water, and the time you looked. Later, you can place your diagram beside your table and see if they tell the same story.",
+   "examples": [
+    "After 30 minutes, draw each apple slice. Colour it the shade it has turned, and label it with what was on it.",
+    "Draw the brinjal bowl, and label the pieces that float and the pieces that sink."
+   ],
+   "perspectives": [],
+   "art": "A page with three apple slices drawn side by side, each with a label and shaded from pale to brown, beside a small table.",
+   "context": "This card says how a drawing can show what a table cannot."
+  },
+  {
+   "concept": "Showing results as a block graph",
+   "status": "defined",
+   "definition": "A block graph is a picture of a table. Each block is as tall as the number it shows.",
+   "description": "A table holds the numbers. A block graph lets you see them at a glance. Look at the two blocks for the Ten Throws test: underarm is 7 and overarm is 4. Underarm's block is taller, so more balls went in underarm. To read a block graph, look at the title, then the label under each block, then the scale up the side. A good scale starts at 0 and counts up evenly. The taller block is the bigger number. A graph can show what a table says, but it cannot show more than the test found.",
+   "examples": [
+    "A block graph of how many balls went in: underarm 7, overarm 4.",
+    "A block graph of bounces: rubber ball 45 cm, tennis ball 39 cm.",
+    "A block graph of how many children in class like each fruit best."
+   ],
+   "perspectives": [],
+   "art": "Squared paper with two blocks, underarm up to 7 and overarm up to 4, a numbered scale up the side and labels under each block.",
+   "context": "This card says how to read a block graph and what it shows."
+  },
+  {
    "concept": "Why we repeat a test",
    "status": "defined",
    "definition": "Doing a test only once can mislead you, because one try can be a fluke. Repeating it in the same way shows whether the result is real.",
@@ -182,6 +241,19 @@
    "perspectives": [],
    "art": "Ten tally marks next to a bucket, with one paper ball that missed off to the side.",
    "context": "This card explains why scientists test more than once, and what to do with an odd result."
+  },
+  {
+   "concept": "Averaging repeated results",
+   "status": "defined",
+   "definition": "An average is one middle number for a set of results. Add the results, then divide by how many there are.",
+   "description": "When you repeat a test, you get several numbers that are close but not the same. An average gives one fair number to compare. A ball drops three times and bounces 45, 44 and 46 centimetres. Add them: 45 plus 44 plus 46 is 135. Divide by 3 tries, and the average is 45 centimetres. An average only helps when the tries were done the same way. If one try is far from the rest, check what went wrong before you use it.",
+   "examples": [
+    "Underarm throws in three rounds of ten went in 6, 7 and 8 times. Added up, that is 21. Divided by 3, the average is 7.",
+    "Two paper planes fly 3, 4 and 3 metres, and 5, 6 and 5 metres. The averages are about 3 and 5 metres, so the second plane is probably better."
+   ],
+   "perspectives": [],
+   "art": "Three bounce heights marked on a wall beside a ruler, with a dotted line at the middle height labelled average.",
+   "context": "This card says how to turn repeated results into one number to compare."
   },
   {
    "concept": "Why a cut apple turns brown, and what lemon does",
@@ -507,10 +579,10 @@
       "t": "mcq",
       "q": "One idli is wrapped in a banana leaf and one in foil. The idlis are the same size and from the same batch, and both are felt after 20 minutes. Is this test fair?",
       "options": [
-       "Fair, because only the wrapping is different",
-       "Unfair, because two wrappings were used"
+       "Unfair, because two wrappings were used",
+       "Fair, because only the wrapping is different"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Only the wrapping changes. The idlis, the time and the way they are checked are the same, so any difference must come from the wrapping."
      }
     },
@@ -1246,10 +1318,10 @@
       "q": "Where should you write 'seconds' in the table?",
       "options": [
        "After every number",
-       "Once, in each column heading",
-       "Nowhere"
+       "Nowhere",
+       "Once, in each column heading"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Writing the unit in the heading tells everyone what every number in that column means, and keeps the table tidy."
      }
     },
@@ -1718,11 +1790,11 @@
    "p": "What is a fair test?",
    "opts": [
     "A test where everyone wins",
-    "A test where you change only one thing and keep everything else the same",
     "A test you do only once",
+    "A test where you change only one thing and keep everything else the same",
     "A test that agrees with your guess"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A fair test changes only one thing. Then any difference in the result must come from that one thing.",
    "outcome": 0
   },
@@ -1743,12 +1815,12 @@
    "t": "mcq",
    "p": "One tomato plant sits on the sunny balcony and is watered every day. Another sits inside and is not watered. The balcony plant grows better. What is wrong with this test?",
    "opts": [
-    "Nothing, it is fair",
     "Two things were different: the light and the water",
+    "Nothing, it is fair",
     "It used plants",
     "It should have used three plants"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Light and water were both different, so nobody can tell which one helped the balcony plant.",
    "outcome": 1
   },
@@ -1770,12 +1842,12 @@
    "t": "mcq",
    "p": "In the Brown Apple Test, which of these should be the same for every slice?",
    "opts": [
-    "What you put on it",
     "The apple it was cut from",
+    "What you put on it",
     "Its colour at the end",
     "Its label"
    ],
-   "a": 1,
+   "a": 0,
    "why": "All slices come from one apple. Different apples can brown at different speeds, so using two apples would be unfair.",
    "outcome": 2,
    "how": "e1"
@@ -1785,11 +1857,11 @@
    "p": "You throw a paper ball once underarm and it goes in. You throw once overarm and miss. What should you do next?",
    "opts": [
     "Decide underarm is better",
-    "Throw many more times each, the same way",
     "Stop playing",
-    "Use a different bucket"
+    "Use a different bucket",
+    "Throw many more times each, the same way"
    ],
-   "a": 1,
+   "a": 3,
    "why": "One throw can be a fluke. Ten throws each give a much better answer.",
    "outcome": 4,
    "how": "e2"
@@ -1799,11 +1871,11 @@
    "p": "In a results table, where do you write the unit, such as 'seconds'?",
    "opts": [
     "After every number",
-    "In the column heading",
     "At the very bottom",
-    "You don't need units"
+    "You don't need units",
+    "In the column heading"
    ],
-   "a": 1,
+   "a": 3,
    "why": "The unit goes once in the heading, for example 'Time (seconds)'. It tells everyone what all the numbers in that column mean.",
    "outcome": 3
   },
@@ -1812,11 +1884,11 @@
    "p": "A table for Ten Throws says: underarm 7 out of 10, overarm 4 out of 10. What can you say from it?",
    "opts": [
     "Overarm got more in",
-    "Underarm got more in, in this test",
     "They were the same",
+    "Underarm got more in, in this test",
     "You can't say anything"
    ],
-   "a": 1,
+   "a": 2,
    "why": "7 is more than 4. So in this test of ten throws each, more went in underarm. Repeating the test would make you surer.",
    "outcome": 3,
    "how": "e2"
@@ -1825,12 +1897,12 @@
    "t": "mcq",
    "p": "Why does a cut apple slice turn brown?",
    "opts": [
-    "It is dirty",
     "Substances in the broken cells meet oxygen in the air",
+    "It is dirty",
     "The knife was steel",
     "Light shines on it"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Cutting breaks the apple's cells. Their substances meet the oxygen in the air, and an enzyme makes brown substances.",
    "outcome": 5,
    "how": "e1"
@@ -1839,12 +1911,12 @@
    "t": "mcq",
    "p": "A ship's doctor wants to find which treatment cures sailors sick with scurvy. He splits them into six pairs. To make it a fair test, what should be different between the pairs?",
    "opts": [
-    "The treatment they are given",
     "The food they eat",
     "The part of the ship they sleep in",
-    "The illness they have"
+    "The illness they have",
+    "The treatment they are given"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Every pair should have the same food, the same place to sleep and the same illness. Only the treatment changes, so if one pair gets better, it must be the treatment that helped.",
    "outcome": 6
   },
@@ -1865,14 +1937,62 @@
    "t": "mcq",
    "p": "Your test shows something you didn't expect. What is the best thing to do?",
    "opts": [
-    "Change the result to match your guess",
     "Keep the result, check the test was fair, and repeat it",
+    "Change the result to match your guess",
     "Throw the table away",
     "Say the test is broken"
    ],
-   "a": 1,
+   "a": 0,
    "why": "An unexpected result is still a result. If the test was fair and gives the same result again, you have learned something new.",
    "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "A block graph shows underarm at 7 and overarm at 4 balls in. Which is right?",
+   "opts": [
+    "Overarm's block is taller, because it is thrown harder",
+    "Underarm's block is taller, so more balls went in underarm",
+    "You cannot tell anything from a block graph"
+   ],
+   "a": 1,
+   "why": "A taller block means a bigger number. Here 7 is more than 4. A block graph is a picture of the table, so you can read it the same way.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "In the Brown Apple Test, how do you record how brown each slice looks, when a number will not do?",
+   "opts": [
+    "Do not record it at all",
+    "Draw each slice, colour it as it looks, and label it",
+    "Write 'apple' for every slice"
+   ],
+   "a": 1,
+   "why": "A labelled drawing shows what you saw. A table of times and numbers cannot show shades, and leaving it out loses evidence.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "Before Ten Throws, you see water spilled on the floor near the bucket. What should you do?",
+   "opts": [
+    "Start, and just throw carefully",
+    "Wipe it up first, then start",
+    "Throw harder, so you get it done quickly"
+   ],
+   "a": 1,
+   "why": "A wet floor is a hazard, because someone could slip. Checking for hazards comes before the test starts.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "A ball bounces 20, 22 and 21 centimetres in three drops. What is the average bounce?",
+   "opts": [
+    "21 centimetres",
+    "20 centimetres",
+    "63 centimetres"
+   ],
+   "a": 0,
+   "why": "Add them: 20 plus 22 plus 21 is 63. Divide by 3 drops, and you get 21. The number 63 is only the total.",
+   "outcome": 4
   }
  ],
  "worksheets": [
@@ -1885,12 +2005,12 @@
     {
      "t": "mcq",
      "p": "Which floats longer: a paper boat folded from newspaper, or one folded from a notebook page? Which test is fair?",
-     "a": 1,
+     "a": 2,
      "why": "The boats must be the same size, and they must float in the same water at the same time. Only the paper is different.",
      "opts": [
       "A big newspaper boat in a bucket and a small notebook boat in a pond",
-      "Two boats of the same size, put on the water at the same time in the same bucket",
-      "A wet boat and a dry boat"
+      "A wet boat and a dry boat",
+      "Two boats of the same size, put on the water at the same time in the same bucket"
      ]
     },
     {
@@ -2001,11 +2121,11 @@
     {
      "t": "mcq",
      "p": "A results table has a column headed 'Height'. What is missing from the heading?",
-     "a": 0,
+     "a": 1,
      "why": "The unit is missing. 'Height (cm)' tells everyone the numbers are centimetres.",
      "opts": [
-      "The unit, such as (cm)",
       "A colour",
+      "The unit, such as (cm)",
       "The date"
      ]
     },
@@ -2075,6 +2195,47 @@
      "a": "The same slope, lifted the same way, and the same floor or board. Also the same person lifting it.",
      "why": "A strong answer names things that could change the result if they were different, such as the board or the slope.",
      "lines": 2
+    },
+    {
+     "t": "sort",
+     "p": "Is each thing a hazard in a test, or fine? Sort them.",
+     "cats": [
+      "Hazard",
+      "Fine"
+     ],
+     "items": [
+      [
+       "a wet floor near the bucket",
+       "Hazard"
+      ],
+      [
+       "a sharp knife used by a child",
+       "Hazard"
+      ],
+      [
+       "boiling water in a tumbler",
+       "Hazard"
+      ],
+      [
+       "a pencil and a notebook",
+       "Fine"
+      ],
+      [
+       "a paper ball",
+       "Fine"
+      ]
+     ],
+     "a": "see items",
+     "why": "A hazard is something that could hurt you, like a slip, a cut or a burn. A pencil and a paper ball are safe to use."
+    },
+    {
+     "t": "fill",
+     "p": "In a block graph, a taller block means a bigger ______. You read it against the ______ up the side.",
+     "a": [
+      "number",
+      "scale"
+     ],
+     "why": "The height of a block shows the number. The scale up the side tells you how much each step is worth."
     }
    ]
   },
@@ -2094,11 +2255,11 @@
     {
      "t": "mcq",
      "p": "Paper plane A is thrown three times: 3 m, 4 m, 3 m. Plane B is thrown three times: 6 m, 1 m, 3 m. What can you say?",
-     "a": 1,
+     "a": 0,
      "why": "A's throws are close together. B had one long throw, 6 m, which may be a fluke. Both planes went 10 m in total, so you can't yet say which is better. More throws are needed.",
      "opts": [
-      "Plane B is better because it went 6 m once",
       "You can't be sure yet: B's 6 m may be a fluke, and both went 10 m in total",
+      "Plane B is better because it went 6 m once",
       "Plane A is broken"
      ]
     },
@@ -2156,12 +2317,12 @@
     {
      "t": "mcq",
      "p": "Kavya's family did the Family Balance Table. Look at their table. Who balanced longest in total?",
-     "a": 1,
+     "a": 2,
      "why": "Paati's times add to 60 seconds, Kavya's to 45 and Appa's to 30. Paati balanced longest.",
      "opts": [
       "Kavya",
-      "Her grandmother, Paati",
-      "Her father, Appa"
+      "Her father, Appa",
+      "Her grandmother, Paati"
      ],
      "how": "a2",
      "chart": {
@@ -2199,11 +2360,11 @@
      "t": "mcq",
      "p": "A table shows three bounces for each ball. The rubber ball bounced 45, 44 and 46 centimetres. The tennis ball bounced 38, 40 and 39 centimetres. What can you say?",
      "opts": [
-      "The rubber ball bounced higher on every try, so it is probably bouncier",
       "The tennis ball is bouncier because it is lighter",
+      "The rubber ball bounced higher on every try, so it is probably bouncier",
       "You can say nothing from three tries"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Every rubber ball bounce was higher than every tennis ball bounce, and the three tries of each ball were close together. That is good evidence."
     },
     {
@@ -2308,6 +2469,24 @@
      "a": "For example: Did both cars start from the same step? Did you both let go without pushing?",
      "why": "A strong question names one thing that might have been different apart from the car.",
      "lines": 2
+    },
+    {
+     "t": "mcq",
+     "p": "Plane B flew 6, 8 and 7 metres in three throws. What is its average?",
+     "opts": [
+      "7 metres",
+      "8 metres",
+      "21 metres"
+     ],
+     "a": 0,
+     "why": "Add 6, 8 and 7 to get 21. Divide by 3 throws, and the average is 7 metres. The number 21 is only the total."
+    },
+    {
+     "t": "draw",
+     "p": "Draw three apple slices as they look after 30 minutes: one with lemon, one with water, one with nothing. Colour each and label it.",
+     "a": "Three labelled slices: lemon is the palest, water is a little brown, and plain is the brownest.",
+     "why": "A labelled drawing keeps what you saw. It can sit beside the table and show the same story.",
+     "art": "Three blank circles on a notebook page, each with an empty line beneath."
     }
    ]
   },
@@ -2345,11 +2524,11 @@
     {
      "t": "mcq",
      "p": "In a fair test of salt on ice, the salted cube makes more water in 15 minutes. But the salt itself has also dissolved into the water. What does this mean?",
-     "a": 1,
+     "a": 0,
      "why": "The salt adds a little to the liquid, so the comparison is not perfect. Noticing hidden differences like this is what good scientists do. If the difference is bigger than the salt alone could add, it still shows that the salt melted more ice.",
      "opts": [
-      "The test is useless",
       "The salt adds a little to the water, so a small difference might not mean much",
+      "The test is useless",
       "Salt cannot dissolve"
      ]
     },
@@ -2400,12 +2579,12 @@
     {
      "t": "mcq",
      "p": "A shop says its new soap 'kills 99% of germs'. Which question best checks if this is a fair claim?",
-     "a": 1,
+     "a": 2,
      "why": "To know the soap helps, you must compare it with something, like plain soap. A claim with no comparison doesn't tell you much.",
      "opts": [
       "What colour is the soap?",
-      "Compared with what? Did plain soap kill as many?",
-      "How much does it cost?"
+      "How much does it cost?",
+      "Compared with what? Did plain soap kill as many?"
      ]
     },
     {
@@ -2692,7 +2871,81 @@
    "why": "A science museum with hands-on galleries where children can test things for themselves."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in The Fair Car Race. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before The Fair Car Race."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Brown Apple Test: what keeps a cut apple white?, The Family Balance Table, My Own Fair Test. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "a2",
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before The Brown Apple Test: what keeps a cut apple white?."
+  },
+  {
+   "id": "b-paper-masking-tape",
+   "item": "Paper masking tape",
+   "kind": "material",
+   "why": "Used in The Unfair Bounce. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor.",
+   "url": "https://www.amazon.in/s?k=paper+masking+tape",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Get it before The Unfair Bounce."
+  },
+  {
+   "id": "b-vinegar",
+   "item": "Vinegar",
+   "kind": "material",
+   "why": "Used in Be James Lind: act out the scurvy test. About ₹40 to ₹80. Lemon juice works for many tests.",
+   "url": "https://www.amazon.in/s?k=white+vinegar",
+   "used_in": [
+    "a4"
+   ],
+   "plan": "Get it before Be James Lind: act out the scurvy test."
+  },
+  {
+   "id": "b-a-small-toy-car-with-free-ro",
+   "item": "A small toy car with free-rolling wheels",
+   "kind": "material",
+   "why": "Used in The Fair Car Race. About ₹100 to ₹200. A marble or a round torch cell works.",
+   "url": "https://www.amazon.in/s?k=toy+car+pull+back+small",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before The Fair Car Race."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "A fair test changes how many things?",

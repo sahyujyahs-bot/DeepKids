@@ -677,11 +677,11 @@
       "t": "mcq",
       "q": "At about six weeks, how big is the growing baby?",
       "options": [
-       "About as small as a grain of rice",
        "About as big as a cricket ball",
-       "Already as big as a newborn"
+       "Already as big as a newborn",
+       "About as small as a grain of rice"
       ],
-      "a": 0,
+      "a": 2,
       "why": "At six weeks the baby is only about as long as a grain of rice. Yet their tiny heart is already beating. Picking a cricket ball usually means thinking babies grow fast at the start. In fact most of the growing in size happens in the last months."
      },
      "context": "This is a practice step in the Forty Weeks game. You look at week 6, when the heart starts beating."
@@ -991,11 +991,11 @@
       "t": "mcq",
       "q": "In the Floating Safe test, which egg usually stays whole?",
       "options": [
-       "The egg in the jar full of water",
        "The egg in the empty jar",
+       "The egg in the jar full of water",
        "Both crack the same"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The water spreads out each bump, so the egg is hardly jolted against the jar. In the empty jar the egg hits the hard side. Picking the empty jar often means thinking water is heavy and would squash the egg. But water presses gently from all sides at once."
      },
      "context": "This is the results step of the Floating Safe experiment. A raw egg was shaken in an empty jar and in a jar full of water."
@@ -1103,11 +1103,11 @@
       "t": "mcq",
       "q": "In the Hearing Through Water test, which hum usually comes through the water bag better?",
       "options": [
-       "The low hum",
        "The high hum",
-       "Both come through the same"
+       "Both come through the same",
+       "The low hum"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Low sounds travel through water and bodies better than high sounds. This is why an unborn baby hears low sounds, like voices and the heartbeat, best. Picking the high hum often means thinking sharp sounds carry further. But high sounds get muffled more."
      },
      "context": "This is the results step of Hearing Through Water. You listened to a low hum and a high hum through a bag of water."
@@ -1454,11 +1454,11 @@
       "t": "mcq",
       "q": "On the fruit line, a baby is about 6 cm at 12 weeks and about 25 cm at 20 weeks. How much did the baby grow?",
       "options": [
-       "About 19 cm",
        "About 31 cm",
-       "About 6 cm"
+       "About 6 cm",
+       "About 19 cm"
       ],
-      "a": 0,
+      "a": 2,
       "why": "25 take away 6 is 19. So the baby grew about 19 centimetres in 8 weeks. Picking 31 means adding the numbers instead of finding the difference."
      },
      "context": "This is the comparing step of How Big Was I?. You look at the lengths marked on your paper strip."
@@ -1559,11 +1559,11 @@
       "t": "mcq",
       "q": "When were your fingerprints made?",
       "options": [
-       "Before you were born, at about four months in the womb",
        "When you were a toddler",
-       "They change every year"
+       "They change every year",
+       "Before you were born, at about four months in the womb"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Fingerprints form in the womb at about four months. After that the pattern never changes, it only grows bigger. Picking 'every year' often comes from seeing hands grow. The hands grow, but the pattern of lines stays the same."
      },
      "think": "What else on your body is a mark from before you were born?",
@@ -1739,11 +1739,11 @@
       "t": "mcq",
       "q": "In the Womb in a Bottle model, what does the string stand for?",
       "options": [
-       "The umbilical cord, which carries food and oxygen",
        "The baby's arm",
-       "A rope that pulls the baby out"
+       "A rope that pulls the baby out",
+       "The umbilical cord, which carries food and oxygen"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The string stands for the umbilical cord. It joins the baby to the placenta, and carries food and oxygen to the baby. Picking 'a rope that pulls the baby out' confuses the cord with birth. At birth, the womb squeezes the baby out. The cord does not pull."
      },
      "context": "This is the labelling step of Womb in a Bottle. A toy baby floats in a bag of water, tied by a string to a red cloth circle."
@@ -1809,11 +1809,11 @@
       "t": "mcq",
       "q": "A newborn sees most clearly at about what distance?",
       "options": [
-       "About 20 to 30 centimetres, the distance to the face of the person holding them",
        "Across the room",
-       "As far as the sky"
+       "As far as the sky",
+       "About 20 to 30 centimetres, the distance to the face of the person holding them"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A newborn's eyes see best at about 20 to 30 centimetres. That is just the distance to the face of a grown-up holding the baby. Picking 'across the room' often means thinking babies see like grown-ups. Their eyes take months to sharpen."
      },
      "context": "This is the checking step of Newborn Eyes. You looked through a folded clear bag at a face close up and far away."
@@ -1916,11 +1916,11 @@
       "t": "mcq",
       "q": "On the scroll, which of these happens first?",
       "options": [
-       "The heart starts beating",
        "The baby hears sounds",
-       "The baby gets chubby"
+       "The baby gets chubby",
+       "The heart starts beating"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The heart starts beating at about six weeks, very early. Hearing comes at about six months. Getting chubby happens in the last months. Picking 'hears sounds' first often means thinking the senses come first. In fact the heart and body parts come first."
      },
      "context": "This is day 2 of the Forty-Week Scroll project. You draw what happens to the baby in weeks 13 to 28."
@@ -2026,11 +2026,11 @@
       "t": "mcq",
       "q": "Your egg cracked in a carrier with just one layer of paper. What would most likely help?",
       "options": [
-       "Fill the space around the egg with water or soft padding",
        "Make the box out of thinner paper",
-       "Hold the box more loosely"
+       "Hold the box more loosely",
+       "Fill the space around the egg with water or soft padding"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Water or padding all around spreads out each bump, just like the water around a baby in the womb. Thinner paper gives less protection. Holding more loosely lets the egg swing and bang more."
      },
      "context": "This is the testing step of the Egg-Baby Carrier challenge. You carry your egg on the stairs and check it."
@@ -2108,11 +2108,11 @@
       "t": "mcq",
       "q": "In your sling test, the doll's head keeps flopping back. What should you change?",
       "options": [
-       "Pull a fold of cloth up behind the head",
        "Make the sling looser",
+       "Pull a fold of cloth up behind the head",
        "Cover the doll's face with cloth"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A fold of cloth behind the head holds it up, as a grown-up's hand would. A looser sling lets it flop more. Covering a real baby's face is never safe, because they need to breathe freely."
      },
      "context": "This is the testing step of the Hold My Head challenge. You walk with a doll in your sling and check its head."
@@ -2132,10 +2132,10 @@
      "p": "Some people say a baby starts as a tiny, ready-made person who just gets bigger. Are they right?",
      "opts": [
       "Yes. The tiny person is just too small to see.",
-      "No. A baby starts as one cell, and the body parts form step by step.",
-      "Yes, but only for big babies."
+      "Yes, but only for big babies.",
+      "No. A baby starts as one cell, and the body parts form step by step."
      ],
-     "a": 1,
+     "a": 2,
      "why": "A strong answer says 'no'. Every person began as one cell, with no body parts at all. The heart, the hands and the eyes formed one after another. Scientists believed in the tiny ready-made person about 300 years ago, until they watched eggs grow day by day.",
      "art": "One small glowing cell."
     },
@@ -2194,11 +2194,11 @@
      "t": "mcq",
      "p": "In the Floating Safe test, you shook a raw egg in an empty jar and a raw egg in a jar full of water. What does this test tell us about a baby in the womb?",
      "opts": [
-      "The water around the baby spreads out bumps, so the baby is hardly jolted",
       "Water makes the baby heavier",
+      "The water around the baby spreads out bumps, so the baby is hardly jolted",
       "The baby needs to drink the water"
      ],
-     "a": 0,
+     "a": 1,
      "why": "In the full jar, each shake was spread out through the water, so the egg hardly knocked the jar. The water around a baby does the same. A strong answer links what you saw with the egg to the baby.",
      "how": "e1"
     },
@@ -2354,11 +2354,11 @@
      "t": "mcq",
      "p": "A mother has blood group O. Her new baby girl has blood group B. How can the baby have a different blood group from the mother she grew inside?",
      "opts": [
-      "The baby's blood changed at birth",
       "In the placenta, the two bloods stay apart, with a thin wall between them",
+      "The baby's blood changed at birth",
       "The doctor gave the baby new blood"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Many people think the two bloods mix. They do not. Food and oxygen pass through a very thin wall, but the bloods stay mostly apart. So the baby can have their own blood group."
     },
     {
@@ -2583,11 +2583,11 @@
      "t": "mcq",
      "p": "A grown-up has about 30 to 40 trillion cells. Where did all of them come from?",
      "opts": [
-      "From the food, which turned into cells by itself",
       "From one first cell, splitting again and again",
+      "From the food, which turned into cells by itself",
       "Each body part was made separately"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Every cell came from another cell, by splitting. Food is the building material, but it does not turn into cells by itself. A strong answer separates the builders (cells) from the bricks (food)."
     },
     {
@@ -2757,10 +2757,10 @@
    "p": "Each round of splitting doubles the number of cells. Which takes more rounds: going from 1 cell to 8 cells, or going from 8 cells to 64 cells?",
    "opts": [
     "1 to 8 takes more rounds",
-    "8 to 64 takes more rounds",
-    "Both take 3 rounds"
+    "Both take 3 rounds",
+    "8 to 64 takes more rounds"
    ],
-   "a": 2,
+   "a": 1,
    "how": "a1",
    "why": "1 to 2 to 4 to 8 is 3 rounds. 8 to 16 to 32 to 64 is also 3 rounds. Many children guess 8 to 64 takes longer, because 64 is a big number. But doubling grows faster and faster, so each round adds more cells than the last.",
    "outcome": 1
@@ -2769,11 +2769,11 @@
    "t": "mcq",
    "p": "A cell splits into two. What is each new cell?",
    "opts": [
+    "A whole living cell with the same DNA",
     "Half of a cell",
-    "A dead piece of the old cell",
-    "A whole living cell with the same DNA"
+    "A dead piece of the old cell"
    ],
-   "a": 2,
+   "a": 0,
    "why": "Each new cell is whole and alive, with a full copy of the instructions. Later, cells read different parts of them and become different kinds.",
    "outcome": 1
   },
@@ -2781,11 +2781,11 @@
    "t": "mcq",
    "p": "Predict. A pregnant woman cooks every day on a smoky wood fire. Could the smoke matter for her baby in the womb?",
    "opts": [
-    "No. The baby is safe inside the womb, away from the air",
     "Yes. Smoke goes into the mother's blood from her lungs, and some of it can pass through the placenta to the baby",
+    "No. The baby is safe inside the womb, away from the air",
     "Only if the baby can smell the smoke"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Anything in the mother's blood can pass through the thin wall in the placenta. Some harmful things from smoke get into her blood, so they can reach the baby. This is why a clean stove or good air is better for a pregnant woman. Picking 'safe inside the womb' forgets that the baby is fed from the mother's blood.",
    "outcome": 2
   },
@@ -2793,11 +2793,11 @@
    "t": "mcq",
    "p": "Why does a baby in the womb hear their mother's voice best?",
    "opts": [
-    "Her voice travels through her own body to the baby",
     "The womb has a little window",
+    "Her voice travels through her own body to the baby",
     "Babies can only hear high sounds"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The mother's voice travels through her body and the water. Low sounds, like voices, get through water best.",
    "outcome": 2,
    "how": "e2"
@@ -2806,11 +2806,11 @@
    "t": "mcq",
    "p": "You want to test whether water around an egg protects it when it is shaken. You shake two raw eggs in two jars. What should be the only difference between the jars?",
    "opts": [
+    "Whether the jar was full of water",
     "The size of the egg",
-    "How hard you shook",
-    "Whether the jar was full of water"
+    "How hard you shook"
    ],
-   "a": 2,
+   "a": 0,
    "why": "Only the water should change. Everything else stays the same, so any difference comes from the water. That is what makes it a fair test.",
    "outcome": 5,
    "how": "e1"
@@ -2819,11 +2819,11 @@
    "t": "mcq",
    "p": "Someone says, 'The egg in the water jar did not crack. So water protects a baby.' Which part is the evidence?",
    "opts": [
-    "The egg in the water jar did not crack",
     "Water protects a baby",
-    "Both parts are claims"
+    "Both parts are claims",
+    "The egg in the water jar did not crack"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Evidence is what was seen: the egg did not crack. The claim is the idea drawn from it: water protects a baby.",
    "outcome": 5,
    "how": "e1"
@@ -2857,11 +2857,11 @@
    "t": "mcq",
    "p": "Why does a newborn often cry right after birth?",
    "opts": [
-    "The cry helps air fill their lungs for the first time",
     "The cord hurts them",
-    "They want to go back"
+    "They want to go back",
+    "The cry helps air fill their lungs for the first time"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Before birth, the lungs were full of fluid. A good cry helps open the lungs and fill them with air.",
    "outcome": 4
   },
@@ -2869,11 +2869,11 @@
    "t": "mcq",
    "p": "Why can doctors cut the cord once a newborn is breathing well?",
    "opts": [
-    "The baby now gets oxygen from the air in their own lungs, so the cord's job is done",
     "The cord would grow too long",
+    "The baby now gets oxygen from the air in their own lungs, so the cord's job is done",
     "The cord makes the baby heavy"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Before birth, the cord brought oxygen and food from the placenta. Once the baby breathes air, their lungs bring the oxygen. So the cord can be clamped and cut. The stump dries and falls off, and leaves the belly button.",
    "outcome": 4
   },
@@ -2882,10 +2882,10 @@
    "p": "Which of these is true of every person in the world, whatever their family?",
    "opts": [
     "They were born in a hospital",
-    "They began as one cell and grew in a womb",
-    "They grew in the womb for exactly 40 weeks"
+    "They grew in the womb for exactly 40 weeks",
+    "They began as one cell and grew in a womb"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Some babies are born at home and some in hospital. Some come early and some late. Some are raised by the family they were born into and some are adopted. But every person began as one cell and grew in a womb. Every family is a real family.",
    "outcome": 6
   },
@@ -2894,10 +2894,10 @@
    "p": "Which of these do scientists still not know for sure?",
    "opts": [
     "Whether a baby needs oxygen",
-    "Whether a baby grows in a womb",
-    "Exactly what signal starts birth"
+    "Exactly what signal starts birth",
+    "Whether a baby grows in a womb"
    ],
-   "a": 2,
+   "a": 1,
    "why": "Scientists know the baby and the mother both seem to play a part. But exactly which signal starts birth is still being studied.",
    "outcome": 7
   }
@@ -3232,6 +3232,78 @@
    "used_in": [
     "a2"
    ]
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in How Big Was I? The growing fruit line, Newborn Eyes: what a baby sees, The Forty-Week Scroll. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "a2",
+    "a6",
+    "p1"
+   ],
+   "plan": "Get it before How Big Was I? The growing fruit line."
+  },
+  {
+   "id": "b-balloons--a-packet",
+   "item": "Balloons (a packet)",
+   "kind": "material",
+   "why": "Used in Womb in a Bottle: a model. About ₹20 to ₹60.",
+   "url": "https://www.amazon.in/s?k=balloons+packet",
+   "used_in": [
+    "a5"
+   ],
+   "plan": "Get it before Womb in a Bottle: a model."
+  },
+  {
+   "id": "b-modelling-clay-or-plasticine",
+   "item": "Modelling clay or plasticine",
+   "kind": "material",
+   "why": "Used in One Cell to Many: the dough doubling. About ₹40 to ₹120. Atta dough mixed with a little salt works.",
+   "url": "https://www.amazon.in/s?k=modelling+clay+plasticine",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Get it before One Cell to Many: the dough doubling."
+  },
+  {
+   "id": "b-food-colour",
+   "item": "Food colour",
+   "kind": "material",
+   "why": "Used in One Cell to Many: the dough doubling. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it.",
+   "url": "https://www.amazon.in/s?k=food+colour+liquid",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Get it before One Cell to Many: the dough doubling."
+  },
+  {
+   "id": "b-butter-paper-or-tracing-pape",
+   "item": "Butter paper or tracing paper",
+   "kind": "material",
+   "why": "Used in Newborn Eyes: what a baby sees. About ₹30 to ₹80 for a roll. Thin clean plastic bag or a sheet of waxed paper.",
+   "url": "https://www.amazon.in/s?k=butter+paper+roll",
+   "used_in": [
+    "a6"
+   ],
+   "plan": "Get it before Newborn Eyes: what a baby sees."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

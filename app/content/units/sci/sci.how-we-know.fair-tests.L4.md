@@ -1,9 +1,9 @@
 # Fair tests, step two: repeat, average and say only what you found
 `sci.how-we-know.fair-tests.L4`
 
-**Summary.** Measure the same table ten times and you get slightly different numbers. Why, and what should you do about it? In this unit you will repeat measurements and work out an average, test whether a longer paper spinner wing falls slower, and fold paper bridges to see which holds most coins.
+**Summary.** Measure the same table ten times and you get slightly different numbers. Why, and what should you do about it? In this lesson you will repeat measurements and work out an average, test whether a longer paper spinner wing falls slower, and fold paper bridges to see which holds most coins.
 
-**Intro.** *Drop a paper spinner and time how long it takes to land. Now drop it again in exactly the same way. The time is a little different. Drop it a third time and the time is different again. You changed nothing, and the numbers still do not match.* If the same spinner gives different times, how can you tell that a longer wing made it fall slower? Maybe the wing did it, or maybe the times just differed, as they always do. We call these small differences between one try and the next the wobble. In this unit you learn how scientists deal with the wobble. They name what they change, what they measure and what they keep the same. They repeat each measurement, and they look at the average and at how far the numbers spread. Then they write a conclusion that does not say more than the numbers do.
+**Intro.** *Drop a paper spinner and time how long it takes to land. Now drop it again in exactly the same way. The time is a little different. Drop it a third time and the time is different again. You changed nothing, and the numbers still do not match.* If the same spinner gives different times, how can you tell that a longer wing made it fall slower? Maybe the wing did it, or maybe the times just differed, as they always do. We call these small differences between one try and the next the wobble. In this lesson you learn how scientists deal with the wobble. They name what they change, what they measure and what they keep the same. They repeat each measurement, and they look at the average and at how far the numbers spread. Then they write a conclusion that does not say more than the numbers do.
 
 ## Learning outcomes
 0. I can name the three jobs in a test: the thing I change, the thing I measure, and the things I keep the same.
@@ -21,6 +21,7 @@
 - **The thing you measure**: The result you record, with a number and a unit. Scientists call it the dependent variable, because it depends on what you changed. *e.g.* In the spinner test, you measure the time in seconds that each spinner takes to fall.
 - **The things you keep the same**: All the other variables, which you hold steady so they cannot change the result. Scientists call them control variables. *e.g.* Same paper, same clip, same drop height, same person dropping, and the fan switched off.
 - **Measurement**: A number and a unit that tells how much of something there is. *e.g.* The spinner took 1.5 seconds to fall. The 1.5 is the number and seconds is the unit.
+- **Accurate and precise**: A measurement is accurate when it is close to the real size. It is precise when it is read in small, careful steps. Choose the steps that suit the test. *e.g.* A stopwatch read to a tenth of a second suits a spinner. Writing 1.4372 seconds is too exact for a thumb on a button.
 - **Trial**: One go at the test. *e.g.* Dropping a spinner once and timing it is one trial.
 - **Repeat**: To do the test again in the same way, to see how much the results change. *e.g.* Drop each spinner five times, not once.
 - **Average**: The typical size of a set of numbers. To find the average, add the numbers and divide by how many there are. Scientists also call it the mean. *e.g.* The times 14, 16, 15, 13 and 17 tenths of a second add up to 75. Divide by 5 to get an average of 15 tenths.
@@ -31,6 +32,7 @@
 - **Conclusion**: What you decide from your results, written so that it says no more than the results show. *e.g.* In our drops, the spinner with the longer wings fell more slowly on average.
 - **Claim, evidence, reasoning**: A claim is what you say is true. Evidence is the numbers or things you saw that support it. Reasoning is why the evidence supports the claim. *e.g.* Claim: longer wings fall slower. Evidence: the long wings took 21 tenths of a second on average and the short wings took 12. Reasoning: bigger wings catch more air.
 - **Line graph**: A graph that joins points to show how a measurement changes as the thing you change gets bigger or smaller. *e.g.* A line graph of wing length and average fall time shows the time going up as the wings get longer.
+- **Scatter graph**: A graph with one dot for each child or each day, showing two measurements together. The dots are not joined. *e.g.* One dot for each child, with hand span along the bottom and height up the side.
 - **Chance**: The part of any result that comes from luck and small changes you cannot control. *e.g.* A coin tossed ten times might give 4 heads one time and 7 heads another time, by chance.
 - **Cause**: A cause is something that makes something else happen. A fair test can show a cause. A pattern alone cannot. *e.g.* Longer wings catch more air, which makes the spinner fall more slowly. This is a cause.
 - **Bias**: A leaning that pushes your results one way, such as hoping a certain answer is true. *e.g.* A person who hopes the long wings are slowest may stop the stopwatch a little late on those drops.
@@ -41,7 +43,7 @@
 ### The three jobs in every test · *defined*
 **Definition:** Every fair test has three jobs. There is one thing you change, one thing you measure, and a list of things you keep the same.
 
-Say you want to know whether a longer wing makes a paper spinner fall more slowly. The thing you change is the wing length. The thing you measure is the time it takes to fall, in seconds. The things you keep the same are the paper, the clip, the height you drop from, the person who drops it and the person who times it. Scientists call these the independent variable, the dependent variable and the control variables. You do not need the long names, but you do need the three jobs. If two things change, you cannot tell which one made the difference. If nothing is measured, there are no results. If the list of things to keep the same is loose, hidden differences slip in.
+Say you want to know whether a longer wing makes a paper spinner fall more slowly. The thing you change is the wing length. The thing you measure is the time it takes to fall, in seconds. The things you keep the same are the paper, the clip, the height you drop from, the person who drops it and the person who times it. Scientists call these the independent variable, the dependent variable and the control variables. You do not need the long names, but you do need the three jobs. If two things change, you cannot tell which one made the difference. If nothing is measured, there are no results. If the list of things to keep the same is loose, hidden differences slip in. There is also a job before all three: keep everyone safe. Before you begin, look at what could hurt, such as scissors, small coins that a little child might swallow, or a fan. Set up in a safe place. When you finish, clean up and put things away.
 - e.g. The question is whether more salt in water makes a potato float. You change the amount of salt. You measure whether the potato floats. You keep the same potato piece, the same glass and the same amount of water.
 - e.g. The question is whether a longer rubber band shoots a paper ball farther. You change the length of the band. You measure the distance the ball travels. You keep the same ball, the same pull-back and the same person.
 - e.g. The question is whether the amount of water changes how many seeds sprout. You change the amount of water. You measure the number of seeds that sprout. You keep the same kind of seed, the same plate and the same warmth.
@@ -55,7 +57,7 @@ Suppose you test two wing lengths and the longer one falls slower. That is somet
 ### Why the same test gives different numbers · *defined*
 **Definition:** Even a careful test gives slightly different numbers each time. We call this the wobble. It comes from small changes you cannot control, and from small slips in measuring.
 
-A spinner dropped five times will never fall in exactly the same way. A draught moves the air a little. The hand lets go a little differently. The spinner starts a bit tilted. And the person with the stopwatch presses the button a fraction early or late. Human reaction takes about a fifth to a quarter of a second. These small changes add up to a wobble in the numbers. The wobble is not a mistake. It is part of any real measurement. Because of it, one number from one try is never the whole story. We need several tries to see what is steady and what is wobble.
+A spinner dropped five times will never fall in exactly the same way. A draught moves the air a little. The hand lets go a little differently. The spinner starts a bit tilted. And the person with the stopwatch presses the button a fraction early or late. Human reaction takes about a fifth to a quarter of a second. These small changes add up to a wobble in the numbers. The wobble is not a mistake. It is part of any real measurement. Because of it, one number from one try is never the whole story. We need several tries to see what is steady and what is wobble. Choose a measuring tool that is good enough for your question. A measurement is accurate when it is close to the real size. It is precise when it is read in small, careful steps. A ruler marked in millimetres is fine for a paper wing. A stopwatch that reads to a tenth of a second suits a spinner. Writing 1.4372 seconds would look very exact, but your thumb on the button wobbles by about a fifth of a second. So write 1.4 and be honest about it.
 - e.g. Dropping the same spinner five times gives times such as 1.4, 1.6, 1.5, 1.3 and 1.7 seconds.
 - e.g. Two people measure the same table and get 120 and 122 centimetres.
 - e.g. A cricketer bowling the same ball ten times will not land it on exactly the same spot.
@@ -97,14 +99,29 @@ Suppose you hope the long-winged spinner is slowest. You may release it a little
 ### Tables, bar charts and line graphs · *defined*
 **Definition:** A table keeps every number in place. A bar chart compares separate things. A line graph shows how a result changes as an amount changes.
 
-Start every test with a table, ready before you begin. Put the thing you change in the first column, and your trials and averages in the next columns. Use a bar chart when the things you compare are separate, such as four different bridge shapes. Use a line graph when the thing you change is an amount that can sit anywhere along a line, such as wing length or amount of water. A line graph shows the shape, such as a steady rise, a levelling off or a dip. Label the line along the bottom and the line up the side with what they show and the units, and give the chart a title. Plot averages, not single tries, and write the range next to each point if you can.
+Start every test with a table, ready before you begin. Put the thing you change in the first column, and your trials and averages in the next columns. Use a bar chart when the things you compare are separate, such as four different bridge shapes. To read a bar chart, find the tallest bar and the shortest, then say how much taller one is. Use a line graph when the thing you change is an amount that can sit anywhere along a line, such as wing length or amount of water. A line graph shows the shape, such as a steady rise, a levelling off or a dip. Label the line along the bottom and the line up the side with what they show and the units, and give the chart a title. Plot averages, not single tries, and write the range next to each point if you can.
 - e.g. A bar chart for four bridge shapes: flat, channel, pleated and tube.
 - e.g. A line graph for wing lengths 4, 6 and 8 centimetres against average fall time.
 - e.g. A table with a column for each trial and extra columns for the average and range.
+- e.g. A bar chart read aloud: 'The tube held 16 more coins than the flat strip.'
+### Describing a pattern and predicting · *defined*
+**Definition:** A pattern is the way the results change as you change one thing. Say it in one sentence with numbers. Then use it to make a prediction you can test.
+
+Look down your table and say what happens. 'As the wing gets longer, the fall time gets longer, from 12 to 16 to 21 tenths of a second.' If one number does not fit, point at it and check it. A line graph also lets you guess a value between two dots. The 5 centimetre wing sits between 4 and 6, so its time should be between 12 and 16, about 14 tenths. This is a prediction, so test it by making a 5 centimetre spinner. Stay inside the lengths you tested. Beyond them you are only guessing.
+- e.g. A table of pleats against coins held: 'The more pleats, the more coins held.'
+- e.g. With 0 pleats a bridge held 4 coins and with 2 pleats it held 10, so one pleat should hold about 7. Test it.
+- e.g. Seeds given 0, 1 and 3 teaspoons of water: say how the number that sprouted changes as the water grows.
+### Two measurements on each child: scatter graphs · *defined*
+**Definition:** A scatter graph puts one dot for each child, or each day, to show two measurements together. The dots are not joined.
+
+Sometimes you measure two things on each child, such as hand span and height. Put hand span along the bottom and height up the side. Make one dot for each child, and do not join the dots. If the dots drift upward together, there is a pattern: bigger hands go with taller children. A pattern still does not show that one thing causes the other. Age may be behind both.
+- e.g. Hand span and height of five cousins, one dot for each cousin.
+- e.g. Temperature at noon and cups of water drunk, one dot for each day of a week.
+- e.g. Shoe size and reading score: the dots may rise together because older children have both.
 ### Writing a conclusion that says no more than you found · *defined*
 **Definition:** A good conclusion has a claim, evidence and reasoning. It says what you found in your test, with its limits, and does not claim more.
 
-A claim answers your question. Evidence gives the numbers that support it. Reasoning explains why the numbers support the claim. A good conclusion also has limits. It says what you tested and does not go beyond. If you tested three wing lengths, you can say what happened for those three. You cannot say what happens for a wing of 20 centimetres. If you measured on one day in one room, say that. Use careful words such as 'in our test', 'on average' and 'the evidence suggests'. If your results are not clear, say 'we cannot tell yet' and say what you would do next.
+A claim answers your question. Evidence gives the numbers that support it. Reasoning explains why the numbers support the claim. A good conclusion also has limits. It says what you tested and does not go beyond. If you tested three wing lengths, you can say what happened for those three. You cannot say what happens for a wing of 20 centimetres. If you measured on one day in one room, say that. Use careful words such as 'in our test', 'on average' and 'the evidence suggests'. If your results are not clear, say 'we cannot tell yet' and say what you would do next. Last, say how you would make the test better. You might drop the spinner from higher, so the stopwatch wobble is a smaller part of the time. You might add more drops, or try a wing length in between.
 - e.g. Claim: longer wings fell more slowly. Evidence: the average time rose from 12 to 16 to 21 tenths. Reasoning: bigger wings catch more air. Limit: we tested only 4, 6 and 8 centimetres.
 - e.g. Claim: in our two weeks, we could not tell whether tulsi changes the mosquito count. Evidence: the difference was about one mosquito a night, and the nightly counts changed by much more than that.
 - e.g. Claim: the pleated bridge held the most. Evidence: an average of 24 coins against 6 for the flat one.
@@ -118,7 +135,7 @@ When two things come out differently, there are three possible reasons. First, t
 ### Why a longer wing slows a spinner · *defined*
 **Definition:** A spinner falls because gravity pulls it down. The air pushes back against its wings. Bigger wings meet more air, so the push is bigger and the spinner falls more slowly.
 
-When the spinner falls, its wings spin like the blades of a helicopter. The spinning wings sweep through the air. The air pushes up against them, and this push is called air resistance. A bigger wing has more surface to push against, so the push is stronger. The spinner speeds up until the push of the air equals its weight. After that it falls at a steady speed. Bigger wings reach that balance at a slower speed. The paper and the clip weigh the same whatever the wing length, so only the wings differ. This is why seeds of maple trees, which have long wings, spin slowly to the ground and can travel a long way on the wind.
+When the spinner falls, its wings spin like the blades of a helicopter. The spinning wings sweep through the air. The air pushes up against them, and this push is called air resistance. A bigger wing has more surface to push against, so the push is stronger. The spinner speeds up until the push of the air equals its weight. After that it falls at a steady speed. Bigger wings reach that balance at a slower speed. The paper and the clip weigh the same whatever the wing length, so only the wings differ. This is why seeds of maple trees, which have long wings, spin slowly to the ground and can travel a long way on the wind. An explanation is a good guess that you can test. If air push is the reason, then a spinner with wider wings of the same length should also fall more slowly. Change only the width, keep everything else the same, and see whether the results agree. If they do not, the explanation needs a rethink.
 - e.g. A flat sheet of paper falls more slowly than the same sheet crumpled into a ball.
 - e.g. A parachute is a very big wing for its weight, so it falls slowly.
 - e.g. Maple seeds spin down on a single wing and drift far from the tree.
@@ -415,6 +432,7 @@ That evening, Appooppan took the timer himself. Aadhira noticed that he wrote th
 
 ## Activities
 ### a1 · Measure the Table Ten Times: how much do numbers wobble? (20 min)
+- **safety:** Do not stand on the table or a chair to reach the far end. Put the tape and ruler away when you finish.
 - **record:** A list of every measurement, with the smallest, the biggest, the range and the average.
 - **s1 (8 min)**  
   *Parent does:* 1. Choose one straight edge of the table. 2. Your child measures it five times, to the nearest centimetre. They write each number on a new line without looking at the earlier ones. 3. Each other person measures it once and writes the number on a slip, without showing anyone. If you are only two, you measure five times too, without looking at your child's numbers. With 2 to 4 children, each child measures five times, so you have 10 to 20 numbers.  
@@ -478,6 +496,7 @@ That evening, Appooppan took the timer himself. Aadhira noticed that he wrote th
   - Check: Two identical plates of ten seeds, with the same water, gave 7 and 9 sprouted seeds. What is the best thing to say? → **The difference of 2 can come from chance alone**
   - Think: If each set had 100 tosses, not 10, would the share of heads wobble more or less?
 ### a4 · From Table to Line: draw a line graph (20 min)
+- **safety:** Keep pencil points pointing down. Sharpen pencils with a grown-up near, and put pencils and rulers away when you finish.
 - **record:** A line graph with axes labelled and a title, and three sentences about what it shows.
 - **s1 (6 min)**  
   *Parent does:* 1. Rule two lines at right angles on squared paper. 2. Label the line along the bottom 'Wing length (cm)' and mark 4, 6 and 8. 3. Label the line up the side 'Average fall time (tenths of a second)' and mark 0 up to 25. 4. Give the graph a title.  
@@ -556,9 +575,9 @@ That evening, Appooppan took the timer himself. Aadhira noticed that he wrote th
   - Think: Which is better, a design that falls slowly once, or one that falls slowly every time? Why?
 
 ## Worksheets
-### The Three Jobs and the Wobble (core) (core, 16 questions)
+### The Three Jobs and the Wobble (core) (core, 19 questions)
 1. (mcq) A test asks whether a thicker straw lets more juice through in ten seconds. What is the thing that is changed?  
-   Options: The thickness of the straw / The amount of juice that passes / The ten seconds  
+   Options: The amount of juice that passes / The ten seconds / The thickness of the straw  
    **Answer:** The thickness of the straw. *Why:* The straw is chosen on purpose. The amount of juice is what is measured, and the ten seconds is kept the same for every straw.
 2. (sort) A test asks whether more rubber bands make a toy car shoot farther. Sort each item into change, measure or keep the same.  
    **Answer:** the number of rubber bands → Change; how far the car rolls → Measure; the car → Keep the same; the floor → Keep the same; how far the launcher is pulled back → Keep the same. *Why:* The number of bands is the thing that is changed on purpose. The distance is the result. Everything else stays steady so that only the bands can explain a difference.
@@ -582,7 +601,7 @@ That evening, Appooppan took the timer himself. Aadhira noticed that he wrote th
    Options: the size of the paper strip / the gap between the books / the shape of the fold / the way the coins are added  
    **Answer:** 2. *Why:* The shape of the fold is the thing the test changes. The other three are kept the same.
 11. (mcq) Why do we test at least three wing lengths and not just two?  
-   Options: Three settings show the shape of the pattern, such as a steady rise or a levelling off / Two settings are always wrong / Three is easier to draw  
+   Options: Two settings are always wrong / Three settings show the shape of the pattern, such as a steady rise or a levelling off / Three is easier to draw  
    **Answer:** Three settings show the shape of the pattern, such as a steady rise or a levelling off. *Why:* With two points you can only draw a straight line between them. A third point can show a bend or a flat part.
 12. (truefalse) An odd result should be rubbed out so the table looks neat.  
    **Answer:** False. *Why:* False. An odd result may be a slip, or it may be real. Check it, repeat it and keep the record.
@@ -595,9 +614,16 @@ That evening, Appooppan took the timer himself. Aadhira noticed that he wrote th
    **Answer:** A strong answer says the number depends on the size of the wobble and the time available. If the test is quick, more tries are better. Both cousins have a point.. *Why:* Pick-a-side questions have no single right side. Marks go for using the idea of the wobble and for stating the other view fairly.
 16. (write) Rewrite this conclusion so that it says no more than the results show: 'Paper bridge A is the best bridge in the world.' Bridge A held 12, 11 and 13 coins. Bridge B held 4, 5 and 4 coins.  
    **Answer:** In our test, bridge A held more coins than bridge B. It held an average of 12 coins and B held an average of about 4.. *Why:* A strong answer says what was tested, names the numbers or the averages, and avoids 'best in the world'.
-### Averages, Ranges and Honest Conclusions (stretch) (stretch, 16 questions)
+17. (write) Paper bridges with 0, 2 and 4 pleats held 4, 10 and 16 coins on average. Write one sentence that describes the pattern.  
+   **Answer:** The more pleats the bridge has, the more coins it holds: from 4 to 10 to 16 coins.. *Why:* A strong answer says the pattern in one sentence and uses the numbers from the table.
+18. (fill) A bar chart shows the average coins held by four bridges: flat 1, channel 8, pleated 15 and tube 17. The tube held ____ more coins than the flat one.  
+   **Answer:** ['16']. *Why:* The tube bar reaches 17 and the flat bar reaches 1. 17 take away 1 is 16.
+19. (odd) Three of these are safe habits for a spinner test. Which is the odd one out?  
+   Options: cut paper with scissors when a grown-up is near / drop the spinners standing on the floor / keep paper clips away from children under five / stand on a chair to drop from higher  
+   **Answer:** 3. *Why:* Standing on a chair can cause a fall. A grown-up with an arm stretched up, standing on the floor, can drop from higher safely. The other three are safe habits.
+### Averages, Ranges and Honest Conclusions (stretch) (stretch, 19 questions)
 1. (mcq) Two spinners both have an average fall time of 1.5 seconds. Spinner A's times range from 1.4 to 1.6. Spinner B's times range from 1.0 to 2.0. What is the best thing to say?  
-   Options: Spinner A's times are steadier, because their range is smaller / Spinner B is faster / They are exactly the same spinner  
+   Options: Spinner B is faster / They are exactly the same spinner / Spinner A's times are steadier, because their range is smaller  
    **Answer:** Spinner A's times are steadier, because their range is smaller. *Why:* The averages match, but the range shows that B wobbles much more. The range tells you how much to trust a single drop.
 2. (mcq) Children with bigger shoes score higher in a reading test. What is the best explanation?  
    Options: Age may be the hidden cause of both, because older children have bigger feet and read better / Big shoes help children read / Reading makes feet grow  
@@ -605,7 +631,7 @@ That evening, Appooppan took the timer himself. Aadhira noticed that he wrote th
 3. (write) Bean plants in 3 pots in the sun grew 5 centimetres in a week on average. Bean plants in 3 pots in the shade grew 2 centimetres on average. Each set ranged by about 1 centimetre. Write a claim, evidence and a limit.  
    **Answer:** Claim: in our test, bean plants in the sun grew taller than those in the shade. Evidence: the averages were 5 and 2 centimetres, a gap of 3, bigger than the spread of about 1. Limit: we tested one kind of bean for one week.. *Why:* A strong answer has a claim that answers the question, evidence with numbers, and a limit that says what was not tested.
 4. (mcq) One bridge held 10, 12, 11, 11 and 31 coins in five tries. What should you do first?  
-   Options: Check what happened in the 31 coin try and repeat it / Rub it out / Report the average of 15 without comment  
+   Options: Rub it out / Check what happened in the 31 coin try and repeat it / Report the average of 15 without comment  
    **Answer:** Check what happened in the 31 coin try and repeat it. *Why:* The 31 is far from the others. It may be a slip or a real result. Check and repeat before deciding. Reporting only the average of 15 would hide the odd one.
 5. (sort) Judge each conclusion.  
    **Answer:** One try each: warm water dissolved sugar faster than cold, so warm water is always faster. → Goes too far; Three bridges of shape A held 11, 12 and 13 coins and three of shape B held 4, 5 and 4, so A held more in our test. → Supported; A coin gave 6 heads in 10 tosses, so it is unfair. → Can't tell yet; All the plants in the sun grew taller than the plants in the dark, in a test of 20 plants each. → Supported; Two plates of identical seeds sprouted 7 and 9, so the second plate had better seeds. → Can't tell yet; Spinners with long wings fell slower, so all objects with long wings fall slower. → Goes too far. *Why:* A conclusion is supported when the gap between results is bigger than the wobble, and it stays within what was tested. It goes too far when it claims more. We can't tell yet when the evidence is too small or too wobbly.
@@ -626,7 +652,7 @@ That evening, Appooppan took the timer himself. Aadhira noticed that he wrote th
    Options: Write the prediction before the test / Use a helper who does not know which spinner is which / Tell the timer which spinner should win / Share the numbers for others to check  
    **Answer:** 2. *Why:* Telling the timer what to expect invites the timer's hope to bend the result. The other three guard against it.
 13. (mcq) Why do scientists use a blind test?  
-   Options: So the person measuring cannot let hope push the result / So the test is quicker / So nobody knows the answer  
+   Options: So the test is quicker / So the person measuring cannot let hope push the result / So nobody knows the answer  
    **Answer:** So the person measuring cannot let hope push the result. *Why:* If the measurer does not know which thing is which, they cannot lean towards the one they hope will win.
 14. (perspective) In a balcony test, the corner with a tulsi pot had about one mosquito fewer a night than the corner without. The nightly counts ranged from 2 to 9. One friend says 'tulsi works'. Another says 'we cannot tell'. Who do you agree with?  
    **Answer:** A strong answer notes that the gap is smaller than the wobble, so the claim goes beyond the evidence, and suggests more nights or a bigger change. The first friend's hope is natural, but it should not bend the conclusion.. *Why:* Pick-a-side questions have no single right side. Marks go for comparing the gap with the wobble and for stating the other view fairly.
@@ -634,12 +660,18 @@ That evening, Appooppan took the timer himself. Aadhira noticed that he wrote th
    **Answer:** When we hope for an answer, small choices like when we press the stopwatch can lean towards it without us noticing. We can use a blind test, in which a helper does not know which thing is which.. *Why:* A strong answer says the bending is unintended and gives a concrete guard, such as a blind test, writing predictions first, or sharing the numbers.
 16. (truefalse) An odd result that appears again when you repeat the test is probably real.  
    **Answer:** True. *Why:* True. A fluke is unlikely to happen twice. If an odd result repeats, it may be the most interesting finding of the test.
-### Trusting a Test (challenge) (challenge, 16 questions)
+17. (draw) Here are example numbers, not from a real class. Five children have hand spans of 13, 14, 15, 16 and 17 centimetres and heights of 120, 124, 128, 133 and 137 centimetres. Draw a scatter graph with labelled axes.  
+   **Answer:** A graph with hand span (cm) along the bottom and height (cm) up the side, with five separate dots that drift upward from left to right and are not joined.. *Why:* A scatter graph has one dot for each child, labelled axes with units, and no joining lines. The dots drifting upward show a pattern, not a cause.
+18. (write) A friend times a spinner with a phone stopwatch and writes 1.4372 seconds. Tell your friend what to write instead, and why.  
+   **Answer:** Write 1.4 seconds. A thumb on the button wobbles by about a fifth of a second, so the extra digits are not real. Write only as many digits as the measuring can support.. *Why:* A strong answer chooses a sensible number of digits and links it to how well the timing can really be done.
+19. (fill) Bridges with 0 pleats held 4 coins and bridges with 2 pleats held 10. A bridge with 1 pleat would probably hold about ____ coins.  
+   **Answer:** ['7']. *Why:* One pleat sits between none and two, so its result should sit between 4 and 10. About 7 is a prediction, and the way to find out is to test it.
+### Trusting a Test (challenge) (challenge, 18 questions)
 1. (mcq) Which conclusion states its limit?  
-   Options: In our test of three wing lengths, the longest wings gave the slowest fall / The longest wing always gives the slowest fall / Wings are important  
+   Options: The longest wing always gives the slowest fall / In our test of three wing lengths, the longest wings gave the slowest fall / Wings are important  
    **Answer:** In our test of three wing lengths, the longest wings gave the slowest fall. *Why:* The first conclusion says what was tested. 'Always' claims more than three wing lengths can show.
 2. (mcq) Two designs have averages of 20 and 25 and each set spreads by about 8. What is the best thing to say?  
-   Options: The gap of 5 is smaller than the spread, so we cannot tell yet / The second design is clearly bigger / The first design is clearly bigger  
+   Options: The second design is clearly bigger / The first design is clearly bigger / The gap of 5 is smaller than the spread, so we cannot tell yet  
    **Answer:** The gap of 5 is smaller than the spread, so we cannot tell yet. *Why:* When the gap between averages is smaller than the spread, chance could explain it. More tries or a bigger change are needed.
 3. (write) Plan the three jobs for this question: does the size of a paper boat change how many coins it holds before it sinks?  
    **Answer:** Change: the size of the boat. Measure: the number of coins held. Keep the same: the paper type, the shape, the basin of water, and the way coins are added. Repeat each size three times.. *Why:* A strong answer names one thing to change, one thing to measure with a unit, and a list of things kept the same.
@@ -648,7 +680,7 @@ That evening, Appooppan took the timer himself. Aadhira noticed that he wrote th
 5. (perspective) A company gets a test result that its new product is not much better than the old one. A manager wants to leave that result out of the report. A scientist wants to report it. Who do you agree with?  
    **Answer:** A strong answer says that hiding results gives a false picture, and may harm people who rely on the product. The manager's worry about confusion can be met by explaining the result clearly.. *Why:* Pick-a-side questions have no single right side. Marks go for thinking about who is affected and for stating the other view fairly.
 6. (mcq) Five bridge tries held 12, 12, 13, 12 and 25 coins. What is the average with all five, and without the 25?  
-   Options: 15 with all five, and 12.25 without the 25 / 12 with all five / 25 without the 25  
+   Options: 12 with all five / 15 with all five, and 12.25 without the 25 / 25 without the 25  
    **Answer:** 15 with all five, and 12.25 without the 25. *Why:* With all five, 74 divided by 5 is 14.8, about 15. Without the 25, 49 divided by 4 is about 12.25. The odd 25 pulls the average up, so check it before reporting.
 7. (truefalse) Repeating a test many times removes all the wobble from the results.  
    **Answer:** False. *Why:* False. Repeating does not remove the wobble. It lets the highs and lows balance in the average, so the average is steadier than any single try.
@@ -669,10 +701,14 @@ That evening, Appooppan took the timer himself. Aadhira noticed that he wrote th
 14. (draw) Four bridge shapes held on average 1, 8, 15 and 17 coins. Draw a bar chart with the shapes flat, channel, pleated and tube, and label the axes.  
    **Answer:** A bar chart with four bars of heights 1, 8, 15 and 17, labelled flat, channel, pleated and tube, with the vertical axis labelled coins held.. *Why:* A bar chart suits separate shapes. A strong chart labels both axes and gives a title, with the bars drawn to scale.
 15. (mcq) In one class, taller children also had bigger shoe sizes. What is the best thing to say?  
-   Options: Taller children tend to have bigger feet, but one does not make the other grow / Bigger shoes make children grow / There is no pattern  
+   Options: Bigger shoes make children grow / There is no pattern / Taller children tend to have bigger feet, but one does not make the other grow  
    **Answer:** Taller children tend to have bigger feet, but one does not make the other grow. *Why:* A growing body makes both height and feet bigger. The pattern is real, but one does not cause the other.
 16. (write) Mosquitoes were counted in two corners of a balcony on 14 evenings. The corner with a tulsi pot had 71 in total and the other corner had 84. Nightly counts ranged from 2 to 9. Write a careful conclusion.  
    **Answer:** In our test, the tulsi corner had slightly fewer mosquitoes, about one a night on average. But the nightly counts varied from 2 to 9, which is much more than that difference, so we cannot say the tulsi keeps mosquitoes away. We tested one pot only.. *Why:* A strong answer notes the small gap, compares it with the wobble, avoids a claim of cause and states a limit.
+17. (write) A spinner test used three drops per wing length, dropped from a low mark. The averages came out close together. Suggest two ways to make the test better.  
+   **Answer:** Drop from a higher mark, so the stopwatch wobble is a smaller part of the time. Add more drops for each wing length. A bigger change in wing length, such as 2 and 10 centimetres, would also help.. *Why:* A strong answer names the limit of the test and gives a way to improve it that links to that limit.
+18. (write) A friend says wider wings slow a spinner because they meet more air. Plan a test of this. Say what you change, what you measure and what you keep the same.  
+   **Answer:** Change the wing width. Measure the fall time. Keep the wing length, the paper, the clip, the drop height and the people the same. If the explanation is right, the wider wings should fall more slowly.. *Why:* A strong answer changes only one thing, and says what result the explanation predicts.
 
 ## Videos
 - **Independent,Dependent, and Control Variables** (MooMooMath and Science, 4 min) id `zFe8eK1aiIU`: A short video that names the thing you change, the thing you measure and the things you keep the same, as in the Paper Spinner test. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
@@ -681,10 +717,10 @@ That evening, Appooppan took the timer himself. Aadhira noticed that he wrote th
 
 ## Quiz
 1. (mcq) In a test, what is the 'thing you measure'?  
-   Options: The result you record with a number and a unit / The one thing you choose to change / Everything you keep the same  
+   Options: The one thing you choose to change / Everything you keep the same / The result you record with a number and a unit  
    **Answer:** The result you record with a number and a unit. *Why:* We change one thing, measure a result, and keep the rest the same. The measurement is the result.
 2. (mcq) Why do scientists repeat each setting several times?  
-   Options: Because one try can be high or low by chance / Because the first try is always wrong / Because it looks more careful  
+   Options: Because the first try is always wrong / Because one try can be high or low by chance / Because it looks more careful  
    **Answer:** Because one try can be high or low by chance. *Why:* Small changes you cannot control make each try a little different. Several tries balance the highs and the lows.
 3. (mcq) Four drops of a spinner take 14, 16, 15 and 15 tenths of a second. What is the average?  
    Options: 15 tenths / 14 tenths / 60 tenths  
@@ -693,16 +729,16 @@ That evening, Appooppan took the timer himself. Aadhira noticed that he wrote th
    Options: 4 / 17 / 15  
    **Answer:** 4. *Why:* The biggest is 17 and the smallest is 13. 17 take away 13 is 4.
 5. (mcq) One drop of a spinner took 28 tenths of a second and the other four took about 15. What should you do?  
-   Options: Check what happened, repeat the drop and record it / Rub it out / Use only the 28  
+   Options: Rub it out / Use only the 28 / Check what happened, repeat the drop and record it  
    **Answer:** Check what happened, repeat the drop and record it. *Why:* A far-out number may be a slip or a real result. Only checking and repeating will show which. Never hide it.
 6. (mcq) Why try three wing lengths and not only two?  
    Options: Three show the shape of the pattern / Two never work / Three is quicker  
    **Answer:** Three show the shape of the pattern. *Why:* Two points can only make a straight line. Three can show a bend or a flat part.
 7. (mcq) Which graph is best for the average fall time of a spinner at wing lengths of 4, 6 and 8 centimetres?  
-   Options: A line graph / A pictogram / A map  
+   Options: A pictogram / A map / A line graph  
    **Answer:** A line graph. *Why:* Wing length is an amount that can sit anywhere along a line, so a line graph shows how the time changes.
 8. (mcq) Two averages are 2.0 and 1.9 seconds and each set spreads by about 0.5. What is the best thing to say?  
-   Options: The gap is smaller than the wobble, so we cannot tell yet / The first is clearly bigger / The test is unfair  
+   Options: The first is clearly bigger / The test is unfair / The gap is smaller than the wobble, so we cannot tell yet  
    **Answer:** The gap is smaller than the wobble, so we cannot tell yet. *Why:* A gap of 0.1 is much smaller than a spread of 0.5, so chance could explain it.
 9. (mcq) Which sentence is the most careful conclusion?  
    Options: In our test of three fold shapes, the tube held the most coins / The tube is the strongest shape in the world / Paper is always weak  
@@ -714,8 +750,32 @@ That evening, Appooppan took the timer himself. Aadhira noticed that he wrote th
    Options: Because their hopes cannot bend the timing / Because they time faster / Because the spinners fall slower  
    **Answer:** Because their hopes cannot bend the timing. *Why:* If you do not know which is which, you cannot lean towards the one you hope will win.
 12. (mcq) Which of these is a thing to keep the same in a bridge test?  
-   Options: The size of the paper strip / The shape of the fold / The number of coins held  
+   Options: The shape of the fold / The number of coins held / The size of the paper strip  
    **Answer:** The size of the paper strip. *Why:* The shape is what we change, and the coins held is what we measure. The paper size stays the same.
+13. (mcq) Wing lengths of 4, 6 and 8 centimetres gave average fall times of 12, 16 and 21 tenths of a second. Which sentence best describes the pattern?  
+   Options: The fall time stays the same whatever the wing length / As the wing gets longer, the fall time gets longer / The shortest wing fell slowest  
+   **Answer:** As the wing gets longer, the fall time gets longer. *Why:* The numbers rise as the wing length rises. A good description says this with the numbers. The other two sentences do not match the table.
+14. (mcq) A bar chart shows the average mosquitoes counted a night in three rooms: hall 4, kitchen 9 and bedroom 6. How many more mosquitoes did the kitchen have than the hall?  
+   Options: 5 more / 9 more / 13 more  
+   **Answer:** 5 more. *Why:* The kitchen bar reaches 9 and the hall bar reaches 4. 9 take away 4 is 5. Thirteen is the two numbers added together, which says nothing about the gap.
+15. (mcq) You measure the hand span and the height of each child in a class. Which graph suits this best?  
+   Options: A line graph that joins each child to the next child / A scatter graph, with one dot for each child / A table that shows only the average height  
+   **Answer:** A scatter graph, with one dot for each child. *Why:* A scatter graph shows the two measurements for every child together. Joining one child to the next makes a path that means nothing. The average height alone hides the pairs.
+16. (mcq) A 4 centimetre wing had an average of 12 tenths of a second and a 6 centimetre wing had 16. What is the best prediction for a 5 centimetre wing?  
+   Options: About 14 tenths / About 20 tenths / Exactly 14 tenths, so there is no need to test  
+   **Answer:** About 14 tenths. *Why:* A 5 centimetre wing sits between the two, so its time should sit between 12 and 16. A prediction is a good guess, so it still needs to be tested.
+17. (mcq) Your stopwatch thumb wobbles by about a fifth of a second. Why is it better to write a spinner's time as 1.4 seconds than 1.4372 seconds?  
+   Options: The long number looks more exact than your timing really is / Stopwatches cannot show decimals / Long numbers are always wrong  
+   **Answer:** The long number looks more exact than your timing really is. *Why:* Your timing is only good to about a tenth of a second, so the extra digits are not real. Write only as many digits as your measuring can support.
+18. (mcq) Before a test with scissors and small coins, what should you do?  
+   Options: Start quickly and think about safety only if something goes wrong / Think about what could hurt, set up safely, and clean up at the end / Skip safety, because it matters only in big experiments  
+   **Answer:** Think about what could hurt, set up safely, and clean up at the end. *Why:* Scissors can cut and small coins can be swallowed by a little child. Safety comes before the test, in the set-up, and after it, in the clean-up.
+19. (mcq) Which change would make the spinner test better?  
+   Options: Rub out the slowest time / Drop from a higher mark, so the stopwatch wobble is a smaller part of the time / Use a different paper for each spinner  
+   **Answer:** Drop from a higher mark, so the stopwatch wobble is a smaller part of the time. *Why:* A longer fall makes a late or early thumb matter less. Rubbing out a time hides evidence, and different paper breaks the fair test.
+20. (mcq) If air push on the wings is why longer wings fall slowly, which new test fits?  
+   Options: Wings of the same length but wider, with everything else the same, to see if they fall more slowly / Change the wing width and the weight of the clip together / Time only one drop of one spinner  
+   **Answer:** Wings of the same length but wider, with everything else the same, to see if they fall more slowly. *Why:* If the explanation is right, wider wings should also slow the fall. Changing only the width keeps the test fair. Changing two things, or timing one drop, cannot test it.
 
 ## Applications
 - A farmer testing three amounts of fertiliser on different plots and comparing the average crop of each.
@@ -733,11 +793,11 @@ That evening, Appooppan took the timer himself. Aadhira noticed that he wrote th
 ## Spotted around us
 - The weighing machine at a vegetable shop showing slightly different numbers each time the same bunch is put on it.
 - Cricket scoreboards that show batting averages, built from many innings and not one.
-- Winged fruits spinning slowly down from tall trees, such as the sal and gurjan trees in India and maple keys elsewhere.
+- Winged fruits spinning slowly down from tall trees, such as sal trees, or maple keys.
 - Paper cups, egg trays and corrugated boxes that are strong because of folds or pleats.
 - A tailor measuring a customer twice, and writing both numbers.
 - A thermometer chart in a clinic showing a patient's temperature at set times.
-- The Kerala monsoon onset date, recorded each year and compared over many years.
+- The date the monsoon arrives, recorded each year and compared over many years.
 - A tulsi pot on a balcony or windowsill, and the stories people tell about the pot.
 - A race timed by several people with stopwatches, who each get slightly different times.
 
@@ -799,6 +859,13 @@ What Would We See? (sci.how-we-know.L4): Topic-level song
 - [A box of paper clips, all the same size](https://www.amazon.in/s?k=paper+clips+box+stationery) (material): For the Paper Spinner test and the Slowest Fall challenge. Clips of the same size keep the weight the same. They cost about Rs 10 and most homes already have some. Used in e1, c1. 
 - [A pack of small paper cups](https://www.amazon.in/s?k=paper+cups+small+tea+cups) (material): For the Paper Bridge test. A light cup holds the coins in the middle of the bridge. Cost: about Rs 20 for a pack. Any light small plastic curd cup also works. Used in e2. 
 - [A soft measuring tape for sewing](https://www.amazon.in/s?k=measuring+tape+body+sewing+150+cm) (tool): For measuring the table in Measure the Table Ten Times. A tailor's tape is easy to pull straight. Cost: about Rs 20 to 30. If you cannot get one, use a ruler placed end to end, or a string marked and then measured. Used in a1. 
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in The Paper Spinner: does a longer wing fall slower?, Slowest Fall: engineer the slowest spinner and prove it. About ₹150 to ₹400. A phone stopwatch works well. Used in e1, c1. Get it before The Paper Spinner: does a longer wing fall slower?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Paper Spinner: does a longer wing fall slower?, The Paper Bridge: which fold holds the most coins?, Measure the Table Ten Times: how much do numbers wobble?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, a1, a4, c1. Get it before The Paper Spinner: does a longer wing fall slower?.
+- [Sticky notes](https://www.amazon.in/s?k=sticky+notes+pack) (material): Used in The Paper Spinner: does a longer wing fall slower?. About ₹20 to ₹60. Small torn paper and tape do the same job. Used in e1. Get it before The Paper Spinner: does a longer wing fall slower?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Thirsty Seeds: how much water do moong seeds need?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in p1. Get it before Thirsty Seeds: how much water do moong seeds need?.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in From Table to Line: draw a line graph. About ₹10 to ₹30. Draw squares on plain paper. Used in a4. Get it before From Table to Line: draw a line graph.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Thirsty Seeds: how much water do moong seeds need?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in p1. Get it before Thirsty Seeds: how much water do moong seeds need?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What are the three jobs in every test? → Change one thing, measure one result, and keep the other things the same.
@@ -820,7 +887,7 @@ What Would We See? (sci.how-we-know.L4): Topic-level song
 ## Sources
 - Founder's notes in ideas/by_topic/how-we-know.md: the grade concept grid on fringe science (replication, blinding, belief tracking evidence, anomalies that sometimes evaporate), used for 'Hoping can bend a test', the odd-result explanation and the challenging claims
 - The founder's SCI card for Tu Youyou, an underdog scientist whose old-text clue led to artemisinin, used for the how-we-found-out story
-- The Class 3 unit on fair tests, which this unit builds on: change one thing becomes the three jobs, repeating and averaging, and writing a limited conclusion
+- The Class 3 unit on fair tests, which this lesson builds on: change one thing becomes the three jobs, repeating and averaging, and writing a limited conclusion
 - Tu Youyou, Nobel Lecture, Artemisinin: A Gift from Traditional Chinese Medicine to the World, 2015
 - Ge Hong, Zhouhou Beiji Fang (A Handbook of Prescriptions for Emergencies), about 340 CE, the text about soaking sweet wormwood in cold water
 - Project 523, the Chinese national malaria research programme begun in 1967

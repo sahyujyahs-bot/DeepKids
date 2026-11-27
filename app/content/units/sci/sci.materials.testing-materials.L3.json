@@ -84,6 +84,12 @@
    "art": "A ruler showing cm, a measuring cup showing ml, and a kitchen scale showing g."
   },
   {
+   "term": "Hand span",
+   "meaning": "The length from the tip of your thumb to the tip of your little finger when your hand is spread wide. It is different for each person, so it is not a standard unit.",
+   "example": "Your table is 6 of your hand spans, but only 5 of your father's.",
+   "art": "A child's spread hand on a table, with the thumb tip and little finger tip marked."
+  },
+  {
    "term": "Millilitre (ml)",
    "meaning": "A small unit for measuring liquid. A teaspoon holds about 5 millilitres. A big glass of water holds about 250 millilitres.",
    "example": "A medicine cup from a cough syrup bottle has lines that mark millilitres.",
@@ -136,6 +142,24 @@
    "meaning": "Soaks up water and holds it.",
    "example": "A cotton towel, a sponge and a kitchen towel are absorbent.",
    "art": "A kitchen towel soaking up a spilt glass of water on a table."
+  },
+  {
+   "term": "Flexible",
+   "meaning": "A material that bends easily without breaking. Elastic is different: it springs back.",
+   "example": "A cane stick bends when you press on it.",
+   "art": "A cane stick bending under a small weight."
+  },
+  {
+   "term": "Float",
+   "meaning": "To stay on top of water and not sink.",
+   "example": "A wooden ice-cream stick floats. A steel spoon sinks.",
+   "art": "A wooden stick floating in a tub, and a spoon lying at the bottom."
+  },
+  {
+   "term": "Transparent",
+   "meaning": "Lets light through, so you can see clearly through it. Translucent lets some light through, so you see a blur. Opaque lets none through.",
+   "example": "A glass window is transparent. Butter paper is translucent. A wooden door is opaque.",
+   "art": "A glass, a sheet of butter paper and a piece of card held over a black dot, showing it clear, blurry and hidden."
   },
   {
    "term": "Strength",
@@ -315,6 +339,19 @@
    "context": "Words like 'strong' and 'quite wet' mean different things to different people. This card explains why scientists turn them into numbers."
   },
   {
+   "concept": "Why we need units, and why hand spans are not enough",
+   "status": "defined",
+   "context": "This card is about why a number needs a unit, and why one fixed unit is better than a hand span or a step.",
+   "definition": "A unit is the size we count in. A standard unit is the same size for everyone, everywhere.",
+   "description": "A number alone does not tell you much. If someone says 'it is 12', you ask: 12 what? Twelve centimetres, 12 millilitres and 12 coins are all different. So a measurement always has a number and a unit. You can count in hand spans or steps. But your hand span is smaller than your father's. A table that is 6 of your spans might be 5 of his. Both numbers are true, so you cannot compare them. Old Indian books counted length in hastas, a forearm length, and forearms differ too. So people agreed on one fixed length for everyone. Today, India and most countries use the metre and the centimetre. A centimetre on your ruler is the same as a centimetre on a ruler in Delhi or Chennai.",
+   "examples": [
+    "Your table is 6 of your hand spans long and 5 of your father's, but it is about the same number of centimetres for both of you.",
+    "A tailor in a village shop uses a measuring tape in centimetres, so the cloth is the same length for every customer."
+   ],
+   "perspectives": [],
+   "art": "A child and a grown-up each measuring the same table with their hand spans and getting different numbers, then a ruler showing the same number of centimetres for both."
+  },
+  {
    "concept": "Why some materials keep water out",
    "status": "defined",
    "definition": "Rain comes through a cloth by the gaps between its threads, and the biggest gaps let it through first. A waterproof material has no gaps, and water does not soak into it.",
@@ -342,6 +379,20 @@
    "perspectives": [],
    "art": "A paper towel strip hanging in coloured water, the colour climbing up it, with a magnified circle of water creeping between fibres.",
    "context": "In the climbing water test, water creeps up some materials faster than others. This card explains the pull behind it."
+  },
+  {
+   "concept": "Three more properties: floating, bending and seeing through",
+   "status": "defined",
+   "context": "This card is about three more properties you can test: floating, bending and seeing through.",
+   "definition": "A material floats if it stays on top of water. It is flexible if it bends easily. It is transparent if you can see clearly through it.",
+   "description": "Floating depends on more than the material. A steel spoon sinks, but a big steel ship floats, because its hollow shape holds a lot of air. A wooden stick floats and a pebble sinks. Flexible is not the same as elastic. A flexible cane bends easily, and elastic means it springs back. A stiff thing, like glass, does not bend before it breaks. Transparent things, like a glass window, let light through so you see clearly. Translucent things, like butter paper, let some light through, so you see only a blur. Opaque things, like a wooden door, let none through. We test each one the fair way. We change only the material, keep everything else the same, and write down a number or a clear word.",
+   "examples": [
+    "A coconut floats on the water at a Kerala beach, but a stone of the same size sinks.",
+    "A cane chair bends a little when you sit, and bamboo sways in the wind without snapping.",
+    "You can see your hand through a clear plastic bottle, only a blur through butter paper, and nothing through a steel plate."
+   ],
+   "perspectives": [],
+   "art": "Three small scenes: a wooden stick floating beside a sunk pebble in a tub, a cane strip bending under a coin, and a glass, a butter paper and a card held over a black dot."
   },
   {
    "concept": "Why strips of the same paper tear at different numbers",
@@ -791,10 +842,10 @@
       "t": "mcq",
       "q": "A boy poured 1 spoon on the cotton and 3 spoons on the plastic. Is the test fair?",
       "options": [
-       "Fair, because he tested two materials",
-       "Unfair, because the amount of water changed too"
+       "Unfair, because the amount of water changed too",
+       "Fair, because he tested two materials"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Two things changed: the material and the amount of water. So we cannot tell whether the plastic let water through, or whether there was just more water. Picking 'fair' usually means thinking a test is fair as long as it compares materials. It must also keep everything else the same."
      }
     },
@@ -1110,11 +1161,11 @@
      "p": "A test compares two paper strips. One-rupee coins go in the first bag and five-rupee coins go in the second. Why is that unfair?",
      "opts": [
       "Five-rupee coins are shinier",
-      "The coins are not the same weight",
       "Paper money should be used",
+      "The coins are not the same weight",
       "It is fair, because the coins were still counted"
      ],
-     "a": 1,
+     "a": 2,
      "how": "e2",
      "context": "This question is about the strip strength test. You hang a little bag from a paper strip and add one-rupee coins, one at a time, until the strip tears.",
      "why": "A five-rupee coin is heavier than a one-rupee coin. So 10 coins of each are not the same weight. Picking 'it is fair' usually means thinking counting is enough. What we count must also be the same each time."
@@ -1212,15 +1263,64 @@
      "t": "mcq",
      "p": "A girl wants to find out which paper makes the strongest strip: toilet paper, newspaper or kitchen towel. What must she keep the same?",
      "opts": [
-      "The size of each strip, the kind of coin and the way she adds the coins",
       "The kind of paper",
       "Nothing, as long as she counts",
+      "The size of each strip, the kind of coin and the way she adds the coins",
       "The number of coins in the bag"
      ],
-     "a": 0,
+     "a": 2,
      "how": "e2",
      "context": "This question is about the strip strength test. You hang a little bag from a paper strip and add one-rupee coins, one at a time, until the strip tears.",
      "why": "The paper is the one thing she changes. Everything else stays the same. The number of coins is what she measures, so it cannot be kept the same."
+    },
+    {
+     "t": "sort",
+     "p": "Sort these into things that float and things that sink.",
+     "cats": [
+      "Floats",
+      "Sinks"
+     ],
+     "items": [
+      [
+       "a wooden ice-cream stick",
+       "Floats"
+      ],
+      [
+       "a steel spoon",
+       "Sinks"
+      ],
+      [
+       "a plastic bottle cap",
+       "Floats"
+      ],
+      [
+       "a pebble",
+       "Sinks"
+      ],
+      [
+       "a dry leaf",
+       "Floats"
+      ],
+      [
+       "a one-rupee coin",
+       "Sinks"
+      ]
+     ],
+     "a": "see items",
+     "why": "Wood, plastic caps and dry leaves are light for their size, so they float. A spoon, a pebble and a coin are heavy for their size, so they sink.",
+     "how": "a9",
+     "context": "This question is about the float test. You drop six small things into a tub of water to see which float."
+    },
+    {
+     "t": "fill",
+     "p": "A table is 6 of your hand spans long and 5 of your father's. To get the same number every time, use a ________ unit, like the centimetre.",
+     "a": [
+      "standard",
+      "fixed"
+     ],
+     "why": "A standard unit is the same size for everyone. Hand spans change from hand to hand.",
+     "how": "a8",
+     "context": "This question is about the hand span activity, where you measure a table with hand spans and with a ruler."
     }
    ]
   },
@@ -1236,10 +1336,10 @@
      "opts": [
       "Toilet paper",
       "Paper napkin",
-      "Facial tissue",
-      "Kitchen towel"
+      "Kitchen towel",
+      "Facial tissue"
      ],
-     "a": 3,
+     "a": 2,
      "why": "Kitchen towel held 60 coins, the most. It is made thicker, with more fibres gripping each other, so it does not fall apart when you wipe. Picking facial tissue usually means soft was mistaken for strong.",
      "context": "This question is about the strip strength test. You hang a little bag from a paper strip and add one-rupee coins, one at a time, until the strip tears.",
      "chart": {
@@ -1316,11 +1416,11 @@
      "p": "In the width test, 2 cm strips held 20, 24 and 22 coins. What is the best guess for a 4 cm strip of the same napkin?",
      "opts": [
       "About 22 coins",
-      "About 44 coins",
       "Exactly 100 coins",
-      "About 4 coins"
+      "About 4 coins",
+      "About 44 coins"
      ],
-     "a": 1,
+     "a": 3,
      "why": "The middle value for 2 cm is 22. Twice as wide means about twice as many fibres share the pull, so about 22 + 22 = 44. Real strips rarely give exactly 44, because each has its own weak spots. Picking 22 means thinking width makes no difference.",
      "context": "This question is about the width test. You cut strips from one paper napkin, some 2 cm wide and some 4 cm wide, hang a bag from each, and add one-rupee coins until it tears.",
      "how": "e3"
@@ -1336,12 +1436,12 @@
      "t": "mcq",
      "p": "A rope seller in Kochi says, 'This rope held 100 kilograms in our test.' What would you most want to know before you trust it?",
      "opts": [
-      "How many ropes they tested, and whether every one held",
       "What colour the rope is",
       "How long the seller has had the shop",
-      "Nothing, because a test was done"
+      "Nothing, because a test was done",
+      "How many ropes they tested, and whether every one held"
      ],
-     "a": 0,
+     "a": 3,
      "why": "One rope holding once could be a lucky rope. If many ropes were tested and every one held, the claim is much stronger. Picking 'nothing' trusts any test, but a test is only as good as how it was done."
     },
     {
@@ -1415,12 +1515,12 @@
      "t": "mcq",
      "p": "Wet paper tears much more easily than dry paper. Why?",
      "opts": [
-      "Water is heavy",
       "Water slips between the fibres and loosens their grip on each other",
+      "Water is heavy",
       "Wet paper is thinner",
       "The ink runs"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Paper holds together because its fibres grip each other. Water gets between them and weakens that grip. Picking 'water is heavy' is a sensible guess. But a few drops weigh almost nothing, and the paper still goes weak."
     },
     {
@@ -1513,12 +1613,12 @@
      "t": "mcq",
      "p": "A girl cuts two strips from the same napkin, both 2 cm wide. One is 10 cm long and one is 20 cm long. What do you predict?",
      "opts": [
-      "They hold about the same, but the long one may hold a little less",
       "The long one holds twice as many coins",
       "The short one holds twice as many coins",
+      "They hold about the same, but the long one may hold a little less",
       "The long one cannot be tested"
      ],
-     "a": 0,
+     "a": 2,
      "how": "e3",
      "context": "This question is about the width test. You cut strips from one paper napkin, some 2 cm wide and some 4 cm wide, hang a bag from each, and add one-rupee coins until it tears.",
      "why": "The strip tears across its width, so the width matters most. But a longer strip has more paper, so it has more chances to hold a really weak spot. That is why it may tear a little sooner. Picking 'twice as many' mixes up length with width."
@@ -1527,12 +1627,12 @@
      "t": "mcq",
      "p": "Look at the chart. Facial tissue held 30 coins and the paper napkin held 25. Someone says, 'Tissue is much stronger.' What would make you more sure of that?",
      "opts": [
-      "Repeat each test three times and see whether the tissue still wins every time",
       "Nothing, 5 coins is a big gap",
       "Use a bigger bag",
-      "Look at which one feels softer"
+      "Look at which one feels softer",
+      "Repeat each test three times and see whether the tissue still wins every time"
      ],
-     "a": 0,
+     "a": 3,
      "chart": {
       "type": "bar",
       "title": "Strip strength test: coins held by strips 2 cm wide before tearing (made-up middle values)",
@@ -1564,6 +1664,36 @@
      "how": "e2",
      "context": "This question is about the strip strength test. You hang a little bag from a paper strip and add one-rupee coins, one at a time, until the strip tears.",
      "why": "Strips of the same paper can differ by several coins, because each has its own weak spots. A gap of 5 coins from one try could be luck. If the tissue wins in every try, the difference is real."
+    },
+    {
+     "t": "match",
+     "p": "Match each material to the word that says how it treats light.",
+     "pairs": [
+      [
+       "a glass window",
+       "transparent: you see clearly through it"
+      ],
+      [
+       "butter paper",
+       "translucent: you see a blur"
+      ],
+      [
+       "a wooden door",
+       "opaque: you see nothing through it"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Transparent, translucent and opaque describe how much light a material lets through.",
+     "how": "a9",
+     "context": "This question is about the see-through test. You count how many layers of a material hide a black dot."
+    },
+    {
+     "t": "count",
+     "p": "Rohan's hand span is 15 cm. His desk is 7 of his hand spans long. How many centimetres long is the desk?",
+     "a": "105 cm",
+     "why": "Seven spans of 15 cm each is 7 times 15 = 105 cm. Now anyone with a ruler can check it.",
+     "how": "a8",
+     "context": "This question is about the hand span activity, where hand spans are changed into centimetres."
     }
    ]
   },
@@ -1605,11 +1735,11 @@
      "p": "A woman measures the skin of water in her kitchen many times, but her numbers keep jumping about. Some days there is soap on the bowl, dust on the water, or grease on her fingers. What is the most likely reason?",
      "opts": [
       "Her balance is broken",
-      "She is changing several things without noticing, like soap, dust and greasy fingers",
       "Water is different every day",
+      "She is changing several things without noticing, like soap, dust and greasy fingers",
       "She cannot read numbers well"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Many small things changed at once. Once everything is kept the same, the results agree. Picking 'her balance is broken' is a common guess when results look messy. But the balance was the same each time. The surface of the water was not.",
      "context": "This lesson's story is about Agnes Pockels. About 140 years ago, in Germany, she tested the skin of water in her kitchen, by lifting a button off the water with a small balance."
     },
@@ -1629,12 +1759,12 @@
      "t": "mcq",
      "p": "A paper clip bent once doesn't break. Bent twenty times, it snaps. What is this called?",
      "opts": [
-      "Fatigue",
       "Friction",
+      "Fatigue",
       "Absorbency",
       "Magnetism"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Fatigue is when tiny cracks grow a little with every bend, until one snaps. Picking friction is a common mix-up, because the clip gets warm. The warmth comes from bending the metal, not from rubbing.",
      "how": "a6",
      "context": "In the tap and bend activity, a grown-up bends a paper clip back and forth and counts the bends until it snaps."
@@ -1675,11 +1805,11 @@
      "p": "Why do engineers build bridges much stronger than they need to be?",
      "opts": [
       "To show off",
-      "Every piece of material has hidden flaws, and loads can be bigger than expected",
       "Strong bridges are cheaper",
+      "Every piece of material has hidden flaws, and loads can be bigger than expected",
       "Because the law says bridges must be heavy"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Tests show that pieces of the same material vary in strength, and that cracks can grow over time. So engineers add a big safety margin. Picking 'cheaper' is wrong: extra strength costs more material and more money."
     },
     {
@@ -1699,7 +1829,7 @@
     },
     {
      "t": "write",
-     "p": "Invent a test for a property we did not test in this lesson, like how well a material keeps heat in, or how bendy it is. Say what you would change, keep the same and measure.",
+     "p": "Invent a test for a property we did not test in this lesson, like how well a material keeps heat in, or how fast it dries when wet. Say what you would change, keep the same and measure.",
      "lines": 5,
      "a": "For example: keeping heat in. Change: the material wrapped around a steel cup of warm water, such as wool, foil and newspaper. Keep the same: the amount and starting warmth of the water, the cup and the time. Measure: the warmth of the water after 20 minutes, with a thermometer.",
      "why": "A good answer has all three parts and a measuring tool."
@@ -1771,6 +1901,15 @@
      "p": "Real testing only happens in big laboratories with expensive machines.",
      "a": false,
      "why": "False. Agnes Pockels did tests in her kitchen that were printed in the famous journal Nature. What makes a test good is that it is fair, repeated and written down, not how costly the machine is."
+    },
+    {
+     "t": "write",
+     "p": "Plan a fair bend test for strips of paper, card and cloth. Say what you change, what you keep the same and what you measure.",
+     "lines": 4,
+     "a": "Change: the material of the strip. Keep the same: the length and width of the strip, how far it hangs over the table, the coin and the table. Measure: how far the tip drops, in centimetres, with a ruler. Repeat three times and take the middle value.",
+     "why": "A good plan changes only the material and ends in a measured number with a unit.",
+     "how": "a9",
+     "context": "This question is about the bend test. You push strips over a table edge, put a coin on the tip and measure how far each drops."
     }
    ]
   }
@@ -1887,11 +2026,11 @@
       "t": "mcq",
       "q": "A test pours 20 ml of water on the cotton and lifts it after 1 minute. It pours 20 ml on the wool and lifts it after 4 minutes. More water comes through the wool. Is the test fair?",
       "options": [
-       "Yes, because it tested two cloths",
        "No, because the wool waited longer",
+       "Yes, because it tested two cloths",
        "Yes, because the same water was poured"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Two things changed: the cloth and the waiting time. The wool may have let more through only because it had three more minutes. Picking 'the same water' notices one thing that was kept the same. But a fair test keeps everything the same except the cloth."
      }
     },
@@ -1981,11 +2120,11 @@
       "t": "mcq",
       "q": "The woollen sweater let through 14, 15 and 6 ml. What is the best thing to do about the 6?",
       "options": [
-       "Use the 6, because it is the smallest",
        "Ask what was different in that try, and use the middle value, 14",
+       "Use the 6, because it is the smallest",
        "Add all three together"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The 6 is an odd result. Perhaps that square was cut from a part where the knitting was tighter, or the patch was stretched more. In order the tries are 6, 14, 15, so the middle value is 14. One odd try cannot pull it far. Picking 'add them together' gives a total, which is not the result for one patch."
      },
      "parent": "If the three tries for one cloth are far apart, look for the cause. A loose patch, a splash over the edge or a missed drop can do it. Fix it and do one more try. If two cloths give almost the same numbers, this test cannot tell them apart. Say so. That is an honest result too."
@@ -2000,11 +2139,11 @@
       "t": "mcq",
       "q": "On the umbrella patch bar chart, which bar shows the best patch?",
       "options": [
-       "The tallest bar",
        "The shortest bar",
+       "The tallest bar",
        "The middle bar"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The bars show how much rain got through. The best patch lets the least through, so its bar is shortest. Picking the tallest bar usually means thinking 'taller is always better'. In this test, a tall bar means a wet head."
      },
      "chart": {
@@ -2429,11 +2568,11 @@
       "t": "mcq",
       "q": "Three 2 cm strips from one napkin held 18, 24 and 21 coins. Why were they different?",
       "options": [
-       "Each strip had its own hidden weak spots, and it tore at the weakest",
        "The coins got heavier",
-       "One of them must have been a different paper"
+       "One of them must have been a different paper",
+       "Each strip had its own hidden weak spots, and it tore at the weakest"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Paper is a tangle of fibres, thicker in some places and thinner in others. A strip tears where it is weakest, and every strip has different weak spots. Picking 'a different paper' is a fair worry, but all three came from one napkin. Picking 'heavier coins' is not possible, because the coins were the same."
      }
     },
@@ -3131,10 +3270,10 @@
       "q": "The bread was 2.5 cm, then 1 cm under the books, and still 1 cm a minute later. What does that show?",
       "options": [
        "Bread is elastic, so it springs back",
-       "Bread stays squashed: once its air holes collapse, they don't spring back",
-       "The ruler was wrong"
+       "The ruler was wrong",
+       "Bread stays squashed: once its air holes collapse, they don't spring back"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The bread did not go back to 2.5 cm, so it stayed squashed. Its soft walls of baked dough crushed and stuck together. A sponge's walls are springy, so they push back open. Picking 'elastic' means looking at the squash, not at what happened after. Both the bread and a sponge squash. Only the sponge springs back."
      },
      "think": "A sponge and foam spring back, but bread stays squashed, even though all three are full of air holes. Why do you think the bread is different?",
@@ -3358,11 +3497,11 @@
       "t": "mcq",
       "q": "Why does a cracked cup sound dull when tapped?",
       "options": [
-       "The crack stops it ringing as one piece",
        "Cracked cups are always lighter",
-       "The spoon is wrong"
+       "The spoon is wrong",
+       "The crack stops it ringing as one piece"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A whole cup vibrates all together and rings clearly. A crack breaks it into parts that vibrate separately, so the sound dies quickly and buzzes. Picking 'lighter' is a guess. A tiny crack hardly changes the weight at all."
      }
     },
@@ -3547,11 +3686,11 @@
       "t": "mcq",
       "q": "Napkin strips with a tiny cut held fewer coins, and they tore from the cut. Why?",
       "options": [
-       "The force of the pull crowded at the sharp tip of the cut, so the tear started there",
        "The cut made the paper wet",
-       "The coins were heavier for the cut strips"
+       "The coins were heavier for the cut strips",
+       "The force of the pull crowded at the sharp tip of the cut, so the tear started there"
       ],
-      "a": 0,
+      "a": 2,
       "why": "When the bag pulls, the force crowds at the sharp tip of the cut. The paper there gives way first, and the tear runs across the strip. Picking 'heavier coins' is not possible, because every strip got the same coins."
      },
      "parent": "A good answer sounds like this. What I think: one tiny cut makes a strip much weaker. What I saw: the plain strips held about 21 coins, and the cut strips about 12. Every cut strip tore from its cut. Why: the force of the pull crowds at the tip of the cut, so the tear starts there and runs across. Keep this in mind for the Roots card.",
@@ -3570,6 +3709,235 @@
     {
      "art": "Close-up of a hanging napkin strip tearing sideways from the tip of its small cut, coins starting to fall.",
      "caption": "3. Watch where each strip tears."
+    }
+   ]
+  },
+  {
+   "id": "a8",
+   "title": "Hand Spans or Centimetres?",
+   "mins": 15,
+   "days": 1,
+   "materials": [
+    {
+     "item": "a table or a desk",
+     "qty": 1
+    },
+    {
+     "item": "a 30 cm ruler",
+     "qty": 1,
+     "buy": "b-ruler"
+    },
+    {
+     "item": "paper and a pencil",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Measure a table in hand spans, then in centimetres, and compare with a grown-up."
+    }
+   ],
+   "record": "A small table: who measured, how many hand spans, how many centimetres.",
+   "context": "In this activity you measure the same table in hand spans, and then in centimetres. You see why people use one fixed unit.",
+   "setup": [
+    {
+     "art": "A child laying her spread hand again and again along the edge of a table, counting.",
+     "caption": "1. Measure the table in your hand spans."
+    },
+    {
+     "art": "A grown-up doing the same on the same table, getting a smaller number.",
+     "caption": "2. A grown-up measures the same table."
+    },
+    {
+     "art": "A 30 cm ruler laid along the table edge, with a finger marking the end of each ruler length.",
+     "caption": "3. Measure in centimetres."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "1. Your child lays a spread hand flat on the table edge. 2. They put the next span just after the thumb tip, and count how many spans fit along the table. 3. Write the number. 4. Ask them to predict how many spans a grown-up will need.",
+     "say": "Count the table in your hand spans. Will a grown-up get more, or fewer?",
+     "kid": "Count your hand spans along the table. Write the number. Guess: will a grown-up need more, or fewer?",
+     "context": "This is the first step of the hand span activity. You measure a table with your hand.",
+     "ask": [
+      {
+       "q": "Why do you think so?",
+       "good": [
+        "Fewer, because a grown-up hand is bigger.",
+        "Fewer, because they cover more table with each span."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "do": "1. A grown-up measures the same edge with their hand spans and says the number. 2. Write both numbers in the table: who, how many spans.",
+     "say": "Now I will measure the same table with my hand. Let's see what number I get.",
+     "kid": "Write down my number next to yours. Is it the same?",
+     "context": "In this step a grown-up measures the same table."
+    },
+    {
+     "id": "s3",
+     "mins": 6,
+     "do": "1. Lay the ruler along the edge, mark the end of the ruler with a finger or pencil, and move it on. 2. Count how many centimetres the table is. 3. Both of you write the same number. 4. Ask the question below.",
+     "say": "Now we both use the ruler. Do we get the same number this time?",
+     "kid": "Measure with the ruler. Write the number of centimetres. Did we get the same number?",
+     "context": "This is the last step of the hand span activity. You measure in centimetres and compare.",
+     "ask": [
+      {
+       "q": "Why did hand spans give two numbers, but the ruler gave one?",
+       "good": [
+        "Our hands are different sizes.",
+        "A centimetre is the same size for everybody."
+       ]
+      }
+     ],
+     "check": {
+      "t": "mcq",
+      "q": "The table is 6 of Meera's hand spans and 5 of her father's. Is the table different when he measures it?",
+      "options": [
+       "Yes, the table shrinks when he measures",
+       "No, the table is the same, but his hand span is bigger",
+       "Yes, because he is a grown-up"
+      ],
+      "a": 1,
+      "why": "The table stays the same. Only the size of the unit changed, because his hand is bigger. That is why scientists use a standard unit, like a centimetre. If you chose that the table changed, look again: the table never moved."
+     },
+     "parent": "Make this a real discovery: let your child count first, and do not say why before they see two different numbers."
+    }
+   ]
+  },
+  {
+   "id": "a9",
+   "title": "Float, Bend and See Through",
+   "mins": 25,
+   "days": 1,
+   "materials": [
+    {
+     "item": "a bucket or tub of water",
+     "qty": 1
+    },
+    {
+     "item": "six small things to float or sink: a wooden ice-cream stick, a plastic bottle cap, a steel spoon, a one-rupee coin, a pebble and a dry leaf",
+     "qty": 6
+    },
+    {
+     "item": "four strips, each 15 cm long and 2 cm wide: paper, thin card, a flat ice-cream stick and a cotton cloth strip",
+     "qty": 4
+    },
+    {
+     "item": "a 30 cm ruler",
+     "qty": 1,
+     "buy": "b-ruler"
+    },
+    {
+     "item": "a one-rupee coin and a book to hold the strips down on a table",
+     "qty": 1
+    },
+    {
+     "item": "a white sheet of paper with a thick black dot drawn on it, and several layers each of butter paper, a clear plastic bag and a cotton hanky",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 25,
+     "what": "Do three short fair tests: floating, bending and seeing through. Record each in a table."
+    }
+   ],
+   "record": "Three small tables: float or sink for six things, how far each strip drooped in cm, and how many layers hid the dot.",
+   "context": "In this activity you run three more fair tests on materials: which float, which bend most, and which let you see through. You write down numbers, or clear words, for each.",
+   "setup": [
+    {
+     "art": "A tub of water with a wooden stick and a bottle cap floating, and a spoon and a pebble lying on the bottom.",
+     "caption": "1. Float test: predict, then drop each one gently."
+    },
+    {
+     "art": "Four strips on a table, each pushed 10 cm over the edge with a coin on the tip, and a ruler held upright beside the first.",
+     "caption": "2. Bend test: measure how far the tip drops."
+    },
+    {
+     "art": "Layers of butter paper laid over a black dot on white paper, the dot getting fainter.",
+     "caption": "3. See-through test: count layers until the dot hides."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 8,
+     "do": "1. Make a table: thing, my guess, what happened. 2. Your child guesses and gives a reason for each thing. 3. Drop each thing gently into the same tub, one at a time, and wait 10 seconds. 4. Write float or sink.",
+     "say": "Guess first: will the stick float or sink? Why? Now drop it softly and watch for ten seconds.",
+     "kid": "Guess, then drop each thing gently in the same tub. Write float or sink.",
+     "context": "This is the first step of the float test. You find out which things float.",
+     "ask": [
+      {
+       "q": "What kept the same for every thing?",
+       "good": [
+        "The same tub and the same water.",
+        "I dropped each thing gently and waited ten seconds."
+       ]
+      }
+     ],
+     "parent": "A flat, dry leaf floats; a soaked leaf may sink. Keep it dry. Say what you saw, even if it is a surprise."
+    },
+    {
+     "id": "s2",
+     "mins": 9,
+     "do": "1. Push each strip 10 cm over the table edge, with the rest under a heavy book. 2. Put the coin on the tip. 3. Stand the ruler upright beside the strip and measure how far the tip dropped, in cm. 4. Write the number. 5. Do the same for all four strips.",
+     "say": "Same overhang, same coin, same table. Only the material changes. How far does the tip drop?",
+     "kid": "Put the coin on the tip. Measure how far it drops in cm. Write it down for each strip.",
+     "context": "In this step you test which strip bends most.",
+     "chart": {
+      "type": "table",
+      "title": "Made-up example results",
+      "cols": [
+       "Strip",
+       "Drop of the tip (cm)"
+      ],
+      "rows": [
+       [
+        "Paper",
+        "5"
+       ],
+       [
+        "Thin card",
+        "2"
+       ],
+       [
+        "Ice-cream stick",
+        "0.5"
+       ],
+       [
+        "Cotton cloth",
+        "12"
+       ]
+      ]
+     },
+     "parent": "The most flexible strip is the one whose tip drops the most. If a strip falls off the table, the coin was too heavy for it. Say what happened and try a smaller coin."
+    },
+    {
+     "id": "s3",
+     "mins": 8,
+     "do": "1. Lay one layer of butter paper over the black dot. Can you see the dot clearly, as a blur, or not at all? 2. Add layers one at a time and count how many hide the dot. 3. Do the same for the clear bag and the cotton hanky. 4. Use the same light, near a window.",
+     "say": "Look at the dot through one layer. Is it clear, blurry or gone? Add one more layer.",
+     "kid": "Count how many layers it takes to hide the dot. Write a number for each material.",
+     "context": "This is the last step of the activity. You test how much light each material lets through.",
+     "ask": [
+      {
+       "q": "Which material hid the dot with the fewest layers?",
+       "good": [
+        "The cotton hanky, because it lets the least light through.",
+        "The butter paper, because it was already blurry."
+       ]
+      }
+     ],
+     "think": "A glass window is transparent, butter paper is translucent, and a wooden door is opaque. Which one would you put in a window, and which in a door? Why?"
     }
    ]
   }
@@ -3681,11 +4049,11 @@
       "t": "mcq",
       "q": "Why test the kitchen towel strips wet, not dry?",
       "options": [
-       "Because kitchen towels are used wet, so the test should be like real use",
        "Because wet paper is always stronger",
-       "To make the test faster"
+       "To make the test faster",
+       "Because kitchen towels are used wet, so the test should be like real use"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A good test is like the real job. Kitchen towels are used for wiping spills, so how strong they are when wet matters most. Picking 'wet paper is always stronger' is the opposite of what happens. Water loosens the grip between fibres, so most wet paper is weaker."
      }
     },
@@ -3812,10 +4180,10 @@
       "q": "Your cover kept the tissue dry when new, but after 10 openings the tissue got damp. What does that tell you?",
       "options": [
        "The water was different",
-       "The folds or tape got weaker with use, so the test found a real problem",
-       "The test was unfair, so ignore it"
+       "The test was unfair, so ignore it",
+       "The folds or tape got weaker with use, so the test found a real problem"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Using a cover bends it again and again, the way bending a paper clip back and forth weakens it. Cracks or gaps can open at the folds. Testing after use found a real weakness. Picking 'ignore it' throws away the most useful result. A good engineer is glad to find a weakness before the monsoon does."
      },
      "parent": "Waxed paper often cracks at the folds after a few openings. Plastic sleeves work well. Layered designs often do best. If every design passes, make the test harder: 100 ml, or 20 openings."
@@ -4044,11 +4412,11 @@
    "t": "mcq",
    "p": "What makes a test fair?",
    "opts": [
-    "Changing only one thing and keeping everything else the same",
     "Testing as many things as possible at once",
+    "Changing only one thing and keeping everything else the same",
     "Doing it as fast as you can"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Only then do you know what caused the difference. Picking 'as many things as possible' usually means thinking more testing is always better. If many things change together, you can't tell which one mattered.",
    "outcome": 0
   },
@@ -4069,10 +4437,10 @@
    "p": "In the umbrella test, which of these must stay the same for every material?",
    "opts": [
     "The material",
-    "The amount of water poured on",
-    "The water that comes through"
+    "The water that comes through",
+    "The amount of water poured on"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The water poured on stays the same. The material is what we change. The water that comes through is what we measure. Picking 'the water that comes through' mixes up what we keep the same with what we measure.",
    "outcome": 0,
    "context": "This question is about the umbrella patch test. You stretch squares of old cloth over steel tumblers, let 20 ml of 'rain' drip onto each one, and after 4 minutes measure how much water came through.",
@@ -4123,10 +4491,10 @@
    "p": "Look at the chart. Which material soaked up water fastest?",
    "opts": [
     "Printer paper",
-    "Newspaper",
-    "Kitchen towel"
+    "Kitchen towel",
+    "Newspaper"
    ],
-   "a": 2,
+   "a": 1,
    "why": "Water climbed 9 cm up the kitchen towel, the highest. Picking printer paper often means the smallest number was read as the winner. Here, a taller bar means the water climbed higher.",
    "outcome": 3,
    "context": "This question is about the climbing water test. You hang strips of different materials with their ends in coloured water, and after 5 minutes measure how high the water climbed.",
@@ -4164,11 +4532,11 @@
    "t": "mcq",
    "p": "Why should every column heading in a results table have a unit, like (cm)?",
    "opts": [
-    "To make it look neat",
     "So everyone knows what the numbers measure",
+    "To make it look neat",
     "Because units are always the same"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A number like 12 could be 12 cm or 12 coins. The unit tells us. Picking 'to look neat' misses that a table is for others to understand.",
    "outcome": 3
   },
@@ -4176,12 +4544,12 @@
    "t": "mcq",
    "p": "Why do scientists often use the middle value of three tries, and not the biggest one?",
    "opts": [
-    "The biggest may be a lucky try. The middle value is a fair summary that one odd try cannot pull far",
     "The middle value is always the biggest",
     "The middle value is quicker to write",
-    "Scientists like the number in the middle"
+    "Scientists like the number in the middle",
+    "The biggest may be a lucky try. The middle value is a fair summary that one odd try cannot pull far"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Taking the biggest trusts the luckiest try. The middle value sits between the others, so one very high or very low try hardly moves it. Picking 'always the biggest' mixes up the middle with the top.",
    "outcome": 4
   },
@@ -4204,10 +4572,10 @@
    "p": "A plastic bag let through no water, but it tears easily. What should you do before choosing it for an umbrella?",
    "opts": [
     "Nothing, waterproof is all that matters",
-    "Test it for strength as well",
-    "Paint it"
+    "Paint it",
+    "Test it for strength as well"
    ],
-   "a": 1,
+   "a": 2,
    "why": "One test checks one property. An umbrella must also be strong in the wind. Picking 'waterproof is all that matters' forgets that real jobs need several properties.",
    "outcome": 6
   },
@@ -4216,10 +4584,10 @@
    "p": "Look at the chart. Which paper would you choose for wiping up a big spill?",
    "opts": [
     "Toilet paper",
-    "Paper napkin",
-    "Kitchen towel"
+    "Kitchen towel",
+    "Paper napkin"
    ],
-   "a": 2,
+   "a": 1,
    "why": "Kitchen towel held the most coins, so it is strongest, and it soaks up water fast. Picking toilet paper might come from it being softest. But it tore with the fewest coins.",
    "outcome": 6,
    "context": "This question is about the strip strength test. You hang a little bag from a paper strip and add one-rupee coins, one at a time, until the strip tears.",
@@ -4270,11 +4638,11 @@
    "t": "mcq",
    "p": "A napkin strip with a small cut held fewer coins than a strip with no cut. Why?",
    "opts": [
-    "The pull gathered at the sharp tip of the cut",
     "The cut made the paper wet",
-    "The cut made the strip heavier"
+    "The cut made the strip heavier",
+    "The pull gathered at the sharp tip of the cut"
    ],
-   "a": 0,
+   "a": 2,
    "why": "At a crack, the pull crowds into the sharp tip, so it tears from there. Picking 'heavier' is not possible, because cutting removes paper. It does not add any.",
    "outcome": 5,
    "context": "This question is about the Tiny Cut Test. You hang a bag from napkin strips, some with a small cut at one edge, and add coins until each one tears.",
@@ -4284,11 +4652,11 @@
    "t": "mcq",
    "p": "A plain hair held about 19 coins. A hair from the same person with a knot in it held about 13. Why did the knotted hair hold fewer?",
    "opts": [
-    "At the knot the hair is bent sharply, so the pull crowds there and it breaks",
     "The knot made the hair shorter, so it was weaker",
+    "At the knot the hair is bent sharply, so the pull crowds there and it breaks",
     "The knotted hair was older"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A sharp bend makes a weak spot, like the tip of a cut. The hair breaks there. Picking 'shorter' is a fair idea to check, but the strength of a hair doesn't depend on its length much. It breaks at its weakest spot. Picking 'older' misses that all the hairs came from the same person.",
    "outcome": 5,
    "how": "a5",
@@ -4310,11 +4678,11 @@
    "t": "mcq",
    "p": "Can scientists predict exactly how many bends will snap a paper clip?",
    "opts": [
-    "Yes, always",
     "No. Every clip has its own hidden flaws, so the number changes",
+    "Yes, always",
     "Yes, it is always 10"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Hidden flaws differ from clip to clip, so scientists can only say what usually happens. Picking 'always 10' means one try was taken as a rule. That is why we repeat tests.",
    "outcome": 6,
    "how": "a6",
@@ -4325,10 +4693,10 @@
    "p": "In the muffle test, which cover usually makes the alarm quietest?",
    "opts": [
     "Aluminium foil",
-    "A woollen shawl",
-    "Nothing at all"
+    "Nothing at all",
+    "A woollen shawl"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Soft, fluffy wool is full of fibres and air gaps, where the sound's vibration gets lost. Thin foil bounces much of the sound back instead. Picking foil is a common guess, because metal seems strong. But strong is not the same as good at absorbing sound.",
    "outcome": 2,
    "how": "a3",
@@ -4352,15 +4720,71 @@
    "t": "mcq",
    "p": "Three strips cut from the same napkin, all 2 cm wide, held 18, 24 and 21 coins. Why were they different?",
    "opts": [
-    "Each strip had its own hidden weak spots, and tore at the weakest",
     "The test was done wrong, so it should be thrown away",
-    "The coins were different weights"
+    "The coins were different weights",
+    "Each strip had its own hidden weak spots, and tore at the weakest"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Paper has thin and thick patches. Each strip tears at its own weakest spot, so the numbers spread out. Picking 'the test was done wrong' throws away a real result. A spread like this is normal, and the middle value, 21, sums it up.",
    "outcome": 5,
    "how": "e3",
    "context": "This question is about the width test. You cut strips from one paper napkin, some 2 cm wide and some 4 cm wide, hang a bag from each, and add one-rupee coins until it tears."
+  },
+  {
+   "t": "mcq",
+   "p": "Meera measures a table and says it is 6 hand spans long. Her father measures the same table and says it is 5. Why did they get different numbers?",
+   "opts": [
+    "Their hand spans are different sizes",
+    "The table changed size",
+    "One of them counted wrongly for sure"
+   ],
+   "a": 0,
+   "why": "The table did not change. A grown-up's hand span is bigger, so fewer of them fit. This is why we use a standard unit, like a centimetre, that is the same size for everyone.",
+   "outcome": 3,
+   "how": "a8",
+   "context": "In the hand span activity, you measure a table in hand spans, then in centimetres, and compare with a grown-up."
+  },
+  {
+   "t": "mcq",
+   "p": "A steel spoon sinks in water, but a big steel ship floats. What does this show?",
+   "opts": [
+    "Floating depends on shape as well as material",
+    "Steel ships are made of a different metal",
+    "The ship is lighter than the spoon"
+   ],
+   "a": 0,
+   "why": "A ship is hollow, so it holds a lot of air and pushes aside a lot of water. A spoon is solid. So the same steel can sink or float, depending on its shape.",
+   "outcome": 2,
+   "how": "a9",
+   "context": "In the float test, you drop six things into a tub of water and see which float."
+  },
+  {
+   "t": "mcq",
+   "p": "In the bend test, the tip of a paper strip dropped 5 cm, thin card 2 cm and an ice-cream stick 0.5 cm. Which is the most flexible?",
+   "opts": [
+    "The paper strip",
+    "The ice-cream stick",
+    "The thin card"
+   ],
+   "a": 0,
+   "why": "The strip that bends most under the same coin is the most flexible. Paper dropped 5 cm, which is more than the card or the stick. The stick is stiff.",
+   "outcome": 2,
+   "how": "a9",
+   "context": "In the bend test, you put a coin on the tip of each strip and measure how far it drops."
+  },
+  {
+   "t": "mcq",
+   "p": "Through one layer of butter paper, you see the black dot only as a blur. What is butter paper?",
+   "opts": [
+    "Transparent",
+    "Translucent",
+    "Opaque"
+   ],
+   "a": 1,
+   "why": "Translucent things let some light through, so you see a blur. A transparent thing, like clear glass, lets you see clearly. An opaque thing, like a wooden door, lets no light through at all.",
+   "outcome": 2,
+   "how": "a9",
+   "context": "In the see-through test, you count how many layers of a material hide a black dot."
   }
  ],
  "applications": [
@@ -4722,7 +5146,9 @@
     "e4",
     "a2",
     "a5",
-    "a7"
+    "a7",
+    "a8",
+    "a9"
    ]
   },
   {
@@ -4786,6 +5212,89 @@
    "used_in": [
     "e2"
    ]
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in The Muffle Test: which material absorbs sound best?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before The Muffle Test: which material absorbs sound best?."
+  },
+  {
+   "id": "b-food-colour",
+   "item": "Food colour",
+   "kind": "material",
+   "why": "Used in The Climbing Water Test: which material soaks up water fastest?. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it.",
+   "url": "https://www.amazon.in/s?k=food+colour+liquid",
+   "used_in": [
+    "e4"
+   ],
+   "plan": "Get it before The Climbing Water Test: which material soaks up water fastest?."
+  },
+  {
+   "id": "b-sticky-notes",
+   "item": "Sticky notes",
+   "kind": "material",
+   "why": "Used in The Planning Board. About ₹20 to ₹60. Small torn paper and tape do the same job.",
+   "url": "https://www.amazon.in/s?k=sticky+notes+pack",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Get it before The Planning Board."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in The Muffle Test: which material absorbs sound best?, The Squash Test: which material springs back?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "a3",
+    "a4"
+   ],
+   "plan": "Get it before The Muffle Test: which material absorbs sound best?."
+  },
+  {
+   "id": "b-cotton-wool",
+   "item": "Cotton wool",
+   "kind": "material",
+   "why": "Used in The Squash Test: which material springs back?. About ₹20 to ₹50. Torn clean cloth works.",
+   "url": "https://www.amazon.in/s?k=cotton+wool+roll",
+   "used_in": [
+    "a4"
+   ],
+   "plan": "Get it before The Squash Test: which material springs back?."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in The Strip Strength Test: which paper holds the most?, Keep the Notebook Dry. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "e2",
+    "c1"
+   ],
+   "plan": "Get it before The Strip Strength Test: which paper holds the most?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [
@@ -4874,6 +5383,8 @@
    "a6",
    "c2",
    "c3",
+   "a8",
+   "a9",
    "big_questions",
    "ws-challenge",
    "open_questions"

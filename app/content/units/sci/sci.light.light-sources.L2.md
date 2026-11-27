@@ -1,9 +1,9 @@
 # Light sources: why the Moon is not one, and what darkness is
 `sci.light.light-sources.L2`
 
-**Summary.** The Moon shines in the night sky, so is it a lamp? In this unit you will make a paper Moon and see if bounced torchlight can light up a picture in a dark room. You will also test whether darkness comes out of a door, and play a game tracing light back to its source.
+**Summary.** The Moon shines in the night sky, so is it a lamp? In this lesson you will make a paper Moon and see if bounced torchlight can light up a picture in a dark room. You will also test whether darkness comes out of a door, and play a game tracing light back to its source.
 
-**Intro.** *On a full-Moon night, the Moon can be bright enough to light up a terrace. So is the Moon a light source, like a lamp?* The Moon looks like a big lamp in the sky. But the Moon is a ball of rock, and rock makes no light. So where does the Moon's light come from? And what is the dark that comes back when a cloud covers the Moon? In this unit you make a paper Moon in a dark room, and find out.
+**Intro.** *On a full-Moon night, the Moon can be bright enough to light up a terrace. So is the Moon a light source, like a lamp?* The Moon looks like a big lamp in the sky. But the Moon is a ball of rock, and rock makes no light. So where does the Moon's light come from? And what is the dark that comes back when a cloud covers the Moon? In this lesson you make a paper Moon in a dark room, and find out.
 
 ## Learning outcomes
 0. By the end I can say what a light source is, and name five light sources.
@@ -20,6 +20,7 @@
 - **Darkness**: Darkness is what we see where no light, or very little light, is arriving. It is the absence of light. *e.g.* Inside a shut cupboard it is dark, because no light can get in.
 - **Dim**: Dim means there is only a little light. Things are hard to see, but not gone. *e.g.* A room lit only by a phone screen is dim.
 - **Fair test**: A fair test is a test where we change only one thing and keep everything else the same. Then we know what made the difference. *e.g.* In the Paper Moon test, we change only the paper. The torch, the room and the pictures stay the same.
+- **Pupil**: The pupil is the black circle in the middle of your eye that lets light in. It gets smaller in bright light and bigger in dim light. *e.g.* Look at a friend's eyes in a dark room and again beside a bright window. The black circle shrinks beside the window.
 
 ## Explanations
 ### The Moon is not a light source · *defined*
@@ -161,12 +162,57 @@ Down below, the tube lights flickered on in the flats around them. The fans in t
 
 On the way down, Arjun stopped at a window and looked back at the Moon. "Thank you, Sun," he whispered. Kavya heard him, and grinned.
 
-**For the parent:** For the parent: Kavya works out two things. The moonlight on the terrace is sunlight that bounced off the Moon, so the Sun is still lighting them at night. And when the cloud covers the Moon, nothing dark arrives: the light simply stops arriving.
 
-- Ask: Paati's steel plate shone in the moonlight. Was the plate a light source? Why not?
-- Ask: Where was the Sun while Kavya stood in the moonlight?
-- Ask: When the cloud covered the Moon, where did the dark come from?
-- Ask: Why did Arjun say thank you to the Sun, and not to the Moon?
+## Another story: The Brightest Way
+**
+
+I do not remember the egg. Nobody does. I remember only that it was dark, and close, and that the sand around me was cool and heavy, and that one night all of us, a hundred brothers and sisters, began to dig upwards at the same time.
+
+We dug for two days. When my head came out into the air, it was night on the beach at Rushikulya, and the sky was enormous.
+
+Nobody had told me where to go. My mother had laid us in the sand fifty days before and gone back to the sea, as all olive ridley mothers do. But I knew one thing, deep inside, the way you know to breathe. Go towards the brightest way. The brightest way is the sea.
+
+So I looked for the brightest way.
+
+There was a glow behind me, warm and yellow, much brighter than anything else. It flickered. It called me. I turned my small body round in the sand and began to crawl towards it with my flippers, push and pull, push and pull, and around me my brothers and sisters were turning too.
+
+The sand got drier and harder. It smelled of smoke and fish and people. The yellow glow got bigger. I didn't know then that it was a lamp, a kerosene lantern hanging outside a fisherman's hut, and that beyond it were more lamps, and a road, and dogs, and crows that wake early. I only knew it was bright, and bright meant sea, and sea meant safe.
+
+I would not have lived.
+
+But in the hut was a girl called Mitali, who was eight years old and could not sleep because her baby brother was crying. She came to the door to look at the night, and she saw us. A hundred little dark shapes, crawling up the beach towards her father's lantern. Crawling the wrong way.
+
+She did not shout. She knew about the turtles. Her grandmother had told her that every year they come out of the sand, and every year the forest guards and the village children walk on the beach at night to keep the dogs away.
+
+But she had never asked herself why we were crawling towards her house.
+
+She looked at us. She looked at the lantern. She looked back at the sea, which was black and quiet under the stars.
+
+And she understood. The turtles are looking for the brightest thing. Tonight the brightest thing is our lamp.
+
+Mitali reached up and turned the little wheel on the lantern, and the flame went down, and down, and out.
+
+For a moment the whole beach was dark, and I stopped, confused. There was no bright way any more. There was nothing.
+
+Then, slowly, my eyes found it. Out there, low and wide, the sea had a faint silver shine. It was not a lamp. It was not on fire. It was the light of the stars and the thin moon falling on the water and bouncing off the moving waves, a soft sheet of light all along the edge of the world. It had always been there. I just could not see it while the lantern was burning.
+
+Now it was the brightest way.
+
+I turned round. All around me the others were turning too, a hundred small shapes in the sand. We crawled downhill, push and pull, past the place where we had hatched, and the sand got damp and then wet, and then a wave came up the beach, cold and fizzing, and lifted me off the sand, and I was swimming.
+
+Mitali stood in the dark doorway of her house with the cold lantern in her hand until the last of us had reached the water. Her baby brother had stopped crying. She told her father in the morning, and he grumbled, because he had to find his way to the boat in the dark. But that night, and the next night, he left the lantern off.
+
+That was fifteen years ago. I have swum to places Mitali will never see. And now I have come back to the same beach to lay my own eggs in the sand.
+
+I do not know if she is still here. But as I dug my nest tonight, I looked up the beach, and all the huts were dark.
+
+**For the parent:** The hatchlings head for the brightest horizon, which is normally the sea shining with reflected starlight and moonlight. The sea is not a light source. It only reflects. The lantern is a real light source and much brighter, so it hides the sea's faint glow. When Mitali puts the lantern out, the sea becomes the brightest way again. In the dark, the turtles can see what was there all along.
+
+- Ask: Why did the baby turtles crawl towards the lantern?
+- Ask: Was the sea making its own light? Where did its silver shine come from?
+- Ask: Why could the turtle only see the sea's shine after the lantern went out?
+- Ask: Why do you think Mitali's father left the lantern off, even though it was harder for him?
+- Ask: Who else in the story needed the dark, and who needed the light?
 
 ## Games
 ### g1 · Trace It Back: a card game about where light comes from (12 min)
@@ -272,6 +318,35 @@ On the way down, Arjun stopped at a window and looked back at the Moon. "Thank y
   *Child mode:* Think about where the light goes when it enters the hole.
   - Note: Listen for this idea: the light goes into the hole and does not come back out, so almost none reaches your eyes. If your child says only that the hole is black, ask where the light went.
   - Check: In the Blackest Black experiment, the hole in the box looks darker than the black paper. Why? → **Almost no light comes back out of the hole**
+### old1 · Watch Your Pupils: how do our eyes change in dim and bright light? (10 min)
+- **problem:** The black circle in the middle of your eye is a hole called the pupil. It lets light into the eye. In this experiment you watch what the pupil does when the room goes from dim to bright.
+- **question:** What happens to the black circle in the eye when the light changes from dim to bright?
+- **predict:** Will the black circle get bigger or smaller when the light comes on? Say why you think so.
+- **fair test:** We use the same room, the same person, the same eye and the same distance, about 30 centimetres, every time. We change only the light. We try three times, because one try can be a fluke.
+- **safety:** Never point a lamp or torch into anyone's eyes. Never look at the Sun.
+- **record:** Fill in the table. Draw the pupil as a small circle inside a bigger circle, once big and once small.
+- **results table:** Try | What the pupil looked like in the dim light | What the pupil did when the light came on
+- **s1 (2 min)**  
+  *Parent does:* Ask your child to guess whether the pupil will get bigger or smaller when the light comes on, and why. Write the guess down.  
+  *Parent says:* Look at the black circle in my eye. When the light comes on, what do you think it will do? Why?  
+  *Child mode:* Guess if the black circle gets bigger or smaller in bright light. Say why you think so.
+  - Ask: Why do you think the pupil will do that? (good: It will shrink to keep out too much light.; It will get bigger to let in more light.)
+- **s2 (2 min)**  
+  *Parent does:* 1. Draw the curtains and switch off the room light, so the room is dim. 2. Your partner covers their eyes with their palms, and keeps them closed, for 30 seconds. 3. Sit face to face, 30 centimetres apart.  
+  *Parent says:* We wait in the dim light, so the pupil has time to open wide. Cover your eyes. I will count 30.  
+  *Child mode:* Sit facing your partner. Cover your eyes with your palms. Wait for 30 seconds.
+  - Note: If the eyes are dark brown, the pupil is hard to see against the brown. Look at where the black meets the brown, and sit near a window with the curtain half open, so a little light falls on the face from the side.
+- **s3 (4 min)**  
+  *Parent does:* 1. Your partner lowers their hands and looks at you. 2. Switch on the room light at the same moment. 3. Watch the pupil for 3 seconds. 4. Write what you saw. 5. Do it three times, with 30 seconds in the dim light before each try.  
+  *Parent says:* Look at the black circle the moment the light comes on. Does it get bigger or smaller?  
+  *Child mode:* Watch the black circle as the light comes on. Does it get bigger or smaller? Do it three times.
+  - Ask: What did the pupil do when the light came on? (good: It got smaller very fast.; It shrank, and then it settled.)
+- **s4 (2 min)**  
+  *Parent does:* Switch the room light off again and let your partner look at you. Watch the pupil as the light goes. Draw a big pupil and a small pupil.  
+  *Parent says:* The pupil is a hole that lets light in. In dim light it opens wide to catch as much light as it can. In bright light it closes, to protect the inside of the eye. It happens on its own, and you do not decide it. What would happen if the pupil stayed small at night?  
+  *Child mode:* Watch as the light goes off. Draw a big pupil and a small pupil.
+  - Ask: Why does the pupil open wide in the dark? (good: To let in as much light as possible.; So we can see a little in the dark.)
+  - Ask: What does this test not tell us? (good: It does not tell us how the eye decides to change.; We only looked at people, so we do not know about other animals.)
 
 ## Activities
 ### a1 · The Door Test: does the dark come out? (8 min)
@@ -386,14 +461,14 @@ On the way down, Arjun stopped at a window and looked back at the Moon. "Thank y
 1. (sort) A grown-up reads out each thing. Does it make its own light, or does it only send on light? Colour the light sources yellow.  
    **Answer:** The Sun → Light source; The Moon → Sends on light; A tube light → Light source; A white wall → Sends on light; A lit diya → Light source; A steel plate → Sends on light. *Why:* The Sun, the tube light and the diya make their own light. The Moon, the wall and the plate only send on light that falls on them.
 2. (mcq) A torch shines on different sheets in the dark, and each sheet bounces light onto a card of pictures. Which sheet will let you see the most pictures?  
-   Options: White paper / Black cloth / Newspaper  
+   Options: Black cloth / White paper / Newspaper  
    **Answer:** White paper. *Why:* White paper sends back most of the light that falls on it. Black cloth takes in most of it, and newspaper is in between.
 3. (draw) Draw the Sun, the Moon and your home at night. Draw arrows to show how the light gets to your window.  
    **Answer:** An arrow from the Sun to the Moon, and an arrow from the Moon to the home.. *Why:* A strong drawing starts the light at the Sun, not at the Moon, and shows the light bouncing off the Moon.
 4. (truefalse) A white kolam on a doorstep makes its own light at dusk.  
    **Answer:** False. *Why:* False. A kolam only sends on light that falls on it from the sky. It is easy to see because white sends back a lot of light.
 5. (mcq) Which of these places would be the darkest?  
-   Options: Inside a shut steel cupboard / Under a thin white sheet / Behind a glass window  
+   Options: Under a thin white sheet / Inside a shut steel cupboard / Behind a glass window  
    **Answer:** Inside a shut steel cupboard. *Why:* No light can get into a shut cupboard, so nothing is lit and it is dark. Light passes through glass and a thin sheet.
 6. (match) Draw a line from each thing to where its light comes from.  
    **Answer:** The Moon → The Sun; A white page lit by a lamp at night → The lamp; A diya → Its own flame. *Why:* The Moon sends on sunlight, and the page sends on lamplight. The diya makes its own light.
@@ -416,7 +491,7 @@ On the way down, Arjun stopped at a window and looked back at the Moon. "Thank y
 4. (truefalse) If you wait long enough in a room with no light at all, your eyes will get used to it and you will see.  
    **Answer:** False. *Why:* False. Eyes get used to dim light, not to no light. With no light at all, nothing can come from the things to your eyes.
 5. (mcq) On a dark road, why is a person in a white shirt easier to see than a person in a black shirt?  
-   Options: The white shirt sends back more of the light that falls on it / The white shirt makes its own light / The black shirt makes the road darker  
+   Options: The white shirt makes its own light / The black shirt makes the road darker / The white shirt sends back more of the light that falls on it  
    **Answer:** The white shirt sends back more of the light that falls on it. *Why:* White sends back most of the light that falls on it, as the white paper did in the Paper Moon test. Black takes most of it in.
 6. (order) Put the journey of moonlight in order, from start to end.  
    **Answer:** ['It leaves the Sun', 'It reaches the Moon', 'It bounces off the grey rock', 'It lands on your face']. *Why:* Moonlight starts at the Sun, travels to the Moon, bounces off its rock and comes down to us.
@@ -427,13 +502,13 @@ On the way down, Arjun stopped at a window and looked back at the Moon. "Thank y
 9. (draw) Draw a shut box with a small hole in its side, and a piece of black paper next to it. Colour the hole and the black paper. Make the darker one darker.  
    **Answer:** The hole is coloured darker than the black paper.. *Why:* Black paper sends back a little light. Almost no light comes back out of the hole, so it looks darkest.
 10. (mcq) In the daytime, the Moon looks pale and faint. Why?  
-   Options: The sky around it is bright too / The Moon makes less light in the day / It is a different Moon  
+   Options: The Moon makes less light in the day / It is a different Moon / The sky around it is bright too  
    **Answer:** The sky around it is bright too. *Why:* The Moon reflects the same sunlight all the time. At night the sky around it is black, so it looks bright. In the day the sky is bright too, so the Moon looks pale.
 ### Thinking About Light (challenge) (challenge, 10 questions)
 1. (write) Many people think the Moon gives light because it is so bright at night. What could you look at to show them where its light comes from? Say it, and a grown-up writes it.  
    **Answer:** Look at which side of the Moon is bright: it always faces where the Sun is or where it set. Or show them the Paper Moon test, where the paper went dark when the torch went off.. *Why:* A strong answer names something you can really see or do, not just 'a book says so'.
 2. (mcq) Moon rock is dark grey. It reflects only about one tenth of the sunlight that falls on it. Why can the Moon still light up a terrace?  
-   Options: Sunlight is very, very strong / The Moon is very hot / The Moon stores light in the day  
+   Options: The Moon is very hot / The Moon stores light in the day / Sunlight is very, very strong  
    **Answer:** Sunlight is very, very strong. *Why:* Sunlight is so strong that even one tenth of it, bounced off the Moon, is enough to see by at night.
 3. (perspective) Two friends in Kolkata, Moushumi and Joy, do the Paper Moon test. They ask which sheet bounces light best.  
    **Answer:** Both can be right in different ways. Foil sends light in one direction, so it makes a very bright patch where it points. White paper spreads light everywhere, so it lights the whole card more evenly.. *Why:* A strong answer sees that 'best' depends on what you want: one bright spot, or light spread all round.
@@ -442,7 +517,7 @@ On the way down, Arjun stopped at a window and looked back at the Moon. "Thank y
 5. (sort) Sort these into 'makes light' and 'only sends light on'.  
    **Answer:** Lightning → Makes light; A cat's eyes shining in a torch beam → Only sends light on; A glow-worm → Makes light; A bicycle reflector → Only sends light on; A star → Makes light. *Why:* Lightning, glow-worms and stars make their own light. A cat's eyes and a bicycle reflector shine only when light falls on them.
 6. (mcq) If the Sun suddenly stopped shining, what would happen to the Moon about eight minutes later?  
-   Options: It would go dark / It would keep shining / It would shine brighter  
+   Options: It would keep shining / It would shine brighter / It would go dark  
    **Answer:** It would go dark. *Why:* Sunlight takes about eight minutes to reach the Moon. After that, no more light would arrive, so the Moon would have nothing to send on.
 7. (draw) Draw a picture that shows darkness. Darkness is no light, so how did you show it? Write one sentence.  
    **Answer:** Any honest drawing, for example a black shut cupboard, with a sentence like: I drew no light reaching inside.. *Why:* A strong answer sees that we draw darkness by leaving out light, or by showing that light is blocked.
@@ -460,34 +535,34 @@ On the way down, Arjun stopped at a window and looked back at the Moon. "Thank y
 
 ## Quiz
 1. (mcq) Which of these is a light source?  
-   Options: A tube light / The Moon / A mirror  
+   Options: The Moon / A mirror / A tube light  
    **Answer:** A tube light. *Why:* A tube light makes its own light. The Moon and a mirror only send on light from somewhere else.
 2. (mcq) Which of these only sends on light and makes none of its own?  
    Options: A white wall / A diya flame / A tube light  
    **Answer:** A white wall. *Why:* A diya and a tube light make their own light. A white wall only sends on light that falls on it.
 3. (mcq) Where does the Moon's light come from?  
-   Options: The Sun / Fire inside the Moon / The stars  
+   Options: Fire inside the Moon / The stars / The Sun  
    **Answer:** The Sun. *Why:* The Moon is a ball of rock. Sunlight bounces off it and comes to us.
 4. (mcq) What is the Moon made of?  
    Options: Grey rock and dust / Hot gas, like the Sun / Ice that glows  
    **Answer:** Grey rock and dust. *Why:* Astronauts brought back Moon rock and dust. They are dark grey and make no light.
 5. (mcq) Which side of the Moon is bright?  
-   Options: The side facing the Sun / The side facing the stars / The top side  
+   Options: The side facing the stars / The top side / The side facing the Sun  
    **Answer:** The side facing the Sun. *Why:* Sunlight falls on the side facing the Sun, so that side is bright. The other side is dark.
 6. (mcq) You shine a torch on white paper in the dark. The paper lights up your drawing. What is the paper like?  
-   Options: The Moon / The Sun / A star  
+   Options: The Sun / A star / The Moon  
    **Answer:** The Moon. *Why:* The paper sends on the torch's light, the way the Moon sends on the Sun's light.
 7. (mcq) Which sheet sends back the least torch light?  
-   Options: Black cloth / White paper / Newspaper  
+   Options: White paper / Newspaper / Black cloth  
    **Answer:** Black cloth. *Why:* Black cloth takes in most of the light that falls on it, so it sends back the least.
 8. (mcq) What is darkness?  
-   Options: Where no light is arriving / A black gas that fills rooms / A kind of shadow-light  
+   Options: A black gas that fills rooms / A kind of shadow-light / Where no light is arriving  
    **Answer:** Where no light is arriving. *Why:* Darkness is the absence of light. Where no light arrives, we see dark.
 9. (mcq) In a test of different sheets under one torch, why do we keep the torch and the card in the same places?  
    Options: So only the sheet changed, to make the test fair / Because the torch was heavy / So the pictures would not move  
    **Answer:** So only the sheet changed, to make the test fair. *Why:* In a fair test, we change only one thing. Then we know the sheet made the difference.
 10. (mcq) Why must you never look straight at the Sun?  
-   Options: It can hurt your eyes for ever / It makes the Sun go out / It makes the Moon dark  
+   Options: It makes the Sun go out / It makes the Moon dark / It can hurt your eyes for ever  
    **Answer:** It can hurt your eyes for ever. *Why:* The Sun is far brighter than any other light source we have. Looking straight at it can damage your eyes, and the damage may not heal.
 
 ## Applications
@@ -497,11 +572,11 @@ On the way down, Arjun stopped at a window and looked back at the Moon. "Thank y
 - Photographers use a white sheet called a reflector to bounce sunlight onto a person's face and fill in the shadows.
 
 ## Spotted around us
-- At Sharad Purnima in many parts of India, families leave kheer or milk out in the light of the full Moon. That moonlight is sunlight bounced off the Moon.
-- On Onam nights in Kerala, white flowers in the pookalam are easier to see in dim light than dark red ones.
-- Reflective stripes on a Mumbai bus or a Kolkata taxi flash brightly in car headlights.
-- In a power cut in Chennai, a phone torch pointed at the white ceiling lights up the whole room.
-- On a full-Moon night by the Brahmaputra in Assam, moonlight makes a silver path on the water.
+- At Sharad Purnima, families leave kheer or milk out in the light of the full Moon. That moonlight is sunlight bounced off the Moon.
+- On Onam nights, white flowers in the pookalam are easier to see in dim light than dark red ones.
+- Reflective stripes on a bus or a taxi flash brightly in car headlights.
+- In a power cut, a phone torch pointed at the white ceiling lights up the whole room.
+- On a full-Moon night by a river, moonlight makes a silver path on the water.
 
 ## Open questions
 - **How exactly did the Moon form?** Most scientists think a planet-sized body crashed into the young Earth, and the Moon formed from the pieces. But some Moon rocks are so like Earth rocks that scientists still argue about how it happened.
@@ -538,11 +613,16 @@ Borrowed Light (sci.light.L2): Topic-level song for Light, seeing and shadows L2
 ## Links
 - [NASA Science: Earth's Moon](https://science.nasa.gov/moon/) · interactive: For the parent: photos and plain facts about the Moon, its rock and its light.
 - [StoryWeaver, free picture books from Pratham Books](https://storyweaver.org.in/) · interactive: Free picture books in many Indian languages. Search for books about the Moon and the night.
-- [Jawaharlal Nehru Planetarium]() · place · Bengaluru: Sky shows about the Sun, the Moon and the stars.
-- [Priyadarsini Planetarium]() · place · Thiruvananthapuram: Sky shows about the Moon and the planets, for families.
-- [M.P. Birla Planetarium]() · place · Kolkata: One of the oldest planetariums in India, with shows about the night sky.
+- Jawaharlal Nehru Planetarium · place · Bengaluru: Sky shows about the Sun, the Moon and the stars.
+- Priyadarsini Planetarium · place · Thiruvananthapuram: Sky shows about the Moon and the planets, for families.
+- M.P. Birla Planetarium · place · Kolkata: One of the oldest planetariums in India, with shows about the night sky.
 
 ## Things to buy
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Paper Moon Test: can bounced light help you see?. About ₹10 to ₹30. Any school ruler is fine. Used in e1. Get it before The Paper Moon Test: can bounced light help you see?.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in Light the Hidden Picture. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in c1. Get it before Light the Hidden Picture.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Blackest Black: a hole in a box, The Paper Moon Night-Light. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e2, p1. Get it before The Blackest Black: a hole in a box.
+- [A small toy car with free-rolling wheels](https://www.amazon.in/s?k=toy+car+pull+back+small) (material): Used in The Blackest Black: a hole in a box. About ₹100 to ₹200. A marble or a round torch cell works. Used in e2. Get it before The Blackest Black: a hole in a box.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Is the Moon a light source? → No. It shines with sunlight that bounces off it.
@@ -554,12 +634,12 @@ Borrowed Light (sci.light.L2): Topic-level song for Light, seeing and shadows L2
 
 ## Plan
 - Start options: intro, a1, e1, story, g1, cards
-- Default order: intro → a1 → e1 → summary → terms → explanations → roots → quiz → story → g1 → ws-core → e2 → how_we_found_out → a2 → a3 → g2 → p1 → ws-stretch → c1 → agreed → challenging → ws-challenge → videos → big_questions → open_questions
+- Default order: intro → a1 → e1 → summary → terms → explanations → roots → quiz → story → g1 → ws-core → e2 → how_we_found_out → a2 → a3 → g2 → p1 → ws-stretch → c1 → agreed → challenging → ws-challenge → videos → big_questions → open_questions → old1
 - Core: a1, e1, g1, ws-core
 
 ## Sources
-- ideas/by_topic/light-seeing-and-shadows.md: the founder's ideas of using mirrors to bounce light into dark corners and moonlight reflected off water grew into the Paper Moon test, the Hidden Picture challenge and the Brahmaputra spotted card. Her trataka idea was used at Level 1, so this unit's practice is tracing the light instead. Her deeper ideas (photons, the speed of light, the dark box) belong to the Level 3 light units.
-- Curriculum entry sci.light.light-sources.L2, with Cambridge Primary Science Stage 2, 5.1 Light sources and 5.2 Darkness. This unit leads on from Level 1, where the child found which things make their own light, to the Moon as a reflector and darkness as the absence of light.
+- ideas/by_topic/light-seeing-and-shadows.md: the founder's ideas of using mirrors to bounce light into dark corners and moonlight reflected off water grew into the Paper Moon test, the Hidden Picture challenge and the Brahmaputra spotted card. Her trataka idea was used at Level 1, so this lesson's practice is tracing the light instead. Her deeper ideas (photons, the speed of light, the dark box) belong to the Level 3 light units.
+- Curriculum entry sci.light.light-sources.L2, with Cambridge Primary Science Stage 2, 5.1 Light sources and 5.2 Darkness. This lesson leads on from Level 1, where the child found which things make their own light, to the Moon as a reflector and darkness as the absence of light.
 - The Moon's albedo is about 0.11 to 0.12: it reflects roughly a tenth of the sunlight falling on it, similar to worn asphalt. Full moonlight is roughly 400,000 times fainter than sunlight (apparent magnitude about -12.7 against -26.7).
 - Light takes about 8 minutes 20 seconds from the Sun to the Earth or Moon, and about 1.3 seconds from the Moon to the Earth.
 - Ibn al-Haytham, Maqala fi daw' al-qamar (On the Light of the Moon), about 1020 to 1030: argued that the Moon does not reflect like a mirror, since a mirror would show only an image of the Sun. Later readers describe his account as diffuse reflection (H. Salih, UNESCO). The exact wording and date should be checked against a scholarly edition.

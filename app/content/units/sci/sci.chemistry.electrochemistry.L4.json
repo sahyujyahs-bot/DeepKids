@@ -719,11 +719,11 @@
       "t": "mcq",
       "q": "In a cell made of iron and silver, which metal gives away electrons and is used up?",
       "options": [
-       "The iron, which is higher on the ladder",
        "The silver, which is shinier",
+       "The iron, which is higher on the ladder",
        "Both, at the same speed"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The metal higher on the ladder gives away electrons more easily. Iron is on rung 4 and silver is on rung 7. So the iron gives the electrons and is slowly used up, and the silver is unchanged."
      },
      "context": "This is the last step of Volt Makers. You add up the scores and say which metal in a pair is used up."
@@ -896,11 +896,11 @@
       "t": "mcq",
       "q": "Two copper wires gave no crackle. One copper wire and one zinc nail gave a crackle. What does that show?",
       "options": [
-       "The two metals must be different",
        "Copper is a poor metal for wires",
-       "The lemon had run out of juice"
+       "The lemon had run out of juice",
+       "The two metals must be different"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The lemon and the earphones were the same each time. Only the pair of metals changed, so the difference between the metals makes the electrons flow. If you chose 'the lemon ran out of juice', remember that the same lemon crackled a minute later."
      },
      "parent": "The crackle comes each time the tip touches the nail or leaves it. This is one lemon cell. If you hear nothing, push both pieces deeper into juicy flesh and check that they do not touch each other.",
@@ -963,11 +963,11 @@
       "t": "mcq",
       "q": "After a night in a joined lemon cell, the zinc nail is dull and rough and the copper is unchanged. Why?",
       "options": [
-       "Zinc atoms gave away electrons and left the nail",
        "The copper sucked the colour out of the zinc",
+       "Zinc atoms gave away electrons and left the nail",
        "Lemon juice makes all metals dull"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Each zinc atom that gives away electrons becomes an ion and floats off into the juice. So the zinc is slowly used up. The copper only passes electrons on, so it stays as it was. If you chose 'all metals', look again at the copper."
      },
      "parent": "The part of the nail that sat in the juice is dull, dark and rough, and the copper is bright. A foil strip is thin and pitted, and may have holes. Some zinc also dissolves straight into the acid without sending electrons round the wire.",
@@ -1535,11 +1535,11 @@
       "t": "mcq",
       "q": "A zinc nail and a copper wire crackle in salt water but not in cooking oil. Why?",
       "options": [
-       "Salt water has ions and oil has none",
        "Oil is too thick to hear through",
+       "Salt water has ions and oil has none",
        "Salt water is colder than oil"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A cell needs a liquid with ions in it, called an electrolyte. The ions carry charge between the two metals inside the liquid. Salt, acids and the juices of plants all give ions. Oil has none, so the loop is never complete."
      },
      "parent": "The lemon is not special. Any liquid with ions in it works. Tap water has a few ions from dissolved minerals, so it works a little.",
@@ -1883,11 +1883,11 @@
       "t": "mcq",
       "q": "A steel nail touching zinc in salt water stays grey, while a nail alone rusts. Why?",
       "options": [
-       "The zinc gives the electrons, so the iron keeps its own",
        "The zinc soaks up all the salt",
+       "The zinc gives the electrons, so the iron keeps its own",
        "The rubber band keeps the water out"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Zinc is above iron on the metal ladder, so zinc gives away electrons more easily. While zinc touches the nail, the zinc corrodes and the iron is spared. The white fluff is corroded zinc. Copper is below iron, so next to copper the iron is the one that gives electrons."
      },
      "parent": "The zinc nail is dull and may be patchy, because its coat was eaten in place of the steel. With foil in place of zinc, the protection is weaker and the foil turns pitted. If nail A and nail C look the same, write that down. It is a real result.",
@@ -2011,12 +2011,12 @@
      "t": "mcq",
      "p": "What does a lemon cell need so that electrons flow through a wire?",
      "opts": [
-      "Two different metals in the juice",
       "Two pieces of the same metal",
       "A very sour lemon and nothing else",
+      "Two different metals in the juice",
       "A lemon that has been warmed"
      ],
-     "a": 0,
+     "a": 2,
      "why": "One metal must give away electrons more easily than the other. Two pieces of the same metal push equally, so nothing flows.",
      "outcome": 0
     },
@@ -2114,12 +2114,12 @@
      "t": "mcq",
      "p": "Which two gases does an electric current split water into?",
      "opts": [
-      "Hydrogen and oxygen",
       "Steam and air",
+      "Hydrogen and oxygen",
       "Carbon dioxide and oxygen",
       "Hydrogen and nitrogen"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A water molecule is two hydrogen atoms and one oxygen atom. A current separates them. Steam is still water.",
      "outcome": 4
     },
@@ -2164,12 +2164,12 @@
      "t": "mcq",
      "p": "Why does a cycle rust faster near the sea than far inland?",
      "opts": [
-      "Salty, damp air carries ions well",
       "Sea air is much colder",
+      "Salty, damp air carries ions well",
       "Sea air has no oxygen",
       "Sand polishes the paint"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Salt water is a good electrolyte. It lets the tiny cells on the iron's surface work faster.",
      "outcome": 5
     },
@@ -2201,12 +2201,12 @@
      "t": "mcq",
      "p": "What is a galvanised bucket coated with?",
      "opts": [
-      "Zinc",
       "Paint",
+      "Zinc",
       "Copper",
       "Rust"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Galvanised means coated with zinc. The zinc corrodes in place of the steel under it.",
      "outcome": 6
     }
@@ -2222,12 +2222,12 @@
      "t": "mcq",
      "p": "Which pair is furthest apart on the metal ladder, and so pushes hardest in a cell?",
      "opts": [
-      "Magnesium and gold",
       "Zinc and iron",
+      "Magnesium and gold",
       "Copper and copper",
       "Tin and copper"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Magnesium is at the top of the ladder and gold is at the bottom. Copper and copper are on the same rung and give no push.",
      "outcome": 1
     },
@@ -2235,12 +2235,12 @@
      "t": "mcq",
      "p": "Four lemon cells give 3.6 volts, yet they cannot light a torch bulb. Why?",
      "opts": [
-      "Too few electrons pass each second",
       "The volts are too high",
       "Lemons contain no acid",
-      "The bulb is the wrong colour"
+      "The bulb is the wrong colour",
+      "Too few electrons pass each second"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Volts say how hard the cells push. A torch bulb also needs many electrons each second, and a lemon passes very few.",
      "outcome": 3
     },
@@ -2248,12 +2248,12 @@
      "t": "mcq",
      "p": "When a current splits water, which gas comes off at the minus electrode?",
      "opts": [
-      "Hydrogen",
       "Oxygen",
       "Steam",
+      "Hydrogen",
       "Carbon dioxide"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The cells push electrons into the minus electrode. Water molecules take them and split, and hydrogen bubbles off.",
      "outcome": 4
     },
@@ -2413,12 +2413,12 @@
      "t": "mcq",
      "p": "A steel bolt sits in an aluminium window frame near the sea. Which metal corrodes first?",
      "opts": [
-      "The aluminium around the bolt",
       "The steel bolt",
+      "The aluminium around the bolt",
       "Both at the same speed",
       "Neither of them"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Aluminium is above iron on the metal ladder. Where the two touch in salty damp air, the aluminium gives the electrons.",
      "outcome": 1
     }
@@ -2434,12 +2434,12 @@
      "t": "mcq",
      "p": "Someone says the lemon is the source of a lemon battery's electricity. Which test checks this best?",
      "opts": [
-      "Try the same metals in salt water",
       "Use a bigger lemon",
       "Use a greener lemon",
+      "Try the same metals in salt water",
       "Squeeze the lemon harder"
      ],
-     "a": 0,
+     "a": 2,
      "why": "If the metals still give a current with no lemon at all, the lemon cannot be the source. The other tests all keep the lemon.",
      "outcome": 7
     },
@@ -2447,12 +2447,12 @@
      "t": "mcq",
      "p": "A pile of six foil and copper cells crackles less than a pile of three. What is the likeliest fault?",
      "opts": [
-      "Wet paper is joining two cells together",
       "Six cells always cancel out",
+      "Wet paper is joining two cells together",
       "The foil is too shiny",
       "The earphones are worn out"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Each cell must be separate. If liquid runs down the side and joins two cells, those cells stop adding their pushes.",
      "outcome": 7
     },
@@ -2460,12 +2460,12 @@
      "t": "mcq",
      "p": "Engineers join a buried steel pipeline to one end of a power supply to stop rust. Which end?",
      "opts": [
-      "The minus end, which pushes electrons in",
       "The plus end, which pulls electrons out",
       "Either end works equally",
-      "Both ends at once"
+      "Both ends at once",
+      "The minus end, which pushes electrons in"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Iron rusts by losing electrons. A pipe joined to the minus end is given electrons, so it loses none. A nail on the plus wire rusts in minutes.",
      "outcome": 6
     },
@@ -2473,12 +2473,12 @@
      "t": "mcq",
      "p": "Iron is found in the ground only as ore, but gold is found as metal. Why?",
      "opts": [
-      "Gold holds its electrons far more strongly",
       "Gold is heavier than iron",
       "Iron formed more recently",
-      "Gold lies deeper down"
+      "Gold lies deeper down",
+      "Gold holds its electrons far more strongly"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Iron gives electrons to oxygen easily, so over time it all joins with oxygen. Gold is at the bottom of the metal ladder and stays as metal.",
      "outcome": 1
     },
@@ -2607,12 +2607,12 @@
    "t": "mcq",
    "p": "Which pair, pushed into a lemon, makes electrons flow through a wire?",
    "opts": [
-    "A zinc nail and a copper wire",
     "Two copper wires",
+    "A zinc nail and a copper wire",
     "Two zinc nails",
     "Two plastic straws"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The two metals must be different. Zinc gives away electrons more easily than copper, so electrons flow from zinc to copper.",
    "outcome": 0
   },
@@ -2620,12 +2620,12 @@
    "t": "mcq",
    "p": "Why do two pieces of the same metal in a lemon give no current?",
    "opts": [
-    "Neither gives electrons more easily than the other",
     "The same metal is too clean",
     "The lemon only works with copper",
-    "Their electrons are too heavy"
+    "Their electrons are too heavy",
+    "Neither gives electrons more easily than the other"
    ],
-   "a": 0,
+   "a": 3,
    "why": "A current needs a difference. Two pieces of one metal sit on the same rung of the metal ladder, so there is no push.",
    "outcome": 1
   },
@@ -2633,12 +2633,12 @@
    "t": "mcq",
    "p": "Where does the energy of a lemon battery come from?",
    "opts": [
-    "The zinc, as it is used up",
     "The sourness of the lemon",
+    "The zinc, as it is used up",
     "The earphones",
     "The air around the lemon"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The zinc changes as it gives away electrons, and that change gives the energy. The lemon is the path, and salt water can replace it.",
    "outcome": 2
   },
@@ -2672,12 +2672,12 @@
    "t": "mcq",
    "p": "What is electrolysis?",
    "opts": [
-    "Using a current to force a chemical change",
     "Rubbing two things to make charge",
+    "Using a current to force a chemical change",
     "Melting a metal with heat",
     "Mixing an acid with a base"
    ],
-   "a": 0,
+   "a": 1,
    "why": "In electrolysis the current comes from outside and forces a change, such as splitting water. It is a battery's change run backwards.",
    "outcome": 4
   },
@@ -2685,12 +2685,12 @@
    "t": "mcq",
    "p": "A current splits water. How do the amounts of the two gases compare?",
    "opts": [
-    "Twice as much hydrogen as oxygen",
     "The same amount of each",
     "Twice as much oxygen as hydrogen",
-    "Only hydrogen comes off"
+    "Only hydrogen comes off",
+    "Twice as much hydrogen as oxygen"
    ],
-   "a": 0,
+   "a": 3,
    "why": "A water molecule has two hydrogen atoms and one oxygen atom, so twice as much hydrogen is set free.",
    "outcome": 4
   },
@@ -2711,12 +2711,12 @@
    "t": "mcq",
    "p": "Why does salt water rust iron faster than plain water?",
    "opts": [
-    "It carries ions well",
     "It is heavier",
+    "It carries ions well",
     "It holds no oxygen",
     "It scratches the iron"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Rusting works like a tiny cell on the iron's surface. Salt water is a good electrolyte, so the cell works faster.",
    "outcome": 5
   },
@@ -2724,12 +2724,12 @@
    "t": "mcq",
    "p": "How does a coat of zinc protect steel?",
    "opts": [
-    "Zinc gives electrons in place of the iron",
     "Zinc is harder than steel",
+    "Zinc gives electrons in place of the iron",
     "Zinc keeps the steel warm",
     "Zinc soaks up the water"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Zinc is above iron on the metal ladder. While the two touch, the zinc corrodes and the iron is spared, even at a scratch.",
    "outcome": 6
   },
@@ -2737,12 +2737,12 @@
    "t": "mcq",
    "p": "A test changes the metals, the liquid and the earphones all at once. What is wrong with it?",
    "opts": [
-    "You cannot tell which change mattered",
     "It uses too many things",
+    "You cannot tell which change mattered",
     "It is over too quickly",
     "Nothing is wrong with it"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A fair test changes one thing and keeps the rest the same. Then any difference in the result comes from that one thing.",
    "outcome": 7
   },
@@ -3107,6 +3107,103 @@
     "e1",
     "c1"
    ]
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Rust in Ten Minutes: which nail do the cells rust?, Give It Back: can split water make earphones crackle?, Electric Writing: which wire writes red on turmeric paper?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e2",
+    "e3",
+    "a3"
+   ],
+   "plan": "Get it before Rust in Ten Minutes: which nail do the cells rust?."
+  },
+  {
+   "id": "b-small-torch-bulbs-or-leds-wi",
+   "item": "Small torch bulbs or LEDs with a holder",
+   "kind": "tool",
+   "why": "Used in The Lemon Battery: which pairs of metals make a lemon crackle?, The Kitchen Pile: build a battery with no lemon. About ₹10 to ₹50. A small torch can be taken apart for its bulb.",
+   "url": "https://www.amazon.in/s?k=torch+bulb+holder+set",
+   "used_in": [
+    "e1",
+    "c1"
+   ],
+   "plan": "Get it before The Lemon Battery: which pairs of metals make a lemon crackle?."
+  },
+  {
+   "id": "b-baking-soda",
+   "item": "Baking soda",
+   "kind": "material",
+   "why": "Used in Give It Back: can split water make earphones crackle?. About ₹20 to ₹40. Check the kitchen first.",
+   "url": "https://www.amazon.in/s?k=baking+soda",
+   "used_in": [
+    "e3"
+   ],
+   "plan": "Get it before Give It Back: can split water make earphones crackle?."
+  },
+  {
+   "id": "b-vinegar",
+   "item": "Vinegar",
+   "kind": "material",
+   "why": "Used in Not Only Lemons: what can sit between the two metals?, The Kitchen Pile: build a battery with no lemon. About ₹40 to ₹80. Lemon juice works for many tests.",
+   "url": "https://www.amazon.in/s?k=white+vinegar",
+   "used_in": [
+    "a2",
+    "c1"
+   ],
+   "plan": "Get it before Not Only Lemons: what can sit between the two metals?."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in Electron Path: move the coins round a lemon cell. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "a4"
+   ],
+   "plan": "Get it before Electron Path: move the coins round a lemon cell."
+  },
+  {
+   "id": "b-a-kitchen-or-weighing-scale",
+   "item": "A kitchen or weighing scale",
+   "kind": "tool",
+   "why": "Used in Battery Hunt: read the volts. About ₹300 to ₹700. A home-made balance from a ruler and two cups can compare weights.",
+   "url": "https://www.amazon.in/s?k=digital+kitchen+weighing+scale",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Get it before Battery Hunt: read the volts."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in Rust in Ten Minutes: which nail do the cells rust?, The Kitchen Pile: build a battery with no lemon. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "e2",
+    "c1"
+   ],
+   "plan": "Get it before Rust in Ten Minutes: which nail do the cells rust?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

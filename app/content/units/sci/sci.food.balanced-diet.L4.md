@@ -1,9 +1,9 @@
 # One bowl, six tastes: how traditional and festival meals balance a diet
 `sci.food.balanced-diet.L4`
 
-**Summary.** Is there one perfect plate, or one magic food? In this unit you will sort the dishes of a traditional meal into energy-giving, body-building and protective foods, taste-test whether each taste has its own place on the tongue, make a mini pachadi, and sprout moong to see what soaking changes.
+**Summary.** Is there one perfect plate, or one magic food? In this lesson you will sort the dishes of a traditional meal into energy-giving, body-building and protective foods, taste-test whether each taste has its own place on the tongue, make a mini pachadi, and sprout moong to see what soaking changes.
 
-**Intro.** *Look at a spoon of Ugadi pachadi. It holds sweet jaggery, sour tamarind, salt, bitter neem flowers, hot pepper and raw mango. All six are in one spoon. Why would anyone put a bitter flower in a festival dish?* Many traditional meals look as if someone planned them. A Kerala sadya on a banana leaf can have twenty dishes, and each dish has its own place on the leaf. A Gujarati thali has roti, dal, rice, a vegetable, buttermilk and something sweet. Nobody wrote these meals from a nutrition book. Yet they hold grains, pulses, vegetables and milk, and a mix of tastes. So how does a meal become balanced? And is a tasty meal always a balanced one? In this unit you test your own tongue, soak and sprout some moong seeds, and plan a festival feast.
+**Intro.** *Look at a spoon of Ugadi pachadi. It holds sweet jaggery, sour tamarind, salt, bitter neem flowers, hot pepper and raw mango. All six are in one spoon. Why would anyone put a bitter flower in a festival dish?* Many traditional meals look as if someone planned them. A Kerala sadya on a banana leaf can have twenty dishes, and each dish has its own place on the leaf. A Gujarati thali has roti, dal, rice, a vegetable, buttermilk and something sweet. Nobody wrote these meals from a nutrition book. Yet they hold grains, pulses, vegetables and milk, and a mix of tastes. So how does a meal become balanced? And is a tasty meal always a balanced one? In this lesson you test your own tongue, soak and sprout some moong seeds, and plan a festival feast.
 
 ## Learning outcomes
 0. I can explain that a balanced diet is a pattern of many kinds of food over days, not one perfect plate and not one magic food.
@@ -41,7 +41,7 @@ You may have learned that a balanced plate holds foods from every group. A plate
 ### Traditional meals are balanced in their own way · *defined*
 **Definition:** A traditional meal is a set of dishes that people in a region have long eaten together. Many of them join a staple food, a pulse, a vegetable and a milk food.
 
-Meals in different parts of India look different, but they do the same job. In Tamil Nadu a meal is rice, sambar or rasam, a vegetable, curd and a pickle. In Gujarat it is roti, dal, rice, a vegetable, buttermilk and a sweet. In Bengal it is rice, dal, fish or vegetables, and a bitter dish like shukto at the start. In Nagaland and Manipur it is rice, boiled leafy vegetables, and a chutney of chilli and fermented fish or bamboo shoot. In Punjab it is makki roti with sarson saag, butter and lassi. The dishes are different, but each plate has a staple for energy, a pulse or fish or milk for building, and vegetables for protection. These meals grew over many generations from what the land grew, and from families noticing which foods kept them strong. They were not planned from a table of nutrients, and they are not perfect. But they often work.
+Meals in different parts of India look different, but they do the same job. In Tamil Nadu a meal is rice, sambar or rasam, a vegetable, curd and a pickle. In Gujarat it is roti, dal, rice, a vegetable, buttermilk and a sweet. In Bengal it is rice, dal, fish or vegetables, and a bitter dish like shukto at the start. In Nagaland and Manipur it is rice, boiled leafy vegetables, and a chutney of chilli and fermented fish or bamboo shoot. In Punjab it is makki roti with sarson saag, butter and lassi. The dishes are different, but each plate has a staple for energy, a pulse or fish or milk for building, and vegetables for protection. These meals grew over many generations from what the land grew, and from families noticing which foods kept them strong. They were not planned from a table of nutrients, and they are not perfect. But they often work. Your own family has a regional thali too. List its items on a sheet, and mark each one with its food job: energy, building or protecting.
 - e.g. A Kerala sadya joins rice, parippu, sambar, avial, thoran, pulissery, pickles and payasam on one banana leaf.
 - e.g. A Gujarati thali has bajra or wheat roti, dal, kadhi, a vegetable, rice and chaas.
 - e.g. A Hyderabadi biryani with raita joins rice, meat or vegetables, and curd.
@@ -135,7 +135,7 @@ Ask a class to taste a piece of raw karela. Some will say it is very bitter and 
   Against: A balanced diet is about the pattern over weeks. A laddu on Diwali or a payasam on Onam fits into a pattern that is mostly varied whole food. Sharing festival food also has value for a family.
 
 ## Roots
-In this unit we tested the tongue, sprouted moong seeds and planned festival meals. Now we ask what these tell us about taste, about food, and about where a meal ends and we begin.
+In this lesson we tested the tongue, sprouted moong seeds and planned festival meals. Now we ask what these tell us about taste, about food, and about where a meal ends and we begin.
 
 **Deep truth.** Your tongue does not measure goodness. It only reports a taste. Sweet once pointed to energy, salty to minerals, sour to ripe fruit, bitter to danger and umami to protein. A sweet drink can give the sweet report with none of the fruit. So wanting a taste is not the same as needing the food.  
 *Habit it breaks:* We say 'it tastes good, so it is good for me', and we say 'I crave it, so my body needs it'. But taste is only a signal made by the food's chemicals. It was a good guide for whole foods, and a food made in a factory can copy the signal without the goodness.  
@@ -404,6 +404,11 @@ In June, Ajji was drinking her morning coffee when she stopped, with the steel t
   *Child mode:* Ask a grown-up what they cook for a festival, and why. Write it down, or say it back to them.
   - Note: With 2 to 4 children, each child asks a different person and adds their dish to the one shared wheel. Listen to the answer without correcting it. Families often have a reason that goes beyond nutrition: it is what a mother made, it keeps well, or it is shared with neighbours. These reasons are part of the answer. Add a dish from your own family's tradition to the wheel.
   - Think: Why do people cook special food on special days, and not the same food every day?
+- **s4 (5 min)**  
+  *Parent does:* 1. Write down the meal your family eats on an ordinary day, item by item. 2. Beside each item, write who cooks it at home and who helps. 3. Mark each item with its food job: energy, building or protecting.  
+  *Parent says:* Who cooks the dal in our home? Who helps with the vegetable? Which food gives us energy, and which keeps us protected?  
+  *Child mode:* Write our everyday meal, item by item. Who cooks each one?
+  - Note: Keep it to what your family really eats on an ordinary day, not the festival plate. Every answer about who cooks is a fact about your home, so write it as it is.
 ### a4 · Millet Hunt: find, cook and compare (25 min)
 - **safety:** A grown-up works the stove. The porridge is hot and can spit when it bubbles, so stand back and use a long spoon. Let it cool for a few minutes before tasting.
 - **record:** Write the colour, smell, thickness and taste of each porridge. Write one way the millet and rice are different.
@@ -490,7 +495,7 @@ In June, Ajji was drinking her morning coffee when she stopped, with the steel t
 ## Worksheets
 ### Tastes and a Balanced Plate (core) (core, 16 questions)
 1. (mcq) Which sentence best describes a balanced diet?  
-   Options: Many different foods eaten over days, so the body gets all the nutrients it needs / One perfect plate at every single meal / Only the foods that people call healthy  
+   Options: One perfect plate at every single meal / Only the foods that people call healthy / Many different foods eaten over days, so the body gets all the nutrients it needs  
    **Answer:** Many different foods eaten over days, so the body gets all the nutrients it needs. *Why:* What matters is what you eat over days and weeks, not at a single meal. Many kinds of food together give all the nutrients. Choosing only 'healthy' foods can still leave out some groups.
 2. (truefalse) Each taste is sensed only in its own zone of the tongue.  
    **Answer:** False. *Why:* False. Taste buds for every taste are spread over the tongue. The zones differ only a little in how strongly they sense each taste. The old tongue map was a mistake.
@@ -501,7 +506,7 @@ In June, Ajji was drinking her morning coffee when she stopped, with the steel t
 5. (sort) Sort each food by the taste it mainly gives.  
    **Answer:** jaggery → Sweet; tamarind → Sour; karela → Bitter; lemon → Sour; neem flowers → Bitter; honey → Sweet. *Why:* Jaggery and honey have sugar, which tastes sweet. Tamarind and lemon have acids, which taste sour. Karela and neem have bitter chemicals.
 6. (mcq) A green chilli makes your mouth feel hot. What does science say this heat is?  
-   Options: A signal of heat and pain from nerves, not one of the five tastes / The sixth basic taste / A sweet taste in disguise  
+   Options: The sixth basic taste / A signal of heat and pain from nerves, not one of the five tastes / A sweet taste in disguise  
    **Answer:** A signal of heat and pain from nerves, not one of the five tastes. *Why:* Chilli heat is felt by nerves that sense heat and pain. Science lists five tastes: sweet, sour, salty, bitter and umami. Ayurveda counts pungent as one of its six rasas.
 7. (truefalse) A glass of sweet fizzy drink and a ripe mango send the same sweet signal to the tongue.  
    **Answer:** True. *Why:* True. The tongue senses sugar and reports sweet. It cannot tell whether fibre, vitamins and water come with the sugar. The mango gives them, and the fizzy drink gives almost none.
@@ -510,7 +515,7 @@ In June, Ajji was drinking her morning coffee when she stopped, with the steel t
 9. (write) True or false: sweet is tasted only at the tip of the tongue. Explain your answer, using what you found in the blind taste test.  
    **Answer:** I would say that is the old tongue map, and it is wrong. In our test, sweet was named correctly on the tip, the edges and the back. Taste buds for every taste are spread across the tongue. Some zones are a little more sensitive, but none are blind to a taste.. *Why:* A strong answer names the evidence from the test, that every taste was sensed in every zone. It may also say that small differences in strength are not the same as separate zones.
 10. (mcq) A thali has rice, roti, puri and halwa. Which food jobs are missing?  
-   Options: Body-building foods and protective foods / Energy foods / None, because the thali is full  
+   Options: Energy foods / None, because the thali is full / Body-building foods and protective foods  
    **Answer:** Body-building foods and protective foods. *Why:* Rice, roti, puri and halwa are all mostly energy foods. The thali also needs dal, curd or another pulse or milk food for building, and vegetables or fruit for protection.
 11. (odd) Which one is the odd one out, and why? Ragi, jowar, bajra, rice.  
    **Answer:** Rice, because the other three are millets.. *Why:* Ragi, jowar and bajra are millets, small-seeded grains that grow well in dry land. Rice is a different grain that needs much more water.
@@ -519,18 +524,18 @@ In June, Ajji was drinking her morning coffee when she stopped, with the steel t
 13. (draw) Draw a plate for a festival meal that has all three food jobs. Label each food with its job.  
    **Answer:** A plate with at least one energy food such as rice or roti, one body-building food such as dal or curd, and one protective food such as a vegetable or fruit, each labelled.. *Why:* A strong drawing shows all three jobs on the one plate and labels them correctly. Two dishes may share a job, and one dish may do more than one job.
 14. (mcq) Why can many festival sweets, like laddu, be kept for weeks?  
-   Options: They have very little water, so microbes cannot grow in them / They are always kept in a fridge / They are cooked with a lot of water  
+   Options: They are always kept in a fridge / They have very little water, so microbes cannot grow in them / They are cooked with a lot of water  
    **Answer:** They have very little water, so microbes cannot grow in them. *Why:* Microbes need water to grow. A laddu is made of sugar, flour, ghee and nuts, with very little water in it, so spoilage microbes grow very slowly.
 15. (write) A laddu at Diwali fits in a balanced diet, but a laddu at every meal would not. Why not?  
    **Answer:** A laddu is rich in sugar and ghee, so it gives a lot of energy and few other nutrients. A balanced diet is a pattern over many days. One laddu on a special day is a small part of the pattern. Laddus at every meal would crowd out dal, vegetables and fruit.. *Why:* A strong answer says that a balanced diet is a pattern, and that one festival sweet is a small part of it. It may also say that eating it every day would leave less room for other foods.
 16. (truefalse) A balanced meal must look the same in every part of India.  
    **Answer:** False. *Why:* False. A Kerala sadya, a Gujarati thali and a Naga meal are all different. Each joins a staple, a pulse or fish or milk food, and vegetables, using what grows nearby.
-### How Taste and Food Work (stretch) (stretch, 16 questions)
+### How Taste and Food Work (stretch) (stretch, 17 questions)
 1. (mcq) Which taste is on the science list of five basic tastes, but is not one of the six rasas?  
    Options: Umami / Pungent / Astringent  
    **Answer:** Umami. *Why:* Umami is the savoury taste of foods like ripe tomato and mushroom. Ayurveda's six rasas are sweet, sour, salty, pungent, bitter and astringent. Pungent and astringent are feelings, not tastes.
 2. (mcq) In 1942, a chart showed small differences in how strongly each part of the tongue senses a taste. The chart was then turned into a map of separate zones. What was the mistake?  
-   Options: Small differences in strength were read as separate zones / Taste buds were found only on the tip / People could not taste at all  
+   Options: Taste buds were found only on the tip / People could not taste at all / Small differences in strength were read as separate zones  
    **Answer:** Small differences in strength were read as separate zones. *Why:* Hänig's numbers in 1901 showed only small differences. When they were drawn as a map, each taste seemed to have its own zone. Careful tests in 1974 showed every zone senses every taste.
 3. (truefalse) A taste cell lives as long as the person who owns it.  
    **Answer:** False. *Why:* False. A taste cell lives only about ten days to two weeks, and then a new one grows. Your sense of taste is being rebuilt all the time.
@@ -549,12 +554,12 @@ In June, Ajji was drinking her morning coffee when she stopped, with the steel t
 10. (write) Why does a sweet fizzy drink give a sweet taste without the goodness of a mango?  
    **Answer:** The tongue senses sugar and reports sweet. It cannot tell what else is in the food. A mango has sugar together with fibre, vitamins and water. A fizzy drink has sugar and almost nothing else. So both taste sweet, but only the mango gives the goodness.. *Why:* A strong answer says that taste is a signal from a chemical, and that the same signal can come with or without the other nutrients.
 11. (mcq) Two cousins taste the same piece of karela. One says it is very bitter and the other says it is a little bitter. What is the best explanation?  
-   Options: Their taste sensors differ a little because of genes and past experience / One of them must be telling a lie / The karela changed between the two bites  
+   Options: One of them must be telling a lie / Their taste sensors differ a little because of genes and past experience / The karela changed between the two bites  
    **Answer:** Their taste sensors differ a little because of genes and past experience. *Why:* People have slightly different genes for bitter sensors, and the foods they grew up on also change how strong a taste feels. So the same food can taste different to two people.
 12. (truefalse) Free school meals can bring more children to school as well as feeding them.  
    **Answer:** True. *Why:* True. Studies of school meals in India have found that more children come to school when a meal is served. Tamil Nadu began giving school meals in the 1950s, and a national scheme now reaches children across India.
 13. (mcq) A family eats rice, rice flakes and potato at most meals. Which change would improve their balance most?  
-   Options: Add dal or other pulses, vegetables, curd or milk, and fruit / Eat more rice so nobody is hungry / Stop eating rice completely  
+   Options: Eat more rice so nobody is hungry / Add dal or other pulses, vegetables, curd or milk, and fruit / Stop eating rice completely  
    **Answer:** Add dal or other pulses, vegetables, curd or milk, and fruit. *Why:* Rice, rice flakes and potato are all energy foods. The family's diet lacks building foods and protective foods. Adding them is better than removing the rice, which is still a useful staple.
 14. (draw) Draw a bowl of Ugadi pachadi with its six ingredients. Label the taste of each one.  
    **Answer:** A bowl with six labelled ingredients: jaggery (sweet), tamarind (sour), salt (salty), neem flowers (bitter), pepper (pungent) and raw mango (astringent).. *Why:* The pachadi holds all six rasas. A strong drawing labels each ingredient with its taste, and may note that pungent and astringent are feelings and not tastes.
@@ -562,18 +567,20 @@ In June, Ajji was drinking her morning coffee when she stopped, with the steel t
    **Answer:** People can try a thing many times and notice what happens. If a family soaks dal and everyone does better, they keep doing it. Later, scientists can test it and find the reason. Knowing that it works and knowing why are two different steps.. *Why:* A strong answer says that noticing a pattern comes before explaining it. It may also say that a test can show whether the old way really works, or whether it only seems to.
 16. (odd) Which is the odd one out, and why? Ugadi pachadi, shukto, pavakka thoran, payasam.  
    **Answer:** Payasam, because it is sweet, and the other three each have a bitter taste.. *Why:* Ugadi pachadi has neem flowers, shukto has a little karela, and pavakka thoran is made of karela. Payasam is a sweet milk dish.
+17. (write) Pick one ordinary day of your family's meals. Name two items from it, say who cooks each one, and give each item its food job.  
+   **Answer:** For example: dal, cooked by Amma, for building; and rice, cooked by Paati, for energy. A strong answer names two real items, a cook, and a job for each.. *Why:* Every thali has items that do different jobs. Knowing who cooks each one shows how the family's food is made.
 ### Thinking Like a Food Scientist (challenge) (challenge, 15 questions)
 1. (write) Design a fair blind test to find out whether people can tell a spoon of sugar water from a spoon of apple juice with the same sweetness. Say what you keep the same and what you change.  
    **Answer:** I would put the sugar water and the apple juice in two cups the same size, with the same amount in each, and let the tester shut their eyes. A helper would shuffle the cups so the tester does not know which is which. The only thing I change is which liquid it is. I keep the temperature, the amount and the spoon the same. I would test many people and write down how often they are right.. *Why:* A strong answer keeps everything the same except the one thing being tested, hides which cup is which from the tester, and tests more than once. A control of two identical cups would also be a good idea.
 2. (mcq) A friend tests her own tongue with her eyes open and with no plain water cup. Which problem matters most?  
-   Options: She can see which cup is which, so her answers are not blind / She used cups instead of bowls / She rinsed her mouth between tests  
+   Options: She used cups instead of bowls / She rinsed her mouth between tests / She can see which cup is which, so her answers are not blind  
    **Answer:** She can see which cup is which, so her answers are not blind. *Why:* If the tester can see the cup, she may name the taste she expects and not the taste she feels. Hiding the cups, and adding plain water, makes the test fair. Rinsing is a good idea, not a problem.
 3. (perspective) Ayurveda says a good meal holds all six tastes. A nutrition scientist says a body needs nutrients, which are measured, and not tasted.  
    **Answer:** Answers vary. A strong answer picks a view and gives a reason, for example that tastes are a good guide for a cook, but nutrients must still be checked.. *Why:* Both views have something right. Tastes are a convenient guide, but they do not measure nutrients. The cook uses both, which is often how real planning works.
 4. (count) A festival feast has 15 dishes. One third are protective, and one third are body-building. How many are energy foods?  
    **Answer:** 5. *Why:* One third of 15 is 5. So 5 are protective and 5 are body-building. That leaves 15 take away 10, which is 5 energy foods. The feast has an equal number of each job.
 5. (mcq) A sweet like mysore pak keeps for weeks. Which fact explains this best?  
-   Options: It is made of sugar, flour and ghee with almost no water / It is cooked at a very high heat / It is wrapped in leaves  
+   Options: It is cooked at a very high heat / It is wrapped in leaves / It is made of sugar, flour and ghee with almost no water  
    **Answer:** It is made of sugar, flour and ghee with almost no water. *Why:* Microbes need water to grow. A food with sugar and fat but little water gives them almost nothing to work with, so it keeps. Heat during cooking does not protect food once it has cooled.
 6. (write) True or false: if you crave biscuits, it means your body needs them. Explain your answer, using what you know about taste.  
    **Answer:** A craving is a wish for a taste. Our body does have a real hunger for salt when we are short of it. But a craving for sugar, salt and fat in a packet is often habit, because factory food is made to be hard to stop. The biscuit gives the taste signal but not much else. So a craving does not always mean the body needs the food.. *Why:* A strong answer separates a taste signal from a need. It may say that some cravings, such as for salt, can be real, and that others come from habit and factory food.
@@ -607,16 +614,16 @@ In June, Ajji was drinking her morning coffee when she stopped, with the steel t
    Options: Not balanced, because it leaves out many groups of food / Balanced, because it fills her stomach / Balanced, because ghee is healthy  
    **Answer:** Not balanced, because it leaves out many groups of food. *Why:* Feeling full is not the same as getting every nutrient. Rice and ghee are both energy foods. A balanced diet also needs building foods and protective foods over the days.
 2. (mcq) Where on the tongue can you taste sour?  
-   Options: Anywhere there are taste buds / Only on the sides / Only at the back  
+   Options: Only on the sides / Anywhere there are taste buds / Only at the back  
    **Answer:** Anywhere there are taste buds. *Why:* Taste buds for every taste are found all over the tongue. The old map that put sour only on the sides was a mistake.
 3. (mcq) In the blind taste test, what is the job of the cup of plain water?  
-   Options: It checks whether the tester is really tasting or only guessing / It makes the other cups taste weaker / It gives the tester a drink  
+   Options: It makes the other cups taste weaker / It gives the tester a drink / It checks whether the tester is really tasting or only guessing  
    **Answer:** It checks whether the tester is really tasting or only guessing. *Why:* Plain water is the control. If the tester names a taste for it, the test shows that some answers may be guesses.
 4. (mcq) Which of these is not one of the five basic tastes found by science?  
-   Options: Pungent / Umami / Bitter  
+   Options: Umami / Pungent / Bitter  
    **Answer:** Pungent. *Why:* Pungent is the hot feeling of chilli and pepper, sensed by nerves of heat and pain. Umami and bitter are basic tastes sensed by taste cells.
 5. (mcq) Why do sprouted moong seeds cook faster than dry moong seeds?  
-   Options: They have taken in water and started to grow, so the seeds are softer inside / They are a different kind of seed / They are cooked on a hotter flame  
+   Options: They are a different kind of seed / They are cooked on a hotter flame / They have taken in water and started to grow, so the seeds are softer inside  
    **Answer:** They have taken in water and started to grow, so the seeds are softer inside. *Why:* In a fair test, the seed and the flame are the same. Soaking lets water in, and sprouting starts the seed breaking down the stored food, so the seed softens sooner.
 6. (mcq) A mango and a sweet fizzy drink both taste sweet. What is the main difference between them?  
    Options: The mango has fibre and vitamins with its sugar, and the drink has almost none / The mango has no sugar in it / The tongue can tell which one is healthier  
@@ -625,7 +632,7 @@ In June, Ajji was drinking her morning coffee when she stopped, with the steel t
    Options: It helps build the body / It mostly gives energy / It does nothing the rice does not do  
    **Answer:** It helps build the body. *Why:* Dal is rich in protein, which the body uses to grow and mend. Rice is the main energy food in this thali. The two do different jobs.
 8. (mcq) Why is Ugadi pachadi made with raw mango and neem flowers?  
-   Options: They are in season in spring, when Ugadi falls / They are the only foods that taste bitter and sour / They are the cheapest foods in the market all year  
+   Options: They are the only foods that taste bitter and sour / They are in season in spring, when Ugadi falls / They are the cheapest foods in the market all year  
    **Answer:** They are in season in spring, when Ugadi falls. *Why:* Festival foods often follow the season. Raw mango and neem flowers appear in spring. Their tastes also fit the idea of a bowl with all six tastes.
 9. (mcq) Which action helps the body take in iron from dal and palak?  
    Options: A squeeze of lemon on the meal / Drinking strong tea with the meal / Eating the meal very fast  
@@ -639,6 +646,9 @@ In June, Ajji was drinking her morning coffee when she stopped, with the steel t
 12. (mcq) In a week's food diary, the row for protective foods is very short. What does this tell you?  
    Options: This week had few vegetables and fruits, so add some next week / The family has done something wrong and must be told off / Protective foods are not needed  
    **Answer:** This week had few vegetables and fruits, so add some next week. *Why:* A short row is information about the week, not a mistake. The next step is to add some of that group in a way the family enjoys.
+13. (mcq) In a Punjabi meal of makki roti, sarson saag and lassi, which item mainly builds the body?  
+   Options: Makki roti / Sarson saag / Lassi, a milk drink  
+   **Answer:** Lassi, a milk drink. *Why:* Lassi is made from curd, which is a milk food with protein for building. Makki roti is mainly energy, and sarson saag mainly protects with vitamins and minerals.
 
 ## Applications
 - Planning a school tiffin or a festival lunch that has all three food jobs and a variety of tastes.
@@ -710,6 +720,13 @@ Sunlight on My Plate (sci.food.L4): Topic-level song
 - [A pack of cotton buds](https://www.amazon.in/s?k=cotton+buds) (material): For the Blind Taste Test, which needs 20 clean buds, one for each touch. Used in e1. 
 - [A kitchen weighing scale that shows grams](https://www.amazon.in/s?k=kitchen+weighing+scale) (tool): For Wake Up the Moong, to weigh the seeds before and after soaking. It is optional: a measuring cup works, or your kirana shop can weigh the seeds. Used in e2. 
 - [A small packet of ragi flour, or another millet flour](https://www.amazon.in/s?k=ragi+flour) (material): For Millet Hunt, to cook a thin porridge and read the label. Used in a4. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Wake Up the Moong: what do soaking and sprouting change in a seed?, Millet Hunt: find, cook and compare. About ₹10 to ₹30. Any school ruler is fine. Used in e2, a4. Get it before Wake Up the Moong: what do soaking and sprouting change in a seed?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Blind Taste Test: does each taste have its own place on the tongue?, Wake Up the Moong: what do soaking and sprouting change in a seed?, Six Tastes in One Bowl: make a mini pachadi. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1, e2, a1, a2. Get it before The Blind Taste Test: does each taste have its own place on the tongue?.
+- [A measuring jug or syringe (marked in millilitres)](https://www.amazon.in/s?k=measuring+jug+500+ml) (tool): Used in Wake Up the Moong: what do soaking and sprouting change in a seed?. About ₹30 to ₹100. A clean medicine cup or marked bottle works. Used in e2. Get it before Wake Up the Moong: what do soaking and sprouting change in a seed?.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in The Blind Taste Test: does each taste have its own place on the tongue?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e1. Get it before The Blind Taste Test: does each taste have its own place on the tongue?.
+- [A small toy car with free-rolling wheels](https://www.amazon.in/s?k=toy+car+pull+back+small) (material): Used in Our Family Feast: plan, cook and serve a balanced festival meal. About ₹100 to ₹200. A marble or a round torch cell works. Used in p1. Get it before Our Family Feast: plan, cook and serve a balanced festival meal.
+- [Marbles (a few)](https://www.amazon.in/s?k=glass+marbles+pack) (material): Used in Six Tastes in One Bowl: make a mini pachadi. About ₹10 to ₹40. Small round stones or dried chana. Used in a1. Get it before Six Tastes in One Bowl: make a mini pachadi.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name the six tastes of shad rasa. → Sweet, sour, salty, pungent, bitter and astringent.
@@ -727,11 +744,11 @@ Sunlight on My Plate (sci.food.L4): Topic-level song
 - Core: e1, a1, g1, e2, ws-core
 
 ## Sources
-- Founder's notes in ideas/by_topic/food-and-a-balanced-diet.md: the SCI Card of M. S. Swaminathan, on hunger being a problem of farming and fairness, shaped the card and the big question on why food is not shared equally. The SCI Card of Barry Marshall, on who gets blamed for illness, shaped the care taken in the unit never to blame a child or a family for what they eat
+- Founder's notes in ideas/by_topic/food-and-a-balanced-diet.md: the SCI Card of M. S. Swaminathan, on hunger being a problem of farming and fairness, shaped the card and the big question on why food is not shared equally. The SCI Card of Barry Marshall, on who gets blamed for illness, shaped the care taken in the lesson never to blame a child or a family for what they eat
 - DeepKids Combined Class 4 lesson 'Food for health' (app/content/combined/sci-C4-food-and-a-balanced-diet.json): its food festival project became Our Family Feast, its Kamala Sohonie and Swaminathan voices informed the card on fairness, its millet question informed the card on millets, and its Food Festival Trail game informed Feast Builder. Its story was not reused
 - NCERT Class 4 Chapter 5 'Food for Health' (app/content/ncert/sci-L4-05.json): coverage of shad rasa and the six tastes in the Ugadi pachadi, millets, food groups, the food diary, the balanced plate, a regional thali, and how scientists corrected wrong ideas about taste. Its text is not copied
-- DeepKids unit sci.food.balanced-diet.L3: this unit builds on it. It does not repeat its paper-spot test, vitamin C test, balloon test, thali game or story, and goes on to traditional meals, tastes and festival foods
-- DeepKids unit sci.food.nutrients.L4: this unit shares its topic song, and builds on its idea that foods do jobs. It does not repeat the burning nut, the food label or the Atwater story
+- DeepKids unit sci.food.balanced-diet.L3: this lesson builds on it. It does not repeat its paper-spot test, vitamin C test, balloon test, thali game or story, and goes on to traditional meals, tastes and festival foods
+- DeepKids unit sci.food.nutrients.L4: this lesson shares its topic song, and builds on its idea that foods do jobs. It does not repeat the burning nut, the food label or the Atwater story
 - DeepKids unit sci.microorganisms.helpful-microbes.L4: the card on fermented foods points to it
 - Hänig, D. P., Zur Psychophysik des Geschmackssinnes, Philosophische Studien 17, 1901 (small differences in taste sensitivity across the tongue)
 - Boring, E. G., Sensation and Perception in the History of Experimental Psychology, 1942 (the chart that became the tongue map)

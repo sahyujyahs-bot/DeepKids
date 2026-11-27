@@ -1,13 +1,13 @@
 # The solar system: planets, their satellites, and the true distances between them
 `sci.sky.solar-system.L5`
 
-**Summary.** Ganymede, a moon of Jupiter, is wider than the planet Mercury. So what makes a world a planet and not a moon? In this unit you will balance heavy and light dough balls to find the point they go round, and set a marble Earth and a peppercorn Moon at the true distance.
+**Summary.** Ganymede, a moon of Jupiter, is wider than the planet Mercury. So what makes a world a planet and not a moon? In this lesson you will balance heavy and light dough balls to find the point they go round, and set a marble Earth and a peppercorn Moon at the true distance.
 
-**Intro.** *Ganymede is a moon of Jupiter, and it is wider than the planet Mercury. Pluto was a planet when your grandparents went to school, and today it is not. If size is not the test, what makes one world a planet and another a satellite?* In this unit you find the answer, and you test it with your own hands. First you set a marble Earth and a peppercorn Moon the right distance apart. Then you balance two dough balls on a pencil, to find the point that two worlds both go round. You also find out how much more dough a ball needs when it is twice as wide. At the end you can say why Pluto's name changed, and where the solar system ends.
+**Intro.** *Ganymede is a moon of Jupiter, and it is wider than the planet Mercury. Pluto was a planet when your grandparents went to school, and today it is not. If size is not the test, what makes one world a planet and another a satellite?* In this lesson you find the answer, and you test it with your own hands. First you set a marble Earth and a peppercorn Moon the right distance apart. Then you balance two dough balls on a pencil, to find the point that two worlds both go round. You also find out how much more dough a ball needs when it is twice as wide. At the end you can say why Pluto's name changed, and where the solar system ends.
 
 ## Learning outcomes
 0. By the end I can name the eight planets in order, and say what sets the Earth apart.
-1. By the end I can tell a star, planet, dwarf planet and satellite apart by what each goes round.
+1. By the end I can tell a star, planet, dwarf planet and satellite apart by what each goes round. I can say that the Pole Star is a star far outside the solar system, and that it shows north.
 2. By the end I can explain why a satellite can be bigger than a planet, using Ganymede and Mercury.
 3. By the end I can use the balance rule to find the point that two worlds both go round.
 4. By the end I can build a true model of the Earth, the Moon and the Sun on one scale.
@@ -34,6 +34,7 @@
 - **Revolution**: One full trip of a body round another body. One revolution of the Earth round the Sun is one year. *e.g.* Mercury makes one revolution in 88 days. Neptune takes about 165 years.
 - **Heliosphere**: The huge bubble of thin gas that the Sun blows out around itself. Its edge is far beyond all the planets. *e.g.* The spacecraft Voyager 1 left the heliosphere in 2012, about 120 times as far from the Sun as the Earth.
 - **Axis**: The imaginary line through a spinning world, from one pole to the other. The Earth spins on its axis once in about 24 hours. *e.g.* The Earth's axis leans about 23.5 degrees. Uranus leans so far that it spins almost on its side.
+- **Pole Star**: A star that sits almost exactly above the Earth's north pole, so it hardly seems to move as the night goes on. It is far outside the solar system. *e.g.* On a clear night, travellers face the Pole Star to find north.
 
 ## Explanations
 ### Star, planet or satellite: what a body goes round decides the name · *defined*
@@ -129,10 +130,11 @@ In The Hidden Ball, the visible ball swung in a circle, and the circle was wider
 ### The Earth's two movements and its tilt · *defined*
 **Definition:** The Earth spins once on its axis in about 24 hours, which gives day and night. It goes once round the Sun in about 365 and a quarter days, which is one year.
 
-The Earth's axis leans about 23.5 degrees away from the upright line, where upright means at right angles to the flat surface of the Earth's path round the Sun. This tilt gives the seasons. The Earth's distance from the Sun does not. The Earth is nearest the Sun in early January, when north India has winter. It is furthest in early July, in the middle of the monsoon. The gap is only about 3 percent, so it changes the heat very little. Mars leans about 25 degrees, so it has seasons too. Each Martian season lasts about twice as long as one on the Earth, because a Martian year is 687 Earth days. Uranus leans about 98 degrees, so for years one pole faces the Sun.
+The Earth's axis leans about 23.5 degrees away from the upright line, where upright means at right angles to the flat surface of the Earth's path round the Sun. This tilt gives the seasons. The Earth's distance from the Sun does not. The Earth is nearest the Sun in early January, when north India has winter. It is furthest in early July, in the middle of the monsoon. The gap is only about 3 percent, so it changes the heat very little. Mars leans about 25 degrees, so it has seasons too. Each Martian season lasts about twice as long as one on the Earth, because a Martian year is 687 Earth days. Uranus leans about 98 degrees, so for years one pole faces the Sun. The spin also gives travellers a guide. Seen from India, the night sky seems to turn through the hours, because the Earth is turning under it. The stars seem to circle round one point in the north. The Pole Star, called Dhruva Tara in Hindi, sits almost exactly over that point, so it hardly seems to move. It is a star far outside the solar system, many times further away than any planet. People on land and at sea have used it for thousands of years to find north.
 - e.g. Spin: one turn in about 24 hours, so every place has a day and a night.
 - e.g. Journey: one trip round the Sun in about 365 and a quarter days.
 - e.g. Tilt: about 23.5 degrees for the Earth, and about 25 degrees for Mars.
+- e.g. Guide: a sailor or traveller in the north who finds the Pole Star on a clear night knows which way is north.
 
 ## Mostly agreed
 - Eight planets go round the Sun in the same direction, on paths that lie almost in one flat sheet. *How we know:* Astronomers have tracked every planet for hundreds of years. Spacecraft have visited all eight, and each arrived where the orbits said it would be.
@@ -586,7 +588,7 @@ The pictures showed mountains of ice, and a wide pale plain shaped like a heart.
 4. (truefalse) A moon can be wider than a planet.  
    **Answer:** True. *Why:* True. Ganymede and Titan are both wider than Mercury. A moon is named for what it goes round, not for its size.
 5. (mcq) Ganymede is 5,268 km wide and Mercury is 4,879 km wide. What is Ganymede?  
-   Options: A planet, because it is wider than Mercury / A moon, because it goes round Jupiter / A dwarf planet, because it is smaller than Jupiter / A star  
+   Options: A moon, because it goes round Jupiter / A planet, because it is wider than Mercury / A dwarf planet, because it is smaller than Jupiter / A star  
    **Answer:** A moon, because it goes round Jupiter. *Why:* Ganymede goes round Jupiter, so it is a moon. Choosing 'a planet' uses width as the test. Width is not one of the tests.
 6. (sort) Sort these worlds by shape. Is each one round or lumpy?  
    **Answer:** The Earth → Round; Pluto → Round; Ceres → Round; Phobos → Lumpy; Eros → Lumpy; Deimos → Lumpy. *Why:* A world with enough mass pulls every part towards its centre, and becomes a ball. Phobos, Deimos and Eros are only 12 to 34 km wide, so their pull is too weak.
@@ -602,7 +604,7 @@ The pictures showed mountains of ice, and a wide pale plain shaped like a heart.
 11. (count) A ball of dough is 4 times as wide as a small ball. How many small balls make it?  
    **Answer:** 64. *Why:* A ball 4 times as wide is also 4 times as tall and 4 times as deep. So it holds 4 x 4 x 4 = 64 small balls.
 12. (mcq) The Moon is about a quarter as wide as the Earth. About how many Moons would fit inside the Earth?  
-   Options: About 4 / About 16 / About 50 / About 400  
+   Options: About 4 / About 16 / About 400 / About 50  
    **Answer:** About 50. *Why:* The Earth is nearly 4 times as wide, so the Moon fits in about 4 x 4 x 4 = 64 times. The true figure is about 49, because the Moon is a little more than a quarter as wide.
 13. (perspective) Should Pluto be called a planet?  
    **Answer:** Any view with a fact. One reason for the first: Pluto shares its path with thousands of icy bodies. One for the second: Pluto is round, has air and has five moons. One for the third: Eris, found in 2005, has more mass than Pluto, so the list of planets would keep growing.. *Why:* A strong answer uses a real fact, such as the Kuiper belt, Pluto's moons or Eris. It treats the other views fairly. Scientists still argue about this.
@@ -611,12 +613,12 @@ The pictures showed mountains of ice, and a wide pale plain shaped like a heart.
 15. (odd) Three of these go round the Earth. Which one does not?  
    Options: The Moon / The International Space Station / Aryabhata, the satellite of 1975 / Ceres  
    **Answer:** 3. *Why:* Ceres goes round the Sun, in the asteroid belt. The Moon is a natural satellite, and the other two are artificial satellites.
-### Balance points, scales and cubes (stretch, 15 questions)
+### Balance points, scales and cubes (stretch, 16 questions)
 1. (mcq) One world has 3 times the mass of its partner. How much nearer the balance point is the heavy world?  
-   Options: 3 times nearer / The same distance / Half as near / 9 times nearer  
+   Options: The same distance / Half as near / 3 times nearer / 9 times nearer  
    **Answer:** 3 times nearer. *Why:* The heavy world sits as many times nearer the balance point as it is times heavier. With 3 times the mass, it is 3 times nearer.
 2. (mcq) Balls of 4 pieces and 1 piece sit at the ends of a 20 cm pencil. Where is the balance point?  
-   Options: 4 cm from the heavy end / 5 cm from the heavy end / 10 cm from the heavy end / 16 cm from the heavy end  
+   Options: 5 cm from the heavy end / 10 cm from the heavy end / 4 cm from the heavy end / 16 cm from the heavy end  
    **Answer:** 4 cm from the heavy end. *Why:* The pencil is cut into 4 + 1 = 5 equal parts, and the balance point is 1 part from the heavy end. 20 ÷ 5 = 4 cm. The middle, 10 cm, is only right for equal balls.
 3. (truefalse) The Earth stays still while the Moon goes round it.  
    **Answer:** False. *Why:* False. Both go round their balance point. The Earth's circle is small, about 4,700 km from its centre, because the Earth is 81 times as heavy.
@@ -646,6 +648,8 @@ The pictures showed mountains of ice, and a wide pale plain shaped like a heart.
    **Answer:** The Earth is about 3 mm wide. The Moon is about 1 mm wide. They are about 9.6 cm apart.. *Why:* 12,742 ÷ 40,000 = 0.32 cm. 3,474 ÷ 40,000 = 0.09 cm. 384,400 ÷ 40,000 = 9.6 cm. A strong drawing shows a wide gap and two very small bodies.
 15. (fill) The balance point of the Earth and the Moon lies inside the ____.  
    **Answer:** ['Earth']. *Why:* The point is about 4,700 km from the Earth's centre, and the Earth's radius is 6,371 km.
+16. (truefalse) The Pole Star is a planet that goes round the Sun, like Jupiter.  
+   **Answer:** False. *Why:* False. The Pole Star makes its own light, so it is a star. It is far outside the solar system. Travellers use it to find north because it hardly moves in the night sky.
 ### Testing ideas about the solar system (challenge, 15 questions)
 1. (mcq) A new round icy world is found beyond Neptune, among thousands of icy bodies. What is it, by the 2006 tests?  
    Options: A planet / A dwarf planet / A moon / A star  
@@ -655,7 +659,7 @@ The pictures showed mountains of ice, and a wide pale plain shaped like a heart.
 3. (truefalse) Two worlds with exactly the same mass have their balance point halfway between them.  
    **Answer:** True. *Why:* True. Each world is as far from the point as the other, so the point is halfway. The balance point only moves towards the heavier one.
 4. (mcq) The Sun and Jupiter share a balance point just above the Sun's surface. What does this show?  
-   Options: Jupiter is wider than the Sun / The Sun moves a little as Jupiter goes round / Jupiter does not go round the Sun / The Sun has no gravity  
+   Options: Jupiter is wider than the Sun / Jupiter does not go round the Sun / The Sun moves a little as Jupiter goes round / The Sun has no gravity  
    **Answer:** The Sun moves a little as Jupiter goes round. *Why:* The Sun goes round the balance point too, in a small circle. It does so once in about 12 years, as Jupiter goes round.
 5. (count) In A Thousand Grains of Rice, the Sun has 998.6 grains and Jupiter 1. How many grains are left for everything else?  
    **Answer:** 0.4. *Why:* 1,000 − 998.6 − 1 = 0.4 grains. All the other planets, moons, asteroids and comets together are less than half a grain.
@@ -672,7 +676,7 @@ The pictures showed mountains of ice, and a wide pale plain shaped like a heart.
 11. (order) Put these in order, from nearest to furthest from the Sun.  
    **Answer:** ['Neptune', 'The end of the Kuiper belt', "The edge of the Sun's bubble", 'The Oort cloud']. *Why:* Neptune is 30 astronomical units out. The Kuiper belt reaches about 50. The Sun's bubble ends about 120 out. The Oort cloud may reach about 100,000.
 12. (mcq) Nobody has seen the Oort cloud. How do astronomers know it is probably there?  
-   Options: A telescope photographed it / Comets seem to come from far away in every direction / Voyager 1 flew through it / Moon rock holds pieces of it  
+   Options: Comets seem to come from far away in every direction / A telescope photographed it / Voyager 1 flew through it / Moon rock holds pieces of it  
    **Answer:** Comets seem to come from far away in every direction. *Why:* Astronomers worked out where comets come from by studying their paths. Voyager 1 will need about 300 years to reach the Oort cloud.
 13. (truefalse) A planet with a heavier moon wobbles more than one with a lighter moon, at the same distance.  
    **Answer:** True. *Why:* True. A heavier moon pulls the balance point further from the planet's middle, so the planet goes round in a bigger circle. This is how astronomers find planets round other stars.
@@ -688,41 +692,44 @@ The pictures showed mountains of ice, and a wide pale plain shaped like a heart.
 
 ## Quiz
 1. (mcq) Which is the largest of the four rocky planets?  
-   Options: Mercury / Venus / The Earth / Mars  
+   Options: Mercury / Venus / Mars / The Earth  
    **Answer:** The Earth. *Why:* The Earth is 12,742 km wide, a little wider than Venus at 12,104 km. Mars and Mercury are much smaller.
 2. (mcq) Which of these is true of the Earth and no other planet?  
-   Options: It has seas of liquid water on its surface / It has a moon / It has air / It goes round the Sun  
+   Options: It has a moon / It has air / It has seas of liquid water on its surface / It goes round the Sun  
    **Answer:** It has seas of liquid water on its surface. *Why:* Other planets have moons, air and orbits. Only the Earth has liquid water on its surface, and it is the only world where we know living beings exist.
 3. (mcq) Which of these bodies goes round a planet?  
-   Options: Ceres / The Moon / Eris / Vesta  
+   Options: The Moon / Ceres / Eris / Vesta  
    **Answer:** The Moon. *Why:* The Moon goes round the Earth. Ceres, Eris and Vesta all go round the Sun.
 4. (mcq) Which of these is most likely to be lumpy?  
-   Options: The Earth / The Moon / Phobos, 22 km wide / Ceres, 940 km wide  
+   Options: The Earth / Phobos, 22 km wide / The Moon / Ceres, 940 km wide  
    **Answer:** Phobos, 22 km wide. *Why:* A small body has weak gravity, so it cannot pull its bumps down. Phobos is shaped like a potato. The other three are round.
 5. (mcq) Titan, a moon of Saturn, is 5,150 km wide. Mercury is 4,879 km wide. What can you say?  
-   Options: Titan is a planet / A moon can be wider than a planet / Mercury must be a moon / Titan goes round the Sun  
+   Options: A moon can be wider than a planet / Titan is a planet / Mercury must be a moon / Titan goes round the Sun  
    **Answer:** A moon can be wider than a planet. *Why:* Titan is wider than Mercury, but it goes round Saturn, so it is a moon. Choosing 'Titan is a planet' uses width as the test.
 6. (mcq) Where is the balance point of the Earth and the Moon?  
-   Options: Halfway between them / Inside the Earth, about 4,700 km from its centre / At the Moon's centre / Outside the Earth, near the Moon  
+   Options: Inside the Earth, about 4,700 km from its centre / Halfway between them / At the Moon's centre / Outside the Earth, near the Moon  
    **Answer:** Inside the Earth, about 4,700 km from its centre. *Why:* The Earth has 81 times the Moon's mass. 384,400 ÷ 82 is about 4,700 km. The Earth's radius is 6,371 km, so the point is inside it.
 7. (mcq) A heavy ball and a light ball turn on a thread tied at their balance point. Which ball makes the smaller circle?  
    Options: The heavy ball / The light ball / Neither, because the heavy ball stays still  
    **Answer:** The heavy ball. *Why:* The heavy ball is nearer the balance point, so its circle is smaller. It still goes round, as it did in The Two-Ball Balance.
 8. (mcq) With the Earth as a marble, the Sun is a ball as tall as a grown-up. About how far apart are they?  
-   Options: About 2 metres / About 20 metres / About 190 metres / About 19 kilometres  
+   Options: About 190 metres / About 2 metres / About 20 metres / About 19 kilometres  
    **Answer:** About 190 metres. *Why:* The Sun is about 11,700 Earth-widths away. A marble 1.6 cm wide gives about 187 metres.
 9. (mcq) A ball is twice as wide as another, made of the same dough. How much more dough does it hold?  
    Options: 2 times / 4 times / 8 times / 16 times  
    **Answer:** 8 times. *Why:* It is twice as wide, as tall and as deep. 2 x 2 x 2 = 8.
 10. (mcq) How does the Sun's mass compare with the mass of all the planets together?  
-   Options: About equal / About 10 times as much / More than 700 times as much / A little less  
+   Options: More than 700 times as much / About equal / About 10 times as much / A little less  
    **Answer:** More than 700 times as much. *Why:* The Sun has about 333,000 Earth masses. All the planets together have about 450. So the Sun has more than 700 times as much.
 11. (mcq) Pluto goes round the Sun and is round. Which test does it fail?  
-   Options: It does not go round the Sun / It is not round / It has not cleared its path / It has no moon  
+   Options: It does not go round the Sun / It is not round / It has no moon / It has not cleared its path  
    **Answer:** It has not cleared its path. *Why:* Pluto shares its path with thousands of icy bodies. That is why it is a dwarf planet.
 12. (mcq) Voyager 1 left the Sun's bubble of gas in 2012. Has it left the solar system?  
-   Options: Yes, completely / It depends on how the edge is measured / No, it is still between Mars and Jupiter / Nobody can tell where it is  
+   Options: It depends on how the edge is measured / Yes, completely / No, it is still between Mars and Jupiter / Nobody can tell where it is  
    **Answer:** It depends on how the edge is measured. *Why:* By the Sun's wind, it has left. By the Sun's gravity, it is still deep inside. There is no single agreed edge.
+13. (mcq) On a clear night in India, the stars seem to circle round one point in the north sky. Why does the Pole Star hardly seem to move?  
+   Options: It sits almost exactly over the Earth's north pole, the point the spin turns round / It is a planet that stands still in the sky / It is the nearest star to the Earth / The Earth stops spinning for the Pole Star  
+   **Answer:** It sits almost exactly over the Earth's north pole, the point the spin turns round. *Why:* The Earth spins on its axis, and the axis points almost at the Pole Star. So the sky seems to turn round that star. It is not a planet. It is a star far outside the solar system. The Earth never stops spinning, and the Pole Star is not the nearest star.
 
 ## Applications
 - Astronomers find planets round other stars by the small wobble that each planet causes in her star. Thousands of planets have been found this way and by other methods.
@@ -740,7 +747,7 @@ The pictures showed mountains of ice, and a wide pale plain shaped like a heart.
 - A cloud picture on the weather forecast on television. It was taken by a weather satellite going round the Earth.
 - A planet next to the crescent Moon, on an evening when the two come close. A phone sky app tells you which planet it is.
 - The Aryabhata satellite on the back of an old 2-rupee note, in a family collection or a museum.
-- A planetarium show, such as in Chennai, Bengaluru, Hyderabad or Kolkata, with the planets and moons projected on a dome.
+- A planetarium show, with the planets and moons projected on a dome.
 - Look at a ball of any size in a shop and ask how many smaller balls would fit inside it. If the small ball is half as wide, the answer is eight.
 
 ## Open questions
@@ -789,12 +796,19 @@ Star, Planet, Moon (sci.sky.L5): Topic-level song
 - [Solar System Scope](https://www.solarsystemscope.com/) · interactive: A free 3D model of the solar system. Find Ganymede next to Mercury, and the orbits of the dwarf planets.
 - [NASA New Horizons mission to Pluto](https://science.nasa.gov/mission/new-horizons/) · interactive: The spacecraft that flew past Pluto and Charon in 2015, with its pictures and findings.
 - [International Astronomical Union](https://www.iau.org/) · interactive: For the parent: the group of astronomers that agreed the three tests for a planet in 2006.
-- [Birla Planetarium]() · place · Chennai: Sky shows about the planets and their moons. Check show times and languages before you go.
-- [Jawaharlal Nehru Planetarium]() · place · Bengaluru: Shows about the solar system, with a small science exhibition. Check the show times before you go.
+- Birla Planetarium · place · Chennai: Sky shows about the planets and their moons. Check show times and languages before you go.
+- Jawaharlal Nehru Planetarium · place · Bengaluru: Shows about the solar system, with a small science exhibition. Check the show times before you go.
 
 ## Things to buy
 - [A tape measure of 5 metres, or a long measuring string](https://www.amazon.in/s?k=measuring+tape+5+metre) (tool): For Marble Earth, Peppercorn Moon, Fix the Picture and An Honest Solar System. A tailor's tape or a builder's tape works, and many homes already have one. Used in a1, a5, c1. 
 - [How I Killed Pluto and Why It Had It Coming, a book by Mike Brown (2010)](https://www.amazon.in/s?k=How+I+Killed+Pluto+and+Why+It+Had+It+Coming) (book): For the parent, and for an older child to read in parts. The astronomer who found Eris tells the story of the vote of 2006 and his side of the argument. Used in p1. Before day 2 of The Planet Vote, read the chapter about Eris aloud. Ask which of Brown's reasons fit Side A, and which Side B would answer.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Two-Ball Balance: where is the balance point of a heavy ball and a light one?, Twice as Wide: how many times as much dough?, The Hidden Ball: can a wobble show how heavy a ball you cannot see?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, e3, a1, a2, a5, c1, c2. Get it before The Two-Ball Balance: where is the balance point of a heavy ball and a light one?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in The Two-Ball Balance: where is the balance point of a heavy ball and a light one?. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in e1. Get it before The Two-Ball Balance: where is the balance point of a heavy ball and a light one?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Hidden Ball: can a wobble show how heavy a ball you cannot see?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e3. Get it before The Hidden Ball: can a wobble show how heavy a ball you cannot see?.
+- [A kitchen or weighing scale](https://www.amazon.in/s?k=digital+kitchen+weighing+scale) (tool): Used in Twice as Wide: how many times as much dough?, The Hidden Ball: can a wobble show how heavy a ball you cannot see?, A Double World: build a pair that balances in empty space. About ₹300 to ₹700. A home-made balance from a ruler and two cups can compare weights. Used in e2, e3, c2. Get it before Twice as Wide: how many times as much dough?.
+- [A small toy car with free-rolling wheels](https://www.amazon.in/s?k=toy+car+pull+back+small) (material): Used in The Hidden Ball: can a wobble show how heavy a ball you cannot see?. About ₹100 to ₹200. A marble or a round torch cell works. Used in e3. Get it before The Hidden Ball: can a wobble show how heavy a ball you cannot see?.
+- [Marbles (a few)](https://www.amazon.in/s?k=glass+marbles+pack) (material): Used in Marble Earth, Peppercorn Moon: how far apart?. About ₹10 to ₹40. Small round stones or dried chana. Used in a1. Get it before Marble Earth, Peppercorn Moon: how far apart?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What does a satellite go round? → A planet, or another world that is not a star.
@@ -812,7 +826,7 @@ Star, Planet, Moon (sci.sky.L5): Topic-level song
 - Core: a1, e1, a2, g1, e2, ws-core
 
 ## Sources
-- Founder's notebook, the universe, Sun, Moon, stars and planets page, and the notebook items on the solar system. They were checked for facts. Every experiment, activity and game in this unit is new.
+- Founder's notebook, the universe, Sun, Moon, stars and planets page, and the notebook items on the solar system. They were checked for facts. Every experiment, activity and game in this lesson is new.
 - DeepKids Combined lesson sci-C5-the-universe-sun-moon-stars-and-planets: read so that nothing repeats. Its orbits, satellites, latitude and time-zone work belongs to other units, and its story is not reused.
 - Curriculum entry sci.sky.solar-system.L5: planets of the solar system and the Earth, planets and satellites, and the scale of the solar system. The board chapter is NIOS Level B Lesson 11, Solar System and Earth.
 - Other units were checked so that nothing repeats. The Walk the Solar System activity, with the Sun as a disc 14 centimetres wide, is in sci.sky.solar-system.L4. The torch test is in sci.sky.solar-system.L3. The Jar and the Flame and Falling Sideways are in sci.sky.exploring-space.L3 and L4. Eclipses and Moon phases are in sci.sky.moon-phases.L3 and L4.

@@ -1,9 +1,9 @@
 # Where does the log go? How dead things return to the air and the soil
 `sci.ecology.cycles-and-decomposers.L4`
 
-**Summary.** A fallen log slowly vanishes. Where does it go? In this unit you will look closely at one spoon of soil, show that a jar of soil breathes out a gas, test whether chopping up leaves makes them rot faster, and follow who eats one meal's leftovers.
+**Summary.** A fallen log slowly vanishes. Where does it go? In this lesson you will look closely at one spoon of soil, show that a jar of soil breathes out a gas, test whether chopping up leaves makes them rot faster, and follow who eats one meal's leftovers.
 
-**Intro.** *A big coconut palm falls in a storm. Nobody moves it. Come back in two years, and the trunk is gone. There is no heap of wood and nobody carried it away. Where did all that tree go?* A palm trunk weighs more than a hundred kilograms. It cannot just vanish. Some of it went into the soil. Some of it went somewhere you cannot see. In this unit you catch the invisible part in a jar, you find out why small pieces rot faster than big ones, and you grow a plant in rotted leaves to see whether they feed a new plant.
+**Intro.** *A big coconut palm falls in a storm. Nobody moves it. Come back in two years, and the trunk is gone. There is no heap of wood and nobody carried it away. Where did all that tree go?* A palm trunk weighs more than a hundred kilograms. It cannot just vanish. Some of it went into the soil. Some of it went somewhere you cannot see. In this lesson you catch the invisible part in a jar, you find out why small pieces rot faster than big ones, and you grow a plant in rotted leaves to see whether they feed a new plant.
 
 ## Learning outcomes
 0. I can name three kinds of cleanup crew (scavengers, detritivores and decomposers) and say what each one does.
@@ -361,7 +361,7 @@ He laughed, which he had not done since the storm. He did not call Raju. When On
   *Child mode:* Name each leftover from our meal.
   - Note: Use real leftovers from the day's cooking. Include at least one thing that cannot rot, such as a wrapper or a plastic bag, because the later steps need it. One child: the parent writes while the child sorts. Two to four children: one child lays out and names, one draws the table, one reads the crew words; swap at the next meal. Do not eat any of the leftovers during the activity.
 - **s2 (15 min)**  
-  *Parent does:* For each leftover, ask your child to guess who would eat it and what would be left at the end. Write it in the table. Use words from this unit: scavenger, detritivore, decomposer.  
+  *Parent does:* For each leftover, ask your child to guess who would eat it and what would be left at the end. Write it in the table. Use words from this lesson: scavenger, detritivore, decomposer.  
   *Parent says:* Who would eat this? Is it a scavenger, a detritivore or a decomposer? What would be left at the end?  
   *Child mode:* Guess who eats each leftover, then fill in the table.
   - Ask: Which leftover is eaten first, and by whom? (good: The rice, by crows and ants.; The peel, by flies and mould.)
@@ -466,7 +466,7 @@ He laughed, which he had not done since the storm. He did not call Raju. When On
 6. (fill) In the Breathing Soil test, the gas that made the limewater go milky was ____ ____.  
    **Answer:** ['carbon dioxide']. *Why:* Limewater reacts with carbon dioxide to make tiny white bits of chalk. Soil microbes breathe out carbon dioxide as they eat dead plants.
 7. (mcq) In the Breathing Soil test, jar C had only air and limewater. Why was it there?  
-   Options: To show what limewater does with no soil / To make the test look bigger / To hold the soil  
+   Options: To make the test look bigger / To show what limewater does with no soil / To hold the soil  
    **Answer:** To show what limewater does with no soil. *Why:* A check jar shows what happens without the thing you are testing. Jar C stayed clear, so the gas in the other jar came from the soil.
 8. (write) In the Breathing Soil test, jar B, in the fridge, turned the limewater less milky than jar A in the warm room. Explain why.  
    **Answer:** The cold slowed down the decomposers. They breathe out less carbon dioxide when they are cold, so less limewater turned milky.. *Why:* A strong answer says that decomposers are living, and cold slows them down. They still eat, but slowly.
@@ -487,14 +487,14 @@ He laughed, which he had not done since the storm. He did not call Raju. When On
    **Answer:** Answers vary. A strong answer picks a side, says why, and uses a fact such as: the peel is a meal for decomposers, or it can carry germs, so wash hands.. *Why:* Both views are true in a way. The peel is a meal for the cleanup crew, and it can carry germs that make people ill. The idea of waste depends on who is looking.
 ### Matter, Energy and Missing Crews (stretch) (stretch, 16 questions)
 1. (mcq) A 4 centimetre cube is cut into 64 cubes of 1 centimetre. What happens to its surface?  
-   Options: It becomes 4 times bigger / It stays the same / It becomes 64 times bigger  
+   Options: It stays the same / It becomes 4 times bigger / It becomes 64 times bigger  
    **Answer:** It becomes 4 times bigger. *Why:* The big cube has a surface of 96 square centimetres. The 64 small cubes have 384 square centimetres in all. 384 divided by 96 is 4.
 2. (fill) The tiny tools that a fungus makes to cut food into small pieces are called ____.  
    **Answer:** ['enzymes', 'enzyme']. *Why:* Enzymes are tools made by a living being that cut food into small pieces. A fungus pours them onto her food.
 3. (truefalse) Rotting and burning make the same gas, carbon dioxide.  
    **Answer:** True. *Why:* True. Both join carbon from a plant with oxygen. Burning is fast and hot, and rotting is slow and cool.
 4. (mcq) Why do earthworms and millipedes speed up rotting?  
-   Options: They make small bits, so fungi have more surface to work on / They kill the fungi / They add water to the leaf  
+   Options: They kill the fungi / They make small bits, so fungi have more surface to work on / They add water to the leaf  
    **Answer:** They make small bits, so fungi have more surface to work on. *Why:* Chewing makes many small bits, and each bit has surface that decomposers can use. A wrong pick often comes from thinking that the animals do all the work.
 5. (match) Match each place to what happens to a dead leaf there.  
    **Answer:** Warm wet rainforest → Gone within months; Cold northern forest → Lasts for years; Peat bog with no air → Piles up for thousands of years; Hot dry desert → Dries out and lasts for decades. *Why:* Decomposers need warmth, water and air. When one is missing, they work slowly or not at all.
@@ -518,7 +518,7 @@ He laughed, which he had not done since the storm. He did not call Raju. When On
 14. (perspective) A town is deciding what to do about the dead cattle left on its edge.  
    **Answer:** Answers vary. A strong answer picks a side, gives a reason, and names something to find out, such as whether the cattle were treated with a drug that is harmful to vultures.. *Why:* Both plans have a point. Vultures clear carcasses fast, but only if the meat is safe for them. The diclofenac story shows why.
 15. (mcq) A dry log in a desert lasts for decades, but the same log in a rainforest is gone in a few years. What does this show?  
-   Options: Rotting depends on warmth, water and air / Desert wood is stronger / Rainforest wood is softer  
+   Options: Desert wood is stronger / Rotting depends on warmth, water and air / Rainforest wood is softer  
    **Answer:** Rotting depends on warmth, water and air. *Why:* The same kind of wood rots at different speeds depending on whether decomposers have water, warmth and air.
 16. (write) Every year, for many years, a farmer cuts her wheat and carries all the straw away. Her soil gets poorer. Explain why.  
    **Answer:** The wheat took nutrients from the soil. When all the straw is carried away, the nutrients never return, because there is nothing left to rot into the soil.. *Why:* A strong answer names the nutrients, says they are taken up by plants, and points out that the loop is broken when the plants never rot in the field.
@@ -546,7 +546,7 @@ He laughed, which he had not done since the storm. He did not call Raju. When On
 10. (draw) Draw a loop for carbon: the air, a leaf, a goat and a fungus. Then draw a straight arrow for energy that starts at the Sun and ends as heat.  
    **Answer:** A circle for carbon through air, leaf, goat, fungus and back to air. A straight line from the Sun to heat.. *Why:* The loop shows that matter goes round, and the straight line shows that energy flows through. Both are needed to explain how life carries on.
 11. (mcq) What does it mean to say that a forest has no waste?  
-   Options: Every leftover is food for something / Forests are always clean / Nothing ever dies in a forest  
+   Options: Forests are always clean / Nothing ever dies in a forest / Every leftover is food for something  
    **Answer:** Every leftover is food for something. *Why:* A forest recycles because decomposers eat the leftovers and send the matter back to plants. A wrong pick often mixes up clean with recycled.
 12. (odd) Which is the odd one out, and why? Rotting, burning, breathing, melting.  
    **Answer:** Melting, because it does not join carbon with oxygen to make carbon dioxide. The other three do.. *Why:* Rotting, burning and breathing all join food or fuel with oxygen, and give out carbon dioxide and energy. Melting only changes a solid into a liquid.
@@ -565,40 +565,40 @@ He laughed, which he had not done since the storm. He did not call Raju. When On
 
 ## Quiz
 1. (mcq) A fungus grows through a fallen branch and turns it soft. What is she doing?  
-   Options: Pouring enzymes on the wood and soaking up the food / Chewing the wood with teeth / Making the wood into stone  
+   Options: Chewing the wood with teeth / Making the wood into stone / Pouring enzymes on the wood and soaking up the food  
    **Answer:** Pouring enzymes on the wood and soaking up the food. *Why:* A fungus digests food outside her body. She pours enzymes on it, and then soaks up what dissolves. She has no mouth and no teeth.
 2. (mcq) Which pair is a scavenger and a decomposer?  
    Options: Vulture and mould / Earthworm and millipede / Mould and bacteria  
    **Answer:** Vulture and mould. *Why:* A vulture finds dead animals to eat, so she is a scavenger. Mould digests food with enzymes, so she is a decomposer. Earthworms and millipedes are detritivores.
 3. (mcq) The limewater above damp soil turned milky. What gas did the soil give out?  
-   Options: Carbon dioxide / Oxygen / Water vapour only  
+   Options: Oxygen / Water vapour only / Carbon dioxide  
    **Answer:** Carbon dioxide. *Why:* Limewater reacts with carbon dioxide and makes tiny white bits of chalk. Soil microbes breathe out the carbon dioxide.
 4. (mcq) In the Breathing Soil test, the jar with only air stayed clear. What does this tell us?  
-   Options: The gas came from the soil and peel, and not from the limewater or air / Air is not important / Limewater never changes  
+   Options: Air is not important / Limewater never changes / The gas came from the soil and peel, and not from the limewater or air  
    **Answer:** The gas came from the soil and peel, and not from the limewater or air. *Why:* The check jar shows what happens without the soil. It stayed clear, so the soil and the peel were the cause.
 5. (mcq) What happens to most of the carbon in a rotting log?  
-   Options: It is breathed out as carbon dioxide / It turns into stone / It stays in the log for ever  
+   Options: It turns into stone / It stays in the log for ever / It is breathed out as carbon dioxide  
    **Answer:** It is breathed out as carbon dioxide. *Why:* Decomposers breathe out most of the carbon as carbon dioxide. The rest becomes humus and the bodies of decomposers.
 6. (mcq) How do plants get the nutrients that were once in dead leaves?  
    Options: Their roots drink the nutrients that decomposers released into the soil water / They eat the dead leaves / They make nutrients from sunlight  
    **Answer:** Their roots drink the nutrients that decomposers released into the soil water. *Why:* Decomposers release the minerals into the soil water, and the roots drink them. Plants do not eat. They make food from air, water and light.
 7. (mcq) Which is true about matter and energy in a forest?  
-   Options: Matter goes round, and energy flows through and ends as heat / Matter and energy both go round / Energy goes round, and matter is used up  
+   Options: Matter and energy both go round / Matter goes round, and energy flows through and ends as heat / Energy goes round, and matter is used up  
    **Answer:** Matter goes round, and energy flows through and ends as heat. *Why:* The atoms are used again and again, but energy from the Sun is passed along and ends as heat.
 8. (mcq) A grated carrot and a whole carrot weigh the same. Why does the grated one rot first?  
    Options: It has much more surface for decomposers to work on / It is heavier / It has more water inside  
    **Answer:** It has much more surface for decomposers to work on. *Why:* Grating makes lots of new surface. Decomposers work on surfaces, so there is more room for them.
 9. (mcq) Which place will keep a dead plant the longest?  
-   Options: A peat bog with no air / A warm wet forest floor / A compost heap  
+   Options: A warm wet forest floor / A peat bog with no air / A compost heap  
    **Answer:** A peat bog with no air. *Why:* Decomposers need air to breathe. In a peat bog, there is almost no air, so dead plants pile up for thousands of years.
 10. (mcq) What happened to vultures in India in the 1990s and 2000s?  
-   Options: More than 95 out of 100 died after eating cattle treated with diclofenac / They flew to another country / They stopped eating dead animals  
+   Options: They flew to another country / They stopped eating dead animals / More than 95 out of 100 died after eating cattle treated with diclofenac  
    **Answer:** More than 95 out of 100 died after eating cattle treated with diclofenac. *Why:* Scientists showed that the painkiller diclofenac, left in dead cattle, caused kidney failure in the vultures.
 11. (mcq) Which of these has no cleanup crew yet?  
-   Options: A plastic bag / A banana peel / A dead leaf  
+   Options: A banana peel / A plastic bag / A dead leaf  
    **Answer:** A plastic bag. *Why:* Plastic is new, so almost no decomposer makes an enzyme that fits it. The peel and the leaf come from plants.
 12. (mcq) You want to test whether warmth speeds up rotting. Which is a fair test?  
-   Options: Same carrot, same box, one on a warm shelf and one in the fridge / A big carrot on a warm shelf and a small carrot in the fridge / One carrot, looked at once  
+   Options: A big carrot on a warm shelf and a small carrot in the fridge / One carrot, looked at once / Same carrot, same box, one on a warm shelf and one in the fridge  
    **Answer:** Same carrot, same box, one on a warm shelf and one in the fridge. *Why:* A fair test changes only one thing. Here, only the temperature changes.
 
 ## Applications
@@ -671,13 +671,18 @@ Nothing Is Wasted (sci.ecology.L4): Topic-level song
 - [iNaturalist: identify the mushrooms, insects and plants you find](https://www.inaturalist.org) · interactive: Upload a photo of a mushroom, a beetle or a leaf, and the community helps to name it.
 - [India Biodiversity Portal](https://indiabiodiversity.org) · interactive: For the parent: pictures and records of the fungi, insects and birds of India, including vultures.
 - [Bombay Natural History Society: the vulture programme](https://www.bnhsindia.org) · interactive: For the parent: how BNHS counts, protects and breeds vultures in India.
-- [Lalbagh Botanical Garden]() · place · Bengaluru, Karnataka: A big old garden with fallen leaves, rotting logs and mushrooms in the monsoon. Look for the cleanup crew along the paths.
+- Lalbagh Botanical Garden · place · Bengaluru, Karnataka: A big old garden with fallen leaves, rotting logs and mushrooms in the monsoon. Look for the cleanup crew along the paths.
 
 ## Things to buy
 - [Edible chuna (lime paste), a small tub](https://www.amazon.in/s?k=edible+chuna+lime+paste) (material): To make the limewater for the Breathing Soil test. It costs a few rupees at a paan shop. Only a grown-up handles it. Used in e1. 
 - [A 10 times magnifying glass](https://www.amazon.in/s?k=magnifying+glass+10x+for+kids) (tool): For the Soil Detective, and for looking at mould, mushrooms and tiny animals. A phone camera zoomed in also works. Used in a1. 
 - [Cocopeat, a small block or bag](https://www.amazon.in/s?k=cocopeat+block) (material): For the Methi project. Cocopeat holds water but has almost no nutrients. A small block costs about Rs 50 to 100. A nursery may sell a handful, or you can use sand for pot A. Used in p1. 
 - [Vermicompost, a small pack](https://www.amazon.in/s?k=vermicompost+organic+manure) (material): For the Methi project. It is the rotted matter left by earthworms and microbes. A nursery or a neighbour with a compost pit can spare 3 tablespoons. A small pack costs about Rs 50. Used in p1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Does rot feed the next plant? Methi in three pots. About ₹10 to ₹30. Any school ruler is fine. Used in p1. Get it before Does rot feed the next plant? Methi in three pots.
+- [Clean sand (a small bag)](https://www.amazon.in/s?k=play+sand+small+bag) (material): Used in Does rot feed the next plant? Methi in three pots. About ₹20 to ₹60. Fine soil sieved from a pot works. Used in p1. Get it before Does rot feed the next plant? Methi in three pots.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Does rot feed the next plant? Methi in three pots. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in p1. Get it before Does rot feed the next plant? Methi in three pots.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Cut It Up: does chopping help the decomposers?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e2. Get it before Cut It Up: does chopping help the decomposers?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What are the three cleanup crews? → Scavengers, detritivores and decomposers.
@@ -696,9 +701,9 @@ Nothing Is Wasted (sci.ecology.L4): Topic-level song
 
 ## Sources
 - ideas/by_topic/microorganisms.md: the founder's notes on fungi (threads that grow at the tip, fungi among the first life on land), used for the fungus explanations
-- The Class 3 unit on decomposers, which this unit builds on: from what rotting needs to where the matter goes, and from mould to the whole cleanup crew
+- The Class 3 unit on decomposers, which this lesson builds on: from what rotting needs to where the matter goes, and from mould to the whole cleanup crew
 - The Class 3 units on photosynthesis and on respiration in animals, whose limewater method is reused for the Breathing Soil test
-- curriculum/sci.json: the go-deep entry for decomposers at Class 5 (carbon and nitrogen cycles, compost), which this unit prepares for
+- curriculum/sci.json: the go-deep entry for decomposers at Class 5 (carbon and nitrogen cycles, compost), which this lesson prepares for
 - Oaks, J. L. and 12 others, 'Diclofenac residues as the cause of vulture population decline in Pakistan', Nature 427, 630-633 (2004)
 - Prakash, V. and others, 'Catastrophic collapse of Indian white-backed Gyps bengalensis and long-billed Gyps indicus vulture populations', Biological Conservation 109 (2003)
 - Green, R. E. and others, 'Diclofenac poisoning as a cause of vulture population declines across the Indian subcontinent', Journal of Applied Ecology 41 (2004)

@@ -1,9 +1,9 @@
 # Caring for animals, soil and water: using them so they last
 `sci.environment.conservation.L3`
 
-**Summary.** Grass grows back after a cow bites off the top, but many other plants do not. Why? In this unit you will cut wheat and moong plants to see which grow back, test whether a mat of roots holds soil in water, and play a game of keeping a herd fed.
+**Summary.** Grass grows back after a cow bites off the top, but many other plants do not. Why? In this lesson you will cut wheat and moong plants to see which grow back, test whether a mat of roots holds soil in water, and play a game of keeping a herd fed.
 
-**Intro.** *A cow eats grass for about eight hours a day, often in the same field. If you cut a plant's stem, the plant usually does not grow taller from that stem again. So why does the field not run out of grass?* In this unit you find the answer by growing wheat and moong in a tub on your window, and cutting both. You find out what the animals who help us need from us, how a cover of roots keeps soil in place, and how cities like Chennai catch the rain. You also read about a bird park where people sent the buffaloes away to protect the birds, and the birds lost out.
+**Intro.** *A cow eats grass for about eight hours a day, often in the same field. If you cut a plant's stem, the plant usually does not grow taller from that stem again. So why does the field not run out of grass?* In this lesson you find the answer by growing wheat and moong in a tub on your window, and cutting both. You find out what the animals who help us need from us, how a cover of roots keeps soil in place, and how cities like Chennai catch the rain. You also read about a bird park where people sent the buffaloes away to protect the birds, and the birds lost out.
 
 ## Learning outcomes
 0. I can name at least six animals that help people, say what each one gives, and say what she needs from us to stay well.
@@ -21,11 +21,15 @@
 - **Overgrazing**: When too many animals eat in one place for too long, so the plants are eaten down to the ground and cannot grow back. *e.g.* A field where goats are kept all year can turn into bare, dusty ground.
 - **Growing point**: The part of a plant where the new growth is made. The plant gets longer from there. Scientists call it a meristem. *e.g.* A grass leaf's growing point is at the bottom, near the soil. A moong plant's growing point is at the tip of the stem.
 - **Soil erosion**: When rain or wind carries away the top layer of soil. *e.g.* After heavy rain, brown water runs off a bare slope, carrying soil with it.
+- **Silt**: Fine mud carried by water that settles at the bottom of rivers, ponds and dams. *e.g.* A village pond gets shallower each year as silt settles in it.
+- **Terrace farming**: Cutting a hillside into flat steps, so water runs slowly and soaks in, and the soil stays. *e.g.* Rice grows on steps cut into the hills of Himachal Pradesh and Kerala.
 - **Groundwater**: Water that soaks down into the ground and fills the tiny spaces between grains of soil, sand and rock. Wells and borewells pump it up. *e.g.* Many flats in Bengaluru and Chennai get some of their water from a borewell.
 - **Rainwater harvesting**: Catching rain from roofs and ground, and storing it in a tank or sending it into the ground through a pit. *e.g.* A pipe from the terrace of a Chennai building carries rain into a pit filled with stones and sand.
 - **Pollinate**: To carry pollen from one flower to another, so the flower can make seeds and fruit. *e.g.* A honeybee pollinates the flowers of a mango tree while she drinks their nectar.
 - **Vaccine**: A medicine that teaches the body to fight a disease before the disease arrives. *e.g.* Pet dogs get a rabies vaccine every year, so they cannot catch or spread rabies.
 - **Wallow**: To lie and roll in water or mud to cool down. *e.g.* On a hot afternoon, buffaloes wallow in a pond with only their heads showing.
+- **Windbreak**: A row of tall trees at the edge of a field that slows the wind, so less soil blows away. *e.g.* Rows of trees at the edge of a field in Gujarat.
+- **Organic farming**: Growing crops with compost, dung manure and neem, and without chemical fertiliser or pesticide. *e.g.* A farmer who sprays neem leaf water on her brinjal plants is farming organically.
 
 ## Explanations
 ### What conservation means · *defined*
@@ -52,14 +56,15 @@ Grass grows back, but only so fast. Grass plants need their leaves to catch sunl
 ### Animals who help us, and what they need · *defined*
 **Definition:** Useful animals give people food, work and materials. In return, they need clean water, the right food, shade, a clean shelter, rest and care when they are ill.
 
-Each animal has her own needs, which come from her own body. A buffalo has dark skin and fewer sweat glands than a cow, so she heats up fast in the sun. She wallows in water or mud to cool down. So a buffalo needs a pond, a shower or a wet floor on hot days. A hen needs a dry, clean coop, because damp and dirt bring disease. A bullock that pulls a cart needs rest in the hottest hours. Honeybees need flowers without poison sprays. A silkworm caterpillar eats mulberry leaves and almost nothing else, and needs fresh ones every day. Caring for an animal starts with asking what her life is like.
+Each animal has her own needs, which come from her own body. A buffalo has dark skin and fewer sweat glands than a cow, so she heats up fast in the sun. She wallows in water or mud to cool down. So a buffalo needs a pond, a shower or a wet floor on hot days. A hen needs a dry, clean coop, because damp and dirt bring disease. A bullock that pulls a cart needs rest in the hottest hours. Honeybees need flowers without poison sprays. A silkworm caterpillar eats mulberry leaves and almost nothing else, and needs fresh ones every day. Caring for an animal starts with asking what her life is like. Cows, buffaloes and goats give milk, and the milk becomes curd, ghee and paneer. They give company too, and many children know each one by name. Families respect them because they give so much and need care every day.
 - e.g. Cows and buffaloes give milk. Their dung is used as manure and as fuel.
 - e.g. Hens give eggs. Bees give honey and pollinate crops. Silkworms give silk. Sheep give wool.
 - e.g. Bullocks pull ploughs and carts. Dogs guard homes and help people who cannot see.
+- e.g. Donkeys carry bricks and sacks, and camels carry loads across the sand in the Thar desert.
 ### Caring for animals is also the law · *defined*
 **Definition:** In India, the Prevention of Cruelty to Animals Act of 1960 makes it a crime to beat, overload, starve or neglect an animal.
 
-Good care is simple to say. Give clean water every day, more in summer. Give shade and rest in the hottest hours. Keep the shed or coop clean and dry. Get vaccines, such as the rabies vaccine for dogs. Never feed animals plastic, or let them eat from rubbish. Cows that wander city streets often swallow plastic bags with food scraps inside. The bags cannot be digested and fill up their stomachs. Vets in Indian cities have taken many kilograms of plastic out of single cows.
+Good care is simple to say. Give clean water every day, more in summer. Give shade and rest in the hottest hours. Keep the shed or coop clean and dry. Get vaccines, such as the rabies vaccine for dogs. Never feed animals plastic, or let them eat from rubbish. Cows that wander city streets often swallow plastic bags with food scraps inside. The bags cannot be digested and fill up their stomachs. Vets in Indian cities have taken many kilograms of plastic out of single cows. Birds are made to fly, and a small cage hurts them. Animals made to perform in circuses are often beaten and kept in tiny cages. India has banned the use of lions, tigers, bears and monkeys in circuses.
 - e.g. On Mattu Pongal, families in Tamil Nadu bathe their cattle, paint their horns and feed them pongal, to thank them.
 - e.g. Tying food waste in a bag and throwing it on the road can harm a cow. A bin with a lid keeps it away from her.
 - e.g. A dog bowl of fresh water in a shady spot helps street dogs in May.
@@ -70,6 +75,27 @@ Good soil forms very slowly, from broken rock and dead plants. A few centimetres
 - e.g. In the bare tub test, the water from the bare tub came out brown. The water from the wheat tub was much clearer.
 - e.g. Tea gardens in the Nilgiris are planted in rows along the slopes, to slow the water down.
 - e.g. Farmers leave crop stubble or grow a cover crop, so the soil is never bare.
+### What soil erosion does · *defined*
+**Definition:** When soil washes or blows away, farms, rivers, wells and the land itself are harmed.
+
+First, the best soil is the top layer, and it goes first. Crops grow poorly in what is left, so farms give less food. Second, the soil that washes away settles in rivers, ponds and dams as mud called silt. Silt fills them up, so they hold less water. Third, with a river bed full of silt, floods come more easily. Fourth, when rain runs off bare ground and does not soak in, wells and streams run dry. Fifth, running water cuts deep gullies in the land. Along the Chambal river in Madhya Pradesh, Rajasthan and Uttar Pradesh, rain has cut deep ravines into the land.
+- e.g. A pond in a village that gets shallower each year because of silt.
+- e.g. A bare farm field with little cracks and small gullies after the monsoon.
+- e.g. A river that floods in September because its bed is full of silt.
+### How to stop soil erosion · *defined*
+**Definition:** Erosion is stopped by covering the soil, slowing the water or the wind, and holding the soil with roots.
+
+Plant trees, because roots hold the soil and leaves soften the rain. Grow grass or leave crop stubble, so the soil is never bare. Plough along the curve of a slope and not up and down it, so each furrow holds water back. Cut a hillside into flat steps called terraces, so water runs slowly from step to step and soaks in. Plant a row of tall trees at the edge of a field, called a windbreak, to slow the wind. Build small walls of stones, called bunds, across a gully, to catch soil and slow the water. Each way works because it slows the water or the wind, or holds the soil.
+- e.g. Rice terraces on hillsides in Kerala, Himachal Pradesh and the north-east of India.
+- e.g. Tea bushes in the Nilgiris planted in rows along the slope.
+- e.g. Rows of trees at the edge of fields in Gujarat, to slow the wind.
+### Why forests matter · *defined*
+**Definition:** Forests clean the air, cool the land, hold the soil, slow the rain and give homes and useful things to many living beings.
+
+Leaves take in carbon dioxide and give out oxygen. A forest is cooler than bare ground, because of its shade and the water vapour that leaves give out. Roots hold the soil, and fallen leaves keep it covered. A forest slows the rain, so water soaks in and reaches streams little by little. This helps stop floods in the monsoon and stops streams drying in summer. Forests are homes for animals, birds and insects. They give people fruit, honey, firewood, bamboo and medicine plants.
+- e.g. A mango grove is cooler at noon than the road beside it.
+- e.g. A stream below a forest keeps flowing in May, but a stream below a bare hill is dry.
+- e.g. Adivasi families gather honey, amla and bamboo from the forest, and they know it well.
 ### People who stood up for forests · *defined*
 **Definition:** Forests hold soil and water, give homes to animals and plants, and give people food, fuel and medicine. Many forests in India were saved by ordinary people, often women.
 
@@ -84,6 +110,13 @@ Most Indian cities get water from rivers, lakes and reservoirs, and from the gro
 - e.g. When 1 millimetre of rain falls on a terrace of 1 square metre, it makes 1 litre of water.
 - e.g. Old tanks called eris in Tamil Nadu, and temple tanks across South India, catch rain and help it soak into the ground.
 - e.g. Water used to wash vegetables can water a potted plant.
+### Everyday habits that protect the environment · *defined*
+**Definition:** Small habits at home and in the street protect soil, water, air and living beings. Many families doing them together make a big difference.
+
+Plant a tree and care for her as she grows. Keep your surroundings clean, and put rubbish in a bin. Put peels and dry leaves in a compost pit. Save water. Sometimes a factory or a neighbour burns plastic or pours dirty water into a drain or river. Tell a grown-up. A grown-up can report it to the local office or the State Pollution Control Board. Use fewer chemicals, such as strong cleaners and sprays. On farms, organic farming grows crops without chemical fertiliser or pesticide. It uses compost, cow dung manure and neem. In 2016 Sikkim became the first state in India to farm all its land this way.
+- e.g. A family puts vegetable peels in a pit, and a few weeks later the tulsi has rich new soil.
+- e.g. A child tells her mother about the smoke from burning plastic near the school, and her mother writes to the ward office.
+- e.g. A farmer sprays neem leaf water instead of a chemical spray on her brinjal plants.
 ### Is it fair to use animals at all? · *debated*
 People in India and everywhere disagree about this, and each side has good reasons. Many families have lived with cows, goats and hens for thousands of years, and care for them well. Others think animals should not be kept to give us things. Most silk is made by boiling the cocoons with the young moth still inside, and some people will not wear it for that reason.
 - e.g. Ahimsa silk, also called peace silk, is made after the moth has come out of the cocoon.
@@ -204,12 +237,43 @@ Before they left, Kavya pulled up a few blades of grass from the field edge, ver
 
 Back in Chennai, Kavya asked Amma for a handful of wheat and a tub of soil. She wanted to see a field grow back on her own balcony.
 
-**For the parent:** For the parent: Kavya worries that the cows will finish the field, because when you cut most plants, that part is gone. But grass grows from the bottom of each leaf, near the soil, so a cow that eats only the top leaves the growing part behind. The goats show the other side: plants that grow from the tip, like bhindi, do not grow back the same way, and animals kept too long in one place eat plants to the roots. Caring for a farm means knowing what each living thing needs, from the buffalo's pond to the grass's time to regrow.
 
-- Ask: Why didn't the cows run out of grass, even though they ate the same field every day?
-- Ask: Why did Athai keep the goats tied and move them every few days?
-- Ask: What did each animal on the farm need from Athai?
-- Ask: Kavya said it wasn't the goats' fault. Do you agree? What could Athai do so the goats and the vegetables both do well?
+## Another story: The Cleaners of the Sky
+**
+
+I am an old vulture now, and I live in a very large cage at Pinjore, at the foot of the hills in Haryana. The cage is as tall as a tree and as long as a cricket ground, with branches to sit on and a pool to drink from. The people who look after me are kind. They feed me clean meat and weigh my eggs and write numbers in a book. But I remember the sky.
+
+When I was young, the sky over Rajasthan was full of us. You could look up on any hot afternoon and see a hundred of us turning on the warm air, round and round, so high that we were only dots, with our wings spread wide and never once flapping. We are white-rumped vultures. People thought we were ugly, with our bare grey heads and our long necks. They thought we were dirty, because of what we eat. But we were the cleaners of the sky.
+
+Here is what we did. When a cow or a buffalo or a camel died, out in the fields or by the road, the people dragged it to the edge of the village. A family there, the leather workers, took the skin to make shoes and drums. Then they stepped back and looked up. And we came. We came down out of the sky like a slow brown rain, dozens of us, and in less than an hour there was nothing left but clean white bones in the sun. The leather workers and the vultures. We were partners, though nobody ever called it that.
+
+A boy called Kishan, whose father was one of those leather workers, used to sit on the wall and watch us. He was not afraid. He gave us names. He called me Badi Amma, because I was the biggest. 'You eat so fast,' he said to me once, 'that the flies don't even get a chance.' I think that was the nicest thing anyone ever said to a vulture.
+
+Then something began to go wrong, and none of us understood it.
+
+One of my sisters sat down on a branch one morning, with her head hanging low, and did not fly. In a few days she was dead. Then another. Then a whole tree of us near the village, where we had nested for as long as anyone remembered, went silent. Each year there were fewer dots in the sky. The ones who lived laid eggs, but often no chicks hatched. I flew further and further looking for my kind, and found fewer and fewer.
+
+Kishan noticed. He was older now, nearly twelve. 'Bapu,' I heard him say, 'where have the gidh gone?'
+
+Without us, the dead animals lay at the edge of the village for days, and then weeks. The smell was terrible. The flies came in clouds. And the dogs came. Stray dogs had always been around, but now there was so much food for them that they had more and more puppies. Soon there were packs of them, thin and quick and quarrelsome, at the dump and in the lanes. Kishan's little sister, Pinky, was bitten on the leg by one of them while she was carrying water. She had to have a whole set of injections in the hospital in town, against rabies, and she cried every time. She was all right in the end. But Kishan sat on the wall that evening for a long time, looking at the empty sky.
+
+It took the scientists years to find out what was killing us. They counted our nests in Bharatpur and found us vanishing. They cut open the bodies of dead vultures and found our kidneys had failed. At last they found the answer, and it was the strangest thing. It was a medicine. Farmers had begun giving their sick cows a painkiller called diclofenac, to help them stand and work when they were old or hurt. It was a kind thing to do for a cow. But when a cow died with the medicine still inside her, and we ate her, the medicine stayed inside us too. For a cow it was a little help. For a vulture, it was poison. A tiny bit, in every meal, from every carcass, and our bodies could not get rid of it.
+
+Nobody had meant to hurt us. That was the hardest part to understand. Nobody had even thought about us at all.
+
+I was one of the last ones they caught, out near Bikaner, a few of us still alive. They brought us here to Pinjore, to keep us safe and to try to raise chicks who might, one day, fly free over a cleaner land. The medicine is banned for animals now. Things are slowly changing.
+
+Last spring, after many years, an egg of mine hatched. The chick is ugly, as all vulture chicks are, grey and fluffy and cross. I feed her and keep her warm. Sometimes, on a hot afternoon, I spread my wings in the cage, and she watches me, puzzled. I am showing her the shape of the sky.
+
+I do not know if she will ever see it full of us again. But I know what we were for. We were not beautiful and we were not loved. We were the end of every story, the ones who came last and made everything clean, so that it could all begin again.
+
+**For the parent:** The old vulture, a creature people call ugly and dirty, shows the child a food web from its least-loved strand. The turn comes when the vultures vanish: carcasses rot, dogs multiply, and Kishan's sister is bitten. The hidden ideas: scavengers and decomposers close the loop of every food web; removing one creature changes everything else; and a poison (a medicine for cows) can travel up a food chain and harm animals no one was thinking about. The quiet lenses: the leather workers and the vultures, both doing the 'dirty' work that kept the village clean, and both rarely thanked; and the question of who is 'useful'.
+
+- Ask: What job did the vultures do? Who else did that job with them?
+- Ask: Why did the dogs and the sickness come when the vultures went?
+- Ask: How did a medicine meant to help cows harm the vultures?
+- Ask: 'Nobody had even thought about us at all.' What does the vulture mean?
+- Ask: Was Badi Amma useful? Was she beautiful? Does it matter?
 
 ## Games
 ### g1 · Four Fields: keep the herd fed without a bare field (20 min)
@@ -409,6 +473,28 @@ Back in Chennai, Kavya asked Amma for a handful of wheat and a tub of soil. She 
   *Child mode:* Say which animal gave each thing. Then say one thing she needs.
   - Ask: What do bees need? (good: Flowers without poison sprays.; Lots of flowers.; A safe place for the hive.)
   - Note: Honeybees make honey from nectar they collect from flowers. Pesticide sprays harm them, so flowers grown without sprays matter.
+### a5 · The Fan Wind Test: does wind blow bare soil away? (20 min)
+- **safety:** Do this outside or beside an open window. Cover your nose and mouth with a cloth, because dry soil dust is not good to breathe. Wash your hands when you finish.
+- **record:** Draw both newspapers and shade where the soil landed. Write which tray lost more soil and why.
+- **s1 (8 min)**  
+  *Parent does:* 1. Spread the soil 1 centimetre deep in both trays. 2. Cover one tray with grass or dry leaves, so no soil shows. 3. Put each tray on its own sheet of newspaper, on the ground outside or by an open window. 4. Cover your nose and mouth with the cloth.  
+  *Parent says:* We will make a small wind. First guess: which tray will lose more soil, the bare one or the one with grass on it? Why?  
+  *Child mode:* Fill both trays with soil. Cover one with grass. Guess which will lose more.
+  - Ask: Which tray do you think will lose more soil, and why? (good: The bare one, because nothing covers the soil.; The one with grass, because it is rougher.)
+  - Note: Let your child guess first and do not correct the guess. The soil must be dry and loose, or the wind will not move it. If your soil is damp, spread it in the sun for an hour.
+- **s2 (7 min)**  
+  *Parent does:* 1. Stand 30 centimetres from the first tray, at the side. 2. Fan the tray 20 times, at the same speed. 3. Do the same to the second tray, from the same distance. 4. Do not blow on the trays with your mouth.  
+  *Parent says:* Fan the bare tray 20 times. Now fan the grass tray 20 times, the same way and from the same place. Do not breathe the dust.  
+  *Child mode:* Fan each tray 20 times from the same place.
+  - Ask: Why must we fan both trays the same number of times, from the same place? (good: So the only difference is the grass.; So the test is fair.)
+  - Note: With 2 to 4 children, one child fans, one counts, and one watches where the soil goes. Swap the jobs between trays only if every child fans the same way.
+- **s3 (5 min)**  
+  *Parent does:* 1. Look at each newspaper. Where did soil land? 2. Compare how much soil was blown off each tray. 3. Draw the two newspapers and shade the soil.  
+  *Parent says:* Which newspaper has more soil on it? What did the grass do to the wind?  
+  *Child mode:* Look at both newspapers. Draw where the soil landed. Say why.
+  - Ask: Which farmers could use this idea, and how? (good: A farmer in a dry place can plant a row of trees, which slows the wind.; A farmer can leave stubble or grass on the field after harvest.)
+  - Note: Usually the bare tray loses far more soil. If both lose little, try fanning from closer, or with drier soil. Then say what the test shows and what it does not: it uses a small fan, and real wind is much stronger.
+  - Check: Why did the covered tray lose less soil? → **The grass slowed the wind near the soil and held it down**
 
 ## Projects
 ### p1 · The Grazing Diary: how often can wheat be cut? (45 min, 15 days)
@@ -458,9 +544,9 @@ Back in Chennai, Kavya asked Amma for a handful of wheat and a tub of soil. She 
   - Think: A forest floor is covered in fallen leaves all year. What does that do in the monsoon?
 
 ## Worksheets
-### Grow Back or Run Out (core) (core, 16 questions)
+### Grow Back or Run Out (core) (core, 19 questions)
 1. (mcq) You cut wheat and moong plants 2 centimetres above the soil. Four days later, which will be taller?  
-   Options: The moong / The wheat / Both the same, 2 centimetres  
+   Options: The wheat / The moong / Both the same, 2 centimetres  
    **Answer:** The wheat. *Why:* Wheat grows from the bottom of each leaf, so the cut leaves keep pushing up. Moong grows from the tip of each stem, and the tips were cut off. Picking 'both the same' means thinking no plant can grow after cutting.
 2. (fill) Using and protecting something carefully, so that it lasts, is called ____.  
    **Answer:** ['conservation']. *Why:* Conservation means taking care that soil, water, forests and animals last. A strong answer could add an example, such as picking a few curry leaves from each branch.
@@ -473,7 +559,7 @@ Back in Chennai, Kavya asked Amma for a handful of wheat and a tub of soil. She 
 6. (write) Why can a cow eat the same field of grass every day without finishing it? Use the words 'growing point' in your answer.  
    **Answer:** A grass leaf's growing point is at the bottom, near the soil. The cow bites off the top and leaves the growing point, so the leaf keeps growing.. *Why:* A strong answer says where the growing point is, and that the cow does not eat the growing point.
 7. (mcq) On a hot afternoon, a buffalo walks into a pond and lies there with only her head showing. Why?  
-   Options: She is looking for fish / She heats up fast and is cooling down / She is washing off milk  
+   Options: She is looking for fish / She is washing off milk / She heats up fast and is cooling down  
    **Answer:** She heats up fast and is cooling down. *Why:* A buffalo has dark skin and few sweat glands, so she gets hot quickly in the sun. Lying in water or mud, called wallowing, cools her. That is why buffaloes need a pond or a shower in summer.
 8. (draw) Draw one cut wheat plant and one cut moong plant, four days after the Cutting Test. Mark with a dot where each plant grows from.  
    **Answer:** The wheat is taller, with flat leaf tips and a dot near the soil. The moong is a short stump, with the dot at the top of the stem, where the tip was cut off.. *Why:* A strong drawing shows the difference in height and puts the growing point low for wheat and at the stem tip for moong.
@@ -496,11 +582,17 @@ Back in Chennai, Kavya asked Amma for a handful of wheat and a tub of soil. She 
    **Answer:** The cow may swallow the bag, which stays in her stomach. *Why:* Cows often swallow the whole bag to get the food. Plastic cannot be digested, so it builds up in the stomach and makes the cow ill. A bin with a lid keeps food waste away from her.
 16. (write) Name two ways your family could save water at home. Say how each one helps.  
    **Answer:** Brushing with a mug instead of a running tap uses a little water, not litres. Fixing a dripping tap stops water being lost all day.. *Why:* A strong answer gives real actions and says what each one saves.
-### Soil, Water and Care (stretch) (stretch, 16 questions)
+17. (sort) Sort each one: does it keep soil in place, or let it wash or blow away?  
+   **Answer:** a hillside covered in grass → Keeps soil; a bare ploughed slope in the monsoon → Loses soil; a row of tall trees at the edge of a field → Keeps soil; steps cut into a hillside → Keeps soil; cutting all the trees on a hill → Loses soil. *Why:* Roots, leaves, steps and windbreaks slow the water or the wind and hold the soil. Bare ground has nothing to stop them.
+18. (fill) A row of tall trees planted at the edge of a field to slow the wind is called a ____.  
+   **Answer:** ['windbreak']. *Why:* A windbreak slows the wind near the ground, so it carries less soil.
+19. (truefalse) A parrot is happy in a small cage if she is given enough food.  
+   **Answer:** False. *Why:* False. A parrot needs to fly and stretch her wings. A small cage hurts her, even when she is fed well.
+### Soil, Water and Care (stretch) (stretch, 20 questions)
 1. (write) Someone says, 'To make grass grow back faster, cut it right down at the soil.' What is wrong with this idea?  
    **Answer:** The growing point of a grass leaf is at the bottom, near the soil. Cutting right at the soil can damage it, and leaves no green to make food. Grass grows back best when some leaf is left.. *Why:* A strong answer uses where the growing point is, and why leaves are needed.
 2. (mcq) Why does a moong stem stop getting taller after its tip is cut off?  
-   Options: Moong grows from the tip of the stem / Moong does not need light / The soil was too wet  
+   Options: Moong does not need light / Moong grows from the tip of the stem / The soil was too wet  
    **Answer:** Moong grows from the tip of the stem. *Why:* Moong makes new stem at the tip, so cutting the tip takes away the growing part. A bud lower down may slowly grow a side shoot. Picking 'too wet' means looking for a cause that was the same for both plants.
 3. (write) Herders in Rajasthan walk their sheep and camels to new places through the year. Why does this help the land?  
    **Answer:** Each place gets time for the plants to grow back before the animals return, so no place is eaten bare.. *Why:* A strong answer links moving to regrowth and to stopping overgrazing.
@@ -516,7 +608,7 @@ Back in Chennai, Kavya asked Amma for a handful of wheat and a tub of soil. She 
 8. (match) Match each word to what it means.  
    **Answer:** Graze → to eat grass and low plants a little at a time; Overgrazing → eating plants faster than they grow back; Groundwater → water that fills the gaps in soil and rock underground; Pollinate → to carry pollen from one flower to another; Wallow → to lie in water or mud to cool down. *Why:* These words come up all through the unit. A strong answer could give an example of each.
 9. (mcq) In a city, roofs and roads cover most of the ground, and the wells are going dry. Why would a rule that every building must catch its rain help?  
-   Options: Rain sent into pits soaks down and refills the groundwater, instead of running into drains / Rain is damaging the roofs / The sea is too full  
+   Options: Rain is damaging the roofs / The sea is too full / Rain sent into pits soaks down and refills the groundwater, instead of running into drains  
    **Answer:** Rain sent into pits soaks down and refills the groundwater, instead of running into drains. *Why:* When the ground is covered by buildings and roads, rain runs into drains. Sending it into pits helps refill the groundwater that wells draw on.
 10. (fill) A honeybee carries pollen from flower to flower while she drinks nectar. This helps the flowers make seeds and fruit. We say the bee ____ the flowers.  
    **Answer:** ['pollinates']. *Why:* To pollinate is to carry pollen between flowers. Many crops, like mangoes and many vegetables, give more fruit when bees visit them.
@@ -527,20 +619,29 @@ Back in Chennai, Kavya asked Amma for a handful of wheat and a tub of soil. She 
 13. (truefalse) A silkworm caterpillar can live well on any kind of leaf.  
    **Answer:** False. *Why:* False. Silkworms eat mulberry leaves and almost nothing else. Silk farmers grow mulberry fields to feed them.
 14. (mcq) Buffaloes are kept out of a bird wetland to protect the nests. But the buffaloes had been eating a tall grass there. What might go wrong?  
-   Options: The grass may spread over the shallow water that water birds need / More birds will come than ever / The water will dry up at once  
+   Options: More birds will come than ever / The water will dry up at once / The grass may spread over the shallow water that water birds need  
    **Answer:** The grass may spread over the shallow water that water birds need. *Why:* The buffaloes kept the grass down. Without them, it can spread over the open water many water birds use. Taking one animal out can change the whole place.
 15. (order) Put the journey of rain in a rainwater harvesting building in order.  
    **Answer:** ['Rain falls on the terrace', 'A pipe carries it to a pit of stones and sand', 'The water soaks into the ground', 'A borewell pumps it up later']. *Why:* The rain is caught high up, led down, soaked into the ground, and used later.
 16. (odd) Three of these protect soil from the rain. Which one is the odd one out?  
    Options: Covering it with dry leaves / Planting trees on slopes / Leaving the field bare / Building steps called terraces on hills  
    **Answer:** 2. *Why:* A bare field has nothing to hold the soil or soften the drops, so the rain washes it away. The other three slow the water or cover the soil.
-### How Much Is Too Much? (challenge) (challenge, 16 questions)
+17. (match) Match each way of stopping erosion to why it works.  
+   **Answer:** Terraces → steps slow the water so it soaks in; A windbreak of trees → slows the wind so less soil blows; Planting grass → roots hold the soil and leaves soften the drops; Ploughing along the curve of a slope → each furrow holds water back; Stone bunds in a gully → catch soil and slow the water. *Why:* Every way works by slowing the water or the wind, or by holding the soil. A strong answer could add a sixth way, such as planting trees.
+18. (write) Write three harmful effects of soil erosion: one for farms, one for rivers and ponds, and one for wells.  
+   **Answer:** Farms give less food, because the best soil has gone. Rivers and ponds fill with silt and hold less water, so floods come more easily. Wells and streams run dry, because rain runs off bare ground and does not soak in.. *Why:* A strong answer links each effect to a cause, such as silt, runoff or the loss of the top layer of soil.
+19. (mcq) A village cuts the forest above its stream. After two monsoons the stream floods, and then it is dry in summer. Why?  
+   Options: The forest used to make the rain stop / Without roots and leaves, rain rushes off instead of soaking in and filling the stream slowly / The stream was always like that  
+   **Answer:** Without roots and leaves, rain rushes off instead of soaking in and filling the stream slowly. *Why:* A forest slows the rain so it soaks in and feeds the stream little by little. Bare ground sends it all down at once, and nothing is stored.
+20. (truefalse) India allows lions and tigers to be used in circuses.  
+   **Answer:** False. *Why:* False. India has banned the use of lions, tigers, bears and monkeys in circuses, because animals made to perform are often beaten and kept in tiny cages.
+### How Much Is Too Much? (challenge) (challenge, 20 questions)
 1. (write) You want to test whether a cover of dry leaves stops soil washing away. Plan a fair test. What will you change, and what will you keep the same?  
    **Answer:** Change only the cover: one tub with dry leaves, one bare. Keep the same soil, the same tilt, and the same amount of water, poured from the same height for the same time.. *Why:* A strong answer changes one thing and lists at least three things kept the same.
 2. (perspective) People argue about whether village buffaloes should graze inside Keoladeo National Park.  
    **Answer:** A strong answer uses what happened after 1982, when the grass spread, and also admits a fair point, such as nests being trampled or too many buffaloes harming the land.. *Why:* This is a real trade-off. The number of animals, and how they are managed, matters.
 3. (mcq) A family mows their lawn very short every two days in May. The lawn turns brown and thin. Why?  
-   Options: The grass has too little leaf left to make food, and uses up its stores / Grass does not grow in May / The mower makes the grass cold  
+   Options: Grass does not grow in May / The grass has too little leaf left to make food, and uses up its stores / The mower makes the grass cold  
    **Answer:** The grass has too little leaf left to make food, and uses up its stores. *Why:* Grass needs leaves to catch sunlight and make food. When grass is cut too often and too short, the plants use up the food stored in their roots. This is like overgrazing.
 4. (write) Why do you think grasses keep their growing points low, near the soil? Think about who eats grass.  
    **Answer:** Cows, goats, deer and insects eat grass all the time. A growing point near the soil is below where teeth bite, so the grass survives being eaten and grows again.. *Why:* A strong answer links where the growing point is to the grass's own problem: being eaten often.
@@ -552,7 +653,7 @@ Back in Chennai, Kavya asked Amma for a handful of wheat and a tub of soil. She 
 7. (draw) Draw a grass leaf just after it is cut, and the same leaf three days later. Use an arrow to show where the new part grew.  
    **Answer:** The second leaf is taller, with the same flat tip, and an arrow at the bottom near the soil showing new leaf added there.. *Why:* A strong drawing keeps the flat cut tip and adds the new growth at the base.
 8. (mcq) The trees on a hillside in the Western Ghats are cut down. In the next monsoon, what will the stream at the bottom of the hill look like?  
-   Options: Clearer than before / Muddier, carrying soil from the bare slope / Just the same  
+   Options: Clearer than before / Just the same / Muddier, carrying soil from the bare slope  
    **Answer:** Muddier, carrying soil from the bare slope. *Why:* Without roots and fallen leaves, the rain washes soil off the slope into the stream. That is soil erosion, and the stream turns brown.
 9. (truefalse) A honeybee that drinks from a flower sprayed with poison can be harmed.  
    **Answer:** True. *Why:* True. Many insect poisons sprayed on crops also harm bees. That is why bees need flowers that have not been sprayed.
@@ -570,7 +671,15 @@ Back in Chennai, Kavya asked Amma for a handful of wheat and a tub of soil. She 
 15. (fill) Water that soaks deep into the ground, which wells and borewells pump up, is called ____.  
    **Answer:** ['groundwater']. *Why:* Groundwater fills the tiny spaces between grains of soil, sand and rock. Rain refills it, if the rain can soak in.
 16. (match) Match each place or movement to its state.  
-   **Answer:** The Appiko movement → Karnataka; Silent Valley → Kerala; Keoladeo National Park → Rajasthan; Kangayam cattle → Tamil Nadu; The Chipko movement → Uttarakhand. *Why:* These are places in this unit where people protected forests, wetlands and animals.
+   **Answer:** The Appiko movement → Karnataka; Silent Valley → Kerala; Keoladeo National Park → Rajasthan; Kangayam cattle → Tamil Nadu; The Chipko movement → Uttarakhand. *Why:* These are places in this lesson where people protected forests, wetlands and animals.
+17. (order) Put these in order to show how a cut forest can lead to a flood.  
+   **Answer:** ['The trees on the hill are cut', 'Rain hits the bare soil and washes it away', 'The river bed fills with silt', 'The river spills over its banks']. *Why:* Without roots and leaves the rain washes the soil away. The soil settles in the river as silt, and the river has less room for water.
+18. (write) A neighbour burns plastic near your school every evening. What could you do, and who could help?  
+   **Answer:** Tell a grown-up at home and at school. A grown-up can talk kindly to the neighbour or report it to the local office or the State Pollution Control Board. We can say why burning plastic is harmful, and offer to take the plastic to a collection point.. *Why:* A strong answer is kind and safe. It asks a grown-up to report, and it gives a fact about why burning plastic harms.
+19. (fill) Soil that water carries away settles in rivers, ponds and dams as mud called ____.  
+   **Answer:** ['silt']. *Why:* Silt fills the river bed and the pond, so they hold less water.
+20. (write) A farmer wants to start organic farming. Explain what it is, and name one thing she will need.  
+   **Answer:** Organic farming grows crops without chemical fertiliser or pesticide. She will need compost or cow dung manure, and neem spray, to feed the soil and protect the plants.. *Why:* A strong answer says what organic farming leaves out and what it uses instead.
 
 ## Videos
 - **Macro Time Lapse of Grass Growing - Example of Intercalary Meristems** (mortrek, 1 min) id `7QKw2_VI-ZM`: A close-up time lapse of cut grass growing back from the base. It shows what the Cutting Test shows, much faster. *Check:* A parent should preview it first.
@@ -579,19 +688,19 @@ Back in Chennai, Kavya asked Amma for a handful of wheat and a tub of soil. She 
 
 ## Quiz
 1. (mcq) Which animal gives people silk?  
-   Options: The honeybee / The silkworm caterpillar / The sheep  
+   Options: The silkworm caterpillar / The honeybee / The sheep  
    **Answer:** The silkworm caterpillar. *Why:* Silk is the thread a silkworm caterpillar spins to make her cocoon. Bees give honey, and sheep give wool.
 2. (mcq) You cut the top off lawn grass and the top off a tulsi plant. Which one grows taller again from the same leaf or stem?  
-   Options: The tulsi / The grass / Neither  
+   Options: The tulsi / Neither / The grass  
    **Answer:** The grass. *Why:* Grass grows from the bottom of the leaf, so the cut leaf keeps growing. Tulsi grows from the tips of their stems, so they make new side shoots instead.
 3. (mcq) What is overgrazing?  
    Options: Animals eating plants faster than they grow back / Animals eating only the tops of grass / Planting too much grass  
    **Answer:** Animals eating plants faster than they grow back. *Why:* Overgrazing leaves the ground bare. Eating only the tops, slowly, lets grass grow back.
 4. (mcq) In the Cutting Test, why do we measure 3 wheat plants and not just 1?  
-   Options: One plant might be odd / Three is a lucky number / Wheat grows in threes  
+   Options: Three is a lucky number / One plant might be odd / Wheat grows in threes  
    **Answer:** One plant might be odd. *Why:* One plant might be weak or damaged. Measuring three shows what most plants do.
 5. (mcq) Which of these is conservation?  
-   Options: Picking a few curry leaves from each branch, so the plant grows more / Cutting the whole curry leaf plant at once / Pulling the plant out by the roots  
+   Options: Cutting the whole curry leaf plant at once / Picking a few curry leaves from each branch, so the plant grows more / Pulling the plant out by the roots  
    **Answer:** Picking a few curry leaves from each branch, so the plant grows more. *Why:* Conservation is taking in a way that lets the plant keep growing. Taking everything leaves nothing to grow back.
 6. (mcq) Arjun brushes his teeth with the tap running. His sister Priya uses a mug of water. Who uses less water?  
    Options: Arjun / Priya / They use the same  
@@ -600,16 +709,16 @@ Back in Chennai, Kavya asked Amma for a handful of wheat and a tub of soil. She 
    Options: The grass grows tall and spreads over the open water / Too much rain falls / The birds plant more grass  
    **Answer:** The grass grows tall and spreads over the open water. *Why:* The buffaloes had kept the grass short. Without them, it grows over the open water. This happened at Keoladeo after 1982.
 8. (mcq) Why does soil under grass wash away less than bare soil?  
-   Options: Roots hold it, and leaves soften the drops / Grass makes the rain lighter / Grass soil is heavier  
+   Options: Grass makes the rain lighter / Roots hold it, and leaves soften the drops / Grass soil is heavier  
    **Answer:** Roots hold it, and leaves soften the drops. *Why:* Roots grip the soil grains, and leaves stop the drops hitting the soil hard.
 9. (mcq) What does a hen need to stay healthy?  
    Options: A dry, clean coop / A deep pond / Mulberry leaves  
    **Answer:** A dry, clean coop. *Why:* Damp and dirt bring disease to hens. Ponds are for buffaloes, and mulberry leaves are for silkworms.
 10. (mcq) In a city, why does less rain soak into the ground?  
-   Options: Roads and buildings cover the soil / City rain is heavier / City soil is full of water  
+   Options: City rain is heavier / City soil is full of water / Roads and buildings cover the soil  
    **Answer:** Roads and buildings cover the soil. *Why:* Rain runs off roads and roofs into drains. Rainwater harvesting sends it back into the ground.
 11. (mcq) Why do many countries, India among them, have laws against beating, starving or neglecting animals?  
-   Options: Animals feel pain and need care, and they cannot speak up for themselves / To stop people keeping cows / So anyone can keep wild animals  
+   Options: To stop people keeping cows / Animals feel pain and need care, and they cannot speak up for themselves / So anyone can keep wild animals  
    **Answer:** Animals feel pain and need care, and they cannot speak up for themselves. *Why:* Animals can suffer, so the law protects them from cruelty. People may keep animals, but must care for them.
 12. (mcq) In the Bare Tub Test, what must be the same for both tubs?  
    Options: The soil, the tilt and the amount of water / The plants / Nothing  
@@ -617,6 +726,33 @@ Back in Chennai, Kavya asked Amma for a handful of wheat and a tub of soil. She 
 13. (mcq) Where is the growing point of a grass leaf?  
    Options: At the bottom, near the soil / At the tip / In the roots only  
    **Answer:** At the bottom, near the soil. *Why:* The new leaf is made at the bottom and pushes up. That is why the cut tips stay flat as the leaf grows.
+14. (mcq) Why can erosion on a bare hillside make floods worse in the river below?  
+   Options: Soil makes the rain heavier / Silt fills the river bed, so it holds less water and spills over / Erosion makes the monsoon last longer  
+   **Answer:** Silt fills the river bed, so it holds less water and spills over. *Why:* The washed-away soil settles in the river as silt. With less room, the river spills over its banks more easily.
+15. (mcq) Why do farmers on a hillside cut flat steps called terraces?  
+   Options: The steps make the hill taller / The steps keep the plants from growing / The steps slow the water so it soaks in and carries less soil  
+   **Answer:** The steps slow the water so it soaks in and carries less soil. *Why:* On a steep slope water rushes down and drags soil with it. On steps it slows down and soaks into the ground.
+16. (mcq) A row of tall trees stands at the edge of a dry field. How does it protect the soil?  
+   Options: It makes rain fall / It makes the soil heavier / It slows the wind, so less soil blows away  
+   **Answer:** It slows the wind, so less soil blows away. *Why:* Wind picks up dry, bare soil. A windbreak slows the wind near the ground, so it carries less.
+17. (mcq) How does a forest help to stop both floods and dry streams?  
+   Options: The trees drink all the rain / Roots and leaves slow the rain, so it soaks in and reaches streams slowly / The trees make the rain stop  
+   **Answer:** Roots and leaves slow the rain, so it soaks in and reaches streams slowly. *Why:* In a forest, rain soaks into the soil and comes out slowly in streams. On bare ground it rushes away at once.
+18. (mcq) Why is a forest cooler than bare ground nearby?  
+   Options: Forests are always higher up / Trees make the sun weaker / Shade, and the water vapour that leaves give out  
+   **Answer:** Shade, and the water vapour that leaves give out. *Why:* Leaves block sunlight, and they also give out water vapour, which cools the air around them.
+19. (mcq) Why do many families respect cows, buffaloes and goats?  
+   Options: They never need food or water / They give milk, curd and company, and need care every day / They are bigger than people  
+   **Answer:** They give milk, curd and company, and need care every day. *Why:* These animals give a lot to a family and depend on the family for food, water and shade. Respect means caring for them every day.
+20. (mcq) Which animal helps people by carrying loads across the sand in the Thar desert?  
+   Options: A silkworm / A honeybee / A camel  
+   **Answer:** A camel. *Why:* Camels are strong and can walk far in the desert. A silkworm gives silk, and a honeybee gives honey.
+21. (mcq) Why is a small cage bad for a bird?  
+   Options: Birds are made to fly, and a small cage hurts her / Birds like to be alone / Birds do not need food in a cage  
+   **Answer:** Birds are made to fly, and a small cage hurts her. *Why:* A bird's body is made for flying. In a small cage she cannot stretch her wings, and she can become ill and unhappy.
+22. (mcq) What does organic farming leave out?  
+   Options: Water and sunlight / Seeds / Chemical fertiliser and pesticide  
+   **Answer:** Chemical fertiliser and pesticide. *Why:* Organic farming uses compost, cow dung manure and neem. Every farm still needs seeds, water and sunlight.
 
 ## Applications
 - Lawns, playgrounds and cricket grounds can be mowed every week because grass grows from the base.
@@ -634,10 +770,10 @@ Back in Chennai, Kavya asked Amma for a handful of wheat and a tub of soil. She 
 - A lawn or a park ground, green again a week after mowing.
 - A pipe from a terrace going into a covered pit in the ground beside a building.
 - Brown, muddy water in a drain after heavy rain, carrying soil from bare ground.
-- Painted horns and garlands on cattle at Mattu Pongal in Tamil Nadu.
+- Painted horns and garlands on cattle at Mattu Pongal.
 - Bees on the flowers of a drumstick tree, a mango tree or a pot of tulsi.
 - A water bowl for street dogs or birds outside a shop in summer.
-- Temple tanks and old village tanks, called eris in Tamil Nadu, full after the monsoon.
+- Temple tanks and old village tanks full after the monsoon.
 
 ## Open questions
 - **How many animals can a field or a hill feed for ever without being harmed?** It depends on the rain, the soil, the plants and the animals, and it changes from year to year. Scientists still argue about how to measure it.
@@ -681,13 +817,21 @@ Leave the Part That Grows (sci.environment.L3): Topic-level song for Caring for 
 ## Links
 - [India Water Portal](https://www.indiawaterportal.org) · interactive: For the parent. Articles and maps about water in India, including rainwater harvesting in cities.
 - [Keoladeo National Park, on the UNESCO World Heritage list](https://whc.unesco.org/en/list/340/) · place · Bharatpur, Rajasthan: The bird wetland in the how-we-found-out story. Winter, from October to February, is the best time for birds.
-- [Rain Centre, Chennai]() · place · Chennai: A small centre that shows how rainwater harvesting works in a city home. Check opening times before you go.
-- [Silent Valley National Park]() · place · Palakkad district, Kerala: The rainforest saved from a dam by a people's campaign. Visits are by forest department permit from Mukkali.
-- [Any dairy or goshala near you]() · place · Most towns: See how cows and buffaloes are fed, cooled and kept clean. Ask before visiting.
+- Rain Centre, Chennai · place · Chennai: A small centre that shows how rainwater harvesting works in a city home. Check opening times before you go.
+- Silent Valley National Park · place · Palakkad district, Kerala: The rainforest saved from a dam by a people's campaign. Visits are by forest department permit from Mukkali.
+- Any dairy or goshala near you · place · Most towns: See how cows and buffaloes are fed, cooled and kept clean. Ask before visiting.
 
 ## Things to buy
 - [Whole wheat grains, about 100 grams]() (material): For the Cutting Test. Any grocery shop sells whole wheat. Atta and dalia will not sprout. Used in e1, e2, e3, p1. 
 - [A small bag of potting soil, about 5 kilograms](https://www.amazon.in/s?k=potting+soil+5kg) (material): Only if you have no potted plant to borrow soil from. Nurseries and garden shops sell it. Used in e1, e3, c1. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in Rain Gauge: how much rain falls on our home?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in a3. Get it before Rain Gauge: how much rain falls on our home?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Cutting Test: what grows back, wheat or moong?, The Dot Test: does a wheat leaf grow at the top or the bottom?, The Onion Test: where does a cut leaf grow from?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, a1, a3, p1. Get it before The Cutting Test: what grows back, wheat or moong?.
+- [Small torch bulbs or LEDs with a holder](https://www.amazon.in/s?k=torch+bulb+holder+set) (tool): Used in The Onion Test: where does a cut leaf grow from?. About ₹10 to ₹50. A small torch can be taken apart for its bulb. Used in a1. Get it before The Onion Test: where does a cut leaf grow from?.
+- [Wooden ice-cream sticks (a pack)](https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack) (material): Used in The Cutting Test: what grows back, wheat or moong?, Save the Slope. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in. Used in e1, c1. Get it before The Cutting Test: what grows back, wheat or moong?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Cutting Test: what grows back, wheat or moong?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1. Get it before The Cutting Test: what grows back, wheat or moong?.
+- [A measuring jug or syringe (marked in millilitres)](https://www.amazon.in/s?k=measuring+jug+500+ml) (tool): Used in The Drip Count: how much water does a dripping tap waste?. About ₹30 to ₹100. A clean medicine cup or marked bottle works. Used in a2. Get it before The Drip Count: how much water does a dripping tap waste?.
+- [Marbles (a few)](https://www.amazon.in/s?k=glass+marbles+pack) (material): Used in Rain Gauge: how much rain falls on our home?. About ₹10 to ₹40. Small round stones or dried chana. Used in a3. Get it before Rain Gauge: how much rain falls on our home?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Where does a grass leaf grow from? → The bottom, near the soil.
@@ -701,7 +845,7 @@ Leave the Part That Grows (sci.environment.L3): Topic-level song for Caring for 
 
 ## Plan
 - Start options: intro, story, e1, a1, g1, big_questions, cards
-- Default order: intro → a1 → e1 → story → summary → terms → explanations → e2 → g1 → videos → ws-core → e3 → g2 → a4 → agreed → challenging → a2 → a3 → p1 → c1 → ws-stretch → big_questions → ws-challenge → open_questions → quiz
+- Default order: intro → a1 → e1 → story → summary → terms → explanations → e2 → g1 → videos → ws-core → e3 → g2 → a4 → agreed → challenging → a2 → a3 → p1 → c1 → a5 → ws-stretch → big_questions → ws-challenge → open_questions → quiz
 - Core: a1, e1, e2, e3, g1, ws-core, a4
 
 ## Sources

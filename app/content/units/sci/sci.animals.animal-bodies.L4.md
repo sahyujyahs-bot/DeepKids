@@ -1,9 +1,9 @@
 # Why a camel has a hump, a woodpecker a hard head and an octopus no bones
 `sci.animals.animal-bodies.L4`
 
-**Summary.** Why does a camel carry its fat in one hump, and an octopus have no bones? In this unit you will test with ice where fat works best, test why a wide foot does not sink in sand, squeeze a soft body through small holes, and play a card game.
+**Summary.** Why does a camel carry its fat in one hump, and an octopus have no bones? In this lesson you will test with ice where fat works best, test why a wide foot does not sink in sand, squeeze a soft body through small holes, and play a card game.
 
-**Intro.** *A camel can walk for days across the Thar desert without a drink. On her back she carries a big hump. Most people say the hump is full of water. Is that true?* Before you read on, guess what is inside the hump. Is it water, fat, muscle or air? Say your guess and the reason for it. Now think of two more animals with a part that looks odd. A woodpecker has a pointed beak and bangs it on wood all day. An octopus has soft arms and no bones. Each odd part is a clue to a problem that animal has to solve to stay alive. In this unit you find the problems, test two of them with ice and dough, and discover that every answer has a price.
+**Intro.** *A camel can walk for days across the Thar desert without a drink. On her back she carries a big hump. Most people say the hump is full of water. Is that true?* Before you read on, guess what is inside the hump. Is it water, fat, muscle or air? Say your guess and the reason for it. Now think of two more animals with a part that looks odd. A woodpecker has a pointed beak and bangs it on wood all day. An octopus has soft arms and no bones. Each odd part is a clue to a problem that animal has to solve to stay alive. In this lesson you find the problems, test two of them with ice and dough, and discover that every answer has a price.
 
 ## Learning outcomes
 0. I can explain that an odd body part is an answer to a problem in the animal's way of life, and name the problem and one price for the camel's hump, the woodpecker's head and the octopus's soft body.
@@ -32,20 +32,30 @@
 - **Natural selection**: When animals with a helpful difference survive and have more young than others, so that the difference becomes common over many generations. *e.g.* Calves with broader pads walked farther on sand, lived longer and left more young.
 - **Convergent evolution**: When two kinds of animals that are not close relatives end up with a similar body part because they faced a similar problem. *e.g.* Octopuses and humans both have eyes with a lens, but their eyes grew separately.
 - **Camouflage**: Colour or shape that makes an animal hard to see against her background. *e.g.* An octopus on a reef turns the colour and pattern of the rock beside her.
+- **Herbivore**: An animal that eats only plants. *e.g.* A cow eats grass and leaves.
+- **Carnivore**: An animal that eats only other animals. *e.g.* A tiger eats deer.
+- **Omnivore**: An animal that eats both plants and animals. *e.g.* A crow eats grain and insects.
 
 ## Explanations
 ### Every odd body part answers a problem · *defined*
 **Definition:** An adaptation is a feature of a body that helps an animal survive and have young in the place and the way she lives.
 
-An animal has to solve the same few problems every day. She must get food, get water, get oxygen, move around, stay at the right temperature and stay safe. Each place sets these problems in a different way. A dune is hot and soft and short of water. A tree trunk is straight and hard, and food hides inside it. A reef has many cracks and many hungry fish. So the body parts of animals in these places are different. The way to understand an odd part is to ask three questions. What problem does it solve? How does it solve it? What does it cost? We use these three questions all through this unit. Humans are animals too. Our feet, hands and backbone are answers as well, and they also have prices.
+An animal has to solve the same few problems every day. She must get food, get water, get oxygen, move around, stay at the right temperature and stay safe. Each place sets these problems in a different way. A dune is hot and soft and short of water. A tree trunk is straight and hard, and food hides inside it. A reef has many cracks and many hungry fish. So the body parts of animals in these places are different. The way to understand an odd part is to ask three questions. What problem does it solve? How does it solve it? What does it cost? We use these three questions all through this lesson. Humans are animals too. Our feet, hands and backbone are answers as well, and they also have prices.
 - e.g. A camel's hump keeps fat for lean times.
 - e.g. A woodpecker's stiff tail props her against a trunk.
 - e.g. An octopus's soft body squeezes into a crack to hide.
+### Teeth and stomachs fit what an animal eats · *defined*
+**Definition:** A herbivore eats only plants. A carnivore eats only other animals. An omnivore eats both plants and animals.
+
+A cow has flat back teeth that grind grass and leaves, and a stomach with four parts that breaks down the tough plant food. A tiger has long, sharp teeth that hold and tear meat. A human has flat back teeth for chewing rice, dal and roti, and sharp front teeth for biting fruit and fish. Each animal's teeth and stomach are an answer to the food she eats.
+- e.g. A goat's flat back teeth grind leaves before she swallows them.
+- e.g. A tiger's long, sharp teeth hold a deer while she tears the meat.
+- e.g. A crow eats grain, insects and scraps, so she is an omnivore.
 ### The camel's hump holds fat, not water · *defined*
 **Definition:** A camel's hump is a lump of fat under the skin. The camel uses the fat as a store of energy when food is hard to find.
 
 The hump of a big dromedary camel can hold up to about 30 kilograms of fat. When the camel finds little to eat, her body slowly uses the fat, and the hump shrinks and flops to one side. When she eats well again, the hump fills out. Fat is a good store because it holds about twice as much energy as the same weight of sugar. Why is it all in one lump? Fat also works like a blanket, and a thick blanket all over would trap the heat inside her body. By keeping the fat on her back, the camel leaves the rest of her skin thin, so the heat can leave. The lump on top may also shade her back from the Sun. Burning fat does make a little water, but it also needs more breathing, and breathing loses water. So the hump is a food store, not a water tank.
-- e.g. In the Ice Test in this unit, the same cloth keeps ice cold when it is wrapped all around the block, but not when it is in one lump on top.
+- e.g. In the Ice Test in this lesson, the same cloth keeps ice cold when it is wrapped all around the block, but not when it is in one lump on top.
 - e.g. A thin, hungry camel has a small hump that flops. A well-fed camel has a firm, tall hump.
 - e.g. A Bactrian camel, from the cold deserts of Central Asia, has two humps and a thick winter coat.
 ### How a camel saves water · *defined*
@@ -82,7 +92,7 @@ A woodpecker's head stops very suddenly each time it hits the wood. A hit like t
 
 An octopus has no skeleton, so she can squeeze her whole body through any gap that is wider than her beak. She uses this to hide in cracks and to open shells and jars. She has two ways to move. Most of the time she crawls over the sea floor on her arms, which is slow but uses little energy. When she is in danger, she fills her mantle with water and squeezes it out through a funnel. The water jets backwards, and she shoots away. The same mantle space holds her gills, and she breathes through it. Her blood is blue, because it carries oxygen with copper instead of iron. Two of her three hearts push blood through the gills, and the third pushes it round the body. Her arms are lined with suckers that can taste what they touch.
 - e.g. A common octopus can squeeze through a hole not much bigger than her beak.
-- e.g. In the Squeeze Test in this unit, a soft dough ball passes through a small hole, and a hard ball of the same size cannot.
+- e.g. In the Squeeze Test in this lesson, a soft dough ball passes through a small hole, and a hard ball of the same size cannot.
 - e.g. An octopus can drill through a shell and then eat the soft animal inside.
 ### Every part has a price · *defined*
 **Definition:** A trade-off is a deal in which getting one gain means paying a cost somewhere else.
@@ -482,12 +492,12 @@ Gauri stroked Bhuri's neck. 'The same foot,' she said. 'It is good for sand and 
   - Note: A good design is not a perfect one. It is one where the child can say honestly where it fails. Two to four children: all pick the same place, design alone, then swap drawings and look for each other's trouble spots.
 
 ## Worksheets
-### Core worksheet: problem, part and price (core, 16 questions)
+### Core worksheet: problem, part and price (core, 17 questions)
 1. (mcq) What is the best way to start understanding an odd body part?  
-   Options: Ask what problem it solves and what it costs / Ask what colour it is / Ask whether the animal likes it  
+   Options: Ask what colour it is / Ask what problem it solves and what it costs / Ask whether the animal likes it  
    **Answer:** Ask what problem it solves and what it costs. *Why:* An odd part is usually an answer to a problem in the animal's way of life, and every answer has a price. Colour and liking do not tell you what the part is for.
 2. (mcq) What is inside a camel's hump?  
-   Options: Fat / Water / Air  
+   Options: Water / Air / Fat  
    **Answer:** Fat. *Why:* The hump is a lump of fat, which the camel uses for energy when food is scarce. Many people think it is water, but when camels were studied, the water they lost came from their whole body.
 3. (truefalse) The same amount of fat keeps heat in better when it is spread all over a body than when it is lumped in one place.  
    **Answer:** True. *Why:* True. When the fat is in one lump, heat can escape from the rest of the body. In the Ice Test, the cloth wrapped all around slowed the melting. The cloth lumped on top did little, because the sides were open.
@@ -495,39 +505,41 @@ Gauri stroked Bhuri's neck. 'The same foot,' she said. 'It is good for sand and 
    **Answer:** ['area']. *Why:* Pressure is weight divided by area. A bigger area shares the same weight over more ground, so each small patch is pushed less. This is why a camel's wide foot sinks less in sand.
 5. (match) Match each animal part to its job.  
    **Answer:** Camel's wide pad → Floats on soft sand; Woodpecker's stiff tail → Props her against a trunk; Octopus's funnel → Squirts out a jet of water; Octopus's beak → The only big hard part she has. *Why:* Each part answers a problem. The pad spreads the camel's weight. The tail works like a third foot. The funnel gives a jet to push the octopus forward. The beak sets the size of the smallest gap she can pass.
-6. (sort) Sort each body part by the problem it helps to solve.  
+6. (sort) Sort each animal by what it eats, using its teeth and stomach as clues.  
+   **Answer:** a cow, with flat back teeth and a stomach with four parts → Only plants; a tiger, with long, sharp teeth for tearing meat → Only other animals; a human, with flat back teeth and sharp front teeth → Both plants and animals. *Why:* A cow's flat teeth grind plants, and her stomach breaks them down. A tiger's sharp teeth hold meat. A human has both kinds of teeth, so a human eats both.
+7. (sort) Sort each body part by the problem it helps to solve.  
    **Answer:** fat kept in one hump, so the rest of the skin is thin → Staying cool; a camel's wide pad → Moving over soft ground; a duck's webbed foot on mud → Moving over soft ground; a woodpecker's chisel beak → Getting food from wood; a woodpecker's sticky tongue → Getting food from wood; a camel's temperature rising by day → Staying cool. *Why:* Each part has a main job. Fat in a hump leaves bare skin to lose heat. Wide and webbed feet spread weight. A beak and a tongue work together to get food from wood. Letting the body warm up saves sweating.
-7. (order) Put these in order to show how wide pads could become common in camels.  
+8. (order) Put these in order to show how wide pads could become common in camels.  
    **Answer:** ['Some calves are born with slightly wider pads', 'On soft sand, those calves walk farther and find more food', 'They live longer and have more calves', 'Their calves inherit the wide pads', 'After many generations, wide pads are normal']. *Why:* The small difference comes first. Survival and having young then make it more common, one generation at a time. No camel grew wider pads because she needed them.
-8. (odd) Which one is not true of an octopus, and why? Three hearts, blue blood, bones, a beak.  
+9. (odd) Which one is not true of an octopus, and why? Three hearts, blue blood, bones, a beak.  
    **Answer:** Bones, because an octopus has no bones. The other three are true of an octopus.. *Why:* An octopus has no skeleton. Her only big hard part is her beak. She has three hearts and blue blood, which carries oxygen with copper.
-9. (count) A square foot is 2 centimetres on each side. A bigger square foot is 4 centimetres on each side. How many times as big is the area of the bigger foot?  
+10. (count) A square foot is 2 centimetres on each side. A bigger square foot is 4 centimetres on each side. How many times as big is the area of the bigger foot?  
    **Answer:** 4. *Why:* The small foot has an area of 2 times 2, which is 4 square centimetres. The big foot has 4 times 4, which is 16 square centimetres. 16 divided by 4 is 4. Doubling the width makes the area 4 times as big.
-10. (write) A friend says, 'A camel's hump is full of water, because camels live in the desert.' What would you say to your friend? Give a reason.  
+11. (write) A friend says, 'A camel's hump is full of water, because camels live in the desert.' What would you say to your friend? Give a reason.  
    **Answer:** The hump is fat, not water. The camel uses the fat for energy when food is short. Her real water-saving tricks are letting her body warm up so she sweats less, and catching water from her breath.. *Why:* A strong answer says that the hump is fat, and gives at least one reason or piece of evidence. It may also say how a camel really saves water.
-11. (draw) Draw one camel with fat spread all over her body, and one camel with her fat in a hump. Draw arrows for heat leaving each one.  
+12. (draw) Draw one camel with fat spread all over her body, and one camel with her fat in a hump. Draw arrows for heat leaving each one.  
    **Answer:** Two camels. The first has a thick layer all around with few or no arrows. The second has a hump on her back and arrows leaving her bare sides.. *Why:* A strong drawing shows that heat leaves through the thin skin on the sides of the camel with a hump, and is held in by the thick layer on the other camel.
-12. (mcq) How does a woodpecker keep from falling backwards while she clings to a trunk?  
+13. (mcq) How does a woodpecker keep from falling backwards while she clings to a trunk?  
    Options: Her stiff tail props her like a third foot / She glues herself to the bark / She holds her breath  
    **Answer:** Her stiff tail props her like a third foot. *Why:* A woodpecker leans on her stiff tail, and her toes grip with two forward and two back. Together they hold her tight against the trunk.
-13. (truefalse) An octopus can pass through any gap that is wider than her beak.  
+14. (truefalse) An octopus can pass through any gap that is wider than her beak.  
    **Answer:** True. *Why:* True. The beak is her only big hard part. The rest of her body is soft, so it squeezes through. This is why octopuses escape from jars and tanks.
-14. (write) Choose any animal, including a human. Name one body part, the problem it solves and one price it has.  
+15. (write) Choose any animal, including a human. Name one body part, the problem it solves and one price it has.  
    **Answer:** A giraffe's long neck helps her reach high leaves. The price is that she needs a very strong heart to push blood up to her head. Or: a human's upright back frees the hands, and the price is backache.. *Why:* A strong answer names a real part, a real problem and a real price. The price may be a cost, or a place where the part does not work.
-15. (fill) A woodpecker's tongue is long and ____, so insects stick to it.  
+16. (fill) A woodpecker's tongue is long and ____, so insects stick to it.  
    **Answer:** ['sticky']. *Why:* The tip is also barbed. This lets her pull insects out of narrow tunnels in wood.
-16. (mcq) Which of these works for the same reason as a camel's wide foot?  
+17. (mcq) Which of these works for the same reason as a camel's wide foot?  
    Options: A snowshoe / A sharp nail / A knife blade  
    **Answer:** A snowshoe. *Why:* A snowshoe is wide, so it spreads a person's weight over more snow, and the snow holds. A nail and a knife do the opposite. They put all the push on a tiny patch.
 ### Stretch worksheet: gains, costs and different answers (stretch, 15 questions)
 1. (mcq) In an ice test, a block with cloth all around melts least. A block with the same cloth lumped on top melts almost as much as a bare block. What does this show?  
-   Options: Insulation helps only where it covers / Cloth makes ice melt faster / Cloth on top works better than cloth all around  
+   Options: Cloth makes ice melt faster / Cloth on top works better than cloth all around / Insulation helps only where it covers  
    **Answer:** Insulation helps only where it covers. *Why:* Heat reaches the block through the parts that stay bare. A lump on the top does little for the sides. This is why a camel's fat in a hump does not trap the heat of her whole body.
 2. (mcq) Why does a camel's temperature rising by day save her water?  
-   Options: A body allowed to warm up does not need to sweat as much / A hot body drinks less / Sweat is cooler when the body is hotter  
+   Options: A hot body drinks less / A body allowed to warm up does not need to sweat as much / Sweat is cooler when the body is hotter  
    **Answer:** A body allowed to warm up does not need to sweat as much. *Why:* Sweating cools the body but loses water. If a camel lets her body warm up, she needs less sweating, so she saves water.
 3. (mcq) A giraffe stretches her neck all her life. Will her calf have a longer neck because of that?  
-   Options: No, a calf inherits only what her mother was born with / Yes, stretching passes on to the calf / Yes, but only a little  
+   Options: Yes, stretching passes on to the calf / No, a calf inherits only what her mother was born with / Yes, but only a little  
    **Answer:** No, a calf inherits only what her mother was born with. *Why:* What an animal does in her life does not change what she passes on. Giraffe necks became long because longer-necked giraffes in each generation reached more food and had more young.
 4. (truefalse) In warm water, an octopus's blue blood carries more oxygen than red blood does.  
    **Answer:** False. *Why:* False. The copper-based blue blood works well in cold water with little oxygen, but it carries less oxygen than red blood in warm water. This is one of the prices of being an octopus.
@@ -561,7 +573,7 @@ Gauri stroked Bhuri's neck. 'The same foot,' she said. 'It is good for sand and 
    Options: The tyre touches the sand over a bigger patch, so the pressure is smaller / The tractor gets lighter / The sand gets harder  
    **Answer:** The tyre touches the sand over a bigger patch, so the pressure is smaller. *Why:* A softer tyre flattens where it meets the ground, so the same weight is shared over a bigger patch. The tractor has the same weight, and the sand is not changed.
 3. (mcq) A study with high-speed video of woodpeckers found that the head acts like a stiff hammer. Which idea does this study cast doubt on?  
-   Options: That the skull works mainly as a shock absorber / That woodpeckers hit trees / That woodpeckers have beaks  
+   Options: That woodpeckers hit trees / That woodpeckers have beaks / That the skull works mainly as a shock absorber  
    **Answer:** That the skull works mainly as a shock absorber. *Why:* The older idea says the skull and tongue bones take up most of the knock. The video study suggests the head passes most of its energy into the wood instead. Scientists are still testing both.
 4. (truefalse) An animal that needs a new body part will grow it during her lifetime.  
    **Answer:** False. *Why:* False. Needing a part does not make it appear. Small differences already exist in each generation, and the animals with helpful ones survive and have more young.
@@ -595,25 +607,25 @@ Gauri stroked Bhuri's neck. 'The same foot,' she said. 'It is good for sand and 
 
 ## Quiz
 1. (mcq) A bird has a very long, thin, curved beak. What should you ask first?  
-   Options: What problem does this beak solve? / How old is the bird? / What is her favourite colour?  
+   Options: How old is the bird? / What is her favourite colour? / What problem does this beak solve?  
    **Answer:** What problem does this beak solve?. *Why:* An odd part is an answer to a problem in the animal's way of living. Asking about the problem leads you to the food, the place and the price.
 2. (mcq) A camel keeps her fat in one hump, not all over her body. What is the best reason?  
-   Options: The rest of her skin stays thin, so her body heat can leave / Fat is too heavy to spread out / Fat only grows on the back  
+   Options: Fat is too heavy to spread out / The rest of her skin stays thin, so her body heat can leave / Fat only grows on the back  
    **Answer:** The rest of her skin stays thin, so her body heat can leave. *Why:* Fat is insulation. A layer all over would trap her heat, and she would have to sweat more and lose water.
 3. (mcq) A thin, hungry camel's hump flops to one side. What does this tell you?  
    Options: Her body has been using up the fat in it / The hump was full of water and it leaked / She has grown a new hump  
    **Answer:** Her body has been using up the fat in it. *Why:* The hump is a store of fat. When food is scarce, her body uses it up and the hump shrinks and flops. It is not a tank of water.
 4. (mcq) The same weight stands on a narrow foot and on a wide foot on soft dough. Which sinks deeper, and why?  
-   Options: The narrow foot, because the same weight is on a smaller patch / The wide foot, because it is bigger / Both sink the same, because the weight is the same  
+   Options: The wide foot, because it is bigger / Both sink the same, because the weight is the same / The narrow foot, because the same weight is on a smaller patch  
    **Answer:** The narrow foot, because the same weight is on a smaller patch. *Why:* Pressure is weight divided by area. The narrow foot puts all the weight on a smaller area, so each small patch is pushed harder.
 5. (mcq) A camel's wide foot floats on sand. What is a likely price?  
-   Options: It slips on wet clay / It makes her too light / It stops her from running  
+   Options: It makes her too light / It slips on wet clay / It stops her from running  
    **Answer:** It slips on wet clay. *Why:* A wide pad shares her weight on soft ground, but on slippery clay it has little grip. Every good part is good for one kind of place.
 6. (mcq) Why do most woodpeckers have two toes pointing backwards?  
-   Options: To grip a straight trunk / To swim / To scratch the ground for seeds  
+   Options: To swim / To scratch the ground for seeds / To grip a straight trunk  
    **Answer:** To grip a straight trunk. *Why:* Two toes forward and two back make a strong clamp on a trunk. Her stiff tail props her at the same time.
 7. (mcq) What do scientists say about how a woodpecker's head survives the hits?  
-   Options: They are still testing whether the skull absorbs the shock or acts like a stiff hammer / It is settled that the head has a built-in cushion / It is settled that her brain is never hurt  
+   Options: It is settled that the head has a built-in cushion / They are still testing whether the skull absorbs the shock or acts like a stiff hammer / It is settled that her brain is never hurt  
    **Answer:** They are still testing whether the skull absorbs the shock or acts like a stiff hammer. *Why:* Older books said she has a shock absorber, but a video study in 2022 found the head works more like a stiff hammer. The question is still open, and we can say so.
 8. (mcq) How does an octopus move away fast from danger?  
    Options: She squirts water out of her funnel and shoots the other way / She flaps her wings / She runs on her bones  
@@ -622,14 +634,17 @@ Gauri stroked Bhuri's neck. 'The same foot,' she said. 'It is good for sand and 
    Options: She has no bones, so only her beak is hard / She is made of water / She can shrink her beak  
    **Answer:** She has no bones, so only her beak is hard. *Why:* The beak is the one big hard part. The rest of her body is soft and flows through any gap that the beak can pass.
 10. (mcq) Which of these is evidence, not a claim, about the Ice Test?  
-   Options: Block B had the least water in the glass / Fat all over is always best / Insulation traps heat  
+   Options: Fat all over is always best / Block B had the least water in the glass / Insulation traps heat  
    **Answer:** Block B had the least water in the glass. *Why:* Evidence is what you measured or saw. A claim says what you think is true. Reasoning explains why the evidence supports the claim.
 11. (mcq) Which is the best explanation of how camels came to have wide pads?  
-   Options: Calves born with wider pads survived better on sand and left more calves / Camels stretched their feet to fit the sand / Camels wanted wider feet  
+   Options: Camels stretched their feet to fit the sand / Camels wanted wider feet / Calves born with wider pads survived better on sand and left more calves  
    **Answer:** Calves born with wider pads survived better on sand and left more calves. *Why:* Wanting or stretching does not change what an animal passes on. Helpful differences spread because those animals survive and have more young.
 12. (mcq) Octopus eyes and human eyes both have lenses, yet the animals are not close relatives. What best explains this?  
-   Options: Both met the same problem, focusing light, and each found its own answer / An octopus is a kind of human / They share a recent ancestor with lens eyes  
+   Options: An octopus is a kind of human / They share a recent ancestor with lens eyes / Both met the same problem, focusing light, and each found its own answer  
    **Answer:** Both met the same problem, focusing light, and each found its own answer. *Why:* This is convergent evolution. A lens is a good answer to the problem of seeing a sharp image, so it appeared twice, from different bodies.
+13. (mcq) Which of these animals is an omnivore?  
+   Options: A cow, who eats only grass and leaves / A tiger, who eats only deer / A human, who eats rice, dal, fruit and fish  
+   **Answer:** A human, who eats rice, dal, fruit and fish. *Why:* A human eats both plants and animals, so a human is an omnivore. A cow is a herbivore, and a tiger is a carnivore.
 
 ## Applications
 - Wide, low-pressure tyres and let-down tyres help vehicles cross desert sand and soft mud.
@@ -647,10 +662,10 @@ Gauri stroked Bhuri's neck. 'The same foot,' she said. 'It is good for sand and 
 - A crow's foot gripping a railing or a wire.
 - A house gecko on a wall at night, her toes spread flat.
 - A buffalo or a cow chewing slowly, lying under a tree.
-- A camel cart on a road in Rajasthan or Gujarat, the camel's wide pad spread on the road.
+- A camel's wide pad spread on the ground, in a picture or at a fair.
 - A Black-rumped Flameback or another woodpecker tapping on a trunk in a park or an old campus.
 - A tractor with wide back tyres in a paddy or sugarcane field.
-- An octopus at a fish market on the coast of Kerala, Tamil Nadu or Andhra Pradesh, with her suckers and soft body.
+- An octopus at a fish market, with her suckers and soft body.
 - An egret or a duck walking on mud without sinking, with her feet spread wide.
 - A sunbird at a hibiscus or a coral tree, her thin curved beak in the flower.
 - An elephant at a temple or a forest fringe, flapping her ears.
@@ -701,14 +716,18 @@ Fast Lives, Slow Lives (sci.animals.L4): Topic-level song
 - [Woodpecker (Wikipedia)](https://en.wikipedia.org/wiki/Woodpecker) · interactive: For the parent: an article on woodpecker toes, tongues and the debate over their heads.
 - [Common octopus (Wikipedia)](https://en.wikipedia.org/wiki/Common_octopus) · interactive: For the parent: an article on octopus hearts, blood, arms and colour change.
 - [iNaturalist](https://www.inaturalist.org) · interactive: A free app and website. Photograph any animal near you, and people around the world help name her.
-- [ICAR National Research Centre on Camel]() · place · Bikaner, Rajasthan: A research centre on camels, with herds of camels. Check what visitors can see, and the opening times, before visiting.
-- [Arignar Anna Zoological Park]() · place · Vandalur, Chennai: A large zoo where you can watch the feet, beaks and necks of many animals. Check opening times before visiting.
+- ICAR National Research Centre on Camel · place · Bikaner, Rajasthan: A research centre on camels, with herds of camels. Check what visitors can see, and the opening times, before visiting.
+- Arignar Anna Zoological Park · place · Vandalur, Chennai: A large zoo where you can watch the feet, beaks and necks of many animals. Check opening times before visiting.
 
 ## Things to buy
 - [A few glass marbles (kanche) and a small rubber ball](https://www.amazon.in/s?k=glass+marbles) (material): For the Squeeze Test, as the hard parts. Both cost a few rupees at a kirana or toy shop. You may already have them. Used in a1. 
 - [A set of small steel katoris](https://www.amazon.in/s?k=steel+katori+set) (tool): For the Ice Test, so that the three blocks sit in identical bowls. You may already have them. Used in e1. 
 - [A steel tumbler and a measuring jug marked in millilitres](https://www.amazon.in/s?k=measuring+jug+250+ml) (tool): For the Foot Test weight, and for measuring water. You may already have these. Used in e2. 
 - [The Soul of an Octopus by Sy Montgomery](https://www.amazon.in/s?k=the+soul+of+an+octopus) (book): A true book about octopuses for older readers and parents. Read a chapter aloud to talk about how octopuses think. Used in a4. Read one chapter aloud after the Two Hands, Two Jobs activity, and talk about how an octopus's arms might work.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Ice Test: does it matter where the fat goes?, Foot Test: why does a camel not sink in the sand?, Squeeze Test: how small a hole can a soft body pass?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, a1. Get it before Ice Test: does it matter where the fat goes?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Squeeze Test: how small a hole can a soft body pass?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in a1. Get it before Squeeze Test: how small a hole can a soft body pass?.
+- [Wooden ice-cream sticks (a pack)](https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack) (material): Used in Tongue Tools: reach the raisin in the crack. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in. Used in a2. Get it before Tongue Tools: reach the raisin in the crack.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is inside a camel's hump? → Fat.

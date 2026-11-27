@@ -1,7 +1,7 @@
 # How water climbs a plant, from the roots to the leaves
 `sci.plants.water-transport.L3`
 
-**Summary.** A tree has no heart and no pump, so how does water reach its top leaves? In this unit you will stand a stem in coloured water and look for the colour inside, find out which stem drinks more, leafy or bare, and act out a water chain.
+**Summary.** A tree has no heart and no pump, so how does water reach its top leaves? In this lesson you will stand a stem in coloured water and look for the colour inside, find out which stem drinks more, leafy or bare, and act out a water chain.
 
 **Intro.** *Look at a tall coconut palm or a neem tree. Their top leaves need water, but the water is in the soil, far below. Nobody carries it up, and a tree has no heart and no pump. So how does the water get to the top?* Try this today. Stir lots of food colour into half a glass of water. Stand a white carnation in it, or a pale inner leaf of a cabbage with the thick white rib pointing down. Look again after a few hours, and the next day. If thin coloured lines appear in the leaf or the petals, the coloured water has climbed up inside. Water makes this journey in every plant, from the roots to the very top leaf.
 
@@ -33,7 +33,7 @@
 - **Cohesion (say it: co-HEE-zhun)**: Water molecules attracting each other, so that water holds together. It is why water forms round drops. *e.g.* A drop of water on a leaf stays round, because its molecules hold on to each other.
 - **Capillary action (say it: ka-PIL-a-ree)**: Water creeping up into very thin gaps by itself, because it sticks to the sides of the gap. *e.g.* Dip the corner of a tissue in tea. The tea climbs up the tissue.
 - **Root pressure**: A small push from the roots that squeezes water a little way up the stem, mostly at night. *e.g.* On some mornings, grass tips have tiny beads of water squeezed out of them.
-- **Phloem (say it: FLOW-um)**: The plant's second set of tubes. They carry sugary food made in the leaves to the rest of the plant. This unit is about the water tubes, the xylem. *e.g.* Sugarcane juice is sweet because the cane stores food carried in its phloem.
+- **Phloem (say it: FLOW-um)**: The plant's second set of tubes. They carry sugary food made in the leaves to the rest of the plant. This lesson is about the water tubes, the xylem. *e.g.* Sugarcane juice is sweet because the cane stores food carried in its phloem.
 - **Fair test**: A test where you change only one thing, and keep everything else the same. Then you know what caused the difference. *e.g.* Two mint stems in the same bottles of water, one with leaves and one without. Only the leaves are different.
 - **Evidence**: What you saw or measured that shows your idea is true, or not true. *e.g.* Blue lines in a white petal are evidence that coloured water climbed up the stem.
 
@@ -84,7 +84,7 @@ Most living plant cells have a stretchy bag inside, called a vacuole, that fills
 ### What makes a plant drink faster · *defined*
 **Definition:** A plant loses water faster, and so drinks faster, in sunny, warm, windy and dry weather. A plant loses water more slowly in dark, cool, still or damp weather.
 
-Think about drying clothes. They dry fastest on a hot, sunny, windy day, and slowest on a damp, still night. Leaves lose water in the same way. Sunlight also makes most plants open their leaf holes, to let air in for making food. More leaves mean more holes, so a leafy stem drinks faster than a bare one. The chart shows made-up results from the Leafy or Bare test in this unit.
+Think about drying clothes. They dry fastest on a hot, sunny, windy day, and slowest on a damp, still night. Leaves lose water in the same way. Sunlight also makes most plants open their leaf holes, to let air in for making food. More leaves mean more holes, so a leafy stem drinks faster than a bare one. The chart shows made-up results from the Leafy or Bare test in this lesson.
 - e.g. A plant on a sunny balcony needs watering more often than one in a shady room.
 - e.g. Desert plants like cactus have few leaves, or none, so they lose less water.
 - e.g. Farmers in hot places often water in the early morning or evening, when less is lost to the air.
@@ -668,7 +668,7 @@ The old woman nodded, as if this was the most ordinary thing in the world. Then 
 1. (order) Put the path of water through a plant in order, from start to end: stem, air, root hairs, leaf, root.  
    **Answer:** order shown. *Why:* Root hairs soak up the water, and it moves into the root. It climbs the stem and spreads through the leaf. Then it leaves into the air as vapour.
 2. (mcq) Each root hair is thinner than a sewing thread. Why does a root have thousands of root hairs, not a few thick roots?  
-   Options: Thousands of thin hairs touch much more soil, so they soak up more water / Thin hairs are stronger than thick roots / Root hairs catch light under the soil / Thick roots cannot hold water  
+   Options: Thin hairs are stronger than thick roots / Root hairs catch light under the soil / Thousands of thin hairs touch much more soil, so they soak up more water / Thick roots cannot hold water  
    **Answer:** Thousands of thin hairs touch much more soil, so they soak up more water. *Why:* Water gets in wherever a root touches wet soil. Thousands of thin hairs squeeze between the soil grains and touch far more soil than a few fat roots could. Picking 'stronger' mixes up the job of soaking with the job of holding on.
 3. (truefalse) If you pull a seedling out roughly and plant them again, they may wilt, even though their main roots are still there.  
    **Answer:** True. *Why:* True. Pulling roughly tears off the tiny root hairs, and the root hairs do most of the soaking. Until new hairs grow, the seedling cannot drink enough. That is why gardeners move seedlings with a ball of soil round their roots.
@@ -706,11 +706,11 @@ The old woman nodded, as if this was the most ordinary thing in the world. Then 
 3. (mcq) In the Leafy or Bare test, the leafy stem's water dropped 18 mm and the bare stem's dropped 3 mm. How many times more did the leafy stem drink?  
    Options: 3 times / 6 times / 15 times / 21 times  
    **Answer:** 6 times. *Why:* 18 divided by 3 is 6. So the leafy stem drank 6 times as much. Picking 15 means taking away instead of dividing. 18 take away 3 is 15 mm more, which is also true, but it does not say how many times.
-4. (mcq) Fill a steel tumbler to the brim. Then add a few more drops, gently. The water bulges above the rim without spilling. Which idea from this unit does this show?  
-   Options: Water molecules hold on to each other / Leaves pull water up / Steel soaks up water / Water is lighter at the top  
+4. (mcq) Fill a steel tumbler to the brim. Then add a few more drops, gently. The water bulges above the rim without spilling. Which idea from this lesson does this show?  
+   Options: Leaves pull water up / Steel soaks up water / Water molecules hold on to each other / Water is lighter at the top  
    **Answer:** Water molecules hold on to each other. *Why:* The water at the top holds on to the water around it, so it bulges instead of spilling. This holding on is called cohesion. It is the same pull that keeps a thread of water in a tree from snapping. Picking 'leaves pull water up' names a true idea, but there are no leaves here.
 5. (mcq) Plants need minerals, tiny bits from the soil like nitrogen, to grow. The minerals are dissolved in the soil water. How do they reach the leaves?  
-   Options: They travel up with the water in the xylem tubes / The leaves catch them from the air / Insects carry them up / They never leave the roots  
+   Options: The leaves catch them from the air / Insects carry them up / They never leave the roots / They travel up with the water in the xylem tubes  
    **Answer:** They travel up with the water in the xylem tubes. *Why:* Dissolved minerals ride along with the water, like sugar dissolved in tea. When water is pulled up the xylem, the minerals come too. Picking 'from the air' mixes up minerals with the carbon dioxide that leaves take in.
 6. (write) A grown-up splits the bottom of a white flower's stem into two halves. One half stands in blue water and the other in red. Predict what the flower will look like the next day, and explain why.  
    **Answer:** One side of the flower will go blue and the other side red. Each half of the stem has its own tubes, and each tube carries water to its own part of the flower. The tubes do not mix, so the colours stay apart.. *Why:* A strong answer makes a clear guess and gives the reason: the stem is a bundle of separate tubes. Many people first guess purple, because the stem looks like one pipe.
@@ -723,7 +723,7 @@ The old woman nodded, as if this was the most ordinary thing in the world. Then 
 10. (truefalse) Mosses stay small partly because they have no stiff, strong water tubes like a tree's.  
    **Answer:** True. *Why:* True. Without strong tubes to carry water up, mosses stay low, close to damp ground.
 11. (mcq) In Be Stephen Hales, you wrap the pot and soil in a plastic bag before you weigh the plant each day. Why?  
-   Options: So water can leave only through the leaves, and the weight loss shows what the leaves let out / To keep the plant warm / So the plant weighs more / To stop insects eating the soil  
+   Options: To keep the plant warm / So water can leave only through the leaves, and the weight loss shows what the leaves let out / So the plant weighs more / To stop insects eating the soil  
    **Answer:** So water can leave only through the leaves, and the weight loss shows what the leaves let out. *Why:* Water can dry off wet soil too. With the soil sealed, any weight the plant loses must be water that went out through the leaves. Stephen Hales did this in the 1720s. Picking 'keep the plant warm' misses that the bag is there to make the test fair.
 12. (write) A cut flower in a vase has no roots at all. Yet the water in the vase goes down day by day. How does the flower drink without roots?  
    **Answer:** The water is pulled up from the top. Water evaporates from the leaves and petals, and the water in the tubes is pulled up behind it, because water molecules hold on to each other. Roots are not needed for this pull.. *Why:* This tests the common idea that roots pump water up. A strong answer says the pull comes from water leaving the top, which a cut stem can still do.
@@ -735,22 +735,22 @@ The old woman nodded, as if this was the most ordinary thing in the world. Then 
    **Answer:** False. *Why:* False. At night the leaf holes are mostly closed and it is cool, so water moves up much more slowly. But it does not stop completely. Roots can even push a little water up at night, which is why you may find drops at the tips of grass blades at dawn.
 ### Puzzles of the Climbing Water (challenge) (challenge, 15 questions)
 1. (mcq) In 1891, Eduard Strasburger killed all the living cells in long stems, and coloured water still climbed up them. Which idea did this show to be wrong?  
-   Options: Water is pulled up by evaporation from the leaves / Living cells must pump water up the stem / Water travels up tubes / Water holds together  
+   Options: Living cells must pump water up the stem / Water is pulled up by evaporation from the leaves / Water travels up tubes / Water holds together  
    **Answer:** Living cells must pump water up the stem. *Why:* If living pumps were needed, a dead stem could not lift water. But it did. So living pumps are not needed. Picking 'pulled by evaporation' misses that a dead stem can still let water evaporate from its top.
 2. (mcq) A suction pump can lift water about 10 metres. The tallest tree, Hyperion, is about 116 metres. About how many times taller is the tree than the suction limit?  
-   Options: About 2 times / About 12 times / About 100 times / About 1,000 times  
+   Options: About 2 times / About 100 times / About 12 times / About 1,000 times  
    **Answer:** About 12 times. *Why:* 116 divided by 10 is 11.6, which is nearly 12. So the tree is about 12 times taller than the suction limit. Picking 100 times would need a tree about 1,000 metres tall.
 3. (perspective) In 2023, Lilach Hadany's team in Tel Aviv recorded thirsty tomato and tobacco plants making tiny clicks, too high for people to hear. Scientists disagree about what the clicks mean.  
    **Answer:** A strong answer picks a side and names a test. For the listening idea: the clicks are real and loud enough for some animals. Against it: so far no one has seen an animal act on them. Evidence that would decide it: for example, moths choosing not to lay eggs on clicking plants. A strong answer agrees with both sides that the clicks come from the stretched water threads in the tubes.. *Why:* This is a live question. What makes an answer strong is knowing the difference between what has been recorded and what is still only an idea to test.
 4. (truefalse) Scientists all agree on exactly how much of the water rising from land into the air comes out of plants.  
    **Answer:** False. *Why:* False. One study in 2013 said plants send up about 80 to 90 out of every 100 drops rising from land. Later studies said about 60. They agree it is a big share, but not on the exact amount.
 5. (mcq) A redwood's leaves at the very top are much smaller than their lower leaves. What might that tell scientists?  
-   Options: Water barely reaches the top, so the top leaves stay small and thirsty / The top leaves are younger / The top gets less light / The tree is ill  
+   Options: The top leaves are younger / The top gets less light / The tree is ill / Water barely reaches the top, so the top leaves stay small and thirsty  
    **Answer:** Water barely reaches the top, so the top leaves stay small and thirsty. *Why:* George Koch's team found the top leaves of the tallest redwoods were small and thirsty. It was as if water could barely be pulled that high. This helped them estimate how tall a tree can grow. Picking 'less light' is wrong, because the top gets the most light of all.
 6. (write) A plant's xylem tubes are very narrow, far thinner than a hair, and there are thousands of them. Why might many narrow tubes work better than one wide pipe?  
    **Answer:** If an air bubble gets into one tube, the water thread there snaps. With thousands of tubes, the others keep carrying water, so the plant does not dry out. In a narrow tube, water also clings to the walls and to itself, so the thread holds together better.. *Why:* A strong answer sees that many tubes are back-ups for each other. One broken thread does not stop the whole plant.
 7. (mcq) Astronauts on the space station grow plants in small pillows with wicks. Why?  
-   Options: In space, water does not drip down into the soil, so wicks bring it to the roots / Plants in space do not need water / The pillows keep the plants warm / To stop the plants floating off  
+   Options: Plants in space do not need water / In space, water does not drip down into the soil, so wicks bring it to the roots / The pillows keep the plants warm / To stop the plants floating off  
    **Answer:** In space, water does not drip down into the soil, so wicks bring it to the roots. *Why:* On Earth, gravity pulls water down around the roots. In space, water floats in clumps. A wick moves water by capillary action, which works without gravity. Picking 'to stop floating off' is partly true for the plants, but the wicks are for the water.
 8. (sort) Sort these. Is each one a PUSH from the roots or a PULL from the leaves?  
    **Answer:** sap dripping from a cut vine stump → Push from the roots; water climbing fastest on a hot sunny afternoon → Pull from the leaves; a drop at a grass tip at dawn → Push from the roots; the leafy stem drinking more than the bare stem → Pull from the leaves. *Why:* Dripping stumps and dawn drops at grass tips show the small push from the roots. Fast drinking in the sun and the leafy stem show the much bigger pull from the leaves.
@@ -759,10 +759,10 @@ The old woman nodded, as if this was the most ordinary thing in the world. Then 
 10. (fill) The weak pull between one water molecule and the next is called a hydrogen ____.  
    **Answer:** ['bonds', 'bond']. *Why:* Hydrogen bonds join the hydrogen end of one water molecule to the oxygen end of the next.
 11. (mcq) Why is the air under a big neem tree cooler than in a sunny car park, even apart from the shade?  
-   Options: Water evaporating from the leaves takes heat away, like sweat drying on skin / Trees are made of ice / Leaves blow cold air like a fan / Neem is a cold plant  
+   Options: Trees are made of ice / Leaves blow cold air like a fan / Water evaporating from the leaves takes heat away, like sweat drying on skin / Neem is a cold plant  
    **Answer:** Water evaporating from the leaves takes heat away, like sweat drying on skin. *Why:* Turning water into vapour takes heat energy. The leaves give it up, so they and the air around them cool down. Picking 'blow like a fan' is close, because moving leaves do stir the air, but the main cooling is evaporation.
 12. (mcq) In Be Stephen Hales, a plant lost 32 grams on a sunny day. The next day was cloudy, and the plant's weight went from 480 grams to 466 grams. On which day did the plant lose more water, and why?  
-   Options: The sunny day, because water evaporates faster in sun / The cloudy day, because clouds pull water / Both the same / The cloudy day, because it was 14 grams  
+   Options: The cloudy day, because clouds pull water / The sunny day, because water evaporates faster in sun / Both the same / The cloudy day, because it was 14 grams  
    **Answer:** The sunny day, because water evaporates faster in sun. *Why:* 480 take away 466 is 14 grams on the cloudy day, less than 32 grams on the sunny day. Sun makes leaves lose water faster. Picking 'the cloudy day, because it was 14 grams' means finding the right number but comparing it the wrong way.
 13. (write) The water in your glass may once have been inside a dinosaur, a cloud and a tree. Explain how the same water could have been in all three.  
    **Answer:** Water goes round and round. A tree pulls water up and lets that water out into the air. The water becomes a cloud and falls as rain. A dinosaur drinks it and breathes it out. The same water keeps travelling for millions of years.. *Why:* A good answer describes water moving between living things, the air and rain, again and again.
@@ -778,43 +778,43 @@ The old woman nodded, as if this was the most ordinary thing in the world. Then 
 
 ## Quiz
 1. (mcq) Which part of a plant soaks up most of their water?  
-   Options: The roots / The leaves / The flowers  
+   Options: The leaves / The roots / The flowers  
    **Answer:** The roots. *Why:* Roots, and their root hairs, soak up water from the soil. Picking 'leaves' usually comes from watering plants from above. Leaves mostly let water out.
 2. (mcq) Water climbs up a stem inside what?  
-   Options: Tiny tubes called xylem / The bark only / Air spaces  
+   Options: The bark only / Air spaces / Tiny tubes called xylem  
    **Answer:** Tiny tubes called xylem. *Why:* Xylem tubes run from the roots to the leaves. Picking 'air spaces' mixes up the tubes with the air spaces inside a leaf.
 3. (mcq) In the Blue Climb, why do we also stand one flower in plain water?  
-   Options: To compare, so we know the colour came from the water / Because the flower is thirsty / To make it a race  
+   Options: Because the flower is thirsty / To make it a race / To compare, so we know the colour came from the water  
    **Answer:** To compare, so we know the colour came from the water. *Why:* The plain-water flower stays white. That shows the colour in the other flower came from the coloured water, not from the flower itself. Picking 'thirsty' misses the point of a comparison.
 4. (mcq) In Bubbles from a Leaf, most of the bubbles came from the underside of the leaf. What does this tell you?  
-   Options: Most of the leaf's tiny holes are on the underside / The underside is hotter / The top of the leaf has no air inside  
+   Options: The underside is hotter / Most of the leaf's tiny holes are on the underside / The top of the leaf has no air inside  
    **Answer:** Most of the leaf's tiny holes are on the underside. *Why:* Hot water makes the air inside the leaf swell and squeeze out through the stomata. More bubbles from underneath means more holes there. On many land leaves, most stomata are underneath, away from the hot sun. Picking 'hotter' misses that both sides sat in the same water.
 5. (mcq) What is transpiration?  
-   Options: Water leaving the leaves as vapour / Roots drinking water / Leaves making food  
+   Options: Roots drinking water / Water leaving the leaves as vapour / Leaves making food  
    **Answer:** Water leaving the leaves as vapour. *Why:* Transpiration is water leaving the leaves as invisible vapour. Picking 'leaves making food' mixes it up with photosynthesis, a different job of the leaf.
 6. (mcq) What mostly pulls water up a tall tree?  
    Options: Water evaporating from the leaves / A pump in the roots / The tree's heart  
    **Answer:** Water evaporating from the leaves. *Why:* As water evaporates from the leaves, it pulls the threads of water up the tubes. Roots push only a little, and trees have no heart. Picking 'a pump in the roots' is an old idea that cannot explain tall trees.
 7. (mcq) In the Leafy or Bare test, which stem drank more?  
-   Options: The leafy stem / The bare stem / Both the same  
+   Options: The bare stem / The leafy stem / Both the same  
    **Answer:** The leafy stem. *Why:* The leaves let water out into the air, which pulls more water up. Picking 'the bare stem' usually means thinking a stem with no leaves must be thirstier.
 8. (mcq) Why does a plant wilt?  
-   Options: They lose water faster than they can take it in / They have too much water / They are resting  
+   Options: They have too much water / They lose water faster than they can take it in / They are resting  
    **Answer:** They lose water faster than they can take it in. *Why:* When water leaves faster than it comes in, the cells go soft and the plant droops. Too much water can also harm roots. But that is not what usually makes a plant droop on a hot day.
 9. (mcq) Why do flower sellers cut stems again under water?  
    Options: To stop air bubbles blocking the water tubes / To clean the knife / To make the flowers smell nice  
    **Answer:** To stop air bubbles blocking the water tubes. *Why:* An air bubble breaks the thread of water in a tube. Cutting under water keeps air out. Picking 'clean the knife' misses that the water is for the stem.
 10. (mcq) A plant whose soil is sealed in a bag loses more weight on a sunny day than on a cloudy day. Which other result would agree with this?  
-   Options: A clear bag over a leafy branch in the sun collects more water than one in the shade / A white flower in plain water stays white / A split flower stem takes up two colours  
+   Options: A white flower in plain water stays white / A split flower stem takes up two colours / A clear bag over a leafy branch in the sun collects more water than one in the shade  
    **Answer:** A clear bag over a leafy branch in the sun collects more water than one in the shade. *Why:* Both results show that leaves let out more water in the sun. When two different tests agree, we can trust the idea more. The other two are about the tubes, not about sun and shade.
 11. (mcq) In the Sweating Branch test, what should be different between the two branches?  
-   Options: Only sun or shade / The kind of plant and the bag / Everything  
+   Options: The kind of plant and the bag / Only sun or shade / Everything  
    **Answer:** Only sun or shade. *Why:* In a fair test, you change only one thing. Then you know that thing caused the difference. Picking 'the kind of plant and the bag' means two changes, so you could not tell which one mattered.
 12. (mcq) Some people think living cells in the stem pump water up. But coloured water still climbs a stem whose cells have all been killed. What does this show?  
-   Options: Water can be pulled up from the top as it evaporates from the leaves, without living pumps / Living pumps are needed after all / Nobody can tell how water climbs  
+   Options: Living pumps are needed after all / Water can be pulled up from the top as it evaporates from the leaves, without living pumps / Nobody can tell how water climbs  
    **Answer:** Water can be pulled up from the top as it evaporates from the leaves, without living pumps. *Why:* A dead stem has no living pumps, yet water still climbs. So the pull from evaporation at the top is enough. Picking 'nobody can tell' is not fair to the evidence.
 13. (mcq) Which of these do scientists still NOT know for sure?  
-   Options: Exactly how tall a tree could ever grow / That water travels up the stem / That leaves let out water  
+   Options: That water travels up the stem / Exactly how tall a tree could ever grow / That leaves let out water  
    **Answer:** Exactly how tall a tree could ever grow. *Why:* Scientists agree water travels up stems and leaves let it out. But the limit on tree height is still argued about. Estimates say about 122 to 130 metres for redwoods.
 14. (mcq) Why does a thread of water not snap when it is pulled up a tree?  
    Options: Water molecules hold on to each other / The tree glues the water together / It is frozen  
@@ -900,16 +900,22 @@ Green and Growing (sci.plants.L3): Topic-level song for Plants L3
 - [Royal Botanic Gardens, Kew](https://www.kew.org/) · interactive: The website of a great plant science garden in London, with articles on how plants work and why forests matter.
 - [Acharya Jagadish Chandra Bose Indian Botanic Garden](https://bsi.gov.in/) · place · Howrah, near Kolkata: Home of the Great Banyan, a tree over 250 years old. Its hanging roots became hundreds of trunks, each one carrying water up. The garden is looked after by the Botanical Survey of India.
 - [Bose Institute and Acharya Bhavan museum](https://www.jcbose.ac.in/) · place · Kolkata: The research institute Jagadish Chandra Bose founded in 1917. His house, Acharya Bhavan, is a museum with some of the instruments he built to study plants.
-- [Lalbagh Botanical Garden]() · place · Bengaluru: A huge old garden full of tall trees from around the world. Feel how much cooler it is under the trees on a hot day.
-- [A flower market near you]() · place · anywhere, for example Mattuthavani in Madurai, KR Market in Bengaluru, Dadar in Mumbai or Mullick Ghat in Kolkata: Watch how sellers keep flowers fresh: buckets, fresh cuts and sprays. Ask them why.
+- Lalbagh Botanical Garden · place · Bengaluru: A huge old garden full of tall trees from around the world. Feel how much cooler it is under the trees on a hot day.
+- A flower market near you · place · anywhere, for example Mattuthavani in Madurai, KR Market in Bengaluru, Dadar in Mumbai or Mullick Ghat in Kolkata: Watch how sellers keep flowers fresh: buckets, fresh cuts and sprays. Ask them why.
 - [Nehru Science Centre](https://www.nehrusciencecentre.gov.in) · place · Mumbai: A science centre with hands-on exhibits and a science park. Look for exhibits about plants, water and life.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A big science museum. Its biotechnology and science galleries go well with a visit to Lalbagh nearby.
-- [A big tree in your neighbourhood]() · place · anywhere: Choose one big tree. Visit the tree on a hot afternoon and a cool morning. Feel the shade, look at the leaves, and imagine the water climbing inside.
+- A big tree in your neighbourhood · place · anywhere: Choose one big tree. Visit the tree on a hot afternoon and a cool morning. Feel the shade, look at the leaves, and imagine the water climbing inside.
 
 ## Things to buy
 - [Food colour, blue and red (liquid or gel)](https://www.amazon.in/s?k=liquid+food+colour+blue+red) (material): Colours the water in the Blue Climb and the Two-Colour Flower, so you can see where the water goes. Used in e1, a1. 
 - [Magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): For looking at coloured dots in a cut stem, leaf veins, root hairs and grass-tip drops. Used in e1, a4, a6. 
 - [Digital kitchen weighing scale (shows grams)](https://www.amazon.in/s?k=digital+kitchen+weighing+scale) (tool): Weighs the potted plant each day in Be Stephen Hales. Used in p1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Blue Climb: coloured water up a stem, Leafy or Bare? Which stem drinks more?, Climbing Tea and the Great Straw Test. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, a5, c1. Get it before The Blue Climb: coloured water up a stem.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in The Holiday Plant Sitter. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in c2. Get it before The Holiday Plant Sitter.
+- [A measuring jug or syringe (marked in millilitres)](https://www.amazon.in/s?k=measuring+jug+500+ml) (tool): Used in The Sweating Branch: sun or shade?. About ₹30 to ₹100. A clean medicine cup or marked bottle works. Used in e3. Get it before The Sweating Branch: sun or shade?.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Climbing Tea and the Great Straw Test, How High Can You Lift Water?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in a5, c1. Get it before Climbing Tea and the Great Straw Test.
+- [Iron nails or iron filings](https://www.amazon.in/s?k=iron+filings+science) (material): Used in Bubbles from a Leaf: find the hidden holes. About ₹20 to ₹80. Short steel nails from a hardware shop. Used in a4. Get it before Bubbles from a Leaf: find the hidden holes.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Which part of a plant soaks up water? → The roots, with their tiny root hairs.

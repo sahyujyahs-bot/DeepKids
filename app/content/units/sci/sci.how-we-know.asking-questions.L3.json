@@ -116,6 +116,22 @@
    "art": "A child's notebook with a big cloud of wonderings at the top, and arrows down to three small, clear questions, each with a tiny picture of what to look at."
   },
   {
+   "concept": "Five ways to find out",
+   "status": "defined",
+   "definition": "The five main ways to find out are research, a fair test, observing over time, classifying and pattern seeking. Each one fits a different kind of question.",
+   "description": "Research means finding the answer in a book or a trusted source, when we cannot test it ourselves. A fair test changes one thing and keeps everything else the same, so we see what that one thing does. Observing over time means looking again and again, at set times, as with the cut apple. Classifying means sorting things into groups by what they have in common. Pattern seeking means looking across many records for something that keeps coming back, such as Tycho's star positions night after night. Choose the way that fits your question.",
+   "examples": [
+    "To learn how a weaver bird builds its nest, read a bird book or ask a bird watcher.",
+    "To see whether sunlight makes beans sprout faster, put beans in the sun and in a cupboard, and change nothing else.",
+    "Drawing the same tulsi bud every morning for a week shows how it opens.",
+    "Sorting the leaves in a garden into smooth and rough edges is classifying.",
+    "Counting the rainy days each month for a year may show when the monsoon comes."
+   ],
+   "perspectives": [],
+   "context": "This card names the five ways to find out, so a child can choose one for a question.",
+   "art": "Five small pictures in a row: a bird book, two bean pots in sun and shade, a tulsi bud drawn each morning, leaves sorted into two piles, and a calendar with rain clouds on some days."
+  },
+  {
    "concept": "Making a plan before you start",
    "status": "defined",
    "context": "This card says what goes into a plan for finding something out, and why each part matters.",
@@ -671,11 +687,11 @@
       "t": "mcq",
       "q": "Does our banana get more brown spots each day? Which box does this go in?",
       "options": [
-       "One look",
        "Long watch",
+       "One look",
        "Ask or read"
       ],
-      "a": 1,
+      "a": 0,
       "why": "One look today would only show today's spots. To see if the spots increase each day, you must look every day, at the same time, and count. Asking someone gives you their memory, not a count."
      }
     },
@@ -879,10 +895,10 @@
       "q": "You stared at the plain slice for one minute. What did you see?",
       "options": [
        "It went brown while I watched",
-       "It looked the same the whole minute",
-       "It went brown, then pale again"
+       "It went brown, then pale again",
+       "It looked the same the whole minute"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Most people see no change at all in one minute, even though the slice is changing. The change in one minute is too small for our eyes. That is why we look every 10 minutes and compare the drawings. If you thought you saw it go brown, check your next drawing: one minute rarely makes a visible difference."
      }
     },
@@ -913,11 +929,11 @@
       "t": "mcq",
       "q": "The plain slice browned and the water slice stayed paler. What does this tell us?",
       "options": [
-       "Something in the air helps the apple turn brown",
        "Water makes apples turn brown",
-       "The plain slice was from a different apple"
+       "The plain slice was from a different apple",
+       "Something in the air helps the apple turn brown"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The only difference between those two slices was air or water around them. The slice in the air browned faster, so something in the air helps. That something is oxygen. The water slice got much less oxygen. They came from the same apple, so a different apple can't explain it."
      },
      "parent": "Expect the plain slice to brown most and the lemon slice least. The water slice is usually in between, browning slowly. Lemon juice is sour, and the enzyme that makes the brown works slowly in sour juice. Water keeps out most of the oxygen."
@@ -1050,11 +1066,11 @@
       "t": "mcq",
       "q": "A slice under an upside-down steel bowl browned almost as fast as a slice in the open. Why?",
       "options": [
-       "The bowl was steel",
        "There was still air with oxygen inside the bowl",
+       "The bowl was steel",
        "Bowls make apples go brown"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A bowl over a slice doesn't take the air away. The air trapped inside still has plenty of oxygen for the browning. A slice under water gets much less oxygen. If you thought the steel mattered, you could test it with a glass bowl too."
      }
     }
@@ -1116,11 +1132,11 @@
       "t": "mcq",
       "q": "Which question can you find out at home by looking or testing?",
       "options": [
-       "Why do ants exist?",
        "Do ants come to a grain of sugar faster than a grain of salt?",
+       "Why do ants exist?",
        "Are ants happy?"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The sugar and salt question says what to do and what to watch: put down both grains and see which one ants reach first. The other two are real and interesting questions. But looking alone can't answer them, so scientists would break them into smaller questions first."
      }
     },
@@ -1340,11 +1356,11 @@
       "t": "mcq",
       "q": "Tycho measured the new star many times. It never seemed to move against the stars near it. What did that show?",
       "options": [
-       "The star was very near, in the air",
        "The star was very far away, beyond the Moon",
+       "The star was very near, in the air",
        "Tycho's instrument was broken"
       ],
-      "a": 1,
+      "a": 0,
       "why": "In the Pencil Jump, the far building did not jump when you swapped eyes. A very far thing does not seem to jump. The Moon is near enough to shift a little against the stars through the night. The new star did not shift at all, so it had to be much further away than the Moon. Tycho's instrument was not broken. It was good enough to show the small shift of the nearer Moon, so it would also have shown a shift in the new star."
      }
     }
@@ -1895,11 +1911,11 @@
    "t": "mcq",
    "p": "You want to know how fast a tomato plant grows. How often should you measure the plant?",
    "opts": [
-    "Every minute",
     "Every few days",
+    "Every minute",
     "Once every five years"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A tomato plant grows a little each day, so measuring every few days shows clear steps. Every minute shows nothing new. Every five years misses the plant's whole life.",
    "outcome": 1
   },
@@ -1907,11 +1923,11 @@
    "t": "mcq",
    "p": "What should every line of a record have?",
    "opts": [
-    "The time of the look",
     "A sticker",
-    "The name of a famous scientist"
+    "The name of a famous scientist",
+    "The time of the look"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Without the time, you can't say how long a change took or put the looks in order. Each line should also have what you saw, as a score, a drawing or a few words.",
    "outcome": 2
   },
@@ -1944,10 +1960,10 @@
    "p": "Why does a cut apple turn brown?",
    "opts": [
     "Germs eat it straight away",
-    "An enzyme from broken cells helps the apple's substances join with oxygen from the air",
-    "Light from the room paints it brown"
+    "Light from the room paints it brown",
+    "An enzyme from broken cells helps the apple's substances join with oxygen from the air"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Cutting breaks the cells, the enzyme and the colourless substances mix, and oxygen joins in to make brown substances. It happens in the dark too, and far too quickly for germs to be the cause.",
    "outcome": 4
   },
@@ -1967,11 +1983,11 @@
    "t": "mcq",
    "p": "A slice kept in the fridge browns more slowly than one on the table. Why?",
    "opts": [
-    "Cold slows the enzyme",
     "There is no air in a fridge",
-    "Fridges are dark"
+    "Fridges are dark",
+    "Cold slows the enzyme"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A fridge is full of air, and the apple browns in the dark too. The cold slows the enzyme down, so the browning is slower.",
    "outcome": 4
   },
@@ -1980,10 +1996,10 @@
    "p": "A bright new light appears in the night sky. Night after night it never shifts against the stars near it, though the Moon does. What does this tell you?",
    "opts": [
     "It is very near, closer than the Moon",
-    "It is far beyond the Moon",
-    "It is a cloud of smoke"
+    "It is a cloud of smoke",
+    "It is far beyond the Moon"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A near thing seems to shift a little against far stars as the Earth turns. The new light never shifted, so it must be very far away, beyond the Moon.",
    "outcome": 5
   },
@@ -1992,12 +2008,24 @@
    "p": "People once believed the sky beyond the Moon never changes. What kind of evidence could show this idea is wrong?",
    "opts": [
     "One person saying they once saw something odd",
-    "A new light far beyond the Moon, measured again and again",
-    "A picture in an old book"
+    "A picture in an old book",
+    "A new light far beyond the Moon, measured again and again"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A strong claim needs careful evidence. A new light, measured night after night and shown to be far beyond the Moon, would show that the sky out there can change.",
    "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "You want to know whether a bean sprouts faster in sunlight or in a dark cupboard. Which way of finding out is this?",
+   "opts": [
+    "Pattern seeking, looking across many records",
+    "Classifying, sorting beans into groups",
+    "A fair test, changing only the light"
+   ],
+   "a": 2,
+   "why": "A fair test changes one thing, the light, and keeps the rest the same. Sorting beans into groups and looking for patterns in records do not test the light.",
+   "outcome": 1
   }
  ],
  "worksheets": [
@@ -2119,6 +2147,34 @@
      "why": "Anything about how something changes needs a long watch, with looks at set times. A question about how something is right now needs only one look."
     },
     {
+     "t": "match",
+     "p": "Match each way of finding out to an example.",
+     "pairs": [
+      [
+       "Research",
+       "find the answer in a book or a trusted source, when we cannot test it ourselves"
+      ],
+      [
+       "Fair test",
+       "change one thing, keep everything else the same, and watch what changes"
+      ],
+      [
+       "Observing over time",
+       "look again at set times, and write down each look"
+      ],
+      [
+       "Classifying",
+       "sort things into groups by what they have in common"
+      ],
+      [
+       "Pattern seeking",
+       "look across many records for something that keeps coming back"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each way answers a different kind of question. A strong answer can give an example from home for each one."
+    },
+    {
      "t": "write",
      "p": "Someone says they don't need to write anything down during the apple test, because they will remember it. Write two reasons why a scientist writes things down at the time.",
      "lines": 4,
@@ -2137,12 +2193,12 @@
      "t": "mcq",
      "p": "The plain apple slice browned faster than the slice under water. What did the air give the plain slice that the water slice mostly didn't get?",
      "opts": [
-      "Light",
       "Oxygen",
+      "Light",
       "Dust",
       "Warmth"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The browning needs oxygen from the air. Water keeps most of it away. Both slices were in the same light and warmth, so those can't explain the difference. Dust is too little to matter."
     },
     {
@@ -2219,10 +2275,10 @@
      "p": "In an apple test, the plain slice was cut from a red apple and the lemon slice from a green apple. The lemon slice stayed paler. What is wrong with this test?",
      "opts": [
       "Nothing, it is a fair test",
-      "Two things were different, so you can't tell whether the lemon or the apple made the difference",
-      "More lemon should have been used"
+      "More lemon should have been used",
+      "Two things were different, so you can't tell whether the lemon or the apple made the difference"
      ],
-     "a": 1,
+     "a": 2,
      "why": "In a fair test only one thing differs. Here the apple and the lemon were both different. Some kinds of apple brown more slowly than others, so the green apple alone might explain it. All slices should come from one apple."
     },
     {
@@ -2236,12 +2292,12 @@
      "t": "mcq",
      "p": "Here is part of an apple record. At 20 minutes the plain slice scored 1 and the water slice scored 0. At 30 minutes the plain slice scored 2 and the water slice scored 0. Which slice changed between 20 and 30 minutes?",
      "opts": [
-      "The plain slice",
       "The water slice",
       "Both",
-      "Neither"
+      "Neither",
+      "The plain slice"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The plain slice went from score 1 to score 2. The water slice stayed at 0. Reading a record line by line shows exactly when each change happened.",
      "how": "e1"
     },
@@ -2392,33 +2448,33 @@
      "t": "mcq",
      "p": "You hold a pencil at arm's length and swap eyes. The pencil seems to jump, but a far building does not. What does this show?",
      "opts": [
-      "Near things seem to shift when you look from a different place, far things don't",
       "Your eyes are broken",
+      "Near things seem to shift when you look from a different place, far things don't",
       "The pencil really moves"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Your two eyes look from slightly different places. Something near seems to jump against the far background. Something very far does not. Tycho used this idea to show the new star was far beyond the Moon."
     },
     {
      "t": "mcq",
      "p": "Two people score the same apple slice. One writes 2 and the other writes 3. What would help them agree?",
      "opts": [
-      "Both use the same colour card, with the same four boxes",
       "Both score faster",
-      "Each scores a different slice"
+      "Each scores a different slice",
+      "Both use the same colour card, with the same four boxes"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A score means something only if everyone uses the same scale. A shared colour card makes a score of 2 the same colour for both people."
     },
     {
      "t": "mcq",
      "p": "A girl looks at the same patch of night sky on every clear night for a year. One night she sees a faint light that was never there before. Why can she be sure it is new?",
      "opts": [
-      "She has looked so often that she knows what is usually there",
       "New lights always shine brighter than stars",
+      "She has looked so often that she knows what is usually there",
       "She is using the biggest telescope in the world"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Looking again and again at the same place gives her a record, in her head and in her notebook. A new light stands out against what she knows."
     }
    ]
@@ -2458,11 +2514,11 @@
      "t": "mcq",
      "p": "In an apple test, the plain slice was cut first, and the lemon slice 20 minutes later. After one hour, the plain slice was browner. What is the problem?",
      "opts": [
-      "The plain slice had 20 minutes more time to brown",
       "Lemon slices always brown faster",
-      "There is no problem"
+      "There is no problem",
+      "The plain slice had 20 minutes more time to brown"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The plain slice had 60 minutes in the air and the lemon slice only 40. So the time, not just the lemon, could explain the difference. All slices must start at the same time."
     },
     {
@@ -2537,11 +2593,11 @@
      "t": "mcq",
      "p": "When you bite an apple and leave it, the brown appears first around the tooth marks. Why there?",
      "opts": [
-      "That is where the cells were broken open",
       "Teeth are brown",
+      "That is where the cells were broken open",
       "Saliva is brown"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The browning starts where cells are broken, because that is where the enzyme and the colourless substances mix and meet oxygen. A whole, unbroken apple stays cream inside."
     },
     {
@@ -2868,6 +2924,32 @@
    "used_in": [
     "a2"
    ]
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Catch the Sunny Patch. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before Catch the Sunny Patch."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

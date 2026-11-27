@@ -1,9 +1,9 @@
 # Endemic species and extinction: why rare living beings need protected places
 `sci.ecology.biodiversity.L5`
 
-**Summary.** All the wild lions of Asia live in and around one forest in Gujarat. What if that place is harmed? In this unit you will cut a paper forest in half, flip coins to see how a small group can die out, and choose places to protect.
+**Summary.** All the wild lions of Asia live in and around one forest in Gujarat. What if that place is harmed? In this lesson you will cut a paper forest in half, flip coins to see how a small group can die out, and choose places to protect.
 
-**Intro.** *All the wild lions of Asia live in and around one forest, the Gir forest in Gujarat. In 2020 there were 674 of them. Is 674 lions in one forest a safe number? What could go wrong?* A crow lives in almost every town in India. If the crows of one town died, there would still be crows everywhere else. A lion-tailed macaque lives only in the rainforests of the Western Ghats. If those forests go, there is no other place with lion-tailed macaques. In this unit you test what happens to rare species when a forest shrinks. You test whether a small group can die out by bad luck alone. Then you meet the people who have protected forests, from a village in Rajasthan in 1730 to women in Assam today.
+**Intro.** *All the wild lions of Asia live in and around one forest, the Gir forest in Gujarat. In 2020 there were 674 of them. Is 674 lions in one forest a safe number? What could go wrong?* A crow lives in almost every town in India. If the crows of one town died, there would still be crows everywhere else. A lion-tailed macaque lives only in the rainforests of the Western Ghats. If those forests go, there is no other place with lion-tailed macaques. In this lesson you test what happens to rare species when a forest shrinks. You test whether a small group can die out by bad luck alone. Then you meet the people who have protected forests, from a village in Rajasthan in 1730 to women in Assam today.
 
 ## Learning outcomes
 0. By the end I can say what an endemic species is, and name endemic species of India and where they live.
@@ -112,7 +112,7 @@ A step is picked from measurements. It does not depend on how much people like a
 ### Protected areas: size, shape and joins · *defined*
 **Definition:** A protected area is land or water where the law protects wild plants and animals. India has national parks, wildlife sanctuaries, tiger reserves and biosphere reserves.
 
-India's main wildlife law is the Wild Life (Protection) Act of 1972. India now has more than 100 national parks and more than 550 wildlife sanctuaries. Together, protected areas cover about 5 in every 100 parts of India's land. Their size and shape matter. A small patch loses rare species, as the Shrinking Forest Test shows. A small patch is also mostly edge. In the Bread Forest test, the 16 small squares dried right through while the whole slice stayed soft in the middle. A forest edge is hotter, drier and windier than the middle, and some species cannot live there. So one large area usually keeps more forest species than many small ones. Where a large area is not possible, a corridor of trees can join two smaller ones. Then animals can move between them, and a group that dies out in one can be replaced from the other.
+India's main wildlife law is the Wild Life (Protection) Act of 1972. India now has more than 100 national parks and more than 550 wildlife sanctuaries. Together, protected areas cover about 5 in every 100 parts of India's land. Their size and shape matter. A small patch loses rare species, as the Shrinking Forest Test shows. A small patch is also mostly edge. In the Bread Forest test, the 16 small squares dried right through while the whole slice stayed soft in the middle. A forest edge is hotter, drier and windier than the middle, and some species cannot live there. So one large area usually keeps more forest species than many small ones. Where a large area is not possible, a corridor of trees can join two smaller ones. Then animals can move between them, and a group that dies out in one can be replaced from the other. Forest laws also control felling. In many places a big tree cannot be cut without permission. When forest land is cut for a road or a mine, the rules ask for new saplings to be planted in its place. The Wild Life (Protection) Act of 1972 bans hunting of protected animals and selling their skins. Shoppers can also refuse goods made from animal skin, such as shawls and belts. A national park is the strictest kind of protected area. A sanctuary keeps wild animals safe from hunting and harm, and some people may still use its land in limited ways.
 - e.g. A tiger reserve has a core, where nobody lives, and a buffer around the core, where people and wildlife share the land.
 - e.g. On the highway through the Pench forest in central India, long bridges let tigers and deer walk underneath the traffic.
 - e.g. A sacred grove is a small protected area kept by a village, sometimes for hundreds of years.
@@ -674,7 +674,7 @@ Rudi listened until it stopped.
 ## Worksheets
 ### Endemic Species and Hotspots (core) (core, 15 questions)
 1. (mcq) What does 'endemic' mean?  
-   Options: Found naturally in only one place in the world / Found in every country / Brought in from another country / Very large and strong  
+   Options: Found in every country / Brought in from another country / Very large and strong / Found naturally in only one place in the world  
    **Answer:** Found naturally in only one place in the world. *Why:* An endemic species lives naturally in only one place, such as one island, one lake or one range of hills. She can still be common in that place.
 2. (truefalse) True or false: an endemic species is always weak.  
    **Answer:** False. *Why:* False. A species with a small range can be well fitted to her place and live there for a very long time. The danger is that one fire, disease or dam can reach all of her at once.
@@ -685,7 +685,7 @@ Rudi listened until it stopped.
 5. (match) Match each species to the only place where she lives.  
    **Answer:** Narcondam hornbill → one island in the Andaman Sea; Sangai deer → floating grass of Loktak lake; Lion-tailed macaque → rainforests of the Western Ghats; Asiatic lion → in and around the Gir forest. *Why:* These four places are an island, a lake, a range of hills and one forest. A strong answer says that each one is cut off from other places like it.
 6. (mcq) A forest with 10 species is cut to half its size. How many species are likely to stay?  
-   Options: Exactly 5 / About 8 / None / All 10  
+   Options: About 8 / Exactly 5 / None / All 10  
    **Answer:** About 8. *Why:* Common species live in every part of a forest, so the half that stays still holds most of them. The first to go are the rare species with a few members. Choosing exactly 5 would only be right if every species lived in just one part of the forest, and that is not so.
 7. (write) Which species are lost first when a forest shrinks: common or rare? Use the Shrinking Forest Test.  
    **Answer:** The rare ones are lost first. The kinds with only 1 or 2 pieces were often missing from the half that was kept. The kinds with many pieces were on every part of the sheet, so some were always left.. *Why:* A strong answer uses the result: the kinds with few pieces went missing first. It says why, which is that a species with few members lives in few spots, so one cut can take all of her.
@@ -703,11 +703,11 @@ Rudi listened until it stopped.
 13. (perspective) Money for conservation is limited. Two scientists disagree about where to spend it first.  
    **Answer:** A strong answer picks one side and uses a fact, such as 'hotspots hold more than half the world's plant species on a tiny share of the land'. It also gives the other side its due, for example that grassland species are unique and have fewer defenders.. *Why:* Both views are real. Hotspots give the most species for each rupee, and other places hold species who are found nowhere else. Neither answer is wrong.
 14. (mcq) Why do islands and mountain tops hold many endemic species?  
-   Options: Their beings are cut off from others of their kind / They have more food than other places / They are always protected by law  
+   Options: They have more food than other places / They are always protected by law / Their beings are cut off from others of their kind  
    **Answer:** Their beings are cut off from others of their kind. *Why:* A group cut off for a very long time changes in its own way and can become a new species. Birds on a far island cannot easily fly back and mix with the others.
 15. (write) A house crow and a Narcondam hornbill each lose half of their forest. Who is in more danger, and why?  
    **Answer:** The hornbill is in more danger. All hornbills of her species live on one island, so half the forest may be half of her whole home. The crow lives in many places, so crows elsewhere are not touched.. *Why:* A strong answer says that the hornbill has nowhere else to live, and that one island is one place for a storm or a disease to reach.
-### Extinction, Chance and Small Numbers (stretch) (stretch, 15 questions)
+### Extinction, Chance and Small Numbers (stretch) (stretch, 16 questions)
 1. (mcq) Which is the biggest cause of species loss today?  
    Options: Habitat loss / Hunting for sport / Volcanoes / Meteors  
    **Answer:** Habitat loss. *Why:* Scientists record the threats to each species on the Red List. Loss of habitat to farms, logging and building is listed for more species than any other threat.
@@ -729,34 +729,36 @@ Rudi listened until it stopped.
 9. (perspective) Cheetahs were brought from Africa to India in 2022. Two scientists disagree about this.  
    **Answer:** A strong answer picks a side, gives a reason, and names something unknown, such as whether the cheetahs can live and breed in the space they have. It admits that the other side raises real points.. *Why:* This is a live argument among scientists, so there is no single correct answer. A strong answer uses reasons, and says what is still unknown.
 10. (mcq) Why can a small patch of forest lose species even when nobody cuts or hunts inside it?  
-   Options: Hot, dry wind from the open land reaches in / Animals dislike signboards / Rain falls less on small patches  
+   Options: Animals dislike signboards / Rain falls less on small patches / Hot, dry wind from the open land reaches in  
    **Answer:** Hot, dry wind from the open land reaches in. *Why:* The edge of a forest is hotter, drier and windier than the middle. In a small patch, most of the forest is edge. Species who need damp shade can no longer live there.
-11. (order) Put these in order, from the first event to the last.  
+11. (fill) When forest land is cut for a road, the rules ask for new ____ to be planted to make up for the trees that were cut.  
+   **Answer:** ['saplings']. *Why:* Saplings are young trees. The rules ask for them to be planted in place of the trees that were lost.
+12. (order) Put these in order, from the first event to the last.  
    **Answer:** ['A forest is cut into small patches', 'Each patch holds only a few animals', 'A disease reaches the few in one patch', 'The last members die']. *Why:* Cutting makes patches. Small patches hold small groups. A small group can be ended by one bad event. When the last member dies, the species is gone from that patch.
-12. (write) Explain in three sentences why scientists want a rare species to live in more than one place.  
+13. (write) Explain in three sentences why scientists want a rare species to live in more than one place.  
    **Answer:** If a species lives in only one place, one fire, disease or flood can reach all of her. In two or more places, some are likely to be spared. A group that is lost in one place can also be replaced from another.. *Why:* A strong answer says that one event can reach one place, and it says that a second place is a spare. It can use the Coin Years Test, where two islands with a corridor lost the birds less often.
-13. (mcq) India counted 1,411 tigers in 2006 and 3,682 in 2022. About how many times as many is that?  
-   Options: About 1.5 times / About 2.6 times / About 5 times  
+14. (mcq) India counted 1,411 tigers in 2006 and 3,682 in 2022. About how many times as many is that?  
+   Options: About 2.6 times / About 1.5 times / About 5 times  
    **Answer:** About 2.6 times. *Why:* Divide 3,682 by 1,411. That is a little more than 2.6, so the number rose by about 2.6 times in 16 years. Protection can work.
-14. (odd) Three of these help a species in danger. Which one is the odd one out?  
+15. (odd) Three of these help a species in danger. Which one is the odd one out?  
    Options: Joining two forests with a corridor / Making a protected area larger / Cutting a forest into 16 pieces / Counting the animals every few years  
    **Answer:** 2. *Why:* Cutting a forest into small pieces makes more edge and smaller groups, and that is a cause of species loss. The other three protect species.
-15. (truefalse) True or false: a species who is extinct in one country is extinct everywhere.  
+16. (truefalse) True or false: a species who is extinct in one country is extinct everywhere.  
    **Answer:** False. *Why:* False. A species who is gone from one country but alive elsewhere is locally extinct. Cheetahs became extinct in India in 1952, and they still live in Africa and Iran.
-### Protecting Places: Hard Questions (challenge) (challenge, 15 questions)
+### Protecting Places: Hard Questions (challenge) (challenge, 16 questions)
 1. (write) About half the species are lost when 90 in every 100 parts of a habitat go. Why are so many left?  
    **Answer:** Common species live in many parts of the habitat, so the 10 parts that are left still hold some of them. Only the rare species with few members and a small range are likely to lose every part where they lived.. *Why:* A strong answer says that species are spread unevenly. The first to go are the ones with a small range. It can use the Shrinking Forest Test, where the sixteenth of the sheet still had about 3 of the 10 kinds.
 2. (perspective) A forest is made a protected area, and a village already lives inside it. Three people disagree about what should happen.  
    **Answer:** A strong answer picks a view or a middle path, and gives evidence, such as the Bishnoi or the Maldhari who live beside wild animals, or the reserves where animals increased after villages moved. It names something unknown, such as how many animals each choice would keep.. *Why:* Scientists and communities still argue about this, so the key is to give a reason and to say what is unknown.
 3. (mcq) Which of these is protected by ordinary village people, not by a national park?  
-   Options: A sacred grove kept by a village / Jim Corbett National Park / A tiger reserve's core / A city zoo  
+   Options: Jim Corbett National Park / A sacred grove kept by a village / A tiger reserve's core / A city zoo  
    **Answer:** A sacred grove kept by a village. *Why:* Many sacred groves, such as the kavu of Kerala, have been kept by villages for hundreds of years. National parks and reserves are made and run by the state.
 4. (truefalse) True or false: one large protected area always keeps more species than several small ones.  
    **Answer:** False. *Why:* False. This is debated. A large area has less edge and holds bigger groups. Several areas in different places can be safer from one fire or one disease. Many scientists prefer large areas joined by corridors.
 5. (fill) A strip of habitat that joins two protected areas is called a ____.  
    **Answer:** ['corridor']. *Why:* Animals can walk along a corridor from one area to the other. A group lost in one area can then be replaced from the other.
 6. (mcq) A forest patch is 1 kilometre wide. Another is 4 kilometres wide. Which keeps more damp middle for its size?  
-   Options: The 4 kilometre patch / The 1 kilometre patch / They keep the same  
+   Options: The 1 kilometre patch / The 4 kilometre patch / They keep the same  
    **Answer:** The 4 kilometre patch. *Why:* If the dry edge reaches 100 metres in, about 64 in every 100 parts of the small patch stay damp, and about 90 in every 100 parts of the large patch do. A bigger patch has more middle for its edge.
 7. (write) The whole slice dried only at the rim. The 16 squares dried through. What does this say about forests cut by roads?  
    **Answer:** A small piece is all edge, like the small squares of bread. The air reaches every part, so there is no damp middle left. A forest cut into small pieces can dry and heat up right through, and species who need shade are lost.. *Why:* A strong answer uses the result: the small squares had no soft middle. It says that cutting makes new edges, so there is less deep forest.
@@ -765,7 +767,7 @@ Rudi listened until it stopped.
 9. (match) Match each problem to a way of helping.  
    **Answer:** A forest is cut into pieces → a corridor joins the pieces; All members live in one place → a second group in another place; Hunters kill the animals → guards and laws; Nobody knows how many are left → counting every few years; Cold hilltops get too warm → protect hills of many heights. *Why:* Each help answers its problem. A strong answer can say why a second group in another place protects against a single disaster.
 10. (mcq) About 1 million species are at risk, but only 2 million have names. Why can nobody say exactly how many are lost?  
-   Options: Most species were never counted / Extinction never happens / Scientists do not care  
+   Options: Extinction never happens / Scientists do not care / Most species were never counted  
    **Answer:** Most species were never counted. *Why:* Nobody can count the extinction of a species who has never been named. The figure of 1 million is an estimate built from the groups that have been studied.
 11. (order) Put the steps of saving a species in order.  
    **Answer:** ['Scientists count her and find the number falling', 'The Red List places her on a step', 'A law protects her habitat', 'Her numbers grow', 'The Red List moves her to a safer step']. *Why:* A species is first counted, so people know she is in trouble. Protection comes next. When the numbers grow, she can move to a safer step. This happened to the Indian rhinoceros.
@@ -773,10 +775,12 @@ Rudi listened until it stopped.
    **Answer:** It depends on what we mean. The animals are alive, but the species no longer hunts, migrates or teaches her young in the wild, so a part of her way of living is gone. A zoo group can still be a second home, and some species have been returned to the wild.. *Why:* There is no single right answer. A strong answer says what a species does in the wild, such as finding food and teaching the young, and admits that a zoo group may still keep the species alive.
 13. (truefalse) True or false: extinction is natural, so there is no need to try to stop it.  
    **Answer:** False. *Why:* False, though part of it is true. Extinction has always happened, and most species who ever lived are gone. But species are now dying out far faster than new ones form, and people cause most of the loss.
-14. (odd) Three of these are risks for a small group. Which one is the odd one out?  
+14. (write) Name two ways that protect wild animals in India, and say what each one does.  
+   **Answer:** A strong answer names the Wild Life (Protection) Act of 1972, which bans hunting protected animals and selling their skins, and a sanctuary or national park, where wild animals are kept safe from hunting and harm.. *Why:* A strong answer names one law and one protected place, and says what each does for the animals.
+15. (odd) Three of these are risks for a small group. Which one is the odd one out?  
    Options: One disease can reach every member / A few bad years can leave too few young / Close relatives must mate with each other / There is more food for each member  
    **Answer:** 3. *Why:* More food for each member helps a small group. The other three are real risks for small groups.
-15. (draw) Draw two forests, a road and a river between them. Show where an underpass or a bridge lets animals cross.  
+16. (draw) Draw two forests, a road and a river between them. Show where an underpass or a bridge lets animals cross.  
    **Answer:** A drawing with two forests joined by a strip of trees. Where the strip meets the road, there is a tunnel or a bridge for animals, and the same where it meets the river.. *Why:* A strong drawing puts the crossing exactly where the strip of trees meets the road or the river, and shows trees on both sides so that animals can find it.
 
 ## Videos
@@ -786,13 +790,13 @@ Rudi listened until it stopped.
 
 ## Quiz
 1. (mcq) Which species is found naturally only on one small island in the Andaman Sea?  
-   Options: The Narcondam hornbill / The house crow / The peafowl / The rock pigeon  
+   Options: The house crow / The peafowl / The rock pigeon / The Narcondam hornbill  
    **Answer:** The Narcondam hornbill. *Why:* The Narcondam hornbill lives only on Narcondam, an island of about 7 square kilometres. The other three live across much of India.
 2. (mcq) A species lives in only one valley. What is her biggest danger?  
-   Options: One fire or disease can reach all of her / She cannot find a mate / She eats too much / Valleys have no food  
+   Options: She cannot find a mate / She eats too much / One fire or disease can reach all of her / Valleys have no food  
    **Answer:** One fire or disease can reach all of her. *Why:* A small range means that one event can reach every member. This is why endemic species need protection and a second home.
 3. (mcq) A forest loses half of its area. Which species are most likely to be lost first?  
-   Options: Those with few members in a few places / Those with the most members / The largest animals / Those who are most beautiful  
+   Options: Those with the most members / The largest animals / Those with few members in a few places / Those who are most beautiful  
    **Answer:** Those with few members in a few places. *Why:* Species with few members live in few spots, so one cut can take all of them. Common species live all over, so some are always left.
 4. (mcq) Which part of a forest patch is hotter, drier and windier?  
    Options: The edge / The middle / The roots / The treetops only  
@@ -800,16 +804,16 @@ Rudi listened until it stopped.
 5. (truefalse) True or false: a group of 4 animals and a group of 16 are equally likely to die out by chance.  
    **Answer:** False. *Why:* False. All 4 coins land tails about 1 time in 16, but all 16 land tails about 1 time in 65,000. A small group can end by chance much more easily.
 6. (mcq) Two islands are joined by a corridor. Why do they lose all their animals less often than two islands with none?  
-   Options: A lost group can be replaced from the other island / The animals eat less / Corridors make animals breed faster  
+   Options: The animals eat less / Corridors make animals breed faster / A lost group can be replaced from the other island  
    **Answer:** A lost group can be replaced from the other island. *Why:* If one island is emptied, animals can walk across from the other. Both islands must be empty at once for the species to be lost.
 7. (mcq) Which of these is NOT one of the five main causes of extinction today?  
-   Options: Having too many protected areas / Habitat loss / Pollution / Taking too many  
+   Options: Habitat loss / Pollution / Taking too many / Having too many protected areas  
    **Answer:** Having too many protected areas. *Why:* The five causes are habitat loss, taking too many, brought-in species, pollution and a changing climate. Protected areas help species.
 8. (mcq) What does 'Critically Endangered' mean on the Red List?  
-   Options: Extremely high risk of becoming extinct / Already extinct / Not at risk / Found only in zoos  
+   Options: Already extinct / Extremely high risk of becoming extinct / Not at risk / Found only in zoos  
    **Answer:** Extremely high risk of becoming extinct. *Why:* It is the highest step of risk before Extinct. The great Indian bustard and the gharial are on it.
 9. (mcq) What does a corridor do?  
-   Options: It joins two protected areas so animals can walk between them / It keeps all people out of a forest / It counts the animals in a forest / It stops the rain from falling  
+   Options: It keeps all people out of a forest / It joins two protected areas so animals can walk between them / It counts the animals in a forest / It stops the rain from falling  
    **Answer:** It joins two protected areas so animals can walk between them. *Why:* A corridor is a strip of habitat. A group lost in one area can be replaced from the other, and animals can find food and mates.
 10. (mcq) Which kind of protected area in India is the strictest, with no farming or grazing inside?  
    Options: A national park / A wildlife sanctuary / A sacred grove / A city garden  
@@ -819,6 +823,12 @@ Rudi listened until it stopped.
    **Answer:** Women of Assam guarding nests of hargila storks. *Why:* The Hargila Army, a group of women led by the biologist Purnima Devi Barman, protects nesting storks. Many forests are alive today because ordinary people protected them.
 12. (truefalse) True or false: scientists know exactly how many species have died out in the last 50 years.  
    **Answer:** False. *Why:* False. Most species have never been named or counted, so nobody can count exactly. Scientists build estimates from the groups they have studied.
+13. (mcq) In many places, what must a person get before cutting down a big tree?  
+   Options: A promise from the neighbours / Nothing, if the tree is old / A permit from the forest or local office / A ticket from the market  
+   **Answer:** A permit from the forest or local office. *Why:* In many places a big tree cannot be cut without permission. A promise from neighbours, the age of a tree, or a market ticket does not allow the cutting.
+14. (mcq) A hunter kills a protected tiger and sells the skin. What does the law say?  
+   Options: It is allowed if the hunter has a village permit / It is allowed, because the skin is sold in shops / It is allowed only outside sanctuaries / It is banned under the Wild Life (Protection) Act, 1972  
+   **Answer:** It is banned under the Wild Life (Protection) Act, 1972. *Why:* The Wild Life (Protection) Act of 1972 bans hunting protected animals and selling their skins. A village permit, a shop, or a place outside a sanctuary does not make it legal.
 
 ## Applications
 - Forest teams in India count tigers every four years with hidden cameras. The counts show whether protection is working.
@@ -831,9 +841,9 @@ Rudi listened until it stopped.
 
 ## Spotted around us
 - A house crow and a jungle crow on the same wall. Look for the grey neck of the house crow.
-- A sacred grove, a kavu in Kerala or a small patch of old trees by a temple, with a different kind of forest inside.
+- A sacred grove or a small patch of old trees by a temple, with a different kind of forest inside.
 - A signboard at a forest gate that says National Park, Wildlife Sanctuary or Tiger Reserve.
-- A road sign that warns of animals crossing, on a highway through a forest, for example near Bandipur or Mudumalai.
+- A road sign that warns of animals crossing, on a highway through a forest.
 - A city park or a school garden. Count how many kinds of trees, birds and insects live there compared with a big forest.
 - A zoo or a nature centre label that gives the Red List step of an animal.
 - A market stall that sells many local kinds of rice, millet or banana, each with its own name.
@@ -883,13 +893,16 @@ Everybody Eats (sci.ecology.L5): Topic-level song
 - [iNaturalist](https://www.inaturalist.org) · interactive: For the parent: photograph a plant or animal near you and find out who she is. Useful for Ten Minutes at the Window.
 - [The IUCN Red List](https://www.iucnredlist.org) · interactive: For the parent: look up the Red List step of any species, with her range and the threats she faces. Useful for A Rescue Plan.
 - [India Biodiversity Portal](https://indiabiodiversity.org) · interactive: For the parent: pages on Indian species, with maps of where each one has been seen.
-- [Eravikulam National Park]() · place · Near Munnar, Kerala: High grassy hills where Nilgiri tahr can be seen. A real sky island of the Western Ghats.
-- [Silent Valley National Park]() · place · Near Mannarkkad, Palakkad district, Kerala: A rainforest that was saved from a dam. It shelters many lion-tailed macaques.
-- [Gir National Park]() · place · Sasan Gir, Junagadh district, Gujarat: The only place in the world where wild Asiatic lions live.
+- Eravikulam National Park · place · Near Munnar, Kerala: High grassy hills where Nilgiri tahr can be seen. A real sky island of the Western Ghats.
+- Silent Valley National Park · place · Near Mannarkkad, Palakkad district, Kerala: A rainforest that was saved from a dam. It shelters many lion-tailed macaques.
+- Gir National Park · place · Sasan Gir, Junagadh district, Gujarat: The only place in the world where wild Asiatic lions live.
 
 ## Things to buy
 - [A school atlas of India](https://www.amazon.in/s?k=school+atlas+india) (book): For Only Here and A Rescue Plan: it helps to find the Western Ghats, the islands and the hills of the northeast. A printed outline map also works. Used in a3, p1. Keep it beside the unit for the map activities.
 - [A pad of graph paper](https://www.amazon.in/s?k=graph+paper+pad+a4) (material): For the Cold Hilltop and A Way Through. A squared maths notebook also works. Used in a4, c1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Bread Forest: is one big patch the same as sixteen small ones?, Only Here: where in India do some species live?, The Cold Hilltop: what happens to a mountain species when the air warms?. About ₹10 to ₹30. Any school ruler is fine. Used in e3, a3, a4, c1. Get it before The Bread Forest: is one big patch the same as sixteen small ones?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Shrinking Forest Test: how many kinds are left when a forest is cut to half?, Same Count, Different Forest: why counting kinds is not enough. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1, a2. Get it before The Shrinking Forest Test: how many kinds are left when a forest is cut to half?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What does 'endemic' mean? → Found naturally in only one place.
@@ -908,7 +921,7 @@ Everybody Eats (sci.ecology.L5): Topic-level song
 ## Sources
 - Notebook items bio:200 (conservation biology, biodiversity, climate change impact) and bio:261 (conservation biology: endangered species, habitat loss, restoration), from the curriculum entry
 - NCERT Class 5 Chapter 6 'Some Unique Places' and NIOS Open Basic Education Environmental Studies Level B Lesson 7 'Life of Plants and Animals', for coverage only
-- The sibling Level 5 unit on food webs, so that this unit does not repeat its experiments, story or deep truth
+- The sibling Level 5 unit on food webs, so that this lesson does not repeat its experiments, story or deep truth
 - Myers, The Environmentalist 1988, 'Threatened biotas: hotspots in tropical forests', and Myers and others, Nature 2000, 'Biodiversity hotspots for conservation priorities'
 - Lovejoy and others, 1986, on the Biological Dynamics of Forest Fragments Project near Manaus, and Ferraz and others, PNAS 2003, 'Rates of species loss from Amazonian forest fragments'
 - Laurance and others, Biological Conservation 2011, 'The fate of Amazonian forest fragments: A 32-year investigation'

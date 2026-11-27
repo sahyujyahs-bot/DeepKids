@@ -1,9 +1,9 @@
 # Fast and slow: how to tell who is faster in a race
 `sci.motion.speed.L2`
 
-**Summary.** Can a slow walker beat a fast one? Yes, with a head start, but only in a short race. In this unit you will race across the room with tiny steps, giant steps and your ordinary walk, count claps to keep time, and run a head-start race to see who wins.
+**Summary.** Can a slow walker beat a fast one? Yes, with a head start, but only in a short race. In this lesson you will race across the room with tiny steps, giant steps and your ordinary walk, count claps to keep time, and run a head-start race to see who wins.
 
-**Intro.** *Cross the room taking tiny steps, as fast as your feet can go. Then cross it again, walking the way you always walk. Which way got you there first?* Fast feet do not always mean a fast walk. In this unit you find out what speed is, and how to tell who really is faster. You learn to count time with steady claps. You find the two fair ways to judge a race. Then you work out why the walker who looks busiest is not always the one who wins.
+**Intro.** *Cross the room taking tiny steps, as fast as your feet can go. Then cross it again, walking the way you always walk. Which way got you there first?* Fast feet do not always mean a fast walk. In this lesson you find out what speed is, and how to tell who really is faster. You learn to count time with steady claps. You find the two fair ways to judge a race. Then you work out why the walker who looks busiest is not always the one who wins.
 
 ## Learning outcomes
 0. By the end I can say that speed is how fast something moves, and use the words faster and slower.
@@ -404,7 +404,7 @@ Joel thought about it all the way home on the bus. At the bus stop, he tried wal
 1. (match) Draw a line from each racer to the word that fits: faster or slower than you running.  
    **Answer:** a cheetah → faster; a snail → slower; a train → faster; a tortoise → slower. *Why:* A cheetah and a train go further than you in the same time. A snail and a tortoise go less far.
 2. (mcq) In the Step Race, you walked the same path three ways. How did you know which way was fastest?  
-   Options: It took the fewest claps / It took the most steps / It made my feet move fastest  
+   Options: It took the most steps / It made my feet move fastest / It took the fewest claps  
    **Answer:** It took the fewest claps. *Why:* The distance was the same each time. So the way that took the least time, the fewest claps, was the fastest.
 3. (draw) Draw two footprint trails across the same room: one with tiny steps and one with your ordinary steps.  
    **Answer:** Two trails of the same length. The tiny-step trail has many footprints close together. The ordinary trail has fewer footprints, further apart.. *Why:* A strong drawing shows that tiny steps need many more footprints to cover the same distance.
@@ -479,37 +479,37 @@ Joel thought about it all the way home on the bus. At the bus stop, he tried wal
    Options: How far something goes in a stretch of time / How heavy something is / How big something is  
    **Answer:** How far something goes in a stretch of time. *Why:* Speed tells you how far a thing goes in a stretch of time. Weight and size are different things.
 2. (mcq) Meera and Zoya walk to the same door. Meera takes 5 claps and Zoya takes 8 claps. Who is faster?  
-   Options: Meera / Zoya / They are the same  
+   Options: Zoya / They are the same / Meera  
    **Answer:** Meera. *Why:* The distance is the same, and Meera took fewer claps. If you picked Zoya, remember that more claps means more time, so slower.
 3. (mcq) Two children ride cycles for 1 minute. Chitra goes 150 metres. Hema goes 100 metres. Who is faster?  
-   Options: Chitra / Hema / You cannot tell  
+   Options: Hema / Chitra / You cannot tell  
    **Answer:** Chitra. *Why:* The time is the same, and Chitra went further. So she is faster.
 4. (mcq) Which race is fair?  
-   Options: Everyone starts at one line and goes at the same 'Go!' / The youngest starts closer to the finish / Each runner starts when they feel ready  
+   Options: The youngest starts closer to the finish / Everyone starts at one line and goes at the same 'Go!' / Each runner starts when they feel ready  
    **Answer:** Everyone starts at one line and goes at the same 'Go!'. *Why:* A fair race has the same start, the same finish and the same signal for everyone. A head start is kind, but it is not a fair test of speed.
 5. (mcq) You cross the room with tiny quick steps and then with your ordinary walk. Which usually takes fewer claps?  
    Options: Your ordinary walk / Tiny quick steps / Both always take the same  
    **Answer:** Your ordinary walk. *Why:* Each tiny step covers only a foot's length, so tiny steps take more claps. If you picked tiny steps, you judged speed by how busy the feet look.
 6. (mcq) How fast you walk depends on what?  
-   Options: How long your steps are and how often you take them / Only how fast your feet move / Only how long your legs are  
+   Options: Only how fast your feet move / How long your steps are and how often you take them / Only how long your legs are  
    **Answer:** How long your steps are and how often you take them. *Why:* Speed needs both: the length of each step and how many steps you take in a clap.
 7. (mcq) A slow walker starts well ahead of a fast walker. Which race will the slow walker most likely win?  
-   Options: A short race / A long race / Every race  
+   Options: A long race / A short race / Every race  
    **Answer:** A short race. *Why:* The fast walker gains a little every clap. In a short race, the finish comes before the fast walker catches up.
 8. (mcq) In the hare and tortoise story, why does the tortoise win?  
-   Options: The hare stops to sleep / Tortoises are faster than hares / The tortoise starts ahead  
+   Options: Tortoises are faster than hares / The hare stops to sleep / The tortoise starts ahead  
    **Answer:** The hare stops to sleep. *Why:* A hare runs much faster than a tortoise walks. The tortoise wins only because the hare stops for a long time.
 9. (mcq) Why should claps be steady when you use them to time a race?  
-   Options: So every racer is timed the same way / So the claps sound nice / So the race ends sooner  
+   Options: So the claps sound nice / So the race ends sooner / So every racer is timed the same way  
    **Answer:** So every racer is timed the same way. *Why:* The claps are the clock. If they speed up or slow down, the race is not fair.
 10. (mcq) Before you try an experiment, what should you do first?  
-   Options: Guess what will happen and say why / Write the answer you want / Skip the guess  
+   Options: Write the answer you want / Guess what will happen and say why / Skip the guess  
    **Answer:** Guess what will happen and say why. *Why:* A guess with a reason lets the experiment show you whether your idea was right.
 11. (mcq) A mosquito beats her wings very fast. Why can you still run away from her?  
-   Options: Each wing beat moves her only a tiny way / Mosquitoes cannot see you / Her wings go backwards  
+   Options: Mosquitoes cannot see you / Each wing beat moves her only a tiny way / Her wings go backwards  
    **Answer:** Each wing beat moves her only a tiny way. *Why:* Many quick, tiny movements can add up to a slow speed, like tiny quick steps.
 12. (mcq) What is the fastest thing there is?  
-   Options: Light / A cheetah / An aeroplane  
+   Options: A cheetah / Light / An aeroplane  
    **Answer:** Light. *Why:* Light travels about 3 lakh kilometres every second. Nothing has been found that goes faster.
 
 ## Applications
@@ -522,11 +522,11 @@ Joel thought about it all the way home on the bus. At the bus stop, he tried wal
 
 ## Spotted around us
 - The slow cycle race at a school sports day, where the last one to finish without putting a foot down wins.
-- A snake boat race in Kerala, with long boats and rowers pulling together to a song.
+- A boat race, with long boats and rowers pulling together to a song.
 - A line of ants on the kitchen wall, legs busy, moving slowly.
 - A speed limit sign on a highway, showing the top speed allowed in kilometres an hour.
 - The numbers on a bus or car speedometer, showing how fast it is going.
-- Kites at Makar Sankranti in Gujarat, darting fast in strong wind and drifting slowly in light wind.
+- Kites at Makar Sankranti, darting fast in strong wind and drifting slowly in light wind.
 
 ## Open questions
 - **What is the fastest any animal could ever run?** A cheetah can reach more than 90 kilometres an hour for a short burst. Scientists still argue about what sets the limit for any land animal: muscles, bones, heat or breathing.
@@ -566,10 +566,17 @@ Fast and Slow, Who Will Win? (sci.motion.L2): Topic-level song for Motion L2
 
 ## Links
 - [Forces and Motion: Basics (PhET simulation)](https://phet.colorado.edu/en/simulations/forces-and-motion-basics) · simulation: For the parent and child together: in the Motion screen, push a box and watch the speed meter go up and down.
-- [Nehru Trophy Boat Race]() · place · Alappuzha: A famous snake boat race on Punnamada Lake, usually held in August, where rowers pull together to boat songs.
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: A science museum with hands-on galleries on motion, engines and machines.
+- Nehru Trophy Boat Race · place · Alappuzha: A famous snake boat race on Punnamada Lake, usually held in August, where rowers pull together to boat songs.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru: A science museum with hands-on galleries on motion, engines and machines.
 
 ## Things to buy
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in The Step Race: tiny steps, giant steps or my ordinary walk?, The Clap Clock: can you count seconds?, The Slow Race: who can be last without stopping?. About ₹150 to ₹400. A phone stopwatch works well. Used in e1, a2, a4. Get it before The Step Race: tiny steps, giant steps or my ordinary walk?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Sprout Race: whose root grows fastest?. About ₹10 to ₹30. Any school ruler is fine. Used in p1. Get it before The Sprout Race: whose root grows fastest?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Sprout Race: whose root grows fastest?, The Slow Lane: make a marble take as long as possible. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in p1, c1. Get it before The Sprout Race: whose root grows fastest?.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in The Sprout Race: whose root grows fastest?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in p1. Get it before The Sprout Race: whose root grows fastest?.
+- [A small toy car with free-rolling wheels](https://www.amazon.in/s?k=toy+car+pull+back+small) (material): Used in Faster Than Me? A card sort. About ₹100 to ₹200. A marble or a round torch cell works. Used in a3. Get it before Faster Than Me? A card sort.
+- [Marbles (a few)](https://www.amazon.in/s?k=glass+marbles+pack) (material): Used in The Slow Lane: make a marble take as long as possible. About ₹10 to ₹40. Small round stones or dried chana. Used in c1. Get it before The Slow Lane: make a marble take as long as possible.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is speed? → How far something goes in a stretch of time.

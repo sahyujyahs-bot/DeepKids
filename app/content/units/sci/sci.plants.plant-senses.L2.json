@@ -532,11 +532,11 @@
       "t": "mcq",
       "q": "We turned the cup round, and by the next day the shoots pointed at the window again. What does this show?",
       "options": [
-       "The shoots sense where the light is and grow towards it",
        "Someone moved the shoots in the night",
+       "The shoots sense where the light is and grow towards it",
        "Shoots can only grow one way"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Nothing else changed, only the side facing the light. The shoots turned back to the light by themselves, by growing."
      }
     }
@@ -856,11 +856,11 @@
       "t": "mcq",
       "q": "You touched the tip of one leaf. Leaflets further along the leaf folded too. What does that show?",
       "options": [
-       "A signal travelled along the leaf",
        "The wind folded them",
-       "They fold only when they are old"
+       "They fold only when they are old",
+       "A signal travelled along the leaf"
       ],
-      "a": 0,
+      "a": 2,
       "why": "You touched only one place. The leaflets further along folded too, so a message must have passed along the leaf. That message is a signal."
      },
      "wait": "Wait 10 to 20 minutes, looking every 5 minutes"
@@ -1089,11 +1089,11 @@
       "t": "mcq",
       "q": "A sprout is lying with the root pointing up. Which card goes with it?",
       "options": [
-       "The root tip curves round and grows down.",
        "The leaflets fold up, pair after pair.",
-       "The shoot bends towards the window."
+       "The shoot bends towards the window.",
+       "The root tip curves round and grows down."
       ],
-      "a": 0,
+      "a": 2,
       "why": "A root senses which way is down, and curves round to grow that way. Folding leaflets go with a touch, and a bending shoot goes with light."
      }
     },
@@ -1189,11 +1189,11 @@
       "t": "mcq",
       "q": "In Plant Says, why must the light moves be slow?",
       "options": [
-       "A shoot bends by growing, and growing is slow",
        "Plants are tired",
-       "Light moves slowly"
+       "Light moves slowly",
+       "A shoot bends by growing, and growing is slow"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A shoot bends because one side grows longer than the other. Growing takes hours. A touch-me-not folds fast because water moves quickly out of cells."
      }
     },
@@ -1289,11 +1289,11 @@
       "t": "mcq",
       "q": "You turned a money plant pot round. A week or more later, most leaves faced the window again. Why?",
       "options": [
-       "The plant sensed the light and turned the leaves towards it",
        "The wind blew the leaves round",
+       "The plant sensed the light and turned the leaves towards it",
        "The leaves fell off and new ones grew"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The plant senses where the light comes from and slowly turns the leaves to face it, by growing. That way each leaf catches more light to make food."
      }
     }
@@ -1400,11 +1400,11 @@
      "t": "mcq",
      "p": "Why did we grow the moong in the dark before the window test?",
      "opts": [
-      "So all the shoots stood straight before the test",
       "So the shoots grow faster in the dark",
-      "So the shoots turn green"
+      "So the shoots turn green",
+      "So all the shoots stood straight before the test"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Shoots grown near a window lean before the test starts. In the dark they stand straight, so any lean we see later comes from the window light.",
      "context": "This question is about the window test. You grew moong shoots in the dark, put them by a window, and later turned the cup round.",
      "how": "e1"
@@ -1559,10 +1559,10 @@
      "p": "In the root box, a sprout is laid with the root pointing sideways, to the left. Where will the root tip point the next day?",
      "opts": [
       "Still to the left",
-      "Curved round, pointing down",
-      "Up, towards the light"
+      "Up, towards the light",
+      "Curved round, pointing down"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Roots grow in the direction gravity pulls, so the tip curves down. Picking 'up' mixes up roots with shoots.",
      "context": "This question is about the root box. You laid four moong sprouts in a clear box, with their roots pointing up, down, left and right.",
      "how": "e2"
@@ -1690,11 +1690,11 @@
      "t": "mcq",
      "p": "Darwin covered the tips of grass seedlings with tiny caps. Then the seedlings did not bend to the light. What does this show?",
      "opts": [
-      "The tip senses the light",
       "The caps were too heavy",
+      "The tip senses the light",
       "Grass grows only in the dark"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Only the tip was covered, and the bending stopped. So the tip is where the light is sensed."
     },
     {
@@ -1735,10 +1735,10 @@
      "p": "A cup of moong shoots stands by a window. You turn the cup a little every hour, all day long. Which way will the shoots lean in the evening?",
      "opts": [
       "Strongly towards the window",
-      "Mostly straight up",
-      "Away from the window"
+      "Away from the window",
+      "Mostly straight up"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Each side of the cup faces the light in turn, so no side stays shady for long. The shoots grow mostly straight. Picking 'strongly towards the window' forgets that the cup kept turning."
     },
     {
@@ -1835,11 +1835,11 @@
    "t": "mcq",
    "p": "You put a cup of straight moong shoots by a window. The next day, which way will they lean?",
    "opts": [
-    "Towards the window",
     "Away from the window",
+    "Towards the window",
     "They fall flat"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The shoots sense the light and grow towards it. If you picked 'they fall flat', you may have thought the shoots get knocked over. They stay standing and only lean.",
    "outcome": 1
   },
@@ -1847,11 +1847,11 @@
    "t": "mcq",
    "p": "Which part of a shoot senses the light?",
    "opts": [
-    "The tip",
     "The roots",
+    "The tip",
     "The seed"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Darwin covered the tips of seedlings, and they stopped bending to the light. Picking 'roots' mixes up light with gravity.",
    "outcome": 1
   },
@@ -1860,10 +1860,10 @@
    "p": "A moong sprout lies with the root pointing up. What will the root do?",
    "opts": [
     "Keep growing up",
-    "Curve round and grow down",
-    "Stop growing"
+    "Stop growing",
+    "Curve round and grow down"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Roots grow in the direction gravity pulls. If you picked 'keep growing up', you may have thought a root just carries on the way it points.",
    "outcome": 2
   },
@@ -1871,11 +1871,11 @@
    "t": "mcq",
    "p": "What helps a root tip know which way is down?",
    "opts": [
-    "Tiny heavy grains that sink to the lowest side of each cell",
     "The root sees the floor",
+    "Tiny heavy grains that sink to the lowest side of each cell",
     "Water pulls the root"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The grains always sink to the lowest side, whichever way the root lies. Roots have no eyes, so 'sees the floor' cannot be right.",
    "outcome": 2
   },
@@ -1883,11 +1883,11 @@
    "t": "mcq",
    "p": "What does a touch-me-not do when you touch the tip of one leaf?",
    "opts": [
-    "The leaflets fold up, pair after pair",
     "The leaf turns red",
+    "The leaflets fold up, pair after pair",
     "The plant grows taller"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A signal runs along the leaf, water moves out of cells at the base of each leaflet, and the leaflets fold.",
    "outcome": 3
   },
@@ -1907,11 +1907,11 @@
    "t": "mcq",
    "p": "How does a moong shoot bend towards the light?",
    "opts": [
-    "The shady side of the stem grows longer, so the stem curves",
     "The plant walks on their roots",
-    "The wind blows the shoot over"
+    "The wind blows the shoot over",
+    "The shady side of the stem grows longer, so the stem curves"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The plant sends a growth chemical to the shady side. That side grows longer, so the stem curves towards the light.",
    "outcome": 4
   },
@@ -1919,11 +1919,11 @@
    "t": "mcq",
    "p": "Why can't we see a moong shoot bending, even if we stare at the shoot?",
    "opts": [
-    "The shoot bends by growing, and growing is slow",
     "The shoot moves only when nobody is looking",
+    "The shoot bends by growing, and growing is slow",
     "Shoots never bend"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Growing takes hours. We see the bend only if we look again later, or watch a time-lapse film.",
    "outcome": 4
   },
@@ -1943,11 +1943,11 @@
    "t": "mcq",
    "p": "In one experiment, a scientist dropped touch-me-not plants gently, again and again, with no harm. What happened after a few drops?",
    "opts": [
-    "Many stopped folding their leaves for the drop",
     "They folded faster each time",
+    "Many stopped folding their leaves for the drop",
     "They lost all their leaves"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Many stopped folding for the drop. They still folded when shaken in a new way, so they were not just tired. Scientists still argue about whether to call this learning.",
    "outcome": 3
   },
@@ -1967,11 +1967,11 @@
    "t": "mcq",
    "p": "Which of these do plants sense?",
    "opts": [
-    "Light, gravity and touch",
     "Only water",
+    "Light, gravity and touch",
     "Nothing at all"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Plants sense light, which way is down, touch, water and more. If you picked 'nothing at all', you may have thought that a plant that stays still senses nothing.",
    "outcome": 0
   }
@@ -2143,6 +2143,65 @@
     "a2"
    ],
    "plan": "Seeds have a hard coat. Soak them in warm water overnight, and they sprout in about one to two weeks, so start early. A plant from a nursery can be used the same day."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Straight Shoots by a Window. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before Straight Shoots by a Window."
+  },
+  {
+   "id": "b-cotton-wool",
+   "item": "Cotton wool",
+   "kind": "material",
+   "why": "Used in The Window Test: will moong shoots turn back to the light?. About ₹20 to ₹50. Torn clean cloth works.",
+   "url": "https://www.amazon.in/s?k=cotton+wool+roll",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before The Window Test: will moong shoots turn back to the light?."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in The Root Box: which way will four roots grow?. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before The Root Box: which way will four roots grow?."
+  },
+  {
+   "id": "b-a-small-toy-car-with-free-ro",
+   "item": "A small toy car with free-rolling wheels",
+   "kind": "material",
+   "why": "Used in Straight Shoots by a Window. About ₹100 to ₹200. A marble or a round torch cell works.",
+   "url": "https://www.amazon.in/s?k=toy+car+pull+back+small",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before Straight Shoots by a Window."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

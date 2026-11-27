@@ -473,14 +473,18 @@
     "source": "Tao Te Ching 11",
     "teaching": "Thirty spokes meet in one hub, but it is the empty space in the hub that makes the wheel useful.",
     "link": "At the middle of the whirler there is only a hole in a pen. Yet the pull on the bag points to that empty hole all the time. The empty middle is what the whole circle is built around.",
-    "verse": ["三十輻共一轂，當其無，有車之用。"],
+    "verse": [
+     "三十輻共一轂，當其無，有車之用。"
+    ],
     "verse_lang": "zh"
    },
    {
     "source": "Rig Veda 1.164.11",
     "teaching": "The ancient singers of the Rig Veda spoke of a wheel with twelve spokes that turns round the sky and does not wear out. They saw the turning of the sky as a wheel of order.",
     "link": "Today we know that a pull towards a middle keeps the Moon and the planets going round, year after year, just like the bag on a string.",
-    "verse": ["द्वादशारं नहि तज्जराय वर्वर्ति चक्रं परि द्यामृतस्य ।"],
+    "verse": [
+     "द्वादशारं नहि तज्जराय वर्वर्ति चक्रं परि द्यामृतस्य ।"
+    ],
     "verse_lang": "sa"
    }
   ],
@@ -692,11 +696,11 @@
       "t": "mcq",
       "q": "A stone is whirled in a circle on a string, and the string snaps. What does the stone do?",
       "options": [
-       "Flies off straight, along the way it was moving",
        "Flies outward, away from the middle",
-       "Keeps going round in a circle"
+       "Keeps going round in a circle",
+       "Flies off straight, along the way it was moving"
       ],
-      "a": 0,
+      "a": 2,
       "why": "When the pull stops, nothing bends the path of the stone. It goes straight on, along the way it was moving at that moment. Picking 'flies outward' mixes up what the string feels with what the stone does. Picking 'keeps going round' forgets that the string was the thing holding the stone in the circle."
      },
      "context": "In this step, you play one practice card to learn how the game works."
@@ -749,11 +753,11 @@
       "t": "mcq",
       "q": "A car goes through a bend at 30 kilometres an hour. Then it goes through the same bend at 60 kilometres an hour. How does the grip it needs change?",
       "options": [
-       "It needs four times as much grip",
        "It needs twice as much grip",
-       "It needs the same grip"
+       "It needs the same grip",
+       "It needs four times as much grip"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Twice the speed in the same bend needs four times the pull towards the middle. Picking 'twice as much' forgets that a faster car both turns more quickly and has more speed to turn. The two effects multiply."
      },
      "context": "In this step, you add up the scores and try one last tricky card."
@@ -905,11 +909,11 @@
       "t": "mcq",
       "q": "Why is a piece of tape stuck on the string at 50 centimetres from the bag?",
       "options": [
-       "So the circle is the same size every time",
        "So the string looks neat",
-       "So the coins stay in the pouch"
+       "So the coins stay in the pouch",
+       "So the circle is the same size every time"
       ],
-      "a": 0,
+      "a": 2,
       "why": "In a fair test, only one thing changes. If the string above the pen were longer on some tries, the circle would be bigger. Then the number of turns could change because of the bigger circle, and not because of the coins."
      },
      "context": "In this step, you build the whirler. The pen, the string and the bag are the same for every test."
@@ -936,11 +940,11 @@
       "t": "mcq",
       "q": "With 16 coins, the bag went round faster than with 4 coins. Why did it need to?",
       "options": [
-       "A bigger pull on the string needs a faster circle to match it",
        "The bigger pouch made the string shorter",
+       "A bigger pull on the string needs a faster circle to match it",
        "A faster bag is always lighter"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The coins pull the bag inward. To go round in the same circle, the bag needs a pull towards the middle that equals the coins' pull. A bigger pull goes with a faster speed. The tape shows that the string did not get shorter, and the bag did not get lighter."
      },
      "context": "In this step, you change only the number of coins, and count the turns for each."
@@ -1098,11 +1102,11 @@
       "t": "mcq",
       "q": "Why do we put the coins on different sides of the plate, and not in a line?",
       "options": [
-       "So that a coin that slides off does not knock the others",
        "So that the plate looks neat",
-       "So that the heavy coin is on the left"
+       "So that the heavy coin is on the left",
+       "So that a coin that slides off does not knock the others"
       ],
-      "a": 0,
+      "a": 2,
       "why": "If the coins were in a line, a coin that slides off would crash into the coin beyond it, and spoil the test. Putting the coins on different sides keeps each coin's path clear."
      },
      "context": "In this step, you set up the plate and the coins."
@@ -1118,11 +1122,11 @@
       "t": "mcq",
       "q": "The coin at the edge of the plate slid off before the coin near the middle. What is the best reason?",
       "options": [
-       "The coin at the edge goes round a bigger circle, and needs more friction to stay on",
        "The coin at the edge is heavier",
+       "The coin at the edge goes round a bigger circle, and needs more friction to stay on",
        "The coin near the middle is stuck to the plate"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The edge coin goes round a bigger circle and moves faster, so it needs a bigger pull towards the middle. Friction is the only pull the plate gives, so the edge coin loses its grip first. The coins had the same weight, and none was stuck."
      },
      "context": "In this step, you turn the plate faster and faster, and see which coin slides off first."
@@ -1138,11 +1142,11 @@
       "t": "mcq",
       "q": "The single coin and the stack of three coins slid off at about the same time. What is the best explanation?",
       "options": [
-       "The stack needs three times the pull, but the plate also grips it three times as hard",
        "The stack has no weight",
+       "The stack needs three times the pull, but the plate also grips it three times as hard",
        "Coins never slide off in stacks"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A heavier stack needs a bigger pull to go round, because it has more mass. It also presses harder on the plate, so the friction that holds it grows in the same proportion. The two cancel, so the stack and the single coin slide off at the same speed."
      },
      "context": "In this step, you test whether a heavy stack of coins slides off before a single coin."
@@ -1365,11 +1369,11 @@
       "t": "mcq",
       "q": "The marble went round higher on the wall when you swirled faster. What is the best explanation?",
       "options": [
-       "A faster marble needs a bigger push towards the middle, and the wall gives a bigger push higher up",
        "The marble gets lighter when it goes fast",
+       "A faster marble needs a bigger push towards the middle, and the wall gives a bigger push higher up",
        "The kadai pulls the marble up"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The wall pushes the marble inward and upward. The steeper part of the wall, higher up, pushes more inward. A faster marble needs a bigger inward push, so it climbs to where the wall can give it. The marble does not get lighter, and the kadai does not pull."
      },
      "context": "In this step, you swirl the marble gently and then harder, and watch how high it climbs."
@@ -1489,11 +1493,11 @@
       "t": "mcq",
       "q": "The water stayed in the upside-down bucket when you swung fast, but fell out when you swung slowly. What is the best explanation?",
       "options": [
-       "At the top, the bucket must move downward faster than the water would fall on its own",
        "The water became lighter when you swung fast",
+       "At the top, the bucket must move downward faster than the water would fall on its own",
        "Fast swinging stuck the water to the bucket with glue"
       ],
-      "a": 0,
+      "a": 1,
       "why": "At the top, gravity pulls the water down. If the bucket is moving down faster than the water would fall, the bottom of the bucket stays with the water and pushes on it. If the swing is too slow, the water falls away from the bucket. The water's weight did not change."
      },
      "context": "In this step, you find the slowest swing that keeps the water in."
@@ -1729,11 +1733,11 @@
       "t": "mcq",
       "q": "With the same pull, the bag on the longest string went round fewer times in 10 seconds. What does that tell you?",
       "options": [
-       "With the same pull, the bag goes round a bigger circle more slowly",
        "A longer string makes the bag lighter",
-       "The coins got heavier"
+       "The coins got heavier",
+       "With the same pull, the bag goes round a bigger circle more slowly"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A bigger circle is a longer path for each turn. With the same pull, the bag moves round it more slowly, so each turn takes longer. That means fewer turns in 10 seconds. The coins and the bag did not change."
      },
      "context": "In this step, you count the turns for three string lengths with the same pull."
@@ -1865,11 +1869,11 @@
       "t": "mcq",
       "q": "A cardboard rim round the edge of the plate kept the coins on at a fast turn. What is the best explanation?",
       "options": [
-       "The rim pushed the coins inward, so the plate did not need friction to hold them",
        "The rim made the coins lighter",
-       "The rim made the plate turn slower"
+       "The rim made the plate turn slower",
+       "The rim pushed the coins inward, so the plate did not need friction to hold them"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A thing going round needs a push towards the middle. Friction can give it. A rim can give it as well, as a wall does for the clothes in a dryer. The coins and the speed did not change."
      },
      "context": "In this step, you test your design and improve it with one change at a time."
@@ -1906,11 +1910,11 @@
      "t": "mcq",
      "p": "A stone is whirled on a string, and the string snaps. Which way does the stone go?",
      "opts": [
-      "Straight on, along the way it was moving",
       "Straight outward, away from the hand",
-      "Round in a curve"
+      "Round in a curve",
+      "Straight on, along the way it was moving"
      ],
-     "a": 0,
+     "a": 2,
      "why": "When the pull stops, nothing bends the stone's path. It goes straight on, along the line that just touches the circle. Picking 'outward' is the most common mix-up: the stone does not go along the string.",
      "outcome": 0
     },
@@ -2008,11 +2012,11 @@
      "t": "mcq",
      "p": "A stone is whirled on a string in a circle. Then it is whirled twice as fast in the same circle. How does the pull needed change?",
      "opts": [
-      "It becomes twice as big",
       "It becomes four times as big",
+      "It becomes twice as big",
       "It stays the same"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The pull grows with the square of the speed. Twice the speed needs 2 times 2, which is 4 times the pull. Picking 'twice as big' is the natural guess, but the Whirler test shows that it is too small.",
      "outcome": 2,
      "how": "e1"
@@ -2136,11 +2140,11 @@
      "t": "mcq",
      "p": "A car takes a bend on a wet road and slides straight off the road. What is the best explanation?",
      "opts": [
-      "The tyres did not have enough grip to give the pull towards the middle",
       "The car became heavier on the bend",
-      "The road pulled the car outward"
+      "The road pulled the car outward",
+      "The tyres did not have enough grip to give the pull towards the middle"
      ],
-     "a": 0,
+     "a": 2,
      "why": "On a flat bend, friction gives the pull towards the middle. A wet road gives less friction, so the car could not be held in the curve and went straight on.",
      "outcome": 5
     }
@@ -2248,11 +2252,11 @@
      "t": "mcq",
      "p": "The Moon keeps going round the Earth and never crashes into it. What is the best explanation?",
      "opts": [
-      "It keeps falling towards the Earth, but it moves sideways fast enough to keep missing",
       "It is too far away for gravity to reach",
-      "It is held up by the air"
+      "It is held up by the air",
+      "It keeps falling towards the Earth, but it moves sideways fast enough to keep missing"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Gravity pulls the Moon towards the Earth all the time. The Moon also moves sideways at about 1 kilometre every second, so as it falls, the Earth's surface curves away. It keeps missing. Gravity does reach the Moon, and there is no air to hold it.",
      "outcome": 6
     },
@@ -2324,11 +2328,11 @@
      "t": "mcq",
      "p": "A bucket of water is swung in a circle over a person's head. The water stays in at the top only if",
      "opts": [
-      "the bucket is moving downward faster than the water would fall",
       "the water is very cold",
-      "the bucket is pushed up by the air"
+      "the bucket is pushed up by the air",
+      "the bucket is moving downward faster than the water would fall"
      ],
-     "a": 0,
+     "a": 2,
      "why": "At the top, the bucket must move downward faster than the water would fall under gravity alone. Then the bottom of the bucket keeps pushing on the water. If the bucket moved more slowly, the water would fall away from it.",
      "outcome": 5,
      "how": "a3"
@@ -2344,11 +2348,11 @@
      "t": "mcq",
      "p": "A cream separator spins milk. Where does the cream, the lighter part, gather?",
      "opts": [
-      "Nearer the middle",
       "At the outer wall",
-      "It stays evenly spread through the milk"
+      "It stays evenly spread through the milk",
+      "Nearer the middle"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The heavier watery milk is pushed to the outside, and the lighter cream gathers nearer the middle. The two can then leave through different pipes.",
      "outcome": 4
     },
@@ -2410,11 +2414,11 @@
      "t": "mcq",
      "p": "A road bend is rebuilt in a circle twice as wide, with the same speed limit. How does the grip each car needs change?",
      "opts": [
-      "It needs half as much grip",
       "It needs the same grip",
+      "It needs half as much grip",
       "It needs twice as much grip"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A circle twice as wide needs half the pull at the same speed. That is one reason why road builders try to make bends wide.",
      "outcome": 5
     },
@@ -2600,11 +2604,11 @@
    "t": "mcq",
    "p": "A thing that was going round in a circle suddenly has nothing pulling it towards the middle. What does it do next?",
    "opts": [
-    "It goes straight on, along the way it was moving",
     "It goes outward from the middle",
+    "It goes straight on, along the way it was moving",
     "It stops at once"
    ],
-   "a": 0,
+   "a": 1,
    "why": "With no pull, nothing bends the path, so the thing goes straight on. It does not go outward along the radius, and it does not stop.",
    "outcome": 0
   },
@@ -2612,11 +2616,11 @@
    "t": "mcq",
    "p": "What is needed to keep a thing going round in a circle?",
    "opts": [
-    "A pull towards the middle, all the time",
     "A push forward, all the time",
+    "A pull towards the middle, all the time",
     "A push outward, all the time"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The pull towards the middle bends the path round. A forward push would change the speed, and an outward push would make the thing leave the circle.",
    "outcome": 0
   },
@@ -2624,11 +2628,11 @@
    "t": "mcq",
    "p": "In the Whirler test, what happened as more coins were hung on the string?",
    "opts": [
-    "The bag had to go round faster",
     "The bag could go round more slowly",
-    "The bag went round at the same speed"
+    "The bag went round at the same speed",
+    "The bag had to go round faster"
    ],
-   "a": 0,
+   "a": 2,
    "why": "More coins mean a bigger pull on the string, and the bag must go round faster to hold the same circle. The speed went up more slowly than the pull.",
    "outcome": 1,
    "how": "e1"
@@ -2649,11 +2653,11 @@
    "t": "mcq",
    "p": "A bag is whirled at a steady speed in a circle. It is replaced by a bag that is twice as heavy, and whirled at the same speed in the same circle. What happens to the pull needed?",
    "opts": [
-    "It doubles",
     "It halves",
+    "It doubles",
     "It stays the same"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A bigger mass needs a bigger pull in the same proportion. Twice the mass needs twice the pull.",
    "outcome": 2
   },
@@ -2661,11 +2665,11 @@
    "t": "mcq",
    "p": "Coins sit at different distances from the middle of a turntable that turns faster and faster. Which coin slides off last?",
    "opts": [
-    "The one nearest the middle",
     "The one nearest the edge",
+    "The one nearest the middle",
     "The heaviest one"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Nearer the middle, the circle is smaller and the coin moves more slowly, so it needs less friction. It stays on the longest.",
    "outcome": 3,
    "how": "e2"
@@ -2685,11 +2689,11 @@
    "t": "mcq",
    "p": "In a spin dryer, what lets the water leave the clothes?",
    "opts": [
-    "The holes let the water go straight on, while the wall holds the clothes",
     "The drum squeezes the clothes dry",
+    "The holes let the water go straight on, while the wall holds the clothes",
     "The lid sucks the water up"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The wall holds the clothes in the circle, and the holes let the water go. The spin does the sorting.",
    "outcome": 4
   },
@@ -2709,11 +2713,11 @@
    "t": "mcq",
    "p": "A car slides straight off a wet road at a bend. What was missing?",
    "opts": [
-    "Enough friction to give the pull towards the middle",
     "Enough engine power",
+    "Enough friction to give the pull towards the middle",
     "Enough weight"
    ],
-   "a": 0,
+   "a": 1,
    "why": "On a flat bend, friction is the pull towards the middle. A wet road gives less friction. Engine power and weight do not make the bend easier.",
    "outcome": 5
   },
@@ -2721,11 +2725,11 @@
    "t": "mcq",
    "p": "Which is the best description of the Moon going round the Earth?",
    "opts": [
-    "It keeps falling towards the Earth and keeps missing it",
     "It floats where there is no gravity",
+    "It keeps falling towards the Earth and keeps missing it",
     "It is pushed round by the air"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Gravity pulls the Moon all the time, and the Moon is moving sideways, so it keeps falling and keeps missing. There is no air to push it.",
    "outcome": 6
   },
@@ -2740,11 +2744,11 @@
    "t": "mcq",
    "p": "What do scientists still discuss about 'centrifugal force'?",
    "opts": [
-    "Whether the outward feeling should be called a force",
     "Whether a bag on a string goes round",
+    "Whether the outward feeling should be called a force",
     "Whether the Moon goes round the Earth"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Everyone agrees on what happens. The argument is about how to describe the outward feeling, as a real force or as the body's tendency to go straight.",
    "outcome": 6
   }
@@ -3029,6 +3033,69 @@
     "e2",
     "c1"
    ]
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in The Whirler: how fast must a bag go round for each size of pull?, Planets on a String: do far planets go round slower?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "e1",
+    "p1"
+   ],
+   "plan": "Get it before The Whirler: how fast must a bag go round for each size of pull?."
+  },
+  {
+   "id": "b-a-digital-stopwatch--optiona",
+   "item": "A digital stopwatch (optional)",
+   "kind": "tool",
+   "why": "Used in The Whirler: how fast must a bag go round for each size of pull?, Planets on a String: do far planets go round slower?. About ₹150 to ₹400. A phone stopwatch works well.",
+   "url": "https://www.amazon.in/s?k=digital+stopwatch",
+   "used_in": [
+    "e1",
+    "p1"
+   ],
+   "plan": "Get it before The Whirler: how fast must a bag go round for each size of pull?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Whirler: how fast must a bag go round for each size of pull?, Coins on the Turntable: which one slides off first?, Planets on a String: do far planets go round slower?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e2",
+    "p1"
+   ],
+   "plan": "Get it before The Whirler: how fast must a bag go round for each size of pull?."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Coins on the Turntable: which one slides off first?, The Coin Keeper: keep three coins on a plate at one turn a second. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "e2",
+    "c1"
+   ],
+   "plan": "Get it before Coins on the Turntable: which one slides off first?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

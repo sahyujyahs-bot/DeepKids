@@ -1,0 +1,75 @@
+# DeepKids - Science - Grade Concepts / Framer Components (copied from Google Sheets, 2026-11-27)
+R1:  |  |  |  |  |  |  |  |  |  |  | https://rauno.learnframer.site/
+R2:  | https://framer.university/resources/interactive-wave-background-in-framer | interactive hero bg
+R3:  | https://scribbles.framer.website/ | animated scribbles hero
+R4:  | https://char-art.learnframer.site/ | hero animation
+R5:  | https://shadow-overlay.learnframer.site/ | shadow overlay
+R6:  | https://framer.university/resources/travel-in-space-effect-for-framer | Nice Bg Animation - Space
+R7:  | https://3d-distort.learnframer.site/ | Hero image - illsutarted kids scroll around
+R8:  | https://framer.university/resources/huly-effect-for-framer
+R9:  | https://space-travel.learnframer.site/
+R10:  | https://liquid-image.learnframer.site/ | evolution landing hero
+R11:  | https://rays.learnframer.site/
+R13:  | https://nav-anim.learnframer.site/
+R14:  | https://light-tabs.learnframer.site/ | To highlight current subject/content chosen | shedding light is a good metaphor
+R15:  | https://stack-hover.learnframer.site/ | Maybe when we have blog, printables and other content or even social media posts linked here
+R17:  | https://stack-hover.learnframer.site/ | when we have something for prism/Light
+R20:  | https://framer.university/resources/satisfying-checkbox-animation-in-framer | Highlighing instead of cutting - For the Four F's On Hero Section | enabling parents to check the things they would also agree they want for their kids learning will have good psychological effect
+R23:  | https://framer.university/resources/animated-step-counter-in-framer
+R25:  | https://magnet-grid.learnframer.site/
+R27:  | https://framer.university/resources/text-wave-component-for-framer | glowing text effect
+R28:  | https://framer.university/resources/text-scramble-appear-effect-in-framer | scramble text effect
+R29:  | https://framer.university/resources/staggered-text-cycle-component-for-framer | cycle text
+R30:  | https://framer.university/resources/flip-text-cycle-component-in-framer | cycle text
+R31:  | https://vaporize.learnframer.site/ | cycle text
+R32:  | https://shutter-footer.learnframer.site/ | Text entry animation - Headers
+R34:  | https://3d-cube-anim.learnframer.site/ | dice
+R35:  | https://thermal.learnframer.site/ | Dice Glow
+R37:  | https://3d-grid-scroll.learnframer.site/ | Evolution Book Pages SneakPeak
+R38:  | https://3d-rug.learnframer.site/ |  | maybe we could just write I love DeepKids and put this at the bottom - some nice interactive experience & some emotion seeding
+R41:  | https://3d-flipping-cards.learnframer.site/
+R42:  | https://framer.university/resources/apple-tv-scroll-zoom-animation-in-framer
+R43:  | https://framer.university/resources/ticker-scroll-component-for-framer
+R44:  | https://framer.university/resources/animated-3d-wheel-website-hero-in-framer
+R45:  | https://swipe-cards.learnframer.site/ | Amazing Card Swipe animation - inside product showcase or any listing
+R46:  | https://3d-proj-card.learnframer.site/ | Amazing Card Swipe animation - inside product showcase or any listing
+R47:  | https://circle-hover.learnframer.site/ | Another  nice card listing animation
+R48:  | https://scroll-gallery.learnframer.site/ | Another  nice card listing animation
+R49:  | https://fun-cards.learnframer.site/ | Product listing page
+R50:  | https://cycle-card.learnframer.site/ | Cards animation
+R51:  | https://liq-mask.learnframer.site/ | Cards animation
+R52:  | https://circular-select.learnframer.site/ | Concepts scroller inside each subject as keep adding games
+R53:  | https://image-scan.learnframer.site/ | Cards animation
+R54:  | https://rota-3d.learnframer.site/ | Cards animation
+R55:  | https://ikea-transition.learnframer.site/ | Product listing page
+R57:  | https://card-waitlist.learnframer.site/ | Signup/Joinclub
+R59:  | https://click-fx.learnframer.site/ | Different Click effects we can use in different pages 
+R61:  | https://framer.university/resources/realistic-switch-component-in-framer | Switch for electrical package when we have
+R62:  | https://electric-border.learnframer.site/ | product listing for electrical
+R64:  | https://ripple-grid.learnframer.site/ | nice animation effects
+R66:  | https://crazy-navi.learnframer.site/ | Truly crazy mouse hover animation - can use somewhere
+R69:  | https://liquid-glass.learnframer.site/ | draggable glass button
+R70:  | https://glass-button.learnframer.site/ | Button press animation for our buttons (with or without the glass effect)
+R72:  | https://passionate-technology-806540.framer.app/ | Logo animation
+R74:  | https://anim-on-path.learnframer.site/ | animation for bird, meteor, etc
+R76:  | https://isometric3d.learnframer.site/ | animation for ?
+R78:  | https://framer.university/resources/copy-paste-glitch-effect-for-framer | 404 page animation
+R80:  | https://icon-hover.learnframer.site/ | icon hover animation
+R82:  | https://pointer.learnframer.site/ | Pointer animation
+R83:  | https://cursor-trail.learnframer.site/ | Cursor trail
+R84:  | https://magic-cursor.learnframer.site/ | magic cursor
+R86:  | https://drawing.learnframer.site/ | Online drawing board!!
+R87:  | https://midi.learnframer.site/
+R89:  | https://zoom-scroll.learnframer.site/ | infinite scroll
+R91:  | https://shadow-overlay.learnframer.site/ | shadow overlay
+R93:  | https://cursor-magnet.learnframer.site/ | community page
+R95:  | https://fireworks.learnframer.site/ | celebrating small victories
+R97:  | https://squiggle.learnframer.site/ | squiggle anything
+R99:  | https://physics.learnframer.site/ | gravity hero
+R100:  | https://ticker-path.learnframer.site/ | Spiral animation to show gravity board tiles
+R101:  | https://curved-text.learnframer.site/ | Gravity tilte text animation
+R102:  | https://3d-ring.learnframer.site/ | animation for gravity ?
+R103:  | https://framer.university/resources/gravity-component-for-framer
+R105:  | https://parallax.learnframer.site/ | parallax scroll
+R108:  | https://ticker-drag.learnframer.site/ | 100x Entrepreneur Listing
+R111:  |  https://canvas.learnframer.site/  | Craft Notes Page

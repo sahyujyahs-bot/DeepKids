@@ -1,7 +1,7 @@
 # Parasites and hosts: an arms race, and parasites who change what a host does
 `sci.microorganisms.parasites.L5`
 
-**Summary.** A praying mantis lives on bushes and keeps away from water. Yet a mantis with a hairworm inside walks to a pond and steps in. Why would any animal do that? In this unit you will run a pond of seed snails for eight generations and find out why the best-protected snail does not stay the best. You will learn how parasites and hosts keep answering each other's moves, and how some parasites change what a host does.
+**Summary.** A praying mantis lives on bushes and keeps away from water. Yet a mantis with a hairworm inside walks to a pond and steps in. Why would any animal do that? In this lesson you will run a pond of seed snails for eight generations and find out why the best-protected snail does not stay the best. You will learn how parasites and hosts keep answering each other's moves, and how some parasites change what a host does.
 
 **Intro.** *A rat who smells a cat runs away. A rat who carries a certain parasite in the brain walks towards the smell. Who gains from that walk?* A parasite is a living being who lives on or inside another living being, the host, and takes food from them. The host fights back. Then the parasite changes, and the host has to change again. This goes on for millions of years, and scientists call it an arms race. Some parasites have gone further. They change what the host does, so that the host carries them to their next home. We will test the arms race with seeds and a die. Then we will look at the evidence for parasites who steer their hosts.
 
@@ -149,7 +149,7 @@ A signal in a nerve is a wave of charged atoms, called ions, moving in and out o
 Sleeping-sickness parasites sense how crowded they are in the blood. When the crowd is thick, many of them stop dividing and change into a short, stout form that waits for a tsetse fly. This keeps the host alive for longer. Malaria parasites in the blood keep time with the host's day and night. A hairworm senses when they are full grown, and only then is the mantis drawn to water. A tick waits for the smell of breath and the warmth of skin. These are living beings who take in news of their world and act on that news, which is what sensing and deciding mean. A parasite is not a simple or lower being. A fluke who passes through a snail, a fish and a bird has to solve three different bodies in one life.
 - e.g. A young filarial worm is in the blood near the skin mostly at night, when the mosquitoes who carry them bite.
 - e.g. Cuckoo chicks call like a whole nest of hungry reed warbler chicks, and the foster parents bring more food.
-- **The view this unit takes:** Sensing, choosing and acting are found in every living being, with or without a brain. A parasite does them in a parasite's way.
+- **The view this lesson takes:** Sensing, choosing and acting are found in every living being, with or without a brain. A parasite does them in a parasite's way.
 - **Many biologists:** They call these automatic responses. In their view, genes that happened to produce the right response were kept by natural selection, and nothing is chosen.
 ### Parasites hold the web of life together · *idea*
 **Definition:** Parasites are a large part of all living beings, and they shape who eats whom, who is common and who is rare.
@@ -207,7 +207,7 @@ We have run a pond of snails and flukes, and looked at parasites who steer their
 We usually picture a living being as one separate thing with fixed strengths of their own. The Pond Race showed something else. What a snail is worth depends on the flukes, and what the flukes are depends on the snails. Neither can be described fully without the other. The mantis and the hairworm show the same thing in one body: two living beings, and one walk to the pond. Life began as one family and became many kinds, but the many kinds never stopped shaping each other. So the many are still tied together, and this tie is something scientists can measure in a lake.
 
 - **Tao Te Ching 2:** Being and non-being create each other. Difficult and easy complete each other. Long and short shape each other. Before and after follow each other. (Laozi says that opposites are made by each other. In the Pond Race, the snail's defence and the fluke's key were made by each other in just this way. Neither came first, and neither makes sense alone.)
-- **Bhagavad Gita 3.27:** All actions are carried out by the qualities of nature. But a person confused by the sense of 'I' thinks, 'I am the doer.' (The Gita asks who really does an action. The mantis who walks to the pond would feel that she is the doer. The science of this unit shows that her walk had more than one author.)
+- **Bhagavad Gita 3.27:** All actions are carried out by the qualities of nature. But a person confused by the sense of 'I' thinks, 'I am the doer.' (The Gita asks who really does an action. The mantis who walks to the pond would feel that she is the doer. The science of this lesson shows that her walk had more than one author.)
 - **Samyutta Nikaya 22.59 (Anattalakkhana Sutta):** The Buddha says: if this body were truly myself, it would not lead to trouble, and I could say 'let my body be like this' and it would obey. But the body does not obey in that way. (The Buddha points out that we do not fully command our own bodies. A host carrying a parasite shows this plainly, and so does every fever, sneeze and itch.)
 - Science (settled): In snails and their flukes, the commonest kind of host is attacked most, and rare kinds take over. This has been watched in a lake and tested in tanks.
 - Science (debated): The Red Queen idea says that this endless chase is the main reason most animals and plants mix their genes from two parents.
@@ -618,7 +618,7 @@ But she went on thinking about the walk across the yard. The mantis had gone so 
    **Answer:** 32. *Why:* The numbers go 1, 2, 4, 8, 16, 32. Doubling five times gives 32. This is why a body has only a few days to learn a new coat.
 ### Coats, medicines and parasites who steer (stretch, 15 questions)
 1. (mcq) Why can most parasites change faster than their hosts?  
-   Options: Parasites have new generations much more often / Parasites are cleverer than hosts / Hosts never change at all  
+   Options: Parasites are cleverer than hosts / Hosts never change at all / Parasites have new generations much more often  
    **Answer:** Parasites have new generations much more often. *Why:* Change spreads from one generation to the next. A parasite may have a new generation in days and a host in years. Hosts do change, but more slowly.
 2. (truefalse) An antibody made for one coat of a parasite grips every other coat too.  
    **Answer:** False. *Why:* False. Each antibody fits one shape. When the parasite switches coat, the body must start learning again.
@@ -653,7 +653,7 @@ But she went on thinking about the walk across the yard. The mantis had gone so 
    **Answer:** The koel chick grows up beside the crow chicks. *Why:* The koel mother lays the egg and leaves. The crows feed the koel chick together with their own chicks. The koel chick does not push the crow chicks out.
 ### Testing, arguing and working it out (challenge, 15 questions)
 1. (mcq) Animals with a parasite sit in the open. What must be shown before calling it the parasite's trick?  
-   Options: More of them reach the parasite's next host / They look unusual / They are thinner than the others  
+   Options: They look unusual / They are thinner than the others / More of them reach the parasite's next host  
    **Answer:** More of them reach the parasite's next host. *Why:* A change is manipulation only if it carries more parasites onward. Looking unusual or being thin could be side effects of illness.
 2. (mcq) In a hunting test with paper bugs, which round is the control?  
    Options: All bugs hide in the same way / Dotted bugs stand in the open / The hunter uses both hands  
@@ -696,36 +696,36 @@ But she went on thinking about the walk across the yard. The mantis had gone so 
    Options: Each side keeps changing in answer to the other / The host changes and the parasite stays the same / The stronger side wins and it ends  
    **Answer:** Each side keeps changing in answer to the other. *Why:* Each defence is followed by a way round it. Choosing 'the stronger side wins' misses that neither side stays ahead, because both keep changing.
 2. (mcq) A medicine against a parasite is used widely. After years it works less well. Why?  
-   Options: Parasites who survive it left the young / The tablets became weaker / People's bodies got used to it  
+   Options: The tablets became weaker / People's bodies got used to it / Parasites who survive it left the young  
    **Answer:** Parasites who survive it left the young. *Why:* The medicine removes the ordinary parasites. The few who can survive it multiply. The tablets and the people have not changed. The parasites have.
 3. (mcq) Flukes each fit one kind of snail. One kind of snail becomes very common. What happens next?  
-   Options: Flukes who fit that kind multiply, and it goes down / That kind stays on top for ever / The flukes die out  
+   Options: That kind stays on top for ever / The flukes die out / Flukes who fit that kind multiply, and it goes down  
    **Answer:** Flukes who fit that kind multiply, and it goes down. *Why:* Being common makes a snail kind the easiest host to find, so her flukes do best. Choosing 'stays on top for ever' treats the flukes as fixed.
 4. (mcq) Why is a group of clones in more danger from a parasite than a mixed group?  
-   Options: A parasite who fits one clone fits them all / Clones are always smaller / Clones cannot have young  
+   Options: Clones are always smaller / Clones cannot have young / A parasite who fits one clone fits them all  
    **Answer:** A parasite who fits one clone fits them all. *Why:* Clones are copies, so they share the same locks. A mixed group always has some rare kind that few parasites fit.
 5. (mcq) What does an antibody do?  
    Options: Grips one particular shape on a germ or parasite / Carries oxygen in the blood / Kills every microbe nearby  
    **Answer:** Grips one particular shape on a germ or parasite. *Why:* An antibody is a Y-shaped protein that fits one shape only. It marks the parasite for other cells to destroy. It does not fit every microbe.
 6. (mcq) How does a coat-changing parasite stay in the blood for months?  
-   Options: Some switch to a coat the body has not learned / They hide in the stomach / They stop multiplying  
+   Options: They hide in the stomach / Some switch to a coat the body has not learned / They stop multiplying  
    **Answer:** Some switch to a coat the body has not learned. *Why:* Antibodies clear one coat, but a few parasites have already switched to another. The body has to start learning again, so the numbers rise and fall in waves.
 7. (mcq) A fluke must get from a fish into a bird. Which change in the fish helps the fluke?  
    Options: The fish flashes near the surface / The fish hides in deep weed / The fish swims faster from birds  
    **Answer:** The fish flashes near the surface. *Why:* A fish who flashes near the surface is easier for a bird to see and catch. Birds ate infected killifish 10 to 30 times as often as healthy ones.
 8. (mcq) A mantis with a full-grown hairworm inside walks into water. Who needs the water?  
-   Options: The hairworm, who mates in water / The mantis, who is thirsty / Neither of them  
+   Options: The mantis, who is thirsty / Neither of them / The hairworm, who mates in water  
    **Answer:** The hairworm, who mates in water. *Why:* Adult hairworms live and mate in water. Healthy mantises keep away from water. Choosing 'the mantis is thirsty' does not explain why only infected mantises do it.
 9. (mcq) An ill goat lies still all day. What must be shown before calling this a parasite's trick?  
-   Options: That lying still helps the parasite spread / That the goat has a parasite / That the goat looks unhappy  
+   Options: That the goat has a parasite / That lying still helps the parasite spread / That the goat looks unhappy  
    **Answer:** That lying still helps the parasite spread. *Why:* Lying still could be a side effect of being weak, or the goat saving strength. It is a trick only if the change carries more parasites to the next host.
 10. (truefalse) Every odd behaviour of an infected animal is caused by the parasite to help the parasite.  
    **Answer:** False. *Why:* False. Some odd behaviours are the host's own defence, such as a fever or basking in the sun. Some are side effects of illness. Each case has to be tested.
 11. (mcq) Which of these claims do scientists still argue about?  
-   Options: Toxoplasma changes human personality / Infected rats lose their fear of cat smell / Birds eat more infected killifish  
+   Options: Infected rats lose their fear of cat smell / Birds eat more infected killifish / Toxoplasma changes human personality  
    **Answer:** Toxoplasma changes human personality. *Why:* The rat and killifish findings were tested by comparing infected and healthy animals. Studies of people and Toxoplasma disagree with each other.
 12. (mcq) A dog's tooth scratches your hand and breaks the skin. What do you do first?  
-   Options: Wash with soap and running water for 15 minutes / Cover it with turmeric / Wait to see if the dog falls ill  
+   Options: Cover it with turmeric / Wait to see if the dog falls ill / Wash with soap and running water for 15 minutes  
    **Answer:** Wash with soap and running water for 15 minutes. *Why:* Washing at once removes much of the virus. Then tell a grown-up and see a doctor the same day. Waiting is dangerous, because rabies cannot be cured once signs begin.
 13. (truefalse) You can catch Toxoplasma by stroking a healthy cat's fur.  
    **Answer:** False. *Why:* False. The parasite is passed in cat dung and gets into soil, sand and unwashed vegetables. Wash your hands after touching soil or a litter tray, and wash vegetables.
@@ -792,15 +792,20 @@ But she went on thinking about the walk across the yard. The mantis had gone so 
 The Smallest Neighbours (sci.microorganisms.L5): Topic-level song
 
 ## Links
-- [World Health Organization: rabies fact sheet](https://www.who.int/news-room/fact-sheets/detail/rabies) · interactive: For the parent: the steps after a bite, how the virus travels, and the numbers used in this unit.
+- [World Health Organization: rabies fact sheet](https://www.who.int/news-room/fact-sheets/detail/rabies) · interactive: For the parent: the steps after a bite, how the virus travels, and the numbers used in this lesson.
 - [Centers for Disease Control and Prevention: preventing toxoplasmosis](https://www.cdc.gov/toxoplasmosis/prevention/index.html) · interactive: For the parent: plain steps about soil, cat litter, vegetables and meat.
 - [National Center for Vector Borne Diseases Control, India](https://ncvbdc.mohfw.gov.in/) · interactive: For the parent: how India treats malaria today, and why the medicines are given together.
 - [HHMI BioInteractive](https://www.biointeractive.org/) · interactive: Free short films and click-through activities on evolution, malaria and the immune system.
 - [eBird India](https://ebird.org/india/home) · interactive: Look up where and when koels and other cuckoos are being seen near your town.
 - [Bombay Natural History Society](https://www.bnhs.org/) · place · Mumbai: A natural history collection and nature walks, where a child can ask about cuckoos, crows and the insects of the city.
-- [Regional Museum of Natural History]() · place · Mysuru: Galleries on the web of life in South India, good for talking about who lives on whom.
+- Regional Museum of Natural History · place · Mysuru: Galleries on the web of life in South India, good for talking about who lives on whom.
 
 ## Things to buy
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Coat Change: draw the waves of a long infection. About ₹10 to ₹30. Any school ruler is fine. Used in a2. Get it before The Coat Change: draw the waves of a long infection.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Starling Test: how much does a small change in behaviour matter?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e2. Get it before The Starling Test: how much does a small change in behaviour matter?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Pond Race: does the commonest snail stay on top?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1. Get it before The Pond Race: does the commonest snail stay on top?.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in The Coat Change: draw the waves of a long infection, The Mixed Field: plant 36 plots so that one disease cannot take them all. About ₹10 to ₹30. Draw squares on plain paper. Used in a2, c1. Get it before The Coat Change: draw the waves of a long infection.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is an arms race between a host and a parasite? → Each side keeps changing in answer to the other, and neither stays ahead.
@@ -819,11 +824,11 @@ The Smallest Neighbours (sci.microorganisms.L5): Topic-level song
 - Core: a1, e1, e2, g1, ws-core
 
 ## Sources
-- ideas/by_topic/microorganisms.md: the notebook's timeline entry 'New Zombies' (parasites as beings who 'live and grow within host organisms and take over'), which is the starting point for the half of this unit on parasites who change a host's behaviour, and its picture of microbes as living beings and relatives.
+- ideas/by_topic/microorganisms.md: the notebook's timeline entry 'New Zombies' (parasites as beings who 'live and grow within host organisms and take over'), which is the starting point for the half of this lesson on parasites who change a host's behaviour, and its picture of microbes as living beings and relatives.
 - ideas/by_topic/microorganisms.md, SCI Card on Emmanuelle Charpentier and Jennifer Doudna (CRISPR): used as an arms-race example, bacteria against viruses, in the explanations, the Move and Answer game and the applications.
 - combined/sci-C5-microorganisms.json was read. It has no section on parasites, so nothing was taken from it.
-- The founder's sheets dump named in the brief was not available, so the column 'Philosophy underlying the concepts' could not be read for this unit.
-- Other units were checked so that nothing repeats: lice, the comb, the fan and the malaria journey (parasites L3), life cycles, the Guinea worm, the sari filter and the odds gates (parasites L4), resistance with rice and dal (germs L4), the two maps and the roads of infection (germs L5), and the factory model of a virus (viruses L5). This unit refers to resistance and to the Guinea worm in a line or two only.
+- The founder's sheets dump named in the brief was not available, so the column 'Philosophy underlying the concepts' could not be read for this lesson.
+- Other units were checked so that nothing repeats: lice, the comb, the fan and the malaria journey (parasites L3), life cycles, the Guinea worm, the sari filter and the odds gates (parasites L4), resistance with rice and dal (germs L4), the two maps and the roads of infection (germs L5), and the factory model of a virus (viruses L5). This lesson refers to resistance and to the Guinea worm in a line or two only.
 - Dybdahl M. F. and Lively C. M. (1998). Host-parasite coevolution: evidence for rare advantage and time-lagged selection in a natural population. Evolution 52.
 - Jokela J., Dybdahl M. F. and Lively C. M. (2009). The maintenance of sex, clonal dynamics, and host-parasite coevolution in a mixed population of sexual and asexual snails. The American Naturalist 174.
 - Koskella B. and Lively C. M. (2009). Evidence for negative frequency-dependent selection during experimental coevolution of a freshwater snail and a sterilizing trematode. Evolution 63.

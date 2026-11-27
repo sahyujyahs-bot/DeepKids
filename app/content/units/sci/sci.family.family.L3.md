@@ -1,9 +1,9 @@
 # Family: who we are to each other, and the work that keeps a home going
 `sci.family.family.L3`
 
-**Summary.** English has one word, uncle, for four different relations. Why? In this unit you will find the relation words in your home language, count and time every job done in your home for one evening, draw a family tree of three generations, and play a game about who raises animal babies.
+**Summary.** English has one word, uncle, for four different relations. Why? In this lesson you will find the relation words in your home language, count and time every job done in your home for one evening, draw a family tree of three generations, and play a game about who raises animal babies.
 
-**Intro.** *Who in your home works the most? Before you answer, think about yesterday. Who cooked, washed the vessels, folded clothes, and put the baby to sleep?* A family is a group of people who look after each other. Some families are big, with grandparents, aunts and cousins under one roof. Some are small, with one parent and one child. In every family, someone cooks, cleans, shops and cares for the youngest and the oldest. This work takes many hours, and in most homes nobody is paid for it. In this unit you find out exactly how many minutes of work your own home needs in one evening, and who does it.
+**Intro.** *Who in your home works the most? Before you answer, think about yesterday. Who cooked, washed the vessels, folded clothes, and put the baby to sleep?* A family is a group of people who look after each other. Some families are big, with grandparents, aunts and cousins under one roof. Some are small, with one parent and one child. In every family, someone cooks, cleans, shops and cares for the youngest and the oldest. This work takes many hours, and in most homes nobody is paid for it. In this lesson you find out exactly how many minutes of work your own home needs in one evening, and who does it.
 
 ## Learning outcomes
 0. I can name the people in my family, say how each one is related to me, and use the right relation word in my home language and in English.
@@ -37,11 +37,12 @@ Families come in many shapes. A joint family has grandparents, parents, uncles, 
 ### How relatives are related · *defined*
 **Definition:** A relation is the way two people in a family are connected, such as 'my mother's brother'. A relation word is the name we call them, such as Mama.
 
-Each person has two parents, four grandparents and eight great-grandparents. Your relatives come through your mother's side and your father's side. Many Indian languages have a separate word for each relation. In Tamil, Mama is your mother's brother, Chithappa is your father's younger brother and Periyappa is your father's elder brother. Hindi has Mama, Chacha and Tau. English calls all of them uncle. The words tell you exactly how a person is related. Children also get about half of their genes from their mother and half from their father. Genes are the instructions inside every cell of a body.
+Each person has two parents, four grandparents and eight great-grandparents. Your relatives come through your mother's side and your father's side. Many Indian languages have a separate word for each relation. In Tamil, Mama is your mother's brother, Chithappa is your father's younger brother and Periyappa is your father's elder brother. Hindi has Mama, Chacha and Tau. English calls all of them uncle. The words tell you exactly how a person is related. Using the right word is also a way to show respect. It tells everyone where each elder fits in the family. Children also get about half of their genes from their mother and half from their father. Genes are the instructions inside every cell of a body.
 - e.g. Tamil: Paati and Thatha are grandmother and grandfather. Athai is your father's sister.
 - e.g. Kannada: Ajji is grandmother.
 - e.g. Hindi: Bua is your father's sister and Mausi is your mother's sister.
 - e.g. Bengali: Pishi is your father's sister and Mashi is your mother's sister.
+- **Douglas Rohde, Steve Olson and Joseph Chang, USA (published in Nature, 2004):** Using computer models of how people have moved and had children over thousands of years, they estimated that the most recent person who is an ancestor of every human alive today may have lived only a few thousand years ago. A few thousand years further back, every person alive was either an ancestor of everyone living now or of no one. Family trees must join, which is accepted, but the exact dates are uncertain because they depend on how much people moved and mixed.
 ### Home work is work · *defined*
 **Definition:** Unpaid work is work done for your own home or family that nobody pays for. Care work is looking after people who need help.
 
@@ -49,6 +50,7 @@ Cooking, washing, cleaning, shopping and caring take hours every day in every ho
 - e.g. Cooking three meals for a family of five can take more than three hours a day.
 - e.g. Sitting with a sick grandparent at night is care work.
 - e.g. A house help who sweeps and mops is doing paid work. The same sweeping by Amma is unpaid work.
+- **Marilyn Waring (born 1952), New Zealand:** In her book If Women Counted (1988), Waring showed that the way countries measure their economy leaves out unpaid work done at home, such as cooking, cleaning, caring for children and elders, and fetching water, most of which is done by women. So the work that keeps families alive appears to be worth nothing. Her work helped persuade countries to run time-use surveys, and India's first national Time Use Survey (2019) found women spending about five hours a day on this work and men about one and a half.
 ### What parents and guardians must give a child · *defined*
 **Definition:** Parents and guardians are responsible for a child's food, home, health, safety, schooling and love.
 
@@ -59,7 +61,7 @@ A child cannot feed, clothe or protect themselves for many years. So parents and
 ### Girls and women, then and now · *defined*
 **Definition:** Discrimination against girls and women means treating them unfairly because they are female, for example by giving them less schooling, food, money or say.
 
-For a long time, many Indian families sent sons to school and kept daughters at home to work. In 1848 in Pune, Savitribai Phule and Jyotirao Phule opened a school for girls. People threw mud and stones at Savitribai on her way to school, and she carried a spare sari to change into. In 1950, India's Constitution gave women and men equal rights. Many things have changed, but not all. In the 2011 Census, about 82 in every 100 men could read and write, but only about 65 in every 100 women. Women still do most of the unpaid work at home.
+For a long time, many Indian families sent sons to school and kept daughters at home to work. In 1848 in Pune, Savitribai Phule and Jyotirao Phule opened a school for girls. People threw mud and stones at Savitribai on her way to school, and she carried a spare sari to change into. In 1950, India's Constitution gave women and men equal rights. Many things have changed, but not all. In the 2011 Census, about 82 in every 100 men could read and write, but only about 65 in every 100 women. Women still do most of the unpaid work at home. Many women also work outside the home, as teachers, nurses, farmers and factory workers. Many still get less pay and fewer chances than men.
 - e.g. Savitribai Phule, who opened a girls' school in Pune in 1848 and wrote poems.
 - e.g. In Kerala, more than 90 in every 100 women could read and write in the 2011 Census.
 - e.g. A daughter now has the same right as a son to go to school, by law.
@@ -452,7 +454,7 @@ That evening Ajji had an hour with nothing to do. She sat with Kavya at the tabl
   - Think: Who in your family could use this tray?
 
 ## Worksheets
-### Who Does the Work at Home? (core) (core, 15 questions)
+### Who Does the Work at Home? (core) (core, 16 questions)
 1. (truefalse) Cooking for your own family is work, even when nobody pays for it.  
    **Answer:** True. *Why:* True. It takes time and effort, and the family cannot eat without it. Paid or unpaid, it is work.
 2. (match) Match each word to what it means.  
@@ -464,7 +466,7 @@ That evening Ajji had an hour with nothing to do. She sat with Kavya at the tabl
 5. (draw) Draw your family tree with three generations: grandparents at the top, parents in the middle, and you at the bottom. Write what you call each person.  
    **Answer:** A tree with grandparents at the top, parents in the middle and the child at the bottom, with relation words.. *Why:* A strong tree joins couples with a line across and children with a line down, and shows both sides of the family.
 6. (mcq) In Hindi, Bua is your father's sister and Mausi is your mother's sister. What does English call both of them?  
-   Options: Aunt / Cousin / Grandmother  
+   Options: Cousin / Grandmother / Aunt  
    **Answer:** Aunt. *Why:* English uses aunt for both. Hindi has two words, so the word tells you which side of the family she is on.
 7. (fill) Treating someone unfairly because of who they are, for example because she is a girl, is called ____.  
    **Answer:** ['discrimination']. *Why:* Discrimination means unfair treatment because of who a person is.
@@ -480,15 +482,17 @@ That evening Ajji had an hour with nothing to do. She sat with Kavya at the tabl
 12. (order) Put the steps of the Home Work Count in order.  
    **Answer:** ['Guess who will do the most', 'Write the start and end time of each job', "Add up each person's minutes", 'Draw a pictograph of the minutes']. *Why:* You guess first, so the guess is a real prediction. Then you collect the times, add them up, and show them.
 13. (mcq) Your mother's mother belongs to which side of your family?  
-   Options: Your mother's side / Your father's side / Neither side  
+   Options: Your father's side / Your mother's side / Neither side  
    **Answer:** Your mother's side. *Why:* Relatives through your mother are on your mother's side, and that includes her parents.
 14. (write) Name two home jobs that a child of 8 can do safely. Say who does each job in your home now.  
    **Answer:** For example: setting the plates and watering the plants. A strong answer names real jobs that are safe for a child and says who does them now.. *Why:* Children help the family with jobs that suit their age. Naming who does the jobs now shows where help is needed.
 15. (fill) Looking after people who need help, such as feeding a baby or giving medicine, is called ____ work.  
    **Answer:** ['care']. *Why:* Care work is looking after people who need help.
-### Paid, Unpaid and Shared (stretch) (stretch, 15 questions)
+16. (write) Name one elder at home and the word you use to call them. Then write one way you show that elder respect.  
+   **Answer:** For example: Ajji, and I wait for her to finish before I speak, and I bring her water when she asks. A strong answer names the relation word and a real action.. *Why:* The relation word shows the elder's place in the family. Respect shows in what you say and do, every day.
+### Paid, Unpaid and Shared (stretch) (stretch, 16 questions)
 1. (mcq) When India adds up the value of all the work done in the country in a year, which of these is left out?  
-   Options: A cook paid to make meals in a hotel / Ajji cooking lunch for her own family / A factory making bicycles  
+   Options: A cook paid to make meals in a hotel / A factory making bicycles / Ajji cooking lunch for her own family  
    **Answer:** Ajji cooking lunch for her own family. *Why:* Unpaid home work is left out. So cooking, cleaning and caring for your own family are not counted, though every family needs them. The paid cook and the factory are counted.
 2. (count) In a Home Work Count, Amma did 90 minutes, Appa did 30 minutes, a grandmother did 120 minutes and the child did 15 minutes. How many minutes of home work were done in all?  
    **Answer:** 255. *Why:* 90 + 30 + 120 + 15 = 255 minutes. That is 4 hours and 15 minutes in one evening. A strong answer also says who did the most.
@@ -499,27 +503,29 @@ That evening Ajji had an hour with nothing to do. She sat with Kavya at the tabl
 5. (truefalse) An olive ridley turtle mother stays with her hatchlings until they can swim.  
    **Answer:** False. *Why:* False. She lays her eggs on a beach and swims away. The hatchlings find their way to the sea on their own.
 6. (mcq) Long ago, some experts told parents not to hug or kiss their children. Later studies showed that baby monkeys clung to a soft cloth mother for comfort. What does that tell us about the old advice?  
-   Options: It was right: hugs spoil children / It was wrong: young ones need comfort and touch / It does not matter either way  
+   Options: It was wrong: young ones need comfort and touch / It was right: hugs spoil children / It does not matter either way  
    **Answer:** It was wrong: young ones need comfort and touch. *Why:* Baby monkeys chose a soft, comforting mother even over one that gave milk. Comfort and touch matter to young ones, so telling parents not to hug was poor advice.
 7. (fill) Each child gets about half of their genes from their mother and about half from their ____.  
    **Answer:** ['father']. *Why:* Genes come from both parents, about half from each.
 8. (write) Kerala had more women who could read and write than any other state in the 2011 Census. What could have helped girls there go to school?  
    **Answer:** For example: many schools close to home, families who wanted their daughters to study, and women who were teachers.. *Why:* A strong answer gives reasons a child can think through, such as schools nearby and families choosing to send girls. Scientists still study exactly why.
-9. (sort) Sort these. Is each one a right every child in India has by law, or a job a child can help with at home?  
+9. (write) Name one kind of paid work that women in India do outside the home. Then name one unpaid job that women in your home do.  
+   **Answer:** For example: a teacher, a nurse or a farm worker, and cooking or cleaning for the family. A strong answer names two different kinds of work.. *Why:* Paid work outside the home is one kind of work. Unpaid home work is another kind, and it is still work.
+10. (sort) Sort these. Is each one a right every child in India has by law, or a job a child can help with at home?  
    **Answer:** free school from 6 to 14 → A right by law; setting the plates → A job a child can help with; not being sent to work under 14 → A right by law; watering the plants → A job a child can help with; folding small clothes → A job a child can help with. *Why:* A child has rights that grown-ups must protect, and can also help the family with jobs that suit their age.
-10. (odd) Three of these are care work. Which is the odd one out?  
+11. (odd) Three of these are care work. Which is the odd one out?  
    Options: Feeding a baby / Giving Thatha his medicine / Watching a cricket match / Helping with homework  
    **Answer:** 2. *Why:* Feeding, giving medicine and helping with homework are all looking after someone who needs help. Watching cricket is rest, which everyone also needs.
-11. (label) Here is a picture of a family tree. Label the two sides of the family.  
+12. (label) Here is a picture of a family tree. Label the two sides of the family.  
    **Answer:** ["Mother's side", "Father's side"]. *Why:* Relatives through your mother are on your mother's side, and relatives through your father are on your father's side.
-12. (mcq) Which is the best reason to do the Home Work Count on a normal evening, not a festival day?  
-   Options: Festival days have no work / So the count shows a usual day / Because clocks do not work on festivals  
+13. (mcq) Which is the best reason to do the Home Work Count on a normal evening, not a festival day?  
+   Options: So the count shows a usual day / Festival days have no work / Because clocks do not work on festivals  
    **Answer:** So the count shows a usual day. *Why:* On festival days there is often much more cooking and cleaning. A normal evening shows what a usual day needs. That makes it a fair test.
-13. (write) Write one question you would ask a woman in your family about her school days. Say why you want to know the answer.  
+14. (write) Write one question you would ask a woman in your family about her school days. Say why you want to know the answer.  
    **Answer:** For example: Did you want to study longer? A strong question asks about her choices and feelings, and the reason shows what the child wants to understand.. *Why:* Good questions about the past ask who decided and how it felt, not only up to which class.
-14. (truefalse) If, for many years, fewer girls than boys are sent to school, then later there will be fewer women than men who can read and write.  
+15. (truefalse) If, for many years, fewer girls than boys are sent to school, then later there will be fewer women than men who can read and write.  
    **Answer:** True. *Why:* True. Reading is mostly learned at school. If fewer girls go, fewer women grow up able to read. In India's 2011 Census, about 65 in every 100 women could read and write, and about 82 in every 100 men.
-15. (mcq) In some families, grandmothers find food and care for the older grandchildren. What might this let the mothers do?  
+16. (mcq) In some families, grandmothers find food and care for the older grandchildren. What might this let the mothers do?  
    Options: Have and care for a new baby more easily / Go to school / Stop caring for babies  
    **Answer:** Have and care for a new baby more easily. *Why:* When a grandmother feeds and looks after the older children, the mother has more time and strength for a new baby. Scientists call this the grandmother idea.
 ### Families, Then and Now (challenge) (challenge, 15 questions)
@@ -530,14 +536,14 @@ That evening Ajji had an hour with nothing to do. She sat with Kavya at the tabl
 3. (write) The koel chick is raised by crows that did not lay the egg. An adopted child is raised by parents who did not give birth to them. What makes someone a parent?  
    **Answer:** For example: a parent is the one who feeds, protects and cares for a child every day, whoever gave birth.. *Why:* A strong answer uses both examples and says what parents do, not only who gave birth. There is more than one good answer.
 4. (mcq) In the 2011 Census, about 82 in every 100 men in India could read and write, and about 65 in every 100 women. What is the best explanation?  
-   Options: Women are not as good at learning to read / For many years, fewer girls were sent to school / Women did not want to read  
+   Options: Women are not as good at learning to read / Women did not want to read / For many years, fewer girls were sent to school  
    **Answer:** For many years, fewer girls were sent to school. *Why:* For many years, many families kept daughters at home to work, so fewer women learned to read. It is about who got the chance, not about ability.
 5. (count) A family's Home Work Count showed 240 minutes in one evening. If the family does this every evening, how many minutes is that in a week?  
    **Answer:** 1680. *Why:* 240 times 7 is 1680 minutes, which is 28 hours. That is more than a whole day and night of work each week, from evenings alone.
 6. (write) If every person in your home stopped all unpaid home work for one week, what would happen? Name three things.  
    **Answer:** For example: no cooked food, dirty plates and clothes piling up, a baby or grandparent not looked after, and nobody able to go out to a paid job.. *Why:* A strong answer shows that paid work and school depend on unpaid home work being done.
 7. (mcq) A girl folded 20 clothes alone in 12 minutes, then with her aunt in 7 minutes, then alone again in 9 minutes. Why was her second try alone faster than her first?  
-   Options: Practice made her faster / The clothes got smaller / Her aunt was still helping  
+   Options: The clothes got smaller / Practice made her faster / Her aunt was still helping  
    **Answer:** Practice made her faster. *Why:* She had folded the same clothes twice before, so she had practised. This is why the test folds alone at the start and the end.
 8. (truefalse) India's Constitution, from 1950, gives women and men equal rights.  
    **Answer:** True. *Why:* True. The Constitution says nobody can be treated unfairly by the government because of their sex. But laws alone do not change every home.
@@ -560,42 +566,48 @@ That evening Ajji had an hour with nothing to do. She sat with Kavya at the tabl
 ## Videos
 - **What is the real value of unpaid work?** (UN Women, 3 min) id `fcqt0QzgUFU`: For the parent, and for a child who has done the Home Work Count. This short film shows cooking, cleaning and caring as work that keeps the world going. *Check:* Watch it yourself before showing your child.
 - **The Jungle Babblers: Jungle's Best-Kept Secret** (Roundglass Sustain, 5 min) id `fn46Yaf-2eI`: Jungle babblers, the 'seven sisters' of Indian gardens, live in family groups that raise chicks together. This film shows the birds and their group life. *Check:* Watch it yourself before showing your child.
-- **Harlow's Studies on Dependency in Monkeys** (Michael Baker, 6 min) id `OrNBEhzjg8I`: For the parent first. This is the old film of Harry Harlow's baby monkeys choosing a soft cloth mother over a wire one that gave milk. The How We Found Out story in this unit tells what happened. Some scenes show frightened baby monkeys, so watch the film alone before deciding whether to show your child. *Check:* Watch it yourself before showing your child.
+- **Harlow's Studies on Dependency in Monkeys** (Michael Baker, 6 min) id `OrNBEhzjg8I`: For the parent first. This is the old film of Harry Harlow's baby monkeys choosing a soft cloth mother over a wire one that gave milk. The How We Found Out story in this lesson tells what happened. Some scenes show frightened baby monkeys, so watch the film alone before deciding whether to show your child. *Check:* Watch it yourself before showing your child.
 
 ## Quiz
 1. (mcq) In one evening, a grandmother cooks for 70 minutes and nobody pays her. A house help sweeps for 60 minutes and is paid. Who did work?  
    Options: Only the house help, because she was paid / Both of them / Only the grandmother, because she worked longer  
    **Answer:** Both of them. *Why:* Both did work. Cooking and sweeping both need time and effort, and the family needs both. Being paid or not does not change whether it is work. Choosing 'only the house help' means thinking only paid jobs count.
 2. (mcq) A child lives with his grandparents, his parents, his uncle, his aunt and two cousins in one home. What kind of family is this?  
-   Options: A nuclear family / A joint family / Not a family, because there are too many people  
+   Options: A joint family / A nuclear family / Not a family, because there are too many people  
    **Answer:** A joint family. *Why:* A joint family has grandparents, parents, uncles, aunts and cousins under one roof. A nuclear family is only parents and their children.
 3. (mcq) A girl lives with only her mother. Are they a family?  
-   Options: Yes, because they live together and care for each other / No, a family needs a mother and a father / Only if grandparents live with them  
+   Options: No, a family needs a mother and a father / Yes, because they live together and care for each other / Only if grandparents live with them  
    **Answer:** Yes, because they live together and care for each other. *Why:* Care is what makes a family, not how many people there are. A mother and a daughter are a family of two. Choosing 'No' means thinking there is only one shape of family.
 4. (mcq) In Telugu, Ammamma is your mother's mother and Nannamma is your father's mother. What does English call both of them?  
-   Options: Grandmother / Aunt / Great-grandmother  
+   Options: Aunt / Grandmother / Great-grandmother  
    **Answer:** Grandmother. *Why:* English uses one word, grandmother, for both. Telugu has a separate word for each, so the word tells you which side of the family she is on.
 5. (mcq) In a pictograph, one clock stands for 15 minutes. Ajji's row has 6 clocks. How many minutes of work is that?  
    Options: 21 minutes / 90 minutes / 60 minutes  
    **Answer:** 90 minutes. *Why:* 6 clocks of 15 minutes each is 6 times 15, which is 90 minutes. Choosing 21 means adding 6 and 15 instead of multiplying.
 6. (mcq) In many Indian homes, women do most of the unpaid home work, like cooking, cleaning and caring. If a survey timed this work for women and for men, what would it most likely find?  
-   Options: Both spend about the same time / Women spend much more time on it than men / Men spend much more time on it than women  
+   Options: Women spend much more time on it than men / Both spend about the same time / Men spend much more time on it than women  
    **Answer:** Women spend much more time on it than men. *Why:* If women do most of the unpaid home work, they spend far more minutes on it each day. India's Time Use Survey found about 299 minutes a day for women and about 97 for men.
 7. (mcq) Which of these must parents or guardians in India do for a child of 8?  
-   Options: Send the child out to work for money / Send the child to school / Keep the child at home to do housework  
+   Options: Send the child out to work for money / Keep the child at home to do housework / Send the child to school  
    **Answer:** Send the child to school. *Why:* The Right to Education Act of 2009 gives every child from 6 to 14 the right to free schooling, and parents are expected to send daughters and sons alike. Paid work for a child under 14 is mostly against the law.
 8. (mcq) Long ago, most girls in India were kept at home and not sent to school. What would change that most for girls?  
-   Options: Opening schools where girls are welcome to study / Building more hospitals / Starting a newspaper  
+   Options: Building more hospitals / Starting a newspaper / Opening schools where girls are welcome to study  
    **Answer:** Opening schools where girls are welcome to study. *Why:* Girls can only learn at school if there is a school that lets them in. When people opened schools for girls, more girls learned to read, even though some people fought against it.
 9. (mcq) Harry Harlow gave baby monkeys two model mothers. One was wire and gave milk. One was soft cloth and gave no milk. Which did the babies cling to?  
-   Options: The wire one, because it gave milk / The cloth one / Neither of them  
+   Options: The wire one, because it gave milk / Neither of them / The cloth one  
    **Answer:** The cloth one. *Why:* The babies drank from the wire mother, then went back to cling to the cloth one, and ran to her when scared. Comfort mattered to them as much as food. Choosing the wire one is the old idea that babies love whoever feeds them.
 10. (mcq) An Asian koel lays her egg in a house crow's nest. Who feeds the koel chick?  
-   Options: The koel mother / The house crows / Nobody  
+   Options: The koel mother / Nobody / The house crows  
    **Answer:** The house crows. *Why:* The crows raise the koel chick along with their own chicks. The koel mother does not come back to feed the chick.
 11. (mcq) Who keeps an emperor penguin egg warm through the cold winter?  
    Options: The mother / The father / The egg is left on the ice alone  
    **Answer:** The father. *Why:* The father holds the egg on his feet under a fold of skin for about two months. The mother is at sea, feeding. Choosing 'the mother' is the usual guess, because in many animals she does it.
+12. (mcq) A child in Chennai calls her grandmother Paati, not by her first name. What does that word show?  
+   Options: Respect for the elder and her place in the family / That the grandmother is a stranger / That the child is angry  
+   **Answer:** Respect for the elder and her place in the family. *Why:* The relation word shows who the elder is to the child. Using it is a polite way to speak to an elder.
+13. (mcq) A woman is a nurse at a hospital and is paid every month. Which kind of work is this?  
+   Options: Unpaid home work / Paid work outside the home / Not really work at all  
+   **Answer:** Paid work outside the home. *Why:* Nursing at a hospital is paid work outside the home. Cooking and cleaning for your own family are unpaid home work, and they are real work too.
 
 ## Applications
 - Time use surveys show where women spend hours on unpaid work. That helps governments decide what to build, such as water taps near homes and cooking gas.
@@ -645,6 +657,13 @@ Many Hands at Home (sci.family.L3): Topic-level song for Family and friends L3
 - [DakshinaChitra Heritage Museum](https://www.dakshinachitra.net/) · place · Chennai (Muttukadu, on the East Coast Road): Walk through real old homes from Tamil Nadu, Kerala, Karnataka and Andhra Pradesh, and see how big joint families lived, cooked and shared work.
 
 ## Things to buy
+- [A Chair for My Mother by Vera B. Williams](https://www.amazon.in/s?k=A+Chair+for+My+Mother) (book): A girl, her mother and her grandmother save coins in a jar for a new chair after a fire, helped by their neighbours. It shows how a family looks after each other. Used in a1. Read it together at the start of the family lesson.
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in Family Handprints: what each pair of hands does. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in a3. Get it before Family Handprints: what each pair of hands does.
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in Many Hands: do two people fold clothes twice as fast?. About ₹150 to ₹400. A phone stopwatch works well. Used in e2. Get it before Many Hands: do two people fold clothes twice as fast?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Family Handprints: what each pair of hands does. About ₹10 to ₹30. Any school ruler is fine. Used in a3. Get it before Family Handprints: what each pair of hands does.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Family Job Wheel: share the home work for a week, A Steady Tray for Shaky Hands. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in p1, c2. Get it before The Family Job Wheel: share the home work for a week.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Home Work Count: who keeps our home running in one evening?, Games Our Grandparents Played. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1, a4. Get it before The Home Work Count: who keeps our home running in one evening?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What does English call your mother's brother? → Uncle.

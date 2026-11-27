@@ -1,9 +1,9 @@
 # Hot and cold: what makes warmth, and what only keeps it in
 `sci.energy.heat.L2`
 
-**Summary.** Does a sweater make any warmth? In this unit you will wrap one of two katoris of cold coconut oil in a sweater and see which melts first, hunt around the house for things that really make warmth, and play a card game sorting things that make warmth from things that keep it in.
+**Summary.** Does a sweater make any warmth? In this lesson you will wrap one of two katoris of cold coconut oil in a sweater and see which melts first, hunt around the house for things that really make warmth, and play a card game sorting things that make warmth from things that keep it in.
 
-**Intro.** *Hold a sweater, a shawl or a blanket against your cheek. Is it warm?* Most people say yes, because we call these warm clothes. But a sweater lying on a chair feels only as warm as the chair. Put it on, and in a minute or two it feels warm. So where did that warmth come from? In this unit you find out which things make warmth and which only keep it in.
+**Intro.** *Hold a sweater, a shawl or a blanket against your cheek. Is it warm?* Most people say yes, because we call these warm clothes. But a sweater lying on a chair feels only as warm as the chair. Put it on, and in a minute or two it feels warm. So where did that warmth come from? In this lesson you find out which things make warmth and which only keep it in.
 
 ## Learning outcomes
 0. By the end I can say whether things are hot, warm, cool or cold, and that temperature is how hot or cold something is.
@@ -399,7 +399,7 @@ Arjun looked at the box, then at his sweater. 'So a sweater keeps hot things hot
 2. (match) Draw a line from each warm thing to what made it warm.  
    **Answer:** A sunny window sill → The Sun; A hot dosa tawa → A gas flame; Your palms after rubbing → Rubbing; Warm eggs under a hen → The hen's body. *Why:* Each warm thing got its warmth from something that makes warmth: sunlight, a flame, rubbing or a living body.
 3. (mcq) In the Sweater and Coconut Oil test, which oil stayed white and hard for longer?  
-   Options: The oil wrapped in the sweater / The bare oil / Both melted at the same time  
+   Options: The bare oil / Both melted at the same time / The oil wrapped in the sweater  
    **Answer:** The oil wrapped in the sweater. *Why:* The sweater slowed the room's warmth from getting in, so the wrapped oil stayed cold and hard for longer.
 4. (truefalse) An ice cube melts fast in your hand because your hand is warmer than the ice.  
    **Answer:** True. *Why:* True. Your body makes warmth, so your hand is warmer than the ice. Heat moves from your hand into the ice.
@@ -414,11 +414,11 @@ Arjun looked at the box, then at his sweater. 'So a sweater keeps hot things hot
 9. (perspective) Arjun, a boy aged 5, and his sister Meenakshi, aged 8, talk about the Sweater and Coconut Oil test before they try it. In the test, one katori of cold, hard coconut oil is wrapped in a sweater and one is left bare.  
    **Answer:** Meenakshi. The wrapped oil stayed hard longer, so the sweater kept the cold oil cold. Arjun is right that we feel warm in a sweater, but that warmth comes from our body.. *Why:* A strong answer uses the test result as evidence, and is fair to Arjun's idea.
 10. (mcq) Why do your hands get warm when you rub them together?  
-   Options: Rubbing makes warmth. / Rubbing takes warmth from the air. / Your hands were hot inside all along.  
+   Options: Rubbing takes warmth from the air. / Rubbing makes warmth. / Your hands were hot inside all along.  
    **Answer:** Rubbing makes warmth.. *Why:* Rubbing makes warmth. That is one way things get warm, along with the Sun, fire, electricity and living bodies.
 ### Keeping warm and cooling down (stretch) (stretch, 10 questions)
 1. (mcq) In the Sweater and Coconut Oil test, why did the bare oil melt before the oil wrapped in the sweater?  
-   Options: The room was warmer than the oil, and the room's heat moved into it. / The bare katori made heat. / The oil in the sweater was a different oil.  
+   Options: The bare katori made heat. / The room was warmer than the oil, and the room's heat moved into it. / The oil in the sweater was a different oil.  
    **Answer:** The room was warmer than the oil, and the room's heat moved into it.. *Why:* The oil came from the cold fridge, so the room was warmer. Heat moves from warmer to cooler things, and nothing slowed it down for the bare oil.
 2. (order) Put these in order, from the hottest to the coldest.  
    **Answer:** ['a cup of hot tea', 'your hand', 'water from the fridge', 'an ice cube']. *Why:* Hot tea is much hotter than a hand. A hand is warmer than fridge water. Ice is the coldest.
@@ -444,7 +444,7 @@ Arjun looked at the box, then at his sweater. 'So a sweater keeps hot things hot
 1. (write) In the story Arjun's Cold Idli, Arjun wrapped his cold idli in his sweater to warm it up. What will happen? What could he do instead? You can say it and a grown-up can write it down.  
    **Answer:** The idli will stay cold, because the sweater makes no warmth. He could ask a grown-up to warm it on the stove or in steam.. *Why:* A strong answer says the sweater can only keep the warmth that is already there, and names a real maker of warmth.
 2. (mcq) Some people say mango heats the body and curd cools it. What have scientists found?  
-   Options: They have not found that these foods change body temperature by much. / A mango raises body temperature by 5 degrees. / Curd is colder than ice, so it cools you.  
+   Options: A mango raises body temperature by 5 degrees. / They have not found that these foods change body temperature by much. / Curd is colder than ice, so it cools you.  
    **Answer:** They have not found that these foods change body temperature by much.. *Why:* Many families feel that foods heat or cool them. But scientists have not found that a mango or curd changes body temperature by much.
 3. (perspective) A hen sits on her eggs to keep them warm. Two girls argue about it.  
    **Answer:** Both are partly right. The hen's body makes the warmth from her food. Her feathers keep it in, around the eggs.. *Why:* A strong answer separates making warmth from keeping it, and gives each girl her part.
@@ -477,28 +477,28 @@ Arjun looked at the box, then at his sweater. 'So a sweater keeps hot things hot
    Options: A diya flame / A woollen shawl / A pair of socks  
    **Answer:** A diya flame. *Why:* A flame burns and makes warmth. A shawl and socks make no warmth. They only keep it in.
 3. (mcq) A sweater has been lying on a chair all night. How warm is it?  
-   Options: As warm as the chair and the room / Warmer than the room / Colder than the fridge  
+   Options: Warmer than the room / Colder than the fridge / As warm as the chair and the room  
    **Answer:** As warm as the chair and the room. *Why:* A sweater makes no warmth, so it is as warm as the things around it.
 4. (mcq) Where does the warmth inside your sweater come from?  
    Options: From your body / From the wool / From the cupboard  
    **Answer:** From your body. *Why:* Your body makes warmth from food. The wool only keeps it close to you.
 5. (mcq) You test a sweater on cold coconut oil. One katori of oil is wrapped in the sweater and one is bare. What should be the same for both katoris?  
-   Options: The oil, the katori, the table and the time / Nothing / Only the colour of the katoris  
+   Options: Nothing / Only the colour of the katoris / The oil, the katori, the table and the time  
    **Answer:** The oil, the katori, the table and the time. *Why:* In a fair test, only one thing changes: here, the sweater. Everything else stays the same.
 6. (mcq) You want your coconut oil test to be fair. One katori of cold oil is wrapped in a sweater and one is bare. Which change would make the test unfair?  
    Options: Putting one katori in the sun and one in the shade / Using the same amount of oil in both / Starting the timer for both at the same time  
    **Answer:** Putting one katori in the sun and one in the shade. *Why:* In a fair test, only the sweater is different. Sun on one katori would change the test too, so we could not tell what melted the oil.
 7. (mcq) A hot idli sits on a plate for an hour. What happens?  
-   Options: It cools down to the warmth of the room. / It stays hot all day. / It gets colder than ice.  
+   Options: It stays hot all day. / It cools down to the warmth of the room. / It gets colder than ice.  
    **Answer:** It cools down to the warmth of the room.. *Why:* Hot things cool down until they are as warm as the room around them.
 8. (mcq) Why do your cheeks get warm after you run up the stairs?  
-   Options: Working muscles make more warmth. / The stairs are warm. / Running makes cold go away.  
+   Options: The stairs are warm. / Working muscles make more warmth. / Running makes cold go away.  
    **Answer:** Working muscles make more warmth.. *Why:* When muscles work hard, they make more warmth. The stairs make none.
 9. (mcq) On a cold night, how does a dog keep warm?  
    Options: They curl up into a ball. / They sit by an open window. / They take a cold bath.  
    **Answer:** They curl up into a ball.. *Why:* Curling up hides the parts that lose warmth fastest, so the dog's own warmth stays in.
 10. (mcq) On a hot day in Chennai, which helps you cool down?  
-   Options: Sitting in the shade under a fan / Wrapping up in a quilt / Sitting on a sunny terrace  
+   Options: Wrapping up in a quilt / Sitting in the shade under a fan / Sitting on a sunny terrace  
    **Answer:** Sitting in the shade under a fan. *Why:* Shade keeps the Sun's light off you, and the fan's moving air carries your warmth away. A quilt would keep your warmth in.
 
 ## Applications
@@ -511,10 +511,10 @@ Arjun looked at the box, then at his sweater. 'So a sweater keeps hot things hot
 
 ## Spotted around us
 - In winter in Kashmir, people wear a long woollen cloak called a pheran, and some carry a small clay pot of hot coals, called a kangri, under it.
-- In Kerala and Tamil Nadu, cooked rice and curry are often kept warm in a heavy pot with its lid on.
-- On winter mornings in Assam and Meghalaya, families sit around a small fire or in the sunshine, wrapped in shawls.
+- Cooked rice and curry kept warm in a heavy pot with its lid on.
+- On winter mornings, families sit around a small fire or in the sunshine, wrapped in shawls.
 - Street dogs in Indian cities curl up tight on cold nights, and find warm spots like the bonnet of a car that was just parked.
-- In Rajasthan and Gujarat, people wear loose white or light cotton clothes and turbans in the summer heat, which keep the Sun off them.
+- People wear loose white or light cotton clothes and turbans in the summer heat, which keep the Sun off them.
 - In a cowshed in winter, calves lie close to their mothers and to each other.
 
 ## Open questions
@@ -551,10 +551,11 @@ I Make My Own Warm (sci.energy.L2): Topic-level song for Energy L2
 ## Links
 - [PhET Energy Forms and Changes](https://phet.colorado.edu/en/simulations/energy-forms-and-changes) · simulation: A free online game from the University of Colorado. Heat a block of iron or a beaker of water and watch the warmth move. Best played with a grown-up.
 - [Kangaroo care, on Wikipedia](https://en.wikipedia.org/wiki/Kangaroo_care) · interactive: For the parent: how parents keep small babies warm skin to skin, and how it began in Colombia.
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: A science museum with hands-on galleries about energy and heat, good for a family day out.
-- [Birla Industrial and Technological Museum]() · place · Kolkata: A large science museum with hands-on exhibits about heat and energy.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru: A science museum with hands-on galleries about energy and heat, good for a family day out.
+- Birla Industrial and Technological Museum · place · Kolkata: A large science museum with hands-on exhibits about heat and energy.
 
 ## Things to buy
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Does a sweater make warmth? → No. It keeps your own warmth in.
@@ -572,7 +573,7 @@ I Make My Own Warm (sci.energy.L2): Topic-level song for Energy L2
 
 ## Sources
 - ideas/by_topic/energy.md, Heat Flow and Heat transfer: 'wrap bottles with different materials to test insulation' became the Sweater and Coconut Oil test (e1), changed to coconut oil so a child of 7 can see the result without a thermometer. 'Yoga poses to generate warmth' and 'meditate on inner warmth' became the roots practice. 'Game of matching objects to hot/cold categories' became the Makes It, Keeps It or Cools It card game (g1). 'Rub hands to feel warmth' is one idea in the cold hands challenge (c2).
-- Level 3 (sci.energy.heat.L3) has the two-hands bowl, the hot and cold tumbler test with a thermometer, the straw thermometer and the temperature diary, so this unit uses no thermometer and none of those activities. It leads on to Level 3 by noticing that hot things cool and cold things warm up.
+- Level 3 (sci.energy.heat.L3) has the two-hands bowl, the hot and cold tumbler test with a thermometer, the straw thermometer and the temperature diary, so this lesson uses no thermometer and none of those activities. It leads on to Level 3 by noticing that hot things cool and cold things warm up.
 - Pretorius T and others, 'Thermal effects of whole head submersion in cold water on nonshivering humans', Journal of Applied Physiology, 2006, and Vreeman R and Carroll A, 'Festive medical myths', BMJ, 2008, on heat lost through the head.
 - Johnson C and Eccles R, 'Acute cooling of the feet and the onset of common cold symptoms', Family Practice, 2005. Foxman E F, Iwasaki A and others, 'Temperature-dependent innate defense against the common cold virus limits viral replication at warm temperature in mouse airway cells', PNAS, 2015.
 - Mazumder S, Taneja S, Bhandari N and others, 'Effect of community-initiated kangaroo mother care on survival of infants with low birthweight: a randomised controlled trial', The Lancet, 2019. On the start of kangaroo mother care in Bogotá in 1978 under Edgar Rey Sanabria, see the World Health Organization's guide Kangaroo Mother Care: a practical guide (2003).

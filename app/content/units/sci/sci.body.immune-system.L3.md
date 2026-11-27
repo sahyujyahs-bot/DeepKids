@@ -1,9 +1,9 @@
 # The immune system: how your body keeps germs out and fights them
 `sci.body.immune-system.L3`
 
-**Summary.** A cut turns red and warm, so is your body fighting something? In this unit you will cry onion tears, test how an apple's skin keeps germs out, act as a white blood cell that eats germs, and take your temperature through the day.
+**Summary.** A cut turns red and warm, so is your body fighting something? In this lesson you will cry onion tears, test how an apple's skin keeps germs out, act as a white blood cell that eats germs, and take your temperature through the day.
 
-**Intro.** *Look at the skin on the back of your hand. Germs are landing on it right now, thousands of them. Most of them never get inside you. What is stopping them?* Think of the last time you scraped your knee. First it hurt. Then, a few hours later, the skin around the scrape went pink. It felt warm and a bit puffy. Maybe a little yellow goo came out. Was the scrape getting worse? Or was something inside you rushing to that spot, on purpose? In this unit you will find out. You will meet the defenders that guard your body every second, even while you sleep.
+**Intro.** *Look at the skin on the back of your hand. Germs are landing on it right now, thousands of them. Most of them never get inside you. What is stopping them?* Think of the last time you scraped your knee. First it hurt. Then, a few hours later, the skin around the scrape went pink. It felt warm and a bit puffy. Maybe a little yellow goo came out. Was the scrape getting worse? Or was something inside you rushing to that spot, on purpose? In this lesson you will find out. You will meet the defenders that guard your body every second, even while you sleep.
 
 ## Learning outcomes
 0. I can say what the immune system is: everything the body does to keep germs out and to fight the germs that get in.
@@ -613,7 +613,7 @@ But the evening I remember best is not the evening of the prize. It is the eveni
 ## Worksheets
 ### Body Defenders (core) (core, 15 questions)
 1. (mcq) Germs land on your hands all day long. Yet most days you do not fall ill. What is the best reason?  
-   Options: Germs are too small to hurt anyone / Your skin is a tight wall with no gaps, so most germs stay outside / Germs that land on hands always die at once  
+   Options: Germs are too small to hurt anyone / Germs that land on hands always die at once / Your skin is a tight wall with no gaps, so most germs stay outside  
    **Answer:** Your skin is a tight wall with no gaps, so most germs stay outside. *Why:* Skin is the body's biggest wall. Its top layer is made of flat dead cells packed tightly together, so germs cannot get through unless there is a cut. Germs are small, but some can make you very ill if they get inside. A strong answer names the skin as a wall.
 2. (sort) Sort these. Is it a WALL that keeps germs out, or a defence INSIDE the body that fights germs that got in?  
    **Answer:** skin → Wall; tears → Wall; white blood cells → Inside; mucus → Wall; fever → Inside; stomach acid → Wall. *Why:* Walls stop germs at the doors: skin, tears, mucus and stomach acid. Once germs are inside, white blood cells fight them, and a fever helps the fight.
@@ -650,7 +650,7 @@ But the evening I remember best is not the evening of the prize. It is the eveni
    Options: Because the room is cold / Because germs are cold / The brain has turned the body's heat knob up, so normal now feels too cold / Because white blood cells are cold  
    **Answer:** The brain has turned the body's heat knob up, so normal now feels too cold. *Why:* In a fever the brain sets a new, higher temperature. Until the body reaches it, normal 37 degrees feels too cold, so you shiver and want a blanket. Shivering makes heat. Picking 'the room is cold' is natural, but you shiver even in a warm room.
 2. (mcq) Dust tickles the inside of your nose, and you sneeze. What is the sneeze doing for you?  
-   Options: Pulling more dust deep into your chest / Blowing the dust and germs, caught in mucus, out of your nose / Warming up your nose  
+   Options: Blowing the dust and germs, caught in mucus, out of your nose / Pulling more dust deep into your chest / Warming up your nose  
    **Answer:** Blowing the dust and germs, caught in mucus, out of your nose. *Why:* A sneeze is the nose's wall at work. The mucus catches dust and germs, and the sneeze blasts them out. A strong answer says what is thrown out and why it helps.
 3. (perspective) A girl has a fever of 38.5 degrees Celsius. She feels tired but is drinking water. Three people give different advice.  
    **Answer:** A strong answer uses the science: a fever is the brain turning up the heat, many germs grow more slowly in the heat, and sick lizards kept cool were more likely to die. It then admits another fair point, for example that medicine can help a child sleep and drink, or that some fevers need a doctor.. *Why:* This is a real argument. Doctors today mostly agree with Dr Meera: medicine is for comfort, and warning signs matter more than the number. The grandmother is right that fever helps. The aunt is right that a child who is very unwell needs care.
@@ -663,14 +663,14 @@ But the evening I remember best is not the evening of the prize. It is the eveni
 7. (fill) A white blood cell that eats germs is called a ____. The word means 'eating cell'.  
    **Answer:** ['phagocyte']. *Why:* Phagocyte comes from old Greek words for eating and cell. Élie Metchnikoff studied these cells, starting with baby starfish in 1882.
 8. (mcq) Antibiotics are medicines that kill bacteria. A cold is caused by a virus. Will an antibiotic help someone with a cold get better?  
-   Options: Yes, antibiotics kill every kind of germ / No. Antibiotics do not work on viruses. Rest, water and the body's own immune system will beat the cold. / Only if she takes a double dose  
+   Options: No. Antibiotics do not work on viruses. Rest, water and the body's own immune system will beat the cold. / Yes, antibiotics kill every kind of germ / Only if she takes a double dose  
    **Answer:** No. Antibiotics do not work on viruses. Rest, water and the body's own immune system will beat the cold.. *Why:* Many people think antibiotics cure colds. They do not, because a cold is caused by a virus, not bacteria. Taking antibiotics when they are not needed also helps bacteria learn to survive them. A strong answer says why: antibiotics work on bacteria only.
 9. (write) In the Sticky Nose Test, you counted the dust specks only between the two pencil lines, not on the whole card. Why does that make the test fairer?  
    **Answer:** Both cards had the same area counted, 4 cm of tape between the lines. If one card was counted all over and the other only in part, the numbers could not be compared. Counting the same area means only the stickiness is different.. *Why:* A strong answer says the same area must be counted on both cards, so that the only difference is the sticky or smooth tape.
 10. (match) After a cut, you can see signs of the body's fight. Match each sign to what is causing it.  
    **Answer:** Redness → more blood flowing to the spot; Swelling → fluid and white blood cells coming out of the blood vessels; Pus → white blood cells that fought, with dead germs; Scab → dried blood sealing the hole in the skin. *Why:* Each sign has a cause inside the body. Together they show the steps: more blood comes, defenders leave the vessels, they fight, and the hole is sealed.
 11. (mcq) A vaccine shows the immune system a harmless form of a germ, such as a dead or weakened one. Why does this help when the real germ comes later?  
-   Options: The body recognises the germs and fights them much faster / The vaccine makes the skin thicker / The vaccine kills every microbe in the body  
+   Options: The vaccine makes the skin thicker / The vaccine kills every microbe in the body / The body recognises the germs and fights them much faster  
    **Answer:** The body recognises the germs and fights them much faster. *Why:* The immune system remembers the shapes on a germ. After a vaccine, the body has met those shapes already. When the real germ arrives, the body is ready, and fights before the germ can make you very ill.
 12. (truefalse) Boiling drinking water kills most of the germs in it.  
    **Answer:** True. *Why:* Heat kills most germs. That is why boiled water is safer to drink, and sends fewer germs down to your stomach.
@@ -682,22 +682,22 @@ But the evening I remember best is not the evening of the prize. It is the eveni
    **Answer:** False. *Why:* A scab is a lid over the hole in the skin wall. Picking it opens the hole again, and germs can get in.
 ### Me, Not-Me and Every Living Thing (challenge) (challenge, 16 questions)
 1. (mcq) Your immune system does not attack the food you eat, even though food comes from outside. What is one idea scientists have for why?  
-   Options: Food has no shapes on it / The stomach hides food from white blood cells forever / It attacks only things that send 'danger' signals, like hurt cells / White blood cells are asleep after meals  
+   Options: Food has no shapes on it / It attacks only things that send 'danger' signals, like hurt cells / The stomach hides food from white blood cells forever / White blood cells are asleep after meals  
    **Answer:** It attacks only things that send 'danger' signals, like hurt cells. *Why:* Polly Matzinger's 'danger model' says the immune system reacts to danger, not just to anything new. Food, friendly microbes and a growing baby don't send danger signals. Most scientists think danger and 'self' both matter. Food does have shapes, so that answer doesn't work.
 2. (mcq) Plants have no blood and no white blood cells. How do they defend themselves?  
-   Options: They can't defend themselves at all / Waxy leaves, closing leaf pores, sticky sap and chemical alarms / They run away from germs / They grow white blood cells in their roots  
+   Options: Waxy leaves, closing leaf pores, sticky sap and chemical alarms / They can't defend themselves at all / They run away from germs / They grow white blood cells in their roots  
    **Answer:** Waxy leaves, closing leaf pores, sticky sap and chemical alarms. *Why:* Plants have their own defences. They close the tiny holes in their leaves when germs land, seal wounds with sap, and send chemical warnings to other leaves. Picking 'can't defend' is natural, because we can't see a plant's fight.
 3. (mcq) Bacteria are single cells. Can they defend themselves against viruses?  
-   Options: No, bacteria have no defences / Only if they live inside people / Yes, some cut up virus pieces and remember them, using a system called CRISPR / Only in hot places  
+   Options: Yes, some cut up virus pieces and remember them, using a system called CRISPR / No, bacteria have no defences / Only if they live inside people / Only in hot places  
    **Answer:** Yes, some cut up virus pieces and remember them, using a system called CRISPR. *Why:* In 2007, scientists found that some bacteria, like those used to make yoghurt, store bits of the viruses that attacked them. Next time, the bacteria use these bits to recognise the same viruses and cut them up. Even a single cell has an immune system.
 4. (mcq) A body thermometer reads 101 degrees Fahrenheit. What is that in Celsius, roughly, and is it a fever?  
-   Options: About 101 degrees Celsius: boiling hot / About 38.3 degrees Celsius: yes, a fever / About 36 degrees Celsius: normal / You can't tell  
+   Options: About 101 degrees Celsius: boiling hot / About 36 degrees Celsius: normal / You can't tell / About 38.3 degrees Celsius: yes, a fever  
    **Answer:** About 38.3 degrees Celsius: yes, a fever. *Why:* Normal is about 98.6 degrees Fahrenheit, which is 37 degrees Celsius. A fever starts at about 100.4 degrees Fahrenheit, which is 38 degrees Celsius. So 101 Fahrenheit is about 38.3 Celsius, a fever. Picking 101 Celsius mixes up the two scales.
 5. (mcq) A girl took her temperature four times in one day. It read 36.3 degrees Celsius at 7 am and 36.9 after running. What is the best explanation?  
    Options: Her body has a fever after running / Body temperature changes a little through the day, and moving muscles make heat / The thermometer is broken  
    **Answer:** Body temperature changes a little through the day, and moving muscles make heat. *Why:* A small change of half a degree or so is normal. Moving muscles make heat, and the body is coolest early in the morning. 36.9 is not a fever, because a fever is 38 or more.
 6. (truefalse) White blood cells sometimes attack the body's own cells by mistake.  
-   **Answer:** True. *Why:* True. This is called an autoimmune illness. It shows how hard the job of telling 'me' from 'not me' is. You will learn more in Class 5.
+   **Answer:** True. *Why:* True. This is called an autoimmune illness. It shows how hard the job of telling 'me' from 'not me' is. There is much more to find out about this.
 7. (order) Put a fever in order, from start to finish.  
    **Answer:** order shown. *Why:* The signal comes first, then the new setting, then shivering to reach it. When the fight ends, the setting drops, and you sweat to cool down.
 8. (match) Match each living thing to how it defends itself.  
@@ -720,40 +720,40 @@ But the evening I remember best is not the evening of the prize. It is the eveni
    **Answer:** white blood cells eat germs → Scientists agree; a cold is caused by a virus → Scientists agree; skin keeps germs out unless it is broken → Scientists agree; why allergies have become more common → Scientists still argue; exactly how the body tells harmless microbes from harmful ones → Scientists still argue. *Why:* Some things have been tested again and again. Others are still open. A strong answer can say why an open question is hard: there are trillions of microbes, and each person's body is a little different.
 
 ## Videos
-- **The Immune System Explained I: Bacteria Infection** (Kurzgesagt: In a Nutshell, 7 min) id `zQGOcOUBi6s`: For the parent and older children: a beautiful animation of what happens when bacteria get in through a cut, from skin to white blood cells and inflammation. It goes beyond this unit into antibodies, which come in Class 4 and 5. *Check:* It uses some battle pictures, which suit most children.
+- **The Immune System Explained I: Bacteria Infection** (Kurzgesagt: In a Nutshell, 7 min) id `zQGOcOUBi6s`: For the parent and older children: a beautiful animation of what happens when bacteria get in through a cut, from skin to white blood cells and inflammation. It goes beyond this lesson into antibodies, which come in Class 4 and 5. *Check:* It uses some battle pictures, which suit most children.
 - **Immune System, part 1: Crash Course Anatomy and Physiology #45** (CrashCourse, 9 min) id `GIJK3dwCWCw`: For the parent: a clear grown-up explanation of the first defences, inflammation, fever and the eating cells, so you can answer your child's questions. *Check:* Best watched by the parent first. It moves fast.
 - **A white blood cell chasing a bacterium (David Rogers' film, 1950s)** (Andres Trevino (an upload of David Rogers' film), 1 min) id `I_xh-bkiv_c`: A real microscope film from Vanderbilt University. A white blood cell crawls between red blood cells and chases a bacterium. Children love it, and it shows the kind of cell Metchnikoff found. *Check:* A very short clip, easy to watch twice.
 
 ## Quiz
 1. (mcq) Someone says the immune system is one organ, like the heart. Is that right?  
-   Options: Yes. It sits in the chest / No. It is many parts working together, like skin, tears, mucus, white blood cells and fever / Yes. It is the stomach  
+   Options: No. It is many parts working together, like skin, tears, mucus, white blood cells and fever / Yes. It sits in the chest / Yes. It is the stomach  
    **Answer:** No. It is many parts working together, like skin, tears, mucus, white blood cells and fever. *Why:* The immune system is not one organ. It is everything the body does to keep germs out and to fight the ones that get in.
 2. (mcq) When you have a cold, your nose runs with extra mucus. How might that help you?  
-   Options: The extra mucus traps germs and carries them out / The extra mucus feeds the germs / It does not help at all  
+   Options: The extra mucus feeds the germs / The extra mucus traps germs and carries them out / It does not help at all  
    **Answer:** The extra mucus traps germs and carries them out. *Why:* Mucus is a sticky trap. More mucus means more germs are caught and blown out or swallowed. A runny nose is annoying, but it is part of the fight.
 3. (mcq) White blood cells and red blood cells both travel in the blood. Which job belongs to white blood cells?  
    Options: Carrying oxygen round the body / Finding germs and destroying them / Making the skin white  
    **Answer:** Finding germs and destroying them. *Why:* White blood cells hunt germs. Red blood cells carry oxygen. Picking 'making the skin white' comes from the name, but white blood cells have nothing to do with skin colour.
 4. (mcq) What do phagocytes do when they touch germs?  
-   Options: They wrap round the germs and swallow them / They run away from the germs / They turn into germs  
+   Options: They run away from the germs / They turn into germs / They wrap round the germs and swallow them  
    **Answer:** They wrap round the germs and swallow them. *Why:* A phagocyte is a white blood cell that eats germs. Phagocytes wrap round germs, pull them inside and break them down with chemicals.
 5. (mcq) A child has a fever. Which of these means a grown-up should call a doctor quickly?  
-   Options: The child feels warm and sleepy for one evening / The child wants water / The child has a stiff neck and a new rash / The child wants a blanket  
+   Options: The child has a stiff neck and a new rash / The child feels warm and sleepy for one evening / The child wants water / The child wants a blanket  
    **Answer:** The child has a stiff neck and a new rash. *Why:* A doctor is needed for a stiff neck, a rash, trouble breathing or a fit. A doctor is also needed for a fever of 40 degrees or more, one lasting more than 3 days, or any fever in a baby under 3 months. Feeling warm, sleepy and thirsty is common in an ordinary fever.
 6. (mcq) In the apple skin test, why did we keep everything the same except the skin?  
    Options: To make it quicker / So we could be sure the skin made the difference / Because apples are all the same anyway / So the apples taste the same  
    **Answer:** So we could be sure the skin made the difference. *Why:* In a fair test only one thing changes. Then, if the results differ, we know what caused it. Picking 'apples are all the same' misses why we chose them carefully.
 7. (mcq) Curd is full of microbes. Is eating curd harmful?  
-   Options: Yes. All microbes are germs / No. The microbes in curd are friendly, and many friendly microbes live in our gut and help us / Only if the curd is cold  
+   Options: Yes. All microbes are germs / Only if the curd is cold / No. The microbes in curd are friendly, and many friendly microbes live in our gut and help us  
    **Answer:** No. The microbes in curd are friendly, and many friendly microbes live in our gut and help us. *Why:* Only a few microbes are germs. The ones that turn milk into curd are friendly. Picking 'all microbes are germs' is the most common idea, and many adverts encourage it.
 8. (mcq) A chemical in tears, called lysozyme, protects you by…  
-   Options: Making your eyes see better / Turning tears salty / Breaking open the outer coat of some bacteria / Feeding friendly microbes  
+   Options: Making your eyes see better / Turning tears salty / Feeding friendly microbes / Breaking open the outer coat of some bacteria  
    **Answer:** Breaking open the outer coat of some bacteria. *Why:* Lysozyme fits a part of a bacterium's coat, like a key in a lock, and snips it so the bacterium bursts. Alexander Fleming found it in 1921.
 9. (mcq) When a neem tree is cut, sticky gum oozes out and hardens over the cut. Which of your body's defences is this most like?  
-   Options: A sneeze / A scab sealing a cut / Crying  
+   Options: A sneeze / Crying / A scab sealing a cut  
    **Answer:** A scab sealing a cut. *Why:* Both the gum and the scab seal a hole in the outer wall, so germs cannot get in while it heals. Trees have no blood, but they defend themselves too.
 10. (mcq) A mosquito bites a child. Why can a germ get inside the body at that spot?  
-   Options: The bite makes a tiny hole in the skin wall / Mosquitoes are cold, so the skin cannot work / Skin is always open  
+   Options: Mosquitoes are cold, so the skin cannot work / Skin is always open / The bite makes a tiny hole in the skin wall  
    **Answer:** The bite makes a tiny hole in the skin wall. *Why:* Skin keeps germs out only while it has no holes. A bite, a scrape or a splinter makes a hole, so germs can slip past that wall. Skin is not always open, only where it is broken.
 
 ## Applications
@@ -775,7 +775,7 @@ But the evening I remember best is not the evening of the prize. It is the eveni
 - Onions being chopped in a kitchen, and the cook's eyes streaming.
 - A digital thermometer in a family's medicine box, next to a strip of plasters.
 - Dust collecting on a window grill on a busy road. Your nose catches some of that dust every day.
-- A scab on a footballer's knee after a muddy match in Shillong, or a cricketer's knee after a slide on the maidan in Kolkata.
+- A scab on a footballer's knee after a muddy match, or a cricketer's knee after a slide on the ground.
 - Sticky gum oozing from a cut in the bark of a neem or mango tree.
 - A garden lizard basking on a warm wall in the morning sun.
 - A pot of homemade curd: full of friendly microbes, not germs.
@@ -835,10 +835,21 @@ This Body Is a Universe (sci.body.L3): Topic-level song
 - [National Science Centre](https://www.nscdelhi.org) · place · New Delhi: A science centre with many hands-on galleries. Look for exhibits about the body and health.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A big science museum. Look for exhibits about living things and the body.
 - [Birla Industrial and Technological Museum](https://www.bitm.gov.in) · place · Kolkata: A science museum with galleries for children. Ask about exhibits on health and the body.
-- [Your local health centre or a family doctor]() · place · Your nearest clinic: Ask a nurse to show your child a thermometer, a blood test report or an immunisation card, and explain what the numbers mean.
+- Your local health centre or a family doctor · place · Your nearest clinic: Ask a nurse to show your child a thermometer, a blood test report or an immunisation card, and explain what the numbers mean.
 
 ## Things to buy
 - [Digital body thermometer](https://www.amazon.in/s?k=digital+thermometer) (tool): Easy to read and safe. Used to find your normal temperature, and whenever someone has a fever. Used in e2. 
+- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): Used in The Sticky Nose Test, Look at Your Skin Wall. About ₹30 to ₹120. A water drop on clear plastic magnifies a little. Used in e3, a2. Get it before The Sticky Nose Test.
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in The Sneeze Stopper. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in c1. Get it before The Sneeze Stopper.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Sticky Nose Test. About ₹10 to ₹30. Any school ruler is fine. Used in e3. Get it before The Sticky Nose Test.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in Onion Tears. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in a1. Get it before Onion Tears.
+- [Food colour](https://www.amazon.in/s?k=food+colour+liquid) (material): Used in The Sneeze Stopper. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it. Used in c1. Get it before The Sneeze Stopper.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Build the Body Castle. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in p1. Get it before Build the Body Castle.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in Draw the Hidden Fight, Build the Body Castle. About ₹20 to ₹50. Torn clean cloth works. Used in a6, p1. Get it before Draw the Hidden Fight.
+- [Clean sand (a small bag)](https://www.amazon.in/s?k=play+sand+small+bag) (material): Used in Count Your Blinks. About ₹20 to ₹60. Fine soil sieved from a pot works. Used in a4. Get it before Count Your Blinks.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Be a Phagocyte. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a3. Get it before Be a Phagocyte.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in The Sneeze Stopper. About ₹30 to ₹60. Newspaper cut into strips also works. Used in c1. Get it before The Sneeze Stopper.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name the body's biggest wall against germs. → Skin.
@@ -858,7 +869,7 @@ This Body Is a Universe (sci.body.L3): Topic-level song
 - Core: a1, e1, a2, a3, g1, ws-core, e2, a5
 
 ## Sources
-- DeepKids notebook (curriculum notebook items bio:26 Immune system, bio:240 to bio:246: innate immunity, adaptive immunity, vaccines and memory, autoimmunity, immunodeficiency). This unit takes the innate part; the rest is left for L4 and L5.
+- DeepKids notebook (curriculum notebook items bio:26 Immune system, bio:240 to bio:246: innate immunity, adaptive immunity, vaccines and memory, autoimmunity, immunodeficiency). This lesson takes the innate part; the rest is left for L4 and L5.
 - ideas/by_topic/health-hygiene-exercise-and-illness.md: SCI Cards for Semmelweis ('invisible things can kill you'), Charaka and others.
 - Combined lesson sci-C4-health-hygiene-exercise-and-illness: the body-as-castle drawing, the germ tag game with skin wall, white blood cell and memory round (adapted here as g2 and p1), the 'self and not-self' idea and the Tu Youyou voice. Its story was not reused.
 - Combined lesson sci-C3-health-hygiene-exercise-and-illness: tears, nose hairs and mucus, skin flakes as dead cells, and the myths about earwax and colds.

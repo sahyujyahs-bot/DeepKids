@@ -1,9 +1,9 @@
 # Reading the Moon: where day meets night, why half Moons show mountains, and how to predict any phase
 `sci.sky.moon-phases.L4`
 
-**Summary.** The full Moon is the brightest night, yet a half Moon shows its mountains and craters better. Why? In this unit you will light a dough Moon from three directions, find how much later the Moon rises each night, and play a game to guess the Moon from its age.
+**Summary.** The full Moon is the brightest night, yet a half Moon shows its mountains and craters better. Why? In this lesson you will light a dough Moon from three directions, find how much later the Moon rises each night, and play a game to guess the Moon from its age.
 
-**Intro.** *You have a pair of binoculars and one night to look at the Moon's mountains and craters. Do you pick the full Moon, which is the brightest, or a half Moon, which looks dimmer? Most people pick the full Moon. Galileo found out in 1609 that the half Moon is the better choice.* The edge between the Moon's lit part and its dark part is called the terminator. Along it, the Sun is low over the Moon's land, like early morning, and every bump throws a long shadow. At full Moon the Sun shines straight down on the Moon from behind us, and there are almost no shadows at all. In this unit you test this with a dough Moon and a torch. You also learn to predict the Moon's phase, find out when it rises, and measure how wide it is with a bindi.
+**Intro.** *You have a pair of binoculars and one night to look at the Moon's mountains and craters. Do you pick the full Moon, which is the brightest, or a half Moon, which looks dimmer? Most people pick the full Moon. Galileo found out in 1609 that the half Moon is the better choice.* The edge between the Moon's lit part and its dark part is called the terminator. Along it, the Sun is low over the Moon's land, like early morning, and every bump throws a long shadow. At full Moon the Sun shines straight down on the Moon from behind us, and there are almost no shadows at all. In this lesson you test this with a dough Moon and a torch. You also learn to predict the Moon's phase, find out when it rises, and measure how wide it is with a bindi.
 
 ## Learning outcomes
 0. I can explain what the terminator is and why shadows along it show the Moon's mountains and craters.
@@ -571,7 +571,7 @@ At the science fair, Abirami's poster had a full Moon on one side, bright and fl
    Options: The line between the lit part and the dark part / The dark side of the Moon / The edge of the Moon in the sky / A very deep crater  
    **Answer:** The line between the lit part and the dark part. *Why:* The terminator is the line where the Moon's day meets its night. For a place on the Moon, it is sunrise or sunset. It is not a dark side or a crater.
 3. (mcq) Which night is the poorest for seeing craters through binoculars?  
-   Options: Full Moon / First quarter / Last quarter / A five-day-old crescent  
+   Options: First quarter / Last quarter / Full Moon / A five-day-old crescent  
    **Answer:** Full Moon. *Why:* At full Moon, the Sun lights the Moon from behind us, so there are almost no shadows. Craters look flat. The other nights have light from the side.
 4. (fill) The line between the lit and dark parts of the Moon is called the ____.  
    **Answer:** ['terminator']. *Why:* On the real Moon, the terminator is the place where it is sunrise or sunset, and shadows there are long.
@@ -593,7 +593,7 @@ At the science fair, Abirami's poster had a full Moon on one side, bright and fl
 12. (perspective) Two friends in Bengaluru are planning a night to look at the Moon with binoculars.  
    **Answer:** A strong answer sides with the second child, because the half Moon is lit from the side and shows craters with shadows, while the full Moon is lit from behind us and looks flat. It gives the first child her due: the full Moon is the brightest and the most beautiful, and it shows bright rays and the dark plains well.. *Why:* This tests the main idea: shadows from slanting light show shape, so a brighter Moon is not a better one for craters.
 13. (mcq) About how much later does the Moon rise each day?  
-   Options: About 50 minutes / About 5 minutes / About 5 hours / The same time every day  
+   Options: About 5 minutes / About 5 hours / The same time every day / About 50 minutes  
    **Answer:** About 50 minutes. *Why:* The Moon moves round the Earth in the same direction as the Earth spins, so the Earth must turn a little extra to catch up with it each day, about 50 minutes.
 14. (odd) Which one is the odd one out?  
    Options: Maria / Highlands / Craters / Terminator  
@@ -609,7 +609,7 @@ At the science fair, Abirami's poster had a full Moon on one side, bright and fl
 2. (fill) The gap between two high tides is about 12 hours and ____ minutes.  
    **Answer:** ['25', 'twenty-five', 'twenty five']. *Why:* The Moon moves on while the Earth turns, so the gap is a little longer than 12 hours. The extra is about 25 minutes.
 3. (mcq) When do spring tides happen?  
-   Options: At new Moon and full Moon / Only in the spring season / At the half Moons / Only at night  
+   Options: Only in the spring season / At new Moon and full Moon / At the half Moons / Only at night  
    **Answer:** At new Moon and full Moon. *Why:* At new Moon and full Moon, the Sun and the Moon pull along the same line and make bigger tides. The name spring has nothing to do with the season.
 4. (order) Put these tides in the order they come, starting at new Moon.  
    **Answer:** ['big tides at new Moon', 'small tides at first quarter', 'big tides at full Moon', 'small tides at last quarter']. *Why:* Tides are big at new Moon and full Moon and small at the quarters. The rhythm repeats about every two weeks.
@@ -628,23 +628,23 @@ At the science fair, Abirami's poster had a full Moon on one side, bright and fl
 11. (perspective) Two friends in Mysuru are arguing about the colour of the Moon.  
    **Answer:** A strong answer sides with the second child: the Moon sends back only about 12 parts in 100 of the sunlight that falls on it, so it is dark grey. It gives the first child her due: it looks white because the night sky around it is black, and she describes what we see.. *Why:* This tests whether a child separates what a thing is from how it looks against its surroundings.
 12. (mcq) Why was Chandrayaan-3 timed to land at lunar dawn?  
-   Options: So its solar-powered lander would have about two weeks of daylight / Because the Moon is brightest at dawn / Because the Earth is closest at dawn / Because dawn is cooler for the crew  
+   Options: Because the Moon is brightest at dawn / So its solar-powered lander would have about two weeks of daylight / Because the Earth is closest at dawn / Because dawn is cooler for the crew  
    **Answer:** So its solar-powered lander would have about two weeks of daylight. *Why:* The lander ran on sunlight and could not survive the cold of the lunar night. Landing just after sunrise gave it about 14 Earth days of sun. There was no crew on board.
 13. (sort) Sort each thing into 'changes with the Moon's age' or 'does not change'.  
    **Answer:** the shape of the lit part → Changes with the age; the size of the tides → Changes with the age; the time of moonrise → Changes with the age; the width of the Moon → Does not change; the distance from the Earth to the Sun, in a month → Does not change. *Why:* The phase, the moonrise time and the size of the tides all follow the Moon's position. The Moon's width does not change, and the Sun's distance hardly changes in a month. A strong answer says why.
 14. (match) Match each number to what it measures.  
-   **Answer:** 14 days → about how long the Moon's daylight lasts at one place; 50 minutes → about how much later the Moon rises each day; 29 and a half days → the time from one new Moon to the next; 384,000 kilometres → about how far away the Moon is; 110 → about how many Moon-widths away the Moon is. *Why:* These numbers come from the experiments and explanations in the unit. A strong answer could say how each was measured.
+   **Answer:** 14 days → about how long the Moon's daylight lasts at one place; 50 minutes → about how much later the Moon rises each day; 29 and a half days → the time from one new Moon to the next; 384,000 kilometres → about how far away the Moon is; 110 → about how many Moon-widths away the Moon is. *Why:* These numbers come from the experiments and explanations in the lesson. A strong answer could say how each was measured.
 15. (odd) Three of these are on the Moon's surface. Which one is the odd one out?  
    Options: Maria / Highlands / Rays / Tides  
    **Answer:** 3. *Why:* Maria, highlands and rays are all things on the Moon's surface. Tides are the movement of the sea on the Earth, caused by the Moon.
 16. (mcq) Why can we see about 59 parts out of every 100 of the Moon's surface over time?  
-   Options: The Moon nods and rocks a little, which lets us see round its edges / The Moon spins fast / The Moon grows / We see it from space  
+   Options: The Moon spins fast / The Moon grows / We see it from space / The Moon nods and rocks a little, which lets us see round its edges  
    **Answer:** The Moon nods and rocks a little, which lets us see round its edges. *Why:* The Moon rocks and nods by a few degrees. This is called libration, and it lets us peek a little way round the edges of the face.
 ### Think Like a Moon Watcher (challenge) (challenge, 15 questions)
 1. (write) Galileo saw bright specks in the dark part of the Moon, near the line between light and dark. The specks grew and joined the lit part over a few days. What did he guess they were, and why?  
    **Answer:** He guessed that they were mountain tops. The Sun had just reached their tops, but not the low ground around them. As the Sun rose higher on the Moon, the light spread down and joined the lit part.. *Why:* A strong answer says the tops catch the first light, as hilltops do at dawn on the Earth.
 2. (mcq) A mound on a model Moon is 2 centimetres tall and casts a 6 centimetre shadow. What can you say about the light?  
-   Options: It is coming in at a low angle / It is coming from straight overhead / It is coming from straight behind the viewer / There is no light  
+   Options: It is coming from straight overhead / It is coming from straight behind the viewer / It is coming in at a low angle / There is no light  
    **Answer:** It is coming in at a low angle. *Why:* A shadow three times as long as the mound means the light is low, so the angle is shallow. Light from straight overhead would make almost no shadow.
 3. (perspective) Two friends want to photograph craters on the Moon with a phone and binoculars.  
    **Answer:** A strong answer picks the first child's plan, because shadows along the terminator show shape. It gives the second child his due: a full Moon is bright, so a short exposure is easy, and the photo can show the bright rays and dark plains well. Neither plan involves looking at the Sun.. *Why:* This is a real trade-off between brightness and detail. Both give something.
@@ -662,7 +662,7 @@ At the science fair, Abirami's poster had a full Moon on one side, bright and fl
 9. (label) Label the Earth, the Moon and the two tidal bulges. Show which way the Earth turns.  
    **Answer:** The Earth in the middle, two bulges of water along the line to the Moon, the Moon on one side and a curved arrow showing the Earth's spin.. *Why:* The bulges stay lined up with the Moon while the Earth turns. A strong label shows both bulges.
 10. (mcq) Why is there a tidal bulge on the side of the Earth facing away from the Moon?  
-   Options: The Moon's pull is weaker there than on the rest of the Earth, so the sea is left behind / The Moon pushes the sea away / The Sun pulls it / The sea sloshes back  
+   Options: The Moon pushes the sea away / The Sun pulls it / The sea sloshes back / The Moon's pull is weaker there than on the rest of the Earth, so the sea is left behind  
    **Answer:** The Moon's pull is weaker there than on the rest of the Earth, so the sea is left behind. *Why:* The Moon's pull gets weaker with distance. The solid Earth is pulled more than the water on the far side, so the far side water is left behind and heaps up.
 11. (write) The Moon sends back only about 12 parts in every 100 of the sunlight that falls on it. Explain why it still looks bright at night.  
    **Answer:** The Moon reflects enough sunlight to be seen, and the night sky around it is dark. Our eyes judge brightness by comparison, so it looks bright against black.. *Why:* A strong answer says brightness is judged against the surroundings.
@@ -687,37 +687,37 @@ At the science fair, Abirami's poster had a full Moon on one side, bright and fl
    Options: The line where the Moon's day meets its night / The Moon's far side / The edge of the Moon's disc / A mountain range  
    **Answer:** The line where the Moon's day meets its night. *Why:* The terminator is the moving line between the lit and dark parts of the Moon. There, the Sun is rising or setting.
 2. (mcq) Why do the long shadows along the terminator help us?  
-   Options: They show the shape of craters and mountains / They make the Moon brighter / They cool the Moon / They hide the craters  
+   Options: They make the Moon brighter / They cool the Moon / They show the shape of craters and mountains / They hide the craters  
    **Answer:** They show the shape of craters and mountains. *Why:* Low sunlight makes long shadows. We read the shape of rough ground by its shadows.
 3. (mcq) Which Moon is a poor choice for seeing craters?  
-   Options: The full Moon / The first quarter / The last quarter / A crescent  
+   Options: The first quarter / The full Moon / The last quarter / A crescent  
    **Answer:** The full Moon. *Why:* At full Moon, the Sun lights the Moon from behind us. The craters make almost no shadows, so they look flat.
 4. (mcq) A friend says the full Moon is the best for seeing craters because it is brightest. What is wrong?  
-   Options: Light from straight behind us makes almost no shadows / The full Moon is dim / Craters vanish at full Moon / The full Moon is farther away  
+   Options: The full Moon is dim / Light from straight behind us makes almost no shadows / Craters vanish at full Moon / The full Moon is farther away  
    **Answer:** Light from straight behind us makes almost no shadows. *Why:* Brightness is not the same as seeing detail. Shadows show shape, and a full Moon has almost none.
 5. (mcq) A Moon is 22 days old. What does it look like from India?  
-   Options: A half Moon lit on the left / A half Moon lit on the right / A full Moon / A new Moon  
+   Options: A half Moon lit on the right / A full Moon / A new Moon / A half Moon lit on the left  
    **Answer:** A half Moon lit on the left. *Why:* At 22 days it is the last quarter. A shrinking Moon is lit on the left when seen from India.
 6. (mcq) The Sun sets at 6 pm and the Moon is 7 days old. About when does the Moon set?  
-   Options: About midnight / About 7 pm / About 6 am / About noon  
+   Options: About 7 pm / About midnight / About 6 am / About noon  
    **Answer:** About midnight. *Why:* Seven times 50 minutes is about 6 hours. Six hours after 6 pm is midnight.
 7. (mcq) How long is the sunlit part of a lunar day at a place near the Moon's equator?  
-   Options: About two weeks / About 12 hours / About a year / About one hour  
+   Options: About 12 hours / About two weeks / About a year / About one hour  
    **Answer:** About two weeks. *Why:* A full day on the Moon lasts about 29 and a half Earth days, so the daylight lasts about two weeks and the night about two weeks.
 8. (mcq) Why does the Moon's ground get so cold at night?  
-   Options: There is no air to hold in the heat / The Moon is far from the Sun / The Moon makes cold / The Earth blocks the heat  
+   Options: The Moon is far from the Sun / The Moon makes cold / There is no air to hold in the heat / The Earth blocks the heat  
    **Answer:** There is no air to hold in the heat. *Why:* Without air, heat escapes quickly after sunset. The ground falls to about minus 170 degrees Celsius.
 9. (mcq) A small disc just covers the Moon at about 110 times its own width from your eye. What does this tell you?  
-   Options: The Moon is about 110 of its own widths away / The Moon is 110 kilometres away / The Moon is 110 times bigger than the disc / The Moon is 110 days old  
+   Options: The Moon is 110 kilometres away / The Moon is 110 times bigger than the disc / The Moon is 110 days old / The Moon is about 110 of its own widths away  
    **Answer:** The Moon is about 110 of its own widths away. *Why:* A small disc close to the eye can cover a large thing far away if they are in the same proportion. The ratio of distance to width is the same for both.
 10. (mcq) Why are there two high tides a day on most coasts?  
-   Options: The sea bulges towards the Moon and away from it, and the Earth turns under both / The Moon goes round the Earth twice a day / The Sun pulls twice / The tides slosh back and forth  
+   Options: The Moon goes round the Earth twice a day / The sea bulges towards the Moon and away from it, and the Earth turns under both / The Sun pulls twice / The tides slosh back and forth  
    **Answer:** The sea bulges towards the Moon and away from it, and the Earth turns under both. *Why:* The Moon's pull makes two bulges in the sea. The Earth turns once a day under them, so a place meets two high tides.
 11. (mcq) When are the tides biggest?  
-   Options: A day or two after new Moon and full Moon / At the half Moons / Only in the monsoon / At noon each day  
+   Options: At the half Moons / Only in the monsoon / At noon each day / A day or two after new Moon and full Moon  
    **Answer:** A day or two after new Moon and full Moon. *Why:* At new Moon and full Moon, the Sun and the Moon pull along one line, so their pulls add up.
 12. (mcq) Galileo noticed bright specks in the dark part of the Moon near the terminator. What did he decide they were?  
-   Options: Mountain tops catching the first sunlight / Stars / Lamps / Clouds  
+   Options: Stars / Lamps / Mountain tops catching the first sunlight / Clouds  
    **Answer:** Mountain tops catching the first sunlight. *Why:* The tops of the Moon's mountains are lit first at sunrise, before the valleys. Galileo understood this from the way the specks grew and joined the light.
 
 ## Applications
@@ -736,7 +736,7 @@ At the science fair, Abirami's poster had a full Moon on one side, bright and fl
 - A thin crescent Moon low in the western sky after sunset, lit on the side facing the Sun.
 - The Moon seen in the daytime sky, a half Moon in the afternoon with its flat edge towards the Sun.
 - Long evening shadows of coconut trees and temple gopurams, much longer than at noon.
-- Fishing boats pulled up on the beach at low tide in Kerala, Tamil Nadu or Odisha, and floating at high tide.
+- Fishing boats pulled up on the beach at low tide, and floating at high tide.
 - Wet sand and shells on a beach at low tide, with a long strip of land uncovered at spring tide.
 - A tide table printed in a newspaper, or a tide app on a fisher's phone.
 - A farmer's field in early morning light, with every furrow throwing a thin shadow.
@@ -792,13 +792,19 @@ Star, Planet, Moon (sci.sky.L4): Topic-level song
 - [NASA Moon pages for children](https://spaceplace.nasa.gov/) · interactive: Short, clear pages and games about the Moon, made by NASA for children.
 - [ISRO, Chandrayaan-3](https://www.isro.gov.in/) · interactive: India's Moon mission pages, with pictures taken by the lander and rover. Search for Chandrayaan-3 on the page.
 - [Time and Date: moonrise, moonset and tides](https://www.timeanddate.com/) · interactive: For the parent: lists moonrise and moonset times by city for the Moonrise Detective test.
-- [Periyar Science and Technology Centre and B. M. Birla Planetarium]() · place · Chennai, Tamil Nadu: A science centre and planetarium with sky shows about the Moon. Check show times before you go.
-- [Jawaharlal Nehru Planetarium]() · place · Bengaluru, Karnataka: A planetarium with shows about the Moon and the sky. Check show times before you go.
+- Periyar Science and Technology Centre and B. M. Birla Planetarium · place · Chennai, Tamil Nadu: A science centre and planetarium with sky shows about the Moon. Check show times before you go.
+- Jawaharlal Nehru Planetarium · place · Bengaluru, Karnataka: A planetarium with shows about the Moon and the sky. Check show times before you go.
 
 ## Things to buy
 - [A small pair of binoculars, 7 times or 10 times](https://www.amazon.in/s?k=binoculars+10x25) (tool): Optional. For watching craters along the line between day and night in the Terminator Log. A cheap toy pair costs about Rs 300 to 600, which is more than most home experiments, so borrow one if you can. The project still works with eyes alone for the line and the dark plains. Used in p1. 
 - [A small bright LED torch](https://www.amazon.in/s?k=led+torch) (tool): For the Dough Moon and the Torch on a Coin. A phone torch also works, but a torch on a stand is easier to hold still. Used in e1, a1. 
 - [A packet of round bindis (5 to 8 millimetres wide)](https://www.amazon.in/s?k=round+bindi+small) (material): For the Bindi Moon. Any round sticker of that size also works. Costs about Rs 10. Used in e3. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in The Bindi Moon: how many Moon-widths away is the Moon?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e3. Get it before The Bindi Moon: how many Moon-widths away is the Moon?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Dough Moon: which light shows the most craters?, Moonrise Detective: how much later does the Moon rise each night?, The Bindi Moon: how many Moon-widths away is the Moon?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, e3, a1, a2. Get it before The Dough Moon: which light shows the most craters?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in The Dough Moon: which light shows the most craters?. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in e1. Get it before The Dough Moon: which light shows the most craters?.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in Moonrise Detective: how much later does the Moon rise each night?, Tide Detective: do the biggest tides come at new and full Moon?. About ₹10 to ₹30. Draw squares on plain paper. Used in e2, a3. Get it before Moonrise Detective: how much later does the Moon rise each night?.
+- [Marbles (a few)](https://www.amazon.in/s?k=glass+marbles+pack) (material): Used in The Dough Moon: which light shows the most craters?. About ₹10 to ₹40. Small round stones or dried chana. Used in e1. Get it before The Dough Moon: which light shows the most craters?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is the terminator on the Moon? → The line between the lit part and the dark part.
@@ -819,7 +825,7 @@ Star, Planet, Moon (sci.sky.L4): Topic-level song
 ## Sources
 - ideas/by_topic/the-universe-sun-moon-stars-and-planets.md: concept row on shadows and the Sun's movement, and the activity of watching the Moon through the month, used in the dough Moon and the Terminator Log
 - ideas/by_topic/the-universe-sun-moon-stars-and-planets.md: SCI Card for Galileo Galilei (his telescope work on the Moon's craters), used in how we found out
-- The Class 3 unit on the Moon and its phases, built on and not repeated: no ball and lamp, chair walk, Moon diary, Moon wheel, festival hunt, earthshine or eclipse model here. This unit adds the terminator, Moon age, tides, size and the lunar day
+- The Class 3 unit on the Moon and its phases, built on and not repeated: no ball and lamp, chair walk, Moon diary, Moon wheel, festival hunt, earthshine or eclipse model here. This lesson adds the terminator, Moon age, tides, size and the lunar day
 - Galileo Galilei, Sidereus Nuncius, Venice, March 1610
 - Grove Karl Gilbert, 'The Moon's Face', Bulletin of the Philosophical Society of Washington, 1893 (impact origin of craters)
 - NASA Moon fact sheet (distance, diameter, albedo about 0.12, day and night temperatures, libration)

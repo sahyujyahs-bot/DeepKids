@@ -782,10 +782,10 @@
       "q": "Why is the water in glass C red, and the cube from glass C pale?",
       "options": [
        "The hot water made new red colour.",
-       "The heat broke the cell skins and the red colour spilled out of the cells.",
-       "The cube soaked up the water and lost its colour."
+       "The cube soaked up the water and lost its colour.",
+       "The heat broke the cell skins and the red colour spilled out of the cells."
       ],
-      "a": 1,
+      "a": 2,
       "why": "The red is stored inside the cells. Heat breaks the fatty skin of the cell and the skin of the vacuole inside her. The red then leaves into the water. If you picked 'The hot water made new red colour', look at the cube from glass C. It lost its red, so the colour moved out of the cube and was not made by the water. Look at the cold glass again: no colour moved there."
      },
      "context": "This step checks the cubes, to see where the red went."
@@ -967,11 +967,11 @@
       "t": "mcq",
       "q": "Why did the soap come before the alcohol?",
       "options": [
-       "Soap makes the alcohol cold.",
        "Soap breaks the cell and nucleus skins, so the DNA comes out into the liquid.",
+       "Soap makes the alcohol cold.",
        "Soap makes DNA white."
       ],
-      "a": 1,
+      "a": 0,
       "why": "The DNA is locked inside nuclei, behind two skins. Soap dissolves the fat of the skins and frees it. If you picked 'Soap makes the alcohol cold', remember that the alcohol was cold because it came from the freezer. Try mixing without soap, and see that little white appears."
      },
      "context": "This is the last step of Banana DNA. You lift the DNA out and say what you found."
@@ -1127,11 +1127,11 @@
       "t": "mcq",
       "q": "Why was the boiled flask a check on the test?",
       "options": [
-       "It showed what the flask does when the seeds are not alive.",
        "It showed that boiled seeds make more heat.",
-       "It made the sprouts grow faster."
+       "It made the sprouts grow faster.",
+       "It showed what the flask does when the seeds are not alive."
       ],
-      "a": 0,
+      "a": 2,
       "why": "Both flasks are the same in everything but one thing. If the living seeds are warmer, the difference comes from being alive. If you picked 'It showed that boiled seeds make more heat', remember that the boiled flask was only there to compare with the sprouting flask."
      },
      "context": "This is the last step of Warm Sprouts. You say what you found and why."
@@ -1238,11 +1238,11 @@
       "t": "mcq",
       "q": "When one letter in a recipe changes, what can happen?",
       "options": [
-       "The whole protein always breaks.",
        "Nothing, or one building block changes, depending on the change.",
+       "The whole protein always breaks.",
        "The cell makes a new kind of grain."
       ],
-      "a": 1,
+      "a": 0,
       "why": "Because several words can mean the same block, some changes make no difference. Other changes swap one block, and that can change the shape and job of the protein. If you picked 'The whole protein always breaks', try the two changes in the Copy Walk again. One of them made no difference to the necklace."
      },
      "context": "This step shows what a single changed letter can do."
@@ -1749,10 +1749,10 @@
      "p": "Beetroot cubes turn the water red in hot water but not in cold water. What is the best explanation?",
      "opts": [
       "Heat makes new red colour",
-      "Heat breaks the cell skins, so the red leaves the cells",
-      "Cold water washes the red away"
+      "Cold water washes the red away",
+      "Heat breaks the cell skins, so the red leaves the cells"
      ],
-     "a": 1,
+     "a": 2,
      "why": "The red is stored inside the cells. A whole skin keeps it in. Heat melts the fatty skin, so the red spills. Cold leaves the skin whole.",
      "outcome": 3
     },
@@ -1852,10 +1852,10 @@
      "p": "Scientists put the nucleus of a frog's gut cell into an egg cell that had no nucleus of her own, and a tadpole grew. What does this show?",
      "opts": [
       "Gut cells are really egg cells",
-      "The gut cell's nucleus still held the whole recipe",
-      "Eggs do not need a nucleus"
+      "Eggs do not need a nucleus",
+      "The gut cell's nucleus still held the whole recipe"
      ],
-     "a": 1,
+     "a": 2,
      "why": "A tadpole needs all the recipes, so the gut cell's nucleus must have held them all. The gut cell used only a few pages. The rest were still there.",
      "outcome": 4
     },
@@ -2040,11 +2040,11 @@
    "t": "mcq",
    "p": "Which room of a cell keeps the DNA?",
    "opts": [
-    "The mitochondrion",
     "The nucleus",
+    "The mitochondrion",
     "The lysosome"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The nucleus keeps the DNA. Mitochondria release energy and lysosomes digest old parts.",
    "outcome": 0
   },
@@ -2052,11 +2052,11 @@
    "t": "mcq",
    "p": "Why do you breathe harder when you run?",
    "opts": [
-    "Your cells need more oxygen to release more energy",
     "Your lungs get smaller",
-    "Your blood turns blue"
+    "Your blood turns blue",
+    "Your cells need more oxygen to release more energy"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Your mitochondria use oxygen to release energy for your muscles. More work needs more oxygen, so you breathe harder.",
    "outcome": 2
   },
@@ -2071,11 +2071,11 @@
    "t": "mcq",
    "p": "In what order does a cell make a protein?",
    "opts": [
-    "Copy the gene, carry the copy, build the protein",
     "Build the protein, copy the gene, carry the copy",
+    "Copy the gene, carry the copy, build the protein",
     "Carry the book, build the protein, copy the gene"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The nucleus keeps the book and sends out a copy. The copy goes to a ribosome, which builds the protein.",
    "outcome": 1
   },
@@ -2083,11 +2083,11 @@
    "t": "mcq",
    "p": "Beetroot cubes stay pale in cold water and spill red in hot water. What does this show?",
    "opts": [
-    "Whole cell skins hold the red in, and heat breaks them",
     "Beetroot makes red in hot water",
-    "Cold water has no effect on anything"
+    "Cold water has no effect on anything",
+    "Whole cell skins hold the red in, and heat breaks them"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The red is stored inside whole cells. Heat melts the fat of the skins, so the red leaves. In cold water the skins stay whole.",
    "outcome": 3
   },
@@ -2104,11 +2104,11 @@
    "t": "mcq",
    "p": "Which fact shows that the nucleus is not the only part in charge of a cell?",
    "opts": [
-    "A red blood cell lives for months with no nucleus",
     "Nuclei are round",
+    "A red blood cell lives for months with no nucleus",
     "Plant cells are bigger than animal cells"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A red blood cell works for months without a nucleus. The nucleus keeps the recipes, but the whole cell does the work.",
    "outcome": 4
   },
@@ -2123,11 +2123,11 @@
    "t": "mcq",
    "p": "What does the city picture of a cell leave out?",
    "opts": [
-    "That a cell is always moving and has no single boss",
     "That a cell has rooms",
-    "That a cell has a skin"
+    "That a cell has a skin",
+    "That a cell is always moving and has no single boss"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A city picture shows rooms with jobs, which is useful. It leaves out the constant motion and the lack of any single ruler.",
    "outcome": 6
   },
@@ -2135,11 +2135,11 @@
    "t": "mcq",
    "p": "Which room digests old parts and swallowed germs?",
    "opts": [
-    "The lysosome",
     "The ribosome",
-    "The chloroplast"
+    "The chloroplast",
+    "The lysosome"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Lysosomes are small bags of strong juice. Ribosomes build proteins and chloroplasts catch light.",
    "outcome": 0
   },
@@ -2147,11 +2147,11 @@
    "t": "mcq",
    "p": "Which of these is still an open question?",
    "opts": [
-    "How the first cell with a nucleus and mitochondria began",
     "Whether cells have a skin",
+    "How the first cell with a nucleus and mitochondria began",
     "Whether mitochondria use oxygen"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Scientists agree that cells have skins and that mitochondria use oxygen. How the first complex cell began is still argued.",
    "outcome": 7
   },
@@ -2159,11 +2159,11 @@
    "t": "mcq",
    "p": "Muscle cells and skin cells hold the same DNA. Why are they different?",
    "opts": [
-    "They switch on different genes",
     "Their DNA is different",
+    "They switch on different genes",
     "Muscle cells have no nucleus"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Each cell uses the recipes she needs. Gurdon's frog experiment showed that a grown-up cell still holds the whole book.",
    "outcome": 4
   }
@@ -2444,6 +2444,87 @@
     "a1",
     "p1"
    ]
+  },
+  {
+   "id": "b-a-small-funnel",
+   "item": "A small funnel",
+   "kind": "tool",
+   "why": "Used in Banana DNA: can you pull the recipe book out of a cell?. About ₹20 to ₹50. The top of a cut plastic bottle works.",
+   "url": "https://www.amazon.in/s?k=small+plastic+funnel",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before Banana DNA: can you pull the recipe book out of a cell?."
+  },
+  {
+   "id": "b-modelling-clay-or-plasticine",
+   "item": "Modelling clay or plasticine",
+   "kind": "material",
+   "why": "Used in Cell City on a Tray: build the rooms and walk a protein through. About ₹40 to ₹120. Atta dough mixed with a little salt works.",
+   "url": "https://www.amazon.in/s?k=modelling+clay+plasticine",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before Cell City on a Tray: build the rooms and walk a protein through."
+  },
+  {
+   "id": "b-food-colour",
+   "item": "Food colour",
+   "kind": "material",
+   "why": "Used in Cell City on a Tray: build the rooms and walk a protein through. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it.",
+   "url": "https://www.amazon.in/s?k=food+colour+liquid",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before Cell City on a Tray: build the rooms and walk a protein through."
+  },
+  {
+   "id": "b-sticky-notes",
+   "item": "Sticky notes",
+   "kind": "material",
+   "why": "Used in The Copy Walk: from recipe book to bead necklace. About ₹20 to ₹60. Small torn paper and tape do the same job.",
+   "url": "https://www.amazon.in/s?k=sticky+notes+pack",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Get it before The Copy Walk: from recipe book to bead necklace."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Warm Sprouts: do living seeds make heat?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "e3"
+   ],
+   "plan": "Get it before Warm Sprouts: do living seeds make heat?."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in Warm Sprouts: do living seeds make heat?, The Copy Walk: from recipe book to bead necklace, Cell City on a Tray: build the rooms and walk a protein through. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "e3",
+    "a1",
+    "p1"
+   ],
+   "plan": "Get it before Warm Sprouts: do living seeds make heat?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

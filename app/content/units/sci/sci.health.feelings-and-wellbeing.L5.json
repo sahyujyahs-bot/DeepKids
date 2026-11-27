@@ -634,11 +634,11 @@
       "t": "mcq",
       "q": "Which situation should a child always tell a trusted grown-up about?",
       "options": [
-       "Someone is being hurt or threatened",
        "Someone dropped a wrapper",
-       "A friend won a game"
+       "A friend won a game",
+       "Someone is being hurt or threatened"
       ],
-      "a": 0,
+      "a": 2,
       "why": "When someone is being hurt, threatened or asked to keep a frightening secret, a child cannot fix it alone, so a grown-up must know. If you chose the wrapper, that is something you can put right yourself."
      },
      "parent": "Make sure your child names at least two trusted grown-ups, and knows they can tell either one about anything that feels too big.",
@@ -1110,11 +1110,11 @@
       "t": "mcq",
       "q": "In the Smile Count, why must the plain face be calm and not cross?",
       "options": [
-       "So only the smile is different",
        "So people feel braver",
-       "So the tally is shorter"
+       "So the tally is shorter",
+       "So only the smile is different"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A cross face could also change what people do. Then we would not know if the smile or the cross face made the difference. If you chose another answer, remember to change one thing only."
      },
      "parent": "Use the local greeting, such as 'good morning', 'vanakkam', 'namaste' or 'salaam'. Say it in an ordinary voice. Some people look at phones and do not see the child. Count them as people greeted only if they looked at the child.",
@@ -1277,11 +1277,11 @@
       "t": "mcq",
       "q": "In the Doorway Test, which part of a door do you measure?",
       "options": [
-       "The narrowest gap with the door open",
        "The width of the door itself",
+       "The narrowest gap with the door open",
        "The height of the door"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A wheelchair must pass the narrowest point. The open door and its handle often take up some of the width. If you chose the width of the door, remember that the door itself can stand in the way."
      },
      "parent": "The clear width is smaller than the door leaf, because the open door and its handle stand in the way. Measure the gap between the frame and the open door. Narrow doors are common in older bathrooms.",
@@ -1404,11 +1404,11 @@
       "t": "mcq",
       "q": "Which part of a place most decides whether it is a happy one?",
       "options": [
-       "How the people in it treat each other",
        "How new the building is",
+       "How the people in it treat each other",
        "How big the building is"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A plain place with kind people is usually a happier place than a fine place with unkind people. If you chose the building, think about the places on your list again."
      },
      "context": "This is the last step of Three Good Places. You think about whether the people or the building matter more."
@@ -1557,11 +1557,11 @@
       "t": "mcq",
       "q": "In Lost for Words, why does saying it louder not help?",
       "options": [
-       "The words are the same, and still not understood",
        "Loud voices are hard to hear",
-       "The listener is angry"
+       "The listener is angry",
+       "The words are the same, and still not understood"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The loudness is not the problem. The listener does not know the words. Pointing and showing add something the listener can understand. If you chose another answer, think about what changed in each try."
      },
      "parent": "The result is almost always the same. Louder does not help. Pointing helps a little. Showing works best. Swap roles after the first round, so your child gives an instruction in made-up sounds to you. Many children enjoy this.",
@@ -1729,11 +1729,11 @@
       "t": "mcq",
       "q": "Which question is not right to ask a person who has just agreed to talk?",
       "options": [
-       "How much money do you earn?",
        "What time does your day start?",
-       "What would make your day easier?"
+       "What would make your day easier?",
+       "How much money do you earn?"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A person's pay is private, and asking can embarrass them. The other two ask about their work and what would help. If you chose another one, think about which questions the person could answer comfortably."
      },
      "parent": "Let the person say as much or as little as they like. Say thank you, and use their name. If they say what would make the day easier, listen and do not promise anything you cannot do.",
@@ -1962,11 +1962,11 @@
       "t": "mcq",
       "q": "A 12 cm ramp rises 1.5 cm. How many cm of length for each 1 cm of rise?",
       "options": [
-       "8, which is too steep",
        "12, which is just right",
+       "8, which is too steep",
        "18, which is too long"
       ],
-      "a": 0,
+      "a": 1,
       "why": "12 divided by 1.5 is 8. The guide asks for at least 12 for each 1 cm of rise, so this ramp is too steep. If you chose 12, divide the length by the rise to check."
      },
      "parent": "12 ÷ 1.5 = 8. The guide asks for 12 or more. A toy car rolled down this ramp picks up speed quickly. Let your child feel that this ramp is too steep.",
@@ -2113,12 +2113,12 @@
      "t": "mcq",
      "p": "Which three things make a place a happy one?",
      "opts": [
-      "Safety, belonging and care for the place",
       "New paint, big rooms and loud music",
       "Rules, bells and silence",
-      "Prizes, uniforms and tall walls"
+      "Prizes, uniforms and tall walls",
+      "Safety, belonging and care for the place"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A happy place is one where people are safe, everyone belongs, and the place is cared for. Paint, size and prizes can help, but they do not make a place happy on their own.",
      "outcome": 0
     },
@@ -2167,12 +2167,12 @@
      "t": "mcq",
      "p": "People copy what they see others do in a place. What is 'what most people here do' called?",
      "opts": [
-      "A social norm",
       "A stress response",
+      "A social norm",
       "A barrier",
       "A charter"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A social norm is what most people in a place do, or think they should do. A stress response is the body getting ready for action. A barrier stops people, and a charter is a list of agreed rules.",
      "outcome": 1
     },
@@ -2224,12 +2224,12 @@
      "t": "mcq",
      "p": "What does the stress response do to the body?",
      "opts": [
-      "Speeds the heart and tightens the muscles",
       "Slows the heart and loosens the muscles",
       "Stops all breathing",
+      "Speeds the heart and tightens the muscles",
       "Makes the body colder only"
      ],
-     "a": 0,
+     "a": 2,
      "why": "When something seems urgent or unsafe, the body gets ready for action. Adrenaline speeds the heart, breathing quickens and the muscles tighten.",
      "outcome": 2
     },
@@ -2312,12 +2312,12 @@
      "t": "mcq",
      "p": "A friend says someone is hurting her, and asks you to keep it secret. What should you do?",
      "opts": [
-      "Tell a trusted grown-up",
       "Keep the secret",
       "Tell the whole class",
-      "Wait for a year"
+      "Wait for a year",
+      "Tell a trusted grown-up"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A secret about someone being hurt is too big for a child to carry. A trusted grown-up can get help. Telling is how your friend gets help.",
      "outcome": 5
     }
@@ -2333,12 +2333,12 @@
      "t": "mcq",
      "p": "Riders dropped more paper beside scribbled walls than beside clean walls. What does this show?",
      "opts": [
-      "People copy what they see others do",
       "Scribbles make people hungry",
       "Riders cannot read",
+      "People copy what they see others do",
       "Clean walls are slippery"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A scribbled wall says that people here break rules, so more riders dropped paper. Nobody told them anything. The place gave the message.",
      "outcome": 1
     },
@@ -2346,12 +2346,12 @@
      "t": "mcq",
      "p": "Which is the kindest and safest first action when you see someone being teased?",
      "opts": [
-      "Say 'Stop, that is not funny' calmly",
       "Join in so you are not next",
+      "Say 'Stop, that is not funny' calmly",
       "Shout and push the teaser",
       "Walk away and say nothing"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A calm, short sentence can stop teasing without anyone being hurt. Joining in or pushing adds to the harm, and saying nothing gives the teaser an audience.",
      "outcome": 5
     },
@@ -2554,12 +2554,12 @@
      "t": "mcq",
      "p": "A test finds that hurried hands miss more. How could you show that the words, not only the speed, caused it?",
      "opts": [
-      "Hurry yourself with no words, then compare",
       "Use a bigger bottle",
       "Test one run only",
+      "Hurry yourself with no words, then compare",
       "Use fewer chana"
      ],
-     "a": 0,
+     "a": 2,
      "why": "If the hand also misses more when it hurries itself in silence, the speed alone matters. If it misses more only with the hurry words, the words matter. Changing the bottle, the run count or the chana would not separate these.",
      "outcome": 2
     },
@@ -2567,12 +2567,12 @@
      "t": "mcq",
      "p": "A park sign says 'Most visitors take wood.' Which sign would work better?",
      "opts": [
-      "Please leave the wood where it is",
       "Thieves will be caught",
       "Many visitors take wood",
-      "Wood is very valuable"
+      "Wood is very valuable",
+      "Please leave the wood where it is"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A sign that says many people break a rule makes breaking it look normal. A simple, friendly request that shows the right action worked better in tests.",
      "outcome": 6
     },
@@ -2580,12 +2580,12 @@
      "t": "mcq",
      "p": "Cameras filmed real street quarrels, and someone helped in most. What does this suggest about crowds?",
      "opts": [
-      "Crowds do not always stop people helping",
       "Crowds always help",
+      "Crowds do not always stop people helping",
       "Cameras scare helpers",
       "Quarrels are rare"
      ],
-     "a": 0,
+     "a": 1,
      "why": "An old idea says that nobody helps when many are watching. Real films suggest that in most quarrels someone steps in. Scientists still argue about how well the old idea fits real life.",
      "outcome": 5
     },
@@ -2733,12 +2733,12 @@
    "t": "mcq",
    "p": "Which place is most likely to be a happy one?",
    "opts": [
-    "A plain room where people greet and help each other",
     "A grand hall where people ignore each other",
     "A new building where older children push",
-    "A big field with no rules"
+    "A big field with no rules",
+    "A plain room where people greet and help each other"
    ],
-   "a": 0,
+   "a": 3,
    "why": "A happy place is made mostly by how the people in it treat each other. A plain room with kind people is happier than a fine one with unkind people.",
    "outcome": 0
   },
@@ -2746,12 +2746,12 @@
    "t": "mcq",
    "p": "One child starts to giggle and the whole row soon giggles. What is happening?",
    "opts": [
-    "A feeling is spreading from person to person",
     "The row is learning a rule",
+    "A feeling is spreading from person to person",
     "Everyone is tired",
     "The teacher is cross"
    ],
-   "a": 0,
+   "a": 1,
    "why": "This is emotional contagion. A feeling spreads through faces and voices, mostly without anyone choosing it.",
    "outcome": 1
   },
@@ -2759,12 +2759,12 @@
    "t": "mcq",
    "p": "Which substance enters the blood when the body gets ready for urgent action?",
    "opts": [
-    "Adrenaline",
     "Insulin",
     "Calcium",
+    "Adrenaline",
     "Chlorophyll"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The two small adrenal glands above the kidneys release adrenaline. It speeds the heart within seconds.",
    "outcome": 2
   },
@@ -2772,12 +2772,12 @@
    "t": "mcq",
    "p": "Why does a fair test take turns between two kinds of run?",
    "opts": [
-    "So practice does not fool the result",
     "So nobody gets bored",
     "So the helper can rest",
+    "So practice does not fool the result",
     "So the numbers are bigger"
    ],
-   "a": 0,
+   "a": 2,
    "why": "If one kind came first, practice would help the later kind and the result would be unfair. Taking turns spreads the practice evenly.",
    "outcome": 2
   },
@@ -2811,12 +2811,12 @@
    "t": "mcq",
    "p": "A bigger child pushes a smaller child and says 'Tell anyone and you are next.' What is the best action?",
    "opts": [
-    "Tell a trusted grown-up at once",
     "Push the bigger child",
+    "Tell a trusted grown-up at once",
     "Laugh and walk away",
     "Keep it secret"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Someone is being hurt and threatened. A child should not step in alone. A trusted grown-up can make it stop.",
    "outcome": 5
   },
@@ -2837,12 +2837,12 @@
    "t": "mcq",
    "p": "Which of these can help a big feeling settle?",
    "opts": [
-    "Breathing out slowly, longer than breathing in",
     "Holding your breath",
+    "Breathing out slowly, longer than breathing in",
     "Keeping the feeling secret",
     "Shouting at someone"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A slow, long out-breath slows the heart a little. Naming the feeling, moving and talking to someone you trust also help.",
    "outcome": 7
   },
@@ -2857,12 +2857,12 @@
    "t": "mcq",
    "p": "When do people feel they belong in a place?",
    "opts": [
-    "Everyone is greeted and gets a turn",
     "Only the best get a turn",
     "New children wait outside",
-    "Rules are never explained"
+    "Rules are never explained",
+    "Everyone is greeted and gets a turn"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Belonging means that everyone is greeted, can take part and gets a turn. It is one of the four things that make a place happy.",
    "outcome": 0
   }
@@ -3135,6 +3135,76 @@
     "a5"
    ],
    "plan": "After Know Their Name, read one short chapter a day. Ask whose point of view each chapter is told from, and what that person sees that the others miss."
+  },
+  {
+   "id": "b-paper-masking-tape",
+   "item": "Paper masking tape",
+   "kind": "material",
+   "why": "Used in The Doorway Test: which doors and switches in your home fit a wheelchair?. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor.",
+   "url": "https://www.amazon.in/s?k=paper+masking+tape",
+   "used_in": [
+    "e3"
+   ],
+   "plan": "Get it before The Doorway Test: which doors and switches in your home fit a wheelchair?."
+  },
+  {
+   "id": "b-sticky-notes",
+   "item": "Sticky notes",
+   "kind": "material",
+   "why": "Used in The Doorway Test: which doors and switches in your home fit a wheelchair?. About ₹20 to ₹60. Small torn paper and tape do the same job.",
+   "url": "https://www.amazon.in/s?k=sticky+notes+pack",
+   "used_in": [
+    "e3"
+   ],
+   "plan": "Get it before The Doorway Test: which doors and switches in your home fit a wheelchair?."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Our Charter: five rules for a place we share, and a week to try them. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before Our Charter: five rules for a place we share, and a week to try them."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in The Hurry Test: does another person's hurrying change where your chana land?. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before The Hurry Test: does another person's hurrying change where your chana land?."
+  },
+  {
+   "id": "b-a-small-toy-car-with-free-ro",
+   "item": "A small toy car with free-rolling wheels",
+   "kind": "material",
+   "why": "Used in The Ramp That Fits: a 15 cm step and only 120 cm of ground in front. About ₹100 to ₹200. A marble or a round torch cell works.",
+   "url": "https://www.amazon.in/s?k=toy+car+pull+back+small",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before The Ramp That Fits: a 15 cm step and only 120 cm of ground in front."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [
@@ -3398,7 +3468,10 @@
     "source": "Thirukkural 322, by Thiruvalluvar",
     "teaching": "Share your food and look after all living beings. The wise count this as the first of all duties.",
     "link": "A place where people share and care for each other and for the place is a happy place. The unit shows how such habits pass from person to person, as a line at a tap passes from three people to many.",
-    "verse": ["பகுத்துண்டு பல்லுயிர் ஓம்புதல் நூலோர்", "தொகுத்தவற்றுள் எல்லாந் தலை."],
+    "verse": [
+     "பகுத்துண்டு பல்லுயிர் ஓம்புதல் நூலோர்",
+     "தொகுத்தவற்றுள் எல்லாந் தலை."
+    ],
     "verse_lang": "ta"
    }
   ],

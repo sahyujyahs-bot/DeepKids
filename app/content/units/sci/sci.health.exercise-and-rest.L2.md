@@ -1,9 +1,9 @@
 # Exercise and rest: why moving makes you breathe hard, and why your body needs sleep
 `sci.health.exercise-and-rest.L2`
 
-**Summary.** Why do you breathe so fast after dancing? In this unit you will count your breaths before and after dancing and time how long they take to slow down, compare three kinds of exercise, move like a crab, frog and cat, and put your bedtime steps in order.
+**Summary.** Why do you breathe so fast after dancing? In this lesson you will count your breaths before and after dancing and time how long they take to slow down, compare three kinds of exercise, move like a crab, frog and cat, and put your bedtime steps in order.
 
-**Intro.** *Sit very still and put one hand on your tummy. Feel it go out and in. That is you breathing. What do you think will happen to your breathing if you dance as fast as you can for one minute?* You breathe all day and all night, even when you are not thinking about it. Each breath brings air into your lungs, and part of that air is oxygen. Your muscles use oxygen when they work. In this unit you will count your breaths to find out what dancing does to them.
+**Intro.** *Sit very still and put one hand on your tummy. Feel it go out and in. That is you breathing. What do you think will happen to your breathing if you dance as fast as you can for one minute?* You breathe all day and all night, even when you are not thinking about it. Each breath brings air into your lungs, and part of that air is oxygen. Your muscles use oxygen when they work. In this lesson you will count your breaths to find out what dancing does to them.
 
 ## Learning outcomes
 0. By the end I can count my breaths, and say that I breathe faster and deeper after fast exercise.
@@ -23,6 +23,7 @@
 - **Rest**: Stopping hard work so that your body can recover. Sitting quietly, lying down and sleeping are all kinds of rest. *e.g.* After a game of kabaddi, the players sit down and drink water.
 - **Sleep**: The long rest your body takes every day, usually at night. Your eyes close and you stop noticing most things around you. Your body and brain are still busy. *e.g.* A child of 7 who goes to bed at 9 at night and wakes at 7 in the morning sleeps for 10 hours.
 - **Recover**: To get back to how you were before. After exercise, your breathing and heartbeat recover and slow down again. *e.g.* In the Puff Count, your breathing takes a few minutes to recover after the fast dance.
+- **Asana**: A yoga pose. You hold your body in a shape, slowly and steadily, to stretch, balance and feel calm. *e.g.* In tree pose (vrikshasana) you stand on one leg and keep still, like a tree.
 
 ## Explanations
 ### Why you breathe faster when you move · *defined*
@@ -48,6 +49,13 @@ When you use a muscle again and again, over weeks it gets stronger. Your heart i
 - e.g. Climbing the stairs instead of taking the lift.
 - e.g. Dancing to a song for ten minutes before dinner.
 - e.g. Swimming in a pool or a tank, with a grown-up.
+- e.g. Playing kho-kho or kabaddi with friends on the school ground, or gilli-danda in the lane.
+### Asanas, and play as a healthy habit · *defined*
+**Definition:** An asana is a yoga pose that you hold slowly and steadily. Play is moving and laughing with friends for the joy of it.
+
+Not all exercise makes you puff. Asanas are slow poses that people in India have practised for a very long time. Standing tall like a mountain (tadasana) stretches your whole body. Standing on one leg like a tree (vrikshasana) trains your balance and the muscles of your legs. Play is a healthy habit of its own. When you play outside with friends, you move without noticing, you laugh, and you learn to take turns. That makes you feel cheerful, and it helps you sleep well at night.
+- e.g. Tree pose: stand on one leg, rest the sole of the other foot on your calf, and put your palms together above your head like leaves.
+- e.g. Playing gilli-danda or kho-kho in the lane with friends until the street lights come on.
 ### Where muscles get their energy · *defined*
 **Definition:** Muscles get their energy from food. They use oxygen to release the energy stored in food.
 
@@ -323,6 +331,12 @@ Then they both laughed so much that they could not count anything.
   *Child mode:* Put a hand on your tummy and feel your breathing. Think back over all four moves.
   - Ask: Which made you puff most? (good: The frog jumps, because I jumped with my whole body.; The crab walk made my arms tired.)
   - Think: Working muscles use oxygen. A frog's muscles work hard when she jumps. What would you expect a frog to do with her breathing after many jumps?
+- **s5 (4 min)**  
+  *Parent does:* 1. Show your child the mountain: stand with feet together and arms by the sides, then stretch the arms up and breathe slowly three times. 2. Show the tree: stand on one leg. Rest the sole of the other foot on the calf or inner thigh, never on the knee. 3. Put the palms together above the head and hold for five slow breaths. Then swap legs. A wall nearby can help with balance.  
+  *Parent says:* Stand tall like a mountain. Now be a tree in the wind. Stand on one leg and keep very still.  
+  *Child mode:* Hold the tree for five slow breaths. Then swap legs. Notice if your breathing is fast or slow now.
+  - Ask: Did the asanas make you puff like the frog jumps did? (good: No, my breathing stayed slow.; No, but my leg worked hard to hold me up.)
+  - Note: It is fine to wobble. Balance grows with practice, and the other leg is often harder.
 ### a2 · My Bedtime Steps: put what you do before bed in order (12 min)
 - **record:** Stick your bedtime cards in order on a sheet of paper. Put a star on the steps that help you feel sleepy.
 - **s1 (5 min)**  
@@ -422,9 +436,9 @@ Then they both laughed so much that they could not count anything.
   - Note: Moves that use big muscles for longer, such as lifting the knees or raising both arms, are the most likely to make breathing faster. This links back to the Puff Count, where working muscles used more oxygen. If no move made them puff, that is a fair result for gentle chair moves.
 
 ## Worksheets
-### Move and Rest (core) (core, 10 questions)
+### Move and Rest (core) (core, 11 questions)
 1. (mcq) In the puff count test, when did you take the most breaths?  
-   Options: Sitting still, before the dance / Right after the dance / After 5 minutes of rest  
+   Options: Right after the dance / Sitting still, before the dance / After 5 minutes of rest  
    **Answer:** Right after the dance. *Why:* Right after the dance your muscles had been working hard and using up oxygen, so you breathed fastest. Picking 'after 5 minutes of rest' may mean the counts were mixed up: by then most children are back near their first count.
 2. (fill) Your muscles need a gas from the air called ________.  
    **Answer:** ['oxygen']. *Why:* Oxygen comes in with every breath. Your blood carries it to your muscles.
@@ -444,7 +458,9 @@ Then they both laughed so much that they could not count anything.
    **Answer:** ['the two shapes in the chest: lungs', 'the fist-sized shape between them: heart', 'the top of the leg: leg muscle']. *Why:* The lungs take in the air. The heart pumps the blood. The leg muscle uses the oxygen to move.
 10. (perspective) Two children talk about after school. The first child is 6. The second child is his sister, aged 9.  
    **Answer:** A strong answer might agree with the second child, because sitting all day gives the muscles little work and play helps you sleep well. It also says the first child is right that his body may need some rest.. *Why:* Both are partly right. A body needs both moving and resting. Which comes first can depend on how the day went.
-### Breath and Sleep (stretch) (stretch, 10 questions)
+11. (fill) Kho-kho, kabaddi and gilli-danda are outdoor ________. Playing them is good for your body.  
+   **Answer:** ['games', 'play']. *Why:* Outdoor games and play make you move and laugh with friends. They are a healthy habit, next to food, rest and exercise.
+### Breath and Sleep (stretch) (stretch, 11 questions)
 1. (order) Put the steps of the puff count test in order.  
    **Answer:** order shown. *Why:* We count sitting still first, so we know what normal breathing is. Then we can compare.
 2. (mcq) In the three moves test, which move made breathing fastest?  
@@ -467,13 +483,15 @@ Then they both laughed so much that they could not count anything.
    **Answer:** ['mends', 'repairs', 'heals']. *Why:* In sleep the body grows and mends. A strong answer uses a word like mends, repairs or heals.
 10. (perspective) The first child's family is going to a cousin's wedding. It ends late at night, and there is school the next day.  
    **Answer:** A strong answer uses a fact about sleep: a child needs 9 to 12 hours, and too little sleep makes it hard to learn. It also sees the other side: a family wedding matters too.. *Why:* There is no single right answer. Each person cares about something real: joy, sleep, or school.
+11. (order) Put the steps of the tree pose in order.  
+   **Answer:** order shown. *Why:* You start on two steady feet, then lift one. Holding still is what trains balance, and swapping legs trains both sides.
 ### Body Detective (challenge) (challenge, 10 questions)
 1. (write) A child counted 12 breaths sitting still and only 13 after dancing. What might have gone wrong in the test? You can say it out loud and a grown-up can write it down.  
    **Answer:** The child may have waited too long before counting, or danced slowly, or counted the wrong way.. *Why:* A strong answer finds a reason in how the test was done: the count must start straight after a fast dance, and last exactly half a minute.
 2. (perspective) Two friends are arguing about stretching.  
    **Answer:** A strong answer says stretching makes muscles work and keeps the body bendy, so it is a kind of exercise, even though it makes you breathe less than star jumps. The first child is right that it is much gentler on the heart and lungs.. *Why:* Different exercise does different jobs. Fast moves work the heart and lungs. Stretching keeps muscles long and bendy.
 3. (mcq) You walk up the stairs every day for a month. At the end of the month, what will most likely happen?  
-   Options: You puff more on the stairs than before / You puff less, and recover faster / Nothing changes  
+   Options: You puff less, and recover faster / You puff more on the stairs than before / Nothing changes  
    **Answer:** You puff less, and recover faster. *Why:* Regular exercise makes the heart, lungs and muscles stronger, so the same stairs feel easier. Picking 'you puff more' mixes up being tired after one climb with getting fitter over weeks.
 4. (write) A dolphin must come up to the surface to breathe air. How can she sleep without drowning? You can say it out loud and a grown-up can write it down.  
    **Answer:** She sleeps with half of her brain at a time, so the other half keeps her swimming and breathing.. *Why:* A strong answer says the dolphin never lets her whole brain sleep at once.
@@ -498,7 +516,7 @@ Then they both laughed so much that they could not count anything.
 
 ## Quiz
 1. (mcq) What happens to your breathing when you dance fast?  
-   Options: It gets slower / It gets faster and deeper / It stops for a moment  
+   Options: It gets slower / It stops for a moment / It gets faster and deeper  
    **Answer:** It gets faster and deeper. *Why:* Dancing makes your muscles work hard, so you breathe faster and take bigger breaths.
 2. (mcq) Why do you breathe faster when you exercise?  
    Options: Your muscles need more oxygen / Your nose gets hot / The air in the room gets thinner  
@@ -507,10 +525,10 @@ Then they both laughed so much that they could not count anything.
    Options: No time at all / A few minutes / A whole day  
    **Answer:** A few minutes. *Why:* Breathing slows down a little each minute. For many children it is back to normal within a few minutes.
 4. (mcq) Which of these is exercise?  
-   Options: Reading a comic / Skipping with a rope / Sleeping  
+   Options: Reading a comic / Sleeping / Skipping with a rope  
    **Answer:** Skipping with a rope. *Why:* Skipping makes your muscles work hard. Reading and sleeping are rest.
 5. (mcq) What does regular exercise make stronger?  
-   Options: Only your legs / Your muscles, heart and bones / Only your hair  
+   Options: Your muscles, heart and bones / Only your legs / Only your hair  
    **Answer:** Your muscles, heart and bones. *Why:* Exercise makes the muscles you use stronger. It also makes your heart, which is a muscle, and your bones stronger.
 6. (mcq) How much sleep does a child of 7 need each night?  
    Options: About 5 hours / About 9 to 12 hours / About 20 hours  
@@ -522,14 +540,20 @@ Then they both laughed so much that they could not count anything.
    Options: Keeping clean / Eating good food / Staying up very late  
    **Answer:** Staying up very late. *Why:* The four ways are exercise, rest and sleep, good food, and keeping clean. Staying up late takes away sleep.
 9. (mcq) Why do we wash after a sweaty game?  
-   Options: To wash off sweat, dirt and germs / To make our muscles bigger / To make us breathe faster  
+   Options: To make our muscles bigger / To wash off sweat, dirt and germs / To make us breathe faster  
    **Answer:** To wash off sweat, dirt and germs. *Why:* Washing takes away sweat, dirt and germs, so the skin stays healthy.
 10. (mcq) In the puff count test, why did you count your breaths sitting still first?  
-   Options: To know your normal breathing, so you could compare / To get tired before dancing / Because it was the easiest count  
+   Options: To get tired before dancing / Because it was the easiest count / To know your normal breathing, so you could compare  
    **Answer:** To know your normal breathing, so you could compare. *Why:* The first count shows your normal breathing. Without it, you could not tell how much the dance changed it.
 11. (mcq) Where do your muscles get their energy from?  
    Options: From the food you eat / From your hair / From the TV  
    **Answer:** From the food you eat. *Why:* The energy is in food. Oxygen helps your muscles release it.
+12. (mcq) You stand on one leg like a tree (vrikshasana) and hold still for five breaths. What does this exercise train?  
+   Options: How fast you can run / Your balance and the muscles of your legs / How loudly you can breathe  
+   **Answer:** Your balance and the muscles of your legs. *Why:* The tree pose is slow and steady. It trains balance and the leg muscles that hold you up. You do not need to puff for it to be exercise.
+13. (mcq) Seema plays kho-kho with her friends every evening. Why is play good for her?  
+   Options: It moves her body and makes her feel cheerful / It uses up her sleep / It is only good for winning  
+   **Answer:** It moves her body and makes her feel cheerful. *Why:* Play is exercise you enjoy, and it helps you feel cheerful and sleep well. Winning is not the point of a healthy habit.
 
 ## Applications
 - Doctors count a child's breaths in one minute to check if they are ill. Fast breathing at rest can be a sign of a chest infection.
@@ -540,7 +564,7 @@ Then they both laughed so much that they could not count anything.
 ## Spotted around us
 - Children puffing and laughing after a game of kho-kho or lagori in a school ground.
 - A street dog panting in the shade on a hot afternoon. Dogs pant to cool down, and also after running.
-- Morning walkers at a beach or a park, like the Marina in Chennai, walking fast and swinging their arms.
+- Morning walkers at a beach or a park, walking fast and swinging their arms.
 - In many towns, a whole family asleep on mats on a terrace on a hot summer night.
 
 ## Open questions
@@ -582,9 +606,11 @@ Move, Puff and Rest (sci.health.L2): Topic-level song for Health and well-being 
 - [KidsHealth: Why Exercise Is Cool](https://kidshealth.org/en/kids/exercise.html) · interactive: A clear page for children about what exercise does for the heart, muscles and mood.
 - [KidsHealth: Sleep](https://kidshealth.org/en/kids/sleep.html) · interactive: A simple page for children about why we sleep and how to sleep well.
 - [World Health Organization: Physical activity](https://www.who.int/news-room/fact-sheets/detail/physical-activity) · interactive: For the parent: how much activity children and grown-ups need each day.
-- [A government sports stadium or swimming pool near you]() · place · Your town or city: Many cities have a public stadium or pool with low-cost children's classes. Watch the runners or swimmers and see how they breathe after a race.
+- A government sports stadium or swimming pool near you · place · Your town or city: Many cities have a public stadium or pool with low-cost children's classes. Watch the runners or swimmers and see how they breathe after a race.
 
 ## Things to buy
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Do Plants Rest at Night? A rajma leaf watch. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in p1. Get it before Do Plants Rest at Night? A rajma leaf watch.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Do you breathe faster or slower after dancing? → Faster, and deeper.
@@ -603,7 +629,7 @@ Move, Puff and Rest (sci.health.L2): Topic-level song for Health and well-being 
 ## Sources
 - ideas/by_topic/health-hygiene-exercise-and-illness.md: read for this topic. Its yoga week and breath-holding challenge were not used: yoga is in the Class 3 unit, and holding the breath as a contest is not a safe test for a child of 7. The SCI Card for Yellapragada Subbarow is used in the card on where muscles get their energy.
 - Cambridge Primary Science Stage 2, Unit 4.4 'Keeping healthy' (exercise is using muscles to move, the heart is a muscle, exercise makes us sweat and breathe faster, keep clean after exercise; diet and germs). The puff count here keeps the book's 'before and after exercise' idea but adds a minute-by-minute recovery count, so the child finds out something they don't know beforehand.
-- Ladder: sci.health.exercise-and-rest.L3 (the peg test, the arm up and down test, the heavy bottle, three yoga poses and bee breath, the sleep diary, Aserinsky and REM sleep, Gita 6.16-17, Patanjali 2.46, Mandukya Upanishad). This unit repeats none of those experiments, stories, teachings or its deep truth. It leads on to L3: here the child sees that moving changes breathing and that the body recovers in rest; L3 then asks what a tired muscle has used up and what rest gives back. Also read: sci.body.heart-blood-breath.L3 (pulse after jumping), sci.body.keeping-balance.L3 (cheeks turning red after jumping), sci.body.growing.L2 (height at bedtime and morning), sci.health.hygiene.L1, sci.food.healthy-food.L1 and sci.health.feelings-and-wellbeing.L1, so as not to repeat them.
+- Ladder: sci.health.exercise-and-rest.L3 (the peg test, the arm up and down test, the heavy bottle, three yoga poses and bee breath, the sleep diary, Aserinsky and REM sleep, Gita 6.16-17, Patanjali 2.46, Mandukya Upanishad). This lesson repeats none of those experiments, stories, teachings or its deep truth. It leads on to L3: here the child sees that moving changes breathing and that the body recovers in rest; L3 then asks what a tired muscle has used up and what rest gives back. Also read: sci.body.heart-blood-breath.L3 (pulse after jumping), sci.body.keeping-balance.L3 (cheeks turning red after jumping), sci.body.growing.L2 (height at bedtime and morning), sci.health.hygiene.L1, sci.food.healthy-food.L1 and sci.health.feelings-and-wellbeing.L1, so as not to repeat them.
 - Resting respiratory rate in children aged about 6 to 12 is roughly 18 to 30 breaths per minute in standard paediatric tables, so about 9 to 15 in half a minute. It rises with exercise as working muscles use more oxygen and make more carbon dioxide (any physiology textbook).
 - Excess post-exercise oxygen consumption: breathing stays raised for some minutes after exercise.
 - WHO Guidelines on physical activity and sedentary behaviour (2020): an average of 60 minutes a day of moderate to vigorous activity for ages 5 to 17.

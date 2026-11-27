@@ -1,7 +1,7 @@
 # Finding out: planning a test and watching slow changes
 `sci.how-we-know.asking-questions.L3`
 
-**Summary.** A cut apple turns brown, yet nobody can see it happen. How can you catch a change that is too slow to watch? In this unit you will look at an apple every ten minutes, plan your own apple test, and follow a banana for five days.
+**Summary.** A cut apple turns brown, yet nobody can see it happen. How can you catch a change that is too slow to watch? In this lesson you will look at an apple every ten minutes, plan your own apple test, and follow a banana for five days.
 
 **Intro.** *Cut a slice of apple and put it on a plate. Now stare at it for one whole minute without looking away. Did it change? Leave it on the plate, and look again in half an hour.* In half an hour the cut side has gone yellow or brown. Yet in the minute you stared, you saw nothing happen. The change was real, but too slow for one look. To catch a slow change, you need a plan: look again and again at set times, and write down what you see each time. That is how scientists watch things that change slowly, from a cut apple to a growing child to a star.
 
@@ -36,6 +36,15 @@ Children wonder about everything, and every wondering is worth keeping. Some won
 - e.g. 'Are ants clever?' is big. 'Do the ants on our kitchen wall find a grain of sugar faster than a grain of salt?' can be tested.
 - e.g. 'Why does the banana go bad?' becomes 'Does a banana get more brown spots each day?' You can count the spots every morning.
 - e.g. 'Do crows like our balcony?' becomes 'How many times does a crow land on our railing between 7 and 8 in the morning?'
+### Five ways to find out · *defined*
+**Definition:** The five main ways to find out are research, a fair test, observing over time, classifying and pattern seeking. Each one fits a different kind of question.
+
+Research means finding the answer in a book or a trusted source, when we cannot test it ourselves. A fair test changes one thing and keeps everything else the same, so we see what that one thing does. Observing over time means looking again and again, at set times, as with the cut apple. Classifying means sorting things into groups by what they have in common. Pattern seeking means looking across many records for something that keeps coming back, such as Tycho's star positions night after night. Choose the way that fits your question.
+- e.g. To learn how a weaver bird builds its nest, read a bird book or ask a bird watcher.
+- e.g. To see whether sunlight makes beans sprout faster, put beans in the sun and in a cupboard, and change nothing else.
+- e.g. Drawing the same tulsi bud every morning for a week shows how it opens.
+- e.g. Sorting the leaves in a garden into smooth and rough edges is classifying.
+- e.g. Counting the rainy days each month for a year may show when the monsoon comes.
 ### Making a plan before you start · *defined*
 **Definition:** A plan answers these questions before you begin: What is my question? What do I guess, and why? What will I look at? What will I compare, and what will I keep the same? How often will I look, and for how long? How will I write it down? What do I need, and what must be done safely?
 
@@ -533,7 +542,7 @@ So Farzana kept checking, once a month now. Imran gave up on the crack. But he d
   - Check: Why do scientists want other people to be able to repeat their tests? → **So others can check whether the result really happens**
 
 ## Worksheets
-### Plan It, Watch It (core) (core, 15 questions)
+### Plan It, Watch It (core) (core, 16 questions)
 1. (mcq) You wonder about the ants in your kitchen. Which of these questions can you find out at home by watching or testing?  
    Options: Why are there ants in the world? / Do the ants reach a grain of sugar or a grain of rice first? / Do ants have best friends?  
    **Answer:** Do the ants reach a grain of sugar or a grain of rice first?. *Why:* You can put a grain of sugar and a grain of rice near the ant trail and watch which one the ants reach first. The other two questions are real and interesting, but one test at home can't answer them. A strong answer says what you would actually do.
@@ -547,35 +556,37 @@ So Farzana kept checking, once a month now. Imran gave up on the crack. But he d
    **Answer:** ['Make the colour card and the table', 'Write your guess and your reason', 'Cut three slices at the same time', 'Score and draw each slice every 10 minutes', 'Compare the drawings in a row']. *Why:* The plan and the guess come first, before anything is cut, so the guess can't be changed after seeing the result. Then the test, then the looks, then the comparing.
 6. (sort) Sort these questions. Can you answer each with one look, or do you need a long watch over time?  
    **Answer:** What colour is a tomato's inside? → One look; Does our tulsi plant grow a new leaf each week? → Long watch; How many windows does our room have? → One look; Does the Moon change shape over a month? → Long watch; Is the steel tumbler shiny? → One look; How fast does a banana get brown spots? → Long watch. *Why:* Anything about how something changes needs a long watch, with looks at set times. A question about how something is right now needs only one look.
-7. (write) Someone says they don't need to write anything down during the apple test, because they will remember it. Write two reasons why a scientist writes things down at the time.  
+7. (match) Match each way of finding out to an example.  
+   **Answer:** Research → find the answer in a book or a trusted source, when we cannot test it ourselves; Fair test → change one thing, keep everything else the same, and watch what changes; Observing over time → look again at set times, and write down each look; Classifying → sort things into groups by what they have in common; Pattern seeking → look across many records for something that keeps coming back. *Why:* Each way answers a different kind of question. A strong answer can give an example from home for each one.
+8. (write) Someone says they don't need to write anything down during the apple test, because they will remember it. Write two reasons why a scientist writes things down at the time.  
    **Answer:** Memory changes, and fills gaps with what we expect, so we can remember wrongly without knowing. A record made at the time stays the same, so we can compare looks, and other people can check what we saw.. *Why:* A strong answer gives two different reasons: memory can be wrong, and a record can be checked and compared. A very strong answer gives an example, like the Spot the Change game.
-8. (draw) Draw the three apple slices from the brown apple watch as they looked after one hour: plain, lemon and under water. Colour them and write each one's score.  
+9. (draw) Draw the three apple slices from the brown apple watch as they looked after one hour: plain, lemon and under water. Colour them and write each one's score.  
    **Answer:** The plain slice brown or light brown (score 2 or 3), the lemon slice still cream (score 0), and the water slice pale or a little yellow (score 0 or 1).. *Why:* Results vary with the kind of apple. A strong drawing shows the plain slice browner than both others, and the lemon slice palest, and matches the child's own record.
-9. (mcq) The plain apple slice browned faster than the slice under water. What did the air give the plain slice that the water slice mostly didn't get?  
-   Options: Light / Oxygen / Dust / Warmth  
+10. (mcq) The plain apple slice browned faster than the slice under water. What did the air give the plain slice that the water slice mostly didn't get?  
+   Options: Oxygen / Light / Dust / Warmth  
    **Answer:** Oxygen. *Why:* The browning needs oxygen from the air. Water keeps most of it away. Both slices were in the same light and warmth, so those can't explain the difference. Dust is too little to matter.
-10. (perspective) Two sisters in Kochi are planning the apple test. They disagree about when to look.  
+11. (perspective) Two sisters in Kochi are planning the apple test. They disagree about when to look.  
    **Answer:** A strong answer sees that the first child's plan is quicker and does show which slice ended up browner. Mini's plan also shows when and how fast each slice changed, which two looks can't show.. *Why:* Both plans answer a question, but not the same question. A strong answer says what each plan can and can't tell you, and chooses the one that fits the question asked.
-11. (odd) Which of these is NOT part of a plan for the apple test?  
+12. (odd) Which of these is NOT part of a plan for the apple test?  
    Options: How often to look / What to keep the same / The colour of your T-shirt / How to write it down  
    **Answer:** 2. *Why:* How often, what stays the same and how to record are all parts of a good plan. The colour of your T-shirt makes no difference to the apple.
-12. (write) Here is a wondering: 'Why does our dosa batter get bubbly?' Turn it into a question you could find out by watching or testing.  
+13. (write) Here is a wondering: 'Why does our dosa batter get bubbly?' Turn it into a question you could find out by watching or testing.  
    **Answer:** For example: 'Does the batter rise more in a warm place or in the fridge overnight?' or 'How much higher is the batter after 4 hours, 8 hours and 12 hours?'. *Why:* A strong question says what to look at or measure, and what to compare or how often to look.
-13. (mcq) Which of these is an observation of a cut apple slice?  
+14. (mcq) Which of these is an observation of a cut apple slice?  
    Options: The cut side is cream, wet and shiny, and it smells sweet / Apples are the best fruit / The apple slice is feeling sleepy  
    **Answer:** The cut side is cream, wet and shiny, and it smells sweet. *Why:* An observation is something you noticed with your eyes, nose, hands or ears. The other two are opinions or guesses, not things you noticed.
-14. (truefalse) A good record line needs only what you saw. The time does not matter.  
+15. (truefalse) A good record line needs only what you saw. The time does not matter.  
    **Answer:** False. *Why:* False. Without the time you cannot say how long a change took, or put the looks in order. Every record line says when, and what you saw.
-15. (write) Think of something at home that changes too slowly to see in one look. Say how you would find out how fast it changes: what you look at, how often you look, and how you write it down.  
+16. (write) Think of something at home that changes too slowly to see in one look. Say how you would find out how fast it changes: what you look at, how often you look, and how you write it down.  
    **Answer:** For example: a wet cloth drying on the line. Look at it every 15 minutes, touch it, score it dry, damp or wet, and write the time and the score each time.. *Why:* A strong answer picks something that really changes, chooses an interval that matches how fast it changes, and says what is written at each look.
 ### Fair Tests and Good Records (stretch) (stretch, 15 questions)
 1. (mcq) In an apple test, the plain slice was cut from a red apple and the lemon slice from a green apple. The lemon slice stayed paler. What is wrong with this test?  
-   Options: Nothing, it is a fair test / Two things were different, so you can't tell whether the lemon or the apple made the difference / More lemon should have been used  
+   Options: Nothing, it is a fair test / More lemon should have been used / Two things were different, so you can't tell whether the lemon or the apple made the difference  
    **Answer:** Two things were different, so you can't tell whether the lemon or the apple made the difference. *Why:* In a fair test only one thing differs. Here the apple and the lemon were both different. Some kinds of apple brown more slowly than others, so the green apple alone might explain it. All slices should come from one apple.
 2. (write) Someone did the apple test but looked only once, after five hours. All three slices were brown. They said, 'Lemon doesn't work.' What went wrong with the plan, and how should it be fixed?  
    **Answer:** The look came too late. It missed the time when the lemon slice was still pale and the others were brown. Lemon slows browning, but after many hours even a lemon slice may brown. The plan should be to look every 10 minutes for the first hour.. *Why:* A strong answer sees that the interval and the length of the watch were wrong for the question, not the lemon. Slowing a change is not the same as stopping it.
 3. (mcq) Here is part of an apple record. At 20 minutes the plain slice scored 1 and the water slice scored 0. At 30 minutes the plain slice scored 2 and the water slice scored 0. Which slice changed between 20 and 30 minutes?  
-   Options: The plain slice / The water slice / Both / Neither  
+   Options: The water slice / Both / Neither / The plain slice  
    **Answer:** The plain slice. *Why:* The plain slice went from score 1 to score 2. The water slice stayed at 0. Reading a record line by line shows exactly when each change happened.
 4. (sort) A child tests whether a slice browns more slowly in the fridge. Sort these into what the child changes and what the child keeps the same.  
    **Answer:** where the slice is: fridge or table → Changes; which apple the slices come from → Keeps the same; how thick the slices are → Keeps the same; when the slices are cut → Keeps the same; the colour card the child uses → Keeps the same; how often the child looks → Keeps the same. *Why:* Only one thing changes: fridge or table. Everything else stays the same, so any difference must come from the cold.
@@ -598,13 +609,13 @@ So Farzana kept checking, once a month now. Imran gave up on the crack. But he d
    Options: A cut potato / A cut brinjal / A peeled banana / Bread toasting on a tawa  
    **Answer:** 3. *Why:* Cut potato, brinjal and banana all brown because broken cells let an enzyme and oxygen work. Toast browns because of heat, which is a different change.
 13. (mcq) You hold a pencil at arm's length and swap eyes. The pencil seems to jump, but a far building does not. What does this show?  
-   Options: Near things seem to shift when you look from a different place, far things don't / Your eyes are broken / The pencil really moves  
+   Options: Your eyes are broken / Near things seem to shift when you look from a different place, far things don't / The pencil really moves  
    **Answer:** Near things seem to shift when you look from a different place, far things don't. *Why:* Your two eyes look from slightly different places. Something near seems to jump against the far background. Something very far does not. Tycho used this idea to show the new star was far beyond the Moon.
 14. (mcq) Two people score the same apple slice. One writes 2 and the other writes 3. What would help them agree?  
-   Options: Both use the same colour card, with the same four boxes / Both score faster / Each scores a different slice  
+   Options: Both score faster / Each scores a different slice / Both use the same colour card, with the same four boxes  
    **Answer:** Both use the same colour card, with the same four boxes. *Why:* A score means something only if everyone uses the same scale. A shared colour card makes a score of 2 the same colour for both people.
 15. (mcq) A girl looks at the same patch of night sky on every clear night for a year. One night she sees a faint light that was never there before. Why can she be sure it is new?  
-   Options: She has looked so often that she knows what is usually there / New lights always shine brighter than stars / She is using the biggest telescope in the world  
+   Options: New lights always shine brighter than stars / She has looked so often that she knows what is usually there / She is using the biggest telescope in the world  
    **Answer:** She has looked so often that she knows what is usually there. *Why:* Looking again and again at the same place gives her a record, in her head and in her notebook. A new light stands out against what she knows.
 ### Thinking Like Tycho (challenge) (challenge, 15 questions)
 1. (write) Here is a question: 'Does a banana ripen faster inside a closed paper bag?' Write a full plan to answer it: the question, a guess and why, what to compare, what to keep the same, how often to look and how to record it.  
@@ -612,7 +623,7 @@ So Farzana kept checking, once a month now. Imran gave up on the crack. But he d
 2. (perspective) In 1572, a new star appeared in the sky. Two people disagree about what it is.  
    **Answer:** A strong answer sides with Tycho because of his measurements, but can also argue that the follower of Aristotle trusted a teaching that had seemed to work for a very long time, and might have doubted Tycho's instrument.. *Why:* Tycho had evidence from a planned test. The other view rested on an old teaching. A strong answer explains why measurements can overturn a famous idea, and is fair to the other side.
 3. (mcq) In an apple test, the plain slice was cut first, and the lemon slice 20 minutes later. After one hour, the plain slice was browner. What is the problem?  
-   Options: The plain slice had 20 minutes more time to brown / Lemon slices always brown faster / There is no problem  
+   Options: Lemon slices always brown faster / There is no problem / The plain slice had 20 minutes more time to brown  
    **Answer:** The plain slice had 20 minutes more time to brown. *Why:* The plain slice had 60 minutes in the air and the lemon slice only 40. So the time, not just the lemon, could explain the difference. All slices must start at the same time.
 4. (write) A family checks a crack in their wall every week for six weeks, and it never changes. A boy in the family calls it the most boring science in the world. Was the checking a waste of time? Explain.  
    **Answer:** It was not a waste. 'No change' is a real answer. It shows the crack is not growing, so the family need not worry, and the marks will show at once if it ever starts to grow.. *Why:* A strong answer sees that finding no change is a result, and that it settles a question that memory alone could not.
@@ -626,7 +637,7 @@ So Farzana kept checking, once a month now. Imran gave up on the crack. But he d
 8. (sort) After the apple test, people said these things. Sort them: is each one evidence from the test, or not?  
    **Answer:** 'My drawing at 30 minutes shows the plain slice at score 2.' → Evidence; 'I'm sure it was darker than that.' → Not evidence; 'The photo at 60 minutes shows the lemon slice still cream.' → Evidence; 'I hoped the water slice would win.' → Not evidence; 'My table says the water slice reached 1 at 40 minutes.' → Evidence; 'Everyone knows apples go brown.' → Not evidence. *Why:* Evidence is what was recorded at the time: drawings, photos and table entries. Feelings, hopes and what 'everyone knows' are not evidence from this test.
 9. (mcq) When you bite an apple and leave it, the brown appears first around the tooth marks. Why there?  
-   Options: That is where the cells were broken open / Teeth are brown / Saliva is brown  
+   Options: Teeth are brown / That is where the cells were broken open / Saliva is brown  
    **Answer:** That is where the cells were broken open. *Why:* The browning starts where cells are broken, because that is where the enzyme and the colourless substances mix and meet oxygen. A whole, unbroken apple stays cream inside.
 10. (write) Your steel tumbler looks exactly the same as it did last year. Is it changing at all? Give your reasons.  
    **Answer:** It may be changing very slowly: getting tiny scratches, wearing thin where it is scrubbed, or getting a dent. One look can't show it, but photos over many years might.. *Why:* A strong answer uses the idea from the apple test: a change can be real and still too slow to see, and a record over time can show it.
@@ -659,10 +670,10 @@ So Farzana kept checking, once a month now. Imran gave up on the crack. But he d
    Options: To save apples / So the only difference is plain, lemon or water / Because one apple is enough to eat  
    **Answer:** So the only difference is plain, lemon or water. *Why:* Different apples can brown at different speeds. Using one apple keeps that the same, so the only difference between the slices is the one you chose.
 4. (mcq) You want to know how fast a tomato plant grows. How often should you measure the plant?  
-   Options: Every minute / Every few days / Once every five years  
+   Options: Every few days / Every minute / Once every five years  
    **Answer:** Every few days. *Why:* A tomato plant grows a little each day, so measuring every few days shows clear steps. Every minute shows nothing new. Every five years misses the plant's whole life.
 5. (mcq) What should every line of a record have?  
-   Options: The time of the look / A sticker / The name of a famous scientist  
+   Options: A sticker / The name of a famous scientist / The time of the look  
    **Answer:** The time of the look. *Why:* Without the time, you can't say how long a change took or put the looks in order. Each line should also have what you saw, as a score, a drawing or a few words.
 6. (mcq) You stare at an apple slice for a minute and see nothing change. But your drawings every 10 minutes show it going brown. What does this show?  
    Options: The drawings were wrong / Some changes are too slow to see, but a record over time catches them / The apple only browns when nobody looks  
@@ -671,20 +682,23 @@ So Farzana kept checking, once a month now. Imran gave up on the crack. But he d
    Options: The one who is older is right / Look at the record they wrote during the test / Do whatever they both agree on  
    **Answer:** Look at the record they wrote during the test. *Why:* Memory can change without our noticing, for anyone of any age. The record made at the time doesn't change, so it settles the question.
 8. (mcq) Why does a cut apple turn brown?  
-   Options: Germs eat it straight away / An enzyme from broken cells helps the apple's substances join with oxygen from the air / Light from the room paints it brown  
+   Options: Germs eat it straight away / Light from the room paints it brown / An enzyme from broken cells helps the apple's substances join with oxygen from the air  
    **Answer:** An enzyme from broken cells helps the apple's substances join with oxygen from the air. *Why:* Cutting breaks the cells, the enzyme and the colourless substances mix, and oxygen joins in to make brown substances. It happens in the dark too, and far too quickly for germs to be the cause.
 9. (mcq) Why does lemon juice keep an apple slice pale?  
    Options: It is sour, and the browning enzyme works slowly in sour juice / It is yellow, so it hides the brown / It makes the apple colder  
    **Answer:** It is sour, and the browning enzyme works slowly in sour juice. *Why:* Lemon juice is acidic, and the enzyme works slowly in acid. Its vitamin C also undoes the first step of browning. It doesn't hide the colour or cool the slice.
 10. (mcq) A slice kept in the fridge browns more slowly than one on the table. Why?  
-   Options: Cold slows the enzyme / There is no air in a fridge / Fridges are dark  
+   Options: There is no air in a fridge / Fridges are dark / Cold slows the enzyme  
    **Answer:** Cold slows the enzyme. *Why:* A fridge is full of air, and the apple browns in the dark too. The cold slows the enzyme down, so the browning is slower.
 11. (mcq) A bright new light appears in the night sky. Night after night it never shifts against the stars near it, though the Moon does. What does this tell you?  
-   Options: It is very near, closer than the Moon / It is far beyond the Moon / It is a cloud of smoke  
+   Options: It is very near, closer than the Moon / It is a cloud of smoke / It is far beyond the Moon  
    **Answer:** It is far beyond the Moon. *Why:* A near thing seems to shift a little against far stars as the Earth turns. The new light never shifted, so it must be very far away, beyond the Moon.
 12. (mcq) People once believed the sky beyond the Moon never changes. What kind of evidence could show this idea is wrong?  
-   Options: One person saying they once saw something odd / A new light far beyond the Moon, measured again and again / A picture in an old book  
+   Options: One person saying they once saw something odd / A picture in an old book / A new light far beyond the Moon, measured again and again  
    **Answer:** A new light far beyond the Moon, measured again and again. *Why:* A strong claim needs careful evidence. A new light, measured night after night and shown to be far beyond the Moon, would show that the sky out there can change.
+13. (mcq) You want to know whether a bean sprouts faster in sunlight or in a dark cupboard. Which way of finding out is this?  
+   Options: Pattern seeking, looking across many records / Classifying, sorting beans into groups / A fair test, changing only the light  
+   **Answer:** A fair test, changing only the light. *Why:* A fair test changes one thing, the light, and keeps the rest the same. Sorting beans into groups and looking for patterns in records do not test the light.
 
 ## Applications
 - Weather scientists record rainfall and temperature every day, and long records show how the climate is changing.
@@ -758,6 +772,8 @@ Look Again (sci.how-we-know.L3):
 
 ## Things to buy
 - [A hand lens (magnifying glass), about 5 to 7 cm across](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): Not needed, but it helps children observe small details, like the veins on a leaf or the first brown on an apple slice. It is cheap at stationery shops and online. Used in a2. 
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Catch the Sunny Patch. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before Catch the Sunny Patch.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is it called when you look at something carefully, with all your senses? → Observing.

@@ -409,11 +409,11 @@
       "t": "mcq",
       "q": "You stroke your own foot five times and score 0. Someone else strokes it the same way, and you score 3. What does this show?",
       "options": [
-       "Your own stroke tickles less than someone else's",
        "The feather is broken",
-       "The other person pressed harder, so it is not fair"
+       "The other person pressed harder, so it is not fair",
+       "Your own stroke tickles less than someone else's"
       ],
-      "a": 0,
+      "a": 2,
       "why": "If the strokes were the same, the only change was who made them. Your brain predicted your own stroke and turned the feeling down."
      }
     }
@@ -1207,11 +1207,11 @@
      "t": "mcq",
      "p": "In the Tickle Test, you stroked your own foot with a feather, and then someone else stroked it. Whose stroke tickled you more?",
      "opts": [
-      "My own stroke",
       "Someone else's stroke",
+      "My own stroke",
       "Both were exactly the same"
      ],
-     "a": 1,
+     "a": 0,
      "why": "For most people, someone else's stroke tickles more. Your brain predicts your own stroke and turns it down.",
      "how": "e1"
     },
@@ -1295,10 +1295,10 @@
      "p": "Your shadow moves whenever you move. Is your shadow part of your body?",
      "opts": [
       "Yes, it is made of the same stuff as your skin",
-      "No, it is a patch where your body blocks the light",
-      "Yes, because you can feel it"
+      "Yes, because you can feel it",
+      "No, it is a patch where your body blocks the light"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Your shadow is a dark patch where your body stops light. It is not made of anything from your body.",
      "how": "g1"
     },
@@ -1429,11 +1429,11 @@
      "t": "mcq",
      "p": "Why does humming with your fingers in your ears sound louder?",
      "opts": [
-      "The sound through your bones stays inside your head",
       "Your fingers make the sound",
-      "Your ears grow bigger"
+      "Your ears grow bigger",
+      "The sound through your bones stays inside your head"
      ],
-     "a": 0,
+     "a": 2,
      "why": "With ears blocked, less sound leaks out, so you hear more of the sound that travels through your bones."
     },
     {
@@ -1494,11 +1494,11 @@
      "t": "mcq",
      "p": "Scientists made a robot that touched a person's hand a tiny moment after the person moved a lever. What happened?",
      "opts": [
-      "The touch tickled more",
       "The touch tickled less",
+      "The touch tickled more",
       "The person felt nothing"
      ],
-     "a": 0,
+     "a": 1,
      "why": "With a small delay, the touch no longer matched what the brain predicted, so it was not turned down as much."
     },
     {
@@ -1560,11 +1560,11 @@
      "t": "mcq",
      "p": "In the glove hand test, you stroke the glove and your hidden hand at the same moment. Which second try is a fair comparison?",
      "opts": [
-      "Stroking them at different moments",
       "Using a different glove and a different person",
-      "Taking the glove away"
+      "Taking the glove away",
+      "Stroking them at different moments"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A fair test changes only one thing. Here only the timing of the strokes changes.",
      "how": "e2"
     },
@@ -1620,11 +1620,11 @@
    "t": "mcq",
    "p": "What is a sense of self?",
    "opts": [
-    "Knowing that you are you",
     "Knowing all the answers",
-    "Being the tallest"
+    "Being the tallest",
+    "Knowing that you are you"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A sense of self is knowing that your body, likes and feelings are yours.",
    "outcome": 0
   },
@@ -1632,11 +1632,11 @@
    "t": "mcq",
    "p": "Why does your own stroke on your foot tickle less?",
    "opts": [
-    "Your brain predicts it and turns it down",
     "Your foot is tired",
+    "Your brain predicts it and turns it down",
     "Your hand is too soft"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Your brain keeps a copy of your movement and predicts the touch, so it feels weaker.",
    "outcome": 1
   },
@@ -1644,11 +1644,11 @@
    "t": "mcq",
    "p": "In a fair tickle test, what should change?",
    "opts": [
-    "Only who is stroking",
     "The feather and the spot",
-    "How many strokes"
+    "How many strokes",
+    "Only who is stroking"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Change only one thing, so you know what made the difference.",
    "outcome": 2,
    "how": "e1"
@@ -1657,11 +1657,11 @@
    "t": "mcq",
    "p": "Why does your voice sound strange on a phone?",
    "opts": [
-    "The phone records only the sound in the air",
     "Phones always change voices",
+    "The phone records only the sound in the air",
     "You speak differently to phones"
    ],
-   "a": 0,
+   "a": 1,
    "why": "You also hear your voice through your bones. The phone records only the sound in the air.",
    "outcome": 3
   },
@@ -1669,11 +1669,11 @@
    "t": "mcq",
    "p": "A boy did not like curd when he was 3. Now he loves it. What does this show?",
    "opts": [
-    "Likes can change",
     "He is a different boy",
-    "Curd changed"
+    "Curd changed",
+    "Likes can change"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Many likes change as we grow and try things again.",
    "outcome": 4
   },
@@ -1681,11 +1681,11 @@
    "t": "mcq",
    "p": "Many flowers can tell their own pollen from pollen of another plant. What do the flowers do with their own pollen?",
    "opts": [
-    "Stop it from making seeds",
     "Eat it",
-    "Throw it at bees"
+    "Throw it at bees",
+    "Stop it from making seeds"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Many flowers know their own pollen and stop it from making seeds.",
    "outcome": 5
   },
@@ -1705,11 +1705,11 @@
    "t": "mcq",
    "p": "Who can feel your feelings from the inside?",
    "opts": [
-    "Only you",
     "Anyone who looks at you",
+    "Only you",
     "Your teacher"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Others see clues like your face. Only you feel the feeling inside.",
    "outcome": 0
   },
@@ -1717,11 +1717,11 @@
    "t": "mcq",
    "p": "When you sit still, you stop feeling your shirt. Why?",
    "opts": [
-    "Your brain turns down touches that don't change",
     "Your shirt disappears",
-    "Your skin falls asleep forever"
+    "Your skin falls asleep forever",
+    "Your brain turns down touches that don't change"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Your brain turns down touches that are always there, so you can notice new ones.",
    "outcome": 1
   },
@@ -1881,7 +1881,45 @@
    "why": "Hands-on science galleries."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Build a Self-Tickle Machine. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before Build a Self-Tickle Machine."
+  },
+  {
+   "id": "b-a-small-hand-mirror",
+   "item": "A small hand mirror",
+   "kind": "material",
+   "why": "Used in Mirror Me, Photo Me: which one do you like better?. About ₹20 to ₹80. A shiny steel plate shows reflections too.",
+   "url": "https://www.amazon.in/s?k=small+hand+mirror",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before Mirror Me, Photo Me: which one do you like better?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "Can most people tickle themselves?",

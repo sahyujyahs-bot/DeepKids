@@ -1,7 +1,7 @@
 # Natural and made materials: how sand becomes glass
 `sci.materials.natural-and-made.L2`
 
-**Summary.** A glass bangle is clear, but the sand it is made from is not. In this unit you will sort things into natural and made materials, heat white sugar grains until they melt into a clear sheet like sand into glass, and bury materials in soil to see which break down.
+**Summary.** A glass bangle is clear, but the sand it is made from is not. In this lesson you will sort things into natural and made materials, heat white sugar grains until they melt into a clear sheet like sand into glass, and bury materials in soil to see which break down.
 
 **Intro.** *Hold a glass tumbler up to the window. You can see right through it. Glass is made from sand. Now pour a little sand or salt into your hand. Can you see through the heap?* You cannot see through a heap of sand. Yet a glass window, made from sand, is clear. How can that be? People change natural materials to make new ones. They melt sand to make glass. They mash wood to make paper. They make plastic from oil that comes from deep under the ground. Before you read on, guess. What do people do to sand to make it clear? You are going to find out, with sugar instead of sand.
 
@@ -16,12 +16,15 @@
 ## Terms
 - **Natural material**: A material that comes from nature: from plants, from animals or from the ground. *e.g.* Wood, cotton, wool, clay, stone and sand are natural materials.
 - **Made material**: A material that people make by changing natural materials. People also call it a man-made material. *e.g.* Glass, paper, plastic, steel and brick are made materials.
+- **Rayon**: A soft cloth made from wood pulp that is treated with chemicals and spun into thread. *e.g.* Many saris and shirts are made of rayon.
+- **Canvas**: A strong cloth woven from cotton or hemp threads. *e.g.* Tents and school bags are often made of canvas.
 - **Raw material**: The natural material that something is made from. *e.g.* Sand is the raw material for glass. Wood is a raw material for paper.
 - **Melt**: To turn from a solid into a liquid by heating. *e.g.* Sand melts in a very hot furnace. Ghee melts in a warm pan.
 - **Furnace**: A very hot oven used to melt things, such as sand or metal. *e.g.* Glass furnaces in Firozabad, in Uttar Pradesh, melt glass to make bangles.
 - **Fibre**: A very thin thread. Paper is made of tiny plant fibres pressed together. *e.g.* Tear a tissue slowly, and you can see little fibres at the torn edge.
 - **Transparent**: Lets light through so well that you can see clearly through it. *e.g.* Clear glass and clean water are transparent.
 - **Break down**: To slowly fall apart into tiny pieces, often because tiny living beings eat the material. *e.g.* A banana peel in soil breaks down in a few weeks. A plastic bag takes far longer.
+- **Biodegradable**: Biodegradable means it can be broken down by tiny living things, such as bacteria and fungi, into soil, water and gases. A banana peel is biodegradable, and a plastic bottle is not. *e.g.* A banana leaf plate left in the garden turns into soil after some weeks, because tiny living things eat it.
 
 ## Explanations
 ### Natural materials · *defined*
@@ -34,7 +37,7 @@ Wood and cotton grow on plants. Wool grows on sheep. Silk is spun by silkworms, 
 ### Made materials · *defined*
 **Definition:** A made material is a new material that people make by changing natural materials.
 
-People never start from nothing. Every made material begins as a natural raw material. Glass begins as sand. Paper begins as wood or other plant parts. Plastic begins as oil and gas from deep under the ground. Brick begins as clay. The raw material is changed by heating, mashing or mixing, and a new material comes out.
+People never start from nothing. Every made material begins as a natural raw material. Glass begins as sand. Paper begins as wood or other plant parts. Plastic begins as oil and gas from deep under the ground. Brick begins as clay. The raw material is changed by heating, mashing or mixing, and a new material comes out. Some cloth is made this way too. Canvas is a strong cloth woven from cotton or hemp threads. Rayon is a soft cloth made from wood pulp that is treated with chemicals and spun into thread.
 - e.g. Sand becomes glass.
 - e.g. Wood, bamboo or sugarcane waste becomes paper.
 - e.g. Oil becomes plastic.
@@ -65,6 +68,10 @@ Some cases are easy. A stone is natural and a plastic mug is made by people. But
 - e.g. A cotton shirt is made of a natural fibre, but people spun it and wove it into cloth.
 - e.g. A wasp makes paper for her nest, so paper can be made by an animal too.
 - e.g. A brick began as clay, but it is baked so hot that it can never turn back into clay.
+- e.g. Sand is natural, but once people melt it with soda and limestone, it becomes glass.
+- e.g. A sea sponge is a living animal, but many kitchen sponges are made by people from plastic.
+- e.g. Beeswax comes from a hive, and artificial wax is made from oil. Both can make a candle.
+- e.g. Plastic waste is made by people, yet it can stay in the soil, a river or the sea for a very long time.
 - **Many textbooks:** If the material is still the same stuff, like cotton in a shirt or wood in a chair, it is natural. If it has become a new material, like glass or plastic, it is made.
 - **Some scientists who study animals:** Humans are animals. If a wasp's paper is natural, then our paper is natural too. Animals, including us, change natural materials all the time.
 - **People who care about waste:** The question that matters most is whether the material can break down and go back into the soil. Banana leaves can. Most plastic cannot, for a very long time.
@@ -400,11 +407,11 @@ Nila did not know. Amma did not say. They walked home with the green glass in Ni
    **Answer:** The banana peel. *Why:* Bacteria and fungi in the soil eat banana peel quickly. Picking the plastic bag may mean mixing up 'changed most' and 'changed least'.
 10. (perspective) Anjana and her grandfather are choosing plates for a big family lunch at Onam.  
    **Answer:** A strong answer picks one and gives a reason, such as 'the banana peel broke down in the soil test, and banana leaves are a plant material too'. It also says what the other is right about, such as 'steel plates are used again and again, so they make no rubbish'.. *Why:* Both are good choices. One breaks down, the other lasts and is used again. Made does not always mean bad.
-### From Sand to Glass (stretch) (stretch, 10 questions)
+### From Sand to Glass (stretch) (stretch, 12 questions)
 1. (write) Someone says, 'Glass can't be made from sand. Sand is not clear.' What would you tell them? Use the Sugar Test.  
    **Answer:** The sugar heap was white too, but melted and cooled it became clear. Each grain lets light through, but a heap has many edges. Melted sand joins into one piece with no edges, so glass is clear.. *Why:* A strong answer uses the sugar test as evidence, and says why melting makes the material clear.
 2. (mcq) Why does glass-making need a furnace, not a stove?  
-   Options: Sand needs much more heat to melt than sugar / Sand is wet / A stove is too big  
+   Options: Sand is wet / A stove is too big / Sand needs much more heat to melt than sugar  
    **Answer:** Sand needs much more heat to melt than sugar. *Why:* Sugar syrup melts on a stove. Sand needs about 1,500 degrees Celsius, far hotter than any kitchen.
 3. (order) Put the steps of making paper in order.  
    **Answer:** [1, 0, 2, 3]. *Why:* First the plant parts are collected, then mashed into pulp, then spread thin, then pressed and dried.
@@ -414,14 +421,18 @@ Nila did not know. Amma did not say. They walked home with the green glass in Ni
    **Answer:** Sand, then a furnace melting it, then a worker pulling or shaping hot glass, then a bangle on a wrist.. *Why:* A strong drawing shows that the sand is melted by heat, shaped while hot, and cooled.
 6. (fill) The natural material that something is made from is called its ____ material.  
    **Answer:** ['raw']. *Why:* Sand is the raw material for glass. Wood is a raw material for paper.
-7. (truefalse) A cooking fire on a beach is hot enough to melt sand into glass.  
+7. (truefalse) Every kitchen sponge is a natural material, because a sponge is an animal.  
+   **Answer:** False. *Why:* False. A sea sponge is a natural animal, but many kitchen sponges are made by people from plastic.
+8. (fill) Rayon is a soft cloth made from wood ____, which is treated and spun into thread.  
+   **Answer:** ['pulp']. *Why:* Rayon starts as wood pulp, a natural plant material. People change it into a new cloth, so rayon is a made material.
+9. (truefalse) A cooking fire on a beach is hot enough to melt sand into glass.  
    **Answer:** False. *Why:* False. Glass needs a closed furnace at about 1,500 degrees Celsius. A cooking fire is far cooler.
-8. (mcq) In the water shake, the tissue fell apart, but the plastic did not. Why?  
-   Options: The tissue is made of fibres that let go of each other when wet / The plastic was bigger / The water was too cold  
+10. (mcq) In the water shake, the tissue fell apart, but the plastic did not. Why?  
+   Options: The plastic was bigger / The tissue is made of fibres that let go of each other when wet / The water was too cold  
    **Answer:** The tissue is made of fibres that let go of each other when wet. *Why:* Paper is plant fibres holding each other. Water gets between them and they let go. Plastic is made of long chains that water does not pull apart.
-9. (perspective) Anjana and her friend Sana see a paper wasp's nest on a balcony.  
+11. (perspective) Anjana and her friend Sana see a paper wasp's nest on a balcony.  
    **Answer:** A strong answer gives a clear reason, for example that people are animals too, so both could be called natural. It also names a difference, for example that people use big machines, chemicals and factories.. *Why:* There is no single right answer. It depends on where we draw the line between natural and made.
-10. (write) In the soil cup test, the plastic bag did not change in two weeks. Why could that be a problem if plastic is thrown on the ground?  
+12. (write) In the soil cup test, the plastic bag did not change in two weeks. Why could that be a problem if plastic is thrown on the ground?  
    **Answer:** Because it will stay there for a very long time. It does not break down like peel or paper, so it piles up.. *Why:* A strong answer uses the test result and says what happens when plastic is not broken down.
 
 ## Videos
@@ -431,35 +442,41 @@ Nila did not know. Amma did not say. They walked home with the green glass in Ni
 
 ## Quiz
 1. (mcq) Which of these is a natural material?  
-   Options: Glass / Cotton / Plastic  
+   Options: Cotton / Glass / Plastic  
    **Answer:** Cotton. *Why:* Cotton grows on the cotton plant. Glass and plastic are made by people. Picking glass may mean thinking anything clear and plain is natural.
 2. (mcq) Glass is made from which natural material?  
-   Options: Wood / Oil / Sand  
+   Options: Sand / Wood / Oil  
    **Answer:** Sand. *Why:* Glass is made by melting sand in a furnace. Picking oil mixes it up with plastic.
 3. (mcq) Most plastic is made from what?  
-   Options: Oil from under the ground / Melted sand / Tree bark  
+   Options: Melted sand / Oil from under the ground / Tree bark  
    **Answer:** Oil from under the ground. *Why:* Plastic is made in factories from oil and natural gas. Picking melted sand mixes it up with glass.
 4. (mcq) A grown-up pours melted sugar onto a plate. When it cools, what will it look like?  
    Options: White grains / A clear, hard sheet / Wet sugar water  
    **Answer:** A clear, hard sheet. *Why:* In the sugar test, the melted sugar set into one clear piece. Picking 'white grains' means thinking it goes back to how it was.
 5. (mcq) Why does a heap of sugar look white?  
-   Options: Each grain is painted white / Light bounces off the edges of all the grains / Sugar is made of milk  
+   Options: Each grain is painted white / Sugar is made of milk / Light bounces off the edges of all the grains  
    **Answer:** Light bounces off the edges of all the grains. *Why:* Each grain lets light through, but a heap has thousands of edges that bounce light about. Picking 'painted white' means not yet having looked at one grain up close.
 6. (mcq) Why is a glass window clear, when sand is not?  
-   Options: The sand melted into one piece with no edges inside / Glass is washed very well / Glass makers add water  
+   Options: Glass is washed very well / Glass makers add water / The sand melted into one piece with no edges inside  
    **Answer:** The sand melted into one piece with no edges inside. *Why:* Melting joins all the grains into one piece. With no edges inside, light goes straight through.
 7. (mcq) Paper is made of what?  
-   Options: Tiny plant fibres pressed together / Melted plastic / Crushed stone  
+   Options: Melted plastic / Crushed stone / Tiny plant fibres pressed together  
    **Answer:** Tiny plant fibres pressed together. *Why:* Paper is made from wood, bamboo or sugarcane waste, mashed into fibres. In the water shake, the tissue fell apart into these fibres.
 8. (mcq) In the soil cup test, which piece did not change at all?  
    Options: The banana peel / The newspaper / The plastic bag  
    **Answer:** The plastic bag. *Why:* Soil bacteria and fungi have very few ways to eat plastic. Picking newspaper may mean thinking all made materials last. Paper is plant fibres, so paper breaks down.
 9. (mcq) What is a brick made from?  
-   Options: Baked clay / Melted sand / Pressed paper  
+   Options: Melted sand / Pressed paper / Baked clay  
    **Answer:** Baked clay. *Why:* Bricks are clay that is shaped and baked very hot. Melted sand makes glass, not bricks.
 10. (mcq) Before the Sugar Test, you guessed the melted sugar would stay white. The test showed a clear sheet. What should you do?  
    Options: Keep your guess, because guesses are always right / Say what you saw, and change your idea / Do the test again until it comes out white  
    **Answer:** Say what you saw, and change your idea. *Why:* A good scientist says what the test showed, even when it is different from the guess.
+11. (mcq) Rayon, a soft cloth used for saris and shirts, is made from which natural material?  
+   Options: Sheep's wool / Oil / Wood pulp  
+   **Answer:** Wood pulp. *Why:* Rayon is made from wood pulp that is treated with chemicals and spun into thread. Oil makes plastic fibres, not rayon. Wool is spun from a sheep's fleece, not made into rayon.
+12. (mcq) Which of these is a made wax, not a natural one?  
+   Options: Beeswax from a hive / Artificial wax made from oil / A sea sponge  
+   **Answer:** Artificial wax made from oil. *Why:* Artificial wax is made from oil by people. Beeswax comes from bees, and a sea sponge is a living animal, so both are natural.
 
 ## Applications
 - Glass makers melt sand, and old crushed glass, to make bottles, windows, spectacles and bangles.
@@ -469,11 +486,11 @@ Nila did not know. Amma did not say. They walked home with the green glass in Ni
 - Recycling turns old glass, paper and plastic back into new things, so fewer raw materials are dug up or cut down.
 
 ## Spotted around us
-- Glass bangles stacked high at a stall before a festival. Many are made in Firozabad, in Uttar Pradesh.
-- Banana leaves used as plates at a meal in Kerala or Tamil Nadu, then thrown on the compost.
+- Glass bangles stacked high at a stall before a festival.
+- Banana leaves used as plates at a meal, then thrown on the compost.
 - A kabadiwala's cart with old newspapers, glass bottles and plastic, ready to be sold for recycling.
-- A potter in Kolkata's Kumartuli or in Puducherry shaping wet clay.
-- Coir mats and ropes made from coconut husk, sold in Kerala and in markets across India.
+- A potter shaping wet clay.
+- Coir mats and ropes made from coconut husk, sold in markets.
 
 ## Open questions
 - **What exactly is glass?** Glass is hard like a solid, but its particles are jumbled like a liquid's, not in neat rows. Physicists still argue about how best to explain what happens when melted glass goes hard.
@@ -508,10 +525,15 @@ Test It and See (sci.materials.L2): Topic-level song for Materials L2
 
 ## Links
 - [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free hands-on science activities from a science museum, for the parent to find more to try with light and materials.
-- [Pondicherry Museum]() · place · Puducherry: Shows finds from Arikamedu, including ancient beads and pottery.
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: A science museum with hands-on galleries on materials and engineering.
+- Pondicherry Museum · place · Puducherry: Shows finds from Arikamedu, including ancient beads and pottery.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru: A science museum with hands-on galleries on materials and engineering.
 
 ## Things to buy
+- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): Used in Grains Up Close: is one grain white?. About ₹30 to ₹120. A water drop on clear plastic magnifies a little. Used in a2. Get it before Grains Up Close: is one grain white?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in The Changing Line: how much did people change it?. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in a1. Get it before The Changing Line: how much did people change it?.
+- [Butter paper or tracing paper](https://www.amazon.in/s?k=butter+paper+roll) (material): Used in A Window for a Shoebox House. About ₹30 to ₹80 for a roll. Thin clean plastic bag or a sheet of waxed paper. Used in c1. Get it before A Window for a Shoebox House.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in The Water Shake: paper or plastic?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in a3. Get it before The Water Shake: paper or plastic?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name one natural material. → Wood, cotton, wool, clay, sand or stone.

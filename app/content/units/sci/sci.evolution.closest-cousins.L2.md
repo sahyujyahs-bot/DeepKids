@@ -1,7 +1,7 @@
 # Apes, our closest cousins: how they live, play and care for each other
 `sci.evolution.closest-cousins.L2`
 
-**Summary.** A young chimpanzee laughs when tickled, and so do you. But does the air go out or in when you laugh? In this unit you will test your own laugh, take turns grooming like chimpanzees, and play a guessing game to find out how each kind of ape lives.
+**Summary.** A young chimpanzee laughs when tickled, and so do you. But does the air go out or in when you laugh? In this lesson you will test your own laugh, take turns grooming like chimpanzees, and play a guessing game to find out how each kind of ape lives.
 
 **Intro.** *Hold your hand in front of your mouth and laugh out loud. Can you feel air on your hand? Is the air going out of your mouth, or coming in?* A young chimpanzee laughs when tickled, too. But a chimpanzee's laugh sounds different from yours. Today you make a tissue flag and test whether the air goes out or comes in when you laugh. Then you try laughing like a chimpanzee. After that, you meet the four great apes: chimpanzees, bonobos, gorillas and orangutans. You find out where they live, who they live with, and how they look after each other. Before you start, make a guess. When you laugh, does the air go out, come in, or both?
 
@@ -89,6 +89,7 @@ Apes think, feel, remember and plan. They feel joy when they play, fear when the
 - e.g. Chimpanzees who saw a friend die stay close and quiet.
 - **Jane Goodall and many scientists today:** Apes feel joy, fear and grief, as we do. We can see it in what they do, the same way we see it in a friend.
 - **Some careful scientists:** We should watch closely before we name an ape's feeling with a human word. A chimpanzee's grin can mean fear, not happiness. Each feeling must be checked by what the ape does next.
+- **Sarah Brosnan, USA, and Frans de Waal (1948–2024), Netherlands and USA:** In 2003 Brosnan and de Waal trained capuchin monkeys to hand back a small stone in return for food. When one monkey got a grape and her neighbour got cucumber for the same job, the neighbour often refused the cucumber or threw it away. Scientists still argue about this. Some say the monkeys really react to unfairness, and others say they may just be upset that a better food was there and they did not get it.
 
 ## Mostly agreed
 - Chimpanzees and bonobos are our closest living cousins, and gorillas come next. *How we know:* Scientists compared the DNA, the instructions inside the cells, of humans and other apes. Ours is most like a chimpanzee's and a bonobo's. Our bones and bodies show the same thing.
@@ -242,6 +243,24 @@ She thought about a chimpanzee mother, far away in a forest in Africa, parting h
   *Parent says:* Which act was the hardest to guess? Which one do people do too?  
   *Child mode:* Which act was hardest to guess? Tell the others why.
   - Check: Which of these do people do too? → **Hug and make up after a quarrel**
+### old1 · Through the Treetops: a board race to the nest (20 min)
+- **rules:** Copy the 23 squares in order onto a big sheet of paper, in a winding path. Each player puts a coin, button or small stone on START.; Take turns to roll the die and move that many squares. If you have no die, write 1, 2 and 3 on three paper slips and pick one.; Read the square aloud and do what it says. If it asks a question, answer it first. A grown-up reads the answer from the answer sheet.; If the answer is wrong, stay where you are this turn. Hear the right answer and try a new square next turn.; On a forward, back or miss-a-turn square, do what it says. A player who goes back does not do the new square.; The first player to reach HOME wins. At the end, each player says one thing they learned from a square.
+- **Printable board: The forest path: 23 squares:** START: the forest floor; A fig tree is full of ripe fruit. Move ahead 2.; Question: does an ape have a tail?; The next tree is too far. Sway your tree like an orangutan. Move ahead 1.; You did not look with both eyes and missed a branch. Go back 2.; Question: name one ape who lives in Africa.; A termite mound! Strip a twig to make a tool. Move ahead 2.; Grip a branch with your feet like a chimpanzee. Move ahead 1.; Question: what is India's only ape?; A friend grooms your fur. Rest here. Groom a player's hand gently for five seconds.; Question: who watched chimpanzees in Tanzania from 1960?; A storm comes. Hold a big leaf over your head. Move ahead 1.; The trees here were cut down. Go back 3.; Question: what do apes have on their fingers instead of claws?; A silverback gorilla beats his chest. Stay still and miss a turn.; Question: are humans the grandchildren of chimpanzees, or their cousins?; Bonobo friends share their fruit with you. Move ahead 2.; Question: what does an orangutan build almost every night?; You see your face in a pool of water and know it is you. Move ahead 1.; Question: why do apes have eyes at the front of the face?; Gibbons sing their morning duet. Sing it too, then move ahead 1.; Question: why are many apes in danger?; HOME: the nest at the top of the tallest tree
+- **Printable answer sheet: Answers for the grown-up:** Square 3: no. Apes have no tail.; Square 6: a chimpanzee, a bonobo or a gorilla.; Square 9: the hoolock gibbon, in the forests of North-east India.; Square 11: Jane Goodall.; Square 14: nails.; Square 16: cousins. We and chimpanzees share an ancestor from long ago.; Square 18: a nest of branches and leaves.; Square 20: to judge how far away a branch is.; Square 22: their forests are being cut down.
+- **Printable tokens: A counter for each player:** Counter 1; Counter 2; Counter 3; Counter 4
+- **s1 (3 min)**  
+  *Parent does:* 1. Copy the squares onto a big sheet of paper in a winding path. 2. Give each player a counter. 3. Put the die in the middle. 4. Keep the answer sheet with the grown-up.  
+  *Parent says:* We are apes in a forest, heading for the nest at the top of the tallest tree.  
+  *Child mode:* Help draw the path. Put your counter on START.
+- **s2 (15 min)**  
+  *Parent does:* Play as the rules say. When a player answers a question, ask 'How do you know?' before the grown-up says if it is right.  
+  *Parent says:* Read your square. What does it say? How do you know?  
+  *Child mode:* Roll and move. Read your square aloud. Answer questions and do what the square says.
+  - Check: What is India's only ape? → **The hoolock gibbon**
+- **s3 (2 min)**  
+  *Parent does:* When someone reaches the nest, each player says one thing they learned from a square.  
+  *Parent says:* What was one thing you learned about apes in the game?  
+  *Child mode:* Say one thing the game taught you about apes.
 
 ## Experiments
 ### e1 · The Laugh Test: when you laugh, does the air go out or in? (20 min)
@@ -418,7 +437,7 @@ She thought about a chimpanzee mother, far away in a forest in Africa, parting h
 ## Worksheets
 ### Apes, Laughing and Grooming (core) (core, 11 questions)
 1. (mcq) In the laugh test, what did the tissue flag do while you laughed?  
-   Options: It blew away from my mouth / It was pulled into my mouth / It did not move  
+   Options: It was pulled into my mouth / It did not move / It blew away from my mouth  
    **Answer:** It blew away from my mouth. *Why:* Your laugh is many 'ha' sounds on one breath out, so the air pushed the flag away. A child who picks 'pulled into my mouth' may be thinking of the big gasp after a laugh. That gasp is a quiet breath in.
 2. (count) Here is a laugh: 'ha ha ha ha ha ha', all on one breath. How many 'ha' sounds are in it?  
    **Answer:** 6. *Why:* Count each 'ha': 1, 2, 3, 4, 5, 6. All six came on one breath out, as most human laughs do.
@@ -493,16 +512,16 @@ She thought about a chimpanzee mother, far away in a forest in Africa, parting h
 
 ## Quiz
 1. (mcq) Which of these is an ape?  
-   Options: Gorilla / Langur / Bonnet macaque  
+   Options: Langur / Bonnet macaque / Gorilla  
    **Answer:** Gorilla. *Why:* Gorillas have no tail, so they are apes. Langurs and bonnet macaques have long tails, so they are monkeys.
 2. (mcq) Are humans apes?  
    Options: Yes, humans are great apes / No, humans are monkeys / No, humans are not animals  
    **Answer:** Yes, humans are great apes. *Why:* Humans are animals and great apes, with no tail, like chimpanzees and gorillas. A child who picks 'not animals' may think people are separate from the other animals. But humans are one kind of animal among many.
 3. (mcq) How does a young chimpanzee laugh when tickled?  
-   Options: With a soft pant, breathing out and in / With no sound at all / Exactly like a person, 'ha ha ha'  
+   Options: With no sound at all / With a soft pant, breathing out and in / Exactly like a person, 'ha ha ha'  
    **Answer:** With a soft pant, breathing out and in. *Why:* A chimpanzee's laugh is a pant, with sound on the breath out and the breath in. Ours is many 'ha' sounds on one breath out.
 4. (mcq) Where do orangutans live in the wild?  
-   Options: Borneo and Sumatra, in Asia / Central Africa / The Himalayas  
+   Options: Central Africa / Borneo and Sumatra, in Asia / The Himalayas  
    **Answer:** Borneo and Sumatra, in Asia. *Why:* Orangutans live only in the forests of Borneo and Sumatra. Gorillas live in Central Africa, and no great ape lives wild in the Himalayas.
 5. (mcq) In which ape's groups do the females often lead?  
    Options: Bonobos / Gorillas / Orangutans  
@@ -511,7 +530,7 @@ She thought about a chimpanzee mother, far away in a forest in Africa, parting h
    Options: The baby holds on to her hair / She ties the baby on with leaves / The baby stays in the nest all day  
    **Answer:** The baby holds on to her hair. *Why:* A chimpanzee baby clings to the hair on the mother's belly, and later rides on her back. So her hands and feet stay free to climb.
 7. (mcq) About how long does a young orangutan stay with her mother?  
-   Options: About 7 or 8 years / About 1 month / About 1 year  
+   Options: About 1 month / About 7 or 8 years / About 1 year  
    **Answer:** About 7 or 8 years. *Why:* A young orangutan stays with her mother for about 7 or 8 years. In that time she learns how to live in the forest.
 8. (mcq) Two chimpanzees have just had a fight. What do they often do next?  
    Options: Hug and groom each other / Never meet again / Build a nest together  
@@ -520,7 +539,7 @@ She thought about a chimpanzee mother, far away in a forest in Africa, parting h
    Options: Their forests are being cut down / They eat too much fruit / They laugh too loudly  
    **Answer:** Their forests are being cut down. *Why:* Apes need big forests. Forests are cut down for farms, oil palm and wood, and some apes are hunted. That is why they are endangered.
 10. (mcq) A scientist watches wild chimpanzees for years. She sees them poke grass stems into termite mounds to pull termites out, and hug each other after a fight. What does this tell her?  
-   Options: They make and use tools, and have feelings / They only eat leaves / They live alone  
+   Options: They only eat leaves / They make and use tools, and have feelings / They live alone  
    **Answer:** They make and use tools, and have feelings. *Why:* Choosing and using a stem to catch termites is using a tool. Hugging after a fight shows feelings. Chimpanzees eat many foods and live in big groups.
 
 ## Applications
@@ -532,9 +551,9 @@ She thought about a chimpanzee mother, far away in a forest in Africa, parting h
 ## Spotted around us
 - Look at monkeys in a temple, a park or on a rooftop: langurs and macaques have long tails, so they are monkeys, not apes.
 - On a Sunday morning in many homes, someone oils and combs a child's hair, slowly and gently. That is grooming.
-- Mothers across India carry babies in a saree or a cloth sling, so their hands are free to work.
+- Mothers carry babies in a saree or a cloth sling, so their hands are free to work.
 - Watch a baby grip a grown-up's finger. Every human baby is born with this tight grip.
-- In the Hollongapar Gibbon Sanctuary near Jorhat, in Assam, hoolock gibbons sing in the trees in the early morning.
+- Gibbons in a zoo, hanging by their long arms from a branch. Look at their hands.
 
 ## Open questions
 - **Why did human laughter change to many 'ha' sounds on one breath out?** Some scientists think it came with better control of breathing for talking. Nobody knows for sure.
@@ -574,9 +593,12 @@ One Long Family, from the Sea to Me (sci.evolution.L2): Topic-level song for Evo
 - [Jane Goodall Institute](https://www.janegoodall.org) · interactive: Photos and stories of the chimpanzees of Gombe, and how people are protecting their forests. A grown-up can pick pages to look at together.
 - [Orangutan Foundation International](https://orangutan.org) · interactive: Biruté Galdikas's organisation in Borneo. It has photos and facts about orangutans and how rescued orphans are cared for.
 - [OneZoom tree of life explorer](https://www.onezoom.org) · interactive: A zoomable tree of all living beings. A grown-up can zoom in to the great apes and show how close humans sit to chimpanzees and bonobos.
-- [Hollongapar Gibbon Sanctuary]() · place · Jorhat, Assam: A forest sanctuary where hoolock gibbons, India's only apes, live wild. Go with a guide, early in the morning, to hear them sing. Check visiting times before you go.
+- Hollongapar Gibbon Sanctuary · place · Jorhat, Assam: A forest sanctuary where hoolock gibbons, India's only apes, live wild. Go with a guide, early in the morning, to hear them sing. Check visiting times before you go.
 
 ## Things to buy
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Where Apes Live: a map of ape homes. About ₹10 to ₹30. Any school ruler is fine. Used in p1. Get it before Where Apes Live: a map of ape homes.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in The Laugh Test: when you laugh, does the air go out or in?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e1. Get it before The Laugh Test: when you laugh, does the air go out or in?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, old1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Do apes have tails? → No. Monkeys mostly have tails, and apes have none.
@@ -589,12 +611,12 @@ One Long Family, from the Sea to Me (sci.evolution.L2): Topic-level song for Evo
 
 ## Plan
 - Start options: intro, e1, story, a1, g1, cards
-- Default order: intro → e1 → summary → terms → explanations → a1 → roots → quiz → story → g1 → ws-core → how_we_found_out → a2 → e2 → g2 → ws-stretch → a3 → p1 → c1 → agreed → challenging → ws-challenge → videos → big_questions → open_questions
+- Default order: intro → e1 → summary → terms → explanations → a1 → roots → quiz → story → g1 → ws-core → how_we_found_out → a2 → e2 → g2 → ws-stretch → a3 → p1 → c1 → agreed → challenging → ws-challenge → videos → big_questions → open_questions → old1
 - Core: e1, a1, g1, ws-core
 
 ## Sources
-- ideas/by_topic/our-closest-cousins.md: the Jane Goodall SCI card (tools, naming the chimpanzees instead of numbering them, her feelings for them being attacked, and the line between humans and other animals being thinner than people thought). Used in the explanation of ape minds, the agreed card on tools and the quiz. The termite-fishing discovery story is already told in sci.classification.sorting-living-things.L2, so this unit's true story is Dian Fossey's gorillas instead.
-- This unit has no level below it. It leads on to sci.evolution.closest-cousins.L5 (DNA, culture, Jane Goodall in depth, 'are we special?'). It does not repeat the experiments of sci.animals.animal-minds.L3 (mirror and crow tests), sci.animal-behaviour.animal-learning.L3 (copying a puzzle box) or sci.evolution.inheritance.L2 (practice test).
+- ideas/by_topic/our-closest-cousins.md: the Jane Goodall SCI card (tools, naming the chimpanzees instead of numbering them, her feelings for them being attacked, and the line between humans and other animals being thinner than people thought). Used in the explanation of ape minds, the agreed card on tools and the quiz. The termite-fishing discovery story is already told in sci.classification.sorting-living-things.L2, so this lesson's true story is Dian Fossey's gorillas instead.
+- This lesson has no level below it. It leads on to sci.evolution.closest-cousins.L5 (DNA, culture, Jane Goodall in depth, 'are we special?'). It does not repeat the experiments of sci.animals.animal-minds.L3 (mirror and crow tests), sci.animal-behaviour.animal-learning.L3 (copying a puzzle box) or sci.evolution.inheritance.L2 (practice test).
 - Galdikas, B. M. F. (1995). Reflections of Eden: My Years with the Orangutans of Borneo. Little, Brown. She began her orangutan study at Tanjung Puting, Borneo, in 1971 (Orangutan Foundation International; Encyclopaedia Britannica).
 - Davila Ross, M., Owren, M. J. and Zimmermann, E. (2009). Reconstructing the evolution of laughter in great apes and humans. Current Biology 19: 1106-1111.
 - Provine, R. R. (2000). Laughter: A Scientific Investigation. Viking. (Chimpanzee laughter as panting on the breath out and in, human laughter on one breath out.)

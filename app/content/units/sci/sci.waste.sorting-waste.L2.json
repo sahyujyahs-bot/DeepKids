@@ -654,11 +654,11 @@
       "t": "mcq",
       "q": "Why does every piece get the same book and the same time?",
       "options": [
-       "So the test is fair, and only the kind of waste is different",
        "Because we have only one book",
-       "So the napkins do not blow away"
+       "So the napkins do not blow away",
+       "So the test is fair, and only the kind of waste is different"
       ],
-      "a": 0,
+      "a": 2,
       "why": "If one piece were pressed longer or harder, it might leave a bigger mark only because of that. With the same book and time, any difference comes from the waste."
      }
     },
@@ -1188,11 +1188,11 @@
      "t": "mcq",
      "p": "In the Napkin Press Test, which piece left no wet mark but still goes in the wet bin?",
      "opts": [
-      "The banana peel",
       "The dry onion skin",
+      "The banana peel",
       "The plastic wrapper"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The onion skin is dry, so it left the napkin clean. But it rots, so it goes in the wet bin. The plastic wrapper also left no mark, but it does not rot, so it goes in the dry bin.",
      "context": "This question is about the Napkin Press Test. You press peels, shells, packets and paper between paper napkins under a heavy book, and look for wet marks.",
      "how": "e1"
@@ -1283,11 +1283,11 @@
      "t": "mcq",
      "p": "Where does sorted wet waste go in many cities?",
      "opts": [
-      "To a compost place, where it turns into soil",
       "Into the sea",
+      "To a compost place, where it turns into soil",
       "To a shop to be sold"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Wet waste rots, so it can be made into compost for plants. Picking 'a shop' mixes it up with dry waste, which can be sold."
     },
     {
@@ -1336,11 +1336,11 @@
      "t": "mcq",
      "p": "On the Hanger Balance, the small wet bag went down and the big dry bag went up. Why?",
      "opts": [
-      "The wet bag was heavier, because peels and food hold water",
       "The big bag was heavier",
-      "The hanger was broken"
+      "The hanger was broken",
+      "The wet bag was heavier, because peels and food hold water"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A hanger tips towards the heavier side. Packets are big but light. Picking 'the big bag' may mean thinking bigger is always heavier.",
      "context": "This question is about the Hanger Balance. You hang one meal's wet waste and dry waste from the two ends of a clothes hanger, and see which side goes down.",
      "how": "e2"
@@ -1490,11 +1490,11 @@
    "t": "mcq",
    "p": "You have a milk packet with milk still inside. What should you do?",
    "opts": [
-    "Rinse it, dry it, and put it in the dry bin",
     "Put it in the wet bin, because it is wet",
+    "Rinse it, dry it, and put it in the dry bin",
     "Put it in the dry bin with the milk inside"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The packet is plastic, so it is dry waste. Rinsing stops the milk from spoiling the paper in the dry bin.",
    "outcome": 1
   },
@@ -1502,11 +1502,11 @@
    "t": "mcq",
    "p": "In the Napkin Press Test, which piece usually leaves a wet mark?",
    "opts": [
-    "The newspaper",
     "The banana peel",
+    "The newspaper",
     "The dry leaf"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A peel is full of water, so it wets the napkin. Paper and dry leaves leave it clean.",
    "outcome": 2,
    "how": "e1"
@@ -1515,11 +1515,11 @@
    "t": "mcq",
    "p": "In the Napkin Press Test, the dry onion skin left no wet mark, but it goes in the wet bin. What does this tell us?",
    "opts": [
-    "A wet mark does not decide the bin. Whether it rots does.",
     "The onion skin goes in the dry bin",
+    "A wet mark does not decide the bin. Whether it rots does.",
     "The test went wrong"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The onion skin is dry, but it rots. So the napkin mark does not tell us the bin.",
    "outcome": 2,
    "how": "e1"
@@ -1528,11 +1528,11 @@
    "t": "mcq",
    "p": "On the Hanger Balance, which side goes down?",
    "opts": [
-    "The heavier bag",
     "The bigger bag",
-    "The bag with more colours"
+    "The bag with more colours",
+    "The heavier bag"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A hanger balance tips towards the heavier side. A big bag can be light.",
    "outcome": 3,
    "how": "e2"
@@ -1554,11 +1554,11 @@
    "t": "mcq",
    "p": "Where does sorted dry waste go in many cities?",
    "opts": [
-    "To a sorting shed, then to be made into new things",
     "To a compost place",
-    "Into a river"
+    "Into a river",
+    "To a sorting shed, then to be made into new things"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Workers sort dry waste into paper, plastic, glass and metal, and sell it to be recycled.",
    "outcome": 4
   },
@@ -1566,11 +1566,11 @@
    "t": "mcq",
    "p": "Where does mixed waste often end up?",
    "opts": [
-    "At a dump",
     "In the compost place",
+    "At a dump",
     "Back in our home"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Mixed waste is hard to compost or recycle, so it often goes to a dump.",
    "outcome": 4
   },
@@ -1578,11 +1578,11 @@
    "t": "mcq",
    "p": "You guess that the tea leaves will leave a wet mark on the napkin. What should you do next?",
    "opts": [
-    "Test it, and see if you were right",
     "Change your guess to be safe",
-    "Ask someone else to guess"
+    "Ask someone else to guess",
+    "Test it, and see if you were right"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A guess with a reason is a good start. The test tells us what really happens.",
    "outcome": 5
   }
@@ -1755,7 +1755,32 @@
    "why": "If your city has one, a short visit with a grown-up shows where the blue bin goes and who sorts it."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-chart-waste",
+   "item": "Chart paper, two sheets",
+   "kind": "material",
+   "why": "The bin labels are drawn on it so that everyone at home can read them. About ₹10 to ₹25 a sheet at a stationery shop. Thick card from an old cardboard box is the household alternative.",
+   "url": "https://www.amazon.in/s?k=chart+paper",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Buy it before the bin label challenge."
+  },
+  {
+   "id": "b-print-waste",
+   "item": "Printed pages for the game board, waste cards and worksheets, about 12 pages",
+   "kind": "material",
+   "why": "The board game needs a printed board of 12 squares and 20 waste cards, and the worksheets are printed too. A copy shop charges about ₹1 to ₹2 a page, so the set costs about ₹12 to ₹25.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch"
+   ],
+   "plan": "Print these before the board game."
+  }
+ ],
  "warmup": [
   {
    "q": "What is wet waste?",

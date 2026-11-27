@@ -432,11 +432,11 @@
       "t": "mcq",
       "q": "The keys went round in a circle on the string. What did you see from the side, with your eyes low?",
       "options": [
-       "A circle",
        "Back and forth, like a swing",
+       "A circle",
        "The keys stood still"
       ],
-      "a": 1,
+      "a": 0,
       "why": "From the side you see the keys move only left and right, so a round path looks like back and forth."
      },
      "think": "Where else might something going round look like it goes back and forth?"
@@ -692,10 +692,10 @@
       "q": "Water falls from a tap into a bucket. What path does the water take?",
       "options": [
        "Round",
-       "Back and forth",
-       "Straight"
+       "Straight",
+       "Back and forth"
       ],
-      "a": 2,
+      "a": 1,
       "why": "Water falls down along a straight line, so it moves straight."
      }
     }
@@ -864,11 +864,11 @@
       "t": "mcq",
       "q": "A ruler moves back and forth very fast and buzzes. What is that called?",
       "options": [
-       "Vibrating",
        "Rolling",
+       "Vibrating",
        "Going straight"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Moving back and forth very fast is called vibrating."
      }
     }
@@ -1008,11 +1008,11 @@
       "t": "mcq",
       "q": "An oar pushes a boat through the water, again and again. What path does the oar take?",
       "options": [
+       "Back and forth",
        "Straight",
-       "Round",
-       "Back and forth"
+       "Round"
       ],
-      "a": 2,
+      "a": 0,
       "why": "The oar goes one way through the water, then comes back for the next stroke, so it moves back and forth."
      }
     }
@@ -1146,11 +1146,11 @@
       "t": "mcq",
       "q": "A fish swims to the top of the pond for food. What starts the fish moving?",
       "options": [
-       "The fish, on her own",
        "A push from the wind",
+       "The fish, on her own",
        "A motor"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A fish moves on her own, using her fins and tail and the energy from her food."
      },
      "ask": [
@@ -1297,11 +1297,11 @@
       "t": "mcq",
       "q": "You turn the cup so the seedlings lean away from the window. What happens the next day?",
       "options": [
-       "They lean back towards the window",
        "They stay leaning away",
+       "They lean back towards the window",
        "They fall over"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Seedlings bend towards the light by themselves, so they turn back towards the window."
      }
     }
@@ -1838,11 +1838,11 @@
    "t": "mcq",
    "p": "Which of these moves in a straight line?",
    "opts": [
-    "A lift going up",
     "A ceiling fan",
-    "A swing"
+    "A swing",
+    "A lift going up"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A lift moves along a straight line. A fan goes round, and a swing goes back and forth.",
    "outcome": 0
   },
@@ -1850,11 +1850,11 @@
    "t": "mcq",
    "p": "Which of these goes round?",
    "opts": [
+    "A potter's wheel",
     "A drawer",
-    "A toothbrush",
-    "A potter's wheel"
+    "A toothbrush"
    ],
-   "a": 2,
+   "a": 0,
    "why": "A potter's wheel turns round its middle.",
    "outcome": 0
   },
@@ -1863,10 +1863,10 @@
    "p": "A cradle rocks in the hall. What path does it take?",
    "opts": [
     "Straight",
-    "Back and forth",
-    "Round"
+    "Round",
+    "Back and forth"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A cradle goes one way, then back again, over and over.",
    "outcome": 0
   },
@@ -1874,11 +1874,11 @@
    "t": "mcq",
    "p": "A girl walks straight down the corridor. What path do her arms take?",
    "opts": [
-    "Back and forth",
     "Round",
+    "Back and forth",
     "They stay still"
    ],
-   "a": 0,
+   "a": 1,
    "why": "While she walks straight, her arms swing back and forth. One body can move in two paths at once.",
    "outcome": 1
   },
@@ -1886,11 +1886,11 @@
    "t": "mcq",
    "p": "An auto goes along a straight road. What do its wheels do?",
    "opts": [
+    "They go round",
     "They go back and forth",
-    "They stay still",
-    "They go round"
+    "They stay still"
    ],
-   "a": 2,
+   "a": 0,
    "why": "The auto goes straight while each wheel goes round its middle.",
    "outcome": 1
   },
@@ -1898,11 +1898,11 @@
    "t": "mcq",
    "p": "A gecko sits on the wall, level with a ceiling fan. The fan blades go round. What path do the blades seem to take to the gecko?",
    "opts": [
-    "A bigger circle",
     "Back and forth",
+    "A bigger circle",
     "The blades seem to stand still"
    ],
-   "a": 1,
+   "a": 0,
    "why": "From the side, the gecko sees each blade move only left and right, so a round path looks like back and forth.",
    "outcome": 2,
    "how": "e1"
@@ -1912,10 +1912,10 @@
    "p": "Which of these starts moving with no push or pull?",
    "opts": [
     "A football",
-    "A curtain",
-    "A crow"
+    "A crow",
+    "A curtain"
    ],
-   "a": 2,
+   "a": 1,
    "why": "A crow starts and stops by herself. A football and a curtain need a push from a foot or the wind.",
    "outcome": 3
   },
@@ -1948,11 +1948,11 @@
    "t": "mcq",
    "p": "You guess that the keys will look round from every side. What should you do next?",
    "opts": [
-    "Test it by looking from the side",
     "Ask a friend and believe them",
-    "Give up"
+    "Give up",
+    "Test it by looking from the side"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A guess is checked by a test. You can lie down and look at the keys from the side.",
    "outcome": 5,
    "how": "e1"
@@ -2126,7 +2126,68 @@
    "why": "A science museum with a planetarium, good for seeing how the Moon and planets go round."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Buzz the Ruler: back and forth too fast to see, Draw a Round Path Without Tracing. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "a3",
+    "c1"
+   ],
+   "plan": "Get it before Buzz the Ruler: back and forth too fast to see."
+  },
+  {
+   "id": "b-cotton-wool",
+   "item": "Cotton wool",
+   "kind": "material",
+   "why": "Used in The Seedlings Who Lean to the Light. About ₹20 to ₹50. Torn clean cloth works.",
+   "url": "https://www.amazon.in/s?k=cotton+wool+roll",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before The Seedlings Who Lean to the Light."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in The Seedlings Who Lean to the Light. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before The Seedlings Who Lean to the Light."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in The Seedlings Who Lean to the Light. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before The Seedlings Who Lean to the Light."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "Name the three paths things move in.",

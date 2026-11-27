@@ -1,9 +1,9 @@
 # Soil, water and crops: how soil holds water for roots, and why a field of beans feeds the next crop
 `sci.planet-earth.soil-and-crops.L4`
 
-**Summary.** Water climbs up through dry sand and fine soil against gravity, but at very different speeds. Why? In this unit you will feel and squeeze wet soils, time how fast water rises in gravel, sand and fine soil, and test whether a cover of dry leaves keeps soil damp.
+**Summary.** Water climbs up through dry sand and fine soil against gravity, but at very different speeds. Why? In this lesson you will feel and squeeze wet soils, time how fast water rises in gravel, sand and fine soil, and test whether a cover of dry leaves keeps soil damp.
 
-**Intro.** *Dip the corner of a dry cloth into a bowl of water and leave it. Slowly the water climbs up the cloth, with nobody pushing it. Soil does the same thing. So why does the top of a bare pot dry out in a day, while the soil under a layer of straw stays damp?* Water can climb through soil because of the tiny gaps between the grains. How high it climbs depends on how small the grains are. In this unit you measure the climb in gravel, sand and fine soil. You find out what salt does to seeds, and how a cover of leaves saves water. Then you meet the bean plant and the bacteria in her roots, who together pull nitrogen out of the air and leave a field richer than before. You also learn why farmers across India grow a pulse, such as moong, after rice.
+**Intro.** *Dip the corner of a dry cloth into a bowl of water and leave it. Slowly the water climbs up the cloth, with nobody pushing it. Soil does the same thing. So why does the top of a bare pot dry out in a day, while the soil under a layer of straw stays damp?* Water can climb through soil because of the tiny gaps between the grains. How high it climbs depends on how small the grains are. In this lesson you measure the climb in gravel, sand and fine soil. You find out what salt does to seeds, and how a cover of leaves saves water. Then you meet the bean plant and the bacteria in her roots, who together pull nitrogen out of the air and leave a field richer than before. You also learn why farmers across India grow a pulse, such as moong, after rice.
 
 ## Learning outcomes
 0. I can explain why sand drains fast, clay holds water and loam does both well, using the size of the grains and the gaps between them.
@@ -17,6 +17,7 @@
 ## Terms
 - **Texture**: How coarse or fine a soil feels, decided by how much sand, silt and clay it has. *e.g.* A soil that feels gritty has a sandy texture. A soil that feels sticky when wet has a clayey texture.
 - **Loam**: A soil with a good mix of sand, silt, clay and humus. Humus is the dark, crumbly part of soil that comes from rotted leaves and roots. Loam drains well and still holds water that roots can use. *e.g.* Many vegetable gardens and fruit orchards are planted in loam.
+- **Topsoil**: The dark top layer of soil. It holds the most humus, roots and living things, so it is the richest layer for a crop. *e.g.* Rain can wash topsoil off a bare field. A cover of straw or plants holds it in place.
 - **Pore**: A tiny gap between the grains in soil. Pores hold air and water. *e.g.* When you pour water on dry soil, bubbles pop out of the pores.
 - **Drainage**: How fast extra water runs down and out of soil. *e.g.* Water runs out of a sandy pot in seconds, but a clayey pot stays wet for hours.
 - **Capillary rise**: The climbing of water up through very narrow gaps, such as the gaps between soil grains or the threads of a cloth. *e.g.* Tea climbs up a sugar cube dipped in it, and oil climbs up the wick of a lamp.
@@ -33,8 +34,17 @@
 - **Salinity**: How much salt there is in soil or water. *e.g.* Seawater has high salinity. Rainwater has almost none.
 - **Acidic and alkaline**: Words for two opposite kinds of liquid or soil. Vinegar is acidic. Baking soda in water is alkaline. A soil may be one or the other, or neither. *e.g.* Tea grows best in acidic soil, and many chalky soils are alkaline.
 - **Intercropping**: Growing two or more crops together in the same field in the same season. *e.g.* Many farmers in Karnataka grow ragi with a row of red gram in between.
+- **Alluvial soil**: A rich soil of sand, silt and clay that rivers carry down and leave on their plains and deltas. *e.g.* The wheat and rice fields of the Ganga plain grow on alluvial soil.
+- **Weed**: A plant that grows where the farmer did not plant it, and takes water, nutrients and light from the crop. *e.g.* A farmer cuts weeds from between the rows of young wheat with a khurpi.
 
 ## Explanations
+### What soil is made of: topsoil, and the parts of a sample · *defined*
+**Definition:** Soil is a mix of tiny bits of rock, rotted leaves and roots, water, air and living things. The dark top layer, called topsoil, is where most roots grow.
+
+Pick up a handful of garden soil. It looks like one thing, but it is a mix. There are grains of broken rock: sand, silt and clay, from biggest to smallest. There is humus, the dark, crumbly part made of rotted leaves and roots. There are gaps with water and air in them. There are also living beings: worms, tiny insects, fungi and bacteria. They feed on dead leaves and roots, and they turn them into nutrients that plants can use. The top layer is called topsoil. It is darker than the soil below because it holds the most humus. Most roots, worms and microbes live in it, so it is the richest layer for a crop. It can take hundreds of years to make a thin layer of topsoil, and rain and wind can carry it off a bare field. That is why mulch and plant cover matter. Below it, the subsoil is paler, harder and has less humus. You can split a handful of soil into its parts. Shake it in a jar of water and leave it. Heavy sand grains sink in a minute. Silt settles over some hours. Clay is so fine that the water stays cloudy for a day or more. Bits of humus and dead leaves float.
+- e.g. Soil shaken in a jar and left to settle makes layers: sand at the bottom, then silt, then cloudy clay water, with leaf bits floating on top.
+- e.g. A new road cutting shows dark topsoil on top and paler subsoil below it.
+- e.g. An earthworm in garden soil eats dead leaves and leaves behind crumbly soil full of nutrients.
 ### Texture decides how soil behaves with water · *defined*
 **Definition:** A soil's texture is how much sand, silt and clay it has. The size of the grains decides how much water the soil holds and how fast it lets go.
 
@@ -95,6 +105,13 @@ A tall crop and a short crop use light at different heights. A deep-rooted crop 
 - e.g. Maize, beans and squash planted together by the Haudenosaunee.
 - **Many traditional farmers and some researchers:** A mixed field is steadier. If rain fails or a pest strikes one crop, the others still give a harvest.
 - **Some modern agricultural economists:** One crop in a field is easier to plough, sow and harvest with machines, and gives a bigger harvest of that crop. Mixed fields can give a smaller total for the work, unless the farmer plans them well.
+### Weeds: plants that take from the crop · *defined*
+**Definition:** A weed is a plant growing where the farmer did not plant it. Weeds take water, nutrients and light from the crop, so farmers remove them early.
+
+A weed seed sprouts in the same wet, rich soil as a crop seed, and its roots drink the same water. In a weedy field the crop has to share its water and nutrients, so it grows weak and gives less grain. Young crops suffer most, because they are small and weeds grow fast. So farmers weed early, a few weeks after sowing. They pull weeds by hand, or cut them with a khurpi or a hoe. A cover of straw keeps weeds down too, because it shades the ground. Water also needs care. A farmer who waters along each row, or at each plant, feeds the crop's roots and leaves the weeds between the rows dry. Too much water wastes it and can drown roots. 'Weed' tells us where a plant is, not what it is. Bathua grows wild in wheat fields, and many families eat it as a green. The same plant is a weed to the farmer and a meal to the family.
+- e.g. A farmer bends over a young wheat field with a khurpi, cutting weeds between the rows.
+- e.g. A mulch of straw between vegetable rows keeps the weeds down and the soil damp.
+- e.g. Bathua, a weed in a winter wheat field, is cooked as saag in many homes.
 ### Salt in the soil · *defined*
 **Definition:** Water used on fields carries a little salt. When the water evaporates or is taken up by plants, the salt is left behind and builds up in the soil.
 
@@ -109,6 +126,14 @@ How acidic or alkaline a soil is gets measured on the pH scale, which runs from 
 - e.g. Tea gardens in the Nilgiris and Assam grow on acid soils.
 - e.g. Red cabbage water turns pink with vinegar and green-blue with baking soda, and can be used to compare soils.
 - e.g. A farmer spreads lime on an acid field before sowing.
+### Soils of India and the crops they suit · *defined*
+**Definition:** Different soils suit different crops. Clay holds water for long, sandy soil lets it run away, alluvial soil is a mix that suits most crops, and acidic soil is poor until it is cared for.
+
+Clay soil holds water for a long time and drains slowly. Rice grows with its roots in standing water, and sugarcane needs a lot of water. Both do well in clay. Sandy soil drains fast. Its loose grains are easy for tubers and pods to push through. Groundnut, melon and potato grow well in it. Alluvial soil is carried down by rivers and left on their plains and deltas. It is a mix of sand, silt and clay, with minerals washed down from the mountains. The Ganga plain and the Brahmaputra valley have it. It suits most crops, such as rice, wheat, sugarcane, pulses and vegetables. Acidic soil, like the red laterite soil of Kerala, is poor in nutrients, because heavy rain washes them away. Many crops do badly in it. A farmer can spread lime to cancel some of the acid, and add compost to bring back humus. Real fields are mixes, so these are rough guides. A farmer's own years of knowing the field count too.
+- e.g. Rice and sugarcane in heavy clay soil.
+- e.g. Groundnut and watermelon on the sandy bank of a river.
+- e.g. Wheat fields on the alluvial plain of Punjab and Uttar Pradesh.
+- e.g. A farmer in Kerala spreads lime and compost on red acidic soil before sowing.
 ### Who is in charge of the trade between a bean and her bacteria? · *debated*
 The bean gives sugar. The bacteria give nitrogen. But what happens when some bacteria give less than others? In 2003, researchers reported that soybean plants seemed to punish nodules that fixed little nitrogen, perhaps by cutting their oxygen supply, and those bacteria did less well. Many biologists say this shows the plant punishing bacteria that cheat. Others say there is no plan behind it. The plant simply gives more oxygen and sugar to the nodules that are working, because of the way the nodule is built. Some scientists point out that the bacteria also change their behaviour, and that bacteria in the soil sense chemicals and choose where to swim. So the trade may be steered from both sides. Nobody has settled how much choice each side has.
 - e.g. A soybean nodule that fixes less nitrogen gets less oxygen.
@@ -159,7 +184,7 @@ The Haber-Bosch process breaks the strong bond in nitrogen gas using high pressu
   Against: In dry regions, a fallow season lets rain water build up in the soil. It also lets weeds be ploughed in and pest cycles break. But a bare fallow is open to erosion, so it works best with a cover of plants or stubble. Where land is scarce, rotation with a pulse is often used in its place.
 
 ## Roots
-In this unit water climbs through soil, a cover of leaves saves water, and bacteria live in a bean's roots. Now we look at what a bean, a field and a bag of urea show about how living things get their food.
+In this lesson water climbs through soil, a cover of leaves saves water, and bacteria live in a bean's roots. Now we look at what a bean, a field and a bag of urea show about how living things get their food.
 
 **Deep truth.** Beans do not only take from a field. Tiny bacteria in swellings on their roots pull nitrogen out of the air, and the bean pays them in sugar. So a bean's food is made by two kinds of life working together. That is why a field can end a season richer than it began.  
 *Habit it breaks:* We think of a plant as one being on her own, and of soil as a bank that she empties and a farmer refills. A nodule is part bean and part bacteria, and the giving goes both ways.  
@@ -171,7 +196,7 @@ In this unit water climbs through soil, a cover of leaves saves water, and bacte
 
 The nitrogen in the air, the sugar in a bean leaf, the bacteria in a root and the dal on your plate look like four separate things. They are steps in one chain. Sunlight makes the sugar, the sugar pays the bacteria, the bacteria turn air into protein, and a family eats the protein. Then bodies and roots and leaves return the nitrogen to the soil, and the chain begins again. No step in the chain can do it alone.
 
-- **Bhagavad Gita 3.14:** “अन्नाद्भवन्ति भूतानि पर्जन्यादन्नसम्भवः। / यज्ञाद्भवति पर्जन्यो यज्ञः कर्मसमुद्भवः।।” From food, living beings come into being. From rain, food is born. (The verse follows the chain backwards from the body to the rain. This unit adds two more links in the chain: the soil that holds the rain, and the bacteria that put nitrogen into the food.)
+- **Bhagavad Gita 3.14:** “अन्नाद्भवन्ति भूतानि पर्जन्यादन्नसम्भवः। / यज्ञाद्भवति पर्जन्यो यज्ञः कर्मसमुद्भवः।।” From food, living beings come into being. From rain, food is born. (The verse follows the chain backwards from the body to the rain. This lesson adds two more links in the chain: the soil that holds the rain, and the bacteria that put nitrogen into the food.)
 - **Tao Te Ching 78:** “天下莫柔弱於水，而攻堅強者，莫之能勝，其無以易之。” Nothing in the world is softer or weaker than water, yet nothing is better at wearing down the hard and the strong. (Water is soft, yet it climbs through a cup of fine grains against gravity, and it dissolves the salt and the nutrients that roots need.)
 - **Avatamsaka Sutra, the image of Indra's net:** Every jewel in a great net reflects every other jewel, so each one holds all the others. (A nodule is a place where a plant, bacteria, the air and the Sun all meet. The nodule works, and is pink inside, only when all four are there.)
 - Science (settled): Bacteria in the root nodules of legumes change nitrogen gas into ammonia, and the plant pays them with sugar.
@@ -573,6 +598,25 @@ Murugan Mama took a handful of ulundu seeds from Paati's tin. He said they were 
   *Child mode:* Test the soil water and the ash water. Compare the colours.
   - Note: Garden soil water usually stays close to purple, and may lean a little pink or blue. Ash water turns the liquid green or blue-green, because wood ash is alkaline. Some school chalk is gypsum, which is nearly neutral, so chalk water may show little change: if so, say so, and use ash. A soil that fizzes with vinegar has chalk in it. If your soil water changes colour a little, say which side it leans towards.
   - Check: The ash water turns the purple liquid blue-green. What does this tell you? → **Ash is alkaline**
+### a7 · Soil in a Jar and the Pour Test: what is in soil, and which soil holds water? (25 min, 2 days)
+- **safety:** A grown-up pokes the holes in the cups. Do not put soil or water from the jar in your mouth. Wash hands with soap after touching soil.
+- **record:** A drawing of the jar after one minute and after one day, with the parts named. A small table showing how much water ran through the sand and through the garden soil.
+- **schedule:** day 1: Shake garden soil in a jar of water and watch it settle. Then do the pour test on garden soil and sand. (20 min); day 2: Look at the jar again and mark the layers. (5 min)
+- **s1 (6 min)**  
+  *Parent does:* Fill the jar one-third with garden soil. Add water until it is nearly full. Put the lid on and shake hard for a minute. Put the jar down and do not touch it. Mark the level of the settled soil with a pen after one minute.  
+  *Parent says:* Soil looks like one thing, but let's split it into its parts. Shake the jar, then watch what sinks first.  
+  *Child mode:* Shake the jar. Put it down. After one minute, what has sunk to the bottom?
+  - Note: After about a minute, the heavy sand sinks. Silt settles over some hours. Clay is so fine that the water stays cloudy for a day or more. Dark bits of humus and dead leaves float. Mark each layer with a pen as it appears. Two to four children: each child shakes their own jar of a different soil, if you have more than one, and compares.
+- **s2 (4 min)**  
+  *Parent does:* Look at the jar again the next morning. Draw the layers and name each one: sand, silt, clay water, and floating humus.  
+  *Parent says:* Look at the jar now. Which layer is thickest? Where is the dark humus?  
+  *Child mode:* Draw the layers in the jar. Name each one.
+  - Check: In the jar, the layer at the very bottom is made of the biggest grains. What is it? → **Sand**
+- **s3 (10 min)**  
+  *Parent does:* 1. Half fill one cup with sand and the other with garden soil. 2. Stand each cup over a glass. 3. Pour 100 millilitres of water slowly onto the sand. 4. Wait five minutes. 5. Measure the water in the glass. 6. Do the same with the garden soil.  
+  *Parent says:* Which soil holds on to the water, and which lets it run through? Let's measure what comes out.  
+  *Child mode:* Pour 100 millilitres onto each soil. Wait. Measure what drips into the glass. Which soil held more water?
+  - Note: Sand lets most of the water run through, often 80 millilitres or more. Garden soil holds back more, so less runs out. The less that drips out, the more water the soil holds. The numbers change from soil to soil, so compare your own two cups.
 
 ## Projects
 ### p1 · Bean Before Methi: does a pot that grew moong feed the next crop? (60 min, 43 days)
@@ -664,45 +708,51 @@ Murugan Mama took a handful of ulundu seeds from Paati's tin. He said they were 
   - Think: Why would a real farmer's plan be harder than this game?
 
 ## Worksheets
-### Water, Gaps and Beans (core) (core, 16 questions)
+### Water, Gaps and Beans (core) (core, 19 questions)
 1. (mcq) Which of these soils holds the most water and drains the slowest?  
    Options: Sand / Clay / Gravel  
    **Answer:** Clay. *Why:* Clay has the finest grains, so it has the most grain surface for water to cling to and the tiniest gaps. Water drains from it very slowly. Sand and gravel have big gaps and let water run through.
-2. (fill) Water climbing up through the narrow gaps in soil is called capillary ____.  
+2. (fill) The dark top layer of soil, where most roots and worms live, is called ____.  
+   **Answer:** ['topsoil']. *Why:* Topsoil holds the most humus, so it is dark and rich. Below it is the paler subsoil.
+3. (fill) Water climbing up through the narrow gaps in soil is called capillary ____.  
    **Answer:** ['rise']. *Why:* Capillary rise is the climb of water through very narrow gaps against gravity, as in a wick or a cloth.
-3. (mcq) Water climbed about 1 centimetre in a cup of gravel and nearly to the top of a cup of sand. Why did gravel lift the water so little?  
-   Options: Gravel is heavier than sand / The gaps in gravel are too wide to pull the water up far / Gravel is dry inside  
+4. (mcq) Water climbed about 1 centimetre in a cup of gravel and nearly to the top of a cup of sand. Why did gravel lift the water so little?  
+   Options: Gravel is heavier than sand / Gravel is dry inside / The gaps in gravel are too wide to pull the water up far  
    **Answer:** The gaps in gravel are too wide to pull the water up far. *Why:* Water is lifted by its stickiness to the grains at the edge of a gap. In very wide gaps most of the water is far from any grain, so the pull is weak. Weight is not what matters.
-4. (truefalse) A cover of dry leaves on top of a pot makes the soil under it lose water faster.  
+5. (truefalse) A cover of dry leaves on top of a pot makes the soil under it lose water faster.  
    **Answer:** False. *Why:* False. The leaves shade the soil and block the wind, so less water evaporates. That is why farmers spread straw as mulch.
-5. (match) Match each word to what it means.  
+6. (match) Match each word to what it means.  
    **Answer:** Loam → a soil with some sand, silt, clay and humus; Mulch → a cover of straw or leaves laid on soil; Legume → a plant from the bean family; Fallow → a field left to rest for a season; Nodule → a swelling on a root where helper bacteria live. *Why:* These five words are used all through the unit.
-6. (sort) Sort these crops by what they do to the nitrogen in a field.  
+7. (sort) Sort these crops by what they do to the nitrogen in a field.  
    **Answer:** rice → Takes a lot of nitrogen; groundnut → Brings nitrogen in; wheat → Takes a lot of nitrogen; moong → Brings nitrogen in; maize → Takes a lot of nitrogen; chana → Brings nitrogen in. *Why:* Rice, wheat and maize are cereals that need a lot of nitrogen. Groundnut, moong and chana are legumes with nitrogen-fixing bacteria in their roots.
-7. (write) A pot of pure sand needs watering much more often than a pot of garden soil. Explain why, using what you know about grains and gaps.  
+8. (write) A pot of pure sand needs watering much more often than a pot of garden soil. Explain why, using what you know about grains and gaps.  
    **Answer:** Sand has big grains with big gaps, and the water runs straight through. Little clings to the grains. Garden soil has finer grains and humus, which hold water in thin films and in the gaps.. *Why:* A strong answer links the size of the grains and gaps to how much water is held and how fast it drains.
-8. (mcq) A rice field has pale yellow leaves. Which nutrient is it most likely short of?  
+9. (mcq) A rice field has pale yellow leaves. Which nutrient is it most likely short of?  
    Options: Nitrogen / Salt / Sand  
    **Answer:** Nitrogen. *Why:* Nitrogen builds leaf proteins and chlorophyll, so a shortage gives pale yellow leaves. Salt is not a nutrient plants need in large amounts, and sand is not a nutrient.
-9. (label) Label this drawing of a bean root: main root, nodule, soil, arrow of nitrogen from the air, arrow of sugar from the leaf.  
+10. (label) Label this drawing of a bean root: main root, nodule, soil, arrow of nitrogen from the air, arrow of sugar from the leaf.  
    **Answer:** The main root runs down through the soil. Round nodules sit on the side roots. An arrow of nitrogen runs from the air through the soil to the nodule. An arrow of sugar runs from the leaf down to the nodule.. *Why:* The nodule is where the two arrows meet. The bacteria receive sugar and give nitrogen.
-10. (fill) Urea has 46 per cent nitrogen, so 100 kilograms of urea holds ____ kilograms of nitrogen.  
+11. (fill) Urea has 46 per cent nitrogen, so 100 kilograms of urea holds ____ kilograms of nitrogen.  
    **Answer:** ['46']. *Why:* 46 per cent means 46 parts in every 100. In 100 kilograms of urea, 46 kilograms is nitrogen.
-11. (draw) Draw your Salty Seeds test on day 3. Show the four saucers and how many seeds sprouted in each.  
+12. (draw) Draw your Salty Seeds test on day 3. Show the four saucers and how many seeds sprouted in each.  
    **Answer:** Four saucers in a row. The plain saucer has the most sprouted seeds, the pinch of salt saucer has a few less, the half spoon saucer has very few and the one spoon saucer has none.. *Why:* A strong drawing shows the number of sprouts falling as the salt rises.
-12. (mcq) A white crust of salt forms on the top of a dry field that has been watered for many years. Where did the salt come from?  
-   Options: It was in the irrigation water, and stayed behind when the water evaporated / It fell from the sky in the rain / It was made by the roots of the crop  
+13. (draw) Draw your Soil Jar after one minute and after one day. Show the layers and label sand, silt, clay and humus.  
+   **Answer:** A jar with sand at the bottom, silt above it, cloudy clay water above that, and leaf bits floating on top. After one day the water is clearer.. *Why:* A strong drawing shows the biggest grains at the bottom and the finest grains settling last, with humus floating.
+14. (mcq) A white crust of salt forms on the top of a dry field that has been watered for many years. Where did the salt come from?  
+   Options: It fell from the sky in the rain / It was made by the roots of the crop / It was in the irrigation water, and stayed behind when the water evaporated  
    **Answer:** It was in the irrigation water, and stayed behind when the water evaporated. *Why:* All irrigation water carries a little dissolved salt. When the water evaporates or is used by plants, the salt stays behind and builds up.
-13. (truefalse) Moong, urad, chana and groundnut are all legumes.  
+15. (truefalse) Moong, urad, chana and groundnut are all legumes.  
    **Answer:** True. *Why:* True. They all belong to the bean family and have seeds in pods. Their roots carry nodules with nitrogen-fixing bacteria.
-14. (write) A gardener lays dry leaves on the soil of a pot and the soil stays damp for twice as long. Say why.  
+16. (truefalse) Weeds only take up space in a field. They do not use the crop's water.  
+   **Answer:** False. *Why:* False. Weeds drink the same water and take the same nutrients as the crop, so a weedy field gives less grain. Early weeding protects young plants.
+17. (write) A gardener lays dry leaves on the soil of a pot and the soil stays damp for twice as long. Say why.  
    **Answer:** The leaves shade the soil and stop the wind from reaching it. So less water turns into vapour and leaves the soil. The water stays in the pot for longer.. *Why:* A strong answer says that mulch cuts the evaporation from the top.
-15. (order) Put these steps in order, from the air to the bean.  
+18. (order) Put these steps in order, from the air to the bean.  
    **Answer:** ['Nitrogen gas is in the air', 'Bacteria in a nodule change the gas into ammonia', 'The bean plant turns the ammonia into protein', 'The bean seed is full of protein', 'A family eats the bean as dal']. *Why:* Nitrogen gas is turned into ammonia by the bacteria, the plant builds it into protein, and the protein ends in the seed. We eat the seed.
-16. (mcq) What does a bean plant give the bacteria in her nodules?  
-   Options: Sugar / Nitrogen gas / Salt  
+19. (mcq) What does a bean plant give the bacteria in her nodules?  
+   Options: Nitrogen gas / Sugar / Salt  
    **Answer:** Sugar. *Why:* The bean makes sugar in her leaves with the help of sunlight, and gives some to the bacteria. The bacteria give nitrogen in return.
-### Climbing Water and Helping Roots (stretch) (stretch, 17 questions)
+### Climbing Water and Helping Roots (stretch) (stretch, 19 questions)
 1. (mcq) 100 millilitres of water is poured into each of two cups of soil. The first soil holds back 80 millilitres. The second holds back 30. Which soil has more clay?  
    Options: The first soil / The second soil / They have the same  
    **Answer:** The first soil. *Why:* Clay holds a lot of water in its tiny gaps and drains slowly. The soil that holds back more water is likely to have more clay.
@@ -718,7 +768,7 @@ Murugan Mama took a handful of ulundu seeds from Paati's tin. He said they were 
 6. (fill) About four fifths of the air is ____ gas.  
    **Answer:** ['nitrogen']. *Why:* Air is about 78 parts nitrogen in every 100. Plants cannot use it as a gas.
 7. (mcq) A nodule has a red-pink substance inside. What does it do?  
-   Options: It holds back oxygen, which would damage the nitrogen-fixing enzyme / It makes the bean sweet / It keeps the nodule warm  
+   Options: It makes the bean sweet / It holds back oxygen, which would damage the nitrogen-fixing enzyme / It keeps the nodule warm  
    **Answer:** It holds back oxygen, which would damage the nitrogen-fixing enzyme. *Why:* The enzyme the bacteria use to break the nitrogen bond is harmed by oxygen. The pink substance holds oxygen back so the enzyme keeps working.
 8. (sort) Sort these actions by what they do to the water in the soil of a field.  
    **Answer:** spreading straw between the rows → Saves water; leaving bare soil in the hot Sun → Wastes water; watering the roots with a slow drip → Saves water; flooding the whole field when only the roots need it → Wastes water; covering the soil with a plastic sheet → Saves water. *Why:* Covers slow evaporation and shade the soil. Drip watering wets only the roots. Bare soil in the Sun and flooding let more water go to the air or drain away.
@@ -731,20 +781,24 @@ Murugan Mama took a handful of ulundu seeds from Paati's tin. He said they were 
    **Answer:** An irrigation channel on one side bringing water. Water vapour rising from the field into the air. A white crust of salt on the soil. A drain at the far end carrying away some salt.. *Why:* A strong drawing shows that the water leaves as vapour and the salt stays behind.
 12. (match) Match each place or plant to what it shows about soil.  
    **Answer:** Pokkali rice in Kerala → a crop that copes with salty water; Tea in the Nilgiris → a crop that likes acid soil; Azolla in a paddy → a fern that carries nitrogen-fixing bacteria; Ragi with red gram → an example of growing crops together. *Why:* Each of these shows how a plant or a farmer works with the soil.
-13. (mcq) Which field is most likely to get a white salt crust?  
-   Options: A dry field watered from a canal for many years / A forest floor that gets heavy rain every year / A field that has just been ploughed  
+13. (match) Match each soil to the crop that suits it.  
+   **Answer:** Heavy clay soil → rice and sugarcane; Loose sandy soil → groundnut and potato; Alluvial soil of a river plain → wheat, rice and most crops; Acidic soil with lime added → a field that can grow crops again. *Why:* Clay holds the water that rice and sugarcane need. Sandy soil is loose for pods and tubers. Alluvial soil suits most crops. Lime cancels some acid in poor soil, so crops can grow again.
+14. (mcq) Which field is most likely to get a white salt crust?  
+   Options: A forest floor that gets heavy rain every year / A dry field watered from a canal for many years / A field that has just been ploughed  
    **Answer:** A dry field watered from a canal for many years. *Why:* Where rain is heavy it washes salt away. In a dry place, irrigation water evaporates and leaves its salt behind, year after year.
-14. (order) Put these in order to show how salt builds up in a dry irrigated field.  
+15. (order) Put these in order to show how salt builds up in a dry irrigated field.  
    **Answer:** ['Canal water carrying a little salt is spread on the field', 'The Sun and the crop use up the water', 'The salt stays in the soil', 'Year after year, the salt builds up', 'A white crust forms on the top of the soil']. *Why:* Only the water leaves. The salt stays and adds up over the years.
-15. (write) A soil card says the nitrogen is low and the potassium is high. What would you tell the farmer?  
+16. (write) A soil card says the nitrogen is low and the potassium is high. What would you tell the farmer?  
    **Answer:** Grow a pulse in the field, add compost or manure, and perhaps some urea. The potassium is high, so she does not need to add more.. *Why:* A strong answer matches the advice to what is low and leaves out what is high.
-16. (truefalse) If the whole bean plant is taken from the field at harvest, the soil may gain little nitrogen.  
+17. (write) A farmer waters her whole vegetable field with a hose, and weeds grow thick between the rows. Say what she could change, and why it would help.  
+   **Answer:** She could weed the field early, and put a mulch of straw between the rows. She could water along each row or at each plant, so the weeds between the rows stay dry. Weeds drink the same water and take the same nutrients as the crop, so keeping them down helps the crop.. *Why:* A strong answer names weeding or mulch, and says that weeds take water and nutrients from the crop.
+18. (truefalse) If the whole bean plant is taken from the field at harvest, the soil may gain little nitrogen.  
    **Answer:** True. *Why:* True. A lot of the nitrogen goes into the seeds and the leaves. If these are all taken away, little returns to the soil. The gain is greatest when the roots and leaves are left to rot in the field.
-17. (fill) On the pH scale, a pH of 7 means the soil is ____.  
+19. (fill) On the pH scale, a pH of 7 means the soil is ____.  
    **Answer:** ['neutral']. *Why:* Seven is neutral. Lower numbers are acidic and higher numbers are alkaline.
-### Nitrogen, Salt and the Future of Soil (challenge) (challenge, 15 questions)
+### Nitrogen, Salt and the Future of Soil (challenge) (challenge, 16 questions)
 1. (mcq) Water climbs 5 centimetres in one soil in 10 minutes, then stops. In a second soil it climbs 2 centimetres in 10 minutes, and keeps rising for hours. Which soil has the finer gaps?  
-   Options: The first / The second / You cannot tell  
+   Options: The second / The first / You cannot tell  
    **Answer:** The second. *Why:* Finer gaps pull harder, so water can keep rising, but water flows through them slowly. The soil where water climbs slowly and keeps going has the finer gaps.
 2. (write) A cotton wick from a bottle to a pot waters a plant with nothing pushing it. Explain why the water climbs, and why a thick wick moves more water than a thin one.  
    **Answer:** Water sticks to the fine threads and pulls the water behind it. A thick wick has more threads and more gaps, so more water moves at once.. *Why:* A strong answer names the stickiness between water and the threads, and says that more threads carry more water.
@@ -763,19 +817,21 @@ Murugan Mama took a handful of ulundu seeds from Paati's tin. He said they were 
 9. (sort) Sort these statements by how sure scientists are.  
    **Answer:** Mulch reduces evaporation from soil → Settled; Legumes carry bacteria that fix nitrogen → Settled; A bean plant punishes nodules that give her little nitrogen → Argued about; Loosening soil with a hoe always saves water → Argued about; Irrigation water leaves salt behind → Settled. *Why:* The first, second and last have been measured again and again. The other two depend on the soil, the crop and how the evidence is read.
 10. (mcq) The air around a field is full of nitrogen. Why do plants still need fertiliser or bacteria to get nitrogen?  
-   Options: The two atoms in each nitrogen molecule are held together very strongly, and plants cannot break the bond / Nitrogen is a liquid / Nitrogen is too heavy for roots  
+   Options: Nitrogen is a liquid / Nitrogen is too heavy for roots / The two atoms in each nitrogen molecule are held together very strongly, and plants cannot break the bond  
    **Answer:** The two atoms in each nitrogen molecule are held together very strongly, and plants cannot break the bond. *Why:* Only bacteria with a special enzyme, or a factory using great heat and pressure, can break that bond.
 11. (match) Match each person to what they found.  
    **Answer:** Hermann Hellriegel and Hermann Wilfarth → peas starved in sand without help from soil bacteria; Martinus Beijerinck → grew the bacteria from the root nodules; Fritz Haber and Carl Bosch → made ammonia from nitrogen gas in a factory. *Why:* These three discoveries took people from knowing that beans help a field, to finding the bacteria, to fixing nitrogen in a factory.
 12. (write) Your dal is made of protein that holds nitrogen atoms. Write the journey of one nitrogen atom from the air to your body.  
    **Answer:** The atom was in nitrogen gas in the air. Bacteria in a nodule changed it into ammonia. The bean plant built it into protein in her seed. A family cooked the seed as dal, and the atom became part of a body.. *Why:* Any clear journey is good. A strong answer names the bacteria, the plant and the dal in the right order.
 13. (mcq) A farmer wants to lower the amount of fertiliser she buys. Which change helps most?  
-   Options: Grow a pulse in rotation and leave her roots and leaves in the field / Plant more rice / Leave the soil bare in the Sun  
+   Options: Plant more rice / Grow a pulse in rotation and leave her roots and leaves in the field / Leave the soil bare in the Sun  
    **Answer:** Grow a pulse in rotation and leave her roots and leaves in the field. *Why:* A pulse brings nitrogen into the soil through the bacteria in her roots. Leaving the roots and leaves in the field returns the nitrogen to the soil.
 14. (fill) The factory process that makes ammonia from nitrogen gas and hydrogen is named after two German chemists: the ____ process.  
    **Answer:** ['Haber-Bosch', 'Haber Bosch']. *Why:* Fritz Haber found the method in 1909 and Carl Bosch made it work in a factory a few years later.
 15. (write) Some people say that soil is a living thing as a whole. Others say that only the beings in it are alive. What would you want to find out before deciding?  
    **Answer:** I would find out whether the soil can grow, take in food, respond and change as a whole, or whether those things are only done by the creatures in it. I would also want to know how much the creatures depend on each other.. *Why:* There is no single answer. A strong answer says what evidence would help to decide.
+16. (write) A farmer in Kerala has red acidic soil where crops do badly. Another farmer on a river plain has alluvial soil. Explain why they should not follow the same plan.  
+   **Answer:** The red soil is acidic and poor in nutrients, because heavy rain has washed them out. The farmer can add lime to cancel some acid, and compost to bring back humus. The alluvial soil is a rich mix of sand, silt and clay that suits most crops, so it may need only care. Each soil asks for a different plan.. *Why:* A strong answer says what is wrong with each soil, and gives one fitting step for each.
 
 ## Videos
 - **Legume roots and the nitrogen cycle** (Julia's Science Lab, 5 min) id `d_Chigs-jZk`: To see a root nodule and how the bacteria inside fix nitrogen. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
@@ -784,47 +840,65 @@ Murugan Mama took a handful of ulundu seeds from Paati's tin. He said they were 
 
 ## Quiz
 1. (mcq) Which soil lets water run through fastest?  
-   Options: Sand / Clay / Loam  
+   Options: Clay / Sand / Loam  
    **Answer:** Sand. *Why:* Sand has the biggest grains and the biggest gaps, so water runs straight through. Clay holds water in tiny gaps, and loam is in between.
 2. (mcq) Why do many gardeners like loam?  
    Options: It drains well and still holds water that roots can use / It is the lightest soil / It has no humus  
    **Answer:** It drains well and still holds water that roots can use. *Why:* Loam is a mix of sand, silt, clay and humus. The sand lets extra water out, and the finer grains and humus hold water for roots.
-3. (mcq) A cup of gravel stood in water. The wet line climbed only about 1 centimetre. What is the best reason?  
-   Options: The gaps are too wide to lift the water far / Gravel is dry / Water cannot climb  
+3. (mcq) Why is topsoil the richest layer for a crop?  
+   Options: It is the deepest layer, so it is the oldest / It is made only of clay / It is dark with humus, and most roots and soil life live in it  
+   **Answer:** It is dark with humus, and most roots and soil life live in it. *Why:* Topsoil holds the most humus, the dark part made from rotted leaves and roots. Worms, fungi and bacteria live there and turn dead leaves into nutrients. The deeper subsoil is paler and holds less humus.
+4. (mcq) You shake soil in a jar of water and leave it for one minute. What has settled at the bottom?  
+   Options: Clay / Sand / Humus  
+   **Answer:** Sand. *Why:* Sand grains are the biggest and heaviest, so they sink first. Silt settles over some hours, and the clay stays cloudy for a day or more. Humus is light and floats with the dead leaves.
+5. (mcq) A cup of gravel stood in water. The wet line climbed only about 1 centimetre. What is the best reason?  
+   Options: Gravel is dry / Water cannot climb / The gaps are too wide to lift the water far  
    **Answer:** The gaps are too wide to lift the water far. *Why:* Water is lifted by its stickiness to the edges of narrow gaps. Wide gaps give a weak pull.
-4. (mcq) Water moves up through a wick with nobody pushing it. What does the lifting?  
+6. (mcq) Water moves up through a wick with nobody pushing it. What does the lifting?  
    Options: Water sticking to the threads and to other water / A hidden pump / The Sun pushing down  
    **Answer:** Water sticking to the threads and to other water. *Why:* Water sticks to the surface of the threads, and pulls the water behind it. This is capillary rise.
-5. (mcq) A bare cup of soil dries more than a cup covered in dry leaves. Why?  
-   Options: The leaves shade the soil and block the wind, so less water evaporates / The leaves drink the water / The leaves are hot  
+7. (mcq) A bare cup of soil dries more than a cup covered in dry leaves. Why?  
+   Options: The leaves drink the water / The leaves are hot / The leaves shade the soil and block the wind, so less water evaporates  
    **Answer:** The leaves shade the soil and block the wind, so less water evaporates. *Why:* Evaporation from the top of the soil is slowed by a cover of mulch.
-6. (mcq) A plant with pale yellow leaves is most likely short of which nutrient?  
+8. (mcq) Why does a farmer pull out weeds a few weeks after sowing?  
+   Options: Weeds take water and nutrients from the young crop / Weeds make the soil salty / Weeds are always poisonous  
+   **Answer:** Weeds take water and nutrients from the young crop. *Why:* Weeds drink the same water and take the same nutrients as the crop, so a crop that shares them grows weak. Some weeds, such as bathua, are good to eat, so they are not poisonous. They are only in the wrong place.
+9. (mcq) A plant with pale yellow leaves is most likely short of which nutrient?  
    Options: Nitrogen / Sugar / Sand  
    **Answer:** Nitrogen. *Why:* Nitrogen is needed for leaf proteins and chlorophyll. A plant without enough of it has pale leaves.
-7. (mcq) The letters N, P and K on a fertiliser bag stand for which nutrients?  
+10. (mcq) The letters N, P and K on a fertiliser bag stand for which nutrients?  
    Options: Nitrogen, phosphorus and potassium / Nuts, plants and kernels / Nitrate, pepper and kale  
    **Answer:** Nitrogen, phosphorus and potassium. *Why:* The three numbers on the bag give the share of nitrogen, phosphorus and potassium.
-8. (mcq) Where does the nitrogen in a bean plant's protein first come from?  
-   Options: The air / The Sun / The rock  
+11. (mcq) Where does the nitrogen in a bean plant's protein first come from?  
+   Options: The Sun / The rock / The air  
    **Answer:** The air. *Why:* Bacteria in the nodules take nitrogen gas from the air and change it into ammonia.
-9. (mcq) What does a bean plant pay the bacteria in her root nodules?  
+12. (mcq) What does a bean plant pay the bacteria in her root nodules?  
    Options: Sugar / Water only / Salt  
    **Answer:** Sugar. *Why:* The plant makes sugar in her leaves and gives some to the bacteria. The bacteria give nitrogen back.
-10. (mcq) A nodule cut in half is bright pink inside. What does this tell you?  
-   Options: The nodule is working / The nodule is rotten / The nodule is full of water  
+13. (mcq) A nodule cut in half is bright pink inside. What does this tell you?  
+   Options: The nodule is rotten / The nodule is working / The nodule is full of water  
    **Answer:** The nodule is working. *Why:* The pink substance holds oxygen back, so the enzyme the bacteria use to fix nitrogen can work. A white or green nodule has stopped.
-11. (mcq) Why do farmers often follow a cereal with a pulse?  
+14. (mcq) Why do farmers often follow a cereal with a pulse?  
    Options: The pulse puts nitrogen back and the next crop does better / The pulse is bigger / The cereal needs company  
    **Answer:** The pulse puts nitrogen back and the next crop does better. *Why:* A pulse works with bacteria that fix nitrogen, and the roots and leaves left behind add nitrogen. It also breaks the pest cycle of the cereal.
-12. (mcq) In very salty water, moong seeds did not sprout. What is the best reason?  
-   Options: Salty water holds on to its water so tightly that the seed cannot take it in / Salt is food for seeds / Salt makes the seed too heavy  
+15. (mcq) In very salty water, moong seeds did not sprout. What is the best reason?  
+   Options: Salt is food for seeds / Salt makes the seed too heavy / Salty water holds on to its water so tightly that the seed cannot take it in  
    **Answer:** Salty water holds on to its water so tightly that the seed cannot take it in. *Why:* Salty water holds its water tightly, so a seed or root finds it hard to drink. Too much salt also harms the seed.
-13. (mcq) A dry field watered from a canal for years gets a white crust. What is it?  
+16. (mcq) A dry field watered from a canal for years gets a white crust. What is it?  
    Options: Salt left behind when the water evaporated / Frost / Chalk from the crops  
    **Answer:** Salt left behind when the water evaporated. *Why:* Water carries a little dissolved salt. The water goes into the air and the salt stays.
-14. (mcq) A soil card says nitrogen is low and humus is low. What is a good plan?  
-   Options: Grow a pulse and add compost / Add more salt / Plough the field and leave it bare  
+17. (mcq) A soil card says nitrogen is low and humus is low. What is a good plan?  
+   Options: Add more salt / Grow a pulse and add compost / Plough the field and leave it bare  
    **Answer:** Grow a pulse and add compost. *Why:* A pulse brings in nitrogen and compost adds humus, so the plan fixes both problems.
+18. (mcq) A farmer's field has acidic, poor soil. Which plan helps most?  
+   Options: Add more rainwater to wash the field / Leave it bare and wait / Spread lime to cancel some acid, and add compost  
+   **Answer:** Spread lime to cancel some acid, and add compost. *Why:* Lime cancels some of the acid, and compost adds humus and nutrients. Heavy rain is what made the soil poor in the first place, because it washes nutrients away. A bare field will lose even more topsoil.
+19. (mcq) Which soil is carried down by rivers and suits most crops?  
+   Options: Acidic laterite soil / Pure sand / Alluvial soil  
+   **Answer:** Alluvial soil. *Why:* Alluvial soil is a mix of sand, silt and clay left by rivers on plains and deltas, so it holds water and drains well. Laterite soil is poor in nutrients, and pure sand holds almost no water.
+20. (mcq) Which crop suits sandy soil, which drains fast and is loose?  
+   Options: Rice grown in standing water / Sugarcane, which needs a lot of water / Groundnut  
+   **Answer:** Groundnut. *Why:* Loose sandy soil lets pods and tubers push through, and groundnut and potato grow well in it. Rice and sugarcane like clay, which holds water for long. Picking sugarcane is a natural guess, because it is a famous crop, but it needs more water than sand can hold.
 
 ## Applications
 - Farmers rotate pulses with cereals to cut the fertiliser they must buy.
@@ -911,6 +985,16 @@ Know Where You Stand (sci.planet-earth.L4): Topic-level song
 - [A small bottle of food colour](https://www.amazon.in/s?k=food+colour+liquid) (material): For the Water Climb test, so the wet line is easy to see. Blue ink also works. Used in e1. 
 - [A digital kitchen scale that reads in grams](https://www.amazon.in/s?k=digital+kitchen+scale) (tool): Optional for the Cover or Bare test, to weigh the cups each day. The test works without one. Used in e3. 
 - [Half a red cabbage (about Rs 30 to 60)](https://www.amazon.in/s?k=red+cabbage) (material): For the Cabbage Water Test. Sold in bigger vegetable shops and supermarkets, not every kirana. No red cabbage? Turmeric in water also changes colour with baking soda. Used in a6. 
+- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): Used in Nodule Hunt: find the nodules on a bean's roots (if you can get a whole plant). About ₹30 to ₹120. A water drop on clear plastic magnifies a little. Used in a3. Get it before Nodule Hunt: find the nodules on a bean's roots (if you can get a whole plant).
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Water Climb: how fast does water rise in gravel, sand and fine soil?, Cover or Bare: does a cover of dry leaves keep the soil damp?, Squeeze and Ribbon: how does each soil feel when wet?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e3, a1, a5, p1, c1. Get it before Water Climb: how fast does water rise in gravel, sand and fine soil?.
+- [Baking soda](https://www.amazon.in/s?k=baking+soda) (material): Used in Cabbage Water Test: is the soil acid or alkaline?. About ₹20 to ₹40. Check the kitchen first. Used in a6. Get it before Cabbage Water Test: is the soil acid or alkaline?.
+- [Vinegar](https://www.amazon.in/s?k=white+vinegar) (material): Used in Cabbage Water Test: is the soil acid or alkaline?. About ₹40 to ₹80. Lemon juice works for many tests. Used in a6. Get it before Cabbage Water Test: is the soil acid or alkaline?.
+- [Clean sand (a small bag)](https://www.amazon.in/s?k=play+sand+small+bag) (material): Used in Water Climb: how fast does water rise in gravel, sand and fine soil?, Squeeze and Ribbon: how does each soil feel when wet?, Crack Maker: why does clay crack when it dries?. About ₹20 to ₹60. Fine soil sieved from a pot works. Used in e1, a1, a5, p1. Get it before Water Climb: how fast does water rise in gravel, sand and fine soil?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Salty Seeds: how much salt stops moong from sprouting?, Nodule Hunt: find the nodules on a bean's roots (if you can get a whole plant), Bean Before Methi: does a pot that grew moong feed the next crop?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e2, a3, p1, c2. Get it before Salty Seeds: how much salt stops moong from sprouting?.
+- [A measuring jug or syringe (marked in millilitres)](https://www.amazon.in/s?k=measuring+jug+500+ml) (tool): Used in Salty Seeds: how much salt stops moong from sprouting?. About ₹30 to ₹100. A clean medicine cup or marked bottle works. Used in e2. Get it before Salty Seeds: how much salt stops moong from sprouting?.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Salty Seeds: how much salt stops moong from sprouting?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e2. Get it before Salty Seeds: how much salt stops moong from sprouting?.
+- [Iron nails or iron filings](https://www.amazon.in/s?k=iron+filings+science) (material): Used in Water Climb: how fast does water rise in gravel, sand and fine soil?. About ₹20 to ₹80. Short steel nails from a hardware shop. Used in e1. Get it before Water Climb: how fast does water rise in gravel, sand and fine soil?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What are the three sizes of grains in soil? → Sand, silt and clay.
@@ -926,13 +1010,13 @@ Know Where You Stand (sci.planet-earth.L4): Topic-level song
 
 ## Plan
 - Start options: intro, a1, e1, story, big_questions, cards, g2
-- Default order: intro → a1 → e1 → summary → terms → explanations → story → e3 → g2 → videos → ws-core → a2 → e2 → a4 → a5 → a3 → a6 → g1 → agreed → challenging → ws-stretch → p1 → c1 → c2 → big_questions → ws-challenge → open_questions → roots → quiz
+- Default order: intro → a1 → e1 → summary → terms → explanations → story → e3 → g2 → videos → ws-core → a2 → e2 → a4 → a5 → a3 → a6 → g1 → agreed → challenging → ws-stretch → p1 → c1 → c2 → a7 → big_questions → ws-challenge → open_questions → roots → quiz
 - Core: a1, e1, e3, g2, ws-core
 
 ## Sources
 - ideas/by_topic/rocks-and-soil.md: the founder's notes on soil, used for the soil texture and mulch activities
 - ideas/by_topic/planet-earth.md: the experiment row on comparing soil samples from different places, used for the texture and water tests
-- The Level 3 unit on soil, which this unit builds on: the idea that soil is a mix of rock grains, humus, air and water, now followed to how soil holds water and nutrients
+- The Level 3 unit on soil, which this lesson builds on: the idea that soil is a mix of rock grains, humus, air and water, now followed to how soil holds water and nutrients
 - Hellriegel and Wilfarth, work on the nitrogen nutrition of grasses and legumes, announced 1886 and published 1888
 - Beijerinck, 'Die Bacterien der Papilionaceenknöllchen', Botanische Zeitung, 1888 (the bacteria from root nodules)
 - Kiers, Rousseau, West and Denison, 'Host sanctions and the legume-rhizobium mutualism', Nature 425, 2003

@@ -633,11 +633,11 @@
       "t": "mcq",
       "q": "On days when more golas are sold on a beach, more people get sunburnt. What is the best explanation?",
       "options": [
-       "Golas make skin burn",
        "Hot sun makes people buy golas and also burns skin",
+       "Golas make skin burn",
        "The sunburnt people were hungry"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The hot sun is behind both. It makes people want cold golas and it burns their skin. A wrong pick usually means the pattern was taken for a cause."
      },
      "context": "In this step, you play one practice card together."
@@ -943,11 +943,11 @@
       "t": "mcq",
       "q": "Why must every flip be done in the same way, from the same height onto the same plate?",
       "options": [
-       "So the coin only lands the way chance decides",
        "So the flips go faster",
-       "So the coin stays shiny"
+       "So the coin stays shiny",
+       "So the coin only lands the way chance decides"
       ],
-      "a": 0,
+      "a": 2,
       "why": "If you flip differently each time, how you flip might change the result. Then you could not say that chance alone made the pattern. A wrong pick usually means the child has not yet seen why one thing must stay the same."
      },
      "context": "In this step, you draw the table and practise the flip."
@@ -991,11 +991,11 @@
       "t": "mcq",
       "q": "One set of 10 flips gave 8 heads. All 200 flips together gave 103 heads. Why is the total closer to half?",
       "options": [
-       "Because more flips smooth out the luck of each set",
        "Because the coin got tired",
-       "Because the last sets were easier"
+       "Because the last sets were easier",
+       "Because more flips smooth out the luck of each set"
       ],
-      "a": 0,
+      "a": 2,
       "why": "In a small set, luck can swing far from half. Over many flips, the highs and lows cancel out and the total settles near half. A wrong pick usually means the child thinks the coin itself changed."
      },
      "context": "In this step, you compare the total of all flips with the single odd sets."
@@ -1486,11 +1486,11 @@
       "t": "mcq",
       "q": "Most tasters picked the POSH SHOP cup in round 1. In round 2, about half picked cup 1. Both cups held the same drink. What does this suggest?",
       "options": [
-       "The label changed what people said",
        "The posh drink really was better",
+       "The label changed what people said",
        "People cannot taste anything"
       ],
-      "a": 0,
+      "a": 1,
       "why": "When nobody knew the labels, the picks were spread about evenly. When the label showed, more people picked it. That suggests the label changed what they said. With few tasters, chance could also play a part, so repeat with more people. A wrong pick usually means the child forgot that both cups were the same."
      },
      "parent": "Studies of tasting have found that price and label can change what people report. In a home test with a handful of tasters, chance can hide the effect or make it look bigger. If your results differ, write them down as they are. That is also a useful result.",
@@ -1590,11 +1590,11 @@
       "t": "mcq",
       "q": "Two bars show scores of 92 and 95. On chart B the scale starts at 90, and one bar looks about 2.5 times as tall as the other. What is the problem?",
       "options": [
-       "The numbers are wrong",
        "The scale starts high, so a small gap looks huge",
+       "The numbers are wrong",
        "Chart B is too colourful"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The scores are close. Starting the scale at 90 hides the part of the bar below 90, so a small difference looks big. A wrong pick usually means the child trusted the picture and not the numbers."
      },
      "parent": "A scale that starts above zero can be fine for a line graph of temperature, if it is clearly labelled, because the interesting part is the change. For bars, which show amounts, it is safest to start at zero.",
@@ -1720,11 +1720,11 @@
       "t": "mcq",
       "q": "In a banana test, 2 of 3 wrapped bananas ripened slower than their twin. What is the fairest thing to say?",
       "options": [
-       "Wrapping the stalk definitely slows ripening",
        "Two pairs out of three is too few to be sure, so repeat with more pairs",
+       "Wrapping the stalk definitely slows ripening",
        "Wrapping makes no difference at all"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Three pairs is a small number, and luck could easily give 2 out of 3. It is a hint to try again with more pairs. A wrong pick usually means a few tries were read as proof."
      },
      "parent": "Whatever you find, report it as it is. If the wrapped bananas ripened slower in all three pairs, repeat with a new hand to see if it holds. If they tied or the bare ones were slower, say so. Ripening depends on temperature and on how ripe the fruit was when picked.",
@@ -1936,11 +1936,11 @@
      "p": "A fair coin is flipped 10 times and gives 8 heads. What is the best thing to say?",
      "opts": [
       "The coin must be bent",
-      "This can happen by chance, so flip many more times before deciding",
       "Heads always wins",
+      "This can happen by chance, so flip many more times before deciding",
       "The flipper wished for it"
      ],
-     "a": 1,
+     "a": 2,
      "why": "About 1 set of 10 in 18 gives 8 or more heads from chance alone. Ten flips is too few to decide. The way to find out is to flip many more times.",
      "how": "e1"
     },
@@ -1964,12 +1964,12 @@
      "t": "mcq",
      "p": "In a double-blind test of a medicine, who does not know who got the real medicine?",
      "opts": [
+      "Both the patients and the people handing out and measuring",
       "Only the patients",
       "Only the doctor",
-      "Both the patients and the people handing out and measuring",
       "Nobody"
      ],
-     "a": 2,
+     "a": 0,
      "why": "If either side knows, a look, a word or a hope could change what is reported. When neither side knows, that cannot happen."
     },
     {
@@ -2004,12 +2004,12 @@
      "t": "mcq",
      "p": "Why do we use a coin flip to choose which banana in a pair gets wrapped?",
      "opts": [
-      "So the choice does not depend on what the tester hopes",
       "So the bananas ripen faster",
+      "So the choice does not depend on what the tester hopes",
       "So both bananas are wrapped",
       "So nobody can eat them"
      ],
-     "a": 0,
+     "a": 1,
      "why": "If the tester picks, they may wrap the greener banana without knowing. A coin has no favourites, so the two groups come out alike.",
      "how": "p1"
     },
@@ -2062,12 +2062,12 @@
      "t": "mcq",
      "p": "A plant food is tested on 6 plants. The tester gives it to the 3 tallest plants. Why is this a problem?",
      "opts": [
-      "Tall plants cannot use food",
       "The tester may have chosen the strongest plants, so any difference may not come from the food",
+      "Tall plants cannot use food",
       "Six is a bad number",
       "Plant food does not work"
      ],
-     "a": 1,
+     "a": 0,
      "why": "If the tester chooses, the strongest plants may grow best whatever they are fed. A coin flip would have made the two groups alike."
     },
     {
@@ -2143,12 +2143,12 @@
      "t": "mcq",
      "p": "John Snow's comparison of houses supplied by two water companies on the same streets was strong evidence. Why?",
      "opts": [
-      "The houses were the same in most ways except the water",
       "The companies were famous",
       "The streets were very long",
+      "The houses were the same in most ways except the water",
       "He used a microscope"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Because neighbours on the same streets shared the air, the poverty and the weather, the main difference left was the water. That cut out many hidden third things."
     },
     {
@@ -2232,12 +2232,12 @@
      "t": "mcq",
      "p": "In the Fancy Label Cups activity, every cup was filled from one jug. Why?",
      "opts": [
-      "So the drink is exactly the same, and only the label differs",
       "So the jug would be empty sooner",
+      "So the drink is exactly the same, and only the label differs",
       "So the cups look pretty",
       "So the tasters drink more"
      ],
-     "a": 0,
+     "a": 1,
      "why": "If the drinks differed, a taste difference could come from the drink and not the label. Keeping the drink the same means any difference in picks comes from the label.",
      "how": "a2"
     },
@@ -2274,12 +2274,12 @@
      "t": "mcq",
      "p": "A school tries a new reading method on its best readers and compares them with last year's class. What is the main problem?",
      "opts": [
-      "The two groups were different from the start",
       "Reading cannot be tested",
+      "The two groups were different from the start",
       "The best readers are too few",
       "Last year is too long ago"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The best readers were already ahead, and last year's children may differ in other ways. A coin should split a single class into two groups."
     },
     {
@@ -2345,11 +2345,11 @@
      "p": "An advert says: In a test, 8 out of 10 athletes ran faster after our drink. What is the main thing missing?",
      "opts": [
       "The names of the athletes",
-      "A group of athletes who ran without the drink",
       "The colour of the drink",
+      "A group of athletes who ran without the drink",
       "A picture of the track"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Athletes often run faster the second time, because of warm-up and practice. Without a group that did not get the drink, we cannot tell what the drink did."
     },
     {
@@ -2393,12 +2393,12 @@
      "t": "mcq",
      "p": "In 200 coin flips, about how many times might you expect a run of four heads in a row to turn up?",
      "opts": [
-      "Never",
       "About ten times",
+      "Never",
       "Exactly 50 times",
       "Only if the coin is bent"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Each flip is a possible start of a run. Four heads in a row has a chance of 1 in 16 from any start. With about 197 starts, that is about 12 runs. A fair coin does this without any help.",
      "how": "e1"
     },
@@ -2447,12 +2447,12 @@
      "t": "mcq",
      "p": "A review finds that studies paid for by makers of a drug more often favoured the drug. What should a careful reader do?",
      "opts": [
-      "Throw away all studies",
       "Ask who paid for the study and look for independent tests that agree",
+      "Throw away all studies",
       "Trust the study more",
       "Ignore the review"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Who paid does not prove a study is wrong, but it is a reason to look for other tests by people who gain nothing from the answer."
     },
     {
@@ -2478,11 +2478,11 @@
    "p": "What does a correlation tell you about two things?",
    "opts": [
     "That one causes the other",
-    "That they rise and fall together, but not why",
     "That they are the same thing",
+    "That they rise and fall together, but not why",
     "That one is bigger than the other"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A correlation is a real pattern. It is a clue about where to look. It does not say what causes what.",
    "outcome": 0
   },
@@ -2531,11 +2531,11 @@
    "p": "Why does a total of 200 flips give a steadier picture than one set of 10 flips?",
    "opts": [
     "Because the coin warms up",
-    "Because over many flips the luck of single sets cancels out",
     "Because 200 is a round number",
-    "Because later flips count more"
+    "Because later flips count more",
+    "Because over many flips the luck of single sets cancels out"
    ],
-   "a": 1,
+   "a": 3,
    "why": "In a small set, chance can swing far from half. In a large number of flips, the highs and lows balance out and the total settles near half.",
    "outcome": 2,
    "how": "e1"
@@ -2546,10 +2546,10 @@
    "opts": [
     "Wrap one banana and watch it",
     "Ask a neighbour what they think",
-    "Wrap three bananas and leave three twins bare, using a coin to choose, and score all six each day",
-    "Wrap all the bananas in the shop"
+    "Wrap all the bananas in the shop",
+    "Wrap three bananas and leave three twins bare, using a coin to choose, and score all six each day"
    ],
-   "a": 2,
+   "a": 3,
    "why": "You need twins from the same bunch, a control group left bare, and a coin to choose. That makes the two groups alike apart from the wrapping.",
    "outcome": 3,
    "how": "p1"
@@ -2572,12 +2572,12 @@
    "t": "mcq",
    "p": "A medicine test gives half the people a sugar pill that looks identical to the real one. Why?",
    "opts": [
-    "To save money",
     "So the effect of expecting to feel better can be told apart from the effect of the medicine",
+    "To save money",
     "To trick the doctors",
     "Because sugar is a medicine"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Both groups expect to feel better. If the medicine group improves more than the sugar pill group, the extra is the effect of the medicine.",
    "outcome": 4
   },
@@ -2586,11 +2586,11 @@
    "p": "In a double-blind test, who does not know which people got the real treatment?",
    "opts": [
     "Only the people being tested",
-    "The people being tested and the people measuring",
     "Only the scientist who designed it",
+    "The people being tested and the people measuring",
     "Nobody keeps it secret"
    ],
-   "a": 1,
+   "a": 2,
    "why": "If the testers know, a look or a word can give it away, and their hopes can change what they measure. When neither group knows, this cannot happen.",
    "outcome": 4
   },
@@ -2599,11 +2599,11 @@
    "p": "What is the most important thing to check on a bar chart before you trust the size of the gap?",
    "opts": [
     "The colours of the bars",
-    "Whether the side scale starts at zero",
     "How many bars there are",
+    "Whether the side scale starts at zero",
     "Whether the bars are touching"
    ],
-   "a": 1,
+   "a": 2,
    "why": "If the scale starts above zero, the bottoms of the bars are cut off and a small gap can look large. The numbers on the side tell the truth.",
    "outcome": 5,
    "how": "a3"
@@ -2613,11 +2613,11 @@
    "p": "A company says: Our own test shows our oil is the healthiest. What is the best next question?",
    "opts": [
     "What colour is the bottle?",
-    "Has anyone else tested it, and who paid for the test?",
     "How much does it cost?",
-    "Is it advertised on TV?"
+    "Is it advertised on TV?",
+    "Has anyone else tested it, and who paid for the test?"
    ],
-   "a": 1,
+   "a": 3,
    "why": "A company gains if the answer is yes. Tests by others who gain nothing are stronger evidence.",
    "outcome": 5
   },
@@ -2928,6 +2928,46 @@
     "e1",
     "a3"
    ]
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Lucky Coin: how often does chance alone look special?, Okra Pods: longer pods have more seeds. Which causes which?, Same Numbers, Two Charts: does the starting line fool us?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e2",
+    "a3",
+    "c1"
+   ],
+   "plan": "Get it before The Lucky Coin: how often does chance alone look special?."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in Okra Pods: longer pods have more seeds. Which causes which?. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before Okra Pods: longer pods have more seeds. Which causes which?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

@@ -1,9 +1,9 @@
 # Insects and small creatures: counting legs, and how a tiny ant carries so much
 `sci.animals.insects.L2`
 
-**Summary.** An ant is tiny, so how big a crumb can it carry? In this unit you will test which crumbs ants carry and count what is left, race to count whether small creatures have six legs, eight or none, and build an insect and a spider from dough.
+**Summary.** An ant is tiny, so how big a crumb can it carry? In this lesson you will test which crumbs ants carry and count what is left, race to count whether small creatures have six legs, eight or none, and build an insect and a spider from dough.
 
-**Intro.** *A crumb is moving across the kitchen floor by itself. Look closer. An ant is carrying the crumb. How can something so small carry so much?* Small creatures live all around us, even in a flat. Ants walk in lines in the kitchen. A spider waits in a corner of the bathroom. A butterfly visits the curry leaf plant on the balcony. Some of these small creatures are insects, and some are not. You can tell them apart by counting their legs. In this unit you count legs on ants, spiders and butterflies. Then you test how big a crumb an ant can carry.
+**Intro.** *A crumb is moving across the kitchen floor by itself. Look closer. An ant is carrying the crumb. How can something so small carry so much?* Small creatures live all around us, even in a flat. Ants walk in lines in the kitchen. A spider waits in a corner of the bathroom. A butterfly visits the curry leaf plant on the balcony. Some of these small creatures are insects, and some are not. You can tell them apart by counting their legs. In this lesson you count legs on ants, spiders and butterflies. Then you test how big a crumb an ant can carry.
 
 ## Learning outcomes
 0. By the end I can say that an insect has six legs, three body parts and two feelers, and name some insects: ants, bees and butterflies.
@@ -21,6 +21,7 @@
 - **Spider**: A spider is a small animal with eight legs and a body in two parts. Spiders are not insects. *e.g.* The thin-legged spider in the bathroom corner has eight legs. Count them: four on each side.
 - **Silk**: Silk is a strong, thin thread that some animals make inside their bodies. Spiders make silk, and so do silkworms. *e.g.* A spider's web is made of silk. A Kanchipuram silk saree is made from the silk of silkworms.
 - **Earthworm**: An earthworm is a long, soft animal with no legs, whose body is made of many rings. Earthworms live in damp soil. *e.g.* After the first rain of the monsoon, earthworms often come up out of the soil onto the path.
+- **Termite**: A small insect that lives in a big family, eats dead plants and wood, and often lives in soil or in a mound. *e.g.* After the first monsoon rains, winged termites rise from the ground, fly to find a mate and start a new family.
 - **Colony**: A colony is a big family of animals who live together and share the work. Ants and honeybees live in colonies. *e.g.* One ant colony can have thousands of ants. Almost all of them are sisters, and one or more queens lay the eggs.
 
 ## Explanations
@@ -42,7 +43,7 @@ Count a spider's legs and you get eight, four on each side. A spider's body has 
 ### A worm has no legs · *defined*
 **Definition:** An earthworm has no legs. Muscles squeeze and stretch the body, and tiny bristles grip the soil.
 
-An earthworm's body is made of many rings, with muscles under the skin. First the front end gets long and thin and pushes forward. Then the body gets short and fat, and pulls the back end along. On each ring there are tiny stiff hairs called bristles. They grip the soil so the worm does not slide back. Earthworms breathe through their skin, so the skin must stay damp.
+An earthworm's body is made of many rings, with muscles under the skin. First the front end gets long and thin and pushes forward. Then the body gets short and fat, and pulls the back end along. On each ring there are tiny stiff hairs called bristles. They grip the soil so the worm does not slide back. Earthworms breathe through their skin, so the skin must stay damp. Many other creatures live in the soil too. Ants, termites and beetles dig there, and some are too small to see. Grasshoppers lay their eggs in the soil. After the first monsoon rains, winged termites fly up out of the ground in a swarm.
 - e.g. Earthworms in the soil of a big potted plant.
 - e.g. Earthworms on a wet path after the first monsoon rain.
 - e.g. Earthworms in a vermicompost bin, turning vegetable peels into soil.
@@ -97,7 +98,7 @@ We have counted legs, met insects, spiders and worms, and watched ants carry cru
 
 An ant colony carries home far more food than any one ant could. Each ant brings a crumb, and thousands of sisters together feed the whole nest. A honeybee brings home a tiny drop of nectar, and many trips make a comb of honey. Worms move a little soil each, and together they turn over whole fields. Each small creature does a little, and millions of them together feed the colony, fill the hive and turn the soil.
 
-- **Acharanga Sutra 1.2.3:** “सव्वे पाणा पियाउया / सुह-साया दुक्ख-पडिकूला / अप्पिय-वहा पिय-जीविणो जीविउ-कामा / सव्वेसिं जीवियं पियं” This old Jain text says that all beings love their life. They want to be happy and do not want to be hurt. To all of them, life is dear. (An ant who carries a crumb home is working for her own life and her sisters' lives. The Jain teaching asks us to care for the smallest beings, which is why this unit says: watch the ants, but do not spray or squash them.)
+- **Acharanga Sutra 1.2.3:** “सव्वे पाणा पियाउया / सुह-साया दुक्ख-पडिकूला / अप्पिय-वहा पिय-जीविणो जीविउ-कामा / सव्वेसिं जीवियं पियं” This old Jain text says that all beings love their life. They want to be happy and do not want to be hurt. To all of them, life is dear. (An ant who carries a crumb home is working for her own life and her sisters' lives. The Jain teaching asks us to care for the smallest beings, which is why this lesson says: watch the ants, but do not spray or squash them.)
 - **Proverbs 6:6-8:** “לֵךְ־אֶל־נְמָלָה עָצֵל רְאֵה דְרָכֶיהָ וַחֲכָם / אֲשֶׁר אֵין־לָהּ קָצִין שֹׁטֵר וּמֹשֵׁל / תָּכִין בַּקַּיִץ לַחְמָהּ אָגְרָה בַקָּצִיר מַאֲכָלָהּ” The Bible says: go to the ant and watch her ways. She has no ruler or boss, yet she gathers her food in summer. (In the crumb test, no ant gave orders. Each ant carried what she could, and the colony's food arrived anyway.)
 - **The Quran, Surah An-Naml 27:18:** “قَالَتْ نَمْلَةٌ يَا أَيُّهَا النَّمْلُ ادْخُلُوا مَسَاكِنَكُمْ لَا يَحْطِمَنَّكُمْ سُلَيْمَانُ وَجُنُودُهُ” The Quran tells of an ant who sees King Solomon's army coming. She calls to the other ants to go into their homes, so that they are not crushed. (In this story an ant notices danger, thinks of her sisters and warns them. Real ants also warn and call each other, with smells and touches of their antennae.)
 - Science (settled): When a body is made bigger, the weight grows faster than the strength. This is why small animals can carry more for their size. Galileo worked this out in 1638.
@@ -446,7 +447,7 @@ Meenakshi looked at the biscuit tin. 'I don't know,' she said. 'But I can find o
    **Answer:** A strong answer picks one view and gives a reason. The mother is right that house spiders catch mosquitoes and flies. The girl is right that her feelings matter. The aunt finds a way that helps both the girl and the spider.. *Why:* Common house spiders are not dangerous and they catch insects. Moving a spider gently, or leaving her, both avoid harming her.
 10. (fill) Ants and honeybees live together in big families called ________.  
    **Answer:** colonies. *Why:* A colony is a big family who live together and share the work. In an ant colony, nearly all the ants are sisters.
-### Looking Closer (stretch) (stretch, 10 questions)
+### Looking Closer (stretch) (stretch, 11 questions)
 1. (odd) Three of these are insects. Which one is not?  
    Options: A mosquito / A cockroach / A spider / A ladybird beetle  
    **Answer:** 2. *Why:* A spider has eight legs and two body parts, so a spider is not an insect. The others all have six legs.
@@ -459,7 +460,7 @@ Meenakshi looked at the biscuit tin. 'I don't know,' she said. 'But I can find o
 5. (truefalse) All the worker ants in a colony are female.  
    **Answer:** True. *Why:* True. The worker ants are sisters, daughters of the queen. Male ants hatch only at some times of year, and do not do the work of the nest.
 6. (mcq) Silk is a strong, thin thread made inside an animal's body. Which of these animals makes silk?  
-   Options: A spider / A honeybee / A cockroach  
+   Options: A honeybee / A cockroach / A spider  
    **Answer:** A spider. *Why:* A spider makes silk at the back end of her body, and uses it for her web.
 7. (label) Label the spider: front part, back part, legs, eyes.  
    **Answer:** ['front part: where the legs, eyes and mouth are', 'back part: the round part, where the silk comes out', 'legs: eight, all joined to the front part', 'eyes: on the top of the front part, often eight']. *Why:* A spider's body has two parts. All eight legs join the front part, and the silk comes out of the back part.
@@ -469,13 +470,15 @@ Meenakshi looked at the biscuit tin. 'I don't know,' she said. 'But I can find o
    **Answer:** This is partly right. For their size, ants are very strong: they carry crumbs bigger than their heads. But an elephant can lift a much heavier log than any ant. The answer depends on whether you compare the load with the size of the animal.. *Why:* A strong answer says ants are strong for their size, but not the strongest in total, and explains the difference.
 10. (fill) The two feelers on an insect's head are called ________.  
    **Answer:** antennae. *Why:* Antennae are the two feelers on an insect's head. Insects smell and touch with them.
+11. (sort) Sort these creatures: do they spend most of their lives in the soil, or in the air and on plants?  
+   **Answer:** termite → Mostly in the soil; earthworm → Mostly in the soil; butterfly → Mostly in the air or on plants; honeybee → Mostly in the air or on plants; grasshopper → Mostly in the air or on plants. *Why:* Termites and earthworms spend most of their lives in the soil. Butterflies, bees and grasshoppers live on plants and in the air, though a grasshopper lays its eggs in the soil.
 ### Small and Strong (challenge) (challenge, 10 questions)
 1. (perspective) A girl lives in a flat in Mysuru. A line of ants walks from a crack in the kitchen wall to the sugar tin.  
    **Answer:** A strong answer picks a view and gives a reason. The grandmother is right that food must stay clean. The girl is right that the ants are doing their own work and mean no harm. The mother's way keeps food clean without killing ants, by removing what draws them.. *Why:* Ants come where they find food. Closing tins and wiping crumbs works well, and is kinder than spray. Some chalks sold for ants have poison in them, so they must be kept away from children.
 2. (write) Suppose an ant grew as big as a dog. Would she still carry a crumb bigger than her own head? Say why. (Say it out loud, or a grown-up can write it for you.)  
    **Answer:** No. When a body gets bigger, the weight grows much faster than the strength of the muscles. A dog-sized ant would be very heavy, and would have little strength left for a load.. *Why:* A strong answer says that weight grows faster than strength as a body gets bigger. It may use numbers: twice as big each way means about 4 times the strength but about 8 times the weight.
 3. (mcq) Which of these gives the best reason why a small ant can carry a big crumb?  
-   Options: Ants eat a lot of sugar / A small body is very light for the strength of the muscles / Ants have more legs than people  
+   Options: A small body is very light for the strength of the muscles / Ants eat a lot of sugar / Ants have more legs than people  
    **Answer:** A small body is very light for the strength of the muscles. *Why:* A small body weighs very little compared with how strong the muscles are, so there is strength left over for a load. Sugar and the number of legs do not explain it.
 4. (write) One child did the crumb test with tiny red ants. The big crumbs stayed, but the ants ate them in little bits. Another child used big black ants, and one ant carried a rice-sized crumb alone. Why were the results different? (Say it out loud, or a grown-up can write it for you.)  
    **Answer:** The ants were different kinds and sizes. A big black ant is stronger than a tiny red ant, so she can carry a bigger crumb alone. The tiny ants worked as a team or ate the crumb bit by bit.. *Why:* A strong answer says different kinds of ants are different sizes and strengths, so a fair comparison must use the same kind of ant.
@@ -500,7 +503,7 @@ Meenakshi looked at the biscuit tin. 'I don't know,' she said. 'But I can find o
 
 ## Quiz
 1. (mcq) How many legs does every grown-up insect have?  
-   Options: Four / Six / Eight  
+   Options: Four / Eight / Six  
    **Answer:** Six. *Why:* Every grown-up insect has six legs, three on each side. Ants, bees and butterflies all have six.
 2. (mcq) Which of these is an insect?  
    Options: A honeybee / A spider / An earthworm  
@@ -512,23 +515,26 @@ Meenakshi looked at the biscuit tin. 'I don't know,' she said. 'But I can find o
    Options: One / Two / Three  
    **Answer:** Two. *Why:* A spider's body has two parts: a front part with the legs, and a round back part. An insect's body has three parts.
 5. (mcq) How does an earthworm move without legs?  
-   Options: The body squeezes and stretches, and tiny bristles grip the soil / The worm rolls like a ball / The worm jumps  
+   Options: The worm rolls like a ball / The worm jumps / The body squeezes and stretches, and tiny bristles grip the soil  
    **Answer:** The body squeezes and stretches, and tiny bristles grip the soil. *Why:* Muscles make the body long and thin, then short and fat. Tiny bristles on each ring hold on to the soil, so the worm moves forward.
 6. (mcq) You see a butterfly standing on four legs. What is true?  
    Options: The butterfly has lost two legs / The butterfly has six legs, but keeps two folded up / Butterflies have four legs  
    **Answer:** The butterfly has six legs, but keeps two folded up. *Why:* Many butterflies keep their two small front legs folded up near the head. They still have six legs.
 7. (mcq) In the crumb test, what did the ants usually do with the biggest crumbs?  
-   Options: Carried them away fast / Crowded on them and bit off small bits / Ran away from them  
+   Options: Crowded on them and bit off small bits / Carried them away fast / Ran away from them  
    **Answer:** Crowded on them and bit off small bits. *Why:* The biggest crumbs were too big for one ant to carry, so many ants crowded on them and took small bits home. If you picked 'carried them away', look again at how many big crumbs were left.
 8. (mcq) In the crumb test, why did we put all 20 crumbs along one line, with the sizes mixed up?  
-   Options: So every size was the same distance from the ants / So the paper looked nice / So the ants could not find them  
+   Options: So the paper looked nice / So every size was the same distance from the ants / So the ants could not find them  
    **Answer:** So every size was the same distance from the ants. *Why:* Mixing the sizes along one line makes the test fair. No size was closer to the ants than another.
 9. (mcq) A small ant can carry a load bigger than her own head. A person cannot carry a load bigger than their own body. Why can the ant carry so much?  
-   Options: A small body is very light for the strength of the muscles / Ants eat more food than people / Ants have stronger bones  
+   Options: Ants eat more food than people / A small body is very light for the strength of the muscles / Ants have stronger bones  
    **Answer:** A small body is very light for the strength of the muscles. *Why:* A small body weighs very little compared with the strength of the muscles. Ants have no bones inside at all. Their hard skin is on the outside.
 10. (mcq) What does a honeybee's dance tell her sisters?  
-   Options: That she is tired / Which way to fly, and how far, to find flowers / That it will rain  
+   Options: Which way to fly, and how far, to find flowers / That she is tired / That it will rain  
    **Answer:** Which way to fly, and how far, to find flowers. *Why:* The waggle dance shows which way to fly and how far. A bee learns where the flowers are, and tells her sisters.
+11. (mcq) After the first monsoon rains, winged termites fly up out of the ground. Why?  
+   Options: To escape the rain and drown / To drink from the puddles / To find a mate and start a new family  
+   **Answer:** To find a mate and start a new family. *Why:* Winged termites fly out to find a mate and start a new colony. Most of them are eaten by birds and lizards before they manage it. They are not trying to escape the rain, and puddles are not their reason to fly.
 
 ## Applications
 - Farmers in many parts of India keep honeybee boxes near crops like mustard, sunflower and coffee. The bees carry pollen from flower to flower, which helps the plants make seeds and fruit.
@@ -538,13 +544,13 @@ Meenakshi looked at the biscuit tin. 'I don't know,' she said. 'But I can find o
 - Scientists study spider silk, which is very strong for how thin it is, to make new strong threads.
 
 ## Spotted around us
-- Huge hanging honeycombs of rock bees under water tanks and balconies of tall buildings in Bengaluru and Chennai.
-- Weaver ants' nests of leaves, stitched together with silk, in mango and cashew trees in Kerala and Odisha.
-- In Mayurbhanj in Odisha, some families make a chutney from red weaver ants, called kai chutney.
-- Earthworms on the roads of Mumbai after the first heavy monsoon rain.
-- Plain tiger butterflies drinking from flowers in a park in Hyderabad.
-- Long webs of giant wood spiders, with golden silk, strung between trees in the forests of the Western Ghats, near Agumbe.
-- A small jumping spider on a window frame in a flat in Guwahati, turning to look at you.
+- Huge hanging honeycombs of rock bees under water tanks and balconies of tall buildings.
+- Weaver ants' nests of leaves, stitched together with silk, in mango and cashew trees.
+- Red weaver ants on a mango or cashew tree. Some families make a chutney from them.
+- Earthworms on the road after the first heavy monsoon rain.
+- Plain tiger butterflies drinking from flowers in a park.
+- Long webs of giant wood spiders, with golden silk, strung between trees in a forest.
+- A small jumping spider on a window frame, turning to look at you.
 
 ## Open questions
 - **Why do earthworms come up out of the soil after rain?** Scientists have several ideas. The soil may have too little air when it is full of water. Or the wet ground lets worms travel far without drying out. Nobody is sure which matters most.
@@ -584,12 +590,15 @@ Feathers, Fur and Fins (sci.animals.L2): Topic-level song for Animals L2
 - [iNaturalist](https://www.inaturalist.org/) · interactive: For the parent: photograph a small creature at home and find out their name.
 - [Butterflies of India](https://www.ifoundbutterflies.org/) · interactive: For the parent: photographs of Indian butterflies, with their names and the plants their caterpillars eat.
 - [India Biodiversity Portal](https://indiabiodiversity.org/) · interactive: For the parent: pictures and notes on Indian insects, spiders and other small creatures.
-- [Butterfly Park, Bannerghatta Biological Park]() · place · Bengaluru: Walk among live butterflies and see their eggs, caterpillars and cocoons.
-- [Tropical Butterfly Conservatory, Srirangam]() · place · Tiruchirappalli: A big butterfly garden on an island in the Kaveri, with many kinds of butterflies.
-- [Ovalekar Wadi Butterfly Garden]() · place · Thane, near Mumbai: A family-run butterfly garden where you can watch butterflies feeding and laying eggs.
+- Butterfly Park, Bannerghatta Biological Park · place · Bengaluru: Walk among live butterflies and see their eggs, caterpillars and cocoons.
+- Tropical Butterfly Conservatory, Srirangam · place · Tiruchirappalli: A big butterfly garden on an island in the Kaveri, with many kinds of butterflies.
+- Ovalekar Wadi Butterfly Garden · place · Thane, near Mumbai: A family-run butterfly garden where you can watch butterflies feeding and laying eggs.
 
 ## Things to buy
 - [A hand magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): Ant legs and spider eyes are tiny. A magnifying glass makes counting legs easy. A phone camera, zoomed in, also works. Used in e1, a1, p1. Keep the glass by the window, so it is ready whenever a small creature visits.
+- [Insulated wire or crocodile clips](https://www.amazon.in/s?k=crocodile+clip+wire+set) (tool): Used in Web Builder: make a web that catches the most paper flies. About ₹20 to ₹80. Thin insulated wire from an old charger works. Used in c1. Get it before Web Builder: make a web that catches the most paper flies.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Build an Insect and a Spider from Dough. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in a2. Get it before Build an Insect and a Spider from Dough.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - How many legs does an insect have? → Six.

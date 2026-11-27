@@ -68,6 +68,12 @@
    "meaning": "A thing springs back when it goes back to its old shape by itself after a push or a pull stops.",
    "example": "Squeeze a sponge and let go. It springs back.",
    "art": "A kitchen sponge squeezed in a hand, and next to it the same sponge back to its full size."
+  },
+  {
+   "term": "Air resistance",
+   "meaning": "Air resistance is the push of air against something that moves through it. It slows the moving thing down. The wider the thing is, the more air it pushes against.",
+   "example": "A sheet of paper falls slowly because the air pushes up against its wide flat shape. The same sheet crumpled into a ball drops fast.",
+   "art": "A flat sheet of paper and a crumpled ball falling side by side, with small arrows pushing up on the flat sheet."
   }
  ],
  "explanations": [
@@ -459,11 +465,11 @@
       "t": "mcq",
       "q": "A marble runs round inside a curved wall. The wall ends. Which way does the marble go?",
       "options": [
-       "Straight on, the way it was going",
        "It keeps curving round",
-       "It stops at once"
+       "It stops at once",
+       "Straight on, the way it was going"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Nothing pushes it sideways after the wall ends, so it goes straight on. If you picked 'keeps curving', try the Bend Wall again and watch the very end of the wall."
      }
     }
@@ -1154,11 +1160,11 @@
       "t": "mcq",
       "q": "A ball is rolling towards the goal but will miss it on the left. Where should you push it?",
       "options": [
-       "From its left side, to send it right",
        "From behind, to make it faster",
-       "From the front, to stop it"
+       "From the front, to stop it",
+       "From its left side, to send it right"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A push from the side turns the ball. Pushing on its left side sends it to the right. A push from behind only makes it faster, so it misses by more."
      }
     }
@@ -1253,6 +1259,130 @@
      ]
     }
    ]
+  },
+  {
+   "id": "p1x",
+   "title": "Design a Catapult: does a bigger bend throw further?",
+   "mins": 45,
+   "days": 3,
+   "context": "In this project you build a spoon catapult and change how far you press it down, one thing at a time. You will see that a bigger bend of the spoon throws the ball further.",
+   "materials": [
+    {
+     "item": "a plastic spoon",
+     "qty": 1
+    },
+    {
+     "item": "ice-cream sticks, to stack as a base",
+     "qty": 6
+    },
+    {
+     "item": "rubber bands",
+     "qty": 2
+    },
+    {
+     "item": "a ball of paper the size of a marble",
+     "qty": 1
+    },
+    {
+     "item": "a measuring tape or a ruler",
+     "qty": 1
+    },
+    {
+     "item": "a table",
+     "qty": 1
+    },
+    {
+     "item": "chart paper and a pencil",
+     "qty": 1
+    }
+   ],
+   "safety": "Shoot only at an empty floor or a wall. Never aim at a person, an animal or a face. Keep fingers out of the rubber bands when they are stretched.",
+   "record": "A chart with three rows for how far you press the spoon. Write how far the ball went on each of three tries.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Build the catapult and shoot a first ball to check it works."
+    },
+    {
+     "day": 2,
+     "mins": 15,
+     "what": "Test two press depths, three tries each, and measure."
+    },
+    {
+     "day": 3,
+     "mins": 15,
+     "what": "Test a third depth, fill in the chart and explain what you found."
+    }
+   ],
+   "setup": [
+    {
+     "art": "A plastic spoon tied to a stack of six ice-cream sticks with two rubber bands, the spoon's bowl sticking out over the edge.",
+     "caption": "1. Tie the spoon to the stack of sticks. The bowl of the spoon sticks out past the stack."
+    },
+    {
+     "art": "A child pressing the bowl of the spoon down with one finger, a paper ball sitting in it.",
+     "caption": "2. Put a paper ball in the spoon. Press down and let go."
+    },
+    {
+     "art": "A tape measure laid on a floor from the catapult to where the ball landed.",
+     "caption": "3. Measure how far the ball went."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 15,
+     "do": "1. Stack six ice-cream sticks and put a rubber band round each end. 2. Lay the handle of the plastic spoon on top of the stack, with the spoon's bowl sticking out past the edge. 3. Wind two rubber bands tightly round the handle and the stack. 4. Tape the stack to the table edge. 5. Put the paper ball in the bowl, press the bowl down with one finger and let go.",
+     "say": "The spoon is a spring. When we press it down it bends, and when we let go it springs back and throws the ball.",
+     "kid": "Tie the spoon to the sticks. Put the paper ball in the spoon. Press down and let go.",
+     "parent": "If the spoon cracks, use a more bendy one. If the spoon is too stiff to throw, use a thinner plastic spoon. A ball that just drops means the spoon was not bent enough or the rubber bands were loose."
+    },
+    {
+     "id": "s2",
+     "mins": 15,
+     "do": "1. Mark the starting spot on the floor. 2. Press the spoon down until its bowl is 3 centimetres above the table, and let go. 3. Measure where the ball lands. 4. Do it three times and write down each distance. 5. Do the same with the bowl pressed all the way to the table.",
+     "say": "We change only one thing, how far we press. The same spoon, the same ball and the same table. We try three times, because one try can be a fluke.",
+     "kid": "Press the spoon down a little and let go. Measure how far the ball went. Do it three times. Then press all the way down and do it three times.",
+     "ask": [
+      {
+       "q": "Which press sent the ball furthest?",
+       "good": [
+        "Pressing all the way to the table.",
+        "The bigger bend threw the ball further."
+       ]
+      }
+     ],
+     "parent": "Measure from the spot under the spoon to where the ball first lands. Use heel-to-toe steps if you have no tape."
+    },
+    {
+     "id": "s3",
+     "mins": 15,
+     "do": "1. Press the bowl halfway down and shoot three times. 2. Fill in the chart. 3. Ask your child to explain which part of the catapult is bending and springing back.",
+     "say": "The spoon's handle bends and then springs back. The more it bends, the more springy energy it stores, so the more it pushes on the ball.",
+     "kid": "Press halfway and shoot three times. Fill in the chart. Which part bends and springs back? Tell your grown-up why a bigger bend throws further.",
+     "ask": [
+      {
+       "q": "What happens to the speed of the ball when the spoon bends more?",
+       "good": [
+        "The ball goes faster, so it travels further.",
+        "A bigger push makes a bigger change in the ball's motion."
+       ]
+      }
+     ],
+     "check": {
+      "t": "mcq",
+      "q": "You press the spoon further down. What do you expect?",
+      "options": [
+       "The ball goes further",
+       "The ball goes less far",
+       "The ball goes the same distance"
+      ],
+      "a": 0,
+      "why": "A bigger bend stores more spring energy. The spoon pushes the ball harder, so the ball starts faster and goes further."
+     }
+    }
+   ]
   }
  ],
  "challenges": [
@@ -1325,11 +1455,11 @@
       "t": "mcq",
       "q": "The ball leaves the last wall and misses the tumbler. Which way did it go after the wall?",
       "options": [
-       "Straight on, the way it was going",
        "It kept curving round",
-       "It turned back by itself"
+       "It turned back by itself",
+       "Straight on, the way it was going"
       ],
-      "a": 0,
+      "a": 2,
       "why": "After the last wall, nothing pushes the ball sideways, so it goes straight. Move the last wall so that its straight path points into the tumbler."
      }
     }
@@ -1661,11 +1791,11 @@
      "t": "mcq",
      "p": "A girl swings a sock tied on a string round and round, then lets go of the string. Which way does the sock fly?",
      "opts": [
-      "Straight off, the way it was going at that moment",
       "Round in a circle, as before",
-      "Straight back to her hand"
+      "Straight back to her hand",
+      "Straight off, the way it was going at that moment"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The string was pulling the sock inwards to make it go round. When she lets go, nothing pulls it, so it flies off straight, like the marble leaving the wall."
     },
     {
@@ -1734,10 +1864,10 @@
      "p": "Which of these needs a force: a ball speeding up, a ball slowing down, or a ball turning?",
      "opts": [
       "Only speeding up",
-      "Speeding up and slowing down, but not turning",
-      "All three"
+      "All three",
+      "Speeding up and slowing down, but not turning"
      ],
-     "a": 2,
+     "a": 1,
      "why": "Speeding up, slowing down and turning are all changes in how a thing moves. Every change needs a push or a pull."
     },
     {
@@ -1789,11 +1919,11 @@
    "t": "mcq",
    "p": "Which of these goes back to its old shape when you let go?",
    "opts": [
-    "A stretched rubber band",
     "Crumpled foil",
-    "Dough pressed flat"
+    "Dough pressed flat",
+    "A stretched rubber band"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A rubber band springs back. Foil and dough keep their new shape.",
    "outcome": 1,
    "how": "a1"
@@ -1802,11 +1932,11 @@
    "t": "mcq",
    "p": "The same ball is let go on a ramp on 1 book and on a ramp on 3 books. Which rolls further?",
    "opts": [
-    "The ball from 3 books",
     "The ball from 1 book",
-    "Both the same"
+    "Both the same",
+    "The ball from 3 books"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The steeper ramp lets gravity speed the ball up more, so it rolls further.",
    "outcome": 2,
    "how": "e2"
@@ -1828,11 +1958,11 @@
    "t": "mcq",
    "p": "A ball is rolling across the floor. You push it gently from its side. What happens?",
    "opts": [
-    "It turns",
     "It goes faster in the same direction",
+    "It turns",
     "It changes shape"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A push from the side changes the ball's direction.",
    "outcome": 3
   },
@@ -1840,11 +1970,11 @@
    "t": "mcq",
    "p": "You roll a ball straight at a wall. What does it do after it hits?",
    "opts": [
-    "It comes back towards you",
     "It goes through the wall",
-    "It goes off to the side"
+    "It goes off to the side",
+    "It comes back towards you"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The wall pushes the ball back the way it came.",
    "outcome": 3,
    "how": "a3"
@@ -1853,11 +1983,11 @@
    "t": "mcq",
    "p": "A marble rolls round the inside of the rim of a steel plate. What keeps it going round?",
    "opts": [
-    "The rim pushes it inwards all the time",
     "The marble likes going round",
-    "The plate is heavy"
+    "The plate is heavy",
+    "The rim pushes it inwards all the time"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The rim pushes the marble inwards at every moment. That push bends its path into a circle.",
    "outcome": 4,
    "how": "e1"
@@ -1866,11 +1996,11 @@
    "t": "mcq",
    "p": "In the Bend Wall test, you held a finger on the outside of the wall. What did your finger feel?",
    "opts": [
-    "The marble knocking against the wall",
     "The wall pulling the marble",
-    "Nothing at all"
+    "Nothing at all",
+    "The marble knocking against the wall"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The wall pushes the marble sideways, and the marble pushes back on the wall, so a finger on the wall feels a small knock.",
    "outcome": 4,
    "how": "e1"
@@ -1886,11 +2016,11 @@
    "t": "mcq",
    "p": "In the Bend Wall test, you guessed the marble would keep curving. It went straight. What is the best thing to do?",
    "opts": [
-    "Write down what really happened, and think about why",
     "Change your guess in the table so it looks right",
+    "Write down what really happened, and think about why",
     "Stop doing the test"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A wrong guess is useful. Writing what really happened, and thinking about why, is how scientists learn.",
    "outcome": 5,
    "how": "e1"
@@ -2066,6 +2196,78 @@
    ],
    "plan": "Use them in the Bend Wall test and the Round the Bend challenge. Keep them away from children under 3.",
    "url": ""
+  },
+  {
+   "id": "b-rosie-revere-engineer",
+   "item": "Rosie Revere, Engineer by Andrea Beaty",
+   "kind": "book",
+   "why": "A girl builds things from junk, fails, and tries again. It shows the child that a failed try is part of making something work.",
+   "url": "https://www.amazon.in/s?k=Rosie+Revere+Engineer",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Read it together after the catapult project."
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in Design a Catapult: does a bigger bend throw further?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "p1x"
+   ],
+   "plan": "Get it before Design a Catapult: does a bigger bend throw further?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Design a Catapult: does a bigger bend throw further?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "p1x"
+   ],
+   "plan": "Get it before Design a Catapult: does a bigger bend throw further?."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in The Bend Wall: where does the marble go when the wall ends?, The Ramp Race: does a steeper ramp make a faster ball?, Design a Catapult: does a bigger bend throw further?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "e1",
+    "e2",
+    "p1x"
+   ],
+   "plan": "Get it before The Bend Wall: where does the marble go when the wall ends?."
+  },
+  {
+   "id": "b-wooden-ice-cream-sticks--a-p",
+   "item": "Wooden ice-cream sticks (a pack)",
+   "kind": "material",
+   "why": "Used in Design a Catapult: does a bigger bend throw further?. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in.",
+   "url": "https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack",
+   "used_in": [
+    "p1x"
+   ],
+   "plan": "Get it before Design a Catapult: does a bigger bend throw further?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [
@@ -2201,7 +2403,8 @@
    "videos",
    "how_we_found_out",
    "ws-challenge",
-   "open_questions"
+   "open_questions",
+   "p1x"
   ],
   "core": [
    "a1",
@@ -2375,5 +2578,40 @@
     "Gravity, push and pull are forces; a rubber band is a thing that a force can change."
    ]
   ]
- }
+ },
+ "more_stories": [
+  {
+   "title": "The Clay That Remembers",
+   "mins": 5,
+   "read_aloud": true,
+   "note": "",
+   "text": [
+    "In Manamadurai, a town in Tamil Nadu where the potters' wheels hum from morning till night, there lived a girl called Lakshmi and her grandmother, Paati. Paati's hands were brown and cracked, like a dry riverbed in May, and they could do wonderful things. Lakshmi had watched them a thousand times: a lump of wet grey clay on the spinning wheel, Paati's thumbs pressing down into its middle, her fingers pulling up its sides, and a pot rising out of nothing like a flower opening.",
+    "\"How does the clay know what to become?\" Lakshmi asked.",
+    "\"I don't know what clay knows,\" said Paati. \"But I know this. Every push and every pull my hands give it, the clay keeps. A rubber ball doesn't keep anything. Squeeze it, let go, and it jumps back, as if nothing happened. But clay keeps every touch.\"",
+    "Lakshmi tried it. She pressed her thumb into a soft lump of clay. When she lifted it, her thumbprint was still there, with every tiny swirl. She squeezed a rubber ball in her other hand and let go. Pop, back to round. The ball was round again, as if she had never touched it.",
+    "After that she tested everything. The hair band on her plait stretched when she pulled it, and went small again when she let go. The tin lid she sat on by mistake stayed bent. Her own cheek, when Paati pinched it, sprang back at once, which made Paati laugh. \"You are made of rubber,\" she said. \"Good. Children should spring back.\"",
+    "\"Can I make the clay lose a shape, if I want to?\" Lakshmi asked.",
+    "\"Only while it's wet,\" said Paati. She squashed the thumbprint flat with the heel of her hand, and it was gone. \"Push it gently and it changes a little. Push it hard and it changes a lot. But once it goes into the fire, it keeps its shape for ever. The fire turns soft clay as hard as stone.\"",
+    "That rainy season Paati grew tired, and then she grew ill. She stopped going to the wheel. The house was quiet in a way Lakshmi didn't like. When the paddy fields turned gold, Paati died.",
+    "Lakshmi didn't want to go near the wheel after that. For weeks it stood still under its cloth. One day her mother asked her to fetch the big old water pot from the storeroom, the one that had been in the family longer than anyone could say. It was heavy and cool, and as Lakshmi carried it into the light, she saw something on its side, near the bottom, that she had never noticed before.",
+    "A handprint. A small one, pressed into the clay before it was baked, a long, long time ago. And next to it, a bigger one.",
+    "\"Whose hands are these?\" she whispered.",
+    "Her mother knelt beside her and put her finger in the small handprint. \"That,\" she said, \"is Paati's hand, when she was about your age. And that big one is her mother's. She was teaching Paati, like Paati taught you.\"",
+    "Lakshmi put her own hand next to the small one. It was almost exactly the same size. The clay had kept Paati's push for sixty years. The fire had made it hard, so the handprint could never be squashed out again.",
+    "The next morning Lakshmi took the cloth off the wheel. She wet the clay the way Paati had shown her. She pushed her thumbs into its middle and pulled its walls up, slowly, wobbly, a little lopsided. It wasn't a good pot. But before it went into the kiln, she pressed her hand into its side, and her mother pressed hers next to it.",
+    "\"Some things spring back,\" Lakshmi said, looking at the two handprints. \"And some things keep the shape you give them.\"",
+    "Her mother didn't answer. She just held Lakshmi's clay-covered hand for a long time."
+   ],
+   "epiphany": "Forces change shape. Elastic things (a rubber ball, a hair band, a child's cheek) spring back when the force stops. Plastic things (wet clay, a bent tin lid) keep the new shape. Firing in a kiln makes clay hard, so its shape can't change any more. The story turns on the old handprint on the water pot.",
+   "ask": [
+    "What's the difference between the clay and the rubber ball?",
+    "Why was Paati's handprint still there after sixty years?",
+    "Find three things at home that spring back after a push, and three that stay changed.",
+    "What did Paati mean when she said children should spring back?",
+    "The handprint stayed for sixty years. What else around you still shows a push or a press from long ago?"
+   ],
+   "art": []
+  }
+ ]
 }

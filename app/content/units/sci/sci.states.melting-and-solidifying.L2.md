@@ -1,7 +1,7 @@
 # Melting and solidifying: why chocolate melts in your hand but candle wax does not
 `sci.states.melting-and-solidifying.L2`
 
-**Summary.** Ice, chocolate, butter, coconut oil and candle wax: which melts first? In this unit you will race them in a warm room, then in warm water, then near a candle flame. You will also drop hot wax to watch it turn solid, and set melted chocolate in the fridge.
+**Summary.** Ice, chocolate, butter, coconut oil and candle wax: which melts first? In this lesson you will race them in a warm room, then in warm water, then near a candle flame. You will also drop hot wax to watch it turn solid, and set melted chocolate in the fridge.
 
 **Intro.** *A square of chocolate melts on your tongue in a minute. A candle sits on the shelf all summer and never melts. Both are solids. Why does one melt so easily and the other not at all?* Ice, chocolate, butter and wax all melt in the end. But they do not melt at the same warmth. You are going to race them and find out which one melts first, and which one needs the most warmth. Then you will cool them down and see what happens.
 
@@ -32,6 +32,8 @@ In the melting race, the ice cube slowly became a puddle on the plate. The choco
 - e.g. Ice turns into water on a plate.
 - e.g. Butter turns runny in a hot pan.
 - e.g. Kulfi drips down its stick on a hot day.
+- **Everyday view:** A solid melts at one exact warmth, like ice at 0 degrees Celsius.
+- **Materials scientists:** Find that pure crystals such as ice melt at one temperature, but glass, wax and chocolate soften over a range. Chocolate goes soft in your hand because it is a mix of many fats.
 ### Solidifying and freezing: a liquid turns into a solid · *defined*
 **Definition:** Solidifying is when a liquid turns into a solid because it has cooled down enough. Freezing is solidifying in the cold, like water turning into ice.
 
@@ -39,6 +41,8 @@ In the melting race, the melted chocolate, butter and coconut oil set hard again
 - e.g. Water in an ice tray freezes in the freezer.
 - e.g. Hot ghee poured into a jar solidifies on a cold morning.
 - e.g. Melted wax solidifies as soon as it drips off a candle.
+- **Everyday view:** Water freezes at 0 degrees Celsius.
+- **Physicists:** Find that very clean water can stay liquid far below zero, called supercooling, and then freeze suddenly. Wood frogs freeze solid in winter and thaw alive, and Antarctic fish carry antifreeze proteins in their blood.
 ### Every solid melts at its own warmth · *defined*
 **Definition:** The melting point of a substance is the temperature at which it melts. Different substances have different melting points.
 
@@ -48,6 +52,8 @@ Ice melts at 0 degrees Celsius, so it melts in almost any room. Coconut oil melt
 - e.g. Chocolate and butter: a little below 37 degrees, the warmth of your body.
 - e.g. Candle wax: usually between about 45 and 70 degrees.
 - e.g. Iron: about 1,500 degrees.
+- **Everyday view:** Everything has one temperature at which it melts, like ice at 0 °C.
+- **Closer look:** Ice, salt and metals melt at a sharp temperature. Glass, wax and chocolate have no single melting point, and soften slowly as they warm.
 ### Melting and solidifying can be undone · *defined*
 **Definition:** A reversible change is a change that can be undone. When a substance melts and then solidifies again, it is still the same substance.
 
@@ -55,6 +61,8 @@ In the melting race, the chocolate melted in warm water and set again in the fri
 - e.g. Water to ice to water, again and again.
 - e.g. Old candle stubs melted down and poured into a new candle.
 - e.g. Ghee that sets in winter and melts again on the stove.
+- **Everyday view:** Melt it and cool it, and you get the same thing back.
+- **Chocolate makers:** Know that melted chocolate that sets again can turn dull and crumbly, called bloom, because the fat crystals form in a different pattern. They temper chocolate to control it. The change is nearly, not fully, undone.
 ### Warmth goes in to melt a solid, and comes out when it solidifies · *defined*
 **Definition:** A solid needs warmth to melt. That warmth comes from whatever is around it: the air, your hand or warm water. When a liquid solidifies, it gives out warmth to what is around it.
 
@@ -62,12 +70,16 @@ Hold an ice cube, and your hand gets cold. Warmth flows out of your hand into th
 - e.g. Ice cools a glass of buttermilk as it melts.
 - e.g. Your hand feels cold when you hold ice.
 - e.g. A bowl of warm water melted the chocolate quickly.
+- **Joseph Black:** In the 1760s he found that ice at zero takes in a lot of heat as it melts without growing warmer. He called it latent, hidden, heat.
+- **Kinetic scientists:** Explain that the heat goes into loosening the grip between particles, not into making them move faster. The energy is not hidden, only stored in the bonds.
 ### What happens inside a solid when it melts · *defined*
 **Definition:** Everything is made of tiny particles, far too small to see. In a solid they hold each other in place. In a liquid they hold on loosely and slide past each other.
 
 The tiny particles of a solid are always jiggling, even when the solid sits still. Warm them, and they jiggle harder. At the melting point they jiggle so hard that they slide past each other, and the solid flows as a liquid. Cool them, and they slow down and settle back into place. Different substances have different particles, held with different strength, so each one needs its own warmth to melt.
 - e.g. Ice particles slide apart at 0 degrees Celsius.
 - e.g. Wax particles need a candle flame's warmth to slide apart.
+- **Democritus and Kanada:** The Greek and Indian atomists said, 2,500 years ago, that things are made of tiny atoms, with empty space between them.
+- **Albert Einstein and Jean Perrin:** In 1905 Einstein explained that the jiggle of tiny grains in water is caused by molecules hitting them. In 1908 Perrin's measurements settled the matter, and made the particle picture solid evidence.
 
 ## Mostly agreed
 - Melting turns a solid into a liquid, and solidifying turns a liquid into a solid. *How we know:* In the melting race, the ice became water and the chocolate became runny. In the fridge, the melted chocolate and butter set hard again.
@@ -439,9 +451,9 @@ That night, Lakshmi wrote in her notebook: "Coconut oil is the same oil in Kochi
 ## Worksheets
 ### Melt and Set (core) (core, 12 questions)
 1. (match) Draw a line from each word to what it means.  
-   **Answer:** Melt → a solid turns into a liquid; Solidify → a liquid turns into a solid; Freeze → solidify in the cold, like water into ice; Melting point → the warmth at which a solid melts. *Why:* These are the four main words of this unit.
+   **Answer:** Melt → a solid turns into a liquid; Solidify → a liquid turns into a solid; Freeze → solidify in the cold, like water into ice; Melting point → the warmth at which a solid melts. *Why:* These are the four main words of this lesson.
 2. (mcq) In the melting race, which solid did not melt in the warm water, and needed a candle flame?  
-   Options: The chocolate / The candle wax / The butter  
+   Options: The candle wax / The chocolate / The butter  
    **Answer:** The candle wax. *Why:* Wax melts at a much higher warmth than bath water. Picking chocolate may mean mixing up the warm water step with the plate step.
 3. (sort) Sort these into melting and solidifying.  
    **Answer:** kulfi dripping on a hot day → Melting; ghee going hard on a cold morning → Solidifying; butter going runny in a hot pan → Melting; water turning into ice in a tray → Solidifying; an ice cube shrinking in a glass of buttermilk → Melting; a drop of candle wax turning white on a plate → Solidifying. *Why:* Melting is a solid turning into a liquid as it warms. Solidifying is a liquid turning into a solid as it cools.
@@ -466,7 +478,7 @@ That night, Lakshmi wrote in her notebook: "Coconut oil is the same oil in Kochi
    **Answer:** The fridge is cold enough to make chocolate solidify, but water needs the freezer, which is much colder.. *Why:* A strong answer says each liquid solidifies at its own warmth, and water needs more cold than chocolate.
 ### Warm, Cold and In Between (stretch) (stretch, 12 questions)
 1. (mcq) In the story The Coconut Oil That Turned White, Lakshmi's coconut oil is golden and runny in Kochi, but white and hard on a January morning in Delhi. Why?  
-   Options: The oil went bad on the train / Delhi is colder than the oil's melting point that morning / Delhi oil is a different oil  
+   Options: Delhi is colder than the oil's melting point that morning / The oil went bad on the train / Delhi oil is a different oil  
    **Answer:** Delhi is colder than the oil's melting point that morning. *Why:* Coconut oil melts at about 24 degrees Celsius. A Delhi winter morning is colder than that, so the oil solidifies. Picking 'went bad' is what Lakshmi's Appa thought at first.
 2. (fill) When liquid wax cools and turns hard, we say it ____.  
    **Answer:** ['solidifies', 'sets']. *Why:* Solidifying is a liquid turning into a solid as it cools.
@@ -490,44 +502,44 @@ That night, Lakshmi wrote in her notebook: "Coconut oil is the same oil in Kochi
 11. (write) Many people think hot water can never freeze faster than cold water. A Tanzanian schoolboy, Erasto Mpemba, said he saw it happen. How could you test it at home?  
    **Answer:** Put the same amount of hot water and cold water in two tumblers that are the same, side by side in the freezer. Look every 30 minutes to see which one freezes first.. *Why:* A strong answer keeps everything the same except how hot the water starts. Scientists still argue about this, so any honest result is useful.
 12. (mcq) Why do we melt chocolate in a bowl floating on warm water, and not straight on the flame?  
-   Options: Chocolate melts with only a little warmth, and a flame can burn it / Chocolate never melts on a flame / Warm water makes more chocolate  
+   Options: Chocolate never melts on a flame / Warm water makes more chocolate / Chocolate melts with only a little warmth, and a flame can burn it  
    **Answer:** Chocolate melts with only a little warmth, and a flame can burn it. *Why:* Chocolate melts a little below the warmth of your body, so warm water is enough. A direct flame is far hotter, and the chocolate can burn.
 
 ## Videos
 - **What is freezing point, melting point and boiling point (Dr. Binocs)** (Peekaboo Kidz, 6 min) id `Yv_vDQerOBk`: Explains that different solids melt at different temperatures, which is why some things melt faster than others in the melting race. *Check:* Found by search: "What is Freezing Point, Melting Point and Boiling Point? | Chemistry Lessons | Dr. Binocs Show" by Peekaboo Kidz, 6 minutes, 26 seconds. A parent may preview it.
 - **Time-lapse of a glass of water freezing** (Johnathon Choate, 1 min) id `xFRu2mt6SgQ`: Shows a glass of water turning to ice in time-lapse, like the freezer watch. *Check:* Found by search: "Time Lapse Test - Freezing A Glass of Water" by Johnathon Choate, 50 seconds. A parent may preview it.
-- **Where does chocolate come from?** (SciShow Kids, 4 min) id `zJdeQABAc_w`: Shows how cocoa beans become chocolate, the food we melt and set in this unit. *Check:* Found by search: "Where Does Chocolate Come From?" by SciShow Kids, 3 minutes, 43 seconds. A parent may preview it.
+- **Where does chocolate come from?** (SciShow Kids, 4 min) id `zJdeQABAc_w`: Shows how cocoa beans become chocolate, the food we melt and set in this lesson. *Check:* Found by search: "Where Does Chocolate Come From?" by SciShow Kids, 3 minutes, 43 seconds. A parent may preview it.
 
 ## Quiz
 1. (mcq) What is melting?  
-   Options: A solid turning into a liquid / A liquid turning into a solid / A liquid turning into a gas  
+   Options: A liquid turning into a solid / A solid turning into a liquid / A liquid turning into a gas  
    **Answer:** A solid turning into a liquid. *Why:* Melting is a solid turning into a liquid, like ice into water. Picking 'liquid into solid' mixes it up with solidifying.
 2. (mcq) Water in an ice tray turns into ice in the freezer. What is this called?  
-   Options: Melting / Freezing / Boiling  
+   Options: Melting / Boiling / Freezing  
    **Answer:** Freezing. *Why:* Freezing is solidifying in the cold. Water freezes at 0 degrees Celsius.
 3. (mcq) Which of these needs the most warmth to melt?  
-   Options: An ice cube / Butter / An iron nail  
+   Options: An ice cube / An iron nail / Butter  
    **Answer:** An iron nail. *Why:* Iron melts at about 1,500 degrees Celsius, in a furnace. Ice and butter melt in a warm room or a warm hand.
 4. (mcq) You float a piece of candle wax and a square of chocolate in bath-warm water. After five minutes, what do you see?  
    Options: The chocolate is runny and the wax is still hard / Both are runny / The wax is runny and the chocolate is still hard  
    **Answer:** The chocolate is runny and the wax is still hard. *Why:* Chocolate melts at a little below body warmth, so bath water melts it. Wax needs more warmth than bath water gives.
 5. (mcq) Melted chocolate is put in the fridge for 20 minutes. What happens?  
-   Options: It stays runny / It solidifies and is still chocolate / It turns into a new food  
+   Options: It solidifies and is still chocolate / It stays runny / It turns into a new food  
    **Answer:** It solidifies and is still chocolate. *Why:* Chocolate solidifies as it cools, and it is still chocolate. Melting can be undone.
 6. (mcq) You hold an ice cube in your hand. Why does your hand feel cold?  
-   Options: Cold flows out of the ice into your hand / Warmth flows out of your hand into the ice / The ice is wet  
+   Options: Cold flows out of the ice into your hand / The ice is wet / Warmth flows out of your hand into the ice  
    **Answer:** Warmth flows out of your hand into the ice. *Why:* Warmth always flows from the warmer thing to the cooler thing. Your hand loses warmth to melt the ice.
 7. (mcq) Why does a glass of buttermilk get colder when you add ice?  
-   Options: The ice takes warmth from the buttermilk to melt / The ice adds cold to the buttermilk / The buttermilk turns into ice  
+   Options: The ice adds cold to the buttermilk / The buttermilk turns into ice / The ice takes warmth from the buttermilk to melt  
    **Answer:** The ice takes warmth from the buttermilk to melt. *Why:* Melting ice takes in a lot of warmth from what is around it. That warmth comes out of the buttermilk, so it cools down.
 8. (mcq) Coconut oil is runny in Chennai but white and hard on a cold Delhi morning. Which is true?  
-   Options: It is the same oil in both places / The Delhi oil has gone bad / Only Chennai oil is real coconut oil  
+   Options: The Delhi oil has gone bad / Only Chennai oil is real coconut oil / It is the same oil in both places  
    **Answer:** It is the same oil in both places. *Why:* Coconut oil melts at about 24 degrees Celsius. Above that it is a liquid, below it a solid. It is the same oil.
 9. (mcq) You guessed the ice would melt last. Then you watched it melting on the plate. What should you do?  
-   Options: Say your guess was right anyway / Say what you saw, and change your idea / Stop the test  
+   Options: Say your guess was right anyway / Stop the test / Say what you saw, and change your idea  
    **Answer:** Say what you saw, and change your idea. *Why:* A good scientist guesses first, then says what the test really showed. A wrong guess is how we learn.
 10. (mcq) In a tumbler of water in the freezer, where does the ice usually start?  
-   Options: At the top and round the sides / In the very middle / Nowhere, it all freezes at once  
+   Options: In the very middle / Nowhere, it all freezes at once / At the top and round the sides  
    **Answer:** At the top and round the sides. *Why:* The top and sides touch the cold air and the cold cup, so they lose their warmth first.
 
 ## Applications
@@ -539,11 +551,11 @@ That night, Lakshmi wrote in her notebook: "Coconut oil is the same oil in Kochi
 - In Ladakh, the engineer Chewang Norphel built artificial glaciers: shallow pools where water freezes in winter and melts slowly in spring, to water the fields.
 
 ## Spotted around us
-- Fish packed in crushed ice at a fish market in Kochi or Kolkata. The ice melts slowly and keeps the fish cold.
-- A goldsmith in Thrissur or Jaipur melting gold in a small cup over a hot flame, then pouring it into a mould.
+- Fish packed in crushed ice at a fish market. The ice melts slowly and keeps the fish cold.
+- A goldsmith melting gold in a small cup over a hot flame, then pouring it into a mould.
 - Ghee in a jar, solid and pale in a cold month and clear and golden in summer.
 - Wax dripping and setting down the sides of candles at Deepavali or Christmas.
-- A kulfi cart in Mumbai, with kulfi cones packed in a pot of ice and salt.
+- A kulfi cart, with kulfi cones packed in a pot of ice and salt.
 - Snow on the Himalayas melting in spring and summer, and feeding rivers such as the Ganga and the Brahmaputra.
 
 ## Open questions
@@ -580,10 +592,14 @@ Same Water, New Shape (sci.states.L2): Topic-level song for Solids, liquids, gas
 
 ## Links
 - [PhET States of Matter: Basics](https://phet.colorado.edu/en/simulations/states-of-matter-basics) · simulation: A free online simulation. Heat or cool a solid and watch its tiny particles start to slide past each other as it melts.
-- [Birla Industrial and Technological Museum]() · place · Kolkata: A large science museum with hands-on galleries about heat and materials.
+- Birla Industrial and Technological Museum · place · Kolkata: A large science museum with hands-on galleries about heat and materials.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A large science museum with hands-on galleries, including engines and metals.
 
 ## Things to buy
+- [Wooden ice-cream sticks, about 5](https://www.amazon.in/s?k=wooden+ice+cream+sticks) (material): They are the handles for the ice lollies in the lolly project. About ₹20 to ₹50 for a pack of about 50 sticks at a kirana shop or online. Steel teaspoons are the household alternative. Used in p1. Buy them before you start the ice lolly project.
+- [Butter paper or baking paper, one sheet](https://www.amazon.in/s?k=butter+paper+baking) (material): The melted chocolate is poured onto it so the shapes can be lifted off once they set. About ₹30 to ₹80 for a roll at a kitchen or stationery shop. Foil or a clean plastic sheet can be used instead. Used in c2. Buy it before the Chocolate Shapes challenge.
+- [Chart paper, one big sheet](https://www.amazon.in/s?k=chart+paper) (material): The four-column board for the sorting game is drawn on it, so the whole table is visible at once. About ₹10 to ₹25 a sheet at a stationery shop. Two sheets of old newspaper taped together also work. Used in g2. Buy it before you play Room, Hand, Flame or Furnace.
+- [Printed pages for the change cards, solid cards and worksheets, about 10 pages]() (material): The two games use 16 printed change cards and 16 printed solid cards, and the worksheets are printed too. A copy shop charges about ₹1 to ₹2 a page, so the set costs about ₹10 to ₹20. Used in g1, g2, ws-core, ws-stretch. Print these before the first game.
 
 ## Warm-up
 - What is it called when a solid turns into a liquid? → Melting.

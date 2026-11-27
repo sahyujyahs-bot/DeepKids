@@ -59,6 +59,18 @@
    "art": "Brown muddy water running down a bare slope into a drain."
   },
   {
+   "term": "Silt",
+   "meaning": "Fine mud carried by water that settles at the bottom of rivers, ponds and dams.",
+   "example": "A village pond gets shallower each year as silt settles in it.",
+   "art": "A pond with a thick brown layer at the bottom and a smaller amount of water above."
+  },
+  {
+   "term": "Terrace farming",
+   "meaning": "Cutting a hillside into flat steps, so water runs slowly and soaks in, and the soil stays.",
+   "example": "Rice grows on steps cut into the hills of Himachal Pradesh and Kerala.",
+   "art": "A hillside with green steps running up to the top."
+  },
+  {
    "term": "Groundwater",
    "meaning": "Water that soaks down into the ground and fills the tiny spaces between grains of soil, sand and rock. Wells and borewells pump it up.",
    "example": "Many flats in Bengaluru and Chennai get some of their water from a borewell.",
@@ -87,6 +99,18 @@
    "meaning": "To lie and roll in water or mud to cool down.",
    "example": "On a hot afternoon, buffaloes wallow in a pond with only their heads showing.",
    "art": "Three buffaloes in a muddy pond with only their heads and backs above the water."
+  },
+  {
+   "term": "Windbreak",
+   "meaning": "A row of tall trees at the edge of a field that slows the wind, so less soil blows away.",
+   "example": "Rows of trees at the edge of a field in Gujarat.",
+   "art": "A row of trees with arrows showing the wind slowing down behind them."
+  },
+  {
+   "term": "Organic farming",
+   "meaning": "Growing crops with compost, dung manure and neem, and without chemical fertiliser or pesticide.",
+   "example": "A farmer who sprays neem leaf water on her brinjal plants is farming organically.",
+   "art": "A farmer spreading dark compost around vegetable plants."
   }
  ],
  "explanations": [
@@ -136,11 +160,12 @@
    "concept": "Animals who help us, and what they need",
    "status": "defined",
    "definition": "Useful animals give people food, work and materials. In return, they need clean water, the right food, shade, a clean shelter, rest and care when they are ill.",
-   "description": "Each animal has her own needs, which come from her own body. A buffalo has dark skin and fewer sweat glands than a cow, so she heats up fast in the sun. She wallows in water or mud to cool down. So a buffalo needs a pond, a shower or a wet floor on hot days. A hen needs a dry, clean coop, because damp and dirt bring disease. A bullock that pulls a cart needs rest in the hottest hours. Honeybees need flowers without poison sprays. A silkworm caterpillar eats mulberry leaves and almost nothing else, and needs fresh ones every day. Caring for an animal starts with asking what her life is like.",
+   "description": "Each animal has her own needs, which come from her own body. A buffalo has dark skin and fewer sweat glands than a cow, so she heats up fast in the sun. She wallows in water or mud to cool down. So a buffalo needs a pond, a shower or a wet floor on hot days. A hen needs a dry, clean coop, because damp and dirt bring disease. A bullock that pulls a cart needs rest in the hottest hours. Honeybees need flowers without poison sprays. A silkworm caterpillar eats mulberry leaves and almost nothing else, and needs fresh ones every day. Caring for an animal starts with asking what her life is like. Cows, buffaloes and goats give milk, and the milk becomes curd, ghee and paneer. They give company too, and many children know each one by name. Families respect them because they give so much and need care every day.",
    "examples": [
     "Cows and buffaloes give milk. Their dung is used as manure and as fuel.",
     "Hens give eggs. Bees give honey and pollinate crops. Silkworms give silk. Sheep give wool.",
-    "Bullocks pull ploughs and carts. Dogs guard homes and help people who cannot see."
+    "Bullocks pull ploughs and carts. Dogs guard homes and help people who cannot see.",
+    "Donkeys carry bricks and sacks, and camels carry loads across the sand in the Thar desert."
    ],
    "perspectives": [],
    "art": "A row of animals with what they give: a buffalo and a steel can of milk, a hen and eggs, a bee and honey, a silkworm and a silk thread, a sheep and wool.",
@@ -150,7 +175,7 @@
    "concept": "Caring for animals is also the law",
    "status": "defined",
    "definition": "In India, the Prevention of Cruelty to Animals Act of 1960 makes it a crime to beat, overload, starve or neglect an animal.",
-   "description": "Good care is simple to say. Give clean water every day, more in summer. Give shade and rest in the hottest hours. Keep the shed or coop clean and dry. Get vaccines, such as the rabies vaccine for dogs. Never feed animals plastic, or let them eat from rubbish. Cows that wander city streets often swallow plastic bags with food scraps inside. The bags cannot be digested and fill up their stomachs. Vets in Indian cities have taken many kilograms of plastic out of single cows.",
+   "description": "Good care is simple to say. Give clean water every day, more in summer. Give shade and rest in the hottest hours. Keep the shed or coop clean and dry. Get vaccines, such as the rabies vaccine for dogs. Never feed animals plastic, or let them eat from rubbish. Cows that wander city streets often swallow plastic bags with food scraps inside. The bags cannot be digested and fill up their stomachs. Vets in Indian cities have taken many kilograms of plastic out of single cows. Birds are made to fly, and a small cage hurts them. Animals made to perform in circuses are often beaten and kept in tiny cages. India has banned the use of lions, tigers, bears and monkeys in circuses.",
    "examples": [
     "On Mattu Pongal, families in Tamil Nadu bathe their cattle, paint their horns and feed them pongal, to thank them.",
     "Tying food waste in a bag and throwing it on the road can harm a cow. A bin with a lid keeps it away from her.",
@@ -173,6 +198,45 @@
    "perspectives": [],
    "art": "A cut-away of a grassy slope with roots holding the soil, next to a bare slope with muddy water running off.",
    "context": "This card explains why soil washes away when there are no plants on it."
+  },
+  {
+   "concept": "What soil erosion does",
+   "status": "defined",
+   "definition": "When soil washes or blows away, farms, rivers, wells and the land itself are harmed.",
+   "description": "First, the best soil is the top layer, and it goes first. Crops grow poorly in what is left, so farms give less food. Second, the soil that washes away settles in rivers, ponds and dams as mud called silt. Silt fills them up, so they hold less water. Third, with a river bed full of silt, floods come more easily. Fourth, when rain runs off bare ground and does not soak in, wells and streams run dry. Fifth, running water cuts deep gullies in the land. Along the Chambal river in Madhya Pradesh, Rajasthan and Uttar Pradesh, rain has cut deep ravines into the land.",
+   "examples": [
+    "A pond in a village that gets shallower each year because of silt.",
+    "A bare farm field with little cracks and small gullies after the monsoon.",
+    "A river that floods in September because its bed is full of silt."
+   ],
+   "art": "A river bed half full of brown silt with water spilling over, and a gully cut into a bare field.",
+   "perspectives": []
+  },
+  {
+   "concept": "How to stop soil erosion",
+   "status": "defined",
+   "definition": "Erosion is stopped by covering the soil, slowing the water or the wind, and holding the soil with roots.",
+   "description": "Plant trees, because roots hold the soil and leaves soften the rain. Grow grass or leave crop stubble, so the soil is never bare. Plough along the curve of a slope and not up and down it, so each furrow holds water back. Cut a hillside into flat steps called terraces, so water runs slowly from step to step and soaks in. Plant a row of tall trees at the edge of a field, called a windbreak, to slow the wind. Build small walls of stones, called bunds, across a gully, to catch soil and slow the water. Each way works because it slows the water or the wind, or holds the soil.",
+   "examples": [
+    "Rice terraces on hillsides in Kerala, Himachal Pradesh and the north-east of India.",
+    "Tea bushes in the Nilgiris planted in rows along the slope.",
+    "Rows of trees at the edge of fields in Gujarat, to slow the wind."
+   ],
+   "art": "A hillside with terraces and grass, and a row of trees at a field's edge with arrows showing the wind slowed.",
+   "perspectives": []
+  },
+  {
+   "concept": "Why forests matter",
+   "status": "defined",
+   "definition": "Forests clean the air, cool the land, hold the soil, slow the rain and give homes and useful things to many living beings.",
+   "description": "Leaves take in carbon dioxide and give out oxygen. A forest is cooler than bare ground, because of its shade and the water vapour that leaves give out. Roots hold the soil, and fallen leaves keep it covered. A forest slows the rain, so water soaks in and reaches streams little by little. This helps stop floods in the monsoon and stops streams drying in summer. Forests are homes for animals, birds and insects. They give people fruit, honey, firewood, bamboo and medicine plants.",
+   "examples": [
+    "A mango grove is cooler at noon than the road beside it.",
+    "A stream below a forest keeps flowing in May, but a stream below a bare hill is dry.",
+    "Adivasi families gather honey, amla and bamboo from the forest, and they know it well."
+   ],
+   "art": "A forest on a hill with rain soaking in and a full stream below, next to a bare hill with muddy water rushing off.",
+   "perspectives": []
   },
   {
    "concept": "People who stood up for forests",
@@ -201,6 +265,19 @@
    "perspectives": [],
    "art": "A city building in the rain, with a pipe from the terrace into a pit, and blue arrows going down into the ground to a borewell.",
    "context": "This card explains how water is saved at home and how cities put rain back into the ground."
+  },
+  {
+   "concept": "Everyday habits that protect the environment",
+   "status": "defined",
+   "definition": "Small habits at home and in the street protect soil, water, air and living beings. Many families doing them together make a big difference.",
+   "description": "Plant a tree and care for her as she grows. Keep your surroundings clean, and put rubbish in a bin. Put peels and dry leaves in a compost pit. Save water. Sometimes a factory or a neighbour burns plastic or pours dirty water into a drain or river. Tell a grown-up. A grown-up can report it to the local office or the State Pollution Control Board. Use fewer chemicals, such as strong cleaners and sprays. On farms, organic farming grows crops without chemical fertiliser or pesticide. It uses compost, cow dung manure and neem. In 2016 Sikkim became the first state in India to farm all its land this way.",
+   "examples": [
+    "A family puts vegetable peels in a pit, and a few weeks later the tulsi has rich new soil.",
+    "A child tells her mother about the smoke from burning plastic near the school, and her mother writes to the ward office.",
+    "A farmer sprays neem leaf water instead of a chemical spray on her brinjal plants."
+   ],
+   "art": "A child planting a sapling, a compost pit, and a farmer spreading cow dung on a field.",
+   "perspectives": []
   },
   {
    "concept": "Is it fair to use animals at all?",
@@ -787,11 +864,11 @@
       "t": "mcq",
       "q": "The bare tub's water was brown, and the wheat tub's water was much clearer. Why?",
       "options": [
-       "The wheat drank all the water",
        "The roots held the soil, and the leaves slowed the drops",
+       "The wheat drank all the water",
        "The wheat tub had less soil"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Roots grip the soil grains, and the leaves break the force of each drop, so less soil is knocked loose. The wheat did drink some water, but not 2 cups in a minute. Both tubs had the same soil, so that was not the difference."
      },
      "parent": "The bare tub usually gives brown water and a clear layer of soil in the bowl. The wheat tub's water is usually much clearer, because the roots form a mat. Link it to the card 'Soil needs a cover': this is why an overgrazed field loses its soil."
@@ -1133,11 +1210,11 @@
       "t": "mcq",
       "q": "Why does a hen need a dry coop?",
       "options": [
-       "Hens cannot walk on wet ground",
        "Damp and dirt bring disease",
+       "Hens cannot walk on wet ground",
        "Eggs melt in the rain"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Germs and tiny pests grow fast in damp, dirty bedding, and hens fall ill. Hens can walk on wet ground, and eggs do not melt. Caring for an animal starts with knowing what makes her ill."
      },
      "parent": "The answer is that damp and dirt bring disease. Germs and tiny pests grow fast in damp bedding, so hens fall ill."
@@ -1419,6 +1496,129 @@
      "parent": "Honeybees make honey from nectar they collect from flowers. Pesticide sprays harm them, so flowers grown without sprays matter."
     }
    ]
+  },
+  {
+   "id": "a5",
+   "title": "The Fan Wind Test: does wind blow bare soil away?",
+   "mins": 20,
+   "days": 1,
+   "context": "In this activity you make a small wind with a paper fan and see whether it blows dry soil off a bare tray and off a tray with grass or leaves on it.",
+   "materials": [
+    {
+     "item": "two shallow trays, plates with sides or thali plates",
+     "qty": 2
+    },
+    {
+     "item": "dry, loose soil, enough to fill both trays about 1 centimetre deep",
+     "qty": 1
+    },
+    {
+     "item": "a handful of grass or dry leaves",
+     "qty": 1
+    },
+    {
+     "item": "two sheets of newspaper",
+     "qty": 2
+    },
+    {
+     "item": "a paper fan or a piece of card",
+     "qty": 1
+    },
+    {
+     "item": "a cloth to cover the nose and mouth",
+     "qty": 1
+    }
+   ],
+   "safety": "Do this outside or beside an open window. Cover your nose and mouth with a cloth, because dry soil dust is not good to breathe. Wash your hands when you finish.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 20,
+     "what": "Fill both trays with dry soil and cover one with grass or leaves. Fan each tray 20 times and see where the soil goes."
+    }
+   ],
+   "record": "Draw both newspapers and shade where the soil landed. Write which tray lost more soil and why.",
+   "setup": [
+    {
+     "art": "Two trays of dry soil on newspaper, one bare and one covered with grass.",
+     "caption": "1. Fill both trays with the same amount of dry soil. Cover one with grass or leaves."
+    },
+    {
+     "art": "A child fanning one tray from the side, with soil blowing onto the newspaper.",
+     "caption": "2. Fan each tray 20 times, from the same distance and in the same way."
+    },
+    {
+     "art": "Two newspapers with a grey patch of soil on one and almost none on the other.",
+     "caption": "3. Look at where the soil landed. Which tray lost more?"
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 8,
+     "do": "1. Spread the soil 1 centimetre deep in both trays. 2. Cover one tray with grass or dry leaves, so no soil shows. 3. Put each tray on its own sheet of newspaper, on the ground outside or by an open window. 4. Cover your nose and mouth with the cloth.",
+     "say": "We will make a small wind. First guess: which tray will lose more soil, the bare one or the one with grass on it? Why?",
+     "kid": "Fill both trays with soil. Cover one with grass. Guess which will lose more.",
+     "context": "This is the first step of The Fan Wind Test. You set up two trays that are alike except for the cover.",
+     "ask": [
+      {
+       "q": "Which tray do you think will lose more soil, and why?",
+       "good": [
+        "The bare one, because nothing covers the soil.",
+        "The one with grass, because it is rougher."
+       ]
+      }
+     ],
+     "parent": "Let your child guess first and do not correct the guess. The soil must be dry and loose, or the wind will not move it. If your soil is damp, spread it in the sun for an hour."
+    },
+    {
+     "id": "s2",
+     "mins": 7,
+     "do": "1. Stand 30 centimetres from the first tray, at the side. 2. Fan the tray 20 times, at the same speed. 3. Do the same to the second tray, from the same distance. 4. Do not blow on the trays with your mouth.",
+     "say": "Fan the bare tray 20 times. Now fan the grass tray 20 times, the same way and from the same place. Do not breathe the dust.",
+     "kid": "Fan each tray 20 times from the same place.",
+     "context": "In this step you fan both trays in the same way, so the test is fair.",
+     "ask": [
+      {
+       "q": "Why must we fan both trays the same number of times, from the same place?",
+       "good": [
+        "So the only difference is the grass.",
+        "So the test is fair."
+       ]
+      }
+     ],
+     "parent": "With 2 to 4 children, one child fans, one counts, and one watches where the soil goes. Swap the jobs between trays only if every child fans the same way."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "1. Look at each newspaper. Where did soil land? 2. Compare how much soil was blown off each tray. 3. Draw the two newspapers and shade the soil.",
+     "say": "Which newspaper has more soil on it? What did the grass do to the wind?",
+     "kid": "Look at both newspapers. Draw where the soil landed. Say why.",
+     "context": "In this step you compare the two trays and say what covers and windbreaks do.",
+     "ask": [
+      {
+       "q": "Which farmers could use this idea, and how?",
+       "good": [
+        "A farmer in a dry place can plant a row of trees, which slows the wind.",
+        "A farmer can leave stubble or grass on the field after harvest."
+       ]
+      }
+     ],
+     "parent": "Usually the bare tray loses far more soil. If both lose little, try fanning from closer, or with drier soil. Then say what the test shows and what it does not: it uses a small fan, and real wind is much stronger.",
+     "check": {
+      "t": "mcq",
+      "q": "Why did the covered tray lose less soil?",
+      "options": [
+       "The grass slowed the wind near the soil and held it down",
+       "The grass made the soil heavier",
+       "The grass blew away"
+      ],
+      "a": 0,
+      "why": "Wind picks up bare soil easily. Grass slows the wind close to the ground and covers the soil, so less is blown away."
+     }
+    }
+   ]
   }
  ],
  "projects": [
@@ -1609,11 +1809,11 @@
      "t": "mcq",
      "p": "You cut wheat and moong plants 2 centimetres above the soil. Four days later, which will be taller?",
      "opts": [
-      "The moong",
       "The wheat",
+      "The moong",
       "Both the same, 2 centimetres"
      ],
-     "a": 1,
+     "a": 0,
      "outcome": 1,
      "how": "e1",
      "why": "Wheat grows from the bottom of each leaf, so the cut leaves keep pushing up. Moong grows from the tip of each stem, and the tips were cut off. Picking 'both the same' means thinking no plant can grow after cutting."
@@ -1708,10 +1908,10 @@
      "p": "On a hot afternoon, a buffalo walks into a pond and lies there with only her head showing. Why?",
      "opts": [
       "She is looking for fish",
-      "She heats up fast and is cooling down",
-      "She is washing off milk"
+      "She is washing off milk",
+      "She heats up fast and is cooling down"
      ],
-     "a": 1,
+     "a": 2,
      "outcome": 0,
      "why": "A buffalo has dark skin and few sweat glands, so she gets hot quickly in the sun. Lying in water or mud, called wallowing, cools her. That is why buffaloes need a pond or a shower in summer."
     },
@@ -1816,6 +2016,55 @@
      "lines": 4,
      "a": "Brushing with a mug instead of a running tap uses a little water, not litres. Fixing a dripping tap stops water being lost all day.",
      "why": "A strong answer gives real actions and says what each one saves."
+    },
+    {
+     "t": "sort",
+     "p": "Sort each one: does it keep soil in place, or let it wash or blow away?",
+     "items": [
+      [
+       "a hillside covered in grass",
+       "Keeps soil"
+      ],
+      [
+       "a bare ploughed slope in the monsoon",
+       "Loses soil"
+      ],
+      [
+       "a row of tall trees at the edge of a field",
+       "Keeps soil"
+      ],
+      [
+       "steps cut into a hillside",
+       "Keeps soil"
+      ],
+      [
+       "cutting all the trees on a hill",
+       "Loses soil"
+      ]
+     ],
+     "cats": [
+      "Keeps soil",
+      "Loses soil"
+     ],
+     "a": "see items",
+     "why": "Roots, leaves, steps and windbreaks slow the water or the wind and hold the soil. Bare ground has nothing to stop them.",
+     "outcome": 2
+    },
+    {
+     "t": "fill",
+     "p": "A row of tall trees planted at the edge of a field to slow the wind is called a ____.",
+     "a": [
+      "windbreak"
+     ],
+     "why": "A windbreak slows the wind near the ground, so it carries less soil.",
+     "outcome": 2
+    },
+    {
+     "t": "truefalse",
+     "p": "A parrot is happy in a small cage if she is given enough food.",
+     "a": false,
+     "why": "False. A parrot needs to fly and stretch her wings. A small cage hurts her, even when she is fed well.",
+     "outcome": 0
     }
    ]
   },
@@ -1836,11 +2085,11 @@
      "t": "mcq",
      "p": "Why does a moong stem stop getting taller after its tip is cut off?",
      "opts": [
-      "Moong grows from the tip of the stem",
       "Moong does not need light",
+      "Moong grows from the tip of the stem",
       "The soil was too wet"
      ],
-     "a": 0,
+     "a": 1,
      "outcome": 1,
      "why": "Moong makes new stem at the tip, so cutting the tip takes away the growing part. A bud lower down may slowly grow a side shoot. Picking 'too wet' means looking for a cause that was the same for both plants."
     },
@@ -1930,11 +2179,11 @@
      "t": "mcq",
      "p": "In a city, roofs and roads cover most of the ground, and the wells are going dry. Why would a rule that every building must catch its rain help?",
      "opts": [
-      "Rain sent into pits soaks down and refills the groundwater, instead of running into drains",
       "Rain is damaging the roofs",
-      "The sea is too full"
+      "The sea is too full",
+      "Rain sent into pits soaks down and refills the groundwater, instead of running into drains"
      ],
-     "a": 0,
+     "a": 2,
      "outcome": 5,
      "why": "When the ground is covered by buildings and roads, rain runs into drains. Sending it into pits helps refill the groundwater that wells draw on."
     },
@@ -2000,11 +2249,11 @@
      "t": "mcq",
      "p": "Buffaloes are kept out of a bird wetland to protect the nests. But the buffaloes had been eating a tall grass there. What might go wrong?",
      "opts": [
-      "The grass may spread over the shallow water that water birds need",
       "More birds will come than ever",
-      "The water will dry up at once"
+      "The water will dry up at once",
+      "The grass may spread over the shallow water that water birds need"
      ],
-     "a": 0,
+     "a": 2,
      "outcome": 6,
      "why": "The buffaloes kept the grass down. Without them, it can spread over the open water many water birds use. Taking one animal out can change the whole place."
     },
@@ -2036,6 +2285,62 @@
      ],
      "a": 2,
      "why": "A bare field has nothing to hold the soil or soften the drops, so the rain washes it away. The other three slow the water or cover the soil."
+    },
+    {
+     "t": "match",
+     "p": "Match each way of stopping erosion to why it works.",
+     "pairs": [
+      [
+       "Terraces",
+       "steps slow the water so it soaks in"
+      ],
+      [
+       "A windbreak of trees",
+       "slows the wind so less soil blows"
+      ],
+      [
+       "Planting grass",
+       "roots hold the soil and leaves soften the drops"
+      ],
+      [
+       "Ploughing along the curve of a slope",
+       "each furrow holds water back"
+      ],
+      [
+       "Stone bunds in a gully",
+       "catch soil and slow the water"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Every way works by slowing the water or the wind, or by holding the soil. A strong answer could add a sixth way, such as planting trees.",
+     "outcome": 2
+    },
+    {
+     "t": "write",
+     "p": "Write three harmful effects of soil erosion: one for farms, one for rivers and ponds, and one for wells.",
+     "lines": 4,
+     "a": "Farms give less food, because the best soil has gone. Rivers and ponds fill with silt and hold less water, so floods come more easily. Wells and streams run dry, because rain runs off bare ground and does not soak in.",
+     "why": "A strong answer links each effect to a cause, such as silt, runoff or the loss of the top layer of soil.",
+     "outcome": 2
+    },
+    {
+     "t": "mcq",
+     "p": "A village cuts the forest above its stream. After two monsoons the stream floods, and then it is dry in summer. Why?",
+     "opts": [
+      "The forest used to make the rain stop",
+      "Without roots and leaves, rain rushes off instead of soaking in and filling the stream slowly",
+      "The stream was always like that"
+     ],
+     "a": 1,
+     "why": "A forest slows the rain so it soaks in and feeds the stream little by little. Bare ground sends it all down at once, and nothing is stored.",
+     "outcome": 4
+    },
+    {
+     "t": "truefalse",
+     "p": "India allows lions and tigers to be used in circuses.",
+     "a": false,
+     "why": "False. India has banned the use of lions, tigers, bears and monkeys in circuses, because animals made to perform are often beaten and kept in tiny cages.",
+     "outcome": 0
     }
    ]
   },
@@ -2078,11 +2383,11 @@
      "t": "mcq",
      "p": "A family mows their lawn very short every two days in May. The lawn turns brown and thin. Why?",
      "opts": [
-      "The grass has too little leaf left to make food, and uses up its stores",
       "Grass does not grow in May",
+      "The grass has too little leaf left to make food, and uses up its stores",
       "The mower makes the grass cold"
      ],
-     "a": 0,
+     "a": 1,
      "outcome": 2,
      "why": "Grass needs leaves to catch sunlight and make food. When grass is cut too often and too short, the plants use up the food stored in their roots. This is like overgrazing."
     },
@@ -2125,10 +2430,10 @@
      "p": "The trees on a hillside in the Western Ghats are cut down. In the next monsoon, what will the stream at the bottom of the hill look like?",
      "opts": [
       "Clearer than before",
-      "Muddier, carrying soil from the bare slope",
-      "Just the same"
+      "Just the same",
+      "Muddier, carrying soil from the bare slope"
      ],
-     "a": 1,
+     "a": 2,
      "outcome": 2,
      "why": "Without roots and fallen leaves, the rain washes soil off the slope into the stream. That is soil erosion, and the stream turns brown."
     },
@@ -2252,6 +2557,49 @@
      ],
      "a": "pairs as given",
      "why": "These are places in this lesson where people protected forests, wetlands and animals."
+    },
+    {
+     "t": "order",
+     "p": "Put these in order to show how a cut forest can lead to a flood.",
+     "items": [
+      "The river bed fills with silt",
+      "The trees on the hill are cut",
+      "The river spills over its banks",
+      "Rain hits the bare soil and washes it away"
+     ],
+     "a": [
+      "The trees on the hill are cut",
+      "Rain hits the bare soil and washes it away",
+      "The river bed fills with silt",
+      "The river spills over its banks"
+     ],
+     "why": "Without roots and leaves the rain washes the soil away. The soil settles in the river as silt, and the river has less room for water.",
+     "outcome": 2
+    },
+    {
+     "t": "write",
+     "p": "A neighbour burns plastic near your school every evening. What could you do, and who could help?",
+     "lines": 4,
+     "a": "Tell a grown-up at home and at school. A grown-up can talk kindly to the neighbour or report it to the local office or the State Pollution Control Board. We can say why burning plastic is harmful, and offer to take the plastic to a collection point.",
+     "why": "A strong answer is kind and safe. It asks a grown-up to report, and it gives a fact about why burning plastic harms.",
+     "outcome": 4
+    },
+    {
+     "t": "fill",
+     "p": "Soil that water carries away settles in rivers, ponds and dams as mud called ____.",
+     "a": [
+      "silt"
+     ],
+     "why": "Silt fills the river bed and the pond, so they hold less water.",
+     "outcome": 2
+    },
+    {
+     "t": "write",
+     "p": "A farmer wants to start organic farming. Explain what it is, and name one thing she will need.",
+     "lines": 4,
+     "a": "Organic farming grows crops without chemical fertiliser or pesticide. She will need compost or cow dung manure, and neem spray, to feed the soil and protect the plants.",
+     "why": "A strong answer says what organic farming leaves out and what it uses instead.",
+     "outcome": 4
     }
    ]
   }
@@ -2261,11 +2609,11 @@
    "t": "mcq",
    "p": "Which animal gives people silk?",
    "opts": [
-    "The honeybee",
     "The silkworm caterpillar",
+    "The honeybee",
     "The sheep"
    ],
-   "a": 1,
+   "a": 0,
    "outcome": 0,
    "why": "Silk is the thread a silkworm caterpillar spins to make her cocoon. Bees give honey, and sheep give wool."
   },
@@ -2274,10 +2622,10 @@
    "p": "You cut the top off lawn grass and the top off a tulsi plant. Which one grows taller again from the same leaf or stem?",
    "opts": [
     "The tulsi",
-    "The grass",
-    "Neither"
+    "Neither",
+    "The grass"
    ],
-   "a": 1,
+   "a": 2,
    "outcome": 1,
    "why": "Grass grows from the bottom of the leaf, so the cut leaf keeps growing. Tulsi grows from the tips of their stems, so they make new side shoots instead."
   },
@@ -2297,11 +2645,11 @@
    "t": "mcq",
    "p": "In the Cutting Test, why do we measure 3 wheat plants and not just 1?",
    "opts": [
-    "One plant might be odd",
     "Three is a lucky number",
+    "One plant might be odd",
     "Wheat grows in threes"
    ],
-   "a": 0,
+   "a": 1,
    "outcome": 3,
    "how": "e1",
    "why": "One plant might be weak or damaged. Measuring three shows what most plants do."
@@ -2310,11 +2658,11 @@
    "t": "mcq",
    "p": "Which of these is conservation?",
    "opts": [
-    "Picking a few curry leaves from each branch, so the plant grows more",
     "Cutting the whole curry leaf plant at once",
+    "Picking a few curry leaves from each branch, so the plant grows more",
     "Pulling the plant out by the roots"
    ],
-   "a": 0,
+   "a": 1,
    "outcome": 4,
    "why": "Conservation is taking in a way that lets the plant keep growing. Taking everything leaves nothing to grow back."
   },
@@ -2346,11 +2694,11 @@
    "t": "mcq",
    "p": "Why does soil under grass wash away less than bare soil?",
    "opts": [
-    "Roots hold it, and leaves soften the drops",
     "Grass makes the rain lighter",
+    "Roots hold it, and leaves soften the drops",
     "Grass soil is heavier"
    ],
-   "a": 0,
+   "a": 1,
    "outcome": 2,
    "why": "Roots grip the soil grains, and leaves stop the drops hitting the soil hard."
   },
@@ -2370,11 +2718,11 @@
    "t": "mcq",
    "p": "In a city, why does less rain soak into the ground?",
    "opts": [
-    "Roads and buildings cover the soil",
     "City rain is heavier",
-    "City soil is full of water"
+    "City soil is full of water",
+    "Roads and buildings cover the soil"
    ],
-   "a": 0,
+   "a": 2,
    "outcome": 5,
    "why": "Rain runs off roads and roofs into drains. Rainwater harvesting sends it back into the ground."
   },
@@ -2382,11 +2730,11 @@
    "t": "mcq",
    "p": "Why do many countries, India among them, have laws against beating, starving or neglecting animals?",
    "opts": [
-    "Animals feel pain and need care, and they cannot speak up for themselves",
     "To stop people keeping cows",
+    "Animals feel pain and need care, and they cannot speak up for themselves",
     "So anyone can keep wild animals"
    ],
-   "a": 0,
+   "a": 1,
    "outcome": 0,
    "why": "Animals can suffer, so the law protects them from cruelty. People may keep animals, but must care for them."
   },
@@ -2414,6 +2762,114 @@
    "a": 0,
    "outcome": 1,
    "why": "The new leaf is made at the bottom and pushes up. That is why the cut tips stay flat as the leaf grows."
+  },
+  {
+   "t": "mcq",
+   "p": "Why can erosion on a bare hillside make floods worse in the river below?",
+   "opts": [
+    "Soil makes the rain heavier",
+    "Silt fills the river bed, so it holds less water and spills over",
+    "Erosion makes the monsoon last longer"
+   ],
+   "a": 1,
+   "why": "The washed-away soil settles in the river as silt. With less room, the river spills over its banks more easily.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "Why do farmers on a hillside cut flat steps called terraces?",
+   "opts": [
+    "The steps make the hill taller",
+    "The steps keep the plants from growing",
+    "The steps slow the water so it soaks in and carries less soil"
+   ],
+   "a": 2,
+   "why": "On a steep slope water rushes down and drags soil with it. On steps it slows down and soaks into the ground.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "A row of tall trees stands at the edge of a dry field. How does it protect the soil?",
+   "opts": [
+    "It makes rain fall",
+    "It makes the soil heavier",
+    "It slows the wind, so less soil blows away"
+   ],
+   "a": 2,
+   "why": "Wind picks up dry, bare soil. A windbreak slows the wind near the ground, so it carries less.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "How does a forest help to stop both floods and dry streams?",
+   "opts": [
+    "The trees drink all the rain",
+    "Roots and leaves slow the rain, so it soaks in and reaches streams slowly",
+    "The trees make the rain stop"
+   ],
+   "a": 1,
+   "why": "In a forest, rain soaks into the soil and comes out slowly in streams. On bare ground it rushes away at once.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "Why is a forest cooler than bare ground nearby?",
+   "opts": [
+    "Forests are always higher up",
+    "Trees make the sun weaker",
+    "Shade, and the water vapour that leaves give out"
+   ],
+   "a": 2,
+   "why": "Leaves block sunlight, and they also give out water vapour, which cools the air around them.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "Why do many families respect cows, buffaloes and goats?",
+   "opts": [
+    "They never need food or water",
+    "They give milk, curd and company, and need care every day",
+    "They are bigger than people"
+   ],
+   "a": 1,
+   "why": "These animals give a lot to a family and depend on the family for food, water and shade. Respect means caring for them every day.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Which animal helps people by carrying loads across the sand in the Thar desert?",
+   "opts": [
+    "A silkworm",
+    "A honeybee",
+    "A camel"
+   ],
+   "a": 2,
+   "why": "Camels are strong and can walk far in the desert. A silkworm gives silk, and a honeybee gives honey.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Why is a small cage bad for a bird?",
+   "opts": [
+    "Birds are made to fly, and a small cage hurts her",
+    "Birds like to be alone",
+    "Birds do not need food in a cage"
+   ],
+   "a": 0,
+   "why": "A bird's body is made for flying. In a small cage she cannot stretch her wings, and she can become ill and unhappy.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "What does organic farming leave out?",
+   "opts": [
+    "Water and sunlight",
+    "Seeds",
+    "Chemical fertiliser and pesticide"
+   ],
+   "a": 2,
+   "why": "Organic farming uses compost, cow dung manure and neem. Every farm still needs seeds, water and sunlight.",
+   "outcome": 4
   }
  ],
  "videos": [
@@ -2688,6 +3144,103 @@
     "e3",
     "c1"
    ]
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in Rain Gauge: how much rain falls on our home?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before Rain Gauge: how much rain falls on our home?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Cutting Test: what grows back, wheat or moong?, The Dot Test: does a wheat leaf grow at the top or the bottom?, The Onion Test: where does a cut leaf grow from?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e2",
+    "a1",
+    "a3",
+    "p1"
+   ],
+   "plan": "Get it before The Cutting Test: what grows back, wheat or moong?."
+  },
+  {
+   "id": "b-small-torch-bulbs-or-leds-wi",
+   "item": "Small torch bulbs or LEDs with a holder",
+   "kind": "tool",
+   "why": "Used in The Onion Test: where does a cut leaf grow from?. About ₹10 to ₹50. A small torch can be taken apart for its bulb.",
+   "url": "https://www.amazon.in/s?k=torch+bulb+holder+set",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Get it before The Onion Test: where does a cut leaf grow from?."
+  },
+  {
+   "id": "b-wooden-ice-cream-sticks--a-p",
+   "item": "Wooden ice-cream sticks (a pack)",
+   "kind": "material",
+   "why": "Used in The Cutting Test: what grows back, wheat or moong?, Save the Slope. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in.",
+   "url": "https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack",
+   "used_in": [
+    "e1",
+    "c1"
+   ],
+   "plan": "Get it before The Cutting Test: what grows back, wheat or moong?."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in The Cutting Test: what grows back, wheat or moong?. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before The Cutting Test: what grows back, wheat or moong?."
+  },
+  {
+   "id": "b-a-measuring-jug-or-syringe--",
+   "item": "A measuring jug or syringe (marked in millilitres)",
+   "kind": "tool",
+   "why": "Used in The Drip Count: how much water does a dripping tap waste?. About ₹30 to ₹100. A clean medicine cup or marked bottle works.",
+   "url": "https://www.amazon.in/s?k=measuring+jug+500+ml",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Get it before The Drip Count: how much water does a dripping tap waste?."
+  },
+  {
+   "id": "b-marbles--a-few",
+   "item": "Marbles (a few)",
+   "kind": "material",
+   "why": "Used in Rain Gauge: how much rain falls on our home?. About ₹10 to ₹40. Small round stones or dried chana.",
+   "url": "https://www.amazon.in/s?k=glass+marbles+pack",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before Rain Gauge: how much rain falls on our home?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [
@@ -2824,6 +3377,7 @@
    "a3",
    "p1",
    "c1",
+   "a5",
    "ws-stretch",
    "big_questions",
    "ws-challenge",
@@ -2974,5 +3528,37 @@
     "The first three visit flowers and carry pollen, but an earthworm does not."
    ]
   ]
- }
+ },
+ "more_stories": [
+  {
+   "title": "The Cleaners of the Sky",
+   "mins": 7,
+   "read_aloud": true,
+   "note": "",
+   "text": [
+    "I am an old vulture now, and I live in a very large cage at Pinjore, at the foot of the hills in Haryana. The cage is as tall as a tree and as long as a cricket ground, with branches to sit on and a pool to drink from. The people who look after me are kind. They feed me clean meat and weigh my eggs and write numbers in a book. But I remember the sky.",
+    "When I was young, the sky over Rajasthan was full of us. You could look up on any hot afternoon and see a hundred of us turning on the warm air, round and round, so high that we were only dots, with our wings spread wide and never once flapping. We are white-rumped vultures. People thought we were ugly, with our bare grey heads and our long necks. They thought we were dirty, because of what we eat. But we were the cleaners of the sky.",
+    "Here is what we did. When a cow or a buffalo or a camel died, out in the fields or by the road, the people dragged it to the edge of the village. A family there, the leather workers, took the skin to make shoes and drums. Then they stepped back and looked up. And we came. We came down out of the sky like a slow brown rain, dozens of us, and in less than an hour there was nothing left but clean white bones in the sun. The leather workers and the vultures. We were partners, though nobody ever called it that.",
+    "A boy called Kishan, whose father was one of those leather workers, used to sit on the wall and watch us. He was not afraid. He gave us names. He called me Badi Amma, because I was the biggest. 'You eat so fast,' he said to me once, 'that the flies don't even get a chance.' I think that was the nicest thing anyone ever said to a vulture.",
+    "Then something began to go wrong, and none of us understood it.",
+    "One of my sisters sat down on a branch one morning, with her head hanging low, and did not fly. In a few days she was dead. Then another. Then a whole tree of us near the village, where we had nested for as long as anyone remembered, went silent. Each year there were fewer dots in the sky. The ones who lived laid eggs, but often no chicks hatched. I flew further and further looking for my kind, and found fewer and fewer.",
+    "Kishan noticed. He was older now, nearly twelve. 'Bapu,' I heard him say, 'where have the gidh gone?'",
+    "Without us, the dead animals lay at the edge of the village for days, and then weeks. The smell was terrible. The flies came in clouds. And the dogs came. Stray dogs had always been around, but now there was so much food for them that they had more and more puppies. Soon there were packs of them, thin and quick and quarrelsome, at the dump and in the lanes. Kishan's little sister, Pinky, was bitten on the leg by one of them while she was carrying water. She had to have a whole set of injections in the hospital in town, against rabies, and she cried every time. She was all right in the end. But Kishan sat on the wall that evening for a long time, looking at the empty sky.",
+    "It took the scientists years to find out what was killing us. They counted our nests in Bharatpur and found us vanishing. They cut open the bodies of dead vultures and found our kidneys had failed. At last they found the answer, and it was the strangest thing. It was a medicine. Farmers had begun giving their sick cows a painkiller called diclofenac, to help them stand and work when they were old or hurt. It was a kind thing to do for a cow. But when a cow died with the medicine still inside her, and we ate her, the medicine stayed inside us too. For a cow it was a little help. For a vulture, it was poison. A tiny bit, in every meal, from every carcass, and our bodies could not get rid of it.",
+    "Nobody had meant to hurt us. That was the hardest part to understand. Nobody had even thought about us at all.",
+    "I was one of the last ones they caught, out near Bikaner, a few of us still alive. They brought us here to Pinjore, to keep us safe and to try to raise chicks who might, one day, fly free over a cleaner land. The medicine is banned for animals now. Things are slowly changing.",
+    "Last spring, after many years, an egg of mine hatched. The chick is ugly, as all vulture chicks are, grey and fluffy and cross. I feed her and keep her warm. Sometimes, on a hot afternoon, I spread my wings in the cage, and she watches me, puzzled. I am showing her the shape of the sky.",
+    "I do not know if she will ever see it full of us again. But I know what we were for. We were not beautiful and we were not loved. We were the end of every story, the ones who came last and made everything clean, so that it could all begin again."
+   ],
+   "epiphany": "The old vulture, a creature people call ugly and dirty, shows the child a food web from its least-loved strand. The turn comes when the vultures vanish: carcasses rot, dogs multiply, and Kishan's sister is bitten. The hidden ideas: scavengers and decomposers close the loop of every food web; removing one creature changes everything else; and a poison (a medicine for cows) can travel up a food chain and harm animals no one was thinking about. The quiet lenses: the leather workers and the vultures, both doing the 'dirty' work that kept the village clean, and both rarely thanked; and the question of who is 'useful'.",
+   "ask": [
+    "What job did the vultures do? Who else did that job with them?",
+    "Why did the dogs and the sickness come when the vultures went?",
+    "How did a medicine meant to help cows harm the vultures?",
+    "'Nobody had even thought about us at all.' What does the vulture mean?",
+    "Was Badi Amma useful? Was she beautiful? Does it matter?"
+   ],
+   "art": []
+  }
+ ]
 }

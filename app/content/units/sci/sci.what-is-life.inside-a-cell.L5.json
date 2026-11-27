@@ -598,11 +598,11 @@
       "t": "mcq",
       "q": "A bacterium has no vesicles on tracks. How do molecules reach every part of her?",
       "options": [
-       "They drift, because she is so small",
        "They do not need to move",
-       "Her nucleus sends them"
+       "Her nucleus sends them",
+       "They drift, because she is so small"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A bacterium is about 2 micrometres long, and molecules drift that far in a small fraction of a second. Choosing 'her nucleus' forgets that a bacterium has no nucleus. Choosing 'do not need to move' forgets that every cell must bring molecules together for her chemistry."
      },
      "context": "This is the last step of Bacterium, Your Cell or Both? Here you count the points and sort the cards into three heaps."
@@ -772,11 +772,11 @@
       "t": "mcq",
       "q": "A lysosome enzyme is made without its lysosome tag. Where does the cell send it?",
       "options": [
-       "To a lysosome anyway",
        "Out of the cell",
+       "To a lysosome anyway",
        "Back to the nucleus to be corrected"
       ],
-      "a": 1,
+      "a": 0,
       "why": "With only the E label left, the enzyme follows the route out of the cell. This really happens in a rare illness called I-cell disease. Choosing 'to a lysosome anyway' means thinking that something in the cell knows where the enzyme belongs. Only the label says so."
      },
      "context": "This is the last step of Label Post. Here you find out what happens when a label is missing."
@@ -1006,11 +1006,11 @@
       "t": "mcq",
       "q": "In the Potato Colour Test, colour drifted 2 millimetres into potato in 1 hour. About how long does it need to drift 4 millimetres?",
       "options": [
-       "About 2 hours",
        "About 4 hours",
+       "About 2 hours",
        "About 1 hour"
       ],
-      "a": 1,
+      "a": 0,
       "why": "About 4 hours. By drifting, twice as far takes about four times as long. Choosing '2 hours' means thinking that the colour moves at a steady speed, as a walker does. A drifting molecule wanders back and forth, so each extra millimetre takes longer than the one before."
      },
      "context": "This is the last step of the Potato Colour Test. Here you draw the graph and explain your results."
@@ -1180,11 +1180,11 @@
       "t": "mcq",
       "q": "In the Fizzing Potato test, raw potato made hydrogen peroxide fizz and boiled potato did not. What is the best explanation?",
       "options": [
-       "Boiling removed the air from the potato",
        "Boiling changed the shape of an enzyme, so it stopped working",
+       "Boiling removed the air from the potato",
        "Boiled potato is too soft to make bubbles"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The fizz is oxygen, made when the enzyme catalase breaks down hydrogen peroxide. An enzyme works only while it has the right shape, and boiling changes that shape. Choosing 'air' means thinking the bubbles were already inside the potato. They are made new, from the hydrogen peroxide."
      },
      "context": "This is the last step of the Fizzing Potato. Here you explain the results."
@@ -1289,11 +1289,11 @@
       "t": "mcq",
       "q": "In the Coin Walk, a wandering token needs about 9 tosses to get 3 squares away. About how many to get 6 squares away?",
       "options": [
-       "About 18",
        "About 36",
+       "About 18",
        "About 12"
       ],
-      "a": 1,
+      "a": 0,
       "why": "About 36. Twice as far takes about four times as many chance steps, and 4 × 9 = 36. Choosing 18 means doubling, which is right only for a token that steps forward every time."
      },
      "context": "This is the last step of the Coin Walk. Here the token walks straight, as a motor protein does, and you compare the two ways of travelling."
@@ -1399,11 +1399,11 @@
       "t": "mcq",
       "q": "Why can a vesicle join the cell membrane without tearing it?",
       "options": [
-       "The membrane is a liquid sheet that flows together",
        "The membrane is hard, so it cannot tear",
-       "The vesicle makes a hole and the cell leaks a little"
+       "The vesicle makes a hole and the cell leaks a little",
+       "The membrane is a liquid sheet that flows together"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The molecules of a membrane slide past one another, so two membranes that meet can flow into one. Choosing 'hard' means picturing the membrane as a wall. A wall could not let a vesicle join it."
      },
      "context": "This is the last step of A Film That Mends. Here two soap bubbles join into one, as a vesicle joins a cell membrane."
@@ -1487,11 +1487,11 @@
       "t": "mcq",
       "q": "Why is the inner membrane of a mitochondrion folded many times?",
       "options": [
-       "To make the mitochondrion stronger",
        "To fit more ATP-making membrane into a small space",
+       "To make the mitochondrion stronger",
        "To keep oxygen out"
       ],
-      "a": 1,
+      "a": 0,
       "why": "ATP is made by machines that sit in the inner membrane. More folds mean more membrane, more machines and more ATP in the same small space. Choosing 'stronger' takes the folds for a frame, but they are working surface."
      },
      "context": "This is the last step of Fold It In. Here you compare the area of the folded newspaper with the area of the tumbler's wall."
@@ -1726,12 +1726,12 @@
      "t": "mcq",
      "p": "Which part of a cell folds new proteins that are going to leave the cell?",
      "opts": [
-      "The rough ER",
       "A lysosome",
+      "The rough ER",
       "The nucleus",
       "A mitochondrion"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A protein for export is fed into the rough ER as it is made, and it is folded there. Choosing the nucleus mixes up where the recipe is kept with where the protein is made.",
      "outcome": 1
     },
@@ -1851,12 +1851,12 @@
      "t": "mcq",
      "p": "What happens to a new protein that has no signal label?",
      "opts": [
-      "It stays in the watery inside of the cell",
       "It is carried into the nucleus",
       "It is sent out of the cell",
-      "It is taken to a lysosome"
+      "It is taken to a lysosome",
+      "It stays in the watery inside of the cell"
      ],
-     "a": 0,
+     "a": 3,
      "why": "With no label, nothing carries the protein anywhere, so it stays where it was made. Choosing 'sent out' forgets that export needs a label for the ER.",
      "outcome": 2
     },
@@ -1922,12 +1922,12 @@
      "t": "mcq",
      "p": "Why can a bacterium live without motor proteins and tracks?",
      "opts": [
-      "She is so small that drifting reaches everywhere quickly",
       "She does not make any proteins",
+      "She is so small that drifting reaches everywhere quickly",
       "Her nucleus does the carrying",
       "Nothing inside her needs to move"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A bacterium is about 2 micrometres long, and molecules drift that far in a fraction of a second. Choosing 'her nucleus' forgets that a bacterium has no nucleus.",
      "outcome": 0
     }
@@ -2090,12 +2090,12 @@
      "t": "mcq",
      "p": "A nerve cell is one metre long. Why does she not rely on drifting to send vesicles to her far end?",
      "opts": [
-      "Drifting that far would take hundreds of years",
       "Vesicles are too heavy to float",
       "Drifting uses too much ATP",
-      "Drifting only goes towards the nucleus"
+      "Drifting only goes towards the nucleus",
+      "Drifting that far would take hundreds of years"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The time for drifting grows much faster than the distance. Over a metre it would take hundreds of years. Choosing 'uses too much ATP' has it the wrong way round: drifting costs no ATP, and motors do.",
      "outcome": 0
     },
@@ -2131,12 +2131,12 @@
      "t": "mcq",
      "p": "A few antibiotics that jam bacterial ribosomes also disturb mitochondria. What does this suggest?",
      "opts": [
-      "Mitochondria have ribosomes like those of bacteria",
       "Antibiotics jam every ribosome there is",
       "Mitochondria have a cell wall",
-      "Mitochondria make antibiotics"
+      "Mitochondria make antibiotics",
+      "Mitochondria have ribosomes like those of bacteria"
      ],
-     "a": 0,
+     "a": 3,
      "why": "These antibiotics fit the bacterial kind of ribosome. Mitochondria have their own ribosomes of that kind, which is evidence of where mitochondria came from. The main ribosomes of your cells are not jammed.",
      "outcome": 6
     },
@@ -2206,12 +2206,12 @@
      "t": "mcq",
      "p": "A scientist cuts the signal stretch off a protein that normally leaves the cell. Where does the protein end up?",
      "opts": [
-      "In the watery inside of the cell",
       "Outside the cell, as before",
+      "In the watery inside of the cell",
       "In the Golgi body",
       "In a lysosome"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Without its signal stretch the protein is never brought to the ER, so it stays where it was made. This experiment is part of the evidence that the address is in the protein itself.",
      "outcome": 2
     },
@@ -2271,12 +2271,12 @@
      "t": "mcq",
      "p": "A new medicine stops bacteria building their cell wall. Why should it leave your cells unharmed?",
      "opts": [
-      "Your cells have no cell wall",
       "Your cells are too big for it",
       "Your nucleus protects the cell",
-      "Your cell walls are thicker"
+      "Your cell walls are thicker",
+      "Your cells have no cell wall"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A medicine that blocks wall-building has nothing to block in a cell with no wall. Choosing 'thicker walls' assumes that animal cells have walls. They have only a membrane.",
      "outcome": 5
     },
@@ -2341,12 +2341,12 @@
      "t": "mcq",
      "p": "In the Thread Line, one push did not carry the parcel 2 metres. What does a cell do about the same problem?",
      "opts": [
-      "Her motors use ATP at every step of the way",
       "She pushes cargo once, from the nucleus",
+      "Her motors use ATP at every step of the way",
       "She waits for cargo to drift",
       "She makes her cargo lighter"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A push at the start runs out. A motor protein takes in new energy at each step, so the cargo keeps going for the whole distance.",
      "how": "c1",
      "outcome": 4
@@ -2410,12 +2410,12 @@
    "t": "mcq",
    "p": "Where in a cell are sugars added to proteins, and proteins sorted into different vesicles?",
    "opts": [
-    "In the Golgi body",
     "In the nucleus",
     "In a mitochondrion",
+    "In the Golgi body",
     "On the cytoskeleton"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The Golgi body finishes proteins from the ER and sorts them by their labels. The cytoskeleton carries the vesicles afterwards, but it does not sort them.",
    "outcome": 1
   },
@@ -2482,12 +2482,12 @@
    "t": "mcq",
    "p": "Why does a cell keep taking her microtubules apart and building new ones?",
    "opts": [
-    "So she can quickly change shape, move or divide",
     "Because they are badly made",
     "To warm herself up",
+    "So she can quickly change shape, move or divide",
     "Because tubulin is harmful if it is left"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A skeleton that is rebuilt every few minutes can be rebuilt in a new arrangement. That lets a cell crawl, change shape and divide.",
    "outcome": 4
   },
@@ -2495,12 +2495,12 @@
    "t": "mcq",
    "p": "Which of these does a bacterium not have?",
    "opts": [
-    "Mitochondria",
     "Ribosomes",
     "DNA",
+    "Mitochondria",
     "A cell membrane"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A bacterium is about the size of one mitochondrion. She makes ATP on her own cell membrane. She has the other three, as every living cell does.",
    "outcome": 5
   },
@@ -2508,12 +2508,12 @@
    "t": "mcq",
    "p": "A growing cell needs more mitochondria. Where do the new ones come from?",
    "opts": [
-    "Old mitochondria grow and split in two",
     "The nucleus builds them",
     "The Golgi body packs them",
-    "They come in with food"
+    "They come in with food",
+    "Old mitochondria grow and split in two"
    ],
-   "a": 0,
+   "a": 3,
    "why": "New mitochondria come only from older ones, as new bacteria come only from older bacteria. This is one piece of evidence for where mitochondria came from.",
    "outcome": 6
   },
@@ -2818,6 +2818,103 @@
    "used_in": [
     "e2"
    ]
+  },
+  {
+   "id": "b-a-magnifying-glass",
+   "item": "A magnifying glass",
+   "kind": "tool",
+   "why": "Used in The Potato Colour Test: how deep does colour drift in 1 hour, 4 hours and 16 hours?. About ₹30 to ₹120. A water drop on clear plastic magnifies a little.",
+   "url": "https://www.amazon.in/s?k=magnifying+glass+kids",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before The Potato Colour Test: how deep does colour drift in 1 hour, 4 hours and 16 hours?."
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in Fold It In: how does so much membrane fit in a cell?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before Fold It In: how does so much membrane fit in a cell?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Potato Colour Test: how deep does colour drift in 1 hour, 4 hours and 16 hours?, The Fizzing Potato: what do potato cells do to hydrogen peroxide?, The Coin Walk: wander or walk straight?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e2",
+    "a1",
+    "a3",
+    "p1"
+   ],
+   "plan": "Get it before The Potato Colour Test: how deep does colour drift in 1 hour, 4 hours and 16 hours?."
+  },
+  {
+   "id": "b-insulated-wire-or-crocodile-",
+   "item": "Insulated wire or crocodile clips",
+   "kind": "tool",
+   "why": "Used in A Film That Mends: how a vesicle can join a membrane without a leak. About ₹20 to ₹80. Thin insulated wire from an old charger works.",
+   "url": "https://www.amazon.in/s?k=crocodile+clip+wire+set",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Get it before A Film That Mends: how a vesicle can join a membrane without a leak."
+  },
+  {
+   "id": "b-balloons--a-packet",
+   "item": "Balloons (a packet)",
+   "kind": "material",
+   "why": "Used in The Thread Line: carry a parcel along a level track. About ₹20 to ₹60.",
+   "url": "https://www.amazon.in/s?k=balloons+packet",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before The Thread Line: carry a parcel along a level track."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in The Thread Line: carry a parcel along a level track. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before The Thread Line: carry a parcel along a level track."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in The Coin Walk: wander or walk straight?, A Cell on a Plate at True Scale, with a bacterium beside her. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "a1",
+    "p1"
+   ],
+   "plan": "Get it before The Coin Walk: wander or walk straight?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

@@ -1,9 +1,9 @@
 # Seasons: how plants, animals and people change through the year
 `sci.day-night-seasons.seasons.L3`
 
-**Summary.** Why is summer hotter than winter, and why do leaves turn yellow? In this unit you will shine a torch straight and slanting to see how far its light spreads, find the hidden yellow in a green leaf, and play a game matching living things to seasons.
+**Summary.** Why is summer hotter than winter, and why do leaves turn yellow? In this lesson you will shine a torch straight and slanting to see how far its light spreads, find the hidden yellow in a green leaf, and play a game matching living things to seasons.
 
-**Intro.** *A neem tree is dropping yellow leaves in March, the hottest, driest time of year. A week later, the same tree is covered in soft new leaves. Is the tree sick, or is she doing this on purpose?* The neem tree is not sick. She is changing with the season, the way you change into cotton clothes in summer. In this unit you look out of your window for signs of the season. You find a colour hiding inside a green leaf. You use a torch to see why summer sunlight is stronger. And you meet the koel, the frog, the pintail duck, the farmer and the fisher, who all change what they do as the year turns.
+**Intro.** *A neem tree is dropping yellow leaves in March, the hottest, driest time of year. A week later, the same tree is covered in soft new leaves. Is the tree sick, or is she doing this on purpose?* The neem tree is not sick. She is changing with the season, the way you change into cotton clothes in summer. In this lesson you look out of your window for signs of the season. You find a colour hiding inside a green leaf. You use a torch to see why summer sunlight is stronger. And you meet the koel, the frog, the pintail duck, the farmer and the fisher, who all change what they do as the year turns.
 
 ## Learning outcomes
 0. I can name India's seasons, say which months they come in where I live, and give one clue for each.
@@ -29,6 +29,7 @@
 - **Migration**: A long journey that animals make every year, at the same season, to find food, warmth or a safe place for their young. *e.g.* Northern pintail ducks fly from Central Asia to the lakes of India every winter.
 - **Hibernation**: A long, deep sleep through the cold months, when an animal's body slows right down and they live on stored fat. *e.g.* Some Himalayan black bears sleep in a den through the snowy winter.
 - **Day length**: How many hours of daylight there are, from sunrise to sunset. It changes through the year. *e.g.* In Delhi, the longest day in June has about 14 hours of daylight, and the shortest in December has about 10.
+- **Equinox**: A day when day and night are nearly equal, about 12 hours each. It happens twice a year, around 21 March and 23 September. *e.g.* On the equinox, the Sun rises almost exactly in the east and sets almost exactly in the west.
 - **Harvest**: Gathering a crop when it is ready. *e.g.* Rice is harvested in January in Tamil Nadu and in Assam, and Pongal and Magh Bihu celebrate it.
 - **Axis**: An imaginary line through the Earth from the North Pole to the South Pole. The Earth spins round it. The Earth's axis is tilted, and this tilt is what gives us seasons. *e.g.* A spinning top that leans a little to one side spins round a tilted axis.
 
@@ -36,21 +37,21 @@
 ### What a season is · *defined*
 **Definition:** A season is a part of the year with its own kind of weather. The seasons come round in the same order every year.
 
-The year goes round like a wheel. In most of India, it gets hotter from March, and May is often the hottest month. Then the rains come, from about June to September. After the rains, the air gets cooler and drier, and December and January are the coolest months. Then it warms up again. The order is the same every year. The exact dates change a little from year to year, and they change a lot from place to place.
+The year goes round like a wheel. In most of India, it gets hotter from March, and May is often the hottest month. Then the rains come, from about June to September. After the rains, the air gets cooler and drier, and December and January are the coolest months. Then it warms up again. The order is the same every year. The exact dates change a little from year to year, and they change a lot from place to place. Not every change takes a year. The sky turns orange at sunset in minutes. Neem leaves turn yellow once a year. A seed takes many years to become a tall tree. A season is the kind of change that comes round every year.
 - e.g. Every year, mangoes come to the market in about April and May.
 - e.g. Every year, the rains reach Kerala first, around the first of June, and spread north over the next five or six weeks.
 - e.g. Every year, the mornings in December are cooler than the mornings in May.
 ### India's seasons · *defined*
 **Definition:** The India Meteorological Department, which watches India's weather, counts four seasons: winter (January and February), summer (March to May), the south-west monsoon (June to September) and the post-monsoon season (October to December).
 
-People split the year in different ways. The weather department uses four seasons. The old Indian calendar uses six ritus of about two months each: Vasanta (spring), Grishma (summer), Varsha (the rains), Sharad (early autumn), Hemanta (the cool time before winter) and Shishira (winter). Old Tamil poems also count six seasons, such as kaar, the rainy season. Many people simply say summer, rainy season and winter. None of these is the one true count. They are different ways of cutting up the same year. The seasons are also different in different places. Most of India gets most of its rain from June to September, from the south-west monsoon. But Chennai gets most of its rain from October to December, from the north-east monsoon. Delhi has a cold winter, with foggy mornings. Kochi and Chennai stay warm all year, so there the rains mark the seasons more than the cold does.
+People split the year in different ways. The weather department uses four seasons. The old Indian calendar uses six ritus of about two months each: Vasanta (spring), Grishma (summer), Varsha (the rains), Sharad (early autumn), Hemanta (the cool time before winter) and Shishira (winter). Old Tamil poems also count six seasons, such as kaar, the rainy season. Many people simply say summer, rainy season and winter. None of these is the one true count. They are different ways of cutting up the same year. The seasons are also different in different places. Most of India gets most of its rain from June to September, from the south-west monsoon. But Chennai gets most of its rain from October to December, from the north-east monsoon. Delhi has a cold winter, with foggy mornings. Kochi and Chennai stay warm all year, so there the rains mark the seasons more than the cold does. Each region also has its own names for the seasons. Old Tamil poems name six: kaar, koothir, munpani, pinpani, ilavenil and mudhuvenil, which are the rains, autumn, early cold, late cold, spring and summer. Flowers follow the seasons and the places. Tulips bloom in Srinagar's tulip garden in April. Buransh, the red rhododendron, flowers on the Himalayan hills in spring. Hibiscus blooms nearly all year where it is warm. Marigolds are ready for the garlands of Dussehra and Diwali. Roses bloom best in the cool months.
 - e.g. In Kochi, the big rains start in June. In Chennai, the biggest rains come in November.
 - e.g. Vasanta ritu is the time of Holi in the north and Ugadi in the south.
 - e.g. In Srinagar it can snow in January. In Thiruvananthapuram it never does.
 ### Why summer is hotter than winter · *defined*
 **Definition:** In summer, the midday Sun is higher in the sky, so its light falls more straight down and lands on a smaller patch of ground. Each bit of ground then gets more of the light. The days are also longer. Both make the ground warmer.
 
-In the Straight or Slanting test, you shine a torch on squared paper. When the torch shines straight down, its light makes a small, bright patch. When it shines at a slant, the same light spreads over a much bigger patch, so each square gets less. Sunlight works the same way. In summer, the midday Sun in India is high, nearly overhead, and your shadow at noon is very short. Each patch of ground gets a lot of light. In winter, the midday Sun is lower in the sky, and your noon shadow is longer. The same sunlight is spread over more ground, so each patch warms less. The days are shorter in winter too, so there are fewer hours of sunshine. Why does the Sun climb higher in some months? Because the Earth's axis is tilted. For part of the year, our half of the Earth leans towards the Sun. Six months later, it leans away. You will learn more about the tilt in Class 5. Many people think summer comes when the Earth is closest to the Sun. But the Earth is closest to the Sun in early January, during India's winter.
+In the Straight or Slanting test, you shine a torch on squared paper. When the torch shines straight down, its light makes a small, bright patch. When it shines at a slant, the same light spreads over a much bigger patch, so each square gets less. Sunlight works the same way. In summer, the midday Sun in India is high, nearly overhead, and your shadow at noon is very short. Each patch of ground gets a lot of light. In winter, the midday Sun is lower in the sky, and your noon shadow is longer. The same sunlight is spread over more ground, so each patch warms less. The days are shorter in winter too, so there are fewer hours of sunshine. Why does the Sun climb higher in some months? Because the Earth's axis is tilted. For part of the year, our half of the Earth leans towards the Sun. Six months later, it leans away. You will learn more about the tilt in Class 5. Many people think summer comes when the Earth is closest to the Sun. But the Earth is closest to the Sun in early January, during India's winter. You can also watch the seasons in the length of the day. In northern India, the day is longest around 21 June and shortest around 21 December. On about 21 March and 23 September, day and night are nearly equal, about 12 hours each, and each of these days is called an equinox. On those days the Sun rises almost due east and sets almost due west. The seasons change, but the Pole Star, Dhruva tara, stays in the north all year, almost above the Earth's axis, so it works as a fixed marker. Other stars seem to move round it.
 - e.g. At noon in Chennai in May, your shadow is so short it hides under your feet.
 - e.g. At noon in Delhi in December, your shadow is about as long as you are tall, or a little longer.
 - e.g. Kerala and Tamil Nadu are close to the equator, where the Sun is high all year. That is why their winters are mild.
@@ -80,7 +81,7 @@ Each season brings its own problems and chances. In summer, water is short and t
 ### How people change with the seasons · *defined*
 **Definition:** People change their clothes, food, homes, work and festivals with the seasons, to stay comfortable and to fit in with the plants and animals they depend on.
 
-In summer, families wear loose cotton clothes and drink buttermilk, tender coconut water and panakam. They eat mangoes, watermelon and nungu, the ice apple of the palmyra palm. Many families dry vadams and make mango pickle on the terrace, because the strong sun dries food fast. In the rains, farmers sow rice and other crops, because the fields finally have enough water. Umbrellas and raincoats come out. In the cool months, people in the north wear sweaters, monkey caps and shawls, and sit in the sun at midday. Many festivals mark a harvest. Onam comes in Kerala in August or September. Pongal in Tamil Nadu, Makar Sankranti, and Magh Bihu in Assam all come in January. Baisakhi comes in Punjab in April. Even fishing changes. Every year the Government of India stops most fishing at sea for 61 days, while many fish breed. On the east coast this is from 15 April to 14 June. On the west coast it is from 1 June to 31 July.
+In summer, families wear loose cotton clothes and drink buttermilk, tender coconut water and panakam. They eat mangoes, watermelon and nungu, the ice apple of the palmyra palm. Many families dry vadams and make mango pickle on the terrace, because the strong sun dries food fast. In the rains, farmers sow rice and other crops, because the fields finally have enough water. Umbrellas and raincoats come out. In the cool months, people in the north wear sweaters, monkey caps and shawls, and sit in the sun at midday. Many festivals mark a harvest. Onam comes in Kerala in August or September. Pongal in Tamil Nadu, Makar Sankranti, and Magh Bihu in Assam all come in January. Baisakhi comes in Punjab in April. Even fishing changes. Every year the Government of India stops most fishing at sea for 61 days, while many fish breed. On the east coast this is from 15 April to 14 June. On the west coast it is from 1 June to 31 July. The cool months bring food from the fields too. In Punjab, mustard greens grow in the winter fields, and families eat them as sarson da saag with makki di roti. Spring comes after winter, and people are glad when it does. The cold goes, the trees grow new leaves, flowers open and the sunshine turns warm again. Vasant Panchami, Holi and Ugadi all come at this time.
 - e.g. Jasmine flowers are plentiful in Madurai in summer, and costly in the cool months, when the plants make fewer.
 - e.g. Pongal is cooked with the new rice of the January harvest.
 - e.g. In Delhi in winter, people sell roasted sweet potatoes and peanuts on the street.
@@ -119,7 +120,7 @@ Scientists agree that the Earth as a whole is getting warmer, mostly because peo
   Against: Plants feel the length of the night, remember it over many nights, and choose when to flower. Sensing, remembering and choosing are what knowing is.
 
 ## Roots
-In this unit you find a hidden yellow colour in a green leaf, see torchlight spread out when it shines at a slant, and read about the animals and people who change with the year. This part asks what the seasons tell us about ourselves and the world.
+In this lesson you find a hidden yellow colour in a green leaf, see torchlight spread out when it shines at a slant, and read about the animals and people who change with the year. This part asks what the seasons tell us about ourselves and the world.
 
 **Deep truth.** In the Hidden Colours test, a paper strip shows a yellow band from a leaf that looked only green. The yellow was there all along, hidden under the green. In the dry season a tree breaks down the green in her leaves and takes back what is useful. Then the hidden yellow shows, and the leaf falls.  
 *Habit it breaks:* We say a leaf 'turns' yellow, as if a new colour is painted on as the leaf dies. And we read yellow leaves as a sign of a sick tree. But in the dry season, the yellow is a colour that was in the leaf all along. It shows once the tree has broken down the green.  
@@ -131,9 +132,9 @@ In this unit you find a hidden yellow colour in a green leaf, see torchlight spr
 
 There is one Sun, and one Earth going round it, tilted the same way all year. That tilt gives us summer, the rains and the cool months, and they are different in every place. Each living thing deals with the season in their own way: the neem drops her leaves, the koel calls, the frog sings in the puddle, the farmer sows rice, the duck flies south. The year is the same for all of them, but each one does something different.
 
-- **Ecclesiastes 3:1-2 (the Bible):** “לַכֹּל זְמָן וְעֵת לְכׇל־חֵפֶץ תַּחַת הַשָּׁמָיִם / עֵת לָלֶדֶת וְעֵת לָמוּת / עֵת לָטַעַת וְעֵת לַעֲקוֹר נָטוּעַ” There is a time for everything, and a season for every activity under the heavens. A time to be born and a time to die, a time to plant and a time to pull up what is planted. (In this unit, every living thing has their time: the sevanthi flowers in the long nights, the frog lays eggs in the rains, and the farmer sows with the monsoon.)
+- **Ecclesiastes 3:1-2 (the Bible):** “לַכֹּל זְמָן וְעֵת לְכׇל־חֵפֶץ תַּחַת הַשָּׁמָיִם / עֵת לָלֶדֶת וְעֵת לָמוּת / עֵת לָטַעַת וְעֵת לַעֲקוֹר נָטוּעַ” There is a time for everything, and a season for every activity under the heavens. A time to be born and a time to die, a time to plant and a time to pull up what is planted. (In this lesson, every living thing has their time: the sevanthi flowers in the long nights, the frog lays eggs in the rains, and the farmer sows with the monsoon.)
 - **Tao Te Ching 16:** “夫物芸芸，各復歸其根。 / 歸根曰靜，是謂復命。” All things grow and flourish, and then each one goes back to their root. Going back to the root is stillness. (Before a tree drops a leaf, she takes the useful nutrients back into her branches. In the dry season, she goes quiet and holds on to what she needs, until it is time for new leaves.)
-- **Kalidasa, Ritusamhara (The Gathering of the Seasons):** The poet Kalidasa wrote a long poem about India's six seasons, from summer to spring. In each one, he describes the weather, the plants, the animals and how people live. (Kalidasa watched the same things this unit asks you to watch: what changes in the plants, the animals and the people as each season comes.)
+- **Kalidasa, Ritusamhara (The Gathering of the Seasons):** The poet Kalidasa wrote a long poem about India's six seasons, from summer to spring. In each one, he describes the weather, the plants, the animals and how people live. (Kalidasa watched the same things this lesson asks you to watch: what changes in the plants, the animals and the people as each season comes.)
 - Science (settled): Before dropping their leaves, many trees take back about half of the nitrogen in them, to use again.
 - Science (settled): Many plants sense the length of the night with light-sensing substances in their leaves, and flower when the nights reach a certain length.
 - Science (open): How exactly a plant combines night length, warmth and many other signals into one choice to flower is still being worked out.
@@ -430,6 +431,33 @@ I wrote it in my notebook, under the drawing of the tree with her new leaves. We
   *Parent says:* What has stayed the same? What has changed? How could we check whether a memory is right?  
   *Child mode:* Sort the answers into two groups: same as today, and different from today.
   - Note: Memories are useful clues, but they can be wrong. Old weather records, photos and diaries can check them.
+### a6 · Equal Day and Night: a sky watch (30 min)
+- **safety:** Never look straight at the Sun. Go up to a roof or out at night with a grown-up.
+- **record:** Write the date, the sunrise and sunset times and the day length. Draw where the Pole Star is, and where the Sun set.
+- **s1 (10 min)**  
+  *Parent does:* 1. Look up today's sunrise and sunset times on a phone. 2. Count the hours between them. 3. Write the date and the day length. 4. Look at the date: is it near 21 March or 23 September? Then day and night are nearly equal.  
+  *Parent says:* How long is the day today? How long is the night? Are they equal? On about 21 March and 23 September, they are.  
+  *Child mode:* Write the sunrise and sunset times. Count the hours of daylight.
+  - Note: Near the equinox, daylight is about 12 hours and the Sun rises nearly due east and sets nearly due west. On other dates, the day is longer than 12 hours between March and September, and shorter between September and March. Do this once near an equinox and once near 21 June or 21 December, and compare the two numbers.
+- **s2 (20 min)**  
+  *Parent does:* 1. After dark, go outside with a grown-up and face north. 2. Find the Saptarishi, the seven bright stars shaped like a big dipper. 3. Follow the line of its two end stars to the Pole Star, Dhruva tara. 4. Draw it, and write which way is north.  
+  *Parent says:* Many stars seem to move across the sky through the year, but the Pole Star stays in the north. Can you find it?  
+  *Child mode:* Face north. Find the seven stars, then the Pole Star. Draw them.
+  - Note: The Pole Star sits almost straight above the Earth's axis, so it hardly moves while other stars turn around it. It is lower in the sky in the far south of India and higher in the north. If clouds hide it, try another night.
+### a7 · Our Wall Chart: spotting patterns (40 min, 22 days)
+- **record:** One wall chart with a note from every person for every week.
+- **schedule:** day 1: Draw a chart with a column for each week. Each person writes one note about their tree. (20 min); day 22: Add the last notes and look for patterns. (20 min)
+- **s1 (20 min)**  
+  *Parent does:* 1. Draw four columns on the paper: Week 1, 2, 3 and 4. 2. Give each person a row, with their name and tree. 3. Each person writes this week's note in the first column. 4. Hang the chart where all can see it.  
+  *Parent says:* One tree is a story. Many trees on one page can show us something bigger. What do you think we will find?  
+  *Child mode:* Write one note about your tree in the first column.
+  - Note: Use the same questions for everyone: leaves, flowers, birds. If friends live far away, they can send a photo or a text, and you copy it on the chart.
+- **s2 (20 min)**  
+  *Parent does:* 1. Add the last notes. 2. Look across each row, then across each column. 3. Ask which trees changed first, which changed together, and which stayed the same.  
+  *Parent says:* Which trees changed first? Did they all change at the same time? What might make one tree different?  
+  *Child mode:* Look along the rows. Circle the change you see happen first.
+  - Note: A pattern is something that happens again or together. Some answers will be 'we do not know yet', and that is a good result. Different trees, places and sunshine can all give different dates.
+  - Wait: Three weeks after the start
 
 ## Projects
 ### p1 · My Season Diary: one tree, four weeks (40 min, 22 days)
@@ -501,13 +529,13 @@ I wrote it in my notebook, under the drawing of the tree with her new leaves. We
   - Check: Why did the shaded box keep its ice longer? → **The shade stopped much of the sunlight from reaching the box**
 
 ## Worksheets
-### Season Detective (core) (core, 15 questions)
+### Season Detective (core) (core, 17 questions)
 1. (sort) Sort these clues. Which season does each one belong to, in most of India?  
    **Answer:** mangoes in the market → Summer; frogs croaking at night → Rainy season; fog on Delhi mornings → Winter; vadams drying on the terrace → Summer; farmers planting rice seedlings → Rainy season; pintail ducks on a lake → Winter; the koel calling all day → Summer; Pongal with new rice → Winter; hilsa fish swimming up Bengal rivers → Rainy season. *Why:* A strong sorter thinks about why each clue happens then: mangoes ripen in the heat, frogs need puddles, ducks come when their own lakes freeze.
 2. (write) Look out of your window today. Write three clues that tell you what season it is, and say what each one tells you.  
    **Answer:** Any three real clues with a reason, for example: 'The fan is on all day, so it is hot. The tree is bare, which means the dry season. Mangoes are in the kitchen, so it is summer.'. *Why:* A strong answer uses clues the child really saw, and links each one to the season.
 3. (mcq) In which months does Chennai get most of its rain?  
-   Options: June to September / October to December / January to March / April and May  
+   Options: June to September / January to March / April and May / October to December  
    **Answer:** October to December. *Why:* Chennai gets most of its rain from the north-east monsoon, from October to December. Most of the rest of India gets most rain from June to September. Picking June to September is right for Kochi or Mumbai, but not for Chennai.
 4. (write) Why is the ground hotter at noon in May than at noon in December? Use the Straight or Slanting torch test in your answer.  
    **Answer:** In May, the noon Sun is high, nearly straight above us, like the torch shining straight down. Its light is packed into a small patch, so each bit of ground gets a lot. In December, the Sun is lower, like the slanting torch, so the same light is spread over more ground. The days are also longer in May.. *Why:* A strong answer compares the high Sun to the straight torch and the low Sun to the slanting torch, and says the light is packed or spread.
@@ -536,13 +564,17 @@ I wrote it in my notebook, under the drawing of the tree with her new leaves. We
 15. (mcq) In the Straight or Slanting test, which way of shining the torch gave each square the most light?  
    Options: Straight down / At a slant / Very low  
    **Answer:** Straight down. *Why:* Straight down, the same light is packed into the fewest squares, so each square gets the most. That is like the high summer Sun.
-### Leaves, Light and Long Nights (stretch) (stretch, 15 questions)
+16. (match) Match each flower to where and when it blooms.  
+   **Answer:** Tulip → a garden in Srinagar, in April; Buransh (rhododendron) → Himalayan hills, in spring; Hibiscus → warm places, nearly all year; Marigold → garlands for Dussehra and Diwali. *Why:* Each flower likes its own weather. Tulips and buransh need the cool hills, and hibiscus likes warmth all year. Marigolds are ready in the post-monsoon months for the festival garlands.
+17. (sort) Sort these changes. How long does each one take?  
+   **Answer:** the sky turns orange at sunset → Minutes; neem leaves turn yellow → Every year; a sapling grows into a tall tree → Many years; the first big rain cloud covers the sky → Minutes; mangoes come to the market → Every year; a child grows taller than her mother → Many years. *Why:* Some changes happen in minutes. The seasons bring changes that come round every year. Others, like a tree growing tall, take many years to show.
+### Leaves, Light and Long Nights (stretch) (stretch, 19 questions)
 1. (write) Before a tree drops her leaves, she breaks down the green chlorophyll and moves useful nutrients back into the branches. Why is this better for the tree than just dropping green leaves?  
    **Answer:** The leaves hold nutrients such as nitrogen, which the tree worked hard to take from the soil. If the tree dropped green leaves, those nutrients would be lost on the ground. By taking them back first, the tree can use them again for new leaves.. *Why:* A strong answer says the nutrients are saved and reused, not wasted.
 2. (perspective) A peepal tree drops her leaves in March. A girl, her mother and a neighbour talk about it.  
    **Answer:** A strong answer picks a side with evidence: peepal trees are deciduous and drop leaves in the dry season every year, so the girl is probably right. It then gives another view its due: the mother's plan to watch is how a scientist would check, and Mr Rao is right that a sick tree can fall and hurt someone. So checking for other signs, such as rotten wood, is wise.. *Why:* There is a real choice between knowing a pattern, checking with evidence, and being careful about safety. The best answers use the seasonal pattern and the idea of watching over time.
 3. (mcq) In the Straight or Slanting test, a torch lights 30 squares when it shines straight down. Held very low, it lights 90 squares. How much light does each square get when the torch is low, compared with straight down?  
-   Options: About a third as much / Three times as much / The same  
+   Options: Three times as much / About a third as much / The same  
    **Answer:** About a third as much. *Why:* The same light is spread over 3 times as many squares, 90 instead of 30. So each square gets about a third of the light. That is why the low Sun of a winter evening feels weak.
 4. (order) Put these in order through one year for a teak tree in India, starting in the rains.  
    **Answer:** ['Full green leaves in the rains', 'Leaves turn yellow and fall', 'Branches are bare in the dry months', 'New leaves come out']. *Why:* Teak is green in the rains. As the dry season comes, the leaves turn yellow and fall. The tree stands bare for a while, and then new leaves come out, often just before or with the next rains.
@@ -559,7 +591,7 @@ I wrote it in my notebook, under the drawing of the tree with her new leaves. We
 10. (write) The koel lays her eggs in crows' nests, and the crows raise her chicks. Why might summer be a good time for this?  
    **Answer:** In summer, crows are building nests and laying their own eggs too, so there are nests to use. Summer and the early rains also bring lots of food, such as fruit and insects, for the chicks.. *Why:* A strong answer links the koel's plan to what the crows are doing in the same season, and to food for the young.
 11. (mcq) Every year, fishing at sea is stopped on the east coast from 15 April to 14 June. Why?  
-   Options: Many fish breed then, so leaving them alone means more fish later / The sea is too hot / Fishers take a holiday  
+   Options: The sea is too hot / Many fish breed then, so leaving them alone means more fish later / Fishers take a holiday  
    **Answer:** Many fish breed then, so leaving them alone means more fish later. *Why:* Many fish breed in these weeks. If they are caught then, fewer young fish are born, and there are fewer fish in the years after. The fishing ban protects them.
 12. (match) Match each ritu, from the old Indian calendar, with what it means.  
    **Answer:** Vasanta → spring; Grishma → summer; Varsha → the rains; Sharad → early autumn; Hemanta → the cool time before winter; Shishira → winter. *Why:* The six ritus split the year into two-month seasons. Vasanta is the time of Holi and Ugadi.
@@ -568,15 +600,23 @@ I wrote it in my notebook, under the drawing of the tree with her new leaves. We
 14. (write) Name two things your family wears or eats in one season but not in another. Say why each change helps.  
    **Answer:** Any two real examples with a reason. For example: cotton clothes in summer, because they keep us cooler; sweaters in a cold winter, because they hold in body heat.. *Why:* A strong answer links each change to the weather or the harvest of that season.
 15. (mcq) You want to test whether sevanthi plants flower because of long nights. Which test is fairest?  
-   Options: Two pots of the same plant side by side. Every day, cover one with a dark cloth for the same number of hours, to give that plant a long night. Leave the other uncovered / Two pots in different places, one in sun and one in shade / One pot watched for a whole year  
+   Options: Two pots in different places, one in sun and one in shade / One pot watched for a whole year / Two pots of the same plant side by side. Every day, cover one with a dark cloth for the same number of hours, to give that plant a long night. Leave the other uncovered  
    **Answer:** Two pots of the same plant side by side. Every day, cover one with a dark cloth for the same number of hours, to give that plant a long night. Leave the other uncovered. *Why:* In a fair test only one thing changes. Here the two plants are the same and in the same place, and only the length of the night is different.
+16. (write) A small village high in the cold hills waits all winter for spring. Why might people there celebrate when spring comes?  
+   **Answer:** After the cold, the sunshine is warm again, the trees grow new leaves and the flowers open. There is more to see, eat and do outside, so people are glad and celebrate.. *Why:* A strong answer names what spring brings back after winter: warmth, new leaves and flowers. Festivals such as Vasant Panchami, Holi and Ugadi come at this time.
+17. (order) Put these days in order, from the one with the shortest daylight to the one with the longest, for northern India.  
+   **Answer:** ['About 21 December', 'About 21 March', 'About 21 June']. *Why:* The days are shortest around 21 December and longest around 21 June. Around 21 March, day and night are nearly equal, and the days are growing longer.
+18. (write) Five friends in different houses each write down when their neem tree sheds yellow leaves, one line a week on a big sheet of paper. After a month, what can the sheet show that one friend's diary cannot?  
+   **Answer:** It shows whether all the trees changed at the same time or at different times, and which trees changed first. One diary shows only one tree, so a pattern or a fluke is hard to tell.. *Why:* A strong answer says that putting many observations on one chart, by week, lets you compare and spot patterns. One tree alone cannot tell you if the change was a fluke.
+19. (match) Old Tamil poems name six seasons. Match each one to what it means.  
+   **Answer:** Kaar → the rainy season; Koothir → autumn; Munpani → early cold season; Pinpani → late cold season; Ilavenil → spring; Mudhuvenil → summer. *Why:* Different regions of India cut up the year in their own ways, with their own names, to fit their own weather. The six ritus of the old Sanskrit calendar and the six Tamil seasons are not the same, and neither is the only right way.
 ### Questions the Seasons Raise (challenge) (challenge, 15 questions)
 1. (perspective) Two scientists in the 1920s are arguing about why a tobacco plant flowered only in winter.  
    **Answer:** A strong answer sides with Garner and gives his test: shut some plants in a dark hut each afternoon to make their days short, keep others outside, and see which flower. It then says what the first scientist got right: many plants do need to reach a certain size before they can flower at all.. *Why:* Both ideas can be partly true. Garner and Allard showed that day length decides when many plants flower. But a seedling that is too young often cannot flower yet, whatever the day length.
 2. (write) Garner and Allard's tobacco plants flowered when they were shut in the dark every afternoon. Later scientists found that a short flash of light in the middle of a long night stopped plants like these from flowering. What does this tell you the plant is really measuring?  
    **Answer:** The plant is measuring how long the dark lasts without a break, the length of the night. A flash in the middle splits the long night into two short nights, so the plant acts as if the nights are short.. *Why:* A strong answer says the plant measures the night, and explains why the flash matters: it breaks the night into two short ones.
 3. (mcq) Street lights shine all night near some trees in a city. What might happen to a plant that uses night length to know when to flower?  
-   Options: The plant might flower at the wrong time, or not at all / The plant will flower twice as much / Nothing, because plants only feel daytime light  
+   Options: The plant will flower twice as much / Nothing, because plants only feel daytime light / The plant might flower at the wrong time, or not at all  
    **Answer:** The plant might flower at the wrong time, or not at all. *Why:* Bright light at night can make the night seem short to a plant. A plant that flowers in long nights might then flower late, or not at all. Scientists have found street lights can change when some plants flower and when their leaves fall.
 4. (write) In Australia, the summer holidays are in December and January. Use what you know about the tilted Earth to explain why.  
    **Answer:** The Earth's axis is tilted. In December, the southern half of the Earth, where Australia is, leans towards the Sun. The Sun is high there and the days are long, so it is summer. India's half leans away then, so India has winter.. *Why:* A strong answer uses the tilt and says that the two halves of the Earth lean towards the Sun at opposite times of year.
@@ -588,7 +628,7 @@ I wrote it in my notebook, under the drawing of the tree with her new leaves. We
 7. (write) Old Indian calendars have six seasons. The weather department has four. Many people in Chennai say there are really three: hot, hotter and rainy. Which count would you choose for where you live, and why?  
    **Answer:** Any choice with a reason from local weather. For example: 'For Chennai, I would choose three: hot from March to June, the rains from October to December, and a cooler, drier time in January and February, because those are the biggest changes.'. *Why:* A strong answer understands that seasons are a way of splitting the year, and chooses the split that fits the real weather of a place.
 8. (mcq) A scientist wants to find out if mango trees in Tamil Nadu are flowering earlier than 50 years ago. What would help most?  
-   Options: Old written records of flowering dates, year after year / A photo of one mango tree today / Asking one person which month they like best  
+   Options: A photo of one mango tree today / Asking one person which month they like best / Old written records of flowering dates, year after year  
    **Answer:** Old written records of flowering dates, year after year. *Why:* To see a change over 50 years, you need records from 50 years ago to compare with today. A single photo or one opinion cannot show a change over time.
 9. (draw) Draw a picture that explains why a deciduous tree drops her leaves in the dry season. Show the soil, the roots, the leaves and the water.  
    **Answer:** Dry soil with little water near the roots, and many leaves losing water through tiny holes, with arrows showing water leaving. A second picture of the bare tree losing much less water.. *Why:* A strong drawing shows that leaves lose water, that the dry soil cannot replace it, and that fewer leaves means less water lost.
@@ -617,33 +657,51 @@ I wrote it in my notebook, under the drawing of the tree with her new leaves. We
 2. (mcq) In most of India, which months are the main rainy season?  
    Options: June to September / December to February / March to May  
    **Answer:** June to September. *Why:* The south-west monsoon brings most of India's rain from June to September. Tamil Nadu is different: Chennai gets most rain from October to December.
-3. (mcq) In the Straight or Slanting test, you shone a torch on squared paper. What happened to the patch of light when the torch shone at a slant, from the same distance?  
-   Options: The patch got bigger and dimmer / The patch got smaller / The torch got brighter  
+3. (mcq) Which of these changes comes round again in the same way every year?  
+   Options: A sapling growing into a tall tree / The sky turning orange at sunset / Mangoes coming to the market in April and May  
+   **Answer:** Mangoes coming to the market in April and May. *Why:* The seasons repeat every year. A tree growing tall takes many years and happens only once. A sunset change takes only minutes.
+4. (mcq) In the Straight or Slanting test, you shone a torch on squared paper. What happened to the patch of light when the torch shone at a slant, from the same distance?  
+   Options: The patch got smaller / The patch got bigger and dimmer / The torch got brighter  
    **Answer:** The patch got bigger and dimmer. *Why:* The same light spread over more squares, so the patch was bigger and dimmer. Each square got less light.
-4. (mcq) You crush a fresh green leaf and let its colours climb up a paper strip. Which colours would you expect to see?  
-   Options: Green and yellow / Only green / Red and blue  
+5. (mcq) Around 21 March and 23 September, how long are day and night in India?  
+   Options: The day is much longer than the night / Nearly equal, about 12 hours each / The night is much longer than the day  
+   **Answer:** Nearly equal, about 12 hours each. *Why:* These two days are called equinoxes, and day and night are nearly the same length. The day is longest around 21 June and shortest around 21 December.
+6. (mcq) You crush a fresh green leaf and let its colours climb up a paper strip. Which colours would you expect to see?  
+   Options: Only green / Green and yellow / Red and blue  
    **Answer:** Green and yellow. *Why:* A green leaf gives a green band and a yellow band. The yellow is in the leaf all along, hidden under the green. When the green fades, the yellow shows.
-5. (mcq) Why do leaves often turn yellow before they fall?  
-   Options: The tree breaks down the green, and the yellow that was there shows / The leaf is painted by the sun / Yellow is the colour of dry soil  
+7. (mcq) Why do leaves often turn yellow before they fall?  
+   Options: The leaf is painted by the sun / Yellow is the colour of dry soil / The tree breaks down the green, and the yellow that was there shows  
    **Answer:** The tree breaks down the green, and the yellow that was there shows. *Why:* Before dropping a leaf, the tree breaks down the green chlorophyll and takes useful nutrients back. The yellow pigments stay longer, so the leaf looks yellow.
-6. (mcq) Why do many trees in India drop their leaves from about February to May?  
-   Options: The soil is dry, and leaves lose water all the time / It is too cold for leaves / The leaves are too heavy  
+8. (mcq) Why do many trees in India drop their leaves from about February to May?  
+   Options: It is too cold for leaves / The soil is dry, and leaves lose water all the time / The leaves are too heavy  
    **Answer:** The soil is dry, and leaves lose water all the time. *Why:* In the dry months there is little rain, and leaves lose water every day. Dropping leaves helps a tree save water until the rains.
-7. (mcq) Why do frogs lay their eggs in the rainy season?  
-   Options: Their eggs and tadpoles need water, and the puddles fill then / It is too hot in winter / The rain washes the eggs clean  
+9. (mcq) Why do frogs lay their eggs in the rainy season?  
+   Options: It is too hot in winter / Their eggs and tadpoles need water, and the puddles fill then / The rain washes the eggs clean  
    **Answer:** Their eggs and tadpoles need water, and the puddles fill then. *Why:* Frog eggs and tadpoles must live in water. The monsoon fills puddles and ponds, so that is when frogs call and lay eggs.
-8. (mcq) Which of these is something people in India do in summer?  
+10. (mcq) Which of these is something people in India do in summer?  
    Options: Drink buttermilk and wear cotton clothes / Wear sweaters and monkey caps / Sow rice in flooded fields  
    **Answer:** Drink buttermilk and wear cotton clothes. *Why:* In the summer heat, people wear loose cotton and drink buttermilk to keep cool. Sweaters are for winter, and rice is sown in the rains.
-9. (mcq) Pongal, Lohri and Magh Bihu all come in mid-January. What do farmers in many parts of India have to celebrate at that time?  
+11. (mcq) Pongal, Lohri and Magh Bihu all come in mid-January. What do farmers in many parts of India have to celebrate at that time?  
    Options: The new harvest, such as rice / The first rain of the monsoon / The hottest day of summer  
    **Answer:** The new harvest, such as rice. *Why:* Crops sown in the rainy months are ready to cut by winter. Harvest festivals come when the new crop is in. The Pongal dish is cooked with the new rice.
-10. (mcq) A gardener puts one plant in a dark box every afternoon, so that plant gets short days. The plant in the box flowers. The same kind of plant left outside does not flower yet. What does this show?  
-   Options: Many plants use the length of the day and night to know when to flower / Plants flower only when they are very big / Plants flower only in the rain  
+12. (mcq) A gardener puts one plant in a dark box every afternoon, so that plant gets short days. The plant in the box flowers. The same kind of plant left outside does not flower yet. What does this show?  
+   Options: Plants flower only when they are very big / Many plants use the length of the day and night to know when to flower / Plants flower only in the rain  
    **Answer:** Many plants use the length of the day and night to know when to flower. *Why:* Only the length of light and dark was changed, and the flowering changed. So the length of the day, or really the length of the night, tells many plants the season.
-11. (mcq) Sevanthi flowers when the nights are long. When are the nights longest in India?  
-   Options: Around December / Around June / Around April  
+13. (mcq) Sevanthi flowers when the nights are long. When are the nights longest in India?  
+   Options: Around June / Around April / Around December  
    **Answer:** Around December. *Why:* The nights are longest around 21 or 22 December, so sevanthi flowers in the cool months.
+14. (mcq) A family wants to see buransh, the red rhododendron, in bloom. Where and when should they go?  
+   Options: The Himalayan hills, in spring / A Chennai beach, in the rains / The Rajasthan desert, in the rains  
+   **Answer:** The Himalayan hills, in spring. *Why:* Buransh grows on cool Himalayan hills and flowers in spring, March to April. The beach and the desert have the wrong weather and the wrong plants. Each flower blooms in its own place and its own season.
+15. (mcq) Why do people celebrate spring, with Vasant Panchami, Holi or Ugadi?  
+   Options: The big rains have arrived and the rice is ready to sow / The cold ends, and new leaves, flowers and warm sunshine come back / The days are getting shorter and the nights are getting longer  
+   **Answer:** The cold ends, and new leaves, flowers and warm sunshine come back. *Why:* Spring follows winter, and the land turns green and flowery again. The big rains come later, from June in most of India. In spring the days are growing longer, not shorter.
+16. (mcq) In Punjab's cool months, which dish do many families make with greens from the winter fields?  
+   Options: Cold buttermilk with nungu / Sarson da saag with makki di roti / Hilsa fish curry  
+   **Answer:** Sarson da saag with makki di roti. *Why:* Mustard greens, called sarson, grow in the winter fields, and the saag made from them is eaten hot with maize roti. Buttermilk and nungu are summer foods. Hilsa swim up Bengal's rivers in the rains.
+17. (mcq) Why do friends put their weekly notes on one big chart, instead of each keeping their own page?  
+   Options: A chart makes the changes happen faster / Side by side, the notes show patterns that one page cannot / One person's notes are never true  
+   **Answer:** Side by side, the notes show patterns that one page cannot. *Why:* When many notes are put side by side by week, you can see what changed together and what changed first. A chart does not change the tree. One person's notes can be true, but alone they may be a fluke.
 
 ## Applications
 - Farmers decide when to sow by the season. Rice is sown with the monsoon, and wheat in the cool months.
@@ -665,7 +723,7 @@ I wrote it in my notebook, under the drawing of the tree with her new leaves. We
 - The koel's loud ku-oo from the trees on summer mornings.
 - Sweaters and blankets coming out of the cupboard in the cool months, and going back in March.
 - Pongal pots and sugarcane outside homes in mid-January.
-- Kites filling the sky over Gujarat on 14 January, for Uttarayan.
+- Kites filling the sky on 14 January, for Uttarayan.
 
 ## Open questions
 - **How exactly does a plant combine the length of the night, warmth and other signals into one choice to flower?** Scientists know many of the substances involved, but how they all work together is still being studied.
@@ -719,6 +777,11 @@ Turning Into the Light (sci.day-night-seasons.L3): Topic-level song for Day, nig
 ## Things to buy
 - [White blotting paper, a few sheets](https://www.amazon.in/s?k=white+blotting+paper+sheets) (material): Blotting paper soaks up the liquid evenly, so the leaf colours spread into clear bands. You can buy it at stationery shops. A white paper napkin folded in four can stand in. Used in e1. 
 - [A small bottle of nail polish remover with acetone](https://www.amazon.in/s?k=acetone+nail+polish+remover) (material): Acetone carries the leaf colours up the paper quickly and clearly. Many homes already have some. Rubbing alcohol or liquid hand sanitiser also works, more slowly. Used in e1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Hidden Colours: is there yellow inside a green leaf?, Straight or Slanting: how far does the same torchlight spread?, The Season Wheel: India's year in one circle. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, a4. Get it before Hidden Colours: is there yellow inside a green leaf?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Water for the Birds in May. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in c1. Get it before Water for the Birds in May.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in Sun Patch on the Floor (if sunlight comes in through a window). About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in a3. Get it before Sun Patch on the Floor (if sunlight comes in through a window).
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in Straight or Slanting: how far does the same torchlight spread?. About ₹10 to ₹30. Draw squares on plain paper. Used in e2. Get it before Straight or Slanting: how far does the same torchlight spread?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name India's three main seasons. → Summer, the rainy season and winter.
@@ -734,7 +797,7 @@ Turning Into the Light (sci.day-night-seasons.L3): Topic-level song for Day, nig
 
 ## Plan
 - Start options: a1, story, e1, e2, g1, big_questions, cards
-- Default order: intro → a1 → e1 → explanations → roots → quiz → story → summary → terms → e2 → g2 → videos → ws-core → a2 → a4 → g1 → agreed → challenging → a5 → a3 → p1 → ws-stretch → c1 → c2 → big_questions → ws-challenge → open_questions
+- Default order: intro → a1 → e1 → explanations → roots → quiz → story → summary → terms → e2 → g2 → videos → ws-core → a2 → a4 → g1 → agreed → challenging → a5 → a3 → p1 → ws-stretch → c1 → c2 → a6 → a7 → big_questions → ws-challenge → open_questions
 - Core: a1, e1, e2, a2, g2, ws-core
 
 ## Sources

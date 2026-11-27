@@ -1,9 +1,9 @@
 # Making a circuit: how a cell, two wires and a bulb make light
 `sci.electricity.circuits.L2`
 
-**Summary.** A small bulb lights with just a cell and two wires, but only if they are joined the right way. In this unit you will build your own circuit, test whether coiled, crossed or knotted wires still light it, and look inside a bulb to see which part glows.
+**Summary.** A small bulb lights with just a cell and two wires, but only if they are joined the right way. In this lesson you will build your own circuit, test whether coiled, crossed or knotted wires still light it, and look inside a bulb to see which part glows.
 
-**Intro.** *Here is a cell, a small bulb and two wires. Can you make the bulb shine using only these?* Most children try one wire first, and the bulb stays dark. With two wires joined the right way, it shines. Then a new question comes up. Does it matter how the wires lie? In this unit you build your first circuit. You twist, coil and knot the wires, and find out what the bulb really needs. You look inside a bulb at the thin wire that glows. And you find out why a cell, a bulb and a plug each need two metal parts.
+**Intro.** *Here is a cell, a small bulb and two wires. Can you make the bulb shine using only these?* Most children try one wire first, and the bulb stays dark. With two wires joined the right way, it shines. Then a new question comes up. Does it matter how the wires lie? In this lesson you build your first circuit. You twist, coil and knot the wires, and find out what the bulb really needs. You look inside a bulb at the thin wire that glows. And you find out why a cell, a bulb and a plug each need two metal parts.
 
 ## Learning outcomes
 0. By the end I can join a cell, two wires and a bulb so that the bulb lights.
@@ -30,6 +30,8 @@ In the activity Your First Circuit, one wire went from the cell to the bulb. The
 - e.g. A torch is a circuit you can hold. The switch opens and closes a gap in the ring.
 - e.g. A doorbell rings only while the button is pressed. Pressing it closes the gap.
 - e.g. A toy car runs only when its cells are in and its switch is on.
+- **Benjamin Franklin and the old rule:** Said electricity flows from the plus end to the minus end. Engineers still draw it this way.
+- **Physics since J.J. Thomson (1897):** The moving charges in a wire are electrons, and they flow the other way, from minus to plus.
 ### Both ends of the cell must be joined · *defined*
 **Definition:** Electricity flows out of one end of a cell and comes back in at the other end. So each end of the cell must be joined to a different metal part of the bulb.
 
@@ -37,6 +39,8 @@ A cell has two ends, + and −. A bulb has two metal places: the tip at the bott
 - e.g. Every AA cell has a + end with a bump and a flat − end.
 - e.g. A torch bulb touches the circuit at its tip and at its metal side.
 - e.g. In a remote, one spring touches the flat end of each cell, and a flat plate touches the bump.
+- **Benjamin Franklin:** In the 1700s he guessed that electricity moves from the positive end to the negative end. That direction is still used in diagrams, called conventional current.
+- **Physicists after J. J. Thomson:** Found in 1897 that what moves in a wire is the electron, which has negative charge, so it goes the other way. Both ways of drawing the flow work for circuits.
 ### The shape of the wires does not matter · *defined*
 **Definition:** A bulb lights when there is an unbroken metal path from one end of the cell, through the bulb, to the other end. Bending, coiling or knotting a covered wire does not break that path.
 
@@ -44,6 +48,8 @@ In the Shape Test, the bulb lit with straight wires. It also lit with a coiled w
 - e.g. The wires inside a wall go round corners, and the light still works.
 - e.g. A phone charger's wire can be coiled up, and the phone still charges.
 - e.g. Electricians bend wires to fit inside a switchboard.
+- **Everyday observers:** For a simple torch circuit, the bulb lights whether the wire is straight, curly or knotted.
+- **Michael Faraday:** Showed in the 1830s that a coil of wire carrying current behaves differently from a straight one. It makes a magnet. For fast changing current, shape matters a great deal.
 ### Why the bulb glows · *defined*
 **Definition:** When electricity flows through the very thin filament, the filament gets so hot that it glows and gives out light.
 
@@ -51,6 +57,8 @@ Electricity flows easily through the thick wires. The filament is far thinner th
 - e.g. A torch bulb feels warm after it has been on for a minute.
 - e.g. The coil in an electric heater glows orange when it is hot.
 - e.g. A blacksmith's iron rod glows red in the fire.
+- **Thomas Edison and Joseph Swan:** In 1879 each made a lamp by heating a thin thread, the filament, in a glass bulb until it glowed white hot.
+- **Physicists who study LEDs:** Say an LED makes light in another way: electrons drop to a lower energy level inside a crystal and give out light, with little heat. It is also an example of a switch from hot light to cool light.
 ### What moves in the wire · *defined*
 **Definition:** A metal wire is full of tiny particles called electrons. A cell pushes them round the circuit, all at once, all the way round.
 
@@ -58,6 +66,8 @@ You cannot see electricity in a wire. Scientists have found that metal is full o
 - e.g. The bulb lights the moment you close the last gap, not a little later.
 - e.g. Copper wires carry electricity in homes, because their electrons move easily.
 - e.g. Lightning is a huge number of electrons moving through the air at once.
+- **Everyday picture:** Electrons rush round the wire at the speed of the light switching on.
+- **Closer look:** Electrons drift only slowly, as fast as a snail. The push travels through the wire almost at once, like water already in a pipe. Some physicists say the energy travels in the space around the wire.
 
 ## Mostly agreed
 - A bulb lights only when there is a complete circuit from one end of the cell, through the bulb, to the other end. *How we know:* Unclip any wire, unscrew the bulb, or put both wires on one end of the cell, and the bulb goes dark at once. Children and scientists everywhere get the same result.
@@ -424,7 +434,7 @@ Thenmozhi grinned. 'It is a circuit,' she said. 'Out of one end of the cell, thr
    Options: Wires crossed in an X / One wire coiled like a spring / Both wires on the bump of the cell / Very long wires  
    **Answer:** 2. *Why:* With both wires on the bump, there is no path to the flat end. Crossed, coiled and long wires still make a complete path.
 2. (mcq) Which of these needs its cell the right way round?  
-   Options: A TV remote / A plain torch bulb in a circuit / A foil wire  
+   Options: A plain torch bulb in a circuit / A foil wire / A TV remote  
    **Answer:** A TV remote. *Why:* A remote has tiny parts inside that need the electricity to flow one way. A plain bulb lights whichever way round the cell is.
 3. (order) Put the path of the electricity in order, starting at the bump of the cell.  
    **Answer:** ['the first wire', 'the bulb', 'the second wire', 'the flat end of the cell']. *Why:* Electricity leaves the bump, goes along the first wire, through the bulb, along the second wire, and back into the flat end.
@@ -464,7 +474,7 @@ Thenmozhi grinned. 'It is a circuit,' she said. 'Out of one end of the cell, thr
    Options: The filament / The wire's copper / The wire's plastic cover / The cell  
    **Answer:** 2. *Why:* Electricity flows through the copper, the filament and the cell. The plastic cover is not part of the path. It keeps the electricity inside the wire.
 10. (mcq) A Venus flytrap shuts only after an insect touches her trigger hairs twice. What carries the message through her leaf?  
-   Options: An electric signal / A wire / An AA cell  
+   Options: A wire / An AA cell / An electric signal  
    **Answer:** An electric signal. *Why:* Each touch sends a tiny electric signal through her leaf. She has no wires or AA cells, but she uses electricity, as our nerves do.
 
 ## Videos
@@ -474,10 +484,10 @@ Thenmozhi grinned. 'It is a circuit,' she said. 'Out of one end of the cell, thr
 
 ## Quiz
 1. (mcq) How many wires does a simple circuit with one cell and one bulb need?  
-   Options: Two / One / None  
+   Options: One / None / Two  
    **Answer:** Two. *Why:* One wire takes the electricity to the bulb and one brings it back to the cell. With only one wire the bulb stays dark, because the electricity has no way back.
 2. (mcq) Where must the two wires go on the cell?  
-   Options: One on each end / Both on the bump / Both on the flat end  
+   Options: Both on the bump / One on each end / Both on the flat end  
    **Answer:** One on each end. *Why:* Electricity flows out of one end and back into the other. With both wires on one end, there is no path.
 3. (mcq) You unclip one wire. What happens to the bulb?  
    Options: It goes dark at once / It stays lit for a minute / It gets brighter  
@@ -486,10 +496,10 @@ Thenmozhi grinned. 'It is a circuit,' she said. 'Out of one end of the cell, thr
    Options: It stays lit / It goes dark / It flickers on and off  
    **Answer:** It stays lit. *Why:* The metal inside the wire is still one piece. The shape of the wire does not matter.
 5. (mcq) What is a circuit?  
-   Options: A complete ring that electricity flows round / A kind of bulb / A box for cells  
+   Options: A kind of bulb / A box for cells / A complete ring that electricity flows round  
    **Answer:** A complete ring that electricity flows round. *Why:* A circuit is the whole ring: cell, wire, bulb, wire and back to the cell.
 6. (mcq) Which part of a bulb glows?  
-   Options: The filament / The glass / The metal base  
+   Options: The glass / The metal base / The filament  
    **Answer:** The filament. *Why:* Electricity makes the thin filament so hot that it glows. The glass keeps the air away.
 7. (mcq) Why does a bulb feel warm after a while?  
    Options: The filament is very hot / The cell is cold / The room is warm  
@@ -514,11 +524,11 @@ Thenmozhi grinned. 'It is a circuit,' she said. 'Out of one end of the cell, thr
 - Hertha Ayrton, a scientist in London, studied the bright electric arc lamps that once lit streets. In 1899 she became the first woman member of the Institution of Electrical Engineers in Britain.
 
 ## Spotted around us
-- In Madurai and Chennai, homes light up their golu dolls with strings of tiny bulbs for Navaratri. Each string is one long circuit.
-- In Kolkata during Durga Puja, pandals glow with thousands of small lights, joined by wires that run behind the cloth.
-- At night markets, as in Hyderabad, many fruit sellers' handcarts have a small light that runs on a battery.
-- A cycle rickshaw in Guwahati or Patna may have a small light at the front, joined by wires to a battery.
-- The lighthouse at Mamallapuram, near Chennai, shines its light far out over the sea at night.
+- Homes light up their golu dolls with strings of tiny bulbs for Navaratri. Each string is one long circuit.
+- At Durga Puja, pandals glow with thousands of small lights, joined by wires that run behind the cloth.
+- At night markets, many fruit sellers' handcarts have a small light that runs on a battery.
+- A cycle rickshaw may have a small light at the front, joined by wires to a battery.
+- A lighthouse by the sea shines its light far out over the water at night.
 
 ## Open questions
 - **What is an electron, really?** Scientists can measure how electrons move and push on each other very exactly. But what an electron is in itself, and whether it has any parts, is still not known.
@@ -554,12 +564,16 @@ Plug or Cell (sci.electricity.L2): Topic-level song for Electricity L2
 
 ## Links
 - [PhET Circuit Construction Kit: DC](https://phet.colorado.edu/en/simulations/circuit-construction-kit-dc) · simulation: A free online circuit kit from the University of Colorado. Drag cells, wires and bulbs together and watch the bulb light. Best played with a grown-up.
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: A science museum with hands-on galleries about electricity and machines.
-- [Nehru Science Centre]() · place · Mumbai: A large science centre with hands-on exhibits about electricity and light.
-- [Kerala State Science and Technology Museum]() · place · Thiruvananthapuram: A science museum with galleries on electricity and electronics.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru: A science museum with hands-on galleries about electricity and machines.
+- Nehru Science Centre · place · Mumbai: A large science centre with hands-on exhibits about electricity and light.
+- Kerala State Science and Technology Museum · place · Thiruvananthapuram: A science museum with galleries on electricity and electronics.
 
 ## Things to buy
-- [A school electric circuit kit: an AA cell holder, torch bulbs (1.5 V or 2.5 V) with holders, and crocodile-clip wires](https://www.amazon.in/s?k=electric+circuit+kit+for+school+bulb+holder) (tool): Every experiment in this unit needs a cell, wires and a bulb. Kits like this are sold in stationery and science shops and online. An electrical shop also sells torch bulbs, bulb holders and plastic-covered wire. A torch at home that is not an LED torch has a bulb you can take out, and the cells in a TV remote are AA cells. Folded kitchen foil can stand in for wires. Used in e1, e2, a1, a2, p1. 
+- [A school electric circuit kit: an AA cell holder, torch bulbs (1.5 V or 2.5 V) with holders, and crocodile-clip wires](https://www.amazon.in/s?k=electric+circuit+kit+for+school+bulb+holder) (tool): Every experiment in this lesson needs a cell, wires and a bulb. Kits like this are sold in stationery and science shops and online. An electrical shop also sells torch bulbs, bulb holders and plastic-covered wire. A torch at home that is not an LED torch has a bulb you can take out, and the cells in a TV remote are AA cells. Folded kitchen foil can stand in for wires. Used in e1, e2, a1, a2, p1. 
+- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): Used in Look Inside a Bulb: the thin wire that glows. About ₹30 to ₹120. A water drop on clear plastic magnifies a little. Used in a2. Get it before Look Inside a Bulb: the thin wire that glows.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Foil Wire Challenge. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before The Foil Wire Challenge.
+- [Iron nails or iron filings](https://www.amazon.in/s?k=iron+filings+science) (material): Used in The Shape Test: does it matter how the wires lie?, Which Way Round? Turning the cell and the bulb, Your First Circuit: make the bulb shine. About ₹20 to ₹80. Short steel nails from a hardware shop. Used in e1, e2, a1, p1. Get it before The Shape Test: does it matter how the wires lie?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - How many wires does a bulb circuit with one cell need? → Two. One out to the bulb and one back to the cell.
@@ -576,7 +590,7 @@ Plug or Cell (sci.electricity.L2): Topic-level song for Electricity L2
 
 ## Sources
 - ideas/by_topic/electricity-and-staying-safe-with-it.md, Electricity: 'build a simple circuit with battery, wires and bulb' became Your First Circuit (a1) and the Shape Test (e1); 'card-matching symbols to components' and 'quiz on circuit components' became the Light or Dark drawing game (g2); 'draw circuit diagrams as art' became the drawing steps.
-- Cambridge Primary Science Stage 2, Unit 6.3 'Making a circuit': the parts of a circuit, tracing the flow with a finger, and why some circuits do not work. The Level 3 unit (Simple circuits) already has the one-wire bulb challenge, the conductor test, where the gap is, two cells, a torch taken apart and a paper clip switch, so this unit uses the shape of the wires, which way round, a close look at the bulb, counting metal ends and a fault-finding game instead.
+- Cambridge Primary Science Stage 2, Unit 6.3 'Making a circuit': the parts of a circuit, tracing the flow with a finger, and why some circuits do not work. The Level 3 unit (Simple circuits) already has the one-wire bulb challenge, the conductor test, where the gap is, two cells, a torch taken apart and a paper clip switch, so this lesson uses the shape of the wires, which way round, a close look at the bulb, counting metal ends and a fault-finding game instead.
 - Mains supply in India is about 230 volts. An AA cell gives 1.5 volts.
 - J. W. Swan's carbon filament lamp, shown in Newcastle upon Tyne early in 1879, and his use of a Sprengel mercury pump (H. Sprengel, 1865) for a better vacuum (IET Archives biography of Joseph Swan).
 - L. H. Latimer, US Patent 252,386, 'Process of Manufacturing Carbons', 17 January 1882.

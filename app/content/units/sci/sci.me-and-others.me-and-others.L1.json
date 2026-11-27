@@ -17,7 +17,8 @@
   "By the end I can say what I like, and that other people may like different things.",
   "By the end I can say, from my own taste test, that one food can taste different to different people.",
   "By the end I can name a kind thing to do, and say how it helps someone.",
-  "By the end I can make a guess, test it, and say what I saw."
+  "By the end I can make a guess, test it, and say what I saw.",
+  "By the end I can join a game or a job with others, take my turn, and say that families and pets deserve kindness."
  ],
  "cards_mins": 8,
  "terms": [
@@ -44,6 +45,12 @@
    "meaning": "Being kind means doing something to help another person or animal, or to make them feel better.",
    "example": "Sharing your crayons with a new friend is kind. Putting out water for a crow on a hot day is kind.",
    "art": "A girl handing a box of crayons to another child at a table."
+  },
+  {
+   "term": "Take turns",
+   "meaning": "When a few people share one thing or one game, each one has a go, one after another.",
+   "example": "In a game of ludo, you throw the dice, and then your friend throws it.",
+   "art": "Two children and a ludo board, one holding the dice and the other waiting with her hands in her lap."
   }
  ],
  "explanations": [
@@ -65,7 +72,7 @@
    "concept": "Each of us is different",
    "status": "defined",
    "definition": "No two people are exactly the same. We differ in how we look, how we sound and what we like.",
-   "description": "Some people are tall and some are short. Hair can be curly, wavy or straight. Skin comes in many shades of brown, from light to dark. You can tell one grown-up from another with your eyes shut, because every person's voice sounds a little different. Even twins who look alike have different fingerprints. And each person likes different things: one loves rice and rasam, another loves luchi.",
+   "description": "Some people are tall and some are short. Hair can be curly, wavy or straight. Skin comes in many shades of brown, from light to dark. You can tell one grown-up from another with your eyes shut, because every person's voice sounds a little different. Even twins who look alike have different fingerprints. And each person likes different things: one loves rice and rasam, another loves luchi. Families are different too. Some children live with a mother and a father. Some live with a grandmother, with an aunt and uncle, or with one parent. Some families eat idli for breakfast, and some eat paratha. Each one is a real family, and we are kind about how each one is.",
    "examples": [
     "You can know who is calling you just from their voice.",
     "Two sisters can have different favourite colours.",
@@ -114,15 +121,30 @@
    "concept": "Being kind",
    "status": "defined",
    "definition": "Being kind means helping someone, or doing something that makes them feel better.",
-   "description": "Other people may like different things from you, so you can ask them. Asking 'Do you like this?' is kind. Saying 'Yuck!' about someone's food is not. People are not the only animals who are kind. Elephants touch and soothe another elephant who is upset. Rats in tests have opened a little door to free another rat who was shut in.",
+   "description": "Other people may like different things from you, so you can ask them. Asking 'Do you like this?' is kind. Saying 'Yuck!' about someone's food is not. People are not the only animals who are kind. Elephants touch and soothe another elephant who is upset. Rats in tests have opened a little door to free another rat who was shut in. Pets feel things too. A kind child fills the dog's water bowl, strokes a cat gently, and never pulls a tail. If you do not know an animal, ask a grown-up before you touch her.",
    "examples": [
     "You ask a new child to play with you.",
     "You bring water for a tired grown-up.",
-    "You wait for a slower friend on a walk."
+    "You wait for a slower friend on a walk.",
+    "You fill the water bowl for the family dog, or put out grain for the birds."
    ],
    "perspectives": [],
    "context": "This card is about kindness, in people and in other animals.",
    "art": "A mother elephant touching a young elephant with her trunk, and beside them a girl putting an arm round a crying friend."
+  },
+  {
+   "concept": "Doing things together",
+   "status": "defined",
+   "definition": "Some games and jobs are better with other people. When you join in, you take a part and wait for your turn.",
+   "description": "Many hands make a job quick. At home, one person shakes out the washing, one folds it and one puts it away. A game of kho-kho or hide and seek needs more than one child. When you join a group, you wait for your turn and share the things. If a child is standing alone, you can say, 'Come and play with us!' Everyone's part is different, and every part helps.",
+   "examples": [
+    "Three children draw a rangoli together. One draws the dots, one joins them, and one fills in the colours.",
+    "You carry one bag of vegetables and your brother carries the other.",
+    "You wait for your turn on the swing, and then the next child has hers."
+   ],
+   "perspectives": [],
+   "context": "This card is about joining in a game or a job with other people, and how each person has a part.",
+   "art": "Three children kneeling around a rangoli on a courtyard floor, each holding a different colour of powder, with a fourth child being waved over to join."
   }
  ],
  "agreed": [
@@ -375,11 +397,11 @@
       "t": "mcq",
       "q": "Which card made everyone stand up?",
       "options": [
-       "Stand up if you like karela",
        "Stand up if you need to drink water",
+       "Stand up if you like karela",
        "Stand up if you have curly hair"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Every person needs water, so everyone stood. Liking karela and having curly hair are different from person to person, so only some stood."
      }
     }
@@ -498,11 +520,11 @@
       "t": "mcq",
       "q": "Your friend says your favourite dosa is not nice. What is the kind thing to say?",
       "options": [
-       "'You are wrong. Dosa is the best!'",
        "'That's okay. We like different things. What do you like?'",
+       "'You are wrong. Dosa is the best!'",
        "'I won't play with you.'"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The same food can taste different to two people, so neither of you is wrong. Asking what they like is kind, and you may find something you both like."
      }
     }
@@ -643,10 +665,10 @@
       "q": "Everyone ate the same karela, but the thumbs were different. What does this tell us?",
       "options": [
        "Some people ate the wrong karela",
-       "The same food can taste different to different people",
-       "Thumbs are hard to show"
+       "Thumbs are hard to show",
+       "The same food can taste different to different people"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Everyone ate the very same karela. So the difference was not in the food. It was in each person: their tongue, and the foods they are used to."
      }
     }
@@ -789,11 +811,11 @@
       "t": "mcq",
       "q": "You could tell one person's voice from another's. What does this show?",
       "options": [
-       "Every person's voice is a little different",
        "Everyone has the same voice",
-       "Only grown-ups have voices"
+       "Only grown-ups have voices",
+       "Every person's voice is a little different"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Each person's voice is their own, so you can tell people apart without seeing them. Babies learn to know their mother's voice very early."
      },
      "parent": "Whispers are usually harder to tell apart. If your child gets every one right both times, that is a real result too: they know these voices very well. Try again with a voice they hear less often, such as a neighbour."
@@ -1306,10 +1328,10 @@
       "q": "One guest loves sour things and another guest loves sweet things. What plate will make both happy?",
       "options": [
        "A plate with only laddoos",
-       "A plate with laddoos and lime pickle",
-       "A plate with only lime pickle"
+       "A plate with only lime pickle",
+       "A plate with laddoos and lime pickle"
       ],
-      "a": 1,
+      "a": 2,
       "why": "People like different tastes. A plate with a sweet thing and a sour thing gives each of them something they like."
      }
     }
@@ -1430,11 +1452,11 @@
      "t": "mcq",
      "p": "A girl, her father and her grandmother taste jaggery and karela with their eyes closed. Which food will all three most likely give a thumbs up?",
      "opts": [
-      "Jaggery",
       "Pavakkai (karela)",
-      "Neither"
+      "Neither",
+      "Jaggery"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Sweet is a taste nearly everyone likes. Bitter foods like karela taste very different to different people, so they often get different thumbs."
     },
     {
@@ -1501,6 +1523,13 @@
      "a": true,
      "why": "True. Each person's voice is a little different, so we can tell people apart just by listening.",
      "how": "e2"
+    },
+    {
+     "t": "draw",
+     "p": "Draw a job or a game you do together with someone at home. Show what each person does.",
+     "a": "Any shared job, such as folding clothes, making a rangoli, or playing carrom.",
+     "why": "A strong drawing shows two or more people, each with a different part of the same job or game.",
+     "art": "A blank box with two small stick figures holding hands in one corner."
     }
    ]
   },
@@ -1570,11 +1599,11 @@
      "t": "mcq",
      "p": "In the Who Said Hello? voice test, why were whispers harder to guess than talking?",
      "opts": [
-      "A whisper has no buzz from the voice box, so voices sound more alike",
       "Whispers come from further away",
-      "People change their names when they whisper"
+      "People change their names when they whisper",
+      "A whisper has no buzz from the voice box, so voices sound more alike"
      ],
-     "a": 0,
+     "a": 2,
      "why": "When we talk, the voice box in our throat buzzes, and each person's buzz is a little different. A whisper is only breath, so whispers sound more alike.",
      "how": "e2"
     },
@@ -1676,12 +1705,25 @@
      "t": "mcq",
      "p": "In 1931, a scientist called Arthur Fox tasted nothing in a white powder. A man working next to him said the same powder was very bitter. What did this show?",
      "opts": [
-      "The other man was making it up",
       "The same powder can taste different to different people",
+      "The other man was making it up",
       "The powder had no taste for anyone"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Fox gave the powder to many people. Some found it bitter, and some tasted nothing. The same thing can taste different to different people."
+    },
+    {
+     "t": "truefalse",
+     "p": "Only a family with a mother and a father is a real family.",
+     "a": false,
+     "why": "False. Some children live with a grandmother, an aunt and uncle, or one parent. Every one of these is a real family."
+    },
+    {
+     "t": "draw",
+     "p": "Draw one kind thing you can do for a pet, a bird or a street animal near your home.",
+     "a": "Any kind act, such as putting out a bowl of water or stroking a dog gently.",
+     "why": "A strong drawing shows the child being gentle, with a pet or an animal that is not afraid.",
+     "art": "A blank box with a small paw print in one corner."
     }
    ]
   }
@@ -1691,11 +1733,11 @@
    "t": "mcq",
    "p": "Which one is true for every person?",
    "opts": [
-    "They have curly hair",
     "They need food",
+    "They have curly hair",
     "They like karela"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Every person needs food to live and grow. Hair and liking karela are different from person to person.",
    "outcome": 0
   },
@@ -1704,10 +1746,10 @@
    "p": "A sister and her brother both have two ears. The sister is tall and the brother is short. Which is a way they are different?",
    "opts": [
     "Their ears",
-    "How tall they are",
-    "That they both need sleep"
+    "That they both need sleep",
+    "How tall they are"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The sister is tall and the brother is short, so their height is different. They are similar in having two ears and needing sleep.",
    "outcome": 1
   },
@@ -1716,10 +1758,10 @@
    "p": "Anu says mango is the best fruit. Her friend Joy says guava is the best. Who is right?",
    "opts": [
     "Only Anu",
-    "Only Joy",
-    "Both: people like different things"
+    "Both: people like different things",
+    "Only Joy"
    ],
-   "a": 2,
+   "a": 1,
    "why": "A favourite fruit is about what each person likes, so both can be right. People like different things.",
    "outcome": 2
   },
@@ -1728,10 +1770,10 @@
    "p": "In a taste test, a grandmother gave karela a thumbs up and her grandchild, aged 6, gave a thumbs down. They ate the same karela. Why were the thumbs different?",
    "opts": [
     "One of them is wrong",
-    "The same food can taste different to different people",
-    "The grandmother ate a sweeter piece"
+    "The grandmother ate a sweeter piece",
+    "The same food can taste different to different people"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The karela was the same. Each person's tongue, and the foods they are used to, are different. So neither of them is wrong.",
    "outcome": 3
   },
@@ -1739,11 +1781,11 @@
    "t": "mcq",
    "p": "What taste does karela have?",
    "opts": [
+    "Bitter",
     "Sweet",
-    "Sour",
-    "Bitter"
+    "Sour"
    ],
-   "a": 2,
+   "a": 0,
    "why": "Karela is bitter. Some people find the bitter taste very strong, and others hardly mind it.",
    "outcome": 3
   },
@@ -1763,11 +1805,11 @@
    "t": "mcq",
    "p": "On her first day, a new girl sits alone at lunch. What is a kind thing to do?",
    "opts": [
-    "Sit with her and ask her name",
     "Point at her food",
+    "Sit with her and ask her name",
     "Pretend not to see her"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Sitting with her and asking her name helps her feel welcome. Being kind means helping someone feel better.",
    "outcome": 4
   },
@@ -1799,11 +1841,11 @@
    "t": "mcq",
    "p": "In the Who Said Hello? voice test, why are the speakers' names written in a mixed-up order?",
    "opts": [
-    "So the child cannot guess from the order",
     "To make it noisy",
-    "So people get tired"
+    "So people get tired",
+    "So the child cannot guess from the order"
    ],
-   "a": 0,
+   "a": 2,
    "why": "If people spoke in the same order each time, the child could guess from the order and not the voice. Mixing it up makes the test fair.",
    "outcome": 5
   },
@@ -1811,13 +1853,49 @@
    "t": "mcq",
    "p": "What does a scientist do before a test?",
    "opts": [
-    "Guesses what will happen, and says why",
     "Writes the answer before looking",
+    "Guesses what will happen, and says why",
     "Skips the test"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A scientist guesses first and gives a reason. Then the test shows if the guess was right.",
    "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "Three children are making a rangoli together. One child has finished her part and stands waiting. What is a good thing to do?",
+   "opts": [
+    "Take the colours and do it all alone",
+    "Ask what part she can help with, and join in",
+    "Walk away and say it is boring"
+   ],
+   "a": 1,
+   "why": "A shared job goes well when each person has a part. Asking how to help lets everyone feel part of the group. Doing it all alone leaves the others out.",
+   "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "Sana's friend Ravi lives with his grandmother and his uncle. Sana lives with her mother, her father and her sister. What is the kind thing to say?",
+   "opts": [
+    "Ravi's family is not a proper family",
+    "Families are all different, and Ravi's is a real family too",
+    "Everyone must live like Sana does"
+   ],
+   "a": 1,
+   "why": "Families come in many shapes, and each one is a real family. Saying a family is not proper hurts the child who lives in it.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "A kitten comes to your door. Which is a kind way to meet her?",
+   "opts": [
+    "Ask a grown-up, then stroke her gently and give her some water",
+    "Pull her tail to make her play",
+    "Shout loudly so that she runs to you"
+   ],
+   "a": 0,
+   "why": "Animals feel pain and fear as we do. A gentle hand and some water are kind. A pulled tail hurts, and a loud shout frightens her.",
+   "outcome": 4
   }
  ],
  "videos": [
@@ -2015,7 +2093,67 @@
    "why": "A science museum with a children's section, good for a family day out."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-we-re-all-wonders",
+   "item": "We're All Wonders by R. J. Palacio",
+   "kind": "book",
+   "why": "A boy who looks different from other children asks them to look at him with kindness. It gives the child words for noticing how people differ and how they are alike.",
+   "url": "https://www.amazon.in/s?k=Were+All+Wonders",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Read it together at the start of the lesson, then talk about how we are alike and different."
+  },
+  {
+   "id": "b-me-jane",
+   "item": "Me... Jane by Patrick McDonnell",
+   "kind": "book",
+   "why": "The true story of Jane Goodall as a girl, with her toy chimpanzee, dreaming of Africa. It shows a child who loved watching living things.",
+   "url": "https://www.amazon.in/s?k=Me+Jane",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Read it together after the lesson on how we are all different."
+  },
+  {
+   "id": "b-a-small-hand-mirror",
+   "item": "A small hand mirror",
+   "kind": "material",
+   "why": "Used in Mirror Twins: what is the same, what is different?, All About Me: my name, my face, what I like. About ₹20 to ₹80. A shiny steel plate shows reflections too.",
+   "url": "https://www.amazon.in/s?k=small+hand+mirror",
+   "used_in": [
+    "a1",
+    "a2"
+   ],
+   "plan": "Get it before Mirror Twins: what is the same, what is different?."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in Same Food, Different Faces: does everyone at home like the same tastes?. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before Same Food, Different Faces: does everyone at home like the same tastes?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "Name one thing every person needs.",

@@ -747,11 +747,11 @@
       "t": "mcq",
       "q": "Why do most people find 'The old man the boat' hard to read?",
       "options": [
-       "The brain picks a likely reading, 'the old man', and has to go back when it does not fit",
        "The words are too long",
+       "The brain picks a likely reading, 'the old man', and has to go back when it does not fit",
        "The sentence has no verb in any reading"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The brain reads one word at a time and guesses ahead. It takes 'the old man' as one person. When the next words do not fit, it has to give up that reading and start again. The words are short, and the sentence does have a verb, 'man'."
      },
      "context": "In this step, you add up the scores and explain why one sentence was so hard to read."
@@ -890,11 +890,11 @@
       "t": "mcq",
       "q": "Why does a cube drawing flip, though the lines on the paper never change?",
       "options": [
-       "The lines fit two cubes equally well, and the brain switches between them",
        "The paper moves a little each time",
-       "The eyes see double and then see single"
+       "The eyes see double and then see single",
+       "The lines fit two cubes equally well, and the brain switches between them"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The lines could be a cube pointing one way or the other, and both readings fit. The brain can show only one reading at a time, and it switches between them. The paper does not move, and the eyes are not seeing double."
      },
      "context": "In this step, you compare the results and explain why the cube flips."
@@ -1060,11 +1060,11 @@
       "t": "mcq",
       "q": "A big change in a tray goes unseen when a card covers the moment of change. What is the best explanation?",
       "options": [
-       "The brain does not see the change happen, and it compares before and after only in the place it is attending to",
        "The watcher's eyes were closed",
+       "The brain does not see the change happen, and it compares before and after only in the place it is attending to",
        "The red cup was too small to see"
       ],
-      "a": 0,
+      "a": 1,
       "why": "In plain sight the brain sees the thing move, and that catches attention at once. When the card hides the moment of change, there is no movement to see, and the brain has to compare two scenes. It does that only for the few things it is attending to. The eyes were open, and the cup was large."
      },
      "context": "In this step, you add up the blinks and explain why a big change can go unseen."
@@ -1208,11 +1208,11 @@
       "t": "mcq",
       "q": "A face with its eyes and mouth turned upside down looks horrible upright, but almost normal upside down. What does this show?",
       "options": [
-       "The brain reads an upright face as a whole, and the oddness of its parts shows up only when it is upright",
        "The eyes and mouth look normal upside down in every case",
+       "The brain reads an upright face as a whole, and the oddness of its parts shows up only when it is upright",
        "The brain cannot see upside-down faces at all"
       ],
-      "a": 0,
+      "a": 1,
       "why": "When a face is upright, the brain reads all the parts together as one face and notices that something is wrong. When the face is upside down, it reads the parts one by one, and the changed parts do not stand out. The brain can see upside-down faces, but less well."
      },
      "context": "In this step, you work out the averages and explain what the cards show about faces."
@@ -1343,11 +1343,11 @@
       "t": "mcq",
       "q": "Why do many people miss the doubled word in 'Paris in the the spring'?",
       "options": [
-       "The brain expects the familiar phrase and skips over the repeat",
        "The words are printed too small",
-       "People are not looking at the page"
+       "People are not looking at the page",
+       "The brain expects the familiar phrase and skips over the repeat"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The brain reads familiar phrases by guessing what comes next, and it does not check every word. It saw 'the' and it expected 'spring', so the repeat went by. The eyes were on the page, and the words were large enough to see."
      },
      "context": "In this step, you ask people to read three lines with a doubled word and see who notices."
@@ -1437,11 +1437,11 @@
       "t": "mcq",
       "q": "In the vase and faces picture, what happens to the vase when you see the faces?",
       "options": [
-       "The vase becomes the background behind the faces",
        "The vase gets smaller",
-       "The vase disappears from the paper"
+       "The vase disappears from the paper",
+       "The vase becomes the background behind the faces"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The brain decides which part is the figure, the thing in front, and which is the ground behind it. When the faces are the figure, the vase becomes part of the empty space between them. The paper does not change at all."
      },
      "context": "In this step, you test five people and note what they see first and whether they can see both."
@@ -1531,11 +1531,11 @@
       "t": "mcq",
       "q": "In the drawing of three circles with slices missing, people see a triangle. Where do the triangle's edges come from?",
       "options": [
-       "The brain draws them, to join the circles into one shape",
        "They are drawn in very thin pencil",
-       "They come from the white paper"
+       "They come from the white paper",
+       "The brain draws them, to join the circles into one shape"
       ],
-      "a": 0,
+      "a": 2,
       "why": "No edges are drawn on the paper. The brain groups the three circles into one shape, and it supplies the missing edges so that the shape makes sense. Nerve cells in the visual part of a monkey's brain have been found to respond to such missing edges as though they were real lines."
      },
      "context": "In this step, you count who saw the triangle and think about where its edges come from."
@@ -1692,11 +1692,11 @@
       "t": "mcq",
       "q": "A flower looks plain yellow to you. A bee sees a dark pattern on the flower, in ultraviolet. What does this suggest?",
       "options": [
-       "The flower has more than one appearance, depending on who looks",
        "The bee is imagining the pattern",
+       "The flower has more than one appearance, depending on who looks",
        "The flower changes when the bee arrives"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The pattern is really there, in ultraviolet light, but our eyes cannot sense that light. So the flower looks plain to us and patterned to the bee. The bee is not imagining the pattern, and the flower does not change when the bee arrives."
      },
      "context": "In this step, you tell how one animal would notice one thing, and think about what that means."
@@ -1766,11 +1766,11 @@
       "t": "mcq",
       "q": "A word said thirty times often starts to sound strange. What does this suggest about meaning?",
       "options": [
-       "The brain builds the meaning of a word each time, and the meaning can fade for a while when the word is repeated",
        "The word has lost its meaning in the dictionary",
-       "The ears have stopped working"
+       "The ears have stopped working",
+       "The brain builds the meaning of a word each time, and the meaning can fade for a while when the word is repeated"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A word's meaning is not stuck to its sound. The brain makes the meaning each time it hears or says the word, and repeating the word many times can make this work less well for a while. The word is still in the dictionary, and the ears are fine."
      },
      "context": "In this step, you test two other people and think about what the result means."
@@ -1840,11 +1840,11 @@
       "t": "mcq",
       "q": "A person who is busy says stop at 75 seconds, when they think a minute has passed. What does this suggest?",
       "options": [
-       "The minute felt shorter than it was, because their attention was on the task",
        "The minute felt longer than it was",
-       "The stopwatch was wrong"
+       "The stopwatch was wrong",
+       "The minute felt shorter than it was, because their attention was on the task"
       ],
-      "a": 0,
+      "a": 2,
       "why": "At 60 seconds they did not yet feel that a minute had gone, so they waited until 75. When the mind is busy, less attention is given to time, and the time feels shorter. A single trial is not proof, but it matches what scientists find on average."
      },
      "context": "In this step, you test a busy minute and think about what the result means."
@@ -2183,11 +2183,11 @@
    "t": "mcq",
    "p": "A drawing that can be read as a vase or as two faces is called what?",
    "opts": [
-    "An ambiguous picture",
     "A mirror image",
-    "A shadow"
+    "A shadow",
+    "An ambiguous picture"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Ambiguous means able to mean two things equally well. The brain shows one reading at a time and switches between them.",
    "outcome": 0
   },
@@ -2207,11 +2207,11 @@
    "t": "mcq",
    "p": "A driver on a phone looks straight at a red light and does not see it. What is the best explanation?",
    "opts": [
-    "The driver's attention is on the call, so the light is not noticed",
     "The light is too dim for any eye",
+    "The driver's attention is on the call, so the light is not noticed",
     "The driver's eyes were closed"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Looking at something does not mean noticing it. Detailed seeing needs attention, and attention was on the call.",
    "outcome": 1
   },
@@ -2219,11 +2219,11 @@
    "t": "mcq",
    "p": "A card is held over a tray for a second, and a big thing on the tray changes. Why might a watcher miss it?",
    "opts": [
-    "There is no movement to catch the eye, and the brain does not compare the two scenes",
     "The change was too small to see",
+    "There is no movement to catch the eye, and the brain does not compare the two scenes",
     "The watcher was not looking at the tray"
    ],
-   "a": 0,
+   "a": 1,
    "why": "In plain sight, a change brings movement, which draws attention at once. When something hides the moment, the brain has to compare before and after, and often does not.",
    "outcome": 1
   },
@@ -2231,11 +2231,11 @@
    "t": "mcq",
    "p": "Why do many people miss the extra word in 'Paris in the the spring'?",
    "opts": [
-    "The brain expects the familiar phrase and passes over the repeat",
     "The extra word is written in light ink",
-    "The eyes cannot read two words that are the same"
+    "The eyes cannot read two words that are the same",
+    "The brain expects the familiar phrase and passes over the repeat"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The brain reads familiar phrases by guessing what is next. It saw 'the' and expected 'spring', so the repeat was not noticed.",
    "outcome": 2
   },
@@ -2243,11 +2243,11 @@
    "t": "mcq",
    "p": "A person looks for a missing key and keeps passing it. What may be happening?",
    "opts": [
-    "Their search image does not match how the key looks now",
     "The key is invisible",
+    "Their search image does not match how the key looks now",
     "Keys cannot be found by looking"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A search image helps you find what you picture, and hides what does not match. If the key looks different from the picture in your mind, you may pass it.",
    "outcome": 2
   },
@@ -2255,11 +2255,11 @@
    "t": "mcq",
    "p": "Three circles with a slice missing each are placed so that a triangle appears. Where are the triangle's edges?",
    "opts": [
-    "The brain makes them, and they are not drawn",
     "Drawn in very thin lines",
-    "In the white paper"
+    "In the white paper",
+    "The brain makes them, and they are not drawn"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The brain joins the three circles into one shape and supplies the missing edges. Nerve cells have been found that respond to such edges as if they were real.",
    "outcome": 3
   },
@@ -2267,11 +2267,11 @@
    "t": "mcq",
    "p": "A photo of a person is harder to recognise when it is upside down. What does this suggest?",
    "opts": [
-    "The brain has a special way of reading upright faces",
     "The person's face changes when it is upside down",
+    "The brain has a special way of reading upright faces",
     "Photos cannot be turned"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Faces are harder to recognise upside down than other objects are. This suggests that the brain reads upright faces all at once, in a special way.",
    "outcome": 4
   },
@@ -2279,11 +2279,11 @@
    "t": "mcq",
    "p": "A bee sees dark stripes on a flower that looks plain to you. What is the best explanation?",
    "opts": [
-    "The stripes are in ultraviolet light, which bees can see and we cannot",
     "The bee is imagining the stripes",
+    "The stripes are in ultraviolet light, which bees can see and we cannot",
     "The flower changes when a bee comes"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Many flowers have ultraviolet patterns that guide bees to the nectar. Our eyes cannot sense ultraviolet light, so the flower looks plain to us.",
    "outcome": 5
   },
@@ -2533,11 +2533,11 @@
      "t": "mcq",
      "p": "A tiger's stripes in tall dry grass help her hide. What is the best name for this trick?",
      "opts": [
-      "Breaking up her outline",
       "Making a loud noise",
-      "Looking bigger"
+      "Looking bigger",
+      "Breaking up her outline"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Dark and light stripes cut across the edge of the tiger's body, so the brain does not read the outline as one animal. The stripes do not make her bigger or noisier.",
      "outcome": 6
     },
@@ -2562,11 +2562,11 @@
      "t": "mcq",
      "p": "Why does the brain show only one reading of an ambiguous picture?",
      "opts": [
-      "A body must act on one reading at a time",
       "The eyes can only see half of a picture",
+      "A body must act on one reading at a time",
       "The paper only has one meaning"
      ],
-     "a": 0,
+     "a": 1,
      "why": "You cannot reach for a cube that is both near and far. The brain picks the likeliest reading so the body can act. The eyes can see the whole picture, and the picture has two readings.",
      "outcome": 0
     },
@@ -2574,11 +2574,11 @@
      "t": "mcq",
      "p": "A bird has eaten green caterpillars for a week. What is she most likely to do next?",
      "opts": [
-      "Miss a brown caterpillar right next to her beak",
       "Find every kind of caterpillar equally well",
+      "Miss a brown caterpillar right next to her beak",
       "Stop looking for food"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A search image for green caterpillars helps the bird find them fast, and makes brown ones easier to miss. Searching for one kind of thing tends to hide others.",
      "outcome": 2
     },
@@ -2727,11 +2727,11 @@
      "t": "mcq",
      "p": "If the card that hides the moment of change is taken away, watchers see the change at once. What does this show?",
      "opts": [
-      "The brain notices movement without needing to compare two scenes",
       "The watchers were not paying attention before",
-      "The card made the change bigger"
+      "The card made the change bigger",
+      "The brain notices movement without needing to compare two scenes"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A change that happens in plain sight comes with movement, which draws attention at once. The card removes that movement, so the brain has to compare two scenes.",
      "outcome": 1
     },
@@ -2794,11 +2794,11 @@
      "t": "mcq",
      "p": "Three watchers took 4, 9 and 5 blinks to find a change. What is the best way to report this?",
      "opts": [
-      "Say all three numbers and the average of 6",
       "Say only the smallest number, 4",
-      "Say only the largest number, 9"
+      "Say only the largest number, 9",
+      "Say all three numbers and the average of 6"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Reporting all the numbers and the average shows the whole result and how much it varies. Choosing only the smallest or largest number gives a false picture.",
      "outcome": 7
     },
@@ -2825,11 +2825,11 @@
      "t": "mcq",
      "p": "When you cover one circle of the ghost triangle, the triangle disappears. What does this show?",
      "opts": [
-      "The brain needs all three circles to complete the shape",
       "The triangle was drawn in invisible ink",
-      "The covered circle was the triangle"
+      "The covered circle was the triangle",
+      "The brain needs all three circles to complete the shape"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The triangle is made by the brain from the three circles. Remove one circle, and there is nothing to complete. The triangle was never drawn on the paper.",
      "outcome": 3
     },
@@ -2939,11 +2939,11 @@
      "t": "mcq",
      "p": "Why is it better to ask many watchers than one?",
      "opts": [
-      "One watcher can be lucky or unlucky, and many show the usual result",
       "Many watchers make the change bigger",
-      "One watcher cannot see the tray"
+      "One watcher cannot see the tray",
+      "One watcher can be lucky or unlucky, and many show the usual result"
      ],
-     "a": 0,
+     "a": 2,
      "why": "One try can be a fluke. Results from many people show the pattern that most people share, and how much it varies.",
      "outcome": 7
     },
@@ -2984,11 +2984,11 @@
      "t": "mcq",
      "p": "A student wants to know whether upside-down faces are harder to read. Which plan is best?",
      "opts": [
-      "Show the same faces upright and upside down to several people and score each",
       "Ask one friend which she prefers",
-      "Show faces upside down only"
+      "Show faces upside down only",
+      "Show the same faces upright and upside down to several people and score each"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A fair plan changes only the direction of the faces, uses the same faces and gives the same task to several people. To compare, you need both upright and upside-down faces.",
      "outcome": 7
     }
@@ -3275,6 +3275,51 @@
    "used_in": [
     "a2"
    ]
+  },
+  {
+   "id": "b-a-digital-stopwatch--optiona",
+   "item": "A digital stopwatch (optional)",
+   "kind": "tool",
+   "why": "Used in Count the Flips: one cube drawing, two readings, Upside-Down Faces: which looks stranger?, Count the F's, and Spot the Extra Word. About ₹150 to ₹400. A phone stopwatch works well.",
+   "url": "https://www.amazon.in/s?k=digital+stopwatch",
+   "used_in": [
+    "e1",
+    "e3",
+    "a1",
+    "a6",
+    "a7",
+    "c1"
+   ],
+   "plan": "Get it before Count the Flips: one cube drawing, two readings."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Count the Flips: one cube drawing, two readings, Vase or Faces? Cut your own two-way picture, The Triangle That Isn't There. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "a2",
+    "a3",
+    "c2"
+   ],
+   "plan": "Get it before Count the Flips: one cube drawing, two readings."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

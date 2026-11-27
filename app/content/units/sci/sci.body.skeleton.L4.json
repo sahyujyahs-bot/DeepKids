@@ -125,7 +125,7 @@
    "concept": "The main bones and their names",
    "status": "defined",
    "definition": "A skeleton is the frame of hard parts that holds up a body. A grown-up human skeleton is usually counted as 206 bones.",
-   "description": "Start at the top. The skull is a box of bones around the brain. The lower jaw is the only part of the skull that moves. The backbone is a chain of small bones called vertebrae. It runs from the skull to the hips. Twelve pairs of ribs curve round from the backbone, and most of them join the breastbone at the front. The collarbone and the shoulder blade hold each arm on. The upper arm has one bone, called the humerus. The forearm has two, called the radius and the ulna. The hip bones make a ring called the pelvis. The thigh bone is called the femur, and it is the longest bone you have. The kneecap sits in front of the knee. The lower leg has two bones. The thick one at the front is the shin bone, called the tibia. More than half of your 206 bones are in your hands and feet. A baby has more separate bones than a grown-up, because some bones join together as a child grows.",
+   "description": "Start at the top. The skull is a box of bones around the brain. The lower jaw is the only part of the skull that moves. The backbone is a chain of small bones called vertebrae. It runs from the skull to the hips. Twelve pairs of ribs curve round from the backbone, and most of them join the breastbone at the front. The collarbone and the shoulder blade hold each arm on. The upper arm has one bone, called the humerus. The forearm has two, called the radius and the ulna. The hip bones make a ring called the pelvis. The thigh bone is called the femur, and it is the longest bone you have. The kneecap sits in front of the knee. The lower leg has two bones. The thick one at the front is the shin bone, called the tibia. More than half of your 206 bones are in your hands and feet. A baby has more separate bones than a grown-up, because some bones join together as a child grows. The skull is a box for the brain, and the backbone guards the spinal cord, the bundle of nerves that runs down its middle. A child's backbone has 33 small bones. As you grow, the lowest ones join together, so a grown-up has about 26.",
    "examples": [
     "Each hand has 27 bones, and each foot has 26.",
     "The smallest bone is deep inside your ear. It is smaller than a grain of rice.",
@@ -612,11 +612,11 @@
       "t": "mcq",
       "q": "Which kind of skeleton must be shed and replaced for the animal to grow?",
       "options": [
-       "An exoskeleton",
        "An endoskeleton",
+       "An exoskeleton",
        "A body with no hard skeleton"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A hard coat on the outside cannot stretch, so the old coat is split and a bigger one grows. Bones inside the body grow along with the body. If you chose the endoskeleton, remember that you have never shed your bones."
      },
      "context": "This is the last step of Inside, Outside or None. You sort the animal cards by kind of skeleton and compare the piles."
@@ -1129,11 +1129,11 @@
       "t": "mcq",
       "q": "In the Paper Ice Test, why must both slabs be the same thickness?",
       "options": [
-       "So only the paper is different",
        "So they freeze faster",
-       "So they fit in the plate"
+       "So they fit in the plate",
+       "So only the paper is different"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A thick slab is harder to break than a thin one. If one slab were thicker, you could not tell whether the thickness or the paper had made the difference."
      },
      "parent": "Work quickly, because ice gets weaker as it melts. The plain slab may still be whole after 80 centimetres. If so, hit each slab in the middle with the back of a heavy spoon. Count the hits until it breaks.",
@@ -1254,11 +1254,11 @@
       "t": "mcq",
       "q": "Which bones make a cage round the heart and the lungs?",
       "options": [
-       "The ribs, breastbone and backbone",
        "The pelvis and the femur",
+       "The ribs, breastbone and backbone",
        "The skull and the lower jaw"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Twelve pairs of ribs curve from the backbone to the front, where most join the breastbone. The heart and lungs lie inside. If you chose the skull, remember that the skull guards the brain."
      },
      "parent": "The skull protects the brain. The ribs and breastbone protect the heart and lungs. The backbone protects the spinal cord. The pelvis protects the bladder and lower gut. The backbone, pelvis, femur and tibia carry the body's weight.",
@@ -1353,11 +1353,11 @@
       "t": "mcq",
       "q": "A thigh bone is 40 centimetres long. About how tall was the person?",
       "options": [
-       "About 160 centimetres",
        "About 80 centimetres",
-       "About 40 centimetres"
+       "About 40 centimetres",
+       "About 160 centimetres"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A thigh bone is about a quarter of a person's height. 4 times 40 is 160. If you chose 80, you doubled the bone once, and it needs doubling twice."
      },
      "parent": "This really is done. In the 1950s the American scientist Mildred Trotter measured the bones of several thousand people whose heights were known. She worked out rules for finding height from a thigh bone. Her rules are more exact than 'four times', and they are still used.",
@@ -1445,11 +1445,11 @@
       "t": "mcq",
       "q": "Why do muscles work in pairs?",
       "options": [
-       "A muscle can pull but cannot push",
        "One muscle gets lonely",
+       "A muscle can pull but cannot push",
        "Two muscles are lighter than one"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A muscle moves a bone by getting shorter. It cannot get longer by itself and push the bone back. So another muscle on the opposite side pulls the bone the other way."
      },
      "context": "This is the last step of Lift and Press. You find that a string can pull but not push, and compare it with a muscle."
@@ -1657,11 +1657,11 @@
       "t": "mcq",
       "q": "Why must a crab moult to grow, when a child does not?",
       "options": [
-       "A crab's hard coat cannot stretch",
        "A crab eats more food",
+       "A crab's hard coat cannot stretch",
        "A child's bones are soft"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A hard coat on the outside sets the size of the body, so it has to be shed and replaced. Bones are inside the soft parts and grow along with them."
      },
      "context": "This is the last step of Shell or Stone. You write down a gain and a cost of a hard part outside and of a hard part inside."
@@ -1859,11 +1859,11 @@
       "t": "mcq",
       "q": "You move the string closer to the elbow of a model arm. What happens?",
       "options": [
-       "The hand moves further, with a harder pull",
        "The hand moves less, with an easier pull",
+       "The hand moves further, with a harder pull",
        "Nothing changes"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Close to the joint, a short pull turns the forearm through a big angle, so the hand travels far. But the pull has to be much stronger to hold the same load."
      },
      "context": "This is the last step of the Quick Hand. You improve your cardboard arm and say what the change cost."
@@ -1882,12 +1882,12 @@
      "t": "mcq",
      "p": "Which bones make a hard box round the brain?",
      "opts": [
-      "The skull",
       "The ribs",
+      "The skull",
       "The pelvis",
       "The femur"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The skull is a box of bones round the brain. The ribs guard the heart and lungs, and the pelvis guards the bladder and lower gut.",
      "outcome": 1
     },
@@ -1895,12 +1895,12 @@
      "t": "mcq",
      "p": "Which word means that a muscle gets shorter and pulls?",
      "opts": [
-      "Contracts",
       "Relaxes",
+      "Contracts",
       "Moults",
       "Stretches"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A muscle contracts when it shortens and pulls on a bone. It relaxes when it stops pulling.",
      "outcome": 3
     },
@@ -2036,12 +2036,12 @@
      "t": "mcq",
      "p": "Why must a young cockroach moult?",
      "opts": [
-      "Her hard coat cannot stretch",
       "Her coat gets dirty",
+      "Her hard coat cannot stretch",
       "She wants a new colour",
       "Her legs fall off"
      ],
-     "a": 0,
+     "a": 1,
      "why": "An exoskeleton is hard and fixed in size. To grow, the cockroach splits the old coat and grows a bigger one.",
      "outcome": 6
     },
@@ -2107,12 +2107,12 @@
      "t": "mcq",
      "p": "The biceps joins the forearm close to the elbow. What does the body gain from this?",
      "opts": [
-      "The hand moves far and fast",
       "The muscle pulls less hard",
       "The arm weighs less",
-      "The elbow bends both ways"
+      "The elbow bends both ways",
+      "The hand moves far and fast"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A short pull close to the joint swings the hand a long way, quickly. The cost is that the muscle must pull much harder than the load weighs.",
      "outcome": 5
     },
@@ -2120,12 +2120,12 @@
      "t": "mcq",
      "p": "Which part of bone stops a crack from running straight through it?",
      "opts": [
-      "The collagen fibres",
       "The hard mineral",
       "The marrow",
-      "The blood"
+      "The blood",
+      "The collagen fibres"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Collagen fibres lie across the path of a crack and hold the two sides together. The mineral makes bone hard, but mineral alone would snap like chalk.",
      "outcome": 2
     },
@@ -2133,12 +2133,12 @@
      "t": "mcq",
      "p": "An astronaut floats in space for six months. What happens to her leg bones?",
      "opts": [
-      "They lose bone and get weaker",
       "They grow longer",
+      "They lose bone and get weaker",
       "They turn into cartilage",
       "Nothing changes"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Bone cells build bone where it is loaded. In space the legs carry no weight, so bone is removed faster than it is built.",
      "outcome": 2
     },
@@ -2295,6 +2295,12 @@
      ],
      "why": "'Exo' means outside. A skeleton inside the body is called an endoskeleton.",
      "outcome": 6
+    },
+    {
+     "t": "count",
+     "p": "A child's backbone has 33 small bones. A grown-up's has about 26, after the lowest bones join. How many fewer bones does a grown-up's backbone have?",
+     "a": "7",
+     "why": "33 take away 26 is 7. The lowest bones join together as you grow, so the number drops."
     }
    ]
   },
@@ -2308,12 +2314,12 @@
      "t": "mcq",
      "p": "A ruler arm's band is tied at 10 centimetres. The load is at 30 centimetres. How hard must the band pull?",
      "opts": [
-      "About 3 times the load",
       "One third of the load",
+      "About 3 times the load",
       "The same as the load",
       "About 30 times the load"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The load is 3 times as far from the turning point as the band is. So the band must pull about 3 times as hard as the load pulls down.",
      "outcome": 5,
      "how": "e1"
@@ -2322,12 +2328,12 @@
      "t": "mcq",
      "p": "A mole digs hard. A horse runs fast. In which animal is the arm muscle joined further from the joint?",
      "opts": [
-      "The mole",
       "The horse",
       "Both the same",
+      "The mole",
       "Neither has arm muscles"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A muscle joined further from the joint gives more force and less speed, which suits digging. A muscle joined close to the joint gives speed, which suits running.",
      "outcome": 5
     },
@@ -2335,12 +2341,12 @@
      "t": "mcq",
      "p": "Which test best shows that mineral is what makes bone stiff?",
      "opts": [
-      "Soak one bone in vinegar, one in water",
       "Weigh a bone on a kitchen scale",
+      "Soak one bone in vinegar, one in water",
       "Paint a bone white",
       "Measure how long a bone is"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Vinegar dissolves the mineral, and the bone goes bendy. The bone in water shows that soaking alone does not do this.",
      "outcome": 2
     },
@@ -2484,12 +2490,12 @@
    "t": "mcq",
    "p": "About how many bones does a grown-up human have?",
    "opts": [
-    "About 200",
     "About 20",
     "About 2,000",
-    "About 60"
+    "About 60",
+    "About 200"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The usual count is 206. A baby has more separate pieces, and some join together during childhood.",
    "outcome": 0
   },
@@ -2497,12 +2503,12 @@
    "t": "mcq",
    "p": "Where are more than half of your bones?",
    "opts": [
-    "In your hands and feet",
     "In your skull",
+    "In your hands and feet",
     "In your backbone",
     "In your ribs"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Each hand has 27 bones and each foot has 26. That makes 106 of the 206.",
    "outcome": 0
   },
@@ -2510,12 +2516,12 @@
    "t": "mcq",
    "p": "What does the red marrow inside your bones make?",
    "opts": [
-    "New blood cells",
     "New teeth",
     "Sweat",
+    "New blood cells",
     "Hair"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Red marrow makes about two million new blood cells every second. Making blood is one of the hidden jobs of the skeleton.",
    "outcome": 1
   },
@@ -2523,12 +2529,12 @@
    "t": "mcq",
    "p": "The backbone protects a thick bundle of nerves. What is the bundle called?",
    "opts": [
-    "The spinal cord",
     "The tendon",
     "The marrow",
-    "The growth plate"
+    "The growth plate",
+    "The spinal cord"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The spinal cord runs through holes in the vertebrae. It carries signals between the brain and the body.",
    "outcome": 1
   },
@@ -2536,12 +2542,12 @@
    "t": "mcq",
    "p": "Which two materials together make bone both hard and tough?",
    "opts": [
-    "Mineral and collagen fibres",
     "Fat and water",
+    "Mineral and collagen fibres",
     "Chitin and wax",
     "Cartilage and skin"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The mineral of calcium and phosphate makes bone hard. The collagen fibres make it tough, so that it does not snap.",
    "outcome": 2
   },
@@ -2549,12 +2555,12 @@
    "t": "mcq",
    "p": "Where does a child's long bone grow longer?",
    "opts": [
-    "At growth plates near its ends",
     "In the middle of the bone",
+    "At growth plates near its ends",
     "Inside the marrow",
     "At the skin"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Growth plates are bands of cartilage near each end of a long bone. New cartilage is made there, and bone replaces it.",
    "outcome": 2
   },
@@ -2562,12 +2568,12 @@
    "t": "mcq",
    "p": "Your elbow is bent. Which muscle must contract to straighten it?",
    "opts": [
-    "The triceps, at the back of the arm",
     "The biceps, at the front of the arm",
+    "The triceps, at the back of the arm",
     "The calf muscle",
     "No muscle is needed"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The triceps pulls on the back of the forearm and straightens the elbow. The biceps bends it, and a muscle cannot push.",
    "outcome": 3
   },
@@ -2575,12 +2581,12 @@
    "t": "mcq",
    "p": "In a fair test of a ruler arm, what is the one thing you change?",
    "opts": [
-    "The place where the band is tied",
     "The number of coins",
     "The height the coins are lifted",
+    "The place where the band is tied",
     "The rubber band"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The coins, the band and the lifting height stay the same. Then any change in the stretch of the band must come from the tying place.",
    "outcome": 4,
    "how": "e1"
@@ -2589,12 +2595,12 @@
    "t": "mcq",
    "p": "A muscle is joined to a bone very close to the joint. What does that mean for its pull?",
    "opts": [
-    "It must pull much harder than the load",
     "It pulls less hard than the load",
     "It pulls exactly as hard as the load",
-    "It does not need to pull"
+    "It does not need to pull",
+    "It must pull much harder than the load"
    ],
-   "a": 0,
+   "a": 3,
    "why": "A pull close to the turning point has to be bigger to hold up a load far away. Your arm muscles pull about 8 times harder than the load in your hand.",
    "outcome": 5
   },
@@ -2602,12 +2608,12 @@
    "t": "mcq",
    "p": "Which of these animals has an exoskeleton?",
    "opts": [
-    "A prawn",
     "A frog",
+    "A prawn",
     "An earthworm",
     "A shark"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A prawn has a hard coat on the outside. A frog and a shark have a skeleton inside, and an earthworm has no hard skeleton.",
    "outcome": 6
   },
@@ -2615,12 +2621,12 @@
    "t": "mcq",
    "p": "What is one cost of having an exoskeleton?",
    "opts": [
-    "The animal is soft after each moult",
     "The animal has no muscles",
+    "The animal is soft after each moult",
     "The animal has no joints",
     "The skeleton makes too much blood"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A hard coat cannot stretch, so it must be shed. Until the new coat hardens, the animal is soft and easy to catch.",
    "outcome": 6
   },
@@ -2636,6 +2642,19 @@
    "a": 0,
    "why": "The ancestors of all four-limbed vertebrates had a limb with these bones. Over millions of years the same bones changed shape for different jobs.",
    "outcome": 7
+  },
+  {
+   "t": "mcq",
+   "p": "How many small bones does a child's backbone have?",
+   "opts": [
+    "33",
+    "12",
+    "206",
+    "24"
+   ],
+   "a": 0,
+   "why": "A child's backbone has 33 small bones. The lowest ones join as you grow, so a grown-up has about 26. Twelve is the number of rib pairs, and 206 is the count for a whole grown-up skeleton.",
+   "outcome": 0
   }
  ],
  "videos": [
@@ -2966,6 +2985,80 @@
     "a1"
    ],
    "plan": "After Bone Labels, a parent can read aloud a few pages from the chapter on how bone began."
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in The Ruler Arm: does it matter where the muscle is tied?, Thigh Bone and Height: how many thigh bones tall are you?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "e1",
+    "a2"
+   ],
+   "plan": "Get it before The Ruler Arm: does it matter where the muscle is tied?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Ruler Arm: does it matter where the muscle is tied?, The Paper Ice Test: why does a bone not shatter?, Thigh Bone and Height: how many thigh bones tall are you?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e2",
+    "a2",
+    "c1"
+   ],
+   "plan": "Get it before The Ruler Arm: does it matter where the muscle is tied?."
+  },
+  {
+   "id": "b-insulated-wire-or-crocodile-",
+   "item": "Insulated wire or crocodile clips",
+   "kind": "tool",
+   "why": "Used in The Quick Hand: move a hand 15 centimetres with a 3 centimetre pull. About ₹20 to ₹80. Thin insulated wire from an old charger works.",
+   "url": "https://www.amazon.in/s?k=crocodile+clip+wire+set",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before The Quick Hand: move a hand 15 centimetres with a 3 centimetre pull."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in The Quick Hand: move a hand 15 centimetres with a 3 centimetre pull. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before The Quick Hand: move a hand 15 centimetres with a 3 centimetre pull."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in Shell or Stone: where should the hard part go?. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "a5"
+   ],
+   "plan": "Get it before Shell or Stone: where should the hard part go?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

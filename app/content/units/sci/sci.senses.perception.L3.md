@@ -1,9 +1,9 @@
 # Illusions: how your brain can be fooled about what you see
 `sci.senses.perception.L3`
 
-**Summary.** Two lines can both be 10 cm long, yet one looks longer. Why does the brain get fooled? In this unit you will test how much the arrow-lines trick fools different people, try crossed fingers on a pea, and make a spinning picture toy from 1825.
+**Summary.** Two lines can both be 10 cm long, yet one looks longer. Why does the brain get fooled? In this lesson you will test how much the arrow-lines trick fools different people, try crossed fingers on a pea, and make a spinning picture toy from 1825.
 
-**Intro.** *Look at these two lines. The top one has arrowheads at its ends, like this: <——>. The bottom one has fins that open outwards, like this: >——<. Which line is longer? Now measure both with a ruler.* Both lines are the same length. Most people see the line with open fins as longer, and it still looks longer after they measure it. Your eyes caught the light correctly. It was your brain that decided how long the lines are, and here it used the fins as a clue and got it wrong. In this unit you find out what clues your brain uses, test how much an illusion fools the people in your home, and find out whether knowing the answer makes it go away.
+**Intro.** *Look at these two lines. The top one has arrowheads at its ends, like this: <——>. The bottom one has fins that open outwards, like this: >——<. Which line is longer? Now measure both with a ruler.* Both lines are the same length. Most people see the line with open fins as longer, and it still looks longer after they measure it. Your eyes caught the light correctly. It was your brain that decided how long the lines are, and here it used the fins as a clue and got it wrong. In this lesson you find out what clues your brain uses, test how much an illusion fools the people in your home, and find out whether knowing the answer makes it go away.
 
 ## Learning outcomes
 0. I can say what an illusion is: a time when what I see or feel is different from what is really there, as a ruler or another test shows.
@@ -448,7 +448,7 @@ Kavya grinned. "First we measure," she said. "Then we fool."
 - **record:** For each illusion, a tally of how many visitors were fooled and how many were not, and a short sentence on which fooled the most.
 - **schedule:** day 1: Make 4 or 5 illusions on separate sheets, neatly, with a question card for each. (25 min); day 2: Set up the museum on a table or a wall. Test at least 5 visitors. Write each visitor's answer before they measure. (20 min); day 3: Count the answers for each illusion. Make a tally and find which illusion fooled the most people. (15 min)
 - **s1 (25 min)**  
-  *Parent does:* 1. Choose 4 or 5 illusions from this unit. 2. Draw each one neatly on its own sheet, using a ruler. 3. Write a question card for each, like 'Which line is longer?' 4. Write the answer on the back of the card.  
+  *Parent does:* 1. Choose 4 or 5 illusions from this lesson. 2. Draw each one neatly on its own sheet, using a ruler. 3. Write a question card for each, like 'Which line is longer?' 4. Write the answer on the back of the card.  
   *Parent says:* A museum needs good exhibits. Let's make each illusion neat, because a messy drawing might give the trick away.  
   *Child mode:* Pick 4 or 5 illusions. Draw each one neatly, or use a card you made for the game. Write a question for each. Put the answer on the back.
 - **s2 (20 min)**  
@@ -508,13 +508,13 @@ Kavya grinned. "First we measure," she said. "Then we fool."
 ## Worksheets
 ### Eyes, Brain and Clues (core) (core, 15 questions)
 1. (mcq) What is an illusion?  
-   Options: When your eyes are broken / When what you see or feel is different from what is really there / A picture that is badly drawn / A kind of magic  
+   Options: When your eyes are broken / A picture that is badly drawn / When what you see or feel is different from what is really there / A kind of magic  
    **Answer:** When what you see or feel is different from what is really there. *Why:* An illusion is when what you see, hear or feel is different from what is really there, as a ruler or a test shows. It happens to people with healthy eyes. Many people think it means the eyes are broken, but illusions fool almost everyone.
 2. (mcq) In the railway-track drawing, two equal paper strips lie across the tracks. Which one looks longer?  
-   Options: The one near the narrow end, where the lines come together / The one near the wide end / They always look the same  
+   Options: The one near the wide end / They always look the same / The one near the narrow end, where the lines come together  
    **Answer:** The one near the narrow end, where the lines come together. *Why:* The narrow end looks far away. The brain makes a far thing that still looks big seem bigger, so that strip looks longer.
 3. (mcq) Which two parts of your body work together to see?  
-   Options: Eyes and ears / Eyes and brain / Brain and tongue / Eyes and nose  
+   Options: Eyes and ears / Brain and tongue / Eyes and nose / Eyes and brain  
    **Answer:** Eyes and brain. *Why:* The eyes catch light and send signals. The brain works out what the signals mean: sizes, shapes, distances and movement.
 4. (truefalse) If you have good eyesight, illusions cannot fool you.  
    **Answer:** False. *Why:* False. Illusions fool people with perfect eyesight too, because the mistake is in how the brain uses clues, not in the eyes.
@@ -591,7 +591,7 @@ Kavya grinned. "First we measure," she said. "Then we fool."
    Options: It makes the court look evenly patterned to her / It keeps the stones warm / It makes the stones heavier  
    **Answer:** It makes the court look evenly patterned to her. *Why:* Scientists Laura Kelley and John Endler found that this forced perspective makes the court look even from where the female watches. Males whose courts made a better illusion mated more often. Exactly why females like it is still being studied.
 8. (mcq) You flip between two pages. A dot is on the left of page 1 and on the right of page 2. What do you see?  
-   Options: Two dots at once / One dot jumping across / No dots at all  
+   Options: One dot jumping across / Two dots at once / No dots at all  
    **Answer:** One dot jumping across. *Why:* The brain joins the two still dots into one moving dot. This is apparent motion, like Wertheimer's flashed lines.
 9. (truefalse) In tests in the 1960s, people who grew up with few straight walls and corners were fooled less by the arrow lines.  
    **Answer:** True. *Why:* True, but they were still fooled, and the groups were different in other ways too, such as schooling. So scientists still argue about what this means.
@@ -616,7 +616,7 @@ Kavya grinned. "First we measure," she said. "Then we fool."
 
 ## Quiz
 1. (mcq) You see two lines. One looks longer, but a ruler shows both are 8 cm. What is this called?  
-   Options: A mistake in the ruler / An illusion / Bad eyesight / A shadow  
+   Options: A mistake in the ruler / Bad eyesight / A shadow / An illusion  
    **Answer:** An illusion. *Why:* When what we see is different from what is really there, as a ruler shows, it is called an illusion. Many people think it means bad eyesight, but illusions fool people with perfect eyes too.
 2. (mcq) Where does the mistake in an optical illusion happen?  
    Options: In the eyes, which catch the light wrongly / In the brain, which uses a clue and gets the answer wrong / In the light, which bends  
@@ -628,22 +628,22 @@ Kavya grinned. "First we measure," she said. "Then we fool."
    Options: To use up the paper / To see how well each person copies anyway, so we know how much the fins added / Because plain lines are easier  
    **Answer:** To see how well each person copies anyway, so we know how much the fins added. *Why:* The plain line is the fair comparison. Without it, we could not tell an illusion from ordinary copying mistakes.
 5. (mcq) After measuring the arrow lines and knowing they are equal, what do most people see?  
-   Options: The lines now look equal / The open-fin line still looks longer / The arrowhead line now looks longer  
+   Options: The lines now look equal / The arrowhead line now looks longer / The open-fin line still looks longer  
    **Answer:** The open-fin line still looks longer. *Why:* Knowing the answer changes what you believe, but it hardly changes what you see. The seeing part of the brain keeps its own answer.
 6. (mcq) Why does a flip book seem to move?  
-   Options: The drawings slide across the page / The brain joins still pictures shown quickly into movement / The paper bends the light  
+   Options: The brain joins still pictures shown quickly into movement / The drawings slide across the page / The paper bends the light  
    **Answer:** The brain joins still pictures shown quickly into movement. *Why:* Each page is still. When pictures with small differences come quickly one after another, the brain builds smooth movement. This is apparent motion.
 7. (mcq) Max Wertheimer flashed two lines of light, one after the other. People saw one line moving. Why did this show that 'persistence of vision' is wrong?  
-   Options: Blurring on the eye would show two lines at once, not one line travelling / The lines were too bright / Nobody could see the lines  
+   Options: The lines were too bright / Nobody could see the lines / Blurring on the eye would show two lines at once, not one line travelling  
    **Answer:** Blurring on the eye would show two lines at once, not one line travelling. *Why:* If pictures only stayed on the eye and blurred, people would see two lines together. Seeing one line move across the empty space showed the brain makes the movement.
 8. (mcq) A peacock pansy butterfly has big round eyespots on their wings. How can the eyespots help the butterfly?  
-   Options: They help the butterfly see better / They can startle a hungry bird, who may back away / They keep the butterfly warm  
+   Options: They can startle a hungry bird, who may back away / They help the butterfly see better / They keep the butterfly warm  
    **Answer:** They can startle a hungry bird, who may back away. *Why:* Eyespots are not real eyes. To a bird, two big round spots can look like a dangerous animal's eyes, so the bird may back away.
 9. (mcq) Which is the best way to find out if two lines are really the same length?  
-   Options: Look very hard / Ask someone else to look / Measure them with a ruler  
+   Options: Measure them with a ruler / Look very hard / Ask someone else to look  
    **Answer:** Measure them with a ruler. *Why:* Looking harder does not switch off an illusion, and other people are usually fooled the same way. A ruler cannot be fooled by fins or neighbours.
 10. (mcq) Why do scientists like to study illusions?  
-   Options: They show the rules the brain uses to work out what we see / They prove that eyes do not work / Illusions are only for fun  
+   Options: They prove that eyes do not work / Illusions are only for fun / They show the rules the brain uses to work out what we see  
    **Answer:** They show the rules the brain uses to work out what we see. *Why:* An illusion is a time when a clue leads the brain to a wrong answer. By finding which clue did it, scientists learn how the brain usually gets things right.
 
 ## Applications
@@ -657,7 +657,7 @@ Kavya grinned. "First we measure," she said. "Then we fool."
 - Camouflage patterns are printed on soldiers' uniforms, copying the way animals hide.
 
 ## Spotted around us
-- Railway tracks, a Mumbai local train line or a long straight road that seem to meet far away.
+- Railway tracks, a local train line or a long straight road that seem to meet far away.
 - A long corridor in your block of flats that seems to get narrower at the far end.
 - The train next to yours at a station starts moving, and you feel your own train move.
 - The Moon seeming to follow your car or bus at night.
@@ -711,6 +711,10 @@ The World Comes In (sci.senses.L3): Topic-level song for Senses L3
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru, Karnataka: A large science museum with hands-on galleries. Check whether a perception or fun-science gallery is open before you go.
 
 ## Things to buy
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Arrow Lines: how much does your brain stretch a line?, The Railway Track Trick: two equal strips, Bird in the Cage: a picture toy from 1825. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a1, a3, p1. Get it before The Arrow Lines: how much does your brain stretch a line?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Same Grey, Different Grey, Our Illusion Museum. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in a5, p1. Get it before Same Grey, Different Grey.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Crossed Fingers: can one pea feel like two?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e2. Get it before Crossed Fingers: can one pea feel like two?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What do we call it when what we see is different from what is really there? → An illusion.

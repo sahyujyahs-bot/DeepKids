@@ -1,0 +1,15 @@
+# Escape Gravity Board Game / Force Cards (copied from Google Sheets, 2026-11-27)
+R1: Force Category | Force Cards | Explanation | Illustration Idea | Icon Idea for category
+R2: Air | Air Resistance
+R3:  | Air Lift
+R4: Water | Buoyancy - low G mode
+R5: Earth | Normal Force
+R6: Body | Weight
+R7:  | Physical Work
+R8: Balance | Center Of Gravity
+R9:  | Neutral Pull
+R10: Speed | Sideways Velocity
+R11:  | Escape Velocity
+R12: Energy | Impact Force -Elastic Energy
+R13:  | Magnetic Force
+R14:  | Knowledge

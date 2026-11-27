@@ -674,11 +674,11 @@
       "t": "mcq",
       "q": "Why do we cook the mix before we make the films?",
       "options": [
-       "Heat makes the starch swell with water, and the mix becomes a clear gel",
        "Heat takes all the water out of the cornflour",
-       "Heat turns the cornflour into glycerine"
+       "Heat turns the cornflour into glycerine",
+       "Heat makes the starch swell with water, and the mix becomes a clear gel"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Cornflour is starch. In hot water the starch grains swell and the chains spread out into a thick gel. If you spread cold cornflour and water, you would only get a chalky powder."
      },
      "context": "In this step, you cook the cornflour mix that all three films will be made from."
@@ -703,11 +703,11 @@
       "t": "mcq",
       "q": "Why must all three films be the same size and thickness?",
       "options": [
-       "So only the glycerine is different",
        "So they look the same",
+       "So only the glycerine is different",
        "So they dry faster"
       ],
-      "a": 0,
+      "a": 1,
       "why": "In a fair test, only one thing changes. If one film were much thicker, you could not tell whether glycerine or thickness made the difference."
      },
      "context": "In this step, you spread the three films. They must all be the same size and thickness."
@@ -752,11 +752,11 @@
       "t": "mcq",
       "q": "Film 1 cracks after 3 folds. Film 2 cracks after 4 folds on its first try, but after 12 folds on its second try. What should you do?",
       "options": [
-       "Test again, and trust the pattern after several tries",
        "Throw away the lowest number",
+       "Test again, and trust the pattern after several tries",
        "Decide film 2 is magic"
       ],
-      "a": 0,
+      "a": 1,
       "why": "One try can be a fluke. When two tries differ a lot, repeat the test and look for the pattern. That is why we do each film twice or more."
      },
      "context": "In this step, you fold each film again and again to see how much bending it can take."
@@ -879,11 +879,11 @@
       "t": "mcq",
       "q": "Why do we measure each strip before it goes into the water?",
       "options": [
-       "So we can tell how much it changed",
        "So the strips are clean",
-       "So the water boils faster"
+       "So the water boils faster",
+       "So we can tell how much it changed"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A change only means something compared with the start. Without the first length, we could not say whether a strip shrank."
      },
      "context": "In this step, you cut and measure the strips before heating them."
@@ -1292,11 +1292,11 @@
       "t": "mcq",
       "q": "Why does plain rice taste sweeter after long chewing?",
       "options": [
-       "Saliva cuts the starch chains into small sugars",
        "The rice slowly turns into sugar by itself",
+       "Saliva cuts the starch chains into small sugars",
        "Chewing squashes the sugar out of the rice"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Starch is a long chain of glucose. An enzyme in saliva cuts it into short pieces that taste sweet. The rice does not change by itself. Chewing cannot squash sugar out of the rice, because the small sugars are not there until the enzyme cuts the chains."
      },
      "think": "Where did the sweet taste come from, when we did not add any sugar?",
@@ -1414,11 +1414,11 @@
       "t": "mcq",
       "q": "Which of these makes a stronger yarn?",
       "options": [
-       "Enough twist for the fibres to grip, but not so much that it kinks",
        "As much twist as possible",
-       "No twist at all"
+       "No twist at all",
+       "Enough twist for the fibres to grip, but not so much that it kinks"
       ],
-      "a": 0,
+      "a": 2,
       "why": "With too little twist, the fibres slide apart. With too much, the yarn curls and kinks. A good spinner finds the middle."
      },
      "think": "Your yarn is longer than any fibre in it. What is holding it together?",
@@ -1511,11 +1511,11 @@
       "t": "mcq",
       "q": "Tube A holds 4 books and tube B holds 6 books. What can you say?",
       "options": [
-       "Tube B held more this time, but test again to be sure",
        "Tube B is always stronger, whatever the paper",
+       "Tube B held more this time, but test again to be sure",
        "Tube A was not rolled"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A bigger number is a clue. Repeat the test, since one try can be a fluke. Also check that the tubes are the same width and height."
      },
      "context": "In this step, you load each tube and count how many books it holds."
@@ -1699,11 +1699,11 @@
    "t": "mcq",
    "p": "Which of these describes a polymer best?",
    "opts": [
-    "A very long molecule made of many small pieces joined in a chain",
     "A hard plastic made in a factory",
+    "A very long molecule made of many small pieces joined in a chain",
     "A small molecule that dissolves in water"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A polymer is any very long chain of repeating pieces. Cotton, hair and starch are polymers, as well as plastics. Not all polymers are plastic, and not all plastics are hard.",
    "outcome": 0
   },
@@ -1711,11 +1711,11 @@
    "t": "mcq",
    "p": "Rice and cotton are both chains of glucose. Why is cotton a tough fibre and rice soft food?",
    "opts": [
-    "Cellulose chains lie straight and hold each other tightly, while starch chains coil",
     "Cotton has more glucose than rice",
+    "Cellulose chains lie straight and hold each other tightly, while starch chains coil",
     "Rice is not made of chains"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The same piece, joined in a slightly different way, gives chains of a different shape. Straight chains pack together side by side into tough fibres. Coiled chains do not.",
    "outcome": 6
   },
@@ -1723,11 +1723,11 @@
    "t": "mcq",
    "p": "A cotton thread is 500 metres long. Cotton fibres are about 2 centimetres long. What holds the thread together?",
    "opts": [
-    "The fibres overlap, and twist makes them grip each other",
     "One very long fibre runs through the middle",
-    "A glue that cotton plants make"
+    "A glue that cotton plants make",
+    "The fibres overlap, and twist makes them grip each other"
    ],
-   "a": 0,
+   "a": 2,
    "why": "No fibre runs the whole length. Twist presses overlapping fibres together, so they grip. Untwist the thread, and it falls apart into short fibres.",
    "outcome": 1
   },
@@ -1846,11 +1846,11 @@
      "t": "mcq",
      "p": "What does the word monomer mean?",
      "opts": [
-      "One small piece that can join with others in a chain",
       "Another word for plastic",
-      "A very long chain of many pieces"
+      "A very long chain of many pieces",
+      "One small piece that can join with others in a chain"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Mono means one. A monomer is one small piece. Many monomers joined in a chain make a polymer.",
      "outcome": 0
     },
@@ -2063,11 +2063,11 @@
      "t": "mcq",
      "p": "A strip cut from a plastic bottle shrinks in very hot water. What is the best reason?",
      "opts": [
-      "The chains were pulled straight when the bottle was made, and heat lets them coil up again",
       "Heat makes some of the plastic evaporate",
+      "The chains were pulled straight when the bottle was made, and heat lets them coil up again",
       "Heat makes new chains join the strip"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Bottle walls are stretched when they are made, so their chains are lined up. In hot water the chains wiggle and coil, and the strip shrinks.",
      "outcome": 4
     },
@@ -2253,11 +2253,11 @@
      "t": "mcq",
      "p": "A girl folds one strip of film and it cracks. She says the film is brittle. What should she do before she decides?",
      "opts": [
-      "Test a few more strips from the same film",
       "Say her answer is final",
-      "Throw the film away"
+      "Throw the film away",
+      "Test a few more strips from the same film"
      ],
-     "a": 0,
+     "a": 2,
      "why": "One strip can be a fluke, for example if it had a crack or a thin place. More tries show whether the film really is brittle.",
      "outcome": 5
     },
@@ -2281,11 +2281,11 @@
      "t": "mcq",
      "p": "The stiff chains of Kevlar line up side by side before the fibre is spun. Why does that make a very strong fibre?",
      "opts": [
-      "When the fibre is pulled, the pull runs along the strong bonds of the chains and not across weak holds",
       "Stiff chains are heavier, so they are stronger",
-      "Liquids always make strong fibres"
+      "Liquids always make strong fibres",
+      "When the fibre is pulled, the pull runs along the strong bonds of the chains and not across weak holds"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A pull along a chain pulls on strong bonds between atoms. A fibre whose chains all lie along its length uses those strong bonds for the whole pull.",
      "outcome": 2
     },
@@ -2427,11 +2427,11 @@
      "t": "mcq",
      "p": "A child wants to find out whether more twist makes cotton thread hold more. Which is a fair test?",
      "opts": [
-      "Same cotton, same length, change only the number of twists, and repeat each",
       "Use a different kind of cotton for each thread",
-      "Twist one thread and use a longer one with no twist"
+      "Twist one thread and use a longer one with no twist",
+      "Same cotton, same length, change only the number of twists, and repeat each"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Only the twist should change. Everything else, such as cotton and length, stays the same. Repeating each test shows whether the result is steady.",
      "outcome": 5
     },
@@ -2486,11 +2486,11 @@
      "t": "mcq",
      "p": "A takli, a charkha and a coir wheel all do the same job. What is it?",
      "opts": [
-      "They twist short fibres into a long yarn",
       "They melt fibres into plastic",
-      "They cut long fibres into short ones"
+      "They cut long fibres into short ones",
+      "They twist short fibres into a long yarn"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Spinning twists fibres together so they grip. It turns short fibres into a long yarn.",
      "outcome": 1
     },
@@ -2756,6 +2756,60 @@
    "used_in": [
     "p1"
    ]
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Cornflour Film: what does glycerine do?, Hot Water Plastics: what does heat do to different plastics?, Tear the Newspaper: which way does it tear straight?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e2",
+    "a1",
+    "a2",
+    "p1",
+    "c1",
+    "c2"
+   ],
+   "plan": "Get it before Cornflour Film: what does glycerine do?."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Newspaper Tower: hold the most books with four sheets of paper. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before Newspaper Tower: hold the most books with four sheets of paper."
+  },
+  {
+   "id": "b-vinegar",
+   "item": "Vinegar",
+   "kind": "material",
+   "why": "Used in Cornflour Film: what does glycerine do?, Better Film: bendy but not sticky. About ₹40 to ₹80. Lemon juice works for many tests.",
+   "url": "https://www.amazon.in/s?k=white+vinegar",
+   "used_in": [
+    "e1",
+    "c2"
+   ],
+   "plan": "Get it before Cornflour Film: what does glycerine do?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

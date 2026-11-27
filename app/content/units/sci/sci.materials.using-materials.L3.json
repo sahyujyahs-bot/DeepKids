@@ -115,6 +115,12 @@
    "art": "A zoom into the wall of a clay pot showing tiny tunnels with water seeping through."
   },
   {
+   "term": "Kiln",
+   "meaning": "A very hot oven in which a potter bakes clay pots until they are hard.",
+   "example": "A matka is baked in a kiln before it is sold.",
+   "art": "A potter placing clay pots into a glowing brick kiln."
+  },
+  {
    "term": "Evaporation",
    "meaning": "When a liquid slowly turns into a gas and goes into the air. Evaporation takes heat away, so it cools things down.",
    "example": "Wet clothes dry on the line because the water evaporates. Your wet skin feels cool in a breeze.",
@@ -131,6 +137,12 @@
    "meaning": "A material made by people, mostly from oil and gas. It is made of very long chains of atoms joined together. Plastics can be shaped into almost anything.",
    "example": "Buckets, toothbrushes and pen bodies are usually plastic.",
    "art": "A bucket, a toothbrush and a pen, and a zoom showing long tangled chains like noodles."
+  },
+  {
+   "term": "Polyester",
+   "meaning": "A plastic thread made from oil in a factory. It is strong, dries fast and does not soak up water.",
+   "example": "A rain jacket is often polyester, so water runs off it.",
+   "art": "A rain jacket with drops rolling off, and fine threads coming out of a factory nozzle."
   },
   {
    "term": "Atom",
@@ -245,6 +257,33 @@
    "how": "e2"
   },
   {
+   "concept": "Clothes for hot, cold and windy days",
+   "status": "defined",
+   "context": "This card is about choosing cloth for the weather.",
+   "definition": "Clothes are a thin layer between you and the weather, and each cloth has properties that suit some weather.",
+   "description": "On a hot, damp day, cotton is a good choice. It is absorbent, so it soaks up your sweat, and the sweat then dries and cools you. On a cold day, wool keeps your own heat in by trapping air, as in the sweater test. On a windy day, a tightly woven cloth works best, because it stops wind from blowing your warm air away. A thin, loosely woven shirt lets wind pass through. So the same cloth is not best for every day.",
+   "examples": [
+    "A cotton kurta is comfortable in a Delhi summer.",
+    "A woollen shawl in Kashmir keeps in warmth in winter.",
+    "A tightly woven jacket helps on a windy day on the hill."
+   ],
+   "perspectives": [],
+   "art": "Three children: one in a cotton kurta in the sun, one in a woollen cap and shawl, and one in a tight jacket on a windy hill."
+  },
+  {
+   "concept": "Silk and polyester: two very different threads",
+   "status": "defined",
+   "context": "This card compares silk, a thread made by an animal, and polyester, a thread made in a factory.",
+   "definition": "Silk is a natural thread from silkworm cocoons. Polyester is a plastic thread made from oil.",
+   "description": "Silk comes from the cocoon of a silkworm. The thread is very fine, smooth and shiny. It makes soft, light cloth for saris like the Kanchipuram and Banarasi. Many people value silk as a craft of India. Some people do not wear it, because the silkworm inside usually dies when the thread is taken out. Others wear silk and speak of the weavers' skill. Polyester is made in a factory from oil. It is a plastic, pulled into long thin threads. It is strong, dries fast and does not soak up water. That is good for a rain jacket. But it can feel sticky in hot, damp weather, because sweat cannot soak in.",
+   "examples": [
+    "A silk sari for a wedding is light to carry and has a soft shine.",
+    "A polyester rain jacket sheds water and dries on the line in an hour."
+   ],
+   "perspectives": [],
+   "art": "A silkworm cocoon unwinding into a fine shiny thread, beside a factory pulling plastic threads from a nozzle, and a small sari and a rain jacket below."
+  },
+  {
    "concept": "Why a clay pot keeps water cool",
    "status": "defined",
    "definition": "A clay pot, such as a matka or a kooja, is porous. Water seeps slowly through its tiny holes to the outside. There it evaporates, and evaporation takes heat away from the pot and the water inside.",
@@ -258,6 +297,33 @@
    "art": "A clay pot sweating tiny droplets on its outside, with wavy lines rising into the air and a blue cool glow inside.",
    "context": "A clay pot can keep water cooler than the air around it. This card explains how, using the Matka Mystery test.",
    "how": "e3"
+  },
+  {
+   "concept": "How a potter makes a pot",
+   "status": "defined",
+   "context": "This card is about how a potter turns wet clay into a pot that holds water.",
+   "definition": "A potter wets the clay, kneads it, shapes it on a spinning wheel, dries it and bakes it in a kiln.",
+   "description": "A potter first wets the clay, then kneads it, the way you knead roti dough. Kneading pushes out air bubbles and makes the clay even. Then she puts the lump in the middle of a wheel and spins it. With wet hands, she pulls the clay up into a pot. The clay must be neither too wet nor too dry. Too wet, and it slumps like soft mud. Too dry, and it cracks. She dries the pot in the shade, then bakes it in a kiln, a very hot oven. After baking, the clay is hard and does not turn back to mud in water. It still has tiny holes, so the pot is porous.",
+   "examples": [
+    "Potters in Kumhar colonies, like the one in Delhi, spin matkas and diyas on wheels before Diwali.",
+    "A child's mud model dries and cracks in the sun, because it was too dry when it was shaped and was never kneaded."
+   ],
+   "perspectives": [],
+   "art": "A potter's hands shaping a wet pot on a spinning wheel, with a bowl of water beside her and a kiln glowing behind."
+  },
+  {
+   "concept": "Water vessels: clay, brass, copper, steel and glass",
+   "status": "defined",
+   "context": "This card is about the vessels families choose to store water, and why.",
+   "definition": "Each vessel suits a different job, because of its properties.",
+   "description": "Before taps, people carried water home from wells, ponds and rivers in pots. When water runs short, families still keep it in vessels. A clay matka is porous, so it cools the water. A brass lota or a copper pot is strong, lasts for many years and can be scrubbed clean. Metals carry heat well, so the water in them warms up and cools down with the day. Many families believe that water kept overnight in copper is safer. Scientists have found that copper can kill some germs, but slowly, and it does not make dirty water safe. A steel pot is strong, does not break when dropped and is cheap. A glass jug is transparent, so you can see how much water is left, but it is brittle. In dry Rajasthan, families dug covered tanks, called kunds and tankas, to keep rain water for the months ahead.",
+   "examples": [
+    "A clay matka on a stand by the door keeps drinking water cool in summer.",
+    "A brass kalash in a puja room, or a copper pot, can be passed from grandmother to granddaughter.",
+    "A steel water bottle in a school bag does not break when it falls."
+   ],
+   "perspectives": [],
+   "art": "A row of four vessels on a shelf: a clay matka, a brass lota, a steel bottle and a glass jug, each with a small label of what it is good at."
   },
   {
    "concept": "Most objects are made of several materials",
@@ -311,7 +377,12 @@
     "Space suits have many layers. One holds air in, some reflect heat, and the outer layer stops sharp dust from cutting through.",
     "Rocket nozzles are made of materials that can stand fiercely hot gas rushing through them without melting."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "The seamstresses of the International Latex Corporation (ILC), Dover, Delaware, USA (1960s)",
+     "explanation": "The company, until then best known for making bras and girdles, won the job of making the Apollo moon suits. Its seamstresses, mostly women, sewed many layers of different materials, each with a job, to extremely exact measurements, and even pins were banned in case one pierced the airtight layer. Few people outside the factory knew their names, because the suits were credited to the company and the engineers. Historians such as Nicholas de Monchaux, in his book Spacesuit: Fashioning Apollo, have written about how much the suits depended on their skill."
+    }
+   ],
    "art": "A Moon lander wrapped in a crinkly gold blanket, and a giant telescope with gold hexagon mirrors floating in space.",
    "context": "In space, a wrong material can end a mission. This card shows how engineers choose materials for the hardest jobs of all."
   },
@@ -830,11 +901,11 @@
       "t": "mcq",
       "q": "What is the real problem with a chocolate kadai?",
       "options": [
-       "It is the wrong colour",
        "Chocolate melts when it gets warm",
+       "It is the wrong colour",
        "It is too heavy to lift"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Chocolate turns soft and melts when it is warm. A kadai sits on a flame, so it would melt straight away. A better material is iron or steel, which stays solid and carries heat to the food. Picking 'wrong colour' means looking at how it looks, not at what it does. In this game, always ask what the material does."
      }
     },
@@ -882,12 +953,12 @@
      "t": "mcq",
      "p": "You make two boats. One is folded from newspaper. The other is a plastic box lid. You float both in a bucket of water. Which boat will still float tomorrow?",
      "opts": [
-      "The plastic lid, because plastic is waterproof",
       "The paper boat, because paper is lighter",
       "Both, because both float at first",
-      "Neither, because all boats sink in the end"
+      "Neither, because all boats sink in the end",
+      "The plastic lid, because plastic is waterproof"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A strong answer uses a property. Paper is absorbent. It slowly soaks up water, goes soft and sinks. Plastic is waterproof, so it stays dry and keeps floating. Picking 'paper is lighter' is a sensible first guess, but being light only helps until the paper fills with water."
     },
     {
@@ -977,12 +1048,12 @@
      "t": "mcq",
      "p": "A cricket bat is made of willow wood, not steel. What is the main reason?",
      "opts": [
-      "A steel bat of that size would be far too heavy to swing",
       "Wood is waterproof",
       "Steel cannot be shaped",
-      "Wood carries heat well"
+      "Wood carries heat well",
+      "A steel bat of that size would be far too heavy to swing"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Steel is strong, but it is very heavy for its size. A bat must be strong and light enough to swing fast. Willow is both. Picking 'steel cannot be shaped' is not right, because steel is shaped into cars and spoons. A strong answer weighs strength against weight."
     },
     {
@@ -1060,12 +1131,12 @@
      "t": "mcq",
      "p": "Glass is very hard. Yet a glass tumbler breaks when it falls, and a steel tumbler only dents. Why?",
      "opts": [
-      "Glass is brittle: it cracks instead of bending",
       "Glass is soft",
       "Glass is heavier than steel",
+      "Glass is brittle: it cracks instead of bending",
       "Glass is transparent"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Hard means difficult to scratch. Brittle means it cracks instead of bending. Glass is both. Steel can bend a little and soak up the bump. Picking 'glass is soft' mixes up breaking with softness. A strong answer says being hard is not the same as being hard to break."
     },
     {
@@ -1079,6 +1150,39 @@
      ],
      "a": 0,
      "why": "The folded cloth is an insulator. It has air trapped between its folds, so it slows heat moving down into the table. Steel and copper are conductors, so they pass the heat straight through. Picking the steel plate is a common guess, because it looks strong. But this job needs an insulator, not strength."
+    },
+    {
+     "t": "match",
+     "p": "Match each water vessel to the property that makes it a good choice.",
+     "pairs": [
+      [
+       "a clay matka",
+       "porous, so it cools the water"
+      ],
+      [
+       "a steel bottle",
+       "strong, so it does not break when dropped"
+      ],
+      [
+       "a glass jug",
+       "transparent, so you see how much water is left"
+      ],
+      [
+       "a brass lota",
+       "lasts for many years and can be scrubbed clean"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each vessel is good for a different job. No vessel is best at everything. A glass jug breaks, and a clay pot is brittle too."
+    },
+    {
+     "t": "fill",
+     "p": "A potter ________ the clay, like roti dough, to push out the air bubbles.",
+     "a": [
+      "kneads",
+      "knead"
+     ],
+     "why": "Kneading squeezes out air. Air bubbles can crack a pot when it is baked."
     }
    ]
   },
@@ -1092,12 +1196,12 @@
      "t": "mcq",
      "p": "Look at the chart from the Hot Spoon Race. The plastic spoon's butter melted after 14 minutes. The wooden spoon's butter had not melted by 15 minutes. What does this tell you?",
      "opts": [
-      "Plastic and wood are both insulators: they carried heat much more slowly than steel",
       "Plastic is a conductor, like steel",
+      "Plastic and wood are both insulators: they carried heat much more slowly than steel",
       "Plastic makes its own heat",
       "Wood is a conductor"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Steel melted its butter in 4 minutes. Plastic took 14, and wood had still not melted at 15. Both carried heat far more slowly than steel, so both are insulators. Picking 'a conductor, like steel' ignores how big the gap is. A strong answer compares the numbers.",
      "how": "e1",
      "context": "In the Hot Spoon Race, you stick a blob of butter on the handle of a steel, a plastic and a wooden spoon. You stand them in hot water and time how long each blob takes to melt.",
@@ -1139,12 +1243,12 @@
      "t": "mcq",
      "p": "Two clay pots are filled with the same water. One stands in the breeze of a fan. The other stands in a still corner. Which water will be cooler after two hours?",
      "opts": [
-      "The pot in the fan's breeze",
       "The pot in the still corner",
+      "The pot in the fan's breeze",
       "Both the same, because they are the same pot",
       "Neither will cool"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Moving air carries away the water that has evaporated, so more water can evaporate. More evaporation takes away more heat. Picking 'both the same' forgets that the air around the pot matters, not just the clay.",
      "how": "e3",
      "context": "In the Matka Mystery test, you leave the same water in a clay pot, a plastic bottle and a steel bottle, side by side in the shade, for three hours. Then you measure which water is coolest."
@@ -1160,12 +1264,12 @@
      "t": "mcq",
      "p": "Aeroplanes are made mostly of aluminium, not steel. Why?",
      "opts": [
-      "Aluminium is much lighter, and strong enough for the job",
       "Aluminium is stronger than steel in every way",
+      "Aluminium is much lighter, and strong enough for the job",
       "Steel cannot be shaped",
       "Aluminium is cheaper than paper"
      ],
-     "a": 0,
+     "a": 1,
      "why": "This is a trade-off. Steel is stronger, but a plane made of steel would be far too heavy to fly well. Aluminium is lighter and still strong enough. Picking 'stronger in every way' forgets that steel is the stronger metal. A strong answer weighs strength against weight."
     },
     {
@@ -1263,12 +1367,12 @@
      "t": "mcq",
      "p": "A girl tests which cloth makes the best tea cosy. She wraps one tumbler in wool and one in cotton. She fills the wool one with boiling water and the cotton one with warm water. What is wrong with her test?",
      "opts": [
-      "The water should start at the same temperature in both",
       "She should use only one tumbler",
+      "The water should start at the same temperature in both",
       "Cotton cannot be tested",
       "Nothing is wrong"
      ],
-     "a": 0,
+     "a": 1,
      "why": "In a fair test, only the cloth should change. If one tumbler starts hotter, it may end hotter whatever it is wrapped in. A strong answer names the one thing that should stay the same."
     },
     {
@@ -1289,12 +1393,12 @@
      "t": "mcq",
      "p": "A cricket helmet is hard plastic on the outside and soft foam on the inside. Why use two materials?",
      "opts": [
-      "The hard shell spreads out the hit, and the foam squashes to slow it down",
       "Foam makes the helmet look bigger",
+      "The hard shell spreads out the hit, and the foam squashes to slow it down",
       "The foam keeps the head warm",
       "Two materials are cheaper than one"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The hard shell stops the ball from poking through and spreads the force. The soft foam squashes, so the head stops more gently. Picking 'keeps the head warm' gives a real property of foam, but that is not this job."
     },
     {
@@ -1318,6 +1422,62 @@
      ],
      "a": "order shown",
      "why": "Still air is an excellent insulator. Wool works mainly because it traps still air. Wood is an insulator too, but less good. Steel and copper are conductors, and copper is the better conductor, so it is the worst insulator."
+    },
+    {
+     "t": "order",
+     "p": "Put these steps of making a clay pot in order.",
+     "items": [
+      "Wet and knead the clay",
+      "Spin the clay on the wheel and shape it",
+      "Dry the pot in the shade",
+      "Bake the pot in a kiln"
+     ],
+     "a": "order shown",
+     "why": "The clay is kneaded first, then shaped while wet. It dries slowly in the shade. Last, the kiln makes it hard. If you bake a wet pot, it may crack."
+    },
+    {
+     "t": "sort",
+     "p": "Which cloth suits which weather? Sort them.",
+     "cats": [
+      "Hot, damp day",
+      "Cold day",
+      "Rainy day"
+     ],
+     "items": [
+      [
+       "a cotton kurta",
+       "Hot, damp day"
+      ],
+      [
+       "a woollen shawl",
+       "Cold day"
+      ],
+      [
+       "a polyester rain jacket",
+       "Rainy day"
+      ],
+      [
+       "a cotton towel to wipe sweat",
+       "Hot, damp day"
+      ],
+      [
+       "a woollen cap",
+       "Cold day"
+      ],
+      [
+       "a plastic poncho",
+       "Rainy day"
+      ]
+     ],
+     "a": "see items",
+     "why": "Cotton soaks up sweat, wool traps warm air, and polyester or plastic keeps water out. Each cloth suits a different weather."
+    },
+    {
+     "t": "write",
+     "p": "Some people wear silk saris. Some people choose not to, because the silkworm inside the cocoon usually dies. Say one fair reason for each view. Then say what you think.",
+     "lines": 4,
+     "a": "For example: Some people wear silk because it is a craft that weavers have passed down and it makes soft, light cloth. Others do not, because they care about the silkworm's life and choose cotton instead. I think ... because ...",
+     "why": "There are many views here. A strong answer gives a fair reason for each, and then gives your own thinking."
     }
    ]
   },
@@ -1338,12 +1498,12 @@
      "t": "mcq",
      "p": "A diamond and graphite, the soft black stuff in a pencil, are both made only of carbon atoms. What makes diamond very hard and graphite soft enough to write with?",
      "opts": [
-      "The carbon atoms are joined together in different ways",
       "Diamond has more carbon atoms",
+      "The carbon atoms are joined together in different ways",
       "Graphite is mixed with butter",
       "Diamond is kept colder"
      ],
-     "a": 0,
+     "a": 1,
      "why": "In diamond, each carbon atom holds tightly to others in every direction. In graphite, the atoms make flat sheets that slide over each other. Picking 'more carbon' means thinking properties depend only on how much there is. A strong answer says arrangement matters."
     },
     {
@@ -1372,12 +1532,12 @@
      "t": "mcq",
      "p": "India's Chandrayaan-3 lander was wrapped in a shiny blanket with many thin layers and gaps between them. What does the blanket do?",
      "opts": [
-      "The shiny layers reflect the Sun's heat, and the gaps slow heat passing through",
       "It makes heat to keep the lander warm",
       "It makes the lander heavier, so it does not float away",
+      "The shiny layers reflect the Sun's heat, and the gaps slow heat passing through",
       "It is only for decoration"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Shiny surfaces send heat back. The gaps between the layers slow heat down, a bit like the trapped air in a sweater. Picking 'makes heat' is the same mistake as thinking a sweater makes heat. A strong answer says the blanket slows heat, in both directions.",
      "context": "Chandrayaan-3 landed near the Moon's south pole in 2023. On the Moon, the sunny side is very hot and the shady side is very cold."
     },
@@ -1393,12 +1553,12 @@
      "t": "mcq",
      "p": "To cut a sheet of glass, a glass cutter scratches a line on it, then bends the sheet. The glass snaps cleanly along the line. Why?",
      "opts": [
-      "The scratch is a tiny crack, and the crack grows along the line when the glass is bent",
       "The scratch makes the glass softer",
       "The scratch heats the glass",
+      "The scratch is a tiny crack, and the crack grows along the line when the glass is bent",
       "The glass was already broken there"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Glass is brittle. A small crack is its weak point. When the sheet bends, the crack grows along the scratch and the glass splits there. A strong answer links this to the idea that a crack grows and breaks a brittle material."
     },
     {
@@ -1430,12 +1590,12 @@
      "t": "mcq",
      "p": "In 2023, some scientists said they had made LK-99, a wonder material that carries electricity with no loss at room temperature. What should other scientists do first?",
      "opts": [
-      "Try to make it themselves and test it",
       "Believe it, because scientists said so",
+      "Try to make it themselves and test it",
       "Start selling it in phones",
       "Ignore it"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Scientists around the world tried. Their LK-99 did not work as claimed. A result counts only when others can repeat it. Picking 'believe it' trusts who said it instead of what a test shows."
     },
     {
@@ -1457,12 +1617,12 @@
      "t": "mcq",
      "p": "An engineer is choosing a material for a new bridge over the Kaveri river. Which pair of properties matters most?",
      "opts": [
-      "Strong, and lasts for years in rain and river water",
       "Shiny, and light",
       "Transparent, and soft",
-      "Absorbent, and colourful"
+      "Absorbent, and colourful",
+      "Strong, and lasts for years in rain and river water"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A bridge must hold up heavy loads for many years, out in the weather. So it needs strength and durability. Then the engineer weighs cost and weight. A strong answer starts from the job."
     },
     {
@@ -1600,11 +1760,11 @@
       "t": "mcq",
       "q": "The steel spoon's pea fell first. What does that tell us about steel?",
       "options": [
-       "Steel is a good conductor of heat",
        "Steel is a good insulator of heat",
+       "Steel is a good conductor of heat",
        "Steel makes its own heat"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The heat from the water travelled up the steel fastest, so its butter melted first. A material that carries heat quickly is a conductor. Picking 'insulator' swaps the two words. An insulator would keep its butter solid, like the wooden spoon did."
      },
      "chart": {
@@ -1781,11 +1941,11 @@
       "t": "mcq",
       "q": "The ice cube in the woollen sock lasted longest. Why?",
       "options": [
-       "Wool makes cold",
        "Wool traps still air, which slows heat from the room reaching the ice",
+       "Wool makes cold",
        "Wool makes heat, but only a little"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Wool is full of tiny pockets of still air. Still air lets heat pass through only slowly. So the room's warmth took longer to reach the ice. Picking 'wool makes cold' is a natural guess, but wool makes neither heat nor cold. It only slows heat down, in both directions."
      },
      "chart": {
@@ -2193,11 +2353,11 @@
       "t": "mcq",
       "q": "Spoons can be made of steel, wood, plastic or coconut shell. What does this show?",
       "options": [
-       "One job can be done by many materials",
        "Only steel makes a real spoon",
+       "One job can be done by many materials",
        "Spoons can be made of anything at all"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Many materials have the properties a spoon needs: stiff, safe to eat from, able to hold a bowl shape. So many can do the job. Picking 'anything at all' goes too far. A spoon of paper or jelly would not work."
      }
     }
@@ -2274,11 +2434,11 @@
       "t": "mcq",
       "q": "An umbrella's ribs are springy steel. Why?",
       "options": [
-       "Steel is strong and springs back after bending, so it holds the cloth open",
        "Steel is waterproof, so it keeps rain off",
-       "Steel is light as a feather"
+       "Steel is light as a feather",
+       "Steel is strong and springs back after bending, so it holds the cloth open"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The ribs must hold the cloth tight, and bend in the wind without snapping. Springy steel is strong and returns to its shape. Picking 'waterproof' gives a true property of steel, but it is the cloth's job to keep rain off, not the ribs'."
      }
     }
@@ -2521,11 +2681,11 @@
       "t": "mcq",
       "q": "In the game, why did heat reach the end faster in the 'metal' line?",
       "options": [
-       "Free electrons carried it along quickly",
        "The metal atoms were taller",
+       "Free electrons carried it along quickly",
        "The metal line was shorter"
       ],
-      "a": 0,
+      "a": 1,
       "why": "In metals, some electrons are free to move through the whole material. They carry energy along fast, like the runner. In wood, heat can only pass from one jiggling atom to the next, which is slow. Picking 'shorter' would make the test unfair. Keep both lines the same length."
      }
     },
@@ -2645,11 +2805,11 @@
       "t": "mcq",
       "q": "Why must you keep adding water to the sand?",
       "options": [
-       "The cooling comes from water evaporating, so it needs a supply of water",
        "The pot gets thirsty",
-       "Water makes the pots heavier"
+       "Water makes the pots heavier",
+       "The cooling comes from water evaporating, so it needs a supply of water"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The cooler works because water evaporates from the outside of the big pot, taking heat away. Once the sand dries, there is nothing left to evaporate, and the cooling stops. Picking 'the pot gets thirsty' is a fun way to say it. What the cooler really needs is water in the sand, ready to evaporate."
      }
     },
@@ -2792,11 +2952,11 @@
       "t": "mcq",
       "q": "Which cosy would keep coffee hottest?",
       "options": [
-       "A thick fluffy woollen one with a lid",
        "A thin sheet of steel wrapped round",
+       "A thick fluffy woollen one with a lid",
        "No cosy, but a bigger tumbler"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Thick fluffy wool traps lots of still air, which slows heat down. A lid stops heat escaping from the top. A steel wrap is a conductor, so it would carry heat away, not keep it in. Picking 'steel' usually means thinking 'strong' is the property that matters. Here the job needs an insulator."
      },
      "think": "The same cosy could keep a cold drink cold. Why?",
@@ -2938,12 +3098,12 @@
    "t": "mcq",
    "p": "Why do we choose a particular material for a job?",
    "opts": [
-    "Because its properties suit the job",
     "Because it is the newest material",
     "Because it is the most colourful",
-    "Because it is always the cheapest"
+    "Because it is always the cheapest",
+    "Because its properties suit the job"
    ],
-   "a": 0,
+   "a": 3,
    "why": "We look at what the job needs, then find a material with those properties. Picking 'cheapest' is a real thing people think about. But a cheap material that cannot do the job is no use.",
    "outcome": 0
   },
@@ -2951,12 +3111,12 @@
    "t": "mcq",
    "p": "You spill a glass of water on the floor. You have a plastic sheet and an old cotton towel. Which will clean it up, and why?",
    "opts": [
-    "The cotton towel, because cotton is absorbent",
     "The plastic sheet, because plastic is waterproof",
+    "The cotton towel, because cotton is absorbent",
     "Both work equally well",
     "Neither, because water cannot be picked up"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Cotton soaks up the water. Plastic is waterproof, so it only pushes the water around. Picking plastic means thinking 'waterproof' means 'good with water'. For this job it is the wrong property.",
    "outcome": 0
   },
@@ -2964,12 +3124,12 @@
    "t": "mcq",
    "p": "A kadai is metal, but its handle is wood. Why?",
    "opts": [
-    "Metal carries heat to the food. Wood does not carry heat to your hand.",
     "Wood is stronger than metal",
+    "Metal carries heat to the food. Wood does not carry heat to your hand.",
     "Metal is cheaper than wood",
     "Wood looks nicer"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Metal is a conductor of heat, which is right for cooking. Wood is an insulator, which is right for holding. Picking 'wood is stronger' misses the job. The handle is about staying cool, not strength.",
    "outcome": 1
   },
@@ -2992,12 +3152,12 @@
    "t": "mcq",
    "p": "A steel railing and a wooden bench have been outside all night. The steel feels colder. Why?",
    "opts": [
-    "Steel carries heat away from your hand faster",
     "Steel really is much colder",
     "Wood makes its own heat",
+    "Steel carries heat away from your hand faster",
     "Steel has ice inside it"
    ],
-   "a": 0,
+   "a": 2,
    "why": "They are the same temperature. Steel is a good conductor, so it pulls heat from your hand quickly, and feels colder. Picking 'really colder' trusts the feeling over a thermometer.",
    "outcome": 1
   },
@@ -3005,12 +3165,12 @@
    "t": "mcq",
    "p": "Does a woollen sweater make heat?",
    "opts": [
-    "No. It traps air, which keeps your own heat in.",
     "Yes, wool is always warm.",
     "Yes, but only in winter.",
-    "No, it makes cold."
+    "No, it makes cold.",
+    "No. It traps air, which keeps your own heat in."
    ],
-   "a": 0,
+   "a": 3,
    "why": "Wool traps still air. Still air is an insulator, so it slows your body's heat from escaping. Picking 'wool is always warm' is very common. But an ice cube in a woollen sock melts more slowly, which shows wool makes no heat.",
    "outcome": 2,
    "how": "e2",
@@ -3020,12 +3180,12 @@
    "t": "mcq",
    "p": "In the Matka Mystery, the water in the clay pot ended up cooler than the water in the plastic bottle. What made the difference?",
    "opts": [
-    "Water seeped through the clay and evaporated, taking heat away",
     "Clay is always cold",
     "The water is heavier in clay",
-    "Clay keeps the sunlight in"
+    "Clay keeps the sunlight in",
+    "Water seeped through the clay and evaporated, taking heat away"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Clay is porous, so water reaches the outside and evaporates. Evaporation takes heat away. Picking 'clay is always cold' means thinking a material has its own coldness. A dry clay pot does not cool water.",
    "outcome": 2,
    "how": "e3",
@@ -3050,12 +3210,12 @@
    "t": "mcq",
    "p": "Bone is made of a bendy material and a hard mineral. Why is this a good design?",
    "opts": [
-    "Together they make bone hard and tough, not brittle and not floppy",
     "It makes bone heavier",
+    "Together they make bone hard and tough, not brittle and not floppy",
     "It makes bone see-through",
     "It makes bone soft like jelly"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The mineral alone would snap like chalk. The bendy collagen alone would flop. Joined, they make a strong composite. Picking 'heavier' misses the point. The mix is about toughness.",
    "outcome": 3
   },
@@ -3089,12 +3249,12 @@
    "t": "mcq",
    "p": "For a feast for 500 people, why might a banana leaf be a better plate than plastic?",
    "opts": [
-    "It is waterproof on top, cheap, and rots away after use",
     "It is stronger than steel",
+    "It is waterproof on top, cheap, and rots away after use",
     "It lasts for a hundred years",
     "It carries heat well"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A banana leaf does the plate's job, then goes back into the soil. Thrown-away plastic stays for a very long time. Picking 'lasts a hundred years' gives a property of plastic, which is the problem here.",
    "outcome": 4
   },
@@ -3102,12 +3262,12 @@
    "t": "mcq",
    "p": "In the Hot Spoon Race, why must the butter blobs be the same size?",
    "opts": [
-    "So only the spoon's material changes, which makes it a fair test",
     "To save butter",
     "So they look neat",
-    "It does not matter"
+    "It does not matter",
+    "So only the spoon's material changes, which makes it a fair test"
    ],
-   "a": 0,
+   "a": 3,
    "why": "In a fair test, you change only one thing. A smaller blob would melt sooner, even on the same spoon. Picking 'it does not matter' means the result could not be trusted.",
    "outcome": 5,
    "how": "e1",
@@ -3117,12 +3277,12 @@
    "t": "mcq",
    "p": "Why are metals good at carrying heat?",
    "opts": [
-    "Some of their electrons move freely and carry energy quickly",
     "Metals are always hot",
     "Metals are full of air",
+    "Some of their electrons move freely and carry energy quickly",
     "Metals are heavy"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Free electrons rush energy through the metal. In wood and plastic, electrons are held in place, so heat creeps along slowly. Picking 'always hot' is a mix-up, like thinking metal is colder than wood. A metal is at the same temperature as the room it is in.",
    "outcome": 6
   },
@@ -3130,12 +3290,12 @@
    "t": "mcq",
    "p": "Where were the iron atoms in your steel spoon first made?",
    "opts": [
-    "Inside stars, long ago",
     "In a factory in India",
     "In the sea",
+    "Inside stars, long ago",
     "In a volcano last year"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Iron atoms were made in stars and in exploding stars, and the explosions scattered them into space. The Earth formed later from that dust. Picking 'factory' is fair, since the spoon was made there. But the factory only shaped iron that was already here.",
    "outcome": 6
   },
@@ -3143,14 +3303,66 @@
    "t": "mcq",
    "p": "Scientists copied a lotus leaf to make paint that washes itself clean in the rain. What did they copy?",
    "opts": [
-    "The tiny waxy bumps that make water bead up and roll away",
     "The leaf's green colour",
     "The leaf's smell",
-    "The way the leaf grows towards the light"
+    "The way the leaf grows towards the light",
+    "The tiny waxy bumps that make water bead up and roll away"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The lotus leaf's surface has tiny waxy bumps. Water cannot spread on them, so it rolls off and carries dirt with it. Copying a living being's design like this is called biomimicry. Picking 'green colour' copies how the leaf looks, not how it works.",
    "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "It is a hot, sticky day in Chennai. Which shirt will keep you most comfortable?",
+   "opts": [
+    "A woollen shirt, because wool is cool",
+    "A polyester shirt, because it soaks up sweat best",
+    "A cotton shirt, because it soaks up sweat so it can dry and cool you",
+    "A plastic raincoat, because it is waterproof"
+   ],
+   "a": 2,
+   "why": "Cotton is absorbent. It takes up sweat and lets it dry, which cools you. Wool traps warm air, so it is too hot. Polyester does not soak up water, and a raincoat traps all the sweat.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "What is polyester?",
+   "opts": [
+    "A thread from silkworm cocoons",
+    "A thread from sheep",
+    "A thread from cotton plants",
+    "A plastic thread made from oil in a factory"
+   ],
+   "a": 3,
+   "why": "Polyester is made from oil, so it is a plastic. Silk comes from silkworm cocoons, wool from sheep and cotton from cotton plants.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Why does a potter knead the clay before she puts it on the wheel?",
+   "opts": [
+    "To make the clay hot",
+    "To push out air bubbles and make the clay even",
+    "To make the clay porous",
+    "To make it dry faster"
+   ],
+   "a": 1,
+   "why": "Air bubbles can crack a pot when it is baked. Kneading squeezes them out and mixes the wet and dry parts. The pot becomes porous later, when it is baked. Kneading does not do that.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Why might a family carry water in a steel bottle on a crowded bus?",
+   "opts": [
+    "Steel is porous, so it cools the water",
+    "Steel is transparent, so you can see the water",
+    "Steel is strong and does not break if it is dropped",
+    "Steel soaks up water"
+   ],
+   "a": 2,
+   "why": "Steel is strong and tough, so it does not break when dropped. A clay pot is porous but brittle. A glass jug is transparent but breaks. Steel is not porous and does not soak up water.",
+   "outcome": 4
   }
  ],
  "applications": [
@@ -3559,6 +3771,78 @@
     "e3",
     "p1"
    ]
+  },
+  {
+   "id": "b-spacesuit-fashioning-apollo",
+   "item": "Spacesuit: Fashioning Apollo by Nicholas de Monchaux",
+   "kind": "book",
+   "why": "The real story of how a bra and girdle company and its seamstresses made the moon suits.",
+   "url": "https://www.amazon.in/s?k=Spacesuit%3A+Fashioning+Apollo+Nicholas+de+Monchaux",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "A book for the parent to read from, a few pages at a time, aloud. Children who want to read it themselves are welcome to. (adult (look at the pictures together))"
+  },
+  {
+   "id": "b-dropper-materials",
+   "item": "Plastic dropper, a pack of 2 or 3",
+   "kind": "tool",
+   "why": "It puts a few drops of water onto each leaf in the Lotus Leaf and the Waxed Paper activity. About ₹30 to ₹80 for a pack at a medical or pharmacy shop. A spoon and a steady hand are the household alternative.",
+   "url": "https://www.amazon.in/s?k=plastic+dropper",
+   "used_in": [
+    "a4"
+   ],
+   "plan": "Buy it before the Lotus Leaf and the Waxed Paper activity."
+  },
+  {
+   "id": "b-clean-sand",
+   "item": "Clean sand, about 2 kilograms",
+   "kind": "material",
+   "why": "It fills the gap between the two clay pots in the cooler project, to keep the water cool. About ₹40 to ₹100 for a small bag at a plant nursery. An old wet towel packed tightly into the gap is the household alternative.",
+   "url": "https://www.amazon.in/s?k=clean+sand+for+plants",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Buy it before you build the clay pot cooler."
+  },
+  {
+   "id": "b-cotton-wool-materials",
+   "item": "Cotton wool, one small roll",
+   "kind": "material",
+   "why": "It is packed around the cup and the egg to keep the heat in and to cushion the egg in the two challenges. About ₹40 to ₹80 for a small pack at a chemist. An old cotton cloth or a towel does the same job.",
+   "url": "https://www.amazon.in/s?k=cotton+wool",
+   "used_in": [
+    "c1",
+    "c2"
+   ],
+   "plan": "Buy it before the Keep the Coffee Hot challenge."
+  },
+  {
+   "id": "b-bubble-wrap",
+   "item": "Bubble wrap, one small sheet",
+   "kind": "material",
+   "why": "It wraps the cup and the egg as a cushion in the two challenges. About ₹50 to ₹150 for a small roll at a packaging shop. Newspaper or an old towel does the same job.",
+   "url": "https://www.amazon.in/s?k=bubble+wrap",
+   "used_in": [
+    "c1",
+    "c2"
+   ],
+   "plan": "Save a piece from a parcel, or buy it before the Keep the Coffee Hot challenge."
+  },
+  {
+   "id": "b-print-materials",
+   "item": "Printed pages for the job cards, material cards, product cards and worksheets, about 20 pages",
+   "kind": "material",
+   "why": "The two games use 16 job cards, 16 material cards, 16 tokens and 16 product cards, and the worksheets are printed too. A copy shop charges about ₹1 to ₹2 a page, so the set costs about ₹20 to ₹40.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print these before the first game."
   }
  ],
  "warmup": [

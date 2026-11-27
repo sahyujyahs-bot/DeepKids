@@ -1,7 +1,7 @@
 # Magnets and magnetic materials: the magnet pulls the nail, but does the nail pull back?
 `sci.magnets.magnets-and-materials.L4`
 
-**Summary.** A magnet pulls a nail, so does the nail pull the magnet back? In this unit you will float a magnet on a small raft to find out, see why two nails hanging from one magnet spread into a V, and test which steels keep their magnetism.
+**Summary.** A magnet pulls a nail, so does the nail pull the magnet back? In this lesson you will float a magnet on a small raft to find out, see why two nails hanging from one magnet spread into a V, and test which steels keep their magnetism.
 
 **Intro.** *A magnet can pick up a nail. Everyone says the magnet is pulling the nail. But what if the nail is pulling the magnet too? Put the magnet on a little boat on water and bring a nail close. What do you think the boat will do?* In Class 3 you found out that a magnet attracts iron, and that every iron atom is a tiny magnet. Now we go one step deeper. How does a plain nail, which is not a magnet, get pulled at all? Why do two nails hanging from one magnet spread apart? Why does a needle stay magnetic when a nail does not? And how can a fridge magnet grip your almirah on one side only? You find out by testing it yourself.
 
@@ -687,10 +687,10 @@ Mrs Khan ordered two hundred trains. Uncle Mohan painted the faces on every one,
 ## Worksheets
 ### Magnets and Magnetic Materials, Class 4 (core) (core, 16 questions)
 1. (mcq) A magnet attracts a steel nail. Which sentence is true?  
-   Options: Only the magnet pulls / Only the nail pulls / The magnet and the nail pull each other equally / The bigger one pulls harder  
+   Options: Only the magnet pulls / Only the nail pulls / The bigger one pulls harder / The magnet and the nail pull each other equally  
    **Answer:** The magnet and the nail pull each other equally. *Why:* A pull always comes as a pair of equal forces, one on each thing. Picking 'only the magnet pulls' comes from watching the nail move, because the magnet is usually held in a hand.
 2. (mcq) A magnet sits on a light raft, and a nail sits on another raft of the same mass. They float 8 cm apart. What happens?  
-   Options: Only the nail raft moves / Only the magnet raft moves / Both rafts move towards each other and meet near the middle / Neither raft moves  
+   Options: Only the nail raft moves / Only the magnet raft moves / Neither raft moves / Both rafts move towards each other and meet near the middle  
    **Answer:** Both rafts move towards each other and meet near the middle. *Why:* The pulls are equal and the masses are equal, so both rafts move the same distance. Saying that only one raft moves forgets that the pull works both ways.
 3. (mcq) The same magnet pulls two rafts, but one raft is three times as heavy. Which statement is right?  
    Options: The heavy raft is pulled three times as hard / The light raft is pulled harder / The pulls are equal, so the light raft moves further / Neither raft moves  
@@ -706,7 +706,7 @@ Mrs Khan ordered two hundred trains. Uncle Mohan painted the faces on every one,
 8. (sort) Sort each job: does the magnet in it need a hard material that keeps its magnetism, or a soft material that loses it?  
    **Answer:** a fridge magnet → Hard (keep); the core of an electric bell → Soft (drop); a compass needle → Hard (keep); the core of a scrapyard crane magnet → Soft (drop); the coating on a hard disk → Hard (keep); a plain iron nail → Soft (drop). *Why:* A magnet that must last for years needs a hard material. A magnet that must switch off needs a soft one.
 9. (mcq) A sewing needle keeps its pins after the magnet is taken away. A plain nail drops most of its pins. What does this show?  
-   Options: The needle is a harder magnetic material than the nail / The nail is a different metal / The needle is bigger / The nail was too hot  
+   Options: The nail is a different metal / The needle is bigger / The nail was too hot / The needle is a harder magnetic material than the nail  
    **Answer:** The needle is a harder magnetic material than the nail. *Why:* In hard steel the domains stay turned. In soft iron they turn back. Picking 'bigger' is a good guess, but the needle is thinner than the nail.
 10. (odd) Three of these can be made into magnets by a magnet. Which one cannot?  
    Options: A steel nail / A steel sewing needle / A wooden pencil / An iron bolt  
@@ -714,7 +714,7 @@ Mrs Khan ordered two hundred trains. Uncle Mohan painted the faces on every one,
 11. (write) A friend says, 'The magnet is the only one pulling. The nail is just pulled.' What would you say to your friend? Use what you know about rafts.  
    **Answer:** If I float the magnet on a raft and hold the nail still, the magnet moves to the nail. So the nail is pulling the magnet. The two pulls are equal. The one that is free to move is the one you see move.. *Why:* A strong answer says the pulls are equal and that the free thing is the one that moves.
 12. (mcq) You hang two nails from the same face of a magnet. Their tips spread apart. Why?  
-   Options: The tips are the same kind of pole and repel / The nails are different lengths / The tips are attracted to the table / The nails are too heavy  
+   Options: The nails are different lengths / The tips are attracted to the table / The tips are the same kind of pole and repel / The nails are too heavy  
    **Answer:** The tips are the same kind of pole and repel. *Why:* Each nail becomes a magnet. Both heads touch the same pole, so both tips get the opposite pole. Two poles of the same kind repel.
 13. (truefalse) A bendy fridge magnet grips just as well on its back as on its front.  
    **Answer:** False. *Why:* False. The stripes of north and south are arranged so that the field reaches out of the front and cancels at the back. The front grips and the back hardly does.
@@ -729,7 +729,7 @@ Mrs Khan ordered two hundred trains. Uncle Mohan painted the faces on every one,
    Options: Only the girl who pulls moves / Only the other girl moves / Both slide towards each other / Neither moves  
    **Answer:** Both slide towards each other. *Why:* The rope pulls both girls with an equal force. So both slide towards each other. This is the same as the rafts, and it is Newton's third law.
 2. (mcq) A lighter girl on skates and a heavier woman on skates hold a rope and the girl pulls. Who moves further?  
-   Options: The girl, because she is lighter / The woman, because she is stronger / They move the same distance / Neither moves  
+   Options: The woman, because she is stronger / They move the same distance / The girl, because she is lighter / Neither moves  
    **Answer:** The girl, because she is lighter. *Why:* The rope pulls both with the same force. The lighter person speeds up more and moves further. This is like the light raft and the heavy raft.
 3. (mcq) A strong neodymium magnet and a weak fridge magnet float on equal rafts. Which is pulled harder by the other?  
    Options: The weak magnet is pulled harder by the strong one / The strong magnet is pulled harder / Both are pulled with exactly the same force / Neither is pulled  
@@ -742,12 +742,12 @@ Mrs Khan ordered two hundred trains. Uncle Mohan painted the faces on every one,
 6. (write) Explain why steel for a permanent magnet needs to be hard and iron for the core of an electromagnet needs to be soft.  
    **Answer:** A permanent magnet must keep its magnetism for years, so it is made of a hard material whose domains stay turned. The core of an electromagnet must lose its magnetism as soon as the electricity is switched off, so it is made of soft iron whose domains turn back.. *Why:* A strong answer connects hard with keeping and soft with letting go, and names the job each one does.
 7. (mcq) In pure soft iron, the edges of the domains slide about easily. In hard steel they catch on tiny bits of carbon. Which fits this idea?  
-   Options: Hard steel keeps its magnetism, because its domain edges are held in place / Hard steel loses its magnetism, because its domain edges are free / Soft iron keeps its magnetism for years / Both keep it equally  
+   Options: Hard steel loses its magnetism, because its domain edges are free / Soft iron keeps its magnetism for years / Both keep it equally / Hard steel keeps its magnetism, because its domain edges are held in place  
    **Answer:** Hard steel keeps its magnetism, because its domain edges are held in place. *Why:* Flaws and carbon in the steel hold the domain edges after they have turned. Soft iron lets the edges slide back at once.
 8. (sort) Sort each thing: does it attract pins like a magnet, or paper scraps like a rubbed comb?  
    **Answer:** a bar magnet → Attracts pins (magnetism); a plastic comb rubbed on dry hair → Attracts paper scraps (static electricity); a balloon rubbed on hair → Attracts paper scraps (static electricity); a neodymium magnet → Attracts pins (magnetism); a stroked steel needle → Attracts pins (magnetism). *Why:* A magnet picks up iron and steel. A rubbed plastic comb or balloon picks up light scraps by static electricity. They are two sides of one force, but they behave differently.
 9. (mcq) Why is a thick bolt able to hold more weight than a thin nail on the same magnet?  
-   Options: It has more iron, so it becomes a stronger induced magnet before it saturates / It is heavier / It is a different metal / It is shinier  
+   Options: It is heavier / It is a different metal / It is shinier / It has more iron, so it becomes a stronger induced magnet before it saturates  
    **Answer:** It has more iron, so it becomes a stronger induced magnet before it saturates. *Why:* A thin nail has only so many domains to turn, and it saturates early. A thick bolt has many more domains. Picking 'heavier' is wrong, because heavier things are harder to hold up.
 10. (truefalse) Storing a bar magnet loose in a drawer with steel tools always keeps it as strong as it was.  
    **Answer:** False. *Why:* False. Steel tools near the magnet become magnets themselves and pull on the magnet's field. Over time this can weaken the magnet. Magnets are better stored in pairs with their poles reversed and an iron keeper at each end.
@@ -768,10 +768,10 @@ Mrs Khan ordered two hundred trains. Uncle Mohan painted the faces on every one,
    **Answer:** A hard disk is coated with a hard magnetic material, which keeps its tiny regions turned the same way for years. A soft material would let them turn back, and the pattern would fade.. *Why:* A strong answer connects hard with keeping the pattern, and soft with losing it.
 ### What Is a Pull? (challenge) (challenge, 17 questions)
 1. (mcq) A girl on roller skates pushes a wall and rolls backwards. Why?  
-   Options: The wall pushes back on her with an equal force / The wall is slippery / She pushed herself / The floor pulled her  
+   Options: The wall is slippery / The wall pushes back on her with an equal force / She pushed herself / The floor pulled her  
    **Answer:** The wall pushes back on her with an equal force. *Why:* When she pushes the wall, the wall pushes her. This is Newton's third law. She moves because she is free to roll and the wall is part of a building.
 2. (mcq) An apple falls from a tree. The Earth pulls the apple. Does the apple pull the Earth?  
-   Options: Yes, with the same force, but the Earth moves by a tiny amount / No, the apple is too small / Yes, with a much bigger force / Only when the apple lands  
+   Options: No, the apple is too small / Yes, with a much bigger force / Only when the apple lands / Yes, with the same force, but the Earth moves by a tiny amount  
    **Answer:** Yes, with the same force, but the Earth moves by a tiny amount. *Why:* The pulls are equal in size. The Earth has so much mass that the same pull moves it by an amount nobody can see.
 3. (truefalse) If a magnet and a nail are both held tightly in your hands, nothing is pulling.  
    **Answer:** False. *Why:* False. The pulls are still there. Each hand feels the pull even though neither thing moves.
@@ -783,12 +783,12 @@ Mrs Khan ordered two hundred trains. Uncle Mohan painted the faces on every one,
 6. (match) Match each word to the idea it names.  
    **Answer:** Third law of motion → when one thing pulls another, the other pulls back equally; Barkhausen effect → domains in iron flip in sudden small jumps that can be heard; Keeper → helps a stored magnet stay strong; Saturation → all the domains in the iron already point the same way. *Why:* Each word names an idea from the unit. A strong answer can give an example of each.
 7. (mcq) You find a long steel rod that picks up pins at one end only. It does not pull pins in the middle. What is the best conclusion?  
-   Options: It is a magnet with a pole at that end / It is made of wood / It is a plain nail / It is too light  
+   Options: It is made of wood / It is a magnet with a pole at that end / It is a plain nail / It is too light  
    **Answer:** It is a magnet with a pole at that end. *Why:* A magnet's pull is strongest at its poles. A plain rod pulls the same near any part.
 8. (perspective) Two friends disagree about whether a magnetic field is real.  
    **Answer:** Either can be argued. The first friend has the evidence that light is a wave of fields and that fields carry energy. The second friend is right that we measure the effects on things. A strong answer gives evidence and says that scientists argue about the exact nature of a field.. *Why:* A strong answer uses evidence, names a limit of each view, and says what to test next.
 9. (mcq) A steel crane in a scrapyard uses a magnet to lift a car, then drops it. Which is the best core for this magnet?  
-   Options: Soft iron, so it loses magnetism when the current stops / Hard steel, so it keeps its magnetism / Wood / Plastic  
+   Options: Hard steel, so it keeps its magnetism / Wood / Soft iron, so it loses magnetism when the current stops / Plastic  
    **Answer:** Soft iron, so it loses magnetism when the current stops. *Why:* Soft iron is a strong magnet while the current flows and stops being one when the current stops, so the crane can let go.
 10. (fill) A magnet's pull gets weaker quickly as the ____ between it and the iron gets bigger.  
    **Answer:** ['gap', 'distance']. *Why:* A magnet's pull is strongest close up. It is much weaker a few centimetres away.
@@ -815,19 +815,19 @@ Mrs Khan ordered two hundred trains. Uncle Mohan painted the faces on every one,
 
 ## Quiz
 1. (mcq) A magnet attracts a nail. What does the nail do to the magnet?  
-   Options: Attracts it with an equal force / Nothing / Attracts it with a smaller force / Repels it  
+   Options: Nothing / Attracts it with a smaller force / Repels it / Attracts it with an equal force  
    **Answer:** Attracts it with an equal force. *Why:* Pulls always come in pairs of equal size. The nail seems to do nothing because the magnet is usually held in a hand.
 2. (mcq) Two rafts of equal mass carry a magnet and a nail. Where do they meet?  
    Options: In the middle / Close to the magnet's start / Close to the nail's start / They do not meet  
    **Answer:** In the middle. *Why:* The pulls are equal and the masses are equal, so both move the same distance and meet in the middle.
 3. (mcq) The same pull acts on a light thing and a heavy thing. Which moves further?  
-   Options: The light thing / The heavy thing / They move the same / Neither  
+   Options: The heavy thing / The light thing / They move the same / Neither  
    **Answer:** The light thing. *Why:* A pull makes a light thing speed up more than a heavy thing, so the light thing moves further.
 4. (mcq) A steel nail near a magnet picks up a pin. What has happened to the nail?  
-   Options: It has become a magnet for as long as the magnet is near / It has become lighter / It has become a different metal / It has become hot  
+   Options: It has become lighter / It has become a magnet for as long as the magnet is near / It has become a different metal / It has become hot  
    **Answer:** It has become a magnet for as long as the magnet is near. *Why:* The magnet turns the domains in the nail to point one way. The nail is now an induced magnet.
 5. (mcq) Two pins hang from one pole of a magnet. Their tips spread apart. Why?  
-   Options: Both tips are the same pole, so they repel / The pins are bent / The tips attract the table / The pins are heavy  
+   Options: The pins are bent / The tips attract the table / Both tips are the same pole, so they repel / The pins are heavy  
    **Answer:** Both tips are the same pole, so they repel. *Why:* Both pins become magnets with the same pole at their tips. Two poles of the same kind repel.
 6. (mcq) A mystery metal piece pushes a hanging magnet away at one end. What is the piece?  
    Options: A real magnet / Plain iron / Wood / Aluminium  
@@ -839,25 +839,25 @@ Mrs Khan ordered two hundred trains. Uncle Mohan painted the faces on every one,
    Options: The needle / The nail / They are the same / Neither is a magnetic material  
    **Answer:** The needle. *Why:* In the needle the domains stay turned. In the nail they turn back.
 9. (mcq) What should the core of an electromagnet in a crane be made of?  
-   Options: Soft iron / Hard steel / Wood / Glass  
+   Options: Hard steel / Wood / Glass / Soft iron  
    **Answer:** Soft iron. *Why:* Soft iron loses its magnetism when the current stops, so the crane can drop its load.
 10. (mcq) Which can weaken a magnet?  
-   Options: Heating it, hammering it, or putting a strong opposite magnet near it / Holding a nail for a long time / Putting paper over it / Keeping it in a dry box  
+   Options: Holding a nail for a long time / Putting paper over it / Heating it, hammering it, or putting a strong opposite magnet near it / Keeping it in a dry box  
    **Answer:** Heating it, hammering it, or putting a strong opposite magnet near it. *Why:* Heat, hard knocks and strong opposite fields shake the domains. Holding a nail takes nothing from a magnet.
 11. (mcq) Why are some bar magnets stored with an iron keeper across their poles?  
    Options: It gives the field an easy loop, which helps the magnet stay strong / It makes the magnet lighter / It stops rust / It makes the pull stronger on the table  
    **Answer:** It gives the field an easy loop, which helps the magnet stay strong. *Why:* A keeper closes the loop of the field. This stops the magnet's own poles from turning its domains backwards.
 12. (mcq) A bendy fridge magnet grips on its front and hardly on its back. What is the reason?  
-   Options: Thin stripes of north and south make the field reach out of the front only / The back is made of rubber and the front of steel / The front is a bigger magnet / The back is dirty  
+   Options: The back is made of rubber and the front of steel / Thin stripes of north and south make the field reach out of the front only / The front is a bigger magnet / The back is dirty  
    **Answer:** Thin stripes of north and south make the field reach out of the front only. *Why:* The maker magnetises thin stripes side by side. The loops between neighbours reach out of one face and cancel at the other.
 13. (mcq) A hard disk stores information as tiny regions magnetised up or down. Why must the coating be a hard magnetic material?  
-   Options: So the pattern stays for years / So the disk is heavy / So the disk is shiny / So the disk is hot  
+   Options: So the disk is heavy / So the disk is shiny / So the disk is hot / So the pattern stays for years  
    **Answer:** So the pattern stays for years. *Why:* A soft material would let the pattern fade. A hard material keeps the domains turned.
 14. (mcq) A rubbed comb picks up paper scraps but not a steel pin. What does that show?  
    Options: The comb's pull is static electricity and not magnetism / The comb is a strong magnet / The pin is too heavy / The paper is magnetic  
    **Answer:** The comb's pull is static electricity and not magnetism. *Why:* A magnet picks up pins. The comb does not, so its pull is a different one.
 15. (mcq) Scientists agree that a magnetic field works as a description of the pull around a magnet. What do they still argue about?  
-   Options: Exactly what a field is / Whether magnets attract iron / Whether nails can be magnetised / Whether pulls come in pairs  
+   Options: Whether magnets attract iron / Whether nails can be magnetised / Exactly what a field is / Whether pulls come in pairs  
    **Answer:** Exactly what a field is. *Why:* It is well tested that magnets attract iron, that nails can be magnetised and that pulls come in pairs. What a field is, underneath, is still being discussed.
 
 ## Applications
@@ -936,14 +936,18 @@ Tiny Magnets, All in Line (sci.magnets.L4): Topic-level song
 - [Newton's laws of motion (Wikipedia)](https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion) · interactive: For the parent: a clear article that includes the third law, with plain examples.
 - [Barkhausen effect (Wikipedia)](https://en.wikipedia.org/wiki/Barkhausen_effect) · interactive: For the parent: how the clicks of domains flipping are heard, and how engineers use them.
 - [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a science museum. Search for magnets.
-- [Channapatna, the toy town]() · place · Channapatna, Ramanagara district, Karnataka: A town known for lacquered wooden toys. Watch the lathe, and look at how the toys are made. Ask the shop before you visit.
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: A large science museum with galleries on electricity and magnets.
+- Channapatna, the toy town · place · Channapatna, Ramanagara district, Karnataka: A town known for lacquered wooden toys. Watch the lathe, and look at how the toys are made. Ask the shop before you visit.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru: A large science museum with galleries on electricity and magnets.
 
 ## Things to buy
 - [A set of school magnets: ceramic discs and bar magnets, and one small neodymium magnet](https://www.amazon.in/s?k=magnet+set+for+school+science) (tool): Bendy fridge magnets are often too weak for these tests. A ceramic disc or a neodymium magnet moves a raft and holds nails easily. Keep neodymium magnets away from children under five. Used in e1, e2, e3, a1, a2, a4, a5, p1, c1. 
 - [A small pack of assorted steel nails, with some long and some short](https://www.amazon.in/s?k=assorted+steel+nails+small+pack) (material): For the Rafts, Hanging V and Soft or Hard tests. A hardware shop will sell a handful for a few rupees. Used in e1, e2, e3, a1, a4, p1. 
 - [A small digital kitchen scale](https://www.amazon.in/s?k=digital+kitchen+weighing+scale) (tool): To weigh the rice in Magnet Against the Earth, and to balance the rafts and cars. It is optional. Counting spoonfuls gives a rough result. Used in a4, c1. 
 - [A small pack of modelling clay](https://www.amazon.in/s?k=modelling+clay+for+kids) (material): To balance the weights of the rafts and the toy cars. A pinch of atta dough works too. Used in e1, p1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Rafts on the Water: does the nail pull the magnet too?, The Hanging V: why do two nails spread apart?, Hidden Magnets at Home: where are they, and how do you know?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, a5, a6, p1, c2. Get it before Rafts on the Water: does the nail pull the magnet too?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Build a Magnetic Toy Train, then make it meet softly, The Gentle Gate: a door catch that shuts itself and opens with one finger. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in p1, c2. Get it before Build a Magnetic Toy Train, then make it meet softly.
+- [A small toy car with free-rolling wheels](https://www.amazon.in/s?k=toy+car+pull+back+small) (material): Used in Build a Magnetic Toy Train, then make it meet softly. About ₹100 to ₹200. A marble or a round torch cell works. Used in p1. Get it before Build a Magnetic Toy Train, then make it meet softly.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - A magnet pulls a nail. What does the nail do to the magnet? → It pulls the magnet with an equal force.
@@ -964,7 +968,7 @@ Tiny Magnets, All in Line (sci.magnets.L4): Topic-level song
 
 ## Sources
 - Founder's notes in ideas/by_topic/magnets.md: test household metals, compare magnet strength, make a needle compass, draw field lines. Used here to go a step further: who pulls whom, and how a magnet is kept
-- The Class 3 unit on magnets and magnetic materials, which this unit builds on and does not repeat: its needle compass, paper clip chain, black sand and iron fish story are not used again
+- The Class 3 unit on magnets and magnetic materials, which this lesson builds on and does not repeat: its needle compass, paper clip chain, black sand and iron fish story are not used again
 - The Class 4 unit on poles, whose field walk and distance tests are not repeated here
 - Newton, Philosophiae Naturalis Principia Mathematica, 1687 (third law of motion)
 - Gilbert, De Magnete, 1600 (mutual attraction of lodestone and iron, which Gilbert called coition; the floating-vessel passage is cited from histories of magnetism and not checked against a primary edition)

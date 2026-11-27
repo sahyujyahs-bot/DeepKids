@@ -1,9 +1,9 @@
 # Questioning the evidence: says who, and how do they know?
 `sci.how-we-know.questioning-evidence.L3`
 
-**Summary.** People can feel very sure and still be wrong. How can you tell? In this unit you will ask your family questions about your flat, ask how sure they are, and go and check. You will also learn three questions to ask about any claim.
+**Summary.** People can feel very sure and still be wrong. How can you tell? In this lesson you will ask your family questions about your flat, ask how sure they are, and go and check. You will also learn three questions to ask about any claim.
 
-**Intro.** *An aunt says, "Our wall clock has all twelve numbers on it. I see it every day." An uncle says, "No, it only has 12, 3, 6 and 9." Both of them are completely sure. They cannot both be right.* Feeling sure cannot settle it. Looking at the clock can. In this unit you find out how often people are sure and wrong, and how to check a claim before you believe it.
+**Intro.** *An aunt says, "Our wall clock has all twelve numbers on it. I see it every day." An uncle says, "No, it only has 12, 3, 6 and 9." Both of them are completely sure. They cannot both be right.* Feeling sure cannot settle it. Looking at the clock can. In this lesson you find out how often people are sure and wrong, and how to check a claim before you believe it.
 
 ## Learning outcomes
 0. I can say what a claim is, and what evidence is.
@@ -23,6 +23,7 @@
 - **Sample**: The part of something that you look at, to learn about the whole thing. *e.g.* One spoonful from the top of a dal jar is a sample of the jar.
 - **Who is missing**: The people or things that were left out of the evidence. Leaving them out can change the answer. *e.g.* If you ask only grown-ups whether the rasam is too spicy, the children's answer is missing.
 - **Myth**: A story that many people repeat and believe, but that checking has shown to be wrong. *e.g.* Many people say a goldfish forgets everything in three seconds. Tests show goldfish remember things for months.
+- **Pseudoscience**: Pseudoscience is something that looks like science but is not tested the way science is. Its claims cannot be checked, or the people who make them ignore the results when a test goes against them. *e.g.* A bottle says it makes you smarter, but nobody has tested it fairly against a plain bottle. That claim is pseudoscience.
 
 ## Explanations
 ### Claims and evidence · *defined*
@@ -53,6 +54,7 @@ Some claims sound true because we hear them so often. "Lightning never strikes t
 - e.g. Checked: an octopus has three hearts. Scientists have looked inside octopuses and seen them.
 - e.g. Only sounds true: we use only a tenth of our brain. Brain scans show every part of the brain is used during a day.
 - e.g. Checked at home: water from a tumbler left in the sun gets warm. You can feel it yourself.
+- **Martin Fleischmann (1927–2012) and Stanley Pons (born 1943), England and USA:** In March 1989, at a press conference at the University of Utah, they announced 'cold fusion': the energy of the Sun, happening in a jar of heavy water at room temperature, which would have meant almost endless cheap energy. Hundreds of labs rushed to repeat it. Most found nothing, and the particles that fusion must produce were missing, so within months most scientists decided the result was a mistake. It is remembered as a warning that an extraordinary claim needs extraordinary evidence.
 ### Who is missing? Evidence that leaves things out · *defined*
 **Definition:** If evidence comes from only some people or some parts of a thing, the answer may be wrong for the rest. Asking 'who is missing?' finds the gaps.
 
@@ -75,7 +77,7 @@ Thinkers have argued for a long time about what makes something science and not 
 - **Thomas Kuhn, a historian of science (1922 to 1996):** Scientists who work on the same subject share the same main ideas. They do not drop one of these ideas after one failed test. They often keep it until a better idea comes along.
 - **Many working scientists:** What matters most is that a claim is checked again and again, by different people in different places, and that they share how they did it so others can try.
 ### We cannot check everything ourselves · *idea*
-Nobody can test every claim. You have not been to the Moon, and you have not looked inside an octopus. So we all trust other people. 'Says who?' does not mean 'trust nobody'. It means trust people because of how they know, not because of how sure they sound. A good source can say how they found out, lets others check, and changes their mind when new evidence comes. People still argue about how much to trust experts, and when.
+Nobody can test every claim. You have not been to the Moon, and you have not looked inside an octopus. So we all trust other people. 'Says who?' does not mean 'trust nobody'. It means trust people because of how they know, not because of how sure they sound. A good source can say how they found out, lets others check, and changes their mind when new evidence comes. People still argue about how much to trust experts, and when. Books and trusted sources can answer many questions we cannot test ourselves. A good book on birds, written by a bird scientist, can tell you where a migrating bird goes in winter. You cannot follow the bird to check, so check who wrote the book, and whether they say how they know.
 - e.g. You trust the train timetable because the railway sets the times and you can see trains leave on time.
 - e.g. You trust that the Earth goes round the Sun because many people, over hundreds of years, measured it in ways anyone can repeat.
 
@@ -477,7 +479,7 @@ The next morning the crow called on the balcony rail, kaa, kaa. Arun looked at M
   - Note: Choose the message yourself, so your child does not see anything upsetting.
 
 ## Worksheets
-### Says Who? Detective (core) (core, 15 questions)
+### Says Who? Detective (core) (core, 16 questions)
 1. (fill) A sentence that says something is true is called a ____.  
    **Answer:** ['claim']. *Why:* A claim can be right or wrong. Evidence shows which.
 2. (fill) Something you can see, count or measure that shows whether a claim is true is called ____.  
@@ -494,7 +496,7 @@ The next morning the crow called on the balcony rail, kaa, kaa. Arun looked at M
 7. (write) People answer some quiz questions and say how sure they feel. Then each answer is checked. What would you expect to find about the answers people felt 'very sure' about? Why do we still need to check?  
    **Answer:** A strong answer says most very sure answers will be right, but some will be wrong, because feeling sure is only a feeling. Checking is the only way to know.. *Why:* A strong answer separates the feeling of being sure from the evidence of checking.
 8. (mcq) A girl asked only the grown-ups in her home if the TV was too loud. They all said no. What is missing from her evidence?  
-   Options: The TV's brand / The children's answers / The time of day / Nothing  
+   Options: The children's answers / The TV's brand / The time of day / Nothing  
    **Answer:** The children's answers. *Why:* Only some people were asked. Others might find the TV too loud. Who is missing can change the answer.
 9. (draw) A jar has a layer of chana on top and a layer of moong at the bottom. Draw the jar. Show a spoonful taken from the top, and label the part the spoonful misses.  
    **Answer:** A jar with two layers, a spoon at the top in the chana, and a label on the moong at the bottom saying 'missed'.. *Why:* A strong drawing shows that the sample came only from the top.
@@ -509,7 +511,9 @@ The next morning the crow called on the balcony rail, kaa, kaa. Arun looked at M
    **Answer:** A strong answer sees that a tally of every day is better evidence than memory. It also gives the first child her due: Paati has watched crows for years, and she noticed something true, that crows call a lot.. *Why:* Pick-a-side questions have no single right answer. Marks go for using evidence and stating the other view fairly.
 14. (order) Put the steps of checking a claim in order.  
    **Answer:** ['Hear the claim', 'Ask: says who, and how do they know?', 'Look at the real thing, or ask someone who measured it', 'Decide if the claim is right']. *Why:* You decide last, after you have asked the questions and looked at the evidence.
-15. (label) Here is a forwarded message: 'Doctors say eating three bananas a day makes you taller. My cousin tried it! Forward to everyone.' Label the part with no named source, the part that is only one person's story, and the part that rushes you.  
+15. (order) Put the steps of finding an answer in a book in order.  
+   **Answer:** ['Find a book written by someone who studied the thing', 'Check who wrote the book and how they know', 'Read the part that answers your question', 'Compare it with a second trusted source', 'Write the answer, and name the book it came from']. *Why:* First pick a good source. Check it before you trust it. Read the answer, then check it against a second source. Last, write the answer with its source, so someone else can check it.
+16. (label) Here is a forwarded message: 'Doctors say eating three bananas a day makes you taller. My cousin tried it! Forward to everyone.' Label the part with no named source, the part that is only one person's story, and the part that rushes you.  
    **Answer:** No named source: 'Doctors say'. Only one person's story: 'My cousin tried it'. Rushes you: 'Forward to everyone'.. *Why:* A strong answer finds all three parts and says why each one is a warning sign.
 ### Hits, Misses and Missing People (stretch) (stretch, 15 questions)
 1. (write) In the story Paati's Crow, Paati said a crow calling means a guest is coming. What result in a tally would make you think the saying might be true?  
@@ -521,7 +525,7 @@ The next morning the crow called on the balcony rail, kaa, kaa. Arun looked at M
 4. (write) Name one claim about your home that you can check today by looking, and one that you cannot check by looking. How would you check the first one?  
    **Answer:** A strong answer gives a claim that can be seen or counted, such as the number of windows, and says exactly what to do. For the second, it names something nobody can see, such as what someone feels or what happened long ago.. *Why:* Some claims can be checked by looking and some need another kind of source.
 5. (mcq) A horse seems to answer sums by tapping his hoof. He gets them right when the people watching know the answer, and wrong when nobody watching knows it. What is the horse really doing?  
-   Options: Doing the sums in his head / Reading tiny signs from the people watching him / Not trying / Reading numbers on paper  
+   Options: Doing the sums in his head / Not trying / Reading numbers on paper / Reading tiny signs from the people watching him  
    **Answer:** Reading tiny signs from the people watching him. *Why:* If the horse did the sums, it would not matter who knew the answer. He was reading faces and bodies, which is a real skill of its own.
 6. (sort) Sort each source: did they see or measure it themselves, or did they hear it from someone else?  
    **Answer:** A doctor who looked at your throat → Saw or measured; A cousin who read a message → Heard from someone; The weather office's rain gauge → Saw or measured; A friend whose friend was there → Heard from someone; Your tally from this morning → Saw or measured; A message that says 'scientists say' → Heard from someone. *Why:* A source who saw or measured it is closer to what happened. Every time a claim is passed on, it can change.
@@ -549,14 +553,14 @@ The next morning the crow called on the balcony rail, kaa, kaa. Arun looked at M
 1. (write) Plan a test of a saying from your own family, such as 'an itchy palm means money is coming'. What will you write down every day, and why must you decide the rules first?  
    **Answer:** Write down every day whether the sign happened and whether the result came. Decide the rules first, because if you decide afterwards it is easy to count things that fit the saying.. *Why:* A strong plan records every day, names the rules, and has days with and without the sign.
 2. (mcq) In one Sure or Right? test, a family gave 12 'very sure' answers, and 3 were wrong. They gave 10 'just guessing' answers, and 5 were wrong. What is the fairest conclusion?  
-   Options: Being sure is useless / Very sure answers were right more often than guesses, but some were still wrong / Guessing is better than being sure / The test was unfair  
+   Options: Being sure is useless / Guessing is better than being sure / The test was unfair / Very sure answers were right more often than guesses, but some were still wrong  
    **Answer:** Very sure answers were right more often than guesses, but some were still wrong. *Why:* 9 of 12 very sure answers were right, and 5 of 10 guesses were right. So being sure often goes with being right, but it is not proof.
 3. (perspective) In 1903 and 1904, many scientists said they saw N-rays. Then Robert Wood secretly took away the prism, and showed that the rays were not there. Three people talk about this story.  
    **Answer:** A strong answer sees that all three have a point. Scientists can be fooled, and science also has ways to catch it, if someone tests in a way that could fail.. *Why:* Real stories can teach more than one lesson. Marks go for reasons and for being fair to the other views.
 4. (write) Karl Popper said a claim is scientific if a test could show it is wrong. Is 'A crow calling brings a guest' scientific by his idea? Is 'Everything happens for a reason'? Explain both.  
    **Answer:** The crow claim is, because a tally could show guests come no more often on crow days. 'Everything happens for a reason' is hard to test, because any result could be said to fit it.. *Why:* A strong answer says what result would show each claim wrong, or says that none could.
 5. (mcq) Some old remedies have been tested. Tu Youyou, a scientist in China, read about sweet wormwood in a book about 1,700 years old. Tests showed a substance in it treats malaria. What does this show?  
-   Options: All old remedies work / All old remedies are just stories / Old knowledge should be tested, and some of it passes / Only Chinese books are right  
+   Options: All old remedies work / Old knowledge should be tested, and some of it passes / All old remedies are just stories / Only Chinese books are right  
    **Answer:** Old knowledge should be tested, and some of it passes. *Why:* Some old knowledge is right and some is wrong. The fair thing is to test each one, not to decide in advance.
 6. (draw) Draw a cartoon in three boxes showing how a true message could turn false as it is passed on. Show who first saw what happened.  
    **Answer:** Three boxes: someone sees something and tells a friend, the friend passes it on with a change, and the last person tells a very different story.. *Why:* A strong cartoon shows the first person was there, and that each passing can change the message.
@@ -567,7 +571,7 @@ The next morning the crow called on the balcony rail, kaa, kaa. Arun looked at M
 9. (sort) Sort each statement: is it a claim you can check, or a feeling or a taste that belongs to a person?  
    **Answer:** Our flat has seven windows. → Claim you can check; Mango is the best fruit. → A person's feeling or taste; The milk packet says 'Toned'. → Claim you can check; Rainy days are the nicest days. → A person's feeling or taste; Water boils sooner with a lid on the pan. → Claim you can check; Pongal is my favourite festival. → A person's feeling or taste. *Why:* Some sentences can be checked by anyone. Others tell you about the person who said them, and only that person can answer.
 10. (mcq) In the Top-Spoon Test, after mixing, three spoonfuls had 20, 23 and 18 moong grains. Why are the numbers not all the same?  
-   Options: The test went wrong / Each spoonful is a small sample, and samples differ a little by chance / Moong grains change size / Only the first spoon counts  
+   Options: Each spoonful is a small sample, and samples differ a little by chance / The test went wrong / Moong grains change size / Only the first spoon counts  
    **Answer:** Each spoonful is a small sample, and samples differ a little by chance. *Why:* Even in a well-mixed jar, each spoonful takes a slightly different set of grains. That is why scientists take several samples and look at all of them.
 11. (write) A horse seemed to do sums by tapping his hoof. Tests showed he was really reading tiny signs from the people watching. Does that mean the horse was not clever? Explain your view.  
    **Answer:** A strong answer says the horse did not do sums, but he was very good at noticing tiny changes in people's faces and bodies, better than most humans. He was clever in a different way from the one people claimed.. *Why:* A good answer separates the claim that was wrong (he did sums) from what the horse really could do.
@@ -587,41 +591,44 @@ The next morning the crow called on the balcony rail, kaa, kaa. Arun looked at M
 
 ## Quiz
 1. (mcq) What is evidence?  
-   Options: Something a famous person says / Something you can see, count or measure that shows whether a claim is true / A claim that many people repeat / How sure someone feels  
+   Options: Something a famous person says / A claim that many people repeat / How sure someone feels / Something you can see, count or measure that shows whether a claim is true  
    **Answer:** Something you can see, count or measure that shows whether a claim is true. *Why:* Evidence is what you can look at or measure for yourself. A famous name, many voices or a sure feeling are not evidence.
 2. (mcq) In one flat, the grandfather is very sure there are six windows. The mother is very sure there are eight. What is the best way to find out?  
    Options: Believe the oldest person / Believe whoever sounds most sure / Walk round the flat and count the windows / Take a vote  
    **Answer:** Walk round the flat and count the windows. *Why:* Both of them are sure, so being sure cannot settle it. Counting the windows is evidence anyone can check.
 3. (mcq) A girl did the Sure or Right? test with her family. She found that 3 of their 'very sure' answers were wrong. What does this show?  
-   Options: Her family is careless / Feeling very sure does not always mean being right / Very sure answers are always wrong / The questions were unfair  
+   Options: Feeling very sure does not always mean being right / Her family is careless / Very sure answers are always wrong / The questions were unfair  
    **Answer:** Feeling very sure does not always mean being right. *Why:* Most very sure answers may be right, but not all. Feeling sure is a feeling. Only checking shows whether an answer is right.
 4. (mcq) A message says, 'NASA says the Earth will go dark for six days. Forward to everyone!' Which question should you ask first?  
-   Options: How many people have forwarded it? / Says who? Did NASA really say it? / Is the message long? / Is it in English?  
+   Options: How many people have forwarded it? / Is the message long? / Is it in English? / Says who? Did NASA really say it?  
    **Answer:** Says who? Did NASA really say it?. *Why:* The message names NASA, so check NASA's own website. A message like this once went round the world, and NASA had never said it.
 5. (mcq) A boy asked the five children in the front row of his class which sweet they like best. All five said jalebi. He says, 'Everyone in my class likes jalebi best.' What is the problem?  
-   Options: Jalebi is not a sweet / Five children from one row are few, and the rest of the class is missing / He should have asked grown-ups / Nothing, five is enough  
+   Options: Jalebi is not a sweet / He should have asked grown-ups / Nothing, five is enough / Five children from one row are few, and the rest of the class is missing  
    **Answer:** Five children from one row are few, and the rest of the class is missing. *Why:* He asked only five children from one row. The rest of the class is missing from his evidence.
 6. (mcq) A grandmother says a calling crow means a guest is coming. She feels the saying always comes true. Why might she feel that, even if it is not true?  
-   Options: Because crows can see guests coming / Because she remembered the days a guest came and forgot the days nobody came / Because guests only come when crows call / Because she counted every day  
+   Options: Because she remembered the days a guest came and forgot the days nobody came / Because crows can see guests coming / Because guests only come when crows call / Because she counted every day  
    **Answer:** Because she remembered the days a guest came and forgot the days nobody came. *Why:* A guest is easy to remember, and an ordinary day is easy to forget. Only a tally of every day, with or without a crow, shows whether the saying is true.
 7. (mcq) In the Top-Spoon Test, a spoonful from the top of the jar had only chana in it. But the jar also held moong at the bottom. Why was the spoonful wrong about the jar?  
    Options: The spoon was dirty / The sample came only from the top, so the moong was missing / Chana and moong look the same / One spoonful is always right  
    **Answer:** The sample came only from the top, so the moong was missing. *Why:* A sample tells you only about the part it came from. To learn about the whole jar, take samples from many places, or mix it first.
 8. (mcq) Which of these claims has been checked and found true?  
-   Options: A goldfish forgets everything after three seconds / Lightning never strikes the same place twice / An octopus has three hearts / A camel stores water in their hump  
+   Options: A goldfish forgets everything after three seconds / An octopus has three hearts / Lightning never strikes the same place twice / A camel stores water in their hump  
    **Answer:** An octopus has three hearts. *Why:* Scientists have looked inside octopuses and found three hearts. The other three are repeated often, but checking has shown them wrong.
 9. (mcq) In 1904, Prosper-René Blondlot said he could see invisible rays, called N-rays, with the help of a prism. Robert Wood secretly took the prism away while Blondlot was looking. Blondlot kept reading out the same numbers. What did this show?  
-   Options: N-rays can pass through anything / Blondlot was seeing what he expected, not real rays / The prism was broken / Wood was not a real scientist  
+   Options: Blondlot was seeing what he expected, not real rays / N-rays can pass through anything / The prism was broken / Wood was not a real scientist  
    **Answer:** Blondlot was seeing what he expected, not real rays. *Why:* Without the prism, the rays could not have fallen where Blondlot said. He kept seeing them because he expected to. Wood's test could have shown the rays were real, and it showed they were not.
 10. (mcq) In 1903 and 1904, many scientists said they saw N-rays, which did not exist. Why were they fooled?  
-   Options: They expected to see them, and the signs were faint and hard to judge / N-rays were real but disappeared later / They did not have eyes / Wood paid them  
+   Options: N-rays were real but disappeared later / They did not have eyes / Wood paid them / They expected to see them, and the signs were faint and hard to judge  
    **Answer:** They expected to see them, and the signs were faint and hard to judge. *Why:* The rays were said to make a spark a tiny bit brighter, in a dark room. A change that small is easy to imagine when you expect it.
 11. (mcq) Who is usually the best source about whether it will rain in Madurai tomorrow?  
-   Options: A message forwarded many times / The weather office, which measures air and clouds every day / Someone who is very sure / A crow on the balcony  
+   Options: The weather office, which measures air and clouds every day / A message forwarded many times / Someone who is very sure / A crow on the balcony  
    **Answer:** The weather office, which measures air and clouds every day. *Why:* The weather office measures the air across India and checks how its forecasts turned out. That is how they know.
 12. (mcq) A girl says, 'If a claim sounds true and lots of people say it, it must be true.' What is wrong with this?  
    Options: Nothing, she is right / Many claims that sound true and are repeated often turn out wrong when checked / Claims that sound true are always false / Only children repeat claims  
    **Answer:** Many claims that sound true and are repeated often turn out wrong when checked. *Why:* Many people say that a goldfish forgets everything after three seconds, and that lightning never strikes the same place twice. Both are wrong. What makes a claim trustworthy is that someone checked it, in a way others can repeat.
+13. (mcq) You want to know where a bird goes in winter, but you cannot follow it yourself. What is the best next step?  
+   Options: Ask the first person you meet, who sounds very sure / Read a bird book by a bird scientist, and check who wrote it and how they know / Forward a message from a friend, because many people shared it  
+   **Answer:** Read a bird book by a bird scientist, and check who wrote it and how they know. *Why:* A book written by a scientist who studied birds is a source, and you can check how the writer knows. A sure voice or a forwarded message does not show how anyone knows.
 
 ## Applications
 - Doctors ask who was in a medicine's tests before they give it to a child, a pregnant woman or an old person.
@@ -684,6 +691,11 @@ One Thing at a Time (sci.how-we-know.L3): Topic-level song for How we know L3
 - [Birla Science Centre](https://www.birlasciencecentre.org) · place · Hyderabad: A science museum and planetarium, with exhibits that let children see evidence with their own eyes.
 
 ## Things to buy
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in One True, One Made Up, The Shelf for Everyone. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in a1, c1. Get it before One True, One Made Up.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Sure or Right? The Family Check, The Shelf for Everyone. About ₹10 to ₹30. Any school ruler is fine. Used in e1, c1. Get it before Sure or Right? The Family Check.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in The Shelf for Everyone. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in c1. Get it before The Shelf for Everyone.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Top-Spoon Test: does one spoonful tell you about the whole jar?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e2. Get it before The Top-Spoon Test: does one spoonful tell you about the whole jar?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is evidence? → Something you can see, count or measure that shows whether a claim is true.

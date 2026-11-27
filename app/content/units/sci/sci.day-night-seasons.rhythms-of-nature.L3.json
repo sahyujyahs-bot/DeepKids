@@ -630,11 +630,11 @@
       "q": "When do fruit bats fly out of their trees to eat?",
       "options": [
        "Night",
+       "Dusk",
        "Dawn",
-       "Day",
-       "Dusk"
+       "Day"
       ],
-      "a": 3,
+      "a": 1,
       "why": "Fruit bats rest hanging in big trees all day and fly out at dusk to find fruit. They are nocturnal. 'Night' is close, because they eat all night, but they set out at dusk."
      }
     },
@@ -828,11 +828,11 @@
       "t": "mcq",
       "q": "What tells many birds it is time to migrate?",
       "options": [
-       "The days getting shorter",
        "A loud noise",
+       "The days getting shorter",
        "Other birds telling them"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Day length changes the same way every year, so it is a steady signal. 'Other birds telling them' is a fair idea, because birds often fly in flocks. But young birds of some kinds migrate alone, at the right time, without being shown."
      }
     },
@@ -1189,10 +1189,10 @@
       "q": "On most days, a child's temperature was lowest just after waking and highest in the late afternoon. What does this show?",
       "options": [
        "The thermometer is broken",
-       "The body warms and cools on a daily rhythm",
-       "The child had a fever every afternoon"
+       "The child had a fever every afternoon",
+       "The body warms and cools on a daily rhythm"
       ],
-      "a": 1,
+      "a": 2,
       "why": "In most people, the body is coolest in the early morning and warmest in the late afternoon or evening, by about half a degree. The body clock runs this rhythm. A fever is much bigger, usually above 38 °C. 'The thermometer is broken' is a fair doubt, which is why we measured on three days."
      },
      "parent": "Most people find their morning reading lowest and their late afternoon or evening reading highest, by about 0.3 to 0.6 °C. Underarm readings jump about more. If your numbers show no pattern, that is real data too. Talk about what could have made the readings jump."
@@ -1521,10 +1521,10 @@
       "q": "Why do different flowers open at different hours?",
       "options": [
        "The Sun reaches each flower at a different time",
-       "They take turns, to be fair",
-       "Each opens when their visitors, such as bees or moths, are about"
+       "Each opens when their visitors, such as bees or moths, are about",
+       "They take turns, to be fair"
       ],
-      "a": 2,
+      "a": 1,
       "why": "Flowers need visitors to carry their pollen. Bees fly by day, and many moths at night. A flower that opens when their visitors come wastes less scent and nectar. 'The Sun reaches each flower at a different time' is not right: in one garden, the Sun rises for every flower at once."
      },
      "adult": true
@@ -1669,11 +1669,11 @@
       "t": "mcq",
       "q": "All three animals travel at the same time every year. What does that suggest?",
       "options": [
-       "Each one has a signal or clock that repeats every year",
        "They copy each other",
+       "Each one has a signal or clock that repeats every year",
        "They follow the traffic"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Falcons, swallows and butterflies are very different animals, so they cannot be copying each other. Something that repeats every year, such as the change in day length, sets their timing. 'Follow the traffic' is just a joke."
      }
     }
@@ -1803,10 +1803,10 @@
       "q": "Why does the swallow fly back north in spring, when India still has food?",
       "options": [
        "The swallow forgot the way",
-       "India gets too crowded with crows",
-       "Long northern summer days give many hours to catch insects for the chicks"
+       "Long northern summer days give many hours to catch insects for the chicks",
+       "India gets too crowded with crows"
       ],
-      "a": 2,
+      "a": 1,
       "why": "In the far north, summer days are very long and insects are everywhere. Parents can feed chicks for many hours a day. 'Too crowded' is a guess that scientists have not shown."
      }
     }
@@ -1891,11 +1891,11 @@
       "t": "mcq",
       "q": "Over four weeks, the streetlights came on a little earlier each week. What does this tell you?",
       "options": [
-       "The days are getting shorter",
        "The streetlights are broken",
+       "The days are getting shorter",
        "The Sun is getting smaller"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Streetlights switch on when it gets dark. If that happens earlier, sunset is earlier and the days are getting shorter. This is the same change birds and plants read. 'The streetlights are broken' is a fair doubt, so check the sunset time in a newspaper or on a phone too."
      }
     }
@@ -2092,12 +2092,12 @@
    "t": "mcq",
    "p": "A bean plant is kept in a dark box overnight. In the morning, before any light is let in, what will you most likely see?",
    "opts": [
+    "The leaves held out flat again",
     "The leaves still hanging down",
     "No leaves at all",
-    "The leaves held out flat again",
     "The leaves fallen off"
    ],
-   "a": 2,
+   "a": 0,
    "why": "The plant's body clock lifts the leaves in the morning, even in the dark. 'The leaves still hanging down' is the most common guess, because it seems the dark should keep the leaves down.",
    "outcome": 1
   },
@@ -2106,11 +2106,11 @@
    "p": "What resets a body clock each day?",
    "opts": [
     "Eating sweets",
-    "Morning light",
     "Loud noises",
+    "Morning light",
     "Rain"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Light in the morning sets the body clock right, so it does not drift. This is why jet lag wears off after a few days of daylight in a new place.",
    "outcome": 2
   },
@@ -2118,12 +2118,12 @@
    "t": "mcq",
    "p": "Why do many flowers open only at a certain time of day?",
    "opts": [
-    "To rest their petals",
     "To be open when their pollinators visit",
+    "To rest their petals",
     "To hide from the rain",
     "Because the Sun tells each flower separately"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Flowers need visitors such as bees and moths to carry pollen. Opening when the visitors come saves scent and nectar.",
    "outcome": 3
   },
@@ -2131,12 +2131,12 @@
    "t": "mcq",
    "p": "Why do many small birds leave the far north in autumn?",
    "opts": [
-    "Food such as insects runs out in winter",
     "They are bored of the north",
+    "Food such as insects runs out in winter",
     "Their feathers fall out",
     "The north gets too bright"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A small bird must eat many times a day. In winter, lakes freeze and insects vanish, so the birds fly to places like India where there is food.",
    "outcome": 4
   },
@@ -2171,11 +2171,11 @@
    "p": "What do scientists still not agree on?",
    "opts": [
     "Whether plants have body clocks",
-    "Why some leaves droop at night",
     "Whether birds migrate",
-    "Whether the Earth spins"
+    "Whether the Earth spins",
+    "Why some leaves droop at night"
    ],
-   "a": 1,
+   "a": 3,
    "why": "Scientists agree that leaves move and that plants have clocks. Why the drooping helps is still argued: keeping warm, keeping moonlight off, or staying dry.",
    "outcome": 6
   },
@@ -2185,10 +2185,10 @@
    "opts": [
     "Louder birds",
     "Hotter days",
-    "The nights getting longer",
-    "More rain"
+    "More rain",
+    "The nights getting longer"
    ],
-   "a": 2,
+   "a": 3,
    "why": "Sevanthi, the chrysanthemum, flowers when the nights grow long. This use of day length is called photoperiodism.",
    "outcome": 0
   },
@@ -2198,10 +2198,10 @@
    "opts": [
     "It forgets the day",
     "It counts in weeks",
-    "It stops every night",
-    "It runs a little faster or slower than 24 hours"
+    "It runs a little faster or slower than 24 hours",
+    "It stops every night"
    ],
-   "a": 3,
+   "a": 2,
    "why": "A body clock runs close to 24 hours, but not exactly. Without light to reset it, the small difference adds up each day.",
    "outcome": 2
   },
@@ -2209,12 +2209,12 @@
    "t": "mcq",
    "p": "Why does a bean plant gain from lifting their leaves before sunrise?",
    "opts": [
+    "They are ready to make food with the first light",
     "It helps the roots drink",
     "It makes the plant taller",
-    "It keeps insects away",
-    "They are ready to make food with the first light"
+    "It keeps insects away"
    ],
-   "a": 3,
+   "a": 0,
    "why": "Plants make food from light. A plant that is ready before the light comes wastes none of the morning.",
    "outcome": 3
   },
@@ -2223,11 +2223,11 @@
    "p": "Some falcons fly from cold eastern Asia to spend the winter in warm southern Africa, across a wide sea. On the way, they stop for weeks in north-east India. Why do they stop?",
    "opts": [
     "To sleep through the winter",
-    "To rest and eat plenty before the long flight across the sea",
     "Because they have reached the South Pole",
-    "To build nests for their chicks"
+    "To build nests for their chicks",
+    "To rest and eat plenty before the long flight across the sea"
    ],
-   "a": 1,
+   "a": 3,
    "why": "Over the open sea there is nowhere to land or feed, so migrating birds must eat plenty first. Amur falcons do this in Nagaland, then cross the Arabian Sea.",
    "outcome": 4
   }
@@ -2338,11 +2338,11 @@
      "p": "Barn swallows sit on the electric wires in Chennai in January. Where are they most likely to be in June?",
      "opts": [
       "In the sea",
-      "Asleep in mud under a lake",
       "Far to the north, raising chicks",
+      "Asleep in mud under a lake",
       "Still on the same wire"
      ],
-     "a": 2,
+     "a": 1,
      "why": "Barn swallows spend the winter in India and fly north in spring to nest. 'Asleep in mud' was what people believed for centuries, until the evidence showed it was wrong."
     },
     {
@@ -2458,12 +2458,12 @@
      "t": "mcq",
      "p": "A bean plant is put in a dark cupboard for two days. The leaves still lift each morning and droop each night. What sets the timing?",
      "opts": [
+      "A body clock inside the plant",
       "The noise of the morning",
       "The plant's roots seeing the soil",
-      "A body clock inside the plant",
       "The cupboard door"
      ],
-     "a": 2,
+     "a": 0,
      "why": "No light reached the plant, so the timing came from inside them, from their body clock. A strong answer adds that the days on the windowsill had set that clock before.",
      "how": "e1"
     },
@@ -2541,12 +2541,12 @@
      "t": "mcq",
      "p": "Day length changes very little across the year in Kerala. Which signal would help a Kerala plant time flowering?",
      "opts": [
-      "The change in day length",
       "The arrival of the monsoon rains",
+      "The change in day length",
       "The noise of crows",
       "The colour of the sky"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Where day length hardly changes, it is a weak signal. Near the equator, many living things use the rains more than day length."
     },
     {
@@ -2718,11 +2718,11 @@
      "p": "A grandmother says, 'The winged termites come out after the first big rain.' This year the rain came a month late. When did the winged termites most likely come?",
      "opts": [
       "On the same date as last year",
-      "Before the rain, as a warning",
       "After the late rain",
+      "Before the rain, as a warning",
       "Not at all this year"
      ],
-     "a": 2,
+     "a": 1,
      "why": "Winged termites fly out after heavy rain softens the ground. So they follow the rain, not the date. Signs set by day length come on nearly the same date each year. Signs set by rain move with the rain."
     },
     {
@@ -2746,10 +2746,10 @@
      "opts": [
       "The Moon pulls the eggs up to the surface",
       "Fish cannot see in moonlight",
-      "The moonlight warms the eggs",
-      "Eggs and sperm from many corals meet in the water at once"
+      "Eggs and sperm from many corals meet in the water at once",
+      "The moonlight warms the eggs"
      ],
-     "a": 3,
+     "a": 2,
      "why": "Corals cannot move to find each other. If they all release at once, their eggs and sperm meet. The Moon is a clock they share. 'The Moon pulls the eggs up' mixes this up with tides."
     },
     {
@@ -2815,10 +2815,10 @@
      "opts": [
       "It showed spears can fly",
       "It showed storks fight",
-      "It showed the stork had been in Africa and flown back",
-      "It showed storks like Africa better"
+      "It showed storks like Africa better",
+      "It showed the stork had been in Africa and flown back"
      ],
-     "a": 2,
+     "a": 3,
      "why": "The spear was African, so the stork must have been in Africa. That ruled out the old idea that birds slept in mud all winter. One clear piece of evidence can overturn a belief held for centuries."
     },
     {
@@ -3192,6 +3192,43 @@
    "used_in": [
     "e2"
    ]
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Sleeping Bean Leaves: do they need to see the morning?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before Sleeping Bean Leaves: do they need to see the morning?."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in Sleeping Bean Leaves: do they need to see the morning?. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before Sleeping Bean Leaves: do they need to see the morning?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

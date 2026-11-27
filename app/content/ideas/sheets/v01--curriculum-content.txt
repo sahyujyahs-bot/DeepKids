@@ -1,0 +1,4 @@
+# DeepKids V0.1 / Curriculum Content (copied from Google Sheets, 2026-11-27)
+R2:  | Coulours | https://www.sciencelearn.org.nz/resources/47-colours-of-light
+R3:  |  | https://www.amnh.org/explore/ology/physics/see-the-light2/the-color-of-light
+R4:  | Light | https://ophysics.com/l1.html

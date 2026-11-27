@@ -50,6 +50,12 @@
    "meaning": "A call is a short sound a bird makes to send a message. A song is a longer string of sounds.",
    "example": "A crow calls 'kaa' to other crows. A koel sings 'ku-oo, ku-oo', louder and louder.",
    "art": "A crow with a short sound line and a koel with a long wavy sound line coming from the beaks."
+  },
+  {
+   "term": "Preening",
+   "meaning": "Preening is when a bird cleans and oils their feathers with their beak. The oil keeps the feathers tidy and helps them shed water.",
+   "example": "A crow on your balcony rail runs each wing feather through her beak, one by one, after the rain.",
+   "art": "A crow on a railing pulling a wing feather through her beak."
   }
  ],
  "explanations": [
@@ -99,15 +105,17 @@
    "concept": "Nests are for eggs and chicks",
    "status": "defined",
    "definition": "A bird builds a nest to keep the eggs and chicks safe and warm.",
-   "description": "Most birds do not live in a nest all year. They build one when it is time to lay eggs. Each kind of bird builds in their own way. A crow uses sticks, and in cities sometimes wire. A tailorbird stitches two leaves together with thread from plants or spider silk. A pigeon makes a small pile of twigs on a ledge.",
+   "description": "Most birds do not live in a nest all year. They build one when it is time to lay eggs. Each kind of bird builds in their own way. A crow uses sticks, and in cities sometimes wire. A tailorbird stitches two leaves together with thread from plants or spider silk. A pigeon makes a small pile of twigs on a ledge. A baya weaver weaves a nest from long strips of grass. The nest hangs like a bag from a thin branch, often over water, where a snake cannot easily reach it. A woodpecker uses her strong beak to chisel a hole in a tree trunk. She lays her eggs inside, in the safe dark.",
    "examples": [
     "A crow's nest of sticks sits high in a tree.",
     "A tailorbird's nest hides inside two leaves stitched together.",
-    "A red-wattled lapwing lays her eggs on bare ground, and sometimes on a flat roof."
+    "A red-wattled lapwing lays her eggs on bare ground, and sometimes on a flat roof.",
+    "A baya weaver's nest hangs from a thin branch like a woven grass bag.",
+    "A woodpecker's nest is a round hole chiselled into a tree trunk."
    ],
    "perspectives": [],
    "context": "This card says why birds build nests, and how different birds build them.",
-   "art": "Three nests: a crow's stick nest in a tree, a tailorbird's leaf cone, and a pigeon's few twigs on a window ledge."
+   "art": "Five nests: a crow's stick nest in a tree, a tailorbird's leaf cone, a pigeon's few twigs on a window ledge, a baya weaver's hanging grass bag, and a woodpecker's round hole in a tree trunk."
   },
   {
    "concept": "Bird calls are messages",
@@ -135,7 +143,7 @@
    "concept": "Feeding birds safely",
    "status": "defined",
    "definition": "Birds need clean water every day, and the right food if we feed them.",
-   "description": "In an Indian summer, city birds can find it hard to get water. A shallow bowl of clean water helps them drink and bathe. Change the water every day, so mosquitoes cannot breed in it. If you put out food, give grains, plain cooked rice or cut fruit. Never give salty, spicy, sugary or fried food.",
+   "description": "In an Indian summer, city birds can find it hard to get water. A shallow bowl of clean water helps them drink and bathe. Change the water every day, so mosquitoes cannot breed in it. If you put out food, give grains, plain cooked rice or cut fruit. Never give salty, spicy, sugary or fried food. A simple bird bath is a shallow dish, about a finger deep. Put a flat stone in the middle, so small birds can stand and drink. Set it in a shady place, away from where a cat can jump.",
    "examples": [
     "A clay bowl of water on a balcony in May.",
     "A pinch of broken rice or millet on a ledge.",
@@ -422,11 +430,11 @@
       "t": "mcq",
       "q": "What do all the cards on the BIRD sheet have?",
       "options": [
-       "Feathers",
        "Fur",
+       "Feathers",
        "Teeth"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Every bird has feathers, even a hen who can hardly fly, and an ostrich and a penguin who cannot fly at all. A bat has fur, so a bat is not a bird."
      }
     }
@@ -1029,6 +1037,81 @@
      "wait": "Come back tomorrow"
     }
    ]
+  },
+  {
+   "id": "a4",
+   "title": "Build a Nest: with what a bird can find",
+   "mins": 20,
+   "days": 1,
+   "context": "In this activity you build a nest from things you can find outside, as a bird does. Then you test if it can hold two small eggs. You will find out why birds need soft, strong materials to make a nest.",
+   "materials": [
+    {
+     "item": "dry grass, small twigs, thin dry leaves, coconut fibre or old cotton thread (collect what has already fallen on the ground)",
+     "qty": 1
+    },
+    {
+     "item": "2 small stones or 2 chana as eggs",
+     "qty": 1
+    },
+    {
+     "item": "a clothes peg, to be the bird's beak",
+     "qty": 1
+    }
+   ],
+   "safety": "Only pick up what is already lying on the ground. Never take anything from a real nest, and never go near a nest with eggs or chicks.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 20,
+     "what": "Collect nest materials. Build a nest using only the peg as a beak. Test it with two eggs."
+    }
+   ],
+   "record": "Take a photo of your nest with the two eggs inside. Tell your grown-up which material was hardest to use.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 6,
+     "do": "Go outside with your child. Collect grass, twigs, leaves and fibre that have already fallen. A bird has no hands, so collect them in a pile.",
+     "say": "A bird must find all her nest materials. What can we find here?",
+     "kid": "Collect things from the ground. Choose soft things and strong things."
+    },
+    {
+     "id": "s2",
+     "mins": 9,
+     "do": "Your child holds the peg like a beak and builds the nest with it, not with fingers. Twigs go first, to make a ring. Then grass and fibre go inside, to make a soft cup.",
+     "say": "A bird builds with her beak only. Which things go on the outside? Which go inside?",
+     "kid": "Build a ring of twigs. Make a soft cup inside. Use only the peg.",
+     "parent": "A bird can take hours or days to build a nest. If it falls apart, that is a real result. Try again with the grass woven in."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "Put two eggs in the nest. Tip it gently. See if the eggs stay in.",
+     "say": "Will the eggs stay in? What would make the nest stronger?",
+     "kid": "Put in the eggs. Tip the nest a little.",
+     "check": {
+      "t": "mcq",
+      "q": "Why does a bird put soft grass and fluff inside the nest?",
+      "options": [
+       "To keep the eggs and chicks warm and soft",
+       "To make the nest heavier",
+       "To hide the nest from the sun"
+      ],
+      "a": 0,
+      "why": "A soft lining keeps the eggs from cracking and holds warmth next to the eggs and chicks. The sticks outside make the nest strong."
+     }
+    }
+   ],
+   "setup": [
+    {
+     "art": "A girl picking up dry grass and twigs from the ground under a tree in a park.",
+     "caption": "1. Collect what has fallen on the ground."
+    },
+    {
+     "art": "A boy holding a clothes peg like a beak, building a small nest of twigs and grass on a mat.",
+     "caption": "2. Build the nest with the peg as your beak."
+    }
+   ]
   }
  ],
  "projects": [
@@ -1052,7 +1135,7 @@
     {
      "day": 1,
      "mins": 10,
-     "what": "Make the book. Watch from a window for 5 minutes. Draw the first bird, or tell its colours and your grown-up writes them."
+     "what": "Make the book. Watch from a window for 5 minutes. Draw the first bird, or tell its colours and your grown-up writes them. Write the colours of the head, back, wing and throat."
     },
     {
      "day": 2,
@@ -1062,7 +1145,7 @@
     {
      "day": 3,
      "mins": 5,
-     "what": "Watch for 5 minutes. Act out what a bird was doing: eating, calling, flying or resting. Your grown-up writes it on the page."
+     "what": "Watch for 5 minutes. Act out what a bird was doing: eating, calling, flying or resting. Your grown-up writes it on the page. Also write how the bird moves (hops, walks or flies) and where the bird sits."
     },
     {
      "day": 4,
@@ -1090,7 +1173,7 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "1. Fold the book. A grown-up staples it. 2. Write the title together. 3. Watch from a window for 5 minutes. 4. Your child draws the first bird, or says its colours while you write them.",
+     "do": "1. Fold the book. A grown-up staples it. 2. Write the title together. 3. Watch from a window for 5 minutes. 4. Your child draws the first bird, or says its colours while you write them. 5. Look at the bird's head, back, wing and throat. Write the colour of each.",
      "say": "This book will hold the birds you see and hear from our window. Look out. Which bird can you see?",
      "kid": "Watch the window. Draw the first bird, or tell your grown-up its colours.",
      "parent": "If you see no bird, draw one you heard, or a bird you have seen before from this window. Crows and pigeons are nearly always about."
@@ -1098,7 +1181,7 @@
     {
      "id": "s2",
      "mins": 15,
-     "do": "1. Day 2: watch for 5 minutes. Ask if the beak is short and thick, long and thin, or hooked. Write the answer on the page. 2. Day 3: watch for 5 minutes. Your child acts out what a bird was doing. Write it on the page. 3. Day 4: listen with eyes closed for 5 minutes. Write how many different bird sounds your child heard.",
+     "do": "1. Day 2: watch for 5 minutes. Ask if the beak is short and thick, long and thin, or hooked. Write the answer on the page. 2. Day 3: watch for 5 minutes. Your child acts out what a bird was doing. Write it on the page. 3. Day 4: listen with eyes closed for 5 minutes. Write how many different bird sounds your child heard. Also on day 3, ask how the bird moves (hops, walks or flies) and where the bird sits: a wire, a branch, a wall or the ground.",
      "say": "Today's page needs one bird. Watch closely for 5 minutes.",
      "kid": "Watch or listen. Tell your grown-up what to write on your page.",
      "ask": [
@@ -1273,11 +1356,11 @@
      "t": "mcq",
      "p": "A bird sitting on her nest hears another bird's danger call. Why does she press down flat and stay still?",
      "opts": [
-      "To hide from the danger",
       "She is sleepy",
+      "To hide from the danger",
       "She is looking for food"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The danger call warns that a cat or other hunter is near. Pressing flat and staying still makes her hard to see."
     },
     {
@@ -1329,6 +1412,32 @@
      "a": "pairs as given",
      "why": "Crows pile up sticks, tailorbirds stitch leaves, and pigeons make a small, loose pile of twigs.",
      "art": "A crow, a tailorbird and a pigeon on the left, and three nests on the right."
+    },
+    {
+     "t": "fill",
+     "p": "A woodpecker chisels a round hole in a tree ________ to make a safe place for her eggs.",
+     "a": "trunk",
+     "why": "A woodpecker's strong beak can cut wood. The hole is a safe, dark nest.",
+     "art": "A woodpecker on a tree trunk next to a round hole."
+    },
+    {
+     "t": "label",
+     "p": "Look at a bird, or at a picture of a bird. Write the colour of each part.",
+     "labels": [
+      "head",
+      "back",
+      "wing",
+      "throat"
+     ],
+     "a": [
+      "head: a colour",
+      "back: a colour",
+      "wing: a colour",
+      "throat: a colour"
+     ],
+     "why": "Colours of the head, back, wing and throat help you tell one kind of bird from another. The throat is the front of the neck, under the beak.",
+     "how": "p1",
+     "art": "A bird drawn from the side with four lines pointing to the head, back, wing and throat, each with an empty line."
     },
     {
      "t": "write",
@@ -1385,11 +1494,11 @@
      "t": "mcq",
      "p": "Juice is at the bottom of a tall, thin bottle. Why can a straw reach it when a spoon cannot?",
      "opts": [
-      "The straw is long and thin",
       "The straw is red",
-      "The straw is soft"
+      "The straw is soft",
+      "The straw is long and thin"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A long, thin straw reaches deep into the bottle, as a sunbird's long, thin beak reaches deep into a flower.",
      "how": "a2"
     },
@@ -1493,6 +1602,33 @@
      "lines": 3,
      "a": "A strong answer picks a side with a reason. For the older sister: the grain helps the birds. For the younger sister: too many pigeons push other birds away, and the droppings can make people ill. Then the child is fair to the other side.",
      "why": "This is a real argument. Feeding helps some birds, but feeding a lot in one place can bring huge flocks of one kind. Water in summer helps every kind of bird."
+    },
+    {
+     "t": "truefalse",
+     "p": "A deep bucket of water is the best bath for small birds.",
+     "a": false,
+     "why": "False. A small bird can drown in deep water. A shallow dish with a flat stone to stand on is safe."
+    },
+    {
+     "t": "match",
+     "p": "Draw a line from each bird to how she makes her nest.",
+     "pairs": [
+      [
+       "Baya weaver",
+       "Weaves strips of grass into a hanging bag"
+      ],
+      [
+       "Woodpecker",
+       "Chisels a hole in a tree trunk"
+      ],
+      [
+       "Tailorbird",
+       "Stitches two leaves together"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each kind of bird builds in her own way, with her beak and what she can find.",
+     "art": "A weaver, a woodpecker and a tailorbird on the left, and three nests on the right."
     }
    ]
   }
@@ -1528,11 +1664,11 @@
    "t": "mcq",
    "p": "What does every bird have?",
    "opts": [
-    "Feathers",
     "Fur",
+    "Feathers",
     "Teeth"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Every bird has feathers. Birds have no teeth, and fur belongs to animals like cats and bats.",
    "outcome": 0
   },
@@ -1541,10 +1677,10 @@
    "p": "A bat can fly. Is a bat a bird?",
    "opts": [
     "Yes, because a bat flies",
-    "No, because a bat has no feathers",
-    "Only at night"
+    "Only at night",
+    "No, because a bat has no feathers"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A bat has fur, not feathers. Flying does not make an animal a bird.",
    "outcome": 0
   },
@@ -1552,11 +1688,11 @@
    "t": "mcq",
    "p": "What do soft, fluffy feathers do for a bird?",
    "opts": [
-    "Keep the bird warm",
     "Help the bird see",
-    "Help the bird eat"
+    "Help the bird eat",
+    "Keep the bird warm"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Fluffy feathers hold warm air close to the skin, like a blanket.",
    "outcome": 1
   },
@@ -1564,11 +1700,11 @@
    "t": "mcq",
    "p": "A sparrow has a short, thick beak. What does a sparrow mostly eat?",
    "opts": [
-    "Fish",
     "Seeds and grains",
+    "Fish",
     "Nectar from flowers"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A short, thick beak is strong enough to crack seeds and grains.",
    "outcome": 2
   },
@@ -1600,11 +1736,11 @@
    "t": "mcq",
    "p": "You drop one bean into a cup each time you hear a bird call. What does one bean stand for?",
    "opts": [
-    "One bird",
     "One bird call",
+    "One bird",
     "One minute"
    ],
-   "a": 1,
+   "a": 0,
    "why": "One bean drops for every call. So more beans means more calls.",
    "outcome": 4,
    "how": "e1"
@@ -1637,13 +1773,73 @@
    "t": "mcq",
    "p": "Why should you change the water in a bird bowl every day?",
    "opts": [
-    "So it stays clean and mosquitoes cannot breed",
     "So it stays cold",
+    "So it stays clean and mosquitoes cannot breed",
     "So the bowl looks shiny"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Old water gets dirty, and mosquitoes can lay eggs in still water left for days.",
    "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "A baya weaver's nest hangs from a thin branch like a bag. What is the nest made from?",
+   "opts": [
+    "A hole chiselled in a tree",
+    "Mud and a few twigs on a ledge",
+    "Long strips of grass, woven"
+   ],
+   "a": 2,
+   "why": "The baya weaver weaves long strips of grass into a hanging nest. A woodpecker chisels a hole in a tree, and a pigeon piles twigs on a ledge.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "A woodpecker lays her eggs inside a round hole in a tree trunk. How did the hole get there?",
+   "opts": [
+    "A snake made it",
+    "It grew there by itself",
+    "She chiselled it with her strong beak"
+   ],
+   "a": 2,
+   "why": "A woodpecker has a strong beak and chisels a hole in the wood. The hole keeps her eggs safe in the dark.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "You build a nest with only a clothes peg, as a bird uses her beak. Which job is hardest for the bird?",
+   "opts": [
+    "Carrying and fitting each twig and blade of grass, one at a time",
+    "Looking at the nest",
+    "Sitting in the nest"
+   ],
+   "a": 0,
+   "why": "A bird has no hands. She carries and weaves every piece with her beak, one at a time. That is why a nest takes many trips and hours.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "You make a bird bath for sparrows. Which one is best?",
+   "opts": [
+    "A deep bucket of water in the sun",
+    "A dish of water on the ground next to a cat",
+    "A shallow dish with a flat stone in the middle, in the shade"
+   ],
+   "a": 2,
+   "why": "Small birds stand on the stone and drink, and a shallow dish is safe. Shade keeps the water cool. Cats can jump on a bird on the ground.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "Rani watches a myna. Which note in her bird diary will help her know the same bird tomorrow?",
+   "opts": [
+    "A nice bird",
+    "Yellow beak and legs, brown back, black head, hops on the ground",
+    "A bird in the tree"
+   ],
+   "a": 1,
+   "why": "A good note says the colours of the head, back, beak and legs, and how the bird moves. Notes like 'a nice bird' fit every bird.",
+   "outcome": 4
   }
  ],
  "applications": [
@@ -1801,7 +1997,56 @@
    "why": "A famous wetland with hundreds of kinds of birds."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-a-magnifying-glass",
+   "item": "A magnifying glass",
+   "kind": "tool",
+   "why": "Used in A Feather Up Close: unzip it and zip it back. About ₹30 to ₹120. A water drop on clear plastic magnifies a little.",
+   "url": "https://www.amazon.in/s?k=magnifying+glass+kids",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Get it before A Feather Up Close: unzip it and zip it back."
+  },
+  {
+   "id": "b-modelling-clay-or-plasticine",
+   "item": "Modelling clay or plasticine",
+   "kind": "material",
+   "why": "Used in Bird Café: what is good for birds, and what is not?. About ₹40 to ₹120. Atta dough mixed with a little salt works.",
+   "url": "https://www.amazon.in/s?k=modelling+clay+plasticine",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before Bird Café: what is good for birds, and what is not?."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in A Bean for Every Call: when do birds call most?, Stitch a Cradle Like a Tailorbird. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "e1",
+    "c1"
+   ],
+   "plan": "Get it before A Bean for Every Call: when do birds call most?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "What does every bird have?",
@@ -1854,6 +2099,7 @@
    "challenging",
    "c1",
    "p1",
+   "a4",
    "ws-stretch",
    "how_we_found_out",
    "videos",

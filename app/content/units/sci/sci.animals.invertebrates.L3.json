@@ -861,10 +861,10 @@
       "t": "mcq",
       "q": "Which mat does an earthworm go on?",
       "options": [
-       "BACKBONE",
-       "NO BACKBONE"
+       "NO BACKBONE",
+       "BACKBONE"
       ],
-      "a": 1,
+      "a": 0,
       "why": "An earthworm has no bones at all. They stay firm because they are full of liquid held tight by their muscles. Picking BACKBONE often happens because the worm is long and bendy, like a snake. But a snake has a backbone inside, and a worm has none."
      }
     },
@@ -1067,12 +1067,12 @@
       "t": "mcq",
       "q": "A secret animal lives on land. They have more than 6 legs, no feelers and 2 body parts. They have no tail with a sting. Which animal is it?",
       "options": [
-       "An ant",
        "A house spider",
+       "An ant",
        "A prawn",
        "An earthworm"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A house spider has 8 legs, 2 body parts and no feelers. A scorpion has those too, but a scorpion also has a long tail with a sting. Picking the ant usually means thinking every small crawling animal is an insect. But an ant has 6 legs and 3 body parts. A prawn has 10 legs and lives in water."
      }
     },
@@ -1095,11 +1095,11 @@
       "q": "Why do scientists count legs to sort small animals, and not use colour?",
       "options": [
        "Colour is too hard to see",
-       "Legs stay the same in a group, but colour can change",
        "Legs are more beautiful",
+       "Legs stay the same in a group, but colour can change",
        "Small animals have no colour"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Every adult insect has 6 legs and every spider has 8, whatever colour they are. Colours change a lot, even inside one species. Picking 'too hard to see' is a fair worry, but the real reason is that leg number tells you the group."
      },
      "think": "A woodlouse has 14 legs. Which other animals on the cards do you think they are a cousin of?",
@@ -1120,11 +1120,11 @@
      "p": "Bend forward and run your fingers down the middle of your back. You feel a row of bumps. That is your backbone. What is a backbone made of?",
      "opts": [
       "One long stick of bone",
-      "A chain of many small bones, one on top of the next",
       "A hard shell",
+      "A chain of many small bones, one on top of the next",
       "Only muscle"
      ],
-     "a": 1,
+     "a": 2,
      "why": "A backbone is a chain of small bones called vertebrae. Each bump you feel is one of them. Because it is a chain, you can bend. Picking 'one long stick' would mean you could not bend your back at all.",
      "art": "A child's back with the bumps of the backbone drawn as small round bones."
     },
@@ -1232,12 +1232,12 @@
      "t": "mcq",
      "p": "A small animal on a balcony plant has 6 legs and a body in 3 parts. Which group does the animal belong to?",
      "opts": [
-      "Insects",
       "Arachnids, like spiders",
+      "Insects",
       "Crabs and prawns",
       "Centipedes"
      ],
-     "a": 0,
+     "a": 1,
      "why": "6 legs and 3 body parts, a head, a middle and a back end, means an insect. Ants, ladybirds and aphids on plants are all insects. Spiders have 8 legs, and crabs have 10."
     },
     {
@@ -1245,35 +1245,35 @@
      "p": "Many people call spiders insects. A spider has 8 legs, 2 body parts and no feelers. Is a spider an insect?",
      "opts": [
       "Yes, all small crawling animals are insects.",
-      "No. A spider is an arachnid.",
       "Yes, because spiders eat insects.",
+      "No. A spider is an arachnid.",
       "No. A spider is a kind of crab."
      ],
-     "a": 1,
+     "a": 2,
      "why": "Insects have 6 legs, 3 body parts and 2 feelers. Spiders have 8 legs, 2 body parts and no feelers. So spiders are arachnids, like scorpions and mites. Eating insects does not make you one."
     },
     {
      "t": "mcq",
      "p": "Why must a crab moult?",
      "opts": [
-      "To change colour",
       "Their armour cannot stretch, so they must climb out to grow",
+      "To change colour",
       "To cool down",
       "Because they are old"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Hard armour cannot grow. So a crab makes a new soft skin underneath, splits the old shell and climbs out. Picking 'because they are old' is a guess many people make, but young crabs moult most often, because they grow fastest."
     },
     {
      "t": "mcq",
      "p": "In the Water Bones experiment, you squeezed the bottles hard by hand. Which bottle did not give?",
      "opts": [
+      "The capped bottle with water",
       "The open, empty bottle",
       "The capped bottle with air",
-      "The capped bottle with water",
       "They all gave the same"
      ],
-     "a": 2,
+     "a": 0,
      "why": "The capped water bottle stayed hard. Water cannot be squeezed into less space, and the cap kept it in. The capped air bottle gave a little, because air can be squeezed. That is why a worm is full of liquid, not air. In the book test, both capped pairs held the books, so it is fair to guess the air bottle too. Only squeezing harder by hand showed that the air bottle gives a little.",
      "how": "e1",
      "context": "Remember the Water Bones experiment? You pressed down on pairs of plastic bottles: open and empty, capped with air, and capped with water. You used books, then sat on the board, then squeezed the capped bottles by hand."
@@ -1336,12 +1336,12 @@
      "t": "mcq",
      "p": "A slug looks like a snail with no shell. Which group are slugs in?",
      "opts": [
-      "Molluscs, like snails",
       "Insects",
+      "Molluscs, like snails",
       "Worms",
       "Arachnids"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Molluscs are soft-bodied animals, and many make a shell. Over a very long time, the slug's family lost most of their shell. Many slugs still have a tiny one hidden under their skin. Picking 'worms' is a fair guess from the shape, but a slug moves on one big foot, like a snail."
     },
     {
@@ -1349,11 +1349,11 @@
      "p": "An octopus has no shell, but they are still a mollusc. Which animal is their closest cousin?",
      "opts": [
       "A fish",
-      "A snail",
       "A crab",
-      "A jellyfish"
+      "A jellyfish",
+      "A snail"
      ],
-     "a": 1,
+     "a": 3,
      "why": "Octopuses and snails are both molluscs. Over millions of years, the octopus family lost the outside shell. Picking the fish is a common guess, because octopuses swim in the sea like fish. But fish have backbones."
     },
     {
@@ -1361,11 +1361,11 @@
      "p": "A woodlouse has 14 legs and lives under stones on land. Who are their closest cousins?",
      "opts": [
       "Insects like ants",
-      "Crabs and prawns",
       "Earthworms",
+      "Crabs and prawns",
       "Snails"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Woodlice are crustaceans, the group with crabs and prawns. They are one of the few crustaceans that live on land. Picking 'insects' is a natural guess, because they are small and live in the same places as ants."
     },
     {
@@ -1435,11 +1435,11 @@
      "p": "You stand paper columns made from the same paper under a board: round tubes, square tubes or zigzags. You add books until they crumple. Which shape would you expect to hold the most?",
      "opts": [
       "The zigzags",
-      "The round tubes",
       "The square tubes",
-      "All the same"
+      "All the same",
+      "The round tubes"
      ],
-     "a": 1,
+     "a": 3,
      "why": "A round tube spreads the weight evenly all the way round, so it is strong without being heavy. Square tubes bend at their corners, and zigzags fold up. Insect and crab legs are tubes of armour for the same reason.",
      "how": "e2",
      "context": "Paper columns of three shapes, round tubes, square tubes and zigzags, stand under a board, and books are added until they crumple.",
@@ -1471,12 +1471,12 @@
      "t": "mcq",
      "p": "In one family's Many Small Suckers test, one sucker held 3 cups of rice and four suckers held 11 cups. What does that show about a starfish's tube feet?",
      "opts": [
-      "Small grips add up to a strong hold",
       "Only one tube foot works at a time",
+      "Small grips add up to a strong hold",
       "Tube feet are made of rubber",
       "More suckers hold less"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Each tube foot grips only a little, but hundreds of them together hold very tightly. Picking 'only one at a time' would mean four suckers held the same as one, but they held much more.",
      "how": "e3",
      "context": "Remember the Many Small Suckers experiment? You hung a bag from rubber suckers on a tile and added cups of rice until they popped off."
@@ -1609,11 +1609,11 @@
      "p": "Many white stones, like marble, began as something alive. What?",
      "opts": [
       "Old trees",
-      "Shells and skeletons of sea animals, pressed into limestone",
       "Bird bones",
-      "Dinosaur eggs"
+      "Dinosaur eggs",
+      "Shells and skeletons of sea animals, pressed into limestone"
      ],
-     "a": 1,
+     "a": 3,
      "why": "Many sea animals build shells from calcium carbonate. Their remains pile up and turn into limestone. Limestone heated and squeezed underground can become marble. Picking 'old trees' mixes it up with coal, which formed from ancient plants."
     },
     {
@@ -1629,12 +1629,12 @@
      "t": "mcq",
      "p": "The biggest animals without backbones, like the giant squid, live in the sea, not on land. Which idea best explains this?",
      "opts": [
-      "The water holds up their heavy bodies.",
       "The sea has no hunters.",
+      "The water holds up their heavy bodies.",
       "Sea animals are older than land animals.",
       "Land is always too hot for them."
      ],
-     "a": 0,
+     "a": 1,
      "why": "In water, a heavy soft body is held up, so the animal does not need a strong frame. On land, a big soft body would sag, and armour would get too heavy. You saw the same thing in Jellyfish in a Bottle: the plastic bag jellyfish kept its shape in the water and flopped in the air."
     },
     {
@@ -1672,24 +1672,24 @@
      "t": "mcq",
      "p": "In 1668 Francesco Redi put meat in open jars and in jars covered with cloth. Maggots appeared only on the meat in the open jars. What did this show?",
      "opts": [
-      "Maggots grow from meat by themselves",
       "Maggots come from eggs laid by flies",
+      "Maggots grow from meat by themselves",
       "Cloth makes maggots",
       "Meat goes bad only in open jars"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Flies could reach only the open jars, and only those got maggots. So maggots hatch from fly eggs. Picking 'grow from meat by themselves' was the old idea his experiment ended."
     },
     {
      "t": "mcq",
      "p": "A key is a set of yes or no questions that leads you to an animal's group. Which question is best to add to a key, so that it separates a spider from a scorpion?",
      "opts": [
-      "Do they have 8 legs?",
       "Do they have a long tail with a sting?",
+      "Do they have 8 legs?",
       "Are they small?",
       "Do they live on land?"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Spiders and scorpions both have 8 legs and live on land, so those questions do not split them. A scorpion has a long tail with a sting and big pincers. Picking '8 legs' is a good question for finding arachnids, but it does not split these two."
     },
     {
@@ -1711,11 +1711,11 @@
      "p": "The octopus, a mollusc, and the fish, a vertebrate, both have eyes like cameras, with a lens. Their last shared ancestor had no such eyes. What does this tell us?",
      "opts": [
       "They copied each other",
-      "Camera-like eyes appeared separately on two branches of the animal tree",
       "Octopuses are fish",
+      "Camera-like eyes appeared separately on two branches of the animal tree",
       "All animals have the same eyes"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Octopus eyes and our eyes grew from different starts, but ended up working in a similar way. Scientists call this convergent evolution. Picking 'octopuses are fish' mixes up looking alike with being related."
     },
     {
@@ -1942,11 +1942,11 @@
       "q": "You squeeze a capped bottle of air and a capped bottle of water as hard as you can. What happens?",
       "options": [
        "Both give the same amount",
-       "The air bottle dents a little, but the water bottle stays hard",
        "The water bottle dents more",
+       "The air bottle dents a little, but the water bottle stays hard",
        "Neither bottle changes at all"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Air can be squeezed into less space, so the air bottle dents and springs back. Water cannot be squeezed into less space, so the water bottle stays hard. Picking 'both the same' is a fair guess after the book test, where both capped pairs held firm. The books were too light to show the difference."
      }
     },
@@ -1961,11 +1961,11 @@
       "q": "When you squeeze the middle of an open bottle of water, what happens?",
       "options": [
        "The water goes down",
-       "The water rises up the neck, because it has to go somewhere",
        "The water disappears",
+       "The water rises up the neck, because it has to go somewhere",
        "Nothing changes"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Water cannot be squeezed into less space. When you squeeze the middle, the water is pushed up the neck. With the cap on, it has nowhere to go, so the bottle stays hard. A worm's ring muscles squeeze their liquid the same way, and that part of the worm gets longer and pushes forward. Picking 'goes down' is a natural guess, because squeezing usually makes things smaller."
      }
     },
@@ -1980,11 +1980,11 @@
       "q": "In the made-up Water Bones chart, the open bottles have the tallest bar. What does that mean?",
       "options": [
        "They were the firmest",
-       "They sank the most, because nothing held their shape",
        "They were the heaviest",
-       "They had the most inside them"
+       "They had the most inside them",
+       "They sank the most, because nothing held their shape"
       ],
-      "a": 1,
+      "a": 3,
       "why": "The bar shows how far the board sank. The open bottles sank the most, because the air inside could escape as the walls folded. The capped pairs hardly sank. Picking 'firmest' usually means thinking a tall bar is always best. Here a tall bar means more sinking."
      },
      "chart": {
@@ -2174,12 +2174,12 @@
       "t": "mcq",
       "q": "In the made-up Armour Tubes chart, which shape is strongest?",
       "options": [
-       "The zigzag, because it has the most folds",
        "The round tube, because its bar is tallest",
+       "The zigzag, because it has the most folds",
        "They are all the same",
        "The square tube, because it has corners"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The round tubes held the most books in this example, so their bar is tallest. A round tube spreads the weight evenly all the way round. Picking the zigzag is a good guess, because folds do make paper stiffer, but a zigzag bends and falls sideways. Your own results may differ a little: write what you found."
      },
      "chart": {
@@ -2368,11 +2368,11 @@
       "q": "In the made-up Many Small Suckers chart, 4 suckers held about 4 times as much as 1 sucker. What does that tell us about a starfish?",
       "options": [
        "One big tube foot would be better",
-       "Hundreds of small tube feet together can grip very strongly",
        "Starfish do not need to grip",
-       "Suckers only work in air"
+       "Suckers only work in air",
+       "Hundreds of small tube feet together can grip very strongly"
       ],
-      "a": 1,
+      "a": 3,
       "why": "Each tube foot is weak by itself, but hundreds of them pulling together make a strong grip. That is how a starfish can pull open a clam shell. Picking 'one big tube foot' is a fair idea, but many small grips also let a starfish hold on to bumpy rocks, where one big sucker would not fit."
      },
      "chart": {
@@ -2648,10 +2648,10 @@
       "options": [
        "They are an insect",
        "They are a spider",
-       "The key does not have a place for them, so we need a new question",
-       "They are a worm"
+       "They are a worm",
+       "The key does not have a place for them, so we need a new question"
       ],
-      "a": 2,
+      "a": 3,
       "why": "The key only knows 0, 6, 8, 10 or lots of legs on a long body. A woodlouse has 14 legs and a short, rounded body, so the key gets stuck. That is not a mistake. It means we need a new question. Woodlice are land cousins of crabs and prawns. Picking 'insect' is the most common guess, because woodlice are small and live on land."
      },
      "parent": "If you have a raw prawn, count only the legs under the front part, below the head shell. There are 10. The small paddles under the tail are for swimming, so the key does not count them. A dead housefly has 6 legs, 2 wings and 3 body parts, easy to see with a magnifying glass."
@@ -2875,12 +2875,12 @@
       "t": "mcq",
       "q": "Out of the water, the plastic jellyfish flops into a clump. What does that tell us about real jellyfish?",
       "options": [
-       "Real jellyfish have bones that break in air",
        "Jellyfish have no skeleton, so the water holds their shape",
+       "Real jellyfish have bones that break in air",
        "Jellyfish are not alive",
        "Air is heavier than water"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A jellyfish has no bones and no armour. The sea holds them up. On a beach, they collapse into a blob. Picking 'bones that break' mixes jellyfish up with fish. Jellyfish have no bones at all."
      }
     },
@@ -2975,11 +2975,11 @@
       "q": "Why does a crab hide after they moult?",
       "options": [
        "They are tired of their friends",
-       "Their new armour is still soft, so they are easy to hurt",
        "They have lost their legs",
+       "Their new armour is still soft, so they are easy to hurt",
        "Crabs only come out at night"
       ],
-      "a": 1,
+      "a": 2,
       "why": "After a moult, the new shell takes some days to harden. Until then the crab is soft and easy for hunters to catch. Picking 'lost their legs' is a mix-up: a crab keeps their legs when they moult. They pull them out of the old shell like fingers from a glove."
      }
     },
@@ -3403,11 +3403,11 @@
       "q": "Why do overlapping plates let armour grow?",
       "options": [
        "The plates get bigger by themselves",
-       "The plates can slide apart and still cover the gap",
        "Overlapping plates are lighter",
+       "The plates can slide apart and still cover the gap",
        "The plates are soft"
       ],
-      "a": 1,
+      "a": 2,
       "why": "When the arm grows, overlapping plates slide apart a little but still overlap, so there is no gap. Picking 'get bigger by themselves' is the very thing a crab's armour cannot do. Nothing hard and dead can grow on its own."
      }
     },
@@ -3495,11 +3495,11 @@
       "q": "Why do backward-leaning bristles help a model worm move forward?",
       "options": [
        "They make it heavier",
-       "They slide forward easily but catch when pushed backward",
        "They look like legs",
+       "They slide forward easily but catch when pushed backward",
        "They push the table"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Backward-leaning bristles slide easily one way and dig in the other way. So each squeeze moves the worm forward and not back. Real earthworms have tiny bristles on every segment that work the same way. Picking 'they look like legs' is close, but bristles do not walk. They only grip."
      }
     },
@@ -3558,12 +3558,12 @@
    "t": "mcq",
    "p": "Which animal has a backbone?",
    "opts": [
-    "A frog",
     "A crab",
     "A snail",
+    "A frog",
     "An ant"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A frog is a vertebrate, like fish, birds, reptiles and mammals. Crabs, snails and ants have no bones at all. Their hard parts, if they have any, are on the outside.",
    "outcome": 0
   },
@@ -3598,12 +3598,12 @@
    "t": "mcq",
    "p": "An earthworm left out in the hot sun dries out and goes soft and floppy. Why?",
    "opts": [
-    "They lose the liquid that their muscles held tight to keep them firm.",
     "Their bones break in the heat.",
+    "They lose the liquid that their muscles held tight to keep them firm.",
     "They are fast asleep.",
     "Their shell falls off."
    ],
-   "a": 0,
+   "a": 1,
    "why": "A worm stays firm because they are full of liquid held tight by their muscles. Take away the liquid, and there is nothing to push back. Worms have no bones and no shell.",
    "outcome": 2
   },
@@ -3611,12 +3611,12 @@
    "t": "mcq",
    "p": "Which animal wears their skeleton on the outside, like armour?",
    "opts": [
-    "A cow",
     "A crab",
+    "A cow",
     "A jellyfish",
     "An earthworm"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A crab has an exoskeleton, a hard skeleton on the outside. Picking the jellyfish forgets that a jellyfish has no skeleton at all.",
    "outcome": 2
   },
@@ -3637,12 +3637,12 @@
    "t": "mcq",
    "p": "In Water Bones, what would happen if you took the cap off a bottle full of water and then squeezed it?",
    "opts": [
-    "Water would squirt out, and the bottle would go soft.",
     "The bottle would stay just as hard.",
+    "Water would squirt out, and the bottle would go soft.",
     "The bottle would get harder.",
     "Nothing at all."
    ],
-   "a": 0,
+   "a": 1,
    "why": "The cap kept the water in, so it pushed back. Without the cap, the water escapes and the bottle gives. In a worm, the muscles do the cap's job. A worm with a cut loses liquid and goes soft.",
    "outcome": 4,
    "how": "e1",
@@ -3680,12 +3680,12 @@
    "t": "mcq",
    "p": "Which of these do scientists still argue about?",
    "opts": [
-    "Whether spiders have 8 legs",
     "Whether an ant's pain feels like ours",
+    "Whether spiders have 8 legs",
     "Whether worms have backbones",
     "Whether crabs moult"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Leg counts, backbones and moulting are settled. Ants sense and react to harm, but nobody knows how to look at a feeling from the inside of another body. Picking the others mixes up open questions with things scientists have checked many times.",
    "outcome": 6
   },
@@ -3694,11 +3694,11 @@
    "p": "You find a snail after rain and want to look at them. What is the kind way?",
    "opts": [
     "Keep them in a closed jar for a week",
-    "Hold them gently by their shell, watch them for a few minutes, put them back where you found them and wash your hands",
     "Pull them out of their shell to see inside",
-    "Put salt on them to see what happens"
+    "Put salt on them to see what happens",
+    "Hold them gently by their shell, watch them for a few minutes, put them back where you found them and wash your hands"
    ],
-   "a": 1,
+   "a": 3,
    "why": "Watch kindly, for a short time, and return the animal to the place where you found them. Salt hurts snails badly, and a snail cannot leave their shell. Wash your hands, because snails can carry germs.",
    "outcome": 6
   }
@@ -4035,6 +4035,78 @@
     "a1",
     "a2"
    ]
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in Armour That Can Grow. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before Armour That Can Grow."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Water Bones: how does a worm stay firm?, Armour That Can Grow, Crawl Without Legs. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "c1",
+    "c2"
+   ],
+   "plan": "Get it before Water Bones: how does a worm stay firm?."
+  },
+  {
+   "id": "b-food-colour",
+   "item": "Food colour",
+   "kind": "material",
+   "why": "Used in Jellyfish in a Bottle. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it.",
+   "url": "https://www.amazon.in/s?k=food+colour+liquid",
+   "used_in": [
+    "a4"
+   ],
+   "plan": "Get it before Jellyfish in a Bottle."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Grow Out of Your Armour: act out a moult. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "a5"
+   ],
+   "plan": "Get it before Grow Out of Your Armour: act out a moult."
+  },
+  {
+   "id": "b-clean-sand--a-small-bag",
+   "item": "Clean sand (a small bag)",
+   "kind": "material",
+   "why": "Used in Bottle Wormery: watch worms mix the soil. About ₹20 to ₹60. Fine soil sieved from a pot works.",
+   "url": "https://www.amazon.in/s?k=play+sand+small+bag",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before Bottle Wormery: watch worms mix the soil."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

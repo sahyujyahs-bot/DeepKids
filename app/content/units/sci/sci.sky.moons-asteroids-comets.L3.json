@@ -702,11 +702,11 @@
       "t": "mcq",
       "q": "In Quick Call, the clue is: 'It glows about 100 km above the ground.' Which card is right?",
       "options": [
-       "Meteor",
        "Meteorite",
-       "Meteoroid"
+       "Meteoroid",
+       "Meteor"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The glowing streak in the air is the meteor. Picking 'meteoroid' is close: it is the same grain, but the word meteoroid is for when it is still out in space."
      }
     }
@@ -891,10 +891,10 @@
       "q": "In the ice comet test, after 30 minutes, what does the top of the sunny comet look like?",
       "options": [
        "Clean and shiny, because the water washed the dirt away",
-       "Darker, with a crust of dirt on top",
-       "Just the same as at the start"
+       "Just the same as at the start",
+       "Darker, with a crust of dirt on top"
       ],
-      "a": 1,
+      "a": 2,
       "why": "As the ice melts away, the dirt that was inside it is left behind on the surface. It builds up into a dark crust. Some runs off into the plate as muddy water. Picking 'clean and shiny' is a fair guess, because water usually washes things. But here the dirt stays where the ice used to be."
      },
      "parent": "In direct sun, the sunny comet usually shrinks by 1 to 2 cm in 30 minutes and gets a dark, gritty crust. The shady one changes more slowly. Tea leaves cling to the ice, so the crust is easy to see. If both look the same, leave them another 20 minutes. The shady comet melts too, only more slowly, because an Indian room is warm. Far out in space, away from the Sun, a comet would not change at all."
@@ -909,11 +909,11 @@
       "t": "mcq",
       "q": "A comet is far out beyond Neptune, in the cold. What is it doing?",
       "options": [
-       "It stays frozen, with no tail",
        "It grows its longest tail",
-       "It melts into a ball of water"
+       "It melts into a ball of water",
+       "It stays frozen, with no tail"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Far from the Sun it is far too cold for the ice to change, so the comet stays a dark frozen lump with no tail, like the shady comet but even colder. Picking 'longest tail' mixes it up: tails grow near the Sun, where sunlight warms the ice."
      }
     },
@@ -1049,11 +1049,11 @@
       "t": "mcq",
       "q": "In the fan and tail test, you walk slowly away from the fan. Where does the tissue tail point?",
       "options": [
-       "Away from the fan, in front of the comet",
        "Behind the comet, towards the fan",
-       "Straight down"
+       "Straight down",
+       "Away from the fan, in front of the comet"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The fan's air pushes the tail away from the fan, whichever way you walk. So when you walk away, the tail goes in front. Picking 'behind the comet' is what happened with the fan off, when only your walking moved the air."
      },
      "parent": "Walk slowly, about one small step each second. If you walk fast, your own movement can beat the fan's air and the tail flops. That is a fair thing to notice."
@@ -1494,11 +1494,11 @@
       "t": "mcq",
       "q": "A farmer finds a dark stone in a field the morning after a bright flash in the sky. If it came from space, what is the stone called?",
       "options": [
-       "A meteorite",
        "A meteor",
+       "A meteorite",
        "A comet"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A piece of space rock that lands on the ground is a meteorite. The bright flash in the sky was the meteor. Picking 'meteor' is a very common mix-up. A meteor is only the light, so you can't pick one up."
      }
     },
@@ -1597,11 +1597,11 @@
       "t": "mcq",
       "q": "You find a tiny round black bead in your balcony dust. It sticks to a magnet. What can you say for sure?",
       "options": [
-       "It has iron in it, but it may or may not be from space",
        "It is definitely from space",
+       "It has iron in it, but it may or may not be from space",
        "It is definitely from a road"
       ],
-      "a": 0,
+      "a": 1,
       "why": "It sticks to a magnet, so it has iron in it. Round beads can come from space, but also from welding, factories and smoke. Telling them apart needs a strong microscope. Picking 'definitely from space' is exciting, but a good scientist only says what the evidence shows."
      },
      "parent": "Be honest with your child: you probably can't tell which grains, if any, came from space. Scientists have found real space grains in rooftop gutter dirt from cities such as Oslo, but only by sorting through a lot of dirt under a microscope."
@@ -1917,12 +1917,12 @@
    "t": "mcq",
    "p": "Which planet has no moon?",
    "opts": [
-    "Venus",
     "Mars",
     "Jupiter",
-    "Saturn"
+    "Saturn",
+    "Venus"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Mercury and Venus are the only planets with no moons. Picking Mars is a common slip: Mars has two small moons, Phobos and Deimos.",
    "outcome": 0
   },
@@ -1930,12 +1930,12 @@
    "t": "mcq",
    "p": "Through a telescope you see four small dots beside Jupiter. Night after night they change sides, but always stay close to Jupiter. What are they most likely to be?",
    "opts": [
-    "Moons going round Jupiter",
     "Rings round Jupiter",
     "A comet hitting Jupiter",
+    "Moons going round Jupiter",
     "New stars"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Dots that stay with Jupiter but swap sides must be going round it, so they are moons. Galileo worked this out in 1610. Rings would not look like separate dots that move.",
    "outcome": 0
   },
@@ -1943,11 +1943,11 @@
    "t": "mcq",
    "p": "What is the main difference between an asteroid and a comet?",
    "opts": [
-    "An asteroid is mostly rock and metal. A comet has a lot of ice.",
     "An asteroid is always bigger than a comet.",
+    "An asteroid is mostly rock and metal. A comet has a lot of ice.",
     "An asteroid goes round a planet. A comet goes round the Sun."
    ],
-   "a": 0,
+   "a": 1,
    "why": "Asteroids are rocky or metal. Comets are ice, dust and rock, and their ice makes the tail near the Sun. Picking 'goes round a planet' describes a moon. Both asteroids and comets go round the Sun.",
    "outcome": 1
   },
@@ -1968,12 +1968,12 @@
    "t": "mcq",
    "p": "Why is the nucleus of a real comet darker than coal?",
    "opts": [
-    "Its ice has turned to gas and left a crust of dark dust",
     "It is made of coal",
     "It is in the Earth's shadow",
+    "Its ice has turned to gas and left a crust of dark dust",
     "It is burning"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Each time a comet passes near the Sun, some of its ice turns to gas and the dust stays behind. The dust builds up into a dark crust, as it did on the sunny ice comet in the Ice Comet experiment. Picking 'burning' is a common idea, but comets do not burn. Their glow is sunlight on gas and dust.",
    "outcome": 2
   },
@@ -1994,12 +1994,12 @@
    "t": "mcq",
    "p": "What pushes a comet's tail away from the Sun?",
    "opts": [
-    "Sunlight and the solar wind",
     "Wind in space",
     "The comet's speed",
+    "Sunlight and the solar wind",
     "The Earth's gravity"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Sunlight and the solar wind, a stream of tiny particles from the Sun, push the gas and dust outwards. Picking 'wind in space' is close, but space has no air, so there is no ordinary wind there.",
    "outcome": 3
   },
@@ -2020,12 +2020,12 @@
    "t": "mcq",
    "p": "Why does a tiny grain glow so brightly when it enters our air?",
    "opts": [
-    "It moves so fast that it squashes the air in front of it, and the air gets extremely hot",
     "It is on fire before it arrives",
+    "It moves so fast that it squashes the air in front of it, and the air gets extremely hot",
     "It reflects the light of the Moon",
     "It is a small star"
    ],
-   "a": 0,
+   "a": 1,
    "why": "At tens of kilometres a second, the grain squashes the air ahead so hard that it gets hotter than a furnace. The grain turns to glowing gas. Picking 'on fire before it arrives' is a common idea, but space has no air, so nothing can burn there.",
    "outcome": 4
   },
@@ -2046,12 +2046,12 @@
    "t": "mcq",
    "p": "People say they saw stones fall from the sky. How could a scientist check whether the stones really came from space?",
    "opts": [
-    "Talk to many people who saw it, map where the stones landed, and check whether they are unlike the local rock",
     "Decide that lightning made them",
+    "Talk to many people who saw it, map where the stones landed, and check whether they are unlike the local rock",
     "Decide that a volcano threw them up",
     "Ignore what the people say"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Many witnesses, a map of the fall, and stones unlike any local rock together make strong evidence. Deciding before looking is not testing. This is how scientists became sure, in 1803, that stones fall from space.",
    "outcome": 6
   }
@@ -2120,11 +2120,11 @@
      "t": "mcq",
      "p": "In the Ice Comet experiment, why did we put one ice comet in the shade?",
      "opts": [
-      "To compare it with the sunny one, so we could see what the sun changed",
       "Because shade makes ice melt faster",
+      "To compare it with the sunny one, so we could see what the sun changed",
       "To keep one for eating"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The shady comet is the comparison. Everything was the same except the sun, so any difference was caused by the sun. Picking 'shade makes ice melt faster' is the opposite of what happens.",
      "how": "e1"
     },
@@ -2294,12 +2294,12 @@
      "t": "mcq",
      "p": "Lonar Lake in Maharashtra is round, with steep sides. How did the hollow it sits in form?",
      "opts": [
-      "A meteorite hit the ground very fast and blasted out a crater",
       "People dug it for water",
+      "A meteorite hit the ground very fast and blasted out a crater",
       "A river wore it away",
       "Lightning struck the ground again and again"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Lonar Lake fills a crater made by a meteorite impact long ago. Picking 'people dug it' is reasonable for many Indian tanks and ponds, but not for a hollow this big and this round."
     },
     {
@@ -2341,12 +2341,12 @@
      "t": "mcq",
      "p": "In the story Seven Shooting Stars over Madurai, Nila counted 7 shooting stars from her city terrace. From a dark village far from the city, she might have seen more than 50 in the same time. Why?",
      "opts": [
-      "The village sky was darker, so faint meteors showed up",
       "More dust fell on the village",
       "Villages are closer to space",
+      "The village sky was darker, so faint meteors showed up",
       "Nila was not looking properly"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The same shower falls over the whole area, but city lights hide the faint meteors. Picking 'more dust fell on the village' is a good thought, but both places were under the same shower."
     },
     {
@@ -2524,12 +2524,12 @@
      "t": "mcq",
      "p": "Saturn is smaller than Jupiter, but Saturn has more known moons. What does this tell you?",
      "opts": [
-      "A bigger planet does not always have more moons",
       "Saturn is really bigger than Jupiter",
       "Jupiter's moons are all hidden",
+      "A bigger planet does not always have more moons",
       "Moon counts never change"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Size is not the only thing that sets how many moons a planet has. Also, many small moons are still being found, so the counts keep changing. Picking 'moon counts never change' is wrong: dozens of new small moons have been found in recent years."
     },
     {
@@ -2859,6 +2859,112 @@
    "used_in": [
     "p1"
    ]
+  },
+  {
+   "id": "b-a-magnifying-glass",
+   "item": "A magnifying glass",
+   "kind": "tool",
+   "why": "Used in How Small Is a Shooting Star? A grain of rava and a map, Magnet Dust Hunt: could any of this dust be from space?. About ₹30 to ₹120. A water drop on clear plastic magnifies a little.",
+   "url": "https://www.amazon.in/s?k=magnifying+glass+kids",
+   "used_in": [
+    "a1",
+    "a5"
+   ],
+   "plan": "Get it before How Small Is a Shooting Star? A grain of rava and a map."
+  },
+  {
+   "id": "b-a-bar-magnet-or-two--and-a-f",
+   "item": "A bar magnet or two, and a few small magnets",
+   "kind": "tool",
+   "why": "Used in Magnet Dust Hunt: could any of this dust be from space?, Is This Stone from Space? Plan the tests. About ₹50 to ₹200. A fridge magnet is a weak substitute for some tests.",
+   "url": "https://www.amazon.in/s?k=bar+magnet+school",
+   "used_in": [
+    "a5",
+    "c2"
+   ],
+   "plan": "Get it before Magnet Dust Hunt: could any of this dust be from space?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Ice Comet: what happens to its dirt in the sun?, Land on a Comet Without Bouncing. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "c1"
+   ],
+   "plan": "Get it before The Ice Comet: what happens to its dirt in the sun?."
+  },
+  {
+   "id": "b-cotton-wool",
+   "item": "Cotton wool",
+   "kind": "material",
+   "why": "Used in Land on a Comet Without Bouncing. About ₹20 to ₹50. Torn clean cloth works.",
+   "url": "https://www.amazon.in/s?k=cotton+wool+roll",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before Land on a Comet Without Bouncing."
+  },
+  {
+   "id": "b-clean-sand--a-small-bag",
+   "item": "Clean sand (a small bag)",
+   "kind": "material",
+   "why": "Used in How Small Is a Shooting Star? A grain of rava and a map. About ₹20 to ₹60. Fine soil sieved from a pot works.",
+   "url": "https://www.amazon.in/s?k=play+sand+small+bag",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Get it before How Small Is a Shooting Star? A grain of rava and a map."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in Galileo's Dots: stars or moons?. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Get it before Galileo's Dots: stars or moons?."
+  },
+  {
+   "id": "b-a-kitchen-or-weighing-scale",
+   "item": "A kitchen or weighing scale",
+   "kind": "tool",
+   "why": "Used in Is This Stone from Space? Plan the tests. About ₹300 to ₹700. A home-made balance from a ruler and two cups can compare weights.",
+   "url": "https://www.amazon.in/s?k=digital+kitchen+weighing+scale",
+   "used_in": [
+    "c2"
+   ],
+   "plan": "Get it before Is This Stone from Space? Plan the tests."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in Fan and Tail: does a comet's tail stream out behind it?. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before Fan and Tail: does a comet's tail stream out behind it?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

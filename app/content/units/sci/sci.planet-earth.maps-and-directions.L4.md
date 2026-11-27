@@ -1,9 +1,9 @@
 # Maps and directions: how to map a place you cannot see, and find where you are from three distances
 `sci.planet-earth.maps-and-directions.L4`
 
-**Summary.** How can you draw a map of hills you cannot see? In this unit you will push a thin stick through holes in a closed shoebox lid and map the hidden hills from your measurements. You will also find a hidden coin from three distances and play a harbour game with grid references.
+**Summary.** How can you draw a map of hills you cannot see? In this lesson you will push a thin stick through holes in a closed shoebox lid and map the hidden hills from your measurements. You will also find a hidden coin from three distances and play a harbour game with grid references.
 
-**Intro.** *Your phone shows a blue dot on a map, and the dot is almost exactly where you stand, even in the middle of a field with no signboards. Nobody has drawn a line on the ground to tell the phone. How does it know where you are?* A phone finds your place by measuring distances. One distance is not enough, and two are not enough. In this unit you find out how many distances you need, by hiding a coin and drawing circles. You map a landscape in a box that you cannot see, and learn why the holes you choose decide what the map can show. You use the scale bar on a map to work out how many steps a walk will take, find places with a grid, and learn how lines on a map show hills. You also map your own neighbourhood.
+**Intro.** *Your phone shows a blue dot on a map, and the dot is almost exactly where you stand, even in the middle of a field with no signboards. Nobody has drawn a line on the ground to tell the phone. How does it know where you are?* A phone finds your place by measuring distances. One distance is not enough, and two are not enough. In this lesson you find out how many distances you need, by hiding a coin and drawing circles. You map a landscape in a box that you cannot see, and learn why the holes you choose decide what the map can show. You use the scale bar on a map to work out how many steps a walk will take, find places with a grid, and learn how lines on a map show hills. You also map your own neighbourhood.
 
 ## Learning outcomes
 0. I can use a scale to turn a distance on a map into a real distance, and back again.
@@ -43,6 +43,13 @@ On a good map, every distance is shrunk by the same amount. If 1 centimetre on t
 - e.g. A floor plan of a flat, where 1 centimetre stands for 1 metre.
 - e.g. A town map where 1 centimetre stands for 500 metres.
 - e.g. A page of an atlas that shows all of India, where 1 centimetre stands for roughly 200 kilometres.
+### Models: small stand-ins for big things · *defined*
+**Definition:** A model is a smaller or simpler stand-in for something real. It can show how big things are, and how their parts connect.
+
+A map is a model of a place. So is a toy train, a globe and a clay hill. A scale model shrinks every length by the same amount, just as a map does. If 1 centimetre in the model stands for 20 centimetres in a real room, a bed 2 metres long becomes 10 centimetres in the model. A drawing can be a model too. Draw your village with the school, the pond and the road, label each one, and add arrows for the way rainwater flows. You have shown how the parts connect, without drawing every stone. A model leaves things out, and that is why it is useful. You can hold it, measure it and try ideas on it. But it is not the real thing, so ask what it leaves out.
+- e.g. A globe is a model of the Earth, smaller by the same amount in every direction.
+- e.g. A cardboard model of a room, with a bed, a cupboard and a door in the right places.
+- e.g. A labelled drawing of rain running from a hill into a pond, with arrows for the water.
 ### Grid references: naming a square · *defined*
 **Definition:** A grid reference names one square on a map with a letter and a number. You read along first, then up or down.
 
@@ -60,7 +67,7 @@ Every neighbourhood has places that serve everyone. A post office, a bank, a sch
 ### Height on a flat map: contour lines · *defined*
 **Definition:** A contour line is a line on a map that joins places at the same height above sea level. Lines that are close together mean a steep slope.
 
-A map is flat, but land has hills. Contour lines show the hills. Suppose you sliced a hill at every 10 metres of height. Each slice would leave a ring on the ground. Drawn on a map, the rings are contour lines. A hill looks like rings inside rings, and the smallest ring is the top. Where the land is steep, the rings are packed close together. Where it is gentle, they are far apart. The lines never cross, because one place cannot be at two heights. Roads on a hill follow the contour lines, zigzagging up, so that the climb is gentle. Some maps colour the land between lines, with green for low land and brown for high land.
+A map is flat, but land has hills. Contour lines show the hills. Suppose you sliced a hill at every 10 metres of height. Each slice would leave a ring on the ground. Drawn on a map, the rings are contour lines. A hill looks like rings inside rings, and the smallest ring is the top. Where the land is steep, the rings are packed close together. Where it is gentle, they are far apart. The lines never cross, because one place cannot be at two heights. Roads on a hill follow the contour lines, zigzagging up, so that the climb is gentle. Some maps colour the land between lines, with green for low land and brown for high land. High mountains need many lines. The Himalayas rise along the north of India, and run on through Nepal, Bhutan and Tibet. Mount Everest, on the border of Nepal and Tibet, is about 8,848 metres above sea level. Nepal calls it Sagarmatha. On a contour map, the smallest ring at its top carries a number near 8,848, and the lines are packed close together on its steep sides.
 - e.g. The hairpin bends of the ghat road up to Kodaikanal or the Nilgiris follow the contour lines.
 - e.g. A map of the Western Ghats has contour lines packed close together on the western side.
 - e.g. A rice terrace on a hill follows a contour line around the slope.
@@ -81,7 +88,7 @@ If you know you are 5 kilometres from a tower, you could be anywhere on a circle
 ### Latitude and longitude: a grid for the whole Earth · *defined*
 **Definition:** Latitude is how far north or south of the equator a place is. Longitude is how far east or west of the line through Greenwich a place is. Together they name any place on Earth.
 
-People drew a grid over the whole Earth. Lines of latitude run round the Earth in circles, parallel to the equator. The equator is 0 degrees, and the North Pole is 90 degrees north. Lines of longitude run from the North Pole to the South Pole. The line through Greenwich, near London, is 0 degrees, and the numbers go east and west from there. Chennai is at about 13 degrees north and 80 degrees east. Kanyakumari is at about 8 degrees north, and Delhi at about 28.6 degrees north. One degree of latitude is about 111 kilometres on the ground, so the north-south gap between Chennai and Delhi is about 1,700 kilometres. The Tropic of Cancer, at 23.5 degrees north, crosses eight Indian states.
+You already name a place by its address. It goes from small to big: your house, your street, your village or town, your district, your state, your country, and then your planet, Earth. Each layer holds the one before it. On a globe, you can find India by following the address outwards. It lies in Asia, north of the equator, with the Indian Ocean to its south. Latitude and longitude do the same job as an address for the whole Earth, with just two numbers. People drew a grid over the whole Earth. Lines of latitude run round the Earth in circles, parallel to the equator. The equator is 0 degrees, and the North Pole is 90 degrees north. Lines of longitude run from the North Pole to the South Pole. The line through Greenwich, near London, is 0 degrees, and the numbers go east and west from there. Chennai is at about 13 degrees north and 80 degrees east. Kanyakumari is at about 8 degrees north, and Delhi at about 28.6 degrees north. One degree of latitude is about 111 kilometres on the ground, so the north-south gap between Chennai and Delhi is about 1,700 kilometres. The Tropic of Cancer, at 23.5 degrees north, crosses eight Indian states.
 - e.g. A phone map shows the latitude and longitude of any spot if you press and hold on it.
 - e.g. Indian Standard Time is based on the line of longitude at 82.5 degrees east.
 - e.g. A ship's captain gives the position of a ship in degrees of latitude and longitude.
@@ -552,6 +559,30 @@ That evening, Anjana hung the knotted rope on its nail. She ran her fingers alon
   *Parent says:* Why does a place on Earth need two numbers? Could one number be enough?  
   *Child mode:* Point on the globe: is one number enough?
   - Think: What if you only had the latitude? Where could you be?
+### a7 · Our Room in Miniature: make a scale model (35 min)
+- **record:** A photo of your model with every piece labelled, and the table in your notebook that shows each real length, the model length and the scale you used.
+- **s1 (10 min)**  
+  *Parent does:* 1. Measure the length and width of the room in centimetres. 2. Measure three things in it, such as the bed, a cupboard and the door. Write the lengths in your notebook.  
+  *Parent says:* Measure the room, and then three things in it. Write each one in centimetres.  
+  *Child mode:* Measure the room and three things in it. Write the numbers.
+  - Note: Let your child hold the tape. A room of 3 metres by 4 metres is 300 centimetres by 400 centimetres.
+- **s2 (8 min)**  
+  *Parent does:* 1. Use the scale 1 centimetre for 20 centimetres. 2. Divide each length by 20. 3. Write the model lengths next to the real ones.  
+  *Parent says:* Every length shrinks by the same amount. Divide each by 20. What is the model length?  
+  *Child mode:* Divide each real length by 20 to find its model length.
+  - Note: A room of 300 by 400 centimetres becomes 15 by 20 centimetres. A bed 200 centimetres long becomes 10 centimetres. If your room is much bigger, use 1 centimetre for 50 centimetres instead, and divide by 50.
+  - Check: With 1 centimetre for 20 centimetres, a cupboard is 100 centimetres wide. How wide is it in the model? → **5 centimetres**
+- **s3 (12 min)**  
+  *Parent does:* 1. Draw the floor of the room on the paper at the model size. 2. Cut out card rectangles for the bed, the cupboard and the door. 3. Place them on the floor, in the same places as in the real room, and glue them down. 4. Label each piece.  
+  *Parent says:* Draw the floor, then cut the furniture to size. Put each piece where it is in the real room.  
+  *Child mode:* Draw the floor. Cut out the pieces. Place and label them.
+  - Ask: Which piece is the biggest in the room, and is it the biggest in the model? (good: The bed, in both.; Yes, because every length shrank by the same amount.)
+  - Note: If a piece looks too big or too small, measure it again. It is almost always a division slip.
+- **s4 (5 min)**  
+  *Parent does:* Look at the model. Ask your child to say one thing it shows well, such as how far the bed is from the door. Then ask what it leaves out, such as colour, height or what is inside the cupboard.  
+  *Parent says:* What does your model show well? What does it leave out? Why is that all right?  
+  *Child mode:* Say one thing your model shows and one thing it leaves out.
+  - Note: A good answer: the model shows size and place, and leaves out colour, height and what things are made of. Like a map, a model keeps what the reader needs.
 
 ## Projects
 ### p1 · Zoom-Out Atlas: from your room to your city in five pages (90 min, 7 days)
@@ -650,14 +681,14 @@ That evening, Anjana hung the knotted rope on its nail. She ran her fingers alon
   - Think: What do people who cannot see need from a map, and how are they given it?
 
 ## Worksheets
-### Scale, Grids and Hidden Places (core) (core, 16 questions)
+### Scale, Grids and Hidden Places (core) (core, 19 questions)
 1. (mcq) On a map, 1 centimetre stands for 50 metres. A road measures 8 centimetres on the map. How long is the road?  
    Options: 80 metres / 400 metres / 800 metres  
    **Answer:** 400 metres. *Why:* 8 times 50 is 400. So the road is 400 metres long. If you picked 80 or 800, check where you put the zeros.
 2. (fill) A letter and a number that name one square on a map make a grid ____.  
    **Answer:** ['reference']. *Why:* A grid reference names one square. You read the letter along first, and then the number down.
 3. (mcq) A map made from 6 holes in the Hidden Hills box missed a narrow ridge. What is the best reason?  
-   Options: The ridge lay between the holes that were poked / The ridge was not in the box / The stick was too short  
+   Options: The ridge was not in the box / The stick was too short / The ridge lay between the holes that were poked  
    **Answer:** The ridge lay between the holes that were poked. *Why:* A map only knows the land where the stick went down. A ridge narrower than the gaps between holes can slip between them.
 4. (truefalse) Contour lines that are close together mean that the land is gentle and flat.  
    **Answer:** False. *Why:* False. Close lines mean the land rises fast, so it is steep. Wide gaps between lines mean a gentle slope.
@@ -668,7 +699,7 @@ That evening, Anjana hung the knotted rope on its nail. She ran her fingers alon
 7. (write) One distance from a tower tells you only that the coin is somewhere on a circle. Explain why a second and a third distance help.  
    **Answer:** A second circle crosses the first in two places, so the coin is at one of two spots. A third circle passes through only one of those two spots, so it shows which one the coin is at.. *Why:* A strong answer says that each new distance cuts down the number of possible places.
 8. (mcq) A phone uses GPS to find where you are. What does the phone do?  
-   Options: It listens to timed signals from satellites and works out its own distance from each / It sends your position to the satellites / It looks at the ground with a camera  
+   Options: It sends your position to the satellites / It listens to timed signals from satellites and works out its own distance from each / It looks at the ground with a camera  
    **Answer:** It listens to timed signals from satellites and works out its own distance from each. *Why:* GPS satellites only send signals, and the phone only listens. This is why GPS works with no mobile signal at all.
 9. (label) Label this contour map of a hill: the top, a steep side, a gentle side and a 100 metre line.  
    **Answer:** The smallest ring in the middle is the top. The side where the rings are close together is the steep side. The side where the rings are far apart is the gentle side. A number such as 100 is written on one of the rings.. *Why:* Contour lines show height. How close they are shows how steep the land is.
@@ -677,7 +708,7 @@ That evening, Anjana hung the knotted rope on its nail. She ran her fingers alon
 11. (draw) Draw the Hidden Hills box from above with 6 holes marked and a narrow ridge hiding between them. Show which holes would miss it.  
    **Answer:** A rectangle with six dots in a pattern and a thin ridge drawn in the gap between the dots, not under any of them.. *Why:* A strong drawing shows the ridge lying in a gap that no hole reaches.
 12. (mcq) Which of these is a public service in a neighbourhood?  
-   Options: A post office / A private garden / A friend's bedroom  
+   Options: A private garden / A post office / A friend's bedroom  
    **Answer:** A post office. *Why:* A public service is a place that gives help or supplies to everyone in the area. A post office, a clinic and a school are examples.
 13. (truefalse) A map can be correct and still leave out most of what is there.  
    **Answer:** True. *Why:* True. A good map keeps only what the reader needs, and a map that tried to show everything would be impossible to read.
@@ -686,16 +717,22 @@ That evening, Anjana hung the knotted rope on its nail. She ran her fingers alon
 15. (order) Put these maps in order, from the one that covers the smallest area to the one that covers the largest.  
    **Answer:** ['A floor plan of a room', 'A street map', 'A map of a city', 'A map of all India']. *Why:* Each map in the list covers more ground. So each is drawn with a smaller scale, and shows less detail.
 16. (mcq) On a common school world map, Greenland looks as big as Africa. What is the truth?  
-   Options: Africa is about fourteen times larger / Greenland is larger / They are exactly the same  
+   Options: Greenland is larger / They are exactly the same / Africa is about fourteen times larger  
    **Answer:** Africa is about fourteen times larger. *Why:* The map stretches areas near the poles. Africa has about fourteen times the area of Greenland.
-### Echoes, Circles and Contours (stretch) (stretch, 17 questions)
+17. (order) Put these parts of an address in order, from the smallest place to the biggest.  
+   **Answer:** ['House', 'Village', 'District', 'State', 'Country', 'Planet']. *Why:* Each part holds the one before it. A village holds houses, a district holds villages, a state holds districts, and a country holds states. All the countries are on the planet Earth.
+18. (match) Match each place to what its contour lines would look like.  
+   **Answer:** The peak of Mount Everest → The smallest ring, with a number near 8,848; A steep gorge → Lines packed close together; A flat plain of the Ganga → Few lines, far apart. *Why:* Contour lines show height above sea level. Close lines show a steep slope, far apart lines show flat land, and the highest ring marks the top.
+19. (draw) Draw a labelled model of how rainwater gets from a hill to a pond in a village. Use arrows. Then write one thing your drawing leaves out.  
+   **Answer:** A hill, a stream or slope with arrows, and a pond, each labelled. The child names something left out, such as the trees, the colours or the size of the pond.. *Why:* A good drawing shows how the parts connect with arrows and labels. It does not need to look like the real place, but the child should know what it leaves out.
+### Echoes, Circles and Contours (stretch) (stretch, 19 questions)
 1. (mcq) A ship sends a sound pulse down, and the echo comes back after 2 seconds. Sound travels at about 1,500 metres each second in seawater. How deep is the sea?  
    Options: 1,500 metres / 3,000 metres / 750 metres  
    **Answer:** 1,500 metres. *Why:* In 2 seconds the sound travels 3,000 metres, but that is down and back. The depth is half of it, 1,500 metres.
 2. (write) A survey of the sea floor has lines of soundings 20 kilometres apart. Could a mountain 5 kilometres wide hide between two lines? Explain.  
    **Answer:** Yes. A mountain 5 kilometres wide is much narrower than the 20 kilometre gap, so it could lie wholly between two lines and never be sounded. The map would show a flat plain there.. *Why:* A strong answer compares the width of the feature with the gap.
 3. (mcq) In the Hidden Hills test, where is the best place to add extra holes?  
-   Options: Where the heights change fast between neighbouring holes / In the middle of the flattest area / Exactly where you already poked  
+   Options: In the middle of the flattest area / Exactly where you already poked / Where the heights change fast between neighbouring holes  
    **Answer:** Where the heights change fast between neighbouring holes. *Why:* Fast changes in height hint that something is happening nearby. Extra holes there are more likely to find a hidden feature.
 4. (perspective) Three people disagree about whether a satellite photograph can replace a map.  
    **Answer:** A strong answer picks a view with a reason, such as the photograph's detail or the map's choices, and admits a fair point from another view.. *Why:* There is no single right answer. A photograph shows more, but a map picks what the reader needs, and many mapmakers use both.
@@ -715,7 +752,7 @@ That evening, Anjana hung the knotted rope on its nail. She ran her fingers alon
 11. (draw) Draw three towers, three circles and the one place where they all meet. Mark where the coin is.  
    **Answer:** Three dots for towers, three circles around them, all three circles meeting at a single point where a coin is drawn.. *Why:* A strong drawing shows three circles meeting at one point.
 12. (mcq) Which number tells you how far north of the equator a place is?  
-   Options: Its latitude / Its longitude / Its scale  
+   Options: Its longitude / Its scale / Its latitude  
    **Answer:** Its latitude. *Why:* Latitude is measured in degrees north or south of the equator. Longitude is measured east or west of the line through Greenwich.
 13. (order) Put these steps in order to show how a phone finds where it is.  
    **Answer:** ['A satellite sends a signal with the time it was sent', 'The signal travels at the speed of light', 'The phone notes the time it arrived', 'The phone works out the distance from the delay', 'Distances to several satellites give one place']. *Why:* The delay between sending and arriving, multiplied by the speed of light, gives the distance to each satellite. Several distances meet at one place.
@@ -724,17 +761,21 @@ That evening, Anjana hung the knotted rope on its nail. She ran her fingers alon
 15. (truefalse) A flat map of the whole Earth can keep every shape, every distance and every area correct at the same time.  
    **Answer:** False. *Why:* False. Gauss proved in 1827 that a curved surface cannot be flattened without stretching or squeezing something.
 16. (mcq) Why does a metro map not show true distances between stations?  
-   Options: The traveller needs the order of stations and the places to change trains / The mapmaker made a mistake / Metro trains travel at different speeds  
+   Options: The mapmaker made a mistake / Metro trains travel at different speeds / The traveller needs the order of stations and the places to change trains  
    **Answer:** The traveller needs the order of stations and the places to change trains. *Why:* A metro map keeps the connections and drops the true distances to make it easy to read. It is a map that does not look like the place.
 17. (fill) The map projection that keeps directions true, and was useful to sailors, is called ____.  
    **Answer:** ['Mercator']. *Why:* Mercator keeps directions true but stretches areas near the poles.
+18. (fill) On a globe, India lies north of the ____, in the continent of Asia.  
+   **Answer:** ['equator']. *Why:* The equator is the line at 0 degrees of latitude. India is north of it. Kanyakumari is at about 8 degrees north, the southern tip of the mainland.
+19. (write) You build a model of your school hall at 1 centimetre for 50 centimetres. The hall is 12 metres long. How long is it in the model? Show your working.  
+   **Answer:** 12 metres is 1,200 centimetres. 1,200 divided by 50 is 24. So the hall is 24 centimetres long in the model.. *Why:* A strong answer changes metres to centimetres first, then divides by 50. A model has the same scale at every length, so any other length in the hall can be found the same way.
 ### What a Map Keeps and What It Guesses (challenge) (challenge, 15 questions)
 1. (perspective) A child, a delivery rider and an older person each draw a map of the same street.  
    **Answer:** A strong answer says that all three are true for their purposes. Each keeps different features and drops others. A map is made for someone.. *Why:* There is no single true map of a street. Each one is correct about what it shows, and a map that tried to show everything would be unreadable.
 2. (write) The Hidden Hills box and the sea floor are alike in one big way. Say what it is, and name one thing about the sea floor that the box does not have.  
    **Answer:** In both, you can only measure along lines or at points and must reason about the gaps. A sea floor map has no lid you can lift to check, so nobody can look at the whole thing at once.. *Why:* A strong answer gives the likeness, which is measuring in some places and guessing the rest, and one real difference, such as no lid to lift or the much greater size.
 3. (mcq) Two soundings 5 centimetres apart show land heights of 2 centimetres and 8 centimetres. What can a mapmaker say about the land between them?  
-   Options: It probably slopes up from 2 to 8, but there could be a hidden hill or hollow / It is certainly a smooth slope / It is certainly flat  
+   Options: It is certainly a smooth slope / It is certainly flat / It probably slopes up from 2 to 8, but there could be a hidden hill or hollow  
    **Answer:** It probably slopes up from 2 to 8, but there could be a hidden hill or hollow. *Why:* The two numbers suggest a slope, and that is the most sensible guess. But nothing has been measured between them, so a small feature could be hidden.
 4. (fill) India has its own satellite navigation system, called ____, run by ISRO.  
    **Answer:** ['NavIC', 'Navic']. *Why:* NavIC covers India and the seas and lands around it.
@@ -750,7 +791,7 @@ That evening, Anjana hung the knotted rope on its nail. She ran her fingers alon
 9. (draw) A sea survey must find any hill that is 2 squares wide and 2 squares long on a map of 8 by 8 squares. Mark the squares you would sound to be sure of finding one.  
    **Answer:** Sound every second square in every second row, for example B2, B4, B6, B8, D2, D4, D6, D8, F2, F4, F6, F8, H2, H4, H6, H8, so that every 2 by 2 block of squares has a sounding in it.. *Why:* A strong drawing spaces the soundings so that no feature as wide as the gap can slip between them.
 10. (mcq) Greenland has an area of about 2 million square kilometres and Africa has about 30 million. About how many times bigger is Africa?  
-   Options: About 15 times / About 2 times / About 50 times  
+   Options: About 2 times / About 15 times / About 50 times  
    **Answer:** About 15 times. *Why:* 30 million divided by 2 million is 15. With more careful figures it is about 14. The Mercator map hides this.
 11. (write) Marie Tharp did not go to sea on the ships that took the soundings, yet she found a valley in the sea floor from the numbers other people collected. How can a person find something new in other people's measurements?  
    **Answer:** A person who looks very carefully at many measurements together can see a pattern that no single measurement shows. Drawing the numbers as a picture can show a shape that was always in the data.. *Why:* There is no single answer. A strong answer says what the person does with the numbers, such as drawing them and looking for patterns.
@@ -759,7 +800,7 @@ That evening, Anjana hung the knotted rope on its nail. She ran her fingers alon
 13. (match) Match each scale to the real distance that 1 centimetre stands for.  
    **Answer:** 1 to 5,000 → 50 metres; 1 to 50,000 → 500 metres; 1 to 500,000 → 5 kilometres. *Why:* A ratio of 1 to 5,000 means 1 centimetre on the map is 5,000 centimetres, or 50 metres, on the ground. Each ratio ten times larger stands for ten times more distance.
 14. (mcq) Which experiment would best test whether a bee has a map in her head?  
-   Options: Carry her to a new place, away from any landmark she knows, and see if she can fly home / Count how many flowers she visits / Paint her wings  
+   Options: Count how many flowers she visits / Paint her wings / Carry her to a new place, away from any landmark she knows, and see if she can fly home  
    **Answer:** Carry her to a new place, away from any landmark she knows, and see if she can fly home. *Why:* A bee with only a memory of routes and landmarks should be lost in a completely new place. A bee with a map might fly home. That is why scientists use displaced bees, and why they still argue about what the result means.
 15. (write) What would you want to find out about your neighbourhood before drawing a map of it for a visitor from another city?  
    **Answer:** I would want to know what the visitor needs, such as the shop, the bus stop or the clinic. I would measure the distances between those places and mark landmarks they can see, such as a tree or a temple.. *Why:* Any thoughtful answer is good. A strong one starts from what the reader needs.
@@ -774,28 +815,28 @@ That evening, Anjana hung the knotted rope on its nail. She ran her fingers alon
    Options: 35 metres / 350 metres / 3,500 metres  
    **Answer:** 350 metres. *Why:* 3.5 times 100 is 350 metres.
 2. (mcq) Which map shows a small area in great detail?  
-   Options: A large-scale map / A small-scale map / A map without a scale  
+   Options: A small-scale map / A large-scale map / A map without a scale  
    **Answer:** A large-scale map. *Why:* A large-scale map shrinks the world only a little, so it can show a small place with many details. A small-scale map covers a big place and leaves out details.
 3. (mcq) The temple is in square C4 on a grid. Which way do you read the reference?  
-   Options: Find column C, then go down to row 4 / Find row C, then go across to column 4 / Add C and 4  
+   Options: Find row C, then go across to column 4 / Add C and 4 / Find column C, then go down to row 4  
    **Answer:** Find column C, then go down to row 4. *Why:* The letter names the column and the number names the row. Run along to C, then down to 4.
 4. (mcq) On a grid with north at the top, which square is just north of D5?  
-   Options: D4 / D6 / E5  
+   Options: D6 / D4 / E5  
    **Answer:** D4. *Why:* North is up, so the row number gets smaller. D4 is north of D5. D6 is south and E5 is east.
 5. (mcq) A map from a few holes in the Hidden Hills box misses a narrow ridge. What is the best way to find it?  
    Options: Add more holes where the heights change fast / Use a longer stick / Colour the squares differently  
    **Answer:** Add more holes where the heights change fast. *Why:* More measurements, placed where the numbers change fast, are most likely to find a hidden feature. The stick and the colours do not change what is measured.
 6. (mcq) What is interpolation?  
-   Options: Working out what lies between two measurements by reasoning / Measuring the same thing twice / Drawing a straight line  
+   Options: Measuring the same thing twice / Drawing a straight line / Working out what lies between two measurements by reasoning  
    **Answer:** Working out what lies between two measurements by reasoning. *Why:* A mapmaker guesses the shape between two soundings using the numbers on either side and what she knows about land.
 7. (mcq) On a contour map, the lines are very close together at one place. What does this tell you?  
-   Options: The land is steep there / The land is flat there / There is a lake there  
+   Options: The land is flat there / There is a lake there / The land is steep there  
    **Answer:** The land is steep there. *Why:* Close lines mean the height changes quickly over a short distance, which is a steep slope.
 8. (mcq) A contour map shows rings inside rings, with the smallest ring in the middle. What is it showing?  
    Options: A hill, with its top in the middle / A lake / A road  
    **Answer:** A hill, with its top in the middle. *Why:* Each ring joins places of one height. Rings inside rings, rising towards the middle, are the slices of a hill.
 9. (mcq) You know a coin is 10 centimetres from tower A. What does this tell you?  
-   Options: It is somewhere on a circle around A / It is exactly 10 centimetres east of A / It is on top of A  
+   Options: It is exactly 10 centimetres east of A / It is somewhere on a circle around A / It is on top of A  
    **Answer:** It is somewhere on a circle around A. *Why:* All the points 10 centimetres from A make a circle. One distance cannot say which point on the circle.
 10. (mcq) A phone uses GPS. Which is true?  
    Options: The phone listens to signals from satellites / The phone sends your position to the satellites / The phone looks at the stars  
@@ -807,14 +848,26 @@ That evening, Anjana hung the knotted rope on its nail. She ran her fingers alon
    Options: It explains what each symbol means / It shows the way north / It says how far apart places are  
    **Answer:** It explains what each symbol means. *Why:* The key explains the symbols. The north arrow shows north, and the scale gives distances.
 13. (mcq) A friend who cannot see needs to find the door of a room. Which map is best?  
-   Options: A map to touch, with ridges and textures / A satellite photograph / A weather map  
+   Options: A satellite photograph / A map to touch, with ridges and textures / A weather map  
    **Answer:** A map to touch, with ridges and textures. *Why:* A touch map keeps what fingers can read: ridges for walls, gaps for doors and textures for things. A photograph is made for eyes.
 14. (mcq) Why does Greenland look so large on many school maps?  
    Options: The map stretches areas near the poles / Greenland is as big as Africa / The map is old  
    **Answer:** The map stretches areas near the poles. *Why:* A flat map of the round Earth must stretch something, and a common projection stretches the lands near the poles.
 15. (mcq) Before the 1950s, many scientists pictured the deep sea floor as a flat plain. What changed this picture?  
-   Options: Closer lines of soundings, drawn carefully, showed a mountain chain and a deep valley / A picture taken from space / A new kind of boat  
+   Options: A picture taken from space / Closer lines of soundings, drawn carefully, showed a mountain chain and a deep valley / A new kind of boat  
    **Answer:** Closer lines of soundings, drawn carefully, showed a mountain chain and a deep valley. *Why:* Soundings that were close together showed ridges and valleys that wide soundings missed. Careful drawing of the numbers revealed the shape.
+16. (mcq) A model of a classroom uses 1 centimetre for 20 centimetres. A real bench is 180 centimetres long. How long is it in the model?  
+   Options: 90 centimetres / 3,600 centimetres / 9 centimetres  
+   **Answer:** 9 centimetres. *Why:* 180 divided by 20 is 9. In a model, every real length is divided by the same number. If you picked 3,600, you multiplied, and made the model bigger than the room.
+17. (mcq) Ria draws rain running from a hill into the village pond, with labels and arrows. What is her drawing?  
+   Options: A model that shows how the parts of a real place connect / A photograph, because it has to look exactly like the pond / A guess, because nobody can draw water  
+   **Answer:** A model that shows how the parts of a real place connect. *Why:* A drawing can stand for something real and show how its parts connect, without copying every detail. That is what a model does. A drawing leaves things out, and it is still useful.
+18. (mcq) On a contour map of a mountain, the smallest ring at the top has the number 8,848 on it. What does the number tell you?  
+   Options: The top is about 8,848 metres above sea level / The climb is 8,848 metres long / The mountain is 8,848 metres wide  
+   **Answer:** The top is about 8,848 metres above sea level. *Why:* Each contour line is a height above sea level, in metres. The smallest ring is the highest place. A map number for a ring never tells you how long the climb or how wide the mountain is.
+19. (mcq) A letter is addressed to a house in a village in Idukki district, in Kerala. Which layer of the address is just bigger than the village?  
+   Options: The state / The district / The house  
+   **Answer:** The district. *Why:* An address goes from small to big: house, street, village, district, state, country, planet. A district holds many villages. A state holds many districts.
 
 ## Applications
 - Phones, cars and aeroplanes use GPS and NavIC to find their position.
@@ -900,6 +953,14 @@ Know Where You Stand (sci.planet-earth.L4): Topic-level song
 - [A geometry box with a drawing compass](https://www.amazon.in/s?k=geometry+box+compass) (tool): To draw the circles in the Three Distances test. Most school bags already have one. A string and a pencil also work. Used in e2. 
 - [A pack of oil-based modelling clay (plasticine)](https://www.amazon.in/s?k=modelling+clay+for+kids) (material): For the Hidden Hills landscape and the clay hill that is sliced with water. A small pack from a stationery shop is enough. Do not use mud or earth clay for the water test, because it clouds the water. Used in e1, a3. 
 - [A whiteboard marker](https://www.amazon.in/s?k=whiteboard+marker) (material): To trace the water line on the clear lid in the Contour Hill test, because it wipes off plastic. It costs about Rs 30 at a stationery shop. A thin marker that you can wipe with a tissue also works. Used in a3. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in The Scale Walk: does the scale bar tell the truth?, Zoom-Out Atlas: from your room to your city in five pages. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e3, p1. Get it before The Scale Walk: does the scale bar tell the truth?.
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in The Scale Walk: does the scale bar tell the truth?. About ₹150 to ₹400. A phone stopwatch works well. Used in e3. Get it before The Scale Walk: does the scale bar tell the truth?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Hidden Hills: map a landscape in a box you cannot see into, Three Distances: how many tell you exactly where the coin is?, The Scale Walk: does the scale bar tell the truth?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, e3, a3, a5, p1, c1, c2. Get it before Hidden Hills: map a landscape in a box you cannot see into.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in Hidden Hills: map a landscape in a box you cannot see into. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in e1. Get it before Hidden Hills: map a landscape in a box you cannot see into.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in A Map to Touch: make a map that a blindfolded friend can read. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c2. Get it before A Map to Touch: make a map that a blindfolded friend can read.
+- [Butter paper or tracing paper](https://www.amazon.in/s?k=butter+paper+roll) (material): Used in Zoom-Out Atlas: from your room to your city in five pages. About ₹30 to ₹80 for a roll. Thin clean plastic bag or a sheet of waxed paper. Used in p1. Get it before Zoom-Out Atlas: from your room to your city in five pages.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in Hidden Hills: map a landscape in a box you cannot see into, Tabletop Town: find places with a grid, Services Walk: who works where in our neighbourhood?. About ₹10 to ₹30. Draw squares on plain paper. Used in e1, a1, a2, a5. Get it before Hidden Hills: map a landscape in a box you cannot see into.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What does a scale tell you on a map? → How much smaller the map is than the real place.
@@ -915,12 +976,12 @@ Know Where You Stand (sci.planet-earth.L4): Topic-level song
 
 ## Plan
 - Start options: intro, a1, e1, story, big_questions, cards, g1
-- Default order: intro → a1 → e1 → summary → terms → explanations → story → e2 → g1 → videos → ws-core → a2 → e3 → a3 → a4 → a5 → a6 → g2 → agreed → challenging → ws-stretch → p1 → c1 → c2 → big_questions → ws-challenge → open_questions → roots → quiz
+- Default order: intro → a1 → e1 → summary → terms → explanations → story → e2 → g1 → videos → ws-core → a2 → e3 → a3 → a4 → a5 → a6 → g2 → agreed → challenging → ws-stretch → p1 → c1 → c2 → a7 → big_questions → ws-challenge → open_questions → roots → quiz
 - Core: a1, e1, e2, g1, ws-core
 
 ## Sources
 - ideas/by_topic/planet-earth.md: the founder's notes on maps, used for the map drawing and surveying activities
-- The Level 3 unit on maps and directions, which this unit builds on: the ideas of north, south, east and west, tile maps and scale by counting, now extended to scale bars, grids, height and finding a place from distances
+- The Level 3 unit on maps and directions, which this lesson builds on: the ideas of north, south, east and west, tile maps and scale by counting, now extended to scale bars, grids, height and finding a place from distances
 - Board chapter NCERT Class 4, Exploring Our Neighbourhood: coverage only, for the neighbourhood and services parts
 - Heezen, Tharp and Ewing, The Floors of the Oceans: I. The North Atlantic, Geological Society of America Special Paper 65, 1959
 - Heezen and Tharp, World Ocean Floor Panorama, 1977 (painted by Heinrich Berann)

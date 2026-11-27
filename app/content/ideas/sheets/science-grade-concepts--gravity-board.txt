@@ -1,0 +1,61 @@
+# DeepKids - Science - Grade Concepts / Gravity Board (copied from Google Sheets, 2026-11-27)
+R2:  | Region | Tile Number | Gravitity Well | Overturn Force Card |  |  |  |  |  |  |  | Used Up
+R3:  | Core | 1 | Time Stopped.  ⏎ Lose 2 Turns ⏎ Throw >3 on Dice To Move Out |  |  |  |  |  |  | Normal Force | 2
+R4:  | Mantle | 2 | Time Slowed ⏎ Lose 1 turn |  |  |  |  |  |  | Buoyancy - low G mode | 1+2
+R5:  |  | 3 | FN low & G Low - Pace for an extremely slow descent into the core ⏎ Lose 1 Trun and move back to the core |  |  |  |  |  |  | Sideways Velocity | 2 +2
+R6:  |  | 4 | High viscocity layer - movement conatined ⏎ Lose 1 Turn | Buoyancy Card |  |  |  |  |  | Impact Force -Elastic Energy | 1+1
+R7:  |  | 5 | None |  |  |  |  |  |  | CoG=CoB | 3+1
+R8:  | Crust | 6 | Crust is brittle, can cave in beneath weight ⏎ Fall 1 Step behind into the mantle to 2  |  |  |  |  |  |  | Escape Velocity | 1
+R9:  |  | 7 | Fractured Ground - Caution ⏎ Lose 1 Turn | Physical Work Card |  |  |  |  |  | Magnetic Energy | 1
+R10:  |  | 8 | Climb out of here only with a physical Work card |  |  |  |  |  |  | Air Resistance | 1
+R11:  |  | 9 | Rock Layers Shift - Roll the dice and move as many steps backwards | Normal Force Card |  |  |  |  |  | Physical Work | 3 | 4
+R12:  |  | 10 | None |  |  |  |  |  |  | Air Lift | 1
+R13:  | Surface | 11 | Climb out of here only by playing a Physical Work Card ⏎ Or Use Elastic Energy to Jump to 17 |  |  |  |  |  |  | Neutral Pull | 1
+R14:  |  | 12 | Granite Mountain - High below surface density, low height, high G ⏎ Lose 1 Turn | Wieght Loss Card ⏎ Normal Force Card |  |  |  |  |  | Weight Loss (mass) | 3
+R15:  |  | 13 | Himalayas, High altitude, Low G, Low surface density, Lower G ⏎ Move 1 Step upward to 19, only  by using a Physical Work Card |  |  |  |  |  |  | Knowledge Points | 4
+R16:  | Starting Point | 14 | Water Body - Play A Bouyancy Card/ CoG=CoB To Float or A Physical Work Card to Swim, If none, sink, die,be reborn in 1
+R17:  |  | 15 | Starting Point ⏎ only if >1st round, eject out to LEO by playing a Escape Velocity card & a Sideways Velocity card together
+R18:  |  | 16 | Play A Sideways Velocity Card & Elastic Energy Impact Force + Physical Work To Reach LEO ⏎ Or Play A Knowledge Card To Get Out Of Here |  |  |  |  |  |  |  | 29
+R19:  |  | 17 | Ocean - Sink  and die  ⏎ Be reborn in 1 | Buoyancy Card / CoG=CoB card
+R20:  |  | 18 | At the edge of a cliff . Use CoG=CoB to balance or fall into 8
+R21:  | Troposphere | 19 | None
+R22:  |  | 20 | DragStorm - Intense Air Resistance - not falling to the ground, not moving up ⏎ Lose 2 Rounds | Weight Loss Card
+R23:  |  | 21 | Headwind Gust  ⏎ Roll Dice 1,2,3 - go to 8 ; 4,5, 6- go to 26 | Air Resistance Card
+R24:  |  | 22 | Climb out of here only by playing a Knowledge Card
+R25:  |  | 23 | Lift Failure - Go back to your previous tile | Air Lift Card
+R26:  |  | 24 | Pay A Card (Any)
+R27:  | Stratosphere | 25 | Lose Wieght to Ascend - Pay A Weight Loss Card
+R28:  |  | 26 | G almost same as surface, air density less ⏎ Fall to 11 | Normal Force Card/ Air Lift Card/ Air Resistance Card
+R29:  |  | 27 | Use Magnetic Energy card to lift off to 34
+R30:  |  | 28 | None
+R31:  |  | 29 | Sudden Gravity Peak ⏎ Fall to 8 | CoG=CoB or Sideways Velocity Card
+R32:  |  | 30 | None
+R33:  |  | 31 | Jet Stream Drift - strong horizontal Wind  ⏎ Move to 23 | Escape Velocity Card
+R34:  | Mesosphere | 32 | Thin Air & Cold -Use Knowledge Card For Shelter, Else Drop To 28
+R35:  |  | 33 | Float Here By Playing A CoG=CoB Card Or  Back to 28
+R36:  |  | 34 | Thin Air, Fall To 29 | AirLift
+R37:  |  | 35 | Meteor Drag Zone  ⏎ Fall to 12 | Sideways Velocity Card
+R38:  |  | 36 | Pay A Card (Any) to move from here
+R39:  |  | 37 | Stay Frozen for 1 round
+R40:  |  | 38 | Gravity Surge ⏎ Fall to 30 | Escape Velocity ⏎ Sideways Velocity
+R41:  |  | 39 | Gravitas Well - Your Own Gravity Grows Multitude momentarily - ALl other players move back 3 steps
+R42:  |  | 40 | None
+R43:  | Thermosphere | 41 | Play A Sideways Velocity Card & Elastic Energy Impact Force to LEO if round>1
+R44:  |  | 42 | Ion Drag  ⏎ Move to 28 | Weight Loss Card
+R45:  |  | 43 | Solar Flare- escape with sideways velocity oe drop to 40
+R46:  |  | 44 | Planetary alignment - Roll dice - 1 = Get pulled to LEO, anything else, gravity surge drop to 19
+R47:  |  | 45 | Thermal Burst - Burned - Death ⏎ Start again at 1 | Shield with Knowledge Card
+R48:  |  | 46 | Gravitas Boost - Your Gravitas Grows and you get to jump to 48
+R49:  |  | 47 | Solar Radiation Disruption  ⏎ Lose A Turn
+R50:  |  | 48 | None
+R51:  | Exosphere | 49 | Play A Knowledge Card To Move From here
+R52:  |  | 50 | Gravity Snap - No Air Thrust, Sudden Fall ⏎ Go to 41
+R53:  |  | 51 | None
+R54:  |  | 52 | Use Sideways Velocity Card to Reach LEO
+R55:  |  | 53 | Reach L1 Only By Playing A Neutral Pull Card
+R56:  |  | 54 | Reach L1 Only By Playing A Neutral Pull Card
+R58:  | LEO | Ring | Reach L1 Only By Playing A Neutral  Pull Card From 52/53 or Here
+R59:  | L1 |  | Throw 3 on Dice to Reach L2
+R60:  | L2 |  | Throw 1 On Dice To Reach L3
+R61:  | L3 |  | Throw 2 on Dice to Reach L4
+R62:  | L4 |  | Throw 1 On Dice To Float And Explore DeepSpace

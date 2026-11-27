@@ -1,9 +1,9 @@
 # Heat on the move: why smoke rises and the Sun warms you across empty space
 `sci.energy.heat-moves.L4`
 
-**Summary.** The Sun's warmth reaches your face across empty space, where there is no air to carry it. How? In this unit you will watch hot and cold drops of coloured water move in opposite ways, feel the warmth around a diya flame, and play a game to work out which way heat travelled.
+**Summary.** The Sun's warmth reaches your face across empty space, where there is no air to carry it. How? In this lesson you will watch hot and cold drops of coloured water move in opposite ways, feel the warmth around a diya flame, and play a game to work out which way heat travelled.
 
-**Intro.** *Hold your hand beside a lit diya, 10 centimetres away. It feels warm. Now hold a card between the flame and your hand. The warmth stops at once. But when you hold your hand above the flame, a card held beside the flame changes nothing. Why does the card block one kind of warmth but not the other?* Last year you saw that heat creeps through a steel spoon from part to part. That is conduction. But air barely carries heat that way, and the Sun's warmth crosses empty space where there is nothing to creep through. So heat must have other ways to travel. In this unit you find them. You send hot and cold drops through a glass of water, you spin a paper spiral with rising air, and you test which wrapping lets the Sun warm a tumbler the most.
+**Intro.** *Hold your hand beside a lit diya, 10 centimetres away. It feels warm. Now hold a card between the flame and your hand. The warmth stops at once. But when you hold your hand above the flame, a card held beside the flame changes nothing. Why does the card block one kind of warmth but not the other?* Last year you saw that heat creeps through a steel spoon from part to part. That is conduction. But air barely carries heat that way, and the Sun's warmth crosses empty space where there is nothing to creep through. So heat must have other ways to travel. In this lesson you find them. You send hot and cold drops through a glass of water, you spin a paper spiral with rising air, and you test which wrapping lets the Sun warm a tumbler the most.
 
 ## Learning outcomes
 0. I can name the three ways heat travels, conduction, convection and radiation, and show each one with something at home.
@@ -36,14 +36,14 @@
 ### Three ways heat travels · *defined*
 **Definition:** Heat travels from a hotter place to a cooler place in three ways. Conduction passes it from part to touching part. Convection carries it in a moving liquid or gas. Radiation sends it as invisible waves that need nothing to travel through.
 
-In Class 3 you met conduction. A steel spoon in hot tea warms up its handle because each tiny part of the steel passes its jiggling to the next. But conduction needs something to touch, and it is slow. So heat has two more ways. Convection works in liquids and gases, which can flow. The hot part moves, and takes its heat along. Radiation does not need anything at all. A bonfire warms your face by sending out waves. The waves cross the cold air, but the air does not carry them. Most real things use more than one way at once. A pot of dal on a stove is warmed by conduction through the base, by convection in the dal, and by radiation to your face if you lean over it.
+In Class 3 you met conduction. A steel spoon in hot tea warms up its handle because each tiny part of the steel passes its jiggling to the next. But conduction needs something to touch, and it is slow. So heat has two more ways. Convection works in liquids and gases, which can flow. The hot part moves, and takes its heat along. Radiation does not need anything at all. A bonfire warms your face by sending out waves. The waves cross the cold air, but the air does not carry them. Most real things use more than one way at once. A pot of dal on a stove is warmed by conduction through the base, by convection in the dal, and by radiation to your face if you lean over it. Metals conduct heat very well. Wood and plastic conduct it poorly, which is why a wooden spoon stays cool in hot dal.
 - e.g. A steel ladle in hot sambar warms its handle by conduction.
 - e.g. Rice grains rising and falling in a boiling pot show convection.
 - e.g. The warmth on your face from a bonfire is radiation.
 ### Why warm air and warm water rise · *defined*
 **Definition:** When a liquid or gas is warmed, it expands and becomes less dense. The cooler fluid around it is heavier, so it sinks and pushes the lighter warm fluid up.
 
-Heat makes the tiny particles in a fluid move faster, and they push a little further apart. The same amount of stuff now takes up more room, so each spoonful is lighter than before. That is what less dense means. Air that is warmed from 27 to 57 degrees Celsius becomes about a tenth lighter. Water warmed from 20 to 60 degrees becomes lighter by about one and a half parts in every hundred. The warm part sits in cooler, heavier fluid, so it is lifted, the same way a cork is lifted in water. Cooler fluid does not rise. It sinks, and that sinking is what pushes the warm fluid up. Water has one odd habit. Between 4 and 0 degrees it gets lighter again as it gets colder, which is part of why ice floats and why a lake freezes from the top.
+Heat makes the tiny particles in a fluid move faster, and they push a little further apart. The same amount of stuff now takes up more room, so each spoonful is lighter than before. That is what less dense means. Air that is warmed from 27 to 57 degrees Celsius becomes about a tenth lighter. Water warmed from 20 to 60 degrees becomes lighter by about one and a half parts in every hundred. The warm part sits in cooler, heavier fluid, so it is lifted, the same way a cork is lifted in water. Cooler fluid does not rise. It sinks, and that sinking is what pushes the warm fluid up. Water has one odd habit. Between 4 and 0 degrees it gets lighter again as it gets colder, which is part of why ice floats and why a lake freezes from the top. Solids grow a little when they are heated, and shrink a little when they cool. Railway rails have small gaps between each length of rail for this reason.
 - e.g. Smoke from an agarbatti curls upwards in still air.
 - e.g. A hot-air balloon rises because the air inside is less dense than the air outside.
 - e.g. Steam from an idli cooker climbs to the ceiling.
@@ -151,7 +151,7 @@ In Colour Currents, a hot drop of red water rose and an ice-cold drop sank in th
 Where everything is the same temperature, nothing flows. Every wind, current, cloud and living body keeps going because two places are at different temperatures. Heat flows from the warmer place to the cooler one, and that makes the two places more alike. The Sun keeps making new differences, so the flowing never stops. Wind, rain, rivers and life all depend on the temperature differences that the Sun keeps making.
 
 - **Heraclitus, fragment 60 (Diels and Kranz numbering):** “ὁδὸς ἄνω κάτω μία καὶ ωὑτή” Heraclitus, a Greek thinker of about 500 BCE, taught that the road up and the road down are one and the same. (In a convection current, the rising and the sinking are one loop. Neither can happen without the other.)
-- **Chandogya Upanishad 6.2.3 and 6.2.4:** “तत्तेजोऽसृजत / तदपोऽसृजत / ता आप ऐक्षन्त बह्वयः स्याम प्रजायेमहीति / ता अन्नमसृजन्त” This text says that Being first sent out heat, and then from heat came water, and from water came food. Heat is named as the first of the many forms. (Heat is where this unit starts, too. It is the thing that moves, mixes and drives the loops in water, air and rock.)
+- **Chandogya Upanishad 6.2.3 and 6.2.4:** “तत्तेजोऽसृजत / तदपोऽसृजत / ता आप ऐक्षन्त बह्वयः स्याम प्रजायेमहीति / ता अन्नमसृजन्त” This text says that Being first sent out heat, and then from heat came water, and from water came food. Heat is named as the first of the many forms. (Heat is where this lesson starts, too. It is the thing that moves, mixes and drives the loops in water, air and rock.)
 - Science (settled): Heat flows by itself only from hotter to cooler places. This is the second law of thermodynamics, and it has never been seen to fail.
 - Science (debated): How much the Earth's slow mantle currents move the plates, compared with the pull of sinking plate edges, is still argued.
 - Other view, Aristotle, a Greek thinker of the 300s BCE: Aristotle taught that fire and air rise because rising is their nature. They belong up high, and heavy earth and water belong down low. On this view, rising needs no pushing from anything below.
@@ -465,8 +465,8 @@ That week, Mama took off every sheet of glass. He kept the air conditioner for t
   - Note: On a bright, clear day, between 11 in the morning and 2 in the afternoon, chocolate in the oven often goes soft in about 20 to 30 minutes and melts in about 30 to 60 minutes. Times are typical, not a promise. The piece outside the oven should stay firm much longer, and that difference is your evidence. On a cloudy or hazy day, or in winter, it may not melt at all. If so, try a second day. If it is very hot, put a spoon under the chocolate to protect the paper. Never leave the oven out in the Sun and walk away. If nothing happens, check for gaps in the cling film, crumpled foil, or a flap that is not aimed at the Sun, and turn the oven every 10 minutes. With 2 to 4 children, one watches the clock, one turns the oven, one writes the times, and one looks at the outside chocolate. With one child, the child does all of these.
   - Check: The warm air inside the oven cannot escape because of the cling film. Which way of moving heat does the film stop? → **Convection, because it stops hot air from rising out**
 - **s4 (5 min)**  
-  *Parent does:* Ask your child to trace with a finger the path of the sunlight going into the oven and bouncing. Ask which two ideas from this unit made the oven work. Ask how they could make it hotter.  
-  *Parent says:* Show me with your finger where the sunlight goes. Which two ideas from this unit made the oven work? How could we make it hotter next time?  
+  *Parent does:* Ask your child to trace with a finger the path of the sunlight going into the oven and bouncing. Ask which two ideas from this lesson made the oven work. Ask how they could make it hotter.  
+  *Parent says:* Show me with your finger where the sunlight goes. Which two ideas from this lesson made the oven work? How could we make it hotter next time?  
   *Child mode:* Trace the sunlight with your finger. What made it work? How can we make it hotter?
   - Note: Good answers are that the foil reflects radiation onto a dark surface, and that the cling film traps warm air so convection cannot carry the heat away. To make it hotter, use a bigger reflector, a better seal, or a black pot with a lid.
   - Think: Why do real solar cookers in India often have a black pot and a curved mirror?
@@ -532,52 +532,54 @@ That week, Mama took off every sheet of glass. He kept the air conditioner for t
   - Think: Where should the heater go in a pot of water, and where should the ice go in a jug?
 
 ## Worksheets
-### How heat moves (core) (core, 17 questions)
+### How heat moves (core) (core, 18 questions)
 1. (mcq) A steel ladle stands in a pot of hot sambar, and its handle slowly warms. Which way is the heat travelling up the handle?  
    Options: Conduction / Convection / Radiation  
    **Answer:** Conduction. *Why:* The heat passes from each tiny part of the steel to the part touching it. That is conduction. Convection needs a liquid or gas that moves, and radiation needs no touching at all.
 2. (mcq) Why does a drop of hot water rise through cooler water?  
-   Options: It is lighter than the cooler water around it / Heat itself is lighter than water / The cooler water pulls it up  
+   Options: Heat itself is lighter than water / It is lighter than the cooler water around it / The cooler water pulls it up  
    **Answer:** It is lighter than the cooler water around it. *Why:* Hot water expands and is less dense, so the heavier cool water around it sinks underneath and pushes it up. Heat is not a thing that has weight, and the cool water pushes, not pulls.
 3. (truefalse) Heat always travels upwards.  
    **Answer:** False. *Why:* False. Hot liquids and gases rise, but heat in a solid spoon travels in every direction, and radiation goes out in every direction at once.
 4. (fill) The Sun's heat crosses empty space by ____.  
    **Answer:** ['radiation']. *Why:* Empty space has nothing to touch or to flow, so only radiation can carry the Sun's heat across it.
-5. (match) Match each way of moving heat to what it does.  
+5. (fill) Metals ____ heat well, while wood and plastic do not.  
+   **Answer:** ['conduct']. *Why:* Heat passes from one part of metal to the next very easily. Wood and plastic pass it on poorly, so their handles stay cool.
+6. (match) Match each way of moving heat to what it does.  
    **Answer:** Conduction → heat passes from part to touching part; Convection → heat is carried by a moving liquid or gas; Radiation → heat travels as invisible light-like waves. *Why:* Conduction needs touching. Convection needs a fluid that can flow. Radiation needs nothing.
-6. (sort) Sort each thing by what it does to sunlight.  
+7. (sort) Sort each thing by what it does to sunlight.  
    **Answer:** black school bag → Takes in a lot; white shirt → Sends back a lot; shiny kitchen foil → Sends back a lot; dark tar road → Takes in a lot; white-painted roof → Sends back a lot; black umbrella → Takes in a lot. *Why:* Dark, dull things take in most of the light and turn it into heat. White and shiny things send most of it back.
-7. (order) Put the steps of a convection current in order, starting with the first.  
+8. (order) Put the steps of a convection current in order, starting with the first.  
    **Answer:** ['Water near the flame is warmed', 'The warm water rises', 'At the top it spreads out and cools', 'The cooled water sinks at the sides', 'The water flows back along the bottom towards the flame']. *Why:* The loop starts with warming. The warm water rises, cools at the top, sinks at the sides and comes back to the flame to be warmed again.
-8. (mcq) On a hot afternoon, a cool wind blows from the sea onto the beach. Why?  
-   Options: Air rises over the warm land, and cooler sea air flows in to take its place / The sea is hotter than the land in the daytime / The Moon pulls the air towards the beach  
+9. (mcq) On a hot afternoon, a cool wind blows from the sea onto the beach. Why?  
+   Options: The sea is hotter than the land in the daytime / The Moon pulls the air towards the beach / Air rises over the warm land, and cooler sea air flows in to take its place  
    **Answer:** Air rises over the warm land, and cooler sea air flows in to take its place. *Why:* The land warms faster than the sea. The air over it rises, and cooler air from over the sea slides in underneath.
-9. (count) In a made-up test, a tumbler in black paper warmed from 28 to 38 degrees in the Sun. A tumbler in white paper warmed from 28 to 31 degrees. How many more degrees did the black one rise than the white one?  
+10. (count) In a made-up test, a tumbler in black paper warmed from 28 to 38 degrees in the Sun. A tumbler in white paper warmed from 28 to 31 degrees. How many more degrees did the black one rise than the white one?  
    **Answer:** 7. *Why:* The black tumbler rose 38 minus 28, which is 10 degrees. The white rose 31 minus 28, which is 3 degrees. 10 minus 3 is 7. So the black one rose 7 degrees more.
-10. (mcq) Why can the Sun's heat reach the Earth, when there is empty space in between?  
-   Options: Radiation can cross empty space / Air in space carries the heat / Conduction works through empty space  
+11. (mcq) Why can the Sun's heat reach the Earth, when there is empty space in between?  
+   Options: Air in space carries the heat / Conduction works through empty space / Radiation can cross empty space  
    **Answer:** Radiation can cross empty space. *Why:* Radiation is waves of light that need nothing to travel through. There is almost no air in space, so convection and conduction cannot work there.
-11. (odd) Which is the odd one out, and why? Warmth of a bonfire on your face, sunlight on a terrace, a lamp warming your cheek, a hot tumbler burning your fingers.  
+12. (odd) Which is the odd one out, and why? Warmth of a bonfire on your face, sunlight on a terrace, a lamp warming your cheek, a hot tumbler burning your fingers.  
    **Answer:** The hot tumbler. *Why:* The tumbler passes heat by conduction, because it touches your fingers. The other three are radiation, which crosses a gap without touching.
-12. (write) Many old single-door fridges have the freezer box at the top. Explain why this works well.  
+13. (write) Many old single-door fridges have the freezer box at the top. Explain why this works well.  
    **Answer:** The freezer cools the air next to it. Cold air is heavier than warm air, so it sinks and cools the food below. If the freezer were at the bottom, the cold air would stay down there.. *Why:* A strong answer says that cooled air sinks, so the cold spreads downwards, and that this is a convection current.
-13. (draw) Draw a pot of water on a flame. Draw arrows to show a convection current inside it.  
+14. (draw) Draw a pot of water on a flame. Draw arrows to show a convection current inside it.  
    **Answer:** A pot over a flame. Arrows go up in the middle, across the top, down at the sides and back along the bottom towards the flame.. *Why:* A strong drawing shows a full loop, with the water rising over the flame and sinking at the sides.
-14. (label) Label this picture of a pot of dal on a stove: where conduction happens, where convection happens, and where radiation reaches the child.  
+15. (label) Label this picture of a pot of dal on a stove: where conduction happens, where convection happens, and where radiation reaches the child.  
    **Answer:** Conduction is along the steel ladle handle or through the base of the pot. Convection is the loop of dal inside the pot. Radiation is the warmth reaching the child's face from the side.. *Why:* Conduction needs touching, convection needs a moving fluid, and radiation travels in straight lines through the air.
-15. (truefalse) A white roof reflects more of the Sun's radiation than a black roof.  
+16. (truefalse) A white roof reflects more of the Sun's radiation than a black roof.  
    **Answer:** True. *Why:* True. White surfaces send most of the light back. Dark surfaces take it in and turn it into heat.
-16. (write) Many people say: 'When I open the fridge, the cold comes out.' Say what is really happening.  
+17. (write) Many people say: 'When I open the fridge, the cold comes out.' Say what is really happening.  
    **Answer:** Heat from the warm kitchen air goes into the fridge, and the cool, heavy air from inside spills out along the floor. There is no cold stuff that comes out. Something feels cold when heat flows out of you into it.. *Why:* A strong answer says that heat moves from warm to cool, and that cool air sinks because it is heavy.
-17. (mcq) A silver vacuum flask keeps tea hot for hours. What does the silver coating do?  
-   Options: It reflects heat radiation back into the tea / It makes the tea heavier / It makes the flask magic  
+18. (mcq) A silver vacuum flask keeps tea hot for hours. What does the silver coating do?  
+   Options: It makes the tea heavier / It reflects heat radiation back into the tea / It makes the flask magic  
    **Answer:** It reflects heat radiation back into the tea. *Why:* Silver reflects radiation, so heat from the tea is sent back. The vacuum between the walls stops conduction and convection.
-### How heat moves (stretch) (stretch, 17 questions)
+### How heat moves (stretch) (stretch, 18 questions)
 1. (mcq) A spoonful of air at 27 degrees is warmed to 57 degrees. What happens to it?  
    Options: It expands and becomes lighter / It shrinks and becomes heavier / It stays exactly the same  
    **Answer:** It expands and becomes lighter. *Why:* Warm air takes up more room, so the same amount of air is spread out and each spoonful is lighter. This is why warm air rises through cooler air.
 2. (mcq) Black kite birds circle higher without flapping over a hot road. What lifts them?  
-   Options: Warm air rising from the hot road / The pull of the Sun / Their feathers make their own lift  
+   Options: The pull of the Sun / Warm air rising from the hot road / Their feathers make their own lift  
    **Answer:** Warm air rising from the hot road. *Why:* The hot road warms the air above it, and the warm air rises in a column called a thermal. The birds ride it upwards.
 3. (truefalse) When you open a window in winter, cold flows into the room.  
    **Answer:** False. *Why:* False. There is no cold stuff. Heat flows out of the warm room to the cold outside, and the cold air that comes in is just air with less heat in it.
@@ -590,38 +592,40 @@ That week, Mama took off every sheet of glass. He kept the air conditioner for t
 7. (match) Match each wind or flow to what causes it.  
    **Answer:** Sea breeze → land warmer than the sea in the daytime; Land breeze → land cooler than the sea at night; Thermal → warm air rising from hot ground; Convection current in a pot → water warmed at the bottom. *Why:* Each one is a loop of warm fluid rising and cooler fluid sinking. What changes is where the warmth comes from.
 8. (mcq) A steel plate feels colder than a wooden board that has been in the same room all day. Why?  
-   Options: Steel carries heat away from your hand faster / The steel is at a lower temperature / Wood makes its own heat  
+   Options: The steel is at a lower temperature / Wood makes its own heat / Steel carries heat away from your hand faster  
    **Answer:** Steel carries heat away from your hand faster. *Why:* Both are at room temperature. Your skin feels the speed at which heat leaves it, and steel is a better conductor than wood.
-9. (count) The Moon's light takes about 1 second to reach us. The Sun's radiation takes about 500 seconds. How many times as long does the Sun's radiation take?  
+9. (fill) When a solid is heated, it ____ a little, which is why railway rails have gaps.  
+   **Answer:** ['expand']. *Why:* Solids grow a little when they are hot. The gaps leave room for that growth, so the rails do not push against each other and bend.
+10. (count) The Moon's light takes about 1 second to reach us. The Sun's radiation takes about 500 seconds. How many times as long does the Sun's radiation take?  
    **Answer:** 500. *Why:* 500 divided by 1 is 500. So the Sun's radiation takes about 500 times as long to reach us.
-10. (write) A lid on a pot of dal helps keep it hot. Say which way of moving heat the lid slows down most, and how.  
+11. (write) A lid on a pot of dal helps keep it hot. Say which way of moving heat the lid slows down most, and how.  
    **Answer:** The lid slows convection. Hot steam and hot air cannot rise away from the dal. The dal also loses less heat by radiation upwards.. *Why:* A strong answer says that the lid traps the rising warm air and steam, so the heat stays in the pot.
-11. (odd) Which is the odd one out, and why? Sea breeze, a thermal, boiling water, sunbathing.  
+12. (odd) Which is the odd one out, and why? Sea breeze, a thermal, boiling water, sunbathing.  
    **Answer:** Sunbathing. *Why:* The first three are convection, with warm fluid rising and cool fluid sinking. Sunbathing warms your skin by radiation.
-12. (perspective) Two children are talking about the freezer.  
+13. (perspective) Two children are talking about the freezer.  
    **Answer:** The second child is right that heat flows into the cold fridge. The first child is partly right: cool air really does spill out, and it feels cold. A thermometer near the floor in front of the open door would show the cool air spreading low.. *Why:* A strong answer picks a side, gives a test, and says fairly that the cool air does move.
-13. (draw) Draw an old house on a hot day. Show where cool air comes in, where hot air goes out, and which way each one moves.  
+14. (draw) Draw an old house on a hot day. Show where cool air comes in, where hot air goes out, and which way each one moves.  
    **Answer:** A house with a low door or window open on the shaded side and a high ventilator. Arrows show cool air coming in low and moving along the floor, and hot air rising and leaving through the high ventilator.. *Why:* A strong drawing shows one opening low and one high, and a loop of air through the room.
-14. (label) Label this picture of the Sun and the Earth: the Sun, the Earth, the empty space, and the way the heat travels.  
+15. (label) Label this picture of the Sun and the Earth: the Sun, the Earth, the empty space, and the way the heat travels.  
    **Answer:** The Sun is on the left. The Earth is on the right. The empty space is the gap in between with no air. The heat travels as radiation, shown with wavy arrows.. *Why:* The Sun's heat crosses about 150 million kilometres of nearly empty space as radiation.
-15. (mcq) Many people in hot places wear loose, light-coloured cotton. Why does this help?  
-   Options: Light colours reflect more sunlight, and loose cloth lets air move over the skin / White cloth is cold / Cotton gives out heat  
+16. (mcq) Many people in hot places wear loose, light-coloured cotton. Why does this help?  
+   Options: White cloth is cold / Cotton gives out heat / Light colours reflect more sunlight, and loose cloth lets air move over the skin  
    **Answer:** Light colours reflect more sunlight, and loose cloth lets air move over the skin. *Why:* Light colours send back more of the Sun's radiation. Loose cloth lets warm air next to the skin escape and cooler air flow in.
-16. (truefalse) The Sun's heat reaches us by warming all the air between the Sun and the Earth.  
+17. (truefalse) The Sun's heat reaches us by warming all the air between the Sun and the Earth.  
    **Answer:** False. *Why:* False. Radiation passes through clear air and empty space without warming them much. It warms the ground and our skin.
-17. (write) Pick something in your home where heat travels in two ways at once. Name both ways and say where each one happens.  
+18. (write) Pick something in your home where heat travels in two ways at once. Name both ways and say where each one happens.  
    **Answer:** For example, in a pot of milk on a stove, conduction passes heat through the base, and convection stirs it through the milk.. *Why:* A strong answer names two different ways and points to the exact place each one happens.
 ### How heat moves (challenge) (challenge, 16 questions)
 1. (mcq) A pond cools in winter. Water is heaviest at 4 degrees, and lighter just above 0 degrees. What does this mean for the pond?  
    Options: The coldest water stays at the top, so the pond freezes from the top down / The coldest water sinks to the bottom, so the pond freezes from the bottom up / The pond never freezes  
    **Answer:** The coldest water stays at the top, so the pond freezes from the top down. *Why:* Below 4 degrees, water becomes lighter as it cools. The coldest water stays on top and freezes first, and fish can survive in the 4 degree water below.
 2. (mcq) On the space station, fans must keep the air moving all the time. Why?  
-   Options: Warm, breathed-out air does not rise in weightlessness, so breath would collect around the face / The fans are there for decoration / The station is too cold  
+   Options: The fans are there for decoration / Warm, breathed-out air does not rise in weightlessness, so breath would collect around the face / The station is too cold  
    **Answer:** Warm, breathed-out air does not rise in weightlessness, so breath would collect around the face. *Why:* Rising air needs gravity to pull the heavier air down. Without it, there is no natural convection, and the air around an astronaut's face would go stale.
 3. (write) Explain why a sea breeze is weak or late on a cloudy afternoon.  
    **Answer:** Clouds block sunlight, so the land does not warm much. Then the air over the land does not rise as strongly, and not much cooler sea air is pulled in.. *Why:* A strong answer links the cloud to a cooler land, and a cooler land to a weaker rise and a weaker pull.
 4. (mcq) A black pot and a shiny pot of the same size are filled with the same hot water and left to cool. Which cools faster by radiation, and why?  
-   Options: The black pot, because dark surfaces are good at giving out radiation / The shiny pot, because it is shiny / They cool at exactly the same rate  
+   Options: The shiny pot, because it is shiny / The black pot, because dark surfaces are good at giving out radiation / They cool at exactly the same rate  
    **Answer:** The black pot, because dark surfaces are good at giving out radiation. *Why:* A surface that takes in radiation well also gives it out well. A shiny surface is poor at both, so it holds its heat longer.
 5. (fill) When a warm fluid cools at the top of a loop, it becomes ____ and sinks.  
    **Answer:** ['heavier', 'denser']. *Why:* Cooling makes the fluid shrink a little, so each spoonful is heavier. Heavier fluid sinks.
@@ -644,7 +648,7 @@ That week, Mama took off every sheet of glass. He kept the air conditioner for t
 14. (label) Label this picture of a sea breeze: the warm land, the cool sea, the rising air, and the wind along the ground.  
    **Answer:** The warm land is on the right. The cool sea is on the left. The rising air is above the land. The wind along the ground blows from the sea to the land.. *Why:* The land warms faster, so air rises over it, and cooler sea air flows in below.
 15. (mcq) In 1856, Eunice Foote found that a jar of carbon dioxide warmed more in sunlight than a jar of ordinary air. What does this suggest?  
-   Options: Carbon dioxide takes in more of the Sun's heat radiation than ordinary air does / Carbon dioxide is a colder gas / The other jar had too little air in it  
+   Options: Carbon dioxide is a colder gas / Carbon dioxide takes in more of the Sun's heat radiation than ordinary air does / The other jar had too little air in it  
    **Answer:** Carbon dioxide takes in more of the Sun's heat radiation than ordinary air does. *Why:* Her jars were otherwise the same. The difference suggests that the gas inside changed how much heat was held. This is an early clue to the greenhouse effect.
 16. (write) You want to check whether a white roof really keeps a room cooler than a dark roof. Say what you would keep the same, what you would change, and what you would measure.  
    **Answer:** Keep the same: the size of the rooms, the walls, and the time in the Sun. Change: the colour of the roof. Measure: the temperature inside the rooms, at the start and after the same time.. *Why:* A strong answer changes one thing, keeps the rest the same, and measures with a thermometer.
@@ -656,16 +660,16 @@ That week, Mama took off every sheet of glass. He kept the air conditioner for t
 
 ## Quiz
 1. (mcq) Heat reaches your face from a bonfire across a gap of cold air. Which way is it travelling?  
-   Options: Radiation / Conduction / Convection  
+   Options: Conduction / Radiation / Convection  
    **Answer:** Radiation. *Why:* The warmth crosses the air in straight lines without the air carrying it. That is radiation.
 2. (mcq) A hot-air balloon rises. What makes the hot air in it rise?  
-   Options: It is less dense than the cooler air around it / Heat has a lifting force / The balloon's cloth pulls it up  
+   Options: Heat has a lifting force / It is less dense than the cooler air around it / The balloon's cloth pulls it up  
    **Answer:** It is less dense than the cooler air around it. *Why:* Heated air expands, so each spoonful is lighter than the cooler air outside. The heavier cool air pushes it up.
 3. (mcq) In a convection current in a pot of water, where does the water sink?  
-   Options: Where it has cooled, away from the flame / Directly over the flame / It never sinks  
+   Options: Directly over the flame / It never sinks / Where it has cooled, away from the flame  
    **Answer:** Where it has cooled, away from the flame. *Why:* Water rises over the flame and spreads at the top, where it cools. Cooler water is heavier and sinks at the sides.
 4. (mcq) At night on a beach, the land becomes cooler than the sea. Which way does the wind blow?  
-   Options: From the land towards the sea / From the sea towards the land / It stops blowing  
+   Options: From the sea towards the land / From the land towards the sea / It stops blowing  
    **Answer:** From the land towards the sea. *Why:* Now the sea is the warmer place, so air rises over the sea and cooler land air flows out to take its place.
 5. (mcq) Which way of moving heat needs nothing at all to carry it?  
    Options: Radiation / Conduction / Convection  
@@ -676,10 +680,10 @@ That week, Mama took off every sheet of glass. He kept the air conditioner for t
 7. (truefalse) Heat can only ever travel upwards.  
    **Answer:** False. *Why:* False. Hot fluids rise, but conduction and radiation carry heat in every direction.
 8. (mcq) You test hot and cold drops of coloured water in a glass. Why must the water in the glass be still first?  
-   Options: So that only the drop's temperature moves it, not swirls in the water / So the water is clear / So the drops are the same size  
+   Options: So the water is clear / So the drops are the same size / So that only the drop's temperature moves it, not swirls in the water  
    **Answer:** So that only the drop's temperature moves it, not swirls in the water. *Why:* A fair test changes only one thing. If the glass water is swirling, the swirls could move the drop and hide what the temperature does.
 9. (mcq) Milk is warming in a pan on a stove. The pan's base is heated first, and then all the milk warms up. Which ways is the heat travelling?  
-   Options: Conduction through the pan, then convection in the milk / Radiation only / Conduction only  
+   Options: Radiation only / Conduction through the pan, then convection in the milk / Conduction only  
    **Answer:** Conduction through the pan, then convection in the milk. *Why:* Heat passes through the pan by conduction, and the warm milk rising and cool milk sinking spread it by convection.
 10. (mcq) You open the fridge on a hot day. Which of these describes what is happening best?  
    Options: Heat flows in, and heavy cool air spills out along the floor / Cold flows out of the fridge / The fridge makes the room colder by itself  
@@ -688,11 +692,17 @@ That week, Mama took off every sheet of glass. He kept the air conditioner for t
    Options: It shows how much the warm day alone changes the water / It is the best tumbler / It protects the others from the Sun  
    **Answer:** It shows how much the warm day alone changes the water. *Why:* A control shows what happens without the thing being tested. The extra warming in the sunny tumblers is then due to the Sun.
 12. (mcq) A card held between a flame and your palm stops the warmth at once. What does that tell you about the warmth?  
-   Options: It travels in straight lines, like light / It was carried by moving air / It travels through the card  
+   Options: It was carried by moving air / It travels in straight lines, like light / It travels through the card  
    **Answer:** It travels in straight lines, like light. *Why:* Only something that moves in straight lines, like light, can be blocked at once by a thin card. This is radiation. Moving air would flow round the card.
 13. (mcq) A woollen shawl keeps you warm. Which idea explains it best?  
-   Options: It traps still air, which carries heat very slowly / Wool makes heat / Wool is hotter than air  
+   Options: Wool makes heat / It traps still air, which carries heat very slowly / Wool is hotter than air  
    **Answer:** It traps still air, which carries heat very slowly. *Why:* Air that cannot move cannot carry heat by convection, and it is a poor conductor. The wool holds air still next to your skin.
+14. (mcq) A steel spoon and a wooden spoon sit in hot dal. Which handle warms up first in your hand?  
+   Options: The steel handle, because metal conducts heat well / The wooden handle, because wood conducts heat well / Both at the same speed, because heat moves through everything equally  
+   **Answer:** The steel handle, because metal conducts heat well. *Why:* Metal passes heat along quickly. Wood and plastic pass it on poorly, so their handles stay cool. The handle that warms first is the one that conducts best.
+15. (mcq) Railway rails in India have small gaps between each length. What are the gaps for?  
+   Options: Rain can drain out through the rail / Hot metal grows longer, and the gap gives it room / Steam escapes from the rail in summer  
+   **Answer:** Hot metal grows longer, and the gap gives it room. *Why:* Solids grow a little when they are hot. Without a gap, a long rail would push against the next one and bend in the heat.
 
 ## Applications
 - Chimneys and kitchen exhausts, which let hot air rise out and draw fresh air in.
@@ -711,9 +721,9 @@ That week, Mama took off every sheet of glass. He kept the air conditioner for t
 - Rice or lentils circling in a boiling pot.
 - Black kite birds circling over a hot road or a tin roof in the afternoon.
 - The air above a hot road shimmering in the afternoon.
-- The afternoon sea breeze on Marina Beach in Chennai or Kozhikode beach.
+- The afternoon sea breeze on a beach.
 - A rooftop solar water heater with a tank above the panel.
-- White-painted terraces and roofs in hot cities such as Ahmedabad or Madurai.
+- White-painted terraces and roofs in hot cities.
 - The smoke from an agarbatti curling up and bending over.
 
 ## Open questions
@@ -772,6 +782,9 @@ Round and Round the Warm (sci.energy.L4): Topic-level song for Energy L4
 - [A roll of kitchen aluminium foil](https://www.amazon.in/s?k=aluminium+foil+roll+kitchen) (material): For the wrapped tumblers, the Cool Roof boxes and the Foil Sun Oven. Most kitchens already have one. A small roll costs about Rs 40 to 80. Used in e2, c1, p1. 
 - [A simple thermometer](https://www.amazon.in/s?k=digital+kitchen+thermometer) (tool): For Dark, White and Shiny, the Cool Roof and Cool the Jug challenges, and the optional oven check. A glass school-lab thermometer (about 0 to 100 degrees) from a school-supplies or lab-equipment shop costs about Rs 50 to 100. A digital kitchen thermometer costs more (about Rs 150 to 400). Without one, you can still rank by feel. Used in c1, c2, e2, p1. 
 - [A pack of tea-light candles](https://www.amazon.in/s?k=tealight+candles) (material): For Hands Around a Diya and the Paper Spiral, if you do not have a diya. A grown-up lights them. Used in a1, a2. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Hands Around a Diya: where do you feel the warmth?, Paper Spiral: can rising air turn a snake of paper?. About ₹10 to ₹30. Any school ruler is fine. Used in a1, a2. Get it before Hands Around a Diya: where do you feel the warmth?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Foil Sun Oven: melt a piece of chocolate with sunlight alone. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in p1. Get it before Foil Sun Oven: melt a piece of chocolate with sunlight alone.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What are the three ways heat travels? → Conduction, convection and radiation.
@@ -791,8 +804,8 @@ Round and Round the Warm (sci.energy.L4): Topic-level song for Energy L4
 ## Sources
 - ideas/by_topic/energy.md: the 'Heat Flow' and 'Heat transfer (conduction, convection, radiation)' rows, and the 'Energy balance of Earth' row (tinted warm water to watch convection, wrapping jars in black and white paper, kitchen foil against a dark surface, standing near a heater to feel radiation, the sea breeze, a dance and a skit of rising and falling currents, and card-matching of heat transfer types)
 - combined/sci-C4-energy.json: the paper spiral over a diya with its safe height of 25 centimetres, and the black and white cloth in the Sun, both rebuilt here as new tests with new measurements
-- The Class 3 unit sci.energy.heat-moves.L3 on conduction, which this unit builds on without repeating its experiments or story
-- curriculum/sci.json: sci.energy.heat-moves.L3 and sci.energy.heat-moves.L5 (there is no Level 4 entry, so this unit takes convection and radiation as the step between conduction and the full picture in Level 5)
+- The Class 3 unit sci.energy.heat-moves.L3 on conduction, which this lesson builds on without repeating its experiments or story
+- curriculum/sci.json: sci.energy.heat-moves.L3 and sci.energy.heat-moves.L5 (there is no Level 4 entry, so this lesson takes convection and radiation as the step between conduction and the full picture in Level 5)
 - William Herschel, 'Experiments on the refrangibility of the invisible rays of the Sun', Philosophical Transactions of the Royal Society, 1800
 - Eunice Newton Foote, 'Circumstances affecting the heat of the sun's rays', American Journal of Science and Arts, 2nd series, volume 22, 1856
 - Benjamin Thompson (Count Rumford), 'An inquiry concerning the source of the heat which is excited by friction', Philosophical Transactions of the Royal Society, 1798

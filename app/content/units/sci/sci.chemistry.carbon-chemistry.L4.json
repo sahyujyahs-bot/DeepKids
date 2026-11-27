@@ -525,11 +525,11 @@
       "t": "mcq",
       "q": "What happens to carbon-chain fuels as the chain gets longer?",
       "options": [
-       "They go from gas to liquid to solid",
        "They go from solid to liquid to gas",
+       "They go from gas to liquid to solid",
        "They all stay gases"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Long chains hold on to each other along their whole length. So they are harder to pull apart, and the substance is thicker and boils at a higher temperature."
      },
      "parent": "Chains of 1 to 4 carbon atoms are gases. From about 5 to 18 they are liquids that get thicker. Longer chains are solids.",
@@ -623,11 +623,11 @@
       "t": "mcq",
       "q": "Carbon deep underground stays there for millions of years. What moves it quickly into the air?",
       "options": [
-       "People burning coal, oil and gas",
        "Plants breathing out",
-       "Rain falling"
+       "Rain falling",
+       "People burning coal, oil and gas"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Left alone, coal and oil stay buried. People dig them up and burn them, which sends very old carbon into the air within a few years. That extra carbon dioxide traps heat."
      },
      "parent": "In the real world a carbon atom spends a few years in the air. In a living body it may stay for days or for centuries. It can spend millions of years in rock or in the deep sea.",
@@ -816,11 +816,11 @@
       "t": "mcq",
       "q": "Why are all eight heaps heated together on one tawa?",
       "options": [
-       "So each heap gets the same heat and time",
        "So the test finishes sooner",
-       "So the heaps can mix"
+       "So the heaps can mix",
+       "So each heap gets the same heat and time"
       ],
-      "a": 0,
+      "a": 2,
       "why": "On one tawa, every heap gets the same heat for the same time. Then any difference comes from what the heap is made of. If you chose speed or mixing, remember that a fair test changes only one thing."
      },
      "parent": "Sugar usually melts within 2 minutes, turns brown and then black. Thread, paper and onion skin go brown and then black. Atta goes dark brown and may need the full 8 minutes. Salt may crackle. The coin may get a faint yellow or blue tint, but it does not turn into black crumbs. If little has happened by 5 minutes, raise the flame slightly.",
@@ -1174,11 +1174,11 @@
       "t": "mcq",
       "q": "Why must the foil packet stay closed until it is cool?",
       "options": [
-       "Hot charcoal burns away when air reaches it",
        "The smoke would be lost",
-       "The foil would tear"
+       "The foil would tear",
+       "Hot charcoal burns away when air reaches it"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Hot carbon joins with the oxygen in air and burns. Kept closed, it cools with no air and stays as charcoal. If you chose the smoke, remember that the smoke had already left."
      },
      "parent": "The smoke may light with a small flame at the hole. That is the wood gas burning, and it is safe at the stove. Use the 10 minutes of cooling for the cards or the story.",
@@ -1492,11 +1492,11 @@
       "t": "mcq",
       "q": "Eight glucose rings join into one chain. How many water molecules come out?",
       "options": [
-       "Seven",
        "Eight",
+       "Seven",
        "One"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A row of 8 rings has 7 joins between them, and each join gives off one water molecule. If you chose eight, line up 8 coins and count the gaps between them."
      },
      "context": "In this step of Paper Chain Starch you link eight paper loops and count one water molecule for every join."
@@ -1586,11 +1586,11 @@
       "t": "mcq",
       "q": "A shirt label says '100% polyester'. Which group does the shirt belong to?",
       "options": [
-       "Carbon chains made from petroleum",
        "Carbon chains made by a living being",
-       "No carbon chains"
+       "No carbon chains",
+       "Carbon chains made from petroleum"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Polyester is a plastic thread, made in a factory from petroleum. Its long molecules have a carbon frame. If you chose a living being, you may have thought of cotton, which grows on a plant."
      },
      "parent": "Made by a living being: cotton, wood, paper, food, wool, silk, leather, natural rubber, coir. Made by people from petroleum: plastic, polyester, nylon, acrylic, foam, most paint, most shoe soles. No carbon chains: steel, aluminium, brass, glass, clay, stone, cement, water, salt. Some things belong to two groups, such as a pencil or a steel tumbler with a plastic lid. Count each part.",
@@ -1850,12 +1850,12 @@
      "t": "mcq",
      "p": "Which of these is built from glucose rings joined in long, straight chains?",
      "opts": [
-      "Cotton",
       "Salt",
       "Steel",
+      "Cotton",
       "Glass"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Cotton is mostly cellulose. Each cellulose molecule is a straight chain of thousands of glucose rings.",
      "outcome": 4
     },
@@ -1932,12 +1932,12 @@
      "t": "mcq",
      "p": "Where does a plant get the carbon to build wood?",
      "opts": [
-      "From carbon dioxide in the air",
       "From the soil",
       "From water",
-      "From sunlight"
+      "From sunlight",
+      "From carbon dioxide in the air"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A leaf takes carbon dioxide from the air and joins the carbon into glucose. Sunlight gives the energy, but light is not a material.",
      "outcome": 5
     }
@@ -1953,12 +1953,12 @@
      "t": "mcq",
      "p": "An atom makes only one bond. What is the biggest molecule that such atoms can build alone?",
      "opts": [
-      "A pair of two atoms",
       "A chain of three",
       "A ring of six",
-      "A chain of any length"
+      "A chain of any length",
+      "A pair of two atoms"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Once two one-bond atoms join, neither has a bond left for a third. Hydrogen gas is made of such pairs.",
      "outcome": 1,
      "how": "a1"
@@ -1967,12 +1967,12 @@
      "t": "mcq",
      "p": "A carbon atom in the middle of a chain has two bonds left. What can they hold?",
      "opts": [
-      "Hydrogen atoms or a branch",
       "Nothing at all",
       "Only another chain end",
+      "Hydrogen atoms or a branch",
       "Only oxygen atoms"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Each spare bond can hold a hydrogen atom, or it can hold another carbon atom and start a branch.",
      "outcome": 1
     },
@@ -2153,12 +2153,12 @@
      "t": "mcq",
      "p": "Fuel gas from a cylinder burns. What becomes of its carbon atoms?",
      "opts": [
-      "They join oxygen as carbon dioxide",
       "They vanish",
       "They turn into heat",
-      "They stay in the burner"
+      "They stay in the burner",
+      "They join oxygen as carbon dioxide"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Atoms are never lost. Each carbon atom joins with oxygen and leaves as carbon dioxide gas. The heat comes from the new bonds forming.",
      "outcome": 3
     }
@@ -2174,12 +2174,12 @@
      "t": "mcq",
      "p": "In 1828 Friedrich Wöhler made urea from a mineral salt. Which idea did this test?",
      "opts": [
-      "That only living bodies make such substances",
       "That carbon makes four bonds",
       "That urea is an element",
-      "That salt holds carbon"
+      "That salt holds carbon",
+      "That only living bodies make such substances"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Chemists thought a life force was needed. Wöhler made a substance of the body from a mineral, with no living thing involved.",
      "outcome": 6
     },
@@ -2187,12 +2187,12 @@
      "t": "mcq",
      "p": "A diamond is burnt in pure oxygen. Only carbon dioxide forms. What does this show?",
      "opts": [
-      "Diamond is pure carbon",
       "Diamond holds water",
+      "Diamond is pure carbon",
       "Diamond is a kind of glass",
       "Oxygen is made of carbon"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Carbon dioxide holds only carbon and oxygen. The oxygen was supplied, so the carbon must have come from the diamond, and nothing else was in it.",
      "outcome": 0
     },
@@ -2213,12 +2213,12 @@
      "t": "mcq",
      "p": "Where were the carbon atoms in your body first made?",
      "opts": [
-      "Inside stars",
       "In the soil",
       "In the sea",
-      "In the Sun, this year"
+      "In the Sun, this year",
+      "Inside stars"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Old stars press three helium atoms into one carbon atom. Dying stars threw that carbon into space, and the Earth formed from it.",
      "outcome": 5
     },
@@ -2343,12 +2343,12 @@
    "t": "mcq",
    "p": "Why can carbon atoms build long chains?",
    "opts": [
-    "Each makes four strong bonds",
     "They are the smallest atoms",
+    "Each makes four strong bonds",
     "They are black",
     "They are magnetic"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A carbon atom holds two neighbours and still has two bonds free. The bonds between carbon atoms are strong, so the chain lasts.",
    "outcome": 1
   },
@@ -2356,12 +2356,12 @@
    "t": "mcq",
    "p": "What is the black solid left when sugar is heated strongly?",
    "opts": [
-    "Mostly carbon",
     "Burnt salt",
+    "Mostly carbon",
     "Iron from the tawa",
     "Dried water"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Heat drives the hydrogen and oxygen out of sugar. A black solid that is mostly carbon stays behind.",
    "outcome": 2
   },
@@ -2369,12 +2369,12 @@
    "t": "mcq",
    "p": "Which of these stays white on a hot tawa?",
    "opts": [
-    "Salt",
     "Sugar",
     "Atta",
+    "Salt",
     "Paper"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Salt holds no carbon. Sugar, atta and paper are built on carbon chains and rings, so they char.",
    "outcome": 2
   },
@@ -2382,12 +2382,12 @@
    "t": "mcq",
    "p": "Which list holds only forms of the element carbon?",
    "opts": [
-    "Charcoal, graphite, diamond",
     "Sugar, salt, sand",
     "Iron, gold, silver",
+    "Charcoal, graphite, diamond",
     "Water, ice, steam"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Charcoal, graphite and diamond are carbon atoms joined in different ways. The other lists hold other elements or mixtures of atoms.",
    "outcome": 0
   },
@@ -2395,12 +2395,12 @@
    "t": "mcq",
    "p": "What do cooking gas, petrol and candle wax have in common?",
    "opts": [
-    "All are chains of carbon and hydrogen",
     "All are gases",
+    "All are chains of carbon and hydrogen",
     "All hold oxygen atoms",
     "All are made by plants today"
    ],
-   "a": 0,
+   "a": 1,
    "why": "All three are hydrocarbons. They differ in the length of the carbon chain.",
    "outcome": 3
   },
@@ -2421,12 +2421,12 @@
    "t": "mcq",
    "p": "What is a starch molecule?",
    "opts": [
-    "A long chain of glucose rings",
     "A single glucose ring",
     "A chain of salt",
+    "A long chain of glucose rings",
     "A ring of iron atoms"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Plants join hundreds or thousands of glucose rings into one starch chain.",
    "outcome": 4
   },
@@ -2750,6 +2750,76 @@
     "e3",
     "c1"
    ]
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Drawing Stick: make charcoal that draws dark and does not snap. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before The Drawing Stick: make charcoal that draws dark and does not snap."
+  },
+  {
+   "id": "b-wooden-ice-cream-sticks--a-p",
+   "item": "Wooden ice-cream sticks (a pack)",
+   "kind": "material",
+   "why": "Used in The Drawing Stick: make charcoal that draws dark and does not snap. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in.",
+   "url": "https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before The Drawing Stick: make charcoal that draws dark and does not snap."
+  },
+  {
+   "id": "b-cotton-wool",
+   "item": "Cotton wool",
+   "kind": "material",
+   "why": "Used in One Ring, Three Materials: glucose, cornflour and cotton. About ₹20 to ₹50. Torn clean cloth works.",
+   "url": "https://www.amazon.in/s?k=cotton+wool+roll",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before One Ring, Three Materials: glucose, cornflour and cotton."
+  },
+  {
+   "id": "b-baking-soda",
+   "item": "Baking soda",
+   "kind": "material",
+   "why": "Used in The Black Inside: which kitchen things turn black when heated?. About ₹20 to ₹40. Check the kitchen first.",
+   "url": "https://www.amazon.in/s?k=baking+soda",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before The Black Inside: which kitchen things turn black when heated?."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in Paper Chain Starch: join eight glucose rings and count the water. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before Paper Chain Starch: join eight glucose rings and count the water."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

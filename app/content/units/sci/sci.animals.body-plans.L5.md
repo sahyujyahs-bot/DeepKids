@@ -1,9 +1,9 @@
 # Animal body plans: comparing bodies to find out who is related
 `sci.animals.body-plans.L5`
 
-**Summary.** A dolphin looks like a shark, but its flipper holds the bones of an arm and five fingers. What does that say about who is related? In this unit you will survey the wrists of everyone at home, find leftover parts in your own body, and sort nine animals by what is inside.
+**Summary.** A dolphin looks like a shark, but its flipper holds the bones of an arm and five fingers. What does that say about who is related? In this lesson you will survey the wrists of everyone at home, find leftover parts in your own body, and sort nine animals by what is inside.
 
-**Intro.** *Touch the tip of your thumb to the tip of your little finger. Now bend your wrist a little towards you. Does a thin cord stand up in the middle of your wrist? Some people have this cord and some people have none. Why would a body part be there in one person and missing in another?* The cord is a tendon. A tendon is a tough string that joins a muscle to a bone. This one belongs to a small muscle in the forearm. People who have no such muscle grip just as strongly as people who have one. So why is the muscle there at all? The answer comes from comparing bodies. Orangutans climb with their arms, and they use this muscle fully. Humans share ancestors with orangutans, and those ancestors climbed. In this unit you compare bodies the way scientists do. You survey the wrists in your family. You look for other leftover parts in a mirror. You also find out why a dolphin is a closer relative of a cow than of a shark.
+**Intro.** *Touch the tip of your thumb to the tip of your little finger. Now bend your wrist a little towards you. Does a thin cord stand up in the middle of your wrist? Some people have this cord and some people have none. Why would a body part be there in one person and missing in another?* The cord is a tendon. A tendon is a tough string that joins a muscle to a bone. This one belongs to a small muscle in the forearm. People who have no such muscle grip just as strongly as people who have one. So why is the muscle there at all? The answer comes from comparing bodies. Orangutans climb with their arms, and they use this muscle fully. Humans share ancestors with orangutans, and those ancestors climbed. In this lesson you compare bodies the way scientists do. You survey the wrists in your family. You look for other leftover parts in a mirror. You also find out why a dolphin is a closer relative of a cow than of a shark.
 
 ## Learning outcomes
 0. I can name five things scientists check to describe a body plan: cell layers, gut openings, body cavity, nerve cord and skeleton.
@@ -204,7 +204,7 @@ All animals alive today come from one group of small early animals. From that on
 
 - **Tiruvacakam 1 (Sivapuranam), lines 26 to 31, by Manikkavacakar (paraphrased):** The Tamil poet says that he has been born as grass, as a shrub, as a worm, as a tree, as many kinds of beast, as a bird, as a snake, as a stone and as a human. He has been through every kind of birth, among beings that move and beings that stay still, and he has grown tired. (The poem is about the soul's many births, not about bones. But it treats the worm, the bird and the human as stages of one traveller, not as strangers. Comparative anatomy finds its own version of this in the body: a worm's tube gut, the throat folds of a fish and a climber's wrist muscle, all in one human.)
 - **Zhuangzi, chapter 18 ('Perfect Happiness'), in Burton Watson's translation (paraphrased):** The Chinese text says that 'the seeds of things have mysterious workings'. It describes a long chain in which one kind of living being turns into another, from water plants to insects and at last to leopards, horses and humans, who in time return to the same workings. (The details are not science. Leopards do not give rise to horses. But the idea is that each kind of living being comes out of an earlier kind, and that humans are inside the chain. Bones, embryos and DNA show the same thing in detail.)
-- **Charles Darwin, On the Origin of Species (1859), chapter 13:** Darwin asks: 'What can be more curious than that the hand of a man, formed for grasping, that of a mole for digging,' the leg of a horse, the paddle of a porpoise and the wing of a bat should all be built on one pattern, with the same bones in the same places? (Darwin's answer was that all five inherited the limb from one ancestor, and each kind then altered it. This is the main idea of this unit, in the words of the scientist who first explained it.)
+- **Charles Darwin, On the Origin of Species (1859), chapter 13:** Darwin asks: 'What can be more curious than that the hand of a man, formed for grasping, that of a mole for digging,' the leg of a horse, the paddle of a porpoise and the wing of a bat should all be built on one pattern, with the same bones in the same places? (Darwin's answer was that all five inherited the limb from one ancestor, and each kind then altered it. This is the main idea of this lesson, in the words of the scientist who first explained it.)
 - Science (settled): All animals share ancestors. Matching bones, matching embryos and matching genes are the evidence, and they agree with each other.
 - Science (debated): Whether the nerve cord of an insect and your spinal cord are one inherited part, turned over, or two parts that arose separately.
 - Science (open): Why animals have only about thirty body plans, and why no new one has appeared for about 500 million years.
@@ -495,6 +495,18 @@ Ammamma laid the three pieces end to end, the way they must once have lain on th
   *Child mode:* Hold each wing bone against your arm. Point to its match. Write its name beside it.
   - Check: A hen's wing has one bone, then two, then a small hand. What is the best explanation? → **Birds and humans inherited the limb from shared ancestors**
   - Think: A bat's wing is skin stretched over long fingers. A bird's wing is feathers on a short stiff hand. Which bones would you look at to tell them apart?
+### a6 · Pond Visit: how a creature's mouth and legs match its life (20 min)
+- **record:** Draw the creature and mark its mouth. Write what it eats, how it moves, and which body part it uses most.
+- **s1 (8 min)**  
+  *Parent does:* Your child watches one pond creature for two minutes. Ask where the mouth is: on top, at the front, or underneath. Ask how the creature moves: swims, crawls or glides. Ask which body part it uses most, such as a fin, a foot, a tail or back legs.  
+  *Parent says:* Pick one creature and watch it for two minutes. Tell me where the mouth is, how the creature moves and which body part it uses most.  
+  *Child mode:* Watch one creature for two minutes. Where is its mouth? How does the creature move? Which body part does the most work?
+  - Note: A snail, a tadpole and a diving beetle are easy to find in a pond with weeds. Keep the watching quiet, because a sudden movement sends most creatures to the bottom.
+- **s2 (10 min)**  
+  *Parent does:* Match the body to the life. A snail has its mouth at the front, underneath, with a rough, file-like tongue that scrapes algae off stones. A dragonfly nymph has a hinged lower lip that shoots out to catch small creatures. A diving beetle has flat back legs fringed with hairs, which push the water back like oars. Ask which body part does the most work, and why that part suits the way the creature lives.  
+  *Parent says:* Which body part does the most work? Would that part work on land? Why does it suit the way this creature lives?  
+  *Child mode:* Which body part does the most work? Why does that part suit the way the creature lives?
+  - Note: Many odd-looking body parts are built for one job in water. Return the creatures to the pond after twenty minutes, and wash your hands with soap after you touch pond water.
 
 ## Projects
 ### p1 · The Family Leftover Map: three leftovers across three generations (45 min, 4 days)
@@ -555,12 +567,12 @@ Ammamma laid the three pieces end to end, the way they must once have lain on th
   - Think: Your design can fan air, but can it still hold a pencil? What does a bat give up by having wings for hands?
 
 ## Worksheets
-### Same Part or Same Job? (core) (core, 15 questions)
+### Same Part or Same Job? (core) (core, 16 questions)
 1. (mcq) A dolphin's flipper and your arm hold the same bones in the same order. What are such parts called?  
-   Options: Homologous parts / Analogous parts / Vestigial parts  
+   Options: Analogous parts / Homologous parts / Vestigial parts  
    **Answer:** Homologous parts. *Why:* Homologous parts are the same part, inherited from a shared ancestor, even when the jobs differ. Analogous parts share a job and not a build. Vestigial parts have lost most of an old job.
 2. (mcq) Which pair of wings does the same job with a different build?  
-   Options: Butterfly wing and crow wing / Bat wing and human arm / Whale flipper and mole hand  
+   Options: Bat wing and human arm / Whale flipper and mole hand / Butterfly wing and crow wing  
    **Answer:** Butterfly wing and crow wing. *Why:* A butterfly's wing has no bones and a crow's wing has arm bones, so the two are analogous. The other two pairs hold the same bones, so they are homologous.
 3. (truefalse) A vestigial part is always a useless part.  
    **Answer:** False. *Why:* False. Vestigial means that a part has lost most of the job it did in ancestors. Many such parts keep a smaller job. Your tailbone still anchors muscles.
@@ -589,6 +601,8 @@ Ammamma laid the three pieces end to end, the way they must once have lain on th
    **Answer:** 14. *Why:* Four fingers with 3 bones each make 12. The thumb adds 2. 12 and 2 make 14. A foot has the same count: 2 in the big toe and 3 in each other toe.
 15. (odd) Which is the odd one out, and why? Ant. Crab. Spider. Snail.  
    **Answer:** Snail. The other three are arthropods, with jointed legs and a skeleton on the outside. A snail is a mollusc.. *Why:* Ants, crabs and spiders share one body plan. A snail has a soft body with no jointed legs.
+16. (fill) A diving beetle's flat back legs, fringed with hairs, work like ____ when the beetle swims.  
+   **Answer:** ['oars']. *Why:* Oars push the water back, and the beetle's flat legs do the same. A land beetle's back legs are built for walking on land.
 ### Clues From the Inside (stretch) (stretch, 15 questions)
 1. (mcq) A caecilian looks like a big earthworm but has a skull, teeth and a backbone. Who are their closer relatives?  
    Options: Frogs / Earthworms / Millipedes  
@@ -597,7 +611,7 @@ Ammamma laid the three pieces end to end, the way they must once have lain on th
    Options: Whales belong with the even-toed hoofed animals / Whales once climbed trees / Whales are close relatives of sharks  
    **Answer:** Whales belong with the even-toed hoofed animals. *Why:* Only even-toed hoofed animals, such as cows, deer and hippos, have that ankle bone. Swimming does not need it, so it is an inherited mark.
 3. (mcq) A fly's eye-starting gene and a mouse's match. What is the best explanation?  
-   Options: Both inherited the gene from one ancestor / Flies and mice eat the same food / The two eyes are built alike  
+   Options: Flies and mice eat the same food / The two eyes are built alike / Both inherited the gene from one ancestor  
    **Answer:** Both inherited the gene from one ancestor. *Why:* The eyes themselves are built very differently. A matching gene is best explained by a shared ancestor who already had it.
 4. (truefalse) A human embryo is, for a short time, a fish.  
    **Answer:** False. *Why:* False. A human embryo has throat folds and a tail, as a fish embryo has. But the folds never become gills. Embryos of relatives resemble each other. They do not turn into each other's adults.
@@ -628,7 +642,7 @@ Ammamma laid the three pieces end to end, the way they must once have lain on th
    Options: The body is an older body, altered / Giraffes need very long nerves / The nerve grows longer every year  
    **Answer:** The body is an older body, altered. *Why:* In a fish the matching nerve takes a direct path. As necks grew longer over generations, the nerve stayed looped round the same blood vessel. The detour is a sign of the older layout.
 2. (mcq) Which statement about a bat's wing and a crow's wing is correct?  
-   Options: Homologous as limbs, analogous as wings / Homologous in every way / Analogous in every way  
+   Options: Homologous in every way / Homologous as limbs, analogous as wings / Analogous in every way  
    **Answer:** Homologous as limbs, analogous as wings. *Why:* Both inherited the front limb with its bones, so the limbs are homologous. But flying arose separately in bats and birds, and the wings are built differently, so as wings they are analogous.
 3. (mcq) Why is DNA alone not enough to place most extinct animals in the family tree?  
    Options: Almost no fossil keeps any DNA / Extinct animals had no DNA / Bones are easier to read than DNA  
@@ -665,37 +679,40 @@ Ammamma laid the three pieces end to end, the way they must once have lain on th
 
 ## Quiz
 1. (mcq) Which of these is a feature of an animal's body plan?  
-   Options: Whether the gut has one opening or two / The colour of the fur / How fast the animal runs  
+   Options: The colour of the fur / Whether the gut has one opening or two / How fast the animal runs  
    **Answer:** Whether the gut has one opening or two. *Why:* A body plan is the basic layout that is set in the embryo. Colour and speed can change quickly over generations, and the layout changes very little.
 2. (mcq) Ants, crabs and spiders are in one phylum. What do they all share?  
-   Options: Jointed legs and a skeleton on the outside / A backbone / A sac gut with one opening  
+   Options: A backbone / Jointed legs and a skeleton on the outside / A sac gut with one opening  
    **Answer:** Jointed legs and a skeleton on the outside. *Why:* They are arthropods. A backbone belongs to the chordate body plan, and a sac gut to jellyfish and flatworms.
 3. (mcq) Which feature does every chordate have at some stage of life?  
-   Options: A notochord, a firm rod along the back / A hard skeleton on the outside / Six jointed legs  
+   Options: A hard skeleton on the outside / A notochord, a firm rod along the back / Six jointed legs  
    **Answer:** A notochord, a firm rod along the back. *Why:* The notochord gives the chordates their name. You had one as an embryo. The other two answers describe arthropods.
 4. (mcq) A whale's flipper and a shark's fin look alike. Are they homologous parts?  
    Options: No. Same job, different parts / Yes. Both are fins / Yes. Both animals live in the sea  
    **Answer:** No. Same job, different parts. *Why:* The flipper holds arm and finger bones, and the fin holds none. The two are analogous. Doing the same job in the same place does not make parts the same part.
 5. (mcq) Which is the best evidence that two animals are close relatives?  
-   Options: Many matching parts inside the body / The same body shape / Living in the same place  
+   Options: The same body shape / Living in the same place / Many matching parts inside the body  
    **Answer:** Many matching parts inside the body. *Why:* Shape and home can be shared by animals who simply live alike. Many detailed inside features that the way of life does not need are best explained by shared ancestors.
 6. (mcq) Why do some healthy people have no palmaris longus muscle in the forearm?  
-   Options: The muscle has lost its main job / They did not exercise enough / They were hurt as babies  
+   Options: They did not exercise enough / They were hurt as babies / The muscle has lost its main job  
    **Answer:** The muscle has lost its main job. *Why:* The muscle did more in ancestors who climbed. In humans it does very little. A part like that is not always built, and some people are born with none. Exercise and injury have nothing to do with whether a muscle is built.
 7. (truefalse) If a survey of ten wrists finds the cord in every one, then no human lacks the cord.  
    **Answer:** False. *Why:* False. Ten wrists is a small group, and a small group can easily miss something uncommon. Bigger studies find people with no cord.
 8. (mcq) Bones pointed to one ancestor for whales and DNA pointed to another. What did scientists do?  
-   Options: Looked for more evidence, and found ankle bones / Chose the bones, because bones are older / Gave up on the question  
+   Options: Chose the bones, because bones are older / Looked for more evidence, and found ankle bones / Gave up on the question  
    **Answer:** Looked for more evidence, and found ankle bones. *Why:* When two kinds of evidence disagree, the answer is to find more. Ankle bones of early whales, found later, agreed with the DNA.
 9. (mcq) What do very young embryos of a fish, a chick and a human show?  
    Options: They look much alike / Each is a tiny copy of the adult / The human one has working gills  
    **Answer:** They look much alike. *Why:* All three have throat folds and a tail. Embryos of relatives are built by inherited steps, and the earliest steps differ least. A human embryo never has gills.
 10. (mcq) Which sentence about animal bodies is correct?  
-   Options: Each body is an older body, altered / Each body is planned fresh for its job / Bodies stay the same over generations  
+   Options: Each body is planned fresh for its job / Each body is an older body, altered / Bodies stay the same over generations  
    **Answer:** Each body is an older body, altered. *Why:* Every animal inherits a body and passes it on with small changes. That is why bodies keep leftover parts and odd routes, such as the long nerve in a giraffe's neck.
 11. (mcq) Why can each part of a tube gut do one job well?  
-   Options: Food passes the parts in one order / The tube is always full / Food moves both ways along it  
+   Options: The tube is always full / Food passes the parts in one order / Food moves both ways along it  
    **Answer:** Food passes the parts in one order. *Why:* Food moves one way in a tube, so grinding can come first and taking in can come later. In a sac, new food and old waste share one space.
+12. (mcq) A diving beetle in a pond has flat back legs fringed with hairs. What are they mainly for?  
+   Options: Digging up roots from the mud / Rowing through the water / Holding a bubble of air  
+   **Answer:** Rowing through the water. *Why:* The flat legs push the water back like oars, which is how the beetle swims. The leg joints are the same as a land beetle's, but the shape is changed for life in water. The legs are not for digging, and the air bubble is carried under the wing cover, not held by the legs.
 
 ## Applications
 - Surgeons repair a damaged tendon in the hand or the wrist with the palmaris longus tendon from the same person's forearm, because the hand works without it.
@@ -711,7 +728,7 @@ Ammamma laid the three pieces end to end, the way they must once have lain on th
 - A prawn on the kitchen counter before cooking. The dark line along the back is the gut. The nerve cord runs along the belly side, the opposite of yours.
 - A bat leaving a banyan or a temple tower at dusk. Each wing is a hand: skin stretched between four very long fingers, with a small thumb free at the front.
 - A street dog or a cat turning one ear towards a sound while the head stays still. You have the same three muscles round each ear.
-- Barnacles on a fishing boat, a jetty post or a rock at the beach in Chennai, Kochi or Visakhapatnam. They look like tiny shells, but they are relatives of crabs.
+- Barnacles on a fishing boat, a jetty post or a rock at the beach. They look like tiny shells, but they are relatives of crabs.
 - A fish being cleaned at the market. The gut lifts out in one piece, because it lies loose in the body cavity. The backbone is the row of bones that formed round the notochord.
 - A termite mound beside a village road, or winged termites round a light after the first rain. They live like ants, but they are a branch of the cockroaches.
 
@@ -768,6 +785,11 @@ Many Ways to Live a Life (sci.animals.L5): Topic-level song
 - [Ice-cream sticks or paper straws](https://www.amazon.in/s?k=ice+cream+sticks+for+craft) (material): For making the cardboard fingers longer in Old Hand, New Job. Sticks from a coconut-leaf broom work just as well, so buy these only if you have none. Used in c1. 
 - [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (tool): For looking closely at the fold in the corner of the eye and for watching your own ears. Any mirror in good light will do. Used in a1, e1. 
 - [The Walking Whales, a book by J. G. M. 'Hans' Thewissen (2014)](https://www.amazon.in/s?k=The+Walking+Whales+Thewissen) (book): For the parent or an older child: the scientist who described Indohyus tells how whale ancestors were found in India and Pakistan. Used in g1. After playing Odd Cousin Out, a parent can read aloud a few pages about the fossils from Kutch or Kashmir.
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in Old Hand, New Job: turn a five-finger hand into a wing. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in c1. Get it before Old Hand, New Job: turn a five-finger hand into a wing.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Sac or Tube: which gut can eat while it digests?, Old Hand, New Job: turn a five-finger hand into a wing. About ₹10 to ₹30. Any school ruler is fine. Used in e2, c1. Get it before Sac or Tube: which gut can eat while it digests?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Family Leftover Map: three leftovers across three generations, Old Hand, New Job: turn a five-finger hand into a wing. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in p1, c1. Get it before The Family Leftover Map: three leftovers across three generations.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Old Hand, New Job: turn a five-finger hand into a wing. About ₹30 to ₹60. Newspaper cut into strips also works. Used in c1. Get it before Old Hand, New Job: turn a five-finger hand into a wing.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What do we call parts of different animals that are the same part, inherited from a shared ancestor? → Homologous parts.
@@ -781,16 +803,16 @@ Many Ways to Live a Life (sci.animals.L5): Topic-level song
 
 ## Plan
 - Start options: intro, a1, e1, story, g1, big_questions, cards
-- Default order: intro → summary → a1 → e1 → terms → explanations → story → a4 → g1 → e2 → videos → ws-core → a2 → how_we_found_out → agreed → a3 → a5 → challenging → big_questions → ws-stretch → c1 → p1 → ws-challenge → open_questions → roots → quiz
+- Default order: intro → summary → a1 → e1 → terms → explanations → story → a4 → g1 → e2 → videos → ws-core → a2 → how_we_found_out → agreed → a3 → a5 → challenging → big_questions → ws-stretch → c1 → p1 → a6 → ws-challenge → open_questions → roots → quiz
 - Core: a1, e1, a4, g1, e2, a2, ws-core
 
 ## Sources
 - Founder's notebook, Biology list (curriculum/notebook_items.json): item 150, comparative anatomy and physiology, which the Level 4 unit left for this level, and item 17, animal tissues and body plans
 - ideas/by_topic/body-parts-and-skeleton.md: the story-of-life entries on the protostomes (an advanced digestive system and an outer skeleton) and the deuterostomes (the first chordates and the backbone), used for the explanations on gut openings, which opening forms first, and the chordate plan
 - combined/sci-C4-evolution-the-tree-of-life.json: the subconcepts 'evidence from bodies: the same bones doing different jobs' and 'evidence from DNA', and the activity 'Build a tree from shared features', reworked here as Nested Boxes. Its story and experiments are not reused
-- combined/sci-C5-body-parts-and-skeleton.json: the subconcept 'where our organs came from: each one first appeared in older animals and was passed down', which this unit follows through leftover parts, embryos and the detour of the nerve to the voice box
+- combined/sci-C5-body-parts-and-skeleton.json: the subconcept 'where our organs came from: each one first appeared in older animals and was passed down', which this lesson follows through leftover parts, embryos and the detour of the nerve to the voice box
 - ideas/scientists.json: the SCI Card approach to deep truths, used for the roots card
-- Read so that nothing is repeated: sci.animals.body-plans.L4 (symmetry, segments, spirals, tissues, starfish larvae), sci.classification.sorting-living-things.L4 (same bones in the arm, convergent shape), sci.body.skeleton.L4 (inside and outside skeletons), sci.animals.invertebrates.L3 (hollow tube legs) and sci.body.digestion.L5 (gut lengths). This unit adds germ layers, gut openings, the body cavity, the nine phyla, the chordate plan, tests for homology, vestigial parts, embryos, shared genes and the whale story
+- Read so that nothing is repeated: sci.animals.body-plans.L4 (symmetry, segments, spirals, tissues, starfish larvae), sci.classification.sorting-living-things.L4 (same bones in the arm, convergent shape), sci.body.skeleton.L4 (inside and outside skeletons), sci.animals.invertebrates.L3 (hollow tube legs) and sci.body.digestion.L5 (gut lengths). This lesson adds germ layers, gut openings, the body cavity, the nine phyla, the chordate plan, tests for homology, vestigial parts, embryos, shared genes and the whale story
 - Belon, P., L'Histoire de la nature des oyseaux, Paris, 1555 (the bird and human skeletons side by side)
 - Tyson, E., Phocaena, or the Anatomy of a Porpess, dissected at Gresham Colledge, London, 1680
 - Linnaeus, C., Systema Naturae, 10th edition, 1758 (whales placed with the mammals)

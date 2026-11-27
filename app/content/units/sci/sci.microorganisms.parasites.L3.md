@@ -1,9 +1,9 @@
 # Parasites: how lice, ticks, worms and mosquitoes live on other living beings
 `sci.microorganisms.parasites.L3`
 
-**Summary.** How does a tiny louse hold on to your hair, and how does a mosquito carry malaria? In this unit you will test which comb catches a louse egg, act out the malaria journey, and sort living things into parasite or not.
+**Summary.** How does a tiny louse hold on to your hair, and how does a mosquito carry malaria? In this lesson you will test which comb catches a louse egg, act out the malaria journey, and sort living things into parasite or not.
 
-**Intro.** *Hold a khus khus seed on your fingertip. A head louse's egg is smaller than this seed, and is glued to one hair. Your comb at home has gaps much wider than that. So how can anyone comb the eggs out?* In this unit you meet the parasites that live on people: head lice, fleas, ticks and worms. You find out what problem each one has, and how their body solves it. You test which comb can catch something as small as a louse egg. You follow the malaria parasite from a person into a mosquito and back. And you learn the simple habits that keep every one of them off you.
+**Intro.** *Hold a khus khus seed on your fingertip. A head louse's egg is smaller than this seed, and is glued to one hair. Your comb at home has gaps much wider than that. So how can anyone comb the eggs out?* In this lesson you meet the parasites that live on people: head lice, fleas, ticks and worms. You find out what problem each one has, and how their body solves it. You test which comb can catch something as small as a louse egg. You follow the malaria parasite from a person into a mosquito and back. And you learn the simple habits that keep every one of them off you.
 
 ## Learning outcomes
 0. I can say what a parasite and a host are, and give examples.
@@ -489,7 +489,7 @@ That evening, Kavya told Ajji everything. Ajji smiled and began to oil her hair.
 ## Worksheets
 ### Parasite Detective (core) (core, 15 questions)
 1. (mcq) Which of these is a parasite?  
-   Options: A honeybee / A head louse / A tiger  
+   Options: A head louse / A honeybee / A tiger  
    **Answer:** A head louse. *Why:* A head louse lives on a person's head and drinks their blood. A bee helps flowers, and a tiger is a predator who kills and eats.
 2. (fill) The living being a parasite lives on or in is called the ____.  
    **Answer:** ['host']. *Why:* The host gives the parasite a home and food.
@@ -509,7 +509,7 @@ That evening, Kavya told Ajji everything. Ajji smiled and began to oil her hair.
 9. (truefalse) Only female mosquitoes bite.  
    **Answer:** True. *Why:* True. Females need protein from blood to make eggs. Males drink only nectar and plant juice.
 10. (mcq) Which of these keeps mosquitoes from laying eggs at home?  
-   Options: Leaving water in flowerpot saucers / Emptying and scrubbing saucers and coolers once a week / Keeping windows open at dusk  
+   Options: Emptying and scrubbing saucers and coolers once a week / Leaving water in flowerpot saucers / Keeping windows open at dusk  
    **Answer:** Emptying and scrubbing saucers and coolers once a week. *Why:* Mosquitoes lay eggs in still water, and the young take about a week to grow. Emptying the water each week stops them.
 11. (match) Match each parasite to how they reach a person.  
    **Answer:** Head louse → crawls across when heads touch; Hookworm → gets in through bare feet; Malaria parasite → comes in a mosquito's bite; Roundworm → eggs are swallowed from dirty hands. *Why:* Each parasite has one main path. Closing that path keeps them out.
@@ -523,22 +523,22 @@ That evening, Kavya told Ajji everything. Ajji smiled and began to oil her hair.
    **Answer:** A small insect with six legs, each ending in a claw round the hair, and a small oval egg on the hair close to the scalp.. *Why:* Claws let the louse stay on. The egg is glued near the scalp because warmth helps the egg hatch.
 ### How Parasites Live (stretch) (stretch, 15 questions)
 1. (mcq) A louse falls off a child's head onto a cushion. What usually happens to the louse?  
-   Options: She lives on the cushion for months / She dies within a day or two / She jumps back  
+   Options: She dies within a day or two / She lives on the cushion for months / She jumps back  
    **Answer:** She dies within a day or two. *Why:* A head louse needs blood and warmth from a head. Away from one, she usually dies within a day or two. That is why there is no need for big cleaning of the house.
 2. (write) A mother louse glues each egg to a hair right next to the scalp. Why there, and not at the end of the hair?  
    **Answer:** The scalp is warm, and the eggs need warmth to hatch. At the end of the hair it is cooler, and the egg could be cut off or combed out more easily.. *Why:* A strong answer names the louse's problem, keeping the eggs warm and safe, and says how gluing them near the scalp solves it.
 3. (mcq) A flea's body is flat from side to side. How does that help the flea?  
-   Options: The flea can slide between an animal's hairs / The flea can fly / The flea stays cool  
+   Options: The flea can fly / The flea can slide between an animal's hairs / The flea stays cool  
    **Answer:** The flea can slide between an animal's hairs. *Why:* A thin, flat body slips between hairs. Backward-pointing spines also make the flea hard to pull out.
 4. (write) Name one habit that keeps hookworms out, and say how it closes their path.  
    **Answer:** Wearing chappals outside. Young hookworms wait in damp soil and get in through the skin of bare feet, so chappals block that path.. *Why:* A strong answer names the habit and links it to the way the hookworm gets in.
 5. (mcq) Why should a grown-up never squeeze a tick's body to pull the tick off?  
-   Options: The tick will bite the grown-up / Squeezing can leave the barbed mouthparts in the skin / The tick will jump away  
+   Options: Squeezing can leave the barbed mouthparts in the skin / The tick will bite the grown-up / The tick will jump away  
    **Answer:** Squeezing can leave the barbed mouthparts in the skin. *Why:* A tick's mouthpart has backward barbs and is often glued in. Squeezing pulls the body off and leaves the mouthpart behind. Grip close to the skin with fine tweezers and pull straight up.
 6. (sort) Sort these. Which parasite does each habit stop?  
    **Answer:** one comb for each person → Lice; chappals outside → Worms; a net over the bed → Mosquitoes; washing hands before eating → Worms; a weekly check with a fine comb → Lice; covering water drums → Mosquitoes. *Why:* Each habit closes the path one parasite uses.
 7. (mcq) A threadworm makes a child's bottom itch at night. How do threadworm eggs get back into the mouth?  
-   Options: Through the nose while sleeping / Scratching puts eggs under the nails, and from there they reach the mouth / Through a mosquito bite  
+   Options: Through the nose while sleeping / Through a mosquito bite / Scratching puts eggs under the nails, and from there they reach the mouth  
    **Answer:** Scratching puts eggs under the nails, and from there they reach the mouth. *Why:* The female lays eggs around the bottom at night. Scratching picks them up on fingers. So short nails and washing hands in the morning help.
 8. (mcq) A mosquito bites a person with malaria today. When could she first pass malaria on?  
    Options: Straight away / After about one to two weeks / Never  
@@ -560,18 +560,18 @@ That evening, Kavya told Ajji everything. Ajji smiled and began to oil her hair.
    **Answer:** A circle of four labelled stages joined by arrows, in that order.. *Why:* The parasite needs both hosts, in this order.
 ### Think Like Ronald Ross (challenge) (challenge, 15 questions)
 1. (mcq) In the Comb Test, an ordinary comb pushed 9 of 10 sesame seeds but only 1 of 10 khus khus seeds. What is the best explanation?  
-   Options: The sesame seeds were bigger than the gaps, and most khus khus seeds were smaller / Khus khus seeds are heavier / The comb was swept faster for the khus khus  
+   Options: Khus khus seeds are heavier / The comb was swept faster for the khus khus / The sesame seeds were bigger than the gaps, and most khus khus seeds were smaller  
    **Answer:** The sesame seeds were bigger than the gaps, and most khus khus seeds were smaller. *Why:* Seeds bigger than the gaps get pushed. Seeds smaller than the gaps slip through. The one khus khus seed pushed may have been stuck against a sesame seed or a tooth.
 2. (mcq) A louse egg hatches in about 8 days. The young louse becomes an adult who can lay eggs about 9 days later. If you comb only once, what could happen?  
    Options: Eggs the comb missed hatch, grow up and lay new eggs / Nothing, because one combing gets every egg / The lice leave on their own  
    **Answer:** Eggs the comb missed hatch, grow up and lay new eggs. *Why:* One combing always misses a few eggs. Combing every four days catches the young lice before they are old enough to lay eggs.
 3. (mcq) Why is it hard for a parasite inside the gut to reach a new host?  
-   Options: The gut is too warm / They must leave the body, survive outside, and get into someone else / Worms cannot eat  
+   Options: They must leave the body, survive outside, and get into someone else / The gut is too warm / Worms cannot eat  
    **Answer:** They must leave the body, survive outside, and get into someone else. *Why:* Inside the gut there is plenty of food. The hard part is the journey to a new person, through soil, hands, food or skin.
 4. (write) Most plants make their own food, but dodder takes food from another plant. Why does dodder need a host?  
    **Answer:** Dodder has no green leaves, so they cannot make enough food from sunlight. They take food from the plant they wrap round.. *Why:* A good answer links the missing green leaves to needing food from a host.
 5. (mcq) People once thought malaria came from bad air near swamps at night. Why did the idea seem right?  
-   Options: Swamps and night are where and when Anopheles mosquitoes breed and bite / Swamp air is poisonous / People never got malaria in the daytime  
+   Options: Swamp air is poisonous / People never got malaria in the daytime / Swamps and night are where and when Anopheles mosquitoes breed and bite  
    **Answer:** Swamps and night are where and when Anopheles mosquitoes breed and bite. *Why:* The bad air idea matched what people saw, but the real cause was the mosquitoes who breed in still water and bite at night.
 6. (write) A tick has no wings and cannot jump. Explain how a tick still finds a host.  
    **Answer:** The tick climbs a grass blade and holds out their front legs. The legs sense the breath, warmth and smell of an animal coming close. When the animal brushes past, the tick grabs on.. *Why:* A full answer says the tick waits, senses the animal and grabs on.
@@ -584,10 +584,10 @@ That evening, Kavya told Ajji everything. Ajji smiled and began to oil her hair.
 10. (write) The malaria parasite needs two hosts. Name them, and say what happens in each.  
    **Answer:** A person and an Anopheles mosquito. In the person, the parasites grow in the liver and then in red blood cells, causing fever. In the mosquito, they grow in the stomach and move to the saliva, ready to pass on.. *Why:* A full answer names both hosts and one thing that happens in each.
 11. (mcq) A child has a fever with shivering, and there are many mosquitoes where they live. What should the family do?  
-   Options: Wait a week to see if it goes / Take the child to a doctor for a blood test the same day / Give her a lice comb  
+   Options: Take the child to a doctor for a blood test the same day / Wait a week to see if it goes / Give her a lice comb  
    **Answer:** Take the child to a doctor for a blood test the same day. *Why:* Malaria can be cured, but it is dangerous if left. A blood test shows the parasite, and the right medicine clears them.
 12. (mcq) Ross found malaria parasites in a mosquito's stomach in 1897. Why was that not yet proof that mosquitoes give malaria to people?  
-   Options: He also needed to show that a mosquito's bite passes the parasite to a new host / His microscope was broken / He found only one mosquito  
+   Options: His microscope was broken / He found only one mosquito / He also needed to show that a mosquito's bite passes the parasite to a new host  
    **Answer:** He also needed to show that a mosquito's bite passes the parasite to a new host. *Why:* Finding the parasite in a mosquito showed she could pick the parasite up. In 1898 Ross showed bites passing malaria between birds, and Grassi's team showed Anopheles passing it to people.
 13. (sort) Sort these. Which are parasites and which are predators?  
    **Answer:** flea on a cat → Parasite; cat catching a mouse → Predator; tick on a cow → Parasite; spider eating a fly → Predator; roundworm in a person → Parasite; owl catching a rat → Predator. *Why:* A parasite feeds from a living host and usually keeps them alive. A predator kills and eats their prey.
@@ -598,24 +598,24 @@ That evening, Kavya told Ajji everything. Ajji smiled and began to oil her hair.
 
 ## Videos
 - **How Lice Turn Your Hair Into Their Jungle Gym | Deep Look** (Deep Look, 4 min) id `Yb26BBvAAWU`: Close-up film of real head lice holding hairs with their claws, and of eggs glued to hair. It shows what the Comb Test is about. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. Length about 3 minutes 46 seconds from the search page. Not watched from here: a parent should preview it, as the close-ups are large.
-- **How Mosquitoes Use Six Needles to Suck Your Blood | Deep Look** (Deep Look, 3 min) id `rD8SmacBUcU`: Shows a female mosquito's proboscis going into skin, with the six needles inside. It matches the mosquito card in this unit. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. Length about 3 minutes 18 seconds. Not watched from here: a parent should preview it.
+- **How Mosquitoes Use Six Needles to Suck Your Blood | Deep Look** (Deep Look, 3 min) id `rD8SmacBUcU`: Shows a female mosquito's proboscis going into skin, with the six needles inside. It matches the mosquito card in this lesson. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. Length about 3 minutes 18 seconds. Not watched from here: a parent should preview it.
 - **A Flea's Fantastic Jump Takes More Than Muscle | Deep Look** (Deep Look, 5 min) id `A5KvNcNz9aQ`: Slow-motion film of a flea's jump, and how a springy pad in their legs works like a catapult. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. Length about 4 minutes 36 seconds. Not watched from here: a parent should preview it.
 
 ## Quiz
 1. (mcq) What is a parasite?  
-   Options: A living being who kills and eats another / A living being who lives on or inside another living being and feeds from them / Any very small living being  
+   Options: A living being who lives on or inside another living being and feeds from them / A living being who kills and eats another / Any very small living being  
    **Answer:** A living being who lives on or inside another living being and feeds from them. *Why:* A parasite lives on or in a host and takes food from them. A being who kills and eats another is a predator. Many small beings, such as ants, are not parasites.
 2. (mcq) A dog has fleas. What do we call the dog?  
-   Options: The host / The vector / The predator  
+   Options: The vector / The predator / The host  
    **Answer:** The host. *Why:* The host is the living being a parasite lives on. A vector carries a parasite from one host to another, as a mosquito carries malaria.
 3. (mcq) In the Comb Test, which comb pushed the tiny khus khus seeds to the line?  
-   Options: The wide-tooth comb / The fine-tooth lice comb / All three combs the same  
+   Options: The fine-tooth lice comb / The wide-tooth comb / All three combs the same  
    **Answer:** The fine-tooth lice comb. *Why:* Only the lice comb's gaps were narrower than the seeds. The small seeds slipped between the teeth of the wider combs. A real louse egg is smaller than a khus khus seed, so only a fine comb lifts the egg out.
 4. (mcq) How do head lice get from one child to another?  
-   Options: They jump / They fly / They crawl across when two heads touch  
+   Options: They jump / They crawl across when two heads touch / They fly  
    **Answer:** They crawl across when two heads touch. *Why:* Lice have no wings and cannot jump. Their claws are made for gripping hair, so they crawl from hair to hair when heads touch.
 5. (mcq) Why do shampoo and water not remove nits?  
-   Options: Nits are hidden inside the hair / The mother louse glues each egg firmly to a hair / Nits are too heavy to wash away  
+   Options: Nits are hidden inside the hair / Nits are too heavy to wash away / The mother louse glues each egg firmly to a hair  
    **Answer:** The mother louse glues each egg firmly to a hair. *Why:* The glue is very strong and water does not loosen it. A fine comb, or sliding the nit off with fingernails, is needed.
 6. (mcq) A tick waits on a blade of grass. How does the tick know an animal is coming?  
    Options: The tick hears the animal's footsteps / The tick's front legs sense the animal's breath, warmth and smell / The tick sees the animal from far away  
@@ -633,10 +633,10 @@ That evening, Kavya told Ajji everything. Ajji smiled and began to oil her hair.
    Options: She needs protein from blood to make her eggs / She is bigger than the male / Males are afraid of people  
    **Answer:** She needs protein from blood to make her eggs. *Why:* Both males and females drink nectar for energy. The female also needs the protein in blood to make her eggs.
 11. (mcq) What causes malaria?  
-   Options: Bad air from swamps / A tiny one-celled parasite carried by Anopheles mosquitoes / Eating mangoes in summer  
+   Options: Bad air from swamps / Eating mangoes in summer / A tiny one-celled parasite carried by Anopheles mosquitoes  
    **Answer:** A tiny one-celled parasite carried by Anopheles mosquitoes. *Why:* Malaria is caused by Plasmodium, a single-celled parasite. Female Anopheles mosquitoes carry the parasite from person to person. People once blamed bad air, and the name malaria means bad air in Italian.
 12. (mcq) A scientist lets mosquitoes bite a person who has malaria. Days later he finds malaria parasites growing inside the mosquitoes. What does this show?  
-   Options: Mosquitoes carry malaria from person to person / Mosquitoes cure malaria / Malaria spreads through water  
+   Options: Mosquitoes cure malaria / Mosquitoes carry malaria from person to person / Malaria spreads through water  
    **Answer:** Mosquitoes carry malaria from person to person. *Why:* The parasites grew inside the mosquitoes after they drank infected blood. When such a mosquito bites someone else, she can pass the parasites on. So stopping mosquitoes stops malaria spreading.
 
 ## Applications
@@ -707,6 +707,12 @@ Close the Path (sci.microorganisms.L3): Topic-level song for Microorganisms L3
 ## Things to buy
 - [A fine-tooth lice comb (eer kolli), plastic or steel](https://www.amazon.in/s?k=lice+comb+fine+tooth) (tool): The Comb Test and the weekly head check need one. Chemists and general stores sell them cheaply. Used in e1, a3. 
 - [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): Helps you see the gaps between comb teeth and the size of tiny seeds. A phone camera zoomed in works too. Used in e1, a1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Comb Test: which comb can catch a louse egg?, How Small? A parasite size line, Check the Mosquito Net. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a1, a4. Get it before The Comb Test: which comb can catch a louse egg?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Pull Out a Pretend Tick. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in a6. Get it before Pull Out a Pretend Tick.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Make a Nit Comb. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before Make a Nit Comb.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Comb Test: which comb can catch a louse egg?, How Small? A parasite size line, Make a Nit Comb. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1, a1, c1. Get it before The Comb Test: which comb can catch a louse egg?.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in The Fan Test: where does a fan stop mosquitoes?, Weekly Head Check with a Lice Comb. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e2, a3. Get it before The Fan Test: where does a fan stop mosquitoes?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - A living being lives on another and feeds from them. What are they called? → A parasite.

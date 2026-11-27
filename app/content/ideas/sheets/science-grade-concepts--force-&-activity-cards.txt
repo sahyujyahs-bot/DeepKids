@@ -1,0 +1,42 @@
+# DeepKids - Science - Grade Concepts / Force & Activity cards (copied from Google Sheets, 2026-11-27)
+R1:  | Activities | Force Cards Count | Force Card Power | items
+R2: Normal Force | 1. lie down & catch another falling ⏎ 2. Push on wall, push on cushion, push water. Were you be able to pierce through?  ⏎ 3. Ask the other player to throw a ball until you catch it. When you catch the ball, The ball pushes on your hand → your hand pushes back (normal force). | 2
+R3: Buoyancy - low G mode | 1. Float in a pool ⏎ 2. Stay suspended in a pool ⏎ 3. large tub of water - see what sinks, what floats ⏎ 4. make a paper boat and make it float | 1+2
+R4: Sideways Velocity | 1. Hoola Hoop ⏎ 2. moon& ISS ,  ⏎ 3. Planets around Sun (colouring pages) ⏎ 4. Surfing | 2 +2
+R5: Impact Force -Elastic Energy | 1. Jump on Trampoline ⏎ 2. Rubber band rocket | 1+1
+R6: CoG=CoB | 1. Yoga Pose - One leg standing ⏎ 2. Yoga Pose 2 ⏎ 3. Gravitational Spinner ⏎ 4. Jenga ⏎ 5. https://pin.it/DHTsAG1V9 | 3+1 |  |  |  | punch
+R7: Escape Velocity | 1. Make rocket - chemical energy? | 1
+R8: Magnetic Energy | 1. Pick paper clip with magnet | 1 |  |  |  | Trust Or Not
+R9: Air Resistance | 1. drop crumpled and normal paper and one over other - ⏎ 2. make a paper parachute | 1
+R10: Physical Work | 1. how high can you jump? ⏎ 2. climb stairs,  ⏎ 3. climb slide | 3
+R11: Air Lift | 1. feather float with dryer | 1
+R12: Neutral Pull | 1. Tug -Off War | 1
+R13: Weight Loss (mass) | 1. Measure your weight on a scale. then lift up one leg in the air- what happens to the reading on the scale? Did you feel like your weight or mass changed? then why did the scale change? ⏎ When you held your friend from falling, did you feel his weight? " ⏎ 2. measure weight inside a pool ⏎ 3. Measure your weight on the ground, on an elevator moving up and while moving down, Note the values. Are they same? Is your true weight changing? then why are the readings? | 3
+R14: Knowledge Points | 1. blanket stretched, balls placed 1 big, some small, another bigger, 2 equal ⏎ 2. Pull another, expend energy. But thats not gravity ⏎ 3. make an object float with no other material used ⏎ 4. End point of gravity is at geometric center, where Fg=0 ⏎   | 4
+R15: mass | Gravity Sort
+R16: Thrust | 1) Baloon car ⏎ Inflate the balloon through the straw. ⏎ Place the car on a flat floor. ⏎ Release and let it zoom!
+R17: Friction  | 1)  Bumpy Ride ⏎ Lean your cardboard ramp on a wall and place the car at the top of the smooth side. Let go and see how fast and far it goes. ⏎ Now put the car at the top of the Velcro side and let go again. Watch how quickly it slows down.
+R18: Centripedal Force | anti gravity ⏎ Cup of water attached to string rotated and water dosnt fall ⏎ Spinning top 
+R20: S.No | Gravity Well / Event |  | Outcome / Effect | Notes | 50 | tennis ball | archery kit | yoga mat
+R21: 1 | Dragstorm |  | Move back 2 steps | Counterable with Buoyancy / Feather | 50 | bouncy ball | weighing machine
+R22: 2 | Black Hole Surge |  | Move back 3 steps | Global pull | 50 | soft toy ball | 300
+R23: 3 | Weight Surge |  | Move back to previous spot | Counterable with Weight Warp | 50 | cricket ball
+R24: 4 | Slick Ground |  | Move back 1 step | Stackable | 20 | plastic ball
+R25: 5 | Ground Grip |  | Lose next turn | Counterable with Elastic Boost | 200 | hoola hoop
+R26: 6 | Mass Spike |  | All players move down 1 step | Global |  | rubber band
+R27: 7 | Gravity Snap |  | Player loses 1 Force Card | No counter | 80 | frisbee
+R28: 8 | Drag Layer |  | Players in this layer always -1 | Passive | 50 | clay
+R29: 9 | Gravity Reversal |  | Swap top and bottom players | Can be countered with Stabilizer |  | plastic waterbottle
+R30: 10 | Pull Cascade |  | All players pulled down in order | Global chain |  | baking soda
+R31: 11 | Downwell |  | Player stuck, must roll even to escape | Counterable with Lift Lock |  | Origami papers
+R32: 12 | Heavy Air Pocket |  | Skip next roll | Can be countered with Feather Flow |  | feathers
+R33: 13 | Event Horizon |  | Lose all stacked boosts | Late-game trap |  | balloons
+R34: 14 | Lagrange Drift |  | Cancel one power used this turn | Counterable with Equilibrium Lock |  | cotton | https://www.amazon.in/WIZERDY-Balancing-Science-Illusion-Physics-Based/dp/B0FFH2W137/ref=sr_1_24?crid=3IU2NQ70JCCVA&dib=eyJ2IjoiMSJ9.0SCiFSFeDE72Wa0VFEtzVeEkckxRrhHNB4501HvHpwlgV0NVdrzsTHw2Vfa8eukomORIjunxoLaKvb8QKQ93o5HSXgL6f5CRYI3Vc7zaThVS1abhCsg7gNJ5-sEztm-iuoCoD3hwzLvcg__XFsUgx78fk5q2KaRTJAWoME5sHYyEibRjKX-4pmAbPt0inKouYoHBWYnGWYO7GO3vudxBVl2GLhQrgbwom80N7pmfm6MQRcdCD2o1L4CW9yRK9nC3upGd2vXE5iskzWrZr5OLkcEL_R_sy7SgpAfD2ldv5ao.Sw6l0Ry8t9zXqEs-16LUGWKwxibi2-wywAvYIFOOSZw&dib_tag=se&keywords=balancing+toy&qid=1763157204&s=toys&sprefix=balacing+toy%2Ctoys%2C214&sr=1-24 | https://www.amazon.in/CHARVI-Toys-Balanced-Tree-Frog/dp/B0FLKCSBCZ/ref=sr_1_56?crid=3IU2NQ70JCCVA&dib=eyJ2IjoiMSJ9.GvRoFN45UFtPu6mzrTPey8aRCUvCeAHrGVHxYwK7gpJ79OH7bQ6BvxNjicOi_dNsuUJ2p9WASY7hHuCIqxnUh-liIGMQnwUqMBXCIbnumQ7oSWXIaFthP7yRCWSx9AK7j2nI7OkR9pVc5zUjNVr8cU51PK_K4fpHBAodlI92tjTGM9pVqzdk2AmjUQWozYuK-I_5BirnKoJ4Wc0n4bfkLQ.4QSftNQLr1V7knzx8r45xy8JmOgTL6dsMBb2wpGfjv0&dib_tag=se&keywords=balancing+toy&qid=1763157309&s=toys&sprefix=balacing+toy%2Ctoys%2C214&sr=1-56&xpid=Az7w6Dgz5Q2Cd | https://www.amazon.in/TOKYODO-Balancing-Stacking-Indoors-Educational/dp/B0FMFHVKT3/ref=sr_1_122?crid=3IU2NQ70JCCVA&dib=eyJ2IjoiMSJ9.SQ1d25FXCE1w7mC12i9ayEo0cBTvBw_mUWlpdHC8OpEvk5vdF6DuCSKtHDpqyUrs1dUSXDSZpXLhmwqK8sVr522LW8GkhCwI_Z1BqnirFQWl-hisx0WkL72vKBpGEshoAWiQXcpNXLWH-bLI0dm2q1V63SsAcdVi7pEYS89hBf6SP5sC4m2eDJIP7LiwyHuVPFDg2diciAhYz6mLtk84TQ.M9X9-MnJ9BOFM8BUBqO9LnEXgXXpqe1A2P-3AxaIUvU&dib_tag=se&keywords=balancing%2Btoy&qid=1763157366&s=toys&sprefix=balacing%2Btoy%2Ctoys%2C214&sr=1-122&xpid=Az7w6Dgz5Q2Cd&th=1
+R35: 15 | Pressure Crush |  | Move down to next lower layer | Counterable with Reaction Shield | 50 | magnet
+R36: 16 | Gravitas Well |  | you gain gravitas points that can pull all other players down by 2 steps |  | 20 | paper clips
+R37: 17 | Density Drain |  | Suraface loses densiity, Normal force drops, sucked into the surface  |  |  | parachute making paper
+R38: 18 | Height Drop |  | move vertically x steps down |  |  | threads/ropes
+R39: 19 | Time stops at g=0 |  | 2 turns for you stopped | Mediatate 5 min to move out? |  | Slinky
+R40: 20 | Artificial Centrepetal |  | Caught in the gravity well, lose a trun |  |  | Slime
+R41: 21
+R42:  |  |  | gravity wooden blocks

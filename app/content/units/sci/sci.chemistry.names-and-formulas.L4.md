@@ -1,9 +1,9 @@
 # Chemical formulas: how H₂O, CO₂ and NaCl say which atoms and how many
 `sci.chemistry.names-and-formulas.L4`
 
-**Summary.** Salt, table salt and sodium chloride are one thing, and NaCl is a fourth way to write it. What does a formula tell you? In this unit you will collect the names of one substance, count drops of lemon juice, and build water, carbon dioxide and salt from dough.
+**Summary.** Salt, table salt and sodium chloride are one thing, and NaCl is a fourth way to write it. What does a formula tell you? In this lesson you will collect the names of one substance, count drops of lemon juice, and build water, carbon dioxide and salt from dough.
 
-**Intro.** *The symbol for hydrogen is H, and the symbol for oxygen is O. So why is the symbol for sodium Na? The word sodium has neither an N nor an A in it.* Chemists write every substance with a short code called a formula. Water is H₂O. Carbon dioxide, the gas you breathe out, is CO₂. Table salt is NaCl. The letters stand for kinds of atoms, and some of them come from old Latin names. Sodium was called natrium, so its symbol is Na. The small numbers say how many atoms there are. In this unit you collect the many names of one substance. You count drops of iodine to find out why the numbers are fixed. You also build molecules from dough and read the formulas of things in your kitchen.
+**Intro.** *The symbol for hydrogen is H, and the symbol for oxygen is O. So why is the symbol for sodium Na? The word sodium has neither an N nor an A in it.* Chemists write every substance with a short code called a formula. Water is H₂O. Carbon dioxide, the gas you breathe out, is CO₂. Table salt is NaCl. The letters stand for kinds of atoms, and some of them come from old Latin names. Sodium was called natrium, so its symbol is Na. The small numbers say how many atoms there are. In this lesson you collect the many names of one substance. You count drops of iodine to find out why the numbers are fixed. You also build molecules from dough and read the formulas of things in your kitchen.
 
 ## Learning outcomes
 0. I can read a chemical symbol and say which element it stands for.
@@ -152,7 +152,7 @@ A formula has two parts. The letters were chosen by people, and they could have 
   Against: Letters can be written and printed quickly by anyone. Chemists chose letters for everyday work. They do use pictures of molecules when the arrangement matters, so Dalton was partly right.
 
 ## Roots
-In this unit you read formulas such as H₂O and NaCl. You also counted drops to see why their numbers are fixed. Here we ask which part of a formula comes from people and which part comes from the substance.
+In this lesson you read formulas such as H₂O and NaCl. You also counted drops to see why their numbers are fixed. Here we ask which part of a formula comes from people and which part comes from the substance.
 
 **Deep truth.** In Count the Drops, twice as much lemon juice cleared about twice as many drops of iodine. Nobody chose that number, and you found it by counting. People chose the letters H and O for water, but they had to measure to find the 2. So the letters in a formula are an agreement, and the small numbers are discoveries.  
 *Habit it breaks:* We treat a formula as one thing, either as a fact of nature or as a label. It is two things written together. The symbols could have been different. The numbers could not.  
@@ -164,7 +164,7 @@ In this unit you read formulas such as H₂O and NaCl. You also counted drops to
 
 People have given salt hundreds of names, and each name belongs to one language. The formula NaCl belongs to no language, and a chemist anywhere can read it. With 118 symbols, people can write every substance yet found: a rock, a river, the air, a mango and a child. Many sages taught that the many things of the world come from one source. The science here says something close and plain. All the substances we know are built from about ninety kinds of atoms, joined in different numbers.
 
-- **Chandogya Upanishad 6.1.4:** “यथा सोम्यैकेन मृत्पिण्डेन सर्वं मृन्मयं विज्ञातं स्यात् / वाचारम्भणं विकारो नामधेयं मृत्तिकेत्येव सत्यम्” Uddalaka tells his son Shvetaketu that by knowing one lump of clay, everything made of clay is known. A pot and a lamp differ only in name, and the truth is that both are clay. (Uppu, namak and nun differ only in name. What stays the same is sodium and chlorine, one for one. The Upanishad goes further than chemistry does. It says that all things are finally one, which no experiment in this unit tests.)
+- **Chandogya Upanishad 6.1.4:** “यथा सोम्यैकेन मृत्पिण्डेन सर्वं मृन्मयं विज्ञातं स्यात् / वाचारम्भणं विकारो नामधेयं मृत्तिकेत्येव सत्यम्” Uddalaka tells his son Shvetaketu that by knowing one lump of clay, everything made of clay is known. A pot and a lamp differ only in name, and the truth is that both are clay. (Uppu, namak and nun differ only in name. What stays the same is sodium and chlorine, one for one. The Upanishad goes further than chemistry does. It says that all things are finally one, which no experiment in this lesson tests.)
 - **Tao Te Ching, chapter 1:** “道可道，非常道，名可名，非常名。” The name that can be spoken is not the lasting name. (No word for water is water. A formula is also a kind of name. H₂O is not wet, and it leaves out how the atoms are arranged. Lao Tzu was speaking of the Tao, the source of all things, and not of chemistry.)
 - **Confucius, Analects 13.3:** “名不正，則言不順。 / 言不順，則事不成。” If names are not right, what people say will not match how things are, and their work will not succeed. (This is the reason chemists agreed on names and formulas. Two powders both called soda can be mixed up. NaHCO₃ and Na₂CO₃ cannot.)
 - Science (settled): Water has been found on the Moon, in comets and in clouds between the stars. It has the same formula as water on the Earth.
@@ -540,7 +540,7 @@ The driver did not know Tamil either. He had nodded kindly, and driven on.
 ## Worksheets
 ### Reading a formula (core, 15 questions)
 1. (mcq) What does the small 2 in H₂O tell you?  
-   Options: Each molecule has two hydrogen atoms / Each molecule has two oxygen atoms / There are two molecules of water / Water is twice as heavy as air  
+   Options: Each molecule has two oxygen atoms / There are two molecules of water / Water is twice as heavy as air / Each molecule has two hydrogen atoms  
    **Answer:** Each molecule has two hydrogen atoms. *Why:* A small number counts the atoms of the symbol just before it. The 2 comes after the H, so it counts hydrogen atoms.
 2. (fill) The formula of table salt is ____.  
    **Answer:** ['NaCl']. *Why:* Na is the symbol for sodium and Cl is the symbol for chlorine. Table salt is sodium chloride.
@@ -551,7 +551,7 @@ The driver did not know Tamil either. He had nodded kindly, and driven on.
 5. (count) How many atoms are there in one molecule of CO₂?  
    **Answer:** 3. *Why:* One carbon atom and two oxygen atoms make three atoms.
 6. (mcq) Which of these is the formula of carbon dioxide?  
-   Options: CO₂ / CO / Co / C₂O  
+   Options: CO / CO₂ / Co / C₂O  
    **Answer:** CO₂. *Why:* Di means two. Carbon dioxide has one carbon atom and two oxygen atoms. CO is carbon monoxide, and Co is the metal cobalt.
 7. (sort) Sort these formulas. Does each have one kind of atom, or more than one kind?  
    **Answer:** O₂ → One kind of atom; Au → One kind of atom; N₂ → One kind of atom; H₂O → More than one kind; NaCl → More than one kind; CO₂ → More than one kind. *Why:* Count the different symbols. O₂, Au and N₂ each have one symbol, so they are elements. The others have two symbols, so they are compounds.
@@ -560,7 +560,7 @@ The driver did not know Tamil either. He had nodded kindly, and driven on.
 9. (fill) In water there are ____ hydrogen atoms for every one oxygen atom.  
    **Answer:** ['two', '2']. *Why:* The formula H₂O has a small 2 after the H and no number after the O.
 10. (mcq) What does the formula NaCl tell you about salt?  
-   Options: One sodium for every chlorine / More sodium than chlorine / Sodium, carbon and iodine / Two atoms in each grain  
+   Options: More sodium than chlorine / Sodium, carbon and iodine / Two atoms in each grain / One sodium for every chlorine  
    **Answer:** One sodium for every chlorine. *Why:* Na is sodium and Cl is chlorine, with no numbers, so they are one to one. Cl is one symbol. It is not carbon followed by another element.
 11. (write) Write what the formula CO₂ tells you, in one full sentence.  
    **Answer:** Each molecule of carbon dioxide has one carbon atom and two oxygen atoms.. *Why:* A strong answer names both elements and gives the number of each.
@@ -571,17 +571,17 @@ The driver did not know Tamil either. He had nodded kindly, and driven on.
 14. (perspective) Which is the real name of water?  
    **Answer:** Any view with a reason. One reason is that a name is useful when the people you talk to understand it. Another is that only the formula says what water is made of. Another is that water does not change when its name changes.. *Why:* Each view has something right in it. A strong answer says what a name is for, and uses that to choose.
 15. (mcq) Why is the second letter of a symbol always small?  
-   Options: So Co and CO cannot be confused / Because small letters are quicker to write / Because the second atom is smaller / To save ink  
+   Options: Because small letters are quicker to write / Because the second atom is smaller / So Co and CO cannot be confused / To save ink  
    **Answer:** So Co and CO cannot be confused. *Why:* Every capital letter starts a new symbol. Co is one element, cobalt. CO is two elements, carbon and oxygen.
 ### One atom more, and names that give clues (stretch, 15 questions)
 1. (mcq) Carbon monoxide is CO. Carbon dioxide is CO₂. What is the difference between their molecules?  
-   Options: CO₂ has one more oxygen atom / CO₂ has one more carbon atom / CO₂ is two molecules of CO / There is no difference  
+   Options: CO₂ has one more carbon atom / CO₂ has one more oxygen atom / CO₂ is two molecules of CO / There is no difference  
    **Answer:** CO₂ has one more oxygen atom. *Why:* The small 2 counts oxygen atoms. That one extra atom makes a different gas. Carbon monoxide is a deadly poison.
 2. (mcq) Which pair shows two different substances made of the same two elements?  
-   Options: H₂O and H₂O₂ / H₂O and NaCl / O₂ and N₂ / CO₂ and NaCl  
+   Options: H₂O and NaCl / O₂ and N₂ / H₂O and H₂O₂ / CO₂ and NaCl  
    **Answer:** H₂O and H₂O₂. *Why:* Water and hydrogen peroxide are both made of hydrogen and oxygen. The numbers differ, so the substances differ.
 3. (mcq) Salt has no separate molecules. So what does its formula NaCl mean?  
-   Options: Equal numbers of sodium and chlorine / One sodium atom in each grain / One molecule made of two atoms / Salt is half metal  
+   Options: One sodium atom in each grain / One molecule made of two atoms / Salt is half metal / Equal numbers of sodium and chlorine  
    **Answer:** Equal numbers of sodium and chlorine. *Why:* Salt is a crystal in which sodium and chlorine atoms alternate. The formula gives the ratio, which is one to one.
 4. (mcq) What does 'di' mean in the name carbon dioxide?  
    Options: Two / Gas / Heavy / One  
@@ -611,16 +611,16 @@ The driver did not know Tamil either. He had nodded kindly, and driven on.
    **Answer:** ['H: the symbol for hydrogen', 'Small 2: there are two hydrogen atoms', 'O: the symbol for oxygen, with no number, so one atom']. *Why:* A formula is read one symbol at a time. A small number belongs to the symbol just before it.
 ### What a formula can and cannot tell you (challenge, 15 questions)
 1. (mcq) A white powder has the formula KCl. Heated alone, could it give off water?  
-   Options: No. It has no hydrogen or oxygen. / Yes. Every powder holds some water. / Yes, if it is heated long enough. / Only if the powder is white.  
+   Options: Yes. Every powder holds some water. / Yes, if it is heated long enough. / Only if the powder is white. / No. It has no hydrogen or oxygen.  
    **Answer:** No. It has no hydrogen or oxygen.. *Why:* Water is H₂O. Heating only rearranges the atoms a substance already has. KCl has potassium and chlorine atoms only.
 2. (mcq) Which part of a formula did people have to measure to find?  
-   Options: The small numbers / The capital letters / The small letters / The order of the letters  
+   Options: The capital letters / The small numbers / The small letters / The order of the letters  
    **Answer:** The small numbers. *Why:* The letters were agreed by people. The numbers of atoms had to be found by measuring, as with the gases from split water.
 3. (mcq) 3 teaspoons of lemon juice cleared 24 drops of iodine. About how many drops would 1 teaspoon clear?  
    Options: 8 / 24 / 72 / 3  
    **Answer:** 8. *Why:* The same juice clears drops in a fixed proportion. One third of the juice clears one third of the drops. 24 ÷ 3 = 8.
 4. (mcq) Vitamin B12 has the formula C₆₃H₈₈CoN₁₄O₁₄P. What does Co stand for?  
-   Options: One atom of cobalt / Carbon and oxygen / Carbon monoxide / A printing mistake  
+   Options: Carbon and oxygen / Carbon monoxide / A printing mistake / One atom of cobalt  
    **Answer:** One atom of cobalt. *Why:* A capital letter followed by a small letter is one symbol. Co is cobalt. Carbon and oxygen would be written CO.
 5. (truefalse) Heating a substance alone can add new kinds of atoms to it.  
    **Answer:** False. *Why:* False. Heating rearranges the atoms that are already there. It cannot make a new kind of atom.
@@ -652,30 +652,30 @@ The driver did not know Tamil either. He had nodded kindly, and driven on.
 
 ## Quiz
 1. (mcq) What does the formula H₂O say?  
-   Options: Two hydrogen atoms and one oxygen atom / Two oxygen atoms and one hydrogen atom / Two molecules of water / Hydrogen and oxygen in any amounts  
+   Options: Two oxygen atoms and one hydrogen atom / Two molecules of water / Two hydrogen atoms and one oxygen atom / Hydrogen and oxygen in any amounts  
    **Answer:** Two hydrogen atoms and one oxygen atom. *Why:* The small 2 follows the H, so it counts hydrogen atoms. The O has no number, so there is one oxygen atom.
 2. (mcq) Which symbol stands for sodium?  
-   Options: Na / So / S / Sn  
+   Options: So / S / Na / Sn  
    **Answer:** Na. *Why:* Na comes from natrium, the old Latin name of sodium. S is sulfur and Sn is tin.
 3. (mcq) How many oxygen atoms are there in one molecule of CO₂?  
    Options: 2 / 1 / 3 / 0  
    **Answer:** 2. *Why:* The small 2 follows the O, so there are two oxygen atoms. There is one carbon atom.
 4. (mcq) CO and CO₂ are made of the same two elements. Are they the same substance?  
-   Options: No. The number of oxygen atoms differs. / Yes. The elements are the same. / Yes. The 2 is only decoration. / No. CO has no carbon in it.  
+   Options: Yes. The elements are the same. / Yes. The 2 is only decoration. / No. The number of oxygen atoms differs. / No. CO has no carbon in it.  
    **Answer:** No. The number of oxygen atoms differs.. *Why:* One atom more makes a different substance. CO is a poisonous gas, and CO₂ is the gas you breathe out.
 5. (mcq) What does the formula NaCl say about a grain of salt?  
-   Options: Equal numbers of sodium and chlorine atoms / Only two atoms in the whole grain / It is made of separate molecules / More chlorine than sodium  
+   Options: Only two atoms in the whole grain / Equal numbers of sodium and chlorine atoms / It is made of separate molecules / More chlorine than sodium  
    **Answer:** Equal numbers of sodium and chlorine atoms. *Why:* Salt is a crystal with no separate molecules. Its formula gives the ratio, one sodium for every chlorine.
 6. (mcq) Why does twice as much lemon juice clear about twice as much iodine?  
-   Options: Their molecules react in fixed counts / Lemon juice is sour / The iodine gets tired / More juice is wetter  
+   Options: Lemon juice is sour / The iodine gets tired / Their molecules react in fixed counts / More juice is wetter  
    **Answer:** Their molecules react in fixed counts. *Why:* One vitamin C molecule in the juice changes one iodine molecule. So the amounts go up together.
 7. (truefalse) Salt has different names in different languages, but one formula.  
    **Answer:** True. *Why:* True. Uppu, namak and nun are everyday names. The formula NaCl is the same in every country.
 8. (mcq) Which name tells you the most about what a substance is made of?  
-   Options: Sodium chloride / Salt / Uppu / Namak  
+   Options: Salt / Uppu / Sodium chloride / Namak  
    **Answer:** Sodium chloride. *Why:* A chemical name contains the names of the elements. Sodium chloride holds sodium and chlorine.
 9. (mcq) Two substances have the same formula. What can still be different?  
-   Options: How the atoms are arranged / The kinds of atoms / The number of atoms / Nothing at all  
+   Options: The kinds of atoms / The number of atoms / Nothing at all / How the atoms are arranged  
    **Answer:** How the atoms are arranged. *Why:* A formula gives the kinds of atoms and the numbers. It leaves out the arrangement. Glucose and fructose are an example.
 10. (mcq) Which of these can heated salt, NaCl, never give off?  
    Options: Water / Sodium / Chlorine / Heat  
@@ -754,6 +754,9 @@ Hold On Tight (sci.chemistry.L4): Topic-level song
 ## Things to buy
 - [Povidone-iodine solution, a small bottle of the brown liquid for cuts](https://www.amazon.in/s?k=povidone+iodine+solution) (material): For Count the Drops. Many homes already have a bottle, and any medical shop sells one. Buy the liquid. The ointment does not work for this. Used in e1. 
 - [Molecules: The Elements and the Architecture of Everything, a book by Theodore Gray (2014)](https://www.amazon.in/s?k=Molecules+Theodore+Gray) (book): For the family shelf: large photographs of everyday substances beside drawings of their molecules. Used in a2. After Dough Atoms, look up water, sugar and salt in the book. Compare its pictures with your dough models.
+- [Baking soda](https://www.amazon.in/s?k=baking+soda) (material): Used in Water from a Dry Powder: which white powder can give off water?, The Name Collector: how many names does one substance have?. About ₹20 to ₹40. Check the kitchen first. Used in e2, a1. Get it before Water from a Dry Powder: which white powder can give off water?.
+- [A small toy car with free-rolling wheels](https://www.amazon.in/s?k=toy+car+pull+back+small) (material): Used in The Formula Trail: hide eight formulas around your home. About ₹100 to ₹200. A marble or a round torch cell works. Used in p1. Get it before The Formula Trail: hide eight formulas around your home.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What does a chemical formula tell you? → Which atoms are in a substance and how many of each.

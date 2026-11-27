@@ -1,9 +1,9 @@
 # Dissolving: what water takes, what oil takes, and where the fizz hides
 `sci.states.dissolving.L4`
 
-**Summary.** Turmeric stains a plastic box and will not wash out with water, yet food colour spreads into water at once. Why? In this unit you will test which colours go into water and which into oil, see where the fizz in soda comes from, and make ice colder with salt.
+**Summary.** Turmeric stains a plastic box and will not wash out with water, yet food colour spreads into water at once. Why? In this lesson you will test which colours go into water and which into oil, see where the fizz in soda comes from, and make ice colder with salt.
 
-**Intro.** *Rub turmeric on a white plastic box and then wash it with plain water. The yellow stays. Now rub a little oil on the stain and wipe. The yellow comes off on the oil. Why does the colour leave in one liquid and not the other?* Water dissolves some things and not others. In this unit you find out which liquid dissolves which thing. You test turmeric, chilli and food colour in water and in oil. You open a cold soda and a warm soda and find out where the gas was before the bottle was opened. You make kulfi in a bag, using salt on ice. By the end you can say why a grown-up should reach for curd, not water, after a hot chilli.
+**Intro.** *Rub turmeric on a white plastic box and then wash it with plain water. The yellow stays. Now rub a little oil on the stain and wipe. The yellow comes off on the oil. Why does the colour leave in one liquid and not the other?* Water dissolves some things and not others. In this lesson you find out which liquid dissolves which thing. You test turmeric, chilli and food colour in water and in oil. You open a cold soda and a warm soda and find out where the gas was before the bottle was opened. You make kulfi in a bag, using salt on ice. By the end you can say why a grown-up should reach for curd, not water, after a hot chilli.
 
 ## Learning outcomes
 0. I can explain that water and oil each dissolve different things, and test whether a colour goes into water, into oil or into both.
@@ -41,6 +41,8 @@ In salt water, water is the solvent and salt is the solute. In golden turmeric o
 - e.g. Salt is the solute and water is the solvent in rasam.
 - e.g. Carotene, the orange pigment of carrots, is the solute in the orange ghee of carrot halwa.
 - e.g. Nail polish remover is the solvent that lifts nail polish, which water cannot do.
+- **Alchemists such as Paracelsus and Van Helmont:** Searched for the alkahest, a liquid that would dissolve everything.
+- **Chemists:** Know that no such liquid can exist. It would dissolve its own container. Each solvent works on some substances and not others.
 ### How strong a solution is: concentration · *defined*
 **Definition:** Concentration is how much dissolved thing there is in a certain amount of the liquid. More dissolved thing in the same liquid means a stronger solution.
 
@@ -48,6 +50,8 @@ Two glasses can both hold salt water and still taste very different. One teaspoo
 - e.g. Sea water has about 35 grams of salt in each litre.
 - e.g. Sherbet syrup is a concentrated solution of sugar, and a tall glass of sherbet is a diluted one.
 - e.g. A water purifier with a TDS meter shows how many milligrams of dissolved solids, such as salts, are in each litre of water.
+- **Chemists:** Measure concentration in moles per litre, a count of particles, so that solutions of different substances can be compared.
+- **Ayurvedic physicians:** Prepare kashaya, a herbal drink, by boiling herbs in water until only a quarter is left. The strength is set by how much water is boiled away.
 ### Three kinds of mixtures: solution, suspension and colloid · *defined*
 **Definition:** A solution has particles too small to see and never settles. A suspension has bits you can see that settle. A colloid has tiny bits that never settle but scatter light.
 
@@ -55,6 +59,8 @@ Salt water is a solution. It is clear, and a torch beam hardly shows in it. Mudd
 - e.g. Salt water, sugar syrup and rasam strained clear are solutions.
 - e.g. Muddy puddle water and atta stirred in water are suspensions.
 - e.g. Milk, fog, smoke from an agarbatti and jelly are colloids.
+- **Thomas Graham:** In 1861 gave the name colloid, from the Greek for glue, to stuff like gelatin whose particles do not pass through a thin skin.
+- **John Tyndall:** In 1869 showed that a beam of light makes a path visible in a colloid, like milk or fog, and not in a true solution. The path is the Tyndall effect.
 ### Why water takes salt and sugar but not oil · *defined*
 **Definition:** A water molecule has a slightly positive end and a slightly negative end. It holds on well to things that also have charged or sticky parts, and not at all to oily things that have none.
 
@@ -62,6 +68,8 @@ Water molecules are bent in shape, with the oxygen atom at one end and the two h
 - e.g. Salt and sugar dissolve in water because water can hold on to them.
 - e.g. Coconut oil does not dissolve in water because it has no charged or sticky spots for water to hold.
 - e.g. Camphor and wax dissolve in oil because they are oily too.
+- **Linus Pauling:** In the 1930s he explained that atoms pull on shared electrons by different amounts, which makes water molecules slightly positive at one end and negative at the other.
+- **Computer simulation chemists:** Today watch the water molecules in models and find that their grip on each ion is always changing, with each molecule swapping partners trillions of times a second.
 ### Things that dissolve in oil · *defined*
 **Definition:** Fat-soluble things dissolve in oil or fat and hardly in water. Many colours, smells and vitamins are fat-soluble.
 
@@ -69,6 +77,8 @@ The yellow in turmeric, the orange in carrots and the red in chilli powder all d
 - e.g. Frying turmeric and chilli in oil at the start of a tadka spreads their colour and heat through the dish.
 - e.g. Carrot halwa turns orange because carotene dissolves in the ghee.
 - e.g. A greasy hairband and a turmeric-stained box both clean better with oil or soap than with water.
+- **Ayurveda:** Makes medicated ghee and oils (ghrita and taila), by cooking herbs in fat, because the healing parts are drawn out by fat and not by water.
+- **Nutrition scientists:** Explain that vitamins A, D, E and K are fat-soluble, so a little oil in a meal helps the body take them in.
 ### Why chilli burns and curd helps · *defined*
 **Definition:** The hot part of a chilli is a fat-soluble chemical called capsaicin. It dissolves in fat and hardly in water, so water cannot wash it off, but milk fat and curd can.
 
@@ -76,6 +86,8 @@ When a grown-up bites a chilli, capsaicin sticks to the nerves in the mouth that
 - e.g. Curd rice, raita and buttermilk soothe a spicy meal better than water.
 - e.g. Washing chilli-cut fingers with oil or soap works better than water alone.
 - e.g. Rice, bread and coconut also soak up some of the hot chemical.
+- **Wilbur Scoville:** In 1912 he rated chillies by how much sugar water it took to cancel the burn. His scale of hotness is still used.
+- **Plant and bird researchers:** Found that birds do not feel the burn of capsaicin, while mammals do. A chilli plant is hot for animals that chew its seeds and safe for the birds that carry them.
 ### Soap has one end for water and one for oil · *defined*
 **Definition:** A soap molecule has a head that likes water and a tail that likes oil. It sits between oil and water and lets them spread through each other in tiny drops.
 
@@ -83,6 +95,8 @@ A soap molecule is long, like a tadpole. Its head dissolves in water. Its tail d
 - e.g. Dish soap lifts oil from a kadai and rinses off with water.
 - e.g. Milk stays an even white because its fat drops are held apart by molecules with a water end.
 - e.g. Hair shampoo lifts oil from hair in the same way.
+- **Reetha and shikakai users:** Indian families have long washed hair and cloth with soapnut (reetha) and shikakai, plants that foam in water and lift oil.
+- **Chemists:** Explain with the idea of micelles, from James McBain in 1913. The oily tails of soap molecules crowd inside a ball and hide the dirt, and the watery heads face outward.
 ### Gases dissolve in liquids too · *defined*
 **Definition:** A gas can spread through a liquid as separate molecules. More gas dissolves when the liquid is cold and when the gas is squeezed to a higher pressure.
 
@@ -90,6 +104,8 @@ A sealed bottle of soda has carbon dioxide gas squeezed into the water at a pres
 - e.g. A cold bottle of soda keeps its fizz longer than a warm one.
 - e.g. Goli soda has a glass marble held in the neck by the pressure of the gas inside.
 - e.g. Fish gulp at the surface of a hot, still pond because the warm water holds little oxygen.
+- **William Henry:** In 1803 found that the amount of gas that dissolves is proportional to its pressure. A fizzy drink opened fast loses the gas.
+- **Fish:** Breathe the oxygen dissolved in water through their gills. Warm water holds less oxygen, which is why fish in a warm pond may struggle.
 ### Salt makes ice melt, and makes the mixture colder · *defined*
 **Definition:** Dissolved particles make it harder for water to freeze. So salt water freezes at a temperature below zero, and a mix of ice and salt gets much colder than plain ice.
 
@@ -97,6 +113,8 @@ Ice at zero degrees always has a thin film of liquid water on it. Water molecule
 - e.g. A kulfi seller packs ice and salt round the pot so that the kulfi freezes.
 - e.g. Sea water stays liquid at zero degrees, when a freshwater lake has already frozen.
 - e.g. Salt on an icy road melts the ice, unless the road is so cold that even the salty water freezes.
+- **Chemists:** Say that dissolved salt makes it harder for water to freeze, so salty ice melts and gets colder as it takes in heat. Charles Blagden measured this in 1788.
+- **Kulfi makers:** Pack their moulds in ice mixed with salt, to get a temperature below freezing and set the kulfi without a machine. A cook's trick that works by the same law.
 ### Cell skins: oil and water kept apart · *defined*
 **Definition:** Every living cell is wrapped in a thin skin made of fat-like molecules with a water-loving head and an oil-loving tail. The skin forms by itself because the tails hide from water.
 
@@ -104,6 +122,8 @@ There is water inside you and water outside you. Each cell needs a skin that kee
 - e.g. Soap bubbles and cell skins both form from molecules with a water end and an oil end.
 - e.g. A bacterium in curd, a leaf cell of a tulsi plant and your own cheek cell all have such a skin.
 - e.g. The skin lets some things in and keeps others out.
+- **Gorter and Grendel (1925):** Found that the fats around a blood cell make a double layer.
+- **Singer and Nicolson (1972):** Said the layer is a fluid sea with proteins floating in it. This 'fluid mosaic' picture is still used, though cells are now known to be more crowded and organised.
 ### Almost nothing is completely insoluble · *defined*
 **Definition:** Everything dissolves a very little in water, if you wait long enough. A thing we call insoluble just dissolves so little that we do not notice.
 
@@ -111,6 +131,8 @@ Chalk looks insoluble, but a tiny amount does dissolve. Even glass and rock diss
 - e.g. Limestone caves in Meghalaya were carved by rainwater dissolving the rock.
 - e.g. Stalactites form as dripping water leaves a little dissolved limestone behind each time.
 - e.g. The white scale inside a kettle is dissolved minerals left behind by evaporating water.
+- **Everyday view:** Glass and stone do not dissolve.
+- **Geologists:** Find that even quartz dissolves a little. Hot springs carry silica, and over years glassware in a lab slowly gives up ions. 'Insoluble' means 'very little'.
 ### The sea holds dissolved gas, as soda does · *defined*
 **Definition:** The ocean dissolves a large share of the carbon dioxide that people release, which slows the warming of the air but changes the sea.
 
@@ -118,6 +140,8 @@ Carbon dioxide gas from the air dissolves into sea water, as it does in soda. Sc
 - e.g. Coral reefs off the Lakshadweep islands depend on sea water that holds the right minerals.
 - e.g. A warm ocean holds less dissolved gas than a cold one, just as a warm soda does.
 - e.g. Plankton in the sea take dissolved carbon dioxide and make food from it.
+- **Climate scientists:** Find that the ocean takes in about a quarter of the carbon dioxide people release, which slows warming of the air.
+- **Marine biologists:** Warn that this dissolved gas turns the sea a little more acid, which makes it harder for corals, snails and plankton to build shells. The sea's help comes at a cost.
 
 ## Mostly agreed
 - A thing dissolves best in a liquid that is like itself. Charged and sticky things dissolve in water, and oily things dissolve in oil. *How we know:* Salt and sugar dissolve in water but not in oil, while turmeric colour and carotene dissolve in oil and hardly in water. Chemists have measured thousands of cases.
@@ -571,7 +595,7 @@ Karthik laughed. This time Meera did too.
 ## Worksheets
 ### Water, Oil and Fizz (core) (core, 16 questions)
 1. (mcq) Which of these dissolves much better in oil than in water?  
-   Options: The yellow colour of turmeric / Salt / Sugar / Food colour for cakes  
+   Options: Salt / Sugar / The yellow colour of turmeric / Food colour for cakes  
    **Answer:** The yellow colour of turmeric. *Why:* Turmeric colour is oily, so it dissolves in oil. Salt and sugar dissolve in water. Food colour for cakes is made to dissolve in water.
 2. (sort) Sort these. Does each one dissolve mostly in water or mostly in oil?  
    **Answer:** salt → Water; camphor → Oil; sugar → Water; the heat of chilli → Oil; honey → Water; ghee → Oil. *Why:* Charged and sticky things such as salt, sugar and honey dissolve in water. Oily things such as camphor, chilli heat and ghee dissolve in oil.
@@ -585,7 +609,7 @@ Karthik laughed. This time Meera did too.
 6. (match) Match each word to what it means.  
    **Answer:** Solute → the thing that dissolves; Solvent → the liquid that does the dissolving; Concentration → how much is dissolved in a certain amount of liquid; Dilute → add more liquid so the solution is weaker. *Why:* These four words describe every solution, whether it is salt in water or turmeric in oil.
 7. (mcq) A glass of liquid is cloudy, a torch beam shows up inside it, and nothing settles at the bottom after an hour. What is it most likely to be?  
-   Options: Milk in water, a colloid / Salt water, a solution / Muddy water, a suspension  
+   Options: Salt water, a solution / Muddy water, a suspension / Milk in water, a colloid  
    **Answer:** Milk in water, a colloid. *Why:* A solution is clear. A suspension settles. A cloudy liquid that shows the beam and does not settle is a colloid, like milk.
 8. (write) A grown-up bites a hot chilli. Why does a spoon of curd soothe the burn better than a sip of water?  
    **Answer:** The hot part of a chilli dissolves in fat and hardly in water. Curd has fat, so the hot chemical dissolves into it and is carried away. Water just spreads it around.. *Why:* A strong answer says that the hot chemical is fat-soluble, and that curd has fat while water does not take it up.
@@ -614,7 +638,7 @@ Karthik laughed. This time Meera did too.
 2. (write) On a hot afternoon, fish in a small still pond swim to the top and open their mouths. Use what you know about gases to explain why.  
    **Answer:** Fish take in oxygen that is dissolved in the water. Warm water holds less dissolved gas than cool water, so there is less oxygen for the fish. They come to the surface where the water meets the air.. *Why:* A strong answer says that oxygen dissolves in water, that warm water holds less, and that the surface gets more oxygen from the air.
 3. (mcq) A TDS meter reads about 20 in a glass of water with a teaspoon of sugar stirred in, and about 20 in plain filtered water. What is the best explanation?  
-   Options: The meter reads charged particles, and sugar makes none / The sugar did not dissolve / Sugar water is the same as salt water  
+   Options: The sugar did not dissolve / The meter reads charged particles, and sugar makes none / Sugar water is the same as salt water  
    **Answer:** The meter reads charged particles, and sugar makes none. *Why:* A TDS meter senses electricity carried by charged particles. Sugar dissolves into whole molecules with no charge, so the meter does not notice it. Sugar did dissolve, and it is very different from salt.
 4. (count) Sea water holds about 35 grams of salt in every litre. About how many grams of salt are in 2 litres?  
    **Answer:** 70. *Why:* Each litre holds 35 grams. 2 litres hold 35 + 35, which is 70 grams.
@@ -639,27 +663,27 @@ Karthik laughed. This time Meera did too.
 13. (draw) Draw a drop of food colour falling into a still glass of water. Draw it at the start, after one minute, and after ten minutes.  
    **Answer:** A dark drop at the top at the start, a spreading cloud of colour after one minute, and an even pale colour through the whole glass after ten minutes.. *Why:* A good drawing shows the colour spreading out until it is even, without anyone stirring, because the dissolved particles keep moving.
 14. (mcq) Rainwater slowly dissolves limestone and makes caves. Why does it take so long?  
-   Options: Limestone dissolves only a very little each time, so it takes a very long time to remove a lot / Rainwater cannot dissolve rock / Caves are dug by animals  
+   Options: Rainwater cannot dissolve rock / Caves are dug by animals / Limestone dissolves only a very little each time, so it takes a very long time to remove a lot  
    **Answer:** Limestone dissolves only a very little each time, so it takes a very long time to remove a lot. *Why:* Limestone dissolves very slowly. Each drop of rainwater takes away only a tiny amount, but over hundreds of thousands of years the amount adds up to a cave.
 15. (truefalse) Something that does not dissolve in water cannot dissolve in oil either.  
    **Answer:** False. *Why:* False. Turmeric colour, chilli heat and camphor hardly dissolve in water, but they dissolve in oil. Each liquid takes different things.
 16. (fill) A water molecule has slightly charged ____, which let it hold on to salt.  
    **Answer:** ['ends']. *Why:* One end of a water molecule is slightly negative and the other end is slightly positive. These ends grip the charged particles in salt.
 17. (mcq) Which soda will lose its fizz fastest after being opened?  
-   Options: A warm soda that is stirred / A cold soda left still / A cold soda in a closed bottle  
+   Options: A cold soda left still / A cold soda in a closed bottle / A warm soda that is stirred  
    **Answer:** A warm soda that is stirred. *Why:* Warmth makes the water hold less gas, and stirring gives the gas many places to escape. A cold soda left still loses gas slowly, and a closed bottle keeps the pressure in.
 ### Thinking Like a Chemist (challenge) (challenge, 16 questions)
 1. (write) Plan a test to find out whether warmth changes how much gas a soda gives off. Name what you will keep the same, what you will change, and how you will measure the gas.  
    **Answer:** Use two bottles of the same soda, one cold and one warm. Open both the same way, put a balloon of the same kind on each, swirl them the same, and measure the balloons after the same time. Only the warmth changes. The size of the balloon shows how much gas came out.. *Why:* A strong plan keeps the drink, bottle, balloon, opening and swirling the same, changes only the warmth and measures the gas with the balloon.
 2. (mcq) William Henry found that the mass of gas that dissolves in a liquid is in proportion to the pressure. If the pressure on a sealed soda is doubled, about how much more gas will dissolve?  
-   Options: About twice as much / About the same / About half as much  
+   Options: About the same / About half as much / About twice as much  
    **Answer:** About twice as much. *Why:* In proportion means that doubling the pressure doubles the gas that dissolves. That is why a sealed bottle holds so much more gas than an open glass.
 3. (count) A salt pan dries up 200 litres of sea water that held 35 grams of salt in every litre. How many grams of salt are left behind?  
    **Answer:** 7000. *Why:* Each litre leaves 35 grams. 200 times 35 is 7000 grams, which is 7 kilograms.
 4. (perspective) On a mountain road in the Himalayas, ice forms on the road in winter. Three people say what to do.  
    **Answer:** A strong answer says that salt lowers the freezing point so ice melts, but it only works down to about minus 10 or minus 20 degrees, and in colder weather it cannot help. It weighs this against the harm to streams. Sand gives grip without chemicals. A fair answer picks one idea, gives a reason, and says one good point about another idea.. *Why:* Each idea has a cost. Salt melts ice but stops working in deep cold and can harm nature. Sand gives grip but does not remove the ice.
 5. (mcq) Why do kulfi sellers pack ice and salt around the kulfi pot?  
-   Options: Salty ice is colder than plain ice, so it can freeze the kulfi / Salt makes the kulfi sweet / Salt makes the ice last longer  
+   Options: Salt makes the kulfi sweet / Salty ice is colder than plain ice, so it can freeze the kulfi / Salt makes the ice last longer  
    **Answer:** Salty ice is colder than plain ice, so it can freeze the kulfi. *Why:* Plain ice cannot freeze sweet milk, because melting ice stays at zero degrees. Salty ice can fall to about minus 20 degrees, which freezes the kulfi.
 6. (write) Explain why oil does not dissolve in water. Use the idea of the water molecule's slightly charged ends.  
    **Answer:** Water molecules have slightly charged ends, which let them hold on to each other and to charged or sticky things. Oil molecules have no such ends, so water holds on to other water instead and pushes the oil out. The oil joins into drops and floats.. *Why:* A strong answer says water holds on to its own kind and to charged or sticky things, and has nothing to grip on oil.
@@ -677,7 +701,7 @@ Karthik laughed. This time Meera did too.
 12. (sort) Sort these mixtures into the three kinds.  
    **Answer:** sugar syrup that is clear → Solution; muddy water → Suspension; milk → Colloid; morning fog → Colloid; rasam strained clear → Solution; atta stirred in water → Suspension. *Why:* A solution is clear and never settles. A suspension settles. A colloid has tiny bits that never settle and scatter light, like milk and fog.
 13. (mcq) A bottle of soda is opened, closed again, and left in a cold fridge for a day. It is now almost flat even though it is cold. Why?  
-   Options: When it was opened the pressure fell and much of the gas escaped, and the closed bottle could not squeeze it back / Cold water cannot hold gas / The fridge removes gas  
+   Options: Cold water cannot hold gas / The fridge removes gas / When it was opened the pressure fell and much of the gas escaped, and the closed bottle could not squeeze it back  
    **Answer:** When it was opened the pressure fell and much of the gas escaped, and the closed bottle could not squeeze it back. *Why:* Opening the bottle let the pressure drop, so most of the dissolved gas left as bubbles. Closing it again does not push the gas back into the water. Cold water holds gas well, but there was little gas left.
 14. (label) Label the Kulfi in a Bag set-up: the small bag of milk, the big bag, the ice, the salt and the towel.  
    **Answer:** The small bag of milk in the middle. The big bag around it. The ice packed around the small bag. The salt sprinkled in the ice. The towel wrapped around the outside.. *Why:* The milk sits in the coldest part, surrounded by salty ice, and the towel protects the hands.
@@ -693,37 +717,37 @@ Karthik laughed. This time Meera did too.
 
 ## Quiz
 1. (mcq) Which of these dissolves in oil but hardly in water?  
-   Options: The orange colour of carrots / Sugar / Salt / Lemon juice  
+   Options: Sugar / The orange colour of carrots / Salt / Lemon juice  
    **Answer:** The orange colour of carrots. *Why:* The orange colour of carrots is carotene, which dissolves in fat. Sugar, salt and lemon juice all dissolve in water.
 2. (mcq) A turmeric stain on a plastic box does not come off with plain water. What is likely to lift it?  
-   Options: Oil, followed by soap / More cold water / Salt water  
+   Options: More cold water / Salt water / Oil, followed by soap  
    **Answer:** Oil, followed by soap. *Why:* Turmeric colour dissolves in oil, so oil takes it up and soap rinses the oil away. Cold water and salt water cannot take the colour.
 3. (mcq) After eating a hot chilli, which helps most?  
-   Options: A spoon of curd, because the hot chemical dissolves in fat / A big glass of water, because water washes it away / A pinch of salt  
+   Options: A big glass of water, because water washes it away / A spoon of curd, because the hot chemical dissolves in fat / A pinch of salt  
    **Answer:** A spoon of curd, because the hot chemical dissolves in fat. *Why:* The hot chemical in chilli dissolves in fat and hardly in water. Curd has fat, so it takes the chemical up. Water only spreads it around.
 4. (mcq) Why does a warm soda go flat faster than a cold soda?  
-   Options: Warm water holds less dissolved gas / Warm water is heavier / The bubbles in warm soda are bigger  
+   Options: Warm water is heavier / The bubbles in warm soda are bigger / Warm water holds less dissolved gas  
    **Answer:** Warm water holds less dissolved gas. *Why:* The warmer the water, the less gas it can hold, so the gas leaves sooner. The size of the bubbles is not the reason.
 5. (mcq) A sealed bottle of soda has no bubbles. What keeps the gas dissolved?  
-   Options: The high pressure inside the bottle / The cold glass / The label  
+   Options: The cold glass / The high pressure inside the bottle / The label  
    **Answer:** The high pressure inside the bottle. *Why:* High pressure squeezes the gas into the water. When the pressure drops at opening, the gas comes out as bubbles.
 6. (mcq) You shine a torch through a glass of liquid from the side and see a bright beam inside. After an hour nothing has settled. What kind of mixture is it?  
-   Options: A colloid / A solution / A suspension  
+   Options: A solution / A suspension / A colloid  
    **Answer:** A colloid. *Why:* A beam shows when floating bits scatter light, so it is not a solution. Nothing settled, so it is not a suspension. It is a colloid.
 7. (mcq) Salt is sprinkled on ice. What happens to the temperature of the mixture?  
    Options: It falls below zero degrees / It stays at zero degrees / It rises above zero degrees  
    **Answer:** It falls below zero degrees. *Why:* Dissolved salt lowers the freezing point, so the ice keeps melting below zero degrees, and melting takes heat from the mixture. It gets colder.
 8. (mcq) Why does salt help to freeze kulfi?  
-   Options: Salty ice is colder than plain ice / Salt is cold / Salt turns milk into ice  
+   Options: Salt is cold / Salty ice is colder than plain ice / Salt turns milk into ice  
    **Answer:** Salty ice is colder than plain ice. *Why:* Plain melting ice stays at zero, which is not cold enough. Salty ice falls much lower, enough to freeze sweet milk.
 9. (mcq) Why are caves found in limestone hills?  
    Options: Rainwater slowly dissolves the limestone over a very long time / Animals dig them / The rock melts in the Sun  
    **Answer:** Rainwater slowly dissolves the limestone over a very long time. *Why:* Rainwater carries a little carbon dioxide and slowly dissolves limestone. Over hundreds of thousands of years the rock is carved into caves.
 10. (mcq) What does the word insoluble really mean, if almost nothing is completely insoluble?  
-   Options: It dissolves so little that we do not notice / It never dissolves at all / It dissolves in oil only  
+   Options: It never dissolves at all / It dissolves in oil only / It dissolves so little that we do not notice  
    **Answer:** It dissolves so little that we do not notice. *Why:* Everything dissolves a very little. Insoluble means that so little dissolves that we cannot see it in a short time.
 11. (mcq) People once thought air was a single thing. What did Joseph Black find when he heated chalky stones?  
-   Options: They gave off a gas that was not ordinary air / They turned into water / They became lighter because they dried  
+   Options: They turned into water / They gave off a gas that was not ordinary air / They became lighter because they dried  
    **Answer:** They gave off a gas that was not ordinary air. *Why:* The stones lost weight because a gas escaped. This gas was different from ordinary air. It is carbon dioxide, which Priestley later dissolved in water.
 12. (mcq) Fish in a warm, still pond swim to the surface. What is the best explanation?  
    Options: Warm water holds less dissolved oxygen / Fish like warm air / The water is too deep  
@@ -805,7 +829,7 @@ What Water Takes (sci.states.L4): Topic-level song
 - [PhET Sugar and Salt Solutions](https://phet.colorado.edu/en/simulations/sugar-and-salt-solutions) · simulation: A free simulation. Add salt, sugar or other solutes to water, and see how the concentration and the way they split into particles change.
 - [PhET Concentration](https://phet.colorado.edu/en/simulations/concentration) · simulation: A free simulation to see how adding more solute or more water changes the colour and strength of a solution.
 - [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a science museum in San Francisco. Search for dissolving, density and solutions.
-- [The limestone caves of the Jaintia and Khasi Hills]() · place · Meghalaya: Some of the longest caves in India, carved from limestone by rainwater. Visit with a trained local guide.
+- The limestone caves of the Jaintia and Khasi Hills · place · Meghalaya: Some of the longest caves in India, carved from limestone by rainwater. Visit with a trained local guide.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A large science museum with hands-on galleries.
 - [Birla Industrial and Technological Museum](https://www.bitm.gov.in) · place · Kolkata: A science museum with hands-on exhibits about matter and everyday science.
 
@@ -813,6 +837,12 @@ What Water Takes (sci.states.L4): Topic-level song
 - [A pack of round balloons](https://www.amazon.in/s?k=balloons+pack+latex) (material): For catching the gas from a soda in the Fizz and Warmth test. A normal party pack is enough. Used in e2. 
 - [A pack of zip-lock bags, small and large](https://www.amazon.in/s?k=zip+lock+bags+freezer) (material): For the Kulfi in a Bag test. Strong freezer bags work best. Used in e3. 
 - [A hand-held TDS meter](https://www.amazon.in/s?k=tds+meter+water) (tool): For the TDS Detective activity. A basic meter costs about Rs 150 to 400, and many homes with a water purifier already have one. Without it, the activity has an evaporation test instead. Used in a5. 
+- [A thermometer (for water or room, 0 to 110 °C)](https://www.amazon.in/s?k=lab+thermometer+110+c) (tool): Used in Kulfi in a Bag: does salt make ice colder?. About ₹30 to ₹150. A kitchen or fever thermometer works for some tests. Used in e3. Get it before Kulfi in a Bag: does salt make ice colder?.
+- [A bar magnet or two, and a few small magnets](https://www.amazon.in/s?k=bar+magnet+school) (tool): Used in Rescue the Salt: separate a four-part mix. About ₹50 to ₹200. A fridge magnet is a weak substitute for some tests. Used in c1. Get it before Rescue the Salt: separate a four-part mix.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Fizz and Warmth: does a warm soda hold less gas?. About ₹10 to ₹30. Any school ruler is fine. Used in e2. Get it before Fizz and Warmth: does a warm soda hold less gas?.
+- [Food colour](https://www.amazon.in/s?k=food+colour+liquid) (material): Used in Water or Oil? Which liquid takes the colour. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it. Used in e1. Get it before Water or Oil? Which liquid takes the colour.
+- [Wooden ice-cream sticks (a pack)](https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack) (material): Used in Water or Oil? Which liquid takes the colour. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in. Used in e1. Get it before Water or Oil? Which liquid takes the colour.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is the liquid that does the dissolving called? → The solvent.
@@ -834,7 +864,7 @@ What Water Takes (sci.states.L4): Topic-level song
 ## Sources
 - ideas/by_topic/gases-evaporation-condensation-solutions.md: the solutions and gases rows, with the idea that unseen things are held in balance, which shaped the soda tests and the idea that gas hides in a clear liquid
 - ideas/by_topic/matter-and-particles.md: matter is made of particles that attract each other in different ways, used for why water and oil take different things
-- The Class 3 unit on dissolving, which this unit builds on: the idea that a dissolved thing is still there, now extended to which liquid takes which thing, gases, and cold
+- The Class 3 unit on dissolving, which this lesson builds on: the idea that a dissolved thing is still there, now extended to which liquid takes which thing, gases, and cold
 - The combined lesson sci-C5-gases-evaporation-condensation-solutions: its parts Gases dissolve too and The dissolving race inspired the fizz tests. Its story and worksheets were not reused
 - PHILOSOPHY.md library: Chandogya Upanishad 6.13 on salt in water, and Kabir on the drop and the ocean
 - Black, J., 'Experiments upon magnesia alba, quicklime, and some other alcaline substances', 1756 (fixed air)

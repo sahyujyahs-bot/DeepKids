@@ -569,11 +569,11 @@
       "t": "mcq",
       "q": "On the board, the oxygen tank leak sends you back. Why would a leak be so bad for a real rocket?",
       "options": [
-       "The rocket would get wet",
        "Without enough oxygen, the fuel cannot burn and the engine stops",
+       "The rocket would get wet",
        "The rocket would get too heavy"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A rocket's engine needs both fuel and oxygen. If the oxygen leaks away, the fuel cannot burn, so the engine loses its push."
      },
      "parent": "The stage squares stand for dropping empty stages. The thick air square stands for the dense air near the ground. The 100 km square is the edge of space. The oxygen leak square is a rocket losing the oxygen it needs to burn fuel."
@@ -876,10 +876,10 @@
       "q": "In space there is no air. What does a rocket carry so that its fuel can burn?",
       "options": [
        "Nothing extra, the fuel burns on its own",
-       "Its own oxygen, or a chemical full of oxygen",
-       "A big jar of air from the launch pad"
+       "A big jar of air from the launch pad",
+       "Its own oxygen, or a chemical full of oxygen"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Fuel cannot burn without oxygen, as the candle under the jar showed. So a rocket carries its own oxygen, often as a very cold liquid, or a solid fuel with an oxygen-giving chemical mixed in. A jar of ordinary air would be far too big and heavy for the oxygen it holds."
      }
     }
@@ -1137,10 +1137,10 @@
       "q": "Why can ice last for a very long time on the floor of a dark crater near the Moon's pole?",
       "options": [
        "The Moon is far from the Sun",
-       "Sunlight never reaches the crater floor, and there is almost no air to bring warmth in",
-       "The ice is made of a special rock"
+       "The ice is made of a special rock",
+       "Sunlight never reaches the crater floor, and there is almost no air to bring warmth in"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Sunlight warms whatever it falls on. A crater floor that never gets sunlight stays deeply cold, and with almost no air on the Moon, nothing carries warmth in. The Moon is about as far from the Sun as the Earth is, so distance is not the reason."
      }
     }
@@ -1307,11 +1307,11 @@
       "t": "mcq",
       "q": "How can you tell the space station from a plane in the night sky?",
       "options": [
-       "The station blinks red and green",
        "The station is a steady bright dot that does not blink",
+       "The station blinks red and green",
        "The station is much bigger than the Moon"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Planes have blinking coloured lights. The space station has no lights we can see. It shines because sunlight bounces off it, so it looks like a steady, bright, moving star."
      }
     }
@@ -1380,11 +1380,11 @@
       "t": "mcq",
       "q": "On the space station, how do astronauts get fresh oxygen to breathe?",
       "options": [
-       "They open a window",
        "Machines split water to make oxygen, and the water was brought from Earth",
+       "They open a window",
        "Plants on the station make all of it"
       ],
-      "a": 1,
+      "a": 0,
       "why": "There is no air outside to let in. Machines use electricity from solar panels to split water into oxygen and hydrogen. The water came from Earth. Astronauts do grow a few plants, but far too few to make the oxygen they need."
      }
     }
@@ -1456,11 +1456,11 @@
       "t": "mcq",
       "q": "Which of these came first in India's space story?",
       "options": [
-       "Chandrayaan-3 landing on the Moon",
        "India's first satellite, Aryabhata",
+       "Chandrayaan-3 landing on the Moon",
        "Mangalyaan reaching Mars"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Aryabhata was launched in 1975. Mangalyaan reached Mars in 2014, and Chandrayaan-3 landed on the Moon in 2023."
      },
      "parent": "The first rocket went up in 1963 and Chandrayaan-3 landed in 2023. 2023 take away 1963 is 60 years."
@@ -1691,10 +1691,10 @@
       "q": "Why can nobody steer a Mars rover in real time, like a toy car?",
       "options": [
        "Mars is too dusty",
-       "Radio messages take minutes to travel between Earth and Mars",
-       "The rover cannot hear"
+       "The rover cannot hear",
+       "Radio messages take minutes to travel between Earth and Mars"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Even at the speed of light, a message takes between about 3 and 22 minutes to reach Mars. By the time an order arrives, the rover may already have rolled into trouble."
      },
      "parent": "Most families find that sending a planned list of orders works better than one order at a time, because the waiting happens only once. Real teams also let the rover stop itself when it senses danger."
@@ -1831,10 +1831,10 @@
    "p": "You cover a lit candle with a jar and the flame goes out. Why?",
    "opts": [
     "The jar is too heavy",
-    "The flame runs short of oxygen",
-    "The jar is made of glass"
+    "The jar is made of glass",
+    "The flame runs short of oxygen"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A flame needs oxygen. Under the jar, no fresh air gets in, so the flame goes out when the oxygen near it runs low.",
    "outcome": 1,
    "how": "e1"
@@ -1844,10 +1844,10 @@
    "p": "A rocket lifts off. What pushes it up?",
    "opts": [
     "The air under it",
-    "The hot gas it pushes down out of its engine, which pushes back on it",
-    "The launch tower"
+    "The launch tower",
+    "The hot gas it pushes down out of its engine, which pushes back on it"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The rocket pushes the gas down and the gas pushes the rocket up. This works in space too, where there is no air.",
    "outcome": 2
   },
@@ -1855,11 +1855,11 @@
    "t": "mcq",
    "p": "Why is a rocket built in stages?",
    "opts": [
-    "So that empty tanks can be dropped and the rocket gets lighter",
     "So it looks taller",
+    "So that empty tanks can be dropped and the rocket gets lighter",
     "So it can be painted in parts"
    ],
-   "a": 0,
+   "a": 1,
    "why": "When a stage's fuel is used up, it is dropped. The rest of the rocket is lighter, so its fuel can push it faster.",
    "outcome": 2
   },
@@ -1867,11 +1867,11 @@
    "t": "mcq",
    "p": "Why do the biggest telescopes have huge mirrors?",
    "opts": [
-    "To collect lots of light, so faint stars and galaxies show up",
     "To make stars look like big balls",
+    "To collect lots of light, so faint stars and galaxies show up",
     "So they can see in the daytime"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A bigger mirror catches more light. Stars stay as points in any telescope. What a big mirror gives is a brighter picture of faint things.",
    "outcome": 3
   },
@@ -1880,10 +1880,10 @@
    "p": "You cover half of a magnifying glass that is making a picture of a window. What happens to the picture?",
    "opts": [
     "Half of it vanishes",
-    "It stays whole but gets dimmer",
-    "It turns the right way up"
+    "It turns the right way up",
+    "It stays whole but gets dimmer"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Every part of the lens gathers light from the whole window. Covering half lets in half the light, so the picture dims but stays whole.",
    "outcome": 3,
    "how": "e2"
@@ -1905,10 +1905,10 @@
    "p": "Why does a spacesuit have a pack on its back?",
    "opts": [
     "To carry snacks",
-    "To hold the astronaut's own air and keep them at a safe temperature",
-    "To make the astronaut heavier"
+    "To make the astronaut heavier",
+    "To hold the astronaut's own air and keep them at a safe temperature"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Outside the spacecraft there is no air. The pack gives the astronaut oxygen and keeps the suit at a safe temperature.",
    "outcome": 4
   },
@@ -1916,11 +1916,11 @@
    "t": "mcq",
    "p": "A spacecraft is going to land on the Moon to look for ice. Where is the best place to land?",
    "opts": [
-    "In a sunny spot near the Moon's middle",
     "Near a pole, beside deep craters that never get sunlight",
+    "In a sunny spot near the Moon's middle",
     "Anywhere, because the Moon has lakes"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Ice cannot last in sunlight on the Moon. Deep craters near the poles never see the Sun, so ice can stay frozen there. That is why India landed Chandrayaan-3 near the south pole in 2023.",
    "outcome": 5
   },
@@ -1928,11 +1928,11 @@
    "t": "mcq",
    "p": "An astronaut goes outside the space station to fix something. Why must she wear a sealed suit with its own air?",
    "opts": [
-    "Space is too bright",
     "There is almost no air in space to breathe",
+    "Space is too bright",
     "To look smart in photos"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Space has almost no air, so there is no oxygen to breathe. Astronauts and rockets must carry their own.",
    "outcome": 5
   },
@@ -1940,11 +1940,11 @@
    "t": "mcq",
    "p": "A spacecraft circling the Moon cannot touch the ground. How could it find signs of water there?",
    "opts": [
-    "By listening for waves",
     "By measuring the sunlight reflected from the ground, because water takes in some kinds of light and leaves a gap",
+    "By listening for waves",
     "By catching rain"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Water takes in certain kinds of light, so light reflected from damp dust has a gap in it. India's Chandrayaan-1 found thin traces of water in the Moon's dust this way, and later ice in dark polar craters.",
    "outcome": 6
   }
@@ -1961,10 +1961,10 @@
      "p": "You cover a tealight with a small glass. The flame goes out after 8 seconds. You try again with a big jar. What will most likely happen?",
      "opts": [
       "The flame goes out at once",
-      "The flame lasts longer than 8 seconds",
-      "The flame lasts exactly 8 seconds again"
+      "The flame lasts exactly 8 seconds again",
+      "The flame lasts longer than 8 seconds"
      ],
-     "a": 1,
+     "a": 2,
      "why": "A big jar holds more air, so the flame has more oxygen to use before it runs low. A strong answer says why: more air, more oxygen.",
      "how": "e1"
     },
@@ -2233,10 +2233,10 @@
      "p": "In Ice in the Crater, one ice cube sat in sunlight and one in the shadow of a book. Which one is most like ice in a dark crater on the Moon?",
      "opts": [
       "The cube in sunlight",
-      "The cube in the shadow",
-      "Neither"
+      "Neither",
+      "The cube in the shadow"
      ],
-     "a": 1,
+     "a": 2,
      "why": "The shaded cube gets no direct sunlight, like the floor of a deep polar crater. It melted more slowly. On the Moon, with almost no air to carry warmth in, the crater ice can last for a very long time.",
      "how": "e3"
     },
@@ -2335,11 +2335,11 @@
      "t": "mcq",
      "p": "Suppose you do the jar test with two tealights side by side under the same big jar. What do you predict?",
      "opts": [
-      "They burn twice as long",
       "They go out sooner than one tealight would",
+      "They burn twice as long",
       "Nothing changes"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Two flames use oxygen twice as fast. The same jar has the same amount of oxygen, so it runs low sooner. A strong answer links the speed of using oxygen with the amount there is.",
      "how": "e1"
     },
@@ -2458,10 +2458,10 @@
      "p": "Why are many rocket launch sites built next to the sea?",
      "opts": [
       "Rockets need sea water to fly",
-      "If something goes wrong, falling rocket parts land in the water, away from towns",
-      "The sea is the highest place"
+      "The sea is the highest place",
+      "If something goes wrong, falling rocket parts land in the water, away from towns"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Rockets drop used parts as they climb, and a launch can fail. Launching out over the sea keeps people on the ground safe. India's launch site at Sriharikota is on the coast for this reason."
     },
     {
@@ -2690,6 +2690,122 @@
    "used_in": [
     "e1"
    ]
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in How Far Is Space? A lime-sized Earth. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Get it before How Far Is Space? A lime-sized Earth."
+  },
+  {
+   "id": "b-a-digital-stopwatch--optiona",
+   "item": "A digital stopwatch (optional)",
+   "kind": "tool",
+   "why": "Used in The Jar and the Flame: how long can a candle burn on the air it has?. About ₹150 to ₹400. A phone stopwatch works well.",
+   "url": "https://www.amazon.in/s?k=digital+stopwatch",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before The Jar and the Flame: how long can a candle burn on the air it has?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in How Far Is Space? A lime-sized Earth. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Get it before How Far Is Space? A lime-sized Earth."
+  },
+  {
+   "id": "b-balloons--a-packet",
+   "item": "Balloons (a packet)",
+   "kind": "material",
+   "why": "Used in Design a Moon Home that keeps its air in. About ₹20 to ₹60.",
+   "url": "https://www.amazon.in/s?k=balloons+packet",
+   "used_in": [
+    "c2"
+   ],
+   "plan": "Get it before Design a Moon Home that keeps its air in."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Drop the Empty Tanks: a rocket in stages (act it out), Build Vikram and Pragyan: a Moon lander and rover from boxes, Design a Moon Home that keeps its air in. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "a5",
+    "p1",
+    "c2"
+   ],
+   "plan": "Get it before Drop the Empty Tanks: a rocket in stages (act it out)."
+  },
+  {
+   "id": "b-wooden-ice-cream-sticks--a-p",
+   "item": "Wooden ice-cream sticks (a pack)",
+   "kind": "material",
+   "why": "Used in Build Vikram and Pragyan: a Moon lander and rover from boxes. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in.",
+   "url": "https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before Build Vikram and Pragyan: a Moon lander and rover from boxes."
+  },
+  {
+   "id": "b-a-small-toy-car-with-free-ro",
+   "item": "A small toy car with free-rolling wheels",
+   "kind": "material",
+   "why": "Used in Build Vikram and Pragyan: a Moon lander and rover from boxes. About ₹100 to ₹200. A marble or a round torch cell works.",
+   "url": "https://www.amazon.in/s?k=toy+car+pull+back+small",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before Build Vikram and Pragyan: a Moon lander and rover from boxes."
+  },
+  {
+   "id": "b-marbles--a-few",
+   "item": "Marbles (a few)",
+   "kind": "material",
+   "why": "Used in How Far Is Space? A lime-sized Earth. About ₹10 to ₹40. Small round stones or dried chana.",
+   "url": "https://www.amazon.in/s?k=glass+marbles+pack",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Get it before How Far Is Space? A lime-sized Earth."
+  },
+  {
+   "id": "b-postcards-or-plain-cards",
+   "item": "Postcards or plain cards",
+   "kind": "material",
+   "why": "Used in Half a Lens: does covering half a magnifying glass cut the picture in half?. About ₹5 to ₹20. Cut card from a cereal box.",
+   "url": "https://www.amazon.in/s?k=blank+postcards",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before Half a Lens: does covering half a magnifying glass cut the picture in half?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

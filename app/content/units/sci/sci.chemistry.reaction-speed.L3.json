@@ -558,11 +558,11 @@
       "t": "mcq",
       "q": "Why does the powder fizz so much faster than the piece?",
       "options": [
-       "The powder has much more surface, so the vinegar touches more shell at once",
        "Powder is a different substance from shell",
-       "The vinegar in that glass is stronger"
+       "The vinegar in that glass is stronger",
+       "The powder has much more surface, so the vinegar touches more shell at once"
       ],
-      "a": 0,
+      "a": 2,
       "why": "It is the same shell and the same vinegar. Crushing it gave the shell far more surface, so far more of it touched the vinegar at once. Picking 'different substance' is a fair thought, but powder is only shell in small pieces."
      }
     },
@@ -675,11 +675,11 @@
       "t": "mcq",
       "q": "Most of the raw vegetables made some foam. What is the best reason?",
       "options": [
-       "Most living cells make catalase to break down peroxide",
        "All vegetables are secretly potatoes",
+       "Most living cells make catalase to break down peroxide",
        "The soap made the foam by itself"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Cells make a little hydrogen peroxide as they use oxygen, and too much can harm them. So most living cells keep catalase ready. The soap cannot be the reason, because the cup with nothing had soap too and stayed flat."
      }
     }
@@ -831,10 +831,10 @@
       "q": "Where does the 'Idli batter rises' card go on the ribbon?",
       "options": [
        "Between 'a minute' and 'an hour'",
-       "Between 'an hour' and 'a day'",
-       "Between 'a month' and 'a year'"
+       "Between 'a month' and 'a year'",
+       "Between 'an hour' and 'a day'"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Idli batter takes about 8 to 12 hours to rise. That is more than an hour and less than a day."
      }
     }
@@ -930,11 +930,11 @@
       "t": "mcq",
       "q": "Where did the gas in the foam come from?",
       "options": [
-       "The hydrogen peroxide broke down into water and oxygen",
        "The soap turned into gas",
-       "The yeast breathed the gas out"
+       "The yeast breathed the gas out",
+       "The hydrogen peroxide broke down into water and oxygen"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Catalase from the yeast broke the hydrogen peroxide into water and oxygen. The soap only trapped the oxygen as foam."
      }
     },
@@ -1079,11 +1079,11 @@
       "t": "mcq",
       "q": "Why do most reactions go faster when things are warm?",
       "options": [
-       "Warm particles move faster, so they bump more often and harder",
        "Warm things have more particles",
+       "Warm particles move faster, so they bump more often and harder",
        "Heat is a catalyst"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Warm particles move faster. They meet more often and bump harder, so more bumps lead to a change. Heat is not a substance, so it is not a catalyst."
      }
     }
@@ -1566,11 +1566,11 @@
       "t": "mcq",
       "q": "At the end of Round 2, the catalyst was still standing in the middle, ready to help again. What does that show about a real catalyst?",
       "options": [
-       "It is not used up by the reaction",
        "It is the slowest particle",
+       "It is not used up by the reaction",
        "It stops the reaction"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The catalyst helped every pair and joined none of them, so she or he was free to help again. A real catalyst works the same way: it speeds up a reaction and comes out the same."
      }
     }
@@ -1609,11 +1609,11 @@
    "p": "Which of these is a chemical reaction?",
    "opts": [
     "Ice melting into water",
-    "A dosa browning on the tava",
     "Sugar stirred into water",
+    "A dosa browning on the tava",
     "A glass breaking"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Browning makes new substances with new smells and tastes. Melting, dissolving and breaking do not make new substances.",
    "outcome": 0
   },
@@ -1622,11 +1622,11 @@
    "p": "Which change is slowest?",
    "opts": [
     "A sparkler burning",
-    "A banana getting brown spots",
     "An iron gate rusting",
+    "A banana getting brown spots",
     "A papad roasting"
    ],
-   "a": 2,
+   "a": 1,
    "why": "A sparkler takes under a minute, a papad seconds and a banana a few days. Rust takes months.",
    "outcome": 1
   },
@@ -1634,12 +1634,12 @@
    "t": "mcq",
    "p": "Grated raw potato is put in hydrogen peroxide. White foam rises. What is the gas in the foam?",
    "opts": [
-    "Oxygen",
     "Steam",
     "Smoke",
-    "Carbon dioxide"
+    "Carbon dioxide",
+    "Oxygen"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Catalase in the potato breaks hydrogen peroxide into water and oxygen. The soap traps the oxygen as foam.",
    "outcome": 3,
    "how": "e1"
@@ -1676,12 +1676,12 @@
    "t": "mcq",
    "p": "A piece of eggshell goes into one glass of vinegar. The same amount of eggshell powder goes into another glass. Which fizzes faster?",
    "opts": [
-    "The powder",
     "The piece",
+    "The powder",
     "Both the same",
     "Neither fizzes"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Powder has much more surface, so more of the shell touches the vinegar at once.",
    "outcome": 2,
    "how": "e2"
@@ -1690,12 +1690,12 @@
    "t": "mcq",
    "p": "Why does milk stay fresh longer in the fridge?",
    "opts": [
-    "In the cold, the changes that spoil milk go more slowly",
     "The fridge adds a catalyst",
+    "In the cold, the changes that spoil milk go more slowly",
     "Cold milk has fewer particles",
     "The fridge light protects it"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Cold particles move slowly and bump less, so the changes that spoil milk go more slowly.",
    "outcome": 2
   },
@@ -1703,12 +1703,12 @@
    "t": "mcq",
    "p": "What is a catalyst?",
    "opts": [
-    "A substance that speeds up a reaction and is not used up",
     "A substance that always stops reactions",
     "Any substance that gets used up in a reaction",
+    "A substance that speeds up a reaction and is not used up",
     "A kind of fire"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A catalyst speeds up a reaction and comes out the same at the end.",
    "outcome": 3
   },
@@ -1716,12 +1716,12 @@
    "t": "mcq",
    "p": "An enzyme is a catalyst made by…",
    "opts": [
-    "a living being",
     "a factory only",
+    "a living being",
     "lightning",
     "fire"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Enzymes are catalysts made by living cells, such as the catalase in potato and the amylase in your saliva.",
    "outcome": 5
   },
@@ -1729,12 +1729,12 @@
    "t": "mcq",
    "p": "Yeast turns sugar into gas bubbles. Suppose you grind up yeast and squeeze out a juice with no whole, living yeast cells in it. You add sugar, and the juice still makes bubbles. What does this show?",
    "opts": [
-    "Substances from the cells, called enzymes, do the work and still work outside the cell",
     "Only living yeast cells can change sugar",
     "The sugar made the bubbles by itself",
-    "The juice turned back into yeast"
+    "The juice turned back into yeast",
+    "Substances from the cells, called enzymes, do the work and still work outside the cell"
    ],
-   "a": 0,
+   "a": 3,
    "why": "There were no living cells, but the sugar still changed. So the work is done by substances the cells make, called enzymes, and they keep working outside the cell. A check with sugar and water alone would show the sugar does not bubble by itself.",
    "outcome": 6
   },
@@ -1805,11 +1805,11 @@
      "t": "mcq",
      "p": "In the potato test, which cup was the control, the cup we compare the others with?",
      "opts": [
-      "The cup with nothing added",
       "The raw potato cup",
-      "The boiled potato cup"
+      "The boiled potato cup",
+      "The cup with nothing added"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The cup with no potato shows what the peroxide does on its own. Comparing with it shows what the potato changed.",
      "how": "e1"
     },
@@ -1886,11 +1886,11 @@
      "t": "mcq",
      "p": "Why does a dosa brown in minutes on a hot tava, but raw batter does not brown on the kitchen shelf?",
      "opts": [
-      "Heat makes the particles bump faster and harder, so the browning reaction speeds up",
       "The tava is a catalyst that gets used up",
+      "Heat makes the particles bump faster and harder, so the browning reaction speeds up",
       "Batter on the shelf has no particles"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Heat speeds up the browning reaction. The tava is not used up, and it is the heat, not the iron, that does the work here."
     },
     {
@@ -1950,11 +1950,11 @@
      "t": "mcq",
      "p": "In the potato test, why do we use the same amount of peroxide in every cup?",
      "opts": [
-      "So only one thing changes, and the test is fair",
       "To save peroxide",
+      "So only one thing changes, and the test is fair",
       "Because the bottle is small"
      ],
-     "a": 0,
+     "a": 1,
      "why": "In a fair test only one thing changes. Then any difference must come from that one thing.",
      "how": "e1"
     }
@@ -1977,11 +1977,11 @@
      "t": "mcq",
      "p": "You want raw potato to make hydrogen peroxide foam faster. Which change will help most?",
      "opts": [
-      "Grate it finely instead of using one cube",
       "Boil it first",
+      "Grate it finely instead of using one cube",
       "Put the cup in the fridge"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Grating gives more surface, so more catalase meets the peroxide. Boiling stops the catalase and the fridge slows it down."
     },
     {
@@ -2020,11 +2020,11 @@
      "t": "mcq",
      "p": "In the Helper Hunt, most raw vegetables made some foam. What is the best explanation?",
      "opts": [
-      "Most living cells carry catalase",
       "All vegetables have soap in them",
+      "Most living cells carry catalase",
       "Vegetables are made of peroxide"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Cells make a little peroxide as they use oxygen, so most cells carry catalase to break it down.",
      "how": "e3"
     },
@@ -2066,11 +2066,11 @@
      "t": "mcq",
      "p": "A potato makes peroxide foam. It is strained out, rinsed and put into fresh peroxide. It foams again, but a little less. Why?",
      "opts": [
-      "Some catalase washed away or wore out",
       "The potato became a different vegetable",
+      "Some catalase washed away or wore out",
       "The fresh peroxide was the wrong colour"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A catalyst is not used up by the reaction, but some can be lost when you rinse it, and enzymes slowly wear out.",
      "how": "e1"
     },
@@ -2168,11 +2168,11 @@
      "t": "mcq",
      "p": "You want to know whether warmth makes potato catalase work faster. Which test is fair?",
      "opts": [
-      "Two cups with the same peroxide and potato, one in cool water and one in warm water",
       "One cup of warm peroxide with potato and one cup of cold peroxide with carrot",
-      "One cup in the sun and one in the shade with different amounts of potato"
+      "One cup in the sun and one in the shade with different amounts of potato",
+      "Two cups with the same peroxide and potato, one in cool water and one in warm water"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Only the warmth changes. The other tests change two things at once."
     },
     {
@@ -2277,11 +2277,11 @@
      "t": "mcq",
      "p": "One catalase can break down millions of peroxide particles every second. What does this tell you about why only a little potato is needed?",
      "opts": [
-      "Each catalase works again and again, so a little goes a long way",
       "Potato is mostly peroxide",
+      "Each catalase works again and again, so a little goes a long way",
       "The foam is mostly potato"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A catalyst is not used up, so a small amount can change a large amount of peroxide."
     },
     {
@@ -2528,6 +2528,113 @@
    "used_in": [
     "a3"
    ]
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Potato and the Peroxide: what makes the foam?, The Helper Hunt: which vegetables carry catalase?, The Foam Tower: make the most foam in one minute. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e3",
+    "c1"
+   ],
+   "plan": "Get it before The Potato and the Peroxide: what makes the foam?."
+  },
+  {
+   "id": "b-a-small-funnel",
+   "item": "A small funnel",
+   "kind": "tool",
+   "why": "Used in Small Elephant Toothpaste: yeast as a helper. About ₹20 to ₹50. The top of a cut plastic bottle works.",
+   "url": "https://www.amazon.in/s?k=small+plastic+funnel",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before Small Elephant Toothpaste: yeast as a helper."
+  },
+  {
+   "id": "b-food-colour",
+   "item": "Food colour",
+   "kind": "material",
+   "why": "Used in Small Elephant Toothpaste: yeast as a helper. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it.",
+   "url": "https://www.amazon.in/s?k=food+colour+liquid",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before Small Elephant Toothpaste: yeast as a helper."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Sun or Shade: a 3-day turmeric watch, Keep It Bright: protect turmeric yellow from the sun. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "p1",
+    "c2"
+   ],
+   "plan": "Get it before Sun or Shade: a 3-day turmeric watch."
+  },
+  {
+   "id": "b-butter-paper-or-tracing-pape",
+   "item": "Butter paper or tracing paper",
+   "kind": "material",
+   "why": "Used in Keep It Bright: protect turmeric yellow from the sun. About ₹30 to ₹80 for a roll. Thin clean plastic bag or a sheet of waxed paper.",
+   "url": "https://www.amazon.in/s?k=butter+paper+roll",
+   "used_in": [
+    "c2"
+   ],
+   "plan": "Get it before Keep It Bright: protect turmeric yellow from the sun."
+  },
+  {
+   "id": "b-baking-soda",
+   "item": "Baking soda",
+   "kind": "material",
+   "why": "Used in A Few Seconds or a Season? Two changes side by side. About ₹20 to ₹40. Check the kitchen first.",
+   "url": "https://www.amazon.in/s?k=baking+soda",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Get it before A Few Seconds or a Season? Two changes side by side."
+  },
+  {
+   "id": "b-vinegar",
+   "item": "Vinegar",
+   "kind": "material",
+   "why": "Used in Piece or Powder: which eggshell fizzes faster in vinegar?, A Few Seconds or a Season? Two changes side by side. About ₹40 to ₹80. Lemon juice works for many tests.",
+   "url": "https://www.amazon.in/s?k=white+vinegar",
+   "used_in": [
+    "e2",
+    "a1"
+   ],
+   "plan": "Get it before Piece or Powder: which eggshell fizzes faster in vinegar?."
+  },
+  {
+   "id": "b-iron-nails-or-iron-filings",
+   "item": "Iron nails or iron filings",
+   "kind": "material",
+   "why": "Used in A Few Seconds or a Season? Two changes side by side. About ₹20 to ₹80. Short steel nails from a hardware shop.",
+   "url": "https://www.amazon.in/s?k=iron+filings+science",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Get it before A Few Seconds or a Season? Two changes side by side."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

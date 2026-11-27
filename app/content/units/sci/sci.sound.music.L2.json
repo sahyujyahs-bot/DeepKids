@@ -777,11 +777,11 @@
       "t": "mcq",
       "q": "You tap a box and hear a high 'tik'. You want a lower sound. Which box should you tap next, in the same way?",
       "options": [
-       "A much bigger box",
        "A much smaller box",
+       "A much bigger box",
        "The same box, but harder"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A bigger box has bigger sides that vibrate more slowly, so the sound is lower. Tapping harder only makes the same sound louder."
      }
     }
@@ -989,11 +989,11 @@
       "t": "mcq",
       "q": "You march and clap your name at the same time. Which one is the beat?",
       "options": [
-       "Your steady marching steps",
        "The claps of your name",
+       "Your steady marching steps",
        "Neither of them"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The beat is the steady pulse that never changes, like your steps. The claps of your name are a rhythm that fits over the beat."
      }
     }
@@ -1435,12 +1435,12 @@
    "t": "mcq",
    "p": "You stretch a rubber band over a tissue box and pluck it. What vibrates to make the sound?",
    "opts": [
-    "The rubber band",
     "The table under the box",
     "Her ears",
+    "The rubber band",
     "Nothing moves at all"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The band moves to and fro very fast. Look closely and it goes blurry. The box vibrates along with it, which makes the sound louder.",
    "outcome": 0
   },
@@ -1448,11 +1448,11 @@
    "t": "mcq",
    "p": "Which of these makes a high sound?",
    "opts": [
-    "A mouse squeaking",
     "Thunder rumbling",
-    "A cow mooing"
+    "A cow mooing",
+    "A mouse squeaking"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A squeak is thin and sharp, so it is high. Thunder and a moo are deep, so they are low.",
    "outcome": 1
   },
@@ -1460,11 +1460,11 @@
    "t": "mcq",
    "p": "You tap a matchbox and a big delivery carton in exactly the same way. Which one sounds lower?",
    "opts": [
-    "The matchbox",
     "The big carton",
+    "The matchbox",
     "They sound the same"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The carton's big sides vibrate more slowly, and slow vibrations make a low sound. If you chose 'the same', you were thinking only about the material, not the size.",
    "outcome": 2,
    "how": "e1"
@@ -1473,11 +1473,11 @@
    "t": "mcq",
    "p": "Why does a big carton sound lower than a small box?",
    "opts": [
-    "Its big sides vibrate more slowly",
     "The card in it is a different colour",
+    "Its big sides vibrate more slowly",
     "It is always louder"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A big side is wide and floppy, so it moves in and out more slowly. Slow vibrations make low sounds. Loudness is a different thing.",
    "outcome": 2
   },
@@ -1485,11 +1485,11 @@
    "t": "mcq",
    "p": "You tap the big carton very, very gently with one finger. What do you hear?",
    "opts": [
-    "A soft, low sound",
     "A loud, high sound",
-    "A soft, high sound"
+    "A soft, high sound",
+    "A soft, low sound"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A gentle tap makes small vibrations, so the sound is soft. The carton's sides still vibrate slowly, so it is still low. Low does not mean loud.",
    "outcome": 1
   },
@@ -1497,11 +1497,11 @@
    "t": "mcq",
    "p": "You hoot an empty bottle. Then you pour in water until the bottle is half full. What happens to the hoot?",
    "opts": [
-    "It goes higher",
     "It goes lower",
+    "It goes higher",
     "It stops for ever"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The hoot is the air inside vibrating. Water leaves less air, and less air vibrates faster, so the hoot goes higher.",
    "outcome": 0
   },
@@ -1509,11 +1509,11 @@
    "t": "mcq",
    "p": "Which of these is a beat?",
    "opts": [
-    "A steady pulse with the same gap each time, like a clock ticking",
     "The loudest sound in a song",
+    "A steady pulse with the same gap each time, like a clock ticking",
     "A very high note"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A beat repeats steadily. Loudness and highness are about other things.",
    "outcome": 3
   },
@@ -1545,11 +1545,11 @@
    "t": "mcq",
    "p": "You pat along to a lullaby and then to a dance song, for 15 seconds each. Which one usually gives more pats?",
    "opts": [
-    "The dance song",
     "The lullaby",
+    "The dance song",
     "Every song gives the same number"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A dance song usually has a faster tempo, so it has more beats in 15 seconds. Lullabies are slow, to help a baby calm down.",
    "outcome": 3,
    "how": "e2"
@@ -1558,11 +1558,11 @@
    "t": "mcq",
    "p": "Scientists played a song to a cockatoo, first slow and then fast. How could they tell whether the bird was really keeping the beat?",
    "opts": [
-    "The bird's head bobs speed up and slow down to match the music",
     "The bird sings the words of the song",
-    "The bird plays a drum with sticks"
+    "The bird plays a drum with sticks",
+    "The bird's head bobs speed up and slow down to match the music"
    ],
-   "a": 0,
+   "a": 2,
    "why": "If a bird only bobs at their own speed, they might match the music by luck. If their bobbing changes speed when the music changes, they are following the beat. A cockatoo has really been seen doing this.",
    "outcome": 5
   },
@@ -1570,11 +1570,11 @@
    "t": "mcq",
    "p": "You want to find out if the size of a box changes its sound. Which test is fair?",
    "opts": [
-    "Tap every box the same way, in the same place",
     "Tap the small box gently and the big box hard",
+    "Tap every box the same way, in the same place",
     "Tap only the biggest box"
    ],
-   "a": 0,
+   "a": 1,
    "why": "In a fair test only one thing changes, here the size of the box. If the taps are different, you cannot tell what made the sound change.",
    "outcome": 2
   }
@@ -1590,11 +1590,11 @@
      "t": "mcq",
      "p": "You pluck a rubber band on a box. How can you tell that the band is vibrating?",
      "opts": [
-      "It goes blurry",
       "It gets warm",
+      "It goes blurry",
       "It gets longer"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A strong answer says the band moves to and fro so fast that it looks blurry."
     },
     {
@@ -2228,7 +2228,48 @@
    "why": "During Durga Puja, dhakis play the big dhak drums at the pandals. Watch how the drummers keep one beat together."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Big Box, Small Box: which makes the deepest sound?, Our Box Band Concert, A Band of Three: high, middle and low. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "e1",
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before Big Box, Small Box: which makes the deepest sound?."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in Tissue-box Ektara: a one-string instrument, Our Box Band Concert. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "a3",
+    "p1"
+   ],
+   "plan": "Get it before Tissue-box Ektara: a one-string instrument."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "What does 'vibrate' mean?",

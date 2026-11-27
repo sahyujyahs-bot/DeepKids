@@ -521,10 +521,10 @@
       "q": "A player bets 3 tokens that two lines are different. The lines are really equal, so the player loses. What should the player learn?",
       "options": [
        "Never trust your eyes about anything",
-       "Eyes are usually right, but for lengths that matter, measure",
-       "Always say 'the same'"
+       "Always say 'the same'",
+       "Eyes are usually right, but for lengths that matter, measure"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Eyes and brain get most things right, but clues can fool them. When the answer matters, a ruler is a fair judge. Always saying 'the same' would lose on the cards that really are different."
      }
     }
@@ -783,11 +783,11 @@
       "t": "mcq",
       "q": "You copy the open-fin line by eye. Your copy is 11.5 cm long. The real line is 10 cm. What does this show?",
       "options": [
-       "You cannot draw straight lines",
        "The open fins made the line look longer to you",
+       "You cannot draw straight lines",
        "The ruler is broken"
       ],
-      "a": 1,
+      "a": 0,
       "why": "You drew the line too long because it looked longer to you. If you simply drew badly, your copy of the plain line would be far from 10 cm too, so compare the two copies. The ruler is fine: it showed the lines are all 10 cm."
      }
     },
@@ -932,11 +932,11 @@
       "t": "mcq",
       "q": "You cross your fingers. One pea is rolled between your fingertips, and you feel two. Why?",
       "options": [
-       "Your fingers were too cold",
        "Your brain expects those two finger sides to touch two different things",
+       "Your fingers were too cold",
        "The pea split into two"
       ],
-      "a": 1,
+      "a": 0,
       "why": "With fingers normal, the outer sides of the first and middle fingers face away from each other. One small thing never touches both at once. So when both feel a pea, your brain decides there must be two peas. Cold fingers would feel less, not more, and the pea stayed whole."
      }
     },
@@ -1041,10 +1041,10 @@
       "q": "Two strips are both 3 cm long. On the railway-track drawing, the one near the top looks longer. Why?",
       "options": [
        "The paper stretched",
-       "The brain thinks the top is far away, so it makes that strip look bigger",
-       "The top strip is closer to your eyes"
+       "The top strip is closer to your eyes",
+       "The brain thinks the top is far away, so it makes that strip look bigger"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Lines that come together are a clue for 'far away'. Something far away that still makes a big picture in your eye must be big, so the brain makes the top strip look longer. The paper did not change, and both strips were the same distance from your eyes."
      }
     }
@@ -1280,10 +1280,10 @@
       "q": "Why do you see a hole in your hand?",
       "options": [
        "Light shines through your hand",
-       "Your brain joins the pictures from your two eyes into one picture",
-       "The tube is a magnifying glass"
+       "The tube is a magnifying glass",
+       "Your brain joins the pictures from your two eyes into one picture"
       ],
-      "a": 1,
+      "a": 2,
       "why": "One eye sees the far room through the tube. The other eye sees your hand. Your brain puts both pictures together into one view, so the room seems to show through your hand."
      }
     }
@@ -1437,11 +1437,11 @@
       "t": "mcq",
       "q": "Two middle circles are the same size. The one with small circles around it looks bigger. Why?",
       "options": [
-       "The brain judges size by comparing with the neighbours",
        "Small circles make the paper shrink",
+       "The brain judges size by comparing with the neighbours",
        "The pencil line is thicker"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Next to small neighbours, a circle looks big. Next to big neighbours, the same circle looks small. The brain compares instead of measuring. A ruler does not compare, so it gives the same answer both times."
      }
     }
@@ -1792,11 +1792,11 @@
    "p": "You see two lines. One looks longer, but a ruler shows both are 8 cm. What is this called?",
    "opts": [
     "A mistake in the ruler",
-    "An illusion",
     "Bad eyesight",
-    "A shadow"
+    "A shadow",
+    "An illusion"
    ],
-   "a": 1,
+   "a": 3,
    "why": "When what we see is different from what is really there, as a ruler shows, it is called an illusion. Many people think it means bad eyesight, but illusions fool people with perfect eyes too.",
    "outcome": 0
   },
@@ -1843,10 +1843,10 @@
    "p": "After measuring the arrow lines and knowing they are equal, what do most people see?",
    "opts": [
     "The lines now look equal",
-    "The open-fin line still looks longer",
-    "The arrowhead line now looks longer"
+    "The arrowhead line now looks longer",
+    "The open-fin line still looks longer"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Knowing the answer changes what you believe, but it hardly changes what you see. The seeing part of the brain keeps its own answer.",
    "outcome": 3,
    "how": "e1"
@@ -1855,11 +1855,11 @@
    "t": "mcq",
    "p": "Why does a flip book seem to move?",
    "opts": [
-    "The drawings slide across the page",
     "The brain joins still pictures shown quickly into movement",
+    "The drawings slide across the page",
     "The paper bends the light"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Each page is still. When pictures with small differences come quickly one after another, the brain builds smooth movement. This is apparent motion.",
    "outcome": 4
   },
@@ -1867,11 +1867,11 @@
    "t": "mcq",
    "p": "Max Wertheimer flashed two lines of light, one after the other. People saw one line moving. Why did this show that 'persistence of vision' is wrong?",
    "opts": [
-    "Blurring on the eye would show two lines at once, not one line travelling",
     "The lines were too bright",
-    "Nobody could see the lines"
+    "Nobody could see the lines",
+    "Blurring on the eye would show two lines at once, not one line travelling"
    ],
-   "a": 0,
+   "a": 2,
    "why": "If pictures only stayed on the eye and blurred, people would see two lines together. Seeing one line move across the empty space showed the brain makes the movement.",
    "outcome": 4
   },
@@ -1879,11 +1879,11 @@
    "t": "mcq",
    "p": "A peacock pansy butterfly has big round eyespots on their wings. How can the eyespots help the butterfly?",
    "opts": [
-    "They help the butterfly see better",
     "They can startle a hungry bird, who may back away",
+    "They help the butterfly see better",
     "They keep the butterfly warm"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Eyespots are not real eyes. To a bird, two big round spots can look like a dangerous animal's eyes, so the bird may back away.",
    "outcome": 5
   },
@@ -1891,11 +1891,11 @@
    "t": "mcq",
    "p": "Which is the best way to find out if two lines are really the same length?",
    "opts": [
+    "Measure them with a ruler",
     "Look very hard",
-    "Ask someone else to look",
-    "Measure them with a ruler"
+    "Ask someone else to look"
    ],
-   "a": 2,
+   "a": 0,
    "why": "Looking harder does not switch off an illusion, and other people are usually fooled the same way. A ruler cannot be fooled by fins or neighbours.",
    "outcome": 0
   },
@@ -1903,11 +1903,11 @@
    "t": "mcq",
    "p": "Why do scientists like to study illusions?",
    "opts": [
-    "They show the rules the brain uses to work out what we see",
     "They prove that eyes do not work",
-    "Illusions are only for fun"
+    "Illusions are only for fun",
+    "They show the rules the brain uses to work out what we see"
    ],
-   "a": 0,
+   "a": 2,
    "why": "An illusion is a time when a clue leads the brain to a wrong answer. By finding which clue did it, scientists learn how the brain usually gets things right.",
    "outcome": 1
   }
@@ -1924,22 +1924,22 @@
      "p": "What is an illusion?",
      "opts": [
       "When your eyes are broken",
-      "When what you see or feel is different from what is really there",
       "A picture that is badly drawn",
+      "When what you see or feel is different from what is really there",
       "A kind of magic"
      ],
-     "a": 1,
+     "a": 2,
      "why": "An illusion is when what you see, hear or feel is different from what is really there, as a ruler or a test shows. It happens to people with healthy eyes. Many people think it means the eyes are broken, but illusions fool almost everyone."
     },
     {
      "t": "mcq",
      "p": "In the railway-track drawing, two equal paper strips lie across the tracks. Which one looks longer?",
      "opts": [
-      "The one near the narrow end, where the lines come together",
       "The one near the wide end",
-      "They always look the same"
+      "They always look the same",
+      "The one near the narrow end, where the lines come together"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The narrow end looks far away. The brain makes a far thing that still looks big seem bigger, so that strip looks longer.",
      "how": "a1"
     },
@@ -1948,11 +1948,11 @@
      "p": "Which two parts of your body work together to see?",
      "opts": [
       "Eyes and ears",
-      "Eyes and brain",
       "Brain and tongue",
-      "Eyes and nose"
+      "Eyes and nose",
+      "Eyes and brain"
      ],
-     "a": 1,
+     "a": 3,
      "why": "The eyes catch light and send signals. The brain works out what the signals mean: sizes, shapes, distances and movement."
     },
     {
@@ -2403,11 +2403,11 @@
      "t": "mcq",
      "p": "You flip between two pages. A dot is on the left of page 1 and on the right of page 2. What do you see?",
      "opts": [
-      "Two dots at once",
       "One dot jumping across",
+      "Two dots at once",
       "No dots at all"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The brain joins the two still dots into one moving dot. This is apparent motion, like Wertheimer's flashed lines.",
      "how": "a7"
     },
@@ -2742,7 +2742,60 @@
    "why": "A large science museum with hands-on galleries. Check whether a perception or fun-science gallery is open before you go."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Arrow Lines: how much does your brain stretch a line?, The Railway Track Trick: two equal strips, Bird in the Cage: a picture toy from 1825. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "a1",
+    "a3",
+    "p1"
+   ],
+   "plan": "Get it before The Arrow Lines: how much does your brain stretch a line?."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Same Grey, Different Grey, Our Illusion Museum. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "a5",
+    "p1"
+   ],
+   "plan": "Get it before Same Grey, Different Grey."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in Crossed Fingers: can one pea feel like two?. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before Crossed Fingers: can one pea feel like two?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "What do we call it when what we see is different from what is really there?",

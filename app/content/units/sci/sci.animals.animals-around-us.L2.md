@@ -1,9 +1,9 @@
 # Animals around us: coverings, legs, wings and fins
 `sci.animals.animals-around-us.L2`
 
-**Summary.** How many legs does a body need to stand still? In this unit you will count an ant's legs, make animals from dough with different numbers of legs to test how well they stand, and play a snap game sorting animals by what covers their bodies.
+**Summary.** How many legs does a body need to stand still? In this lesson you will count an ant's legs, make animals from dough with different numbers of legs to test how well they stand, and play a snap game sorting animals by what covers their bodies.
 
-**Intro.** *A crow on the window ledge has two legs. The cat downstairs has four. The ant on the kitchen floor has six. Why do animals come with so many different numbers of legs?* Animals around us look very different. A crow is covered in feathers, a cat in fur, a gecko in tiny scales and you in skin and hair. A fish swims with fins, a crow flies with wings, and a snake slides along with no legs at all. Scientists compare animals by looking at their bodies, part by part. In this unit you count legs, compare coverings and test how many legs a body needs to stand without help.
+**Intro.** *A crow on the window ledge has two legs. The cat downstairs has four. The ant on the kitchen floor has six. Why do animals come with so many different numbers of legs?* Animals around us look very different. A crow is covered in feathers, a cat in fur, a gecko in tiny scales and you in skin and hair. A fish swims with fins, a crow flies with wings, and a snake slides along with no legs at all. Scientists compare animals by looking at their bodies, part by part. In this lesson you count legs, compare coverings and test how many legs a body needs to stand without help.
 
 ## Learning outcomes
 0. By the end I can sort animals by their body covering: hair or fur, feathers, scales, a shell, or bare skin.
@@ -47,7 +47,7 @@ Snakes, fish and earthworms have no legs. Birds and humans walk on two legs. Dog
 ### Wings and fins · *defined*
 **Definition:** Wings are body parts that an animal flaps to fly. Fins are flat body parts that a fish uses to swim and steer.
 
-Birds, bats and most insects have wings. A bat is not a bird: bats have fur and feed their babies milk, so bats are mammals. Some birds have wings but do not fly, such as the penguin and the ostrich. A fish has a tail fin that pushes them forward. Fins on the back and belly stop the fish from rolling over. Fins on the sides help them steer and stop. Dolphins and whales have fins too, but they breathe air and feed their babies milk. They are mammals, not fish.
+Birds, bats and most insects have wings. A bat is not a bird: bats have fur and feed their babies milk, so bats are mammals. Some birds have wings but do not fly, such as the penguin and the ostrich. A fish has a tail fin that pushes them forward. Fins on the back and belly stop the fish from rolling over. Fins on the sides help them steer and stop. Dolphins and whales have fins too, but they breathe air and feed their babies milk. They are mammals, not fish. You can also group animals by where they move: on land, in water or in the air. A buffalo walks on land. A rohu fish swims in water. A kite flies in the air. Some animals use more than one place. A duck walks on land, paddles on a pond and flies.
 - e.g. A crow has wings and two legs.
 - e.g. A butterfly has wings and six legs.
 - e.g. A fish has fins and no legs.
@@ -62,7 +62,7 @@ One leg or two legs give a body only a small place to stand, so the body tips ov
 ### Pets, farm animals and wild animals · *defined*
 **Definition:** A pet lives with a family who look after them. A farm animal is kept for milk, eggs, wool or work. A wild animal lives on their own and finds their own food.
 
-Wild animals do not only live in forests. Crows, pigeons, squirrels, geckos and ants are wild animals that live in cities. In Mumbai, leopards live in a forest park inside the city. Being a pet depends on how an animal lives, not on what kind of animal they are. A parrot in the forest is wild. In India, the Wildlife Protection Act of 1972 makes it against the law to catch or keep wild Indian birds, such as parakeets and munias. Some animals, like street dogs and temple cows, are fed by many people but belong to no one family. People argue about what to call them.
+Wild animals do not only live in forests. Crows, pigeons, squirrels, geckos and ants are wild animals that live in cities. In Mumbai, leopards live in a forest park inside the city. Being a pet depends on how an animal lives, not on what kind of animal they are. A parrot in the forest is wild. In India, the Wildlife Protection Act of 1972 makes it against the law to catch or keep wild Indian birds, such as parakeets and munias. Some animals, like street dogs and temple cows, are fed by many people but belong to no one family. People argue about what to call them. A wild animal finds her own food. A pet cannot, so the family gives food and fresh water every day. They also give a clean place to sleep and time to play. Be gentle with a pet. Pets feel hunger, thirst and fear, as you do. Care can reach other animals too. On a hot day, a bowl of water on the balcony helps the birds and squirrels. Never hit a street dog or throw stones at her.
 - e.g. A cat at home is a pet.
 - e.g. A buffalo kept for milk is a farm animal.
 - e.g. A crow on the water tank is a wild animal.
@@ -119,7 +119,7 @@ We have compared animals by their coverings, legs, wings and fins, and tested ho
 Animal bodies come in many forms: two legs or eight, feathers or fur, fins or wings. But many of these different coverings are made of one material: your hair, a crow's feathers and a gecko's scales are all keratin. Bodies also stay up in different ways. A stool stands because of its shape. A crow and you stand by feeling each small tilt and correcting it, all the time. Your feet and ankles feel the floor, and your muscles answer each shift.
 
 - **Yoga Sutras of Patanjali 2.46 and 2.47:** “स्थिरसुखं आसनं / प्रयत्नशैथिल्यानन्तसमापत्तिभ्यां” Patanjali says that the way you sit or stand, your posture, should be steady and comfortable. He says it becomes steady when effort is relaxed and the mind rests on the endless. (When you stood with your eyes shut in the Dough Legs experiment, you were steady only because your feet and ankles kept working. You did not have to try hard, because your body made the corrections without you noticing.)
-- **Udana 6.4, the Tittha Sutta (Buddhist Pali Canon):** “ediso dhammo, nediso dhammo; / nediso dhammo, ediso dhammo. / ediso, deva, hatthī seyyathāpi thūṇo.” Some men who could not see each felt one part of an elephant. One felt the leg and said an elephant is like a pillar. One felt the trunk and said an elephant is like a snake. Each was partly right, and they quarrelled. (In this unit, one body part alone often fooled us. Wings did not make the bat a bird, and scales did not make the pangolin a reptile. We knew each animal only by putting all the parts together.)
+- **Udana 6.4, the Tittha Sutta (Buddhist Pali Canon):** “ediso dhammo, nediso dhammo; / nediso dhammo, ediso dhammo. / ediso, deva, hatthī seyyathāpi thūṇo.” Some men who could not see each felt one part of an elephant. One felt the leg and said an elephant is like a pillar. One felt the trunk and said an elephant is like a snake. Each was partly right, and they quarrelled. (In this lesson, one body part alone often fooled us. Wings did not make the bat a bird, and scales did not make the pangolin a reptile. We knew each animal only by putting all the parts together.)
 - Science (settled): When a person stands still, the body sways a little all the time, and ankle muscles correct the sway. With the eyes shut, the sway gets bigger.
 - Science (open): The brain and the spinal cord, the bundle of nerves inside the backbone, run many of these corrections without our attention. Nobody knows yet whether the body feels or knows each correction in its own way.
 - Other view, Many neuroscientists: These quick corrections are reflexes: the nerves do them automatically, the same way every time, and you do not need to be aware of them. In this view, awareness belongs to the brain, and only some of what the body does reaches the brain.
@@ -405,6 +405,21 @@ That night the tube light went on, and the moths came, and so did Chikki.
   *Child mode:* Decide where the street dog goes. Give a reason.
   - Note: There is no single right answer for a street dog. Some people call her a community dog. The important thing is the reason your child gives.
   - Check: A crow lives on the water tank of your building. What kind of animal is the crow? → **A wild animal**
+### a7 · Make an Animal Mask (20 min)
+- **record:** Take a photo of your child wearing the mask.
+- **s1 (8 min)**  
+  *Parent does:* Your child picks an animal they know, such as a cat, a parrot, a tiger or a crow. They draw the face on the plate: two eyes, the nose or beak, the mouth or ears. A grown-up cuts out two holes for the eyes.  
+  *Parent says:* Which animal will you be? Look at a picture or at the real animal. What is on their face?  
+  *Child mode:* Draw the animal's face on the plate. Do not forget the ears or the beak.
+- **s2 (7 min)**  
+  *Parent does:* Show the covering with real materials: cotton wool or wool for fur, folded paper strips for feathers, small paper circles for scales. Glue them on. Tie a string on each side.  
+  *Parent says:* What covers your animal's face? Fur, feathers or scales? Let us stick some on.  
+  *Child mode:* Stick on the covering. Wear your mask.
+- **s3 (5 min)**  
+  *Parent does:* Your child wears the mask and moves and sounds like the animal. Ask what they know about how the animal lives, and whether the animal is a pet, a farm animal or wild.  
+  *Parent says:* Show me how you walk. Is your animal a pet, a farm animal or wild?  
+  *Child mode:* Move and sound like your animal. Say if it is a pet, a farm animal or wild.
+  - Check: You make a tiger mask. What should you stick on the face to show their covering? → **Fur, such as cotton wool or wool**
 ### a5 · Feather and Water (if you find a feather) (10 min)
 - **safety:** Hold the feather by the end and wash your hands after.
 - **record:** Take a photo of the feather and the paper with the water drops on them.
@@ -484,7 +499,7 @@ That night the tube light went on, and the moths came, and so did Chikki.
   - Check: Which change helps a two-legged body stand without help? → **Wide feet with long toes**
 
 ## Worksheets
-### Coverings, Legs and Fins (core) (core, 15 questions)
+### Coverings, Legs and Fins (core) (core, 17 questions)
 1. (sort) Sort each animal by their covering.  
    **Answer:** a crow → Feathers; a dog → Hair or fur; a fish → Scales; a snail → Shell; a frog → Bare skin; you → Hair or fur. *Why:* A crow has feathers, a dog has fur, a fish has scales, a snail carries a shell, and a frog has bare damp skin. You have hair and skin, like other mammals.
 2. (match) Draw a line from each animal to how they move.  
@@ -509,18 +524,22 @@ That night the tube light went on, and the moths came, and so did Chikki.
    **Answer:** mammals. *Why:* Mammals have hair or fur, and mammal babies drink milk. Cows, dogs, bats and humans are mammals.
 11. (sort) Sort these animals into pet, farm animal and wild animal.  
    **Answer:** a cat that sleeps at home and is fed every day → Pet; a buffalo kept for milk → Farm animal; a crow on the water tank → Wild animal; a hen kept for eggs → Farm animal; a gecko on the wall → Wild animal; a goldfish in a bowl at home → Pet. *Why:* Pets live with a family who look after them. Farm animals are kept for milk, eggs or work. Wild animals find their own food and home, even in a city.
-12. (perspective) A brown street dog sleeps outside a building. Many people in the lane feed her. Two children disagree about her.  
+12. (sort) Sort these animals by where they mostly move: on land, in water or in the air.  
+   **Answer:** a buffalo walking to the pond → On land; a rohu fish swimming → In water; a kite gliding high in the sky → In the air; a goat climbing a rock → On land; a crab in a stream → In water; a bee flying to a flower → In the air. *Why:* Land animals walk or climb, water animals swim, and flying animals use wings. Some animals, like a duck, use more than one place.
+13. (fill) A pet cannot find food at home. The family must give food and fresh ________ every day.  
+   **Answer:** water. *Why:* Every animal needs water. A pet depends on its family to give water, food and a clean place to sleep.
+14. (perspective) A brown street dog sleeps outside a building. Many people in the lane feed her. Two children disagree about her.  
    **Answer:** A strong answer picks one side and gives a reason, such as 'she is fed every day, like a pet' or 'no family owns her and she goes where she likes'. Then the child says what the other person has right.. *Why:* This is a real question with no single answer. Many people call such dogs community dogs: looked after by many people, but owned by no one family.
-13. (mcq) Which one is a mammal?  
-   Options: A hen / A cow / A crocodile  
+15. (mcq) Which one is a mammal?  
+   Options: A hen / A crocodile / A cow  
    **Answer:** A cow. *Why:* A cow has hair, and her calf drinks her milk, so a cow is a mammal. A hen has feathers and a crocodile has scales, and both lay eggs.
-14. (truefalse) You are an animal.  
+16. (truefalse) You are an animal.  
    **Answer:** True. *Why:* True. Humans are animals. We are mammals, with hair, and our babies drink milk.
-15. (draw) Draw an animal you saw today. Colour their covering carefully.  
+17. (draw) Draw an animal you saw today. Colour their covering carefully.  
    **Answer:** Any real animal, with their covering drawn: feathers, fur, scales, a shell or bare skin.. *Why:* A strong drawing shows the covering clearly, such as feathers on a crow or fur on a dog, and has the right number of legs.
-### Tricky Animals (stretch) (stretch, 15 questions)
+### Tricky Animals (stretch) (stretch, 17 questions)
 1. (mcq) An Indian pangolin is covered in scales, and the mother feeds her baby milk. Which group is the pangolin in?  
-   Options: Fish / Mammals / Birds  
+   Options: Mammals / Fish / Birds  
    **Answer:** Mammals. *Why:* Animals whose babies drink milk are mammals. The pangolin is a mammal with scales instead of fur. One body part alone does not tell you the group.
 2. (truefalse) Every animal that lives in water is a fish.  
    **Answer:** False. *Why:* False. Dolphins live in water but are mammals. Crabs, frogs and turtles live in water too, and none of them is a fish.
@@ -544,7 +563,7 @@ That night the tube light went on, and the moths came, and so did Chikki.
 11. (label) Label the crow: beak, feathers, wing, two legs.  
    **Answer:** ['beak: at the front of the head', 'feathers: all over the body', 'wing: on the side', 'two legs: underneath']. *Why:* A crow, like every bird, has a beak, feathers, two wings and two legs.
 12. (mcq) A floating bottle rolls over when you flick it. What do you think happens if a fin is taped on underneath?  
-   Options: The bottle rolls more / The bottle rocks and stops / The bottle sinks  
+   Options: The bottle rocks and stops / The bottle rolls more / The bottle sinks  
    **Answer:** The bottle rocks and stops. *Why:* The fin pushes against the water when the bottle starts to roll, so the bottle rocks and stops. A fish's back fin does the same job.
 13. (fill) A spider has eight legs, so a spider is not an ________.  
    **Answer:** insect. *Why:* Every adult insect has six legs. Spiders have eight, so spiders are not insects.
@@ -552,13 +571,17 @@ That night the tube light went on, and the moths came, and so did Chikki.
    **Answer:** True. *Why:* True. Whales and dolphins breathe air through a blowhole on the top of the head. They are mammals.
 15. (write) Say one way a crow and you are the same, and one way you are different.  
    **Answer:** We both walk on two legs. A crow has feathers and wings, and I have hair and no wings.. *Why:* A strong answer gives a real body part that is the same, such as two legs or two eyes, and one that is different, such as feathers or wings.
+16. (sort) Sort these into kind things and unkind things to do for animals.  
+   **Answer:** put out a bowl of water for the birds on a hot day → Kind; throw a stone at a street dog → Unkind; feed your pet cat at the same time each day → Kind; pull a pet's tail for fun → Unkind; talk gently and stroke a pet slowly → Kind; leave a pet alone without water all day → Unkind. *Why:* Animals feel thirst, hunger, pain and fear as you do. Kind care gives them water, food and a gentle hand. Hurting or forgetting them is unkind.
+17. (write) Make a mask of an animal you know. Say which covering you would use and what you would stick on for it.  
+   **Answer:** Any animal with a matching covering. For example, cotton wool for a cat's fur, paper strips for a crow's feathers.. *Why:* A good mask copies the real animal's covering. Fur, feathers and scales are different, so each needs its own material.
 ### Think Like a Scientist (challenge) (challenge, 15 questions)
 1. (write) A three-legged stool never rocks, even on a bumpy floor. A four-legged chair sometimes rocks. Why do you think this is?  
    **Answer:** All three legs always touch the floor, even if the floor is bumpy. With four legs, if one leg is short or the floor is bumpy, one leg lifts and the chair rocks.. *Why:* A strong answer says that all three feet can always touch the ground. This is why old milking stools often had three legs.
 2. (perspective) Two children argue about how many legs are best.  
    **Answer:** A strong answer picks one side with a reason, such as 'four legs stand still easily, as the dough test showed', or 'two legs leave hands free'. It also says what the other side has right.. *Why:* Both have a real point. Four legs are steadier. Two legs leave the arms free, but the body must keep balancing.
 3. (mcq) An animal has scales and four legs, and lays eggs on land. Which animal could this be?  
-   Options: A fish / A gecko / A frog  
+   Options: A gecko / A fish / A frog  
    **Answer:** A gecko. *Why:* A gecko has scales and four legs, and lays eggs on land. A fish has no legs. A frog has bare skin, not scales, and lays eggs in water.
 4. (odd) Three of these are mammals. Which one is not a mammal?  
    Options: A bat / A dolphin / A penguin / A human  
@@ -582,7 +605,7 @@ That night the tube light went on, and the moths came, and so did Chikki.
 13. (sort) Sort these animals: insect, or not an insect?  
    **Answer:** an ant → Insect (6 legs); a spider → Not an insect; a butterfly → Insect (6 legs); a centipede → Not an insect; a mosquito → Insect (6 legs); an earthworm → Not an insect. *Why:* Ants, butterflies and mosquitoes have six legs. Spiders have eight, centipedes have many, and earthworms have none.
 14. (mcq) Someone says: 'All animals with wings are birds.' Which animal shows that this is wrong?  
-   Options: A crow / A butterfly / A peacock  
+   Options: A butterfly / A crow / A peacock  
    **Answer:** A butterfly. *Why:* A butterfly has wings but is an insect, with six legs and no feathers. Crows and peacocks are birds, so they do not show that it is wrong.
 15. (write) Two cats look the same. One lives in a flat and is fed by a family. The other lives in the lane and catches rats. Is one of them a different kind of animal? Which one is a pet? Give a reason.  
    **Answer:** No, they are the same kind of animal. The cat in the flat is a pet, because a family feeds and looks after her. The lane cat finds her own food.. *Why:* A strong answer says that being a pet depends on how an animal lives, not on what kind of animal she is.
@@ -594,13 +617,13 @@ That night the tube light went on, and the moths came, and so did Chikki.
 
 ## Quiz
 1. (mcq) Which animal is covered in feathers?  
-   Options: A cat / A pigeon / A frog  
+   Options: A cat / A frog / A pigeon  
    **Answer:** A pigeon. *Why:* A pigeon is a bird, and every bird has feathers. A cat has fur, and a frog has bare skin.
 2. (mcq) How many legs does a spider have?  
    Options: 6 / 8 / 4  
    **Answer:** 8. *Why:* A spider has eight legs. Insects, like ants, have six. If you said 6, you were thinking of insects.
 3. (mcq) Which animal swims with fins?  
-   Options: A rohu fish / A goat / A sparrow  
+   Options: A goat / A rohu fish / A sparrow  
    **Answer:** A rohu fish. *Why:* A rohu is a fish, and fish swim with fins. Goats walk on four legs, and sparrows fly with wings.
 4. (mcq) You make three dough animals: one with one leg, one with two thin legs, and one with three legs spread out. Which one will stand without help?  
    Options: The one with three legs spread out / The one with one leg / The one with two thin legs  
@@ -609,23 +632,35 @@ That night the tube light went on, and the moths came, and so did Chikki.
    Options: A pet / A wild animal / A farm animal  
    **Answer:** A wild animal. *Why:* The crow finds their own food and home, and nobody owns them. Wild animals live in cities too.
 6. (mcq) Which group are humans in?  
-   Options: Birds / Mammals / Insects  
+   Options: Mammals / Birds / Insects  
    **Answer:** Mammals. *Why:* Humans have hair, and our babies drink milk, so we are mammals, like cows and dogs.
 7. (mcq) A butterfly has wings. How many legs does a butterfly have?  
    Options: 2 / 6 / 8  
    **Answer:** 6. *Why:* A butterfly is an insect, so a butterfly has six legs. Wings do not make an animal a bird.
 8. (mcq) What does the fin on a fish's back do?  
-   Options: Pushes the fish forward / Keeps the fish from rolling over / Helps the fish breathe  
+   Options: Pushes the fish forward / Helps the fish breathe / Keeps the fish from rolling over  
    **Answer:** Keeps the fish from rolling over. *Why:* The back fin pushes against the water when the fish starts to roll, like the fin on the floating bottle in the Roll Stopper test. The tail fin pushes the fish forward.
 9. (mcq) In the Dough Legs experiment, you stood still with your eyes shut. What did your feet and ankles do?  
-   Options: Nothing at all / Kept making tiny moves to keep you up / Went to sleep  
+   Options: Kept making tiny moves to keep you up / Nothing at all / Went to sleep  
    **Answer:** Kept making tiny moves to keep you up. *Why:* Your feet and ankles keep making tiny moves to catch you before you tip. With your eyes shut, you sway more, so you feel them more.
 10. (mcq) A green parakeet lives in a forest in Kerala. What kind of animal is the parakeet?  
-   Options: A pet / A wild animal / A farm animal  
+   Options: A wild animal / A pet / A farm animal  
    **Answer:** A wild animal. *Why:* The parakeet lives on their own and finds their own food, so the parakeet is wild. In India the law protects wild birds like parakeets.
 11. (mcq) What is your own body covered in?  
-   Options: Feathers / Skin and hair / Scales  
+   Options: Skin and hair / Feathers / Scales  
    **Answer:** Skin and hair. *Why:* Your body is covered in skin, with hair growing out of it. Like other mammals, you have hair.
+12. (mcq) A duck walks on land, paddles on a pond and flies over the field. Where can a duck move?  
+   Options: On land only / In water only / On land, in water and in the air  
+   **Answer:** On land, in water and in the air. *Why:* Some animals use more than one place. A duck walks, swims and flies. A fish moves in water only, and a buffalo on land.
+13. (mcq) Your family keeps a pet cat. Why must someone give her food and fresh water every day?  
+   Options: Cats do not need water / Wild animals are given food every day too / A pet cannot find her own food at home, so the family must give it  
+   **Answer:** A pet cannot find her own food at home, so the family must give it. *Why:* A wild animal finds her own food, but a pet lives with a family who look after her. Every animal needs water, so a cat needs fresh water daily.
+14. (mcq) It is a very hot day. What is a kind thing to do for the birds near your building?  
+   Options: Put a bowl of fresh water on the balcony / Chase them away from the balcony / Throw a stone to see if they fly  
+   **Answer:** Put a bowl of fresh water on the balcony. *Why:* Birds feel thirst in the heat, as you do. A bowl of water is kind. Chasing or hurting animals frightens them and can harm them.
+15. (mcq) Asha makes a parrot mask for a play. Which covering should she stick on it?  
+   Options: Paper strips, for feathers / Cotton wool, for fur / Paper circles, for scales  
+   **Answer:** Paper strips, for feathers. *Why:* A parrot is a bird, and birds are covered in feathers. Fur belongs to mammals and scales to fish and snakes.
 
 ## Applications
 - Camera stands and old milking stools have three legs, because three legs never rock.
@@ -635,11 +670,11 @@ That night the tube light went on, and the moths came, and so did Chikki.
 - Vets compare the bodies of animals to know how to care for each one.
 
 ## Spotted around us
-- Pigeons sitting on the air-conditioner boxes of flats in Chennai and Mumbai.
+- Pigeons sitting on the air-conditioner boxes of flats.
 - A crow on a phone wire, standing on one leg and shifting their foot.
-- Fish with shining scales on ice at a fish market in Kolkata or Kochi.
+- Fish with shining scales on ice at a fish market.
 - A house gecko waiting near the tube light at night to catch moths.
-- Cows and buffaloes walking calmly down a street in a town in Gujarat or Uttar Pradesh.
+- Cows and buffaloes walking calmly down a street in a town.
 
 ## Open questions
 - **When and where did dogs first come to live with people?** Different studies point to different places and times, more than 15,000 years ago. Scientists are still arguing.
@@ -676,10 +711,13 @@ Feathers, Fur and Fins (sci.animals.L2): Topic-level song for Animals L2
 ## Links
 - [India Biodiversity Portal](https://indiabiodiversity.org) · interactive: For the parent and child to look up the animals they see, with photos taken by people all over India.
 - [iNaturalist](https://www.inaturalist.org) · interactive: Take a photo of a gecko, an insect or a bird from your window, and people help you name them.
-- [Government Museum, Chennai: zoology gallery]() · place · Chennai: See the skeletons, feathers, scales and shells of many animals side by side.
-- [Taraporewala Aquarium]() · place · Mumbai: Watch how many kinds of fish use their fins to swim, turn and stop.
+- Government Museum, Chennai: zoology gallery · place · Chennai: See the skeletons, feathers, scales and shells of many animals side by side.
+- Taraporewala Aquarium · place · Mumbai: Watch how many kinds of fish use their fins to swim, turn and stop.
 
 ## Things to buy
+- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): Used in Count an Ant's Legs, Up Close: my hair, skin and nails. About ₹30 to ₹120. A water drop on clear plastic magnifies a little. Used in a1, a2. Get it before Count an Ant's Legs.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Dough Legs: how many legs does a body need to stand?, Two Legs, Standing Tall. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in e1, c1. Get it before Dough Legs: how many legs does a body need to stand?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - How many legs does an ant have? → Six.
@@ -691,7 +729,7 @@ Feathers, Fur and Fins (sci.animals.L2): Topic-level song for Animals L2
 
 ## Plan
 - Start options: intro, a1, e1, story, g1, cards
-- Default order: intro → a1 → e1 → summary → terms → explanations → story → g1 → a2 → ws-core → e2 → a3 → g2 → a4 → agreed → challenging → p1 → c1 → ws-stretch → a5 → a6 → big_questions → videos → how_we_found_out → ws-challenge → open_questions → roots → quiz
+- Default order: intro → a1 → e1 → summary → terms → explanations → story → g1 → a2 → ws-core → e2 → a3 → g2 → a4 → agreed → challenging → p1 → c1 → ws-stretch → a5 → a6 → a7 → big_questions → videos → how_we_found_out → ws-challenge → open_questions → roots → quiz
 - Core: a1, e1, g1, ws-core
 
 ## Sources

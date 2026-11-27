@@ -242,7 +242,7 @@
    "concept": "By-products, waste and pollution",
    "status": "defined",
    "definition": "A by-product is a substance made along with the product. Pollution is a substance in the air, water or soil in an amount that harms living beings.",
-   "description": "No factory makes only what it wants. Atoms cannot vanish, so every atom that goes in must come out somewhere. A good factory finds a use for its by-products. A urea factory makes carbon dioxide when it makes hydrogen. It then uses that carbon dioxide to make the urea. Other by-products are harder to use. Smoke, waste water and unwanted solids can harm people, other animals and plants. Products can harm too, after they leave the factory. Nitrogen fertiliser that the crop does not take up washes into ponds. There it feeds algae. When the algae die, the microbes who rot them use up the oxygen in the water, and fish die. Lead compounds were once common in paint. Lead damages the growing brain of a child, and no safe amount is known. Since 2017, house paint sold in India may hold only a trace of lead. A factory can also fail. In December 1984 a poisonous gas leaked from a pesticide factory in Bhopal, and thousands of people died. Chemists today try to design reactions that use less energy, make less waste and need no dangerous substances. This work is called green chemistry.",
+   "description": "No factory makes only what it wants. Atoms cannot vanish, so every atom that goes in must come out somewhere. A good factory finds a use for its by-products. A urea factory makes carbon dioxide when it makes hydrogen. It then uses that carbon dioxide to make the urea. Other by-products are harder to use. Smoke, waste water and unwanted solids can harm people, other animals and plants. Products can harm too, after they leave the factory. Nitrogen fertiliser that the crop does not take up washes into ponds. There it feeds algae. When the algae die, the microbes who rot them use up the oxygen in the water, and fish die. Lead compounds were once common in paint. Lead damages the growing brain of a child, and no safe amount is known. Since 2017, house paint sold in India may hold only a trace of lead. A factory can also fail. In December 1984 a poisonous gas leaked from a pesticide factory in Bhopal, and thousands of people died. Chemists today try to design reactions that use less energy, make less waste and need no dangerous substances. This work is called green chemistry. When people change a material, they weigh the good it does against the harm it may do to the air, water or soil. Factory nitrogen has raised harvests a great deal, but the extra that washes into a pond can harm the fish and plants in it.",
    "examples": [
     "A sugar mill burns its crushed cane as fuel and sells its molasses to make ethanol.",
     "A pond below a heavily fertilised field turns green with algae.",
@@ -884,11 +884,11 @@
       "t": "mcq",
       "q": "In Three Paints, why do you use a clean finger for each stripe?",
       "options": [
-       "So old colour is not counted twice",
        "So the finger stays cool",
-       "So the paint dries faster"
+       "So the paint dries faster",
+       "So old colour is not counted twice"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Colour left on the finger from paint A would look like colour from paint B. If you chose cool or faster, remember that a fair test changes only one thing at a time."
      },
      "parent": "Score 0 for no colour, 1 for a faint mark and 2 for a clear patch of colour. Write each score down at once.",
@@ -1057,11 +1057,11 @@
       "t": "mcq",
       "q": "In One Dose, Two Bodies, why must both glasses be filled to the same height?",
       "options": [
-       "A deeper layer of colour looks darker",
        "A full glass is heavier",
+       "A deeper layer of colour looks darker",
        "The drops sink to the bottom"
       ],
-      "a": 0,
+      "a": 1,
       "why": "You look through the water, and more coloured water in the way looks darker. If you chose heavier or sinking, pour a little out of one glass and look again from above."
      },
      "parent": "To save time, your child may add 4 drops at a time until the colours are close. Most families find a match between 18 and 22 drops.",
@@ -1417,11 +1417,11 @@
       "t": "mcq",
       "q": "A urea factory makes carbon dioxide as a by-product. What does it do with much of it?",
       "options": [
-       "Uses it to make the urea",
        "Sells it as cooking gas",
+       "Uses it to make the urea",
        "Turns it back into air"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Urea is made by joining ammonia with carbon dioxide, so the factory feeds its own by-product back in. If you chose cooking gas, remember that carbon dioxide does not burn."
      },
      "parent": "Here is the list for a urea factory. What goes in is air, natural gas, water and energy. What comes out is urea, carbon dioxide and heat. The carbon dioxide comes from making hydrogen, and the factory uses much of it to make the urea.",
@@ -1621,11 +1621,11 @@
       "t": "mcq",
       "q": "A slow tablet let its colour out after 1 minute. Which single change is most likely to slow it?",
       "options": [
-       "A thicker wall with the join pinched shut",
        "Warmer water in the glass",
+       "A thicker wall with the join pinched shut",
        "A bigger pinch of coffee"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Water must cross the wall to reach the coffee, so a thicker, well-closed wall takes longer. If you chose warmer water, remember that warmth speeds up dissolving. More coffee changes the colour, not the time."
      },
      "context": "This is the last step of the Slow Tablet. You say what happened to your tablet and plan a better one."
@@ -1644,12 +1644,12 @@
      "t": "mcq",
      "p": "Where does the nitrogen in urea fertiliser come from?",
      "opts": [
-      "The air",
       "Sea water",
       "Crushed rock",
+      "The air",
       "Cow's milk"
      ],
-     "a": 0,
+     "a": 2,
      "why": "About four fifths of the air is nitrogen gas. A factory joins it with hydrogen to make ammonia, and then urea.",
      "outcome": 0
     },
@@ -1745,12 +1745,12 @@
      "t": "mcq",
      "p": "What do the letters N, P and K on a fertiliser bag stand for?",
      "opts": [
-      "Nitrogen, phosphorus, potassium",
       "Nickel, platinum, krypton",
       "Nutrient, plant, crop",
-      "North, plain, coast"
+      "North, plain, coast",
+      "Nitrogen, phosphorus, potassium"
      ],
-     "a": 0,
+     "a": 3,
      "why": "N, P and K are the chemical symbols of the three main plant nutrients. K comes from kalium, an old name for potassium.",
      "outcome": 1
     },
@@ -1784,12 +1784,12 @@
      "t": "mcq",
      "p": "Why is a child's dose of medicine smaller than a grown-up's?",
      "opts": [
-      "A child's body is smaller",
       "Children dislike bitter tastes",
       "Medicine is costly",
-      "Children are never very ill"
+      "Children are never very ill",
+      "A child's body is smaller"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A medicine spreads through the body. In a smaller body the same amount is stronger, so a child needs less.",
      "outcome": 4
     },
@@ -1854,12 +1854,12 @@
      "t": "mcq",
      "p": "Which raw material do most plastics and wall-paint binders start from?",
      "opts": [
-      "Crude oil",
       "Sea salt",
       "Limestone",
+      "Crude oil",
       "Rain water"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A refinery supplies the starting substances for plastics. The binder in most wall paint is a plastic of this kind.",
      "outcome": 0
     }
@@ -1875,12 +1875,12 @@
      "t": "mcq",
      "p": "A refinery separates crude oil into its parts. What does it use to separate them?",
      "opts": [
-      "Their different boiling points",
       "Their different colours",
+      "Their different boiling points",
       "A strong magnet",
       "A fine sieve"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Short carbon chains boil at low temperatures and long chains at high temperatures. So each part is collected at its own height in the tower.",
      "outcome": 2
     },
@@ -1888,12 +1888,12 @@
      "t": "mcq",
      "p": "Water-based wall paint dries on a wall. What happens to its water?",
      "opts": [
-      "It evaporates into the air",
       "It turns into pigment",
       "It sinks into the binder",
-      "It burns away"
+      "It burns away",
+      "It evaporates into the air"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The water is the solvent. It evaporates, and the binder particles join into a sheet that holds the pigment.",
      "outcome": 5
     },
@@ -1901,12 +1901,12 @@
      "t": "mcq",
      "p": "Why does lime wash turn hard on a wall?",
      "opts": [
-      "It reacts with carbon dioxide from the air",
       "It cools down",
       "It soaks up sunlight",
+      "It reacts with carbon dioxide from the air",
       "Its water turns to stone"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Lime takes in carbon dioxide and becomes calcium carbonate, the substance of chalk and limestone. This is a chemical reaction.",
      "outcome": 5
     },
@@ -1914,12 +1914,12 @@
      "t": "mcq",
      "p": "A crop takes up half of the urea spread on a field. Where can the other half go?",
      "opts": [
-      "Into ponds, rivers and the air",
       "Back into the bag",
+      "Into ponds, rivers and the air",
       "Into the grain anyway",
       "Nowhere, because it vanishes"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Atoms cannot vanish. Nitrogen that the crop does not take up is washed away by rain or lost to the air as gases.",
      "outcome": 1
     },
@@ -2073,6 +2073,14 @@
      "why": "Short chains boil most easily and rise highest, so LPG leaves at the top. Bitumen has the longest chains and stays at the bottom.",
      "art": "A tall refinery tower with four pipes leaving it at different heights, each with a blank label line.",
      "outcome": 2
+    },
+    {
+     "t": "write",
+     "p": "A made-up cloth factory makes bright cloth cheaply. Its waste water turns a nearby river red. Name one benefit and one cost of this change.",
+     "lines": 4,
+     "a": "Benefit: cheap, bright cloth and jobs for people nearby. Cost: the red water can harm the fish and the people who use the river. A strong answer names both and says what could cut the harm, such as cleaning the water before it goes out.",
+     "why": "Most changes have a benefit and a cost. Good thinking names both before deciding.",
+     "how": "a3"
     }
    ]
   },
@@ -2099,12 +2107,12 @@
      "t": "mcq",
      "p": "A paint stays on in a dry rub but smears when wet. What does this show about its binder?",
      "opts": [
-      "Water softens it again",
       "It is too strong",
+      "Water softens it again",
       "It holds no pigment",
       "It has reacted with air"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The binder holds the pigment while dry, as rice paste does. Water softens it, so it would not last on an outside wall.",
      "outcome": 5,
      "how": "e1"
@@ -2126,12 +2134,12 @@
      "t": "mcq",
      "p": "A factory doubles what it makes, and changes nothing else. What happens to its by-products?",
      "opts": [
-      "They double too",
       "They halve",
       "They stay the same",
+      "They double too",
       "They vanish"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Each batch of product comes with its by-products. Twice the product by the same reactions gives twice the by-products.",
      "outcome": 6
     },
@@ -2261,12 +2269,12 @@
    "t": "mcq",
    "p": "Fertilisers, medicines, fuels and paints are all made in which way?",
    "opts": [
-    "By chemical reactions from raw materials",
     "By digging them up ready-made",
+    "By chemical reactions from raw materials",
     "By picking them from trees",
     "By melting old ones down"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Each is made by changing a raw material into a new substance. The raw material may be air, rock, crude oil or a plant.",
    "outcome": 0
   },
@@ -2274,12 +2282,12 @@
    "t": "mcq",
    "p": "Which of these is a raw material?",
    "opts": [
-    "Crude oil",
     "Petrol",
+    "Crude oil",
     "Paracetamol",
     "Wall paint"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Crude oil is taken from nature as it is. Petrol, paracetamol and wall paint are all products made from raw materials.",
    "outcome": 0
   },
@@ -2300,12 +2308,12 @@
    "t": "mcq",
    "p": "What can happen when too much fertiliser washes into a pond?",
    "opts": [
-    "Algae grow and fish die",
     "The pond freezes over",
     "The water turns salty",
+    "Algae grow and fish die",
     "The fish grow larger"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The extra nitrogen feeds algae. When the algae die and rot, the oxygen in the water is used up, and fish cannot breathe.",
    "outcome": 1
   },
@@ -2313,12 +2321,12 @@
    "t": "mcq",
    "p": "What is a fuel?",
    "opts": [
-    "A substance that gives heat on burning",
     "Any liquid that flows",
     "A gas found only in air",
-    "Any substance with a smell"
+    "Any substance with a smell",
+    "A substance that gives heat on burning"
    ],
-   "a": 0,
+   "a": 3,
    "why": "A fuel stores energy and gives it out as heat when it burns. A fuel can be a gas, a liquid or a solid.",
    "outcome": 2
   },
@@ -2339,12 +2347,12 @@
    "t": "mcq",
    "p": "Which of these medicines was first found in a mould?",
    "opts": [
-    "Penicillin",
     "Quinine",
     "Aspirin",
+    "Penicillin",
     "Artemisinin"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Penicillin comes from the mould Penicillium. Quinine, aspirin and artemisinin each began with a plant.",
    "outcome": 3
   },
@@ -2352,12 +2360,12 @@
    "t": "mcq",
    "p": "Why are new medicines tested on many volunteers before they are sold?",
    "opts": [
-    "To check they work and are safe",
     "To make them taste better",
     "To use up spare tablets",
+    "To check they work and are safe",
     "To give them a colour"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A substance may work in a glass dish and still fail or harm in a body. Only careful tests on many people can show that.",
    "outcome": 3
   },
@@ -2379,12 +2387,12 @@
    "t": "mcq",
    "p": "What does the solvent in a paint do?",
    "opts": [
-    "Makes the paint thin enough to spread",
     "Gives the paint its colour",
     "Sticks the pigment to the wall",
-    "Stops the wall from cracking"
+    "Stops the wall from cracking",
+    "Makes the paint thin enough to spread"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The solvent carries the pigment and the binder, and then evaporates. The pigment gives colour and the binder does the sticking.",
    "outcome": 5
   },
@@ -2407,6 +2415,19 @@
    "a": false,
    "why": "False. In 1828 urea was made in a laboratory from a mineral salt. Today factories make it from air, natural gas and water.",
    "outcome": 7
+  },
+  {
+   "t": "mcq",
+   "p": "A factory makes a fertiliser that raises harvests, but some of it washes into a pond. What is the best way to think about it?",
+   "opts": [
+    "It is all good, because a bigger harvest is all that matters",
+    "Weigh the benefit, the bigger harvest, against the cost, the harm in the pond, and look for ways to cut the harm",
+    "It is all bad, so no farmer should ever use it",
+    "Nothing to weigh, because pond water cleans itself at once"
+   ],
+   "a": 1,
+   "why": "A change can have a benefit and a cost at the same time. The bigger harvest is real, and so is the harm in the pond. Good thinking weighs both and looks for ways to cut the harm.",
+   "outcome": 6
   }
  ],
  "videos": [
@@ -2672,6 +2693,33 @@
    "used_in": [
     "e1"
    ]
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Three Paints: what keeps the colour on the card?, The Crude Oil Ladder: from cooking gas to candle wax. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "a2"
+   ],
+   "plan": "Get it before Three Paints: what keeps the colour on the card?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

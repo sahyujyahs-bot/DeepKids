@@ -1,9 +1,9 @@
 # How animals talk: the messages in barks, purrs and birdsong
 `sci.animal-behaviour.animal-communication.L2`
 
-**Summary.** Can a message get through with only a tune and no words? In this unit you will test it by saying a message as 'la-la' for a friend to guess, hum a purr to feel it in your throat, and act out animal sounds for others to guess what they mean.
+**Summary.** Can a message get through with only a tune and no words? In this lesson you will test it by saying a message as 'la-la' for a friend to guess, hum a purr to feel it in your throat, and act out animal sounds for others to guess what they mean.
 
-**Intro.** *A dog is barking at the gate downstairs. You cannot see the dog. Is the dog saying 'go away', 'let's play' or 'I am lonely'? How could you tell, just by listening?* Animals talk to each other all day. Dogs bark and growl. Cats purr and hiss. Crows caw, koels call and crickets chirp at night. Each sound is a message for someone. In this unit you listen to animal sounds and find out what they mean. Then you test whether a message can get through with no words at all.
+**Intro.** *A dog is barking at the gate downstairs. You cannot see the dog. Is the dog saying 'go away', 'let's play' or 'I am lonely'? How could you tell, just by listening?* Animals talk to each other all day. Dogs bark and growl. Cats purr and hiss. Crows caw, koels call and crickets chirp at night. Each sound is a message for someone. In this lesson you listen to animal sounds and find out what they mean. Then you test whether a message can get through with no words at all.
 
 ## Learning outcomes
 0. By the end I can say what communicating means: one animal sends a message, and another animal notices and changes what they do.
@@ -433,7 +433,7 @@ Rohan looked out of the window at the gate. Rani was asleep under the light. "Ca
 1. (match) Draw a line from each sound to its message.  
    **Answer:** A cat's purr on a lap → I am calm. Stay close.; Low, fast barks at the gate → A stranger is here. Stay back.; Loud caws, and more crows flying in → Danger! A cat is here.; A male koel's 'ku-oo, ku-oo' → I am here.. *Why:* Each sound carries one message. A purr on a lap means calm and close. Low, fast barks warn a stranger. Loud caws call other crows to a danger. A koel's 'ku-oo' says 'I am here'.
 2. (mcq) A dog gives a low, rough growl over a bone. What is the dog most likely saying?  
-   Options: Come and play with me. / This is my bone. Stay away. / I am lost.  
+   Options: This is my bone. Stay away. / Come and play with me. / I am lost.  
    **Answer:** This is my bone. Stay away.. *Why:* A low, rough sound, often with lips pulled back, usually means 'stay away'. A play invitation sounds higher, with gaps, and comes with a play bow.
 3. (truefalse) A dog's bark always means the same thing.  
    **Answer:** False. *Why:* False. Low, rough, fast barks at a stranger mean 'stay back'. Higher barks with gaps, with a play bow, mean 'let's play'. The tune of the bark tells them apart.
@@ -450,11 +450,11 @@ Rohan looked out of the window at the gate. Rani was asleep under the light. "Ca
    **Answer:** purr. *Why:* A purr is made by the voice box, which shakes more than 20 times every second. It goes on while the cat breathes in and while she breathes out.
 9. (perspective) A girl aged 7 lives in Chennai. A street dog barks at her every morning at the gate of her building.  
    **Answer:** A strong answer picks a view and gives a reason, then says what to check: is the bark low and fast, or higher with gaps? Is his tail stiff or loose? Does he stop when she walks past, or follow her to where food is?. *Why:* A bark can mean 'stay back', 'feed me' or 'let's play'. The tune of the bark and the dog's body help to tell them apart.
-10. (write) Someone says, 'Only people can talk. Animals just make noise.' Is that right? Say one thing from this unit that helps you answer.  
+10. (write) Someone says, 'Only people can talk. Animals just make noise.' Is that right? Say one thing from this lesson that helps you answer.  
    **Answer:** It is not quite right. A dog barks differently at a stranger and in play, and the watchman comes. Vervet monkeys have a different call for each danger.. *Why:* A strong answer uses one example where an animal's sound carries a message that others act on. It may also say that humans are animals too.
 ### Songs, Calls and Purrs (stretch) (stretch, 10 questions)
 1. (mcq) Which of these is a bird's song, not a call?  
-   Options: A sharp 'chip!' as a cat comes near / A long tune sung again and again from the same rooftop every morning / A quick 'tik' as a bird flies off  
+   Options: A sharp 'chip!' as a cat comes near / A quick 'tik' as a bird flies off / A long tune sung again and again from the same rooftop every morning  
    **Answer:** A long tune sung again and again from the same rooftop every morning. *Why:* A song is long and repeated, often from the same place, and says 'this is my place' or 'choose me'. Short single sounds, like 'chip' or 'tik', are calls.
 2. (truefalse) In many kinds of songbirds, the females sing as well as the males.  
    **Answer:** True. *Why:* True. In 2014 Karan Odom and her team found that in most of the kinds of songbirds they could check, females sing too.
@@ -479,7 +479,7 @@ Rohan looked out of the window at the gate. Rani was asleep under the light. "Ca
 1. (write) Many animals use low, rough sounds to say 'stay away'. Why might a low sound help an animal seem bigger and stronger?  
    **Answer:** Big animals and big drums make low sounds. So a low growl makes an animal sound bigger than they are, and others keep away.. *Why:* A strong answer links low pitch with big size: bigger bodies make deeper sounds, so a low sound is a way of sounding big.
 2. (mcq) In the la-la test, a sender makes the 'Go away!' la-la high and squeaky. What will the listener most likely guess?  
-   Options: Help, I'm scared! / Go away! / The listener will always get it right anyway  
+   Options: Go away! / Help, I'm scared! / The listener will always get it right anyway  
    **Answer:** Help, I'm scared!. *Why:* High, shaky sounds usually mean fear or 'help'. A 'go away' message is usually low and rough. So the listener will probably guess 'scared'.
 3. (perspective) Two people argue about whether animal calls are like words.  
    **Answer:** A strong answer picks a side with evidence, such as the vervets running up trees only at the leopard call. Then it gives the other side its due: people can say endless new things, and no monkey has been shown to do that.. *Why:* Scientists still argue about this. Vervet calls name the kind of danger, which is a bit like a word. But human language puts words together in endless new ways.
@@ -495,7 +495,7 @@ Rohan looked out of the window at the gate. Rani was asleep under the light. "Ca
    Options: To hide from birds / The leaf makes his song louder / To eat the leaf while he sings  
    **Answer:** The leaf makes his song louder. *Why:* The sound from the front of his wings and the sound from the back would cancel each other out. The leaf keeps the two apart. So the song is much louder and can be heard from farther away.
 9. (mcq) In the la-la test, why were the slips mixed in a bowl before the sender picked one?  
-   Options: So the listener could not guess the order of the messages / So the slips would not get lost / So the sender could read them more easily  
+   Options: So the slips would not get lost / So the listener could not guess the order of the messages / So the sender could read them more easily  
    **Answer:** So the listener could not guess the order of the messages. *Why:* If the slips were in a fixed order, the listener could guess the next message without listening to the tune. Mixing them makes the test fair.
 10. (write) A mother hen clucks, and her chicks run to her. Who is the sender? What is the signal? Who is the receiver? Say it, and a grown-up can write it.  
    **Answer:** The hen is the sender. The cluck is the signal. The chicks are the receivers, because they notice it and run to her.. *Why:* A strong answer names all three and says that the receiver does something because of the signal.
@@ -507,34 +507,34 @@ Rohan looked out of the window at the gate. Rani was asleep under the light. "Ca
 
 ## Quiz
 1. (mcq) What does it mean when an animal communicates?  
-   Options: They send a message, and another animal notices and acts on the message. / They make a noise by accident. / They eat together.  
+   Options: They make a noise by accident. / They send a message, and another animal notices and acts on the message. / They eat together.  
    **Answer:** They send a message, and another animal notices and acts on the message.. *Why:* Communicating needs a sender and a receiver. The signal changes what the receiver does, like crows flying up at an alarm call.
 2. (mcq) Which of these is a message sent with the body, not with a sound?  
-   Options: A cat purring / A dog doing a play bow, front legs down and back end up / A crow cawing  
+   Options: A cat purring / A crow cawing / A dog doing a play bow, front legs down and back end up  
    **Answer:** A dog doing a play bow, front legs down and back end up. *Why:* A play bow is a body signal that others see. Purring and cawing are sounds.
 3. (mcq) How does a cat make a purr?  
-   Options: By clicking her teeth together / Her voice box vibrates very fast as she breathes in and out / Her tummy rumbles after food  
+   Options: By clicking her teeth together / Her tummy rumbles after food / Her voice box vibrates very fast as she breathes in and out  
    **Answer:** Her voice box vibrates very fast as she breathes in and out. *Why:* A purr comes from the voice box, which shakes more than 20 times every second, while the cat breathes in and while she breathes out. That is why you can feel it.
 4. (mcq) A cat is purring while her paw is hurt. What does this tell you?  
-   Options: A purr can mean more than 'I am happy'. / The cat is happy to be hurt. / Only kittens purr.  
+   Options: The cat is happy to be hurt. / Only kittens purr. / A purr can mean more than 'I am happy'.  
    **Answer:** A purr can mean more than 'I am happy'.. *Why:* Cats purr when hurt or frightened too. You read a purr with the rest of the cat and with what is happening.
 5. (mcq) Which sound is a bird's alarm call?  
    Options: A long tune at sunrise from a rooftop / A sharp, loud cry when a cat comes near the nest / A loud 'ku-oo' again and again from a tree  
    **Answer:** A sharp, loud cry when a cat comes near the nest. *Why:* An alarm call is short and sharp and warns of danger. A long tune is a song, and 'ku-oo' is a koel's call to say 'I am here'.
 6. (mcq) In many kinds of songbirds, who sings?  
-   Options: Only the males / Only the females / Both females and males  
+   Options: Only the males / Both females and males / Only the females  
    **Answer:** Both females and males. *Why:* In most kinds of songbirds that scientists checked, females sing as well as males.
 7. (mcq) A cat puffs up her fur and hisses with a rough sound. What is she most likely saying?  
-   Options: Stay away from me! / Please feed me. / I am sleepy.  
+   Options: Please feed me. / Stay away from me! / I am sleepy.  
    **Answer:** Stay away from me!. *Why:* Rough sounds and a puffed-up body usually mean 'stay away'. Puffed fur also makes her look bigger.
 8. (mcq) Which kind of sound more often means 'I am friendly' or 'help me'?  
-   Options: A high, soft sound / A low, rough sound / Any sound, it makes no difference  
+   Options: A low, rough sound / Any sound, it makes no difference / A high, soft sound  
    **Answer:** A high, soft sound. *Why:* In many birds and mammals, high, soft sounds go with being friendly or scared, and low, rough sounds go with 'stay away'.
 9. (mcq) A male cricket chirps all night in a potted plant. How does he make the sound?  
-   Options: With his voice box / By rubbing one wing against the other / By stamping his feet  
+   Options: With his voice box / By stamping his feet / By rubbing one wing against the other  
    **Answer:** By rubbing one wing against the other. *Why:* One wing has a row of tiny ridges and the other has a scraper. Rubbing them together makes the chirp.
 10. (mcq) In the la-la test, why did the sender hide behind a door?  
-   Options: So the listener could not see the face or hands, and only the sound could help / So the sound would be louder / So the sender could read the slips more easily  
+   Options: So the sound would be louder / So the sender could read the slips more easily / So the listener could not see the face or hands, and only the sound could help  
    **Answer:** So the listener could not see the face or hands, and only the sound could help. *Why:* A face can give the answer away. Hiding makes sure the test is only about the sound.
 11. (mcq) Your listener got 10 out of 12 right in the la-la test. What does this show?  
    Options: The tune of a sound can carry a message, even with no words. / 'La-la' is a real word. / The listener could see you.  
@@ -547,13 +547,13 @@ Rohan looked out of the window at the gate. Rani was asleep under the light. "Ca
 - Farmers who keep hens and cows learn their animals' calls, and can hear when a hen has seen a hawk or a calf is hungry.
 
 ## Spotted around us
-- Male koels calling 'ku-oo, ku-oo' again and again from trees in Chennai and Kochi in the hot months before the monsoon.
-- House crows gathering and cawing loudly at a cat on a wall in Kolkata, until the cat walks away.
-- A house gecko going 'tchk-tchk-tchk' on a wall near a tube light at night in Thiruvananthapuram.
-- Street dogs in Pune howling together when an ambulance siren goes past.
-- A peacock giving his loud 'may-awe' call from a rooftop in Jaipur during the rains.
-- Pigeons on a balcony in Mumbai, a male puffing up his neck, bowing and cooing at a female.
-- Crickets chirping at night from potted plants and drains in Guwahati after rain.
+- Male koels calling 'ku-oo, ku-oo' again and again from trees in the hot months before the monsoon.
+- House crows gathering and cawing loudly at a cat on a wall, until the cat walks away.
+- A house gecko going 'tchk-tchk-tchk' on a wall near a tube light at night.
+- Street dogs howling together when an ambulance siren goes past.
+- A peacock giving his loud 'may-awe' call from a rooftop during the rains.
+- Pigeons on a balcony, a male puffing up his neck, bowing and cooing at a female.
+- Crickets chirping at night from potted plants and drains after rain.
 
 ## Open questions
 - **Why do cats purr when they are hurt?** Some scientists think the purr calms the cat. Some think the buzz might help the body heal. Nobody has shown which is true.
@@ -592,11 +592,13 @@ Who Is Calling? (sci.animal-behaviour.L2): Topic-level song for Animal behaviour
 - [xeno-canto: bird sounds from around the world](https://xeno-canto.org/) · interactive: For the parent: search for 'Asian koel' or 'Oriental magpie-robin' and play real recordings, including the female koel's call.
 - [Macaulay Library](https://www.macaulaylibrary.org/) · interactive: For the parent: a huge library of animal sounds and videos, including Indian birds and frogs.
 - [Merlin Bird ID](https://merlin.allaboutbirds.org/) · interactive: For the parent: a free phone app that can suggest which bird is singing near you.
-- [Ranganathittu Bird Sanctuary]() · place · Srirangapatna, near Mysuru: Islands in the Kaveri full of nesting birds, painted storks and herons, all calling to each other.
-- [Vedanthangal Bird Sanctuary]() · place · Chengalpattu district, near Chennai: One of India's oldest bird sanctuaries, loud with nesting water birds in the winter months.
-- [Kumarakom Bird Sanctuary]() · place · Kottayam, Kerala: A wetland by Vembanad Lake, where you can stand still and listen to many birds at once.
+- Ranganathittu Bird Sanctuary · place · Srirangapatna, near Mysuru: Islands in the Kaveri full of nesting birds, painted storks and herons, all calling to each other.
+- Vedanthangal Bird Sanctuary · place · Chengalpattu district, near Chennai: One of India's oldest bird sanctuaries, loud with nesting water birds in the winter months.
+- Kumarakom Bird Sanctuary · place · Kottayam, Kerala: A wetland by Vembanad Lake, where you can stand still and listen to many birds at once.
 
 ## Things to buy
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Messages Without a Voice: be a cricket and a woodpecker, Be a Tree Cricket: make a phone louder with no electricity. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in a2, c1. Get it before Messages Without a Voice: be a cricket and a woodpecker.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is the soft buzzing sound a cat makes on your lap called? → A purr.

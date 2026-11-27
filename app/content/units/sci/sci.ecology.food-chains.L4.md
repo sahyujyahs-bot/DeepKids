@@ -1,9 +1,9 @@
 # The Sun on your plate: where the energy of a food chain goes
 `sci.ecology.food-chains.L4`
 
-**Summary.** The energy in your lunch started as sunlight. Where does it go when you eat it? In this unit you will burn a peanut to catch some of its energy, draw pyramids of numbers, weight and energy, and find the level of your own lunch.
+**Summary.** The energy in your lunch started as sunlight. Where does it go when you eat it? In this lesson you will burn a peanut to catch some of its energy, draw pyramids of numbers, weight and energy, and find the level of your own lunch.
 
-**Intro.** *Put the back of your hand on your forehead. Feel how warm you are? Where did that warmth come from, and where is it going now?* Your body stays warm all the time, at about 37 degrees. Nobody lit a fire inside you. The warmth comes from your last meal. That meal was a plant, or an animal who ate plants, and the plants caught light from the Sun. Now that warmth is leaving your forehead and spreading into the room. In this unit you will follow the Sun's energy along a food chain, and find out what happens to it at every step. You will also meet a chain in the mud that starts with a dead leaf.
+**Intro.** *Put the back of your hand on your forehead. Feel how warm you are? Where did that warmth come from, and where is it going now?* Your body stays warm all the time, at about 37 degrees. Nobody lit a fire inside you. The warmth comes from your last meal. That meal was a plant, or an animal who ate plants, and the plants caught light from the Sun. Now that warmth is leaving your forehead and spreading into the room. In this lesson you will follow the Sun's energy along a food chain, and find out what happens to it at every step. You will also meet a chain in the mud that starts with a dead leaf.
 
 ## Learning outcomes
 0. I can explain that a food chain is a path for energy that begins with sunlight caught by producers, and name the trophic levels along it.
@@ -459,13 +459,13 @@ And she tied a fresh bag to the stake, to see what the new leaves would bring.
    Options: A living being who makes her own food, using light or chemicals / An animal who eats plants / A fungus who feeds on dead leaves  
    **Answer:** A living being who makes her own food, using light or chemicals. *Why:* A producer starts the food chain by making food herself. A plant uses sunlight to make sugar. An animal who eats plants is a consumer, and a fungus who feeds on dead matter is a decomposer.
 2. (mcq) In the food chain rice plant, grasshopper, frog, snake, which trophic level is the frog?  
-   Options: Level 3 / Level 2 / Level 4  
+   Options: Level 2 / Level 3 / Level 4  
    **Answer:** Level 3. *Why:* Counting from the producers, the rice plant is level 1, the grasshopper is level 2 and the frog is level 3. The snake is level 4.
 3. (mcq) What does the arrow in a food chain show?  
-   Options: The way the energy goes, from the food to the eater / Which animal is stronger / Which animal eats first  
+   Options: Which animal is stronger / The way the energy goes, from the food to the eater / Which animal eats first  
    **Answer:** The way the energy goes, from the food to the eater. *Why:* The arrow points from the eaten to the eater, because it shows the way the energy moves. Some children read the arrow as 'eats', and then they draw it pointing the wrong way.
 4. (mcq) An animal eats a lot of food. Where does most of the energy in that food end up?  
-   Options: As heat, made when her cells use food to run her body / As new body, so she grows a lot / In the air as light  
+   Options: As new body, so she grows a lot / As heat, made when her cells use food to run her body / In the air as light  
    **Answer:** As heat, made when her cells use food to run her body. *Why:* Most of the energy is used by cells for movement, repair and keeping warm. That use is respiration, and it ends as heat. Only a small part becomes new body.
 5. (truefalse) A mushroom is a decomposer who eats living plants.  
    **Answer:** False. *Why:* False. A mushroom is a fungus who digests dead matter outside her body and soaks up the food. Most mushrooms you see around the home grow on rotting wood or soil.
@@ -493,13 +493,13 @@ And she tied a fresh bag to the stake, to see what the new leaves would bring.
    **Answer:** Grasshopper, because she eats living plants. The other three are decomposers who feed on dead matter.. *Why:* Mushrooms, moulds and compost bacteria digest dead matter. A grasshopper is a consumer who eats living leaves.
 ### Pyramids, Levels and Heat (stretch) (stretch, 16 questions)
 1. (mcq) Why can the pyramid of numbers for a banyan tree be wide in the middle?  
-   Options: One big tree can feed thousands of small animals / The tree is not a producer / The insects are bigger than the tree  
+   Options: The tree is not a producer / The insects are bigger than the tree / One big tree can feed thousands of small animals  
    **Answer:** One big tree can feed thousands of small animals. *Why:* One banyan has an enormous amount of leaf, so she can feed very many small animals. The count at the bottom is only one, so the pyramid of numbers is not shaped like a pyramid. Pyramids of biomass and energy would have a wide base.
 2. (mcq) At any one moment in the open sea, the tiny algae weigh less than the tiny animals who eat them. Why is the energy pyramid still wide at the bottom?  
    Options: The algae divide so quickly that they make far more food energy over a year / Algae are heavier than animals / The animals do not need food  
    **Answer:** The algae divide so quickly that they make far more food energy over a year. *Why:* The algae are eaten almost as fast as they grow, so at one moment their weight is small. But they replace themselves every day or two, so over a year they make much more energy than the animals above.
 3. (mcq) A hen and a fish weigh the same. Why does the fish turn a larger share of her food into new body?  
-   Options: The hen is warm-blooded and uses most of her food to keep warm / Fish eat more than hens / Hens do not respire  
+   Options: Fish eat more than hens / The hen is warm-blooded and uses most of her food to keep warm / Hens do not respire  
    **Answer:** The hen is warm-blooded and uses most of her food to keep warm. *Why:* Warm-blooded animals make heat all the time to stay warm. That uses most of their food. A fish stays close to the water's temperature, so more of her food can become body.
 4. (mcq) A crow eats half grain and fruit, which are level 1, and half insects, which are level 2. What is her level?  
    Options: 2.5 / 1.5 / 3  
@@ -533,7 +533,7 @@ And she tied a fresh bag to the stake, to see what the new leaves would bring.
    Options: Chemicals from the vent, such as hydrogen sulfide / Sunlight that sinks from the top / Leaves that fall from land  
    **Answer:** Chemicals from the vent, such as hydrogen sulfide. *Why:* The bacteria use the energy in chemicals from the vent, a process called chemosynthesis. No sunlight reaches that depth. Their food chain starts with chemical energy from inside the Earth.
 2. (mcq) Why do ecologists measure heavy nitrogen in an animal's body?  
-   Options: Its heavy kind builds up a little at each step up the food chain, so it shows her level / It shows how old she is / It shows how fast she can run  
+   Options: It shows how old she is / Its heavy kind builds up a little at each step up the food chain, so it shows her level / It shows how fast she can run  
    **Answer:** Its heavy kind builds up a little at each step up the food chain, so it shows her level. *Why:* The heavy kind of nitrogen builds up a little at every step. By measuring it, scientists can tell what level an animal has fed at over a long time, even if they never saw her eat.
 3. (mcq) In a forest, grazing animals eat only a small share of the leaves while they are alive. What happens to the rest?  
    Options: It falls and is eaten as dead matter by detritivores and decomposers / It is lost and no one ever uses it / It turns straight into soil without any living being  
@@ -580,31 +580,31 @@ And she tied a fresh bag to the stake, to see what the new leaves would bring.
    Options: Only a small part becomes new body that the next eater can use / Nearly all of it becomes new body / None of it becomes heat  
    **Answer:** Only a small part becomes new body that the next eater can use. *Why:* Most of the food is used by cells and ends as heat. A small part grows the body, and some leaves as dung. So the next eater gets only a small part.
 3. (mcq) Why do hunters at the top of a food chain need a large area to live in?  
-   Options: Little energy reaches the top, so many levels of plants and animals are needed beneath them / They like to walk far / Plants grow slowly near hunters  
+   Options: They like to walk far / Little energy reaches the top, so many levels of plants and animals are needed beneath them / Plants grow slowly near hunters  
    **Answer:** Little energy reaches the top, so many levels of plants and animals are needed beneath them. *Why:* Each step loses most of the energy. A hunter needs the food of many levels below her, so she needs a large area with a lot of plants.
 4. (mcq) A pyramid of numbers for one oak tree and the insects living on her is wide in the middle. What does this show?  
-   Options: Counting beings can hide how much a big producer gives / The oak is not a producer / Insects weigh more than the oak  
+   Options: The oak is not a producer / Counting beings can hide how much a big producer gives / Insects weigh more than the oak  
    **Answer:** Counting beings can hide how much a big producer gives. *Why:* A single tree can feed thousands of insects. Counting gives one at the bottom, so the shape looks odd. A pyramid of energy would be wide at the bottom.
 5. (mcq) A warm-blooded hunter and a cold-blooded hunter eat the same weight of food. Who makes more new body?  
-   Options: The cold-blooded hunter, because the warm-blooded one spends more food on keeping warm / The warm-blooded hunter, because she is bigger / They make the same amount  
+   Options: The warm-blooded hunter, because she is bigger / The cold-blooded hunter, because the warm-blooded one spends more food on keeping warm / They make the same amount  
    **Answer:** The cold-blooded hunter, because the warm-blooded one spends more food on keeping warm. *Why:* Keeping the body warm uses a lot of food and ends as heat. Cold-blooded animals do less of this, so more of their food can become body.
 6. (mcq) What is detritus?  
-   Options: Dead leaves, wood, dung and dead bodies, broken into pieces / Only the soil under a tree / A kind of living fungus  
+   Options: Only the soil under a tree / A kind of living fungus / Dead leaves, wood, dung and dead bodies, broken into pieces  
    **Answer:** Dead leaves, wood, dung and dead bodies, broken into pieces. *Why:* Detritus is the dead matter that detritivores and decomposers eat. Soil is not only detritus, and a fungus is a living decomposer.
 7. (mcq) In a mangrove creek, why would cutting the trees reduce the number of prawns?  
    Options: Fewer leaves fall, so there is less food at the start of the dead-leaf chain / Prawns eat the trees directly / The water becomes colder  
    **Answer:** Fewer leaves fall, so there is less food at the start of the dead-leaf chain. *Why:* Fallen leaves feed crabs and small animals, which feed prawns. Cutting the trees cuts the supply of leaves, so each level below the prawns has less food.
 8. (mcq) What happens to the atoms in a dead leaf?  
-   Options: Decomposers and other eaters pass them on, and they return to the soil, water and air / They disappear / They are turned into energy and leave as light  
+   Options: They disappear / Decomposers and other eaters pass them on, and they return to the soil, water and air / They are turned into energy and leave as light  
    **Answer:** Decomposers and other eaters pass them on, and they return to the soil, water and air. *Why:* Atoms are not destroyed. They move from leaf to fungus to animal and back to the air and soil. They are used again and again.
 9. (mcq) Which statement about energy and atoms is correct?  
    Options: Atoms go round and round, but energy flows through and leaves as heat / Energy goes round and atoms leave / Both stay inside living things for ever  
    **Answer:** Atoms go round and round, but energy flows through and leaves as heat. *Why:* Atoms are used again and again. Energy arrives as light and leaves as heat, so life needs a fresh supply of sunlight every day.
 10. (mcq) Why must a fair test of burning peanuts use the same amount of water and the same height for the tin?  
-   Options: So that only one thing changes and any difference comes from that one thing / So that the nuts burn faster / So that the flame is bigger  
+   Options: So that the nuts burn faster / So that only one thing changes and any difference comes from that one thing / So that the flame is bigger  
    **Answer:** So that only one thing changes and any difference comes from that one thing. *Why:* A fair test changes one thing at a time. If the water or the height changes too, we cannot tell which change caused the different result.
 11. (mcq) The water over a burning nut caught only a quarter of the nut's energy. Which statement is the best explanation?  
-   Options: The rest of the heat warmed the air, the tin and the smoke / A nut holds less energy than the label says / Three quarters of the energy was destroyed  
+   Options: A nut holds less energy than the label says / Three quarters of the energy was destroyed / The rest of the heat warmed the air, the tin and the smoke  
    **Answer:** The rest of the heat warmed the air, the tin and the smoke. *Why:* Energy is not destroyed. The rest of the heat spread into the air and the tin, so the water could not catch it all. This is a small version of the loss at every step of a food chain.
 12. (mcq) Scientists disagree about whether plants from below or hunters from above run a food web. What is the best way to settle it?  
    Options: Measure plants, grazers and hunters in many places and compare them / Ask the oldest scientist / Choose the view that most people like  
@@ -630,7 +630,7 @@ And she tied a fresh bag to the stake, to see what the new leaves would bring.
 - A mushroom pushing up from a rotting log or from damp soil after rain.
 - Egrets walking behind a grazing buffalo and snapping up the insects the buffalo disturbs.
 - Dung beetles rolling a ball of cow dung along a path.
-- A Chinese fishing net lowered into the backwaters near Kochi, with gulls and kites waiting for the catch.
+- A big fishing net lowered into the water from the shore, with gulls and kites waiting for the catch.
 - A spider's web in a corner of a window, with a dried fly in it.
 - The warmth of a compost bin or a steel dabba of leftover food sitting in the sun.
 
@@ -687,6 +687,17 @@ Everybody Eats (sci.ecology.L4): Topic-level song
 ## Things to buy
 - [A digital cooking thermometer with a probe](https://www.amazon.in/s?k=digital+cooking+thermometer+probe) (tool): For the Peanut test and the Warm Seeds test. It costs about Rs 150 to 300. The Peanut test needs a reading to one degree or better up to 100 degrees. A school lab thermometer from a stationery or lab shop is a cheaper choice. Warm Seeds only needs a room or aquarium thermometer that reads 0 to 50 degrees. A body thermometer will not do, because it reads only up to 42 degrees. You could also borrow one from a neighbour or school. Used in e1, e2. 
 - [A small magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): For the funnel trap, to see tiny animals. It costs about Rs 30 to 80. A phone camera with zoom can also help. Used in a2. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in A Peanut Full of Sunshine: how much of a bite's energy can you catch?, Pyramid Strips: numbers, weight and energy, A Day of Food, Traced Back to the Sun. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a1, p1. Get it before A Peanut Full of Sunshine: how much of a bite's energy can you catch?.
+- [Small torch bulbs or LEDs with a holder](https://www.amazon.in/s?k=torch+bulb+holder+set) (tool): Used in Who lives in the dead leaves? A funnel trap for tiny animals. About ₹10 to ₹50. A small torch can be taken apart for its bulb. Used in a2. Get it before Who lives in the dead leaves? A funnel trap for tiny animals.
+- [A small funnel](https://www.amazon.in/s?k=small+plastic+funnel) (tool): Used in Who lives in the dead leaves? A funnel trap for tiny animals. About ₹20 to ₹50. The top of a cut plastic bottle works. Used in a2. Get it before Who lives in the dead leaves? A funnel trap for tiny animals.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in A Peanut Full of Sunshine: how much of a bite's energy can you catch?. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in e1. Get it before A Peanut Full of Sunshine: how much of a bite's energy can you catch?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Warm Seeds: do living things give off heat?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e2. Get it before Warm Seeds: do living things give off heat?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Warm Seeds: do living things give off heat?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e2. Get it before Warm Seeds: do living things give off heat?.
+- [A kitchen or weighing scale](https://www.amazon.in/s?k=digital+kitchen+weighing+scale) (tool): Used in A Peanut Full of Sunshine: how much of a bite's energy can you catch?. About ₹300 to ₹700. A home-made balance from a ruler and two cups can compare weights. Used in e1. Get it before A Peanut Full of Sunshine: how much of a bite's energy can you catch?.
+- [A measuring jug or syringe (marked in millilitres)](https://www.amazon.in/s?k=measuring+jug+500+ml) (tool): Used in A Peanut Full of Sunshine: how much of a bite's energy can you catch?. About ₹30 to ₹100. A clean medicine cup or marked bottle works. Used in e1. Get it before A Peanut Full of Sunshine: how much of a bite's energy can you catch?.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Who lives in the dead leaves? A funnel trap for tiny animals. About ₹30 to ₹60. Newspaper cut into strips also works. Used in a2. Get it before Who lives in the dead leaves? A funnel trap for tiny animals.
+- [Iron nails or iron filings](https://www.amazon.in/s?k=iron+filings+science) (material): Used in A Peanut Full of Sunshine: how much of a bite's energy can you catch?. About ₹20 to ₹80. Short steel nails from a hardware shop. Used in e1. Get it before A Peanut Full of Sunshine: how much of a bite's energy can you catch?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What do we call a living being who makes her own food from light? → A producer.

@@ -1,9 +1,9 @@
 # What we need to live: air, water, food, clothes and a home
 `sci.basic-needs.basic-needs.L1`
 
-**Summary.** You take a breath every few seconds and never stop. Why? In this unit you will count the five things every person needs, build a small wind box from a box and a tissue, and find which way its door must face to keep the air calm.
+**Summary.** You take a breath every few seconds and never stop. Why? In this lesson you will count the five things every person needs, build a small wind box from a box and a tissue, and find which way its door must face to keep the air calm.
 
-**Intro.** *Think of a baby, a grandmother and a crow at the window. What does each one need every single day?* Say your guesses out loud first. Then count them on your fingers. In this unit we find the five things every person needs: air, water, food, clothes and a home. We find out why we need some of them every few seconds and some only a few times a day. And we build a little home from a box, put it in front of a fan, and test which way its door should face.
+**Intro.** *Think of a baby, a grandmother and a crow at the window. What does each one need every single day?* Say your guesses out loud first. Then count them on your fingers. In this lesson we find the five things every person needs: air, water, food, clothes and a home. We find out why we need some of them every few seconds and some only a few times a day. And we build a little home from a box, put it in front of a fan, and test which way its door should face.
 
 ## Learning outcomes
 0. By the end I can name the five basic needs: air, water, food, clothes and a home.
@@ -16,6 +16,7 @@
 ## Terms
 - **Basic needs**: Basic needs are the things every person must have to live and stay well: air, water, food, clothes and a home. *e.g.* A baby, a grandmother and a cricketer all have the same five basic needs.
 - **Shelter**: A shelter is a place that keeps you safe from sun, rain, cold and wind. A home is a shelter. *e.g.* When it rains, a bus stop with a roof is a shelter.
+- **Stranger**: A stranger is a person you and your family do not know. Most people are kind, but a child should not go anywhere with a stranger. *e.g.* A man you have never met offers you a sweet at the bus stand. You say no and stay near your mother.
 - **Wind**: Wind is air that is moving. We cannot see air, but we can see what wind moves. *e.g.* A fan makes a wind. It flaps the pages of a book on the table.
 - **Fresh air**: Fresh air is clean air coming in from outside. Used air goes out through windows and doors. *e.g.* Opening the window in the morning lets fresh air into the bedroom.
 
@@ -27,6 +28,8 @@ Three of them we take inside our bodies: air, water and food. Two of them stay o
 - e.g. A newborn baby drinks milk. Milk gives the baby both food and water.
 - e.g. A fisher family at sea near Kochi takes drinking water on the boat. Sea water is too salty to drink.
 - e.g. A woman soldier in the snow of Ladakh needs thick clothes and a warm tent.
+- **Scientists:** Every living human needs air, water and food. Clothes and homes are needed in many places, but people in warm places live with little of both.
+- **Indian saying:** 'Roti, kapda aur makaan': food, clothing, shelter. Many families add health and school to this list.
 ### We need air, water and food again and again · *defined*
 **Definition:** Our body keeps using up air, water and food, so we must take them in again and again.
 
@@ -34,13 +37,31 @@ Your body uses air all the time, so you breathe every few seconds, even in your 
 - e.g. After running, you breathe faster and feel thirsty.
 - e.g. On a hot day in Chennai, you sweat and need more water.
 - e.g. After a long game of kho-kho, you feel hungry.
+- **Ayurveda:** Teaches three pillars of life: food (ahara), sleep (nidra) and moderation (brahmacharya). Sleep counts as a need as strong as food.
+- **Biologists:** Tardigrades, tiny animals, can dry out and live for years with almost no water, until rain comes. So the need for water can be paused, though not forever.
 ### Clothes and a home keep us safe · *defined*
 **Definition:** Clothes and a home protect our bodies from sun, rain, cold, wind, insects and dirt.
 
-Your skin can burn in strong sun and get very cold in wind and rain. A cap and loose cotton clothes shade you from the sun, and a sweater keeps you warm. A home has a roof for rain and sun, walls for wind, and windows that let fresh air in.
+Your skin can burn in strong sun and get very cold in wind and rain. A cap and loose cotton clothes shade you from the sun, and a sweater keeps you warm. A home has a roof for rain and sun, walls for wind, and windows that let fresh air in. Clothes are not all the same. A boy may wear a shirt and shorts, a kurta and pyjama, or a school uniform. A girl may wear a frock, a salwar kameez, or the same school uniform. Each piece does a job: a cap shades your head, a sweater keeps you warm, a raincoat keeps you dry and chappals protect your feet from hot ground.
 - e.g. Farmers in the fields of Andhra Pradesh often tie a cotton towel around their heads to keep off the sun.
 - e.g. In Shillong in winter, people wear woollen shawls and caps.
 - e.g. Houses in rainy Kerala often have sloping roofs, so rain runs off.
+- **People of different lands:** The Inuit made fur parkas for deep cold, while people of hot India wore thin cotton. What 'enough' covering means depends on the climate.
+- **Other animals:** Birds weave nests, hermit crabs borrow shells, and bees build wax homes. Many animals make or find shelter.
+### The rooms of a home and their work · *defined*
+**Definition:** A room is a part of a home with its own work, such as cooking, sleeping or washing.
+
+Think of your own home and walk through it in your mind. In the kitchen, food is cooked and washed. In the bedroom, you sleep and rest. In the bathroom, you wash and clean your teeth. In the living room, the family sits, talks and welcomes guests. Each room has one main work, so each need is looked after in its own place.
+- e.g. At dinner time in a flat in Pune, Amma cooks in the kitchen, and the family eats together in the living room.
+- e.g. After play, a child in Lucknow washes hands and feet in the bathroom before going to the bedroom to sleep.
+- **Families with one room:** Many families live in a single room. They cook in one corner, sleep on mats in another and wash outside. The work is the same, and the corner does the job of the room.
+### Staying safe at home and outside · *defined*
+**Definition:** Staying safe means knowing what can hurt us and what to do so that we do not get hurt.
+
+At home, hot things like the stove, a pan or a kettle can burn you, so let a grown-up handle them. Do not touch electric sockets or wires. Keep medicines and cleaning liquids with a grown-up, because they can make you ill. Outside, hold a grown-up's hand when you cross a road, and look both ways. In a market, a bus or a railway station, stay close to your family. Never go with a stranger, who is a person you and your family do not know. If you feel lost, go to a shopkeeper or a policewoman and say your name and your parent's phone number.
+- e.g. Meena in Jaipur waits for Papa before she crosses the busy road to the sweet shop.
+- e.g. Ravi gets lost in a crowded mela in Pushkar. He stands still near a shop, tells the shopkeeper his name, and she calls his mother.
+- **A child's own feelings:** If anything or anyone makes you feel scared or unsafe, you may say no and tell a grown-up you trust. Being safe is your right, and a good grown-up will listen.
 ### A wall makes calm air behind it · *defined*
 **Definition:** When wind meets a wall, the moving air cannot go through, so it flows around and over it. Behind the wall, the air is calm.
 
@@ -48,6 +69,8 @@ Wind is air that is moving. A wall is in the way of the wind, so the air cannot 
 - e.g. On a windy beach, people sit beside a boat, on the side away from the wind.
 - e.g. Farmers plant rows of trees along the edge of a field to slow the wind. These rows are called windbreaks.
 - e.g. A pigeon sits beside a water tank, on the side away from the wind.
+- **Everyday observers:** Stand behind a wall and the wind feels gentle. It seems that the wall stops the air.
+- **Engineers who test buildings:** Wind tunnel tests show that air swirls into eddies behind a building. Some spots are calm and others have gusts. A windbreak made of trees works better than a solid wall because it slows the air without making swirls.
 ### Other living beings have needs too · *defined*
 **Definition:** All animals need air, water and food, and many need a shelter. Plants need air, water and light. Humans are animals, so we share these needs.
 
@@ -55,6 +78,8 @@ A crow drinks from a bowl on the balcony on a hot day. A pigeon builds a nest on
 - e.g. A cat curls up in a warm, dry corner to sleep.
 - e.g. A crow chooses a shady branch at noon in summer.
 - e.g. Ants carry their young to a drier place when their nest gets wet.
+- **The Jain tradition:** Teaches that every being with life (jiva) wants to live, from humans to plants, which have one sense. This is the reason for ahimsa, doing no harm.
+- **Biologists:** Find that all life needs energy, water and a way to take in materials. Some microbes near deep-sea vents need no sunlight and no oxygen. So needs are shared, yet differ in detail.
 
 ## Mostly agreed
 - Every person needs air, water and food to stay alive, and clothes and a home to stay safe and well. *How we know:* Doctors everywhere agree. People who go without air, water or food become ill quickly and can die.
@@ -154,11 +179,61 @@ Kiran thought about this. Then he filled the steel lid of the water bottle and s
 
 Later, the stars came out over the sea. The pigeon was still on her calm ledge. And the whole family sat in their calm little tent, with the door wide open.
 
-**For the parent:** Lasya finds calm air behind the water tank, on the side away from the sea wind, where a pigeon is sitting. She turns the tent so its closed back faces the wind, and the tent goes calm even with the door open.
 
-- Ask: Why did the wind rush into the tent at first?
-- Ask: How did the pigeon help Lasya?
-- Ask: What five things did Kiran count on his fingers?
+## Another story: The Shawl Has No Fire
+**
+
+My name is Dolma. I am nine, and I live with my family on the Changthang, a high, cold plain in Ladakh. We are Changpa. We move with our goats, sheep and yaks from one grassland to the next. In winter we live in a rebo, a tent woven from yak hair. It is black, and it smells of smoke and animals, and on windy nights it shakes and creaks all around us.
+
+Up here, the air is thin. When a visitor came from Chennai last summer, he had to sit down after walking up a small slope. "There's no air here," he gasped. There is air. There is just less of it in every breath. My little brother laughed at him, and Ama told him off, and then she gave the man butter tea and let him rest in our tent.
+
+This story happened at the end of winter, when the nights are still far below freezing. That evening the wind was blowing snow sideways. Our goats were crowded together in their stone pen beside the tent. I was nearly asleep when I heard Karmo, our oldest goat, crying in a strange high voice.
+
+Ama took the lamp and went out, and I followed her in my robe. Karmo had given birth, too early, in the snow. The kid lay on the ground in a small, wet heap. Its eyes were shut. When I touched it, it felt as cold as a stone in the stream.
+
+"Is it dead?" I asked.
+
+Ama put her hand on its side. "It's breathing. Only just."
+
+I ran back into the tent. I knew exactly what to do. From the bottom of my bag I pulled out my pashmina shawl. It was made from the soft winter wool of our own goats, combed out of their coats one spring and woven far away in Kashmir. Ama gave it to me at Losar, our new year. It is the lightest thing I own, and the warmest. When I wrap it round me, I feel warm straight away.
+
+I carried the kid inside and rubbed it dry with an old cloth, the way Ama showed me. Then I wrapped it in my shawl, round and round, until only its little grey nose stuck out. I laid it in the corner on a sack, away from the stove, because Ama says animals and fire don't mix. Then I lay down, feeling proud. The warmest thing I owned was keeping it alive.
+
+I woke up in the dark. The stove had burned low. I crawled over to the corner and put my hand inside the shawl.
+
+The kid was shivering. Its body felt no warmer than before. And the shawl, my warm shawl, felt as cold as the sack it lay on.
+
+I was so angry that I nearly cried. "Why aren't you warm?" I whispered at the shawl, as if it could answer.
+
+Ama had woken. She came and knelt beside me and felt the kid, and then she felt the shawl. "The shawl has no fire in it, Dolma," she said quietly.
+
+"But it keeps me warm. Every day it keeps me warm."
+
+"Does it?" she said. And she said nothing more. She just looked at me in the lamplight, the way she does when she wants me to find something out for myself.
+
+I thought about it. When I wear the shawl, I am inside it. My hands were warm from sleeping under the blankets. My chest was warm. Where did that come from? Not from the shawl. The shawl was lying here, cold, in a cold corner.
+
+I opened my robe. I took the kid out of the shawl and held it against my bare chest. It was so cold that I gasped. Its tiny legs poked my ribs. Then I wrapped the shawl round both of us, tight, and pulled the blanket over the top.
+
+Ama blew on the stove until it glowed, and made me a cup of hot butter tea and a ball of tsampa, the roasted barley flour we eat every day. "Eat," she said. "You'll need it."
+
+So I sat in the dark and ate and drank, and held the kid. I could feel my own heart beating against its side. For a long time nothing happened. Then the shivering became smaller. Then it stopped. Its ears, which had been like ice, grew soft and warm. Just before the sky turned grey, it lifted its head and gave a tiny, cross bleat, as if I had woken it up.
+
+In the morning, Ama carried it out to Karmo, who had been calling all night. Karmo licked it all over, and the kid pushed its nose under her and found her milk. It drank and drank, its tail flicking.
+
+We called the kid Nyima, which means sun.
+
+A year later, when the snow began to melt, the goats started rubbing themselves against the rocks. Their winter undercoat was coming loose. I took the comb and sat down beside Nyima, who was big now and would not keep still. I combed and combed, and the soft wool came away in clouds.
+
+I held up a handful in the wind. It was so light that I had to close my fist to keep it.
+
+**For the parent:** For the parent: the turn comes when Dolma finds her warm shawl lying cold in the corner, with the kid still shivering inside it. A shawl makes no heat. It only keeps in heat that is already there. Dolma's own body makes that heat, from the food she eats and the air she breathes, which is why Ama gives her tea and tsampa. The pashmina is light because it is mostly trapped air, and the goats grew it first for their own winter. Let your child find this out from the ice cube test on Day 6 before you name it.
+
+- Ask: Why was the baby goat still cold inside the warm shawl?
+- Ask: Where did the warmth come from in the end?
+- Ask: Why do you think Ama gave Dolma tea and tsampa in the middle of the night?
+- Ask: Why do the goats grow soft wool in winter and lose it in spring?
+- Ask: How many of the five basic needs can you find in the story?
 
 ## Games
 ### g1 · Five Needs, Ten Helpers: a matching game (15 min)
@@ -338,7 +413,7 @@ Later, the stars came out over the sea. The pigeon was still on her calm ledge. 
   - Note: Keep fingers and the tissue away from the fan blades.
 
 ## Worksheets
-### Our Five Needs (core) (core, 10 questions)
+### Our Five Needs (core) (core, 12 questions)
 1. (match) Draw a line from each need to the thing that gives it.  
    **Answer:** Air → An open window; Water → A clay matka; Food → A plate of dosa; Clothes → A raincoat; A home → A roof. *Why:* Each thing gives us one need. A window lets in fresh air, and a roof keeps us safe from rain.
 2. (draw) Draw your hand. Draw one basic need on each finger.  
@@ -346,7 +421,7 @@ Later, the stars came out over the sea. The pigeon was still on her calm ledge. 
 3. (sort) Circle the needs we take inside our body. Put a box round the needs that stay outside and keep us safe.  
    **Answer:** Air → Inside our body; Water → Inside our body; Food → Inside our body; Clothes → Outside, keeps us safe; A home → Outside, keeps us safe. *Why:* We breathe in air, drink water and eat food. Clothes and a home stay outside us and protect us.
 4. (mcq) You hold a tissue flag in front of a fan and it flaps. What is moving it?  
-   Options: Moving air / The floor / The light  
+   Options: The floor / Moving air / The light  
    **Answer:** Moving air. *Why:* Wind is moving air. We cannot see air, but we can see the flag it moves.
 5. (draw) Draw the fan and the tissue flag. Draw lines to show the moving air.  
    **Answer:** The flag points away from the fan, with lines of air between them.. *Why:* A strong drawing shows the flag blown away from the fan by the moving air.
@@ -359,14 +434,18 @@ Later, the stars came out over the sea. The pigeon was still on her calm ledge. 
    **Answer:** Water, because I feel thirsty and sweaty. Air, because I breathe fast.. *Why:* A strong answer names water and air, and says what the body does to show it: thirst and fast breathing.
 9. (label) Here is a house. Write R next to the part that keeps off the rain, W next to the part that stops the wind, and A next to the part that lets in fresh air.  
    **Answer:** R on the roof, W on a wall, A on a window.. *Why:* A roof keeps off rain and sun, walls stop the wind, and windows let fresh air in.
-10. (mcq) A crow comes to a bowl on the balcony on a hot day. Which need is the crow meeting?  
+10. (match) Draw a line from each room to its work.  
+   **Answer:** Kitchen → Cooking food; Bedroom → Sleeping; Bathroom → Washing; Living room → Sitting and talking with the family. *Why:* Each room has its own work. We cook in the kitchen and sleep in the bedroom.
+11. (draw) Draw one boy and one girl in clothes you have seen. Write the name of each piece, and one line on what it does.  
+   **Answer:** For example: a boy in a shirt and shorts, a girl in a frock with a cap. A cap shades the head, and a frock keeps the body cool.. *Why:* Every piece of clothing has a use. Boys and girls may wear different clothes, but all clothes protect the body.
+12. (mcq) A crow comes to a bowl on the balcony on a hot day. Which need is the crow meeting?  
    Options: Water / Clothes / A home  
    **Answer:** Water. *Why:* The crow is thirsty, like us on a hot day. Crows need water too.
-### Needs, Wind and Shelter (stretch) (stretch, 10 questions)
+### Needs, Wind and Shelter (stretch) (stretch, 11 questions)
 1. (perspective) Two friends in Kolkata, Rumi and Joyita, are building a tent on a windy terrace.  
    **Answer:** Joyita will have a calmer tent, because the closed back faces the wind. But Rumi is right that a home needs fresh air. A tent with its door away from the wind still gets fresh air through the door.. *Why:* A strong answer uses the wind box test and is fair to Rumi: fresh air is a need too.
 2. (mcq) A farmer plants a row of trees to keep the wind off her crops. On which side of the field should the trees go?  
-   Options: The side the wind comes from / The side away from the wind / The middle of the field  
+   Options: The side away from the wind / The middle of the field / The side the wind comes from  
    **Answer:** The side the wind comes from. *Why:* The trees are a wall. The wind goes around them, and the crops behind them get calm air.
 3. (write) In the wind box test, why did the flag hang still when the box's closed wall faced the fan? Say your answer to a grown-up, who writes it down.  
    **Answer:** The wind hit the closed wall and went around the box. So the air inside stayed calm.. *Why:* A strong answer says the wind went around the wall, not through it.
@@ -375,15 +454,17 @@ Later, the stars came out over the sea. The pigeon was still on her calm ledge. 
 5. (mcq) It is January in Shimla, and it is very cold. Which clothes do you need?  
    Options: A woollen sweater, a cap and socks / A thin cotton frock only / A raincoat only  
    **Answer:** A woollen sweater, a cap and socks. *Why:* Wool keeps you warm. In Chennai in May you would need loose cotton instead. The need is the same, but the clothes depend on the place.
-6. (draw) Draw a home for a pigeon. Show what keeps off the rain and the wind.  
+6. (sort) Sort each one into Safe or Not safe.  
+   **Answer:** Holding a grown-up's hand on the road → Safe; Touching a plug socket → Not safe; Standing near a hot pan → Not safe; Staying close to your family in a market → Safe. *Why:* Roads, sockets and hot pans can hurt us. Holding a hand and staying close keep us safe.
+7. (draw) Draw a home for a pigeon. Show what keeps off the rain and the wind.  
    **Answer:** A nest on a ledge under a roof, or in a corner with a wall on the windy side.. *Why:* A strong drawing shows a roof for rain and a wall against the wind. Pigeons choose such places in our buildings.
-7. (truefalse) A wall stops the wind from moving at all.  
+8. (truefalse) A wall stops the wind from moving at all.  
    **Answer:** False. *Why:* False. The wind goes around the wall. That is why the air behind it is calm.
-8. (fill) Fill the gap: Wind is air that is ____.  
+9. (fill) Fill the gap: Wind is air that is ____.  
    **Answer:** moving. *Why:* Wind is moving air. We cannot see it, but we see what it moves, like the tissue flag.
-9. (label) Here is the wind box from above, with a fan on one side. Draw arrows to show where the wind goes. Put a C where the air is calm.  
+10. (label) Here is the wind box from above, with a fan on one side. Draw arrows to show where the wind goes. Put a C where the air is calm.  
    **Answer:** Arrows curve around both sides of the box. The C is inside the box, near the door.. *Why:* A strong answer shows the wind going around the closed wall, and the calm air inside.
-10. (write) How do clothes help you on a hot day, and on a cold night? Say your answer to a grown-up, who writes it down.  
+11. (write) How do clothes help you on a hot day, and on a cold night? Say your answer to a grown-up, who writes it down.  
    **Answer:** On a hot day, a cap and loose cotton clothes shade me and keep me cool. On a cold night, a sweater or shawl keeps me warm.. *Why:* A strong answer gives one kind of clothes for the heat and one for the cold, and says what each does.
 
 ## Videos
@@ -393,30 +474,39 @@ Later, the stars came out over the sea. The pigeon was still on her calm ledge. 
    Options: Water / A toy car / A phone  
    **Answer:** Water. *Why:* Water is a basic need. A toy car and a phone are nice to have, but we can live without them.
 2. (mcq) A newborn baby drinks only milk. What does the milk give the baby?  
-   Options: Food and water / Clothes and a home / Only air  
+   Options: Clothes and a home / Only air / Food and water  
    **Answer:** Food and water. *Why:* Milk is the baby's food, and it gives the baby water too.
 3. (mcq) Why do we drink water every day, and not just once?  
-   Options: Water leaves our body when we wee, sweat and breathe out / Water makes us tall / Water is only for washing  
+   Options: Water makes us tall / Water leaves our body when we wee, sweat and breathe out / Water is only for washing  
    **Answer:** Water leaves our body when we wee, sweat and breathe out. *Why:* Our body keeps losing water, so we must keep putting it back.
 4. (mcq) What does a roof keep off us?  
-   Options: Rain and hot sun / Air / Food  
+   Options: Air / Rain and hot sun / Food  
    **Answer:** Rain and hot sun. *Why:* A roof keeps off the rain and the hot sun. Walls keep off the wind.
-5. (mcq) In the wind box test, which way should the open door of the box face to keep the tissue flag still?  
-   Options: Towards the fan / Away from the fan / It does not matter  
+5. (mcq) In which room of a home is food cooked?  
+   Options: The kitchen / The bedroom / The bathroom  
+   **Answer:** The kitchen. *Why:* Food is cooked in the kitchen. We sleep in the bedroom and wash in the bathroom, so each room has its own work.
+6. (mcq) You get lost in a crowded market. What should you do?  
+   Options: Go with a friendly person you have never met / Keep running through the crowd to find your family / Go to a shopkeeper and say your name and your parent's phone number  
+   **Answer:** Go to a shopkeeper and say your name and your parent's phone number. *Why:* A shopkeeper is a safe grown-up to ask. Going with a stranger is not safe, and running makes it harder for your family to find you.
+7. (mcq) Why do we wear a raincoat and chappals on a wet day?  
+   Options: The raincoat keeps our body dry and the chappals protect our feet / They help us to breathe / They give us water to drink  
+   **Answer:** The raincoat keeps our body dry and the chappals protect our feet. *Why:* Clothes protect the body. A raincoat keeps rain off, and chappals protect our feet. They do not give us air or water.
+8. (mcq) In the wind box test, which way should the open door of the box face to keep the tissue flag still?  
+   Options: Away from the fan / Towards the fan / It does not matter  
    **Answer:** Away from the fan. *Why:* With the door away from the fan, the closed wall faced the wind. The air went around the box, so the flag hung still.
-6. (mcq) In the wind box test, a tunnel was open at both ends. What did the tissue flag do inside it?  
+9. (mcq) In the wind box test, a tunnel was open at both ends. What did the tissue flag do inside it?  
    Options: It flapped, because the wind blew straight through / It hung still, because it had a roof / It fell over  
    **Answer:** It flapped, because the wind blew straight through. *Why:* A roof alone does not stop the wind. The wind blew in at one end and out of the other.
-7. (mcq) Which of these is a shelter for a pigeon?  
-   Options: A nest on a ledge under a roof / A puddle on the road / A plate of rice  
+10. (mcq) Which of these is a shelter for a pigeon?  
+   Options: A puddle on the road / A nest on a ledge under a roof / A plate of rice  
    **Answer:** A nest on a ledge under a roof. *Why:* A nest under a roof keeps a pigeon safe from rain and wind. It is the pigeon's home.
-8. (mcq) Which is true?  
-   Options: Humans are animals, and we need air, water and food like other animals / Only people need water / Plants need nothing  
+11. (mcq) Which is true?  
+   Options: Only people need water / Plants need nothing / Humans are animals, and we need air, water and food like other animals  
    **Answer:** Humans are animals, and we need air, water and food like other animals. *Why:* Humans are animals. Crows, cats, ants and people all need air, water and food. Plants need air, water and light.
-9. (mcq) In a hospital, many people are getting ill from dirty water and blocked drains. What will most likely happen if the water and drains are cleaned?  
+12. (mcq) In a hospital, many people are getting ill from dirty water and blocked drains. What will most likely happen if the water and drains are cleaned?  
    Options: Far fewer people will get ill / More people will get ill / Nothing will change  
    **Answer:** Far fewer people will get ill. *Why:* Dirty water and drains spread germs. Clean water and drains take the germs away, so fewer people fall ill. Florence Nightingale's numbers showed this in her hospital: after the drains and water were cleaned, far fewer soldiers died.
-10. (mcq) It is May in Madurai, and you go out in the hot sun. What should you wear?  
+13. (mcq) It is May in Madurai, and you go out in the hot sun. What should you wear?  
    Options: A cap and loose cotton clothes / A thick woollen sweater / Nothing on your head  
    **Answer:** A cap and loose cotton clothes. *Why:* A cap shades your head, and loose cotton lets sweat dry and keeps you cool.
 
@@ -465,9 +555,13 @@ Air and Water, Food and Home (sci.basic-needs.L1): Topic-level song for Our basi
 
 ## Links
 - [Florence Nightingale, in Encyclopaedia Britannica](https://www.britannica.com/biography/Florence-Nightingale) · interactive: For the parent: a checked life story of Florence Nightingale, to read with your child.
-- [DakshinaChitra heritage museum]() · place · Muttukadu, near Chennai: Real old homes from Tamil Nadu, Kerala, Karnataka and Andhra Pradesh, rebuilt so you can walk through them. See how each home suits its weather.
+- DakshinaChitra heritage museum · place · Muttukadu, near Chennai: Real old homes from Tamil Nadu, Kerala, Karnataka and Andhra Pradesh, rebuilt so you can walk through them. See how each home suits its weather.
 
 ## Things to buy
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Wind Box: which way should the door face?. About ₹10 to ₹30. Any school ruler is fine. Used in e1. Get it before The Wind Box: which way should the door face?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Wind Box: which way should the door face?, A Home for the Tissue Flag, Wind From Any Side. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e1, c1. Get it before The Wind Box: which way should the door face?.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in The Wind Box: which way should the door face?, Find the Calm Spots at Home, Our Bedsheet Home: a tent with all five needs. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e1, a2, p1, c1. Get it before The Wind Box: which way should the door face?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name the five basic needs. → Air, water, food, clothes and a home.
@@ -484,7 +578,7 @@ Air and Water, Food and Home (sci.basic-needs.L1): Topic-level song for Our basi
 
 ## Sources
 - ideas/by_topic/basic-needs.md was read. Its concept activity is about sound under water and does not fit this topic, so it was not used. Its SCI Cards (Alice Ball, Barry Marshall, Aditi Pant, M. S. Swaminathan, Varahamihira) do not match a Class 1 shelter unit and were left for other units.
-- No board chapter is listed for this level. The level 3 unit (sci.basic-needs.basic-needs.L3) was read so that this unit leads into it without repeating its tests, story or deep truth.
+- No board chapter is listed for this level. The level 3 unit (sci.basic-needs.basic-needs.L3) was read so that this lesson leads into it without repeating its tests, story or deep truth.
 - Flow around a bluff body: wind meeting a wall or box flows around and over it, leaving a sheltered region of slower, calmer air on the far side. This is the basis of shelterbelts and windbreaks in farming.
 - Survival without air (minutes), water (days) and food (weeks) are standard rough figures used in medicine and first aid.
 - Florence Nightingale took 38 nurses to the British army hospital at Scutari in late 1854. The Sanitary Commission cleaned the drains and water supply from March 1855, and deaths fell sharply. Her diagrams were published in 1858. She studied army and village health in India through reports, without visiting India. She held the miasma idea, that bad smells carry illness.

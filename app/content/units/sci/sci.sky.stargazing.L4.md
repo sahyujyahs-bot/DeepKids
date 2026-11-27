@@ -1,9 +1,9 @@
 # Reading the night sky: why the stars turn, how the Pole Star shows where you are, and how astronomers measure how far away a star is
 `sci.sky.stargazing.L4`
 
-**Summary.** The Pole Star stands about 13 degrees high in Chennai but about 29 degrees in Delhi. What does its height tell you? In this unit you will use a ball and a straw to find out, measure how far the sky turns, and judge distance with the jump of your thumb.
+**Summary.** The Pole Star stands about 13 degrees high in Chennai but about 29 degrees in Delhi. What does its height tell you? In this lesson you will use a ball and a straw to find out, measure how far the sky turns, and judge distance with the jump of your thumb.
 
-**Intro.** *On a clear night, look north and find the Saptarishi, the seven stars shaped like a ladle. Two of them, Kratu and Pulaha, point at a star called Dhruva, the Pole Star. Watch for an hour, and all the other stars swing slowly round it, like the spokes of a wheel round the hub. What is the sky turning around, and why does that one star stay still?* In this unit you find out. You build a model with a ball and a straw that shows why the Pole Star stands higher in the sky the further north you go. You measure with your fist how far the stars move in an hour. You use the jump of your thumb to measure distances, which is how astronomers first measured the distance to a star. You also learn why Orion and Scorpius never share a night sky, how a star's colour shows its temperature, and how sailors crossed oceans with nothing but the stars.
+**Intro.** *On a clear night, look north and find the Saptarishi, the seven stars shaped like a ladle. Two of them, Kratu and Pulaha, point at a star called Dhruva, the Pole Star. Watch for an hour, and all the other stars swing slowly round it, like the spokes of a wheel round the hub. What is the sky turning around, and why does that one star stay still?* In this lesson you find out. You build a model with a ball and a straw that shows why the Pole Star stands higher in the sky the further north you go. You measure with your fist how far the stars move in an hour. You use the jump of your thumb to measure distances, which is how astronomers first measured the distance to a star. You also learn why Orion and Scorpius never share a night sky, how a star's colour shows its temperature, and how sailors crossed oceans with nothing but the stars.
 
 ## Learning outcomes
 0. I can explain that the stars seem to turn once a day because the Earth spins, and that the sky turns about 15 degrees every hour.
@@ -142,7 +142,7 @@ Long before there were maps, compasses or ships with instruments, people crossed
   Against: Dots appear all over the cave walls, and it is easy to see patterns in them. There is no way to check what the painters meant.
 
 ## Roots
-In this unit you measure how the sky turns, how high the Pole Star stands, and how the jump of a pencil shows its distance. This part asks what those measurements show about how we see.
+In this lesson you measure how the sky turns, how high the Pole Star stands, and how the jump of a pencil shows its distance. This part asks what those measurements show about how we see.
 
 **Deep truth.** In the Jump of Your Thumb experiment, you looked at a pencil with one eye and then the other, and it seemed to jump against the wall. The size of that jump told you how far away the pencil was. So a difference between two viewpoints is not a mistake to remove. It is how distance is measured. Astronomers look at a star from two places on the Earth's yearly path round the Sun, the way you used your two eyes.  
 *Habit it breaks:* We often think that when two people see the same thing differently, one of them must be wrong, and that there is one correct view that does not depend on where you stand. But the difference between two views can tell us something that neither view tells us alone.  
@@ -525,7 +525,7 @@ That night on the terrace of Leela's building, Dhruva stood high above the water
 ## Worksheets
 ### The Turning Sky and the Pole Star (core) (core, 16 questions)
 1. (mcq) Why do the stars seem to cross the sky during a night?  
-   Options: The Earth spins, so we turn past the stars / The stars all circle the Earth once a day / The Sun pushes the stars across the sky / The stars are on a dome that the Moon turns  
+   Options: The stars all circle the Earth once a day / The Sun pushes the stars across the sky / The stars are on a dome that the Moon turns / The Earth spins, so we turn past the stars  
    **Answer:** The Earth spins, so we turn past the stars. *Why:* The Earth spins once in about a day, and we spin with it. So the sky seems to turn the other way, like scenery seen from a train. 'The stars all circle the Earth' is what people believed for thousands of years. Long photos of star trails and the Foucault pendulum show that the Earth is what turns.
 2. (fill) The sky turns about ____ degrees every hour.  
    **Answer:** ['15']. *Why:* A full turn is 360 degrees, and it takes about 24 hours. 360 divided by 24 is 15. So every hour the stars move through 15 degrees, about one and a half fists at arm's length.
@@ -541,19 +541,19 @@ That night on the terrace of Leela's building, Dhruva stood high above the water
 7. (match) Match each place to about how high the Pole Star stands above the northern horizon.  
    **Answer:** Kanyakumari → about 8 degrees; Chennai → about 13 degrees; Hyderabad → about 17 degrees; Delhi → about 29 degrees; The North Pole → 90 degrees, straight overhead. *Why:* The Pole Star's height is the same as the latitude of the place. The further north, the higher the star. A strong answer notices the pattern in the numbers.
 8. (mcq) A traveller walks north, from Chennai towards Delhi. What happens to the Pole Star's height above the horizon?  
-   Options: It slowly rises higher / It slowly sinks lower / It stays the same / It moves to the south  
+   Options: It slowly sinks lower / It stays the same / It moves to the south / It slowly rises higher  
    **Answer:** It slowly rises higher. *Why:* The Pole Star's height equals the latitude, and latitude grows as you go north. So the star climbs. Picking 'stays the same' is a natural idea, because the star never seems to move. It moves only when the traveller does.
 9. (label) Label this drawing of a ball for the Earth: the Earth's axis, the direction to the Pole Star, the observer's flat horizon, and the angle that equals the latitude.  
    **Answer:** The axis runs through the ball from pole to pole. The direction to the Pole Star runs parallel to the axis. The horizon is a flat line touching the ball at the observer. The angle between the horizon and the line to the Pole Star is the latitude.. *Why:* Because the Pole Star is so far away, the direction to it is parallel to the axis from anywhere on the Earth. The angle between that direction and the flat ground is the latitude.
 10. (truefalse) At midnight, we see the same stars in every month of the year.  
    **Answer:** False. *Why:* False. A star rises about 4 minutes earlier each night, so the sky shifts by about 2 hours each month. The group of stars highest at midnight changes through the year, because the Earth is moving round the Sun.
 11. (mcq) A star rises at 9 pm tonight. About what time will it rise one month from now?  
-   Options: About 7 pm / About 9 pm / About 11 pm / About 3 pm  
+   Options: About 9 pm / About 11 pm / About 3 pm / About 7 pm  
    **Answer:** About 7 pm. *Why:* A star rises about 4 minutes earlier each day, so after 30 days it rises about 2 hours earlier. 9 pm take away 2 hours is 7 pm. Picking 11 pm goes the wrong way. Picking 9 pm forgets that the Earth has moved.
 12. (sort) Sort these groups of stars into the ones best seen on winter evenings and the ones best seen on summer and monsoon evenings.  
    **Answer:** Orion → Winter evenings; Taurus → Winter evenings; Gemini → Winter evenings; Scorpius → Summer and monsoon evenings; Sagittarius → Summer and monsoon evenings; Lyra → Summer and monsoon evenings. *Why:* The groups opposite the Sun at midnight in winter are Taurus, Gemini and Orion. In summer, the groups opposite the Sun are Scorpius, Sagittarius and the stars near them. A strong answer says why the two sets are on opposite sides of the sky.
 13. (mcq) You hold a pencil at arm's length and swap eyes. Then you bring the pencil to half that distance and swap eyes again. What do you see?  
-   Options: The jump against the wall is about twice as big / The jump is the same / The jump is much smaller / The pencil does not jump at all  
+   Options: The jump is the same / The jump against the wall is about twice as big / The jump is much smaller / The pencil does not jump at all  
    **Answer:** The jump against the wall is about twice as big. *Why:* The nearer a thing is, the more the two eyes disagree about where it is. At half the distance, the jump is about twice as big. Picking 'the same' means forgetting that near things change more than far things.
 14. (write) You cannot see a star's parallax by closing one eye and then the other, but astronomers can measure it. What do they do differently?  
    **Answer:** The stars are so far away that the gap between two eyes gives a shift far too small to see. Astronomers look at the star six months apart, from opposite sides of the Earth's orbit, so the baseline is about 300 million kilometres. The shift is then big enough to measure with a telescope.. *Why:* A strong answer says that a longer baseline gives a bigger shift. The jump of the thumb gets bigger when the baseline is longer.
@@ -563,7 +563,7 @@ That night on the terrace of Leela's building, Dhruva stood high above the water
    **Answer:** The Pole Star stays at the middle. Each of the three other stars draws an arc round it, anticlockwise, all of the same angle, 15 degrees. Stars further from the Pole Star draw longer arcs.. *Why:* Every star turns through the same angle in the same time. Stars far from the Pole Star travel along bigger circles, so their arcs are longer, but the angle is the same.
 ### Light, Colour and Distance (stretch) (stretch, 17 questions)
 1. (mcq) Canopus gives out about 400 times as much light as Sirius, yet Sirius looks brighter in the sky. What does this tell you?  
-   Options: Sirius must be much nearer to us than Canopus / Sirius must be hotter than Canopus / Canopus must be moving away / The sky is darker near Sirius  
+   Options: Sirius must be hotter than Canopus / Sirius must be much nearer to us than Canopus / Canopus must be moving away / The sky is darker near Sirius  
    **Answer:** Sirius must be much nearer to us than Canopus. *Why:* How bright a star looks depends on how much light it gives out and how far away it is. Canopus is truly far more powerful, but it is about 310 light-years away. Sirius is only about 8.6 light-years away, so it looks brighter.
 2. (fill) To work out how much light a star really gives out, you must first know its ____.  
    **Answer:** ['distance']. *Why:* A star looks fainter the farther away it is. So you cannot tell how powerful it is from how bright it looks, until you know how far away it is. This is why parallax matters.
@@ -605,7 +605,7 @@ That night on the terrace of Leela's building, Dhruva stood high above the water
 1. (perspective) Three people in a town talk about whether to turn off some street lights at night.  
    **Answer:** A strong answer picks one view and gives a reason from the unit, for example that light pollution hides faint stars, so the astronomer's point is true. It also gives credit to another view. The shopkeeper is right that lights help safety, and a good plan might use shielded lights that point down.. *Why:* All three have good points, and the best solution tries to meet more than one need. Shields that stop light from going up help stargazers and wildlife, and still light the street.
 2. (mcq) The Pole Star is about 0.7 degrees away from the exact north pole of the sky. What does this do to the rule that its height equals your latitude?  
-   Options: The rule is right to within about a degree / The rule is completely wrong / The rule works only in Delhi / The rule works only at the equator  
+   Options: The rule is completely wrong / The rule works only in Delhi / The rule is right to within about a degree / The rule works only at the equator  
    **Answer:** The rule is right to within about a degree. *Why:* Because the star is a fraction of a degree from the pole, it makes a small circle round the pole each day, and its height changes by up to about 0.7 degrees. For measuring with a straw and a protractor, that is far less than the error of the tool. So the rule is useful to about a degree.
 3. (write) A sailor sees that the Pole Star is 13 degrees high. What does this tell the sailor, and what does it not tell?  
    **Answer:** It tells the sailor how far north they are, about 13 degrees north. It does not tell how far east or west they are. For that, the sailor needs to compare the time on the ship with the time at a known place.. *Why:* A strong answer sees that one star gives only one number, the latitude. The height of the Pole Star is the same along the whole line of latitude.
@@ -617,12 +617,12 @@ That night on the terrace of Leela's building, Dhruva stood high above the water
 6. (write) About 4,700 years ago, a star called Thuban was the pole star. Today it is Polaris. Explain why the pole star changes.  
    **Answer:** The Earth's axis slowly wobbles, like a spinning top, and traces a circle in the sky once in about 26,000 years. So the axis points at different stars over time. Thuban was near the pole then, Polaris is now, and in about 12,000 years it will be Vega.. *Why:* A strong answer names the wobble and the very long time it takes. The change is so slow that nobody sees it in a lifetime.
 7. (mcq) In about 12,000 years, a different star will be near the north celestial pole. What is the best reason?  
-   Options: The Earth's axis slowly wobbles and points at different stars / The stars all move towards the pole / The Pole Star will burn out / The Earth will stop spinning  
+   Options: The stars all move towards the pole / The Pole Star will burn out / The Earth's axis slowly wobbles and points at different stars / The Earth will stop spinning  
    **Answer:** The Earth's axis slowly wobbles and points at different stars. *Why:* The Earth's axis traces a slow circle in the sky because of a wobble called precession. It makes a complete circle in about 26,000 years. Picking 'the stars move towards the pole' is wrong, because stars move only very slowly.
 8. (sort) Sort these into the ones where parallax can be used and the ones where it is too small to use.  
    **Answer:** A pencil at arm's length, with two eyes → Parallax works; A tree across a road, using a baseline of 10 metres → Parallax works; A nearby star, using the Earth's orbit as the baseline → Parallax works; A star in a distant galaxy, using the Earth's orbit → Parallax is too small to use; A mountain 100 kilometres away, with two eyes → Parallax is too small to use. *Why:* Parallax works when the baseline is big enough compared with the distance. For far things, astronomers need other methods, such as Cepheids.
 9. (mcq) What are stars made of, mostly?  
-   Options: Hydrogen and helium / Iron and rock / Oxygen and nitrogen / Carbon and water  
+   Options: Iron and rock / Hydrogen and helium / Oxygen and nitrogen / Carbon and water  
    **Answer:** Hydrogen and helium. *Why:* Cecilia Payne showed in 1925 that stars are made mostly of hydrogen and helium. Most people at the time believed stars were made of the same stuff as the Earth. Iron and rock are rare in stars.
 10. (draw) Draw the sky as seen by someone standing exactly at the North Pole. Show where the Pole Star is, and how the other stars move.  
    **Answer:** The Pole Star is straight overhead. The other stars circle round it in flat circles, parallel to the ground, and none rises or sets.. *Why:* At the North Pole the Earth's axis points straight up, so the Pole Star is overhead, and every star goes round it at a constant height. The stars never rise or set.
@@ -631,7 +631,7 @@ That night on the terrace of Leela's building, Dhruva stood high above the water
 12. (truefalse) From Kanyakumari, at about 8 degrees north, a person can see the Southern Cross low in the south on spring evenings.  
    **Answer:** True. *Why:* True. At 8 degrees north, stars within about 8 degrees of the south pole never rise, but the Southern Cross is much farther from the south pole than that, and rises and sets. It is low in the sky because it is far to the south. From Kashmir it cannot be seen.
 13. (mcq) A visitor says: 'The stars are twinkling, so they must be giving out light unevenly.' What is the best reply?  
-   Options: The flicker is made by the Earth's moving air, and stars seen from space do not twinkle / You are right, stars flicker like candles / The stars are being pulled by the Moon / Stars twinkle because they are close  
+   Options: You are right, stars flicker like candles / The stars are being pulled by the Moon / Stars twinkle because they are close / The flicker is made by the Earth's moving air, and stars seen from space do not twinkle  
    **Answer:** The flicker is made by the Earth's moving air, and stars seen from space do not twinkle. *Why:* Twinkling happens in the air above us, where patches of different temperature bend the light. Photographs taken from space telescopes show steady stars. The visitor's idea is natural, because it looks as if the star itself flickers.
 14. (write) The Jump of Your Thumb experiment and the Gaia spacecraft both measure parallax. Say one thing that is the same about them and one thing that is different.  
    **Answer:** Both look at the same thing from two places and measure how much it seems to shift. The baseline is different: for the thumb it is the gap between the eyes, a few centimetres, and for Gaia it is the width of the Earth's orbit, hundreds of millions of kilometres, so Gaia can measure stars.. *Why:* A strong answer sees one method at two scales.
@@ -648,34 +648,34 @@ That night on the terrace of Leela's building, Dhruva stood high above the water
    Options: One twenty-fourth of a full circle / A quarter of a full circle / A whole circle / One sixtieth of a full circle  
    **Answer:** One twenty-fourth of a full circle. *Why:* The sky turns once in about 24 hours, so in one hour it turns one twenty-fourth of a circle, which is 15 degrees. Picking a quarter would be the arc after six hours.
 2. (mcq) What is special about the position of the Pole Star?  
-   Options: The Earth's axis points almost straight at it / It is the nearest star to the Earth / It is the star that the Sun passes in front of / It is exactly overhead everywhere in India  
+   Options: It is the nearest star to the Earth / The Earth's axis points almost straight at it / It is the star that the Sun passes in front of / It is exactly overhead everywhere in India  
    **Answer:** The Earth's axis points almost straight at it. *Why:* The Pole Star lies almost exactly along the line the Earth spins round. That is why it seems to stay still while the others turn. It is not near, and it is not overhead in India. In Chennai it is only about a fist above the northern horizon.
 3. (mcq) A traveller sees the Pole Star 20 degrees above the northern horizon. About what is her latitude?  
-   Options: About 20 degrees north / About 70 degrees north / About 20 degrees south / About 90 degrees north  
+   Options: About 70 degrees north / About 20 degrees south / About 90 degrees north / About 20 degrees north  
    **Answer:** About 20 degrees north. *Why:* The Pole Star's height equals the latitude, so 20 degrees high means about 20 degrees north. Picking 70 gives the angle measured down from straight overhead instead. At 90 degrees north, you stand at the pole.
 4. (mcq) What is a circumpolar star?  
    Options: A star that circles the Pole Star without ever dipping below your horizon / A star that circles the Sun / A star that is exactly at the pole / A star that is seen in every country  
    **Answer:** A star that circles the Pole Star without ever dipping below your horizon. *Why:* A circumpolar star goes round the Pole Star in a circle that stays above the horizon, so it never sets. Which stars are circumpolar depends on your latitude, and so a star can be circumpolar in Delhi and not in Chennai.
 5. (mcq) Why can Orion not be seen at night in June?  
-   Options: The Sun is near Orion in the sky, so Orion is up in the day and hidden by sunlight / Orion moves to the other side of the Earth / Orion is switched off in summer / The Moon covers Orion  
+   Options: Orion moves to the other side of the Earth / The Sun is near Orion in the sky, so Orion is up in the day and hidden by sunlight / Orion is switched off in summer / The Moon covers Orion  
    **Answer:** The Sun is near Orion in the sky, so Orion is up in the day and hidden by sunlight. *Why:* In June, the Earth is on the side of its orbit where the Sun lies in the direction of Orion. At night we look away from the Sun, so we look at other stars. Orion is up in the day, but daylight hides it.
 6. (mcq) How much earlier does a star rise each night?  
-   Options: About 4 minutes / About 1 hour / About 15 minutes / The same time every night  
+   Options: About 1 hour / About 15 minutes / The same time every night / About 4 minutes  
    **Answer:** About 4 minutes. *Why:* The Earth moves about one degree round the Sun each day, so we have to turn about a degree further to face a star. That takes about 4 minutes. Over a year, the 4 minutes add up to a whole day.
 7. (mcq) A thing seems to jump a long way against the background when you swap eyes. What does this tell you?  
    Options: The thing is close to you / The thing is very far from you / The thing is moving / The thing is very big  
    **Answer:** The thing is close to you. *Why:* The nearer a thing is, the more the two eyes disagree about where it is, and the bigger the jump. A far thing barely jumps. This is how distance is measured from parallax.
 8. (mcq) Why do astronomers use the Earth's orbit as the baseline for measuring the distance to a star?  
-   Options: Stars are so far away that only a very long baseline gives a shift big enough to measure / The Earth's orbit is a perfect circle / Astronomers cannot use their eyes / The Sun's light helps to measure it  
+   Options: The Earth's orbit is a perfect circle / Stars are so far away that only a very long baseline gives a shift big enough to measure / Astronomers cannot use their eyes / The Sun's light helps to measure it  
    **Answer:** Stars are so far away that only a very long baseline gives a shift big enough to measure. *Why:* The longer the baseline, the bigger a star's shift. The Earth's orbit is about 300 million kilometres wide, and it is the longest baseline astronomers can use without leaving the solar system.
 9. (mcq) Sirius is the brightest star in the night sky, but there are stars far more powerful than it. Why does Sirius look so bright?  
-   Options: It is very near, only about 8.6 light-years away, and it is also quite powerful / It is the hottest star in the sky / It is the largest star in the sky / It is moving towards us fast  
+   Options: It is the hottest star in the sky / It is very near, only about 8.6 light-years away, and it is also quite powerful / It is the largest star in the sky / It is moving towards us fast  
    **Answer:** It is very near, only about 8.6 light-years away, and it is also quite powerful. *Why:* How bright a star looks depends on both its distance and its true brightness. Sirius gives out about 25 times as much light as the Sun, and it is very near. Stars like Rigel are much more powerful, but they are far away.
 10. (mcq) Which colour of star is the hottest?  
    Options: Blue-white / Red / Yellow / Orange  
    **Answer:** Blue-white. *Why:* The hotter a star, the bluer its light. Red is the coolest of these, then orange, yellow and finally blue-white. Hot iron shows the same order: it glows red, then yellow, then white as it heats up.
 11. (mcq) Why do stars twinkle while planets usually shine steadily?  
-   Options: A star is a point of light that the moving air bends all at once, and a planet is a tiny disc whose flickers average out / Stars are hotter than planets / Planets make their own steady light / Stars are closer than planets  
+   Options: Stars are hotter than planets / A star is a point of light that the moving air bends all at once, and a planet is a tiny disc whose flickers average out / Planets make their own steady light / Stars are closer than planets  
    **Answer:** A star is a point of light that the moving air bends all at once, and a planet is a tiny disc whose flickers average out. *Why:* The air bends the light of a star as a single point, so it seems to flicker. A planet's light comes from a tiny disc, and the flickers cancel out. Planets do not make light, and stars are farther than planets.
 12. (mcq) How can you tell that a bright dot is a planet by watching it for several weeks?  
    Options: It slowly moves against the pattern of stars / It twinkles more every week / It gets redder every week / It gets closer to the Pole Star  
@@ -753,13 +753,20 @@ Star, Planet, Moon (sci.sky.L4): Topic-level song
 - [Light Pollution Map](https://www.lightpollutionmap.info/) · interactive: A world map of how bright the night sky is. Find your own town and the nearest dark place.
 - [ESA Gaia](https://www.esa.int/Science_Exploration/Space_Science/Gaia) · interactive: For the parent: pages about the Gaia spacecraft, which has measured the distances to well over a billion stars by parallax.
 - [Polynesian Voyaging Society](https://www.hokulea.com/) · interactive: For the parent: the story of the voyaging canoe Hokule'a and the navigators who steered it by the stars.
-- [Jantar Mantar]() · place · Jaipur: A large open-air observatory built in the 1720s by Sawai Jai Singh II, with giant stone instruments for following the Sun and stars. Check opening times before you go.
-- [Jantar Mantar]() · place · Delhi: Another of Jai Singh's observatories, built in the 1720s, with large stone instruments for measuring the positions of the Sun and stars.
+- Jantar Mantar · place · Jaipur: A large open-air observatory built in the 1720s by Sawai Jai Singh II, with giant stone instruments for following the Sun and stars. Check opening times before you go.
+- Jantar Mantar · place · Delhi: Another of Jai Singh's observatories, built in the 1720s, with large stone instruments for measuring the positions of the Sun and stars.
 
 ## Things to buy
 - [Red cellophane sheets, or a small red LED torch](https://www.amazon.in/s?k=red+cellophane+sheet) (tool): For reading your notes at night without spoiling your eyes' sensitivity to the dark. A phone torch covered with two layers of red cellophane works well. Cheaper: red gift-wrap cellophane from a stationery shop (a few rupees a sheet), held on with a rubber band, or a red LED cycle light. Used in e2, e3, p1. 
 - [A geometry box with a plastic protractor](https://www.amazon.in/s?k=geometry+box+protractor) (tool): For the Pole Star height experiment, the Ball, Straw and Far Star activity and the scale drawing in the Measure the Unreachable challenge. Most Class 4 children already have one. Used in e3, a2, c1. 
 - [A pair of binoculars, 7 by 50 or 10 by 50](https://www.amazon.in/s?k=binoculars+10x50) (tool): For looking at the colours of Betelgeuse and Rigel, the Pleiades and the Moon's craters. Not needed for any part of the unit, but they show far more stars than the eye. Optional and costly (about Rs 1,500 or more), so borrow a pair from a neighbour or a school if you can. Used in a3. Use them after the Twinkle and Colour activity, on a clear winter night, to look at the Pleiades and at Orion.
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in The Jump of Your Thumb: can a pencil's jump tell you how far away it is?, Measure the Unreachable: how far is a tree you cannot walk to?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e1, c1. Get it before The Jump of Your Thumb: can a pencil's jump tell you how far away it is?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Jump of Your Thumb: can a pencil's jump tell you how far away it is?, How High Is the Pole Star? Measure your latitude from the sky, Ball, Straw and Far Star: why the Pole Star stands higher as you go north. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e3, a2, p1, c1. Get it before The Jump of Your Thumb: can a pencil's jump tell you how far away it is?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Ball, Straw and Far Star: why the Pole Star stands higher as you go north, Measure the Unreachable: how far is a tree you cannot walk to?. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in a2, c1. Get it before Ball, Straw and Far Star: why the Pole Star stands higher as you go north.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in The Jump of Your Thumb: can a pencil's jump tell you how far away it is?, The Year in a Room: a lamp, a ring of star cards and a walk round the Sun. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in e1, a1. Get it before The Jump of Your Thumb: can a pencil's jump tell you how far away it is?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in How High Is the Pole Star? Measure your latitude from the sky. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e3. Get it before How High Is the Pole Star? Measure your latitude from the sky.
+- [Postcards or plain cards](https://www.amazon.in/s?k=blank+postcards) (material): Used in How High Is the Pole Star? Measure your latitude from the sky, The Year in a Room: a lamp, a ring of star cards and a walk round the Sun. About ₹5 to ₹20. Cut card from a cereal box. Used in e3, a1. Get it before How High Is the Pole Star? Measure your latitude from the sky.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - How many degrees does the sky turn in one hour? → About 15 degrees.
@@ -780,7 +787,7 @@ Star, Planet, Moon (sci.sky.L4): Topic-level song
 ## Sources
 - ideas/by_topic/the-universe-sun-moon-stars-and-planets.md: the notebook's ideas for stargazing, constellations and the moving sky, used in the Turning Sky experiment and the Year in a Room activity
 - ideas/by_topic/space-time-and-dimensions.md: the idea that where you stand shapes what you see, used in the thumb test and in the roots
-- The Class 3 unit on constellations and nakshatras, which this unit builds on: star patterns seen from Earth, the nakshatras, the Moon's steps and getting used to the dark are left to it, and this unit goes on to the turning sky, the Pole Star, the seasons of the stars and the measuring of distance
+- The Class 3 unit on constellations and nakshatras, which this lesson builds on: star patterns seen from Earth, the nakshatras, the Moon's steps and getting used to the dark are left to it, and this lesson goes on to the turning sky, the Pole Star, the seasons of the stars and the measuring of distance
 - Bessel, 'Bestimmung der Entfernung des 61sten Sterns des Schwans', Astronomische Nachrichten 16, 1838 (the first parallax of a star)
 - Leavitt, 'Periods of 25 variable stars in the Small Magellanic Cloud', Harvard College Observatory Circular 173, 1912
 - Cannon, The Henry Draper Catalogue, Annals of Harvard College Observatory, 1918 to 1924 (stars sorted by colour)

@@ -748,11 +748,11 @@
       "t": "mcq",
       "q": "A child reads a book in a moving car and feels sick. Which pair of helpers disagree?",
       "options": [
-       "Her eyes and her inner ears",
        "Her feet and her nose",
-       "Her eyes and her ears working together"
+       "Her eyes and her ears working together",
+       "Her eyes and her inner ears"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Her eyes see a book that is still, while her inner ears feel the car turning and bumping. When these two do not match, the brain gets confused and she may feel sick. Looking out at the horizon can make them agree again."
      },
      "context": "In this step, you check one more moment with a question."
@@ -875,11 +875,11 @@
       "t": "mcq",
       "q": "You stand on one foot with your eyes shut. Why is it often easier if you also touch a wall with one finger?",
       "options": [
-       "The fingertip gives the brain a fourth source of information",
        "The wall holds your weight",
+       "The fingertip gives the brain a fourth source of information",
        "Your eyes work even when they are shut"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A light fingertip on a still wall tells the brain exactly how your body is moving. It is too light to hold your weight, but the information helps. This is not the wall holding you up. It is the wall acting as a sense."
      },
      "context": "In this step, you add up the scores and compare the stations."
@@ -1021,11 +1021,11 @@
       "t": "mcq",
       "q": "Why is standing with eyes shut on a soft blanket the hardest?",
       "options": [
-       "Two of the three helpers are weak, so only the ears are left",
        "The blanket makes you heavier",
-       "Your ears stop working when your eyes are shut"
+       "Your ears stop working when your eyes are shut",
+       "Two of the three helpers are weak, so only the ears are left"
       ],
-      "a": 0,
+      "a": 2,
       "why": "With your eyes shut there is no information from sight. The soft blanket makes the signals from your feet less clear. That leaves your inner ears as the only clear helper, so you wobble most. The ears still work with eyes shut, and the blanket does not change your weight."
      },
      "context": "In this step, you explain the result and check your reasoning."
@@ -1494,11 +1494,11 @@
       "t": "mcq",
       "q": "Under a turning umbrella, you may feel that you are turning, though you sit still. Which sense is giving the wrong message?",
       "options": [
-       "Your eyes",
        "Your feet",
+       "Your eyes",
        "Your nose"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Your eyes see the pattern moving across your view. This is what they see when your head turns, so the brain may believe you are turning. Your inner ears and your feet say you are still. The nose does not help with turning, and the feet are giving the right message."
      },
      "context": "In this step, you swap places and think about which sense gave the wrong message."
@@ -1610,11 +1610,11 @@
       "t": "mcq",
       "q": "A touch of less than 100 grams cannot hold up a child who weighs 25 kilograms. Why does it still help?",
       "options": [
-       "It tells the brain how the body is moving compared with a still object",
        "It takes some of the child's weight",
-       "It makes the child's eyes work"
+       "It makes the child's eyes work",
+       "It tells the brain how the body is moving compared with a still object"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A fingertip on something still gives the brain an extra source of balance information. It is far too light to carry any weight, since 25 kilograms is 25,000 grams, which is 250 times as much. The touch is a message, not a prop."
      },
      "context": "In this step, you explain how such a light touch can help."
@@ -1825,11 +1825,11 @@
       "t": "mcq",
       "q": "Many people count their heartbeat more accurately after exercise. Why?",
       "options": [
-       "Each beat is stronger, so the inside sensors report it more clearly",
        "The heart stops beating when you are resting",
+       "Each beat is stronger, so the inside sensors report it more clearly",
        "The wrist pulse gets easier to hear"
       ],
-      "a": 0,
+      "a": 1,
       "why": "After exercise the heart pumps harder, so the signals from the chest and blood vessels are stronger and easier to notice. The heart never stops at rest. The pulse at the wrist is the same kind of beat before and after."
      },
      "context": "In this step, you compare the counts and explain the result."
@@ -1946,11 +1946,11 @@
       "t": "mcq",
       "q": "The tumbler with the wet cloth cooled more than the one with the dry cloth. What took the extra heat away?",
       "options": [
-       "Water drying off the cloth took heat with it",
        "The wet cloth was colder than the dry cloth",
+       "Water drying off the cloth took heat with it",
        "The fan blew cold air onto the wet cloth only"
       ],
-      "a": 0,
+      "a": 1,
       "why": "When water dries into the air, it takes heat from the thing it dries from. This is why wet things cool in a breeze, and why sweat cools your skin. The fan blew on both tumblers equally, and the two cloths started at nearly the same warmth."
      },
      "context": "In this step, you measure again and explain what cooled the water."
@@ -2062,11 +2062,11 @@
       "t": "mcq",
       "q": "Suppose you got 9 of 12 right. By luck you would expect 4. What does this suggest?",
       "options": [
-       "You really can feel warmth at a distance",
        "The cups were noisy",
+       "You really can feel warmth at a distance",
        "Luck cannot be counted"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A score far above what luck gives suggests that your skin picked up the warmth coming off the tumbler. A snake's pit does the same job much better. The cups were not noisy, since the child kept quiet and still, and luck can be counted: one in three."
      },
      "context": "In this step, you compare your score with luck and think about what it means."
@@ -2390,12 +2390,12 @@
    "t": "mcq",
    "p": "Which of these is NOT one of the three sources of information the brain mixes to balance?",
    "opts": [
-    "The nose",
     "The inner ears",
     "The eyes",
+    "The nose",
     "The feet and muscles"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Balance uses sight, the inner ears, and the sensors in the feet and muscles. The nose smells and does not help you know whether you are upright.",
    "outcome": 0
   },
@@ -2403,11 +2403,11 @@
    "t": "mcq",
    "p": "A child stands on a thick mattress with her eyes shut and wobbles a lot. What is the best explanation?",
    "opts": [
-    "Two helpers are weak, so only her inner ears are working clearly",
     "Her inner ears have stopped working",
-    "The mattress makes her heavier"
+    "The mattress makes her heavier",
+    "Two helpers are weak, so only her inner ears are working clearly"
    ],
-   "a": 0,
+   "a": 2,
    "why": "With her eyes shut there is no sight, and the soft mattress makes the signals from her feet unclear. The inner ears still work, but they cannot do the whole job alone.",
    "outcome": 1
   },
@@ -2439,11 +2439,11 @@
    "t": "mcq",
    "p": "Why can a very light fingertip on a wall steady a person?",
    "opts": [
-    "It gives the brain more information about how the body is moving",
     "It takes weight off the feet",
+    "It gives the brain more information about how the body is moving",
     "It stops the inner ears from swirling"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A still wall tells the brain how the body is swaying, even though the force is far too small to hold anyone up. The touch is a message, not a prop.",
    "outcome": 1
   },
@@ -2451,11 +2451,11 @@
    "t": "mcq",
    "p": "Why does a green chilli feel hot, though the chilli is not warm?",
    "opts": [
-    "It opens the same gate in your nerve endings that heat opens",
     "The chilli is secretly boiling",
-    "The tongue cannot tell hot from cold"
+    "The tongue cannot tell hot from cold",
+    "It opens the same gate in your nerve endings that heat opens"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Capsaicin, the chemical in chilli, opens the same gate that warm temperatures open. The nerve then sends a signal that means hot. The chilli's temperature does not change.",
    "outcome": 4
   },
@@ -2463,11 +2463,11 @@
    "t": "mcq",
    "p": "What happens in the body's temperature loop when you get too warm?",
    "opts": [
-    "Sensors tell the brain, and the body sweats and widens the skin's blood vessels",
     "The brain stops measuring",
+    "Sensors tell the brain, and the body sweats and widens the skin's blood vessels",
     "The body shivers to make heat"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The loop senses the warmth, then acts to cool the body. Sweat dries and takes heat away, and wider blood vessels let heat leave the skin. Shivering is the response to being too cool.",
    "outcome": 4
   },
@@ -2487,11 +2487,11 @@
    "t": "mcq",
    "p": "A person is distracted by an exciting game and does not notice a scraped knee until the game ends. What does this suggest?",
    "opts": [
-    "Attention changes how strongly pain is felt",
     "The scrape was not real",
+    "Attention changes how strongly pain is felt",
     "The nerves in the knee stopped working"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The brain weighs pain against everything else it is paying attention to. The scrape was real, and the nerves worked, but the pain was turned down while the mind was busy.",
    "outcome": 5
   },
@@ -2499,11 +2499,11 @@
    "t": "mcq",
    "p": "What do the halteres of a fly do?",
    "opts": [
-    "They swing and sense when the body turns",
     "They help the fly smell",
+    "They swing and sense when the body turns",
     "They make the fly's buzzing sound"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The halteres swing as the wings beat. When the body turns, the swinging clubs are pushed sideways, and sensors at the base feel that push.",
    "outcome": 6
   },
@@ -2511,11 +2511,11 @@
    "t": "mcq",
    "p": "A pit viper has the same kind of gate that other animals use for pain. What does this suggest about how new senses begin?",
    "opts": [
-    "Evolution often tunes an old gate to a new job",
     "Evolution builds every sense from nothing",
-    "Snakes copy the senses of other animals"
+    "Snakes copy the senses of other animals",
+    "Evolution often tunes an old gate to a new job"
    ],
-   "a": 0,
+   "a": 2,
    "why": "In snakes and bats, the heat sense uses gates related to ones in other animals, tuned to different temperatures. Evolution often reuses what it has.",
    "outcome": 6
   },
@@ -2543,11 +2543,11 @@
      "t": "mcq",
      "p": "Which three sources of information does the brain mix to know whether you are upright?",
      "opts": [
-      "Eyes, inner ears, and sensors in the feet and muscles",
       "Nose, tongue and skin",
-      "Eyes, nose and ears"
+      "Eyes, nose and ears",
+      "Eyes, inner ears, and sensors in the feet and muscles"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Your eyes show where the horizon and the floor are. Your inner ears feel turning, tilting and speeding up. The sensors in your feet and muscles feel the ground and your joints. Smell and taste do not help you balance.",
      "outcome": 0
     },
@@ -2651,11 +2651,11 @@
      "t": "mcq",
      "p": "What does the head-turn reflex do?",
      "opts": [
-      "Moves your eyes the opposite way to your head, so what you look at stays steady",
       "Turns your head when your eyes move",
+      "Moves your eyes the opposite way to your head, so what you look at stays steady",
       "Makes you dizzy when you turn quickly"
      ],
-     "a": 0,
+     "a": 1,
      "why": "When your head turns, the inner ear starts a very quick eye movement the other way. This keeps the picture on your eye steady. Dizziness comes from the same reflex after spinning, but it is not the job of the reflex.",
      "outcome": 2
     },
@@ -2701,11 +2701,11 @@
      "t": "mcq",
      "p": "A fingertip rests on a still wall with a force too light to hold a person up. Why does it still steady them?",
      "opts": [
-      "It gives the brain extra information about how the body is moving",
       "It takes some of their weight",
-      "It makes the floor firmer"
+      "It makes the floor firmer",
+      "It gives the brain extra information about how the body is moving"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A still wall under a fingertip tells the brain exactly how the body is moving compared with the room. The force is much too small to carry weight. The touch works as a sense, not as a prop.",
      "outcome": 1
     },
@@ -2756,11 +2756,11 @@
      "t": "mcq",
      "p": "When the eyes are shut, the brain relies more on the inner ears and the feet. What is this called?",
      "opts": [
-      "Reweighting",
       "Reflecting",
-      "Dizziness"
+      "Dizziness",
+      "Reweighting"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Reweighting means listening more to the senses that work well and less to those that do not. The brain does this without you choosing.",
      "outcome": 1
     },
@@ -2768,11 +2768,11 @@
      "t": "mcq",
      "p": "A child reads a comic in a bus on a winding road and feels sick. Which pair of senses give messages that do not match?",
      "opts": [
-      "Her eyes say still, and her inner ears say moving",
       "Her nose says still, and her tongue says moving",
+      "Her eyes say still, and her inner ears say moving",
       "Her eyes and her ears both say moving"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The comic is still in her hands, so her eyes see no movement. Her inner ears feel every turn and bump. When these two disagree, the brain is confused. Looking at the horizon makes the messages agree again.",
      "outcome": 3
     },
@@ -2959,11 +2959,11 @@
      "t": "mcq",
      "p": "Scientists count the layers in a fish's ear stone. What do the layers tell them?",
      "opts": [
-      "How old the fish is, because the stone grows a layer at a time",
       "How fast the fish can swim",
+      "How old the fish is, because the stone grows a layer at a time",
       "What the fish ate yesterday"
      ],
-     "a": 0,
+     "a": 1,
      "why": "An ear stone grows a thin new layer every day, and thicker layers in good seasons, so the count shows the age. The stone does not tell speed or meals.",
      "outcome": 6
     }
@@ -2987,11 +2987,11 @@
      "t": "mcq",
      "p": "A child stands on one foot for the full 30 seconds in every one of her four balance tests. What should she do to learn something from the test?",
      "opts": [
-      "Make the pose harder, so the tests give different times",
       "Stop, because the test does not work",
+      "Make the pose harder, so the tests give different times",
       "Say that her balance is perfect"
      ],
-     "a": 0,
+     "a": 1,
      "why": "When every result hits the top time, the test cannot tell the conditions apart. Making the pose harder, such as heel to toe, spreads the results out. This is part of designing a good test.",
      "outcome": 7
     },
@@ -3018,11 +3018,11 @@
      "t": "mcq",
      "p": "In a room where the walls slide forward but the floor stays still, a toddler leans back. What is the best explanation?",
      "opts": [
-      "Her eyes say she is moving forward, and she corrects for it",
       "Her feet feel the walls moving",
-      "Her ears feel the floor sliding"
+      "Her ears feel the floor sliding",
+      "Her eyes say she is moving forward, and she corrects for it"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The eyes see the room sliding, which is how it looks when you move forward. The brain believes the eyes for a moment and leans back. The feet and ears are not fooled, and the floor does not move.",
      "outcome": 3
     },
@@ -3458,6 +3458,71 @@
     "a5",
     "a6"
    ]
+  },
+  {
+   "id": "b-a-digital-stopwatch--optiona",
+   "item": "A digital stopwatch (optional)",
+   "kind": "tool",
+   "why": "Used in The Balance Team: what happens when a helper is taken away?, Shake the Head or Shake the Page?, Ice in the Palm: does thinking about something else change the ache?. About ₹150 to ₹400. A phone stopwatch works well.",
+   "url": "https://www.amazon.in/s?k=digital+stopwatch",
+   "used_in": [
+    "e1",
+    "e2",
+    "e3",
+    "a2",
+    "a3",
+    "a4",
+    "p1"
+   ],
+   "plan": "Get it before The Balance Team: what happens when a helper is taken away?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Family Balance Lab: three days, eight people. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before Family Balance Lab: three days, eight people."
+  },
+  {
+   "id": "b-sticky-notes",
+   "item": "Sticky notes",
+   "kind": "material",
+   "why": "Used in Shake the Head or Shake the Page?. About ₹20 to ₹60. Small torn paper and tape do the same job.",
+   "url": "https://www.amazon.in/s?k=sticky+notes+pack",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before Shake the Head or Shake the Page?."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Night Path for Paati: help a grandparent walk safely in the dark. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before Night Path for Paati: help a grandparent walk safely in the dark."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

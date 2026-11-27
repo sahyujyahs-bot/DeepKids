@@ -740,11 +740,11 @@
       "t": "mcq",
       "q": "Which of these is true at EVERY age, from baby to elder?",
       "options": [
-       "Growing 25 centimetres a year",
        "Making new cells every second",
+       "Growing 25 centimetres a year",
        "Having a soft spot on the head"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Every living body, young or old, keeps making new cells, millions every second. Fast growing like 25 centimetres a year only happens in the first year. The soft spot on the head closes by about age two."
      },
      "context": "This step of the Life Stage Game is about the cards that are true at every age."
@@ -1000,36 +1000,36 @@
      "t": "mcq",
      "p": "A baby grows from about 50 cm to about 75 cm in their first year. An 8-year-old grows about 6 cm in a year. Who grows fastest?",
      "opts": [
-      "The baby, by about 25 cm in one year",
       "The 8-year-old, because she is older and bigger",
+      "The baby, by about 25 cm in one year",
       "They grow at the same speed",
       "Nobody grows after they are born"
      ],
-     "a": 0,
+     "a": 1,
      "why": "75 take away 50 is 25 cm in one year. That is about four times what an 8-year-old grows. The first year is the fastest growing of a whole life. Many children guess that the 8-year-old grows fastest, because they can see themselves growing out of clothes."
     },
     {
      "t": "mcq",
      "p": "A baby's head is about one quarter of their length. A grown-up's head is only about one eighth. What does this tell you?",
      "opts": [
-      "After birth, the arms, legs and body grow much more than the head",
       "A grown-up's head shrinks",
+      "After birth, the arms, legs and body grow much more than the head",
       "Babies have bigger heads than grown-ups",
       "Heads stop growing at birth"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The head is already big at birth, because the brain grows early. Then the legs and body do most of the growing. So the head becomes a smaller part of the whole. A grown-up's head is still bigger than a baby's, so 'bigger heads' is wrong."
     },
     {
      "t": "mcq",
      "p": "A grandmother's hair has turned grey. Her granddaughter says, 'Grandma's black hairs turned white.' What really happened?",
      "opts": [
-      "Her black hairs stayed black. The cells at the roots stopped making colour, so new hairs grew in white.",
       "Her black hairs slowly turned white from the tip down",
       "Dust collected on her hair",
+      "Her black hairs stayed black. The cells at the roots stopped making colour, so new hairs grew in white.",
       "The sun bleached every hair"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A hair that has already grown cannot change colour. Pigment cells at the root put colour into each new hair. As they run out, new hairs grow white. White hairs mixed with dark ones look grey from far away."
     },
     {
@@ -1054,12 +1054,12 @@
      "p": "In the near point test, you find how close a person can hold a card with tiny print and still read it. Before the test, a girl guessed that her mother, who is 46, would read the card closer than she could. 'Grown-ups read more, so their eyes are better at it,' she said. What did the test most likely show?",
      "how": "e2",
      "opts": [
-      "The girl read it closer. Her mother had to hold it further away, because her lens is stiffer.",
       "Her mother read it closer, because she reads more",
       "They both read it at exactly the same distance",
+      "The girl read it closer. Her mother had to hold it further away, because her lens is stiffer.",
       "Neither could read it at all"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Reading a lot does not keep the lens soft. The lens adds new layers all through life and gets stiffer. By about 45, most people must hold small print further away. A strong reason uses the lens, not practice."
     },
     {
@@ -1130,12 +1130,12 @@
      "t": "mcq",
      "p": "Your body makes millions of new cells every second. Which part is NOT replaced during your life?",
      "opts": [
+      "The cells in the middle of the eye lens",
       "The outer layer of skin",
       "Red blood cells",
-      "The cells in the middle of the eye lens",
       "The lining of the gut"
      ],
-     "a": 2,
+     "a": 0,
      "why": "The cells in the middle of your eye lens were made before you were born, and they stay all your life. Skin, blood and gut lining are replaced again and again. People who pick 'skin' often think skin stays the same, but the outer skin is replaced about every month."
     },
     {
@@ -1260,12 +1260,12 @@
      "t": "mcq",
      "p": "A grandmother slipped on a wet bathroom floor and broke her wrist. Her granddaughter slipped on the same floor last week and was not hurt. What is the most likely reason?",
      "opts": [
-      "Bones lose some hard minerals with age, so they break more easily",
       "The girl is lucky and the grandmother is not",
       "Children's bones are made of rubber",
-      "The grandmother fell from much higher up"
+      "The grandmother fell from much higher up",
+      "Bones lose some hard minerals with age, so they break more easily"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Older bones slowly lose some of their hard minerals, so the same fall can break them. That is why a rubber mat and a handrail in the bathroom help elders."
     },
     {
@@ -1294,12 +1294,12 @@
      "t": "mcq",
      "p": "Two twin sisters are 60 years old. They have the same genes. One sister worked outdoors in the hot sun all her life without a hat. The other worked indoors. Whose face most likely has more wrinkles, and why?",
      "opts": [
-      "The sister who worked in the sun, because sunlight slowly breaks down the springy threads in skin",
       "The indoor sister, because skin needs sun to stay smooth",
+      "The sister who worked in the sun, because sunlight slowly breaks down the springy threads in skin",
       "Both exactly the same, because twins have the same genes",
       "Neither, because wrinkles come only from smiling"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The twins have the same genes, so the difference must come from how they lived. Strong sunlight damages collagen and elastin, the springy threads you tested in the snap-back skin test. So a hat and shade help skin age more slowly. Picking 'same genes' forgets that genes are not the whole story."
     },
     {
@@ -1313,12 +1313,12 @@
      "t": "mcq",
      "p": "Jeanne Calment of France lived to 122. Some stories say a man in a village lived to 200. Why do scientists believe the 122 but not the 200?",
      "opts": [
-      "Jeanne Calment's birth was written down in records, so her age could be checked",
       "Scientists only believe stories from France",
       "Nobody can live past 100",
-      "200 is too big a number to count"
+      "200 is too big a number to count",
+      "Jeanne Calment's birth was written down in records, so her age could be checked"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Her birth certificate, school records and other papers showed when she was born. The 200-year stories have no records at all. Scientists trust a claim when it can be checked."
     },
     {
@@ -1467,12 +1467,12 @@
      "t": "mcq",
      "p": "Each time a cell splits, the caps on the ends of its gene threads get a little shorter. Skin cells split again and again all life. The cells in the middle of the eye lens hardly split at all. After 60 years, which cells would you expect to have shorter caps?",
      "opts": [
-      "The skin cells' caps",
       "The lens cells' caps",
+      "The skin cells' caps",
       "Both exactly the same",
       "Neither has caps"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The caps shorten with each split. Skin cells split many more times, so their caps shorten more. The lens shows that ageing is not only about splitting. It ages by keeping its old cells."
     },
     {
@@ -1486,12 +1486,12 @@
      "t": "mcq",
      "p": "Hydras are tiny water animals. In a 1998 study, hydras showed no signs of ageing for four years. What does this tell scientists?",
      "opts": [
-      "Ageing is not the same for every living being",
       "Hydras live for ever, for sure",
+      "Ageing is not the same for every living being",
       "All animals live four years",
       "Hydras are not alive"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Hydras seem to keep renewing their bodies. This shows ageing is not fixed for all life. Scientists still do not know if hydras truly never age."
     },
     {
@@ -1548,24 +1548,24 @@
      "t": "mcq",
      "p": "Astronauts who spend six months floating in space come back with weaker bones, a little like older people's bones. In space, their legs carry no weight. What does this suggest?",
      "opts": [
-      "Bones stay strong when they carry weight and are used, so walking and exercise help bones at any age",
       "Space air is bad for bones",
       "Astronauts get old very fast",
-      "Only age can make bones weaker"
+      "Only age can make bones weaker",
+      "Bones stay strong when they carry weight and are used, so walking and exercise help bones at any age"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Bones are living and are rebuilt all the time. When they carry weight, the body keeps them strong. With no weight to carry, the body takes some of their hard minerals away. So weak bones in old age are partly about less use, and walking, skipping and lifting help."
     },
     {
      "t": "mcq",
      "p": "Scientists tested thousands of people. Quick puzzles were done fastest by people in their twenties. But people kept learning more words into their sixties and seventies. A company needs someone to help new workers with hard problems. Someone says, 'Hire only young people.' What does the evidence say?",
      "opts": [
-      "An older worker's knowledge and experience may help more with hard problems",
       "Only young people can solve problems",
       "Old people know fewer words",
+      "An older worker's knowledge and experience may help more with hard problems",
       "Age makes no difference to anything"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Different abilities peak at different ages. Speed on quick puzzles is highest when young. Knowledge, words and experience keep growing. A strong team often needs both."
     },
     {
@@ -1960,11 +1960,11 @@
       "t": "mcq",
       "q": "In the high sound test, a child heard a beep of 15,000 hertz. Her grandfather did not. What is the best reason?",
       "options": [
-       "The tiny hair cells for high sounds wear out first as we age",
        "The grandfather was not listening",
+       "The tiny hair cells for high sounds wear out first as we age",
        "High sounds are too quiet for anyone over 10"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Deep inside the ear are tiny hair cells that pick up sounds. The ones for very high sounds wear out first over the years. Picking 'not listening' blames the person, but this happens to almost everyone as they age."
      },
      "how": "e3",
@@ -2188,11 +2188,11 @@
       "t": "mcq",
       "q": "Why do many elders walk carefully on wet floors?",
       "options": [
-       "Their bones are thinner, so a fall can break one more easily",
        "They are always tired",
-       "Their feet have got smaller"
+       "Their feet have got smaller",
+       "Their bones are thinner, so a fall can break one more easily"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Bones slowly lose some of their hard minerals with age, so a fall can break them more easily. Picking 'always tired' is a guess about elders that is often not true. Many elders are very active."
      },
      "think": "What could you change at home to make floors safer for an elder?",
@@ -2281,11 +2281,11 @@
       "t": "mcq",
       "q": "Which change in older bodies did the thick socks copy?",
       "options": [
-       "Stiffer joints and less sharp touch in the fingers",
        "Growing taller",
-       "Hearing high sounds less well"
+       "Hearing high sounds less well",
+       "Stiffer joints and less sharp touch in the fingers"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The socks made your fingers clumsy and less able to feel, a bit like stiff joints and duller touch in some elders' hands. They are not a model of height or hearing. The smeared glasses were a model of a cloudy lens, which many older eyes get. The blur at close range that you saw in the near point test is a different change."
      },
      "parent": "Gently point out that many elders are proud and capable. Good help means asking first, 'Would you like help?'",
@@ -2665,11 +2665,11 @@
       "t": "mcq",
       "q": "In the Easy-Open Jar challenge, a belt wrapped round the lid made it easier to turn. Why?",
       "options": [
-       "The long end works like a lever, so you need less force",
        "The belt makes the lid smaller",
+       "The long end works like a lever, so you need less force",
        "The belt warms the lid"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A long handle lets a small push at its end turn the lid with a bigger turning force, like a spanner. The lid does not get smaller. A rubber band works differently, by giving more grip."
      },
      "context": "This is the main step of the Easy-Open Jar. You test and score each idea."
@@ -2716,12 +2716,12 @@
    "t": "mcq",
    "p": "A boy is 15, and he is growing very fast. Which life stage is he in, and which stage comes next?",
    "opts": [
-    "Teenager, then adult",
     "Child, then teenager",
     "Adult, then older adult",
+    "Teenager, then adult",
     "Baby, then child"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A person aged about 13 to 19 is a teenager, and the teenage years have a growth spurt. Next comes the adult stage, when growing taller stops.",
    "outcome": 0
   },
@@ -2742,12 +2742,12 @@
    "t": "mcq",
    "p": "A mother is 45. She has started holding her phone far away to read messages. What would help her read up close?",
    "opts": [
-    "Reading glasses, which do the extra bending her stiff lens cannot do",
     "Longer arms",
     "A brighter phone only",
+    "Reading glasses, which do the extra bending her stiff lens cannot do",
     "Closing one eye"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Her lens has got stiffer, so it cannot bulge enough to focus on near things. Reading glasses add the extra bending. This happens to almost everyone by their mid-forties.",
    "outcome": 1
   },
@@ -2768,12 +2768,12 @@
    "t": "mcq",
    "p": "In the snap-back skin test, you pinch the back of a hand and count how long the skin takes to go flat. To make it fair, what must stay the same for everyone?",
    "opts": [
-    "The place pinched and how long it is pinched",
     "The person's age",
+    "The place pinched and how long it is pinched",
     "Nothing, it does not matter",
     "The colour of their clothes"
    ],
-   "a": 0,
+   "a": 1,
    "why": "In a fair test you change only the thing you are testing, here the age. Everything else, like the place and time of the pinch, stays the same.",
    "outcome": 2,
    "how": "e1"
@@ -2782,12 +2782,12 @@
    "t": "mcq",
    "p": "Your body makes about 4 million new cells every second. So why don't you keep getting bigger and bigger?",
    "opts": [
-    "Old cells die and are cleared away while new ones are made",
     "The new cells are invisible",
     "New cells are made only while you sleep",
+    "Old cells die and are cleared away while new ones are made",
     "You do get bigger every second, for ever"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Most new cells replace old ones that are worn out. Red blood cells last about four months, and skin cells about a month. So the body is rebuilt without growing.",
    "outcome": 3
   },
@@ -2821,12 +2821,12 @@
    "t": "mcq",
    "p": "A grandmother is 68. She wants to get up from a chair more easily. What is most likely to help?",
    "opts": [
-    "Standing up and sitting down slowly, a few times every day, to build leg muscles",
     "Staying sitting as much as she can, to rest her legs",
+    "Standing up and sitting down slowly, a few times every day, to build leg muscles",
     "Nothing can help after 60",
     "Only eating more sweets"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Muscles grow stronger with exercise at any age. In 1990, people aged about 90 got much stronger in eight weeks. Resting all the time makes muscles shrink.",
    "outcome": 4
   },
@@ -2834,12 +2834,12 @@
    "t": "mcq",
    "p": "A shop sells a cream that says it 'stops ageing'. What does the evidence say?",
    "opts": [
-    "No product has been shown to stop ageing in humans. Scientists still argue whether it can even be slowed.",
     "The cream will keep you young for ever",
     "Creams make cells stop being replaced",
+    "No product has been shown to stop ageing in humans. Scientists still argue whether it can even be slowed.",
     "Scientists all agree ageing is cured"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Scientists have made worms and mice live longer in the lab. But nothing has been shown to stop human ageing. Healthy food, sleep, exercise and friends are what the evidence supports.",
    "outcome": 5
   },
@@ -2847,12 +2847,12 @@
    "t": "mcq",
    "p": "Why did life expectancy in India rise from about 32 years in 1951 to about 70 today?",
    "opts": [
-    "Clean water, vaccines, better food and doctors saved many babies and children",
     "People started having more birthdays",
     "Bodies became made of different cells",
+    "Clean water, vaccines, better food and doctors saved many babies and children",
     "The weather got cooler"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Most of the change came from far fewer babies and children dying of illnesses. Picking 'more birthdays' mixes up counting years with the reasons people live longer.",
    "outcome": 5
   },
@@ -2860,12 +2860,12 @@
    "t": "mcq",
    "p": "What happens at the end of every life cycle?",
    "opts": [
-    "The living being dies, and their atoms return to the soil, water and air",
     "They start again as a baby the next day",
     "They turn into a different animal",
+    "The living being dies, and their atoms return to the soil, water and air",
     "Nothing ever dies"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Death is the last stage of every life cycle, for plants, animals and people. The atoms of the body are not lost but become part of other living beings. Families have many different beliefs about what happens after death.",
    "outcome": 6
   },
@@ -2873,12 +2873,12 @@
    "t": "mcq",
    "p": "Telomeres are tiny caps on the ends of the threads that hold our genes. What happens to them in many cells?",
    "opts": [
-    "They get shorter each time the cell splits",
     "They grow longer every birthday",
+    "They get shorter each time the cell splits",
     "They turn into hair",
     "They never change"
    ],
-   "a": 0,
+   "a": 1,
    "why": "In many cells the caps shorten with each split. When they get too short, the cell stops splitting. Elizabeth Blackburn and Carol Greider found the substance that can rebuild them.",
    "outcome": 7
   },
@@ -2886,12 +2886,12 @@
    "t": "mcq",
    "p": "In some families that gather wild food, grandmothers dig up food for their grandchildren. How might this help explain why humans live long after they stop having babies?",
    "opts": [
-    "Grandmothers who help feed grandchildren help more children survive",
     "Grandmothers never get old",
+    "Grandmothers who help feed grandchildren help more children survive",
     "Only humans have grandmothers",
     "Children do not need food from grown-ups"
    ],
-   "a": 0,
+   "a": 1,
    "why": "This is called the grandmother idea: long-lived grandmothers helped more children survive, so long lives were passed on. It is debated, and other scientists suggest other reasons too.",
    "outcome": 7
   }
@@ -3172,7 +3172,89 @@
    "why": "A science museum with hands-on galleries. Check what is showing about the body and health before you go."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in How Close Can You Read?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before How Close Can You Read?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in How Close Can You Read?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before How Close Can You Read?."
+  },
+  {
+   "id": "b-sticky-notes",
+   "item": "Sticky notes",
+   "kind": "material",
+   "why": "Used in The Sticky-Note Body. About ₹20 to ₹60. Small torn paper and tape do the same job.",
+   "url": "https://www.amazon.in/s?k=sticky+notes+pack",
+   "used_in": [
+    "a5"
+   ],
+   "plan": "Get it before The Sticky-Note Body."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Design an Elder-Friendly Room. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before Design an Elder-Friendly Room."
+  },
+  {
+   "id": "b-butter-paper-or-tracing-pape",
+   "item": "Butter paper or tracing paper",
+   "kind": "material",
+   "why": "Used in Socks on Your Hands: Trying Tasks Like an Elder. About ₹30 to ₹80 for a roll. Thin clean plastic bag or a sheet of waxed paper.",
+   "url": "https://www.amazon.in/s?k=butter+paper+roll",
+   "used_in": [
+    "a4"
+   ],
+   "plan": "Get it before Socks on Your Hands: Trying Tasks Like an Elder."
+  },
+  {
+   "id": "b-iron-nails-or-iron-filings",
+   "item": "Iron nails or iron filings",
+   "kind": "material",
+   "why": "Used in The Easy-Open Jar. About ₹20 to ₹80. Short steel nails from a hardware shop.",
+   "url": "https://www.amazon.in/s?k=iron+filings+science",
+   "used_in": [
+    "c2"
+   ],
+   "plan": "Get it before The Easy-Open Jar."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "Name the five life stages in order.",

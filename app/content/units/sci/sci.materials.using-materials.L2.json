@@ -440,10 +440,10 @@
       "q": "In your results table, what does a bigger number mean?",
       "options": [
        "The katori slid off sooner",
-       "The material held the katori longer, so it grips more",
-       "The katori was heavier"
+       "The katori was heavier",
+       "The material held the katori longer, so it grips more"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The number is the height of the board when the katori slid. A bigger height means the katori stayed on longer. If your rubber number is small, check that the katori sat on the rubber and not on the tape."
      }
     },
@@ -548,10 +548,10 @@
       "q": "Which property does a towel need for its job?",
       "options": [
        "Shiny",
-       "Waterproof",
-       "Soaks up water"
+       "Soaks up water",
+       "Waterproof"
       ],
-      "a": 2,
+      "a": 1,
       "why": "A towel's job is to dry you, so it must soak up water. A waterproof towel would leave you wet."
      }
     }
@@ -1211,11 +1211,11 @@
      "t": "mcq",
      "p": "In the tilt test, what do we measure?",
      "opts": [
-      "How high the lifted end is when the katori slides",
       "How heavy the katori is",
+      "How high the lifted end is when the katori slides",
       "How long the board is"
      ],
-     "a": 0,
+     "a": 1,
      "why": "We read the height of the lifted end at the moment the katori starts to slide. A bigger height means more grip.",
      "context": "This question is about the tilt test. You put a steel katori on a board covered with different materials, lift one end slowly, and measure how high it is when the katori slides.",
      "how": "e1"
@@ -1282,11 +1282,11 @@
      "t": "mcq",
      "p": "A park needs a new slide. Which property does the material for the slide need?",
      "opts": [
+      "It is slippery",
       "It grips well",
-      "It soaks up water",
-      "It is slippery"
+      "It soaks up water"
      ],
-     "a": 2,
+     "a": 0,
      "why": "A slide must let children slide down. A grippy material, like a rubber mat, would make them stop halfway."
     },
     {
@@ -1336,10 +1336,10 @@
      "p": "Someone says, 'Steel is good for a tumbler because it is shiny.' What does a tumbler really need?",
      "opts": [
       "To be shiny",
-      "To hold water and not break when dropped",
-      "To be cold"
+      "To be cold",
+      "To hold water and not break when dropped"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Being shiny does not help a tumbler hold water. Shiny is a property of steel, but it is not one the job needs."
     },
     {
@@ -1478,11 +1478,11 @@
      "t": "mcq",
      "p": "The tilt test was done once, and the katori slid off the cloth at 12 cm. Then a second person did it and got 9 cm. What should they do?",
      "opts": [
-      "Believe the first try only",
       "Try it 3 more times and look at the middle number",
+      "Believe the first try only",
       "Stop testing"
      ],
-     "a": 1,
+     "a": 0,
      "why": "One try can be a fluke. More tries show what usually happens.",
      "context": "This question is about the tilt test. You put a steel katori on a board covered with different materials, lift one end slowly, and measure how high it is when the katori slides.",
      "how": "e1"
@@ -1498,11 +1498,11 @@
      "t": "mcq",
      "p": "A ramp at the entrance of a building helps people in wheelchairs and people with walking sticks. Which surface is most suitable?",
      "opts": [
+      "Rough, so it grips wheels and feet",
       "Polished smooth, like a mirror",
-      "Covered with a plastic sheet",
-      "Rough, so it grips wheels and feet"
+      "Covered with a plastic sheet"
      ],
-     "a": 2,
+     "a": 0,
      "why": "A ramp is a slope. Without grip, wheels and feet slide back down, as the katori slid off the plastic in the tilt test."
     },
     {
@@ -1636,11 +1636,11 @@
    "t": "mcq",
    "p": "You put a katori on rubber bands and then on a plastic sheet, and tilt the board each time. Which holds the katori on a steeper tilt?",
    "opts": [
-    "The rubber bands",
     "The plastic sheet",
+    "The rubber bands",
     "Both the same"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Rubber grips much better. Picking 'both the same' may mean thinking only the katori matters, not what it sits on.",
    "outcome": 1,
    "how": "e1"
@@ -1661,11 +1661,11 @@
    "t": "mcq",
    "p": "Why is rubber a poor material to cover a slide?",
    "opts": [
-    "It is too shiny",
     "It grips, so you would stop halfway",
+    "It is too shiny",
     "It is see-through"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Rubber grips, so you would stop halfway down. The same grip is what makes rubber a good tray mat.",
    "outcome": 3
   },
@@ -1710,11 +1710,11 @@
    "t": "mcq",
    "p": "You think cloth will grip better than newspaper. What should you do next?",
    "opts": [
-    "Test both on the tilted board and compare",
     "Write it down as true",
-    "Ask a friend only"
+    "Ask a friend only",
+    "Test both on the tilted board and compare"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A guess becomes something we know only after a test.",
    "outcome": 5
   },
@@ -1723,10 +1723,10 @@
    "p": "A new material makes water and oil run straight off it, instead of soaking in. Which job would it be right for?",
    "opts": [
     "Making tyres",
-    "Keeping cloth clean",
-    "Building slides"
+    "Building slides",
+    "Keeping cloth clean"
    ],
-   "a": 1,
+   "a": 2,
    "why": "If water and oil run off, spills cannot soak into cloth, so it works as a stain guard. A material wrong for one job can be right for another.",
    "outcome": 3
   },
@@ -1735,10 +1735,10 @@
    "p": "A raincoat must keep water out and bend when you move. Which material is suitable?",
    "opts": [
     "Newspaper",
-    "Steel",
-    "Plastic"
+    "Plastic",
+    "Steel"
    ],
-   "a": 2,
+   "a": 1,
    "why": "Plastic is waterproof and flexible. Steel is waterproof but rigid. Newspaper soaks up water.",
    "outcome": 0
   },
@@ -1746,11 +1746,11 @@
    "t": "mcq",
    "p": "Why does soft rubber grip a katori so well?",
    "opts": [
-    "It squashes into the tiny bumps and touches in many places",
     "It is wet",
-    "It is heavy"
+    "It is heavy",
+    "It squashes into the tiny bumps and touches in many places"
    ],
-   "a": 0,
+   "a": 2,
    "why": "More places touching means more grip. Picking 'it is wet' may come from thinking of wet floors, but water usually makes things slip.",
    "outcome": 2
   }
@@ -1904,7 +1904,69 @@
    "why": "A science museum with hands-on exhibits for children."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-one-plastic-bag",
+   "item": "One Plastic Bag: Isatou Ceesay and the Recycling Women of the Gambia by Miranda Paul",
+   "kind": "book",
+   "why": "Women in the Gambia turned plastic waste into something useful. It makes the child ask what to do with the materials we throw away.",
+   "url": "https://www.amazon.in/s?k=One+Plastic+Bag",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Read it together after the lesson on how materials are used."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Tilt Test: which material makes the best tray mat?, Heavy or Light: does a heavier katori grip better?, The Slipperiest Slide for a Matchbox. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "a3",
+    "c1"
+   ],
+   "plan": "Get it before The Tilt Test: which material makes the best tray mat?."
+  },
+  {
+   "id": "b-balloons--a-packet",
+   "item": "Balloons (a packet)",
+   "kind": "material",
+   "why": "Used in The Tilt Test: which material makes the best tray mat?. About ₹20 to ₹60.",
+   "url": "https://www.amazon.in/s?k=balloons+packet",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before The Tilt Test: which material makes the best tray mat?."
+  },
+  {
+   "id": "b-butter-paper-or-tracing-pape",
+   "item": "Butter paper or tracing paper",
+   "kind": "material",
+   "why": "Used in The Slipperiest Slide for a Matchbox. About ₹30 to ₹80 for a roll. Thin clean plastic bag or a sheet of waxed paper.",
+   "url": "https://www.amazon.in/s?k=butter+paper+roll",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before The Slipperiest Slide for a Matchbox."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "What is friction?",

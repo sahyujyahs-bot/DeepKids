@@ -1,9 +1,9 @@
 # Batteries, electrolysis and rust: what happens when a metal gives away electrons
 `sci.chemistry.electrochemistry.L4`
 
-**Summary.** A lemon with two bits of metal in it can make electricity. How? In this unit you will build a lemon battery and try different pairs of metals, read the volts on batteries at home, and rust nails with a cell to see why iron rusts.
+**Summary.** A lemon with two bits of metal in it can make electricity. How? In this lesson you will build a lemon battery and try different pairs of metals, read the volts on batteries at home, and rust nails with a cell to see why iron rusts.
 
-**Intro.** *A lemon has no battery inside it. So how can a lemon make a pair of earphones crackle?* A lemon alone does nothing to a pair of earphones. A lemon with two copper wires does nothing either. But a lemon with one copper wire and one zinc-coated nail makes the earphones crackle. In this unit you find out why the two metals must be different. You also make a steel nail rust in ten minutes, and split water with four AA cells. All three happen for the same reason. The cells you use are small ones, and you never use electricity from a wall socket.
+**Intro.** *A lemon has no battery inside it. So how can a lemon make a pair of earphones crackle?* A lemon alone does nothing to a pair of earphones. A lemon with two copper wires does nothing either. But a lemon with one copper wire and one zinc-coated nail makes the earphones crackle. In this lesson you find out why the two metals must be different. You also make a steel nail rust in ten minutes, and split water with four AA cells. All three happen for the same reason. The cells you use are small ones, and you never use electricity from a wall socket.
 
 ## Learning outcomes
 0. I can build a lemon cell and say what the two metals, the juice and the wire each do.
@@ -55,7 +55,7 @@ Chemists have tested metals against each other and put them in order. From the t
 ### Volts say how hard a cell pushes, not how much it can give · *defined*
 **Definition:** A volt is the unit for how hard a cell pushes electrons. The number of electrons that pass each second is called the current.
 
-A lemon cell pushes with about 0.9 volts, and an AA cell with 1.5 volts. Cells joined in a row, plus to minus, add their pushes. Four lemon cells give about 3.6 volts, which is more than two AA cells. Yet four lemons light only a small red LED, and only faintly. They can never light a torch bulb. The reason is that a lemon cell lets very few electrons through each second. Its ions drift slowly through the juice, and the metals touch only a little juice. A torch bulb needs hundreds of times more electrons each second than a lemon can pass. An AA cell is built to pass that many. So a battery has two different numbers: how hard it pushes, and how much it can deliver. A wall socket pushes with 230 volts and can deliver enough to kill. That is why this unit uses only small cells.
+A lemon cell pushes with about 0.9 volts, and an AA cell with 1.5 volts. Cells joined in a row, plus to minus, add their pushes. Four lemon cells give about 3.6 volts, which is more than two AA cells. Yet four lemons light only a small red LED, and only faintly. They can never light a torch bulb. The reason is that a lemon cell lets very few electrons through each second. Its ions drift slowly through the juice, and the metals touch only a little juice. A torch bulb needs hundreds of times more electrons each second than a lemon can pass. An AA cell is built to pass that many. So a battery has two different numbers: how hard it pushes, and how much it can deliver. A wall socket pushes with 230 volts and can deliver enough to kill. That is why this lesson uses only small cells.
 - e.g. One lemon cell gives about 0.9 volts. Four lemon cells joined in a row give about 3.6 volts.
 - e.g. A red LED needs about 1.8 volts and very few electrons each second, so lemons can light it.
 - e.g. A torch bulb needs many electrons each second, so lemons cannot light it.
@@ -148,7 +148,7 @@ On the deep sea floor there are vents where warm water full of minerals seeps ou
   Against: Splitting water takes more energy than the hydrogen gives back. Hydrogen is hard to store. For cars, batteries waste much less energy. Hydrogen may suit ships, steel plants and fertiliser factories better.
 
 ## Roots
-In this unit you made a lemon cell crackle, rusted a nail in ten minutes and split water. Here we ask what it means that a useful battery and a rusting gate are the same change.
+In this lesson you made a lemon cell crackle, rusted a nail in ten minutes and split water. Here we ask what it means that a useful battery and a rusting gate are the same change.
 
 **Deep truth.** In the Lemon Battery test, the zinc nail gave away electrons and turned dull. In Rust in Ten Minutes, the nail that gave away electrons was eaten into rust. A rusting gate gives its electrons to oxygen in the same way. So a battery is a kind of corrosion in which the electrons are first sent through a wire.  
 *Habit it breaks:* We put batteries with useful things that people make, and rust with damage and decay. They are one change. The only difference is whether the electrons pass through a wire, where they can do some work on the way.  
@@ -160,8 +160,8 @@ In this unit you made a lemon cell crackle, rusted a nail in ten minutes and spl
 
 A battery, a rusting gate, a breathing child and a bacterium in mud look like four different things. In each of them, electrons leave one substance and go to another. The electron that lights an LED is the same kind of particle as the electron that rusts a nail. Many sages taught that one reality appears in many forms. The science here says something smaller and exact: several changes that we name separately are one kind of change.
 
-- **Chandogya Upanishad 6.1.6:** “यथा सोम्यैकेन नखनिकृन्तनेन सर्वं कार्ष्णायसं विज्ञातं स्यात् / वाचारम्भणं विकारो नामधेयं कृष्णायसमित्येव सत्यम्” Uddalaka tells his son that by knowing one small tool of iron, all that is made of iron is known. The different forms are only names, and the truth is that all of them are iron. (The verse is about the one reality behind all things, and it uses iron as its picture. This unit found a small case of it. 'Battery', 'electrolysis' and 'rust' are three names. The passing of electrons is what all three are.)
-- **Tao Te Ching, chapter 40:** “反者道之動。” The chapter begins by saying that returning is how the Way moves. (The text is about nature as a whole, and it is not about chemistry. Yet every change in this unit could be turned back. Charging pushes a battery's change backwards. In Give It Back, the gases from split water joined again and made the earphones crackle. Rusting returns iron to what it was in the ground.)
+- **Chandogya Upanishad 6.1.6:** “यथा सोम्यैकेन नखनिकृन्तनेन सर्वं कार्ष्णायसं विज्ञातं स्यात् / वाचारम्भणं विकारो नामधेयं कृष्णायसमित्येव सत्यम्” Uddalaka tells his son that by knowing one small tool of iron, all that is made of iron is known. The different forms are only names, and the truth is that all of them are iron. (The verse is about the one reality behind all things, and it uses iron as its picture. This lesson found a small case of it. 'Battery', 'electrolysis' and 'rust' are three names. The passing of electrons is what all three are.)
+- **Tao Te Ching, chapter 40:** “反者道之動。” The chapter begins by saying that returning is how the Way moves. (The text is about nature as a whole, and it is not about chemistry. Yet every change in this lesson could be turned back. Charging pushes a battery's change backwards. In Give It Back, the gases from split water joined again and made the earphones crackle. Rusting returns iron to what it was in the ground.)
 - **Dhammapada, verse 277:** “Sabbe saṅkhārā aniccā,” The Buddha says that all things that are put together are impermanent. (The verse is about how to live, and it is not about metals. Yet iron shows it plainly. Every iron thing is slowly going back to the oxide it was made from. Paint and zinc slow the return, and they do not end it.)
 - Science (settled): Iron ore is iron joined to oxygen. Making steel separates the two, and rusting joins them again.
 - Science (settled): Living cells get their energy by passing electrons from food to oxygen in small steps. Peter Mitchell proposed in 1961 how cells use this passing. Jennifer Moyle's experiments helped prove it. It is found in almost all living things.
@@ -572,7 +572,7 @@ In June the ban ended. The winch let Kadal Rani down the slipway, and the water 
 ## Worksheets
 ### Cells, split water and rust (core, 15 questions)
 1. (mcq) What does a lemon cell need so that electrons flow through a wire?  
-   Options: Two different metals in the juice / Two pieces of the same metal / A very sour lemon and nothing else / A lemon that has been warmed  
+   Options: Two pieces of the same metal / A very sour lemon and nothing else / Two different metals in the juice / A lemon that has been warmed  
    **Answer:** Two different metals in the juice. *Why:* One metal must give away electrons more easily than the other. Two pieces of the same metal push equally, so nothing flows.
 2. (fill) A liquid with ions in it, such as lemon juice or salt water, is called an ____.  
    **Answer:** ['electrolyte']. *Why:* The ions in an electrolyte carry charge through the liquid. Without them the loop is not complete.
@@ -590,12 +590,12 @@ In June the ban ended. The winch let Kadal Rani down the slipway, and the water 
 8. (fill) The unit that tells how hard a cell pushes electrons is the ____.  
    **Answer:** ['volt']. *Why:* An AA cell pushes with 1.5 volts. A lemon cell pushes with about 0.9 volts.
 9. (mcq) Which two gases does an electric current split water into?  
-   Options: Hydrogen and oxygen / Steam and air / Carbon dioxide and oxygen / Hydrogen and nitrogen  
+   Options: Steam and air / Hydrogen and oxygen / Carbon dioxide and oxygen / Hydrogen and nitrogen  
    **Answer:** Hydrogen and oxygen. *Why:* A water molecule is two hydrogen atoms and one oxygen atom. A current separates them. Steam is still water.
 10. (sort) Sort these. Must each one be present for iron to rust?  
    **Answer:** iron → Needed for rust; water → Needed for rust; oxygen → Needed for rust; salt → Not needed for rust; sunlight → Not needed for rust; copper → Not needed for rust. *Why:* Rust forms when iron gives electrons to oxygen with water present. Salt only makes it faster.
 11. (mcq) Why does a cycle rust faster near the sea than far inland?  
-   Options: Salty, damp air carries ions well / Sea air is much colder / Sea air has no oxygen / Sand polishes the paint  
+   Options: Sea air is much colder / Salty, damp air carries ions well / Sea air has no oxygen / Sand polishes the paint  
    **Answer:** Salty, damp air carries ions well. *Why:* Salt water is a good electrolyte. It lets the tiny cells on the iron's surface work faster.
 12. (write) Two copper wires in a lemon give no crackle in earphones. Explain why.  
    **Answer:** Both wires are the same metal, so both hold their electrons equally strongly. Neither gives electrons to the other, so no electrons flow.. *Why:* A strong answer says that a cell needs a difference between its two metals.
@@ -604,17 +604,17 @@ In June the ban ended. The winch let Kadal Rani down the slipway, and the water 
 14. (draw) Draw a lemon cell. Label the zinc, the copper and the way the electrons flow.  
    **Answer:** A lemon with a zinc nail and a copper wire in it, joined outside by a wire. An arrow on the outside wire points from the zinc to the copper.. *Why:* A strong drawing shows two different metals and a complete loop. The arrow must run from zinc to copper through the outside wire.
 15. (mcq) What is a galvanised bucket coated with?  
-   Options: Zinc / Paint / Copper / Rust  
+   Options: Paint / Zinc / Copper / Rust  
    **Answer:** Zinc. *Why:* Galvanised means coated with zinc. The zinc corrodes in place of the steel under it.
 ### Why it happens (stretch, 15 questions)
 1. (mcq) Which pair is furthest apart on the metal ladder, and so pushes hardest in a cell?  
-   Options: Magnesium and gold / Zinc and iron / Copper and copper / Tin and copper  
+   Options: Zinc and iron / Magnesium and gold / Copper and copper / Tin and copper  
    **Answer:** Magnesium and gold. *Why:* Magnesium is at the top of the ladder and gold is at the bottom. Copper and copper are on the same rung and give no push.
 2. (mcq) Four lemon cells give 3.6 volts, yet they cannot light a torch bulb. Why?  
-   Options: Too few electrons pass each second / The volts are too high / Lemons contain no acid / The bulb is the wrong colour  
+   Options: The volts are too high / Lemons contain no acid / The bulb is the wrong colour / Too few electrons pass each second  
    **Answer:** Too few electrons pass each second. *Why:* Volts say how hard the cells push. A torch bulb also needs many electrons each second, and a lemon passes very few.
 3. (mcq) When a current splits water, which gas comes off at the minus electrode?  
-   Options: Hydrogen / Oxygen / Steam / Carbon dioxide  
+   Options: Oxygen / Steam / Hydrogen / Carbon dioxide  
    **Answer:** Hydrogen. *Why:* The cells push electrons into the minus electrode. Water molecules take them and split, and hydrogen bubbles off.
 4. (truefalse) Charging a phone pushes the change inside its battery backwards.  
    **Answer:** True. *Why:* True. The charger's current forces the change the other way. That is electrolysis inside the battery.
@@ -640,20 +640,20 @@ In June the ban ended. The winch let Kadal Rani down the slipway, and the water 
 14. (label) Label three parts of this AA cell cut in half: the zinc can, the black paste and the carbon rod.  
    **Answer:** ['The zinc can: the outer metal wall, which gives away electrons', 'The black paste: it holds manganese dioxide, which takes the electrons', 'The carbon rod: the dark rod down the middle, which collects electrons']. *Why:* A shop cell has the same parts as a lemon cell. It has a giver of electrons, a taker, and a paste with ions between them.
 15. (mcq) A steel bolt sits in an aluminium window frame near the sea. Which metal corrodes first?  
-   Options: The aluminium around the bolt / The steel bolt / Both at the same speed / Neither of them  
+   Options: The steel bolt / The aluminium around the bolt / Both at the same speed / Neither of them  
    **Answer:** The aluminium around the bolt. *Why:* Aluminium is above iron on the metal ladder. Where the two touch in salty damp air, the aluminium gives the electrons.
 ### Testing the idea (challenge, 15 questions)
 1. (mcq) Someone says the lemon is the source of a lemon battery's electricity. Which test checks this best?  
-   Options: Try the same metals in salt water / Use a bigger lemon / Use a greener lemon / Squeeze the lemon harder  
+   Options: Use a bigger lemon / Use a greener lemon / Try the same metals in salt water / Squeeze the lemon harder  
    **Answer:** Try the same metals in salt water. *Why:* If the metals still give a current with no lemon at all, the lemon cannot be the source. The other tests all keep the lemon.
 2. (mcq) A pile of six foil and copper cells crackles less than a pile of three. What is the likeliest fault?  
-   Options: Wet paper is joining two cells together / Six cells always cancel out / The foil is too shiny / The earphones are worn out  
+   Options: Six cells always cancel out / Wet paper is joining two cells together / The foil is too shiny / The earphones are worn out  
    **Answer:** Wet paper is joining two cells together. *Why:* Each cell must be separate. If liquid runs down the side and joins two cells, those cells stop adding their pushes.
 3. (mcq) Engineers join a buried steel pipeline to one end of a power supply to stop rust. Which end?  
-   Options: The minus end, which pushes electrons in / The plus end, which pulls electrons out / Either end works equally / Both ends at once  
+   Options: The plus end, which pulls electrons out / Either end works equally / Both ends at once / The minus end, which pushes electrons in  
    **Answer:** The minus end, which pushes electrons in. *Why:* Iron rusts by losing electrons. A pipe joined to the minus end is given electrons, so it loses none. A nail on the plus wire rusts in minutes.
 4. (mcq) Iron is found in the ground only as ore, but gold is found as metal. Why?  
-   Options: Gold holds its electrons far more strongly / Gold is heavier than iron / Iron formed more recently / Gold lies deeper down  
+   Options: Gold is heavier than iron / Iron formed more recently / Gold lies deeper down / Gold holds its electrons far more strongly  
    **Answer:** Gold holds its electrons far more strongly. *Why:* Iron gives electrons to oxygen easily, so over time it all joins with oxygen. Gold is at the bottom of the metal ladder and stays as metal.
 5. (truefalse) A cell with more volts always lasts longer.  
    **Answer:** False. *Why:* False. Volts say how hard a cell pushes. How long it lasts depends on how much of its substances are left to use up.
@@ -685,13 +685,13 @@ In June the ban ended. The winch let Kadal Rani down the slipway, and the water 
 
 ## Quiz
 1. (mcq) Which pair, pushed into a lemon, makes electrons flow through a wire?  
-   Options: A zinc nail and a copper wire / Two copper wires / Two zinc nails / Two plastic straws  
+   Options: Two copper wires / A zinc nail and a copper wire / Two zinc nails / Two plastic straws  
    **Answer:** A zinc nail and a copper wire. *Why:* The two metals must be different. Zinc gives away electrons more easily than copper, so electrons flow from zinc to copper.
 2. (mcq) Why do two pieces of the same metal in a lemon give no current?  
-   Options: Neither gives electrons more easily than the other / The same metal is too clean / The lemon only works with copper / Their electrons are too heavy  
+   Options: The same metal is too clean / The lemon only works with copper / Their electrons are too heavy / Neither gives electrons more easily than the other  
    **Answer:** Neither gives electrons more easily than the other. *Why:* A current needs a difference. Two pieces of one metal sit on the same rung of the metal ladder, so there is no push.
 3. (mcq) Where does the energy of a lemon battery come from?  
-   Options: The zinc, as it is used up / The sourness of the lemon / The earphones / The air around the lemon  
+   Options: The sourness of the lemon / The zinc, as it is used up / The earphones / The air around the lemon  
    **Answer:** The zinc, as it is used up. *Why:* The zinc changes as it gives away electrons, and that change gives the energy. The lemon is the path, and salt water can replace it.
 4. (mcq) What does a volt measure?  
    Options: How hard a cell pushes electrons / How long a cell lasts / How heavy a cell is / How many cells are in a pack  
@@ -700,22 +700,22 @@ In June the ban ended. The winch let Kadal Rani down the slipway, and the water 
    Options: 2.7 volts / 0.9 volts / 0.3 volts / 9 volts  
    **Answer:** 2.7 volts. *Why:* Cells in a row add their pushes. 0.9 added three times is 2.7.
 6. (mcq) What is electrolysis?  
-   Options: Using a current to force a chemical change / Rubbing two things to make charge / Melting a metal with heat / Mixing an acid with a base  
+   Options: Rubbing two things to make charge / Using a current to force a chemical change / Melting a metal with heat / Mixing an acid with a base  
    **Answer:** Using a current to force a chemical change. *Why:* In electrolysis the current comes from outside and forces a change, such as splitting water. It is a battery's change run backwards.
 7. (mcq) A current splits water. How do the amounts of the two gases compare?  
-   Options: Twice as much hydrogen as oxygen / The same amount of each / Twice as much oxygen as hydrogen / Only hydrogen comes off  
+   Options: The same amount of each / Twice as much oxygen as hydrogen / Only hydrogen comes off / Twice as much hydrogen as oxygen  
    **Answer:** Twice as much hydrogen as oxygen. *Why:* A water molecule has two hydrogen atoms and one oxygen atom, so twice as much hydrogen is set free.
 8. (mcq) Which three things together make iron rust?  
    Options: Iron, water and oxygen / Iron, salt and sunlight / Iron, oil and air / Iron, heat and paint  
    **Answer:** Iron, water and oxygen. *Why:* Iron gives electrons to oxygen, and water must be there for it to happen. Salt only speeds it up.
 9. (mcq) Why does salt water rust iron faster than plain water?  
-   Options: It carries ions well / It is heavier / It holds no oxygen / It scratches the iron  
+   Options: It is heavier / It carries ions well / It holds no oxygen / It scratches the iron  
    **Answer:** It carries ions well. *Why:* Rusting works like a tiny cell on the iron's surface. Salt water is a good electrolyte, so the cell works faster.
 10. (mcq) How does a coat of zinc protect steel?  
-   Options: Zinc gives electrons in place of the iron / Zinc is harder than steel / Zinc keeps the steel warm / Zinc soaks up the water  
+   Options: Zinc is harder than steel / Zinc gives electrons in place of the iron / Zinc keeps the steel warm / Zinc soaks up the water  
    **Answer:** Zinc gives electrons in place of the iron. *Why:* Zinc is above iron on the metal ladder. While the two touch, the zinc corrodes and the iron is spared, even at a scratch.
 11. (mcq) A test changes the metals, the liquid and the earphones all at once. What is wrong with it?  
-   Options: You cannot tell which change mattered / It uses too many things / It is over too quickly / Nothing is wrong with it  
+   Options: It uses too many things / You cannot tell which change mattered / It is over too quickly / Nothing is wrong with it  
    **Answer:** You cannot tell which change mattered. *Why:* A fair test changes one thing and keeps the rest the same. Then any difference in the result comes from that one thing.
 12. (mcq) How is a rusting gate like a battery?  
    Options: In both, a metal gives away electrons / Both store charge to use later / Both need lemon juice / Both are made of zinc  
@@ -735,7 +735,7 @@ In June the ban ended. The winch let Kadal Rani down the slipway, and the water 
 - Dull grey roofing sheets with a pattern like frost on them. That pattern is the zinc coat.
 - A white or green crust on the ends of old cells inside a TV remote.
 - Green patches on an old brass lamp or a copper pot.
-- The Iron Pillar in the Qutb complex in Delhi. It has stood in the open for about 1,600 years with very little rust.
+- An old iron pillar or iron gate standing in the open with very little rust, while a newer iron rod nearby is rusty.
 - Painters at work on a steel railway bridge that crosses a sea channel.
 - E-rickshaws and electric autos plugged in at a charging stand.
 
@@ -787,14 +787,22 @@ Hold On Tight (sci.chemistry.L4): Topic-level song
 - [Iron pillar of Delhi (Wikipedia)](https://en.wikipedia.org/wiki/Iron_pillar_of_Delhi) · interactive: For the parent: what the pillar is made of and why it has rusted so little.
 - [Circuit Construction Kit: DC (PhET, University of Colorado)](https://phet.colorado.edu/en/simulations/circuit-construction-kit-dc) · simulation: Join cells in a row on screen and read the volts with a meter, with no real cells needed.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in/) · place · Bengaluru: Its ElectroTechnic Gallery is about electricity, and the museum has a fun science gallery for children.
-- [The Iron Pillar in the Qutb complex]() · place · Delhi: Stand beside an iron pillar that has been in the open for about 1,600 years, and look for rust.
+- The Iron Pillar in the Qutb complex · place · Delhi: Stand beside an iron pillar that has been in the open for about 1,600 years, and look for rust.
 
 ## Things to buy
 - [A handful of galvanised (zinc-coated) nails, about 5 centimetres long](https://www.amazon.in/s?k=galvanised+nails+2+inch) (material): For the zinc side of the lemon cells. A hardware shop sells them loose for a few rupees. Folded kitchen foil works less well in their place. Used in e1, a2, p1. 
 - [A handful of plain steel nails (bright wire nails), about 5 centimetres long](https://www.amazon.in/s?k=steel+wire+nails+2+inch) (material): For the nails that rust. They must not be galvanised or painted. Any hardware shop has them. Used in e2, p1. 
 - [A holder for four AA cells, with two wires](https://www.amazon.in/s?k=4+AA+battery+holder+with+wires) (tool): It joins four cells in a row to give 6 volts, and keeps them from slipping. Cells taped end to end in a paper tube also work. Used in e2, e3, a3. 
 - [A few red LEDs, 5 millimetres wide](https://www.amazon.in/s?k=red+LED+5mm) (material): A red LED lights at a lower voltage than other colours, so four lemon cells can make it glow. Buy it only if you want to see the glow. Used in e1, c1. 
-- [A small digital multimeter](https://www.amazon.in/s?k=digital+multimeter) (tool): It shows the volts of each cell as a number. Everything in this unit works without one, so buy it only if you want the numbers. Used in e1, c1. 
+- [A small digital multimeter](https://www.amazon.in/s?k=digital+multimeter) (tool): It shows the volts of each cell as a number. Everything in this lesson works without one, so buy it only if you want the numbers. Used in e1, c1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Rust in Ten Minutes: which nail do the cells rust?, Give It Back: can split water make earphones crackle?, Electric Writing: which wire writes red on turmeric paper?. About ₹10 to ₹30. Any school ruler is fine. Used in e2, e3, a3. Get it before Rust in Ten Minutes: which nail do the cells rust?.
+- [Small torch bulbs or LEDs with a holder](https://www.amazon.in/s?k=torch+bulb+holder+set) (tool): Used in The Lemon Battery: which pairs of metals make a lemon crackle?, The Kitchen Pile: build a battery with no lemon. About ₹10 to ₹50. A small torch can be taken apart for its bulb. Used in e1, c1. Get it before The Lemon Battery: which pairs of metals make a lemon crackle?.
+- [Baking soda](https://www.amazon.in/s?k=baking+soda) (material): Used in Give It Back: can split water make earphones crackle?. About ₹20 to ₹40. Check the kitchen first. Used in e3. Get it before Give It Back: can split water make earphones crackle?.
+- [Vinegar](https://www.amazon.in/s?k=white+vinegar) (material): Used in Not Only Lemons: what can sit between the two metals?, The Kitchen Pile: build a battery with no lemon. About ₹40 to ₹80. Lemon juice works for many tests. Used in a2, c1. Get it before Not Only Lemons: what can sit between the two metals?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Electron Path: move the coins round a lemon cell. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a4. Get it before Electron Path: move the coins round a lemon cell.
+- [A kitchen or weighing scale](https://www.amazon.in/s?k=digital+kitchen+weighing+scale) (tool): Used in Battery Hunt: read the volts. About ₹300 to ₹700. A home-made balance from a ruler and two cups can compare weights. Used in a1. Get it before Battery Hunt: read the volts.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Rust in Ten Minutes: which nail do the cells rust?, The Kitchen Pile: build a battery with no lemon. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e2, c1. Get it before Rust in Ten Minutes: which nail do the cells rust?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What two things does a lemon need pushed into it to make a cell? → Two different metals, such as zinc and copper.
@@ -814,7 +822,7 @@ Hold On Tight (sci.chemistry.L4): Topic-level song
 ## Sources
 - Founder's notebook, Chemistry list, the Electrochemistry items: redox reactions and half-cells, galvanic and electrolytic cells, electrolysis and corrosion, and corrosion science and coatings. The Nernst equation and electrode potentials as numbers are left for later levels. Lithium-ion cells, electroplating and the full story of Volta and Faraday are left for sci.chemistry.electrochemistry.L5, as the curriculum says.
 - Founder's notebook, Electricity topic: 'use a lemon battery to light a LED' and 'build a potato battery'. Both are used, in the Lemon Battery test and in Not Only Lemons.
-- Other units were read so that nothing repeats. Split Water with a Pencil and a Battery and its bubble counts are in sci.chemistry.bonds.L3, so this unit asks a new question of split water (Give It Back). Rust Uses Up Air and the Rust Survey are in sci.changes.chemical-reactions.L4, the Rust Race with five nails is in sci.chemistry.reaction-speed.L4, and nails under oil are in sci.evolution.story-of-life.L3. The rust tests here use a cell pack and a second metal. Galvani and Volta's quarrel is told in sci.electricity.simple-circuits.L3, so the discovery story here starts after it.
+- Other units were read so that nothing repeats. Split Water with a Pencil and a Battery and its bubble counts are in sci.chemistry.bonds.L3, so this lesson asks a new question of split water (Give It Back). Rust Uses Up Air and the Rust Survey are in sci.changes.chemical-reactions.L4, the Rust Race with five nails is in sci.chemistry.reaction-speed.L4, and nails under oil are in sci.evolution.story-of-life.L3. The rust tests here use a cell pack and a second metal. Galvani and Volta's quarrel is told in sci.electricity.simple-circuits.L3, so the discovery story here starts after it.
 - Volta A. (1800). On the electricity excited by the mere contact of conducting substances of different kinds. Philosophical Transactions of the Royal Society 90: 403-431.
 - Nicholson W. (1800). Account of the new electrical or galvanic apparatus of Sig. Alex. Volta, and experiments performed with the same. Journal of Natural Philosophy, Chemistry and the Arts 4.
 - Davy H. (1807). The Bakerian Lecture: on some chemical agencies of electricity. Philosophical Transactions of the Royal Society 97: 1-56.

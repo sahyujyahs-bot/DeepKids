@@ -662,11 +662,11 @@
       "q": "The Muscle cell needs 2 protein. Which card feeds this cell in one go?",
       "options": [
        "Rice",
-       "Moong dal",
        "Spoon of ghee",
-       "Amla"
+       "Amla",
+       "Moong dal"
       ],
-      "a": 1,
+      "a": 3,
       "why": "Moong dal gives 2 protein, so the dal feeds the Muscle cell in one turn. Muscles are built from the amino acids in protein. Rice gives energy, not much protein. Ghee gives fat. Amla gives vitamin C. Picking rice usually means thinking 'filling' food builds muscles. Being full is not the same as getting protein."
      }
     },
@@ -986,11 +986,11 @@
      "t": "mcq",
      "p": "Here is an idea: \"Potato is a vegetable. So a plate of rice and potato curry is half vegetables.\" What is the mistake in this thinking?",
      "opts": [
-      "Potato is mostly starch, so in the body it acts more like rice than like greens",
       "Potato is not a plant",
+      "Potato is mostly starch, so in the body it acts more like rice than like greens",
       "There is no mistake"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Potato grows in the soil like a vegetable, but it is mostly starch, which gives energy. So that plate is nearly all energy food. Greens, beans, carrots or gourds would fill the vegetable half."
     },
     {
@@ -1003,6 +1003,15 @@
      "why": "Digestion breaks food into tiny building blocks. These pass through the wall of the gut into the blood. The blood carries them to all your cells."
     },
     {
+     "t": "fill",
+     "p": "If a week of colour dots has lots of yellow and no red, the plate is missing foods that are good for ____.",
+     "a": [
+      "grow"
+     ],
+     "why": "Red dots mark grow foods, which give protein to build and mend the body. Yellow dots mark go foods, which give energy.",
+     "outcome": 2
+    },
+    {
      "t": "truefalse",
      "p": "Eating one plate of jalebis at a wedding makes your whole diet unhealthy.",
      "a": false,
@@ -1012,22 +1021,22 @@
      "t": "mcq",
      "p": "Why is it better to eat vegetables of many colours, not the same one every day?",
      "opts": [
-      "Different vegetables carry different vitamins and minerals, so a mix gives the body more of what it needs",
       "Bright colours make food taste better",
-      "One vegetable has every vitamin, so the colour does not matter"
+      "One vegetable has every vitamin, so the colour does not matter",
+      "Different vegetables carry different vitamins and minerals, so a mix gives the body more of what it needs"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Orange carrots and pumpkin give beta-carotene, which the body turns into vitamin A. Dark green keerai gives iron and folate. Tomatoes and amla give vitamin C. No one vegetable has everything, so a mix fills more gaps."
     },
     {
      "t": "mcq",
      "p": "In the Paper Window Test, which food left a see-through spot that stayed?",
      "opts": [
-      "Peanut",
       "Apple",
-      "Water"
+      "Water",
+      "Peanut"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Peanuts carry fat, which leaves a see-through spot that does not dry. Apple has almost no fat, and water dries away. If you picked water, you may have looked at the paper before the water had time to dry.",
      "how": "e1",
      "context": "In the Paper Window Test, you rub foods on paper and wait 15 minutes. A see-through spot that stays means fat."
@@ -1134,22 +1143,22 @@
      "t": "mcq",
      "p": "Why is a little oil or ghee useful when cooking carrots or keerai?",
      "opts": [
-      "It helps the body take in vitamin A",
       "It makes them grow",
+      "It helps the body take in vitamin A",
       "It removes their fibre"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Carrots and keerai have beta-carotene, which your body turns into vitamin A. It dissolves in fat. A little fat in the cooking helps the gut take more of it into the blood."
     },
     {
      "t": "mcq",
      "p": "In the Vanishing Blue test, vitamin C clears the blue. But amla also has other substances, called tannins, that clear the blue too. What does this mean for the results?",
      "opts": [
-      "The drop counts are a good guide to vitamin C, but not an exact measure",
       "The test measures only vitamin C, exactly",
-      "The test cannot tell juices apart"
+      "The test cannot tell juices apart",
+      "The drop counts are a good guide to vitamin C, but not an exact measure"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Vitamin C clears the blue, and so do some similar substances. So fewer drops usually means more vitamin C, but it is a guide, not an exact measure.",
      "how": "e2",
      "context": "In the Vanishing Blue test, vitamin C makes a blue iodine and starch liquid turn clear. You count the drops of juice needed."
@@ -1173,11 +1182,11 @@
      "t": "mcq",
      "p": "In Balloon Bellies, the atta balloon grew more slowly than the sugar balloon. Why?",
      "opts": [
-      "Enzymes in the flour must first cut its starch into sugar for the yeast",
       "Atta is poison for yeast",
+      "Enzymes in the flour must first cut its starch into sugar for the yeast",
       "Atta has no energy in it"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Yeast eats sugar. Atta is mostly starch, which has to be cut into sugar first, so the yeast starts later. Atta does have energy, and the yeast does eat atta in the end.",
      "how": "e3",
      "context": "In Balloon Bellies, you feed yeast sugar, atta or nothing, and balloons on the bottles fill with gas."
@@ -1303,6 +1312,13 @@
      "lines": 3,
      "a": "The girl is growing, so her cells need extra protein and minerals to build new bone and muscle. She also runs about a lot and burns more energy for her size. Her grandmother has stopped growing, so she may need less food, but still all the same kinds.",
      "why": "A strong answer says that growing and moving use extra food, and that both still need many kinds."
+    },
+    {
+     "t": "write",
+     "p": "At dinner the TV is on, and a child eats the whole plate without noticing when she is full. Name one change that could help her notice, and say why it might work.",
+     "lines": 3,
+     "a": "For example: turn off the TV and eat slowly, and stop halfway to check. A strong answer gives one change and a reason based on the body's signal of fullness.",
+     "why": "The body's signal of fullness takes a while to reach the brain. Paying attention to the meal gives that signal time to arrive."
     }
    ]
   },
@@ -1338,11 +1354,11 @@
      "t": "mcq",
      "p": "Lucy Wills was a doctor in Bombay in 1928. She saw that richer women in the city rarely got the pale sickness, but mill women often did. Why was this an important clue?",
      "opts": [
-      "Both breathed the same city air but ate very different food, so food might be the cause",
       "It showed that rich women were stronger",
+      "Both breathed the same city air but ate very different food, so food might be the cause",
       "It proved the sickness was caught from other people"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Rich and poor women lived in the same city, but ate very different food. So diet was the clue. Scientists narrow down causes by looking at what is different between groups. 'Stronger' explains nothing, because it does not say why."
     },
     {
@@ -1356,22 +1372,22 @@
      "t": "mcq",
      "p": "Many people think the fat you eat goes straight onto your body as body fat. What really happens to most of it?",
      "opts": [
-      "It is broken into small pieces, and cells burn it for energy or use it to build their thin skins",
       "It sticks to the belly as it is",
-      "All of it leaves the body unused"
+      "All of it leaves the body unused",
+      "It is broken into small pieces, and cells burn it for energy or use it to build their thin skins"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Fat is digested like other food. Its pieces go into the blood. Cells burn some for energy and use some to build the thin skin around every cell. The body stores fat only when it gets more energy than it uses, from any food."
     },
     {
      "t": "mcq",
      "p": "A scientist wants to test whether a food helps children's teeth. Which test is fair?",
      "opts": [
-      "Two groups of children, the same in every way except that one group eats the food, checked for months",
       "Ask children if they like the food",
+      "Two groups of children, the same in every way except that one group eats the food, checked for months",
       "Give the food to one child and look at that child's teeth the next day"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A fair test changes only one thing, and uses enough people and enough time. Two matching groups, followed for months, can show a real difference. One child for one day can show almost nothing. Liking a food tells you nothing about teeth."
     },
     {
@@ -1435,11 +1451,11 @@
      "t": "mcq",
      "p": "Some adverts say a vitamin tablet can take the place of vegetables. What is missing from that idea?",
      "opts": [
-      "Vegetables also give fibre for gut microbes, water and many other things a tablet does not",
       "Nothing. A tablet is the same as vegetables",
+      "Vegetables also give fibre for gut microbes, water and many other things a tablet does not",
       "Vegetables have no vitamins in them"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A tablet gives only the few vitamins written on it. Vegetables give fibre, water, minerals and many other things. A tablet can help someone who is short of one vitamin, but it cannot do everything a plate of vegetables does."
     },
     {
@@ -1799,11 +1815,11 @@
       "t": "mcq",
       "q": "Amla cleared the blue in 3 drops. Lemon needed 18 drops. Which has more vitamin C?",
       "options": [
-       "Amla",
        "Lemon",
-       "They have the same"
+       "They have the same",
+       "Amla"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Fewer drops means more vitamin C in each drop. Amla needed only 3, so each drop of amla has much more vitamin C than a drop of lemon. Picking lemon usually means thinking 'more drops, more vitamin C'. It is the other way round, like needing fewer big coins than small coins to make ten rupees."
      }
     },
@@ -1984,11 +2000,11 @@
       "t": "mcq",
       "q": "The sugar balloon grew big. The water balloon stayed flat. What does that show?",
       "options": [
-       "Yeast cells make gas only when they have food to eat",
        "Balloons grow by themselves in warm places",
+       "Yeast cells make gas only when they have food to eat",
        "Sugar makes gas without the yeast"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Every bottle had the same yeast and the same warm water. Only the food was different. So the gas came from the yeast eating the food. Picking 'balloons grow by themselves' misses the water bottle, which was warm too and stayed flat. To check whether sugar makes gas without the yeast, you could try sugar and warm water with no yeast."
      }
     },
@@ -2186,11 +2202,11 @@
       "t": "mcq",
       "q": "On a balanced plate, which part is the biggest?",
       "options": [
-       "Rice or chapati",
        "Vegetables and fruit",
+       "Rice or chapati",
        "Dal or curd"
       ],
-      "a": 1,
+      "a": 0,
       "why": "About half the plate is vegetables and fruit. They give many vitamins, minerals and fibre, but not much energy, so we need a lot of them. Picking rice or chapati is natural, because most Indian plates are piled with rice or chapati. They give energy, and a quarter of the plate is usually enough."
      }
     },
@@ -2334,10 +2350,10 @@
       "q": "The protein from dal is cut up and rebuilt in your muscle. Whose protein is it now?",
       "options": [
        "Still the dal's",
-       "Yours",
-       "The paper clip's"
+       "The paper clip's",
+       "Yours"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The amino acids are joined in a new order made by your own cells. So the new protein is yours. This is how food becomes you. Picking 'the dal's' is a good thought, since the pieces came from dal. But the new chain has a different order and a different job."
      },
      "think": "Your muscle is built from dal, and the dal plant was built from air, water, soil and sunlight. So where does the dal end and you begin?",
@@ -2621,6 +2637,70 @@
      "caption": "3. After eating, point to how full you feel."
     }
    ]
+  },
+  {
+   "id": "a7",
+   "title": "A Week of Plates: check the week's food",
+   "mins": 15,
+   "days": 7,
+   "materials": [
+    {
+     "item": "the colour-dot list from Yesterday's Plate, one sheet for each day",
+     "qty": 1
+    },
+    {
+     "item": "crayons or pens in four colours: yellow, red, green and blue",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 2,
+     "what": "Each evening, list the day's food and colour it, as in Yesterday's Plate."
+    },
+    {
+     "day": 7,
+     "mins": 13,
+     "what": "Count each colour for the whole week, check the balance, and choose one change for next week."
+    }
+   ],
+   "record": "The week's colour counts, one sentence on what was missing, and one change for next week.",
+   "context": "In this activity you keep a food diary for a whole week. You check the week against the three jobs of food: go, grow and glow. If a kind of food is missing, you choose one small change.",
+   "setup": [
+    {
+     "art": "A child at a table colouring a list of the day's food with yellow, red and green dots.",
+     "caption": "1. Colour each day's food, as in Yesterday's Plate."
+    },
+    {
+     "art": "Seven sheets of paper laid in a row, with the colour counts written under them and a child pointing at the missing colour.",
+     "caption": "2. After seven days, count the colours and find the gap."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Each evening, list the day's food and mark each food with its colour dots, as in Yesterday's Plate. 2. Keep the seven sheets together.",
+     "say": "Each night, colour what you ate. Yellow is for go, red for grow, green for glow and blue for drinks.",
+     "kid": "Each night, colour your food. Yellow, red, green, blue."
+    },
+    {
+     "id": "s2",
+     "mins": 7,
+     "do": "1. Count each colour across the seven days. 2. Ask: did most days have a red dot and a green dot? 3. Write one sentence for each answer.",
+     "say": "Did most days have a body-building food? A vegetable or fruit? Which colour is missing most?",
+     "kid": "Count each colour for the week. Which colour is missing most?",
+     "parent": "Many children have plenty of yellow and few greens. Do not judge the week. Look for the one gap that shows most."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "1. Choose one small change for next week, such as a bowl of curd with lunch or a handful of chana as a snack. 2. Pick one eating habit to try: for example, eating dinner without the TV or phone on, so you can notice when you are full.",
+     "say": "What is one small change you can make next week? Which habit will you try?",
+     "kid": "Pick one change for next week. Pick one habit to try too."
+    }
+   ]
   }
  ],
  "projects": [
@@ -2707,11 +2787,11 @@
       "t": "mcq",
       "q": "On Monday you ate 9 new plants. One leaf stands for 2 plants. How many leaves do you draw?",
       "options": [
-       "9 leaves",
        "4 and a half leaves",
+       "9 leaves",
        "2 leaves"
       ],
-      "a": 1,
+      "a": 0,
       "why": "9 divided by 2 is 4, with 1 left over. So draw 4 whole leaves and half a leaf for the extra plant. Picking 9 leaves means forgetting that each leaf stands for 2. Picking 2 leaves means using the key the wrong way."
      },
      "think": "Did you reach 30? Different kinds of plant feed different gut microbes. What do you think happens to your gut microbes in a week with only a few kinds of plant?",
@@ -2785,10 +2865,10 @@
       "q": "Which tiffin is balanced and keeps well without a fridge?",
       "options": [
        "Plain rice with pickle",
-       "Chapati roll with paneer and vegetables, and a whole guava",
-       "A cup of cut fruit only"
+       "A cup of cut fruit only",
+       "Chapati roll with paneer and vegetables, and a whole guava"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The chapati is a go food, paneer is a grow food, and the vegetables and guava are glow foods. A whole guava keeps well. Rice with pickle is mostly go. Cut fruit alone is glow, but has little energy or protein, and can spoil in the heat."
      }
     },
@@ -2863,11 +2943,11 @@
       "t": "mcq",
       "q": "Which is the best grow food for a trek with no fridge?",
       "options": [
-       "Paneer",
        "Roasted chana",
+       "Paneer",
        "Fresh curd"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Roasted chana is dry, light, keeps for weeks and is full of protein. Paneer and fresh curd are good grow foods at home. But in a hot bag with no fridge, they can spoil in a day."
      }
     },
@@ -2940,11 +3020,11 @@
    "t": "mcq",
    "p": "Which group is dal, egg and paneer in?",
    "opts": [
-    "Go (energy)",
     "Grow (body-building)",
+    "Go (energy)",
     "Glow (protecting)"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Dal, eggs and paneer are full of protein, which builds and mends the body. Picking glow might mean thinking all healthy foods are protecting foods.",
    "outcome": 1
   },
@@ -2952,11 +3032,11 @@
    "t": "mcq",
    "p": "Moong dal gives protein, iron and fibre. What does this show?",
    "opts": [
-    "Many foods do more than one job",
     "Dal is a glow food",
-    "Iron is a kind of protein"
+    "Iron is a kind of protein",
+    "Many foods do more than one job"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Most foods give several nutrients. The food groups are a helpful map, not strict boxes. Picking 'iron is a kind of protein' mixes up a mineral and a nutrient that builds the body.",
    "outcome": 1
   },
@@ -2976,11 +3056,11 @@
    "t": "mcq",
    "p": "Why must food be digested before the body can use it?",
    "opts": [
-    "Only tiny pieces can pass through the gut wall into the blood",
     "Food is dirty",
-    "The stomach likes acid"
+    "The stomach likes acid",
+    "Only tiny pieces can pass through the gut wall into the blood"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Big chains like starch and protein are cut into glucose and amino acids. Only these tiny pieces pass into the blood. Picking 'food is dirty' confuses digestion with cleaning food.",
    "outcome": 3,
    "how": "a3",
@@ -3002,11 +3082,11 @@
    "t": "mcq",
    "p": "What does iron do in the body?",
    "opts": [
-    "Helps the blood carry oxygen",
     "Makes bones hard",
-    "Makes food taste sweet"
+    "Makes food taste sweet",
+    "Helps the blood carry oxygen"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Iron is part of the red part of blood that carries oxygen. Calcium makes bones hard. Picking 'makes bones hard' is a common mix-up between the two minerals.",
    "outcome": 4
   },
@@ -3014,11 +3094,11 @@
    "t": "mcq",
    "p": "Why does the body need some fat?",
    "opts": [
-    "It builds the thin skin around every cell, and helps us take in some vitamins",
     "It is never needed",
-    "It makes bones grow"
+    "It makes bones grow",
+    "It builds the thin skin around every cell, and helps us take in some vitamins"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Every cell is wrapped in a thin skin, the cell membrane, made largely of fats. Fat also carries vitamins A, D, E and K. Picking 'it is never needed' is a common idea, but the body cannot live without some fat.",
    "outcome": 4
   },
@@ -3026,11 +3106,11 @@
    "t": "mcq",
    "p": "In the Vanishing Blue test, which result means the most vitamin C?",
    "opts": [
-    "The juice needing the fewest drops",
     "The juice needing the most drops",
-    "The juice with the brightest colour"
+    "The juice with the brightest colour",
+    "The juice needing the fewest drops"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Vitamin C takes away the blue. If a few drops are enough, each drop holds a lot of vitamin C. Picking 'most drops' reads the test backwards.",
    "outcome": 5,
    "how": "e2",
@@ -3040,11 +3120,11 @@
    "t": "mcq",
    "p": "In Balloon Bellies, every bottle had the same yeast and warm water. Only the food was different. Why?",
    "opts": [
-    "So we know the food caused the difference",
     "To use up the yeast",
-    "Because balloons need water"
+    "Because balloons need water",
+    "So we know the food caused the difference"
    ],
-   "a": 0,
+   "a": 2,
    "why": "In a fair test, you change only one thing. Then any difference must come from that one thing. Picking 'to use up the yeast' misses the reason for keeping things the same.",
    "outcome": 5,
    "how": "e3",
@@ -3054,11 +3134,11 @@
    "t": "mcq",
    "p": "What do gut microbes mostly eat?",
    "opts": [
-    "Fibre that we cannot digest",
     "Only sugar",
-    "Our blood"
+    "Our blood",
+    "Fibre that we cannot digest"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Fibre passes through to the large intestine undigested, and gut microbes feast on it. They make acids that feed our gut cells in return. Picking 'only sugar' fits the yeast in a bottle. But our own body takes up most sugar before it reaches the gut microbes.",
    "outcome": 6
   },
@@ -3066,11 +3146,11 @@
    "t": "mcq",
    "p": "Suppose you eat white bread and no vegetables or fruit for a whole week. What happens to your gut microbes?",
    "opts": [
-    "Many of them go hungry, because they get very little fibre",
     "They grow more, because bread has sugar",
+    "Many of them go hungry, because they get very little fibre",
     "Nothing. Gut microbes do not need food"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Gut microbes live mostly on fibre, which comes from vegetables, fruit, dals and whole grains. White bread has little fibre, so many microbes go hungry. Our own body takes up the sugar from bread before it reaches them.",
    "outcome": 6
   },
@@ -3078,13 +3158,37 @@
    "t": "mcq",
    "p": "Your friend says 'sweets are bad food'. What does science say?",
    "opts": [
-    "No single food is good or bad. The whole diet over many days matters.",
     "Sweets are poison",
+    "No single food is good or bad. The whole diet over many days matters.",
     "Sweets are the best food"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Scientists look at the overall pattern. Sweets give quick energy and are fine sometimes. Lots of added sugar every day is linked to tooth decay and other problems. Picking 'sweets are poison' goes far beyond the evidence.",
    "outcome": 7
+  },
+  {
+   "t": "mcq",
+   "p": "After a week of colour dots, a child has lots of yellow dots and almost no red or green. What is the best next step?",
+   "opts": [
+    "Add dal, paneer or curd each day, and a vegetable or fruit",
+    "Eat only yellow foods, since they get the most dots",
+    "Stop the diary, since the week is already balanced"
+   ],
+   "a": 0,
+   "why": "Yellow dots mean energy foods only. Red (grow) and green (glow) foods are missing. Dal, paneer or curd give protein, and vegetables or fruit give vitamins.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "A child eats dinner with the TV on and finishes the whole plate without noticing. Which change helps her notice when she is full?",
+   "opts": [
+    "Eat slowly without the TV or phone, and check how full she feels halfway",
+    "Eat faster, so the plate is cleared sooner",
+    "Skip dinner, so the body has no food to notice"
+   ],
+   "a": 0,
+   "why": "Paying attention to the meal helps you notice the body's signal of fullness. Eating fast or skipping meals does not help the body tell you what it needs.",
+   "outcome": 2
   }
  ],
  "applications": [
@@ -3481,6 +3585,65 @@
    "used_in": [
     "a2"
    ]
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Balloon Bellies: what do microbes like to eat?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e3"
+   ],
+   "plan": "Get it before Balloon Bellies: what do microbes like to eat?."
+  },
+  {
+   "id": "b-a-small-funnel",
+   "item": "A small funnel",
+   "kind": "tool",
+   "why": "Used in Balloon Bellies: what do microbes like to eat?. About ₹20 to ₹50. The top of a cut plastic bottle works.",
+   "url": "https://www.amazon.in/s?k=small+plastic+funnel",
+   "used_in": [
+    "e3"
+   ],
+   "plan": "Get it before Balloon Bellies: what do microbes like to eat?."
+  },
+  {
+   "id": "b-a-kitchen-or-weighing-scale",
+   "item": "A kitchen or weighing scale",
+   "kind": "tool",
+   "why": "Used in Food for a Two-Day Trek. About ₹300 to ₹700. A home-made balance from a ruler and two cups can compare weights.",
+   "url": "https://www.amazon.in/s?k=digital+kitchen+weighing+scale",
+   "used_in": [
+    "c2"
+   ],
+   "plan": "Get it before Food for a Two-Day Trek."
+  },
+  {
+   "id": "b-a-measuring-jug-or-syringe--",
+   "item": "A measuring jug or syringe (marked in millilitres)",
+   "kind": "tool",
+   "why": "Used in Balloon Bellies: what do microbes like to eat?. About ₹30 to ₹100. A clean medicine cup or marked bottle works.",
+   "url": "https://www.amazon.in/s?k=measuring+jug+500+ml",
+   "used_in": [
+    "e3"
+   ],
+   "plan": "Get it before Balloon Bellies: what do microbes like to eat?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [
@@ -3560,6 +3723,7 @@
    "ws-stretch",
    "c1",
    "c2",
+   "a7",
    "big_questions",
    "ws-challenge",
    "open_questions",
@@ -3812,5 +3976,46 @@
     "The first three are plant foods that give fibre; fish has no fibre."
    ]
   ]
- }
+ },
+ "more_stories": [
+  {
+   "title": "Sundari and the Sweet Rice Balls",
+   "mins": 6,
+   "read_aloud": true,
+   "note": "",
+   "text": [
+    "My name is Sundari. I am an elephant, and I live at a big temple in Kumbakonam, a town of many temples near the Kaveri river.",
+    "Every morning, before the sun is hot, my keeper Selvi scrubs my back with a coconut husk and paints a white and red mark on my forehead. Then I walk to the temple gate and stand on the warm stone, and the people come.",
+    "They bring me gifts. Bananas, a stick of sugarcane, and best of all, sweet rice balls with jaggery. I reach out with the tip of my trunk, take each gift and pop it into my mouth. Then I touch each child's head gently with my trunk. The children squeal and laugh, and their mothers fold their hands.",
+    "I loved the sweet rice balls most. They were soft and warm, and the jaggery stuck to my tongue. One, then ten, then fifty. By evening I was so full that I did not want the grass Selvi brought me. I pushed the bundle away with my foot.",
+    "Months went by like that. I grew heavy. My feet ached on the hot stone. At night my tummy rumbled and grumbled, and I could not sleep. I was never hungry, but I was not happy either. Selvi stroked my ear and said nothing, but I could tell she was worried.",
+    "One day a young woman came to see me. She was Dr. Revathi, an animal doctor. She did not bring me a sweet. She sat on the temple steps with a notebook and watched me for the whole day. She counted the rice balls. She looked at my feet. She even looked at my dung, which I thought was rude.",
+    "In the evening she said to Selvi, 'Sundari is eating festival food every day. An elephant's body is made for plants: grass, leaves, branches and bark. In the forest, elephants walk and eat plants for most of the day and part of the night.'",
+    "'But she loves the sweets,' said Selvi.",
+    "'Everyone loves sweets,' said Dr. Revathi. 'That is why it is hard to stop.'",
+    "So one cool season, they took me on a long, bumpy ride in a truck to a camp in the forest by a river. I smelled the other elephants before I saw them. There were dozens of us, all temple elephants, all a little too heavy.",
+    "In the forest there were no rice balls. There were no bananas on plates. There was tall grass, and bamboo, and leafy branches piled high.",
+    "I sulked. I stood under a tree and did not eat. Selvi sat beside me and did not make me.",
+    "An old elephant named Kamakshi walked past. She wrapped her trunk around a clump of grass and pulled it up, roots and all. She knocked the soil off against her knee, thump, thump, and put the grass in her mouth. She chewed slowly, looking at nothing, and then she pulled up another clump.",
+    "By evening I was hungry. Not a little bit hungry, the way I felt at the temple when a child came late with a rice ball. This hunger was deep and loud. My tummy roared.",
+    "So I copied Kamakshi. I pulled up a clump of grass. I knocked off the soil, thump, thump. It was rough and it took a long time to chew. It was not sweet at all. I pulled up another clump, and another. I stripped the leaves off a branch with my trunk. I walked to the river and drank, and splashed water on my back, and came back for more.",
+    "That night I slept the whole night through.",
+    "The days went on like this. Walk, pull, thump, chew. Bathe. Walk, pull, thump, chew. I was eating almost all day, but I never felt stuffed. The ground was soft under my feet, and slowly the ache in them went away. My tummy was quiet. My body felt like my own again.",
+    "One afternoon Dr. Revathi came to the camp and found me by the river. She watched me for a while, the way she had on the temple steps. Then she smiled. 'Well, Sundari,' she said. 'Is grass as good as rice balls?'",
+    "I did not have words to answer her. I pulled up another clump, knocked it on my knee, the way Kamakshi does, and ate.",
+    "After many weeks I went home to the temple. Now, every morning, Selvi brings me a great heap of grass and palm leaves, and I eat it slowly while the bells ring. People still come to the gate.",
+    "Yesterday a small girl named Kavya came with her mother. She held up one banana in both hands, her arms stretched as high as they would go. I took it with the tip of my trunk, very gently, and put it in my mouth.",
+    "It was the sweetest thing I had tasted in weeks. It tasted like a festival."
+   ],
+   "epiphany": "For the parent: Sundari's own problem comes first. An elephant's body needs a lot of plants, eaten slowly through the day, but the sweet rice balls filled her so fast that she never ate the grass her body needed. The turn comes when she feels real hunger in the forest and copies Kamakshi: she eats plain food all day and her body feels well again. At the end, one banana tastes like a festival, because a treat is special when it comes sometimes, not all day.",
+   "ask": [
+    "Why did Sundari push away the grass at the temple?",
+    "How was the hunger in the forest different from how Sundari felt at the temple?",
+    "Why did Sundari feel better in the forest, even though she ate almost all day?",
+    "Why did one banana taste like a festival at the end?",
+    "What food is your 'festival food', the kind you have only sometimes?"
+   ],
+   "art": []
+  }
+ ]
 }

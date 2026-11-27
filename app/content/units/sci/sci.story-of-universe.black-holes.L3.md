@@ -1,9 +1,9 @@
 # Black holes: where gravity is so strong that light cannot get out
 `sci.story-of-universe.black-holes.L3`
 
-**Summary.** A black hole is where gravity is so strong that even light cannot get out. Does it suck things in? In this unit you will make a hole that looks blacker than black paper, squeeze bread to see what a huge mass in a tiny space means, and play an escape game.
+**Summary.** A black hole is where gravity is so strong that even light cannot get out. Does it suck things in? In this lesson you will make a hole that looks blacker than black paper, squeeze bread to see what a huge mass in a tiny space means, and play an escape game.
 
-**Intro.** *Black paper is the darkest thing in most homes. But a small hole in a closed cardboard box looks even darker than black paper. Why? The answer shows what black really means: no light coming back to your eyes. A black hole is black in that way too, for an even stronger reason.* In this unit you make a hole that is blacker than black paper, and find out why. Then you find out what a black hole is: a place where gravity holds on to everything, even light. You squeeze a slice of bread to see how a black hole forms, work out whether a black hole could swallow the Earth, and meet Andrea Ghez, who found the black hole at the centre of our galaxy without ever seeing it.
+**Intro.** *Black paper is the darkest thing in most homes. But a small hole in a closed cardboard box looks even darker than black paper. Why? The answer shows what black really means: no light coming back to your eyes. A black hole is black in that way too, for an even stronger reason.* In this lesson you make a hole that is blacker than black paper, and find out why. Then you find out what a black hole is: a place where gravity holds on to everything, even light. You squeeze a slice of bread to see how a black hole forms, work out whether a black hole could swallow the Earth, and meet Andrea Ghez, who found the black hole at the centre of our galaxy without ever seeing it.
 
 ## Learning outcomes
 0. I can explain that a black hole is a place where gravity is so strong that nothing, not even light, can get out.
@@ -350,12 +350,12 @@ That night Karthik took the Mysore pak box to bed and put it on his shelf, with 
 6. (draw) Draw the box from the Blackest Black experiment, cut in half so we can see inside. Draw an arrow for light going into the hole and bouncing around inside.  
    **Answer:** A box with a hole in the lid, and an arrow entering the hole and zig-zagging between the walls, getting shorter or fainter at each bounce, without coming back out.. *Why:* The drawing shows the idea: light gets in, but each bounce soaks some up, so almost none finds the hole again.
 7. (mcq) You throw a ball up gently, then harder. The harder throw:  
-   Options: goes higher before it comes back / comes back at once / stays in the air for ever  
+   Options: comes back at once / goes higher before it comes back / stays in the air for ever  
    **Answer:** goes higher before it comes back. *Why:* The faster a thing goes up, the higher it gets before gravity stops it. Only at escape speed would it never come back.
 8. (truefalse) Light is the fastest thing in the universe.  
    **Answer:** True. *Why:* True. Light travels about 3 lakh kilometres a second. Nothing goes faster, which is why nothing can get out of a black hole.
 9. (mcq) What do we call the path a star takes as it goes round a black hole?  
-   Options: an orbit / an event horizon / an escape  
+   Options: an event horizon / an escape / an orbit  
    **Answer:** an orbit. *Why:* The path one thing takes as it goes round another, held by gravity, is an orbit. The Earth orbits the Sun, and the star S2 orbits the black hole at the centre of our galaxy.
 10. (odd) Which one is the odd one out?  
    Options: The Sun / A black hole / The Moon / A torch  
@@ -374,14 +374,14 @@ That night Karthik took the Mysore pak box to bed and put it on his shelf, with 
 1. (write) In the Blackest Black experiment, the bigger hole usually looks less black than the small hole. Why might that be?  
    **Answer:** More light can get in through a big hole, and more of it can find its way back out. With a small hole, light that gets in is soaked up before it can find the hole again.. *Why:* A strong answer talks about light getting in and getting back out, not just about the size.
 2. (mcq) In the Blackest Black experiment, lining the inside of the box with black cloth made the big hole look:  
-   Options: darker / lighter / exactly the same  
+   Options: lighter / exactly the same / darker  
    **Answer:** darker. *Why:* A black lining soaks up more light at each bounce, so even less comes back out of the hole.
 3. (truefalse) The pupil of your eye looks black because it is painted black inside.  
    **Answer:** False. *Why:* False. The pupil is a hole into your eye. Light goes in and is absorbed inside, so almost none comes back out. It looks black for the same reason as the hole in the box.
 4. (fill) The edge of a black hole, where there is no way back, is called the ____.  
    **Answer:** ['event horizon']. *Why:* Anything that crosses the event horizon, even light, can never come back out.
 5. (mcq) The Moon's escape speed is lower than the Earth's. Why?  
-   Options: The Moon has less mass, so its gravity is weaker / The Moon is further from the Sun / The Moon is made of cheese  
+   Options: The Moon is further from the Sun / The Moon has less mass, so its gravity is weaker / The Moon is made of cheese  
    **Answer:** The Moon has less mass, so its gravity is weaker. *Why:* Less mass means weaker gravity, so a lower speed is enough to escape. The Moon's escape speed is about 2 and a half kilometres a second.
 6. (match) Match each place to its escape speed.  
    **Answer:** The Moon → about 2 and a half kilometres a second; The Earth → about 11 kilometres a second; The Sun → about 620 kilometres a second; A black hole, at its edge → the speed of light. *Why:* The stronger the gravity at a place, the faster you must go to escape it. A black hole's escape speed is the highest of all.
@@ -397,7 +397,7 @@ That night Karthik took the Mysore pak box to bed and put it on his shelf, with 
 11. (label) Label the Hidden Partner picture: the torch, the hidden partner, and the circle the light made.  
    **Answer:** The torch is the light on the big circle. The hidden partner is the dark figure near the middle. The circle is the path the light made round the partner.. *Why:* The watcher found the partner from the light's circle, as astronomers find a black hole from the stars going round it.
 12. (mcq) In the Hidden Partner activity, the heavier grown-up made:  
-   Options: a small circle, near the middle / a bigger circle than the child / no circle, and fell over  
+   Options: a bigger circle than the child / no circle, and fell over / a small circle, near the middle  
    **Answer:** a small circle, near the middle. *Why:* The heavier partner turns almost on the spot, near the middle. A black hole is so much heavier than the stars round it that it stays near the middle while they swing round.
 13. (truefalse) Astronomers can find a black hole they cannot see by watching how fast nearby stars move round it.  
    **Answer:** True. *Why:* True. A black hole gives no light, but its pull makes nearby stars race round it. From how fast they go, astronomers work out how much mass is there. Andrea Ghez won a Nobel Prize in 2020 for this work.
@@ -433,7 +433,7 @@ That night Karthik took the Mysore pak box to bed and put it on his shelf, with 
 12. (odd) Which one sends back the most light, and so is the odd one out?  
    Options: A black hole / The pupil of your eye / A hole into a closed box / A white wall  
    **Answer:** 3. *Why:* A white wall is the odd one out. It reflects most of the light that falls on it. The other three send back little or no light, so they look black.
-13. (write) Some people say: 'If we can never see a black hole, it might not be real.' Write what you think, with a reason from this unit.  
+13. (write) Some people say: 'If we can never see a black hole, it might not be real.' Write what you think, with a reason from this lesson.  
    **Answer:** A strong answer gives a view and evidence. For example: it is real, because stars swing round it and gas glows near it. In the Hidden Partner activity, the watcher found the hidden partner in the same way. Or: we should keep testing, because we only know it from clues.. *Why:* This asks how we can know something we cannot see. Any side is fine if it uses evidence.
 14. (write) Design a game or a model that would show a younger child why nothing can get out of a black hole. Describe it in 3 or 4 sentences.  
    **Answer:** A strong answer uses escape speed: something must go faster than a place's escape speed to get away, and at a black hole even light is not fast enough. It could be a ramp, a throwing game or a card game.. *Why:* Explaining an idea to someone younger is a good test of whether you understand it.
@@ -447,10 +447,10 @@ That night Karthik took the Mysore pak box to bed and put it on his shelf, with 
 
 ## Quiz
 1. (mcq) What is a black hole?  
-   Options: An empty hole in space / A place where gravity is so strong that not even light can get out / A star that has gone dark for the night  
+   Options: An empty hole in space / A star that has gone dark for the night / A place where gravity is so strong that not even light can get out  
    **Answer:** A place where gravity is so strong that not even light can get out. *Why:* A black hole is a place where a huge amount of mass is squeezed so tight that its gravity traps even light. Many people pick 'an empty hole' because of the name, but a black hole is not empty at all.
 2. (mcq) Why does a black hole look black?  
-   Options: It is made of black rock / No light comes out of it / It is always in a shadow  
+   Options: It is made of black rock / It is always in a shadow / No light comes out of it  
    **Answer:** No light comes out of it. *Why:* We see black where no light comes back to our eyes. A black hole's gravity lets no light out. It is not made of anything painted or coloured black.
 3. (mcq) You throw a ball straight up, harder each time. What happens?  
    Options: It goes higher each time before it falls back / It always goes to the same height / It falls back faster when you throw it gently  
@@ -462,10 +462,10 @@ That night Karthik took the Mysore pak box to bed and put it on his shelf, with 
    Options: A giant star runs out of fuel and its middle collapses / Two planets crash together / A hole is dug in space  
    **Answer:** A giant star runs out of fuel and its middle collapses. *Why:* When a giant star runs out of fuel, nothing holds it up against its own gravity. Its middle collapses, and if it is heavy enough it becomes a black hole.
 6. (mcq) You squeeze a slice of bread into a tiny ball. What has changed?  
-   Options: Its mass, the amount of bread / Its size / Both its size and its mass  
+   Options: Its mass, the amount of bread / Both its size and its mass / Its size  
    **Answer:** Its size. *Why:* Squeezing changes the size, not the amount of stuff. A black hole is a huge amount of mass squeezed into a tiny space, in the same way.
 7. (mcq) Can the Sun become a black hole?  
-   Options: Yes, very soon / No, it is not heavy enough / Yes, every star does  
+   Options: Yes, very soon / Yes, every star does / No, it is not heavy enough  
    **Answer:** No, it is not heavy enough. *Why:* Only stars many times heavier than the Sun end as black holes. The Sun will end as a small, hot star called a white dwarf.
 8. (mcq) If the Sun were swapped for a black hole with exactly the same mass, what would happen to the Earth?  
    Options: It would be sucked in / It would keep going round, but in the dark and cold / It would fly off into space  
@@ -473,10 +473,10 @@ That night Karthik took the Mysore pak box to bed and put it on his shelf, with 
 9. (truefalse) A black hole sucks in everything in space, even things very far away.  
    **Answer:** False. *Why:* False. Far from a black hole, its pull is like that of any star of the same mass. Only things that come very close fall in.
 10. (mcq) How did Andrea Ghez find the black hole at the centre of our galaxy?  
-   Options: She took a photo of the black hole itself / She watched stars move fast round a spot where nothing could be seen / She flew a spaceship there  
+   Options: She watched stars move fast round a spot where nothing could be seen / She took a photo of the black hole itself / She flew a spaceship there  
    **Answer:** She watched stars move fast round a spot where nothing could be seen. *Why:* A black hole gives no light. Ghez tracked stars for years. From how fast they swung round, she worked out that something about 4 million times as heavy as the Sun was hidden there.
 11. (mcq) Long ago, some great scientists thought black holes could not form in nature. What kind of evidence would show they are real?  
-   Options: A story about one hitting the Earth / Stars racing round a spot where nothing can be seen / A photo of a bright light  
+   Options: A story about one hitting the Earth / A photo of a bright light / Stars racing round a spot where nothing can be seen  
    **Answer:** Stars racing round a spot where nothing can be seen. *Why:* Only something with huge mass could pull stars round that fast. If nothing can be seen there, it is a black hole. Evidence like this showed that black holes are real, even though Albert Einstein once doubted they could form.
 
 ## Applications
@@ -490,10 +490,10 @@ That night Karthik took the Mysore pak box to bed and put it on his shelf, with 
 ## Spotted around us
 - The pupil of your eye, in a mirror. It is a hole into your eye, and it looks black because the light that goes in does not come back out.
 - The opening of a deep village well or a temple tank's dark steps, seen from above on a sunny day.
-- A railway tunnel on a ghat section, such as the hill railways of the Nilgiris or the Konkan line, looking black inside at noon.
+- A railway tunnel on a hill section, looking black inside at noon.
 - The windows of a tall building far away at noon, which often look dark even though the rooms inside are lit.
-- A sky show about black holes at a planetarium, such as the Jawaharlal Nehru Planetarium in Bengaluru, the B. M. Birla Planetarium in Chennai or the M. P. Birla Planetarium in Kolkata.
-- News about LIGO-India, the gravitational-wave detector being built near Aundha Nagnath in Hingoli district, Maharashtra.
+- A sky show about black holes at a planetarium.
+- News about a gravitational-wave detector, an instrument that catches ripples from far-off black holes.
 
 ## Open questions
 - **What happens at the very centre of a black hole?** Einstein's theory of gravity gives impossible answers there, like an endless squeeze. Physicists think a new theory that joins gravity with quantum physics is needed, and nobody has one that works yet.
@@ -542,6 +542,11 @@ City of Stars (sci.story-of-universe.L3):
 - [B. M. Birla Planetarium, Chennai](https://en.wikipedia.org/wiki/Birla_Planetarium,_Chennai) · place · Chennai: A planetarium at the Periyar Science and Technology Centre, with sky shows. Check show times before visiting.
 
 ## Things to buy
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Squeeze the Bread: same stuff, much smaller. About ₹10 to ₹30. Any school ruler is fine. Used in a1. Get it before Squeeze the Bread: same stuff, much smaller.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Blackest Black: is a hole in a box darker than black paper?, Make the Blackest Black You Can. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e1, c1. Get it before The Blackest Black: is a hole in a box darker than black paper?.
+- [A kitchen or weighing scale](https://www.amazon.in/s?k=digital+kitchen+weighing+scale) (tool): Used in Squeeze the Bread: same stuff, much smaller. About ₹300 to ₹700. A home-made balance from a ruler and two cups can compare weights. Used in a1. Get it before Squeeze the Bread: same stuff, much smaller.
+- [Marbles (a few)](https://www.amazon.in/s?k=glass+marbles+pack) (material): Used in Squeeze the Bread: same stuff, much smaller. About ₹10 to ₹40. Small round stones or dried chana. Used in a1. Get it before Squeeze the Bread: same stuff, much smaller.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What can never get out of a black hole? → Anything that falls in, even light.

@@ -1,0 +1,91 @@
+# Evolution Picture Book / Sheet11 (copied from Google Sheets, 2026-11-27)
+R1: Name Of The Species
+R2: RNA
+R3: Prokaryotic Cells
+R4: Asgard Archaea
+R5: Bacteria - Anaerobic
+R6: DNA
+R7: Cyanobacteria
+R8: Aerobic Bacteria
+R9: Eukaryote with Mitochondria
+R10: Eukaryote with Mito & Chloroplast
+R11: Red Algae
+R12: Fungi
+R13: Green Algae
+R14: Sponges
+R15: Fungi on Land
+R16: Comb Jellies - Ctenophores
+R17: Bilateria
+R18: Land Green Algae
+R19: Corals, Sea Anemones, Jellyfish -Cnidarians
+R20: Earliest Protosome
+R21: Earliest Deuterosome 
+R22: Ambulacaria - 1st Dueterosome Split
+R23: Chordate - 2nd Dueterosome
+R24: Mollusks - Earliest Protosome Split
+R25: Annelids - 2nd Protosome Split
+R26: Arthropods - earliest Trilobites
+R27: Lancelets
+R28: Plants Colonize Land
+R29: Parasites ⏎ (Some Arthropods evolve parasitic property)
+R30: Earliest Cephalopods
+R31: Euthycarcinoids
+R32: Vertebrates - 1st one - Jawless fish
+R33: Bony Fish
+R34: Scorpions
+R35: Plants take root
+R36: Plants develop woody stems
+R37: Cartilignous Fish
+R38: Lobe Finned Fish
+R39: Trees
+R40: Tiktaalik
+R41: Earliest Tetrapods
+R42: Insects grow in size, variety & winged insects
+R43: Early Crab, Shrimps, etc
+R44: Ferns
+R45: Amphibians
+R46: Amniotes
+R47: Earliest Saurapids -1st split in Amniotes
+R48: Earliest Synapsids - 2nd split in Amniotes
+R49: Turtles <family name?> - 1st Split in Saurapids
+R50: Reptiles -  Saurapids - 2nd Split
+R51: First Octopus
+R52: Crocodiles
+R53: Dinosaurs
+R54: Earliest Mammals
+R55: Lizards & More Reptiles
+R56: Monotromes
+R57: Marsupials
+R58: Pollinating Insects
+R59: Birds
+R60: Earliest Placental Mammals
+R61: Flowering Plants
+R62: Tortoises
+R63: Snakes
+R64: Grass
+R65: Dinosaurs Extinction
+R66: Aftrotheres - 1st Split in Placental Mammals
+R67: Xenartheria - 2nd Placental Split
+R68: Laurasiatheria
+R69: Euarchantoglires
+R70: Elephants
+R71: Armadillos
+R72: Earliest Rodents
+R73: Rodents, Group1 - Rats, Mice, Squirrels, Beavers
+R74: Earliest Primates
+R75: Sloths, Anteaters
+R76: Earliest Even Toed Hoofed Mammals
+R77: Even Toed Hoofed Mammals , Group 1 - Deers, Pigs, Camels, Bovines
+R78: Bats
+R79: Shrews, Hedgehogs
+R80: Rodents - Group 2 - Rabbits, Hares
+R81: Earliest Odd Toed Hoofed Mammals
+R82: Odd Toed Hoofed Mammals, Group1 - Rhinos
+R83: Even Toed Hoofed Mammals , Group 2 - Whales, Dolphins
+R84: Odd Toed Hoofed Mammals, Group 2 - Horses
+R85: Lemurs
+R86: Carnivores -Wolfs, Wild Dogs, Bears, Cats, Seals, Weasles
+R87: Monkeys, Apes
+R88: Great Apes
+R89: Hominims
+R90: Homosapiens

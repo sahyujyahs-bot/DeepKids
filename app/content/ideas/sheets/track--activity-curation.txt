@@ -1,0 +1,18 @@
+# DeepKids HomeSchooling Track / Activity Curation (copied from Google Sheets, 2026-11-27)
+R1: Activities for Lesson Journey
+R3: Subject | Master Experience + Trigger | Lesson Focus | Activity | Co-Creation Output | Master category mapping
+R4: Biology | Nature walk in park , neighbourhood etc | Classification of living vs. non-living | After collecting, kids group items: “living,” “once-living,” “non-living.” | Create a “Nature Museum Box” with labels written in their own words
+R5: Maths | Nature walk in park , neighbourhood etc | Sorting, counting & patterns | Count each type collected → make tally marks, bar graphs, or simple pie charts | “Nature Data Poster” with their collected stats
+R6: Language Learning | Nature walk in park , neighbourhood etc | Vocabulary & descriptive writing | Children describe one item in detail using 5 senses (sight, touch, smell, sound, sometimes taste if safe)
+R7: Geography | Nature walk in park , neighbourhood etc | Local ecosystems & habitats | Map where each object was found (tree base, grass patch, near water) | A collaborative “Nature Map” of the walk area
+R8: Language Learning | Nature walk in park , neighbourhood etc | Vocabulary | Nature Bingo 🟩 ⏎  ⏎ Make bingo sheets with natural items (e.g., “find something smooth,” “something that floats”). ⏎  ⏎ Kids tick off as they explore.
+R9: Maths |  | Measurement & geometry | Trace shadows at different times of day, measure their lengths, compare ratios (shadow length : object height) | “Shadow Graph” plotting time vs shadow length
+R10: Geography |  | Sun’s movement & directions | Observe how shadows shift morning → noon → evening. Use compass directions (east/west) | Collaborative “Shadow book” illustrated with their traced outlines
+R11: Biology/Science |  | Classification of natural objects | Sort rocks by texture (bumpy/smooth), color, or weight | “Rock Collection Chart” with kids’ own categories
+R12: Maths |  | Sorting & data handling | Count how many rocks in each category → make bar charts or pictograms | “Rock Data Poster”
+R13: Language Learning |  | Descriptive vocabulary | Write short descriptive labels: “This rock is shiny and smooth,” “This one looks like a volcano.” | “Rock Adjective Wall”
+R14: Maths |  | Introduction to sets | Use two hoops: one for “smooth,” one for “red,” overlap for rocks that are both. | “Live Venn Diagram” made from actual rocks
+R15: Biology |  | Leaf identification & plant diversity | Kids collect leaves and match them to illustrated guide (shape, edges, veins). | “Leaf Detective Album” with taped leaves + names
+R16: Maths |  | Sorting & symmetry | Explore symmetry (fold leaves in half).
+R17: Language Learning |  | Descriptive writing & new vocabulary | Kids describe leaves: “pointy,” “veiny,” “heart-shaped.” | Create imaginary user profiles for leaves giving each leaf a pet name
+R18: Geography |  | Seasons & habitats | Compare leaves from same/different locations (park vs. street). Discuss how autumn changes leaves. | “Leaf Map of Our Area” showing where collected

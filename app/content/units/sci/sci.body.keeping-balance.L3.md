@@ -1,7 +1,7 @@
 # Homeostasis: how your body keeps its warmth and water steady
 `sci.body.keeping-balance.L3`
 
-**Summary.** Why do you sweat when you are hot and shiver when you are cold? In this unit you will jump and notice what your body does, test a sweaty tumbler with a thermometer, see whether a matka pot can sweat, and hunt for thermostats at home.
+**Summary.** Why do you sweat when you are hot and shiver when you are cold? In this lesson you will jump and notice what your body does, test a sweaty tumbler with a thermometer, see whether a matka pot can sweat, and hunt for thermostats at home.
 
 **Intro.** *Put the back of your hand on your cheek. Your cheek feels warm, because your body is warm inside. Now put the back of your hand on a steel plate or a tile floor. It usually feels cooler than your cheek. Now think about a hot summer day and a cold winter day. On both days the inside of your body stays at about the same warmth. How does it do that?* Think about the hottest day you remember, maybe in May. Now think about a cold winter morning, when you wanted to stay under the blanket. The air around you changed a lot between those two days. But the inside of your body stayed almost exactly the same warmth, about 37 degrees. A steel plate left in the sun gets hot. Left outside on a winter night, it gets cold. You are not like the plate. Something inside you keeps checking your warmth and fixing it. That checking and fixing has a name: homeostasis.
 
@@ -74,10 +74,11 @@ Blood flows through tubes called blood vessels. The blood is warm, because it pa
 ### Thirst and the water balance · *defined*
 **Definition:** Your body keeps the amount of water inside you just right. Thirst tells you to drink more, and your kidneys decide how much water to let go as pee.
 
-More than half of your body is water. Every day you lose some of it, in sweat, in pee and even in your breath. When your blood has too little water, it becomes a little too salty. Sensors in your hypothalamus notice this saltiness. They make you feel thirsty. They also send a chemical message to your kidneys, which says 'save water'. Then your pee becomes less and darker. When you have had plenty to drink, your pee is pale and you go to the toilet more often. Thirst is your body asking for water before things go wrong.
+More than half of your body is water. Every day you lose some of it, in sweat, in pee and even in your breath. When your blood has too little water, it becomes a little too salty. Sensors in your hypothalamus notice this saltiness. They make you feel thirsty. They also send a chemical message to your kidneys, which says 'save water'. Then your pee becomes less and darker. When you have had plenty to drink, your pee is pale and you go to the toilet more often. Thirst is your body asking for water before things go wrong. Water also carries waste out of you. Your kidneys filter waste out of your blood and mix it into water to make pee. Sweat carries out a little waste too.
 - e.g. On a hot day you drink more and pee less.
 - e.g. Pale yellow pee usually means you have had enough to drink. Dark yellow pee usually means drink more.
 - e.g. Breathe on a cold mirror. The mist is water leaving your body.
+- e.g. Many people aim for about 8 glasses of water a day. You need more on hot days and after play.
 ### Why sticky monsoon days feel hotter · *defined*
 **Definition:** Humidity is how much water is already in the air. When the air is very humid, sweat dries slowly, so it cools you less.
 
@@ -552,7 +553,7 @@ People think that keeping cool means holding on to cold. It does not. I have nev
   - Check: In the suit design challenge, an explorer on a hot planet is sweating inside a closed suit. Why might they still overheat? → **The sweat cannot dry inside the closed suit, so it does not cool them**
 
 ## Worksheets
-### Just Right Detective (core, 15 questions)
+### Just Right Detective (core, 16 questions)
 1. (mcq) On a May afternoon in Chennai, it is 40 degrees outside. On a January morning in Delhi, it is 5 degrees. About how warm is the inside of a healthy child on each day?  
    Options: About 40 degrees in Chennai and 5 degrees in Delhi / About 37 degrees on both days / About 45 degrees in Chennai and 20 degrees in Delhi  
    **Answer:** About 37 degrees on both days. *Why:* The inside of the body stays near 37 degrees in any weather. The skin may feel hot or cold, but the inside is kept steady. That is homeostasis. The most common first guess is that the inside follows the weather.
@@ -585,12 +586,14 @@ People think that keeping cool means holding on to cold. It does not. I have nev
    **Answer:** A jumper does not make heat. My body makes the heat, in my muscles and cells. The jumper holds a layer of still air next to my skin, so the heat I make does not escape so fast.. *Why:* A strong answer says the heat comes from the body, and the jumper only keeps it in, like fur on a cat.
 15. (fill) When water slowly turns into a gas and goes into the air, it ____. Sweat does this when it dries.  
    **Answer:** ['evaporates']. *Why:* Evaporation takes heat from your skin, and that is why drying sweat cools you.
-### Balance Keepers (stretch, 15 questions)
+16. (fill) Your kidneys mix the waste they remove into ____ to make pee.  
+   **Answer:** ['water']. *Why:* Waste leaves the body dissolved in water. That is why drinking enough helps your body get rid of waste, and why pee is pale when you have had plenty.
+### Balance Keepers (stretch, 16 questions)
 1. (mcq) A sweaty child sits in a closed, humid room. Why do they still feel hot?  
    Options: Humid air has more heat in it than any other air / The damp air makes sweat dry slowly, so it cools them less / Sweat does not work indoors / They are not really sweating  
    **Answer:** The damp air makes sweat dry slowly, so it cools them less. *Why:* Sweat cools only when it dries. In humid air, it dries slowly and drips off instead. Picking 'sweat does not work indoors' misses that it is the dampness of the air, not the room, that matters.
 2. (mcq) A camel in the desert lets their body warm up by about 6 degrees during the day, then cools at night. Why might this help them?  
-   Options: Camels like being hot / It makes them run faster / They sweat less, so they save water / It helps them see  
+   Options: They sweat less, so they save water / Camels like being hot / It makes them run faster / It helps them see  
    **Answer:** They sweat less, so they save water. *Why:* If the camel kept their body at one exact warmth, they would have to sweat a lot in the hot day. By letting their warmth rise, they save water. Then they cool off at night for free.
 3. (mcq) Dogs have sweat glands only on their paw pads. Why do they pant on a hot day?  
    Options: They are always hungry / Water dries from their tongue and mouth, carrying heat away / Panting makes heat / They are trying to bark  
@@ -610,33 +613,35 @@ People think that keeping cool means holding on to cold. It does not. I have nev
 10. (perspective) People disagree about how much water a child should drink each day.  
    **Answer:** A strong answer uses evidence: for example, the child's own cups and pee colour from the Water Diary, or that thirst comes when the blood gets a little salty. Then it fairly gives another view's best point, for example that on very hot days we lose water faster than thirst warns us.. *Why:* This is a real argument. Thirst works well for most people on most days. But on hot, sweaty days, or for small children who forget to drink, it helps to drink before thirst comes.
 11. (mcq) You drink a glass of water when you are thirsty. Your thirst goes away in about a minute, long before the water reaches your blood. What does this show?  
-   Options: Water goes straight into the brain / Thirst was never real / The body predicts, using messages from the mouth and throat / The tummy makes water  
+   Options: Water goes straight into the brain / Thirst was never real / The tummy makes water / The body predicts, using messages from the mouth and throat  
    **Answer:** The body predicts, using messages from the mouth and throat. *Why:* In mice, scientists found that brain cells for thirst switch off soon after drinking. Your body predicts that water is coming. This is part of a debate about whether the body mostly reacts or mostly predicts.
 12. (fill) The 'just right' number the body tries to stay at is called the ____ point.  
    **Answer:** ['set']. *Why:* The set point is like the number on an AC remote.
 13. (write) Predict. A girl comes out of a cool classroom into the noon sun to play kho-kho. Name two things her body will do in the next 10 minutes. Say how each one helps.  
    **Answer:** She will sweat, and as the sweat dries it will carry heat away. Her cheeks will go red, because more warm blood flows near the skin to let heat out. She may also feel thirsty, because sweat takes water out of her.. *Why:* A strong answer names two real cooling tricks and says how each one works. Each trick is part of a loop: notice, decide, act.
 14. (mcq) Two children play in the same hot sun. One wears a thick woollen jumper. The other wears a thin cotton shirt. Who finds it easier to cool down?  
-   Options: The one in wool, because wool is warm / The one in cotton, because air can reach the skin and sweat can dry / Both the same, because sweat comes out cold  
+   Options: The one in cotton, because air can reach the skin and sweat can dry / The one in wool, because wool is warm / Both the same, because sweat comes out cold  
    **Answer:** The one in cotton, because air can reach the skin and sweat can dry. *Why:* Sweat cools only when it dries. Thick wool holds the sweat and the heat next to the skin. Thin cotton lets air in, so the sweat can dry and carry heat away.
 15. (write) In winter, your fingers and toes go cold long before your tummy does. Use the word 'blood' to explain why.  
    **Answer:** In the cold, the blood vessels in my skin squeeze narrow, so less warm blood goes to my fingers and toes. My body keeps the warm blood near my middle, where my heart and brain are.. *Why:* A strong answer says the blood vessels narrow, and that the body is saving heat for the parts that matter most. Cold fingers are the body working, not failing.
+16. (write) A common guide is about 8 glasses of water a day. Why might a child in Chennai in May need more than that? Give one reason.  
+   **Answer:** The heat makes you sweat more, and playing hard makes you sweat even more. Sweat takes water out of the body, so you need to drink more to replace it.. *Why:* Water leaves the body in sweat and pee. On a hot day and after play you lose more, so the body needs more to stay just right.
 ### Hot Days and Big Questions (challenge, 15 questions)
 1. (mcq) In the Matka Test, a clay matka and a steel pot stood side by side with the same water. On which day would the matka cool its water best?  
-   Options: A humid, still monsoon day / A day when the matka is painted with oil paint / A hot, dry, breezy day in May / A day with no water inside  
+   Options: A humid, still monsoon day / A day when the matka is painted with oil paint / A day with no water inside / A hot, dry, breezy day in May  
    **Answer:** A hot, dry, breezy day in May. *Why:* Drying water cools the matka. Dry, moving air dries it fastest. Humid, still air dries it slowly. Oil paint would block the tiny holes, so no water could reach the outside.
 2. (write) In a heatwave, why is it more dangerous for a woman carrying bricks on a building site than for a woman sitting under a fan? Give two reasons.  
    **Answer:** The woman carrying bricks makes much more heat in her working muscles. She is also out in the sun, and may not have time to rest, drink or cool off. The woman under the fan makes less heat, and the fan helps her sweat dry.. *Why:* A strong answer gives two of these: how much heat the body makes, how much heat comes from outside, and how well sweat can dry. It is also a question of fairness: who gets shade, water and rest.
 3. (mcq) Some scientists say the body mostly predicts what it will need, not only reacts. Which is an example of predicting?  
-   Options: You shiver after you are already cold / Your mouth waters when you smell food cooking / You sweat after you are already hot / You pull your hand from a hot pan after it hurts  
+   Options: You shiver after you are already cold / You sweat after you are already hot / Your mouth waters when you smell food cooking / You pull your hand from a hot pan after it hurts  
    **Answer:** Your mouth waters when you smell food cooking. *Why:* A watering mouth gets ready for food before it arrives. The other three happen after the change. This idea is called allostasis, and scientists still argue how important it is.
 4. (truefalse) Drinking far more water than you need, many litres in a short time, is always safe, because water is good for you.  
    **Answer:** False. *Why:* False. The body keeps its water and salt just right. Too much water in a short time makes the blood too watery, and that can make a person very ill. A strong answer says 'just right' matters both ways: too little and too much.
 5. (mcq) A person who is very hot has stopped sweating and has hot, dry skin. They are confused. What should happen?  
-   Options: Give them a blanket / Tell them to run to cool down / Get them into shade, cool them with water, and call a doctor straight away / Wait and see  
+   Options: Give them a blanket / Get them into shade, cool them with water, and call a doctor straight away / Tell them to run to cool down / Wait and see  
    **Answer:** Get them into shade, cool them with water, and call a doctor straight away. *Why:* Hot, dry skin and confusion can be signs of heatstroke. The body's cooling has stopped working. This needs a doctor fast. Shade and wet cloths help while you wait.
 6. (mcq) Why does your body need food even when you are sitting still?  
-   Options: It doesn't need any food when still / To keep making heat and running the pumps in every cell / Only to grow hair / To make your bones heavier  
+   Options: It doesn't need any food when still / Only to grow hair / To make your bones heavier / To keep making heat and running the pumps in every cell  
    **Answer:** To keep making heat and running the pumps in every cell. *Why:* Even at rest you give off about as much heat as an old 100 watt bulb. Every cell also pumps salt to keep the inside of the cell just right. All of this needs energy from food.
 7. (write) Dr Dilip Mahalanabis used ORS in refugee camps in 1971. Why does putting back salt as well as water help a person who has lost a lot of fluid?  
    **Answer:** The body loses salt as well as water. Blood needs the right saltiness. ORS puts back both, and the sugar in it helps the gut take up the salt and water.. *Why:* Homeostasis keeps both water and salt just right. Losing one without the other upsets the balance.
@@ -647,7 +652,7 @@ People think that keeping cool means holding on to cold. It does not. I have nev
 10. (draw) Draw the Earth's slow rock thermostat as a loop: Earth gets warmer, more rain wears away rocks, less carbon dioxide in the air, Earth cools.  
    **Answer:** A loop of four arrows: warmer Earth, more rain washing rocks, less carbon dioxide, cooler Earth, back to the start.. *Why:* This loop works over hundreds of thousands of years. It cannot fix fast changes, like the carbon dioxide people are adding today.
 11. (mcq) Lotus flowers can keep themselves at about 30 to 35 degrees on a cool night. What does this tell us?  
-   Options: Lotus flowers have fur / Some plants can do a kind of warmth homeostasis too / Plants are animals / The pond is boiling  
+   Options: Some plants can do a kind of warmth homeostasis too / Lotus flowers have fur / Plants are animals / The pond is boiling  
    **Answer:** Some plants can do a kind of warmth homeostasis too. *Why:* Scientists measured sacred lotus flowers in 1996 and found they keep themselves warm. Balance-keeping is not only for animals.
 12. (write) A fridge and your body both keep things just right. Name one way they are alike, and one way they are different.  
    **Answer:** Alike: both notice a change, decide and act, then check again, to stay near a set number. Different: the fridge can only cool, but my body can cool down and also warm up. My body makes its own heat from food, and it keeps many things right, like water and saltiness, not just warmth.. *Why:* A strong answer names the feedback loop (notice, decide, act, check again) as the likeness, and gives a real difference, such as the body warming as well as cooling, or keeping water and salt right too.
@@ -666,13 +671,13 @@ People think that keeping cool means holding on to cold. It does not. I have nev
 
 ## Quiz
 1. (mcq) A girl plays in the noon sun. Then she sits in a room with the AC on. What happens to the temperature inside her body?  
-   Options: It goes up to match the sun / It stays close to 37 degrees the whole time / It goes down to match the AC  
+   Options: It stays close to 37 degrees the whole time / It goes up to match the sun / It goes down to match the AC  
    **Answer:** It stays close to 37 degrees the whole time. *Why:* Her skin feels hot and then cool, but her inside stays near 37 degrees. Her body sweats in the sun and saves heat in the cold room. That is homeostasis.
 2. (mcq) Which of these is an example of homeostasis?  
-   Options: Your hair growing longer / A tumbler of tea cooling down / Your body keeping its water just right on a hot day  
+   Options: Your hair growing longer / Your body keeping its water just right on a hot day / A tumbler of tea cooling down  
    **Answer:** Your body keeping its water just right on a hot day. *Why:* Homeostasis means keeping the inside steady. The tea just drifts to the room's warmth, and growing hair is change, not balance.
 3. (mcq) After a bath, you stand wet in front of a fan and feel chilly. Why?  
-   Options: The water on your skin dries and carries heat away / The fan makes cold air inside itself / Bath water is always colder than the air  
+   Options: The fan makes cold air inside itself / The water on your skin dries and carries heat away / Bath water is always colder than the air  
    **Answer:** The water on your skin dries and carries heat away. *Why:* The fan does not make cold air. It helps the water on your skin dry, and drying takes heat from you. Sweat cools you in the same way.
 4. (mcq) A girl is shivering after a swim. What is the shivering doing for her?  
    Options: Cooling her down / Making her sweat / Making heat with fast-working muscles  
@@ -681,29 +686,35 @@ People think that keeping cool means holding on to cold. It does not. I have nev
    Options: He lost water in sweat, his blood got a little saltier, and his brain noticed / His tummy is empty / The sun dried his mouth from the outside  
    **Answer:** He lost water in sweat, his blood got a little saltier, and his brain noticed. *Why:* Sweat takes water out of the body. The blood gets a little too salty, and the hypothalamus makes him feel thirsty. Picking 'tummy is empty' mixes up thirst with hunger.
 6. (mcq) Dark yellow pee usually means…  
-   Options: You drank too much water / You need to drink more water / You are very cold / You ate too much sugar  
+   Options: You drank too much water / You are very cold / You ate too much sugar / You need to drink more water  
    **Answer:** You need to drink more water. *Why:* When you are low on water, your kidneys save it, so you make less pee and it is darker. Picking 'drank too much' is the opposite: lots of water makes pee pale.
 7. (mcq) In a feedback loop, what happens after the body acts?  
-   Options: It keeps acting for ever / It forgets / It checks again, and stops when things are just right / It starts growing  
+   Options: It keeps acting for ever / It forgets / It starts growing / It checks again, and stops when things are just right  
    **Answer:** It checks again, and stops when things are just right. *Why:* A feedback loop checks again. If you kept sweating for ever, you would get too cold and lose too much water.
 8. (mcq) A geyser switches off when its water reaches the set warmth. Which part of your body does the same job as the geyser's thermostat?  
-   Options: Your sweat glands / Your skin / The hypothalamus in your brain  
+   Options: Your sweat glands / The hypothalamus in your brain / Your skin  
    **Answer:** The hypothalamus in your brain. *Why:* The thermostat compares the water with the set number and decides. In you, the hypothalamus compares your warmth with 'just right' and decides. Sweat glands only act on the order.
 9. (mcq) In the Sweaty Tumbler Test, two tumblers of warm water stood by a fan, one in a wet cloth and one in a dry cloth. Why did we use the same tumblers and the same water?  
-   Options: To save washing up / To make it a fair test, so only the wet cloth was different / Because the fan needs it / So the water would boil  
+   Options: To make it a fair test, so only the wet cloth was different / To save washing up / Because the fan needs it / So the water would boil  
    **Answer:** To make it a fair test, so only the wet cloth was different. *Why:* In a fair test, you change only one thing. Then you know that thing caused the difference. Here, it was the wet cloth.
 10. (mcq) Why does an elephant flap their big ears on a hot day?  
-   Options: To make heat / Moving air cools the warm blood flowing through the ears / To shade their eyes from the sun  
+   Options: Moving air cools the warm blood flowing through the ears / To make heat / To shade their eyes from the sun  
    **Answer:** Moving air cools the warm blood flowing through the ears. *Why:* An elephant's ears are thin and full of blood vessels. Flapping moves air over them, so the blood loses heat before it flows back into the body.
 11. (mcq) Honeybees keep their hive close to 35 degrees. What do they do on a very hot day?  
-   Options: Fan their wings and spread drops of water, which dry and cool the hive / Fly towards the sun / Sit still and wait  
+   Options: Fly towards the sun / Sit still and wait / Fan their wings and spread drops of water, which dry and cool the hive  
    **Answer:** Fan their wings and spread drops of water, which dry and cool the hive. *Why:* Bees bring water and spread it in the hive. Then they fan their wings, and the drying water carries heat away. It is the same trick as sweating.
 12. (mcq) Which of these do scientists still NOT know for sure?  
-   Options: That sweat cools us by drying / Why our just-right number is about 37 degrees / That shivering makes heat / That thirst makes us drink  
+   Options: That sweat cools us by drying / That shivering makes heat / That thirst makes us drink / Why our just-right number is about 37 degrees  
    **Answer:** Why our just-right number is about 37 degrees. *Why:* The other three are well tested. Scientists have ideas about why we are about 37 degrees, like keeping fungi out, but no sure answer yet.
 13. (mcq) Why is a very humid heatwave more dangerous than a dry one at the same temperature?  
-   Options: Humid air has no oxygen / Humid air makes you shiver / Sweat cannot dry well, so the body cannot cool itself / It isn't more dangerous  
+   Options: Sweat cannot dry well, so the body cannot cool itself / Humid air has no oxygen / Humid air makes you shiver / It isn't more dangerous  
    **Answer:** Sweat cannot dry well, so the body cannot cool itself. *Why:* Sweat cools only by drying. In very humid air it hardly dries, so the body heats up. Scientists are still working out exactly where the danger limit is.
+14. (mcq) What carries the waste your kidneys remove out of your body?  
+   Options: Your breath, which carries the waste out as air / Your food, which takes the waste back into your blood / Water, which leaves the body as pee / Nothing: the waste stays in your blood for ever  
+   **Answer:** Water, which leaves the body as pee. *Why:* Your kidneys filter waste out of your blood and mix it into water to make pee. Breath does not carry the kidneys' waste, and the waste does not stay in the blood.
+15. (mcq) Ravi plays cricket for two hours on a hot May afternoon. What should he do about water?  
+   Options: Drink nothing, because sweat is not pee and so does not count / Drink one big glass at bedtime and nothing during the game / Drink water through the day, and more than usual, because sweat takes water out of him / Skip water, because the match is only two hours long  
+   **Answer:** Drink water through the day, and more than usual, because sweat takes water out of him. *Why:* Sweat is water leaving the body, so he must drink water to replace it. Drinking through the day works better than one big glass at bedtime, which does nothing for the water he lost at the match.
 
 ## Applications
 - Doctors use a thermometer to check for fever, when the body's set point has moved up.
@@ -783,6 +794,10 @@ This Body Is a Universe (sci.body.L3): Topic-level song
 - [Digital fever thermometer](https://www.amazon.in/s?k=digital+thermometer+fever) (tool): To take your own temperature. Every home should have one anyway. Used in e2. 
 - [Small clay matka or surahi](https://www.amazon.in/s?k=clay+matka+water+pot) (material): Keeps drinking water cool all summer. A local potter or market often has them more cheaply. Used in e3. 
 - [Magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): To watch goosebumps up close. You can also look with your eyes alone. Used in a5. 
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in Jump and Notice: what does my body do?. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in a1. Get it before Jump and Notice: what does my body do?.
+- [Sticky notes](https://www.amazon.in/s?k=sticky+notes+pack) (material): Used in Thermostat Hunt. About ₹20 to ₹60. Small torn paper and tape do the same job. Used in a3. Get it before Thermostat Hunt.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in Design a Suit for Another World. About ₹20 to ₹50. Torn clean cloth works. Used in c2. Get it before Design a Suit for Another World.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - About how warm is the inside of your body? → About 37 degrees.

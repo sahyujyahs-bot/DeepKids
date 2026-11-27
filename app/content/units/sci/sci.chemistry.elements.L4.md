@@ -1,9 +1,9 @@
 # Elements: the 118 kinds of atom, metals and non-metals, and the elements in your body
 `sci.chemistry.elements.L4`
 
-**Summary.** Your body is made of just a few kinds of atom, out of 118 known. Which ones? In this unit you will fill a hundred square with the elements you are made of, test kitchen things for carbon, and test which metal tests pencil lead passes.
+**Summary.** Your body is made of just a few kinds of atom, out of 118 known. Which ones? In this lesson you will fill a hundred square with the elements you are made of, test kitchen things for carbon, and test which metal tests pencil lead passes.
 
-**Intro.** *Sugar is white. Salt is white. A grown-up heats a pinch of each on a tawa, and one of them turns black. Which one, and where did the black come from?* The black is an element called carbon. It was inside the sugar before the heating, joined with two other elements. There is carbon in rice, in cotton, in paper and in you. In this unit you find out which kitchen things hold carbon. You colour the elements of your own body on a hundred square. You number all 118 elements on a grid and see how many are metals. You also put pencil lead through three tests for a metal.
+**Intro.** *Sugar is white. Salt is white. A grown-up heats a pinch of each on a tawa, and one of them turns black. Which one, and where did the black come from?* The black is an element called carbon. It was inside the sugar before the heating, joined with two other elements. There is carbon in rice, in cotton, in paper and in you. In this lesson you find out which kitchen things hold carbon. You colour the elements of your own body on a hundred square. You number all 118 elements on a grid and see how many are metals. You also put pencil lead through three tests for a metal.
 
 ## Learning outcomes
 0. I can say what an element is, that 118 are known, and that about 90 are found in nature.
@@ -136,7 +136,7 @@ The universe began about 13.8 billion years ago. In its first few minutes it mad
   Against: Laboratories in several countries are trying to make elements 119 and 120. Nothing known forbids them.
 
 ## Roots
-In this unit you found the elements of your own body and counted them in two ways. Here we ask what those two counts say about you and about the world.
+In this lesson you found the elements of your own body and counted them in two ways. Here we ask what those two counts say about you and about the world.
 
 **Deep truth.** In the Body Hundred Square, you coloured 65 squares for oxygen when you counted by weight. When you counted atoms instead, 62 squares in 100 were hydrogen. Both counts are correct, because one oxygen atom weighs as much as 16 hydrogen atoms. So the question 'what are you mostly made of?' has two true answers, one for each way of counting.  
 *Habit it breaks:* We expect a question such as 'what is this mostly made of?' to have only one answer. But the answer depends on whether you weigh the parts or count them. So how you ask the question changes the answer.  
@@ -508,7 +508,7 @@ The baby slept through everything, growing.
 ## Worksheets
 ### Elements, metals and your body (core, 15 questions)
 1. (mcq) What is an element?  
-   Options: A substance with one kind of atom / Any substance that is a solid / A mixture of many metals / The smallest living thing  
+   Options: Any substance that is a solid / A mixture of many metals / A substance with one kind of atom / The smallest living thing  
    **Answer:** A substance with one kind of atom. *Why:* An element has only one kind of atom. Gold has only gold atoms. A mixture or a compound has more than one kind.
 2. (fill) Scientists know ____ elements.  
    **Answer:** ['118']. *Why:* The elements are numbered 1 to 118. About 90 are found in nature, and people made the rest in laboratories.
@@ -571,7 +571,7 @@ The baby slept through everything, growing.
 13. (write) Your blood holds iron. Explain why a magnet does not pull on your body.  
    **Answer:** A grown-up's body holds only 3 to 4 grams of iron, spread through all the blood. Each iron atom is joined into a compound. That compound is not magnetic the way a piece of iron is.. *Why:* A strong answer gives both reasons: the amount is tiny, and the iron is joined in a compound that behaves differently from iron metal.
 14. (mcq) Where were the carbon atoms in your body first made?  
-   Options: Inside stars / Inside the Earth / In green leaves / In the sea  
+   Options: Inside the Earth / In green leaves / In the sea / Inside stars  
    **Answer:** Inside stars. *Why:* Stars build carbon from helium. Leaves take carbon from the air and join it into sugar, but they do not make the atoms.
 15. (label) Label each thing with the element it is mostly made of: kitchen foil, electric wire, pencil lead, a floating balloon.  
    **Answer:** ['Kitchen foil: aluminium', 'Electric wire: copper', 'Pencil lead: carbon', 'A floating balloon: helium inside']. *Why:* Foil and wire are metals. Pencil lead is carbon, a non-metal solid. Helium is a non-metal gas lighter than air.
@@ -581,7 +581,7 @@ The baby slept through everything, growing.
 2. (perspective) Were the old thinkers right that earth, water, air, fire and space are the elements?  
    **Answer:** Any view with a reason. The chemist is right about what an element is today. The historian points out that the search for a short list began with the old thinkers.. *Why:* A strong answer separates the idea of a short list from the items on the list.
 3. (mcq) An atom has 79 protons. What must it be?  
-   Options: Gold / Any heavy metal / Silver or gold / It depends on its weight  
+   Options: Any heavy metal / Silver or gold / Gold / It depends on its weight  
    **Answer:** Gold. *Why:* The number of protons decides the element. Every atom with 79 protons is gold, and no other element has 79.
 4. (truefalse) A new element could be found with atomic number 6 and a half.  
    **Answer:** False. *Why:* False. The atomic number counts protons, and protons come only in whole numbers. So there are no gaps between 6 and 7.
@@ -594,7 +594,7 @@ The baby slept through everything, growing.
 8. (order) Put these in the order they were made, earliest first.  
    **Answer:** ['Hydrogen atoms', 'Carbon atoms, inside stars', 'The Earth', 'Your body']. *Why:* Hydrogen formed soon after the universe began. Stars made carbon later. The Earth formed from matter that old stars scattered, and your body is built from the Earth's matter.
 9. (mcq) Deep inside Jupiter, hydrogen behaves as a metal. What is different there?  
-   Options: How hard the atoms are squeezed / The kind of atom / The atomic number / The symbol  
+   Options: The kind of atom / The atomic number / How hard the atoms are squeezed / The symbol  
    **Answer:** How hard the atoms are squeezed. *Why:* The atoms are still hydrogen, with 1 proton each. The enormous pressure frees their electrons to move, which is what makes a metal.
 10. (match) Match each fact to the property of metals that it shows.  
    **Answer:** Electric wires are copper → Carries electricity; Silver is beaten into leaf for sweets → Malleable; Temple bells are metal → Rings when struck; A scrubbed steel plate gleams → Lustre. *Why:* People choose a metal for a job because of its properties. All four properties come from electrons that are free to move and atoms that can slide.
@@ -623,31 +623,31 @@ The baby slept through everything, growing.
    Options: 118 / 4 / 92 / 1,000  
    **Answer:** 118. *Why:* 118 elements are known. Four was the old list of earth, water, air and fire. 92 is the number of uranium, the heaviest common element in nature.
 3. (mcq) What does the symbol K stand for?  
-   Options: Potassium / Calcium / Carbon / Copper  
+   Options: Calcium / Carbon / Potassium / Copper  
    **Answer:** Potassium. *Why:* K is potassium, from its Latin name kalium. Calcium is Ca, carbon is C and copper is Cu.
 4. (mcq) Which property do most metals share?  
    Options: They carry electricity well / They are gases / They crumble when hit / They all stick to magnets  
    **Answer:** They carry electricity well. *Why:* Metals carry electricity because some of their electrons move freely. Only a few metals, such as iron, stick to magnets.
 5. (mcq) Which of these is a non-metal?  
-   Options: Nitrogen / Sodium / Calcium / Zinc  
+   Options: Sodium / Calcium / Nitrogen / Zinc  
    **Answer:** Nitrogen. *Why:* Nitrogen is a non-metal gas. Sodium and calcium are metals, even though we never see them as metal in food.
 6. (mcq) Most of the 118 elements are which kind?  
    Options: Metals / Non-metals / Gases / Metalloids  
    **Answer:** Metals. *Why:* 85 of the first 108 elements are metals. Only 17 are non-metals, and 11 of those are gases.
 7. (mcq) Graphite is carbon, a non-metal, yet it carries electricity. What does this show?  
-   Options: Some elements do not fit one side neatly / Carbon is really a metal / Electricity is a useless test / Graphite is not an element  
+   Options: Carbon is really a metal / Some elements do not fit one side neatly / Electricity is a useless test / Graphite is not an element  
    **Answer:** Some elements do not fit one side neatly. *Why:* Graphite has one property of metals and lacks the others. The two groups are useful, but a few elements sit between them.
 8. (mcq) Which four elements make up 96 parts in every 100 of your weight?  
-   Options: Oxygen, carbon, hydrogen, nitrogen / Calcium, iron, sodium, potassium / Carbon, calcium, iron, oxygen / Hydrogen, helium, oxygen, iron  
+   Options: Calcium, iron, sodium, potassium / Oxygen, carbon, hydrogen, nitrogen / Carbon, calcium, iron, oxygen / Hydrogen, helium, oxygen, iron  
    **Answer:** Oxygen, carbon, hydrogen, nitrogen. *Why:* Oxygen is 65, carbon 18, hydrogen 10 and nitrogen 3. All four are non-metals. Calcium and iron matter, but they weigh little.
 9. (mcq) Why is oxygen such a large part of your weight?  
    Options: Your body is mostly water / You breathe it in all day / Bones are made of oxygen / Oxygen atoms are the lightest  
    **Answer:** Your body is mostly water. *Why:* Water is most of your body, and oxygen is eight ninths of the weight of water. The oxygen you breathe in is a tiny amount at any moment.
 10. (mcq) Which element has the most atoms in your body?  
-   Options: Hydrogen / Oxygen / Carbon / Calcium  
+   Options: Oxygen / Hydrogen / Carbon / Calcium  
    **Answer:** Hydrogen. *Why:* About 62 of every 100 atoms in you are hydrogen. Oxygen wins by weight, because each oxygen atom is 16 times as heavy.
 11. (mcq) Bread turns black when it burns. What is the black?  
-   Options: Carbon left behind from the bread / Paint from the flame / Dirt from the tawa / Iron from the bread  
+   Options: Paint from the flame / Dirt from the tawa / Carbon left behind from the bread / Iron from the bread  
    **Answer:** Carbon left behind from the bread. *Why:* Bread is made of carbon compounds. Heat drives off the other elements and leaves carbon. Salt on the same tawa stays white, so the flame adds no black.
 12. (truefalse) The elements in a living body are different from the elements in rocks and air.  
    **Answer:** False. *Why:* False. Every element in a body is also found in rocks, air or sea. A body differs in how its elements are joined together.
@@ -719,6 +719,12 @@ Hold On Tight (sci.chemistry.L4): Topic-level song
 ## Things to buy
 - [The Elements: A Visual Exploration of Every Known Atom in the Universe, a book by Theodore Gray (2009)](https://www.amazon.in/s?k=The+Elements+Theodore+Gray) (book): For the child and parent: a large photograph of every element, with what it is used for. Used in a3. After the 118 Grid, the child looks up five squares of the grid in the book. The photographs show what each element looks like.
 - [A periodic table wall chart](https://www.amazon.in/s?k=periodic+table+wall+chart) (tool): For checking the cards in Three of a Kind and the numbers in the 118 Grid. A free chart printed from the internet works as well. Used in g1, a3. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Black Test: which kitchen things hold carbon?, The Body Hundred Square: which elements are you made of?, The 118 Grid: how many of the elements are metals?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a1, a3. Get it before The Black Test: which kitchen things hold carbon?.
+- [AA batteries or torch cells (a few)](https://www.amazon.in/s?k=AA+battery+pack) (material): Used in Elements on the Label: how many of the 118 are in your home?. About ₹10 to ₹30 each. A used torch cell still works for many circuits. Used in a2. Get it before Elements on the Label: how many of the 118 are in your home?.
+- [Insulated wire or crocodile clips](https://www.amazon.in/s?k=crocodile+clip+wire+set) (tool): Used in Shine, Bend, Ring: which metal tests does pencil lead pass?. About ₹20 to ₹80. Thin insulated wire from an old charger works. Used in e2. Get it before Shine, Bend, Ring: which metal tests does pencil lead pass?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Blindfold Sorter: tell metal from non-metal without looking. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before The Blindfold Sorter: tell metal from non-metal without looking.
+- [A kitchen or weighing scale](https://www.amazon.in/s?k=digital+kitchen+weighing+scale) (tool): Used in The Drying Potato: how much of a living thing is water?. About ₹300 to ₹700. A home-made balance from a ruler and two cups can compare weights. Used in p1. Get it before The Drying Potato: how much of a living thing is water?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is an element? → A substance made of only one kind of atom.

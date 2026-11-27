@@ -105,6 +105,12 @@
    "meaning": "To have young. Mosquitoes breed by laying eggs in still water.",
    "example": "Rain water caught in a thrown-away coconut shell or cup is a place where mosquitoes breed.",
    "art": "A coconut shell holding rainwater, with tiny mosquito young wriggling in it."
+  },
+  {
+   "term": "Zero-waste village",
+   "meaning": "A village where almost nothing goes to a dump, because everyone sorts, composts and reuses their waste together.",
+   "example": "Silluk in Arunachal Pradesh has bamboo dustbins, compost pits and a cleaning morning every week.",
+   "art": "A tidy village lane with a bamboo dustbin and a compost pit."
   }
  ],
  "explanations": [
@@ -161,10 +167,24 @@
    "perspectives": []
   },
   {
+   "concept": "The best waste is the food we never throw",
+   "status": "defined",
+   "context": "This card comes after what happens to sorted waste. Compost is good, but making less wet waste is better.",
+   "definition": "Food waste is good food that gets thrown away. We make less of it when we cook and serve only what will be eaten.",
+   "description": "Compost is good. Making less wet waste is better. Cook only as much rice and dal as your family will eat. Serve a little on the plate first, and take more if you are still hungry. Fresh leftovers can be eaten at the next meal. Sharing food is a lovely thing. When guests come, offer them food, and share fresh extra food with a neighbour, so that it is eaten and not binned. Peels, tea leaves and scraps that nobody can eat go to the compost pot or the wet bin. Growing, carrying and cooking food takes a farmer's work, water and fuel. Throwing it away wastes all of that.",
+   "examples": [
+    "Putting a little rice on the plate first, and taking a second helping if you are still hungry",
+    "Giving a bowl of fresh extra sabzi to a neighbour",
+    "Eating yesterday's dal with today's roti, and putting only the peels in the compost pot"
+   ],
+   "perspectives": [],
+   "art": "A child with a small helping of rice on a plate, a bowl of sabzi passing over a balcony wall to a neighbour, and a compost pot with peels."
+  },
+  {
    "concept": "Dangerous waste needs its own box",
    "status": "defined",
    "definition": "Household hazardous waste is kept apart, wrapped and marked, because it can cut, poison or burn the people and animals who touch it later.",
-   "description": "Broken glass and used blades cut the hands of the people who sort waste, so wrap them in thick newspaper and write 'broken glass' on it. Tube lights and curly CFL bulbs hold a tiny amount of mercury, a poisonous metal, so do not break them. Phone and laptop batteries can catch fire when they are crushed in a garbage truck. Old medicines should never be flushed or thrown loose, because they can harm animals that eat them and get into water. Used diapers and sanitary pads are wrapped in newspaper and marked, so that nobody opens them. Keep a small box for dangerous waste, and ask your city or a shop that sells batteries or bulbs where it can be taken.",
+   "description": "Broken glass and used blades cut the hands of the people who sort waste, so wrap them in thick newspaper and write 'broken glass' on it. Tube lights and curly CFL bulbs hold a tiny amount of mercury, a poisonous metal, so do not break them. Phone and laptop batteries can catch fire when they are crushed in a garbage truck. Old medicines should never be flushed or thrown loose, because they can harm animals that eat them and get into water. Used diapers and sanitary pads are wrapped in newspaper and marked, so that nobody opens them. Keep a small box for dangerous waste, and ask your city or a shop that sells batteries or bulbs where it can be taken. Thick old cloth works as well as newspaper. For small bits of glass, wrap them in cloth first and then in paper. The wrapping is for the sanitation worker, whose bare hands will lift the bag later.",
    "examples": [
     "A broken glass tumbler wrapped in newspaper and marked 'broken glass'.",
     "Old batteries kept in a jar until there are enough to take to a collection point.",
@@ -177,7 +197,7 @@
    "concept": "How waste makes a home or lane unsafe",
    "status": "defined",
    "definition": "Open waste draws flies, rats, crows and stray animals, and thrown-away containers catch rainwater where mosquitoes breed.",
-   "description": "Food in an open bin smells, and flies, cockroaches and rats come to feed. Flies walk on the waste and then on our food, carrying germs. Animals tear open garbage bags on the road and scatter the waste further. Cows and dogs may swallow plastic bags with food in them. After rain, a thrown-away cup, tyre or coconut shell holds still water. Mosquitoes breed in it, and some of them spread dengue. Plastic bags block drains, so water floods the street. A bin with a lid, waste taken out every day, and nothing left where water can collect keep a home and a lane safe.",
+   "description": "Food in an open bin smells, and flies, cockroaches and rats come to feed. Flies walk on the waste and then on our food, carrying germs. Animals tear open garbage bags on the road and scatter the waste further. Cows and dogs may swallow plastic bags with food in them. After rain, a thrown-away cup, tyre or coconut shell holds still water. Mosquitoes breed in it, and some of them spread dengue. Plastic bags block drains, so water floods the street. A bin with a lid, waste taken out every day, and nothing left where water can collect keep a home and a lane safe. Why do cows swallow plastic bags? A bag with food scraps stuck inside smells like food, and a cow cannot tell the bag from the food. Plastic cannot be digested, so it stays in her stomach and can make her very ill. Burning plastic is not a cure. The smoke stings the eyes and makes people cough, and it carries harmful gases that spread through the whole lane. That is why plastic must go in the dry bin and not on a fire.",
    "examples": [
     "A coconut shell left on a terrace after rain can hold mosquito young within a week.",
     "A bin with a lid keeps flies and ants out of the kitchen.",
@@ -198,6 +218,20 @@
    ],
    "art": "A woman in a green uniform at a building gate, receiving a blue bag of dry waste from a child, with a cart of sorted sacks behind her.",
    "perspectives": []
+  },
+  {
+   "concept": "A village that took charge: Silluk",
+   "status": "defined",
+   "context": "This card comes after the people who handle waste. It shows a whole village sharing the work.",
+   "definition": "A zero-waste village is one where almost nothing is thrown away to a dump, because the people sort, compost and reuse their waste together.",
+   "description": "Silluk is a village of some 150 homes in East Siang district, Arunachal Pradesh. Until 2019 it was called the dirtiest village in the district. Cow dung lay on the roads, and waste lay in the corners. Then the villagers started a group called Swachh Silluk Abhiyan, which means the Clean Silluk Campaign. They held cleaning drives every week. They put up bamboo dustbins. They dug compost pits for wet waste. They packed plastic into bottles to make eco-bricks, so it did not blow about or burn. They moved the cows to graze across the river, with cowsheds and caretakers. They fined people who littered. Women's self-help groups helped a great deal, and children were taught to make less waste. Within about six months the village was clean. It was named the cleanest village of its district three times. Today, Silluk is in an NCERT Class 3 book. The story shows that sorting works best when neighbours do it together.",
+   "examples": [
+    "A bamboo dustbin at every house in the village",
+    "A compost pit that turns peels into soil for the vegetable plot",
+    "A weekly cleaning morning when the whole village comes out"
+   ],
+   "perspectives": [],
+   "art": "A hill village with clean lanes: bamboo dustbins by the doors, a compost pit, women with sacks of sorted waste, and cows grazing across a river."
   },
   {
    "concept": "Whether every home should sort, or machines should do it",
@@ -498,12 +532,12 @@
       "t": "mcq",
       "q": "In Three Bins Snap, where does the newspaper soaked in sambar go?",
       "options": [
-       "DRY, because newspaper is always dry waste",
        "WET, because it is soaked with food and can no longer be recycled",
+       "DRY, because newspaper is always dry waste",
        "DANGER",
        "Back on the table"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Clean newspaper is dry waste. But once it is soaked with sambar, the paper mill can't use it. It rots along with the food, so it goes with wet waste. That is why we keep newspaper away from food in the first place."
      }
     }
@@ -606,11 +640,11 @@
       "q": "In Mix-Up Memory, peels kept in the wet bin become compost, but peels in a plastic bag on the dump make methane. Why the difference?",
       "options": [
        "The peels are different",
-       "On the dump they are shut in plastic and buried, so they rot without air",
        "Compost peels are cooked first",
+       "On the dump they are shut in plastic and buried, so they rot without air",
        "Methane only comes from bananas"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Peels rotting with air become compost. Shut in plastic deep in a dump, they rot without air, and the tiny living things that do that kind of rotting give off methane. The peels are the same. Where they end up is different."
      }
     }
@@ -720,12 +754,12 @@
      "t": "mcq",
      "p": "In the Two-Jar Test, what happened to the newspaper strip in the jar with sambar?",
      "opts": [
-      "It stayed clean",
       "It soaked up the sambar and tore when pulled",
+      "It stayed clean",
       "It turned into plastic",
       "It floated away"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Paper is made of plant fibres with gaps between them. The sambar soaked into the gaps, the fibres came loose, and the strip tore.",
      "how": "e1",
      "context": "In the Two-Jar Test, you put the same newspaper, biscuit-box piece and milk packet in two jars, and added sambar and peels to one jar."
@@ -791,12 +825,12 @@
      "t": "mcq",
      "p": "A pizza box has cheese stuck on one corner. What is the best thing to do?",
      "opts": [
-      "Put the whole box in the dry bin",
       "Tear off the clean part for the dry bin, and put the cheesy part in the wet bin",
+      "Put the whole box in the dry bin",
       "Put it in the danger box",
       "Leave it on the stairs"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Paper with food stuck on it cannot be recycled, but the clean part can. Separating them saves what can be saved."
     },
     {
@@ -805,6 +839,34 @@
      "lines": 3,
      "a": "A good answer names a real thing, such as a tea bag or a curd cup, picks a bin, and gives a reason from what rots, what soaks up liquid, or what is dangerous.",
      "why": "A strong answer gives a reason, not only a bin. If you are unsure, say what you would check."
+    },
+    {
+     "t": "sort",
+     "p": "Lunch is over. Sort these into 'eat or share' and 'compost pot'.",
+     "cats": [
+      "Eat or share",
+      "Compost pot"
+     ],
+     "items": [
+      [
+       "fresh leftover rice from lunch",
+       "Eat or share"
+      ],
+      [
+       "a banana peel",
+       "Compost pot"
+      ],
+      [
+       "a bowl of dal, still fresh",
+       "Eat or share"
+      ],
+      [
+       "used tea leaves",
+       "Compost pot"
+      ]
+     ],
+     "a": "see items",
+     "why": "Fresh food that is still good should be eaten or shared. Peels and tea leaves cannot be eaten, so they go to the compost pot."
     }
    ]
   },
@@ -818,12 +880,12 @@
      "t": "mcq",
      "p": "In the Two-Jar Test, the milk packet from the sambar jar came clean when rinsed, but the biscuit-box piece stayed stained. What explains this?",
      "opts": [
-      "Cardboard is made of paper fibres that absorb liquid, and plastic is not",
       "The biscuit box was older",
       "Sambar likes cardboard more",
+      "Cardboard is made of paper fibres that absorb liquid, and plastic is not",
       "The milk packet was rinsed for longer"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Cardboard is pressed paper fibres, so liquid soaks in. Plastic has no gaps, so liquid stays on the surface. Picking 'rinsed for longer' would mean the test was unfair, but both were rinsed for ten seconds.",
      "how": "e1",
      "context": "In the Two-Jar Test, you put the same newspaper, biscuit-box piece and milk packet in two jars, and added sambar and peels to one jar."
@@ -849,12 +911,12 @@
      "t": "mcq",
      "p": "Why does a heap of mixed waste on a dumping ground sometimes catch fire?",
      "opts": [
-      "The Sun is hotter there",
       "Food rotting deep inside, without air, makes methane, a gas that burns",
+      "The Sun is hotter there",
       "Plastic is always hot",
       "Crows bring matches"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Deep in a heap, food rots without air and the tiny living things doing it give off methane. Methane burns easily. Once a fire starts, the plastic and paper burn too."
     },
     {
@@ -902,11 +964,11 @@
      "p": "A family puts their peels inside a plastic bag and then puts the bag into the wet bin. What is the problem?",
      "opts": [
       "There is no problem",
-      "The plastic bag won't rot, so it spoils the compost",
       "Peels need light to rot",
+      "The plastic bag won't rot, so it spoils the compost",
       "The bag makes the peels dry"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Compost is made from things that rot. A plastic bag stays in the compost as plastic pieces. Peels can go into the wet bin loose, or wrapped in newspaper."
     },
     {
@@ -1000,6 +1062,12 @@
      "p": "About half of the waste Indian homes throw out is wet waste.",
      "a": true,
      "why": "True. Studies of Indian city waste find that roughly half is food and other things that rot. That is why composting wet waste makes such a big difference."
+    },
+    {
+     "t": "truefalse",
+     "p": "Burning a heap of plastic bags is a safe way to get rid of them.",
+     "a": false,
+     "why": "False. Burning plastic makes smoke that stings the eyes and carries harmful gases. Plastic should go in the dry bin to be recycled."
     }
    ]
   },
@@ -1020,12 +1088,12 @@
      "t": "mcq",
      "p": "You want to test whether wet waste spoils cotton cloth too. Which test is fair?",
      "opts": [
-      "Put a cotton rag in sambar and compare it with nothing",
       "Put one cotton rag in a dry jar and the same kind of rag in a jar with sambar, for the same time",
+      "Put a cotton rag in sambar and compare it with nothing",
       "Put cotton in sambar and plastic in water",
       "Ask a friend what they think"
      ],
-     "a": 1,
+     "a": 0,
      "why": "A fair test changes only one thing. Here the only difference is the sambar. Without a dry jar to compare, you can't be sure the sambar made the difference."
     },
     {
@@ -1108,12 +1176,12 @@
      "t": "mcq",
      "p": "Why do waste pickers earn more from sorted dry waste than from mixed waste?",
      "opts": [
-      "Sorted waste is heavier",
       "Clean, dry paper and plastic can be sold, but soaked and dirty ones can't",
+      "Sorted waste is heavier",
       "Mixed waste smells nicer",
       "Factories pay for food waste"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Recyclers pay for clean material they can use. Wet, dirty material is worth little or nothing, and takes hours to clean."
     },
     {
@@ -1173,6 +1241,13 @@
      "lines": 4,
      "a": "Yes. In the Sorting Race, mixing took ten seconds, but sorting the mixed bowl took much longer than sorting as I threw. In the Two-Jar Test, some things could not be unmixed at all.",
      "why": "A strong answer uses numbers or results from the child's own tests, not only agreement."
+    },
+    {
+     "t": "write",
+     "p": "In Silluk, cows were moved across the river to graze. Why would this help keep the village clean? Name one other thing the villagers did.",
+     "lines": 3,
+     "a": "Cow dung lay on the roads. With the cows across the river, the roads stayed clean. The villagers also held weekly cleaning drives, dug compost pits, put up bamboo dustbins and fined people who littered.",
+     "why": "A strong answer joins the cows to the dung on the roads, and names one more shared action."
     }
    ]
   }
@@ -1334,12 +1409,12 @@
       "t": "mcq",
       "q": "In the Two-Jar Test, the milk packet from the MIXED jar came clean after rinsing, but the box piece did not. Why?",
       "options": [
-       "The milk packet was in the jar for less time",
        "Cardboard soaks up liquid between its paper fibres, but plastic does not",
+       "The milk packet was in the jar for less time",
        "Sambar only sticks to cardboard ink",
        "The box piece was thinner, so it was dirtier"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Paper is made of plant fibres with gaps between them, and liquid soaks into the gaps. Plastic has no gaps, so the sambar only sits on top and can be rinsed off. Picking 'less time' is not right, because both were in the jar for the same 15 minutes. That was part of the fair test."
      }
     },
@@ -1519,11 +1594,11 @@
       "q": "In the Sorting Race, Round 2 took much longer than Round 1. What made it slower?",
       "options": [
        "The things were heavier the second time",
-       "The things were mixed and stuck together, so each had to be found and pulled apart",
        "The bowls were further away",
-       "The child was tired"
+       "The child was tired",
+       "The things were mixed and stuck together, so each had to be found and pulled apart"
       ],
-      "a": 1,
+      "a": 3,
       "why": "In Round 1 each thing came on its own, so sorting took one quick look. In Round 2 they were mixed, and wet tea leaves stuck to the paper, so each thing had to be searched for and cleaned off. Picking 'tired' is worth checking: that is why we did each round twice."
      }
     },
@@ -1637,11 +1712,11 @@
       "q": "In the Lid or No Lid test, ants came to the open box but not to the closed one. What does that tell us about a kitchen bin?",
       "options": [
        "Ants only like bananas",
-       "A lid keeps the smell in, so ants and flies don't find the waste or get to it",
        "The peel in the closed box had gone bad",
-       "Ants are scared of boxes"
+       "Ants are scared of boxes",
+       "A lid keeps the smell in, so ants and flies don't find the waste or get to it"
       ],
-      "a": 1,
+      "a": 3,
       "why": "Ants and flies find food by smell. A tight lid keeps most of the smell in and blocks the way in. Picking 'ants only like bananas' is a good thought to test: try a different peel next time and see if the result changes."
      },
      "parent": "If ants do get into the closed box, the lid was not tight. That is a result too: press it down harder and try again."
@@ -1913,11 +1988,11 @@
       "q": "Why should old medicines never be flushed down the toilet?",
       "options": [
        "They will block the toilet",
-       "They can get into rivers and the sea and harm fish and other animals",
        "They will make the toilet smell",
-       "Flushing makes them stronger"
+       "Flushing makes them stronger",
+       "They can get into rivers and the sea and harm fish and other animals"
       ],
-      "a": 1,
+      "a": 3,
       "why": "Toilet water goes to drains and, often, to rivers. Many medicines are not removed by water treatment, so they reach fish and other water animals. Keep them in the danger box instead."
      }
     }
@@ -1975,12 +2050,12 @@
       "t": "mcq",
       "q": "A coconut shell full of rainwater is lying near a building's gate. Why should it be emptied?",
       "options": [
-       "It looks untidy",
        "Mosquitoes can lay eggs in still water, and some spread dengue",
+       "It looks untidy",
        "Coconut water turns into rainwater",
        "Crows will drink it"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Mosquitoes lay their eggs in still water, and the young grow there for about a week. Some kinds spread dengue. Emptying the shell and turning it upside down stops this. 'It looks untidy' is true, but it is not the main danger."
      }
     }
@@ -2066,12 +2141,12 @@
       "t": "mcq",
       "q": "Which rule would save the most dry waste from being spoiled?",
       "options": [
-       "Use big bins",
        "Keep wet waste out of the dry bin",
+       "Use big bins",
        "Take the waste out once a week",
        "Use black bags"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Wet waste soaks into paper and cardboard and spoils them for good, as the Two-Jar Test showed. Keeping them apart saves the dry waste. Taking waste out only once a week would make wet waste smell and draw flies."
      }
     }
@@ -2224,12 +2299,12 @@
       "t": "mcq",
       "q": "At the Onam sadya, where should the used banana leaves go?",
       "options": [
-       "In the dry box",
        "In the wet bin, because leaves rot and can be composted",
+       "In the dry box",
        "In the danger box",
        "Burned in the street"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Banana leaves are part of a plant, so tiny living things in soil feed on them and they rot. That makes them wet waste, and good for compost. Burning them makes smoke that harms the lungs."
      }
     }
@@ -2294,11 +2369,11 @@
    "p": "You put a newspaper strip in a jar of dal for 15 minutes, and another strip in an empty jar. What will you most likely find?",
    "opts": [
     "Both strips stay the same",
-    "The strip in the dal is soaked and tears easily",
     "The strip in the empty jar tears",
+    "The strip in the dal is soaked and tears easily",
     "The dal turns into paper"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Paper soaks up liquid between its fibres, so the dal strip weakens and tears. The strip in the empty jar is the comparison, and it stays strong.",
    "outcome": 1,
    "how": "e1"
@@ -2322,11 +2397,11 @@
    "p": "When is it easiest to sort waste?",
    "opts": [
     "At the dumping ground",
-    "When you throw each thing, before anything is mixed",
     "Once a week, all together",
+    "When you throw each thing, before anything is mixed",
     "After it has rotted"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Before mixing, each thing takes one second to place. After mixing, things stick together and some, like soaked paper, can never be saved.",
    "outcome": 2
   },
@@ -2349,11 +2424,11 @@
    "p": "Why should a fused tube light be kept whole and not broken?",
    "opts": [
     "It might still work",
-    "It holds a tiny amount of mercury, a poison, and sharp glass",
     "It is worth a lot of money",
+    "It holds a tiny amount of mercury, a poison, and sharp glass",
     "It will rot faster"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Kept whole, the mercury stays sealed inside and the glass cuts nobody. Wrap it and keep it in the danger box.",
    "outcome": 3
   },
@@ -2375,11 +2450,11 @@
    "p": "Why does an open wet bin bring ants and flies?",
    "opts": [
     "They like the colour of bins",
-    "They follow the smell of the food to it",
     "Bins are warm",
-    "They come for the plastic"
+    "They come for the plastic",
+    "They follow the smell of the food to it"
    ],
-   "a": 1,
+   "a": 3,
    "why": "Ants and flies find food by smell. A lid keeps most of the smell in and blocks the way in.",
    "outcome": 4,
    "how": "e3"
@@ -2389,11 +2464,11 @@
    "p": "How does sorting at home help the woman who collects your waste?",
    "opts": [
     "It doesn't",
-    "She is not cut by hidden glass, and she can sell clean dry waste",
     "It makes her bag heavier",
-    "It means she doesn't need gloves"
+    "It means she doesn't need gloves",
+    "She is not cut by hidden glass, and she can sell clean dry waste"
    ],
-   "a": 1,
+   "a": 3,
    "why": "Wrapped glass is safe to handle, and clean paper and plastic can be sold. Gloves are still needed.",
    "outcome": 5
   },
@@ -2402,11 +2477,11 @@
    "p": "A factory pours a little mercury, a poison, into the sea. Tiny living things take it in, small fish eat them, and big fish eat many small fish. What happens to the mercury?",
    "opts": [
     "It spreads out and becomes harmless",
-    "It builds up in the big fish, and people and cats who eat them can be poisoned",
     "It turns into salt",
-    "It sinks and stays in the factory pipe"
+    "It sinks and stays in the factory pipe",
+    "It builds up in the big fish, and people and cats who eat them can be poisoned"
    ],
-   "a": 1,
+   "a": 3,
    "why": "Each big fish eats many small fish, and keeps the poison from all of them. So the poison builds up at each step. This is why poisonous waste is kept apart.",
    "outcome": 3
   },
@@ -2415,13 +2490,49 @@
    "p": "Which of these can be rinsed and still go in the dry bin?",
    "opts": [
     "A newspaper soaked in sambar",
-    "A curd cup with curd on it",
     "A paper plate covered in oil",
+    "A curd cup with curd on it",
     "A wet cardboard box"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Plastic does not absorb liquid, so a rinsed curd cup is clean dry waste. Paper and cardboard soak up food and oil, so they can't be saved.",
    "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Why do cows sometimes swallow plastic bags?",
+   "opts": [
+    "Cows like the taste of plastic",
+    "Plastic is good for a cow's stomach",
+    "The bag smells of the food stuck inside it"
+   ],
+   "a": 2,
+   "why": "A cow cannot tell a bag with food scraps from the food. Plastic cannot be digested, so it stays in her stomach and makes her ill. Cows do not like plastic. They are fooled by the smell of food.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "Guests come for lunch. How can your family make the least wet waste?",
+   "opts": [
+    "Cook twice as much, to be safe",
+    "Serve small helpings, offer more, and share fresh extra with a neighbour",
+    "Throw the extra rice in the dry bin"
+   ],
+   "a": 1,
+   "why": "Small helpings mean less is left on plates, and fresh extra food can be shared. Cooking too much makes waste. Rice is wet waste, so it never goes in the dry bin.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "What did the people of Silluk do to become a zero-waste village?",
+   "opts": [
+    "They waited for a big machine to come",
+    "They burned all their waste at night",
+    "They worked together: weekly cleaning, compost pits, bamboo dustbins and fines for littering"
+   ],
+   "a": 2,
+   "why": "The villagers did the work themselves, as neighbours. A machine did not do it for them, and burning waste would spread smoke and harmful gases.",
+   "outcome": 5
   }
  ],
  "applications": [
@@ -2659,7 +2770,49 @@
    "why": "See where the building's wet waste goes, and how it turns into compost."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Two-Jar Test: what does wet waste do to dry waste?, A Picture Sorting Guide for Our Building, A Bin That Fits a Small Kitchen. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before The Two-Jar Test: what does wet waste do to dry waste?."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Set Up a Sorting Station at Home, A Picture Sorting Guide for Our Building, A Bin That Fits a Small Kitchen. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "a1",
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before Set Up a Sorting Station at Home."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "Is a banana peel wet waste or dry waste?",

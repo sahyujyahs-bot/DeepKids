@@ -1,9 +1,9 @@
 # Evaporation and condensation: why some liquids leave fast, where the heat goes, and what salt does to the air
 `sci.states.evaporation-and-condensation.L4`
 
-**Summary.** A drop of sanitiser leaves your hand in seconds and feels cold, but a drop of coconut oil never leaves. Why? In this unit you will race six liquids across a steel plate, boil water with the lid on and off, and find which kitchen things pull water from the air.
+**Summary.** A drop of sanitiser leaves your hand in seconds and feels cold, but a drop of coconut oil never leaves. Why? In this lesson you will race six liquids across a steel plate, boil water with the lid on and off, and find which kitchen things pull water from the air.
 
-**Intro.** *Put one drop of water and one drop of hand sanitiser on the back of your hand. The sanitiser is gone in seconds, and your skin feels much colder where it was. The water takes minutes and feels only a little cool. Both are at room warmth. So why do they leave at such different speeds, and where does the cold come from?* Water is always leaving wet things as vapour and coming back as drops. A damp cloth dries only when more water leaves it than comes back. In this unit you ask harder questions. Which liquids leave fastest, and why? Where does the heat go when a liquid leaves, and where does it go when the vapour turns back into drops? And why does a spoon of salt turn damp in a monsoon room when nothing cold has touched it? You answer these questions with a steel plate, two pans and a humid box.
+**Intro.** *Put one drop of water and one drop of hand sanitiser on the back of your hand. The sanitiser is gone in seconds, and your skin feels much colder where it was. The water takes minutes and feels only a little cool. Both are at room warmth. So why do they leave at such different speeds, and where does the cold come from?* Water is always leaving wet things as vapour and coming back as drops. A damp cloth dries only when more water leaves it than comes back. In this lesson you ask harder questions. Which liquids leave fastest, and why? Where does the heat go when a liquid leaves, and where does it go when the vapour turns back into drops? And why does a spoon of salt turn damp in a monsoon room when nothing cold has touched it? You answer these questions with a steel plate, two pans and a humid box.
 
 ## Learning outcomes
 0. I can explain that different liquids evaporate at different speeds, and that how fast a liquid leaves depends on how tightly its own particles hold each other.
@@ -569,7 +569,7 @@ Paati laughed until her coffee shook. 'A scientist in the kitchen,' she said.
 ## Worksheets
 ### Fast Liquids, Cold Skin and Damp Salt (core) (core, 16 questions)
 1. (mcq) Which of these liquids evaporates fastest at normal room warmth?  
-   Options: Hand sanitiser / Plain water / Sugar syrup / Coconut oil  
+   Options: Plain water / Hand sanitiser / Sugar syrup / Coconut oil  
    **Answer:** Hand sanitiser. *Why:* The alcohol in sanitiser has particles that hold each other weakly, so many escape each second. Water is slower, syrup slower still, and coconut oil hardly evaporates at all.
 2. (truefalse) Hand sanitiser feels cold on your skin because it was kept in the fridge.  
    **Answer:** False. *Why:* False. Sanitiser at room warmth feels colder than water because it evaporates faster, and the escaping particles take heat from your skin.
@@ -585,7 +585,7 @@ Paati laughed until her coffee shook. 'A scientist in the kitchen,' she said.
 7. (match) Match each word to what it means.  
    **Answer:** Volatile → evaporates easily and fast; Relative humidity → how full the air is of water vapour; Dew point → the temperature at which air is completely full of vapour; Sublimation → a solid turning straight into a gas. *Why:* These four words come up all through the unit.
 8. (mcq) Air has a relative humidity of 100 per cent. What does that mean?  
-   Options: The air is carrying all the water vapour it can at its temperature / The air is made of water / The air is at 100 degrees  
+   Options: The air is made of water / The air is at 100 degrees / The air is carrying all the water vapour it can at its temperature  
    **Answer:** The air is carrying all the water vapour it can at its temperature. *Why:* Relative humidity compares the vapour in the air with the most it could carry at that temperature. At 100 per cent, the air is full.
 9. (order) Put the steps of the Lid On or Lid Off test in order.  
    **Answer:** ['Measure the same amount of water into two pans', 'Put a lid on one pan only', 'Boil both pans for ten minutes', 'Pour each pan into a jug and read the level']. *Why:* First give both pans the same start. Then change only the lid. Then boil for the same time. Last, measure what is left.
@@ -616,7 +616,7 @@ Paati laughed until her coffee shook. 'A scientist in the kitchen,' she said.
 4. (truefalse) Water in an open pan on a bigger flame boils at a higher temperature.  
    **Answer:** False. *Why:* False. Water in an open pan cannot get hotter than its boiling point. A bigger flame only makes it boil away faster.
 5. (mcq) Water boils at about 92 degrees at Ooty, which is high in the hills. Why is it lower than 100 degrees?  
-   Options: The air presses less on the water, so its vapour can form bubbles at a lower temperature / The air is colder, so the water is colder / The water has less salt  
+   Options: The air is colder, so the water is colder / The water has less salt / The air presses less on the water, so its vapour can form bubbles at a lower temperature  
    **Answer:** The air presses less on the water, so its vapour can form bubbles at a lower temperature. *Why:* Boiling happens when the vapour can push back the air. High up, the air presses less, so water boils at a lower temperature. Rice takes longer to cook at Ooty for this reason.
 6. (sort) Sort these. Does each one raise the boiling point of water, lower it, or leave it the same?  
    **Answer:** a pressure cooker → Raises it; climbing a hill → Lowers it; putting a lid on an open pan → Leaves it the same; a bigger flame → Leaves it the same. *Why:* A pressure cooker raises the pressure, so water boils hotter. A hill lowers the pressure, so water boils cooler. A lid on an open pan and a bigger flame do not change the boiling point.
@@ -647,7 +647,7 @@ Paati laughed until her coffee shook. 'A scientist in the kitchen,' she said.
 1. (write) In the Lid On or Lid Off test, the open pan lost 90 of its 500 millilitres and the covered pan lost 10 millilitres. Write a claim, the evidence and the reasoning.  
    **Answer:** Claim: a lid keeps almost all the water in a boiling pan. Evidence: the open pan lost 90 millilitres and the covered pan only 10. Reasoning: the vapour meets the cooler lid, turns back into drops and falls back into the pan.. *Why:* A strong answer states the claim, uses both numbers as evidence and explains how the lid works.
 2. (mcq) Steam at 100 degrees burns skin worse than boiling water at 100 degrees. Why?  
-   Options: Steam gives out a large amount of heat as it condenses on the skin, as well as the heat it gives out as it cools / Steam is hotter than 100 degrees / Water cannot burn  
+   Options: Steam is hotter than 100 degrees / Water cannot burn / Steam gives out a large amount of heat as it condenses on the skin, as well as the heat it gives out as it cools  
    **Answer:** Steam gives out a large amount of heat as it condenses on the skin, as well as the heat it gives out as it cools. *Why:* Steam carries a lot of latent heat, and gives it all up as it turns back into water on the skin. Boiling water gives up only the heat of cooling.
 3. (count) A room is 4 metres long, 3 metres wide and 3 metres high. The air in it is at 30 degrees and 60 per cent humidity, and a cubic metre of saturated air at 30 degrees holds 30 grams of vapour. About how many grams of water vapour are in the room?  
    **Answer:** 648. *Why:* The volume is 4 times 3 times 3, which is 36 cubic metres. 60 per cent of 30 grams is 18 grams in each cubic metre. 36 times 18 is 648 grams.
@@ -688,40 +688,40 @@ Paati laughed until her coffee shook. 'A scientist in the kitchen,' she said.
 
 ## Quiz
 1. (mcq) Hand sanitiser, water and coconut oil sit in the same air. Which will be gone first?  
-   Options: Hand sanitiser, because its particles hold each other weakly / Coconut oil, because it is thinnest / Water, because it is clear  
+   Options: Coconut oil, because it is thinnest / Water, because it is clear / Hand sanitiser, because its particles hold each other weakly  
    **Answer:** Hand sanitiser, because its particles hold each other weakly. *Why:* How fast a liquid leaves depends on how tightly its particles hold each other. Alcohol particles hold weakly, so they escape easily. Oil particles hold very tightly.
 2. (mcq) Why does wet skin feel cold when the water on it evaporates?  
-   Options: The escaping water carries heat away from the skin / The water was cold to begin with / Evaporation makes new cold  
+   Options: The water was cold to begin with / Evaporation makes new cold / The escaping water carries heat away from the skin  
    **Answer:** The escaping water carries heat away from the skin. *Why:* The fastest, most energetic particles leave first and take their heat with them. The skin loses heat and feels cold.
 3. (mcq) What happens to heat when water vapour condenses into drops?  
    Options: The heat is given out to what is around / The heat is taken in / The heat disappears  
    **Answer:** The heat is given out to what is around. *Why:* Condensation gives out the same heat that evaporation took in. This is why steam burns badly and why the back of a fridge is warm.
 4. (mcq) Why is the back of a running fridge warm?  
-   Options: It gives out heat taken from the inside / The food inside is hot / The door is open  
+   Options: The food inside is hot / The door is open / It gives out heat taken from the inside  
    **Answer:** It gives out heat taken from the inside. *Why:* A fridge moves heat from inside to the pipes at the back, where the refrigerant condenses and gives the heat out to the room.
 5. (mcq) Does a lid make the water in a pan boil at a higher temperature?  
    Options: No, a lid only keeps the vapour and heat in / Yes, a lid always makes water hotter than 100 degrees / Yes, if the lid is heavy  
    **Answer:** No, a lid only keeps the vapour and heat in. *Why:* In an open or lidded pan, water boils at 100 degrees at sea level. The lid saves water and fuel. Only a pressure cooker, which holds in pressure, makes the water hotter.
 6. (mcq) Why does a pressure cooker cook dal faster?  
-   Options: The higher pressure raises the boiling point, so the water is hotter / It uses more flame / It removes the water  
+   Options: It uses more flame / It removes the water / The higher pressure raises the boiling point, so the water is hotter  
    **Answer:** The higher pressure raises the boiling point, so the water is hotter. *Why:* The sealed cooker lets the pressure rise. At higher pressure, water boils at a higher temperature, so the food is cooked by hotter water.
 7. (mcq) The dew point of the air is 26 degrees. A steel glass of water is at 20 degrees. What happens?  
-   Options: Mist forms on the outside of the glass / The glass stays dry / The glass gets hot  
+   Options: The glass stays dry / The glass gets hot / Mist forms on the outside of the glass  
    **Answer:** Mist forms on the outside of the glass. *Why:* The glass is colder than the dew point, so water vapour in the air condenses on it.
 8. (mcq) Which can carry more water vapour in each cubic metre?  
-   Options: Air at 30 degrees / Air at 10 degrees / Both the same  
+   Options: Air at 10 degrees / Air at 30 degrees / Both the same  
    **Answer:** Air at 30 degrees. *Why:* The most that air can carry rises quickly with temperature. At 30 degrees it is about 30 grams in each cubic metre, and at 10 degrees about 9.
 9. (mcq) Salt in an open dish goes damp on a very humid day. Where does the water come from?  
    Options: The salt pulls it out of the damp air / The salt makes water from itself / Water leaks up from the table  
    **Answer:** The salt pulls it out of the damp air. *Why:* Salt holds water strongly, and when the air is damp enough, water vapour lands on it and stays. It does not need to be cold.
 10. (mcq) A camphor tablet gets smaller in the open and leaves no puddle. What has happened?  
-   Options: It has turned straight from solid into gas / It has melted into the shelf / It has turned into water  
+   Options: It has melted into the shelf / It has turned into water / It has turned straight from solid into gas  
    **Answer:** It has turned straight from solid into gas. *Why:* This is sublimation. The camphor's particles escape directly into the air, which is why you can smell it.
 11. (mcq) William Cullen froze water using a pump and a liquid that boiled away fast. What did this show?  
    Options: A liquid can make cold just by evaporating, with no cold thing added / Ether is colder than ice / Water freezes when it is pumped  
    **Answer:** A liquid can make cold just by evaporating, with no cold thing added. *Why:* No cold thing was brought near. The cold came from the liquid leaving, which took heat from the water around it.
 12. (mcq) Why are the bottoms of fair-weather clouds flat and at about the same height?  
-   Options: Rising air reaches its dew point at about the same height everywhere / The wind cuts them flat / The Sun melts the bottoms  
+   Options: The wind cuts them flat / Rising air reaches its dew point at about the same height everywhere / The Sun melts the bottoms  
    **Answer:** Rising air reaches its dew point at about the same height everywhere. *Why:* Rising air cools as it climbs, and its vapour condenses where it reaches the dew point. That height is almost the same across a wide area.
 
 ## Applications
@@ -799,7 +799,7 @@ Heavy for Its Size (sci.states.L4): Topic-level song
 - [PhET States of Matter](https://phet.colorado.edu/en/simulations/states-of-matter) · simulation: A free simulation. Heat and cool particles of different substances and watch them evaporate, condense and freeze.
 - [India Meteorological Department: weather and humidity](https://mausam.imd.gov.in) · interactive: Look up the temperature and humidity in your city, then use the Will It Mist? chart to guess the dew point.
 - [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a science museum in San Francisco. Search for evaporation, condensation and clouds.
-- [Sohra and Mawsynram, among the wettest places on Earth]() · place · Meghalaya: Where moist monsoon air from the Bay of Bengal rises over the hills and drops huge amounts of rain.
+- Sohra and Mawsynram, among the wettest places on Earth · place · Meghalaya: Where moist monsoon air from the Bay of Bengal rises over the hills and drops huge amounts of rain.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A large science museum with hands-on galleries.
 - [Birla Industrial and Technological Museum](https://www.bitm.gov.in) · place · Kolkata: A science museum with hands-on exhibits about matter and everyday science.
 
@@ -807,6 +807,14 @@ Heavy for Its Size (sci.states.L4): Topic-level song
 - [A silica gel sachet (optional)](https://www.amazon.in/s?k=silica+gel+packets) (material): Optional for the Thirsty Things test. Many shoe boxes and medicine bottles already have one. Put it in its own saucer next to the others and weigh it before and after if your scale reads to 0.1 gram. Used in e2. 
 - [A digital kitchen scale that reads in grams (optional)](https://www.amazon.in/s?k=digital+kitchen+scale) (tool): Optional, for weighing a silica gel sachet or the saucers in the Thirsty Things test. Not needed for the test to work. Used in e2. 
 - [Camphor tablets for pooja](https://www.amazon.in/s?k=camphor+tablets+pooja) (material): For the Vanishing Kapoor activity. A small pack from a pooja shop is enough. Used in a5. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Vanishing Kapoor: a solid that evaporates, Evaporation Pan: how many millimetres does the Sun take each day?. About ₹10 to ₹30. Any school ruler is fine. Used in a5, p1. Get it before The Vanishing Kapoor: a solid that evaporates.
+- [Wooden ice-cream sticks (a pack)](https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack) (material): Used in Drop Race: which liquid leaves first, and which feels coldest?. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in. Used in e1. Get it before Drop Race: which liquid leaves first, and which feels coldest?.
+- [Baking soda](https://www.amazon.in/s?k=baking+soda) (material): Used in Thirsty Things: which kitchen things pull water out of the air?. About ₹20 to ₹40. Check the kitchen first. Used in e2. Get it before Thirsty Things: which kitchen things pull water out of the air?.
+- [Vinegar](https://www.amazon.in/s?k=white+vinegar) (material): Used in Drop Race: which liquid leaves first, and which feels coldest?. About ₹40 to ₹80. Lemon juice works for many tests. Used in e1. Get it before Drop Race: which liquid leaves first, and which feels coldest?.
+- [A measuring jug or syringe (marked in millilitres)](https://www.amazon.in/s?k=measuring+jug+500+ml) (tool): Used in Lid On or Lid Off: how much water leaves a boiling pan?. About ₹30 to ₹100. A clean medicine cup or marked bottle works. Used in e3. Get it before Lid On or Lid Off: how much water leaves a boiling pan?.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in Evaporation Pan: how many millimetres does the Sun take each day?. About ₹10 to ₹30. Draw squares on plain paper. Used in p1. Get it before Evaporation Pan: how many millimetres does the Sun take each day?.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Keep the Salt Free-Flowing: design a salt box for the monsoon. About ₹30 to ₹60. Newspaper cut into strips also works. Used in c1. Get it before Keep the Salt Free-Flowing: design a salt box for the monsoon.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Which leaves a plate first, sanitiser or water? → Sanitiser, because its particles hold each other weakly.
@@ -828,7 +836,7 @@ Heavy for Its Size (sci.states.L4): Topic-level song
 ## Sources
 - ideas/by_topic/gases-evaporation-condensation-solutions.md: the Temperature, Humidity, Pressure rows (a homemade humidity check and the idea of balance between unseen forces), which led to the Thirsty Things test and the salt box story
 - The combined lesson sci-C5-gases-evaporation-condensation-solutions: its parts The cool wrist, The cooker and the hills and Condensation hunt informed the feel test in the Drop Race and the boiling and pressure card. Its story and worksheets were not reused
-- The Class 3 unit on evaporation and condensation, which this unit builds on: leaving and landing back, and damp air. None of its tests, activities or its story are repeated
+- The Class 3 unit on evaporation and condensation, which this lesson builds on: leaving and landing back, and damp air. None of its tests, activities or its story are repeated
 - Nearby units read so as not to repeat them: the Class 4 unit on heat and temperature (its wet thermometer and clay matka test), the Class 3 unit on the water cycle, and the Class 4 unit on reaction speed (its pressure cooker activity)
 - PHILOSOPHY.md library: Bhagavad Gita 9.19 and Tirukkural 20
 - Cullen, W., essay on the cold produced by evaporating fluids, read in Edinburgh in 1755 and printed later, with a first demonstration of artificial cooling at the University of Glasgow reported for about 1748

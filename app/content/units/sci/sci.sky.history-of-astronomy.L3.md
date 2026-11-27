@@ -1,9 +1,9 @@
 # How people learned about the sky, and made clocks and calendars from it
 `sci.sky.history-of-astronomy.L3`
 
-**Summary.** How did people tell the time at night before clocks? In this unit you will build a sinking cup water clock like the old Indian ghati and time it three times to see how steady it is. You will also draw a day of 60 nazhigai and test your sense of a minute.
+**Summary.** How did people tell the time at night before clocks? In this lesson you will build a sinking cup water clock like the old Indian ghati and time it three times to see how steady it is. You will also draw a day of 60 nazhigai and test your sense of a minute.
 
-**Intro.** *Close your eyes. Say 'now' when you think one minute has passed. A grown-up checks with a clock. Were you early or late? Before clocks, how did people know the time at night?* Your own sense of time drifts, so people looked for something steadier. They found it in the sky. The Sun rises again every morning. The Moon grows full about every 29 and a half days. The seasons come round again every 365 days. People counted these repeats and made calendars. They made water clocks to count the hours between sunset and sunrise. In this unit you make a sinking cup clock, test how steady it is, and meet the sky-watchers who taught the world to count time.
+**Intro.** *Close your eyes. Say 'now' when you think one minute has passed. A grown-up checks with a clock. Were you early or late? Before clocks, how did people know the time at night?* Your own sense of time drifts, so people looked for something steadier. They found it in the sky. The Sun rises again every morning. The Moon grows full about every 29 and a half days. The seasons come round again every 365 days. People counted these repeats and made calendars. They made water clocks to count the hours between sunset and sunrise. In this lesson you make a sinking cup clock, test how steady it is, and meet the sky-watchers who taught the world to count time.
 
 ## Learning outcomes
 0. I can name the three repeats in the sky that give us the day, the month and the year, and say how long each one takes.
@@ -46,6 +46,7 @@ Twelve Moon months add up to about 354 days. That is about 11 days short of the 
 - e.g. Pongal follows the Sun, so it falls in the middle of January every year. Bohag Bihu in Assam follows the Sun too, so it falls in mid-April.
 - e.g. Deepavali follows the Moon, so its date moves between October and November.
 - e.g. Onam needs both: the Sun's month of Chingam and the Moon in the nakshatra Thiruvonam.
+- e.g. Even the week has names from the sky. Ravivar, Sunday, is named after Ravi, the Sun. Somvar, Monday, is named after Soma, the Moon. The other days are named after the planets Mars, Mercury, Jupiter, Venus and Saturn.
 ### Clocks before machines · *defined*
 **Definition:** Before clocks with gears, people used shadows to tell the time by day, and water flowing through a small hole to measure time at night.
 
@@ -92,7 +93,7 @@ The Maya watched Venus very closely. Venus appears as a bright morning star, dis
 **Definition:** A water clock or a calculated table drifts a little from the truth over time. The sky's repeats are much steadier, so people corrected their clocks and calendars by watching the sky.
 
 A ghati bowl sinks a little faster or slower if the water is warmer, if the hole wears or if it is put down roughly. So astronomers checked it against the Sun and stars. Calculated tables of the sky drift too. Small errors in the numbers add up over hundreds of years. Parameshvara, in Kerala, saw that eclipses were not happening at the times the old tables said. He watched eclipses for decades and wrote a new, corrected system in 1431. Until 1967, even the length of the second came from the Earth's movement. Since then, it has been measured with atomic clocks, which are steadier still.
-- e.g. The sinking cup in this unit sinks in a slightly different time each round.
+- e.g. The sinking cup in this lesson sinks in a slightly different time each round.
 - e.g. Old tables made in 683 had drifted from the sky by the 1400s, and Parameshvara corrected them.
 - e.g. Since 1972, a leap second has sometimes been added to clocks, because the Earth's spin is not perfectly steady.
 ### Why do we count minutes in sixties? · *idea*
@@ -536,9 +537,9 @@ When Amma came home, Karthik was already asleep on the swing, with five marks, a
   - Check: On Kuyil, 7 moon months are 70 days, and the year is 73 days. What happens if nobody adds the 3 extra days? → **Festivals come 3 days earlier in the seasons each year**
 
 ## Worksheets
-### Sky Clock Detective (core) (core, 15 questions)
+### Sky Clock Detective (core) (core, 16 questions)
 1. (mcq) Which repeat in the sky gives us the month?  
-   Options: The Moon going from full to full again / The Earth turning once / The Sun coming back to the same season  
+   Options: The Earth turning once / The Sun coming back to the same season / The Moon going from full to full again  
    **Answer:** The Moon going from full to full again. *Why:* The Moon goes from full to full in about 29 and a half days, and that is where the month comes from. The Earth turning once gives the day. The Sun coming back to the same season gives the year.
 2. (fill) From one full Moon to the next takes about ____ days.  
    **Answer:** ['29 and a half', '29.5', '29½']. *Why:* A lunar month is about 29 and a half days. That is why some Moon months have 29 days and some 30.
@@ -550,26 +551,28 @@ When Amma came home, Karthik was already asleep on the swing, with five marks, a
    **Answer:** No. The times are close, all between 3 minutes 5 and 3 minutes 25 seconds, only 20 seconds apart. Small things change the time a little, such as how gently the cup is put down or water left inside. So it is a fairly steady clock, but not a perfect one.. *Why:* A strong answer uses the numbers, works out the gap of 20 seconds, and gives a reason for the small differences.
 6. (sort) Sort these festivals and days. Does each one follow the Sun, or the Moon?  
    **Answer:** Pongal → Follows the Sun; Vishu → Follows the Sun; Bohag Bihu in Assam → Follows the Sun; 1 January, New Year's Day → Follows the Sun; Christmas → Follows the Sun; Deepavali → Follows the Moon; Ramzan Eid → Follows the Moon; Karthigai Deepam → Follows the Moon; Holi → Follows the Moon; Gudi Padwa → Follows the Moon. *Why:* Festivals on the same date every year, like Pongal, Vishu, Bohag Bihu and Christmas, follow the Sun. Festivals that move each year, like Deepavali, Eid, Holi and Gudi Padwa, follow the Moon. A strong sorter checks whether the date moves.
-7. (mcq) You want your cup clock to sink faster. What should you change?  
+7. (fill) Shanivar is the Indian name for Saturday. It is named after the planet ____.  
+   **Answer:** Saturn. *Why:* Shani is the name of Saturn in Hindi, so Shanivar is Saturn's day. The planets give their names to the days of the week.
+8. (mcq) You want your cup clock to sink faster. What should you change?  
    Options: Make the hole a little bigger / Use colder water / Put the cup in a smaller vessel  
    **Answer:** Make the hole a little bigger. *Why:* A bigger hole lets more water in each second, so the cup fills and sinks sooner. The size of the vessel does not change how fast water comes through the hole.
-8. (order) Put these in order, from the shortest to the longest.  
+9. (order) Put these in order, from the shortest to the longest.  
    **Answer:** ['a nazhigai', 'a day', 'a lunar month', 'a solar year']. *Why:* A nazhigai is 24 minutes. A day is 24 hours. A lunar month is about 29 and a half days. A solar year is about 365 days.
-9. (draw) Draw your sinking cup clock floating in the vessel. Label the hole, the coins, the water coming in, and the water in the vessel.  
+10. (draw) Draw your sinking cup clock floating in the vessel. Label the hole, the coins, the water coming in, and the water in the vessel.  
    **Answer:** A cup floating in a larger vessel, with coins taped inside at the bottom, a small hole in the bottom, an arrow showing water coming up through the hole, and the water level of the vessel.. *Why:* A strong drawing shows that water enters through the hole from below, and the coins sit at the bottom.
-10. (mcq) Which people wrote down the sky on clay tablets, night after night, for hundreds of years?  
+11. (mcq) Which people wrote down the sky on clay tablets, night after night, for hundreds of years?  
    Options: The Babylonians / The Maya / The Chinese  
    **Answer:** The Babylonians. *Why:* The Babylonians, in what is now Iraq, pressed marks into wet clay. The Maya painted their books on bark paper. The Chinese wrote with brushes on silk, bamboo and paper.
-11. (truefalse) The word 'ghadi', used for a clock in many Indian languages, comes from the ghati, an old Indian water clock.  
+12. (truefalse) The word 'ghadi', used for a clock in many Indian languages, comes from the ghati, an old Indian water clock.  
    **Answer:** True. *Why:* True. The ghati, or ghatika, was a bowl that sank once every 24 minutes. Its name lives on in 'ghadi'.
-12. (write) A sundial tells the time from the Sun's shadow. Why did astronomers in India still need the ghati water clock?  
+13. (write) A sundial tells the time from the Sun's shadow. Why did astronomers in India still need the ghati water clock?  
    **Answer:** A sundial needs sunlight. It does not work at night or on cloudy days. Astronomers watched the sky at night, so they needed a clock that works without the Sun, like a water clock.. *Why:* A strong answer says when a sundial fails, and why astronomers needed a clock at night.
-13. (perspective) Two friends are arguing about time.  
+14. (perspective) Two friends are arguing about time.  
    **Answer:** A strong answer might side with the second friend: the day, the month and the year all come from the sky, and hours and minutes were made by splitting the day. It might then grant the first friend that today's phones are set by atomic clocks, which are steadier than the Earth's spin.. *Why:* Both have a point. The units of time came from the sky, but today the most exact clocks are atomic clocks, not the sky.
-14. (fill) There are ____ nazhigai in one day and night.  
+15. (fill) There are ____ nazhigai in one day and night.  
    **Answer:** ['60', 'sixty']. *Why:* A day and night is 24 hours, or 1,440 minutes. 1,440 divided by 24 is 60.
-15. (mcq) A child closed his eyes and said 'now' when he thought a minute had passed. His three tries were 45, 52 and 71 seconds. What does this show?  
-   Options: Our feeling of time is not steady, so we need a clock or the sky to count / The child was cheating / A minute is not always 60 seconds  
+16. (mcq) A child closed his eyes and said 'now' when he thought a minute had passed. His three tries were 45, 52 and 71 seconds. What does this show?  
+   Options: The child was cheating / Our feeling of time is not steady, so we need a clock or the sky to count / A minute is not always 60 seconds  
    **Answer:** Our feeling of time is not steady, so we need a clock or the sky to count. *Why:* A minute is always 60 seconds, but our own sense of it drifts. That is why people looked for steadier ways to count time.
 ### Sky-Watchers of the World (stretch) (stretch, 15 questions)
 1. (mcq) Eratosthenes found that at noon, a stick in Alexandria cast a short shadow, while the Sun shone straight down a well in Syene. What did this tell him?  
@@ -584,7 +587,7 @@ When Amma came home, Karthik was already asleep on the swing, with five marks, a
 5. (truefalse) Two peoples living on opposite sides of the world, who never met, could both find the same repeating pattern in the sky.  
    **Answer:** True. *Why:* True. The sky is the same for everyone. Anyone who watches carefully and keeps records for long enough can find its repeats, like the cycle of Venus.
 6. (mcq) Five Venus cycles of 584 days make 2,920 days. Eight years of 365 days also make 2,920 days. Why was this useful to the Maya?  
-   Options: Every 8 years, Venus came back to the same place on the same date of their calendar / Venus disappeared after 8 years / It meant Venus is 8 times bigger than Earth  
+   Options: Venus disappeared after 8 years / It meant Venus is 8 times bigger than Earth / Every 8 years, Venus came back to the same place on the same date of their calendar  
    **Answer:** Every 8 years, Venus came back to the same place on the same date of their calendar. *Why:* Because the two counts meet at 2,920 days, the Venus pattern lines up with the year every 8 years. That made it easy to predict Venus far ahead.
 7. (order) Put these in time order, from the oldest to the most recent.  
    **Answer:** ['Eratosthenes measures the Earth', 'Aryabhata writes that the Earth spins', 'Chinese astronomers record a guest star', 'Parameshvara writes Drigganita', 'Jai Singh II builds Jantar Mantar']. *Why:* Eratosthenes about 240 BCE, Aryabhata 499, the guest star 1054, Drigganita 1431, and Jantar Mantar around 1730.
@@ -595,7 +598,7 @@ When Amma came home, Karthik was already asleep on the swing, with five marks, a
 10. (fill) Indian astronomers split the Moon's path into 27 star groups, called ____.  
    **Answer:** ['nakshatras', 'nakshatra']. *Why:* The Moon takes about 27 days to go round the sky past the same stars, so it spends about one day in each nakshatra.
 11. (mcq) The Tamil month Karthigai is named after Krittika, a star group. Why name a month after a star group?  
-   Options: The full Moon in that month sits in or near that star group / Krittika can only be seen in that month / Krittika was the name of a queen  
+   Options: Krittika can only be seen in that month / The full Moon in that month sits in or near that star group / Krittika was the name of a queen  
    **Answer:** The full Moon in that month sits in or near that star group. *Why:* Many Indian month names come from the nakshatra where the full Moon sits in that month. Karthigai Deepam is lit on the full Moon in Krittika.
 12. (sort) Sort these sky patterns. Could one person find each one in a few weeks of watching, or did it need records kept for many years?  
    **Answer:** the Moon's shapes repeating → A few weeks of watching; the sunset point moving along the skyline → A few weeks of watching; day and night → A few weeks of watching; an eclipse pattern repeating every 18 years → Records over many years; Halley's Comet coming back every 76 years → Records over many years; the stars slowly shifting over centuries → Records over many years. *Why:* Fast repeats can be seen by one person. Slow repeats were found only because people like the Babylonians and Chinese kept written records for hundreds of years.
@@ -604,7 +607,7 @@ When Amma came home, Karthik was already asleep on the swing, with five marks, a
 14. (truefalse) Counting in sixties is handy for time, because 60 can be shared out evenly into halves, thirds, quarters, fifths and sixths.  
    **Answer:** True. *Why:* True. 60 divides evenly by 2, 3, 4, 5, 6, 10, 12, 15, 20 and 30. That makes it easy to split an hour into equal parts, which is one reason sky-watchers liked it.
 15. (mcq) Chinese astronomers wrote about a 'guest star' in the year 1054. Why do astronomers today still use this record?  
-   Options: It tells them when the star exploded, so they know how old the Crab Nebula is / It proves the Chinese had telescopes / It shows the star is still bright  
+   Options: It proves the Chinese had telescopes / It shows the star is still bright / It tells them when the star exploded, so they know how old the Crab Nebula is  
    **Answer:** It tells them when the star exploded, so they know how old the Crab Nebula is. *Why:* The guest star was an exploding star. Its leftover cloud is the Crab Nebula. The Chinese record gives its birth date. No telescopes existed then. The record was made by eye.
 ### Clocks, Calendars and Big Ideas (challenge) (challenge, 15 questions)
 1. (write) The Parahita tables were made in 683 and matched the sky well. By the 1400s, Parameshvara found eclipses coming at different times from what they said. How can tables that were good once become wrong?  
@@ -627,7 +630,7 @@ When Amma came home, Karthik was already asleep on the swing, with five marks, a
 9. (fill) Twelve Moon months are about 11 days shorter than a year. To stay with the seasons, Indian calendars add one extra ____ every two and a half to three years.  
    **Answer:** ['month', 'moon month', 'masa', 'maasa']. *Why:* Eleven days a year add up to about a whole month in under three years. Adding an extra month pulls the calendar back in step with the Sun and the seasons.
 10. (mcq) In the Window Calendar, the sunset marks move north for weeks, slow down, and then start to move back south. What does the word solstice mean here?  
-   Options: The Sun seems to stand still, then turn back / The Sun stops setting / The day and night are exactly equal  
+   Options: The Sun stops setting / The day and night are exactly equal / The Sun seems to stand still, then turn back  
    **Answer:** The Sun seems to stand still, then turn back. *Why:* At a solstice the Sun's rising and setting points reach their furthest north or south, seem to stop, and turn back. Equal day and night happens at the equinoxes, in March and September.
 11. (match) Match each word we use today to where it came from.  
    **Answer:** ghadi, a clock → the ghati water clock of India; hora, an hour in Sanskrit → the Greek word for an hour; month → an old word for the Moon; 60 minutes → Babylonian counting in sixties. *Why:* Our words for time carry the history of sky-watching from many lands.
@@ -637,9 +640,9 @@ When Amma came home, Karthik was already asleep on the swing, with five marks, a
 13. (write) Think about this. If nothing in the universe ever repeated, no day, no heartbeat, no Moon, could anyone count time? Write what you think and why.  
    **Answer:** Any honest answer with a reason is good. For example: we could still notice that things change, such as a candle getting shorter, but without repeats it would be hard to count equal pieces of time. Or: time would still pass, but we would have no clock.. *Why:* This is an open question. A strong answer gives a reason and an example.
 14. (mcq) To work out the size of the whole Earth, what did Eratosthenes need?  
-   Options: The angle of a noon shadow in one town, and the distance to another town where there was no shadow / A telescope and a ship / The weight of the Earth  
+   Options: A telescope and a ship / The angle of a noon shadow in one town, and the distance to another town where there was no shadow / The weight of the Earth  
    **Answer:** The angle of a noon shadow in one town, and the distance to another town where there was no shadow. *Why:* The difference in the Sun's angle between two towns, and the distance between them, tell you what part of the Earth's circle lies between them. From that, he worked out the whole circle.
-15. (write) Choose one sky-watcher from this unit. Write three questions you would ask them if you could meet them, and say why you chose them.  
+15. (write) Choose one sky-watcher from this lesson. Write three questions you would ask them if you could meet them, and say why you chose them.  
    **Answer:** Any three real questions, for example to Parameshvara: How did you record the time of an eclipse? Were you ever wrong? Why did you keep watching for 55 years?. *Why:* A strong answer asks questions that show what the child knows about the person's work.
 
 ## Videos
@@ -649,36 +652,39 @@ When Amma came home, Karthik was already asleep on the swing, with five marks, a
 
 ## Quiz
 1. (mcq) What gives us the day?  
-   Options: The Earth turning once / The Moon going round the Earth / The Earth going round the Sun  
+   Options: The Moon going round the Earth / The Earth turning once / The Earth going round the Sun  
    **Answer:** The Earth turning once. *Why:* One turn of the Earth gives one day and night. The Moon gives the month, and the Earth going round the Sun gives the year.
 2. (mcq) About how long is a solar year?  
-   Options: 365 days / 29 and a half days / 584 days  
+   Options: 29 and a half days / 365 days / 584 days  
    **Answer:** 365 days. *Why:* The Earth goes round the Sun in about 365 and a quarter days. 29 and a half days is a lunar month, and 584 days is the Venus cycle.
-3. (mcq) Twelve Moon months make about 354 days. What happens to a calendar that counts only Moon months?  
+3. (mcq) Somvar is the Indian name for Monday. Which sky body is it named after?  
+   Options: The Moon / The Sun / Venus  
+   **Answer:** The Moon. *Why:* Somvar is named after Soma, the Moon. Ravivar is named after the Sun, and Shukravar, Friday, after the planet Venus.
+4. (mcq) Twelve Moon months make about 354 days. What happens to a calendar that counts only Moon months?  
    Options: Its festivals slide about 11 days earlier through the seasons each year / It stays exactly with the seasons / It adds a day every week  
    **Answer:** Its festivals slide about 11 days earlier through the seasons each year. *Why:* 354 days is about 11 days short of the solar year, so a Moon-only calendar moves through the seasons. Indian calendars fix this with an extra month now and then.
-4. (mcq) Why did the ghati bowl sink?  
-   Options: Water came in slowly through a small hole until it was full / It was too heavy to float / Someone pushed it under  
+5. (mcq) Why did the ghati bowl sink?  
+   Options: It was too heavy to float / Water came in slowly through a small hole until it was full / Someone pushed it under  
    **Answer:** Water came in slowly through a small hole until it was full. *Why:* The bowl floated at first. Water came in through the tiny hole, and when it was full enough, it sank. The hole size set the time.
-5. (mcq) Who wrote in 499 that the Earth spins?  
+6. (mcq) Who wrote in 499 that the Earth spins?  
    Options: Aryabhata / Eratosthenes / Jai Singh II  
    **Answer:** Aryabhata. *Why:* Aryabhata wrote it in his book, the Aryabhatiya. Eratosthenes measured the Earth's size, and Jai Singh II built Jantar Mantar.
-6. (mcq) Venus comes back to the same place in the sky about every 584 days. Why could people who watched it carefully for many years predict where it would be?  
-   Options: Its movement repeats in a steady cycle / Venus never moves / Venus shines only once  
+7. (mcq) Venus comes back to the same place in the sky about every 584 days. Why could people who watched it carefully for many years predict where it would be?  
+   Options: Venus never moves / Its movement repeats in a steady cycle / Venus shines only once  
    **Answer:** Its movement repeats in a steady cycle. *Why:* Anything that repeats in a steady cycle can be predicted once you have counted the cycle. Long records let sky-watchers count it.
-7. (mcq) A bright new star suddenly appears in the sky, bright enough to see by day. It fades over months. Today a glowing cloud of gas is in that spot. What was the new star most likely?  
-   Options: A star exploding / A new planet being born / The Moon passing by  
+8. (mcq) A bright new star suddenly appears in the sky, bright enough to see by day. It fades over months. Today a glowing cloud of gas is in that spot. What was the new star most likely?  
+   Options: A new planet being born / The Moon passing by / A star exploding  
    **Answer:** A star exploding. *Why:* An exploding star suddenly shines very brightly, then fades, and leaves a spreading cloud of gas behind. Old written records of such 'guest stars' help astronomers today.
-8. (mcq) Parameshvara was an astronomer in Kerala about 600 years ago. How did he find that the old eclipse tables were wrong?  
+9. (mcq) Parameshvara was an astronomer in Kerala about 600 years ago. How did he find that the old eclipse tables were wrong?  
    Options: He watched real eclipses for many years and compared them with the tables / He read it in a Greek book / He used a telescope  
    **Answer:** He watched real eclipses for many years and compared them with the tables. *Why:* He recorded eclipses for decades and saw they did not come when the old Parahita tables said. In 1431 he wrote a corrected system, Drigganita. Telescopes had not been invented yet.
-9. (mcq) Why did astronomers check their water clocks against the Sun and stars?  
-   Options: Water clocks drift a little, and the sky's repeats are much steadier / Water clocks only work in the daytime / The stars told them to  
+10. (mcq) Why did astronomers check their water clocks against the Sun and stars?  
+   Options: Water clocks only work in the daytime / The stars told them to / Water clocks drift a little, and the sky's repeats are much steadier  
    **Answer:** Water clocks drift a little, and the sky's repeats are much steadier. *Why:* A water clock can run fast or slow if it is bumped, if the water warms, or if the hole changes. The turning sky is much steadier, so it was used to set them right.
-10. (mcq) How long is one nazhigai?  
+11. (mcq) How long is one nazhigai?  
    Options: 24 minutes / 60 minutes / 24 hours  
    **Answer:** 24 minutes. *Why:* There are 60 nazhigai in a day and night of 24 hours, so each one is 24 minutes.
-11. (mcq) Many Indian months are named after the star group where the full Moon sits that month. Why is the full Moon in a different star group each month?  
+12. (mcq) Many Indian months are named after the star group where the full Moon sits that month. Why is the full Moon in a different star group each month?  
    Options: The Moon moves along its path among the stars as it goes round the Earth / The stars move to new places every month / The Moon jumps about at random  
    **Answer:** The Moon moves along its path among the stars as it goes round the Earth. *Why:* The Moon goes round the Earth about once a month, so it slowly moves past the star groups. Each full Moon happens a bit further along, in or near a different star group.
 
@@ -697,7 +703,7 @@ When Amma came home, Karthik was already asleep on the swing, with five marks, a
 - The panchangam or calendar on your kitchen wall, with Pournami and Amavasya marked.
 - The word 'ghadi' on a watch shop sign, which comes from the ghati water clock.
 - The 60 little marks on a clock face, the Babylonian way of counting.
-- Jantar Mantar in Delhi and Jaipur, giant stone instruments for measuring the sky.
+- Giant stone instruments for measuring the sky, in a park or in a picture.
 - Karthigai Deepam lamps lit on the full Moon in Krittika, in homes and on the hill at Tiruvannamalai.
 - The new crescent Moon that families watch for to begin and end Ramzan.
 - Your balcony: the Sun setting in a slightly different place each week.
@@ -753,6 +759,14 @@ Star, Planet, Moon (sci.sky.L3): Topic-level song
 
 ## Things to buy
 - [A small pack of plain plastic cups, about 150 to 200 ml](https://www.amazon.in/s?k=plastic+disposable+cups+200+ml) (material): The sinking cup clock needs a light plastic cup that will not go soft. A clean curd or ice-cream cup works too, if you have one. Packs are sold in any general store. Used in e1, c1. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in The Fist Ruler: does a child's fist measure the same piece of sky as a grown-up's?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e2. Get it before The Fist Ruler: does a child's fist measure the same piece of sky as a grown-up's?.
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in The Sinking Cup Clock: does it sink in the same time every round?, The Leaking Bottle Clock: does water run out at the same speed all the way?, How Long Is a Minute? Test your own sense of time. About ₹150 to ₹400. A phone stopwatch works well. Used in e1, e3, a1, c1. Get it before The Sinking Cup Clock: does it sink in the same time every round?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Fist Ruler: does a child's fist measure the same piece of sky as a grown-up's?, The Leaking Bottle Clock: does water run out at the same speed all the way?, A Day of 60 Nazhigai: draw the old Indian day wheel. About ₹10 to ₹30. Any school ruler is fine. Used in e2, e3, a2, a4. Get it before The Fist Ruler: does a child's fist measure the same piece of sky as a grown-up's?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Eratosthenes on the Phone: compare noon shadows with someone in another city, Be a Babylonian Sky-Writer: tonight's sky on a dough tablet. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in a4, a5. Get it before Eratosthenes on the Phone: compare noon shadows with someone in another city.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in The Window Calendar: does the Sun set in the same place every day?. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in p1. Get it before The Window Calendar: does the Sun set in the same place every day?.
+- [Sticky notes](https://www.amazon.in/s?k=sticky+notes+pack) (material): Used in The Fist Ruler: does a child's fist measure the same piece of sky as a grown-up's?. About ₹20 to ₹60. Small torn paper and tape do the same job. Used in e2. Get it before The Fist Ruler: does a child's fist measure the same piece of sky as a grown-up's?.
+- [Wooden ice-cream sticks (a pack)](https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack) (material): Used in Be a Babylonian Sky-Writer: tonight's sky on a dough tablet. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in. Used in a5. Get it before Be a Babylonian Sky-Writer: tonight's sky on a dough tablet.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What does one turn of the Earth give us? → One day and night.

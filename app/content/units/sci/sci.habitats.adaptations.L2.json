@@ -172,7 +172,8 @@
     "The ker bush of the Thar, who has almost no leaves and makes food in her green stems.",
     "Lotus leaves in a temple tank.",
     "Mangrove roots at Pichavaram in Tamil Nadu and in the Sundarbans.",
-    "Khejri trees in the Thar, with very deep roots."
+    "Khejri trees in the Thar, with very deep roots.",
+    "A pine tree on a snowy mountain has thin needles instead of wide leaves, and her branches slope downwards, so snow slides off instead of piling up and breaking them."
    ],
    "perspectives": [
     {
@@ -867,11 +868,11 @@
       "t": "mcq",
       "q": "Two scientists did the wrinkly finger test and got different answers. What should scientists do next?",
       "options": [
-       "Pick the answer they like best",
        "Do more careful tests with more people",
+       "Pick the answer they like best",
        "Stop asking the question"
       ],
-      "a": 1,
+      "a": 0,
       "why": "When tests disagree, scientists do more tests, carefully, with more people. That is how they find out which answer holds up."
      }
     }
@@ -980,10 +981,10 @@
       "q": "Out of water, the brush hairs stuck together. What happens to a fish's gills in air?",
       "options": [
        "They spread out wider",
-       "They stick together and dry out",
-       "They turn into lungs"
+       "They turn into lungs",
+       "They stick together and dry out"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Gill flaps need water to hold them apart. In air they stick together, so only a little of them can take in oxygen."
      }
     }
@@ -1058,11 +1059,11 @@
       "t": "mcq",
       "q": "What does a camel do with her nostrils in a sandstorm?",
       "options": [
-       "She closes them to thin slits",
        "She opens them wide",
-       "She blows sand out hard"
+       "She blows sand out hard",
+       "She closes them to thin slits"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Closed nostrils keep the blowing sand out of her nose, so she can still breathe through the thin slits."
      }
     }
@@ -1137,11 +1138,11 @@
       "t": "mcq",
       "q": "A plant has very thick, juicy leaves. Where does the plant's family most likely come from?",
       "options": [
-       "A very wet forest",
        "A dry place",
+       "A very wet forest",
        "The bottom of a pond"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Thick, juicy leaves store water. That helps a plant through long dry days, so this plant's family most likely comes from a dry place."
      }
     }
@@ -1200,11 +1201,11 @@
       "t": "mcq",
       "q": "What are the red, feathery parts under the flap behind a fish's eye?",
       "options": [
-       "Gills",
        "Fins",
-       "A swim bladder"
+       "A swim bladder",
+       "Gills"
       ],
-      "a": 0,
+      "a": 2,
       "why": "These are the gills. Water flows over them and they take oxygen out of the water."
      }
     },
@@ -1319,11 +1320,11 @@
       "t": "mcq",
       "q": "Why did you give the camel wide feet?",
       "options": [
-       "To swim faster",
        "So she does not sink into soft sand",
+       "To swim faster",
        "To keep her warm"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Wide feet spread a camel's weight over more sand, so she sinks in less."
      }
     }
@@ -1404,11 +1405,11 @@
       "t": "mcq",
       "q": "A fish wants to go a little deeper. What can she do with her swim bladder?",
       "options": [
-       "Let a little gas out of it",
        "Fill it with more gas",
-       "Close her gills"
+       "Close her gills",
+       "Let a little gas out of it"
       ],
-      "a": 0,
+      "a": 2,
       "why": "With less gas in her swim bladder, the fish is a little heavier than the water, so she sinks a little. To rise, she adds gas."
      }
     }
@@ -1456,11 +1457,11 @@
    "t": "mcq",
    "p": "What is an adaptation?",
    "opts": [
-    "A part of a body, or a way of behaving, that helps a living being live in their place",
     "A new home for an animal",
-    "A kind of food"
+    "A kind of food",
+    "A part of a body, or a way of behaving, that helps a living being live in their place"
    ],
-   "a": 0,
+   "a": 2,
    "why": "An adaptation helps a living being live in their habitat, like a camel's wide feet on sand.",
    "outcome": 0
   },
@@ -1468,11 +1469,11 @@
    "t": "mcq",
    "p": "Which fin pushes a fish forward through the water?",
    "opts": [
-    "The fin on her back",
     "The tail fin",
+    "The fin on her back",
     "The fins near her head"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The tail fin pushes the water back, and the water pushes the fish forward. If you picked the back fin, that one keeps her from rolling over.",
    "outcome": 1
   },
@@ -1481,10 +1482,10 @@
    "p": "A fish is taken out of water. Why can't she breathe for long?",
    "opts": [
     "There is no oxygen in air",
-    "Her gills stick together and dry out",
-    "Her fins stop working"
+    "Her fins stop working",
+    "Her gills stick together and dry out"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Air has plenty of oxygen. But out of water, the thin gill flaps stick together, the way the brush hairs did in the Paintbrush Gill activity. So the fish cannot take enough oxygen in.",
    "outcome": 1
   },
@@ -1493,10 +1494,10 @@
    "p": "In the Bottle Fish test, the bottle full of coins and water sank. What made it float?",
    "opts": [
     "Adding more coins",
-    "Swapping a little water for air",
-    "Shaking it hard"
+    "Shaking it hard",
+    "Swapping a little water for air"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Air is much lighter than water. A few spoons of air in place of water made the whole bottle light enough to float.",
    "outcome": 3,
    "how": "e1"
@@ -1506,10 +1507,10 @@
    "p": "Many fish have a bag of gas inside their bodies. What is it called?",
    "opts": [
     "A gill",
-    "A swim bladder",
-    "A hump"
+    "A hump",
+    "A swim bladder"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The swim bladder holds gas. It stops a fish from sinking, like the air in your bottle fish.",
    "outcome": 1
   },
@@ -1529,11 +1530,11 @@
    "t": "mcq",
    "p": "Why does a camel have two rows of long eyelashes?",
    "opts": [
-    "To keep blowing sand out of her eyes",
     "To see in the dark",
+    "To keep blowing sand out of her eyes",
     "To keep her cool"
    ],
-   "a": 0,
+   "a": 1,
    "why": "In the desert, the wind blows sand. Long eyelashes help keep it out of her eyes.",
    "outcome": 2
   },
@@ -1553,11 +1554,11 @@
    "t": "mcq",
    "p": "A cactus has spines and no flat leaves. How does that help in a dry place?",
    "opts": [
-    "Spines help the cactus lose less water than wide leaves would",
     "Spines help the cactus float",
-    "Spines catch fish"
+    "Spines catch fish",
+    "Spines help the cactus lose less water than wide leaves would"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Plants lose water through their leaves. With spines in place of wide leaves, a cactus loses much less, and keeps water in her thick stem.",
    "outcome": 4
   },
@@ -1565,11 +1566,11 @@
    "t": "mcq",
    "p": "Which plant is suited to living in a pond?",
    "opts": [
-    "A cactus",
     "A lotus",
+    "A cactus",
     "A khejri tree"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Lotus leaves float on the water, and rain rolls off their waxy tops. A cactus and a khejri tree are suited to dry places.",
    "outcome": 4
   },
@@ -1577,11 +1578,11 @@
    "t": "mcq",
    "p": "How did camels come to have wide feet?",
    "opts": [
-    "Each camel stretched her feet by walking on sand",
     "Wide feet passed from parents to calves, and slowly changed over many generations",
+    "Each camel stretched her feet by walking on sand",
     "People gave camels wide feet"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A calf is born with her parents' wide feet. Over thousands of generations, camels whose feet suited the sand did best, so the whole family changed.",
    "outcome": 5
   },
@@ -1589,11 +1590,11 @@
    "t": "mcq",
    "p": "Which of these is a human adaptation to hot places?",
    "opts": [
-    "Sweating",
     "Gills",
-    "A hump"
+    "A hump",
+    "Sweating"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Humans are animals, and sweating is one of our adaptations. Sweat drying on the skin carries heat away.",
    "outcome": 5
   }
@@ -1634,11 +1635,11 @@
      "t": "mcq",
      "p": "What does a fish breathe with?",
      "opts": [
-      "Gills",
       "Fins",
+      "Gills",
       "Scales"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Gills take oxygen out of the water. Fins are for moving and steering, and scales cover the body."
     },
     {
@@ -1761,10 +1762,10 @@
      "p": "What does the fin on a fish's back do?",
      "opts": [
       "Helps her breathe",
-      "Stops her from rolling over",
-      "Keeps her warm"
+      "Keeps her warm",
+      "Stops her from rolling over"
      ],
-     "a": 1,
+     "a": 2,
      "why": "The back fin pushes against the water when the fish starts to roll, so she stays upright."
     }
    ]
@@ -1842,11 +1843,11 @@
      "t": "mcq",
      "p": "A lotus leaf floats on a pond. Rain rolls off her waxy top. Why does that help the lotus?",
      "opts": [
-      "The top of the leaf stays dry and open to the air",
       "The leaf sinks faster",
+      "The top of the leaf stays dry and open to the air",
       "Fish cannot see the leaf"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A dry, waxy top keeps the leaf clean and open to air and light. Water sitting on top would get in the way."
     },
     {
@@ -1903,11 +1904,11 @@
      "t": "mcq",
      "p": "A shark has no swim bladder. What must a shark do to stay up near the top of the sea?",
      "opts": [
-      "Keep swimming",
       "Hold her breath",
-      "Close her gills"
+      "Close her gills",
+      "Keep swimming"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Without a swim bladder, a shark is a little heavier than the water. Swimming keeps her up. Many sharks sink slowly if they stop."
     }
    ]
@@ -1951,11 +1952,11 @@
      "t": "mcq",
      "p": "Why do many scientists think a camel keeps her fat in a hump, and not all over her body?",
      "opts": [
-      "So heat can leave the rest of her body more easily",
       "So she can float in water",
-      "So the hump can hold water"
+      "So the hump can hold water",
+      "So heat can leave the rest of her body more easily"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A fat layer all over would hold heat in like a blanket. With the fat in one hump, heat can leave the rest of her body. This is an idea, and scientists are not completely sure."
     },
     {
@@ -2015,11 +2016,11 @@
      "t": "mcq",
      "p": "A submarine lets water into its tanks to sink, and pushes the water out with air to rise. Which part of a fish works in a similar way?",
      "opts": [
-      "The swim bladder",
       "The tail fin",
+      "The swim bladder",
       "The gills"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The swim bladder holds more or less gas, so the fish rises or sinks. The submarine's tanks and your bottle fish work in a similar way, by swapping water and air."
     },
     {
@@ -2229,7 +2230,45 @@
    "why": "Watch fish hang still in the water, steer with their fins and breathe with their gills."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in A Camel and a Fish from Waste. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before A Camel and a Fish from Waste."
+  },
+  {
+   "id": "b-marbles--a-few",
+   "item": "Marbles (a few)",
+   "kind": "material",
+   "why": "Used in Wrinkly Fingers: do they grip wet things better?. About ₹10 to ₹40. Small round stones or dried chana.",
+   "url": "https://www.amazon.in/s?k=glass+marbles+pack",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before Wrinkly Fingers: do they grip wet things better?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "What is a camel's hump made of?",

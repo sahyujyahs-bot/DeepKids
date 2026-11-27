@@ -1,9 +1,9 @@
 # Plant life cycles: seven named stages, and why some plants live four months and others for centuries
 `sci.seeds-and-life-cycles.plant-life-cycle.L5`
 
-**Summary.** A mustard plant lives about four months, but a coconut palm lives for decades. Both pass through the same seven stages. In this unit you will name those stages, work out how much of a life passes before the first flower, and run the Bad Year Test with a die.
+**Summary.** A mustard plant lives about four months, but a coconut palm lives for decades. Both pass through the same seven stages. In this lesson you will name those stages, work out how much of a life passes before the first flower, and run the Bad Year Test with a die.
 
-**Intro.** *Rice, wheat, ragi, moong and mustard plants all die a few months after they are sown. Mango, coconut and tamarind trees live longer than people do. Why do some plants live for one season, when other plants can live for hundreds of years?* A short life is not a mistake, and a short-lived plant is not a weak plant. A mustard plant that dies in April has already left thousands of seeds. In this unit you first learn the names of the seven stages that every flowering plant goes through. You see how ferns, mosses and pines make new plants without any flowers. You sort the plants in your kitchen by how long they live. Then you roll a die for twelve years of weather, in two different places. You count the seeds that a short-lived plant and a long-lived plant leave in each place.
+**Intro.** *Rice, wheat, ragi, moong and mustard plants all die a few months after they are sown. Mango, coconut and tamarind trees live longer than people do. Why do some plants live for one season, when other plants can live for hundreds of years?* A short life is not a mistake, and a short-lived plant is not a weak plant. A mustard plant that dies in April has already left thousands of seeds. In this lesson you first learn the names of the seven stages that every flowering plant goes through. You see how ferns, mosses and pines make new plants without any flowers. You sort the plants in your kitchen by how long they live. Then you roll a die for twelve years of weather, in two different places. You count the seeds that a short-lived plant and a long-lived plant leave in each place.
 
 ## Learning outcomes
 0. I can name the seven stages of a flowering plant's life cycle in order, and say what happens in each stage.
@@ -69,7 +69,7 @@ Every plant grows for a while before flowering. A mustard plant lives about 120 
 ### Why there are both annuals and perennials: a trade-off · *defined*
 **Definition:** A plant has only so much food to spend. An annual spends nearly all of it on seeds in one season. A perennial keeps some for roots, wood and buds, so the plant can live to make seeds again.
 
-Food spent on seeds cannot be spent on staying alive. This is a trade-off. An annual moves almost everything from the leaves and stem into the seeds, and the plant dies. A perennial holds food back to build wood and deep roots. So a perennial makes no seeds at all for the first years. The reward comes later. A grown tree has leaves high in the light and roots deep in the ground, so the tree can make a large seed crop every year. Which way leaves more seeds? That depends on how safe it is to be a grown plant. A seed is small, and most seedlings die. A grown tree usually lives through the next year. So where grown plants are safe, living on is the better bet. But a flood, a fire or a plough kills grown plants and takes away all the years that the perennial spent growing. An annual loses only one season, and new plants grow from seeds in the soil. The Bad Year Test in this unit lets you count this with a die.
+Food spent on seeds cannot be spent on staying alive. This is a trade-off. An annual moves almost everything from the leaves and stem into the seeds, and the plant dies. A perennial holds food back to build wood and deep roots. So a perennial makes no seeds at all for the first years. The reward comes later. A grown tree has leaves high in the light and roots deep in the ground, so the tree can make a large seed crop every year. Which way leaves more seeds? That depends on how safe it is to be a grown plant. A seed is small, and most seedlings die. A grown tree usually lives through the next year. So where grown plants are safe, living on is the better bet. But a flood, a fire or a plough kills grown plants and takes away all the years that the perennial spent growing. An annual loses only one season, and new plants grow from seeds in the soil. The Bad Year Test in this lesson lets you count this with a die.
 - e.g. A paddy plant ends as dry straw, with almost all the food moved into the grain.
 - e.g. A mango seedling makes no fruit for about five years, and then fruits for a hundred years.
 - e.g. In 2018, the cyclone called Gaja blew down lakhs of coconut palms in Tamil Nadu. A new palm needs about eight years to bear.
@@ -93,7 +93,7 @@ Thale cress, a small weed that scientists grow in laboratories, goes from seed t
 The surest way is a record of the planting. The peepal at Anuradhapura has a planting date in old chronicles. The second way is to count rings. In places with seasons, a tree adds one ring of wood each year. Scientists drill out a core of wood as thin as a pencil, so the tree is not cut down. Tropical trees with no clear seasons often have no clear rings. The third way is carbon dating, which measures how old a piece of wood is. Baobabs were dated this way, because old baobabs are hollow. The fourth way is to estimate from the rate of growth. A coconut palm makes about 12 to 14 leaves a year, and each fallen leaf leaves a ring-shaped scar on the trunk. So the number of scars divided by 13 gives a rough age. An estimate from a growth rate is only as good as the rate. Plants grow faster in a wet year and slower in a dry year. So an honest estimate is given as a range, such as 'between 20 and 30 years'.
 - e.g. In 1957, cores from a bristlecone pine showed it was more than 4,600 years old.
 - e.g. A coconut trunk with 390 leaf scars is about 30 years old, because 390 divided by 13 is 30.
-- e.g. In the Leaf Clock in this unit, you estimate the age of a potted plant from the leaves made in three weeks.
+- e.g. In the Leaf Clock in this lesson, you estimate the age of a potted plant from the leaves made in three weeks.
 ### How a plant passes from growth to flowering · *defined*
 **Definition:** A plant flowers when a chemical signal made in the leaves reaches the buds. The leaves make the signal when the plant is big enough and the season is right.
 
@@ -163,7 +163,7 @@ An annual lives for one growing season because the Earth has seasons. The Earth'
   Against: Nobody has found a part of the plant that counts years. Other scientists think the shrubs flower when they reach a certain size or store of food, and that the weather keeps them in step.
 
 ## Roots
-In this unit you named the seven stages of a plant's life, and you ran the Bad Year Test with a short-lived and a long-lived plant. Here we ask what short and long lives show about life, and about ourselves.
+In this lesson you named the seven stages of a plant's life, and you ran the Bad Year Test with a short-lived and a long-lived plant. Here we ask what short and long lives show about life, and about ourselves.
 
 **Deep truth.** In the Bad Year Test, the perennial left more seeds in the old grove, where the ground was rarely cleared. The annual left more seeds on the riverbank, where the ground was cleared often. Neither plant won in both places. So a short life suits ground that is often cleared, and a long life suits ground that is left alone.  
 *Habit it breaks:* We rank lives by their length. We think of a tree that lives 500 years as a greater plant than a weed that lives four months. The count of seeds shows that each length of life works well in one kind of place and badly in the other.  
@@ -175,7 +175,7 @@ In this unit you named the seven stages of a plant's life, and you ran the Bad Y
 
 Every flowering plant passes through the same seven stages. A mustard plant fits them into four months, and a banyan spreads them over centuries. The stages are the same, and only the timing differs. The timing suits the place: a riverbank that floods, or a grove that stands for a thousand years. Many sages taught that one life takes many forms, and that no form is higher than another.
 
-- **Zhuangzi, chapter 1, 'Free and Easy Wandering':** “朝菌不知晦朔，蟪蛄不知春秋。 / 此小年也。 / 楚之南有冥靈者，以五百歲爲春，五百歲爲秋。 / 上古有大椿者，以八千歲爲春，八千歲爲秋。” The morning mushroom knows nothing of the evening and the dawn. The summer cicada knows nothing of spring and autumn. An ancient tree counted eight thousand years as one spring. Zhuangzi says that the short-lived cannot be measured by the long-lived. (Lifespans in this unit run from two months to nearly five thousand years. Zhuangzi warns against judging one length of life by another. The Bad Year Test gives a reason from science: each length suits a different place.)
+- **Zhuangzi, chapter 1, 'Free and Easy Wandering':** “朝菌不知晦朔，蟪蛄不知春秋。 / 此小年也。 / 楚之南有冥靈者，以五百歲爲春，五百歲爲秋。 / 上古有大椿者，以八千歲爲春，八千歲爲秋。” The morning mushroom knows nothing of the evening and the dawn. The summer cicada knows nothing of spring and autumn. An ancient tree counted eight thousand years as one spring. Zhuangzi says that the short-lived cannot be measured by the long-lived. (Lifespans in this lesson run from two months to nearly five thousand years. Zhuangzi warns against judging one length of life by another. The Bad Year Test gives a reason from science: each length suits a different place.)
 - **Tirukkural 482:** “பருவத்தோடு ஒட்ட ஒழுகல் திருவினைத் / தீராமை ஆர்க்குங் கயிறு.” Tiruvalluvar says that doing a thing at the right time, in step with the season, is what keeps good fortune from slipping away. (An annual fits a whole life into one wet season, and a plant flowers when the leaves sense the right time of year. The Kural is advice for people, and science does not test advice. But plants show how much depends on timing.)
 - **Dhammapada 277:** “Sabbe saṅkhārā aniccā, / yadā paññāya passati; / Atha nibbindati dukkhe, / esa maggo visuddhiyā.” The Buddha says that all things that are put together pass away. A person who sees this clearly is freed from sorrow. (The mustard plant ends in four months and the bristlecone pine in five thousand years, but both end. The bristlecone pine lives far longer, but its life still comes to an end.)
 - Science (settled): Annuals are a small share of all kinds of flowering plants, but they are most common in hot, dry and often-disturbed places, and they cover much of the world's farmland.
@@ -583,7 +583,7 @@ Valli pressed her forehead to the window. By next summer these bushes would be d
 1. (order) Put the seven stages of a flowering plant's life in order.  
    **Answer:** ['Germination', 'Growth', 'Flowering', 'Pollination', 'Fertilisation', 'Fruit and seed formation', 'Seed dispersal']. *Why:* The stages always come in this order. The seeds from the last stage start the first stage again. A strong answer says that if one stage fails, no new seeds are made.
 2. (mcq) A bee leaves pollen on a flower. What must happen before a seed can start to form?  
-   Options: A male cell joins an egg cell inside the flower / The petals fall off / The fruit turns ripe / The seed germinates  
+   Options: The petals fall off / The fruit turns ripe / A male cell joins an egg cell inside the flower / The seed germinates  
    **Answer:** A male cell joins an egg cell inside the flower. *Why:* After pollination, a male cell from the pollen joins an egg cell inside the flower. That is fertilisation, and a seed starts only after that. Choosing the petals falling off mixes up a sign that often follows with the cause.
 3. (match) Match each stage to what happens in it.  
    **Answer:** Germination → a seed takes in water, and a root and shoot grow out; Pollination → pollen is carried to the female part of a flower; Fertilisation → a male cell joins an egg cell inside the flower; Fruit and seed formation → fertilised egg cells grow into seeds inside a fruit; Seed dispersal → seeds are carried away from the parent plant. *Why:* Each stage has one job. A strong answer can say why pollination and fertilisation are different stages: one carries the pollen, and the other joins the cells.
@@ -594,12 +594,12 @@ Valli pressed her forehead to the window. By next summer these bushes would be d
 6. (sort) Sort these plants into annual, biennial and perennial.  
    **Answer:** paddy → Annual; moong → Annual; wheat → Annual; carrot → Biennial; cabbage → Biennial; mango → Perennial; coconut palm → Perennial; tamarind → Perennial. *Why:* Paddy, moong and wheat live one season. Carrot and cabbage flower in their second year. Mango, coconut and tamarind live for many years. A strong answer gives the clue for each group.
 7. (mcq) Which stage does a fern never have?  
-   Options: Pollination / Germination / Growth / Seed dispersal  
+   Options: Germination / Growth / Seed dispersal / Pollination  
    **Answer:** Pollination. *Why:* A fern has no flowers, so a fern has no pollination. A fern spore germinates, the fern grows, and spores are carried away by wind. Choosing seed dispersal forgets that spores are dispersed too.
 8. (write) A pumpkin plant has many flowers, but no insect ever visits them. Which stage fails? Explain why no fruit grows.  
    **Answer:** Pollination fails. Pumpkin pollen must be carried by insects from one flower to another. Without pollination, no male cell can reach an egg cell, so no seed starts and no fruit grows.. *Why:* A strong answer names pollination, says what is missing (a carrier for the pollen), and links this to why fertilisation and fruit cannot follow.
 9. (mcq) Which plant can live for several thousand years?  
-   Options: A bristlecone pine / A mustard plant / A moong plant / A paddy plant  
+   Options: A mustard plant / A moong plant / A paddy plant / A bristlecone pine  
    **Answer:** A bristlecone pine. *Why:* Bristlecone pines in California have been counted at nearly 5,000 years. Mustard, moong and paddy live a few months.
 10. (odd) Three of these are annuals. Which one is the odd one out?  
    Options: Paddy / Mustard / Moong / Mango  
@@ -609,14 +609,14 @@ Valli pressed her forehead to the window. By next summer these bushes would be d
 12. (label) Draw a flower where pollen has landed, and label: pollen grain, pollen tube, egg cell.  
    **Answer:** ["Pollen grain on the top of the flower's female part", 'Pollen tube growing down', 'Egg cell at the bottom, inside the flower']. *Why:* After pollination, the pollen grain grows a thin tube down to an egg cell. A male cell travels down the tube. A strong drawing shows the tube joining the pollen grain to the egg cell.
 13. (mcq) A mustard plant lives 120 days and first flowers at day 40. What share of the life passes before the first flower?  
-   Options: One third / One half / One quarter / Two thirds  
+   Options: One half / One quarter / Two thirds / One third  
    **Answer:** One third. *Why:* 40 ÷ 120 = 1 third. One half would need 60 days, and one quarter would need 30 days.
 14. (write) Think about the Bad Year Test. On the riverbank, why did the perennial usually leave fewer seeds than the annual?  
    **Answer:** On the riverbank, the ground was cleared in about half of the years. Each time, the perennial went back to the start and had to grow for two years again before making 12 seeds. The annual lost only one season, and made 5 seeds in each good year.. *Why:* A strong answer uses evidence from the test: how often the rajma went back to the start, and what a cleared year cost each plant.
 15. (truefalse) True or false: pollination and fertilisation are the same stage.  
    **Answer:** False. *Why:* False. Pollination is the carrying of pollen to the flower. Fertilisation happens afterwards, inside the flower, when a male cell joins an egg cell.
 16. (mcq) Which of these foods comes from a perennial plant?  
-   Options: Pepper / Rice / Wheat / Moong  
+   Options: Rice / Wheat / Moong / Pepper  
    **Answer:** Pepper. *Why:* Pepper grows on a vine that lives for many years. Rice, wheat and moong are annuals.
 ### Lives and Places (stretch) (stretch, 16 questions)
 1. (mcq) On a riverbank that floods often, why do annuals do well?  
@@ -629,14 +629,14 @@ Valli pressed her forehead to the window. By next summer these bushes would be d
 4. (fill) Food spent on seeds leaves less for roots and wood. A choice like this is called a ____.  
    **Answer:** ['trade-off', 'trade off', 'tradeoff']. *Why:* A trade-off means that having more of one thing means having less of another.
 5. (mcq) A coconut palm first flowers at 8 years and lives 80 years. What share of life passes before the first flower?  
-   Options: One tenth / One eighth / One fifth / One half  
+   Options: One eighth / One tenth / One fifth / One half  
    **Answer:** One tenth. *Why:* 8 ÷ 80 = 1 tenth. One eighth comes from dividing 80 by 10 by mistake.
 6. (order) After a field is cleared and left alone, plants change in a regular order. Put them in order, first to last.  
    **Answer:** ['Annual weeds', 'Perennial grasses and herbs', 'Shrubs', 'Trees']. *Why:* Annual weeds arrive first, because they flower young. Perennial grasses and herbs follow, then shrubs, and after many years trees.
 7. (truefalse) True or false: the biggest tree in a forest is always the oldest.  
    **Answer:** False. *Why:* False. The oldest trees counted so far are small bristlecone pines on dry mountains. A tree in rich soil can grow large in a few hundred years.
 8. (mcq) A chrysanthemum plant flowers when the nights are long. Which part of the plant senses the length of the night?  
-   Options: The leaves / The buds / The roots / The petals  
+   Options: The buds / The roots / The petals / The leaves  
    **Answer:** The leaves. *Why:* Scientists covered or lit different parts of plants. They found that the leaves sense the night and send a signal to the buds.
 9. (write) Claim: a plant that lives longer is more successful. Do you agree? Use evidence from the Bad Year Test.  
    **Answer:** I do not fully agree. In the Bad Year Test, the perennial left more seeds in the old grove, but the annual left more on the riverbank. Which plant leaves more seeds depends on how often the ground is cleared. So a longer life is not always more successful.. *Why:* A strong answer uses results from the test, names both places, and says what decides the winner.
@@ -666,7 +666,7 @@ Valli pressed her forehead to the window. By next summer these bushes would be d
 4. (write) A tree core has 120 rings, then a rotten hollow that may hide 20 more. Give the age as a range.  
    **Answer:** The tree is at least 120 years old. With the rotten centre, it could be about 120 to 140 years old. I give a range, because I cannot count rings that have rotted.. *Why:* A strong answer says 'at least 120', gives a range with a reason, and does not claim an exact age.
 5. (mcq) When a die clears the ground on a 1 or a 2, what do you expect in the Bad Year Test?  
-   Options: Neither plant wins every run, and the totals are close / The annual wins every run / The perennial wins every run / Neither plant leaves any seeds  
+   Options: The annual wins every run / The perennial wins every run / Neither plant wins every run, and the totals are close / Neither plant leaves any seeds  
    **Answer:** Neither plant wins every run, and the totals are close. *Why:* When clearing happens one year in three, the annual averages about 40 seeds and the perennial about 36. Either can win a single run, so you need several runs.
 6. (write) If the perennial needed five growing years instead of two, what would happen to the seeds? Why?  
    **Answer:** It would leave fewer seeds. Each cleared year would send it back to the start, and it would need five good years in a row before making any seeds. In the old grove that would happen less often, and on the riverbank almost never.. *Why:* A strong answer says the perennial leaves fewer seeds, and explains it with the longer wait and the cleared years.
@@ -676,7 +676,7 @@ Valli pressed her forehead to the window. By next summer these bushes would be d
 8. (truefalse) True or false: a plant that flowers once and then dies, like the talipot palm, must be an annual.  
    **Answer:** False. *Why:* False. The talipot palm lives for decades, so it is a perennial. It flowers only once, at the end of its life.
 9. (mcq) A core from a bristlecone pine shows 4,600 rings. Why do scientists say 'more than 4,600 years'?  
-   Options: Some rings may be missing, so the count is low / Rings grow twice a year / The core is always cut in half / Bristlecone pines have no rings  
+   Options: Rings grow twice a year / The core is always cut in half / Bristlecone pines have no rings / Some rings may be missing, so the count is low  
    **Answer:** Some rings may be missing, so the count is low. *Why:* A tree can miss a ring in a very dry year, and the centre may have rotted away. The real age is probably higher than the count.
 10. (match) Match each way of finding a plant's age to what limits that way.  
    **Answer:** A record of the planting → works only if someone wrote it down; Counting tree rings → needs yearly rings, which many tropical trees lack; Carbon dating → gives a range, not an exact year; Counting leaf scars → is only as good as the rate of new leaves. *Why:* Each method suits some plants and not others. A strong answer says why an honest age is given as a range.
@@ -689,7 +689,7 @@ Valli pressed her forehead to the window. By next summer these bushes would be d
 14. (mcq) Two plants flowered in 2018, one every 12 years and one every 16 years. When will they flower together again?  
    Options: 2066 / 2030 / 2042 / 2060  
    **Answer:** 2066. *Why:* 12 and 16 first meet at 48, because 12 × 4 = 48 and 16 × 3 = 48. 2018 + 48 = 2066.
-15. (write) Claim: an annual that dies after flowering has failed. Use two facts from this unit to answer.  
+15. (write) Claim: an annual that dies after flowering has failed. Use two facts from this lesson to answer.  
    **Answer:** The claim is not fair. An annual puts its food into seeds and leaves thousands of seeds that start the next round. Annuals also cover riverbanks, fields and deserts where perennials cannot hold the ground.. *Why:* A strong answer gives two facts, such as the seeds left behind and the places where annuals do well, and reaches a clear verdict.
 
 ## Videos
@@ -699,40 +699,40 @@ Valli pressed her forehead to the window. By next summer these bushes would be d
 
 ## Quiz
 1. (mcq) Pollen lands on a flower. Later, a male cell joins an egg cell inside the flower. What is this stage called?  
-   Options: Fertilisation / Pollination / Germination / Seed dispersal  
+   Options: Pollination / Germination / Fertilisation / Seed dispersal  
    **Answer:** Fertilisation. *Why:* The joining of a male cell and an egg cell is fertilisation. Choosing pollination means mixing up the carrying of pollen with the joining of cells.
 2. (mcq) Which stage comes straight after fertilisation?  
-   Options: Fruit and seed formation / Germination / Pollination / Flowering  
+   Options: Germination / Pollination / Fruit and seed formation / Flowering  
    **Answer:** Fruit and seed formation. *Why:* After fertilisation, the egg cells grow into seeds and the flower around them grows into a fruit. Germination comes later, when a seed starts to grow.
 3. (mcq) How does a fern make new plants?  
-   Options: With spores / With seeds in a fruit / With seeds on a cone / With flowers  
+   Options: With seeds in a fruit / With seeds on a cone / With spores / With flowers  
    **Answer:** With spores. *Why:* Ferns never flower. They make spores, which are single cells. Choosing cones means mixing up ferns with pines.
 4. (mcq) Which plant makes seeds without any flower or fruit?  
-   Options: A deodar / A fern / A moss / A mango tree  
+   Options: A fern / A moss / A deodar / A mango tree  
    **Answer:** A deodar. *Why:* A deodar is a conifer, and makes seeds on the scales of cones. Ferns and mosses make spores, and the mango tree has flowers and fruit.
 5. (mcq) A plant grows leaves and a thick root in year one, flowers in year two and then dies. What is the plant?  
-   Options: A biennial / An annual / A perennial / A non-flowering plant  
+   Options: An annual / A perennial / A biennial / A non-flowering plant  
    **Answer:** A biennial. *Why:* A biennial takes two years, and flowers in the second. An annual takes one season, and a perennial lives more than two years.
 6. (mcq) Which of these plants is a perennial?  
-   Options: Tamarind / Paddy / Mustard / Moong  
+   Options: Paddy / Mustard / Tamarind / Moong  
    **Answer:** Tamarind. *Why:* A tamarind tree lives for many years. Paddy, mustard and moong live for one season.
 7. (mcq) Paddy lives about 150 days and first flowers at about day 90. What share of its life passes before the first flower?  
-   Options: Three fifths / One third / One half / Two fifths  
+   Options: One third / One half / Three fifths / Two fifths  
    **Answer:** Three fifths. *Why:* 90 ÷ 150 = 3 fifths, which is 60 percent. One third is the share for mustard.
 8. (mcq) Why do annuals do well in a field that is ploughed every year?  
-   Options: Ploughing clears the ground, and annuals grow quickly from seed / Ploughing helps perennial roots / Annuals have deeper roots / Ploughing makes the soil colder  
+   Options: Ploughing helps perennial roots / Annuals have deeper roots / Ploughing makes the soil colder / Ploughing clears the ground, and annuals grow quickly from seed  
    **Answer:** Ploughing clears the ground, and annuals grow quickly from seed. *Why:* Ploughing clears the plants from the ground. An annual flowers young and leaves seeds before the next clearing, while a perennial loses the years it spent growing.
 9. (mcq) Why does a young perennial often leave fewer seeds than an annual in the first years?  
-   Options: It spends food on roots and wood, and not on seeds / It cannot make flowers / It has no leaves / It needs less water  
+   Options: It cannot make flowers / It has no leaves / It spends food on roots and wood, and not on seeds / It needs less water  
    **Answer:** It spends food on roots and wood, and not on seeds. *Why:* Food spent on seeds cannot be spent on growing. A perennial grows first and makes seeds for many years afterwards.
 10. (mcq) A scientist drills a thin core out of a living tree and counts the rings. What does the count tell us?  
-   Options: About how many years old the tree is / How tall the tree will grow / How many leaves the tree has / What fruit the tree makes  
+   Options: How tall the tree will grow / How many leaves the tree has / About how many years old the tree is / What fruit the tree makes  
    **Answer:** About how many years old the tree is. *Why:* In places with seasons, a tree adds one ring each year, so the count gives the age. The core does not harm the tree.
 11. (mcq) In a test that depends on chance, a perennial wins one run. What should you do before you trust this?  
    Options: Repeat the run several times and look at the average / Stop, because the perennial won / Change the die / Use only the best run  
    **Answer:** Repeat the run several times and look at the average. *Why:* One run can be lucky. Repeating the run, and using the average, shows the pattern. Stopping after one run mistakes a fluke for a result.
 12. (mcq) Which is a fair reason to grow perennial crops?  
-   Options: Roots hold the soil all year / Perennial crops always give more grain / Perennial crops need no water / Perennial crops grow in one month  
+   Options: Perennial crops always give more grain / Perennial crops need no water / Perennial crops grow in one month / Roots hold the soil all year  
    **Answer:** Roots hold the soil all year. *Why:* Roots in the soil hold it, and the farmer saves the work of sowing. But the farmer must wait some years for the first crop, and some perennial grains give less grain so far.
 
 ## Applications
@@ -804,6 +804,8 @@ Seed to Seed Again (sci.seeds-and-life-cycles.L5): Topic-level song
 ## Things to buy
 - [A six-sided die, from a ludo or snakes and ladders set](https://www.amazon.in/s?k=ludo+dice) (tool): For the Bad Year Test and the Fit the Plant to the Field challenge. Most homes have one. If not, write 1 to 6 on six paper chits and draw from a cup. Used in e1, c1. 
 - [Whole methi seeds (fenugreek), about 50 grams](https://www.amazon.in/s?k=whole+methi+seeds+fenugreek) (material): For the Same Seed, Different Start Day project. Most kitchens have methi seeds. Use fresh seeds, because old seeds germinate poorly. Used in p1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Stage Lengths: how much of a life passes before the first flower?, Same Seed, Different Start Day: does methi flower at the same age or on the same date?, The Rare Flowering Calendar: plan your life around plants that flower once in many years. About ₹10 to ₹30. Any school ruler is fine. Used in a1, p1, c2. Get it before Stage Lengths: how much of a life passes before the first flower?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name the seven stages of a flowering plant's life cycle in order. → Germination, growth, flowering, pollination, fertilisation, fruit and seed formation, and seed dispersal.
@@ -824,7 +826,7 @@ Seed to Seed Again (sci.seeds-and-life-cycles.L5): Topic-level song
 - Founder's notebook for this topic (ideas/by_topic/seeds-plant-growth-and-plant-life-cycles.md): the weekly journey 'Let grow and grow' (grow a plant from seed and record the growth), behind the methi project. The founder's notes on how long plants live, behind the lifespan game.
 - Curriculum entry sci.seeds-and-life-cycles.plant-life-cycle.L5: life cycle stages named; annuals and perennials; how long different plants live. Board chapter Cambridge Stage 5, 1.1 Flowering and non-flowering plants: the stages of the life cycle, and how ferns, mosses and conifers make new plants without flowers. These are covered by the explanations, the game Where Did the Cycle Stop and the core worksheet.
 - Combined lesson app/content/combined/sci-C5-seeds-plant-growth-and-plant-life-cycles.json: the plant life cycle stages, used here as the seven named stages.
-- Earlier units were checked so that nothing repeats. Flower to fruit, the inside of a fruit, and floating leaves are in the Class 3 unit of this subtopic. Ripening, yellow leaves, new roots at nodes, the Lifespan Tape and the tree-ring diary are in the Class 4 unit. Germination, the Freezer Test and seed banks are in the units on seeds and germination. The Bad Year Test, the Leaf Clock, the Methi project, both games and the story are new.
+- Earlier units were checked so that nothing repeats. Flower to fruit, the inside of a fruit, and floating leaves are in the Class 3 unit of this subtopic. Ripening, yellow leaves, new roots at nodes, the Lifespan Tape and the tree-ring diary are in the Class 4 unit. Germination, the Freezer Test and seed banks are in the lessons on seeds and germination. The Bad Year Test, the Leaf Clock, the Methi project, both games and the story are new.
 - Schulman E. (1958). Bristlecone pine, oldest known living thing. National Geographic Magazine 113 (March): 355. Checked against the article: the 17 trees more than 4,000 years old, the tree of more than 4,600 years found in 1957, and the idea that very old trees live in hard places.
 - Lanner R. M., Connor K. F. (2001). Does bristlecone pine senesce? Experimental Gerontology 36: 675-685. Trees from 23 to 4,713 years old made healthy pollen and seeds.
 - Wang L. et al. (2020). Multifeature analyses of vascular cambial cells reveal longevity mechanisms in old trees. Proceedings of the National Academy of Sciences 117: 2201-2210. Ginkgo trees from 15 to 667 years old showed no sign of ageing in the whole plant.

@@ -1,9 +1,9 @@
 # Friction: how hard is the grip, and what decides it?
 `sci.forces.friction.L4`
 
-**Summary.** Wind a thread round a bottle and each extra turn makes the grip stronger. How many turns does it take to hold it? In this unit you will pull things with a rubber band gauge, see how pressing harder changes friction, and compare sliding with rolling on marbles.
+**Summary.** Wind a thread round a bottle and each extra turn makes the grip stronger. How many turns does it take to hold it? In this lesson you will pull things with a rubber band gauge, see how pressing harder changes friction, and compare sliding with rolling on marbles.
 
-**Intro.** *Try this. Lay your hand flat on a table and press down gently. Slide your hand along. Now press down hard and slide again. When was it harder to slide, and why do you think so?* At a harbour, one person can stop a huge boat with a rope wound round an iron post. Nobody's arm is strong enough to do that alone. In this unit you will find out how the rope and the post do it. First you will test a simpler question. If you put more weight in a box, how much harder is it to pull? And does it matter which side of the box faces the floor? The answers surprise most people, and they explain the rope too.
+**Intro.** *Try this. Lay your hand flat on a table and press down gently. Slide your hand along. Now press down hard and slide again. When was it harder to slide, and why do you think so?* At a harbour, one person can stop a huge boat with a rope wound round an iron post. Nobody's arm is strong enough to do that alone. In this lesson you will find out how the rope and the post do it. First you will test a simpler question. If you put more weight in a box, how much harder is it to pull? And does it matter which side of the box faces the floor? The answers surprise most people, and they explain the rope too.
 
 ## Learning outcomes
 0. I can say that friction grows when two surfaces press together harder, and that it also depends on what the two surfaces are made of.
@@ -135,7 +135,7 @@ To drag a box across a floor, you must keep pushing, and you do work. Scientists
   Against: Some other experiments found no clear help. Scientists do not agree.
 
 ## Roots
-In this unit we pulled a box in the Press Harder test, wound thread round a pencil in the Wrap the Thread test, and watched a ruler stick and slip in the Walking Ruler activity. Now we ask what friction tells us about touching, and about ourselves.
+In this lesson we pulled a box in the Press Harder test, wound thread round a pencil in the Wrap the Thread test, and watched a ruler stick and slip in the Walking Ruler activity. Now we ask what friction tells us about touching, and about ourselves.
 
 **Deep truth.** Two surfaces that look like they touch all over really touch at only a few tiny spots. Press harder, and more spots touch. The grip of friction is the sum of all those tiny touching spots. So touching is not a matter of yes or no. It is a matter of how much.  
 *Habit it breaks:* We say two things 'touch' as if the whole face of one meets the whole face of the other. But every surface is a mountain range under a microscope, and only the peaks meet. When we say 'touching', we really mean 'looks like it touches'.  
@@ -420,7 +420,7 @@ That night, Anjana wound her thread round the pencil again. Four turns. She hung
 ## Worksheets
 ### Press, Pull and Grip (core) (core, 16 questions)
 1. (mcq) A box needs 4 newtons of pull to start moving. You put a second box, exactly the same, on top of it. About how much pull will the pair need?  
-   Options: About 8 newtons / About 4 newtons / About 2 newtons  
+   Options: About 4 newtons / About 8 newtons / About 2 newtons  
    **Answer:** About 8 newtons. *Why:* The pressing force on the floor has doubled, so the friction has about doubled too. A wrong pick often means thinking that extra weight makes no difference.
 2. (truefalse) A bigger face of a hard box always has more friction than a smaller face.  
    **Answer:** False. *Why:* False. The weight is the same, so the pressing force is the same. A bigger face spreads the weight over more bumps, each pressed less, so the total grip is about the same. Soft rubber and sticky tape are exceptions.
@@ -429,14 +429,14 @@ That night, Anjana wound her thread round the pencil again. Four turns. She hung
 4. (match) Match each word to its meaning.  
    **Answer:** Pressing force → how hard two surfaces push together; Coefficient of friction → a number for how grippy two surfaces are; Real contact area → the tiny total area where bumps truly touch; Stick-slip → movement in jerks, sticking and then slipping. *Why:* Each word names one idea from the unit. Pressing force and mu give the friction. The real contact area is where the grip is made. Stick-slip is what happens when starting friction is bigger than sliding friction.
 5. (mcq) In a test, the two dots on a rubber band start 4 centimetres apart. Just before the box moves, they are 9 centimetres apart. What is the stretch?  
-   Options: 5 centimetres / 9 centimetres / 13 centimetres  
+   Options: 9 centimetres / 13 centimetres / 5 centimetres  
    **Answer:** 5 centimetres. *Why:* The stretch is how much the gap grew. 9 take away 4 is 5. A wrong pick often means reading the gap and forgetting to take away the starting length.
 6. (sort) A box is pulled across a floor. For each change, would the pull needed get bigger, get smaller or stay about the same?  
    **Answer:** add one more packet inside → Bigger; stand the box on its narrow end → About the same; roll the box on pencils → Smaller; wet the floor with soapy water → Smaller; put twice the load in the box → Bigger; take a packet out → Smaller. *Why:* More weight means more pressing force, so more friction. Rolling and soapy water lower friction. Turning the box changes the face but not the weight, so the grip stays about the same.
 7. (write) A friend says: 'The big face of the shoebox touches more of the floor, so it must grip more.' Do you agree? Use the ideas of weight and bumps in your answer.  
    **Answer:** No. The weight is the same, so the pressing force is the same. A bigger face spreads the weight over more bumps, so each is pressed less. A smaller face puts the weight on fewer bumps, pressed more. The total grip is about the same.. *Why:* A strong answer says that the weight is the same, and that the area changes the number of touching bumps but not the total grip.
 8. (mcq) When you slide two fingers together under a ruler, why does the finger nearer the middle stay stuck while the other one slides?  
-   Options: It carries more of the weight, so it presses harder and has more friction / It is the stronger finger / The ruler is stickier in the middle  
+   Options: It is the stronger finger / The ruler is stickier in the middle / It carries more of the weight, so it presses harder and has more friction  
    **Answer:** It carries more of the weight, so it presses harder and has more friction. *Why:* The finger nearer the middle carries more of the ruler's weight, so its friction is bigger. A wrong pick often means thinking about the finger's strength, not the load on it.
 9. (order) Put these in order, for a box pulled by a stretching spring.  
    **Answer:** ['The spring stretches while the box stays still', 'The pull passes the limit of starting friction', 'The box slips forward', 'The spring relaxes and the box sticks again']. *Why:* The box stays still while the pull builds up. When the pull passes the limit, the box slips. Then the spring relaxes and the box sticks again. This repeating is stick-slip.
@@ -447,7 +447,7 @@ That night, Anjana wound her thread round the pencil again. Four turns. She hung
 12. (draw) Draw two rough surfaces pressed together, and show where they really touch. Then draw them pressed together harder.  
    **Answer:** Two mountain-range surfaces touching at a few peaks. In the second drawing, the peaks are flattened and more peaks touch.. *Why:* A strong drawing shows touching at only a few peaks, with gaps between, and more touching spots when pressed harder.
 13. (mcq) Why does honey slow a falling ball more than water does?  
-   Options: Honey has more friction inside it, which is called viscosity / Honey is heavier than water / Honey is smoother than water  
+   Options: Honey is heavier than water / Honey is smoother than water / Honey has more friction inside it, which is called viscosity  
    **Answer:** Honey has more friction inside it, which is called viscosity. *Why:* The layers of honey rub against each other and against the ball with much more friction than water. A wrong pick often means thinking about weight, when the real reason is the friction inside the liquid.
 14. (perspective) Two children want to move a heavy trunk across a room. Each has a plan.  
    **Answer:** Answers vary. A strong answer picks the pipes with the reason that rolling friction is smaller, or picks the cloth with a reason, and describes a fair test such as pulling the same trunk with a rubber band both ways.. *Why:* Rolling usually has much less friction than sliding, even on a smooth cloth. A fair test pulls the same trunk with the same band both ways.
@@ -475,7 +475,7 @@ That night, Anjana wound her thread round the pencil again. Four turns. She hung
 8. (write) In the story The Fourth Turn, two strong men could not hold a boat with a rope in their hands. A girl and her grandmother held it with a rope round an iron post. Explain why the rope round the post worked.  
    **Answer:** The rope touches the post along its turns, and friction acts along all of them. Every turn multiplies the grip, so a light hold on the loose end is enough to hold a heavy boat.. *Why:* A strong answer says that friction acts along all the rope that touches the post, and that each turn multiplies the grip.
 9. (mcq) A boatman lets the rope slide slowly round the post instead of locking it tight. Why is this better?  
-   Options: It stops the boat gently, without a jerk that could break the line / It makes the rope stronger / It makes the post colder  
+   Options: It makes the rope stronger / It makes the post colder / It stops the boat gently, without a jerk that could break the line  
    **Answer:** It stops the boat gently, without a jerk that could break the line. *Why:* Stopping all at once puts a huge force on the line and the boat. Letting the rope slide a little slows the boat gently. A wrong pick often means thinking that the rope gets stronger.
 10. (order) Put these in order, to explain how a rope round a post holds a boat.  
    **Answer:** ['The boat pulls on the rope', 'The rope presses on the post along its turns', 'Friction acts along every part of the rope that touches the post', 'Each turn adds more grip, so a light hold on the loose end is enough']. *Why:* The boat's pull goes into the rope, which presses on the post. Friction acts everywhere the rope touches the post, and each extra turn multiplies it.
@@ -486,7 +486,7 @@ That night, Anjana wound her thread round the pencil again. Four turns. She hung
 13. (truefalse) Warm honey flows more easily than cold honey.  
    **Answer:** True. *Why:* True. Heat makes the molecules move faster, so they slide past each other more easily. The honey has less internal friction.
 14. (mcq) A box slides across the floor and stops. Where did its movement go?  
-   Options: It turned into heat in the box and the floor / It was used up and disappeared / It went into the air as light  
+   Options: It was used up and disappeared / It went into the air as light / It turned into heat in the box and the floor  
    **Answer:** It turned into heat in the box and the floor. *Why:* Friction turns movement into heat, which spreads into the surfaces and the air. Movement is not used up. A wrong pick often means thinking that movement just ends.
 15. (write) Name two places where a thick liquid such as oil is useful, and two where a thin liquid such as water is better.  
    **Answer:** Thick liquids are useful in an engine, a cycle chain and a bearing, because they stay in place and keep metal apart. Thin liquids are better for washing, drinking and cooling, where they must flow easily.. *Why:* A strong answer connects each choice to how fast the liquid should flow and how well it stays in place.
@@ -498,7 +498,7 @@ That night, Anjana wound her thread round the pencil again. Four turns. She hung
 2. (count) A different box on the same floor presses with a force of 50 newtons. Mu stays 0.3. How big is the friction force, in newtons?  
    **Answer:** 15. *Why:* Friction is mu times the pressing force. 0.3 times 50 is 15 newtons.
 3. (mcq) Rubber on a dry road has mu of about 0.8. Steel on ice has mu of about 0.03. About how many times more grip does the rubber have?  
-   Options: About 27 times / About 3 times / About 800 times  
+   Options: About 3 times / About 27 times / About 800 times  
    **Answer:** About 27 times. *Why:* 0.8 divided by 0.03 is about 27. A wrong pick often means mixing up the decimals.
 4. (truefalse) When you stand a brick on its narrow end instead of laying it flat, the pressing force on the floor gets bigger.  
    **Answer:** False. *Why:* False. The weight of the brick has not changed, so the total pressing force has not changed. The pressing on each bump gets bigger, but there are fewer bumps.
@@ -506,15 +506,15 @@ That night, Anjana wound her thread round the pencil again. Four turns. She hung
    **Answer:** I would ask: if the area does not change the friction for hard surfaces, why would it help here? For soft, sticky rubber the rule is not exact, so I would ask them to show a test with the same load and the same road.. *Why:* A strong answer notes that for hard dry surfaces area hardly matters, and asks for a fair test that keeps the load the same.
 6. (sort) Which of these do scientists agree about, and which are still debated or unknown?  
    **Answer:** On hard, dry surfaces, friction is roughly proportional to the pressing force → Scientists agree; Why fingers wrinkle in water → Still debated or unknown; Two surfaces touch only at the tips of their bumps → Scientists agree; A single theory that predicts friction from atoms for every material → Still debated or unknown; The work done against friction becomes heat → Scientists agree. *Why:* The rules for hard, dry surfaces, the tiny real contact and the heat are settled. The wrinkles and a complete atomic theory are not.
-7. (mcq) An earthquake happens when rocks that were stuck together deep underground suddenly slip. Which idea from this unit does that match?  
-   Options: Stick-slip / Rolling friction / Fluid friction  
+7. (mcq) An earthquake happens when rocks that were stuck together deep underground suddenly slip. Which idea from this lesson does that match?  
+   Options: Rolling friction / Fluid friction / Stick-slip  
    **Answer:** Stick-slip. *Why:* The rocks stick, the push builds up, and then they slip all at once. This is stick-slip on a giant scale.
 8. (perspective) A harbour has an old boatwoman who knows the rope rule by experience, and a young scientist who knows the rule as an equation.  
    **Answer:** Answers vary. A strong answer says that both kinds of knowing are useful, and gives a reason, for example that experience works at once and the equation works for new ropes.. *Why:* People used the rope rule for thousands of years before it was written as an equation. Both kinds of knowing matter.
 9. (match) Match each situation to the kind of friction.  
    **Answer:** A cupboard that will not budge → starting friction; A box sliding along the floor → sliding friction; A suitcase on wheels → rolling friction; A nut falling through honey → fluid friction. *Why:* Each kind of friction acts in a different situation. Starting friction holds a thing still. Sliding friction acts on a sliding thing. Rolling friction acts on wheels. Fluid friction acts in liquids and gases.
 10. (mcq) A graph of pull against load for a box is a straight line that starts near zero. What does this show?  
-   Options: The pull is proportional to the load / The pull does not depend on the load / The pull is bigger for lighter loads  
+   Options: The pull does not depend on the load / The pull is bigger for lighter loads / The pull is proportional to the load  
    **Answer:** The pull is proportional to the load. *Why:* A straight line from the start means that doubling the load doubles the pull. A wrong pick often means thinking a straight line means no change.
 11. (draw) Draw a line graph of these made-up results. Loads: 0, 1, 2, 3 and 4 packets. Stretches: 0, 2, 4, 6 and 8 centimetres.  
    **Answer:** Packets along the bottom and stretch up the side, with dots at (0,0), (1,2), (2,4), (3,6), (4,8) joined in a straight line.. *Why:* A strong graph has labelled axes, evenly spaced numbers, correct dots and a straight line, which shows the pull is proportional to the load.
@@ -537,19 +537,19 @@ That night, Anjana wound her thread round the pencil again. Four turns. She hung
 
 ## Quiz
 1. (mcq) You put a second school bag on top of the bag that you are dragging across the floor. What happens to the friction?  
-   Options: It becomes about twice as big / It becomes much smaller / It stays exactly the same  
+   Options: It becomes much smaller / It becomes about twice as big / It stays exactly the same  
    **Answer:** It becomes about twice as big. *Why:* The pressing force doubles, so the friction roughly doubles. A wrong pick often means thinking that the weight has no effect.
 2. (mcq) Two identical bricks are on a table. One lies on its big face and one stands on its narrow end. Which needs the bigger pull to start moving?  
    Options: Both need about the same pull / The one on its big face / The one on its narrow end  
    **Answer:** Both need about the same pull. *Why:* The weights are the same, so the pressing forces are the same. The face changes the number of bumps, but not the total grip.
 3. (mcq) Why do two hard, flat surfaces touch at only a few tiny spots?  
-   Options: Every surface has tiny peaks, and only the tips of the peaks meet / The surfaces push each other away / The surfaces are covered in oil  
+   Options: The surfaces push each other away / The surfaces are covered in oil / Every surface has tiny peaks, and only the tips of the peaks meet  
    **Answer:** Every surface has tiny peaks, and only the tips of the peaks meet. *Why:* Even a smooth surface is a mountain range under a microscope. Only the tips of the peaks touch. A wrong pick often means thinking the surfaces repel each other.
 4. (mcq) Why does pressing two surfaces together harder increase the friction?  
    Options: More of the bumps are squashed and touch, so there are more tiny grips / The surfaces become rougher / The surfaces get colder  
    **Answer:** More of the bumps are squashed and touch, so there are more tiny grips. *Why:* Pressing squashes the peaks a little, and more of them touch. More touching spots give more grip.
 5. (mcq) What is stick-slip?  
-   Options: Movement in jerks, as a thing sticks, slips, and sticks again / A kind of glue / A very smooth floor  
+   Options: A kind of glue / A very smooth floor / Movement in jerks, as a thing sticks, slips, and sticks again  
    **Answer:** Movement in jerks, as a thing sticks, slips, and sticks again. *Why:* Starting friction holds a thing still until the pull passes its limit. Then the thing slips, and sliding friction is a little smaller, so it can stick again.
 6. (mcq) A heavy cupboard does not move when you push it gently. How big is the friction on it?  
    Options: The same as your push / Bigger than your push / Zero  
@@ -558,13 +558,13 @@ That night, Anjana wound her thread round the pencil again. Four turns. She hung
    Options: A rolling wheel does not rub and slide at the spot where it touches the floor / The wheels make the suitcase lighter / Wheels have no weight  
    **Answer:** A rolling wheel does not rub and slide at the spot where it touches the floor. *Why:* The spot of a wheel that touches the floor is still for a moment, so rolling friction is much smaller. A wrong pick often means thinking the suitcase became lighter.
 8. (mcq) Why does warm honey flow faster than cold honey?  
-   Options: Heat makes the molecules move faster, so there is less friction inside the honey / Warm honey is heavier / Warm honey is a different liquid  
+   Options: Warm honey is heavier / Warm honey is a different liquid / Heat makes the molecules move faster, so there is less friction inside the honey  
    **Answer:** Heat makes the molecules move faster, so there is less friction inside the honey. *Why:* Heat helps the molecules slide past each other. Honey is then less viscous.
 9. (mcq) A rope is wound round a post. Two turns need a hold of 36 newtons, and each turn makes the hold 6 times easier. What does a third turn need?  
-   Options: About 6 newtons / About 30 newtons / About 216 newtons  
+   Options: About 30 newtons / About 6 newtons / About 216 newtons  
    **Answer:** About 6 newtons. *Why:* The third turn divides the hold by 6 again, and 36 divided by 6 is 6. A wrong pick often means taking away 6 instead of dividing by 6.
 10. (mcq) You pull a box with a friction force of 8 newtons along 5 metres. How much work do you do against the friction?  
-   Options: 40 joules, which ends up as heat / 13 joules, which disappears / 8 joules, which ends up as light  
+   Options: 13 joules, which disappears / 40 joules, which ends up as heat / 8 joules, which ends up as light  
    **Answer:** 40 joules, which ends up as heat. *Why:* Work is the force times the distance. 8 times 5 is 40 joules. All of it becomes heat.
 11. (mcq) Which of these do scientists agree about?  
    Options: On hard, dry surfaces, friction is roughly proportional to the pressing force / Wrinkled fingers certainly help us grip in the rain / Friction does not depend on the materials  
@@ -654,6 +654,12 @@ Grip and Glide (sci.forces.L4): Topic-level song
 - [Plain cotton string or thread, a ball of 50 metres](https://www.amazon.in/s?k=cotton+string+ball) (material): For the Wrap the Thread test and the Lower the Load challenge. Do not buy kite thread coated with glass, called manja. Used in e2, c1. 
 - [A bag of glass marbles](https://www.amazon.in/s?k=glass+marbles+for+kids) (material): For the Rollers and Marbles activity, and as the things to move in the Wrinkled Fingers activity. Used in a2, a4. 
 - [A box of 100 paper clips](https://www.amazon.in/s?k=paper+clips+box) (material): They are the small weights counted in the Wrap the Thread test. A box costs a few rupees at a stationery shop. Used in e2. 
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in The Slow Drop: friction inside liquids, Wrinkled Fingers: do they grip wet things better?. About ₹150 to ₹400. A phone stopwatch works well. Used in a3, a4. Get it before The Slow Drop: friction inside liquids.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Press Harder: how does the load change the pull?, The Walking Ruler: two fingers that take turns, Rollers and Marbles: sliding against rolling. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a1, a2. Get it before Press Harder: how does the load change the pull?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in The Walking Ruler: two fingers that take turns. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in a1. Get it before The Walking Ruler: two fingers that take turns.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in Press Harder: how does the load change the pull?, Wrap the Thread: how many turns hold the bottle?, Lower the Load: hold a heavy bottle with one finger. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in e1, e2, c1. Get it before Press Harder: how does the load change the pull?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Rollers and Marbles: sliding against rolling. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in a2. Get it before Rollers and Marbles: sliding against rolling.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What happens to friction if you double the weight on a box? → It about doubles.
@@ -674,7 +680,7 @@ Grip and Glide (sci.forces.L4): Topic-level song
 ## Sources
 - Founder's notes in ideas/by_topic/forces-and-movement.md, the Friction section: slide blocks on different surfaces and measure the pull, rolling against sliding with toy cars, kitchen cloths with a glass, and the thought 'resistance gives us grip and control'. Used in the Press Harder test, Rollers and Marbles and the roots.
 - The Combined Class 4 forces lesson (combined/sci-C4-forces-and-movement.json): ideas on force arrows and friction in a lesson on pushes and pulls, used for the Lower the Load challenge and the game cards.
-- The Class 3 Friction unit (sci.forces.friction.L3), which this unit builds on: from 'friction is a grip' to 'what decides the size of the grip'. Its experiments and its story are not repeated.
+- The Class 3 Friction unit (sci.forces.friction.L3), which this lesson builds on: from 'friction is a grip' to 'what decides the size of the grip'. Its experiments and its story are not repeated.
 - Amontons, G., Histoire de l'Academie Royale des Sciences, 1699 (the first two laws of friction)
 - Coulomb, C. A., Theorie des machines simples, 1785 (the difference between starting and sliding friction, and tests of the area rule)
 - Bowden, F. P. and Tabor, D., The Friction and Lubrication of Solids, Oxford, 1950 (real contact area and adhesion)

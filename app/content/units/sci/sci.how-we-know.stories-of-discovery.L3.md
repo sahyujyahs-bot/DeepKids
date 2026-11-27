@@ -1,9 +1,9 @@
 # Lucky accidents and missing names: how discoveries really happen
 `sci.how-we-know.stories-of-discovery.L3`
 
-**Summary.** A man set out to make a very strong glue and made a weak one by mistake, yet it ended up on sticky notes. How can a mistake become a discovery? In this unit you will test a too-weak tape to find a job it does well, and meet people left out of the credit.
+**Summary.** A man set out to make a very strong glue and made a weak one by mistake, yet it ended up on sticky notes. How can a mistake become a discovery? In this lesson you will test a too-weak tape to find a job it does well, and meet people left out of the credit.
 
-**Intro.** *In 1968, a chemist named Spencer Silver tried to make a glue strong enough to help build aeroplanes. His glue came out so weak that paper stuck with it could be peeled straight off again. Was that a failure?* For aeroplanes, yes. But six years later his co-worker Art Fry needed a bookmark that would stay in his song book without tearing the pages. Silver's weak glue was just right. A result is not good or bad by itself. It depends on what you need it for. In this unit you will test this with tape, and meet people whose 'mistakes' became discoveries.
+**Intro.** *In 1968, a chemist named Spencer Silver tried to make a glue strong enough to help build aeroplanes. His glue came out so weak that paper stuck with it could be peeled straight off again. Was that a failure?* For aeroplanes, yes. But six years later his co-worker Art Fry needed a bookmark that would stay in his song book without tearing the pages. Silver's weak glue was just right. A result is not good or bad by itself. It depends on what you need it for. In this lesson you will test this with tape, and meet people whose 'mistakes' became discoveries.
 
 ## Learning outcomes
 0. I can say what a discovery is, and how it is different from an invention.
@@ -448,6 +448,29 @@ No bonus point on this card.)
   *Parent says:* Three names won the prize. How many names are on your roll?  
   *Child mode:* Scroll your credit roll. Circle Fleming, Florey and Chain. They won the prize in 1945. Who was left out?
   - Ask: Why might the prize name only three people? (good: A Nobel Prize can be shared by at most three people.; They led the work, or were most famous.)
+### old1 · Oops Paintings: turn an accident into a picture (12 min)
+- **problem:** Many discoveries began as an accident that someone stopped to look at. In this activity you make an accident on purpose. You drop paint, fold the paper and look closely at the shape that appears.
+- **safety:** Use only non-toxic poster paint or washable ink. Wash hands after.
+- **record:** Write the name of your painting and one thing you noticed that you did not plan.
+- **s1 (3 min)**  
+  *Parent does:* 1. Spread the newspaper on the table. 2. Fold the sheet of paper in half and open it again. 3. Drop one or two blobs of paint, each about the size of a coin, along one side of the fold.  
+  *Parent says:* We are going to make an accident on purpose. Nobody knows what shape it will make.  
+  *Child mode:* Fold the paper in half and open it. Drop one or two blobs of paint near the fold.
+- **s2 (2 min)**  
+  *Parent does:* 1. Fold the paper over the paint. 2. Press with both hands for five seconds, from the fold outwards. 3. Open it slowly.  
+  *Parent says:* Press, and then open it slowly. What do you see?  
+  *Child mode:* Fold the paper and press it for five seconds. Open it slowly. What do you see?
+  - Note: If the paint is runny and soaks through, use less next time. If the paint is dry and does not spread, add one drop of water and press again.
+- **s3 (4 min)**  
+  *Parent does:* Your child looks at the shape from every side and says what it reminds them of. Then they add eyes, legs, wings or words with the crayon.  
+  *Parent says:* Turn it round. What does it look like from this side? What could it become?  
+  *Child mode:* Turn the paper round. What does the shape remind you of? Draw on it to make it into something.
+  - Ask: What did you see in the shape that you did not plan? (good: A creature or a flower I did not think of.; The two sides matched, even though I only dropped paint on one side.)
+- **s4 (3 min)**  
+  *Parent does:* Your child gives the painting a name and says one thing they noticed that they did not plan. Write the name on the back.  
+  *Parent says:* Many discoveries began when someone noticed something they did not plan, and then asked about it. What did you notice?  
+  *Child mode:* Name your painting. Say one thing you noticed that you did not plan.
+  - Ask: What is the difference between an accident and a discovery? (good: A discovery happens when someone notices the accident and asks why.; If nobody looks at it closely, an accident stays just an accident.)
 
 ## Projects
 ### p1 · My Surprise Notebook (50 min, 5 days)
@@ -535,7 +558,7 @@ No bonus point on this card.)
 6. (sort) Sort each of these: is it a discovery or an invention?  
    **Answer:** pulsars spinning in space → Discovery; the sticky note → Invention; mould that kills bacteria → Discovery; the bicycle → Invention; the Raman effect in light → Discovery; a radio telescope → Invention. *Why:* Pulsars, the mould's power to kill bacteria and the Raman effect were all there before anyone knew. The sticky note, the bicycle and the telescope were made by people. A strong answer asks: was it there before anyone found it?
 7. (mcq) In the Too-Weak Tape Test, you dab one strip of tape on a cotton cloth 8 times. What happens to the tape?  
-   Options: It gets stickier / Tiny cotton fibres cover parts of the glue, so it sticks more gently / The glue melts / Nothing at all  
+   Options: It gets stickier / The glue melts / Nothing at all / Tiny cotton fibres cover parts of the glue, so it sticks more gently  
    **Answer:** Tiny cotton fibres cover parts of the glue, so it sticks more gently. *Why:* The cloth leaves tiny fibres on the glue. Where a fibre covers the glue, the glue cannot touch the paper. So the strip grips more gently.
 8. (draw) In the Too-Weak Tape Test, you peeled fresh tape off the newspaper. Draw what you saw on the newspaper. Label any torn or furry part.  
    **Answer:** A drawing of the newspaper with a grey, furry patch or a torn strip where the fresh tape was, labelled.. *Why:* Fresh tape grips the paper's fibres so tightly that the top fibres come away. A strong drawing shows the rough, furry patch clearly.
@@ -543,7 +566,7 @@ No bonus point on this card.)
    Options: Penicillin's clear ring / Perkin's purple dye / Silver's weak glue / James Lind's test of six cures for scurvy  
    **Answer:** 3. *Why:* James Lind planned his test in 1747. He gave six pairs of sick sailors six different treatments to compare them. The other three began with something nobody wanted or planned.
 10. (mcq) A scientist finds a strange mark on her telescope chart. What should she and her team do first?  
-   Options: Tell the newspapers about aliens / Check whether it is a fault or a signal from Earth / Throw the chart away / Give it a prize  
+   Options: Check whether it is a fault or a signal from Earth / Tell the newspapers about aliens / Throw the chart away / Give it a prize  
    **Answer:** Check whether it is a fault or a signal from Earth. *Why:* Most strange results turn out to be errors. So the first job is to check. If the mark keeps time with the stars, not with clocks on Earth, it must come from space.
 11. (write) Mould had probably landed on many scientists' dishes before anyone noticed what it did. Why might only one scientist turn it into a discovery?  
    **Answer:** He knew enough about bacteria to see that a clear ring around the mould was strange and important. He did not throw the dish away. He grew the mould again to check.. *Why:* A strong answer mentions knowing enough to see that something is strange, and checking it. Louis Pasteur said that chance favours the prepared mind.
@@ -580,7 +603,7 @@ No bonus point on this card.)
    Options: Noticing something strange / Checking it again / Explaining why it happens / Being famous  
    **Answer:** 3. *Why:* Noticing, checking and explaining are all real work on a discovery. Being famous does not find anything out, though it often decides who gets the credit.
 11. (mcq) A grandmother says that leaving dosa batter out on a hot day by mistake gave the softest dosas ever. What is the best way to find out if it was more than luck?  
-   Options: Believe it, because a grandmother is always right / Leave batter out on a warm day again, on purpose, and compare it with batter kept cool / Forget it, because it was a mistake / Ask a friend what they think  
+   Options: Believe it, because a grandmother is always right / Forget it, because it was a mistake / Leave batter out on a warm day again, on purpose, and compare it with batter kept cool / Ask a friend what they think  
    **Answer:** Leave batter out on a warm day again, on purpose, and compare it with batter kept cool. *Why:* A surprise becomes knowledge only when it happens again on purpose, in a fair comparison. Batter does ferment faster in warmth, so the test would probably work. But testing is how you know.
 12. (write) A student tells his teacher that a hot ice cream mixture froze faster than a cold one in the freezer. The teacher says he is confused. Was the teacher right to say that? What should the teacher have done instead?  
    **Answer:** The teacher should not have decided without testing. He could have put hot and cold mixtures in the freezer and watched. The student's result might have been wrong, but only a test could show it.. *Why:* A strong answer says that both a student and a teacher can be wrong, and that a fair test, repeated, is how to find out.
@@ -607,13 +630,13 @@ No bonus point on this card.)
    **Answer:** A page listing the jobs with names: Bell (built, noticed, checked), Hewish (led, designed), and others such as the team who helped build it and the scientists who explained pulsars as spinning dead stars.. *Why:* A strong design names jobs, not only people, and treats each job as part of the discovery.
 7. (sort) Sort these reasons. Which ones are about the person, and which are about how prizes and papers work?  
    **Answer:** She was a student → About the person; A prize names at most three people → About how credit works; She was a woman, in a time when women were taken less seriously → About the person; The leader's name usually goes first on the paper → About how credit works; He worked far from famous universities → About the person; Prizes are not given after a person dies → About how credit works. *Why:* Some people are left out because of who they are, and some because of the rules. A strong answer sees both kinds.
-8. (write) Arjun, the 7-year-old boy in the curd story, says, 'If I am the first person ever to see something, then it is my discovery.' Is seeing something first enough? Use an example from this unit.  
+8. (write) Arjun, the 7-year-old boy in the curd story, says, 'If I am the first person ever to see something, then it is my discovery.' Is seeing something first enough? Use an example from this lesson.  
    **Answer:** Seeing it is not enough. You must also check it, explain it and tell others so they can see it too. Mould had landed on dishes before, but Fleming checked and wrote about it. Bell Burnell's signal was on the chart in August, but it became a discovery only when she noticed it and checked it.. *Why:* A strong answer says that a discovery needs checking and sharing, and uses a real example.
 9. (odd) Three of these were found while trying to do something else. Which one was found by looking for exactly that?  
    Options: Mauve dye (Perkin was making a medicine) / Radioactivity (Becquerel was waiting for sunlight) / The weak glue (Silver wanted a strong one) / The cure for scurvy in Lind's test (Lind was testing cures for scurvy)  
    **Answer:** 3. *Why:* Lind set out to find which cure worked, and found it. The other three found something different from what they were trying to do.
 10. (mcq) In one freezer test, the hot water got ice after 90 minutes and the cold water after 60 minutes. Erasto Mpemba found the opposite. What is the best thing to say?  
-   Options: Mpemba was lying / The test was done wrong / The result may depend on the freezer, the cups and the mixture, so more fair tests are needed / Hot water always freezes first  
+   Options: Mpemba was lying / The result may depend on the freezer, the cups and the mixture, so more fair tests are needed / The test was done wrong / Hot water always freezes first  
    **Answer:** The result may depend on the freezer, the cups and the mixture, so more fair tests are needed. *Why:* Different freezers and containers can give different results. Mpemba's was ice cream mixture, not water. Scientists still argue about this, so the honest answer is to test more, carefully.
 11. (label) A scientist planned to leave some uranium salts in sunlight on top of a wrapped photo plate. The sky was cloudy, so he put them in a drawer with the plate. Later he found the plate fogged anyway. Label the parts of this discovery on the timeline: the plan, the accident, the surprise, the check.  
    **Answer:** Plan: put uranium salts in sunlight on a wrapped plate. Accident: the sky was cloudy, so he put them in a drawer. Surprise: the plate was fogged anyway. Check: no sunlight had reached the plate in the drawer, so the uranium itself was giving out rays.. *Why:* A strong answer finds each part. The check was the step that showed the uranium itself was giving out rays.
@@ -639,31 +662,31 @@ No bonus point on this card.)
    Options: Pulsars in space / The sticky note / Mould that kills bacteria / The Raman effect  
    **Answer:** The sticky note. *Why:* People made the sticky note. Pulsars, the mould's power to kill bacteria and the Raman effect were there before anyone found them.
 3. (mcq) A young chemist is trying to make a medicine. Instead, his mixture turns bright purple and stains cloth. What is the best thing for him to do?  
-   Options: Throw it away, because it failed / Test whether the purple could be useful, for example as a dye for clothes / Hide it so nobody knows / Add more of everything and hope for medicine  
+   Options: Test whether the purple could be useful, for example as a dye for clothes / Throw it away, because it failed / Hide it so nobody knows / Add more of everything and hope for medicine  
    **Answer:** Test whether the purple could be useful, for example as a dye for clothes. *Why:* A failed experiment can still make something useful for a different job. Testing the strange result is how an accident becomes a discovery. A purple mistake like this really did become the first dye made from chemicals.
 4. (mcq) A scientist sees a clear ring around a mould on a dish of bacteria. What would turn this lucky accident into a discovery?  
-   Options: Throwing the dish away / Growing the mould again and checking whether the bacteria die again / Going on holiday / Painting the dish  
+   Options: Growing the mould again and checking whether the bacteria die again / Throwing the dish away / Going on holiday / Painting the dish  
    **Answer:** Growing the mould again and checking whether the bacteria die again. *Why:* Checking turns a surprise into knowledge. If the mould kills the bacteria again in fresh dishes, the result is real. Without the check, it is only a lucky accident.
 5. (mcq) Why do scientists repeat a surprising result before believing it?  
    Options: Because most surprising results turn out to be errors or flukes / Because they enjoy doing things twice / Because a prize needs two results / Because the first result is always wrong  
    **Answer:** Because most surprising results turn out to be errors or flukes. *Why:* A strange result might come from a fault, a mistake or plain chance. If it happens again in a fair test, it is much more likely to be real.
 6. (mcq) You dab strips of tape on a cotton cloth before sticking a paper note down with them. Which strip is usually best for a note you want to stick and move again?  
-   Options: A fresh strip, never dabbed / A strip dabbed on cloth a few times / A strip dabbed 15 times / A wet strip  
+   Options: A fresh strip, never dabbed / A strip dabbed 15 times / A strip dabbed on cloth a few times / A wet strip  
    **Answer:** A strip dabbed on cloth a few times. *Why:* Fresh tape tears the paper. Tape dabbed many times cannot hold. A strip dabbed a few times holds lightly and comes off clean.
 7. (mcq) In the Too-Weak Tape Test, why does fresh tape tear the newspaper?  
-   Options: The glue gripped the paper fibres harder than the fibres gripped each other / The tape was sharp / The newspaper was old / The tape was weak  
+   Options: The tape was sharp / The newspaper was old / The tape was weak / The glue gripped the paper fibres harder than the fibres gripped each other  
    **Answer:** The glue gripped the paper fibres harder than the fibres gripped each other. *Why:* Paper is a mat of fibres. Strong glue holds the top fibres so tightly that they pull away from the rest of the paper.
 8. (mcq) A student notices a strange signal and checks it carefully. Her supervisor designed the telescope and led the project. Only the supervisor and one other scientist get a big prize. Why do people argue about this?  
-   Options: The student did a key part of the work and was left out / Prizes should go to telescopes / Nobody did any real work / The signal was a mistake  
+   Options: Prizes should go to telescopes / The student did a key part of the work and was left out / Nobody did any real work / The signal was a mistake  
    **Answer:** The student did a key part of the work and was left out. *Why:* The noticer, the checker and the leader all did a part. When a prize names only some of them, people ask whether the credit was shared fairly. This really happened with the discovery of pulsars, and people still argue about it.
 9. (mcq) Two scientists do the experiments together and write the paper together. The discovery is named after only one of them, and only he gets the prize. What is most likely to happen to the other one's name?  
    Options: Both names are remembered equally / It is mostly forgotten, because names on discoveries and prizes give more credit to some people / He gets the prize later instead / Everyone forgets both of them  
    **Answer:** It is mostly forgotten, because names on discoveries and prizes give more credit to some people. *Why:* Names on discoveries and prizes give more credit to some people than others. A person who did half the work can be almost forgotten.
 10. (mcq) Which of these is a common reason why people get left out of credit?  
-   Options: They were students, assistants or women at a time when such people were taken less seriously / They did not want to be named / They were too tall / They worked too fast  
+   Options: They did not want to be named / They were too tall / They worked too fast / They were students, assistants or women at a time when such people were taken less seriously  
    **Answer:** They were students, assistants or women at a time when such people were taken less seriously. *Why:* Many left-out scientists were young, junior or women. Rules such as the three-person limit on prizes add to the problem.
 11. (mcq) A boy puts a bowl of milk on top of the fridge by accident, and the curd sets better there than anywhere else. His sister says, 'He found it by accident, so he gets no credit.' What is the best answer back?  
-   Options: She is right. Accidents don't count / Without his accident there would be no surprise to check, so he deserves some credit / Only grown-ups get credit / The fridge gets the credit  
+   Options: She is right. Accidents don't count / Only grown-ups get credit / The fridge gets the credit / Without his accident there would be no surprise to check, so he deserves some credit  
    **Answer:** Without his accident there would be no surprise to check, so he deserves some credit. *Why:* An accident is often the start of a discovery. The noticer, the explainer and the checker all did a part.
 12. (mcq) Many people help with a big discovery, but a prize can only go to a few. What is the fairest way to tell the story of the discovery?  
    Options: Name only the most famous person / Name everyone who did a key part, such as noticing, explaining, checking and making it useful / Name nobody / Name only the people who won the prize  
@@ -681,7 +704,7 @@ No bonus point on this card.)
 - Sticky notes on a fridge, a desk or a shop counter: Spencer Silver's 'failed' glue at work.
 - A strip of medicine tablets in the cupboard. Many antibiotics today grew out of the penicillin story.
 - A bright purple or magenta sari in a shop window. Its colour often comes from a chemical dye, like Perkin's mauve.
-- National Science Day on 28 February, when schools in India hold science fairs to mark the Raman effect.
+- National Science Day on 28 February, when schools hold science fairs to mark the Raman effect.
 - A bindi on a card. Its gentle glue lets you peel it off and stick it again, like a sticky note.
 
 ## Open questions
@@ -723,6 +746,11 @@ One Thing at a Time (sci.how-we-know.L3): Topic-level song for How we know L3
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A science museum with hands-on galleries where children can try experiments for themselves.
 
 ## Things to buy
+- [Beautiful Oops! by Barney Saltzberg](https://www.amazon.in/s?k=Beautiful+Oops) (book): A lift-the-flap book that turns spills and tears into new pictures. It shows the child that a mistake can lead to a discovery. Used in a1. Read it together after the Oops paintings.
+- [Solving the Puzzle Under the Sea: Marie Tharp Maps the Ocean Floor by Robert Burleigh](https://www.amazon.in/s?k=Solving+the+Puzzle+Under+the+Sea) (book): A picture book about Marie Tharp, who mapped the ocean floor. It shows how a careful woman scientist worked out what others did not believe. Used in a1. Read it together after Day 7.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Too-Weak Tape Test, Find the Scruff, A Fair Credit Wall. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a2, c2. Get it before The Too-Weak Tape Test.
+- [A measuring jug or syringe (marked in millilitres)](https://www.amazon.in/s?k=measuring+jug+500+ml) (tool): Used in Hot or Cold: Which Freezes First?. About ₹30 to ₹100. A clean medicine cup or marked bottle works. Used in e2. Get it before Hot or Cold: Which Freezes First?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What did Fleming's mould kill? → Bacteria.
@@ -736,7 +764,7 @@ One Thing at a Time (sci.how-we-know.L3): Topic-level song for How we know L3
 
 ## Plan
 - Start options: intro, e1, story, g1, big_questions, cards
-- Default order: intro → e1 → a1 → explanations → story → summary → terms → g1 → a2 → ws-core → videos → e2 → a3 → agreed → challenging → g2 → a4 → ws-stretch → p1 → c1 → c2 → big_questions → ws-challenge → open_questions → roots → quiz
+- Default order: intro → e1 → a1 → explanations → story → summary → terms → g1 → a2 → ws-core → videos → e2 → a3 → agreed → challenging → g2 → a4 → ws-stretch → p1 → c1 → c2 → big_questions → ws-challenge → open_questions → roots → quiz → old1
 - Core: e1, a1, g1, a2, ws-core
 
 ## Sources

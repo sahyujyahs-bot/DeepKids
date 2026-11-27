@@ -1,9 +1,9 @@
 # How plants send and receive signals, and whether plants feel, learn and remember
 `sci.plants.plant-senses.L5`
 
-**Summary.** When a caterpillar chews a maize leaf, tiny wasps arrive and lay eggs in it, though nobody can see it. How do the wasps find it? In this unit you will sniff for a torn leaf, stroke moong seedlings every day to see if they grow differently, and trace how plant signals travel.
+**Summary.** When a caterpillar chews a maize leaf, tiny wasps arrive and lay eggs in it, though nobody can see it. How do the wasps find it? In this lesson you will sniff for a torn leaf, stroke moong seedlings every day to see if they grow differently, and trace how plant signals travel.
 
-**Intro.** *A caterpillar bites one leaf of a plant. Two minutes later, leaves on the far side of the plant begin to switch on their defences. No caterpillar has touched those leaves. Nerves are one kind of wiring, and a plant has her own kind. So how did the far leaves get the news?* Scientists filmed the answer in 2018, and you will read it in this unit. The news travelled inside the plant as a wave of electric charge and chemicals. A plant also sends news out of their body. Some goes into the air as smells, and some goes into the soil from the roots. Other living beings receive that news: neighbouring plants, insects, fungi and you. You start with your own nose. In the first activity, the Torn Leaf Test, you find out whether a leaf gives off something new when it is damaged.
+**Intro.** *A caterpillar bites one leaf of a plant. Two minutes later, leaves on the far side of the plant begin to switch on their defences. No caterpillar has touched those leaves. Nerves are one kind of wiring, and a plant has her own kind. So how did the far leaves get the news?* Scientists filmed the answer in 2018, and you will read it in this lesson. The news travelled inside the plant as a wave of electric charge and chemicals. A plant also sends news out of their body. Some goes into the air as smells, and some goes into the soil from the roots. Other living beings receive that news: neighbouring plants, insects, fungi and you. You start with your own nose. In the first activity, the Torn Leaf Test, you find out whether a leaf gives off something new when it is damaged.
 
 ## Learning outcomes
 0. By the end I can say what a signal is, and name the sender, the carrier and the receiver in a plant example.
@@ -99,7 +99,7 @@ Here are three cases that scientists agree on. The first lasts seconds. A Venus 
 
 Plants learn. In 2014 Monica Gagliano dropped potted touch-me-nots 15 centimetres on to foam, again and again. At first the plants folded their leaves. After many drops, they stopped folding. Were the plants just worn out? She tested that by shaking the same plants sideways, and they folded at once. So they still had the energy to fold. They had stopped only for the harmless drop. Many plants still did not fold for a drop 28 days later. This fits the definition of habituation, the simplest kind of learning. In 2016 Gagliano reported a harder kind of learning. Pea seedlings were given a breeze from a fan and then light from the same side, many times. Afterwards, she reported, the seedlings grew towards the fan even with no light. In 2020 Kasey Markel repeated that test with more plants and did not get the same result. So the first kind of learning has good evidence, and the second kind is in doubt until someone replicates it.
 - e.g. You stop noticing a ticking clock. That is habituation, and it shows that even the simplest learning is useful: it saves effort.
-- e.g. In the Drop Test in this unit, you can repeat Monica Gagliano's first experiment if you have a touch-me-not.
+- e.g. In the Drop Test in this lesson, you can repeat Monica Gagliano's first experiment if you have a touch-me-not.
 - e.g. In the activity Learned or Tired?, you work out which results fit each explanation.
 - **Monica Gagliano, who did the experiments:** The plants changed what they did because of experience, and the change lasted for weeks. In any animal we would call that learning and memory, so we should use the same words for a plant.
 - **Critics such as Lincoln Taiz and his co-authors:** The touch-me-not result may be a change in the leaf's folding parts, with nothing like a memory behind it. The word 'learning' should be kept for animals with nerve cells until much stronger evidence comes.
@@ -166,7 +166,7 @@ One smell leaves a torn leaf. In a neighbouring plant it becomes a warning, in a
 
 - **Jakob von Uexküll, A Foray into the Worlds of Animals and Humans (1934):** Every creature lives in a world made of the few things their body can sense. He called this the creature's 'Umwelt', the world around them. A tick's world holds only a smell, a warmth and a touch. (A wasp's world holds the smell of chewed maize, and yours does not. The same field is a different world to each of you.)
 - **Udana 6.4, the Buddhist story of the blind men and the elephant, which Jain teachers also tell to explain anekantavada, many-sidedness:** “Imesu kira sajjanti, / eke samaṇabrāhmaṇā; / Viggayha naṁ vivadanti, / janā ekaṅgadassino” Several blind men each touch one part of an elephant. One says the elephant is like a pillar and another says like a fan. Each is right about his part and wrong to think it is the whole. (A plant, a wasp and a person each receive one smell and take a different thing from it. No one of them holds the whole of what that smell is.)
-- **Mahabharata, Shanti Parva, section 184 (the sage Bhrigu answers Bharadvaja):** Bharadvaja asks whether trees are alive and aware. Bhrigu answers that trees feel heat and touch, drink through their roots, and know pleasure and pain. He gives what he has seen as his reasons: leaves wither in heat, and a creeper finds a way round a tree. (Bhrigu argued from what he could see, and had no instruments. The experiments in this unit test the same question with rulers, controls and repeats.)
+- **Mahabharata, Shanti Parva, section 184 (the sage Bhrigu answers Bharadvaja):** Bharadvaja asks whether trees are alive and aware. Bhrigu answers that trees feel heat and touch, drink through their roots, and know pleasure and pain. He gives what he has seen as his reasons: leaves wither in heat, and a creeper finds a way round a tree. (Bhrigu argued from what he could see, and had no instruments. The experiments in this lesson test the same question with rulers, controls and repeats.)
 - Science (settled): Insects and neighbouring plants respond to the smells of damaged plants. This has been shown in fields and laboratories since 1990.
 - Science (debated): Biologists separate a 'signal', which the sender is built to send, from a 'cue', which a receiver simply picks up. Which of these a plant's damage smell is, for neighbouring plants, is not agreed.
 - Science (open): Whether there is something it is like to be a plant, and how any body gives rise to feeling, is not known.
@@ -482,7 +482,7 @@ The wind came across the field. Gowri breathed in. To her it smelled only of gre
 ### a6 · Three Chairs: do plants feel? (15 min)
 - **record:** Write which chair you chose at the end, and the one piece of evidence that mattered most to you. Write what new evidence could make you move to another chair.
 - **s1 (4 min)**  
-  *Parent does:* 1. Label the chairs: 'Yes, plants feel', 'These are responses, and feeling needs a brain', and 'Nobody can test this yet'. 2. Your child writes five facts from this unit on five slips, one fact on each. 3. Read the slips aloud.  
+  *Parent does:* 1. Label the chairs: 'Yes, plants feel', 'These are responses, and feeling needs a brain', and 'Nobody can test this yet'. 2. Your child writes five facts from this lesson on five slips, one fact on each. 3. Read the slips aloud.  
   *Parent says:* A debate needs evidence. Write five things that plants have been shown to do. We will use the same facts in every chair.  
   *Child mode:* Label three chairs. Write five facts about what plants do, one on each slip.
   - Note: Useful facts: a plant sends electrical signals. A plant tells a bite from a cut. A touch-me-not stops folding for harmless drops. Sleeping gases stop a touch-me-not from folding. A plant sends signals with electrical and chemical wiring of her own, not with a brain or nerve cells.
@@ -602,7 +602,7 @@ The wind came across the field. Gowri breathed in. To her it smelled only of gre
 9. (order) Put the steps of the Touch Test in order.  
    **Answer:** ['Plant the same number of seeds in two cups', 'Guess, and measure every shoot', 'Stroke one cup twice a day for six days', 'Measure again and compare the means']. *Why:* Set up two equal cups, record the start, make one change, then measure the result.
 10. (mcq) A tree on a windy hilltop is shorter and thicker than the same kind in a valley. Why?  
-   Options: The wind blew the top off / Being bent often changed how the tree grew / Hilltop soil has no water / The hilltop tree is older  
+   Options: The wind blew the top off / Hilltop soil has no water / The hilltop tree is older / Being bent often changed how the tree grew  
    **Answer:** Being bent often changed how the tree grew. *Why:* A plant that is bent again and again makes less of the hormone that lengthens stems, and builds thicker walls. Choosing 'blew the top off' treats the shape as damage, but the tree grew that way.
 11. (fill) A touched plant makes less of the ____ that makes stems grow long.  
    **Answer:** ['hormone', 'gibberellin']. *Why:* The hormone is called gibberellin. With less of it, the stem stays shorter.
@@ -617,14 +617,14 @@ The wind came across the field. Gowri breathed in. To her it smelled only of gre
    **Answer:** 3. *Why:* Nerves are animal wiring. Plants send news through the air, inside their bodies as electrical and chemical signals, and from their roots into the soil.
 ### Evidence and controls in plant experiments (stretch) (stretch, 15 questions)
 1. (mcq) Wasps come to maize chewed by caterpillars, but not to maize torn by hand. What does that show?  
-   Options: Wasps look for holes in leaves / Torn leaves have no smell / The plant tells a bite from a tear / Caterpillars call the wasps  
+   Options: Wasps look for holes in leaves / The plant tells a bite from a tear / Torn leaves have no smell / Caterpillars call the wasps  
    **Answer:** The plant tells a bite from a tear. *Why:* Both plants are damaged, but only the chewed one brings wasps. So the plant's response differs. Caterpillar spit in the wound makes the plant give off a different smell. If wasps looked for holes, torn leaves would bring them too.
 2. (write) A witchweed seed sprouts only when a jowar root is near. How does the seed know?  
    **Answer:** The root lets out a chemical into the soil. The seed has receptors for that chemical, and sprouts only when it arrives.. *Why:* A strong answer names a chemical from the root as the carrier. It may add that the root makes this chemical to call helpful fungi.
 3. (count) The heights of ten stroked seedlings add up to 110 centimetres. What is their mean height, in centimetres?  
    **Answer:** 11. *Why:* The mean is the total divided by the number of seedlings. 110 ÷ 10 = 11 centimetres.
 4. (mcq) Why should the person measuring the seedlings not know which cup was stroked?  
-   Options: They might stroke the wrong cup / Hopes can shift a measurement without anyone meaning to / Seedlings grow faster when watched / It makes the test quicker  
+   Options: Hopes can shift a measurement without anyone meaning to / They might stroke the wrong cup / Seedlings grow faster when watched / It makes the test quicker  
    **Answer:** Hopes can shift a measurement without anyone meaning to. *Why:* A person who expects the stroked cup to be shorter may read the ruler a little low for that cup. Measuring without knowing removes that risk.
 5. (truefalse) True or false: when one scientist reports a result, the question is settled.  
    **Answer:** False. *Why:* False. Other scientists must replicate the test. A result that comes out again in other laboratories can be trusted more.
@@ -655,12 +655,12 @@ The wind came across the field. Gowri breathed in. To her it smelled only of gre
 2. (perspective) Is a damaged plant's smell a warning to neighbouring plants, or do the neighbours overhear it?  
    **Answer:** A strong answer picks one view and uses evidence: neighbours do respond and are eaten less, but the sender competes with them for light and water. It then says what the other view has right. It may say that the smell is first a signal to the plant's own leaves and to wasps.. *Why:* Scientists really do disagree here. Everyone accepts that the smell is given off and that neighbours respond. The argument is about whom the smell is for.
 3. (mcq) In a pot, a warning passes between plants. A mesh that blocks fungal threads but not water stops it. What follows?  
-   Options: The warning went through the air / The warning went through the soil water / The warning needed the fungal threads / The plants were never attacked  
+   Options: The warning went through the air / The warning needed the fungal threads / The warning went through the soil water / The plants were never attacked  
    **Answer:** The warning needed the fungal threads. *Why:* Water still crossed the mesh, and the air was not blocked, yet the warning stopped. The only thing that changed was the threads. So in that pot the threads were needed.
 4. (write) In the game Under the Forest, sharing saved the shaded seedlings. Why is that not evidence about real forests?  
    **Answer:** The game follows rules that we wrote. It shows what would happen if the idea were true. Only measurements in a real forest can show whether enough sugar really moves.. *Why:* A strong answer separates a model from a measurement, and says what would need to be measured.
 5. (mcq) Untouched seedlings average 15 centimetres and stroked ones 12. The difference is what fraction of the untouched height?  
-   Options: One half / One third / One quarter / One fifth  
+   Options: One half / One third / One fifth / One quarter  
    **Answer:** One fifth. *Why:* The difference is 15 − 12 = 3 centimetres. 3 out of 15 is one fifth. So the stroked seedlings are one fifth shorter.
 6. (truefalse) True or false: a result that fits two explanations equally well helps you choose between them.  
    **Answer:** False. *Why:* False. To choose, you need a result that one explanation predicts and the other does not. That is why the shake test was needed after the drops.
@@ -671,7 +671,7 @@ The wind came across the field. Gowri breathed in. To her it smelled only of gre
 9. (sort) Touch-me-nots were dropped many times. Sort each result: does it fit 'learned' only, or both 'learned' and 'tired'?  
    **Answer:** The plants fold for a shake straight after the drops → Fits 'learned' only; The plants stay open for a drop after six days of rest → Fits 'learned' only; The plants stop folding after many drops → Fits both ideas; Plants in dim light stop folding sooner → Fits both ideas. *Why:* A tired plant could not fold for a shake, and would recover with rest. So those two results fit 'learned' only. The other two fit both ideas, so they do not tell us which idea is right.
 10. (mcq) A fungus sends more minerals to the root that gives more sugar. What does this suggest?  
-   Options: Roots do not need minerals / The fungus acts for their own gain / The tree controls the fungus / Sugar is bad for fungi  
+   Options: Roots do not need minerals / The tree controls the fungus / The fungus acts for their own gain / Sugar is bad for fungi  
    **Answer:** The fungus acts for their own gain. *Why:* The fungus rewards the root that pays best, which helps the fungus. So the fungus is a partner with their own needs, not a pipe that the tree controls.
 11. (write) Two careful scientists test pea seedlings. One finds learning and the other does not. What should happen next?  
    **Answer:** More scientists should repeat the test, with many seedlings, and measure without knowing which seedlings were trained. Until then the honest answer is 'not shown yet'.. *Why:* A strong answer does not simply pick the scientist it likes. It asks for more tests and accepts 'we do not know yet' for now.
@@ -691,36 +691,36 @@ The wind came across the field. Gowri breathed in. To her it smelled only of gre
 
 ## Quiz
 1. (mcq) A ripe banana's gas makes a nearby mango ripen. What is the carrier of this signal?  
-   Options: The banana / The air / The mango / The paper bag  
+   Options: The banana / The mango / The air / The paper bag  
    **Answer:** The air. *Why:* The banana is the sender and the mango is the receiver. The gas travels through the air, so the air is the carrier.
 2. (mcq) How does news travel from a bitten leaf to a far leaf of the same plant?  
    Options: Along nerves / As sound / As electrical and chemical signals in the veins / Along fungal threads  
    **Answer:** As electrical and chemical signals in the veins. *Why:* A wave of electric charge and calcium passes from cell to cell along the veins. Plants use other cells than nerves, though the signal is partly electrical, as a nerve signal is.
 3. (mcq) Wasps arrive at a plant that caterpillars are chewing. What led them there?  
-   Options: A smell the chewed plant gave off / The colour of the holes / The warmth of the plant / A call from the caterpillars  
+   Options: The colour of the holes / The warmth of the plant / A smell the chewed plant gave off / A call from the caterpillars  
    **Answer:** A smell the chewed plant gave off. *Why:* A chewed plant gives off volatiles, and the wasps have receptors for them. The caterpillars are often hidden, so the wasps are not using their eyes.
 4. (mcq) In a mycorrhiza, what does the plant give the fungus?  
-   Options: Water / Phosphorus / Sunlight / Sugars and fats  
+   Options: Water / Phosphorus / Sugars and fats / Sunlight  
    **Answer:** Sugars and fats. *Why:* A fungus has no chlorophyll and cannot make food from light. The plant gives sugars and fats, and the fungus brings water and minerals such as phosphorus.
 5. (truefalse) True or false: most kinds of land plant live joined to fungi.  
    **Answer:** True. *Why:* True. More than eight of every ten kinds do. Mustard, cabbage and palak are among the few that do not.
 6. (mcq) In a fair touch test, what is the cup of untouched seedlings for?  
-   Options: It holds spare seedlings / It is the control to compare with / It gets more light / It is for next week's test  
+   Options: It holds spare seedlings / It gets more light / It is for next week's test / It is the control to compare with  
    **Answer:** It is the control to compare with. *Why:* The control shows how the seedlings grow without the change. Only by comparing with it can you tell what the strokes did.
 7. (mcq) Seedlings are stroked every day for a week. How do they usually grow?  
-   Options: Taller and thinner / Exactly as before / Shorter and thicker / They stop growing  
+   Options: Taller and thinner / Shorter and thicker / Exactly as before / They stop growing  
    **Answer:** Shorter and thicker. *Why:* Repeated touch makes a plant produce less of the hormone that lengthens stems and build thicker walls. 'Taller' is a common guess, from the idea that attention helps plants.
 8. (mcq) Which of these shows that a plant's body keeps information about the past?  
-   Options: A leaf is green / A flytrap closes only on a second touch / A root grows in soil / A seed is small  
+   Options: A leaf is green / A root grows in soil / A seed is small / A flytrap closes only on a second touch  
    **Answer:** A flytrap closes only on a second touch. *Why:* To close on the second touch, the trap must hold on to the first touch for some seconds. The other three say nothing about the past.
 9. (mcq) After many harmless drops, touch-me-nots are shaken sideways and they fold. Which idea does the shake test?  
-   Options: Whether the plants need water / Whether the plants were simply tired / Whether the plants are alive / Whether light matters  
+   Options: Whether the plants need water / Whether the plants are alive / Whether light matters / Whether the plants were simply tired  
    **Answer:** Whether the plants were simply tired. *Why:* If the plants were tired, they could not fold for the shake either. They folded, so tiredness is ruled out.
 10. (mcq) A surprising result is reported once. What makes scientists trust it more?  
-   Options: It appears in a newspaper / The scientist is famous / It sounds exciting / Others repeat it and get the same result  
+   Options: It appears in a newspaper / Others repeat it and get the same result / The scientist is famous / It sounds exciting  
    **Answer:** Others repeat it and get the same result. *Why:* A result that other laboratories can replicate is much less likely to be a fluke or a mistake. Fame and excitement are not evidence.
 11. (mcq) What is still debated about fungal networks in forests?  
-   Options: Whether fungi live in soil / Whether trees have roots / How much food and news they carry between trees / Whether fungi are plants  
+   Options: Whether fungi live in soil / How much food and news they carry between trees / Whether trees have roots / Whether fungi are plants  
    **Answer:** How much food and news they carry between trees. *Why:* Everyone accepts that the networks exist. Scientists disagree about how much sugar and how many warnings pass through them in real forests, and whether seedlings gain from it.
 
 ## Applications
@@ -733,12 +733,12 @@ The wind came across the field. Gowri breathed in. To her it smelled only of gre
 - Engineers are building electronic 'noses' that sense the damage smells of crops. Such a sensor could warn a farmer of pests before any damage can be seen.
 
 ## Spotted around us
-- Touch-me-not plants with pink flowers, growing wild along roadsides and empty plots in Kerala and Tamil Nadu.
+- Touch-me-not plants with pink flowers, growing wild along roadsides and empty plots.
 - Yellow threads of dodder spread over a hedge like a tangle of noodles. Each thread found their host by smell.
-- The smell of cut grass at a cricket ground in Chennai or Bengaluru, just after the mower has passed.
-- White threads under the damp fallen leaves in a garden in Kochi in the monsoon. They are the body of a fungus.
-- Trees bent and stunted by the sea wind on the coast near Kanyakumari or Rameswaram.
-- Baskets of rugra, round brown mushrooms from the sal forests, in a monsoon market in Ranchi.
+- The smell of cut grass at a cricket ground, just after the mower has passed.
+- White threads under the damp fallen leaves in a garden in the monsoon. They are the body of a fungus.
+- Trees bent and stunted by the sea wind on a coast.
+- Baskets of round brown mushrooms from forest floors, in a monsoon market.
 - Tamarind trees at dusk, with every pair of leaflets folded together for the night.
 - Tendrils of a bitter gourd or ridge gourd vine, wound tightly round the strings of a balcony trellis.
 
@@ -786,13 +786,18 @@ Spore, Cone and Flower (sci.plants.L5): Topic-level song for Plants L5
 - [Plants of the World Online, Kew](https://powo.science.kew.org) · interactive: Look up Mimosa pudica (touch-me-not), Cuscuta (dodder) and Striga (witchweed), and see where in the world each one grows.
 - [Backyard Brains](https://backyardbrains.com) · interactive: For the parent: experiments that record the electrical signals of a touch-me-not and a Venus flytrap with a small kit.
 - [Bose Institute](https://www.jcbose.ac.in) · place · Kolkata: The research institute that J.C. Bose founded in 1917. Check before you go whether the museum of his instruments is open to visitors.
-- [Lalbagh Botanical Garden]() · place · Bengaluru: Look for climbers with tendrils, wind-shaped trees, and mushrooms under the old trees after rain.
+- Lalbagh Botanical Garden · place · Bengaluru: Look for climbers with tendrils, wind-shaped trees, and mushrooms under the old trees after rain.
 - [Jawaharlal Nehru Tropical Botanic Garden and Research Institute](https://www.jntbgri.res.in) · place · Palode, near Thiruvananthapuram: A large garden with many orchids. Every wild orchid there began life fed by a fungus.
-- [Acharya Jagadish Chandra Bose Indian Botanic Garden]() · place · Howrah, near Kolkata: A big garden named after J.C. Bose. Look for touch-me-nots along the paths.
+- Acharya Jagadish Chandra Bose Indian Botanic Garden · place · Howrah, near Kolkata: A big garden named after J.C. Bose. Look for touch-me-nots along the paths.
 
 ## Things to buy
 - [A small touch-me-not plant (Mimosa pudica), or a packet of seeds](https://www.amazon.in/s?k=mimosa+pudica+touch+me+not+plant) (material): Needed only for the Drop Test. Many plant nurseries sell small plants cheaply. The plant also grows wild on many empty plots, so look there first. Used in e2. Seeds have a hard coat. Soak them in warm water overnight. They sprout in one to two weeks, and the plant needs about six more weeks to grow big enough for the Drop Test.
 - [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): It shows the single threads of a mould in See the Threads. A phone camera on full zoom also works. Used in a2. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in The Torn Leaf Test: can your nose tell a damaged leaf from a whole one?, The Growth Magnifier: watch a shoot grow within one hour. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in a1, c1. Get it before The Torn Leaf Test: can your nose tell a damaged leaf from a whole one?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Touch Test: does a daily stroke change how moong seedlings grow?, The Drop Test: does a touch-me-not stop folding for a harmless drop? (if you can get a touch-me-not), The Torn Leaf Test: can your nose tell a damaged leaf from a whole one?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, a1, a2, a3, p1, c1. Get it before The Touch Test: does a daily stroke change how moong seedlings grow?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Music Claim: test a popular belief fairly. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in p1. Get it before The Music Claim: test a popular belief fairly.
+- [Postcards or plain cards](https://www.amazon.in/s?k=blank+postcards) (material): Used in The Touch Test: does a daily stroke change how moong seedlings grow?. About ₹5 to ₹20. Cut card from a cereal box. Used in e1. Get it before The Touch Test: does a daily stroke change how moong seedlings grow?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name the three parts of every signal. → A sender, a carrier and a receiver.
@@ -813,7 +818,7 @@ Spore, Cone and Flower (sci.plants.L5): Topic-level song for Plants L5
 - Founder's notes in ideas/by_topic/plants.md: the J.C. Bose SCI Card (plants respond to stimuli, electrical signals in plants resemble those in animal tissue, 'plants feel, respond, and communicate'). Used in the explanations on signals inside a plant and on feeling, and in the Growth Magnifier.
 - Founder's RNA story pages in the same notes: fungi as beings made of hyphae that 'cover hundreds of acres', with 'decentralized intelligence', using the same chemical pathways, ion changes and electrical impulses as neurons. Used in See the Threads, in the mycorrhiza explanation and in 'Why plants and animals signal in similar ways'.
 - The Combined lesson combined/sci-C3-plants.json: Station 6 'are plants clever?', the voice of Monica Gagliano and her critics, the voice of Charles and Francis Darwin, and the unknown 'the wood-wide web story may be bigger than the evidence'. Used in the Drop Test, Learned or Tired?, Three Chairs and the debated explanations. Its story is not reused.
-- The Class 2 unit sci.plants.plant-senses.L2, which this unit builds on. Its window test, root box, touch-me-not tests and story are not repeated.
+- The Class 2 unit sci.plants.plant-senses.L2, which this lesson builds on. Its window test, root box, touch-me-not tests and story are not repeated.
 - Toyota, M. and others (2018). Glutamate triggers long-distance, calcium-based plant defense signaling. Science 361: 1112-1115.
 - Turlings, T. C. J., Tumlinson, J. H. and Lewis, W. J. (1990). Exploitation of herbivore-induced plant odors by host-seeking parasitic wasps. Science 250: 1251-1253.
 - Rhoades, D. F. (1983), in Plant Resistance to Insects, American Chemical Society Symposium Series 208. Baldwin, I. T. and Schultz, J. C. (1983). Rapid changes in tree leaf chemistry induced by damage: evidence for communication between plants. Science 221: 277-279.

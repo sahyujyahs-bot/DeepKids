@@ -65,6 +65,12 @@
    "art": "Tea being poured through a steel strainer into a cup, with wet tea leaves left in the strainer."
   },
   {
+   "term": "Sieve",
+   "meaning": "A tool with holes, like a flour sieve or a chai strainer, that lets small bits fall through and holds back bigger bits. It separates dry bits or bits in a liquid by size.",
+   "example": "A grandmother sieves atta, and the small flour falls through while the hard bits of husk stay in the sieve.",
+   "art": "A steel sieve held over a bowl, with fine atta falling through and a few husk bits left in the sieve."
+  },
+  {
    "term": "Ion",
    "meaning": "A tiny particle that carries a small electric charge. When salt dissolves, it comes apart into two kinds of ions, called sodium and chloride.",
    "example": "Salt water carries electricity because of its ions. Sugar water does not have ions, so it hardly carries electricity at all.",
@@ -174,7 +180,7 @@
    "concept": "Warm water and dissolving",
    "status": "defined",
    "definition": "In warm water, particles move faster, so most solids dissolve faster. For many solids, warm water can also hold more.",
-   "description": "Water particles are always moving. In warm water they move faster and bump into a sugar grain more often and harder. So sugar dissolves much faster in warm water than in ice-cold water. Warm water can also hold much more sugar. At 100 degrees Celsius, boiling water can dissolve more than twice as much sugar as cold water can. Salt is a surprise. Warm water dissolves salt a little faster, but it can hold hardly any more salt than cold water. That is why, in the Does Warm Water Take More Salt? test, warm water and cool water take almost the same number of spoons.",
+   "description": "Water particles are always moving. In warm water they move faster and bump into a sugar grain more often and harder. So sugar dissolves much faster in warm water than in ice-cold water. Warm water can also hold much more sugar. At 100 degrees Celsius, boiling water can dissolve more than twice as much sugar as cold water can. Salt is a surprise. Warm water dissolves salt a little faster, but it can hold hardly any more salt than cold water. That is why, in the Does Warm Water Take More Salt? test, warm water and cool water take almost the same number of spoons. Two more things speed up dissolving without changing the water's temperature. Stirring keeps bringing fresh water to the sugar, because the water right next to a grain soon fills up with sugar. Crushing sugar to a powder gives the water far more surface to work on, so a sugar lump takes much longer than the same sugar crushed. That is why a chai maker stirs, and why very fine sugar is used when you want a cold drink to be sweet fast.",
    "examples": [
     "Sugar dissolves quickly in hot tea but sits at the bottom of a glass of iced water.",
     "To make sugar syrup, cooks heat sugar and water together, because hot water dissolves much more sugar.",
@@ -215,6 +221,29 @@
    ],
    "art": "Atta water being poured through a cotton cloth over a bowl, with white atta paste left on the cloth and clearer water in the bowl.",
    "context": "This card explains the Strain It activity, where a cloth caught the atta but not the salt."
+  },
+  {
+   "concept": "Which way of separating fits which mixture",
+   "status": "defined",
+   "definition": "To separate a mixture, look at what each part is like. A sieve separates bits of different sizes, a magnet pulls out iron, a filter catches bits that have not dissolved, and evaporating brings back what has dissolved.",
+   "description": "A mixture is two or more things together that have not turned into something new. You can get them apart again, but the right way depends on the parts. If the bits are different sizes, such as small stones in dal, shake it in a sieve. The small dal falls through and the stones stay. If one part is iron, such as pins dropped in sand, a magnet pulls the iron out and leaves the sand. If one part dissolves and the other does not, such as atta stirred into water, a filter catches the atta. If both parts are in the water, one dissolved and one not, use the filter first and evaporation second. Evaporation brings back what has dissolved, like salt in the salt pans. No single way works for every mixture.",
+   "examples": [
+    "A cook sieves rice flour to take out lumps before making idiyappam batter.",
+    "Someone sweeping a workshop floor drags a magnet over it to pick up iron filings and nails.",
+    "To get clean salt from muddy sea water, first pour it through cloth, then let the sun evaporate the water."
+   ],
+   "perspectives": [
+    {
+     "who": "Farmers",
+     "explanation": "Winnow grain by tossing it in a flat tray in the wind, so the light husk blows away and the heavy grain falls back. It is an old way to separate by weight, and it needs no tool."
+    },
+    {
+     "who": "Chemists",
+     "explanation": "Name each way by what it uses: size, a magnet's pull, dissolving or boiling. They choose the way by finding the one thing that is different about the parts."
+    }
+   ],
+   "art": "Four small pictures: a sieve with stones left on top of dal, a magnet lifting iron pins out of sand, atta water through a cloth, and a dish of sea water drying in the sun into white crystals.",
+   "context": "This card follows the Strain It test and helps with the Clean the Muddy Water challenge."
   },
   {
    "concept": "Salt and sugar dissolve in different ways",
@@ -809,11 +838,11 @@
       "t": "mcq",
       "q": "In one test, ice-cold water took about 90 stirs, room water 45 and bath-warm water 20. What does this show?",
       "options": [
-       "The warmer the water, the faster the sugar dissolved",
        "Sugar only dissolves in warm water",
+       "The warmer the water, the faster the sugar dissolved",
        "The stirring was too slow"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Each warmer glass needed fewer stirs, so warmth made the sugar dissolve faster. The sugar also dissolves in cold water, but it takes much longer. Stirring was the same every time, so it cannot explain the difference."
      }
     }
@@ -904,11 +933,11 @@
       "t": "mcq",
       "q": "What did warm water do to how much salt could dissolve?",
       "options": [
-       "It doubled it",
        "It changed it very little",
+       "It doubled it",
        "It stopped salt dissolving"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Warm water can hold only a little more salt than cool water. Boiling water holds only about one tenth more. Sugar is the one that changes a lot with heat."
      }
     }
@@ -1001,10 +1030,10 @@
       "q": "Atta made the water white and cloudy. Did it dissolve?",
       "options": [
        "Yes, because the water changed colour",
-       "No, because the water was cloudy and the atta settled",
-       "Yes, because you could not see the grains"
+       "Yes, because you could not see the grains",
+       "No, because the water was cloudy and the atta settled"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Cloudy water means tiny bits are floating in it, and they settle when the water is still. A dissolved thing leaves the water clear, even if coloured. Coffee changed the colour and stayed clear, so it dissolved."
      }
     }
@@ -1095,11 +1124,11 @@
       "t": "mcq",
       "q": "Why did the salt go through the cloth?",
       "options": [
-       "The cloth had a hole in it",
        "The salt had dissolved into particles much smaller than the cloth's holes",
+       "The cloth had a hole in it",
        "Salt is a liquid"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Dissolved salt is in pieces far too small to see, much smaller than the gaps between the threads. The same cloth caught the atta, so it had no big hole. Salt is a solid that has dissolved, not a liquid."
      }
     }
@@ -1545,10 +1574,10 @@
       "q": "Turmeric makes water yellow. Then a yellow layer settles on the bottom. Did it dissolve?",
       "options": [
        "Yes, because the water turned yellow",
-       "Mostly not, because most of it settled",
-       "Yes, because it is a powder"
+       "Yes, because it is a powder",
+       "Mostly not, because most of it settled"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Most turmeric powder does not dissolve. The yellow colour you see is mostly tiny floating bits, which slowly settle. Being a powder does not make something dissolve: atta and chalk are powders too."
      },
      "parent": "Good answers use what is seen in water. Turmeric turns the water yellow, but then it settles, so it has not dissolved. Honey sinks at first, but it mixes in when stirred, so it has dissolved. Salt vanishes and the water stays clear, so it has dissolved."
@@ -1664,11 +1693,11 @@
       "t": "mcq",
       "q": "In the real Full Glass Test, why did salt land on the bottom first?",
       "options": [
-       "Salt is heavier than sugar",
        "The water reached its limit for salt much sooner than its limit for sugar",
+       "Salt is heavier than sugar",
        "Salt was added faster"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Water can dissolve far less salt than sugar. Its salt limit is reached after two or three spoons. Salt grains do sink, but so do sugar grains: sinking is not why they stay. In the test, both were added at the same speed."
      }
     }
@@ -1883,11 +1912,11 @@
      "t": "mcq",
      "p": "A torch beam shines through a glass of water from the side. You can see the beam clearly inside the water. What does that tell you?",
      "opts": [
-      "Salt is dissolved in it",
       "Tiny bits are floating in it and have not dissolved",
+      "Salt is dissolved in it",
       "The water is very hot"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The beam shows up when light hits floating bits. In a clear solution the beam is hard to see, because nothing floats in it.",
      "how": "a1"
     },
@@ -1972,13 +2001,34 @@
      "t": "mcq",
      "p": "Which glass dissolves a spoon of sugar fastest?",
      "opts": [
+      "Bath-warm water",
       "Ice-cold water",
-      "Room-temperature water",
-      "Bath-warm water"
+      "Room-temperature water"
      ],
-     "a": 2,
+     "a": 0,
      "why": "In warm water the water particles move faster. They knock sugar particles off the grains faster.",
      "how": "e2"
+    },
+    {
+     "t": "match",
+     "p": "Match each way of helping sugar dissolve to the reason it works.",
+     "pairs": [
+      [
+       "Warm the water",
+       "the water particles move faster"
+      ],
+      [
+       "Stir with a spoon",
+       "fresh water keeps reaching the sugar"
+      ],
+      [
+       "Crush the sugar to powder",
+       "more of the sugar touches the water"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each of these three things speeds up dissolving in its own way. Warmth makes the water particles busier. Stirring brings in fresh water. Crushing gives the water more sugar surface to work on.",
+     "how": "c2"
     },
     {
      "t": "write",
@@ -2038,11 +2088,11 @@
      "t": "mcq",
      "p": "Two glasses are left still for a day. One has mud in water. One has salt dissolved in water. What do you find?",
      "opts": [
-      "The mud has settled but the salt water looks the same",
       "Both have a layer on the bottom",
-      "The salt has settled but the mud water looks the same"
+      "The salt has settled but the mud water looks the same",
+      "The mud has settled but the salt water looks the same"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Mud does not dissolve, so it settles. Dissolved salt stays spread through the water, so the glass looks the same."
     },
     {
@@ -2088,11 +2138,11 @@
      "t": "mcq",
      "p": "Why does oil float on top of water in a bottle, even after you shake it?",
      "opts": [
-      "Oil dissolves and then comes back",
       "Oil does not dissolve in water, and it is lighter than water",
+      "Oil dissolves and then comes back",
       "Oil is a solid"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Oil does not dissolve in water. Its drops join up again and float, because oil is lighter than the same amount of water.",
      "how": "a4"
     },
@@ -2141,6 +2191,37 @@
      "how": "a2"
     },
     {
+     "t": "sort",
+     "p": "A kitchen helper has four messy mixtures. Sort each one by the best way to separate it.",
+     "cats": [
+      "Sieve",
+      "Magnet",
+      "Filter",
+      "Evaporate"
+     ],
+     "items": [
+      [
+       "small stones mixed in dal",
+       "Sieve"
+      ],
+      [
+       "iron pins mixed in sand",
+       "Magnet"
+      ],
+      [
+       "atta mixed in water",
+       "Filter"
+      ],
+      [
+       "salt dissolved in water",
+       "Evaporate"
+      ]
+     ],
+     "a": "see items",
+     "why": "A sieve catches big bits and lets small bits fall through. A magnet pulls out iron. A filter catches bits that have not dissolved. Only evaporating brings back something that has dissolved.",
+     "how": "c1"
+    },
+    {
      "t": "odd",
      "p": "Which one is not a solution?",
      "opts": [
@@ -2156,11 +2237,11 @@
      "t": "mcq",
      "p": "Coffee is made with filter coffee powder. What is left in the filter?",
      "opts": [
-      "Nothing, it all dissolved",
       "The coffee grounds, which did not dissolve",
+      "Nothing, it all dissolved",
       "Sugar"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Hot water dissolves the colour and flavour out of the powder. The rest of the powder does not dissolve and stays in the filter.",
      "how": "a5"
     },
@@ -2296,10 +2377,10 @@
      "p": "You want to dissolve as much sugar as possible in one cup of water. What should you do?",
      "opts": [
       "Use ice-cold water",
-      "Use hot water, with a grown-up's help",
-      "Use less stirring"
+      "Use less stirring",
+      "Use hot water, with a grown-up's help"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Hot water can hold much more sugar than cold water. Boiling water holds more than twice as much."
     },
     {
@@ -2407,11 +2488,11 @@
    "t": "mcq",
    "p": "A glass of water stops dissolving salt after 3 spoons. Then sugar is stirred into the same full salt water, and it keeps dissolving. What does this show?",
    "opts": [
-    "Water has a different limit for each thing",
     "The salt turned into sugar",
-    "The water was never full"
+    "The water was never full",
+    "Water has a different limit for each thing"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The water was full for salt but not for sugar. Each thing has its own limit in water, even when the grains look alike.",
    "outcome": 2,
    "how": "e1"
@@ -2432,24 +2513,37 @@
    "t": "mcq",
    "p": "Why does sugar dissolve faster in warm water?",
    "opts": [
-    "Warm water particles move faster and knock sugar particles off quicker",
     "Warm water is thinner",
-    "Sugar melts in warm water"
+    "Sugar melts in warm water",
+    "Warm water particles move faster and knock sugar particles off quicker"
    ],
-   "a": 0,
+   "a": 2,
    "why": "In warm water, water particles move faster and hit the grains more often. Sugar does not melt in warm water: it would need about 186 degrees Celsius to melt. It dissolves.",
    "outcome": 3,
    "how": "e2"
   },
   {
    "t": "mcq",
+   "p": "A big sugar lump and the same amount of sugar crushed to powder are put into two glasses of the same water. Which dissolves faster, and why?",
+   "opts": [
+    "The lump, because it is heavier",
+    "They take the same time, because it is the same sugar",
+    "The powder, because more of the sugar touches the water at once"
+   ],
+   "a": 2,
+   "why": "Water can only pull particles off the outside of a grain. Powder has far more outside than one lump, so it dissolves faster. The lump being heavy does not help it dissolve. The amount of sugar is the same, but how much of it touches the water is not.",
+   "outcome": 3,
+   "how": "c2"
+  },
+  {
+   "t": "mcq",
    "p": "You want cold lemonade with no sugar at the bottom. What should you do first?",
    "opts": [
     "Add lots of ice",
-    "Dissolve the sugar in a little warm water",
-    "Add the sugar last"
+    "Add the sugar last",
+    "Dissolve the sugar in a little warm water"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Sugar dissolves fast in warm water and then stays dissolved when cold water is added. Ice slows dissolving down.",
    "outcome": 3,
    "how": "a3"
@@ -2458,11 +2552,11 @@
    "t": "mcq",
    "p": "You pour salt water through a cotton cloth. What comes through?",
    "opts": [
-    "Plain water, with the salt left on the cloth",
     "Salt water",
+    "Plain water, with the salt left on the cloth",
     "Nothing"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Dissolved salt is far smaller than the gaps in the cloth, so it goes through. A cloth catches only things that have not dissolved, like atta or tea leaves.",
    "outcome": 4,
    "how": "a2"
@@ -2472,22 +2566,35 @@
    "p": "A tea strainer catches the tea leaves. Why does the tea in the cup still taste of tea?",
    "opts": [
     "Some leaves got through",
-    "The taste and colour dissolved in the water and went through",
-    "The cup adds the taste"
+    "The cup adds the taste",
+    "The taste and colour dissolved in the water and went through"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The flavour and colour dissolve in the hot water. The leaves themselves do not, so the strainer catches them.",
    "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "Rava and fine salt are mixed together in a bowl. The cook wants the rava back, clean and dry. What is the best way?",
+   "opts": [
+    "Pick every grain out with fingers",
+    "Put a magnet near it",
+    "Stir it into water, pour through cloth, dry what stays"
+   ],
+   "a": 2,
+   "why": "Salt dissolves in water and goes through the cloth, but rava does not dissolve and stays on the cloth. Picking out grains would take all day, and a magnet only pulls iron, which neither rava nor salt is. When you have to choose a way to separate a mixture, ask which part dissolves and which does not.",
+   "outcome": 4,
+   "how": "c1"
   },
   {
    "t": "mcq",
    "p": "You test how fast sugar dissolves in cold water and in warm water. To make it a fair test, what must stay the same?",
    "opts": [
     "The temperature of the water",
-    "The amount of water and sugar, and the stirring",
-    "Nothing"
+    "Nothing",
+    "The amount of water and sugar, and the stirring"
    ],
-   "a": 1,
+   "a": 2,
    "why": "In a fair test, only one thing changes. Here that is the temperature, so everything else stays the same. If the temperature stayed the same, there would be nothing to test.",
    "outcome": 5,
    "how": "e2"
@@ -2716,7 +2823,67 @@
    "why": "A science museum with hands-on exhibits about matter and everyday science."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-cotton-wool",
+   "item": "Cotton wool",
+   "kind": "material",
+   "why": "Used in Clean the Muddy Water. About ₹20 to ₹50. Torn clean cloth works.",
+   "url": "https://www.amazon.in/s?k=cotton+wool+roll",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before Clean the Muddy Water."
+  },
+  {
+   "id": "b-vinegar",
+   "item": "Vinegar",
+   "kind": "material",
+   "why": "Used in Oil and Water: will they ever mix?. About ₹40 to ₹80. Lemon juice works for many tests.",
+   "url": "https://www.amazon.in/s?k=white+vinegar",
+   "used_in": [
+    "a4"
+   ],
+   "plan": "Get it before Oil and Water: will they ever mix?."
+  },
+  {
+   "id": "b-clean-sand--a-small-bag",
+   "item": "Clean sand (a small bag)",
+   "kind": "material",
+   "why": "Used in Clean the Muddy Water. About ₹20 to ₹60. Fine soil sieved from a pot works.",
+   "url": "https://www.amazon.in/s?k=play+sand+small+bag",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before Clean the Muddy Water."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in Clean the Muddy Water. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before Clean the Muddy Water."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "Does sugar dissolve in water?",

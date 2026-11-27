@@ -581,11 +581,11 @@
       "t": "mcq",
       "q": "Which job suits a hormone better than a nerve?",
       "options": [
-       "Telling bones to grow for years",
        "Pulling a hand off a hot pot",
-       "Turning the head towards a sound"
+       "Turning the head towards a sound",
+       "Telling bones to grow for years"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Growing is slow, lasts for years and involves many kinds of cells. A hormone in the blood reaches them all. Pulling a hand away and turning the head must happen at once, in one place, so nerves do them."
      },
      "context": "This is the last step of Nerve, Hormone or Both. You sort the message cards into piles and compare the piles."
@@ -750,11 +750,11 @@
       "t": "mcq",
       "q": "A hormone reaches every cell in the blood's path. Why do only some cells answer?",
       "options": [
-       "Only some cells have its receptor",
        "It only reaches cells near the gland",
+       "Only some cells have its receptor",
        "The other cells are asleep"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A receptor is the lock that the hormone fits. A cell without that receptor is passed by. If you chose 'cells near the gland', remember that blood carries the hormone everywhere in about a minute."
      },
      "context": "This is the last step of Who Has the Lock. You count the locks for each hormone and ask why they differ."
@@ -1238,11 +1238,11 @@
       "t": "mcq",
       "q": "What do we call a quick answer that the body gives without waiting for a decision?",
       "options": [
-       "A reflex",
        "A hormone",
-       "A habit"
+       "A habit",
+       "A reflex"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A reflex is fast and needs no decision, like a blink at a clap. A hormone is a chemical in the blood. A habit is something you learned by doing it often."
      },
      "context": "This is the last step of Did I Decide That. You compare a chosen action with the blink and the foot reflex."
@@ -1783,12 +1783,12 @@
      "t": "mcq",
      "p": "What carries a nerve message from your fingertip to your spinal cord?",
      "opts": [
-      "Nerve fibres",
       "Blood",
+      "Nerve fibres",
       "Air in the lungs",
       "Bones"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A nerve message is a signal that travels along nerve fibres. Blood carries hormones, which are the other kind of message.",
      "outcome": 0
     },
@@ -1909,12 +1909,12 @@
      "t": "mcq",
      "p": "In the Water Message Test, both days started at the same time of day. Why?",
      "opts": [
-      "So only the drink was different",
       "So the water was colder",
       "So the clock was easier to read",
-      "So the kidneys were resting"
+      "So the kidneys were resting",
+      "So only the drink was different"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A fair test changes only one thing. The body handles water differently in the morning and at night. Keeping the time the same leaves the drink as the only difference.",
      "outcome": 5
     },
@@ -1938,12 +1938,12 @@
      "t": "mcq",
      "p": "Where does the message turn round when a hand pulls back from something hot?",
      "opts": [
-      "In the spinal cord",
       "In the heart",
       "In the fingertip",
-      "In the stomach"
+      "In the stomach",
+      "In the spinal cord"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The signal goes in to the spinal cord and crosses one or two synapses. Then it comes straight back out to the arm muscle.",
      "outcome": 3
     },
@@ -1975,12 +1975,12 @@
      "t": "mcq",
      "p": "Why does adrenaline change the heart but not a fingernail?",
      "opts": [
-      "The nail has no receptors for it",
       "The nail is too far away",
       "Blood never carries adrenaline",
+      "The nail has no receptors for it",
       "The nail is too hard"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A hormone changes only cells that have its receptor. Heart muscle cells have receptors for adrenaline. The tip of a nail is not made of living cells, so it has none.",
      "outcome": 4
     }
@@ -1996,12 +1996,12 @@
      "t": "mcq",
      "p": "Which message ends soonest after its sender stops sending?",
      "opts": [
-      "A nerve signal to a muscle",
       "Adrenaline in the blood",
       "Growth hormone in the blood",
+      "A nerve signal to a muscle",
       "Insulin in the blood"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A nerve message ends when the signals stop. A hormone stays in the blood until the body has cleared it, which takes minutes or hours.",
      "outcome": 2
     },
@@ -2009,12 +2009,12 @@
      "t": "mcq",
      "p": "What do sodium ions do when a nerve signal passes?",
      "opts": [
-      "They rush into the fibre",
       "They carry sugar to the brain",
+      "They rush into the fibre",
       "They glue two neurons together",
       "They make the fibre longer"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Tiny gates open and sodium ions rush in at one spot. That makes the next gates open, so the change moves along the fibre.",
      "outcome": 0
     },
@@ -2022,12 +2022,12 @@
      "t": "mcq",
      "p": "A person has plenty of a hormone, but their cells lack its receptor. What happens?",
      "opts": [
-      "The cells do not answer it",
       "The cells answer twice as hard",
+      "The cells do not answer it",
       "It turns into a nerve signal",
       "The blood stops flowing"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A hormone works only by fitting its receptor. Without the receptor, the hormone passes the cells and nothing changes, however much there is.",
      "outcome": 4
     },
@@ -2035,12 +2035,12 @@
      "t": "mcq",
      "p": "A fright is over, but the heart still pounds for some minutes. Why?",
      "opts": [
-      "Adrenaline is still in the blood",
       "The nerves are still sending the fright",
+      "Adrenaline is still in the blood",
       "The heart is tired",
       "The lungs are empty"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The nerve part of the fright ended at once. The adrenaline goes on working until the body has broken it down.",
      "outcome": 6
     },
@@ -2253,12 +2253,12 @@
      "t": "mcq",
      "p": "Some asthma medicines fit the adrenaline receptors of the airways. What do they do there?",
      "opts": [
-      "Make the airways widen",
       "Make the heart stop",
       "Make the bones grow",
-      "Make the kidneys save water"
+      "Make the kidneys save water",
+      "Make the airways widen"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Adrenaline tells the muscle round the airways to relax, so the airways widen. A medicine that fits the same receptor gives the same order.",
      "outcome": 4
     },
@@ -2386,12 +2386,12 @@
    "t": "mcq",
    "p": "Which sentence about a nerve message is true?",
    "opts": [
-    "It travels along fibres to one place",
     "It travels in the blood",
+    "It travels along fibres to one place",
     "It takes hours to arrive",
     "It reaches every cell"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A nerve message travels along nerve fibres and arrives where those fibres end. The other three answers describe a hormone message.",
    "outcome": 0
   },
@@ -2412,12 +2412,12 @@
    "t": "mcq",
    "p": "Which of these happens fastest?",
    "opts": [
-    "A reflex",
     "Growing one centimetre",
     "Feeling sleepy at night",
-    "Pee turning pale after a drink"
+    "Pee turning pale after a drink",
+    "A reflex"
    ],
-   "a": 0,
+   "a": 3,
    "why": "A reflex is carried by nerves and is over in a fraction of a second. The other three are the work of hormones and take minutes, hours or months.",
    "outcome": 2
   },
@@ -2425,12 +2425,12 @@
    "t": "mcq",
    "p": "You step on a sharp stone and your foot lifts at once. Where did the message turn round?",
    "opts": [
-    "In the spinal cord",
     "In the stomach",
     "In the heart",
-    "In the stone"
+    "In the stone",
+    "In the spinal cord"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The signal went up a nerve to the spinal cord and straight back down to the leg muscles. The brain heard about it a moment later.",
    "outcome": 3
   },
@@ -2451,12 +2451,12 @@
    "t": "mcq",
    "p": "You run the Water Message Test on two days. What must be the same on both days?",
    "opts": [
-    "Time of day and an empty bladder",
     "The amount of water drunk",
+    "Time of day and an empty bladder",
     "The colour of the tumbler",
     "The weather report on television"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The amount of water is the one thing that changes. Everything else that could change the result must stay the same. That includes the time of day and how full the bladder is.",
    "outcome": 5
   },
@@ -2464,12 +2464,12 @@
    "t": "mcq",
    "p": "A sudden bang makes you jump, and then your heart pounds for minutes. Which messengers were at work?",
    "opts": [
-    "Nerves first, then a hormone",
     "A hormone first, then nerves",
     "Only nerves",
+    "Nerves first, then a hormone",
     "Only hormones"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The jump is fast, so nerves carried it. The pounding goes on after the bang is over, because adrenaline is still in the blood.",
    "outcome": 6
   },
@@ -2477,12 +2477,12 @@
    "t": "mcq",
    "p": "How did scientists first show that some messages travel in the blood?",
    "opts": [
-    "A message arrived with the nerves cut",
     "They asked patients how they felt",
+    "A message arrived with the nerves cut",
     "They weighed the blood",
     "They cooled the nerves with ice"
    ],
-   "a": 0,
+   "a": 1,
    "why": "In 1902 Bayliss and Starling cut every nerve to a piece of gut. Acid in that piece still made the pancreas pour out juice, so the message had gone by the blood.",
    "outcome": 7
   },
@@ -2490,12 +2490,12 @@
    "t": "mcq",
    "p": "What crosses the gap at a synapse?",
    "opts": [
-    "A chemical",
     "A drop of blood",
     "A spark you can see",
-    "A tiny bone"
+    "A tiny bone",
+    "A chemical"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The end of the nerve fibre lets out a chemical. It drifts across the gap and starts a new signal on the other side.",
    "outcome": 0
   },
@@ -2503,12 +2503,12 @@
    "t": "mcq",
    "p": "Why can a hormone message last longer than a nerve message?",
    "opts": [
-    "The hormone stays in the blood longer",
     "Hormones are heavier than nerves",
     "Nerves get tired after one signal",
-    "Blood moves more slowly at night"
+    "Blood moves more slowly at night",
+    "The hormone stays in the blood longer"
    ],
-   "a": 0,
+   "a": 3,
    "why": "A nerve message ends when the signals stop. A hormone goes on working until the liver and kidneys have cleared it from the blood.",
    "outcome": 2
   },
@@ -2803,6 +2803,54 @@
     "e1"
    ],
    "plan": "During the waits in the Water Message Test, a parent can read the first chapters for their own interest."
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in Wool Paths: measure a reflex path on your own body. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before Wool Paths: measure a reflex path on your own body."
+  },
+  {
+   "id": "b-a-digital-stopwatch--optiona",
+   "item": "A digital stopwatch (optional)",
+   "kind": "tool",
+   "why": "Used in Squeeze Chain: time a nerve message through two bodies. About ₹150 to ₹400. A phone stopwatch works well.",
+   "url": "https://www.amazon.in/s?k=digital+stopwatch",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Get it before Squeeze Chain: time a nerve message through two bodies."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Wool Paths: measure a reflex path on your own body. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before Wool Paths: measure a reflex path on your own body."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

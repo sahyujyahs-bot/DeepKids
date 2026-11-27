@@ -68,6 +68,24 @@
    "meaning": "A quarry is a big open pit where people dig or cut rock out of the ground.",
    "example": "Kota stone, used for floors in many homes, comes from quarries near Kota in Rajasthan.",
    "art": "A wide pit with stepped grey sides, a digging machine and a truck, and a line of trees at the top edge."
+  },
+  {
+   "term": "Absorb",
+   "meaning": "To absorb is to soak up water, the way chalk or a sponge does. A rock that absorbs water has tiny gaps inside that fill up.",
+   "example": "Drop water on a piece of chalk and it soaks in and the spot goes dark. The chalk has absorbed the water.",
+   "art": "A piece of chalk with a drop of water sinking in and a dark spot spreading."
+  },
+  {
+   "term": "Waterproof",
+   "meaning": "Waterproof means that water cannot soak in. Water stays on the top and runs off. Slate and polished granite are waterproof rocks.",
+   "example": "Rain runs off a slate roof tile and drips down, and none of it soaks in.",
+   "art": "Raindrops sliding down a slate tile and dripping off the edge."
+  },
+  {
+   "term": "Humus",
+   "meaning": "Humus is the dark part of soil made from dead leaves and dead animals that have rotted away. It is soft and crumbly and it feeds plants.",
+   "example": "Dig under the fallen leaves below a mango tree. The dark crumbly soil there is humus.",
+   "art": "A handful of dark crumbly soil beside fallen mango leaves."
   }
  ],
  "explanations": [
@@ -93,7 +111,8 @@
    "examples": [
     "A fingernail scratches a chalk stick.",
     "A steel coin scratches marble.",
-    "Nothing at home scratches a quartz pebble, except another quartz pebble or something harder."
+    "Nothing at home scratches a quartz pebble, except another quartz pebble or something harder.",
+    "Drop water on a piece of sandstone and it soaks in and leaves a dark patch. Drop water on slate and it stays in a bead on top, because slate keeps water out."
    ],
    "perspectives": [],
    "context": "This card is about how we tell a hard rock from a soft one, by scratching.",
@@ -134,11 +153,12 @@
    "concept": "Digging rock and sand out of the land",
    "status": "debated",
    "definition": "",
-   "description": "People dig rock out of quarries and scoop sand from river beds to build homes, roads, bridges and schools. A quarry can turn a hill with trees into a deep pit. The birds, insects and other animals who lived there lose their home. Too much sand taken from a river makes the river bed deeper. Then the banks can fall in and nearby wells can dry up. People argue about how much digging is fair.",
+   "description": "People dig rock out of quarries and scoop sand from river beds to build homes, roads, bridges and schools. A quarry can turn a hill with trees into a deep pit. The birds, insects and other animals who lived there lose their home. Too much sand taken from a river makes the river bed deeper. Then the banks can fall in and nearby wells can dry up. People argue about how much digging is fair. Pebbles and gravel for building are dug from river beds too, along with sand.",
    "examples": [
     "Granite quarries in Karnataka and Tamil Nadu.",
     "Sand taken from river beds for building in many states.",
-    "An old quarry that has filled with rain and become a lake, where birds now come."
+    "An old quarry that has filled with rain and become a lake, where birds now come.",
+    "Pebbles and gravel dug from river beds to make concrete for houses and roads."
    ],
    "perspectives": [
     {
@@ -485,11 +505,11 @@
       "t": "mcq",
       "q": "Why does a builder want to dig the hill?",
       "options": [
-       "To get stone for homes and a school",
        "To make the hill taller",
-       "To find water for goats"
+       "To find water for goats",
+       "To get stone for homes and a school"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Builders need hard rock like granite for walls, floors and roads. That is why quarries are dug."
      }
     }
@@ -653,11 +673,11 @@
       "t": "mcq",
       "q": "Which pieces changed the least after 100 shakes?",
       "options": [
-       "The stone chips",
        "The chalk",
-       "The salt crystals"
+       "The salt crystals",
+       "The stone chips"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Chalk and salt are soft, so each knock took off grains. The hard stone chips hardly changed."
      },
      "parent": "Chalk usually loses its corners and makes white dust. Salt crystals may round a little or just crumble into grains, and either is fine. Stone chips stay sharp. Write down what you really see, even if it is not what you guessed."
@@ -967,11 +987,11 @@
       "t": "mcq",
       "q": "Why does granite have specks of different colours?",
       "options": [
-       "It is made of grains of different minerals",
        "It was painted",
+       "It is made of grains of different minerals",
        "It is dirty"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Granite is made of several minerals packed together. Different minerals usually have different colours, so we see specks."
      }
     }
@@ -1372,11 +1392,11 @@
      "t": "mcq",
      "p": "In the Scratch Ladder, a coin scratched the marble but not the pebble. Which is harder?",
      "opts": [
-      "The pebble",
       "The marble",
-      "They are the same"
+      "They are the same",
+      "The pebble"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A harder thing scratches a softer one. The coin could scratch the marble but not the pebble, so the pebble is harder.",
      "how": "e2"
     },
@@ -1431,6 +1451,12 @@
      "why": "True. Rock that is knocked and rubbed for a long time breaks into tiny grains. Most sand grains are bits of rock, often quartz."
     },
     {
+     "t": "fill",
+     "p": "Pebbles and gravel for building are often dug out of river ________.",
+     "a": "beds",
+     "why": "The river bed is the ground under the water. Rivers leave stones there, so they can be dug out."
+    },
+    {
      "t": "order",
      "p": "Put these rocks in order, from softest to hardest.",
      "items": [
@@ -1482,11 +1508,11 @@
      "t": "mcq",
      "p": "Someone says a quarry does no harm because it is only rock. What did they forget?",
      "opts": [
-      "Plants and animals lived on the hill, and lose their home",
       "Rock is soft",
+      "Plants and animals lived on the hill, and lose their home",
       "Quarries make hills taller"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A hill is a home for plants, birds, insects and other animals. Digging a quarry takes that home away."
     }
    ]
@@ -1526,11 +1552,11 @@
      "t": "mcq",
      "p": "You want a step that will last 500 years. Which rock should you choose?",
      "opts": [
-      "Granite",
       "Chalk",
-      "Rock salt"
+      "Rock salt",
+      "Granite"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Granite is very hard, so feet wear it away very slowly. Chalk and rock salt are soft, and salt dissolves in rain."
     },
     {
@@ -1641,11 +1667,11 @@
    "t": "mcq",
    "p": "What are most rocks made of?",
    "opts": [
-    "Grains of minerals packed together",
     "Hard mud and leaves",
+    "Grains of minerals packed together",
     "Melted glass"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Most rocks are grains of minerals packed tight, like the specks in granite. 'Hard mud' is a common guess, but only some rocks start as mud.",
    "outcome": 0
   },
@@ -1665,11 +1691,11 @@
    "t": "mcq",
    "p": "Soft chalk pieces and hard stone chips are shaken together in a closed tiffin box. Which lose their corners first?",
    "opts": [
-    "The soft chalk pieces",
     "The hard stone chips",
+    "The soft chalk pieces",
     "All pieces at the same speed"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Chalk is soft, so each knock takes off grains. Hard stone loses grains very slowly, so it hardly changes.",
    "outcome": 3,
    "how": "e1"
@@ -1678,11 +1704,11 @@
    "t": "mcq",
    "p": "Why are the corners of a rock the first part to wear away?",
    "opts": [
-    "They stick out, so they get knocked most",
     "They are made of softer rock",
+    "They stick out, so they get knocked most",
     "The corners are always a different kind of rock"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Corners stick out, so most knocks land on them. That is why pieces turn round, not just smaller.",
    "outcome": 3
   },
@@ -1702,11 +1728,11 @@
    "t": "mcq",
    "p": "A builder wants a stone that can be polished till it shines white, for a great monument. Which rock fits best?",
    "opts": [
-    "White marble",
     "Red laterite",
-    "Black coal"
+    "Black coal",
+    "White marble"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Marble can be polished till it shines. The Taj Mahal is built of white marble. Laterite is red and rough, and coal is black and crumbles.",
    "outcome": 1
   },
@@ -1726,11 +1752,11 @@
    "t": "mcq",
    "p": "A perfectly round stone pebble lies by a river. How did it get round?",
    "opts": [
-    "The river rolled it against sand and stones for a long time",
     "It was born round",
-    "The sun melted its corners"
+    "The sun melted its corners",
+    "The river rolled it against sand and stones for a long time"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Moving water knocks and rubs stones. Over a long time the corners wear off and the stone turns round.",
    "outcome": 3
   },
@@ -1738,11 +1764,11 @@
    "t": "mcq",
    "p": "A hill is dug into a quarry. Who loses something?",
    "opts": [
-    "The plants, birds and other animals who lived on the hill",
     "Nobody, because it is only rock",
-    "Only the rocks"
+    "Only the rocks",
+    "The plants, birds and other animals who lived on the hill"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A hill is a home. When it is dug away, the plants and animals living there lose their home. People nearby may lose grazing land or water too.",
    "outcome": 5
   },
@@ -1756,6 +1782,18 @@
    ],
    "a": 0,
    "why": "Stone, sand and gravel are used for walls, floors, cement and roads. That is why quarries and sand mining exist.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "A builder needs gravel to mix into concrete. Where can gravel come from?",
+   "opts": [
+    "The leaves on the top of a tree",
+    "The rain clouds in the sky",
+    "Small pebbles and stones lying in a river bed"
+   ],
+   "a": 2,
+   "why": "Gravel is a mix of small pebbles and stones. Rivers carry them and leave them in their beds, so people dig them out there. Leaves and clouds are not rock.",
    "outcome": 5
   },
   {
@@ -1937,6 +1975,55 @@
     "e2"
    ],
    "plan": "Optional. Use it in Specks in the Stone and the Scratch Ladder."
+  },
+  {
+   "id": "b-clean-sand--a-small-bag",
+   "item": "Clean sand (a small bag)",
+   "kind": "material",
+   "why": "Used in The Fastest Pebble Maker. About ₹20 to ₹60. Fine soil sieved from a pot works.",
+   "url": "https://www.amazon.in/s?k=play+sand+small+bag",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before The Fastest Pebble Maker."
+  },
+  {
+   "id": "b-marbles--a-few",
+   "item": "Marbles (a few)",
+   "kind": "material",
+   "why": "Used in The Scratch Ladder: which rock is hardest?, My Rock Box: collect, test and label. About ₹10 to ₹40. Small round stones or dried chana.",
+   "url": "https://www.amazon.in/s?k=glass+marbles+pack",
+   "used_in": [
+    "e2",
+    "p1"
+   ],
+   "plan": "Get it before The Scratch Ladder: which rock is hardest?."
+  },
+  {
+   "id": "b-iron-nails-or-iron-filings",
+   "item": "Iron nails or iron filings",
+   "kind": "material",
+   "why": "Used in The Scratch Ladder: which rock is hardest?. About ₹20 to ₹80. Short steel nails from a hardware shop.",
+   "url": "https://www.amazon.in/s?k=iron+filings+science",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before The Scratch Ladder: which rock is hardest?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

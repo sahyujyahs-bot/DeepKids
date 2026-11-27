@@ -157,11 +157,12 @@
    "concept": "Plates: the broken shell that moves",
    "status": "defined",
    "definition": "A plate is a huge slab of the crust and the stiff top of the mantle. The plates move a few centimetres every year, carrying the land and the sea floor with them.",
-   "description": "The hard outer shell of the Earth is not one piece. It is broken into about seven very large plates and many smaller ones, a little like the shell of a boiled egg that has been cracked all over. The plates are 50 to 250 kilometres thick. They ride on mantle rock that is softer and creeps. Most plates move between 2 and 10 centimetres a year, which is about as fast as your fingernails grow. That sounds like nothing. But in a million years, 5 centimetres a year adds up to 50 kilometres. Satellites now measure this movement directly. A marker fixed to the rock in Bengaluru moves about 5 centimetres towards the north-east every year, along with all of India.",
+   "description": "The hard outer shell of the Earth is not one piece. It is broken into about seven very large plates and many smaller ones, a little like the shell of a boiled egg that has been cracked all over. The plates are 50 to 250 kilometres thick. They ride on mantle rock that is softer and creeps. Most plates move between 2 and 10 centimetres a year, which is about as fast as your fingernails grow. That sounds like nothing. But in a million years, 5 centimetres a year adds up to 50 kilometres. Satellites now measure this movement directly. A marker fixed to the rock in Bengaluru moves about 5 centimetres towards the north-east every year, along with all of India. Two slow forces also change the land. Plates push, bend and lift it. Erosion is the slow wearing away of land by rain, rivers, wind and ice. The rocks keep the marks: layers laid down by water, with fossils in them (the remains or prints of living things), show what the land was like long ago.",
    "examples": [
     "The Indian plate carries India, Sri Lanka and a large part of the Indian Ocean floor.",
     "The Pacific plate is the largest. It is almost all sea floor.",
-    "A child who is 9 years old has travelled about 45 centimetres with the Indian plate since she was born."
+    "A child who is 9 years old has travelled about 45 centimetres with the Indian plate since she was born.",
+    "Rivers coming down from the Himalaya carry away rock that the plates have pushed up, and drop it on the plains."
    ],
    "art": "A world map with the plates outlined like pieces of a cracked shell, each with an arrow showing which way it moves, and the Indian plate coloured.",
    "context": "This card explains the one idea that ties volcanoes, earthquakes and mountains together: the ground is broken into plates, and the plates move.",
@@ -802,11 +803,11 @@
       "t": "mcq",
       "q": "Why did India slow down after it met Asia?",
       "options": [
-       "Two continents met and neither could dive under",
        "The mantle cooled and went hard",
+       "Two continents met and neither could dive under",
        "India ran out of sea to cross"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Continent rock is too light to sink into the mantle, so the two lands jammed and crumpled into the Himalaya. The mantle did not go hard. If you chose the sea, remember that the plate is moved by forces in the rock and not by the water."
      },
      "parent": "With 4 players the cards may go round twice, which is fine. A player who misses a turn still listens to the other squares being read.",
@@ -960,11 +961,11 @@
       "t": "mcq",
       "q": "During a wait, the box is not moving. Where is the energy of your pull going?",
       "options": [
-       "Into the stretched rubber band",
        "Nowhere, because nothing is moving",
+       "Into the stretched rubber band",
        "Into the cloth"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Your hand moves, so you are doing work, and the band stores it as it stretches. If you chose 'nowhere', look at the band during the next wait. It gets longer with every count, and all of that is let go in the jump."
      },
      "parent": "A heavier box presses harder on the cloth, so the band must stretch further before it wins. Most families see longer waits and bigger jumps. Most children get only one or two calls right out of 8, and some get none. That is the result. Do not help them to do better.",
@@ -1069,11 +1070,11 @@
       "t": "mcq",
       "q": "In which liquid did the air find it harder to get out?",
       "options": [
-       "The thick batter",
        "The water",
+       "The thick batter",
        "It was the same in both"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A thick liquid flows slowly, so it closes in around a bubble and holds it. The bubble must grow large before it can push its way up. If you chose water, watch again and time how long the bubbles stay after you stop blowing."
      },
      "parent": "In water the bubbles are small, rise at once and are gone in about a second. In batter the air collects into large bubbles that push the surface up into a dome and burst with a plop, sometimes throwing specks. Some stay trapped for many seconds. Blowing hard into the water makes it splash, which spoils the test, so keep the breath gentle. Keep the tumblers on a plate to catch drips.",
@@ -1692,11 +1693,11 @@
      "t": "mcq",
      "p": "Which layer of the Earth do we live on?",
      "opts": [
-      "The crust",
       "The mantle",
-      "The outer core"
+      "The outer core",
+      "The crust"
      ],
-     "a": 0,
+     "a": 2,
      "why": "We live on the crust, the thin outer layer. The mantle begins tens of kilometres below us, and nobody has ever reached it.",
      "outcome": 0
     },
@@ -1777,11 +1778,11 @@
      "t": "mcq",
      "p": "What do we call the place on the surface straight above the start of an earthquake?",
      "opts": [
-      "The epicentre",
       "The focus",
-      "The crater"
+      "The crater",
+      "The epicentre"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The epicentre is on the surface. The focus is the place underground where the slip begins. A crater belongs to a volcano.",
      "outcome": 2
     },
@@ -1925,11 +1926,11 @@
      "t": "mcq",
      "p": "What are the Deccan Traps mostly made of?",
      "opts": [
-      "Basalt, which is cooled lava",
       "Sand laid down by rivers",
+      "Basalt, which is cooled lava",
       "Old coral reefs"
      ],
-     "a": 0,
+     "a": 1,
      "why": "They are layer upon layer of basalt from lava floods. Sandstone and coral rock form in water, in a quite different way.",
      "outcome": 5
     },
@@ -2001,11 +2002,11 @@
      "t": "mcq",
      "p": "How much more does the ground move in a magnitude 7 earthquake than in a magnitude 6?",
      "opts": [
-      "10 times more",
       "Twice as much",
+      "10 times more",
       "A little more"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Each whole step in magnitude means ten times more ground movement. If you chose 'a little more', remember that the scale multiplies and does not add.",
      "outcome": 2
     },
@@ -2015,6 +2016,12 @@
      "a": true,
      "why": "True. Magnitude measures the size at the source. How hard the ground shakes at your home depends on your distance and on the soil under you.",
      "outcome": 2
+    },
+    {
+     "t": "fill",
+     "p": "Rain, rivers, wind and ice wear the land down slowly. This is called ________.",
+     "a": "erosion",
+     "why": "Erosion is the slow wearing away of land. Plates lift and fold land. Erosion wears it down. Both happen at the same time."
     },
     {
      "t": "sort",
@@ -2127,11 +2134,11 @@
      "t": "mcq",
      "p": "Why does a P wave reach a seismograph before an S wave from the same earthquake?",
      "opts": [
-      "It travels faster",
       "It sets off earlier",
+      "It travels faster",
       "It is stronger"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Both leave at the same moment. P waves travel at about 6 kilometres a second in the crust and S waves at about 4, so the P wave wins the race.",
      "outcome": 2
     },
@@ -2356,11 +2363,11 @@
    "t": "mcq",
    "p": "About how fast do plates move?",
    "opts": [
-    "As fast as fingernails grow",
     "As fast as a person walks",
-    "They stay where they are"
+    "They stay where they are",
+    "As fast as fingernails grow"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Plates move 2 to 10 centimetres a year. If you chose 'they stay', remember that satellites measure the movement every day.",
    "outcome": 1
   },
@@ -2368,11 +2375,11 @@
    "t": "mcq",
    "p": "What happens where two plates carrying continents push together?",
    "opts": [
-    "High mountains rise",
     "A new ocean opens",
+    "High mountains rise",
     "A hot spot forms"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Continent rock is too light to dive, so it crumples and piles up, as in the Himalaya. A new ocean opens where plates move apart.",
    "outcome": 1
   },
@@ -2380,11 +2387,11 @@
    "t": "mcq",
    "p": "What makes the ground shake in an earthquake?",
    "opts": [
-    "Stuck rock suddenly slipping",
     "Wind rushing out of caves",
+    "Stuck rock suddenly slipping",
     "The core spinning faster"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Rock bends while a fault is stuck and then slips. The wind idea is very old and was given up when faults were studied.",
    "outcome": 2
   },
@@ -2399,11 +2406,11 @@
    "t": "mcq",
    "p": "Why do some volcanoes explode?",
    "opts": [
-    "Sticky magma traps the gas",
     "They are taller than others",
+    "Sticky magma traps the gas",
     "Their lava is colder than ice"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Thick magma holds its bubbles until the push blows it apart. Runny magma lets the gas out, and its lava flows quietly.",
    "outcome": 3
   },
@@ -2411,11 +2418,11 @@
    "t": "mcq",
    "p": "A volcano has been quiet for 300 years. What is the most truthful thing to say?",
    "opts": [
-    "It may still erupt again",
     "It is certainly dead",
+    "It may still erupt again",
     "It was never a volcano"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A volcano's life is far longer than 300 years. Barren Island was quiet for well over a century before 1991.",
    "outcome": 3
   },
@@ -2423,11 +2430,11 @@
    "t": "mcq",
    "p": "Where do most earthquakes and volcanoes happen?",
    "opts": [
-    "Along the edges of plates",
     "Evenly all over the Earth",
-    "Only in hot countries"
+    "Only in hot countries",
+    "Along the edges of plates"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Marked on a map, they fall into narrow belts along plate edges. Iceland and Alaska are cold and have plenty of both.",
    "outcome": 4
   },
@@ -2435,11 +2442,11 @@
    "t": "mcq",
    "p": "Which of these lies far from any plate edge?",
    "opts": [
-    "Latur",
     "Kathmandu",
+    "Latur",
     "The Nicobar Islands"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Latur is deep inside the Indian plate, which is why its earthquake in 1993 surprised people. The other two lie along plate edges.",
    "outcome": 4
   },
@@ -2447,11 +2454,11 @@
    "t": "mcq",
    "p": "What built the Himalaya?",
    "opts": [
-    "India pushing into Asia",
     "A giant volcano",
+    "India pushing into Asia",
     "The Deccan lava floods"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The sea floor between India and Asia was squeezed and lifted. That is why the high rocks hold sea shells and no lava.",
    "outcome": 5
   },
@@ -2459,11 +2466,11 @@
    "t": "mcq",
    "p": "Where is India's active volcano?",
    "opts": [
-    "Barren Island, in the Andaman Sea",
     "Mahabaleshwar, in Maharashtra",
-    "Bhuj, in Gujarat"
+    "Bhuj, in Gujarat",
+    "Barren Island, in the Andaman Sea"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Barren Island sits above a diving plate. Mahabaleshwar is old Deccan lava that stopped flowing about 66 million years ago.",
    "outcome": 5
   },
@@ -2478,6 +2485,18 @@
    "a": 0,
    "why": "Sensors catch the first waves and send an alert ahead of the strong shaking. Nobody can name the day or stop the slip.",
    "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "Rain and rivers wear a hill down a little every year, and carry the grains away. What is this called?",
+   "opts": [
+    "Lava",
+    "A seismic wave",
+    "Erosion"
+   ],
+   "a": 2,
+   "why": "Erosion is the slow wearing away of land by rain, rivers, wind and ice. Lava is melted rock that has reached the surface, and a seismic wave carries an earthquake's energy. Neither wears land away.",
+   "outcome": 1
   },
   {
    "t": "mcq",
@@ -2737,23 +2756,47 @@
   },
   {
    "title": "Smritivan Earthquake Memorial and Museum",
-   "url": "https://smritivanearthquakemuseum.com/",
+   "url": "https://smritivanearthquakemuseum.org/",
    "kind": "place",
    "where": "Bhuj",
    "why": "A museum on Bhujiyo hill about the 2001 earthquake, with a room where you can feel a simulated earthquake. Check the opening times before you go."
-  },
-  {
-   "title": "Government Museum, Chennai",
-   "url": "https://www.chennaimuseum.org/",
-   "kind": "place",
-   "where": "Chennai",
-   "why": "Its geology gallery has rocks, minerals and fossils from South India, including basalt and granite. Check the opening times before you go."
   },
   {
    "title": "St Mary's Islands",
    "kind": "place",
    "where": "Malpe, near Udupi",
    "why": "Six-sided columns of lava from 88 million years ago, reached by a short boat ride from Malpe beach in the dry months. Boats stop during the monsoon."
+  },
+  {
+   "title": "Earth Science Lab: Plate Boundaries Map",
+   "url": "https://earthsciencelab.org/",
+   "kind": "simulation",
+   "why": "Switch earthquakes and volcanoes on over a world map of plate edges and see how they line up. It is made for ages 10 and up, so a parent may need to help a younger child."
+  },
+  {
+   "title": "Earthquake! (Field Day)",
+   "url": "https://fielddaylab.wisc.edu/play/earthquake",
+   "kind": "interactive",
+   "why": "A free game that uses shockwaves and tin-can towns to show how scientists find where an earthquake started from its P and S waves."
+  },
+  {
+   "title": "World map of plates, earthquakes and volcanoes (IRIS)",
+   "url": "https://www.iris.edu/hq/inclass/interactive/world_tectonic_plates_earthquakes__volcanoes",
+   "kind": "interactive",
+   "why": "One map that shows earthquakes and volcanoes lining up along the plate edges."
+  },
+  {
+   "title": "Space Volcanoes (NASA Space Place)",
+   "url": "https://spaceplace.nasa.gov/volcanoes/en/",
+   "kind": "interactive",
+   "why": "Visit volcanoes across the Solar System and compare them with the ones on Earth."
+  },
+  {
+   "title": "Indian Museum, Geological Survey of India galleries",
+   "url": "https://gsi.gov.in/virtual-museum",
+   "kind": "place",
+   "where": "Kolkata",
+   "why": "The Geological Survey of India keeps rock, mineral and fossil galleries in the Indian Museum. Check the opening times before you go."
   }
  ],
  "buy": [
@@ -2778,6 +2821,34 @@
     "p1"
    ],
    "plan": "Keep it open beside the map in Dots That Make Lines, and use it each day of the earthquake diary to find the places."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Sticking Box: can you tell when it will jump?, Runny or sticky: which one traps the bubbles?, How thin is the ground? Draw the Earth to scale. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e2",
+    "a1",
+    "c1"
+   ],
+   "plan": "Get it before The Sticking Box: can you tell when it will jump?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [
@@ -2906,5 +2977,5 @@
   "wrong_idea": "Geologists held that the continents never move, and that sunken land bridges explained matching fossils. Marie Tharp's map of a rift in the ocean ridge, the earthquakes along it and the magnetic stripes beside it showed that the sea floor spreads and the continents travel.",
   "context": "Do continents stay where they are? This card tells how an idea that was laughed at for fifty years turned out to be right, and who found the evidence."
  },
- "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. Sticking Box: the pull needed and the jump sizes were worked out on paper for a 1 kilogram box on cotton cloth with two thin rubber bands. Real bands and floors differ a lot, so the steps give fixes for a box that glides and for a band that over-stretches. Try it with three kinds of cloth before the lesson goes live. Runny or Sticky: the batter thickness matters, and the steps say how to adjust it. Lemon Tower: check that 1 metre of tape is enough for a first tower. Facts to check again before going live: the death toll and magnitude for Bhuj 2001 and for the 2004 tsunami, the arrival time of the 2004 waves in Tamil Nadu, the dates of Barren Island's eruptions, the 88 million year age of St Mary's Islands, the base-isolated hospital at Bhuj, the Coimbatore earthquake of 1900, the wording of Isha Upanishad 5, Dhammapada 277 and Cratylus 402a, and the list of views in Brihat Samhita chapter 32. The three video addresses were matched to their titles and channels but the videos were not watched. Two link addresses, for the National Centre for Seismology and the Smithsonian, could not be opened from the writing machine and need a check by hand."
+ "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. Sticking Box: the pull needed and the jump sizes were worked out on paper for a 1 kilogram box on cotton cloth with two thin rubber bands. Real bands and floors differ a lot, so the steps give fixes for a box that glides and for a band that over-stretches. Try it with three kinds of cloth before the lesson goes live. Runny or Sticky: the batter thickness matters, and the steps say how to adjust it. Lemon Tower: check that 1 metre of tape is enough for a first tower. Facts to check again before going live: the death toll and magnitude for Bhuj 2001 and for the 2004 tsunami, the arrival time of the 2004 waves in Tamil Nadu, the dates of Barren Island's eruptions, the 88 million year age of St Mary's Islands, the base-isolated hospital at Bhuj, the Coimbatore earthquake of 1900, the wording of Isha Upanishad 5, Dhammapada 277 and Cratylus 402a, and the list of views in Brihat Samhita chapter 32. The three video addresses were matched to their titles and channels but the videos were not watched. Two link addresses, for the National Centre for Seismology and the Smithsonian, could not be opened from the writing machine and need a check by hand. Links were checked on 27 Nov 2026 (the Chennai museum site was removed because it showed spam). The St Mary's Islands boat times and the content of the three videos are still to be checked by hand."
 }

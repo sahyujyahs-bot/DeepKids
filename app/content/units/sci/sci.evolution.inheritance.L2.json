@@ -389,11 +389,11 @@
       "t": "mcq",
       "q": "Which card goes on the Both mat?",
       "options": [
-       "Brown eyes",
        "Being tall",
+       "Brown eyes",
        "Making rasam"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Height comes from genes and from good food and health. Eye colour comes from genes. Making rasam is learned."
      }
     }
@@ -632,11 +632,11 @@
       "t": "mcq",
       "q": "What did you find after practice?",
       "options": [
-       "More balls went in, and the thumb stayed the same",
        "The thumb got longer",
-       "Nothing changed at all"
+       "Nothing changed at all",
+       "More balls went in, and the thumb stayed the same"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Practice changes a skill, like throwing. It does not change a body feature, like the length of your thumb. That comes from genes."
      },
      "parent": "If the number did not go up, that can happen in one short session. Practise again tomorrow for five minutes and test again. Scores usually rise with more practice. The new thumb mark should be in the same place, or within the width of a pencil line. A tiny difference comes from measuring, not from growing."
@@ -951,11 +951,11 @@
       "t": "mcq",
       "q": "Your kolam got better over seven days. Why?",
       "options": [
-       "You practised",
        "Your fingers grew longer",
-       "A kolam comes with your genes"
+       "A kolam comes with your genes",
+       "You practised"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Drawing a kolam is a skill. It gets better with practice. Your fingers stayed the same, and a skill does not come with genes."
      }
     }
@@ -1203,11 +1203,11 @@
      "t": "mcq",
      "p": "Very young babies can hear the difference between the sounds of every language. What happens by the time they are one year old?",
      "opts": [
-      "They get better at the sounds of the language around them, and lose some others",
       "They can hear no sounds at all",
-      "They can speak every language"
+      "They can speak every language",
+      "They get better at the sounds of the language around them, and lose some others"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Janet Werker found that babies of 6 to 8 months could tell two Hindi 't' sounds apart, and by 10 to 12 months most could not. Their ears tune in to the language they hear."
     },
     {
@@ -1256,10 +1256,10 @@
      "p": "A girl has two tall parents. She eats good food and sleeps well. Why is she tall?",
      "opts": [
       "Only because of her genes",
-      "Only because of her food",
-      "Because of her genes and her food"
+      "Because of her genes and her food",
+      "Only because of her food"
      ],
-     "a": 2,
+     "a": 1,
      "why": "Height comes from genes and from good food and health, so it is a bit of both."
     },
     {
@@ -1310,11 +1310,11 @@
    "t": "mcq",
    "p": "A girl has curly hair like her Amma's. How did she get it?",
    "opts": [
-    "She inherited it from her parents",
     "She learned it",
+    "She inherited it from her parents",
     "She practised it"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Curly hair comes from genes that she got from her parents.",
    "outcome": 0
   },
@@ -1322,11 +1322,11 @@
    "t": "mcq",
    "p": "A girl has long fingers like her grandmother, draws kolam like her grandmother, and speaks Tamil like her grandmother. Which one did she get from her grandmother when she was born?",
    "opts": [
-    "Her long fingers",
     "Her kolam skill",
+    "Her long fingers",
     "Her Tamil words"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Long fingers come through genes. Kolam and Tamil words are learned from the people around her.",
    "outcome": 0
   },
@@ -1346,11 +1346,11 @@
    "t": "mcq",
    "p": "In the Practice Test, why do we throw from the same line in every round?",
    "opts": [
-    "So the test is fair",
     "Because the bucket is heavy",
+    "So the test is fair",
     "So we can throw faster"
    ],
-   "a": 0,
+   "a": 1,
    "why": "If the line moved closer, more balls would go in, even without practice. Keeping it the same makes the test fair.",
    "outcome": 2,
    "how": "e1"
@@ -1360,10 +1360,10 @@
    "p": "A baby boy's Amma speaks five languages. What will the baby speak on the day he is born?",
    "opts": [
     "All five languages",
-    "No language yet. He will learn from the people around him",
-    "Only English"
+    "Only English",
+    "No language yet. He will learn from the people around him"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Languages are learned. A baby is born able to learn any language, but speaks none on the first day.",
    "outcome": 3
   },
@@ -1396,10 +1396,10 @@
    "p": "A young male zebra finch grows up alone and never hears another finch sing. What happens to his song?",
    "opts": [
     "It is a normal finch song",
-    "It comes out strange and broken",
-    "It sounds like a crow"
+    "It sounds like a crow",
+    "It comes out strange and broken"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A young zebra finch learns his song from an older male. Without one to listen to, his song comes out strange.",
    "outcome": 5
   },
@@ -1407,11 +1407,11 @@
    "t": "mcq",
    "p": "Why do young chimpanzees watch their mothers fish for termites with a stick?",
    "opts": [
-    "They learn how to do it by watching",
     "They are bored",
+    "They learn how to do it by watching",
     "They already know how"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Young chimpanzees learn to fish for termites by watching their mothers, and then trying.",
    "outcome": 5
   },
@@ -1419,11 +1419,11 @@
    "t": "mcq",
    "p": "A girl's family has drawn rangoli for many generations. She is very good at it. What is the best reason?",
    "opts": [
-    "She practised with her family for years",
     "She was born knowing how",
-    "Rangoli is in her genes"
+    "Rangoli is in her genes",
+    "She practised with her family for years"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Rangoli is a skill. It passes from person to person by teaching and practice, not through genes.",
    "outcome": 1
   }
@@ -1570,7 +1570,22 @@
    "why": "Science galleries and a planetarium, with hands-on exhibits for children."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "What does inherit mean?",
@@ -1683,21 +1698,29 @@
     "source": "Thirukkural 396",
     "teaching": "The deeper you dig a well in the sand, the more water flows. The more a person learns, the more their understanding flows.",
     "link": "In the Practice Test, your throws got better with practice. Learning builds up a little at a time, the way a well gets deeper with each dig.",
-    "verse": ["தொட்டனைத் தூறும் மணற்கேணி மாந்தர்க்குக்", "கற்றனைத் தூறும் அறிவு."],
+    "verse": [
+     "தொட்டனைத் தூறும் மணற்கேணி மாந்தர்க்குக்",
+     "கற்றனைத் தூறும் அறிவு."
+    ],
     "verse_lang": "ta"
    },
    {
     "source": "Bhagavad Gita 6.35",
     "teaching": "Krishna tells Arjuna that the restless mind is hard to steady. But it can be steadied by practice and by letting go.",
     "link": "Practice does not only change a hand or an aim. Even the mind can be changed by practice.",
-    "verse": ["असंशयं महाबाहो मनो दुर्निग्रहं चलं।", "अभ्यासेन तु कौन्तेय वैराग्येण च गृह्यते।।"],
+    "verse": [
+     "असंशयं महाबाहो मनो दुर्निग्रहं चलं।",
+     "अभ्यासेन तु कौन्तेय वैराग्येण च गृह्यते।।"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Aristotle, Nicomachean Ethics, Book II, chapter 1",
     "teaching": "We become builders by building, and lyre players by playing the lyre, a small harp.",
     "link": "Nobody is born a good thrower or a kolam artist. We become one by doing it again and again.",
-    "verse": ["ἃ γὰρ δεῖ μαθόντας ποιεῖν, ταῦτα ποιοῦντες μανθάνομεν, οἷον οἰκοδομοῦντες οἰκοδόμοι γίνονται καὶ κιθαρίζοντες κιθαρισταί·"],
+    "verse": [
+     "ἃ γὰρ δεῖ μαθόντας ποιεῖν, ταῦτα ποιοῦντες μανθάνομεν, οἷον οἰκοδομοῦντες οἰκοδόμοι γίνονται καὶ κιθαρίζοντες κιθαρισταί·"
+    ],
     "verse_lang": "grc"
    }
   ],
@@ -1737,5 +1760,117 @@
   "art": "A bearded scientist in an old laboratory looking at a cage of white mice, every mouse with a full tail."
  },
  "playtest": "Walked through the unit as a parent and child in a flat. The Practice Test needs only paper balls, a bucket and a paper strip; the thumb measure now starts with the strip level with the thumb tip, and a pencil-width difference is explained as measuring, not growing. Both games are written out card by card; the sorting game now has points so it ends with a winner, and the memory game's cards each name who they are about, so no card matches two others. Removed repeated questions (the thumb result, kolam breaks, mouse tails), a weak joke and assumed family members, and made the survey table match its questions.",
- "warm": {"words": ["GENES", "SKILL", "LEARN", "CURLY", "BIRTH"], "quiz": [["Eye colour comes from the genes you get from your mother and your father.", true, "Genes from both parents are tiny instructions that help build your body, including your eye colour."], ["A mother who becomes a strong runner passes her strong legs to her baby at birth.", false, "Changes a parent makes to their own body by hard work are not passed on to babies."], ["Nobody is born able to draw a kolam. You have to practise.", true, "A skill grows by practice and by watching or being taught, not from the day you are born."], ["Height depends only on genes, whatever food a child eats.", false, "Many features come from genes and also from the life a being lives, such as the food they eat."], ["A child who grows up hearing Telugu learns Telugu, even if the parents speak another language.", true, "Speaking a language is a skill learned from the people around you, not something carried in genes."], ["Being left-handed is a bad habit that a child picks up.", false, "Left-handedness runs partly in families and starts before birth, so it is not a habit."], ["Practising something again and again changes your body and your brain.", true, "Practice makes you better because it changes the body and the brain."], ["Some people are born with a talent, so they do not need to practise.", false, "Even people with a gift for something practise for years to become really good."], ["A young finch who never hears another finch sings a strange, broken song.", true, "Other animals learn too. A young finch learns his song by listening to an older finch."], ["Children of veena players are born already able to play the veena well.", false, "A skill is not passed on at birth. Every child must learn it by practising."]], "odd": [[["Throwing a ball", "Writing neatly", "Singing a song", "Thumb length"], "Thumb length", "The first three get better with practice; thumb length comes from genes and practice will not change it."], [["Eye colour", "Hair shape", "Dimples", "Riding a cycle"], "Riding a cycle", "The first three are inherited from the genes of your parents; riding a cycle is learned by practice."], [["Eye colour", "Curly hair", "Dimples", "Big muscles from hard work"], "Big muscles from hard work", "The first three can pass from parent to baby through genes; muscles built in a life are not passed on."], [["Tan from the sun", "Muscles from play", "A scar from a fall", "Curly hair"], "Curly hair", "The first three change with the life you live; the shape of your hair comes from your genes."], [["A finch learns his song", "A child learns a kolam", "A puppy learns her name", "A cat's fur colour"], "A cat's fur colour", "The first three are learned from others; fur colour is inherited through genes before birth."]]}
+ "warm": {
+  "words": [
+   "GENES",
+   "SKILL",
+   "LEARN",
+   "CURLY",
+   "BIRTH"
+  ],
+  "quiz": [
+   [
+    "Eye colour comes from the genes you get from your mother and your father.",
+    true,
+    "Genes from both parents are tiny instructions that help build your body, including your eye colour."
+   ],
+   [
+    "A mother who becomes a strong runner passes her strong legs to her baby at birth.",
+    false,
+    "Changes a parent makes to their own body by hard work are not passed on to babies."
+   ],
+   [
+    "Nobody is born able to draw a kolam. You have to practise.",
+    true,
+    "A skill grows by practice and by watching or being taught, not from the day you are born."
+   ],
+   [
+    "Height depends only on genes, whatever food a child eats.",
+    false,
+    "Many features come from genes and also from the life a being lives, such as the food they eat."
+   ],
+   [
+    "A child who grows up hearing Telugu learns Telugu, even if the parents speak another language.",
+    true,
+    "Speaking a language is a skill learned from the people around you, not something carried in genes."
+   ],
+   [
+    "Being left-handed is a bad habit that a child picks up.",
+    false,
+    "Left-handedness runs partly in families and starts before birth, so it is not a habit."
+   ],
+   [
+    "Practising something again and again changes your body and your brain.",
+    true,
+    "Practice makes you better because it changes the body and the brain."
+   ],
+   [
+    "Some people are born with a talent, so they do not need to practise.",
+    false,
+    "Even people with a gift for something practise for years to become really good."
+   ],
+   [
+    "A young finch who never hears another finch sings a strange, broken song.",
+    true,
+    "Other animals learn too. A young finch learns his song by listening to an older finch."
+   ],
+   [
+    "Children of veena players are born already able to play the veena well.",
+    false,
+    "A skill is not passed on at birth. Every child must learn it by practising."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Throwing a ball",
+     "Writing neatly",
+     "Singing a song",
+     "Thumb length"
+    ],
+    "Thumb length",
+    "The first three get better with practice; thumb length comes from genes and practice will not change it."
+   ],
+   [
+    [
+     "Eye colour",
+     "Hair shape",
+     "Dimples",
+     "Riding a cycle"
+    ],
+    "Riding a cycle",
+    "The first three are inherited from the genes of your parents; riding a cycle is learned by practice."
+   ],
+   [
+    [
+     "Eye colour",
+     "Curly hair",
+     "Dimples",
+     "Big muscles from hard work"
+    ],
+    "Big muscles from hard work",
+    "The first three can pass from parent to baby through genes; muscles built in a life are not passed on."
+   ],
+   [
+    [
+     "Tan from the sun",
+     "Muscles from play",
+     "A scar from a fall",
+     "Curly hair"
+    ],
+    "Curly hair",
+    "The first three change with the life you live; the shape of your hair comes from your genes."
+   ],
+   [
+    [
+     "A finch learns his song",
+     "A child learns a kolam",
+     "A puppy learns her name",
+     "A cat's fur colour"
+    ],
+    "A cat's fur colour",
+    "The first three are learned from others; fur colour is inherited through genes before birth."
+   ]
+  ]
+ }
 }

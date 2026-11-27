@@ -1,9 +1,9 @@
 # Pulleys, gears and screws: how a machine trades a smaller pull for a longer distance
 `sci.forces.simple-machines.L4`
 
-**Summary.** A pulley can make a heavy lift feel easier, but what does it cost you? In this unit you will count the ropes on a pulley and measure the pull and the distance, wind a paper ramp round a pencil to make a screw, and find the machines inside scissors and a peeler.
+**Summary.** A pulley can make a heavy lift feel easier, but what does it cost you? In this lesson you will count the ropes on a pulley and measure the pull and the distance, wind a paper ramp round a pencil to make a screw, and find the machines inside scissors and a peeler.
 
-**Intro.** *A rope is wound several times round two broom handles. A strong grown-up holds the handles apart. A child pulls the end of the rope, and the handles slide together, however hard the grown-up pushes. How can a child beat a grown-up?* The child did not become stronger. The way the rope is wound round the handles does the work. Each time it is wound round, one more length of rope pulls the handles together, so the child's pull is multiplied. In this unit you hang a bottle from two reels and count the ropes. You measure how much easier the pull gets, and how much further your hand must move. Then you follow the same idea into gears, screws and the tiny machines inside every living cell.
+**Intro.** *A rope is wound several times round two broom handles. A strong grown-up holds the handles apart. A child pulls the end of the rope, and the handles slide together, however hard the grown-up pushes. How can a child beat a grown-up?* The child did not become stronger. The way the rope is wound round the handles does the work. Each time it is wound round, one more length of rope pulls the handles together, so the child's pull is multiplied. In this lesson you hang a bottle from two reels and count the ropes. You measure how much easier the pull gets, and how much further your hand must move. Then you follow the same idea into gears, screws and the tiny machines inside every living cell.
 
 ## Learning outcomes
 0. I can explain how a fixed pulley only changes the direction of a pull, and how a moving pulley shares a load between ropes. I can count the ropes that hold a load and work out the pull.
@@ -40,6 +40,8 @@ Think of a bucket in a well. Without a wheel, you would lean over the well and l
 - e.g. A flagpole has a fixed pulley at the top, so you pull down to send the flag up.
 - e.g. A curtain cord goes over a small wheel, so pulling the cord down moves the curtain sideways along the rail.
 - e.g. A well with a wheel at the top lets you pull down to lift the bucket.
+- **Archimedes:** The Greek thinker of the 200s BCE is said to have worked out how to move a ship with a compound of pulleys and a rope.
+- **The Mohists of China:** Followers of Mozi wrote about 2,300 years ago on levers and pulleys. They were practical, and studied how machines save effort.
 ### The moving pulley and counting the ropes · *defined*
 **Definition:** A moving pulley hangs on the rope and rises with the load. Count the ropes that hold the load. Each rope carries an equal share, so the pull is the load divided by the number of ropes.
 
@@ -47,6 +49,8 @@ In the Count the Ropes test, the bottle hung from a reel that sat in a loop of s
 - e.g. A load held by 2 ropes needs half the pull and twice the rope.
 - e.g. A load held by 4 ropes needs a quarter of the pull but 4 times the rope.
 - e.g. A ship's sail uses many pulleys, so a few sailors can raise a very heavy sail.
+- **Archimedes:** Is credited with showing that more rope turns can lift a big load with a small pull.
+- **Physicists:** Explain it by energy: with two ropes, the pull is half but you pull twice as far. The work you do stays the same.
 ### Work: force times distance stays the same · *defined*
 **Definition:** Work is the force on a thing multiplied by the distance it moves in the direction of the force. A machine can change the force and the distance, but the work that comes out cannot be more than the work that goes in.
 
@@ -54,6 +58,8 @@ Lifting a bottle of 1 kilogram by 10 centimetres needs a pull of about 10 newton
 - e.g. Lifting 1 kilogram by 10 centimetres takes 10 newtons over 0.1 metres, and 10 times 0.1 is 1 joule.
 - e.g. The same lift with 2 ropes takes 5 newtons over 0.2 metres, and 5 times 0.2 is still 1 joule.
 - e.g. A ramp 4 times as long as the height needs a quarter of the push.
+- **Rene Descartes:** Argued in the 1600s that what is kept in motion is the product of mass and speed.
+- **Gottfried Leibniz:** Argued that what counts is mass times speed squared, which he called vis viva. This quarrel, which went on for decades, ended when scientists saw that both quantities are useful but different. The term work came in 1829.
 ### Where the missing effort goes: friction and efficiency · *defined*
 **Definition:** In a real machine, some of the work you put in turns into warmth through friction. Efficiency is the part of the work that comes out as useful work.
 
@@ -61,6 +67,8 @@ In the Count the Ropes test, two ropes should have halved the pull. But the rubb
 - e.g. A dry wooden pulley squeals and warms up, so it wastes more than an oiled one.
 - e.g. A bicycle chain with oil on it wastes less of the rider's effort.
 - e.g. Two machines of 90 percent each give 81 percent together.
+- **Bhaskara II:** A 12th century Indian mathematician who described a wheel with weights on its rim that he believed would turn forever. It was an early perpetual motion idea.
+- **James Joule:** Showed in the 1840s that work lost to friction turns into heat, so nothing is truly lost, and no machine can turn forever without a fresh supply of energy.
 ### Gears: trading turning strength for speed · *defined*
 **Definition:** A gear is a wheel with teeth. When two gears mesh, the smaller one turns more times than the bigger one. The ratio is the number of teeth on the big gear divided by the number on the small one.
 
@@ -68,6 +76,8 @@ A bicycle has a big gear at the pedals and a small gear at the back wheel. The b
 - e.g. A gear of 40 teeth turning a gear of 10 teeth makes the small one spin 4 times for each turn.
 - e.g. A cycle's low gear for a hill has a big gear at the back and turns the wheel fewer times.
 - e.g. A charkha's big wheel turns a thin spindle many times, so the thread twists quickly.
+- **Makers of the Antikythera mechanism:** An ancient Greek device made around the 100s BCE. It had dozens of bronze gears to follow the Sun, Moon and eclipses.
+- **Insect researchers:** In 2013 scientists found that the young planthopper Issus has gear teeth on its hind legs, which keep its legs in step as it jumps.
 ### The screw: a ramp wound round a rod · *defined*
 **Definition:** A screw is a ramp wound round and round a rod. The pitch is how far it moves forward in one full turn.
 
@@ -75,6 +85,8 @@ Think of a ramp 30 centimetres long that climbs only 1 centimetre. It is a very 
 - e.g. A jam jar lid goes down a few millimetres each full turn.
 - e.g. A screw jack lifts a car with turns of a handle.
 - e.g. An Archimedes screw lifts water up a tube when its spiral is turned.
+- **Archimedes:** Tradition says he designed a water screw, a tube wound round a rod, to lift water. It is still used in places.
+- **Observers of nature:** See the same shape in snail shells and in climbing vines. The ramp wound round is a shape that lets a small turning do a big job.
 ### The wedge: two ramps that push things apart · *defined*
 **Definition:** A wedge is two ramps back to back, with a thin edge at the front. When you push it in, its sloping sides push the material apart. The sideways force is bigger than your push, but the material moves a smaller distance.
 
@@ -82,6 +94,8 @@ When you push a wedge into a log, the wedge goes in a long way, while the wood i
 - e.g. A knife gets easier to use when it is sharpened, because the wedge is thinner.
 - e.g. A door stop is a wedge that holds a door by jamming under it.
 - e.g. A chisel splits wood along the grain much more easily than across it.
+- **Egyptian quarrymen:** Split huge stone blocks by hammering wooden wedges in rows and soaking them with water, so they swelled and cracked the rock.
+- **Biologists:** Point out that our own teeth are wedges. Incisors cut and bite by turning a push into a sideways split.
 ### Six machines, two ideas · *defined*
 **Definition:** The lever, the wheel and axle and the pulley are all kinds of lever. The ramp, the wedge and the screw are all kinds of ramp. Both ideas follow one rule: force times distance stays the same.
 
@@ -89,6 +103,10 @@ In Class 3 you met six simple machines. Look closely and they work in only two w
 - e.g. A moving pulley is a lever in which the load hangs from the middle and the effort is at the end.
 - e.g. A screw is a ramp wound round a rod.
 - e.g. A wheel and axle, such as a well winch, is a lever that goes round.
+- e.g. A kitchen tong, called a chimta in Hindi, is a lever. It turns on its joint, your hand pushes the handles, and the tips grip the food.
+- e.g. A claw hammer pulling a nail is a lever. Its head rests on the wood as the fulcrum, so a small pull on the handle lifts the nail.
+- **Hero of Alexandria:** Listed five simple machines: the lever, wheel and axle, pulley, wedge and screw.
+- **Renaissance thinkers, Galileo:** Listed six. Physicists today say they are really two ideas: the lever and the ramp.
 ### Compound machines: machines made from machines · *defined*
 **Definition:** A compound machine is made of two or more simple machines. Its total advantage is found by multiplying the advantages of its parts, but each part also adds friction.
 
@@ -96,20 +114,26 @@ A pair of scissors is two levers, joined at a screw or rivet, with a wedge on th
 - e.g. Scissors: two levers and two wedges.
 - e.g. A bicycle: levers, wheels and axles, gears and screws.
 - e.g. A wheelbarrow: a lever with a wheel at the end.
+- **Engineers:** Say that multiplying the gains of simple machines can give a very big advantage, though each part loses a little to friction.
+- **Anatomists:** See the human body as many levers working together. The bones, muscles and joints of the arm and the leg make a compound machine that was never designed.
 ### Machines smaller than a speck: motors inside living cells · *defined*
 **Definition:** Living cells contain tiny machines made of protein. One of them is a rotary motor that turns like a wheel on an axle.
 
-A bacterium swims by spinning a long thread called a flagellum. In 1973, Howard Berg and Robert Anderson suggested that it turns round like a propeller on a motor. In 1974, Michael Silverman and Melvin Simon proved it. They stuck the thread to a glass slide, and the whole cell spun round instead. The motor can turn hundreds of times a second. Another tiny motor, called ATP synthase, sits in the cells of plants, animals and bacteria. It turns like a wheel on an axle and makes the fuel molecule ATP. In 1997 Hiroyuki Noji and his team in Japan fixed part of one to glass, joined a tiny glowing filament to its axle, and watched it turn under a microscope. The rule of this unit still holds at this size. Each motor takes energy in and gives some out, and a little escapes as warmth.
+A bacterium swims by spinning a long thread called a flagellum. In 1973, Howard Berg and Robert Anderson suggested that it turns round like a propeller on a motor. In 1974, Michael Silverman and Melvin Simon proved it. They stuck the thread to a glass slide, and the whole cell spun round instead. The motor can turn hundreds of times a second. Another tiny motor, called ATP synthase, sits in the cells of plants, animals and bacteria. It turns like a wheel on an axle and makes the fuel molecule ATP. In 1997 Hiroyuki Noji and his team in Japan fixed part of one to glass, joined a tiny glowing filament to its axle, and watched it turn under a microscope. The rule of this lesson still holds at this size. Each motor takes energy in and gives some out, and a little escapes as warmth.
 - e.g. The bacterium's flagellar motor spins a thread to swim.
 - e.g. ATP synthase turns like a wheel and makes the fuel ATP in your cells, and in every plant.
 - e.g. Muscle proteins in your arm work like tiny levers.
+- **Vitalists:** Until the 1800s many held that living things ran on a special life force that was not made of ordinary matter.
+- **Biochemists:** Found that cells have real machines. Paul Boyer and John Walker earned the Nobel Prize in 1997 for explaining ATP synthase, a tiny rotor that turns to make the cell's fuel.
 ### Why machines can never give out more: energy and time · *defined*
 **Definition:** Energy is never made from nothing or destroyed, only moved or changed. In 1918 Emmy Noether showed that this follows from the laws of nature not changing from one day to the next.
 
-Everything in this unit leads to the same rule. However you arrange the ropes, the work that comes out is never more than the work that went in. For thousands of years inventors tried to build machines that gave out extra, and none worked. Energy is what gets passed on. It can change from a pull into height, or into warmth, but the total stays the same. In 1918, the German mathematician Emmy Noether showed something deeper. If the laws of nature do not change from one day to the next, then energy cannot be made or lost. The rule is not about ropes. It is about time. Noether did this at a university where, for years, she was not allowed to be a paid teacher, and her lectures were announced under the professor David Hilbert's name. Physicists say the rule gets tricky when the whole universe is stretching, and this is still being discussed.
+Everything in this lesson leads to the same rule. However you arrange the ropes, the work that comes out is never more than the work that went in. For thousands of years inventors tried to build machines that gave out extra, and none worked. Energy is what gets passed on. It can change from a pull into height, or into warmth, but the total stays the same. In 1918, the German mathematician Emmy Noether showed something deeper. If the laws of nature do not change from one day to the next, then energy cannot be made or lost. The rule is not about ropes. It is about time. Noether did this at a university where, for years, she was not allowed to be a paid teacher, and her lectures were announced under the professor David Hilbert's name. Physicists say the rule gets tricky when the whole universe is stretching, and this is still being discussed.
 - e.g. A pulley, a lever and a ramp all show the same total work in and out.
 - e.g. A swing swings lower each time as friction turns its energy into warmth, but the total stays the same.
 - e.g. A battery, a bulb and the warm wire together keep the same total energy.
+- **Bhaskara II (12th century):** Described a wheel with weights on its rim that he hoped would turn for ever.
+- **Emmy Noether and modern physics:** Energy is never made from nothing. Noether showed this comes from the laws of nature being the same at all times, so no machine can run for ever without a source.
 ### Who made the first wheels, pulleys and gears? · *idea*
 **Definition:** Nobody knows who first made these machines. We have only the oldest things that survived, and some of them are very surprising.
 
@@ -117,6 +141,8 @@ The oldest wheel with an axle that we know of was found in a marsh near Ljubljan
 - e.g. A wheel with an axle from a marsh in Slovenia, about 5,200 years old.
 - e.g. Little wheeled carts from Harappan towns, about 4,500 years old.
 - e.g. The Antikythera mechanism, a Greek gear machine more than 2,000 years old.
+- **Archaeologists who favour Mesopotamia:** Point to the oldest known wheels from about 3500 BCE in Mesopotamia.
+- **Archaeologists who favour central Europe:** Point to old wagon models and wheels there from about the same time. Wheeled carts also appear in the Indus Valley. We do not know where it began.
 
 ## Mostly agreed
 - A fixed pulley changes the direction of a pull, and a moving pulley divides the pull between the ropes that hold the load. *How we know:* Spring balances and rubber bands show the pull in each rope, and it halves each time the number of supporting ropes doubles.
@@ -516,14 +542,14 @@ Ajji watched the water run. 'It is a fair price,' she said. 'The bullocks pay it
 9. (match) Match each everyday thing to the simple machine inside it.  
    **Answer:** Scissors → two levers with wedge blades; Jam jar lid → a screw; Kitchen knife → a wedge; Clothes rack rope → pulleys; Bicycle chain wheel → a gear. *Why:* A pair of scissors is two levers joined at a pivot, each with a wedge blade. A lid has a thread, which is a ramp wound round. A knife is a wedge. A clothes rack uses pulleys. A bicycle chain wheel has teeth, so it is a gear.
 10. (mcq) In real tests, the pull is always a little more than the ideal numbers say. What is the best reason?  
-   Options: Friction turns some of your effort into warmth / The load gets heavier / Ropes always stretch  
+   Options: The load gets heavier / Friction turns some of your effort into warmth / Ropes always stretch  
    **Answer:** Friction turns some of your effort into warmth. *Why:* Rubbing at the axles and ropes turns part of the work into warmth that spreads into the air. If you picked 'load gets heavier', you thought the load changed. The load stays the same.
 11. (truefalse) Putting oil on the axle of a pulley reduces the pull you need.  
    **Answer:** True. *Why:* True. Oil reduces the rubbing, so less of your work turns into warmth.
 12. (count) A bicycle has 40 teeth on the pedal gear and 20 teeth on the back gear. How many times does the back wheel turn for one turn of the pedals?  
    **Answer:** 2. *Why:* 40 divided by 20 is 2. For each turn of the pedals, the chain moves 40 teeth, which turns the 20-tooth gear twice.
 13. (mcq) A small gear drives a big gear. What happens to the big gear?  
-   Options: It turns more slowly, but with more strength / It turns faster, with more strength / It turns at the same speed  
+   Options: It turns faster, with more strength / It turns more slowly, but with more strength / It turns at the same speed  
    **Answer:** It turns more slowly, but with more strength. *Why:* The big gear turns fewer times for each turn of the small gear. What it loses in speed it gains in turning strength.
 14. (write) A friend says, 'With two ropes, you do half the work.' Say what is right and what is wrong in what she says.  
    **Answer:** She is right that the pull is half. She is wrong about the work. The hand moves twice as far, so force times distance is the same.. *Why:* A strong answer says the pull halves, the distance doubles and the work stays the same, apart from friction.
@@ -531,11 +557,11 @@ Ajji watched the water run. 'It is a fair price,' she said. 'The bullocks pay it
    **Answer:** A bottle hanging from a wheel in a loop of rope, with two upward arrows on the two ropes, each labelled 5 newtons.. *Why:* Two ropes share the 10 newtons equally, so each carries 5 newtons. A strong drawing shows two ropes holding the wheel and both arrows the same length.
 16. (write) A jam jar lid goes down 3 millimetres each turn. Say in your own words why a lid is a ramp.  
    **Answer:** The thread inside the lid is a ramp wound round and round. Each turn climbs one small slope, so the lid moves slowly and firmly.. *Why:* A strong answer says the thread is a ramp wound round, and each turn climbs a little, so a small twist gives a strong push.
-### Pulleys, gears and screws (stretch) (stretch, 17 questions)
+### Pulleys, gears and screws (stretch) (stretch, 18 questions)
 1. (count) These are made-up results from the Count the Ropes test. How many centimetres less did the band stretch in Test C than in Test A?  
    **Answer:** 3. *Why:* The bar for A is 8 and the bar for C is 5. 8 take away 5 is 3 centimetres less.
 2. (mcq) In made-up results from the Count the Ropes test, Test A (the straight lift) stretched the band 8 centimetres and Test C (the moving reel) stretched it 5 centimetres. Exactly half of A would be 4. What is the best reason for the difference?  
-   Options: Friction used up a little of the work / The bottle got heavier / The ideal numbers are wrong  
+   Options: The bottle got heavier / Friction used up a little of the work / The ideal numbers are wrong  
    **Answer:** Friction used up a little of the work. *Why:* Rubbing at the reel and the string turned a little of the work into warmth, so the pull had to be a little larger. The ideal numbers are the best case with no rubbing.
 3. (count) A tackle has 5 ropes holding a load of 60 kilograms. With no friction, the pull would be 12 kilograms. In real life you pull with 15 kilograms. What percent of your effort is useful?  
    **Answer:** 80. *Why:* Useful share is 12 divided by 15, which is 0.8, or 80 percent. The other 20 percent turned into warmth.
@@ -558,7 +584,7 @@ Ajji watched the water run. 'It is a fair price,' she said. 'The bullocks pay it
 11. (sort) Sort each machine into the lever family or the ramp family.  
    **Answer:** see-saw → Lever family; wheel and axle → Lever family; pulley → Lever family; screw → Ramp family; wedge → Ramp family; slope → Ramp family. *Why:* The see-saw, the wheel and axle and the pulley all work like a lever. The screw, the wedge and the slope all work like a ramp.
 12. (mcq) Why can a machine never give out more work than it takes in?  
-   Options: Energy is never made from nothing, so a machine can only pass it on / Machines are always too small / Machines are always too slow  
+   Options: Machines are always too small / Energy is never made from nothing, so a machine can only pass it on / Machines are always too slow  
    **Answer:** Energy is never made from nothing, so a machine can only pass it on. *Why:* Work is a way of counting energy being passed on. Energy cannot be made from nothing, so the work out cannot be more than the work in.
 13. (label) Here is a drawing of a bottle lift. Label the three parts: the fixed wheel, the moving wheel and the load.  
    **Answer:** ['Wheel hung from the beam: fixed wheel', 'Wheel that rises with the bottle: moving wheel', 'The bottle of water: load']. *Why:* The wheel hung from the beam stays still, so it is fixed. The wheel the bottle hangs from rises with it, so it is moving. The bottle is the load.
@@ -570,6 +596,8 @@ Ajji watched the water run. 'It is a fair price,' she said. 'The bullocks pay it
    **Answer:** Lever, because the other three belong to the ramp family.. *Why:* A wedge, a screw and a slope all work like a ramp. A lever works by turning round a fulcrum.
 17. (write) A cyclist reaches a steep hill. Should she change to a bigger or a smaller gear at the back? Explain.  
    **Answer:** A bigger gear at the back. The wheel turns fewer times for each pedal turn, but with more strength, which helps up the hill.. *Why:* A strong answer says the big back gear gives more turning strength and fewer wheel turns for each pedal turn, which is the same trade of speed for strength.
+18. (fill) A chimta, or kitchen tong, is a lever. It turns on its ____, and your hand pushes the two handles.  
+   **Answer:** ['joint', 'fulcrum', 'pivot', 'hinge']. *Why:* The joint is the fulcrum. Your hand gives the effort at the handles, and the tips at the other end hold the food.
 ### Pulleys, gears and screws (challenge) (challenge, 17 questions)
 1. (count) You pull with the strength of 6 kilograms on a tackle with 5 ropes holding the load. Ignoring friction, how many kilograms is the load?  
    **Answer:** 30. *Why:* 5 ropes each carry 6 kilograms, so the load is 5 times 6, which is 30 kilograms.
@@ -590,7 +618,7 @@ Ajji watched the water run. 'It is a fair price,' she said. 'The bullocks pay it
 8. (truefalse) Nobody has ever built a machine that is 100 percent efficient.  
    **Answer:** True. *Why:* True. There is always some friction, so some work always turns into warmth.
 9. (mcq) Emmy Noether showed in 1918 that energy cannot be made from nothing if which thing is true?  
-   Options: The laws of nature do not change over time / All machines are well oiled / Gravity is the same everywhere  
+   Options: All machines are well oiled / The laws of nature do not change over time / Gravity is the same everywhere  
    **Answer:** The laws of nature do not change over time. *Why:* Her theorem links the rule that energy cannot be made or lost to the laws of nature not changing with time. It is a deep reason behind the rule that no machine gives out more than it takes in.
 10. (mcq) In 1974, scientists stuck a bacterium's thread to a glass slide and the whole cell spun round. What did this show?  
    Options: The thread is turned by a tiny rotary motor at its base / The cell was alive and stuck / The thread is a tiny lever  
@@ -617,7 +645,7 @@ Ajji watched the water run. 'It is a fair price,' she said. 'The bullocks pay it
 
 ## Quiz
 1. (mcq) A flagpole has one pulley at the top. What does it do for you?  
-   Options: It lets you pull down to raise the flag / It makes the flag weigh less / It halves the pull  
+   Options: It makes the flag weigh less / It halves the pull / It lets you pull down to raise the flag  
    **Answer:** It lets you pull down to raise the flag. *Why:* A single fixed pulley changes the direction of the pull, so you pull down and the flag goes up. It does not change the size of the pull.
 2. (mcq) A load is held by 4 ropes. You pull with the strength of 5 kilograms. What is the load, ignoring friction?  
    Options: 20 kilograms / 5 kilograms / 9 kilograms  
@@ -626,16 +654,16 @@ Ajji watched the water run. 'It is a fair price,' she said. 'The bullocks pay it
    Options: 4 metres / 2 metres / 1 metre  
    **Answer:** 4 metres. *Why:* Both ropes must get 2 metres shorter, so 4 metres pass through your hand.
 4. (mcq) A machine halves the force you need. What must happen to the distance you move?  
-   Options: It doubles / It halves / It stays the same  
+   Options: It halves / It doubles / It stays the same  
    **Answer:** It doubles. *Why:* Force times distance stays the same, so if the force halves, the distance doubles. No machine gives a smaller force over the same distance.
 5. (mcq) Where does some of your effort go in a real pulley?  
    Options: Into warmth, from rubbing / Into making the rope heavier / Nowhere, it is lost  
    **Answer:** Into warmth, from rubbing. *Why:* Friction turns some of the work into warmth that spreads into the air. The energy is not destroyed. It goes somewhere you did not want it.
 6. (mcq) Two machines are used together, and each wastes one tenth of the work. About how much of the work comes out?  
-   Options: 81 parts in every 100 / 80 parts in every 100 / 90 parts in every 100  
+   Options: 80 parts in every 100 / 81 parts in every 100 / 90 parts in every 100  
    **Answer:** 81 parts in every 100. *Why:* 0.9 times 0.9 is 0.81. Losses multiply, so more machines can be worse.
 7. (mcq) A cyclist moves the chain from a 16-tooth to a 24-tooth gear at the back. What happens to the wheel?  
-   Options: It turns fewer times for each pedal turn, with more strength / It turns more times for each pedal turn / It turns the same number of times  
+   Options: It turns more times for each pedal turn / It turns fewer times for each pedal turn, with more strength / It turns the same number of times  
    **Answer:** It turns fewer times for each pedal turn, with more strength. *Why:* A bigger back gear means a smaller ratio, so fewer wheel turns for each pedal turn. The wheel gains turning strength, which helps uphill.
 8. (mcq) What is a screw?  
    Options: A ramp wound round a rod / A wheel with teeth / A lever with a rope  
@@ -645,11 +673,14 @@ Ajji watched the water run. 'It is a fair price,' she said. 'The bullocks pay it
 10. (mcq) The six simple machines are really which two ideas?  
    Options: The lever and the ramp / The wheel and the rope / The push and the pull  
    **Answer:** The lever and the ramp. *Why:* The pulley and the wheel and axle are kinds of lever. The wedge and the screw are kinds of ramp. Both trade force for distance.
-11. (mcq) Why is it a good idea to repeat each test in an experiment twice or more?  
-   Options: To check that the result is steady and not a fluke / Because the band was tired / To make the bottle lighter  
+11. (mcq) Which of these everyday tools is a lever?  
+   Options: A ramp of planks leaning on a step / A screw in a jar lid / A kitchen tong, the chimta, which turns on its joint  
+   **Answer:** A kitchen tong, the chimta, which turns on its joint. *Why:* A tong turns on its joint, which is its fulcrum, so it is a lever. A ramp and a screw both belong to the ramp idea, not the lever idea.
+12. (mcq) Why is it a good idea to repeat each test in an experiment twice or more?  
+   Options: Because the band was tired / To make the bottle lighter / To check that the result is steady and not a fluke  
    **Answer:** To check that the result is steady and not a fluke. *Why:* If two tries are close, we can trust the result. If they differ a lot, one try may have been a fluke, and we need to look for the cause.
-12. (mcq) Why has nobody built a machine that gives out more work than it takes in?  
-   Options: Energy cannot be made from nothing, so a machine only passes it on / Nobody has tried hard enough / Machines are too small  
+13. (mcq) Why has nobody built a machine that gives out more work than it takes in?  
+   Options: Nobody has tried hard enough / Energy cannot be made from nothing, so a machine only passes it on / Machines are too small  
    **Answer:** Energy cannot be made from nothing, so a machine only passes it on. *Why:* Every careful test has shown the same result. Physicists link it to the laws of nature not changing from one day to the next.
 
 ## Applications
@@ -727,6 +758,10 @@ Grip and Glide (sci.forces.L4): Topic-level song
 ## Things to buy
 - [A ball of strong thin nylon cord](https://www.amazon.in/s?k=nylon+cord+thin+strong) (material): For the pulleys in Count the Ropes and The Lazy Lift. Parcel string or cotton twine also works. Do not use kite manja: it is glass-coated and cuts. Used in e1, c1. 
 - [A small hanging luggage scale in kilograms](https://www.amazon.in/s?k=hanging+luggage+scale) (tool): Reads the pull exactly in place of the rubber band in Count the Ropes. Not needed to do the test. Used in e1, c1. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in Count the Ropes: how much easier does a pulley make a lift, and what does it cost?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e1. Get it before Count the Ropes: how much easier does a pulley make a lift, and what does it cost?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Count the Ropes: how much easier does a pulley make a lift, and what does it cost?, Paper Screw: wind a ramp round a pencil, Charkha Belt Drive: a big wheel that turns a small wheel fast. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a1, p1, c1. Get it before Count the Ropes: how much easier does a pulley make a lift, and what does it cost?.
+- [Iron nails or iron filings](https://www.amazon.in/s?k=iron+filings+science) (material): Used in Paper Screw: wind a ramp round a pencil. About ₹20 to ₹80. Short steel nails from a hardware shop. Used in a1. Get it before Paper Screw: wind a ramp round a pencil.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What does a fixed pulley do? → It changes the direction of the pull, not its size.
@@ -746,8 +781,8 @@ Grip and Glide (sci.forces.L4): Topic-level song
 
 ## Sources
 - Founder's notes in ideas/by_topic/forces-and-movement.md: Archimedes and the law of the lever ('give me a place to stand'), used in the challenging ideas and the maths
-- The Class 4 Forces and movement lesson (combined/sci-C4-forces-and-movement.json): wheel and axle and pulleys, the ramp, the wedge and the screw, 'no free work' and the simple machine hunt, which this unit takes much further
-- The Class 3 unit on simple machines, which this unit builds on: the lever, the ramp and the trade-off, now extended to pulleys, gears, screws, efficiency and why the rule holds
+- The Class 4 Forces and movement lesson (combined/sci-C4-forces-and-movement.json): wheel and axle and pulleys, the ramp, the wedge and the screw, 'no free work' and the simple machine hunt, which this lesson takes much further
+- The Class 3 unit on simple machines, which this lesson builds on: the lever, the ramp and the trade-off, now extended to pulleys, gears, screws, efficiency and why the rule holds
 - NCERT and Cambridge Stage 4 and 5 materials on simple machines, for coverage only. Their text is not copied
 - Aristotle's school (author unknown), Mechanical Problems, about 300 BCE (levers as a wonder)
 - Galileo Galilei, Le Meccaniche, written in the 1590s (what is gained in force is lost in distance)

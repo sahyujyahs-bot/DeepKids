@@ -1,9 +1,9 @@
 # Animals with a backbone: five groups and how to tell them apart
 `sci.animals.vertebrate-groups.L2`
 
-**Summary.** A bat flies like a bird, so why is it not a bird? In this unit you will find your own backbone, test with straws how many pieces a backbone needs to bend, and play a game of four animals where one does not fit, using clues to sort five animal groups.
+**Summary.** A bat flies like a bird, so why is it not a bird? In this lesson you will find your own backbone, test with straws how many pieces a backbone needs to bend, and play a game of four animals where one does not fit, using clues to sort five animal groups.
 
-**Intro.** *Ask a grown-up to bend forward. Run your fingers down the middle of their back. You feel a row of hard bumps. Is that one long bone, or many?* The bumps you feel are bones. Together they make the backbone. A fish has a backbone too, and so do a frog, a lizard, a crow and a cow. An ant, a prawn and an earthworm do not have one. In this unit you meet the five groups of animals with a backbone. You learn the clues that tell them apart. And you build a backbone from a straw, to find out how a row of hard bones can bend.
+**Intro.** *Ask a grown-up to bend forward. Run your fingers down the middle of their back. You feel a row of hard bumps. Is that one long bone, or many?* The bumps you feel are bones. Together they make the backbone. A fish has a backbone too, and so do a frog, a lizard, a crow and a cow. An ant, a prawn and an earthworm do not have one. In this lesson you meet the five groups of animals with a backbone. You learn the clues that tell them apart. And you build a backbone from a straw, to find out how a row of hard bones can bend.
 
 ## Learning outcomes
 0. By the end I can find my own backbone and say that it is a chain of many small bones called vertebrae.
@@ -136,7 +136,7 @@ We have learnt that a backbone is a chain of small bones, and that every fish, a
 
 More than 500 million years ago, the first animals with a backbone swam in the sea. Every fish, frog, lizard, bird and mammal alive today comes from them, humans too. The same plan, a chain of small bones, has grown into a snake's coil, a frog's short, stiff back, a giraffe's tall neck and your own bending spine.
 
-- **Samyutta Nikaya 5.10, the Vajira Sutta:** “Yathā hi aṅgasambhārā, / hoti saddo ratho iti; / Evaṁ khandhesu santesu, / hoti sattoti sammuti.” Vajira, a Buddhist nun, taught that the word 'chariot' is a name we give to many parts put together. In the same way, she said, 'a being' is a name for many parts. (In this unit, 'backbone' is one word for a chain of many vertebrae. The bending you felt happens at the joints between the parts.)
+- **Samyutta Nikaya 5.10, the Vajira Sutta:** “Yathā hi aṅgasambhārā, / hoti saddo ratho iti; / Evaṁ khandhesu santesu, / hoti sattoti sammuti.” Vajira, a Buddhist nun, taught that the word 'chariot' is a name we give to many parts put together. In the same way, she said, 'a being' is a name for many parts. (In this lesson, 'backbone' is one word for a chain of many vertebrae. The bending you felt happens at the joints between the parts.)
 - **Tirukkural 322:** “பகுத்துண்டு பல்லுயிர் ஓம்புதல் நூலோர் / தொகுத்தவற்றுள் எல்லாந் தலை.” Thiruvalluvar, the Tamil poet, wrote that sharing your food and caring for the many kinds of living beings is the greatest of all teachings. (Fish, frogs, lizards, birds and mammals are the many kinds of beings with a backbone, and humans are one of them. Knowing how each group lives, with wet skin or dry, in water or in air, is a first step in caring for them.)
 - Science (settled): All animals with a backbone come from the same ancestors, small fish-like animals who lived in the sea more than 500 million years ago.
 - Science (debated): Almost every mammal, from a mouse to a giraffe, has 7 neck vertebrae. Why mammals keep to 7, when birds and reptiles have many different numbers, is still argued about.
@@ -436,7 +436,7 @@ That night Meenakshi drew two pictures side by side. One was the fish's backbone
 4. (write) Say out loud, and a grown-up writes it down: why did the 8-piece chain wrap round the tumbler better than the whole straw?  
    **Answer:** Because it could bend at many joints. Each piece tilted a little, and the tilts added up.. *Why:* A strong answer says the chain bent at the joints between the pieces, and that more joints made a rounder curve.
 5. (mcq) Which clue tells you for sure that an animal is a bird?  
-   Options: Feathers / Four legs / Lives in a tree  
+   Options: Four legs / Lives in a tree / Feathers  
    **Answer:** Feathers. *Why:* Only birds have feathers. Monkeys and squirrels live in trees too, and birds have two legs, not four.
 6. (truefalse) A snake's skin is slimy and wet.  
    **Answer:** False. *Why:* False. Snake skin is dry. Snakes are reptiles, with dry scales. Frogs and toads are the ones with damp skin.
@@ -450,7 +450,7 @@ That night Meenakshi drew two pictures side by side. One was the fish's backbone
    **Answer:** 6. *Why:* A crow has 2 legs, a cow has 4 and a cobra has none. 2 and 4 and 0 make 6. Legs alone do not tell you the group.
 ### Telling the Groups Apart (stretch) (stretch, 10 questions)
 1. (mcq) A tadpole lives in a pond. What does a tadpole breathe with?  
-   Options: Gills / Lungs / Feathers  
+   Options: Lungs / Gills / Feathers  
    **Answer:** Gills. *Why:* A tadpole breathes with gills, like a fish. When the tadpole becomes a frog, the frog breathes with lungs and through the damp skin.
 2. (write) An olive ridley turtle swims in the sea all her life. Why is she not a fish? Give two clues. A grown-up can write down what you say.  
    **Answer:** She breathes air with lungs, not gills. She has dry scales and a shell. She lays her eggs on a beach.. *Why:* A strong answer gives two clues that show she is a reptile: lungs, dry scales, eggs laid on land.
@@ -476,7 +476,7 @@ That night Meenakshi drew two pictures side by side. One was the fish's backbone
 2. (perspective) Two scientists argue about where birds belong.  
    **Answer:** A strong answer picks a side with a reason, and sees that both are right about something. Feathers make birds easy to tell apart. But birds and crocodiles really are close relatives.. *Why:* Scientists really do argue about this. It depends whether groups are for telling animals apart, or for showing who is related to whom.
 3. (mcq) A caecilian lives in wet soil in the Western Ghats. They have no legs, smooth damp skin and no scales. Which group are they in?  
-   Options: Reptiles, like snakes / Amphibians, like frogs / Invertebrates, like earthworms  
+   Options: Amphibians, like frogs / Reptiles, like snakes / Invertebrates, like earthworms  
    **Answer:** Amphibians, like frogs. *Why:* Smooth, damp skin with no scales is the amphibian clue. A caecilian has a backbone, so a caecilian is not an invertebrate. Having no legs is not enough to make an animal a snake.
 4. (draw) In the Bendy Backbone test you tried 1, 2, 4 and 8 pieces. Predict and draw what a chain of 16 pieces would look like round the tumbler.  
    **Answer:** An almost perfect circle round the tumbler, with almost no gaps.. *Why:* A strong drawing shows that 16 pieces curve even more closely than 8, because there are even more joints, each tilting a little.
@@ -491,7 +491,7 @@ That night Meenakshi drew two pictures side by side. One was the fish's backbone
 9. (order) Put these animals in order, from the fewest vertebrae to the most.  
    **Answer:** ['a frog', 'you', 'a snake']. *Why:* A frog has about nine vertebrae, you have 33, and a snake has a few hundred.
 10. (mcq) Which of these animals is an invertebrate?  
-   Options: A crab / A shark / A toad  
+   Options: A shark / A toad / A crab  
    **Answer:** A crab. *Why:* A crab has a hard shell outside and no backbone. A shark is a fish and a toad is an amphibian, so both have a backbone.
 
 ## Videos
@@ -501,25 +501,25 @@ That night Meenakshi drew two pictures side by side. One was the fish's backbone
 
 ## Quiz
 1. (mcq) What is your backbone made of?  
-   Options: One long, stiff bone / A chain of many small bones / Soft muscle with no bones  
+   Options: One long, stiff bone / Soft muscle with no bones / A chain of many small bones  
    **Answer:** A chain of many small bones. *Why:* Your backbone is a chain of 33 small bones called vertebrae. You can feel them as bumps when you bend.
 2. (mcq) In the Bendy Backbone test, which chain wrapped round the tumbler best?  
-   Options: The whole straw / The straw in 2 pieces / The straw in 8 pieces  
+   Options: The whole straw / The straw in 8 pieces / The straw in 2 pieces  
    **Answer:** The straw in 8 pieces. *Why:* More pieces meant more joints. Each joint tilted a little, and together they curved round the tumbler.
 3. (mcq) Which of these is a vertebrate?  
    Options: An ant / A crow / A prawn  
    **Answer:** A crow. *Why:* A crow has a backbone, so a crow is a vertebrate. Ants and prawns have no backbone.
 4. (mcq) Which group has smooth, damp skin and starts life as tadpoles?  
-   Options: Reptiles / Amphibians / Birds  
+   Options: Amphibians / Reptiles / Birds  
    **Answer:** Amphibians. *Why:* Frogs and toads are amphibians. They have smooth, damp skin and begin life in water as tadpoles.
 5. (mcq) How does a fish take in oxygen?  
-   Options: With gills / With lungs / Through feathers  
+   Options: With lungs / Through feathers / With gills  
    **Answer:** With gills. *Why:* A fish takes water in through the mouth and over the gills. The gills take oxygen from the water.
 6. (mcq) What is true of every mammal?  
-   Options: They can fly / The mothers feed their babies milk / They lay eggs with hard shells  
+   Options: The mothers feed their babies milk / They can fly / They lay eggs with hard shells  
    **Answer:** The mothers feed their babies milk. *Why:* Every mammal mother makes milk for her young. Only a few mammals fly, and birds are the ones that lay hard-shelled eggs.
 7. (mcq) A bat flies with wings. Which group is a bat in?  
-   Options: Birds, because bats fly / Mammals, because bats have fur and drink milk / Reptiles, because bats like the dark  
+   Options: Mammals, because bats have fur and drink milk / Birds, because bats fly / Reptiles, because bats like the dark  
    **Answer:** Mammals, because bats have fur and drink milk. *Why:* Flying is only one clue. A bat has fur, and the mother feeds her baby milk, so a bat is a mammal.
 8. (mcq) A house gecko lives near the tube light. What covers a gecko's skin?  
    Options: Dry scales / Feathers / Fur  
@@ -544,12 +544,12 @@ That night Meenakshi drew two pictures side by side. One was the fish's backbone
 - Fish sellers and cooks cut along the backbone to clean a fish, because the backbone runs down the middle of the body.
 
 ## Spotted around us
-- A crow, a bird, on a window ledge in Chennai, with feathers and a strong black beak.
-- A house gecko, a reptile, waiting for insects beside a tube light in Hyderabad.
-- A common Indian toad, an amphibian, hopping across a wet road in Kolkata on a monsoon night.
-- Fish swimming in a village pond in Kerala or in a pond in Guwahati.
-- Indian flying foxes, big bats who are mammals, hanging upside down in a banyan tree in Bengaluru.
-- Olive ridley turtles, reptiles, coming up the beach at Rushikulya in Odisha to lay eggs in the sand.
+- A crow, a bird, on a window ledge, with feathers and a strong black beak.
+- A house gecko, a reptile, waiting for insects beside a tube light.
+- A common toad, an amphibian, hopping across a wet road on a monsoon night.
+- Fish swimming in a village pond.
+- Big bats, who are mammals, hanging upside down in a banyan tree.
+- Sea turtles, reptiles, coming up a beach to lay eggs in the sand. Watch a video of this if you are far from the sea.
 
 ## Open questions
 - **Why did the first animals grow a backbone?** The first animals with a backbone lived in the sea more than 500 million years ago. Scientists think a backbone may have helped them swim, or protected the nerve cord, but the fossils do not tell us for sure.
@@ -586,12 +586,14 @@ Feathers, Fur and Fins (sci.animals.L2): Topic-level song for Animals L2
 - [India Biodiversity Portal](https://indiabiodiversity.org/) · interactive: For the parent: look up the fish, frogs, reptiles, birds and mammals found near where you live.
 - [iNaturalist](https://www.inaturalist.org/) · interactive: For the parent: photograph a gecko, a toad or a bird and find out their name and group.
 - [AmphibiaWeb](https://amphibiaweb.org/) · interactive: For the parent: photos and facts about frogs, toads and caecilians, including many from India.
-- [Madras Crocodile Bank Trust]() · place · Chennai: See crocodiles, turtles, snakes and lizards up close, and compare their dry scales.
-- [Regional Museum of Natural History]() · place · Mysuru: See animal skeletons and models of Indian wildlife, and look for the backbones.
-- [Taraporewala Aquarium]() · place · Mumbai: Watch fish use their fins and gills, and compare sea fish with river fish.
+- Madras Crocodile Bank Trust · place · Chennai: See crocodiles, turtles, snakes and lizards up close, and compare their dry scales.
+- Regional Museum of Natural History · place · Mysuru: See animal skeletons and models of Indian wildlife, and look for the backbones.
+- Taraporewala Aquarium · place · Mumbai: Watch fish use their fins and gills, and compare sea fish with river fish.
 
 ## Things to buy
 - [Paper drinking straws (a small pack)]() (material): For the Bendy Backbone test, the challenge and the dough animals. A tube of newspaper rolled tightly round a pencil and taped works too. Used in e1, c1, p1. Keep the pack with the craft things. One straw is enough for the experiment.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in A Backbone That Bends and Stands Up. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before A Backbone That Bends and Stands Up.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What do we call an animal with a backbone? → A vertebrate.

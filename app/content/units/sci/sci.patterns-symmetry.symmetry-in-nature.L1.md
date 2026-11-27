@@ -1,9 +1,9 @@
 # Two matching halves: symmetry in butterflies, leaves and faces
 `sci.patterns-symmetry.symmetry-in-nature.L1`
 
-**Summary.** If you hold a mirror on half a butterfly, can you make a whole butterfly? In this unit you will test butterflies, leaves, spoons and faces with a mirror, play a copy-me mirror game, and build the missing half of a butterfly from dal.
+**Summary.** If you hold a mirror on half a butterfly, can you make a whole butterfly? In this lesson you will test butterflies, leaves, spoons and faces with a mirror, play a copy-me mirror game, and build the missing half of a butterfly from dal.
 
-**Intro.** *Look at this butterfly. Is her left side the same as her right side?* Show your child a butterfly, in a book, on a phone or at a balcony plant. Ask them to look at the wings on one side, then the other. What do they notice? Ask: if you could only see one side, could you draw the other side? Why do you think so? Don't answer yet. This unit finds out, with a mirror.
+**Intro.** *Look at this butterfly. Is her left side the same as her right side?* Show your child a butterfly, in a book, on a phone or at a balcony plant. Ask them to look at the wings on one side, then the other. What do they notice? Ask: if you could only see one side, could you draw the other side? Why do you think so? Don't answer yet. This lesson finds out, with a mirror.
 
 ## Learning outcomes
 0. By the end I can say that a shape has symmetry when its two halves match, like a butterfly's two sides.
@@ -28,6 +28,8 @@ Look at a butterfly. Draw a line down the middle of her body. Her left wings and
 - e.g. A steel spoon has symmetry. The line goes along it, from the tip to the end of the handle.
 - e.g. The letter A has symmetry. The line goes straight down the middle.
 - e.g. A chappal and the letter F have no line of symmetry. No line works.
+- **Everyday view:** Symmetry is a mirror line that cuts a shape into two matching halves.
+- **Mathematicians:** Symmetry is any change that leaves a shape looking the same: flipping, or turning round a point like a rangoli or a mandala, or sliding along a pattern.
 ### Why a mirror shows the other half · *defined*
 **Definition:** A mirror shows a thing flipped from side to side. So if you stand a mirror on the line of symmetry, the mirror shows the other half, and you see the whole shape.
 
@@ -35,6 +37,8 @@ In the Mirror Test, the mirror showed the half in front of it, flipped over. For
 - e.g. A mirror on a butterfly's middle line shows a whole butterfly.
 - e.g. A mirror on the letter A shows a whole A.
 - e.g. A mirror on the letter F shows a new shape, not an F.
+- **Common idea:** A mirror swaps left and right.
+- **Physicists who have studied it:** A mirror does not swap left and right. It swaps front and back. Your right hand is still on the right of the picture, but the picture faces you.
 ### Why butterflies, fish and people have two matching sides · *defined*
 **Definition:** Most animals that walk, swim or fly have a left side and a right side that nearly match. This helps them move straight ahead.
 
@@ -42,6 +46,8 @@ A butterfly flaps her left and right wings together. Wings of the same size push
 - e.g. A butterfly has two wings on the left and two on the right.
 - e.g. A fish has a fin on each side of her body.
 - e.g. You have one leg on each side, so you can walk straight.
+- **Evolution:** Animals that move forward in one direction gain from having a head end, and a left and right that match.
+- **Animals such as jellyfish and starfish:** Are the same all around, and do not travel in one direction. Scientists link the body plan to the way each one lives.
 ### Nearly, never exactly · *defined*
 **Definition:** The two halves of a living being nearly match, but never exactly. Each half grows in its own place and has its own small differences.
 
@@ -49,6 +55,8 @@ In the Mirror Test, half a face and the mirror made a face that looked like the 
 - e.g. Your face is nearly even. Each mirror face looked a little different from the real you.
 - e.g. A folded leaf has two edges that almost meet, but not all the way round.
 - e.g. Your heart sits a little to the left of the middle.
+- **Mathematicians:** Think of a shape with perfect mirror symmetry, a thing that nature only comes near.
+- **Biologists:** Find tiny differences between the two sides of every living being. Called fluctuating asymmetry, it is bigger when a being has been stressed by heat, hunger or illness. Even our insides are not mirror images, such as the heart.
 
 ## Mostly agreed
 - Most animals, including humans, have a left side and a right side that nearly match. *How we know:* Look at a butterfly, a crow, a fish, a cat or a friend. Each has the same parts on both sides: wings, eyes, fins, legs or ears.
@@ -154,12 +162,57 @@ Revathi looked at the butterfly. Then she looked in the mirror at her own face, 
 
 "Nearly the same," she said. "Never exactly." And she drew a tiny piece missing from the back wing in her picture.
 
-**For the parent:** For the parent: Revathi finds that she can know the butterfly's hidden side from the side she drew, because the two halves match. A mirror shows this at once. Then she sees that a real butterfly, and her own face, nearly match but never exactly.
 
-- Ask: Revathi drew only half the butterfly. How did Paati's mirror show her the whole butterfly?
-- Ask: How did Revathi draw the other side by herself?
-- Ask: When the butterfly came back, what was different about her two sides?
-- Ask: Are the two sides of your face exactly the same? How could you check?
+## Another story: Half a Kolam
+**
+
+I am a crow. The people in the flats call me Kaaki. Every morning, when the sky over Chennai turns from grey to pink, I fly to the same railing on the second floor of a building near the lake. I come at the same time every day, because something happens at the same time every day. That is how a crow lives. I watch, I remember, and I know what comes next.
+
+At the door by my railing lives a girl called Meenu. She is six. Every morning her Amma sits on the corridor floor outside their door with a small steel bowl of rice flour. She pinches the flour between her fingers and lets it fall in a thin white line. A flower grows on the floor. First come dots, then curls around the dots, then petals. Meenu sits beside her with her chin on her knees and watches. When the kolam is done, a few grains of flour always lie where the ants can find them, and one or two where I can.
+
+I like that kolam. Its left side is just like its right side. A line of dots runs down the middle, and every curl on one side has a curl on the other side, turning the other way. I understand that kind of shape. I have two wings, one on each side, and they match. If they did not match, I would fly round in circles instead of straight to my railing.
+
+"Can I draw it, Amma?" Meenu asks most mornings. Amma always lets her try one corner. Meenu's line goes wobbly. Her curl turns the wrong way. She rubs it out with her palm and frowns. "My side never looks like your side," she says.
+
+"Look at my side first," says Amma. "The other half is the same as this half, only flipped over. Like your two hands." Meenu looks at her two hands. She does not understand, and she says so.
+
+Then one morning, in the rainy weeks of November, Amma's phone rings very early. Amma is a nurse. "They need me at the hospital now," she says. She has drawn only half the kolam. One side of the flower lies on the floor, up to the line of dots in the middle. The other side is bare grey floor. Amma ties Meenu's hair, kisses her forehead and runs for the bus.
+
+Appa comes out with his coffee tumbler. He looks down at the half flower. "Oh no," he says. "Your Amma's kolam is only half done. I don't know how to draw kolams. Shall we sweep it away?"
+
+"No!" says Meenu. She kneels down and stares at the half. I stare too, from my railing. I want to help, but a crow can only say kaa. So I say it, loudly, and I stretch out both my wings to shake off the rain.
+
+That week I am growing new feathers. A crow does not lose her big wing feathers all at once. She loses them in pairs, one from each wing, so the two wings stay the same and she can still fly straight. Meenu looks up. She sees my two wings, each with one feather missing in the same place.
+
+"Kaaki," she says slowly, "your wings are like Amma's kolam." Then she puts her two hands flat on the floor, thumbs touching at the line of dots. Her left hand lies on the half that Amma drew. Her right hand lies on the bare half. Her right hand is just like her left hand, only flipped. Meenu's eyes go wide.
+
+She counts. On Amma's side, there are four dots from the middle to the edge. So she will need four dots on her side too, at the same distances. Amma's top petal curls up and to the left. So her top petal must curl up and to the right.
+
+"Appa," says Meenu, "you put the dots. I will tell you where. Count with me." Appa puts down his tumbler. He kneels on the wet floor in his office trousers. "One, two, three, four," says Meenu, and Appa presses a dot of flour at each count. Then Meenu takes the bowl and draws the curls herself. She keeps looking back at Amma's half, petal by petal, and flips each one in her head before she draws it.
+
+It takes a long time. One petal comes out fatter than its partner. One curl has a little wobble. A neighbour steps carefully around them on the way to the lift and smiles.
+
+In the evening Amma comes home tired, with her bag on her shoulder. The kolam is still there, a little smudged by footsteps. She stops at the door and looks at it for a long time.
+
+"Who finished it?" she asks.
+
+"I did," says Meenu. "Appa did the dots. I just looked at your half and flipped it."
+
+Amma bends down and touches the fat petal with one finger. "This one is bigger than mine," she says.
+
+"Yes," says Meenu.
+
+"Good," says Amma. "Now I can tell which half is yours."
+
+The next morning I come at the same time, as I always do. There is a whole kolam on the floor, and the two halves almost match. And on my railing, someone has left a small pinch of rice, just for me.
+
+**For the parent:** For the parent: the turn comes when Meenu sees Kaaki's two matching wings, each missing a feather in the same place, and then lays her own two hands on the kolam. She understands Amma's words: the missing half is the drawn half, flipped. A symmetrical shape holds the plan for its own missing half. The crow also shows a pattern in time: she comes at the same time each day because the kolam is drawn at the same time each day. The fat petal shows that hand-made and living things are never exactly symmetrical.
+
+- Ask: How did Meenu know how to finish the kolam?
+- Ask: What did Kaaki's wings show Meenu?
+- Ask: Why did Meenu count the dots on Amma's side first?
+- Ask: Why do you think Amma was happy that one petal was fatter?
+- Ask: Why does Kaaki come at the same time every morning?
 
 ## Games
 ### g1 · Mirror Moves: copy me like a mirror (10 min)
@@ -200,6 +253,24 @@ Revathi looked at the butterfly. Then she looked in the mirror at her own face, 
   *Parent says:* Think about the card 'Your face'. Why did the back say 'nearly'?  
   *Child mode:* Think about your own face. Are your two sides exactly the same?
   - Check: The card says 'Your face'. The back says 'Nearly two halves, never exactly'. Why does it say 'nearly'? → **The two sides of a face are close but never exactly the same**
+### old1 · Pattern Path: a board game about patterns that repeat (15 min)
+- **rules:** Copy the 20 squares in order onto a big sheet of paper, in a winding path. Put all the counters on START.; Take turns to roll the die and move that many squares. If you have no die, write 1, 2 and 3 on three paper slips and pick one.; When you land on a task square, do the task. The other players check it. For the question squares, the grown-up reads the answer from the answer sheet.; On a forward, back or miss-a-turn square, do what it says. If a player has to go back, they do not do the task on the new square.; If you cannot do a task, say what is hard about it and miss nothing. Everyone helps.; The first player to reach HOME wins. Then everyone claps the winner's favourite pattern together.
+- **Printable board: The path: 20 squares:** START; Name a thing with two matching sides.; Clap, clap, stamp. The next player copies it.; Touch something on your body that there is only one of.; A butterfly carries you. Go forward 2.; What comes next? Red, blue, red, blue, ...; Draw half a heart in the air. The next player draws the other half.; Stand on one leg in tree pose and count to five.; You looked in the mirror too long. Miss a turn.; How many arms do most starfish have?; Make your face the same on both sides. Now make it different.; Name a thing that looks the same when you turn it a little.; Bees build six-sided cells. Go forward 2.; Hold the mirror down the middle of the letter H. Does it still look like an H?; Make a pattern with your hands. The next player says what comes next.; Your two hands are a pair. Hold them up and flip one over.; The rain washed half of your kolam away. Go back 2.; Say one thing that comes again every day.; Do a mirror dance move with the player on your left.; HOME
+- **Printable answer sheet: Answers for the grown-up:** Square 2: any thing with two matching sides, such as a butterfly, a leaf or a thali.; Square 5: red.; Square 10: five. A few kinds of starfish have more.; Square 11: either way is fine. Your face is nearly the same on both sides, but never exactly.; Square 12: any answer that still looks right after a small turn, such as a flower or a wheel.; Square 14: yes. The letter H has a line of mirror symmetry down the middle, so the half and the mirror make a whole H.; Square 18: any answer, such as sunrise, meals or the tide.
+- **Printable tokens: A counter for each player:** Counter 1; Counter 2; Counter 3; Counter 4
+- **s1 (3 min)**  
+  *Parent does:* 1. Copy the squares onto a big sheet of paper in a winding path. 2. Put a die, the counters and a small hand mirror on the table. 3. Explain the rules.  
+  *Parent says:* Roll the die and move your counter. Do the task on your square. The first one home wins.  
+  *Child mode:* Help draw the path. Put your counter on START.
+- **s2 (10 min)**  
+  *Parent does:* Play as the rules say. When a task is a pattern or a matching half, ask your child to say how they know.  
+  *Parent says:* How do you know the two sides match? What comes next, and why?  
+  *Child mode:* Roll, move and do the task on your square. Check the other players' tasks.
+  - Check: What comes next? Red, blue, red, blue, ... → **Red**
+- **s3 (2 min)**  
+  *Parent does:* The winner picks a favourite pattern from the game. Everyone claps it together. Ask each player to name one pattern they saw on the board.  
+  *Parent says:* Which pattern was your favourite? Let us all clap it.  
+  *Child mode:* Pick your favourite pattern. Clap it with everyone.
 
 ## Experiments
 ### e1 · The Mirror Test: can half a thing and a mirror make the whole? (20 min)
@@ -373,13 +444,13 @@ Revathi looked at the butterfly. Then she looked in the mirror at her own face, 
 9. (count) A butterfly has 3 legs on her left side and 3 legs on her right side. How many legs does she have in all?  
    **Answer:** 6. *Why:* Three on the left and three on the right make 6. The two sides match, so each side has the same number.
 10. (mcq) You fold a paper in half and cut a shape on the fold. Then you open the paper. What do you see?  
-   Options: A shape with two matching halves / A shape with no middle / Two different shapes  
+   Options: A shape with no middle / A shape with two matching halves / Two different shapes  
    **Answer:** A shape with two matching halves. *Why:* The two halves were cut together, so they match. The fold becomes the line of symmetry.
 ### Halves, Mirrors and Art (stretch) (stretch, 10 questions)
 1. (order) Put the Mirror Test in order.  
    **Answer:** ['Guess for each thing', 'Stand the mirror on the middle line', 'Sort the things into two heaps']. *Why:* First we guess, so the test can tell us whether we were right. Then we try the mirror. Then we sort what we found.
 2. (mcq) You stand a mirror on the middle line of a hibiscus flower. What do you see?  
-   Options: A whole flower / Half a flower and an empty mirror / A new shape, not a flower  
+   Options: Half a flower and an empty mirror / A whole flower / A new shape, not a flower  
    **Answer:** A whole flower. *Why:* A hibiscus flower has a line through its centre that cuts it into two matching halves. So the mirror shows the other half, and you see a whole flower.
 3. (label) Say whether each thing has two matching halves: yes, nearly or no. A grown-up writes your answers.  
    **Answer:** ['yes, or nearly', 'nearly', 'no', 'yes']. *Why:* A strong answer says 'nearly' for the face, because the Mirror Test showed small differences. Flowers are living too, so 'nearly' is also a good answer for the hibiscus.
@@ -390,7 +461,7 @@ Revathi looked at the butterfly. Then she looked in the mirror at her own face, 
 6. (fill) The middle line where a shape folds into two matching halves is called the line of ___.  
    **Answer:** symmetry. *Why:* The line of symmetry cuts a shape into two halves that match.
 7. (mcq) You cut a paper butterfly. One wing comes out much bigger than the other. You rest the butterfly on a pencil along her middle. What happens?  
-   Options: She tips towards the bigger wing / She balances / She flies away  
+   Options: She balances / She flies away / She tips towards the bigger wing  
    **Answer:** She tips towards the bigger wing. *Why:* The bigger wing is heavier. The two sides no longer match, so the butterfly tips towards the heavier side.
 8. (write) Someone says: 'Only people make shapes with two matching halves.' What would you tell them? Say it out loud, and a grown-up writes it down.  
    **Answer:** Butterflies, leaves and people grow two matching halves, and nobody draws them. People make symmetric kolams too, but they are not the only ones.. *Why:* A strong answer uses something the child saw, such as the leaf or the butterfly, as evidence.
@@ -406,31 +477,31 @@ Revathi looked at the butterfly. Then she looked in the mirror at her own face, 
 
 ## Quiz
 1. (mcq) A shape has symmetry. What does that mean?  
-   Options: Its two halves match / It is very big / It has many colours  
+   Options: It is very big / Its two halves match / It has many colours  
    **Answer:** Its two halves match. *Why:* Symmetry means the two halves of a shape match, like a butterfly's two sides.
 2. (mcq) Which of these has symmetry?  
    Options: A butterfly / A chappal / A door key  
    **Answer:** A butterfly. *Why:* A butterfly's left wings match her right wings. A chappal and most keys have no line that cuts them into matching halves.
 3. (mcq) Where is the line of symmetry on a butterfly?  
-   Options: Down her body, from head to tail / Across her wings, from side to side / Round the edge of her wings  
+   Options: Across her wings, from side to side / Down her body, from head to tail / Round the edge of her wings  
    **Answer:** Down her body, from head to tail. *Why:* The line down her body has two wings on each side, and the two sides match.
 4. (mcq) Where is the line of symmetry on your face?  
-   Options: Down the middle of your nose / Across your eyes / Along your chin  
+   Options: Across your eyes / Along your chin / Down the middle of your nose  
    **Answer:** Down the middle of your nose. *Why:* A line down the middle of your nose has one eye, one ear and one cheek on each side.
 5. (mcq) You stand a mirror on the middle vein of a leaf. You see a whole leaf. What does that show?  
-   Options: The leaf's two halves match / The leaf is broken / The mirror makes leaves  
+   Options: The leaf is broken / The leaf's two halves match / The mirror makes leaves  
    **Answer:** The leaf's two halves match. *Why:* The mirror shows one half of the leaf, flipped over. A whole leaf appears only when the two halves match.
 6. (mcq) Are the two sides of your face exactly the same?  
-   Options: Nearly, but not exactly / Yes, exactly the same / No, not at all alike  
+   Options: Yes, exactly the same / Nearly, but not exactly / No, not at all alike  
    **Answer:** Nearly, but not exactly. *Why:* In the Mirror Test, the mirror face looked like the person, but not quite. Faces nearly match, never exactly.
 7. (mcq) Why does a butterfly need her two sides to match?  
-   Options: So both sides push the same air, and she flies straight / So she can hear better / So she stays warm at night  
+   Options: So she can hear better / So she stays warm at night / So both sides push the same air, and she flies straight  
    **Answer:** So both sides push the same air, and she flies straight. *Why:* Matching wings push the same amount of air on each side. If one side were much smaller, she would fly crooked.
 8. (mcq) You draw half a flower next to a fold. You fold the paper shut and rub it hard. What appears on the other half?  
    Options: The matching other half, flipped / A different flower / Nothing at all  
    **Answer:** The matching other half, flipped. *Why:* Rubbing copies the drawing onto the other half, flipped like a mirror image. Together the two halves make a whole flower.
 9. (mcq) What do we call the middle line where a shape folds into two matching halves?  
-   Options: The line of symmetry / The edge / The corner  
+   Options: The edge / The line of symmetry / The corner  
    **Answer:** The line of symmetry. *Why:* Fold a shape along its line of symmetry, and the two halves match.
 10. (mcq) A bird pecked a small piece out of one wing of a butterfly. Do her two sides still nearly match?  
    Options: Yes, nearly, but now one side is a little different / No, they are completely different / Yes, exactly the same  
@@ -444,11 +515,11 @@ Revathi looked at the butterfly. Then she looked in the mirror at her own face, 
 - Mehendi artists often draw the same pattern on both hands, flipped.
 
 ## Spotted around us
-- A kolam at a doorstep in Chennai in the month of Margazhi, the same on both sides.
-- A butterfly on a curry leaf or lemon plant on a balcony in Bengaluru, her wings spread flat.
-- Paper kites at Uttarayan in Ahmedabad, each with two matching sides.
-- The Taj Mahal in Agra, where both sides match, though one tomb inside sits a little to one side.
-- Mehendi on a bride's two hands at a wedding in Hyderabad, the same pattern flipped.
+- A kolam at a doorstep in the month of Margazhi, the same on both sides.
+- A butterfly on a curry leaf or lemon plant on a balcony, her wings spread flat.
+- Paper kites at Uttarayan, each with two matching sides.
+- A big building where both sides match, such as a palace or a gateway.
+- Mehendi on a bride's two hands at a wedding, the same pattern flipped.
 
 ## Open questions
 - **Why does the heart sit a little to the left in nearly every person?** Scientists have found some of the first steps that tell a tiny growing baby which side is left. Why the body picks left, and not right, is still not fully understood.
@@ -484,10 +555,15 @@ Two Sides the Same (sci.patterns-symmetry.L1): Topic-level song for Patterns and
 ## Links
 - [StoryWeaver, free picture books from Pratham Books](https://storyweaver.org.in/) · interactive: For the parent: free picture books in many Indian languages to read aloud. Search for books about butterflies.
 - [Butterflies of India](https://www.ifoundbutterflies.org/) · interactive: For the parent: photos of butterflies found in India, to look at both sides of their wings with your child.
-- [Bannerghatta Butterfly Park]() · place · Bengaluru: A butterfly park with a glass house where butterflies fly around visitors.
-- [Tropical Butterfly Conservatory]() · place · Srirangam, Tiruchirappalli: A large butterfly park beside the Kaveri river, with gardens full of butterflies.
+- Bannerghatta Butterfly Park · place · Bengaluru: A butterfly park with a glass house where butterflies fly around visitors.
+- Tropical Butterfly Conservatory · place · Srirangam, Tiruchirappalli: A large butterfly park beside the Kaveri river, with gardens full of butterflies.
 
 ## Things to buy
+- [Seeing Symmetry by Loreen Leedy](https://www.amazon.in/s?k=Seeing+Symmetry) (book): Clear pictures of symmetry in letters, shapes, nature and art, with ideas to try at home. It gives the child many examples of the pattern she is looking for. Used in a1. Read it together after the symmetry hunt.
+- [Snowflake Bentley by Jacqueline Briggs Martin](https://www.amazon.in/s?k=Snowflake+Bentley) (book): The true story of Wilson Bentley, the farmer who photographed snowflakes and found that no two are the same. It shows how patient looking leads to discovery. Used in a1. Read it together on Day 5, after looking at symmetry in nature.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in The Mirror Test: can half a thing and a mirror make the whole?, Dal Butterfly: build the other half. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in e1, a2. Get it before The Mirror Test: can half a thing and a mirror make the whole?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Dal Butterfly: build the other half. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a2. Get it before Dal Butterfly: build the other half.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, old1, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What do we call it when a shape's two halves match? → Symmetry.
@@ -499,7 +575,7 @@ Two Sides the Same (sci.patterns-symmetry.L1): Topic-level song for Patterns and
 
 ## Plan
 - Start options: intro, a1, e1, story, g1, cards
-- Default order: intro → a1 → summary → terms → e1 → explanations → roots → quiz → story → g1 → a2 → a3 → ws-core → g2 → agreed → challenging → p1 → c1 → ws-stretch → big_questions → videos → open_questions
+- Default order: intro → a1 → summary → terms → e1 → explanations → roots → quiz → story → g1 → a2 → a3 → ws-core → g2 → agreed → challenging → p1 → c1 → ws-stretch → big_questions → videos → open_questions → old1
 - Core: a1, e1, g1, a2, ws-core
 
 ## Sources

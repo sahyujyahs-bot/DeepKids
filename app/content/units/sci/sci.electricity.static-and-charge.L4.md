@@ -1,9 +1,9 @@
 # The charge ladder: which materials give electrons, which take them, and where the charge goes
 `sci.electricity.static-and-charge.L4`
 
-**Summary.** Rub two things together and one gains exactly what the other loses. What moves? In this unit you will make a foil ball change its mind, rank materials on a charge ladder by testing pairs, and peel tape to make twin charges.
+**Summary.** Rub two things together and one gains exactly what the other loses. What moves? In this lesson you will make a foil ball change its mind, rank materials on a charge ladder by testing pairs, and peel tape to make twin charges.
 
-**Intro.** *Rub a balloon on your hair and hang it from a thread. Hold your open hand near it. The balloon swings towards your hand. Now hold a ruler you rubbed on wool near it. The balloon swings away. One thing pulled and one thing pushed. Which of them proves that something is charged?* Your hand has no extra charge, yet it pulled the balloon. The ruler pushed, and a push needs charge on both sides. In this unit you use pushes to find out which materials give away electrons and which take them. You hang a foil ball that first jumps to a charged balloon and then swings away from it. You peel two strips of tape apart and find that they carry opposite charges. You build a ladder from your own results. Then you follow the charge as it runs away through a steel spoon or a hand. You find out why a printing press in Sivakasi and a petrol tanker both need the charge to run away safely.
+**Intro.** *Rub a balloon on your hair and hang it from a thread. Hold your open hand near it. The balloon swings towards your hand. Now hold a ruler you rubbed on wool near it. The balloon swings away. One thing pulled and one thing pushed. Which of them proves that something is charged?* Your hand has no extra charge, yet it pulled the balloon. The ruler pushed, and a push needs charge on both sides. In this lesson you use pushes to find out which materials give away electrons and which take them. You hang a foil ball that first jumps to a charged balloon and then swings away from it. You peel two strips of tape apart and find that they carry opposite charges. You build a ladder from your own results. Then you follow the charge as it runs away through a steel spoon or a hand. You find out why a printing press in Sivakasi and a petrol tanker both need the charge to run away safely.
 
 ## Learning outcomes
 0. I can say that rubbing only moves electrons from one thing to another, so one thing gains exactly what the other loses.
@@ -44,7 +44,7 @@ Every atom has a plus centre, made of protons, and minus electrons around it. Th
 ### Only a push proves a thing is charged · *defined*
 **Definition:** Two things with the same kind of charge repel. A pull can happen when only one of the two things is charged, so only repelling shows that both are charged the same way.
 
-A charged balloon pulls on a plain, neutral hand or wall. That surprises people. The balloon's charge shifts the neutral thing's own plus and minus charges a little, so the side nearest the balloon gets the opposite charge. That near side is pulled a little harder than the far side is pushed away, so the overall result is a small pull. This is called polarisation. So a pull cannot tell you if the other thing is charged. A push can. The only way to push a minus balloon away is with another minus charge. That is why a scientist who wants to test a charge looks for repelling, and why the tests in this unit all watch for a push.
+A charged balloon pulls on a plain, neutral hand or wall. That surprises people. The balloon's charge shifts the neutral thing's own plus and minus charges a little, so the side nearest the balloon gets the opposite charge. That near side is pulled a little harder than the far side is pushed away, so the overall result is a small pull. This is called polarisation. So a pull cannot tell you if the other thing is charged. A push can. The only way to push a minus balloon away is with another minus charge. That is why a scientist who wants to test a charge looks for repelling, and why the tests in this lesson all watch for a push.
 - e.g. A rubbed balloon swings towards a plain hand, so the pull does not prove the hand is charged.
 - e.g. A rubbed balloon swings away from a ruler rubbed on wool, so both have the same kind of charge.
 - e.g. A bit of paper jumps to a comb because of polarisation, not because the paper is charged.
@@ -167,7 +167,7 @@ We have built a ladder of who gives electrons and who takes them, and followed c
 - *what is life:* A flying bee collects a small plus charge from the air, and a flower joined to the ground holds the opposite kind. Pollen can leap between them. So living things give and take charge too.
 - *what is this world:* A spark, a tanker's chain and a lightning bolt all end in the same place, the Earth, which is large enough to take charge from anything.
 
-A piece of cotton is not plus or minus by itself. Put it next to wool, and it takes electrons. Put it next to polythene, and it gives them away. In the Charge Ladder and the other tests in this unit, charge never appeared from nowhere. It only moved, and the ground is the biggest place it can go. A clinging sheet, a spark and a lightning bolt are all the same thing: charge moving between things that happen to meet.
+A piece of cotton is not plus or minus by itself. Put it next to wool, and it takes electrons. Put it next to polythene, and it gives them away. In the Charge Ladder and the other tests in this lesson, charge never appeared from nowhere. It only moved, and the ground is the biggest place it can go. A clinging sheet, a spark and a lightning bolt are all the same thing: charge moving between things that happen to meet.
 
 - **Nagarjuna, Mulamadhyamakakarika, chapter 15:** “न संभवः स्वभावस्य युक्तः प्रत्ययहेतुभिः / हेतुप्रत्ययसंभूतः स्वभावः कृतको भवेत् / स्वभावः कृतको नाम भविष्यति पुनः कथम् / अकृत्रिमः स्वभावो हि निरपेक्षः परत्र च” Nagarjuna argued that nothing has a nature of its own that stays the same whatever it meets. Things appear only in dependence on other things. (The same cotton gave electrons to one partner and took them from another. Its sign was not in the cotton alone. It depended on the partner.)
 - **Tao Te Ching, chapter 2:** “故有無相生，難易相成，長短相較，高下相傾，音聲相和，前後相隨。” Being and non-being give birth to each other. Hard and easy complete each other. Long and short shape each other, and high and low rest on each other. (A rung on the ladder is high only when something lower is there to give to, and low only when something higher is there to take from.)
@@ -552,14 +552,14 @@ That Deepavali, labels printed on those sheets went onto cracker boxes in shops 
 15. (perspective) Selvi and Imran have a ladder. Cotton took electrons from wool, and it gave electrons to polythene.  
    **Answer:** Answers vary. A strong answer picks a side and gives a reason. Imran's view fits both results, since cotton took from wool and gave to polythene.. *Why:* Selvi only looked at one pair. Both results together show that cotton is minus with a partner above it and plus with a partner below it.
 16. (mcq) Clear tape is peeled off a table, and nobody rubs it, yet it ends up charged. What does this show?  
-   Options: Touching and pulling apart is enough to move charge / Tape always carries a charge / Friction heat makes the charge  
+   Options: Tape always carries a charge / Touching and pulling apart is enough to move charge / Friction heat makes the charge  
    **Answer:** Touching and pulling apart is enough to move charge. *Why:* Nothing rubbed the tape, so heat from rubbing cannot be the cause. Touching and then separating two materials is enough to move electrons from one to the other. Rubbing only helps by making more of the two surfaces touch.
 ### Distance, points and sparks (stretch) (stretch, 17 questions)
 1. (mcq) A bit of paper has no extra charge, yet it jumps up to a rubbed comb. Why?  
    Options: The comb shifts the paper's own charges, so the near side gets the opposite charge and is pulled / The paper has secretly gained a charge / The air pushes the paper up  
    **Answer:** The comb shifts the paper's own charges, so the near side gets the opposite charge and is pulled. *Why:* This is polarisation. The comb's minus charge pushes the paper's electrons slightly away, so the near side of the paper is plus. A near plus side is pulled more strongly than the far minus side is pushed, so the paper rises.
 2. (mcq) A piece of cotton meets wool, and later meets polythene. Which is right?  
-   Options: Cotton is minus with wool and plus with polythene / Cotton is plus with both / Cotton is minus with both  
+   Options: Cotton is plus with both / Cotton is minus with wool and plus with polythene / Cotton is minus with both  
    **Answer:** Cotton is minus with wool and plus with polythene. *Why:* Wool is higher on the ladder, so it gives electrons to cotton. Polythene is lower, so cotton gives electrons to it. The cotton plays both roles.
 3. (truefalse) A material can be plus with one partner and minus with another.  
    **Answer:** True. *Why:* True. Plus and minus depend on where the two materials sit on the ladder. A material in the middle gives to those below it and takes from those above it.
@@ -589,7 +589,7 @@ That Deepavali, labels printed on those sheets went onto cracker boxes in shops 
 15. (write) Moving electrons are called minus, though the names plus and minus were chosen before electrons were found. Explain why the names stayed.  
    **Answer:** The names were a guess that happened to work in the sums. Changing them would mean changing every book and every wire, and the electron is just the thing that carries the minus charge.. *Why:* A strong answer says that a name is a label that works, even if the guess behind it was backwards.
 16. (mcq) Two rubbed balloons push each other with some force at 1 centimetre apart. How strong is the push when they are 3 centimetres apart?  
-   Options: One ninth as strong / One third as strong / The same  
+   Options: One third as strong / One ninth as strong / The same  
    **Answer:** One ninth as strong. *Why:* 3 centimetres is 3 times as far. The push divides by 3 times 3, which is 9. That is why two balloons that push hard at 1 centimetre hardly push at 10.
 17. (fill) A spark can jump through air when the push on the air is about ____ volts for every millimetre.  
    **Answer:** ['3,000', '3000', 'three thousand']. *Why:* Air is an insulator until the push is strong enough. About 3,000 volts for each millimetre is where it gives way. So a 1 centimetre spark needs about 30,000 volts.
@@ -597,7 +597,7 @@ That Deepavali, labels printed on those sheets went onto cracker boxes in shops 
 1. (write) A student rubs a comb on cotton and finds that the comb pushes a charged balloon away. She says cotton must be a plus material. Why is that claim too quick?  
    **Answer:** She tested cotton against only one partner. Cotton might be plus with that comb and minus with a different partner higher up the ladder. Plus and minus belong to a pair.. *Why:* A strong answer says that a result with one partner does not tell you what happens with another, because the sign depends on the pair.
 2. (mcq) Wool and nylon are close neighbours on the ladder. Why is a ladder a poor guide to rubbing them together?  
-   Options: Their difference is so small that damp air, dirt or how hard you rub can reverse the result / Wool and nylon are both insulators / Wool and nylon have no electrons  
+   Options: Wool and nylon are both insulators / Their difference is so small that damp air, dirt or how hard you rub can reverse the result / Wool and nylon have no electrons  
    **Answer:** Their difference is so small that damp air, dirt or how hard you rub can reverse the result. *Why:* Materials far apart give a big, steady difference. Close neighbours give a small difference, which small changes in the surface can flip. Published tables disagree about neighbours for this reason.
 3. (count) A balloon has taken 60,000,000,000 electrons from a woollen shawl. How many electrons has the shawl lost?  
    **Answer:** 60,000,000,000. *Why:* Charge is never made or destroyed. Whatever the balloon gained, the shawl lost, so the shawl lost exactly 60,000,000,000 electrons.
@@ -606,7 +606,7 @@ That Deepavali, labels printed on those sheets went onto cracker boxes in shops 
 5. (write) Design a fair test to find out if damp air changes the order of materials on your ladder. Say what you would keep the same, and what you would change.  
    **Answer:** Rub the same materials, with the same number of strokes, against the same wool and polythene, and test with the same hanging balloon. Do it in dry air first, then in damp air. Only the dampness changes.. *Why:* A fair test changes one thing only. The materials, the strokes, the wool and polythene, and the hanging balloon must stay the same, so any difference comes from the damp air.
 6. (mcq) Why does a brush of many thin metal threads remove charge from paper better than one flat metal strip?  
-   Options: Each thread tip is a sharp point, and charge leaks into the air easily from a point / Threads are lighter / A flat strip has no electrons  
+   Options: Threads are lighter / A flat strip has no electrons / Each thread tip is a sharp point, and charge leaks into the air easily from a point  
    **Answer:** Each thread tip is a sharp point, and charge leaks into the air easily from a point. *Why:* Charge crowds at points and the field there is strong enough to carry charge into the air. A hundred tips leak a lot more charge than one smooth edge.
 7. (odd) Which one is the odd one out, and why? A tanker's trailing chain, an earth pin on a plug, a pointed lightning rod, a rubber mat.  
    **Answer:** The rubber mat, because it is an insulator. The other three are conductors that carry charge to the ground.. *Why:* Rubber keeps charge from moving. A chain, an earth pin and a lightning rod are metal paths that carry charge safely into the earth.
@@ -637,10 +637,10 @@ That Deepavali, labels printed on those sheets went onto cracker boxes in shops 
 
 ## Quiz
 1. (mcq) A comb rubbed on a shawl gains 5 billion electrons. How many has the shawl lost?  
-   Options: 5 billion / 10 billion / None, since charge was made  
+   Options: 10 billion / 5 billion / None, since charge was made  
    **Answer:** 5 billion. *Why:* Charge is never made or destroyed. What one thing gains, the other loses.
 2. (mcq) Which result proves that a rubbed straw is charged?  
-   Options: It pushes away a charged balloon / It picks up bits of paper / It sticks to a wall  
+   Options: It picks up bits of paper / It sticks to a wall / It pushes away a charged balloon  
    **Answer:** It pushes away a charged balloon. *Why:* Paper and walls are pulled even when they are neutral. Only a push shows that two things have the same kind of charge.
 3. (mcq) On a ladder, wool is rung 2 and PVC is rung 12. Wool is rubbed with PVC. Which gets the minus charge?  
    Options: PVC / Wool / Both get a minus  
@@ -652,7 +652,7 @@ That Deepavali, labels printed on those sheets went onto cracker boxes in shops 
    Options: The charge runs through the spoon and your body to the floor / Steel makes charge vanish / Steel makes new charge of the opposite kind  
    **Answer:** The charge runs through the spoon and your body to the floor. *Why:* Steel and your body are both conductors. The charge spreads out and runs away to the Earth.
 6. (mcq) Why does touching an earthed metal pipe calm static on a sheet of paper?  
-   Options: The pipe gives the charge a metal path to the ground / The pipe is colder than the paper / The pipe is heavier than the paper  
+   Options: The pipe is colder than the paper / The pipe is heavier than the paper / The pipe gives the charge a metal path to the ground  
    **Answer:** The pipe gives the charge a metal path to the ground. *Why:* An earthed pipe is joined to the ground by metal. Charge flows along it into the large Earth.
 7. (mcq) Two charged balloons are 4 centimetres apart. They are moved to 8 centimetres apart. What happens to the push between them?  
    Options: It becomes a quarter as big / It becomes half as big / It stays the same  
@@ -664,10 +664,10 @@ That Deepavali, labels printed on those sheets went onto cracker boxes in shops 
    Options: The push on the air gets strong enough for the air to let charge through / Air is a conductor / The air is damp  
    **Answer:** The push on the air gets strong enough for the air to let charge through. *Why:* Air is an insulator until the push is about 3,000 volts for each millimetre. Then it gives way, and charge jumps across.
 10. (mcq) Which place most needs to guard against static sparks?  
-   Options: A flour mill / A library / A bus stop  
+   Options: A library / A flour mill / A bus stop  
    **Answer:** A flour mill. *Why:* Fine flour dust in the air can burn very fast if a spark lights it. Mills keep the air damp and earth every metal part.
 11. (mcq) Which of these do scientists still argue about?  
-   Options: What exactly moves, and why, when two surfaces touch and part / Whether charge is ever made from nothing / Whether the same kinds of charge push apart  
+   Options: Whether charge is ever made from nothing / Whether the same kinds of charge push apart / What exactly moves, and why, when two surfaces touch and part  
    **Answer:** What exactly moves, and why, when two surfaces touch and part. *Why:* The other two are settled. Electrons, ions and tiny pieces of material have each been proposed for the first.
 12. (mcq) Why does the phrase 'cotton is a plus material' mislead?  
    Options: Cotton is plus with some partners and minus with others / Cotton has no charge at all / Cotton is always minus  
@@ -749,6 +749,9 @@ One Path or Many Paths (sci.electricity.L4): Topic-level song
 - [A pack of 25 plain balloons](https://www.amazon.in/s?k=latex+balloons+pack+plain) (material): For the Charge Ladder, Two Balloons, Foil Ball and Charge Walk. Round, thin balloons work best. Buy extra, as they burst. Used in e1, e2, a1, a2, p1. 
 - [A roll of kitchen aluminium foil](https://www.amazon.in/s?k=aluminium+foil+roll+kitchen) (material): For the Foil Ball, the Charge Walk and the Stop the Cling challenge. Most kitchens already have one. Used in a1, a2, c1. 
 - [A roll of clear cello tape](https://www.amazon.in/s?k=transparent+cello+tape+roll) (material): For the Tape Twins activity. Clear tape about 2 centimetres wide works best. Used in a3. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in Two Balloons: does twice the rubbing push twice as far?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e2. Get it before Two Balloons: does twice the rubbing push twice as far?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Charge Ladder: who gives electrons, and who takes them?, Two Balloons: does twice the rubbing push twice as far?, The Foil Ball That Changes Its Mind. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, a1. Get it before The Charge Ladder: who gives electrons, and who takes them?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What moves when you rub a balloon on wool? → Electrons, from the wool to the balloon.

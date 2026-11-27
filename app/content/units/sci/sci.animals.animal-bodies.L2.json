@@ -576,11 +576,11 @@
       "t": "mcq",
       "q": "Which animal could go only where there is water?",
       "options": [
-       "The duck",
        "The rohu fish",
+       "The duck",
        "The snake"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A fish breathes with gills and swims with fins, so the rohu fish must stay in water. The duck and the snake can move on land and in water. Each body suits some places and not others."
      },
      "parent": "Count the places on the back of each place card. The duck can get through the most places, seven, because a duck can walk, swim and fly. A human can get through the fewest, three."
@@ -993,10 +993,10 @@
       "q": "A cow eats grass all day. Why does her jaw move from side to side?",
       "options": [
        "To keep her mouth clean",
-       "So her flat back teeth rub the grass into tiny bits",
-       "Because her front teeth are too big"
+       "Because her front teeth are too big",
+       "So her flat back teeth rub the grass into tiny bits"
       ],
-      "a": 1,
+      "a": 2,
       "why": "In the test, rubbing tore the leaf into bits, but pressing only flattened it. A cow's wide molars rub past each other as her jaw swings sideways, grinding tough grass into a mush she can swallow."
      }
     }
@@ -1067,11 +1067,11 @@
       "t": "mcq",
       "q": "What does a cat do just before she jumps onto a wall?",
       "options": [
-       "She stands up tall on straight legs",
        "She crouches low with her legs bent",
+       "She stands up tall on straight legs",
        "She lies down flat"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Jumpers bend their legs first. Bent legs can straighten fast and push on the ground for longer. The Jump Test checks if this is true for you too."
      }
     }
@@ -1227,11 +1227,11 @@
       "t": "mcq",
       "q": "How does a snake move forward without legs?",
       "options": [
-       "She pushes the curves of her body against bumps on the ground",
        "She floats on the air",
+       "She pushes the curves of her body against bumps on the ground",
        "She rolls like a ball"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A snake bends into curves and pushes each curve sideways against stones, sticks and bumps. The ground pushes back and moves her forward. On smooth glass she has little to push on, so she slides about."
      },
      "parent": "An earthworm makes her body long and thin, then short and fat, one part at a time. Tiny bristles on her body grip the soil."
@@ -1465,11 +1465,11 @@
       "t": "mcq",
       "q": "What do an ant, a crow and you all push on to walk?",
       "options": [
-       "The ground",
        "The water",
-       "Nothing"
+       "Nothing",
+       "The ground"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Walkers push back on the ground with their feet or legs. The ground pushes back, and they move forward. A crow also pushes on the air when she flies."
      }
     }
@@ -1771,10 +1771,10 @@
      "p": "Two frogs are the same size. One has short back legs and one has long back legs. Which frog most likely jumps farther?",
      "opts": [
       "The frog with short back legs",
-      "The frog with long back legs",
-      "They jump the same"
+      "They jump the same",
+      "The frog with long back legs"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Long legs that fold up can push on the ground for longer as they straighten. A longer push gives a faster start and a longer jump. That is what your bent knees showed in the Jump Test."
     },
     {
@@ -2013,10 +2013,10 @@
    "p": "How does an earthworm move without legs?",
    "opts": [
     "By flapping",
-    "By stretching and squeezing the body, while tiny bristles grip the soil",
-    "By jumping"
+    "By jumping",
+    "By stretching and squeezing the body, while tiny bristles grip the soil"
    ],
-   "a": 1,
+   "a": 2,
    "why": "An earthworm makes her body long and thin, then short and fat, one part at a time. Tiny bristles grip the soil so she does not slide back. If you said jumping, think of the frog: jumping needs legs.",
    "outcome": 3
   },
@@ -2037,10 +2037,10 @@
    "p": "Why do a frog's back legs fold up in a Z shape when she sits?",
    "opts": [
     "To keep them warm",
-    "So they can straighten fast and give a long push when she jumps",
-    "Because they are broken"
+    "Because they are broken",
+    "So they can straighten fast and give a long push when she jumps"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Folded legs are ready to straighten. Long, folded legs push on the ground for a long time, so the frog jumps far.",
    "outcome": 1
   },
@@ -2049,10 +2049,10 @@
    "p": "Which teeth grind food into small bits?",
    "opts": [
     "The flat front teeth (incisors)",
-    "The pointed teeth (canines)",
-    "The wide back teeth (molars)"
+    "The wide back teeth (molars)",
+    "The pointed teeth (canines)"
    ],
-   "a": 2,
+   "a": 1,
    "why": "Molars are wide and bumpy, and grind food. Incisors cut, and canines grip and tear. If you picked the front teeth, remember the cucumber bite in My Teeth Map: your front teeth made cuts, not mush.",
    "outcome": 4
   },
@@ -2061,10 +2061,10 @@
    "p": "A tiger has very long pointed canines. What does a tiger eat?",
    "opts": [
     "Grass",
-    "Meat",
-    "Nectar"
+    "Nectar",
+    "Meat"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Long canines grip and tear meat. A tiger is a carnivore. Grass-eaters like cows have wide, flat grinding teeth instead.",
    "outcome": 4
   },
@@ -2084,11 +2084,11 @@
    "t": "mcq",
    "p": "Why does a duck have skin between her toes?",
    "opts": [
-    "To push a lot of water back when she swims",
     "To keep her feet clean",
+    "To push a lot of water back when she swims",
     "To help her fly"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The web of skin makes the foot a wide paddle. The duck pushes water back, and the water pushes her forward.",
    "outcome": 2
   },
@@ -2321,7 +2321,89 @@
    "why": "See the skeletons and stuffed animals up close, and compare their legs, wings, teeth and beaks."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in The Jump Test: do bent knees make you jump farther?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before The Jump Test: do bent knees make you jump farther?."
+  },
+  {
+   "id": "b-a-digital-stopwatch--optiona",
+   "item": "A digital stopwatch (optional)",
+   "kind": "tool",
+   "why": "Used in Make a Flying Lizard: the slowest paper glider. About ₹150 to ₹400. A phone stopwatch works well.",
+   "url": "https://www.amazon.in/s?k=digital+stopwatch",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before Make a Flying Lizard: the slowest paper glider."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Jump Test: do bent knees make you jump farther?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before The Jump Test: do bent knees make you jump farther?."
+  },
+  {
+   "id": "b-a-small-hand-mirror",
+   "item": "A small hand mirror",
+   "kind": "material",
+   "why": "Used in My Teeth Map: count, draw and bite. About ₹20 to ₹80. A shiny steel plate shows reflections too.",
+   "url": "https://www.amazon.in/s?k=small+hand+mirror",
+   "used_in": [
+    "a4"
+   ],
+   "plan": "Get it before My Teeth Map: count, draw and bite."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Wing Push: flap a notebook like a wing. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Get it before Wing Push: flap a notebook like a wing."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in Wing Push: flap a notebook like a wing. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Get it before Wing Push: flap a notebook like a wing."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "What does a fish push on to swim?",

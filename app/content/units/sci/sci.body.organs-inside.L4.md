@@ -1,7 +1,7 @@
 # Heart and lungs on the clock: who sets the pace, and who holds it back?
 `sci.body.organs-inside.L4`
 
-**Summary.** A heart left on its own beats faster than yours does while you sit still. So what holds it back? In this unit you will count your pulse before, during and after exercise, measure how far your chest moves as you breathe, and play a card game about which body jobs you can take over.
+**Summary.** A heart left on its own beats faster than yours does while you sit still. So what holds it back? In this lesson you will count your pulse before, during and after exercise, measure how far your chest moves as you breathe, and play a card game about which body jobs you can take over.
 
 **Intro.** *Put two fingers on your wrist and count the beats for 15 seconds. Now hold your breath for five seconds. Which could you stop if you really wanted to: your heartbeat or your breathing?* You can hold your breath, and you can breathe out slowly or sing a long note. You cannot decide to stop your heart. Yet both organs work all day and all night without you thinking about them. Why can you take over one and not the other? And what is your heart doing while you sit still and do nothing?
 
@@ -44,7 +44,7 @@ Each time the heart squeezes, it pushes blood into the arteries, and the artery 
 ### The heart has its own pacemaker · *defined*
 **Definition:** A small patch of special cells at the top of the heart, called the pacemaker or the sinoatrial node, starts each heartbeat by itself.
 
-Your heart does not wait for a message from the brain to beat. Special cells in the pacemaker make a tiny electrical signal again and again. The signal spreads over the heart muscle, and the heart squeezes. A frog's heart taken out of the body and kept in the right salty water goes on beating for hours. A transplanted human heart has its nerves cut, and it still beats. Left alone, a human pacemaker fires at about 100 to 115 times a minute. That is faster than the resting pulse of most people, so something must be slowing the heart down at rest.
+Your heart does not wait for a message from the brain to beat. Special cells in the pacemaker make a tiny electrical signal again and again. The signal spreads over the heart muscle, and the heart squeezes. A frog's heart taken out of the body and kept in the right salty water goes on beating for hours. A transplanted human heart has its nerves cut, and it still beats. Left alone, a human pacemaker fires at about 100 to 115 times a minute. That is faster than the resting pulse of most people, so something must be slowing the heart down at rest. The heart is about the size of your fist.
 - e.g. A frog's heart in salty water keeps beating on a laboratory dish.
 - e.g. After a heart transplant, the new heart beats with its nerves cut, usually at about 90 to 110 beats a minute at rest.
 - e.g. Heart cells grown in a dish beat by themselves, and cells that touch fall into the same rhythm.
@@ -156,9 +156,9 @@ We have counted pulses and measured breaths. The heart keeps its own beat, and b
 
 Your heart is made of billions of cells, and each one can beat alone. In the pacemaker, cells that touch fall into one shared rhythm, and the whole heart beats as one. A nerve from the brain then adjusts that single beat, and the lungs next door keep a rhythm that is linked to it. So many cells become one beat, and a nerve from outside the heart steers that one beat. In this way a body is one thing that is made of many parts working together.
 
-- **Katha Upanishad 2.2.5:** “न प्राणेन नापानेन मर्त्यो जीवति कश्चन / इतरेण तु जीवन्ति यस्मिन्नेतावुपाश्रितौ” No mortal lives by the in-breath or the out-breath alone. They live by something else, on which both of these depend. (In this unit, the rhythm of breath comes from cells in the brainstem, and both the in-breath and the out-breath depend on them. The old verse also says that something other than the breath itself keeps a being alive. Both breaths depend on that something.)
+- **Katha Upanishad 2.2.5:** “न प्राणेन नापानेन मर्त्यो जीवति कश्चन / इतरेण तु जीवन्ति यस्मिन्नेतावुपाश्रितौ” No mortal lives by the in-breath or the out-breath alone. They live by something else, on which both of these depend. (In this lesson, the rhythm of breath comes from cells in the brainstem, and both the in-breath and the out-breath depend on them. The old verse also says that something other than the breath itself keeps a being alive. Both breaths depend on that something.)
 - **Bhagavad Gita 4.29:** “अपाने जुह्वति प्राण प्राणेऽपानं तथाऽपरे। / प्राणापानगती रुद्ध्वा प्राणायामपरायणाः।।” Some people offer the in-breath into the out-breath, and the out-breath into the in-breath, and so hold the course of both. This practice is called pranayama. (Breathing is the one automatic job we can steer, and many traditions noticed that long ago. Today, science studies the same practice when it measures how a longer breath out calms the pulse.)
-- **Thich Nhat Hanh, Peace Is Every Step, 1991:** Breathing in, I calm my body. Breathing out, I smile. (A longer breath out is one of the few ways that we can influence the brake on the heart. The tests in this unit let you see for yourself that this can work.)
+- **Thich Nhat Hanh, Peace Is Every Step, 1991:** Breathing in, I calm my body. Breathing out, I smile. (A longer breath out is one of the few ways that we can influence the brake on the heart. The tests in this lesson let you see for yourself that this can work.)
 - Science (settled): Heart cells grown alone in a dish each beat at their own pace. When they touch, they fall into one shared rhythm.
 - Science (open): Nobody knows yet how the thinking part of the brain takes over an automatic rhythm, or what makes a choice feel like your own.
 - Other view, Most neuroscientists, and the old Indian Charvaka school: The pacemaker, the brake and the choice to hold a breath are all signals between cells. There is no separate 'you' outside the body who steers it. The feeling of being the one who chooses is itself something the brain makes. This is an honest view, and many careful people hold it.
@@ -521,7 +521,7 @@ That night, Anju opened her notebook to a clean page. She wrote the title in big
   - Note: A difference of fewer than 8 beats a minute could easily be counting error. An honest answer is that no idea beat sitting still by much, and that repeating the test would help. In later tests the child starts a little tired, which can make those ideas look worse. To check, sit still once more at the end and compare it with the first sit. With 2 to 4 children: each child tests their own plan, and one child times for all. Do not run the step-ups side by side. Keep the cloth cool and damp from the tap, never cold from the fridge.
 
 ## Worksheets
-### Pulse and Breath Detective (core) (core, 15 questions)
+### Pulse and Breath Detective (core) (core, 16 questions)
 1. (mcq) You count 18 beats in 10 seconds. How many beats per minute is that?  
    Options: 108 beats per minute / 28 beats per minute / 180 beats per minute  
    **Answer:** 108 beats per minute. *Why:* There are six 10-second spells in a minute. 18 times 6 is 108. If you chose 28, you added 10. If you chose 180, you multiplied by 10.
@@ -530,7 +530,7 @@ That night, Anju opened her notebook to a clean page. She wrote the title in big
 3. (fill) To turn a 15-second pulse count into beats per minute, you multiply by ____.  
    **Answer:** ['4', 'four']. *Why:* Four spells of 15 seconds make one minute, so the count is multiplied by 4.
 4. (mcq) What is the pulse that you feel at your wrist?  
-   Options: A wave of stretch moving along the artery wall / The same blood from that beat arriving at the wrist / A muscle in the wrist twitching  
+   Options: The same blood from that beat arriving at the wrist / A muscle in the wrist twitching / A wave of stretch moving along the artery wall  
    **Answer:** A wave of stretch moving along the artery wall. *Why:* The heart pushes blood into the arteries, and their elastic walls stretch. The stretch travels as a wave at 5 to 10 metres a second, much faster than the blood.
 5. (order) Put these steps in the right order for counting a fair pulse.  
    **Answer:** ['Sit quietly for two minutes', 'Find the pulse with two fingers', 'Count the taps for exactly 15 seconds', 'Multiply the count by 4']. *Why:* A fair count starts with a calm body. You then find the pulse, count for the same time every time, and finish with the sum.
@@ -552,16 +552,18 @@ That night, Anju opened her notebook to a clean page. She wrote the title in big
 13. (write) In the activity Two Clocks, you held your breath for five seconds. What did your body want to do, and what does that tell you about who runs your breathing?  
    **Answer:** My body wanted to breathe. Breathing is run by my brainstem all the time, and I can take over for a short while, but the brainstem pushes me to breathe again.. *Why:* A strong answer says that breathing is automatic, that you can steer it for a while, and that the body brings back the rhythm.
 14. (mcq) In a quiet breath, a tape round the chest grows only about 1 centimetre. Why does the tape not show all the extra room the lungs get?  
-   Options: The diaphragm moving down adds room that the tape cannot see / The lungs do not grow when you breathe in / The tape is too long  
+   Options: The lungs do not grow when you breathe in / The tape is too long / The diaphragm moving down adds room that the tape cannot see  
    **Answer:** The diaphragm moving down adds room that the tape cannot see. *Why:* When the diaphragm moves down, it pushes the belly out and gives the lungs much of their new room. A tape round the chest only sees the ribs.
 15. (truefalse) A transplanted heart, whose nerves have been cut, still beats.  
    **Answer:** True. *Why:* True. The pacemaker cells start each beat themselves, so a heart still beats when its nerves are cut. It beats faster at rest than a normal heart, because the nerve brake is missing.
+16. (fill) Your heart is about the size of your ____.  
+   **Answer:** ['fist']. *Why:* A closed fist is about the size of a heart. Make a fist, hold it on your chest, and feel how little room the heart takes up for its big job.
 ### Brake, Gas and Other Bodies (stretch) (stretch, 16 questions)
 1. (mcq) What does the vagus nerve do to the heart?  
-   Options: It sends signals that slow the pacemaker down / It makes the heart beat faster / It starts the first beat of the heart  
+   Options: It makes the heart beat faster / It starts the first beat of the heart / It sends signals that slow the pacemaker down  
    **Answer:** It sends signals that slow the pacemaker down. *Why:* The vagus nerve releases a chemical onto the pacemaker cells that makes them fire less often. The pacemaker itself starts the beats.
 2. (mcq) A person with a transplanted heart has a resting pulse of about 100. What does this suggest?  
-   Options: Without the nerve brake, the heart beats at its own faster speed / New hearts are weak and need to beat faster / Transplanted hearts have no pacemaker  
+   Options: New hearts are weak and need to beat faster / Transplanted hearts have no pacemaker / Without the nerve brake, the heart beats at its own faster speed  
    **Answer:** Without the nerve brake, the heart beats at its own faster speed. *Why:* The transplant cuts the nerves. Without the brake, the pacemaker beats at its own speed, which is faster than most resting pulses.
 3. (fill) The small patch of cells at the top of the heart that starts every beat is called the ____.  
    **Answer:** ['pacemaker', 'sinoatrial node']. *Why:* The pacemaker cells make a tiny electrical signal again and again. The signal spreads over the heart, which squeezes.
@@ -579,7 +581,7 @@ That night, Anju opened her notebook to a clean page. She wrote the title in big
    Options: Rest to 15 seconds / 15 seconds to 30 seconds / 30 seconds to 60 seconds  
    **Answer:** Rest to 15 seconds. *Why:* In the first 15 seconds the pulse rose by 24 beats, which is about 1.6 beats every second. Later it rose more slowly.
 10. (mcq) Why is it dangerous to breathe fast and deep many times before holding your breath underwater?  
-   Options: It lowers carbon dioxide, so the urge to breathe comes late and you can faint / It fills your lungs with too much air / It makes your heart stop  
+   Options: It fills your lungs with too much air / It makes your heart stop / It lowers carbon dioxide, so the urge to breathe comes late and you can faint  
    **Answer:** It lowers carbon dioxide, so the urge to breathe comes late and you can faint. *Why:* The urge to breathe comes mostly from rising carbon dioxide. Fast deep breathing removes carbon dioxide, so the warning comes late, while oxygen can run low enough to make you faint.
 11. (truefalse) The signal that a nerve sends to slow a heart is a chemical released at the heart.  
    **Answer:** True. *Why:* True. In 1921, Otto Loewi showed that fluid from a slowed frog heart slowed a second heart that had no nerve. The chemical was later named acetylcholine.
@@ -601,7 +603,7 @@ That night, Anju opened her notebook to a clean page. She wrote the title in big
 3. (write) After exercise, a pulse falls from 150 to 120 in the first minute. In the next minute it falls from 120 to 108. Explain why the second fall is smaller.  
    **Answer:** The brake on the heart comes back quickly, so the pulse falls fast in the first minute. After that the body is still warm and still has some adrenaline, so the pulse comes down slowly.. *Why:* A strong answer says that the fast part of the fall is the brake returning, and that the slow part is the body winding down. The first fall was 30 beats and the second was 12.
 4. (mcq) Doctors give a rested grown-up a drug that blocks the vagus nerve. What do they find?  
-   Options: The pulse rises towards the pacemaker's own speed of about 100 / The pulse falls to nearly zero / Nothing changes  
+   Options: The pulse falls to nearly zero / Nothing changes / The pulse rises towards the pacemaker's own speed of about 100  
    **Answer:** The pulse rises towards the pacemaker's own speed of about 100. *Why:* If the brake is blocked, the pacemaker beats at its own speed. This is evidence that the vagus brake is on at rest.
 5. (truefalse) The vagus nerve slows the heart by sending electricity straight into the heart muscle.  
    **Answer:** False. *Why:* False. The nerve releases a chemical, acetylcholine, onto the pacemaker cells, and the chemical slows them.
@@ -610,7 +612,7 @@ That night, Anju opened her notebook to a clean page. She wrote the title in big
 7. (sort) Sort each animal by whether the animal's resting heart beats faster or slower than a child's, which is about 85 beats a minute.  
    **Answer:** Mouse → Faster than a child; Cat → Faster than a child; Hummingbird → Faster than a child; Elephant → Slower than a child; Blue whale diving → Slower than a child. *Why:* Small animals have fast hearts and large animals have slow hearts. A diving blue whale slows the heart to only a few beats a minute.
 8. (mcq) Why do insects not need blood to carry oxygen to their cells?  
-   Options: Tiny air tubes carry air to every part of the body / Insects do not use oxygen / Insects get oxygen from the food they eat  
+   Options: Insects do not use oxygen / Tiny air tubes carry air to every part of the body / Insects get oxygen from the food they eat  
    **Answer:** Tiny air tubes carry air to every part of the body. *Why:* An insect breathes through small holes in the sides that lead to a branching system of air tubes, so the air reaches the cells directly.
 9. (order) Put these in the order they happen as you hold your breath.  
    **Answer:** ['You breathe in and hold', 'Carbon dioxide slowly builds up in the blood', 'Sensors notice the carbon dioxide', 'An urge to breathe grows', 'The brainstem forces you to breathe']. *Why:* Holding your breath lets carbon dioxide build up. Sensors notice it, and the urge grows until the brainstem takes over.
@@ -623,7 +625,7 @@ That night, Anju opened her notebook to a clean page. She wrote the title in big
 13. (write) Explain why you cannot hold your breath until you faint, and why it is still unsafe to breathe fast and deep first.  
    **Answer:** As carbon dioxide builds up, the urge to breathe becomes too strong and you breathe before you faint. But fast deep breaths wash carbon dioxide out of the blood, so the urge comes late, and the oxygen can run too low first.. *Why:* A strong answer says that the urge comes from carbon dioxide, that it usually wins, and that overbreathing delays the warning.
 14. (mcq) Two children do the same step-ups. One has a pulse of 130 and the other has a pulse of 150. What is the best conclusion?  
-   Options: Nothing yet, because people differ and counts wobble by a few beats / The child with 150 is unhealthy / The child with 130 is unfit  
+   Options: The child with 150 is unhealthy / The child with 130 is unfit / Nothing yet, because people differ and counts wobble by a few beats  
    **Answer:** Nothing yet, because people differ and counts wobble by a few beats. *Why:* Heart rate after exercise varies from person to person for many reasons, such as age, size, how well they slept and how hard they stepped. One count cannot say who is healthier.
 15. (write) Design a fair test to find out whether your pulse rises while you wait for a race to start. Say what you would count, how often, and what you would keep the same.  
    **Answer:** I would count my pulse for 15 seconds while sitting calmly, and again while waiting for a race that never starts. I would do three pairs, change the order, and use the same wrist and the same time of day.. *Why:* A strong answer compares a calm count with a waiting count, repeats the pair, mixes the order, and keeps the counting method the same.
@@ -635,39 +637,42 @@ That night, Anju opened her notebook to a clean page. She wrote the title in big
 
 ## Quiz
 1. (mcq) You count 19 beats in 15 seconds. What is the pulse per minute?  
-   Options: 76 beats per minute / 34 beats per minute / 19 beats per minute  
+   Options: 34 beats per minute / 19 beats per minute / 76 beats per minute  
    **Answer:** 76 beats per minute. *Why:* There are four 15-second spells in a minute. 19 times 4 is 76. If you chose 34, you added 15.
 2. (mcq) Why does a resting heart beat more slowly than a heart with no nerves attached?  
-   Options: A nerve keeps sending signals that slow the pacemaker / The heart is lazy when you rest / The lungs squeeze the heart  
+   Options: The heart is lazy when you rest / The lungs squeeze the heart / A nerve keeps sending signals that slow the pacemaker  
    **Answer:** A nerve keeps sending signals that slow the pacemaker. *Why:* The vagus nerve acts like a brake on the pacemaker. A heart with no nerves attached beats at its own faster speed.
 3. (mcq) A child's pulse is 84 at rest, 108 after 15 seconds of step-ups and 140 after 60 seconds. During which stretch was the pulse rising fastest?  
    Options: In the first 15 seconds / In the last 30 seconds / It rose by the same amount each second  
    **Answer:** In the first 15 seconds. *Why:* It rose by 24 beats in the first 15 seconds, which is about 1.6 beats a second. After that it rose by less than 1 beat a second (about 0.7), and then less.
 4. (mcq) What does your diaphragm do when you breathe in?  
-   Options: It tightens and flattens downwards / It relaxes and rises / It stays still while the lungs pull in air  
+   Options: It relaxes and rises / It tightens and flattens downwards / It stays still while the lungs pull in air  
    **Answer:** It tightens and flattens downwards. *Why:* The diaphragm flattens and the ribs lift, so the chest grows. The pressure inside falls and air flows in. The lungs have no muscle of their own.
 5. (truefalse) If you are brave enough, you can hold your breath until you faint.  
    **Answer:** False. *Why:* False. As carbon dioxide builds up, the urge to breathe becomes too strong, and you breathe before you faint. Never try to push through it.
 6. (mcq) Which of these is automatic, but you can also take over?  
-   Options: Breathing / Your heartbeat / Digesting lunch  
+   Options: Your heartbeat / Breathing / Digesting lunch  
    **Answer:** Breathing. *Why:* Breathing runs by itself in your sleep, and you can hold it, sigh or sing. You cannot order your heartbeat or your digestion.
 7. (mcq) A runner starts to run. What is the first change in the nerve signals to her heart?  
-   Options: The brake signals ease off / The heart stops for a moment / The lungs tell the heart to wait  
+   Options: The heart stops for a moment / The lungs tell the heart to wait / The brake signals ease off  
    **Answer:** The brake signals ease off. *Why:* The brake easing off gives the quick first jump in pulse within a second or two. Slower signals then add more speed.
 8. (fill) The dome-shaped muscle under the lungs that flattens when you breathe in is the ____.  
    **Answer:** ['diaphragm']. *Why:* The diaphragm is the main muscle of breathing in. When it flattens, the chest gets bigger.
 9. (mcq) Which of these animals has the fastest heart at rest?  
-   Options: A mouse / An elephant / A child  
+   Options: An elephant / A child / A mouse  
    **Answer:** A mouse. *Why:* A mouse's heart beats about 600 times a minute. A child's beats about 85, and an elephant's about 30. Small bodies burn food faster for their size.
 10. (mcq) A frog's heart slows when the vagus nerve is stimulated. Which old idea did this prove wrong?  
    Options: That nerves can only make organs do more / That frogs have hearts / That hearts beat  
    **Answer:** That nerves can only make organs do more. *Why:* Many scientists thought a nerve could only push an organ to work harder. The result showed that a nerve can also slow an organ.
 11. (mcq) A child counts 20, 21 and 29 beats in three counts of 15 seconds at rest. What is the best thing to do?  
-   Options: Count again, because 29 is far from the other two / Use 29, because it is the biggest / Add the three numbers together  
+   Options: Use 29, because it is the biggest / Add the three numbers together / Count again, because 29 is far from the other two  
    **Answer:** Count again, because 29 is far from the other two. *Why:* A repeated count helps to find a number you can trust. A single count far from the others may be a miscount, or the child may have moved.
 12. (odd) Three of these happen by themselves and one is a choice. Which is the odd one out?  
    Options: Pupils getting wider in the dark / Shivering when cold / Waving to a friend / Goosebumps on a cold morning  
    **Answer:** 2. *Why:* Pupils, shivering and goosebumps are automatic. Waving is a decision that begins in the thinking part of the brain.
+13. (mcq) A heart is about the size of which of these?  
+   Options: Your closed fist / Your head / Your foot / Your whole chest  
+   **Answer:** Your closed fist. *Why:* A heart is about the size of a closed fist. It is small for the big job it does, pushing blood round the whole body with every beat.
 
 ## Applications
 - Doctors and nurses count the pulse and the breathing rate of every patient who comes to a clinic, because both numbers change quickly when someone is ill.
@@ -747,6 +752,9 @@ This Body Is a Universe (sci.body.L4): Topic-level song
 ## Things to buy
 - [A simple sports stopwatch](https://www.amazon.in/s?k=sports+stopwatch) (tool): For counting 15 seconds exactly in the Pulse Timeline test and other counts. A phone stopwatch also works. Used in e1, a1, a2, a3, a4, p1. 
 - [A soft tailor's tape measure](https://www.amazon.in/s?k=tailor+measuring+tape) (tool): For the Chest Tape test. A string and a ruler also work. Used in e2. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Chest Tape: how far does your chest move when you breathe?. About ₹10 to ₹30. Any school ruler is fine. Used in e2. Get it before The Chest Tape: how far does your chest move when you breathe?.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in Pulse Timeline: how fast does your pulse rise and fall?, A Day in Pulse: two days, two lines. About ₹10 to ₹30. Draw squares on plain paper. Used in e1, p1. Get it before Pulse Timeline: how fast does your pulse rise and fall?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - How many beats do you count in 15 seconds if your pulse is 80 beats a minute? → 20 beats.

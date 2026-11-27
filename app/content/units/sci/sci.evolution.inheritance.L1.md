@@ -1,9 +1,9 @@
 # Alike and different: how children get features from their parents
 `sci.evolution.inheritance.L1`
 
-**Summary.** Peas in one pod are all green and round, yet no two are the same size. In this unit you will open pea pods and look at what is alike and what is different, then play a game that makes babies for two make-believe creatures.
+**Summary.** Peas in one pod are all green and round, yet no two are the same size. In this lesson you will open pea pods and look at what is alike and what is different, then play a game that makes babies for two make-believe creatures.
 
-**Intro.** *Hold a pea pod in your hand. Before you open it, guess: are all the peas inside the same?* Every person is like other people in many ways. We all have two eyes, a nose and a beating heart. And every person is a little different. Some of your features are like one parent's, some are like your other parent's, and some are all your own. In this unit we open pea pods, the homes of pea plant babies. Then we look at family photos, to see which features children get from their parents.
+**Intro.** *Hold a pea pod in your hand. Before you open it, guess: are all the peas inside the same?* Every person is like other people in many ways. We all have two eyes, a nose and a beating heart. And every person is a little different. Some of your features are like one parent's, some are like your other parent's, and some are all your own. In this lesson we open pea pods, the homes of pea plant babies. Then we look at family photos, to see which features children get from their parents.
 
 ## Learning outcomes
 0. By the end I can say ways I am like other people, and ways I am different.
@@ -26,6 +26,8 @@ All people need food, water and air. We all have a heart and a brain. Most of us
 - e.g. At an Onam lunch, everyone eats from a banana leaf. Every hand that eats has five fingers, but no two hands are the same size.
 - e.g. Your family photo from Pongal or Durga Puja shows many faces. Each face has eyes, a nose and a mouth, and each face is different.
 - e.g. Two street dogs may both be brown, with the same pointed ears, and still have different tails.
+- **Gregor Mendel:** In the 1860s he bred pea plants and found that features pass on as separate units. The units later got the name genes.
+- **Charles Darwin:** Thought for a time that features blend like paint. If so, differences would soon fade away, and he worried over this.
 ### Children inherit features from both parents · *defined*
 **Definition:** Children get features from their mother and from their father. This is called inheriting.
 
@@ -33,6 +35,9 @@ A child gets features from both parents before birth. Inside every living being 
 - e.g. A girl may have her Amma's dimple and her Appa's thick eyebrows.
 - e.g. A boy with curly hair may have two parents with straight hair, and a grandmother with curls.
 - e.g. A mango stone grows into a mango tree, never a neem tree.
+- **Aristotle:** The father gives the form and the mother only the material.
+- **Charaka and Sushruta (Ayurveda):** Said both parents give to the child, and described features coming from both.
+- **Mendel and later geneticists:** Showed in peas, then in DNA, that each parent gives one half of the instructions.
 ### Why children of the same parents are not the same · *defined*
 **Definition:** Brothers and sisters each get a different mix of features from their parents, and each grows in their own way.
 
@@ -40,6 +45,8 @@ Two things make children of the same parents different. First, each child gets a
 - e.g. In the Pod Sisters and Brothers experiment, all the peas were green and round, but no two were the same size.
 - e.g. Kittens from one mother cat can be black, ginger, white or patchy.
 - e.g. Twin sisters who look the same can have a different number of moles, and different favourite foods.
+- **Mendel's idea:** Each child gets a different shuffle of the parents' instructions.
+- **Researchers on nature and nurture:** Growing, food, sickness and learning also shape a person. How much comes from instructions and how much from life is still argued.
 ### A seed carries the parent plant's features · *defined*
 **Definition:** A seed grows into a plant of the same kind as the parent plant, with many of the parent's features.
 
@@ -47,6 +54,8 @@ A pea is a seed. Inside it is a tiny baby plant and a store of food. When you pl
 - e.g. Tomato seeds from a red tomato grow into tomato plants.
 - e.g. Farmers in Punjab and in the Kaveri delta save seeds from their best plants to sow next year.
 - e.g. A cut stem of money plant or mint can grow roots in water and become a new plant.
+- **Gregor Mendel:** Showed that a seed carries inherited units from both parent plants. Features such as flower colour pass on by clear rules.
+- **Epigenetics researchers:** Find that the way a plant lives, such as drought or cold, can switch genes on or off, and some of these switches may pass to its seeds. The seed carries more than the written code.
 
 ## Mostly agreed
 - Children get features from both of their parents. *How we know:* A monk named Gregor Mendel showed this with pea plants in the 1860s. Since then, scientists have tested it in thousands of plants and animals, including humans. Doctors can now read the genes a child got from each parent.
@@ -346,7 +355,7 @@ That night the family ate pea kurma with soft idiyappam. Thenu looked at the pea
 2. (write) Say it to a grown-up, who writes it down. A girl has curly hair. Her Amma and her Appa both have straight hair. Where could her curls have come from?  
    **Answer:** From a grandparent. A parent can pass on a feature that does not show on the parent.. *Why:* A strong answer says the curls could come from someone in the family before her parents, passed on through a parent.
 3. (mcq) A black mother cat has four kittens. One is black, one ginger, one white and one patchy. What does this show?  
-   Options: Each kitten got a different mix of features from the two parents / Only the black kitten is really her baby / The kittens changed colour after they were born  
+   Options: Only the black kitten is really her baby / The kittens changed colour after they were born / Each kitten got a different mix of features from the two parents  
    **Answer:** Each kitten got a different mix of features from the two parents. *Why:* Kittens of the same parents get different mixes. All four are her babies, and the colours were not changed after birth.
 4. (fill) A child gets features from both of their ______.  
    **Answer:** parents. *Why:* Half of a child's genes come from the mother and half from the father.
@@ -371,25 +380,25 @@ That night the family ate pea kurma with soft idiyappam. Thenu looked at the pea
 
 ## Quiz
 1. (mcq) Which of these is true for every person in the world?  
-   Options: We all have the same hair / We all need food, water and air / We are all the same height  
+   Options: We all have the same hair / We are all the same height / We all need food, water and air  
    **Answer:** We all need food, water and air. *Why:* Every person needs food, water and air. Hair and height are different from person to person.
 2. (mcq) Two cousins were born on the same day. Are they the same in every way?  
-   Options: Yes, in every way / No, they are alike in some ways and different in others / They are different in every way  
+   Options: Yes, in every way / They are different in every way / No, they are alike in some ways and different in others  
    **Answer:** No, they are alike in some ways and different in others. *Why:* The two cousins are both people, with two eyes and a beating heart. But each has their own features. Being born on the same day does not make two people the same.
 3. (mcq) What does it mean to inherit a feature?  
-   Options: To get it from your parents before you are born / To learn it at school / To buy it at a shop  
+   Options: To learn it at school / To buy it at a shop / To get it from your parents before you are born  
    **Answer:** To get it from your parents before you are born. *Why:* To inherit a feature is to get it from your parents. You get it before you are born.
 4. (mcq) A girl has curly hair, like her Appa. What can we say?  
    Options: She inherited curly hair from her Appa / She learned to have curly hair / She caught curly hair, like a cold  
    **Answer:** She inherited curly hair from her Appa. *Why:* Curly hair is a feature that children get from their parents.
 5. (mcq) Two sisters have the same Amma and Appa. Why do they look different?  
-   Options: Each sister got a different mix of features from their parents / Because one sister is older / Because they eat different food  
+   Options: Because one sister is older / Because they eat different food / Each sister got a different mix of features from their parents  
    **Answer:** Each sister got a different mix of features from their parents. *Why:* Children of the same parents each get a different mix of features. Being older or eating different food does not change the shape of a nose.
 6. (mcq) Pod 1 held 6 peas. Pod 2 held 8 peas. Both came from the same bag. What does this show?  
-   Options: Pods of the same kind can hold different numbers of peas / Pod 2 is not a pea pod / Peas grow after you open the pod  
+   Options: Pod 2 is not a pea pod / Peas grow after you open the pod / Pods of the same kind can hold different numbers of peas  
    **Answer:** Pods of the same kind can hold different numbers of peas. *Why:* Every pod of the same kind of plant is a little different, so pods hold different numbers of peas.
 7. (mcq) A girl feeds a crow and a street dog. Which of them are animals?  
-   Options: Only the crow and the dog / The crow, the dog and the girl / Only the dog  
+   Options: Only the crow and the dog / Only the dog / The crow, the dog and the girl  
    **Answer:** The crow, the dog and the girl. *Why:* Humans are animals too. A girl, a crow and a dog are all animals.
 8. (mcq) Someone plants a pea in a pot. What will grow?  
    Options: A pea plant / A mango tree / Any plant at all  
@@ -398,7 +407,7 @@ That night the family ate pea kurma with soft idiyappam. Thenu looked at the pea
    Options: No, nothing at all / Yes, small things, like their fingerprints and what they like / Yes, they have different parents  
    **Answer:** Yes, small things, like their fingerprints and what they like. *Why:* Identical twins have the same genes and the same parents. Still, their fingerprints are different, and each twin has their own likes.
 10. (mcq) A woman had her long hair cut short. Will her children be born with short hair because of that?  
-   Options: Yes, they get her short hair / No, a haircut happens after birth and is not passed on / Yes, but only her daughters  
+   Options: No, a haircut happens after birth and is not passed on / Yes, they get her short hair / Yes, but only her daughters  
    **Answer:** No, a haircut happens after birth and is not passed on. *Why:* A haircut is something that happens to a person after birth. Children get features such as curly hair from their parents, but not a haircut or a cut on the knee.
 
 ## Applications
@@ -445,11 +454,15 @@ A Bit of Amma, a Bit of Appa (sci.evolution.L1): A song about getting a bit from
 
 ## Links
 - [Learn.Genetics: the basics of heredity](https://learn.genetics.utah.edu/content/basics/) · interactive: For the parent: clear pages and pictures from the University of Utah on how features are passed on.
-- [Acharya Jagadish Chandra Bose Indian Botanic Garden]() · place · Howrah, near Kolkata: See the Great Banyan, one tree that has spread into what looks like a small forest, and many plant families.
-- [Lalbagh Botanical Garden]() · place · Bengaluru: Many kinds of trees and flowers, and a glass house with flower shows twice a year.
-- [Government Botanical Garden]() · place · Ooty: Hill plants and flowers from many parts of the world.
+- Acharya Jagadish Chandra Bose Indian Botanic Garden · place · Howrah, near Kolkata: See the Great Banyan, one tree that has spread into what looks like a small forest, and many plant families.
+- Lalbagh Botanical Garden · place · Bengaluru: Many kinds of trees and flowers, and a glass house with flower shows twice a year.
+- Government Botanical Garden · place · Ooty: Hill plants and flowers from many parts of the world.
 
 ## Things to buy
+- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): Used in Pod Sisters and Brothers: are the peas in one pod all the same?. About ₹30 to ₹120. A water drop on clear plastic magnifies a little. Used in e1. Get it before Pod Sisters and Brothers: are the peas in one pod all the same?.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in Old Photos: which features came from my family?. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in a1. Get it before Old Photos: which features came from my family?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Pod Sisters and Brothers: are the peas in one pod all the same?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1. Get it before Pod Sisters and Brothers: are the peas in one pod all the same?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What does inherit mean? → To get a feature from your parents.

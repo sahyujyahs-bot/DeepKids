@@ -1,7 +1,7 @@
 # Symmetry in nature and art: moves that change nothing, and how nature breaks them
 `sci.patterns-symmetry.symmetry-in-nature.L4`
 
-**Summary.** A square card fits back into its own outline in eight ways, but a triangle with three different sides fits in only one. In this unit you will count the fits of different shapes, see a pushed strip bend one way or the other, and use two mirrors to count the copies you see.
+**Summary.** A square card fits back into its own outline in eight ways, but a triangle with three different sides fits in only one. In this lesson you will count the fits of different shapes, see a pushed strip bend one way or the other, and use two mirrors to count the copies you see.
 
 **Intro.** *Hold up your left hand, then your right. They are the same size, with the same fingers in the same order. Now try to lay your left hand exactly on top of your right, both palms down. You cannot, however you turn it. What is different between two things that match in every measurement?* In Class 3 you found lines of symmetry by folding and rotational symmetry by turning. Now we go one step deeper. A symmetry is any move that leaves a shape looking the same. You will count all the moves a shape allows and see why borders on sarees come in exactly seven kinds. You will find out why hands, screws and shells are 'handed': each has a mirror twin that no turning can match. Then you will push a strip and watch a perfectly even push make a lopsided bend.
 
@@ -569,7 +569,7 @@ Ayesha grinned. 'Start with Ammamma's tailor friends. I bet they have been cutti
 4. (truefalse) A shape with no line of symmetry can still fit back into its outline by turning.  
    **Answer:** True. *Why:* True. The letter S has no fold line, but it fits back after a half turn. A pinwheel with twisted blades fits after a turn but not after a flip.
 5. (mcq) Which of these shapes fits back into its outline in the most ways?  
-   Options: A square / A triangle with three equal sides / A rectangle that is not a square / A circle  
+   Options: A square / A triangle with three equal sides / A circle / A rectangle that is not a square  
    **Answer:** A circle. *Why:* A circle fits back after any turn, and after a flip across any line through its centre. That is endless. The square has 8, the equal-sided triangle 6 and the rectangle 4.
 6. (sort) Sort each thing by whether its mirror twin can be turned to match it.  
    **Answer:** a left shoe → Handed (the mirror twin does not fit by turning); a steel katori → Not handed (it matches its mirror twin); a screw → Handed (the mirror twin does not fit by turning); a plain round plate → Not handed (it matches its mirror twin); a pair of scissors → Handed (the mirror twin does not fit by turning); the capital letter H → Not handed (it matches its mirror twin). *Why:* A handed thing has no mirror line, so its mirror twin is a different thing. A shoe, a screw and scissors are handed. A katori, a round plate and the letter H match their mirror twins.
@@ -578,7 +578,7 @@ Ayesha grinned. 'Start with Ammamma's tailor friends. I bet they have been cutti
 8. (match) Match each word to what it means.  
    **Answer:** Slide → The same shape moved along without turning; Flip → A mirror image across a line; Turn → Rotating a shape around a centre; Glide → A flip and a slide done together; Handed → Its mirror twin cannot be turned to match it. *Why:* These five words are the vocabulary of symmetry. A strong answer could give an example of each: mangoes along a border for a slide, a butterfly for a flip, a fan for a turn, footprints for a glide and a hand for handed.
 9. (mcq) How many different kinds of border pattern are there?  
-   Options: 3 / 7 / 17 / Endless  
+   Options: 3 / 17 / Endless / 7  
    **Answer:** 7. *Why:* Mathematicians have proved there are exactly 7 kinds of border pattern, however clever the design. There are 17 kinds for covering a floor.
 10. (fill) A regular shape with 9 equal sides fits back into its outline in ____ ways.  
    **Answer:** ['18']. *Why:* A regular shape with n sides has n turns and n flips. For 9 sides, 9 plus 9 is 18.
@@ -592,7 +592,7 @@ Ayesha grinned. 'Start with Ammamma's tailor friends. I bet they have been cutti
 14. (label) Label the drawing of a square: draw one line of symmetry and write how many symmetries the square has in all.  
    **Answer:** A dotted line through the middle of two opposite sides or through two opposite corners, and the number 8.. *Why:* A square has 4 turns and 4 flips, which makes 8. The 4 flips are across 4 lines: two through the middle of opposite sides and two corner to corner.
 15. (mcq) A left glove will never fit your right hand, however you turn it. Why?  
-   Options: The glove and your right hand are mirror twins, and no turning changes a thing into its mirror twin / Left gloves are smaller / Gloves shrink when turned / Hands are all different sizes  
+   Options: Left gloves are smaller / The glove and your right hand are mirror twins, and no turning changes a thing into its mirror twin / Gloves shrink when turned / Hands are all different sizes  
    **Answer:** The glove and your right hand are mirror twins, and no turning changes a thing into its mirror twin. *Why:* A left glove is the mirror twin of a right glove. Turning only moves a thing round in space and cannot reverse its handedness. To change it, you need a flip, which is not possible for a real glove.
 16. (odd) Three of these are handed. Which is the odd one out?  
    Options: A pair of scissors / A screw / A left chappal / A round steel plate  
@@ -607,7 +607,7 @@ Ayesha grinned. 'Start with Ammamma's tailor friends. I bet they have been cutti
 3. (truefalse) Because the push is the same at both ends, a card strip will bend towards each side equally often, even if one strip has a tiny curl.  
    **Answer:** False. *Why:* False. A strip with a tiny curl bends the way its curl favours almost every time. The even push leaves the choice open, and the tiny difference makes it.
 4. (mcq) A cobalt experiment in 1957 counted electrons thrown out in two directions. More came out one way. What does this show?  
-   Options: The weak force behaves differently in a mirror world / All forces are the same in a mirror / Cobalt atoms are handed like gloves / Electrons are left-handed gloves  
+   Options: All forces are the same in a mirror / The weak force behaves differently in a mirror world / Cobalt atoms are handed like gloves / Electrons are left-handed gloves  
    **Answer:** The weak force behaves differently in a mirror world. *Why:* If the weak force were the same in a mirror, equal numbers would come out both ways. Because the counts differed, a mirror version of the experiment would give a different result.
 5. (fill) If the laws of nature do not change with time, Emmy Noether proved that ____ is never used up.  
    **Answer:** ['energy']. *Why:* Laws that do not change from one day to the next go with conservation of energy. Energy can move and change form, but the total stays the same.
@@ -635,7 +635,7 @@ Ayesha grinned. 'Start with Ammamma's tailor friends. I bet they have been cutti
 16. (perspective) Two friends test a flattened card strip and it bends the same way 9 times out of 10.  
    **Answer:** A strong answer says how to test: turn the strip over. If the bend turns over with the strip, the strip's curve decides. If the bend stays the same, the hands may decide. Either friend could be right, and the test settles it.. *Why:* The turned-over test separates the two explanations. A strong answer proposes a test, and does not just pick a friend.
 17. (mcq) A baby flounder swims upright with an eye on each side. Later one eye moves to the other side of the head. What does this show?  
-   Options: A body can begin even and become lopsided as it grows / Flounders are born by mistake / All fish eventually have both eyes on one side / Eyes are the only lopsided part of the body  
+   Options: Flounders are born by mistake / A body can begin even and become lopsided as it grows / All fish eventually have both eyes on one side / Eyes are the only lopsided part of the body  
    **Answer:** A body can begin even and become lopsided as it grows. *Why:* The baby starts out even and the adult is lopsided in a useful way. This is a body breaking its own symmetry as it grows, not a mistake.
 ### Hard Thinking About Symmetry (challenge) (challenge, 15 questions)
 1. (mcq) Which of these shapes has exactly 5 symmetries?  
@@ -649,7 +649,7 @@ Ayesha grinned. 'Start with Ammamma's tailor friends. I bet they have been cutti
 4. (fill) A flat shape that looks reversed when you see it from behind has no line of ____.  
    **Answer:** ['symmetry']. *Why:* If a shape has a line of symmetry, its back view looks just the same as the front. If it looks reversed from the back, no fold line matches its halves.
 5. (mcq) Which pair of moves, done one after the other, gives a half turn?  
-   Options: A flip across one line, then a flip across a line at right angles to it / Two slides in the same direction / A slide, then a glide / A flip across a line, then a slide  
+   Options: Two slides in the same direction / A flip across one line, then a flip across a line at right angles to it / A slide, then a glide / A flip across a line, then a slide  
    **Answer:** A flip across one line, then a flip across a line at right angles to it. *Why:* Two flips across lines that cross at a right angle make a half turn about the point where the lines cross. You can check it with a cut-out F.
 6. (mcq) A shape is flipped across a line, then flipped across the same line again. What is the result?  
    Options: The do-nothing move / A half turn / A glide / A slide  
@@ -682,40 +682,40 @@ Ayesha grinned. 'Start with Ammamma's tailor friends. I bet they have been cutti
 
 ## Quiz
 1. (mcq) Which move flips a shape over a line, like looking in a mirror?  
-   Options: Reflection / Translation / Rotation / Stretching  
+   Options: Translation / Reflection / Rotation / Stretching  
    **Answer:** Reflection. *Why:* A reflection is a flip over a line. A translation is a slide and a rotation is a turn. Stretching changes the size, so it is not a symmetry.
 2. (mcq) A saree border shows the same mango again and again, all pointing the same way, with each one further along. Which move makes this border?  
-   Options: A slide / A flip / A half turn / A glide  
+   Options: A flip / A half turn / A slide / A glide  
    **Answer:** A slide. *Why:* When every copy faces the same way and each is moved along the border, the move is a slide. A flip or a half turn would make some copies face the other way.
 3. (mcq) A regular octagon, with 8 equal sides, fits back into its outline in how many ways?  
    Options: 8 / 16 / 32 / 64  
    **Answer:** 16. *Why:* A regular shape has as many flips as turns. For 8 sides, 8 turns plus 8 flips is 16. The answer 8 forgets the flips.
 4. (mcq) Which of these fits back into its outline in only one way?  
-   Options: A square / The outline of a hand / A triangle with three equal sides / A rectangle  
+   Options: A square / A triangle with three equal sides / A rectangle / The outline of a hand  
    **Answer:** The outline of a hand. *Why:* A hand has no turn and no flip that fits, so only the do-nothing move works. The square has 8 ways, the equal-sided triangle 6 and the rectangle 4.
 5. (mcq) A border has an F, then an upside-down mirror F slid along, then an F, then an upside-down mirror F, and so on. Which move made it?  
-   Options: A glide / A slide only / A half turn / A stretch  
+   Options: A slide only / A half turn / A stretch / A glide  
    **Answer:** A glide. *Why:* Each new F is a flip over a line along the border and a slide, done together. That is a glide.
 6. (mcq) Which of these has a mirror twin that cannot be turned to match it?  
    Options: A steel thali / A pair of scissors / A round ball / A square tile  
    **Answer:** A pair of scissors. *Why:* Scissors have a handedness. The left-handed pair is the mirror twin of the right-handed pair, and no turning makes one into the other. A thali, a ball and a square tile match their mirror images.
 7. (mcq) A tall pencil balanced on its tip falls over, though nobody pushes it. What is the best description of what happened?  
-   Options: An even start ended lopsided, and a tiny difference decided the direction / The pencil chose where to fall / Gravity pulled it left / All pencils are lopsided  
+   Options: The pencil chose where to fall / Gravity pulled it left / An even start ended lopsided, and a tiny difference decided the direction / All pencils are lopsided  
    **Answer:** An even start ended lopsided, and a tiny difference decided the direction. *Why:* Before the fall, every direction was equally likely. A tiny draught, a speck or a wobble in the wood decided the direction. Scientists call this symmetry breaking.
 8. (mcq) A card strip is pushed equally from both ends and bows to the same side 10 times out of 10. What does this most likely mean?  
-   Options: The strip has a hidden tiny curve that favours that side / The push was perfectly even and strips always do this / The table is tilted / The card is too thick  
+   Options: The push was perfectly even and strips always do this / The table is tilted / The strip has a hidden tiny curve that favours that side / The card is too thick  
    **Answer:** The strip has a hidden tiny curve that favours that side. *Why:* An even push leaves both sides open, so something small must favour one side. A hidden curve in the card fits best. You can test it by turning the strip over.
 9. (mcq) Why might a barn owl benefit from having her ears at different heights?  
    Options: She can tell how high up a sound comes from, using the small difference in when it reaches each ear / She hears less noise / It makes her look fierce / It is only an accident of growing  
    **Answer:** She can tell how high up a sound comes from, using the small difference in when it reaches each ear. *Why:* A sound from above reaches one ear a tiny moment before the other. The owl uses the difference to find a mouse she cannot see. A lopsided part can be an advantage.
 10. (mcq) Most people have the heart on the left although the body looks even outside. What do scientists think helps start this difference?  
-   Options: Tiny spinning hairs in the early embryo sweep fluid to one side / The mother's favourite hand / What the baby eats first / The pull of the Moon  
+   Options: The mother's favourite hand / Tiny spinning hairs in the early embryo sweep fluid to one side / What the baby eats first / The pull of the Moon  
    **Answer:** Tiny spinning hairs in the early embryo sweep fluid to one side. *Why:* In mouse embryos, tiny hairs called cilia spin and sweep fluid to one side, which starts a chain of signals. Scientists think humans work in a similar way, but they are still studying it.
 11. (mcq) Emmy Noether proved that a symmetry in the laws of nature goes with what?  
    Options: Something that stays the same, such as energy / A new force / A new planet / A left-handed molecule  
    **Answer:** Something that stays the same, such as energy. *Why:* Noether showed that each smooth symmetry of the laws, such as the laws being the same on every day, goes with something that is conserved, such as energy.
 12. (mcq) What did the cobalt experiment led by Chien-Shiung Wu show?  
-   Options: The weak force is not the same in a mirror / Magnets are handed / Cobalt is a crystal / Energy is lost  
+   Options: Magnets are handed / Cobalt is a crystal / The weak force is not the same in a mirror / Energy is lost  
    **Answer:** The weak force is not the same in a mirror. *Why:* More electrons came out in one direction than the other. So a mirror copy of the experiment would give a different result, and the weak force can tell left from right.
 
 ## Applications
@@ -737,7 +737,7 @@ Ayesha grinned. 'Start with Ammamma's tailor friends. I bet they have been cutti
 - A pair of chappals, shoes or gloves in the shoe rack, each left one the mirror twin of a right one.
 - A kolam or rangoli border around a doorstep, with shapes that flip or repeat along the edge.
 - A snail shell on a garden wall or a shankha at a temple, coiled one way.
-- A crab with one big claw, or a flatfish with both eyes on one side, at a fish market in Kochi or Chennai.
+- A crab with one big claw, or a flatfish with both eyes on one side, at a fish market.
 - Your own heartbeat, felt on the left side of your chest, though your body looks even outside.
 
 ## Open questions
@@ -795,6 +795,11 @@ Pattern After Pattern (sci.patterns-symmetry.L4): Topic-level song
 - [Two small flat mirror tiles or compact mirrors](https://www.amazon.in/s?k=small+mirror+tiles+craft) (material): For the Two Mirrors activity. Two small mirror tiles or plastic mirror sheets from a hardware, craft or general store cost about Rs 20 to 50 each. A pair of compact mirrors from a stationery shop works too. Used in a2. 
 - [A geometry box with a protractor and a compass](https://www.amazon.in/s?k=geometry+box+protractor+compass) (tool): For making the equal-sided triangle in the Fit-Back Count, for drawing angles and for the Badge Designer challenge. Most children already have one. Used in e1, a2, c1. 
 - [A pack of thin card sheets](https://www.amazon.in/s?k=thin+card+sheets+craft+a4) (material): For the shapes in the Fit-Back Count and the strips in the Pushed Strip test. A cereal box also works. Used in e1, e2, a1, a4. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Fit-Back Count: how many ways does each shape fit its outline?, The Pushed Strip: which way does it bend?, Stamp a Border: five moves, five borders. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, a1, p1, c1. Get it before Fit-Back Count: how many ways does each shape fit its outline?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Two Mirrors: how many copies do you see?. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in a2. Get it before Two Mirrors: how many copies do you see?.
+- [Butter paper or tracing paper](https://www.amazon.in/s?k=butter+paper+roll) (material): Used in Left, Right or Both? A handedness hunt, The Symmetry Notebook: four days of finding, Badge Designer: exactly the number of symmetries you are asked for. About ₹30 to ₹80 for a roll. Thin clean plastic bag or a sheet of waxed paper. Used in a3, p1, c1. Get it before Left, Right or Both? A handedness hunt.
+- [Iron nails or iron filings](https://www.amazon.in/s?k=iron+filings+science) (material): Used in Left, Right or Both? A handedness hunt. About ₹20 to ₹80. Short steel nails from a hardware shop. Used in a3. Get it before Left, Right or Both? A handedness hunt.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name the four moves that can leave a shape looking the same. → A flip, a turn, a slide and a glide.
@@ -815,7 +820,7 @@ Pattern After Pattern (sci.patterns-symmetry.L4): Topic-level song
 ## Sources
 - ideas/by_topic/patterns-and-symmetry.md: Grade 4 symmetry row (broken symmetry creates diversity, snail shell chirality, a pencil choosing a direction as it falls, imperfection as a generator of form), used for the symmetry breaking and handedness parts
 - ideas/by_topic/patterns-and-symmetry.md: SCI Cards for Emmy Noether, Chien-Shiung Wu and Dan Shechtman, used for the Noether, Wu and quasicrystal explanations and the how-we-found-out story
-- The Class 3 symmetry unit, which this unit builds on: it covered line and rotational symmetry, so Level 4 extends to all moves, counting and handedness. Its experiments and story are not reused
+- The Class 3 symmetry unit, which this lesson builds on: it covered line and rotational symmetry, so Level 4 extends to all moves, counting and handedness. Its experiments and story are not reused
 - Fedorov, E. S., 1891, proof that there are 17 plane symmetry groups; Polya, G., Zeitschrift fur Kristallographie 60, 1924
 - Noether, E., 'Invariante Variationsprobleme', Nachrichten von der Gesellschaft der Wissenschaften zu Goettingen, 1918
 - Lee, T. D. and Yang, C. N., 'Question of parity conservation in weak interactions', Physical Review 104, 1956

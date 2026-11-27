@@ -668,11 +668,11 @@
       "t": "mcq",
       "q": "A card says: Home: river water, all the time. Breathes with: lungs, through a blowhole. Young: born live, and fed milk. Which group is she?",
       "options": [
-       "Fish, because she lives in water",
        "Mammal, because she breathes air and feeds milk",
+       "Fish, because she lives in water",
        "Reptile, because she breathes with lungs"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Breathing air with lungs and feeding milk are the clues that decide the group. Living in water is a clue to her way of life, and it is not a clue to her group. Reptiles do not feed milk."
      },
      "context": "In this step you play the first half of the game."
@@ -874,11 +874,11 @@
       "t": "mcq",
       "q": "The dolphin passes rule 1. What does that tell you about the rule?",
       "options": [
-       "The dolphin is a fish",
        "The rule lets in an animal who is not a fish",
+       "The dolphin is a fish",
        "The rule is perfect"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The dolphin lives in water but is a mammal, so the rule lets in an animal who does not belong. A rule fails when it lets in an animal who does not belong, just as when it leaves out an animal who does."
      },
      "context": "In this step you test the rule that animals that live in water are fish."
@@ -948,11 +948,11 @@
       "t": "mcq",
       "q": "Why did 'animals that feed milk are mammals' work when 'animals that live in water are fish' did not?",
       "options": [
-       "Milk is a clue that comes from an animal's family, but living in water is shared by unrelated animals",
        "Milk is easier to see than water",
+       "Milk is a clue that comes from an animal's family, but living in water is shared by unrelated animals",
        "Mammals are a bigger group than fish"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Animals that share a way of life can be unrelated, like a dolphin, a penguin and a shark. A body clue such as milk comes from a shared ancestor, so it follows the family. If you picked another answer, look at the cards again and ask which clue came from where she lives, and which came from her body."
      },
      "context": "In this step you mend the rules and say what you found out."
@@ -1071,11 +1071,11 @@
       "t": "mcq",
       "q": "After star jumps, why do most people have to breathe sooner?",
       "options": [
-       "Their muscles used up oxygen and made more carbon dioxide",
        "Their lungs got smaller",
-       "The air got thinner"
+       "The air got thinner",
+       "Their muscles used up oxygen and made more carbon dioxide"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Moving muscles use oxygen and make carbon dioxide, and the body wants to breathe out the carbon dioxide and breathe in oxygen. If you chose another answer, think about what your muscles were doing."
      },
      "adult": true,
@@ -1521,11 +1521,11 @@
       "t": "mcq",
       "q": "A tadpole lives in water and has gills and a tail. Why is she not a fish?",
       "options": [
-       "She will change into a frog with lungs and legs",
        "She has no fins",
-       "She is too small"
+       "She is too small",
+       "She will change into a frog with lungs and legs"
       ],
-      "a": 0,
+      "a": 2,
       "why": "To sort an animal you look at her whole life, not one stage. A tadpole turns into a frog, so she is an amphibian. A fish keeps her gills for life."
      },
      "context": "In this step you test what happens if you sort an animal at one stage."
@@ -1864,11 +1864,11 @@
    "t": "mcq",
    "p": "Which clue best shows that a bat is a mammal?",
    "opts": [
-    "She has fur and feeds her baby milk",
     "She flies at night",
-    "She hangs upside down"
+    "She hangs upside down",
+    "She has fur and feeds her baby milk"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Fur and milk are the clues for a mammal. Flying and hanging upside down are things she does, and a bird or an insect can do them too.",
    "outcome": 1
   },
@@ -1876,11 +1876,11 @@
    "t": "mcq",
    "p": "A penguin cannot fly. Why is he still a bird?",
    "opts": [
-    "He has feathers and lays hard-shelled eggs",
     "He lives near the sea",
+    "He has feathers and lays hard-shelled eggs",
     "He has two legs"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Feathers and hard-shelled eggs decide a bird. A penguin swims instead of flying.",
    "outcome": 1
   },
@@ -1900,11 +1900,11 @@
    "t": "mcq",
    "p": "Which animal is a hard case for the rule 'reptiles lay eggs'?",
    "opts": [
-    "A Russell's viper, who gives birth to live young",
     "A house gecko, who lays eggs",
+    "A Russell's viper, who gives birth to live young",
     "A crocodile, who lays eggs"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A Russell's viper is a reptile with live young, so she breaks the rule. A gecko and a crocodile follow it.",
    "outcome": 2
   },
@@ -1912,11 +1912,11 @@
    "t": "mcq",
    "p": "A Ganges river dolphin must come up for air every minute or two. Why?",
    "opts": [
-    "She has lungs and no gills",
     "She is tired",
+    "She has lungs and no gills",
     "She likes the sunlight"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A dolphin breathes air with lungs, so she must come to the surface. A fish has gills and can stay under.",
    "outcome": 3
   },
@@ -1943,11 +1943,11 @@
    "t": "mcq",
    "p": "Which question separates a snail from an ant?",
    "opts": [
-    "Does she have jointed legs and a hard outer skeleton?",
     "Does she live on land?",
+    "Does she have jointed legs and a hard outer skeleton?",
     "Is she small?"
    ],
-   "a": 0,
+   "a": 1,
    "why": "An ant is an arthropod with jointed legs and a hard outer skeleton. A snail is a mollusc with a soft body and one muscular foot.",
    "outcome": 5
   },
@@ -1955,11 +1955,11 @@
    "t": "mcq",
    "p": "Why is 'invertebrate' not one family?",
    "opts": [
-    "It only says what the animals lack, and they belong to many separate groups",
     "All of them are the same shape",
+    "It only says what the animals lack, and they belong to many separate groups",
     "There are very few of them"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The word names a missing backbone. Insects, snails and starfish are as different from each other as a fish is from a snail.",
    "outcome": 5
   },
@@ -1979,11 +1979,11 @@
    "t": "mcq",
    "p": "A scientist finds an animal that lays eggs and also has fur and feeds milk. What should scientists do about the rule 'mammals give birth to live young'?",
    "opts": [
-    "Mend the rule so that milk decides a mammal",
     "Say the animal is not a mammal",
-    "Ignore the animal"
+    "Ignore the animal",
+    "Mend the rule so that milk decides a mammal"
    ],
-   "a": 0,
+   "a": 2,
    "why": "When evidence breaks a rule, scientists mend the rule. This is what happened with the platypus, so a mammal is defined by feeding milk.",
    "outcome": 2
   }
@@ -1999,11 +1999,11 @@
      "t": "mcq",
      "p": "What do all animals with a backbone have in common?",
      "opts": [
-      "A row of bones or hard cartilage down the middle of the back",
       "Four legs",
-      "Warm blood"
+      "Warm blood",
+      "A row of bones or hard cartilage down the middle of the back"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A backbone is a row of small bones or hard cartilage. Four legs is not the shared clue, because a shark and a snake have no legs and a bird does not have four. Warm blood is not the shared clue either, because many of these animals have cold blood.",
      "outcome": 0
     },
@@ -2102,11 +2102,11 @@
      "t": "mcq",
      "p": "A dolphin lives in water and has flippers. Why is she a mammal?",
      "opts": [
-      "She breathes air with lungs and feeds her baby milk",
       "She is big",
+      "She breathes air with lungs and feeds her baby milk",
       "She has a tail"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Breathing air with lungs and feeding milk are the clues that decide the group. Size and a tail do not.",
      "outcome": 3
     },
@@ -2121,11 +2121,11 @@
      "t": "mcq",
      "p": "A rule says: animals that fly are birds. Which animal breaks this rule?",
      "opts": [
-      "A bat, who flies but is a mammal",
       "A crow, who flies and is a bird",
+      "A bat, who flies but is a mammal",
       "A cow, who does not fly"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A bat flies, so the rule lets her in, but she is a mammal. A crow follows the rule, and the rule does not let a cow in.",
      "outcome": 2
     },
@@ -2157,11 +2157,11 @@
      "t": "mcq",
      "p": "An ant has six jointed legs and a hard skeleton outside her body. Which group is she in?",
      "opts": [
-      "Arthropod",
       "Mollusc",
-      "Annelid"
+      "Annelid",
+      "Arthropod"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Jointed legs and a hard outer skeleton are the clues for an arthropod. A mollusc has a soft body, and an annelid has a body in rings.",
      "outcome": 5
     },
@@ -2188,11 +2188,11 @@
      "t": "mcq",
      "p": "A snake has no legs. Which clue shows that she is a reptile?",
      "opts": [
-      "Dry scales and lungs",
       "No legs",
+      "Dry scales and lungs",
       "She lives on land"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Dry scales and lungs are the clues for a reptile. Having no legs and living on land are shared by many animals, such as worms and some lizards.",
      "outcome": 1
     },
@@ -2235,11 +2235,11 @@
      "t": "mcq",
      "p": "A bat's wing and a human arm have one upper bone, two lower bones and finger bones. What does this suggest?",
      "opts": [
-      "They inherited the plan from a shared ancestor",
       "They are used for the same job",
-      "A bat is a kind of person"
+      "A bat is a kind of person",
+      "They inherited the plan from a shared ancestor"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Different jobs but the same bones in the same order are what you expect if both inherited the plan from one ancestor.",
      "outcome": 4
     },
@@ -2375,11 +2375,11 @@
      "t": "mcq",
      "p": "Birds descend from small feathered dinosaurs. Which living animals are the closest relatives of birds?",
      "opts": [
-      "Crocodiles",
       "Lizards",
-      "Frogs"
+      "Frogs",
+      "Crocodiles"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The closest living relatives of birds are crocodiles. Lizards and snakes are on another branch.",
      "outcome": 6
     },
@@ -2410,11 +2410,11 @@
      "t": "mcq",
      "p": "Why do scientists use two or three clues together to sort an animal?",
      "opts": [
-      "One clue can mislead, because animals who are not related can share it",
       "Three is the rule in science",
-      "One clue is too hard to find"
+      "One clue is too hard to find",
+      "One clue can mislead, because animals who are not related can share it"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A clue such as flying or living in water is shared by animals on different branches. Two or three clues from the body are much harder to share by accident.",
      "outcome": 2
     },
@@ -2483,11 +2483,11 @@
      "t": "mcq",
      "p": "Which pair are the closest relatives?",
      "opts": [
-      "A crow and a crocodile",
       "A crocodile and a gecko",
-      "A crocodile and a frog"
+      "A crocodile and a frog",
+      "A crow and a crocodile"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Birds and crocodiles share a more recent ancestor than crocodiles and lizards do.",
      "outcome": 6
     },
@@ -2922,6 +2922,32 @@
     "p1"
    ],
    "plan": "Read the first two chapters in the evening before the Same Bones activity, and share one idea at breakfast."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in A Wall Chart of the Backbone Family Tree. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before A Wall Chart of the Backbone Family Tree."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

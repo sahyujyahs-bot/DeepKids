@@ -850,10 +850,10 @@
       "q": "A big stone and a small stone fall from a bridge together. Which lands first?",
       "options": [
        "HEAVY FIRST: the big stone",
-       "TOGETHER",
-       "LIGHT FIRST: the small stone"
+       "LIGHT FIRST: the small stone",
+       "TOGETHER"
       ],
-      "a": 1,
+      "a": 2,
       "why": "They land together. Gravity pulls the big stone harder, but the big stone also needs a bigger pull to speed up. The extra pull is exactly what the extra mass needs, so both speed up in the same way. The air hardly slows stones. Any guess is fine in a practice round. Remember this for the rest of the game."
      }
     },
@@ -1040,11 +1040,11 @@
       "t": "mcq",
       "q": "One marble rolls off a table edge. A second marble drops straight down at the same moment. Which lands first?",
       "options": [
-       "The dropped marble, because it only goes down",
        "They land together",
+       "The dropped marble, because it only goes down",
        "The rolled marble, because it is moving faster"
       ],
-      "a": 1,
+      "a": 0,
       "why": "They land together. Gravity pulls both marbles down in the same way. The sideways roll carries the first marble further, but it does not change how fast it falls. Remember this for the other cards."
      }
     },
@@ -1084,12 +1084,12 @@
      "t": "mcq",
      "p": "Many people think gravity pulls only on heavy things. You let go of a feather, and the feather drifts slowly down. What does that show?",
      "opts": [
-      "Gravity pulls the feather too. The air just slows the feather down",
       "Gravity does not pull feathers. The wind pushes them down",
       "Feathers are pulled up, not down",
+      "Gravity pulls the feather too. The air just slows the feather down",
       "Only heavy things ever fall"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The feather does come down, so something pulls it down. That is gravity, which pulls on everything with mass. The air pushes up on the wide, soft feather, so it falls slowly. Picking 'the wind' is a fair guess, but a feather falls indoors too, where there is no wind."
     },
     {
@@ -1104,12 +1104,12 @@
      "t": "mcq",
      "p": "An astronaut on the Moon lets go of a hammer. Which way does it fall?",
      "opts": [
-      "Towards the middle of the Moon",
       "Towards the Earth",
       "Towards the Sun",
+      "Towards the middle of the Moon",
       "It does not fall, because the Moon has no air"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Down always means towards the middle of the world you are standing on. The Moon has its own gravity, so the hammer falls to the Moon's surface. Gravity does not need air. Air only slows light things like feathers, and the Moon has no air to do that."
     },
     {
@@ -1139,12 +1139,12 @@
      "t": "mcq",
      "p": "You drop a flat sheet of paper and a crumpled sheet of the same paper together. The crumpled one lands first. What was different about the two sheets?",
      "opts": [
-      "Only their shape. The air pushed much less on the crumpled ball",
       "The crumpled one was heavier",
       "Gravity pulls crumpled paper harder",
-      "The flat one was a different kind of paper"
+      "The flat one was a different kind of paper",
+      "Only their shape. The air pushed much less on the crumpled ball"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Crumpling does not add any paper, so both weigh the same. Only the shape changed. A crumpled ball pushes through less air, so the air slows it less. Picking 'heavier' is a common guess, but no paper was added.",
      "how": "e2",
      "context": "In Paper That Falls Like a Stone, you drop a flat sheet of paper and a crumpled sheet. Then you drop a sheet lying on top of a book."
@@ -1238,12 +1238,12 @@
      "t": "mcq",
      "p": "A girl drops a ball from a balcony. When is the ball moving fastest?",
      "opts": [
-      "Just before it lands",
       "Just after she lets go",
       "Halfway down",
+      "Just before it lands",
       "It moves at the same speed all the way"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Gravity keeps pulling the whole way down, so the ball keeps speeding up. It is fastest at the very end. That is why a fall from higher up hurts more. Picking 'the same speed all the way' is a common first guess."
     },
     {
@@ -1308,12 +1308,12 @@
      "t": "mcq",
      "p": "Look at these Parachute Test results. A friend says, 'The bigger the parachute, the slower it falls.' Do the results agree with her?",
      "opts": [
-      "Yes. Each bigger parachute took longer to fall",
       "No. The small one was slowest",
+      "Yes. Each bigger parachute took longer to fall",
       "No. They all took the same time",
       "We cannot tell anything from these results"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Small took 2 seconds, medium 3 seconds and large 5 seconds. Each bigger one took longer, so it fell more slowly. A taller bar here means a longer, slower fall. Picking 'the small one' comes from reading a short bar as slow.",
      "how": "e3",
      "chart": {
@@ -1415,11 +1415,11 @@
      "t": "mcq",
      "p": "In the Falling Ruler test, a girl catches the ruler after it falls 10 cm. Her brother catches it after 20 cm. He says, 'I win, my number is bigger.' Who was really quicker?",
      "opts": [
-      "The girl, because the ruler had less time to fall before she caught it",
       "Her brother, because his number is bigger",
+      "The girl, because the ruler had less time to fall before she caught it",
       "Neither, because the ruler falls differently each time"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A falling ruler keeps speeding up, so a bigger number means more time passed before the catch. The girl stopped it sooner. Her brother's mistake is thinking a bigger number is always better.",
      "how": "e4",
      "context": "In the Falling Ruler test, a helper drops a ruler between your open fingers, without warning. You read the number where you caught it."
@@ -1434,12 +1434,12 @@
      "t": "mcq",
      "p": "In the space blanket, you swap the heavy ball in the middle for a light ball. What happens to the marbles you roll past?",
      "opts": [
-      "They curve in less, because the light ball makes a shallower dent",
       "They curve in more",
       "They curve in just the same",
+      "They curve in less, because the light ball makes a shallower dent",
       "They roll away from the ball"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Less mass makes a smaller dent, so the marbles are bent less. In Einstein's picture, more mass bends space more, so its pull is stronger.",
      "how": "a2",
      "context": "In the space blanket, you stretch a sheet and put a heavy ball in the middle. Then you roll marbles past the dent it makes."
@@ -1448,12 +1448,12 @@
      "t": "mcq",
      "p": "In the space blanket, a marble rolled fast and sideways goes round the heavy ball a few times. What is this like in space?",
      "opts": [
-      "The Moon going round the Earth",
       "A stone dropping into a well",
       "A balloon floating away",
+      "The Moon going round the Earth",
       "A rocket taking off"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The Moon is always falling towards the Earth. But it moves sideways so fast that it keeps missing. Scientists call this an orbit. The marble only stops because the sheet rubs it and slows it down.",
      "how": "a2",
      "context": "In the space blanket, you stretch a sheet and put a heavy ball in the middle. Then you roll marbles past the dent it makes."
@@ -1576,12 +1576,12 @@
      "t": "mcq",
      "p": "The Earth pulls a full bottle of water twice as hard as a half-full one. So why doesn't the full bottle fall faster?",
      "opts": [
-      "The full bottle also has twice the mass, so it is twice as hard to speed up",
       "Gravity pulls everything with the same force",
       "The air always balances it out",
-      "The full bottle does fall twice as fast"
+      "The full bottle does fall twice as fast",
+      "The full bottle also has twice the mass, so it is twice as hard to speed up"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Think of pushing a full trolley and an empty one. The full one needs a bigger push to speed up. The extra pull on the full bottle is exactly the extra pull that its extra mass needs. So both speed up in the same way. Picking 'the same force' is a common mistake: the pull is bigger on the heavier bottle."
     },
     {
@@ -1616,11 +1616,11 @@
      "t": "mcq",
      "p": "Two very exact clocks are set to the same time. One goes on a high shelf. One goes on the floor. After many years, which clock shows the later time?",
      "opts": [
-      "The shelf clock, very slightly",
       "The floor clock, very slightly",
-      "They always stay exactly together"
+      "They always stay exactly together",
+      "The shelf clock, very slightly"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Time runs a tiny bit slower closer to a big mass, like the Earth. So the floor clock ticks slower and falls behind. The difference is far too small to feel, but the best clocks can measure it. Picking 'exactly together' is what everyone thought before Einstein."
     },
     {
@@ -1684,12 +1684,12 @@
      "t": "mcq",
      "p": "Many people think astronauts float because there is no gravity in space. But gravity at the space station is about 9 tenths as strong as on the ground. So why do astronauts float?",
      "opts": [
-      "They and the station are falling round the Earth together, so nothing pushes on their feet",
       "The station has a machine that switches gravity off",
+      "They and the station are falling round the Earth together, so nothing pushes on their feet",
       "They are lighter than air",
       "The Sun pulls them up"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The station moves sideways so fast that it keeps falling round the Earth and missing it. The astronauts fall with it, so the floor never pushes on their feet. Picking 'no gravity' is the most common myth about space."
     },
     {
@@ -1826,10 +1826,10 @@
       "q": "You dropped a full bottle and a bottle with a little water together from the same height. What happened?",
       "options": [
        "The full bottle landed first",
-       "They landed together",
-       "The bottle with a little water landed first"
+       "The bottle with a little water landed first",
+       "They landed together"
       ],
-      "a": 1,
+      "a": 2,
       "why": "They landed together, with one thud. The Earth pulls the full bottle harder. But the full bottle also needs a bigger pull to speed up. The extra pull is exactly what the extra mass needs, so both speed up in the same way. Picking 'the full bottle first' means trusting the old guess over what you heard. Try again and listen closely."
      }
     },
@@ -2144,11 +2144,11 @@
       "t": "mcq",
       "q": "In the Parachute Test, which parachute fell most slowly?",
       "options": [
-       "The smallest",
        "The largest",
+       "The smallest",
        "They all took the same time"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The largest parachute catches the most air. The air pushes up on it the most, so it falls most slowly. Picking 'the same time' means remembering that heavy and light things fall together. That is true without air. A parachute works by catching the air."
      },
      "chart": {
@@ -2290,11 +2290,11 @@
       "t": "mcq",
       "q": "Why does the helper let go of the ruler without any warning?",
       "options": [
-       "So you cannot guess the moment. Then the distance shows how quick you really are",
        "To make the ruler fall faster",
+       "So you cannot guess the moment. Then the distance shows how quick you really are",
        "Because a ruler falls more slowly when you do not expect it"
       ],
-      "a": 0,
+      "a": 1,
       "why": "If you could guess the moment, you would start closing your fingers early and the ruler would fall less. The number would then show your guessing, not your quickness. The ruler falls the same way every time, so only your catch changes the number. Picking 'faster' mixes up the ruler with the catcher."
      },
      "parent": "With only 3 tries per hand, a small difference could be luck. Many children find no clear difference between their hands. That is a real result too."
@@ -2696,11 +2696,11 @@
       "t": "mcq",
       "q": "You pull a dupatta tied to a door, and nothing moves. The door pulls back just as hard. Does the door use up energy?",
       "options": [
-       "No. Holding still needs a force, but it does not use up energy",
        "Yes, just as much as you do",
-       "Yes, but it gets tired more slowly"
+       "Yes, but it gets tired more slowly",
+       "No. Holding still needs a force, but it does not use up energy"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The door pulls back with a force as big as yours, but nothing moves, so no energy is used up. You get tired because your muscles use energy just to stay tight. Picking 'just as much as you do' is a fair guess, because the forces are equal. But the energy is used inside your muscles, not by the force itself."
      },
      "parent": "Against the door, only your child gets tired. Against you, you both get tired, because both of you are keeping your muscles tight. The door holds the pull without using up energy."
@@ -2778,11 +2778,11 @@
       "t": "mcq",
       "q": "A girl stands on a ship on the opposite side of the Earth from India. Which way is down for her?",
       "options": [
-       "Towards the middle of the Earth",
        "Towards India",
-       "Towards the bottom of the universe"
+       "Towards the bottom of the universe",
+       "Towards the middle of the Earth"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Down always means towards the middle of the Earth. For her, that is the opposite way from ours, and she stands just as easily as we do. Picking 'the bottom of the universe' means imagining space has a bottom, like a page. Space has no bottom. Down is wherever the Earth's middle is."
      },
      "adult": true
@@ -2958,11 +2958,11 @@
       "t": "mcq",
       "q": "Why do fluffy semal seeds fall so slowly?",
       "options": [
-       "Their fluff catches lots of air, so the air pushes up on the seeds",
        "They are too light for gravity to pull",
+       "Their fluff catches lots of air, so the air pushes up on the seeds",
        "They are made of air"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Gravity pulls on every seed, however light. The fluff spreads out and catches the air, so the air pushes up on the seeds a lot. That slows them down, and the wind can carry them far from the plant that made them. Picking 'too light for gravity' is a common mix-up. Gravity pulls everything, even fluff."
      }
     },
@@ -3062,11 +3062,11 @@
       "t": "mcq",
       "q": "What is the best reason to decide that heavy things do not fall faster?",
       "options": [
-       "Aristotle was famous, so he must be right",
        "Fair tests, changing only one thing, show heavy and light things land together",
+       "Aristotle was famous, so he must be right",
        "Galileo was more famous than Aristotle"
       ],
-      "a": 1,
+      "a": 0,
       "why": "In science, evidence decides, not fame. A fair test changes only one thing. The bottles have the same shape but different weights, and they land together. Picking either famous name means trusting who says it. Both men were famous, and only one was right about this."
      }
     },
@@ -3139,11 +3139,11 @@
       "t": "mcq",
       "q": "A tiny magnet lifts a paper clip against the pull of the whole Earth. What does that tell us?",
       "options": [
-       "Gravity is a very weak force",
        "There is no gravity near magnets",
+       "Gravity is a very weak force",
        "The paper clip has no mass"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Gravity still pulls the clip, but the magnet's pull is stronger. Gravity is much weaker than magnetism. It only feels strong because the Earth has so much mass. Picking 'no gravity near magnets' is a fair guess. But the clip falls as soon as you pull the magnet away, so gravity was there all along."
      },
      "parent": "Expected answer: magnets push and pull in two ways, so on a big object their pulls cancel out and almost nothing is left. Gravity only ever pulls, so every bit of mass adds to the pull. Over planets and stars, those pulls add up to something huge.",
@@ -3246,10 +3246,10 @@
       "q": "On Galileo's ramp, how far does the marble go in each beat?",
       "options": [
        "The same distance every beat",
-       "Further every beat, because it speeds up",
-       "Less every beat, because it gets tired"
+       "Less every beat, because it gets tired",
+       "Further every beat, because it speeds up"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The marble speeds up all the way down, so it goes further each beat. Galileo found the distances from the start went up as 1, 4, 9, 16. A falling thing does the same, only much faster. Picking 'the same distance' means picturing falling at one steady speed. Picking 'gets tired' misses that gravity keeps pulling the marble, so it keeps speeding up."
      },
      "chart": {
@@ -3553,11 +3553,11 @@
    "t": "mcq",
    "p": "In a fair test of falling, what should you change?",
    "opts": [
-    "Only the thing you drop",
     "The thing and the height",
-    "Everything"
+    "Everything",
+    "Only the thing you drop"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Change one thing and keep the rest the same. Then you know what caused any difference.",
    "outcome": 1,
    "how": "e1"
@@ -3578,11 +3578,11 @@
    "t": "mcq",
    "p": "Which of these is slowed most by the air as it falls?",
    "opts": [
-    "A flat sheet of paper",
     "A crumpled ball of the same paper",
-    "A steel coin"
+    "A steel coin",
+    "A flat sheet of paper"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The flat sheet is light and spread out, so it pushes against the most air for its weight.",
    "outcome": 2,
    "how": "e2"
@@ -3591,11 +3591,11 @@
    "t": "mcq",
    "p": "Who said, about 2,350 years ago, that heavy things fall faster?",
    "opts": [
-    "Aristotle",
     "Galileo",
+    "Aristotle",
     "Newton"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Aristotle, a Greek thinker, said it. For about 1,900 years, few people tested it carefully.",
    "outcome": 3
   },
@@ -3640,11 +3640,11 @@
    "t": "mcq",
    "p": "You jump off a low wall. While you are in the air, how do you feel?",
    "opts": [
-    "Almost weightless, because you are falling",
     "Twice as heavy",
-    "Exactly as you feel standing still"
+    "Exactly as you feel standing still",
+    "Almost weightless, because you are falling"
    ],
-   "a": 0,
+   "a": 2,
    "why": "While falling, nothing pushes on your feet, so you feel almost no weight. Astronauts feel this all the time.",
    "outcome": 5
   },
@@ -3652,11 +3652,11 @@
    "t": "mcq",
    "p": "A heavy wooden ruler and a light plastic ruler are dropped at the same moment from the same height. Which falls further in one tenth of a second?",
    "opts": [
-    "They fall the same distance, about 5 cm",
     "The heavy one",
-    "The light one"
+    "The light one",
+    "They fall the same distance, about 5 cm"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Heavy and light things fall together when the air hardly slows them. Both rulers are thin and compact.",
    "outcome": 1,
    "how": "e4"
@@ -3677,11 +3677,11 @@
    "t": "mcq",
    "p": "How does your body know which way is down?",
    "opts": [
-    "Tiny stones in your ears slide and bend tiny hairs",
     "Your eyes see the ground",
-    "Blood flows to your feet"
+    "Blood flows to your feet",
+    "Tiny stones in your ears slide and bend tiny hairs"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Inside your ears, tiny chalky stones rest on hairs. When you tip your head, they slide, and your brain knows which way is down, even with your eyes shut.",
    "outcome": 6
   },
@@ -3689,11 +3689,11 @@
    "t": "mcq",
    "p": "A galaxy can bend the light of galaxies far behind it. What do telescopes see?",
    "opts": [
-    "The far galaxies stretched into arcs and rings",
     "Nothing at all",
-    "The far galaxies turned upside down"
+    "The far galaxies turned upside down",
+    "The far galaxies stretched into arcs and rings"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Gravity bends light, so a big galaxy acts like a lens. Scientists call this gravitational lensing.",
    "outcome": 6
   }
@@ -4072,6 +4072,93 @@
     "e1",
     "p1"
    ]
+  },
+  {
+   "id": "b-a-bar-magnet-or-two--and-a-f",
+   "item": "A bar magnet or two, and a few small magnets",
+   "kind": "tool",
+   "why": "Used in A Magnet Beats the Whole Earth. About ₹50 to ₹200. A fridge magnet is a weak substitute for some tests.",
+   "url": "https://www.amazon.in/s?k=bar+magnet+school",
+   "used_in": [
+    "a8"
+   ],
+   "plan": "Get it before A Magnet Beats the Whole Earth."
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in How High Can You Jump? Can You Jump into Space?, Galileo's Ramp: catching a fall in slow motion. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "a1",
+    "p1"
+   ],
+   "plan": "Get it before How High Can You Jump? Can You Jump into Space?."
+  },
+  {
+   "id": "b-a-digital-stopwatch--optiona",
+   "item": "A digital stopwatch (optional)",
+   "kind": "tool",
+   "why": "Used in The Parachute Test, The Falling Seeds Walk (if you have a park nearby), The Slowest Fall. About ₹150 to ₹400. A phone stopwatch works well.",
+   "url": "https://www.amazon.in/s?k=digital+stopwatch",
+   "used_in": [
+    "e3",
+    "a6",
+    "c2"
+   ],
+   "plan": "Get it before The Parachute Test."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Parachute Test, The Falling Ruler: catch it if you can, How High Can You Jump? Can You Jump into Space?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e3",
+    "e4",
+    "a1",
+    "p1"
+   ],
+   "plan": "Get it before The Parachute Test."
+  },
+  {
+   "id": "b-sticky-notes",
+   "item": "Sticky notes",
+   "kind": "material",
+   "why": "Used in Galileo's Ramp: catching a fall in slow motion. About ₹20 to ₹60. Small torn paper and tape do the same job.",
+   "url": "https://www.amazon.in/s?k=sticky+notes+pack",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before Galileo's Ramp: catching a fall in slow motion."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Galileo's Ramp: catching a fall in slow motion. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before Galileo's Ramp: catching a fall in slow motion."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

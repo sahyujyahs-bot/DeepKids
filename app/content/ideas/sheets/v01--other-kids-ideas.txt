@@ -1,0 +1,17 @@
+# DeepKids V0.1 / Other kids ideas (copied from Google Sheets, 2026-11-27)
+R1: Kits Ideas | Subject wise kits 
+R2:  | what do you want to build today?
+R4:  | Playing Cards for Kids
+R6:  | Read together
+R7:  | Art Museum | Escher
+R9:  | Science As History
+R10:  | Ask Why? | - Quora
+R11:  | Good reads for kids
+R12:  | Curated videos/movies for kids | Kidflix
+R13:  |  | but give little by little 
+R15:  | Think together
+R16:  | Kid starts with 1st why - go deep | `
+R18:  | App for kids to build their own worlds
+R20:  | HomeSchool | curriculum, activty planner based on interests from the curated universe across art, philosophy, dance, music, yoga, electronics, coding, vedanta
+R22:  | Coding for kids
+R23:  | MasterClass for Kids

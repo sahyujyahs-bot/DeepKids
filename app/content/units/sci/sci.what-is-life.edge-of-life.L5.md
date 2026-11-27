@@ -1,9 +1,9 @@
 # Viruses and the edge of life: can one definition sort the living from the non-living?
 `sci.what-is-life.edge-of-life.L5`
 
-**Summary.** A virus can copy itself, yet it is not a cell, so is it alive? In this unit you will play a copying game to see how mistakes build up, test 20 cases against NASA's definition of life, and walk a scale to find out how small a virus is.
+**Summary.** A virus can copy itself, yet it is not a cell, so is it alive? In this lesson you will play a copying game to see how mistakes build up, test 20 cases against NASA's definition of life, and walk a scale to find out how small a virus is.
 
-**Intro.** *Doctors say that soap 'inactivates' a cold virus. Many of them avoid the word 'kills'. Can you kill something if nobody agrees that it is alive?* A teaspoon of sea water from Marina Beach in Chennai holds about fifty million viruses. Almost none of them can harm you. Nearly all of them infect the bacteria of the sea. A virus is a set of instructions wrapped in a coat. Alone, a virus particle takes in nothing and makes nothing. Inside the right cell, the cell reads the instructions and builds more viruses. So the same virus looks like a speck of dust in one place and like a living being in another. In this unit you will find out why scientists cannot agree about viruses, what NASA means by the word 'life', and whether life on another world might be built in a different way.
+**Intro.** *Doctors say that soap 'inactivates' a cold virus. Many of them avoid the word 'kills'. Can you kill something if nobody agrees that it is alive?* A teaspoon of sea water from Marina Beach in Chennai holds about fifty million viruses. Almost none of them can harm you. Nearly all of them infect the bacteria of the sea. A virus is a set of instructions wrapped in a coat. Alone, a virus particle takes in nothing and makes nothing. Inside the right cell, the cell reads the instructions and builds more viruses. So the same virus looks like a speck of dust in one place and like a living being in another. In this lesson you will find out why scientists cannot agree about viruses, what NASA means by the word 'life', and whether life on another world might be built in a different way.
 
 ## Learning outcomes
 0. I can say what a virus is made of, and what a cell has that a virus lacks.
@@ -76,7 +76,7 @@ In 1994, a group of scientists advising NASA needed a definition to guide the se
 - **Carol Cleland, a philosopher of science:** It is too early to define life. We know only one kind, the life of Earth, and all of it is related. A definition made from one example may describe only that example.
 - **Scientists who design space missions:** A probe cannot wait for generations to watch evolution. It needs signs it can measure in a day, such as molecules too complicated to form without life.
 ### The great debate: is a virus alive? · *debated*
-Scientists agree about what a virus is made of and what a virus does. They disagree about which word fits. The disagreement is not about facts. It is about which test for life matters most. If you think life means doing your own chemistry, a virus fails. If you think life means carrying instructions that evolve, a virus passes. A third group points out that we may be looking at the wrong object. A seed in a jar and the plant in the field are the same being at two stages. Perhaps the virus particle is like the seed, and the infected cell is the virus's active stage. You can test each view against the hard cases in this unit. Ask which cases the view sorts well, and which ones it sorts oddly.
+Scientists agree about what a virus is made of and what a virus does. They disagree about which word fits. The disagreement is not about facts. It is about which test for life matters most. If you think life means doing your own chemistry, a virus fails. If you think life means carrying instructions that evolve, a virus passes. A third group points out that we may be looking at the wrong object. A seed in a jar and the plant in the field are the same being at two stages. Perhaps the virus particle is like the seed, and the infected cell is the virus's active stage. You can test each view against the hard cases in this lesson. Ask which cases the view sorts well, and which ones it sorts oddly.
 - e.g. A doctor says a vaccine holds 'live virus' or 'killed virus'. She is using the words of life.
 - e.g. A chemist can store tobacco mosaic virus as crystals in a bottle. She is treating the virus as a chemical.
 - e.g. Both of them are describing the same particle correctly.
@@ -616,7 +616,7 @@ Paatti picked six tomatoes from pot one and went down to make rasam.
 8. (truefalse) True or false: antibiotics inactivate cold viruses.  
    **Answer:** False. *Why:* False. Antibiotics jam parts that bacteria have, such as the bacterial ribosome. A virus particle has no such parts, so antibiotics do nothing to them.
 9. (mcq) In the Copying Chain, which lines wandered furthest from 100 millimetres?  
-   Options: Copies of the last copy / Copies of the original / Lines drawn with the ruler / All wandered equally  
+   Options: Copies of the original / Lines drawn with the ruler / All wandered equally / Copies of the last copy  
    **Answer:** Copies of the last copy. *Why:* When each line is copied from the last copy, each new mistake is added to all the earlier ones. Copies made from the original start afresh each time, so they stay close.
 10. (write) In the Copying Chain, mistakes added up from copy to copy. Why did that not happen when you copied the original?  
    **Answer:** Each copy of the original starts from the true length, so it carries only one mistake. In the chain, each copy starts from a line that already holds all the earlier mistakes, and adds one more.. *Why:* A strong answer says where each copy starts from. A copy of a copy inherits the old mistakes. A copy of the original does not.
@@ -633,7 +633,7 @@ Paatti picked six tomatoes from pot one and went down to make rasam.
    **Answer:** Answers vary. A strong answer picks a word and ties it to a test for life, such as 'a particle that does nothing cannot be killed' or 'something that evolves is alive enough to be killed'.. *Why:* Both words are used by scientists. The choice shows which test for life the speaker has in mind.
 ### Evolving, and the cases in between (stretch, 16 questions)
 1. (mcq) Why do most RNA viruses evolve faster than your own cells?  
-   Options: Their copying enzyme does not check for mistakes / They are kept warmer / They have many more genes / They are much heavier  
+   Options: They are kept warmer / They have many more genes / Their copying enzyme does not check for mistakes / They are much heavier  
    **Answer:** Their copying enzyme does not check for mistakes. *Why:* Your cells check and repair their copies. Most RNA viruses bring a copying enzyme that does no checking, so nearly every new copy has a changed letter. More differences give selection more to work on.
 2. (truefalse) True or false: every mutation harms the virus that carries it.  
    **Answer:** False. *Why:* False. Most mutations do harm or make no difference, but a few help, for example by hiding the virus from antibodies. Viruses with those few are copied more.
@@ -642,7 +642,7 @@ Paatti picked six tomatoes from pot one and went down to make rasam.
 4. (fill) A virus whose host cells are bacteria is called a ____.  
    **Answer:** ['bacteriophage', 'phage']. *Why:* Bacteriophage means 'bacteria eater'. Phages are the most common viruses on Earth, and nearly all the viruses in sea water are phages.
 5. (mcq) A candle flame is chemical and keeps itself going. Why can a flame not evolve?  
-   Options: It has no instructions that are copied with changes / It is too hot / It needs air / It lasts too short a time  
+   Options: It is too hot / It needs air / It has no instructions that are copied with changes / It lasts too short a time  
    **Answer:** It has no instructions that are copied with changes. *Why:* Evolution needs copies that differ and pass the differences on. A new flame lit from an old one carries nothing over from it. A flame's shape depends only on the wick, the wax and the air now.
 6. (sort) Each of these fails one part of NASA's definition. Sort them by the part they fail.  
    **Answer:** a cold virus particle → Fails 'self-sustaining'; a candle flame → Fails 'capable of evolution'; a viroid → Fails 'self-sustaining'; a red blood cell → Fails 'capable of evolution'; a mimivirus particle → Fails 'self-sustaining'; a forest fire → Fails 'capable of evolution'. *Why:* Viruses and viroids carry instructions that evolve, but do no chemistry of their own. Flames and red blood cells keep going for a while, but have no genome to pass on with changes.
@@ -656,7 +656,7 @@ Paatti picked six tomatoes from pot one and went down to make rasam.
 10. (write) Explain why a mule is a problem for NASA's definition of life.  
    **Answer:** A mule cannot have young, so one mule cannot evolve. Yet a mule is clearly alive. So 'capable of evolution' must be about a kind of being over generations, and cannot be tested on one body.. *Why:* A strong answer says both things: the mule fails if you test one body, and the fix is to apply the definition to kinds. That fix makes the definition hard to use on a single sample.
 11. (mcq) In Soap and the Fatty Coat, soap kept oil spread through water. What does soap do to a flu virus?  
-   Options: Pulls apart the envelope of fat / Dissolves the genome / Feeds the virus / Makes the virus heavier  
+   Options: Dissolves the genome / Pulls apart the envelope of fat / Feeds the virus / Makes the virus heavier  
    **Answer:** Pulls apart the envelope of fat. *Why:* A soap molecule holds fat at one end and water at the other. It pulls the fat of the envelope apart, and the spikes in the envelope are lost with it. Without spikes the virus cannot enter a cell.
 12. (write) In Pori Rafts, grains joined with nobody arranging them. How is that like a virus's coat forming? How is it different?  
    **Answer:** Alike: the parts come together by themselves, with no builder. Different: pori is pulled by the water surface and makes a different raft each time. Coat proteins fit by shape and charge, and make the same coat every time.. *Why:* A strong answer gives one likeness and one difference. The difference matters: a model shows one feature of the real thing and gets others wrong.
@@ -671,7 +671,7 @@ Paatti picked six tomatoes from pot one and went down to make rasam.
    **Answer:** ['receptor']. *Why:* A receptor is a molecule on the cell's surface that has a job for the cell. A virus can enter only if their coat fits that receptor.
 ### Other worlds, and what a definition is for (challenge, 16 questions)
 1. (mcq) In Two Liquids, salt dissolved in water and not in oil. What would that mean for life in an oily lake?  
-   Options: It would need different chemicals / It would have to stir harder / It would taste salty / It would need no chemicals  
+   Options: It would have to stir harder / It would taste salty / It would need different chemicals / It would need no chemicals  
    **Answer:** It would need different chemicals. *Why:* Chemicals must be dissolved to meet and react. Salts and sugars do not dissolve in oily liquids. So life there could not be built from the same chemicals as ours.
 2. (write) Your cells are wrapped in a membrane of fat. Use your Two Liquids results to explain why fat suits the job.  
    **Answer:** The inside and the outside of a cell are both watery. In Two Liquids, ghee did not dissolve in water. So a layer of fat stays whole in water, and keeps the cell's salts and sugars in.. *Why:* A strong answer uses the result that fat and water do not dissolve each other. A membrane made of something that dissolved in water would fall apart.
@@ -692,7 +692,7 @@ Paatti picked six tomatoes from pot one and went down to make rasam.
 9. (order) Put these in order from the fewest genes to the most.  
    **Answer:** ['A viroid (none)', 'A flu virus (about 12)', 'Carsonella (182)', 'A mimivirus (about 1,000)', 'A human (about 20,000)']. *Why:* The surprise is in the middle. A giant virus has more genes than the smallest bacterium. So the number of genes does not sort viruses from cells.
 10. (mcq) About 8 of every 100 letters in your genome came from viruses. What does that show?  
-   Options: Viruses left their genomes in our ancestors / We are 8 percent ill / Viruses are small humans / Our genome is shrinking  
+   Options: We are 8 percent ill / Viruses are small humans / Our genome is shrinking / Viruses left their genomes in our ancestors  
    **Answer:** Viruses left their genomes in our ancestors. *Why:* Some viruses put their genome into the host's genome. When that happened in an egg or sperm cell long ago, the virus's letters were passed down to every descendant.
 11. (truefalse) True or false: a definition made from one example may describe only that example.  
    **Answer:** True. *Why:* True. All life on Earth is related, so we have one example. We cannot yet tell which features every kind of life must have.
@@ -724,31 +724,31 @@ Paatti picked six tomatoes from pot one and went down to make rasam.
    Options: The virus's coat and the cell's receptor / The sizes of the virus and the cell / Their temperatures / Their colours  
    **Answer:** The virus's coat and the cell's receptor. *Why:* A protein on the virus's coat must fit a receptor on the cell, as a key fits a lock. That is why each virus has only certain hosts.
 4. (mcq) What builds the proteins of a new virus?  
-   Options: The host cell's ribosomes / The virus particle / The virus's envelope / The cell's receptor  
+   Options: The virus particle / The virus's envelope / The cell's receptor / The host cell's ribosomes  
    **Answer:** The host cell's ribosomes. *Why:* A virus has no ribosomes. The host cell's ribosomes read the virus's genome and build the virus's proteins. Choosing 'the virus particle' forgets that a particle builds nothing.
 5. (mcq) Which three things does evolution need?  
-   Options: Copies, small differences, unequal success / Food, water and air / Cells, a brain and legs / Heat, light and time  
+   Options: Food, water and air / Cells, a brain and legs / Heat, light and time / Copies, small differences, unequal success  
    **Answer:** Copies, small differences, unequal success. *Why:* Evolution happens whenever there are copies, the copies differ a little in ways that are passed on, and some leave more copies than others. Nothing else is needed.
 6. (mcq) In the Copying Chain, you kept the longest of three copies each time. What happened to the line?  
-   Options: It grew steadily longer / It stayed at 100 millimetres / It grew steadily shorter / It vanished  
+   Options: It stayed at 100 millimetres / It grew steadily shorter / It vanished / It grew steadily longer  
    **Answer:** It grew steadily longer. *Why:* Each copy came out a little long or short by mistake. Keeping the longest each time kept the 'long' mistakes. The line did nothing: copying and choosing did the work.
 7. (mcq) NASA says life is a self-sustaining chemical system capable of what?  
-   Options: Darwinian evolution / Fast movement / Speech / Living in water  
+   Options: Fast movement / Darwinian evolution / Speech / Living in water  
    **Answer:** Darwinian evolution. *Why:* The definition ends 'capable of Darwinian evolution'. It means the kind can change over generations through copies that differ.
 8. (mcq) Which of these passes all three parts of NASA's definition?  
-   Options: A curd bacterium / A candle flame / A cold virus particle / A salt crystal  
+   Options: A candle flame / A cold virus particle / A salt crystal / A curd bacterium  
    **Answer:** A curd bacterium. *Why:* A bacterium is chemical, keeps themselves going and evolves. A flame cannot evolve, a virus particle does not sustain themselves, and a crystal does neither.
 9. (mcq) Scientists who call viruses alive point to which fact?  
-   Options: Viruses carry genes that evolve / Viruses make their own energy / Viruses have ribosomes / Viruses grow in plain broth  
+   Options: Viruses make their own energy / Viruses have ribosomes / Viruses carry genes that evolve / Viruses grow in plain broth  
    **Answer:** Viruses carry genes that evolve. *Why:* Viruses carry genes, are copied and evolve. The other three statements are false, and they are the reasons other scientists give for saying viruses are not alive.
 10. (mcq) Why is NASA's definition called a 'working definition'?  
-   Options: It is useful now and may change / It is used only at work / It has been proved true / It describes working animals  
+   Options: It is used only at work / It has been proved true / It describes working animals / It is useful now and may change  
    **Answer:** It is useful now and may change. *Why:* A working definition is a rule people agree to use for now because it is useful. Scientists expect to change it when they learn more.
 11. (mcq) Why might life in an oily lake need different chemicals from ours?  
-   Options: Salts and sugars do not dissolve in oil / Oily lakes are too wet / Oil contains no atoms / Our chemicals are too heavy  
+   Options: Oily lakes are too wet / Oil contains no atoms / Salts and sugars do not dissolve in oil / Our chemicals are too heavy  
    **Answer:** Salts and sugars do not dissolve in oil. *Why:* Chemicals must dissolve in the liquid to meet and react. The salts and sugars our cells use do not dissolve in oily liquids.
 12. (mcq) In the Two Liquids test, what was the one thing you changed on purpose?  
-   Options: The liquid / The amount of liquid / The number of stirs / The waiting time  
+   Options: The amount of liquid / The number of stirs / The liquid / The waiting time  
    **Answer:** The liquid. *Why:* In a fair test you change one thing and keep the rest the same. Here only the liquid changed, so any difference was caused by the liquid.
 
 ## Applications
@@ -765,7 +765,7 @@ Paatti picked six tomatoes from pot one and went down to make rasam.
 - On your vaccination card: 'OPV' is a live, weakened polio virus and 'IPV' is an inactivated one.
 - At the vegetable market: a ladies' finger or papaya leaf with a net of yellow veins or a patchwork of two greens has a plant virus.
 - At the sink: soap breaking up the grease on a plate is doing what it does to the fatty envelope of a flu virus.
-- At the beach in Chennai, Kochi or Puri: every handful of sea water holds millions of phages and the bacteria they infect.
+- At the beach, every handful of sea water holds millions of phages and the bacteria they infect.
 - On a chickpea or cotton field: a farmer spraying HaNPV is using a virus to protect the crop.
 - In the news: a 'new variant' of flu or Covid is a virus whose genome has picked up mutations that help them spread.
 - At the doctor's: when the doctor says 'it is a virus, so no antibiotics', she is using what you learned about what a virus lacks.
@@ -817,12 +817,16 @@ What Makes a Thing Alive? (sci.what-is-life.L5): Topic-level song
 - [Virus Explorer (HHMI BioInteractive)](https://www.biointeractive.org/classroom-resources/virus-explorer) · interactive: A free tool to compare real viruses by size, shape, genome and host.
 - [ViralZone (Swiss Institute of Bioinformatics)](https://viralzone.expasy.org/) · interactive: For the parent: clear diagrams of every family of viruses and the steps by which each is copied.
 - [PDB-101 Molecule of the Month](https://pdb101.rcsb.org/) · interactive: Careful paintings of viruses and proteins, drawn from measured shapes. Search for 'tobacco mosaic virus'.
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: A science museum with a gallery on biotechnology, with models of cells, DNA and microbes.
-- [Periyar Science and Technology Centre and B.M. Birla Planetarium]() · place · Chennai: A science centre and planetarium. Go for a sky show about the planets and moons where scientists look for life.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru: A science museum with a gallery on biotechnology, with models of cells, DNA and microbes.
+- Periyar Science and Technology Centre and B.M. Birla Planetarium · place · Chennai: A science centre and planetarium. Go for a sky show about the planets and moons where scientists look for life.
 
 ## Things to buy
 - [A tailor's measuring tape, 150 centimetres long](https://www.amazon.in/s?k=tailor+measuring+tape) (tool): For measuring 3 metres across a room in Walk the Scale. A 30 centimetre ruler moved end to end also works. A tape costs about Rs 30 to 60. Used in a2. 
 - [A Planet of Viruses, by Carl Zimmer (a short book for grown-ups and keen older children)](https://www.amazon.in/s?k=A+Planet+of+Viruses+Carl+Zimmer) (book): Short true chapters on phages, giant viruses, the viruses in our genome and the viruses of the sea. A library copy is as good as a bought one. Used in p1. A parent reads one chapter aloud on each day of the Family Verdict project. The chapter on giant viruses fits day 3 best.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Copying Chain: what happens when copies are copied?, Walk the Scale: how small is a virus?, Block the Key: stop a virus entering without harming the cell. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a2, c1. Get it before The Copying Chain: what happens when copies are copied?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in A Being for Another World: invent a life form and test it. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in a5. Get it before A Being for Another World: invent a life form and test it.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Family Verdict: what do people think 'alive' means?, Block the Key: stop a virus entering without harming the cell. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in p1, c1. Get it before The Family Verdict: what do people think 'alive' means?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What are the two parts every virus has? → A genome and a protein coat.
@@ -844,7 +848,7 @@ What Makes a Thing Alive? (sci.what-is-life.L5): Topic-level song
 - Founder's SCI Cards in ideas/by_topic/living-and-non-living-signs-of-life.md: Venkatraman Ramakrishnan (the ribosome, and how antibiotics jam the bacterial ribosome) and Lynn Margulis (mitochondria were once free bacteria). Used in 'What a cell has that a virus particle does not' and in the Three Tokens cards.
 - Founder's SCI Card on J.C. Bose, quoted in PHILOSOPHY.md ('the line between living and non-living is drawn by us, not by nature'). Used in the roots.
 - Combined lesson sci-C3-living-and-non-living-signs-of-life, day 6 'Viruses: the great argument' and its giant-virus voice: the starting point for the debate explanation and for Switch Sides. Its story is not reused.
-- The Class 3 unit sci.what-is-life.edge-of-life.L3 and the Class 4 unit sci.what-is-life.signs-of-life.L4, which this unit builds on. Their experiments, act-out, games and stories are not repeated.
+- The Class 3 unit sci.what-is-life.edge-of-life.L3 and the Class 4 unit sci.what-is-life.signs-of-life.L4, which this lesson builds on. Their experiments, act-out, games and stories are not repeated.
 - knowledge/by_subtopic.json: Microbiology (OpenStax), 'Acellular Pathogens: The Viral Life Cycle', and Astronomy 2e, 'Life in the Universe', used for facts only.
 - Joyce, G. F., foreword to Deamer, D. W. and Fleischaker, G. R. (eds), Origins of Life: The Central Concepts, 1994 (NASA's working definition of life)
 - Cleland, C. E. and Chyba, C. F., 'Defining life', Origins of Life and Evolution of the Biosphere 32, 2002

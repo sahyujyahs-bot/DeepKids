@@ -1,9 +1,9 @@
 # What plants need, and how they grow towards the light
 `sci.plants.what-plants-need.L2`
 
-**Summary.** Turn a pot of sprouts round, and by the next day they have bent back towards the window. Why? In this unit you will grow rai sprouts by a window and turn one cup round to watch them, look inside soil in a glass, and find out what a plant needs to grow.
+**Summary.** Turn a pot of sprouts round, and by the next day they have bent back towards the window. Why? In this lesson you will grow rai sprouts by a window and turn one cup round to watch them, look inside soil in a glass, and find out what a plant needs to grow.
 
-**Intro.** *Look at a plant that lives indoors, near a window. Which way are the leaves and stems leaning?* Most plants indoors lean towards the nearest window. Nobody pulled them that way. The plant grew that way. What happens if we turn the pot round, so the plant leans away from the window? In this unit we find out. We also look at the five things a plant needs: light, water, air, warmth and soil.
+**Intro.** *Look at a plant that lives indoors, near a window. Which way are the leaves and stems leaning?* Most plants indoors lean towards the nearest window. Nobody pulled them that way. The plant grew that way. What happens if we turn the pot round, so the plant leans away from the window? In this lesson we find out. We also look at the five things a plant needs: light, water, air, warmth and soil.
 
 ## Learning outcomes
 0. By the end I can name five things a plant needs: light, water, air, warmth and soil.
@@ -428,7 +428,7 @@ Anu turned the tumbler very carefully. Then she leaned her own head towards the 
 6. (match) Match each plant to the warmth they grow best in.  
    **Answer:** Coconut palm → Hot all year, by the sea in Kerala; Mustard for oil → Cool winter months in Rajasthan; Apple tree → Cold hills of Himachal Pradesh. *Why:* Each plant grows best in a different warmth. Coconuts like heat, mustard is sown in the cool winter, and apples need cold winters.
 7. (mcq) Which gas do leaves take in from the air to make food?  
-   Options: Carbon dioxide / Smoke / Steam  
+   Options: Smoke / Steam / Carbon dioxide  
    **Answer:** Carbon dioxide. *Why:* Carbon dioxide is a gas in the air. Leaves take it in through tiny holes, and use it with water and light to make food.
 8. (mcq) Some farms grow lettuce with the roots in water and no soil. What must the farm add to the water?  
    Options: Minerals / Sugar / Stones  
@@ -447,7 +447,7 @@ Anu turned the tumbler very carefully. Then she leaned her own head towards the 
 4. (draw) A cup of rai is turned round, and a day later turned round again. Each time, the tops bend to the light. Draw one stem from the side. How many new bends does it have?  
    **Answer:** Two new bends, so the stem looks wiggly, like the letter S.. *Why:* Each turn starts a new bend near the growing tip, and the older bends stay in the stem. So the bends in the stem show where the light came from each time.
 5. (mcq) Charles Darwin and his son Francis put tiny black caps on the tips of some grass shoots. Those shoots did not bend to the light. What does that show?  
-   Options: The tip is the part that senses the light / Black caps are heavy / Grass does not need light  
+   Options: Black caps are heavy / The tip is the part that senses the light / Grass does not need light  
    **Answer:** The tip is the part that senses the light. *Why:* When light could not reach the tip, the shoot did not bend. So the tip senses where the light is, and a message travels down to the part that bends.
 6. (odd) Three of these show a plant growing towards light. Which one does not?  
    Options: Rai sprouts bending to a window / A potato shoot growing to a hole in a box / A money plant reaching for a window / A root growing down into soil  
@@ -459,7 +459,7 @@ Anu turned the tumbler very carefully. Then she leaned her own head towards the 
 9. (truefalse) Sunflowers in full bloom turn to follow the Sun all day.  
    **Answer:** False. *Why:* False. Young sunflower plants turn with the Sun. Once the flowers open, most stop turning and face east.
 10. (mcq) A tulsi plant sits in a sunny window, and nobody waters the plant for a week. The leaves go soft and droop. Then the plant gets water. What will most likely happen next?  
-   Options: The leaves stand up again after a few hours / The leaves turn into soil / Nothing, the plant stays soft for ever  
+   Options: The leaves turn into soil / The leaves stand up again after a few hours / Nothing, the plant stays soft for ever  
    **Answer:** The leaves stand up again after a few hours. *Why:* Water keeps the leaves firm. A plant that is only a little dry can stand up again after a drink.
 
 ## Videos
@@ -475,28 +475,28 @@ Anu turned the tumbler very carefully. Then she leaned her own head towards the 
    Options: Straight down / Towards the window / Away from the window  
    **Answer:** Towards the window. *Why:* Young shoots grow towards light. The window is where the light comes from.
 3. (mcq) How does a sprout bend towards light?  
-   Options: The sprout walks on their roots / The shady side of the stem grows faster / The light pulls the stem  
+   Options: The shady side of the stem grows faster / The sprout walks on their roots / The light pulls the stem  
    **Answer:** The shady side of the stem grows faster. *Why:* The side away from the light grows faster, so the stem bends towards the light. Light does not pull.
 4. (mcq) Rai seeds on wet tissue, with no soil, will most likely do what?  
-   Options: Stay dry and still / Turn into soil / Sprout  
+   Options: Sprout / Stay dry and still / Turn into soil  
    **Answer:** Sprout. *Why:* Seeds carry a little food store. With water, air and warmth they sprout, even with no soil.
 5. (mcq) Why do plants growing for many weeks need soil, or minerals in water?  
-   Options: The seed's food store runs out, and the plant needs minerals / Soil is their food / Soil keeps them dark  
+   Options: Soil is their food / Soil keeps them dark / The seed's food store runs out, and the plant needs minerals  
    **Answer:** The seed's food store runs out, and the plant needs minerals. *Why:* Plants make their food in their leaves, but they need minerals from the soil to stay healthy. They do not eat the soil.
 6. (mcq) Bubbles came up when we poured water on dry soil. What were they?  
-   Options: Soap / Gas made by the water / Air from the gaps in the soil  
+   Options: Soap / Air from the gaps in the soil / Gas made by the water  
    **Answer:** Air from the gaps in the soil. *Why:* Soil has gaps full of air. Water pushes the air out. Roots breathe this air.
 7. (mcq) A pot is kept full to the top with water every day. What will most likely happen to the roots?  
-   Options: Nothing at all / They can rot, because they cannot get air / They grow faster  
+   Options: Nothing at all / They grow faster / They can rot, because they cannot get air  
    **Answer:** They can rot, because they cannot get air. *Why:* Roots need air as well as water. In soaking soil, water fills the air gaps.
 8. (mcq) Rai seeds are sown in a very cold room and in a warm room. Where will they most likely sprout first?  
-   Options: In the warm room / In the cold room / Both at exactly the same time  
+   Options: In the cold room / In the warm room / Both at exactly the same time  
    **Answer:** In the warm room. *Why:* Seeds germinate faster when it is warm enough for them. In the cold, they are slow.
 9. (mcq) A child wants to find out if rai seeds need soil. She sows 10 seeds in soil by a window, and 10 seeds on tissue in a dark cupboard. What is wrong with her test?  
-   Options: She changed two things: soil and light / She used too many seeds / Tissue is not allowed  
+   Options: She used too many seeds / Tissue is not allowed / She changed two things: soil and light  
    **Answer:** She changed two things: soil and light. *Why:* A fair test changes one thing only. If the seeds differ, she cannot tell if soil or light made the difference.
 10. (mcq) A potato is kept in a dark kitchen basket with a small gap of light at one side. Which way will the pale shoots grow?  
-   Options: Towards the gap of light / Away from the gap / Straight down  
+   Options: Away from the gap / Straight down / Towards the gap of light  
    **Answer:** Towards the gap of light. *Why:* Shoots grow towards light, even a small amount. The shoots are pale and long because it is dark.
 
 ## Applications
@@ -509,9 +509,9 @@ Anu turned the tumbler very carefully. Then she leaned her own head towards the 
 ## Spotted around us
 - A money plant in a flat, with all the leaves turned towards the window.
 - Grass and weeds growing out of cracks in a wall, all bending towards the open sky.
-- Yellow mustard fields in Punjab and Rajasthan in winter, seen from a train window.
+- Yellow mustard fields in winter, seen from a train window.
 - A potato in the kitchen basket growing pale shoots towards a gap of light.
-- Young sunflower plants in a field in Karnataka, all facing the same way in the morning.
+- Young sunflower plants in a field, all facing the same way in the morning.
 
 ## Open questions
 - **What is it like for a sprout to feel where the light is?** Plants have light sensors, and they act on what they sense. Nobody knows what that feeling is like for a plant.
@@ -545,10 +545,15 @@ Root, Stem, Leaf, Flower, Fruit and Seed (sci.plants.L2): Topic-level song for P
 ## Links
 - [Phototropism, on Wikipedia](https://en.wikipedia.org/wiki/Phototropism) · interactive: For the parent: a short read on how plants grow towards light, with pictures.
 - [iNaturalist](https://www.inaturalist.org/) · interactive: For the parent: photograph a plant from your balcony and find out their name.
-- [Jawaharlal Nehru Tropical Botanic Garden and Research Institute]() · place · Palode, near Thiruvananthapuram: A large garden in the Kerala forest, with plants from wet, warm places.
-- [Lloyd Botanical Garden]() · place · Darjeeling: A hill garden where plants grow in cool air, very different from the plains.
+- Jawaharlal Nehru Tropical Botanic Garden and Research Institute · place · Palode, near Thiruvananthapuram: A large garden in the Kerala forest, with plants from wet, warm places.
+- Lloyd Botanical Garden · place · Darjeeling: A hill garden where plants grow in cool air, very different from the plains.
 
 ## Things to buy
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Maze Box: can a shoot find the way out?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before The Maze Box: can a shoot find the way out?.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in Soil or No Soil? Two cups of rai. About ₹20 to ₹50. Torn clean cloth works. Used in e2. Get it before Soil or No Soil? Two cups of rai.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Turning Cup: will the sprouts turn back?, Soil or No Soil? Two cups of rai, Straight or Bent? Two trays of rai to eat. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1, e2, p1. Get it before The Turning Cup: will the sprouts turn back?.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in The Turning Cup: will the sprouts turn back?, Soil or No Soil? Two cups of rai, Straight or Bent? Two trays of rai to eat. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e1, e2, p1. Get it before The Turning Cup: will the sprouts turn back?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name the five things a plant needs. → Light, water, air, warmth and soil.
@@ -564,7 +569,7 @@ Root, Stem, Leaf, Flower, Fruit and Seed (sci.plants.L2): Topic-level song for P
 - Core: a1, e1, a2, g1, ws-core
 
 ## Sources
-- ideas/by_topic/plants.md: Photosynthesis and vision row ('grow a potted plant in varying light and record growth'; 'light is life's bridge'). Its sunbeam dance was not used, because Level 3 of this unit has a seedling dance; the torch game g2 uses the idea of sprouts answering the light instead.
+- ideas/by_topic/plants.md: Photosynthesis and vision row ('grow a potted plant in varying light and record growth'; 'light is life's bridge'). Its sunbeam dance was not used, because Level 3 of this lesson has a seedling dance; the torch game g2 uses the idea of sprouts answering the light instead.
 - Leads on from Level 1 (methi in light and dark, plates) and leads to Level 3 (fair tests of light, water and warmth with moong). This level adds phototropism, air in soil, soil and warmth, with rai seeds.
 - Phototropism: shoots bend towards one-sided light because auxin is moved to the shaded side, where cells elongate faster (the Cholodny-Went model, widely accepted, details still studied). Any plant physiology textbook, for example Taiz and Zeiger, Plant Physiology.
 - Charles Darwin, assisted by Francis Darwin, The Power of Movement in Plants (London, 1880): canary grass (Phalaris canariensis) seedlings with their tips covered did not bend towards light.

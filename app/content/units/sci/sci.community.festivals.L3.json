@@ -107,6 +107,30 @@
    "art": "A large white kolam of loops around dots on a doorstep, with a pongal pot drawn in the centre."
   },
   {
+   "term": "Diya",
+   "meaning": "A small clay lamp with oil or ghee and a cotton wick, lit at Deepawali.",
+   "example": "A row of diyas on the window ledge on the night of Deepawali.",
+   "art": "A small clay lamp with a lit wick beside a bowl of oil."
+  },
+  {
+   "term": "Eidi",
+   "meaning": "A small gift of money that elders give to children at Eid.",
+   "example": "A child gets Eidi from an uncle and buys a toy at the mela.",
+   "art": "A child holding a small envelope with a smile, in new clothes."
+  },
+  {
+   "term": "Pandal",
+   "meaning": "A big decorated tent built for a festival, such as Durga Puja.",
+   "example": "In Kolkata, each street builds its own pandal for the nine nights.",
+   "art": "A big colourful tent with lights and an idol inside."
+  },
+  {
+   "term": "Vishukkani",
+   "meaning": "The first sight of the new year at Vishu in Kerala: rice, fruit, vegetables, golden konna flowers, a mirror and a lit lamp, set out in the puja room.",
+   "example": "A grandmother leads a child to the vishukkani with her eyes closed, so that the child sees it first.",
+   "art": "A tray with rice, fruit, golden flowers, a mirror and a brass lamp."
+  },
+  {
    "term": "Volunteer",
    "meaning": "A person who helps others without being paid.",
    "example": "At a big mela, volunteers at the Lost and Found booth look after lost children until their families come.",
@@ -143,6 +167,88 @@
    "context": "This card is about what people eat, wear and do at festivals in different parts of India."
   },
   {
+   "concept": "Eid-ul-Fitr: the festival after Ramzan",
+   "status": "defined",
+   "definition": "Eid-ul-Fitr is the Muslim festival at the end of Ramzan, a month of fasting. Its name means the festival of breaking the fast.",
+   "description": "During Ramzan, Muslims who are old enough do not eat or drink from dawn to sunset. Young children are not asked to fast. The month ends when the new crescent Moon is seen. The next morning is Eid. Families wear new or their best clothes. They go to the mosque, or to an idgah, which is an open ground, for the special prayer. Before the prayer, each family gives food or money to people in need, so that everyone can celebrate. After it, people hug and say 'Eid Mubarak'. Homes smell of sweet seviyan, and in some places of sheer khurma, a pudding of milk, vermicelli and dates. Elders give children a small gift of money called Eidi. Families visit friends and neighbours of every faith, and share the sweets.",
+   "examples": [
+    "Children get Eidi from their uncles and aunts.",
+    "A big plate of seviyan is shared with neighbours.",
+    "Thousands of people pray together on an open idgah ground."
+   ],
+   "perspectives": [],
+   "art": "A family in new clothes outside an open idgah, hugging, with a bowl of seviyan in front of them.",
+   "context": "This card is about Eid-ul-Fitr, and what families do to celebrate it."
+  },
+  {
+   "concept": "Durga Puja and Dussehra: nine nights and a tenth day",
+   "status": "defined",
+   "definition": "Durga Puja and Dussehra are autumn festivals of the same nine nights and tenth day. Each region tells a story of good winning over wrong in its own way.",
+   "description": "Every year in September or October, India celebrates nine nights and a tenth day. In West Bengal, Assam, Odisha and Tripura, it is Durga Puja. Artists make large clay idols of the goddess Durga, with ten arms. In the story, she defeats the buffalo-demon Mahishasura. In Kolkata, potters in the lane of Kumartuli make the idols. Each neighbourhood builds a pandal, a big decorated tent, to hold her. People walk from pandal to pandal in new clothes and eat together. On the last day, the idols are taken to a river and put in the water. In 2021, UNESCO added Durga Puja in Kolkata to its list of living traditions. In north India, the tenth day is Dussehra, also called Vijayadashami. People watch the Ramlila, a play of the story of Rama. On the tenth day they burn tall figures of Ravana, the demon king. In Mysuru, Dasara has a grand procession. In Kullu, in Himachal Pradesh, people carry the village gods to a big fair. These festivals follow the Moon, so their dates move each year.",
+   "examples": [
+    "A clay Durga idol being painted in Kumartuli, Kolkata.",
+    "A tall figure of Ravana with firecrackers inside, ready to be burnt at Dussehra.",
+    "A pandal with lights, built for the nine nights."
+   ],
+   "perspectives": [
+    {
+     "who": "A family in Kolkata",
+     "explanation": "Durga comes home to her family for a few days, like a daughter visiting her parents. People welcome her, feast, and say goodbye with sadness."
+    },
+    {
+     "who": "A family in north India",
+     "explanation": "The tenth day remembers Rama's victory over Ravana. Burning his tall figure shows that cruelty is beaten in the end."
+    },
+    {
+     "who": "Some Asur families in Jharkhand and West Bengal",
+     "explanation": "They see Mahishasura as an ancestor, and do not join the celebration. They remember him quietly. The same story can be told in more than one way."
+    }
+   ],
+   "art": "A big pandal with a ten-armed Durga idol on one side, and on the other side a tall Ravana figure with a crowd watching.",
+   "context": "This card is about Durga Puja and Dussehra, and how the same nine nights are kept in different ways."
+  },
+  {
+   "concept": "Deepawali: the festival of lights",
+   "status": "defined",
+   "definition": "Deepawali, also called Diwali, is the festival of lights. It comes on or near a new moon night in October or November.",
+   "description": "Families clean their homes, draw a rangoli at the door and light rows of small clay lamps called diyas. The dark night is lit by hundreds of tiny flames. People wear new clothes, share sweets such as laddoo and barfi, give gifts and visit friends. In many homes, families pray to Lakshmi, the goddess of good fortune. In many places, people also light firecrackers. But the smoke and the loud bangs harm people with weak lungs, and frighten dogs, birds and cows. So many families light only diyas, or very few crackers. The festival often lasts five days.",
+   "examples": [
+    "A row of clay diyas along a window ledge.",
+    "A rangoli of coloured powder in front of the door.",
+    "A plate of homemade laddoo, shared with the neighbours."
+   ],
+   "perspectives": [
+    {
+     "who": "Many families in north India",
+     "explanation": "Deepawali remembers Rama's return to Ayodhya, when people lit lamps to welcome him home."
+    },
+    {
+     "who": "Many families in south India",
+     "explanation": "The day before is Naraka Chaturdashi. It remembers Krishna defeating the demon Narakasura, and people wake early for an oil bath."
+    },
+    {
+     "who": "Jain and Sikh families",
+     "explanation": "Jains remember Mahavira, their great teacher, who attained moksha at this time. Sikhs celebrate Bandi Chhor Divas, which remembers Guru Hargobind's release."
+    }
+   ],
+   "art": "A balcony at night with rows of small clay diyas, a rangoli at the door and a child holding a plate of sweets.",
+   "context": "This card is about Deepawali, the festival of lights."
+  },
+  {
+   "concept": "Christmas: the birth of Jesus",
+   "status": "defined",
+   "definition": "Christmas, on 25 December, is the Christian festival that remembers the birth of Jesus.",
+   "description": "On Christmas Eve, Christians go to church for a midnight service and sing carols. Homes hang stars and lamps, and put up a crib. A crib is a small model of the baby Jesus in a stable, with his mother Mary, his father Joseph and some animals. Many families bake a rich plum cake and share it with neighbours of every faith. Children look forward to gifts, and in some places to Santa Claus. Christians live in every part of India. In Goa, Kerala and the North-East, Christmas is one of the biggest days of the year. Christmas follows the Sun calendar, so it falls on 25 December every year.",
+   "examples": [
+    "A crib under a church altar, with a small star above it.",
+    "A plum cake sliced and shared with friends of different faiths.",
+    "A group of children singing carols from house to house."
+   ],
+   "perspectives": [],
+   "art": "A small crib with the baby Jesus, Mary, Joseph and a cow in a stable, with a paper star lantern hanging above it.",
+   "context": "This card is about Christmas, and how families keep it in India."
+  },
+  {
    "concept": "One harvest festival with many names",
    "status": "defined",
    "definition": "In mid-January, people across India celebrate the end of the winter harvest. The festival has different names and customs in different states.",
@@ -155,6 +261,20 @@
    "perspectives": [],
    "art": "A map of India with five small pictures: a pongal pot in Tamil Nadu, ellu bella in Karnataka, a bonfire in Punjab, pitha in Assam and kites in Gujarat.",
    "context": "This card is about the January harvest festival, and its different names across India."
+  },
+  {
+   "concept": "Spring festivals: flowers, food and a new year",
+   "status": "defined",
+   "definition": "In spring, many parts of India welcome a new season, and often a new year, with flowers, food and thanks. Each state has its own festival and its own customs.",
+   "description": "In March and April the trees flower. In Kerala, Vishu comes in mid-April. Before dawn, a family sets out a vishukkani in the puja room. It holds rice, fruit, vegetables, golden konna flowers, a mirror and a lit lamp. Each person is led there with eyes closed. The first thing they see in the new year is plenty. Elders give the children a little money. The day ends with a big sadya feast. In Uttarakhand, children celebrate Phool Dei in March. They go from door to door and scatter flowers on every doorstep. They sing, and families give them rice, jaggery and sweets. In Jharkhand, the Oraon, Munda and Ho communities celebrate Sarhul when the sal trees flower. In the village's sacred grove of sal trees, the priest, called the pahan, offers sal flowers to the Earth and the Sun. People pray for good rain and a good harvest, and then they sing and dance together. Vishu, Phool Dei, Sarhul and Ugadi are all spring festivals with flowers and food. Each one has customs of its own.",
+   "examples": [
+    "In Kerala, a family looks at the vishukkani first thing on Vishu morning.",
+    "In Uttarakhand, children put flowers on every doorstep at Phool Dei.",
+    "In Jharkhand, villagers offer sal flowers to the Earth and the Sun at Sarhul."
+   ],
+   "perspectives": [],
+   "art": "Three small pictures: a vishukkani with a lit lamp and yellow flowers, a child placing flowers on a doorstep, and a priest offering sal flowers under a tall tree.",
+   "context": "This card is about spring festivals in different states, and how their customs compare."
   },
   {
    "concept": "Festivals that follow the Sun, and festivals that follow the Moon",
@@ -456,10 +576,10 @@
       "q": "Which festival goes with kites flown from every rooftop?",
       "options": [
        "Onam",
-       "Uttarayan",
-       "Durga Puja"
+       "Durga Puja",
+       "Uttarayan"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Uttarayan is the January harvest festival in Gujarat, when families fly kites from their rooftops. Onam is Kerala's festival with a sadya and a pookalam. Durga Puja is known for its pandals."
      }
     },
@@ -598,10 +718,10 @@
       "t": "mcq",
       "q": "Republic Day remembers the day India's Constitution came into force. Which pile does it go in?",
       "options": [
-       "Sun, because it is always 26 January",
-       "Moon, because it moves each year"
+       "Moon, because it moves each year",
+       "Sun, because it is always 26 January"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Republic Day is always on 26 January, the date in 1950 when the Constitution came into force. Our national festivals follow the Sun calendar, so their dates never move."
      }
     },
@@ -1428,6 +1548,170 @@
      "caption": "2. Mark the three national festival years, and your own."
     }
    ]
+  },
+  {
+   "id": "a6",
+   "title": "Our Mock Mela",
+   "mins": 40,
+   "days": 1,
+   "context": "In this activity you set up a small pretend mela at home or with neighbours, with stalls, jobs and play money. You will find out how many people and jobs it takes to run a mela.",
+   "materials": [
+    {
+     "item": "two or three tables, boxes or stools, for stalls",
+     "qty": 3
+    },
+    {
+     "item": "old bedsheets or dupattas, for stall roofs",
+     "qty": 2
+    },
+    {
+     "item": "paper slips, bottle caps or dried tamarind seeds, for play money",
+     "qty": 30
+    },
+    {
+     "item": "paper, a pen and tape, for price boards and a Lost and Found sign",
+     "qty": 1
+    },
+    {
+     "item": "homemade toys, drawings, or things from the house that your family does not need, to sell",
+     "qty": 1
+    }
+   ],
+   "safety": "No real fire, knives or hot food at the mela. A grown-up does any cutting.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 40,
+     "what": "Plan three stalls and the jobs. Make price boards and play money. Run the mela, swapping jobs once. Clear up together."
+    }
+   ],
+   "record": "Draw your mela. Write each person's job, and the price of one thing in play money.",
+   "setup": [
+    {
+     "art": "Three stalls made from tables and a bedsheet, with price boards, in a living room.",
+     "caption": "1. Set up three stalls with price boards."
+    },
+    {
+     "art": "A child handing paper slips to another child behind a stall and taking a toy.",
+     "caption": "2. Buy and sell with play money."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 10,
+     "do": "1. Choose three stalls, such as a toy stall, a fruit stall and a sweets stall. 2. Choose the jobs: sellers, buyers, a first-aid helper, a Lost and Found helper and a cleaner. 3. Write a price on each thing, from 1 to 5 play rupees.",
+     "say": "We are going to have a mela here. What stalls will we have? Who else do we need, so the mela stays safe and clean?",
+     "kid": "Choose three stalls. Choose the jobs. Write a price on each thing.",
+     "parent": "Use prices from 1 to 5, so the sums stay easy. A mela needs more than sellers: helpers for first aid, for lost children and for cleaning make it work.",
+     "context": "This is a pretend-mela activity. Here you plan the stalls, jobs and prices."
+    },
+    {
+     "id": "s2",
+     "mins": 10,
+     "do": "1. Build each stall from a table or box and a bedsheet. 2. Cut paper slips, or collect bottle caps or seeds, to use as play money. 3. Give each buyer 10 play rupees.",
+     "say": "Build your stalls from what we have. What can we use for money? How many play rupees does each buyer get?",
+     "kid": "Build your stalls. Gather the play money. Give each buyer 10 slips.",
+     "parent": "The play money can be anything small and easy to count. Real mela stalls too are built from light things like bamboo and cloth, so they can be put up and taken down fast."
+    },
+    {
+     "id": "s3",
+     "mins": 15,
+     "do": "1. Open the mela. 2. Buyers walk round, choose and pay. 3. Sellers give change. 4. After ten minutes, swap jobs. 5. Ask each person to say what was hardest about their job.",
+     "say": "The mela is open! Buyers, walk round and choose. Sellers, take the play money and give change. After a while we will swap jobs.",
+     "kid": "Buy or sell with the play money. Swap jobs when the grown-up says.",
+     "ask": [
+      {
+       "q": "A buyer has 10 play rupees. She buys a toy for 5 and juice for 4. How much is left?",
+       "good": [
+        "1 play rupee, because 5 + 4 = 9 and 10 take away 9 is 1."
+       ]
+      }
+     ],
+     "parent": "Help with change. A child who has 10 play rupees, and spends 5, has 5 left. Ask what the cleaner and the first-aid helper did."
+    },
+    {
+     "id": "s4",
+     "mins": 5,
+     "do": "1. Close the mela. 2. The cleaner and everyone else put things away. 3. Sort the paper from the rest, and keep the play money for next time.",
+     "say": "At a real mela, the cleaners work long after everyone has gone home. Let's clear up together.",
+     "kid": "Close the mela. Put things back where they belong.",
+     "parent": "Many real melas are cleaned by workers at night, so the ground is ready the next morning."
+    }
+   ]
+  },
+  {
+   "id": "a7",
+   "title": "Festivals of the Year: ask the elders",
+   "mins": 30,
+   "days": 2,
+   "context": "In this activity you ask older people which festivals come in each season and what food is made, and then draw a chart. You will find out how the festival year goes round, and how it changes from family to family.",
+   "materials": [
+    {
+     "item": "a grandparent, older neighbour or relative to ask, in person or on the phone",
+     "qty": 1
+    },
+    {
+     "item": "a big sheet of paper, pencils and colours",
+     "qty": 1
+    },
+    {
+     "item": "a notebook",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Ask two or three older people which festivals come in summer, the rains, autumn and winter, and what food is made."
+    },
+    {
+     "day": 2,
+     "mins": 15,
+     "what": "Draw a chart with the seasons, the festivals and the foods."
+    }
+   ],
+   "record": "Keep the chart. Under it, write one festival that one elder told you about that you did not know.",
+   "setup": [
+    {
+     "art": "A child with a notebook asking questions of a grandfather on a verandah.",
+     "caption": "1. Ask an elder about festivals in each season."
+    },
+    {
+     "art": "A chart with four columns: summer, the rains, autumn, winter, each with festival names and little food drawings.",
+     "caption": "2. Draw a chart: season, festival and food."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 15,
+     "do": "1. Ask: Which festivals come in summer? In the rains? In autumn? In winter? 2. For each, ask: What food do you make? 3. Write short answers in the notebook. 4. Ask two or three people if you can.",
+     "say": "Which festivals come in each season? What food does your family make for each one? Who taught you to make it?",
+     "kid": "Ask an elder about the festivals in each season. Write the festival and the food.",
+     "wait": "Ask the elders on day 1. Make the chart on day 2.",
+     "parent": "Different families will name different festivals. That is fine, because India has many. If an elder says the season by the month, help the child match it to a season."
+    },
+    {
+     "id": "s2",
+     "mins": 15,
+     "do": "1. Draw four columns: summer, the rains, autumn, winter. 2. Write each festival under its season. 3. Draw or write the food beside it. 4. Look at the chart. Which season has most festivals?",
+     "say": "Let's put what they told us on one chart. Which season has the most festivals? Why might that be?",
+     "kid": "Draw four columns. Put each festival in its season, with its food.",
+     "wait": "Do this on day 2.",
+     "ask": [
+      {
+       "q": "Which season has the most festivals on your chart? Why might that be?",
+       "good": [
+        "Autumn or winter, because many harvests come then.",
+        "It depends on who we asked."
+       ]
+      }
+     ],
+     "parent": "Many festivals come after harvests, when families have food and time. The chart will be different from another family's, because families and states have different festivals."
+    }
+   ]
   }
  ],
  "projects": [
@@ -1701,11 +1985,11 @@
    "t": "mcq",
    "p": "Why are mela stalls usually made of bamboo poles, rope and cloth?",
    "opts": [
-    "They are light, and quick to put up and take down",
     "They are the strongest materials there are",
-    "Bricks are not allowed at a mela"
+    "Bricks are not allowed at a mela",
+    "They are light, and quick to put up and take down"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A mela lasts a few days or weeks, so its stalls must go up and come down quickly. Bamboo and cloth are light and can be used again. Bamboo is strong for its weight, but bricks and steel are stronger. They would just take too long.",
    "outcome": 0
   },
@@ -1713,11 +1997,11 @@
    "t": "mcq",
    "p": "You get lost at a big mela. What is the best thing to do?",
    "opts": [
-    "Walk around until you find your family",
     "Go to the Lost and Found booth, or ask a police officer or a volunteer",
+    "Walk around until you find your family",
     "Leave the mela and walk home"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The Lost and Found booth, the police and the volunteers are there to help lost children. Your family will look for you there. Walking around makes you harder to find.",
    "outcome": 0
   },
@@ -1725,11 +2009,11 @@
    "t": "mcq",
    "p": "In Kerala, Onam comes just when the rice is harvested. Families cook a big meal with the new crop and share it. Why do so many festivals come at harvest time?",
    "opts": [
-    "People have new food to share, and want to give thanks for it",
     "Schools are closed then",
+    "People have new food to share, and want to give thanks for it",
     "It never rains at harvest time"
    ],
-   "a": 0,
+   "a": 1,
    "why": "After the harvest, there is plenty of food and the hardest work is done. So people gather, share the new crop and give thanks. Schools and rain have nothing to do with it.",
    "outcome": 1
   },
@@ -1749,11 +2033,11 @@
    "t": "mcq",
    "p": "Why does Pongal come on 14 or 15 January almost every year?",
    "opts": [
-    "It follows the Sun, like our school calendar",
     "It follows the Moon",
-    "The government chose the date"
+    "The government chose the date",
+    "It follows the Sun, like our school calendar"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Pongal is fixed by the Sun's place in the sky, so it stays in step with our Sun calendar. Festivals that follow the Moon, like Diwali, move.",
    "outcome": 3
   },
@@ -1761,11 +2045,11 @@
    "t": "mcq",
    "p": "Eid-ul-Fitr comes about 11 days earlier every year. Why?",
    "opts": [
-    "People choose an earlier day each year",
     "Twelve Moon months are about 11 days shorter than a Sun year",
+    "People choose an earlier day each year",
     "The Earth is speeding up"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Twelve Moon months are about 354 days, and a Sun year is about 365. The Islamic calendar follows only the Moon, so Eid slides 11 days earlier on our calendar each year.",
    "outcome": 3
   },
@@ -1785,11 +2069,11 @@
    "t": "mcq",
    "p": "Which of these is a national festival, celebrated by the whole country?",
    "opts": [
-    "Vishu",
     "Gandhi Jayanti",
+    "Vishu",
     "Durga Puja"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Gandhi Jayanti, on 2 October, is one of India's three national festivals, with Independence Day and Republic Day. Vishu and Durga Puja are celebrated mostly in some states.",
    "outcome": 4
   },
@@ -1823,11 +2107,11 @@
    "t": "mcq",
    "p": "How does a pinch of lime turn turmeric water into red aarathi water?",
    "opts": [
-    "Lime is a base, and turmeric turns red in bases",
     "Lime has red colour hidden inside it",
+    "Lime is a base, and turmeric turns red in bases",
     "Lime makes the water hot, and it burns"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Lime is white, so it adds no red. It is a strong base, and turmeric turns red in bases. The same happens with soap and baking soda in the Turmeric Test.",
    "how": "a4",
    "outcome": 5
@@ -1843,6 +2127,102 @@
    "a": 0,
    "why": "One clear case that breaks a rule is enough to show the rule is wrong. For example, hydrochloric acid is made of hydrogen and chlorine, with no oxygen. It can be made from salt, and it is also the acid in your stomach. Finding more acids that have oxygen cannot prove the rule, because the next acid might break it.",
    "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "What is Eidi?",
+   "opts": [
+    "A small gift of money that elders give to children",
+    "A sweet made of seviyan",
+    "The special Eid prayer"
+   ],
+   "a": 0,
+   "why": "Eidi is a gift of money that children get at Eid. Seviyan is the sweet dish, and the prayer is held at the mosque or idgah.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "At the end of the nine nights, big figures of Ravana are burnt in north India. Which play comes first?",
+   "opts": [
+    "Ramlila",
+    "Mattu Pongal",
+    "Lohri"
+   ],
+   "a": 0,
+   "why": "The Ramlila is a play of the story of Rama, and it ends with the burning of Ravana at Dussehra. Mattu Pongal and Lohri are harvest festivals in January.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Why do many families light only diyas at Deepawali and few firecrackers?",
+   "opts": [
+    "Crackers can only be used at Christmas",
+    "Crackers make smoke and noise that harm people and frighten animals",
+    "Diyas are brighter than the Moon"
+   ],
+   "a": 1,
+   "why": "The smoke hurts weak lungs, and the loud noise frightens dogs, birds and cows. Diyas give a soft light without these harms.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "What is a crib at Christmas?",
+   "opts": [
+    "A small model of the baby Jesus in a stable, with Mary, Joseph and animals",
+    "A rich plum cake",
+    "A paper star lantern"
+   ],
+   "a": 0,
+   "why": "A crib shows the scene of Jesus's birth. The plum cake is a Christmas food, and a star lantern is a decoration.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "At Vishu in Kerala, why are family members led to the vishukkani with their eyes closed?",
+   "opts": [
+    "So the first thing they see in the new year is a sign of plenty",
+    "So they cannot see the sadya",
+    "Because the room is dark"
+   ],
+   "a": 0,
+   "why": "The vishukkani has rice, fruit, flowers and a lamp. Seeing it first is a way of wishing for plenty in the new year.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "At Sarhul in Jharkhand, which tree's flowers are offered in the sacred grove?",
+   "opts": [
+    "Neem",
+    "Sal",
+    "Mango"
+   ],
+   "a": 1,
+   "why": "Sarhul comes when the sal trees flower. The priest offers sal flowers to the Earth and the Sun. Neem flowers are used for Ugadi pachadi.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Why do children use play money at a mock mela?",
+   "opts": [
+    "They can practise buying and selling without spending real money",
+    "Real money is not allowed at melas",
+    "Play money is worth more"
+   ],
+   "a": 0,
+   "why": "A mock mela is for learning how a mela works. Play money lets everyone count and give change, and nobody loses real money.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "You want to record which festivals your family has in each season. What is the clearest way?",
+   "opts": [
+    "A chart with columns for season, festival and food",
+    "Only the names of the festivals",
+    "Just remember them"
+   ],
+   "a": 0,
+   "why": "A chart puts the seasons, festivals and foods side by side, so you can compare. A list of names alone loses the food and the season.",
+   "outcome": 1
   }
  ],
  "worksheets": [
@@ -1879,6 +2259,30 @@
      ],
      "a": "pairs as given",
      "why": "Each of these is a festival of one state. A strong answer also notices that four of them are the January harvest festival."
+    },
+    {
+     "t": "match",
+     "p": "Match each festival to something people do at it.",
+     "pairs": [
+      [
+       "Eid-ul-Fitr",
+       "Elders give children Eidi"
+      ],
+      [
+       "Durga Puja",
+       "People visit big decorated pandals"
+      ],
+      [
+       "Deepawali",
+       "Families light rows of diyas"
+      ],
+      [
+       "Christmas",
+       "Homes put up a crib and a star"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each festival has its own customs, passed from elders to children."
     },
     {
      "t": "sort",
@@ -2095,6 +2499,34 @@
      "why": "A strong answer finds each place and can say what it is for: selling, riding, finding lost children, and helping people who are hurt.",
      "how": "a2",
      "art": "A drawing of a mela from above with four empty label boxes pointing to a stall, a big wheel, a booth with a child and a booth with a red cross."
+    },
+    {
+     "t": "truefalse",
+     "p": "Dussehra is celebrated in the same way everywhere in India.",
+     "a": false,
+     "why": "False. In north India people burn tall figures of Ravana. In Mysuru there is a grand procession, and in Kullu, village gods are carried to a fair. In Bengal the same days are Durga Puja.",
+     "outcome": 1
+    },
+    {
+     "t": "fill",
+     "p": "At Deepawali, families light small clay lamps called ____.",
+     "a": [
+      "diyas"
+     ],
+     "why": "A diya is a small clay lamp with a wick. Rows of diyas light up the night at Deepawali.",
+     "outcome": 1
+    },
+    {
+     "t": "mcq",
+     "p": "At the mock mela, you have 10 play rupees. A juice costs 4 and a toy costs 5. How much is left after you buy both?",
+     "opts": [
+      "1",
+      "2",
+      "6"
+     ],
+     "a": 0,
+     "why": "4 + 5 = 9, and 10 take away 9 leaves 1 play rupee.",
+     "outcome": 0
     }
    ]
   },
@@ -2144,11 +2576,11 @@
      "t": "mcq",
      "p": "In the Hibiscus Test, hibiscus juice turned pink with lemon and green with soap. Which can hibiscus do that turmeric cannot?",
      "opts": [
-      "Show that something is a base",
       "Show that something is an acid",
+      "Show that something is a base",
       "Make red aarathi water"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Turmeric stays yellow in acids and in plain water, so it cannot tell them apart. Hibiscus turns pink in acids, so it shows an acid clearly.",
      "how": "e2"
     },
@@ -2270,12 +2702,65 @@
      "t": "mcq",
      "p": "Why is sakkarai pongal cooked with new rice at Pongal?",
      "opts": [
-      "The rice has just been harvested",
       "New rice is the only rice that boils over",
-      "Old rice cannot be cooked with jaggery"
+      "Old rice cannot be cooked with jaggery",
+      "The rice has just been harvested"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Pongal is a harvest festival, and festival food often uses the crop that has just been harvested."
+    },
+    {
+     "t": "match",
+     "p": "Match each spring festival to its custom.",
+     "pairs": [
+      [
+       "Vishu, Kerala",
+       "A vishukkani is the first sight of the year"
+      ],
+      [
+       "Phool Dei, Uttarakhand",
+       "Children put flowers on every doorstep"
+      ],
+      [
+       "Sarhul, Jharkhand",
+       "Sal flowers are offered to the Earth and the Sun"
+      ],
+      [
+       "Ugadi, Karnataka",
+       "A pachadi has all the tastes of the year"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "All four welcome spring with flowers and food, but each has its own custom.",
+     "outcome": 1
+    },
+    {
+     "t": "order",
+     "p": "Put these festivals in order through one year, starting in January.",
+     "items": [
+      "Christmas",
+      "Independence Day",
+      "Republic Day",
+      "Vishu",
+      "Gandhi Jayanti"
+     ],
+     "a": [
+      "Republic Day",
+      "Vishu",
+      "Independence Day",
+      "Gandhi Jayanti",
+      "Christmas"
+     ],
+     "why": "Republic Day is 26 January, Vishu is in mid-April, Independence Day is 15 August, Gandhi Jayanti is 2 October and Christmas is 25 December.",
+     "outcome": 1
+    },
+    {
+     "t": "write",
+     "p": "Before Eid-ul-Fitr prayer, each family gives food or money to people in need. Why do you think this is done before the prayer?",
+     "lines": 3,
+     "a": "So that people who have little can also celebrate Eid, and can have good food and clothes like everyone else.",
+     "why": "A strong answer says that sharing first lets everyone join the celebration.",
+     "outcome": 1
     }
    ]
   },
@@ -2315,10 +2800,10 @@
      "p": "You mix a mystery white powder in water and add it to turmeric water. It stays yellow. What can you say for sure?",
      "opts": [
       "The powder is an acid",
-      "The powder is not a base",
-      "The powder is salt"
+      "The powder is salt",
+      "The powder is not a base"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Turmeric stays yellow in acids and in things that are neither, so you cannot tell which the powder is. You can only say it is not a base. Hibiscus juice would tell you more."
     },
     {
@@ -2344,11 +2829,11 @@
      "t": "mcq",
      "p": "A seller at a mela wants her stall to survive a windy evening. Which change helps most?",
      "opts": [
-      "A heavier cloth roof",
       "Slanted poles from the corners to the ground, making triangles",
+      "A heavier cloth roof",
       "Taller poles"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Triangles do not change shape when pushed, so slanted poles stop the stall leaning over. A heavier roof or taller poles make it more likely to tip.",
      "how": "c1"
     },
@@ -2472,6 +2957,13 @@
      ],
      "a": 0,
      "why": "Without the extra month, a Moon year is about 11 days short of a Sun year. Diwali would slide earlier each year, as Eid does."
+    },
+    {
+     "t": "write",
+     "p": "Deepawali remembers Rama's return in the north, and Krishna defeating Narakasura in the south. Why might one festival have different stories in different places? What is the same?",
+     "lines": 4,
+     "a": "People in different places have told their own stories for a long time. What is the same is the lamps, the new clothes, the sweets and the joy of light in the dark.",
+     "why": "A strong answer respects both stories and names what people share. There is no single right answer."
     }
    ]
   }
@@ -2696,6 +3188,43 @@
    "used_in": [
     "a4"
    ]
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in A Timeline of Our National Festivals. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "a5"
+   ],
+   "plan": "Get it before A Timeline of Our National Festivals."
+  },
+  {
+   "id": "b-wooden-ice-cream-sticks--a-p",
+   "item": "Wooden ice-cream sticks (a pack)",
+   "kind": "material",
+   "why": "Used in Build a Mela Stall That Stands Up. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in.",
+   "url": "https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before Build a Mela Stall That Stands Up."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [
@@ -2766,6 +3295,8 @@
    "ws-stretch",
    "c1",
    "c2",
+   "a6",
+   "a7",
    "big_questions",
    "ws-challenge",
    "open_questions",

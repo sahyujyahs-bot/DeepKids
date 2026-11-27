@@ -1,9 +1,9 @@
 # Polymers: how lined-up chains, twists and ties decide whether a material bends, stretches or snaps
 `sci.chemistry.polymers.L4`
 
-**Summary.** A sheet of newspaper tears straight one way and crooked the other. Why? In this unit you will tear newspaper both ways, make a cornflour film with and without glycerine to see what changes, and twist cotton wisps into a thread that holds.
+**Summary.** A sheet of newspaper tears straight one way and crooked the other. Why? In this lesson you will tear newspaper both ways, make a cornflour film with and without glycerine to see what changes, and twist cotton wisps into a thread that holds.
 
-**Intro.** *Take a sheet of newspaper. Tear it from top to bottom. Now tear another sheet from side to side. One tear runs as straight as a ruler. The other wanders about. It is the same kind of paper, and you tore it the same way. So what is different?* Paper is a mat of tiny plant fibres. When it is made, most of the fibres end up lying in one direction. A tear finds it easy to go between lined-up fibres, so it runs straight. Across them, the tear has to break fibres and wanders. In this unit you find out why lined-up fibres matter, and what the fibres are made of. You twist cotton into thread, cook a plastic-like film from cornflour, and heat plastic strips in hot water. You meet the chemist who found a fibre stronger than steel in a bowl of cloudy liquid.
+**Intro.** *Take a sheet of newspaper. Tear it from top to bottom. Now tear another sheet from side to side. One tear runs as straight as a ruler. The other wanders about. It is the same kind of paper, and you tore it the same way. So what is different?* Paper is a mat of tiny plant fibres. When it is made, most of the fibres end up lying in one direction. A tear finds it easy to go between lined-up fibres, so it runs straight. Across them, the tear has to break fibres and wanders. In this lesson you find out why lined-up fibres matter, and what the fibres are made of. You twist cotton into thread, cook a plastic-like film from cornflour, and heat plastic strips in hot water. You meet the chemist who found a fibre stronger than steel in a bowl of cloudy liquid.
 
 ## Learning outcomes
 0. I can explain that a polymer is a long chain of small pieces called monomers, and give examples that living things make and examples that people make.
@@ -508,7 +508,7 @@ The next storm came a week later. Anitha stood on the steps with a torch. The wi
 ## Worksheets
 ### Polymers (core) (core, 16 questions)
 1. (mcq) What does the word monomer mean?  
-   Options: One small piece that can join with others in a chain / Another word for plastic / A very long chain of many pieces  
+   Options: Another word for plastic / A very long chain of many pieces / One small piece that can join with others in a chain  
    **Answer:** One small piece that can join with others in a chain. *Why:* Mono means one. A monomer is one small piece. Many monomers joined in a chain make a polymer.
 2. (truefalse) Human hair and a plastic carry bag are both polymers.  
    **Answer:** True. *Why:* True. Hair is a protein chain that your body makes. Polythene is a chain of ethylene pieces joined in a factory. Both are very long chains of small pieces.
@@ -547,7 +547,7 @@ The next storm came a week later. Anitha stood on the steps with a torch. The wi
 1. (order) Put these in the right order, for what happens when you chew a piece of rice for a long time.  
    **Answer:** ['You chew rice, which is made of long starch chains', 'An enzyme in your saliva cuts the starch chains at their joins', 'Short sugars are set free', 'You taste a sweeter flavour']. *Why:* Starch is a long chain of glucose. An enzyme in saliva cuts the chains into short sugars. Short sugars taste sweet.
 2. (mcq) A strip cut from a plastic bottle shrinks in very hot water. What is the best reason?  
-   Options: The chains were pulled straight when the bottle was made, and heat lets them coil up again / Heat makes some of the plastic evaporate / Heat makes new chains join the strip  
+   Options: Heat makes some of the plastic evaporate / The chains were pulled straight when the bottle was made, and heat lets them coil up again / Heat makes new chains join the strip  
    **Answer:** The chains were pulled straight when the bottle was made, and heat lets them coil up again. *Why:* Bottle walls are stretched when they are made, so their chains are lined up. In hot water the chains wiggle and coil, and the strip shrinks.
 3. (truefalse) Stretching a nylon thread in the factory can make it stronger along its length.  
    **Answer:** True. *Why:* True. Stretching lines up the chains, and lined-up chains share a pull well.
@@ -575,13 +575,13 @@ The next storm came a week later. Anitha stood on the steps with a torch. The wi
 14. (draw) Draw two pairs of chains. In one pair, the chains are pressed tight together. In the other, small dots sit between the chains. Label which pair is a stiff film and which is a bendy film.  
    **Answer:** Tight chains labelled stiff. Chains with dots between them labelled bendy.. *Why:* A plasticiser sits between chains and keeps them apart, so they can slide. Chains pressed tight together hold each other and the film is stiff.
 15. (mcq) A girl folds one strip of film and it cracks. She says the film is brittle. What should she do before she decides?  
-   Options: Test a few more strips from the same film / Say her answer is final / Throw the film away  
+   Options: Say her answer is final / Throw the film away / Test a few more strips from the same film  
    **Answer:** Test a few more strips from the same film. *Why:* One strip can be a fluke, for example if it had a crack or a thin place. More tries show whether the film really is brittle.
 16. (write) Explain, in terms of chains, why a pressure cooker handle is a thermoset and a PET bottle is a thermoplastic.  
    **Answer:** A thermoset has chains tied to each other in many places, so heat cannot make them slide, and it does not melt. A thermoplastic has chains that are free to slide when heated, so it softens and can be reshaped.. *Why:* A strong answer mentions ties between chains for the handle and chains free to slide for the bottle.
 ### Polymers (challenge) (challenge, 16 questions)
 1. (mcq) The stiff chains of Kevlar line up side by side before the fibre is spun. Why does that make a very strong fibre?  
-   Options: When the fibre is pulled, the pull runs along the strong bonds of the chains and not across weak holds / Stiff chains are heavier, so they are stronger / Liquids always make strong fibres  
+   Options: Stiff chains are heavier, so they are stronger / Liquids always make strong fibres / When the fibre is pulled, the pull runs along the strong bonds of the chains and not across weak holds  
    **Answer:** When the fibre is pulled, the pull runs along the strong bonds of the chains and not across weak holds. *Why:* A pull along a chain pulls on strong bonds between atoms. A fibre whose chains all lie along its length uses those strong bonds for the whole pull.
 2. (mcq) A garden hose and a water pipe are both PVC. The hose is soft and the pipe is stiff. What most likely explains this?  
    Options: The hose has a plasticiser between its chains, so they slide / The pipe has shorter chains / The hose is not a polymer  
@@ -601,7 +601,7 @@ The next storm came a week later. Anitha stood on the steps with a torch. The wi
 9. (write) A factory stretches a newly spun nylon thread. Explain what happens to the chains, and why the thread gets stronger.  
    **Answer:** Stretching pulls the chains straight and lines them up along the thread. Lined-up chains share a pull along their strong bonds, so the thread holds more.. *Why:* A strong answer says the chains line up along the thread and use their strong bonds for the pull.
 10. (mcq) A child wants to find out whether more twist makes cotton thread hold more. Which is a fair test?  
-   Options: Same cotton, same length, change only the number of twists, and repeat each / Use a different kind of cotton for each thread / Twist one thread and use a longer one with no twist  
+   Options: Use a different kind of cotton for each thread / Twist one thread and use a longer one with no twist / Same cotton, same length, change only the number of twists, and repeat each  
    **Answer:** Same cotton, same length, change only the number of twists, and repeat each. *Why:* Only the twist should change. Everything else, such as cotton and length, stays the same. Repeating each test shows whether the result is steady.
 11. (odd) Three of these loosen the holds between chains. Which is the odd one out? Adding glycerine to starch, wetting a curl of hair, warming a plastic, stretching nylon in a factory.  
    **Answer:** Stretching nylon in a factory, because it lines up the chains and makes them hold more. The others loosen the holds between chains.. *Why:* Glycerine, water and heat loosen the holds between chains, so the material bends or softens. Stretching lines the chains up so they hold each other better.
@@ -612,7 +612,7 @@ The next storm came a week later. Anitha stood on the steps with a torch. The wi
 14. (write) A cooker handle is a net of strong ties right through the plastic. Give your view: is it one molecule or many? Give a reason.  
    **Answer:** Answers vary. One view: it is one giant molecule, because all its atoms are joined by strong bonds. Another view: it is not, because a molecule has a set size and this does not.. *Why:* A strong answer takes a side, gives a reason, and says what counts as one molecule.
 15. (mcq) A takli, a charkha and a coir wheel all do the same job. What is it?  
-   Options: They twist short fibres into a long yarn / They melt fibres into plastic / They cut long fibres into short ones  
+   Options: They melt fibres into plastic / They cut long fibres into short ones / They twist short fibres into a long yarn  
    **Answer:** They twist short fibres into a long yarn. *Why:* Spinning twists fibres together so they grip. It turns short fibres into a long yarn.
 16. (fill) A small molecule that sits between polymer chains and lets them slide is called a ____.  
    **Answer:** ['plasticiser', 'plasticizer']. *Why:* A plasticiser keeps the chains a little apart. Glycerine is a plasticiser for starch.
@@ -624,13 +624,13 @@ The next storm came a week later. Anitha stood on the steps with a torch. The wi
 
 ## Quiz
 1. (mcq) Which of these describes a polymer best?  
-   Options: A very long molecule made of many small pieces joined in a chain / A hard plastic made in a factory / A small molecule that dissolves in water  
+   Options: A hard plastic made in a factory / A very long molecule made of many small pieces joined in a chain / A small molecule that dissolves in water  
    **Answer:** A very long molecule made of many small pieces joined in a chain. *Why:* A polymer is any very long chain of repeating pieces. Cotton, hair and starch are polymers, as well as plastics. Not all polymers are plastic, and not all plastics are hard.
 2. (mcq) Rice and cotton are both chains of glucose. Why is cotton a tough fibre and rice soft food?  
-   Options: Cellulose chains lie straight and hold each other tightly, while starch chains coil / Cotton has more glucose than rice / Rice is not made of chains  
+   Options: Cotton has more glucose than rice / Cellulose chains lie straight and hold each other tightly, while starch chains coil / Rice is not made of chains  
    **Answer:** Cellulose chains lie straight and hold each other tightly, while starch chains coil. *Why:* The same piece, joined in a slightly different way, gives chains of a different shape. Straight chains pack together side by side into tough fibres. Coiled chains do not.
 3. (mcq) A cotton thread is 500 metres long. Cotton fibres are about 2 centimetres long. What holds the thread together?  
-   Options: The fibres overlap, and twist makes them grip each other / One very long fibre runs through the middle / A glue that cotton plants make  
+   Options: One very long fibre runs through the middle / A glue that cotton plants make / The fibres overlap, and twist makes them grip each other  
    **Answer:** The fibres overlap, and twist makes them grip each other. *Why:* No fibre runs the whole length. Twist presses overlapping fibres together, so they grip. Untwist the thread, and it falls apart into short fibres.
 4. (mcq) Two strips are cut from one sheet of newspaper, one along the grain and one across it. Which holds more weight before it tears?  
    Options: The strip along the grain, because most fibres line up with the pull / The strip across the grain / They hold the same, since the paper is the same  
@@ -726,6 +726,10 @@ Hold On Tight (sci.chemistry.L4): Topic-level song
 - [A small bottle of glycerine](https://www.amazon.in/s?k=glycerine+pure+100ml) (material): For the Cornflour Film test and the Better Film challenge. Chemist shops sell small bottles cheaply. Used in e1, c2. 
 - [A roll of cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): For the Wisp and Thread activity and the Takli project. Chemist shops sell it. Used in a2, p1. 
 - [A ready-made takli spindle](https://www.amazon.in/s?k=takli+spindle+cotton+spinning) (tool): If you would like a proper spindle after making your own for the Takli project. Used in p1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Cornflour Film: what does glycerine do?, Hot Water Plastics: what does heat do to different plastics?, Tear the Newspaper: which way does it tear straight?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, a1, a2, p1, c1, c2. Get it before Cornflour Film: what does glycerine do?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Newspaper Tower: hold the most books with four sheets of paper. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before Newspaper Tower: hold the most books with four sheets of paper.
+- [Vinegar](https://www.amazon.in/s?k=white+vinegar) (material): Used in Cornflour Film: what does glycerine do?, Better Film: bendy but not sticky. About ₹40 to ₹80. Lemon juice works for many tests. Used in e1, c2. Get it before Cornflour Film: what does glycerine do?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is a polymer? → A very long molecule made of many small pieces joined in a chain.

@@ -1,0 +1,305 @@
+# DeepKids - Science - Grade Concepts / Delivery 1.0 (copied from Google Sheets, 2026-11-27)
+R1: Topics
+R3: What is Science
+R4: Story of Science
+R5: History of of Universe
+R6: What is our World
+R8: Fundamentals & Deep End Of Physics
+R9: Chaos,Order, Unpredictability, Probability
+R10: Zero, Infinity
+R11: Consciousness, Awareness, Subjective Experience
+R12: Reality
+R13: Particles
+R14: Space
+R15: Time 
+R16: Forces & Motion
+R17: Gravity & Theroies
+R18: Matter
+R19: Energy
+R20: Anti Matter
+R21: Dimensions
+R22: Entropy
+R23: Symmetry
+R24: Causality, Karma
+R25: Singularity
+R26: Zero Sum 
+R27: String Theory
+R28: Quantum Physics
+R29: Time Travel
+R30: Worm Hole
+R31: Fringe Science
+R32: Quantum Entanglement
+R33: Twin Paradox
+R35: Astronomy
+R36: Large-scale structure of the universe (filaments, voids)
+R37: Expansion of the universe (Hubble’s law)
+R38: Cosmic microwave background
+R39: Gravitational lensing
+R40: Types of galaxies (spiral, elliptical, irregular)
+R41: Star formation in galaxies
+R42: Active galaxies, quasars, AGNs
+R43: Galaxy groups & clusters
+R44: Dark matter evidence (rotation curves)
+R45: History of astronomy (Babylonians, Greeks, Indian Jyotisha, Copernican revolution)
+R46: Observational astronomy (naked-eye sky, constellations, planets, eclipses)
+R47: Instruments: telescopes (optical, radio, space-based, interferometers)
+R48: Astronomical measurements:
+R49: Origin of solar system (nebular hypothesis)
+R50: Planets (terrestrial vs gas giants)
+R51: Planetary moons (Titan, Europa, Ganymede, etc.)
+R52: Asteroids, comets, meteoroids
+R53: Black Holes
+R54: Orbital mechanics (Kepler’s laws, Newtonian gravity)
+R55: Other planets, stars, bodies, other galaxies, other Universeses
+R56: Habitability criteria (Goldilocks zone, liquid water, magnetic fields)
+R57: Big Bang
+R58: nucleosynthesis
+R59: Inflation theory
+R60: Dark matter, dark energy
+R61: Fate of the universe (heat death, big rip, bounce models)
+R62: Hubble’s law & expansion
+R63: Multiverse hypotheses
+R65: Earth Science
+R66: Our galaxy, Sun, solar system, Earth, Moon & movement
+R67: Structure of the Milky Way
+R68: The Sun (structure, nuclear fusion, sunspots, solar cycles)
+R69: Atmosphere Basics
+R70: Day Night cyles, Earth's Rotation
+R71: Moon Pahses
+R72: Temperature, humidity, pressure
+R73: Winds & circulation (Coriolis effect, trade winds, jet streams)
+R74: Clouds & precipitation (condensation, nucleation, phase changes)
+R75: Storms (cyclones, hurricanes, tornadoes, monsoons)
+R76: Local weather patterns (sea breeze, land breeze, mountain winds)
+R77: Climate zones & classification
+R78: Seasonal cycles (tilt, precession, Milankovitch cycles)
+R79: Energy balance of Earth (incoming solar, outgoing IR)
+R80: Ocean–atmosphere interactions (El Niño, La Niña, monsoon)
+R81: Climate feedbacks (ice-albedo, greenhouse effect, carbon cycle)
+R82: Ice ages & paleoclimate
+R83: Greenhouse gases & global warming
+R84: Human impact (anthropogenic forcing, aerosols)
+R85: Climate models & predictions
+R86: Extreme & Applied Topics
+R87: Weather forecasting (numerical models, satellites)
+R88: Climate engineering (geoengineering concepts)
+R89: Planetary atmospheres (Mars, Venus, exoplanets)
+R91: Measurement
+R92: Units & dimensions
+R93: SI system
+R94: Dimensional analysis
+R95: Vectors & scalars
+R96: Addition, subtraction, dot & cross product
+R97: Mathematical tools
+R98: Algebra, trigonometry
+R99: Calculus (derivatives, integrals)
+R100: Differential equations
+R101: Probability & statistics in physics
+R103: Everyday Physics
+R104: Physics in Art → light colours vs paint colours, shadow tracing, spirographs.
+R105: Physics in Music → beats, vibrations, pitch.
+R106: Physics in Sports → bouncing balls, throwing angles, running friction.
+R107: Physics in Cooking → boiling, melting, heating.
+R109: Matter & Its Phases
+R110: Properties of matter
+R111: Mass, volume, density, Weight
+R112: Elasticity (stress, strain, Hooke’s law)
+R113: States of matter
+R114: Solids: crystalline, amorphous
+R115: Liquids: viscosity, surface tension
+R116: Gases: ideal gas law, real gases
+R117: Plasma
+R118: Super Cooling
+R119: Exotic matter: Bose–Einstein condensates, superfluids, degenerate matter
+R120: Phase transitions
+R121: Melting, boiling, sublimation
+R122: Critical points
+R123: Phase diagrams
+R124: Super Fluids
+R126: Atomic & Molecular Physics
+R127: Atoms, Molecules
+R128: Electrons
+R129: Atomic Structure
+R130: Atomic collisions
+R131: Molecular Structure
+R132: Molecular Interactions
+R133: Atomic models (Thomson, Rutherford, Bohr, quantum model)
+R134: Other Elementary Particles
+R135: Hydrogen atom spectrum
+R136: Crystalline Structures
+R137: Many-electron atoms
+R138: X-rays
+R139: Molecular bonding & spectroscopy
+R140: Lasers & masers
+R142: Waves, Vibrations, Sound
+R143: Wave basics
+R144: Wave equation
+R145: Waves & Oscillation
+R146: Swing & Pendulum
+R147: Sound & Vibration
+R148: Sound waves
+R149: Pitch, Echo
+R150: Sources of sound
+R151: Om
+R152: How sound travels
+R153: Speed of sound
+R154: Doppler effect
+R155: Materials & sound: knock wood vs metal vs cloth.
+R156: Underwater sound: tap stones inside water bowl.
+R157: Shock waves
+R158: Superposition principle
+R159: Standing waves
+R160: Beats
+R161: Fourier analysis
+R162: Seismology (earthquake waves)
+R164: Light
+R165: Light , Photon, Speed of Light
+R166: Nature of Light & Propagation
+R167: Light Waves
+R168: Reflection, Shadow, Refraction, Rainbows, Prism, Sun's movement
+R169: Diffraction
+R170: Theory of Colours
+R171: Mixing Paints, Vs lights
+R172: Transparent, Translucent, Opaque
+R173: Gravitational bending of light (general relativity)
+R174: Holography, Coherence
+R175: Quantum optics (entangled photons, squeezed light)
+R176: Time dilation & length contraction from c
+R177: Rainbows, halos, mirages
+R178: Bioluminescence & fluorescence
+R179: Photosynthesis & vision (biophysics of light)
+R180: Photonics & telecommunications
+R181: Lasers in medicine, industry, defense
+R183: Forces & Interactions
+R184: Fundamental forces
+R185: Gravitational
+R186: Electromagnetic
+R187: Strong nuclear
+R188: Weak nuclear
+R189: Everyday forces
+R190: Friction
+R191: Tension, normal force
+R192: Buoyant force
+R193: Drag, lift
+R194: Force fields
+R195: Gravitational field
+R196: Electric & magnetic fields
+R197: Potential energy & force relations
+R199: Motion & Classical Mechanics
+R200: Newton’s laws of motion
+R201: Motion, Position
+R202: Rotational Motion – torque, angular momentum, rotational inertia
+R203: Length, Velocity, Acceleration
+R204: Patterns of motion
+R205: Motion in 1D, 2D, 3D
+R206: Relative motion
+R207: Projectile motion
+R208: Work, energy, power
+R209: Conservation laws
+R210: Momentum, angular momentum, energy
+R212: Thermodynamics
+R213: Fire
+R214: Heat Flow
+R215: Heat transfer (conduction, convection, radiation)
+R216: Materials Under Heat
+R217: Temperature & heat
+R218: Thermal expansion
+R219: Laws of thermodynamics
+R220: Zeroth law
+R221: First law (energy conservation)
+R222: Second law (entropy)
+R223: Third law (absolute zero)
+R224: Heat engines & refrigerators
+R225: Entropy & irreversibility
+R226: Kinetic theory of gases
+R227: Statistical mechanics
+R228: Microstates, macrostates
+R229: Boltzmann distribution
+R230: Partition function
+R231: Mass-Energy Equivalence
+R233: Electromagnetism
+R234: Electricity
+R235: Electric Charge
+R236: Conductivity , Resistance, super conductors, Semi conductors, Nano tech
+R237: Magnetism
+R238: Magnetic fields
+R239: Electromagnetic induction
+R240: Electromagnetic waves & spectrum
+R241: Electrostatics
+R242: Coulomb’s law
+R243: Electric field, potential
+R244: Gauss’s law
+R245: Capacitance & dielectrics
+R246: Current electricity
+R247: Ohm’s law
+R248: Resistors, capacitors in circuits
+R249: Kirchhoff’s laws
+R250: Magnetism
+R251: Lorentz force
+R252: Biot–Savart law
+R253: Ampere’s law
+R254: Faraday’s law
+R255: Lenz’s law
+R256: Inductance
+R257: Maxwell’s equations
+R258: Safety with electricity (no touch wires).
+R260: Relativity
+R262: Quantum Physics
+R263: Birth of quantum theory
+R264: Blackbody radiation
+R265: Photoelectric effect
+R266: Compton effect
+R267: Wave–particle duality
+R268: de Broglie hypothesis
+R269: Double-slit experiment
+R270: Schrödinger equation
+R271: Quantum mechanics postulates
+R272: Operators, eigenvalues
+R273: Probability interpretation
+R274: Uncertainty principle
+R275: Quantum tunneling
+R276: Quantum statistics
+R277: Bose–Einstein statistics
+R278: Fermi–Dirac statistics
+R279: Quantum entanglement
+R280: Quantum field theory (basics)
+R282: Nuclear Physics
+R283: Nuclear structure
+R284: Binding energy
+R285: Radioactivity
+R286: Alpha, beta, gamma decay
+R287: Half-life
+R288: Nuclear reactions
+R289: Fission
+R290: Fusion
+R291: Nuclear models (liquid drop, shell model)
+R292: Applications (nuclear power, medicine)
+R294: Particle Physics
+R295: Standard Model
+R296: Quarks, leptons, gauge bosons
+R297: Higgs boson
+R298: Conservation laws (baryon number, lepton number)
+R299: Neutrino oscillations
+R300: High-energy collisions & accelerators
+R301: Beyond Standard Model
+R302: Supersymmetry
+R303: String theory basics
+R304: Dark matter & dark energy candidates
+R306: Condensed Matter Physics
+R307: Crystallography
+R308: Band theory of solids
+R309: Semiconductors
+R310: Magnetism (ferro-, para-, dia-)
+R311: Superconductivity
+R312: Nanomaterials
+R313: Quantum Hall effect
+R315: Plasma Physics
+R316: Properties of plasma
+R317: Plasma oscillations
+R318: Magnetic confinement (tokamaks, stellarators)
+R319: Fusion research
+R320: Space plasmas (solar wind, magnetosphere)
+R322: Simple Machines , Tech, Tools
+R323: Magnifying glass → big vs small view. ⏎ Microscope/telescope seed → simple toy versions. ⏎ Scales & balance → measure fruit weights. ⏎ Springs in pens/toys → stored energy. ⏎ Fan blades & propellers → air push = movement.
+R324: Wheel, lever, pulley, fan, switches (done). ⏎ Extras: ⏎ Inclined plane: sliding toy car down ramp. ⏎ Gear play: bicycle wheels, wind-up toys. ⏎ Screw seed: bottle cap, corkscrew. ⏎ Magnets in tech: fridge door, speakers. ⏎ Electric circuits seed: connect battery + bulb (safe snap circuits).
+R325: Electricity basics: switches ON/OFF, batteries in torch.

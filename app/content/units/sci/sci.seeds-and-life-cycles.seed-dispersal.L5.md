@@ -1,9 +1,9 @@
 # How seeds travel: wings and wind, water, animals and people, and why people save seeds
 `sci.seeds-and-life-cycles.seed-dispersal.L5`
 
-**Summary.** A tree cannot walk, yet young trees of its kind appear across a valley and on far islands. How do its seeds get there? In this unit you will test paper winged seeds in the wind of a fan, see where 30 drops of one spinner land, and trace where ten foods came from.
+**Summary.** A tree cannot walk, yet young trees of its kind appear across a valley and on far islands. How do its seeds get there? In this lesson you will test paper winged seeds in the wind of a fan, see where 30 drops of one spinner land, and trace where ten foods came from.
 
-**Intro.** *A plate of idli and sambar looks as South Indian as food can be. But the tomato and the chilli in the sambar came from the Americas, about 500 years ago. The tamarind came from Africa, long before that. The onion came from Central Asia. None of these plants can walk. So how did their seeds reach your kitchen?* Every seed has to leave the parent plant somehow. Some seeds have wings. Some float. Some are swallowed, and some are thrown. Some ride with people. In this unit you first read the shapes of seeds from your kitchen, and guess how each one travels. Then you build three paper fliers and test them in front of a fan. The result tells you what a wing really does. After that you follow the longest journeys of all, and meet the people who save seeds.
+**Intro.** *A plate of idli and sambar looks as South Indian as food can be. But the tomato and the chilli in the sambar came from the Americas, about 500 years ago. The tamarind came from Africa, long before that. The onion came from Central Asia. None of these plants can walk. So how did their seeds reach your kitchen?* Every seed has to leave the parent plant somehow. Some seeds have wings. Some float. Some are swallowed, and some are thrown. Some ride with people. In this lesson you first read the shapes of seeds from your kitchen, and guess how each one travels. Then you build three paper fliers and test them in front of a fan. The result tells you what a wing really does. After that you follow the longest journeys of all, and meet the people who save seeds.
 
 ## Learning outcomes
 0. I can give two reasons why a seed often does better away from the parent plant.
@@ -98,7 +98,7 @@ A coconut is built for the sea. The outer skin is smooth and waterproof. Under t
 ### Carried by animals · *defined*
 **Definition:** Many plants are dispersed by animals. Some seeds are carried inside an animal who ate the fruit. Others are carried on the outside, or carried away to be stored as food.
 
-A sweet fruit is a payment. The plant spends sugar on the flesh, and the animal who eats the flesh carries the seeds away. The seeds are hard or slippery, so many pass through the gut whole. They land in a dropping, which is a small heap of manure. Unripe fruit is green, hard and sour, because the seeds inside are not ready. Chillies show how exact this can be. In 2001, Joshua Tewksbury and Gary Nabhan tested wild chillies. Birds ate the hot fruit freely, and the seeds passed through them and sprouted well. Mice and rats tasted the heat and left the fruit alone. When they did eat mild chillies, they chewed the seeds, and no seeds sprouted. Birds do not sense the hot chemical, which is called capsaicin. So the heat keeps seed-chewers away and lets seed-carriers eat. Large animals carry large seeds. In the forests of Arunachal Pradesh, the scientist Aparajita Datta followed hornbills for years. She showed that hornbills swallow big fruits whole and drop the seeds far away, often kilometres from the parent tree. Elephants carry mango, jackfruit and wood apple seeds, and leave them in a great heap of dung. Other seeds ride outside, with hooks that catch in fur. Ants carry seeds that have an oily food parcel.
+A sweet fruit is a payment. The plant spends sugar on the flesh, and the animal who eats the flesh carries the seeds away. The seeds are hard or slippery, so many pass through the gut whole. They land in a dropping, which is a small heap of manure. Unripe fruit is green, hard and sour, because the seeds inside are not ready. Chillies show how exact this can be. In 2001, Joshua Tewksbury and Gary Nabhan tested wild chillies. Birds ate the hot fruit freely, and the seeds passed through them and sprouted well. Mice and rats tasted the heat and left the fruit alone. When they did eat mild chillies, they chewed the seeds, and no seeds sprouted. Birds do not sense the hot chemical, which is called capsaicin. So the heat keeps seed-chewers away and lets seed-carriers eat. Large animals carry large seeds. In the forests of Arunachal Pradesh, the scientist Aparajita Datta followed hornbills for years. She showed that hornbills swallow big fruits whole and drop the seeds far away, often kilometres from the parent tree. Elephants carry mango, jackfruit and wood apple seeds, and leave them in a great heap of dung. Other seeds ride outside, with hooks that catch in fur. Ants carry seeds that have an oily food parcel. Wind, water and animals carry seeds across whole lands, and no border stops them. A coconut can float across the Indian Ocean on the currents, and a bird that flies from Siberia to India in winter can carry seeds on the way.
 - e.g. A bulbul eats lantana berries and drops the seeds from a perch somewhere else.
 - e.g. Flying foxes, the big fruit bats, carry figs and Indian almonds away from the tree and drop the seeds below their feeding perch.
 - e.g. Flowerpeckers eat the sticky berries of a plant that grows on mango branches. They wipe the gluey seed onto another branch, where the seed sprouts.
@@ -170,7 +170,7 @@ A plant has some control over dispersal. Seeds do not all fall as soon as they a
   Against: It is very hard to test what an animal who no longer lives used to eat. Some of these trees are also dispersed by water, by rodents or by people. Many scientists accept the idea for a few trees and doubt it for others.
 
 ## Roots
-In this unit you tested paper fliers in the wind of a fan, and followed seeds across seas and kitchens. Here we ask what those journeys show about plants, about the world and about us.
+In this lesson you tested paper fliers in the wind of a fan, and followed seeds across seas and kitchens. Here we ask what those journeys show about plants, about the world and about us.
 
 **Deep truth.** In the Fan Lane Test, the packed strip and the spinner were the same paper with the same clip. The fan blew equally on both. The spinner landed far away, because the wings gave the moving air more to push on and more time to push. So a winged seed does not fly. The wing only slows the fall, and the wind does all the carrying.  
 *Habit it breaks:* We say that seeds fly and that plants spread, as if they went by their own power. We think that to travel, a being must move themself. A plant travels by being ready for something else that is already moving.  
@@ -685,11 +685,11 @@ Tunga tried to remember how many pods the basket had held. Hundreds. She pressed
 14. (write) Give two reasons why farmers should keep growing many varieties of one crop.  
    **Answer:** First, if a disease or pest attacks, some varieties may resist it, so not everything is lost. Second, different varieties suit different places and weather, such as floods, salty soil or dry years.. *Why:* A strong answer gives two different reasons. Taste, special uses and festivals are also good reasons.
 15. (mcq) What does a seed bank do?  
-   Options: Keeps many kinds of seeds alive / Sells seeds at the lowest price / Turns old seeds into new kinds / Stops seeds from ever sprouting  
+   Options: Sells seeds at the lowest price / Keeps many kinds of seeds alive / Turns old seeds into new kinds / Stops seeds from ever sprouting  
    **Answer:** Keeps many kinds of seeds alive. *Why:* A seed bank stores dry seeds, usually in the cold, so that they stay alive for decades. Choosing 'stops seeds from ever sprouting' misses the point: the seeds are kept so that they can be grown again.
 16. (draw) Draw a tree from above. Add 20 dots to show where 20 of the tree's seeds land.  
    **Answer:** Most of the dots are close to the tree. A few are farther away, and one or two are far away, perhaps to one side where the wind blew.. *Why:* A strong drawing does not spread the dots evenly. It shows many near and few far, which is the usual shape of a seed shadow.
-### Fall Speed, Far Trips and Farmed Seeds (stretch) (stretch, 16 questions)
+### Fall Speed, Far Trips and Farmed Seeds (stretch) (stretch, 17 questions)
 1. (mcq) A seed falls for 10 seconds in a wind of 4 metres each second. How far sideways does the seed go?  
    Options: 40 metres / 14 metres / 4 metres / 400 metres  
    **Answer:** 40 metres. *Why:* Distance is about the time in the air multiplied by the wind speed. 10 × 4 = 40 metres. Choosing 14 means adding the numbers when they should be multiplied.
@@ -700,7 +700,7 @@ Tunga tried to remember how many pods the basket had held. Hundreds. She pressed
 4. (fill) A falling seed stops speeding up when the drag is equal to the seed's ____.  
    **Answer:** ['weight']. *Why:* Weight pulls down and drag pushes up. When they are equal, they cancel, and the seed falls at a steady speed.
 5. (mcq) Why do birds eat hot chillies that mice and rats avoid?  
-   Options: Birds do not sense the hot chemical / Birds like pain / Birds have no tongue / Chillies are only hot at night  
+   Options: Birds like pain / Birds have no tongue / Birds do not sense the hot chemical / Chillies are only hot at night  
    **Answer:** Birds do not sense the hot chemical. *Why:* The hot chemical, capsaicin, burns the mouths of mammals. Birds do not sense it. Birds also swallow the seeds whole, while mice chew them. Choosing 'birds like pain' gives the bird a feeling that the bird does not have here.
 6. (order) Put these steps in order, to show how wild rice became farmed paddy.  
    **Answer:** ['Wild rice drops ripe grains one by one', 'People gather the grains still on the stalks', 'People sow some of those grains', 'Each year more plants hold on to their grain', 'Farmed paddy holds every grain until threshed']. *Why:* Nobody planned the change. People could only harvest grains that had not fallen, so those were the ones that got sown. A strong answer says why the falling grains were left out.
@@ -717,7 +717,7 @@ Tunga tried to remember how many pods the basket had held. Hundreds. She pressed
 11. (match) Match each way of travelling to one risk that goes with it.  
    **Answer:** On the wind → most seeds land in a poor place; On the sea → the seed may never reach land; Inside an animal → the seed may be chewed and killed; On an animal's fur → the seed may never drop off; Thrown by the pod → the seed goes only a few metres. *Why:* Every way of travelling has a cost. A strong answer can add the gain for each one too, such as a long distance or a heap of manure.
 12. (mcq) The same spinner is let go 30 times in front of a fan. Why do the landings spread out?  
-   Options: Moving air is never perfectly steady / The spinner gets heavier each time / The floor tilts / The spinner aims at different spots  
+   Options: The spinner gets heavier each time / Moving air is never perfectly steady / The floor tilts / The spinner aims at different spots  
    **Answer:** Moving air is never perfectly steady. *Why:* Even a fan gives small gusts and lulls, and no two releases are exactly alike. Outdoors the wind changes far more. Choosing 'aims' gives the paper a plan.
 13. (write) Acorns fall a few metres from an oak. Yet oaks once spread 1,000 kilometres in a few thousand years. Explain how.  
    **Answer:** A few acorns travel much farther than the rest. Birds such as jays carry acorns for kilometres and bury them, and forget some. Those rare long trips, repeated over many years, moved the oaks far faster than falling acorns could.. *Why:* A strong answer says that the usual short trip cannot explain the spread, and that rare long trips can.
@@ -727,6 +727,8 @@ Tunga tried to remember how many pods the basket had held. Hundreds. She pressed
    **Answer:** A strong answer sees the trade-off. Planting fast foreign trees covers the soil quickly, but those trees may spread and crowd out local plants. Waiting for wind and birds brings the local plants back, but slowly, and rain may wash soil away in the meantime. Many foresters now plant or protect local trees first.. *Why:* There is no single right answer. It depends on how steep the slope is, how close the nearest forest is, and how long people can wait.
 16. (draw) Design a fruit for a plant that lives on a riverbank. Label the features that help the seeds travel by water.  
    **Answer:** The fruit has a light covering with air spaces, a waterproof skin and a tough coat round the seed. It may be shaped to float upright or to lodge in mud.. *Why:* A strong drawing labels at least two features and says what each does: one for floating, and one for keeping the seed dry or safe.
+17. (write) A seed is found on a beach on an island far from its parent tree. Name two ways it could have crossed the sea, and say which is more likely for a coconut.  
+   **Answer:** A good answer names ocean currents, which float a seed on the water, and a bird or other animal that flies or swims across. For a coconut, the currents are the more likely way, because the coconut floats.. *Why:* A strong answer names water or an animal as the carrier, and says why the coconut floats.
 ### How Seed Scientists Argue (challenge) (challenge, 16 questions)
 1. (perspective) Two people disagree about the best way to keep old rice varieties alive.  
    **Answer:** A strong answer sees that each way protects against a different danger. A cold seed bank protects against war, drought and neglect, and holds huge numbers. Growing in fields keeps the varieties changing with the weather and pests, and keeps the knowledge of how to grow and cook them. Most seed scientists and seed savers now say that both are needed.. *Why:* There is no single right answer. The best answers name one thing that each way can do and the other cannot.
@@ -737,17 +739,17 @@ Tunga tried to remember how many pods the basket had held. Hundreds. She pressed
 4. (write) Plan a fair test: does a higher start carry a spinner farther? Say what you change, keep and measure.  
    **Answer:** I change only the height of the start. I keep the same spinner, the same wind and the same way of letting go. I measure how far from the start mark the spinner lands, several times at each height. I need a wind that blows over the whole fall, such as a steady breeze outdoors, because a fan's wind is too narrow.. *Why:* A strong answer changes one thing, repeats each drop, and notices that a fan cannot give wind over a tall drop.
 5. (mcq) With the same food, a plant can make 20 big seeds or 20,000 tiny ones. Which statement is true?  
-   Options: Each way suits different places / Big seeds are always better / Tiny seeds are always better / The number of seeds never matters  
+   Options: Big seeds are always better / Tiny seeds are always better / The number of seeds never matters / Each way suits different places  
    **Answer:** Each way suits different places. *Why:* A big seed gives a seedling a strong start in shade or dry soil, but few are made and they do not go far. Tiny seeds go far and are many, but each needs a perfect spot. Choosing 'always better' misses the cost on the other side.
 6. (write) A dandelion shuts the hairs in damp air and opens them in dry air. Is that deciding? Argue both sides.  
    **Answer:** For: the plant senses how damp the air is and acts differently because of it, which is what deciding means. Against: wet tissue swells and pulls the hairs shut, and some scientists say that the word 'decide' should be kept for animals with brains.. *Why:* A strong answer gives both sides fairly and says what the argument turns on: what we mean by the word 'decide'.
 7. (mcq) Seed A falls at 1 metre each second and seed B at 4, from one tree. Which is true?  
-   Options: A goes about 4 times as far / B goes about 4 times as far / Both go the same distance / A goes about 20 times as far  
+   Options: B goes about 4 times as far / Both go the same distance / A goes about 20 times as far / A goes about 4 times as far  
    **Answer:** A goes about 4 times as far. *Why:* From a tree 20 metres tall, seed A is in the air for 20 seconds and seed B for 5 seconds. The wind carries A for four times as long, so A goes about four times as far. Choosing B means thinking that a faster fall is a faster journey.
 8. (truefalse) True or false: one seed in ten thousand that travels very far is too rare to matter to a kind of plant.  
    **Answer:** False. *Why:* False. A tree makes many thousands of seeds each year, so rare trips happen again and again. Those few seeds are how a kind of plant reaches new islands, new valleys and ground left bare by a fire.
 9. (mcq) Seedlings close to a parent tree of the same kind often die more than seedlings far away. What is one main reason?  
-   Options: Enemies of that kind gather there / The parent tree poisons them on purpose / Seedlings need to be lonely / The ground near a tree is always dry  
+   Options: The parent tree poisons them on purpose / Seedlings need to be lonely / Enemies of that kind gather there / The ground near a tree is always dry  
    **Answer:** Enemies of that kind gather there. *Why:* The enemies of one kind of plant are most common where that plant is common, which is round the parent. Seedlings there also get little light. Choosing 'poisons them on purpose' gives a reason that scientists have not found for most trees.
 10. (match) Match each observation to what it is evidence for.  
    **Answer:** With the fan off, a spinner lands at your feet → a wing gives no forward push; Seeds from bird droppings sprout → seeds can survive being eaten; Wild relatives of chilli grow only in the Americas → chilli came from the Americas; Seeds sprout after four weeks in salt water → seeds could cross a sea alive; Trays near a tree catch the most seeds → most seeds land near the parent. *Why:* A claim in science rests on something that someone saw or measured. A strong answer can say why each observation points to its claim and not to another.
@@ -758,7 +760,7 @@ Tunga tried to remember how many pods the basket had held. Hundreds. She pressed
 13. (draw) Draw the bar chart you expect for a real tree's seed shadow, from 0 to 500 metres. Mark the far seeds.  
    **Answer:** The bars are tall near 0 metres and drop quickly. Beyond about 100 metres the bars are very low, but they do not reach zero. A few seeds are marked far to the right.. *Why:* A strong drawing has a long, low tail to the right. It marks that tail as the part that is hardest to measure and matters most for reaching new places.
 14. (mcq) Lantana was brought to India as a garden flower and now covers forests. What does this show about moving plants?  
-   Options: A moved plant can behave in unexpected ways / Every foreign plant is harmful / Garden plants never spread / Birds refuse to eat foreign berries  
+   Options: Every foreign plant is harmful / A moved plant can behave in unexpected ways / Garden plants never spread / Birds refuse to eat foreign berries  
    **Answer:** A moved plant can behave in unexpected ways. *Why:* Lantana found birds to carry the berries and few enemies to eat the leaves. Nobody expected that. But chilli and tomato were moved too, and did no such harm. Choosing 'every foreign plant is harmful' goes further than the evidence.
 15. (write) A seed takes 30 seconds to fall. The wind blows at 3 metres each second. How far does the seed go?  
    **Answer:** The seed goes 30 × 3 = 90 metres. Now suppose rising air holds the seed up for one minute more. That adds 60 × 3 = 180 metres, and the total is 270 metres, three times as far.. *Why:* A strong answer multiplies the time by the wind speed. A very strong answer adds that anything which keeps the seed up longer, such as rising air, adds a great deal of distance.
@@ -772,41 +774,44 @@ Tunga tried to remember how many pods the basket had held. Hundreds. She pressed
 
 ## Quiz
 1. (mcq) Which of these is a reason why a seed often does better away from the parent?  
-   Options: Less competition for light and water / Seeds dislike their parents / Far soil is always richer / The parent stops making seeds  
+   Options: Seeds dislike their parents / Less competition for light and water / Far soil is always richer / The parent stops making seeds  
    **Answer:** Less competition for light and water. *Why:* Away from the parent, a seedling shares light, water and space with fewer plants of the same kind, and meets fewer of their enemies. Far soil is not always richer. Most seeds that travel land somewhere poor.
 2. (mcq) A fruit has a waterproof skin and a thick, light husk full of air. How do the seeds most likely travel?  
-   Options: By water / By wind / On an animal's fur / By being thrown  
+   Options: By wind / On an animal's fur / By water / By being thrown  
    **Answer:** By water. *Why:* Trapped air makes the fruit float, and the waterproof skin keeps the seed dry. That is the coconut's design. The fruit is far too heavy for wind.
 3. (mcq) A seed carries a small oily food parcel on the outside. Who most likely carries this seed?  
-   Options: Ants / The sea / The wind / Elephants  
+   Options: The sea / The wind / Elephants / Ants  
    **Answer:** Ants. *Why:* Ants carry the whole seed to the nest, eat the parcel, and leave the seed in their rubbish heap. The parcel is too small to pay a large animal.
-4. (mcq) Two seeds weigh the same, and one has a wing. Why does the winged seed fall more slowly?  
-   Options: The wing meets more air resistance / The wing makes the seed lighter / The wing flaps / Gravity pulls the winged seed less  
+4. (mcq) A coconut falls into a river, floats out to sea, and washes up on a far island. How did it get there?  
+   Options: Ocean currents carried it across the sea / It walked there on its roots / A fish swallowed it and carried it over  
+   **Answer:** Ocean currents carried it across the sea. *Why:* Water moves across the world, and a coconut floats, so the currents can carry it far. A coconut cannot walk, and fish do not carry coconuts.
+5. (mcq) Two seeds weigh the same, and one has a wing. Why does the winged seed fall more slowly?  
+   Options: The wing makes the seed lighter / The wing flaps / Gravity pulls the winged seed less / The wing meets more air resistance  
    **Answer:** The wing meets more air resistance. *Why:* The wing adds surface and almost no weight. With more surface, drag matches the weight at a lower speed. Gravity pulls both seeds equally, because they weigh the same.
-5. (truefalse) True or false: a falling seed keeps getting faster all the way to the ground.  
+6. (truefalse) True or false: a falling seed keeps getting faster all the way to the ground.  
    **Answer:** False. *Why:* False. Drag grows as the speed grows. When drag equals weight, the seed stops speeding up and falls at a steady speed. A winged seed reaches that speed within a metre or two.
-6. (mcq) On a day with no wind at all, where does a winged seed from a tall tree land?  
+7. (mcq) On a day with no wind at all, where does a winged seed from a tall tree land?  
    Options: Almost straight below / Far away, because of the wing / Higher up the tree / In the next field  
    **Answer:** Almost straight below. *Why:* A wing gives no forward push. With no moving air, the seed only comes down slowly. Choosing 'far away' treats the wing as an engine.
-7. (mcq) Which change would carry a winged seed the farthest?  
+8. (mcq) Which change would carry a winged seed the farthest?  
    Options: A higher start in a stronger wind / A heavier seed / A shorter wing / Leaving on a calm day  
    **Answer:** A higher start in a stronger wind. *Why:* Distance is about the time in the air multiplied by the wind speed. A higher start gives more time, and a stronger wind gives more speed. A heavier seed or a shorter wing makes the fall faster.
-8. (mcq) In a wind test, why do you let each flier go five times and take the mean?  
-   Options: One drop could be a fluke / The paper needs to warm up / Five is a lucky number / The fan tires after one drop  
+9. (mcq) In a wind test, why do you let each flier go five times and take the mean?  
+   Options: The paper needs to warm up / Five is a lucky number / One drop could be a fluke / The fan tires after one drop  
    **Answer:** One drop could be a fluke. *Why:* Moving air is never perfectly steady, so single drops differ. The mean of several drops is a fairer picture than any one of them.
-9. (mcq) Which of these describes a seed shadow?  
-   Options: Many seeds near, and a few far away / The shade under a seed / Seeds that grow only in the dark / The same number of seeds at every distance  
+10. (mcq) Which of these describes a seed shadow?  
+   Options: The shade under a seed / Many seeds near, and a few far away / Seeds that grow only in the dark / The same number of seeds at every distance  
    **Answer:** Many seeds near, and a few far away. *Why:* A seed shadow is the pattern of where a plant's seeds land. Most land near, and a few go far. Those few are how plants reach new places.
-10. (mcq) Which of these shows that a crop has come to depend on people?  
+11. (mcq) Which of these shows that a crop has come to depend on people?  
    Options: Paddy holds the grain until threshed / Mango trees give shade / Coconuts float on the sea / Tridax grows by the road  
    **Answer:** Paddy holds the grain until threshed. *Why:* Wild rice drops ripe grains. Farmed paddy holds them, so the grain is sown only when a person sows it. Coconuts and tridax still travel without us.
-11. (mcq) Which of these foods was carried to India from the Americas?  
-   Options: Tomato / Mango / Black pepper / Turmeric  
+12. (mcq) Which of these foods was carried to India from the Americas?  
+   Options: Mango / Black pepper / Turmeric / Tomato  
    **Answer:** Tomato. *Why:* Tomato was first farmed in Central and South America and came to India by ship after 1498. Mango, pepper and turmeric are from South Asia.
-12. (mcq) Why is a field planted with one single variety risky?  
-   Options: One disease could kill the whole crop / The plants grow too tall / Birds refuse to visit / The seeds forget how to sprout  
+13. (mcq) Why is a field planted with one single variety risky?  
+   Options: The plants grow too tall / Birds refuse to visit / One disease could kill the whole crop / The seeds forget how to sprout  
    **Answer:** One disease could kill the whole crop. *Why:* Plants of one variety are nearly the same as each other. A disease that can attack one can attack them all. With many varieties, some are likely to resist.
-13. (truefalse) True or false: seeds kept in a cold seed bank go on changing to suit the weather outside.  
+14. (truefalse) True or false: seeds kept in a cold seed bank go on changing to suit the weather outside.  
    **Answer:** False. *Why:* False. Seeds in a cold store stay as they were when they went in. Only plants that are grown year after year can change with the weather and pests. That is why many people say both ways of saving are needed.
 
 ## Applications
@@ -872,16 +877,20 @@ Seed to Seed Again (sci.seeds-and-life-cycles.L5): Topic-level song
 ## Links
 - [Svalbard Global Seed Vault](https://www.seedvault.no) · interactive: See photographs of the vault inside the frozen mountain, and look up which countries have sent seeds.
 - [Nature Conservation Foundation](https://www.ncf-india.org) · interactive: For the parent and an older child: read about the long study of hornbills and the trees they plant in Arunachal Pradesh.
-- [Flowers of India](https://www.flowersofindia.net) · interactive: Look up tridax, calotropis, balsam and other plants from this unit, with clear photographs of the fruits.
+- [Flowers of India](https://www.flowersofindia.net) · interactive: Look up tridax, calotropis, balsam and other plants from this lesson, with clear photographs of the fruits.
 - [Royal Botanic Gardens, Kew](https://www.kew.org) · interactive: Search the site for the Millennium Seed Bank, which stores the seeds of wild plants from all over the world.
-- [Pichavaram Mangrove Forest]() · place · Near Chidambaram, Tamil Nadu: Take a boat among the mangroves and look for the long green seedlings hanging from the branches and floating in the channels.
-- [Lalbagh Botanical Garden]() · place · Bengaluru: Walk under the old silk cotton, mahogany and rain trees, and collect fallen pods and winged seeds from the paths to test at home.
-- [Acharya Jagadish Chandra Bose Indian Botanic Garden]() · place · Howrah, near Kolkata: See the Great Banyan, one tree that covers more ground than a football field. It began as a single tiny seed.
+- Pichavaram Mangrove Forest · place · Near Chidambaram, Tamil Nadu: Take a boat among the mangroves and look for the long green seedlings hanging from the branches and floating in the channels.
+- Lalbagh Botanical Garden · place · Bengaluru: Walk under the old silk cotton, mahogany and rain trees, and collect fallen pods and winged seeds from the paths to test at home.
+- Acharya Jagadish Chandra Bose Indian Botanic Garden · place · Howrah, near Kolkata: See the Great Banyan, one tree that covers more ground than a football field. It began as a single tiny seed.
 
 ## Things to buy
 - [A measuring tape, 3 metres or longer](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): For measuring how far each paper flier lands from the start mark. A ruler and a long piece of string do the same job, so the tape is helpful but not needed. Used in e1, e2. 
 - [A hand lens (magnifying glass), about 5 times or 10 times](https://www.amazon.in/s?k=magnifying+glass+10x) (tool): For seeing the tiny hooks and barbs on seeds from the Sock Walk. A phone camera on zoom does the same job. Used in a3. 
 - [The Triumph of Seeds, by Thor Hanson (2015)](https://www.amazon.in/s?k=The+Triumph+of+Seeds+Thor+Hanson) (book): A clear and lively book for the parent on how seeds feed, travel, wait and defend themselves. Used in a4, p1. Read the chapters on how seeds travel and on coffee and chilli, and retell one story to your child during Where Did My Dinner Come From? or Seed Keeper.
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in The Fan Lane Test: same paper, same weight, three shapes. Which travels farthest in the same wind?, The Slow Fall Challenge: design a paper seed that takes the longest to fall 2 metres. About ₹150 to ₹400. A phone stopwatch works well. Used in e1, c1. Get it before The Fan Lane Test: same paper, same weight, three shapes. Which travels farthest in the same wind?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Fan Lane Test: same paper, same weight, three shapes. Which travels farthest in the same wind?, The Seed Shadow Test: where do 30 drops of the same spinner land?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2. Get it before The Fan Lane Test: same paper, same weight, three shapes. Which travels farthest in the same wind?.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in Read the Shape: how would these kitchen seeds travel with no person to carry them?. About ₹20 to ₹50. Torn clean cloth works. Used in a1. Get it before Read the Shape: how would these kitchen seeds travel with no person to carry them?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What does seed dispersal mean? → The movement of seeds away from the parent plant.

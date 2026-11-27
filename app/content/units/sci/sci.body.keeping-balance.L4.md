@@ -1,9 +1,9 @@
 # Two pushes make a steady level: sugar, breath, pulse and pupils
 `sci.body.keeping-balance.L4`
 
-**Summary.** Your blood sugar, breathing and pulse stay steady, but nothing is standing still. Two opposite pushes work all the time. In this unit you will build a bottle that keeps its own water level, test how fast your pulse and breathing recover, and play a game to keep sugar in the green.
+**Summary.** Your blood sugar, breathing and pulse stay steady, but nothing is standing still. Two opposite pushes work all the time. In this lesson you will build a bottle that keeps its own water level, test how fast your pulse and breathing recover, and play a game to keep sugar in the green.
 
-**Intro.** *Stand on one leg for 20 seconds and look at your foot. It seems still, but it is not. Your ankle is shaking a little, left, right, left. Why does a thing that looks still need so much movement?* Your body keeps many things steady. You already know about warmth and water. Now look at sugar, breath, pulse and the black dots in your eyes. All of them stay near a good level, and all of them do it the same way. Something pushes the level up, and something else pushes it down. The level stays steady at the point where the two pushes are equal. In this unit you find those two pushes in a plastic bottle, in your ankle, in your blood and in your eyes.
+**Intro.** *Stand on one leg for 20 seconds and look at your foot. It seems still, but it is not. Your ankle is shaking a little, left, right, left. Why does a thing that looks still need so much movement?* Your body keeps many things steady. You already know about warmth and water. Now look at sugar, breath, pulse and the black dots in your eyes. All of them stay near a good level, and all of them do it the same way. Something pushes the level up, and something else pushes it down. The level stays steady at the point where the two pushes are equal. In this lesson you find those two pushes in a plastic bottle, in your ankle, in your blood and in your eyes.
 
 ## Learning outcomes
 0. I can explain that a level stays steady because two opposite pushes are working all the time, not because nothing is happening.
@@ -146,7 +146,7 @@ On a leaf, two guard cells sit on either side of a tiny pore. When they swell wi
   Against: A fever is the body raising its warmth set point, and some studies suggest it helps fight infection. Studies are mixed. Doctors advise seeing a doctor for a baby with a fever, a very high fever or one that lasts.
 
 ## Roots
-In this unit you watched a bottle's water level, your pulse, your pupils and blood sugar stay steady. Now we ask what this kind of steadiness tells us about ourselves and the world.
+In this lesson you watched a bottle's water level, your pulse, your pupils and blood sugar stay steady. Now we ask what this kind of steadiness tells us about ourselves and the world.
 
 **Deep truth.** A steady level is not a place where nothing happens. It is two opposite pushes working against each other all the time. Insulin pulls sugar out of your blood while glucagon puts it back. Where they balance, the level stays flat.  
 *Habit it breaks:* We treat 'steady' and 'still' as if they meant the same thing, so a flat line looks like nothing is going on. But a flat line can hide a great deal of work.  
@@ -246,7 +246,7 @@ Devaki had not noticed. She had been doing nothing at all, very hard.
   *Parent does:* Set out the board. Put the marker on 5. The team has 3 hearts. Shuffle the event cards in one pile and the response cards in another. Deal 3 response cards to the team.  
   *Parent says:* We play as one body. The marker is your blood sugar. The green squares are just right. Put the marker on five. We have three hearts. Everyone gets a look at the three response cards.  
   *Child mode:* Put the marker on 5. You have 3 hearts. Look at your 3 response cards.
-  - Note: The cards, the board and the tokens are printed from this unit. If you have no printer, copy them by hand on small paper slips. Use 12 event cards and the 12 response cards, which is enough for a short game. Use a coin as the marker and cut 3 paper hearts. The pile of event cards is the world. The response cards are what your pancreas and liver can do. With two to four children, take turns reading the event and moving the marker. The team chooses the response together, and the youngest child plays the card.
+  - Note: The cards, the board and the tokens are printed from this lesson. If you have no printer, copy them by hand on small paper slips. Use 12 event cards and the 12 response cards, which is enough for a short game. Use a coin as the marker and cut 3 paper hearts. The pile of event cards is the world. The response cards are what your pancreas and liver can do. With two to four children, take turns reading the event and moving the marker. The team chooses the response together, and the youngest child plays the card.
 - **s2 (5 min)**  
   *Parent does:* Play Round 1. Turn over the top event card and read it aloud. Move the marker as the card says. Then the team chooses one response card and moves the marker again. Count the points for the square.  
   *Parent says:* Read the event. Move the marker. Now choose one response card to bring it back towards five. Play it and move the marker. Score two points on green, one point on yellow, and lose a heart on red.  
@@ -591,7 +591,7 @@ Devaki had not noticed. She had been doing nothing at all, very hard.
 3. (truefalse) A flat line on a chart always means that nothing is happening.  
    **Answer:** False. *Why:* False. A flat level can hide a lot of work. In the Level Bottle, the level was flat while water poured in and out all the time.
 4. (mcq) In the Level Bottle, why did deeper water leak out of the hole faster?  
-   Options: Deeper water presses harder on the hole / The hole gets bigger when the water is deep / Water is lazy when it is shallow  
+   Options: The hole gets bigger when the water is deep / Water is lazy when it is shallow / Deeper water presses harder on the hole  
    **Answer:** Deeper water presses harder on the hole. *Why:* More water above the hole presses harder, so it squirts out faster. That is why a rising level makes its own push back.
 5. (match) Match each part of the body to what it does with blood sugar.  
    **Answer:** Insulin → lowers the sugar in the blood; Glucagon → raises the sugar in the blood; Pancreas → the gland that makes both hormones; Liver → stores sugar and releases it when needed. *Why:* The pancreas makes insulin and glucagon. Insulin tells cells and the liver to take sugar in. Glucagon tells the liver to let sugar out. The liver is the store.
@@ -608,7 +608,7 @@ Devaki had not noticed. She had been doing nothing at all, very hard.
 11. (draw) Draw a see-saw. Write insulin at one end and glucagon at the other. Draw a small ball near the middle for the sugar level.  
    **Answer:** A see-saw with insulin labelled on the end pushing down, glucagon on the other end pushing up, and a ball near the middle.. *Why:* A strong drawing shows two opposite pushes and the level in between. The ball stays near the middle because both pushes are working.
 12. (mcq) What goes wrong in type 1 diabetes?  
-   Options: The body makes almost no insulin / The body makes too much glucagon / The body cannot digest food  
+   Options: The body makes too much glucagon / The body makes almost no insulin / The body cannot digest food  
    **Answer:** The body makes almost no insulin. *Why:* In type 1 diabetes the cells that make insulin are destroyed, so almost no insulin is made. People take insulin from outside.
 13. (perspective) Anita and Karthik are looking at a flat line of sugar readings from a healthy child.  
    **Answer:** Answers vary. A strong answer picks a side and gives evidence, such as the Level Bottle staying flat while water flowed, or the ankle wobbling to stay up.. *Why:* Karthik's view matches the evidence. A flat line can hide two opposite pushes. Anita's view fits if you think of steady as still.
@@ -638,7 +638,7 @@ Devaki had not noticed. She had been doing nothing at all, very hard.
 8. (count) Your pulse at rest is 72 beats a minute. Just after you stop running it is 140. Two minutes later it is 100. By how many beats a minute did it fall in those two minutes, and how many beats a minute is it still above rest?  
    **Answer:** It fell by 40 beats a minute. It is still 28 above rest.. *Why:* 140 take away 100 is 40. And 100 take away 72 is 28, so the pulse is still 28 above rest.
 9. (mcq) Why does a shower swing from too hot to too cold when the hot water is slow to arrive?  
-   Options: You keep correcting before the last correction has arrived / The tap is broken / Hot water is heavier than cold water  
+   Options: The tap is broken / Hot water is heavier than cold water / You keep correcting before the last correction has arrived  
    **Answer:** You keep correcting before the last correction has arrived. *Why:* Nothing changes at first, so you turn the tap more. When the hot water finally arrives, you have already turned the tap too far. A message that arrives late makes the correction go too far.
 10. (write) Someone says, 'Diabetes happens because a person ate too many sweets.' Give two reasons this is not the whole story.  
    **Answer:** Type 1 diabetes happens when the body's own defences destroy the cells that make insulin, which has nothing to do with sweets. Type 2 comes from many causes together, such as genes, body weight and how active a person is.. *Why:* A strong answer separates the two types and says that many causes work together. It does not blame the person.
@@ -659,14 +659,14 @@ Devaki had not noticed. She had been doing nothing at all, very hard.
 1. (write) A girl runs a long race. Use insulin and glucagon to explain what her body does with her blood sugar during the race and just after she eats a banana.  
    **Answer:** During the race her muscles take in a lot of sugar, so her blood sugar starts to fall. Glucagon rises and tells the liver to release stored sugar, so the level stays near right. When she eats a banana the sugar rises, and the pancreas releases insulin, which tells cells and the liver to take sugar in and store it.. *Why:* A strong answer uses both hormones in the right direction, and says that the aim of both is to keep the level steady.
 2. (mcq) A person with type 1 diabetes takes insulin and then does not eat for hours. What is most likely?  
-   Options: Their blood sugar falls too low, and they need sugar quickly / Their blood sugar goes very high / Nothing changes  
+   Options: Their blood sugar goes very high / Nothing changes / Their blood sugar falls too low, and they need sugar quickly  
    **Answer:** Their blood sugar falls too low, and they need sugar quickly. *Why:* The insulin keeps lowering the sugar, and no food is adding any. Low sugar causes shaking, sweating and confusion. Sweet food or drink given right away helps. A grown-up or doctor should be called.
 3. (count) A can of juice has 24 grams of sugar. A level teaspoon holds 4 grams, and a grown-up has about one teaspoon of sugar in all their blood. How many times more sugar is in the juice than in all the blood?  
    **Answer:** 6. *Why:* 24 divided by 4 is 6 teaspoons. So the can holds about six times the sugar in all the blood, and the body moves it out of the blood so the level stays small.
 4. (perspective) The people who found insulin sold their patent to a university for one dollar, so that no company would own it.  
    **Answer:** Answers vary. A strong answer picks a side, and asks about cost, who needs the medicine and who can afford it.. *Why:* Both views have a point. Insulin saves lives, and making it takes money. The question is how to make sure everyone who needs it can get it.
 5. (mcq) Why is it dangerous to take lots of big breaths before holding your breath in water?  
-   Options: Big breaths blow away carbon dioxide, so the urge to breathe comes late and you can faint before you feel it / Big breaths make the water cold / Big breaths make the lungs smaller  
+   Options: Big breaths make the water cold / Big breaths make the lungs smaller / Big breaths blow away carbon dioxide, so the urge to breathe comes late and you can faint before you feel it  
    **Answer:** Big breaths blow away carbon dioxide, so the urge to breathe comes late and you can faint before you feel it. *Why:* The urge to breathe comes mostly from carbon dioxide. If you blow it off with big breaths, the warning comes late, and oxygen may run out first. Never do it in water.
 6. (truefalse) A loop with a delay always overshoots, however gently it corrects.  
    **Answer:** False. *Why:* False. Gentle, small corrections give the message time to arrive. The body also predicts, so it can start a correction before the change arrives.
@@ -674,8 +674,8 @@ Devaki had not noticed. She had been doing nothing at all, very hard.
    **Answer:** In fog the driver sees the road late, so they correct for where the car was a moment ago. They steer too far, then too far the other way, like walking past the coin in Late Warmer-Colder.. *Why:* A strong answer says that the driver sees the road late. A correction based on where the car was a moment ago goes too far.
 8. (sort) Sort each pair by whether the two work against each other like an opposing pair.  
    **Answer:** insulin and glucagon → An opposing pair; the muscle that bends the elbow and the muscle that straightens it → An opposing pair; the ring and spoke muscles of the iris → An opposing pair; sweating and shivering → An opposing pair; the stomach and the heart → Not an opposing pair; salt and pepper → Not an opposing pair. *Why:* An opposing pair has two controls that push in opposite directions on the same level. The stomach and heart do different jobs and do not push against each other.
-9. (mcq) The Sun stays almost the same size for billions of years. Which explanation fits the idea of this unit?  
-   Options: Gravity pulls inwards and the pressure of hot gas pushes outwards, and the two are equal / The Sun is simply not moving / The Sun has no energy flowing through it  
+9. (mcq) The Sun stays almost the same size for billions of years. Which explanation fits the idea of this lesson?  
+   Options: The Sun is simply not moving / The Sun has no energy flowing through it / Gravity pulls inwards and the pressure of hot gas pushes outwards, and the two are equal  
    **Answer:** Gravity pulls inwards and the pressure of hot gas pushes outwards, and the two are equal. *Why:* A star holds steady because two opposite pushes balance. If it shrank, the pressure would rise and push it back out. If it swelled, gravity would pull it back in.
 10. (draw) Draw the Level Bottle when the level is steady. Draw an arrow for the water going in, an arrow for the water going out, and show how long each one is.  
    **Answer:** A bottle with a hole near the base, a trickle entering at the top, an arrow in and an arrow out, both the same length.. *Why:* When the level is steady, the flow in equals the flow out, so the two arrows must be the same length.
@@ -685,7 +685,7 @@ Devaki had not noticed. She had been doing nothing at all, very hard.
    **Answer:** 1,200 in an hour and 28,800 in a day.. *Why:* 20 times 60 is 1,200 breaths in an hour. 1,200 times 24 is 28,800 breaths in a day.
 13. (match) Match each scientist to what they found out.  
    **Answer:** Dorothy Hodgkin → worked out the shape of the insulin molecule; Rosalyn Yalow → helped show with Solomon Berson that many adults with diabetes have insulin that works poorly; Frederick Banting and Charles Best → made an extract that lowered the blood sugar of diabetic dogs; Oskar Minkowski and Joseph von Mering → found that taking out a dog's pancreas caused diabetes. *Why:* Each of them added a piece. It took many people over decades to understand diabetes and to treat it.
-14. (write) Give a new example, not from this unit, of something that stays steady because two opposite pushes balance. Say what the two pushes are.  
+14. (write) Give a new example, not from this lesson, of something that stays steady because two opposite pushes balance. Say what the two pushes are.  
    **Answer:** A person riding a bicycle: they lean left and steer right, then lean right and steer left. Or a hanging mobile, a swing at rest, or a floating boat. The answer must name two opposite pushes.. *Why:* A strong answer names two pushes in opposite directions that keep a level or a position steady.
 15. (odd) Which one is the odd one out, and why? The Level Bottle, a room thermostat, a pressure cooker whistle, a microphone squealing near its speaker.  
    **Answer:** The microphone, because the louder sound makes it louder still. The others push back against a change.. *Why:* The microphone is positive feedback, which pushes the change on. The other three are negative feedback, which pushes back.
@@ -697,16 +697,16 @@ Devaki had not noticed. She had been doing nothing at all, very hard.
 
 ## Quiz
 1. (mcq) What makes a level stay steady?  
-   Options: What flows in matches what flows out / Nothing moving at all / A single push in one direction  
+   Options: Nothing moving at all / A single push in one direction / What flows in matches what flows out  
    **Answer:** What flows in matches what flows out. *Why:* A level is steady when the flow in equals the flow out. If one flow wins, the level rises or falls.
 2. (mcq) You pour a cup of water into a Level Bottle that was steady. The level jumps up. What happens next?  
-   Options: The level falls back to where it was / The level stays high / The level rises until the bottle overflows  
+   Options: The level stays high / The level falls back to where it was / The level rises until the bottle overflows  
    **Answer:** The level falls back to where it was. *Why:* Deeper water leaks faster, so the leak is bigger than the trickle until the level has come back down. The change causes its own push back.
 3. (mcq) Which pair is correct for the sugar in the blood?  
    Options: Insulin lowers it and glucagon raises it / Insulin raises it and glucagon lowers it / Both of them raise it  
    **Answer:** Insulin lowers it and glucagon raises it. *Why:* Insulin tells cells to take sugar in, which lowers the level. Glucagon tells the liver to release sugar, which raises it.
 4. (mcq) Where in the body are insulin and glucagon made?  
-   Options: In the pancreas / In the liver / In the heart  
+   Options: In the liver / In the pancreas / In the heart  
    **Answer:** In the pancreas. *Why:* Beta cells in the pancreas make insulin and alpha cells make glucagon. The liver is where sugar is stored and released.
 5. (mcq) What is the main signal that makes you want to breathe?  
    Options: Carbon dioxide building up in the blood / Oxygen disappearing from the air / A tired feeling in the lungs  
@@ -715,7 +715,7 @@ Devaki had not noticed. She had been doing nothing at all, very hard.
    Options: It falls fast at first and then more slowly / It falls at the same speed all the way / It stays high for an hour  
    **Answer:** It falls fast at first and then more slowly. *Why:* The further the pulse is from rest, the faster it falls. That is why the biggest drop comes in the first minute.
 7. (mcq) A bright light comes on and your pupils shrink at once. What decided this?  
-   Options: An automatic loop through the brainstem / Your decision to protect your eyes / The light itself changed your eyes  
+   Options: Your decision to protect your eyes / An automatic loop through the brainstem / The light itself changed your eyes  
    **Answer:** An automatic loop through the brainstem. *Why:* Light on the eye sends a signal to the brainstem, which tightens the ring muscles. It happens in under a second, before you could decide anything.
 8. (mcq) Why does a shower swing between too hot and too cold when the water is slow to arrive?  
    Options: The correction arrives late, so you overshoot / Hot water and cold water do not mix / The tap gets tired  
@@ -792,6 +792,11 @@ This Body Is a Universe (sci.body.L4): Topic-level song
 - [Optional: a sports stopwatch or a kitchen timer with seconds](https://www.amazon.in/s?k=sports+stopwatch+for+kids) (tool): Not needed. A phone timer or a clock with a seconds hand works for the Level Bottle, Recovery Race, Pupil Gauge and the other tests. A stopwatch is easier to use with wet hands. Used in e1, e2, e3, a1, p1. 
 - [Optional: a digital kitchen weighing scale that reads in grams](https://www.amazon.in/s?k=digital+kitchen+weighing+scale) (tool): Not needed. It only checks that a level teaspoon of sugar weighs about 4 grams. A neighbour or a shop may let you weigh a spoonful. Used in a2. 
 - [The Discovery of Insulin by Michael Bliss](https://www.amazon.in/s?k=the+discovery+of+insulin+michael+bliss) (book): For the parent: the full story of Banting, Best, Macleod and Collip. It is for adults, so read the story to your child in your own words. Used in g1. Read a few pages after the story and the discovery card, to give the grown-up the full picture.
+- [A magnetic compass](https://www.amazon.in/s?k=magnetic+compass+school) (tool): Used in Level Bottle: a bottle that keeps its own water level, Steady-Level Tank: keep the level between two marks. About ₹30 to ₹150. A phone compass app also works. Used in e1, c1. Get it before Level Bottle: a bottle that keeps its own water level.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Level Bottle: a bottle that keeps its own water level, Pupil Gauge: how fast do my pupils change with the light?, Steady-Level Tank: keep the level between two marks. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e3, c1. Get it before Level Bottle: a bottle that keeps its own water level.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in Pupil Gauge: how fast do my pupils change with the light?. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in e3. Get it before Pupil Gauge: how fast do my pupils change with the light?.
+- [Iron nails or iron filings](https://www.amazon.in/s?k=iron+filings+science) (material): Used in Level Bottle: a bottle that keeps its own water level, Steady-Level Tank: keep the level between two marks. About ₹20 to ₹80. Short steel nails from a hardware shop. Used in e1, c1. Get it before Level Bottle: a bottle that keeps its own water level.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What makes a level stay steady? → What flows in matches what flows out.
@@ -811,7 +816,7 @@ This Body Is a Universe (sci.body.L4): Topic-level song
 ## Sources
 - ideas/by_topic/body-parts-and-skeleton.md, 'Concept activities: Homeostasis': Pulse Party (dance, check pulse, breathe down) became the Recovery Race. Sugar Steady (a snack, then notice energy) shaped One Teaspoon and Sugar See-Saw. Card Dial (a card game that keeps a meter at 5) became the board in Sugar See-Saw. Set-Point Relay and Feedback Flip fed the pairs and the late-response rule. Feedback Arrows (blue to cool, red to warm) became the up and down arrows on the cards.
 - Founder's philosophy line in the same notes: 'Balance is not stillness; it is gentle adjusting, like a surfer staying on a wave.' This became the starting point of the One-Leg Wobble and the deep truth.
-- The Class 3 unit on keeping balance, which this unit builds on: the idea of a feedback loop for warmth and water is taken forward to sugar, breath, pulse and pupils, and to opposing pairs, delay and moving set points.
+- The Class 3 unit on keeping balance, which this lesson builds on: the idea of a feedback loop for warmth and water is taken forward to sugar, breath, pulse and pupils, and to opposing pairs, delay and moving set points.
 - Combined lesson sci-C4-body-parts-and-skeleton and sci-C5-health-hygiene-exercise-and-illness, for coverage only.
 - Harvard BioNumbers, total glucose in the blood of a 70 kg adult (about 4 g)
 - Fleming, S. and others, The Lancet (2011) on normal heart rate and breathing rate ranges in children

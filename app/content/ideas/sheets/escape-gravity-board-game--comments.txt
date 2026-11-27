@@ -1,0 +1,27 @@
+# Escape Gravity Board Game / Comments (copied from Google Sheets, 2026-11-27)
+R4:  | Alice in wonderland is theme ? 
+R5:  | squigly lines for board spiral?
+R6:  | Colours | Some surprising colours? dark teals, purple, neons
+R7:  | Bg colour white or beige | Not sure, have to see. Must look fun. Force cards should look even fun
+R12:  | Artboard 9 | Magnetic Energy | Illustration Ok
+R13:  | Artboard 10 | Air Resistance  | Concept good. apple & feather must be visually differentiated clearly , maybe also add some air molecules restricting the fall of the feather and failing to do so with apple?
+R14:  | Artboard 12 | Air Lift | Ok
+R15:  | Artboard 13 | Neutral Pull | Ok . But still looks a bit like seesaw. Thee rope must be clear. Add the braid like texture ropes have?
+R16:  | Artboard 14 | Knowledge | Ok
+R17:  | Artboard 15 | Sideways Velocity | Ok
+R18:  | Artboard 16 | Elastic energy | why rabit, when all other illustrations have kids? can you also show some movement of curvature in the trampoline, its flat now
+R19:  | Artboard 11 | Escapre Velocity | Ok. Love the comic strip like line you have written. Maybe we can do that for the rest too
+R20:  | Artboard 12 | Buoyancy | Ok. Can we put the downward arrow also below the water, so it represents pull and doesnt look like a push from above?
+R21:  | Artboard 13 | Normal Force | Ok. Again, the gravity arrow below ground, so it doesnt look like a push. Why is he wearing a space helmet?
+R22:  | Artboard 14 | Magnetic Energy Variation | Prefer the Artboard 9
+R23:  | Artboard 15 | Physical Work -->  COG | You have marked it for physical work. But it is more suitable for COG
+R24:  | Artboard 4 | Physical Work | Not clear what's happening, why its work. it looks like a boy inside a car, but walking it . Please redo a new illustration for physical work
+R25:  | Artboards 16 & 1 | COG | Not clear. Please use Artboard 15 for COG.
+R27:  | Summary
+R28:  | 1.  Need to see in colours to understand better
+R29:  | 2. White/beige background looks very uninteresting now
+R30:  | 3. Need to rework illsutration for Physical Work
+R31:  | 4. Add comic strip like lines to the other 12 like in Escape Velocity
+R32:  | 5. A small icon in one corner - Can we rethink that?
+R34:  | Write the winning firce card name on the activity card
+R38:  | Added Rule - Players must take the opportunity, if they have the cards, as with the other gravity wells

@@ -746,11 +746,11 @@
       "t": "mcq",
       "q": "Why must both tumblers get the same amount of baking soda?",
       "options": [
-       "So only the liquid is different",
        "So both tumblers fizz",
-       "So the pans dry faster"
+       "So the pans dry faster",
+       "So only the liquid is different"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A fair test changes one thing. Here the one thing is the liquid. If you chose 'so both tumblers fizz', remember that water and baking soda do not fizz at all."
      },
      "parent": "Keep the two spare heaps on the plate. One is for the drop test later. Do the stirring on a tray, because the vinegar tumbler froths up.",
@@ -794,11 +794,11 @@
       "t": "mcq",
       "q": "A white crust does not fizz when vinegar is dropped on it. What does that tell you?",
       "options": [
-       "It is not baking soda",
        "It is very old baking soda",
+       "It is not baking soda",
        "The vinegar has run out"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Baking soda always fizzes in vinegar. A powder that does not fizz is a different substance. If you chose 'the vinegar has run out', remember that the same vinegar made the fresh heap fizz."
      },
      "parent": "In most homes the fresh heap and the water crust fizz at once. The vinegar crust only gets wet and starts to dissolve. If the vinegar crust fizzes a little, some baking soda was left over. That means step 3 needed more vinegar.",
@@ -1175,11 +1175,11 @@
       "t": "mcq",
       "q": "Which of these is a sign of a reaction?",
       "options": [
-       "Bubbles appear when two things are mixed",
        "Salt disappears in water",
-       "Tea gets paler when water is added"
+       "Tea gets paler when water is added",
+       "Bubbles appear when two things are mixed"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A gas that appears on mixing is one of the five signs. Salt in water has only dissolved, and tea with more water has only been spread out. If you chose one of those, ask whether the same substance is still there."
      },
      "parent": "Mixes 1, 4 and 6 are reactions. Mixes 2, 3 and 5 are not. A sign is only a clue. In the After the Fizz experiment, you check by drying a liquid and testing the powder that is left.",
@@ -1607,12 +1607,12 @@
      "t": "mcq",
      "p": "What is a chemical reaction?",
      "opts": [
-      "A change that makes new substances",
       "Any change that makes bubbles",
+      "A change that makes new substances",
       "A change of shape or size",
       "Any change caused by heat"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A chemical reaction turns substances into new substances with different properties. Bubbles and heat can also come with changes that make nothing new, such as boiling.",
      "outcome": 0
     },
@@ -1711,12 +1711,12 @@
      "t": "mcq",
      "p": "Which gas is in the bubbles when vinegar meets baking soda?",
      "opts": [
-      "Oxygen",
       "Carbon dioxide",
+      "Oxygen",
       "Steam",
       "Hydrogen"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The bubbles are carbon dioxide, one of the three products. If you chose steam, remember that nothing was heated.",
      "outcome": 1
     },
@@ -1725,11 +1725,11 @@
      "p": "Which two things does iron need in order to rust?",
      "opts": [
       "Heat and light",
-      "Salt and sand",
       "Oxygen and water",
+      "Salt and sand",
       "Nitrogen and dust"
      ],
-     "a": 2,
+     "a": 1,
      "why": "Rust forms when iron reacts with oxygen and water. Salt makes rusting faster, but iron rusts without it.",
      "outcome": 4
     },
@@ -1791,11 +1791,11 @@
      "p": "A tumbler of vinegar gets cooler when baking soda fizzes in it. Why?",
      "opts": [
       "Bubbles are always cold",
+      "The reaction takes in heat",
       "Baking soda is kept in the fridge",
-      "The steel loses its shine",
-      "The reaction takes in heat"
+      "The steel loses its shine"
      ],
-     "a": 3,
+     "a": 1,
      "why": "This reaction takes heat in from the liquid and the tumbler, so they cool down. Burning does the opposite and gives heat out.",
      "outcome": 6
     },
@@ -1833,12 +1833,12 @@
      "t": "mcq",
      "p": "Salt seems to disappear in water. How could you show that the salt is still there?",
      "opts": [
-      "Let the water dry and look for salt",
       "Stir for much longer",
+      "Let the water dry and look for salt",
       "Add more salt",
       "Shake the tumbler hard"
      ],
-     "a": 0,
+     "a": 1,
      "why": "When the water dries, the same salt is left behind. That shows the salt only dissolved, and no new substance was made.",
      "outcome": 3
     },
@@ -2034,12 +2034,12 @@
      "t": "mcq",
      "p": "Four iron atoms and six oxygen atoms react to make rust. How many atoms are in the rust?",
      "opts": [
-      "Ten",
       "Two",
       "Six",
-      "Twenty-four"
+      "Twenty-four",
+      "Ten"
      ],
-     "a": 0,
+     "a": 3,
      "why": "4 and 6 make 10. A reaction regroups atoms and loses none. If you chose two, you counted the groups of rust and not the atoms.",
      "outcome": 5
     },
@@ -2069,12 +2069,12 @@
      "t": "mcq",
      "p": "Two clear liquids are mixed, and nothing can be seen to change. What can you say?",
      "opts": [
-      "No reaction happened",
       "A reaction may or may not have happened",
+      "No reaction happened",
       "A reaction certainly happened",
       "The liquids have vanished"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Some reactions show no sign that eyes can see. To find out, you would test what the mixture does. A sign is only a clue, and not seeing a sign does not prove that nothing happened either.",
      "outcome": 2
     },
@@ -2147,11 +2147,11 @@
      "p": "Why is no gold made when lead is heated with other substances?",
      "opts": [
       "The fire is never hot enough",
-      "Gold is too heavy to make",
       "Reactions cannot change one atom into another",
+      "Gold is too heavy to make",
       "Lead and gold never touch"
      ],
-     "a": 2,
+     "a": 1,
      "why": "A reaction only regroups atoms. Lead atoms stay lead atoms. Alchemists tried for about two thousand years and never made gold.",
      "outcome": 5
     },
@@ -2230,12 +2230,12 @@
    "t": "mcq",
    "p": "In a word equation, what does the arrow mean?",
    "opts": [
-    "Is the same as",
     "React and make",
+    "Is the same as",
     "Is bigger than",
     "Mix and stir"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The reactants are on the left and the products on the right. The arrow says that the reactants react and make the products.",
    "outcome": 1
   },
@@ -2245,10 +2245,10 @@
    "opts": [
     "Oxygen and vinegar",
     "Rust and water",
-    "Carbon dioxide, water and a salt",
-    "Baking soda and steam"
+    "Baking soda and steam",
+    "Carbon dioxide, water and a salt"
    ],
-   "a": 2,
+   "a": 3,
    "why": "The gas is carbon dioxide. Water and a salt called sodium acetate stay behind in the liquid.",
    "outcome": 1
   },
@@ -2257,11 +2257,11 @@
    "p": "Which of these is not a sign of a reaction?",
    "opts": [
     "A gas appears",
+    "A solid dissolves and disappears",
     "The colour changes",
-    "The mix warms up by itself",
-    "A solid dissolves and disappears"
+    "The mix warms up by itself"
    ],
-   "a": 3,
+   "a": 1,
    "why": "Dissolving makes no new substance, and the solid comes back when the liquid dries. The other three are signs.",
    "outcome": 2
   },
@@ -2269,12 +2269,12 @@
    "t": "mcq",
    "p": "A fizzy drink bubbles when the bottle is opened. Why is this not proof of a reaction?",
    "opts": [
-    "The gas was already dissolved in the drink",
     "Bubbles are never a sign",
     "The drink is too cold to react",
-    "Only solids can react"
+    "Only solids can react",
+    "The gas was already dissolved in the drink"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The gas was pushed into the drink at the factory and comes out when the cap is opened. No new substance is made, so bubbles alone prove nothing.",
    "outcome": 2
   },
@@ -2309,11 +2309,11 @@
    "p": "Why does a coat of zinc stop a steel bucket from rusting?",
    "opts": [
     "It makes the bucket heavier",
+    "It keeps oxygen and water off the iron",
     "It keeps the bucket cold",
-    "It soaks up all the rust",
-    "It keeps oxygen and water off the iron"
+    "It soaks up all the rust"
    ],
-   "a": 3,
+   "a": 1,
    "why": "Iron rusts only where oxygen and water reach it. The zinc coat covers the iron. This is called galvanising.",
    "outcome": 4
   },
@@ -2321,12 +2321,12 @@
    "t": "mcq",
    "p": "Six atoms go into a chemical reaction. How many atoms come out?",
    "opts": [
-    "Six",
     "Fewer than six",
+    "Six",
     "More than six",
     "None"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A reaction regroups atoms. It does not make or destroy any, so six go in and six come out.",
    "outcome": 5
   },
@@ -2335,11 +2335,11 @@
    "p": "Why does an open bowl get lighter while vinegar and baking soda fizz in it?",
    "opts": [
     "Atoms are destroyed",
-    "Carbon dioxide gas leaves the bowl",
     "The vinegar dries up at once",
+    "Carbon dioxide gas leaves the bowl",
     "Baking soda weighs nothing"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The gas has weight, and it floats away. No atom is destroyed. If the gas were caught, the total weight would stay the same.",
    "outcome": 5
   },
@@ -2362,10 +2362,10 @@
    "opts": [
     "Iron and oxygen make rust",
     "Sodium and chlorine make salt",
-    "Quicklime and water make chuna",
-    "Sugar and oxygen make carbon dioxide and water"
+    "Sugar and oxygen make carbon dioxide and water",
+    "Quicklime and water make chuna"
    ],
-   "a": 3,
+   "a": 2,
    "why": "Your cells react sugar with the oxygen you breathe in. The reaction gives the energy you use to move, think and keep warm.",
    "outcome": 7
   }
@@ -2682,6 +2682,79 @@
     "g1"
    ],
    "plan": "After Reaction Families, look up the reactants on the cards, such as sodium, chlorine and silver. See what each one looks like before reacting."
+  },
+  {
+   "id": "b-a-bar-magnet-or-two--and-a-f",
+   "item": "A bar magnet or two, and a few small magnets",
+   "kind": "tool",
+   "why": "Used in The Rust Survey: ten iron things and how each one is protected. About ₹50 to ₹200. A fridge magnet is a weak substitute for some tests.",
+   "url": "https://www.amazon.in/s?k=bar+magnet+school",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before The Rust Survey: ten iron things and how each one is protected."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Rust Uses Up Air: how far will the water climb?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before Rust Uses Up Air: how far will the water climb?."
+  },
+  {
+   "id": "b-baking-soda",
+   "item": "Baking soda",
+   "kind": "material",
+   "why": "Used in After the Fizz: is the baking soda still there?, Six Mixes, Five Signs: which mixes make something new?, Cold Fizz: can your hands feel a reaction?. About ₹20 to ₹40. Check the kitchen first.",
+   "url": "https://www.amazon.in/s?k=baking+soda",
+   "used_in": [
+    "e1",
+    "a1",
+    "a2",
+    "c1"
+   ],
+   "plan": "Get it before After the Fizz: is the baking soda still there?."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in Atom Swap: make water and rust without losing an atom. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before Atom Swap: make water and rust without losing an atom."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in Rust Uses Up Air: how far will the water climb?, The Self-Filling Bag: firm in 30 seconds, with no burst. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "e2",
+    "c1"
+   ],
+   "plan": "Get it before Rust Uses Up Air: how far will the water climb?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

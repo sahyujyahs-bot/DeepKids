@@ -661,11 +661,11 @@
       "t": "mcq",
       "q": "Glass has no grain. What does that mean?",
       "options": [
-       "It is made of fibres lying one way",
        "It is about the same in every direction",
+       "It is made of fibres lying one way",
        "It is weak"
       ],
-      "a": 1,
+      "a": 0,
       "why": "No grain means no direction. The property is about the same whichever way you test it. It does not mean the material is weak. Glass is stiff. 'Made of fibres lying one way' describes a material with a grain, such as wood."
      },
      "context": "In this step, you play eight cards and start scoring."
@@ -722,11 +722,11 @@
      "p": "A strip of newspaper tears straight when you pull it from top to bottom, and crookedly from side to side. What does this show?",
      "opts": [
       "The paper has been damaged",
-      "The paper has a grain, so it behaves differently in different directions",
       "Tearing is always random",
-      "The top of the paper is thicker than the sides"
+      "The top of the paper is thicker than the sides",
+      "The paper has a grain, so it behaves differently in different directions"
      ],
-     "a": 1,
+     "a": 3,
      "why": "A tear follows the direction in which most fibres lie. Straight one way and crooked the other shows that the paper is not the same in every direction. If the paper were damaged, or if tearing were random, the result would change each time. But it repeats.",
      "outcome": 0
     },
@@ -824,12 +824,12 @@
      "t": "mcq",
      "p": "A tailor wants a strip of cloth to bend smoothly round a curved neckline. How should she cut it from a woven cloth?",
      "opts": [
+      "On the slant, along the bias",
       "Along the threads",
       "It makes no difference",
-      "Across the threads",
-      "On the slant, along the bias"
+      "Across the threads"
      ],
-     "a": 3,
+     "a": 0,
      "why": "Woven cloth stretches most on the slant, because the threads swing to a new angle without stretching. Along the threads, the strip hardly stretches and would not bend round a curve.",
      "outcome": 1
     },
@@ -887,12 +887,12 @@
      "t": "mcq",
      "p": "A paper clip is bent back and forth and snaps after a few bends. Each bend is the same size. Which idea explains this?",
      "opts": [
+      "Tiny cracks grow a little with every bend, until the wire is too thin to hold",
       "The metal changes into a different metal",
       "Each bend is bigger than the one before",
-      "Tiny cracks grow a little with every bend, until the wire is too thin to hold",
       "The paper clip gets heavier with each bend"
      ],
-     "a": 2,
+     "a": 0,
      "why": "Each bend does a small amount of damage inside the metal. Tiny cracks start and lengthen until the wire snaps. This is called fatigue. The bends are the same size, and the metal does not become another metal.",
      "outcome": 6
     },
@@ -991,11 +991,11 @@
      "p": "A wooden plank is made twice as thick, with the same length and width. About how much harder is it to bend?",
      "opts": [
       "About a hundred times as hard",
-      "About the same",
       "About eight times as hard",
+      "About the same",
       "About twice as hard"
      ],
-     "a": 2,
+     "a": 1,
      "why": "For a plank bending under a load, the stiffness grows with the cube of the thickness. The cube of 2 is two times two times two, which is eight. So a plank twice as thick is about eight times stiffer. Picking twice as hard counts the extra material, but forgets how much further it sits from the middle.",
      "outcome": 3
     },
@@ -1004,11 +1004,11 @@
      "p": "A rubber band can stretch a long way and soak up a lot of energy before it breaks, yet it is not stiff. Which word fits the rubber band best?",
      "opts": [
       "Brittle",
-      "Stiff",
       "Tough",
+      "Stiff",
       "Hard"
      ],
-     "a": 2,
+     "a": 1,
      "why": "Tough means able to take in a lot of energy before breaking. A rubber band does that by stretching. Stiff means hard to bend, which a rubber band is not. Brittle means breaking suddenly with little bending, which is the opposite.",
      "outcome": 5
     },
@@ -1108,10 +1108,10 @@
      "opts": [
       "The cloth is too thick to stretch",
       "The cloth is made of rubber",
-      "The threads are not joined at all",
-      "The pull goes straight into strong threads that hardly stretch"
+      "The pull goes straight into strong threads that hardly stretch",
+      "The threads are not joined at all"
      ],
-     "a": 3,
+     "a": 2,
      "why": "Each thread is strong and does not stretch much. Pulling along the threads pulls on the threads themselves. On the slant, the pull turns the threads instead, and the cloth gets longer without stretching its threads.",
      "outcome": 1
     },
@@ -1119,12 +1119,12 @@
      "t": "mcq",
      "p": "A plank is used as a short shelf, but with its grain running across the shelf, not along it. It snaps under a few books. Why?",
      "opts": [
-      "The cells are too strong",
       "A pull across the grain pulls the cells apart, and the glue between the cells is weak",
+      "The cells are too strong",
       "The wood is the wrong colour",
       "Planks cannot hold books"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Wood is made of long cells held side by side by a weaker glue. A force along the cells pulls on the strong walls. A force across them pulls on the weak glue, so the wood splits.",
      "outcome": 2
     },
@@ -1201,10 +1201,10 @@
      "opts": [
       "Metal never changes",
       "The load was too heavy to carry once",
-      "Fatigue: tiny cracks grow a little with each turn",
-      "The axle was too thick"
+      "The axle was too thick",
+      "Fatigue: tiny cracks grow a little with each turn"
      ],
-     "a": 2,
+     "a": 3,
      "why": "Each turn bends the axle slightly, and tiny cracks grow. After a million turns they can reach all the way through. August Wöhler counted turns to failure in the 1800s and showed that smaller loads take many more turns.",
      "outcome": 6
     },
@@ -1259,12 +1259,12 @@
      "t": "mcq",
      "p": "Board A is made of four layers of newspaper, all with the grain the same way. In board B, every second layer is turned across. Which statement is most likely?",
      "opts": [
+      "Board B droops about the same along and across, and board A droops differently along and across",
       "Board A droops about the same in both directions",
       "Board B cannot be tested",
-      "Both boards droop exactly the same in every direction",
-      "Board B droops about the same along and across, and board A droops differently along and across"
+      "Both boards droop exactly the same in every direction"
      ],
-     "a": 3,
+     "a": 0,
      "why": "In board B, the turned layers are strong across where the other layers are weak, so the board is more even. In board A, all the layers share the same weak direction, so the board stays uneven.",
      "outcome": 4,
      "how": "p1"
@@ -1281,12 +1281,12 @@
      "t": "mcq",
      "p": "A shelf of one kind of wood is 2 centimetres thick and sags 8 millimetres under a load. A shelf of the same wood, length and width, but 4 centimetres thick, carries the same load. About how much will it sag?",
      "opts": [
-      "About 1 millimetre",
       "About 4 millimetres",
       "About 8 millimetres",
+      "About 1 millimetre",
       "About 16 millimetres"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Doubling the thickness makes the shelf about eight times stiffer. So it sags about eight times less. 8 millimetres divided by 8 is 1 millimetre.",
      "outcome": 3
     },
@@ -1301,12 +1301,12 @@
      "t": "mcq",
      "p": "Which question is the best one to ask before you choose a plank for a small wooden bridge?",
      "opts": [
-      "Which way does the grain run, and which way will the load pull?",
       "How old is the plank's label?",
       "What colour is the plank?",
+      "Which way does the grain run, and which way will the load pull?",
       "Is the plank shiny?"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The strength of a plank depends on the direction of the pull compared with the direction of the grain. Colour and shine tell you nothing about how it will carry a load.",
      "outcome": 0
     },
@@ -1471,12 +1471,12 @@
      "t": "mcq",
      "p": "Which of these can scientists NOT yet do reliably?",
      "opts": [
+      "Predict from its atoms alone exactly how long a particular steel bridge part will last",
       "Measure how far a strip of cloth stretches",
       "Split bamboo along its length",
-      "Make plywood",
-      "Predict from its atoms alone exactly how long a particular steel bridge part will last"
+      "Make plywood"
      ],
-     "a": 3,
+     "a": 0,
      "why": "Real materials have tiny cracks, mixed ingredients and crystal edges that are very hard to calculate. People can make plywood and measure a stretch, but a full prediction from atoms alone is still beyond us.",
      "outcome": 7
     }
@@ -1585,11 +1585,11 @@
       "t": "mcq",
       "q": "Which tear ran straighter, and what does that tell you?",
       "options": [
-       "The straight tear shows the way most fibres lie, so it marks the grain",
        "The straight tear shows the paper is stronger that way",
-       "Both tears should be the same, so one of them is a mistake"
+       "Both tears should be the same, so one of them is a mistake",
+       "The straight tear shows the way most fibres lie, so it marks the grain"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A tear runs most easily between lines of fibres, so it goes straight where the fibres lie in a line. The straight tear marks the grain. It does not show strength. A tear that is not the same both ways is not a mistake. It is the result."
      },
      "context": "In this step, you tear newspaper in two directions and compare the tears."
@@ -1924,11 +1924,11 @@
       "t": "mcq",
       "q": "Why do we use the same size of bend for all three wires in a group?",
       "options": [
+       "So that only one thing changes between the two groups",
        "So that the wires stay clean",
-       "So that all the wires snap at once",
-       "So that only one thing changes between the two groups"
+       "So that all the wires snap at once"
       ],
-      "a": 2,
+      "a": 0,
       "why": "In a fair test, you change one thing and keep the rest the same. If the bends were different sizes within a group, you could not say that the size of the bend caused the difference. Snapping at once or staying clean has no link to the test."
      },
      "context": "In this step, you test three wires with small bends and count the bends until each snaps."
@@ -2063,11 +2063,11 @@
       "t": "mcq",
       "q": "The leaf tore easily along its veins, but not across them. What does that show?",
       "options": [
+       "The veins run in lines, and the leaf splits between them",
        "The leaf is the same in every direction",
-       "The leaf is old and weak",
-       "The veins run in lines, and the leaf splits between them"
+       "The leaf is old and weak"
       ],
-      "a": 2,
+      "a": 0,
       "why": "A leaf with parallel veins splits between them, where only the thin leaf tissue holds the sides together. It is not old or weak. If the leaf were the same in every direction, it would tear the same way each time."
      },
      "context": "In this step, you test the celery and the banana leaf."
@@ -2191,11 +2191,11 @@
       "t": "mcq",
       "q": "The strip with the flutes along its length sagged much less. Why?",
       "options": [
+       "The flutes work like a row of little arches along the strip",
        "The bottle weighs less on that strip",
-       "The strip with flutes along is thicker",
-       "The flutes work like a row of little arches along the strip"
+       "The strip with flutes along is thicker"
       ],
-      "a": 2,
+      "a": 0,
       "why": "The flutes make the cardboard stiff along their length, because the waves hold the two flat layers apart. The two strips came from the same box and have the same thickness. The bottle weighs the same on both."
      },
      "context": "In this step, you test both strips as bridges and measure the sag."
@@ -2310,11 +2310,11 @@
       "t": "mcq",
       "q": "The zigzag bridge carried far more coins than the flat sheet. The paper was the same. What changed?",
       "options": [
-       "The kind of paper",
        "The shape, which put some of the paper far from the middle",
+       "The kind of paper",
        "The amount of paper"
       ],
-      "a": 1,
+      "a": 0,
       "why": "All four sheets were the same paper and the same size. The folded shape makes the sheet stiffer, because paper far from the middle does most of the work in a bend. The amount and kind of paper did not change."
      },
      "context": "In this step, you load each bridge with coins and count how many it carries."
@@ -2402,11 +2402,11 @@
       "t": "mcq",
       "q": "A plywood board has five layers. Why do most plywood boards have an odd number of layers?",
       "options": [
-       "So that it is cheaper",
        "So that the board is balanced and does not curl",
+       "So that it is cheaper",
        "Because odd numbers are stronger"
       ],
-      "a": 1,
+      "a": 0,
       "why": "With an odd number of layers, the layers on the two faces have their grain the same way, so the board is balanced and stays flat. The cost and the idea that odd numbers are stronger are not the reasons."
      },
      "context": "In this step, you count the layers and draw their grain directions.",
@@ -2543,11 +2543,11 @@
       "t": "mcq",
       "q": "In board B, why do we turn every second layer across the others?",
       "options": [
-       "So that the weak direction of one layer is covered by the strong direction of another",
        "So that the glue goes further",
-       "So that the board is thicker"
+       "So that the board is thicker",
+       "So that the weak direction of one layer is covered by the strong direction of another"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A layer is weaker across its grain. If every second layer is turned, its strong direction lies across the weak direction of the others. The amount of glue and the thickness do not change when you turn a layer."
      },
      "context": "In this step, you glue the two boards."
@@ -2732,12 +2732,12 @@
    "t": "mcq",
    "p": "Which sentence best describes a material that has a grain?",
    "opts": [
-    "It behaves differently when pulled in different directions",
     "It is always brown",
     "It is always made of wood",
-    "It is always weak"
+    "It is always weak",
+    "It behaves differently when pulled in different directions"
    ],
-   "a": 0,
+   "a": 3,
    "why": "A grain is a direction in the material, set by fibres, cells, threads or layers lying in lines. Colour and kind of material do not decide it. Picking 'weak' mixes up direction with strength.",
    "outcome": 0
   },
@@ -2759,11 +2759,11 @@
    "p": "Why does a bamboo stick split so easily along its length?",
    "opts": [
     "Bamboo is soft all through",
-    "Its strong fibres run along it, and little holds the sides together",
     "Bamboo is full of water",
-    "Bamboo has no fibres"
+    "Bamboo has no fibres",
+    "Its strong fibres run along it, and little holds the sides together"
    ],
-   "a": 1,
+   "a": 3,
    "why": "Bamboo is packed with fibres lying along the stem. A split follows the gaps between them. A force across the fibres has to break them. Picking 'soft all through' misses that the direction matters.",
    "outcome": 2
   },
@@ -2771,12 +2771,12 @@
    "t": "mcq",
    "p": "Two bridges are made from identical sheets of paper. One is flat and sags under a coin. The other is rolled into a tube and carries many coins. What is the best explanation?",
    "opts": [
+    "The shape of the tube is stiffer, though the paper is the same",
     "Coins weigh less on a tube",
     "The tube is made of a stronger paper",
-    "The tube has more paper",
-    "The shape of the tube is stiffer, though the paper is the same"
+    "The tube has more paper"
    ],
-   "a": 3,
+   "a": 0,
    "why": "The paper is the same. Rolling it puts the paper far from the middle, where it does the most work against a bend. A property of the object, its stiffness, changed. The property of the material did not.",
    "outcome": 3
   },
@@ -2784,12 +2784,12 @@
    "t": "mcq",
    "p": "Why is plywood less likely to split along one line than a plank?",
    "opts": [
-    "The layers cross, so each covers the weak direction of the next",
     "It is made without glue",
     "It is made of harder wood",
+    "The layers cross, so each covers the weak direction of the next",
     "It is lighter"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Each layer of plywood has its grain turned across the one below. Where one layer would split, the next holds. Glue holds the layers together, but it is not the reason for the evenness.",
    "outcome": 4
   },
@@ -2797,12 +2797,12 @@
    "t": "mcq",
    "p": "A glass tumbler is stiff, yet a small knock can shatter it. Which word describes glass best?",
    "opts": [
+    "Brittle, not tough",
     "Elastic",
     "Tough and flexible",
-    "Brittle, not tough",
     "Soft"
    ],
-   "a": 2,
+   "a": 0,
    "why": "Glass takes in very little energy before it breaks, so it is not tough. It does not bend much first, so it is brittle. Stiff, tough and strong are different properties.",
    "outcome": 5
   },
@@ -2812,10 +2812,10 @@
    "opts": [
     "Evaporation",
     "Magnetism",
-    "Fatigue",
-    "Friction"
+    "Friction",
+    "Fatigue"
    ],
-   "a": 2,
+   "a": 3,
    "why": "Fatigue is damage that builds up when a material is loaded again and again. Each bend lengthens tiny cracks, until the wire cannot hold.",
    "outcome": 6
   },
@@ -2845,10 +2845,10 @@
    "opts": [
     "Make a material that has no atoms",
     "Choose any property they like with no testing",
-    "Arrange layers, fibres and holes so that the material does something new",
-    "Make a material that is the same as any other"
+    "Make a material that is the same as any other",
+    "Arrange layers, fibres and holes so that the material does something new"
    ],
-   "a": 2,
+   "a": 3,
    "why": "Designers can build the inside, for example with layers in plywood or hinged shapes in an auxetic foam. They cannot yet choose any property they like, and every new design needs testing.",
    "outcome": 7
   },
@@ -2856,12 +2856,12 @@
    "t": "mcq",
    "p": "Which question can scientists still not answer reliably?",
    "opts": [
-    "Exactly how long a particular steel part will last, worked out from its atoms alone",
     "Whether bamboo has a grain",
     "Which way a banana leaf tears",
+    "Exactly how long a particular steel part will last, worked out from its atoms alone",
     "How to make plywood"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Real materials have cracks, mixed ingredients and crystal edges that are hard to calculate, so tests on real samples are still needed. The other questions have clear answers.",
    "outcome": 7
   },
@@ -3193,6 +3193,56 @@
     "e1"
    ],
    "plan": "Read a chapter on paper or steel on a weekend, after the paper tests."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Which Way Does It Tear? Paper has a grain, The Tailor's Trick: which way does cloth stretch?, The Cardboard Bridge: flutes along or flutes across?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e2",
+    "a2",
+    "p1"
+   ],
+   "plan": "Get it before Which Way Does It Tear? Paper has a grain."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in The Cardboard Bridge: flutes along or flutes across?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Get it before The Cardboard Bridge: flutes along or flutes across?."
+  },
+  {
+   "id": "b-marbles--a-few",
+   "item": "Marbles (a few)",
+   "kind": "material",
+   "why": "Used in Paper Bridges: flat, folded or rolled?. About ₹10 to ₹40. Small round stones or dried chana.",
+   "url": "https://www.amazon.in/s?k=glass+marbles+pack",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before Paper Bridges: flat, folded or rolled?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

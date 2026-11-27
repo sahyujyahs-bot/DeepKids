@@ -1,9 +1,9 @@
 # Galaxies and the Big Bang: the universe is growing, and it had a beginning
 `sci.story-of-universe.galaxies-and-big-bang.L3`
 
-**Summary.** Far galaxies are moving away from us faster than near ones. Does that put us at the centre of the universe? In this unit you will draw bindis on a balloon and blow it up to find out, tilt a spiral to see its shapes, and make a universe calendar on the wall.
+**Summary.** Far galaxies are moving away from us faster than near ones. Does that put us at the centre of the universe? In this lesson you will draw bindis on a balloon and blow it up to find out, tilt a spiral to see its shapes, and make a universe calendar on the wall.
 
-**Intro.** *Astronomers have found that almost every galaxy in the sky is moving away from us. Does that mean we are at the centre of the universe?* In this unit you stick bindis on a balloon and blow it bigger, to see how things move when the space between them grows. You meet the shapes that galaxies come in, and test how one galaxy can look like different shapes. You find out how Henrietta Leavitt and Edwin Hubble showed that our Milky Way is one galaxy among very many. And you learn why looking far away means looking back in time.
+**Intro.** *Astronomers have found that almost every galaxy in the sky is moving away from us. Does that mean we are at the centre of the universe?* In this lesson you stick bindis on a balloon and blow it bigger, to see how things move when the space between them grows. You meet the shapes that galaxies come in, and test how one galaxy can look like different shapes. You find out how Henrietta Leavitt and Edwin Hubble showed that our Milky Way is one galaxy among very many. And you learn why looking far away means looking back in time.
 
 ## Learning outcomes
 0. I can say what a galaxy is, and name the main shapes: spiral, barred spiral, elliptical and irregular.
@@ -429,7 +429,7 @@ Periamma had been listening from the doorway. 'That is exactly what astronomers 
 ### c1 · A Universe with No Centre (30 min)
 - **problem:** Make a model, from things at home, that shows three things at once. Far galaxies move apart more than near ones. There is no centre. And the galaxies themselves do not grow.
 - **your turn:** Now make your own model. Test it on someone in your family. Can they find all three things without your help?
-- **constraints:** Use only things you have at home.; Someone who has not done this unit must be able to see all three things in your model.; You must be able to explain it in 5 sentences or fewer.
+- **constraints:** Use only things you have at home.; Someone who has not done this lesson must be able to see all three things in your model.; You must be able to explain it in 5 sentences or fewer.
 - **general:** A balloon with bindis stuck on it, blown bigger.; Elastic with dots on it, stretched.; A stretchy cloth with buttons stitched or taped on, pulled from all sides.
 - **creative:** Take a phone photo of some dots and zoom in on it with two fingers. Every dot moves away from every other dot. But the dots also get bigger, so this model gets one thing wrong. Can you find it?; Use a stretchy cloth pulled by four people at four corners, so it stretches in every direction at once.; Draw dots on paper, then draw the same dots on a bigger sheet with every gap doubled.
 - **s1 (5 min)**  
@@ -449,7 +449,7 @@ Periamma had been listening from the doorway. 'That is exactly what astronomers 
 ## Worksheets
 ### Galaxies and the Growing Universe (core) (core, 15 questions)
 1. (mcq) What is a galaxy?  
-   Options: A huge group of stars, gas and dust, held together by gravity / One very bright star / A cloud in the Earth's air / Another name for the Solar System  
+   Options: One very bright star / A cloud in the Earth's air / A huge group of stars, gas and dust, held together by gravity / Another name for the Solar System  
    **Answer:** A huge group of stars, gas and dust, held together by gravity. *Why:* A galaxy holds billions of stars. Through a small telescope a galaxy looks like a faint cloud, which is why people once called galaxies nebulae, from the Latin word for clouds.
 2. (truefalse) The Milky Way is the only galaxy there is.  
    **Answer:** False. *Why:* False. In 1923 Edwin Hubble showed that Andromeda is a separate galaxy far outside ours. There are hundreds of billions of galaxies in the part of the universe we can see.
@@ -462,7 +462,7 @@ Periamma had been listening from the doorway. 'That is exactly what astronomers 
 6. (sort) Sort these. Is each one a galaxy, or a single star?  
    **Answer:** the Andromeda galaxy → A galaxy; the Sun → A single star; the Milky Way → A galaxy; Sirius, the brightest star at night → A single star; the Whirlpool → A galaxy; the Pole Star → A single star. *Why:* A galaxy is billions of stars together. The Sun, Sirius and the Pole Star are single stars inside our own galaxy, the Milky Way.
 7. (mcq) Scientists say the universe was very hot and packed together at the start. About how long ago was that?  
-   Options: About 6,000 years ago / About 4.6 billion years ago / About 13.8 billion years ago / Never. It has always been the same.  
+   Options: About 6,000 years ago / About 4.6 billion years ago / Never. It has always been the same. / About 13.8 billion years ago  
    **Answer:** About 13.8 billion years ago. *Why:* About 13.8 billion years ago. If you picked 4.6 billion, that is when the Sun and Earth formed, much later. The idea that the universe has always been the same was the steady state theory, and the leftover glow found in 1965 showed it was wrong.
 8. (draw) Draw a spiral galaxy, an elliptical galaxy and an irregular galaxy. Write the name under each one.  
    **Answer:** The spiral has a bright middle and curling arms. The elliptical is a smooth oval with no arms. The irregular is a patchy cloud with no clear shape.. *Why:* Drawing them side by side shows how each shape is different.
@@ -487,14 +487,14 @@ Periamma had been listening from the doorway. 'That is exactly what astronomers 
 1. (write) In the Tilt the Spiral test, the paper plate looked round, then oval, then like a thin line. Why might an astronomer think a spiral galaxy seen from the side is a different kind of galaxy?  
    **Answer:** From the side, you cannot see the spiral arms. The galaxy looks like a thin line with a bump, not a spiral. So you could think it is a different shape.. *Why:* A strong answer says what is hidden from the side (the arms) and what can still give it away (the bulge or a dark line of dust).
 2. (mcq) In the Tilt the Spiral experiment, you turn an orange round in your hand. What shape do you see from every side?  
-   Options: Always a circle / A thin line from the side / An oval from the top  
+   Options: A thin line from the side / Always a circle / An oval from the top  
    **Answer:** Always a circle. *Why:* A ball looks round from every side. Elliptical galaxies are more like balls, so their shape changes little with direction. A disc, like the plate, changes a lot.
 3. (order) Put these in order, from the one whose light set off most recently to the one whose light set off longest ago.  
    **Answer:** order shown. *Why:* Just over 1 second for the Moon, about 8 minutes for the Sun, about 26,000 years for the Milky Way's centre, about 2.5 million years for Andromeda, and more than 13 billion years for the furthest galaxies.
 4. (fill) A light-year is how far light travels in one ____.  
    **Answer:** ['year']. *Why:* A light-year is a distance, about 9.5 million million kilometres, even though it has the word 'year' in it.
 5. (mcq) Some stars get brighter and dimmer again and again. The brighter such a star really is, the slower it blinks. Two of these stars blink at the same speed, but one looks much fainter. What does that tell you?  
-   Options: The fainter one is much further away / The fainter one is smaller and closer / They are both inside the Solar System  
+   Options: The fainter one is smaller and closer / They are both inside the Solar System / The fainter one is much further away  
    **Answer:** The fainter one is much further away. *Why:* Same blink speed means they are really just as bright. If one looks fainter, it must be further away. Timing the blinks lets you work out how far away a star is.
 6. (write) In 1948, Fred Hoyle said the universe never changes: as galaxies move apart, new matter quietly appears to fill the gaps. Why could his idea not explain the faint glow found in 1965?  
    **Answer:** The glow is light left over from a time when the whole universe was hot and packed together. In Hoyle's universe there never was such a time, because it was always the same. So there would be nothing to leave a glow behind.. *Why:* A strong answer says what the glow is left over from, and why a never-changing universe has no such time.
@@ -516,7 +516,7 @@ Periamma had been listening from the doorway. 'That is exactly what astronomers 
 14. (write) The Webb telescope has seen galaxies whose light set off more than 13 billion years ago. Why do these galaxies help us learn about the early universe?  
    **Answer:** We see them as they were more than 13 billion years ago, when the universe was young. So they show us what galaxies were like near the beginning.. *Why:* A strong answer says that far light is old light, so far galaxies are pictures of the past.
 15. (mcq) In 1923, Edwin Hubble timed a Cepheid star in Andromeda. It blinked every 31 days but looked very faint. What did this show?  
-   Options: Andromeda is far outside the Milky Way / Andromeda is inside the Milky Way / The star was broken / Andromeda is very close to the Sun  
+   Options: Andromeda is inside the Milky Way / The star was broken / Andromeda is far outside the Milky Way / Andromeda is very close to the Sun  
    **Answer:** Andromeda is far outside the Milky Way. *Why:* A Cepheid that blinks every 31 days is really very bright. It looked faint, so it had to be very far away. That put Andromeda outside our galaxy.
 ### Beginnings and Edges (challenge) (challenge, 15 questions)
 1. (write) In the Bindi Balloon experiment, only the rubber skin stood for space. The air inside the balloon and the room outside were not part of the model. Why does this matter when you use the balloon to think about the universe?  
@@ -539,7 +539,7 @@ Periamma had been listening from the doorway. 'That is exactly what astronomers 
 9. (write) Someone says: 'Space is stretching, so my house must be stretching too.' What would you tell them?  
    **Answer:** Your house does not stretch. The stretching only shows across the huge gaps between groups of galaxies. Close by, the forces holding things together are far stronger. In the Bindi Balloon experiment, the bindis did not get bigger either.. *Why:* A strong answer uses the bindis as evidence and names what holds things together.
 10. (mcq) If the whole universe is stretching, like the bindi balloon, what pattern would you expect between how far away a galaxy is and how fast it moves away?  
-   Options: The further away a galaxy is, the faster it moves away / The nearer a galaxy is, the faster it moves away / All galaxies move away at the same speed / Galaxies are not moving at all  
+   Options: The nearer a galaxy is, the faster it moves away / All galaxies move away at the same speed / Galaxies are not moving at all / The further away a galaxy is, the faster it moves away  
    **Answer:** The further away a galaxy is, the faster it moves away. *Why:* When everything stretches, there is more stretching space between you and a far galaxy than a near one. So far galaxies move away faster. This is just what the bindis on the balloon did, and it is what astronomers measure.
 11. (order) Put these in the order they happened, starting with the earliest.  
    **Answer:** order shown. *Why:* On the one-year calendar: 1 January, early January, about 1 September, late September, 30 December, and 31 December just before midnight.
@@ -561,37 +561,37 @@ Periamma had been listening from the doorway. 'That is exactly what astronomers 
 
 ## Quiz
 1. (mcq) What is the Milky Way?  
-   Options: Our galaxy, the one our Sun is in / A cloud of milky gas near the Earth / The path of the Moon across the sky / Another name for the Andromeda galaxy  
+   Options: A cloud of milky gas near the Earth / The path of the Moon across the sky / Another name for the Andromeda galaxy / Our galaxy, the one our Sun is in  
    **Answer:** Our galaxy, the one our Sun is in. *Why:* The Milky Way is our galaxy. From a dark place we see part of it as a faint band of light, made of the light of billions of stars.
 2. (mcq) Which kind of galaxy is a smooth oval of stars, with no arms?  
-   Options: Elliptical / Spiral / Barred spiral / Irregular  
+   Options: Spiral / Elliptical / Barred spiral / Irregular  
    **Answer:** Elliptical. *Why:* Elliptical galaxies are smooth ovals or balls of mostly old stars. Spirals and barred spirals have arms. Irregular galaxies have no clear shape.
 3. (mcq) Almost every galaxy is moving away from us. Does that mean we are at the centre of the universe?  
-   Options: Yes, everything moves away from the centre / No, from any galaxy, the others would seem to move away / Yes, because the Milky Way is the biggest galaxy  
+   Options: No, from any galaxy, the others would seem to move away / Yes, everything moves away from the centre / Yes, because the Milky Way is the biggest galaxy  
    **Answer:** No, from any galaxy, the others would seem to move away. *Why:* In the Bindi Balloon experiment, the other bindis moved away from every bindi. In the same way, from every galaxy the others seem to move away, so no galaxy is the centre. The Milky Way is not the biggest galaxy either.
 4. (mcq) Why are galaxies far apart moving away from each other?  
-   Options: The space between them is stretching / They are running away from a giant black hole / A wind in space pushes them / They are falling towards the Sun  
+   Options: They are running away from a giant black hole / A wind in space pushes them / They are falling towards the Sun / The space between them is stretching  
    **Answer:** The space between them is stretching. *Why:* The galaxies are not being pushed. The space between them is growing, like the rubber between the bindis on the balloon.
 5. (mcq) What was the Big Bang?  
-   Options: The time, about 13.8 billion years ago, when the universe was very hot and packed together, before it stretched out / A huge bomb that exploded at one spot in space / The noise a star makes when it explodes / The crash when two galaxies meet  
+   Options: A huge bomb that exploded at one spot in space / The noise a star makes when it explodes / The time, about 13.8 billion years ago, when the universe was very hot and packed together, before it stretched out / The crash when two galaxies meet  
    **Answer:** The time, about 13.8 billion years ago, when the universe was very hot and packed together, before it stretched out. *Why:* The Big Bang was not an explosion at one spot, and it made no sound. It was the hot, packed start of the universe, which has been stretching and cooling ever since.
 6. (mcq) Which of these is a clue that the universe had a hot beginning?  
-   Options: A faint glow of microwaves reaches us from every direction / Stars twinkle / The Moon changes shape / Galaxies have different shapes  
+   Options: Stars twinkle / The Moon changes shape / Galaxies have different shapes / A faint glow of microwaves reaches us from every direction  
    **Answer:** A faint glow of microwaves reaches us from every direction. *Why:* The faint glow, found in 1965, is light left from when the whole universe was hot. Twinkling comes from our air, and the Moon's shape comes from where it is lit by the Sun.
 7. (mcq) Light from the Andromeda galaxy set off about 2.5 million years ago. So when you see Andromeda, what are you seeing?  
    Options: Andromeda as it was 2.5 million years ago / Andromeda as it is tonight / A reflection of the Milky Way  
    **Answer:** Andromeda as it was 2.5 million years ago. *Why:* Light takes time to travel, so we always see faraway things as they were when their light set off.
 8. (mcq) A galaxy is twice as far away as Andromeda. Compared with Andromeda's light, when did this galaxy's light set off?  
-   Options: About twice as long ago / At the same time / More recently  
+   Options: At the same time / More recently / About twice as long ago  
    **Answer:** About twice as long ago. *Why:* Twice as far means the light took about twice as long to arrive, so it set off about twice as long ago, around 5 million years.
 9. (mcq) In 1965, Arno Penzias and Robert Wilson heard a faint hiss in their radio antenna. They cleaned out pigeon droppings, but the hiss stayed. What was the hiss?  
-   Options: A faint glow left over from the hot early universe / Radio from a nearby city / The sound of the Sun / Pigeons nesting in the antenna  
+   Options: Radio from a nearby city / The sound of the Sun / A faint glow left over from the hot early universe / Pigeons nesting in the antenna  
    **Answer:** A faint glow left over from the hot early universe. *Why:* The hiss came from every direction, day and night. It was the leftover glow from when the whole universe was hot, which Ralph Alpher and Robert Herman had predicted in 1948.
 10. (mcq) Far galaxies are all moving apart, so the universe is growing. If you ran time backwards, what would the universe have been like long ago?  
-   Options: Tiny, packed close together and very hot / Just the same size as today / Bigger and colder than today  
+   Options: Just the same size as today / Tiny, packed close together and very hot / Bigger and colder than today  
    **Answer:** Tiny, packed close together and very hot. *Why:* If everything is moving apart now, then going back in time brings it all closer. Long ago it must have been packed tight, and packed things get hot.
 11. (mcq) What came before the Big Bang?  
-   Options: Nobody knows yet / An earlier universe, for certain / Nothing at all, for certain / A giant star  
+   Options: An earlier universe, for certain / Nothing at all, for certain / A giant star / Nobody knows yet  
    **Answer:** Nobody knows yet. *Why:* Scientists have ideas, but none has been tested. Some think time began with the Big Bang. Others think an earlier universe came first.
 
 ## Applications
@@ -606,7 +606,7 @@ Periamma had been listening from the doorway. 'That is exactly what astronomers 
 - The Milky Way, as a faint glowing band across the sky, on a clear night far from city lights, for example in a village or during a long power cut.
 - The Andromeda galaxy, a faint grey smudge high up in the eastern sky on November evenings, from a dark place only.
 - A swirl of milk in a tumbler of filter coffee, which looks like a spiral galaxy. The coffee's spiral forms in a different way.
-- The 30 big dishes of the Giant Metrewave Radio Telescope near Narayangaon in Pune district, which pick up radio waves from far galaxies.
+- A picture of big radio telescope dishes, which pick up radio waves from far galaxies.
 - Galaxy photos in the newspaper when a telescope such as AstroSat or Webb makes a new find.
 
 ## Open questions
@@ -657,6 +657,12 @@ Every Galaxy Moving Apart (sci.story-of-universe.L3): Topic-level song for The s
 
 ## Things to buy
 - [A packet of round balloons](https://www.amazon.in/s?k=round+balloons) (material): For the Bindi Balloon experiment and the No Centre challenge. Any shop that sells party things has them. Light colours show the bindis best. Buy a few spare, in case one bursts. Used in e1, c1. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in Stretch the Elastic: does every mark move the same?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in a3. Get it before Stretch the Elastic: does every mark move the same?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Bindi Balloon: do far bindis move away faster than near ones?, A Grain of Sand of Sky: count the galaxies in one tiny patch, Stretch the Elastic: does every mark move the same?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a1, a3, c1. Get it before The Bindi Balloon: do far bindis move away faster than near ones?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Tilt the Spiral: can one galaxy look like different shapes?. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in e2. Get it before Tilt the Spiral: can one galaxy look like different shapes?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Tilt the Spiral: can one galaxy look like different shapes?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e2. Get it before Tilt the Spiral: can one galaxy look like different shapes?.
+- [Butter paper or tracing paper](https://www.amazon.in/s?k=butter+paper+roll) (material): Used in A Grain of Sand of Sky: count the galaxies in one tiny patch. About ₹30 to ₹80 for a roll. Thin clean plastic bag or a sheet of waxed paper. Used in a1. Get it before A Grain of Sand of Sky: count the galaxies in one tiny patch.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is a galaxy? → A huge group of stars, gas and dust, held together by gravity.

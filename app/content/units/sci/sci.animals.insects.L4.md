@@ -1,9 +1,9 @@
 # Ant and bee colonies, and how insects pollinate flowers and recycle waste
 `sci.animals.insects.L4`
 
-**Summary.** Without insects, many of the foods in your kitchen would not grow, and dead things would pile up. How do insects do this work? In this unit you will find which foods needed an insect, test whether hairy or smooth carriers move more pollen, and time ants clearing crumbs.
+**Summary.** Without insects, many of the foods in your kitchen would not grow, and dead things would pile up. How do insects do this work? In this lesson you will find which foods needed an insect, test whether hairy or smooth carriers move more pollen, and time ants clearing crumbs.
 
-**Intro.** *A bee lands on a pumpkin flower, drinks and flies away. Some weeks later a pumpkin hangs where that flower was. The bee came for a drink. So how did her visit make a pumpkin?* The bee is hairy, and yellow pollen from the flower stuck to her hairs. At the next pumpkin flower, some of that pollen rubbed off. A flower needs pollen from another flower before seeds and a fruit can grow. The bee was collecting food for her colony, which is her family of thousands of sisters. In this unit you find out how a colony lives. You test why a hairy body carries pollen so well. You also watch another kind of insect work: ants clearing crumbs from your floor.
+**Intro.** *A bee lands on a pumpkin flower, drinks and flies away. Some weeks later a pumpkin hangs where that flower was. The bee came for a drink. So how did her visit make a pumpkin?* The bee is hairy, and yellow pollen from the flower stuck to her hairs. At the next pumpkin flower, some of that pollen rubbed off. A flower needs pollen from another flower before seeds and a fruit can grow. The bee was collecting food for her colony, which is her family of thousands of sisters. In this lesson you find out how a colony lives. You test why a hairy body carries pollen so well. You also watch another kind of insect work: ants clearing crumbs from your floor.
 
 ## Learning outcomes
 0. I can say who lives in an ant colony or a bee colony, and what each member does.
@@ -16,6 +16,7 @@
 7. I can say what harms insect pollinators and recyclers, and name one thing my family can do.
 
 ## Terms
+- **Antenna (plural: antennae)**: One of the two thin feelers on an insect's head. An insect smells and touches with them. *e.g.* Two ants meet on a wall and touch antennae, to find out whether they belong to the same colony.
 - **Social insect**: An insect who lives in a large family that shares one nest and shares the work. *e.g.* Ants, honeybees and termites are social insects. A housefly lives alone.
 - **Colony**: One family of social insects living in one nest. It can hold a few dozen members or many thousands. *e.g.* All the ants walking in one line on your kitchen wall belong to one colony.
 - **Queen**: The mother of the colony. She lays the eggs. *e.g.* A honeybee queen can lay more than 1,000 eggs in one day.
@@ -34,6 +35,13 @@
 - **Pest**: A name people give to an animal who eats or spoils something people want. *e.g.* A fly is called a pest in a kitchen. The same fly pollinates mango flowers in an orchard.
 
 ## Explanations
+### What makes an insect an insect · *defined*
+**Definition:** An insect is an animal with six legs, which are three pairs, and one pair of antennae. Many have wings.
+
+Look closely at an ant on the wall. Count its legs. There are six, in three pairs, and all are joined to the middle part of its body. On its head, it has one pair of antennae. Antennae are two thin feelers that smell and touch the world. Many insects have wings. A fly has one pair, and a grasshopper has two pairs. The front pair of a grasshopper is thin and tough, like a cover for the back pair. Worker ants have no wings. A spider has eight legs and no antennae, so a spider is not an insect. Honeybees, ants, flies and grasshoppers are insects. In this lesson, you will see what some insects do for us, and what they need from us.
+- e.g. An ant with six legs and two thin antennae on a kitchen wall
+- e.g. A housefly with one pair of clear wings
+- e.g. A grasshopper in a field with two pairs of wings, the front pair thin and tough
 ### A colony is one large family · *defined*
 **Definition:** A colony is a family of social insects who share one nest. It has one or a few queens who lay eggs, many workers who do the work, and the young.
 
@@ -100,10 +108,17 @@ A green blowfly lays her eggs on a dead fish or a dead rat. Her maggots eat it a
 ### What harms insect workers, and what helps them · *defined*
 **Definition:** Insects are harmed by poison sprays, by the loss of flowers and nesting places, and by bright lights at night. They are helped by flowers, by unsprayed places and by darkness.
 
-A pesticide is a poison used to kill insects who eat crops. Most pesticides also kill bees, flies and ants, and the insects who hunt the crop-eaters. Some pesticides do not kill a bee at once. They harm her memory, so that she cannot find her way home. A colony needs flowers in every month of the year. When a field grows only one crop, there are flowers for two weeks and then none. Street lights pull moths away from the flowers they would pollinate at night. In 63 nature reserves in Germany, scientists weighed the flying insects they caught each year. After 27 years the weight had fallen by about three quarters. There are few such counts from India, so nobody knows the full picture here. Some farmers use insects in place of poison. Fruit growers in China have put weaver ant nests in their orange trees for about 1,700 years. The ants hunt the insects who eat the fruit. A family can help by growing flowering plants, and by never spraying a plant that is in flower.
+A pesticide is a poison used to kill insects who eat crops. Most pesticides also kill bees, flies and ants, and the insects who hunt the crop-eaters. Some pesticides do not kill a bee at once. They harm her memory, so that she cannot find her way home. A colony needs flowers in every month of the year. When a field grows only one crop, there are flowers for two weeks and then none. Street lights pull moths away from the flowers they would pollinate at night. In 63 nature reserves in Germany, scientists weighed the flying insects they caught each year. After 27 years the weight had fallen by about three quarters. There are few such counts from India, so nobody knows the full picture here. Some farmers use insects in place of poison. Fruit growers in China have put weaver ant nests in their orange trees for about 1,700 years. The ants hunt the insects who eat the fruit. A family can help by growing flowering plants, and by never spraying a plant that is in flower. Trees help too, because they are homes. A mango tree gives shade and shelter. Weaver ants stitch their nests in its leaves, and a crow or a myna can build a nest in its branches. A squirrel runs along them. Cutting down a tree takes away all these homes at once.
 - e.g. A tulsi or curry leaf plant left to flower on a balcony, with small bees on it.
 - e.g. A farmer who sprays in the evening, after the bees have gone home, and never on open flowers.
 - e.g. A weaver ant nest left in a mango tree, because the ants hunt fruit-eating insects.
+### Pests: when insects and animals eat the crop · *defined*
+**Definition:** A pest eats or spoils a crop. A farmer can guard a crop in ways that do not poison the pollinators.
+
+Insects such as caterpillars and aphids eat leaves and suck sap. Bigger animals also eat crops. In north India, the neel gai, a large blue-grey antelope, walks into wheat and mustard fields at night. Monkeys raid fruit and maize. A farmer who loses her crop loses her year's food and money, so she must keep watch. Some ways are safe for bees. She can pick caterpillars off by hand. She can spray neem, a mix made from crushed neem seeds, on leaves in the evening, when the bees have gone home. She can hang yellow sticky cards to catch small flying insects. She can leave weaver ants in the trees, because they hunt fruit-eating insects. For neel gai and monkeys, a fence, a net or a night watch works better than any spray, since they are not insects. Spraying neem on open flowers can still harm bees, so spray only the leaves.
+- e.g. A farmer picking caterpillars off cabbage leaves by hand, then spraying neem on the leaves in the evening
+- e.g. A family taking turns to watch a wheat field at night, because neel gai come in the dark
+- e.g. A yellow sticky card hung among brinjal plants to catch whiteflies
 ### Are honeybees enough, or do crops need wild pollinators too? · *debated*
 **Definition:** Farmers and scientists agree that crops need pollinators. They disagree about how far kept honeybees can replace wild insects.
 
@@ -166,10 +181,10 @@ In the Hairy or Smooth test you carried haldi from box to box on a cotton bud. I
 - *what is life:* Living beings feed on each other and pass material on. A dead moth becomes young ants, and a fallen leaf becomes soil for a new plant.
 - *what is this world:* Pollinating and recycling go on around you every day. Nobody orders this work and nobody pays for it, and all our food depends on it.
 
-A flower cannot walk to another flower, and a bee cannot make sugar from sunlight. Each has what the other lacks. Flowers and insects have lived together for more than 100 million years, and each has shaped the other's body. Many wise teachers taught that all beings share one life in many forms. This unit shows a similar idea in a practical way. A mango is made by a tree, a fly and the recyclers in the soil, all working together.
+A flower cannot walk to another flower, and a bee cannot make sugar from sunlight. Each has what the other lacks. Flowers and insects have lived together for more than 100 million years, and each has shaped the other's body. Many wise teachers taught that all beings share one life in many forms. This lesson shows a similar idea in a practical way. A mango is made by a tree, a fly and the recyclers in the soil, all working together.
 
 - **Brihadaranyaka Upanishad 2.5.1:** “इयं पृथिवी सर्वेषां भूतानां मधु / अस्यै पृथिव्यै सर्वाणि भूतानि मधु” This part of the text is called the honey teaching. It says: this earth is honey for all beings, and all beings are honey for this earth. (The Sanskrit word is madhu, which means honey. The teaching says that each thing feeds the others and is fed by them. A flower feeds a bee, and the bee's visit starts the flower's seeds.)
-- **Dhammapada, verse 49:** “Yathāpi bhamaro pupphaṁ, / vaṇṇagandhamaheṭhayaṁ; / Paleti rasamādāya, / evaṁ gāme munī care.” A bee takes nectar from a flower and flies away without harming the flower's colour or scent. A wise person should go through a village in the same way. (The verse holds up the bee as someone who takes without harming. This unit adds something the verse does not say: the flower gains from the visit.)
+- **Dhammapada, verse 49:** “Yathāpi bhamaro pupphaṁ, / vaṇṇagandhamaheṭhayaṁ; / Paleti rasamādāya, / evaṁ gāme munī care.” A bee takes nectar from a flower and flies away without harming the flower's colour or scent. A wise person should go through a village in the same way. (The verse holds up the bee as someone who takes without harming. This lesson adds something the verse does not say: the flower gains from the visit.)
 - **Thich Nhat Hanh, The Heart of Understanding (1988):** Look deeply at a sheet of paper, and you can see the cloud, the rain and the tree in it. He called this interbeing. (Look at a mango in the same way. The fly who carried the pollen is in the mango. So is the dead fish that fed the fly when she was young.)
 - Science (settled): Nearly nine in ten kinds of flowering plant are pollinated by animals, and most of those animals are insects.
 - Science (debated): Some scientists call an ant or bee colony a superorganism, one living body made of many animals. Others say this hides the fact that each insect senses and chooses for herself.
@@ -520,12 +535,12 @@ That night she opened her notebook again. She crossed out 'Others' and wrote 'Fl
   - Check: Why can a carpenter bee get pollen from a brinjal flower when a honeybee cannot? → **She shakes the flower by buzzing**
 
 ## Worksheets
-### Colonies, pollination and recycling (core, 15 questions)
+### Colonies, pollination and recycling (core, 16 questions)
 1. (mcq) Who lays the eggs in a honeybee colony?  
-   Options: The queen / The workers / The drones / The larvae  
+   Options: The workers / The drones / The larvae / The queen  
    **Answer:** The queen. *Why:* The queen is the mother of the colony, and laying eggs is her work. Drones are males who only mate. Larvae are the young.
 2. (mcq) The worker ants in one line on a wall are mostly what to each other?  
-   Options: Sisters / Strangers / Brothers / Mothers and daughters  
+   Options: Strangers / Brothers / Mothers and daughters / Sisters  
    **Answer:** Sisters. *Why:* Workers are daughters of the same queen, so they are sisters. If you chose brothers, remember that worker ants are female.
 3. (fill) The moving of pollen from an anther to a stigma is called ____.  
    **Answer:** ['pollination']. *Why:* Pollination must happen before a flower can grow seeds and fruit.
@@ -542,13 +557,13 @@ That night she opened her notebook again. She crossed out 'Others' and wrote 'Fl
 9. (order) Put these steps in order, to show how a queen ant starts a colony.  
    **Answer:** ['She flies out after rain and mates', 'She lands and breaks off her wings', 'She digs a hole and seals herself in', 'She lays eggs and feeds the first larvae from her own body', 'Her first daughters open the nest and bring food']. *Why:* The queen does everything alone until her first daughters grow up. After that the workers feed her, and she only lays eggs.
 10. (mcq) In the Hairy or Smooth test, why did each carrier get three rows of boxes?  
-   Options: One try can be a fluke / To use up the haldi / To make the paper yellow / Because an insect has three body parts  
+   Options: To use up the haldi / One try can be a fluke / To make the paper yellow / Because an insect has three body parts  
    **Answer:** One try can be a fluke. *Why:* One row might come out odd by chance. If three rows give similar counts, the result can be trusted more.
 11. (mcq) Which insect's young clear away dead animals?  
-   Options: A blowfly / A honeybee / A butterfly / A carpenter bee  
+   Options: A honeybee / A blowfly / A butterfly / A carpenter bee  
    **Answer:** A blowfly. *Why:* A blowfly lays eggs on a dead body, and her maggots eat the body. Young honeybees eat pollen and honey, and caterpillars eat leaves.
 12. (mcq) What does a worker bee carry home in the baskets on her back legs?  
-   Options: Pollen / Honey / Wax / Water  
+   Options: Honey / Wax / Water / Pollen  
    **Answer:** Pollen. *Why:* She packs pollen into baskets of stiff hairs on her back legs. Pollen is the protein food that makes larvae grow. Nectar is carried inside her body.
 13. (write) Explain in two sentences how a bee pollinates a pumpkin flower while she collects food.  
    **Answer:** The bee crawls into a pumpkin flower for nectar, and pollen from the anthers sticks to her hairs. At the next pumpkin flower some of that pollen rubs off on the sticky stigma.. *Why:* A strong answer says three things. The bee comes for food, pollen sticks to her body, and the pollen rubs off on another flower's stigma.
@@ -556,18 +571,20 @@ That night she opened her notebook again. She crossed out 'Others' and wrote 'Fl
    **Answer:** Ants could not cross the water, so paper B had crumbs and no ants. It kept all its crumbs. That showed the ants took the crumbs from paper A.. *Why:* A strong answer says that paper B shows what happens with no ants. Then the ants are the only difference between the two papers.
 15. (draw) Draw a bee visiting two flowers. Use arrows to show where pollen is picked up and where it is left.  
    **Answer:** Two flowers of the same kind with a bee between them. One arrow goes from the anthers of the first flower to the bee, labelled 'picked up'. One arrow goes from the bee to the stigma of the second flower, labelled 'left here'.. *Why:* A strong drawing shows pollen leaving an anther and arriving on a stigma. The bee is the carrier in between.
-### Why insects are good at this work (stretch, 15 questions)
+16. (sort) Sort these animals into 'insect' and 'not an insect'. Count the legs to help you.  
+   **Answer:** an ant with six legs → Insect; a spider with eight legs → Not an insect; a housefly → Insect; a scorpion with eight legs → Not an insect; a grasshopper → Insect. *Why:* Insects have six legs. Spiders and scorpions have eight legs, so they are not insects.
+### Why insects are good at this work (stretch, 17 questions)
 1. (mcq) Why does a hairy insect carry more pollen than a smooth one?  
-   Options: Pollen catches among the hairs / Hairs make pollen / Hairs smell sweet / Smooth insects fly faster  
+   Options: Hairs make pollen / Hairs smell sweet / Pollen catches among the hairs / Smooth insects fly faster  
    **Answer:** Pollen catches among the hairs. *Why:* Pollen grains are held in the gaps between hairs and come off a little at a time. A smooth body holds pollen only on its surface.
 2. (mcq) A bee visits twenty sunflowers in a row and no other flower. What is this habit called?  
-   Options: Flower constancy / Buzz pollination / Swarming / Scavenging  
+   Options: Buzz pollination / Swarming / Scavenging / Flower constancy  
    **Answer:** Flower constancy. *Why:* Flower constancy means keeping to one kind of flower on one trip. It takes sunflower pollen to sunflowers, where it can work.
 3. (mcq) A brinjal flower keeps its pollen in closed tubes. Which visitor can shake it out?  
-   Options: A carpenter bee / A honeybee / A butterfly / An ant  
+   Options: A honeybee / A carpenter bee / A butterfly / An ant  
    **Answer:** A carpenter bee. *Why:* A carpenter bee grips the flower and buzzes, and the shaking throws the pollen out. Honeybees, butterflies and ants do not buzz flowers.
 4. (mcq) A worker bee lives about six weeks. Why is her colony still there a year later?  
-   Options: New workers hatch every day / The queen does all the work / The workers sleep all winter / Old workers grow young again  
+   Options: The queen does all the work / New workers hatch every day / The workers sleep all winter / Old workers grow young again  
    **Answer:** New workers hatch every day. *Why:* The queen lays eggs every day in the warm months, and new workers replace those who die. The colony goes on while its members change.
 5. (truefalse) Termites are a kind of ant.  
    **Answer:** False. *Why:* False. Termites are close relatives of cockroaches. Ants are close relatives of wasps and bees. A termite colony has a king as well as a queen.
@@ -592,18 +609,22 @@ That night she opened her notebook again. She crossed out 'Others' and wrote 'Fl
    **Answer:** Any view with a reason. One reason is that flies really do carry germs to uncovered food. Another is that most visitors to mango flowers in many orchards are flies. A third is that maggots clear dead animals in days.. *Why:* Each person is right about something. A strong answer uses a fact from the unit and deals fairly with the other side. One fair way is to keep flies off food without killing them everywhere.
 15. (label) Label three things in this flower: an anther, the stigma, and the place where the nectar is.  
    **Answer:** ['An anther: one of the small knobs that make pollen', 'The stigma: the sticky tip that catches pollen', 'Where the nectar is: at the bottom of the flower, at the base of the petals']. *Why:* The nectar is deepest. So a visitor passes the anthers and the stigma on the way down and on the way out.
-### Testing, counting and deciding (challenge, 15 questions)
+16. (truefalse) Every insect has wings.  
+   **Answer:** False. *Why:* False. Flies and grasshoppers have wings, but worker ants have none. Insects are the animals with six legs and one pair of antennae.
+17. (match) Match each animal to how it uses a mango tree.  
+   **Answer:** Weaver ants → stitch a nest from the leaves; A crow → builds a nest in the branches; A honeybee → drinks nectar from the flowers. *Why:* A tree can shelter some animals and feed others. Weaver ants and crows use it as a home, and a honeybee uses its flowers for food.
+### Testing, counting and deciding (challenge, 16 questions)
 1. (mcq) A farmer ties fine net bags over some of her pumpkin flowers. What is she testing?  
-   Options: Whether insects are needed for fruit / Whether flowers need sunlight / Whether nets keep rain off / Whether pumpkins like shade  
+   Options: Whether flowers need sunlight / Whether nets keep rain off / Whether pumpkins like shade / Whether insects are needed for fruit  
    **Answer:** Whether insects are needed for fruit. *Why:* A fine net keeps insects out and lets in light and air. If the bagged flowers make no pumpkins and the open ones do, insects were needed.
 2. (mcq) Most kinds of crop gain from pollinators, but most food by weight does not. Why?  
-   Options: People eat huge amounts of wind-pollinated grains / Insect-pollinated foods weigh almost nothing / The scientists counted wrongly / Insects eat most of the fruit  
+   Options: Insect-pollinated foods weigh almost nothing / The scientists counted wrongly / Insects eat most of the fruit / People eat huge amounts of wind-pollinated grains  
    **Answer:** People eat huge amounts of wind-pollinated grains. *Why:* Rice, wheat and maize are only three kinds of crop, but people eat them in enormous amounts. So a count by kind and a count by weight give different answers.
 3. (mcq) In the Clean-up Count, a graph of crumbs left stays flat for 5 minutes. What does the flat part show?  
-   Options: No ant had taken a crumb yet / The ants were tired / The crumbs were too heavy / The clock had stopped  
+   Options: The ants were tired / No ant had taken a crumb yet / The crumbs were too heavy / The clock had stopped  
    **Answer:** No ant had taken a crumb yet. *Why:* A flat line means the number of crumbs did not change. At the start, no ant has found the food, or one ant has only just arrived.
 4. (mcq) A huge field grows one crop that flowers for two weeks. What problem does a bee colony face there?  
-   Options: No flowers for the rest of the year / Too much honey / Too many queens / Flowers that are too big  
+   Options: Too much honey / Too many queens / No flowers for the rest of the year / Flowers that are too big  
    **Answer:** No flowers for the rest of the year. *Why:* A colony must eat in every month. After the two weeks of flowers, the bees find nothing nearby. Mixed plants that flower at different times feed them all year.
 5. (truefalse) If all bees vanished, humans would have no food at all.  
    **Answer:** False. *Why:* False. Rice, wheat, maize, potatoes and bananas need no insect pollinator. People would lose many fruits, nuts, vegetables and spices, and the diet would be much poorer.
@@ -627,6 +648,8 @@ That night she opened her notebook again. She crossed out 'Others' and wrote 'Fl
    **Answer:** Any choice with a reason. One reason is that a study of 600 fields found wild insects raised harvests in every crop. Another is that mango is pollinated mostly by flies, which no bee box supplies. A third is that spraying on open flowers kills every kind of pollinator.. *Why:* All three pieces of advice can work together. A strong answer picks one, supports it with a fact, and sees what the others would add.
 15. (draw) Draw the inside of an ant nest or a honeybee nest. Show and label the queen, workers, larvae and the food store.  
    **Answer:** An ant nest has tunnels and rooms in soil. A large queen is in one room, and small white larvae are in a nursery room. Workers carry food, and one room holds stored seeds or dead insects. A honeybee nest is a wax comb with honey cells at the top and larvae in the middle. The long queen and many workers are on the comb.. *Why:* A strong drawing shows that the nest has different places for different things: young in one part, food in another, and workers moving between them.
+16. (match) Match each crop problem to a way of guarding the crop that does not poison bees.  
+   **Answer:** Neel gai in a wheat field at night → a fence or a night watch; Caterpillars on cabbage → picking them off by hand; Small flying insects on brinjal → a yellow sticky card. *Why:* Each problem has its own answer. Neel gai are large animals, so a fence or a watch works. Caterpillars can be picked off, and sticky cards trap small flying insects. None of these poison bees.
 
 ## Videos
 - **Buzz pollination in slow motion: a bee shaking pollen out of a flower** (, 3 min) id `J7q9Kn1rhRc`: To see and hear a bee grip a flower and buzz until the pollen showers out. The Buzz Flower challenge copies this. *Check:* Found by YouTube search: Slo-Mo Footage of a Bumble Bee Dislodging Pollen, Smithsonian Channel Title checked automatically; a parent may still preview it.
@@ -641,34 +664,43 @@ That night she opened her notebook again. She crossed out 'Others' and wrote 'Fl
    Options: Laying eggs / Giving orders / Finding food / Guarding the entrance  
    **Answer:** Laying eggs. *Why:* The queen is the mother, and she lays the eggs. She does not give orders. The workers find food, guard the nest and feed her.
 3. (mcq) How does a new honeybee colony usually begin?  
-   Options: The old queen leaves with a swarm / One worker walks away alone / Eggs blow away on the wind / The drones build a new nest  
+   Options: One worker walks away alone / The old queen leaves with a swarm / Eggs blow away on the wind / The drones build a new nest  
    **Answer:** The old queen leaves with a swarm. *Why:* The old queen flies off with about half the workers, and the bees who stay raise a new queen. A worker alone cannot start a colony.
 4. (mcq) What is pollination?  
-   Options: Pollen moving from an anther to a stigma / A bee making honey / A seed falling to the ground / A flower opening its petals  
+   Options: A bee making honey / A seed falling to the ground / Pollen moving from an anther to a stigma / A flower opening its petals  
    **Answer:** Pollen moving from an anther to a stigma. *Why:* Pollination is the journey of pollen from where it is made to the sticky tip that catches it. Honey-making happens later, in the hive.
 5. (mcq) Which part of a flower catches pollen?  
    Options: The stigma / The anther / The petal / The stalk  
    **Answer:** The stigma. *Why:* The stigma is sticky and catches pollen. If you chose the anther, remember that the anther makes pollen and gives it away.
 6. (mcq) Which result of a Hairy or Smooth test shows that a hairy carrier holds more pollen?  
-   Options: The cotton bud marks far more boxes / Both carriers mark the same number / The pen marks more boxes / The haldi changes colour  
+   Options: Both carriers mark the same number / The cotton bud marks far more boxes / The pen marks more boxes / The haldi changes colour  
    **Answer:** The cotton bud marks far more boxes. *Why:* The cotton bud holds powder between its threads and lets it out box after box. The smooth pen runs out after one or two boxes.
 7. (mcq) Why does a bee visit a flower?  
-   Options: To collect nectar and pollen as food / To help the flower make seeds / To rest in the shade / To lay her eggs  
+   Options: To help the flower make seeds / To rest in the shade / To collect nectar and pollen as food / To lay her eggs  
    **Answer:** To collect nectar and pollen as food. *Why:* A bee visits flowers to feed herself and her colony. The flower is pollinated because pollen sticks to her and rubs off at the next flower.
 8. (mcq) Which of these foods needs no insect pollinator?  
-   Options: Rice / Mango / Pumpkin / Cardamom  
+   Options: Mango / Pumpkin / Rice / Cardamom  
    **Answer:** Rice. *Why:* Rice is a grass, and wind carries its pollen. Mango, pumpkin and cardamom all set fruit after insects visit their flowers.
 9. (truefalse) Honeybees are the only insects that pollinate crops.  
    **Answer:** False. *Why:* False. Carpenter bees, stingless bees, flies, moths, butterflies and beetles all pollinate. Flies are main pollinators of mango, and midges pollinate cocoa.
 10. (mcq) Which insects turn a dead branch back into soil?  
-   Options: Termites / Honeybees / Butterflies / Hawkmoths  
+   Options: Honeybees / Butterflies / Termites / Hawkmoths  
    **Answer:** Termites. *Why:* Termites eat dead wood, with the help of microbes and fungi. The other three feed at flowers.
 11. (mcq) When ants clear crumbs, why do the crumbs go faster after a slow start?  
-   Options: More ants follow the first ant's trail / The crumbs get lighter / The ants get hungrier / The floor gets warmer  
+   Options: The crumbs get lighter / The ants get hungrier / The floor gets warmer / More ants follow the first ant's trail  
    **Answer:** More ants follow the first ant's trail. *Why:* At first only one ant knows about the food. She leaves a scent trail, more ants follow, and many crumbs are carried at once.
 12. (mcq) Which of these helps pollinators most?  
-   Options: Never spraying a plant in flower / Killing every fly outdoors / Cutting down flowering trees / Keeping bright lights on all night  
+   Options: Killing every fly outdoors / Cutting down flowering trees / Never spraying a plant in flower / Keeping bright lights on all night  
    **Answer:** Never spraying a plant in flower. *Why:* Insects come to open flowers, so a spray on flowers poisons the very insects the plant needs. The other three all harm pollinators.
+13. (mcq) Anita counts the legs on a beetle. How many legs does an insect have?  
+   Options: Four, in two pairs / Six, in three pairs / Eight, in four pairs  
+   **Answer:** Six, in three pairs. *Why:* Every insect has six legs, in three pairs. Eight legs belong to a spider, and a spider is not an insect.
+14. (mcq) What do the weaver ants and the crow in a mango tree both get from the tree?  
+   Options: A place to live and be safe / Pollen to eat / A wax comb  
+   **Answer:** A place to live and be safe. *Why:* A tree gives shelter. The ants stitch nests in the leaves, and the crow builds in the branches. The ants do not eat pollen from the tree, and wax comb is made by honeybees.
+15. (mcq) A farmer finds caterpillars on her cabbage. Which choice is safest for bees?  
+   Options: Spraying a strong poison on the open flowers / Picking the caterpillars off by hand / Spraying neem on the flowers at noon  
+   **Answer:** Picking the caterpillars off by hand. *Why:* Picking by hand harms no bee. A strong poison on open flowers kills bees. Even neem should go only on leaves, in the evening, when bees are not there.
 
 ## Applications
 - Apple growers in Himachal Pradesh and Kashmir rent bee boxes when their trees flower. More flowers are pollinated, so more apples form.
@@ -740,6 +772,10 @@ Fast Lives, Slow Lives (sci.animals.L4): Topic-level song
 ## Things to buy
 - [A small magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): To see an ant carrying a crumb, or the hairs on a dead bee or fly. The experiments work without one, so buy it only if you want to. Used in e2. 
 - [The Bee Book, by Charlotte Milner (2018)](https://www.amazon.in/s?k=The+Bee+Book+Charlotte+Milner) (book): For the child: clear pictures of the inside of a hive, of pollination and of what harms bees. Used in e1. After the Hairy or Smooth test, read the pages on how a bee carries pollen.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Hairy or Smooth: which carrier takes pollen to more flowers?, From One Queen: draw the first year of an ant colony, Jumping Pollen: can pollen cross a gap without being touched?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a3, a4. Get it before Hairy or Smooth: which carrier takes pollen to more flowers?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Clean-up Count: how fast do ants clear 20 crumbs?, The Kitchen Shelf Test: which foods needed an insect?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e2, a1. Get it before The Clean-up Count: how fast do ants clear 20 crumbs?.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Jumping Pollen: can pollen cross a gap without being touched?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in a4. Get it before Jumping Pollen: can pollen cross a gap without being touched?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Who lays the eggs in an ant or bee colony? → The queen.
@@ -758,7 +794,7 @@ Fast Lives, Slow Lives (sci.animals.L4): Topic-level song
 
 ## Sources
 - Founder's notebook, Biology list, items 275 to 280: entomology, insect anatomy, social insects (ants, bees, termites), pollination biology, and pest biology and control. Insect anatomy is covered in sci.animals.insects.L2 and sci.animals.invertebrates.L4, so it is used here only for the hairs, pollen baskets and wax.
-- The Class 2 unit sci.animals.insects.L2 was read so that nothing repeats. It has leg counting, the Crumb Test with four crumb sizes, the Bee Dance game and the story The Crumb That Walked. This unit goes on to colonies, pollination and recycling, with new experiments, games and a new story.
+- The Class 2 unit sci.animals.insects.L2 was read so that nothing repeats. It has leg counting, the Crumb Test with four crumb sizes, the Bee Dance game and the story The Crumb That Walked. This lesson goes on to colonies, pollination and recycling, with new experiments, games and a new story.
 - Other units were checked for overlap. Ant trails and the sugar drop test are in sci.animal-behaviour.animal-societies.L3 and sci.animals.animals-around-us.L3. Hive jobs, the waggle dance, swarm choice and Karl von Frisch are in sci.animal-behaviour.animal-societies.L4. The queen bee discovery story and Nectar to Honey are in sci.food.where-food-comes-from.L1. The fig wasp, hand pollination and Camerarius are in sci.ecology.interdependence.L3 and sci.seeds-and-life-cycles.plant-life-cycle.L3. Dung beetles, termite fungus farms and vultures are in sci.ecology.cycles-and-decomposers.L4. None of their experiments, games or stories is used here.
 - Sprengel C.K. (1793). Das entdeckte Geheimnis der Natur im Bau und in der Befruchtung der Blumen. Vieweg, Berlin.
 - Darwin C. (1862). On the Various Contrivances by which British and Foreign Orchids are Fertilised by Insects. John Murray, London.

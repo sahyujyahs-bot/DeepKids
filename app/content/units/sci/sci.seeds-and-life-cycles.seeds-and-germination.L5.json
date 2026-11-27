@@ -118,6 +118,24 @@
    "meaning": "To sow some stored seeds, grow the plants, and collect fresh seeds to put back in the bank.",
    "example": "When fewer than 85 in 100 stored seeds germinate, a seed bank regrows the sample.",
    "art": "A sealed seed packet with an arrow to a row of plants, and an arrow from the plants to a new packet."
+  },
+  {
+   "term": "Rabi",
+   "meaning": "A crop sown in the cool months after the monsoon and harvested in spring.",
+   "example": "Wheat, gram (chana) and mustard are rabi crops.",
+   "art": "A field of golden wheat under a winter sun."
+  },
+  {
+   "term": "Kharif",
+   "meaning": "A crop sown when the monsoon rains come and harvested in autumn.",
+   "example": "Rice, maize and soybean are kharif crops.",
+   "art": "A green paddy field after the first monsoon rain."
+  },
+  {
+   "term": "Zaid",
+   "meaning": "A short crop grown in the hot months, before the monsoon rains.",
+   "example": "Watermelon, cucumber and muskmelon are zaid crops.",
+   "art": "A sandy riverbed with melon vines in the summer heat."
   }
  ],
  "explanations": [
@@ -245,7 +263,8 @@
    "examples": [
     "Rahibai Popere, a farmer in Maharashtra, has saved many old crop varieties by growing and sharing them.",
     "Women farmers of the Deccan Development Society in Telangana run village seed banks of millets. Seed is lent, and paid back after harvest.",
-    "After the tsunami of 2004, farmers in Nagapattinam in Tamil Nadu went back to old paddy that can grow in salty soil."
+    "After the tsunami of 2004, farmers in Nagapattinam in Tamil Nadu went back to old paddy that can grow in salty soil.",
+    "Farmers sow each crop in its own season. Rabi crops, such as wheat and gram, are sown in the cool months after the monsoon. Kharif crops, such as rice and maize, are sown when the monsoon rains come. Zaid crops, such as watermelon and cucumber, are sown in the hot months before the monsoon."
    ],
    "perspectives": [
     {
@@ -553,11 +572,11 @@
       "t": "mcq",
       "q": "A lab tests 100 seeds, not 5, from a big sack. What is the main reason?",
       "options": [
-       "A bigger sample gives a steadier answer",
        "Small samples take longer to count",
-       "Five seeds cannot germinate alone"
+       "Five seeds cannot germinate alone",
+       "A bigger sample gives a steadier answer"
       ],
-      "a": 0,
+      "a": 2,
       "why": "With 5 seeds, one dead seed changes the answer by 20 percent, so luck decides the result. With 100 seeds, one dead seed changes the answer by 1 percent. This is a game moment, so talk about it and play on."
      },
      "context": "This is the last step of Scoop and Guess. You find out which sample size gave the closest guesses about the seeds in the dabba."
@@ -926,11 +945,11 @@
       "t": "mcq",
       "q": "In the Freezer Test, why do dry seeds go in the freezer too?",
       "options": [
-       "To see what cold does to a dry seed",
        "To keep the soaked seeds company",
-       "To make the dry seeds wet"
+       "To make the dry seeds wet",
+       "To see what cold does to a dry seed"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Group B shows what cold alone does to a dry seed. Without group B you could not tell whether cold or water caused a result. If you chose another answer, remember that each group is there to test one thing."
      },
      "parent": "The soaked seeds should be swollen but should not yet show a root. In a very hot room, soak for 6 hours.",
@@ -1439,11 +1458,11 @@
       "t": "mcq",
       "q": "In the Five Jars table, which two jars test whether moong seeds need light?",
       "options": [
-       "Jar 2 and jar 4",
        "Jar 1 and jar 2",
+       "Jar 2 and jar 4",
        "Jar 3 and jar 5"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Jars 2 and 4 are both wet and warm, and only the light differs. Jar 4 in the dark germinated fully, so moong do not need light. Jars 1 and 2 differ in water, not light."
      },
      "parent": "The oil in jar 5 stops air from dissolving into the water, so those seeds get almost no oxygen.",
@@ -1834,11 +1853,11 @@
       "t": "mcq",
       "q": "In a soaked chana, what are the two big halves?",
       "options": [
-       "The food store for the young plant",
        "Two young plants",
+       "The food store for the young plant",
        "The seed coat"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The two halves are the cotyledons, which hold the food. The young plant is the tiny pointed part joined to them. If you chose two plants, look again: there is only one tiny root."
      },
      "parent": "The skin is the seed coat. The halves are the cotyledons. The pointed tip under the beak is the radicle, and the tiny folded tip between the halves is the plumule.",
@@ -2228,12 +2247,12 @@
      "t": "mcq",
      "p": "Which part of a seed is the young plant?",
      "opts": [
-      "The embryo",
       "The seed coat",
       "The food store",
+      "The embryo",
       "The soil around the seed"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The embryo is the young plant, with a tiny root and a tiny shoot. The seed coat protects the embryo, and the food store feeds the embryo.",
      "outcome": 0
     },
@@ -2296,12 +2315,12 @@
      "t": "mcq",
      "p": "To test whether seeds need water, which two jars should you compare?",
      "opts": [
-      "Wet warm jar and dry warm jar",
       "Wet warm jar and wet cold jar",
       "Dry warm jar and wet cold jar",
-      "Two dry warm jars"
+      "Two dry warm jars",
+      "Wet warm jar and dry warm jar"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Only the water should differ between the two jars. If warmth changed too, you could not tell which one caused the result.",
      "outcome": 1
     },
@@ -2357,12 +2376,12 @@
      "t": "mcq",
      "p": "What happens inside a soaked seed in a freezer?",
      "opts": [
-      "Ice crystals tear the cells",
       "The food store melts",
+      "Ice crystals tear the cells",
       "The seed dries out safely",
       "The embryo grows faster"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A soaked seed is full of water. The water freezes into sharp crystals that tear the cell membranes, and the cells die.",
      "outcome": 3
     },
@@ -2461,12 +2480,12 @@
      "t": "mcq",
      "p": "Soaked seeds germinated 100 percent on a shelf and 0 percent frozen. Frozen dry seeds germinated 90 percent. What killed the seeds?",
      "opts": [
-      "Cold and water together",
       "Cold alone",
       "Water alone",
-      "Old age"
+      "Old age",
+      "Cold and water together"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Dry frozen seeds lived, so cold alone is not the cause. Soaked seeds on the shelf lived, so water alone is not the cause. Only the group with both died.",
      "outcome": 3,
      "how": "e1"
@@ -2550,6 +2569,39 @@
      "outcome": 6
     },
     {
+     "t": "sort",
+     "p": "Sort these crops by season. Is each one rabi, kharif or zaid?",
+     "cats": [
+      "Rabi",
+      "Kharif",
+      "Zaid"
+     ],
+     "items": [
+      [
+       "wheat",
+       "Rabi"
+      ],
+      [
+       "gram",
+       "Rabi"
+      ],
+      [
+       "rice",
+       "Kharif"
+      ],
+      [
+       "maize",
+       "Kharif"
+      ],
+      [
+       "watermelon",
+       "Zaid"
+      ]
+     ],
+     "a": "see items",
+     "why": "Wheat and gram are sown after the monsoon, so they are rabi. Rice and maize are sown with the monsoon, so they are kharif. Watermelon is sown in the hot months, so it is zaid."
+    },
+    {
      "t": "order",
      "p": "Put the steps of a seed bank in order.",
      "items": [
@@ -2583,12 +2635,12 @@
      "t": "mcq",
      "p": "Why does a seed bank regrow a sample when germination falls below 85 percent?",
      "opts": [
-      "Fresh seeds replace the ageing ones",
       "The freezer has become too full",
       "Old seeds grow into weeds",
-      "Farmers ask for bigger seeds"
+      "Farmers ask for bigger seeds",
+      "Fresh seeds replace the ageing ones"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Stored seeds slowly die, even when frozen. Sowing them while most are still alive gives fresh seeds of the same variety to store again.",
      "outcome": 6
     },
@@ -2682,12 +2734,12 @@
      "t": "mcq",
      "p": "Two groups of 20 seeds score 95 percent and 90 percent. What is the fairest conclusion?",
      "opts": [
-      "No clear difference: it is one seed",
       "The first group is clearly better",
       "The second group is dying",
-      "The whole test failed"
+      "The whole test failed",
+      "No clear difference: it is one seed"
      ],
-     "a": 0,
+     "a": 3,
      "why": "With 20 seeds, 5 percent is a single seed. One seed more or less can happen by chance, so the two groups are about the same.",
      "outcome": 2
     },
@@ -2719,12 +2771,12 @@
      "t": "mcq",
      "p": "Why is waiting for a heavy rain safer for a desert seed than waking at the first drops?",
      "opts": [
-      "A woken seedling cannot go back to waiting",
       "Heavy rain is warmer than light rain",
       "Light rain washes the seeds away",
+      "A woken seedling cannot go back to waiting",
       "Seeds wake only at night"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Germination cannot be undone. After a light shower the soil soon dries, and a seedling dies. A heavy rain wets the soil for long enough for roots to grow deep.",
      "outcome": 5
     },
@@ -2862,12 +2914,12 @@
    "t": "mcq",
    "p": "What comes out of a germinating seed first?",
    "opts": [
-    "The root",
     "The shoot",
+    "The root",
     "A green leaf",
     "A flower bud"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The root, called the radicle, comes out first and turns down. The seedling needs water and a hold on the ground before anything else.",
    "outcome": 0
   },
@@ -2875,12 +2927,12 @@
    "t": "mcq",
    "p": "What feeds a seedling before the first green leaves open?",
    "opts": [
-    "The food store in the seed",
     "Sunlight",
     "The soil",
-    "Rainwater"
+    "Rainwater",
+    "The food store in the seed"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The embryo lives on the food the parent plant packed into the seed. That is why a seed can germinate in the dark.",
    "outcome": 0
   },
@@ -2888,12 +2940,12 @@
    "t": "mcq",
    "p": "Which three things do most seeds need to germinate?",
    "opts": [
-    "Water, oxygen and warmth",
     "Water, light and soil",
+    "Water, oxygen and warmth",
     "Soil, light and warmth",
     "Light, oxygen and fertiliser"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Fair tests show that seeds without water, air or warmth do not germinate. Most germinate without light or soil.",
    "outcome": 1
   },
@@ -2901,12 +2953,12 @@
    "t": "mcq",
    "p": "Seeds in a dark box germinate as well as seeds in the light. What does this show?",
    "opts": [
-    "These seeds do not need light",
     "Seeds need darkness",
+    "These seeds do not need light",
     "The test was unfair",
     "Light harms seeds"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The two groups differ only in light, and the result is the same. So light does not matter for these seeds.",
    "outcome": 1
   },
@@ -2934,12 +2986,12 @@
    "t": "mcq",
    "p": "Why does a dry seed live through a night in a freezer?",
    "opts": [
-    "Too little water inside to form ice",
     "The seed coat keeps the cold out",
+    "Too little water inside to form ice",
     "A dry seed is already dead",
     "The seed grows a thicker coat"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Freezing harms cells when the water in them turns to ice. A dry seed is only about one tenth water, held too tightly to freeze into crystals.",
    "outcome": 3
   },
@@ -2947,12 +2999,12 @@
    "t": "mcq",
    "p": "Soaked seeds are frozen, thawed and put on a wet cloth. What is most likely?",
    "opts": [
-    "They do not germinate",
     "They germinate faster",
+    "They do not germinate",
     "They germinate as usual",
     "They become dry seeds again"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Ice crystals formed inside the wet cells and tore them. The cells leak and die when they thaw.",
    "outcome": 3
   },
@@ -2999,13 +3051,25 @@
    "t": "mcq",
    "p": "What can a farmer's field do for a crop variety that a freezer cannot?",
    "opts": [
-    "Let the crop keep adapting",
     "Keep the seeds safe from floods",
     "Stop the seeds from ageing",
-    "Hold thousands of varieties in one room"
+    "Hold thousands of varieties in one room",
+    "Let the crop keep adapting"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Seeds sown every year face each year's weather and pests, and the plants that do well leave the most seed. A frozen seed stays as the seed was.",
+   "outcome": 7
+  },
+  {
+   "t": "mcq",
+   "p": "A crop is sown in the cool months after the monsoon and harvested in spring, like gram or wheat. What is its season called?",
+   "opts": [
+    "Kharif",
+    "Rabi",
+    "Zaid"
+   ],
+   "a": 1,
+   "why": "Rabi crops are sown after the monsoon and harvested in spring. Kharif crops are sown when the monsoon comes. Zaid crops are short crops grown in the hot months.",
    "outcome": 7
   }
  ],
@@ -3333,6 +3397,65 @@
     "e2"
    ],
    "plan": "After No Going Back, a parent can read aloud from the chapters on how seeds wait."
+  },
+  {
+   "id": "b-kabuli-chana",
+   "item": "Whole kabuli chana, about 10 grains, uncooked",
+   "kind": "material",
+   "why": "The seeds are soaked and drawn over four days, to see what happens inside a waking seed. About ₹80 to ₹120 a kilogram at a grocery shop, so a small handful costs only a few rupees.",
+   "url": "https://www.amazon.in/s?k=kabuli+chana",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Buy it before the Four Days, Four Drawings activity."
+  },
+  {
+   "id": "b-magnifier-seeds",
+   "item": "Hand lens or magnifying glass, about 60 to 75 millimetres wide",
+   "kind": "tool",
+   "why": "It lets the children look closely at the inside of a waking chana in the drawing activity. About ₹50 to ₹150 at a stationery or science shop. A phone camera zoomed in as far as it goes works as the household alternative.",
+   "url": "https://www.amazon.in/s?k=magnifying+glass",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Buy it before the Four Days, Four Drawings activity."
+  },
+  {
+   "id": "b-graph-paper",
+   "item": "Squared graph paper, a few sheets",
+   "kind": "material",
+   "why": "It is used to draw the line graph of the three jars in the Three Jars project. About ₹5 to ₹15 a sheet at a stationery shop. A notebook page ruled into squares works as well.",
+   "url": "https://www.amazon.in/s?k=graph+paper",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Buy it before you start the Three Jars project."
+  },
+  {
+   "id": "b-cotton-wool-seeds",
+   "item": "Cotton wool, one small roll",
+   "kind": "material",
+   "why": "It is packed around the sample to keep it cold in the power cut challenge. About ₹40 to ₹80 for a small pack at a chemist. Newspaper or an old towel does the same job.",
+   "url": "https://www.amazon.in/s?k=cotton+wool",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Buy it before the Power Cut challenge."
+  },
+  {
+   "id": "b-print-seeds",
+   "item": "Printed pages for the game cards, tokens and worksheets, about 15 pages",
+   "kind": "material",
+   "why": "The two games use five mix cards, 24 seed fate cards and three answer tokens, and the worksheets are printed too. A copy shop charges about ₹1 to ₹2 a page, so the set costs about ₹15 to ₹30.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print these before the first game."
   }
  ],
  "warmup": [

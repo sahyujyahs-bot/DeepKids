@@ -217,7 +217,8 @@
    "examples": [
     "A paddy plant short of nitrogen has pale yellow older leaves and stays small.",
     "A packet of chips is filled with nitrogen gas to keep the chips crisp. The gas is used because it hardly reacts with anything.",
-    "In Browns, Greens or Both, the bottle of paper and dry leaves stood in air full of nitrogen and still rotted slowly."
+    "In Browns, Greens or Both, the bottle of paper and dry leaves stood in air full of nitrogen and still rotted slowly.",
+    "The air around Earth is a mix of gases. About 78 in every 100 particles are nitrogen, about 21 are oxygen, and only a tiny share is carbon dioxide."
    ],
    "perspectives": [],
    "art": "A pale yellow paddy plant in the middle of a picture crowded with tiny pairs of dots, none of them entering the plant."
@@ -1176,11 +1177,11 @@
       "t": "mcq",
       "q": "The sea takes up carbon dioxide from the air. What happens to the sea water?",
       "options": [
-       "It slowly becomes a little more acid",
        "It slowly becomes saltier",
+       "It slowly becomes a little more acid",
        "Nothing changes in the water"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Carbon dioxide joins with water to make a weak acid, as it did in your glass. The sea is still slightly alkaline, but less than before. Salt has nothing to do with this gas. 'Nothing changes' forgets that the gas does not vanish in water. It reacts with the water."
      },
      "context": "This is the last step of Sour Air. Here you link what happened in the glass to what happens when the sea takes up carbon dioxide."
@@ -1333,10 +1334,10 @@
       "q": "Which of these foods holds the most nitrogen in 100 grams?",
       "options": [
        "Sugar",
-       "Rice",
-       "Toor dal"
+       "Toor dal",
+       "Rice"
       ],
-      "a": 2,
+      "a": 1,
       "why": "Nitrogen is in protein, and toor dal has about three times as much protein as rice. Sugar has no protein and no nitrogen at all. Choosing rice is natural, because we eat so much of it. But the label shows it holds less protein in each 100 grams."
      },
      "context": "This is the last step of Protein Hunt. Here you ask why the seeds of the bean family hold so much protein and nitrogen."
@@ -1477,10 +1478,10 @@
       "q": "Who takes nitrogen from the air and makes it usable for a bean plant?",
       "options": [
        "The plant's leaves",
-       "Bacteria in the root nodules",
-       "Earthworms in the soil"
+       "Earthworms in the soil",
+       "Bacteria in the root nodules"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Only certain bacteria have the enzyme that splits a pair of nitrogen atoms. Leaves take in carbon dioxide from the air, and it is easy to think they take nitrogen as well. They do not. Earthworms help to break up dead matter, and they do not fix nitrogen."
      },
      "context": "This is the last step of The Nitrogen Relay. Here you take one station away at a time and see where the nitrogen atom gets stuck."
@@ -1554,10 +1555,10 @@
       "q": "The carbon dioxide in the air dips a little every northern summer. Why?",
       "options": [
        "Factories close in summer",
-       "Forests in leaf take in more carbon",
-       "Warm air holds less gas"
+       "Warm air holds less gas",
+       "Forests in leaf take in more carbon"
       ],
-      "a": 1,
+      "a": 2,
       "why": "In summer the great northern forests photosynthesise and take in more carbon dioxide than living beings breathe out. Factories do not close for the summer. Warm air holding less gas is true of water, not of the open air."
      },
      "context": "This is the last step of Read the Keeling Curve. Here you carry the line forward, and learn why the real line dips every summer."
@@ -1845,10 +1846,10 @@
       "q": "A compost bin smells rotten and is very wet. What is the most likely cause?",
       "options": [
        "Too much air is getting in",
-       "Too little air is getting in",
-       "Too many dry leaves were added"
+       "Too many dry leaves were added",
+       "Too little air is getting in"
       ],
-      "a": 1,
+      "a": 2,
       "why": "When wet waste packs down, air cannot reach the middle. Bacteria who live without air take over, and they give off bad-smelling gases. Too many dry leaves would make the bin slow, not smelly. More air cures the smell."
      },
      "context": "This is the last step of Rescue the Smelly Bottle. Here you score the smell again after 5 days and decide which change helped most."
@@ -1945,11 +1946,11 @@
       "t": "mcq",
       "q": "Why does rain wash nitrate fertiliser out of a bare field so easily?",
       "options": [
-       "Nitrate is lighter than soil",
        "Nitrate dissolves in water",
+       "Nitrate is lighter than soil",
        "Nitrate floats on water"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Nitrate dissolves in water and does not stick to soil grains, so it goes wherever the water goes. It does not float, and its weight is not the reason. That is why slowing the water and giving small doses both help."
      },
      "context": "This is the last step of Keep It in the Field. Here you choose your next change and link your design to what real farmers do."
@@ -1970,10 +1971,10 @@
      "opts": [
       "The soil",
       "Water only",
-      "Carbon dioxide in the air",
-      "Sunlight"
+      "Sunlight",
+      "Carbon dioxide in the air"
      ],
-     "a": 2,
+     "a": 3,
      "why": "A leaf takes carbon dioxide from the air and builds sugar, and the tree builds wood from sugar. Soil gives water and minerals, which are a small part of the weight. Sunlight gives energy, and energy has no weight to add."
     },
     {
@@ -2112,12 +2113,12 @@
      "t": "mcq",
      "p": "Why can a paddy plant not use the nitrogen in the air?",
      "opts": [
-      "The air has too little nitrogen",
       "Nitrogen atoms are held in tight pairs",
+      "The air has too little nitrogen",
       "Nitrogen gas poisons plants",
       "Paddy leaves have no holes"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The air is mostly nitrogen, so there is plenty. But each nitrogen atom is joined very strongly to a partner, and a plant has no enzyme to split them."
     },
     {
@@ -2125,6 +2126,14 @@
      "p": "True or false: about 78 of every 100 particles of air are nitrogen.",
      "a": true,
      "why": "True. Most of the air is nitrogen gas. Oxygen is about 21 of every 100, and carbon dioxide is far less than 1."
+    },
+    {
+     "t": "fill",
+     "p": "About ___ in every 100 particles of air is oxygen.",
+     "a": [
+      "21"
+     ],
+     "why": "Oxygen is about 21 of every 100 particles of air. Nitrogen is far more, at about 78."
     },
     {
      "t": "fill",
@@ -2409,11 +2418,11 @@
      "p": "The air's carbon dioxide went from 317 parts in a million to 427. About how much did it rise?",
      "opts": [
       "By about a tenth",
-      "By about a third",
       "It doubled",
+      "By about a third",
       "It halved"
      ],
-     "a": 1,
+     "a": 2,
      "why": "The rise is 427 − 317 = 110. One third of 317 is about 106. So the amount rose by about a third in 65 years.",
      "how": "a5"
     },
@@ -2555,12 +2564,12 @@
      "t": "mcq",
      "p": "Why is urea in India coated with neem oil?",
      "opts": [
-      "To slow bacteria who make nitrate",
       "To give it a better smell",
+      "To slow bacteria who make nitrate",
       "To add more nitrogen",
       "To make it dissolve faster"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Nitrate is easily washed away. Neem slows the soil bacteria who make nitrate, so the nitrogen stays near the roots for longer."
     },
     {
@@ -2594,12 +2603,12 @@
      "t": "mcq",
      "p": "Which is true of the cells in the body of a 40-year-old person?",
      "opts": [
-      "Most are much younger than 40",
       "All are exactly 40 years old",
       "All are replaced every day",
+      "Most are much younger than 40",
       "None contain any carbon"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The body is rebuilt all the time with atoms from food. Most cells are replaced within years. A few kinds, such as some nerve cells, last a lifetime."
     }
    ]
@@ -2611,11 +2620,11 @@
    "p": "A mango leaf falls and rots away. What happens to the atoms of the leaf?",
    "opts": [
     "They are destroyed",
-    "They move into air, soil and living beings",
     "They turn into energy",
-    "They stay in the leaf for ever"
+    "They stay in the leaf for ever",
+    "They move into air, soil and living beings"
    ],
-   "a": 1,
+   "a": 3,
    "why": "Decomposers take the leaf apart. The carbon goes mostly to the air as carbon dioxide, and the nitrogen goes to the soil. Atoms are not destroyed and do not turn into energy when something rots.",
    "outcome": 0
   },
@@ -2624,11 +2633,11 @@
    "p": "Which of these takes carbon out of the air?",
    "opts": [
     "A rotting log",
-    "A goat breathing",
     "A neem tree in sunlight",
+    "A goat breathing",
     "A burning lamp"
    ],
-   "a": 2,
+   "a": 1,
    "why": "Only photosynthesis takes carbon dioxide out of the air. Rotting, breathing and burning all put carbon dioxide in.",
    "outcome": 1
   },
@@ -2636,12 +2645,12 @@
    "t": "mcq",
    "p": "Coal is burnt at a power station. Where was its carbon before the coal formed?",
    "opts": [
-    "It was always underground",
     "In ancient plants, and earlier in the air",
+    "It was always underground",
     "Only in sea water",
     "Inside volcanoes"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Coal formed from plants buried hundreds of millions of years ago. Those plants took their carbon from the air by photosynthesis. Burning coal puts that old carbon back in the air.",
    "outcome": 1
   },
@@ -2688,12 +2697,12 @@
    "t": "mcq",
    "p": "In waterlogged soil, bacteria change nitrate into nitrogen gas. Where does that nitrogen go?",
    "opts": [
-    "Back into the air",
     "Into rocks",
     "Into plant roots",
-    "It is destroyed"
+    "It is destroyed",
+    "Back into the air"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Denitrifying bacteria give off nitrogen gas, which goes back to the air. This closes the nitrogen cycle. Plant roots cannot take up nitrogen gas.",
    "outcome": 3
   },
@@ -2703,10 +2712,10 @@
    "opts": [
     "Only dry leaves",
     "Only wet peels",
-    "About two parts browns to one part greens",
-    "Only soil"
+    "Only soil",
+    "About two parts browns to one part greens"
    ],
-   "a": 2,
+   "a": 3,
    "why": "Decomposers need carbon and nitrogen together, with air and water. Dry leaves alone have too little nitrogen. Wet peels alone pack down, lose their air and smell.",
    "outcome": 4
   },
@@ -2714,12 +2723,12 @@
    "t": "mcq",
    "p": "A heap of only fresh grass smells sharp, like ammonia. What is leaving the heap?",
    "opts": [
-    "Carbon, as coal",
     "Nitrogen, as a gas",
+    "Carbon, as coal",
     "Only water",
     "Nothing is leaving"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Ammonia is a gas of nitrogen and hydrogen. Fresh grass has more nitrogen than the decomposers can use, and the spare nitrogen escapes. Adding browns keeps it in the heap.",
    "outcome": 4
   },
@@ -2727,12 +2736,12 @@
    "t": "mcq",
    "p": "Carbon dioxide in the air has risen since 1960. What is the main cause?",
    "opts": [
-    "Burning coal, oil and gas",
     "More people breathing out",
     "More volcanoes",
-    "The Sun growing hotter"
+    "The Sun growing hotter",
+    "Burning coal, oil and gas"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Fossil fuels hold carbon that was out of the air for millions of years. Breath only returns carbon that plants took out a few months before, so it adds nothing new.",
    "outcome": 5
   },
@@ -2755,12 +2764,25 @@
    "opts": [
     "The carbon in a coal seam",
     "The nitrogen in the air",
-    "A leaf taking in carbon dioxide",
-    "The carbon dissolved in the sea"
+    "The carbon dissolved in the sea",
+    "A leaf taking in carbon dioxide"
    ],
-   "a": 2,
+   "a": 3,
    "why": "A store is an amount that stays somewhere. A flow is a movement between stores. A leaf taking in carbon dioxide moves carbon from the air into the plant.",
    "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "Air around Earth is a mix of gases. Which gas makes up the largest share?",
+   "opts": [
+    "Nitrogen",
+    "Carbon dioxide",
+    "Oxygen",
+    "Steam"
+   ],
+   "a": 0,
+   "why": "About 78 in every 100 particles of air are nitrogen. Oxygen is about 21, and carbon dioxide is only a tiny share. Steam is not a fixed part of the air; it changes with the weather.",
+   "outcome": 2
   }
  ],
  "videos": [
@@ -3095,6 +3117,112 @@
     "a4"
    ],
    "plan": "For the parent to read alongside the unit. It goes well with The Nitrogen Relay and the card on how people have changed the nitrogen cycle."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Browns, Greens or Both: which bottle rots best?, Read the Keeling Curve: 65 years of air on one page. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "a5"
+   ],
+   "plan": "Get it before Browns, Greens or Both: which bottle rots best?."
+  },
+  {
+   "id": "b-a-dropper",
+   "item": "A dropper",
+   "kind": "tool",
+   "why": "Used in Keep It in the Field: stop the rain from washing fertiliser away. About ₹10 to ₹40. A clean pen refill or straw with a finger on top can drop water.",
+   "url": "https://www.amazon.in/s?k=plastic+dropper",
+   "used_in": [
+    "c2"
+   ],
+   "plan": "Get it before Keep It in the Field: stop the rain from washing fertiliser away."
+  },
+  {
+   "id": "b-modelling-clay-or-plasticine",
+   "item": "Modelling clay or plasticine",
+   "kind": "material",
+   "why": "Used in Keep It in the Field: stop the rain from washing fertiliser away. About ₹40 to ₹120. Atta dough mixed with a little salt works.",
+   "url": "https://www.amazon.in/s?k=modelling+clay+plasticine",
+   "used_in": [
+    "c2"
+   ],
+   "plan": "Get it before Keep It in the Field: stop the rain from washing fertiliser away."
+  },
+  {
+   "id": "b-food-colour",
+   "item": "Food colour",
+   "kind": "material",
+   "why": "Used in Keep It in the Field: stop the rain from washing fertiliser away. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it.",
+   "url": "https://www.amazon.in/s?k=food+colour+liquid",
+   "used_in": [
+    "c2"
+   ],
+   "plan": "Get it before Keep It in the Field: stop the rain from washing fertiliser away."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Browns, Greens or Both: which bottle rots best?, Two Heaps: sort one day's waste, Rescue the Smelly Bottle. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "e1",
+    "a1",
+    "c1"
+   ],
+   "plan": "Get it before Browns, Greens or Both: which bottle rots best?."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in Root Dig: look for nodules (if you have a garden, a park or a farm nearby). Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "a6"
+   ],
+   "plan": "Get it before Root Dig: look for nodules (if you have a garden, a park or a farm nearby)."
+  },
+  {
+   "id": "b-marbles--a-few",
+   "item": "Marbles (a few)",
+   "kind": "material",
+   "why": "Used in The Nitrogen Relay: pass one atom all the way round. About ₹10 to ₹40. Small round stones or dried chana.",
+   "url": "https://www.amazon.in/s?k=glass+marbles+pack",
+   "used_in": [
+    "a4"
+   ],
+   "plan": "Get it before The Nitrogen Relay: pass one atom all the way round."
+  },
+  {
+   "id": "b-iron-nails-or-iron-filings",
+   "item": "Iron nails or iron filings",
+   "kind": "material",
+   "why": "Used in Rescue the Smelly Bottle. About ₹20 to ₹80. Short steel nails from a hardware shop.",
+   "url": "https://www.amazon.in/s?k=iron+filings+science",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before Rescue the Smelly Bottle."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [
@@ -3350,7 +3478,13 @@
     "source": "Chandogya Upanishad 5.10.6",
     "teaching": "The text follows what leaves a body at death. It becomes mist, then cloud, then rain. It falls to the earth and is born as grain, herbs, trees, sesame and beans. Whoever eats that food carries it on.",
     "link": "The Upanishad is speaking of the journey of a soul, not of atoms. But the path it describes is the path of a matter cycle: air, rain, plant, eater. Its authors had watched closely where a body goes.",
-    "verse": ["वायुर्भूत्वा धूमो भवति", "धूमो भूत्वाभ्रं भवति", "अभ्रं भूत्वा मेघो भवति", "मेघो भूत्वा प्रवर्षति", "त इह व्रीहियवा ओषधिवनस्पतयस्तिलमासा इति जायन्ते"],
+    "verse": [
+     "वायुर्भूत्वा धूमो भवति",
+     "धूमो भूत्वाभ्रं भवति",
+     "अभ्रं भूत्वा मेघो भवति",
+     "मेघो भूत्वा प्रवर्षति",
+     "त इह व्रीहियवा ओषधिवनस्पतयस्तिलमासा इति जायन्ते"
+    ],
     "verse_lang": "sa"
    },
    {
@@ -3362,7 +3496,10 @@
     "source": "Thirukkural 1038",
     "teaching": "Manuring does a field more good than ploughing. And once the weeding is done, guarding the crop does more good than watering.",
     "link": "Thiruvalluvar wrote for Tamil farmers well over a thousand years ago. Nobody then knew of nitrogen. The farmers had learned from their fields that what a crop takes from the soil must be given back.",
-    "verse": ["ஏரினும் நன்றால் எருவிடுதல் கட்டபின்", "நீரினும் நன்றதன் காப்பு."],
+    "verse": [
+     "ஏரினும் நன்றால் எருவிடுதல் கட்டபின்",
+     "நீரினும் நன்றதன் காப்பு."
+    ],
     "verse_lang": "ta"
    }
   ],

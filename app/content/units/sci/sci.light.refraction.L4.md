@@ -1,7 +1,7 @@
 # Refraction: the rule of the bend, and how light gets trapped
 `sci.light.refraction.L4`
 
-**Summary.** A beam of light bends when it goes into water, and sometimes it cannot get out at all. Why? In this unit you will measure the bend with a protractor, make a glowing water jet, build an eye that needs spectacles, and make a telescope from two lenses.
+**Summary.** A beam of light bends when it goes into water, and sometimes it cannot get out at all. Why? In this lesson you will measure the bend with a protractor, make a glowing water jet, build an eye that needs spectacles, and make a telescope from two lenses.
 
 **Intro.** *A fish looks up at you from under the water. Above her, the whole sky, from one edge to the other, is squeezed into one round window. Outside that window, the underside of the water looks like a silver mirror. Why does the whole sky fit into a round window, and why is the rest silver?* You already know that light bends when it goes from air into water. Now we ask by how much, and what happens when you push the bend as far as it will go. You will measure the bend with a torch and a protractor. Then you will find out how the same rule makes a silver mirror under the water, a glowing stream of water, a sparkling diamond and the cables that carry phone calls under the sea.
 
@@ -518,7 +518,7 @@ Murugan looked at the sea. Then, very slowly, he put one foot in.
 ## Worksheets
 ### Bending Light (core) (core, 16 questions)
 1. (mcq) In a drawing of light bending at a water surface, what is the normal?  
-   Options: An imaginary line standing at a right angle to the surface, at the spot where the light arrives / The flat surface of the water / The path of the light in the water / The edge of the glass  
+   Options: The flat surface of the water / The path of the light in the water / The edge of the glass / An imaginary line standing at a right angle to the surface, at the spot where the light arrives  
    **Answer:** An imaginary line standing at a right angle to the surface, at the spot where the light arrives. *Why:* Scientists measure every bend from the normal, the upright line at a right angle to the surface. Choosing the surface is a common mistake, and it gives the wrong angles. A beam along the normal has an angle of 0 degrees.
 2. (fill) When light goes at a slant from air into water, it bends ____ the normal.  
    **Answer:** ['toward', 'towards']. *Why:* Light moves more slowly in water, so it bends toward the normal. The angle in the water is smaller than the angle in the air.
@@ -534,14 +534,14 @@ Murugan looked at the sea. Then, very slowly, he put one foot in.
 7. (match) Match each word to what it means.  
    **Answer:** normal → the imaginary upright line at a right angle to a surface; refractive index → a number telling how many times slower light is in a material; critical angle → the angle beyond which light inside a material is trapped; optical fibre → a hair-thin glass strand that carries light by trapping it. *Why:* The normal is the line we measure from. The refractive index is a number for how much a material slows light. The critical angle tells us when light is trapped, and a fibre is the thing that uses that to carry light.
 8. (mcq) Water, glass, air and diamond all slow light. Which slows it the most?  
-   Options: Air / Water / Glass / Diamond  
+   Options: Air / Diamond / Water / Glass  
    **Answer:** Diamond. *Why:* Diamond has a refractive index of about 2.4, the biggest of these. Light in diamond moves at less than half its speed in air. Glass is about 1.5, water about 1.33, and air is almost 1.
 9. (truefalse) True or false: cooking oil floats on water, so it bends light less than water does.  
    **Answer:** False. *Why:* False. Oil is lighter than water for its size, yet it bends light more. The bend depends on how the atoms of a material react to light, and not on how heavy the material is.
 10. (fill) The bigger the refractive index of a material, the ____ light moves through it.  
    **Answer:** ['slower', 'more slowly']. *Why:* The refractive index tells how many times slower light is in a material than in empty space. A bigger number means slower light and a bigger bend.
 11. (mcq) When can light inside water be trapped by the surface?  
-   Options: When it reaches the surface at a very shallow angle, beyond about 49 degrees from the normal / When it reaches the surface along the normal / When the water is very deep / When the water is cold  
+   Options: When it reaches the surface along the normal / When the water is very deep / When the water is cold / When it reaches the surface at a very shallow angle, beyond about 49 degrees from the normal  
    **Answer:** When it reaches the surface at a very shallow angle, beyond about 49 degrees from the normal. *Why:* Trapping, or total internal reflection, happens only when the angle from the normal is bigger than the critical angle, which is about 49 degrees for water. Light along the normal goes straight out. Depth and temperature do not matter much.
 12. (write) The top of the water in a glass can look like a window from one place and a mirror from another. Explain how one surface can be both.  
    **Answer:** The water is the same, but the angle of the light is different. At a steep angle, light from below passes through the top, so it is a window. At a shallow angle, bigger than about 49 degrees from the normal, no light can get out, so it all bounces back, and the top is a mirror.. *Why:* A strong answer says that the angle decides, and mentions that beyond the critical angle all the light bounces back. It does not say the water changes.
@@ -555,7 +555,7 @@ Murugan looked at the sea. Then, very slowly, he put one foot in.
    **Answer:** 4. *Why:* A quarter of a metre is 0.25 metres. 1 divided by 0.25 is 4. So the lens is 4 dioptres. A shorter focal length means a stronger lens.
 ### Why Light Bends and Gets Trapped (stretch) (stretch, 16 questions)
 1. (mcq) Light travels at about 300,000 kilometres every second in empty space. Glass has a refractive index of about 1.5. About how fast does light go in glass?  
-   Options: About 200,000 kilometres a second / About 300,000 kilometres a second / About 450,000 kilometres a second / About 100,000 kilometres a second  
+   Options: About 300,000 kilometres a second / About 450,000 kilometres a second / About 200,000 kilometres a second / About 100,000 kilometres a second  
    **Answer:** About 200,000 kilometres a second. *Why:* The refractive index says how many times slower light is. 300,000 divided by 1.5 is 200,000. Choosing 450,000 multiplies, which would make light faster in glass. Light never speeds up when it goes into glass.
 2. (count) A beam goes from air into water at 60 degrees from the normal and bends to 41 degrees from the normal. By how many degrees has the water turned the beam?  
    **Answer:** 19. *Why:* The beam was at 60 degrees in the air and is at 41 degrees in the water. 60 take away 41 is 19. So the water turned the beam by 19 degrees, toward the normal.
@@ -567,7 +567,7 @@ Murugan looked at the sea. Then, very slowly, he put one foot in.
 5. (fill) After a ray crosses a glass block, it leaves parallel to how it came in, but it has been ____ sideways.  
    **Answer:** ['shifted', 'moved', 'displaced']. *Why:* The two bends cancel, so the direction is the same. But the ray travelled a slanted path inside the glass, so it comes out a little to one side.
 6. (mcq) The critical angle is about 42 degrees for glass and about 24 degrees for diamond. Which traps light more easily?  
-   Options: Diamond, because it has the smaller critical angle / Glass, because it has the bigger critical angle / Both the same / Neither can trap light  
+   Options: Glass, because it has the bigger critical angle / Diamond, because it has the smaller critical angle / Both the same / Neither can trap light  
    **Answer:** Diamond, because it has the smaller critical angle. *Why:* Light is trapped whenever it meets the edge at an angle bigger than the critical angle. A smaller critical angle means that more of the angles trap light. That is part of why diamonds sparkle.
 7. (sort) Light is going from one material to another at a very shallow angle. In which journeys can it be trapped?  
    **Answer:** from water into air → Can be trapped; from glass into air → Can be trapped; from diamond into air → Can be trapped; from air into water → Cannot be trapped; from air into glass → Cannot be trapped; from water into glass → Cannot be trapped. *Why:* Light can be trapped only when it is going from a slower material to a faster one, because only then does it bend away from the normal so much that it cannot leave. Going into a slower material, the light always bends toward the normal and gets in.
@@ -576,7 +576,7 @@ Murugan looked at the sea. Then, very slowly, he put one foot in.
 9. (match) Match each eye or lens problem to what helps.  
    **Answer:** short sight, where the picture forms in front of the retina → a hollow lens; long sight, where the picture would form behind the retina → a bulging lens; a faraway thing made big in a telescope → a weak lens in front and a strong lens as the eyepiece; a door peephole showing a small, wide view → a hollow lens. *Why:* A hollow lens spreads light, so it moves the picture back and makes things look smaller. A bulging lens bends light more and moves the picture closer. A telescope uses a weak lens to make a small picture and a strong lens to magnify it.
 10. (mcq) You walk toward the shiny patch on a hot road, but it keeps moving away. What is the best explanation?  
-   Options: It is a picture of the sky, visible only at a shallow angle, and the angle never changes as you move on / The road dries as you come near / Your eyes get tired / Someone is wiping it away  
+   Options: The road dries as you come near / Your eyes get tired / It is a picture of the sky, visible only at a shallow angle, and the angle never changes as you move on / Someone is wiping it away  
    **Answer:** It is a picture of the sky, visible only at a shallow angle, and the angle never changes as you move on. *Why:* You see the picture only when you look along the road at a shallow angle. As you walk, a new patch farther ahead meets that same shallow angle. The picture is real light, but it is not a place that you can walk to.
 11. (write) A fish looks up from under the water. Explain, using the words critical angle, why the fish sees the whole sky in a round window.  
    **Answer:** Light from the whole sky bends down into the water at the surface, so all of it is squeezed into a cone about 97 degrees wide above the fish. Outside that cone, the fish sees the underside of the surface at angles bigger than the critical angle of about 49 degrees, where it is a mirror. So the sky fits in a round window, with a silver ring around it.. *Why:* A strong answer says that light from every direction of the sky bends into a cone, that the cone is limited by the critical angle, and that beyond it the surface is a mirror.
@@ -594,7 +594,7 @@ Murugan looked at the sea. Then, very slowly, he put one foot in.
    **Answer:** 3. *Why:* A magnifying glass makes print look bigger by bending light as it passes through, which is refraction. The fibre, the silver water and the diamond all depend on light being trapped and bounced back inside.
 ### Think Like a Lens Maker (challenge) (challenge, 16 questions)
 1. (mcq) A ray goes at a slant through a pane of glass. Which pane shifts the ray sideways more: a thin pane or a thick pane?  
-   Options: The thick pane, because the ray travels further on its slanted path inside / The thin pane / Both the same / Neither, because the ray does not shift  
+   Options: The thin pane / The thick pane, because the ray travels further on its slanted path inside / Both the same / Neither, because the ray does not shift  
    **Answer:** The thick pane, because the ray travels further on its slanted path inside. *Why:* Inside the glass the ray travels along a slanted line. The longer that path, the further the ray has moved to one side by the time it comes out. A thin pane shifts a ray hardly at all.
 2. (count) Light travels at about 200,000 kilometres a second in glass. A fibre in a cable is 3,000 kilometres long. How many thousandths of a second does the light take to cross it?  
    **Answer:** 15. *Why:* 3,000 divided by 200,000 is 0.015 of a second, which is 15 thousandths of a second. So light crosses a 3,000 kilometre cable in about 15 thousandths of a second. That is why a call crosses the sea so fast.
@@ -606,7 +606,7 @@ Murugan looked at the sea. Then, very slowly, he put one foot in.
 5. (truefalse) True or false: a hollow lens can throw a sharp picture of a window onto a card.  
    **Answer:** False. *Why:* False. A hollow lens spreads the rays apart, so they never meet at a point. It can make things look smaller when you look through it, but it cannot throw a picture on a card.
 6. (mcq) A lens has a power of 2 dioptres. What is its focal length?  
-   Options: 50 centimetres / 20 centimetres / 2 centimetres / 200 centimetres  
+   Options: 20 centimetres / 50 centimetres / 2 centimetres / 200 centimetres  
    **Answer:** 50 centimetres. *Why:* The power is 1 divided by the focal length in metres. So the focal length is 1 divided by 2, which is half a metre, or 50 centimetres. Choosing 200 centimetres divides the other way round.
 7. (fill) The strength of a lens is measured in a unit called the ____.  
    **Answer:** ['dioptre', 'diopter']. *Why:* The dioptre is the unit for the power of a lens. A lens of 1 dioptre has a focal length of 1 metre, and a lens of 4 dioptres has a focal length of a quarter of a metre.
@@ -621,14 +621,14 @@ Murugan looked at the sea. Then, very slowly, he put one foot in.
 12. (write) A friend says that a mirage is just in your head. Use one fact about cameras to answer.  
    **Answer:** A camera can photograph a mirage. So the shiny patch is made of real light that was bent by layers of hot air. What is wrong is the guess that the light came from water on the road.. *Why:* A strong answer uses the camera fact and says that the light is real. What is mistaken is the idea of where it came from.
 13. (mcq) Which fact shows that a material that is heavier for its size does not always bend light more?  
-   Options: Cooking oil floats on water but bends light more than water does / Glass bends light more than water / Diamond is heavier than glass / Air bends light very little  
+   Options: Glass bends light more than water / Diamond is heavier than glass / Cooking oil floats on water but bends light more than water does / Air bends light very little  
    **Answer:** Cooking oil floats on water but bends light more than water does. *Why:* If heavier meant more bending, oil would bend light less than water, because it floats. It bends light more. So the bend does not depend on how heavy the material is for its size.
 14. (match) Match each strange sight to the reason for it.  
    **Answer:** stripes wobble above a hot plate → hot air rising bends light by changing amounts; a glass marble nearly vanishes in honey → honey and glass bend light by almost the same amount; a jet of water glows along its curve → light is trapped inside by total internal reflection; colours in a rainbow → bending and bouncing inside raindrops. *Why:* All four are the same bending rule showing up in different places. Which one you see depends on the materials and the angle of the light.
 15. (count) A telescope has a front lens with a focal length of 90 centimetres and an eyepiece with a focal length of 5 centimetres. How many times does it magnify?  
    **Answer:** 18. *Why:* A telescope magnifies by the focal length of the first lens divided by the focal length of the eyepiece. 90 divided by 5 is 18. So it magnifies 18 times.
 16. (mcq) A diver is 4 metres under the sea. The round window of sky above her is about 9 metres wide for every 4 metres of depth. About how wide is it for her?  
-   Options: About 9 metres / About 4 metres / About 13 metres / About 36 metres  
+   Options: About 4 metres / About 9 metres / About 13 metres / About 36 metres  
    **Answer:** About 9 metres. *Why:* She is exactly 4 metres deep, so the window is about 9 metres wide. If she rose to 2 metres, it would be about half as wide, 4 and a half metres. Choosing 36 multiplies the two numbers together.
 
 ## Videos
@@ -638,37 +638,37 @@ Murugan looked at the sea. Then, very slowly, he put one foot in.
 
 ## Quiz
 1. (mcq) A ray inside a block of glass goes out into the air at a slant. Which way does it bend?  
-   Options: Away from the normal / Toward the normal / It does not bend / It bends along the surface  
+   Options: Toward the normal / Away from the normal / It does not bend / It bends along the surface  
    **Answer:** Away from the normal. *Why:* Light speeds up going from glass into air, so it bends away from the normal. Choosing toward the normal is the rule for going into glass, not out of it.
 2. (mcq) A beam of light arrives at the surface of a pond exactly along the normal. What does it do?  
-   Options: Goes straight on without bending / Bends toward the normal / Bends away from the normal / Is trapped  
+   Options: Bends toward the normal / Bends away from the normal / Goes straight on without bending / Is trapped  
    **Answer:** Goes straight on without bending. *Why:* Light arriving along the normal has an angle of 0 degrees, and it does not bend. The bend appears only when the light arrives at a slant.
 3. (mcq) What is the main reason light bends when it goes into glass at a slant?  
-   Options: It moves more slowly in glass than in air / Glass pulls it / Glass is heavy / Light gets tired  
+   Options: Glass pulls it / It moves more slowly in glass than in air / Glass is heavy / Light gets tired  
    **Answer:** It moves more slowly in glass than in air. *Why:* Light moves more slowly in glass. Think of the beam as a wide path. The side that enters the glass first slows down first, while the other side is still moving fast. That uneven speed swings the beam round. Pulling, weight and tiredness are common guesses, but none of them is the reason.
 4. (mcq) Which statement about the refractive index is true?  
    Options: A bigger number means slower light and a bigger bend / A bigger number means faster light / It tells how heavy a material is / It is the same for every material  
    **Answer:** A bigger number means slower light and a bigger bend. *Why:* The refractive index tells how many times slower light is in a material than in empty space. A bigger number means a bigger slowing and a bigger bend.
 5. (mcq) A diver on a calm day looks up and sees a bright round window of sky with a silver ring around it. What is the silver ring?  
-   Options: The underside of the water surface acting as a mirror / A reflection from the Sun / Foam on the sea / A cloud  
+   Options: A reflection from the Sun / Foam on the sea / The underside of the water surface acting as a mirror / A cloud  
    **Answer:** The underside of the water surface acting as a mirror. *Why:* At shallow angles, light from below meets the surface beyond the critical angle, so all of it bounces back. The ring is a mirror that shows the sea bed. Foam and clouds are not the cause.
 6. (mcq) What must be true for total internal reflection to happen?  
-   Options: Light goes from a slower material to a faster one, at an angle bigger than the critical angle / Light goes from air into water / Light goes along the normal / The material is very cold  
+   Options: Light goes from air into water / Light goes along the normal / Light goes from a slower material to a faster one, at an angle bigger than the critical angle / The material is very cold  
    **Answer:** Light goes from a slower material to a faster one, at an angle bigger than the critical angle. *Why:* Only light trying to leave a slower material for a faster one can be trapped, and only if its angle is bigger than the critical angle. Going into a slower material, light always gets in.
 7. (mcq) How does an optical fibre keep light inside it as it curves?  
-   Options: The light bounces off the walls again and again, because it meets them at shallow angles / The fibre is painted black / The light is pushed along by wind / The fibre soaks up the light  
+   Options: The fibre is painted black / The light is pushed along by wind / The fibre soaks up the light / The light bounces off the walls again and again, because it meets them at shallow angles  
    **Answer:** The light bounces off the walls again and again, because it meets them at shallow angles. *Why:* In a fibre, the light meets the wall at a shallow angle, so total internal reflection sends it back in each time. The light zigzags along, even round curves.
 8. (mcq) Why does the shiny patch on a hot road seem to move away as you walk toward it?  
-   Options: You see it only along a shallow angle, and ahead of you there is always a new place with that shallow angle / The road is cooling / It is water running away / It gets embarrassed  
+   Options: The road is cooling / It is water running away / It gets embarrassed / You see it only along a shallow angle, and ahead of you there is always a new place with that shallow angle  
    **Answer:** You see it only along a shallow angle, and ahead of you there is always a new place with that shallow angle. *Why:* The picture of the sky is seen only when you look along the road at a shallow angle. A new place farther ahead always has that angle. So it keeps moving ahead of you.
 9. (mcq) A child's eye makes a sharp picture in front of the retina, so faraway things look blurry. Which lens helps?  
-   Options: A hollow lens / A bulging lens / A flat piece of glass / A coloured lens  
+   Options: A bulging lens / A flat piece of glass / A coloured lens / A hollow lens  
    **Answer:** A hollow lens. *Why:* A hollow lens spreads the light a little first, so the sharp picture moves back onto the retina. A bulging lens would bend the light even more and make the problem worse.
 10. (mcq) A telescope has lenses with focal lengths of 40 centimetres and 4 centimetres. About how many times does it magnify?  
    Options: 10 times / 36 times / 44 times / 160 times  
    **Answer:** 10 times. *Why:* A telescope magnifies by the focal length of the first lens divided by the focal length of the eyepiece. 40 divided by 4 is 10.
 11. (mcq) Why can you see a rainbow only when the Sun is behind you?  
-   Options: The drops send light back toward the Sun's side, so the Sun must be behind you / The Sun is too bright in front / Rain falls only behind you / Rainbows are made by the eyes  
+   Options: The Sun is too bright in front / The drops send light back toward the Sun's side, so the Sun must be behind you / Rain falls only behind you / Rainbows are made by the eyes  
    **Answer:** The drops send light back toward the Sun's side, so the Sun must be behind you. *Why:* Light enters a raindrop, bounces off the back and comes out heading back roughly toward where it came from. For red light, it leaves about 42 degrees away from the line that runs from the Sun past your head. So the drops that send light to your eyes lie in the direction opposite the Sun.
 12. (mcq) A scientist takes the back coats off an ox eye and sees a tiny upside-down picture on the back wall of the eye. What does this show?  
    Options: The lens of the eye bends light to form a picture on the retina / The lens of the eye is the screen that sees / Ox eyes are special / Light comes out of the eye  
@@ -755,6 +755,15 @@ Follow the Light (sci.light.L4): Topic-level song
 - [A plastic protractor (a school geometry box has one)](https://www.amazon.in/s?k=protractor+15+cm+transparent) (tool): For Measure the Bend. Most school bags already have one. A transparent 15 centimetre protractor is best. Used in e1. 
 - [A hand magnifying glass, and a stronger 5 times or 10 times reading magnifier](https://www.amazon.in/s?k=magnifying+glass+hand+held+kids) (tool): For the model eye and the Two-Lens Telescope. A stationery shop or an optician's shop sells them for Rs 50 to 200. Used in e2, p1. 
 - [A pair of cheap reading spectacles, plus 2 or plus 2.5](https://www.amazon.in/s?k=reading+glasses+plus+2.0+men+women) (tool): For the model eye and the Two-Lens Telescope, if nobody at home has a pair to lend. A pavement or pharmacy pair costs about Rs 100 to 200. This is the one item many families will not have; ask a grandparent or neighbour first. Used in e2, p1. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in Build an Eye That Needs Spectacles, Two-Lens Telescope: see faraway things upside down. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e2, p1. Get it before Build an Eye That Needs Spectacles.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Measure the Bend: how much does water turn a beam?, Build an Eye That Needs Spectacles, Two-Lens Telescope: see faraway things upside down. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, p1. Get it before Measure the Bend: how much does water turn a beam?.
+- [Small torch bulbs or LEDs with a holder](https://www.amazon.in/s?k=torch+bulb+holder+set) (tool): Used in Measure the Bend: how much does water turn a beam?, The Glowing Water Jet. About ₹10 to ₹50. A small torch can be taken apart for its bulb. Used in e1, a3. Get it before Measure the Bend: how much does water turn a beam?.
+- [A set of lenses (convex and concave)](https://www.amazon.in/s?k=convex+concave+lens+set) (tool): Used in Build an Eye That Needs Spectacles, Two-Lens Telescope: see faraway things upside down. About ₹80 to ₹250. A magnifying glass is one convex lens. Used in e2, p1. Get it before Build an Eye That Needs Spectacles.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Measure the Bend: how much does water turn a beam?, Build an Eye That Needs Spectacles, Two-Lens Telescope: see faraway things upside down. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in e1, e2, p1. Get it before Measure the Bend: how much does water turn a beam?.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in Measure the Bend: how much does water turn a beam?. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in e1. Get it before Measure the Bend: how much does water turn a beam?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Measure the Bend: how much does water turn a beam?, Build an Eye That Needs Spectacles, Two-Lens Telescope: see faraway things upside down. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e1, e2, p1. Get it before Measure the Bend: how much does water turn a beam?.
+- [Iron nails or iron filings](https://www.amazon.in/s?k=iron+filings+science) (material): Used in The Glowing Water Jet. About ₹20 to ₹80. Short steel nails from a hardware shop. Used in a3. Get it before The Glowing Water Jet.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is the normal in a bend diagram? → An imaginary line at a right angle to the surface. We measure every angle from it.
@@ -774,8 +783,8 @@ Follow the Light (sci.light.L4): Topic-level song
 
 ## Sources
 - Founder's notebook, Light, seeing and shadows: the experiment to refract light through a water-filled glass, and the activity to make rainbow patterns, used in the bend test and the rainbow card
-- Combined lesson sci-C4-light-seeing-and-shadows: its Class 4 coverage of how light bends and how lenses work, which this unit extends to measuring the bend, total internal reflection and telescopes
-- The Class 3 refraction unit, which this unit builds on: the idea that light bends and slows in water and glass, now taken on to the rule, the critical angle, fibres, mirages and eyes
+- Combined lesson sci-C4-light-seeing-and-shadows: its Class 4 coverage of how light bends and how lenses work, which this lesson extends to measuring the bend, total internal reflection and telescopes
+- The Class 3 refraction unit, which this lesson builds on: the idea that light bends and slows in water and glass, now taken on to the rule, the critical angle, fibres, mirages and eyes
 - Ibn al-Haytham, Kitab al-Manazir (Book of Optics), about 1011 to 1021, on refraction and the eye
 - Willebrord Snell, about 1621, and Rene Descartes, La Dioptrique, 1637, on the law of refraction
 - Johannes Kepler, Ad Vitellionem Paralipomena, 1604, on the picture in the eye and how spectacles work

@@ -1,7 +1,7 @@
 # Pushes and pulls: what a force is and which way it acts
 `sci.forces.push-and-pull.L3`
 
-**Summary.** When you push a wall, the wall pushes you back just as hard. How can a wall push? In this unit you will test it, launch a balloon rocket, play a tug-of-war card game with force arrows, and draw six everyday forces as arrows.
+**Summary.** When you push a wall, the wall pushes you back just as hard. How can a wall push? In this lesson you will test it, launch a balloon rocket, play a tug-of-war card game with force arrows, and draw six everyday forces as arrows.
 
 **Intro.** *Try this. Stand facing a wall, about one step away. Put both palms on the wall and push. Did the wall move? You can feel something pressing back on your palms. What is it?* In a tug of war, everyone watches the rope. Each team pulls as hard as it can. One team slides forward and loses. Most people say the winners pulled harder on the rope. But the rope is one rope. Can it pull one end harder than the other? By the end of these lessons, you will be able to answer that. You will also know what decides which team wins.
 
@@ -187,7 +187,7 @@ We have been learning that every push and pull is a force, and that forces come 
 Every force comes in a pair, acting on two different things. When you walk, you push the floor back, and the floor pushes you forward. Even the whole Earth moves back a tiny bit under your feet. This shows that no movement belongs to one thing alone: each step is shared between you and the ground. Science measures the sharing exactly, as two equal and opposite pushes.
 
 - **Empedocles, fragment DK B17:** “δίπλ’ ἐρέω· τοτὲ μὲν γὰρ ἕν ηὐξήθη μόνον εἶναι / ἐκ πλεόνων, τοτὲ δ’ αὖ διέφυ πλέον’ ἐξ ἑνὸς εἶναι / Νεῖκος τ’ οὐλόμενον δίχα τῶν, ἀτάλαντον ἁπάντηι, / καὶ Φιλότης ἐν τοῖσιν, ἴση μῆκός τε πλάτος τε·” Empedocles, a Greek thinker about 2,450 years ago, said two powers move everything. Love brings things together. Strife drives them apart. (Physics also finds that forces either attract, pulling things together, or repel, pushing them apart. Electrons repelling electrons is what makes every touching push.)
-- **Bhagavad Gita 3.27:** “प्रकृतेः क्रियमाणानि गुणैः कर्माणि सर्वशः। / अहङ्कारविमूढात्मा कर्ताऽहमिति मन्यते।।” All actions are done by the powers of nature. Only someone confused by pride thinks, 'I am the doer.' (The Gita is talking about who does our actions, not about physics. But this unit finds something close. In the Push the Wall experiment, you could not slide away from the wall by yourself. You moved only because the wall pushed back.)
+- **Bhagavad Gita 3.27:** “प्रकृतेः क्रियमाणानि गुणैः कर्माणि सर्वशः। / अहङ्कारविमूढात्मा कर्ताऽहमिति मन्यते।।” All actions are done by the powers of nature. Only someone confused by pride thinks, 'I am the doer.' (The Gita is talking about who does our actions, not about physics. But this lesson finds something close. In the Push the Wall experiment, you could not slide away from the wall by yourself. You moved only because the wall pushed back.)
 - **Marcus Aurelius, Meditations 4.40:** “Ὡς ἓν ζῷον τὸν κόσμον, μίαν οὐσίαν καὶ ψυχὴν μίαν ἐπέχον, συνεχῶς ἐπινοεῖν / καὶ πῶς ὁρμῇ μιᾷ πάντα πράσσει καὶ πῶς πάντα πάντων τῶν γινομένων συναίτια” Think of the universe as one living being. All things in it act together and help cause everything that happens. (Every force is between two things, and everything pulls everything with gravity. No force ever acts on one thing only.)
 - Science (settled): Every touching push you feel is the electrons in your hand and in the wall pushing each other away.
 - Science (open): Scientists can measure every force very well. But what a force really is, deep down, is still argued about.
@@ -672,14 +672,14 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
 1. (sort) Sort these actions. Is each one a push or a pull?  
    **Answer:** squeezing toothpaste out of a tube → Push; drawing up a bucket of water on a rope → Pull; shutting a cupboard door → Push; opening the fridge door → Pull; kicking a football → Push; taking off your socks → Pull. *Why:* A push presses on something or moves it away from you. A pull drags something towards you. Squeezing the tube is a push, because your fingers press on it.
 2. (mcq) Many people think only living things can push or pull. Which of these is a force with no living being doing it?  
-   Options: The wind pushing a boat's sail / A girl kicking a ball / A dog pulling on his lead / A boy lifting his school bag  
+   Options: A girl kicking a ball / A dog pulling on his lead / A boy lifting his school bag / The wind pushing a boat's sail  
    **Answer:** The wind pushing a boat's sail. *Why:* The wind is moving air, and it pushes the sail. Magnets, the wind and the Earth's gravity all push or pull, and none of them is alive. The other three are forces too, but a living being does each of them.
 3. (match) Match each moment to what the force did to the moving thing.  
    **Answer:** A cyclist squeezes her brakes → slowed it down; A bowler throws a cricket ball → started it moving; A fielder catches the ball → stopped it; A girl kicks a rolling ball sideways → changed its direction. *Why:* Forces start things moving, stop them, speed them up, slow them down and turn them. Without a force, a moving thing would carry on just as it was.
 4. (fill) Any push or pull is called a ____.  
    **Answer:** ['force']. *Why:* A force is a push or a pull. Every force acts in a direction.
 5. (mcq) Two arrows are drawn on a box. One arrow is short and one is long. What does the long arrow tell you?  
-   Options: That push is bigger / That push is slower / That push comes from further away / Nothing. Arrows only show direction  
+   Options: That push is slower / That push comes from further away / Nothing. Arrows only show direction / That push is bigger  
    **Answer:** That push is bigger. *Why:* A force arrow shows two things: the way the force points, and how big it is. A longer arrow means a bigger force. Picking 'only direction' misses the size.
 6. (write) You sit on a towel and push a wall with your feet. You were the one who pushed, but you slide away from the wall. Why? Use the words push and back in your answer.  
    **Answer:** When I pushed the wall, the wall pushed me back just as hard. That push back moved me away. The wall did not move, because it is fixed to the house.. *Why:* A strong answer says that forces come in pairs: your push on the wall, and the wall's push back on you.
@@ -689,7 +689,7 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
    Options: gravity / stalk pulls up / push / friction  
    **Answer:** gravity down, stalk pulls up up. *Why:* Gravity pulls the mango down. The stalk pulls it up just as hard, so it stays still. If the stalk breaks, only gravity is left, and the mango falls.
 9. (mcq) Look at the chart. The left team pulls with 4 and the right team pulls with 6. Which way does the rope move?  
-   Options: Left / Right / It does not move  
+   Options: Left / It does not move / Right  
    **Answer:** Right. *Why:* 6 is bigger than 4, so the forces are unbalanced. The rope moves towards the right team. Picking 'left' means the shorter bar was read as the winner.
 10. (sort) Sort these forces. Do they work by touching, or from far away across a gap?  
    **Answer:** a magnet pulling a steel pin across a gap → Works from far away; a coconut falling from a tree → Works from far away; a rubbed balloon pulling up bits of paper → Works from far away; rowing a boat with an oar → Works by touching; pressing a lift button → Works by touching; the wind pushing a kite → Works by touching. *Why:* Gravity, magnetic forces and electric forces can work across a gap. The kite is the surprise for many people. The wind is moving air, and the air touches the kite as it pushes.
@@ -703,32 +703,32 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
 14. (write) Think about your morning. Name one thing a force started moving, and one thing a force stopped. Say what pushed or pulled each one.  
    **Answer:** For example: I started the tap water by turning the tap, a push and a pull together. My hand stopped a rolling pencil by pushing against it.. *Why:* A strong answer names a real start and a real stop, and says which push or pull did each one.
 15. (mcq) A balloon is taped to a straw on a string. When you let go, its air rushes out to the left. Which way does the balloon go?  
-   Options: To the left, with the air / To the right / It stays still  
+   Options: To the right / To the left, with the air / It stays still  
    **Answer:** To the right. *Why:* The balloon pushes its air out to the left, so the air pushes the balloon to the right. Picking 'to the left' means the balloon was pictured being carried along with the air.
 ### Arrows at Work (stretch) (stretch, 16 questions)
 1. (mcq) Two children push a cupboard from the same side. One pushes with 30 newtons and one with 20 newtons. What is their total push?  
    Options: 10 newtons / 50 newtons / 600 newtons / 20 newtons  
    **Answer:** 50 newtons. *Why:* Pushes in the same direction add up: 30 and 20 make 50 newtons. Picking 10 means the pushes were taken away, which only happens when they point opposite ways. A newton is the unit for measuring a force.
 2. (mcq) Now the two children push the cupboard from opposite sides. One pushes it to the right with 30 newtons. The other pushes it to the left with 20 newtons. What happens?  
-   Options: It moves right, pushed by 10 newtons / It moves left, pushed by 10 newtons / It moves right, pushed by 50 newtons / It does not move at all  
+   Options: It moves left, pushed by 10 newtons / It moves right, pushed by 10 newtons / It moves right, pushed by 50 newtons / It does not move at all  
    **Answer:** It moves right, pushed by 10 newtons. *Why:* Opposite pushes work against each other. 30 take away 20 is 10. The bigger push points right, so the cupboard is pushed right with 10 newtons. In real life, friction with the floor might still stop it moving.
 3. (fill) Two forces are the same size and point opposite ways, so they cancel out. We call them ____ forces.  
    **Answer:** ['balanced']. *Why:* Balanced forces cancel each other out, so nothing about the motion changes. A thing at rest stays at rest.
 4. (write) You flick a carrom coin twice, equally hard. First you aim it at the top pocket, then at the left pocket. What stays the same about your flick, and what changes? Why does the coin go somewhere different?  
    **Answer:** The size of the flick stays the same, because I flick equally hard. The direction changes. A force pushes a thing the way the force points, so a new direction sends the coin somewhere new.. *Why:* A strong answer separates the two parts of a force: its size and its direction. Changing only the direction is enough to change the result.
 5. (mcq) You blow on a ping-pong ball from the bottom of a tray. At the same moment, a friend blows on it from the left side, just as hard. Which way does the ball go?  
-   Options: Straight up the tray / Straight to the right / Slantwise, towards the top right corner / It does not move  
+   Options: Slantwise, towards the top right corner / Straight up the tray / Straight to the right / It does not move  
    **Answer:** Slantwise, towards the top right corner. *Why:* Your blow pushes it up the tray, and your friend's blow pushes it to the right. The two pushes together send it slantwise, towards the top right. Picking one straight direction means only one push was counted.
 6. (mcq) When you walk, what pushes you forwards?  
-   Options: The ground, because your feet push it backwards / The air, because your legs push it / Gravity, pulling you forwards / Nothing. Walking needs no force  
+   Options: The air, because your legs push it / Gravity, pulling you forwards / The ground, because your feet push it backwards / Nothing. Walking needs no force  
    **Answer:** The ground, because your feet push it backwards. *Why:* Your feet push the ground backwards, and the ground pushes you forwards. This is a force pair. Picking gravity is a common mix-up. Gravity pulls you down, not forwards.
 7. (write) Why is it so hard to walk on a floor where oil has been spilled? Use the word push in your answer.  
    **Answer:** To walk, my feet must push the floor backwards. On oil, my feet slip instead of pushing, so the floor cannot push me forwards.. *Why:* A strong answer uses the force pair from walking: no push on the ground means no push back from the ground. The grip between feet and floor is called friction.
 8. (mcq) A boatwoman on the Kerala backwaters pushes her long bamboo pole backwards against the river bed. Which way does her boat move?  
-   Options: Forwards, opposite to her push / Backwards, the same way as her push / It does not move  
+   Options: Backwards, the same way as her push / Forwards, opposite to her push / It does not move  
    **Answer:** Forwards, opposite to her push. *Why:* She pushes the river bed backwards, and the river bed pushes the pole, and the boat, forwards. Picking 'backwards' means the push back was forgotten.
 9. (mcq) A cricket bat hits a ball hard. What does the ball do to the bat?  
-   Options: It pushes the bat back, just as hard / Nothing, because the ball is smaller / It pulls the bat forwards  
+   Options: Nothing, because the ball is smaller / It pulls the bat forwards / It pushes the bat back, just as hard  
    **Answer:** It pushes the bat back, just as hard. *Why:* Every push comes with an equal push back. The batter feels it as a jolt in her hands. The ball flies off fast because it is light, but the heavy bat, held tight in her hands, barely slows down. Picking 'nothing' is the usual first guess.
 10. (truefalse) Your muscles can push your bones as well as pull them.  
    **Answer:** False. *Why:* False. A muscle can only pull, by getting shorter. That is why muscles work in pairs: one pulls a joint bent, and the other pulls it straight again.
@@ -743,7 +743,7 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
 14. (write) Tipu Sultan ruled Mysore, in south India, over 200 years ago. His army used rockets with iron cases. Explain how a rocket is pushed forwards. Use the words push and backwards.  
    **Answer:** The rocket pushes hot gas out backwards, very fast. The gas pushes the rocket forwards, just as hard.. *Why:* A strong answer names the force pair: the rocket's push on the gas, and the gas's push on the rocket. It does not need air to push against.
 15. (perspective) In a tug of war, why does one team win? Three people give their answers.  
-   **Answer:** Anjali is right about the rope: it pulls both ends equally, so stronger arms alone do not win. Her mother has a real point too: a heavier team presses down harder, so their feet grip the ground better and can push harder. The captain is right that strong arms help hold on.. *Why:* A strong answer uses evidence from the tug of war (for example, crouching low and pushing with the feet made a difference). It also gives fair credit to another view. These people come from this unit's story, The Rope That Could Only Pull.
+   **Answer:** Anjali is right about the rope: it pulls both ends equally, so stronger arms alone do not win. Her mother has a real point too: a heavier team presses down harder, so their feet grip the ground better and can push harder. The captain is right that strong arms help hold on.. *Why:* A strong answer uses evidence from the tug of war (for example, crouching low and pushing with the feet made a difference). It also gives fair credit to another view. These people come from this lesson's story, The Rope That Could Only Pull.
 16. (draw) Draw a girl pushing a swing. Draw an arrow for her push on the swing. Then draw an arrow for the swing's push back on her.  
    **Answer:** One arrow starts on the swing and points away from the girl. A second arrow, the same length, starts on the girl and points the opposite way, away from the swing.. *Why:* A strong drawing shows the two forces of a pair as the same size, pointing opposite ways, and acting on different things.
 ### Pushes, Pulls and the Universe (challenge) (challenge, 15 questions)
@@ -751,10 +751,10 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
    Options: Both roll apart, and the girl rolls away faster, because she is lighter / Only her brother moves, because she did the pushing / Both roll apart at the same speed / Nobody moves, because the pushes cancel  
    **Answer:** Both roll apart, and the girl rolls away faster, because she is lighter. *Why:* Her push on him comes with his push back on her, just as hard. The same push speeds up a lighter person more, so the girl rolls back about twice as fast as her brother. Picking 'only her brother' forgets the push back. Picking 'the pushes cancel' forgets that the two pushes act on different people, so they can't cancel.
 2. (mcq) Deep down, why can't your hand go through a wall when you press on it?  
-   Options: The electrons in your hand and in the wall push each other apart / Tiny hooks on the wall catch your hand / Gravity pushes your hand back / Air is trapped between them  
+   Options: Tiny hooks on the wall catch your hand / The electrons in your hand and in the wall push each other apart / Gravity pushes your hand back / Air is trapped between them  
    **Answer:** The electrons in your hand and in the wall push each other apart. *Why:* Every touching push comes from electric forces between atoms. Electrons push other electrons away. Picking gravity mixes up two forces. Gravity only pulls, and it is far too weak to stop your hand.
 3. (mcq) A comet is a ball of ice and dust. Near the Sun, it grows a long glowing tail. Why does the tail always point away from the Sun?  
-   Options: Sunlight and the solar wind, a stream of tiny particles from the Sun, push the dust and gas outwards / The comet is always moving away from the Sun / The Sun's gravity pulls the tail backwards / The tail is a shadow  
+   Options: The comet is always moving away from the Sun / The Sun's gravity pulls the tail backwards / Sunlight and the solar wind, a stream of tiny particles from the Sun, push the dust and gas outwards / The tail is a shadow  
    **Answer:** Sunlight and the solar wind, a stream of tiny particles from the Sun, push the dust and gas outwards. *Why:* Light really pushes. In space, the gentle push of sunlight and the solar wind blows the tail outwards. Picking 'moving away' is a sensible guess, but the tail points away from the Sun even when the comet moves towards it.
 4. (truefalse) A spacecraft coasting through empty space needs its engine on all the time to keep moving.  
    **Answer:** False. *Why:* False. With nothing to slow it, it keeps going. A force is needed only to change motion.
@@ -772,7 +772,7 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
 10. (draw) Draw yourself standing on the Earth. Draw an arrow for the Earth pulling you, and an arrow for you pulling the Earth. How long should each arrow be?  
    **Answer:** One arrow starts on the child and points down towards the Earth. An equal arrow starts on the Earth and points up towards the child.. *Why:* The two pulls are a force pair, so they are the same size and point opposite ways. Each acts on a different thing.
 11. (mcq) India is slowly pushing north into the rest of Asia, about 5 centimetres a year. What has that push made over millions of years?  
-   Options: The Himalayas / The Thar desert / The Bay of Bengal / The monsoon  
+   Options: The Thar desert / The Himalayas / The Bay of Bengal / The monsoon  
    **Answer:** The Himalayas. *Why:* The push of India into Asia crumpled the rocks upwards into the Himalayas, and they are still rising a little each year. A small push, kept up for millions of years, can build the tallest mountains on Earth.
 12. (mcq) A boy kicks a football. His foot pushes the ball forwards. What is the partner force, the one that comes back?  
    Options: The ball pushes his foot backwards, just as hard / Gravity pulls the ball down / The ground pushes the ball forwards / There is no partner force, because the ball is lighter  
@@ -791,19 +791,19 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
 
 ## Quiz
 1. (mcq) Which of these is a force?  
-   Options: A magnet pulling a pin / The colour of a ball / The length of a rope  
+   Options: The colour of a ball / A magnet pulling a pin / The length of a rope  
    **Answer:** A magnet pulling a pin. *Why:* A force is a push or a pull, and the magnet pulls. A colour or a length is something you can describe, but it does not push or pull anything.
 2. (mcq) A girl squeezes half a lemon over her rice. Is her squeeze a push or a pull?  
-   Options: A push, from both sides / A pull / Neither  
+   Options: A pull / A push, from both sides / Neither  
    **Answer:** A push, from both sides. *Why:* Her fingers press on the lemon from both sides, so it is a push. Picking 'neither' means a squeeze was not seen as a force. But the juice comes out because she pushes.
 3. (mcq) A rolling ball reaches a rough doormat and stops. What stopped it?  
-   Options: The mat rubbing against it, a force called friction / Nothing. It just ran out of moving / Gravity pushing it backwards  
+   Options: Nothing. It just ran out of moving / Gravity pushing it backwards / The mat rubbing against it, a force called friction  
    **Answer:** The mat rubbing against it, a force called friction. *Why:* A moving thing only slows or stops if a force acts on it. Here it is friction, the grip between two surfaces. Picking 'ran out of moving' is a very old idea that turned out to be wrong.
 4. (mcq) Which of these needs no force at all?  
    Options: A ball rolling on at the same speed in empty space / A ball starting to roll / A ball turning a corner  
    **Answer:** A ball rolling on at the same speed in empty space. *Why:* Forces change motion. Starting and turning are changes, so they need a force. A ball going on at the same speed and in the same direction needs no force.
 5. (mcq) A football is kicked just as hard, once to the left and once to the right. Why does it end up in different places?  
-   Options: The direction of the kick changed / The kick got bigger / The ball got lighter  
+   Options: The kick got bigger / The ball got lighter / The direction of the kick changed  
    **Answer:** The direction of the kick changed. *Why:* Same strength means same size of force. Only the direction changed, and that alone sends the ball somewhere else.
 6. (mcq) Where should a force arrow start?  
    Options: On the thing the force acts on / Anywhere on the page / On the person doing the pushing  
@@ -812,19 +812,19 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
    Options: It moves backwards, away from the shore / It stays still / It follows you to the shore  
    **Answer:** It moves backwards, away from the shore. *Why:* Your feet push the boat backwards as you jump, and the boat pushes you forwards. Picking 'stays still' means the push on the boat was forgotten.
 8. (mcq) A balloon car pushes air out of its back. What moves the car forwards?  
-   Options: The air pushing back on the balloon / The wheels pushing themselves / Gravity  
+   Options: The wheels pushing themselves / Gravity / The air pushing back on the balloon  
    **Answer:** The air pushing back on the balloon. *Why:* The balloon pushes the air backwards, and the air pushes the balloon, and the car, forwards. The wheels only help it roll.
 9. (mcq) A tug of war rope is pulled tight and is not moving. One end is pulled with 200 newtons. What is the pull at the other end?  
    Options: 200 newtons / 400 newtons / 0 newtons  
    **Answer:** 200 newtons. *Why:* A tight, still rope is pulled equally at both ends. Picking 400 means the two ends were added, but it is one pull passing along the rope.
 10. (mcq) A balloon rubbed on your hair lifts tiny bits of paper without touching them. What kind of force is this?  
-   Options: A pull from far away, an electric force / A touching push / It is not a force  
+   Options: A touching push / A pull from far away, an electric force / It is not a force  
    **Answer:** A pull from far away, an electric force. *Why:* Rubbing gives the balloon an electric charge, which pulls the paper across a gap. Picking 'not a force' misses that the paper moved, and moving needs a force.
 11. (mcq) Muscles can only pull. So how do you kick a ball?  
-   Options: Muscles pull on the leg bones, and the foot at the end pushes the ball / The muscles push the ball / The ball pulls your foot  
+   Options: The muscles push the ball / The ball pulls your foot / Muscles pull on the leg bones, and the foot at the end pushes the ball  
    **Answer:** Muscles pull on the leg bones, and the foot at the end pushes the ball. *Why:* A muscle pulls on a bone, the bone swings, and the foot presses on the ball. A pull inside becomes a push outside.
 12. (mcq) You pull on the Earth too, just as hard as it pulls you. Why doesn't the Earth seem to move?  
-   Options: It is so huge that the pull hardly moves it / You do not really pull it at all / The Moon holds it still  
+   Options: You do not really pull it at all / It is so huge that the pull hardly moves it / The Moon holds it still  
    **Answer:** It is so huge that the pull hardly moves it. *Why:* The two pulls are the same size, but the Earth is enormous, so it moves far too little to notice. Picking 'you do not pull it' is the usual first guess.
 13. (mcq) Has the question 'what is a force, really?' been fully answered?  
    Options: No. Scientists still argue about it / Yes, long ago / Forces are not real  
@@ -844,12 +844,12 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
 - Video game designers use force arrows, called vectors, to make characters and balls move the way real things do.
 
 ## Spotted around us
-- A dabbawala pushing a handcart of tiffin boxes through a Mumbai street.
-- A bullock cart in a village, or a hand-pulled rickshaw in Kolkata, pulled along by an animal or a person.
+- A dabbawala pushing a handcart of tiffin boxes through a street.
+- A bullock cart in a village, or a hand-pulled rickshaw, pulled along by an animal or a person.
 - Drawing water from a well, the rope pulling the bucket up.
-- A tug of war at a school sports day, or vadamvali at Onam in Kerala.
-- Kites on Makar Sankranti in Gujarat, each string pulling its kite towards a rooftop.
-- A woman poling a boat on the Kerala backwaters, pushing against the river bed.
+- A tug of war at a school sports day, or vadamvali at Onam.
+- Kites on Makar Sankranti, each string pulling its kite towards a rooftop.
+- A woman poling a boat on a river or a canal, pushing against the bed.
 - A peepal tree growing out of an old wall, the tree's roots pushing the bricks apart.
 - The weather map on the news, with arrows showing the monsoon wind.
 - A temple bell, pulled by its rope or pushed by a hand.
@@ -888,7 +888,7 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
 - In the Arrow Wars game, you played arrows of 3 and 2. Your friend played arrows of 4 and 4. Which way does the rope move, and by how many squares? **Towards your friend, by 3 squares.**. Your total is 3 + 2 = 5. Your friend's total is 4 + 4 = 8. The pulls point opposite ways, so take the smaller from the bigger. 8 take away 5 is 3. Your friend's pull is bigger, so the rope moves 3 squares towards your friend. (queues `math.addition-subtraction.word-problems.L3`)
 - In the Push the Wall experiment, these were the three tries for a hard push: 90 cm, 110 cm and 100 cm. What is the middle value? **100 cm.**. Put the three numbers in order: 90, 100, 110. The middle one is 100. So the middle value is 100 cm. We use the middle value because one try can be a fluke. (queues `math.number-sense.comparing-ordering.L3`)
 - The balloon rocket went 90 cm with 3 breaths, 200 cm with 6 breaths and 300 cm with 9 breaths. Look at the chart. How much further did it go with 9 breaths than with 3 breaths? **210 cm further.**. 300 take away 90 is 210. So with 9 breaths, the balloon went 210 cm further than with 3 breaths. That is 2 metres and 10 centimetres. (queues `math.data.bar-charts.L3`)
-- In Arrow Spotting, suppose you draw 1 centimetre of arrow for each unit of force. A push of 6 units and a push of 2 units act the same way on a cart. How long should the arrow for the total push be? **8 centimetres.**. The pushes point the same way, so they add up. 6 + 2 = 8 units. At 1 centimetre for each unit, the arrow is 8 centimetres long. Measure it with a ruler, starting from zero. (queues `math.length.standard-units-length.L3`)
+- In Arrow Spotting, suppose you draw 1 centimetre of arrow for each lesson of force. A push of 6 units and a push of 2 units act the same way on a cart. How long should the arrow for the total push be? **8 centimetres.**. The pushes point the same way, so they add up. 6 + 2 = 8 units. At 1 centimetre for each lesson, the arrow is 8 centimetres long. Measure it with a ruler, starting from zero. (queues `math.length.standard-units-length.L3`)
 - In the Blow the Ball experiment, you blow from the bottom edge of the tray, and the ball rolls up. Then you move round a quarter turn and blow from the left edge. Which way does the ball roll now? **To the right.**. Blowing from the bottom pushes the ball up. Moving a quarter turn round to the left edge turns the push a quarter turn too, which is a right angle. A push from the left edge points to the right. (queues `math.lines-angles.angles.L3`)
 - In the Gentle Tug of War, a child pulls with 4 units and a grown-up pulls the other way with 9 units. How much more pull does the child's side need to make the forces balanced? **5 more units.**. Balanced means both sides pull equally. The grown-up pulls 9. The child pulls 4. 4 + ? = 9. The missing number is 5, because 9 take away 4 is 5. So the child's side needs 5 more units, perhaps from a friend. (queues `math.algebra.balance-and-missing-numbers.L3`)
 
@@ -911,6 +911,12 @@ Push, Pull, Hold On (sci.forces.L3):
 - [Paper drinking straws](https://www.amazon.in/s?k=paper+straws) (material): Used for the balloon rocket track, blowing the ball and the balloon car. Used in e2, e3, p1. 
 - [Ping-pong balls](https://www.amazon.in/s?k=table+tennis+balls) (material): Light balls that are easy to push with your breath, for Blow the Ball and Move It Without Touching. Used in e3, c1. 
 - [A bar magnet for children](https://www.amazon.in/s?k=bar+magnet+kids) (tool): Shows a pull from far away. Used in a4, c1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Bending Ruler: forces when nothing moves, Forces From Far Away, Muscles Only Pull: build a cardboard arm. About ₹10 to ₹30. Any school ruler is fine. Used in a3, a4, a5. Get it before The Bending Ruler: forces when nothing moves.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Push the Wall: does the wall push back?, Muscles Only Pull: build a cardboard arm, Build a Balloon-Powered Car. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e1, a5, p1. Get it before Push the Wall: does the wall push back?.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Forces From Far Away. About ₹30 to ₹60. Newspaper cut into strips also works. Used in a4. Get it before Forces From Far Away.
+- [A small toy car with free-rolling wheels](https://www.amazon.in/s?k=toy+car+pull+back+small) (material): Used in Push and Pull Hunt, and the Mystery Bag, Build a Balloon-Powered Car. About ₹100 to ₹200. A marble or a round torch cell works. Used in a1, p1. Get it before Push and Pull Hunt, and the Mystery Bag.
+- [Marbles (a few)](https://www.amazon.in/s?k=glass+marbles+pack) (material): Used in Push the Wall: does the wall push back?, The Marble Bend. About ₹10 to ₹40. Small round stones or dried chana. Used in e1, c2. Get it before Push the Wall: does the wall push back?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Is opening a drawer a push or a pull? → A pull.

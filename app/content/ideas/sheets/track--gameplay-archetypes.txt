@@ -1,0 +1,33 @@
+# DeepKids HomeSchooling Track / GamePlay Archetypes (copied from Google Sheets, 2026-11-27)
+R1: 🧰 Gameplay Archetypes to Rotate
+R3: Here’s a starter set — so each topic can land in a unique way:
+R4: Cycle / Relay Games
+R5: For concepts that are about flow, transformation, continuity.
+R6: Eg: Energy, Water Cycle, Food Chain.
+R7: Mystery / Detective Play
+R8: For concepts about hidden layers, cause-effect, investigation.
+R9: Eg: Causality/Karma, Atoms/Particles, Consciousness.
+R10: Contradiction / Paradox Games
+R11: For concepts that hold two opposite truths at once.
+R12: Eg: Reality (real/not real), Quantum Physics (particle/wave), Zero & Infinity.
+R13: Arena / Debate Play
+R14: For concepts about clashing forces, multiple viewpoints.
+R15: Eg: Fringe Science, Time Travel ethics, Consciousness as universal vs. human-only.
+R16: Performance / Embodiment Games
+R17: For concepts that need to be felt in the body.
+R18: Eg: Gravity (fall, jump, balance), Sound (vibrate, sing, echo).
+R19: Puzzle / Construction Games
+R20: For concepts about structure, order, emergence.
+R21: Eg: Symmetry, Crystals, DNA, Math patterns.
+R22: Exploration / Mapping Games
+R23: For concepts about scale, place, orientation.
+R24: Eg: Universe history, Maps of space, Wormholes.
+R25: Economy / Resource Games
+R26: For concepts about limits, conservation, trade-offs.
+R27: Eg: Entropy, Energy efficiency, Zero-sum.
+R28: Story / Narrative Chain
+R29: For concepts that unfold over time and sequence.
+R30: Eg: Evolution story, History of Science, Causality strings.
+R31: Hidden Role / Secret Information Games
+R32: For concepts where observation changes outcome.
+R33: Eg: Observer Effect, Entanglement, Illusion/Mask.

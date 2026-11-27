@@ -1,9 +1,9 @@
 # Seasons in India: summer, monsoon and winter, and what changes
 `sci.day-night-seasons.seasons.L2`
 
-**Summary.** Why are white clothes cooler than black ones in the summer sun? In this unit you will test it by seeing which cloth melts ice first, spot the season in old family photos, and sort things into summer, monsoon and winter. You will also see if damp air can soften a crisp papad.
+**Summary.** Why are white clothes cooler than black ones in the summer sun? In this lesson you will test it by seeing which cloth melts ice first, spot the season in old family photos, and sort things into summer, monsoon and winter. You will also see if damp air can soften a crisp papad.
 
-**Intro.** *In May in Chennai, a white cotton saree and a black T-shirt hang on the same clothes line. After an hour in the sun, the black T-shirt is too hot to touch, and the saree is not. Both were in the same sunshine. Why did one get so much hotter?* Look at a photo of your home from a few months ago. Is anything different from today? Maybe the fan was off, or there was an umbrella by the door, or everyone wore sweaters. The year in India turns from hot to rainy to cool, and back again. These parts of the year are called seasons. In this unit we find out what changes in each season, why the monsoon reaches Kochi weeks before Delhi, and why people choose white cotton for the summer.
+**Intro.** *In May in Chennai, a white cotton saree and a black T-shirt hang on the same clothes line. After an hour in the sun, the black T-shirt is too hot to touch, and the saree is not. Both were in the same sunshine. Why did one get so much hotter?* Look at a photo of your home from a few months ago. Is anything different from today? Maybe the fan was off, or there was an umbrella by the door, or everyone wore sweaters. The year in India turns from hot to rainy to cool, and back again. These parts of the year are called seasons. In this lesson we find out what changes in each season, why the monsoon reaches Kochi weeks before Delhi, and why people choose white cotton for the summer.
 
 ## Learning outcomes
 0. By the end I can name India's three big seasons, summer, monsoon and winter, in the order they come.
@@ -473,13 +473,13 @@ Kannan thought about it. "Tomorrow is school," he said. "School always opens in 
 8. (label) Label the picture: sun, black cloth, white cloth, ice that melted most.  
    **Answer:** ['sun: at the top, shining on both', 'black cloth: on the left plate', 'white cloth: on the right plate', 'ice that melted most: under the black cloth']. *Why:* In the same sun, the black cloth absorbs more light, so its ice melts most.
 9. (mcq) Which of these is a monsoon clue?  
-   Options: Frogs croaking at night / Kites over Ahmedabad / Mangoes on the cart  
+   Options: Kites over Ahmedabad / Frogs croaking at night / Mangoes on the cart  
    **Answer:** Frogs croaking at night. *Why:* Male frogs croak in the rainy season to call females. Kites over Ahmedabad come in January, and mangoes in summer.
 10. (perspective) Two friends in Hyderabad are choosing a shirt for a hot afternoon walk.  
    **Answer:** A strong answer picks a side with evidence. The first person is right that white reflects more light, so ice under a white cloth melts more slowly than under a black one. The second person is right that loose clothes let moving air carry heat away, as scientists found with desert robes.. *Why:* Both colour and fit matter. A loose white shirt does both jobs.
 ### Seasons across India (stretch) (stretch, 10 questions)
 1. (mcq) In November, it is raining hard in Chennai. What is the weather most likely to be in Mumbai?  
-   Options: Dry and sunny / Heavy monsoon rain / Snow  
+   Options: Heavy monsoon rain / Snow / Dry and sunny  
    **Answer:** Dry and sunny. *Why:* Mumbai's monsoon is from June to September. Chennai gets its big rain later, from the northeast monsoon.
 2. (write) In early June, it is raining in Kochi but not in Delhi. Why?  
    **Answer:** The monsoon rain reaches Kerala first and moves north slowly. It reaches Delhi weeks later.. *Why:* A strong answer says the rain travels north and that Kochi is far to the south of Delhi.
@@ -533,25 +533,25 @@ Kannan thought about it. "Tomorrow is school," he said. "School always opens in 
    Options: A part of the year with its own kind of weather / One rainy day / A festival  
    **Answer:** A part of the year with its own kind of weather. *Why:* A season lasts many weeks and comes back every year. One rainy day is just weather.
 2. (mcq) In most of India, which season comes right after summer?  
-   Options: The monsoon / Winter / Summer again  
+   Options: Winter / The monsoon / Summer again  
    **Answer:** The monsoon. *Why:* In most of India, the monsoon rains come after the hot summer, from June.
 3. (mcq) Which of these changes from summer to winter?  
-   Options: The clothes we wear / The number of days in a week / The colour of the sky at night  
+   Options: The number of days in a week / The colour of the sky at night / The clothes we wear  
    **Answer:** The clothes we wear. *Why:* People change their clothes with the seasons. A week always has 7 days.
 4. (mcq) Why do clothes take so long to dry in the monsoon?  
    Options: The air is humid, full of water we cannot see / The clothes get heavier / The sun is switched off  
    **Answer:** The air is humid, full of water we cannot see. *Why:* Humid air already holds a lot of water, so wet clothes dry slowly. The Damp Box test showed that air can carry water.
 5. (mcq) Where does the monsoon rain usually arrive first?  
-   Options: Kerala / Delhi / Ladakh  
+   Options: Delhi / Ladakh / Kerala  
    **Answer:** Kerala. *Why:* The monsoon rain usually reaches Kerala around the first of June, then moves north.
 6. (mcq) When does Chennai get most of its rain?  
-   Options: October to December / March to May / Only in January  
+   Options: March to May / October to December / Only in January  
    **Answer:** October to December. *Why:* Chennai gets most of its rain from the northeast monsoon, from October to December.
 7. (mcq) Why does a white cloth stay cooler in the sun?  
-   Options: It reflects most of the sunlight / It is colder inside / It has no sunlight on it  
+   Options: It is colder inside / It has no sunlight on it / It reflects most of the sunlight  
    **Answer:** It reflects most of the sunlight. *Why:* The sun shines on the white cloth too, but white sends most of the light back, so less turns into heat.
 8. (mcq) Why do male frogs croak loudly in the monsoon?  
-   Options: To call female frogs / Because they are cold / To stop the rain  
+   Options: Because they are cold / To call female frogs / To stop the rain  
    **Answer:** To call female frogs. *Why:* The monsoon is the frogs' breeding season. Males croak by the puddles to call females.
 9. (mcq) Which tree is covered in red flowers in the summer?  
    Options: The gulmohar / The coconut palm / The banana plant  
@@ -560,7 +560,7 @@ Kannan thought about it. "Tomorrow is school," he said. "School always opens in 
    Options: 3 months / 2 months / 12 months  
    **Answer:** 3 months. *Why:* December, January, February: 3 months.
 11. (mcq) Pongal and the kites of Uttarayan both come in January. Which season is that in most of India?  
-   Options: Winter / Monsoon / Summer  
+   Options: Monsoon / Summer / Winter  
    **Answer:** Winter. *Why:* January is in the winter months, December to February.
 
 ## Applications
@@ -573,11 +573,11 @@ Kannan thought about it. "Tomorrow is school," he said. "School always opens in 
 - Anna Mani, a physicist from Kerala, led the team at the India Meteorological Department that made India's own weather instruments, including ones to measure sunshine and wind.
 
 ## Spotted around us
-- In Tamil Nadu in summer, look for neer mor pandals: stalls that give out free cool buttermilk to anyone walking by.
+- In summer, look for stalls that give out free cool buttermilk to anyone walking by.
 - On the first heavy rain of the monsoon, listen at night for frogs croaking from puddles and drains.
-- In January, the sky over Ahmedabad and many towns in Gujarat fills with kites for Uttarayan.
+- In January, the sky fills with kites for Uttarayan.
 - On a hot afternoon, find a black car and a white car parked in the same sun. Touch each roof quickly and lightly with one finger. Which is hotter?
-- In April and May, look for gulmohar trees covered in red flowers along city roads, from Bengaluru to Bhopal.
+- In April and May, look for gulmohar trees covered in red flowers along city roads.
 - In the monsoon, green moss and small ferns grow on damp building walls.
 
 ## Open questions
@@ -620,9 +620,10 @@ Hot, Wet and Cool (sci.day-night-seasons.L2):
 - [Climate of India (Wikipedia)](https://en.wikipedia.org/wiki/Climate_of_India) · interactive: For the parent: India's seasons, with maps of rain and heat in each part of the country.
 - [Monsoon of South Asia (Wikipedia)](https://en.wikipedia.org/wiki/Monsoon_of_South_Asia) · interactive: For the parent: how the monsoon moves across India, with maps of its usual arrival dates.
 - [India Meteorological Department](https://mausam.imd.gov.in) · interactive: India's weather department. Each June it shows on a map how far north the monsoon has reached.
-- [Sohra (Cherrapunji), one of the wettest places on Earth]() · place · Sohra, Meghalaya: Visit in the monsoon to see waterfalls and some of the heaviest rain in the world.
+- Sohra (Cherrapunji), one of the wettest places on Earth · place · Sohra, Meghalaya: Visit in the monsoon to see waterfalls and some of the heaviest rain in the world.
 
 ## Things to buy
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name India's three big seasons. → Summer, monsoon and winter.

@@ -1,9 +1,9 @@
 # Birds around us: feathers, beaks, nests and calls
 `sci.animals.birds.L1`
 
-**Summary.** A hen cannot fly far, and a bat can fly well. So which of them is a bird? In this unit you will find out what makes a bird a bird, count bird calls with beans at three times of the day, and see how a beak fits the food a bird eats.
+**Summary.** A hen cannot fly far, and a bat can fly well. So which of them is a bird? In this lesson you will find out what makes a bird a bird, count bird calls with beans at three times of the day, and see how a beak fits the food a bird eats.
 
-**Intro.** *Close your eyes at the window for one minute. How many birds can you hear?* Even in a big city, birds call outside almost every window. You may hear a crow, a myna, a pigeon or a koel. Count the calls on your fingers. In this unit we find out what birds are, and what their calls mean.
+**Intro.** *Close your eyes at the window for one minute. How many birds can you hear?* Even in a big city, birds call outside almost every window. You may hear a crow, a myna, a pigeon or a koel. Count the calls on your fingers. In this lesson we find out what birds are, and what their calls mean.
 
 ## Learning outcomes
 0. By the end I can say what makes a bird a bird: feathers.
@@ -19,6 +19,7 @@
 - **Beak**: A beak is a bird's hard mouth. Birds have no teeth. The beak picks up, holds and breaks the food. *e.g.* A parakeet cracks a hard seed with a strong, hooked beak.
 - **Nest**: A nest is a safe place a bird makes to lay eggs and keep the chicks. *e.g.* A crow builds a nest of sticks high in a tree.
 - **Call and song**: A call is a short sound a bird makes to send a message. A song is a longer string of sounds. *e.g.* A crow calls 'kaa' to other crows. A koel sings 'ku-oo, ku-oo', louder and louder.
+- **Preening**: Preening is when a bird cleans and oils their feathers with their beak. The oil keeps the feathers tidy and helps them shed water. *e.g.* A crow on your balcony rail runs each wing feather through her beak, one by one, after the rain.
 
 ## Explanations
 ### What makes a bird a bird · *defined*
@@ -45,10 +46,12 @@ A sparrow has a short, thick beak to crack small seeds. A sunbird has a long, th
 ### Nests are for eggs and chicks · *defined*
 **Definition:** A bird builds a nest to keep the eggs and chicks safe and warm.
 
-Most birds do not live in a nest all year. They build one when it is time to lay eggs. Each kind of bird builds in their own way. A crow uses sticks, and in cities sometimes wire. A tailorbird stitches two leaves together with thread from plants or spider silk. A pigeon makes a small pile of twigs on a ledge.
+Most birds do not live in a nest all year. They build one when it is time to lay eggs. Each kind of bird builds in their own way. A crow uses sticks, and in cities sometimes wire. A tailorbird stitches two leaves together with thread from plants or spider silk. A pigeon makes a small pile of twigs on a ledge. A baya weaver weaves a nest from long strips of grass. The nest hangs like a bag from a thin branch, often over water, where a snake cannot easily reach it. A woodpecker uses her strong beak to chisel a hole in a tree trunk. She lays her eggs inside, in the safe dark.
 - e.g. A crow's nest of sticks sits high in a tree.
 - e.g. A tailorbird's nest hides inside two leaves stitched together.
 - e.g. A red-wattled lapwing lays her eggs on bare ground, and sometimes on a flat roof.
+- e.g. A baya weaver's nest hangs from a thin branch like a woven grass bag.
+- e.g. A woodpecker's nest is a round hole chiselled into a tree trunk.
 ### Bird calls are messages · *debated*
 Birds call to tell other birds things. One call can mean 'danger, a cat is near'. Another can mean 'here is food' or 'where are you?'. Birds sing to say 'this place is mine' and to find a partner. Other birds act on these calls, so the calls are messages. Some scientists say only humans have a real language, and bird calls are simpler signals.
 - e.g. Crows call loudly together when they see a cat or an owl.
@@ -59,7 +62,7 @@ Birds call to tell other birds things. One call can mean 'danger, a cat is near'
 ### Feeding birds safely · *defined*
 **Definition:** Birds need clean water every day, and the right food if we feed them.
 
-In an Indian summer, city birds can find it hard to get water. A shallow bowl of clean water helps them drink and bathe. Change the water every day, so mosquitoes cannot breed in it. If you put out food, give grains, plain cooked rice or cut fruit. Never give salty, spicy, sugary or fried food.
+In an Indian summer, city birds can find it hard to get water. A shallow bowl of clean water helps them drink and bathe. Change the water every day, so mosquitoes cannot breed in it. If you put out food, give grains, plain cooked rice or cut fruit. Never give salty, spicy, sugary or fried food. A simple bird bath is a shallow dish, about a finger deep. Put a flat stone in the middle, so small birds can stand and drink. Set it in a shady place, away from where a cat can jump.
 - e.g. A clay bowl of water on a balcony in May.
 - e.g. A pinch of broken rice or millet on a ledge.
 - e.g. No namkeen, chips or biscuits for birds.
@@ -314,18 +317,35 @@ That night Thenmozhi drew the nest, the two eggs, the cat and the four bulbuls. 
   - Ask: Why change the water every day? (good: So it stays clean.; So mosquitoes don't lay eggs.)
   - Note: Birds may take a few days to find a new bowl. If no bird comes on day 2, that is still a real result. Keep the bowl out and look again. Mosquitoes can breed in water left for a few days, so change it daily.
   - Wait: Come back tomorrow
+### a4 · Build a Nest: with what a bird can find (20 min)
+- **safety:** Only pick up what is already lying on the ground. Never take anything from a real nest, and never go near a nest with eggs or chicks.
+- **record:** Take a photo of your nest with the two eggs inside. Tell your grown-up which material was hardest to use.
+- **s1 (6 min)**  
+  *Parent does:* Go outside with your child. Collect grass, twigs, leaves and fibre that have already fallen. A bird has no hands, so collect them in a pile.  
+  *Parent says:* A bird must find all her nest materials. What can we find here?  
+  *Child mode:* Collect things from the ground. Choose soft things and strong things.
+- **s2 (9 min)**  
+  *Parent does:* Your child holds the peg like a beak and builds the nest with it, not with fingers. Twigs go first, to make a ring. Then grass and fibre go inside, to make a soft cup.  
+  *Parent says:* A bird builds with her beak only. Which things go on the outside? Which go inside?  
+  *Child mode:* Build a ring of twigs. Make a soft cup inside. Use only the peg.
+  - Note: A bird can take hours or days to build a nest. If it falls apart, that is a real result. Try again with the grass woven in.
+- **s3 (5 min)**  
+  *Parent does:* Put two eggs in the nest. Tip it gently. See if the eggs stay in.  
+  *Parent says:* Will the eggs stay in? What would make the nest stronger?  
+  *Child mode:* Put in the eggs. Tip the nest a little.
+  - Check: Why does a bird put soft grass and fluff inside the nest? → **To keep the eggs and chicks warm and soft**
 
 ## Projects
 ### p1 · My Window Bird Book (35 min, 5 days)
 - **record:** One page for each day: the bird, the shape of its beak, what a bird was doing, and how many bird sounds you heard. Draw, or tell a grown-up who writes it down.
-- **schedule:** day 1: Make the book. Watch from a window for 5 minutes. Draw the first bird, or tell its colours and your grown-up writes them. (10 min); day 2: Watch for 5 minutes. Look at a bird's beak and say what shape the beak is. Your grown-up writes it on the page. (5 min); day 3: Watch for 5 minutes. Act out what a bird was doing: eating, calling, flying or resting. Your grown-up writes it on the page. (5 min); day 4: Listen with eyes closed for 5 minutes. Count the different bird sounds you hear. Write the number on the page. (5 min); day 5: Finish the cover. Show your book to someone at home and tell them about each page. (10 min)
+- **schedule:** day 1: Make the book. Watch from a window for 5 minutes. Draw the first bird, or tell its colours and your grown-up writes them. Write the colours of the head, back, wing and throat. (10 min); day 2: Watch for 5 minutes. Look at a bird's beak and say what shape the beak is. Your grown-up writes it on the page. (5 min); day 3: Watch for 5 minutes. Act out what a bird was doing: eating, calling, flying or resting. Your grown-up writes it on the page. Also write how the bird moves (hops, walks or flies) and where the bird sits. (5 min); day 4: Listen with eyes closed for 5 minutes. Count the different bird sounds you hear. Write the number on the page. (5 min); day 5: Finish the cover. Show your book to someone at home and tell them about each page. (10 min)
 - **s1 (10 min)**  
-  *Parent does:* 1. Fold the book. A grown-up staples it. 2. Write the title together. 3. Watch from a window for 5 minutes. 4. Your child draws the first bird, or says its colours while you write them.  
+  *Parent does:* 1. Fold the book. A grown-up staples it. 2. Write the title together. 3. Watch from a window for 5 minutes. 4. Your child draws the first bird, or says its colours while you write them. 5. Look at the bird's head, back, wing and throat. Write the colour of each.  
   *Parent says:* This book will hold the birds you see and hear from our window. Look out. Which bird can you see?  
   *Child mode:* Watch the window. Draw the first bird, or tell your grown-up its colours.
   - Note: If you see no bird, draw one you heard, or a bird you have seen before from this window. Crows and pigeons are nearly always about.
 - **s2 (15 min)**  
-  *Parent does:* 1. Day 2: watch for 5 minutes. Ask if the beak is short and thick, long and thin, or hooked. Write the answer on the page. 2. Day 3: watch for 5 minutes. Your child acts out what a bird was doing. Write it on the page. 3. Day 4: listen with eyes closed for 5 minutes. Write how many different bird sounds your child heard.  
+  *Parent does:* 1. Day 2: watch for 5 minutes. Ask if the beak is short and thick, long and thin, or hooked. Write the answer on the page. 2. Day 3: watch for 5 minutes. Your child acts out what a bird was doing. Write it on the page. 3. Day 4: listen with eyes closed for 5 minutes. Write how many different bird sounds your child heard. Also on day 3, ask how the bird moves (hops, walks or flies) and where the bird sits: a wire, a branch, a wall or the ground.  
   *Parent says:* Today's page needs one bird. Watch closely for 5 minutes.  
   *Child mode:* Watch or listen. Tell your grown-up what to write on your page.
   - Ask: What was the bird doing? (good: Eating seeds.; Calling to another crow.; Sitting in the sun.)
@@ -357,7 +377,7 @@ That night Thenmozhi drew the nest, the two eggs, the cat and the four bulbuls. 
   *Child mode:* Do the chana stay in? If not, change one thing and try again.
 
 ## Worksheets
-### The World of Birds (core) (core, 10 questions)
+### The World of Birds (core) (core, 12 questions)
 1. (sort) Circle the birds. Cross out the animals who are not birds.  
    **Answer:** hen → Bird; bat → Not a bird; peacock → Bird; butterfly → Not a bird; ostrich → Bird; cat → Not a bird. *Why:* Hens, peacocks and ostriches have feathers, so they are birds. A bat and a cat have fur, and a butterfly is an insect.
 2. (match) Draw a line from each beak to the food.  
@@ -365,7 +385,7 @@ That night Thenmozhi drew the nest, the two eggs, the cat and the four bulbuls. 
 3. (draw) Draw a bird. Colour the feathers. Show the beak, two wings and two legs.  
    **Answer:** A bird with feathers, a beak, two wings and two legs.. *Why:* A strong drawing shows all four parts every bird has: feathers, a beak, two wings and two legs.
 4. (mcq) A bird sitting on her nest hears another bird's danger call. Why does she press down flat and stay still?  
-   Options: To hide from the danger / She is sleepy / She is looking for food  
+   Options: She is sleepy / To hide from the danger / She is looking for food  
    **Answer:** To hide from the danger. *Why:* The danger call warns that a cat or other hunter is near. Pressing flat and staying still makes her hard to see.
 5. (draw) In the experiment A Bean for Every Call, you dropped a bean in a cup for every bird call. Draw the three cups. Draw the beans from each cup in a line underneath.  
    **Answer:** Three lines of beans of different lengths, labelled morning, afternoon and evening.. *Why:* A strong drawing shows the longest line under the time with the most calls, as the child found.
@@ -375,18 +395,22 @@ That night Thenmozhi drew the nest, the two eggs, the cat and the four bulbuls. 
    **Answer:** ['wing feather: fly', 'fluffy feather: keep warm']. *Why:* Stiff wing feathers push on the air. Fluffy feathers hold warm air next to the bird's skin.
 8. (match) Draw a line from each bird to the nest.  
    **Answer:** Crow → A nest of sticks in a tree; Tailorbird → Two leaves stitched together; Pigeon → A few twigs on a ledge. *Why:* Crows pile up sticks, tailorbirds stitch leaves, and pigeons make a small, loose pile of twigs.
-9. (write) A crow calls loudly and other crows fly to her. What might she be saying? Tell a grown-up, who writes your answer down.  
+9. (fill) A woodpecker chisels a round hole in a tree ________ to make a safe place for her eggs.  
+   **Answer:** trunk. *Why:* A woodpecker's strong beak can cut wood. The hole is a safe, dark nest.
+10. (label) Look at a bird, or at a picture of a bird. Write the colour of each part.  
+   **Answer:** ['head: a colour', 'back: a colour', 'wing: a colour', 'throat: a colour']. *Why:* Colours of the head, back, wing and throat help you tell one kind of bird from another. The throat is the front of the neck, under the beak.
+11. (write) A crow calls loudly and other crows fly to her. What might she be saying? Tell a grown-up, who writes your answer down.  
    **Answer:** She might be saying 'danger', or 'come here', or 'there is food'.. *Why:* A strong answer says the call is a message, and gives a reason from what the other crows did.
-10. (perspective) Two friends see a baby bird hopping on the ground under a tree.  
+12. (perspective) Two friends see a baby bird hopping on the ground under a tree.  
    **Answer:** A strong answer picks a side with a reason, such as 'The second friend, because the parents are still feeding the chick.' Then it is fair to the first friend, who wants to keep the chick safe from cats.. *Why:* A chick hopping on the ground is often learning to fly, and the parents still feed the chick. Watching from far away is usually best. If the chick is hurt, a grown-up can call a bird rescue group.
-### The World of Birds (stretch) (stretch, 10 questions)
+### The World of Birds (stretch) (stretch, 12 questions)
 1. (odd) Which of these is NOT a job that feathers do?  
    Options: Keep a bird warm / Help a bird fly / Help a bird see in the dark / Keep a bird dry  
    **Answer:** 2. *Why:* Feathers help a bird fly, keep warm, keep dry and show colours. They do not help a bird see.
 2. (draw) Draw a pigeon on a cold morning and a pigeon on a hot afternoon.  
    **Answer:** A round, fluffed-up pigeon for the cold morning, and a thin, sleek pigeon for the hot afternoon.. *Why:* A strong drawing shows the fluffed-up feathers in the cold, because fluffing holds more warm air.
 3. (mcq) Juice is at the bottom of a tall, thin bottle. Why can a straw reach it when a spoon cannot?  
-   Options: The straw is long and thin / The straw is red / The straw is soft  
+   Options: The straw is red / The straw is soft / The straw is long and thin  
    **Answer:** The straw is long and thin. *Why:* A long, thin straw reaches deep into the bottle, as a sunbird's long, thin beak reaches deep into a flower.
 4. (write) When you count bird calls, why is it better to drop a bean for each call than just to remember? Tell a grown-up, who writes your answer down.  
    **Answer:** Because you can count the beans afterwards and compare the cups. Remembering is hard.. *Why:* A strong answer says the beans keep a true count we can see and compare later.
@@ -402,6 +426,10 @@ That night Thenmozhi drew the nest, the two eggs, the cat and the four bulbuls. 
    **Answer:** True. *Why:* True. Today no other animal has feathers. Bats and insects fly without them.
 10. (perspective) Two sisters talk about the pigeons on their balcony.  
    **Answer:** A strong answer picks a side with a reason. For the older sister: the grain helps the birds. For the younger sister: too many pigeons push other birds away, and the droppings can make people ill. Then the child is fair to the other side.. *Why:* This is a real argument. Feeding helps some birds, but feeding a lot in one place can bring huge flocks of one kind. Water in summer helps every kind of bird.
+11. (truefalse) A deep bucket of water is the best bath for small birds.  
+   **Answer:** False. *Why:* False. A small bird can drown in deep water. A shallow dish with a flat stone to stand on is safe.
+12. (match) Draw a line from each bird to how she makes her nest.  
+   **Answer:** Baya weaver → Weaves strips of grass into a hanging bag; Woodpecker → Chisels a hole in a tree trunk; Tailorbird → Stitches two leaves together. *Why:* Each kind of bird builds in her own way, with her beak and what she can find.
 
 ## Videos
 - **The dawn chorus in an Indian city: birds calling at sunrise** (, 3 min) id `zWw1AoCtA3U`: Lets the child hear many Indian city birds calling at once, to compare with what they heard in the experiment A Bean for Every Call. *Check:* Found by YouTube search: "Dawn Chorus in India || Bird Sounds for Stress Relief || 4 min , No Music, use headphones by Archana Mishra". Title checked automatically; a parent may still preview it.
@@ -410,16 +438,16 @@ That night Thenmozhi drew the nest, the two eggs, the cat and the four bulbuls. 
 
 ## Quiz
 1. (mcq) What does every bird have?  
-   Options: Feathers / Fur / Teeth  
+   Options: Fur / Feathers / Teeth  
    **Answer:** Feathers. *Why:* Every bird has feathers. Birds have no teeth, and fur belongs to animals like cats and bats.
 2. (mcq) A bat can fly. Is a bat a bird?  
-   Options: Yes, because a bat flies / No, because a bat has no feathers / Only at night  
+   Options: Yes, because a bat flies / Only at night / No, because a bat has no feathers  
    **Answer:** No, because a bat has no feathers. *Why:* A bat has fur, not feathers. Flying does not make an animal a bird.
 3. (mcq) What do soft, fluffy feathers do for a bird?  
-   Options: Keep the bird warm / Help the bird see / Help the bird eat  
+   Options: Help the bird see / Help the bird eat / Keep the bird warm  
    **Answer:** Keep the bird warm. *Why:* Fluffy feathers hold warm air close to the skin, like a blanket.
 4. (mcq) A sparrow has a short, thick beak. What does a sparrow mostly eat?  
-   Options: Fish / Seeds and grains / Nectar from flowers  
+   Options: Seeds and grains / Fish / Nectar from flowers  
    **Answer:** Seeds and grains. *Why:* A short, thick beak is strong enough to crack seeds and grains.
 5. (mcq) Why does a bird build a nest?  
    Options: To keep the eggs and chicks safe / To store food for winter / To hide from the rain every night of the year  
@@ -428,7 +456,7 @@ That night Thenmozhi drew the nest, the two eggs, the cat and the four bulbuls. 
    Options: She digs a hole in the ground / She stitches leaves together / She uses mud only  
    **Answer:** She stitches leaves together. *Why:* A tailorbird pokes holes in leaves with her beak and stitches them with plant thread or spider silk.
 7. (mcq) You drop one bean into a cup each time you hear a bird call. What does one bean stand for?  
-   Options: One bird / One bird call / One minute  
+   Options: One bird call / One bird / One minute  
    **Answer:** One bird call. *Why:* One bean drops for every call. So more beans means more calls.
 8. (mcq) A bulbul gives a fast, sharp call when a cat comes near. What does the call mean?  
    Options: Danger! / Good morning / I am hungry  
@@ -437,8 +465,23 @@ That night Thenmozhi drew the nest, the two eggs, the cat and the four bulbuls. 
    Options: Salty chips / A shallow bowl of clean water / Sweet biscuits  
    **Answer:** A shallow bowl of clean water. *Why:* Birds need water to drink and bathe. In summer, city birds can find it hard to get water. Salty and sweet snacks can make them ill.
 10. (mcq) Why should you change the water in a bird bowl every day?  
-   Options: So it stays clean and mosquitoes cannot breed / So it stays cold / So the bowl looks shiny  
+   Options: So it stays cold / So it stays clean and mosquitoes cannot breed / So the bowl looks shiny  
    **Answer:** So it stays clean and mosquitoes cannot breed. *Why:* Old water gets dirty, and mosquitoes can lay eggs in still water left for days.
+11. (mcq) A baya weaver's nest hangs from a thin branch like a bag. What is the nest made from?  
+   Options: A hole chiselled in a tree / Mud and a few twigs on a ledge / Long strips of grass, woven  
+   **Answer:** Long strips of grass, woven. *Why:* The baya weaver weaves long strips of grass into a hanging nest. A woodpecker chisels a hole in a tree, and a pigeon piles twigs on a ledge.
+12. (mcq) A woodpecker lays her eggs inside a round hole in a tree trunk. How did the hole get there?  
+   Options: A snake made it / It grew there by itself / She chiselled it with her strong beak  
+   **Answer:** She chiselled it with her strong beak. *Why:* A woodpecker has a strong beak and chisels a hole in the wood. The hole keeps her eggs safe in the dark.
+13. (mcq) You build a nest with only a clothes peg, as a bird uses her beak. Which job is hardest for the bird?  
+   Options: Carrying and fitting each twig and blade of grass, one at a time / Looking at the nest / Sitting in the nest  
+   **Answer:** Carrying and fitting each twig and blade of grass, one at a time. *Why:* A bird has no hands. She carries and weaves every piece with her beak, one at a time. That is why a nest takes many trips and hours.
+14. (mcq) You make a bird bath for sparrows. Which one is best?  
+   Options: A deep bucket of water in the sun / A dish of water on the ground next to a cat / A shallow dish with a flat stone in the middle, in the shade  
+   **Answer:** A shallow dish with a flat stone in the middle, in the shade. *Why:* Small birds stand on the stone and drink, and a shallow dish is safe. Shade keeps the water cool. Cats can jump on a bird on the ground.
+15. (mcq) Rani watches a myna. Which note in her bird diary will help her know the same bird tomorrow?  
+   Options: A nice bird / Yellow beak and legs, brown back, black head, hops on the ground / A bird in the tree  
+   **Answer:** Yellow beak and legs, brown back, black head, hops on the ground. *Why:* A good note says the colours of the head, back, beak and legs, and how the bird moves. Notes like 'a nice bird' fit every bird.
 
 ## Applications
 - Bird watchers count birds every year to see which kinds are growing in number and which are going down.
@@ -448,11 +491,11 @@ That night Thenmozhi drew the nest, the two eggs, the cat and the four bulbuls. 
 
 ## Spotted around us
 - House crows on a wire calling to each other in the morning, in almost every Indian city.
-- A koel calling 'ku-oo' louder and louder from a tree in Chennai or Delhi in April and May.
-- Pigeons fluffed up into round balls on a ledge on a winter morning in Lucknow or Pune.
-- A purple sunbird sipping from hibiscus flowers on a balcony in Bengaluru.
-- A big crowd of parakeets and mynas calling in a tree before dark, in Hyderabad or Kolkata.
-- Greater adjutant storks nesting in tall village trees in Assam, guarded by the women of the Hargila Army, a group of village women who protect the storks and their nests.
+- A koel calling 'ku-oo' louder and louder from a tree in April and May.
+- Pigeons fluffed up into round balls on a ledge on a winter morning.
+- A purple sunbird sipping from hibiscus flowers on a balcony.
+- A big crowd of parakeets and mynas calling in a tree before dark.
+- A big stork or heron nesting in a tall tree. Look at the long legs and the big beak.
 
 ## Open questions
 - **Why do birds sing most at dawn?** Scientists have several ideas. Sound may carry far in the still morning air, or it may be too dark to find food, so birds sing instead. Nobody is sure.
@@ -487,11 +530,15 @@ Who Lives in Our Home? (sci.animals.L1): Topic-level song for Animals L1
 ## Links
 - [xeno-canto: bird sounds from around the world](https://xeno-canto.org/) · interactive: For the parent: search the name of a bird you heard, like 'house crow' or 'Asian koel', and play the real call.
 - [Bird Count India](https://birdcount.in/) · interactive: For the parent: bird counts that Indian families can join, like the yearly Campus and Backyard bird counts.
-- [Vedanthangal Bird Sanctuary]() · place · Near Chennai, Tamil Nadu: One of India's oldest bird sanctuaries, where thousands of water birds nest in the winter months.
-- [Kokkare Bellur]() · place · Near Mandya, Karnataka: A village where painted storks and pelicans nest in the trees right among people's homes.
-- [Keoladeo National Park]() · place · Bharatpur, Rajasthan: A famous wetland with hundreds of kinds of birds.
+- Vedanthangal Bird Sanctuary · place · Near Chennai, Tamil Nadu: One of India's oldest bird sanctuaries, where thousands of water birds nest in the winter months.
+- Kokkare Bellur · place · Near Mandya, Karnataka: A village where painted storks and pelicans nest in the trees right among people's homes.
+- Keoladeo National Park · place · Bharatpur, Rajasthan: A famous wetland with hundreds of kinds of birds.
 
 ## Things to buy
+- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): Used in A Feather Up Close: unzip it and zip it back. About ₹30 to ₹120. A water drop on clear plastic magnifies a little. Used in a1. Get it before A Feather Up Close: unzip it and zip it back.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Bird Café: what is good for birds, and what is not?. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in a3. Get it before Bird Café: what is good for birds, and what is not?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in A Bean for Every Call: when do birds call most?, Stitch a Cradle Like a Tailorbird. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1, c1. Get it before A Bean for Every Call: when do birds call most?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What does every bird have? → Feathers.
@@ -503,7 +550,7 @@ Who Lives in Our Home? (sci.animals.L1): Topic-level song for Animals L1
 
 ## Plan
 - Start options: intro, e1, g1, story, a1, cards
-- Default order: intro → summary → terms → g1 → e1 → explanations → story → g2 → a1 → a2 → ws-core → a3 → agreed → challenging → c1 → p1 → ws-stretch → how_we_found_out → videos → big_questions → open_questions → roots → quiz
+- Default order: intro → summary → terms → g1 → e1 → explanations → story → g2 → a1 → a2 → ws-core → a3 → agreed → challenging → c1 → p1 → a4 → ws-stretch → how_we_found_out → videos → big_questions → open_questions → roots → quiz
 - Core: g1, e1, a2, ws-core
 
 ## Sources

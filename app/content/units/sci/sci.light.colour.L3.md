@@ -1,7 +1,7 @@
 # Colour and rainbows: how sunlight splits into colours
 `sci.light.colour.L3`
 
-**Summary.** Sunlight looks white, so where do the colours of a rainbow come from? In this unit you will catch a rainbow on the floor with water, spin a colour wheel to turn colours back into white, and let only one colour through a filter.
+**Summary.** Sunlight looks white, so where do the colours of a rainbow come from? In this lesson you will catch a rainbow on the floor with water, spin a colour wheel to turn colours back into white, and let only one colour through a filter.
 
 **Intro.** *Fill a clear glass to the top with water. Stand it at the edge of a windowsill where the morning or evening Sun shines in. Now look at the floor below it. What do you notice? What do you wonder?* Sunlight looks plain and white. It lights up the kitchen and nobody thinks about it. But sometimes, after the monsoon rain, a giant curve of colours hangs in the sky. Where were those colours before the rain came? Were they in the clouds? In the water? Or were they hiding inside the sunlight all along? In 1666, about 360 years ago, a young man in England called Isaac Newton darkened his room to find out. He made a small hole in the window shutter and put a glass prism in the beam of sunlight.
 
@@ -117,6 +117,7 @@ If white light can be split into colours, can the colours be put back into white
 - e.g. A spinning rainbow top looks pale while it spins fast.
 - e.g. Phone and TV screens make white from tiny red, green and blue dots very close together.
 - e.g. A second prism, turned the other way, can join the colours again.
+- e.g. A square card spun fast can look round, because the moving corners blur together in your eye.
 ### Is colour in the light or in us? · *debated*
 Light has a wavelength, but the light itself does not carry the feeling of red. The feeling of red is made when light of that wavelength reaches an eye, and the brain turns the signals into a colour. Most people have three kinds of colour-sensing cells in their eyes. Each kind is best at a different part of the rainbow. The brain compares them and makes the colours we feel. Some people have only two kinds working. They mix up some colours, like red and green. The pink-purple called magenta is not in the rainbow at all. Your brain makes it when red and blue light arrive together, with no green.
 - e.g. Magenta, the colour of many bougainvillea flowers, has no place of its own in the rainbow.
@@ -649,7 +650,7 @@ Maryam frowned at her, as if she had gone mad. But Zainab only smiled, and stood
 6. (fill) A blue school bag looks blue because it reflects ____ light to our eyes and absorbs most of the other colours.  
    **Answer:** ['blue']. *Why:* Sunlight has all the colours. The bag's dye absorbs most of them and sends the blue back to our eyes. In red light, the same bag would look almost black.
 7. (mcq) You hold red cellophane in the sunbeam, before the light reaches the glass of water. Which colour reaches the paper on the floor?  
-   Options: Mostly red / All the colours / Mostly green / None  
+   Options: All the colours / Mostly red / Mostly green / None  
    **Answer:** Mostly red. *Why:* A red filter lets red light through and absorbs most of the others. Picking 'all the colours' means thinking the cellophane is just clear. Picking 'mostly green' mixes up which colour passes.
 8. (match) Match each thing to what it does to light.  
    **Answer:** Prism → splits white light into colours; Spinning rainbow wheel → mixes the colours back into white; Red cellophane → lets mostly red light through; Raindrop → sends one colour to your eye, as one tiny part of a rainbow. *Why:* Splitting, mixing and filtering are three things we can do with the colours in light.
@@ -669,17 +670,17 @@ Maryam frowned at her, as if she had gone mad. But Zainab only smiled, and stood
 15. (odd) Which one is the odd one out? A raindrop, a glass prism, a glass of water in sunlight, a mirror lying on a dry table. Say why.  
    **Answer:** a mirror lying on a dry table. *Why:* A mirror on its own just bounces light back, with no colours. The other three bend light as it passes through, so the colours spread apart. A mirror only makes colours when it sits under water, as in the water prism test.
 16. (mcq) Why does a white shirt look white in sunlight?  
-   Options: It reflects nearly all the colours of sunlight together / It absorbs all the colours / It makes its own white light / It has no colour at all  
+   Options: It absorbs all the colours / It makes its own white light / It reflects nearly all the colours of sunlight together / It has no colour at all  
    **Answer:** It reflects nearly all the colours of sunlight together. *Why:* When all the colours reach your eye together, you see white. A white shirt reflects them all. A black shirt absorbs nearly all of them, which is why it looks dark.
-### Bending, Bouncing and Blue Skies (stretch) (stretch, 15 questions)
+### Bending, Bouncing and Blue Skies (stretch) (stretch, 16 questions)
 1. (mcq) Each colour bends by its own amount in a prism. Predict: if every colour bent by exactly the same amount, what would you see on the floor?  
-   Options: A patch of white light, with no colours / A brighter rainbow / Only red / The colours in the opposite order  
+   Options: A brighter rainbow / A patch of white light, with no colours / Only red / The colours in the opposite order  
    **Answer:** A patch of white light, with no colours. *Why:* The colours spread apart only because they bend by different amounts. If they all bent the same, they would stay together and look white. This is why a flat window pane makes no rainbow: light comes out at the same angle it went in.
 2. (mcq) In the water prism test, the glass, the mirror in water and the prism all gave the same order of colours. What is the best conclusion?  
-   Options: The order comes from the light itself / All three were painted the same way / It was luck / Mirrors make rainbows  
+   Options: All three were painted the same way / It was luck / The order comes from the light itself / Mirrors make rainbows  
    **Answer:** The order comes from the light itself. *Why:* Three different things gave the same order, so the order must come from the light. Each colour has its own bending amount. Picking 'luck' would need three lucky results in a row.
 3. (mcq) A rainbow is part of a circle. Where is the centre of that circle?  
-   Options: At the shadow of your head / At the Sun / At the top of the cloud / At the end of the rainbow  
+   Options: At the Sun / At the top of the cloud / At the end of the rainbow / At the shadow of your head  
    **Answer:** At the shadow of your head. *Why:* The rainbow is a circle around the point exactly opposite the Sun, which is where your head's shadow falls. Picking 'the Sun' is a common mix-up, but the bow is on the other side of the sky from the Sun.
 4. (write) Why do we hardly ever see a rainbow at noon in summer? Use the shadow of your head in your answer.  
    **Answer:** A strong answer says that the rainbow is a circle around the shadow of your head. At noon the Sun is high, so your shadow is short and points nearly straight down. Then the whole circle is below the ground, where you cannot see it.. *Why:* A low Sun makes a long shadow and a high rainbow. That is why rainbows come in the morning and late afternoon.
@@ -694,7 +695,7 @@ Maryam frowned at her, as if she had gone mad. But Zainab only smiled, and stood
 9. (sort) Sort these. Is light of different colours being added together, or are some colours being taken away?  
    **Answer:** a red torch and a green torch shining on one spot of a white wall → Colours of light added together; a rainbow disc spinning fast → Colours of light added together; red cellophane held in a sunbeam → Some colours taken away; mixing yellow and blue paint → Some colours taken away; a green leaf in sunlight → Some colours taken away; a blue shirt in sunlight → Some colours taken away. *Why:* Adding lights makes things brighter, and all the colours together look white. Red and green light together even look yellow. Filters, paints, leaves and cloth all absorb some colours, so less light comes back. This is why mixing paints gives a dark, muddy brown, while mixing lights gives white.
 10. (mcq) Why is the sky blue in the daytime?  
-   Options: Air scatters blue light much more than other colours, sending it all over the sky / The sea reflects onto it / The sky is made of blue gas / Space is blue  
+   Options: The sea reflects onto it / Air scatters blue light much more than other colours, sending it all over the sky / The sky is made of blue gas / Space is blue  
    **Answer:** Air scatters blue light much more than other colours, sending it all over the sky. *Why:* The tiny particles of gas in air scatter blue light much more than red. So blue comes at us from every part of the sky. Picking 'the sea reflects onto it' is a very old idea. But the sky is blue over deserts too.
 11. (match) Match each person to what they found.  
    **Answer:** Isaac Newton → split sunlight with a prism and joined it back into white; Kamal al-Din al-Farisi → explained the rainbow with a glass ball of water, around 1300; William Herschel → found infrared, past the red end, in 1800; Cecilia Payne → used the split light of stars to show they are mostly hydrogen and helium, in 1925. *Why:* Many people in many countries, over many centuries, worked out the story of colour.
@@ -707,27 +708,29 @@ Maryam frowned at her, as if she had gone mad. But Zainab only smiled, and stood
    **Answer:** A white beam enters one side. Colours fan out of the other side, with red bent least and violet bent most.. *Why:* Each colour bends by its own amount. Violet bends most, so it ends up furthest from the straight path.
 15. (write) You hold green cellophane in the sunbeam, and then hold red cellophane in front of it too. Predict what reaches the floor, and explain.  
    **Answer:** A strong answer predicts that almost no light reaches the floor, so the patch goes dark. The green filter lets only green through. The red filter absorbs green and lets only red through. So almost nothing passes both.. *Why:* A filter does not add colours. It only takes some away. Two different filters together take away nearly all of them.
+16. (truefalse) A square card spun fast really turns into a circle.  
+   **Answer:** False. *Why:* False. The card stays square. Your eye blurs its moving corners, so the edge looks round.
 ### Colour Beyond the Rainbow (challenge) (challenge, 16 questions)
 1. (mcq) Newton passed red light from one prism through a second prism. What happened?  
-   Options: It stayed red / It split into more colours / It turned white / It disappeared  
+   Options: It split into more colours / It turned white / It stayed red / It disappeared  
    **Answer:** It stayed red. *Why:* A single colour does not split again. This showed that the prism does not add colours. It only separates the ones already in white light. Picking 'split into more colours' is what people who thought prisms make colours would expect.
 2. (write) In 1800, William Herschel found infrared light with a thermometer, not with his eyes. Why could he not see it? How did the thermometer show it was there?  
    **Answer:** A strong answer says that our eyes cannot see light past the red end. Herschel put thermometers in each colour and just beyond the red. The one past red, where there was no colour at all, got warmest. So some light he could not see was landing there.. *Why:* Instruments let scientists find things our senses miss. Infrared is the warmth you feel from the Sun or a hot tawa.
 3. (mcq) A tube light seen through a spectroscope shows bright lines instead of a smooth rainbow. What do the lines come from?  
-   Options: The atoms inside the tube, which each give out their own colours / Dust on the tube / A broken CD / The wall paint  
+   Options: Dust on the tube / The atoms inside the tube, which each give out their own colours / A broken CD / The wall paint  
    **Answer:** The atoms inside the tube, which each give out their own colours. *Why:* Each kind of atom gives out its own colours, like a fingerprint. Tube lights contain a little mercury vapour. Picking 'dust' is a fair guess, but a clean tube shows the same lines.
 4. (mcq) Helium was found in the Sun before anyone found it on Earth. How?  
-   Options: A yellow line in the Sun's split light did not match any element known on Earth / Astronomers went to the Sun / It fell from the sky / It was found in a balloon  
+   Options: Astronomers went to the Sun / A yellow line in the Sun's split light did not match any element known on Earth / It fell from the sky / It was found in a balloon  
    **Answer:** A yellow line in the Sun's split light did not match any element known on Earth. *Why:* In 1868, during an eclipse seen from Guntur in India, Pierre Janssen and other astronomers saw a yellow line in the Sun's spectrum. It matched no element known on Earth. Helium was found on Earth in 1895. Balloons came much later.
 5. (truefalse) Magenta, the pink-purple of a bougainvillea flower, has its own place in the rainbow.  
    **Answer:** False. *Why:* False. Magenta is not in the rainbow. Your brain makes it when red and blue light arrive together, with no green in between.
 6. (mcq) A mantis shrimp has 12 kinds of colour cells in its eyes. You have 3. How could scientists test whether it tells close colours apart better than you?  
-   Options: Train it to pick one colour for food, then show it two very close shades and see if it still picks right / Count its colour cells again / Look at the colours on its shell / Ask other scientists what they think  
+   Options: Count its colour cells again / Look at the colours on its shell / Ask other scientists what they think / Train it to pick one colour for food, then show it two very close shades and see if it still picks right  
    **Answer:** Train it to pick one colour for food, then show it two very close shades and see if it still picks right. *Why:* A test of what the animal can do is better than a guess from its eyes. When scientists tested the shrimp this way, they were worse than us at close shades. More colour cells does not always mean seeing more colours.
 7. (write) Is your red the same as my red? Write what we could test, and what we might never be able to test.  
    **Answer:** A strong answer separates the two. We could test whether we both pick the same red from a set of colour cards, and whether our eyes have the same colour cells. We might never be able to test what red feels like inside another person.. *Why:* This is an open question. Scientists can measure light and eyes, but not yet what a colour feels like to someone.
 8. (mcq) Why are sunsets red and orange?  
-   Options: Sunlight crosses so much air that most of the blue is scattered away, leaving red and orange / The Sun cools down in the evening / Clouds are red / The Sun is on fire  
+   Options: The Sun cools down in the evening / Clouds are red / Sunlight crosses so much air that most of the blue is scattered away, leaving red and orange / The Sun is on fire  
    **Answer:** Sunlight crosses so much air that most of the blue is scattered away, leaving red and orange. *Why:* At sunset, sunlight takes a long path through the air. Air scatters blue more than red, so by the time the light reaches you, mostly red and orange are left. Picking 'the Sun cools down' is a common idea, but the Sun is just as hot at sunset.
 9. (write) Kamal al-Din al-Farisi used a glass ball of water as a model raindrop. Why was a big model useful? What is one thing a model cannot tell you?  
    **Answer:** A strong answer says that a real drop is tiny and falls in a moment, while a big glass ball holds still, so you can study where each colour comes out. It then says that a model can be wrong in some way, for example real raindrops are tiny and get squashed out of round as they fall, so you must check the model against real rainbows.. *Why:* Models let scientists study what is too small, too fast or too far. But a model must be checked against the real thing.
@@ -736,7 +739,7 @@ Maryam frowned at her, as if she had gone mad. But Zainab only smiled, and stood
 11. (fill) Light comes in tiny packets. A packet of ultraviolet light can burn skin, because it carries more ____ than a packet of red light.  
    **Answer:** ['energy']. *Why:* Violet packets carry more energy than red ones, and ultraviolet packets carry more still. That is why sunscreen blocks ultraviolet. Red looks warm, but each red packet carries the least energy of all the colours.
 12. (mcq) Plants are green. What does that tell us about which light they use most to make food?  
-   Options: They absorb mostly red and blue light, and reflect the green / They use mostly green light / They use no light / They use only ultraviolet  
+   Options: They use mostly green light / They use no light / They absorb mostly red and blue light, and reflect the green / They use only ultraviolet  
    **Answer:** They absorb mostly red and blue light, and reflect the green. *Why:* Plants reflect the light they use least. Green comes back to our eyes, so plants use mostly red and blue. Picking 'mostly green' is the most common mistake.
 13. (write) Someone says: 'The rainbow is out there in the sky, in one place, and everyone sees the same one.' Give two pieces of evidence against this.  
    **Answer:** A strong answer gives two pieces of evidence. First, when you walk towards a rainbow, it moves with you, so it is not in one place. Second, in the spray rainbow test, when I took two steps sideways, the rainbow moved too. A strong answer also explains why: each drop sends each colour in only one direction, so a person standing somewhere else gets colours from different drops.. *Why:* A rainbow depends on where the viewer stands. Each person sees their own.
@@ -754,18 +757,18 @@ Maryam frowned at her, as if she had gone mad. But Zainab only smiled, and stood
 
 ## Quiz
 1. (mcq) What is white sunlight made of?  
-   Options: One colour, white / Many colours mixed together / Only yellow / Heat only  
+   Options: One colour, white / Only yellow / Many colours mixed together / Heat only  
    **Answer:** Many colours mixed together. *Why:* Sunlight is all the colours mixed. A prism or a drop spreads them apart. 'One colour, white' is how sunlight looks, not what it is.
 2. (mcq) What does a prism do to white light?  
-   Options: Paints colours onto it / Spreads apart the colours already in it / Makes it darker / Turns it into heat  
+   Options: Spreads apart the colours already in it / Paints colours onto it / Makes it darker / Turns it into heat  
    **Answer:** Spreads apart the colours already in it. *Why:* Each colour bends by a different amount, so they spread apart. Picking 'paints colours' was an old idea. Newton showed a single colour does not change in a second prism.
 3. (order) Put these rainbow colours in order from red: blue, yellow, red, violet, green, orange.  
    **Answer:** ['red', 'orange', 'yellow', 'green', 'blue', 'violet']. *Why:* The order is always the same: red, orange, yellow, green, blue, violet. Red bends least and violet most.
 4. (mcq) Which colour bends the most in a prism or raindrop?  
-   Options: Red / Yellow / Violet / All the same  
+   Options: Red / Violet / Yellow / All the same  
    **Answer:** Violet. *Why:* Violet bends most. If all bent the same, there would be no rainbow. Picking red is common, because red is on top.
 5. (mcq) What happens to sunlight inside a raindrop to make a rainbow?  
-   Options: It goes in, bends, bounces off the back and comes out split into colours / It gets painted / It stops / It turns into rain  
+   Options: It gets painted / It stops / It turns into rain / It goes in, bends, bounces off the back and comes out split into colours  
    **Answer:** It goes in, bends, bounces off the back and comes out split into colours. *Why:* The light bends as it goes into the drop, bounces off the back, and bends again as it comes out. Each colour leaves at its own angle. Picking 'it stops' forgets that the light comes back out to your eye.
 6. (mcq) You want to see a rainbow after an evening shower. Which way should you face?  
    Options: Towards the setting Sun / Away from the Sun, towards the east / Straight up / Down at the ground  
@@ -777,20 +780,23 @@ Maryam frowned at her, as if she had gone mad. But Zainab only smiled, and stood
    Options: Because one try can be a fluke / To use up time / Because the first try is always wrong / To make the colours brighter  
    **Answer:** Because one try can be a fluke. *Why:* Repeating a test makes sure the result is real. Picking 'the first try is always wrong' is not true. It may be right, but we cannot be sure from one try.
 9. (mcq) Which of these do scientists NOT know yet?  
-   Options: That sunlight is many colours / Whether your red looks the same to you as my red does to me / That rainbows are made by raindrops / That violet bends more than red  
+   Options: That sunlight is many colours / That rainbows are made by raindrops / That violet bends more than red / Whether your red looks the same to you as my red does to me  
    **Answer:** Whether your red looks the same to you as my red does to me. *Why:* The other three are settled by experiments. What a colour feels like inside someone is still an open question.
 10. (mcq) A bee looks at a flower. What can a bee see that we cannot?  
-   Options: Infrared heat / Ultraviolet patterns / Nothing at all / Radio waves  
+   Options: Ultraviolet patterns / Infrared heat / Nothing at all / Radio waves  
    **Answer:** Ultraviolet patterns. *Why:* Bees see ultraviolet, just past violet. Many flowers have ultraviolet patterns that guide bees to nectar. Picking 'infrared' mixes up the two ends of the rainbow.
 11. (mcq) How do astronomers know what stars are made of?  
-   Options: They visit them / They split starlight into a rainbow and read the lines, which are like atom fingerprints / They guess / From the colour of the night sky  
+   Options: They split starlight into a rainbow and read the lines, which are like atom fingerprints / They visit them / They guess / From the colour of the night sky  
    **Answer:** They split starlight into a rainbow and read the lines, which are like atom fingerprints. *Why:* Each kind of atom makes its own lines in a spectrum. Cecilia Payne used this in 1925 to show stars are mostly hydrogen and helium. Nobody can visit a star. Stars are much too far away and too hot.
 12. (mcq) You walk towards a rainbow over a field. What happens?  
-   Options: The rainbow moves away as you move, so you never reach the end / You reach the end and touch the colours / The rainbow gets brighter and stays still / The rainbow turns white  
+   Options: You reach the end and touch the colours / The rainbow gets brighter and stays still / The rainbow turns white / The rainbow moves away as you move, so you never reach the end  
    **Answer:** The rainbow moves away as you move, so you never reach the end. *Why:* Each drop sends each colour to one place. When you move, different drops make your rainbow, so the bow moves with you. Even a rainbow in a spray moves when you move.
 13. (mcq) You mix red, yellow, green and blue paint together in a cup. What colour do you get?  
-   Options: White, like sunlight / A dark, muddy brown / A bright rainbow / Clear, like water  
+   Options: White, like sunlight / A bright rainbow / Clear, like water / A dark, muddy brown  
    **Answer:** A dark, muddy brown. *Why:* Each paint's pigment absorbs some colours. Mixed together, they absorb nearly all of them, so very little light is reflected. Picking 'white' mixes up paint with light. Coloured lights add up to white, but paints do not.
+14. (mcq) You spin a square card fast, and it looks round. Why?  
+   Options: The card really turned round / The square was painted round / Your eye blurs the moving corners together, so the edge looks like a circle / Spinning bends the square into a circle  
+   **Answer:** Your eye blurs the moving corners together, so the edge looks like a circle. *Why:* The corners move so fast that your eye blurs them into one smooth edge. The card stays square. 'The card really turned round' is a fair guess, but a square card still has four corners when it stops.
 
 ## Applications
 - Scientists split starlight into rainbows to find out what stars and planets are made of.
@@ -807,8 +813,8 @@ Maryam frowned at her, as if she had gone mad. But Zainab only smiled, and stood
 - C.V. Raman's discovery about scattered light is used today to identify chemicals, even in old paintings.
 
 ## Spotted around us
-- A rainbow over the tea gardens of Assam or the paddy fields of Kerala after a monsoon shower, with the Sun low behind you.
-- The spray at Jog Falls in Karnataka or Athirappilly Falls in Kerala, which often holds a rainbow on sunny days.
+- A rainbow over a tea garden or a paddy field after a monsoon shower, with the Sun low behind you.
+- The spray at a waterfall, which often holds a rainbow on sunny days.
 - Tiny rainbows thrown round a room by a glass chandelier, a Durga Puja pandal light or a cut-glass bottle.
 - Swirling colours on a soap bubble while bathing or washing clothes.
 - A rainbow sheen on a puddle where a scooter has leaked a drop of oil.
@@ -875,6 +881,11 @@ Follow the Light (sci.light.L3): Topic-level song
 - [Coloured cellophane sheets: red, green and blue](https://www.amazon.in/s?k=coloured+cellophane+sheets) (material): Colour filters for the leaf in red light and the Colour Filters activity. Red cellophane from gift wrap or a red see-through sweet wrapper works too. Used in a1, a2. 
 - [Plant spray bottle with a fine mist](https://www.amazon.in/s?k=plant+mist+spray+bottle) (tool): Makes a fine mist for a rainbow on a balcony or terrace. Any clean spray bottle with a mist setting works. Used in e2. 
 - [Diffraction grating glasses, also called rainbow glasses](https://www.amazon.in/s?k=diffraction+grating+glasses) (tool): Turn every light into a rainbow. Good for comparing lamps in the spectroscope project. Used in p1. 
+- [A magnetic compass](https://www.amazon.in/s?k=magnetic+compass+school) (tool): Used in The Rainbow Forecaster. About ₹30 to ₹150. A phone compass app also works. Used in c2. Get it before The Rainbow Forecaster.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Biggest Rainbow Indoors. About ₹10 to ₹30. Any school ruler is fine. Used in c1. Get it before The Biggest Rainbow Indoors.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in The Water Prism: do the colours ever change order?, Where Does Green End? Counting the colours, The Biggest Rainbow Indoors. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in e1, a4, c1. Get it before The Water Prism: do the colours ever change order?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Biggest Rainbow Indoors, The Rainbow Forecaster. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1, c2. Get it before The Biggest Rainbow Indoors.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name three things that make their own light. → The Sun, a bulb and a flame are some. The Moon does not make light. It reflects the Sun's.

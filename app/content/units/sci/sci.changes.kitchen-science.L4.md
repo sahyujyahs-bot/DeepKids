@@ -1,9 +1,9 @@
 # Science in the kitchen: why food browns, bread rises and onions make us cry
 `sci.changes.kitchen-science.L4`
 
-**Summary.** Why does a chopped onion make your eyes sting when a whole one does not? In this unit you will try an onion whole, halved and chopped, stop a cut apple turning brown, toast bread squares on a tawa, and wash a ball of dough to find the gluten.
+**Summary.** Why does a chopped onion make your eyes sting when a whole one does not? In this lesson you will try an onion whole, halved and chopped, stop a cut apple turning brown, toast bread squares on a tawa, and wash a ball of dough to find the gluten.
 
-**Intro.** *A cook can carry a bag of onions all the way home with dry eyes. Then she chops one onion, and tears run down her face. Where was the gas that stings her eyes before she picked up the knife?* The gas was not in the onion. The onion made the gas after the knife went in. In this unit you test this with a whole onion, a halved onion and a chopped onion. You stop an apple slice from turning brown with two minutes of heat. Then you use heat to turn bread brown, and find what makes it brown faster. You also wash a ball of wheat dough under water until only a stretchy lump is left. That lump is the reason bread can rise.
+**Intro.** *A cook can carry a bag of onions all the way home with dry eyes. Then she chops one onion, and tears run down her face. Where was the gas that stings her eyes before she picked up the knife?* The gas was not in the onion. The onion made the gas after the knife went in. In this lesson you test this with a whole onion, a halved onion and a chopped onion. You stop an apple slice from turning brown with two minutes of heat. Then you use heat to turn bread brown, and find what makes it brown faster. You also wash a ball of wheat dough under water until only a stretchy lump is left. That lump is the reason bread can rise.
 
 ## Learning outcomes
 0. I can explain why a cut apple or brinjal turns brown: broken cells, an enzyme and oxygen from the air.
@@ -35,7 +35,7 @@
 ### A cell keeps its chemicals in separate parts · *defined*
 **Definition:** A cell is the tiny living unit that plants and animals are built from. Inside a plant cell, different chemicals are stored in separate parts.
 
-An onion, an apple and a tea leaf are all built from cells. Each cell has a wall around it. Inside the cell are smaller parts, each closed off by a thin skin. One part may store a chemical. Another part may store the enzyme that can change that chemical. An enzyme is a chemical made by cells that speeds up one kind of change. While the cell is whole, the two never meet, so nothing happens. A knife, a grater or a set of teeth breaks the cells open. Then the stored chemicals and the enzymes mix. New substances form within seconds or minutes. This one fact explains three things in this unit. It explains why a cut apple browns and why a chopped onion stings. It also explains why crushed mustard becomes sharp.
+An onion, an apple and a tea leaf are all built from cells. Each cell has a wall around it. Inside the cell are smaller parts, each closed off by a thin skin. One part may store a chemical. Another part may store the enzyme that can change that chemical. An enzyme is a chemical made by cells that speeds up one kind of change. While the cell is whole, the two never meet, so nothing happens. A knife, a grater or a set of teeth breaks the cells open. Then the stored chemicals and the enzymes mix. New substances form within seconds or minutes. This one fact explains three things in this lesson. It explains why a cut apple browns and why a chopped onion stings. It also explains why crushed mustard becomes sharp.
 - e.g. A whole apple stays white inside for weeks. A cut apple browns within the hour.
 - e.g. A whole clove of garlic has little smell. A crushed clove smells strong at once.
 - e.g. A bruise on a banana turns brown, because the cells under the peel were crushed.
@@ -137,7 +137,7 @@ An onion bulb is alive. They are a resting plant, and they can sprout again. The
   Against: People eat far smaller doses than the test animals received. Studies of people have not shown clear harm. Many food agencies still advise cooking to golden and not to dark brown.
 
 ## Roots
-In this unit you found that an onion's sting and an apple's brown are made after the cut. Here we ask what a thing holds before it is cut, and what that tells us about living beings.
+In this lesson you found that an onion's sting and an apple's brown are made after the cut. Here we ask what a thing holds before it is cut, and what that tells us about living beings.
 
 **Deep truth.** In the Onion Sting, a whole onion near your eyes did nothing, and a chopped onion stung. A whole onion holds no tear gas. Each cell stores two chemicals in separate parts, and a knife makes them meet. So the sting is made after the cut, by the onion's own cells.  
 *Habit it breaks:* We speak as if the sting, the smell and the colour of a food are stored inside it. Some of them do not exist until the cells are broken. What the plant holds is the means to make them.  
@@ -521,7 +521,7 @@ By Saturday there was a kilo of green tea in a steel tin, tied in a cloth. Malar
 ## Worksheets
 ### Brown, risen and stinging (core, 15 questions)
 1. (mcq) What three things does a cut apple need in order to turn brown?  
-   Options: Broken cells, an enzyme and oxygen / Heat, sugar and salt / Yeast, water and warmth / Cold, dark and time  
+   Options: Heat, sugar and salt / Broken cells, an enzyme and oxygen / Yeast, water and warmth / Cold, dark and time  
    **Answer:** Broken cells, an enzyme and oxygen. *Why:* Cutting breaks the cells. An enzyme from the cells then joins oxygen from the air to chemicals in the juice. That makes the brown.
 2. (truefalse) A whole onion is full of tear gas that is waiting to escape.  
    **Answer:** False. *Why:* False. A whole onion holds no tear gas. The cells make the gas only after a knife breaks them and mixes what was stored apart.
@@ -532,7 +532,7 @@ By Saturday there was a kilo of green tea in a steel tin, tied in a cloth. Malar
 5. (sort) Sort these. Is each one enzyme browning or heat browning?  
    **Answer:** a cut brinjal → Enzyme browning; a bruised banana → Enzyme browning; rolled tea leaves → Enzyme browning; toast → Heat browning; a dosa → Heat browning; fried onions → Heat browning. *Why:* Enzyme browning happens to raw food whose cells are broken, without any heating. Heat browning happens on a hot, dry surface.
 6. (mcq) Why does an idli stay white while a dosa turns brown?  
-   Options: Steam is not hot enough to brown / Idli batter has no sugar / Idli is cooked for longer / Dosa batter has more salt  
+   Options: Idli batter has no sugar / Idli is cooked for longer / Steam is not hot enough to brown / Dosa batter has more salt  
    **Answer:** Steam is not hot enough to brown. *Why:* Steam is at about 100 degrees Celsius, and heat browning needs more. The dry surface of a dosa on a tawa gets far hotter.
 7. (truefalse) Water in an open pot gets hotter and hotter as it boils.  
    **Answer:** False. *Why:* False. Boiling water stays at about 100 degrees Celsius. A higher flame only makes it boil away faster.
@@ -541,7 +541,7 @@ By Saturday there was a kilo of green tea in a steel tin, tied in a cloth. Malar
 9. (fill) A chemical made by living cells that speeds up one kind of change is called an ____.  
    **Answer:** ['enzyme']. *Why:* Each enzyme does one job. One enzyme browns a cut apple, and others make the onion's tear gas.
 10. (mcq) What does kneading do to wheat dough?  
-   Options: Links proteins into a stretchy net / Kills the yeast / Washes out the starch / Makes the gas  
+   Options: Kills the yeast / Washes out the starch / Links proteins into a stretchy net / Makes the gas  
    **Answer:** Links proteins into a stretchy net. *Why:* Kneading lines up the wheat proteins and joins them into gluten. The gas is made by yeast, soda or steam, not by kneading.
 11. (write) An apple slice was held in boiling water for two minutes. It did not turn brown afterwards. Explain why.  
    **Answer:** The brown is made by an enzyme from the apple's broken cells. Boiling water destroys the enzyme. With no working enzyme, oxygen is not joined to the chemicals in the juice, so no brown forms.. *Why:* A strong answer names the enzyme and says that heat destroyed it. It does not say that the heat cooked the brown away.
@@ -552,14 +552,14 @@ By Saturday there was a kilo of green tea in a steel tin, tied in a cloth. Malar
 14. (perspective) Plant breeders have bred onions that make very little tear gas. Should farmers grow them?  
    **Answer:** Any view with a reason from the unit. One reason is that the gas is the onion's defence, made only when cells are broken. Another is that chilling or a fan already cuts the tears without changing the onion.. *Why:* Each view has something right in it. A strong answer uses a fact about how the gas is made or what it does for the onion.
 15. (mcq) Which gas do yeast give off as they feed on sugar?  
-   Options: Carbon dioxide / Oxygen / Steam / Onion gas  
+   Options: Oxygen / Carbon dioxide / Steam / Onion gas  
    **Answer:** Carbon dioxide. *Why:* Yeast turn sugar into carbon dioxide and a little alcohol. The carbon dioxide makes the bubbles in the dough.
 ### Testing kitchen changes (stretch, 15 questions)
 1. (mcq) In Hot Dip, Cold Dip, why was one apple slice dipped in cold water?  
-   Options: To check that wetting was not the cause / To wash the slice clean / To cool the plate down / To make it brown faster  
+   Options: To wash the slice clean / To check that wetting was not the cause / To cool the plate down / To make it brown faster  
    **Answer:** To check that wetting was not the cause. *Why:* The hot slice was both heated and wetted. The cold slice was only wetted. It still browned, so the heat made the difference.
 2. (mcq) In the Tawa Toast Test, the square wet with water stayed pale longest. Why?  
-   Options: It stayed near 100 degrees until dry / Water has no colour / It had less bread in it / Water cooled the tawa for good  
+   Options: Water has no colour / It had less bread in it / Water cooled the tawa for good / It stayed near 100 degrees until dry  
    **Answer:** It stayed near 100 degrees until dry. *Why:* Wet bread cannot pass about 100 degrees Celsius until its water has boiled away. Heat browning needs a hotter, dry surface.
 3. (truefalse) Milk helps bread to brown because milk holds a sugar and proteins.  
    **Answer:** True. *Why:* True. Heat browning is a reaction between sugars and the building units of proteins. Milk adds both to the surface of the bread.
@@ -588,14 +588,14 @@ By Saturday there was a kilo of green tea in a steel tin, tied in a cloth. Malar
    Options: Chilling the onion first / Using a blunt knife / Chopping it more finely / Warming the onion first  
    **Answer:** Chilling the onion first. *Why:* Cold slows the enzymes that make the gas. A blunt knife and fine chopping break more cells, and warmth speeds the enzymes up.
 15. (mcq) Mustard seeds popped in hot oil taste nutty and not sharp. Why?  
-   Options: Heat destroyed the enzyme / Oil washed the sharpness away / Popping let the gas out / The seeds were too old  
+   Options: Oil washed the sharpness away / Popping let the gas out / Heat destroyed the enzyme / The seeds were too old  
    **Answer:** Heat destroyed the enzyme. *Why:* The sharp substance is made by an enzyme when raw seeds are crushed and wetted. Hot oil destroys the enzyme first, so it is never made.
 ### Evidence and arguments (challenge, 15 questions)
 1. (mcq) Scientists switched off the browning enzyme in apple trees. What happened to the cut apples?  
-   Options: They stayed pale / They browned faster / They rotted at once / They turned sour  
+   Options: They browned faster / They stayed pale / They rotted at once / They turned sour  
    **Answer:** They stayed pale. *Why:* With no browning enzyme, oxygen is not joined to the chemicals in the juice. These apples were approved for sale in the United States in 2015.
 2. (mcq) Onion juice with only the first enzyme made almost no tear gas. What does this show?  
-   Options: A second enzyme is needed / Onions hold no enzymes / The gas is stored in the onion / Heat makes the gas  
+   Options: Onions hold no enzymes / The gas is stored in the onion / Heat makes the gas / A second enzyme is needed  
    **Answer:** A second enzyme is needed. *Why:* If one enzyme were enough, the gas would have formed. Shinsuke Imai's team found the missing second enzyme in 2002.
 3. (count) In Puff or Flop, a dough has Gas 5 and Hold 2. How many beans does it earn?  
    **Answer:** 2. *Why:* The dough earns the smaller number, 2. It made 5 bubbles of gas but could hold only 2 of them.
@@ -620,50 +620,50 @@ By Saturday there was a kilo of green tea in a steel tin, tied in a cloth. Malar
 13. (perspective) Dark brown chips and toast hold a little of a chemical called acrylamide. Should a family stop eating browned food?  
    **Answer:** Any view with a reason from the unit. One reason is that browning makes hundreds of new substances, and most give flavour. Another is that food can be cooked to golden, which browns it less.. *Why:* Scientists have not settled this, so no view is simply right. A strong answer separates what was found in rats and mice from what is known about people.
 14. (mcq) A bread recipe uses boiling water to mix the yeast. What will happen?  
-   Options: The yeast die and make no gas / The dough rises faster / The gluten washes away / The crust browns sooner  
+   Options: The dough rises faster / The yeast die and make no gas / The gluten washes away / The crust browns sooner  
    **Answer:** The yeast die and make no gas. *Why:* Yeast die at about 60 degrees Celsius. Dead yeast cannot feed, so they make no carbon dioxide. Warm water, not hot, suits them best.
 15. (mcq) What made the sharp smell in wet, crushed raw mustard?  
-   Options: An enzyme changed a stored chemical / The water was sour / The seeds began to rot / Air dried the powder  
+   Options: The water was sour / An enzyme changed a stored chemical / The seeds began to rot / Air dried the powder  
    **Answer:** An enzyme changed a stored chemical. *Why:* Crushing and wetting bring a stored chemical and an enzyme together. The enzyme makes the sharp substance within about ten minutes.
 
 ## Videos
 - **Why Do Onions Make You Cry?** (Reactions, 4 min) id `RaZpPwmWZ7Q`: To see the two steps that make the tear gas, which cannot be seen in the Onion Sting. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
-- **Why the Maillard Reaction Makes Everything Delicious** (Reactions, 3 min) id `rs1JLYXROVU`: The child sees, in about three minutes, why toast and fried food turn brown and taste better, which supports the Heat browning and Maillard reaction ideas in this unit. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
-- **Green Tea vs. Black Tea: Same Plant, Different Drink** (History of Simple Things, 3 min) id `iuXW0iM7rhc`: The child sees how green and black tea come from the same leaf and differ by how long the leaf is left to brown, which supports the tea-browning idea in this unit. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
+- **Why the Maillard Reaction Makes Everything Delicious** (Reactions, 3 min) id `rs1JLYXROVU`: The child sees, in about three minutes, why toast and fried food turn brown and taste better, which supports the Heat browning and Maillard reaction ideas in this lesson. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
+- **Green Tea vs. Black Tea: Same Plant, Different Drink** (History of Simple Things, 3 min) id `iuXW0iM7rhc`: The child sees how green and black tea come from the same leaf and differ by how long the leaf is left to brown, which supports the tea-browning idea in this lesson. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
 
 ## Quiz
 1. (mcq) Why does a cut brinjal turn brown?  
-   Options: An enzyme uses oxygen from the air / The knife leaves rust on it / Germs rot it within minutes / The brinjal dries out  
+   Options: The knife leaves rust on it / Germs rot it within minutes / The brinjal dries out / An enzyme uses oxygen from the air  
    **Answer:** An enzyme uses oxygen from the air. *Why:* Cutting breaks the cells. An enzyme from the cells joins oxygen to chemicals in the juice, and the product is brown. If you chose germs, remember that rotting takes days.
 2. (mcq) Which of these stops an apple slice from browning?  
-   Options: Two minutes in boiling water / Leaving it in a sunny place / Cutting it into smaller pieces / Blowing air over it  
+   Options: Leaving it in a sunny place / Cutting it into smaller pieces / Blowing air over it / Two minutes in boiling water  
    **Answer:** Two minutes in boiling water. *Why:* Boiling water destroys the browning enzyme. Smaller pieces and more air both make browning faster, because more cells are broken and more oxygen arrives.
 3. (mcq) Lemon juice keeps cut banana pale. Why?  
-   Options: Sour juice slows the enzyme / Lemon juice is yellow / It makes the banana colder / It adds more oxygen  
+   Options: Lemon juice is yellow / It makes the banana colder / It adds more oxygen / Sour juice slows the enzyme  
    **Answer:** Sour juice slows the enzyme. *Why:* The browning enzyme works badly in sour juice. The vitamin C in lemon also undoes the first step of the browning.
 4. (mcq) What does heat browning need?  
-   Options: A dry surface hotter than boiling water / Broken cells and cold air / Yeast and warm water / A lid on the pan  
+   Options: Broken cells and cold air / Yeast and warm water / A dry surface hotter than boiling water / A lid on the pan  
    **Answer:** A dry surface hotter than boiling water. *Why:* Sugars and proteins react fast only above about 140 degrees Celsius. A wet surface stays near 100 degrees Celsius, so it must dry first.
 5. (mcq) Boiled rice never browns in the pot. Why?  
-   Options: Boiling water stays at about 100 degrees / Rice has no sugar or protein / The lid keeps the air out / Rice is already cooked  
+   Options: Rice has no sugar or protein / Boiling water stays at about 100 degrees / The lid keeps the air out / Rice is already cooked  
    **Answer:** Boiling water stays at about 100 degrees. *Why:* Rice has both starch and protein, and it browns well when fried. In boiling water it cannot get hot enough.
 6. (mcq) Which food is puffed by steam alone?  
-   Options: Puri / Pav / Dhokla / Idli  
+   Options: Pav / Puri / Dhokla / Idli  
    **Answer:** Puri. *Why:* A puri has no yeast and no soda. Water in the dough turns to steam in the hot oil. Pav uses yeast, dhokla uses soda, and idli batter is fermented.
 7. (mcq) What do yeast need in order to make gas?  
-   Options: Sugar, water and warmth / Salt and cold air / Baking soda and lemon / Very hot oil  
+   Options: Salt and cold air / Baking soda and lemon / Very hot oil / Sugar, water and warmth  
    **Answer:** Sugar, water and warmth. *Why:* Yeast are living beings. They feed on sugar in warm, wet dough and give off carbon dioxide. Cold slows them, and great heat kills them.
 8. (mcq) Why can wheat dough hold gas bubbles?  
-   Options: Its gluten stretches without tearing / Its starch is very sticky / It is heavier than rice dough / It holds more water  
+   Options: Its starch is very sticky / It is heavier than rice dough / It holds more water / Its gluten stretches without tearing  
    **Answer:** Its gluten stretches without tearing. *Why:* Gluten is a stretchy net of wheat proteins. It stretches around each bubble. Starch washes away in water and does not stretch.
 9. (mcq) What is left when a ball of wheat dough is washed in water?  
    Options: A stretchy lump of gluten / A heap of white starch / Nothing at all / A lump of yeast  
    **Answer:** A stretchy lump of gluten. *Why:* The starch floats away and turns the water white. The gluten stays in the hand. If you chose nothing, that is what rice dough leaves.
 10. (mcq) Where is the tear gas before an onion is cut?  
-   Options: It has not been made yet / In the dry outer skin / In the middle of the bulb / In the roots  
+   Options: In the dry outer skin / In the middle of the bulb / It has not been made yet / In the roots  
    **Answer:** It has not been made yet. *Why:* A whole onion holds the makings of the gas in separate parts of each cell. The gas forms only after a cut mixes them.
 11. (mcq) Why does a chilled onion sting less?  
-   Options: Cold slows the enzymes / Cold freezes the tears / Cold onions have fewer cells / The knife becomes sharper  
+   Options: Cold freezes the tears / Cold onions have fewer cells / The knife becomes sharper / Cold slows the enzymes  
    **Answer:** Cold slows the enzymes. *Why:* Enzymes work more slowly when they are cold, so less gas is made in the first minute. The gas also rises more slowly from a cold onion.
 12. (mcq) In a fair test of three apple slices, what should be different?  
    Options: Only the dip each slice gets / The apple each slice came from / The thickness of each slice / The time you look at each  
@@ -729,13 +729,18 @@ Same Atoms, New Partners (sci.changes.L4): Topic-level song
 - [Maillard reaction (Wikipedia)](https://en.wikipedia.org/wiki/Maillard_reaction) · interactive: For the parent: how sugars and proteins make the colour and smell of browned food.
 - [Gluten (Wikipedia)](https://en.wikipedia.org/wiki/Gluten) · interactive: For the parent: what gluten is made of, how it forms in dough, and coeliac disease.
 - [syn-Propanethial-S-oxide (Wikipedia)](https://en.wikipedia.org/wiki/Syn-Propanethial-S-oxide) · interactive: For the parent: the onion's tear gas and the two enzymes that make it.
-- [Tea processing (Wikipedia)](https://en.wikipedia.org/wiki/Tea_processing) · interactive: For the parent: how one leaf becomes green, oolong or black tea, as in the unit's story.
+- [Tea processing (Wikipedia)](https://en.wikipedia.org/wiki/Tea_processing) · interactive: For the parent: how one leaf becomes green, oolong or black tea, as in the lesson's story.
 - [Leavening agent (Wikipedia)](https://en.wikipedia.org/wiki/Leavening_agent) · interactive: For the parent: yeast, baking soda, steam and the other ways of raising dough.
-- [Tea Museum, Munnar]() · place · Munnar, Kerala: A museum about tea in the hills of Munnar, where visitors can learn how tea is made.
+- Tea Museum, Munnar · place · Munnar, Kerala: A museum about tea in the hills of Munnar, where visitors can learn how tea is made.
 
 ## Things to buy
 - [Fruit salt: one small sachet of the plain, unflavoured kind](https://www.amazon.in/s?k=fruit+salt+plain) (material): For Two Katori Dhoklas. Any grocery or medical shop sells a sachet for a few rupees. A pinch of baking soda with half a teaspoon of lemon juice works in its place. Used in a2. 
 - [Masala Lab: The Science of Indian Cooking, a book by Krish Ashok](https://www.amazon.in/s?k=Masala+Lab+Krish+Ashok) (book): For the parent or an older child: a clear and funny account of browning, rising and onions in an Indian kitchen. Used in e2. After the Tawa Toast Test, a parent can read aloud a few pages on browning.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Two Katori Dhoklas: with soda and without. About ₹10 to ₹30. Any school ruler is fine. Used in a2. Get it before Two Katori Dhoklas: with soda and without.
+- [Baking soda](https://www.amazon.in/s?k=baking+soda) (material): Used in Two Katori Dhoklas: with soda and without. About ₹20 to ₹40. Check the kitchen first. Used in a2. Get it before Two Katori Dhoklas: with soda and without.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Wake the Mustard: raw seeds and roasted seeds. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a3. Get it before Wake the Mustard: raw seeds and roasted seeds.
+- [Safety goggles](https://www.amazon.in/s?k=safety+goggles+kids) (tool): Used in Tear-Free Chopping: make the cook's eyes last longer. About ₹60 to ₹200. Sunglasses give some protection. Used in c1. Get it before Tear-Free Chopping: make the cook's eyes last longer.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What three things does a cut apple need in order to turn brown? → Broken cells, a working enzyme and oxygen from the air.

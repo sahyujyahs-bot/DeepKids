@@ -188,9 +188,15 @@
    "examples": [
     "A tailorbird stitches leaves together with plant threads to make their nest.",
     "An owl rests by day in a tree hollow and hunts at night.",
-    "The Western Ghats forests are home to thousands of kinds of plants and animals. Many live nowhere else on Earth."
+    "The Western Ghats forests are home to thousands of kinds of plants and animals. Many live nowhere else on Earth.",
+    "A parakeet nests in a hole in an old tree. Beetles and ants live under its bark, and the leaves and fruit feed them."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Bernie Krause (born 1938), USA",
+     "explanation": "Krause, a musician, spent decades recording the sounds of wild places around the world. He noticed that in healthy, undisturbed places the animals seemed to call at separate pitches and separate times, like instruments in an orchestra, so each could be heard. Listening to habitats is now a real tool called soundscape ecology, but whether animals truly share out the sound this way is still argued, because it seems to happen in some places and not others."
+    }
+   ],
    "art": "A tall forest drawn like a building with floors: hornbills and monkeys in the canopy, a tailorbird's leaf nest in the middle, a frog, beetle and mushrooms on the dark floor.",
    "context": "This card is about the forest, one of the four big habitats in this lesson, and the homes it has at every level."
   },
@@ -295,7 +301,8 @@
    "examples": [
     "Over a large forest like the Amazon, a big share of the rain is water that the forest's own leaves gave off.",
     "Termites build tall mounds of mud that change the soil around them for years.",
-    "Elephants knock over small trees and open up grassland, which helps deer and other grazers."
+    "Elephants knock over small trees and open up grassland, which helps deer and other grazers.",
+    "Under a big neem tree at noon, the ground is cooler than the bare ground beside it, because the leaves block the sun."
    ],
    "perspectives": [],
    "art": "A bare sandbar turning, in four small pictures, into a forest: grass, then bamboo, then trees with birds, then a forest with a rain cloud above it.",
@@ -827,11 +834,11 @@
       "q": "Where does the frog card go?",
       "options": [
        "Desert",
-       "Pond",
        "Sea",
-       "Inside a body"
+       "Inside a body",
+       "Pond"
       ],
-      "a": 1,
+      "a": 3,
       "why": "A frog's skin must stay wet, and their eggs and tadpoles need fresh water. A pond gives water, insects to eat and mud to hide in. Picking sea usually means thinking all water is the same. But sea water is salty, and most frogs cannot live in it. Picking desert misses that a frog's skin dries out fast in hot, dry air."
      }
     },
@@ -953,11 +960,11 @@
       "q": "You lift a flat stone and find woodlice underneath. What does the space under the stone give them?",
       "options": [
        "Bright sunlight",
-       "Damp and shade",
        "Salty water",
-       "Nothing, they are just lost"
+       "Nothing, they are just lost",
+       "Damp and shade"
       ],
-      "a": 1,
+      "a": 3,
       "why": "Under a stone it is darker, cooler and damper than the open ground. Woodlice dry out fast, so they need damp, shady places. Picking bright sunlight is the opposite: in the sun, woodlice dry out. Picking 'lost' misses that many animals choose a place because of what it gives them."
      }
     },
@@ -1099,12 +1106,12 @@
       "t": "mcq",
       "q": "In the three bowls experiment, why do we stir the same spoon of curd into all three bowls?",
       "options": [
-       "So that only the warmth is different",
        "Because curd tastes good",
+       "So that only the warmth is different",
        "So the bowls look the same",
        "It does not matter"
       ],
-      "a": 0,
+      "a": 1,
       "why": "If one bowl got more curd, we would not know whether the warmth or the extra curd made the difference. Changing only one thing makes it a fair test. Picking 'it does not matter' misses why scientists plan tests carefully. Picking 'look the same' is close, but the reason is fairness, not looks."
      }
     },
@@ -1166,12 +1173,12 @@
       "t": "mcq",
       "q": "Suppose the warm bowl set into curd and the fridge bowl stayed runny. Both got the same curd. Why?",
       "options": [
-       "The bacteria were in both bowls, but only the warm one was a good home for them",
        "The fridge bowl had no bacteria",
        "The cold turned the bacteria into milk",
+       "The bacteria were in both bowls, but only the warm one was a good home for them",
        "Curd only sets in steel bowls"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Both bowls had bacteria, food and water. Only the warm bowl had the right warmth, so the bacteria grew there and turned the milk into curd. Picking 'no bacteria' forgets that we stirred the same curd into every bowl. The next step tests it: warm the fridge bowl and see. Picking 'steel bowls' misses that all three bowls were the same kind."
      }
     },
@@ -1348,11 +1355,11 @@
       "q": "In the five worlds experiment, the sunny path was 41 degrees and under the leaves was 28 degrees. Which place had more living things, and why?",
       "options": [
        "The sunny path, because animals like heat",
-       "Under the leaves, because it is cooler and damper",
        "Both the same, because it is one garden",
-       "Neither, because animals only live in forests"
+       "Neither, because animals only live in forests",
+       "Under the leaves, because it is cooler and damper"
       ],
-      "a": 1,
+      "a": 3,
       "why": "Under the leaves it is cooler and damper, and there is food from rotting leaves. Most small animals dry out in hot sun, so they live there. Picking 'both the same' misses the point of the test: one garden holds many microhabitats with different weather. Picking 'only forests' forgets the ants, worms and other small animals we just counted."
      },
      "chart": {
@@ -1526,12 +1533,12 @@
       "t": "mcq",
       "q": "In the tree water experiment, the bag on the leafy branch got misty with drops of water. Where did the water come from?",
       "options": [
-       "From the leaves, which give off water into the air",
        "From the rain",
        "From the plastic bag",
+       "From the leaves, which give off water into the air",
        "From the string"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The bag was dry and closed, so the water came out of the leaves. Plants pull water up from the soil through their roots and let it out from tiny holes in their leaves. Picking 'from the rain' misses that the bag was closed and it did not rain. The bare-stick bag, which stayed dry, shows the plastic was not the cause."
      }
     },
@@ -1627,12 +1634,12 @@
       "t": "mcq",
       "q": "Why do woodlice and worms live under a stone and not on the open ground next to it?",
       "options": [
-       "Under the stone is cooler, darker and damper",
        "The stone is food for them",
        "They are trapped and cannot get out",
+       "Under the stone is cooler, darker and damper",
        "The open ground is too wet"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Under a stone it is cooler, darker and damper. Woodlice and worms dry out quickly, so this small place gives them what they need. A place like this is called a microhabitat. Picking 'trapped' misses that they ran away when the stone was lifted, then crawled back under it. Picking 'too wet' is the opposite of what your hand felt."
      },
      "think": "Is the space under the stone a whole world? Whose habitat is it?"
@@ -1702,11 +1709,11 @@
       "q": "A crow drinks from a tap, eats from a dustbin, nests in a neem tree and flies over the whole street. What is their habitat?",
       "options": [
        "Only the neem tree",
-       "Only the dustbin",
        "All of these places together",
+       "Only the dustbin",
        "The sky"
       ],
-      "a": 2,
+      "a": 1,
       "why": "A habitat is every place where a living thing gets what they need. For this crow, that is the tap, the dustbin, the tree and the street together. Picking 'only the neem tree' mixes up a habitat with a home or nest. The nest is just the shelter part of the habitat."
      },
      "think": "If the neem tree were cut down, what would the crow have to do?"
@@ -1884,12 +1891,12 @@
       "t": "mcq",
       "q": "On a nature map, snail shells were found only near a leaking tap and in shady places. What does this suggest about snails?",
       "options": [
-       "Snails need damp, shady places",
        "Snails like sunny paths",
        "Snails are found everywhere equally",
-       "Snails live only in the sea"
+       "Snails live only in the sea",
+       "Snails need damp, shady places"
       ],
-      "a": 0,
+      "a": 3,
       "why": "Snails dry out easily, so they live where it is damp and shady. The map shows that pattern. Picking 'everywhere equally' does not fit the map, which shows them in only some places. Some snails do live in the sea, but these were garden snails, found near a tap."
      }
     }
@@ -1954,12 +1961,12 @@
       "t": "mcq",
       "q": "In the habitat meeting, which habitat is the best home?",
       "options": [
+       "There is no single best one. Each habitat is best for the living things that fit it.",
        "The forest, because it has the most food",
        "The sea, because it is the biggest",
-       "There is no single best one. Each habitat is best for the living things that fit it.",
        "The pond, because it is the smallest"
       ],
-      "a": 2,
+      "a": 0,
       "why": "Each habitat gives some things easily and makes others hard. A camel does best in the desert, a fish in water. Picking forest or sea is a fine opinion, but think of the camel. The forest would be a poor home for them, and a camel would not manage in the sea."
      }
     },
@@ -2100,12 +2107,12 @@
       "t": "mcq",
       "q": "In the Habitat Corner, birds and bees visited the water bowl often in summer. What does this show?",
       "options": [
-       "Water is a need that is hard to find in a town in summer",
        "Birds only drink from clay bowls",
        "Bees live in water",
+       "Water is a need that is hard to find in a town in summer",
        "The bowl is their whole habitat"
       ],
-      "a": 0,
+      "a": 2,
       "why": "In a hot town, clean water is hard to find, so a bowl of water meets a real need. Picking 'their whole habitat' misses that they still need food, shelter and space elsewhere. Your corner gives only part of their habitat."
      }
     },
@@ -2200,12 +2207,12 @@
       "t": "mcq",
       "q": "In a made-up test of Keep It Cool in the Desert, the bare cup of water reached 42 degrees and the sheltered cup only 31. What does this tell us about desert animals?",
       "options": [
-       "Shade and shelter make a huge difference in the desert",
        "Desert animals like being hot",
        "Water always gets hot in the sun, whatever you do",
-       "Shelters make things hotter"
+       "Shelters make things hotter",
+       "Shade and shelter make a huge difference in the desert"
       ],
-      "a": 0,
+      "a": 3,
       "why": "The shelter kept the water 11 degrees cooler. A desert gives sunshine and space, but very little shade. So shelter, like a burrow, is one of the most important needs there. Picking 'whatever you do' does not fit the results: the shelter worked."
      }
     }
@@ -2278,12 +2285,12 @@
       "t": "mcq",
       "q": "A child's butterfly balcony has lots of marigold flowers, but no butterflies lay eggs there. What is missing?",
       "options": [
-       "Host plants for the caterpillars to eat",
        "More marigolds",
        "A bigger balcony",
-       "Nothing, butterflies never lay eggs on balconies"
+       "Nothing, butterflies never lay eggs on balconies",
+       "Host plants for the caterpillars to eat"
       ],
-      "a": 0,
+      "a": 3,
       "why": "Many butterflies lay eggs only on the plants their caterpillars can eat. Lime butterflies need lemon or curry leaf plants. Flowers feed the adults, but not the young. Picking 'more marigolds' gives more of a need that is already met. A habitat must give every stage of life what it needs."
      }
     },
@@ -2309,12 +2316,12 @@
      "t": "mcq",
      "p": "A bowl of water is put on a balcony. Next to it hangs a tin packed with dry twigs. Which two needs of a habitat do they give to small birds and insects?",
      "opts": [
-      "Water and shelter",
       "Food and space",
       "Sunlight and warmth",
-      "Air and food"
+      "Air and food",
+      "Water and shelter"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The bowl gives water. The packed tin is a safe place to hide and rest, which is shelter. A strong answer also notices what is still missing: food, such as a plant with flowers. Picking 'food' forgets that water and twigs are not food."
     },
     {
@@ -2383,12 +2390,12 @@
      "t": "mcq",
      "p": "Olive ridley turtles spend most of their lives far out at sea. Yet each winter, thousands crawl onto beaches in Odisha at night. Why do they come ashore?",
      "opts": [
-      "To lay their eggs in warm, dry sand, which the sea cannot give",
       "To find food on the beach",
       "To rest, because swimming tires them",
+      "To lay their eggs in warm, dry sand, which the sea cannot give",
       "To get away from the cold sea"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The sea gives a turtle food and space to swim. But turtle eggs must sit in sand to hatch, and only a beach gives that. So a turtle's habitat is two places: the open sea and one beach. A strong answer notices that one living thing can need different places at different times of life."
     },
     {
@@ -2442,12 +2449,12 @@
      "t": "mcq",
      "p": "A pond near Madurai dries up in April. What do some frogs do?",
      "opts": [
-      "Dig into the damp mud and wait there until the rain comes back",
       "Hop to the sea",
       "Turn into fish",
-      "Stay on the dry cracked mud in the sun"
+      "Stay on the dry cracked mud in the sun",
+      "Dig into the damp mud and wait there until the rain comes back"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Deep down, the mud stays damp and cool, so it shelters them until the rains fill the pond again. Picking 'hop to the sea' forgets that sea water is salty, and most frogs cannot live in it."
     },
     {
@@ -2474,13 +2481,23 @@
      "t": "mcq",
      "p": "A crow nests in a neem tree, eats scraps from the bins and drinks from the water tank on the roof. What is the crow's habitat?",
      "opts": [
-      "All three places together, and the space between them",
       "Only the nest",
+      "All three places together, and the space between them",
       "Only the water tank",
       "The crow has no habitat in a city"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A habitat is everywhere a living thing finds their needs. For this crow, that is the tree, the bins and the tank. Picking 'only the nest' mixes up a habitat with a home to sleep in."
+    },
+    {
+     "t": "fill",
+     "p": "A parakeet nests in a ____ in the trunk of an old tree.",
+     "a": [
+      "hollow",
+      "hole",
+      "tree hole"
+     ],
+     "why": "A hollow is a hole in a tree trunk. Birds such as parakeets and owls use hollows for nests and rest."
     }
    ]
   },
@@ -2541,12 +2558,12 @@
      "t": "mcq",
      "p": "In the tree water test, why did we also tie a bag around a bare stick with no leaves?",
      "opts": [
-      "To check that the water came from the leaves, and not from the air or the plastic",
       "To save plastic bags",
       "Because the stick was thirsty",
+      "To check that the water came from the leaves, and not from the air or the plastic",
       "To make the test take longer"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The leafy bag filled with drops and the bare-stick bag stayed dry. So the water came from the leaves. Without the bare stick, someone could say that damp air made the drops. A strong answer calls the bare stick the comparison.",
      "context": "Remember the tree water test, where you tied a clear bag around a leafy branch in the sun, and another around a bare stick?",
      "how": "e3"
@@ -2627,12 +2644,12 @@
      "t": "mcq",
      "p": "A gecko waits on the wall next to a tube light every night. What does that spot give her?",
      "opts": [
-      "Food, because insects fly to the light and she catches them",
       "Water from the light",
       "Nothing: she is there by chance",
+      "Food, because insects fly to the light and she catches them",
       "Sunlight to grow"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Many insects fly to lights at night, so the wall by the light is full of food for a gecko. That spot is part of her habitat. Picking 'by chance' does not fit, because she comes back to the same spot every night.",
      "context": "Geckos are the small lizards on house walls. They live in most Indian homes."
     },
@@ -2681,12 +2698,12 @@
      "t": "mcq",
      "p": "In the mangroves of Pichavaram, in Tamil Nadu, the river meets the sea. At high tide the water is salty, and at low tide it is fresher. What is hard about living there?",
      "opts": [
-      "The saltiness and the water level keep changing every day",
       "There is no water at all",
       "It is always dark",
+      "The saltiness and the water level keep changing every day",
       "Nothing is hard there"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Living things in mangroves must handle salt one hour and fresher water the next, and mud that floods and drains. Some mangrove trees push out extra salt through their leaves. Picking 'nothing is hard' forgets that every habitat has its own problem."
     },
     {
@@ -2707,12 +2724,12 @@
      "t": "mcq",
      "p": "On a summer afternoon, the top of the sand in the Thar Desert can be hotter than 50 degrees. A little way down, the sand is much cooler. What does a burrow give a desert animal?",
      "opts": [
-      "Shelter and the right warmth",
       "Food and sunlight",
       "More heat",
-      "Space to run fast"
+      "Space to run fast",
+      "Shelter and the right warmth"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Sand is slow to let heat through, so a burrow stays cool in the day and warm at night. It is also a safe place to hide. Picking 'more heat' is the opposite of what the burrow does."
     },
     {
@@ -2739,6 +2756,13 @@
      "lines": 4,
      "a": "A strong answer picks one need and compares both layers. For example, water: the canopy is hot, windy and dries fast after rain, so canopy animals drink from rain caught in leaves and tree holes. The floor stays damp for days, which suits frogs, worms and fungi that dry out easily.",
      "why": "One forest holds several habitats on top of each other. The same need is met in different ways at each level."
+    },
+    {
+     "t": "write",
+     "p": "A thermometer under a neem tree at noon reads cooler than one on the bare road beside it. Explain why, using the word shade.",
+     "lines": 3,
+     "a": "The leaves make shade. The shade blocks the sun, so the ground under the tree takes less heat, and the thermometer there reads lower.",
+     "why": "A strong answer names the shade and says it blocks sunlight, so the ground warms less."
     }
    ]
   },
@@ -2752,12 +2776,12 @@
      "t": "mcq",
      "p": "In the five worlds test, the sunny path was 41 degrees and under the stone was 29 degrees. Someone says: 'An earthworm would be fine on the path. It is only 12 degrees more.' What is wrong with this thinking?",
      "opts": [
-      "Earthworms breathe through damp skin, so the heat and dryness of the path can kill them",
       "Nothing: 12 degrees is a small difference",
+      "Earthworms breathe through damp skin, so the heat and dryness of the path can kill them",
       "Earthworms like 41 degrees",
       "Thermometers do not work outside"
      ],
-     "a": 0,
+     "a": 1,
      "why": "For a small, damp-skinned animal, 12 degrees and dry ground are the difference between life and death. In this lesson's story, snakes died in the hot sun on Jadav Payeng's bare sandbar. The mistake is to treat a small number as a small effect.",
      "context": "The five worlds test is an outdoor experiment: you measure five small places in one garden. Here are made-up results from it.",
      "how": "e2"
@@ -2784,12 +2808,12 @@
      "t": "mcq",
      "p": "Tube worms live at deep sea vents. They have no mouth, and no sunlight reaches them. How do they get food?",
      "opts": [
-      "Bacteria living inside them make food from chemicals in the vent water",
       "They eat sunlight",
       "They eat sand",
-      "They do not need food"
+      "They do not need food",
+      "Bacteria living inside them make food from chemicals in the vent water"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The bacteria use a chemical in the vent water to make food, and share it with the worm. Picking 'do not need food' forgets that every living thing needs energy. Before 1977, scientists thought all food chains started with sunlight.",
      "context": "Hydrothermal vents are cracks in the deep sea floor where water heated inside the rock comes out."
     },
@@ -2814,12 +2838,12 @@
      "t": "mcq",
      "p": "In the Square Metre Safari, a lawn had 6 kinds of living things and a square under a tree had 14. Someone says: 'Under trees there are always more kinds.' Is that a fair conclusion from one test?",
      "opts": [
-      "No. One test in one garden is a start, but we need to test more places",
       "Yes, one test is always enough",
       "No, lawns always have more",
-      "Tests cannot tell us anything"
+      "Tests cannot tell us anything",
+      "No. One test in one garden is a start, but we need to test more places"
      ],
-     "a": 0,
+     "a": 3,
      "why": "One result can be a fluke. Scientists repeat tests in many places before saying 'always'. Picking 'tests cannot tell us anything' goes too far. The test is good evidence for this garden.",
      "context": "The Square Metre Safari is an outdoor activity: you mark out a 1 metre square and count the kinds of living things in it. Here are made-up results from it.",
      "how": "a3"
@@ -2948,12 +2972,12 @@
    "t": "mcq",
    "p": "Which sentence best says what a habitat is?",
    "opts": [
-    "The place where a living thing finds everything they need to live",
     "Any house",
     "Only a forest",
+    "The place where a living thing finds everything they need to live",
     "A cage"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A habitat gives food, water, air, shelter, space and the right warmth. A habitat can be big, like a forest, or tiny, like a bowl of milk. Picking 'any house' mixes up a habitat with a house. Picking 'only a forest' forgets ponds, deserts, the sea and tiny places.",
    "outcome": 0
   },
@@ -2961,12 +2985,12 @@
    "t": "mcq",
    "p": "A pet fish lives in a small glass bowl. She gets food, clean water and the right warmth. Which need of a habitat is she short of?",
    "opts": [
-    "Space",
     "Food",
     "Water",
+    "Space",
     "Warmth"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A tiny bowl gives very little room to swim. Space is one of the six needs, along with food, water, air, shelter and the right warmth. Picking food, water or warmth misses that the question says she has those.",
    "outcome": 0
   },
@@ -2974,12 +2998,12 @@
    "t": "mcq",
    "p": "Why can a camel manage in the Thar Desert, while a frog cannot?",
    "opts": [
-    "A camel can go many days without drinking, but a frog's skin dries out fast",
     "Camels are bigger",
+    "A camel can go many days without drinking, but a frog's skin dries out fast",
     "Frogs are afraid of sand",
     "The desert is too cold for frogs"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A desert gets very little rain. A camel's body is built to save water, and a frog needs damp skin and water for eggs. Picking 'bigger' is not about the needs a habitat gives.",
    "outcome": 1
   },
@@ -3000,12 +3024,12 @@
    "t": "mcq",
    "p": "Why does the sea hold most of the living space on Earth?",
    "opts": [
-    "It covers about seven parts out of ten of the Earth, and life lives at every depth",
     "It is salty",
     "It is blue",
-    "Fish are bigger than land animals"
+    "Fish are bigger than land animals",
+    "It covers about seven parts out of ten of the Earth, and life lives at every depth"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The sea is wide and very deep, and living things are found from the bright top to the dark floor. Picking 'salty' or 'blue' describes the sea, but does not explain the space.",
    "outcome": 1
   },
@@ -3013,12 +3037,12 @@
    "t": "mcq",
    "p": "In the three bowls experiment, which bowl usually turns into curd by morning?",
    "opts": [
-    "The warm one, wrapped in a towel",
     "The one in the fridge",
     "None of them, curd only comes from a shop",
+    "The warm one, wrapped in a towel",
     "All three, exactly the same"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Curd bacteria grow fast in warmth, so the warm bowl sets first. Picking 'the fridge' is a common guess, because curd is kept there. The fridge keeps curd from getting too sour, because the cold slows the bacteria down. Picking 'all three the same' misses that warmth was the one thing we changed.",
    "outcome": 2,
    "context": "Remember the three bowls experiment, where you stirred curd into warm milk and kept one bowl warm, one on the counter and one in the fridge?",
@@ -3028,12 +3052,12 @@
    "t": "mcq",
    "p": "In the three bowls experiment, the fridge bowl stayed runny. Then it was kept warm all day, and by evening it had set. What does this show?",
    "opts": [
-    "The bacteria stayed alive in the cold, and got busy again once the place suited them",
     "The cold killed the bacteria",
+    "The bacteria stayed alive in the cold, and got busy again once the place suited them",
     "Warm air turns milk into curd by itself, with no bacteria",
     "The fridge bowl never had any curd in it"
    ],
-   "a": 0,
+   "a": 1,
    "why": "If the cold had killed the bacteria, the bowl would never have set. They slowed down in the cold and grew again in the warmth. Picking 'warm air by itself' is a good thought to test: a bowl of warm milk with no curd stays runny much longer.",
    "outcome": 2,
    "context": "Remember the three bowls experiment, where you stirred curd into warm milk and kept one bowl warm, one on the counter and one in the fridge?",
@@ -3054,14 +3078,38 @@
   },
   {
    "t": "mcq",
+   "p": "At noon on a hot day, which ground is cooler: the ground in full sun, or the ground under a big neem tree?",
+   "opts": [
+    "The ground under the tree, because its leaves block the sun",
+    "The ground in full sun, because the sun warms the air above the tree",
+    "They are the same, because the sun heats everything equally"
+   ],
+   "a": 0,
+   "why": "Leaves block sunlight, so the ground under them takes less heat. Ground in full sun takes the whole heat of the noon sun. The sun does not heat everything equally, because shade stops some of it.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "A parakeet nests in a hole in an old tree. Why is the tree a habitat for it?",
+   "opts": [
+    "The tree is a home only for insects, never for birds",
+    "The hole gives the parakeet a home, and the tree gives it food and a place to rest",
+    "A tree is a habitat only when it is dead"
+   ],
+   "a": 1,
+   "why": "A habitat gives food, shelter and a place to live. The hole is a nest, and the leaves and fruit are food. The other two answers are wrong, because many birds and insects live in living trees.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
    "p": "In a flat, ants come to the corner by the kitchen sink, but hardly ever to a dry, clean bookshelf. Why?",
    "opts": [
-    "The sink corner gives them water and crumbs of food",
     "Ants do not like books",
+    "The sink corner gives them water and crumbs of food",
     "Ants go anywhere by chance",
     "The bookshelf is too high"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A habitat is where a living thing finds what they need. The sink corner gives ants water and food, so it is part of their habitat. Picking 'by chance' does not fit, because they keep going to the same place. Ants climb walls easily, so height is not the reason.",
    "outcome": 0,
    "context": "Ants live in nearly every Indian home. This question is about where in a flat you see them."
@@ -3070,12 +3118,12 @@
    "t": "mcq",
    "p": "In 2019, scientists who studied wild plants and animals all over the world named the biggest danger to them. What was it?",
    "opts": [
-    "Losing their habitats, as forests are cut and ponds are filled",
     "Too much rain",
+    "Losing their habitats, as forests are cut and ponds are filled",
     "Too many zoos",
     "Being looked at by people"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Changing land and sea for human use is the main cause of the loss of wild species. When a habitat goes, the living things in it lose their food, water and shelter.",
    "outcome": 4
   },
@@ -3083,12 +3131,12 @@
    "t": "mcq",
    "p": "Jadav Payeng made a forest on a bare sandbar. How did the animals get there?",
    "opts": [
-    "They came by themselves once the place gave them what they needed",
     "He carried them all",
     "They were brought by a zoo",
+    "They came by themselves once the place gave them what they needed",
     "They were always there"
    ],
-   "a": 0,
+   "a": 2,
    "why": "He made the place give shade, soil and food, and the animals came. Picking 'he carried them all' cannot be right, because nobody can carry an elephant. Picking 'they were always there' forgets that the story says the sandbar was bare at first.",
    "outcome": 4,
    "context": "Jadav Payeng is a man in Assam who, from 1979, planted a forest on a bare sandbar in the Brahmaputra river."
@@ -3097,12 +3145,12 @@
    "t": "mcq",
    "p": "Which of these do scientists NOT know yet?",
    "opts": [
-    "Whether there is life on any other world",
     "Whether deserts get little rain",
     "Whether fish live in the sea",
-    "Whether warmth helps milk with curd in it to set"
+    "Whether warmth helps milk with curd in it to set",
+    "Whether there is life on any other world"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Nobody knows yet if life lives anywhere except Earth. The others have been tested and are agreed.",
    "outcome": 5
   },
@@ -3110,12 +3158,12 @@
    "t": "mcq",
    "p": "More than two kilometres down in the sea, no sunlight ever reaches. But warm water full of chemicals pours out of cracks in the sea floor. Could anything live there?",
    "opts": [
-    "Yes: bacteria can make food from the chemicals, and worms, clams and crabs feed on them",
     "No: nothing can live without sunlight",
     "Only plants could live there",
-    "Only sand is there"
+    "Only sand is there",
+    "Yes: bacteria can make food from the chemicals, and worms, clams and crabs feed on them"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Living things need energy, but it does not have to come from sunlight. Bacteria there make food from the chemicals, and animals eat the bacteria. Picking 'nothing can live without sunlight' is what scientists also thought before they looked.",
    "outcome": 5
   },
@@ -3123,12 +3171,12 @@
    "t": "mcq",
    "p": "Why is your body a habitat?",
    "opts": [
-    "Trillions of microbes live in and on it, and it gives them food, water and warmth",
     "Because you live in a house",
+    "Trillions of microbes live in and on it, and it gives them food, water and warmth",
     "Because you can walk",
     "It is not a habitat"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Your body meets the needs of trillions of tiny living things, just as a pond meets the needs of a frog. Picking 'not a habitat' forgets the microbes in your tummy and on your skin.",
    "outcome": 6
   }
@@ -3564,6 +3612,76 @@
    "used_in": [
     "p1"
    ]
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Square Metre Safari. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before Square Metre Safari."
+  },
+  {
+   "id": "b-a-dropper",
+   "item": "A dropper",
+   "kind": "tool",
+   "why": "Used in Does a Tree Give Water to the Air?. About ₹10 to ₹40. A clean pen refill or straw with a finger on top can drop water.",
+   "url": "https://www.amazon.in/s?k=plastic+dropper",
+   "used_in": [
+    "e3"
+   ],
+   "plan": "Get it before Does a Tree Give Water to the Air?."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Keep It Cool in the Desert. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before Keep It Cool in the Desert."
+  },
+  {
+   "id": "b-clean-sand--a-small-bag",
+   "item": "Clean sand (a small bag)",
+   "kind": "material",
+   "why": "Used in Keep It Cool in the Desert. About ₹20 to ₹60. Fine soil sieved from a pot works.",
+   "url": "https://www.amazon.in/s?k=play+sand+small+bag",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before Keep It Cool in the Desert."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in A Balcony Habitat for Butterflies. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "c2"
+   ],
+   "plan": "Get it before A Balcony Habitat for Butterflies."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

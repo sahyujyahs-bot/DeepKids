@@ -1,9 +1,9 @@
 # Sun, Moon and stars: what lights and warms our sky
 `sci.sky.sun-moon-stars.L1`
 
-**Summary.** Where do the stars go in the daytime? In this unit you will look at the sky from a window, test stars hiding in daylight with a torch, see which ice cube melts first in sun or shade, and sort cards into day sky and night sky.
+**Summary.** Where do the stars go in the daytime? In this lesson you will look at the sky from a window, test stars hiding in daylight with a torch, see which ice cube melts first in sun or shade, and sort cards into day sky and night sky.
 
-**Intro.** *Hold your hand in a patch of sunshine for a slow count of twenty. Now hold it in the shade. What do you feel?* In the sunshine your hand gets warm. In the shade it stays cooler. The Sun is very, very far away, but its light still reaches your hand and warms it. At night that sunlight is gone from our sky, and the Moon and the stars show up. But where are the stars in the daytime? In this unit you find out.
+**Intro.** *Hold your hand in a patch of sunshine for a slow count of twenty. Now hold it in the shade. What do you feel?* In the sunshine your hand gets warm. In the shade it stays cooler. The Sun is very, very far away, but its light still reaches your hand and warms it. At night that sunlight is gone from our sky, and the Moon and the stars show up. But where are the stars in the daytime? In this lesson you find out.
 
 ## Learning outcomes
 0. By the end I can say that the Sun gives us light and heat.
@@ -26,6 +26,8 @@ In the ice test, the ice cube in the sunshine melted much faster than the one in
 - e.g. In the ice test, the ice cube in the sunshine melted first.
 - e.g. Clothes on a sunny balcony dry faster than clothes in the shade.
 - e.g. A crow sits in the morning sun with puffed-out feathers to get warm.
+- **Anaxagoras (about 450 BCE):** Said the Sun is a huge, red-hot rock, and was punished for saying it.
+- **Many traditions, including Indian ones:** Honour Surya as the giver of light and life. Astronomers today say the Sun is a star, a ball of gas that burns by joining atoms together.
 ### The Moon shines with the Sun's light · *defined*
 **Definition:** The Moon makes no light of its own. Sunlight falls on the Moon, and some of it bounces off and comes to our eyes.
 
@@ -33,6 +35,8 @@ The Moon looks bright at night, so many children think it makes light, like a la
 - e.g. A steel plate looks bright only when a lamp shines on it. The Moon looks bright only because the Sun shines on it.
 - e.g. On some mornings you can see a pale Moon in the blue sky.
 - e.g. In 2023, India's Chandrayaan-3 landed on the Moon and found grey rock and dust there.
+- **Everyday view:** The Moon shines by itself at night.
+- **Aryabhata and later astronomers:** Said Moon light is sunlight bouncing off its dust and rock. That is why its bright part always faces the Sun.
 ### The stars are in the sky in the daytime too · *defined*
 **Definition:** The stars shine all the time, by day and by night. In the day, sunlight makes the whole sky so bright that we cannot see the stars' small light.
 
@@ -40,6 +44,8 @@ In the torch star test, a torch covered with cardboard shone through one tiny ho
 - e.g. In the torch star test, the torch star was hard to see by the sunny window and bright in the dark room.
 - e.g. During a total eclipse of the Sun, the Moon covers the Sun for a few minutes. The sky goes dark and bright stars appear in the middle of the day.
 - e.g. Big telescopes can find bright stars even in the daytime.
+- **Everyday view:** Stars come out at night, and they are not there in the day.
+- **Astronomers:** Can see the planet Venus in the daytime if they know where to look, and telescopes can show bright stars in daylight. The stars never switch off.
 ### Why a city sky shows fewer stars · *defined*
 **Definition:** Street lights, shop signs and lit windows light up the air over a city at night. Then only the brightest stars can be seen.
 
@@ -47,6 +53,8 @@ On a clear night in a big city, you may see only a few stars. In a village far f
 - e.g. From a city balcony you may count only five or ten stars.
 - e.g. Far from towns, in the Thar desert or the hills of Ladakh, the sky can be full of stars.
 - e.g. Switch off the lights near a window at night, and a few more stars show.
+- **Astronomers:** Rate the darkness of a sky on the Bortle scale, made by John Bortle in 2001. In the darkest sky thousands of stars show, and in a city sky only a few dozen.
+- **Dung beetles:** Roll their dung balls in straight lines by the light of the Milky Way. Researchers found in 2013 that they lose their way when the sky is too bright. Light pollution affects other living beings.
 
 ## Mostly agreed
 - The Sun is a star. It gives the Earth light and heat. *How we know:* Anyone can feel the Sun's warmth in a patch of sunshine. Scientists have measured the Sun's light from the ground and from spacecraft, such as India's Aditya-L1, which was launched in 2023 to study the Sun.
@@ -341,11 +349,15 @@ Back in Bengaluru, on the first night home, Tara stood on the balcony. She count
   *Parent does:* A grown-up folds the two papers in half, puts one inside the other, and staples or ties them at the fold. Your child writes 'My Sky Book' and their name on the cover.  
   *Parent says:* We are making a sky book. The front pages are for the day sky, and the back pages are for the night sky.  
   *Child mode:* Make your sky book. Write the title and your name on the cover.
-- **s2 (8 min)**  
+- **s2 (4 min)**  
   *Parent does:* In the day, your child looks out of the window and draws the day sky on the first two pages. Or they tell you, and you write it. Add their words under any picture.  
   *Parent says:* Look out of the window. Draw what you see in the day sky, or tell me and I will write it. What is making it so bright?  
   *Child mode:* Draw the day sky, or tell your grown-up what to write.
   - Ask: What makes the day sky bright? (good: The Sun.; Sunlight lights up the sky.)
+- **s2b (4 min)**  
+  *Parent does:* Your child cuts a sun from yellow paper and glues it on a day page. They cut a moon from white paper and a few stars, and keep them for the night pages.  
+  *Parent says:* Let us make a paper sun, a moon and some stars. The sun goes on the day page. The moon and stars wait for the night.  
+  *Child mode:* Cut a paper sun for the day page. Cut a moon and some stars for tonight.
 - **s3 (8 min) · grown-up needed**  
   *Parent does:* After dark, look out of the same window. Switch off the room light. Your child makes one dot on the last pages for each star. If the Moon is up, add a big circle.  
   *Parent says:* It is the same window, at night. What can you see now? Can you see the Moon? How many stars?  
@@ -383,32 +395,34 @@ Back in Bengaluru, on the first night home, Tara stood on the balcony. She count
   - Check: You put a cardboard roof over one ice cube in the sunshine. Why does that ice last longer? → **The roof makes shade, so less sunshine reaches the ice**
 
 ## Worksheets
-### Sun, Moon and Stars (core) (core, 10 questions)
+### Sun, Moon and Stars (core) (core, 11 questions)
 1. (sort) A grown-up reads each one. Does the Sun give it light, heat or both? Draw a line to the right box.  
    **Answer:** A bright room in the day → Light; A warm balcony railing → Heat; Clothes drying on the line → Heat; A leaf making food → Light; A sunny patch on the floor → Both. *Why:* The Sun gives light and heat together. A sunny patch is bright and warm, so it is both. A strong answer sees that some things use mostly the light, like a leaf making food, and some use mostly the heat, like drying clothes.
 2. (odd) Three of these are safe to do in the sun. Which one is not safe? Circle it.  
    Options: Feeling the sunshine on your hand / Drying clothes on a sunny line / Looking straight at the Sun / Sitting in the shade of a tree  
    **Answer:** 2. *Why:* Looking straight at the Sun, even for a moment, can hurt your eyes. The other three are safe.
 3. (mcq) Where will wet clothes dry fastest?  
-   Options: On a sunny balcony line / In a shady cupboard / Under the bed  
+   Options: In a shady cupboard / Under the bed / On a sunny balcony line  
    **Answer:** On a sunny balcony line. *Why:* The Sun's heat dries clothes. In the sunshine they get more heat, so the water goes into the air faster.
 4. (truefalse) The Moon is a ball of rock that goes round the Earth.  
    **Answer:** True. *Why:* True. The Moon is a big ball of rock. It makes no light of its own, and shines with the Sun's light.
-5. (draw) Draw yourself on a hot day. Show where the sunshine falls and where the shade is. Colour the place you would sit to stay cool.  
+5. (fill) A paper moon is glued on a night page. The real Moon shines because the ____ lights it up.  
+   **Answer:** Sun. *Why:* The Moon has no light of its own. The Sun's light falls on it and bounces to our eyes.
+6. (draw) Draw yourself on a hot day. Show where the sunshine falls and where the shade is. Colour the place you would sit to stay cool.  
    **Answer:** A drawing with sunshine on one side and shade on the other, and the child sitting in the shade.. *Why:* A strong drawing shows shade where something blocks the sunlight, and sunshine where it does not.
-6. (match) Draw a line from each sky thing to where its light comes from.  
+7. (match) Draw a line from each sky thing to where its light comes from.  
    **Answer:** The Sun → Its own light; The Moon → Light from the Sun; A star → Its own light. *Why:* The Sun and the stars make their own light. The Moon has none of its own: it shines with sunlight.
-7. (write) In the torch star test, why was the torch star hard to see by the bright window? Say it out loud, and a grown-up writes it down.  
+8. (write) In the torch star test, why was the torch star hard to see by the bright window? Say it out loud, and a grown-up writes it down.  
    **Answer:** The light all around it was so bright that the small star got lost. The torch was still shining.. *Why:* A strong answer says the torch kept shining, and that the bright light around it hid the star.
-8. (count) Look at this picture of a night sky over a city. Count the stars. Write the number.  
+9. (count) Look at this picture of a night sky over a city. Count the stars. Write the number.  
    **Answer:** 4. *Why:* There are 4 stars. In a city, the lights hide most of the faint stars, so we see only a few bright ones.
-9. (perspective) It is a hot afternoon. A family is talking about the sunshine.  
+10. (perspective) It is a hot afternoon. A family is talking about the sunshine.  
    **Answer:** Any choice with a good reason. Sunshine brings useful light and heat. Too much of its heat in the afternoon can be hard on bodies, so shade helps then.. *Why:* A strong answer gives a reason, and fairly says something good about another view. The Sun's heat helps us, and too much of it can be too hot.
-10. (label) Look at this room in the day. A grown-up points to each place. Say 'warm' or 'cool', and the grown-up writes it.  
+11. (label) Look at this room in the day. A grown-up points to each place. Say 'warm' or 'cool', and the grown-up writes it.  
    **Answer:** ['warm', 'cool', 'warm', 'cool']. *Why:* Places where sunlight falls get warmer. Places in the shade get less of the Sun's heat, so they stay cooler.
 ### Sun, Moon and Stars (stretch) (stretch, 10 questions)
 1. (mcq) A solar water heater on a roof warms bath water. What does it use from the Sun?  
-   Options: Its heat / Moonlight / Starlight  
+   Options: Moonlight / Its heat / Starlight  
    **Answer:** Its heat. *Why:* Sunshine brings heat. The solar water heater catches the Sun's heat and uses it to warm the water.
 2. (order) Put these in order, 1 to 4: what happened in the torch star test? A grown-up reads each line.  
    **Answer:** [1, 2, 3, 4]. *Why:* First the star was made. It was hard to see in a bright place, and easy to see in the dark. So the torch had been shining all along.
@@ -441,19 +455,19 @@ Back in Bengaluru, on the first night home, Tara stood on the balcony. She count
    Options: Light and heat / Light and rain / Heat and wind  
    **Answer:** Light and heat. *Why:* The Sun gives light and heat together. You can feel the heat in a patch of sunshine.
 2. (mcq) Which of these is a star?  
-   Options: The Sun / The Moon / A cloud  
+   Options: The Moon / The Sun / A cloud  
    **Answer:** The Sun. *Why:* The Sun is a star: a huge ball of hot gas that makes its own light. The Moon and clouds only look bright when sunlight falls on them.
 3. (mcq) Why does the Moon look bright at night?  
    Options: The Sun shines on it / It has a fire inside / It is made of light  
    **Answer:** The Sun shines on it. *Why:* The Moon is a ball of rock. It makes no light of its own. Sunlight falls on it and bounces down to us.
 4. (mcq) Where are the stars in the daytime?  
-   Options: Still in the sky, hidden by the bright day sky / Asleep behind the clouds / Gone until night  
+   Options: Asleep behind the clouds / Gone until night / Still in the sky, hidden by the bright day sky  
    **Answer:** Still in the sky, hidden by the bright day sky. *Why:* The stars shine all the time. The Sun makes the day sky so bright that their small light cannot be seen.
 5. (mcq) In the torch star test, what changed between the bright window and the dark room?  
    Options: The light around the star / The torch / The size of the hole  
    **Answer:** The light around the star. *Why:* It was a fair test: the torch, the hole and the distance stayed the same. Only the light around the star changed.
 6. (mcq) Which of these is safe?  
-   Options: Feeling the Sun's warmth on your hand / Looking straight at the Sun for a moment / Looking at the Sun through sunglasses  
+   Options: Looking straight at the Sun for a moment / Looking at the Sun through sunglasses / Feeling the Sun's warmth on your hand  
    **Answer:** Feeling the Sun's warmth on your hand. *Why:* Feeling the warmth is safe. Looking at the Sun, even for a moment or through sunglasses, can hurt your eyes.
 7. (mcq) An ice cube is in a sunny spot. What will help it last longer?  
    Options: Putting a cardboard roof over it to make shade / Moving it closer to the window / Putting it on a black plate in the sun  
@@ -462,11 +476,14 @@ Back in Bengaluru, on the first night home, Tara stood on the balcony. She count
    Options: The one in the sunshine / The one in the shade / They feel the same  
    **Answer:** The one in the sunshine. *Why:* Sunshine brings heat. The spoon in the sunshine gets more of it.
 9. (mcq) Why is the sky bright in the daytime?  
-   Options: Sunlight lights up the air / The Moon is shining / The stars shine more by day  
+   Options: The Moon is shining / Sunlight lights up the air / The stars shine more by day  
    **Answer:** Sunlight lights up the air. *Why:* Sunlight lights up the air and makes the whole day sky bright. That bright sky hides the stars.
 10. (mcq) A total eclipse of the Sun makes the sky dark in the middle of the day. What can people see then?  
-   Options: Bright stars / Nothing at all / Only clouds  
+   Options: Nothing at all / Only clouds / Bright stars  
    **Answer:** Bright stars. *Why:* When the Moon covers the Sun, the sky goes dark, and bright stars appear. They were there all day.
+11. (mcq) You glue a paper moon on your night page. What lights the real Moon in the sky?  
+   Options: The stars / The Sun / Its own light  
+   **Answer:** The Sun. *Why:* Sunlight falls on the Moon and bounces off it to our eyes. The Moon has no light of its own, and the stars are too far away to light it.
 
 ## Applications
 - Solar panels on roofs and at railway stations turn sunlight into electricity.
@@ -476,13 +493,13 @@ Back in Bengaluru, on the first night home, Tara stood on the balcony. She count
 - Some cities and parks keep their lights low at night so that people, birds and insects can see the stars and the dark again.
 
 ## Spotted around us
-- At Pongal in Tamil Nadu, families cook sweet pongal outside in the morning sunshine, to thank the Sun for the harvest.
-- At Chhath Puja in Bihar, people stand in rivers and ponds at sunset and sunrise to greet the Sun.
-- At the Sun Temple in Konark, Odisha, the temple is built like a giant chariot for the Sun, with huge stone wheels.
-- On Sharad Purnima, many families in Gujarat and Maharashtra sit out under the full Moon and share sweet milk.
-- In the Rann of Kutch in Gujarat, far from town lights, the night sky is full of stars.
-- On rooftops in Kerala and Karnataka, people spread coconut pieces and chillies on mats to dry in the sun.
-- At Hanle in Ladakh, India has an observatory and a dark-sky reserve, where lights are kept low so the stars can be seen.
+- At Pongal, families cook sweet pongal outside in the morning sunshine, to thank the Sun for the harvest.
+- At Chhath Puja, people stand in rivers and ponds at sunset and sunrise to greet the Sun.
+- A temple built like a giant chariot for the Sun, with huge stone wheels, in a picture.
+- On Sharad Purnima, many families sit out under the full Moon and share sweet milk.
+- Far from town lights, the night sky is full of stars.
+- On rooftops, people spread coconut pieces and chillies on mats to dry in the sun.
+- A dark-sky place, where lights are kept low so the stars can be seen.
 
 ## Open questions
 - **How many stars are there?** Our galaxy alone has hundreds of billions of stars, and there are billions of galaxies. Nobody can count them all, and scientists' best guesses still differ.
@@ -518,11 +535,12 @@ Sun by Day, Stars All Day (sci.sky.L1): Topic-level song for Sun, Moon, stars an
 ## Links
 - [NASA Space Place: All about the Moon](https://spaceplace.nasa.gov/all-about-the-moon/en/) · interactive: For the parent to read aloud: simple pages and pictures about the Moon.
 - [StoryWeaver, free picture books from Pratham Books](https://storyweaver.org.in/) · interactive: Free picture books in many Indian languages to read aloud. Search for books about the Sun, the Moon and the stars.
-- [Jawaharlal Nehru Planetarium]() · place · Bengaluru: Sky shows that show the night sky full of stars, as it looks far from city lights.
-- [M. P. Birla Planetarium]() · place · Kolkata: Sky shows about the Sun, the Moon and the stars.
-- [Nehru Planetarium]() · place · Mumbai: Sky shows about the Sun, the Moon and the stars, and a science exhibition.
+- Jawaharlal Nehru Planetarium · place · Bengaluru: Sky shows that show the night sky full of stars, as it looks far from city lights.
+- M. P. Birla Planetarium · place · Kolkata: Sky shows about the Sun, the Moon and the stars.
+- Nehru Planetarium · place · Mumbai: Sky shows about the Sun, the Moon and the stars, and a science exhibition.
 
 ## Things to buy
+- [Printed pages for the sky cards, caller cards and worksheets, about 15 pages]() (material): Both games use printed cards, and the worksheets are printed as well. A copy shop charges about ₹1 to ₹2 a page, so the set costs about ₹15 to ₹30. Used in g1, g2, ws-core, ws-stretch. Print these before the first game.
 
 ## Warm-up
 - What two things does the Sun give us? → Light and heat.
@@ -539,7 +557,7 @@ Sun by Day, Stars All Day (sci.sky.L1): Topic-level song for Sun, Moon, stars an
 
 ## Sources
 - ideas/by_topic/the-universe-sun-moon-stars-and-planets.md: the founder's notes on tracking the Sun and the circle dance for the Sun's daily path fed the Sun Up, Sun Down moving game. Her deeper grids (galaxies, the expansion of the universe) and her scientist cards (Khana, Williamina Fleming, Wang Zhenyi) belong to later levels.
-- Curriculum entry sci.sky.sun-moon-stars.L1 (The Sun gives light and heat; the Moon and stars at night). No board chapter is listed for this level. The Level 3 unit goes on to why the Sun is a star and the stars look small, the Moon's reflected light in a model, and pinhole Sun viewing, so this unit does not repeat those experiments. The Level 1 light sources unit already teaches that the Sun is a star and what a light source is.
+- Curriculum entry sci.sky.sun-moon-stars.L1 (The Sun gives light and heat; the Moon and stars at night). No board chapter is listed for this level. The Level 3 unit goes on to why the Sun is a star and the stars look small, the Moon's reflected light in a model, and pinhole Sun viewing, so this lesson does not repeat those experiments. The Level 1 light sources unit already teaches that the Sun is a star and what a light source is.
 - The day sky is bright because air scatters sunlight (Rayleigh scattering), which hides the much fainter starlight. During totality in a total solar eclipse, bright stars and planets become visible.
 - Annie S. D. Maunder photographed the solar corona at the total eclipse of 22 January 1898 from Talni, India, with a small camera bought with a grant from Girton College, recording a coronal streamer much longer than any photographed before (MacTutor biography; Oxford Dictionary of National Biography).
 - Rig Veda 1.50.2, Griffith's translation: 'The constellations pass away, like thieves, together with their beams, before the all-beholding Sun.' Isha Upanishad 15: 'The face of truth is covered with a golden disc.'

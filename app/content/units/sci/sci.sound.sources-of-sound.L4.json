@@ -756,11 +756,11 @@
       "t": "mcq",
       "q": "A hollow bamboo pole moans in the wind. Which way of starting a sound fits best?",
       "options": [
-       "Air shakes in a space",
        "Sudden pop",
-       "Solid shakes"
+       "Solid shakes",
+       "Air shakes in a space"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The wind flips from side to side at the edge of the opening, and the air inside the pole picks the note. Choosing 'solid shakes' forgets that the bamboo itself is hardly moving."
      },
      "context": "In this step, you finish the cards and keep your score."
@@ -989,11 +989,11 @@
       "t": "mcq",
       "q": "A bottle has 200 millilitres of water in it, and another has 50 millilitres. Which gives the higher note when blown across?",
       "options": [
-       "The one with 200 millilitres",
        "The one with 50 millilitres",
+       "The one with 200 millilitres",
        "They give the same note"
       ],
-      "a": 0,
+      "a": 1,
       "why": "More water means a shorter air column, and a shorter air column gives a higher note when you blow. The bottle with 50 millilitres would give the higher note if you tapped it, because then the glass and water shake and more water is more to shake."
      },
      "context": "In this step, you compare the two orders and say what is shaking in each case."
@@ -1155,11 +1155,11 @@
       "t": "mcq",
       "q": "Why must the glass be wiped between each try?",
       "options": [
-       "So that wetness left from the last try does not change the next one",
        "So the glass shines",
-       "So the helper can see better"
+       "So the helper can see better",
+       "So that wetness left from the last try does not change the next one"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A damp finger leaves a film of water on the glass. If it stays, the next condition is no longer the one you think it is. Wiping makes each try start in the same way."
      },
      "context": "In this step, you test the damp and very wet finger."
@@ -1410,11 +1410,11 @@
       "t": "mcq",
       "q": "Why is a screen needed between the speaker and the listener?",
       "options": [
-       "So the listener cannot lip-read and must use only the sound",
        "So the speaker can speak louder",
-       "So the room is quieter"
+       "So the room is quieter",
+       "So the listener cannot lip-read and must use only the sound"
       ],
-      "a": 0,
+      "a": 2,
       "why": "If the listener sees the mouth shapes, they may guess the vowel from the lips. The screen makes sure they use the sound only. Without it, the test would measure lip-reading."
      },
      "context": "In this step, you set up the screen and the slips."
@@ -1439,11 +1439,11 @@
       "t": "mcq",
       "q": "The listener got 9 out of 10 whispered vowels right. What does that show?",
       "options": [
-       "The mouth's shape gives each vowel its sound, even with no buzz",
        "The listener is very lucky",
-       "The throat makes the vowels"
+       "The throat makes the vowels",
+       "The mouth's shape gives each vowel its sound, even with no buzz"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A whisper has no buzz from the vocal folds, only a hiss. The shape of the mouth boosts different parts of the hiss for each vowel. Guessing would give about 3 out of 10, so 9 is not luck."
      },
      "context": "In this step, you do ten tries with a whisper."
@@ -1561,11 +1561,11 @@
       "t": "mcq",
       "q": "The small tumbler booms at a higher note than the big pot. What is the best reason?",
       "options": [
-       "The smaller space has a shorter air column, so its natural note is higher",
        "The tumbler is lighter",
-       "The tumbler is made of a different metal"
+       "The tumbler is made of a different metal",
+       "The smaller space has a shorter air column, so its natural note is higher"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A smaller space has a shorter air column and a higher natural note, just like a shorter pipe. Weight and metal matter much less. A child who picks 'lighter' is thinking of weight, not of the air inside."
      },
      "context": "In this step, you compare vessels and try the bathroom."
@@ -1685,11 +1685,11 @@
       "t": "mcq",
       "q": "A bottle is blown across and its note is too high. What should you do to lower it?",
       "options": [
-       "Pour a little water out, to make the air column longer",
        "Add more water",
-       "Put on a lid"
+       "Put on a lid",
+       "Pour a little water out, to make the air column longer"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A longer air column gives a lower note. Pouring water out makes the air column longer. Adding water would make the note even higher. A lid would stop the sound altogether."
      },
      "context": "In this step, you tune the five bottles."
@@ -1805,11 +1805,11 @@
       "t": "mcq",
       "q": "Covering the far end of the tube makes the note lower. What is the best reason?",
       "options": [
-       "A tube closed at one end has a natural note about an octave lower than the same tube open at both ends",
        "The palm adds weight",
+       "A tube closed at one end has a natural note about an octave lower than the same tube open at both ends",
        "The palm makes the sound softer"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A tube with both ends open vibrates twice as fast as the same tube closed at one end, so closing it gives a note an octave lower. It is about the air column, not the weight of the palm."
      },
      "context": "In this step, you learn to get a note and try covering the end."
@@ -1902,12 +1902,12 @@
      "t": "mcq",
      "p": "A bansuri gives its lowest note when all its holes are covered. What is the best reason?",
      "opts": [
-      "The air column is at its longest",
       "The air column is at its shortest",
       "The player blows harder",
+      "The air column is at its longest",
       "The bamboo is heavier"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Covering the holes makes the whole length of the tube vibrate, which is the longest air column and the lowest note. Uncovering holes shortens the air column and raises the note.",
      "outcome": 1
     },
@@ -1975,12 +1975,12 @@
      "t": "mcq",
      "p": "A damp finger squeaks on glass, but a dry finger hardly does. What is the best reason?",
      "opts": [
-      "A squeak needs the finger to stick and slip again and again, and a dry finger grips too hard to do that",
       "A damp finger is heavier",
+      "A squeak needs the finger to stick and slip again and again, and a dry finger grips too hard to do that",
       "A dry finger makes no vibration at all",
       "The glass is warmer when damp"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A squeak is a fast rhythm of gripping and slipping. If the grip is too strong, the finger drags. If it is too weak, the finger glides. Damp is in the middle.",
      "outcome": 5
     },
@@ -2055,12 +2055,12 @@
      "t": "mcq",
      "p": "How can you find how far away lightning is?",
      "opts": [
-      "Count the seconds between the flash and the thunder, and divide by three to get kilometres",
       "Count the flashes in a minute",
       "Listen for how loud the thunder is",
-      "Measure how bright the flash is"
+      "Measure how bright the flash is",
+      "Count the seconds between the flash and the thunder, and divide by three to get kilometres"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Light arrives almost at once, and sound travels about a kilometre in three seconds. So the gap in seconds divided by three is the distance in kilometres.",
      "outcome": 5
     },
@@ -2100,12 +2100,12 @@
      "t": "mcq",
      "p": "A closed pipe 17 centimetres long gives about 500 hertz. About what note does a closed pipe 34 centimetres long give?",
      "opts": [
-      "About 250 hertz",
       "About 500 hertz",
+      "About 250 hertz",
       "About 1000 hertz",
       "About 125 hertz"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Doubling the length halves the number of vibrations each second. 500 divided by 2 is 250. That is one octave lower.",
      "outcome": 1
     },
@@ -2113,12 +2113,12 @@
      "t": "mcq",
      "p": "A string vibrates 200 times each second. You press it at its middle so only half can shake. What happens?",
      "opts": [
-      "It vibrates about 400 times each second, one octave higher",
       "It vibrates about 100 times each second",
       "It stays at 200",
-      "It stops vibrating"
+      "It stops vibrating",
+      "It vibrates about 400 times each second, one octave higher"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Half the length means twice the vibrations each second. 200 times 2 is 400. Picking 100 reverses the rule.",
      "outcome": 1
     },
@@ -2143,12 +2143,12 @@
      "t": "mcq",
      "p": "Why can a flute player move the note up by blowing harder?",
      "opts": [
-      "The edge tone speeds up and jumps to a higher resonance of the air column",
       "Blowing harder makes the flute shorter",
       "The flute gets colder",
-      "The player's lips vibrate faster"
+      "The player's lips vibrate faster",
+      "The edge tone speeds up and jumps to a higher resonance of the air column"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Faster air makes faster swirls at the edge, and the edge tone locks on to a higher resonance of the air column. The flute itself does not change.",
      "outcome": 4
     },
@@ -2156,12 +2156,12 @@
      "t": "mcq",
      "p": "Why does a thin wire hum at a higher note in the wind than a thick wire?",
      "opts": [
-      "The swirls behind a thin wire flip from side to side more often",
       "Thin wires are lighter",
       "Thin wires are colder",
+      "The swirls behind a thin wire flip from side to side more often",
       "The wind blows harder on thin wires"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The rate of the flips grows as the wire gets thinner. The thin wire gives faster swirls, so a higher hum. Weight and temperature are not the cause.",
      "outcome": 4
     },
@@ -2244,12 +2244,12 @@
      "t": "mcq",
      "p": "Why does thunder arrive after you see the lightning?",
      "opts": [
-      "Sound travels much more slowly than light",
       "Thunder happens later than lightning",
       "The sky is cloudy",
+      "Sound travels much more slowly than light",
       "Light is louder"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Lightning and thunder start together. Light reaches you almost at once, and sound travels about a kilometre in three seconds.",
      "outcome": 5
     },
@@ -2348,12 +2348,12 @@
      "t": "mcq",
      "p": "The note of a closed pipe, in hertz, is about 343 divided by four times its length in metres. About what note does a closed pipe 0.25 metres long give?",
      "opts": [
-      "About 343 hertz",
       "About 686 hertz",
+      "About 343 hertz",
       "About 86 hertz",
       "About 1372 hertz"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Four times 0.25 is 1. 343 divided by 1 is 343. Picking 86 divides 343 by four and forgets to multiply the four by the length first.",
      "outcome": 1
     },
@@ -2361,12 +2361,12 @@
      "t": "mcq",
      "p": "A closed pipe gives 300 hertz. Its length is cut in half. About what note does it give now?",
      "opts": [
-      "About 600 hertz",
       "About 150 hertz",
+      "About 600 hertz",
       "About 300 hertz",
       "About 900 hertz"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Halving the length doubles the vibrations each second. 300 times 2 is 600, one octave higher.",
      "outcome": 1
     },
@@ -2403,12 +2403,12 @@
      "t": "mcq",
      "p": "A finger takes half a second to cross a window and squeaks at 800 hertz. About how many sticks and slips happen in that sweep?",
      "opts": [
-      "About 400",
       "About 40",
       "About 800",
+      "About 400",
       "About 1600"
      ],
-     "a": 0,
+     "a": 2,
      "why": "800 vibrations each second for half a second is 800 times a half, which is 400. Picking 800 forgets that the sweep only lasted half a second.",
      "outcome": 5
     },
@@ -2450,12 +2450,12 @@
      "t": "mcq",
      "p": "In 1971, John Coltman found that listeners could not tell flutes with walls of different materials apart. What does this suggest?",
      "opts": [
-      "The wall material matters much less than the shape of the air column",
       "Flutes make no sound",
+      "The wall material matters much less than the shape of the air column",
       "Metal flutes sound the best",
       "Listeners do not hear well"
      ],
-     "a": 0,
+     "a": 1,
      "why": "If listeners cannot tell the walls apart, then the material has little effect on the sound. The air column carries most of the sound. Some players still disagree.",
      "outcome": 7
     },
@@ -2463,12 +2463,12 @@
      "t": "mcq",
      "p": "The Tsimane people of Bolivia did not prefer sweet pairs of notes to rough ones. What does this suggest?",
      "opts": [
-      "Part of what sounds sweet is learned from the music around us",
       "The Tsimane cannot hear",
+      "Part of what sounds sweet is learned from the music around us",
       "Ratios do not exist",
       "Sweet notes are the same for all people"
      ],
-     "a": 0,
+     "a": 1,
      "why": "If sweetness were fully built into the ear, every group would show it. The result suggests that learning plays a part. It does not show that ratios do not exist.",
      "outcome": 7
     },
@@ -2554,10 +2554,10 @@
    "opts": [
     "A plucked string",
     "A clap",
-    "A stream of air across an edge",
-    "A stone lying perfectly still"
+    "A stone lying perfectly still",
+    "A stream of air across an edge"
    ],
-   "a": 3,
+   "a": 2,
    "why": "Something has to move to push the air. A stone lying still does nothing to the air. A string, a clap and a moving air stream all push it.",
    "outcome": 0
   },
@@ -2565,12 +2565,12 @@
    "t": "mcq",
    "p": "What does the hertz count?",
    "opts": [
-    "Vibrations each second",
     "How loud a sound is",
     "How far a sound travels",
+    "Vibrations each second",
     "How long a note lasts"
    ],
-   "a": 0,
+   "a": 2,
    "why": "One hertz is one vibration each second. Loudness is a different idea.",
    "outcome": 1
   },
@@ -2578,12 +2578,12 @@
    "t": "mcq",
    "p": "Two strings are the same except that one is half as long. Compared with the long one, the short one vibrates...",
    "opts": [
-    "twice as fast",
     "half as fast",
+    "twice as fast",
     "at the same speed",
     "four times as fast"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Halving the length doubles the vibrations each second, which is one octave higher.",
    "outcome": 1
   },
@@ -2591,12 +2591,12 @@
    "t": "mcq",
    "p": "What does timbre tell you about a sound?",
    "opts": [
-    "Which instrument or voice is making it, even when the pitch is the same",
     "How loud it is",
     "How far away it is",
-    "How long it lasts"
+    "How long it lasts",
+    "Which instrument or voice is making it, even when the pitch is the same"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Timbre is the quality of a sound, which comes from the mix of overtones. Loudness and distance are different ideas.",
    "outcome": 2
   },
@@ -2604,12 +2604,12 @@
    "t": "mcq",
    "p": "You touch a vibrating string lightly at its middle. What do you hear?",
    "opts": [
-    "A note one octave higher, with a pure bell-like sound",
     "A note one octave lower",
     "No sound at all",
-    "A louder sound at the same pitch"
+    "A louder sound at the same pitch",
+    "A note one octave higher, with a pure bell-like sound"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The touch stops the whole-string vibration and leaves the two-half vibration, which is one octave higher.",
    "outcome": 2
   },
@@ -2617,12 +2617,12 @@
    "t": "mcq",
    "p": "You blow across two identical bottles. One has 100 millilitres of water and the other has 300 millilitres. Which gives the higher note, and why?",
    "opts": [
-    "The 300 millilitre bottle, because its air column is shorter",
     "The 100 millilitre bottle, because its air column is shorter",
     "The 300 millilitre bottle, because the water is heavier",
+    "The 300 millilitre bottle, because its air column is shorter",
     "They give the same note"
    ],
-   "a": 0,
+   "a": 2,
    "why": "More water leaves less air, so the air column is shorter, and a shorter air column gives a higher note. Picking 'heavier' is the reasoning for tapping, not blowing.",
    "outcome": 3
   },
@@ -2630,12 +2630,12 @@
    "t": "mcq",
    "p": "What makes the note of a flute?",
    "opts": [
-    "Air in the tube, set shaking by a stream of air across an edge",
     "The metal of the flute shaking",
     "The player's voice",
+    "Air in the tube, set shaking by a stream of air across an edge",
     "The player's lips buzzing"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A flute is a tube of air. The air stream across the edge sets the air column shaking, and the length of the column picks the note.",
    "outcome": 4
   },
@@ -2643,12 +2643,12 @@
    "t": "mcq",
    "p": "Which of these makes a sound from one sudden push of air, with no steady pitch?",
    "opts": [
-    "A clap",
     "A tuning fork",
     "A flute note",
-    "A tanpura string"
+    "A tanpura string",
+    "A clap"
    ],
-   "a": 0,
+   "a": 3,
    "why": "A clap is one sudden squeeze of air. The other three give steady notes.",
    "outcome": 5
   },
@@ -2656,12 +2656,12 @@
    "t": "mcq",
    "p": "A squeak happens when two surfaces...",
    "opts": [
-    "stick and slip again and again",
     "stay perfectly still",
     "slide with no grip at all",
-    "get hot and melt"
+    "get hot and melt",
+    "stick and slip again and again"
    ],
-   "a": 0,
+   "a": 3,
    "why": "A squeak is a very fast rhythm of gripping and slipping. If there is no grip, or too much, there is no squeak.",
    "outcome": 5
   },
@@ -2682,12 +2682,12 @@
    "t": "mcq",
    "p": "Which statement about vocal folds is true?",
    "opts": [
-    "They buzz when you speak or hum, and do not buzz when you whisper",
     "They buzz when you whisper",
     "They only buzz when you shout",
+    "They buzz when you speak or hum, and do not buzz when you whisper",
     "They do not move"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The vocal folds buzz for speech, singing and humming. In a whisper, air only hisses through a gap.",
    "outcome": 6
   },
@@ -2695,12 +2695,12 @@
    "t": "mcq",
    "p": "Which of these is still an open question for scientists?",
    "opts": [
-    "Why some pairs of notes sound sweet to nearly everyone",
     "Whether vibrations make sound",
     "Whether a clap is louder than a whisper",
-    "Whether strings vibrate"
+    "Whether strings vibrate",
+    "Why some pairs of notes sound sweet to nearly everyone"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Scientists agree that vibrations make sound. Why certain pairs of notes feel sweet is still debated, with ideas from physics, the ear and learning.",
    "outcome": 7
   }
@@ -3002,6 +3002,76 @@
     "a1"
    ],
    "plan": "Read it aloud over two evenings before starting, or after the Four-Way Sound Hunt."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Tap or Blow: which way do the notes go?, The Pot That Hums Back: finding the hidden note of a space. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "a3"
+   ],
+   "plan": "Get it before Tap or Blow: which way do the notes go?."
+  },
+  {
+   "id": "b-a-small-hand-mirror",
+   "item": "A small hand mirror",
+   "kind": "material",
+   "why": "Used in The Squeak Test: when does a finger squeak on glass?. About ₹20 to ₹80. A shiny steel plate shows reflections too.",
+   "url": "https://www.amazon.in/s?k=small+hand+mirror",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before The Squeak Test: when does a finger squeak on glass?."
+  },
+  {
+   "id": "b-modelling-clay-or-plasticine",
+   "item": "Modelling clay or plasticine",
+   "kind": "material",
+   "why": "Used in One Tube, Three Notes. About ₹40 to ₹120. Atta dough mixed with a little salt works.",
+   "url": "https://www.amazon.in/s?k=modelling+clay+plasticine",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before One Tube, Three Notes."
+  },
+  {
+   "id": "b-paper-masking-tape",
+   "item": "Paper masking tape",
+   "kind": "material",
+   "why": "Used in One Tube, Three Notes. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor.",
+   "url": "https://www.amazon.in/s?k=paper+masking+tape",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before One Tube, Three Notes."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in The Squeak Test: when does a finger squeak on glass?. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before The Squeak Test: when does a finger squeak on glass?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

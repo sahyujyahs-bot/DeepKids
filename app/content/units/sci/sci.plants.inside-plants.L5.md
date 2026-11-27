@@ -1,7 +1,7 @@
 # Inside a stem: two sets of pipes, growth rings and tissues
 `sci.plants.inside-plants.L5`
 
-**Summary.** Cut a thin strip of bark all the way round a trunk and the whole tree slowly dies, though most of the trunk is dead. Why? In this unit you will map the water and food pipes in a stem, test which part of a twig carries water, and read a tree's rings.
+**Summary.** Cut a thin strip of bark all the way round a trunk and the whole tree slowly dies, though most of the trunk is dead. Why? In this lesson you will map the water and food pipes in a stem, test which part of a twig carries water, and read a tree's rings.
 
 **Intro.** *Peel a banana slowly. Long pale strings stay stuck to the fruit. They run from the stalk end to the tip. What are these strings for?* Look for the same kind of string in a leaf stalk and on a peeled orange. In the first activity, String Hunt, you pull them out and compare them. Then, in Pipe Maps, you use coloured water to test what at least some of the strings do.
 
@@ -59,7 +59,7 @@ In the Pipe Maps test, the dye showed up as dots. Each dot is a vascular bundle.
 ### Xylem: pipes made of dead cells · *defined*
 **Definition:** Xylem pipes are built from cells that have died and emptied. Their walls are hardened with lignin. Water is pulled up through them from the roots to the leaves.
 
-A young xylem cell is alive. First the cell grows long. Then the cell builds a thick wall and stiffens the wall with lignin, often in rings or spirals. Then the cell breaks down everything inside, and dies. In a vessel, the end walls dissolve too, so a column of dead cells becomes one open tube. This death is not an accident. The cell's own genes switch it on at the right time. Why must the cell die? Because a living cell is full of jelly-like contents that would block the flow. Only an empty tube lets water through easily. The hard walls matter too. Water in the xylem is pulled from above, as you learned in the unit on how water climbs. A soft tube would be squashed flat by that pull, the way a paper straw flattens when you suck too hard. Lignin keeps the pipe open. The same hard walls hold the plant up, so xylem does two jobs: carrying and supporting.
+A young xylem cell is alive. First the cell grows long. Then the cell builds a thick wall and stiffens the wall with lignin, often in rings or spirals. Then the cell breaks down everything inside, and dies. In a vessel, the end walls dissolve too, so a column of dead cells becomes one open tube. This death is not an accident. The cell's own genes switch it on at the right time. Why must the cell die? Because a living cell is full of jelly-like contents that would block the flow. Only an empty tube lets water through easily. The hard walls matter too. Water in the xylem is pulled from above, as you learned in the lesson on how water climbs. A soft tube would be squashed flat by that pull, the way a paper straw flattens when you suck too hard. Lignin keeps the pipe open. The same hard walls hold the plant up, so xylem does two jobs: carrying and supporting.
 - e.g. A wooden rolling pin is made of millions of dead xylem cells. They carried water once, and now they give the wood its strength.
 - e.g. Conifers such as deodar have narrower xylem cells, called tracheids, which pass water to each other through small pits in their side walls.
 - e.g. The spiral threads you sometimes see when you snap a lotus stem gently and pull the pieces apart are the wall thickenings of xylem cells.
@@ -191,7 +191,7 @@ We have learned that a plant has dead pipes for water and living pipes for food,
 
 A whole tree grows from one cell, the fertilised egg cell inside a seed. That cell divides, and all the cells that follow carry the same instructions. Yet some become skin, some become packing, some become living phloem, and some die to become xylem. In the cambium, a single thin layer makes wood on one side and bark on the other. So one cell becomes the many tissues of a tree, and the many tissues work as one body.
 
-- **Chandogya Upanishad 6.11:** “अस्य सोम्य महतो वृक्षस्य यो मूलेऽभ्याहन्याज्जीवन्स्रवेद्यो मध्येऽभ्याहन्याज्जीवन्स्रवेद्योऽग्रेऽभ्याहन्याज्जीवन्स्रवेत् / स एष जीवेनात्मनानुप्रभूतः पेपीयमानो मोदमानस्तिष्ठति” Uddalaka shows his son a great tree. If someone cuts the tree at the root, in the middle or at the top, sap runs out, yet the tree lives. But if life leaves one branch, that branch dries up. If life leaves the whole tree, the whole tree dries up. (Uddalaka saw what this unit shows: sap runs through every part of a tree, and one part can die while the rest lives. He used the tree to ask what it is that leaves when a living being dies. Science can describe the pipes and the cells. That question is still open.)
+- **Chandogya Upanishad 6.11:** “अस्य सोम्य महतो वृक्षस्य यो मूलेऽभ्याहन्याज्जीवन्स्रवेद्यो मध्येऽभ्याहन्याज्जीवन्स्रवेद्योऽग्रेऽभ्याहन्याज्जीवन्स्रवेत् / स एष जीवेनात्मनानुप्रभूतः पेपीयमानो मोदमानस्तिष्ठति” Uddalaka shows his son a great tree. If someone cuts the tree at the root, in the middle or at the top, sap runs out, yet the tree lives. But if life leaves one branch, that branch dries up. If life leaves the whole tree, the whole tree dries up. (Uddalaka saw what this lesson shows: sap runs through every part of a tree, and one part can die while the rest lives. He used the tree to ask what it is that leaves when a living being dies. Science can describe the pipes and the cells. That question is still open.)
 - **Tao Te Ching, chapter 11:** “三十輻共一轂，當其無，有車之用。 / 埏埴以為器，當其無，有器之用。” Clay is shaped into a pot, but the empty space inside is what makes the pot useful. Doors and windows are cut into a wall, and the empty space is what makes the room useful. (A xylem pipe is useful to the tree because the pipe is empty. The cell had to clear out everything inside before water could pass.)
 - **Thich Nhat Hanh, The Heart of Understanding (1988), on 'interbeing':** Look deeply into a sheet of paper and you can see the cloud, the rain and the tree in it. Without them the paper could not be here. (Paper is made from wood, and wood is xylem cells. The page really is made of the pipes that once carried rain water up a tree.)
 - Science (settled): The death of a xylem cell is switched on by the cell's own genes, at a set stage of growth. Biologists call this programmed cell death.
@@ -579,10 +579,10 @@ The rains came in June. One wet afternoon Ammu went out under an umbrella and lo
 ## Worksheets
 ### Pipes, tissues and rings (core) (core, 15 questions)
 1. (mcq) Which tissue carries water up from the roots?  
-   Options: Phloem / Xylem / Epidermis / Cambium  
+   Options: Phloem / Epidermis / Xylem / Cambium  
    **Answer:** Xylem. *Why:* Xylem carries water and minerals upward. Choosing phloem mixes up the two pipes: phloem carries sugar.
 2. (mcq) Which pipes are made of living cells?  
-   Options: Xylem vessels / Sieve tubes in the phloem / Both kinds / Neither kind  
+   Options: Xylem vessels / Both kinds / Neither kind / Sieve tubes in the phloem  
    **Answer:** Sieve tubes in the phloem. *Why:* Sieve tubes are living cells. Xylem vessels are dead and empty when they work. Choosing 'both' is a fair guess, because we expect every part of a living plant to be alive.
 3. (truefalse) True or false: food in the phloem can only travel downward.  
    **Answer:** False. *Why:* False. Phloem carries sugar from a source to a sink, and the sink may be above, like a fruit or a young leaf.
@@ -597,7 +597,7 @@ The rains came in June. One wet afternoon Ammu went out under an umbrella and lo
 8. (draw) Draw the cut face of a leafy stem. Show and label the skin, a ring of pipe bundles and the packing tissue.  
    **Answer:** A circle with a thin outer skin, a ring of small dots near the edge, and the rest filled in as packing.. *Why:* A strong drawing puts the bundles in a ring near the outside, not in the centre and not filling the whole face.
 9. (mcq) Where are the water pipes in a carrot root?  
-   Options: In a ring near the skin / In the core at the centre / Scattered everywhere / A carrot has none  
+   Options: In a ring near the skin / Scattered everywhere / A carrot has none / In the core at the centre  
    **Answer:** In the core at the centre. *Why:* In a root the xylem is in the centre. In Pipe Maps the dye showed up in the carrot's pale core. A ring near the skin is the pattern of a stem.
 10. (order) Put these layers of a tree trunk in order, from the centre outward.  
    **Answer:** ['Heartwood', 'Sapwood', 'Cambium', 'Inner bark (phloem)', 'Outer bark (cork)']. *Why:* The oldest wood is in the centre. The cambium lies between the wood and the bark, with the living phloem just outside it.
@@ -608,13 +608,13 @@ The rains came in June. One wet afternoon Ammu went out under an umbrella and lo
 13. (label) Draw a tree stump seen from above, with five rings. Then label the bark, one growth ring and the centre.  
    **Answer:** ['Bark round the outside', 'One growth ring: one band of wood', 'Centre: the oldest wood']. *Why:* The centre is the oldest part, and the newest ring lies just under the bark.
 14. (mcq) A teak stump has one very narrow ring among wide ones. What is the most likely cause?  
-   Options: A year with little rain / A year with two summers / Someone painted the tree / A bird nested in the tree  
+   Options: A year with two summers / A year with little rain / Someone painted the tree / A bird nested in the tree  
    **Answer:** A year with little rain. *Why:* A narrow ring means the tree grew little that year. In teak the usual cause is a poor monsoon. Insects or a fire can do it too.
 15. (write) Why does a tree die if a ring of bark is removed all the way round the trunk?  
    **Answer:** The inner bark holds the phloem, which carries sugar from the leaves down to the roots. With the bark cut all the way round, no sugar reaches the roots. The roots use up their stores and die, and then the tree cannot take in water.. *Why:* A strong answer says what the bark carries, where it was going, and why the leaves stay green at first: water still rises in the wood.
 ### Why the pipes are built this way (stretch) (stretch, 15 questions)
 1. (mcq) Why must a xylem cell die before carrying water?  
-   Options: Dead cells weigh less / An empty tube lets water through / Dead cells make sugar / To save food  
+   Options: An empty tube lets water through / Dead cells weigh less / Dead cells make sugar / To save food  
    **Answer:** An empty tube lets water through. *Why:* A living cell is full of contents that would block the flow. Only an empty tube lets water pass easily. The death is switched on by the cell's own genes.
 2. (write) A sieve tube cell has no nucleus. How does it stay alive?  
    **Answer:** Each sieve tube cell has a companion cell alongside. The companion cell has a nucleus and makes what both cells need. The two are joined by tiny channels.. *Why:* A strong answer names the companion cell and says why the sieve tube cell gave up the nucleus: to leave room for sap to flow.
@@ -625,7 +625,7 @@ The rains came in June. One wet afternoon Ammu went out under an umbrella and lo
 5. (sort) Sort these plants: are the pipe bundles in the stem in a ring, or scattered?  
    **Answer:** mango → Ring; sugarcane → Scattered; coconut palm → Scattered; hibiscus → Ring; maize → Scattered; tulsi → Ring; bamboo → Scattered; neem → Ring. *Why:* Grasses, palms and bamboo are monocots, with scattered bundles and straight leaf veins. Mango, hibiscus, tulsi and neem have a ring of bundles and net veins.
 6. (mcq) A stem bends in the wind. Where does strong tissue help it most?  
-   Options: In the very centre / Near the outside / Only at the bottom / Only in the leaves  
+   Options: Near the outside / In the very centre / Only at the bottom / Only in the leaves  
    **Answer:** Near the outside. *Why:* When a rod bends, the outside is stretched and squeezed most. So strong tissue near the outside resists bending best. A root is pulled, not bent, so its strong tissue is in the centre.
 7. (draw) Draw one vascular bundle from a stem. Label the xylem and the phloem, and show which side faces the skin.  
    **Answer:** A small oval with larger pipes on the inner side labelled xylem, and smaller cells on the outer side labelled phloem, with an arrow to the skin.. *Why:* In a stem the phloem is on the outer side of each bundle and the xylem on the inner side.
@@ -646,7 +646,7 @@ The rains came in June. One wet afternoon Ammu went out under an umbrella and lo
 14. (write) Why can nobody find the age of a coconut palm by counting rings?  
    **Answer:** A coconut palm has no cambium, so the trunk does not add a new layer of wood each year. The pipe bundles are scattered through the trunk, and there are no rings to count.. *Why:* A strong answer names the missing cambium. It may add that leaf scars give a rough age.
 15. (mcq) The early wood in a growth ring looks pale. Why?  
-   Options: Its cells are wide, with thin walls / Its cells are narrow, with thick walls / It is full of sugar / It has been dead for longer  
+   Options: Its cells are narrow, with thick walls / It is full of sugar / Its cells are wide, with thin walls / It has been dead for longer  
    **Answer:** Its cells are wide, with thin walls. *Why:* Early in the season the tree makes wide pipes with thin walls, so there is more empty space and less wall. Late wood has narrow cells with thick walls, so it looks darker.
 ### Evidence and arguments about the pipes (challenge) (challenge, 15 questions)
 1. (write) In early spring, sweet sap is tapped from the wood of sugar maples. Why is that surprising? Suggest an explanation.  
@@ -661,7 +661,7 @@ The rains came in June. One wet afternoon Ammu went out under an umbrella and lo
 5. (truefalse) True or false: every tree in the world makes exactly one ring each year.  
    **Answer:** False. *Why:* False. A tree makes one clear ring a year only where growth stops once a year. Some tropical trees make no clear rings, and odd weather can add a false ring or leave one out.
 6. (mcq) Why do scientists compare the rings of many trees before trusting a date?  
-   Options: One tree can have false or missing rings / Old trees are hard to find / Rings fade in sunlight / Every tree has a different pattern  
+   Options: Old trees are hard to find / Rings fade in sunlight / Every tree has a different pattern / One tree can have false or missing rings  
    **Answer:** One tree can have false or missing rings. *Why:* A single tree may skip a ring in a very bad year or add a false one. A pattern shared by many trees is far more trustworthy. Trees of one region share their pattern, which is what makes matching possible.
 7. (write) A friend says dye soaks up a stem like ink into chalk. Give two observations that argue against this.  
    **Answer:** First, only small dots on the cut face are coloured, not the whole face. Second, when the stem is cut along its length, the colour runs in thin lines. Both fit pipes, and neither fits soaking.. *Why:* A strong answer uses observations, not just the word 'xylem'. It may add that a leafy stem takes up colour faster than a bare one.
@@ -670,7 +670,7 @@ The rains came in June. One wet afternoon Ammu went out under an umbrella and lo
 9. (sort) Sort these cells. Is each one living or dead while at work?  
    **Answer:** sieve tube cell → Living; xylem vessel cell → Dead; companion cell → Living; cork cell → Dead; cambium cell → Living; heartwood cell → Dead. *Why:* Loading sugar and dividing need living cells. Carrying water, protecting and holding up are done by dead cells with strong walls.
 10. (mcq) Why could the first land plants, without xylem, not grow tall?  
-   Options: They could not lift water or stand stiff / There was not enough sunlight / The air had no carbon dioxide / They had no seeds  
+   Options: There was not enough sunlight / The air had no carbon dioxide / They could not lift water or stand stiff / They had no seeds  
    **Answer:** They could not lift water or stand stiff. *Why:* Without stiff pipes, water must soak slowly from cell to cell, and nothing hard holds the plant up. Xylem solved both problems at once.
 11. (order) Put the steps of dating an old beam by its rings in order.  
    **Answer:** ['Take a thin core from a living tree of the same region', 'Measure the width of every ring in the core and the beam', 'Find where the two patterns of wide and narrow rings match', "Count from a ring of known year to the beam's last ring"]. *Why:* The living tree gives known years, because the outermost ring is this year's. Matching the patterns carries those years across to the beam.
@@ -700,16 +700,16 @@ The rains came in June. One wet afternoon Ammu went out under an umbrella and lo
    Options: Its pipes are dead and hollow / It carries sugar to wherever it is needed / It carries food only downward / It carries only water  
    **Answer:** It carries sugar to wherever it is needed. *Why:* Phloem carries sugar from sources to sinks, up or down. Its pipes are living cells. 'Only downward' is the old idea that tracing experiments showed to be wrong.
 4. (mcq) The cut face of a stem shows bundles scattered all over it. Which plant is this most likely to be?  
-   Options: Maize / Mango / Tulsi / Hibiscus  
+   Options: Mango / Maize / Tulsi / Hibiscus  
    **Answer:** Maize. *Why:* Maize is a grass, and grasses are monocots with scattered bundles. Mango, tulsi and hibiscus have their bundles in a ring.
 5. (mcq) Why are a root's strongest pipes gathered in its centre?  
    Options: A root is pulled, like a rope / The centre is the warmest part / Soil pushes them inward / There is no room elsewhere  
    **Answer:** A root is pulled, like a rope. *Why:* Wind on the plant tugs the roots like ropes. A rope is strongest with its strong strands together in the middle. A stem is bent, so its strong tissue sits near the outside.
 6. (mcq) A bare teak tree starts growing new leaves. Where does the food to build them come from?  
-   Options: From the soil / From stores in the trunk and roots / From the air / From rain water  
+   Options: From stores in the trunk and roots / From the soil / From the air / From rain water  
    **Answer:** From stores in the trunk and roots. *Why:* With no leaves, nothing is making sugar. The stores in the trunk and roots become sources, and the phloem carries their food up to the buds.
 7. (mcq) A wire has been tight round a trunk for years. The leaves are green, but the tree is weakening. Why?  
-   Options: Water cannot rise / Sugar cannot reach the roots / The wire poisons the tree / The leaves get too much sun  
+   Options: Sugar cannot reach the roots / Water cannot rise / The wire poisons the tree / The leaves get too much sun  
    **Answer:** Sugar cannot reach the roots. *Why:* The wire chokes the phloem in the inner bark, so sugar cannot get down to the roots. Water still rises in the wood, which is why the leaves stay green.
 8. (mcq) Where is the cambium in a tree trunk?  
    Options: In the very centre / Between the wood and the bark / In the outer bark / Only in the leaves  
@@ -718,10 +718,10 @@ The rains came in June. One wet afternoon Ammu went out under an umbrella and lo
    Options: The tree lived about 40 years / The tree was 40 metres tall / The tree had 40 branches / The tree lived about 80 years  
    **Answer:** The tree lived about 40 years. *Why:* Where growth stops once a year, a tree adds one ring a year. So 40 rings mean about 40 years. Rings say nothing about height.
 10. (mcq) Why can ring counting fail for a tree in a forest that is warm and wet all year?  
-   Options: Growth never stops, so no clear lines form / The wood is too hard to cut / Such trees have no xylem / The rings are too wide to see  
+   Options: The wood is too hard to cut / Such trees have no xylem / The rings are too wide to see / Growth never stops, so no clear lines form  
    **Answer:** Growth never stops, so no clear lines form. *Why:* A ring line forms where growth stops and starts again. A tree that grows all year may leave no clear line to count.
 11. (mcq) In a dye test, why do we cut the stem above the level of the coloured water?  
-   Options: To see only colour that travelled up inside / The stem is softer there / To save dye / The cut looks neater  
+   Options: The stem is softer there / To save dye / The cut looks neater / To see only colour that travelled up inside  
    **Answer:** To see only colour that travelled up inside. *Why:* Below the water line, colour may have soaked in from the side. Above it, any colour must have been carried up inside the stem. This keeps the evidence clean.
 12. (mcq) Which part of a big mango tree's trunk is made of living cells?  
    Options: The heartwood / The outer bark / The cambium and inner bark / The old water pipes  
@@ -739,13 +739,13 @@ The rains came in June. One wet afternoon Ammu went out under an umbrella and lo
 
 ## Spotted around us
 - Strings on a peeled banana and white threads on a peeled orange, in any fruit bowl.
-- Flower sellers in Madurai and Chennai tying jasmine with strips of banana fibre, which is the strong tissue of the banana plant's leaf stalks.
-- Sloping cuts and hanging cups on rubber trees along the roads of Kottayam and Kanyakumari.
+- Flower sellers tying jasmine with strips of banana fibre, which is the strong tissue of the banana plant's leaf stalks.
+- Sloping cuts and hanging cups on rubber trees along a road.
 - Dark dots scattered over the cut end of a piece of sugarcane at a juice stall.
 - A tree in a city park with an old wire, cable or tree guard sunk into the bark, and the trunk bulging above it.
 - Rings on a cut log at a timber yard, or on a tree stump after road widening.
 - An old banyan or tamarind with a hollow trunk, still green, in a temple yard or village square.
-- Jute sacks of rice and potatoes in a market, woven from the stem fibres of jute plants grown in Bengal and Assam.
+- Jute sacks of rice and potatoes in a market, woven from the stem fibres of jute plants.
 - Ants walking up and down a hibiscus or bean shoot to drink honeydew from aphids.
 
 ## Open questions
@@ -794,16 +794,19 @@ Spore, Cone and Flower (sci.plants.L5): Topic-level song for Plants L5
 - [Dendrochronology (Wikipedia)](https://en.wikipedia.org/wiki/Dendrochronology) · interactive: For the parent: how ring dating works, with photographs of cores and matched patterns.
 - [Phloem (Wikipedia)](https://en.wikipedia.org/wiki/Phloem) · interactive: For the parent: diagrams of sieve tubes and companion cells, and the girdling experiment.
 - [BBC Bitesize](https://www.bbc.co.uk/bitesize) · interactive: Search for 'xylem and phloem' for short, clear revision pages with diagrams.
-- [National Fossil Wood Park, Tiruvakkarai]() · place · near Villupuram, Tamil Nadu: Tree trunks about 20 million years old, turned to stone, lying in the open. In some you can still see the grain of the wood.
-- [Forest Research Institute museums]() · place · Dehradun, Uttarakhand: The timber museum shows a slice of a deodar tree that lived for about 700 years, with dates marked on the rings.
-- [Lalbagh Botanical Garden]() · place · Bengaluru, Karnataka: Very old, wide trees to walk round, and a fossil tree trunk on display.
+- National Fossil Wood Park, Tiruvakkarai · place · near Villupuram, Tamil Nadu: Tree trunks about 20 million years old, turned to stone, lying in the open. In some you can still see the grain of the wood.
+- Forest Research Institute museums · place · Dehradun, Uttarakhand: The timber museum shows a slice of a deodar tree that lived for about 700 years, with dates marked on the rings.
+- Lalbagh Botanical Garden · place · Bengaluru, Karnataka: Very old, wide trees to walk round, and a fossil tree trunk on display.
 - [Birbal Sahni Institute of Palaeosciences](https://www.bsip.res.in) · place · Lucknow, Uttar Pradesh: Scientists here read the rings of Himalayan trees. The museum shows plant fossils.
-- [A timber yard, a carpenter's shop or a fresh tree stump near you]() · place · your own town: Ask to look at the cut ends of logs. Count rings and look for the darker heartwood.
+- A timber yard, a carpenter's shop or a fresh tree stump near you · place · your own town: Ask to look at the cut ends of logs. Count rings and look for the darker heartwood.
 
 ## Things to buy
 - [Food colour, dark blue or red (liquid or powder)](https://www.amazon.in/s?k=liquid+food+colour+blue+red) (material): For the dye tests. Any grocery or baking shop sells it. Dark blue shows best. Used in e1, e2, a3, c2. 
 - [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): For looking at the coloured dots on a cut stem and the rings on wood. A phone camera zoomed in also works. Used in e1, e2, a3, a5. 
 - [Coco peat (a small block)](https://www.amazon.in/s?k=coco+peat+block) (material): For wrapping the branch in the Gootee project. Nurseries sell it. Damp soil mixed with compost also works. Used in p1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Pipe Maps: where are the pipes in a root, a stem and a leaf stalk?, Bark or Wood: which part of a twig carries the water?, Read a Tree's Diary: twelve rings and an old beam. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, a4, c1, c2. Get it before Pipe Maps: where are the pipes in a root, a stem and a leaf stalk?.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Build a Working Stem. About ₹30 to ₹60. Newspaper cut into strips also works. Used in c2. Get it before Build a Working Stem.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Which pipes carry water up a plant? → Xylem.
@@ -823,7 +826,7 @@ Spore, Cone and Flower (sci.plants.L5): Topic-level song for Plants L5
 ## Sources
 - ideas/by_topic/plants.md: the SCI Cards for Jagadish Chandra Bose (plant signals) and Kamala Sohonie (neera), used in the explanation on messages in the phloem, the challenging views and the applications
 - ideas/by_topic/plants.md: the evolution notes on plants taking root and forming forests, used in the explanation on how pipes let plants grow tall
-- The Level 3 and Level 4 units on how water climbs a plant (xylem, transpiration, osmosis, Malpighi's ring, a first look at phloem), so that this unit builds on them without repeating them
+- The Level 3 and Level 4 units on how water climbs a plant (xylem, transpiration, osmosis, Malpighi's ring, a first look at phloem), so that this lesson builds on them without repeating them
 - knowledge/by_subtopic.json, sci.plants.inside-plants: OpenStax Biology 2e, 'The Plant Body', 'Stems' and 'Transport of Water and Solutes in Plants', for facts only
 - Malpighi, M., Anatome Plantarum, 1675 and 1679 (the ring of bark)
 - Hales, S., Vegetable Staticks, 1727 (against a circulation of sap)

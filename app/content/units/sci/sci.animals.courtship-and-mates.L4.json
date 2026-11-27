@@ -649,11 +649,11 @@
       "t": "mcq",
       "q": "In Hawk Overhead, what does a hawk card stand for?",
       "options": [
-       "A hunter who notices a display",
        "A partner who refuses",
-       "A rainy day"
+       "A rainy day",
+       "A hunter who notices a display"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A display is easy for a partner to notice, and also easy for a hunter to notice. The more an animal displays, the greater that risk. If you chose 'a partner who refuses', remember that a refusal costs time but not safety."
      },
      "context": "This is the last step of Hawk Overhead. You look at your scores and think about risk."
@@ -818,11 +818,11 @@
       "t": "mcq",
       "q": "Why do you change the order of the trains for each chooser in the Eyespot Test?",
       "options": [
-       "So the place does not sway the result",
        "So the choosers have more fun",
-       "So the dots stay stuck"
+       "So the dots stay stuck",
+       "So the place does not sway the result"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Some people tend to pick the middle thing, or the one nearest their hand. If the 16-spot train always lay in the middle, you could not tell which reason won. Changing the order separates the two. If you chose 'more fun', remember that a fair test changes only one thing on purpose."
      },
      "parent": "For relatives on the phone, take three photos with the trains in three different orders. Send a different photo to each person. Ask them to reply with left, middle or right.",
@@ -1030,11 +1030,11 @@
       "t": "mcq",
       "q": "In the Long Tail Test, why do you throw again with no tail at the end?",
       "options": [
-       "To check the paper bird still flies well",
        "To give the thrower a rest",
-       "To use up the paper"
+       "To use up the paper",
+       "To check the paper bird still flies well"
       ],
-      "a": 0,
+      "a": 2,
       "why": "After many throws the nose may be bent and the folds may be loose. If the last no-tail throws match the first ones, the paper bird has not changed. Then the shorter flights were caused by the tail. If the last throws are much shorter, repeat the test with a fresh paper bird."
      },
      "context": "In this step of the Long Tail Test you throw the paper bird with a 60 centimetre tail. Then you check the paper bird again with no tail."
@@ -1528,12 +1528,12 @@
      "t": "mcq",
      "p": "What is courtship?",
      "opts": [
-      "Finding and winning a partner for having young",
       "Building a home for the winter",
       "Fighting over food",
-      "Teaching chicks to fly"
+      "Teaching chicks to fly",
+      "Finding and winning a partner for having young"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Courtship is everything an animal does to find and win a partner for having young. It can be a display, a song, a dance, a nest or a gift.",
      "outcome": 0
     },
@@ -1541,12 +1541,12 @@
      "t": "mcq",
      "p": "Why does each species of cricket have a chirp pattern of their own?",
      "opts": [
-      "So partners of the same species meet",
       "So crickets stay awake",
       "So hunters can hear them",
-      "So the chirps sound louder"
+      "So the chirps sound louder",
+      "So partners of the same species meet"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A female cricket walks towards the pattern of her own species. A pattern shared with another species would lead her to the wrong partner.",
      "outcome": 1
     },
@@ -1687,12 +1687,12 @@
      "t": "mcq",
      "p": "In the Long Tail Test, which paper bird usually flies the shortest distance?",
      "opts": [
-      "The one with the longest tail",
       "The one with no tail",
+      "The one with the longest tail",
       "The one with the short tail",
       "All fly the same distance"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A long strip drags against the air and slows the paper bird, so the bird drops sooner. If you chose 'no tail', look at your results table again.",
      "outcome": 5,
      "how": "e2"
@@ -1747,12 +1747,12 @@
      "t": "mcq",
      "p": "A male bullfrog is bright yellow for only a day or two. Why not all year?",
      "opts": [
-      "Bright skin is easy for hunters to see",
       "The yellow washes off in rain",
       "Females dislike yellow",
-      "Yellow skin feels too warm"
+      "Yellow skin feels too warm",
+      "Bright skin is easy for hunters to see"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A bright colour is noticed by partners and by hunters. Showing the colour only at breeding time keeps the cost low.",
      "outcome": 5
     },
@@ -1760,12 +1760,12 @@
      "t": "mcq",
      "p": "Four species of frogs call in one pond. How does a female find her own species?",
      "opts": [
-      "By the pattern of the call",
       "By the loudest call",
       "By the nearest frog",
+      "By the pattern of the call",
       "By luck"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Each species has a call pattern of their own. She goes towards the pattern of her species, even if another call is louder or nearer.",
      "outcome": 1
     },
@@ -1786,12 +1786,12 @@
      "t": "mcq",
      "p": "Why do many Indian frogs start courtship after the first heavy rain?",
      "opts": [
-      "Their tadpoles need pools of water",
       "Rain makes calls louder",
       "Frogs dislike sunshine",
-      "Rain washes hunters away"
+      "Rain washes hunters away",
+      "Their tadpoles need pools of water"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Frog eggs and tadpoles need water. Courtship that starts with the rain puts the tadpoles into full pools.",
      "outcome": 0
     },
@@ -1961,12 +1961,12 @@
      "t": "mcq",
      "p": "A scientist changes the tails of some widowbirds and leaves others unchanged. Why leave some unchanged?",
      "opts": [
-      "To compare them with the changed birds",
       "The glue ran out",
+      "To compare them with the changed birds",
       "Those birds were ill",
       "To save time"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The unchanged birds show what happens with no change at all. Without them, nobody could tell whether the changed tails made a difference.",
      "outcome": 7
     },
@@ -1974,12 +1974,12 @@
      "t": "mcq",
      "p": "A scientist cuts a tail and glues the same piece back on. What does this check?",
      "opts": [
-      "Whether cutting and gluing alone changes the result",
       "Whether the glue is strong",
       "Whether the bird can fly",
+      "Whether cutting and gluing alone changes the result",
       "The colour of the tail"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Catching, cutting and gluing might upset a bird. A bird with the same tail length after cutting shows whether the handling itself matters.",
      "outcome": 7
     },
@@ -1987,12 +1987,12 @@
      "t": "mcq",
      "p": "Suppose hunters became very common. What would probably happen to displays over many generations?",
      "opts": [
-      "They would become smaller or duller",
       "They would become bigger",
       "They would stay the same",
-      "They would become louder"
+      "They would become louder",
+      "They would become smaller or duller"
      ],
-     "a": 0,
+     "a": 3,
      "why": "With more hunters, the showiest animals are caught more often and leave fewer young. John Endler found duller male guppies in streams with more fish-eating fishes.",
      "outcome": 5
     },
@@ -2000,12 +2000,12 @@
      "t": "mcq",
      "p": "In jacanas the father raises the chicks. Which partner is larger and guards the patch of lake?",
      "opts": [
-      "The female",
       "The male",
+      "The female",
       "Neither of them",
       "The oldest chick"
      ],
-     "a": 0,
+     "a": 1,
      "why": "In jacanas the usual roles are swapped. The female is larger, guards the patch and may have several male partners. Each male cares for a set of eggs.",
      "outcome": 6
     },
@@ -2141,12 +2141,12 @@
    "t": "mcq",
    "p": "What is courtship for?",
    "opts": [
-    "Finding and winning a partner for having young",
     "Keeping warm at night",
+    "Finding and winning a partner for having young",
     "Finding water in summer",
     "Scaring away every other animal"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Courtship brings two animals of one species together and gives each a chance to choose. A song may also warn rivals, but its main work in courtship is to win a partner.",
    "outcome": 0
   },
@@ -2154,12 +2154,12 @@
    "t": "mcq",
    "p": "Each firefly species flashes in a rhythm of their own. What does the rhythm tell another firefly?",
    "opts": [
-    "Which species is flashing",
     "What time it is",
     "Where the food is",
-    "That rain is coming"
+    "That rain is coming",
+    "Which species is flashing"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The rhythm is the code of the species. A firefly answers only the rhythm of their own species.",
    "outcome": 1
   },
@@ -2167,12 +2167,12 @@
    "t": "mcq",
    "p": "Which of these is a courtship dance?",
    "opts": [
-    "Two sarus cranes bowing and leaping",
     "A crow carrying a twig",
+    "Two sarus cranes bowing and leaping",
     "A dog chasing a ball",
     "A cat washing her face"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Sarus cranes bow, leap and spread their wings together. The dance helps to form the pair and to keep the pair bond strong.",
    "outcome": 2
   },
@@ -2180,12 +2180,12 @@
    "t": "mcq",
    "p": "A male kingfisher brings a fish to a female. What can the gift show her?",
    "opts": [
-    "He can find food",
     "He is not hungry",
     "He dislikes fish",
+    "He can find food",
     "The river is deep"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A partner who can catch fish now can probably catch fish for the chicks later. A gift is news about a skill.",
    "outcome": 3
   },
@@ -2193,12 +2193,12 @@
    "t": "mcq",
    "p": "In peafowl, who usually does the choosing?",
    "opts": [
-    "The peahen",
     "The peacock",
     "The chicks",
-    "The oldest bird"
+    "The oldest bird",
+    "The peahen"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Peacocks display, and each peahen compares several of them before she accepts one.",
    "outcome": 3
   },
@@ -2219,12 +2219,12 @@
    "t": "mcq",
    "p": "Why does a long newspaper tail shorten a paper bird's flight?",
    "opts": [
-    "The tail drags against the air",
     "The tail makes the paper bird lighter",
     "The tail pushes the paper bird forward",
+    "The tail drags against the air",
     "The tail hides the paper bird"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A long strip has a large surface that rubs against the air and flutters. This drag slows the paper bird, and a slower paper bird drops sooner.",
    "outcome": 5,
    "how": "e2"
@@ -2233,12 +2233,12 @@
    "t": "mcq",
    "p": "Which of these is a cost of a loud courtship call?",
    "opts": [
-    "A hunter can find the caller",
     "The caller grows taller",
     "The pond dries up",
+    "A hunter can find the caller",
     "Partners hear the call better"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A loud call reaches partners and hunters alike. Bats who eat frogs find calling frogs more easily. Being heard by partners is the gain, not the cost.",
    "outcome": 5
   },
@@ -2272,12 +2272,12 @@
    "t": "mcq",
    "p": "Which sentence about choosing is correct?",
    "opts": [
-    "In some species both partners choose",
     "Only males ever choose",
+    "In some species both partners choose",
     "Only humans choose partners",
     "Choosing happens only in birds"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Females choose in many species, and in cranes and grebes both partners choose. Frogs, fishes, insects and mammals choose too. Humans are one choosing animal among many.",
    "outcome": 3
   },
@@ -2285,12 +2285,12 @@
    "t": "mcq",
    "p": "Many birds begin courtship when the days grow longer. Why does the timing matter?",
    "opts": [
-    "Chicks hatch when food is plentiful",
     "Long days are quieter",
+    "Chicks hatch when food is plentiful",
     "Feathers grow only in summer",
     "Hunters sleep longer"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Chicks need a great deal of food. Courtship at the right time of year puts the chicks into the world when insects, seeds or fruit are plentiful.",
    "outcome": 0
   }
@@ -2567,6 +2567,43 @@
     "a1"
    ],
    "plan": "During the Morning Song Count, look up each singer you manage to see. Read what the book says about their breeding season."
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in The Long Tail Test: does a long tail make flying harder?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before The Long Tail Test: does a long tail make flying harder?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Long Tail Test: does a long tail make flying harder?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before The Long Tail Test: does a long tail make flying harder?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

@@ -1,9 +1,9 @@
 # Me and others: how we are alike, and how we are different
 `sci.me-and-others.me-and-others.L1`
 
-**Summary.** Does everyone in your family make the same face when they taste something sour or bitter? In this unit you will look in a mirror to see what you share with others, run a taste test at home, and play a game to find who is like you.
+**Summary.** Does everyone in your family make the same face when they taste something sour or bitter? In this lesson you will look in a mirror to see what you share with others, run a taste test at home, and play a game to find who is like you.
 
-**Intro.** *Stand in front of a mirror with a grown-up. Count your eyes, then theirs. Now look at your hair, and theirs. What is the same? What is not?* Almost everyone has two eyes, one nose and one mouth. But your hair, your height and your voice are your own. Scientists who study people look at both: the ways we are similar and the ways we are different. In this unit you find out how much you share with others, and how much is only yours.
+**Intro.** *Stand in front of a mirror with a grown-up. Count your eyes, then theirs. Now look at your hair, and theirs. What is the same? What is not?* Almost everyone has two eyes, one nose and one mouth. But your hair, your height and your voice are your own. Scientists who study people look at both: the ways we are similar and the ways we are different. In this lesson you find out how much you share with others, and how much is only yours.
 
 ## Learning outcomes
 0. By the end I can say three ways I am similar to other people.
@@ -12,12 +12,14 @@
 3. By the end I can say, from my own taste test, that one food can taste different to different people.
 4. By the end I can name a kind thing to do, and say how it helps someone.
 5. By the end I can make a guess, test it, and say what I saw.
+6. By the end I can join a game or a job with others, take my turn, and say that families and pets deserve kindness.
 
 ## Terms
 - **Similar**: Similar means alike in some way. *e.g.* You and your cousin are similar: you both have ten fingers and you both like mangoes.
 - **Different**: Different means not the same. *e.g.* Your hair may be curly and your friend's hair straight. Your hair is different from your friend's.
 - **Taste**: Taste is how a food seems in your mouth: sweet, sour, salty or bitter. You taste with your tongue. *e.g.* Jaggery tastes sweet. Lime tastes sour. Karela tastes bitter.
 - **Kind**: Being kind means doing something to help another person or animal, or to make them feel better. *e.g.* Sharing your crayons with a new friend is kind. Putting out water for a crow on a hot day is kind.
+- **Take turns**: When a few people share one thing or one game, each one has a go, one after another. *e.g.* In a game of ludo, you throw the dice, and then your friend throws it.
 
 ## Explanations
 ### We are all similar · *defined*
@@ -30,7 +32,7 @@ Every person has a heart, a mouth and a nose. Almost everyone has two eyes, two 
 ### Each of us is different · *defined*
 **Definition:** No two people are exactly the same. We differ in how we look, how we sound and what we like.
 
-Some people are tall and some are short. Hair can be curly, wavy or straight. Skin comes in many shades of brown, from light to dark. You can tell one grown-up from another with your eyes shut, because every person's voice sounds a little different. Even twins who look alike have different fingerprints. And each person likes different things: one loves rice and rasam, another loves luchi.
+Some people are tall and some are short. Hair can be curly, wavy or straight. Skin comes in many shades of brown, from light to dark. You can tell one grown-up from another with your eyes shut, because every person's voice sounds a little different. Even twins who look alike have different fingerprints. And each person likes different things: one loves rice and rasam, another loves luchi. Families are different too. Some children live with a mother and a father. Some live with a grandmother, with an aunt and uncle, or with one parent. Some families eat idli for breakfast, and some eat paratha. Each one is a real family, and we are kind about how each one is.
 - e.g. You can know who is calling you just from their voice.
 - e.g. Two sisters can have different favourite colours.
 - e.g. The lines on your fingertips are not like anyone else's.
@@ -50,10 +52,18 @@ Scientists agree that two things matter. One is the body you were born with. The
 ### Being kind · *defined*
 **Definition:** Being kind means helping someone, or doing something that makes them feel better.
 
-Other people may like different things from you, so you can ask them. Asking 'Do you like this?' is kind. Saying 'Yuck!' about someone's food is not. People are not the only animals who are kind. Elephants touch and soothe another elephant who is upset. Rats in tests have opened a little door to free another rat who was shut in.
+Other people may like different things from you, so you can ask them. Asking 'Do you like this?' is kind. Saying 'Yuck!' about someone's food is not. People are not the only animals who are kind. Elephants touch and soothe another elephant who is upset. Rats in tests have opened a little door to free another rat who was shut in. Pets feel things too. A kind child fills the dog's water bowl, strokes a cat gently, and never pulls a tail. If you do not know an animal, ask a grown-up before you touch her.
 - e.g. You ask a new child to play with you.
 - e.g. You bring water for a tired grown-up.
 - e.g. You wait for a slower friend on a walk.
+- e.g. You fill the water bowl for the family dog, or put out grain for the birds.
+### Doing things together · *defined*
+**Definition:** Some games and jobs are better with other people. When you join in, you take a part and wait for your turn.
+
+Many hands make a job quick. At home, one person shakes out the washing, one folds it and one puts it away. A game of kho-kho or hide and seek needs more than one child. When you join a group, you wait for your turn and share the things. If a child is standing alone, you can say, 'Come and play with us!' Everyone's part is different, and every part helps.
+- e.g. Three children draw a rangoli together. One draws the dots, one joins them, and one fills in the colours.
+- e.g. You carry one bag of vegetables and your brother carries the other.
+- e.g. You wait for your turn on the swing, and then the next child has hers.
 
 ## Mostly agreed
 - All people have the same main body parts and the same needs. *How we know:* Doctors all over the world study the same heart, lungs and bones in every person. Every person needs air, water, food and sleep.
@@ -381,7 +391,7 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
   - Check: One guest loves sour things and another guest loves sweet things. What plate will make both happy? → **A plate with laddoos and lime pickle**
 
 ## Worksheets
-### Like Me, Not Like Me (core) (core, 13 questions)
+### Like Me, Not Like Me (core) (core, 14 questions)
 1. (draw) Draw yourself and one person from your home, side by side. Circle one thing that is the same about you.  
    **Answer:** Two people, with a circle round something they share, such as two eyes or ten fingers.. *Why:* A strong drawing circles a body part both people have. All people share the same body parts.
 2. (match) Draw a line from each food to its taste.  
@@ -396,7 +406,7 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
    Options: Air / Water / Food / A toy car  
    **Answer:** 3. *Why:* Every person needs air, water and food to live. A toy car is fun, but nobody needs one to live.
 7. (mcq) A girl, her father and her grandmother taste jaggery and karela with their eyes closed. Which food will all three most likely give a thumbs up?  
-   Options: Jaggery / Pavakkai (karela) / Neither  
+   Options: Pavakkai (karela) / Neither / Jaggery  
    **Answer:** Jaggery. *Why:* Sweet is a taste nearly everyone likes. Bitter foods like karela taste very different to different people, so they often get different thumbs.
 8. (draw) Draw one kind thing you can do for someone at home today.  
    **Answer:** Any kind act, such as carrying a bag, sharing a snack or giving a hug.. *Why:* A strong drawing shows the child helping another person or making them feel better.
@@ -410,7 +420,9 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
    **Answer:** ['happy', 'sad', 'scared', 'angry']. *Why:* Faces show how people feel. Knowing how someone feels helps us know how to be kind to them.
 13. (truefalse) With your eyes closed, you can tell one grown-up's voice from another's.  
    **Answer:** True. *Why:* True. Each person's voice is a little different, so we can tell people apart just by listening.
-### Same Food, Different Tongues (stretch) (stretch, 13 questions)
+14. (draw) Draw a job or a game you do together with someone at home. Show what each person does.  
+   **Answer:** Any shared job, such as folding clothes, making a rangoli, or playing carrom.. *Why:* A strong drawing shows two or more people, each with a different part of the same job or game.
+### Same Food, Different Tongues (stretch) (stretch, 15 questions)
 1. (write) Your grandmother gave karela a thumbs up, and you gave a thumbs down. You both ate the same karela. Why were your thumbs different? Say your answer, and a grown-up writes it down.  
    **Answer:** Karela tastes different to my grandmother and to me. She has eaten karela for many years, and her tongue is different from mine.. *Why:* A strong answer says the food was the same, so the difference is in each person: their tongue and the foods they are used to.
 2. (mcq) In the Same Food, Different Faces taste test, why did everyone taste with their eyes closed?  
@@ -421,7 +433,7 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
 4. (perspective) Sneha, aged 6, lives in Pune. Her new friend Tanvi, aged 6, has just moved there from Kolkata.  
    **Answer:** A strong answer agrees with Tanvi: all people have the same parts inside and the same needs. Sneha is right that Tanvi looks and talks a little differently on the outside.. *Why:* People often think that looking different means being different inside. Inside, all people share the same body parts and almost all the same genes.
 5. (mcq) In the Who Said Hello? voice test, why were whispers harder to guess than talking?  
-   Options: A whisper has no buzz from the voice box, so voices sound more alike / Whispers come from further away / People change their names when they whisper  
+   Options: Whispers come from further away / People change their names when they whisper / A whisper has no buzz from the voice box, so voices sound more alike  
    **Answer:** A whisper has no buzz from the voice box, so voices sound more alike. *Why:* When we talk, the voice box in our throat buzzes, and each person's buzz is a little different. A whisper is only breath, so whispers sound more alike.
 6. (truefalse) Babies only a few hours old already like sweet tastes.  
    **Answer:** True. *Why:* True. Scientists have seen new babies relax at a drop of sweet water and screw up their faces at bitter. We are born liking sweet.
@@ -439,8 +451,12 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
 12. (label) Here is a drawing of a child. Label the parts that every person has: eyes, ears, nose, mouth, hands.  
    **Answer:** ['eyes', 'ears', 'nose', 'mouth', 'hands']. *Why:* Every person has these body parts. This is one of the ways all people are similar.
 13. (mcq) In 1931, a scientist called Arthur Fox tasted nothing in a white powder. A man working next to him said the same powder was very bitter. What did this show?  
-   Options: The other man was making it up / The same powder can taste different to different people / The powder had no taste for anyone  
+   Options: The same powder can taste different to different people / The other man was making it up / The powder had no taste for anyone  
    **Answer:** The same powder can taste different to different people. *Why:* Fox gave the powder to many people. Some found it bitter, and some tasted nothing. The same thing can taste different to different people.
+14. (truefalse) Only a family with a mother and a father is a real family.  
+   **Answer:** False. *Why:* False. Some children live with a grandmother, an aunt and uncle, or one parent. Every one of these is a real family.
+15. (draw) Draw one kind thing you can do for a pet, a bird or a street animal near your home.  
+   **Answer:** Any kind act, such as putting out a bowl of water or stroking a dog gently.. *Why:* A strong drawing shows the child being gentle, with a pet or an animal that is not afraid.
 
 ## Videos
 - **Newborn babies tasting sweet, sour and bitter** (, 3 min) id `to find`: Shows that babies only hours old relax at sweet and screw up their faces at bitter, before they have learned anything about food. *Check:* Find a real clip from a study or a science programme, not acted, showing newborn faces to sweet and bitter tastes.
@@ -449,25 +465,25 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
 
 ## Quiz
 1. (mcq) Which one is true for every person?  
-   Options: They have curly hair / They need food / They like karela  
+   Options: They need food / They have curly hair / They like karela  
    **Answer:** They need food. *Why:* Every person needs food to live and grow. Hair and liking karela are different from person to person.
 2. (mcq) A sister and her brother both have two ears. The sister is tall and the brother is short. Which is a way they are different?  
-   Options: Their ears / How tall they are / That they both need sleep  
+   Options: Their ears / That they both need sleep / How tall they are  
    **Answer:** How tall they are. *Why:* The sister is tall and the brother is short, so their height is different. They are similar in having two ears and needing sleep.
 3. (mcq) Anu says mango is the best fruit. Her friend Joy says guava is the best. Who is right?  
-   Options: Only Anu / Only Joy / Both: people like different things  
+   Options: Only Anu / Both: people like different things / Only Joy  
    **Answer:** Both: people like different things. *Why:* A favourite fruit is about what each person likes, so both can be right. People like different things.
 4. (mcq) In a taste test, a grandmother gave karela a thumbs up and her grandchild, aged 6, gave a thumbs down. They ate the same karela. Why were the thumbs different?  
-   Options: One of them is wrong / The same food can taste different to different people / The grandmother ate a sweeter piece  
+   Options: One of them is wrong / The grandmother ate a sweeter piece / The same food can taste different to different people  
    **Answer:** The same food can taste different to different people. *Why:* The karela was the same. Each person's tongue, and the foods they are used to, are different. So neither of them is wrong.
 5. (mcq) What taste does karela have?  
-   Options: Sweet / Sour / Bitter  
+   Options: Bitter / Sweet / Sour  
    **Answer:** Bitter. *Why:* Karela is bitter. Some people find the bitter taste very strong, and others hardly mind it.
 6. (mcq) Which kind of food do nearly all people like, even new babies?  
    Options: A sweet food, like jaggery / A bitter food, like karela / A sour food, like lime  
    **Answer:** A sweet food, like jaggery. *Why:* People are born liking sweet tastes. Some people like bitter and sour foods, and some do not.
 7. (mcq) On her first day, a new girl sits alone at lunch. What is a kind thing to do?  
-   Options: Sit with her and ask her name / Point at her food / Pretend not to see her  
+   Options: Point at her food / Sit with her and ask her name / Pretend not to see her  
    **Answer:** Sit with her and ask her name. *Why:* Sitting with her and asking her name helps her feel welcome. Being kind means helping someone feel better.
 8. (mcq) Why is it kind to ask 'What do you like?' before giving someone a snack?  
    Options: Because people like different things / Because everyone likes the same snack / Because it makes them wait  
@@ -476,11 +492,20 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
    Options: Elephants and rats / No animals at all / Only people  
    **Answer:** Elephants and rats. *Why:* Elephants soothe other elephants who are upset, and rats free other rats who are shut in. People are animals too, and we help each other as well.
 10. (mcq) In the Who Said Hello? voice test, why are the speakers' names written in a mixed-up order?  
-   Options: So the child cannot guess from the order / To make it noisy / So people get tired  
+   Options: To make it noisy / So people get tired / So the child cannot guess from the order  
    **Answer:** So the child cannot guess from the order. *Why:* If people spoke in the same order each time, the child could guess from the order and not the voice. Mixing it up makes the test fair.
 11. (mcq) What does a scientist do before a test?  
-   Options: Guesses what will happen, and says why / Writes the answer before looking / Skips the test  
+   Options: Writes the answer before looking / Guesses what will happen, and says why / Skips the test  
    **Answer:** Guesses what will happen, and says why. *Why:* A scientist guesses first and gives a reason. Then the test shows if the guess was right.
+12. (mcq) Three children are making a rangoli together. One child has finished her part and stands waiting. What is a good thing to do?  
+   Options: Take the colours and do it all alone / Ask what part she can help with, and join in / Walk away and say it is boring  
+   **Answer:** Ask what part she can help with, and join in. *Why:* A shared job goes well when each person has a part. Asking how to help lets everyone feel part of the group. Doing it all alone leaves the others out.
+13. (mcq) Sana's friend Ravi lives with his grandmother and his uncle. Sana lives with her mother, her father and her sister. What is the kind thing to say?  
+   Options: Ravi's family is not a proper family / Families are all different, and Ravi's is a real family too / Everyone must live like Sana does  
+   **Answer:** Families are all different, and Ravi's is a real family too. *Why:* Families come in many shapes, and each one is a real family. Saying a family is not proper hurts the child who lives in it.
+14. (mcq) A kitten comes to your door. Which is a kind way to meet her?  
+   Options: Ask a grown-up, then stroke her gently and give her some water / Pull her tail to make her play / Shout loudly so that she runs to you  
+   **Answer:** Ask a grown-up, then stroke her gently and give her some water. *Why:* Animals feel pain and fear as we do. A gentle hand and some water are kind. A pulled tail hurts, and a loud shout frightens her.
 
 ## Applications
 - Cooks at a wedding or a festival make sweet, sour, salty and spicy dishes, so that every guest finds something they like.
@@ -490,7 +515,7 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
 - Police can identify people by their fingerprints, because no two people's are the same.
 
 ## Spotted around us
-- A banana-leaf meal at a wedding in Kerala, with sweet payasam, sour pickle, salty chips and bitter pavakka thoran side by side.
+- A banana-leaf meal at a wedding, with sweet payasam, sour pickle, salty chips and bitter pavakka thoran side by side.
 - A school lunch break, where every child's tiffin has a different food from a different home.
 - A family photo from a festival like Onam, Eid or Durga Puja, where everyone has two eyes, a nose and a mouth, but no two faces are alike.
 - A crow at the window cawing loudly when another crow is in trouble, and other crows flying in.
@@ -530,10 +555,15 @@ Like Me, Not Like Me (sci.me-and-others.L1): Topic-level song for Me and others 
 
 ## Links
 - [StoryWeaver, free picture books from Pratham Books](https://storyweaver.org.in/) · interactive: For the parent: free picture books in many Indian languages, with many stories about friends, families and feelings to read aloud.
-- [Nehru Science Centre]() · place · Mumbai: A science centre with hands-on galleries, including ones on the human body and the senses.
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: A science museum with a children's section, good for a family day out.
+- Nehru Science Centre · place · Mumbai: A science centre with hands-on galleries, including ones on the human body and the senses.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru: A science museum with a children's section, good for a family day out.
 
 ## Things to buy
+- [We're All Wonders by R. J. Palacio](https://www.amazon.in/s?k=Were+All+Wonders) (book): A boy who looks different from other children asks them to look at him with kindness. It gives the child words for noticing how people differ and how they are alike. Used in a1. Read it together at the start of the lesson, then talk about how we are alike and different.
+- [Me... Jane by Patrick McDonnell](https://www.amazon.in/s?k=Me+Jane) (book): The true story of Jane Goodall as a girl, with her toy chimpanzee, dreaming of Africa. It shows a child who loved watching living things. Used in a1. Read it together after the lesson on how we are all different.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in Mirror Twins: what is the same, what is different?, All About Me: my name, my face, what I like. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in a1, a2. Get it before Mirror Twins: what is the same, what is different?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Same Food, Different Faces: does everyone at home like the same tastes?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1. Get it before Same Food, Different Faces: does everyone at home like the same tastes?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name one thing every person needs. → Air, water, food or sleep.
@@ -549,7 +579,7 @@ Like Me, Not Like Me (sci.me-and-others.L1): Topic-level song for Me and others 
 - Core: a1, e1, g1, a2, ws-core
 
 ## Sources
-- ideas/by_topic/me-and-others.md: the self-portrait and name-meaning journal page (used in All About Me), the 'So many emotions' week (used in Feelings Faces), and kindness to those who look different (the Lily and the monster seed). The Guess Who I Am game and the monster story were used in the Level 3 unit, so this unit uses a lunch-box story instead. The Sandra Faber card is about galaxies and was not used.
+- ideas/by_topic/me-and-others.md: the self-portrait and name-meaning journal page (used in All About Me), the 'So many emotions' week (used in Feelings Faces), and kindness to those who look different (the Lily and the monster seed). The Guess Who I Am game and the monster story were used in the Level 3 unit, so this lesson uses a lunch-box story instead. The Sandra Faber card is about galaxies and was not used.
 - Arthur L. Fox, 'The relationship between chemical constitution and taste', Proceedings of the National Academy of Sciences 18 (1932): phenylthiocarbamide (PTC) tasted bitter to some people and tasteless to others; first noticed in 1931.
 - Linda Bartoshuk and colleagues, 1990s: some people (supertasters) find bitter compounds such as PROP far more bitter than most.
 - Jacob Steiner, 1970s: the gustofacial reflex, newborns relax at sweet and grimace at bitter tastes.

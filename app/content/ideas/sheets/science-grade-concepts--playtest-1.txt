@@ -1,0 +1,30 @@
+# DeepKids - Science - Grade Concepts / Playtest 1 (copied from Google Sheets, 2026-11-27)
+R1:  |  | Activity | Cards in hand | Position | Card Played
+R2: Round 1 | Player 1 | lie down & catch another falling | FN | 18
+R3:  | Player 2 |  Push on wall, push on cushion, push wate | FN | 17
+R4: Round 2 | Player 2 |  Float in a pool |  | 17
+R5: Round 2 | Player 2 |  Hoola Hoop | Sideways Velocity | 8
+R6: Round 3 | Player 1 |  Stay suspended in a pool | Buoyancy | 22
+R7:  | Player 2 | Jump on Trampoline | Impact Force -Elastic Energy | 14
+R8: Round 4 | Player 1 | Planets around Sun | Sideways Velocity | 28
+R9:  | Player 2 | Yoga Pose - One leg standing |  | 8
+R10: Round 5 | Player 1 | Rubber band rocket | Impact Force -Elastic Energy | 32
+R11:  | Player 2 | 1. Make rocket - chemical energy? | Escape Velocity | 12
+R12: Round 6 | Player 1 | Yoga Pose 2 | CoG=CoB | 34
+R13: Round 7 | Player 1 | 1. Pick paper clip with magnet | Magnetic ENergy | 28
+R14:  | Player 2 | drop crumpled and normal paper and one over other | Air Resistance | 16 | CoG=CoB
+R15: Round 8 | Player 1 |  how high can you jump? | Physical Work | 32
+R16:  | Player 2 |  climb stairs,  | Physical Work | 16 | Buoyancy
+R17: Round 9 | Player 1 | 1. feather float with dryer | Air Lift | 38
+R18:  | Player 2 | 1. Tug -Off War | Neutral Pull | 32
+R19: Round 10 | Player 1 | Measure your weight on a scale. then lift up one leg in the air- what happens to the reading on the scale? Did you feel like your weight or mass changed? then why did the scale change? ⏎ When you held your friend from falling, did you feel his weight? " | Weight Loss | 39
+R20:  | Player 2 | measure weight inside a pool | Weight Loss | 37
+R21: Round 11 | Player 1 | 1. blanket stretched, balls placed 1 big, some small, another bigger, 2 equal | Knowledge Point | 42
+R22:  | Player 2 | Pull another, expend energy. But thats not gravity | Knowledge Point | 41
+R23: Round 12 | Player 1 | large tub of water - see what sinks, what floats | Buoyancy | 44
+R24:  | Player 2 | Surfing | Sideways Velocity | 42
+R25: Round 13 | Player 1 | Gravitational Spinner | CoG=CoB | 47
+R26:  | Player 2 | Jenga | CoG=CoB | 47
+R27: Round 14 | Player 1 | climb slide | Physical Work | 51
+R28:  | Player 2 | 3. Measure your weight on the ground, on an elevator moving up and while moving down, Note the values. Are they same? Is your true weight changing? then why are the readings? | Weight Loss | 41
+R29: Round 15 | Player 1 |  make an object float with no other material used | Knowledge Card

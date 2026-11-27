@@ -1,9 +1,9 @@
 # Vibration: how strings, skins and air columns make sound
 `sci.sound.vibration.L5`
 
-**Summary.** Draw a card slowly along a comb and you hear separate ticks, but draw it fast and the ticks join into one steady note. Why? In this unit you will count the pushes in each second with a comb, watch a slow string vibrate, and hear a spoon ring through a string.
+**Summary.** Draw a card slowly along a comb and you hear separate ticks, but draw it fast and the ticks join into one steady note. Why? In this lesson you will count the pushes in each second with a comb, watch a slow string vibrate, and hear a spoon ring through a string.
 
-**Intro.** *Pluck a rubber band stretched over a steel tumbler. It hums, and it looks like a blur. Touch it with one finger, and the hum stops at once. What was the band doing while it hummed? And why did it keep doing it after your finger let go?* The band was vibrating. It was moving back and forth far too quickly for your eyes to follow. In this unit you slow that movement down until you can watch it. You turn separate ticks into a note with a comb. You work out how many pushes reach your ear each second. You make grains jump on a skin that nothing touches. You hear a spoon ring like a temple bell through a piece of string. By the end you can say what vibrates in a veena, a mridangam, a bansuri and your own throat.
+**Intro.** *Pluck a rubber band stretched over a steel tumbler. It hums, and it looks like a blur. Touch it with one finger, and the hum stops at once. What was the band doing while it hummed? And why did it keep doing it after your finger let go?* The band was vibrating. It was moving back and forth far too quickly for your eyes to follow. In this lesson you slow that movement down until you can watch it. You turn separate ticks into a note with a comb. You work out how many pushes reach your ear each second. You make grains jump on a skin that nothing touches. You hear a spoon ring like a temple bell through a piece of string. By the end you can say what vibrates in a veena, a mridangam, a bansuri and your own throat.
 
 ## Learning outcomes
 0. I can say what a vibration is, using the words rest position, amplitude and frequency.
@@ -70,6 +70,7 @@ The voice box is the bump you can feel at the front of your throat. Its proper n
 - e.g. In Sss and Zzz, your fingers felt a buzz on your throat for 'zzz' but not for 'sss'.
 - e.g. In Sss and Zzz, your hum stopped when you pinched your nose, because the breath could no longer flow.
 - e.g. A male cricket sings by rubbing his wings. A bee's hum is the beat of her wings.
+- e.g. With your eyes shut, you can often tell the source. A cricket's chirp comes from rubbing wings. A dog's bark comes from vocal folds. A bird's song comes from the syrinx, deep in the chest.
 ### How the vibration reaches your ear · *defined*
 **Definition:** A vibration travels through a medium because each particle pushes the next. The sound reaches you when the pushes make your eardrum vibrate.
 
@@ -89,6 +90,7 @@ Vibration is found far beyond music. The particles of every solid vibrate all th
 - e.g. Heat in a steel tumbler is the vibration of its particles.
 - e.g. The Earth rang for weeks after the Sumatra earthquake of December 2004.
 - e.g. String theory describes every particle as a tiny vibrating string. No experiment has tested it yet.
+- e.g. A rustle of dry leaves in the wind is many leaves knocking and rubbing against each other, so it has no clear note.
 - **Physicists who use quantum field theory:** Our best tested theory describes every particle as a ripple in a field that fills all of space. An electron is a ripple in the electron field. This is a very exact way of calculating, and it has passed every test so far.
 - **String theorists:** Every kind of particle may be one kind of tiny string, vibrating in different ways. One veena string gives different notes in the same way. The mathematics is promising. Nobody has yet found a way to test the idea by experiment.
 - **The musician and scholar Sharngadeva, about 800 years ago:** In the first chapter of his book on music, the Sangita Ratnakara, sound (nada) is treated as the root of music and, in a deeper sense, of all things. This is a teaching about meaning. It was not offered as a measurement.
@@ -123,7 +125,7 @@ Vibration is found far beyond music. The particles of every solid vibrate all th
   Against: After fifty years there is still no experiment that can test it. Many physicists say an idea that cannot be tested is not yet science.
 
 ## Roots
-In this unit you turned separate ticks into a note, and watched a slow string pass its rest position. Here we ask what a note really is, and who makes it.
+In this lesson you turned separate ticks into a note, and watched a slow string pass its rest position. Here we ask what a note really is, and who makes it.
 
 **Deep truth.** In the Comb Test, a slow stroke over 40 teeth gave 40 separate ticks. A quick stroke over the same teeth gave one steady note. Only the speed had changed. So a steady note is a row of separate pushes, arriving too quickly for the ear to hear apart.  
 *Habit it breaks:* We treat a tick and a note as two kinds of sound, one broken and one smooth. They are the same kind at different speeds. The pushes stay separate in the air. Above about 20 pushes a second, a human ear reports them as one note.  
@@ -136,7 +138,7 @@ In this unit you turned separate ticks into a note, and watched a slow string pa
 In the Comb Test, 40 separate ticks became one note. Looked at closely, the one note is still many pushes. So 'one' and 'many' can be two true descriptions of the same event. Which one you get depends on how fast the pushes come, and on who is listening. Many sages taught that the many different things in the world are really one thing, which we meet only a part at a time. The Comb Test does not prove that. It does show, with a comb and a card, how many can be heard as one.
 
 - **Zhuangzi, chapter 2, 'On Making Things Equal' (China, about 2,300 years ago):** “夫大塊噫氣，其名爲風。是唯无作，作則萬竅怒呺。 / 夫吹萬不同而使其自己也，咸其自取，怒者其誰邪？” A teacher describes the wind blowing through all the hollows of a forest. Each hollow gives its own sound: some roar, some whistle, some sigh. Then he asks who does the sounding. (This is an air column, described long ago. In the Palm Pipe, a long tube and a short tube gave different notes from the same slap. Each hollow gives the note that its own length sets. The book leaves its question open, and so do we.)
-- **Sharngadeva, Sangita Ratnakara, chapter 1 (India, 13th century):** This book on music speaks of two kinds of sound. The struck sound is made when things meet, and it is the sound of all music. The unstruck sound is said to be heard only in deep stillness. (Every sound in this unit is a struck sound. Something was plucked, hit, rubbed or blown, and then it vibrated. Science studies this kind. The unstruck sound is a teaching about the mind, and science does not measure it.)
+- **Sharngadeva, Sangita Ratnakara, chapter 1 (India, 13th century):** This book on music speaks of two kinds of sound. The struck sound is made when things meet, and it is the sound of all music. The unstruck sound is said to be heard only in deep stillness. (Every sound in this lesson is a struck sound. Something was plucked, hit, rubbed or blown, and then it vibrated. Science studies this kind. The unstruck sound is a teaching about the mind, and science does not measure it.)
 - **Aristotle, On the Soul, book 2, chapter 8 (Greece, about 2,350 years ago):** “Γίνεται δ’ ὁ κατ’ ἐνέργειαν ψόφος ἀεί τινος πρός τι καὶ ἔν τινι· πληγὴ γάρ ἐστιν ἡ ποιοῦσα. / ἕτερον γὰρ τὸ τύπτον καὶ τὸ τυπτόμενον / Ψοφητικὸν μὲν οὖν τὸ κινητικὸν ἑνὸς ἀέρος συνεχείᾳ μέχρις ἀκοῆς” A sound needs three things: something that strikes, something that is struck, and a medium between them and the ear. The air must be moved as one mass, all the way to the hearing. (This matches the chain you built in the Spoon on a String: a source, a medium and an ear. Aristotle did not know about particles, but he saw that the air must carry the movement.)
 - Science (settled): The particles of every solid vibrate all the time. This movement is what we measure as temperature. It never stops completely, even at the lowest temperature there can be.
 - Science (settled): Our best tested theory, quantum field theory, describes every particle as a ripple in a field that fills space.
@@ -513,7 +515,7 @@ Tresa was already working it out.
 ## Worksheets
 ### What vibrates, and how the sound reaches you (core) (core, 15 questions)
 1. (mcq) What is a vibration?  
-   Options: A movement back and forth, again and again / A movement in one direction only / A loud sound / A kind of air  
+   Options: A movement in one direction only / A loud sound / A kind of air / A movement back and forth, again and again  
    **Answer:** A movement back and forth, again and again. *Why:* A vibrating thing moves to one side of its rest position and back through it to the other side. It does this over and over. Choosing 'a loud sound' mixes up the sound with the movement that makes it.
 2. (truefalse) True or false: a thing can make a sound without any part of it vibrating.  
    **Answer:** False. *Why:* False. Every sound source vibrates. In the Blur and the Pinch, the tumbler went silent the moment its vibration was stopped.
@@ -522,7 +524,7 @@ Tresa was already working it out.
 4. (match) Match each sound maker to the part that vibrates.  
    **Answer:** Veena → A tight string; Mridangam → A tight skin; Bansuri → The air inside a tube; Your voice → Two folds in the throat. *Why:* Strings, skins and air columns are the three main vibrating things in instruments. A voice starts with the vocal folds in the voice box.
 5. (mcq) In the Comb Test, why did a quick stroke give a note and not ticks?  
-   Options: The ticks came too fast to hear apart / The comb grew warmer / The card changed shape / The teeth moved closer together  
+   Options: The comb grew warmer / The card changed shape / The teeth moved closer together / The ticks came too fast to hear apart  
    **Answer:** The ticks came too fast to hear apart. *Why:* The comb, the card and the teeth were the same. Only the number of ticks each second changed. Above about 20 a second, the ear hears them as one note.
 6. (sort) Sort these instruments by what vibrates: a string, a skin or an air column.  
    **Answer:** sitar → String; violin → String; tabla → Skin; chenda → Skin; nadaswaram → Air column; conch → Air column. *Why:* A sitar and a violin have strings. A tabla and a chenda have skins. In a nadaswaram and a conch, the air inside vibrates.
@@ -533,7 +535,7 @@ Tresa was already working it out.
 9. (count) A card crosses 40 teeth of a comb in 2 seconds. How many ticks is that each second?  
    **Answer:** 20. *Why:* 40 ticks shared over 2 seconds is 40 ÷ 2, which is 20 ticks each second.
 10. (mcq) In the Thali and the Skin, what did you change on purpose?  
-   Options: The distance from the plate to the bowl / The number of grains / The size of the bowl / The kind of spoon  
+   Options: The number of grains / The distance from the plate to the bowl / The size of the bowl / The kind of spoon  
    **Answer:** The distance from the plate to the bowl. *Why:* The distance was the independent variable, the one thing changed on purpose. The grains, the bowl and the spoon were control variables, kept the same.
 11. (write) You pinch the rim of a ringing steel tumbler, and the sound stops. Explain why, in two sentences.  
    **Answer:** The sound comes from the tumbler vibrating. The pinch stops the vibration, so the tumbler no longer pushes the air, and the sound stops.. *Why:* A strong answer says that the sound lasts only as long as the vibration. It also says that fingers take the energy of the vibration.
@@ -544,19 +546,19 @@ Tresa was already working it out.
 14. (perspective) Which matters more for the sound of a veena: the string or the hollow body?  
    **Answer:** Any view with a reason from the unit. One reason is that the note changes when the string is tightened or shortened. Another is that a buzzing phone was much louder on a steel plate, which acted as a soundboard.. *Why:* Each view has something right in it. A strong answer uses evidence. The Slow String shows what sets the note. Quiet the Buzz shows what a wide surface does.
 15. (mcq) Why can sound not cross empty space?  
-   Options: No particles are there to pass the push / Space is too cold / Space is too far away / Sound is too slow  
+   Options: Space is too cold / Space is too far away / No particles are there to pass the push / Sound is too slow  
    **Answer:** No particles are there to pass the push. *Why:* A sound travels when each particle pushes the next. Empty space has no particles, so the vibration has nothing to travel through.
-### Why a vibration is fast or slow (stretch) (stretch, 15 questions)
+### Why a vibration is fast or slow (stretch) (stretch, 16 questions)
 1. (mcq) Where is a vibrating string moving fastest?  
-   Options: As it passes its rest position / At the far edge of its swing / At its two fixed ends / It moves at one speed everywhere  
+   Options: At the far edge of its swing / At its two fixed ends / As it passes its rest position / It moves at one speed everywhere  
    **Answer:** As it passes its rest position. *Why:* The string speeds up all the way back to its rest position and slows down after it. At the far edge it stops for an instant. The fixed ends do not move at all.
 2. (mcq) In the Slow String, a clothes peg on the chain made it swing more slowly. Why?  
-   Options: There was more weight to move / The chain was pulled back harder / The chain became shorter / The peg blocked the air  
+   Options: The chain was pulled back harder / The chain became shorter / The peg blocked the air / There was more weight to move  
    **Answer:** There was more weight to move. *Why:* The chain pulled back just as hard as before. It had more weight to move, so each trip took longer.
 3. (truefalse) True or false: plucking a string harder makes it vibrate more times each second.  
    **Answer:** False. *Why:* False. A harder pluck gives a bigger amplitude and a louder sound. The frequency, and so the note, stays the same.
 4. (mcq) The lowest string of a guitar has fine wire wound round it. What is the wire for?  
-   Options: To add weight, so it vibrates slowly / To make the string tighter / To make the string shine / To stop the string vibrating  
+   Options: To make the string tighter / To make the string shine / To add weight, so it vibrates slowly / To stop the string vibrating  
    **Answer:** To add weight, so it vibrates slowly. *Why:* More weight to move gives a slower vibration and a lower note. The string can then stay tight enough to ring well.
 5. (odd) Three of these make a string vibrate faster. Which one makes it slower?  
    Options: Tightening it / Pressing it to make it shorter / Changing it for a lighter string / Winding wire round it  
@@ -581,9 +583,11 @@ Tresa was already working it out.
    **Answer:** ['Source: the drum, which vibrates', 'Medium: the air between the drum and the ear', 'Eardrum: the small tight skin at the end of the ear hole', 'Ear bones: the three tiny bones behind the eardrum', 'Inner ear: the coiled part filled with liquid']. *Why:* The vibration starts at the source, crosses the medium, and makes the eardrum vibrate. The bones pass it to the liquid of the inner ear.
 15. (truefalse) True or false: a plucked string moves most at its two ends.  
    **Answer:** False. *Why:* False. The ends are held still. The string moves most in the middle, where the blur is widest.
+16. (sort) Sort each sound by what makes it: a living body, or things knocking and rubbing together.  
+   **Answer:** a bird's song → A living body; a rustle of dry leaves in the wind → Things knocking or rubbing; a dog's bark → A living body; a loose tin sheet clanging in the wind → Things knocking or rubbing; a cricket's chirp → A living body; a gate creaking as it swings → Things knocking or rubbing. *Why:* A bird, a dog and a cricket make sound with their own bodies. The leaves, the tin and the gate knock or rub against each other.
 ### Testing ideas about vibration (challenge) (challenge, 15 questions)
 1. (mcq) A bell rings inside a jar while the air is pumped out. What happens?  
-   Options: The bell still moves, but its sound fades / The bell stops moving / The sound grows louder / Nothing changes  
+   Options: The bell stops moving / The sound grows louder / Nothing changes / The bell still moves, but its sound fades  
    **Answer:** The bell still moves, but its sound fades. *Why:* The bell still vibrates, but with fewer and fewer air particles there is less to carry the pushes. Robert Boyle and Robert Hooke showed this about 1660.
 2. (mcq) The quartz crystal in a watch vibrates 32,768 times a second. What best explains such a high frequency?  
    Options: It is very stiff and very small / It is very soft and very heavy / It is kept very cold / It is hit very hard  
@@ -599,7 +603,7 @@ Tresa was already working it out.
 7. (fill) A wide surface that a string makes vibrate, so that more air is pushed, is called a ____.  
    **Answer:** ['soundboard']. *Why:* A thin string pushes very little air. The soundboard is wide, so it pushes much more, and the instrument is louder.
 8. (mcq) In the Spoon on a String, the spoon sounded deeper through the string than through the air. Why?  
-   Options: Its slow vibrations hardly push the air / The string slowed the spoon down / Fingers make every sound deeper / The air removed the high notes  
+   Options: The string slowed the spoon down / Its slow vibrations hardly push the air / Fingers make every sound deeper / The air removed the high notes  
    **Answer:** Its slow vibrations hardly push the air. *Why:* A spoon vibrates in fast ways and slow ways at once. A small spoon pushes the air poorly with its slow vibrations, but they travel well along the string. So the deep part of the ring is heard only through the string.
 9. (write) Someone says, 'Heavy things always make low notes.' Give one example that fits and one that does not.  
    **Answer:** It fits a big bell, which rings lower than a small bell of the same metal. It does not fit a heavy string that is pulled very tight. That string can sound higher than a light, slack one. The note depends on two things together: the weight to move and how hard it is pulled back.. *Why:* A strong answer shows that weight is only one of the two things that set the frequency. The other is the strength of the pull back.
@@ -623,40 +627,43 @@ Tresa was already working it out.
 
 ## Quiz
 1. (mcq) Which words describe one full vibration of a string?  
-   Options: To one side, across to the other, and back / From one end of the string to the other / One pluck by a finger / Once round in a circle  
+   Options: From one end of the string to the other / One pluck by a finger / Once round in a circle / To one side, across to the other, and back  
    **Answer:** To one side, across to the other, and back. *Why:* One vibration is a full trip: away from the rest position, back through it, out to the other side and back again.
 2. (mcq) A string vibrates 440 times each second. What is its frequency?  
    Options: 440 hertz / 440 metres / 440 seconds / 44 hertz  
    **Answer:** 440 hertz. *Why:* Frequency is the number of vibrations each second, and its unit is the hertz. Metres measure length and seconds measure time.
 3. (mcq) Why does a plucked string go past its rest position, and not stop there?  
-   Options: It is moving fastest there / The air pushes it across / The finger is still pulling it / Strings cannot stop  
+   Options: The air pushes it across / It is moving fastest there / The finger is still pulling it / Strings cannot stop  
    **Answer:** It is moving fastest there. *Why:* The string is pulled back towards its rest position and speeds up all the way. It arrives at full speed, so it carries on to the other side.
 4. (mcq) Which change makes a string vibrate faster?  
-   Options: Pulling it tighter / Winding wire round it / Making it longer / Plucking it harder  
+   Options: Winding wire round it / Making it longer / Pulling it tighter / Plucking it harder  
    **Answer:** Pulling it tighter. *Why:* A tighter string is pulled back harder, so it vibrates faster. Wire and extra length add more to move, which slows it. A harder pluck changes only the loudness.
 5. (mcq) A card gives 5 ticks a second on a comb, then 80. What do you hear?  
-   Options: Separate ticks, then a low note / A note, then separate ticks / Separate ticks both times / Silence both times  
+   Options: A note, then separate ticks / Separate ticks, then a low note / Separate ticks both times / Silence both times  
    **Answer:** Separate ticks, then a low note. *Why:* At 5 a second each tick is heard one by one. At 80 a second they come too fast to hear apart, so the ear hears a note.
 6. (mcq) A male cricket draws one wing across a row of teeth on the other. Which test is this like?  
-   Options: The card drawn along a comb / The spoon hung on a string / The phone on a sponge / The bottle squeezed with its cap on  
+   Options: The spoon hung on a string / The phone on a sponge / The bottle squeezed with its cap on / The card drawn along a comb  
    **Answer:** The card drawn along a comb. *Why:* Each tooth gives one push, as each comb tooth did. The teeth pass so quickly that the pushes blend into a note, which is the cricket's song.
 7. (mcq) What vibrates first when someone plays a nadaswaram?  
-   Options: A cane reed, then the air column / A stretched skin / A tight string / The player's fingers  
+   Options: A stretched skin / A cane reed, then the air column / A tight string / The player's fingers  
    **Answer:** A cane reed, then the air column. *Why:* The player's breath makes the cane reed flap, and the reed sets the air inside the long pipe vibrating. A nadaswaram has no skin and no string.
 8. (truefalse) True or false: your vocal folds can go on vibrating when no breath is flowing.  
    **Answer:** False. *Why:* False. Breath blows the folds apart and they spring shut, again and again. In Sss and Zzz, a hum stopped when the nose and the lips were both shut.
 9. (mcq) How does the sound of a struck steel plate reach a skin 10 cm away?  
-   Options: Air particles pass the pushes along / Bits of steel fly across / The table carries it / Light carries it  
+   Options: Bits of steel fly across / The table carries it / Air particles pass the pushes along / Light carries it  
    **Answer:** Air particles pass the pushes along. *Why:* The plate pushes the air next to it. Each air particle pushes the next, until the pushes reach the skin. In the Thali and the Skin, nothing but air was in between.
 10. (mcq) A test changes the kind of string and counts seconds of ringing. Which is the dependent variable?  
-   Options: The seconds of ringing / The kind of string / The spoon / The length of the string  
+   Options: The kind of string / The spoon / The seconds of ringing / The length of the string  
    **Answer:** The seconds of ringing. *Why:* The dependent variable is what you measure. The kind of string is the independent variable, changed on purpose. The spoon and the length are control variables.
 11. (mcq) A plucked string slowly goes quiet. Where has the energy of the pluck gone?  
-   Options: Into the air as sound, and into warmth / Back into the finger / Nowhere: it was destroyed / Into the string's weight  
+   Options: Back into the finger / Nowhere: it was destroyed / Into the string's weight / Into the air as sound, and into warmth  
    **Answer:** Into the air as sound, and into warmth. *Why:* Each vibration passes a little energy to the air as sound. A little more warms the string and what it touches. Energy is never destroyed.
 12. (mcq) Why is a veena string much louder on the veena than stretched between two hands?  
-   Options: The wide wooden body pushes more air / The wood makes the string tighter / The wood vibrates faster than the string / Hands make strings heavier  
+   Options: The wood makes the string tighter / The wood vibrates faster than the string / The wide wooden body pushes more air / Hands make strings heavier  
    **Answer:** The wide wooden body pushes more air. *Why:* A thin string pushes very little air. On the veena, the string makes the wide hollow body vibrate, and that large surface pushes much more air.
+13. (mcq) With your eyes shut, you hear a soft rustle from a tree on a windy day. What is most likely making it?  
+   Options: A note sung by the trunk of the tree / A bird with two vocal folds, singing from inside the leaves / A tabla skin under the branches / Many leaves knocking and rubbing against each other in the wind  
+   **Answer:** Many leaves knocking and rubbing against each other in the wind. *Why:* Wind moves the leaves, and they knock and rub against each other. A rustle has no clear note. Trees do not sing, and birds sing with the syrinx, not with vocal folds.
 
 ## Applications
 - Makers of veenas, violins and guitars choose the wood, the thickness and the shape of the body with care. A good body vibrates well and pushes the air strongly.
@@ -669,12 +676,12 @@ Tresa was already working it out.
 
 ## Spotted around us
 - A temple bell after it is rung. Rest a fingertip on it, and you feel the buzz as the sound fades.
-- A mridangam player at a concert in Chennai, pressing a hand on the skin to stop a note short.
+- A mridangam player at a concert, pressing a hand on the skin to stop a note short.
 - Crickets at dusk. Each singer is a male, drawing one wing across a row of tiny teeth on the other.
 - The whine of a mosquito near your ear. It is the beat of her wings, several hundred times a second.
 - The side mirror of an auto-rickshaw while the engine idles. The picture in the mirror turns to a blur.
-- A kite string humming in the wind at Uttarayan in Gujarat, or at Pongal in Tamil Nadu.
-- The nadaswaram and the thavil at a wedding in Tamil Nadu: one is an air column, the other has two skins.
+- A kite string humming in the wind at Uttarayan or at Pongal.
+- The nadaswaram and the thavil at a wedding: one is an air column, the other has two skins.
 - Steel tumblers that rattle on the kitchen counter when the mixer-grinder runs.
 
 ## Open questions
@@ -728,6 +735,12 @@ Back and Forth, Again and Again (sci.sound.L5): Topic-level song
 ## Things to buy
 - [A packet of balloons](https://www.amazon.in/s?k=balloons+pack) (material): For the skin in the Dancing Light Spot. Any general store sells them. Used in p1. 
 - [Small craft mirrors, also sold as embroidery mirrors or shisha mirrors](https://www.amazon.in/s?k=embroidery+mirrors+small+round) (material): For the Dancing Light Spot. Craft and tailoring shops sell them. A mirror bindi or a mirror sequin from old clothes also works. Used in p1. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in The Thali and the Skin: how far can a sound shake a skin?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e2. Get it before The Thali and the Skin: how far can a sound shake a skin?.
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in The Comb Test: when do ticks become a note?. About ₹150 to ₹400. A phone stopwatch works well. Used in e1. Get it before The Comb Test: when do ticks become a note?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Thali and the Skin: how far can a sound shake a skin?, The Palm Pipe: play an air column with a slap, The Dancing Light Spot: a skin that shows your voice. About ₹10 to ₹30. Any school ruler is fine. Used in e2, a3, p1. Get it before The Thali and the Skin: how far can a sound shake a skin?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Palm Pipe: play an air column with a slap, The Dancing Light Spot: a skin that shows your voice. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in a3, p1. Get it before The Palm Pipe: play an air column with a slap.
+- [Iron nails or iron filings](https://www.amazon.in/s?k=iron+filings+science) (material): Used in The Comb Test: when do ticks become a note?. About ₹20 to ₹80. Short steel nails from a hardware shop. Used in e1. Get it before The Comb Test: when do ticks become a note?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is a vibration? → A movement back and forth, again and again.

@@ -1133,11 +1133,11 @@
       "t": "mcq",
       "q": "Two messages differ in 4 letters. Two others differ in 8. Which pair shared a parent message more recently?",
       "options": [
-       "The pair that differs in 4 letters",
        "The pair that differs in 8 letters",
+       "The pair that differs in 4 letters",
        "Nobody can tell from the letters"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The pair that differs in 4. Changes build up with every copying, so fewer differences mean fewer copyings since the two were one message. Choosing 8 mixes up 'more different' with 'more closely related'. Choosing 'nobody can tell' forgets that every copy changed at the same speed."
      },
      "context": "This is step 6 of 7 of the Hidden Tree Test. Here the hidden slips are shown and you compare the two trees."
@@ -2060,12 +2060,12 @@
      "t": "mcq",
      "p": "Which part does a mushroom cell have that a bacterium does not?",
      "opts": [
-      "A nucleus",
       "A cell membrane",
       "Genes",
+      "A nucleus",
       "Ribosomes"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A mushroom is a eukaryote, so each cell has a nucleus. Every cell of every kind has a membrane, genes and ribosomes, so those three cannot tell the two apart.",
      "outcome": 1
     },
@@ -2155,12 +2155,12 @@
      "t": "mcq",
      "p": "Which group is a label for 'everyone left over', and not one family?",
      "opts": [
-      "Protists",
       "Fungi",
       "Animals",
-      "Plants"
+      "Plants",
+      "Protists"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Protists are all the eukaryotes who are not animals, plants or fungi. They sit on many separate branches. Fungi, animals and plants are each one whole branch.",
      "outcome": 6
     },
@@ -2281,12 +2281,12 @@
      "t": "mcq",
      "p": "A being is one cell with a nucleus and no cell wall, and wraps round food. Which group?",
      "opts": [
-      "Protists",
       "Bacteria",
       "Fungi",
-      "Plants"
+      "Plants",
+      "Protists"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A nucleus rules out bacteria. No cell wall and wrapping round food rule out fungi and plants. One cell rules out animals. What is left is a protist, such as an amoeba.",
      "outcome": 0
     },
@@ -2347,12 +2347,12 @@
      "t": "mcq",
      "p": "Why did Carl Woese compare a gene for part of the ribosome?",
      "opts": [
-      "Every cell has that gene",
       "It is the shortest gene",
       "Only bacteria have it",
-      "It changes very fast"
+      "It changes very fast",
+      "Every cell has that gene"
      ],
-     "a": 0,
+     "a": 3,
      "why": "To compare all life, you need a gene that all life has. Every cell has ribosomes. The gene also changes slowly, so very old splits can still be read.",
      "outcome": 3
     },
@@ -2503,12 +2503,12 @@
      "t": "mcq",
      "p": "Why do very old splits in the tree of life give scientists the most trouble?",
      "opts": [
-      "The same letter can change twice",
       "Old genes are longer",
       "Old beings had no genes",
+      "The same letter can change twice",
       "Microscopes cannot see them"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Over billions of years the same place in a gene can change more than once, and a later change hides an earlier one. The count of differences then says less about time.",
      "outcome": 5
     },
@@ -2586,12 +2586,12 @@
      "t": "mcq",
      "p": "Infections caused by fungi are often harder to treat than those caused by bacteria. Why?",
      "opts": [
-      "Fungus cells are much like ours",
       "Fungi are too small to reach",
+      "Fungus cells are much like ours",
       "Fungi have no genes",
       "Fungi are a kind of plant"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Fungi are our close relatives, so their cells work much as ours do. A medicine that harms a fungus cell can easily harm our cells too. Bacteria are built very differently, so more medicines can hit them alone.",
      "outcome": 2
     },
@@ -2715,12 +2715,12 @@
    "t": "mcq",
    "p": "Which of these living beings has a cell with no nucleus?",
    "opts": [
-    "A curd bacterium",
     "A yeast",
+    "A curd bacterium",
     "An amoeba",
     "A moss"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Bacteria have no nucleus. Yeast, amoebae and mosses are eukaryotes, so their cells have one. Choosing yeast or amoeba mixes up 'one cell' with 'no nucleus'.",
    "outcome": 1
   },
@@ -2754,12 +2754,12 @@
    "t": "mcq",
    "p": "What first showed that archaea are not bacteria?",
    "opts": [
-    "Their ribosome gene was very different",
     "They are much bigger",
     "They are green",
-    "They have a nucleus"
+    "They have a nucleus",
+    "Their ribosome gene was very different"
    ],
-   "a": 0,
+   "a": 3,
    "why": "In 1977 Carl Woese and George Fox found that the ribosome gene of methane-makers was as far from bacteria's as from ours. Archaea are the same size as bacteria and have no nucleus.",
    "outcome": 4
   },
@@ -2787,12 +2787,12 @@
    "t": "mcq",
    "p": "Why do scientists say that protists are not one family?",
    "opts": [
-    "They sit on many separate branches",
     "They are all too small",
     "They have no genes",
-    "They are all parasites"
+    "They are all parasites",
+    "They sit on many separate branches"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Protists are every eukaryote who is not an animal, a plant or a fungus. Some are nearer to animals, and some nearer to plants. Many are not parasites, and some are large seaweeds.",
    "outcome": 6
   },
@@ -2800,12 +2800,12 @@
    "t": "mcq",
    "p": "Where did the mitochondria in your cells come from?",
    "opts": [
-    "Bacteria who lived inside another cell",
     "The food you eat",
     "Plants",
-    "Viruses"
+    "Viruses",
+    "Bacteria who lived inside another cell"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Mitochondria are descended from bacteria who began living inside another cell about two billion years ago. They still have a little DNA of their own, which matches bacteria.",
    "outcome": 5
   },
@@ -2826,12 +2826,12 @@
    "t": "mcq",
    "p": "Which living beings have the most branches on the tree of life?",
    "opts": [
-    "Microbes",
     "Animals",
     "Plants",
-    "Fungi"
+    "Fungi",
+    "Microbes"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Life was only microbes for most of its history, so microbes have had the longest time to branch. Animals look many to us because we can see them.",
    "outcome": 7
   },
@@ -3138,6 +3138,105 @@
     "a2"
    ],
    "plan": "Read it together after Four Maps of Life. Ask your child which of the four maps the book uses, and what they would redraw."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Hidden Tree Test: can counting letters rebuild a family tree that nobody shows you?, Light or Dark: does a mould need light the way a seedling does?, The Weight of Life: a paper strip for every big group. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e2",
+    "a4",
+    "c2"
+   ],
+   "plan": "Get it before The Hidden Tree Test: can counting letters rebuild a family tree that nobody shows you?."
+  },
+  {
+   "id": "b-paper-masking-tape",
+   "item": "Paper masking tape",
+   "kind": "material",
+   "why": "Used in A Census of Our Home: how many of the big groups of life live with us?, A Chart That Survives a New Discovery. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor.",
+   "url": "https://www.amazon.in/s?k=paper+masking+tape",
+   "used_in": [
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before A Census of Our Home: how many of the big groups of life live with us?."
+  },
+  {
+   "id": "b-sticky-notes",
+   "item": "Sticky notes",
+   "kind": "material",
+   "why": "Used in A Chart That Survives a New Discovery. About ₹20 to ₹60. Small torn paper and tape do the same job.",
+   "url": "https://www.amazon.in/s?k=sticky+notes+pack",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before A Chart That Survives a New Discovery."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Light or Dark: does a mould need light the way a seedling does?, A Census of Our Home: how many of the big groups of life live with us?, A Chart That Survives a New Discovery. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "e2",
+    "p1",
+    "c1",
+    "c2"
+   ],
+   "plan": "Get it before Light or Dark: does a mould need light the way a seedling does?."
+  },
+  {
+   "id": "b-cotton-wool",
+   "item": "Cotton wool",
+   "kind": "material",
+   "why": "Used in Light or Dark: does a mould need light the way a seedling does?. About ₹20 to ₹50. Torn clean cloth works.",
+   "url": "https://www.amazon.in/s?k=cotton+wool+roll",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before Light or Dark: does a mould need light the way a seedling does?."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in Light or Dark: does a mould need light the way a seedling does?. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before Light or Dark: does a mould need light the way a seedling does?."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in Light or Dark: does a mould need light the way a seedling does?. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before Light or Dark: does a mould need light the way a seedling does?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

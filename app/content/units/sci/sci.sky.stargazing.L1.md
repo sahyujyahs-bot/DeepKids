@@ -1,9 +1,9 @@
 # Stargazing: the Moon, bright stars and planets, and why the Moon seems to follow you
 `sci.sky.stargazing.L1`
 
-**Summary.** Why does the Moon seem to follow you when you walk? In this unit you will draw the Moon's face, test the following with a strip at a window, sort Moon, star, planet and plane cards, and learn to tell a twinkling star from a steady planet.
+**Summary.** Why does the Moon seem to follow you when you walk? In this lesson you will draw the Moon's face, test the following with a strip at a window, sort Moon, star, planet and plane cards, and learn to tell a twinkling star from a steady planet.
 
-**Intro.** *Have you ever looked at the Moon from a moving bus, car or auto? What did the Moon do?* Most children say the Moon followed them. The trees and lamp posts rushed past, but the Moon stayed beside the window. Is the Moon really following you? In this unit you test it at your own window. You also find out which bright dots in the night sky are stars, which are planets, and which are aeroplanes.
+**Intro.** *Have you ever looked at the Moon from a moving bus, car or auto? What did the Moon do?* Most children say the Moon followed them. The trees and lamp posts rushed past, but the Moon stayed beside the window. Is the Moon really following you? In this lesson you test it at your own window. You also find out which bright dots in the night sky are stars, which are planets, and which are aeroplanes.
 
 ## Learning outcomes
 0. By the end I can find the Moon and bright stars in the night sky, and tell them from an aeroplane.
@@ -26,6 +26,8 @@ In the window strip test, the paper strips slid past the Moon when you walked. A
 - e.g. In the window strip test, the paper strips slid past, and the Moon stayed put.
 - e.g. From a moving train, the poles by the track flash past, far hills move slowly, and the Moon seems to keep up.
 - e.g. In the tumbler test, the near tumbler jumped across the far wall when you took two steps.
+- **Indian lullabies:** Call the Moon chanda mama, uncle Moon, who walks along with the child. It is how the Moon looks and feels.
+- **Astronomers:** Explain that near things slide past quickly and far things hardly move, which is parallax. The Moon is about 384,000 kilometres away, so it seems to follow us.
 ### The Moon and the planets shine with sunlight · *defined*
 **Definition:** The Moon and the planets make no light of their own. We see them because sunlight falls on them and bounces off into our eyes.
 
@@ -33,6 +35,8 @@ The Moon is a ball of grey rock. At night the Sun is shining on the other side o
 - e.g. The bright side of the Moon always faces the Sun.
 - e.g. Venus shines brightly just after sunset, lit by the Sun that has just gone down.
 - e.g. A steel plate in a dark room cannot be seen, but shines when a torch falls on it. The Moon is like the plate, and the Sun is like the torch.
+- **Everyday view:** The Moon is a light in the sky.
+- **Aryabhata (499 CE) and Anaxagoras:** Said the Moon and the planets shine only because the Sun lights them. Aryabhata also said the Moon's phases come from the Sun's light falling on it.
 ### The stars are faraway suns, in different colours · *defined*
 **Definition:** Every star is a sun, a huge ball of very hot gas that makes its own light. Stars look like tiny dots because they are very far away.
 
@@ -40,6 +44,8 @@ The Sun is our nearest star. The other stars are so far away that their light ta
 - e.g. Thiruvathirai, also called Ardra, is a bright reddish orange star in the winter evening sky.
 - e.g. Sirius, the brightest star at night, looks bluish white and often twinkles in many colours when low.
 - e.g. A gas flame is blue where it is hottest. A dying coal glows red because it is cooler. Stars are the same: their colour shows how hot they are.
+- **Aristotle and many ancient thinkers:** Believed the stars are lights fixed on a great sphere around the Earth.
+- **Giordano Bruno (1584) and later astronomers:** Said every star is a sun, far away, and perhaps with planets of its own. Distances to the stars were first measured in 1838.
 ### Stars twinkle, and planets usually shine steadily · *defined*
 **Definition:** Starlight flickers because the moving air above us bends it this way and that. Planets usually shine more steadily.
 
@@ -47,6 +53,8 @@ Starlight passes through a thick blanket of moving air before it reaches us, and
 - e.g. Stars low down near the rooftops twinkle more, because their light passes through more air.
 - e.g. Jupiter usually shines steadily, like a calm lamp.
 - e.g. Astronauts in space see the stars shine steadily, with no twinkle.
+- **Isaac Newton:** Wrote in his Opticks in 1704 that stars twinkle because the air shakes, and said that telescopes should be set on the highest mountains.
+- **Modern astronomers:** Launch telescopes, like the Hubble, above the air, and also use mirrors that change shape hundreds of times a second, called adaptive optics, to cancel the shaking.
 
 ## Mostly agreed
 - The Moon makes no light of its own. It shines with sunlight. *How we know:* The bright side of the Moon always faces the Sun. Spacecraft such as India's Chandrayaan have photographed the Moon up close: grey rock and dust, with no fire or lamp.
@@ -402,7 +410,7 @@ Appa looked at the Moon for a long time. "When I was small, in my village, I tho
 5. (write) Your friend says, 'The stars are tiny, as small as glitter.' Say out loud what you would tell her, and a grown-up writes it.  
    **Answer:** The stars only look tiny because they are very far away. Each one is a sun, and some are much bigger than our Sun.. *Why:* A strong answer says that the stars look small because they are far, and that they are really suns.
 6. (mcq) In the hot tawa test, the stove was switched off and the tawa cooled. What happened to the shivering?  
-   Options: It got weaker / It got stronger / The torch went off  
+   Options: It got stronger / The torch went off / It got weaker  
    **Answer:** It got weaker. *Why:* As the tawa cooled, less warm air rose from it, so the light shivered less. Without moving warm air, the light looks steady.
 7. (odd) Three of these usually twinkle. Which one usually does not? Circle it.  
    Options: A star low over the rooftops / A star high overhead / Venus / A bright star such as Sirius  
@@ -412,7 +420,7 @@ Appa looked at the Moon for a long time. "When I was small, in my village, I tho
 9. (write) A friend says, 'Every bright dot in the night sky is a star.' Say out loud what you would tell her, and a grown-up writes it.  
    **Answer:** Some bright dots are planets, and they shine steadily. Some are aeroplanes that move and blink red and green. Stars twinkle.. *Why:* A strong answer names at least one other kind of bright dot and says how to tell it from a star.
 10. (match) Draw a line from each test to what it shows.  
-   **Answer:** The window strip test → Near things slide past, and the far Moon stays put; The hot tawa test → Moving warm air makes a steady light shiver; Rolling a ball with your eyes shut → Beetles and people need to see the sky to go straight. *Why:* Each test shows one idea from this unit: how far away the Moon is, why stars twinkle, and why a dung beetle watches the sky.
+   **Answer:** The window strip test → Near things slide past, and the far Moon stays put; The hot tawa test → Moving warm air makes a steady light shiver; Rolling a ball with your eyes shut → Beetles and people need to see the sky to go straight. *Why:* Each test shows one idea from this lesson: how far away the Moon is, why stars twinkle, and why a dung beetle watches the sky.
 
 ## Videos
 - **Dung beetles navigate using the stars** (Science Channel, 2 min) id `MMlOKY734TM`: Shows the real beetles that Marie Dacke's team studied, finding their way using the Milky Way. *Check:* Found by search: "Dung Beetles Navigate Using the Stars" by Science Channel, 1 minute 48 seconds. A parent may preview it.
@@ -421,19 +429,19 @@ Appa looked at the Moon for a long time. "When I was small, in my village, I tho
 
 ## Quiz
 1. (mcq) From a moving bus, the street lamps rush past. What does the Moon seem to do?  
-   Options: Come along with the bus / Rush past like the lamps / Go behind the bus  
+   Options: Rush past like the lamps / Go behind the bus / Come along with the bus  
    **Answer:** Come along with the bus. *Why:* The Moon is so far away that the bus ride hardly changes where you see it, so it seems to come along.
 2. (mcq) You take two steps sideways. A steel tumbler on a stool seems to jump across the far wall. Why?  
-   Options: The tumbler is near you, so a few steps change where you see it / The tumbler jumped by itself / The wall moved  
+   Options: The tumbler jumped by itself / The tumbler is near you, so a few steps change where you see it / The wall moved  
    **Answer:** The tumbler is near you, so a few steps change where you see it. *Why:* Near things seem to move a lot when you move, and far things hardly move at all. Only you moved.
 3. (mcq) One person in Chennai and another in Guwahati look up at the night sky at the same time. What do they see?  
    Options: The same Moon / Two different Moons / Only the person in Guwahati can see the Moon  
    **Answer:** The same Moon. *Why:* There is one Moon. It is so far away that people all over India see it at the same time.
 4. (mcq) Where does the Moon's light come from?  
-   Options: The Sun / A fire inside the Moon / The stars  
+   Options: A fire inside the Moon / The stars / The Sun  
    **Answer:** The Sun. *Why:* The Moon is grey rock with no light of its own. Sunlight falls on it and bounces to us.
 5. (mcq) Which of these makes its own light?  
-   Options: A star / Venus / The Moon  
+   Options: Venus / The Moon / A star  
    **Answer:** A star. *Why:* A star is a sun. Venus is a planet, and Venus and the Moon shine only with sunlight.
 6. (mcq) Why do stars close to the rooftops twinkle more than stars high up?  
    Options: Their light goes through more air / They are nearer to us / They are hotter  
@@ -442,13 +450,13 @@ Appa looked at the Moon for a long time. "When I was small, in my village, I tho
    Options: From a spacecraft above the air / From a balcony on a windy night / From a bus window  
    **Answer:** From a spacecraft above the air. *Why:* Twinkling comes from the moving air. Above the air, in space, stars shine steadily.
 8. (mcq) You see a bright dot in the night sky that does not twinkle at all. What could it be?  
-   Options: A planet / A star / A shooting star  
+   Options: A star / A shooting star / A planet  
    **Answer:** A planet. *Why:* Stars usually twinkle. Planets usually shine steadily, because their light comes from a tiny round patch, not a single point.
 9. (mcq) Why do stars twinkle?  
    Options: Moving air wobbles their light / They switch on and off / They are spinning fast  
    **Answer:** Moving air wobbles their light. *Why:* The air above us is always moving. It bends starlight this way and that, so the star seems to flicker.
 10. (mcq) A light moves across the night sky and blinks red and green. What is it?  
-   Options: An aeroplane / A planet / The Moon  
+   Options: A planet / An aeroplane / The Moon  
    **Answer:** An aeroplane. *Why:* Aeroplanes have blinking red and green lamps, and they move across the sky quickly. Planets and the Moon don't blink.
 
 ## Applications
@@ -459,13 +467,13 @@ Appa looked at the Moon for a long time. "When I was small, in my village, I tho
 - Dark sky places such as Hanle in Ladakh keep lights low so that telescopes and people can see the stars.
 
 ## Spotted around us
-- On every full Moon night, thousands of people walk round the Arunachala hill at Tiruvannamalai, in Tamil Nadu, by moonlight.
-- Tamil children sing 'Nila nila odi vaa', asking the Moon to come running. In Kerala, the Moon is called Ambili Ammavan, Uncle Moon.
+- On every full Moon night, thousands of people walk round a sacred hill by moonlight.
+- Children sing 'Nila nila odi vaa', asking the Moon to come running. The Moon is also called Uncle Moon.
 - Telugu families sing 'Chandamama raave' to little children, calling the Moon to come and play.
-- On Kojagiri Purnima in Maharashtra, families stay up to see the full Moon and drink warm masala milk.
-- In Bengal, on the full Moon night after Durga Puja, families keep Kojagori Lakshmi Puja.
-- At the end of Ramzan, people all over India look for the thin new crescent Moon before Eid begins.
-- At Hanle in Ladakh, India's first Dark Sky Reserve, the sky is so dark that the Milky Way shines over the hills.
+- On Kojagiri Purnima, families stay up to see the full Moon and drink warm masala milk.
+- On the full Moon night after Durga Puja, families keep Kojagori Lakshmi Puja.
+- At the end of Ramzan, people look for the thin new crescent Moon before Eid begins.
+- A dark sky far from town lights, where the Milky Way shines over the hills.
 
 ## Open questions
 - **How was the Moon made?** Most scientists think a planet-sized rock crashed into the young Earth, and the Moon formed from the pieces. They still argue about how big the crash was and what the pieces were made of.
@@ -503,10 +511,12 @@ Moon at My Window (sci.sky.L1): Topic-level song for Sun, Moon, stars and planet
 ## Links
 - [Stellarium Web](https://stellarium-web.org) · simulation: A free sky map in your web browser. Set your town and the time to see where the Moon and the planets are tonight.
 - [NASA Space Place: All about the Moon](https://spaceplace.nasa.gov/all-about-the-moon/en/) · interactive: For the parent to read aloud: simple pages and pictures about the Moon.
-- [Jawaharlal Nehru Planetarium]() · place · Bengaluru: Sky shows about the Moon, the stars and the planets, good for a family day out.
-- [Priyadarsini Planetarium]() · place · Thalassery: A planetarium with sky shows about the Moon, the stars and the planets.
+- Jawaharlal Nehru Planetarium · place · Bengaluru: Sky shows about the Moon, the stars and the planets, good for a family day out.
+- Priyadarsini Planetarium · place · Thalassery: A planetarium with sky shows about the Moon, the stars and the planets.
 
 ## Things to buy
+- [Small torch bulbs or LEDs with a holder](https://www.amazon.in/s?k=torch+bulb+holder+set) (tool): Used in Why Do Stars Twinkle? The hot tawa test. About ₹10 to ₹50. A small torch can be taken apart for its bulb. Used in e2. Get it before Why Do Stars Twinkle? The hot tawa test.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Does the Moon make its own light? → No. It shines with sunlight.
@@ -524,8 +534,8 @@ Moon at My Window (sci.sky.L1): Topic-level song for Sun, Moon, stars and planet
 ## Sources
 - Curriculum entry sci.sky.stargazing.L1 (looking at the night sky: Moon, bright stars, planets), and the founder's notebook item phy:41 (observational astronomy: naked-eye sky, constellations, planets). No board chapter is listed for this level.
 - ideas/by_topic/the-universe-sun-moon-stars-and-planets.md: the notebook's women astronomers (SCI cards) shaped the choice to credit Marie Dacke. Its galaxy and expansion grids belong to later levels.
-- The Level 3 stargazing unit teaches constellations, nakshatras, dark-adapted eyes and the Moon's daily step among the stars. This unit leaves all of those to it, and prepares for them with naming what is in the sky, twinkling, and why the Moon seems to follow us.
-- The sister unit sci.sky.sun-moon-stars.L1 already has the torch-in-the-sun test, the window star count and the city lights card, so this unit does not repeat them. It covers why the Moon seems to follow us, twinkling, star colours and telling planets and aeroplanes from stars.
+- The Level 3 stargazing unit teaches constellations, nakshatras, dark-adapted eyes and the Moon's daily step among the stars. This lesson leaves all of those to it, and prepares for them with naming what is in the sky, twinkling, and why the Moon seems to follow us.
+- The sister unit sci.sky.sun-moon-stars.L1 already has the torch-in-the-sun test, the window star count and the city lights card, so this lesson does not repeat them. It covers why the Moon seems to follow us, twinkling, star colours and telling planets and aeroplanes from stars.
 - Average Earth to Moon distance: about 384,400 km. At 80 km per hour without stopping, that is about 4,800 hours, or about 200 days.
 - M. Dacke, E. Baird, M. Byrne, C. H. Scholtz and E. J. Warrant, 'Dung beetles use the Milky Way for orientation', Current Biology 23 (2013): beetles rolled straight under a starry sky and a planetarium Milky Way, and lost their way when the sky was hidden.
 - Aristotle, On the Heavens, Book 2, chapter 8: the planets do not twinkle because they are near, and the stars twinkle because our sight trembles over the great distance. Isaac Newton, Opticks (1704), Book 1: twinkling comes from the trembling of the air, and telescopes work best in the still air of high mountains.

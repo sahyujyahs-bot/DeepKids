@@ -678,10 +678,10 @@
       "q": "Someone eats a guava without washing it. Which defence kills most of the germs on it?",
       "options": [
        "Tears",
-       "Stomach acid",
-       "Nose hairs"
+       "Nose hairs",
+       "Stomach acid"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Food goes down into the stomach, where a strong, sour acid kills most germs. Tears protect the eyes and nose hairs protect the nose, so they never meet the guava. A Body player who picks tears is thinking 'any defence works'. In this game, the defence must be in the right place."
      },
      "context": "This is step 2 of 5 of Get Past the Walls! This is a card game about the body's defences. One side plays germs trying to get in. The other side plays the walls and white blood cells that stop them."
@@ -697,11 +697,11 @@
       "t": "mcq",
       "q": "The germ card says 'Germs in a cut that nobody washed.' The skin is broken. Which defence card can stop these germs now?",
       "options": [
-       "Tears",
        "White blood cell",
+       "Tears",
        "Saliva"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Once germs are inside a cut, the outer walls are behind them. Now the inside defenders take over: white blood cells come through the blood and eat the germs. Tears and saliva only work at the eyes and mouth. Picking them is a sign of thinking every defence works everywhere."
      },
      "context": "This is step 3 of 5 of Get Past the Walls! This is a card game about the body's defences. One side plays germs trying to get in. The other side plays the walls and white blood cells that stop them."
@@ -801,11 +801,11 @@
       "t": "mcq",
       "q": "In Germ Tag, the germ players must hop in the fever round. What does the hopping stand for?",
       "options": [
-       "Many germs grow more slowly when the body is hotter",
        "Fever makes white blood cells sleepy",
+       "Many germs grow more slowly when the body is hotter",
        "Germs like heat"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A fever is the brain turning up the body's heat. Many germs grow and spread more slowly when it is warmer, and some white blood cells work faster. Picking 'white blood cells get sleepy' mixes up how you feel with how your cells work."
      },
      "context": "This is step 3 of 5 of Germ Tag. This is a running game. Some players are germs trying to reach a cushion, the body. Others are skin and a fast white blood cell who tags germs out."
@@ -843,10 +843,10 @@
      "p": "Germs land on your hands all day long. Yet most days you do not fall ill. What is the best reason?",
      "opts": [
       "Germs are too small to hurt anyone",
-      "Your skin is a tight wall with no gaps, so most germs stay outside",
-      "Germs that land on hands always die at once"
+      "Germs that land on hands always die at once",
+      "Your skin is a tight wall with no gaps, so most germs stay outside"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Skin is the body's biggest wall. Its top layer is made of flat dead cells packed tightly together, so germs cannot get through unless there is a cut. Germs are small, but some can make you very ill if they get inside. A strong answer names the skin as a wall."
     },
     {
@@ -1051,11 +1051,11 @@
      "t": "mcq",
      "p": "Dust tickles the inside of your nose, and you sneeze. What is the sneeze doing for you?",
      "opts": [
-      "Pulling more dust deep into your chest",
       "Blowing the dust and germs, caught in mucus, out of your nose",
+      "Pulling more dust deep into your chest",
       "Warming up your nose"
      ],
-     "a": 1,
+     "a": 0,
      "why": "A sneeze is the nose's wall at work. The mucus catches dust and germs, and the sneeze blasts them out. A strong answer says what is thrown out and why it helps."
     },
     {
@@ -1142,11 +1142,11 @@
      "t": "mcq",
      "p": "Antibiotics are medicines that kill bacteria. A cold is caused by a virus. Will an antibiotic help someone with a cold get better?",
      "opts": [
-      "Yes, antibiotics kill every kind of germ",
       "No. Antibiotics do not work on viruses. Rest, water and the body's own immune system will beat the cold.",
+      "Yes, antibiotics kill every kind of germ",
       "Only if she takes a double dose"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Many people think antibiotics cure colds. They do not, because a cold is caused by a virus, not bacteria. Taking antibiotics when they are not needed also helps bacteria learn to survive them. A strong answer says why: antibiotics work on bacteria only."
     },
     {
@@ -1185,11 +1185,11 @@
      "t": "mcq",
      "p": "A vaccine shows the immune system a harmless form of a germ, such as a dead or weakened one. Why does this help when the real germ comes later?",
      "opts": [
-      "The body recognises the germs and fights them much faster",
       "The vaccine makes the skin thicker",
-      "The vaccine kills every microbe in the body"
+      "The vaccine kills every microbe in the body",
+      "The body recognises the germs and fights them much faster"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The immune system remembers the shapes on a germ. After a vaccine, the body has met those shapes already. When the real germ arrives, the body is ready, and fights before the germ can make you very ill."
     },
     {
@@ -1234,35 +1234,35 @@
      "p": "Your immune system does not attack the food you eat, even though food comes from outside. What is one idea scientists have for why?",
      "opts": [
       "Food has no shapes on it",
-      "The stomach hides food from white blood cells forever",
       "It attacks only things that send 'danger' signals, like hurt cells",
+      "The stomach hides food from white blood cells forever",
       "White blood cells are asleep after meals"
      ],
-     "a": 2,
+     "a": 1,
      "why": "Polly Matzinger's 'danger model' says the immune system reacts to danger, not just to anything new. Food, friendly microbes and a growing baby don't send danger signals. Most scientists think danger and 'self' both matter. Food does have shapes, so that answer doesn't work."
     },
     {
      "t": "mcq",
      "p": "Plants have no blood and no white blood cells. How do they defend themselves?",
      "opts": [
-      "They can't defend themselves at all",
       "Waxy leaves, closing leaf pores, sticky sap and chemical alarms",
+      "They can't defend themselves at all",
       "They run away from germs",
       "They grow white blood cells in their roots"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Plants have their own defences. They close the tiny holes in their leaves when germs land, seal wounds with sap, and send chemical warnings to other leaves. Picking 'can't defend' is natural, because we can't see a plant's fight."
     },
     {
      "t": "mcq",
      "p": "Bacteria are single cells. Can they defend themselves against viruses?",
      "opts": [
+      "Yes, some cut up virus pieces and remember them, using a system called CRISPR",
       "No, bacteria have no defences",
       "Only if they live inside people",
-      "Yes, some cut up virus pieces and remember them, using a system called CRISPR",
       "Only in hot places"
      ],
-     "a": 2,
+     "a": 0,
      "why": "In 2007, scientists found that some bacteria, like those used to make yoghurt, store bits of the viruses that attacked them. Next time, the bacteria use these bits to recognise the same viruses and cut them up. Even a single cell has an immune system."
     },
     {
@@ -1270,11 +1270,11 @@
      "p": "A body thermometer reads 101 degrees Fahrenheit. What is that in Celsius, roughly, and is it a fever?",
      "opts": [
       "About 101 degrees Celsius: boiling hot",
-      "About 38.3 degrees Celsius: yes, a fever",
       "About 36 degrees Celsius: normal",
-      "You can't tell"
+      "You can't tell",
+      "About 38.3 degrees Celsius: yes, a fever"
      ],
-     "a": 1,
+     "a": 3,
      "why": "Normal is about 98.6 degrees Fahrenheit, which is 37 degrees Celsius. A fever starts at about 100.4 degrees Fahrenheit, which is 38 degrees Celsius. So 101 Fahrenheit is about 38.3 Celsius, a fever. Picking 101 Celsius mixes up the two scales.",
      "art": "Two thermometer faces side by side, one in Celsius and one in Fahrenheit."
     },
@@ -1648,11 +1648,11 @@
       "t": "mcq",
       "q": "In the apple skin test, why do we wash cut D but not cut C?",
       "options": [
-       "To see if washing a cut helps",
        "To make apple D taste better",
+       "To see if washing a cut helps",
        "Because D was the biggest cut"
       ],
-      "a": 0,
+      "a": 1,
       "why": "C and D both get soil. The only difference is washing. So if D stays fresher than C, washing must be what helped. That is a fair test: only one thing changes. Picking 'biggest cut' would break the fair test, because all the cuts are the same size."
      },
      "context": "This is step 3 of 6 of The Apple Skin Test. In this experiment you test four apples. One has its skin whole, and three have a small cut. You watch them for about a week to see which go bad first. It shows how skin keeps germs out."
@@ -1833,11 +1833,11 @@
       "t": "mcq",
       "q": "The thermometer reads 36.7 degrees Celsius. Is that a fever?",
       "options": [
-       "No, it is normal",
        "Yes, it is a high fever",
+       "No, it is normal",
        "Yes, it is a small fever"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Normal body temperature is around 36 to 37 degrees Celsius. Doctors usually call 38 degrees or more a fever. So 36.7 is normal. Picking 'fever' often means thinking any number above 36 is too hot."
      },
      "parent": "Under the arm reads a little lower than in the mouth. That's fine, as long as you measure the same way each time.",
@@ -2181,11 +2181,11 @@
       "t": "mcq",
       "q": "A grown-up cut an onion near you, and your eyes filled with tears. Why?",
       "options": [
-       "To wash out the stinging gas",
        "Because you were sad",
+       "To wash out the stinging gas",
        "Because onions are made of water"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Tears are a defence. When something stings or lands in the eye, the eye makes extra tears to wash it out. You weren't sad. Picking 'sad' shows we often think tears are only for feelings. In fact your eyes make tears all day, and every blink spreads them."
      },
      "think": "Your eyes washed themselves without asking you. What else does your body do to protect you without asking?",
@@ -2266,11 +2266,11 @@
       "t": "mcq",
       "q": "You pressed tape on your arm and stuck it on black paper. What are the tiny white flakes on it?",
       "options": [
-       "Dead skin cells from the top layer",
        "Germs",
-       "Dust from the air"
+       "Dust from the air",
+       "Dead skin cells from the top layer"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The top layer of skin is made of flat, dead cells. They are always being pushed up from below and flaking off. Germs are far too small to see with a magnifying glass. Picking 'germs' is a common guess, but you would need a microscope to see them."
      },
      "context": "This is step 2 of 3 of Look at Your Skin Wall. In this activity you look closely at your own skin with a magnifying glass. You will find out what the outer wall of your skin is made of, by lifting some of it off with sticky tape.",
@@ -2372,11 +2372,11 @@
       "t": "mcq",
       "q": "How do real white blood cells find a germ?",
       "options": [
-       "They follow chemical signals and feel the germ's shapes",
        "They see the germ with tiny eyes",
+       "They follow chemical signals and feel the germ's shapes",
        "They hear the germ moving"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A white blood cell has no eyes or ears. Hurt cells give off chemical signals, and the white blood cell crawls towards the signals. When the cell touches a germ, shapes on the germ fit shapes on the cell, like a key in a lock. Picking 'eyes' is a natural guess, because that is how we find things."
      },
      "context": "This is step 2 of 3 of Be a Phagocyte. In this activity you act out how a white blood cell eats a germ. You will find out how a cell with no eyes finds its germs. Your hand, inside a sock, is the white blood cell. Small balls of paper are the germs."
@@ -2626,11 +2626,11 @@
       "t": "mcq",
       "q": "What is a scab on a scraped knee for?",
       "options": [
-       "It seals the hole while new skin grows underneath",
        "It is where the germs live",
-       "It is dead germs"
+       "It is dead germs",
+       "It seals the hole while new skin grows underneath"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A scab is dried blood and a sticky mesh. It closes the hole in the skin wall, so fewer germs get in while new skin grows below. That is why we don't pick scabs. Picking 'where germs live' is a common worry, but a clean scab is a lid, not a germ nest."
      },
      "parent": "There is no single right drawing. Look for a wall with a gap, germs getting in, white blood cells coming from the blood, and a scab sealing it. Praise any label the child explains in their own words.",
@@ -2741,11 +2741,11 @@
       "t": "mcq",
       "q": "In the body castle, germs got through a cut in the wall. Who comes to fight them?",
       "options": [
-       "White blood cells, through the blood",
        "Tears from the eyes",
-       "Saliva from the mouth"
+       "Saliva from the mouth",
+       "White blood cells, through the blood"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Once germs are through the skin, the inside defenders take over. White blood cells travel in the blood and squeeze out where they are needed. Tears and saliva guard only the eyes and mouth. Picking them means thinking all defences are the same, but each one guards its own place."
      },
      "context": "This is step 3 of 4 of Build the Body Castle. In this 2-day project you build a cardboard castle that shows all the body's defences: walls, gates, guards and a heat knob. Then you give a tour of it to your family."
@@ -2852,11 +2852,11 @@
       "t": "mcq",
       "q": "In the sneeze stopper test, a hand and an elbow both caught many drops. So why do doctors say to sneeze into your elbow, not your hand?",
       "options": [
-       "Hands touch food, faces and door handles, and spread the germs",
        "Elbows are cleaner inside",
-       "Hands catch no drops at all"
+       "Hands catch no drops at all",
+       "Hands touch food, faces and door handles, and spread the germs"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A hand catches drops, but then it touches everything, passing the germs on. An elbow does not touch much. Picking 'hands catch no drops' does not fit the test: the hand did catch drops. The problem is what happens next."
      },
      "context": "This is step 2 of 3 of The Sneeze Stopper. This is a design challenge. A spray bottle makes a pretend sneeze. You test ways to catch it, and design the best sneeze stopper you can."
@@ -2933,11 +2933,11 @@
       "t": "mcq",
       "q": "Why do we cover a cut on our skin?",
       "options": [
-       "The cut is a hole in the skin wall, and a cover keeps germs out while it heals",
        "To make the cut stop hurting at once",
-       "Because germs like the dark"
+       "Because germs like the dark",
+       "The cut is a hole in the skin wall, and a cover keeps germs out while it heals"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Skin keeps germs out only when it has no holes. A cut is a hole. A clean cover acts like a wall until new skin grows. Picking 'to stop it hurting' is understandable, but covering doesn't take away the pain. Its job is to keep germs out."
      },
      "context": "This is a design challenge. You design a cover for a pretend cut on a banana. It must keep out 'germs' (flour and coloured water), stay on, and come off easily. You will find out what makes a good cover for a cut."
@@ -2984,11 +2984,11 @@
    "t": "mcq",
    "p": "Someone says the immune system is one organ, like the heart. Is that right?",
    "opts": [
-    "Yes. It sits in the chest",
     "No. It is many parts working together, like skin, tears, mucus, white blood cells and fever",
+    "Yes. It sits in the chest",
     "Yes. It is the stomach"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The immune system is not one organ. It is everything the body does to keep germs out and to fight the ones that get in.",
    "outcome": 0
   },
@@ -2996,11 +2996,11 @@
    "t": "mcq",
    "p": "When you have a cold, your nose runs with extra mucus. How might that help you?",
    "opts": [
-    "The extra mucus traps germs and carries them out",
     "The extra mucus feeds the germs",
+    "The extra mucus traps germs and carries them out",
     "It does not help at all"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Mucus is a sticky trap. More mucus means more germs are caught and blown out or swallowed. A runny nose is annoying, but it is part of the fight.",
    "outcome": 1
   },
@@ -3020,11 +3020,11 @@
    "t": "mcq",
    "p": "What do phagocytes do when they touch germs?",
    "opts": [
-    "They wrap round the germs and swallow them",
     "They run away from the germs",
-    "They turn into germs"
+    "They turn into germs",
+    "They wrap round the germs and swallow them"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A phagocyte is a white blood cell that eats germs. Phagocytes wrap round germs, pull them inside and break them down with chemicals.",
    "outcome": 2
   },
@@ -3032,12 +3032,12 @@
    "t": "mcq",
    "p": "A child has a fever. Which of these means a grown-up should call a doctor quickly?",
    "opts": [
+    "The child has a stiff neck and a new rash",
     "The child feels warm and sleepy for one evening",
     "The child wants water",
-    "The child has a stiff neck and a new rash",
     "The child wants a blanket"
    ],
-   "a": 2,
+   "a": 0,
    "why": "A doctor is needed for a stiff neck, a rash, trouble breathing or a fit. A doctor is also needed for a fever of 40 degrees or more, one lasting more than 3 days, or any fever in a baby under 3 months. Feeling warm, sleepy and thirsty is common in an ordinary fever.",
    "outcome": 3
   },
@@ -3061,10 +3061,10 @@
    "p": "Curd is full of microbes. Is eating curd harmful?",
    "opts": [
     "Yes. All microbes are germs",
-    "No. The microbes in curd are friendly, and many friendly microbes live in our gut and help us",
-    "Only if the curd is cold"
+    "Only if the curd is cold",
+    "No. The microbes in curd are friendly, and many friendly microbes live in our gut and help us"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Only a few microbes are germs. The ones that turn milk into curd are friendly. Picking 'all microbes are germs' is the most common idea, and many adverts encourage it.",
    "outcome": 5
   },
@@ -3074,10 +3074,10 @@
    "opts": [
     "Making your eyes see better",
     "Turning tears salty",
-    "Breaking open the outer coat of some bacteria",
-    "Feeding friendly microbes"
+    "Feeding friendly microbes",
+    "Breaking open the outer coat of some bacteria"
    ],
-   "a": 2,
+   "a": 3,
    "why": "Lysozyme fits a part of a bacterium's coat, like a key in a lock, and snips it so the bacterium bursts. Alexander Fleming found it in 1921.",
    "outcome": 6
   },
@@ -3086,10 +3086,10 @@
    "p": "When a neem tree is cut, sticky gum oozes out and hardens over the cut. Which of your body's defences is this most like?",
    "opts": [
     "A sneeze",
-    "A scab sealing a cut",
-    "Crying"
+    "Crying",
+    "A scab sealing a cut"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Both the gum and the scab seal a hole in the outer wall, so germs cannot get in while it heals. Trees have no blood, but they defend themselves too.",
    "outcome": 6
   },
@@ -3097,11 +3097,11 @@
    "t": "mcq",
    "p": "A mosquito bites a child. Why can a germ get inside the body at that spot?",
    "opts": [
-    "The bite makes a tiny hole in the skin wall",
     "Mosquitoes are cold, so the skin cannot work",
-    "Skin is always open"
+    "Skin is always open",
+    "The bite makes a tiny hole in the skin wall"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Skin keeps germs out only while it has no holes. A bite, a scrape or a splinter makes a hole, so germs can slip past that wall. Skin is not always open, only where it is broken.",
    "outcome": 1
   }
@@ -3474,6 +3474,133 @@
    "used_in": [
     "e2"
    ]
+  },
+  {
+   "id": "b-a-magnifying-glass",
+   "item": "A magnifying glass",
+   "kind": "tool",
+   "why": "Used in The Sticky Nose Test, Look at Your Skin Wall. About ₹30 to ₹120. A water drop on clear plastic magnifies a little.",
+   "url": "https://www.amazon.in/s?k=magnifying+glass+kids",
+   "used_in": [
+    "e3",
+    "a2"
+   ],
+   "plan": "Get it before The Sticky Nose Test."
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in The Sneeze Stopper. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before The Sneeze Stopper."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Sticky Nose Test. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e3"
+   ],
+   "plan": "Get it before The Sticky Nose Test."
+  },
+  {
+   "id": "b-a-small-hand-mirror",
+   "item": "A small hand mirror",
+   "kind": "material",
+   "why": "Used in Onion Tears. About ₹20 to ₹80. A shiny steel plate shows reflections too.",
+   "url": "https://www.amazon.in/s?k=small+hand+mirror",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Get it before Onion Tears."
+  },
+  {
+   "id": "b-food-colour",
+   "item": "Food colour",
+   "kind": "material",
+   "why": "Used in The Sneeze Stopper. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it.",
+   "url": "https://www.amazon.in/s?k=food+colour+liquid",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before The Sneeze Stopper."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Build the Body Castle. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before Build the Body Castle."
+  },
+  {
+   "id": "b-cotton-wool",
+   "item": "Cotton wool",
+   "kind": "material",
+   "why": "Used in Draw the Hidden Fight, Build the Body Castle. About ₹20 to ₹50. Torn clean cloth works.",
+   "url": "https://www.amazon.in/s?k=cotton+wool+roll",
+   "used_in": [
+    "a6",
+    "p1"
+   ],
+   "plan": "Get it before Draw the Hidden Fight."
+  },
+  {
+   "id": "b-clean-sand--a-small-bag",
+   "item": "Clean sand (a small bag)",
+   "kind": "material",
+   "why": "Used in Count Your Blinks. About ₹20 to ₹60. Fine soil sieved from a pot works.",
+   "url": "https://www.amazon.in/s?k=play+sand+small+bag",
+   "used_in": [
+    "a4"
+   ],
+   "plan": "Get it before Count Your Blinks."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in Be a Phagocyte. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before Be a Phagocyte."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in The Sneeze Stopper. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before The Sneeze Stopper."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

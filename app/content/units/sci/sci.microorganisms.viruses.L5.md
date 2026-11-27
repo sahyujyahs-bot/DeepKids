@@ -1,9 +1,9 @@
 # Viruses, vaccines, prions and viroids: how a cell is taken over, and how a body gets ready
 `sci.microorganisms.viruses.L5`
 
-**Summary.** A virus has no hands, no engine and no food of their own. So how does one virus particle turn a healthy cell into a place that makes thousands of new viruses? In this unit you will run a model cell with marked grains to see whose jobs get done, test whether changed milk can change fresh milk, and play a card game in which a body with a vaccine meets a virus. You will also meet prions and viroids, which are copied with even less than a virus has.
+**Summary.** A virus has no hands, no engine and no food of their own. So how does one virus particle turn a healthy cell into a place that makes thousands of new viruses? In this lesson you will run a model cell with marked grains to see whose jobs get done, test whether changed milk can change fresh milk, and play a card game in which a body with a vaccine meets a virus. You will also meet prions and viroids, which are copied with even less than a virus has.
 
-**Intro.** *A polio virus particle is a small ball of protein with one strand of instructions inside. They cannot move by themselves, and they cannot build anything. Yet four to six hours after one particle enters a cell, that cell can release up to 10,000 new ones. Who built them?* The cell built them. The virus brought only a message, and the cell's own builders read the message and did the work. In this unit you will find out why a cell does this, why you feel fine for a day or two after a virus gets in, and how a vaccine uses the same facts to get your body ready. Then you will meet two things that are copied with even less: a prion, which is one wrongly folded protein, and a viroid, which is one bare loop of RNA.
+**Intro.** *A polio virus particle is a small ball of protein with one strand of instructions inside. They cannot move by themselves, and they cannot build anything. Yet four to six hours after one particle enters a cell, that cell can release up to 10,000 new ones. Who built them?* The cell built them. The virus brought only a message, and the cell's own builders read the message and did the work. In this lesson you will find out why a cell does this, why you feel fine for a day or two after a virus gets in, and how a vaccine uses the same facts to get your body ready. Then you will meet two things that are copied with even less: a prion, which is one wrongly folded protein, and a viroid, which is one bare loop of RNA.
 
 ## Learning outcomes
 0. By the end I can explain how a virus takes over a cell: the cell's own ribosomes build from the virus's messages.
@@ -48,6 +48,7 @@ A cell is always building. The cell's genes are copied into short messages calle
 - e.g. A polio virus particle carries one strand of RNA about 7,500 letters long. The cell's ribosomes read that strand directly, as if it were one of the cell's own messages.
 - e.g. In the Factory Test, you drew six grains each round and built whatever each one said. The marked grains doubled each round, so more and more of your six jobs were for the virus.
 - e.g. An mRNA vaccine works because of the same fact. Your ribosomes build the spike protein from a message that your own genes never wrote.
+- e.g. The tumbler in the Factory Test is a model. It shows how ribosomes pick up messages, but it leaves out the cell's defences and the tricks that real viruses play. Every model leaves things out.
 ### The quiet gap: why nothing seems to happen at first · *defined*
 **Definition:** For some time after a virus enters a cell, no finished virus particle can be found in that cell. In a body, the same gap shows as the incubation period, when the person is infected and feels well.
 
@@ -114,7 +115,7 @@ Two doses of measles vaccine are about 97 percent effective, and the protection 
 ### Ending a virus for good · *defined*
 **Definition:** A virus who can be copied only in human cells, and against whom a good vaccine exists, can be ended completely, because the virus needs an unbroken chain of human hosts.
 
-A virus particle outside a cell does not last long. Every virus who infects only humans must keep reaching new humans, without a break, or that kind of virus ends. Smallpox infected only humans, and the vaccine was very good. After a worldwide effort, the last natural case was in Somalia in 1977, and the world was declared free of smallpox in 1980. Only one other disease has been ended in this way: rinderpest, a virus disease of cattle, whose end was announced in 2010. Polio may be the third. In the 1980s India had thousands of polio cases every year. The Pulse Polio programme began in 1995, with the aim of giving every child under five two drops of vaccine on the same days. India's last case of wild polio was recorded on 13 January 2011, in West Bengal. The World Health Organization declared India polio-free on 27 March 2014. Two of the three types of wild polio virus are now gone from the whole world. The third type still passes between people in Afghanistan and Pakistan. Until that chain breaks too, children everywhere still need the vaccine. A virus who also lives in other animals, such as rabies or bird flu, cannot be ended this way.
+A virus particle outside a cell does not last long. Every virus who infects only humans must keep reaching new humans, without a break, or that kind of virus ends. Smallpox infected only humans, and the vaccine was very good. After a worldwide effort, the last natural case was in Somalia in 1977, and the world was declared free of smallpox in 1980. Only one other disease has been ended in this way: rinderpest, a virus disease of cattle, whose end was announced in 2010. Polio may be the third. In the 1980s India had thousands of polio cases every year. The Pulse Polio programme began in 1995, with the aim of giving every child under five two drops of vaccine on the same days. India's last case of wild polio was recorded on 13 January 2011, in West Bengal. The World Health Organization declared India polio-free on 27 March 2014. Two of the three types of wild polio virus are now gone from the whole world. The third type still passes between people in Afghanistan and Pakistan. Until that chain breaks too, children everywhere still need the vaccine. A virus who also lives in other animals, such as rabies or bird flu, cannot be ended this way. Protection also reaches people who cannot be vaccinated. When most people nearby are vaccinated, the virus has few people left to reach, so a baby too young for the vaccine is safer. Covering a cough and staying home when ill protect others in the same way.
 - e.g. Smallpox: only humans, a strong vaccine, eradicated in 1980.
 - e.g. Polio in India: Pulse Polio from 1995, the last wild case in January 2011, declared polio-free in March 2014.
 - e.g. Rabies: the virus also lives in dogs, bats and other animals, so vaccinating people alone cannot end it.
@@ -607,7 +608,7 @@ That night Yazhini drew the person from the biology book in her own notebook, wi
 ## Worksheets
 ### Takeover, the quiet gap, vaccines, prions and viroids (core, 15 questions)
 1. (mcq) Who builds the new virus proteins in an infected cell?  
-   Options: The cell's own ribosomes / Ribosomes inside the virus particle / Nobody, they grow / White blood cells  
+   Options: Ribosomes inside the virus particle / The cell's own ribosomes / Nobody, they grow / White blood cells  
    **Answer:** The cell's own ribosomes. *Why:* A virus particle has no ribosomes. The cell's ribosomes build every virus protein, from the virus's messages. White blood cells fight viruses and do not build them.
 2. (truefalse) A virus breaks into a cell by force and then builds copies of themself.  
    **Answer:** False. *Why:* False. A virus builds nothing. Their coat fits a receptor, the cell takes them in, and the cell's ribosomes do all the building.
@@ -616,21 +617,21 @@ That night Yazhini drew the person from the biology book in her own notebook, wi
 4. (fill) The time between a germ getting in and the first sign of illness is the ____ period.  
    **Answer:** ['incubation']. *Why:* During the incubation period the virus is being copied in a growing number of cells, but too few are infected for the person to feel ill.
 5. (mcq) In the Factory Test, why did you draw more marked grains in the later rounds?  
-   Options: The rules told you to pick them / Plain grains were taken out / Marked grains are easier to feel / There were more marked grains to pick  
+   Options: The rules told you to pick them / There were more marked grains to pick / Plain grains were taken out / Marked grains are easier to feel  
    **Answer:** There were more marked grains to pick. *Why:* The marked grains doubled each round, so a blind pick landed on them more often. Nothing forced the pick. A ribosome meets virus messages more often for the same reason.
 6. (match) Match each way of carrying on to a virus who does it.  
    **Answer:** Burst the cell → Polio virus; Bud out through the membrane → Flu virus; Hide in nerve cells for years → Chickenpox virus; Join the DNA of a bacterium → Lambda phage. *Why:* Polio viruses burst the cell. Flu viruses bud out wrapped in the cell's membrane. The chickenpox virus hides in nerve cells. Lambda phage can join the DNA of E. coli and wait.
 7. (truefalse) A person can pass on a cold before they feel ill.  
    **Answer:** True. *Why:* True. The virus is copied for a day or more before enough cells are infected for the person to notice. New particles are already leaving the nose in that time.
 8. (mcq) What does a vaccine show the body?  
-   Options: A medicine that kills the germ / A wall the germ cannot cross / The illness in a mild form / An antigen of the germ  
+   Options: A medicine that kills the germ / A wall the germ cannot cross / An antigen of the germ / The illness in a mild form  
    **Answer:** An antigen of the germ. *Why:* A vaccine shows the body an antigen, which is a part of the germ that defenders recognise by shape. It is not a medicine or a wall. Most vaccines cause no illness at all.
 9. (sort) Sort these vaccines by what they show the body.  
    **Answer:** Measles vaccine → A live weakened virus; Covaxin → A whole inactivated virus; Hepatitis B vaccine → One part, or instructions for one part; Oral polio drops → A live weakened virus; mRNA Covid vaccine → One part, or instructions for one part; Injected polio vaccine → A whole inactivated virus. *Why:* Measles vaccine and oral polio drops hold living, weakened viruses. Covaxin and the injected polio vaccine hold whole viruses that cannot be copied. The hepatitis B vaccine holds one protein, and an mRNA vaccine holds the message for one protein.
 10. (fill) A wrongly folded protein that makes normal proteins fold wrongly too is called a ____.  
    **Answer:** ['prion']. *Why:* A prion has the same chain of amino acids as the normal protein, in another shape. It has no DNA or RNA.
 11. (mcq) What is a viroid made of?  
-   Options: One very small cell / A bare loop of RNA / A protein with no genes / DNA in a protein coat  
+   Options: A bare loop of RNA / One very small cell / A protein with no genes / DNA in a protein coat  
    **Answer:** A bare loop of RNA. *Why:* A viroid is a loop of RNA a few hundred letters long, with no coat. A protein with no genes describes a prion. DNA in a coat describes some viruses.
 12. (write) Explain why you feel well for a day or two after a cold virus gets into your nose.  
    **Answer:** At first only a few cells are infected. The virus must be copied through several rounds of cells before many are infected. Only then do the body's alarm signals make me feel ill.. *Why:* A strong answer says that the virus is present and being copied the whole time, and that there are too few infected cells at first to notice.
@@ -640,14 +641,14 @@ That night Yazhini drew the person from the biology book in her own notebook, wi
    **Answer:** ['Spike: fits a receptor on the host cell', 'Coat: protects the genome outside a cell', 'Genome: the instructions that the cell copies and builds from']. *Why:* The spike decides which cells the virus can enter. The coat protects the genome. The genome is the only part that carries instructions.
 15. (write) A girl has chickenpox at seven. At seventy she gets shingles. Where was the virus for 63 years?  
    **Answer:** The virus stayed hidden in nerve cells beside her spine. Her body's defenders kept them quiet. In old age the virus woke and travelled down one nerve to the skin.. *Why:* A strong answer says that the virus never left the body, names nerve cells, and says the virus woke when the defences were weaker.
-### Tricks, alarms and changing coats (stretch, 15 questions)
+### Tricks, alarms and changing coats (stretch, 16 questions)
 1. (mcq) A polio virus blocks the cell's own messages. Why are polio messages still read?  
-   Options: They are much longer / They start in a different way / Ribosomes prefer virus messages / They hide in the nucleus  
+   Options: They are much longer / Ribosomes prefer virus messages / They hide in the nucleus / They start in a different way  
    **Answer:** They start in a different way. *Why:* The cell's messages need a cap at the front for a ribosome to start. Polio messages have a folded stretch that lets a ribosome start without a cap. Ribosomes read both kinds of message in the same way.
 2. (truefalse) Flu viruses cut the caps off the cell's messages and use them on their own.  
    **Answer:** True. *Why:* True. This is called cap snatching. The cell's message is ruined, and the flu message now carries a cap that ribosomes accept.
 3. (mcq) What does interferon do to the cells near an infected cell?  
-   Options: It gives them antibodies / It kills them at once / It makes them slow their protein building / It makes them divide faster  
+   Options: It gives them antibodies / It kills them at once / It makes them divide faster / It makes them slow their protein building  
    **Answer:** It makes them slow their protein building. *Why:* Warned cells slow their ribosomes and cut up RNA, so a virus who enters them gains little. Antibodies come later, from B cells.
 4. (fill) Many bacteria store pieces of phage DNA in a row called ____.  
    **Answer:** ['CRISPR']. *Why:* The stored pieces let the bacterium recognise the same phage later and cut that phage's DNA. The row is copied at each division, so the daughters inherit it.
@@ -663,22 +664,24 @@ That night Yazhini drew the person from the biology book in her own notebook, wi
 9. (odd) Three of these diseases have a vaccine. Which one does not?  
    Options: Polio / The common cold / Measles / Hepatitis B  
    **Answer:** 1. *Why:* Colds are caused mostly by rhinoviruses, and at least 165 types are known. Antibodies against one type give little protection against the rest.
-10. (write) Two doses of measles vaccine protect for many years. A flu vaccine protects for about one. Explain the difference.  
+10. (sort) Sort each action: does it protect only you, or does it also protect other people?  
+   **Answer:** A measles vaccine → Protects others too; Covering your cough with your elbow → Protects others too; Drinking a glass of milk every day → Protects only me. *Why:* A vaccine and a covered cough cut the chain of a virus, so the people around you are safer too. Milk helps your own body, but it does not stop a virus passing to someone else.
+11. (write) Two doses of measles vaccine protect for many years. A flu vaccine protects for about one. Explain the difference.  
    **Answer:** The measles virus's antigens hardly change, so the same memory cells keep fitting. The flu virus's spikes drift a little every year, so old antibodies fit less well and a new vaccine is needed.. *Why:* A strong answer is about the virus changing or not changing. The body's memory lasts in both cases.
-11. (mcq) A rinsed lump of curdled milk did not curdle fresh milk. What does this show?  
-   Options: A changed protein rarely passes its change on / Prions are in milk / Lemon juice does nothing to milk / Milk protein cannot change  
+12. (mcq) A rinsed lump of curdled milk did not curdle fresh milk. What does this show?  
+   Options: Prions are in milk / A changed protein rarely passes its change on / Lemon juice does nothing to milk / Milk protein cannot change  
    **Answer:** A changed protein rarely passes its change on. *Why:* In Lemon, Chhena or Nothing, the lemon changed the milk and the lump did not. In ordinary proteins a changed form is not catching. A prion is unusual because its changed form is.
-12. (write) A virus and a prion both get 'copied'. Say what is copied in each case.  
+13. (write) A virus and a prion both get 'copied'. Say what is copied in each case.  
    **Answer:** In a virus, the genome is copied, and new coat proteins are built from it. In a prion, nothing is built. Normal proteins already in the cell are refolded into the prion's shape.. *Why:* A strong answer says that a virus passes on instructions and a prion passes on a shape.
-13. (perspective) Here are three views about what an infected cell is.  
+14. (perspective) Here are three views about what an infected cell is.  
    **Answer:** Answers vary. A strong answer picks a view and uses the test. For example: the cell biologist's view fits, because my tumbler held both kinds of message and I built from both.. *Why:* Real scientists hold each of these views. The facts are agreed, and the argument is about which words describe them best.
-14. (draw) Draw two line graphs of virus numbers over six days: one for a person with a vaccine, one without.  
+15. (draw) Draw two line graphs of virus numbers over six days: one for a person with a vaccine, one without.  
    **Answer:** Without a vaccine the line stays low for a day or two, rises high and falls after antibodies arrive. With a vaccine the line begins to rise and is turned down early, staying low.. *Why:* Memory cells make antibodies within days, during the quiet gap. So the virus is stopped while there are still few infected cells.
-15. (sort) Sort these by whether a ribosome ever reads them.  
+16. (sort) Sort these by whether a ribosome ever reads them.  
    **Answer:** A flu virus's messages → A ribosome reads it; A viroid → No ribosome reads it; A prion → No ribosome reads it; A polio virus's genome → A ribosome reads it; The mRNA in a vaccine → A ribosome reads it. *Why:* Virus messages and vaccine mRNA are read by ribosomes, which build proteins from them. A viroid is copied by an enzyme but never read. A prion is a protein and holds no message.
 ### Models, memories and things that copy with almost nothing (challenge, 15 questions)
 1. (mcq) In the Factory Test, a cell with twice as many plain grains was taken over only one round later. Why?  
-   Options: Plain grains were removed / The die was unfair / Doubling catches up in one round / Bigger cells are weaker  
+   Options: Plain grains were removed / Doubling catches up in one round / The die was unfair / Bigger cells are weaker  
    **Answer:** Doubling catches up in one round. *Why:* The marked grains double every round. So going from 20 to 40 plain grains costs the virus just one more doubling. This is why a virus who is copied quickly is hard to outrun.
 2. (write) The Factory Test's model cell had no defences. Name one real defence. How would you add it?  
    **Answer:** One answer: interferon and RNA-cutting enzymes. I would take out two marked grains every round before copying. Another answer: antibodies. I would stop the marked grain from going into the tumbler on a die roll of 3 to 6.. *Why:* A strong answer names a real defence and gives a rule that could be carried out with grains and a die.
@@ -703,7 +706,7 @@ That night Yazhini drew the person from the biology book in her own notebook, wi
 11. (draw) Draw a bacterium's CRISPR row. Show what happens when a phage whose piece is stored attacks again.  
    **Answer:** The drawing shows a row of short stored pieces in the bacterium's DNA, a guide copied from one piece, and a cutting protein using the guide to cut the matching phage DNA.. *Why:* The stored piece is copied into a guide. The cutting protein carries the guide and cuts any DNA that matches it.
 12. (mcq) Lambda phage usually waits inside a starving bacterium and does not burst out. What could the phage gain?  
-   Options: A starving cell bursts anyway / Starving cells have no DNA / A starving cell makes few new phages / Waiting changes the phage's coat  
+   Options: A starving cell makes few new phages / A starving cell bursts anyway / Starving cells have no DNA / Waiting changes the phage's coat  
    **Answer:** A starving cell makes few new phages. *Why:* A starving cell has little material and energy, so few phages would be made. Joined to the cell's DNA, the phage is copied at each division until times are better.
 13. (truefalse) A mouse with no gene for the PrP protein cannot get prion disease.  
    **Answer:** True. *Why:* True. A prion spreads by refolding normal PrP. With no normal PrP in the body, the prion has nothing to refold.
@@ -720,42 +723,48 @@ That night Yazhini drew the person from the biology book in her own notebook, wi
 
 ## Quiz
 1. (mcq) What does a virus bring into a cell?  
-   Options: Energy / Instructions / Ribosomes / Amino acids  
+   Options: Instructions / Energy / Ribosomes / Amino acids  
    **Answer:** Instructions. *Why:* A virus brings a genome, which is a set of instructions. The cell supplies the ribosomes, the energy and the amino acids. If you chose ribosomes, remember that a virus particle has none.
 2. (mcq) Why does a cell build proteins for a virus?  
-   Options: The virus pushes the ribosomes / Ribosomes build from any message they meet / The virus pays the cell with energy / The cell wants more viruses  
+   Options: The virus pushes the ribosomes / The virus pays the cell with energy / The cell wants more viruses / Ribosomes build from any message they meet  
    **Answer:** Ribosomes build from any message they meet. *Why:* A ribosome builds from whichever message it meets. Once virus messages are in the cell, they are read like the cell's own. No force is used.
 3. (mcq) Why is there a quiet time after a virus gets in, before a person feels ill?  
-   Options: The virus has not entered any cell / Too few cells are infected at first / Antibodies are hiding the virus / The virus is asleep  
+   Options: The virus has not entered any cell / Antibodies are hiding the virus / The virus is asleep / Too few cells are infected at first  
    **Answer:** Too few cells are infected at first. *Why:* The virus is being copied from the start, but it takes several rounds of cells before many are infected. If you chose 'asleep', that describes a latent virus, which is a different thing.
 4. (truefalse) The chickenpox virus leaves the body when the spots heal.  
    **Answer:** False. *Why:* False. The virus stays hidden in nerve cells for life. Decades later they can wake and cause shingles along one nerve.
 5. (mcq) Which defence starts within hours, long before antibodies are made?  
-   Options: An antibiotic / Interferon / Memory cells / A vaccine  
+   Options: An antibiotic / Memory cells / A vaccine / Interferon  
    **Answer:** Interferon. *Why:* An infected cell releases interferon at once, and the cells nearby slow their protein building. New antibodies take one to two weeks the first time. Antibiotics do not act on viruses.
 6. (mcq) How does a bacterium recognise a phage who attacked their ancestors?  
-   Options: Bacteria have no way / From antibodies in their blood / From a stored piece of the phage's DNA / By the phage's smell  
+   Options: From a stored piece of the phage's DNA / Bacteria have no way / From antibodies in their blood / By the phage's smell  
    **Answer:** From a stored piece of the phage's DNA. *Why:* The bacterium keeps a short piece of the phage's DNA in a CRISPR row and uses it as a guide for cutting matching DNA. Bacteria have no blood and no antibodies.
 7. (mcq) Which kind of vaccine holds whole virus particles that can no longer be copied?  
-   Options: An inactivated vaccine / A one-part vaccine / A live weakened vaccine / An mRNA vaccine  
+   Options: A one-part vaccine / A live weakened vaccine / An mRNA vaccine / An inactivated vaccine  
    **Answer:** An inactivated vaccine. *Why:* In an inactivated vaccine the whole virus is treated so that the genome cannot be copied, and the shape remains. A live weakened virus can still multiply a little.
 8. (mcq) What do your cells build after an mRNA vaccine?  
-   Options: New DNA / The whole virus / One protein of the virus / Antibiotics  
+   Options: New DNA / The whole virus / Antibiotics / One protein of the virus  
    **Answer:** One protein of the virus. *Why:* The mRNA is the message for one protein, such as the spike. Ribosomes build only that. The message does not enter the nucleus and does not change DNA.
 9. (mcq) Why is there no vaccine against the common cold?  
-   Options: Colds are too mild to matter / At least 165 types of cold virus exist / Cold viruses have no antigens / Colds are caused by prions  
+   Options: At least 165 types of cold virus exist / Colds are too mild to matter / Cold viruses have no antigens / Colds are caused by prions  
    **Answer:** At least 165 types of cold virus exist. *Why:* Antibodies against one type of rhinovirus give little protection against the others. A vaccine would have to cover a very large number of types.
 10. (truefalse) A virus who infects only humans could be ended for good by vaccination.  
    **Answer:** True. *Why:* True. Such a virus needs an unbroken chain of human hosts. Smallpox was ended this way in 1980, and wild polio is close to its end.
 11. (mcq) How does a prion spread in a brain?  
-   Options: It divides in two / Ribosomes read it / Its genes are copied / It makes normal proteins refold  
+   Options: It makes normal proteins refold / It divides in two / Ribosomes read it / Its genes are copied  
    **Answer:** It makes normal proteins refold. *Why:* A prion has no genes and does not divide. It touches a normal protein of the same kind, and that protein takes the prion shape. If you chose genes, you were thinking of a virus.
 12. (mcq) Which of these is a bare loop of RNA with no coat?  
-   Options: A bacterium / A viroid / A prion / A phage  
+   Options: A bacterium / A prion / A phage / A viroid  
    **Answer:** A viroid. *Why:* A viroid is RNA alone. A prion is protein alone. A phage is a virus, with a genome in a coat, and a bacterium is a whole cell.
 13. (mcq) Which of these did the Factory Test leave out?  
-   Options: The cell's defences / The copying of virus messages / The cell's own messages / Chance  
+   Options: The copying of virus messages / The cell's own messages / The cell's defences / Chance  
    **Answer:** The cell's defences. *Why:* The model cell never fought back. A real cell senses virus RNA, sends out interferon and may self-destruct. The model did include the cell's messages, the copying and chance.
+14. (mcq) A tumbler model shows how ribosomes pick up messages. What is true of every model like this?  
+   Options: It shows every part of the real thing / It leaves things out of the real thing / It is exactly the same as the real thing  
+   **Answer:** It leaves things out of the real thing. *Why:* Every model leaves things out. The tumbler has six draws and twenty messages, not millions, and it has no cell defences.
+15. (mcq) Your neighbour's baby is too young for a measles vaccine. Why does your own vaccination still help that baby?  
+   Options: Your antibodies float into the baby's lungs / The vaccine passes to the baby by touch / Fewer people with the virus are left nearby to pass it on  
+   **Answer:** Fewer people with the virus are left nearby to pass it on. *Why:* When most people around the baby are protected, the virus has few people to reach. Your antibodies stay in your own blood, so they do not reach the baby through the air or by touch.
 
 ## Applications
 - Vaccine makers choose which part of a virus to show the body. The hepatitis B vaccine shows one surface protein, made by yeast cells.
@@ -774,7 +783,7 @@ That night Yazhini drew the person from the biology book in her own notebook, wi
 - A band of blisters on one side of an older relative's body or forehead, which doctors call shingles.
 - A cold sore on a lip that comes back in the same spot. It is caused by another virus who hides in nerve cells.
 - A tomato, chilli or papaya plant with leaves in a patchwork of light and dark green, a sign of a plant virus.
-- A toddy tapper or coconut climber in Kerala or Tamil Nadu wiping the blade before the next palm.
+- A toddy tapper or coconut climber wiping the blade before the next palm.
 - A 'Flu shot available' board at a clinic or pharmacy before the rainy season.
 
 ## Open questions
@@ -832,6 +841,12 @@ The Smallest Neighbours (sci.microorganisms.L5): Topic-level song
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in/) · place · Bengaluru: A science museum to visit. Ask at the entrance which galleries show cells, DNA and biotechnology.
 
 ## Things to buy
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Drift Cards: how much can a pattern change before you stop knowing it?, Which Part Shall We Show? Plan a vaccine for a made-up virus. About ₹10 to ₹30. Any school ruler is fine. Used in a2, c1. Get it before Drift Cards: how much can a pattern change before you stop knowing it?.
+- [Vinegar](https://www.amazon.in/s?k=white+vinegar) (material): Used in Lemon, Chhena or Nothing: can changed milk change fresh milk?. About ₹40 to ₹80. Lemon juice works for many tests. Used in e2. Get it before Lemon, Chhena or Nothing: can changed milk change fresh milk?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Factory Test: whose jobs get done inside an infected cell?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1. Get it before The Factory Test: whose jobs get done inside an infected cell?.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in Four Rules, Four Days: my own takeover trial. About ₹10 to ₹30. Draw squares on plain paper. Used in p1. Get it before Four Rules, Four Days: my own takeover trial.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in The Wet Road: wrap a message so that it arrives. About ₹30 to ₹60. Newspaper cut into strips also works. Used in c2. Get it before The Wet Road: wrap a message so that it arrives.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Who builds the new viruses in an infected cell? → The cell does. Its ribosomes build virus proteins from the virus's messages.
@@ -855,7 +870,7 @@ The Smallest Neighbours (sci.microorganisms.L5): Topic-level song
 - ideas/by_topic/microorganisms.md, the SCI Card on Gagandeep Kang and Rotavac. Used in the explanation 'Four kinds of vaccine'. Her role is given only as it could be checked: one of three lead investigators of the large trial.
 - ideas/by_topic/microorganisms.md, the SCI Card on Emmanuelle Charpentier and Jennifer Doudna ('Bacteria have an ancient immune system'). Used in the explanation 'Bacteria remember viruses too: CRISPR'.
 - ideas/by_topic/microorganisms.md, the notebook's picture of prokaryotes who 'built the first immune system, with enzymes to keep away rogue DNAs', and the note that nobody knows where viruses came from. Used in the CRISPR explanation and the open questions.
-- The Level 5 units sci.what-is-life.edge-of-life.L5 and sci.microorganisms.germs.L5, and the Level 4 unit sci.microorganisms.germs.L4, which this unit builds on. Their experiments, games and stories are not repeated.
+- The Level 5 units sci.what-is-life.edge-of-life.L5 and sci.microorganisms.germs.L5, and the Level 4 unit sci.microorganisms.germs.L4, which this lesson builds on. Their experiments, games and stories are not repeated.
 - knowledge/by_subtopic.json: Microbiology (OpenStax), 'Viroids, Virusoids, and Prions', and Biology 2e, 'Other Acellular Entities: Prions and Viroids', used as a guide to what to cover. Facts were checked online, as listed in the play-test note.
 - Ellis, E. L. and Delbrück, M., 'The growth of bacteriophage', Journal of General Physiology 22, 1939 (one-step growth)
 - Lederberg, E. M., 'Lysogenicity in Escherichia coli strain K-12', Microbial Genetics Bulletin 1, 1950. Lederberg, E. M. and Lederberg, J., 'Genetic studies of lysogenicity in Escherichia coli', Genetics 38, 1953

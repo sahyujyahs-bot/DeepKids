@@ -459,11 +459,11 @@
       "t": "mcq",
       "q": "In the feely bag game, you feel a thing with no flat faces and no edges at all. What solid is it?",
       "options": [
-       "A cube",
        "A sphere",
+       "A cube",
        "A cylinder"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A sphere, like a ball, is curved all over. A cube has 6 flat faces, and a cylinder has 2 flat round faces."
      }
     }
@@ -687,10 +687,10 @@
       "q": "In the slice and trace test, where did the round potato give its biggest slice?",
       "options": [
        "Near the top",
-       "In the middle",
-       "Near the bottom"
+       "Near the bottom",
+       "In the middle"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A round potato is widest in the middle, so the middle slice is the biggest. The slices near the top and the bottom are small."
      },
      "parent": "A strong answer uses the slices as evidence: every cut side was flat, and its size depended on where the cut was.",
@@ -819,11 +819,11 @@
       "t": "mcq",
       "q": "In the flat eyes test, how could a flat creature tell a circle from a square?",
       "options": [
-       "The circle looks taller",
        "The square's line changes as it turns, but the circle's does not",
+       "The circle looks taller",
        "She can never tell them apart"
       ],
-      "a": 1,
+      "a": 0,
       "why": "From the edge, both shapes look like lines. But a square is wider from corner to corner than from side to side. A circle is the same width every way. So by turning the shapes, or walking round them, a flat creature can tell them apart."
      },
      "parent": "The square's line grows when a corner points at the eye, and shrinks again. The circle's line stays the same. A strong answer says that walking round a shape gives more clues than one look.",
@@ -1163,11 +1163,11 @@
       "t": "mcq",
       "q": "In A Town for Pulli, why can't Pulli step over a wall?",
       "options": [
-       "She is too small",
        "She has no up direction, so she can't go over a line",
+       "She is too small",
        "The wall is too thick"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Stepping over means going up and then down. Pulli's world has only forward, back, left and right, so any line is a wall for her."
      },
      "parent": "Children often find new problems. A door that swings open blocks the room. A drawn road splits the town in two, because Pulli cannot cross its lines. Praise every problem they find. Each one shows what the up direction does for us.",
@@ -1249,11 +1249,11 @@
       "t": "mcq",
       "q": "Why could the rolled sheet hold the plate when the flat sheet could not?",
       "options": [
-       "Rolling made the paper heavier",
        "Rolling made a solid tube with height and width, which stands up",
+       "Rolling made the paper heavier",
        "Rolling made the paper thinner"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A flat sheet is very thin, so it bends and falls. Rolled into a tube, the paper spreads round in a circle and goes up. The tube is a solid shape, and it stands firm."
      }
     }
@@ -1292,10 +1292,10 @@
    "p": "Which of these is a flat (2D) shape?",
    "opts": [
     "A ladoo",
-    "A circle drawn on paper",
-    "A steel tumbler"
+    "A steel tumbler",
+    "A circle drawn on paper"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A circle drawn on paper has length and width but no height. A ladoo and a tumbler have height, so they are solids.",
    "outcome": 0
   },
@@ -1303,11 +1303,11 @@
    "t": "mcq",
    "p": "A solid shape has three dimensions. What are they?",
    "opts": [
-    "Length, width and height",
     "Red, blue and green",
-    "Near, far and between"
+    "Near, far and between",
+    "Length, width and height"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A solid can be measured three ways: how long, how wide and how tall.",
    "outcome": 0
   },
@@ -1315,11 +1315,11 @@
    "t": "mcq",
    "p": "Which solid is a dice?",
    "opts": [
-    "A sphere",
     "A cube",
+    "A sphere",
     "A cone"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A dice has 6 square faces, so it is a cube. A sphere is round like a ball, and a cone has a point.",
    "outcome": 1
   },
@@ -1339,11 +1339,11 @@
    "t": "mcq",
    "p": "In the slice and trace test, what happened to the carrot slices from the thick end to the tip?",
    "opts": [
-    "They stayed the same size",
     "They got smaller",
+    "They stayed the same size",
     "They got bigger"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A carrot gets thinner towards the tip, like a long cone, so its circles get smaller.",
    "outcome": 2,
    "how": "e1",
@@ -1390,11 +1390,11 @@
    "t": "mcq",
    "p": "A ball passes slowly down through Pulli's flat world. What does she see?",
    "opts": [
-    "A whole ball",
     "A circle that grows and then shrinks",
+    "A whole ball",
     "Nothing at all"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Pulli meets the ball one flat slice at a time. The slices grow to the biggest in the middle, then shrink, like the slices of the round potato in the slice and trace test.",
    "outcome": 4
   },
@@ -1414,11 +1414,11 @@
    "t": "mcq",
    "p": "Is there a fourth direction, beyond length, width and height?",
    "opts": [
+    "Nobody knows yet",
     "Yes, scientists have found it",
-    "No, scientists have proved there is none",
-    "Nobody knows yet"
+    "No, scientists have proved there is none"
    ],
-   "a": 2,
+   "a": 0,
    "why": "Some scientists think there might be more directions, too small or too hidden to notice. Nobody has found one. It is still an open question.",
    "outcome": 5
   }
@@ -1494,11 +1494,11 @@
      "t": "mcq",
      "p": "In the slice and trace test, what shape was the cut side of a cucumber slice?",
      "opts": [
-      "A circle",
       "A square",
+      "A circle",
       "A triangle"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A cucumber is nearly a cylinder, so a straight cut across it gives a circle. Choosing the square may mean thinking of the whole vegetable, not the cut side.",
      "context": "This question is about the slice and trace test. A grown-up cut a cucumber, a carrot and a round potato, and you traced each cut side.",
      "how": "e1"
@@ -1589,11 +1589,11 @@
      "t": "mcq",
      "p": "In the slice and trace test, the round potato was cut into 5 slices from top to bottom. Which slice was the biggest?",
      "opts": [
-      "The top slice",
       "The middle slice",
+      "The top slice",
       "The bottom slice"
      ],
-     "a": 1,
+     "a": 0,
      "why": "A round potato is widest in the middle, so the middle slice is the biggest circle. Choosing the top or bottom may mean thinking every slice of a solid is the same size.",
      "how": "e1",
      "context": "This question is about the slice and trace test. A grown-up cut a cucumber, a carrot and a round potato, and you traced each cut side."
@@ -1813,11 +1813,11 @@
      "t": "mcq",
      "p": "A flat creature looks at a card square lying in her flat world. What does she see?",
      "opts": [
-      "A square",
       "A line",
+      "A square",
       "A cube"
      ],
-     "a": 1,
+     "a": 0,
      "why": "She can only look along her flat world, so she sees the square from its edge, as a line. In the flat eyes test, the card shapes looked like lines when your eye was level with the table.",
      "how": "e2"
     },
@@ -2019,7 +2019,48 @@
    "why": "Science galleries and a planetarium."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Flat Eyes: can a flat creature tell a circle from a square?, Flat or Solid Hunt: what has height?, Stack It Up: from flat to solid. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e2",
+    "a1",
+    "a3",
+    "c1"
+   ],
+   "plan": "Get it before Flat Eyes: can a flat creature tell a circle from a square?."
+  },
+  {
+   "id": "b-postcards-or-plain-cards",
+   "item": "Postcards or plain cards",
+   "kind": "material",
+   "why": "Used in Stack It Up: from flat to solid. About ₹5 to ₹20. Cut card from a cereal box.",
+   "url": "https://www.amazon.in/s?k=blank+postcards",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before Stack It Up: from flat to solid."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "How many directions does a flat shape have?",

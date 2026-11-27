@@ -43,14 +43,15 @@ sh app/tests/run.sh                   # every family type, every button, and a u
 - **Helpers you should already know:** `esc` (always, for any text put in HTML), `icon`, `toast`, `sfx`, `newId`, `setSheetTitle`, `unitBy`, `fmt`/`iso`/`parse`/`addDays`, `subjClass(subject)` for the subject colour class.
 
 ## Content and product rules
-- **Writing a unit? Read `app/content/WRITER_BRIEF.md` and only the card for the part you write** (`app/content/writer/parts/`). Don't read the long docs unless the card sends you there.
+- **Writing, reviewing or rewriting a unit? Read `app/content/WRITER_BRIEF.md` and nothing else.** It holds every rule (philosophy, writing, play-test, file format, spine, roots). The older long docs and the cards in `app/content/writer/parts/` are detail only; open one only if the brief sends you there.
+- **Reviewing a unit? Read `app/content/REVIEW_BRIEF.md`.** One thorough reviewer, who also fixes what is wrong, using `python3 app/build/review_packet.py <unit id>`. No chain of checkers and rewriters. The writer uses the same tests first.
 - Models to learn the feel from, one per level: `app/content/writer/EXAMPLES.md`.
 - Run `python3 app/build/validate_unit.py <file>` as you write: it checks most rules (no age-gating, no false simplifications, perspectives and open questions, sizes) and says what to fix.
 - Two tracks: the DeepKids track (topic-led) and the board track (chapter-led, with the DeepKids layer). Waldorf is a teaching style, not a board. See `app/content/TRACKS.md`.
 - Units are full depth: roots with a `deep_truth`, and a 2-session spine (`app/build/validate_unit.py` must pass).
 - Plain writing that a parent and child understand; no poetry where understanding is needed (`app/content/WRITING.md`).
 - **Our philosophies apply to everything we make or say**: units, lessons written for families on request (`app/content/writer/LIVE_BRIEF.md`), IAm chat, notifications and emails, videos, and anything an AI writes for us. Living beings, and the cells and molecules that do life's work (RNA, DNA, viruses), are never "it". Not human-centred, not patriarchal, India first, underdogs credited, many views, no false simplifying, no age-gating.
-- Images must be public domain, CC0 or CC BY, with credit. Non-commercial or share-alike books are reference only: never copy their text. Copyrighted books go in the private books repository. Personal essays are not published.
+- Images must be public domain, CC0, CC BY or Unsplash (free, never paid), with credit: the photographer's name and "Unsplash" are named wherever the picture is shown. Non-commercial or share-alike books are reference only: never copy their text. Copyrighted books go in the private books repository. Personal essays are not published.
 - Design: the notebook and night sky look in `app/content/DESIGN.md`. Universal and vibrant first, Indian touches only where they come naturally. It must not look like a generic AI app.
 - **Without AI first.** Every feature works on the phone without AI for every family, paid or not (word matching, the activity library, the phone's own reading). AI only for what truly needs it (reading photos, checking worksheets, chat, writing new material), and then the cheapest model that does the job well, sending only what's needed.
 - The founder is not a programmer: keep replies short and plain.

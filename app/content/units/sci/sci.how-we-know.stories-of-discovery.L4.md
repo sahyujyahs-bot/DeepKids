@@ -1,9 +1,9 @@
 # From 'I saw it' to 'we know it': how a discovery wins belief
 `sci.how-we-know.stories-of-discovery.L4`
 
-**Summary.** A discovery is not finished until someone else can repeat it. How can you write steps that a stranger can follow? In this unit you will make a water-drop lens, test your steps on someone else, repeat Redi's jar test with a banana, and put discoveries in order.
+**Summary.** A discovery is not finished until someone else can repeat it. How can you write steps that a stranger can follow? In this lesson you will make a water-drop lens, test your steps on someone else, repeat Redi's jar test with a banana, and put discoveries in order.
 
-**Intro.** *You tell your class that one drop of water holds living beings too small to see. You are the only person with a lens strong enough to look. Would your class believe you? Should they?* In the 1670s this really happened to Antoni van Leeuwenhoek, a Dutch cloth seller. He made tiny lenses, looked at water and saw tiny living beings. The Royal Society in London, the most famous group of scientists of the time, did not believe what he wrote. A discovery is not finished when one person sees something. In this unit you make your own water-drop lens, find out if a stranger can follow your steps and see what you saw, and meet people whose ideas took years to be believed.
+**Intro.** *You tell your class that one drop of water holds living beings too small to see. You are the only person with a lens strong enough to look. Would your class believe you? Should they?* In the 1670s this really happened to Antoni van Leeuwenhoek, a Dutch cloth seller. He made tiny lenses, looked at water and saw tiny living beings. The Royal Society in London, the most famous group of scientists of the time, did not believe what he wrote. A discovery is not finished when one person sees something. In this lesson you make your own water-drop lens, find out if a stranger can follow your steps and see what you saw, and meet people whose ideas took years to be believed.
 
 ## Learning outcomes
 0. I can explain why a discovery is not finished until other people can repeat it by following the steps.
@@ -487,7 +487,7 @@ Ammamma laughed and folded the newspaper. "Tomorrow we look at the Onam sale adv
 1. (fill) To do a test again by following the same steps is to ____ it.  
    **Answer:** ['repeat', 'replicate']. *Why:* A result that others can repeat from the steps becomes shared knowledge.
 2. (mcq) A girl sees something new through her lens, but nobody else can see it. What does she need before others will believe it?  
-   Options: To say it louder / Clear steps that others can follow to see the same thing / A famous teacher / A bigger lens  
+   Options: To say it louder / A famous teacher / A bigger lens / Clear steps that others can follow to see the same thing  
    **Answer:** Clear steps that others can follow to see the same thing. *Why:* A discovery is finished when other people can see it too. Clear steps let them do that.
 3. (truefalse) True or false: a discovery is finished the moment one person sees something new.  
    **Answer:** False. *Why:* False. The person may have made a mistake or been fooled. A discovery is finished when others can repeat it.
@@ -496,7 +496,7 @@ Ammamma laughed and folded the newspaper. "Tomorrow we look at the Onam sale adv
 5. (sort) Sort each step: is it clear enough for a stranger to follow, or not?  
    **Answer:** Make a hole. → Not clear for a stranger; Press the tip of a sharp pencil once into the foil on a folded towel, and twist. → Clear for a stranger; Add some water. → Not clear for a stranger; Touch a toothpick tip, wet with one drop of water, to the hole. → Clear for a stranger; Look closely. → Not clear for a stranger; Put your eye one finger-width above the foil. → Clear for a stranger. *Why:* A clear step names the tool, the amount and the place. A vague step leaves the stranger to guess.
 6. (mcq) Why does a smaller, rounder drop of water usually magnify more than a bigger, flatter one?  
-   Options: It is cooler / It is more curved, so it bends light more / It is heavier / It is cleaner  
+   Options: It is cooler / It is heavier / It is cleaner / It is more curved, so it bends light more  
    **Answer:** It is more curved, so it bends light more. *Why:* A more curved surface bends light more strongly. That makes small things look bigger.
 7. (write) Explain in your own words why a drop of water can make print look bigger.  
    **Answer:** A strong answer says that light bends when it passes between air and water, and the round drop bends the light so that the print looks bigger.. *Why:* A strong answer connects the bending of light to a curved drop.
@@ -518,7 +518,7 @@ Ammamma laughed and folded the newspaper. "Tomorrow we look at the Onam sale adv
 15. (perspective) Two friends in Kochi talk about a new claim.  
    **Answer:** A strong answer sees that others need a way to check, and that steps are what carry a discovery. It is also fair to the first child: her seeing is real and a good reason to share the steps.. *Why:* Marks go for using the idea of repeating and for being fair to the other friend.
 16. (mcq) Two people follow the same steps and see slightly different pictures that agree on the main thing. What does this suggest?  
-   Options: The finding is false / The main finding holds, and the differences come from hands, drops and eyes / One person is cheating / Steps never work  
+   Options: The finding is false / One person is cheating / The main finding holds, and the differences come from hands, drops and eyes / Steps never work  
    **Answer:** The main finding holds, and the differences come from hands, drops and eyes. *Why:* Small differences are normal. What matters is whether the main finding appears for both people.
 ### Doubt, Mud and Moving Continents (stretch) (stretch, 17 questions)
 1. (mcq) Why did most geologists reject Alfred Wegener's idea of drifting continents in 1912?  
@@ -529,7 +529,7 @@ Ammamma laughed and folded the newspaper. "Tomorrow we look at the Onam sale adv
 3. (truefalse) True or false: scientists today can measure that India is still moving, a few centimetres each year.  
    **Answer:** True. *Why:* True. Satellites measure the movement of the plates directly.
 4. (mcq) A doubter asks, 'Can I try it myself?' Is this kind or rude?  
-   Options: Rude, because it says you are lying / Kind, because it asks to see the evidence and does not insult / Neither / Rude, because it takes time  
+   Options: Rude, because it says you are lying / Neither / Rude, because it takes time / Kind, because it asks to see the evidence and does not insult  
    **Answer:** Kind, because it asks to see the evidence and does not insult. *Why:* Asking to try is how science works. It treats the claim as worth checking.
 5. (fill) Wegener's idea that the continents slowly move is called continental ____.  
    **Answer:** ['drift']. *Why:* Today it is part of the wider idea of plate tectonics.
@@ -538,7 +538,7 @@ Ammamma laughed and folded the newspaper. "Tomorrow we look at the Onam sale adv
 7. (write) In a famous test of flies, one jar of meat was covered with thin cloth that let smells through but not flies. What did that jar show that a sealed jar could not?  
    **Answer:** A strong answer says that the smell reached the flies outside, and they landed on the cloth, but without a way in they could not lay eggs on the meat. So the flies, not the smell or the meat, brought the maggots.. *Why:* A strong answer separates the smell from the flies themselves.
 8. (mcq) Louis Pasteur boiled broth in a flask with a long, curved neck. The broth stayed clear, though air could enter. Why?  
-   Options: The broth was too hot / Microbes in the air were caught in the bend and could not reach the broth / Air is poison to broth / Microbes cannot live in glass  
+   Options: The broth was too hot / Air is poison to broth / Microbes cannot live in glass / Microbes in the air were caught in the bend and could not reach the broth  
    **Answer:** Microbes in the air were caught in the bend and could not reach the broth. *Why:* Air could move in and out, but the dust and microbes in it settled in the curved neck. This showed that microbes come from other microbes in the air, not from broth itself.
 9. (match) Match each person to what they did.  
    **Answer:** Leeuwenhoek → Looked at water through tiny lenses and wrote to London; Redi → Tested whether rotting meat makes maggots; Wegener → Proposed that the continents move; Tharp → Drew the ocean floor from depth numbers. *Why:* Each person did a different part of the long work of finding out.
@@ -566,7 +566,7 @@ Ammamma laughed and folded the newspaper. "Tomorrow we look at the Onam sale adv
 2. (perspective) Three people talk about whether the Royal Society should have believed Leeuwenhoek at once.  
    **Answer:** A strong answer sees that honesty does not remove the need for a check, and that helping the discoverer share steps is part of doubting well. All three have a point, though Jaya's view joins the other two.. *Why:* Marks go for reasons and for being fair to the other views.
 3. (mcq) Why can some skills not be fully written down?  
-   Options: Because the people who know them are secretive / Because they depend on a feel in the hands that comes from practice / Because paper is too small / Because they are not important  
+   Options: Because the people who know them are secretive / Because paper is too small / Because they are not important / Because they depend on a feel in the hands that comes from practice  
    **Answer:** Because they depend on a feel in the hands that comes from practice. *Why:* Michael Polanyi argued that we know more than we can say. A feel for dough or for a good water drop is learned by doing.
 4. (sort) Sort each job: can a stranger do it from written steps alone, or is it best learned by watching and trying?  
    **Answer:** Counting the seeds in an okra pod → From written steps; Kneading dough to the right softness → Best learned by watching and trying; Measuring a sprout in millimetres → From written steps; Making a round, steady drop of water → Best learned by watching and trying; Weighing out a spoon of sugar → From written steps; Riding a bicycle → Best learned by watching and trying. *Why:* Counting and measuring can be written down. Feel and balance are learned by doing.
@@ -575,21 +575,21 @@ Ammamma laughed and folded the newspaper. "Tomorrow we look at the Onam sale adv
 6. (write) Marie Tharp was not allowed on research ships but still found a valley in the sea floor. What does this suggest about who does the work behind a discovery?  
    **Answer:** A strong answer says that many people contribute to a discovery, including those who draw, compute and keep records, and they may be left out of the story. Noticing a pattern needs someone to look at all the data together.. *Why:* A strong answer says that the story often leaves out important people.
 7. (mcq) In 1989 a claim of making energy in a jar of water at room temperature was dropped. Why?  
-   Options: Nobody liked it / Other labs followed the steps and could not get the result / The jar broke / It was too expensive  
+   Options: Other labs followed the steps and could not get the result / Nobody liked it / The jar broke / It was too expensive  
    **Answer:** Other labs followed the steps and could not get the result. *Why:* A claim stands when others can repeat it. When labs around the world followed the steps and found nothing, the claim was set aside.
 8. (draw) Draw two panels. In the first, write a vague step for a job. In the second, write a clear step for the same job.  
    **Answer:** Any job, such as 'Add water' against 'Pour one cup, 250 millilitres, of water into the steel pot'.. *Why:* A strong drawing shows the clear step naming the amount, the tool and the place.
 9. (label) Here is the start of a letter that tells a stranger how to repeat a seed test. Label the amount, the tool, the time and what to look for.  
    **Answer:** The amount is 2 tablespoons, the tool is a steel bowl, the time is 6 to 8 hours, and what to look for is the small white tip of a sprout.. *Why:* A clear letter names all four, so the stranger does not have to guess.
 10. (mcq) A student says she can lift a small stone with her mind, but only when nobody is watching. What is the best reply?  
-   Options: Believe her / Ask for a test she can do while others watch, with steps that others can repeat / Say she is lying / Ask her to do it louder  
+   Options: Believe her / Say she is lying / Ask her to do it louder / Ask for a test she can do while others watch, with steps that others can repeat  
    **Answer:** Ask for a test she can do while others watch, with steps that others can repeat. *Why:* A claim that vanishes whenever it is checked cannot be tested. A fair reply asks for a test that can be repeated, and asks kindly.
 11. (write) Choose one thing you believe only because someone told you. How could you check it yourself, and what would you write so a stranger could repeat your check?  
    **Answer:** A strong answer names a real claim, a check that can be done at home, and a few clear steps with amounts, tools and places.. *Why:* This uses the ideas on something from the child's own life.
 12. (match) Match each problem to its fix.  
    **Answer:** The steps are vague → Add amounts, tools and places; Only one person got the result → Ask others to repeat it; Nobody can say why it happens → Look for a mechanism and test it; The seller ran the only test → Have a separate group test it. *Why:* Each fix deals with one reason why a discovery may not be believed.
 13. (mcq) Satellites can now measure the continents moving a few centimetres each year. What does this add to the case for moving continents?  
-   Options: A direct measurement of the movement that Wegener could not make / Nothing new / A reason to doubt it / A map of the Moon  
+   Options: Nothing new / A direct measurement of the movement that Wegener could not make / A reason to doubt it / A map of the Moon  
    **Answer:** A direct measurement of the movement that Wegener could not make. *Why:* Wegener had fossils, rocks and coasts. A direct measurement of movement is the kind of evidence that was missing.
 14. (truefalse) True or false: if two people see slightly different details through the same lens, the finding must be false.  
    **Answer:** False. *Why:* False. Hands, drops and eyes differ. What matters is whether they agree on the main finding.
@@ -605,16 +605,16 @@ Ammamma laughed and folded the newspaper. "Tomorrow we look at the Onam sale adv
 
 ## Quiz
 1. (mcq) Why did the Royal Society doubt Leeuwenhoek's report of tiny living beings in water?  
-   Options: They did not like cloth sellers / Nobody else had a lens strong enough to check it / They thought water was empty / They could not read Dutch  
+   Options: They did not like cloth sellers / They thought water was empty / Nobody else had a lens strong enough to check it / They could not read Dutch  
    **Answer:** Nobody else had a lens strong enough to check it. *Why:* A claim that no one else can check must wait. Doubting was not rude. It asked for a way to check.
 2. (mcq) When is a discovery really finished?  
-   Options: When one person sees something / When the person writes it down / When others can repeat it by following the steps / When it is printed  
+   Options: When others can repeat it by following the steps / When one person sees something / When the person writes it down / When it is printed  
    **Answer:** When others can repeat it by following the steps. *Why:* A result that only one person can get could be a mistake. When others repeat it, it becomes shared knowledge.
 3. (mcq) Which is the clearest step for a stranger to follow?  
-   Options: Make a small hole in the foil / Put the foil on a folded towel, press the tip of a sharp pencil once into it, and twist / Make a hole with something sharp / Poke the foil  
+   Options: Put the foil on a folded towel, press the tip of a sharp pencil once into it, and twist / Make a small hole in the foil / Make a hole with something sharp / Poke the foil  
    **Answer:** Put the foil on a folded towel, press the tip of a sharp pencil once into it, and twist. *Why:* The clear step names the tool, what to rest the foil on, the number of presses and the twist.
 4. (mcq) A helper follows your written steps and gets a very different result. What should you do first?  
-   Options: Tell the helper to try harder / Find the step that was unclear and rewrite it / Ignore the result / Give up  
+   Options: Tell the helper to try harder / Ignore the result / Give up / Find the step that was unclear and rewrite it  
    **Answer:** Find the step that was unclear and rewrite it. *Why:* If a careful person cannot follow the steps, the steps are the problem. Watching the helper shows which step to fix.
 5. (mcq) Why does a drop of water in a small hole make print look bigger?  
    Options: The water is wet / The curved surface bends light as it passes between air and water / The water is cold / The foil is shiny  
@@ -626,19 +626,19 @@ Ammamma laughed and folded the newspaper. "Tomorrow we look at the Onam sale adv
    Options: There was no evidence at all / No force that could move continents was known, and it came from outside geology / The Earth was too small / Continents are too light  
    **Answer:** No force that could move continents was known, and it came from outside geology. *Why:* The evidence was strong, but the missing 'how' made the idea easy to doubt. New sea-floor evidence in the 1960s supplied it.
 8. (mcq) In a test with meat or fruit in three jars, maggots appeared in the open jar but not in the sealed one. What does this show?  
-   Options: The meat made the maggots / The maggots came from flies that could reach the meat / The lid made the meat fresh / Maggots live in air  
+   Options: The maggots came from flies that could reach the meat / The meat made the maggots / The lid made the meat fresh / Maggots live in air  
    **Answer:** The maggots came from flies that could reach the meat. *Why:* The meat was the same in both jars. The only difference was whether flies could reach it.
 9. (mcq) In the Redi's Jars test with banana, flies landed and laid eggs on the cloth of the cloth-covered jar, but no maggots got into the banana. Why is this important?  
-   Options: The smell got through the cloth, so smell alone does not make maggots / The cloth made flies / The banana was too ripe / Cloth is magic  
+   Options: The cloth made flies / The smell got through the cloth, so smell alone does not make maggots / The banana was too ripe / Cloth is magic  
    **Answer:** The smell got through the cloth, so smell alone does not make maggots. *Why:* Smell passed through the cloth but flies could not. Without flies reaching the banana, there were no maggots. So the flies, not the smell, mattered.
 10. (mcq) Why can a good idea be rejected for years?  
-   Options: Good ideas are always wrong at first / It may have no explanation yet for how it works, and it goes against what experts believe / Because it is easy / Because nobody reads  
+   Options: Good ideas are always wrong at first / Because it is easy / It may have no explanation yet for how it works, and it goes against what experts believe / Because nobody reads  
    **Answer:** It may have no explanation yet for how it works, and it goes against what experts believe. *Why:* An idea can be right but lack a mechanism, or need new tools to check it. Evidence can take years to arrive.
 11. (mcq) Which is the best reason to keep believing an old idea?  
-   Options: It is old / Experts say so / Many fair tests, repeated by different people, still support it / It makes a good story  
+   Options: Many fair tests, repeated by different people, still support it / It is old / Experts say so / It makes a good story  
    **Answer:** Many fair tests, repeated by different people, still support it. *Why:* Age, fame and a good story do not make an idea true. Repeated fair tests do.
 12. (mcq) Many discoveries rest on people who collect measurements and draw them, not only on the person whose name is on the idea. Why should those people be remembered too?  
-   Options: Because without their data the pattern could not have been seen / Because they were rich / Because the idea was theirs alone / Because it is polite  
+   Options: Because they were rich / Because the idea was theirs alone / Because it is polite / Because without their data the pattern could not have been seen  
    **Answer:** Because without their data the pattern could not have been seen. *Why:* A pattern in a pile of numbers needs someone to gather them and draw them together. Leaving these people out gives a false picture of how discoveries happen.
 
 ## Applications
@@ -721,6 +721,13 @@ Who Else Is Standing There (sci.how-we-know.L4): Topic-level song
 - [A roll of kitchen aluminium foil](https://www.amazon.in/s?k=aluminium+foil+roll+kitchen) (material): For the water-drop lenses. Most kitchens already have one. Used in e1, c1. 
 - [A piece of thin cotton muslin cloth](https://www.amazon.in/s?k=muslin+cloth+kitchen) (material): To cover the cloth jar in Redi's Jars. A thin cotton scarf or dupatta also works. Used in e2. 
 - [A small magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (material): To check your water-drop lens against a glass one, and for the Size Card challenge. Used in c1. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in A String of Years: how long does belief take?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in a3. Get it before A String of Years: how long does belief take?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Water-Drop Lens: can someone else see what you saw?, A String of Years: how long does belief take?, Describe It, Then Draw It: steps that carry a picture. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a3, a4, p1. Get it before The Water-Drop Lens: can someone else see what you saw?.
+- [A set of lenses (convex and concave)](https://www.amazon.in/s?k=convex+concave+lens+set) (tool): Used in The Size Card: report how big something looks, so anyone can check. About ₹80 to ₹250. A magnifying glass is one convex lens. Used in c1. Get it before The Size Card: report how big something looks, so anyone can check.
+- [Butter paper or tracing paper](https://www.amazon.in/s?k=butter+paper+roll) (material): Used in Fit the Coasts: how much does a puzzle prove?. About ₹30 to ₹80 for a roll. Thin clean plastic bag or a sheet of waxed paper. Used in a2. Get it before Fit the Coasts: how much does a puzzle prove?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in My Sprout Notebook: watch, draw and write for a stranger, The Size Card: report how big something looks, so anyone can check. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in p1, c1. Get it before My Sprout Notebook: watch, draw and write for a stranger.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Fit the Coasts: how much does a puzzle prove?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in a2. Get it before Fit the Coasts: how much does a puzzle prove?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - When is a discovery finished? → When others can repeat it by following the steps.
@@ -741,7 +748,7 @@ Who Else Is Standing There (sci.how-we-know.L4): Topic-level song
 ## Sources
 - The founder's Fringe Science concept grid for Grades 3 and 4 (belief should track evidence; replication; many anomalies fade but some lead to real discoveries), used for the ideas about repeating a test and about good ideas that were doubted.
 - The founder's SCI Cards on credit and who is left out (Rosalind Franklin, Bibha Chowdhuri, Marietta Blau and others), which shaped the card on the hands behind discoveries. Marie Tharp, Maria Sibylla Merian and Anna Mani were chosen as further examples.
-- The Class 3 unit on stories of discovery, which this unit builds on: accidents, mistakes and credit. This unit adds how a discovery wins belief.
+- The Class 3 unit on stories of discovery, which this lesson builds on: accidents, mistakes and credit. This lesson adds how a discovery wins belief.
 - Antoni van Leeuwenhoek, letters to the Royal Society, 1674 to 1677, and Robert Hooke's report of repeating the observations, 1677
 - Robert Hooke, Micrographia, 1665
 - Francesco Redi, Esperienze intorno alla generazione degl'insetti, 1668

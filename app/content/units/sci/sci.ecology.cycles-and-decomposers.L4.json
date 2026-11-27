@@ -566,11 +566,11 @@
       "t": "mcq",
       "q": "A fungus pours enzymes on a fallen branch and soaks up the food. Which crew is she?",
       "options": [
-       "Digester (decomposer)",
        "Scavenger",
-       "Shredder (detritivore)"
+       "Shredder (detritivore)",
+       "Digester (decomposer)"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A decomposer digests food outside her body with enzymes. A shredder chews food small, inside her mouth. A scavenger finds dead animals. A wrong pick often comes from thinking that anything which eats a dead thing is a scavenger."
      },
      "context": "In this step, you play the game to the end and learn from each back."
@@ -869,11 +869,11 @@
       "t": "mcq",
       "q": "Why must all three portions start with the same weight?",
       "options": [
-       "So only the size of the pieces changes",
        "So the carrot looks neat",
-       "So the boxes close well"
+       "So the boxes close well",
+       "So only the size of the pieces changes"
       ],
-      "a": 0,
+      "a": 2,
       "why": "In a fair test, only one thing changes. If one portion were heavier, you would not know if its weight or its size made the difference."
      },
      "context": "In this step, you cut the carrot and set up the three boxes."
@@ -910,11 +910,11 @@
       "t": "mcq",
       "q": "The grated carrot rotted first. What is the best reason?",
       "options": [
-       "Cutting made more surface for decomposers to work on",
        "Grated carrot is heavier",
-       "Carrot only rots when it is cut"
+       "Carrot only rots when it is cut",
+       "Cutting made more surface for decomposers to work on"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Decomposers work on the outside of their food. Grating makes lots of new outside, so there is more room to work. The grated carrot is not heavier: all three portions weighed the same."
      },
      "context": "This is the last step of Cut It Up. You draw the graph and explain what you found."
@@ -1045,11 +1045,11 @@
       "t": "mcq",
       "q": "What are the white threads in soil most likely to be?",
       "options": [
-       "A fungus growing through the soil",
        "Worm hair",
-       "Bits of plastic"
+       "Bits of plastic",
+       "A fungus growing through the soil"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Fungus threads are called hyphae. They are very thin and white or grey, and they grow through the soil and dead leaves. A wrong pick often comes from not looking closely. A hand lens shows that the threads branch."
      },
      "context": "In this step, you look closely for the three kinds of things that are in soil."
@@ -1266,11 +1266,11 @@
       "t": "mcq",
       "q": "Why does a plastic wrapper last so long?",
       "options": [
-       "Almost no decomposer makes enzymes that fit plastic",
        "Plastic is too hard to see",
+       "Almost no decomposer makes enzymes that fit plastic",
        "Plastic has no weight"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Decomposers have enzymes that fit the materials they have met for millions of years. Plastic is new, so few have the right tool. A wrong pick mixes up 'does not rot' with 'is not there'."
      },
      "context": "This is the last step of Who Eats It? You find the leftovers that nobody can eat."
@@ -1358,11 +1358,11 @@
       "t": "mcq",
       "q": "A crow picks at a dropped chapati. What is the crow?",
       "options": [
-       "A scavenger",
        "A decomposer",
+       "A scavenger",
        "A producer"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A scavenger finds and eats leftovers or dead animals. A decomposer digests food outside her body with enzymes, like a fungus. A wrong pick often comes from thinking that every cleanup creature is a decomposer."
      },
      "context": "This is the last step of Street Cleaners. You sort the visitors into the crews."
@@ -1468,11 +1468,11 @@
       "t": "mcq",
       "q": "Why do all three pots get the same amount of seeds, water and light?",
       "options": [
-       "So only what the seeds grow in is different",
        "So the plants look the same",
+       "So only what the seeds grow in is different",
        "So the pots do not dry out"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A fair test changes only one thing. If one pot had more light or water, we would not know if the soil or the light made the difference."
      },
      "context": "In this step, you fill and plant the three pots."
@@ -1619,11 +1619,11 @@
    "t": "mcq",
    "p": "A fungus grows through a fallen branch and turns it soft. What is she doing?",
    "opts": [
-    "Pouring enzymes on the wood and soaking up the food",
     "Chewing the wood with teeth",
-    "Making the wood into stone"
+    "Making the wood into stone",
+    "Pouring enzymes on the wood and soaking up the food"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A fungus digests food outside her body. She pours enzymes on it, and then soaks up what dissolves. She has no mouth and no teeth.",
    "outcome": 0
   },
@@ -1643,11 +1643,11 @@
    "t": "mcq",
    "p": "The limewater above damp soil turned milky. What gas did the soil give out?",
    "opts": [
-    "Carbon dioxide",
     "Oxygen",
-    "Water vapour only"
+    "Water vapour only",
+    "Carbon dioxide"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Limewater reacts with carbon dioxide and makes tiny white bits of chalk. Soil microbes breathe out the carbon dioxide.",
    "outcome": 1
   },
@@ -1655,11 +1655,11 @@
    "t": "mcq",
    "p": "In the Breathing Soil test, the jar with only air stayed clear. What does this tell us?",
    "opts": [
-    "The gas came from the soil and peel, and not from the limewater or air",
     "Air is not important",
-    "Limewater never changes"
+    "Limewater never changes",
+    "The gas came from the soil and peel, and not from the limewater or air"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The check jar shows what happens without the soil. It stayed clear, so the soil and the peel were the cause.",
    "outcome": 1
   },
@@ -1667,11 +1667,11 @@
    "t": "mcq",
    "p": "What happens to most of the carbon in a rotting log?",
    "opts": [
-    "It is breathed out as carbon dioxide",
     "It turns into stone",
-    "It stays in the log for ever"
+    "It stays in the log for ever",
+    "It is breathed out as carbon dioxide"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Decomposers breathe out most of the carbon as carbon dioxide. The rest becomes humus and the bodies of decomposers.",
    "outcome": 2
   },
@@ -1691,11 +1691,11 @@
    "t": "mcq",
    "p": "Which is true about matter and energy in a forest?",
    "opts": [
-    "Matter goes round, and energy flows through and ends as heat",
     "Matter and energy both go round",
+    "Matter goes round, and energy flows through and ends as heat",
     "Energy goes round, and matter is used up"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The atoms are used again and again, but energy from the Sun is passed along and ends as heat.",
    "outcome": 3
   },
@@ -1715,11 +1715,11 @@
    "t": "mcq",
    "p": "Which place will keep a dead plant the longest?",
    "opts": [
-    "A peat bog with no air",
     "A warm wet forest floor",
+    "A peat bog with no air",
     "A compost heap"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Decomposers need air to breathe. In a peat bog, there is almost no air, so dead plants pile up for thousands of years.",
    "outcome": 4
   },
@@ -1727,11 +1727,11 @@
    "t": "mcq",
    "p": "What happened to vultures in India in the 1990s and 2000s?",
    "opts": [
-    "More than 95 out of 100 died after eating cattle treated with diclofenac",
     "They flew to another country",
-    "They stopped eating dead animals"
+    "They stopped eating dead animals",
+    "More than 95 out of 100 died after eating cattle treated with diclofenac"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Scientists showed that the painkiller diclofenac, left in dead cattle, caused kidney failure in the vultures.",
    "outcome": 5
   },
@@ -1739,11 +1739,11 @@
    "t": "mcq",
    "p": "Which of these has no cleanup crew yet?",
    "opts": [
-    "A plastic bag",
     "A banana peel",
+    "A plastic bag",
     "A dead leaf"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Plastic is new, so almost no decomposer makes an enzyme that fits it. The peel and the leaf come from plants.",
    "outcome": 5
   },
@@ -1751,11 +1751,11 @@
    "t": "mcq",
    "p": "You want to test whether warmth speeds up rotting. Which is a fair test?",
    "opts": [
-    "Same carrot, same box, one on a warm shelf and one in the fridge",
     "A big carrot on a warm shelf and a small carrot in the fridge",
-    "One carrot, looked at once"
+    "One carrot, looked at once",
+    "Same carrot, same box, one on a warm shelf and one in the fridge"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A fair test changes only one thing. Here, only the temperature changes.",
    "outcome": 6
   }
@@ -1871,11 +1871,11 @@
      "t": "mcq",
      "p": "In the Breathing Soil test, jar C had only air and limewater. Why was it there?",
      "opts": [
-      "To show what limewater does with no soil",
       "To make the test look bigger",
+      "To show what limewater does with no soil",
       "To hold the soil"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A check jar shows what happens without the thing you are testing. Jar C stayed clear, so the gas in the other jar came from the soil.",
      "outcome": 1
     },
@@ -1969,11 +1969,11 @@
      "t": "mcq",
      "p": "A 4 centimetre cube is cut into 64 cubes of 1 centimetre. What happens to its surface?",
      "opts": [
-      "It becomes 4 times bigger",
       "It stays the same",
+      "It becomes 4 times bigger",
       "It becomes 64 times bigger"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The big cube has a surface of 96 square centimetres. The 64 small cubes have 384 square centimetres in all. 384 divided by 96 is 4.",
      "outcome": 4
     },
@@ -1998,11 +1998,11 @@
      "t": "mcq",
      "p": "Why do earthworms and millipedes speed up rotting?",
      "opts": [
-      "They make small bits, so fungi have more surface to work on",
       "They kill the fungi",
+      "They make small bits, so fungi have more surface to work on",
       "They add water to the leaf"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Chewing makes many small bits, and each bit has surface that decomposers can use. A wrong pick often comes from thinking that the animals do all the work.",
      "outcome": 4
     },
@@ -2146,11 +2146,11 @@
      "t": "mcq",
      "p": "A dry log in a desert lasts for decades, but the same log in a rainforest is gone in a few years. What does this show?",
      "opts": [
-      "Rotting depends on warmth, water and air",
       "Desert wood is stronger",
+      "Rotting depends on warmth, water and air",
       "Rainforest wood is softer"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The same kind of wood rots at different speeds depending on whether decomposers have water, warmth and air.",
      "outcome": 4
     },
@@ -2287,11 +2287,11 @@
      "t": "mcq",
      "p": "What does it mean to say that a forest has no waste?",
      "opts": [
-      "Every leftover is food for something",
       "Forests are always clean",
-      "Nothing ever dies in a forest"
+      "Nothing ever dies in a forest",
+      "Every leftover is food for something"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A forest recycles because decomposers eat the leftovers and send the matter back to plants. A wrong pick often mixes up clean with recycled.",
      "outcome": 2
     },
@@ -2594,6 +2594,64 @@
    "used_in": [
     "p1"
    ]
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Does rot feed the next plant? Methi in three pots. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before Does rot feed the next plant? Methi in three pots."
+  },
+  {
+   "id": "b-clean-sand--a-small-bag",
+   "item": "Clean sand (a small bag)",
+   "kind": "material",
+   "why": "Used in Does rot feed the next plant? Methi in three pots. About ₹20 to ₹60. Fine soil sieved from a pot works.",
+   "url": "https://www.amazon.in/s?k=play+sand+small+bag",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before Does rot feed the next plant? Methi in three pots."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in Does rot feed the next plant? Methi in three pots. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before Does rot feed the next plant? Methi in three pots."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in Cut It Up: does chopping help the decomposers?. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before Cut It Up: does chopping help the decomposers?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

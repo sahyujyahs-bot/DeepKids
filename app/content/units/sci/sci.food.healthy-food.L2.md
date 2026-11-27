@@ -1,9 +1,9 @@
 # Healthy food: foods that help us grow, give us energy and protect us
 `sci.food.healthy-food.L2`
 
-**Summary.** Spit makes thick rice paste go runny, but water does not. Why? In this unit you will run that spit test, sort your own lunch into foods that help you grow, give you energy or protect you, and play a card sorting game with the same three jobs.
+**Summary.** Spit makes thick rice paste go runny, but water does not. Why? In this lesson you will run that spit test, sort your own lunch into foods that help you grow, give you energy or protect you, and play a card sorting game with the same three jobs.
 
-**Intro.** *A plain chapati does not taste sweet. But chew a piece for a long time, and it does start to taste a little sweet. Why would that happen?* Many children notice that a chewed chapati starts to taste a little sweet. Something in your mouth is changing the food. In this unit we test what spit does to rice-flour paste. We find out why food gives us energy. We also sort foods by their jobs: some help us grow, some give us energy, and some protect us from getting ill. And we ask why sweets are treats, not every-meal foods.
+**Intro.** *A plain chapati does not taste sweet. But chew a piece for a long time, and it does start to taste a little sweet. Why would that happen?* Many children notice that a chewed chapati starts to taste a little sweet. Something in your mouth is changing the food. In this lesson we test what spit does to rice-flour paste. We find out why food gives us energy. We also sort foods by their jobs: some help us grow, some give us energy, and some protect us from getting ill. And we ask why sweets are treats, not every-meal foods.
 
 ## Learning outcomes
 0. By the end I can say the three jobs food does: help me grow, give me energy, and protect me.
@@ -19,6 +19,8 @@
 - **Energy foods**: Energy foods give your body most of the energy it uses. Grains, potatoes, sugar, ghee and oil are energy foods. *e.g.* Rice, ragi, chapati, idli, poha and potatoes are energy foods.
 - **Protect foods**: Protect foods help your body stay well and fight illness. They give tiny amounts of helpers called vitamins and minerals. *e.g.* Greens, carrots, tomatoes, guavas, amla, bananas and papaya are protect foods.
 - **Starch**: Starch is the main food stored in grains and potatoes. It is made of many sugar pieces joined in long chains. *e.g.* Rice, ragi, wheat and potatoes are full of starch.
+- **Cereal**: A cereal is a grain that people grow and eat, like rice, wheat, ragi or bajra. Cereals are full of starch. *e.g.* Rice in Kerala, wheat for chapati in Punjab and ragi in Karnataka.
+- **Pulse**: A pulse is the dried seed of a bean or lentil plant. Pulses give protein for growing. *e.g.* Moong, masoor, chana and rajma are all pulses. We cook them as dal.
 - **Saliva**: Saliva is the proper word for spit. It wets your food and starts breaking it down. *e.g.* Your mouth fills with saliva when you smell hot dosa.
 - **Treat**: A treat is a food we have now and then, in a small amount. Treats have lots of sugar, fat or salt, and very little that helps you grow or stay well. *e.g.* A laddu at Diwali, a piece of mysorepak, or a packet of chips on a trip.
 
@@ -30,6 +32,11 @@ Your body grows taller every year, mends a cut finger, and runs, thinks and keep
 - e.g. An idli with sambar and a banana gives energy from the idli, grow food from the dal in the sambar, and protect food from the vegetables and banana.
 - e.g. Poha with peanuts, peas and a squeeze of lemon is a breakfast with all three jobs.
 - e.g. Fish curry and rice, eaten in Bengal and Kerala, gives grow food and energy food. A side of greens adds protect food.
+### Food families, and food that mends · *idea*
+Foods come in families with their own names. Rice, wheat, ragi and bajra are cereals, which are grains. Dal, rajma, chana and moong are pulses, which are dried seeds of bean plants. Fruits, vegetables and milk are families too. Food also mends you. When you scrape your knee, the protein in dal, egg or paneer helps build new skin. The vitamin C in a guava, an amla or a lemon helps the cut close.
+- e.g. Chapati is made from wheat, a cereal. The dal you eat with it is a pulse.
+- e.g. A guava eaten after a scraped knee gives vitamin C to help the cut close.
+- e.g. Curd, a vegetable sabzi and a fruit are three more families on one plate.
 ### How energy foods give us energy · *defined*
 **Definition:** Energy foods are full of starch, and starch is long chains of sugar. Your body cuts the chains into sugar and uses the sugar for energy.
 
@@ -40,7 +47,7 @@ Rice and chapati do not taste sweet, but their starch is made of sugar pieces jo
 ### Treats in small amounts · *defined*
 **Definition:** Treats give lots of energy from sugar or fat, but little to help you grow or protect you. So they are best now and then, in small amounts.
 
-Sweets, sweet drinks, chips and fried snacks taste very good and give a lot of energy quickly. But they do little to help you grow or to protect you. If treats fill your tummy, there is less room for foods that build and protect you. Sugar also stays on your teeth, where tiny living beings called bacteria feed on the sugar and make acid. So a treat is for sometimes, like payasam at Onam or a sweet at Durga Puja.
+Sweets, sweet drinks, chips and fried snacks taste very good and give a lot of energy quickly. But they do little to help you grow or to protect you. If treats fill your tummy, there is less room for foods that build and protect you. Sugar also stays on your teeth, where tiny living beings called bacteria feed on the sugar and make acid. So a treat is for sometimes, like payasam at Onam or a sweet at Durga Puja. Many people call these foods junk food. A plate of dal, rice, sabzi and curd is the opposite. It fills you up and helps you grow, run and stay well.
 - e.g. Many sweet fizzy drinks have about 4 to 5 teaspoons of sugar in one 200 ml glass.
 - e.g. A small plate of murukku at Diwali is a treat. A plate every day after school is not.
 - e.g. A guava gives sweetness and vitamins that protect you, together. A packet of sweets gives only the sweetness.
@@ -51,6 +58,16 @@ Most foods are a mix. Milk gives protein to grow, fat and sugar for energy, and 
 - e.g. Ragi gives energy, and also a lot of calcium for bones.
 - **Teachers and doctors who use three food groups:** Grow, energy and protect are easy to remember, and they help a family plan a meal with a bit of everything.
 - **Nutrition scientists:** Real foods are mixtures. They count the protein, starch, fat, vitamins and minerals in each food, and use more than three groups.
+### Water, the drink your body needs · *idea*
+More than half of your body is water. Water carries the good parts of food around your body in your blood. It also leaves your body as sweat, which cools you on a hot day, and as pee, which takes away waste. You lose water all day, so you must drink to replace it. Water gives no energy and does not build muscle like dal does. But without it, no food can do its work. Thirst is your body asking for water.
+- e.g. After a game of kabaddi your shirt is wet with sweat. A glass of water gives back what you lost.
+- e.g. On a hot day in Rajasthan, people drink chaas, nimbu pani and plain water from a matka to stay cool inside.
+- e.g. Fruits like watermelon and cucumber have a lot of water in them, so they help too.
+### Different ages need different food · *idea*
+A tiny baby needs only milk for about the first six months, and mother's milk is best. Then the baby slowly starts soft foods like mashed rice, dal water and banana. In many Indian families this first rice is a small ceremony called annaprashan. A child is growing taller every year, so a child needs plenty of grow foods like dal, milk and eggs, and energy foods for running and play. Grandparents have finished growing. Their teeth are often weaker, so they eat softer food like khichdi and curd. Many elders also eat less salt and sugar, and need calcium to keep bones strong. Everyone still needs all three jobs of food, just in different amounts and in a form their body can manage.
+- e.g. A six-month-old tastes a smear of mashed banana. A seven-year-old eats an egg and a chapati.
+- e.g. A grandmother with weak teeth has soft khichdi with ghee and a glass of buttermilk.
+- e.g. The whole family sits at one meal, but each plate is a little different.
 
 ## Mostly agreed
 - The body needs protein to grow and mend, energy to move and keep warm, and vitamins and minerals to stay well. *How we know:* Children who do not get enough protein grow slowly. People who go without certain vitamins fall ill in ways doctors know well, and get better when those foods are added back.
@@ -352,7 +369,7 @@ That evening, Lakshmi lay on the cool floor and thought. Ammamma's payasam had l
   - Ask: Why only one treat? (good: So there is room for the other foods.; Too much sugar hurts my teeth.; A treat is special because it is not every day.)
 
 ## Worksheets
-### Three jobs, and the spit test (core, 10 questions)
+### Three jobs, and the spit test (core, 12 questions)
 1. (sort) Colour each food by its main job: red for grow, yellow for go, green for protect.  
    **Answer:** dal → Grow; rice → Go; carrot → Protect; egg → Grow; ragi mudde → Go; guava → Protect. *Why:* Dal and egg are rich in protein, for growing. Rice and ragi are mostly starch, for energy. Carrot and guava give vitamins that protect.
 2. (match) Draw a line from each job to what it does for you.  
@@ -369,14 +386,18 @@ That evening, Lakshmi lay on the cool floor and thought. Ammamma's payasam had l
 7. (label) Idli, sambar and a banana are on a plate. Write G for grow, E for energy or P for protect.  
    **Answer:** E next to the idli, G next to the sambar, P next to the banana. The banana could also get an E.. *Why:* Idli is mostly rice starch. Sambar is made with dal, a grow food, and vegetables. A banana is a protect food, and it also gives sugar for energy.
 8. (mcq) You eat a big plate of sweets, and now you do not want your dinner. What is the problem?  
-   Options: Sweets filled you up, so there is no room for grow and protect foods / Sweets have too much protein / There is no problem  
+   Options: Sweets have too much protein / There is no problem / Sweets filled you up, so there is no room for grow and protect foods  
    **Answer:** Sweets filled you up, so there is no room for grow and protect foods. *Why:* Sweets give lots of energy but do little to help you grow or stay well. When they fill the tummy, the body misses the foods that build and protect it.
 9. (mcq) A friend says: 'Only sweet foods give us sugar.' What would you tell your friend?  
-   Options: Rice and chapati give sugar too, because the body cuts their starch into sugar / Your friend is right / Sugar comes only from sugarcane  
+   Options: Your friend is right / Rice and chapati give sugar too, because the body cuts their starch into sugar / Sugar comes only from sugarcane  
    **Answer:** Rice and chapati give sugar too, because the body cuts their starch into sugar. *Why:* Starch is sugar pieces joined in chains. Spit and the gut cut the chains, so starchy foods give sugar even when they do not taste sweet.
 10. (truefalse) A guava can taste sweet and still be a protect food.  
    **Answer:** True. *Why:* True. A guava has some sugar, and lots of vitamin C. Taste does not tell you a food's job.
-### Thinking about food jobs (stretch, 10 questions)
+11. (match) Draw a line from each person to the food that suits them best.  
+   **Answer:** A baby of four months → Only milk; A seven-year-old who plays all day → Dal, rice, egg or milk, and fruit; A grandmother with weak teeth → Soft khichdi and curd. *Why:* Everyone needs the three jobs of food, but a baby, a child and an elder need them in different forms and amounts.
+12. (fill) Rice, wheat and ragi are ______. Dal, rajma and chana are ______.  
+   **Answer:** ['cereals', 'pulses']. *Why:* Cereals are grains. Pulses are dried seeds of bean and lentil plants.
+### Thinking about food jobs (stretch, 12 questions)
 1. (write) Say it out loud, and a grown-up writes it: why does a chapati start to taste sweet if you chew it for a long time?  
    **Answer:** Spit cuts the starch in the chapati into sugar, and we can taste the sugar.. *Why:* A strong answer says that the starch was there all along, and spit turns some of it into sugar while you chew.
 2. (perspective) A girl and her grandmother are talking about milk.  
@@ -388,7 +409,7 @@ That evening, Lakshmi lay on the cool floor and thought. Ammamma's payasam had l
 5. (truefalse) Everyone's spit thins starch paste at exactly the same speed.  
    **Answer:** False. *Why:* False. People have different amounts of amylase in their spit, so some people's spit thins the paste faster than others'.
 6. (mcq) You want a drink after playing. Which is the everyday drink, not a treat?  
-   Options: Plain water / A bottle of sweet fizzy drink / A packet of sweet fruit drink  
+   Options: A bottle of sweet fizzy drink / Plain water / A packet of sweet fruit drink  
    **Answer:** Plain water. *Why:* Water has no sugar and gives your body the water it lost. Sweet drinks are treats, because of all their sugar.
 7. (write) Say it out loud, and a grown-up writes it: a friend says, 'If a food is healthy, I can eat as much as I like.' What would you tell them?  
    **Answer:** Even healthy foods are best in a mix. If you eat only one food, you miss the other jobs.. *Why:* A strong answer says that the body needs all three jobs, so a plate of only one food, even a healthy one, leaves something out.
@@ -400,6 +421,11 @@ That evening, Lakshmi lay on the cool floor and thought. Ammamma's payasam had l
 10. (odd) Three of these are grow foods. Which one is not?  
    Options: Egg / Fish / Dal / Rice  
    **Answer:** 3. *Why:* Egg, fish and dal are rich in protein for growing. Rice is mostly starch, so it is a go food.
+11. (write) Say it out loud, and a grown-up writes it: your friend says, 'Water is not food, so it does nothing for me.' What would you say?  
+   **Answer:** Water gives no energy, but more than half of my body is water. It carries food parts in my blood and leaves as sweat to cool me, so I must keep drinking.. *Why:* A strong answer says water is not a food that gives energy or builds muscle, and also says what it does for the body.
+12. (mcq) Your grandfather has a cut on his hand. Which meal helps it heal best?  
+   Options: Only sweet tea / Dal, an egg and a guava / A packet of chips  
+   **Answer:** Dal, an egg and a guava. *Why:* Dal and egg give protein to build new skin. A guava gives vitamin C to help the cut close. Sweet tea and chips give little of either.
 
 ## Videos
 - **Why do we have saliva?** (SciShow Kids, 3 min) id `SZYA9cQpSCU`: Shows that saliva in the mouth starts breaking food down, the first step of digestion. *Check:* Found by search: "Why Do We Have Saliva?" by SciShow Kids, 2 min 54 s. A parent may preview it.
@@ -408,7 +434,7 @@ That evening, Lakshmi lay on the cool floor and thought. Ammamma's payasam had l
 
 ## Quiz
 1. (mcq) What are the three main jobs of food?  
-   Options: Grow, go and protect / Sweet, sour and salty / Hot, cold and warm  
+   Options: Sweet, sour and salty / Grow, go and protect / Hot, cold and warm  
    **Answer:** Grow, go and protect. *Why:* Food helps your body grow and mend, gives it energy, and protects it from illness. Sweet, sour and salty are tastes, not jobs.
 2. (mcq) Which of these is a grow food?  
    Options: Rice / Dal / Jalebi  
@@ -417,10 +443,10 @@ That evening, Lakshmi lay on the cool floor and thought. Ammamma's payasam had l
    Options: Spinach / Chapati / Chips  
    **Answer:** Spinach. *Why:* Spinach and other greens give vitamins and minerals that help you stay well.
 4. (mcq) In the spit test, the rice paste with water stayed thick. The one with spit went runny. Why?  
-   Options: Spit cuts starch into sugar / Spit is colder than water / Spit is thicker than water  
+   Options: Spit is colder than water / Spit is thicker than water / Spit cuts starch into sugar  
    **Answer:** Spit cuts starch into sugar. *Why:* Spit has amylase, which cuts the long starch chains that keep the paste thick.
 5. (mcq) Spit has amylase, which cuts starch. You stir spit into a bowl of thick curd. Why does the curd not go runny?  
-   Options: Curd is thick from milk protein, not starch / There was too much curd / The curd was cold  
+   Options: There was too much curd / The curd was cold / Curd is thick from milk protein, not starch  
    **Answer:** Curd is thick from milk protein, not starch. *Why:* Amylase cuts starch. Curd is thick because milk protein has set, not because of starch, so amylase does not thin it.
 6. (mcq) Which food is mostly starch, so it gives you energy?  
    Options: Ragi mudde / Boiled egg / Cucumber  
@@ -429,16 +455,28 @@ That evening, Lakshmi lay on the cool floor and thought. Ammamma's payasam had l
    Options: It has lots of sugar and very little that helps you grow or stay well / It has too much protein / It has no water in it  
    **Answer:** It has lots of sugar and very little that helps you grow or stay well. *Why:* Many sweet fizzy drinks have 4 to 5 teaspoons of sugar in a glass, and almost nothing else that helps you grow or stay well.
 8. (mcq) Milk helps you grow, gives energy and keeps bones strong. What does this show?  
-   Options: One food can do more than one job / Milk is a treat / Milk has no protein  
+   Options: Milk is a treat / Milk has no protein / One food can do more than one job  
    **Answer:** One food can do more than one job. *Why:* Most foods are a mix. Milk gives protein, fat, sugar and calcium.
 9. (mcq) Before the Spit Test, you guess that the bowl of rice paste with water will go runniest. It stays thick. What should you say?  
-   Options: My guess was wrong. Spit did something water did not. / The test is broken. / Water always makes things runny.  
+   Options: The test is broken. / My guess was wrong. Spit did something water did not. / Water always makes things runny.  
    **Answer:** My guess was wrong. Spit did something water did not.. *Why:* A good scientist changes their idea when the test shows something new.
 10. (mcq) Why did the two paste bowls get the same amount of paste?  
-   Options: So that only one thing changed, and the test was fair / To save paste / So the bowls looked nice  
+   Options: To save paste / So that only one thing changed, and the test was fair / So the bowls looked nice  
    **Answer:** So that only one thing changed, and the test was fair. *Why:* In a fair test, only one thing changes. Here it was what we stirred into the paste: water or spit.
 11. (truefalse) A small treat at a festival is fine, as part of a meal with grow, go and protect foods.  
    **Answer:** True. *Why:* True. Treats are part of the fun of festivals. The trouble comes when treats are eaten often and push other foods out.
+12. (mcq) Moong, masoor and chana are dried seeds that we cook as dal. Which food family are they?  
+   Options: Pulses / Cereals / Fruits  
+   **Answer:** Pulses. *Why:* Pulses are dried seeds of bean and lentil plants, and they give protein. Cereals are grains like rice and wheat. Fruits grow on plants as fleshy, often sweet, parts.
+13. (mcq) You scrape your knee. Which meal helps new skin grow back?  
+   Options: A packet of chips and a sweet fizzy drink / Dal, rice and a guava / Only a plate of jalebi  
+   **Answer:** Dal, rice and a guava. *Why:* The protein in dal helps build new skin, and the vitamin C in a guava helps the cut close. Chips, fizzy drinks and jalebi are treats with little of either.
+14. (mcq) After a hot game your shirt is wet with sweat. Why should you drink water?  
+   Options: Water gives you the energy that rice gives / Water builds muscle, like dal / Your body lost water in the sweat and needs it back  
+   **Answer:** Your body lost water in the sweat and needs it back. *Why:* Sweat is mostly water, so you must replace it. Water gives no energy and does not build muscle, but food cannot do its work without it.
+15. (mcq) Why does a baby of four months get only milk, and not rice and dal?  
+   Options: Babies do not need to grow / Milk has all a tiny baby needs, and the baby's body is not ready for other food yet / Rice and dal are poison for everyone  
+   **Answer:** Milk has all a tiny baby needs, and the baby's body is not ready for other food yet. *Why:* A tiny baby's body can manage milk, and milk gives all three jobs. Soft foods start slowly at about six months. Babies grow very fast, and rice and dal are fine later.
 
 ## Applications
 - Doctors and nurses check what young children eat, and give extra grow foods to children who are growing slowly.
@@ -447,9 +485,9 @@ That evening, Lakshmi lay on the cool floor and thought. Ammamma's payasam had l
 - India adds iodine to salt, and many states add iron to rice in schemes for school meals, to protect people from illness.
 
 ## Spotted around us
-- Banana-leaf meals at an Onam sadya or in a Chennai restaurant, with rice, sambar, vegetables and a small payasam.
+- Banana-leaf meals at an Onam sadya or in a restaurant, with rice, sambar, vegetables and a small payasam.
 - A school midday meal of rice, dal and vegetables served from big steel vessels.
-- Ragi mudde served with soppu saaru, a greens curry, in Karnataka homes and eateries.
+- Ragi mudde served with soppu saaru, a greens curry.
 - Sweet shops before Diwali, Eid and Durga Puja, piled with laddus, jalebis and rasgullas.
 - Fruit carts with guavas, papayas and bananas at street corners in every city.
 
@@ -487,11 +525,14 @@ Grow, Go and Protect (sci.food.L2): Topic-level song for Food L2
 ## Links
 - [Eat Right India](https://eatrightindia.gov.in/) · interactive: For the parent: plain advice on healthy food from India's food safety authority, with ideas for children.
 - [National Institute of Nutrition](https://www.nin.res.in/) · interactive: For the parent: India's own dietary guidelines and food tables, from the institute in Hyderabad.
-- [Koyambedu Market]() · place · Chennai: One of the biggest fruit and vegetable markets in Asia. Find a protect food of every colour.
-- [K R Market]() · place · Bengaluru: A busy old market full of vegetables, fruit, greens and flowers.
-- [Bara Bazaar (Iewduh)]() · place · Shillong: A large market run mostly by Khasi women traders, with rice, greens, fish and fruit from the hills.
+- Koyambedu Market · place · Chennai: One of the biggest fruit and vegetable markets in Asia. Find a protect food of every colour.
+- K R Market · place · Bengaluru: A busy old market full of vegetables, fruit, greens and flowers.
+- Bara Bazaar (Iewduh) · place · Shillong: A large market run mostly by Khasi women traders, with rice, greens, fish and fruit from the hills.
 
 ## Things to buy
+- [Gregory, the Terrible Eater by Mitchell Sharmat](https://www.amazon.in/s?k=Gregory+the+Terrible+Eater) (book): A young goat wants to eat fruit and vegetables instead of tin cans, which worries his parents. It gives the child a laugh about trying new foods. Used in a1. Read it together before the food plate activity.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Make Poha: one breakfast, three jobs. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a2. Get it before Make Poha: one breakfast, three jobs.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name one grow food. → Dal, milk, curd, egg, fish, paneer or groundnuts.
@@ -508,7 +549,7 @@ Grow, Go and Protect (sci.food.L2): Topic-level song for Food L2
 
 ## Sources
 - ideas/by_topic/food-and-a-balanced-diet.md: the SCI Cards for Barry Marshall and M. S. Swaminathan were kept for higher levels, because stomach bacteria and high-yield farming are beyond Class 2. The founder's line that the food on a plate was sunlight, soil, rain and someone's work (PHILOSOPHY.md) shaped the roots thread.
-- Cambridge Primary Science Learner's Book 2, Unit 4 'Humans and animals grow' (pack cambridge sci-L2-04): healthy and unhealthy foods, a balanced diet. This unit keeps that idea and builds the investigation round how energy foods become sugar.
+- Cambridge Primary Science Learner's Book 2, Unit 4 'Humans and animals grow' (pack cambridge sci-L2-04): healthy and unhealthy foods, a balanced diet. This lesson keeps that idea and builds the investigation round how energy foods become sugar.
 - Leads on from sci.food.healthy-food.L1 (water in food, learning to like a food) and leads to sci.food.nutrients.L3 and sci.food.balanced-diet.L3, without repeating their experiments.
 - Salivary alpha-amylase breaks starch into maltose and other short sugars, and starts starch digestion in the mouth. Saliva quickly lowers the thickness of starch-thickened foods: studies of starch-thickened drinks for people with swallowing difficulty found saliva thins them within minutes (for example B. Hanson and others, Dysphagia, 2012).
 - Copy number of the salivary amylase gene AMY1 varies between people, and is higher on average in groups with starch-rich traditional diets: G. H. Perry and others, Nature Genetics, 2007. Its health effects are debated.

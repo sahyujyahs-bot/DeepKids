@@ -81,6 +81,12 @@
    "art": "A side view of a sneeze, with a spray of tiny drops flying out and falling to the floor."
   },
   {
+   "term": "Tuberculosis (TB)",
+   "meaning": "A disease caused by bacteria that usually attack the lungs. It spreads when a person with TB coughs or spits, and others breathe in the germs.",
+   "example": "The BCG vaccine given to babies in India helps protect them from serious TB.",
+   "art": "A pair of lungs with a few small bacteria drawn inside."
+  },
+  {
    "term": "Outbreak",
    "meaning": "When many people in one place fall ill with the same illness at around the same time.",
    "example": "In 1854, a cholera outbreak in one part of London killed more than 500 people in ten days.",
@@ -141,6 +147,21 @@
    "perspectives": [],
    "art": "Five small pictures in a ring around a child: a hand, a door handle, a sneeze, a glass of water, a fly, each with a dotted arrow pointing to the child's mouth or nose.",
    "context": "This card lists the rides germs take from one person to another. The Glitter Trail experiment shows one of them: hands and the things hands touch."
+  },
+  {
+   "concept": "Diseases that travel through the air",
+   "status": "defined",
+   "definition": "Some germs leave a sick person in tiny droplets from a cough, a sneeze or a breath. The droplets hang in the air for a while, and others can breathe them in. Flu, measles, chickenpox and tuberculosis can spread this way.",
+   "description": "A child with measles coughs in a crowded classroom with the windows shut, and the droplets stay in the air for a while. Anyone who breathes that air can catch measles. Tuberculosis, or TB, is caused by bacteria that usually attack the lungs. A person with TB who coughs or spits sends germs into the air of a small room. Fresh air helps. Open windows and a fan move the air, so fewer germs stay in the room. A cloth or a tissue over the mouth when you cough catches many droplets. Vaccines protect against some of these illnesses. In India, babies get the BCG vaccine against serious TB, and the measles vaccine in the national vaccination programme.",
+   "examples": [
+    "A grandfather with TB who coughs in a small room can send germs into the air that others breathe.",
+    "A bus or classroom with closed windows keeps droplets close to everyone inside it.",
+    "A fan and an open window let fresh air in, and the germs in the old air go out."
+   ],
+   "perspectives": [],
+   "one_view": "Health workers agree that these germs travel in the air in droplets, so there is one view here. Ask a doctor about any child who is ill.",
+   "context": "This card names illnesses that travel through the air, and what helps keep the air safer for everyone.",
+   "art": "A classroom with closed windows, a child coughing into her elbow, and a fan and an open window at the back letting air move through the room."
   },
   {
    "concept": "What an infection is",
@@ -444,11 +465,11 @@
       "t": "mcq",
       "q": "Meenakshi sneezes into her hand, then presses the lift button. Which habit breaks this chain?",
       "options": [
-       "Sneezing into her elbow",
        "Drinking more water",
-       "Wearing a sweater"
+       "Wearing a sweater",
+       "Sneezing into her elbow"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Sneezing into her elbow keeps the germs off her hand, so they never get onto the button. Water and a sweater are good for her, but they do not stop germs travelling."
      }
     },
@@ -610,10 +631,10 @@
       "t": "mcq",
       "q": "Rahul drinks from his sister's water bottle while she has a cold. Spread or stop?",
       "options": [
-       "Spread, because her germs are on the bottle's mouth",
-       "Stop, because water washes germs away"
+       "Stop, because water washes germs away",
+       "Spread, because her germs are on the bottle's mouth"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Her cold germs are in her spit, on the mouth of the bottle. Rahul's lips touch the same place, so it is a direct ride. Water in the bottle does not wash the germs off the rim."
      }
     },
@@ -749,11 +770,11 @@
       "t": "mcq",
       "q": "The helper never touched the carrier, but has glitter on a hand. Where did it come from?",
       "options": [
-       "From the things the carrier touched first, like the door handle",
        "It flew through the air by itself",
+       "From the things the carrier touched first, like the door handle",
        "It was already on their hand"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The glitter rode from the carrier's hand to the handle and the remote, and from there to the next hand. Picking 'flew by itself' would mean glitter moves on its own. It cannot, and neither can most germs. Picking 'already there' is worth checking: that is why we look at everyone's hands before we start."
      }
     },
@@ -936,11 +957,11 @@
       "t": "mcq",
       "q": "Which hand in the chain usually gets the least glitter?",
       "options": [
-       "The first hand",
        "The last hand",
+       "The first hand",
        "They all get the same"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Each shake passes on only part of the glitter, and keeps some on the hand that gave it. So less reaches each hand further down. If every hand got the same amount, no glitter would stay on the hand that gave it. But some always stays behind. Glitter cannot make more of itself, but some germs can, as you will see."
      }
     },
@@ -1661,12 +1682,12 @@
      "t": "mcq",
      "p": "Which of these is caused by a virus?",
      "opts": [
-      "A cold",
       "Cholera",
       "Ringworm",
+      "A cold",
       "A broken arm"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Colds are caused by viruses. Cholera is caused by bacteria, ringworm by a fungus, and a broken arm by no germ at all."
     },
     {
@@ -1722,14 +1743,42 @@
      "why": "Germs need a ride. Some ride on hands and the things hands touch, some on droplets in the air, some in water and food, and some on insects."
     },
     {
+     "t": "sort",
+     "p": "Sort these illnesses by how they mostly travel: through the air in droplets, or through dirty water.",
+     "cats": [
+      "Through the air",
+      "Through dirty water"
+     ],
+     "items": [
+      [
+       "Measles",
+       "Through the air"
+      ],
+      [
+       "Tuberculosis (TB)",
+       "Through the air"
+      ],
+      [
+       "Cholera",
+       "Through dirty water"
+      ],
+      [
+       "Chickenpox",
+       "Through the air"
+      ]
+     ],
+     "a": "see items",
+     "why": "Measles, TB and chickenpox spread in droplets and in the air. Cholera spreads through water that has germs in it."
+    },
+    {
      "t": "mcq",
      "p": "In the Glitter Trail, round 2 put the glitter on the carrier's elbow. What usually happened?",
      "opts": [
-      "Much less glitter reached the things and the other people",
       "More glitter reached everyone",
+      "Much less glitter reached the things and the other people",
       "Exactly the same as round 1"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The elbow does not open doors or press buttons, so the glitter mostly stayed on it. That is why we cough into our elbow.",
      "how": "e1"
     },
@@ -1745,11 +1794,11 @@
      "t": "mcq",
      "p": "Where do germs most often get into the body?",
      "opts": [
-      "Through the eyes, nose and mouth",
       "Through dry skin with no cuts",
+      "Through the eyes, nose and mouth",
       "Through the hair"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The eyes, nose and mouth have soft, wet linings that germs can get through. Skin with no cuts keeps most germs out."
     },
     {
@@ -1832,12 +1881,12 @@
      "t": "mcq",
      "p": "Which of these is NOT contagious?",
      "opts": [
-      "A broken leg",
       "Chickenpox",
+      "A broken leg",
       "A cold",
       "Flu"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A broken leg cannot pass from one person to another. Chickenpox, colds and flu are caused by germs that spread."
     },
     {
@@ -1886,11 +1935,11 @@
      "t": "mcq",
      "p": "In the Handshake Chain, each hand got less glitter than the hand before. Why might real germs not always get fewer along a chain?",
      "opts": [
-      "Some germs can multiply on the way, for example in warm food",
       "Germs are bigger than glitter",
+      "Some germs can multiply on the way, for example in warm food",
       "Germs stick less than glitter"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Glitter cannot make more of itself, but bacteria can multiply in warm, wet places. So a few germs on a hand can become many in a plate of food left out.",
      "how": "e2"
     },
@@ -1908,11 +1957,11 @@
      "t": "mcq",
      "p": "In Warm or Cool, one bowl of rice sat on a shelf and one in the fridge. Why did the shelf rice change faster?",
      "opts": [
-      "Microbes multiply faster in warmth",
       "The fridge adds a special chemical",
-      "Light from the window spoiled it"
+      "Light from the window spoiled it",
+      "Microbes multiply faster in warmth"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Bacteria and moulds multiply much faster in warmth. Cold slows them down, though it does not kill them all.",
      "how": "e3"
     },
@@ -1926,11 +1975,11 @@
      "t": "mcq",
      "p": "Two children sit near an ill friend. Only one of them catches the cold. What is the best explanation?",
      "opts": [
-      "Fewer germs reached the other child, or their body cleared them",
       "The other child was lucky, and germs have nothing to do with it",
-      "Colds only affect girls"
+      "Colds only affect girls",
+      "Fewer germs reached the other child, or their body cleared them"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Whether you get ill depends on how many germs reach you, where they get in, and how ready your body is to fight. Picking 'germs have nothing to do with it' misses that the cold is caused by a virus."
     },
     {
@@ -1943,11 +1992,11 @@
      "t": "mcq",
      "p": "Dengue spreads through mosquito bites. Which habit breaks this chain best?",
      "opts": [
-      "Emptying standing water so mosquitoes cannot breed",
       "Washing hands",
+      "Emptying standing water so mosquitoes cannot breed",
       "Coughing into your elbow"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Mosquitoes lay eggs in still water, such as in flower-pot trays and old tyres. Empty them, and fewer mosquitoes are born to carry the virus. Hand-washing does not stop a mosquito."
     },
     {
@@ -2007,11 +2056,11 @@
      "t": "mcq",
      "p": "Why can someone pass on flu before they know they are ill?",
      "opts": [
-      "The virus multiplies and leaves the body a day or so before symptoms start",
       "Flu only spreads before you are ill",
+      "The virus multiplies and leaves the body a day or so before symptoms start",
       "The fever makes the germs jump out"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The virus is already multiplying in the nose and throat before the body's fight makes you feel ill. So some copies get out first."
     },
     {
@@ -2049,11 +2098,11 @@
      "t": "mcq",
      "p": "John Snow found that workers at a brewery near the bad pump hardly ever got cholera. Why did that support his idea?",
      "opts": [
-      "They drank beer and the brewery's own water, not water from the pump",
       "Beer kills every germ in the body",
-      "They breathed different air"
+      "They breathed different air",
+      "They drank beer and the brewery's own water, not water from the pump"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The workers breathed the same air as everyone nearby, but did not drink the pump water. So bad air could not be the cause, and the water could.",
      "context": "In 1854, John Snow studied a cholera outbreak in London. Most people who died lived near one water pump on Broad Street."
     },
@@ -2061,11 +2110,11 @@
      "t": "mcq",
      "p": "A widow far away in Hampstead died of cholera in the same week. Her family said she had Broad Street water brought to her, because she liked its taste. What did this show?",
      "opts": [
-      "The illness travelled with the water, not the air",
       "Hampstead had bad air too",
-      "Cholera can fly across a city"
+      "Cholera can fly across a city",
+      "The illness travelled with the water, not the air"
      ],
-     "a": 0,
+     "a": 2,
      "why": "She lived far from the air around Broad Street, but she drank its water and caught cholera. The water was the link.",
      "context": "In 1854, John Snow studied a cholera outbreak in London. Most people who died lived near one water pump on Broad Street."
     },
@@ -2142,11 +2191,11 @@
      "t": "mcq",
      "p": "Why does a vaccine protect people who did not have it, as well as people who did?",
      "opts": [
-      "Vaccinated people break the chain, so the germ reaches fewer people",
       "The vaccine spreads through the air",
+      "Vaccinated people break the chain, so the germ reaches fewer people",
       "It makes the germ weaker everywhere"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A vaccinated person rarely catches the germ, so they rarely pass the germ on. When most people are vaccinated, the germ runs out of links."
     },
     {
@@ -2177,11 +2226,11 @@
      "t": "mcq",
      "p": "London's cholera outbreaks stopped after the city built sewers and cleaned its water. Why did that work better than telling each person to be careful?",
      "opts": [
-      "Clean water breaks the chain for everyone at once",
       "Sewers kill the cholera bacteria in every person",
-      "People stopped drinking water"
+      "People stopped drinking water",
+      "Clean water breaks the chain for everyone at once"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Some links are too big for one person to break. A city can break them for everyone together."
     }
    ]
@@ -2204,11 +2253,11 @@
    "t": "mcq",
    "p": "Which of these illnesses is caused by bacteria?",
    "opts": [
-    "Cholera",
     "A cold",
-    "Chickenpox"
+    "Chickenpox",
+    "Cholera"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Cholera is caused by bacteria in dirty water. Colds and chickenpox are caused by viruses, which are much smaller and can only make copies inside cells.",
    "outcome": 0
   },
@@ -2241,11 +2290,11 @@
    "t": "mcq",
    "p": "A girl has glitter on her hand and touches the door handle. Her grandmother never touches her, but opens the door. What will the grandmother's hand have?",
    "opts": [
-    "Some glitter, from the handle",
     "No glitter, because she never touched the girl",
-    "More glitter than the girl"
+    "More glitter than the girl",
+    "Some glitter, from the handle"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The glitter rides from the girl's hand to the handle, then to her grandmother's hand. Picking 'no glitter' means thinking germs pass only by touching people.",
    "outcome": 2,
    "how": "e1"
@@ -2254,11 +2303,11 @@
    "t": "mcq",
    "p": "What is an infection?",
    "opts": [
-    "Germs getting inside the body and multiplying",
     "Germs sitting on a door handle",
+    "Germs getting inside the body and multiplying",
     "Washing your hands"
    ],
-   "a": 0,
+   "a": 1,
    "why": "An infection means germs are inside you and growing in number. Germs on a handle have not infected anyone yet.",
    "outcome": 3
   },
@@ -2278,11 +2327,11 @@
    "t": "mcq",
    "p": "You have just come home from the park. When is the most important time to wash your hands?",
    "opts": [
-    "Before you eat your snack",
     "After you have eaten",
+    "Before you eat your snack",
     "Only at bedtime"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Washing before eating breaks the link from your hand to your mouth. Washing later is still good, but the germs could already be in.",
    "outcome": 4
   },
@@ -2302,11 +2351,11 @@
    "t": "mcq",
    "p": "Long ago, many people thought bad-smelling air caused cholera. Which finding would show that dirty water, not air, was the cause?",
    "opts": [
-    "People who breathed the same air but drank clean water did not fall ill",
     "The air near the river smelled bad",
+    "People who breathed the same air but drank clean water did not fall ill",
     "Mosquitoes were seen near the houses"
    ],
-   "a": 0,
+   "a": 1,
    "why": "If air were the cause, everyone breathing it would fall ill. If only those who drank the dirty water fell ill, the water is to blame. Mosquitoes spread other illnesses, like malaria, not cholera.",
    "outcome": 5
   },
@@ -2321,6 +2370,18 @@
    "a": 0,
    "why": "Comparing who drank the water with who fell ill shows the link. Germs are too small to see with your eyes. John Snow did this in London in 1854.",
    "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these illnesses spreads mainly through the air, in droplets from a cough?",
+   "opts": [
+    "Measles",
+    "Dengue",
+    "Cholera"
+   ],
+   "a": 0,
+   "why": "Measles spreads through droplets from a cough or sneeze, and the droplets can hang in the air. Dengue comes from mosquito bites. Cholera comes from dirty water.",
+   "outcome": 1
   }
  ],
  "videos": [
@@ -2621,6 +2682,66 @@
     "e1",
     "e2"
    ]
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Be John Snow: find the bad well. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before Be John Snow: find the bad well."
+  },
+  {
+   "id": "b-sticky-notes",
+   "item": "Sticky notes",
+   "kind": "material",
+   "why": "Used in How Many Hands? The door handle count. About ₹20 to ₹60. Small torn paper and tape do the same job.",
+   "url": "https://www.amazon.in/s?k=sticky+notes+pack",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Get it before How Many Hands? The door handle count."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in A Poster for the Lift, The No-Hands Door. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before A Poster for the Lift."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in One Germ Becomes Many: doubling with rice grains. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Get it before One Germ Becomes Many: doubling with rice grains."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

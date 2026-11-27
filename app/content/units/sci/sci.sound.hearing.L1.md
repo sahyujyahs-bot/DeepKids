@@ -1,9 +1,9 @@
 # Our ears: hearing sounds from near and far
 `sci.sound.hearing.L1`
 
-**Summary.** How can you tell a sound is near or far with your eyes shut? In this unit you will listen at a window, look at your own ears, test your hearing of near and far sounds, and find a hidden song by listening for where it is loudest.
+**Summary.** How can you tell a sound is near or far with your eyes shut? In this lesson you will listen at a window, look at your own ears, test your hearing of near and far sounds, and find a hidden song by listening for where it is loudest.
 
-**Intro.** *Close your eyes. Somebody says your name. Without looking, can you point to them? Can you tell if they are near or far?* Your eyes are shut, yet you know where the voice is. Your ears found out. Ears catch sounds from in front, from the sides and even from behind you. In this unit you look at your ears, listen for near and far sounds, and test if your ears can be tricked.
+**Intro.** *Close your eyes. Somebody says your name. Without looking, can you point to them? Can you tell if they are near or far?* Your eyes are shut, yet you know where the voice is. Your ears found out. Ears catch sounds from in front, from the sides and even from behind you. In this lesson you look at your ears, listen for near and far sounds, and test if your ears can be tricked.
 
 ## Learning outcomes
 0. By the end I can point to my ear flap and ear hole, and say that the eardrum is inside, at the end of the ear hole.
@@ -375,7 +375,7 @@ This time, Meena was not tricked. She reached out her hand, and there was Arjun,
 8. (write) Name one sound you heard at the Listening Window, and say how you knew if it was near or far. Say it out loud, and a grown-up writes it down.  
    **Answer:** A sound the child really heard, with a reason such as 'it was loud, so I thought near' or 'it was soft, so I thought far'.. *Why:* A strong answer names a real sound and gives a reason from how loud it was. It may also say a guess can be wrong.
 9. (mcq) You hear the vegetable seller calling in the street. The call gets louder and louder. What is the vegetable seller doing?  
-   Options: Coming closer to you / Going away from you / Standing still  
+   Options: Going away from you / Standing still / Coming closer to you  
    **Answer:** Coming closer to you. *Why:* A sound is louder when it is closer. If the call gets louder and louder, the seller is coming closer.
 10. (perspective) The first child and her friend the second child hear a very loud clap of thunder.  
    **Answer:** A strong answer picks a side and gives a reason. For the first child: closer thunder is louder, so a very loud clap may mean the storm is near. For the second child: thunder is so big that we hear it from far away.. *Why:* Both girls are partly right. Louder thunder often means a closer storm, but thunder is so loud that even far thunder can sound big.
@@ -383,7 +383,7 @@ This time, Meena was not tricked. She reached out her hand, and there was Arjun,
    **Answer:** A drawing of a sound-maker that is out of sight, such as a bird outside or a cooker in the kitchen.. *Why:* A strong drawing shows that ears tell us about things we cannot see, even behind walls.
 ### Listening Detectives (stretch) (stretch, 10 questions)
 1. (mcq) Why do we have two ears, one on each side of the head?  
-   Options: To hear sounds from every side and tell where they come from / So that one ear can rest / Because one ear is a spare  
+   Options: So that one ear can rest / To hear sounds from every side and tell where they come from / Because one ear is a spare  
    **Answer:** To hear sounds from every side and tell where they come from. *Why:* A sound on your left reaches your left ear a tiny bit sooner and louder. Your two ears together help you find where a sound is.
 2. (order) Put these in order, from the outside of your ear to the inside.  
    **Answer:** ['Ear flap', 'Ear hole', 'Eardrum']. *Why:* Sound is caught by the ear flap, goes down the ear hole, and reaches the eardrum at the end.
@@ -412,28 +412,28 @@ This time, Meena was not tricked. She reached out her hand, and there was Arjun,
 
 ## Quiz
 1. (mcq) Which part of your ear can you see and touch?  
-   Options: The ear flap / The eardrum / The brain  
+   Options: The eardrum / The brain / The ear flap  
    **Answer:** The ear flap. *Why:* The ear flap is the outside part with curly folds. The eardrum is deep inside, at the end of the ear hole.
 2. (mcq) Where is your eardrum?  
-   Options: Deep inside, at the end of the ear hole / On the outside of your ear flap / Under your chin  
+   Options: On the outside of your ear flap / Deep inside, at the end of the ear hole / Under your chin  
    **Answer:** Deep inside, at the end of the ear hole. *Why:* The eardrum is a thin skin at the end of the ear hole. You cannot see your own, but a doctor can with a small torch.
 3. (mcq) A temple bell rings. Where does it sound softest?  
    Options: Three streets away / Right next to the bell / Inside the temple  
    **Answer:** Three streets away. *Why:* A sound gets softer as it travels further away. Three streets away, only a little of the sound reaches you.
 4. (mcq) You walk away from a ringing phone. What happens to the sound?  
-   Options: It gets softer / It gets louder / It stays the same  
+   Options: It gets louder / It stays the same / It gets softer  
    **Answer:** It gets softer. *Why:* The further you go, the softer the ring sounds, because less of the sound reaches your ears.
 5. (mcq) With your eyes covered, you hear a very soft tap. What will you probably guess?  
-   Options: That it is far away / That it is right next to you / That it is thunder  
+   Options: That it is right next to you / That it is far away / That it is thunder  
    **Answer:** That it is far away. *Why:* We usually guess that soft sounds are far away. So a soft tap close by can trick us, as in the Near or Far test.
 6. (mcq) How do your ears help you guess if a sound is near or far?  
-   Options: They hear how loud the sound is, and you guess from that / They measure the distance with the eardrum / They see where the sound is  
+   Options: They measure the distance with the eardrum / They hear how loud the sound is, and you guess from that / They see where the sound is  
    **Answer:** They hear how loud the sound is, and you guess from that. *Why:* Your ears hear how loud a sound is, and you guess the distance from that. The guess is usually right, but a soft sound close by can trick you.
 7. (mcq) Where are a frog's eardrums?  
-   Options: On the outside of the head, behind the eyes / On the frog's feet / Inside the frog's mouth  
+   Options: On the frog's feet / Inside the frog's mouth / On the outside of the head, behind the eyes  
    **Answer:** On the outside of the head, behind the eyes. *Why:* A frog's eardrums are round circles you can see, just behind the eyes. Ours are hidden inside the ear hole.
 8. (mcq) Elephant families can be far apart in a big forest. Which kind of sound would carry far enough to call them?  
-   Options: Very low rumbles / Tiny squeaks / Loud claps  
+   Options: Tiny squeaks / Very low rumbles / Loud claps  
    **Answer:** Very low rumbles. *Why:* Very low sounds travel a long way, even through trees. Elephants rumble so low that people can hardly hear it, but other elephants hear it from far away.
 9. (mcq) Your ear feels itchy inside. What should you do?  
    Options: Wipe only the outside, and tell a grown-up if it keeps itching / Push a pencil inside / Pour water in to wash it  
@@ -442,7 +442,7 @@ This time, Meena was not tricked. She reached out her hand, and there was Arjun,
    Options: Cover your ears and move away / Go closer to hear better / Put your ear on the speaker  
    **Answer:** Cover your ears and move away. *Why:* Very loud sounds can hurt the inside of your ears. Covering them blocks some sound, and moving away makes it softer.
 11. (mcq) In the Near or Far test, why did the grown-up move only while you covered your ears and counted?  
-   Options: So that footsteps would not tell you where they were / So that you would fall asleep / So that the tumbler would get louder  
+   Options: So that you would fall asleep / So that the tumbler would get louder / So that footsteps would not tell you where they were  
    **Answer:** So that footsteps would not tell you where they were. *Why:* A fair test changes only the thing we are testing. If you heard footsteps, you would know the spot without using the tap.
 
 ## Applications
@@ -453,11 +453,11 @@ This time, Meena was not tricked. She reached out her hand, and there was Arjun,
 - Lifeguards on beaches blow loud whistles that carry far over the noise of the waves.
 
 ## Spotted around us
-- A koel calling 'ku-oo' from a tree in Chennai on a hot summer morning, heard from inside the flat.
-- A woman selling greens calling 'Keerai! Keerai!' as she walks down a street in Madurai, getting softer as she goes.
-- Bihu drums in Guwahati heard from many streets away before the dancers come into sight.
-- A ship's horn at the port in Mumbai, heard across the harbour.
-- A street dog in Kolkata lifting and turning her ears towards a sound before anyone else has heard it.
+- A koel calling 'ku-oo' from a tree on a hot summer morning, heard from inside the flat.
+- A woman selling greens calling 'Keerai! Keerai!' as she walks down a street, getting softer as she goes.
+- Bihu drums heard from many streets away before the dancers come into sight.
+- A ship's horn at a port, heard across the harbour.
+- A street dog lifting and turning her ears towards a sound before anyone else has heard it.
 
 ## Open questions
 - **Do plants hear?** In 2019, evening primrose flowers made sweeter nectar after hearing a bee's buzz. Other studies found pea roots growing towards the sound of water in a pipe. More teams need to test this, and scientists argue about whether to call it hearing.
@@ -493,10 +493,12 @@ Near and Far (sci.sound.L1): Topic-level song for Sound L1
 ## Links
 - [StoryWeaver, free picture books from Pratham Books](https://storyweaver.org.in/) · interactive: For the parent: free picture books in many Indian languages to read aloud. Search for books about sounds and ears.
 - [Indian Sign Language Research and Training Centre](https://islrtc.nic.in/) · interactive: For the parent: Indian Sign Language is how many deaf people in India talk. Learn a few signs together, like 'hello' and 'thank you'.
-- [B. M. Birla Science Centre]() · place · Hyderabad: A science centre with hands-on galleries and a planetarium, good for a family day out.
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: A science museum with hands-on exhibits and a children's section.
+- B. M. Birla Science Centre · place · Hyderabad: A science centre with hands-on galleries and a planetarium, good for a family day out.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru: A science museum with hands-on exhibits and a children's section.
 
 ## Things to buy
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in Look at Your Ears: flaps, folds, covering and cupping. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in a2. Get it before Look at Your Ears: flaps, folds, covering and cupping.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Which part of your ear can you touch? → The ear flap.
@@ -512,7 +514,7 @@ Near and Far (sci.sound.L1): Topic-level song for Sound L1
 - Core: a1, a2, e1, g1, a3, ws-core
 
 ## Sources
-- ideas/by_topic/sound.md: the observation journal of the daily soundscape, used as the Sound Map project and the Listening Window; distant thunder as sound travelling, used in the Near, Middle, Far game and the story. No notebook items are mapped to this subtopic. The Level 3 hearing unit uses the quietest-sound test, the pitch test, the door test, humming with ears shut, cupping and turning ears like a cat, a model ear and ear popping, and the five senses units use smell steps, shaker pairs and pointing at a sound with one ear blocked. So this unit uses the near-or-far loudness test, the hidden song, the listening window and the animal listener moves instead. The cover-and-cup step in Look at Your Ears is the Cambridge Stage 1 Activity 6.2.
+- ideas/by_topic/sound.md: the observation journal of the daily soundscape, used as the Sound Map project and the Listening Window; distant thunder as sound travelling, used in the Near, Middle, Far game and the story. No notebook items are mapped to this subtopic. The Level 3 hearing unit uses the quietest-sound test, the pitch test, the door test, humming with ears shut, cupping and turning ears like a cat, a model ear and ear popping, and the five senses units use smell steps, shaker pairs and pointing at a sound with one ear blocked. So this lesson uses the near-or-far loudness test, the hidden song, the listening window and the animal listener moves instead. The cover-and-cup step in Look at Your Ears is the Cambridge Stage 1 Activity 6.2.
 - Katy Payne, William Langbauer and Elizabeth Marshall Thomas, 'Infrasonic calls of the Asian elephant', Behavioral Ecology and Sociobiology 18 (1986), from recordings at the Washington Park Zoo, Portland, in 1984.
 - William Langbauer and colleagues, Journal of Experimental Biology 157 (1991): elephants in Namibia responded to recorded calls played from loudspeakers far away.
 - Anthony DeCasper and William Fifer, 'Of human bonding: newborns prefer their mothers' voices', Science 208 (1980).

@@ -207,7 +207,7 @@
    "status": "defined",
    "context": "In Hiding a Whisper, a running tap stopped you hearing a whisper. This card explains why, and how your brain picks out one voice.",
    "definition": "Masking happens when a louder sound makes a quieter sound impossible to hear, even though the quieter sound still reaches the ear. Sounds close in pitch to the noise are masked the most.",
-   "description": "In the Hiding a Whisper test, the whisper was still reaching your ears when the tap was running, but you did not hear it. The tap's sound moves the same part of the basilar membrane as the whisper does. The whisper's wave is much smaller than the tap's wave there, so it is lost. A sound that is far from the noise in pitch is masked less. This is why a thin, high whistle is easier to pick out among loud drums. It also helps to be close, because each time you halve the distance the voice gets a lot louder. And it helps to watch the speaker's mouth, because seeing the lips helps the brain fill in what the ear misses. The brain can also choose what to listen to. In a crowded hall you can follow one voice and ignore the rest. This is called the cocktail party effect. It needs both ears, because the brain uses the direction of each voice to separate them.",
+   "description": "A sound is any vibration of the air that reaches your ear. Noise is a sound that gets in the way, such as a running tap, a crowd or a fan. Noise also has no clear tune: it is a hiss made of many pitches mixed together. A whistle or a flute plays one clear pitch. In the Hiding a Whisper test, the whisper was still reaching your ears when the tap was running, but you did not hear it. The tap's sound moves the same part of the basilar membrane as the whisper does. The whisper's wave is much smaller than the tap's wave there, so it is lost. A sound that is far from the noise in pitch is masked less. This is why a thin, high whistle is easier to pick out among loud drums. It also helps to be close, because each time you halve the distance the voice gets a lot louder. And it helps to watch the speaker's mouth, because seeing the lips helps the brain fill in what the ear misses. The brain can also choose what to listen to. In a crowded hall you can follow one voice and ignore the rest. This is called the cocktail party effect. It needs both ears, because the brain uses the direction of each voice to separate them.",
    "examples": [
     "You cannot hear a whisper while the tap runs full, though the whisper is still there.",
     "A thin whistle is easier to hear over drums than a low voice, since its pitch is far from the drums.",
@@ -941,11 +941,11 @@
       "t": "mcq",
       "q": "In Round A of the Sound Clock you had two ears open. In Round B one ear was covered, and the same clicks made you point wrongly. What changed between the rounds?",
       "options": [
-       "Only the clues your brain got, because with one ear covered it had nothing to compare",
        "The clicks got quieter",
-       "The room changed"
+       "The room changed",
+       "Only the clues your brain got, because with one ear covered it had nothing to compare"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The clicks and the room were the same. With one ear covered the brain no longer had two ears to compare, so it could not use the time and loudness differences. If you chose 'The clicks got quieter', remember that each click was made in the same way."
      },
      "parent": "A strong answer sounds like this: 'With two ears I was right a lot. With one ear covered I made many more mistakes. I think the brain finds where a sound is by comparing what the two ears hear. When I could turn my head, I got even better, because the head turn changed what the ears heard.' Now read the card 'Two ears tell where a sound is'.",
@@ -1099,11 +1099,11 @@
       "t": "mcq",
       "q": "Why do we whisper five digits at each distance, and not just one?",
       "options": [
-       "One lucky guess could fool us, so we need several tries",
        "To make the test longer",
+       "One lucky guess could fool us, so we need several tries",
        "Because five is the right number for whispers"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A digit can be guessed right by luck, one time in ten. Five digits make a lucky run very unlikely. If you picked 'To make the test longer', remember that a test is not better just because it is longer. More tries make it fairer."
      },
      "context": "In this step, you find how far a whisper reaches in a quiet room."
@@ -1301,11 +1301,11 @@
       "t": "mcq",
       "q": "At 1 metre the fan reads 57 decibels. At 2 metres it reads 53 decibels. What is the drop?",
       "options": [
-       "4 decibels",
        "110 decibels",
-       "Half of 57"
+       "Half of 57",
+       "4 decibels"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The drop is 57 take away 53, which is 4 decibels. Adding the numbers to get 110 is a slip. Half of 57 would be a drop of nearly 29 decibels, much more than anything you measured."
      },
      "context": "In this step, you take three readings at each of four distances."
@@ -1329,11 +1329,11 @@
       "t": "mcq",
       "q": "Why does a sound get quieter as you move away from it?",
       "options": [
-       "The same energy spreads over a bigger and bigger area, so each part gets less",
        "The sound gets tired as it travels",
+       "The same energy spreads over a bigger and bigger area, so each part gets less",
        "The air in the middle swallows the sound"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Sound spreads out in every direction, like a ring of ripples that gets longer. The same energy covers a bigger area, so each bit has less. Picking 'the sound gets tired' is natural, but sound is not a living thing, and nothing is used up. It is spread thin."
      },
      "parent": "A strong answer sounds like this: 'Every time I doubled the distance, the number dropped by about 4. It was not halving. I think the sound spreads out in all directions, so there is less in each place.' Now read the card 'Why a sound gets fainter as you move away'.",
@@ -1582,11 +1582,11 @@
       "t": "mcq",
       "q": "Where on the strip would a very high whistle make the wave peak?",
       "options": [
-       "Near the narrow end",
        "Near the wide end",
+       "Near the narrow end",
        "In the exact middle"
       ],
-      "a": 0,
+      "a": 1,
       "why": "High pitches peak near the narrow, stiff start of the membrane. Low pitches peak near the wide, soft end. If you picked the wide end, you may have mixed up the two ends."
      },
      "context": "In this step, you mark where six pitches peak along the membrane."
@@ -1694,11 +1694,11 @@
       "t": "mcq",
       "q": "Which sound is easiest to feel with your hands on a balloon?",
       "options": [
-       "A deep drum beat",
        "A high flute note",
-       "They feel the same"
+       "They feel the same",
+       "A deep drum beat"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Slow, strong pushes from a deep drum are easiest for the skin to sense. High flute notes shake the air too fast for the balloon and skin to follow. If you picked 'They feel the same', try both again, and focus on your fingertips."
      },
      "context": "In this step, you feel a drum beat and a flute through a balloon."
@@ -1794,11 +1794,11 @@
       "t": "mcq",
       "q": "Shutting your eyes made standing on one leg harder. What is the best explanation?",
       "options": [
-       "The eyes are one of the three things that tell the brain about balance",
        "The legs got weaker when the eyes shut",
+       "The eyes are one of the three things that tell the brain about balance",
        "The floor became less flat"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Balance uses the eyes, the inner ears and the feel of the feet together. With the eyes shut, the brain has only two sources left, so it manages less well. If you picked 'The legs got weaker when the eyes shut', notice that your legs were just as strong a moment before."
      },
      "context": "In this step, you time standing on one leg with your eyes shut."
@@ -1875,11 +1875,11 @@
       "t": "mcq",
       "q": "Which statement about sign languages is true?",
       "options": [
-       "They are full languages with their own grammar",
        "They are only gestures that copy spoken words",
+       "They are full languages with their own grammar",
        "They are the same in every country"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Linguists have shown that sign languages have their own grammar, new words, jokes and poems. Different countries have different sign languages. India has its own, called Indian Sign Language."
      },
      "context": "In this step, you watch a short lesson and learn a few signs."
@@ -1998,11 +1998,11 @@
       "t": "mcq",
       "q": "Why must the beep stay at exactly the same volume for every test?",
       "options": [
-       "So that only the trumpet changes",
        "So that the beep sounds better",
+       "So that only the trumpet changes",
        "So that the corridor stays quiet"
       ],
-      "a": 0,
+      "a": 1,
       "why": "In a fair test, only one thing changes at a time. If the volume changed, you could not tell whether the trumpet or the volume made the difference."
      },
      "context": "On day 1, you test how far you can hear a quiet beep with each trumpet."
@@ -2027,11 +2027,11 @@
       "t": "mcq",
       "q": "A wider ear trumpet lets you hear a quiet sound from further away. What does the wide mouth do?",
       "options": [
-       "It collects more of the sound and sends it into the ear",
        "It makes the sound louder at the source",
-       "It stops other sounds from reaching the ear"
+       "It stops other sounds from reaching the ear",
+       "It collects more of the sound and sends it into the ear"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A wide mouth catches a bigger share of the spreading sound and guides it to a small opening at the ear. The trumpet does not add energy. It gathers energy that would have missed the ear. If you picked 'It makes the sound louder at the source', remember that the sound is made at the phone, and the trumpet is at your ear."
      },
      "context": "On day 2, you draw a bar chart and explain the result."
@@ -2136,11 +2136,11 @@
       "t": "mcq",
       "q": "Your signal was noticed in 3 seconds by the helper who was facing it, and in 20 seconds when the helper had their back to it. What does this tell you?",
       "options": [
-       "A signal that can be seen from any direction is better",
        "The helper was not trying",
+       "A signal that can be seen from any direction is better",
        "Signals are not useful in kitchens"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A person cannot notice a signal they are not facing. A light that fills the room or a vibration that can be felt works from any direction. If you chose 'The helper was not trying', remember that the test was the same each time and only the direction changed."
      },
      "context": "In this step, you test your signal with a helper who cannot hear the door."
@@ -2168,11 +2168,11 @@
      "t": "mcq",
      "p": "A clap happens close to your right ear. Which ear gets the sound first, and which hears it a little louder?",
      "opts": [
-      "The right ear gets it first and hears it louder",
       "The left ear gets it first and hears it louder",
-      "Both ears get it at the same time and equally loudly"
+      "Both ears get it at the same time and equally loudly",
+      "The right ear gets it first and hears it louder"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The sound reaches the nearer ear first and is louder there, because the head blocks some sound from the far ear. The brain uses both clues.",
      "outcome": 0
     },
@@ -2189,11 +2189,11 @@
      "t": "mcq",
      "p": "Why is it harder to say where a sound is with one ear covered?",
      "opts": [
-      "The brain has no second ear to compare with",
       "The sound becomes quieter in the air",
-      "The covered ear is the one that finds direction"
+      "The covered ear is the one that finds direction",
+      "The brain has no second ear to compare with"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Direction comes from comparing two ears. With one ear covered, the time and loudness differences are lost, so the brain must guess.",
      "outcome": 1,
      "how": "e1"
@@ -2221,11 +2221,11 @@
      "t": "mcq",
      "p": "At 85 decibels the safe listening time is about 8 hours, and each 3 decibels more halves it. About how long is it safe at 94 decibels?",
      "opts": [
-      "About 1 hour",
       "About 4 hours",
-      "About 15 minutes"
+      "About 15 minutes",
+      "About 1 hour"
      ],
-     "a": 0,
+     "a": 2,
      "why": "94 is 9 more than 85, which is three steps of 3. Halve 8 hours three times: 4 hours, 2 hours, 1 hour.",
      "outcome": 2
     },
@@ -2270,6 +2270,42 @@
       ]
      ],
      "outcome": 2
+    },
+    {
+     "t": "sort",
+     "p": "Is each one a sound with a clear tune, or noise?",
+     "cats": [
+      "Sound with a clear tune",
+      "Noise"
+     ],
+     "items": [
+      [
+       "a whistle with one note",
+       "Sound with a clear tune"
+      ],
+      [
+       "a crowd's roar in a stadium",
+       "Noise"
+      ],
+      [
+       "a flute playing one tune",
+       "Sound with a clear tune"
+      ],
+      [
+       "a fan making a steady hiss",
+       "Noise"
+      ],
+      [
+       "a friend singing one song",
+       "Sound with a clear tune"
+      ],
+      [
+       "a tap running full",
+       "Noise"
+      ]
+     ],
+     "a": "see items",
+     "why": "A sound with a clear tune has one clear pitch, like a whistle or a sung note. Noise has many pitches mixed together, like a hiss or a roar, and it often hides the sounds we want."
     },
     {
      "t": "sort",
@@ -2331,11 +2367,11 @@
      "t": "mcq",
      "p": "You cannot hear a whisper while a tap runs hard. What is the best explanation?",
      "opts": [
-      "The whisper still reaches your ear, but the louder noise hides it",
       "The whisper never leaves the speaker's mouth",
+      "The whisper still reaches your ear, but the louder noise hides it",
       "Your ears stop working when there is noise"
      ],
-     "a": 0,
+     "a": 1,
      "why": "This is called masking. The louder sound moves the same part of the ear as the quiet one, so the quiet one is lost.",
      "outcome": 3,
      "how": "e2"
@@ -2396,11 +2432,11 @@
      "t": "mcq",
      "p": "Sound travels about 340 metres each second. Your two ears are about 20 centimetres apart. About how much longer does a clap right beside one ear take to reach the other ear?",
      "opts": [
-      "About 0.0006 seconds",
       "About 0.6 seconds",
+      "About 0.0006 seconds",
       "About 6 seconds"
      ],
-     "a": 0,
+     "a": 1,
      "why": "0.2 metres divided by 340 metres each second is about 0.0006 seconds. This is too short to notice, but the brain can use it.",
      "outcome": 0
     },
@@ -2408,11 +2444,11 @@
      "t": "mcq",
      "p": "In open air a steady sound reads 60 decibels at 1 metre. About what will it read at 2 metres?",
      "opts": [
-      "About 54 decibels",
       "About 30 decibels",
+      "About 54 decibels",
       "About 120 decibels"
      ],
-     "a": 0,
+     "a": 1,
      "why": "In open air, each doubling of the distance takes off about 6 decibels. 60 take away 6 is 54. Halving the number to get 30 is a common slip.",
      "outcome": 2,
      "how": "e3"
@@ -2431,11 +2467,11 @@
      "t": "mcq",
      "p": "At 85 decibels the safe time is about 8 hours, and every 3 decibels more halves it. About how long is it safe at 91 decibels?",
      "opts": [
-      "About 2 hours",
       "About 4 hours",
+      "About 2 hours",
       "About 30 minutes"
      ],
-     "a": 0,
+     "a": 1,
      "why": "91 is 6 more than 85, which is two steps of 3. Halve 8 hours twice: 4 hours, then 2 hours.",
      "outcome": 2
     },
@@ -2543,11 +2579,11 @@
      "t": "mcq",
      "p": "A thin high whistle is easier to follow over low drums than a low voice is. What is the best reason?",
      "opts": [
-      "Its pitch is far from the drums' pitch, so it is hidden less",
       "It is always much louder than the drums",
+      "Its pitch is far from the drums' pitch, so it is hidden less",
       "The drums cannot make any high sounds"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Masking is strongest for sounds close in pitch to the noise. A sound far away in pitch is hidden less, and the ear is very sensitive to high pitches.",
      "outcome": 3
     },
@@ -2555,11 +2591,11 @@
      "t": "mcq",
      "p": "Which description of the basilar membrane is right?",
      "opts": [
-      "It is narrow and stiff at the start and wide and soft at the far end",
       "It is wide and stiff at the start and narrow and soft at the far end",
+      "It is narrow and stiff at the start and wide and soft at the far end",
       "It is the same width and stiffness all along"
      ],
-     "a": 0,
+     "a": 1,
      "why": "This change in width and stiffness is why high pitches peak near the start and low pitches near the far end.",
      "outcome": 4
     },
@@ -2793,11 +2829,11 @@
      "t": "mcq",
      "p": "A girl is lost in a crowd, and a relative blows a whistle. What is the best way to find the direction of the whistle?",
      "opts": [
-      "Turn her head until the whistle sounds the same in both ears, and then turn it a little to check front from back",
       "Shut her ears and listen with her eyes",
-      "Run in the direction she feels like"
+      "Run in the direction she feels like",
+      "Turn her head until the whistle sounds the same in both ears, and then turn it a little to check front from back"
      ],
-     "a": 0,
+     "a": 2,
      "why": "When both ears hear the whistle equally, it is in front or behind. A small head turn tells which, because the sound moves to a different ear for each.",
      "outcome": 1
     },
@@ -2877,11 +2913,11 @@
    "t": "mcq",
    "p": "A girl points well to clicks with two ears and badly with one ear covered. What does this show?",
    "opts": [
-    "The brain finds direction by comparing the two ears",
     "The covered ear is the only one that finds direction",
-    "Clicks are quieter when one ear is covered"
+    "Clicks are quieter when one ear is covered",
+    "The brain finds direction by comparing the two ears"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Direction is worked out by comparing what the two ears hear. With one ear covered, the comparison is lost.",
    "outcome": 1
   },
@@ -2896,11 +2932,11 @@
    "t": "mcq",
    "p": "A sound is 100 decibels. What is the safest choice?",
    "opts": [
-    "Move away or use earplugs",
     "Listen for 3 hours",
-    "Stand closer to hear it better"
+    "Stand closer to hear it better",
+    "Move away or use earplugs"
    ],
-   "a": 0,
+   "a": 2,
    "why": "At 100 decibels, the safe time is only about 15 minutes. Moving away or using earplugs lowers the level a lot.",
    "outcome": 2
   },
@@ -2932,11 +2968,11 @@
    "t": "mcq",
    "p": "How does a cochlear implant help a person to hear?",
    "opts": [
-    "It sends signals from a microphone straight to the hearing nerve",
     "It makes the sound louder in the ear canal",
-    "It replaces the eardrum with a drum"
+    "It replaces the eardrum with a drum",
+    "It sends signals from a microphone straight to the hearing nerve"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The tiny wires in the cochlea excite the hearing nerve directly, without needing working hair cells.",
    "outcome": 5
   },
@@ -2963,11 +2999,11 @@
    "t": "mcq",
    "p": "Why is a thin steady whistle easier to follow among loud drums than a low voice?",
    "opts": [
-    "Its pitch is far from the drums, so it is hidden less",
     "It is always louder than a drum",
-    "Drums cannot make any sound in a crowd"
+    "Drums cannot make any sound in a crowd",
+    "Its pitch is far from the drums, so it is hidden less"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Masking is strongest for sounds that are close in pitch to the noise. A sound that is far from it in pitch is hidden less.",
    "outcome": 3
   },
@@ -2975,11 +3011,11 @@
    "t": "mcq",
    "p": "At 85 decibels the safe time is about 8 hours, and every 3 decibels more halves it. About how long is it safe at 97 decibels?",
    "opts": [
-    "About 30 minutes",
     "About 2 hours",
-    "About 4 hours"
+    "About 4 hours",
+    "About 30 minutes"
    ],
-   "a": 0,
+   "a": 2,
    "why": "97 is 12 more than 85, which is four steps of 3. Halve 8 hours four times: 4 hours, 2 hours, 1 hour, 30 minutes.",
    "outcome": 2
   },
@@ -2994,6 +3030,19 @@
    "a": 0,
    "why": "The wave is in the air for every animal, but each animal's ears pick up only some pitches. People's ears cannot pick up a bat's squeak.",
    "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "Which one is noise, in the way this lesson means it?",
+   "opts": [
+    "A hiss from a running tap, made of many pitches with no clear tune",
+    "A whistle with one clear note",
+    "A flute playing one tune",
+    "A song sung by one voice"
+   ],
+   "a": 0,
+   "outcome": 3,
+   "why": "A whistle, a flute and a sung tune each have a clear pitch. Noise is a mix of many pitches with no clear tune, and it often gets in the way of a sound we want to hear."
   }
  ],
  "videos": [
@@ -3297,6 +3346,77 @@
    "used_in": [
     "a4"
    ]
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in Doubling the Distance: how fast does a sound fade as you move away?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "e3"
+   ],
+   "plan": "Get it before Doubling the Distance: how fast does a sound fade as you move away?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Paper Snail: build a model of the cochlea, Ear Trumpets: does a bigger mouth hear more?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "a2",
+    "p1"
+   ],
+   "plan": "Get it before The Paper Snail: build a model of the cochlea."
+  },
+  {
+   "id": "b-aa-batteries-or-torch-cells-",
+   "item": "AA batteries or torch cells (a few)",
+   "kind": "material",
+   "why": "Used in A Doorbell Without Sound: tell someone who cannot hear that a visitor has come. About ₹10 to ₹30 each. A used torch cell still works for many circuits.",
+   "url": "https://www.amazon.in/s?k=AA+battery+pack",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before A Doorbell Without Sound: tell someone who cannot hear that a visitor has come."
+  },
+  {
+   "id": "b-insulated-wire-or-crocodile-",
+   "item": "Insulated wire or crocodile clips",
+   "kind": "tool",
+   "why": "Used in A Doorbell Without Sound: tell someone who cannot hear that a visitor has come. About ₹20 to ₹80. Thin insulated wire from an old charger works.",
+   "url": "https://www.amazon.in/s?k=crocodile+clip+wire+set",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before A Doorbell Without Sound: tell someone who cannot hear that a visitor has come."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in The Paper Snail: build a model of the cochlea, Ear Trumpets: does a bigger mouth hear more?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "a2",
+    "p1"
+   ],
+   "plan": "Get it before The Paper Snail: build a model of the cochlea."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

@@ -868,11 +868,11 @@
       "t": "mcq",
       "q": "Why do we put sprouts from the same bunch on both plates?",
       "options": [
-       "So the only difference is the cut tip",
        "Because we have no other seeds",
-       "So both plates look the same"
+       "So both plates look the same",
+       "So the only difference is the cut tip"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Using the same seeds, tissue and place makes it a fair test. If the plates differ in only one way, the cut tip, then any difference in growth must come from that."
      },
      "context": "In this step, you set up the two plates and measure every root before you cut."
@@ -1161,11 +1161,11 @@
       "t": "mcq",
       "q": "About how many doublings of one cell would it take to reach 35 trillion cells?",
       "options": [
-       "About 45",
        "About 350",
-       "About 35 trillion"
+       "About 35 trillion",
+       "About 45"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Each doubling multiplies the number by 2. After 10 doublings you have about a thousand. After 20 about a million, and after 30 about a billion. After 45 you reach about 35 trillion. It does not take anywhere near 350 doublings."
      },
      "context": "In this step, you extend the pattern to see how many doublings it takes to make a body."
@@ -1343,11 +1343,11 @@
       "t": "mcq",
       "q": "The flakes on the tape are mostly...",
       "options": [
-       "Dead cells from the top of the skin",
        "Living cells from deep inside",
-       "Salt from sweat"
+       "Salt from sweat",
+       "Dead cells from the top of the skin"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The top layer of skin is made of cells that have finished their work and died. They are tough and flat, and they rub off all the time. New cells push up from below to take their place. Living cells deep inside are not on the surface."
      },
      "context": "In this step, you lift flakes of skin with tape and look at them."
@@ -1426,11 +1426,11 @@
       "t": "mcq",
       "q": "Why does the cell copy her chromosomes before she splits?",
       "options": [
-       "So each daughter cell can get a full set",
        "To make her chromosomes heavier",
-       "Because copying is faster than splitting"
+       "Because copying is faster than splitting",
+       "So each daughter cell can get a full set"
       ],
-      "a": 0,
+      "a": 2,
       "why": "If the cell split without copying, each daughter would get only half of the instructions. Copying first means there is a full set to give to each daughter."
      },
      "context": "In this step, you copy the chromosomes first, as the cell does before dividing."
@@ -1727,11 +1727,11 @@
      "t": "mcq",
      "p": "Why do the copied chromosomes line up in the middle of the cell before they are pulled apart?",
      "opts": [
-      "So that one copy of each can be pulled to each end",
       "So that the cell can store them",
+      "So that one copy of each can be pulled to each end",
       "So that the cell can become bigger"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Lining up puts each pair where threads can pull one copy each way. Then each daughter gets exactly one full set.",
      "outcome": 1
     },
@@ -1739,11 +1739,11 @@
      "t": "mcq",
      "p": "A root with its tip cut off hardly grows longer, but a root left alone does. What does this suggest?",
      "opts": [
-      "Cells dividing at the tip make most of the new length",
       "The tip is the only part that drinks water",
-      "Cutting makes roots weaker for ever"
+      "Cutting makes roots weaker for ever",
+      "Cells dividing at the tip make most of the new length"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The two roots differed only in the tip. So the tip is where most of the lengthening comes from. Cells divide there and then stretch a little.",
      "outcome": 2,
      "how": "e1"
@@ -1785,11 +1785,11 @@
      "t": "mcq",
      "p": "What is a fertilised egg?",
      "opts": [
-      "The first cell of a new animal, which divides to make the whole body",
       "A cell that cannot divide",
+      "The first cell of a new animal, which divides to make the whole body",
       "The last cell to form in a body"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A fertilised egg is made when a sperm cell joins an egg cell. She divides again and again, and her daughters take on different jobs.",
      "outcome": 3
     },
@@ -2027,11 +2027,11 @@
      "t": "mcq",
      "p": "You put dots 2 millimetres apart along a growing root. After a day, only the gaps near the tip are wider. Which statement fits?",
      "opts": [
-      "Lengthening happens in a short zone near the tip",
       "The whole root stretched evenly",
-      "The dots near the tip fell off"
+      "The dots near the tip fell off",
+      "Lengthening happens in a short zone near the tip"
      ],
-     "a": 0,
+     "a": 2,
      "why": "If the whole root stretched evenly, every gap would be wider. Only the gaps near the tip grew, so the growing zone is short and close to the end.",
      "outcome": 2,
      "how": "e2"
@@ -2122,11 +2122,11 @@
      "t": "mcq",
      "p": "After the bomb tests of the 1950s and 1960s, the air carried extra carbon-14. Scientists use the carbon-14 in a cell's DNA to tell how old she is. Why does this work?",
      "opts": [
-      "Her DNA was built in the year she was made, from carbon with that year's level of carbon-14",
       "Carbon-14 is made by the cell herself",
+      "Her DNA was built in the year she was made, from carbon with that year's level of carbon-14",
       "Carbon-14 makes cells divide"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The carbon in food comes from plants, which take it from the air. A cell's DNA is built when she is made, so it holds the carbon-14 level of that year. Older and younger cells carry different levels.",
      "outcome": 4
     },
@@ -2184,11 +2184,11 @@
      "t": "mcq",
      "p": "In a Cut the Tip test, the roots with cut tips were kept in the fridge and the roots with their tips on were kept on a shelf. The cut roots grew less. Why does this not show that the tip matters?",
      "opts": [
-      "Cold could have slowed the cut roots, so two things were different at once",
       "Scissors are not allowed in tests",
-      "Roots should never be cut"
+      "Roots should never be cut",
+      "Cold could have slowed the cut roots, so two things were different at once"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A fair test changes only one thing. Here the tip and the temperature were both different. So you cannot tell which one caused the slower growth.",
      "outcome": 2,
      "how": "e1"
@@ -2239,11 +2239,11 @@
      "t": "mcq",
      "p": "Which statement about 'all your cells are replaced every seven years' is best?",
      "opts": [
-      "Different cells last very different times, so there is no one number",
       "It is exactly right for every part of the body",
+      "Different cells last very different times, so there is no one number",
       "It is right only for children"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Gut cells last days, skin cells weeks, red blood cells months, and many nerve cells and lens cells a lifetime. So no single number fits the whole body.",
      "outcome": 4
     },
@@ -2281,11 +2281,11 @@
    "t": "mcq",
    "p": "What is copied before a cell divides?",
    "opts": [
-    "Her DNA, wound up in chromosomes",
     "Her cell skin only",
+    "Her DNA, wound up in chromosomes",
     "Her water"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The DNA holds the instructions. If it were not copied, one daughter would get nothing.",
    "outcome": 1
   },
@@ -2305,11 +2305,11 @@
    "t": "mcq",
    "p": "A root with the tip cut off does not grow much. Which is the best explanation?",
    "opts": [
-    "Cells dividing at the tip make the new length",
     "Roots grow from the seed only",
-    "The scissors made the root dry"
+    "The scissors made the root dry",
+    "Cells dividing at the tip make the new length"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Cells divide in a small zone at the very tip. Without the tip, there is nowhere for new cells to be made.",
    "outcome": 2
   },
@@ -2329,11 +2329,11 @@
    "t": "mcq",
    "p": "A muscle cell and a skin cell in the same person differ because...",
    "opts": [
-    "They use different pages of the same instructions",
     "They have different DNA",
+    "They use different pages of the same instructions",
     "One of them is not alive"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Nearly every cell holds the same full set of instructions. Signals from the cells around her decide which pages a cell uses.",
    "outcome": 3
   },
@@ -2341,11 +2341,11 @@
    "t": "mcq",
    "p": "Which part of a grown person has cells that are replaced after only a few days?",
    "opts": [
-    "The lining of the gut",
     "Heart muscle",
-    "The centre of the eye lens"
+    "The centre of the eye lens",
+    "The lining of the gut"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The gut lining is replaced in a few days. Heart muscle and lens cells last far longer.",
    "outcome": 4
   },
@@ -2372,11 +2372,11 @@
    "t": "mcq",
    "p": "About how many doublings of one cell would it take to reach about 35 trillion cells?",
    "opts": [
-    "About 45",
     "About 350",
+    "About 45",
     "About 35 trillion"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Each doubling multiplies the number by 2. Ten doublings give about a thousand, twenty about a million, and forty-five about 35 trillion.",
    "outcome": 5
   },
@@ -2706,6 +2706,82 @@
    "used_in": [
     "p1"
    ]
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Cut the Tip: where does a root grow?, Dots on a Root: how far does the growing zone reach?, Pinch the Tulsi: what happens when you pinch a growing tip?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e2",
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before Cut the Tip: where does a root grow?."
+  },
+  {
+   "id": "b-a-small-hand-mirror",
+   "item": "A small hand mirror",
+   "kind": "material",
+   "why": "Used in Skin Flakes: catch some of your own cells. About ₹20 to ₹80. A shiny steel plate shows reflections too.",
+   "url": "https://www.amazon.in/s?k=small+hand+mirror",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before Skin Flakes: catch some of your own cells."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in The Longest Root: design the best home for a growing root. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before The Longest Root: design the best home for a growing root."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in Cut the Tip: where does a root grow?, Dots on a Root: how far does the growing zone reach?, The Longest Root: design the best home for a growing root. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "e1",
+    "e2",
+    "c1"
+   ],
+   "plan": "Get it before Cut the Tip: where does a root grow?."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in Cut the Tip: where does a root grow?, Dots on a Root: how far does the growing zone reach?, The Longest Root: design the best home for a growing root. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "e1",
+    "e2",
+    "c1"
+   ],
+   "plan": "Get it before Cut the Tip: where does a root grow?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

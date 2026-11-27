@@ -566,11 +566,11 @@
       "t": "mcq",
       "q": "How many generations of monarchs does it take to fly from Mexico to Canada?",
       "options": [
-       "One",
        "Three or four",
+       "One",
        "Ten"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Each spring and summer monarch lives only a few weeks. She flies part of the way, lays eggs, and dies. Her children carry on. It takes three or four generations to reach Canada."
      }
     },
@@ -770,11 +770,11 @@
       "t": "mcq",
       "q": "Most humpback whales travel far. Why do the ones in the Arabian Sea stay all year?",
       "options": [
-       "They are too small to swim far",
        "Their sea has food all year and is warm",
+       "They are too small to swim far",
        "Nobody has seen them"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The Arabian Sea is warm, and in the monsoon months the cold water that rises from deep down brings plenty of food. So these whales may have what they need without a long journey. Scientists are still studying them."
      }
     },
@@ -1107,11 +1107,11 @@
       "t": "mcq",
       "q": "With the fan blowing behind, the butterfly landed much further from the coin. Why?",
       "options": [
-       "The fan made the butterfly lighter",
        "The moving air pushed her along while she fell",
+       "The fan made the butterfly lighter",
        "The butterfly fell faster"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The butterfly took the same time to fall. All that time the moving air pushed her forward. A longer push means a longer journey. 'Lighter' is a common guess, but the butterfly weighs the same with or without wind."
      },
      "parent": "On the lowest fan speed, the butterfly often lands one to two metres away. If she flies off the table or the fan is too strong, move the fan further back."
@@ -1236,10 +1236,10 @@
       "q": "Which of these makes a long journey every year?",
       "options": [
        "A common myna",
-       "A barn swallow",
-       "A house gecko"
+       "A house gecko",
+       "A barn swallow"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Barn swallows spend the summer far to the north and the winter in South India. Mynas and geckos stay near the same home all year."
      },
      "parent": "Some kinds of animals are mixed, with some travelling and some staying. If your child asks about one, say that scientists are still finding out."
@@ -1705,11 +1705,11 @@
       "t": "mcq",
       "q": "Why does a crab crossing need low walls beside it?",
       "options": [
-       "To keep cars off the crossing",
        "To lead the crabs to the crossing",
+       "To keep cars off the crossing",
        "To give the crabs shade"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Crabs will not find a tunnel or bridge by chance. Low walls guide them to it. The same idea is used in many places for frogs, toads and other travelling animals."
      }
     }
@@ -1758,10 +1758,10 @@
    "p": "What makes a journey a migration?",
    "opts": [
     "It is very long",
-    "It happens at about the same time every year, there and back",
-    "It is made by a bird"
+    "It is made by a bird",
+    "It happens at about the same time every year, there and back"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A migration is regular and seasonal, there and back. Whales, butterflies, fish and people migrate too, not only birds. 'Very long' is common, but a short yearly trip up a mountain and down again is migration too.",
    "outcome": 0
   },
@@ -1770,10 +1770,10 @@
    "p": "Which of these animals migrates?",
    "opts": [
     "A house crow in Chennai",
-    "A garden lizard in Madurai",
-    "A barn swallow who spends the winter in South India"
+    "A barn swallow who spends the winter in South India",
+    "A garden lizard in Madurai"
    ],
-   "a": 2,
+   "a": 1,
    "why": "Barn swallows come to South India for the winter and fly north in spring. Crows and garden lizards stay near the same home all year.",
    "outcome": 0
   },
@@ -1781,11 +1781,11 @@
    "t": "mcq",
    "p": "Why do humpback whales swim to warm seas?",
    "opts": [
-    "To find more krill",
     "Their calves are born there",
+    "To find more krill",
     "To escape sharks in cold seas"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The cold seas have the krill. The warm seas are where calves are born. A mother may eat almost nothing for months while she is there, living on her fat.",
    "outcome": 1
   },
@@ -1793,11 +1793,11 @@
    "t": "mcq",
    "p": "What does a bird do before a long migration?",
    "opts": [
-    "Eats a lot and stores fat as fuel",
     "Grows extra wings",
+    "Eats a lot and stores fat as fuel",
     "Sleeps for a week"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The stored fat is fuel for the journey. A bar-tailed godwit flying from Alaska to Tasmania without stopping lives on fat the whole way.",
    "outcome": 1
   },
@@ -1805,11 +1805,11 @@
    "t": "mcq",
    "p": "Which animal makes the longest yearly journey known?",
    "opts": [
-    "The Arctic tern",
     "The house sparrow",
+    "The Arctic tern",
     "The elephant"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Trackers showed Arctic terns flying about 70,000 kilometres a year, from the Arctic to Antarctica and back.",
    "outcome": 2
   },
@@ -1841,11 +1841,11 @@
    "t": "mcq",
    "p": "In the bowl test, you were secretly moved to a new start and walked your usual steps. What happened?",
    "opts": [
-    "I stopped right at the bowl",
     "I stopped about as far to the side as I had been moved",
+    "I stopped right at the bowl",
     "I couldn't walk at all"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Your steps carried a direction and a distance, not the place of the bowl. Start somewhere else, and they end somewhere else.",
    "outcome": 3,
    "how": "e1"
@@ -1855,10 +1855,10 @@
    "p": "Young starlings moved from the Netherlands to Switzerland ended up in Spain. Adults reached their usual winter home. Why?",
    "opts": [
     "The young were faster",
-    "The young kept their inborn direction, while the adults knew the place",
-    "The adults followed the young"
+    "The adults followed the young",
+    "The young kept their inborn direction, while the adults knew the place"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Like your counted steps, the young birds' direction worked only from the usual start. The adults knew where their winter home was, like your peek at the bowl.",
    "outcome": 3,
    "how": "e1"
@@ -1879,11 +1879,11 @@
    "t": "mcq",
    "p": "Why must a tracker on a bird be very light?",
    "opts": [
-    "So it doesn't slow her down or tire her",
     "So it is cheaper",
-    "So other birds can't see it"
+    "So other birds can't see it",
+    "So it doesn't slow her down or tire her"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A heavy tracker makes the journey harder. A common rule is that a tracker should weigh no more than about 3 grams for every 100 grams of the bird's weight.",
    "outcome": 4
   },
@@ -1891,11 +1891,11 @@
    "t": "mcq",
    "p": "Your paper butterfly landed much further with the fan behind her. Why do many migrants wait for a tailwind?",
    "opts": [
-    "It carries them further for the same effort",
     "It makes them lighter",
+    "It carries them further for the same effort",
     "It keeps them warm"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The moving air pushes them along while they fly, like the fan pushed your butterfly while she fell. Radar shows many more birds take off when the wind blows their way.",
    "outcome": 5,
    "how": "e2"
@@ -1923,6 +1923,18 @@
    "a": 0,
    "why": "A stopover is a rest and refuelling place on the way. If it is drained or built over, birds from far away lose a place they need.",
    "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "Grey wagtails come to the hill town of Valparai each winter. What are they?",
+   "opts": [
+    "Birds that never leave the hill town",
+    "Travellers that come for the winter, then fly on",
+    "Fish that swim up the town's rivers"
+   ],
+   "a": 1,
+   "why": "The grey wagtail is a migratory bird. It comes to Valparai for the winter months, then flies on, as many birds do.",
+   "outcome": 0
   }
  ],
  "worksheets": [
@@ -1937,10 +1949,10 @@
      "p": "Which of these is a migration?",
      "opts": [
       "A crow flying across the city to find food, and back the same evening",
-      "A crane flying from Mongolia to Rajasthan every winter, and back every spring",
-      "A family moving to a new house once"
+      "A family moving to a new house once",
+      "A crane flying from Mongolia to Rajasthan every winter, and back every spring"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Migration is a long journey made at the same time every year, and back again. A crow's trip across town and back each day is not migration, and nor is a single move to a new house."
     },
     {
@@ -1991,11 +2003,11 @@
      "t": "mcq",
      "p": "Many scientists think birds that nest in the far north fly south for the winter mainly because of what?",
      "opts": [
-      "The food runs out in winter",
       "They get bored of one place",
+      "The food runs out in winter",
       "Their feathers stop working in the cold"
      ],
-     "a": 0,
+     "a": 1,
      "why": "In winter the northern ground freezes and the insects and plants the birds eat are gone. A bird with enough food can survive a lot of cold, so food is the main reason."
     },
     {
@@ -2045,11 +2057,11 @@
      "p": "Revathi, a girl in Kochi, does the bowl test. From the secret start, she stops 4 foot-lengths from the bowl. Then she peeks at the bowl for three seconds, and stops 1 foot-length away. What helped her?",
      "opts": [
       "She walked faster",
-      "She took bigger steps",
-      "She knew where the bowl was"
+      "She knew where the bowl was",
+      "She took bigger steps"
      ],
      "how": "e1",
-     "a": 2,
+     "a": 1,
      "why": "The peek showed her where the bowl was, so she could walk to the place, not just do her steps. This is how older birds who know a place can correct a wrong start."
     },
     {
@@ -2072,12 +2084,12 @@
      "t": "mcq",
      "p": "In the paper butterfly test, the butterfly landed much further with the fan behind her. What does that tell us about real migrating insects?",
      "opts": [
-      "A tailwind can carry them much further for the same effort",
       "Wind makes insects lighter",
-      "Insects can only fly when it is windy"
+      "Insects can only fly when it is windy",
+      "A tailwind can carry them much further for the same effort"
      ],
      "how": "e2",
-     "a": 0,
+     "a": 2,
      "why": "Moving air carries small flyers along for free. Many insects and birds wait for a tailwind, so the same effort takes them much further."
     },
     {
@@ -2150,6 +2162,13 @@
      ],
      "a": 2,
      "why": "Bright lights at night confuse birds that fly by the stars, and many crash into lit buildings. The others give birds food, rest or safe passage."
+    },
+    {
+     "t": "write",
+     "p": "Children in Valparai welcome winter visitors like the grey wagtail with care. Say one way you could welcome a bird that has flown far to visit your town.",
+     "lines": 3,
+     "a": "Answers can vary. For example: put out a bowl of water, keep cats indoors while the bird feeds, or simply watch it quietly without chasing it.",
+     "why": "A strong answer is kind and safe for the bird: it gives water or space, keeps animals away, and does not disturb it."
     }
    ]
   },
@@ -2253,11 +2272,11 @@
      "t": "mcq",
      "p": "Most humpback whales migrate. Humpbacks in the Arabian Sea stay all year. What is the best explanation?",
      "opts": [
-      "They have forgotten how to migrate",
       "Their sea gives them enough food and warmth all year",
+      "They have forgotten how to migrate",
       "They are a different kind of animal, not a whale"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Animals migrate to find what they need. If the Arabian Sea gives these whales food and warm water all year, there is no need to go. Scientists still study them."
     },
     {
@@ -2431,11 +2450,11 @@
      "t": "mcq",
      "p": "A tracker should weigh no more than about 3 grams for every 100 grams of an animal's weight. A bird weighs 100 grams. What is the heaviest tracker she should carry?",
      "opts": [
-      "About 3 grams",
       "About 30 grams",
-      "About 100 grams"
+      "About 100 grams",
+      "About 3 grams"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The rule allows 3 grams for every 100 grams. This bird weighs exactly 100 grams, so her tracker can weigh 3 grams. A heavier tracker could tire her or slow her down."
     },
     {
@@ -2581,7 +2600,7 @@
    "art": "A row of swallows with long forked tails on an electric wire against a pale sky."
   },
   {
-   "text": "Grey wagtails bobbing their tails on wet rooftops and drains from about October to March.",
+   "text": "Grey wagtails bobbing their tails on wet rooftops and drains from about October to March. In the hill town of Valparai, Tamil Nadu, children welcome these winter visitors with care.",
    "art": "A grey and yellow wagtail on a wet terrace, her tail lifted."
   },
   {
@@ -2833,6 +2852,87 @@
     "a4"
    ],
    "plan": "Keep it by the window during the Winter Visitors Watch, and use it for the migration book project."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Wind at Your Back: how much further does a tailwind carry a paper butterfly?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before Wind at Your Back: how much further does a tailwind carry a paper butterfly?."
+  },
+  {
+   "id": "b-insulated-wire-or-crocodile-",
+   "item": "Insulated wire or crocodile clips",
+   "kind": "tool",
+   "why": "Used in Winter Visitors Watch (from October to March). About ₹20 to ₹80. Thin insulated wire from an old charger works.",
+   "url": "https://www.amazon.in/s?k=crocodile+clip+wire+set",
+   "used_in": [
+    "a4"
+   ],
+   "plan": "Get it before Winter Visitors Watch (from October to March)."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in A Safe Crossing: help travelling crabs cross the road. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "c2"
+   ],
+   "plan": "Get it before A Safe Crossing: help travelling crabs cross the road."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in A Safe Crossing: help travelling crabs cross the road. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "c2"
+   ],
+   "plan": "Get it before A Safe Crossing: help travelling crabs cross the road."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in Wind at Your Back: how much further does a tailwind carry a paper butterfly?. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before Wind at Your Back: how much further does a tailwind carry a paper butterfly?."
+  },
+  {
+   "id": "b-a-small-toy-car-with-free-ro",
+   "item": "A small toy car with free-rolling wheels",
+   "kind": "material",
+   "why": "Used in A Safe Crossing: help travelling crabs cross the road. About ₹100 to ₹200. A marble or a round torch cell works.",
+   "url": "https://www.amazon.in/s?k=toy+car+pull+back+small",
+   "used_in": [
+    "c2"
+   ],
+   "plan": "Get it before A Safe Crossing: help travelling crabs cross the road."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

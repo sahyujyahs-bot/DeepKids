@@ -192,7 +192,8 @@
    "description": "Space between the Sun and the Earth is nearly empty, so there is almost nothing there to absorb the light and warm up. The warmth appears only when the light lands on something. A black thing absorbs most of the light that falls on it, so it gets hot quickly. A white thing reflects most of the light, so it stays cooler. Even the air is warmed mostly from below. Sunlight passes through clear air, warms the ground, and the warm ground then warms the air above it. That is why a black road in Chennai in May can be far too hot to stand on barefoot, while a white wall nearby is only warm.",
    "examples": [
     "A black car parked in the sun gets hotter inside than a white car parked beside it.",
-    "Roofs painted white keep the rooms under them cooler, because the white paint reflects most of the sunlight."
+    "Roofs painted white keep the rooms under them cooler, because the white paint reflects most of the sunlight.",
+    "Chillies, sliced mango and papads are spread on a flat terrace in the sun to dry. The sunlight warms them, and the heat drives out the water in them."
    ],
    "perspectives": [],
    "art": "Sunlight falling on a black road and a white wall side by side: the arrows go into the road with heat lines rising, and bounce off the wall.",
@@ -580,11 +581,11 @@
       "t": "mcq",
       "q": "What do the colander, the pinhole viewer and the mirror picture have in common?",
       "options": [
-       "You look at a picture of the Sun, not at the Sun",
        "They all make the Sun look bigger",
+       "You look at a picture of the Sun, not at the Sun",
        "They are all dark glass"
       ],
-      "a": 0,
+      "a": 1,
       "why": "In all three, sunlight makes a picture on a wall or on paper, and you look at the picture with your back to the Sun. Picking 'they make the Sun look bigger' is not right: the pictures are usually small. What makes them safe is that no lens gathers the Sun's light into your eye."
      }
     }
@@ -767,11 +768,11 @@
       "t": "mcq",
       "q": "Why does the board have bump squares inside the Sun, but a fast lane in space?",
       "options": [
-       "Inside the Sun, energy keeps getting taken in and sent out again. Space is nearly empty.",
        "Space has more air",
+       "Inside the Sun, energy keeps getting taken in and sent out again. Space is nearly empty.",
        "The Sun's core is cold"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Inside the Sun, energy is taken in and given out again countless times, in random directions, so it takes thousands of years to get out. In space there is almost nothing in the way, so light crosses to the Earth in about 8 minutes. Picking 'space has more air' is the wrong way round: space has almost no air at all."
      }
     },
@@ -1284,11 +1285,11 @@
       "t": "mcq",
       "q": "The hole in the paper is square, but the spot on the far wall is round. Why?",
       "options": [
-       "The wall bends the light",
        "The spot is a picture of the round Sun",
+       "The wall bends the light",
        "The mirror is round"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A small hole lets through light from every part of the Sun. Far away, that light makes a picture of the Sun itself, and the Sun is round. Picking 'the mirror is round' is a good try, but the paper covers most of the mirror, and only the square hole lets light through. Try a triangle-shaped hole too: the far spot is still round."
      },
      "parent": "On a wall 4 to 6 metres away the spot is round. At 3 metres its corners are already rounding off. Close to the mirror, the spot is square, the shape of the hole. You can catch it on a book held near the mirror. Move a sheet of paper slowly from the mirror towards the wall, catching the spot, and watch it change from square to round."
@@ -1390,11 +1391,11 @@
       "t": "mcq",
       "q": "A poster by the window has gone pale. What made it go pale?",
       "options": [
-       "Sunlight, mostly the ultraviolet light in it",
        "The cold air from the window",
-       "Dust from the road"
+       "Dust from the road",
+       "Sunlight, mostly the ultraviolet light in it"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Sunlight carries energy, and ultraviolet light, which we cannot see, has enough to break down the colours in paint and ink. That is why posters and curtains fade where the Sun reaches them. Picking 'dust' is a sensible guess, because dust makes things look dull. But dust can be wiped off, and fading cannot."
      }
     }
@@ -1480,11 +1481,11 @@
       "t": "mcq",
       "q": "The sunbeam lands on the white paper. What happens to most of it?",
       "options": [
-       "It is reflected and bounces away",
        "It all turns into heat",
-       "It disappears"
+       "It disappears",
+       "It is reflected and bounces away"
       ],
-      "a": 0,
+      "a": 2,
       "why": "White things reflect most of the light that falls on them, so most of the sunbeam bounces off. That is why white paper stays cooler than black paper in the sun. Picking 'disappears' is a natural guess, but energy is never lost. It always goes somewhere."
      }
     }
@@ -1589,11 +1590,11 @@
       "t": "mcq",
       "q": "The paper under the key kept its colour. The paper around it faded. Why?",
       "options": [
-       "The key blocked the sunlight, so no ultraviolet light reached that paper",
        "The key was cold",
-       "The key's metal coloured the paper"
+       "The key's metal coloured the paper",
+       "The key blocked the sunlight, so no ultraviolet light reached that paper"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Sunlight, mostly its ultraviolet part, breaks down the colour in the paper. The key lets no light through, so the paper under it kept its colour. Picking 'the key's metal coloured the paper' is a good thought, but the leaf and the cardboard star leave the same kind of shape, and they are not metal."
      },
      "parent": "If the colour has barely changed on day 6, leave the print in the sun for another week. Fading is slower in weak sun."
@@ -1830,11 +1831,11 @@
    "p": "The Sun looks much bigger and brighter than the stars at night. Why?",
    "opts": [
     "It is the biggest star there is",
-    "It is much closer to us than any other star",
     "It is not a star",
-    "It burns more fuel"
+    "It burns more fuel",
+    "It is much closer to us than any other star"
    ],
-   "a": 1,
+   "a": 3,
    "outcome": 0,
    "why": "The Sun is an ordinary star that happens to be very close. The next nearest star is about 270,000 times further away. Picking 'the biggest star' is a natural guess, but many stars are much bigger."
   },
@@ -1869,11 +1870,11 @@
    "p": "Two steel plates stand in the sun, one with black paper and one with white paper. Which paper gets warmer?",
    "opts": [
     "The white paper",
-    "The black paper",
     "Both the same",
-    "Neither"
+    "Neither",
+    "The black paper"
    ],
-   "a": 1,
+   "a": 3,
    "outcome": 2,
    "why": "Black paper absorbs most of the sunlight, and the light turns into heat. White paper reflects most of it. Picking 'both the same' makes sense, because the sunlight is the same. But what the paper does with it is different.",
    "how": "e2"
@@ -1884,10 +1885,10 @@
    "opts": [
     "Only inside the Sun",
     "In empty space on the way",
-    "Wherever something absorbs it",
-    "Only in water"
+    "Only in water",
+    "Wherever something absorbs it"
    ],
-   "a": 2,
+   "a": 3,
    "outcome": 2,
    "why": "Sunlight turns into heat where it is absorbed: on your skin, a road, a leaf or black paper. Empty space has almost nothing to absorb it."
   },
@@ -1895,12 +1896,12 @@
    "t": "mcq",
    "p": "A magnifying glass makes a big circle of light on black paper, then a tiny dot. Which makes the paper smoke?",
    "opts": [
-    "The big circle",
     "The tiny dot",
+    "The big circle",
     "Both, at the same time",
     "Neither"
    ],
-   "a": 1,
+   "a": 0,
    "outcome": 3,
    "why": "The tiny dot has all the light from the glass packed into a small place, so it gets hot enough to smoke. The big circle spreads it out.",
    "how": "e1"
@@ -1910,11 +1911,11 @@
    "p": "In the Sun Dot experiment, why was the paper put on a steel plate, with a tumbler of water nearby?",
    "opts": [
     "To make it smoke faster",
-    "To keep it safe, so nothing else could catch fire",
     "To make the dot smaller",
-    "To keep the paper flat"
+    "To keep the paper flat",
+    "To keep it safe, so nothing else could catch fire"
    ],
-   "a": 1,
+   "a": 3,
    "outcome": 3,
    "why": "Steel does not burn, and the water can put out any smouldering paper. The steel plate and the water are there for safety. A grown-up holds the glass for the same reason.",
    "how": "e1"
@@ -1936,12 +1937,12 @@
    "t": "mcq",
    "p": "Which of these is a safe way to watch the Sun?",
    "opts": [
-    "Through dark sunglasses",
     "Its picture on a wall, made by a covered mirror",
+    "Through dark sunglasses",
     "Through binoculars",
     "A quick look for one second"
    ],
-   "a": 1,
+   "a": 0,
    "outcome": 4,
    "why": "A picture of the Sun on a wall is safe, because you look at the wall, not the Sun. Sunglasses let through too much light, binoculars gather more of it into the eye, and even one second can harm the retina."
   },
@@ -1962,14 +1963,27 @@
    "t": "mcq",
    "p": "A helium atom weighs a little less than four hydrogen atoms put together. Why does this help explain how the Sun shines?",
    "opts": [
-    "When hydrogen joins into helium, the missing bit of material turns into energy",
     "It shows the Sun is shrinking",
+    "When hydrogen joins into helium, the missing bit of material turns into energy",
     "It shows the Sun is full of coal",
     "It shows sunlight takes 8 minutes to arrive"
    ],
-   "a": 0,
+   "a": 1,
    "outcome": 6,
    "why": "In the core, four hydrogen atoms join into one helium atom. The helium atom weighs a little less, so a tiny bit of material goes missing each time. That missing material turns into energy, and the energy is what makes the Sun shine."
+  },
+  {
+   "t": "mcq",
+   "p": "Why are chillies spread on a flat terrace in the sun to dry?",
+   "opts": [
+    "The chillies make their own light, and the light dries them",
+    "Sunlight is cold, so it keeps the chillies from going bad",
+    "Sunlight turns into heat inside them and drives out their water",
+    "Chillies dry only in the shade"
+   ],
+   "a": 2,
+   "outcome": 2,
+   "why": "Chillies absorb sunlight, and the light turns into heat inside them. The heat drives out the water. Sunlight is warm, not cold, and chillies dry in the sun, not in the shade."
   }
  ],
  "worksheets": [
@@ -2007,6 +2021,13 @@
     },
     {
      "t": "write",
+     "p": "Mango slices dry faster on a dark cloth in the sun than in a cupboard. Why? Use the words absorb and heat.",
+     "lines": 3,
+     "a": "The dark cloth absorbs sunlight, and the light turns into heat. The heat drives the water out of the mango. In a cupboard there is no sunlight, so there is no heat to dry it.",
+     "why": "A strong answer says that the cloth absorbs the light, that the light turns into heat, and that the heat takes the water out."
+    },
+    {
+     "t": "write",
      "p": "In the Sun Dot experiment, the magnifying glass made no new light, but the tiny dot made paper smoke. Explain how.",
      "lines": 3,
      "a": "The magnifying glass gathered all the sunlight that fell on it into one tiny dot. The same amount of light was packed into a much smaller place, so that spot of paper got very hot.",
@@ -2017,12 +2038,12 @@
      "t": "mcq",
      "p": "Why must we never look straight at the Sun?",
      "opts": [
-      "The Sun is too far away to see",
       "The lens in our eye focuses its light onto the retina and harms it",
+      "The Sun is too far away to see",
       "It makes us sneeze",
       "It makes the Sun angry"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The eye's lens gathers light like a magnifying glass. Looking at the Sun focuses its light into a tiny fierce spot on the retina, which can be harmed for ever. A strong answer names the lens and the retina."
     },
     {
@@ -2127,11 +2148,11 @@
      "p": "A bit of sunlight lands on a black road. What happens to it?",
      "opts": [
       "You are reflected away",
-      "You are absorbed and turn into heat",
       "You become a plant's food",
-      "You turn into rain"
+      "You turn into rain",
+      "You are absorbed and turn into heat"
      ],
-     "a": 1,
+     "a": 3,
      "why": "A black road absorbs most of the sunlight that lands on it, and the light turns into heat. That is why a road in summer is too hot for bare feet.",
      "how": "g2"
     },
@@ -2181,11 +2202,11 @@
      "p": "A magnifying glass made black paper smoke in 4 seconds. Then a bigger magnifying glass is used, held to make an equally tiny dot. What do you predict?",
      "opts": [
       "It will take longer, because the glass is heavier",
-      "It will smoke faster, because a bigger glass gathers more sunlight into the dot",
       "It will never smoke",
-      "It will take exactly 4 seconds"
+      "It will take exactly 4 seconds",
+      "It will smoke faster, because a bigger glass gathers more sunlight into the dot"
      ],
-     "a": 1,
+     "a": 3,
      "why": "A bigger glass catches more sunlight across its face, and packs it into the dot. More light in the same small place means more heat, so the paper smokes faster. A strong answer explains with the amount of light caught.",
      "how": "e1"
     },
@@ -2236,12 +2257,12 @@
      "t": "mcq",
      "p": "A mirror is covered with paper that has a small square hole in it. The mirror throws the Sun's light onto a wall far away. What shape is the spot of light on the wall?",
      "opts": [
-      "Square, like the hole",
       "Round, like the Sun",
+      "Square, like the hole",
       "A triangle",
       "It had no shape"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Far from the mirror, the spot is a picture of the Sun, so it is round whatever the shape of the hole. Close to the mirror it is square. A strong answer says the spot is a picture of the Sun.",
      "how": "a2"
     },
@@ -2289,11 +2310,11 @@
      "p": "Why can the Sun shine in space, where there is no air, when a fire cannot?",
      "opts": [
       "The Sun carries its own air",
-      "The Sun shines by fusion, which needs no oxygen",
       "Space is full of oxygen",
+      "The Sun shines by fusion, which needs no oxygen",
       "The Sun is not really shining"
      ],
-     "a": 1,
+     "a": 2,
      "why": "A fire needs oxygen. The Sun's light comes from hydrogen joining into helium in its core, and that needs no oxygen at all. Picking 'carries its own air' mixes up the Sun with a rocket, which really does carry its own oxygen."
     },
     {
@@ -2309,11 +2330,11 @@
      "p": "In the Sun Print project, a key lay on coloured paper in the sun for 6 days. What did the paper look like when the key was lifted?",
      "opts": [
       "Faded all over",
-      "A key shape in the old bright colour, with faded paper around it",
       "A black key shape",
-      "No change at all"
+      "No change at all",
+      "A key shape in the old bright colour, with faded paper around it"
      ],
-     "a": 1,
+     "a": 3,
      "why": "The key blocked the sunlight, so the paper under it kept its colour. The rest faded, mostly from ultraviolet light. A strong answer says the key blocked the light.",
      "how": "p1"
     },
@@ -2379,11 +2400,11 @@
      "p": "A magnifying glass 5 cm across packs its sunlight into a dot 1 mm across. Someone says the dot gets the same amount of light as a 1 mm patch of plain sunshine. What is wrong?",
      "opts": [
       "Nothing, light is light",
-      "The dot gets all the light that fell on the whole glass, far more than a 1 mm patch",
       "The dot gets less light than a 1 mm patch",
-      "The glass makes the light colder"
+      "The glass makes the light colder",
+      "The dot gets all the light that fell on the whole glass, far more than a 1 mm patch"
      ],
-     "a": 1,
+     "a": 3,
      "why": "The glass catches the sunlight falling on its whole 5 cm face and sends it all into the 1 mm dot. That is hundreds of times more light than a 1 mm patch of plain sunshine gets. A strong answer compares the size of the glass with the size of the dot.",
      "how": "e1"
     },
@@ -2398,12 +2419,12 @@
      "t": "mcq",
      "p": "A glass bottle full of water is left on a sunny windowsill, next to a pile of old newspapers. Why is this a risk?",
      "opts": [
-      "The bottle can act as a lens and gather sunlight into a hot spot on the paper",
       "The water will boil",
       "The bottle will melt",
+      "The bottle can act as a lens and gather sunlight into a hot spot on the paper",
       "There is no risk"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A round bottle of water is thicker in the middle, like a lens. It can gather sunlight into a hot spot. On paper, that spot can smoulder and start a fire. Fires have really started this way."
     },
     {
@@ -2425,11 +2446,11 @@
      "p": "On a clear day the Sun looks pale yellow. At sunset over the sea, it looks orange. In space, it looks white. What causes the change?",
      "opts": [
       "The Sun changes colour during the day",
-      "Our air scatters away blue light, and at sunset the light passes through much more air",
       "The sea paints the Sun orange",
+      "Our air scatters away blue light, and at sunset the light passes through much more air",
       "Our eyes get tired"
      ],
-     "a": 1,
+     "a": 2,
      "why": "The Sun's light is white. Air scatters blue light more than other colours. At sunset the light crosses much more air, so even more blue and green are scattered away, leaving orange and red. A strong answer mentions how much air the light passes through."
     },
     {
@@ -2802,6 +2823,66 @@
     "e2",
     "c1"
    ]
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in The Mirror Sun: a safe picture of the Sun on your wall. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Get it before The Mirror Sun: a safe picture of the Sun on your wall."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Mirror Sun: a safe picture of the Sun on your wall. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Get it before The Mirror Sun: a safe picture of the Sun on your wall."
+  },
+  {
+   "id": "b-a-small-hand-mirror",
+   "item": "A small hand mirror",
+   "kind": "material",
+   "why": "Used in The Mirror Sun: a safe picture of the Sun on your wall, An Eclipse Party for the Whole Building. About ₹20 to ₹80. A shiny steel plate shows reflections too.",
+   "url": "https://www.amazon.in/s?k=small+hand+mirror",
+   "used_in": [
+    "a2",
+    "c2"
+   ],
+   "plan": "Get it before The Mirror Sun: a safe picture of the Sun on your wall."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in The Sun Print: a picture made only by sunlight. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before The Sun Print: a picture made only by sunlight."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

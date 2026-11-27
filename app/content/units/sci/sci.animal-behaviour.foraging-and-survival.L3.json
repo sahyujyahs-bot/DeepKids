@@ -706,11 +706,11 @@
       "t": "mcq",
       "q": "In the game, why were deer who moved when the tiger turned caught?",
       "options": [
-       "The tiger noticed movement, even when the deer were far away",
        "Moving deer were a different colour",
+       "The tiger noticed movement, even when the deer were far away",
        "The tiger could only see deer who had grass"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Eyes notice movement quickly. A deer who freezes is much harder to spot. Real prey face the same choice: every moment spent eating in the open is a moment they might be seen. Picking 'a different colour' is not right, because every player looked the same in every round."
      }
     }
@@ -820,11 +820,11 @@
       "t": "mcq",
       "q": "On the newspaper, which caterpillars were left behind most?",
       "options": [
-       "The newspaper strips, because they matched the background",
        "The plain strips, because they were harder to pick up",
+       "The newspaper strips, because they matched the background",
        "Both kinds the same"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The newspaper strips had the same grey print as the background, so your eyes skipped over them. That is camouflage. If you picked 'the plain strips', count again: most hunters catch far more plain strips. If the numbers were nearly the same, the plain paper may be a colour that blends in. Try whiter paper."
      }
     },
@@ -1147,11 +1147,11 @@
       "t": "mcq",
       "q": "Why does a dark back and a pale belly help a fish hide?",
       "options": [
-       "The pale belly cancels the shadow underneath, so the body looks flat",
        "Dark colours are invisible",
+       "The pale belly cancels the shadow underneath, so the body looks flat",
        "A pale belly makes the fish swim faster"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Sunlight comes from above. So a plain body is bright on top and dark underneath. Our eyes use that bright top and dark bottom to see that something is round. A dark back and a pale belly cancel it out. The top and the bottom look the same shade, so the body looks flat. A flat shape is hard to notice. 'Dark colours are invisible' is a natural guess. But a dark body is easy to see against a pale background."
      }
     },
@@ -1645,12 +1645,12 @@
    "t": "mcq",
    "p": "Which word means searching for food and getting it?",
    "opts": [
-    "Forage",
     "Hibernate",
+    "Forage",
     "Migrate",
     "Camouflage"
    ],
-   "a": 0,
+   "a": 1,
    "why": "To forage is to search for food and get it. Hibernating is a long winter rest, migrating is travelling far, and camouflage is hiding by matching the place.",
    "outcome": 0
   },
@@ -1659,11 +1659,11 @@
    "p": "A spider spins a sticky web and waits. How is she hunting?",
    "opts": [
     "By chasing",
-    "With a trap",
     "By grazing",
+    "With a trap",
     "By scavenging"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The web is a trap that catches insects for her. She does not chase them.",
    "outcome": 1
   },
@@ -1684,12 +1684,12 @@
    "t": "mcq",
    "p": "Why does an elephant feed for most of the day and part of the night?",
    "opts": [
-    "Leaves and grass give little energy in each mouthful",
     "There is very little food in a forest",
     "Elephants eat only at night",
+    "Leaves and grass give little energy in each mouthful",
     "Elephants waste most of their food"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Plants give little energy in each mouthful, and a big body needs a lot. So elephants spend most of their time eating.",
    "outcome": 2
   },
@@ -1697,12 +1697,12 @@
    "t": "mcq",
    "p": "Newspaper strips and plain white strips are scattered on a sheet of newspaper. A hunter picks them up as fast as she can. Which strips will she most likely miss?",
    "opts": [
-    "The newspaper strips",
     "The plain strips",
     "Both the same",
+    "The newspaper strips",
     "The hunter missed none"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The newspaper strips match the background, so the hunter's eyes pass over them. That is camouflage. The plain strips stand out, so they are found first.",
    "outcome": 3,
    "how": "e1"
@@ -1711,12 +1711,12 @@
    "t": "mcq",
    "p": "Newspaper strips were hard to find on a newspaper. Then the same strips were moved onto a plain white sheet. What happened?",
    "opts": [
-    "They became easy to find",
     "They stayed just as hidden",
     "They changed colour",
-    "They were even harder to find"
+    "They were even harder to find",
+    "They became easy to find"
    ],
-   "a": 0,
+   "a": 3,
    "why": "On the white sheet the grey print no longer matched, so the strips stood out. Camouflage depends on the place.",
    "outcome": 3,
    "how": "e1"
@@ -1725,12 +1725,12 @@
    "t": "mcq",
    "p": "Why do chital listen for langur alarm calls?",
    "opts": [
-    "Langurs sit high in trees and can see a tiger or leopard from far away",
     "Langurs are the chital's parents",
     "Langurs chase tigers away",
+    "Langurs sit high in trees and can see a tiger or leopard from far away",
     "Langurs tell the chital where grass is"
    ],
-   "a": 0,
+   "a": 2,
    "why": "From the treetops, langurs see far. Their alarm calls warn the chital below, who look up and get ready to run.",
    "outcome": 4
   },
@@ -1738,12 +1738,12 @@
    "t": "mcq",
    "p": "A tortoise pulls her head and legs into her shell. How is she staying safe?",
    "opts": [
-    "With armour",
     "With camouflage",
+    "With armour",
     "By chasing",
     "With an alarm call"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The hard shell is armour. Many hunters cannot bite through it.",
    "outcome": 4
   },
@@ -1751,12 +1751,12 @@
    "t": "mcq",
    "p": "Why is keeping still a good way to stay hidden?",
    "opts": [
-    "Many hunters notice movement first",
     "Still animals become invisible",
     "Hunters hunt only at night",
-    "Moving makes an animal change colour"
+    "Moving makes an animal change colour",
+    "Many hunters notice movement first"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Eyes notice movement quickly. A still animal who matches the background is much harder to find, as the Still or Moving test showed.",
    "outcome": 4,
    "how": "e2"
@@ -1765,12 +1765,12 @@
    "t": "mcq",
    "p": "Over a very long time, what happens when prey get better at hiding?",
    "opts": [
-    "The hunters who survive are the ones better at finding them",
     "All the hunters stop hunting",
     "The prey stop needing to hide",
+    "The hunters who survive are the ones better at finding them",
     "Nothing changes"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Hunters who cannot find enough food have fewer young. So, over many generations, hunters and prey change together.",
    "outcome": 5
   },
@@ -1812,12 +1812,12 @@
      "t": "mcq",
      "p": "A buffalo grazes beside a canal for most of the day. Why does she eat for so long?",
      "opts": [
-      "Grass gives little energy in each mouthful, so she needs a lot",
       "She is greedy",
+      "Grass gives little energy in each mouthful, so she needs a lot",
       "Grass is hard to find",
       "She has nothing else to do"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Grass is easy to find, but each mouthful gives little energy and is slow to digest. So a grazer must eat a great deal. A strong answer does not blame the buffalo: every grazer needs that much."
     },
     {
@@ -1825,11 +1825,11 @@
      "p": "A pond heron stands still at the edge of a pond for a long time. Then the heron stabs the water. How is the heron hunting?",
      "opts": [
       "By chasing",
-      "By ambush: waiting still, then striking",
       "With a trap",
-      "By scavenging"
+      "By scavenging",
+      "By ambush: waiting still, then striking"
      ],
-     "a": 1,
+     "a": 3,
      "why": "The heron waits, still and hidden, until a fish comes close, then strikes. That is an ambush. A chaser would run or fly after the fish, and a trapper would build something."
     },
     {
@@ -2007,12 +2007,12 @@
      "t": "mcq",
      "p": "Which of these animals is a scavenger?",
      "opts": [
-      "A vulture eating a cow who has died",
       "A goat eating leaves",
       "A spider waiting in her web",
-      "A flamingo filtering water"
+      "A flamingo filtering water",
+      "A vulture eating a cow who has died"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A scavenger eats animals that are already dead. The goat is a browser, the spider is a trapper, and the flamingo filters food from water."
     },
     {
@@ -2034,12 +2034,12 @@
      "t": "mcq",
      "p": "In the Still or Moving test, the wriggling strip was spotted much sooner. What does this tell you about how prey stay alive?",
      "opts": [
-      "Keeping still can save a prey animal's life",
       "Moving fast always saves prey",
+      "Keeping still can save a prey animal's life",
       "Hunters notice only colour",
       "Colour does not matter at all"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Eyes notice movement quickly, so prey who freeze are harder to find. Moving fast can help once you have been seen, but not before.",
      "how": "e2"
     },
@@ -2047,12 +2047,12 @@
      "t": "mcq",
      "p": "A green leaf insect is put on a white wall. What happens?",
      "opts": [
-      "She becomes easy to see, because her green no longer matches",
       "She turns white to match",
       "She becomes harder to see",
-      "Nothing changes"
+      "Nothing changes",
+      "She becomes easy to see, because her green no longer matches"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Camouflage works only against the right background. Leaf insects cannot change their colour, so on a white wall the match is gone."
     },
     {
@@ -2300,12 +2300,12 @@
      "t": "mcq",
      "p": "A trained hawk attacks two flocks of pigeons, one big and one small. Which flock is more likely to escape?",
      "opts": [
-      "The big flock, because someone in it notices the hawk sooner",
       "The small flock, because it is quieter",
       "Both the same",
+      "The big flock, because someone in it notices the hawk sooner",
       "Neither, because hawks always win"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A real study in England found exactly this. More eyes meant the hawk was noticed sooner, so the big flock took off before she got close."
     },
     {
@@ -2369,12 +2369,12 @@
      "t": "mcq",
      "p": "Why do cows swallow grass quickly in the field and chew it properly later?",
      "opts": [
-      "They can feed fast and chew later, while resting",
       "Their teeth are too weak to chew",
+      "They can feed fast and chew later, while resting",
       "Grass tastes better the second time",
       "They forget to chew"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Swallowing quickly means less time with the head down in the open. Chewing the cud later, while resting, grinds the grass finer, so microbes in the stomach can break it down."
     },
     {
@@ -2420,12 +2420,12 @@
      "t": "mcq",
      "p": "In the Still or Moving test, a hunter spotted the still strip after 14, 10 and 12 seconds, and the wriggling strip after 2, 1 and 3 seconds. What is the best conclusion?",
      "opts": [
-      "Moving gave the strip away",
       "The wriggling strip was a different colour",
       "The hunter got tired",
-      "There is no pattern"
+      "There is no pattern",
+      "Moving gave the strip away"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The strip was the same and the newspaper was the same. Only the movement changed, and every wriggling try was much faster. So movement gave the strip away.",
      "how": "e2"
     }
@@ -2691,7 +2691,56 @@
    "why": "Mangrove forests where archerfish, mudskippers and tigers hunt."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Paper Caterpillars: which ones does a hungry hunter miss?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before Paper Caterpillars: which ones does a hungry hunter miss?."
+  },
+  {
+   "id": "b-clean-sand--a-small-bag",
+   "item": "Clean sand (a small bag)",
+   "kind": "material",
+   "why": "Used in The Antlion's Trap: a pit of rava. About ₹20 to ₹60. Fine soil sieved from a pot works.",
+   "url": "https://www.amazon.in/s?k=play+sand+small+bag",
+   "used_in": [
+    "a4"
+   ],
+   "plan": "Get it before The Antlion's Trap: a pit of rava."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in Graze or Hunt? A one-minute food race. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Get it before Graze or Hunt? A one-minute food race."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "What is the word for searching for food and getting it?",

@@ -34,6 +34,12 @@
    "art": "People standing under the roof of a bus stop while rain falls all around."
   },
   {
+   "term": "Stranger",
+   "meaning": "A stranger is a person you and your family do not know. Most people are kind, but a child should not go anywhere with a stranger.",
+   "example": "A man you have never met offers you a sweet at the bus stand. You say no and stay near your mother.",
+   "art": "A child holding her mother's hand at a bus stand, while a man she does not know stands a little way off."
+  },
+  {
    "term": "Wind",
    "meaning": "Wind is air that is moving. We cannot see air, but we can see what wind moves.",
    "example": "A fan makes a wind. It flaps the pages of a book on the table.",
@@ -98,7 +104,7 @@
    "status": "defined",
    "context": "This card explains why clothes and a home are needs, not only nice to have.",
    "definition": "Clothes and a home protect our bodies from sun, rain, cold, wind, insects and dirt.",
-   "description": "Your skin can burn in strong sun and get very cold in wind and rain. A cap and loose cotton clothes shade you from the sun, and a sweater keeps you warm. A home has a roof for rain and sun, walls for wind, and windows that let fresh air in.",
+   "description": "Your skin can burn in strong sun and get very cold in wind and rain. A cap and loose cotton clothes shade you from the sun, and a sweater keeps you warm. A home has a roof for rain and sun, walls for wind, and windows that let fresh air in. Clothes are not all the same. A boy may wear a shirt and shorts, a kurta and pyjama, or a school uniform. A girl may wear a frock, a salwar kameez, or the same school uniform. Each piece does a job: a cap shades your head, a sweater keeps you warm, a raincoat keeps you dry and chappals protect your feet from hot ground.",
    "examples": [
     "Farmers in the fields of Andhra Pradesh often tie a cotton towel around their heads to keep off the sun.",
     "In Shillong in winter, people wear woollen shawls and caps.",
@@ -115,6 +121,42 @@
     }
    ],
    "art": "A house cut open like a doll's house, with arrows showing rain sliding off the roof, wind stopped by a wall, and fresh air coming in at a window."
+  },
+  {
+   "concept": "The rooms of a home and their work",
+   "status": "defined",
+   "context": "This card shows how a home is made of parts, and each part has its own work.",
+   "definition": "A room is a part of a home with its own work, such as cooking, sleeping or washing.",
+   "description": "Think of your own home and walk through it in your mind. In the kitchen, food is cooked and washed. In the bedroom, you sleep and rest. In the bathroom, you wash and clean your teeth. In the living room, the family sits, talks and welcomes guests. Each room has one main work, so each need is looked after in its own place.",
+   "examples": [
+    "At dinner time in a flat in Pune, Amma cooks in the kitchen, and the family eats together in the living room.",
+    "After play, a child in Lucknow washes hands and feet in the bathroom before going to the bedroom to sleep."
+   ],
+   "perspectives": [
+    {
+     "who": "Families with one room",
+     "explanation": "Many families live in a single room. They cook in one corner, sleep on mats in another and wash outside. The work is the same, and the corner does the job of the room."
+    }
+   ],
+   "art": "A house cut open like a doll's house with four rooms: a kitchen with a pot on the stove, a bedroom with a bed, a bathroom with a bucket and mug, and a living room with a sofa."
+  },
+  {
+   "concept": "Staying safe at home and outside",
+   "status": "defined",
+   "context": "This card shows that a home and the world outside also need care to keep us safe.",
+   "definition": "Staying safe means knowing what can hurt us and what to do so that we do not get hurt.",
+   "description": "At home, hot things like the stove, a pan or a kettle can burn you, so let a grown-up handle them. Do not touch electric sockets or wires. Keep medicines and cleaning liquids with a grown-up, because they can make you ill. Outside, hold a grown-up's hand when you cross a road, and look both ways. In a market, a bus or a railway station, stay close to your family. Never go with a stranger, who is a person you and your family do not know. If you feel lost, go to a shopkeeper or a policewoman and say your name and your parent's phone number.",
+   "examples": [
+    "Meena in Jaipur waits for Papa before she crosses the busy road to the sweet shop.",
+    "Ravi gets lost in a crowded mela in Pushkar. He stands still near a shop, tells the shopkeeper his name, and she calls his mother."
+   ],
+   "perspectives": [
+    {
+     "who": "A child's own feelings",
+     "explanation": "If anything or anyone makes you feel scared or unsafe, you may say no and tell a grown-up you trust. Being safe is your right, and a good grown-up will listen."
+    }
+   ],
+   "art": "Two pictures: a kitchen with a child standing back while a grown-up lifts a hot pot, and a child holding a grown-up's hand at a road crossing."
   },
   {
    "concept": "A wall makes calm air behind it",
@@ -696,10 +738,10 @@
       "q": "In which test did the tissue flag hang still?",
       "options": [
        "The tunnel, open at both ends",
-       "The box, door facing the fan",
-       "The box, door facing away from the fan"
+       "The box, door facing away from the fan",
+       "The box, door facing the fan"
       ],
-      "a": 2,
+      "a": 1,
       "why": "With the door facing away, the closed wall faced the fan. The moving air hit that wall and went around the box, so the air inside stayed calm."
      },
      "parent": "A strong answer: I think the door should face away from the wind. The flag hung still when the wall faced the fan. The wind hit the wall and went around."
@@ -1120,11 +1162,11 @@
    "t": "mcq",
    "p": "A newborn baby drinks only milk. What does the milk give the baby?",
    "opts": [
-    "Food and water",
     "Clothes and a home",
-    "Only air"
+    "Only air",
+    "Food and water"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Milk is the baby's food, and it gives the baby water too.",
    "outcome": 1
   },
@@ -1132,11 +1174,11 @@
    "t": "mcq",
    "p": "Why do we drink water every day, and not just once?",
    "opts": [
-    "Water leaves our body when we wee, sweat and breathe out",
     "Water makes us tall",
+    "Water leaves our body when we wee, sweat and breathe out",
     "Water is only for washing"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Our body keeps losing water, so we must keep putting it back.",
    "outcome": 1
   },
@@ -1144,23 +1186,59 @@
    "t": "mcq",
    "p": "What does a roof keep off us?",
    "opts": [
-    "Rain and hot sun",
     "Air",
+    "Rain and hot sun",
     "Food"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A roof keeps off the rain and the hot sun. Walls keep off the wind.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "In which room of a home is food cooked?",
+   "opts": [
+    "The kitchen",
+    "The bedroom",
+    "The bathroom"
+   ],
+   "a": 0,
+   "why": "Food is cooked in the kitchen. We sleep in the bedroom and wash in the bathroom, so each room has its own work.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "You get lost in a crowded market. What should you do?",
+   "opts": [
+    "Go with a friendly person you have never met",
+    "Keep running through the crowd to find your family",
+    "Go to a shopkeeper and say your name and your parent's phone number"
+   ],
+   "a": 2,
+   "why": "A shopkeeper is a safe grown-up to ask. Going with a stranger is not safe, and running makes it harder for your family to find you.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "Why do we wear a raincoat and chappals on a wet day?",
+   "opts": [
+    "The raincoat keeps our body dry and the chappals protect our feet",
+    "They help us to breathe",
+    "They give us water to drink"
+   ],
+   "a": 0,
+   "why": "Clothes protect the body. A raincoat keeps rain off, and chappals protect our feet. They do not give us air or water.",
    "outcome": 2
   },
   {
    "t": "mcq",
    "p": "In the wind box test, which way should the open door of the box face to keep the tissue flag still?",
    "opts": [
-    "Towards the fan",
     "Away from the fan",
+    "Towards the fan",
     "It does not matter"
    ],
-   "a": 1,
+   "a": 0,
    "why": "With the door away from the fan, the closed wall faced the wind. The air went around the box, so the flag hung still.",
    "outcome": 3,
    "how": "e1"
@@ -1182,11 +1260,11 @@
    "t": "mcq",
    "p": "Which of these is a shelter for a pigeon?",
    "opts": [
-    "A nest on a ledge under a roof",
     "A puddle on the road",
+    "A nest on a ledge under a roof",
     "A plate of rice"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A nest under a roof keeps a pigeon safe from rain and wind. It is the pigeon's home.",
    "outcome": 4
   },
@@ -1194,11 +1272,11 @@
    "t": "mcq",
    "p": "Which is true?",
    "opts": [
-    "Humans are animals, and we need air, water and food like other animals",
     "Only people need water",
-    "Plants need nothing"
+    "Plants need nothing",
+    "Humans are animals, and we need air, water and food like other animals"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Humans are animals. Crows, cats, ants and people all need air, water and food. Plants need air, water and light.",
    "outcome": 4
   },
@@ -1307,11 +1385,11 @@
      "t": "mcq",
      "p": "You hold a tissue flag in front of a fan and it flaps. What is moving it?",
      "opts": [
-      "Moving air",
       "The floor",
+      "Moving air",
       "The light"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Wind is moving air. We cannot see air, but we can see the flag it moves.",
      "how": "e1"
     },
@@ -1356,6 +1434,38 @@
      "art": "A simple house with a sloping roof, walls, a door and an open window, with three empty boxes."
     },
     {
+     "t": "match",
+     "p": "Draw a line from each room to its work.",
+     "pairs": [
+      [
+       "Kitchen",
+       "Cooking food"
+      ],
+      [
+       "Bedroom",
+       "Sleeping"
+      ],
+      [
+       "Bathroom",
+       "Washing"
+      ],
+      [
+       "Living room",
+       "Sitting and talking with the family"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each room has its own work. We cook in the kitchen and sleep in the bedroom.",
+     "art": "Four rooms on the left: kitchen, bedroom, bathroom and living room. Four pictures on the right: a pot, a pillow, a bucket and a sofa."
+    },
+    {
+     "t": "draw",
+     "p": "Draw one boy and one girl in clothes you have seen. Write the name of each piece, and one line on what it does.",
+     "a": "For example: a boy in a shirt and shorts, a girl in a frock with a cap. A cap shades the head, and a frock keeps the body cool.",
+     "why": "Every piece of clothing has a use. Boys and girls may wear different clothes, but all clothes protect the body.",
+     "art": "Two empty outlines of children, one labelled boy and one girl, with lines beside each for labels."
+    },
+    {
      "t": "mcq",
      "p": "A crow comes to a bowl on the balcony on a hot day. Which need is the crow meeting?",
      "opts": [
@@ -1396,11 +1506,11 @@
      "t": "mcq",
      "p": "A farmer plants a row of trees to keep the wind off her crops. On which side of the field should the trees go?",
      "opts": [
-      "The side the wind comes from",
       "The side away from the wind",
-      "The middle of the field"
+      "The middle of the field",
+      "The side the wind comes from"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The trees are a wall. The wind goes around them, and the crops behind them get calm air.",
      "how": "e1"
     },
@@ -1438,6 +1548,35 @@
      ],
      "a": 0,
      "why": "Wool keeps you warm. In Chennai in May you would need loose cotton instead. The need is the same, but the clothes depend on the place."
+    },
+    {
+     "t": "sort",
+     "p": "Sort each one into Safe or Not safe.",
+     "cats": [
+      "Safe",
+      "Not safe"
+     ],
+     "items": [
+      [
+       "Holding a grown-up's hand on the road",
+       "Safe"
+      ],
+      [
+       "Touching a plug socket",
+       "Not safe"
+      ],
+      [
+       "Standing near a hot pan",
+       "Not safe"
+      ],
+      [
+       "Staying close to your family in a market",
+       "Safe"
+      ]
+     ],
+     "a": "see items",
+     "why": "Roads, sockets and hot pans can hurt us. Holding a hand and staying close keep us safe.",
+     "art": "Four small pictures: a child holding a hand at a road, a hand near a socket, a child by a hot pan, and a family in a market."
     },
     {
      "t": "draw",
@@ -1602,7 +1741,59 @@
    "why": "Real old homes from Tamil Nadu, Kerala, Karnataka and Andhra Pradesh, rebuilt so you can walk through them. See how each home suits its weather."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Wind Box: which way should the door face?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before The Wind Box: which way should the door face?."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in The Wind Box: which way should the door face?, A Home for the Tissue Flag, Wind From Any Side. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "e1",
+    "c1"
+   ],
+   "plan": "Get it before The Wind Box: which way should the door face?."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in The Wind Box: which way should the door face?, Find the Calm Spots at Home, Our Bedsheet Home: a tent with all five needs. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "e1",
+    "a2",
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before The Wind Box: which way should the door face?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "Name the five basic needs.",
@@ -1884,5 +2075,46 @@
     "Sun, rain and cold are things we need protection from. Cloth is what protects us."
    ]
   ]
- }
+ },
+ "more_stories": [
+  {
+   "title": "The Shawl Has No Fire",
+   "mins": 7,
+   "read_aloud": true,
+   "note": "",
+   "text": [
+    "My name is Dolma. I am nine, and I live with my family on the Changthang, a high, cold plain in Ladakh. We are Changpa. We move with our goats, sheep and yaks from one grassland to the next. In winter we live in a rebo, a tent woven from yak hair. It is black, and it smells of smoke and animals, and on windy nights it shakes and creaks all around us.",
+    "Up here, the air is thin. When a visitor came from Chennai last summer, he had to sit down after walking up a small slope. \"There's no air here,\" he gasped. There is air. There is just less of it in every breath. My little brother laughed at him, and Ama told him off, and then she gave the man butter tea and let him rest in our tent.",
+    "This story happened at the end of winter, when the nights are still far below freezing. That evening the wind was blowing snow sideways. Our goats were crowded together in their stone pen beside the tent. I was nearly asleep when I heard Karmo, our oldest goat, crying in a strange high voice.",
+    "Ama took the lamp and went out, and I followed her in my robe. Karmo had given birth, too early, in the snow. The kid lay on the ground in a small, wet heap. Its eyes were shut. When I touched it, it felt as cold as a stone in the stream.",
+    "\"Is it dead?\" I asked.",
+    "Ama put her hand on its side. \"It's breathing. Only just.\"",
+    "I ran back into the tent. I knew exactly what to do. From the bottom of my bag I pulled out my pashmina shawl. It was made from the soft winter wool of our own goats, combed out of their coats one spring and woven far away in Kashmir. Ama gave it to me at Losar, our new year. It is the lightest thing I own, and the warmest. When I wrap it round me, I feel warm straight away.",
+    "I carried the kid inside and rubbed it dry with an old cloth, the way Ama showed me. Then I wrapped it in my shawl, round and round, until only its little grey nose stuck out. I laid it in the corner on a sack, away from the stove, because Ama says animals and fire don't mix. Then I lay down, feeling proud. The warmest thing I owned was keeping it alive.",
+    "I woke up in the dark. The stove had burned low. I crawled over to the corner and put my hand inside the shawl.",
+    "The kid was shivering. Its body felt no warmer than before. And the shawl, my warm shawl, felt as cold as the sack it lay on.",
+    "I was so angry that I nearly cried. \"Why aren't you warm?\" I whispered at the shawl, as if it could answer.",
+    "Ama had woken. She came and knelt beside me and felt the kid, and then she felt the shawl. \"The shawl has no fire in it, Dolma,\" she said quietly.",
+    "\"But it keeps me warm. Every day it keeps me warm.\"",
+    "\"Does it?\" she said. And she said nothing more. She just looked at me in the lamplight, the way she does when she wants me to find something out for myself.",
+    "I thought about it. When I wear the shawl, I am inside it. My hands were warm from sleeping under the blankets. My chest was warm. Where did that come from? Not from the shawl. The shawl was lying here, cold, in a cold corner.",
+    "I opened my robe. I took the kid out of the shawl and held it against my bare chest. It was so cold that I gasped. Its tiny legs poked my ribs. Then I wrapped the shawl round both of us, tight, and pulled the blanket over the top.",
+    "Ama blew on the stove until it glowed, and made me a cup of hot butter tea and a ball of tsampa, the roasted barley flour we eat every day. \"Eat,\" she said. \"You'll need it.\"",
+    "So I sat in the dark and ate and drank, and held the kid. I could feel my own heart beating against its side. For a long time nothing happened. Then the shivering became smaller. Then it stopped. Its ears, which had been like ice, grew soft and warm. Just before the sky turned grey, it lifted its head and gave a tiny, cross bleat, as if I had woken it up.",
+    "In the morning, Ama carried it out to Karmo, who had been calling all night. Karmo licked it all over, and the kid pushed its nose under her and found her milk. It drank and drank, its tail flicking.",
+    "We called the kid Nyima, which means sun.",
+    "A year later, when the snow began to melt, the goats started rubbing themselves against the rocks. Their winter undercoat was coming loose. I took the comb and sat down beside Nyima, who was big now and would not keep still. I combed and combed, and the soft wool came away in clouds.",
+    "I held up a handful in the wind. It was so light that I had to close my fist to keep it."
+   ],
+   "epiphany": "For the parent: the turn comes when Dolma finds her warm shawl lying cold in the corner, with the kid still shivering inside it. A shawl makes no heat. It only keeps in heat that is already there. Dolma's own body makes that heat, from the food she eats and the air she breathes, which is why Ama gives her tea and tsampa. The pashmina is light because it is mostly trapped air, and the goats grew it first for their own winter. Let your child find this out from the ice cube test on Day 6 before you name it.",
+   "ask": [
+    "Why was the baby goat still cold inside the warm shawl?",
+    "Where did the warmth come from in the end?",
+    "Why do you think Ama gave Dolma tea and tsampa in the middle of the night?",
+    "Why do the goats grow soft wool in winter and lose it in spring?",
+    "How many of the five basic needs can you find in the story?"
+   ],
+   "art": []
+  }
+ ]
 }

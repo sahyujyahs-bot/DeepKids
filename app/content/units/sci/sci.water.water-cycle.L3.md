@@ -1,9 +1,9 @@
 # The water cycle: where rain comes from and where it goes
 `sci.water.water-cycle.L3`
 
-**Summary.** Rain is fresh water, yet the sea is salty. Where does the rain come from? In this unit you will make fresh water from salty water with sunshine, make a cloud in a jar, and race different ways of drying water to see what makes it evaporate faster.
+**Summary.** Rain is fresh water, yet the sea is salty. Where does the rain come from? In this lesson you will make fresh water from salty water with sunshine, make a cloud in a jar, and race different ways of drying water to see what makes it evaporate faster.
 
-**Intro.** *Wet your hand and press it flat on a dry floor tile in the sunshine. Watch your handprint. Count slowly. Where is the water going? It did not soak into the tile.* In a minute or two, your handprint vanishes. The water has not been destroyed. It has gone into the air, as an invisible gas. It might come back down as rain next week, a hundred kilometres away. Every drop of rain you have ever seen went up first. This unit follows water on its round journey: up from the sea, into the clouds, down as rain, along rivers and back to the sea. You will make a real cloud in a jar, and get fresh water out of salty water using only sunshine.
+**Intro.** *Wet your hand and press it flat on a dry floor tile in the sunshine. Watch your handprint. Count slowly. Where is the water going? It did not soak into the tile.* In a minute or two, your handprint vanishes. The water has not been destroyed. It has gone into the air, as an invisible gas. It might come back down as rain next week, a hundred kilometres away. Every drop of rain you have ever seen went up first. This lesson follows water on its round journey: up from the sea, into the clouds, down as rain, along rivers and back to the sea. You will make a real cloud in a jar, and get fresh water out of salty water using only sunshine.
 
 ## Learning outcomes
 0. I can say what the water cycle is: water goes from the sea and the land up into the air, forms clouds, falls as rain, and flows back to the sea.
@@ -686,7 +686,7 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
   *Parent does:* Read out these two ideas. Villages in dry hills hang big nets to catch fog. Desert beetles catch fog drops on their backs and drink them. Then compare them with your design.  
   *Parent says:* Villages and beetles have solved this problem before you.  
   *Child mode:* Which of these two ideas would you copy for a real village?
-  - Think: A fog net works because tiny drops bump into the threads and join into bigger drops. Where else in this unit did tiny drops join into bigger ones?
+  - Think: A fog net works because tiny drops bump into the threads and join into bigger drops. Where else in this lesson did tiny drops join into bigger ones?
 
 ## Worksheets
 ### Water Cycle Detective (core) (core, 16 questions)
@@ -695,13 +695,13 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
 2. (fill) When water vapour cools and turns back into drops, we say it ____.  
    **Answer:** ['condenses', 'condense', 'condensation']. *Why:* Condensation is vapour turning back into liquid drops. It happens on cold things, and high in the sky where clouds form.
 3. (mcq) A wet handprint on a sunny tile disappears. Where did the water go?  
-   Options: Into the tile / It was used up and is gone / Into the air, as invisible water vapour  
+   Options: Into the tile / Into the air, as invisible water vapour / It was used up and is gone  
    **Answer:** Into the air, as invisible water vapour. *Why:* The water evaporated into the air. A glazed tile has almost no holes, so it did not soak in. 'Used up' is the most common first guess, but water is never used up. It only changes form and moves.
 4. (mcq) Someone says: 'A cloud is made of water vapour.' What is wrong with this idea?  
    Options: Nothing. The idea is right. / Water vapour is invisible. We can see a cloud, so a cloud must be tiny drops of water or bits of ice. / Clouds are made of smoke, not water.  
    **Answer:** Water vapour is invisible. We can see a cloud, so a cloud must be tiny drops of water or bits of ice.. *Why:* This is the most common mix-up, even among grown-ups. Vapour is an invisible gas. A cloud is what you see after the vapour has condensed into billions of tiny drops. A strong answer uses the clue 'we can see it'.
 5. (mcq) You fill a steel tumbler with ice and red, salty water. Soon drops form on the outside. Guess first: how will those drops look and taste?  
-   Options: Red and salty, because they leaked through the steel / Clear and not salty, because they came from the air / Red but not salty  
+   Options: Red and salty, because they leaked through the steel / Red but not salty / Clear and not salty, because they came from the air  
    **Answer:** Clear and not salty, because they came from the air. *Why:* The drops are clear and not salty, so they did not come from inside. They came from water vapour in the air, which condensed on the cold steel. Steel has no holes for water to leak through.
 6. (truefalse) Water only evaporates when it boils.  
    **Answer:** False. *Why:* False. Puddles and wet clothes dry on cool days too. Water evaporates at any temperature. Heat only makes it faster.
@@ -715,7 +715,7 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
    Options: A shirt rolled up in a bucket in the shade / A shirt folded on a chair in a closed bathroom / A shirt spread out on a line in the sun and the wind  
    **Answer:** A shirt spread out on a line in the sun and the wind. *Why:* Sun gives energy, wind blows the vapour away, and spreading the shirt out gives more wet surface open to the air. All three speed up evaporation. A rolled or folded shirt has very little surface open to the air.
 11. (mcq) On a cool morning, the seat of a scooter parked outside is wet, but it did not rain. Where did the water come from?  
-   Options: Water vapour in the air condensed on the cold seat in the night / The seat leaked water from inside / Someone must have splashed it  
+   Options: The seat leaked water from inside / Water vapour in the air condensed on the cold seat in the night / Someone must have splashed it  
    **Answer:** Water vapour in the air condensed on the cold seat in the night. *Why:* At night the seat cools down. Vapour in the air touches it and condenses into drops. We call these drops dew. It is the same thing that happens on the cold tumbler.
 12. (truefalse) Plants put water into the air through their leaves.  
    **Answer:** True. *Why:* True. This is called transpiration. A clear bag tied over a leafy branch fills with mist and drops, while an empty bag beside it stays dry.
@@ -729,23 +729,23 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
    **Answer:** A drawing that goes all the way round: the Sun warms the sea, arrows show vapour rising (evaporates), a cloud forms high up (condenses), rain falls on hills, and a river carries the water back to the sea.. *Why:* A strong drawing ends where it started, because the same water keeps going round.
 ### Water Cycle in Real Life (stretch) (stretch, 15 questions)
 1. (mcq) Look at the chart from the Evaporation Race. Which place made the water evaporate fastest?  
-   Options: The glass in the shade / The shade / The fan in the shade / The sun  
+   Options: The glass in the shade / The sun / The shade / The fan in the shade  
    **Answer:** The sun. *Why:* The sun's bar is the shortest, at 40 minutes. On this chart a short bar means the water was gone quickly. Picking the glass usually means reading the tallest bar as the winner. Here, the tallest bar took the longest.
 2. (mcq) In the Evaporation Race, a plate and a narrow glass in the shade each had 2 teaspoons of water. Why did the glass take much longer to dry?  
-   Options: Glass is colder than steel / Less of the water was at the top, open to the air / The glass had more water in it  
+   Options: Glass is colder than steel / The glass had more water in it / Less of the water was at the top, open to the air  
    **Answer:** Less of the water was at the top, open to the air. *Why:* Water evaporates from its top surface. A wide plate spreads the water out, so much more of it touches the air. Picking 'more water' misses the fair test: both had exactly 2 teaspoons.
 3. (mcq) Many people call the white puff from a pressure cooker whistle 'steam'. What is the white puff really?  
-   Options: Tiny drops of water, like a little cloud / Invisible water vapour / Smoke from the rice  
+   Options: Invisible water vapour / Smoke from the rice / Tiny drops of water, like a little cloud  
    **Answer:** Tiny drops of water, like a little cloud. *Why:* True steam, water vapour, is invisible. Look closely: there is a clear gap right at the whistle. As the vapour meets cooler air, it condenses into tiny drops, and the drops are the white puff you see.
 4. (mcq) In A Cloud in a Jar, the cloud was much thicker when you added a little smoke from an agarbatti. Why?  
-   Options: Smoke is made of water / The smoke made the jar warmer / The vapour condensed onto the tiny smoke specks  
+   Options: Smoke is made of water / The vapour condensed onto the tiny smoke specks / The smoke made the jar warmer  
    **Answer:** The vapour condensed onto the tiny smoke specks. *Why:* Vapour needs a speck to make a drop. More specks means more drops, and a thicker cloud. Real clouds form on specks of dust, sea salt and smoke. Picking 'smoke is water' mixes up the speck with the drop.
 5. (sort) Sort these. Is water going up into the air, or coming down?  
    **Answer:** a neem tree on a hot day → Water going up; hail in a summer storm → Water coming down; the sea under the hot Sun → Water going up; snow on a Himalayan peak → Water coming down; wet clothes on a terrace → Water going up; monsoon rain on the Western Ghats → Water coming down. *Why:* Trees, the sea and wet clothes give water vapour to the air. Hail, snow and rain bring water back down.
 6. (truefalse) Raindrops are shaped like teardrops.  
    **Answer:** False. *Why:* False, though most pictures draw them that way. Small raindrops are round. Bigger ones are flattened at the bottom, like a burger bun. The teardrop shape is only a drop hanging from a tap.
 7. (mcq) In Leaves in a Bag, why did we tie an empty bag next to the bag over the leaves?  
-   Options: To catch more water / To check that the water came from the leaves, not from the air / In case one bag broke  
+   Options: To check that the water came from the leaves, not from the air / To catch more water / In case one bag broke  
    **Answer:** To check that the water came from the leaves, not from the air. *Why:* The empty bag is the control. It stayed dry, so the water in the other bag must have come from the leaves. Without it, you could not be sure.
 8. (match) Match each place to about how long water usually stays there.  
    **Answer:** The air → about 9 days; A river → weeks to months; The deep sea → about 3,000 years; Antarctic ice → up to hundreds of thousands of years. *Why:* Water rushes through the air but waits a very long time in the deep sea and in ice.
@@ -773,25 +773,25 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
 3. (fill) A raindrop is about 100 times wider than a cloud drop. So one raindrop holds as much water as 100 × 100 × 100 = ____ cloud drops.  
    **Answer:** ['1,000,000', '1000000', 'a million', 'one million', 'million']. *Why:* 100 × 100 = 10,000, and 10,000 × 100 = 1,000,000. Most people guess 100, because they only count the width. But a drop is wider, taller and deeper, so you multiply three times.
 4. (mcq) Long ago, many people believed rivers were fed by sea water flowing under the mountains. In the 1670s, Pierre Perrault measured the rain around the river Seine in France. The rain was about six times what the river carried. What did his numbers show?  
-   Options: Rivers really are fed by the sea underground / Rain is more than enough to feed the river / Most rain falls into the sea  
+   Options: Rivers really are fed by the sea underground / Most rain falls into the sea / Rain is more than enough to feed the river  
    **Answer:** Rain is more than enough to feed the river. *Why:* If the rain is six times what the river carries, the river needs no secret sea water. The rest of the rain soaks in, evaporates or is used by plants. Perrault's numbers overturned a belief that was about two thousand years old.
 5. (perspective) Scientists still argue about what big forests do to rain.  
    **Answer:** A strong answer picks a side and gives a reason, for example: trees really do put water into the air, as Leaves in a Bag showed. It answers back fairly, for example: one valley is not proof, because the rain might have changed for another reason. It suggests a fair way to test, such as comparing rain over many years in places that differ only in having a forest.. *Why:* This is a real argument among scientists. Everyone agrees that trees give off water. They disagree about how much forests change where the rain falls.
 6. (truefalse) Most of the rain that falls on land flows straight back to the sea in rivers.  
    **Answer:** False. *Why:* False. More than half of the rain that falls on land goes back up into the air, from soil, puddles and plants. Only about a third flows back to the sea in rivers. The rest soaks deep into the ground.
 7. (mcq) Warm air can hold more water vapour than cool air. What does this mean for heavy rain as the world gets warmer?  
-   Options: It will stop raining / Nothing changes / Downpours can get heavier  
+   Options: Downpours can get heavier / It will stop raining / Nothing changes  
    **Answer:** Downpours can get heavier. *Why:* More vapour in the air means more water to fall when it rains. Studies of central India since 1950 found that days of very heavy rain had become about three times more common. 'It will stop raining' gets it backwards.
 8. (mcq) A drop of water stays in the air for about 9 days, but in the deep sea for about 3,000 years. Why is there such a big difference?  
-   Options: Sea water is heavier / The air holds very little water and rains it out fast. The sea holds a huge amount and loses it slowly. / The Sun does not shine on the deep sea  
+   Options: Sea water is heavier / The Sun does not shine on the deep sea / The air holds very little water and rains it out fast. The sea holds a huge amount and loses it slowly.  
    **Answer:** The air holds very little water and rains it out fast. The sea holds a huge amount and loses it slowly.. *Why:* How long a drop stays depends on how much water a place holds and how fast water leaves it. The air holds very little and lets it go quickly. The sea holds a lot, and loses water only from its top.
 9. (sort) Sort these statements about the water cycle. Do scientists agree, or are they still arguing?  
    **Answer:** clouds are made of tiny drops, not vapour → Settled: scientists agree; how drops grow into rain so fast in warm clouds → Still argued about; rain is fresh because salt does not evaporate → Settled: scientists agree; whether forests pull rain in from the sea → Still argued about; how much bacteria in clouds help make snow → Still argued about; the Sun's energy drives evaporation → Settled: scientists agree. *Why:* Some things in science are settled, and some are still being worked out. Knowing which is which is part of thinking like a scientist.
 10. (mcq) Rain often falls out of warm monsoon clouds faster than scientists' older ideas can explain. What is one new idea being studied?  
-   Options: The drops are pulled down by the Moon / Lightning glues the drops together / Swirling, bumpy air inside the cloud throws drops together more often  
+   Options: Swirling, bumpy air inside the cloud throws drops together more often / The drops are pulled down by the Moon / Lightning glues the drops together  
    **Answer:** Swirling, bumpy air inside the cloud throws drops together more often. *Why:* Scientists think turbulence, swirling air inside clouds, may make tiny drops bump and join much faster. They are still testing this. The Moon pulls on the sea to make tides, but it does not pull drops out of clouds.
 11. (mcq) Most pictures of the water cycle show only the sea, clouds, rain and rivers. In 2019, scientists said a big piece was missing. What was it?  
-   Options: The Moon / People: dams, borewells, farms and cities / Fish  
+   Options: The Moon / Fish / People: dams, borewells, farms and cities  
    **Answer:** People: dams, borewells, farms and cities. *Why:* People now move huge amounts of water with dams, pumps and pipes, but most pictures leave us out. Fish are part of the cycle too, but they move very little water compared with people.
 12. (write) Heraclitus, a thinker in ancient Greece, said that new water is always flowing past anyone who steps into a river. Is the Kaveri the same river from one day to the next? Give a reason for each side.  
    **Answer:** A balanced answer. For example: yes, because its banks, its name and its path stay the same. No, because almost all of its water is different water from yesterday. That water is now further down the river, in the sea or in the air.. *Why:* There is no single right answer. A strong answer gives a reason for each side and uses what the child knows about water moving.
@@ -809,37 +809,37 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
 
 ## Quiz
 1. (mcq) Is the rain falling today new water?  
-   Options: Yes, clouds make new water every day / No. It is old water that has gone round the water cycle many times. / Yes, the Sun makes new water  
+   Options: No. It is old water that has gone round the water cycle many times. / Yes, clouds make new water every day / Yes, the Sun makes new water  
    **Answer:** No. It is old water that has gone round the water cycle many times.. *Why:* Almost no new water is made. The same water keeps rising, falling and flowing back. The rain today may once have been in the sea, a river, a tree or a dinosaur's drink.
 2. (mcq) On a sticky, humid day in Chennai, wet clothes on the line take all day to dry, even in the sun. Why?  
-   Options: The air already holds a lot of water vapour, so water evaporates into it slowly / The Sun gives no heat on humid days / The clothes soak up water from the air as fast as they dry  
+   Options: The Sun gives no heat on humid days / The clothes soak up water from the air as fast as they dry / The air already holds a lot of water vapour, so water evaporates into it slowly  
    **Answer:** The air already holds a lot of water vapour, so water evaporates into it slowly. *Why:* Humid air has a lot of water vapour in it already, so it takes up more vapour slowly. Dry air takes up vapour fast. Sun, wind and a wide surface help, but humid air slows everything down.
 3. (mcq) Steam from a pot of boiling water touches a cold steel lid. What happens?  
-   Options: The steam condenses into drops of water / The steam turns into salt / The steam is destroyed  
+   Options: The steam turns into salt / The steam is destroyed / The steam condenses into drops of water  
    **Answer:** The steam condenses into drops of water. *Why:* The cold lid cools the vapour, and it condenses into drops. That is why the inside of a lid is wet when you lift it.
 4. (mcq) A cloud drop needs something tiny to form on. What is it?  
    Options: A raindrop / A speck of dust, sea salt or smoke / A spark of lightning  
    **Answer:** A speck of dust, sea salt or smoke. *Why:* Vapour condenses onto tiny specks floating in the air. Each speck becomes the centre of one cloud drop.
 5. (mcq) How does a tiny cloud drop become a raindrop heavy enough to fall?  
-   Options: The wind squeezes it / Many drops bump and join, and in cold clouds ice crystals grow and melt as they fall / It soaks up dust until it is heavy  
+   Options: Many drops bump and join, and in cold clouds ice crystals grow and melt as they fall / The wind squeezes it / It soaks up dust until it is heavy  
    **Answer:** Many drops bump and join, and in cold clouds ice crystals grow and melt as they fall. *Why:* About a million cloud drops' worth of water makes one raindrop. In warm clouds the drops join. In cold clouds, ice crystals grow, fall and often melt into rain.
 6. (mcq) Sea water is boiled in a pot with a lid. Drops collect under the lid. How will those drops taste?  
-   Options: Saltier than the sea / Just as salty as the sea / Not salty  
+   Options: Not salty / Saltier than the sea / Just as salty as the sea  
    **Answer:** Not salty. *Why:* Only the water evaporates. The salt stays in the pot. So the drops that condense on the lid are fresh.
 7. (mcq) You test where water dries fastest. You put one plate in the sun, one under a fan and one in the shade. What must you keep the same to make it a fair test?  
-   Options: The amount of water on each plate / The place of each plate / Nothing  
+   Options: The place of each plate / The amount of water on each plate / Nothing  
    **Answer:** The amount of water on each plate. *Why:* Every plate must start with the same amount of water. The place is the one thing you change on purpose, so that any difference comes from the place.
 8. (mcq) What is transpiration?  
    Options: Rain falling from clouds / Plants giving off water vapour from their leaves / Water flowing in a river  
    **Answer:** Plants giving off water vapour from their leaves. *Why:* Plants pull water up from their roots and give it off through tiny holes in their leaves. A bag tied over a leafy branch fills with mist.
 9. (mcq) In most of India, the big rains come from June to September. A farmer wants rain to water her young rice plants. When should she plant them?  
-   Options: Just before June / In January / In November  
+   Options: In January / Just before June / In November  
    **Answer:** Just before June. *Why:* The monsoon usually reaches Kerala around the first of June and covers India by July. Planting just before it means the young plants get water while they grow. In January and November the monsoon is not here.
 10. (mcq) Wet wind from the sea blows up a high hill. Which side of the hill gets more rain?  
-   Options: The side facing the sea / The far side / Both sides get the same  
+   Options: The far side / Both sides get the same / The side facing the sea  
    **Answer:** The side facing the sea. *Why:* The wet air cools as it is pushed up, so its vapour condenses and rains on the sea side. The far side gets little rain. It is called the rain shadow.
 11. (mcq) Where does the energy that lifts water into the sky come from?  
-   Options: The Moon / The wind alone / The Sun  
+   Options: The Sun / The Moon / The wind alone  
    **Answer:** The Sun. *Why:* The Sun warms water so its molecules break free and rise. That energy comes out again as heat when the vapour condenses in clouds. Wind helps carry vapour, but the energy to evaporate it comes from the Sun.
 12. (mcq) Which of these do scientists still not fully understand?  
    Options: Why rain is fresh / How cloud drops grow into rain so fast in warm clouds / What clouds are made of  
@@ -869,9 +869,9 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
 - Drops on the inside of the lid of a pot of rice or sambar.
 - The water pipe from an AC unit, dripping on a hot afternoon. That water came out of the room's air.
 - Dew on car windscreens and scooter seats on a winter morning.
-- Thick winter fog over Delhi and the fields of Punjab, when trains and flights run late.
-- Clouds sitting on the hills of the Western Ghats in the monsoon, at places like Lonavala and Mahabaleshwar.
-- Salt pans beside the road near the sea in Gujarat, or near Thoothukudi in Tamil Nadu, with white heaps of salt.
+- Thick winter fog over the city and the fields, when trains and flights run late.
+- Clouds sitting on the hills in the monsoon.
+- Salt pans beside the road near the sea, with white heaps of salt.
 - Clothes drying on terraces, fastest on windy, sunny days.
 - Mist rising off a pond or river on a cold morning.
 - The earthy smell of the first monsoon rain. Scientists call it petrichor.
@@ -931,11 +931,11 @@ Where the Water Goes (sci.water.L3): Topic-level song for Water L3
 - [PhET States of Matter: Basics](https://phet.colorado.edu/en/simulations/states-of-matter-basics) · simulation: A free online simulation. Heat and cool water molecules, and watch them jiggle, spread out as a gas, and come back together as a liquid.
 - [Exploratorium Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a famous science museum. Search for clouds and evaporation.
 - [Indian Institute of Tropical Meteorology](https://www.tropmet.res.in) · place · Pune: India's main monsoon research institute. Its scientists study monsoon clouds and have tested cloud seeding.
-- [Mawsynram and Sohra (Cherrapunji)]() · place · East Khasi Hills, Meghalaya: Two of the wettest places on Earth. Visit in the monsoon to see the water cycle at full power, with waterfalls everywhere.
-- [The salt pans of the Little Rann of Kutch]() · place · Kutch, Gujarat: Salt workers called Agariyas make salt by letting brine evaporate in the sun, as in this unit's story. Visit in winter, when salt is made.
+- Mawsynram and Sohra (Cherrapunji) · place · East Khasi Hills, Meghalaya: Two of the wettest places on Earth. Visit in the monsoon to see the water cycle at full power, with waterfalls everywhere.
+- The salt pans of the Little Rann of Kutch · place · Kutch, Gujarat: Salt workers called Agariyas make salt by letting brine evaporate in the sun, as in this lesson's story. Visit in winter, when salt is made.
 - [Nehru Planetarium](https://nehruplanetarium.org/) · place · New Delhi: Shows about the Earth, the Sun and other worlds, including moons like Titan.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A big science museum with hands-on exhibits about heat, energy and weather.
-- [A terrace, a park or a window with a view of the sky]() · place · anywhere: Everything you need for Cloud Watch and the Morning Dew Walk is right outside.
+- A terrace, a park or a window with a view of the sky · place · anywhere: Everything you need for Cloud Watch and the Morning Dew Walk is right outside.
 
 ## Things to buy
 - [Cling film](https://www.amazon.in/s?k=cling+film+food+wrap) (material): Covers the bowl in Sea in a Bowl and the bowls in Beat the Sun. Used in e1, c1. Most kitchens already have it.
@@ -946,6 +946,11 @@ Where the Water Goes (sci.water.L3): Topic-level song for Water L3
 - [The Cloud Book, by Tomie dePaola](https://www.amazon.in/s?k=The+Cloud+Book+Tomie+dePaola) (book): A picture book about the main kinds of clouds, what they tell us about the weather, and old sayings about clouds to test. Used in a3. If bought, read it before Cloud Watch, and use its pictures to name the clouds you see.
 - [A Drop Around the World, by Barbara Shaw McKinney](https://www.amazon.in/s?k=A+Drop+Around+the+World+Barbara+Shaw+McKinney) (book): Follows one drop of water through clouds, rivers, plants and animals around the world. Used in g1. If bought, read it after the first game of Round the World Drop, and compare the book's drop with your bracelet.
 - [A Drop of Water, by Walter Wick](https://www.amazon.in/s?k=A+Drop+of+Water+Walter+Wick) (book): Close-up photographs of drops, frost, dew and steam that make evaporation and condensation visible. For older children and parents. Used in e4, a2. If bought, look at its dew and frost pages after the Cold Tumbler and the Dew Walk.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in The Vanishing Handprint. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in a1. Get it before The Vanishing Handprint.
+- [Food colour](https://www.amazon.in/s?k=food+colour+liquid) (material): Used in The Cold Tumbler: where do the drops come from?. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it. Used in e4. Get it before The Cold Tumbler: where do the drops come from?.
+- [Sticky notes](https://www.amazon.in/s?k=sticky+notes+pack) (material): Used in Make a Monsoon: the kettle and the mountain. About ₹20 to ₹60. Small torn paper and tape do the same job. Used in a5. Get it before Make a Monsoon: the kettle and the mountain.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in The Cold Tumbler: where do the drops come from?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e4. Get it before The Cold Tumbler: where do the drops come from?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - When water goes up into the air as an invisible gas, it ____. → Evaporates.
@@ -972,7 +977,7 @@ Where the Water Goes (sci.water.L3): Topic-level song for Water L3
 - Founder's sheets, HomeSchooling Track, STEM Activities websites: Exploratorium, used in links.
 - DeepKids Combined Class 5 Water (combined, sci-C5-water.json): the sweating steel glass, the salt pans, the water cycle that has no start or end, clouds as drops on specks of dust, transpiration, the voices of Palissy, Perrault and Halley, and 'Water's Many Lives' card game. Improved here into e4, e1, the explanations, the challenging views and the bead game. Its story was not reused.
 - DeepKids Combined Class 3 Water (combined, sci-C3-water.json): the sun-and-shade drying plates, improved here into the Evaporation Race. Its rain gauge and Drop's Journey game are already in the sibling unit on water sources, so they were not repeated.
-- Sibling unit sci.water.water-sources-and-uses.L3 was read so this unit does not repeat it: groundwater, wells, storage, the matka and clean water stay there. Its deep truth ('no water is new') is not repeated; this unit's deep truth is about water that is in the air though we cannot see it.
+- Sibling unit sci.water.water-sources-and-uses.L3 was read so this lesson does not repeat it: groundwater, wells, storage, the matka and clean water stay there. Its deep truth ('no water is new') is not repeated; this lesson's deep truth is about water that is in the air though we cannot see it.
 - Aitken, J. On dust, fogs, and clouds. Transactions of the Royal Society of Edinburgh, 1880 (cloud drops need specks)
 - Perrault, P. De l'origine des fontaines, 1674; Halley, E. on evaporation from the sea, Philosophical Transactions, 1687
 - Halley, E. An historical account of the trade winds, and monsoons. Philosophical Transactions, 1686

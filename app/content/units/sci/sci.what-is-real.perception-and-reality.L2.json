@@ -80,6 +80,24 @@
    "meaning": "To vibrate means to shake back and forth very fast. Every sound starts with something vibrating.",
    "example": "When a spoon taps a tumbler, the tumbler vibrates, and you hear a clink.",
    "art": "A steel tumbler being tapped by a spoon, with small shake lines round the rim."
+  },
+  {
+   "term": "Illusion",
+   "meaning": "An illusion is when the brain's guess about what it sees or feels is wrong. Your eyes work properly, but the brain fills in the picture in a way that does not match what is really there.",
+   "example": "Two lines of the same length can look different when one has arrow tips pointing in and the other has arrow tips pointing out.",
+   "art": "Two lines of the same length, one with arrows pointing in and one with arrows pointing out."
+  },
+  {
+   "term": "Camouflage",
+   "meaning": "Camouflage is when a living thing looks like her background so she is not seen. It helps hunters hide from prey and prey hide from hunters.",
+   "example": "A chameleon on a green leaf turns green and almost disappears from the eyes of a hungry bird.",
+   "art": "A green chameleon on a green leaf that is hard to spot."
+  },
+  {
+   "term": "Mimicry",
+   "meaning": "Mimicry is when a living thing looks like another animal or thing, often a dangerous one, so that others stay away. The mimic is often harmless.",
+   "example": "Some harmless flies have yellow and black stripes like a wasp, so birds leave them alone.",
+   "art": "A wasp and a harmless fly with similar yellow and black stripes side by side."
   }
  ],
  "explanations": [
@@ -106,7 +124,8 @@
    "examples": [
     "Clothes on the balcony line flap, so wind is blowing.",
     "The road is wet in the morning, so it rained in the night.",
-    "A bubble comes out of an 'empty' bottle under water, so air was inside."
+    "A bubble comes out of an 'empty' bottle under water, so air was inside.",
+    "A stick insect on a twig is really there, but a hungry bird cannot find her, because her body looks like the twig. The bird only learns she is there when she moves."
    ],
    "perspectives": [],
    "art": "A balcony with clothes flapping on a line and a curved arrow showing the unseen wind."
@@ -520,11 +539,11 @@
       "t": "mcq",
       "q": "When the phone played the clinking tumbler, what reached your ears?",
       "options": [
-       "A real sound, made by the phone's speaker vibrating",
        "Nothing at all, because it was pretend",
-       "The sound of a tumbler that was really clinking"
+       "The sound of a tumbler that was really clinking",
+       "A real sound, made by the phone's speaker vibrating"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The phone's speaker vibrated and shook the air, so a real sound reached you. Picking 'nothing at all' mixes up a real sound with a pretend tumbler. Picking 'a tumbler that was really clinking' means trusting your guess about what made the sound. Only opening the door could check that guess."
      }
     }
@@ -704,11 +723,11 @@
       "t": "mcq",
       "q": "Why is it best to write a dream down as soon as you wake up?",
       "options": [
-       "Dreams fade fast after waking",
        "Writing makes a dream come true",
+       "Dreams fade fast after waking",
        "She was not allowed to sleep again"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A dream fades within minutes of waking, especially once you start talking about the day. That is why you told yours before getting up. The other answers are not about remembering."
      }
     }
@@ -971,6 +990,103 @@
      "parent": "This is what people report about their own dreams, not a proven rule. Some people learn to notice their dreams this way. Scientists call that a lucid dream."
     }
    ]
+  },
+  {
+   "id": "old1",
+   "title": "Camouflage Hunt: which paper bits hide best?",
+   "mins": 15,
+   "days": 1,
+   "context": "In this activity your child is a hungry bird hunting bits of paper that are caterpillars. You count which kind is found first. You will see how camouflage, being hard to see against your background, protects living beings.",
+   "problem": "A caterpillar the same colour as a leaf is hard for a bird to see. In this activity, newspaper bits hide on a newspaper floor, and coloured bits do not. Your child is the bird, and you count what gets found.",
+   "materials": [
+    {
+     "item": "3 sheets of newspaper",
+     "qty": 1
+    },
+    {
+     "item": "a sheet of coloured paper, red, yellow or blue",
+     "qty": 1
+    },
+    {
+     "item": "a timer or a phone",
+     "qty": 1
+    },
+    {
+     "item": "a pencil and paper for a tally",
+     "qty": 1
+    }
+   ],
+   "record": "Make a tally. One row for newspaper bits found and one for coloured bits found, for each round.",
+   "setup": [
+    {
+     "art": "Two hands tearing small fingernail-sized bits from newspaper and coloured paper into two piles.",
+     "caption": "1. Tear 15 small bits from the newspaper and 15 from the coloured paper."
+    },
+    {
+     "art": "Two sheets of newspaper spread on a floor with 30 small bits of newspaper and coloured paper scattered on them.",
+     "caption": "2. Spread newspaper on the floor and scatter all 30 bits."
+    },
+    {
+     "art": "A child crouching over the newspaper, picking up one coloured bit with a finger, a phone timer beside.",
+     "caption": "3. Your child hunts for 30 seconds, as a bird."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Tear 15 small bits, each about the size of a fingernail, from one sheet of newspaper. 2. Tear 15 bits of the same size from the coloured paper.",
+     "say": "These are caterpillars. 15 are newspaper-coloured and 15 are bright.",
+     "kid": "Tear 15 small bits from the newspaper and 15 from the coloured paper. Keep them the same size."
+    },
+    {
+     "id": "s2",
+     "mins": 2,
+     "do": "1. Spread the other two sheets of newspaper flat on the floor. 2. Your child looks away. 3. Scatter all 30 bits over the newspaper.",
+     "say": "Close your eyes. I am hiding the caterpillars.",
+     "kid": "Look away while the bits are scattered."
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "1. Start the timer for 30 seconds. 2. Your child, the hungry bird, picks up bits one at a time. 3. When the time is up, count and write how many of each kind they picked up.",
+     "say": "You are a hungry bird. You have 30 seconds. Catch as many caterpillars as you can.",
+     "kid": "You are a bird. Pick up as many bits as you can in 30 seconds, one at a time.",
+     "ask": [
+      {
+       "q": "Which kind was easier to find?",
+       "good": [
+        "The coloured ones.",
+        "The newspaper ones were hard to see."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s4",
+     "mins": 3,
+     "do": "1. Do another round for 30 seconds without putting the picked bits back. 2. Count again. 3. Look together for the bits that are still hiding.",
+     "say": "Which ones are still hiding? Why can we not see them?",
+     "kid": "Hunt for 30 more seconds. Count again. Which ones are still hiding?",
+     "parent": "If your child finds nearly every bit, shorten the hunt to 15 seconds. If they find almost none, use a brighter paper."
+    },
+    {
+     "id": "s5",
+     "mins": 2,
+     "do": "Look at the tally together. Ask your child to say what it shows.",
+     "say": "Camouflage means looking like your background. Some caterpillars look like leaves, so birds miss them. If you were a caterpillar, what would you look like?",
+     "kid": "Look at your tally. Which bits hid best? Why do you think so?",
+     "ask": [
+      {
+       "q": "What does the tally tell us about camouflage?",
+       "good": [
+        "Bits that look like the background are found last.",
+        "Bright bits get eaten first, so dull ones survive."
+       ]
+      }
+     ]
+    }
+   ]
   }
  ],
  "games": [
@@ -1105,11 +1221,11 @@
       "t": "mcq",
       "q": "You hear a whistle through the wall. What is the best way to check that it was a pressure cooker?",
       "options": [
-       "Ask the neighbour, or listen for it again at meal time",
        "Decide it was a cooker and stop thinking",
+       "Ask the neighbour, or listen for it again at meal time",
        "Look at the wall very hard"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Asking someone else, or hearing it again at the same kind of time, checks the clue another way. Looking at the wall cannot show a sound."
      }
     }
@@ -1419,11 +1535,11 @@
      "t": "mcq",
      "p": "You hear a clink-clink from behind a closed door. What does the sound tell you for sure?",
      "opts": [
-      "Something behind the door vibrated",
       "A steel tumbler is behind the door",
+      "Something behind the door vibrated",
       "Nothing, because you cannot see it"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Every sound comes from something vibrating, so you know something made it. It might be a tumbler, or a phone recording of one. Only opening the door can tell you which.",
      "context": "This question is about the door test. A grown-up made sounds behind a closed door, sometimes for real and sometimes from a phone recording, and you guessed which.",
      "how": "e1"
@@ -1517,11 +1633,11 @@
      "t": "mcq",
      "p": "While you are in a dream, how does the dream usually feel?",
      "opts": [
-      "Real",
       "Like a film you know is pretend",
-      "Like nothing at all"
+      "Like nothing at all",
+      "Real"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Most of the time, a dream feels real until you wake. A dream feels like 'a film you know is pretend' only in a lucid dream, when you know you are dreaming. That is rare."
     },
     {
@@ -1867,11 +1983,11 @@
    "t": "mcq",
    "p": "A girl dreams her silver anklet is under the sofa. When she wakes and looks, it is not there. What does this show?",
    "opts": [
-    "A dream can feel real but not match the room",
     "Someone took the anklet in the night",
-    "Her eyes stopped working"
+    "Her eyes stopped working",
+    "A dream can feel real but not match the room"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The dream felt real, but nothing in the room agreed with it. Picking 'someone took it' means trusting the dream as if it were real.",
    "outcome": 0
   },
@@ -1879,11 +1995,11 @@
    "t": "mcq",
    "p": "When does a dream usually stop feeling real?",
    "opts": [
-    "When we wake up",
     "While we are dreaming it",
+    "When we wake up",
     "Never"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Inside a dream, it nearly always feels real. Only after waking do we see it was a dream.",
    "outcome": 0
   },
@@ -1891,11 +2007,11 @@
    "t": "mcq",
    "p": "A sound comes from behind a closed door. What do you know for sure?",
    "opts": [
-    "Something there vibrated",
     "A person is there",
-    "A tumbler is there"
+    "A tumbler is there",
+    "Something there vibrated"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Every sound starts with something vibrating. What it was is a guess until you check. 'A tumbler' is only a guess, and the sound alone cannot prove it.",
    "outcome": 1
   },
@@ -1916,11 +2032,11 @@
    "t": "mcq",
    "p": "In the door test, a grown-up made each sound behind a closed door, either for real or from a phone. Why were shuffled slips used to choose real or phone?",
    "opts": [
-    "So you could not guess from a pattern",
     "To make the test take longer",
+    "So you could not guess from a pattern",
     "Because the phone needed the slips"
    ],
-   "a": 0,
+   "a": 1,
    "why": "If the order went real, phone, real, phone, you could guess from the pattern instead of your ears. Shuffling keeps the test fair.",
    "outcome": 2,
    "how": "e1"
@@ -1941,11 +2057,11 @@
    "t": "mcq",
    "p": "Which of these shows that wind is real?",
    "opts": [
-    "Clothes flapping on a balcony line",
     "A clear blue sky",
-    "A quiet room"
+    "A quiet room",
+    "Clothes flapping on a balcony line"
    ],
-   "a": 0,
+   "a": 2,
    "why": "We cannot see the wind, but we see what it does to the clothes.",
    "outcome": 3
   },
@@ -1953,11 +2069,11 @@
    "t": "mcq",
    "p": "You are not sure if you are dreaming. Which is the best check?",
    "opts": [
-    "Read a word, look away, and read it again",
     "Close your eyes tightly",
-    "Decide you are awake"
+    "Decide you are awake",
+    "Read a word, look away, and read it again"
    ],
-   "a": 0,
+   "a": 2,
    "why": "In dreams, words and clocks often change when you look again. Awake, they stay the same.",
    "outcome": 4
   },
@@ -1965,11 +2081,11 @@
    "t": "mcq",
    "p": "You hear a jingle in the washing and think it is your lost anklet. What is the best way to check that it is your anklet?",
    "opts": [
-    "Shake the cloth again, ask someone else to listen, and feel for it",
     "Decide it must be the anklet",
-    "Go to sleep and dream about it"
+    "Go to sleep and dream about it",
+    "Shake the cloth again, ask someone else to listen, and feel for it"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Testing it again, with another sense and another person, is how we check what is real.",
    "outcome": 4
   },
@@ -1977,11 +2093,11 @@
    "t": "mcq",
    "p": "Before the door test, you guessed you would get all 8 sounds right. You got 5. What should you write?",
    "opts": [
-    "I guessed 8. I got 5. Some phone sounds fooled me.",
     "I got 8, because I guessed 8.",
-    "Nothing, because my guess was wrong."
+    "Nothing, because my guess was wrong.",
+    "I guessed 8. I got 5. Some phone sounds fooled me."
    ],
-   "a": 0,
+   "a": 2,
    "why": "A good scientist writes the guess and the real result, even when they differ. A wrong guess is how we learn something new.",
    "outcome": 5,
    "how": "e1"
@@ -2159,7 +2275,69 @@
    "why": "A big science centre with a science park full of exhibits on sound and air."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-duck-rabbit",
+   "item": "Duck! Rabbit! by Amy Krouse Rosenthal and Tom Lichtenheld",
+   "kind": "book",
+   "why": "Two voices argue over one picture that is both a duck and a rabbit. It is a funny way into how the brain can see one picture in two ways.",
+   "url": "https://www.amazon.in/s?k=Duck+Rabbit",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Read it together at the start of the lesson on what is real."
+  },
+  {
+   "id": "b-a-small-hand-mirror",
+   "item": "A small hand mirror",
+   "kind": "material",
+   "why": "Used in Real, Pretend or Puzzling? A sorting mat. About ₹20 to ₹80. A shiny steel plate shows reflections too.",
+   "url": "https://www.amazon.in/s?k=small+hand+mirror",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Get it before Real, Pretend or Puzzling? A sorting mat."
+  },
+  {
+   "id": "b-balloons--a-packet",
+   "item": "Balloons (a packet)",
+   "kind": "material",
+   "why": "Used in Real, Pretend or Puzzling? A sorting mat, My Book of Real Things I Cannot See, Prove the Bottle Is Not Empty. About ₹20 to ₹60.",
+   "url": "https://www.amazon.in/s?k=balloons+packet",
+   "used_in": [
+    "a2",
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before Real, Pretend or Puzzling? A sorting mat."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in Prove the Bottle Is Not Empty. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before Prove the Bottle Is Not Empty."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "What starts every sound?",
@@ -2225,7 +2403,8 @@
    "ws-challenge",
    "videos",
    "big_questions",
-   "open_questions"
+   "open_questions",
+   "old1"
   ],
   "core": [
    "a1",

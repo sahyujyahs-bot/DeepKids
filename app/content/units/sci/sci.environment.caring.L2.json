@@ -56,6 +56,18 @@
    "meaning": "To protect means to keep someone or something safe from harm.",
    "example": "Women in Assam protect the nests of big storks in their village trees.",
    "art": "Women standing under a tall tree with big stork nests at the top."
+  },
+  {
+   "term": "Shelter",
+   "meaning": "A shelter is a safe place where a living thing can hide, rest or keep her babies. Different animals use different shelters, such as a nest, a hole or a burrow.",
+   "example": "A sparrow carries twigs into a gap above your window to make a shelter for her chicks.",
+   "art": "A small sparrow with a twig beside a nest tucked above a window."
+  },
+  {
+   "term": "Nature reserve",
+   "meaning": "A nature reserve is a place that people keep safe so that wild plants and animals can live there undisturbed. Hunting and building are not allowed inside it.",
+   "example": "Periyar in Kerala is a nature reserve, where elephants and many other animals live in the forest without people moving in.",
+   "art": "An elephant family walking through forest with a signboard at the edge reading nature reserve."
   }
  ],
  "explanations": [
@@ -68,7 +80,8 @@
    "examples": [
     "A crow needs trees for a nest and clean water to drink.",
     "A neem tree needs soil, sunlight, rain and air.",
-    "You need clean air, clean water and food that grew in soil."
+    "You need clean air, clean water and food that grew in soil.",
+    "A woodlouse or an earthworm needs a damp, dark place, such as the underside of a stone or a rotting log, and in hot dry sun she soon dries out."
    ],
    "perspectives": [],
    "art": "A circle showing a crow, a neem tree, a child, the Sun, a raincloud and soil, with arrows joining them."
@@ -133,7 +146,12 @@
     "Fly kites with cotton string, not nylon string.",
     "Pick up kite string left on the terrace after the festival."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Wangari Maathai (1940–2011), Kenya",
+     "explanation": "Wangari Maathai was a scientist who studied animals' bodies. She saw that women in the Kenyan countryside walked further and further for firewood and water, because the trees had been cut. In 1977 she started the Green Belt Movement, and village women were paid a little for each young tree they grew and planted. Together they planted tens of millions of trees, and in 2004 she became the first African woman to win the Nobel Peace Prize."
+    }
+   ],
    "art": "A family at home: one child snipping a rubber band with scissors, a parent holding a cloth bag, and a water bowl on the balcony with a sparrow drinking."
   },
   {
@@ -145,9 +163,15 @@
    "examples": [
     "The women of Reni village held on to the trees, and the loggers went away.",
     "The Hargila Army guards the nesting trees of a rare stork.",
-    "Thimmakka's banyan trees are now giant trees beside a road."
+    "Thimmakka's banyan trees are now giant trees beside a road.",
+    "In many Indian villages a sacred grove is a patch of forest that the community has left untouched for generations, and a nature reserve or sanctuary is a place set aside so that wild animals can live there safely."
    ],
-   "perspectives": [],
+   "perspectives": [
+    {
+     "who": "Jadav 'Molai' Payeng (born around 1963), Assam, India",
+     "explanation": "In 1979, when he was a teenager, Jadav Payeng found many snakes dead from the heat on a bare sandbank in the Brahmaputra river, where there was no shade. He began to plant bamboo and then trees, and kept planting almost every day for decades. His forest, now called Molai forest, covers hundreds of hectares, and deer, rhinos, tigers and elephants visit it. Almost nobody knew until 2008, when forest officers following a herd of elephants found it, and in 2015 he received the Padma Shri."
+    }
+   ],
    "art": "Women with their arms round a tall tree in a hill village, a stork on a nest in a village tree, and a long road lined with big banyan trees."
   }
  ],
@@ -510,11 +534,11 @@
       "t": "mcq",
       "q": "Which one drifted and looked most like a jellyfish?",
       "options": [
-       "The thin plastic bag",
        "The newspaper",
-       "The handkerchief"
+       "The handkerchief",
+       "The thin plastic bag"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The thin bag puffed open and drifted, like a jellyfish. Scientists have found plastic bags in the stomachs of sea turtles. Many think the turtles mistake the bags for jellyfish, though they are still studying how often this happens."
      }
     }
@@ -695,6 +719,122 @@
      "do": "Count the sticks together. Put the string in a bag in the dry waste.",
      "say": "How many sticks did we fill? What could this string have done to a bird if we had left the string here?",
      "kid": "Count your sticks. Put the string in the dry waste."
+    }
+   ]
+  },
+  {
+   "id": "old1",
+   "title": "Water Bowl and Bug Hotel: two homes for small visitors",
+   "mins": 15,
+   "days": 1,
+   "context": "In this activity you set out a water bowl for birds and bees and build a small hotel for insects from a plastic bottle. You will find out which small creatures visit a place you care for.",
+   "problem": "Small creatures need water to drink and a safe, dry place to hide. In a city flat they often have neither. In this activity you give them both on a balcony, a window ledge or a quiet corner of the building.",
+   "materials": [
+    {
+     "item": "a shallow clay dish, or an old steel plate",
+     "qty": 1
+    },
+    {
+     "item": "a flat stone, about the size of a cricket ball or smaller",
+     "qty": 1
+    },
+    {
+     "item": "a clean plastic bottle, one litre or bigger",
+     "qty": 1
+    },
+    {
+     "item": "dry sticks, each as long as your finger",
+     "qty": 1
+    },
+    {
+     "item": "rolled cardboard, dry leaves and bark",
+     "qty": 1
+    },
+    {
+     "item": "sticky tape",
+     "qty": 1
+    },
+    {
+     "item": "child-safe scissors",
+     "qty": 1
+    },
+    {
+     "item": "a notebook and a pencil",
+     "qty": 1
+    }
+   ],
+   "safety": "A grown-up cuts the bottle and covers the sharp edge with tape. Wash hands after you handle sticks, soil or bark. Never lean over a railing.",
+   "record": "Draw each visitor you see, or write what it was and the day. Check every day for a week.",
+   "setup": [
+    {
+     "art": "A shallow clay dish on a balcony floor in the shade, filled with water, with a flat stone sticking out of the middle.",
+     "caption": "1. Fill the dish 2 to 3 centimetres deep. Put a stone in the middle for small birds and bees to stand on."
+    },
+    {
+     "art": "An adult cutting a plastic bottle in half with scissors, a roll of tape beside it.",
+     "caption": "2. A grown-up cuts the bottle in half and tapes the cut edge."
+    },
+    {
+     "art": "A bottle half lying on its side in a quiet corner, packed tightly with sticks, rolled cardboard, dry leaves and bark.",
+     "caption": "3. Pack the bottle with sticks, cardboard, leaves and bark. Lay it on its side."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Choose a shady, quiet place on a balcony, a window ledge or a corner of the building. 2. Put the dish there. 3. Fill it with water, 2 to 3 centimetres deep. 4. Put the stone in the middle, so the top of the stone is above the water.",
+     "say": "Small birds and bees need to drink. They cannot swim, so they need a stone to stand on.",
+     "kid": "Put the dish in a shady, quiet place. Fill it with water. Put a stone in the middle.",
+     "parent": "If you have no balcony, a window ledge or the corner of a school or building works. Use a lid of a jar if you have no dish."
+    },
+    {
+     "id": "s2",
+     "mins": 2,
+     "adult": true,
+     "do": "A grown-up cuts the bottle in half across the middle and keeps the half with the closed bottom. Cover the cut edge all round with tape, so nobody can be scratched.",
+     "say": "A grown-up must do the cutting. Plastic edges can scratch.",
+     "kid": "Ask a grown-up to cut the bottle and tape the edge. Stay back while they cut."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "Your child packs the half bottle tightly with sticks, rolled cardboard, dry leaves and bark. Push them in firmly so they do not fall out.",
+     "say": "Small creatures like tight, dry spaces. Pack it full, with lots of little holes.",
+     "kid": "Pack the bottle tightly with sticks, cardboard, leaves and bark. Push each thing in firmly.",
+     "ask": [
+      {
+       "q": "Why must the hotel stay dry?",
+       "good": [
+        "Wet leaves go mouldy.",
+        "Small creatures need a dry place to hide."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s4",
+     "mins": 2,
+     "do": "Lay the bottle on its side in a quiet corner, with its open end facing away from the wind and under a cover. Rain should not run into it.",
+     "say": "This is the hotel. The open end is the door. Put it where rain cannot get in.",
+     "kid": "Lay the hotel on its side in a quiet corner. The open end is the door."
+    },
+    {
+     "id": "s5",
+     "mins": 2,
+     "do": "Make a plan for the week. Change the water every day, so mosquitoes cannot lay eggs in it. Check the hotel each day. Draw any visitors in the notebook.",
+     "say": "Why must we change the water every day? Mosquitoes can lay eggs in still water, and the young hatch in a few days.",
+     "kid": "Change the water every day. Check the hotel every day. Draw each visitor.",
+     "ask": [
+      {
+       "q": "Which small visitors do you think will come first, and why?",
+       "good": [
+        "Ants or bees, because the water is easy to find.",
+        "Small insects, because they like to hide in tight spaces."
+       ]
+      }
+     ],
+     "parent": "In summer the dish dries up fast, so refill it. In the rainy season, empty it after a heavy shower and cover the hotel. Visitors may take a few days to arrive, and that is normal."
     }
    ]
   }
@@ -957,11 +1097,11 @@
       "t": "mcq",
       "q": "Why does the rain bring more litter into the lake?",
       "options": [
-       "Rain washes litter from the roads and drains into the lake",
        "Rain makes new plastic",
+       "Rain washes litter from the roads and drains into the lake",
        "Rain turns leaves into litter"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Rain water runs off roads into drains, and drains often empty into lakes and rivers. Litter on the road rides along with the water."
      }
     },
@@ -1066,13 +1206,196 @@
       "t": "mcq",
       "q": "Why do we snip loops before they go in the bin?",
       "options": [
-       "So an animal at the dump cannot get trapped in them",
        "So the bin looks tidy",
+       "So an animal at the dump cannot get trapped in them",
        "So the loops become lighter"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Waste from bins often ends up at open dumps, where cows, dogs and birds search for food. A snipped loop is a strip that cannot close round a foot or a neck."
      }
+    }
+   ]
+  },
+  {
+   "id": "old2",
+   "title": "Our Tiny Nature Reserve: a protected corner for two weeks",
+   "mins": 70,
+   "days": 14,
+   "context": "In this project your family looks after one small corner for two weeks, with plants, water and a bug hotel. You keep a chart of the visitors. You will find out how much life comes to a corner that someone protects.",
+   "materials": [
+    {
+     "item": "a pot or tub with a hole in the bottom, and soil",
+     "qty": 1
+    },
+    {
+     "item": "a tulsi, marigold or ixora seedling",
+     "qty": 1
+    },
+    {
+     "item": "a shallow dish for water",
+     "qty": 1
+    },
+    {
+     "item": "a bug hotel, made by packing a cut plastic bottle with sticks, rolled cardboard and dry leaves",
+     "qty": 1
+    },
+    {
+     "item": "chart paper and a pencil",
+     "qty": 1
+    },
+    {
+     "item": "a piece of card, for the sign",
+     "qty": 1
+    },
+    {
+     "item": "sticky tape",
+     "qty": 1
+    }
+   ],
+   "safety": "A grown-up holds the pots on a high ledge. Never lean over a railing. Wash hands after you touch soil.",
+   "record": "A plan, a sign and a care chart with 14 rows. Each row says Watered? and Who visited?",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Choose a corner of a balcony, window ledge or school, about one square metre. Draw a plan."
+    },
+    {
+     "day": 2,
+     "mins": 10,
+     "what": "Give the reserve a name and one rule. Make a sign."
+    },
+    {
+     "day": 3,
+     "mins": 10,
+     "what": "Plant tulsi, marigold or ixora. Set out the water bowl and the bug hotel."
+    },
+    {
+     "day": 4,
+     "mins": 3,
+     "what": "Water the plants, change the water in the bowl, and tick the care chart. Write who visited."
+    },
+    {
+     "day": 5,
+     "mins": 3,
+     "what": "Water the plants, change the water in the bowl, and tick the care chart. Write who visited."
+    },
+    {
+     "day": 6,
+     "mins": 3,
+     "what": "Water the plants, change the water in the bowl, and tick the care chart. Write who visited."
+    },
+    {
+     "day": 7,
+     "mins": 3,
+     "what": "Water the plants, change the water in the bowl, and tick the care chart. Write who visited."
+    },
+    {
+     "day": 8,
+     "mins": 3,
+     "what": "Water the plants, change the water in the bowl, and tick the care chart. Write who visited."
+    },
+    {
+     "day": 9,
+     "mins": 3,
+     "what": "Water the plants, change the water in the bowl, and tick the care chart. Write who visited."
+    },
+    {
+     "day": 10,
+     "mins": 3,
+     "what": "Water the plants, change the water in the bowl, and tick the care chart. Write who visited."
+    },
+    {
+     "day": 11,
+     "mins": 3,
+     "what": "Water the plants, change the water in the bowl, and tick the care chart. Write who visited."
+    },
+    {
+     "day": 12,
+     "mins": 3,
+     "what": "Water the plants, change the water in the bowl, and tick the care chart. Write who visited."
+    },
+    {
+     "day": 13,
+     "mins": 3,
+     "what": "Water the plants, change the water in the bowl, and tick the care chart. Write who visited."
+    },
+    {
+     "day": 14,
+     "mins": 10,
+     "what": "Show the family and the neighbours who visited. Count the visitors."
+    }
+   ],
+   "setup": [
+    {
+     "art": "A child drawing a plan on chart paper showing a square corner of a balcony with a pot, a water dish, a bug hotel and a sign.",
+     "caption": "1. Draw a plan of your corner."
+    },
+    {
+     "art": "A child writing a sign on card that says the reserve's name and one rule, taped above a pot of tulsi.",
+     "caption": "2. Make a sign with the name and the rule."
+    },
+    {
+     "art": "A balcony corner with a marigold pot, a water dish with a stone and a bottle hotel, and a butterfly on the flowers.",
+     "caption": "3. Plant, set out the water and the hotel, and watch who comes."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 10,
+     "do": "1. Choose a corner about one square metre, on a balcony, a window ledge, a school or a building. 2. Draw a plan on chart paper with the water bowl, the bug hotel, the plants and a sign.",
+     "say": "Which corner gets some sun and some shade? Where will the water bowl and the hotel go?",
+     "kid": "Choose a corner. Draw a plan with the water bowl, the bug hotel, the plants and a sign.",
+     "parent": "If you have no outdoor corner, a window ledge with one pot and a water dish is enough."
+    },
+    {
+     "id": "s2",
+     "mins": 10,
+     "do": "Your child gives the reserve a name and one rule, such as 'No sweeping away the dead leaves' or 'No spraying poison'. Write both on a card sign and tape it up.",
+     "say": "Every reserve has a name and a rule. What will yours be?",
+     "kid": "Give your reserve a name. Make one rule. Write them on a sign.",
+     "ask": [
+      {
+       "q": "Why is spraying poison against the rule?",
+       "good": [
+        "It kills the small creatures we want to visit.",
+        "It can harm bees and butterflies, which need the flowers."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s3",
+     "mins": 10,
+     "do": "1. Plant one seedling of tulsi, marigold or ixora in the pot. 2. Put the water dish with a stone in it, and the bug hotel, in the corner. 3. Make the care chart with a row for each day.",
+     "say": "Tulsi, marigold and ixora flowers give food to bees and butterflies. Plants, water and a hiding place are what a visitor needs.",
+     "kid": "Plant the seedling. Put out the water and the hotel. Make a care chart."
+    },
+    {
+     "id": "s4",
+     "mins": 30,
+     "do": "Each day, your child waters the plant, changes the water in the dish, and ticks the care chart. They write down who visited, or draw it.",
+     "say": "Who came today? Did anything stay in the hotel?",
+     "kid": "Water the plant. Change the water in the bowl. Tick the chart and write who visited.",
+     "wait": "Do this every day for 10 days",
+     "parent": "If a seedling dies, plant another and write it on the chart. In heavy rain, empty the dish and cover the hotel. Visitors may take days to come. That is normal."
+    },
+    {
+     "id": "s5",
+     "mins": 10,
+     "do": "Add up the visitors on the chart. Your child shows the family and the neighbours the reserve, and says who came and what helped.",
+     "say": "Who came to our reserve? What did they need? What would you add next?",
+     "kid": "Show the reserve to your family and neighbours. Tell them who came.",
+     "ask": [
+      {
+       "q": "What would you add to make more visitors come?",
+       "good": [
+        "More flowers for bees and butterflies.",
+        "A shadier place for the water."
+       ]
+      }
+     ]
     }
    ]
   }
@@ -1151,11 +1474,11 @@
       "t": "mcq",
       "q": "Which kite string is safest for birds?",
       "options": [
-       "Plain cotton string",
        "Nylon string",
+       "Plain cotton string",
        "Glass-coated string"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Plain cotton string breaks more easily and rots away. Nylon string is plastic, so it is very strong and lasts a long time. Glass-coated string cuts. India banned nylon kite string in 2017."
      }
     }
@@ -1313,11 +1636,11 @@
      "t": "mcq",
      "p": "In the wet loop test, why did we keep one paper loop dry?",
      "opts": [
-      "To see what the water did to the paper",
       "Because there was not enough water",
-      "To have a spare loop"
+      "To have a spare loop",
+      "To see what the water did to the paper"
      ],
-     "a": 0,
+     "a": 2,
      "how": "e1",
      "why": "The dry loop held and the wet loop tore. The only difference was the water, so the water made the paper weak."
     },
@@ -1434,11 +1757,11 @@
    "t": "mcq",
    "p": "What is our environment?",
    "opts": [
-    "Everything around us: air, water, land and all living beings",
     "Only forests far away",
+    "Everything around us: air, water, land and all living beings",
     "Only the trees on our street"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Our environment is everything around us, living and non-living, including us.",
    "outcome": 0
   },
@@ -1446,11 +1769,11 @@
    "t": "mcq",
    "p": "Which of these is a non-living part of the environment?",
    "opts": [
-    "Rain water",
     "A sparrow",
-    "A tulsi plant"
+    "A tulsi plant",
+    "Rain water"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Water is not alive, but every living being needs it. The sparrow and the tulsi are alive.",
    "outcome": 0
   },
@@ -1483,11 +1806,11 @@
    "t": "mcq",
    "p": "Why is plastic litter more dangerous to animals than paper litter?",
    "opts": [
-    "Plastic stays strong in water and lasts for years",
     "Plastic is heavier than paper",
+    "Plastic stays strong in water and lasts for years",
     "Plastic is always brightly coloured"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Wet paper goes weak and rots away. Plastic stays strong and lasts, so it can trap or harm animals for a long time.",
    "outcome": 3
   },
@@ -1495,11 +1818,11 @@
    "t": "mcq",
    "p": "Why might a sea turtle swallow a floating plastic bag?",
    "opts": [
-    "The bag drifts like a jellyfish, which turtles eat",
     "Turtles eat plastic to grow",
+    "The bag drifts like a jellyfish, which turtles eat",
     "The bag tastes sweet"
    ],
-   "a": 0,
+   "a": 1,
    "how": "e2",
    "why": "A thin bag in water puffs open and drifts like a jellyfish. Many scientists think turtles mix them up.",
    "outcome": 1
@@ -1508,11 +1831,11 @@
    "t": "mcq",
    "p": "You find a rubber band in your dry waste. What should you do before it goes in the bin?",
    "opts": [
-    "Snip it open",
     "Tie it in a knot",
-    "Wash it"
+    "Wash it",
+    "Snip it open"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A snipped band is a strip, which cannot close round an animal's foot or beak.",
    "outcome": 4
   },
@@ -1532,11 +1855,11 @@
    "t": "mcq",
    "p": "Village women hear that loggers are coming to cut down their forest. They have no weapons and no power. What could they do that might save the trees?",
    "opts": [
-    "Hold on to the trees so they cannot be cut down",
     "Plant rice",
-    "Build a dam"
+    "Build a dam",
+    "Hold on to the trees so they cannot be cut down"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Standing with the trees means the loggers cannot cut them without hurting people. Many people together, peacefully, are hard to ignore. Women in the Himalayas really did this, and it was called Chipko, 'to hug'.",
    "outcome": 5
   },
@@ -1544,11 +1867,11 @@
    "t": "mcq",
    "p": "A rare stork nests in tall trees near villages. People cut the trees and chase the birds away. What would help the storks most?",
    "opts": [
-    "Village people guarding the nests and the nesting trees",
     "A king giving an order",
+    "Village people guarding the nests and the nesting trees",
     "A football team playing nearby"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The storks need their nesting trees and peace while they raise their young. People who live nearby can protect both every day.",
    "outcome": 5
   },
@@ -1706,7 +2029,79 @@
    "why": "A huge lagoon where many birds spend the winter and dolphins live."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-the-curious-garden",
+   "item": "The Curious Garden by Peter Brown",
+   "kind": "book",
+   "why": "A boy finds a few struggling plants on an old railway and cares for them until the whole grey city turns green. It shows that one person's care can change a place.",
+   "url": "https://www.amazon.in/s?k=The+Curious+Garden",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Read it together after the lesson on caring for the environment."
+  },
+  {
+   "id": "b-the-lorax",
+   "item": "The Lorax by Dr. Seuss",
+   "kind": "book",
+   "why": "A funny story about a creature who speaks for the trees and the trouble that follows when they are all cut down. It leads the child to ask what each of us can do.",
+   "url": "https://www.amazon.in/s?k=The+Lorax",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Read it together after the lesson, then talk about what we can look after."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Wet Loop Test: which litter could a bird pull free from?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before The Wet Loop Test: which litter could a bird pull free from?."
+  },
+  {
+   "id": "b-modelling-clay-or-plasticine",
+   "item": "Modelling clay or plasticine",
+   "kind": "material",
+   "why": "Used in Water Bowl and Bug Hotel: two homes for small visitors. About ₹40 to ₹120. Atta dough mixed with a little salt works.",
+   "url": "https://www.amazon.in/s?k=modelling+clay+plasticine",
+   "used_in": [
+    "old1"
+   ],
+   "plan": "Get it before Water Bowl and Bug Hotel: two homes for small visitors."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Terrace String Sweep (after a kite festival, if you have a terrace), Water Bowl and Bug Hotel: two homes for small visitors, Our Tiny Nature Reserve: a protected corner for two weeks. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "a3",
+    "old1",
+    "old2"
+   ],
+   "plan": "Get it before Terrace String Sweep (after a kite festival, if you have a terrace)."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "What is our environment?",
@@ -1765,7 +2160,9 @@
    "videos",
    "open_questions",
    "roots",
-   "quiz"
+   "quiz",
+   "old2",
+   "old1"
   ],
   "core": [
    "e1",
@@ -1979,5 +2376,50 @@
     "The first three help care for the environment, but nylon string can trap and hurt birds."
    ]
   ]
- }
+ },
+ "more_stories": [
+  {
+   "title": "Chirri Needs a Hole",
+   "mins": 7,
+   "read_aloud": true,
+   "note": "",
+   "text": [
+    "My name is Chirri, and I am a house sparrow. I am small and brown, with a grey cap and a black bib on my chest. I live in Madurai, in a lane full of cycle bells, pressure cookers and the smell of frying vadas.",
+    "All my life I lived in a hole. Not just any hole: the best hole in the whole lane, under the old clay tiles of Nila's grandmother's house, just where the roof met the wall. It was dark and dry and just my size. Every year my wife and I filled it with straw, threads and feathers, and every year we had chicks, three or four of them, cheeping in the dark.",
+    "Then, one winter, the old house was knocked down.",
+    "I watched from the electric wire. Workers came with hammers. The tiles came down. My hole came down. In its place they built a new house of smooth grey concrete with big glass windows. It was very clean. It had no holes at all.",
+    "When it was time to nest, my wife and I flew round and round the new house. Smooth wall. Smooth wall. Glass. Smooth wall. There was nowhere. We tried the next house. Smooth. The next. Smooth. Behind the bakery the old tin roof had a gap, but the pigeons had got there first.",
+    "Nila saw me. Nila is seven, she has a gap in her teeth, and she notices things. She saw me sitting on her window grill, looking sad (sparrows can be sad, whatever people say). 'Amma,' she said, 'that sparrow is hungry.'",
+    "So Nila put out bread.",
+    "It was kind of her. I ate a little. But I wasn't hungry, not really. I needed a hole.",
+    "The next day Nila put out more bread. And a biscuit. And some murukku. The crows came and ate it all, and squabbled, and made a mess on the balcony. Nila's father sighed.",
+    "Then my wife found a place. It was a dark grey box on the wall by the gate, with a little gap at the bottom where the wires came in. It was dark and dry and just our size. We started to carry straw into it.",
+    "Nila's father saw us and shouted. 'Not there! That's the electric meter!' He was worried, not angry. He blocked the gap with tape. It was the right thing to do, because a meter box is dangerous for birds. But where were we to go now?",
+    "That evening Nila sat on the step with her chin on her knees and watched me. She didn't put out bread. She just watched. She watched me fly to the corner of the yard where nobody went, where the grass was long and there was a tangle of what her father called weeds. She watched me come out with something green and wriggling in my beak.",
+    "'Amma,' she said, 'what is the sparrow eating?'",
+    "Her mother looked. 'A caterpillar, I think.'",
+    "'Not bread?'",
+    "'Baby sparrows can't eat bread,' her mother said slowly. 'I remember now. Your Paati used to say it. They need soft insects, caterpillars and little grubs. Lots of them.'",
+    "Nila thought about this. She watched me again. She saw me fly to the meter box and find it taped, and sit on the wire, and look at the smooth grey wall. Then she did something no one had done before. Instead of deciding what I needed, she watched to see what I was looking for.",
+    "'Amma,' she said, 'he isn't hungry. He wants a house.'",
+    "The next Sunday Nila and her mother made a box from old wooden planks left over from the building work. It had a sloping roof, so the rain ran off, and a round hole in the front about 3 centimetres wide. 'Any bigger and the mynas can get in,' said her mother, who had looked it up. They hung it high on the wall under the edge of the roof, out of the afternoon sun, where cats could not reach.",
+    "Then Nila went to her father and said, 'Please don't cut the weeds in the corner. The caterpillars live there.'",
+    "Her father looked at her for a long moment. 'It looks untidy,' he said.",
+    "'It's the sparrows' kitchen,' said Nila.",
+    "Her father laughed, and the weeds stayed.",
+    "I did not trust the box at first. It smelled of new wood and people. I sat on the wire for three days and looked at it. Then my wife went in, and came out, and went in again, and I knew. We carried in straw and threads, a pigeon's feather, and a bit of red wool that Nila left on the windowsill for us.",
+    "Now, in the dark of the box, four chicks are cheeping. All day I fly to the sparrows' kitchen in the corner and back. Caterpillar. Grub. Caterpillar. Little green fly. Nila sits on the step and counts my trips on her fingers. Yesterday she ran out of fingers and borrowed her father's.",
+    "I never ate her bread again. But I think she knows that I am grateful."
+   ],
+   "epiphany": "Nila first gives Chirri what she imagines a sparrow needs (bread), and it doesn't help. The turn comes when she stops deciding and starts watching. She sees that Chirri needs shelter (a hole for a nest) and the right food for chicks (insects from the 'weeds'). The hidden idea is the habitat: every animal needs their own kind of food, water and shelter, and caring means finding out what another living thing really needs.",
+   "ask": [
+    "Why didn't the bread help Chirri?",
+    "What did Chirri really need? How did Nila find out?",
+    "Why was the new concrete house a problem for sparrows?",
+    "Nila's father called the long grass 'weeds'. Nila called it 'the sparrows' kitchen'. Who was right?",
+    "What could you watch, near your home, to find out what an animal needs?"
+   ],
+   "art": []
+  }
+ ]
 }

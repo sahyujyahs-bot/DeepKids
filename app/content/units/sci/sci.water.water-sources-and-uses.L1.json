@@ -61,6 +61,34 @@
    "art": "A child, a crow, a cow, an elephant and a tulsi plant, each getting water in their own way."
   },
   {
+   "concept": "Water covers most of Earth",
+   "status": "defined",
+   "definition": "Most of Earth's surface is covered by water. Out of every ten parts of the surface, about seven are water.",
+   "description": "Look at a picture of Earth taken from space. You will see a lot of blue. That blue is water. Most of it is in the oceans, and sea water is salty, so we cannot drink it. Only a small part of Earth's water is fresh water, the kind we drink and cook with. Fresh water is found in rivers, lakes and wells, and as ice on high mountains. Rain fills many of them again and again. So there is a lot of water on Earth, but the water we can drink is precious.",
+   "examples": [
+    "Fishing boats in Kerala and Gujarat sail on the sea, which is salty water.",
+    "The Ganga carries fresh water from the Himalayan snow to the plains.",
+    "A well in a village holds fresh rain water that soaked into the ground."
+   ],
+   "perspectives": [],
+   "context": "This card says that most of Earth is covered by water, and that only a little of it is fresh water.",
+   "art": "A round picture of Earth from space, mostly blue, with India in view. Small labels point to the sea, a river, a lake and snow on the mountains."
+  },
+  {
+   "concept": "What clean water is like",
+   "status": "defined",
+   "definition": "Clean drinking water has no colour, no taste and no smell. It looks clear, like glass.",
+   "description": "Fill a glass with clean drinking water and hold it up to the window. You can see right through it, so we say it is clear. Taste a sip. It has no taste of its own. Smell it. It has no smell. Water that is not clean can look and smell different. Muddy river water after rain looks brown. Sea water tastes salty. Never taste water from a pond, a drain or a puddle, because it may make you ill. Ask a grown-up if you are not sure that water is clean.",
+   "examples": [
+    "A glass of filtered water from the kitchen is clear, with no taste and no smell.",
+    "The river after a monsoon shower looks brown because mud is mixed in.",
+    "A drop of sea water on your lip tastes salty."
+   ],
+   "perspectives": [],
+   "context": "This card says what clean water looks, tastes and smells like.",
+   "art": "A clear glass of water held up to a window, next to a glass of brown muddy river water. Two small arrows say 'clear' and 'muddy'."
+  },
+  {
    "concept": "Water gets inside things",
    "status": "defined",
    "definition": "Water can soak into many things, like poha, rice, dal, cloth, paper and soil. Oil does not soak into poha or rice.",
@@ -371,11 +399,11 @@
       "t": "mcq",
       "q": "A girl pours water on a tulsi pot. Which job is that?",
       "options": [
-       "Cooking",
        "Plants",
+       "Cooking",
        "Washing"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The water is for the tulsi plant. Plants take in water through their roots."
      }
     }
@@ -472,10 +500,10 @@
       "q": "How does an elephant drink?",
       "options": [
        "Through their skin",
-       "Fills their trunk and squirts the water into their mouth",
-       "Like a straw, through their trunk"
+       "Like a straw, through their trunk",
+       "Fills their trunk and squirts the water into their mouth"
       ],
-      "a": 1,
+      "a": 2,
       "why": "An elephant sucks water a little way up their trunk, then curls the trunk and squirts the water into their mouth."
      }
     }
@@ -670,10 +698,10 @@
       "q": "After ten minutes, which poha was soft?",
       "options": [
        "The poha in oil",
-       "The poha in water",
-       "The dry poha"
+       "The dry poha",
+       "The poha in water"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Water soaked inside each flake, so the poha went soft. The oil only coated the outside, so that poha stayed hard."
      },
      "parent": "The oil poha can be eaten too: it is only poha and oil. If the oil poha feels a little softer at the edges, that is fine. It is still much harder than the water poha."
@@ -931,11 +959,11 @@
       "t": "mcq",
       "q": "How does a frog drink?",
       "options": [
-       "With a straw",
        "Through their skin",
+       "With a straw",
        "With a trunk"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A frog takes in water through their skin, mostly through the skin on the belly and legs."
      }
     }
@@ -1225,11 +1253,11 @@
      "t": "mcq",
      "p": "To test what water and oil do to poha, you set up three katoris of poha: one with water, one with oil, and one with nothing. Why keep one with nothing?",
      "opts": [
-      "To see what dry poha does by itself",
       "Because we ran out of water",
+      "To see what dry poha does by itself",
       "Because the poha was tired"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The katori with nothing shows what poha does on its own. Then we know the water or the oil made the change.",
      "how": "e1"
     },
@@ -1322,6 +1350,12 @@
      "p": "Water does only one job: we drink it.",
      "a": false,
      "why": "False. Water also cooks our food, washes things, helps plants grow and gives animals a drink."
+    },
+    {
+     "t": "truefalse",
+     "p": "The glass of drinking water on your table has a yellow colour and a sweet smell.",
+     "a": false,
+     "why": "False. Clean drinking water is clear and has no smell and no taste. If water looks coloured or smells strange, something is mixed in, and we should not drink it."
     }
    ]
   },
@@ -1354,6 +1388,12 @@
      "p": "Rain fills rivers, lakes and ____ with water.",
      "a": "wells",
      "why": "Rain soaks into the ground and fills wells, as well as rivers and lakes."
+    },
+    {
+     "t": "fill",
+     "p": "Out of every ten parts of Earth's surface, about ____ are covered by water.",
+     "a": "7",
+     "why": "About seven parts are water, and about three parts are land. Most of the water is salty sea water."
     },
     {
      "t": "order",
@@ -1398,10 +1438,10 @@
      "p": "Our tap water came out of a pipe. Where did the water in the pipe come from first?",
      "opts": [
       "From the tap itself",
-      "From rain, which fills lakes, rivers and wells",
-      "From the shop"
+      "From the shop",
+      "From rain, which fills lakes, rivers and wells"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Pipes bring water from tanks, lakes, rivers and wells. All of them are filled by rain."
     },
     {
@@ -1465,11 +1505,11 @@
    "t": "mcq",
    "p": "Which of these is a job that water does for us?",
    "opts": [
-    "Cooking rice",
     "Making a stone",
-    "Turning on the light"
+    "Turning on the light",
+    "Cooking rice"
    ],
-   "a": 0,
+   "a": 2,
    "why": "We cook rice in water. We also drink water, wash with it, and give it to plants and animals.",
    "outcome": 0
   },
@@ -1478,10 +1518,10 @@
    "p": "Which of these is NOT a job for water at home?",
    "opts": [
     "Washing plates",
-    "Watering the tulsi",
-    "Sharpening a pencil"
+    "Sharpening a pencil",
+    "Watering the tulsi"
    ],
-   "a": 2,
+   "a": 1,
    "why": "We sharpen a pencil with a sharpener, not with water. Washing plates and watering plants both need water.",
    "outcome": 0
   },
@@ -1490,10 +1530,10 @@
    "p": "Where does the water in our tap come from, before the pipes?",
    "opts": [
     "From inside the tap",
-    "From rain, rivers, lakes and wells",
-    "From the fridge"
+    "From the fridge",
+    "From rain, rivers, lakes and wells"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The tap is only the end of a pipe. The water comes from tanks, lakes, rivers and wells, which are filled by rain.",
    "outcome": 1
   },
@@ -1501,12 +1541,24 @@
    "t": "mcq",
    "p": "Which one is a water source?",
    "opts": [
-    "A lake",
     "A chair",
+    "A lake",
     "A pencil"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A water source is a place we get water from. A lake holds rain water.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Look at Earth from space. Which sentence is true?",
+   "opts": [
+    "Most of Earth's surface is covered by sand",
+    "Earth has no water on its surface",
+    "Most of Earth's surface is covered by water"
+   ],
+   "a": 2,
+   "why": "About seven out of every ten parts of Earth's surface are water. Most of it is in the salty oceans, which is why we need rivers, lakes and wells for water to drink. Earth has deserts with sand, but they are only a small part.",
    "outcome": 1
   },
   {
@@ -1514,10 +1566,10 @@
    "p": "Poha sat in oil for ten minutes. What was it like?",
    "opts": [
     "Soft and squashy",
-    "Shiny and still hard",
-    "Gone"
+    "Gone",
+    "Shiny and still hard"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Oil does not go inside poha. It only coats the outside, so the poha stays hard.",
    "outcome": 2,
    "how": "e1"
@@ -1526,24 +1578,36 @@
    "t": "mcq",
    "p": "Dry poha is put in a katori of plain water. After a while it goes soft. Why?",
    "opts": [
-    "The water went inside each flake",
     "The water was hot",
+    "The water went inside each flake",
     "The katori was steel"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Water soaks into each flake of poha and makes it soft. It does not need to be hot.",
    "outcome": 2,
    "how": "e1"
   },
   {
    "t": "mcq",
+   "p": "You pour a glass of clean drinking water. What will you find?",
+   "opts": [
+    "It is clear and has no taste and no smell",
+    "It is yellow and smells of onions",
+    "It is white and tastes of milk"
+   ],
+   "a": 0,
+   "why": "Clean drinking water has no colour, no taste and no smell. Milk is white, and it has a taste. Water only looks yellow or smells strange when something else is mixed in.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
    "p": "Which of these needs water to live?",
    "opts": [
     "A spoon",
-    "A plant",
-    "A stone"
+    "A stone",
+    "A plant"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A plant is alive and needs water. A spoon and a stone are not alive.",
    "outcome": 3
   },
@@ -1551,11 +1615,11 @@
    "t": "mcq",
    "p": "How does a cat drink?",
    "opts": [
-    "Laps with a fast tongue",
     "Through her skin",
+    "Laps with a fast tongue",
     "With a trunk"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A cat laps with her tongue, very fast. Each lap pulls up a little water.",
    "outcome": 3
   },
@@ -1740,7 +1804,44 @@
    "why": "Lakes, rivers and canals where people, fish, birds and rice fields all share the water."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-modelling-clay-or-plasticine",
+   "item": "Modelling clay or plasticine",
+   "kind": "material",
+   "why": "Used in A Water Bowl for Birds. About ₹40 to ₹120. Atta dough mixed with a little salt works.",
+   "url": "https://www.amazon.in/s?k=modelling+clay+plasticine",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before A Water Bowl for Birds."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in The Sticky Plate: does soaking help washing?. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before The Sticky Plate: does soaking help washing?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "Name two jobs that water does at home.",

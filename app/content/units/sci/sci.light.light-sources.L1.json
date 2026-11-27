@@ -533,11 +533,11 @@
       "t": "mcq",
       "q": "You have a phone screen and a torch in a dark room. You want to see a toy far away. Which should you use?",
       "options": [
-       "The torch",
        "The phone screen",
+       "The torch",
        "Either: they give the same light"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Both are light sources, but a torch makes much more light than a phone screen and sends it forward in a beam. So the torch lights the far toy best."
      }
     }
@@ -788,11 +788,11 @@
       "t": "mcq",
       "q": "A diya has burnt for a long time. Now its oil is all used up. What will happen?",
       "options": [
-       "The flame goes out",
        "The flame gets brighter",
+       "The flame goes out",
        "The flame keeps going forever"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A diya makes light only while it has oil to burn. When the oil is gone, the flame goes out."
      }
     }
@@ -939,11 +939,11 @@
       "t": "mcq",
       "q": "Someone says a mirror is a light source because it shines. Are they right?",
       "options": [
-       "No, a mirror only sends back light from somewhere else",
        "Yes, a mirror makes its own light",
+       "No, a mirror only sends back light from somewhere else",
        "Only at night"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A mirror makes no light of its own. In a dark room you cannot see it. It shines only when light from a light source falls on it."
      }
     }
@@ -1163,11 +1163,11 @@
       "t": "mcq",
       "q": "You switch off the torch under the star lantern. What happens to the spots on the ceiling?",
       "options": [
-       "They vanish at once",
        "They stay on the ceiling",
-       "They turn into one big spot"
+       "They turn into one big spot",
+       "They vanish at once"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The spots are torch light coming through the holes. With the torch off, no light is made, so all the spots vanish at once."
      }
     }
@@ -1251,11 +1251,11 @@
       "t": "mcq",
       "q": "You hold a steel plate next to a book in the dark. No torch is on. Will the plate light up the book?",
       "options": [
-       "No, the plate makes no light",
        "Yes, steel shines",
+       "No, the plate makes no light",
        "Only if you hold it close"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A steel plate is not a light source. It can only send back light that falls on it. In the dark, with no torch, it has no light to send."
      }
     }
@@ -1398,22 +1398,22 @@
      "t": "mcq",
      "p": "Someone says a shiny steel tumbler is a lamp, because it shines. What is the best way to test this?",
      "opts": [
-      "Take it into a dark room and see if it still shines",
       "Look at it in a sunny room",
+      "Take it into a dark room and see if it still shines",
       "Ask it to shine"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A light source can be seen in the dark. A tumbler only shines when light falls on it, so in a dark room it vanishes. It makes no light of its own."
     },
     {
      "t": "mcq",
      "p": "Which of these gives heat as well as light?",
      "opts": [
-      "A lit candle",
       "A steel spoon",
-      "A mirror"
+      "A mirror",
+      "A lit candle"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A flame makes heat and light. The spoon and the mirror make neither."
     }
    ]
@@ -1478,11 +1478,11 @@
      "t": "mcq",
      "p": "Which light source do we never need to switch on or fill up?",
      "opts": [
-      "The Sun",
       "A torch",
+      "The Sun",
       "A tube light"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The Sun makes its own light all the time. Nobody needs to switch it on, fill it with oil or put cells in it."
     },
     {
@@ -1550,11 +1550,11 @@
      "t": "mcq",
      "p": "Two torches are the same, but one has weak cells and one has fresh cells. Which one lights the far wall better?",
      "opts": [
-      "The one with fresh cells",
       "The one with weak cells",
-      "Both the same"
+      "Both the same",
+      "The one with fresh cells"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A torch makes light from the energy in its cells. Weak cells give less light, so the far wall looks dim."
     }
    ]
@@ -1577,11 +1577,11 @@
    "t": "mcq",
    "p": "Which of these is a light source?",
    "opts": [
-    "A lit candle",
     "A steel plate",
-    "A mirror"
+    "A mirror",
+    "A lit candle"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A lit candle makes its own light. The steel plate and the mirror only shine with light from somewhere else.",
    "outcome": 1
   },
@@ -1589,11 +1589,11 @@
    "t": "mcq",
    "p": "Which light source is alive?",
    "opts": [
-    "A firefly",
     "A torch",
+    "A firefly",
     "A tube light"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A firefly is a living being who makes their own light inside their body.",
    "outcome": 1
   },
@@ -1614,11 +1614,11 @@
    "t": "mcq",
    "p": "You switch off the tube light at night. Why does the room go dark?",
    "opts": [
-    "The tube light stops making light",
     "The light goes back into the tube",
+    "The tube light stops making light",
     "The light runs out of the window"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A tube light makes new light only while electricity flows through it. Switch it off, and it stops making light.",
    "outcome": 3
   },
@@ -1626,11 +1626,11 @@
    "t": "mcq",
    "p": "What does a torch need to make light?",
    "opts": [
-    "Cells that send it electricity",
     "Sunlight on its glass",
-    "Water"
+    "Water",
+    "Cells that send it electricity"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A torch uses the electricity from its cells. When the cells run out, the torch stops shining.",
    "outcome": 3
   },
@@ -1638,11 +1638,11 @@
    "t": "mcq",
    "p": "What is the Sun?",
    "opts": [
-    "A star",
     "A big lamp in the sky",
-    "A planet"
+    "A planet",
+    "A star"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The Sun is a star: a huge ball of very hot gas that makes its own light. It is the nearest star to us.",
    "outcome": 4
   },
@@ -1650,11 +1650,11 @@
    "t": "mcq",
    "p": "What is the rule for looking at the Sun?",
    "opts": [
-    "Never look straight at it",
     "Look at it through sunglasses",
+    "Never look straight at it",
     "Look at it for just one second"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The Sun is so bright it can harm your eyes, even in one second and even through sunglasses. Never look straight at the Sun.",
    "outcome": 4
   },
@@ -1674,11 +1674,11 @@
    "t": "mcq",
    "p": "Which of these is a light source made by nature?",
    "opts": [
-    "Lightning",
     "A tube light",
-    "A torch"
+    "A torch",
+    "Lightning"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Lightning is a giant spark in the sky that makes light. A tube light and a torch are made by people.",
    "outcome": 1
   }
@@ -1871,7 +1871,57 @@
    "why": "Sky shows about the Sun, stars and planets, good for a family day out."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-a-magnetic-compass",
+   "item": "A magnetic compass",
+   "kind": "tool",
+   "why": "Used in The Paper-Cup Star Lantern. About ₹30 to ₹150. A phone compass app also works.",
+   "url": "https://www.amazon.in/s?k=magnetic+compass+school",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before The Paper-Cup Star Lantern."
+  },
+  {
+   "id": "b-a-small-hand-mirror",
+   "item": "A small hand mirror",
+   "kind": "material",
+   "why": "Used in Light Maker or Not? The dark room test, Read in the Power Cut. About ₹20 to ₹80. A shiny steel plate shows reflections too.",
+   "url": "https://www.amazon.in/s?k=small+hand+mirror",
+   "used_in": [
+    "e1",
+    "c1"
+   ],
+   "plan": "Get it before Light Maker or Not? The dark room test."
+  },
+  {
+   "id": "b-modelling-clay-or-plasticine",
+   "item": "Modelling clay or plasticine",
+   "kind": "material",
+   "why": "Used in The Diya Up Close, The Paper-Cup Star Lantern. About ₹40 to ₹120. Atta dough mixed with a little salt works.",
+   "url": "https://www.amazon.in/s?k=modelling+clay+plasticine",
+   "used_in": [
+    "a3",
+    "p1"
+   ],
+   "plan": "Get it before The Diya Up Close."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "What do we call a thing that makes its own light?",

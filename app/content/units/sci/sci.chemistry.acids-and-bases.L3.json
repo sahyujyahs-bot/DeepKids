@@ -734,11 +734,11 @@
       "t": "mcq",
       "q": "Your token is on square 10, blue-green. Which card would help you most to get back to purple?",
       "options": [
-       "Add a spoon of lemon juice",
        "Add a spoon of soapy water",
+       "Add a spoon of lemon juice",
        "Add a spoon of sugar water"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Square 10 is on the base side, so you need an acid to move back towards purple. Lemon juice moves you 2 squares towards pink. Soapy water would push you further towards green, and sugar water does not move you at all."
      }
     },
@@ -893,11 +893,11 @@
       "t": "mcq",
       "q": "The salt water glass stayed the same purple as the plain water glass. What does that tell you?",
       "options": [
-       "Salt water is neutral: it is neither an acid nor a base",
        "Salt water is a strong acid",
-       "The cabbage water has stopped working"
+       "The cabbage water has stopped working",
+       "Salt water is neutral: it is neither an acid nor a base"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Salt water is neutral, so it leaves the cabbage water purple. Salt tastes strong, but salty is not the same as sour or soapy. The cabbage water was still working, because the lemon glass next to it turned pink."
      }
     },
@@ -1159,11 +1159,11 @@
       "t": "mcq",
       "q": "The curd glasses were pinker than the milk glass. Where did the acid come from?",
       "options": [
-       "The curd bacteria made the acid while they ate the milk sugar",
        "The katori added it",
-       "The cabbage water made it"
+       "The cabbage water made it",
+       "The curd bacteria made the acid while they ate the milk sugar"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Curd bacteria eat the sugar in milk and give out lactic acid. That turns milk into sour curd. The katori and the cabbage water were the same for all three, so they cannot explain the difference."
      }
     },
@@ -1324,11 +1324,11 @@
       "t": "mcq",
       "q": "You find a bottle with no label. How should you find out if it is an acid?",
       "options": [
-       "Give it to a grown-up and never taste or smell it",
        "Taste a tiny drop",
+       "Give it to a grown-up and never taste or smell it",
        "Rub a little on your hand"
       ],
-      "a": 0,
+      "a": 1,
       "why": "An unknown liquid could be a strong acid or base that burns. Only a grown-up should handle it. Tasting even a drop of a strong acid or base can burn the mouth."
      }
     }
@@ -1404,11 +1404,11 @@
       "t": "mcq",
       "q": "Only the cooking soda fizzed. Why?",
       "options": [
-       "Cooking soda is a base, and it reacted with the acid in the lemon",
        "Cooking soda is heavier than salt",
-       "The salt and sugar were too dry"
+       "The salt and sugar were too dry",
+       "Cooking soda is a base, and it reacted with the acid in the lemon"
       ],
-      "a": 0,
+      "a": 2,
       "why": "An acid and a base react together. Cooking soda is a base, so it reacted with the lemon's acid and made carbon dioxide bubbles. Salt and sugar are neutral, so there was nothing to react with. All three were equally dry."
      }
     }
@@ -1479,11 +1479,11 @@
       "t": "mcq",
       "q": "Most sour things in the kitchen are foods, but some cleaners are strong acids. Why are those cleaners kept high up?",
       "options": [
-       "Strong acids can burn skin and eyes",
        "They are expensive",
-       "Acids are always poisonous, even in lemon"
+       "Acids are always poisonous, even in lemon",
+       "Strong acids can burn skin and eyes"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Strong acids burn. Weak acids, like the ones in lemon and curd, are safe to eat. How strong an acid is matters more than its name."
      }
     }
@@ -1590,11 +1590,11 @@
       "t": "mcq",
       "q": "A spot of coconut water on a strip turns faintly pink. Where does coconut water go on the colour line?",
       "options": [
-       "A little on the acid side of neutral",
        "Far at the base end",
+       "A little on the acid side of neutral",
        "Exactly where soap goes"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A faint pink means a weak acid, close to neutral. Bright pink would mean a stronger acid, and blue or green would mean a base."
      }
     }
@@ -1742,11 +1742,11 @@
       "t": "mcq",
       "q": "Beetroot juice hardly changed colour with lemon or soda. Why might that be?",
       "options": [
-       "Beetroot's red pigment is a different kind from cabbage's",
        "Beetroot has no colour",
+       "Beetroot's red pigment is a different kind from cabbage's",
        "The lemon was too old"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Beetroot gets its red from a different pigment that does not change colour much with acids and bases. Red cabbage, grapes and butterfly pea have anthocyanin pigments, which do change."
      }
     }
@@ -1784,12 +1784,12 @@
    "t": "mcq",
    "p": "Which of these tastes sour because it contains an acid?",
    "opts": [
-    "Tamarind",
     "Sugar",
+    "Tamarind",
     "Salt",
     "Rice"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Tamarind contains tartaric acid. Sugar tastes sweet and salt tastes salty, but neither is an acid. Picking salt is common, because its taste is strong.",
    "outcome": 0
   },
@@ -1797,12 +1797,12 @@
    "t": "mcq",
    "p": "Which of these is a base?",
    "opts": [
-    "Bath soap",
     "Lemon juice",
     "Vinegar",
+    "Bath soap",
     "Curd"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Soap is a base. It feels slippery in water and turns cabbage water blue-green. The other three are sour, so they are acids.",
    "outcome": 0
   },
@@ -1810,11 +1810,11 @@
    "t": "mcq",
    "p": "Red cabbage water stays purple when you add a liquid. What is that liquid?",
    "opts": [
-    "Neutral",
     "A strong acid",
+    "Neutral",
     "A strong base"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Purple is the neutral colour. An acid would turn it pink, and a base blue or green.",
    "outcome": 1
   },
@@ -1847,11 +1847,11 @@
    "t": "mcq",
    "p": "Lemon juice, plain water and detergent water are lined up from pinkest to greenest. Which one is in the middle?",
    "opts": [
-    "Plain water",
     "Lemon juice",
+    "Plain water",
     "Detergent water"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Plain water is neutral, so it sits in the middle. Lemon juice is at the pink end and detergent water at the green end.",
    "outcome": 2
   },
@@ -1871,11 +1871,11 @@
    "t": "mcq",
    "p": "Which of these is a strong base that only grown-ups should handle?",
    "opts": [
-    "Chuna (lime paste)",
     "Cooking soda",
-    "Curd"
+    "Curd",
+    "Chuna (lime paste)"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Chuna is a strong base and can burn skin and eyes. Cooking soda is a weak base and curd is a weak acid, both safe in food.",
    "outcome": 3
   },
@@ -1883,11 +1883,11 @@
    "t": "mcq",
    "p": "Soda water is added spoon by spoon to pink lemony cabbage water. What happens to the colour?",
    "opts": [
-    "It turns purple, then blue",
     "It gets pinker",
-    "It turns red and stays red"
+    "It turns red and stays red",
+    "It turns purple, then blue"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The base uses up the acid, so the colour moves back to purple, then on to blue as more base is added.",
    "outcome": 4,
    "how": "e2"
@@ -1896,11 +1896,11 @@
    "t": "mcq",
    "p": "Curd bacteria turn milk sour. How does the sourness help the bacteria?",
    "opts": [
-    "Many other microbes grow badly in sour milk, so the bacteria keep the milk for themselves",
     "It makes the milk sweeter for them",
-    "It keeps the milk warm"
+    "It keeps the milk warm",
+    "Many other microbes grow badly in sour milk, so the bacteria keep the milk for themselves"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The acid keeps many other microbes away, so the curd bacteria have the milk sugar to themselves.",
    "outcome": 5
   },
@@ -1908,11 +1908,11 @@
    "t": "mcq",
    "p": "Long ago, a chemist guessed that acids taste sour because their tiny particles have sharp spikes. How could chemists check an idea like this?",
    "opts": [
-    "Look for the spikes with better tools, and test what acids do in water",
     "Taste more lemons",
+    "Look for the spikes with better tools, and test what acids do in water",
     "Vote on whether they like the idea"
    ],
-   "a": 0,
+   "a": 1,
    "why": "An idea must be tested. When chemists looked, they never found spikes. Instead they found that all acids give out charged hydrogen particles in water.",
    "outcome": 6
   }
@@ -1985,11 +1985,11 @@
      "t": "mcq",
      "p": "Detergent powder is stirred into cabbage water. It turns green. What does that tell you?",
      "opts": [
-      "Detergent water is a base",
       "Detergent water is an acid",
+      "Detergent water is a base",
       "Detergent water is neutral"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Bases turn cabbage water blue or green. Green means a fairly strong base.",
      "how": "e1"
     },
@@ -2100,11 +2100,11 @@
      "t": "mcq",
      "p": "Why does your hand feel slippery after you rub it in soapy water?",
      "opts": [
-      "Soap is a base, and bases in water feel slippery",
       "Soap is an acid",
+      "Soap is a base, and bases in water feel slippery",
       "The water is warm"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Bases in water feel slippery. Soap and detergent are bases.",
      "how": "a2"
     },
@@ -2269,11 +2269,11 @@
      "t": "mcq",
      "p": "Buttermilk is a weak acid. Which pH number could it have?",
      "opts": [
-      "About 4 or 5",
       "About 7",
-      "About 12"
+      "About 12",
+      "About 4 or 5"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Acids have numbers below 7. Buttermilk is only a weak acid, so its number is a little below 7, not far below like lemon juice."
     },
     {
@@ -2489,11 +2489,11 @@
      "t": "mcq",
      "p": "Cooks in Assam make khar with water filtered through the ash of burnt banana peel. What kind of liquid is the ashy water?",
      "opts": [
-      "A base (an alkali)",
       "An acid",
+      "A base (an alkali)",
       "Neutral, like plain water"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Ash from burnt plants gives an alkali, which is a base that dissolves in water. That is where the word alkali comes from."
     },
     {
@@ -2689,6 +2689,45 @@
     "c1"
    ],
    "plan": "Use the rest of the cabbage in a poriyal or salad, with a squeeze of lemon to keep it purple."
+  },
+  {
+   "id": "b-vinegar",
+   "item": "Vinegar",
+   "kind": "material",
+   "why": "Used in The Cabbage Colour Line: where does each kitchen liquid sit?, The Fizz Test: lemon on cooking soda, A Rainbow in Six Glasses. About ₹40 to ₹80. Lemon juice works for many tests.",
+   "url": "https://www.amazon.in/s?k=white+vinegar",
+   "used_in": [
+    "e1",
+    "a3",
+    "c1"
+   ],
+   "plan": "Get it before The Cabbage Colour Line: where does each kitchen liquid sit?."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in Make Your Own Cabbage Test Strips. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before Make Your Own Cabbage Test Strips."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

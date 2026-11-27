@@ -155,7 +155,8 @@
    "examples": [
     "Chilika Lake in Odisha is a wintering ground and a stopover for many thousands of water birds.",
     "The tidal mudflats of the Yellow Sea are a key stopover for waders on the way between Australia and the Arctic.",
-    "Keoladeo National Park near Bharatpur in Rajasthan is a wetland where many winter visitors arrive after crossing the Himalaya."
+    "Keoladeo National Park near Bharatpur in Rajasthan is a wetland where many winter visitors arrive after crossing the Himalaya.",
+    "Rosy starlings fly thousands of kilometres each winter, from Russia and Mongolia to India."
    ],
    "perspectives": [],
    "art": "A chain of lakes on a map between the Arctic and India, with one link drawn broken and a flock above it looking for another."
@@ -957,11 +958,11 @@
       "t": "mcq",
       "q": "A bird lands at wetland 2 with 0 beans left. Is she safe?",
       "options": [
-       "Yes, because she landed and can feed to fill up again",
        "No, because she has no beans",
+       "Yes, because she landed and can feed to fill up again",
        "Only if she rolls a 6"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A bird is safe if she lands. At the wetland she feeds and fills up again. She falls only if she runs out of fuel in the air, between two places."
      }
     },
@@ -1018,7 +1019,7 @@
   {
    "id": "a1",
    "title": "Resident, Winter Visitor or Passer-by? Sort eight birds by when they are in India",
-   "mins": 15,
+   "mins": 18,
    "days": 1,
    "context": "In this activity, you sort eight birds by how they spend the year in India. You find out which birds stay all year and which only visit. Birders use four labels: resident, winter visitor, summer visitor and passage migrant.",
    "materials": [
@@ -1035,7 +1036,7 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 15,
+     "mins": 18,
      "what": "Learn the four labels. Sort eight birds. Check each one against the clue."
     }
    ],
@@ -1093,6 +1094,14 @@
     },
     {
      "id": "s3",
+     "mins": 3,
+     "context": "In this step, you trace a long winter journey on a globe.",
+     "do": "Find Russia, Mongolia and India on a globe. Run a string or your finger from Russia and Mongolia down to India. That is the route a rosy starling flies each winter.",
+     "say": "Find Russia and Mongolia on the globe. Now follow the route south to India. A rosy starling flies this whole way every winter.",
+     "kid": "Find Russia, Mongolia and India on the globe. Trace the way the rosy starling flies."
+    },
+    {
+     "id": "s4",
      "mins": 5,
      "context": "In this step, you check which label fits the birds you know.",
      "do": "Think of two more birds you have seen. Decide which label fits each. If you can, look them up in a field guide or on a phone. For a week, tick each bird you see near home. Residents show up every day.",
@@ -1520,11 +1529,11 @@
       "t": "mcq",
       "q": "Why is it a problem if one stopover is lost, even if other lakes are fine?",
       "options": [
-       "Some birds may run out of fuel before they reach the next place",
        "Birds only like one lake",
+       "Some birds may run out of fuel before they reach the next place",
        "Fish need the lake to stay"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A migrant carries only enough fuel for a certain distance. A lost stopover makes a longer gap, and long gaps are where birds run out of fuel."
      }
     }
@@ -1562,11 +1571,11 @@
    "t": "mcq",
    "p": "Which is the best reason that many birds migrate?",
    "opts": [
-    "The food they need is in different places at different times of the year",
     "They get bored of one place",
-    "Every bird is hurt by cold"
+    "Every bird is hurt by cold",
+    "The food they need is in different places at different times of the year"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Migration follows food, space and safety for raising young. Cold is only one reason food runs short. Crows and sparrows stay through cold winters because they can still find food.",
    "outcome": 0
   },
@@ -1574,11 +1583,11 @@
    "t": "mcq",
    "p": "Why do so many birds travel to the far north to raise chicks in summer?",
    "opts": [
-    "The days are very long, so they have many hours to feed and food is plentiful",
     "The far north is warmer than India in summer",
-    "There are no other birds there"
+    "There are no other birds there",
+    "The days are very long, so they have many hours to feed and food is plentiful"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The tilt of the Earth gives the far north very long summer days. Plants, insects and mudflat animals thrive in that light. A bird can feed her chicks for many hours a day.",
    "outcome": 1
   },
@@ -1586,11 +1595,11 @@
    "t": "mcq",
    "p": "How different is the length of the day in Kerala in June and in December?",
    "opts": [
-    "Only a little different, about the same length",
     "Twice as long in June",
-    "There is no daylight in December"
+    "There is no daylight in December",
+    "Only a little different, about the same length"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Near the equator, day length changes only a little all year, a few minutes each week at most. The big changes are far north and far south.",
    "outcome": 1
   },
@@ -1622,11 +1631,11 @@
    "t": "mcq",
    "p": "What is a stopover?",
    "opts": [
-    "A place on a journey where a bird rests and feeds before flying on",
     "A place where a bird stays all year",
-    "The end of a bird's journey"
+    "The end of a bird's journey",
+    "A place on a journey where a bird rests and feeds before flying on"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A stopover is a refuelling place. The bird feeds there for days or weeks to build up fat for the next stage.",
    "outcome": 3
   },
@@ -1646,11 +1655,11 @@
    "t": "mcq",
    "p": "A small falcon is in a town for three weeks in October, then moves on to Africa. Which label do birders give her?",
    "opts": [
-    "Passage migrant",
     "Resident",
+    "Passage migrant",
     "Winter visitor"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A passage migrant stops only for days or weeks on the way somewhere else. A winter visitor stays for the whole northern winter. A resident stays all year.",
    "outcome": 4
   },
@@ -1682,11 +1691,11 @@
    "t": "mcq",
    "p": "Which of these do scientists still not fully understand?",
    "opts": [
-    "How a young bird, who has never made the trip, times her journey and finds the way",
     "Whether birds travel from one country to another",
+    "How a young bird, who has never made the trip, times her journey and finds the way",
     "Whether birds store fat"
    ],
-   "a": 0,
+   "a": 1,
    "why": "We know that day length and an inside yearly clock both play a part, but how they work together is still being studied. Rings and tags have shown that the journeys are real.",
    "outcome": 6
   },
@@ -1695,6 +1704,18 @@
    "p": "Only birds migrate.",
    "a": false,
    "why": "False. Olive ridley turtles, hilsa fish, butterflies, elephants and many other animals make regular seasonal journeys. Some, such as the wallcreeper, move only up and down a mountain.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Rosy starlings fly from Russia and Mongolia to India each winter. What do they eat there that helps farmers?",
+   "opts": [
+    "Fish from the sea",
+    "Honey from flowers",
+    "Locusts that harm crops"
+   ],
+   "a": 2,
+   "why": "Rosy starlings eat locusts. Locusts are insects that can swarm and destroy crops, so the winter visitors help farmers.",
    "outcome": 0
   }
  ],
@@ -1709,11 +1730,11 @@
      "t": "mcq",
      "p": "What does the word migration mean?",
      "opts": [
-      "A regular journey that an animal makes each year, going out and coming back",
       "Flying very high",
-      "Moving house once in a lifetime"
+      "Moving house once in a lifetime",
+      "A regular journey that an animal makes each year, going out and coming back"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Migration is a regular, seasonal journey. The animal goes out and comes back, year after year.",
      "outcome": 0
     },
@@ -1774,11 +1795,11 @@
      "t": "mcq",
      "p": "Which holds more energy in each gram?",
      "opts": [
-      "Fat",
       "Sugar",
+      "Fat",
       "They hold the same"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A gram of fat holds more than twice as much energy as a gram of sugar. That is why a bird that must carry her fuel stores fat.",
      "outcome": 2
     },
@@ -1900,13 +1921,19 @@
      "t": "mcq",
      "p": "Which of these is also migration?",
      "opts": [
-      "A hilsa fish swimming from the sea up a river each monsoon to lay eggs",
       "A crow flying from a tree to a roof",
-      "A dog walking to a gate"
+      "A dog walking to a gate",
+      "A hilsa fish swimming from the sea up a river each monsoon to lay eggs"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Migration is a regular, seasonal journey. The hilsa does it every year. A crow moving between a tree and a roof is a daily move.",
      "outcome": 0
+    },
+    {
+     "t": "truefalse",
+     "p": "Rosy starlings eat locusts that harm crops in India.",
+     "a": true,
+     "why": "True. Locusts are insects that can swarm and destroy crops. Rosy starlings eat them, which helps farmers."
     }
    ]
   },
@@ -1920,11 +1947,11 @@
      "t": "mcq",
      "p": "Crows stay in Delhi through cold winters, and pied cuckoos migrate across the sea to India in the warm monsoon. What does this show?",
      "opts": [
-      "Migration follows food and conditions for raising young, not only cold",
       "Cuckoos like rain more than crows",
-      "Crows cannot fly far"
+      "Crows cannot fly far",
+      "Migration follows food and conditions for raising young, not only cold"
      ],
-     "a": 0,
+     "a": 2,
      "why": "If cold alone caused migration, crows would leave and cuckoos would stay. Both behaviours follow food, nesting and safety.",
      "outcome": 0
     },
@@ -2057,11 +2084,11 @@
      "t": "mcq",
      "p": "A bird waits at a stopover until the wind is behind her. Why?",
      "opts": [
-      "A tailwind carries her, so the flight costs less fuel",
       "She likes the wind",
+      "A tailwind carries her, so the flight costs less fuel",
       "Wind makes her feathers grow"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A tailwind pushes the bird along, so she saves energy. A headwind makes the same flight cost much more fuel.",
      "outcome": 3
     },
@@ -2104,11 +2131,11 @@
      "t": "mcq",
      "p": "About two thirds of the tidal mudflats of the Yellow Sea were lost over about 50 years. What is the most likely effect on waders that refuel there?",
      "opts": [
-      "Fewer places to feed, so fewer birds survive the journey",
       "More places to feed",
-      "No effect on birds"
+      "No effect on birds",
+      "Fewer places to feed, so fewer birds survive the journey"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Waders on that flyway refuel on the mudflats. Fewer mudflats means less food and a higher chance of falling short, and counts of several waders have dropped.",
      "outcome": 3
     },
@@ -2278,11 +2305,11 @@
      "t": "mcq",
      "p": "A scientist finds that a flock of waders arrives at a mudflat very thin and leaves two weeks later much heavier. What is the best conclusion?",
      "opts": [
-      "The mudflat is a refuelling stop where they build fat for the next stage",
       "The birds have lived there all year",
-      "The birds are ill"
+      "The birds are ill",
+      "The mudflat is a refuelling stop where they build fat for the next stage"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Gaining weight in two weeks shows they are feeding well and storing fat. That is what a refuelling stop is for.",
      "outcome": 3
     }
@@ -2295,7 +2322,8 @@
   "Health teams watch migrating waterbirds for diseases such as bird flu, because flocks can carry them between countries.",
   "Planners place wind turbines and power lines away from busy flyways and narrow bottlenecks.",
   "Citizen science projects such as eBird and Bird Count India use many people's sightings to follow migrants.",
-  "Doctors and engineers study how birds store and burn fat, and how they save energy in flight, for ideas in medicine and aircraft design."
+  "Doctors and engineers study how birds store and burn fat, and how they save energy in flight, for ideas in medicine and aircraft design.",
+  "Rosy starlings come to India in winter and eat locusts, insects that can swarm and harm crops."
  ],
  "spotted": [
   {
@@ -2560,6 +2588,67 @@
     "p1"
    ],
    "plan": "Use them on a trip to a lake in winter."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Read a Tracker's Graph: the stairs of a long journey, Save the Stopover: a plan that works for the birds and the village. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "a2",
+    "c1"
+   ],
+   "plan": "Get it before Read a Tracker's Graph: the stairs of a long journey."
+  },
+  {
+   "id": "b-modelling-clay-or-plasticine",
+   "item": "Modelling clay or plasticine",
+   "kind": "material",
+   "why": "Used in The Midnight Sun Spin: how long is a summer day in the far north?. About ₹40 to ₹120. Atta dough mixed with a little salt works.",
+   "url": "https://www.amazon.in/s?k=modelling+clay+plasticine",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before The Midnight Sun Spin: how long is a summer day in the far north?."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in The Stepping-Stone Flyway: what happens to a flock when one wetland is drained?, The Mudflat Buffet: why waders have different bills. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "e2",
+    "p1"
+   ],
+   "plan": "Get it before The Stepping-Stone Flyway: what happens to a flock when one wetland is drained?."
+  },
+  {
+   "id": "b-graph-paper",
+   "item": "Graph paper",
+   "kind": "material",
+   "why": "Used in Read a Tracker's Graph: the stairs of a long journey. About ₹10 to ₹30. Draw squares on plain paper.",
+   "url": "https://www.amazon.in/s?k=graph+paper+notebook",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Get it before Read a Tracker's Graph: the stairs of a long journey."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

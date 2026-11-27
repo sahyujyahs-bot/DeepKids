@@ -615,10 +615,10 @@
       "q": "A hider says yes to scales and yes to 4 legs. Which animal is hiding?",
       "options": [
        "Rat snake",
-       "Gecko",
-       "Frog"
+       "Frog",
+       "Gecko"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A gecko has tiny scales and 4 legs. A rat snake has scales but no legs. A frog has 4 legs but bare, wet skin."
      },
      "ask": [
@@ -973,10 +973,10 @@
       "q": "Which feature goes in the middle for you and a cow?",
       "options": [
        "4 legs",
-       "Hair",
-       "Eats only grass"
+       "Eats only grass",
+       "Hair"
       ],
-      "a": 1,
+      "a": 2,
       "why": "You and a cow both have hair, and both drank milk as babies. Only the cow walks on 4 legs and eats only plants."
      }
     }
@@ -1064,11 +1064,11 @@
       "t": "mcq",
       "q": "A crow ate rice, a banana and a moth this week. Which food group is the crow in?",
       "options": [
+       "Eats both",
        "Plant-eater",
-       "Meat-eater",
-       "Eats both"
+       "Meat-eater"
       ],
-      "a": 2,
+      "a": 0,
       "why": "Rice and banana are plant food, and a moth is an animal. A crow who eats both is an omnivore."
      }
     }
@@ -1209,10 +1209,10 @@
       "q": "Which animal can eat from both the plant tray and the meat tray?",
       "options": [
        "The cow",
-       "The crow",
-       "The star tortoise"
+       "The star tortoise",
+       "The crow"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A crow eats both plant food and animal food. The cow and the star tortoise are herbivores, so they need the plant tray."
      }
     }
@@ -1263,10 +1263,10 @@
    "p": "Which of these animals is covered in scales?",
    "opts": [
     "A frog",
-    "A rat snake",
-    "A goat"
+    "A goat",
+    "A rat snake"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A rat snake has dry scales. A frog has bare, wet skin, and a goat has hair.",
    "outcome": 0
   },
@@ -1286,11 +1286,11 @@
    "t": "mcq",
    "p": "Which animal has no legs?",
    "opts": [
-    "An earthworm",
     "A frog",
+    "An earthworm",
     "A hen"
    ],
-   "a": 0,
+   "a": 1,
    "why": "An earthworm moves by stretching and squeezing their body. A frog has 4 legs and a hen has 2.",
    "outcome": 1
   },
@@ -1298,11 +1298,11 @@
    "t": "mcq",
    "p": "A goat eats only leaves and grass. What is a goat?",
    "opts": [
-    "A herbivore",
     "A carnivore",
-    "An omnivore"
+    "An omnivore",
+    "A herbivore"
    ],
-   "a": 0,
+   "a": 2,
    "why": "An animal who eats only plants is a herbivore, a plant-eater.",
    "outcome": 2
   },
@@ -1322,11 +1322,11 @@
    "t": "mcq",
    "p": "Which is one way a crow and a cow are similar?",
    "opts": [
+    "Both have eyes and eat food",
     "Both have feathers",
-    "Both have 4 legs",
-    "Both have eyes and eat food"
+    "Both have 4 legs"
    ],
-   "a": 2,
+   "a": 0,
    "why": "Both have eyes and both eat. Only the crow has feathers, and only the cow has 4 legs.",
    "outcome": 3
   },
@@ -1334,11 +1334,11 @@
    "t": "mcq",
    "p": "Sorted by legs, who goes in the same group as you?",
    "opts": [
-    "A crow",
     "A cow",
-    "A spider"
+    "A spider",
+    "A crow"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A crow has 2 legs, like you. Humans are animals, and we share the 2-legs group with birds.",
    "outcome": 4
   },
@@ -1585,11 +1585,11 @@
      "t": "mcq",
      "p": "The Indian pangolin is covered in hard scales. A pangolin also has hair on the belly, and the mother feeds her baby milk. Which group is a pangolin in?",
      "opts": [
-      "Animals with hair who feed milk, like the cow",
       "Snakes",
-      "Birds"
+      "Birds",
+      "Animals with hair who feed milk, like the cow"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Hair and milk put the pangolin with the mammals, like cows, bats and us. The scales alone could fool you.",
      "art": "An Indian pangolin covered in brown scales, with a baby riding on her tail."
     },
@@ -1895,7 +1895,55 @@
    "why": "A large zoo where children can watch feeding times and see who eats what."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-a-magnifying-glass",
+   "item": "A magnifying glass",
+   "kind": "tool",
+   "why": "Used in Ant Lunch: do ants eat plant food, animal food, or both?. About ₹30 to ₹120. A water drop on clear plastic magnifies a little.",
+   "url": "https://www.amazon.in/s?k=magnifying+glass+kids",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before Ant Lunch: do ants eat plant food, animal food, or both?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Our Home Animal Grid. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before Our Home Animal Grid."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in Ant Lunch: do ants eat plant food, animal food, or both?. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before Ant Lunch: do ants eat plant food, animal food, or both?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "Which animals have feathers?",

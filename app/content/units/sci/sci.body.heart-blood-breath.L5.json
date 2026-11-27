@@ -42,6 +42,12 @@
    "art": "Many dots crowded on the left of a thin wall and a few on the right, with small arrows pointing from left to right."
   },
   {
+   "term": "Larynx",
+   "meaning": "The voice box, at the top of the trachea. Air passes through it, and the vocal cords inside it make sound.",
+   "example": "When you hum, you can feel your larynx buzz if you touch your throat.",
+   "art": "A side view of a child's throat with the larynx marked just above the trachea."
+  },
+  {
    "term": "Trachea (windpipe)",
    "meaning": "The tube that carries air from your throat down to your lungs. Rings of cartilage hold it open.",
    "example": "You can feel the bumpy rings of your trachea at the front of your neck.",
@@ -76,6 +82,18 @@
    "meaning": "The air in your nose, trachea and bronchi. It moves in and out with each breath, but it never reaches the alveoli, so it gives no oxygen to the blood.",
    "example": "In an adult, about 150 millilitres of each breath only fills the dead space.",
    "art": "A windpipe and its first branches shaded grey, with the air sacs beyond them left white."
+  },
+  {
+   "term": "Artery",
+   "meaning": "A blood vessel that carries blood away from the heart. It has thick, stretchy walls. The beat you feel at your wrist is an artery swelling.",
+   "example": "The aorta is the biggest artery. It carries blood from the left ventricle to the whole body.",
+   "art": "A thick red tube leaving the heart, with a pulse beat drawn at a wrist."
+  },
+  {
+   "term": "Vein",
+   "meaning": "A blood vessel that carries blood back to the heart. It has thin walls and small one-way valves.",
+   "example": "The blue-green lines on the back of your hand are veins.",
+   "art": "A hand with veins showing on the back, and a small circle showing a valve inside one."
   },
   {
    "term": "Gill",
@@ -166,6 +184,12 @@
    "meaning": "The watery liquid that leaks out of your capillaries and is collected by a second set of thin tubes. These tubes return it to the blood near the heart.",
    "example": "About 3 litres of lymph go back into an adult's blood every day.",
    "art": "A capillary with small drops leaking out between cells, and a thin pale tube beside it collecting the drops."
+  },
+  {
+   "term": "Heart attack",
+   "meaning": "A heart attack happens when an artery that feeds the heart muscle is blocked, so part of the muscle gets no oxygen. It needs a doctor at once.",
+   "example": "A grandfather has a heavy chest, sweating and pain spreading to his left arm. His family takes him to hospital straight away.",
+   "art": "A man holding his chest, with a narrowed artery shown in a small circle beside him."
   }
  ],
  "explanations": [
@@ -173,11 +197,12 @@
    "concept": "Two systems for one job",
    "status": "defined",
    "definition": "The respiratory system brings oxygen from outside to a thin, wet surface. The circulatory system carries that oxygen from the surface to the cells, and brings carbon dioxide back.",
-   "description": "Your cells use oxygen to get energy out of food, and they make carbon dioxide as they do it. Most of your cells are deep inside you, far from the air. So two jobs have to be done. Air must be brought close to the blood, and blood must be brought close to every cell. The first job belongs to the respiratory system and the second to the circulatory system. They meet in the lungs, where air and blood are less than a thousandth of a millimetre apart. Not every animal splits the work this way. An insect's air tubes do both jobs, and a flatworm is so thin that the animal needs neither system.",
+   "description": "Your cells use oxygen to get energy out of food, and they make carbon dioxide as they do it. Most of your cells are deep inside you, far from the air. So two jobs have to be done. Air must be brought close to the blood, and blood must be brought close to every cell. The first job belongs to the respiratory system and the second to the circulatory system. They meet in the lungs, where air and blood are less than a thousandth of a millimetre apart. Not every animal splits the work this way. An insect's air tubes do both jobs, and a flatworm is so thin that the animal needs neither system. Plants need oxygen too, but they have no lungs or blood. Air reaches every leaf and root through tiny pores, and the gases spread in by diffusion. A tulsi plant on a balcony takes in oxygen and gives out carbon dioxide all day and all night, just as you do. In sunlight, its green leaves also make food. While they do that, they give out more oxygen than the plant uses. Air is a mix of gases, and about one fifth of it is oxygen.",
    "examples": [
     "In you, air meets blood in about 480 million alveoli.",
     "In a fish, water meets blood on the plates of the gills.",
-    "A flatworm is as thin as paper. Oxygen spreads in through the skin and reaches every cell without lungs, gills or blood."
+    "A flatworm is as thin as paper. Oxygen spreads in through the skin and reaches every cell without lungs, gills or blood.",
+    "A tulsi plant in the dark takes in oxygen and gives out carbon dioxide, like you."
    ],
    "perspectives": [],
    "art": "A child's chest with the lungs drawn in blue and the heart and blood vessels in red, and a small circle zooming in on the place where an air sac touches a capillary."
@@ -186,11 +211,12 @@
    "concept": "The path of air, from nose to alveoli",
    "status": "defined",
    "definition": "Air goes in through the nose, down the trachea, into the two bronchi, through smaller and smaller branches, and ends in the alveoli.",
-   "description": "The nose warms the air and makes it damp. Sticky mucus on the walls of the tubes traps dust. Tiny hairs called cilia sweep that mucus up towards the throat all day. The tubes branch about 23 times, which is why the inside of a lung looks like an upside-down tree. Each alveolus is wrapped in capillaries, the thinnest blood vessels. The wall between air and blood is far thinner than a hair. Oxygen crosses this wall by diffusion. It moves from the air, where there is more oxygen, into the blood, where there is less. Carbon dioxide crosses the other way for the same reason. No part of the lung pushes the oxygen across.",
+   "description": "The nose warms the air and makes it damp. Sticky mucus on the walls of the tubes traps dust. Tiny hairs called cilia sweep that mucus up towards the throat all day. The tubes branch about 23 times, which is why the inside of a lung looks like an upside-down tree. Each alveolus is wrapped in capillaries, the thinnest blood vessels. The wall between air and blood is far thinner than a hair. Oxygen crosses this wall by diffusion. It moves from the air, where there is more oxygen, into the blood, where there is less. Carbon dioxide crosses the other way for the same reason. No part of the lung pushes the oxygen across. Before the mucus, short stiff hairs just inside the nose catch the bigger bits of dust. After the nose, air goes down the throat and through the larynx, or voice box, at the top of the trachea. Your vocal cords are inside the larynx, and they make sound when air flows past them.",
    "examples": [
     "Breathing through your nose on a cold morning in Ooty feels gentler than breathing through your mouth, because the nose warms the air first.",
     "When you cough up mucus, you are clearing dust that the cilia have swept up.",
-    "Spread flat, the alveoli of an adult would cover most of a badminton court."
+    "Spread flat, the alveoli of an adult would cover most of a badminton court.",
+    "When you hum, you can feel the buzz of your larynx with your fingers on your throat."
    ],
    "perspectives": [],
    "art": "The airways as an upside-down tree, with a magnified circle showing one air sac, its thin wall and a capillary with red blood cells in single file."
@@ -222,6 +248,19 @@
    "art": "A figure-of-eight diagram with the heart at the centre, a small pale loop to the lungs marked 'gentle push' and a large bold loop to the body marked 'strong push'."
   },
   {
+   "concept": "Arteries, veins and capillaries",
+   "status": "defined",
+   "definition": "An artery carries blood away from the heart. A vein carries blood back to the heart. Capillaries are the thinnest vessels, and join the two.",
+   "description": "Arteries have thick, stretchy, muscular walls, because the heart pushes the blood in them hard. Each beat makes an artery swell a little. That swelling is the pulse you feel at your wrist. Veins have thinner walls and small one-way valves, which stop the blood flowing backwards. The aorta is the biggest artery. It leaves the left ventricle and sends blood to the whole body. The carotid arteries run up each side of the neck to the head. The two venae cavae are the biggest veins. They bring blood from the body back to the right atrium. The pulmonary artery carries blood from the right ventricle to the lungs. The pulmonary veins bring blood from the lungs to the left atrium. Notice that the pulmonary artery carries blood that is low in oxygen. So an artery is not 'blood with oxygen', and a vein is not 'blood without oxygen'. The real difference is the direction: away from the heart, or back to it.",
+   "examples": [
+    "The pulse at your wrist is an artery swelling with each beat.",
+    "The bluish lines on the back of a grandparent's hand are veins.",
+    "The aorta leaves the left ventricle, and the venae cavae enter the right atrium."
+   ],
+   "perspectives": [],
+   "art": "The heart in the middle with a thick red tube leaving the top, labelled aorta, two blue tubes entering the right side, labelled venae cavae, and small arrows to show direction."
+  },
+  {
    "concept": "Capillaries leak, and lymph brings the liquid back",
    "status": "defined",
    "definition": "A closed circulatory system is not perfectly closed. Watery liquid leaks out of the capillaries all the time, and thin tubes called lymph vessels return it to the blood.",
@@ -233,6 +272,31 @@
    ],
    "perspectives": [],
    "art": "A capillary passing between body cells with small drops leaking out, and a thin green tube with a valve in it collecting the drops."
+  },
+  {
+   "concept": "Heart attack: when an artery to the heart is blocked",
+   "status": "defined",
+   "definition": "A heart attack happens when blood cannot get through an artery that feeds the heart muscle, so a part of the muscle runs short of oxygen.",
+   "description": "The heart is a muscle, and it needs oxygen too. Its own arteries, called coronary arteries, run over its surface. Over many years, fat from food can build up inside artery walls and make them narrow. If a blood clot then blocks the narrow place, the heart muscle beyond it gets no oxygen and starts to die. This is a heart attack. Some people call it a heart stroke, but a stroke is a blocked or burst vessel in the brain. A heart attack is more common in older people. It is more likely if a person smokes, has high blood pressure, or often eats a lot of greasy, deep-fried food. The warning signs are pain or heaviness in the chest that may spread to the left arm or the jaw, sweating, and feeling sick or breathless. A person with these signs needs a doctor at once. Call an ambulance (112 in India) or take them to the nearest hospital. Eating less fried food, keeping ghee and oil to small amounts, walking every day and not smoking all lower the chance.",
+   "examples": [
+    "A grandfather stops on the stairs with a heavy chest and sweating, and his family takes him to hospital straight away.",
+    "A narrow, fat-lined artery drawn beside a clear one."
+   ],
+   "perspectives": [],
+   "art": "Two arteries cut open, one clear and one narrowed by a yellow fatty lining with a red clot stuck in it."
+  },
+  {
+   "concept": "Looking after your lungs and heart",
+   "status": "defined",
+   "definition": "Lungs and heart stay healthy when we keep smoke away, stay active, and sometimes breathe slowly and deeply.",
+   "description": "Smoking bidi or cigarettes harms the alveoli. The smoke damages their thin walls and coats the tubes with sticky tar. Over the years, less oxygen can cross into the blood, and the person gets breathing diseases, such as a cough that never goes away. Other people's smoke harms children's lungs too. Exercise such as walking, cycling or playing kabaddi makes the heart muscle stronger, so it pushes more blood with each beat. Yoga has been practised in India for thousands of years. Doctors often advise yoga, and slow deep breathing called pranayama, as part of a healthy heart habit, because they calm the body and slow the heartbeat. A deep breath also changes more of the air in your lungs than a quiet breath does. But some air always stays, as you saw with residual air. These habits help, but they do not take the place of a doctor's advice.",
+   "examples": [
+    "A grandfather who gave up bidi finds that he coughs less after a few months.",
+    "A morning walk, a game of kabaddi or a few minutes of slow breathing before bed.",
+    "A child who has an asthma inhaler still does yoga, but follows the doctor's advice first."
+   ],
+   "perspectives": [],
+   "art": "A grandmother doing slow breathing on a mat on a terrace at sunrise while a child cycles in the lane below."
   },
   {
    "concept": "Gills: breathing water",
@@ -1086,11 +1150,11 @@
       "t": "mcq",
       "q": "In the Squirt Test, why do you squeeze three times for each set-up?",
       "options": [
-       "One squeeze can be a fluke",
        "The bottle works better when warm",
+       "One squeeze can be a fluke",
        "To use up the water"
       ],
-      "a": 0,
+      "a": 1,
       "why": "No two squeezes are exactly alike. Three tries show how much the result changes when nothing else is changed. If you chose 'works better when warm', check your own numbers to see whether the later tries really went farther."
      },
      "context": "In this step of the Squirt Test, you measure how far the bottle squirts with nothing in the way."
@@ -1323,7 +1387,7 @@
   {
    "id": "a3",
    "title": "Find a Valve in a Vein: William Harvey's finger test",
-   "mins": 10,
+   "mins": 14,
    "days": 1,
    "context": "In this activity you find a one-way valve in a vein on the back of a hand. The doctor William Harvey used this test in 1628 to show that blood in veins moves only towards the heart.",
    "materials": [
@@ -1337,7 +1401,7 @@
     }
    ],
    "safety": "Press gently with a fingertip only. Do not tie anything round an arm.",
-   "record": "Draw the back of the hand and the vein you tested. Mark where each finger pressed. Draw an arrow for the direction the blood was moving, and write how you know.",
+   "record": "Draw the back of the hand and the vein you tested. Mark where each finger pressed. Draw an arrow for the direction the blood was moving, and write how you know. Also write what you felt at your wrist, and how it was different from the vein.",
    "setup": [
     {
      "art": "An older woman's hand hanging down beside her chair, with the veins on the back of the hand standing out.",
@@ -1350,6 +1414,10 @@
     {
      "art": "A second child's finger sliding along the same vein towards the wrist while the first finger stays pressed, leaving the vein flat between them.",
      "caption": "3. With another finger, stroke the vein towards the wrist. Lift the second finger. Does the vein fill?"
+    },
+    {
+     "art": "A child pressing two fingertips on the thumb side of her own wrist, with a small heart and wavy lines to show the beats.",
+     "caption": "4. Feel your own pulse at the wrist. This is an artery."
     }
    ],
    "flow": [
@@ -1380,14 +1448,23 @@
       "t": "mcq",
       "q": "A vein in the hand stays empty until the finger nearer the fingertips is lifted. What does this show?",
       "options": [
-       "Blood in it flows towards the heart",
        "Blood in it flows towards the fingers",
+       "Blood in it flows towards the heart",
        "The vein holds no blood"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The vein filled only from the finger end, so blood enters from there and moves towards the wrist and the heart. Valves stop it from flowing back. If you chose 'towards the fingers', the vein would have filled from the wrist end."
      },
      "context": "This is the last step of Find a Valve in a Vein. You work out which way the blood moves and what stops it going back."
+    },
+    {
+     "id": "s4",
+     "mins": 4,
+     "do": "1. Hold out your own hand, palm up. 2. Lay two fingertips, not your thumb, on the thumb side of the wrist. 3. Press gently until you feel a tap. 4. Count the taps for 15 seconds. 5. Now touch a vein on the back of your hand. Do you feel taps there?",
+     "say": "This tapping is your pulse. It is a different kind of vessel from the vein we just tested. Do you feel taps in the vein?",
+     "kid": "Find the tapping on your wrist with two fingers. Count the taps. Then touch a vein on the back of your hand. Is it tapping too?",
+     "parent": "The tapping is an artery swelling each time the left ventricle pushes blood out. Arteries carry blood away from the heart, in beats. A vein has no beat, because the push is gone by the time blood reaches it. Do not press hard, and do not press on the neck.",
+     "context": "This step of Find a Valve in a Vein compares an artery with a vein. Here you feel your pulse at the wrist."
     }
    ]
   },
@@ -1540,11 +1617,11 @@
       "t": "mcq",
       "q": "Why does a tube open at both ends clear with less water than a tumbler with one opening?",
       "options": [
-       "Old water leaves before it can mix",
        "The tube is made of plastic",
+       "Old water leaves before it can mix",
        "Tubes hold dirtier water"
       ],
-      "a": 0,
+      "a": 1,
       "why": "In the tube, new water pushes old water out at the far end. In the tumbler, new water is stirred into old, and each pour throws away some of the new water too. If you chose 'plastic', try a glass tube or a steel pipe in your mind. The flow would be the same."
      },
      "context": "This is the last step of the One-Way Pipe. You compare flow through a tube with flow in and out of a tumbler."
@@ -1817,11 +1894,11 @@
       "t": "mcq",
       "q": "A child packs 60 centimetres of paper strip into a matchbox. After wetting, 20 centimetres still have air on both sides. What is the score?",
       "options": [
-       "20 centimetres",
        "60 centimetres",
-       "40 centimetres"
+       "40 centimetres",
+       "20 centimetres"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Only paper that air can reach on both sides can do the work of a breathing surface. The 40 centimetres that stuck together are like gill plates clumped in air. If you chose 60, you counted the paper that went in, not the paper that still works."
      },
      "context": "In this step of A Gill for Dry Land, you build your design, wet it and count the paper that stayed apart."
@@ -1912,11 +1989,11 @@
       "t": "mcq",
       "q": "One litre of water is put in a narrow bottle and one litre in a wide basin. Which takes in oxygen from the air faster?",
       "options": [
-       "The basin, with the wider surface",
        "The bottle, because it is deeper",
-       "Both the same, because both hold 1 litre"
+       "Both the same, because both hold 1 litre",
+       "The basin, with the wider surface"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Oxygen enters water only where water touches air. The basin has far more of that surface. If you chose 'both the same', you were thinking of how much water there is. That decides how much oxygen the water starts with, not how fast more can get in."
      },
      "context": "In this step of Carry the Fish Home, you measure the water surface of three containers that hold the same amount."
@@ -1944,12 +2021,12 @@
      "t": "mcq",
      "p": "Where does oxygen pass from the air into your blood?",
      "opts": [
-      "In the alveoli",
       "In the trachea",
       "In the heart",
-      "In the nose"
+      "In the nose",
+      "In the alveoli"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The alveoli are the tiny air sacs at the ends of the airways. Their walls are thin enough for oxygen to diffuse through. The trachea and nose only carry the air.",
      "outcome": 0
     },
@@ -1957,12 +2034,12 @@
      "t": "mcq",
      "p": "What happens to the air in your lungs during one quiet breath?",
      "opts": [
-      "All of it is changed",
       "Part of it is changed",
+      "All of it is changed",
       "None of it is changed",
       "It turns into water"
      ],
-     "a": 1,
+     "a": 0,
      "why": "A quiet breath brings in a small amount of new air, which mixes with the air that stayed in the lungs. If you chose 'all of it', remember that the lungs never empty.",
      "outcome": 1
     },
@@ -1970,12 +2047,12 @@
      "t": "mcq",
      "p": "Why do gills stop working in air?",
      "opts": [
+      "The wet plates cling together",
       "Air has no oxygen",
       "Air is too cold",
-      "The wet plates cling together",
       "Air is too light to pump"
      ],
-     "a": 2,
+     "a": 0,
      "why": "In water each thin plate floats free. In air the wet plates stick to each other, and most of the surface is lost. Air has plenty of oxygen.",
      "outcome": 2
     },
@@ -1984,11 +2061,11 @@
      "p": "How many chambers does a fish's heart have?",
      "opts": [
       "One",
-      "Two",
       "Three",
+      "Two",
       "Four"
      ],
-     "a": 1,
+     "a": 2,
      "why": "A fish's heart has one atrium and one ventricle. It pumps blood to the gills, and the blood goes straight on to the body.",
      "outcome": 4
     },
@@ -1997,11 +2074,11 @@
      "p": "Which of these animals has an open circulatory system?",
      "opts": [
       "Earthworm",
+      "Grasshopper",
       "Rohu fish",
-      "Crow",
-      "Grasshopper"
+      "Crow"
      ],
-     "a": 3,
+     "a": 1,
      "why": "A grasshopper's tube heart pumps haemolymph into the spaces of the body. The earthworm, the fish and the crow keep their blood inside vessels.",
      "outcome": 5
     },
@@ -2011,6 +2088,13 @@
      "a": false,
      "why": "False. About a litre of air stays in an adult's lungs even after the hardest breath out. It is called residual air.",
      "outcome": 1
+    },
+    {
+     "t": "truefalse",
+     "p": "A plant takes in oxygen only in the dark.",
+     "a": false,
+     "why": "False. Plant cells need oxygen day and night. In sunlight a leaf also makes oxygen, more than the plant uses, so the plant gives out extra oxygen.",
+     "outcome": 6
     },
     {
      "t": "truefalse",
@@ -2036,6 +2120,15 @@
      ],
      "why": "Air goes in through the spiracles and along the air tubes, the tracheae, to the cells.",
      "outcome": 6
+    },
+    {
+     "t": "fill",
+     "p": "Short hairs inside the nose catch big bits of ____ before the air goes on.",
+     "a": [
+      "dust"
+     ],
+     "why": "The hairs catch the bigger bits of dust, and mucus and cilia deal with the finer dust further down.",
+     "outcome": 0
     },
     {
      "t": "match",
@@ -2118,6 +2211,27 @@
      "outcome": 5
     },
     {
+     "t": "match",
+     "p": "Match each blood vessel to what it does.",
+     "pairs": [
+      [
+       "Artery",
+       "carries blood away from the heart, with a beat"
+      ],
+      [
+       "Vein",
+       "carries blood back to the heart, with valves inside"
+      ],
+      [
+       "Capillary",
+       "the thinnest vessel, where oxygen passes to the cells"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "The names tell the direction, not the oxygen. The pulmonary artery is an artery, though its blood is low in oxygen.",
+     "outcome": 0
+    },
+    {
      "t": "write",
      "p": "Air holds more oxygen than water. Explain why a fish still suffocates in air.",
      "lines": 4,
@@ -2154,12 +2268,12 @@
      "t": "mcq",
      "p": "About how much of the air deep in an adult's lungs does one quiet breath change?",
      "opts": [
-      "About one seventh",
       "About one half",
+      "About one seventh",
       "All of it",
       "None of it"
      ],
-     "a": 0,
+     "a": 1,
      "why": "About 350 millilitres of new air reaches the alveoli and mixes with roughly 2 litres already there. That is about one part in seven.",
      "outcome": 1
     },
@@ -2168,11 +2282,11 @@
      "p": "In a gill, why does blood flow against the water and not with it?",
      "opts": [
       "To cool the blood",
-      "To slow the water down",
       "So oxygen keeps crossing all along",
+      "To slow the water down",
       "To stop the gill leaking"
      ],
-     "a": 2,
+     "a": 1,
      "why": "Flowing against the water, the blood always meets water with a little more oxygen than the blood has. So oxygen crosses along the whole length.",
      "outcome": 3
     },
@@ -2206,12 +2320,12 @@
      "t": "mcq",
      "p": "What happens to the watery liquid that leaks out of your capillaries?",
      "opts": [
-      "Lymph vessels return it to the blood",
       "It is all lost as sweat",
       "It collects in the feet for good",
-      "It turns into red blood cells"
+      "It turns into red blood cells",
+      "Lymph vessels return it to the blood"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Most of the liquid goes back into the capillaries. The rest, about 3 litres a day in an adult, is collected by lymph vessels and returned near the heart.",
      "outcome": 0
     },
@@ -2265,6 +2379,13 @@
      "outcome": 4
     },
     {
+     "t": "truefalse",
+     "p": "Every artery carries blood that is full of oxygen.",
+     "a": false,
+     "why": "False. The pulmonary artery carries blood from the heart to the lungs, and that blood is low in oxygen. An artery is named by its direction, away from the heart.",
+     "outcome": 0
+    },
+    {
      "t": "order",
      "p": "A drop of blood leaves your right ventricle. Put the next four places in order.",
      "items": [
@@ -2312,6 +2433,14 @@
      "outcome": 4
     },
     {
+     "t": "write",
+     "p": "Fat builds up inside a grandfather's artery. Explain how this can cause a heart attack, and name two warning signs.",
+     "lines": 4,
+     "a": "Fat narrows the artery, and a clot can block it. The heart muscle beyond the block gets no oxygen and starts to die. Warning signs are chest pain that spreads to the left arm, and sweating.",
+     "why": "A strong answer links the blocked artery to the heart muscle's need for oxygen, and names two real signs.",
+     "outcome": 0
+    },
+    {
      "t": "label",
      "p": "Label the four chambers of this human heart.",
      "labels": [
@@ -2351,6 +2480,15 @@
      "a": "Any view with a reason from the unit. For example: blood loses its push in the gills, which matters little to a fish in water. But a bird could not fly over mountains with a single loop.",
      "why": "Each view has something right. A strong answer names what the second pump gives and what it costs, and says for whom.",
      "outcome": 4
+    },
+    {
+     "t": "fill",
+     "p": "The voice box at the top of the trachea is called the ____.",
+     "a": [
+      "larynx"
+     ],
+     "why": "Air passes through the larynx on the way to the trachea, and the vocal cords inside it make sound.",
+     "outcome": 0
     }
    ]
   },
@@ -2364,12 +2502,12 @@
      "t": "mcq",
      "p": "Lungs that mix old air with new waste part of each breath. What do they gain?",
      "opts": [
-      "A steady mixture for the blood",
       "More oxygen than a gill takes",
       "Blue blood",
-      "A faster heartbeat"
+      "A faster heartbeat",
+      "A steady mixture for the blood"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Because each breath changes only a little of the air, the oxygen and carbon dioxide next to the blood stay almost steady from breath to breath.",
      "outcome": 1
     },
@@ -2379,10 +2517,10 @@
      "opts": [
       "Icefish need no oxygen",
       "Their gills work as lungs",
-      "Very cold water holds more oxygen",
-      "They breathe through ice"
+      "They breathe through ice",
+      "Very cold water holds more oxygen"
      ],
-     "a": 2,
+     "a": 3,
      "why": "Cold water holds more dissolved oxygen, and a cold body uses less. An icefish also has a large heart that moves a great deal of blood.",
      "outcome": 6
     },
@@ -2391,11 +2529,11 @@
      "p": "An animal has air tubes that reach every cell. What might the blood not need to carry?",
      "opts": [
       "Food",
-      "Oxygen",
       "Waste",
+      "Oxygen",
       "Hormones"
      ],
-     "a": 1,
+     "a": 2,
      "why": "If air is piped straight to the cells, the blood is not needed for oxygen. It still has to carry food, waste and hormones.",
      "outcome": 6
     },
@@ -2417,12 +2555,12 @@
      "t": "mcq",
      "p": "Oxygen pressure is higher in lung air than in the blood arriving. Which way does oxygen diffuse?",
      "opts": [
-      "From air to blood",
       "From blood to air",
       "Both ways equally",
-      "It does not move"
+      "It does not move",
+      "From air to blood"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Diffusion goes from where there is more to where there is less. No pumping is needed. Carbon dioxide diffuses the other way for the same reason.",
      "outcome": 0
     },
@@ -2557,6 +2695,22 @@
      "a": "Any view with a reason from the unit. For example: in the Half-Breath Test the water never came from one pour only, so the air inside is shared between breaths. But the movements of the chest can still be counted.",
      "why": "Each view has something right. The movements of breathing are separate, and the air inside is mixed. A strong answer says which of the two it is talking about.",
      "outcome": 1
+    },
+    {
+     "t": "write",
+     "p": "A bidi seller says a few puffs do no harm. Use what you know about the alveoli to answer him.",
+     "lines": 4,
+     "a": "Alveoli have walls far thinner than a hair, and oxygen must pass through them. Smoke damages these walls and coats the tubes with tar. With time, less oxygen reaches the blood, and breathing diseases follow.",
+     "why": "A strong answer uses the thin wall of the alveolus and says what damage does to the oxygen reaching the blood.",
+     "outcome": 1
+    },
+    {
+     "t": "write",
+     "p": "A slow deep breath changes more of the air in your lungs than a quiet breath. Using the idea of residual air, say what a deep breath cannot do.",
+     "lines": 3,
+     "a": "It cannot empty the lungs. About a litre of air always stays in them, even after the hardest breath out.",
+     "why": "A strong answer keeps the idea that the lungs never empty, even in the deepest breath.",
+     "outcome": 1
     }
    ]
   }
@@ -2594,10 +2748,10 @@
    "opts": [
     "After 1 breath",
     "After 2 breaths",
-    "After 3 breaths",
-    "Never completely"
+    "Never completely",
+    "After 3 breaths"
    ],
-   "a": 3,
+   "a": 2,
    "why": "Each breath leaves half of what was there: a half, a quarter, an eighth, and so on. The amount gets too small to see, but halving never reaches zero.",
    "outcome": 1,
    "how": "e1"
@@ -2607,11 +2761,11 @@
    "p": "What holds the thin plates of a gill apart?",
    "opts": [
     "Small bones",
-    "The water between them",
     "Air bubbles",
-    "A muscle in each plate"
+    "A muscle in each plate",
+    "The water between them"
    ],
-   "a": 1,
+   "a": 3,
    "why": "The plates float free in water. This is why they cling together when a fish is lifted into air.",
    "outcome": 2
   },
@@ -2634,10 +2788,10 @@
    "opts": [
     "A crow",
     "A human",
-    "A fish",
-    "A crocodile"
+    "A crocodile",
+    "A fish"
    ],
-   "a": 2,
+   "a": 3,
    "why": "A fish has single circulation. Blood leaves the gills and goes on to the body without returning to the heart first.",
    "outcome": 4
   },
@@ -2645,12 +2799,12 @@
    "t": "mcq",
    "p": "Why does your right ventricle push more gently than your left?",
    "opts": [
+    "Lung capillaries have very thin walls",
     "It is a tired muscle",
     "Lungs need very little blood",
-    "It rests on every second beat",
-    "Lung capillaries have very thin walls"
+    "It rests on every second beat"
    ],
-   "a": 3,
+   "a": 0,
    "why": "The walls between air and blood in the lungs are extremely thin, so the blood there is kept at low pressure. All of the blood still passes through the lungs.",
    "outcome": 4
   },
@@ -2659,11 +2813,11 @@
    "p": "Where does the haemolymph of a grasshopper flow?",
    "opts": [
     "Inside capillaries",
-    "Through the body spaces, round the organs",
     "Only in the wings",
-    "Inside the air tubes"
+    "Inside the air tubes",
+    "Through the body spaces, round the organs"
    ],
-   "a": 1,
+   "a": 3,
    "why": "A grasshopper has an open circulatory system. The tube heart pumps haemolymph out into the spaces of the body.",
    "outcome": 5
   },
@@ -2671,12 +2825,12 @@
    "t": "mcq",
    "p": "What shares the work of breathing with a frog's lungs?",
    "opts": [
-    "Thin, wet skin",
     "A diaphragm",
     "Air sacs",
+    "Thin, wet skin",
     "Spiracles"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A frog's skin is thin, wet and full of capillaries, and a large share of the oxygen crosses there. Frogs have no diaphragm.",
    "outcome": 6
   },
@@ -2684,12 +2838,12 @@
    "t": "mcq",
    "p": "What do a bird's air sacs do?",
    "opts": [
+    "Push air one way through the lungs",
     "Store food for long flights",
     "Take up most of the oxygen",
-    "Push air one way through the lungs",
     "Pump blood to the wings"
    ],
-   "a": 2,
+   "a": 0,
    "why": "The air sacs are bellows. Oxygen is taken up in the stiff lungs, and the sacs keep air moving through them in one direction.",
    "outcome": 6
   },
@@ -2698,14 +2852,98 @@
    "p": "In the Squirt Test, what gave the water its push back after the cotton wool?",
    "opts": [
     "A thicker plug",
-    "A second squeeze",
     "More water",
+    "A second squeeze",
     "A longer nozzle"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The water lost its push in the plug. Only a second squeeze sent it far again. In your body, the left ventricle gives that second push.",
    "outcome": 7,
    "how": "e2"
+  },
+  {
+   "t": "mcq",
+   "p": "A doctor says: 'This vessel has thin walls and valves, and it carries blood back to the heart.' What is it?",
+   "opts": [
+    "An artery",
+    "The aorta",
+    "A vein"
+   ],
+   "a": 2,
+   "why": "Veins carry blood back to the heart, and their valves stop it flowing backwards. Arteries, such as the aorta, carry blood away from the heart.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Which is the biggest artery, leaving the left ventricle?",
+   "opts": [
+    "The aorta",
+    "The venae cavae",
+    "The trachea"
+   ],
+   "a": 0,
+   "why": "The aorta sends blood to the whole body. The venae cavae are veins that bring blood back. The trachea is not a blood vessel but a tube for air.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "A grandfather has a heavy chest, pain spreading to his left arm, and sweating. What should the family do?",
+   "opts": [
+    "Let him sleep it off",
+    "Take him to a doctor or hospital at once",
+    "Give him a heavy meal"
+   ],
+   "a": 1,
+   "why": "These can be signs of a heart attack. Part of his heart muscle may be getting no oxygen, and every minute matters. A heavy meal or sleep wastes time.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Why is smoking bidi bad for the lungs?",
+   "opts": [
+    "The smoke damages the thin walls of the alveoli, so less oxygen crosses into the blood",
+    "The smoke makes the lungs grow bigger",
+    "The smoke only makes the nose dirty"
+   ],
+   "a": 0,
+   "why": "Alveoli have very thin walls that are easily harmed. Damaged alveoli pass less oxygen to the blood, and breathing diseases follow.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Which set of habits helps keep the heart healthy?",
+   "opts": [
+    "Walking daily, yoga and less fried food",
+    "Sitting all day and eating more fried food",
+    "Smoking a little each day"
+   ],
+   "a": 0,
+   "why": "Exercise strengthens the heart, yoga and slow breathing calm the body, and less greasy food keeps the arteries clearer. Smoking harms the lungs and the blood vessels.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Air goes from the nose, down the throat, and through a part with the vocal cords on its way to the trachea. What is it?",
+   "opts": [
+    "The larynx",
+    "The alveolus",
+    "The diaphragm"
+   ],
+   "a": 0,
+   "why": "The larynx is the voice box. The alveoli are the tiny air sacs at the end of the path, and the diaphragm is the muscle under the lungs.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "A tulsi plant sits in a dark cupboard overnight. Which gas does it take in?",
+   "opts": [
+    "Oxygen",
+    "Neither, because plants do not breathe",
+    "Only carbon dioxide"
+   ],
+   "a": 0,
+   "why": "Plant cells need oxygen day and night, like ours. In the dark, the leaves cannot make food from light, so the plant gives out carbon dioxide and no extra oxygen.",
+   "outcome": 6
   }
  ],
  "videos": [
@@ -3048,6 +3286,125 @@
     "a4"
    ],
    "plan": "Read the pages on the lungs and the heart after Three Hearts on Paper, and compare the book's drawings with your own."
+  },
+  {
+   "id": "b-a-magnifying-glass",
+   "item": "A magnifying glass",
+   "kind": "tool",
+   "why": "Used in The Breather Survey: how do the animals round you move air or water?. About ₹30 to ₹120. A water drop on clear plastic magnifies a little.",
+   "url": "https://www.amazon.in/s?k=magnifying+glass+kids",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before The Breather Survey: how do the animals round you move air or water?."
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in The Squirt Test: what happens to the push after blood squeezes through capillaries?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before The Squirt Test: what happens to the push after blood squeezes through capillaries?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Half-Breath Test: how many breaths does it take to change the air in a lung?, The Squirt Test: what happens to the push after blood squeezes through capillaries?, The Paintbrush Gill: what does air do to a gill?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e2",
+    "a1",
+    "a6",
+    "c1",
+    "c2"
+   ],
+   "plan": "Get it before The Half-Breath Test: how many breaths does it take to change the air in a lung?."
+  },
+  {
+   "id": "b-a-set-of-lenses--convex-and-",
+   "item": "A set of lenses (convex and concave)",
+   "kind": "tool",
+   "why": "Used in The Breather Survey: how do the animals round you move air or water?. About ₹80 to ₹250. A magnifying glass is one convex lens.",
+   "url": "https://www.amazon.in/s?k=convex+concave+lens+set",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before The Breather Survey: how do the animals round you move air or water?."
+  },
+  {
+   "id": "b-a-small-hand-mirror",
+   "item": "A small hand mirror",
+   "kind": "material",
+   "why": "Used in The Price of Lungs: catch the water in your breath. About ₹20 to ₹80. A shiny steel plate shows reflections too.",
+   "url": "https://www.amazon.in/s?k=small+hand+mirror",
+   "used_in": [
+    "a6"
+   ],
+   "plan": "Get it before The Price of Lungs: catch the water in your breath."
+  },
+  {
+   "id": "b-food-colour",
+   "item": "Food colour",
+   "kind": "material",
+   "why": "Used in The Half-Breath Test: how many breaths does it take to change the air in a lung?. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it.",
+   "url": "https://www.amazon.in/s?k=food+colour+liquid",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before The Half-Breath Test: how many breaths does it take to change the air in a lung?."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in The Breather Survey: how do the animals round you move air or water?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before The Breather Survey: how do the animals round you move air or water?."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in The Bean Gill: does the direction of flow matter?. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Get it before The Bean Gill: does the direction of flow matter?."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in A Gill for Dry Land: pack wet surface into a matchbox without letting it stick. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before A Gill for Dry Land: pack wet surface into a matchbox without letting it stick."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

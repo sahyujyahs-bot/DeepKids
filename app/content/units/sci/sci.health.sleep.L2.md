@@ -1,9 +1,9 @@
 # Sleep: why we need it, and how a bedtime routine helps
 `sci.health.sleep.L2`
 
-**Summary.** Learn eight picture pairs at bedtime, and most are still in your head in the morning. Is that the sleep? In this unit you will test your memory across a night and across a day, sort bedtime habits in a game, and make your own bedtime routine.
+**Summary.** Learn eight picture pairs at bedtime, and most are still in your head in the morning. Is that the sleep? In this lesson you will test your memory across a night and across a day, sort bedtime habits in a game, and make your own bedtime routine.
 
-**Intro.** *Think about last night. You lay down and closed your eyes. The next thing you knew, it was morning. What was your body doing all that time?* Most children say 'nothing'. But a sleeping body is busy. In this unit we test what happens to things you learn when you sleep on them. We find out which animals sleep, and how. We also learn why we need sleep at all, and how a bedtime routine helps you fall asleep.
+**Intro.** *Think about last night. You lay down and closed your eyes. The next thing you knew, it was morning. What was your body doing all that time?* Most children say 'nothing'. But a sleeping body is busy. In this lesson we test what happens to things you learn when you sleep on them. We find out which animals sleep, and how. We also learn why we need sleep at all, and how a bedtime routine helps you fall asleep.
 
 ## Learning outcomes
 0. By the end I can say three things sleep does: it helps my body grow, it helps my body mend and fight germs, and it helps me keep what I learned.
@@ -396,7 +396,7 @@ Nila thought about that. Then she ran to tell Sachin. 'Sachin! Your brain works 
 7. (label) Here is a child's bedroom at night. Write 'block' next to each light that could keep the child awake. Say your labels, and a grown-up writes them.  
    **Answer:** 'Block' next to the wifi box light, the phone screen, the streetlight at the curtain edge and the open door to the bright hall.. *Why:* Any light near the bed can tell the body it is still day. Covering small lights and closing curtains and doors makes the room dark.
 8. (mcq) In the picture-pairs test, both sets had 8 pairs and both were learned twice. Why?  
-   Options: So the only thing that changes is awake or asleep / So the cards last longer / Because 8 is a lucky number  
+   Options: So the cards last longer / Because 8 is a lucky number / So the only thing that changes is awake or asleep  
    **Answer:** So the only thing that changes is awake or asleep. *Why:* In a fair test, only one thing changes. Here it is whether the hours after learning are spent awake or asleep.
 9. (perspective) Two cousins in Madurai talk about bedtime. The first person is 8. The second person is a girl of 7.  
    **Answer:** A strong answer picks a side with a reason, for example: 'The second person, because studies find children with screens in bed sleep later and less.' Then it is fair to the first person: a show can feel calming, and scientists still argue about how much the light itself matters.. *Why:* Both have a point. Most studies agree with the second person, but the first person is right that feeling calm matters for sleep.
@@ -410,7 +410,7 @@ Nila thought about that. Then she ran to tell Sachin. 'Sachin! Your brain works 
 3. (draw) Some plants fold their leaves at night. Draw a tamarind or touch-me-not branch in the day, and the same branch at night.  
    **Answer:** The day branch has leaves spread open. The night branch has the leaves folded together.. *Why:* Darwin called this 'sleep movements'. A strong drawing shows the same branch twice, open and then folded.
 4. (mcq) A boy of 8 sleeps at 9 on school nights and at midnight on Saturday. Why might Sunday night be hard for him?  
-   Options: His body clock moved later, so he is not sleepy at 9 on Sunday / He has too much sleep stored up / Sunday nights are always longer  
+   Options: He has too much sleep stored up / Sunday nights are always longer / His body clock moved later, so he is not sleepy at 9 on Sunday  
    **Answer:** His body clock moved later, so he is not sleepy at 9 on Sunday. *Why:* A very late night moves the body clock later. On Sunday night, his body is not ready to sleep at the usual time.
 5. (truefalse) Humans are animals, and nearly every other animal that scientists have studied also sleeps.  
    **Answer:** True. *Why:* True. Scientists have found sleep, or a rest like sleep, in mammals, birds, fish, fruit flies, bees, worms and jellyfish.
@@ -419,7 +419,7 @@ Nila thought about that. Then she ran to tell Sachin. 'Sachin! Your brain works 
 7. (sort) Sort these by who usually needs the most sleep: a newborn baby, a child of 7, a grown-up.  
    **Answer:** newborn baby → Most; child of 7 → Middle; grown-up → Least. *Why:* Babies need about 14 to 17 hours a day, children of 6 to 12 about 9 to 12 hours, and most grown-ups at least 7.
 8. (mcq) A girl in Class 2 did the Yawn Test. She yawned 4 times while watching yawns and once while watching smiles. What does this show?  
-   Options: Seeing a yawn made her yawn more / Smiling makes you sleepy / Yawns cannot spread  
+   Options: Smiling makes you sleepy / Seeing a yawn made her yawn more / Yawns cannot spread  
    **Answer:** Seeing a yawn made her yawn more. *Why:* She yawned more while watching yawns. Many people yawn after seeing a yawn. This is called contagious yawning.
 9. (perspective) The first person is a girl of 7 in Chennai, who sleeps at night. The second person is her mother, a nurse who works at night and sleeps in the day.  
    **Answer:** A strong answer picks a view with a reason, for example: 'The second person, because the body clock can learn a new time, and bats sleep in the day.' Then it is fair to the first person: night is the easiest time for most humans, and night workers often find it harder to sleep well.. *Why:* Most humans sleep best at night, but bodies can shift, and other animals sleep at other times. Each view has part of the truth.
@@ -436,31 +436,31 @@ Nila thought about that. Then she ran to tell Sachin. 'Sachin! Your brain works 
    Options: About 4 to 5 hours / About 9 to 12 hours / About 18 to 20 hours  
    **Answer:** About 9 to 12 hours. *Why:* Children aged 6 to 12 need about 9 to 12 hours. Newborn babies sleep more, and grown-ups need at least 7.
 2. (mcq) Your body makes most of its growth hormone at one time. When?  
-   Options: In deep sleep, soon after falling asleep / While eating lunch / While running fast  
+   Options: While eating lunch / In deep sleep, soon after falling asleep / While running fast  
    **Answer:** In deep sleep, soon after falling asleep. *Why:* Most growth hormone is made in deep sleep, early in the night. That is one reason children need long, good sleep.
 3. (mcq) You learn a new song at bedtime and sleep well. What is most likely in the morning?  
-   Options: You have forgotten all of it / You remember it well, maybe better than at bedtime / You can only sing it backwards  
+   Options: You have forgotten all of it / You can only sing it backwards / You remember it well, maybe better than at bedtime  
    **Answer:** You remember it well, maybe better than at bedtime. *Why:* Sleep helps the brain keep what you learned that day. Many people find a new song or step comes out easier after a night's sleep.
 4. (mcq) In the picture-pairs test, why did we test each set straight after learning it too?  
    Options: To see how many pairs you knew at the start, so we can count how many were lost / To make the test longer / Because the cards get tired  
    **Answer:** To see how many pairs you knew at the start, so we can count how many were lost. *Why:* Counting at the start and later tells us how many pairs were lost. Then the two sets can be compared fairly, even if one was learned better.
 5. (mcq) Which of these is a sign that someone is sleepy?  
-   Options: Yawning and rubbing their eyes / Jumping up and down / Laughing at a joke  
+   Options: Jumping up and down / Laughing at a joke / Yawning and rubbing their eyes  
    **Answer:** Yawning and rubbing their eyes. *Why:* Yawning, rubbing eyes, feeling cross and finding it hard to pay attention are signs of being sleepy.
 6. (mcq) A child went to bed very late. What will the child most likely be like the next day?  
    Options: Cross, slow and forgetful / Full of energy all day / Exactly the same as always  
    **Answer:** Cross, slow and forgetful. *Why:* Too little sleep makes people cranky, slow to react and forgetful. It also makes it easier to catch a cold.
 7. (mcq) At night, a honeybee rests very still. What happens to her antennae?  
-   Options: They droop / They stand straight up / They fall off  
+   Options: They stand straight up / They droop / They fall off  
    **Answer:** They droop. *Why:* Honeybees that are resting or asleep keep still and their antennae droop. Scientists first noticed this in the 1980s.
 8. (mcq) Upside-down jellyfish have a net of nerves instead of a brain. At night they pulse more slowly and are slower to respond. After being kept awake all night, they are sleepy the next day. What does this suggest?  
-   Options: The jellyfish never rests / Something like sleep does not need a brain / The jellyfish sleeps only in winter  
+   Options: Something like sleep does not need a brain / The jellyfish never rests / The jellyfish sleeps only in winter  
    **Answer:** Something like sleep does not need a brain. *Why:* Slowing down at night, responding slowly, and being sleepy after a night kept awake are all signs of sleep. So a sleep-like rest does not need a brain.
 9. (mcq) Which bedtime step helps your body clock most?  
-   Options: Going to bed at the same time every night / Having a different bedtime every night / Watching a bright screen in bed  
+   Options: Having a different bedtime every night / Going to bed at the same time every night / Watching a bright screen in bed  
    **Answer:** Going to bed at the same time every night. *Why:* Your body clock learns your bedtime, and makes you sleepy near it. A different time every night confuses it.
 10. (mcq) A child's room has a bright tube light on until the child falls asleep. What would help the child most?  
-   Options: Switching to a dim lamp, then lights off / A brighter light / A loud radio  
+   Options: A brighter light / A loud radio / Switching to a dim lamp, then lights off  
    **Answer:** Switching to a dim lamp, then lights off. *Why:* Bright light tells the body it is still day. Dim light, then dark, tells the body night has come.
 11. (mcq) What does your body clock do?  
    Options: It makes you sleepy at night and awake in the morning / It tells you the time on the wall / It makes you grow taller  
@@ -473,9 +473,9 @@ Nila thought about that. Then she ran to tell Sachin. 'Sachin! Your brain works 
 - Many schools think about start times, because children who sleep enough learn better.
 
 ## Spotted around us
-- Crows flying in long lines to big trees at dusk, over Chennai, Kolkata, Bengaluru and Mumbai.
+- Crows flying in long lines to big trees at dusk.
 - Fruit bats hanging upside down in big trees by day, in parks and campuses in many Indian cities.
-- People taking an afternoon nap after lunch in summer, from Kerala to Gujarat.
+- People taking an afternoon nap after lunch in summer.
 - Night trains full of sleeping passengers on their berths, with the blue night light on.
 - Touch-me-not plants, and tamarind and rain trees, folding their leaves in the evening.
 
@@ -514,10 +514,13 @@ Lights Down, Moon Up (sci.health.L2): Topic-level song for Health and well-being
 - [Sleep and tiredness, from the NHS](https://www.nhs.uk/live-well/sleep-and-tiredness/) · interactive: For the parent: plain advice on sleep and tiredness from the UK health service.
 - [Why am I so tired? from KidsHealth](https://kidshealth.org/en/kids/not-tired.html) · interactive: For the child, read together: a short page on why kids need sleep and how to get more.
 - [Sleep Foundation: children and sleep](https://www.sleepfoundation.org/children-and-sleep) · interactive: For the parent: sleep hours by age and tips for screens at bedtime.
-- [Nehru Planetarium]() · place · Mumbai, Delhi and Bengaluru: Sit under a night sky show and talk about why our bodies get sleepy when it gets dark.
-- [Guindy National Park]() · place · Chennai: Visit late in the afternoon and watch birds settle into the trees as evening comes.
+- Nehru Planetarium · place · Mumbai, Delhi and Bengaluru: Sit under a night sky show and talk about why our bodies get sleepy when it gets dark.
+- Guindy National Park · place · Chennai: Visit late in the afternoon and watch birds settle into the trees as evening comes.
 
 ## Things to buy
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in The Dark Room Hunt: find every light at bedtime. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in a2. Get it before The Dark Room Hunt: find every light at bedtime.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Ask the Family: who sleeps how long?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in p1. Get it before Ask the Family: who sleeps how long?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - How many hours of sleep does a child of 7 need? → About 9 to 12 hours.

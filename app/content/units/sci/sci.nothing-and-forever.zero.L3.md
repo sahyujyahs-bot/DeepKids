@@ -1,7 +1,7 @@
 # Zero: the number for none, and the mark that holds an empty place
 `sci.nothing-and-forever.zero.L3`
 
-**Summary.** Write 520, leave out the 0, and most people read 52. So what does zero do? In this unit you will hunt for zeros at home, use katoris and beans to see why the 0 matters in a number, and test what happens when it goes missing.
+**Summary.** Write 520, leave out the 0, and most people read 52. So what does zero do? In this lesson you will hunt for zeros at home, use katoris and beans to see why the 0 matters in a number, and test what happens when it goes missing.
 
 **Intro.** *Try this. Write 52 on a chit. Leave a space after it, as wide as one digit. Show it to someone at home and ask them to read it. Did they say fifty-two? You meant five hundred and twenty. What went missing?* The space you left meant 'no ones here'. But a blank space is invisible, so the reader saw only 52. For thousands of years, people wrote numbers with gaps like this and made mistakes like this. Indian mathematicians solved it with a small sign for 'none'. They called it shunya, which means empty in Sanskrit. We call it zero, and today it is written in every country in the world.
 
@@ -27,6 +27,7 @@
 - **Negative number**: A negative number is less than zero. It is written with a minus sign, like -2. Brahmagupta called negative numbers debts. *e.g.* In a lift, the button B1 is one floor below the ground floor, so it is like -1.
 - **Zero mark**: The zero mark is where measuring starts on a ruler, a scale or a thermometer. *e.g.* On many rulers, the zero mark is a little in from the edge.
 - **Abacus**: An abacus is a counting frame. Beads on each rod or in each row stand for ones, tens or hundreds. *e.g.* A rod with no beads pushed up shows an empty place, like a 0.
+- **Vacuum**: A vacuum is a space with almost nothing in it, not even air. Sound cannot travel through a vacuum. *e.g.* Space between the stars is almost a vacuum. A flask keeps tea hot partly because there is almost no air in a layer between its walls.
 
 ## Explanations
 ### Zero means none · *defined*
@@ -85,6 +86,7 @@ Zero is not the bottom of the numbers. A lift goes from the ground floor, G, dow
 An empty bottle is full of air. Space is far emptier. Between the stars there is only about one atom in a space the size of a sugar cube, and light passes through it. Physicists have found that even a space with no atoms at all is not perfectly still. It holds a tiny amount of energy that they have measured. So nobody has ever found a place with exactly nothing in it. Whether a perfect nothing can exist anywhere is still an open question.
 - e.g. Push an upside-down 'empty' tumbler into a bucket of water: the air inside stops the water coming in.
 - e.g. Between the stars, there is about one atom in a space the size of a sugar cube.
+- e.g. A rest in a song is a beat with no sound, yet the singers count it just like a note. A 'silent' minute in a classroom is full of fan hum, bird calls and breathing.
 ### Do animals understand zero? · *debated*
 A honeybee visits many flowers in one trip, so she must judge quickly which patch has more flowers. In 2018, scientists in Melbourne, Australia, trained honeybees to choose the card with fewer shapes. Then they showed the bees a blank card and a card with one shape. The bees chose the blank card as the one with fewer. In 2021, scientists in Germany found brain cells in crows that respond when there are no dots at all. Scientists disagree about what this means.
 - e.g. Bees chose a blank card as 'fewer' than a card with one dot.
@@ -433,6 +435,28 @@ I showed him. He did it wrong at first. He kept leaving gaps.
   *Parent says:* Brahmagupta called numbers below zero debts. If you owe 3 rupees and have nothing, you have minus 3.  
   *Child mode:* Brahmagupta called numbers below zero debts. Owing 3 rupees is like having -3.
   - Check: In Leh it is 2 °C in the evening. By night it is 5 degrees colder. What is the temperature now? → **-3 °C**
+### old1 · Listening to Nothing: what do you hear in a silent minute? (10 min)
+- **problem:** There is almost never perfect silence at home. In this activity you listen for one minute, write down what you hear, and then write a clapped rhythm with 0 for each rest. A zero is a way to write 'nothing here', and it still counts.
+- **record:** A list of the sounds in your silent minute, and two rhythms written with a dot for each clap and a 0 for each rest.
+- **s1 (3 min)**  
+  *Parent does:* 1. Sit cross-legged on the floor, back straight, hands on your knees. 2. Close your eyes. 3. Set a timer for one minute. 4. Stay as still as a statue and listen. Make no sound.  
+  *Parent says:* For one minute, we do not move and we do not speak. Just listen.  
+  *Child mode:* Close your eyes. Stay still and listen for one minute. Make no sound.
+- **s2 (2 min)**  
+  *Parent does:* Open your eyes. Your child writes down every sound they heard, such as a fan, a horn, a bird or their own breathing.  
+  *Parent says:* There was no talking, but was there silence? What did you hear?  
+  *Child mode:* Write down every sound you heard.
+  - Ask: Was the minute really silent? (good: No. I heard a fan and a horn.; I heard my own breathing.)
+  - Note: There is no perfect silence in a flat. Even a very quiet room has the sound of your own body.
+- **s3 (3 min)**  
+  *Parent does:* 1. Clap this rhythm together: clap, clap, rest, clap. 2. On the rest, open your hands without a sound. 3. Do it four times. 4. Write the rhythm in the notebook with a dot for each clap and a 0 for each rest.  
+  *Parent says:* A rest is a beat with no sound. We write it with a 0, because the beat is there, but there is nothing in it.  
+  *Child mode:* Clap, clap, rest, clap. Do it four times. Write it as dot, dot, 0, dot.
+  - Ask: Why do we write a 0 for a rest, and not leave a gap? (good: Without the 0, we would lose the beat.; The rest is still a beat, even with no sound.)
+- **s4 (2 min)**  
+  *Parent does:* Your child makes up a rhythm with one rest. Clap it and write it. Then make up one with three rests. Clap it and write it. Ask which one sounded more different.  
+  *Parent says:* Now make your own rhythm. First with one rest, then with three rests. Which one sounds more different?  
+  *Child mode:* Make a rhythm with one rest. Write it. Make one with three rests. Write it. Which sounds more different?
 
 ## Projects
 ### p1 · Zero's journey: a map and a timeline (40 min, 2 days)
@@ -504,7 +528,7 @@ I showed him. He did it wrong at first. He kept leaving gaps.
 5. (write) Look at your own results from the missing zero test. Which card was read wrong most often? Write what the readers said and what you meant.  
    **Answer:** The answer comes from the child's own table. A strong answer names a card with a blank at the end, gives the number the readers said, such as 52, and the number meant, such as 520.. *Why:* A strong answer uses the real numbers from the table, not a guess.
 6. (mcq) What is 6 - 0?  
-   Options: 0 / 6 / 60 / There is no answer  
+   Options: 0 / 60 / There is no answer / 6  
    **Answer:** 6. *Why:* Taking away nothing leaves what you had. That is one of Brahmagupta's rules.
 7. (sort) Sort each sum by its answer.  
    **Answer:** 5 + 0 → The answer is 5; 5 × 0 → The answer is 0; 0 × 5 → The answer is 0; 5 - 0 → The answer is 5; 5 - 5 → The answer is 0; 0 + 5 → The answer is 5. *Why:* Adding or taking away zero leaves 5. Multiplying by zero gives 0 every time. 5 - 5 takes away everything, so it leaves 0.
@@ -537,10 +561,10 @@ I showed him. He did it wrong at first. He kept leaving gaps.
 4. (perspective) Two people are arguing about 12 ÷ 0.  
    **Answer:** A strong answer agrees with the teacher: no number times 0 gives 12, so there is no answer. It gives Bhaskara his due: dividing by smaller and smaller numbers does give bigger and bigger answers, like 12 ÷ 0.1 = 120.. *Why:* Bhaskara saw a real pattern. But infinity is an idea of going on for ever, not a number you can check by multiplying.
 5. (mcq) About 2,300 years ago, scribes in Babylon put a mark for an empty place in the middle of a number, but never at the end. Which pair of numbers would look the same in their writing?  
-   Options: 2 and 20 / 203 and 230 / 12 and 21 / 105 and 150  
+   Options: 203 and 230 / 2 and 20 / 12 and 21 / 105 and 150  
    **Answer:** 2 and 20. *Why:* With no mark at the end, 20 would be written just like 2. A reader had to guess from the writing around the number. A middle gap had a mark, so 203 and 230 could be told apart.
 6. (sort) Sort these zeros by the job they do.  
-   **Answer:** the score before a match starts → Zero as the number for none; the 0 in 1,08,000 → Zero holding an empty place; the 0 mark on a ruler → Zero as a starting point; 0 °C on a thermometer → Zero as a starting point; the 0 in 50 rupees → Zero holding an empty place; 10 - 10 → Zero as the number for none. *Why:* Zero has three jobs in this unit. The 0 mark and 0 °C are chosen starting points. A 0 inside a number holds a place. A score of 0 or 10 - 10 means none.
+   **Answer:** the score before a match starts → Zero as the number for none; the 0 in 1,08,000 → Zero holding an empty place; the 0 mark on a ruler → Zero as a starting point; 0 °C on a thermometer → Zero as a starting point; the 0 in 50 rupees → Zero holding an empty place; 10 - 10 → Zero as the number for none. *Why:* Zero has three jobs in this lesson. The 0 mark and 0 °C are chosen starting points. A 0 inside a number holds a place. A score of 0 or 10 - 10 means none.
 7. (write) Many people think 0 °C means there is no heat at all. Write what 0 °C really means, and give one reason you know it is not 'no heat'.  
    **Answer:** 0 °C is the temperature where water freezes. It is a starting point people chose. It is not 'no heat', because places like Leh get much colder than 0 °C, so there must be more heat to lose.. *Why:* A strong answer says that 0 °C was chosen, and uses a fact like temperatures below zero to show that heat is still there.
 8. (fill) Zero is the number for ____: an empty plate has zero dosas.  
@@ -566,7 +590,7 @@ I showed him. He did it wrong at first. He kept leaving gaps.
 2. (write) Roman numbers had no zero. Indian numbers, with zero, came to be used across the world. Think of how 305 is written as CCCV in Roman numbers. Why do you think the Indian numbers won?  
    **Answer:** Open answer. A strong answer says that with place value, ten digits can write any number, and the 0 keeps places, so the numbers are short and easy to add on paper. Roman signs need a new sign for every size.. *Why:* A strong answer compares how long and how easy the two ways of writing 305 are.
 3. (mcq) Bees learn to pick the card with fewer shapes. Then they are shown a blank card and a card with one shape. If they pick the blank card, what might that tell us?  
-   Options: They may treat none as less than one / They cannot see blank cards / They always like one shape best / They were not hungry  
+   Options: They cannot see blank cards / They always like one shape best / They were not hungry / They may treat none as less than one  
    **Answer:** They may treat none as less than one. *Why:* Picking the blank card as 'fewer' would mean they put none below one. Scientists still argue whether that means bees understand zero, or just 'less'.
 4. (write) Scientists argue about the bee test. What extra test could show whether bees understand 'none', or just choose 'less stuff'?  
    **Answer:** Open answer. A strong answer suggests a test where 'less stuff' and 'fewer things' give different answers. For example, a card with one big shape and a card with two tiny shapes.. *Why:* Good science designs a test where the two ideas predict different results.
@@ -575,7 +599,7 @@ I showed him. He did it wrong at first. He kept leaving gaps.
 6. (write) Brahmagupta said a debt taken away from zero becomes a fortune. Explain this using money. Hint: if someone takes away your debt of ₹10, are you richer or poorer?  
    **Answer:** If I have ₹0 but owe ₹10, I have -10. If my debt is taken away, I no longer owe anything, so I am ₹10 better off. Taking away -10 is like adding 10: 0 - (-10) = 10.. *Why:* A strong answer uses a real example of owing and paying back.
 7. (mcq) On the original thermometer scale Anders Celsius made in 1742, water boiled at 0 and froze at 100. Later the scale was turned round. What does this show?  
-   Options: Where zero goes on a scale is chosen by people / Water used to boil at a different temperature / Celsius made a mistake with his thermometer / Zero always means the coldest  
+   Options: Water used to boil at a different temperature / Celsius made a mistake with his thermometer / Where zero goes on a scale is chosen by people / Zero always means the coldest  
    **Answer:** Where zero goes on a scale is chosen by people. *Why:* The zero on a temperature scale is a starting point people choose. The water did not change. Only the numbers we put on it did.
 8. (draw) Draw a number line from -5 to 5. A night in Leh starts at 3 °C, drops 4 degrees, then rises 2 degrees. Mark where it ends.  
    **Answer:** A line with -5 to 5 evenly spaced, and a mark on 1.. *Why:* From 3, going down 4 reaches -1. Going up 2 reaches 1. A strong drawing has equal gaps between the numbers.
@@ -597,19 +621,19 @@ I showed him. He did it wrong at first. He kept leaving gaps.
    **Answer:** Open answer. A strong answer separates the sign 0, which people did invent, from the idea of none, which bees may also have. It gives each friend a fair point.. *Why:* Philosophers and mathematicians still argue about whether numbers are invented or found. There is no single right answer.
 
 ## Videos
-- **Why can't you divide by zero?** (TED-Ed, 5 min) id `NKmGVE85GUU`: A clear cartoon explaining why dividing by zero has no answer, using the same check as this unit: division must undo multiplication. Best watched with a parent after the beans activity. *Check:* Id and title confirmed through YouTube's public oEmbed lookup (title 'Why can't you divide by zero? - TED-Ed', channel TED-Ed). Not watched from here, so the length is a guess and a parent should preview it.
+- **Why can't you divide by zero?** (TED-Ed, 5 min) id `NKmGVE85GUU`: A clear cartoon explaining why dividing by zero has no answer, using the same check as this lesson: division must undo multiplication. Best watched with a parent after the beans activity. *Check:* Id and title confirmed through YouTube's public oEmbed lookup (title 'Why can't you divide by zero? - TED-Ed', channel TED-Ed). Not watched from here, so the length is a guess and a parent should preview it.
 - **A Big Zero: Research uncovers the date of the Bakhshali manuscript** (University of Oxford, 3 min) id `pV_gXGTuWxY`: Shows the real Bakhshali manuscript and its dot zeros, and how the library carbon-dated it in 2017. Watch with the card on the Bakhshali debate, because other historians disagree with the dates. *Check:* Id and title confirmed through YouTube's public oEmbed lookup (title 'A Big Zero: Research uncovers the date of the Bakhshali manuscript', channel University of Oxford). Not watched from here: a parent should preview it. It gives the library's view only.
 - **Problems with Zero** (Numberphile, 8 min) id `BRRolKTlF6Q`: For the parent and curious older children: a mathematician explains why 1 ÷ 0 and 0 ÷ 0 cause trouble, with handwritten working. *Check:* Id and title confirmed through YouTube's public oEmbed lookup (title 'Problems with Zero - Numberphile', channel Numberphile). Not watched from here, so the length is a guess. It goes beyond Class 3, so a parent should watch first.
 
 ## Quiz
 1. (mcq) A plate has no dosas on it. How many dosas are on the plate?  
-   Options: One / Zero / We can't say, because there are none  
+   Options: Zero / One / We can't say, because there are none  
    **Answer:** Zero. *Why:* Zero is the number for none. It is a real answer to 'how many?'. Picking 'we can't say' means thinking that none is not a number.
 2. (mcq) You write 520 but forget the 0. What number have you written?  
-   Options: 52, which is ten times smaller / 520, because the 0 means nothing / 502  
+   Options: 520, because the 0 means nothing / 52, which is ten times smaller / 502  
    **Answer:** 52, which is ten times smaller. *Why:* Without the 0, the 5 and 2 slide into the tens and ones places, so the number becomes 52. The 0 adds nothing to count, but it keeps the digits in their places.
 3. (mcq) In the missing zero test, a reader is shown the card '52' with a blank space after it. The writer meant 520. What will the reader most likely say?  
-   Options: Five hundred and twenty / Fifty-two / Five hundred and two  
+   Options: Five hundred and twenty / Five hundred and two / Fifty-two  
    **Answer:** Fifty-two. *Why:* A blank at the end of a number looks like ordinary paper, so the reader sees only 52. That is why a 0 is needed at the end of a number.
 4. (mcq) What is 9 + 0?  
    Options: 0 / 9 / 90  
@@ -618,7 +642,7 @@ I showed him. He did it wrong at first. He kept leaving gaps.
    Options: 7 / 0 / 70  
    **Answer:** 0. *Why:* 7 × 0 = 0. Seven groups of nothing is nothing. Picking 7 means counting the plates instead of the murukkus.
 6. (mcq) You type 8 ÷ 0 on a calculator. What will it show?  
-   Options: 0 / 8 / An error, because there is no answer  
+   Options: 0 / An error, because there is no answer / 8  
    **Answer:** An error, because there is no answer. *Why:* 8 ÷ 0 asks what number times 0 gives 8. Every number times 0 is 0, so no number works. Picking 0 is the mistake Brahmagupta made for 0 ÷ 0.
 7. (mcq) Zero is a number with its own rules. Which rule is right?  
    Options: 5 × 0 = 0 / 5 × 0 = 5 / 5 × 0 = 50  
@@ -627,7 +651,7 @@ I showed him. He did it wrong at first. He kept leaving gaps.
    Options: Zero is how many things are on an empty plate / Zero is a very big number / Zero is the shape of a circle  
    **Answer:** Zero is how many things are on an empty plate. *Why:* Zero is the number for none, like the dosas on an empty plate. The round shape of 0 is only how we write it.
 9. (mcq) You measure a pencil from the very edge of a ruler. The 0 mark is 5 mm in from the edge. What happens?  
-   Options: The answer is 5 mm too long / The answer is 5 mm too short / It makes no difference  
+   Options: The answer is 5 mm too short / The answer is 5 mm too long / It makes no difference  
    **Answer:** The answer is 5 mm too long. *Why:* The strip before the 0 is not part of the length scale. Starting at the edge adds it to every measurement, so each length is 5 mm too long.
 10. (mcq) A lift has the buttons B2, B1, G, 1, 2. If G is 0, what number is B1?  
    Options: 1 / -1 / 0  
@@ -650,7 +674,7 @@ I showed him. He did it wrong at first. He kept leaving gaps.
 - The 0 on the phone keypad, and the zeros in your pin code.
 - The G button in a lift, standing for the ground floor, with B1 and B2 below it.
 - A cricket scorebook with rows of dots for balls with no runs.
-- The weather report on TV showing below-zero temperatures in Leh or Srinagar in winter.
+- The weather report on TV showing below-zero temperatures in a cold place in winter.
 - The 0 mark at the start of a ruler, and the zero button on a kitchen scale.
 - Price tags like ₹100 and ₹1,000 in a shop, where the zeros hold the tens and hundreds places.
 - Notes and coins: a ₹10, ₹20, ₹50, ₹100 and ₹500 note each use a 0 to hold a place.
@@ -694,12 +718,19 @@ Nothing and Forever (sci.nothing-and-forever.L3): Topic-level song for Nothing a
 - [PhET Make a Ten](https://phet.colorado.edu/en/simulations/make-a-ten) · simulation: A free simulation for building numbers from ones, tens and hundreds, like the katori abacus.
 - [Number Pieces, from the Math Learning Center](https://apps.mathlearningcenter.org/number-pieces/) · interactive: Free online place-value blocks. Build 205 and 250 and see how the empty place shows.
 - [Chaturbhuj Temple, Gwalior Fort](https://www.mptourism.com) · place · Gwalior: The small temple whose stone of 876 shows the oldest dated round zero in India, in the number 270.
-- [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A science museum with hands-on galleries, good for a day out after this unit.
+- [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A science museum with hands-on galleries, good for a day out after this lesson.
 - [Bodleian Libraries, University of Oxford](https://www.bodleian.ox.ac.uk) · interactive: The library that keeps the Bakhshali manuscript. Search the site for 'Bakhshali' to see photos of its dot zeros.
 
 ## Things to buy
 - [Zero Is the Leaves on the Tree, by Betsy Franco (picture book)](https://www.amazon.in/s?k=Zero+Is+the+Leaves+on+the+Tree) (book): Short pictures of zero in everyday life, like an empty swing and a bare tree. Good after the zero hunt. Borrowing works just as well. Used in a1. 
 - [Zero: The Biography of a Dangerous Idea, by Charles Seife (for the parent)](https://www.amazon.in/s?k=Zero+The+Biography+of+a+Dangerous+Idea) (book): The history of zero, from Babylon to India to Europe, told for grown-ups. Read the chapters on India and on dividing by zero before the project. Used in p1. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in Where does the ruler start?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e2. Get it before Where does the ruler start?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Where does the ruler start?. About ₹10 to ₹30. Any school ruler is fine. Used in e2. Get it before Where does the ruler start?.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in Zero's journey: a map and a timeline. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in p1. Get it before Zero's journey: a map and a timeline.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Build an abacus that can show 1,005. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c2. Get it before Build an abacus that can show 1,005.
+- [Wooden ice-cream sticks (a pack)](https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack) (material): Used in Build an abacus that can show 1,005. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in. Used in c2. Get it before Build an abacus that can show 1,005.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The katori abacus, Brahmagupta's rules with beans. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a2, a3. Get it before The katori abacus.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is 7 + 0? → 7.
@@ -714,7 +745,7 @@ Nothing and Forever (sci.nothing-and-forever.L3): Topic-level song for Nothing a
 
 ## Plan
 - Start options: intro, a1, e1, story, a2, g1, big_questions
-- Default order: intro → a1 → a2 → e1 → explanations → story → summary → terms → a3 → g1 → ws-core → videos → agreed → challenging → a4 → a5 → e2 → g2 → ws-stretch → p1 → c1 → c2 → big_questions → ws-challenge → open_questions → roots → quiz
+- Default order: intro → a1 → a2 → e1 → explanations → story → summary → terms → a3 → g1 → ws-core → videos → agreed → challenging → a4 → a5 → e2 → g2 → ws-stretch → p1 → c1 → c2 → big_questions → ws-challenge → open_questions → roots → quiz → old1
 - Core: a1, a2, e1, a3, g1, ws-core
 
 ## Sources

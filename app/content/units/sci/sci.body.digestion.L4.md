@@ -1,9 +1,9 @@
 # Digestion: the journey of food from mouth to stomach to intestines
 `sci.body.digestion.L4`
 
-**Summary.** Can you swallow food while standing on your head? Yes, because food does not fall down the tube, it is pushed. In this unit you will try a head-down swallow, test what makes a bite ready to swallow, and lay out your food tube in eight metres of wool.
+**Summary.** Can you swallow food while standing on your head? Yes, because food does not fall down the tube, it is pushed. In this lesson you will try a head-down swallow, test what makes a bite ready to swallow, and lay out your food tube in eight metres of wool.
 
-**Intro.** *An astronaut on the space station floats, and so does her dinner. Nothing falls there. So how does the food she swallows reach her stomach?* Many people say that food falls into the stomach. In space nothing falls, yet astronauts eat three meals a day. In this unit you test the idea on your own body. You swallow a bite of banana with your head lower than your stomach. You count your chews to find what makes a bite ready to swallow. You lay out a food tube of wool across the floor. You also shake oil with soap to see how your body deals with fat.
+**Intro.** *An astronaut on the space station floats, and so does her dinner. Nothing falls there. So how does the food she swallows reach her stomach?* Many people say that food falls into the stomach. In space nothing falls, yet astronauts eat three meals a day. In this lesson you test the idea on your own body. You swallow a bite of banana with your head lower than your stomach. You count your chews to find what makes a bite ready to swallow. You lay out a food tube of wool across the floor. You also shake oil with soap to see how your body deals with fat.
 
 ## Learning outcomes
 0. I can say what digestion is for: breaking food into pieces small enough to pass into the blood.
@@ -40,6 +40,12 @@ Your body cannot use a piece of idli as it is. The piece is far too big to enter
 - e.g. Starch from rice is cut into sugar.
 - e.g. Protein from dal or egg is cut into amino acids.
 - e.g. Fat from groundnut oil is cut into smaller units called fatty acids.
+### Water in digestion, and in removing wastes · *defined*
+**Definition:** Water is needed for digestion. Enzymes do their cutting in water, and the small pieces must dissolve in water before they can pass into the blood.
+
+That is why the mouth, the stomach and the small intestine all add watery juices. Water also helps remove wastes. The leftovers leave the body in faeces, and the large intestine takes back water so that the faeces do not become runny.
+- e.g. Sugar from rice dissolves in water before it passes into the blood.
+- e.g. A dry biscuit must be wetted with saliva before the juices of the gut can work on it.
 ### The mouth: teeth, saliva and the bolus · *defined*
 **Definition:** In the mouth, teeth break food into small pieces and saliva wets it. The tongue rolls the wet pieces into a soft ball called a bolus.
 
@@ -138,7 +144,7 @@ Tens of trillions of bacteria live in the large intestine. That is about as many
   Against: The gut is plainly an organ inside the belly. The body pours juices into it and controls what happens there. It is true that the tube is open to the outside at both ends. But saying the inside of the gut is outside the body can mislead.
 
 ## Roots
-In this unit you followed a bite of food along a tube about 8 metres long. Here we ask where the food stops being food and starts being you.
+In this lesson you followed a bite of food along a tube about 8 metres long. Here we ask where the food stops being food and starts being you.
 
 **Deep truth.** In the Sweetcorn Clock, the skins of the corn came out looking as they did when they went in. They travelled the whole food tube and never passed through its wall. The food tube is one long passage, open at the mouth and at the anus. So food you have swallowed is still outside your body until it crosses the gut wall.  
 *Habit it breaks:* We say food is 'inside us' as soon as we swallow it, because it is under the skin. The food tube is a passage through the body. Only what crosses its wall enters the blood and the cells.  
@@ -514,9 +520,9 @@ They sat on the thinnai and chewed. Neither of them spoke. Each was paying atten
   - Note: The real loops hang from a thin, fan-shaped sheet called the mesentery. The sheet joins every loop to the back wall of the belly. It also carries the blood vessels to the villi. Praise a clear account of what failed as much as a pass.
 
 ## Worksheets
-### The journey of a bite (core, 15 questions)
+### The journey of a bite (core, 17 questions)
 1. (mcq) What is digestion for?  
-   Options: Breaking food small enough to enter the blood / Keeping food warm inside the belly / Storing food until the next meal / Turning food into air  
+   Options: Keeping food warm inside the belly / Breaking food small enough to enter the blood / Storing food until the next meal / Turning food into air  
    **Answer:** Breaking food small enough to enter the blood. *Why:* Food pieces are far too big to pass through the gut wall. Digestion cuts them into small molecules that can cross into the blood.
 2. (order) Put these parts in the order that food passes through them.  
    **Answer:** ['Mouth', 'Oesophagus', 'Stomach', 'Small intestine', 'Large intestine']. *Why:* Food goes from the mouth down the oesophagus to the stomach. Then it passes through the small intestine and last the large intestine.
@@ -527,14 +533,14 @@ They sat on the thinnai and chewed. Neither of them spoke. Each was paying atten
 5. (match) Match each part to its main job.  
    **Answer:** Teeth → Break food into small pieces; Stomach → Churns food with acid; Small intestine → Absorbs digested food; Large intestine → Takes back water. *Why:* Each part does a different job. Breaking comes first, absorbing food comes in the small intestine, and taking back water comes last.
 6. (mcq) Which liquid in the mouth wets food and starts to digest starch?  
-   Options: Saliva / Bile / Stomach acid / Blood  
+   Options: Bile / Saliva / Stomach acid / Blood  
    **Answer:** Saliva. *Why:* Saliva makes food slippery and holds an enzyme that cuts starch into sugar. Bile and stomach acid are added further along.
 7. (sort) Sort these. Does food pass through each one, or does it only send in a juice?  
    **Answer:** stomach → Food passes through; small intestine → Food passes through; oesophagus → Food passes through; liver → Only sends in a juice; pancreas → Only sends in a juice. *Why:* The liver and the pancreas are helper organs. They send bile and pancreatic juice into the small intestine, but food never enters them.
 8. (truefalse) The small intestine is called small because it is short.  
    **Answer:** False. *Why:* False. It is the longest part, about 6 metres in a grown-up. It is called small because it is narrow.
 9. (mcq) What do villi do?  
-   Options: Absorb digested food into the blood / Grind food into pieces / Make stomach acid / Push food back up  
+   Options: Grind food into pieces / Absorb digested food into the blood / Make stomach acid / Push food back up  
    **Answer:** Absorb digested food into the blood. *Why:* Villi are tiny fingers on the lining of the small intestine. Digested food passes through them into tiny blood vessels inside.
 10. (fill) The yellow-green liquid made by the liver, which breaks fat into tiny droplets, is called ____.  
    **Answer:** ['bile']. *Why:* Bile is stored in the gall bladder and flows into the small intestine. It works on fat as dish soap works on oil.
@@ -547,20 +553,24 @@ They sat on the thinnai and chewed. Neither of them spoke. Each was paying atten
 14. (perspective) Is food in your stomach inside your body?  
    **Answer:** Any view with a reason from the unit. One reason is that a sweetcorn skin passes through without crossing the gut wall. Another is that the body pours its own juices into the tube and controls what happens there.. *Why:* Each view has something right in it. A strong answer uses a fact about the food tube. Two such facts are its open ends and the wall that food must cross.
 15. (mcq) What are faeces mostly made of?  
-   Options: Water / Undigested rice / Stomach acid / Blood  
+   Options: Undigested rice / Stomach acid / Water / Blood  
    **Answer:** Water. *Why:* Faeces are about three quarters water. Much of the solid part is bacteria, and the rest is mostly fibre.
+16. (fill) Digested food must dissolve in ____ before it can pass through the gut wall into the blood.  
+   **Answer:** ['water']. *Why:* Only small pieces can pass through the gut wall, and the pieces dissolve in water on the way into the blood.
+17. (fill) Digested food must dissolve in ____ before it can pass through the gut wall into the blood.  
+   **Answer:** ['water']. *Why:* Only small pieces can pass through the gut wall, and the pieces dissolve in water on the way into the blood.
 ### Why each part works as it does (stretch, 15 questions)
 1. (mcq) Dipping a raw carrot piece in water hardly changes its chew count. Why?  
-   Options: The carrot needs breaking, not wetting / Water makes carrots harder / Carrots contain no water / The teeth were tired  
+   Options: Water makes carrots harder / The carrot needs breaking, not wetting / Carrots contain no water / The teeth were tired  
    **Answer:** The carrot needs breaking, not wetting. *Why:* A carrot is mostly water already. Its chews are spent breaking hard pieces, and a dip in water does not break anything.
 2. (mcq) Why does the stomach let chyme out a little at a time?  
-   Options: So the small intestine can deal with it / Because the stomach is too weak / To keep the stomach warm / So that food can go back up  
+   Options: Because the stomach is too weak / To keep the stomach warm / So the small intestine can deal with it / So that food can go back up  
    **Answer:** So the small intestine can deal with it. *Why:* The small intestine must cancel the acid, add bile and enzymes, and absorb the food. It can only handle a small amount at once.
 3. (mcq) Why does the stomach not digest its own wall?  
-   Options: Thick mucus coats the wall / The acid is very weak / The wall is made of bone / It has no enzymes  
+   Options: The acid is very weak / Thick mucus coats the wall / The wall is made of bone / It has no enzymes  
    **Answer:** Thick mucus coats the wall. *Why:* A layer of slippery mucus keeps the acid and pepsin off the wall. The cells of the lining are also replaced every few days.
 4. (mcq) Blood from the small intestine goes to one organ first. Which one?  
-   Options: The liver / The lungs / The brain / The kidneys  
+   Options: The lungs / The brain / The liver / The kidneys  
    **Answer:** The liver. *Why:* The liver receives the absorbed food first. It stores some sugar and breaks down many harmful molecules before the blood goes on.
 5. (truefalse) Bile is an enzyme that digests fat.  
    **Answer:** False. *Why:* False. Bile only breaks fat into tiny droplets. Enzymes from the pancreas then digest the droplets.
@@ -590,13 +600,13 @@ They sat on the thinnai and chewed. Neither of them spoke. Each was paying atten
    Options: Juices digest food without any grinding / Kites cannot digest meat / Metal helps digestion / The stomach does nothing  
    **Answer:** Juices digest food without any grinding. *Why:* The tube could not be crushed, so nothing ground the meat. Something liquid entered the tube and dissolved it. Digestion is chemical as well as mechanical.
 2. (mcq) A dog's intestine still squeezed food along after its nerves to the brain were cut. What does this show?  
-   Options: The gut has its own nerve net / The brain is not needed for anything / The intestine has no nerves / Food moves by falling  
+   Options: The brain is not needed for anything / The intestine has no nerves / Food moves by falling / The gut has its own nerve net  
    **Answer:** The gut has its own nerve net. *Why:* The intestine sensed the food and squeezed behind it without the brain. The nerve net in the gut wall runs peristalsis.
 3. (mcq) A smooth tube would have half a square metre of lining. The small intestine has 30. What makes the difference?  
    Options: Folds and villi / A longer tube / Thicker muscles / More acid  
    **Answer:** Folds and villi. *Why:* The tube is the same length. Folds, villi and tiny bumps on the cells pack about 60 times as much surface into it.
 4. (mcq) Fibre cannot be cut by human enzymes. What happens to it in the large intestine?  
-   Options: Gut bacteria feed on the fibre / It is absorbed whole / It turns into bile / It goes back to the stomach  
+   Options: It is absorbed whole / It turns into bile / It goes back to the stomach / Gut bacteria feed on the fibre  
    **Answer:** Gut bacteria feed on the fibre. *Why:* Gut bacteria break down part of the fibre and make gases and some vitamins. The rest leaves in the faeces and helps them hold water.
 5. (truefalse) Most stomach ulcers are caused by eating spicy food.  
    **Answer:** False. *Why:* False. Barry Marshall and Robin Warren showed that most ulcers come from a bacterium called Helicobacter pylori. Some pain medicines cause ulcers too.
@@ -628,40 +638,46 @@ They sat on the thinnai and chewed. Neither of them spoke. Each was paying atten
 
 ## Quiz
 1. (mcq) Why must food be digested before the body can use it?  
-   Options: Its pieces are too big for the blood / It is too cold / It has too much water / It is too heavy to carry  
+   Options: It is too cold / Its pieces are too big for the blood / It has too much water / It is too heavy to carry  
    **Answer:** Its pieces are too big for the blood. *Why:* Only small molecules can cross the gut wall. Digestion cuts large food molecules into small ones.
 2. (mcq) Which list gives the journey of food in the right order?  
-   Options: Mouth, oesophagus, stomach, small intestine, large intestine / Mouth, stomach, oesophagus, large intestine, small intestine / Mouth, liver, stomach, small intestine, large intestine / Mouth, oesophagus, small intestine, stomach, large intestine  
+   Options: Mouth, stomach, oesophagus, large intestine, small intestine / Mouth, liver, stomach, small intestine, large intestine / Mouth, oesophagus, stomach, small intestine, large intestine / Mouth, oesophagus, small intestine, stomach, large intestine  
    **Answer:** Mouth, oesophagus, stomach, small intestine, large intestine. *Why:* The oesophagus leads to the stomach. The small intestine comes before the large intestine. Food never passes through the liver.
 3. (mcq) Which two organs help digestion although food never passes through them?  
-   Options: Liver and pancreas / Stomach and oesophagus / Heart and lungs / Mouth and large intestine  
+   Options: Stomach and oesophagus / Liver and pancreas / Heart and lungs / Mouth and large intestine  
    **Answer:** Liver and pancreas. *Why:* The liver makes bile and the pancreas makes pancreatic juice. Both juices flow into the small intestine through a small tube.
 4. (mcq) What are the two jobs of chewing?  
    Options: Breaking food small and wetting it / Warming food and cooling it / Adding acid and adding bile / Absorbing sugar and water  
    **Answer:** Breaking food small and wetting it. *Why:* Teeth break the food, and saliva wets the pieces so they stick together and slide. A bite needs both before it can be swallowed.
 5. (mcq) How does a bite move along the oesophagus?  
-   Options: Muscle rings squeeze behind it / It falls under its own weight / Air from the lungs blows it / Saliva washes it down  
+   Options: It falls under its own weight / Air from the lungs blows it / Saliva washes it down / Muscle rings squeeze behind it  
    **Answer:** Muscle rings squeeze behind it. *Why:* This squeezing is peristalsis. It pushes food in any direction, so it does not depend on falling.
 6. (truefalse) An astronaut floating in space is able to swallow food.  
    **Answer:** True. *Why:* True. Peristalsis pushes the food to the stomach. Nothing needs to fall.
 7. (mcq) Which of these is a job of the stomach?  
-   Options: Churning food with acid / Absorbing most of the food / Making bile / Taking back most of the water  
+   Options: Absorbing most of the food / Making bile / Churning food with acid / Taking back most of the water  
    **Answer:** Churning food with acid. *Why:* The stomach stores, churns and adds acid and pepsin. Most absorbing happens in the small intestine, and bile comes from the liver.
 8. (mcq) What does bile do to the fat in a meal?  
-   Options: Breaks it into tiny droplets / Turns it into sugar / Absorbs it into the blood / Makes it solid  
+   Options: Turns it into sugar / Breaks it into tiny droplets / Absorbs it into the blood / Makes it solid  
    **Answer:** Breaks it into tiny droplets. *Why:* Bile keeps fat in tiny droplets, as soap did to the oil in the Oil and Soap Bottles. Enzymes then digest the droplets.
 9. (mcq) Where is nearly all digested food absorbed into the blood?  
    Options: In the small intestine / In the stomach / In the mouth / In the large intestine  
    **Answer:** In the small intestine. *Why:* The villi of the small intestine absorb sugars, amino acids and fats. The large intestine absorbs mainly water and salts.
 10. (mcq) What is the main job of the large intestine?  
-   Options: Taking back water / Grinding food / Making stomach acid / Cutting protein  
+   Options: Grinding food / Taking back water / Making stomach acid / Cutting protein  
    **Answer:** Taking back water. *Why:* The large intestine absorbs water and salts from what is left. Its bacteria also feed on fibre.
 11. (mcq) About how long does a meal take to travel the whole food tube?  
-   Options: 1 to 3 days / 10 seconds / 1 hour / 2 weeks  
+   Options: 10 seconds / 1 hour / 2 weeks / 1 to 3 days  
    **Answer:** 1 to 3 days. *Why:* The oesophagus takes seconds and the stomach and small intestine take hours. The large intestine takes 1 to 2 days, so the whole journey takes 1 to 3 days.
 12. (mcq) A grown-up's food tube is about 8 metres long. Which part makes up most of that length?  
-   Options: The small intestine / The stomach / The oesophagus / The large intestine  
+   Options: The stomach / The small intestine / The oesophagus / The large intestine  
    **Answer:** The small intestine. *Why:* The small intestine is about 6 metres of the 8. The large intestine is about 1.5 metres, and the oesophagus and stomach are about 25 centimetres each.
+13. (mcq) What does water do during digestion?  
+   Options: It turns starch into sugar on its own / It hardens the food so teeth can grind it / It lets enzymes work and carries digested food into the blood  
+   **Answer:** It lets enzymes work and carries digested food into the blood. *Why:* Enzymes do their cutting in water, and the small pieces dissolve in water before they can pass into the blood. Water on its own does not cut starch, and it softens food rather than hardening it.
+14. (mcq) What does water do during digestion?  
+   Options: It turns starch into sugar on its own / It hardens the food so teeth can grind it / It lets enzymes work and carries digested food into the blood  
+   **Answer:** It lets enzymes work and carries digested food into the blood. *Why:* Enzymes do their cutting in water, and the small pieces dissolve in water before they can pass into the blood. Water on its own does not cut starch, and it softens food rather than hardening it.
 
 ## Applications
 - Oral rehydration solution, or ORS, is water with sugar and salt in set amounts. Sugar helps the small intestine absorb salt and water, so ORS saves children with loose motions.
@@ -730,6 +746,9 @@ This Body Is a Universe (sci.body.L4): Topic-level song
 ## Things to buy
 - [Sweetcorn: one cob, or a small packet of frozen kernels](https://www.amazon.in/s?k=sweet+corn+kernels) (material): For the Sweetcorn Clock. Any vegetable shop sells it in season, and cooked beetroot works in its place. Used in p1. 
 - [Gut: The Inside Story of Our Body's Most Underrated Organ, a book by Giulia Enders (English edition 2015)](https://www.amazon.in/s?k=Gut+Giulia+Enders) (book): For the parent or an older child: a doctor's lively and careful account of the food tube and its bacteria. Used in a2. After the Food Tube on the Floor, a parent can read aloud from the chapter on the small intestine.
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in The Food Tube on the Floor: lay out 8 metres of wool. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in a2. Get it before The Food Tube on the Floor: lay out 8 metres of wool.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Oil and Soap Bottles: what does bile do to fat?, The Pleated Cloth Test: does a folded lining soak up more?, The Food Tube on the Floor: lay out 8 metres of wool. About ₹10 to ₹30. Any school ruler is fine. Used in e2, e3, a2, a3. Get it before The Oil and Soap Bottles: what does bile do to fat?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is digestion for? → Breaking food into pieces small enough to pass into the blood.

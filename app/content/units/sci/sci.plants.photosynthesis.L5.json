@@ -269,10 +269,11 @@
    "concept": "Almost all food starts with caught sunlight",
    "status": "defined",
    "definition": "Producers make food from things that are not food. Almost all producers on Earth use sunlight to do it. Every consumer lives on what producers made.",
-   "description": "Follow any food backwards and ask each time, 'and what did they eat?' The trail nearly always ends at a producer. On land the producers are mostly plants. In the sea they are mostly algae and cyanobacteria, which are tiny living beings that float near the surface. Cyanobacteria are bacteria that photosynthesise. The sea's producers do about half of all the photosynthesis on Earth. So 'food comes from plants' is a simplification. The fuller picture is that food comes from every living being that has chlorophyll. A sardine ate tiny animals that ate algae. A hen ate grain. A mushroom fed on dead straw. Each step passes on only a part of the energy, because every eater uses most of their food to stay alive. Producers catch only a small share of the sunlight that reaches the Earth, roughly one part in a thousand. All animals, fungi and most bacteria live on that share.",
+   "description": "Follow any food backwards and ask each time, 'and what did they eat?' The trail nearly always ends at a producer. On land the producers are mostly plants. In the sea they are mostly algae and cyanobacteria, which are tiny living beings that float near the surface. Cyanobacteria are bacteria that photosynthesise. The sea's producers do about half of all the photosynthesis on Earth. So 'food comes from plants' is a simplification. The fuller picture is that food comes from every living being that has chlorophyll. A sardine ate tiny animals that ate algae. A hen ate grain. A mushroom fed on dead straw. Each step passes on only a part of the energy, because every eater uses most of their food to stay alive. Producers catch only a small share of the sunlight that reaches the Earth, roughly one part in a thousand. All animals, fungi and most bacteria live on that share. Animals complete the balance of the air. In the light, a plant takes in carbon dioxide and gives out oxygen. Animals breathe the other way round: they take in oxygen and give out carbon dioxide. A plant also breathes in the dark, using oxygen, as every living cell does. Over time the air's oxygen and carbon dioxide stay in balance, because each kind of living being gives out what the other one uses.",
    "examples": [
     "Curd: sunlight was caught by grass, the cow ate the grass and made milk, and bacteria turned the milk into curd.",
     "Fish curry in Kochi: sunlight was caught by algae in the Arabian Sea, small animals ate the algae, and the fish ate them.",
+    "A cow in a village field breathes out carbon dioxide, and the grass beside it takes that carbon dioxide in to make sugar.",
     "Salt and water are on your plate too, but they give no energy. They are not food in this sense, and they do not come from sunlight."
    ],
    "perspectives": [],
@@ -781,11 +782,11 @@
       "t": "mcq",
       "q": "A leaf has 48 units of starch at dusk, and the night is 12 hours long. Which steady rate uses it all exactly by dawn?",
       "options": [
-       "4 units an hour",
        "6 units an hour",
-       "12 units an hour"
+       "12 units an hour",
+       "4 units an hour"
       ],
-      "a": 0,
+      "a": 2,
       "why": "48 ÷ 12 = 4. At 4 units an hour the starch lasts exactly 12 hours. At 6 units an hour it would run out after 8 hours, and the plant would go hungry for the last 4."
      },
      "context": "This is the last step of Starch Bank. Here you compare the broken clock with the working clock."
@@ -989,11 +990,11 @@
       "t": "mcq",
       "q": "In Dawn Leaf, Dusk Leaf, a leaf picked at sunrise stays pale with iodine. What is the best explanation?",
       "options": [
+       "The plant used up the starch during the night",
        "Iodine does not work in the morning",
-       "The leaf never made any starch",
-       "The plant used up the starch during the night"
+       "The leaf never made any starch"
       ],
-      "a": 2,
+      "a": 0,
       "why": "The leaf made starch in yesterday's light. During the night the plant turned it back into sugar and used it, so little is left at sunrise. Choosing 'never made any' forgets that the dusk leaves from the same plant were full of starch."
      },
      "context": "This is the last step of Dawn Leaf, Dusk Leaf. Here you explain your results."
@@ -1198,10 +1199,10 @@
       "q": "A boiled egg is on your plate. Where does the egg's trail lead?",
       "options": [
        "Hen, and it stops there",
-       "Straight to the Sun",
-       "Hen, then grain plants, then the Sun"
+       "Hen, then grain plants, then the Sun",
+       "Straight to the Sun"
       ],
-      "a": 2,
+      "a": 1,
       "why": "The hen made the egg from the grain she ate, and the grain plants made the grain with sunlight. Stopping at the hen leaves out what the hen ate. The Sun cannot make an egg without a plant and a hen in between."
      },
      "context": "This is the last step of Plate to Sun. Here you look at where all the trails end."
@@ -1284,11 +1285,11 @@
       "t": "mcq",
       "q": "A raw banana goes blue-black with iodine, and a very ripe one hardly changes. Why?",
       "options": [
-       "The ripe banana turned starch into sugar",
        "The ripe banana lost all its food",
-       "Iodine only works on green things"
+       "Iodine only works on green things",
+       "The ripe banana turned starch into sugar"
       ],
-      "a": 0,
+      "a": 2,
       "why": "As a banana ripens, the fruit breaks starch chains into sugars. Sugar gives no colour with iodine, and it tastes sweet. The food is still there in a different form. Iodine works on white rice, so it does not need anything green."
      },
      "context": "This is the last step of the Banana Clock. Here you link the starch to the sweetness."
@@ -1378,10 +1379,10 @@
       "q": "Chlorophyll in a glass of spirit glows red in violet light. A living leaf hardly glows at all. Why?",
       "options": [
        "The leaf has less chlorophyll than the glass",
-       "Living leaves catch no violet light",
-       "In the leaf, the caught energy is passed on and used"
+       "In the leaf, the caught energy is passed on and used",
+       "Living leaves catch no violet light"
       ],
-      "a": 2,
+      "a": 1,
       "why": "In a leaf, chlorophyll hands the caught energy on to be used for making sugar. In the glass it has nowhere to send the energy, so the energy comes back out as red light and heat. A leaf has plenty of chlorophyll, and it catches violet light well."
      },
      "context": "This is the last step of the Red Glow. Here you shine violet light through the chlorophyll."
@@ -1604,10 +1605,10 @@
       "q": "A chlorophyll molecule catches a photon. What happens to the photon?",
       "options": [
        "It turns into a grain of starch",
-       "It is gone, and its energy is now in an electron",
-       "It stays inside the leaf as light"
+       "It stays inside the leaf as light",
+       "It is gone, and its energy is now in an electron"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A photon is a packet of energy. When it is caught, the photon no longer exists, and an electron in the chlorophyll holds its energy. Light is not stored as light. Starch is made of atoms from air and water, and the photon's energy only helped to join them."
      },
      "context": "This is the last step of A Photon's Journey. Here you check the comic by following the energy."
@@ -1828,12 +1829,12 @@
      "t": "mcq",
      "p": "What does chlorophyll do in a leaf?",
      "opts": [
-      "It keeps the leaf stiff",
       "It catches light",
+      "It keeps the leaf stiff",
       "It carries water",
       "It joins sugar into starch"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Chlorophyll is the pigment that catches light. Choosing 'joins sugar into starch' mixes up the catcher with the builders. Enzymes do the building.",
      "outcome": 0
     },
@@ -1989,12 +1990,12 @@
      "t": "mcq",
      "p": "Why is the leaf warmed in spirit during the starch test?",
      "opts": [
-      "To take the green colour out",
       "To add starch to the leaf",
       "To make the leaf sweet",
-      "To kill germs on the leaf"
+      "To kill germs on the leaf",
+      "To take the green colour out"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Chlorophyll dissolves in spirit. With the green gone, the blue-black of the iodine is easy to see. Spirit adds nothing to the leaf.",
      "outcome": 1
     },
@@ -2067,10 +2068,10 @@
      "opts": [
       "Only green",
       "Only white",
-      "Red and blue",
-      "Green and yellow"
+      "Green and yellow",
+      "Red and blue"
      ],
-     "a": 2,
+     "a": 3,
      "why": "Chlorophyll takes in mostly red and blue light. Choosing 'green' is a common mix-up. Green is the colour a leaf sends back most, which is why we see it.",
      "outcome": 0
     },
@@ -2100,12 +2101,12 @@
      "t": "mcq",
      "p": "Scientists made night come four hours early for thale cress plants. What did the plants do?",
      "opts": [
-      "Used their starch more slowly",
       "Used their starch faster",
+      "Used their starch more slowly",
       "Stopped using starch",
       "Made starch in the dark"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The plants slowed down at once, and the starch still lasted until dawn. A plant makes no starch in the dark, because photosynthesis needs light.",
      "outcome": 4
     },
@@ -2200,6 +2201,12 @@
      "ask": "Whose view do you agree with most? Use one test from this lesson as evidence. Then say what one of the others has right.",
      "lines": 5,
      "outcome": 0
+    },
+    {
+     "t": "fill",
+     "p": "When animals breathe, they take in oxygen and give out ________.",
+     "a": "carbon dioxide",
+     "why": "Animals breathe the other way round from a plant in the light. The plant takes in carbon dioxide and gives out oxygen, so the two living things keep the air in balance."
     },
     {
      "t": "mcq",
@@ -2315,11 +2322,11 @@
      "p": "Most bacteria at deep-sea hot springs still need one thing that photosynthesis made. What is it?",
      "opts": [
       "Sunlight",
-      "Oxygen",
       "Starch",
+      "Oxygen",
       "Chlorophyll"
      ],
-     "a": 1,
+     "a": 2,
      "why": "They use oxygen to get energy from hydrogen sulphide. That oxygen was made by algae and plants far above, and was carried down in the sea water.",
      "outcome": 6
     },
@@ -2360,12 +2367,12 @@
      "t": "mcq",
      "p": "How do satellites measure photosynthesis from space?",
      "opts": [
-      "By the faint red glow of leaves",
       "By counting trees",
+      "By the faint red glow of leaves",
       "By weighing forests",
       "By the smell of leaves"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Chlorophyll in living leaves gives off a very faint red glow while it works. Satellites have measured this glow over the whole Earth since 2011.",
      "outcome": 0
     },
@@ -2410,12 +2417,12 @@
      "t": "mcq",
      "p": "A plant short of magnesium turns yellow. Why?",
      "opts": [
+      "They cannot make enough chlorophyll",
       "They have too much starch",
       "They get too much light",
-      "They cannot make enough chlorophyll",
       "Magnesium is yellow"
      ],
-     "a": 2,
+     "a": 0,
      "why": "Every chlorophyll molecule needs one magnesium atom. With too little magnesium, less chlorophyll is made, and the yellow pigments show.",
      "outcome": 0
     },
@@ -2499,11 +2506,11 @@
      "p": "Of 1,000 units of sunlight energy on a field, the crop stores about 10. What share is that?",
      "opts": [
       "1 in 1,000",
-      "1 in 100",
       "1 in 10",
+      "1 in 100",
       "Half"
      ],
-     "a": 1,
+     "a": 2,
      "why": "10 out of 1,000 is the same as 1 out of 100. Most of the light warms the field, passes through or is sent back.",
      "outcome": 5
     }
@@ -2543,10 +2550,10 @@
    "opts": [
     "It turns starch blue",
     "It adds sugar",
-    "It kills the cells and lets liquids in",
-    "It takes the green out"
+    "It takes the green out",
+    "It kills the cells and lets liquids in"
    ],
-   "a": 2,
+   "a": 3,
    "why": "Hot water stops the cells using starch and breaks their thin skins. Taking the green out is the job of the spirit.",
    "outcome": 1
   },
@@ -2556,10 +2563,10 @@
    "opts": [
     "At midnight",
     "The same all day",
-    "Late afternoon",
-    "Just before sunrise"
+    "Just before sunrise",
+    "Late afternoon"
    ],
-   "a": 2,
+   "a": 3,
    "why": "Starch builds up all day and is used up all night. So it is highest late in the afternoon and lowest just before sunrise.",
    "outcome": 2
   },
@@ -2567,12 +2574,12 @@
    "t": "mcq",
    "p": "A green and white leaf is tested with iodine. Which parts turn blue-black?",
    "opts": [
-    "Only the parts that were green",
     "Only the parts that were white",
     "The whole leaf",
+    "Only the parts that were green",
     "No part"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Starch is made only where there is chlorophyll. Choosing 'the whole leaf' usually means thinking that light alone is enough.",
    "outcome": 3
   },
@@ -2606,12 +2613,12 @@
    "t": "mcq",
    "p": "Why does a leaf store food as starch and not as dissolved sugar?",
    "opts": [
-    "Starch does not dissolve or pull in water",
     "Starch is sweeter",
     "Starch is green",
+    "Starch does not dissolve or pull in water",
     "Starch catches light"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A lot of dissolved sugar would draw water into the cell and swell it. Starch sits as small grains and causes no such trouble.",
    "outcome": 4
   },
@@ -2626,14 +2633,26 @@
    "t": "mcq",
    "p": "What comes first in nearly every food chain?",
    "opts": [
+    "A producer that catches light",
     "A fungus",
     "Soil",
-    "A producer that catches light",
     "A small animal"
    ],
-   "a": 2,
+   "a": 0,
    "why": "Nearly every chain begins with a plant, an alga or a cyanobacterium making food from light. Soil gives minerals and water, not energy.",
    "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "A leaf is in a dark room all night. What does it take in and give out?",
+   "opts": [
+    "Oxygen in, carbon dioxide out",
+    "Carbon dioxide in, oxygen out",
+    "Nothing at all, because the leaf is resting"
+   ],
+   "a": 0,
+   "why": "Every living cell breathes all day and night, taking in oxygen and giving out carbon dioxide. Carbon dioxide in and oxygen out needs light, so it stops in the dark.",
+   "outcome": 4
   },
   {
    "t": "mcq",
@@ -2652,12 +2671,12 @@
    "t": "mcq",
    "p": "Which of these do scientists still argue about?",
    "opts": [
+    "How a plant sets the speed of starch use at night",
     "Whether leaves hold chlorophyll",
     "Whether iodine shows starch",
-    "Whether plants need light",
-    "How a plant sets the speed of starch use at night"
+    "Whether plants need light"
    ],
-   "a": 3,
+   "a": 0,
    "why": "Everyone agrees that leaves use starch at a steady rate that lasts until dawn. How the plant sets that rate is not settled.",
    "outcome": 7
   }
@@ -2968,6 +2987,78 @@
    "used_in": [
     "a3"
    ]
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Measure the Sun Catcher: how much leaf does one plant hold out?, A Photon's Journey: draw the comic strip, The Leaf Tower: fix 12 leaves on one stem so that none is in the shade. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "a5",
+    "a6",
+    "c1"
+   ],
+   "plan": "Get it before Measure the Sun Catcher: how much leaf does one plant hold out?."
+  },
+  {
+   "id": "b-small-torch-bulbs-or-leds-wi",
+   "item": "Small torch bulbs or LEDs with a holder",
+   "kind": "tool",
+   "why": "Used in The Red Glow: what chlorophyll does with light in a jar. About ₹10 to ₹50. A small torch can be taken apart for its bulb.",
+   "url": "https://www.amazon.in/s?k=torch+bulb+holder+set",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before The Red Glow: what chlorophyll does with light in a jar."
+  },
+  {
+   "id": "b-food-colour",
+   "item": "Food colour",
+   "kind": "material",
+   "why": "Used in The Red Glow: what chlorophyll does with light in a jar. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it.",
+   "url": "https://www.amazon.in/s?k=food+colour+liquid",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before The Red Glow: what chlorophyll does with light in a jar."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Leaf Prints That Fade: what light does to chlorophyll outside a leaf. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before Leaf Prints That Fade: what light does to chlorophyll outside a leaf."
+  },
+  {
+   "id": "b-graph-paper",
+   "item": "Graph paper",
+   "kind": "material",
+   "why": "Used in Measure the Sun Catcher: how much leaf does one plant hold out?. About ₹10 to ₹30. Draw squares on plain paper.",
+   "url": "https://www.amazon.in/s?k=graph+paper+notebook",
+   "used_in": [
+    "a5"
+   ],
+   "plan": "Get it before Measure the Sun Catcher: how much leaf does one plant hold out?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [
@@ -3228,14 +3319,23 @@
     "source": "Chandogya Upanishad 6.7",
     "teaching": "Uddalaka asks his son Shvetaketu to eat nothing for fifteen days and only drink water. Afterwards the boy has forgotten the verses he knew well. He eats, and his memory returns. His father tells him that the mind is made of food.",
     "link": "Thinking and remembering run on the energy in food, and that energy was sunlight caught by chlorophyll. So energy from light that a leaf caught is at work in a child's memory.",
-    "verse": ["अन्नमयं हि सोम्य मनः", "आपोमयः प्राणः", "तेजोमयी वागिति"],
+    "verse": [
+     "अन्नमयं हि सोम्य मनः",
+     "आपोमयः प्राणः",
+     "तेजोमयी वागिति"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Bhagavad Gita 15.12 to 15.13",
     "teaching": "The Gita says that the light in the Sun which lights the whole world, and the sap that feeds all plants, come from one and the same source.",
     "link": "The science in this lesson finds the same link from the other side. The food in every plant holds energy from the Sun's light, caught and kept.",
-    "verse": ["यदादित्यगतं तेजो जगद्भासयतेऽखिलम्।", "यच्चन्द्रमसि यच्चाग्नौ तत्तेजो विद्धि मामकम्।।", "गामाविश्य च भूतानि धारयाम्यहमोजसा।", "पुष्णामि चौषधीः सर्वाः सोमो भूत्वा रसात्मकः।।"],
+    "verse": [
+     "यदादित्यगतं तेजो जगद्भासयतेऽखिलम्।",
+     "यच्चन्द्रमसि यच्चाग्नौ तत्तेजो विद्धि मामकम्।।",
+     "गामाविश्य च भूतानि धारयाम्यहमोजसा।",
+     "पुष्णामि चौषधीः सर्वाः सोमो भूत्वा रसात्मकः।।"
+    ],
     "verse_lang": "sa"
    },
    {

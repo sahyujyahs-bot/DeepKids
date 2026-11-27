@@ -24,6 +24,12 @@
  "cards_mins": 20,
  "terms": [
   {
+   "term": "Antenna (plural: antennae)",
+   "meaning": "One of the two thin feelers on an insect's head. An insect smells and touches with them.",
+   "example": "Two ants meet on a wall and touch antennae, to find out whether they belong to the same colony.",
+   "art": "The head of an ant with two long thin feelers, labelled antennae."
+  },
+  {
    "term": "Social insect",
    "meaning": "An insect who lives in a large family that shares one nest and shares the work.",
    "example": "Ants, honeybees and termites are social insects. A housefly lives alone.",
@@ -121,6 +127,19 @@
   }
  ],
  "explanations": [
+  {
+   "concept": "What makes an insect an insect",
+   "status": "defined",
+   "definition": "An insect is an animal with six legs, which are three pairs, and one pair of antennae. Many have wings.",
+   "description": "Look closely at an ant on the wall. Count its legs. There are six, in three pairs, and all are joined to the middle part of its body. On its head, it has one pair of antennae. Antennae are two thin feelers that smell and touch the world. Many insects have wings. A fly has one pair, and a grasshopper has two pairs. The front pair of a grasshopper is thin and tough, like a cover for the back pair. Worker ants have no wings. A spider has eight legs and no antennae, so a spider is not an insect. Honeybees, ants, flies and grasshoppers are insects. In this lesson, you will see what some insects do for us, and what they need from us.",
+   "examples": [
+    "An ant with six legs and two thin antennae on a kitchen wall",
+    "A housefly with one pair of clear wings",
+    "A grasshopper in a field with two pairs of wings, the front pair thin and tough"
+   ],
+   "perspectives": [],
+   "art": "An ant drawn large, with its six legs numbered in three pairs and its two antennae labelled; beside it a spider with eight legs and a cross."
+  },
   {
    "concept": "A colony is one large family",
    "status": "defined",
@@ -242,7 +261,7 @@
    "concept": "What harms insect workers, and what helps them",
    "status": "defined",
    "definition": "Insects are harmed by poison sprays, by the loss of flowers and nesting places, and by bright lights at night. They are helped by flowers, by unsprayed places and by darkness.",
-   "description": "A pesticide is a poison used to kill insects who eat crops. Most pesticides also kill bees, flies and ants, and the insects who hunt the crop-eaters. Some pesticides do not kill a bee at once. They harm her memory, so that she cannot find her way home. A colony needs flowers in every month of the year. When a field grows only one crop, there are flowers for two weeks and then none. Street lights pull moths away from the flowers they would pollinate at night. In 63 nature reserves in Germany, scientists weighed the flying insects they caught each year. After 27 years the weight had fallen by about three quarters. There are few such counts from India, so nobody knows the full picture here. Some farmers use insects in place of poison. Fruit growers in China have put weaver ant nests in their orange trees for about 1,700 years. The ants hunt the insects who eat the fruit. A family can help by growing flowering plants, and by never spraying a plant that is in flower.",
+   "description": "A pesticide is a poison used to kill insects who eat crops. Most pesticides also kill bees, flies and ants, and the insects who hunt the crop-eaters. Some pesticides do not kill a bee at once. They harm her memory, so that she cannot find her way home. A colony needs flowers in every month of the year. When a field grows only one crop, there are flowers for two weeks and then none. Street lights pull moths away from the flowers they would pollinate at night. In 63 nature reserves in Germany, scientists weighed the flying insects they caught each year. After 27 years the weight had fallen by about three quarters. There are few such counts from India, so nobody knows the full picture here. Some farmers use insects in place of poison. Fruit growers in China have put weaver ant nests in their orange trees for about 1,700 years. The ants hunt the insects who eat the fruit. A family can help by growing flowering plants, and by never spraying a plant that is in flower. Trees help too, because they are homes. A mango tree gives shade and shelter. Weaver ants stitch their nests in its leaves, and a crow or a myna can build a nest in its branches. A squirrel runs along them. Cutting down a tree takes away all these homes at once.",
    "examples": [
     "A tulsi or curry leaf plant left to flower on a balcony, with small bees on it.",
     "A farmer who sprays in the evening, after the bees have gone home, and never on open flowers.",
@@ -250,6 +269,20 @@
    ],
    "perspectives": [],
    "art": "A balcony with flowering tulsi, curry leaf and marigold pots, with small bees and a butterfly visiting them."
+  },
+  {
+   "concept": "Pests: when insects and animals eat the crop",
+   "status": "defined",
+   "context": "This card comes after what harms insects. Farmers do have real trouble from pests, and some ways of fighting pests do not harm bees.",
+   "definition": "A pest eats or spoils a crop. A farmer can guard a crop in ways that do not poison the pollinators.",
+   "description": "Insects such as caterpillars and aphids eat leaves and suck sap. Bigger animals also eat crops. In north India, the neel gai, a large blue-grey antelope, walks into wheat and mustard fields at night. Monkeys raid fruit and maize. A farmer who loses her crop loses her year's food and money, so she must keep watch. Some ways are safe for bees. She can pick caterpillars off by hand. She can spray neem, a mix made from crushed neem seeds, on leaves in the evening, when the bees have gone home. She can hang yellow sticky cards to catch small flying insects. She can leave weaver ants in the trees, because they hunt fruit-eating insects. For neel gai and monkeys, a fence, a net or a night watch works better than any spray, since they are not insects. Spraying neem on open flowers can still harm bees, so spray only the leaves.",
+   "examples": [
+    "A farmer picking caterpillars off cabbage leaves by hand, then spraying neem on the leaves in the evening",
+    "A family taking turns to watch a wheat field at night, because neel gai come in the dark",
+    "A yellow sticky card hung among brinjal plants to catch whiteflies"
+   ],
+   "perspectives": [],
+   "art": "A farmer at dusk spraying neem on cabbage leaves, a neel gai at the edge of a wheat field with a fence, and a yellow sticky card hanging among plants."
   },
   {
    "concept": "Are honeybees enough, or do crops need wild pollinators too?",
@@ -635,11 +668,11 @@
       "t": "mcq",
       "q": "Which of these insects recycles when young and pollinates when grown?",
       "options": [
-       "A blowfly",
        "A queen ant",
+       "A blowfly",
        "A termite worker"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A blowfly's maggots eat dead animals, and the adult fly drinks nectar and carries pollen. A queen ant lays eggs. A termite worker eats dead wood all through their life."
      },
      "context": "This is the last step of Whose Work Is This. You sort the job cards by kind of work and compare the piles."
@@ -919,11 +952,11 @@
       "t": "mcq",
       "q": "In the Hairy or Smooth test, why do you knock each carrier once on the rim?",
       "options": [
-       "So loose powder falls off both",
        "So the powder sticks harder",
+       "So loose powder falls off both",
        "So the katori makes a sound"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A flying insect loses loose pollen on the way. The knock removes loose powder from both carriers in the same way, so the test is fair. If you chose 'sticks harder', remember that a knock shakes powder off."
      },
      "parent": "The pen end must be dry. A damp or oily pen picks up a thick coat of haldi, and the test then compares wet with dry.",
@@ -1149,11 +1182,11 @@
       "t": "mcq",
       "q": "In the Clean-up Count, paper B still has 20 crumbs. What does that show?",
       "options": [
-       "Ants removed the crumbs from paper A",
        "Crumbs dry up and vanish",
-       "Water makes crumbs heavier"
+       "Water makes crumbs heavier",
+       "Ants removed the crumbs from paper A"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Paper B had the same crumbs in the same room, and ants could not reach it. All 20 stayed. So the crumbs on paper A did not vanish by themselves: the ants took them."
      },
      "context": "In this step of the Clean-up Count you check the paper that ants could not reach."
@@ -1395,11 +1428,11 @@
       "t": "mcq",
       "q": "In the Raisin at the Bottom, how did haldi reach the white collar of flower 2?",
       "options": [
-       "On the hand that fetched the raisins",
        "It blew across in the air",
-       "It was on the second raisin"
+       "It was on the second raisin",
+       "On the hand that fetched the raisins"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The hand brushed the yellow cotton buds in flower 1 and then brushed the collar in flower 2. A bee pollinates in the same way, while she is fetching nectar."
      },
      "parent": "This is the heart of pollination. The visitor comes for food. The flower places its anthers and its stigma where the visitor must brush past them.",
@@ -1479,11 +1512,11 @@
       "t": "mcq",
       "q": "How does a queen ant feed her very first larvae?",
       "options": [
-       "From her own body's stores",
        "With food the workers bring",
+       "From her own body's stores",
        "With crumbs she collects daily"
       ],
-      "a": 0,
+      "a": 1,
       "why": "She is sealed in alone, and no workers exist yet. She uses up her own body, above all the wing muscles she no longer needs. If you chose 'workers', remember that the first workers are those very larvae."
      },
      "context": "This is the last step of From One Queen. You look at your drawing and say what changes when the first workers grow up."
@@ -1787,12 +1820,12 @@
      "t": "mcq",
      "p": "Who lays the eggs in a honeybee colony?",
      "opts": [
-      "The queen",
       "The workers",
       "The drones",
-      "The larvae"
+      "The larvae",
+      "The queen"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The queen is the mother of the colony, and laying eggs is her work. Drones are males who only mate. Larvae are the young.",
      "outcome": 0
     },
@@ -1800,12 +1833,12 @@
      "t": "mcq",
      "p": "The worker ants in one line on a wall are mostly what to each other?",
      "opts": [
-      "Sisters",
       "Strangers",
       "Brothers",
-      "Mothers and daughters"
+      "Mothers and daughters",
+      "Sisters"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Workers are daughters of the same queen, so they are sisters. If you chose brothers, remember that worker ants are female.",
      "outcome": 0
     },
@@ -1937,12 +1970,12 @@
      "t": "mcq",
      "p": "In the Hairy or Smooth test, why did each carrier get three rows of boxes?",
      "opts": [
-      "One try can be a fluke",
       "To use up the haldi",
+      "One try can be a fluke",
       "To make the paper yellow",
       "Because an insect has three body parts"
      ],
-     "a": 0,
+     "a": 1,
      "why": "One row might come out odd by chance. If three rows give similar counts, the result can be trusted more.",
      "outcome": 3,
      "how": "e1"
@@ -1951,12 +1984,12 @@
      "t": "mcq",
      "p": "Which insect's young clear away dead animals?",
      "opts": [
-      "A blowfly",
       "A honeybee",
+      "A blowfly",
       "A butterfly",
       "A carpenter bee"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A blowfly lays eggs on a dead body, and her maggots eat the body. Young honeybees eat pollen and honey, and caterpillars eat leaves.",
      "outcome": 6
     },
@@ -1964,12 +1997,12 @@
      "t": "mcq",
      "p": "What does a worker bee carry home in the baskets on her back legs?",
      "opts": [
-      "Pollen",
       "Honey",
       "Wax",
-      "Water"
+      "Water",
+      "Pollen"
      ],
-     "a": 0,
+     "a": 3,
      "why": "She packs pollen into baskets of stiff hairs on her back legs. Pollen is the protein food that makes larvae grow. Nectar is carried inside her body.",
      "outcome": 0
     },
@@ -1997,6 +2030,38 @@
      "why": "A strong drawing shows pollen leaving an anther and arriving on a stigma. The bee is the carrier in between.",
      "art": "A blank box with the outlines of two open flowers and a bee between them.",
      "outcome": 2
+    },
+    {
+     "t": "sort",
+     "p": "Sort these animals into 'insect' and 'not an insect'. Count the legs to help you.",
+     "cats": [
+      "Insect",
+      "Not an insect"
+     ],
+     "items": [
+      [
+       "an ant with six legs",
+       "Insect"
+      ],
+      [
+       "a spider with eight legs",
+       "Not an insect"
+      ],
+      [
+       "a housefly",
+       "Insect"
+      ],
+      [
+       "a scorpion with eight legs",
+       "Not an insect"
+      ],
+      [
+       "a grasshopper",
+       "Insect"
+      ]
+     ],
+     "a": "see items",
+     "why": "Insects have six legs. Spiders and scorpions have eight legs, so they are not insects."
     }
    ]
   },
@@ -2010,12 +2075,12 @@
      "t": "mcq",
      "p": "Why does a hairy insect carry more pollen than a smooth one?",
      "opts": [
-      "Pollen catches among the hairs",
       "Hairs make pollen",
       "Hairs smell sweet",
+      "Pollen catches among the hairs",
       "Smooth insects fly faster"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Pollen grains are held in the gaps between hairs and come off a little at a time. A smooth body holds pollen only on its surface.",
      "outcome": 3
     },
@@ -2023,12 +2088,12 @@
      "t": "mcq",
      "p": "A bee visits twenty sunflowers in a row and no other flower. What is this habit called?",
      "opts": [
-      "Flower constancy",
       "Buzz pollination",
       "Swarming",
-      "Scavenging"
+      "Scavenging",
+      "Flower constancy"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Flower constancy means keeping to one kind of flower on one trip. It takes sunflower pollen to sunflowers, where it can work.",
      "outcome": 4
     },
@@ -2036,12 +2101,12 @@
      "t": "mcq",
      "p": "A brinjal flower keeps its pollen in closed tubes. Which visitor can shake it out?",
      "opts": [
-      "A carpenter bee",
       "A honeybee",
+      "A carpenter bee",
       "A butterfly",
       "An ant"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A carpenter bee grips the flower and buzzes, and the shaking throws the pollen out. Honeybees, butterflies and ants do not buzz flowers.",
      "outcome": 5
     },
@@ -2049,12 +2114,12 @@
      "t": "mcq",
      "p": "A worker bee lives about six weeks. Why is her colony still there a year later?",
      "opts": [
-      "New workers hatch every day",
       "The queen does all the work",
+      "New workers hatch every day",
       "The workers sleep all winter",
       "Old workers grow young again"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The queen lays eggs every day in the warm months, and new workers replace those who die. The colony goes on while its members change.",
      "outcome": 1
     },
@@ -2214,6 +2279,32 @@
      "why": "The nectar is deepest. So a visitor passes the anthers and the stigma on the way down and on the way out.",
      "art": "A large open flower cut in half, showing several knobbed anthers, one central stalk with a sticky tip, and a small drop at the base, with three blank label lines.",
      "outcome": 2
+    },
+    {
+     "t": "truefalse",
+     "p": "Every insect has wings.",
+     "a": false,
+     "why": "False. Flies and grasshoppers have wings, but worker ants have none. Insects are the animals with six legs and one pair of antennae."
+    },
+    {
+     "t": "match",
+     "p": "Match each animal to how it uses a mango tree.",
+     "pairs": [
+      [
+       "Weaver ants",
+       "stitch a nest from the leaves"
+      ],
+      [
+       "A crow",
+       "builds a nest in the branches"
+      ],
+      [
+       "A honeybee",
+       "drinks nectar from the flowers"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "A tree can shelter some animals and feed others. Weaver ants and crows use it as a home, and a honeybee uses its flowers for food."
     }
    ]
   },
@@ -2227,12 +2318,12 @@
      "t": "mcq",
      "p": "A farmer ties fine net bags over some of her pumpkin flowers. What is she testing?",
      "opts": [
-      "Whether insects are needed for fruit",
       "Whether flowers need sunlight",
       "Whether nets keep rain off",
-      "Whether pumpkins like shade"
+      "Whether pumpkins like shade",
+      "Whether insects are needed for fruit"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A fine net keeps insects out and lets in light and air. If the bagged flowers make no pumpkins and the open ones do, insects were needed.",
      "outcome": 2
     },
@@ -2240,12 +2331,12 @@
      "t": "mcq",
      "p": "Most kinds of crop gain from pollinators, but most food by weight does not. Why?",
      "opts": [
-      "People eat huge amounts of wind-pollinated grains",
       "Insect-pollinated foods weigh almost nothing",
       "The scientists counted wrongly",
-      "Insects eat most of the fruit"
+      "Insects eat most of the fruit",
+      "People eat huge amounts of wind-pollinated grains"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Rice, wheat and maize are only three kinds of crop, but people eat them in enormous amounts. So a count by kind and a count by weight give different answers.",
      "outcome": 5
     },
@@ -2253,12 +2344,12 @@
      "t": "mcq",
      "p": "In the Clean-up Count, a graph of crumbs left stays flat for 5 minutes. What does the flat part show?",
      "opts": [
-      "No ant had taken a crumb yet",
       "The ants were tired",
+      "No ant had taken a crumb yet",
       "The crumbs were too heavy",
       "The clock had stopped"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A flat line means the number of crumbs did not change. At the start, no ant has found the food, or one ant has only just arrived.",
      "outcome": 6,
      "how": "e2"
@@ -2267,12 +2358,12 @@
      "t": "mcq",
      "p": "A huge field grows one crop that flowers for two weeks. What problem does a bee colony face there?",
      "opts": [
-      "No flowers for the rest of the year",
       "Too much honey",
       "Too many queens",
+      "No flowers for the rest of the year",
       "Flowers that are too big"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A colony must eat in every month. After the two weeks of flowers, the bees find nothing nearby. Mixed plants that flower at different times feed them all year.",
      "outcome": 7
     },
@@ -2394,6 +2485,26 @@
      "why": "A strong drawing shows that the nest has different places for different things: young in one part, food in another, and workers moving between them.",
      "art": "A blank box with a line across the top to show ground level and a small entrance hole.",
      "outcome": 0
+    },
+    {
+     "t": "match",
+     "p": "Match each crop problem to a way of guarding the crop that does not poison bees.",
+     "pairs": [
+      [
+       "Neel gai in a wheat field at night",
+       "a fence or a night watch"
+      ],
+      [
+       "Caterpillars on cabbage",
+       "picking them off by hand"
+      ],
+      [
+       "Small flying insects on brinjal",
+       "a yellow sticky card"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each problem has its own answer. Neel gai are large animals, so a fence or a watch works. Caterpillars can be picked off, and sticky cards trap small flying insects. None of these poison bees."
     }
    ]
   }
@@ -2429,12 +2540,12 @@
    "t": "mcq",
    "p": "How does a new honeybee colony usually begin?",
    "opts": [
-    "The old queen leaves with a swarm",
     "One worker walks away alone",
+    "The old queen leaves with a swarm",
     "Eggs blow away on the wind",
     "The drones build a new nest"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The old queen flies off with about half the workers, and the bees who stay raise a new queen. A worker alone cannot start a colony.",
    "outcome": 1
   },
@@ -2442,12 +2553,12 @@
    "t": "mcq",
    "p": "What is pollination?",
    "opts": [
-    "Pollen moving from an anther to a stigma",
     "A bee making honey",
     "A seed falling to the ground",
+    "Pollen moving from an anther to a stigma",
     "A flower opening its petals"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Pollination is the journey of pollen from where it is made to the sticky tip that catches it. Honey-making happens later, in the hive.",
    "outcome": 2
   },
@@ -2468,12 +2579,12 @@
    "t": "mcq",
    "p": "Which result of a Hairy or Smooth test shows that a hairy carrier holds more pollen?",
    "opts": [
-    "The cotton bud marks far more boxes",
     "Both carriers mark the same number",
+    "The cotton bud marks far more boxes",
     "The pen marks more boxes",
     "The haldi changes colour"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The cotton bud holds powder between its threads and lets it out box after box. The smooth pen runs out after one or two boxes.",
    "outcome": 3,
    "how": "e1"
@@ -2482,12 +2593,12 @@
    "t": "mcq",
    "p": "Why does a bee visit a flower?",
    "opts": [
-    "To collect nectar and pollen as food",
     "To help the flower make seeds",
     "To rest in the shade",
+    "To collect nectar and pollen as food",
     "To lay her eggs"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A bee visits flowers to feed herself and her colony. The flower is pollinated because pollen sticks to her and rubs off at the next flower.",
    "outcome": 4
   },
@@ -2495,12 +2606,12 @@
    "t": "mcq",
    "p": "Which of these foods needs no insect pollinator?",
    "opts": [
-    "Rice",
     "Mango",
     "Pumpkin",
+    "Rice",
     "Cardamom"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Rice is a grass, and wind carries its pollen. Mango, pumpkin and cardamom all set fruit after insects visit their flowers.",
    "outcome": 5
   },
@@ -2515,12 +2626,12 @@
    "t": "mcq",
    "p": "Which insects turn a dead branch back into soil?",
    "opts": [
-    "Termites",
     "Honeybees",
     "Butterflies",
+    "Termites",
     "Hawkmoths"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Termites eat dead wood, with the help of microbes and fungi. The other three feed at flowers.",
    "outcome": 6
   },
@@ -2528,12 +2639,12 @@
    "t": "mcq",
    "p": "When ants clear crumbs, why do the crumbs go faster after a slow start?",
    "opts": [
-    "More ants follow the first ant's trail",
     "The crumbs get lighter",
     "The ants get hungrier",
-    "The floor gets warmer"
+    "The floor gets warmer",
+    "More ants follow the first ant's trail"
    ],
-   "a": 0,
+   "a": 3,
    "why": "At first only one ant knows about the food. She leaves a scent trail, more ants follow, and many crumbs are carried at once.",
    "outcome": 6,
    "how": "e2"
@@ -2542,13 +2653,49 @@
    "t": "mcq",
    "p": "Which of these helps pollinators most?",
    "opts": [
-    "Never spraying a plant in flower",
     "Killing every fly outdoors",
     "Cutting down flowering trees",
+    "Never spraying a plant in flower",
     "Keeping bright lights on all night"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Insects come to open flowers, so a spray on flowers poisons the very insects the plant needs. The other three all harm pollinators.",
+   "outcome": 7
+  },
+  {
+   "t": "mcq",
+   "p": "Anita counts the legs on a beetle. How many legs does an insect have?",
+   "opts": [
+    "Four, in two pairs",
+    "Six, in three pairs",
+    "Eight, in four pairs"
+   ],
+   "a": 1,
+   "why": "Every insect has six legs, in three pairs. Eight legs belong to a spider, and a spider is not an insect.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "What do the weaver ants and the crow in a mango tree both get from the tree?",
+   "opts": [
+    "A place to live and be safe",
+    "Pollen to eat",
+    "A wax comb"
+   ],
+   "a": 0,
+   "why": "A tree gives shelter. The ants stitch nests in the leaves, and the crow builds in the branches. The ants do not eat pollen from the tree, and wax comb is made by honeybees.",
+   "outcome": 7
+  },
+  {
+   "t": "mcq",
+   "p": "A farmer finds caterpillars on her cabbage. Which choice is safest for bees?",
+   "opts": [
+    "Spraying a strong poison on the open flowers",
+    "Picking the caterpillars off by hand",
+    "Spraying neem on the flowers at noon"
+   ],
+   "a": 1,
+   "why": "Picking by hand harms no bee. A strong poison on open flowers kills bees. Even neem should go only on leaves, in the evening, when bees are not there.",
    "outcome": 7
   }
  ],
@@ -2818,6 +2965,57 @@
     "e1"
    ],
    "plan": "After the Hairy or Smooth test, read the pages on how a bee carries pollen."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Hairy or Smooth: which carrier takes pollen to more flowers?, From One Queen: draw the first year of an ant colony, Jumping Pollen: can pollen cross a gap without being touched?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "a3",
+    "a4"
+   ],
+   "plan": "Get it before Hairy or Smooth: which carrier takes pollen to more flowers?."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in The Clean-up Count: how fast do ants clear 20 crumbs?, The Kitchen Shelf Test: which foods needed an insect?. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "e2",
+    "a1"
+   ],
+   "plan": "Get it before The Clean-up Count: how fast do ants clear 20 crumbs?."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in Jumping Pollen: can pollen cross a gap without being touched?. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "a4"
+   ],
+   "plan": "Get it before Jumping Pollen: can pollen cross a gap without being touched?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

@@ -1,7 +1,7 @@
 # Fair tests: change one thing and keep the rest the same
 `sci.how-we-know.fair-tests.L3`
 
-**Summary.** Does lemon juice really stop a cut apple turning brown? In this unit you will find out what makes such a test fair, test it with apple slices, compare underarm and overarm throws in ten tries each, and write the results in a table.
+**Summary.** Does lemon juice really stop a cut apple turning brown? In this lesson you will find out what makes such a test fair, test it with apple slices, compare underarm and overarm throws in ten tries each, and write the results in a table.
 
 **Intro.** *Two children each drop a ball. The girl drops a rubber ball from above her head. Her little brother drops a plastic ball from his knee. The rubber ball bounces much higher. "My ball is bouncier!" she says. Is she right?* We can't tell yet. Two things were different: the ball and the height it fell from. Either one could have made the higher bounce. To find out about the balls, both must fall from the same height onto the same floor. Then the ball is the only thing left that is different.
 
@@ -20,14 +20,17 @@
 - **The thing we change**: The one variable you choose to change on purpose, to see what it does. *e.g.* In the apple test, the thing we change is what we put on each slice.
 - **The things we keep the same**: All the other variables. You keep them the same so they cannot make a difference. *e.g.* Same apple, same size slices, same plate, same place, same waiting time.
 - **Control**: The part of a test where you add nothing or change nothing. You compare everything else with it. *e.g.* The apple slice with nothing on it is the control. It shows what happens without lemon.
+- **Hazard**: Something that could hurt you or someone else. *e.g.* A sharp knife, boiling water, or a wet floor.
 - **Prediction**: Your guess about what will happen, with a reason, made before the test. *e.g.* "I think the lemon slice will stay white, because lemon juice is sour and I have seen it put on cut fruit."
 - **Observation**: Something you notice with your senses while you test, such as a colour, a sound or a smell. *e.g.* "The plain slice has gone light brown at the edges."
 - **Measure**: To find out how much of something there is, using a tool and a unit, such as centimetres or seconds. *e.g.* The ball bounced 45 centimetres high, measured against a tape stuck on the wall.
 - **Results**: What actually happened in the test, written down as words or numbers. *e.g.* Plain slice: dark brown after 1 hour. Lemon slice: still white.
 - **Table**: A way of writing results in rows and columns, so you can find and compare them quickly. *e.g.* One row for each apple slice. One column for each time you checked.
 - **Column and row**: A column goes down the page. A row goes across. Each column has a heading that says what is in it. *e.g.* The column headed 'After 30 minutes' shows every slice's colour at 30 minutes.
+- **Block graph**: A picture of results where each block is as tall as the number it shows. *e.g.* A block 7 squares tall for underarm and a block 4 squares tall for overarm.
 - **Repeat**: To do the same test again, in the same way, to see if you get the same result. *e.g.* Throw the paper ball 10 times, not once, before you decide which throw is better.
 - **Fluke**: A result that happened by chance once and may not happen again. *e.g.* One wild throw that goes straight in the bucket is a fluke if the next nine miss.
+- **Average**: One middle number for a set of results. Add the results and divide by how many there are. *e.g.* Bounces of 45, 44 and 46 centimetres add up to 135. Divided by 3, the average is 45 centimetres.
 - **Evidence**: What you saw or measured that shows whether an idea is right. *e.g.* The white lemon slice next to the brown plain slice is evidence that lemon slows browning.
 - **Conclusion**: What you decide from your evidence at the end of a test. *e.g.* "Lemon juice keeps a cut apple white for much longer than plain water."
 
@@ -52,6 +55,13 @@ Suppose you put lemon juice on an apple slice and it stays white. Did the lemon 
 - e.g. In the apple test, the slice with nothing on it is the control.
 - e.g. Doctors testing a new medicine give it to one group of people and not to a second group, so they can compare.
 - e.g. In a seed test, one pot of seeds gets watered the usual way, and the others get something new.
+### Checking for hazards · *defined*
+**Definition:** A hazard is something that could hurt you or someone else.
+
+Before you start any test, look around and ask: what could go wrong? A knife can cut, so a grown-up cuts the apples. Lemon juice stings if it gets in your eyes. Hot water can burn, so use warm water, not boiling. A wet floor can make someone slip. Write the hazards down with the plan. Then decide how to avoid each one, and keep that decision the same for every try, so safety does not change the test.
+- e.g. Brown Apple Test: a grown-up cuts the apple. Wash your hands after touching lemon juice.
+- e.g. Ten Throws: wipe any water on the floor near the bucket. Clear the space so nobody gets hit.
+- e.g. Tumbler test: use warm water from the tap, not boiling water.
 ### Writing results in a table · *defined*
 **Definition:** A results table has rows and columns. Each column has a heading that says what it holds, with the unit, such as 'Height (cm)'. Each row is one thing you tested.
 
@@ -59,6 +69,19 @@ When you test, you see many things quickly, and it is easy to forget them. A tab
 - e.g. Apple test: one row for each slice, one column for each time you look.
 - e.g. Bounce test: one row for each ball, three columns for three drops.
 - e.g. A school's attendance register is a table: one row for each child, one column for each day.
+### Drawing what you see · *defined*
+**Definition:** A labelled diagram is a drawing of what you see, with a word or two beside each part.
+
+A table is good for numbers. But some things you see cannot be written in a number, like how brown an apple slice looks. For these, draw a diagram next to the table. Draw each slice. Colour it as it looks. Write a label beside it, such as lemon, plain or water, and the time you looked. Later, you can place your diagram beside your table and see if they tell the same story.
+- e.g. After 30 minutes, draw each apple slice. Colour it the shade it has turned, and label it with what was on it.
+- e.g. Draw the brinjal bowl, and label the pieces that float and the pieces that sink.
+### Showing results as a block graph · *defined*
+**Definition:** A block graph is a picture of a table. Each block is as tall as the number it shows.
+
+A table holds the numbers. A block graph lets you see them at a glance. Look at the two blocks for the Ten Throws test: underarm is 7 and overarm is 4. Underarm's block is taller, so more balls went in underarm. To read a block graph, look at the title, then the label under each block, then the scale up the side. A good scale starts at 0 and counts up evenly. The taller block is the bigger number. A graph can show what a table says, but it cannot show more than the test found.
+- e.g. A block graph of how many balls went in: underarm 7, overarm 4.
+- e.g. A block graph of bounces: rubber ball 45 cm, tennis ball 39 cm.
+- e.g. A block graph of how many children in class like each fruit best.
 ### Why we repeat a test · *defined*
 **Definition:** Doing a test only once can mislead you, because one try can be a fluke. Repeating it in the same way shows whether the result is real.
 
@@ -66,6 +89,12 @@ Throw a paper ball at a bucket once and it may go in by luck. Throw it ten times
 - e.g. Drop each ball three times and look at all three heights.
 - e.g. Count how many of 10 throws go in, not just the first one.
 - e.g. Scientists in different countries repeat each other's tests to check the results.
+### Averaging repeated results · *defined*
+**Definition:** An average is one middle number for a set of results. Add the results, then divide by how many there are.
+
+When you repeat a test, you get several numbers that are close but not the same. An average gives one fair number to compare. A ball drops three times and bounces 45, 44 and 46 centimetres. Add them: 45 plus 44 plus 46 is 135. Divide by 3 tries, and the average is 45 centimetres. An average only helps when the tries were done the same way. If one try is far from the rest, check what went wrong before you use it.
+- e.g. Underarm throws in three rounds of ten went in 6, 7 and 8 times. Added up, that is 21. Divided by 3, the average is 7.
+- e.g. Two paper planes fly 3, 4 and 3 metres, and 5, 6 and 5 metres. The averages are about 3 and 5 metres, so the second plane is probably better.
 ### Why a cut apple turns brown, and what lemon does · *defined*
 **Definition:** When an apple is cut, the broken cells let some of their substances meet the oxygen in the air. A helper substance in the apple, called an enzyme, joins them together into new brown substances.
 
@@ -472,9 +501,9 @@ Then she added one more line: Next test, the sail.
   *Child mode:* Count how many guesses were right.
 
 ## Worksheets
-### Fair Test Detective (core) (core, 15 questions)
+### Fair Test Detective (core) (core, 17 questions)
 1. (mcq) Which floats longer: a paper boat folded from newspaper, or one folded from a notebook page? Which test is fair?  
-   Options: A big newspaper boat in a bucket and a small notebook boat in a pond / Two boats of the same size, put on the water at the same time in the same bucket / A wet boat and a dry boat  
+   Options: A big newspaper boat in a bucket and a small notebook boat in a pond / A wet boat and a dry boat / Two boats of the same size, put on the water at the same time in the same bucket  
    **Answer:** Two boats of the same size, put on the water at the same time in the same bucket. *Why:* The boats must be the same size, and they must float in the same water at the same time. Only the paper is different.
 2. (truefalse) True or false: if you change two things at once, you can still tell which one made the difference.  
    **Answer:** False. *Why:* False. If two things change together, either one could have caused the result. Change one thing at a time.
@@ -489,7 +518,7 @@ Then she added one more line: Next test, the sail.
 7. (match) Match each word to what it means.  
    **Answer:** Prediction → a guess with a reason, made before the test; Result → what really happened; Fluke → a result that happened once by chance; Evidence → what you saw that shows if an idea is right; Conclusion → what you decide from your evidence. *Why:* These words come up in every fair test. A strong answer could give an example of each.
 8. (mcq) A results table has a column headed 'Height'. What is missing from the heading?  
-   Options: The unit, such as (cm) / A colour / The date  
+   Options: A colour / The unit, such as (cm) / The date  
    **Answer:** The unit, such as (cm). *Why:* The unit is missing. 'Height (cm)' tells everyone the numbers are centimetres.
 9. (draw) Draw a results table for the Brown Apple Test. Give it headings for what you put on each slice and the colour at 10 and 30 minutes. Fill in your own results.  
    **Answer:** A table with 4 rows (nothing, water, salt water, lemon) and columns with clear headings, filled in with the child's own scores.. *Why:* A strong table has a heading on every column, one row for each slice, and no empty boxes.
@@ -506,11 +535,15 @@ Then she added one more line: Next test, the sail.
    **Answer:** ['repeating']. *Why:* We repeat tests because one try can be a fluke.
 15. (write) Name two things you would keep the same in a test of which shoe grips best on a slope.  
    **Answer:** The same slope, lifted the same way, and the same floor or board. Also the same person lifting it.. *Why:* A strong answer names things that could change the result if they were different, such as the board or the slope.
-### Planning and Recording (stretch) (stretch, 15 questions)
+16. (sort) Is each thing a hazard in a test, or fine? Sort them.  
+   **Answer:** a wet floor near the bucket → Hazard; a sharp knife used by a child → Hazard; boiling water in a tumbler → Hazard; a pencil and a notebook → Fine; a paper ball → Fine. *Why:* A hazard is something that could hurt you, like a slip, a cut or a burn. A pencil and a paper ball are safe to use.
+17. (fill) In a block graph, a taller block means a bigger ______. You read it against the ______ up the side.  
+   **Answer:** ['number', 'scale']. *Why:* The height of a block shows the number. The scale up the side tells you how much each step is worth.
+### Planning and Recording (stretch) (stretch, 17 questions)
 1. (write) Does salt make ice melt faster? Plan a fair test. Write what you change, what you keep the same, and what you watch.  
    **Answer:** Change: salt or no salt on the ice cube. Keep the same: cubes from the same tray, same size, same plates, same place, same time. Watch: which cube melts first, or how much water there is after 15 minutes.. *Why:* A strong plan has all three parts and a control cube with no salt.
 2. (mcq) Paper plane A is thrown three times: 3 m, 4 m, 3 m. Plane B is thrown three times: 6 m, 1 m, 3 m. What can you say?  
-   Options: Plane B is better because it went 6 m once / You can't be sure yet: B's 6 m may be a fluke, and both went 10 m in total / Plane A is broken  
+   Options: You can't be sure yet: B's 6 m may be a fluke, and both went 10 m in total / Plane B is better because it went 6 m once / Plane A is broken  
    **Answer:** You can't be sure yet: B's 6 m may be a fluke, and both went 10 m in total. *Why:* A's throws are close together. B had one long throw, 6 m, which may be a fluke. Both planes went 10 m in total, so you can't yet say which is better. More throws are needed.
 3. (write) Does newspaper or notebook paper make a paper plane that flies further? Plan a fair test. Write what you change, two things you keep the same, and what you measure.  
    **Answer:** Change: the kind of paper. Keep the same: the plane's fold and size, the thrower, the throwing spot, the number of throws. Measure: how far each plane flies, in metres.. *Why:* A strong plan has all three parts, and the things kept the same are ones that could really change the distance.
@@ -519,10 +552,10 @@ Then she added one more line: Next test, the sail.
 5. (write) In the Brinjal Bowl test, the brinjal pieces float. Why would it be unfair to let them float, and how do you fix it?  
    **Answer:** A floating piece has its top in the air, so it would brown on top like the plate piece. Then the test wouldn't really show what water does. Fix it by holding each piece under with a steel lid.. *Why:* A strong answer says what the air does to the floating part and gives the fix.
 6. (mcq) Kavya's family did the Family Balance Table. Look at their table. Who balanced longest in total?  
-   Options: Kavya / Her grandmother, Paati / Her father, Appa  
+   Options: Kavya / Her father, Appa / Her grandmother, Paati  
    **Answer:** Her grandmother, Paati. *Why:* Paati's times add to 60 seconds, Kavya's to 45 and Appa's to 30. Paati balanced longest.
 7. (mcq) A table shows three bounces for each ball. The rubber ball bounced 45, 44 and 46 centimetres. The tennis ball bounced 38, 40 and 39 centimetres. What can you say?  
-   Options: The rubber ball bounced higher on every try, so it is probably bouncier / The tennis ball is bouncier because it is lighter / You can say nothing from three tries  
+   Options: The tennis ball is bouncier because it is lighter / The rubber ball bounced higher on every try, so it is probably bouncier / You can say nothing from three tries  
    **Answer:** The rubber ball bounced higher on every try, so it is probably bouncier. *Why:* Every rubber ball bounce was higher than every tennis ball bounce, and the three tries of each ball were close together. That is good evidence.
 8. (draw) Draw a results table for Ten Throws, with rows for underarm and overarm and columns for the tally and the number in.  
    **Answer:** A table with two rows and three columns: Throw, Tally, Number in out of 10.. *Why:* A strong table has clear headings and room for a tally.
@@ -541,20 +574,25 @@ Then she added one more line: Next test, the sail.
    **Answer:** 0. *Why:* The way of throwing is the thing being changed. The line, the ball and the bucket are kept the same.
 15. (write) Someone says their toy car is faster because it beat another car down the stairs. Write one question you would ask to check if the test was fair.  
    **Answer:** For example: Did both cars start from the same step? Did you both let go without pushing?. *Why:* A strong question names one thing that might have been different apart from the car.
+16. (mcq) Plane B flew 6, 8 and 7 metres in three throws. What is its average?  
+   Options: 7 metres / 8 metres / 21 metres  
+   **Answer:** 7 metres. *Why:* Add 6, 8 and 7 to get 21. Divide by 3 throws, and the average is 7 metres. The number 21 is only the total.
+17. (draw) Draw three apple slices as they look after 30 minutes: one with lemon, one with water, one with nothing. Colour each and label it.  
+   **Answer:** Three labelled slices: lemon is the palest, water is a little brown, and plain is the brownest.. *Why:* A labelled drawing keeps what you saw. It can sit beside the table and show the same story.
 ### Thinking Like a Scientist (challenge) (challenge, 15 questions)
 1. (write) Many people think a cricket team wins more when someone wears their 'lucky' shirt. How could you test this idea fairly? What makes it hard?  
    **Answer:** Record many matches, with and without the shirt, and compare how many were won. It is hard because so many other things change from match to match: the other team, the weather, who plays.. *Why:* A strong answer plans a comparison over many matches and names at least one thing that is hard to keep the same.
 2. (perspective) Two scientists disagree about how to find out if a big neem tree cools a street.  
    **Answer:** A strong answer sees that the first scientist can't plant and remove a tree easily, and that the second must make sure the streets are alike in other ways, such as width and buildings.. *Why:* This is a real problem in science: some things can't be changed on purpose, so scientists compare carefully chosen cases.
 3. (mcq) In a fair test of salt on ice, the salted cube makes more water in 15 minutes. But the salt itself has also dissolved into the water. What does this mean?  
-   Options: The test is useless / The salt adds a little to the water, so a small difference might not mean much / Salt cannot dissolve  
+   Options: The salt adds a little to the water, so a small difference might not mean much / The test is useless / Salt cannot dissolve  
    **Answer:** The salt adds a little to the water, so a small difference might not mean much. *Why:* The salt adds a little to the liquid, so the comparison is not perfect. Noticing hidden differences like this is what good scientists do. If the difference is bigger than the salt alone could add, it still shows that the salt melted more ice.
 4. (write) In the Brown Apple Test, the plain apple slice went brown with nothing on it. What was making it brown? How does this help you understand what the lemon did?  
    **Answer:** Air, warmth and the cut were browning it, because the apple's broken cells meet oxygen. Every slice had those. So the plain slice shows what happens without lemon, and the difference with the lemon slice is what the lemon did.. *Why:* A strong answer names the causes every slice shared and uses the control to explain the lemon's effect.
 5. (sort) Can each question be answered by a fair test you change yourself, or only by comparing what nature has already done?  
    **Answer:** Does lemon keep apple white? → Fair test; Do bigger stars burn out sooner? → Comparing what nature did; Does stirring dissolve sugar faster? → Fair test; Were dinosaurs warm-blooded? → Comparing what nature did; Which throw gets more balls in a bucket? → Fair test; Do people who eat more vegetables live longer? → Comparing what nature did. *Why:* If you can change the thing yourself, you can do a fair test. If not, you compare many cases.
 6. (mcq) A shop says its new soap 'kills 99% of germs'. Which question best checks if this is a fair claim?  
-   Options: What colour is the soap? / Compared with what? Did plain soap kill as many? / How much does it cost?  
+   Options: What colour is the soap? / How much does it cost? / Compared with what? Did plain soap kill as many?  
    **Answer:** Compared with what? Did plain soap kill as many?. *Why:* To know the soap helps, you must compare it with something, like plain soap. A claim with no comparison doesn't tell you much.
 7. (draw) Draw a bar chart of these Ten Throws results: underarm 7, overarm 4. Label both bars and the side of the chart.  
    **Answer:** Two bars, underarm up to 7 and overarm up to 4, with a side scale from 0 to 10 labelled 'Balls in'.. *Why:* A strong chart has labelled bars, a numbered scale starting at 0, and a title.
@@ -583,41 +621,53 @@ Then she added one more line: Next test, the sail.
 
 ## Quiz
 1. (mcq) What is a fair test?  
-   Options: A test where everyone wins / A test where you change only one thing and keep everything else the same / A test you do only once / A test that agrees with your guess  
+   Options: A test where everyone wins / A test you do only once / A test where you change only one thing and keep everything else the same / A test that agrees with your guess  
    **Answer:** A test where you change only one thing and keep everything else the same. *Why:* A fair test changes only one thing. Then any difference in the result must come from that one thing.
 2. (mcq) You want to know which of two balls is bouncier. What must you do?  
    Options: Drop them from different heights / Drop them from the same height onto the same floor / Throw one and drop the other / Drop one on the rug and one on the tiles  
    **Answer:** Drop them from the same height onto the same floor. *Why:* Only the ball should be different. Same height, same floor, and just let go.
 3. (mcq) One tomato plant sits on the sunny balcony and is watered every day. Another sits inside and is not watered. The balcony plant grows better. What is wrong with this test?  
-   Options: Nothing, it is fair / Two things were different: the light and the water / It used plants / It should have used three plants  
+   Options: Two things were different: the light and the water / Nothing, it is fair / It used plants / It should have used three plants  
    **Answer:** Two things were different: the light and the water. *Why:* Light and water were both different, so nobody can tell which one helped the balcony plant.
 4. (mcq) In a test of whether lemon keeps an apple slice white, why is one slice kept with nothing on it?  
    Options: To eat it / To compare: it shows what happens with no lemon / Because lemon is expensive / To make the plate look full  
    **Answer:** To compare: it shows what happens with no lemon. *Why:* That slice is the control. If it goes brown while the lemon slice stays white, the lemon made the difference.
 5. (mcq) In the Brown Apple Test, which of these should be the same for every slice?  
-   Options: What you put on it / The apple it was cut from / Its colour at the end / Its label  
+   Options: The apple it was cut from / What you put on it / Its colour at the end / Its label  
    **Answer:** The apple it was cut from. *Why:* All slices come from one apple. Different apples can brown at different speeds, so using two apples would be unfair.
 6. (mcq) You throw a paper ball once underarm and it goes in. You throw once overarm and miss. What should you do next?  
-   Options: Decide underarm is better / Throw many more times each, the same way / Stop playing / Use a different bucket  
+   Options: Decide underarm is better / Stop playing / Use a different bucket / Throw many more times each, the same way  
    **Answer:** Throw many more times each, the same way. *Why:* One throw can be a fluke. Ten throws each give a much better answer.
 7. (mcq) In a results table, where do you write the unit, such as 'seconds'?  
-   Options: After every number / In the column heading / At the very bottom / You don't need units  
+   Options: After every number / At the very bottom / You don't need units / In the column heading  
    **Answer:** In the column heading. *Why:* The unit goes once in the heading, for example 'Time (seconds)'. It tells everyone what all the numbers in that column mean.
 8. (mcq) A table for Ten Throws says: underarm 7 out of 10, overarm 4 out of 10. What can you say from it?  
-   Options: Overarm got more in / Underarm got more in, in this test / They were the same / You can't say anything  
+   Options: Overarm got more in / They were the same / Underarm got more in, in this test / You can't say anything  
    **Answer:** Underarm got more in, in this test. *Why:* 7 is more than 4. So in this test of ten throws each, more went in underarm. Repeating the test would make you surer.
 9. (mcq) Why does a cut apple slice turn brown?  
-   Options: It is dirty / Substances in the broken cells meet oxygen in the air / The knife was steel / Light shines on it  
+   Options: Substances in the broken cells meet oxygen in the air / It is dirty / The knife was steel / Light shines on it  
    **Answer:** Substances in the broken cells meet oxygen in the air. *Why:* Cutting breaks the apple's cells. Their substances meet the oxygen in the air, and an enzyme makes brown substances.
 10. (mcq) A ship's doctor wants to find which treatment cures sailors sick with scurvy. He splits them into six pairs. To make it a fair test, what should be different between the pairs?  
-   Options: The treatment they are given / The food they eat / The part of the ship they sleep in / The illness they have  
+   Options: The food they eat / The part of the ship they sleep in / The illness they have / The treatment they are given  
    **Answer:** The treatment they are given. *Why:* Every pair should have the same food, the same place to sleep and the same illness. Only the treatment changes, so if one pair gets better, it must be the treatment that helped.
 11. (mcq) Sailors on long trips got scurvy, because their food had no vitamin C. Which treatment would help them get better fastest?  
    Options: Sea water / Vinegar / Oranges and lemons / Dilute acid  
    **Answer:** Oranges and lemons. *Why:* Oranges and lemons have vitamin C, which the body needs. The other treatments do not give it.
 12. (mcq) Your test shows something you didn't expect. What is the best thing to do?  
-   Options: Change the result to match your guess / Keep the result, check the test was fair, and repeat it / Throw the table away / Say the test is broken  
+   Options: Keep the result, check the test was fair, and repeat it / Change the result to match your guess / Throw the table away / Say the test is broken  
    **Answer:** Keep the result, check the test was fair, and repeat it. *Why:* An unexpected result is still a result. If the test was fair and gives the same result again, you have learned something new.
+13. (mcq) A block graph shows underarm at 7 and overarm at 4 balls in. Which is right?  
+   Options: Overarm's block is taller, because it is thrown harder / Underarm's block is taller, so more balls went in underarm / You cannot tell anything from a block graph  
+   **Answer:** Underarm's block is taller, so more balls went in underarm. *Why:* A taller block means a bigger number. Here 7 is more than 4. A block graph is a picture of the table, so you can read it the same way.
+14. (mcq) In the Brown Apple Test, how do you record how brown each slice looks, when a number will not do?  
+   Options: Do not record it at all / Draw each slice, colour it as it looks, and label it / Write 'apple' for every slice  
+   **Answer:** Draw each slice, colour it as it looks, and label it. *Why:* A labelled drawing shows what you saw. A table of times and numbers cannot show shades, and leaving it out loses evidence.
+15. (mcq) Before Ten Throws, you see water spilled on the floor near the bucket. What should you do?  
+   Options: Start, and just throw carefully / Wipe it up first, then start / Throw harder, so you get it done quickly  
+   **Answer:** Wipe it up first, then start. *Why:* A wet floor is a hazard, because someone could slip. Checking for hazards comes before the test starts.
+16. (mcq) A ball bounces 20, 22 and 21 centimetres in three drops. What is the average bounce?  
+   Options: 21 centimetres / 20 centimetres / 63 centimetres  
+   **Answer:** 21 centimetres. *Why:* Add them: 20 plus 22 plus 21 is 63. Divide by 3 drops, and you get 21. The number 63 is only the total.
 
 ## Applications
 - Doctors test new medicines in fair tests called trials, comparing people who get the medicine with people who don't.
@@ -680,6 +730,12 @@ One Thing at a Time (sci.how-we-know.L3): Topic-level song for How we know L3
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A science museum with hands-on galleries where children can test things for themselves.
 
 ## Things to buy
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in The Fair Car Race. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in c1. Get it before The Fair Car Race.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Brown Apple Test: what keeps a cut apple white?, The Family Balance Table, My Own Fair Test. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a2, p1, c1. Get it before The Brown Apple Test: what keeps a cut apple white?.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in The Unfair Bounce. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in a1. Get it before The Unfair Bounce.
+- [Vinegar](https://www.amazon.in/s?k=white+vinegar) (material): Used in Be James Lind: act out the scurvy test. About ₹40 to ₹80. Lemon juice works for many tests. Used in a4. Get it before Be James Lind: act out the scurvy test.
+- [A small toy car with free-rolling wheels](https://www.amazon.in/s?k=toy+car+pull+back+small) (material): Used in The Fair Car Race. About ₹100 to ₹200. A marble or a round torch cell works. Used in c1. Get it before The Fair Car Race.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - A fair test changes how many things? → Only one thing.

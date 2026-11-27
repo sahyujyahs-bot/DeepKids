@@ -1,9 +1,9 @@
 # Light sources: things that make their own light
 `sci.light.light-sources.L1`
 
-**Summary.** Switch off a torch in a dark room and the dark comes back at once. Which things make their own light? In this unit you will test things in a dark room, sort cards of light makers, and go on a little lights hunt at night.
+**Summary.** Switch off a torch in a dark room and the dark comes back at once. Which things make their own light? In this lesson you will test things in a dark room, sort cards of light makers, and go on a little lights hunt at night.
 
-**Intro.** *Switch off the lights in a room at night. Hold your hand in front of your face. Can you see it?* In the dark, you cannot see your hand, even though it is right there. Now switch on a torch. You can see your hand again. The torch made light, and the light let you see. In this unit you find out which things make their own light, and which things only look bright.
+**Intro.** *Switch off the lights in a room at night. Hold your hand in front of your face. Can you see it?* In the dark, you cannot see your hand, even though it is right there. Now switch on a torch. You can see your hand again. The torch made light, and the light let you see. In this lesson you find out which things make their own light, and which things only look bright.
 
 ## Learning outcomes
 0. By the end I can say what a light source is: a thing that makes its own light.
@@ -26,6 +26,8 @@ In the dark room test, you could see the torch only when it was switched on, and
 - e.g. In the dark room test, the torch shone the moment it was switched on.
 - e.g. A diya flame lights up a dark room in a power cut.
 - e.g. A firefly flashes their light to find other fireflies at night.
+- **Euclid and Ptolemy:** Taught that rays go out from the eye and touch the things we see.
+- **Ibn al-Haytham (about 1020):** Showed by experiments that light comes into the eye from things. Light sources make the light, and other things send it back.
 ### Shiny things only send back light · *defined*
 **Definition:** A shiny thing, like a steel spoon or a mirror, makes no light of its own. It looks bright only when light from a light source falls on it.
 
@@ -33,6 +35,8 @@ In a bright room, the steel spoon and the mirror look very bright. Many children
 - e.g. In the dark room test, the spoon vanished until the torch shone on it.
 - e.g. A steel tumbler shines next to a lamp, and goes dark when the lamp is taken away.
 - e.g. A mirror in a dark cupboard shows nothing.
+- **Euclid and Ptolemy:** Ancient Greek thinkers taught that our eyes send out rays that touch things and make them seen. Plato also thought this.
+- **Ibn al-Haytham:** In about 1011 to 1021 in Cairo he showed that light enters the eye from things, after bouncing off them. He wrote it in his Book of Optics and tested it with experiments.
 ### A lamp makes light only while it is working · *defined*
 **Definition:** A lamp or a torch does not keep light inside it. It makes new light every moment, as long as it has oil, cells or electricity.
 
@@ -40,6 +44,8 @@ In the dark room test, when you switched the torch off, the dark came back at on
 - e.g. In the dark room test, the dark came back the moment the torch was switched off.
 - e.g. In a power cut, every tube light goes dark at the same moment.
 - e.g. A diya goes out when all its oil is used up.
+- **Physicists:** Say light is made when energy changes form. A hot filament, a flame or an LED turns another kind of energy into light each moment, and the light itself is never stored.
+- **Fireflies and glow-worms:** Make cold light by a chemical reaction in their bodies, using luciferin. They glow with almost no heat, which the light bulb cannot do.
 ### The Sun is a star, and our biggest light source · *defined*
 **Definition:** The Sun is a star: a huge ball of very hot gas that makes its own light. Almost all the light on Earth in the day comes from the Sun.
 
@@ -47,6 +53,8 @@ The Sun is so big that more than a million Earths could fit inside it. It is ver
 - e.g. Sunlight coming through a window lights up the whole room in the day.
 - e.g. Plants use sunlight to make their food.
 - e.g. On a cloudy day, the Sun is still shining above the clouds.
+- **Many Indian traditions:** Surya is a god who gives life, and is worshipped each day.
+- **Astronomers:** The Sun is a star, a ball of gas about 150 million kilometres away, and the stars at night are other suns.
 
 ## Mostly agreed
 - A light source makes its own light. *How we know:* Anyone can test it in a dark room. A torch and a phone screen can be seen in the dark. A spoon, a mirror and a book cannot.
@@ -392,10 +400,10 @@ Next morning, Meenu drew a picture. She drew the Sun, the brass lamp, the torch 
 8. (truefalse) The Sun is a star, and it is a light source.  
    **Answer:** True. *Why:* True. The Sun is a huge ball of very hot gas that makes its own light. It is the star nearest to us.
 9. (mcq) Someone says a shiny steel tumbler is a lamp, because it shines. What is the best way to test this?  
-   Options: Take it into a dark room and see if it still shines / Look at it in a sunny room / Ask it to shine  
+   Options: Look at it in a sunny room / Take it into a dark room and see if it still shines / Ask it to shine  
    **Answer:** Take it into a dark room and see if it still shines. *Why:* A light source can be seen in the dark. A tumbler only shines when light falls on it, so in a dark room it vanishes. It makes no light of its own.
 10. (mcq) Which of these gives heat as well as light?  
-   Options: A lit candle / A steel spoon / A mirror  
+   Options: A steel spoon / A mirror / A lit candle  
    **Answer:** A lit candle. *Why:* A flame makes heat and light. The spoon and the mirror make neither.
 ### Light Makers (stretch) (stretch, 10 questions)
 1. (order) Put these in order, 1 to 4: what happened in the dark room?  
@@ -407,7 +415,7 @@ Next morning, Meenu drew a picture. She drew the Sun, the brass lamp, the torch 
 4. (perspective) It is Karthigai Deepam. Two friends talk about how to light up their balcony.  
    **Answer:** Either choice, with a good reason. Diyas need no electricity and use oil from plants, but they have flames and make smoke. LED lights are safe and use little electricity, but they need power from the wires.. *Why:* A strong answer gives a reason, and fairly names something good about the other choice. Both are real light sources. Each needs something different to keep shining.
 5. (mcq) Which light source do we never need to switch on or fill up?  
-   Options: The Sun / A torch / A tube light  
+   Options: A torch / The Sun / A tube light  
    **Answer:** The Sun. *Why:* The Sun makes its own light all the time. Nobody needs to switch it on, fill it with oil or put cells in it.
 6. (match) Draw a line from each light source to where you would find it.  
    **Answer:** A lighthouse → By the sea, to guide ships; A street light → Beside a road; A firefly → Among trees, at night; Lightning → In a storm cloud. *Why:* Light sources are found in many places. Some are made by people, like lighthouses and street lights. Some are made by nature, like lightning, and some are living beings, like fireflies.
@@ -419,7 +427,7 @@ Next morning, Meenu drew a picture. She drew the Sun, the brass lamp, the torch 
    Options: At night, using the energy it stored in the day / Only while the sun shines on it / Never  
    **Answer:** At night, using the energy it stored in the day. *Why:* A solar lamp stores energy from sunlight in the day, and uses it to make light at night.
 10. (mcq) Two torches are the same, but one has weak cells and one has fresh cells. Which one lights the far wall better?  
-   Options: The one with fresh cells / The one with weak cells / Both the same  
+   Options: The one with weak cells / Both the same / The one with fresh cells  
    **Answer:** The one with fresh cells. *Why:* A torch makes light from the energy in its cells. Weak cells give less light, so the far wall looks dim.
 
 ## Videos
@@ -432,31 +440,31 @@ Next morning, Meenu drew a picture. She drew the Sun, the brass lamp, the torch 
    Options: A thing that makes its own light / Any thing that looks bright / A thing you can see through  
    **Answer:** A thing that makes its own light. *Why:* A light source makes its own light, like the Sun or a lit diya. A shiny thing that only looks bright is not a light source.
 2. (mcq) Which of these is a light source?  
-   Options: A lit candle / A steel plate / A mirror  
+   Options: A steel plate / A mirror / A lit candle  
    **Answer:** A lit candle. *Why:* A lit candle makes its own light. The steel plate and the mirror only shine with light from somewhere else.
 3. (mcq) Which light source is alive?  
-   Options: A firefly / A torch / A tube light  
+   Options: A torch / A firefly / A tube light  
    **Answer:** A firefly. *Why:* A firefly is a living being who makes their own light inside their body.
 4. (mcq) Why does a mirror look bright in a sunny room?  
    Options: It sends back sunlight / It makes its own light / It is hot  
    **Answer:** It sends back sunlight. *Why:* A mirror makes no light. It looks bright because sunlight falls on it and bounces off into our eyes.
 5. (mcq) You switch off the tube light at night. Why does the room go dark?  
-   Options: The tube light stops making light / The light goes back into the tube / The light runs out of the window  
+   Options: The light goes back into the tube / The tube light stops making light / The light runs out of the window  
    **Answer:** The tube light stops making light. *Why:* A tube light makes new light only while electricity flows through it. Switch it off, and it stops making light.
 6. (mcq) What does a torch need to make light?  
-   Options: Cells that send it electricity / Sunlight on its glass / Water  
+   Options: Sunlight on its glass / Water / Cells that send it electricity  
    **Answer:** Cells that send it electricity. *Why:* A torch uses the electricity from its cells. When the cells run out, the torch stops shining.
 7. (mcq) What is the Sun?  
-   Options: A star / A big lamp in the sky / A planet  
+   Options: A big lamp in the sky / A planet / A star  
    **Answer:** A star. *Why:* The Sun is a star: a huge ball of very hot gas that makes its own light. It is the nearest star to us.
 8. (mcq) What is the rule for looking at the Sun?  
-   Options: Never look straight at it / Look at it through sunglasses / Look at it for just one second  
+   Options: Look at it through sunglasses / Never look straight at it / Look at it for just one second  
    **Answer:** Never look straight at it. *Why:* The Sun is so bright it can harm your eyes, even in one second and even through sunglasses. Never look straight at the Sun.
 9. (mcq) Where is the Sun at night?  
    Options: Still shining, on the other side of the Earth / Switched off until morning / Hiding behind the Moon  
    **Answer:** Still shining, on the other side of the Earth. *Why:* The Sun never stops shining. At night, our side of the Earth is turned away from it.
 10. (mcq) Which of these is a light source made by nature?  
-   Options: Lightning / A tube light / A torch  
+   Options: A tube light / A torch / Lightning  
    **Answer:** Lightning. *Why:* Lightning is a giant spark in the sky that makes light. A tube light and a torch are made by people.
 
 ## Applications
@@ -467,13 +475,13 @@ Next morning, Meenu drew a picture. She drew the Sun, the brass lamp, the torch 
 - Most white LED lights use a blue LED with a yellow coating. Isamu Akasaki, Hiroshi Amano and Shuji Nakamura in Japan made the first bright blue LEDs. They won the Nobel Prize in Physics in 2014.
 
 ## Spotted around us
-- At Karthigai Deepam in Tamil Nadu, homes are lit with rows of clay diyas, and a huge flame is lit on the hill at Tiruvannamalai.
-- In many homes in Kerala, a tall brass lamp called a nilavilakku is lit in the evening.
-- On Sundays and festival nights, Mysuru Palace is lit up with nearly a hundred thousand bulbs.
-- The lighthouse on Marina Beach in Chennai flashes its light out over the sea every night.
-- Before the monsoon, in villages near Bhandardara in Maharashtra, trees twinkle with thousands of fireflies.
-- In Chandannagar in West Bengal, lighting artists make huge pictures out of tiny lights for Jagaddhatri Puja.
-- At Dev Deepawali in Varanasi, the steps along the Ganga are covered with lit diyas.
+- At Karthigai Deepam, homes are lit with rows of clay diyas.
+- In many homes, a tall brass lamp called a nilavilakku is lit in the evening.
+- On festival nights, a palace or a big temple is lit up with thousands of bulbs.
+- A lighthouse by the sea, flashing its light out over the water every night.
+- Before the monsoon, trees twinkle with thousands of fireflies, in villages away from city lights.
+- At Jagaddhatri Puja, lighting artists make huge pictures out of tiny lights.
+- At Dev Deepawali, the steps along a river are covered with lit diyas.
 
 ## Open questions
 - **How long does light take to get out from the middle of the Sun?** Light made deep inside the Sun bumps into the gas again and again on its way out. Scientists think this takes many thousands of years, but their answers differ by a lot.
@@ -509,10 +517,14 @@ Who Makes the Light? (sci.light.L1): Topic-level song for Light, seeing and shad
 ## Links
 - [NASA Space Place: All about the Sun](https://spaceplace.nasa.gov/all-about-the-sun/en/) · interactive: For the parent to read aloud: simple pages and pictures about our nearest star.
 - [StoryWeaver, free picture books from Pratham Books](https://storyweaver.org.in/) · interactive: Free picture books in many Indian languages to read aloud. Search for books about the Sun, lamps, fireflies and power cuts.
-- [B.M. Birla Planetarium, Periyar Science and Technology Centre]() · place · Chennai: Sky shows about the Sun and the stars, and a science centre next door.
+- B.M. Birla Planetarium, Periyar Science and Technology Centre · place · Chennai: Sky shows about the Sun and the stars, and a science centre next door.
 - [Nehru Planetarium](https://nehruplanetarium.org/) · place · New Delhi: Sky shows about the Sun, stars and planets, good for a family day out.
 
 ## Things to buy
+- [A magnetic compass](https://www.amazon.in/s?k=magnetic+compass+school) (tool): Used in The Paper-Cup Star Lantern. About ₹30 to ₹150. A phone compass app also works. Used in p1. Get it before The Paper-Cup Star Lantern.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in Light Maker or Not? The dark room test, Read in the Power Cut. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in e1, c1. Get it before Light Maker or Not? The dark room test.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in The Diya Up Close, The Paper-Cup Star Lantern. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in a3, p1. Get it before The Diya Up Close.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What do we call a thing that makes its own light? → A light source.
@@ -528,8 +540,8 @@ Who Makes the Light? (sci.light.L1): Topic-level song for Light, seeing and shad
 - Core: a1, e1, g1, a2, ws-core
 
 ## Sources
-- ideas/by_topic/light-seeing-and-shadows.md: the founder's trataka (steady candle-gazing) idea became the Roots practice, done briefly with a diya at arm's length and with a sunny window instead for families without a flame. Her 'flash-light chase' and 'photon tag' physical games grew into Torch On, Torch Off. Her note on fireflies lighting the night became the firefly cards, spotted card and video. Her deeper ideas (photons, speed of light, the 8-minute trip, glow sticks and the dark box) belong to the Level 3 light units, so this unit does not repeat them.
-- Curriculum entry sci.light.light-sources.L1 (Sun, lamp, fire, torch: things that give light). No board chapter is listed for this level. The Level 2 unit goes on to the Moon and to darkness as the absence of light, so this unit only prepares for those ideas.
+- ideas/by_topic/light-seeing-and-shadows.md: the founder's trataka (steady candle-gazing) idea became the Roots practice, done briefly with a diya at arm's length and with a sunny window instead for families without a flame. Her 'flash-light chase' and 'photon tag' physical games grew into Torch On, Torch Off. Her note on fireflies lighting the night became the firefly cards, spotted card and video. Her deeper ideas (photons, speed of light, the 8-minute trip, glow sticks and the dark box) belong to the Level 3 light units, so this lesson does not repeat them.
+- Curriculum entry sci.light.light-sources.L1 (Sun, lamp, fire, torch: things that give light). No board chapter is listed for this level. The Level 2 unit goes on to the Moon and to darkness as the absence of light, so this lesson only prepares for those ideas.
 - Cecilia Payne, Stellar Atmospheres (PhD thesis, Radcliffe College, 1925): stars are mostly hydrogen and helium. H. N. Russell, 'On the composition of the Sun's atmosphere', Astrophysical Journal 70 (1929), confirmed it.
 - M. N. Saha, 'Ionization in the solar chromosphere', Philosophical Magazine 40 (1920): the ionisation equation Payne used.
 - The Nobel Prize in Physics 2014, to Isamu Akasaki, Hiroshi Amano and Shuji Nakamura, for efficient blue light-emitting diodes, which made bright, energy-saving white light sources possible.

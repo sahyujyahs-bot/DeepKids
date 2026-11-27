@@ -1,9 +1,9 @@
 # Air pushes: why a card holds up a glass of water, and nothing really sucks
 `sci.air.air-around-us.L4`
 
-**Summary.** Why does a card stay on an upside-down glass of water, with nothing gluing it? The air is pushing it. In this unit you will do that trick, test a bottle with a hole and a straw with a hole, and watch a bottle squash itself.
+**Summary.** Why does a card stay on an upside-down glass of water, with nothing gluing it? The air is pushing it. In this lesson you will do that trick, test a bottle with a hole and a straw with a hole, and watch a bottle squash itself.
 
-**Intro.** *Fill a glass to the brim and slide a card over it. Hold the card and turn the glass upside down. Now take your hand away. The card does not fall. The water does not fall. What is holding it up?* There is no glue, no magnet and no hand. Something you cannot see is pushing the card up from below, and it is strong enough to hold a glass of water. In this unit you find out what it is. You test a bottle with a hole, a straw with a hole and a bottle that crushes itself. You also find out how people first proved that air has a push, and why it lifts water only ten metres and no more.
+**Intro.** *Fill a glass to the brim and slide a card over it. Hold the card and turn the glass upside down. Now take your hand away. The card does not fall. The water does not fall. What is holding it up?* There is no glue, no magnet and no hand. Something you cannot see is pushing the card up from below, and it is strong enough to hold a glass of water. In this lesson you find out what it is. You test a bottle with a hole, a straw with a hole and a bottle that crushes itself. You also find out how people first proved that air has a push, and why it lifts water only ten metres and no more.
 
 ## Learning outcomes
 0. I can explain that air pushes on everything it touches, from every direction, with about 1 kilogram of push on each square centimetre.
@@ -460,7 +460,7 @@ That night, at home, Selvi found a straw in the kitchen and poked it with her mo
 ## Worksheets
 ### Worksheet 1: Air pushes (core, 16 questions)
 1. (mcq) Air is pushing on this page right now. In which directions does it push?  
-   Options: Only down, because of its weight / In every direction, up, down and sideways / Only up  
+   Options: In every direction, up, down and sideways / Only down, because of its weight / Only up  
    **Answer:** In every direction, up, down and sideways. *Why:* Air particles fly in every direction, so the push is the same in every direction. 'Only down' is a common idea, because we think of the weight of the air above. In the Card on the Glass, the card held even when the glass was on its side.
 2. (truefalse) We do not notice the air pushing on us because the push is too small to matter.  
    **Answer:** False. *Why:* False. The push is big, about 1 kilogram on every square centimetre. We do not notice it because it is balanced by the push of the air and water inside our bodies.
@@ -484,7 +484,7 @@ That night, at home, Selvi found a straw in the kitchen and poked it with her mo
 11. (truefalse) When you sip through a straw, the straw pulls the drink up.  
    **Answer:** False. *Why:* False. Sipping takes air out of the straw, so less air pushes on the drink inside. The air pushing on the drink in the glass lifts it. A hole in the straw shows this, because you sip just as hard but the drink does not rise.
 12. (mcq) In the Straw with a Hole, one straw had a hole near the top and another had no hole. What is the plain straw there for?  
-   Options: It is the control, to show what happens with no hole / It is the straw that will break / It is the straw to drink from first  
+   Options: It is the straw that will break / It is the straw to drink from first / It is the control, to show what happens with no hole  
    **Answer:** It is the control, to show what happens with no hole. *Why:* A control changes nothing, so it shows what happens normally. Then you can say that any difference in the other straw came from the hole.
 13. (write) Someone says: 'The card stayed on the glass because the card was wet.' How could you test whether this is right? Say what you would change and what you would keep the same.  
    **Answer:** Try the card dry and wet on the same full glass. Keep the glass, the water and the card the same, and change only whether the card is wet.. *Why:* A strong answer changes one thing, wet or dry, and keeps the glass, the water and the card the same. Then, any difference comes from the wet card.
@@ -497,7 +497,7 @@ That night, at home, Selvi found a straw in the kitchen and poked it with her mo
    **Answer:** The air outside pushes less up there, so the air inside pushes the packet out. *Why:* Higher up, there is less air above, so the push outside falls. The air shut inside still pushes as before, so the packet swells. If you picked gas from the chips, remember that a sealed empty bottle also swells, and it has no chips in it.
 ### Worksheet 2: Straws, pumps and hills (stretch, 17 questions)
 1. (mcq) Torricelli's tube was filled with mercury and not with water. What is the main reason?  
-   Options: Mercury is about 13.6 times heavier than water, so the tube needs to be only about 76 centimetres tall / Mercury does not evaporate / Mercury is shiny and easy to see  
+   Options: Mercury does not evaporate / Mercury is about 13.6 times heavier than water, so the tube needs to be only about 76 centimetres tall / Mercury is shiny and easy to see  
    **Answer:** Mercury is about 13.6 times heavier than water, so the tube needs to be only about 76 centimetres tall. *Why:* Water would need a tube more than 10 metres tall. Mercury is much heavier, so a short column of it balances the same push.
 2. (count) The air can hold up a column of water 10.3 metres tall, which is 1,030 centimetres. Mercury is 13.6 times heavier than water. About how tall, in centimetres, is the mercury column? Round to the nearest whole number.  
    **Answer:** 76. *Why:* 1,030 divided by 13.6 is about 76. The heavier liquid makes a column 13.6 times shorter.
@@ -538,7 +538,7 @@ That night, at home, Selvi found a straw in the kitchen and poked it with her mo
 1. (write) A fish in the deep sea lives with a push on her body that is about a hundred times bigger than the push we feel. Explain why she is not crushed. What would happen to her if she were pulled to the surface very fast?  
    **Answer:** Her body is full of water and gas that push outward with the same strength as the water pushes in, so the pushes balance. Pulled up fast, the push outside gets much smaller, and the gas inside her swells and can hurt her.. *Why:* A strong answer says that the push inside the fish balances the push outside, and that a quick change leaves the inside push too big. This is like the chips packet on a hill, but much bigger.
 2. (mcq) The water in a well is 9 metres down. A hand pump can lift it at sea level, but struggles at a hill station 2,000 metres up. What is the best reason?  
-   Options: The air pushes less on the hill, so it can lift water less high / The pump is made of different metal on a hill / Water is heavier on a hill  
+   Options: The pump is made of different metal on a hill / Water is heavier on a hill / The air pushes less on the hill, so it can lift water less high  
    **Answer:** The air pushes less on the hill, so it can lift water less high. *Why:* At 2,000 metres the push of the air is about 80 percent of the push at sea level. It lifts water about 8 metres at best, and a real pump manages less. So a 9-metre lift fails.
 3. (count) At sea level, the push of the air can lift water about 10.3 metres. On top of Mount Everest the push is about one third as strong. About how many metres could a perfect pump lift water there? Give your answer to the nearest metre.  
    **Answer:** 3. *Why:* 10.3 divided by 3 is about 3.4, which rounds to 3 metres. At the top of Everest, a straw could lift water only about 3 metres.
@@ -551,7 +551,7 @@ That night, at home, Selvi found a straw in the kitchen and poked it with her mo
 7. (odd) Which one is the odd one out, and why? A pumped-up cycle tyre, a pressure cooker, a closed fizzy drink, a bottle crushed after cooling.  
    **Answer:** The crushed bottle, because the outside air pushes harder. In the other three, the push inside is bigger.. *Why:* In the tyre, the cooker and the fizzy drink, more gas is squeezed into the same space, so the inside pushes harder. In the crushed bottle, the cooled air inside pushes less.
 8. (mcq) You want to know if the cap makes the water stop in the Bottle with a Hole. Which change would be a fair test?  
-   Options: Use the same bottle and water, with the cap on and then off / Use a big hole with the cap on and a small hole with the cap off / Use a different bottle each time  
+   Options: Use a big hole with the cap on and a small hole with the cap off / Use the same bottle and water, with the cap on and then off / Use a different bottle each time  
    **Answer:** Use the same bottle and water, with the cap on and then off. *Why:* A fair test changes only one thing. If the bottle or the hole also changed, you would not know whether the cap or the hole made the difference.
 9. (truefalse) In the same air, a bigger area gets a bigger total push of air than a smaller area.  
    **Answer:** True. *Why:* True. The air pushes on every square centimetre, so more square centimetres means a bigger total push.
@@ -560,7 +560,7 @@ That night, at home, Selvi found a straw in the kitchen and poked it with her mo
 11. (count) A car roof is 150 centimetres long and 100 centimetres wide. About how many tonnes of air push down on it? One tonne is 1,000 kilograms.  
    **Answer:** 15. *Why:* 150 times 100 is 15,000 square centimetres. With about 1 kilogram on each, that is 15,000 kilograms, which is 15 tonnes. The air pushes up from below and from the inside just as much, so the roof is not crushed.
 12. (mcq) Why do your ears pop when a lift rushes up a very tall building?  
-   Options: The push outside changes faster than the air in your ear can catch up / Your ears fill with water / The lift is too noisy  
+   Options: Your ears fill with water / The lift is too noisy / The push outside changes faster than the air in your ear can catch up  
    **Answer:** The push outside changes faster than the air in your ear can catch up. *Why:* Going up, the push outside falls quickly. The air in the middle of your ear is still at the old push, and a little escapes with a pop to even things out.
 13. (write) Explain why water boils at a lower temperature on a hill, and why dal takes longer to cook there.  
    **Answer:** On a hill, less air pushes on the water, so the water boils at a lower temperature, about 93 degrees at 2,000 metres. Cooler boiling water cooks the dal more slowly.. *Why:* A strong answer links lower air pressure to a lower boiling temperature, and a lower temperature to slower cooking. A pressure cooker does the opposite. It raises the push so the water gets hotter than 100 degrees.
@@ -579,7 +579,7 @@ That night, at home, Selvi found a straw in the kitchen and poked it with her mo
 
 ## Quiz
 1. (mcq) Which statement about the push of air is correct?  
-   Options: Air pushes on a surface from every direction / Air pushes only downwards / Air pushes only on things that are moving  
+   Options: Air pushes only downwards / Air pushes only on things that are moving / Air pushes on a surface from every direction  
    **Answer:** Air pushes on a surface from every direction. *Why:* Air particles fly in every direction, so air pushes on the top, bottom and sides of everything. If you picked 'only downwards', think about the Card on the Glass, where the card held even when the glass was tilted sideways.
 2. (mcq) About how hard does air push at sea level?  
    Options: About 1 kilogram on each square centimetre / About 1 gram on each square centimetre / About 1 tonne on each square centimetre  
@@ -588,7 +588,7 @@ That night, at home, Selvi found a straw in the kitchen and poked it with her mo
    Options: The push is balanced by the push of the air and fluids inside our bodies / The push is too weak to matter / Our skin has no way to detect any push at all  
    **Answer:** The push is balanced by the push of the air and fluids inside our bodies. *Why:* Two equal pushes in opposite directions cancel, so nothing moves and we feel nothing. If you chose 'too weak', remember that it is about 70 kilograms on a hand.
 4. (mcq) A capped bottle with a small hole low down has just stopped running. Why did it stop?  
-   Options: The air at the top spread out and pushed less, so the air outside balanced the water / The cap pushed the water back / The hole closed up  
+   Options: The cap pushed the water back / The air at the top spread out and pushed less, so the air outside balanced the water / The hole closed up  
    **Answer:** The air at the top spread out and pushed less, so the air outside balanced the water. *Why:* A little water leaving gave the air at the top more room, so it pushed less. Then the air pushing in at the hole matched the push out. If you chose the cap pushing the water back, think about what the water did when the cap was taken off.
 5. (mcq) Why does a card stay on a glass that is full to the brim and turned upside down?  
    Options: The air pushes up on the card much more than the water pushes down / The water is too thick to fall / The card is magnetic  
@@ -597,21 +597,21 @@ That night, at home, Selvi found a straw in the kitchen and poked it with her mo
    Options: The hole lets air in, so the push inside the straw matches the push outside / The hole makes the straw heavier / The hole lets the drink out  
    **Answer:** The hole lets air in, so the push inside the straw matches the push outside. *Why:* No difference in the pushes means nothing lifts the drink. Covering the hole brings the difference back.
 7. (mcq) What really lifts the drink up a straw?  
-   Options: Air pushing on the drink in the glass / The straw pulling / The empty space in the straw  
+   Options: The straw pulling / Air pushing on the drink in the glass / The empty space in the straw  
    **Answer:** Air pushing on the drink in the glass. *Why:* Sipping takes air out of the straw, and the air outside pushes the drink up. An empty space has nothing to pull with.
 8. (mcq) What happens to air pressure as you climb a tall mountain?  
    Options: It gets smaller, because there is less air above you / It gets bigger, because you are nearer the sky / It stays the same everywhere  
    **Answer:** It gets smaller, because there is less air above you. *Why:* The higher you are, the less air is above you, so the push is smaller. At the top of Everest it is about a third of the push at sea level.
 9. (mcq) Why can a pump at the top of a pipe not lift water from 15 metres down?  
-   Options: The push of the air can hold up only about 10 metres of water / The pump is too small / Water is too heavy for any pump  
+   Options: The pump is too small / Water is too heavy for any pump / The push of the air can hold up only about 10 metres of water  
    **Answer:** The push of the air can hold up only about 10 metres of water. *Why:* The push of the air can lift water only about 10 metres at sea level. Deeper wells need the pump put down in the water.
 10. (count) A card has an area of 80 square centimetres. About how many kilograms of air push on one side of it?  
    **Answer:** 80. *Why:* The air pushes with about 1 kilogram on each square centimetre. 80 times 1 is 80 kilograms.
 11. (mcq) In the Bottle with a Hole, which is the best way to see what the cap does?  
-   Options: Use the same bottle and the same hole, and change only the cap / Change the cap and the size of the hole together / Use a new bottle for each test  
+   Options: Change the cap and the size of the hole together / Use the same bottle and the same hole, and change only the cap / Use a new bottle for each test  
    **Answer:** Use the same bottle and the same hole, and change only the cap. *Why:* A fair test changes one thing at a time, so the change in the result must come from the cap.
 12. (mcq) A sealed bottle is carried from the top of a hill down to the beach and it squashes. Which push is bigger on the bottle at the beach?  
-   Options: The push of the air outside / The push of the air inside / They are the same  
+   Options: The push of the air inside / They are the same / The push of the air outside  
    **Answer:** The push of the air outside. *Why:* The air at the beach pushes harder than the thin hill air that was shut in. The outside wins.
 
 ## Applications
@@ -686,6 +686,11 @@ Nothing Is Empty (sci.air.L4): Topic-level song for Air
 - [A rubber suction hook for a bathroom tile](https://www.amazon.in/s?k=suction+cup+hook+bathroom) (tool): For the Suction Hook test. A small one from a hardware shop is enough, about Rs 30 to 80. Used in a3. 
 - [A clear plastic tube about 1 metre long](https://www.amazon.in/s?k=aquarium+air+tube+silicone) (material): For the siphon challenge. Aquarium air tubing from a pet shop works well. It costs about Rs 20 to 50. Used in c1. 
 - [A small pack of sewing needles or a compass for making small holes](https://www.amazon.in/s?k=geometry+compass+box) (tool): A grown-up uses it to make the holes in the bottle and straws. Most homes already have a sewing needle, and a compass from a geometry box also works. Used in e1, a2. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Suction Hook: how much can the air hold?, Hill Station Bottle: if you go up a hill, or fly, A Jar Barometer: watch the air's push for a week. About ₹10 to ₹30. Any school ruler is fine. Used in a3, a4, p1. Get it before The Suction Hook: how much can the air hold?.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in The Suction Hook: how much can the air hold?. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in a3. Get it before The Suction Hook: how much can the air hold?.
+- [Balloons (a packet)](https://www.amazon.in/s?k=balloons+packet) (material): Used in A Jar Barometer: watch the air's push for a week. About ₹20 to ₹60. Used in p1. Get it before A Jar Barometer: watch the air's push for a week.
+- [Postcards or plain cards](https://www.amazon.in/s?k=blank+postcards) (material): Used in The Card on the Glass: what holds it up?. About ₹5 to ₹20. Cut card from a cereal box. Used in a1. Get it before The Card on the Glass: what holds it up?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - About how hard does air push at sea level? → About 1 kilogram on each square centimetre.
@@ -704,7 +709,7 @@ Nothing Is Empty (sci.air.L4): Topic-level song for Air
 
 ## Sources
 - Founder's notes in ideas/by_topic/gases-evaporation-condensation-solutions.md: the jar-and-balloon barometer, the idea of air pressure as an invisible weight and the pressure-gradient play, used in the Jar Barometer project and the card game
-- The Class 3 unit on air around us, which this unit builds on: air takes up space and has weight, now extended to the push it makes in every direction
+- The Class 3 unit on air around us, which this lesson builds on: air takes up space and has weight, now extended to the push it makes in every direction
 - The Class 3 unit on wind and air, for the idea that wind blows from higher to lower pressure
 - NCERT and Cambridge primary science chapters on air, for coverage only. Their text is not copied
 - Torricelli, E., letter to Michelangelo Ricci, 11 June 1644, describing the mercury experiment done in 1643 by Viviani

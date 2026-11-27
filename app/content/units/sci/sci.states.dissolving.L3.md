@@ -1,9 +1,9 @@
 # Dissolving: what water takes in, and how much
 `sci.states.dissolving.L3`
 
-**Summary.** Salt disappears in water, but atta only makes it cloudy. Where does the salt go? In this unit you will test kitchen things in water, count how many spoons of salt and sugar a glass of water can take, and make lemonade that is sweet to the last sip.
+**Summary.** Salt disappears in water, but atta only makes it cloudy. Where does the salt go? In this lesson you will test kitchen things in water, count how many spoons of salt and sugar a glass of water can take, and make lemonade that is sweet to the last sip.
 
-**Intro.** *Put a spoon of salt in one glass of water and a spoon of atta in another. Stir both. One goes clear, and one goes cloudy. Why does water swallow up one and not the other?* When salt disappears into water, we say it dissolves. Atta does not dissolve. It floats about as tiny bits and slowly sinks. In this unit you test what dissolves from your own kitchen. You count how many spoons of salt and sugar a little water can take before it is full. You find out whether a strainer can catch dissolved salt. And you make lemonade that is sweet right to the last sip.
+**Intro.** *Put a spoon of salt in one glass of water and a spoon of atta in another. Stir both. One goes clear, and one goes cloudy. Why does water swallow up one and not the other?* When salt disappears into water, we say it dissolves. Atta does not dissolve. It floats about as tiny bits and slowly sinks. In this lesson you test what dissolves from your own kitchen. You count how many spoons of salt and sugar a little water can take before it is full. You find out whether a strainer can catch dissolved salt. And you make lemonade that is sweet right to the last sip.
 
 ## Learning outcomes
 0. I can test kitchen things in water and sort them into soluble and insoluble, and say what I saw for each.
@@ -22,6 +22,7 @@
 - **Saturated**: A solution is saturated when it cannot dissolve any more of a thing. Extra grains stay at the bottom, however long you stir. *e.g.* After about three spoons of salt in three tablespoons of water, the next salt grains just lie on the bottom.
 - **Settle**: Bits that do not dissolve slowly sink to the bottom when the water is left still. This is called settling. *e.g.* Leave a glass of muddy water for an hour, and the mud settles at the bottom.
 - **Filter**: Something with tiny holes, like a cloth or a tea strainer, that lets liquid through and catches bits that have not dissolved. *e.g.* A tea strainer catches the tea leaves, but the brown colour and taste go through into the cup.
+- **Sieve**: A tool with holes, like a flour sieve or a chai strainer, that lets small bits fall through and holds back bigger bits. It separates dry bits or bits in a liquid by size. *e.g.* A grandmother sieves atta, and the small flour falls through while the hard bits of husk stay in the sieve.
 - **Ion**: A tiny particle that carries a small electric charge. When salt dissolves, it comes apart into two kinds of ions, called sodium and chloride. *e.g.* Salt water carries electricity because of its ions. Sugar water does not have ions, so it hardly carries electricity at all.
 - **Fair test**: A test where you change only one thing and keep everything else the same, so you know what made the difference. *e.g.* To compare salt and sugar, use the same amount of water, the same spoon and the same stirring for both.
 
@@ -33,6 +34,8 @@ Everything is made of tiny particles. A grain of salt is many millions of salt p
 - e.g. Salt in rasam has dissolved. You taste it in every spoon, but you cannot see a single grain.
 - e.g. Rose sherbet syrup is pink and clear, so it is a solution of sugar and colour in water.
 - e.g. Instant coffee powder dissolves in hot milk and leaves nothing on the bottom of the cup.
+- **The Chandogya Upanishad:** A father has his son put salt in water. The next day it cannot be seen, yet every sip tastes salty. The teacher uses it to speak of what is in everything and cannot be seen.
+- **Chemists:** Say the salt breaks into particles too small to see, which spread through the water. The same story, told with a particle picture.
 ### Some things do not dissolve · *defined*
 **Definition:** An insoluble thing does not break up into particles in a liquid. It stays as bits you can see, which float, make the liquid cloudy, or sink.
 
@@ -40,6 +43,8 @@ Stir atta into water and the water turns white and cloudy. Wait half an hour, an
 - e.g. Mud in a monsoon puddle makes the water brown and cloudy, then settles when the puddle is still.
 - e.g. Coconut oil floats on water. You can see it as a shiny layer on top.
 - e.g. Chalk dust in water makes it white, and a layer of chalk settles on the bottom.
+- **Everyday view:** Sand and stones do not dissolve in water, and are insoluble.
+- **Geologists:** Find that rock dissolves slowly. Limestone caves were carved by rainwater over thousands of years, and quartz dissolves a little in hot springs.
 ### Water has a limit for each thing · *defined*
 **Definition:** A certain amount of water can dissolve only so much of each substance. When it has dissolved that much, the solution is saturated, and any more stays as grains.
 
@@ -47,6 +52,8 @@ A little water cannot dissolve a whole packet of salt. In 100 millilitres of wat
 - e.g. Three tablespoons of water took two or three teaspoons of salt in the Full Glass Test, but more than ten teaspoons of sugar.
 - e.g. Sugar syrup for rasgulla or gulab jamun is very thick because a lot of sugar is dissolved in a little water.
 - e.g. Water that is full of salt is about seven times saltier than sea water.
+- **Standard view:** A given amount of water dissolves only so much and then it is full.
+- **Chemists:** Know that you can make a supersaturated solution, which holds more than the limit if it is cooled carefully. A touch makes the extra crystallise at once. Hand warmers use this.
 ### Full of salt, but not full of sugar · *defined*
 **Definition:** A solution that is saturated with one substance can still dissolve a different substance.
 
@@ -54,13 +61,17 @@ In the Full Glass Test, the water that was full of salt would not take one more 
 - e.g. Sea water is salty, but it can still dissolve sugar.
 - e.g. Oral rehydration solution, ORS, has both salt and sugar dissolved in the same water.
 - e.g. Lemon juice has acid and sugar dissolved in it, and you can still dissolve salt in it for a salty lime soda.
+- **Chemists:** Say each substance has its own limit, so a salt-full solution can still take sugar.
+- **Food scientists:** Know that a dissolved substance sometimes changes how much of another can dissolve. Salt makes some proteins come out of solution, which is called salting out.
 ### Warm water and dissolving · *defined*
 **Definition:** In warm water, particles move faster, so most solids dissolve faster. For many solids, warm water can also hold more.
 
-Water particles are always moving. In warm water they move faster and bump into a sugar grain more often and harder. So sugar dissolves much faster in warm water than in ice-cold water. Warm water can also hold much more sugar. At 100 degrees Celsius, boiling water can dissolve more than twice as much sugar as cold water can. Salt is a surprise. Warm water dissolves salt a little faster, but it can hold hardly any more salt than cold water. That is why, in the Does Warm Water Take More Salt? test, warm water and cool water take almost the same number of spoons.
+Water particles are always moving. In warm water they move faster and bump into a sugar grain more often and harder. So sugar dissolves much faster in warm water than in ice-cold water. Warm water can also hold much more sugar. At 100 degrees Celsius, boiling water can dissolve more than twice as much sugar as cold water can. Salt is a surprise. Warm water dissolves salt a little faster, but it can hold hardly any more salt than cold water. That is why, in the Does Warm Water Take More Salt? test, warm water and cool water take almost the same number of spoons. Two more things speed up dissolving without changing the water's temperature. Stirring keeps bringing fresh water to the sugar, because the water right next to a grain soon fills up with sugar. Crushing sugar to a powder gives the water far more surface to work on, so a sugar lump takes much longer than the same sugar crushed. That is why a chai maker stirs, and why very fine sugar is used when you want a cold drink to be sweet fast.
 - e.g. Sugar dissolves quickly in hot tea but sits at the bottom of a glass of iced water.
 - e.g. To make sugar syrup, cooks heat sugar and water together, because hot water dissolves much more sugar.
 - e.g. Warm water and cool water take about the same number of spoons of salt before they are full.
+- **Cooks:** Find that sugar and salt dissolve faster and more in hot tea than in cold.
+- **Chemists:** Note that gases dissolve less when warm, which is why a warm drink goes flat, and a few salts, such as calcium sulphate, also dissolve less when warmer.
 ### A filter catches only what has not dissolved · *defined*
 **Definition:** A filter has holes smaller than the bits in a cloudy mixture, so it catches them. Dissolved particles are far smaller than the holes, so they go through.
 
@@ -68,6 +79,17 @@ Pour cloudy atta water through a folded cotton cloth, and the atta stays on the 
 - e.g. A tea strainer catches tea leaves, but the dissolved colour and taste go into the cup.
 - e.g. A filter coffee maker keeps the coffee powder in the top, and the dark, dissolved coffee drips through.
 - e.g. Salt pans near Thoothukudi let the sun evaporate sea water, because no filter could catch the salt.
+- **Sushruta Samhita:** This old Indian medical text advises making water safe by boiling, putting it in the sun, heating a hot iron in it, and filtering it through sand and cloth.
+- **Membrane scientists:** Make filters with holes so small that they hold back even dissolved salt. Such membranes, used in reverse osmosis, can turn sea water into drinking water.
+### Which way of separating fits which mixture · *defined*
+**Definition:** To separate a mixture, look at what each part is like. A sieve separates bits of different sizes, a magnet pulls out iron, a filter catches bits that have not dissolved, and evaporating brings back what has dissolved.
+
+A mixture is two or more things together that have not turned into something new. You can get them apart again, but the right way depends on the parts. If the bits are different sizes, such as small stones in dal, shake it in a sieve. The small dal falls through and the stones stay. If one part is iron, such as pins dropped in sand, a magnet pulls the iron out and leaves the sand. If one part dissolves and the other does not, such as atta stirred into water, a filter catches the atta. If both parts are in the water, one dissolved and one not, use the filter first and evaporation second. Evaporation brings back what has dissolved, like salt in the salt pans. No single way works for every mixture.
+- e.g. A cook sieves rice flour to take out lumps before making idiyappam batter.
+- e.g. Someone sweeping a workshop floor drags a magnet over it to pick up iron filings and nails.
+- e.g. To get clean salt from muddy sea water, first pour it through cloth, then let the sun evaporate the water.
+- **Farmers:** Winnow grain by tossing it in a flat tray in the wind, so the light husk blows away and the heavy grain falls back. It is an old way to separate by weight, and it needs no tool.
+- **Chemists:** Name each way by what it uses: size, a magnet's pull, dissolving or boiling. They choose the way by finding the one thing that is different about the parts.
 ### Salt and sugar dissolve in different ways · *defined*
 **Definition:** Salt is made of two kinds of particles, sodium and chloride. In water they come apart into ions, particles with a tiny electric charge. Sugar particles stay whole when they dissolve.
 
@@ -75,11 +97,15 @@ A salt crystal is built from two kinds of particles, sodium and chloride, holdin
 - e.g. Sweat and tears carry ions, which is why wet skin lets electricity through more easily than dry skin.
 - e.g. Sea water carries electricity because it is full of dissolved salt ions.
 - e.g. ORS has both kinds: salt that splits into ions, and sugar that stays whole.
+- **Svante Arrhenius:** In 1884 his thesis said that salts split into charged particles, ions, in water. His examiners gave it a low mark, but he won the Nobel Prize in 1903.
+- **Dmitri Mendeleev:** Was among the famous chemists who did not accept the ion idea, and thought dissolving was a chemical bonding with water. It took years of evidence for ions to be accepted.
 ### Why each thing has its own limit · *idea*
 Chemists know the main reason. A solid dissolves when water holds on to its particles more strongly than the particles hold on to each other. Different solids are held together with different strengths, and water holds each one in its own way. So each one has its own limit. Chemists can measure the limit of any substance very exactly in a laboratory. But working out the limit of a new substance just from what its particles are like is still hard, even with powerful computers. Scientists are still improving the ways to predict it.
 - e.g. Salt and sugar both dissolve well, but sugar has a much higher limit.
 - e.g. Chalk dissolves so little that we call it insoluble, though a tiny amount does dissolve.
 - e.g. Medicine makers test how well each new medicine dissolves, because it must dissolve in the body to work.
+- **Old alchemists:** Taught that like dissolves like. Water takes watery things, and oil takes oily things.
+- **Josiah Willard Gibbs:** In the 1870s he showed that dissolving depends on a balance of energy and disorder, so a thing dissolves when the balance favours it. The old rule is the result of that balance.
 ### Liquids can dissolve too, or not · *defined*
 **Definition:** Some liquids mix into water completely and make a solution. Others, like oil, do not mix with water and always separate into a layer.
 
@@ -87,6 +113,8 @@ Lemon juice, vinegar and rose water mix into water completely. You cannot see wh
 - e.g. In a jar of Andhra avakaya pickle, the oil sits on top of the mango pieces.
 - e.g. Tadka oil floats as shiny circles on top of a bowl of sambar.
 - e.g. Washing an oily kadai needs soap, because water alone slides off the oil.
+- **Chemists:** Explain that two liquids mix when their molecules attract each other and the water molecules about equally. Oil and water do not.
+- **Cell biologists:** Point out that the oil-and-water split is useful. The skin of every cell forms by itself, because oily tails hide from water and make a double layer.
 
 ## Mostly agreed
 - A dissolved substance is still in the water, spread all through it as particles too small to see. *How we know:* You can taste dissolved salt in every sip, and when the water evaporates, the salt is left behind.
@@ -483,20 +511,20 @@ Every morning that week, Farhan checked. The water went down and down. After abo
   *Child mode:* Which idea won? Why did it work?
 
 ## Worksheets
-### What Dissolves? (core) (core, 15 questions)
+### What Dissolves? (core) (core, 16 questions)
 1. (sort) Sort these. Do they dissolve in water or not?  
    **Answer:** salt → Dissolves; sand → Does not dissolve; sugar → Dissolves; coconut oil → Does not dissolve; jaggery → Dissolves; rava → Does not dissolve; instant coffee → Dissolves; chalk → Does not dissolve. *Why:* Things that dissolve leave the water clear, even if coloured. Things that do not dissolve sink, float or make the water cloudy.
 2. (fill) A thing that can dissolve in water is called ____.  
    **Answer:** ['soluble']. *Why:* Soluble means it can dissolve. Insoluble means it cannot.
 3. (mcq) A torch beam shines through a glass of water from the side. You can see the beam clearly inside the water. What does that tell you?  
-   Options: Salt is dissolved in it / Tiny bits are floating in it and have not dissolved / The water is very hot  
+   Options: Tiny bits are floating in it and have not dissolved / Salt is dissolved in it / The water is very hot  
    **Answer:** Tiny bits are floating in it and have not dissolved. *Why:* The beam shows up when light hits floating bits. In a clear solution the beam is hard to see, because nothing floats in it.
 4. (truefalse) If you shake oil and water hard in a closed bottle, the oil dissolves in the water.  
    **Answer:** False. *Why:* False. Shaking breaks the oil into drops, but the drops join up again and float to the top.
 5. (write) You cannot see the salt in a glass of salt water. Write two ways to show that the salt is still there.  
    **Answer:** Taste a drop: it is salty. Leave the water in the sun until it dries: salt crystals are left behind.. *Why:* A strong answer gives two different tests and says what each one would show.
 6. (match) Match each word to what it means.  
-   **Answer:** Dissolve → mix into a liquid and disappear from sight; Solution → a liquid with something dissolved in it; Insoluble → does not dissolve; Saturated → cannot dissolve any more. *Why:* Each of these four words is explained on a card in this unit. Using them makes it easier to talk about dissolving.
+   **Answer:** Dissolve → mix into a liquid and disappear from sight; Solution → a liquid with something dissolved in it; Insoluble → does not dissolve; Saturated → cannot dissolve any more. *Why:* Each of these four words is explained on a card in this lesson. Using them makes it easier to talk about dissolving.
 7. (mcq) In the Full Glass Test, three tablespoons of water took two or three teaspoons of salt. Then grains stayed on the bottom. What does this show?  
    Options: The salt was bad / The water could not dissolve any more salt / The spoon was too big  
    **Answer:** The water could not dissolve any more salt. *Why:* The water had reached its limit for salt. It was saturated. The salt was the same salt that had dissolved a minute before.
@@ -508,21 +536,23 @@ Every morning that week, Farhan checked. The water went down and down. After abo
 10. (fill) A cloth or a tea strainer that catches bits but lets liquid through is called a ____.  
    **Answer:** ['filter']. *Why:* A filter catches things that have not dissolved, like tea leaves. Dissolved things go through it.
 11. (mcq) Which glass dissolves a spoon of sugar fastest?  
-   Options: Ice-cold water / Room-temperature water / Bath-warm water  
+   Options: Bath-warm water / Ice-cold water / Room-temperature water  
    **Answer:** Bath-warm water. *Why:* In warm water the water particles move faster. They knock sugar particles off the grains faster.
-12. (write) Someone says, 'The tea strainer caught the tea leaves, so it caught the tea too.' What would you tell them?  
+12. (match) Match each way of helping sugar dissolve to the reason it works.  
+   **Answer:** Warm the water → the water particles move faster; Stir with a spoon → fresh water keeps reaching the sugar; Crush the sugar to powder → more of the sugar touches the water. *Why:* Each of these three things speeds up dissolving in its own way. Warmth makes the water particles busier. Stirring brings in fresh water. Crushing gives the water more sugar surface to work on.
+13. (write) Someone says, 'The tea strainer caught the tea leaves, so it caught the tea too.' What would you tell them?  
    **Answer:** The strainer caught only the leaves. The brown colour and the taste of tea dissolved into the water, so they went through the strainer into the cup.. *Why:* A strong answer says which part dissolved and which part did not, and that a strainer can catch only what has not dissolved.
-13. (truefalse) Lemon juice mixes into water completely.  
+14. (truefalse) Lemon juice mixes into water completely.  
    **Answer:** True. *Why:* True. Lemon juice is mostly water with acid and sugars dissolved in it, so it mixes in completely.
-14. (label) Label this drawing of a glass after the atta test: cloudy water, settled atta, clear water at the top.  
+15. (label) Label this drawing of a glass after the atta test: cloudy water, settled atta, clear water at the top.  
    **Answer:** Clear water at the top, cloudy water in the middle, a white layer of settled atta on the bottom.. *Why:* When atta settles, the water clears from the top down, and the atta collects at the bottom.
-15. (perspective) The first person and the second person are making lemonade for guests. They disagree about the sugar.  
+16. (perspective) The first person and the second person are making lemonade for guests. They disagree about the sugar.  
    **Answer:** A strong answer picks one and uses evidence. For example: The first person's way, because in the Cold, Room or Warm test, warm water dissolved sugar in far fewer stirs than cold water. Then it gives the other side fairly: The second person's way does work if you stir long enough, and it is simpler.. *Why:* Both ways can work. One is faster, and the other is simpler. A good answer weighs both.
-### Limits and Filters (stretch) (stretch, 15 questions)
+### Limits and Filters (stretch) (stretch, 16 questions)
 1. (write) In the Full Glass Test, the water that was full of salt still dissolved a spoon of sugar. Explain why, in your own words.  
    **Answer:** Water has a separate limit for each thing. Being full of salt does not use up its limit for sugar.. *Why:* A strong answer says the limits are separate, not that the water has empty room left.
 2. (mcq) Two glasses are left still for a day. One has mud in water. One has salt dissolved in water. What do you find?  
-   Options: The mud has settled but the salt water looks the same / Both have a layer on the bottom / The salt has settled but the mud water looks the same  
+   Options: Both have a layer on the bottom / The salt has settled but the mud water looks the same / The mud has settled but the salt water looks the same  
    **Answer:** The mud has settled but the salt water looks the same. *Why:* Mud does not dissolve, so it settles. Dissolved salt stays spread through the water, so the glass looks the same.
 3. (order) Put the steps of the Full Glass Test in order.  
    **Answer:** ['Put the same water in two glasses', 'Guess how many spoons each glass will take', 'Add salt a spoon at a time and stir', 'Pour off the clear salt water and add sugar']. *Why:* A fair test starts with the same water, then a guess, then the test, then the extra test with sugar.
@@ -533,25 +563,27 @@ Every morning that week, Farhan checked. The water went down and down. After abo
 6. (count) In one Full Glass Test, the salt glass took 3 spoons. The sugar glass was still going at 10 spoons. How many more spoons did the sugar glass take, at least?  
    **Answer:** 7. *Why:* 10 take away 3 is 7. The sugar glass took at least 7 more spoons, and it could have taken many more.
 7. (mcq) Why does oil float on top of water in a bottle, even after you shake it?  
-   Options: Oil dissolves and then comes back / Oil does not dissolve in water, and it is lighter than water / Oil is a solid  
+   Options: Oil does not dissolve in water, and it is lighter than water / Oil dissolves and then comes back / Oil is a solid  
    **Answer:** Oil does not dissolve in water, and it is lighter than water. *Why:* Oil does not dissolve in water. Its drops join up again and float, because oil is lighter than the same amount of water.
 8. (draw) Draw what you think is happening to a salt grain when it dissolves. Draw the water particles too.  
    **Answer:** Water particles around the grain, pulling small salt particles off its outside, and salt particles spread among the water particles.. *Why:* A good model shows water particles taking pieces off the outside of the grain and the pieces spreading out.
 9. (sort) Sort these. Would a cloth filter catch them, or would they go through?  
    **Answer:** tea leaves → Caught; dissolved sugar → Goes through; lemon pips → Caught; dissolved salt → Goes through; sand → Caught; the colour of coffee → Goes through. *Why:* A filter catches things that have not dissolved. Dissolved things are too small to catch.
-10. (odd) Which one is not a solution?  
+10. (sort) A kitchen helper has four messy mixtures. Sort each one by the best way to separate it.  
+   **Answer:** small stones mixed in dal → Sieve; iron pins mixed in sand → Magnet; atta mixed in water → Filter; salt dissolved in water → Evaporate. *Why:* A sieve catches big bits and lets small bits fall through. A magnet pulls out iron. A filter catches bits that have not dissolved. Only evaporating brings back something that has dissolved.
+11. (odd) Which one is not a solution?  
    Options: Rasam / Sugar syrup / Muddy water / Salt water  
    **Answer:** 2. *Why:* A solution is clear and the same all through. Muddy water has bits floating in it that settle.
-11. (mcq) Coffee is made with filter coffee powder. What is left in the filter?  
-   Options: Nothing, it all dissolved / The coffee grounds, which did not dissolve / Sugar  
+12. (mcq) Coffee is made with filter coffee powder. What is left in the filter?  
+   Options: The coffee grounds, which did not dissolve / Nothing, it all dissolved / Sugar  
    **Answer:** The coffee grounds, which did not dissolve. *Why:* Hot water dissolves the colour and flavour out of the powder. The rest of the powder does not dissolve and stays in the filter.
-12. (write) A cook makes sugar syrup by heating sugar and water together. Why does she heat it?  
+13. (write) A cook makes sugar syrup by heating sugar and water together. Why does she heat it?  
    **Answer:** Hot water can dissolve much more sugar than cold water, and it dissolves faster.. *Why:* A strong answer names both reasons: more sugar, and faster.
-13. (write) A glass of sugar water and a glass of plain water look the same. Both were made in your own kitchen. Write a safe way to tell them apart.  
+14. (write) A glass of sugar water and a glass of plain water look the same. Both were made in your own kitchen. Write a safe way to tell them apart.  
    **Answer:** Taste a drop from a clean spoon: the sugar water is sweet. Or put a spoonful of each on a saucer in the sun: the sugar water leaves a sticky crust when it dries.. *Why:* A strong answer uses a test that works because the sugar is still there, even though it cannot be seen.
-14. (label) Label the bottle filter: stones, sand, cotton wool, muddy water going in, clearer water coming out.  
+15. (label) Label the bottle filter: stones, sand, cotton wool, muddy water going in, clearer water coming out.  
    **Answer:** Muddy water at the top, then stones, then sand, then cotton wool in the neck, and clearer water dripping into the glass below.. *Why:* The water passes through finer and finer layers, so smaller and smaller bits are caught.
-15. (odd) Which one does not make sugar dissolve faster?  
+16. (odd) Which one does not make sugar dissolve faster?  
    Options: Using warm water / Stirring / Crushing the sugar to powder / Adding ice  
    **Answer:** 3. *Why:* Ice makes the water colder, so the sugar dissolves more slowly. Warm water, stirring and crushing all make it faster.
 ### Thinking Like a Chemist (challenge) (challenge, 15 questions)
@@ -576,7 +608,7 @@ Every morning that week, Farhan checked. The water went down and down. After abo
 9. (truefalse) A clear glass of water is always safe to drink.  
    **Answer:** False. *Why:* False. Dissolved things and germs can be in clear water. That is why drinking water is boiled, filtered with special filters or treated.
 10. (mcq) You want to dissolve as much sugar as possible in one cup of water. What should you do?  
-   Options: Use ice-cold water / Use hot water, with a grown-up's help / Use less stirring  
+   Options: Use ice-cold water / Use less stirring / Use hot water, with a grown-up's help  
    **Answer:** Use hot water, with a grown-up's help. *Why:* Hot water can hold much more sugar than cold water. Boiling water holds more than twice as much.
 11. (order) Put these in order, from the most sugar that can dissolve in a cup of water to the least.  
    **Answer:** ['boiling water', 'room-temperature water', 'ice-cold water']. *Why:* The warmer the water, the more sugar it can hold.
@@ -605,27 +637,33 @@ Every morning that week, Farhan checked. The water went down and down. After abo
    Options: It has gone / It is still in the water, in particles too small to see / It has turned into water  
    **Answer:** It is still in the water, in particles too small to see. *Why:* The salt is still there. You can taste it, and it comes back when the water dries. It has not turned into water: it stays salt.
 4. (mcq) A glass of water stops dissolving salt after 3 spoons. Then sugar is stirred into the same full salt water, and it keeps dissolving. What does this show?  
-   Options: Water has a different limit for each thing / The salt turned into sugar / The water was never full  
+   Options: The salt turned into sugar / The water was never full / Water has a different limit for each thing  
    **Answer:** Water has a different limit for each thing. *Why:* The water was full for salt but not for sugar. Each thing has its own limit in water, even when the grains look alike.
 5. (mcq) What is a saturated solution?  
    Options: A very cold solution / A solution that cannot dissolve any more of a thing / A solution with oil in it  
    **Answer:** A solution that cannot dissolve any more of a thing. *Why:* Saturated means the water has reached its limit for that thing. Extra grains stay on the bottom.
 6. (mcq) Why does sugar dissolve faster in warm water?  
-   Options: Warm water particles move faster and knock sugar particles off quicker / Warm water is thinner / Sugar melts in warm water  
+   Options: Warm water is thinner / Sugar melts in warm water / Warm water particles move faster and knock sugar particles off quicker  
    **Answer:** Warm water particles move faster and knock sugar particles off quicker. *Why:* In warm water, water particles move faster and hit the grains more often. Sugar does not melt in warm water: it would need about 186 degrees Celsius to melt. It dissolves.
-7. (mcq) You want cold lemonade with no sugar at the bottom. What should you do first?  
-   Options: Add lots of ice / Dissolve the sugar in a little warm water / Add the sugar last  
+7. (mcq) A big sugar lump and the same amount of sugar crushed to powder are put into two glasses of the same water. Which dissolves faster, and why?  
+   Options: The lump, because it is heavier / They take the same time, because it is the same sugar / The powder, because more of the sugar touches the water at once  
+   **Answer:** The powder, because more of the sugar touches the water at once. *Why:* Water can only pull particles off the outside of a grain. Powder has far more outside than one lump, so it dissolves faster. The lump being heavy does not help it dissolve. The amount of sugar is the same, but how much of it touches the water is not.
+8. (mcq) You want cold lemonade with no sugar at the bottom. What should you do first?  
+   Options: Add lots of ice / Add the sugar last / Dissolve the sugar in a little warm water  
    **Answer:** Dissolve the sugar in a little warm water. *Why:* Sugar dissolves fast in warm water and then stays dissolved when cold water is added. Ice slows dissolving down.
-8. (mcq) You pour salt water through a cotton cloth. What comes through?  
-   Options: Plain water, with the salt left on the cloth / Salt water / Nothing  
+9. (mcq) You pour salt water through a cotton cloth. What comes through?  
+   Options: Salt water / Plain water, with the salt left on the cloth / Nothing  
    **Answer:** Salt water. *Why:* Dissolved salt is far smaller than the gaps in the cloth, so it goes through. A cloth catches only things that have not dissolved, like atta or tea leaves.
-9. (mcq) A tea strainer catches the tea leaves. Why does the tea in the cup still taste of tea?  
-   Options: Some leaves got through / The taste and colour dissolved in the water and went through / The cup adds the taste  
+10. (mcq) A tea strainer catches the tea leaves. Why does the tea in the cup still taste of tea?  
+   Options: Some leaves got through / The cup adds the taste / The taste and colour dissolved in the water and went through  
    **Answer:** The taste and colour dissolved in the water and went through. *Why:* The flavour and colour dissolve in the hot water. The leaves themselves do not, so the strainer catches them.
-10. (mcq) You test how fast sugar dissolves in cold water and in warm water. To make it a fair test, what must stay the same?  
-   Options: The temperature of the water / The amount of water and sugar, and the stirring / Nothing  
+11. (mcq) Rava and fine salt are mixed together in a bowl. The cook wants the rava back, clean and dry. What is the best way?  
+   Options: Pick every grain out with fingers / Put a magnet near it / Stir it into water, pour through cloth, dry what stays  
+   **Answer:** Stir it into water, pour through cloth, dry what stays. *Why:* Salt dissolves in water and goes through the cloth, but rava does not dissolve and stays on the cloth. Picking out grains would take all day, and a magnet only pulls iron, which neither rava nor salt is. When you have to choose a way to separate a mixture, ask which part dissolves and which does not.
+12. (mcq) You test how fast sugar dissolves in cold water and in warm water. To make it a fair test, what must stay the same?  
+   Options: The temperature of the water / Nothing / The amount of water and sugar, and the stirring  
    **Answer:** The amount of water and sugar, and the stirring. *Why:* In a fair test, only one thing changes. Here that is the temperature, so everything else stays the same. If the temperature stayed the same, there would be nothing to test.
-11. (mcq) Salt dissolved in water lets electricity pass through, but sugar dissolved in water does not. What does this tell us about salt in water?  
+13. (mcq) Salt dissolved in water lets electricity pass through, but sugar dissolved in water does not. What does this tell us about salt in water?  
    Options: It turns into sugar / It comes apart into tiny charged bits / It does not dissolve  
    **Answer:** It comes apart into tiny charged bits. *Why:* Electricity needs charged bits that can move. Salt comes apart into charged bits called ions as it dissolves. Sugar stays whole, so sugar water does not carry electricity.
 
@@ -643,7 +681,7 @@ Every morning that week, Farhan checked. The water went down and down. After abo
 - Sugar sitting at the bottom of a glass of cold nimbu pani at a roadside stall.
 - Tea leaves and coffee grounds left in a strainer or filter after the drink is made.
 - Oil floating as shiny circles on top of a bowl of sambar.
-- White salt heaps beside shallow pans on the coast near Thoothukudi.
+- White salt heaps beside shallow pans on the coast.
 
 ## Open questions
 - **Can we predict how much of a brand new substance will dissolve, just from what its particles are like?** Chemists can measure solubility exactly, but predicting it from scratch is still hard, even with powerful computers.
@@ -682,12 +720,17 @@ Still There (sci.states.L3): Topic-level song for Solids, liquids, gases and par
 ## Links
 - [PhET Sugar and Salt Solutions](https://phet.colorado.edu/en/simulations/sugar-and-salt-solutions) · simulation: A free simulation. Shake salt and sugar into water, see salt split into ions and sugar stay whole, and test which one carries electricity.
 - [PhET Concentration](https://phet.colorado.edu/en/simulations/concentration) · simulation: A free simulation for curious older children. Keep adding a solid to water and watch it become saturated.
-- [The salt pans near Thoothukudi]() · place · Thoothukudi, Tamil Nadu: Shallow ponds where the sun evaporates sea water and leaves the salt behind. You can often see them from the road.
-- [Sambhar Lake]() · place · near Jaipur, Rajasthan: India's largest inland salt lake. Its water is very salty, and salt is collected from it as the water evaporates.
+- The salt pans near Thoothukudi · place · Thoothukudi, Tamil Nadu: Shallow ponds where the sun evaporates sea water and leaves the salt behind. You can often see them from the road.
+- Sambhar Lake · place · near Jaipur, Rajasthan: India's largest inland salt lake. Its water is very salty, and salt is collected from it as the water evaporates.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A large science museum with hands-on galleries.
 - [Birla Industrial and Technological Museum](https://www.bitm.gov.in) · place · Kolkata: A science museum with hands-on exhibits about matter and everyday science.
 
 ## Things to buy
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in Clean the Muddy Water. About ₹20 to ₹50. Torn clean cloth works. Used in c1. Get it before Clean the Muddy Water.
+- [Vinegar](https://www.amazon.in/s?k=white+vinegar) (material): Used in Oil and Water: will they ever mix?. About ₹40 to ₹80. Lemon juice works for many tests. Used in a4. Get it before Oil and Water: will they ever mix?.
+- [Clean sand (a small bag)](https://www.amazon.in/s?k=play+sand+small+bag) (material): Used in Clean the Muddy Water. About ₹20 to ₹60. Fine soil sieved from a pot works. Used in c1. Get it before Clean the Muddy Water.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Clean the Muddy Water. About ₹30 to ₹60. Newspaper cut into strips also works. Used in c1. Get it before Clean the Muddy Water.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Does sugar dissolve in water? → Yes. It disappears, and the water tastes sweet.

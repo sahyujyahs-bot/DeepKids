@@ -1,7 +1,7 @@
 # Migration: how a body is built for a journey across the world
 `sci.animal-behaviour.migration.L4`
 
-**Summary.** Why do some birds fly across the world every year? In this unit you will sort eight birds by when they are in India, spin a globe to time a summer day in the far north, and see what happens when one wetland on the way is drained.
+**Summary.** Why do some birds fly across the world every year? In this lesson you will sort eight birds by when they are in India, spin a globe to time a summer day in the far north, and see what happens when one wetland on the way is drained.
 
 **Intro.** *In winter, ducks, waders and swallows appear on our lakes, canals and wires. In summer, they are gone. Where were they, and what did they do to get here?* Many of the birds you see in India from October to March spent the summer thousands of kilometres away, in Siberia, Mongolia or the Himalaya. A small bird cannot carry a bag of food with her. So how does her body get enough energy for a trip that long?
 
@@ -59,6 +59,7 @@ Many migrants do not fly the whole way in one go. They fly for a few days, land 
 - e.g. Chilika Lake in Odisha is a wintering ground and a stopover for many thousands of water birds.
 - e.g. The tidal mudflats of the Yellow Sea are a key stopover for waders on the way between Australia and the Arctic.
 - e.g. Keoladeo National Park near Bharatpur in Rajasthan is a wetland where many winter visitors arrive after crossing the Himalaya.
+- e.g. Rosy starlings fly thousands of kilometres each winter, from Russia and Mongolia to India.
 ### Other travellers: fish, turtles and mountain animals · *defined*
 **Definition:** Migration is not only for birds. Fish, turtles, insects, whales and mammals all make regular journeys, and some are short. Moving up and down a mountain with the seasons is also migration.
 
@@ -119,7 +120,7 @@ Migrants face two kinds of trouble. One is a lost stopover. Scientists estimate 
   Against: Most studies of light tags find little harm, and tracking has found the stopovers that now get protection. Scientists keep tags very light and stop using any tag that harms the birds.
 
 ## Roots
-This unit followed a migrating bird from the long days of the Arctic to the fat in her body and the wetlands on her way. Now we ask what that journey tells us about a bird and the places she depends on.
+This lesson followed a migrating bird from the long days of the Arctic to the fat in her body and the wetlands on her way. Now we ask what that journey tells us about a bird and the places she depends on.
 
 **Deep truth.** The long days of an Arctic summer grow a flood of insects, worms and shellfish. A bird eats them and stores the energy as fat. Weeks later she burns that fat over another country. So a bird carries the energy of one place's sunlight to another place, and her body links the two.  
 *Habit it breaks:* We say a place's wildlife is what lives inside its borders, and that a bird belongs to one country. A migrant's fuel is collected in one place and spent in another, so her body belongs to several places at once.  
@@ -334,7 +335,7 @@ She stood there for a long time in the cold, looking at the empty wires, and she
   - Check: Why were more birds lost when wetland 3 was drained? → **The long gap needed all the fuel a bird could carry, so a headwind made more of them fall**
 
 ## Activities
-### a1 · Resident, Winter Visitor or Passer-by? Sort eight birds by when they are in India (15 min)
+### a1 · Resident, Winter Visitor or Passer-by? Sort eight birds by when they are in India (18 min)
 - **record:** A table of the eight birds with the label you chose and the clue that made you choose it.
 - **s1 (4 min)**  
   *Parent does:* Read the four labels. A resident stays all year. A winter visitor comes for the northern winter. A summer visitor comes to breed in the warm months. A passage migrant stops only for days or weeks on the way to somewhere else.  
@@ -347,7 +348,11 @@ She stood there for a long time in the cold, looking at the empty wires, and she
   *Child mode:* Read each clue. Put each bird under a label. Think about which months she is here.
   - Ask: Which bird was hardest to place, and why? (good: The pied cuckoo, because she comes for the rains.; The Amur falcon, because she stays for only a short time.)
   - Note: Answers: house crow, rock pigeon and cattle egret are residents. Rosy starling, barn swallow and northern pintail are winter visitors. Pied cuckoo is a summer visitor, since some come with the monsoon to nest. Amur falcon is a passage migrant. In some places the same species can have a different label, and a few cattle egrets also move short distances, so a book may disagree. With 2 to 4 children, each sorts alone first and then you compare; talk about any bird you placed differently.
-- **s3 (5 min)**  
+- **s3 (3 min)**  
+  *Parent does:* Find Russia, Mongolia and India on a globe. Run a string or your finger from Russia and Mongolia down to India. That is the route a rosy starling flies each winter.  
+  *Parent says:* Find Russia and Mongolia on the globe. Now follow the route south to India. A rosy starling flies this whole way every winter.  
+  *Child mode:* Find Russia, Mongolia and India on the globe. Trace the way the rosy starling flies.
+- **s4 (5 min)**  
   *Parent does:* Think of two more birds you have seen. Decide which label fits each. If you can, look them up in a field guide or on a phone. For a week, tick each bird you see near home. Residents show up every day.  
   *Parent says:* Pick two more birds you know. Which label fits each? How could we find out?  
   *Child mode:* Pick two more birds you know. Which label fits? How could you check?
@@ -447,9 +452,9 @@ She stood there for a long time in the cold, looking at the empty wires, and she
   - Check: Why is it a problem if one stopover is lost, even if other lakes are fine? → **Some birds may run out of fuel before they reach the next place**
 
 ## Worksheets
-### Migration: how a body is built for a journey (core) (core, 15 questions)
+### Migration: how a body is built for a journey (core) (core, 16 questions)
 1. (mcq) What does the word migration mean?  
-   Options: A regular journey that an animal makes each year, going out and coming back / Flying very high / Moving house once in a lifetime  
+   Options: Flying very high / Moving house once in a lifetime / A regular journey that an animal makes each year, going out and coming back  
    **Answer:** A regular journey that an animal makes each year, going out and coming back. *Why:* Migration is a regular, seasonal journey. The animal goes out and comes back, year after year.
 2. (fill) A bird that comes to India only for the northern winter and then leaves is called a ____ visitor.  
    **Answer:** ['winter']. *Why:* A winter visitor comes for the cold months of the north and goes back to breed. A summer visitor does the opposite.
@@ -458,7 +463,7 @@ She stood there for a long time in the cold, looking at the empty wires, and she
 4. (sort) Sort each bird by when she is found in a city in India: all year, or only in winter.  
    **Answer:** house sparrow → Resident; bar-headed goose → Winter visitor; Indian peafowl → Resident; common sandpiper → Winter visitor; house crow → Resident; northern shoveler → Winter visitor. *Why:* Sparrows, peafowl and crows live here all year. Bar-headed geese, common sandpipers and shovelers are winter visitors that breed far to the north.
 5. (mcq) Which holds more energy in each gram?  
-   Options: Fat / Sugar / They hold the same  
+   Options: Sugar / Fat / They hold the same  
    **Answer:** Fat. *Why:* A gram of fat holds more than twice as much energy as a gram of sugar. That is why a bird that must carry her fuel stores fat.
 6. (order) Put these in the right order, for how a wader gets ready for a long flight.  
    **Answer:** ['The days are long and food is plentiful', 'The bird eats much more than usual', 'She stores the extra energy as fat', 'Her gut shrinks and her flight muscles grow', 'She flies and burns the fat']. *Why:* Food comes first. Then she eats extra, stores it as fat, and rebuilds her body before the flight. In the air, she burns the fat.
@@ -480,11 +485,13 @@ She stood there for a long time in the cold, looking at the empty wires, and she
 14. (draw) Draw a graph line for a bird that rests at a lake for 3 weeks, flies south for 1 week, then rests at another lake for 3 weeks.  
    **Answer:** A line that is flat for 3 weeks, drops steeply for 1 week, then is flat again for 3 weeks.. *Why:* Flat parts show resting. The steep part shows a flight. A good drawing has two flat steps joined by one steep slope.
 15. (mcq) Which of these is also migration?  
-   Options: A hilsa fish swimming from the sea up a river each monsoon to lay eggs / A crow flying from a tree to a roof / A dog walking to a gate  
+   Options: A crow flying from a tree to a roof / A dog walking to a gate / A hilsa fish swimming from the sea up a river each monsoon to lay eggs  
    **Answer:** A hilsa fish swimming from the sea up a river each monsoon to lay eggs. *Why:* Migration is a regular, seasonal journey. The hilsa does it every year. A crow moving between a tree and a roof is a daily move.
+16. (truefalse) Rosy starlings eat locusts that harm crops in India.  
+   **Answer:** True. *Why:* True. Locusts are insects that can swarm and destroy crops. Rosy starlings eat them, which helps farmers.
 ### Migration: reading the evidence (stretch) (stretch, 15 questions)
 1. (mcq) Crows stay in Delhi through cold winters, and pied cuckoos migrate across the sea to India in the warm monsoon. What does this show?  
-   Options: Migration follows food and conditions for raising young, not only cold / Cuckoos like rain more than crows / Crows cannot fly far  
+   Options: Cuckoos like rain more than crows / Crows cannot fly far / Migration follows food and conditions for raising young, not only cold  
    **Answer:** Migration follows food and conditions for raising young, not only cold. *Why:* If cold alone caused migration, crows would leave and cuckoos would stay. Both behaviours follow food, nesting and safety.
 2. (truefalse) A young migratory bird needs her parents to tell her when to leave.  
    **Answer:** False. *Why:* False. Many birds leave at the right time with no teacher. Day length and a yearly clock inside the body help set the time. In some species, such as cranes and geese, young birds also learn the route from older birds.
@@ -506,14 +513,14 @@ She stood there for a long time in the cold, looking at the empty wires, and she
 10. (odd) Which is the odd one out, and why? Rosy starling, barn swallow, northern pintail, house crow.  
    **Answer:** House crow, because she lives in India all year. The other three are winter visitors.. *Why:* The starling, swallow and pintail breed far to the north and spend winter in India. The house crow is a resident.
 11. (mcq) A bird waits at a stopover until the wind is behind her. Why?  
-   Options: A tailwind carries her, so the flight costs less fuel / She likes the wind / Wind makes her feathers grow  
+   Options: She likes the wind / A tailwind carries her, so the flight costs less fuel / Wind makes her feathers grow  
    **Answer:** A tailwind carries her, so the flight costs less fuel. *Why:* A tailwind pushes the bird along, so she saves energy. A headwind makes the same flight cost much more fuel.
 12. (label) Here is a graph of a bird's position over twelve weeks. Label the three kinds of place: breeding lake, stopover and flight.  
    **Answer:** ['A flat part at the start: breeding lake', 'A flat part in the middle: stopover', 'A steep part between two flat parts: flight']. *Why:* Flat parts are where the bird stays, and the steep parts are where she flies.
 13. (perspective) Scientists want to put light tags on small birds to find out where they spend winter.  
    **Answer:** Answers vary. A strong answer picks a side, gives a reason and suggests a fair test, such as comparing the survival of tagged and untagged birds.. *Why:* Both views have a point. A fair comparison of tagged and untagged birds is how scientists check.
 14. (mcq) About two thirds of the tidal mudflats of the Yellow Sea were lost over about 50 years. What is the most likely effect on waders that refuel there?  
-   Options: Fewer places to feed, so fewer birds survive the journey / More places to feed / No effect on birds  
+   Options: More places to feed / No effect on birds / Fewer places to feed, so fewer birds survive the journey  
    **Answer:** Fewer places to feed, so fewer birds survive the journey. *Why:* Waders on that flyway refuel on the mudflats. Fewer mudflats means less food and a higher chance of falling short, and counts of several waders have dropped.
 15. (write) Explain how a long summer day in the Arctic helps a bird raise her chicks.  
    **Answer:** The long days give plants and insects many hours of light to grow, so there is plenty of food. The bird can feed her chicks for many hours a day, even at night.. *Why:* A strong answer links day length to food supply and to feeding time.
@@ -549,23 +556,23 @@ She stood there for a long time in the cold, looking at the empty wires, and she
 14. (odd) Which is the odd one out, and why? Olive ridley turtle, hilsa, wallcreeper, house sparrow.  
    **Answer:** House sparrow, because she stays in the same area all year. The other three make regular seasonal journeys.. *Why:* The turtle swims to nesting beaches, the hilsa swims up rivers, and the wallcreeper moves down the mountain in winter. The sparrow is a resident.
 15. (mcq) A scientist finds that a flock of waders arrives at a mudflat very thin and leaves two weeks later much heavier. What is the best conclusion?  
-   Options: The mudflat is a refuelling stop where they build fat for the next stage / The birds have lived there all year / The birds are ill  
+   Options: The birds have lived there all year / The birds are ill / The mudflat is a refuelling stop where they build fat for the next stage  
    **Answer:** The mudflat is a refuelling stop where they build fat for the next stage. *Why:* Gaining weight in two weeks shows they are feeding well and storing fat. That is what a refuelling stop is for.
 
 ## Videos
-- **Top Gun Geese! | Extreme Animals | BBC Studios** (BBC Studios, 3 min) id `yd_w3biT3TU`: To see the geese cross the highest mountains in the world in thin air, and to compare it with the roller coaster flight in this unit. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Top Gun Geese! | Extreme Animals | BBC Studios** (BBC Studios, 3 min) id `yd_w3biT3TU`: To see the geese cross the highest mountains in the world in thin air, and to compare it with the roller coaster flight in this lesson. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 - **A tagged bar-tailed godwit set a world record by flying 13,560 km nonstop from Alaska to Tasmania.** (Bird Migration Map, 2 min) id `YBuBA1RDPtk`: To see the tracked route of a godwit that flies for days without landing, drawn on a map. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 - **Falcon Capital of the World: Nagaland's Amur Falcon | THT Films** (The Habitats Trust, 6 min) id `WqJa3sVSyYM`: To see the falcons roosting by their thousands at the Doyang reservoir, and how the villagers now protect them. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) Which is the best reason that many birds migrate?  
-   Options: The food they need is in different places at different times of the year / They get bored of one place / Every bird is hurt by cold  
+   Options: They get bored of one place / Every bird is hurt by cold / The food they need is in different places at different times of the year  
    **Answer:** The food they need is in different places at different times of the year. *Why:* Migration follows food, space and safety for raising young. Cold is only one reason food runs short. Crows and sparrows stay through cold winters because they can still find food.
 2. (mcq) Why do so many birds travel to the far north to raise chicks in summer?  
-   Options: The days are very long, so they have many hours to feed and food is plentiful / The far north is warmer than India in summer / There are no other birds there  
+   Options: The far north is warmer than India in summer / There are no other birds there / The days are very long, so they have many hours to feed and food is plentiful  
    **Answer:** The days are very long, so they have many hours to feed and food is plentiful. *Why:* The tilt of the Earth gives the far north very long summer days. Plants, insects and mudflat animals thrive in that light. A bird can feed her chicks for many hours a day.
 3. (mcq) How different is the length of the day in Kerala in June and in December?  
-   Options: Only a little different, about the same length / Twice as long in June / There is no daylight in December  
+   Options: Twice as long in June / There is no daylight in December / Only a little different, about the same length  
    **Answer:** Only a little different, about the same length. *Why:* Near the equator, day length changes only a little all year, a few minutes each week at most. The big changes are far north and far south.
 4. (mcq) Why do migrating birds store fat rather than sugar as fuel?  
    Options: A gram of fat holds more than twice the energy of a gram of sugar, so the bird carries less weight / Fat is lighter than sugar / Sugar cannot be stored  
@@ -574,13 +581,13 @@ She stood there for a long time in the cold, looking at the empty wires, and she
    Options: It shrinks, and the flight muscles grow / It grows bigger to hold food / Nothing changes  
    **Answer:** It shrinks, and the flight muscles grow. *Why:* A gut full of food is heavy, and she will not eat on the flight. The body saves weight by making the gut smaller and builds more muscle for flying. After landing, the gut grows back.
 6. (mcq) What is a stopover?  
-   Options: A place on a journey where a bird rests and feeds before flying on / A place where a bird stays all year / The end of a bird's journey  
+   Options: A place where a bird stays all year / The end of a bird's journey / A place on a journey where a bird rests and feeds before flying on  
    **Answer:** A place on a journey where a bird rests and feeds before flying on. *Why:* A stopover is a refuelling place. The bird feeds there for days or weeks to build up fat for the next stage.
 7. (mcq) A key lake on a flyway is drained. What is the most likely result?  
    Options: Fewer birds arrive at the next place, because some run out of fuel in the gap / Nothing changes, because birds can fly forever / More birds arrive, because the route is shorter  
    **Answer:** Fewer birds arrive at the next place, because some run out of fuel in the gap. *Why:* A drained lake makes a longer gap between refuelling places. A bird carries a limited amount of fuel, so more of them fall short. The Stepping-Stone Flyway showed this: fewer birds arrived when wetland 3 was drained.
 8. (mcq) A small falcon is in a town for three weeks in October, then moves on to Africa. Which label do birders give her?  
-   Options: Passage migrant / Resident / Winter visitor  
+   Options: Resident / Passage migrant / Winter visitor  
    **Answer:** Passage migrant. *Why:* A passage migrant stops only for days or weeks on the way somewhere else. A winter visitor stays for the whole northern winter. A resident stays all year.
 9. (mcq) On a tracking graph of a bird's position, the line stays flat for four weeks. What does it show?  
    Options: The bird stayed in about the same place for four weeks / The bird flew four weeks without stopping / The tag was broken  
@@ -589,10 +596,13 @@ She stood there for a long time in the cold, looking at the empty wires, and she
    Options: A heavy tag makes flying costly and may change how the bird behaves / A heavy tag is easier to lose / A light tag gives better pictures  
    **Answer:** A heavy tag makes flying costly and may change how the bird behaves. *Why:* A tag is extra weight that the bird carries on every wingbeat. A common rule is that it should weigh only a few percent of her weight.
 11. (mcq) Which of these do scientists still not fully understand?  
-   Options: How a young bird, who has never made the trip, times her journey and finds the way / Whether birds travel from one country to another / Whether birds store fat  
+   Options: Whether birds travel from one country to another / How a young bird, who has never made the trip, times her journey and finds the way / Whether birds store fat  
    **Answer:** How a young bird, who has never made the trip, times her journey and finds the way. *Why:* We know that day length and an inside yearly clock both play a part, but how they work together is still being studied. Rings and tags have shown that the journeys are real.
 12. (truefalse) Only birds migrate.  
    **Answer:** False. *Why:* False. Olive ridley turtles, hilsa fish, butterflies, elephants and many other animals make regular seasonal journeys. Some, such as the wallcreeper, move only up and down a mountain.
+13. (mcq) Rosy starlings fly from Russia and Mongolia to India each winter. What do they eat there that helps farmers?  
+   Options: Fish from the sea / Honey from flowers / Locusts that harm crops  
+   **Answer:** Locusts that harm crops. *Why:* Rosy starlings eat locusts. Locusts are insects that can swarm and destroy crops, so the winter visitors help farmers.
 
 ## Applications
 - Airports use radar and bird counts to warn pilots when large flocks are crossing, so planes avoid collisions.
@@ -601,13 +611,14 @@ She stood there for a long time in the cold, looking at the empty wires, and she
 - Planners place wind turbines and power lines away from busy flyways and narrow bottlenecks.
 - Citizen science projects such as eBird and Bird Count India use many people's sightings to follow migrants.
 - Doctors and engineers study how birds store and burn fat, and how they save energy in flight, for ideas in medicine and aircraft design.
+- Rosy starlings come to India in winter and eat locusts, insects that can swarm and harm crops.
 
 ## Spotted around us
-- Barn swallows sitting in rows on wires or sheltering under a bridge in winter, from October to March in much of India.
+- Barn swallows sitting in rows on wires or sheltering under a bridge in winter, from October to March.
 - Gulls on the coast or a harbour in winter. Many are winter visitors that leave in spring.
-- V-shaped lines of cranes or geese at dusk, in north India and Gujarat in winter.
+- V-shaped lines of cranes or geese flying at dusk in winter.
 - Small waders such as common sandpipers bobbing along the edge of a pond, a canal or a paddy field in winter.
-- Flamingos in shallow water along the coast, for example near Mumbai, Chennai or Pulicat, in winter.
+- Flamingos in shallow water along the coast in winter.
 - An empty wire where the swallows sat in winter. In April, notice that they have gone.
 
 ## Open questions
@@ -667,6 +678,11 @@ Pack Your Fat, Cross the Sea (sci.animal-behaviour.L4): Topic-level song
 - [A pack of dice](https://www.amazon.in/s?k=dice+set+for+kids) (material): For the Stepping-Stone Flyway and Eat or Fly. Most homes have one from a board game. Used in e2, g2. 
 - [A field guide to the birds of the Indian subcontinent](https://www.amazon.in/s?k=birds+of+the+indian+subcontinent+field+guide) (book): To check whether a bird is a resident, a winter visitor or a passage migrant, and to name birds that you see. Used in a1. Look up one bird from the sorting activity, and one bird you see this week.
 - [A simple pair of binoculars for children](https://www.amazon.in/s?k=kids+binoculars) (tool): To watch waders and ducks at a lake without disturbing them. Used in p1. Use them on a trip to a lake in winter.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Read a Tracker's Graph: the stairs of a long journey, Save the Stopover: a plan that works for the birds and the village. About ₹10 to ₹30. Any school ruler is fine. Used in a2, c1. Get it before Read a Tracker's Graph: the stairs of a long journey.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in The Midnight Sun Spin: how long is a summer day in the far north?. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in e1. Get it before The Midnight Sun Spin: how long is a summer day in the far north?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Stepping-Stone Flyway: what happens to a flock when one wetland is drained?, The Mudflat Buffet: why waders have different bills. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e2, p1. Get it before The Stepping-Stone Flyway: what happens to a flock when one wetland is drained?.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in Read a Tracker's Graph: the stairs of a long journey. About ₹10 to ₹30. Draw squares on plain paper. Used in a2. Get it before Read a Tracker's Graph: the stairs of a long journey.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What does migration mean? → A regular journey that an animal makes each year, going out and coming back.
@@ -686,7 +702,7 @@ Pack Your Fat, Cross the Sea (sci.animal-behaviour.L4): Topic-level song
 ## Sources
 - Combined lesson sci-C4-the-world-of-birds: the migration and navigation subconcept, and the open question about what Amur falcons eat over the Arabian Sea (used for the story setting)
 - The notebook items bio:126 (Migration and navigation), bio:127 (Seasonal migrations: birds, fish, insects) and bio:128 (Orientation and navigation)
-- The Class 3 unit on migration, which this unit builds on: why animals leave, record travellers and finding the way (not repeated here)
+- The Class 3 unit on migration, which this lesson builds on: why animals leave, record travellers and finding the way (not repeated here)
 - Founder's seasons and day-length ideas from the day-night-seasons notes, used for the midnight-sun model
 - Piersma and Gill (1998), Guts don't fly: small digestive organs in obese Bar-tailed Godwits, The Auk
 - Gill and others (2005), Crossing the ultimate ecological barrier: evidence for an 11,000 km non-stop flight by Bar-tailed Godwits, The Condor; and Gill and others (2009), Extreme endurance flights by landbirds crossing the Pacific Ocean, Proceedings of the Royal Society B

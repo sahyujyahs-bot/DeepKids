@@ -1,9 +1,9 @@
 # Particles: where sugar goes when it dissolves
 `sci.states.particles.L3`
 
-**Summary.** You stir sugar into water and it vanishes. Is it still there? In this unit you will weigh a glass before and after the sugar dissolves, find out whether a lump, grains or powder dissolves fastest, and draw where you think the sugar went.
+**Summary.** You stir sugar into water and it vanishes. Is it still there? In this lesson you will weigh a glass before and after the sugar dissolves, find out whether a lump, grains or powder dissolves fastest, and draw where you think the sugar went.
 
-**Intro.** *Drop a spoon of sugar into a clear glass of water and stir. In a minute the grains are gone, and the water looks just like plain water. Is the sugar still in there? If it is, where is it?* Most people say the sugar has 'melted' or 'gone'. Neither is right. In this unit you find out what really happens. You test it three ways: by tasting, by weighing, and by asking ants. You also find out that sugar, water and everything else are made of tiny pieces called particles, and why some sugar dissolves faster than other sugar.
+**Intro.** *Drop a spoon of sugar into a clear glass of water and stir. In a minute the grains are gone, and the water looks just like plain water. Is the sugar still in there? If it is, where is it?* Most people say the sugar has 'melted' or 'gone'. Neither is right. In this lesson you find out what really happens. You test it three ways: by tasting, by weighing, and by asking ants. You also find out that sugar, water and everything else are made of tiny pieces called particles, and why some sugar dissolves faster than other sugar.
 
 ## Learning outcomes
 0. I can say that everything around me, solid, liquid or gas, is made of particles far too small to see.
@@ -32,40 +32,56 @@ A sugar particle is about a millionth of a millimetre across. Even the best ordi
 - e.g. A grain of sugar holds roughly a million million million sugar particles. That is a 1 with 18 zeros.
 - e.g. Air is made of particles too. You feel them push when the wind blows.
 - e.g. Your body is made of particles: water, sugars, fats and many more.
+- **Kanada (India) and Democritus (Greece):** Taught that everything is made of tiny parts that cannot be cut.
+- **Aristotle:** Said matter is smooth and continuous, with no smallest piece.
+- **Perrin (1908):** Settled the question by studying the jiggling of tiny grains in water, which the atoms were knocking about. Before him, some scientists, such as Ernst Mach, still doubted atoms.
 ### How sugar dissolves · *defined*
 **Definition:** When sugar dissolves, water particles attract the sugar particles on the outside of a grain and pull them away, one by one. The sugar particles then spread out among the water particles.
 
 Water particles bump and tug at a sugar grain from every side. They can only reach the particles on its outside. As the outside particles leave, the next ones are uncovered, so the grain gets smaller and smaller until it is gone. Each sugar particle is now surrounded by water particles. It is far too small to see, but it is still sugar. That is why the water tastes sweet.
 - e.g. Sugar in a glass of lemon juice dissolves in about a minute if you stir it.
 - e.g. Salt dissolves in sambar, so you taste it everywhere but cannot see it.
+- **Everyday view:** Sugar vanishes in tea. It seems to be gone.
+- **Albert Einstein and Jean Perrin:** Showed in 1905 to 1908 that dissolved particles are real and keep moving, jostled by water molecules. The sugar is spread through the tea as separate molecules.
 ### Dissolved sugar still weighs the same · *defined*
 **Definition:** When something dissolves, nothing is lost. The solution weighs exactly as much as the liquid and the solid did before.
 
 Every sugar particle that left the grain is still in the bottle. So the weight cannot change. This is true for every kind of change in a closed bottle, even melting and burning: the total weight stays the same. Scientists call this the conservation of mass. Mass means how much stuff there is.
 - e.g. 100 grams of water and 16 grams of sugar make 116 grams of sugar water.
 - e.g. An ice cube in a closed box weighs the same after it melts.
+- **Young children:** Often say that sugar that is dissolved weighs nothing, as Jean Piaget's studies found. It is something we cannot see, and so we think it has gone.
+- **Antoine Lavoisier:** In the 1780s he showed by weighing that matter is never lost in any change. The sugar and the water together weigh what they weighed before.
 ### Dissolving is not melting · *defined*
 **Definition:** Melting is a solid turning into a liquid because it is heated. Dissolving is a solid breaking up into its particles inside a liquid.
 
 People often say sugar 'melts' in tea. It does not. Sugar dissolves even in cold water, with no heat at all. To melt sugar, you have to heat it in a dry pan to about 186 degrees Celsius, much hotter than boiling water. Then it turns into a thick liquid that becomes caramel. Melting needs only one substance. Dissolving always needs two: one that dissolves and one that it dissolves in.
 - e.g. Ice melts into water on a hot day. Nothing else is needed.
 - e.g. Sugar dissolves in cold water from the fridge. No heat is needed.
+- **Everyday speech:** Says sugar melts in tea. We use the word for anything that turns into a liquid.
+- **Chemists:** Keep two words. Melting needs heat to loosen a solid by itself. Dissolving needs a liquid to pull the particles away, and works in the cold.
 ### Why some sugar dissolves faster · *defined*
 **Definition:** Sugar dissolves faster when it is crushed small, when it is stirred, and when the water is warm.
 
 Water can only pull particles off the outside of a piece. Crush a lump into powder, and the same sugar has far more outside, so many more particles leave at once. Stirring helps because the sweet water next to the sugar is carried away, and fresh water takes its place. Warm water helps because its particles move faster and tug harder.
 - e.g. Powdered sugar vanishes in seconds. A lump of kalkandu can take many minutes.
 - e.g. Jaggery is grated or crushed before it goes into panakam, the South Indian jaggery drink.
+- **Arthur Noyes and Willis Whitney:** In 1897 they gave a rule for how fast a solid dissolves: it depends on the surface that touches the liquid and on how close the solution is to full.
+- **Medicine makers:** Use the same rule to design tablets, so that they dissolve in the stomach at just the right speed, some fast and some slowly over hours.
 ### Particles move, but spread slowly on their own · *defined*
 **Definition:** Particles in a liquid are always moving and bumping. This slowly spreads dissolved particles out, even with no stirring. Scientists call this spreading diffusion.
 
 Diffusion through water is very slow. Sugar left unstirred at the bottom of a tall glass can take many days to spread to the top on its own. So the top stays plain while the bottom is very sweet. Stirring spreads it in seconds. In air, smells spread faster, because air moves about and its particles have more space.
 - e.g. Unstirred sugar in tea makes the last sip the sweetest.
 - e.g. The smell of jasmine flowers spreads across a room in a few minutes, carried by moving air.
+- **Thomas Graham and Adolf Fick:** Graham measured how fast gases and dissolved things spread in the 1830s and 1850s, and Fick wrote the law of diffusion in 1855. Spreading is steady but slow.
+- **Cooks and tea drinkers:** Know by stirring that mixing is much faster than waiting. Stirring carries the liquid itself, and waiting depends on slow spreading.
 ### What is inside a particle? · *idea*
 A sugar particle is made of 45 atoms joined together: 12 of carbon, 22 of hydrogen and 11 of oxygen. Atoms are made of even smaller particles. Physicists now think the smallest of these are not tiny balls. They describe each one as a small ripple in an invisible field that fills all of space, a little like a ripple on a pond is a small movement of the water. This is a hard idea, and nobody knows yet whether there is anything deeper still. That is why this card says 'idea'.
 - e.g. A water particle is made of 3 atoms: 2 of hydrogen and 1 of oxygen.
 - e.g. Sugar and the paper in a book are made of the same three kinds of atom, joined in different ways.
+- **John Dalton (1800s):** The atom is a solid ball that cannot be split.
+- **Thomson, Rutherford and Bohr:** Found electrons, then a tiny nucleus at the centre.
+- **Particle physicists today:** Say the nucleus is made of quarks. Some theories say quarks are made of something smaller, but nobody has shown it.
 
 ## Mostly agreed
 - Everything is made of particles far too small to see. *How we know:* Scientists first worked it out from how gases and dissolved things behave. Since the 1980s, special microscopes have made pictures of single atoms.
@@ -120,7 +136,7 @@ Before you stirred, the sugar was one heap you could hold in a spoon. In water i
 ## Deep and big questions
 - *deep:* If you keep crushing sugar into smaller and smaller pieces, is there a smallest piece that is still sugar? (hint: Scientists say yes: one sugar particle, a molecule. Break that, and you have atoms of carbon, hydrogen and oxygen, which are not sweet.)
 - *deep:* Before it dissolved, the sugar was one heap on a spoon. After it dissolved, it was spread through every sip. Is it still one thing, or has it become many things? (hint: Think about the heap on the spoon, and then the same sugar spread out in every sip.)
-- *big:* If something is too small for anyone to see, how can we be sure it is there? (hint: In this unit you used your tongue, a balance and some ants. What other ways can you think of?)
+- *big:* If something is too small for anyone to see, how can we be sure it is there? (hint: In this lesson you used your tongue, a balance and some ants. What other ways can you think of?)
 - *big:* Ants found the sugar water and left the plain water alone. What else might be around us that other living beings notice and we do not? (hint: Think of a dog's nose, a bee's eyes, or a snake that senses warmth.)
 - *deep:* The particles in a stone floor never stop moving. So is anything really still? (hint: The floor looks still because its particles jiggle in place and do not go anywhere.)
 - *big:* The sugar particles in your tea came from a sugarcane field, and before that from air, water and sunlight. Where were the particles in your body before they were you? (hint: Think about the food you ate this week, and where that food came from.)
@@ -340,7 +356,7 @@ The next morning, Kavya wrote a sign in big letters and stuck it on the syrup bo
   *Parent does:* Ask where the sugar went, and listen to the whole answer.  
   *Parent says:* Where do you think the sugar went? Why do you think so?  
   *Child mode:* Where do you think the sugar went? Is it still in the glass?
-  - Note: Common answers are 'it melted', 'it's gone' and 'it's hiding at the bottom'. Don't correct any of them yet. The experiments in this unit will test them. You will see a wobbly shimmer in the water while the sugar dissolves. That is sweet water bending light differently from plain water.
+  - Note: Common answers are 'it melted', 'it's gone' and 'it's hiding at the bottom'. Don't correct any of them yet. The experiments in this lesson will test them. You will see a wobbly shimmer in the water while the sugar dissolves. That is sweet water bending light differently from plain water.
 - **s3 (4 min)**  
   *Parent does:* Ask your child to draw what is in the water, as if they could zoom in very, very close.  
   *Parent says:* If you could shrink and swim in this water, what would you see?  
@@ -484,13 +500,13 @@ The next morning, Kavya wrote a sign in big letters and stuck it on the syrup bo
    Options: The salt melted / The salt dissolved / The salt evaporated  
    **Answer:** The salt dissolved. *Why:* Salt breaking up in water and spreading through it is dissolving. Melting needs heat. Evaporating is a liquid going into the air.
 2. (mcq) Which of these is made of particles?  
-   Options: Only a stone / Only water / A stone, water and air  
+   Options: A stone, water and air / Only a stone / Only water  
    **Answer:** A stone, water and air. *Why:* Solids, liquids and gases are all made of particles. Picking only the stone means thinking only hard things have pieces.
 3. (mcq) Why can't we see sugar particles?  
    Options: They are far too small / They are see-through like glass / They hide at the bottom  
    **Answer:** They are far too small. *Why:* A sugar particle is about a millionth of a millimetre across, far too small for eyes or ordinary microscopes.
 4. (mcq) In the hanger balance test, what happened to the straw pointer when the sugar dissolved?  
-   Options: It swung towards bottle A / It swung towards bottle B / It stayed at the line  
+   Options: It stayed at the line / It swung towards bottle A / It swung towards bottle B  
    **Answer:** It stayed at the line. *Why:* The sugar was still in the bottle, so the weight did not change and the balance stayed level.
 5. (mcq) A sugar grain has flat sides and sharp corners. What is a solid like this called?  
    Options: A crystal / A liquid / A solution  
@@ -506,7 +522,7 @@ The next morning, Kavya wrote a sign in big letters and stuck it on the syrup bo
 10. (fill) Sugar dissolves faster when it is crushed, when it is ____, and when the water is warm.  
    **Answer:** ['stirred']. *Why:* Stirring carries the sweet water away from the sugar, so fresh water can reach it.
 11. (match) Match each word to what it means.  
-   **Answer:** Particle → a very tiny piece that things are made of; Dissolve → break up and spread through a liquid; Melt → turn liquid because of heat; Crystal → a solid with particles in neat rows. *Why:* Each of these four words is explained on a card in this unit. Using them makes it easier to talk about particles.
+   **Answer:** Particle → a very tiny piece that things are made of; Dissolve → break up and spread through a liquid; Melt → turn liquid because of heat; Crystal → a solid with particles in neat rows. *Why:* Each of these four words is explained on a card in this lesson. Using them makes it easier to talk about particles.
 12. (sort) Sort these. Is it dissolving or melting?  
    **Answer:** sugar in lemon juice → Dissolving; ice on a hot day → Melting; salt in sambar → Dissolving; butter in a hot pan → Melting; jaggery in water → Dissolving; a candle near a flame → Melting. *Why:* Dissolving needs a liquid to break the solid up. Melting needs heat, and nothing else.
 13. (write) A friend says the sugar in her tea has disappeared. How could she find out if it is still there? Give one way.  
@@ -526,10 +542,10 @@ The next morning, Kavya wrote a sign in big letters and stuck it on the syrup bo
    Options: Sugar sits at the bottom and never changes / Sugar slowly makes the water above it sweet, even with no stirring / A stone stays where you put it  
    **Answer:** Sugar slowly makes the water above it sweet, even with no stirring. *Why:* Over days, sugar particles keep moving and spread up through the water by themselves. A stone's particles move too, but they jiggle in place.
 4. (mcq) When a sugar grain dissolves, which particles leave first?  
-   Options: The ones in the middle / The ones on the outside / All of them at once  
+   Options: The ones in the middle / All of them at once / The ones on the outside  
    **Answer:** The ones on the outside. *Why:* Water can only reach the outside of the grain, so the outside particles leave first. That is why corners go round first.
 5. (mcq) The tablet of camphor in a closed jar hardly shrank in a week. Why?  
-   Options: Camphor in jars cannot move / The camphor particles could not escape, so the air in the jar filled up with them / The jar was cold  
+   Options: The camphor particles could not escape, so the air in the jar filled up with them / Camphor in jars cannot move / The jar was cold  
    **Answer:** The camphor particles could not escape, so the air in the jar filled up with them. *Why:* Particles leave the tablet in the jar too. But they stay trapped, so soon as many go back onto the tablet as leave it.
 6. (truefalse) A sugar particle is the smallest piece of sugar there can be.  
    **Answer:** True. *Why:* True. Break a sugar particle and you get atoms of carbon, hydrogen and oxygen, which are not sugar.
@@ -553,16 +569,16 @@ The next morning, Kavya wrote a sign in big letters and stuck it on the syrup bo
    **Answer:** A strong answer agrees with Kamala for drinking now, using the tall glass test, where the top stayed plain after 30 minutes. It also says Divya is right that particles move by themselves, but the spreading is far too slow for a cup of coffee.. *Why:* Both have a point. Particles do spread by themselves, as Divya says. But it takes days, so Kamala's stirring is what makes the first sip sweet.
 ### Prove It With Particles (challenge) (challenge, 15 questions)
 1. (mcq) You put a camphor tablet in an empty jar, close the lid tight, and weigh the jar every day for a week. What happens to the weight of the closed jar?  
-   Options: It goes down / It stays the same / It goes up  
+   Options: It goes down / It goes up / It stays the same  
    **Answer:** It stays the same. *Why:* Some camphor particles leave the tablet, but they stay in the air inside the closed jar. Nothing escapes, so the total weight stays the same.
 2. (mcq) You put 4 teaspoons of sugar into a full glass of water. Will the water spill over the top?  
    Options: No, the sugar takes up no space at all / A little may spill, because the sugar particles still take up some space / It will spill a whole cupful  
    **Answer:** A little may spill, because the sugar particles still take up some space. *Why:* Sugar particles are still there, so they take up some room. The level rises a little. A heap of sugar on a spoon also has air between the grains, so the rise is less than the size of the heap.
 3. (mcq) Which test would best show that dissolved salt is still in water, without tasting?  
-   Options: Looking at the water closely / Letting a few drops dry on a clean steel plate / Smelling the water  
+   Options: Looking at the water closely / Smelling the water / Letting a few drops dry on a clean steel plate  
    **Answer:** Letting a few drops dry on a clean steel plate. *Why:* When the water goes into the air, the salt particles stay behind and gather into white grains again. Looking cannot work, because the particles are too small to see.
 4. (mcq) In the old days, some scientists said particles were not real because nobody could see one. What is the problem with that reason?  
-   Options: Nothing, it is a good reason / Many real things are too small to see, and we can find them in other ways / Particles are big enough to see  
+   Options: Nothing, it is a good reason / Particles are big enough to see / Many real things are too small to see, and we can find them in other ways  
    **Answer:** Many real things are too small to see, and we can find them in other ways. *Why:* Tasting, weighing and the ants all found sugar we could not see. Not being able to see something does not show it is not there.
 5. (truefalse) If you could keep cutting a grain of sugar in half, you would always get smaller sugar.  
    **Answer:** False. *Why:* False. After about 60 cuts, each halving the amount, you would reach one sugar particle. Cut that, and you get atoms of carbon, hydrogen and oxygen, which are not sugar.
@@ -594,37 +610,37 @@ The next morning, Kavya wrote a sign in big letters and stuck it on the syrup bo
 
 ## Quiz
 1. (mcq) What is everything around you made of?  
-   Options: Particles only in solids, not in water or air / Particles far too small to see, in solids, liquids and gases / Grains you can see with a magnifying glass  
+   Options: Particles only in solids, not in water or air / Grains you can see with a magnifying glass / Particles far too small to see, in solids, liquids and gases  
    **Answer:** Particles far too small to see, in solids, liquids and gases. *Why:* Solids, liquids and gases are all made of particles far too small to see. Picking 'only in solids' means thinking water and air are smooth all the way down, with no pieces. Picking 'grains you can see' confuses grains, which are huge heaps of particles, with particles.
 2. (mcq) You stir sugar into water and the grains disappear. Where is the sugar now?  
-   Options: It has been destroyed / Spread through the water as tiny sugar particles / It has turned into water  
+   Options: It has been destroyed / It has turned into water / Spread through the water as tiny sugar particles  
    **Answer:** Spread through the water as tiny sugar particles. *Why:* The sugar broke into particles too small to see, and they spread among the water particles. Picking 'destroyed' is the most common guess, because we trust our eyes. Picking 'turned into water' misses that the water tastes sweet: the sugar is still sugar.
 3. (mcq) On a kitchen scale, a closed bottle of water and a packet of sugar weigh 120 grams together. You pour the sugar into the bottle, close it and shake it until the sugar is gone. You put the bottle and the empty packet back on the scale. What does the scale show?  
-   Options: Less than 120 grams / 120 grams / More than 120 grams  
+   Options: 120 grams / Less than 120 grams / More than 120 grams  
    **Answer:** 120 grams. *Why:* Every sugar particle is still in the bottle, so the weight stays the same. Picking 'less' means thinking dissolved sugar weighs nothing. Picking 'more' is a guess that sugar water is heavier than water and sugar apart, but nothing was added.
 4. (mcq) In the hanger balance test, why did we first lift the sugar packet out of the bag and watch the straw?  
-   Options: To check that the balance could feel the weight of the sugar / To let the sugar cool down / To make the test go faster  
+   Options: To let the sugar cool down / To make the test go faster / To check that the balance could feel the weight of the sugar  
    **Answer:** To check that the balance could feel the weight of the sugar. *Why:* If the balance moved when the packet was lifted out, we knew it could feel the sugar. So when it did not move after dissolving, we knew the sugar had not lost any weight.
 5. (mcq) Which dissolves fastest in a glass of water?  
    Options: A lump of kalkandu / Ordinary sugar grains / Powdered sugar  
    **Answer:** Powdered sugar. *Why:* Powder has the most outside, so water can pull off many particles at once. Picking kalkandu means thinking a bigger piece holds more and so goes faster, but it has the least outside.
 6. (mcq) You want to test whether stirring makes sugar dissolve faster. What should you keep the same?  
-   Options: Nothing, it doesn't matter / The water, the glass and the amount of sugar / Only the glass  
+   Options: The water, the glass and the amount of sugar / Nothing, it doesn't matter / Only the glass  
    **Answer:** The water, the glass and the amount of sugar. *Why:* In a fair test only one thing changes, here the stirring. Everything else stays the same, so you know the stirring made the difference.
 7. (mcq) Which of these is melting, not dissolving?  
    Options: Salt disappearing in rasam / Ghee turning runny in a warm pan / Sugar disappearing in cold milk  
    **Answer:** Ghee turning runny in a warm pan. *Why:* Ghee turns liquid because it is heated, with nothing else added. That is melting. Salt in rasam and sugar in cold milk are dissolving: they break up in a liquid, with no heat needed.
 8. (mcq) Someone says, 'Sugar melts in tea because the tea is hot.' What is wrong with this?  
-   Options: Nothing, it is right / Sugar dissolves even in cold water, so it is dissolving, not melting / Sugar never goes into tea  
+   Options: Nothing, it is right / Sugar never goes into tea / Sugar dissolves even in cold water, so it is dissolving, not melting  
    **Answer:** Sugar dissolves even in cold water, so it is dissolving, not melting. *Why:* Sugar dissolves in ice-cold water too. Melting sugar needs a dry pan at about 186 degrees Celsius. Hot tea only makes dissolving faster.
 9. (mcq) Some people once said that when silver dissolves in a strong acid, the silver stops existing. Which result would show they were wrong?  
-   Options: Getting the same silver back out of the acid / Seeing nothing in the acid / Weighing the air  
+   Options: Seeing nothing in the acid / Getting the same silver back out of the acid / Weighing the air  
    **Answer:** Getting the same silver back out of the acid. *Why:* If the silver had stopped existing, nobody could get it back. So it must have been there all along, as tiny particles. A doctor called Daniel Sennert did this in the 1600s.
 10. (mcq) Sugar was left at the bottom of a tall glass with no stirring. After 30 minutes, how did the top taste?  
    Options: Plain, because sugar particles spread very slowly by themselves / Very sweet, because sugar rises / Salty  
    **Answer:** Plain, because sugar particles spread very slowly by themselves. *Why:* Sugar particles do move by themselves, but through water this spreading is very slow. It could take days to reach the top. Picking 'sugar rises' is a fair guess, but sweet water is heavier, so it stays at the bottom.
 11. (mcq) Ants went to a drop of sugar water and left a drop of plain water alone. The drops looked the same. How did the ants know?  
-   Options: They sensed the sugar particles with their antennae / They saw the sugar / They guessed  
+   Options: They saw the sugar / They sensed the sugar particles with their antennae / They guessed  
    **Answer:** They sensed the sugar particles with their antennae. *Why:* Ants smell and taste with their antennae. When an ant touches the sugar water, she picks up the sugar particles and knows it is food. Nobody can see dissolved sugar.
 
 ## Applications
@@ -641,7 +657,7 @@ The next morning, Kavya wrote a sign in big letters and stuck it on the syrup bo
 - Salt in rasam or sambar: you can't see it, but one taste tells you if there is enough.
 - Syrup bottles at juice stalls and sugarcane juice carts.
 - The smell of camphor in a cupboard or a pooja shelf, from particles leaving the tablets.
-- The salt pans of Thoothukudi in Tamil Nadu, where sea water dries in the sun and the dissolved salt comes back as white crystals.
+- Salt pans by the sea, where sea water dries in the sun and the dissolved salt comes back as white crystals.
 - Ants marching to a sticky spot on the kitchen platform where a drop of tea or juice dried.
 - The thick sugar syrup that rasgullas or gulab jamuns sit in at a sweet shop.
 
@@ -691,6 +707,10 @@ Still There (sci.states.L3): Topic-level song for Solids, liquids, gases and par
 ## Things to buy
 - [Kalkandu (rock sugar), also called mishri](https://www.amazon.in/s?k=kalkandu+rock+sugar) (material): Big sugar crystals for the sugar race and for looking at crystal faces. Any kirana or supermarket sells it cheaply. Used in e2, a2. 
 - [Camphor tablets (karpooram)](https://www.amazon.in/s?k=camphor+tablets) (material): For the shrinking camphor project. Sold in every kirana and pooja shop. Keep out of reach of small children. Used in p1. 
+- [Digital kitchen scale, reads to 1 gram](https://www.amazon.in/s?k=digital+kitchen+scale) (tool): It weighs the sugar in the hanger test and the dry-sugar challenge. About ₹250 to ₹600 for a digital kitchen scale at an electronics or kitchen shop. The hanger balance still works without one, so this is optional. Used in e1, c1. Buy it only if you want to weigh the sugar, before the Hanger Balance test.
+- [Magnifying glass, about 75 millimetres wide](https://www.amazon.in/s?k=magnifying+glass+for+children) (tool): It lets the children look closely at grains of sugar, salt and kalkandu. About ₹50 to ₹150 at a stationery or science shop. A phone camera zoomed in as far as it goes works as the household alternative. Used in a2. Buy it before the Zoom In on a Grain activity.
+- [Dice, two](https://www.amazon.in/s?k=dice) (game): The Dissolve Race board game is played by rolling dice. About ₹20 to ₹40 for a pair at a stationery or toy shop. A dice app on a phone works too. Used in g2. Buy them before you play the Dissolve Race game.
+- [Printed pages for the game cards, mat, key cards and worksheets, about 15 pages]() (material): The two games use 16 printed cards, four key cards and a 25-circle mat, and the worksheets are printed too. A copy shop charges about ₹1 to ₹2 a page, so the set costs about ₹15 to ₹30. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print these before the first game.
 
 ## Warm-up
 - What is everything made of? → Particles, far too small to see.

@@ -1,9 +1,9 @@
 # Shadows: what happens when something blocks the light
 `sci.light.shadows.L2`
 
-**Summary.** Why can the same toy make a tiny shadow or a giant one? In this unit you will find out what a shadow needs, move a toy near and far from a torch to see its shadow change, count the shadows two lights make, and make a shadow puppet.
+**Summary.** Why can the same toy make a tiny shadow or a giant one? In this lesson you will find out what a shadow needs, move a toy near and far from a torch to see its shadow change, count the shadows two lights make, and make a shadow puppet.
 
-**Intro.** *Switch on a torch and hold your hand in front of it. A dark hand appears on the wall. Where did that dark hand come from?* Hold your hand still between the torch and the wall. Now take your hand away. The dark hand is gone. Put your hand back, and it comes back. The dark hand on the wall is called a shadow. In this unit we find out what makes a shadow, and how to make one grow, shrink, split in two and tell a story.
+**Intro.** *Switch on a torch and hold your hand in front of it. A dark hand appears on the wall. Where did that dark hand come from?* Hold your hand still between the torch and the wall. Now take your hand away. The dark hand is gone. Put your hand back, and it comes back. The dark hand on the wall is called a shadow. In this lesson we find out what makes a shadow, and how to make one grow, shrink, split in two and tell a story.
 
 ## Learning outcomes
 0. By the end I can say that a shadow forms where something blocks light.
@@ -47,6 +47,7 @@ Light from the torch goes out in straight lines in many directions. The lines th
 - e.g. A shadow of a cup has the outline of the cup.
 - e.g. A shadow of your hand shows the gaps between your fingers.
 - e.g. A shadow of a fork shows each of its prongs.
+- e.g. A shadow of your closed fist is a round lump, with no gaps. Open your hand and the gaps between the fingers appear.
 ### Nearer the light, bigger shadow · *defined*
 **Definition:** When a thing moves nearer the light, its shadow gets bigger. When it moves nearer the wall, its shadow gets smaller, until it is about the same size as the thing.
 
@@ -63,7 +64,7 @@ A torch is not a single point. Light comes from all over its bright part. Near t
 ### Which side a shadow falls on · *defined*
 **Definition:** A shadow always falls on the side of the thing that is away from the light.
 
-Light comes from the torch and stops at the toy. The place that gets no light is behind the toy, on the far side from the torch. Move the torch to the left, and the shadow swings to the right. Lift the torch high above the toy, and the shadow becomes short and sits close round the toy's feet. If you know where a shadow is, you can work out where the light is.
+Light comes from the torch and stops at the toy. The place that gets no light is behind the toy, on the far side from the torch. Move the torch to the left, and the shadow swings to the right. Lift the torch high above the toy, and the shadow becomes short and sits close round the toy's feet. If you know where a shadow is, you can work out where the light is. The shadow also goes where the thing goes. Slide the toy to the left along the table, and its shadow slides left with it. So where a shadow lands depends on where the thing stands, as well as on where the light is.
 - e.g. If the torch is on the left, the shadow falls on the right.
 - e.g. If a light is on the ceiling, the shadow of a chair is under the chair.
 - e.g. In the morning the Sun is in the east, so shadows point to the west.
@@ -482,7 +483,7 @@ Paati blew out the little lamp. "Tomorrow," she said, "we will make Ravana. With
   *Child mode:* Pick one part you would change.
 
 ## Worksheets
-### Shadows (core) (core, 10 questions)
+### Shadows (core) (core, 11 questions)
 1. (mcq) Which three things do you need to make a shadow?  
    Options: A light, something to block it, and a surface / A light, a mirror, and some water / Only a dark room  
    **Answer:** A light, something to block it, and a surface. *Why:* A strong answer names all three: a light, something to block the light, and a wall or floor for the shadow to fall on.
@@ -504,7 +505,9 @@ Paati blew out the little lamp. "Tomorrow," she said, "we will make Ravana. With
    **Answer:** 3. *Why:* Each toy blocks the light of the torch, so each toy has its own shadow. One torch and three toys make three shadows.
 10. (order) Put the toy's shadows in order, from the smallest to the biggest.  
    **Answer:** ['the toy close to the wall', 'the toy halfway', 'the toy close to the torch']. *Why:* The nearer the toy is to the torch, the more light it blocks, so the bigger its shadow.
-### Shadows (stretch) (stretch, 10 questions)
+11. (fill) You slide the toy to a new spot in front of the torch. Its shadow moves too, because the shadow always stays ___ the toy.  
+   **Answer:** with. *Why:* The shadow is the place the toy blocks the light. When the toy is in a new place, the blocked place is new too. Accept: next to, behind, beside, following.
+### Shadows (stretch) (stretch, 11 questions)
 1. (mcq) A puppet is held close to the wall. Its shadow is small and sharp. What happens if the puppet moves towards the lamp?  
    Options: The shadow gets bigger and fuzzier / The shadow gets smaller and sharper / The shadow disappears  
    **Answer:** The shadow gets bigger and fuzzier. *Why:* Moving towards the lamp, the puppet blocks more of the spreading light, so the shadow grows. Its edge also gets fuzzy.
@@ -522,12 +525,14 @@ Paati blew out the little lamp. "Tomorrow," she said, "we will make Ravana. With
 7. (fill) Light travels in ___ lines, so it cannot bend round the toy.  
    **Answer:** straight. *Why:* Because light goes in straight lines, the edge of the shadow follows the edge of the toy.
 8. (mcq) Your shadow on the floor points towards the door. Where is the light?  
-   Options: On the side away from the door / Next to the door / Under the floor  
+   Options: Next to the door / On the side away from the door / Under the floor  
    **Answer:** On the side away from the door. *Why:* A shadow points away from the light. So if the shadow points to the door, the light is on the other side, away from the door.
 9. (write) Many people think a shadow is completely black. In your tests, could you still see the floor or wall inside a shadow? Why?  
    **Answer:** Yes. Some light bounces off the walls and ceiling into the shadow, so it is dark grey, not totally black.. *Why:* A strong answer uses what the child saw. Light bounces off the walls, the ceiling and other things into the shadow.
 10. (label) Label the picture of a big shadow: the dark middle, and the fuzzy edge.  
    **Answer:** ['dark middle: where no light from the torch gets in', 'fuzzy edge: where a little light from part of the torch still gets in']. *Why:* The fuzzy edge is grey because part of the torch's bright face can still be seen from there.
+11. (match) Shadow puzzle: draw a line from each hand pose, held in front of a torch, to its shadow.  
+   **Answer:** a fist → a round lump; a hand with fingers wide apart → five thin fingers with gaps; one finger pointing at the wall → a thin stick; a flat hand with fingers together → a shape like a mitten. *Why:* A shadow has the outline of the thing, seen from the torch. Gaps between fingers stay bright, so spread fingers show as separate shapes.
 ### Shadows (challenge) (challenge, 10 questions)
 1. (perspective) In Africa, a bird called the black heron spreads her wings like an umbrella over the water while she fishes. Three people give a reason.  
    **Answer:** A strong answer picks a side with a reason. Dr Asha is right that shade makes it easier to see into water. Thenmozhi is right that many small fish hide in shade. Gauri may be right too. Scientists still argue about this.. *Why:* This is a real question that scientists are still studying, so more than one answer can be well argued.
@@ -559,35 +564,41 @@ Paati blew out the little lamp. "Tomorrow," she said, "we will make Ravana. With
 
 ## Quiz
 1. (mcq) What is a shadow?  
-   Options: A dark patch where light is blocked / A dark copy that comes out of a thing / A kind of light  
+   Options: A dark copy that comes out of a thing / A dark patch where light is blocked / A kind of light  
    **Answer:** A dark patch where light is blocked. *Why:* A shadow is the place the light cannot reach, because something is in the way. Nothing dark comes out of the thing.
 2. (mcq) You want to make a shadow on a wall. Which of these do you NOT need?  
    Options: A mirror / A light / Something to block the light  
    **Answer:** A mirror. *Why:* A shadow needs a light, something to block it, and a surface for the shadow to fall on. A mirror is not needed.
 3. (mcq) A toy stands between a torch and a wall. When is its shadow biggest?  
-   Options: When the toy was close to the torch / When the toy was close to the wall / It was the same size everywhere  
+   Options: When the toy was close to the wall / It was the same size everywhere / When the toy was close to the torch  
    **Answer:** When the toy was close to the torch. *Why:* Close to the torch, the toy blocks a big part of the spreading light, so the shadow on the wall is big.
 4. (mcq) A torch shines on a doll from the right. Where is the doll's shadow?  
    Options: On the left of the doll / On the right of the doll / In front of the torch  
    **Answer:** On the left of the doll. *Why:* A shadow falls on the side away from the light. The light comes from the right, so the shadow is on the left.
 5. (mcq) A lamp hangs straight above a dining table. Where is the table's shadow?  
-   Options: Under the table / On the ceiling / On the wall behind the lamp  
+   Options: On the ceiling / On the wall behind the lamp / Under the table  
    **Answer:** Under the table. *Why:* The light comes from above, so the blocked place is below the table, on the floor.
 6. (mcq) With two torches on, why is each shadow pale grey, not dark?  
-   Options: The other torch still shines into it / Shadows are always pale / The toy lets light through  
+   Options: Shadows are always pale / The other torch still shines into it / The toy lets light through  
    **Answer:** The other torch still shines into it. *Why:* Each shadow is lit by the other torch. Only where the two shadows overlap does no light get in, so that part is dark.
 7. (mcq) Your shadow puppet is a crow coloured bright blue. What colour is the crow's shadow?  
-   Options: Dark, with no blue / Bright blue / Pale blue  
+   Options: Bright blue / Pale blue / Dark, with no blue  
    **Answer:** Dark, with no blue. *Why:* The card blocks the light, so the shadow is dark. A shadow shows only the outline, not the colours painted on the card.
 8. (mcq) Tholpavakoothu is a shadow-puppet play from which state?  
-   Options: Kerala / Punjab / Assam  
+   Options: Punjab / Assam / Kerala  
    **Answer:** Kerala. *Why:* Tholpavakoothu comes from Kerala, mostly round Palakkad. Andhra Pradesh has tholu bommalata, Karnataka has togalu gombeyaata and Odisha has ravanachhaya.
 9. (mcq) Why does a shadow have the same outline as the thing that makes it?  
-   Options: Light travels in straight lines / Light bends round things / The wall copies the thing  
+   Options: Light bends round things / Light travels in straight lines / The wall copies the thing  
    **Answer:** Light travels in straight lines. *Why:* Light that just misses the edge goes straight on to the wall, and light that hits the thing stops. So the edge of the shadow follows the edge of the thing.
 10. (mcq) You hold your hand very close to the torch. What does the edge of its shadow look like?  
    Options: Soft and fuzzy / Sharp and crisp / Bright yellow  
    **Answer:** Soft and fuzzy. *Why:* Close to the torch, the edge of the shadow gets a little light from part of the torch, so it is grey and soft. Close to the wall, the edge is sharp.
+11. (mcq) A torch stands still on a table and shines on a wall. You slide a toy sideways to the left, in front of the torch. What does the toy's shadow do?  
+   Options: It stays where it was / It slides left with the toy / It jumps to the right of the torch  
+   **Answer:** It slides left with the toy. *Why:* The shadow is the place the toy blocks the light. When the toy moves, the blocked place moves with it, so the shadow follows the toy. It does not stay behind.
+12. (mcq) You hold your hand in front of a torch with your fingers wide apart. What does the shadow on the wall show?  
+   Options: One solid round lump / Nothing, because a hand is too small / Five thin fingers with gaps between them  
+   **Answer:** Five thin fingers with gaps between them. *Why:* Light goes straight past the edges of your fingers and lands in the gaps, so the gaps stay bright. Only a closed fist makes a solid lump. A hand is big enough to block plenty of light.
 
 ## Applications
 - Shadow-puppet plays in Kerala, Andhra Pradesh, Karnataka and Odisha tell long stories with leather puppets, lamps and a white cloth.
@@ -640,10 +651,15 @@ Where the Light Can't Go (sci.light.L2): Topic-level song for Light, seeing and 
 - [Shadow play (Wikipedia)](https://en.wikipedia.org/wiki/Shadow_play) · interactive: For the parent: pictures of shadow plays from India, Indonesia, China and Turkey.
 - [Tholpavakoothu (Wikipedia)](https://en.wikipedia.org/wiki/Tholpavakoothu) · interactive: For the parent: the shadow-puppet play of Kerala, with photos of the puppets and the stage.
 - [Lotte Reiniger (Wikipedia)](https://en.wikipedia.org/wiki/Lotte_Reiniger) · interactive: For the parent: the life of the artist who made shadow-puppet films, with pictures of her cut-outs.
-- [Tholpavakoothu performances at temple festivals in Palakkad district]() · place · Palakkad, Kerala: Many temples in the Palakkad area hold tholpavakoothu plays during their yearly festivals. Ask locally for the dates.
-- [Nimmalakunta village, the leather-puppet makers' village]() · place · near Dharmavaram, Andhra Pradesh: Families here make painted leather puppets for tholu bommalata.
+- Tholpavakoothu performances at temple festivals in Palakkad district · place · Palakkad, Kerala: Many temples in the Palakkad area hold tholpavakoothu plays during their yearly festivals. Ask locally for the dates.
+- Nimmalakunta village, the leather-puppet makers' village · place · near Dharmavaram, Andhra Pradesh: Families here make painted leather puppets for tholu bommalata.
 
 ## Things to buy
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Near or Far: when does a shadow grow?. About ₹10 to ₹30. Any school ruler is fine. Used in e1. Get it before Near or Far: when does a shadow grow?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Draw a Shadow Portrait, Our Box Theatre Shadow Play. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in a4, p1. Get it before Draw a Shadow Portrait.
+- [Wooden ice-cream sticks (a pack)](https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack) (material): Used in Make a Card Shadow Puppet, Our Box Theatre Shadow Play. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in. Used in a2, p1. Get it before Make a Card Shadow Puppet.
+- [Butter paper or tracing paper](https://www.amazon.in/s?k=butter+paper+roll) (material): Used in Our Box Theatre Shadow Play. About ₹30 to ₹80 for a roll. Thin clean plastic bag or a sheet of waxed paper. Used in p1. Get it before Our Box Theatre Shadow Play.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is a shadow? → The dark patch where light is blocked.

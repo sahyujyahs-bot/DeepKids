@@ -1,9 +1,9 @@
 # Symmetry in nature and art: why so many shapes have matching parts
 `sci.patterns-symmetry.symmetry-in-nature.L3`
 
-**Summary.** Why do crowded soap bubbles press into six-sided shapes that nobody drew? In this unit you will blow a raft of bubbles, hunt for folding and turning symmetry at home, cut fruits across to count their pattern, and draw a kolam with four matching quarters.
+**Summary.** Why do crowded soap bubbles press into six-sided shapes that nobody drew? In this lesson you will blow a raft of bubbles, hunt for folding and turning symmetry at home, cut fruits across to count their pattern, and draw a kolam with four matching quarters.
 
-**Intro.** *Look at a five-petalled flower, such as a periwinkle or a hibiscus. Now look at a kolam at a doorstep, or a rangoli at Diwali. A person drew the kolam carefully, turning it as she went. But who drew the flower? Nobody did. So how did the flower come out so even?* People have asked this for a very long time. In this unit you look for two kinds of symmetry: shapes that match when folded, and shapes that match when turned. Then you make even shapes appear with soap bubbles, without drawing them. That gives you a real answer to how nature makes symmetry without a plan, and why the evenness sometimes breaks.
+**Intro.** *Look at a five-petalled flower, such as a periwinkle or a hibiscus. Now look at a kolam at a doorstep, or a rangoli at Diwali. A person drew the kolam carefully, turning it as she went. But who drew the flower? Nobody did. So how did the flower come out so even?* People have asked this for a very long time. In this lesson you look for two kinds of symmetry: shapes that match when folded, and shapes that match when turned. Then you make even shapes appear with soap bubbles, without drawing them. That gives you a real answer to how nature makes symmetry without a plan, and why the evenness sometimes breaks.
 
 ## Learning outcomes
 0. I can find a line of symmetry by folding a shape, and say whether a shape has no line, one line or many lines of symmetry.
@@ -28,6 +28,9 @@
 - **Bilateral symmetry**: Two-sided symmetry: a body or a flower with one line of symmetry, so it has a left half and a right half that match. *e.g.* Your body has bilateral symmetry. So does a tulsi flower, a pea flower and a butterfly.
 - **Radial symmetry**: Symmetry all the way round a centre, like the spokes of a wheel. The shape matches itself when turned, and it has several lines of symmetry. *e.g.* A hibiscus flower and a jellyfish have radial symmetry.
 - **Kolam**: A pattern drawn on the ground at the doorstep, usually with rice flour, in Tamil Nadu and other parts of South India. A rangoli is a coloured floor pattern made in many parts of India, and has other names: alpona in Bengal, jhoti in Odisha and pookalam (made of flowers) in Kerala. Many kolams and rangolis are drawn with symmetry. *e.g.* A pulli kolam is drawn around a grid of dots. The line loops round the dots without touching them.
+- **Reflection**: A reflection is a flip, like the picture in a mirror. Left and right swap over. *e.g.* Hold your right hand up to a mirror. The hand in the mirror looks like a left hand.
+- **Translation**: A translation is a slide. The shape moves along without turning or flipping. *e.g.* Push a book straight along a table without turning it. The book has slid, and that is a translation.
+- **Tessellation**: A tessellation is shapes that fit together with no gaps and no overlaps. Floor tiles and honeycombs are tessellations. *e.g.* The six-sided cells of a honeycomb fit together with no gaps, so they make a tessellation.
 
 ## Explanations
 ### Two kinds of symmetry: folding and turning · *defined*
@@ -38,6 +41,7 @@ The fold test finds lines of symmetry. The turn test finds rotational symmetry. 
 - e.g. The letter S or the letter Z: no line of symmetry, but order 2 rotational symmetry.
 - e.g. A square kolam with four matching loops: four lines of symmetry and order 4.
 - e.g. Your hand: neither kind.
+- e.g. A row of the same flower printed along the border of a sari repeats by sliding: each flower is the same one moved along, not flipped or turned.
 ### Counting rotational symmetry: the order · *defined*
 **Definition:** The order of rotational symmetry is the number of times a shape looks exactly the same during one full turn.
 
@@ -542,7 +546,7 @@ Arjun nodded. On the train home he drew a kolam in his notebook, one corner at a
    Options: 1 / 2 / 5 / 10  
    **Answer:** 5. *Why:* Five repeating seed rows around the centre give order 5. It matches itself 5 times in one full turn.
 11. (mcq) A butterfly needs two matching wings. What is the main reason?  
-   Options: To look pretty / So both wings push the same amount of air and she flies straight / To hide from the rain / So she can fold them into a box  
+   Options: To look pretty / To hide from the rain / So both wings push the same amount of air and she flies straight / So she can fold them into a box  
    **Answer:** So both wings push the same amount of air and she flies straight. *Why:* When both wings push the same amount of air, she flies straight to flowers and away from birds. A butterfly with one big wing would turn in circles.
 12. (write) In your bubble raft, the middle bubbles and the edge bubbles were made of the same soap, under the same lid. Why were they different shapes?  
    **Answer:** The middle bubbles were pressed equally on every side by bubbles of the same size, so they became even, six-sided cells. The edge bubbles had bubbles on one side only and open water or the plate on the other. The push was not even, so they were lopsided.. *Why:* A strong answer names what was the same (soap, lid, size) and what was different (the push around each bubble), and links the difference to the shape.
@@ -564,7 +568,7 @@ Arjun nodded. On the train home he drew a kolam in his notebook, one corner at a
 4. (order) Put the steps of the bubble raft experiment in order.  
    **Answer:** ['Mix dishwashing liquid, sugar and water and pour the soapy water into a plate', 'Blow gently through a straw to make same-sized bubbles', 'Lay a clear lid gently on top', 'Count the walls of 5 middle and 5 edge bubbles']. *Why:* First make the soapy layer, then the bubbles, then flatten them, then count. Counting both middle and edge bubbles lets you compare.
 5. (mcq) In a raft of soap bubbles, one bubble in the middle is much smaller than its neighbours. How many walls is it most likely to have?  
-   Options: Fewer than 6 / Exactly 6 / More than 6 / None  
+   Options: Exactly 6 / More than 6 / None / Fewer than 6  
    **Answer:** Fewer than 6. *Why:* Smaller bubbles in a foam tend to have fewer walls, and bigger ones more. Only bubbles of the same size, pressed equally, come out as six-sided hexagons.
 6. (truefalse) 'Every real snowflake is perfectly symmetrical.' Is this true?  
    **Answer:** False. *Why:* False. Most real snowflakes are a little uneven, broken or stuck to others. The perfect ones in books were picked out by photographers. A strong answer says why some are uneven: one side met slightly different air, or the snowflake bumped into something.
@@ -577,7 +581,7 @@ Arjun nodded. On the train home he drew a kolam in his notebook, one corner at a
    **Answer:** A line from the tip of one petal through the centre to the gap between the opposite petals, a dot at the centre, and 'order 5'.. *Why:* A five-petalled flower has 5 lines of symmetry, each through one petal tip and the centre. Its order is 5. A strong answer draws the line through a petal tip on one side and through the gap between two petals on the other.
 10. (write) A plant cannot walk to another plant to share her pollen. Explain how a symmetrical flower helps her solve this problem.  
    **Answer:** She needs a bee or another pollinator to carry the pollen. A symmetrical flower is easy for a bee to spot and land on. Many bees prefer symmetrical flowers. A flower with a landing lip lets the bee land the same way every time, so the pollen goes onto the same part of the bee's body and reaches the next flower.. *Why:* A strong answer starts with the plant's problem, then says how the shape helps the bee find or land, and so carry pollen.
-11. (write) Many people think an even shape must be planned by someone. Use what you saw in this unit to argue against this.  
+11. (write) Many people think an even shape must be planned by someone. Use what you saw in this lesson to argue against this.  
    **Answer:** In the bubble raft, nobody drew the hexagons. The bubbles became six-sided because each was pressed equally on every side. A snowflake grows six matching arms with no plan, because all six arms grow in the same air at the same time.. *Why:* A strong answer uses evidence from the bubble raft or the snowflake, not just an opinion.
 12. (write) A tree grows at the edge of a busy road, next to a tall building. Predict what shape the tree will be, and explain why.  
    **Answer:** It will be lopsided, with more branches on the open side away from the building. The building blocks the light on one side, so the tree grows more where the light is.. *Why:* A strong answer links the break in symmetry to one side meeting different conditions, like the window plant and the edge bubbles.
@@ -589,19 +593,19 @@ Arjun nodded. On the train home he drew a kolam in his notebook, one corner at a
    **Answer:** A strong answer uses evidence: bubbles show that pressing and pulling can make hexagons without a plan, and hexagons really do use the least wall. It also gives the bees credit: scientists still argue how much the bees shape the cells and how much the wax does, and recent studies suggest bees build the walls directly. A strong answer says this is still argued.. *Why:* This is a real debate among scientists. There is no single settled answer, so a good answer argues with evidence and admits what is unknown.
 ### Symmetry Puzzles and Big Ideas (challenge) (challenge, 15 questions)
 1. (mcq) Which capital letter has both a line of symmetry and order 2 rotational symmetry?  
-   Options: H / A / S / F  
+   Options: A / S / F / H  
    **Answer:** H. *Why:* H matches when folded across the middle or down the middle, and it looks the same after half a turn. A has only a fold line, S only a turn, and F neither.
 2. (mcq) A shape has 4 lines of symmetry. What is the smallest order of rotational symmetry it can have?  
    Options: 1 / 2 / 4 / 8  
    **Answer:** 4. *Why:* A flat shape with 4 lines of symmetry, like a square, also matches itself 4 times in one turn. Flipping a shape over one mirror line and then over another is the same as turning it. So a shape with several mirror lines always has rotational symmetry too.
 3. (mcq) You fold a paper square into 8 layers and cut a snowflake. How many arms will it have?  
-   Options: 6 / 4 or 8 / 12 / 3  
+   Options: 6 / 12 / 4 or 8 / 3  
    **Answer:** 4 or 8. *Why:* Folding into 8 gives a four-fold or eight-fold pattern, not six. A real snowflake has six arms. To get six, you fold the paper into three after the first two folds.
 4. (mcq) A snowflake falls past a warm chimney, so one side meets warmer air than the other. What will its arms most likely look like?  
-   Options: All six still match perfectly / The arms on the warm side grow differently from the others / It will grow eight arms / It becomes a bubble  
+   Options: All six still match perfectly / It will grow eight arms / It becomes a bubble / The arms on the warm side grow differently from the others  
    **Answer:** The arms on the warm side grow differently from the others. *Why:* The arms match only when they all meet the same air. If one side meets different air, those arms grow differently and the symmetry breaks. The break shows where the air was different.
 5. (mcq) A bubble raft sits right next to a ruler lying in the plate. What will the bubbles touching the ruler look like?  
-   Options: Hexagons like the middle ones / Flat on the side touching the ruler / Perfect circles / Triangles  
+   Options: Hexagons like the middle ones / Perfect circles / Flat on the side touching the ruler / Triangles  
    **Answer:** Flat on the side touching the ruler. *Why:* The ruler presses on one side only, so the walls touching it are straight and the bubbles are lopsided, like the edge bubbles at the rim of the plate. Wherever the push changes, the shape changes.
 6. (sort) Sort these living things by their symmetry.  
    **Answer:** a crow → Bilateral (left and right); a jellyfish → Radial (all the way round); an earthworm → Bilateral (left and right); a hibiscus flower → Radial (all the way round); a tulsi flower → Bilateral (left and right); a sea anemone → Radial (all the way round). *Why:* Animals that move forward, like a crow and an earthworm, are bilateral. A tulsi flower is bilateral too, with a landing lip. A jellyfish, a sea anemone and a hibiscus flower are the same all the way round.
@@ -631,7 +635,7 @@ Arjun nodded. On the train home he drew a kolam in his notebook, one corner at a
 
 ## Quiz
 1. (mcq) You fold a picture of a butterfly down the middle, and the two halves match exactly. What is the fold called?  
-   Options: A line of symmetry / A centre / An order / A hexagon  
+   Options: A centre / A line of symmetry / An order / A hexagon  
    **Answer:** A line of symmetry. *Why:* The fold that splits a shape into two matching halves is a line of symmetry, also called a mirror line. 'Centre' is the point a shape turns around, which is for rotational symmetry.
 2. (mcq) A ceiling fan has three blades. With the fan switched off, you turn it slowly. How many times does it look exactly the same in one full turn?  
    Options: 1 / 2 / 3 / 6  
@@ -640,10 +644,10 @@ Arjun nodded. On the train home he drew a kolam in his notebook, one corner at a
    Options: The letter S / The letter A / A butterfly / A square  
    **Answer:** The letter S. *Why:* The letter S looks the same after half a turn, but no fold makes its halves match. The letter A and a butterfly have a line of symmetry but no rotational symmetry. A square has both.
 4. (mcq) You make a raft of same-sized soap bubbles and cover it with a clear lid. What shape are most of the bubbles in the middle?  
-   Options: Circles / Squares / Six-sided / Triangles  
+   Options: Six-sided / Circles / Squares / Triangles  
    **Answer:** Six-sided. *Why:* Each bubble in the middle is pressed equally by about six neighbours, and the walls meet three at a time at equal angles. So most become six-sided. If you guessed squares, try it: four walls meeting at a point slide apart into threes.
 5. (mcq) In a bubble raft, why are the bubbles at the edge lopsided?  
-   Options: They are older bubbles / They are pressed by bubbles on one side only / The soap is thinner at the edge / The lid is bent  
+   Options: They are pressed by bubbles on one side only / They are older bubbles / The soap is thinner at the edge / The lid is bent  
    **Answer:** They are pressed by bubbles on one side only. *Why:* An edge bubble has neighbours on one side and open water or the plate on the other. The push is not the same all round, so the shape is not even. The middle bubbles have the same push from every side.
 6. (mcq) Why does a snowflake have six arms?  
    Options: Clouds are six-sided / In ice, water molecules join in rings of six / Snowflakes are cut by the wind / Cold air has six directions  
@@ -655,16 +659,16 @@ Arjun nodded. On the train home he drew a kolam in his notebook, one corner at a
    Options: Bees can find her and land from any side / Even petals make more pollen / Even petals keep the rain off / Bees eat the petals  
    **Answer:** Bees can find her and land from any side. *Why:* A round, even flower is easy for a bee to spot and can be visited from any direction. Experiments show many bees prefer symmetrical patterns. The plant gains because the bee carries her pollen to the next flower.
 9. (mcq) A tulsi flower has one line of symmetry and a lip at the bottom. How does this help the plant?  
-   Options: The lip holds water / Bees land on the lip the same way up every time, so pollen touches the same place on each bee / The lip scares away ants / It makes the flower bigger  
+   Options: The lip holds water / The lip scares away ants / Bees land on the lip the same way up every time, so pollen touches the same place on each bee / It makes the flower bigger  
    **Answer:** Bees land on the lip the same way up every time, so pollen touches the same place on each bee. *Why:* A bee always lands on the lip the right way up. So the pollen is put on the same part of her body each time, and touches the next flower in the right place.
 10. (mcq) Why do fish, ants and people have a left side and a right side that nearly match?  
-   Options: They move forward, so they meet the world front first and their two sides meet it in the same way / Their mothers fold them / Water makes them even / They live in cities  
+   Options: Their mothers fold them / Water makes them even / They move forward, so they meet the world front first and their two sides meet it in the same way / They live in cities  
    **Answer:** They move forward, so they meet the world front first and their two sides meet it in the same way. *Why:* Animals that move forward have their mouth and eyes at the front, and their left and right sides meet the world in the same way. Animals that drift, like jellyfish, are often the same all the way round.
 11. (mcq) A kolam is made by drawing one quarter, then turning and drawing the same quarter three more times. What order of rotational symmetry does it have?  
    Options: 1 / 2 / 4 / 8  
    **Answer:** 4. *Why:* Four matching quarters, each a quarter turn apart, make the kolam look the same 4 times in one full turn.
 12. (mcq) A money plant beside a window has more leaves on the window side. What does this break in her symmetry tell you?  
-   Options: The window side got more light / She is ill / The pot is cracked / Plants always grow on one side  
+   Options: She is ill / The pot is cracked / The window side got more light / Plants always grow on one side  
    **Answer:** The window side got more light. *Why:* A break in symmetry is a clue that one side met something different. Here, light came from the window, and the plant grew more leaves where she could make more food.
 
 ## Applications
@@ -675,7 +679,7 @@ Arjun nodded. On the train home he drew a kolam in his notebook, one corner at a
 - Honeycomb-shaped panels, made of hexagonal cells, are used in aircraft and packaging because they are light and strong.
 
 ## Spotted around us
-- A kolam at a doorstep in Chennai or Madurai during Margazhi, a rangoli at Diwali, an alpona drawn in rice paste at a Bengali puja, or an Onam pookalam made of flower petals.
+- A kolam at a doorstep during Margazhi, a rangoli at Diwali, an alpona drawn in rice paste at a puja, or an Onam pookalam made of flower petals.
 - Five-petalled periwinkle flowers in pots and along pavements, and four-petalled ixora flowers in hedges.
 - Foam on a cup of filter coffee or in the washing-up sink, with walls meeting three at a time.
 - A ceiling fan, a pressure cooker weight seen from above, and the spokes of a cycle wheel.
@@ -722,9 +726,13 @@ Fold It, Turn It (sci.patterns-symmetry.L3): Topic-level song for Patterns and s
 - [Symmetry, Maths Is Fun](https://www.mathsisfun.com/geometry/symmetry.html) · interactive: Simple pictures and puzzles about line symmetry and rotational symmetry.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A big science museum. Look for exhibits on mirrors, patterns and shapes.
 - [Nehru Science Centre](https://www.nehrusciencecentre.gov.in) · place · Mumbai: A science centre with hands-on exhibits. Look for the ones on mirrors, shapes and patterns.
-- [Kapaleeshwarar Temple, Mylapore]() · place · Chennai: During Margazhi (mid-December to mid-January), the streets around the temple fill with large kolams, and there is often a kolam contest. Look for lines of symmetry and turn symmetry.
+- Kapaleeshwarar Temple, Mylapore · place · Chennai: During Margazhi (mid-December to mid-January), the streets around the temple fill with large kolams, and there is often a kolam contest. Look for lines of symmetry and turn symmetry.
 
 ## Things to buy
+- [Seeing Symmetry by Loreen Leedy](https://www.amazon.in/s?k=Seeing+Symmetry) (book): Clear pictures of line and rotational symmetry in letters, shapes, nature and art, with ideas to try at home. It gives the child more examples to check for flips and turns. Used in a1. Read it together after the symmetry experiments.
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in My Two Halves: how even is my body?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in a5. Get it before My Two Halves: how even is my body?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in My Two Halves: how even is my body?, Tile the Floor: which shape covers it with no gaps?. About ₹10 to ₹30. Any school ruler is fine. Used in a5, c2. Get it before My Two Halves: how even is my body?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is a line of symmetry? → A fold line where the two halves of a shape match exactly.

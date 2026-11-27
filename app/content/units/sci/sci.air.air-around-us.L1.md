@@ -1,9 +1,9 @@
 # Air around us: we cannot see it, but we can feel it
 `sci.air.air-around-us.L1`
 
-**Summary.** Sit still with the fan off and you feel no air, so is there any air at all? In this unit you will catch air in a bag, feel moving air on your skin, and blow paint around with a breath.
+**Summary.** Sit still with the fan off and you feel no air, so is there any air at all? In this lesson you will catch air in a bag, feel moving air on your skin, and blow paint around with a breath.
 
-**Intro.** *Hold your hand in front of your face and look between your fingers. Can you see anything there? Now wave your other hand fast near your cheek. What did you feel?* You saw nothing, but you felt something. That something is air. Air is all around us, but we cannot see it. In this unit we catch air in a bag in every corner of the home. We find out when our skin can feel air, and when it cannot. And we watch what moving air can push.
+**Intro.** *Hold your hand in front of your face and look between your fingers. Can you see anything there? Now wave your other hand fast near your cheek. What did you feel?* You saw nothing, but you felt something. That something is air. Air is all around us, but we cannot see it. In this lesson we catch air in a bag in every corner of the home. We find out when our skin can feel air, and when it cannot. And we watch what moving air can push.
 
 ## Learning outcomes
 0. By the end I can say that air is all around us, in every corner of our home, even where it looks empty.
@@ -27,6 +27,9 @@ A room that looks empty is full of air. So is the space under your bed, inside a
 - e.g. A plastic bag swept under the bed comes out puffed up with air.
 - e.g. An empty bottle with no cap is full of air.
 - e.g. Mountain climbers on very high mountains carry extra oxygen in cylinders to breathe, because the air up there is thin.
+- **Vedic and Indian traditions:** Vayu, air, is one of the five basic elements (mahabhuta).
+- **Ancient Greek thinkers:** Aer, air, was one of four elements, and some said air is the breath of life.
+- **Chemistry since Lavoisier:** Air is a mixture of gases, mainly nitrogen and oxygen.
 ### Why we cannot see air · *defined*
 **Definition:** Something is invisible when light goes straight through it, so nothing comes back to our eyes.
 
@@ -34,6 +37,8 @@ We see a thing when light bounces off it into our eyes. A little clean air does 
 - e.g. You can see the tree through a clean window, but you hardly see the glass.
 - e.g. Hills far away look a little blue, because there is a lot of air between you and them.
 - e.g. The sky is blue in the day. Where there is no air, out in space, the sky is black.
+- **Vaisheshika school of India:** Air cannot be seen but is known by touch, as the wind on the skin.
+- **Physics:** Air is clear because light passes straight through it. Over many kilometres, air does scatter light, and that makes the sky blue.
 ### We feel air when it moves · *defined*
 **Definition:** We feel air when it moves against our skin, or when we move through it. Moving air is called wind.
 
@@ -41,6 +46,8 @@ The tiny bits of air touch your skin all the time, from every side. When the air
 - e.g. Sitting still with the fan off, you feel no air on your arm.
 - e.g. When you run, you feel air on your face, even on a still day.
 - e.g. A hand fan, like a palm-leaf visari in Kerala, pushes air onto your face.
+- **Indian tradition:** Calls air vayu and counts it among the five great elements (pancha mahabhuta). It is the element that moves and touches the skin.
+- **Physicists:** Say air is a crowd of tiny gas particles, always moving and bumping into us. We feel wind when they push in one direction, but even still air presses on us all the time.
 ### Moving air pushes things · *defined*
 **Definition:** Moving air pushes on whatever is in its way. The faster it moves, the harder it pushes.
 
@@ -48,6 +55,8 @@ We cannot see wind, but we can see what it pushes. A gentle breeze sways a curta
 - e.g. Kites fly high over Ahmedabad at Uttarayan, held up by the wind.
 - e.g. Tall windmills near Kanyakumari turn in the strong wind and make electricity.
 - e.g. A puff of breath pushes a soap bubble across the room.
+- **Sailors of the Indian Ocean:** For centuries traders used the monsoon winds, which blow one way in summer and the other in winter, to sail dhows between India, Arabia and Africa.
+- **Physicists:** Explain that moving air pushes because its particles hit a surface and bounce back, giving it a shove. More speed means more shove.
 ### Living beings need air · *defined*
 **Definition:** Breathing is taking air into the body and letting it out again. Humans and other animals breathe all day and all night.
 
@@ -55,6 +64,9 @@ You breathe air in through your nose and mouth, and out again. You do it even wh
 - e.g. Put your hand on your chest and breathe in. Feel your chest get bigger.
 - e.g. A fish in a bowl keeps opening and closing her gills, taking in the air mixed into the water.
 - e.g. A tulsi plant on the balcony takes in air through tiny holes under the leaves.
+- e.g. Dust sticks to the leaves of a neem tree by the road, so the air there is cleaner.
+- **The Upanishads:** Speak of prana, the breath, as the life in a being. Without it a body does not live.
+- **Biologists:** Explain that cells use oxygen from air to release energy from food. Yet some microbes, deep in mud, live without oxygen at all, so not every being needs air.
 
 ## Mostly agreed
 - Air is a real thing that fills every space that looks empty. *How we know:* A bag swept through any corner of a room fills up with air and pushes back when you squeeze it. A bag squeezed flat and twisted shut stays flat.
@@ -372,7 +384,7 @@ Meenu lay down next to Appu under the fan. The cool air poured over them. "Ammam
   - Ask: What pushed the boat? (good: Moving air.; The wind I made.)
 
 ## Worksheets
-### Air Is Everywhere (core) (core, 10 questions)
+### Air Is Everywhere (core) (core, 11 questions)
 1. (sort) Is there air here? Put each place in a box.  
    **Answer:** under the bed → Air is here; inside an empty bucket → Air is here; in the kitchen → Air is here; inside a closed cupboard → Air is here; outside the window → Air is here. *Why:* Every place had air. In Catch the Air, the bag puffed up even under the bed and inside the bucket. A strong answer puts nothing in 'No air here'.
 2. (draw) In Catch the Air, you squeezed the bag flat and twisted it shut. Later you caught air in it. Draw the bag both ways.  
@@ -389,16 +401,19 @@ Meenu lay down next to Appu under the fan. The cool air poured over them. "Ammam
 7. (label) Here is a balcony on a windy day. Put a W on everything the wind is moving.  
    **Answer:** W on the flapping clothes, the swaying plant, the flying kite and the blowing leaves. No W on the flowerpot or the railing.. *Why:* Wind pushes light, loose things. A heavy flowerpot and a fixed railing stay still.
 8. (mcq) You sit very still in a room with the fan off. You feel no air on your arm. Why?  
-   Options: There is no air in the room / The air is not moving / Your arm is asleep  
+   Options: The air is not moving / There is no air in the room / Your arm is asleep  
    **Answer:** The air is not moving. *Why:* The air is there, but it is still. You will feel it when it moves, or when you move through it.
 9. (odd) Which one is NOT moving air?  
    Options: The breeze from a fan / Your breath on your hand / A stone on the floor / The wind outside  
    **Answer:** 2. *Why:* A fan's breeze, your breath and the wind are all moving air. A stone on the floor is not air, and it is not moving.
 10. (perspective) Two friends in Madurai look at an empty water bottle with no cap.  
    **Answer:** The second child is right: the bottle is full of air, just like the bucket and the space under the bed. The first child is right that there is no water and nothing we can see inside.. *Why:* A strong answer uses Catch the Air: every place that looked empty had air. It is also fair to the first child: 'empty' usually means nothing we can see.
-### Feeling and Seeing Air (stretch) (stretch, 10 questions)
+11. (mcq) Which one of these helps keep the air clean?  
+   Options: Cutting down the trees along a road / Planting trees near our homes and schools / Burning plastic and rubbish in the open  
+   **Answer:** Planting trees near our homes and schools. *Why:* Leaves catch dust and smoke from the air, so trees help keep it clean. Burning plastic sends smoke and fumes into the air.
+### Feeling and Seeing Air (stretch) (stretch, 11 questions)
 1. (mcq) In Catch the Air, you squeezed the bag flat, twisted it shut and pulled the sides. Why did it stay flat?  
-   Options: The bag was broken / No air could get in / Air is too heavy to go in  
+   Options: The bag was broken / Air is too heavy to go in / No air could get in  
    **Answer:** No air could get in. *Why:* With the neck twisted shut, no air could get in, so there was nothing to make the bag fat. This shows that the fat bags really had air in them.
 2. (order) Put the steps of Catch the Air in the right order.  
    **Answer:** ['Open the bag wide', 'Sweep it through the air', 'Twist the neck shut', 'Squeeze it and feel it push back']. *Why:* You open the bag, scoop the air, close it so the air can't escape, then feel it.
@@ -417,8 +432,10 @@ Meenu lay down next to Appu under the fan. The cool air poured over them. "Ammam
 9. (sort) Sort these: which does the wind move, and which does it not move on a normal day?  
    **Answer:** a dry leaf → The wind moves it; a kite → The wind moves it; clothes on the line → The wind moves it; a big steel almirah → The wind does not move it; a heavy stone → The wind does not move it. *Why:* Moving air pushes everything, but it moves light things far more easily than heavy ones. Only a very strong storm moves heavy things.
 10. (mcq) In Bubble Blowing, what is inside a bubble you blew?  
-   Options: Your breath, which is air / Nothing at all / Only water  
+   Options: Nothing at all / Your breath, which is air / Only water  
    **Answer:** Your breath, which is air. *Why:* A bubble is a thin skin of soapy water with your breath inside. Your breath is air.
+11. (truefalse) Only people in a laboratory use science.  
+   **Answer:** False. *Why:* False. A weather scientist measures the wind, a doctor checks a body, and an engineer builds a windmill. Each uses science.
 
 ## Videos
 - **Where Does Wind Come From? The Science of Flying** (SciShow Kids, 5 min) id `oHUVxkx8QRo`: Explains that wind is moving air that we cannot see, and what moving air can push. *Check:* Found by search: "Where Does Wind Come From? | The Science of Flying" by SciShow Kids, 5 minutes. A parent may preview it.
@@ -427,28 +444,28 @@ Meenu lay down next to Appu under the fan. The cool air poured over them. "Ammam
 
 ## Quiz
 1. (mcq) Where is there air?  
-   Options: Only outside / All around us, indoors and outdoors / Only near a fan  
+   Options: All around us, indoors and outdoors / Only outside / Only near a fan  
    **Answer:** All around us, indoors and outdoors. *Why:* Air is everywhere around us, even in a still room and under the bed. Outside, we often feel it more, because it moves.
 2. (mcq) The clothes on the balcony line are flapping. What is moving them?  
    Options: Moving air, called wind / Rain / The floor shaking  
    **Answer:** Moving air, called wind. *Why:* Wind is moving air. We cannot see it, but we can see it push the clothes.
 3. (mcq) You catch air in a bag and twist it shut. Then you press the bag. What happens?  
-   Options: It goes flat at once / It pushes back on your hands / It turns into water  
+   Options: It goes flat at once / It turns into water / It pushes back on your hands  
    **Answer:** It pushes back on your hands. *Why:* The air inside takes up room, so the bag pushes back like a soft pillow. A bag with no air goes flat.
 4. (mcq) Which of these breathes air?  
    Options: A steel plate / A stone / A cat  
    **Answer:** A cat. *Why:* A cat breathes in and out all day and all night, like you. A steel plate and a stone don't breathe.
 5. (mcq) Why do you feel air on your face when you run, but not when you sit still?  
-   Options: Running moves you through the air, so it rushes against your skin / Running makes new air / Air only comes out when you run  
+   Options: Running makes new air / Running moves you through the air, so it rushes against your skin / Air only comes out when you run  
    **Answer:** Running moves you through the air, so it rushes against your skin. *Why:* The air is there all the time. When you run, you move through it, and it presses on your face.
 6. (mcq) You guess that a closed cupboard has no air. Then you test it, and the bag puffs up. What do you do with your guess?  
-   Options: Say it was right anyway / Say what you really saw, and change your guess / Test again until the bag stays flat  
+   Options: Say what you really saw, and change your guess / Say it was right anyway / Test again until the bag stays flat  
    **Answer:** Say what you really saw, and change your guess. *Why:* A test shows what is true, even when it is not what we guessed. A wrong guess is how we learn.
 7. (mcq) A tulsi plant grows on the balcony. How does air get into the plant?  
    Options: Through the flowers only / Plants never take in air / Through tiny holes in their leaves  
    **Answer:** Through tiny holes in their leaves. *Why:* Leaves have tiny holes, too small to see without a microscope. Air goes in and out through them.
 8. (mcq) You cannot see the wind. How can you tell which way it is blowing?  
-   Options: Look for blue lines in the air / Watch what it pushes, like leaves, smoke and clothes / Listen for a bell  
+   Options: Look for blue lines in the air / Listen for a bell / Watch what it pushes, like leaves, smoke and clothes  
    **Answer:** Watch what it pushes, like leaves, smoke and clothes. *Why:* Wind pushes things along with it. Leaves, smoke and clothes all lean or move the way the wind is going.
 9. (mcq) Tall windmills turn and make electricity. What turns them?  
    Options: Moving air / Still air / Water from the tap  
@@ -456,6 +473,12 @@ Meenu lay down next to Appu under the fan. The cool air poured over them. "Ammam
 10. (mcq) A kite stays up high in the sky. What holds it up?  
    Options: A hidden string in the sky / Moving air pushing on the kite / The Moon  
    **Answer:** Moving air pushing on the kite. *Why:* Moving air pushes against the kite and holds it up while someone holds the string.
+11. (mcq) Which of these keeps the air clean and fresh?  
+   Options: Cutting down the trees along a road / Burning plastic and rubbish in the open / Planting trees near our homes and schools  
+   **Answer:** Planting trees near our homes and schools. *Why:* Leaves catch dust and smoke from the air, so trees help keep it clean. Burning plastic sends smoke and fumes into the air.
+12. (mcq) Which of these people uses science in their work?  
+   Options: A child who draws a kite on paper / A weather scientist who measures how fast the wind blows / A child who sings a song on the bus  
+   **Answer:** A weather scientist who measures how fast the wind blows. *Why:* A weather scientist uses instruments to measure the air and the wind. Many people use science at work, such as doctors and engineers.
 
 ## Applications
 - Ceiling fans, table fans and palm-leaf hand fans move air onto us to cool us on hot days.
@@ -463,11 +486,12 @@ Meenu lay down next to Appu under the fan. The cool air poured over them. "Ammam
 - Kites fly over Ahmedabad at Uttarayan and over many cities at Makar Sankranti, held up by moving air.
 - Bicycle tyres, footballs and balloons are filled with air, so they are bouncy and firm.
 - Anna Mani, an Indian scientist, built instruments to measure the air: how fast the wind blows and how much ozone, a gas, is high up in the sky.
+- Weather scientists in India read the wind and the air every day, and use what they measure to warn people of storms and heavy rain.
 
 ## Spotted around us
-- Coconut palms swaying in the breeze in Kerala and along the coast.
+- Coconut palms swaying in the breeze near the sea.
 - Clothes flapping on a balcony line on a windy afternoon.
-- The sky full of kites over Ahmedabad at Uttarayan, in January.
+- The sky full of kites on a windy day in January.
 - Steam from an idli cooker bending away from the fan.
 - A black kite bird (cheel) gliding high, hardly flapping her wings, held up by moving air.
 
@@ -503,10 +527,11 @@ I Can't See You, Air (sci.air.L1): A short song about the air we cannot see.
 
 ## Links
 - [NASA Climate Kids](https://climatekids.nasa.gov/) · interactive: For the parent and child together: simple pictures and games about the air around the Earth and the weather.
-- [Muppandal wind farm]() · place · Near Kanyakumari, Tamil Nadu: One of the biggest groups of windmills in India. You can see them turning from the road in the windy months.
-- [International Kite Festival]() · place · Ahmedabad, Gujarat, in January: Thousands of kites held up by moving air, a good place to watch what the wind can push.
+- Muppandal wind farm · place · Near Kanyakumari, Tamil Nadu: One of the biggest groups of windmills in India. You can see them turning from the road in the windy months.
+- International Kite Festival · place · Ahmedabad, Gujarat, in January: Thousands of kites held up by moving air, a good place to watch what the wind can push.
 
 ## Things to buy
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Where is there air? → All around us, everywhere, even under the bed.
@@ -524,7 +549,7 @@ I Can't See You, Air (sci.air.L1): A short song about the air we cannot see.
 ## Sources
 - No by_topic file exists for air. The founder's notebook item phy:63 is 'Atmosphere Basics' (a title only).
 - ideas/by_topic/gases-evaporation-condensation-solutions.md: 'invisible air', watching smoke swirl in air, breathing practices. Used for the still-and-moving activity, the roots practice and the steam-from-the-cooker spotting card.
-- Ladder: Level 3 (sci.air.air-around-us.L3) shows that air takes up space and has weight, with the full glass of chana, the syringe, the balloon in a bottle, the straw water thief and Anaxagoras's wine bags. This unit repeats none of those. It leads on to Level 3 by showing that air is everywhere, that the bag fills with something real, and that we feel air only when it moves. Level 3 then asks how much room air takes up and what it weighs.
+- Ladder: Level 3 (sci.air.air-around-us.L3) shows that air takes up space and has weight, with the full glass of chana, the syringe, the balloon in a bottle, the straw water thief and Anaxagoras's wine bags. This lesson repeats none of those. It leads on to Level 3 by showing that air is everywhere, that the bag fills with something real, and that we feel air only when it moves. Level 3 then asks how much room air takes up and what it weighs.
 - Dry air is about 78% nitrogen and 21% oxygen by volume. Atmospheric pressure at sea level is about 101 kilopascals. It acts on the skin from all sides and is constant, so it is not felt.
 - Skin senses air movement through hair follicle receptors on hairy skin and through touch receptors. The face and lips are very sensitive. The sole of the foot has thick skin and is less sensitive to light touch.
 - Rayleigh scattering: air molecules scatter short (blue) wavelengths of sunlight more than long (red) ones. J. Tyndall, 1869, blue light from fine particles in a tube. Lord Rayleigh, 1871 and 1899, showed molecules of air alone could make the sky blue. J. Cabannes, 1915, observed light scattering by dust-free gas in the laboratory. C. V. Raman, voyage on the SS Narkunda, 1921, then work on molecular scattering in Kolkata. The Raman effect, C. V. Raman and K. S. Krishnan, 1928.

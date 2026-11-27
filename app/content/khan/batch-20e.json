@@ -1,0 +1,62 @@
+{
+ "checked": "27 Nov 2026",
+ "units": {
+  "sci.health.safe-at-home.L2": {
+   "videos": [
+    {
+     "title": "Effect of different force on same contact area | Middle school physics | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "gOpy5E1waCM",
+     "mins": 1,
+     "pitch": "stretch",
+     "matches": "Shows that the same push on a smaller contact area gives more pressure, as in the thin-edge card.",
+     "confidence": "high"
+    },
+    {
+     "title": "Human Skin | Our Skeletal System and the Skin | Middle School | Science | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "QpWLcSah4lc",
+     "mins": 5,
+     "pitch": "stretch",
+     "matches": "Describes skin as the body's cover, which the skin and cut card builds on.",
+     "confidence": "medium"
+    }
+   ]
+  },
+  "sci.how-we-know.measuring-things.L4": {
+   "videos": [
+    {
+     "title": "Metric system: units of distance | 4th grade | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "I3kQJvR7ZIg",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "Shows the metre and how kilo, centi and milli make a unit bigger or smaller, as in the metric and prefix cards.",
+     "confidence": "high"
+    },
+    {
+     "title": "Metric system: units of weight | 4th grade | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "TD1zuENbEdk",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Shows the kilogram and the smaller units of weight, as in the mass card.",
+     "confidence": "high"
+    },
+    {
+     "title": "Metric system: units of volume | 4th grade | Khan Academy",
+     "channel": "Khan Academy",
+     "youtube": "LhMEqsL_M5o",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Shows the litre and the millilitre, as in the volume card.",
+     "confidence": "high"
+    }
+   ]
+  },
+  "sci.water.rainwater-harvesting.L3": {
+   "videos": [],
+   "note": "Khan has water-cycle and cloud videos for Grade 6 and older, and nothing on roofs, tanks, johads or stepwells. None fit ages 6 to 8 well enough to add."
+  }
+ }
+}

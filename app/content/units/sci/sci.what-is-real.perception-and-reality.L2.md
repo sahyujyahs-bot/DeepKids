@@ -1,9 +1,9 @@
 # Real or not? Dreams, sounds and air we cannot see
 `sci.what-is-real.perception-and-reality.L2`
 
-**Summary.** How can you tell if a sound behind a door is a real thing or a recording on a phone? In this unit you will guess, then test, and count how often your ears were right. You will also sort real, pretend and puzzling things, and talk about a dream.
+**Summary.** How can you tell if a sound behind a door is a real thing or a recording on a phone? In this lesson you will guess, then test, and count how often your ears were right. You will also sort real, pretend and puzzling things, and talk about a dream.
 
-**Intro.** *Close your eyes and listen for one minute. Count the sounds you hear. How many of the things that made them can you see when you open your eyes?* Most of the sounds came from things you could not see: a cooker in another flat, a bird, a vehicle on the road. You still felt sure they were there. In a dream, you can feel just as sure, and then wake up in bed. Perception means how we take in the world through our senses. In this unit you test your perception, and find out how to check what is real.
+**Intro.** *Close your eyes and listen for one minute. Count the sounds you hear. How many of the things that made them can you see when you open your eyes?* Most of the sounds came from things you could not see: a cooker in another flat, a bird, a vehicle on the road. You still felt sure they were there. In a dream, you can feel just as sure, and then wake up in bed. Perception means how we take in the world through our senses. In this lesson you test your perception, and find out how to check what is real.
 
 ## Learning outcomes
 0. By the end I can say that a dream feels real while I dream, and how I find out it was a dream when I wake.
@@ -24,6 +24,9 @@
 - **REM sleep**: REM stands for rapid eye movement. It is the part of sleep when the eyes move quickly under closed lids. Most vivid dreams happen in REM sleep. *e.g.* If you watch a sleeping person carefully, you may see their eyes moving under their eyelids.
 - **Air**: Air is a gas all round us. It is made of tiny particles far too small to see. It takes up space, and it can push things. *e.g.* A balloon gets fat because the air you blow in takes up space inside it.
 - **Vibrate**: To vibrate means to shake back and forth very fast. Every sound starts with something vibrating. *e.g.* When a spoon taps a tumbler, the tumbler vibrates, and you hear a clink.
+- **Illusion**: An illusion is when the brain's guess about what it sees or feels is wrong. Your eyes work properly, but the brain fills in the picture in a way that does not match what is really there. *e.g.* Two lines of the same length can look different when one has arrow tips pointing in and the other has arrow tips pointing out.
+- **Camouflage**: Camouflage is when a living thing looks like her background so she is not seen. It helps hunters hide from prey and prey hide from hunters. *e.g.* A chameleon on a green leaf turns green and almost disappears from the eyes of a hungry bird.
+- **Mimicry**: Mimicry is when a living thing looks like another animal or thing, often a dangerous one, so that others stay away. The mimic is often harmless. *e.g.* Some harmless flies have yellow and black stripes like a wasp, so birds leave them alone.
 
 ## Explanations
 ### A sound is real evidence that something happened · *defined*
@@ -40,6 +43,7 @@ You cannot see air. But you see a dupatta flap in the breeze, and you feel the f
 - e.g. Clothes on the balcony line flap, so wind is blowing.
 - e.g. The road is wet in the morning, so it rained in the night.
 - e.g. A bubble comes out of an 'empty' bottle under water, so air was inside.
+- e.g. A stick insect on a twig is really there, but a hungry bird cannot find her, because her body looks like the twig. The bird only learns she is there when she moves.
 ### Air is real, though we cannot see it · *defined*
 **Definition:** Air is a mix of gases, mostly nitrogen and oxygen. It is made of particles far too small to see. Air takes up space and can push.
 
@@ -332,6 +336,32 @@ That night, Anju dreamed she was at school. The clock on the wall said seven o'c
   *Parent says:* People who have noticed they were dreaming often say that, in the dream, words and clocks changed when they looked again. Awake, the word stays the same. What would you check tonight, if you thought you were dreaming?  
   *Child mode:* In dreams, words and clocks may change. When you are awake, they stay the same. What would you check?
   - Note: This is what people report about their own dreams, not a proven rule. Some people learn to notice their dreams this way. Scientists call that a lucid dream.
+### old1 · Camouflage Hunt: which paper bits hide best? (15 min)
+- **problem:** A caterpillar the same colour as a leaf is hard for a bird to see. In this activity, newspaper bits hide on a newspaper floor, and coloured bits do not. Your child is the bird, and you count what gets found.
+- **record:** Make a tally. One row for newspaper bits found and one for coloured bits found, for each round.
+- **s1 (4 min)**  
+  *Parent does:* 1. Tear 15 small bits, each about the size of a fingernail, from one sheet of newspaper. 2. Tear 15 bits of the same size from the coloured paper.  
+  *Parent says:* These are caterpillars. 15 are newspaper-coloured and 15 are bright.  
+  *Child mode:* Tear 15 small bits from the newspaper and 15 from the coloured paper. Keep them the same size.
+- **s2 (2 min)**  
+  *Parent does:* 1. Spread the other two sheets of newspaper flat on the floor. 2. Your child looks away. 3. Scatter all 30 bits over the newspaper.  
+  *Parent says:* Close your eyes. I am hiding the caterpillars.  
+  *Child mode:* Look away while the bits are scattered.
+- **s3 (4 min)**  
+  *Parent does:* 1. Start the timer for 30 seconds. 2. Your child, the hungry bird, picks up bits one at a time. 3. When the time is up, count and write how many of each kind they picked up.  
+  *Parent says:* You are a hungry bird. You have 30 seconds. Catch as many caterpillars as you can.  
+  *Child mode:* You are a bird. Pick up as many bits as you can in 30 seconds, one at a time.
+  - Ask: Which kind was easier to find? (good: The coloured ones.; The newspaper ones were hard to see.)
+- **s4 (3 min)**  
+  *Parent does:* 1. Do another round for 30 seconds without putting the picked bits back. 2. Count again. 3. Look together for the bits that are still hiding.  
+  *Parent says:* Which ones are still hiding? Why can we not see them?  
+  *Child mode:* Hunt for 30 more seconds. Count again. Which ones are still hiding?
+  - Note: If your child finds nearly every bit, shorten the hunt to 15 seconds. If they find almost none, use a brighter paper.
+- **s5 (2 min)**  
+  *Parent does:* Look at the tally together. Ask your child to say what it shows.  
+  *Parent says:* Camouflage means looking like your background. Some caterpillars look like leaves, so birds miss them. If you were a caterpillar, what would you look like?  
+  *Child mode:* Look at your tally. Which bits hid best? Why do you think so?
+  - Ask: What does the tally tell us about camouflage? (good: Bits that look like the background are found last.; Bright bits get eaten first, so dull ones survive.)
 
 ## Projects
 ### p1 · My Book of Real Things I Cannot See (32 min, 4 days)
@@ -380,7 +410,7 @@ That night, Anju dreamed she was at school. The clock on the wall said seven o'c
 ## Worksheets
 ### Real Sounds, Real Air, Real Dreams? (core) (core, 10 questions)
 1. (mcq) You hear a clink-clink from behind a closed door. What does the sound tell you for sure?  
-   Options: Something behind the door vibrated / A steel tumbler is behind the door / Nothing, because you cannot see it  
+   Options: A steel tumbler is behind the door / Something behind the door vibrated / Nothing, because you cannot see it  
    **Answer:** Something behind the door vibrated. *Why:* Every sound comes from something vibrating, so you know something made it. It might be a tumbler, or a phone recording of one. Only opening the door can tell you which.
 2. (truefalse) A phone recording of a tumbler is a real sound.  
    **Answer:** True. *Why:* True. The phone's speaker vibrates and shakes the air, so a real sound reaches your ears. The tumbler in the recording is not there, but the sound is.
@@ -393,7 +423,7 @@ That night, Anju dreamed she was at school. The clock on the wall said seven o'c
 6. (sort) Sort these: really there in your home now, or only in a dream or a story?  
    **Answer:** the air in your room → Really there; a dragon from a storybook → Only in a dream or story; a cooker whistle from the next flat → Really there; a monster you dreamed was under the bed → Only in a dream or story; the smell of jasmine from the next room → Really there; a talking cat from last night's dream → Only in a dream or story. *Why:* The things that are really there can be checked another way: smelled again, heard again, or found by someone else. The dream and story things cannot.
 7. (mcq) While you are in a dream, how does the dream usually feel?  
-   Options: Real / Like a film you know is pretend / Like nothing at all  
+   Options: Like a film you know is pretend / Like nothing at all / Real  
    **Answer:** Real. *Why:* Most of the time, a dream feels real until you wake. A dream feels like 'a film you know is pretend' only in a lucid dream, when you know you are dreaming. That is rare.
 8. (fill) Something that is ____ can be checked in more than one way, and other people can check it too.  
    **Answer:** ['real']. *Why:* A real thing can be seen again, touched, heard or found by others. A dream cannot be checked by anyone else.
@@ -456,34 +486,34 @@ That night, Anju dreamed she was at school. The clock on the wall said seven o'c
 
 ## Quiz
 1. (mcq) A girl dreams her silver anklet is under the sofa. When she wakes and looks, it is not there. What does this show?  
-   Options: A dream can feel real but not match the room / Someone took the anklet in the night / Her eyes stopped working  
+   Options: Someone took the anklet in the night / Her eyes stopped working / A dream can feel real but not match the room  
    **Answer:** A dream can feel real but not match the room. *Why:* The dream felt real, but nothing in the room agreed with it. Picking 'someone took it' means trusting the dream as if it were real.
 2. (mcq) When does a dream usually stop feeling real?  
-   Options: When we wake up / While we are dreaming it / Never  
+   Options: While we are dreaming it / When we wake up / Never  
    **Answer:** When we wake up. *Why:* Inside a dream, it nearly always feels real. Only after waking do we see it was a dream.
 3. (mcq) A sound comes from behind a closed door. What do you know for sure?  
-   Options: Something there vibrated / A person is there / A tumbler is there  
+   Options: A person is there / A tumbler is there / Something there vibrated  
    **Answer:** Something there vibrated. *Why:* Every sound starts with something vibrating. What it was is a guess until you check. 'A tumbler' is only a guess, and the sound alone cannot prove it.
 4. (mcq) In the door test, the phone played a recording of crumpling newspaper. Was it a real sound?  
    Options: Yes, the phone speaker vibrated the air / No, because no newspaper was crumpling / Only if you guessed right  
    **Answer:** Yes, the phone speaker vibrated the air. *Why:* The sound was real, made by the phone. The newspaper was not there. Picking 'no' mixes up the sound with the thing it seemed to come from.
 5. (mcq) In the door test, a grown-up made each sound behind a closed door, either for real or from a phone. Why were shuffled slips used to choose real or phone?  
-   Options: So you could not guess from a pattern / To make the test take longer / Because the phone needed the slips  
+   Options: To make the test take longer / So you could not guess from a pattern / Because the phone needed the slips  
    **Answer:** So you could not guess from a pattern. *Why:* If the order went real, phone, real, phone, you could guess from the pattern instead of your ears. Shuffling keeps the test fair.
 6. (mcq) Why can water hardly get into an 'empty' bottle pushed mouth down into a bucket?  
    Options: The bottle is full of air, which takes up space / Water does not like plastic / The bottle is too small  
    **Answer:** The bottle is full of air, which takes up space. *Why:* Air takes up space. Only when the bottle is tipped and the air bubbles out can water come in.
 7. (mcq) Which of these shows that wind is real?  
-   Options: Clothes flapping on a balcony line / A clear blue sky / A quiet room  
+   Options: A clear blue sky / A quiet room / Clothes flapping on a balcony line  
    **Answer:** Clothes flapping on a balcony line. *Why:* We cannot see the wind, but we see what it does to the clothes.
 8. (mcq) You are not sure if you are dreaming. Which is the best check?  
-   Options: Read a word, look away, and read it again / Close your eyes tightly / Decide you are awake  
+   Options: Close your eyes tightly / Decide you are awake / Read a word, look away, and read it again  
    **Answer:** Read a word, look away, and read it again. *Why:* In dreams, words and clocks often change when you look again. Awake, they stay the same.
 9. (mcq) You hear a jingle in the washing and think it is your lost anklet. What is the best way to check that it is your anklet?  
-   Options: Shake the cloth again, ask someone else to listen, and feel for it / Decide it must be the anklet / Go to sleep and dream about it  
+   Options: Decide it must be the anklet / Go to sleep and dream about it / Shake the cloth again, ask someone else to listen, and feel for it  
    **Answer:** Shake the cloth again, ask someone else to listen, and feel for it. *Why:* Testing it again, with another sense and another person, is how we check what is real.
 10. (mcq) Before the door test, you guessed you would get all 8 sounds right. You got 5. What should you write?  
-   Options: I guessed 8. I got 5. Some phone sounds fooled me. / I got 8, because I guessed 8. / Nothing, because my guess was wrong.  
+   Options: I got 8, because I guessed 8. / Nothing, because my guess was wrong. / I guessed 8. I got 5. Some phone sounds fooled me.  
    **Answer:** I guessed 8. I got 5. Some phone sounds fooled me.. *Why:* A good scientist writes the guess and the real result, even when they differ. A wrong guess is how we learn something new.
 
 ## Applications
@@ -494,10 +524,10 @@ That night, Anju dreamed she was at school. The clock on the wall said seven o'c
 - Sleep doctors record people's eyes and brain signals at night to study sleep and dreams.
 
 ## Spotted around us
-- Pressure cooker whistles from neighbouring flats at breakfast and lunch time, in buildings from Chennai to Pune.
-- A shimmering 'puddle' on a hot road in summer that dries up as you get close: a mirage, seen on highways in Rajasthan, Telangana and Tamil Nadu.
-- Kites rising on Makar Sankranti over rooftops in Ahmedabad and Jaipur, lifted by wind nobody can see.
-- Coconut palms bending and rustling on the Kerala and Goa coasts before the monsoon rain arrives.
+- Pressure cooker whistles from neighbouring flats at breakfast and lunch time.
+- A shimmering 'puddle' on a hot road in summer that dries up as you get close: a mirage, seen on highways.
+- Kites rising on Makar Sankranti over rooftops, lifted by wind nobody can see.
+- Coconut palms bending and rustling near the coast before the monsoon rain arrives.
 - The call of a koel from a tree you cannot see, in almost every Indian city in spring and summer.
 
 ## Open questions
@@ -536,12 +566,17 @@ What Is Real? (sci.what-is-real.L2): Topic-level song for What is real? L2
 
 ## Links
 - [PhET: Waves Intro (sound)](https://phet.colorado.edu/en/simulations/waves-intro) · simulation: For a parent and child together: the sound part shows a speaker shaking the air, so you can see what your ears cannot.
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: A large science museum with hands-on exhibits about sound, light and the senses.
-- [Birla Industrial and Technological Museum]() · place · Kolkata: A science museum with galleries on sound and on how we sense the world.
-- [Kerala State Science and Technology Museum]() · place · Thiruvananthapuram: Hands-on science galleries, and the Priyadarsini Planetarium next door.
-- [Nehru Science Centre]() · place · Mumbai: A big science centre with a science park full of exhibits on sound and air.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru: A large science museum with hands-on exhibits about sound, light and the senses.
+- Birla Industrial and Technological Museum · place · Kolkata: A science museum with galleries on sound and on how we sense the world.
+- Kerala State Science and Technology Museum · place · Thiruvananthapuram: Hands-on science galleries, and the Priyadarsini Planetarium next door.
+- Nehru Science Centre · place · Mumbai: A big science centre with a science park full of exhibits on sound and air.
 
 ## Things to buy
+- [Duck! Rabbit! by Amy Krouse Rosenthal and Tom Lichtenheld](https://www.amazon.in/s?k=Duck+Rabbit) (book): Two voices argue over one picture that is both a duck and a rabbit. It is a funny way into how the brain can see one picture in two ways. Used in a1. Read it together at the start of the lesson on what is real.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in Real, Pretend or Puzzling? A sorting mat. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in a2. Get it before Real, Pretend or Puzzling? A sorting mat.
+- [Balloons (a packet)](https://www.amazon.in/s?k=balloons+packet) (material): Used in Real, Pretend or Puzzling? A sorting mat, My Book of Real Things I Cannot See, Prove the Bottle Is Not Empty. About ₹20 to ₹60. Used in a2, p1, c1. Get it before Real, Pretend or Puzzling? A sorting mat.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Prove the Bottle Is Not Empty. About ₹30 to ₹60. Newspaper cut into strips also works. Used in c1. Get it before Prove the Bottle Is Not Empty.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What starts every sound? → Something vibrating.
@@ -554,7 +589,7 @@ What Is Real? (sci.what-is-real.L2): Topic-level song for What is real? L2
 
 ## Plan
 - Start options: intro, a1, e1, story, g2, cards
-- Default order: intro → a1 → e1 → summary → terms → explanations → roots → quiz → story → a2 → g1 → ws-core → e2 → how_we_found_out → a4 → g2 → a3 → p1 → ws-stretch → c1 → agreed → challenging → ws-challenge → videos → big_questions → open_questions
+- Default order: intro → a1 → e1 → summary → terms → explanations → roots → quiz → story → a2 → g1 → ws-core → e2 → how_we_found_out → a4 → g2 → a3 → p1 → ws-stretch → c1 → agreed → challenging → ws-challenge → videos → big_questions → open_questions → old1
 - Core: a1, e1, a2, g1, ws-core
 
 ## Sources

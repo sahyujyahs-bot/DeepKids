@@ -1,9 +1,9 @@
 # Animal minds: how animals think, feel and remember
 `sci.animals.animal-minds.L3`
 
-**Summary.** Can a crow really solve the thirsty crow puzzle? In this unit you will test what raises the water best, try the Clever Hans test to see if you can read a face, and decide which animal stories are true and which are tall tales.
+**Summary.** Can a crow really solve the thirsty crow puzzle? In this lesson you will test what raises the water best, try the Clever Hans test to see if you can read a face, and decide which animal stories are true and which are tall tales.
 
-**Intro.** *You probably know the story of the thirsty crow, who drops pebbles into a pot until the water rises. Do you think a real crow could do that? Or is it just a story?* In 2009, two scientists in England tested it. They gave rooks, a kind of crow, a tall tube of water. A worm floated on the water, too low for a beak to reach. Stones lay next to the tube. The rooks picked up stones and dropped them in, one by one. The water rose, and they ate the worm. They even chose the big stones first. So the story was right: a real bird can solve this problem. In this unit you will find out what else animals learn, remember and work out.
+**Intro.** *You probably know the story of the thirsty crow, who drops pebbles into a pot until the water rises. Do you think a real crow could do that? Or is it just a story?* In 2009, two scientists in England tested it. They gave rooks, a kind of crow, a tall tube of water. A worm floated on the water, too low for a beak to reach. Stones lay next to the tube. The rooks picked up stones and dropped them in, one by one. The water rose, and they ate the worm. They even chose the big stones first. So the story was right: a real bird can solve this problem. In this lesson you will find out what else animals learn, remember and work out.
 
 ## Learning outcomes
 0. I can give true examples of animals that play, learn and remember.
@@ -163,7 +163,7 @@ We have been learning that animals play, learn, remember and read faces. Now we 
 
 A crow, a dog and you look very different from outside. Inside, your thinking and theirs both run on neurons. Neurons pass signals using the same sodium and potassium atoms. Clever minds came about separately in crows, octopuses and apes, on branches of life that split long ago. So minds are not found only in humans. They are found in many kinds of animals, from crows and dogs to eight-armed octopuses.
 
-- **Bhagavad Gita 5.18:** “विद्याविनयसंपन्ने ब्राह्मणे गवि हस्तिनि। / शुनि चैव श्वपाके च पण्डिताः समदर्शिनः।।” The wise see with an equal eye a learned person, a cow, an elephant, a dog, and a person whom society looks down on. (This unit found minds at work in elephants and dogs: elephants remember the calls of their friends, and dogs read our pointing fingers. The Gita says a wise person looks at all of them with the same eye.)
+- **Bhagavad Gita 5.18:** “विद्याविनयसंपन्ने ब्राह्मणे गवि हस्तिनि। / शुनि चैव श्वपाके च पण्डिताः समदर्शिनः।।” The wise see with an equal eye a learned person, a cow, an elephant, a dog, and a person whom society looks down on. (This lesson found minds at work in elephants and dogs: elephants remember the calls of their friends, and dogs read our pointing fingers. The Gita says a wise person looks at all of them with the same eye.)
 - **Zhuangzi, chapter 17 (Autumn Floods), the fish of the Hao river:** “莊子曰：「鯈魚出游從容，是魚樂也。」 / 惠子曰：「子非魚，安知魚之樂？」 / 莊子曰：「子非我，安知我不知魚之樂？」” Zhuangzi and his friend Huizi stood on a bridge. Zhuangzi said, 'See how the fish swim about. That is their joy.' Huizi said, 'You are not a fish. How do you know what fish enjoy?' Zhuangzi said, 'You are not me. How do you know I don't know?' (Huizi could not see inside Zhuangzi's mind either, yet he argued with him as someone who thinks. We know every other mind, a friend's or a fish's, from what they do.)
 - **Isha Upanishad, verse 6:** “यस्तु सर्वाणि भूतान्यात्मन्येवानुपश्यति / सर्वभूतेषु चात्मानं ततो न विजुगुप्सते” One who sees all beings in their own self, and their own self in all beings, does not hate anyone. (When we see that a crow learns and a dog feels, we start to see ourselves in them, and them in us.)
 - Science (settled): Many animals learn, remember, play and solve problems. This has been tested many times.
@@ -586,17 +586,17 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
 ## Worksheets
 ### Animal Minds Detective (core) (core, 15 questions)
 1. (mcq) Which of these is play?  
-   Options: A dog eating their dinner / Two puppies chasing each other with wagging tails / A cat running from a big dog / A crow building a nest  
+   Options: Two puppies chasing each other with wagging tails / A dog eating their dinner / A cat running from a big dog / A crow building a nest  
    **Answer:** Two puppies chasing each other with wagging tails. *Why:* Play is done for fun, when safe and relaxed. Eating, running from danger and nest building all have a job to do right now. Picking 'running from a big dog' means a chase was seen as play, but that cat is scared, not relaxed.
 2. (sort) Sort these. Is it LEARNED or INSTINCT (born knowing)?  
    **Answer:** a dog sitting when told 'sit' → Learned; a baby turtle walking to the sea → Instinct; a crow avoiding a person who once scared them → Learned; a spider spinning their first web → Instinct; a cow coming home at the same time each evening → Learned. *Why:* Learned things come from experience. Instinct is there from birth, with no teaching. A spider's first web is not taught.
 3. (mcq) In the Clever Hans Test, the guesser found the coin more often when the helper knew where it was. Nobody spoke or pointed. What gave the guesser the clue?  
-   Options: Tiny changes in the helper's face and eyes, made without meaning to / The coin made a sound under the cup / The cups were different colours  
+   Options: The coin made a sound under the cup / The cups were different colours / Tiny changes in the helper's face and eyes, made without meaning to  
    **Answer:** Tiny changes in the helper's face and eyes, made without meaning to. *Why:* People give away what they know with tiny glances and small changes in their face, without noticing. A horse called Clever Hans read these clues too. Picking 'a sound' is worth checking, which is why the test also needs rounds where the helper does not know.
 4. (draw) Draw a crow using a tool. Label the tool and what the crow wants to get.  
    **Answer:** A crow holding a twig or wire hook in their beak, reaching into a hole or tube, with a grub or food labelled.. *Why:* A tool is something outside the body used to help do a job.
 5. (mcq) Why did we rub the treat on both bowls in the dog pointing test?  
-   Options: So both bowls smell the same, and the dog must use our pointing / To clean the bowls / So the dog gets two treats  
+   Options: To clean the bowls / So the dog gets two treats / So both bowls smell the same, and the dog must use our pointing  
    **Answer:** So both bowls smell the same, and the dog must use our pointing. *Why:* Dogs have powerful noses. If only one bowl smelled of food, the dog could follow their nose instead of the pointing. Picking 'two treats' misses the point of a fair test.
 6. (write) Tell about one animal that plays. What do they do, and why do you think they play?  
    **Answer:** Any true example, for example: puppies chase and wrestle. I think they are practising for real life and making friends.. *Why:* Scientists have several ideas about why animals play: practice, friendship, coping with surprises, and fun.
@@ -620,7 +620,7 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
    **Answer:** Any true example, for example: a crow bent a wire into a hook, and scientists saw it in a test. Or: a dog follows a pointing finger, which was shown in careful tests. Or: a bumblebee learned to pull a string to reach a flower.. *Why:* Each of these was seen in careful tests or long watching, not just told as a story.
 ### Testing Animal Minds (stretch) (stretch, 15 questions)
 1. (mcq) Look at the chart. The guesser got 8 out of 10 when the helper knew, and 3 out of 10 when the helper did not know. What does the blind round tell us?  
-   Options: 3 out of 10 is about what lucky guessing gives with 3 cups, so without face clues the guesser had no other way to know / The guesser was having a bad day / The guesser can see through cups / The blind round is not needed  
+   Options: The guesser was having a bad day / The guesser can see through cups / The blind round is not needed / 3 out of 10 is about what lucky guessing gives with 3 cups, so without face clues the guesser had no other way to know  
    **Answer:** 3 out of 10 is about what lucky guessing gives with 3 cups, so without face clues the guesser had no other way to know. *Why:* With 3 cups, a lucky guess is right about 1 time in 3, which is about 3 in 10. In the blind round the guesser did no better than luck. So the 8 out of 10 must have come from the helper's face. Picking 'bad day' is possible once, but repeating the test would show the same pattern.
 2. (fill) Learning by trying again and again, and keeping what works, is called trial and ____.  
    **Answer:** ['error']. *Why:* Trial and error. A cat in a puzzle box tries many things, and gets faster each time at the one that opens the door.
@@ -639,14 +639,14 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
    Options: Their arms can feel, taste and grab partly on their own / They have no brain / Their arms are made of brain  
    **Answer:** Their arms can feel, taste and grab partly on their own. *Why:* The arms have so many neurons that each can explore partly on its own. The octopus still has a brain in their head. Picking 'no brain' goes too far.
 9. (mcq) Brian Hare's team found that pet dogs follow pointing better than chimpanzees. Why might that be?  
-   Options: Dogs have lived with people for thousands of years / Dogs have bigger brains than chimpanzees / Chimpanzees cannot see fingers  
+   Options: Dogs have bigger brains than chimpanzees / Dogs have lived with people for thousands of years / Chimpanzees cannot see fingers  
    **Answer:** Dogs have lived with people for thousands of years. *Why:* Dogs have lived alongside people for a very long time, and grow up watching us. Dogs do not have bigger brains than chimpanzees. Chimpanzees can see fingers fine, but are less tuned to follow them.
 10. (write) In the Thirsty Crow Test, the glass was filled higher for the small stones than for the big stones. Why can't we compare the two counts?  
    **Answer:** Because they changed two things at once: the size of the stones and the starting water level. The small stones had less space to fill, so the count is not fair. Both must start at the same line.. *Why:* In a fair test, you change only one thing. Everything else, like the starting level and the glass, stays the same.
 11. (perspective) Dogs are very good at following a pointing finger. Scientists explain why in different ways.  
    **Answer:** A strong answer picks a side and uses the evidence given, for example that untrained street dogs follow pointing, or that wolves raised by people can learn it. It notices that street dogs also live around people, so they might learn it too. Many answers end up saying both are partly true.. *Why:* Many scientists today think both are true: dogs are born ready to watch people, and living with people makes them better at it.
 12. (mcq) In the Training Game, the learner heard a clap each time they moved closer to the secret action. How is this like teaching a dog to roll over?  
-   Options: The dog gets a small reward for each step closer, so they learn step by step / The dog is born knowing how to roll over / The dog learns by being told the whole action in words  
+   Options: The dog is born knowing how to roll over / The dog gets a small reward for each step closer, so they learn step by step / The dog learns by being told the whole action in words  
    **Answer:** The dog gets a small reward for each step closer, so they learn step by step. *Why:* Animal trainers reward each small step, like lying down, then rolling to one side, then all the way over. The learner in the game did the same with claps. Picking 'born knowing' mixes learning up with instinct.
 13. (match) Match each scientist to what they found.  
    **Answer:** Ivan Pavlov → dogs learned to drool at a sound that came before food; Edward Thorndike → cats in puzzle boxes escaped a little faster each time; Wolfgang Kohler → a chimpanzee fitted two short sticks into one long one; Gordon Burghardt → wrote down clear signs that tell play from other things animals do. *Why:* Each of these scientists found out something about how animals learn, solve problems or play.
@@ -655,22 +655,22 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
 15. (write) A cat comes running every time the fridge door opens. Their owner says the cat understands what a fridge is. Give a simpler explanation, and say how you could test it.  
    **Answer:** For example: the cat learned that the sound of the fridge door comes before food. To test it, open a cupboard that makes a similar sound, or open the fridge door very quietly, and see if the cat still comes.. *Why:* The simplest explanation that fits is often learning, as in Pavlov's dogs. A good test changes one thing at a time, such as the sound.
 ### Minds, Brains and Big Puzzles (challenge) (challenge, 15 questions)
-1. (write) People say 'bird brain' to mean someone is silly. Using what you learned about crows and jays in this unit, is that fair? Give two pieces of evidence.  
+1. (write) People say 'bird brain' to mean someone is silly. Using what you learned about crows and jays in this lesson, is that fair? Give two pieces of evidence.  
    **Answer:** Not fair. For example: Betty the crow bent a wire into a hook, crows remember a human face for years, and jays remember where they hid food. A crow's small brain is packed tightly with neurons.. *Why:* The saying comes from the idea that a small brain must be a simple one. A strong answer gives real tests from the unit, not just an opinion.
 2. (fill) Your brain has about 86 ____ neurons.  
    **Answer:** ['billion']. *Why:* About 86 billion. Suzana Herculano-Houzel and her team counted them by dissolving brains into a soup and counting the cell centres.
 3. (mcq) Our last shared ancestor with octopuses lived more than 500 million years ago, and was a small worm-like animal. What does this suggest?  
-   Options: Clever minds grew more than once, on different branches of life / Octopuses are our close cousins / Octopuses copied humans  
+   Options: Octopuses are our close cousins / Clever minds grew more than once, on different branches of life / Octopuses copied humans  
    **Answer:** Clever minds grew more than once, on different branches of life. *Why:* Octopuses became clever on a very different branch of life from us. So clever minds may have grown up more than once. Picking 'close cousins' misses how long ago we split.
 4. (perspective) Thinkers have disagreed for hundreds of years about whether animals feel.  
    **Answer:** A strong answer picks a side and gives evidence, for example a scared dog's tucked tail, or bumblebees rolling balls for no reward. It answers back fairly, for example that we cannot see feelings directly, only what animals do.. *Why:* Most scientists today agree that mammals and birds feel, and many think other animals do too. How to test feelings is still argued about.
 5. (sort) Sort these. Can scientists see and measure it now, or can we only guess at it for now?  
    **Answer:** how fast a crow solves a puzzle → Can measure; how long a jay remembers a hiding place → Can measure; whether a dog follows pointing → Can measure; what it feels like to be a bat → Can only guess, for now; whether a bee enjoys rolling a ball → Can only guess, for now; what a fish feels when hooked → Can only guess, for now. *Why:* We can measure what animals do. What they feel inside cannot yet be measured, only guessed from what they do. That is why feelings in animals are still argued about.
 6. (mcq) Sarah Jelbert and her team gave New Caledonian crows a choice. A treat floated in a tube of water, and another treat sat on top of a tube of sand. The crows could drop stones into either tube. Which did the crows choose more often?  
-   Options: The water tube, because stones raise water but not sand / The sand tube, because sand is easier to see / Both tubes the same  
+   Options: The sand tube, because sand is easier to see / Both tubes the same / The water tube, because stones raise water but not sand  
    **Answer:** The water tube, because stones raise water but not sand. *Why:* Dropping stones into water raises the water, and the treat comes up. Sand does not rise in the same way. The crows chose the water tube more often, so they seemed to understand what the stones would do.
 7. (mcq) Conwy Lloyd Morgan said: choose the simplest explanation that fits. A cat opens a door by pulling the handle. What is the simplest explanation?  
-   Options: They understand how hinges work / They learned by trying, and pulling the handle worked / Someone trained them secretly  
+   Options: They learned by trying, and pulling the handle worked / They understand how hinges work / Someone trained them secretly  
    **Answer:** They learned by trying, and pulling the handle worked. *Why:* The simplest explanation is learning by trying, like Thorndike's cats in puzzle boxes. Picking 'understands hinges' may be true, but we would need more tests to show it.
 8. (write) The New York Declaration on Animal Consciousness, 2024, said there is a real chance insects have feelings. If so, should we change how we treat insects? Explain.  
    **Answer:** Any thoughtful answer, for example: we could avoid hurting insects for no reason, like not pulling wings off.. *Why:* When we are not sure whether a being can feel, many people think it is wise to be careful and kind.
@@ -688,7 +688,7 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
 14. (write) Some scientists think mugger crocodiles in India balance sticks on their snouts in the nesting season, to trick birds looking for twigs. Others are not sure. What would you need to see to be sure?  
    **Answer:** For example: that the crocodiles put sticks on their snouts mainly in the nesting season, and that birds come to take the sticks. Seeing it many times, and ruling out another reason, would help.. *Why:* A claim about a clever animal is stronger when the same thing is seen again and again, and a simpler reason is ruled out.
 15. (mcq) You want to test whether a neighbour's pet dog follows pointing. Which plan is fairest?  
-   Options: Hide a treat under one bowl and point at it once / Rub the treat on both bowls, hide it under one, and do many tries, some with pointing and some without / Point at the bowl and only give the dog the treat if they go there  
+   Options: Rub the treat on both bowls, hide it under one, and do many tries, some with pointing and some without / Hide a treat under one bowl and point at it once / Point at the bowl and only give the dog the treat if they go there  
    **Answer:** Rub the treat on both bowls, hide it under one, and do many tries, some with pointing and some without. *Why:* Rubbing the treat on both bowls stops the dog using smell. Many tries, with and without pointing, show whether pointing makes a difference. One try could be luck. Giving the treat only for the pointed bowl would teach the dog during the test.
 
 ## Videos
@@ -698,19 +698,19 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
 
 ## Quiz
 1. (mcq) What is learning?  
-   Options: Being born knowing something / Changing what you do because of what happened before / Growing up  
+   Options: Changing what you do because of what happened before / Being born knowing something / Growing up  
    **Answer:** Changing what you do because of what happened before. *Why:* Learning comes from experience. Picking 'born knowing' mixes it up with instinct.
 2. (mcq) Which is a true example of an animal playing?  
-   Options: Bumblebees rolling little balls with no reward / A hen laying an egg / A cow eating grass  
+   Options: A hen laying an egg / A cow eating grass / Bumblebees rolling little balls with no reward  
    **Answer:** Bumblebees rolling little balls with no reward. *Why:* The bees rolled balls for nothing but the rolling. Laying eggs and eating have a job to do right now.
 3. (mcq) In 2002, Betty, a New Caledonian crow, bent a straight piece of wire into a hook to lift a bucket of food out of a tube. Why did this surprise scientists?  
-   Options: She made a new tool for a new problem, from a material crows never meet in the wild / Crows had never been seen eating before / She asked a person for help  
+   Options: Crows had never been seen eating before / She asked a person for help / She made a new tool for a new problem, from a material crows never meet in the wild  
    **Answer:** She made a new tool for a new problem, from a material crows never meet in the wild. *Why:* Using a tool you find is clever. Bending a wire into the right shape for a problem you have never met is harder, and few animals had been seen doing it. Picking 'asked a person' is wrong, because Betty did it on her own.
 4. (mcq) A chimpanzee pokes a grass stem into a termite mound, and pulls it out covered in termites to eat. What does this show?  
    Options: Chimpanzees can use a tool to get food / Chimpanzees are building a house / Chimpanzees are drawing a picture  
    **Answer:** Chimpanzees can use a tool to get food. *Why:* The stem is a tool: the chimpanzee uses it to reach food they could not get with their fingers. So humans are not the only tool users. Picking 'building a house' is a guess with no evidence.
 5. (mcq) A person points at one of two bowls. What do most pet dogs do?  
-   Options: Go to the bowl the person pointed at / Look at the finger and do nothing / Always go to the left bowl  
+   Options: Look at the finger and do nothing / Always go to the left bowl / Go to the bowl the person pointed at  
    **Answer:** Go to the bowl the person pointed at. *Why:* Most dogs follow pointing. Many untrained street dogs in India do too.
 6. (mcq) Scientists showed dogs photos of human faces. What could the dogs learn to tell apart?  
    Options: Happy faces and angry faces / Old photos and new photos / Nothing at all  
@@ -719,16 +719,16 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
    Options: Change the time and the place and the cap / Keep the time and place the same, and wear a different cap / Stop feeding them  
    **Answer:** Keep the time and place the same, and wear a different cap. *Why:* In a fair test, you change only one thing. If the crows act differently with a new cap, the cap mattered. Changing everything at once makes it impossible to tell which change mattered.
 8. (mcq) A horse seems to answer sums by tapping his hoof. But he gets them wrong whenever the person asking does not know the answer. What is the best explanation?  
-   Options: He gets tired when the sums are hard / He is reading the answer from the asker's face, without the asker meaning to give it / The sums are harder when the asker does not know them  
+   Options: He gets tired when the sums are hard / The sums are harder when the asker does not know them / He is reading the answer from the asker's face, without the asker meaning to give it  
    **Answer:** He is reading the answer from the asker's face, without the asker meaning to give it. *Why:* If the horse really did sums, it would not matter who asked. He fails only when the asker does not know, so he must be reading tiny clues in the asker's face. This is why scientists use blind tests.
 9. (mcq) What is a blind test?  
    Options: A test with your eyes shut / A test where the person giving it does not know the answer / A test done in the dark  
    **Answer:** A test where the person giving it does not know the answer. *Why:* In a blind test, nobody nearby can give clues by mistake. Picking 'eyes shut' takes the word 'blind' too literally.
 10. (mcq) Which statement do most scientists agree on?  
-   Options: Many animals learn, remember and solve problems / Only humans think / Insects definitely feel exactly what we feel  
+   Options: Only humans think / Insects definitely feel exactly what we feel / Many animals learn, remember and solve problems  
    **Answer:** Many animals learn, remember and solve problems. *Why:* Learning and memory are tested and agreed. What insects feel is still argued about.
 11. (mcq) What is still argued about?  
-   Options: Whether crows use tools / Whether fish and insects feel pain / Whether dogs learn  
+   Options: Whether crows use tools / Whether dogs learn / Whether fish and insects feel pain  
    **Answer:** Whether fish and insects feel pain. *Why:* Crow tools and dog learning are well tested. Feelings in fish and insects are still debated.
 12. (mcq) A crow's brain is about the size of a walnut. How can crows be so clever?  
    Options: Their brains are packed tightly with neurons / They have two brains / They borrow ideas from people  
@@ -756,7 +756,7 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
 - Monkeys at a temple who have learned to open bags and bottles.
 - A cow who walks home on her own at sunset, knowing the way.
 - A myna or parrot copying sounds from the house, like a pressure cooker whistle.
-- Elephants at a temple in Kerala or a forest camp in Karnataka who answer their mahout's call.
+- An elephant at a temple or a forest camp who answers her mahout's call.
 - Pigeons on a balcony who come back to the same ledge every day.
 
 ## Open questions
@@ -811,6 +811,12 @@ Every Creature Counts (sci.animals.L3):
 
 ## Things to buy
 - [Pipe cleaners (chenille stems)](https://www.amazon.in/s?k=pipe+cleaners+chenille+stems) (material): For bending hooks in the Hook It Like Betty challenge. Rolled kitchen foil works too. Used in c1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Hook It Like Betty. About ₹10 to ₹30. Any school ruler is fine. Used in c1. Get it before Hook It Like Betty.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in Mirror, Mirror: who is that?. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in a6. Get it before Mirror, Mirror: who is that?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Build a Puzzle Feeder. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c2. Get it before Build a Puzzle Feeder.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Brain Line-up: is bigger cleverer?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a5. Get it before Brain Line-up: is bigger cleverer?.
+- [Marbles (a few)](https://www.amazon.in/s?k=glass+marbles+pack) (material): Used in The Thirsty Crow Test: what raises the water best?. About ₹10 to ₹40. Small round stones or dried chana. Used in e1. Get it before The Thirsty Crow Test: what raises the water best?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Changing what you do because of what happened before is called ____. → Learning.

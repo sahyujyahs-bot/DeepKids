@@ -27,6 +27,12 @@
    "art": "Three spoons in a row: a shiny steel spoon, a brown wooden spoon and a red plastic spoon."
   },
   {
+   "term": "Key",
+   "meaning": "A list of yes or no questions that you answer one after another, to find out what a thing is.",
+   "example": "A key can help you name a leaf or a rock, one question at a time.",
+   "art": "A row of question cards, each with a yes arrow and a no arrow."
+  },
+  {
    "term": "Sort",
    "meaning": "To sort is to put things that are alike together, and things that are different apart.",
    "example": "After washing up, a grandmother sorts the spoons into one tumbler and the forks into another.",
@@ -103,6 +109,21 @@
    ],
    "context": "This card is about the question you ask when you sort.",
    "art": "Two circles of dupatta on the floor, one labelled YES and one labelled NO, with a key and a coin in the YES circle and a pencil and a comb in the NO circle."
+  },
+  {
+   "concept": "A key: yes or no questions, one after another",
+   "status": "defined",
+   "definition": "A key is a set of yes or no questions. Each answer sends you to the next question, until you reach the name of one thing.",
+   "description": "A key works like a path. The first question splits the heap in two. You then take one group and ask a second question about only that group. Each answer tells you which question to ask next. A key can help you name a leaf or a rock, one step at a time.",
+   "examples": [
+    "Step 1: Is it metal? Yes goes to step 2. No goes to the group of cloth, paper and wood.",
+    "Step 2: Does it sink in water? Yes means the steel spoon. No means the steel katori.",
+    "Each answer is only yes or no, so you always know which step comes next."
+   ],
+   "perspectives": [],
+   "context": "This card is about how a row of questions can find one thing.",
+   "art": "A signboard with two questions, a yes arrow and a no arrow from each, and each arrow leading to the next question.",
+   "one_view": "A key is a plain sorting tool. Every key works the same way, with yes or no answers, so there is no other view to show here."
   },
   {
    "concept": "A test settles a tricky thing",
@@ -615,7 +636,7 @@
   {
    "id": "a1",
    "title": "The Yes-or-No Sort: is it metal?",
-   "mins": 12,
+   "mins": 14,
    "days": 1,
    "context": "In this activity you make two circles on the floor, a yes circle and a no circle. You ask one question about each thing, 'Is it metal?', and put it in the right circle. Then you make up a question of your own. You will find out how one question can split a heap in two.",
    "materials": [
@@ -636,8 +657,8 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 12,
-     "what": "Sort ten things with the question 'Is it metal?', decide about the knife, then sort again with your own question."
+     "mins": 14,
+     "what": "Sort ten things with the question 'Is it metal?', decide about the knife, then sort again with your own question. Then make a small key of three cards and walk the things through it."
     }
    ],
    "record": "Write the question at the top of a paper. Draw or write the things in the yes circle and the no circle, or take a photo of your circles.",
@@ -721,6 +742,13 @@
       "a": 0,
       "why": "A coin and a key are metal, so they go in the yes circle. A pencil is mostly wood, so it goes in the no circle."
      }
+    },
+    {
+     "id": "s5",
+     "mins": 2,
+     "do": "1. Write 'Is it metal?' on one card. 2. Under yes, write 'Does it sink in water?'. 3. Under no, write 'Is it cloth or paper?'. 4. Walk the ten things through the cards to a name.",
+     "say": "Each answer tells us which card to read next. Where does the steel spoon end up?",
+     "kid": "Read the card. Yes or no? Then go to the next card."
     }
    ]
   },
@@ -883,11 +911,11 @@
       "t": "mcq",
       "q": "Why do people sort paper, plastic and metal into different bags?",
       "options": [
-       "Each one is made into new things in a different way",
        "It makes the bags look nicer",
+       "Each one is made into new things in a different way",
        "Paper and metal are the same, so it does not matter"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Old paper is soaked and pressed into new paper. Old metal is melted to make new metal. Old plastic is cut and melted too. Each needs its own factory, so they must be sorted first."
      }
     }
@@ -1037,11 +1065,11 @@
       "t": "mcq",
       "q": "Why can a pressure cooker go in the metal basket and the not-metal basket?",
       "options": [
-       "It is made of metal and plastic and rubber",
        "It is very heavy",
-       "It is used in the kitchen"
+       "It is used in the kitchen",
+       "It is made of metal and plastic and rubber"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The pot is metal. The handle is plastic and the ring is rubber. A thing made of more than one material can belong to more than one group."
      }
     }
@@ -1145,11 +1173,11 @@
       "t": "mcq",
       "q": "A steel katori is made of the same material as which of these?",
       "options": [
-       "A steel spoon",
        "A dupatta",
-       "A newspaper"
+       "A newspaper",
+       "A steel spoon"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A katori and a spoon are both steel, a metal. They have different shapes, but the same material."
      }
     }
@@ -1247,11 +1275,11 @@
       "t": "mcq",
       "q": "You sort your toys by the question 'Is it soft?' Where does a cloth rabbit go?",
       "options": [
-       "In the soft group",
        "In the hard group",
+       "In the soft group",
        "In the metal group"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A cloth rabbit is soft, so it answers yes to the question 'Is it soft?'. It goes in the soft group."
      }
     }
@@ -1352,11 +1380,11 @@
       "t": "mcq",
       "q": "Why are ice-cream sticks better than coins for a raft?",
       "options": [
-       "Wood floated in the Sink or Float Sort, and the coin sank",
        "The sticks are a nicer colour",
-       "The coins are too round"
+       "The coins are too round",
+       "Wood floated in the Sink or Float Sort, and the coin sank"
       ],
-      "a": 0,
+      "a": 2,
       "why": "In the Sink or Float Sort, wood floated and the coin sank. A raft needs things that float, so the test tells us what to choose."
      }
     }
@@ -1453,22 +1481,22 @@
      "t": "mcq",
      "p": "A key, a coin and a spoon are put together in one group. What question was asked?",
      "opts": [
-      "Is it metal?",
       "Is it soft?",
+      "Is it metal?",
       "Is it see-through?"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A key, a coin and a spoon are all metal. None of them is soft or see-through."
     },
     {
      "t": "mcq",
      "p": "Which of these is a good question for sorting a heap of things into two groups?",
      "opts": [
-      "Is it made of wood?",
       "Is it nice?",
-      "Is it a good day?"
+      "Is it a good day?",
+      "Is it made of wood?"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A good sorting question has a clear answer, yes or no, for every thing. 'Is it nice?' is different for each person."
     },
     {
@@ -1530,11 +1558,11 @@
      "t": "mcq",
      "p": "You have a clear bottle. You do not know if it is glass or plastic. What is a good test?",
      "opts": [
-      "Tap it with a spoon and listen",
       "Look at its colour",
-      "Count how many you have"
+      "Count how many you have",
+      "Tap it with a spoon and listen"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Glass goes ting and plastic goes tock. Lifting it helps too: glass is heavier. The colour does not tell you."
     },
     {
@@ -1573,6 +1601,13 @@
      "a": "see items",
      "why": "Wood floated. The solid metal things sank. The katori floated because its shape held air.",
      "how": "e1"
+    },
+    {
+     "t": "write",
+     "p": "Make a key with two questions that tells apart a steel spoon, a steel katori and a pencil. Write the first question. Then write what the yes answer and the no answer lead to.",
+     "lines": 4,
+     "a": "A good key starts with 'Is it metal?'. Yes leads to 'Does it sink in water?', which tells the spoon from the katori. No leads to the pencil, which is wood.",
+     "why": "A key works step by step. Metal leads to the sink test, and the sink test tells the spoon from the katori. The pencil is wood, so it goes down the no path."
     },
     {
      "t": "write",
@@ -1787,11 +1822,11 @@
    "t": "mcq",
    "p": "Before testing, you guess that the pencil will float. What should you do next?",
    "opts": [
-    "Test it in the water and see",
     "Change your guess without testing",
-    "Say you were right without testing"
+    "Say you were right without testing",
+    "Test it in the water and see"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A guess is where science starts. Then you test it, and the test shows if the guess was right.",
    "outcome": 4
   },
@@ -1806,6 +1841,18 @@
    "a": 0,
    "why": "The katori is metal, and it floated. When a test does not match a guess, you learn something new.",
    "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "In a key of yes or no questions, what does each answer tell you?",
+   "opts": [
+    "What colour the thing is",
+    "How heavy the thing is",
+    "Which question to ask next"
+   ],
+   "a": 2,
+   "why": "Each yes or no answer sends you to the next question, until you reach one thing. The colour and the weight do not set the path in a key.",
+   "outcome": 0
   }
  ],
  "videos": [
@@ -1974,7 +2021,45 @@
    "why": "Hands-on science halls where children can see and touch many materials, and how machines are built from them."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in The Recycling Corner: sort what we throw away. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before The Recycling Corner: sort what we throw away."
+  },
+  {
+   "id": "b-wooden-ice-cream-sticks--a-p",
+   "item": "Wooden ice-cream sticks (a pack)",
+   "kind": "material",
+   "why": "Used in The Sink or Float Sort: does the metal group stay together?, A Raft for a Small Toy. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in.",
+   "url": "https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack",
+   "used_in": [
+    "e1",
+    "c1"
+   ],
+   "plan": "Get it before The Sink or Float Sort: does the metal group stay together?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "What question would put a key and a coin in the same group?",

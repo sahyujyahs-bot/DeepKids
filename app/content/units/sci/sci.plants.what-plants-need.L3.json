@@ -783,11 +783,11 @@
       "t": "mcq",
       "q": "The pot stood in a dish of water all week. What happens to the roots?",
       "options": [
-       "They get lots of water, so the plant grows faster",
        "They cannot get air, so they start to rot",
+       "They get lots of water, so the plant grows faster",
        "Nothing happens to them"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Roots need air as well as water. In soaked soil, water fills the tiny air spaces, so the roots cannot breathe. They go brown and soft. Picking 'grows faster' usually means thinking more water is always better. The Drainage Hole card fixes this, because extra water runs out."
      }
     },
@@ -983,10 +983,10 @@
       "t": "mcq",
       "q": "A girl puts one cup in the sun and one in a cupboard. She forgets to water the cupboard cup. Is it a fair test of light?",
       "options": [
-       "Fair, because she changed the light",
-       "Unfair, because the light and the water both changed"
+       "Unfair, because the light and the water both changed",
+       "Fair, because she changed the light"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Two things changed: light and water. If the cupboard seedlings die, she cannot tell which one caused it. To fix it, she waters both cups the same. Picking 'fair' usually means noticing the thing that was changed on purpose, but not the thing that changed by accident."
      }
     },
@@ -1170,11 +1170,11 @@
      "t": "mcq",
      "p": "A girl keeps one bowl of moong sprouts in the fridge and one in a kitchen cupboard. Both are covered with plates. After 3 days, which sprouts will have grown more?",
      "opts": [
+      "The cupboard sprouts",
       "The fridge sprouts",
-      "Both the same",
-      "The cupboard sprouts"
+      "Both the same"
      ],
-     "a": 2,
+     "a": 0,
      "why": "Cold slows down the work of growing. The fridge is about 5 °C and a kitchen cupboard is about 27 °C, so the cupboard sprouts grow much more. Picking 'both the same' means thinking that only light and water matter.",
      "context": "This question is about the warmth test. Moong sprouts are kept in the dark in a fridge, a room cupboard and a warm spot, and measured each day.",
      "how": "e3"
@@ -1233,11 +1233,11 @@
      "t": "mcq",
      "p": "A girl grows one cup of moong in the light and one cup in the dark. Her teacher says she should grow 3 cups of each. Why?",
      "opts": [
-      "One cup can be a fluke, for example if the seeds in it were bad",
       "Three cups are easier to water",
+      "One cup can be a fluke, for example if the seeds in it were bad",
       "One cup is not fair to the seeds"
      ],
-     "a": 0,
+     "a": 1,
      "why": "If one cup does something odd, you cannot tell whether it was the light or just bad luck. With 3 cups you can see if they all do the same thing. Then you use the middle result.",
      "context": "This question is about the light test. You grow moong seedlings in 6 cups. Three get light and three are kept under a box, with everything else the same.",
      "how": "e1"
@@ -1260,6 +1260,13 @@
      "lines": 4,
      "a": "I should water mine, because dry soil means they are short of water. My friend should not. Wet, smelly soil means the roots have too much water and no air, and they are starting to rot. My friend should let the soil dry out and check that the pot has a hole.",
      "why": "The same clue, drooping, can have two opposite causes. A strong answer looks at the soil before deciding."
+    },
+    {
+     "t": "write",
+     "p": "Your bean plant has its first flowers, and then small green pods. Write two things you would add to your diary, and why.",
+     "lines": 3,
+     "a": "A good answer names the flowers and the pods, with the date, because they show the plant is growing towards fruit.",
+     "why": "A strong answer names the flowers and the pods, and says that they show the plant is growing and making fruit."
     }
    ]
   },
@@ -1273,11 +1280,11 @@
      "t": "mcq",
      "p": "You want to test if plants need light. Which test is fair?",
      "opts": [
+      "Two pots of the same seedlings and soil, both watered the same, one in the sun and one in a cupboard",
       "One pot in the sun with water, and one pot in a cupboard with no water",
-      "A big plant in the sun and a tiny plant in the cupboard",
-      "Two pots of the same seedlings and soil, both watered the same, one in the sun and one in a cupboard"
+      "A big plant in the sun and a tiny plant in the cupboard"
      ],
-     "a": 2,
+     "a": 0,
      "why": "The fair test is the one with two pots of the same seedlings: only the light is different. The sun-and-no-water choice misses that water changed too. The big-and-tiny choice misses that the plants were different sizes."
     },
     {
@@ -1285,21 +1292,21 @@
      "p": "Rice plants stand in water in flooded fields. Why don't their roots rot, like our soaked moong?",
      "opts": [
       "Rice roots don't need air",
-      "Rice plants have air channels that carry air down to their roots",
-      "The water in rice fields is special"
+      "The water in rice fields is special",
+      "Rice plants have air channels that carry air down to their roots"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Rice, lotus and mangroves all have ways to get air down to their roots. Moong does not. 'Rice roots don't need air' is a common guess, but all roots need air. Rice plants have their own air pipes."
     },
     {
      "t": "mcq",
      "p": "A boy waters his cactus every day, like his other plants. After a few weeks, the cactus stem goes soft and black at the bottom. What happened?",
      "opts": [
-      "The roots rotted from too much water, because a cactus needs very little",
       "The cactus got too little water",
-      "The cactus needed more sun"
+      "The cactus needed more sun",
+      "The roots rotted from too much water, because a cactus needs very little"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A cactus comes from dry places and needs only a little water. Daily watering drowns their roots. Picking 'too little water' means using one rule for every plant. Each kind of plant has their own just right."
     },
     {
@@ -1322,11 +1329,11 @@
      "t": "mcq",
      "p": "A friend says: 'My plant grows well because I talk to them every day.' What is the best question to ask your friend?",
      "opts": [
+      "Do you also water and check that plant more than your other plants?",
       "What do you say to your plant?",
-      "Is the plant big?",
-      "Do you also water and check that plant more than your other plants?"
+      "Is the plant big?"
      ],
-     "a": 2,
+     "a": 0,
      "why": "Talking to a plant usually comes with more care, so more than one thing changes. Picking 'what do you say' takes it for granted that talking is the cause, before anyone has tested it."
     },
     {
@@ -1370,10 +1377,10 @@
      "p": "In the coloured light test, the coloured sheets let through different amounts of light. What does that mean for the test?",
      "opts": [
       "The test is perfectly fair, because the cups are side by side",
-      "The test is not perfectly fair, because the brightness changed as well as the colour",
-      "The colour of the sheet does not matter"
+      "The colour of the sheet does not matter",
+      "The test is not perfectly fair, because the brightness changed as well as the colour"
      ],
-     "a": 1,
+     "a": 2,
      "why": "A fair test changes only one thing. Here the colour changed and the brightness changed too. So we should say how sure we are, and not claim more than the test showed. Picking 'perfectly fair' forgets that two things changed.",
      "context": "This question is about the coloured light test. Four cups of seedlings are covered with clear, red, blue or green see-through cellophane for a week.",
      "how": "e4"
@@ -1550,11 +1557,11 @@
      "t": "mcq",
      "p": "A plant stands in a dark corner. A girl gives the plant extra fertiliser, but the plant grows no better. What does this show?",
      "opts": [
-      "Light was the need in shortest supply, so more minerals could not help",
       "Fertiliser never works",
-      "The plant was dead"
+      "The plant was dead",
+      "Light was the need in shortest supply, so more minerals could not help"
      ],
-     "a": 0,
+     "a": 2,
      "why": "This is the idea of the shortest plank. Extra of one need does not help if another need is in short supply. Picking 'fertiliser never works' stretches one result to every case."
     },
     {
@@ -1579,11 +1586,11 @@
      "t": "mcq",
      "p": "In the light test, what shows that seedlings can sense light, even though they have no eyes?",
      "opts": [
+      "The seedlings in the dark grew in a different way: tall, pale, with folded leaves",
       "The seedlings in the dark were wetter",
-      "Nothing shows it",
-      "The seedlings in the dark grew in a different way: tall, pale, with folded leaves"
+      "Nothing shows it"
      ],
-     "a": 2,
+     "a": 0,
      "why": "The dark seedlings changed how they grew, so they must have sensed the dark. Plants sense light with special molecules called photoreceptors, which change when light falls on them.",
      "context": "This question is about the light test. You grow moong seedlings in 6 cups. Three get light and three are kept under a box, with everything else the same.",
      "how": "e1"
@@ -1598,11 +1605,11 @@
      "t": "mcq",
      "p": "In January 2019, cotton seeds sprouted on the far side of the Moon, inside a sealed can on the Chinese spacecraft Chang'e 4. Why did the experiment end after only a few days?",
      "opts": [
-      "The cotton was eaten",
       "The long, freezing Moon night came, and it got far too cold",
+      "The cotton was eaten",
       "There was too much water"
      ],
-     "a": 1,
+     "a": 0,
      "why": "A night on the Moon lasts about two Earth weeks and is extremely cold. Warmth is one of a plant's needs. Picking 'too much water' misses that the big problem on the Moon is the cold.",
      "context": "Chang'e 4 is a Chinese spacecraft that landed on the far side of the Moon in January 2019. It carried a small sealed can with seeds, soil, water and air."
     },
@@ -1859,11 +1866,11 @@
       "t": "mcq",
       "q": "Where should the 0 on the ruler go when you measure a seedling?",
       "options": [
-       "At the soil",
        "At the top of the cup",
+       "At the soil",
        "At the end of the ruler, wherever it is"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The height of a plant is measured from the soil to the top. So the 0 goes at the soil. Picking 'the top of the cup' is a common slip. Then the part of the stem inside the cup is not counted."
      }
     },
@@ -2197,11 +2204,11 @@
       "t": "mcq",
       "q": "The seedlings in the NONE cups have drooping, floppy leaves. What are the plants telling us?",
       "options": [
-       "They need more light",
        "They need water",
+       "They need more light",
        "They are too cold"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A plant that droops in dry soil is wilting. Their cells are going soft because there is not enough water to fill them. Picking 'light' is a sensible guess, because plants in the dark also flop. But in the dark they are pale and tall. These are green and drooping, and their soil is dry."
      }
     },
@@ -2797,11 +2804,11 @@
       "t": "mcq",
       "q": "Both lots of sprouts had water and air. What did the windowsill sprouts get that the tiffin sprouts did not?",
       "options": [
-       "Light",
        "Water",
-       "Air"
+       "Air",
+       "Light"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The closed tiffin kept out the light. Without light, a sprout does not make their green chlorophyll, so they stay pale. Picking 'water' or 'air' is a sensible guess. But both lots got the same water, and the tiffin had air inside."
      },
      "think": "If the tiffin sprouts stayed in the dark for a week, what do you think would happen to them?"
@@ -3186,10 +3193,10 @@
       "t": "mcq",
       "q": "Which is usually brighter: outside on a sunny day, or the middle of a room? By how much?",
       "options": [
-       "About the same, because the room feels bright",
-       "Outside, often about a hundred times brighter or more"
+       "Outside, often about a hundred times brighter or more",
+       "About the same, because the room feels bright"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Our eyes adjust to dim light, so a room feels bright. But a light meter shows that outside daylight is often a hundred times brighter, or more. Picking 'about the same' means trusting our eyes, which is what nearly everyone does. Plants are not fooled."
      },
      "think": "Your eyes adjusted so well that you did not notice how dim the room was. A plant that needs lots of light is not fooled. Which place on your map would that plant choose?"
@@ -3292,11 +3299,11 @@
       "t": "mcq",
       "q": "The pointer on the long end of the straw moved 8 millimetres. The long end moves 4 times as far as the plant grows. How much did the plant grow?",
       "options": [
-       "8 millimetres",
        "2 millimetres",
+       "8 millimetres",
        "32 millimetres"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The lever makes growth look 4 times bigger. So the real growth is 8 divided by 4, which is 2 millimetres. Picking '32' means multiplying instead of dividing: the plant's growth is the small number, not the big one."
      },
      "think": "Bose's machine made growth look thousands of times bigger. He saw it speed up and slow down from minute to minute. What could make a plant grow faster for a few minutes? Think about what Bose did to his plants."
@@ -3385,11 +3392,11 @@
       "t": "mcq",
       "q": "In the dance, a seedling in the dark stretches tall and keeps their leaves shut. Why?",
       "options": [
-       "They are showing off",
        "They are using their stored food to reach light, and leaves are no use without light",
+       "They are showing off",
        "They are cold"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Without light, leaves cannot make food. So a seedling in the dark spends their stored food on stretching up, not on opening leaves. Picking 'cold' mixes up two needs. A seedling in the cold hardly grows at all."
      }
     }
@@ -3476,7 +3483,7 @@
     {
      "day": 18,
      "mins": 5,
-     "what": "Measure. Did anything slow your plant down?"
+     "what": "Measure. Did anything slow your plant down? Count the flowers and fruit, if there are any, and write them in the diary."
     },
     {
      "day": 21,
@@ -3484,7 +3491,7 @@
      "what": "Final measuring. Draw a growth chart of all your measurements. Write what helped and what harmed your plant. Show your diary to the family."
     }
    ],
-   "record": "A diary with a page every third day: date, height, number of leaves, weather, temperature and one sentence about how the plant looks. At the end, a bar chart of the heights.",
+   "record": "A diary with a page every third day: date, height, number of leaves, weather, temperature and one sentence about how the plant looks. At the end, a bar chart of the heights. Once flowers and fruit come, write those down too, with the date.",
    "flow": [
     {
      "id": "s1",
@@ -3513,11 +3520,11 @@
       "t": "mcq",
       "q": "You press your finger into the bean's soil and the soil feels damp. What should you do?",
       "options": [
-       "Water them anyway, because more water is better",
        "Wait. Check again tomorrow",
+       "Water them anyway, because more water is better",
        "Move them into the dark"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Damp soil already has enough water. Watering again could make the soil soggy, so the roots cannot get air. Picking 'water them anyway' is the most common mistake in looking after plants. Checking first is what good gardeners do."
      }
     },
@@ -3810,11 +3817,11 @@
    "t": "mcq",
    "p": "Which list shows what a plant needs to grow well?",
    "opts": [
+    "Light, water, air, warmth and minerals",
     "Only soil and water",
-    "Darkness, water and soil",
-    "Light, water, air, warmth and minerals"
+    "Darkness, water and soil"
    ],
-   "a": 2,
+   "a": 0,
    "why": "Plants need light, water, air, warmth and minerals. Picking 'only soil and water' leaves out light, which plants use to make food, and air for their roots and leaves.",
    "outcome": 0
   },
@@ -3834,11 +3841,11 @@
    "t": "mcq",
    "p": "A girl measures her moong seedlings at 7 in the morning one day, and at 9 at night the next day. Why is it better to measure at the same time every day?",
    "opts": [
+    "So the gap between measurements is always one whole day, and the numbers can be compared fairly",
     "Plants grow only in the morning",
-    "Rulers are easier to read in the morning",
-    "So the gap between measurements is always one whole day, and the numbers can be compared fairly"
+    "Rulers are easier to read in the morning"
    ],
-   "a": 2,
+   "a": 0,
    "why": "Seedlings grow all day and all night. If the gaps are different lengths, a bigger number may only mean a longer gap. Picking 'plants grow only in the morning' is not right: Bose's crescograph showed plants growing at night too.",
    "outcome": 2
   },
@@ -3879,10 +3886,10 @@
    "p": "Which sentence is a good conclusion for the water test?",
    "opts": [
     "Plants are nice.",
-    "I watered the plants.",
-    "We found that the JUST RIGHT seedlings grew tallest, at 13 cm. This shows moong needs some water, but not too much."
+    "We found that the JUST RIGHT seedlings grew tallest, at 13 cm. This shows moong needs some water, but not too much.",
+    "I watered the plants."
    ],
-   "a": 2,
+   "a": 1,
    "why": "A good conclusion says what was found, uses a number as proof, and says what it shows. Picking 'I watered the plants' describes what you did, not what you found.",
    "outcome": 3,
    "context": "This question is about the water test. Three cups of moong get no water. Three get 1 tablespoon of water every morning. Three stand in a dish of water all the time.",
@@ -3890,13 +3897,25 @@
   },
   {
    "t": "mcq",
+   "p": "You keep a diary of a bean plant for weeks. Which entry is the most useful?",
+   "opts": [
+    "Only the day the plant dies",
+    "The date, the height, the number of leaves, and any flowers or fruit",
+    "One line on the first day, and nothing after that"
+   ],
+   "a": 1,
+   "why": "A plant changes slowly, so dated notes over weeks show the change. A diary written once, or only at the end, cannot show how the plant grew or when it flowered.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
    "p": "It is the monsoon in Kochi, with weeks of thick grey cloud. Seedlings on a windowsill get water and warmth, but they grow slowly and lean towards the glass. Which need is in short supply?",
    "opts": [
     "Water",
-    "Light",
-    "Minerals"
+    "Minerals",
+    "Light"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Thick cloud blocks much of the sunlight, so the seedlings lean towards the brightest place. Picking 'water' misses that the monsoon gives plenty of water. It is the light that is short.",
    "outcome": 4
   },
@@ -3916,10 +3935,10 @@
    "t": "mcq",
    "p": "Is more water always better for a plant?",
    "opts": [
-    "Yes",
-    "No. Roots need air too, and soaked soil drowns them"
+    "No. Roots need air too, and soaked soil drowns them",
+    "Yes"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Each need must be just right. Picking 'yes' is one of the most common mistakes in caring for plants.",
    "outcome": 5
   },
@@ -3928,10 +3947,10 @@
    "p": "Which is true about warmth and plants?",
    "opts": [
     "The hotter, the faster they grow, with no limit",
-    "Plants grow fastest in the fridge",
-    "Warmth speeds up growth, but too much heat harms plants"
+    "Warmth speeds up growth, but too much heat harms plants",
+    "Plants grow fastest in the fridge"
    ],
-   "a": 2,
+   "a": 1,
    "why": "Each plant has a just-right range. Picking 'no limit' misses that great heat harms the plant's helper molecules.",
    "outcome": 5
   },
@@ -3940,10 +3959,10 @@
    "p": "Why is wheat sown in the cool winter in Punjab?",
    "opts": [
     "Wheat needs a flooded field",
-    "Wheat grows best in cool weather",
-    "Wheat cannot grow in sunlight"
+    "Wheat cannot grow in sunlight",
+    "Wheat grows best in cool weather"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Each crop has their own just right. Wheat likes it cool. Picking 'a flooded field' describes rice, not wheat.",
    "outcome": 5
   },
@@ -3951,11 +3970,11 @@
    "t": "mcq",
    "p": "How does a seedling in the dark know there is no light?",
    "opts": [
-    "With special light-sensing molecules, such as phytochrome",
     "With tiny eyes on their leaves",
+    "With special light-sensing molecules, such as phytochrome",
     "They cannot sense light"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Plants have photoreceptor molecules that change in light. Picking 'eyes' gives plants an animal body part they don't have.",
    "outcome": 6
   },
@@ -3975,11 +3994,11 @@
    "t": "mcq",
    "p": "A machine makes a plant's growth look thousands of times bigger. You touch the plant, then warm them. What would you most likely see?",
    "opts": [
-    "The growth never changes",
     "The growth speeds up or slows down within minutes",
+    "The growth never changes",
     "The plant grows only when someone is watching"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Plants respond to what is around them all the time, so their growth changes within minutes when they are touched or warmed. Jagadish Chandra Bose saw this with his crescograph.",
    "outcome": 6
   }
@@ -4362,6 +4381,88 @@
     "e3",
     "p1"
    ]
+  },
+  {
+   "id": "b-a-magnifying-glass",
+   "item": "A magnifying glass",
+   "kind": "tool",
+   "why": "Used in Plant Doctor: which need is missing?. About ₹30 to ₹120. A water drop on clear plastic magnifies a little.",
+   "url": "https://www.amazon.in/s?k=magnifying+glass+kids",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before Plant Doctor: which need is missing?."
+  },
+  {
+   "id": "b-a-small-hand-mirror",
+   "item": "A small hand mirror",
+   "kind": "material",
+   "why": "Used in Light for a Dark Corner. About ₹20 to ₹80. A shiny steel plate shows reflections too.",
+   "url": "https://www.amazon.in/s?k=small+hand+mirror",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before Light for a Dark Corner."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in The Light Test: what happens in the dark?, Light for a Dark Corner. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "e1",
+    "c1"
+   ],
+   "plan": "Get it before The Light Test: what happens in the dark?."
+  },
+  {
+   "id": "b-a-measuring-jug-or-syringe--",
+   "item": "A measuring jug or syringe (marked in millilitres)",
+   "kind": "tool",
+   "why": "Used in The Holiday Waterer. About ₹30 to ₹100. A clean medicine cup or marked bottle works.",
+   "url": "https://www.amazon.in/s?k=measuring+jug+500+ml",
+   "used_in": [
+    "c2"
+   ],
+   "plan": "Get it before The Holiday Waterer."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in The Light Test: what happens in the dark?. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before The Light Test: what happens in the dark?."
+  },
+  {
+   "id": "b-iron-nails-or-iron-filings",
+   "item": "Iron nails or iron filings",
+   "kind": "material",
+   "why": "Used in The Holiday Waterer. About ₹20 to ₹80. Short steel nails from a hardware shop.",
+   "url": "https://www.amazon.in/s?k=iron+filings+science",
+   "used_in": [
+    "c2"
+   ],
+   "plan": "Get it before The Holiday Waterer."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [
@@ -4512,14 +4613,21 @@
     "source": "Taittiriya Upanishad 2.1",
     "teaching": "From the Self came space. From space came air. From air came fire, and from fire came water. From water came earth, from earth came plants, and from plants came food.",
     "link": "The Upanishad puts plants after air, fire, water and earth, as if they are made from all of them. Our tests give the same list from science: a plant needs air, warmth and light, water, and minerals from the earth.",
-    "verse": ["तस्माद्वा एतस्मादात्मन आकाशः संभूतः । आकाशाद्वायुः", "वायोरग्निः । अग्नेरापः । अद्भ्यः पृथिवी", "पृथिव्या ओषधयः । ओषधीभ्योऽन्नम् । अन्नाद्रेतः । रेतसः पुरुषः"],
+    "verse": [
+     "तस्माद्वा एतस्मादात्मन आकाशः संभूतः । आकाशाद्वायुः",
+     "वायोरग्निः । अग्नेरापः । अद्भ्यः पृथिवी",
+     "पृथिव्या ओषधयः । ओषधीभ्योऽन्नम् । अन्नाद्रेतः । रेतसः पुरुषः"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Samyutta Nikaya 56.11, the Buddha's first teaching",
     "teaching": "The Buddha said that two extremes, too much comfort and too much hardship, do not lead anywhere good. He taught a middle way between them.",
     "link": "The Buddha was talking about how people live, not about plants. But our water test found something similar: no water and too much water both harm a moong seedling, and they grow best in between.",
-    "verse": ["Dveme, bhikkhave, antā pabbajitena na sevitabbā.", "Ete kho, bhikkhave, ubho ante anupagamma majjhimā paṭipadā tathāgatena"],
+    "verse": [
+     "Dveme, bhikkhave, antā pabbajitena na sevitabbā.",
+     "Ete kho, bhikkhave, ubho ante anupagamma majjhimā paṭipadā tathāgatena"
+    ],
     "verse_lang": "pi"
    }
   ],
@@ -4558,5 +4666,39 @@
   "wrong_idea": "That a plant is made from water alone. Woodward's mint grew better in muddy water than in pure rainwater, so something from the soil helps them grow. Woodward then went too far the other way and thought plants are made mostly of soil. Later scientists found that most of a plant's weight comes from the air, as the unit Food from light explains.",
   "art": "A row of glass jars on a windowsill, each holding a sprig of mint: clear rainwater, river water and cloudy muddy water, with the mint in the muddy jar the biggest."
  },
- "playtest": "Walked every game, experiment, activity, project and challenge as a family would, with 2 and with 4 players. Grow or Droop: its 16 leaf tokens left no spare pile for 4 players, so there are now 24, and the three leaf squares give a token so the squares do something; the practice card is taken from the pile and shuffled back, and a repeated question was removed. Fair or Unfair: counts, paddles and tokens check out for 2 to 5 players, and the park soil card replaces garden soil for flat families. Experiments: minutes, days and schedules were added up and agree; fair tests are fair (all bowls dark in the warmth test, same water in every cup); the warmth test no longer assumes the warm spot won, and the coloured light test no longer assumes the light test was done. Safety lines for plain hand-washing and children's scissors were deleted; the real ones (holes, pins, raw rajma, mosquitoes, heat, the Sun) stay. The paper-strip chart now uses a plant that is already up, because the light-test seedlings only last 9 days. Rajma needs an overnight soak noted on Day 1. Living beings are called she, he or they, not it. Two weak jokes were cut, leaving 8, and a Kavitha mention was added to the story note. Worksheets: a repeated tall-is-not-healthy question and a repeated middle-value question were replaced or removed. An East and Northeast example (Assam and Darjeeling tea) was added to the South-heavy examples. The three videos were opened and exist. Not changed: facts about Bose, the Moon and space plants, and the cellophane colour results, which are hedged in the text and could not be re-checked here."
+ "playtest": "Walked every game, experiment, activity, project and challenge as a family would, with 2 and with 4 players. Grow or Droop: its 16 leaf tokens left no spare pile for 4 players, so there are now 24, and the three leaf squares give a token so the squares do something; the practice card is taken from the pile and shuffled back, and a repeated question was removed. Fair or Unfair: counts, paddles and tokens check out for 2 to 5 players, and the park soil card replaces garden soil for flat families. Experiments: minutes, days and schedules were added up and agree; fair tests are fair (all bowls dark in the warmth test, same water in every cup); the warmth test no longer assumes the warm spot won, and the coloured light test no longer assumes the light test was done. Safety lines for plain hand-washing and children's scissors were deleted; the real ones (holes, pins, raw rajma, mosquitoes, heat, the Sun) stay. The paper-strip chart now uses a plant that is already up, because the light-test seedlings only last 9 days. Rajma needs an overnight soak noted on Day 1. Living beings are called she, he or they, not it. Two weak jokes were cut, leaving 8, and a Kavitha mention was added to the story note. Worksheets: a repeated tall-is-not-healthy question and a repeated middle-value question were replaced or removed. An East and Northeast example (Assam and Darjeeling tea) was added to the South-heavy examples. The three videos were opened and exist. Not changed: facts about Bose, the Moon and space plants, and the cellophane colour results, which are hedged in the text and could not be re-checked here.",
+ "more_stories": [
+  {
+   "title": "The Small Letters",
+   "mins": 5,
+   "read_aloud": true,
+   "note": "Based on real events: The Power of Movement in Plants, 1880.",
+   "text": [
+    "My name is Francis Darwin, and when I was a young man I spent three summers on my knees in the dark.",
+    "My father was old by then, and often ill. He could not walk far, and some days he could not work for more than an hour. But his mind was as restless as ever, and that year it had fixed itself on a question about grass.",
+    "\"Look, Frank,\" he said one evening, tapping the glass of a little pot. Inside were tiny seedlings of canary grass, each one a pale green needle no longer than my fingernail. \"We grew them in the dark. Now we light a lamp at the far end of the room, so dim that you and I can barely see it. And look what they do.\"",
+    "Every single seedling had bent towards the lamp, like a row of people turning their heads to listen.",
+    "\"They see it,\" my father said. \"They have no eyes, and they see it better than we do. But which part of them sees?\"",
+    "So we set out to find out, the two of us. Or rather, he thought and I did. My father's hands shook too much for the delicate work, so it was my hands that made the tiny caps: little hoods of tinfoil, and thin glass tubes painted black, each one small enough to fit over the very tip of a seedling. It was my eyes, bent close to the pots by candlelight, that watched and measured and wrote down every curve.",
+    "We capped the tips of some seedlings and left others bare. The bare ones bent towards the light as before. The capped ones stood straight up, as if they had been blindfolded. We buried others in fine black sand right up to their necks, so only the very tip could feel the light, and they bent just the same.",
+    "\"It's the tip,\" my father said, and his tired face lit up like a boy's. \"The tip sees the light, but the bending happens lower down. So the tip must send a message, Frank. Something travels down inside the plant and tells it which way to turn.\"",
+    "I remember thinking: a message, travelling through a plant with no nerves, no brain. It seemed impossible. And yet the grass had told us so itself.",
+    "When the book was printed, I held the first copy in my hands. The title said: The Power of Movement in Plants. Underneath, in large letters: By Charles Darwin. And underneath that, in much smaller letters: assisted by Francis Darwin.",
+    "I was not angry. He was my father, and the whole world knew his name. But I sat for a long time with the book open on my knees, looking at those small letters, and I thought about the seedlings.",
+    "The tip of the seedling does the seeing. It sits in the light and feels it, quietly, and sends its message down. And the part lower down does the bending, the part that everyone watches. Nobody looks at the tip. Everybody looks at the bend.",
+    "My father died two years later. I became a botanist myself, and I spent my life studying how plants move and grow. Long afterwards, scientists found the message we had guessed at: a chemical that travels from the tip and tells the plant cells which side to grow. They called it auxin.",
+    "Sometimes, when I tell this story, people ask me which of us really discovered it. I tell them the truth: we did it together, the old man and the young one, the one who thought and the one who watched. But I also tell them to remember the small letters. Behind almost every name in large letters, there is someone in small letters, and often many people in no letters at all: the gardener who grew the seeds, my mother who kept the house running, my sisters who copied out the pages.",
+    "Look for them. They are the tips that see the light."
+   ],
+   "epiphany": "The tip of a seedling senses light and sends a chemical signal (auxin) down to the growing region, which bends. Plants sense and communicate without nerves. The turn is Francis's realisation that 'nobody looks at the tip, everybody looks at the bend'. Underneath: the people whose work is credited in small letters or not at all (based on real events: The Power of Movement in Plants, 1880).",
+   "ask": [
+    "Which part of the seedling sees the light? Which part bends?",
+    "How did the caps and the black sand help them find out?",
+    "What did Francis mean when he said 'nobody looks at the tip'?",
+    "Who are the people 'in no letters at all' in this story?",
+    "Why did the Darwins grow the seedlings in the dark before lighting the lamp?"
+   ],
+   "art": []
+  }
+ ]
 }

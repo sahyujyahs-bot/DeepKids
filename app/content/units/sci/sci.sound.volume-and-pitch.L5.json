@@ -466,7 +466,12 @@
     "source": "Anguttara Nikaya 6.55, the Sona Sutta (the Buddha's talk with the monk Sona)",
     "teaching": "Sona had been a veena player. The Buddha asked him about his strings. When they were too tight, the veena could not be played well. When they were too loose, it could not be played well either. It played well when the strings were tuned to the right pitch between the two. The Buddha told Sona to tune his own effort in the same way.",
     "link": "The talk rests on the science of this lesson: the tension of a string sets its pitch. The Buddha used a fact that every player knew to say something about effort. The fact about strings can be tested. The advice about effort is a teaching.",
-    "verse": ["Taṁ kiṁ maññasi, soṇa, yadā te vīṇāya tantiyo accāyatā honti, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā?", "Taṁ kiṁ maññasi, soṇa, yadā te vīṇāya tantiyo atisithilā honti, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā?", "Yadā pana te, soṇa, vīṇāya tantiyo na accāyatā honti nātisithilā same guṇe patiṭṭhitā, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā?", "Evamevaṁ kho, soṇa, accāraddhavīriyaṁ uddhaccāya saṁvattati, atisithilavīriyaṁ kosajjāya saṁvattati."],
+    "verse": [
+     "Taṁ kiṁ maññasi, soṇa, yadā te vīṇāya tantiyo accāyatā honti, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā?",
+     "Taṁ kiṁ maññasi, soṇa, yadā te vīṇāya tantiyo atisithilā honti, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā?",
+     "Yadā pana te, soṇa, vīṇāya tantiyo na accāyatā honti nātisithilā same guṇe patiṭṭhitā, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā?",
+     "Evamevaṁ kho, soṇa, accāraddhavīriyaṁ uddhaccāya saṁvattati, atisithilavīriyaṁ kosajjāya saṁvattati."
+    ],
     "verse_lang": "pi"
    },
    {
@@ -478,7 +483,10 @@
     "source": "Aristotle, Metaphysics, Book 1, chapter 5, on the followers of Pythagoras (Greece, about 2,350 years ago)",
     "teaching": "Aristotle reports that the followers of Pythagoras found the notes of a scale could be written as numbers. From this they came to think that numbers were the makings of all things. They thought the whole sky was a scale.",
     "link": "Pitch really can be written as a number, the frequency, and you measured it in hertz. The step from 'notes are numbers' to 'everything is number' was a bold guess, and Aristotle himself doubted it. Physics still writes the world in numbers, and nobody is sure why that works so well.",
-    "verse": ["ἔτι δὲ τῶν ἁρμονιῶν ἐν ἀριθμοῖς ὁρῶντες τὰ πάθη καὶ τοὺς λόγους", "τὰ τῶν ἀριθμῶν στοιχεῖα τῶν ὄντων στοιχεῖα πάντων ὑπέλαβον εἶναι, καὶ τὸν ὅλον οὐρανὸν ἁρμονίαν εἶναι καὶ ἀριθμόν"],
+    "verse": [
+     "ἔτι δὲ τῶν ἁρμονιῶν ἐν ἀριθμοῖς ὁρῶντες τὰ πάθη καὶ τοὺς λόγους",
+     "τὰ τῶν ἀριθμῶν στοιχεῖα τῶν ὄντων στοιχεῖα πάντων ὑπέλαβον εἶναι, καὶ τὸν ὅλον οὐρανὸν ἁρμονίαν εἶναι καὶ ἀριθμόν"
+    ],
     "verse_lang": "grc"
    }
   ],
@@ -1267,11 +1275,11 @@
       "t": "mcq",
       "q": "In Gentle Pluck, Hard Pluck, the pull on the string goes from half a centimetre to 2 centimetres. What changes?",
       "options": [
-       "Volume goes up. Pitch stays the same.",
        "Pitch goes up. Volume stays the same.",
-       "Both go up."
+       "Both go up.",
+       "Volume goes up. Pitch stays the same."
       ],
-      "a": 0,
+      "a": 2,
       "why": "A bigger pull gives a bigger amplitude, and that gives a louder sound. The frequency is set by the string's tension, length and weight, and none of those changed. If you chose a higher pitch, compare your three readings in hertz."
      },
      "context": "In this step of Gentle Pluck, Hard Pluck you make the same three pulls on the Water-Bottle String. This time you measure the frequency."
@@ -1456,11 +1464,11 @@
       "t": "mcq",
       "q": "In the Muffle Test, the lid of the steel dabba is opened by one finger-width. What happens to the reading?",
       "options": [
-       "It goes up a lot",
        "It stays almost the same",
-       "It goes down"
+       "It goes down",
+       "It goes up a lot"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Sound gets out through any gap, however narrow. That is why a door left a little open keeps out very little noise. If you chose 'almost the same', you judged the gap by its size. Look at your own two readings."
      },
      "context": "In this step of the Muffle Test you put the ringing phone in a closed steel dabba. Then you open the lid by one finger-width and measure again."
@@ -2338,12 +2346,12 @@
      "t": "mcq",
      "p": "What does the volume of a sound tell you?",
      "opts": [
-      "How loud or quiet it is",
       "How high or low it is",
       "How fast it travels",
+      "How loud or quiet it is",
       "How long it lasts"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Volume is loudness. Choosing 'how high or low' mixes volume up with pitch, which is the other measure of a sound.",
      "outcome": 0
     },
@@ -2471,12 +2479,12 @@
      "t": "mcq",
      "p": "Which change makes the note of a string higher?",
      "opts": [
-      "Making it tighter",
       "Making it longer",
+      "Making it tighter",
       "Making it heavier",
       "Plucking it more gently"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A tighter string is pulled back harder, so it vibrates faster. A longer or heavier string vibrates more slowly. A gentle pluck only makes the sound quieter.",
      "outcome": 3,
      "how": "e1"
@@ -2569,12 +2577,12 @@
      "t": "mcq",
      "p": "A string 40 cm long is shortened to 20 cm, with the same pull. What happens to its frequency?",
      "opts": [
-      "It doubles",
       "It halves",
       "It stays the same",
-      "It becomes four times as high"
+      "It becomes four times as high",
+      "It doubles"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Half the length gives twice the frequency. If you chose 'halves', you matched a shorter string to a smaller number. A shorter string vibrates faster.",
      "outcome": 3,
      "how": "e1"
@@ -2583,12 +2591,12 @@
      "t": "mcq",
      "p": "Why does a thick string give a lower note than a thin one of the same length and tension?",
      "opts": [
-      "It has more weight to move",
       "It is pulled back harder",
       "It pushes less air",
+      "It has more weight to move",
       "It is longer"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A heavier string takes longer over each trip, so it vibrates more slowly. In the Water-Bottle String, a string with a second strand wound on it gave a lower note.",
      "outcome": 3,
      "how": "e1"
@@ -2774,12 +2782,12 @@
      "t": "mcq",
      "p": "A tuner reads 220 hertz beside a steady humming string. What does it read from across the room?",
      "opts": [
-      "220 hertz",
       "Less than 220 hertz",
       "More than 220 hertz",
+      "220 hertz",
       "It depends on the room"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Distance lowers the volume and leaves the frequency alone. Every push that leaves the string still arrives, so the pushes arrive just as often.",
      "outcome": 7
     },
@@ -2787,12 +2795,12 @@
      "t": "mcq",
      "p": "Two equal loudspeakers play together. How does the meter reading compare with one alone?",
      "opts": [
-      "About 3 decibels more",
       "Twice as many decibels",
       "10 decibels more",
+      "About 3 decibels more",
       "The same"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Two equal sources give twice the energy, and twice the energy is only about 3 decibels more. It takes ten times the energy to add 10 decibels.",
      "outcome": 2
     },
@@ -2856,12 +2864,12 @@
      "t": "mcq",
      "p": "Near thunder has a sharp crack. Far thunder is only a low rumble. Why?",
      "opts": [
-      "Air weakens high notes more than low notes",
       "The pitch of every note drops with distance",
+      "Air weakens high notes more than low notes",
       "Low notes travel faster than high notes",
       "Thunder slows down on the way"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Air absorbs high frequencies more than low ones, so only the low part of the sound arrives from far away. The notes that arrive still have the frequency they started with.",
      "outcome": 7
     },
@@ -2955,12 +2963,12 @@
    "t": "mcq",
    "p": "A sound gets louder, and its note stays the same. What has changed?",
    "opts": [
-    "The amplitude",
     "The frequency",
+    "The amplitude",
     "The length of the string",
     "The pitch"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A louder sound comes from a bigger amplitude. The frequency sets the pitch, and the pitch did not change.",
    "outcome": 1
   },
@@ -2968,12 +2976,12 @@
    "t": "mcq",
    "p": "Which pair of units is right?",
    "opts": [
-    "Volume in decibels, frequency in hertz",
     "Volume in hertz, frequency in decibels",
+    "Volume in decibels, frequency in hertz",
     "Both in decibels",
     "Volume in metres, frequency in seconds"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Decibels measure volume. Hertz measure frequency, the number of vibrations each second.",
    "outcome": 1
   },
@@ -2981,12 +2989,12 @@
    "t": "mcq",
    "p": "Which of these sounds is quiet and high-pitched?",
    "opts": [
-    "A mosquito at the window",
     "A chenda across the yard",
+    "A mosquito at the window",
     "A pressure cooker whistle",
     "A lorry engine far away"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A mosquito's whine is quiet and about 500 hertz. A chenda is loud and low, a whistle is loud and high, and a far lorry is quiet and low.",
    "outcome": 0
   },
@@ -2994,12 +3002,12 @@
    "t": "mcq",
    "p": "A reading goes from 50 decibels to 60 decibels. How much more sound energy is that?",
    "opts": [
-    "Ten times as much",
     "Twice as much",
     "A fifth more",
-    "Sixty times as much"
+    "Sixty times as much",
+    "Ten times as much"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Every 10 decibels more is ten times the energy. If you chose 'a fifth more', you treated decibels like centimetres. The scale multiplies.",
    "outcome": 2
   },
@@ -3007,12 +3015,12 @@
    "t": "mcq",
    "p": "Which of these sounds can harm hearing if it goes on for hours?",
    "opts": [
-    "A mixie one metre away",
     "A whisper",
     "A fridge humming",
+    "A mixie one metre away",
     "Quiet talking"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A mixie at one metre is about 85 to 90 decibels. Sounds above 85 decibels can damage the inner ear over hours. The others are far below that.",
    "outcome": 2
   },
@@ -3020,12 +3028,12 @@
    "t": "mcq",
    "p": "A hanging bottle of water pulls a string tight. Which change gives a lower note?",
    "opts": [
-    "Pouring some water out",
     "Moving the two pencils closer",
     "Changing to a thinner string",
-    "Plucking more gently"
+    "Plucking more gently",
+    "Pouring some water out"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Less water means less tension, and a looser string vibrates more slowly. A shorter or thinner string is higher. A gentle pluck is only quieter.",
    "outcome": 3,
    "how": "e1"
@@ -3034,12 +3042,12 @@
    "t": "mcq",
    "p": "How much more pull does it take to double the frequency of a string?",
    "opts": [
-    "Four times the pull",
     "Twice the pull",
     "Ten times the pull",
+    "Four times the pull",
     "Half the pull"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Four times the pull doubles the frequency. Twice the pull raises it only about 1.4 times. The Water-Bottle String shows this.",
    "outcome": 3,
    "how": "e1"
@@ -3048,12 +3056,12 @@
    "t": "mcq",
    "p": "Water is poured into a tall bottle, and the sound of the pouring rises. Why?",
    "opts": [
-    "The air column gets shorter",
     "The water gets heavier",
+    "The air column gets shorter",
     "The bottle gets tighter",
     "The water falls faster"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The air above the water is what vibrates. As the bottle fills, the air column gets shorter and vibrates faster.",
    "outcome": 4,
    "how": "a3"
@@ -3083,12 +3091,12 @@
    "t": "mcq",
    "p": "In a fair test of covers for a ringing phone, which is the independent variable?",
    "opts": [
-    "The cover",
     "The reading in decibels",
+    "The cover",
     "The tune",
     "The distance between the phones"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The independent variable is the one thing changed on purpose. The reading in decibels is measured, so it is the dependent variable. The tune and the distance are kept the same.",
    "outcome": 6,
    "how": "e3"
@@ -3376,6 +3384,74 @@
     "p1",
     "c1"
    ]
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in The Water-Bottle String: does twice the pull give twice the frequency?, The Muffle Test: what makes a ringing phone quietest?, The Sound Grid: eight home sounds, two numbers. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "e1",
+    "e3",
+    "a2"
+   ],
+   "plan": "Get it before The Water-Bottle String: does twice the pull give twice the frequency?."
+  },
+  {
+   "id": "b-a-digital-stopwatch--optiona",
+   "item": "A digital stopwatch (optional)",
+   "kind": "tool",
+   "why": "Used in Gentle Pluck, Hard Pluck: does a bigger vibration change the note?. About ₹150 to ₹400. A phone stopwatch works well.",
+   "url": "https://www.amazon.in/s?k=digital+stopwatch",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before Gentle Pluck, Hard Pluck: does a bigger vibration change the note?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Water-Bottle String: does twice the pull give twice the frequency?, Gentle Pluck, Hard Pluck: does a bigger vibration change the note?, The Muffle Test: what makes a ringing phone quietest?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e2",
+    "e3",
+    "a2",
+    "a3",
+    "a4",
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before The Water-Bottle String: does twice the pull give twice the frequency?."
+  },
+  {
+   "id": "b-graph-paper",
+   "item": "Graph paper",
+   "kind": "material",
+   "why": "Used in The Sound Grid: eight home sounds, two numbers. About ₹10 to ₹30. Draw squares on plain paper.",
+   "url": "https://www.amazon.in/s?k=graph+paper+notebook",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Get it before The Sound Grid: eight home sounds, two numbers."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

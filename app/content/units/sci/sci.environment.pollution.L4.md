@@ -1,7 +1,7 @@
 # Gone from sight: how dirty water hides, travels and builds up
 `sci.environment.pollution.L4`
 
-**Summary.** Thin coloured water again and again and the colour fades from sight, but is the dirt really gone? In this unit you will test your eyes against your nose, race tools to clear spilled oil, and play a game about which dirt a net or cloth can take out.
+**Summary.** Thin coloured water again and again and the colour fades from sight, but is the dirt really gone? In this lesson you will test your eyes against your nose, race tools to clear spilled oil, and play a game about which dirt a net or cloth can take out.
 
 **Intro.** *Two tumblers of water stand side by side. Both look exactly like water from the tap. Into one of them, someone stirred a spoonful of kewra essence. Can you tell which one, without tasting?* Look as hard as you like, and the two look the same. Now bring each tumbler to your nose. One smells of flowers and the other of nothing. Your eyes could not find the difference, but your nose could. So when a river, a pond or a well 'looks clear', what has been checked, and what has not?
 
@@ -559,10 +559,10 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
 ## Worksheets
 ### Clear or Clean? (core) (core, 17 questions)
 1. (mcq) You stir one spoonful of red water into a full tumbler of clean water. What has happened to the amount of red stuff?  
-   Options: It is all still there, spread through more water / Half of it has disappeared / It has all gone  
+   Options: Half of it has disappeared / It has all gone / It is all still there, spread through more water  
    **Answer:** It is all still there, spread through more water. *Why:* Mixing spreads the red stuff through more water, so each sip is paler. But nothing is destroyed when things mix. The amount stays the same, and only the strength falls.
 2. (mcq) After four steps of thinning, the colour is too faint to see. Which sentence is right?  
-   Options: The colour is gone for good / The colour is still there, but too thin for our eyes / The water has made new colour  
+   Options: The colour is still there, but too thin for our eyes / The colour is gone for good / The water has made new colour  
    **Answer:** The colour is still there, but too thin for our eyes. *Why:* Each step spread the colour through more water. The colour was too thin to show up to the eye, but it was still in the water, and a nose or an instrument may find what an eye cannot.
 3. (truefalse) If water looks clear, there is nothing in it.  
    **Answer:** False. *Why:* False. Salt, dye, petrol, germs and many chemicals can be in clear water. Looking is only one way of checking.
@@ -573,7 +573,7 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
 6. (sort) Sort each thing by how it behaves in water.  
    **Answer:** a plastic bag → Floats; mud → Sinks; salt → Dissolves; thermocol → Floats; sand → Sinks; sugar → Dissolves. *Why:* Light things float and heavy grains sink. Salt and sugar break into single tiny pieces and spread through the water.
 7. (mcq) A thick cloth is held over a glass and salty water is poured through it. Is the water in the glass still salty?  
-   Options: Yes, because salt is dissolved in single tiny pieces that pass through / No, because the cloth catches salt / No, because cloth turns salt into water  
+   Options: No, because the cloth catches salt / No, because cloth turns salt into water / Yes, because salt is dissolved in single tiny pieces that pass through  
    **Answer:** Yes, because salt is dissolved in single tiny pieces that pass through. *Why:* A cloth has gaps that are far wider than a single piece of dissolved salt. So the salt goes through with the water. A cloth can only catch bits that are bigger than its gaps.
 8. (count) A child sniffs three cups, with only one scented, and just guesses each time. She does 30 trials. About how many will she get right by luck alone?  
    **Answer:** 10. *Why:* With three cups, a guess is right one time in three. One third of 30 is 10. If she gets many more right than 10, she is not just guessing.
@@ -586,7 +586,7 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
 12. (label) Here is a drawing of a pond with too much waste in it. Label the three parts: the thick green layer, the crowd of tiny living beings feeding on waste, and the fish gasping.  
    **Answer:** ['Thick green layer on the surface: algae', 'Tiny living beings around floating waste: bacteria', 'Fish near the surface with open mouths: fish gasping for oxygen']. *Why:* Plant food makes the algae grow. When the waste and dead algae feed bacteria, the bacteria use up the oxygen, and the fish go up to find air.
 13. (mcq) Why do fish gasp at the surface of a pond that has a lot of rotting waste in it?  
-   Options: The microbes eating the waste have used up the oxygen in the water / The waste is poisonous gas / The fish want to eat the waste  
+   Options: The waste is poisonous gas / The microbes eating the waste have used up the oxygen in the water / The fish want to eat the waste  
    **Answer:** The microbes eating the waste have used up the oxygen in the water. *Why:* Microbes eating the waste breathe in oxygen, so there is less left for the fish. At the surface a little oxygen comes in from the air.
 14. (draw) Draw a food chain with plankton, a small fish, a big fish and a heron. Show a little pollution in the plankton, and draw how much builds up in each animal after that.  
    **Answer:** Four animals in a row, with a few dots in the plankton and more and more dots in each one that comes after, ending with the most in the heron.. *Why:* A strong drawing shows the dots growing along the chain, because each animal keeps the pollution of everything they eat.
@@ -595,7 +595,7 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
 16. (perspective) A factory lets its treated waste water into a big river. Its manager says the river is so big that it will thin out any waste.  
    **Answer:** Answers vary. A strong answer picks a view, gives a reason, and says what measurement would help, such as testing the water above and below the pipe, or testing the fish.. *Why:* This question has no single right answer. A strong answer weighs the claim and asks for evidence, rather than trusting what the water looks like.
 17. (mcq) A river is marked 'best for outdoor bathing'. What does that tell you about drinking it straight from the river?  
-   Options: Nothing: bathing water can still need cleaning before it is safe to drink / It is also safe to drink / It is not safe to bathe in  
+   Options: It is also safe to drink / Nothing: bathing water can still need cleaning before it is safe to drink / It is not safe to bathe in  
    **Answer:** Nothing: bathing water can still need cleaning before it is safe to drink. *Why:* Each use has its own tests and limits. Water can be fine for bathing and still need treatment before drinking. 'Clean' means clean for a use.
 ### Follow the Pollution (stretch) (stretch, 16 questions)
 1. (mcq) A heavy shower washes leaves, fertiliser and cow dung into a village pond. A week later the pond is thick and green. What happened first?  
@@ -606,7 +606,7 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
 3. (fill) When a pollutant that is not broken down builds up inside living bodies, it is called bio____.  
    **Answer:** ['accumulation', 'bioaccumulation']. *Why:* Accumulation means piling up. The pollutant is taken in faster than the body can get rid of it, so it adds up.
 4. (mcq) Health warnings tell some people to eat large sea fish, such as shark, less often than small fish. What is the reason?  
-   Options: Large fish eat many fish and so keep more of the mercury in them / Large fish taste bad / Small fish have no mercury at all  
+   Options: Large fish taste bad / Large fish eat many fish and so keep more of the mercury in them / Small fish have no mercury at all  
    **Answer:** Large fish eat many fish and so keep more of the mercury in them. *Why:* Mercury is not passed out of a body quickly. A large fish eats many smaller fish over many years and keeps what is in them, so she holds the most.
 5. (count) A plankton holds 1 unit of a pollutant. A small fish eats 20 plankton. A big fish eats 10 small fish. How many units does the big fish hold, if nothing is passed out?  
    **Answer:** 200. *Why:* A small fish holds 20 units. A big fish eats 10 of them, so the big fish holds 10 times 20, which is 200 units.
@@ -615,7 +615,7 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
 7. (order) Put the stages of a sewage treatment plant in order.  
    **Answer:** ['Screens catch rags and plastic', 'Heavy bits settle as sludge', 'Air and microbes eat the waste', 'Chlorine or ultraviolet light kills germs']. *Why:* Big things come out first so they do not block anything. Then the heavy bits settle. Microbes do most of the cleaning, and the germs are killed last.
 8. (mcq) In the third stage of a sewage plant, air is bubbled through the tank. Why?  
-   Options: The microbes that clean the water need oxygen to breathe / The air makes the water colder / The air pushes the sludge out  
+   Options: The air makes the water colder / The air pushes the sludge out / The microbes that clean the water need oxygen to breathe  
    **Answer:** The microbes that clean the water need oxygen to breathe. *Why:* The microbes that eat the waste breathe oxygen. Without bubbles, the oxygen would run out and they could not do the cleaning.
 9. (sort) Sort each method by whether it takes out bits or kills germs.  
    **Answer:** a net → Takes out bits; a cloth → Takes out bits; letting mud settle → Takes out bits; boiling → Kills germs; chlorine → Kills germs; ultraviolet light → Kills germs. *Why:* Nets, cloths and settling catch things that are big enough to hold back. Heat, chlorine and ultraviolet light harm germs, which are alive.
@@ -632,13 +632,13 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
 15. (odd) Which one is the odd one out, and why? Lead, mercury, banana peel, arsenic.  
    **Answer:** Banana peel. The others are elements, which nothing alive can break down. A banana peel is eaten by microbes and rots away.. *Why:* Lead, mercury and arsenic are elements. They can move or be locked away, but they stay what they are. Microbes can digest a banana peel.
 16. (mcq) Which waste would use up the most oxygen in a pond?  
-   Options: A bucket of leftover dal and rice / A bucket of clean sand / A bucket of small stones  
+   Options: A bucket of clean sand / A bucket of leftover dal and rice / A bucket of small stones  
    **Answer:** A bucket of leftover dal and rice. *Why:* Dal and rice are food for microbes. As the microbes eat it, they breathe in the oxygen. Sand and stones are not food, so they use none.
 ### Who Decides What Is Clean? (challenge) (challenge, 17 questions)
 1. (write) A lab tests your well and finds nothing wrong. Your nose still smells petrol. What would you do next, and why?  
    **Answer:** Test again with a different lab or a different test for petrol. Take a fresh sample in a clean glass bottle and keep it cold. Tell the village leader. A test only finds what it is looking for, so a test for one thing can miss another.. *Why:* A strong answer treats the nose as a reason to test more, and says that each test checks only certain things.
 2. (mcq) What is the best reason to measure water with an instrument, as well as looking and smelling?  
-   Options: A measurement gives a number that different people can compare / Instruments are always right / Looking never finds anything  
+   Options: Instruments are always right / Looking never finds anything / A measurement gives a number that different people can compare  
    **Answer:** A measurement gives a number that different people can compare. *Why:* Eyes and noses differ from person to person. A number from a good instrument can be compared by anyone, and checked against a safe limit.
 3. (truefalse) A water test that finds no germs proves that the water has no chemicals in it.  
    **Answer:** False. *Why:* False. A germ test finds signs of germs only. Chemicals need their own tests.
@@ -658,7 +658,7 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
 10. (draw) Draw a river from the hills to the sea. Mark one point source of pollution with a P and one place where runoff comes in with an R.  
    **Answer:** A river drawn from the hills to the sea, with one pipe marked P from a factory or a town, and many thin streams marked R coming off fields or roads.. *Why:* A strong drawing shows a point source as one pipe or drain, and runoff as many streams across the land.
 11. (mcq) If the sea has a little mercury, which fish should people eat less often: a tiny sardine, or a large shark?  
-   Options: A large shark, because she has eaten many fish and kept their mercury / A tiny sardine, because she is smaller / Both hold the same amount  
+   Options: A tiny sardine, because she is smaller / Both hold the same amount / A large shark, because she has eaten many fish and kept their mercury  
    **Answer:** A large shark, because she has eaten many fish and kept their mercury. *Why:* Mercury builds up along a food chain. A large fish at the top holds far more than a small one near the bottom.
 12. (truefalse) A fish in water that has only a tiny amount of mercury can still hold a lot of it in her body.  
    **Answer:** True. *Why:* True. A fish takes in a little with every meal and cannot get rid of it quickly, so over her life it adds up.
@@ -671,7 +671,7 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
 16. (write) Write a short notice for your building or village that says why 'it looks clear' is not enough to say that water is safe.  
    **Answer:** Water that looks clear can still carry things we cannot see, such as dissolved chemicals and germs. Our eyes lose a colour before our nose loses a smell, and an instrument can find amounts too small for either. So water must be tested for the things that matter, and tested again from time to time.. *Why:* A strong answer says clear does not mean clean, gives one example of something hidden, and asks for testing.
 17. (mcq) A child gets 2 of 3 trials right in a three-cup sniff test. What is the best conclusion?  
-   Options: It could easily be luck, so repeat with more trials / The child definitely smelled it / The child definitely did not smell it  
+   Options: The child definitely smelled it / It could easily be luck, so repeat with more trials / The child definitely did not smell it  
    **Answer:** It could easily be luck, so repeat with more trials. *Why:* Getting 2 or more of 3 right by pure guessing happens about 1 time in 4. A better test has more trials.
 
 ## Videos
@@ -684,16 +684,16 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
    Options: It is all still there, spread through more water / Half of it disappears / It all disappears  
    **Answer:** It is all still there, spread through more water. *Why:* Mixing spreads the red stuff out, but it does not destroy it. The strength falls and the amount stays the same.
 2. (mcq) A cup of water looks exactly like tap water, but a nose can pick it out. What is the best explanation?  
-   Options: Something is in the water that the eye cannot see but the nose can find / The nose is always more correct than the eye / The cup is empty  
+   Options: The nose is always more correct than the eye / Something is in the water that the eye cannot see but the nose can find / The cup is empty  
    **Answer:** Something is in the water that the eye cannot see but the nose can find. *Why:* The two senses check different things. The nose found something in the water that was too thin for the eye to see.
 3. (mcq) Which tool could lift a floating plastic bag off a pond?  
-   Options: A net / A cloth / A tumbler  
+   Options: A cloth / A tumbler / A net  
    **Answer:** A net. *Why:* A plastic bag floats and is big, so a net can lift it out.
 4. (mcq) Salty water is poured through a thick cloth. Why does it come out just as salty?  
-   Options: Dissolved salt is in single tiny pieces that pass through the gaps / The cloth adds salt / Salt cannot be seen  
+   Options: The cloth adds salt / Salt cannot be seen / Dissolved salt is in single tiny pieces that pass through the gaps  
    **Answer:** Dissolved salt is in single tiny pieces that pass through the gaps. *Why:* The gaps in a cloth are much bigger than the pieces of dissolved salt. So the salt goes through with the water.
 5. (mcq) A child sniffs three cups. Only one cup is scented. The child points to the right cup three times in a row. What is the best conclusion?  
-   Options: The child probably smelled it, because guessing would rarely give three in a row / The child must have looked / It proves the child has a very good nose  
+   Options: The child must have looked / The child probably smelled it, because guessing would rarely give three in a row / It proves the child has a very good nose  
    **Answer:** The child probably smelled it, because guessing would rarely give three in a row. *Why:* Guessing right three times in a row happens only 1 time in 27. So it is likely the child smelled it, though one test cannot prove more than that.
 6. (mcq) Why can too much kitchen waste in a pond kill fish?  
    Options: Microbes eating the waste use up the oxygen / The waste is a poison / The waste makes the water too hot  
@@ -705,12 +705,12 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
    Options: The heron / The plankton / They all hold the same  
    **Answer:** The heron. *Why:* Mercury is kept in the body and passed up the food chain. The heron at the top eats the most fish, so she holds the most.
 9. (mcq) What does the settling tank in a sewage plant do?  
-   Options: Lets heavy bits sink to the bottom as sludge / Kills the germs / Lets microbes breathe  
+   Options: Kills the germs / Lets microbes breathe / Lets heavy bits sink to the bottom as sludge  
    **Answer:** Lets heavy bits sink to the bottom as sludge. *Why:* The water stands still, and heavy bits sink. Killing germs happens in a later stage.
 10. (truefalse) Boiling water kills the germs in it.  
    **Answer:** True. *Why:* True. Heat kills most germs. But boiling does not take out dissolved chemicals.
 11. (mcq) River A is marked 'best for outdoor bathing' and river B is marked 'best for drinking after treatment'. What does this show?  
-   Options: Clean always means clean for a use / River B is dirtier / Rivers cannot be tested  
+   Options: River B is dirtier / Rivers cannot be tested / Clean always means clean for a use  
    **Answer:** Clean always means clean for a use. *Why:* Each use has its own tests and limits. So the same water can pass for one use and fail for another.
 12. (mcq) A well's water looks clear and smells fine. How can you tell whether it is safe to drink?  
    Options: Have it tested for the things that matter / Taste a big sip / Look at it again in the sun  
@@ -788,13 +788,20 @@ Downstream (sci.environment.L4): Topic-level song for Caring for the environment
 - [Centre for Science and Environment (CSE)](https://www.cseindia.org/) · interactive: For the parent. A Delhi research group led by Sunita Narain. Its reports on water, sewage and rivers are written in plain language, and its children's magazine Gobar Times is on the same site.
 - [Minamata disease (Wikipedia)](https://en.wikipedia.org/wiki/Minamata_disease) · interactive: For the parent. A clear history of the illness, the cats, the factory and the people who fought for recognition.
 - [East Kolkata Wetlands (Wikipedia)](https://en.wikipedia.org/wiki/East_Kolkata_Wetlands) · interactive: For the parent. How a city's sewage feeds fish ponds and fields, and why the wetlands are protected.
-- [East Kolkata Wetlands]() · place · Kolkata, West Bengal: A working wetland where the city's used water runs through shallow fish ponds. Ask about guided visits first, and go with a grown-up.
-- [Pallikaranai Marsh]() · place · Chennai, Tamil Nadu: A wetland inside the city, where birds and marsh plants live beside roads and flats. It shows how a wetland holds and cleans water, and what happens when a city presses on it.
+- East Kolkata Wetlands · place · Kolkata, West Bengal: A working wetland where the city's used water runs through shallow fish ponds. Ask about guided visits first, and go with a grown-up.
+- Pallikaranai Marsh · place · Chennai, Tamil Nadu: A wetland inside the city, where birds and marsh plants live beside roads and flats. It shows how a wetland holds and cleans water, and what happens when a city presses on it.
 
 ## Things to buy
 - [A small bottle of food colour](https://www.amazon.in/s?k=food+colour+liquid) (material): For the Gone from Sight test. A few drops in each test is enough, and the bottle lasts for a long time. Used in e1, e2. 
 - [A small bottle of food essence such as vanilla, rose or kewra](https://www.amazon.in/s?k=vanilla+essence) (material): For the sniff test in Gone from Sight. It is the scent that is still there after the colour has gone. Used in e1. 
 - [A packet of art clay or potter's clay](https://www.amazon.in/s?k=terracotta+clay+for+pottery) (material): For the Clay, Colour and the Bucket project. A potter or an art shop sells it by the kilo. Used in p1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Overnight Collector: can a paper strip find what your eyes cannot?. About ₹10 to ₹30. Any school ruler is fine. Used in e2. Get it before The Overnight Collector: can a paper strip find what your eyes cannot?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Spill Boom: keep the oil in one corner. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before The Spill Boom: keep the oil in one corner.
+- [Wooden ice-cream sticks (a pack)](https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack) (material): Used in The Overnight Collector: can a paper strip find what your eyes cannot?. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in. Used in e2. Get it before The Overnight Collector: can a paper strip find what your eyes cannot?.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in Oil Spill Race: which tool clears the most oil?. About ₹20 to ₹50. Torn clean cloth works. Used in e3. Get it before Oil Spill Race: which tool clears the most oil?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Pass-It-On Seeds: how a little becomes a lot up a food chain. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a2. Get it before Pass-It-On Seeds: how a little becomes a lot up a food chain.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in The Overnight Collector: can a paper strip find what your eyes cannot?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e2. Get it before The Overnight Collector: can a paper strip find what your eyes cannot?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - If you thin out coloured water until you can't see the colour, is the colour gone? → No. It is spread out, but it is still there.

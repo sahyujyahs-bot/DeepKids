@@ -1,9 +1,9 @@
 # Weight, mass and the normal force: what pulls a thing down and what holds it up
 `sci.gravity.weight-and-mass.L5`
 
-**Summary.** On Jupiter you would weigh about two and a half times as much as on Earth, but you could not stand there to feel it. Why not? In this unit you will feel the push that holds a book up, squash dough in a pile of books, and see whether a scale always shows weight.
+**Summary.** On Jupiter you would weigh about two and a half times as much as on Earth, but you could not stand there to feel it. Why not? In this lesson you will feel the push that holds a book up, squash dough in a pile of books, and see whether a scale always shows weight.
 
-**Intro.** *Put eight books in a pile on a table. Which book is pushed up the hardest by what lies under it: the top book, a middle book or the bottom book? Say what you think, and why.* It is hard to tell by looking, because nothing in the pile moves. In the Dough Stack experiment, you put soft dough at three levels of the pile. Then you see which dough is squashed the most. First, in Be the Table, your own hand holds up a book and feels what a table has to do. In this unit you find out what pulls a thing down, what holds it up, and how hard each one acts. You also find out why your weight would change on another world while your mass would not.
+**Intro.** *Put eight books in a pile on a table. Which book is pushed up the hardest by what lies under it: the top book, a middle book or the bottom book? Say what you think, and why.* It is hard to tell by looking, because nothing in the pile moves. In the Dough Stack experiment, you put soft dough at three levels of the pile. Then you see which dough is squashed the most. First, in Be the Table, your own hand holds up a book and feels what a table has to do. In this lesson you find out what pulls a thing down, what holds it up, and how hard each one acts. You also find out why your weight would change on another world while your mass would not.
 
 ## Learning outcomes
 0. By the end I can say how mass and weight are different, and give the unit of each.
@@ -153,10 +153,10 @@ The two jobs could have been set by two different amounts. A stone might have ha
   Against: Most textbooks keep 'weight' for the pull of gravity, which is nearly as strong in orbit as on the ground. They use 'normal force' or 'apparent weight' for what the scale shows.
 - **Gravity is not really a force.** (Albert Einstein, in his general theory of relativity of 1915; *accepted*)  
   For: Einstein's theory says that mass bends space and time, and that falling things simply follow the bend. It predicts the bending of starlight and the timing of satellite clocks correctly.  
-  Against: For everything in this unit, treating gravity as a force gives the right answers. Engineers and space agencies still use Newton's force for almost all their sums.
+  Against: For everything in this lesson, treating gravity as a force gives the right answers. Engineers and space agencies still use Newton's force for almost all their sums.
 
 ## Roots
-In this unit you squashed dough under a pile of books and saw the load grow towards the bottom. Here we ask what that says about how things stay up, and about us.
+In this lesson you squashed dough under a pile of books and saw the load grow towards the bottom. Here we ask what that says about how things stay up, and about us.
 
 **Deep truth.** In the Dough Stack, the dough under eight books was squashed far wider than the dough under one book. Every book rests on the one below, so each level carries everything above it. The bottom book is held up by the table, the table by the floor, and the floor by the Earth. So no book in a pile holds itself up.  
 *Habit it breaks:* We say a table stands or a book sits, as if each held itself up. Everything that stays up is held by something else, and that is held by something else again.  
@@ -168,7 +168,7 @@ In this unit you squashed dough under a pile of books and saw the load grow towa
 
 A book, a table, a floor, a pillar and the ground look like separate things. In the Dough Stack and the Load on the Pillar, they work as one chain. Each link pushes up on the link above it with a force equal to the weight of everything above. At the bottom is the Earth, which pulls the whole pile down and also holds it up. Many sages taught that nothing stands alone. A pile of books is a case where we can see this clearly, and we can draw it with arrows.
 
-- **Atharva Veda 12.1.12 (the hymn to the Earth):** “यत्ते मध्यं पृथिवि यच्च नभ्यं यास्त ऊर्जस्तन्वः संबभूवुः । / तासु नो धेह्यभि नः पवस्व माता भूमिः पुत्रो अहं पृथिव्याः पर्जन्यः पिता स उ नः पिपर्तु” The Earth is my mother, and I am her child. (The verse speaks of the Earth as the one who holds us. In this unit, the Earth is the last link in every chain that holds something up. The verse is a statement of faith and care, and the unit does not test it.)
+- **Atharva Veda 12.1.12 (the hymn to the Earth):** “यत्ते मध्यं पृथिवि यच्च नभ्यं यास्त ऊर्जस्तन्वः संबभूवुः । / तासु नो धेह्यभि नः पवस्व माता भूमिः पुत्रो अहं पृथिव्याः पर्जन्यः पिता स उ नः पिपर्तु” The Earth is my mother, and I am her child. (The verse speaks of the Earth as the one who holds us. In this lesson, the Earth is the last link in every chain that holds something up. The verse is a statement of faith and care, and the unit does not test it.)
 - **Zhuangzi, chapter 26 (Burton Watson's translation):** “夫地非不廣且大也，人之所用，容足耳，然則廁足而墊之致黃泉，人尚有用乎？” A person uses only the small patch of ground under her feet. But if the earth around her were dug away down to the Yellow Springs, that small patch would be no use to her. (A pillar or a foot seems to need only the ground it touches. But the ground there is held up by all the ground round it. The passage says this as a lesson about usefulness, not about weight.)
 - Science (settled): A surface pushes back on anything that presses on it, because the atoms of the two touching things repel each other. This push is the normal force.
 - Science (open): Nobody knows why the mass that sets a thing's weight is exactly the mass that makes it hard to move.
@@ -685,7 +685,7 @@ Months later, Thenu sat in front of the television at home on the evening of the
 6. (sort) Sort these forces by whether the things must touch.  
    **Answer:** a hand pushing a door → Contact force; the Earth's pull on a falling mango → Non-contact force; the push of a table on a book → Contact force; a rope pulling a cart → Contact force; a magnet's pull on a pin → Non-contact force. *Why:* A hand, a table and a rope act only where they touch. Gravity and a magnet act across a gap.
 7. (mcq) A book rests on a level table and does not move. Which force stops it falling through the table?  
-   Options: Gravity / The normal force of the table / An applied force from the book / The weight of the table  
+   Options: Gravity / An applied force from the book / The weight of the table / The normal force of the table  
    **Answer:** The normal force of the table. *Why:* The table is squashed a tiny amount by the book, and it pushes back up. That push is the normal force. Gravity is what pulls the book down.
 8. (forces) A book rests on a level table. Show the forces on the book.  
    Options: gravity / normal force / applied force / friction  
@@ -695,7 +695,7 @@ Months later, Thenu sat in front of the television at home on the evening of the
 10. (write) Explain why the dough at the bottom of a pile of books is squashed more than the dough at the top.  
    **Answer:** The bottom dough has the weight of all the books above it, and the top dough has only one. Each book rests on the one below, so the load grows towards the bottom. A greater push squashes the dough more.. *Why:* A strong answer says that each level carries everything above it. It also says that more books mean a bigger push on the dough.
 11. (mcq) Which tool gives the same answer on the Earth and on the Moon?  
-   Options: A spring scale / A bathroom scale / A two-pan balance / A forcemeter  
+   Options: A two-pan balance / A spring scale / A bathroom scale / A forcemeter  
    **Answer:** A two-pan balance. *Why:* A two-pan balance compares one mass with another, so the pull of the world cancels out. The other three measure a pull or a push, which is smaller on the Moon.
 12. (truefalse) True or false: a table pushes up on a book because the table is squashed a tiny amount.  
    **Answer:** True. *Why:* True. The book squashes the table by a tiny amount. The squashed particles push back, and that push holds the book up.
@@ -708,7 +708,7 @@ Months later, Thenu sat in front of the television at home on the evening of the
    **Answer:** ["The Earth's pull on the girl, down", "The scale's push on the girl, up", "The floor's push on the scale, up"]. *Why:* The girl stays still, so the scale pushes up on her as hard as gravity pulls her down. The scale reads that push. The floor must push up on the scale with the girl's weight and the scale's own weight.
 ### Weights on other worlds and force arrows (stretch) (stretch, 15 questions)
 1. (mcq) A 2 kilogram pack is at Jupiter's cloud tops, where each kilogram weighs about 25 newtons. About what does it weigh?  
-   Options: About 12 newtons / About 25 newtons / About 50 newtons / About 100 newtons  
+   Options: About 12 newtons / About 25 newtons / About 100 newtons / About 50 newtons  
    **Answer:** About 50 newtons. *Why:* Multiply the mass by the strength of gravity. 2 times 25 is 50 newtons. Choosing 25 forgets to multiply by the mass.
 2. (write) Saturn has 95 times the Earth's mass. Explain why its pull at the cloud tops is only a little bigger.  
    **Answer:** The pull depends on the mass of the world and on how far you are from its centre. Saturn's cloud tops are about 9.5 times as far from its centre as the Earth's surface is. The pull gets weaker by the distance multiplied by itself, so the distance counts twice. That cancels most of the extra mass.. *Why:* A strong answer says that distance from the centre matters, and that it counts twice because the pull gets weaker by the distance multiplied by itself. It does not say that gas has no weight.
@@ -735,7 +735,7 @@ Months later, Thenu sat in front of the television at home on the evening of the
 12. (write) In Lift, Press and Tilt, the scale read less on a tilted board. Explain why, with words and an arrow.  
    **Answer:** The slope only stops the packet sinking into the board. The board pushes straight out from its surface, and that push is smaller than the weight. Something else, such as the tape in the experiment, has to hold the packet so that it does not slide down the slope.. *Why:* A strong answer says that the normal force points straight out from the surface. On a slope it is smaller than the weight. It may draw a leaning arrow.
 13. (mcq) Which of these worlds gives the weakest pull at its surface?  
-   Options: Mars / The Moon / Mercury / Venus  
+   Options: Mars / Mercury / Venus / The Moon  
    **Answer:** The Moon. *Why:* The Moon's number is about 1.6 newtons for each kilogram. Mars and Mercury have 3.7, and Venus has 8.9.
 14. (order) Put these in order of how much a 10 kilogram bag weighs, from the smallest to the biggest.  
    **Answer:** ['On the Moon', 'On Mars', 'On the Earth', "At Jupiter's cloud tops"]. *Why:* The numbers are 1.6, 3.7, 9.8 and about 25 newtons for each kilogram. A bigger number means a bigger weight for the same mass.
@@ -748,7 +748,7 @@ Months later, Thenu sat in front of the television at home on the evening of the
 2. (count) A world has 2 times the Earth's mass and 1.25 times its width. About how many times as strong is its pull?  
    **Answer:** 1.3. *Why:* 1.25 times 1.25 is 1.5625. Then 2 divided by 1.5625 is about 1.3. So the pull is about 1.3 times the Earth's.
 3. (mcq) Mars has about twice the mass of Mercury, and both pull with 3.7 newtons for each kilogram. What explains this?  
-   Options: Mars is wider, so its surface is further from its centre / Mercury is closer to the Sun / Mars has an atmosphere / Weight does not depend on mass  
+   Options: Mercury is closer to the Sun / Mars has an atmosphere / Mars is wider, so its surface is further from its centre / Weight does not depend on mass  
    **Answer:** Mars is wider, so its surface is further from its centre. *Why:* Mars has more mass, which pulls harder. But its surface is further from its centre, which pulls less. Here the two effects cancel almost exactly.
 4. (perspective) Three people talk about gravity.  
    **Answer:** A strong answer uses the force view for bridges and everyday sums, because it is simple and accurate there. It may use the bending view to explain why every thing falls alike. It says that the views agree where they overlap.. *Why:* Each view works in its own place. Einstein's view explains more, and Newton's view is easier to use.
@@ -768,7 +768,7 @@ Months later, Thenu sat in front of the television at home on the evening of the
 11. (draw) Draw the forces on the middle book of a pile of three equal books. Give each arrow a length.  
    **Answer:** A box for the middle book, with an arrow down for gravity of 1 unit, an arrow down for the top book's push of 1 unit, and an arrow up for the bottom book's push of 2 units.. *Why:* A strong drawing has two down arrows and one up arrow. The up arrow is as long as the two down arrows together, because the book is still.
 12. (mcq) The Earth pulls an apple with a force of 1 newton. How hard does the apple pull the Earth?  
-   Options: Almost nothing / 1 newton / 10 newtons / 1 newton, only while it falls  
+   Options: Almost nothing / 10 newtons / 1 newton, only while it falls / 1 newton  
    **Answer:** 1 newton. *Why:* Forces come in pairs. The apple pulls the Earth with the same force of 1 newton. The Earth is so massive that this pull moves it by too little to measure.
 13. (write) Many people think the normal force always equals the weight. Describe a home test that shows this is wrong.  
    **Answer:** Put a packet on a kitchen scale and press down on it with a finger. The scale reads more than the packet's weight, so the table's push is bigger than the weight. Lifting the packet with a string makes the reading smaller.. *Why:* A strong answer names a test with a scale, a finger or a string, and says what the reading does. It says why that shows the normal force can change.
@@ -784,28 +784,28 @@ Months later, Thenu sat in front of the television at home on the evening of the
 
 ## Quiz
 1. (mcq) Which of these is the same on every world?  
-   Options: Your weight / Your mass / The reading of a spring scale / The pull of gravity on you  
+   Options: Your mass / Your weight / The reading of a spring scale / The pull of gravity on you  
    **Answer:** Your mass. *Why:* Mass is the amount of matter in you, and you take it with you to every world. The other three change with the strength of gravity.
 2. (mcq) A bag has a mass of 4 kilograms. About what does it weigh on the Earth?  
    Options: 4 newtons / 40 newtons / 400 newtons / 0.4 newtons  
    **Answer:** 40 newtons. *Why:* Each kilogram weighs about 10 newtons on the Earth. So 4 kilograms weigh about 40 newtons.
 3. (mcq) A dog has a mass of 12 kilograms. About what does she weigh on the Moon, where each kilogram weighs 1.6 newtons?  
-   Options: About 19 newtons / About 120 newtons / About 7.5 newtons / About 12 newtons  
+   Options: About 120 newtons / About 19 newtons / About 7.5 newtons / About 12 newtons  
    **Answer:** About 19 newtons. *Why:* Multiply the mass by the strength of gravity. 12 times 1.6 is 19.2 newtons. Choosing 120 uses the Earth's number instead of the Moon's.
 4. (mcq) Why is the pull at Saturn's cloud tops only a little more than the Earth's?  
-   Options: Its cloud tops are far from its centre / Gas has no weight / Saturn is very cold / Saturn spins fast  
+   Options: Gas has no weight / Saturn is very cold / Saturn spins fast / Its cloud tops are far from its centre  
    **Answer:** Its cloud tops are far from its centre. *Why:* Saturn has 95 times the Earth's mass, which alone would give a much bigger pull. But its cloud tops are about 9.5 times as far from its centre. The pull gets weaker by the distance multiplied by itself, which is about 9.5 times 9.5, or 90. That cancels most of the extra mass.
 5. (mcq) What is the normal force?  
-   Options: The push of a surface on a thing pressing on it / The pull of gravity on a thing / A push from a hand / The force that slows a sliding thing  
+   Options: The pull of gravity on a thing / The push of a surface on a thing pressing on it / A push from a hand / The force that slows a sliding thing  
    **Answer:** The push of a surface on a thing pressing on it. *Why:* The normal force is the push of a surface on a thing that presses on it. It points straight out from the surface. Gravity is a different force, and friction slows sliding.
 6. (mcq) A packet rests on a kitchen scale. A string lifts it so the scale reads less. What happens to the packet's weight?  
    Options: It gets smaller / It stays the same / It gets bigger / It becomes zero  
    **Answer:** It stays the same. *Why:* Gravity pulls the packet just as hard as before. The reading is smaller because the string carries part of the weight, so the scale pushes less.
 7. (mcq) Which of these is an applied force?  
-   Options: The Earth pulling a mango / A hand pushing a swing / A magnet pulling a pin / A falling mango  
+   Options: A hand pushing a swing / The Earth pulling a mango / A magnet pulling a pin / A falling mango  
    **Answer:** A hand pushing a swing. *Why:* An applied force is a push or pull put on a thing by touching it. A hand on a swing does this. The Earth and a magnet act across a gap.
 8. (mcq) A ball leaves your hand and flies up. Which of these is true?  
-   Options: The push of your hand fades away slowly / The push of your hand ended when the ball left it / The ball carries the same push as before / The hand pulls the ball back  
+   Options: The push of your hand fades away slowly / The ball carries the same push as before / The push of your hand ended when the ball left it / The hand pulls the ball back  
    **Answer:** The push of your hand ended when the ball left it. *Why:* An applied force is a contact force, so it ends when the touching ends. After that, only gravity and the air act on the ball.
 9. (mcq) A book rests on a table. How long is the normal force arrow, compared with the gravity arrow?  
    Options: The same length, pointing up / Longer, pointing up / Shorter, pointing up / The same length, pointing down  
@@ -814,7 +814,7 @@ Months later, Thenu sat in front of the television at home on the evening of the
    Options: 2 centimetres / 3 centimetres / 5 centimetres / 8 centimetres  
    **Answer:** 8 centimetres. *Why:* The table must push up against the weight and the press together. 5 plus 3 is 8 newtons, so the arrow is 8 centimetres.
 11. (mcq) Which of these do scientists still not know?  
-   Options: Why the mass that pulls is the same as the mass that resists / Whether the Moon has gravity / Whether mass exists / How to measure mass  
+   Options: Whether the Moon has gravity / Whether mass exists / Why the mass that pulls is the same as the mass that resists / How to measure mass  
    **Answer:** Why the mass that pulls is the same as the mass that resists. *Why:* Every test finds that a thing's mass sets its weight and how hard it is to speed up. The two always match. Nobody has a final reason why.
 12. (mcq) Why is the bottom storey of a tall building built strongest?  
    Options: It carries the weight of every floor above it / It is heavier than the other floors / It is nearest to the Sun / It has the most people  
@@ -894,6 +894,11 @@ Gravity (sci.gravity.L5): Topic-level song
 ## Things to buy
 - [A digital kitchen scale that reads in whole grams, up to 5 kilograms](https://www.amazon.in/s?k=digital+kitchen+weighing+scale+5kg) (tool): For Lift, Press and Tilt, the Dough Stack, Arrows to Scale and the 50-Newton Pack. It reads the push of a packet in grams. A good one costs about Rs 400 to 700. Used in e1, e2, a4, c2. 
 - [A tailor's measuring tape, 150 centimetres long](https://www.amazon.in/s?k=tailor+measuring+tape) (tool): For measuring the distance to the screen in the Spreading Square, and the pillar in the Load on the Pillar. A metre ruler or a piece of string and a ruler also work. Used in e3, p1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Dough Stack: which level of a pile is pushed up the hardest?, Lift, Press and Tilt: does a scale always read the weight?, The Spreading Square: why does a pull get weaker with distance?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, e3, a2, a3, a4, p1. Get it before The Dough Stack: which level of a pile is pushed up the hardest?.
+- [Small torch bulbs or LEDs with a holder](https://www.amazon.in/s?k=torch+bulb+holder+set) (tool): Used in The Spreading Square: why does a pull get weaker with distance?. About ₹10 to ₹50. A small torch can be taken apart for its bulb. Used in e3. Get it before The Spreading Square: why does a pull get weaker with distance?.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in The Spreading Square: why does a pull get weaker with distance?. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in e3. Get it before The Spreading Square: why does a pull get weaker with distance?.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in The Spreading Square: why does a pull get weaker with distance?, Weigh Yourself on Nine Worlds, Arrows to Scale: weigh it, then draw the forces. About ₹10 to ₹30. Draw squares on plain paper. Used in e3, a2, a4. Get it before The Spreading Square: why does a pull get weaker with distance?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Which is measured in newtons: mass or weight? → Weight. Mass is measured in kilograms.
@@ -914,11 +919,11 @@ Gravity (sci.gravity.L5): Topic-level song
 - Founder's notebook, the gravity page: the long concepts on gravity as a pull between masses, the push of the normal force, standing on solid ground, a person falling into Jupiter and the normal force when running at about 2 to 3 times the weight. They are used in the explanations on the normal force and on worlds with nothing to stand on, in the Dough Stack and in Lift, Press and Tilt.
 - Founder's notebook, the forces page: the ideas to hang weights and balance a book on a table to measure the normal force, and the drama of a table bravely supporting weight. They are the starting point of Be the Table and Lift, Press and Tilt.
 - Curriculum entry sci.gravity.weight-and-mass.L5: mass and weight are different, weight on the Moon and other planets, gravity, normal force and applied force. Board chapter Cambridge Stage 5 5.1 'Gravity, normal forces and applied forces'.
-- Other units were checked so that nothing repeats. The leaking bottle and the forcemeter in a lift are in sci.gravity.weight-and-mass.L3. The balance, the rubber band scale, the centre of gravity and the plant that grows from air are in sci.gravity.weight-and-mass.L4. The drop races and the swing are in the falling units. This unit does not repeat their stories or deep truths.
+- Other units were checked so that nothing repeats. The leaking bottle and the forcemeter in a lift are in sci.gravity.weight-and-mass.L3. The balance, the rubber band scale, the centre of gravity and the plant that grows from air are in sci.gravity.weight-and-mass.L4. The drop races and the swing are in the falling units. This lesson does not repeat their stories or deep truths.
 - Newton, I. (1687). Philosophiae Naturalis Principia Mathematica, Book 3, Proposition 6 (the pendulum tests with gold, silver, lead, glass, sand, salt, wood, water and wheat).
 - Touboul, P. and others (2022). MICROSCOPE mission: final results of the test of the equivalence principle. Physical Review Letters 129, 121102.
 - Einstein, A. (1915). Die Feldgleichungen der Gravitation. Sitzungsberichte der Koniglich Preussischen Akademie der Wissenschaften.
-- NASA National Space Science Data Center, Planetary Fact Sheet (masses, radii and surface gravity of the planets and the Sun; the strengths of gravity for the giant planets in this unit are worked out from its masses and widths, so they differ a little from the equator values it prints).
+- NASA National Space Science Data Center, Planetary Fact Sheet (masses, radii and surface gravity of the planets and the Sun; the strengths of gravity for the giant planets in this lesson are worked out from its masses and widths, so they differ a little from the equator values it prints).
 - CSIR National Physical Laboratory, Mass Metrology (India's copy of the kilogram, NPK-57, is kept there).
 - ISRO, Chandrayaan-3 landing brochure (rover mass 26 kilograms).
 - Seiff, A. and others (1998). Thermal structure of Jupiter's atmosphere near the edge of a 5-micrometre hot spot in the north equatorial belt. Journal of Geophysical Research 103, 22857 (the Galileo probe).

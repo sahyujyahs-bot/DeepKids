@@ -586,11 +586,11 @@
       "t": "mcq",
       "q": "A friend says a dot of black sketch pen will stay black on wet paper. What is most likely to happen?",
       "options": [
-       "It stays black",
        "It spreads into two or more colours",
+       "It stays black",
        "It disappears completely"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Most black sketch pen ink is a mixture of dyes. The water carries each dye a different distance, so the colours come apart. Picking 'stays black' means thinking black is one substance. Picking 'disappears' means forgetting that the dyes stay on the paper."
      }
     }
@@ -931,10 +931,10 @@
       "q": "A green sketch pen splits into a yellow band and a blue band. What does that tell you?",
       "options": [
        "The water turned the green into yellow and blue",
-       "The green ink is a mixture of a yellow dye and a blue dye",
-       "The paper was dirty"
+       "The paper was dirty",
+       "The green ink is a mixture of a yellow dye and a blue dye"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The yellow and blue dyes were in the ink all along. Mixed together, they look green. The water only carried them different distances, so they came apart. Picking 'the water turned it' is a natural first idea. To test it, run a strip of a yellow pen and a blue pen dotted together, and see if it looks like the green one."
      }
     }
@@ -1140,11 +1140,11 @@
       "t": "mcq",
       "q": "A black dot spread into other colours on a wet strip. Which of these is the best question to ask next?",
       "options": [
-       "Was the colour already in the black ink?",
        "Is the water magic?",
+       "Was the colour already in the black ink?",
        "Is the paper dirty?"
       ],
-      "a": 0,
+      "a": 1,
       "why": "'Was the colour already in the black ink?' can be tested: try other black pens, or mix two colours on one dot and see if they come apart too. The other two questions are much harder to test."
      }
     }
@@ -1218,10 +1218,10 @@
       "q": "Tsvet poured leaf colour through a tube of chalk powder, and it came apart into green and yellow bands. Why did it come apart?",
       "options": [
        "The chalk added new colours",
-       "Each coloured substance moved through the chalk at its own speed",
-       "The chalk was dirty"
+       "The chalk was dirty",
+       "Each coloured substance moved through the chalk at its own speed"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The leaf colour was a mixture. As the liquid ran through the chalk, each substance moved at its own speed, so they spread into bands. It is the same idea as a sketch pen dot on a wet paper strip. The chalk does not add colour: try a plain chalk stick in water, and it stays white."
      }
     }
@@ -1394,10 +1394,10 @@
       "q": "The mystery powder does not fizz with lemon juice. When it is heated, it melts and turns brown. What is it?",
       "options": [
        "Salt",
-       "Sugar",
-       "Cooking soda"
+       "Cooking soda",
+       "Sugar"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Cooking soda would have fizzed. Salt does not melt on a stove. Only sugar melts and turns brown. A strong answer uses two tests, because two pieces of evidence are stronger than one."
      }
     }
@@ -1464,10 +1464,10 @@
       "q": "Milk boils over onto the gas flame, and it flashes yellow-orange. Milk has a little salt in it. Which element made the colour?",
       "options": [
        "Copper",
-       "Sodium",
-       "Oxygen"
+       "Oxygen",
+       "Sodium"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Milk has small amounts of salt in it, and salt has sodium. Sodium makes a flame yellow-orange. Copper would give green or blue."
      }
     }
@@ -1630,11 +1630,11 @@
       "t": "mcq",
       "q": "A strip is made twice as long, and the bands spread further apart. Why?",
       "options": [
-       "The dyes had further to travel, so the faster ones got further ahead",
        "Longer paper has more dye in it",
+       "The dyes had further to travel, so the faster ones got further ahead",
        "The water was colder"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Each dye travels about the same share of the way. On a longer strip, the gap between a fast dye and a slow one grows too. Picking 'more dye in it' forgets that all the dye comes from the dot."
      }
     }
@@ -1694,11 +1694,11 @@
    "t": "mcq",
    "p": "A black sketch pen dot on a wet paper strip spreads into blue and purple bands. Where did the blue and purple come from?",
    "opts": [
-    "They were in the black ink all along",
     "The water made them",
-    "The paper had them in it"
+    "The paper had them in it",
+    "They were in the black ink all along"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The black ink is a mixture of blue and purple dyes. The water only carried them different distances, so they came apart. A plain wet strip with no dot stays white, so the paper and water did not make them.",
    "outcome": 0,
    "how": "a1"
@@ -1708,10 +1708,10 @@
    "p": "Why must the ink dot stay above the water when you start?",
    "opts": [
     "So the dot dries faster",
-    "So the ink does not just wash off into the tumbler",
-    "So the paper does not tear"
+    "So the paper does not tear",
+    "So the ink does not just wash off into the tumbler"
    ],
-   "a": 1,
+   "a": 2,
    "why": "If the dot is under the water, the dyes dissolve into the water in the tumbler instead of climbing the strip. Above the water, the climbing water carries them up the paper.",
    "outcome": 1,
    "how": "e1"
@@ -1733,11 +1733,11 @@
    "t": "mcq",
    "p": "Why do we draw the start line on the strip in pencil, not in pen?",
    "opts": [
-    "Pencil is easier to rub out",
     "Pencil does not dissolve in water, so it will not run",
+    "Pencil is easier to rub out",
     "Pencil is darker"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Pencil marks are made of graphite, which does not dissolve in water. A pen line could dissolve and run up the strip, mixing with the colours you are testing.",
    "outcome": 2,
    "how": "e1"
@@ -1758,11 +1758,11 @@
    "t": "mcq",
    "p": "The secret note's strip has the same colours, in the same order, as pen B's strip. What does that show?",
    "opts": [
-    "Pen B's ink is the same mixture as the note's ink",
     "Pen B's owner wrote the note",
+    "Pen B's ink is the same mixture as the note's ink",
     "All the pens are the same"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The strip shows which ink, so it points to pen B. It does not show whose hand held pen B. That needs more questions, as Revathi found in the story.",
    "outcome": 2,
    "how": "e1"
@@ -1784,11 +1784,11 @@
    "t": "mcq",
    "p": "Firework makers want a red firework. Which element should they add?",
    "opts": [
-    "Sodium",
     "Strontium",
+    "Sodium",
     "Copper"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Strontium gives a bright red. Sodium gives yellow-orange and copper gives green or blue. Each element gives its own colours, and that is how fireworks get theirs.",
    "outcome": 3
   },
@@ -1808,11 +1808,11 @@
    "t": "mcq",
    "p": "Scientists heat something from spring water in a flame. They see a colour of light that no known element gives. What can they say?",
    "opts": [
-    "There may be a new element in the water",
     "The flame is broken",
+    "There may be a new element in the water",
     "The water has no elements in it"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Each element gives its own colours. A colour no known element gives must come from an unknown one. This is how caesium was found in 1860.",
    "outcome": 4
   },
@@ -1821,10 +1821,10 @@
    "p": "A food safety lab wants to check whether some chilli powder has a colour added that is not allowed. Which method would help most?",
    "opts": [
     "Weigh the powder",
-    "Separate the colours in it, like chromatography",
-    "Smell it"
+    "Smell it",
+    "Separate the colours in it, like chromatography"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Chromatography separates the coloured substances in the powder, so the lab can see whether there is a dye that should not be there. Weighing or smelling cannot show which colours are mixed in.",
    "outcome": 5
   }
@@ -1898,11 +1898,11 @@
      "t": "mcq",
      "p": "When you dip the end of a kitchen-towel strip in water, the water climbs up it. What makes it climb?",
      "opts": [
-      "The heat of the room",
       "Capillary action: water creeping through the tiny gaps between the paper's fibres",
+      "The heat of the room",
       "The ink pulls the water up"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Paper is made of tiny fibres with tiny gaps between them. Water creeps up through the gaps. This is capillary action. Water climbs a plain strip with no ink just as well, so the ink is not pulling it.",
      "how": "e1"
     },
@@ -1965,12 +1965,12 @@
      "t": "mcq",
      "p": "Four dots are put on one strip: a black sketch pen, a green sketch pen, a ballpoint pen and a brown sketch pen. The strip is dipped in water. Which dot will most likely stay where it is?",
      "opts": [
+      "The ballpoint pen",
       "The black sketch pen",
       "The green sketch pen",
-      "The ballpoint pen",
       "The brown sketch pen"
      ],
-     "a": 2,
+     "a": 0,
      "why": "Ballpoint ink does not dissolve in water, so the water cannot carry it. Sketch pen inks dissolve in water and move up the strip."
     },
     {
@@ -2029,11 +2029,11 @@
      "t": "mcq",
      "p": "Rasam boils over onto the gas flame, and the blue flame turns yellow-orange for a moment. What in the rasam makes that colour?",
      "opts": [
-      "The salt",
       "The water",
-      "The tamarind's sour taste"
+      "The tamarind's sour taste",
+      "The salt"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Salt has sodium in it, and sodium makes a flame yellow-orange. Water alone does not change the flame much. A taste is not a substance that gives a colour."
     },
     {
@@ -2311,11 +2311,11 @@
      "t": "mcq",
      "p": "Two black pens give exactly the same bands on kitchen towel in water. What should a chemist do next?",
      "opts": [
-      "Decide they are the same ink",
       "Try another test, such as a different paper or a different liquid",
+      "Decide they are the same ink",
       "Give up"
      ],
-     "a": 1,
+     "a": 0,
      "why": "One matching test is good evidence, but two different inks could still behave alike on one paper. A different paper or liquid may separate them. Chemists use more than one test before they are sure."
     },
     {
@@ -2336,11 +2336,11 @@
      "t": "mcq",
      "p": "In 1868, astronomers saw a yellow line in the Sun's light that no known element gave. Why did they decide it was a new element?",
      "opts": [
-      "The line was very bright",
       "Every known element had been tested, and none gave a line in that exact place",
+      "The line was very bright",
       "The Sun is very hot"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Each element gives lines in its own exact places. A line that matched no known element had to come from an unknown one. It was named helium, and found on Earth in 1895."
     },
     {
@@ -2404,10 +2404,10 @@
      "p": "Robert Bunsen made a gas burner whose flame is almost colourless. Why did that help him study flame colours?",
      "opts": [
       "It was cheaper",
-      "The colours of the substances showed clearly, without the flame's own colour in the way",
-      "It made more smoke"
+      "It made more smoke",
+      "The colours of the substances showed clearly, without the flame's own colour in the way"
      ],
-     "a": 1,
+     "a": 2,
      "why": "A candle flame is already bright yellow, so a yellow from sodium would be hard to see. In an almost colourless flame, each substance's colour stands out."
     },
     {
@@ -2485,11 +2485,11 @@
      "t": "mcq",
      "p": "A forensic scientist has a strip from a mystery ink. Why does she also run strips from pens she already knows?",
      "opts": [
-      "To use up the paper",
       "To compare the mystery bands with known bands",
+      "To use up the paper",
       "To make the water climb faster"
      ],
-     "a": 1,
+     "a": 0,
      "why": "A strip alone cannot name a pen. Only by comparing it with strips from known pens can she see which one matches. A strong answer says that comparing is how the test gives an answer."
     }
    ]
@@ -2749,6 +2749,45 @@
     "e2",
     "p1"
    ]
+  },
+  {
+   "id": "b-a-magnifying-glass",
+   "item": "A magnifying glass",
+   "kind": "tool",
+   "why": "Used in Three White Powders: a detective's tests. About ₹30 to ₹120. A water drop on clear plastic magnifies a little.",
+   "url": "https://www.amazon.in/s?k=magnifying+glass+kids",
+   "used_in": [
+    "a4"
+   ],
+   "plan": "Get it before Three White Powders: a detective's tests."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Which Pen Wrote the Note?, Does Every Colour Split?, The Sharpest Bands. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e2",
+    "c1"
+   ],
+   "plan": "Get it before Which Pen Wrote the Note?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

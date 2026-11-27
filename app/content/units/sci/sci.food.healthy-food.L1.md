@@ -1,9 +1,9 @@
 # Healthy food and drink: why we need water, and where it hides
 `sci.food.healthy-food.L1`
 
-**Summary.** Squeeze a piece of cucumber in a clean hanky and water runs out. Squeeze a biscuit and nothing comes. In this unit you will squeeze different foods to find which hold water, sort foods into wet, damp and dry, and make a crunchy kosambari salad.
+**Summary.** Squeeze a piece of cucumber in a clean hanky and water runs out. Squeeze a biscuit and nothing comes. In this lesson you will squeeze different foods to find which hold water, sort foods into wet, damp and dry, and make a crunchy kosambari salad.
 
-**Intro.** *Hold a piece of cucumber in one hand and a biscuit in the other. Both feel dry on the outside. Is there water hiding inside either of them?* Your body needs water every day. You drink it from a tumbler. But some water also comes in your food. Which foods carry water inside them? Which carry almost none? In this unit we squeeze foods to find out. We also ask why we feel thirsty, and why we like some foods more than others.
+**Intro.** *Hold a piece of cucumber in one hand and a biscuit in the other. Both feel dry on the outside. Is there water hiding inside either of them?* Your body needs water every day. You drink it from a tumbler. But some water also comes in your food. Which foods carry water inside them? Which carry almost none? In this lesson we squeeze foods to find out. We also ask why we feel thirsty, and why we like some foods more than others.
 
 ## Learning outcomes
 0. By the end I can say why my body needs food and water: to grow, to move and to stay well.
@@ -27,6 +27,7 @@ Your body is always busy. It grows taller, mends a scraped knee and lets you run
 - e.g. A plate of rice, sambar, a vegetable and curd gives many kinds of food at once.
 - e.g. A scraped knee heals in about a week, and your body uses food to build the new skin.
 - e.g. Kamala Sohonie, a scientist from India, found vitamins in neera, the sweet sap of palm trees. She said it could be a cheap, healthy drink for children who did not get enough food.
+- e.g. A child in Kerala may eat rice and fish curry, and a child in Punjab may eat roti and dal. Both meals can keep them healthy.
 ### Your body needs water every day · *defined*
 **Definition:** More than half of your body is water. You lose some all day, so you need to drink every day.
 
@@ -324,7 +325,7 @@ That night in Madurai, Kavya lay on her mat and thought about all the water in t
 2. (draw) Draw the squeeze test. Draw the hanky, the glass, and what dripped out.  
    **Answer:** A twisted hanky over a glass, with drops falling from it.. *Why:* A strong drawing shows the food inside the hanky and the drops falling into the glass.
 3. (mcq) Dry rice grains are hard. Cooked rice is soft. Where did the water in cooked rice come from?  
-   Options: From the cooking pot / From the biscuit tin / From the air  
+   Options: From the biscuit tin / From the air / From the cooking pot  
    **Answer:** From the cooking pot. *Why:* The grains take in water as they cook in the pot. That is why they swell and go soft.
 4. (truefalse) A biscuit gives your body as much water as a cucumber.  
    **Answer:** False. *Why:* False. A biscuit is baked until almost all the water is gone. A cucumber is mostly water.
@@ -340,13 +341,13 @@ That night in Madurai, Kavya lay on her mat and thought about all the water in t
 9. (draw) Draw one thing you ate or drank today that had water in it.  
    **Answer:** Any food or drink with water, such as a cucumber, fruit, curd, buttermilk or rice.. *Why:* A strong drawing shows a real food or drink from today, and the child can say where the water is.
 10. (mcq) Your mouth is dry and you want a drink. What is your body telling you?  
-   Options: I need water / I need a nap / I need a sweet  
+   Options: I need a nap / I need water / I need a sweet  
    **Answer:** I need water. *Why:* A dry mouth and wanting a drink is thirst. Thirst is the body asking for water.
-### Thinking about food and drink (stretch, 10 questions)
+### Thinking about food and drink (stretch, 11 questions)
 1. (order) Put these in order, from the most water inside to the least: banana, biscuit, watermelon.  
    **Answer:** ['watermelon', 'banana', 'biscuit']. *Why:* Watermelon is more than 90 parts water out of 100. Banana is about three-quarters water. A biscuit has almost none.
 2. (mcq) A cook leaves cut cucumber slices on a plate in the hot sun all day. By evening they are small and dry. Where did their water go?  
-   Options: Into the air / Into the plate / Nowhere at all  
+   Options: Into the plate / Into the air / Nowhere at all  
    **Answer:** Into the air. *Why:* Heat and moving air carry water away from the slices into the air. The water goes as vapour, which is water in bits too small to see. This is how foods like papad are dried too.
 3. (write) Say it out loud, and a grown-up writes it: your body needs food and it needs water. Why is food alone not enough?  
    **Answer:** Food helps me grow and move, but my body also loses water all day. Dry food does not put that water back.. *Why:* A strong answer says that the body loses water all the time, and that many foods do not give enough water to replace it.
@@ -363,8 +364,10 @@ That night in Madurai, Kavya lay on her mat and thought about all the water in t
 9. (truefalse) Cooked rice has water inside it.  
    **Answer:** True. *Why:* True. The grains took in water in the cooking pot, and that is why they are soft.
 10. (mcq) Which of these drinks has no sugar added?  
-   Options: Plain water / Rose milk / A packet of fruit juice  
+   Options: Rose milk / Plain water / A packet of fruit juice  
    **Answer:** Plain water. *Why:* Plain water has no sugar. Rose milk has sugar stirred in, and most packet juices have sugar added or are naturally very sweet.
+11. (write) Say it out loud, and a grown-up writes it: name one food your family eats that a friend's family may not eat, and say what it gives your body.  
+   **Answer:** For example: my family eats ragi mudde with drumstick sambar, and my friend's family eats idli. Ragi gives my body energy and calcium.. *Why:* A strong answer names a real food and says what it gives the body. Foods differ between families, and many of them can keep us healthy.
 
 ## Videos
 - **A slow-motion or close-up video of water inside a cucumber or watermelon** (, 2 min) id `jw2Pzrm-F2A`: Shows how juicy plant foods hold water in tiny cells. *Check:* Found by YouTube search: Cucumber in Water | Slo Mo, Ryan Woods Title checked automatically; a parent may still preview it.
@@ -373,19 +376,19 @@ That night in Madurai, Kavya lay on her mat and thought about all the water in t
 
 ## Quiz
 1. (mcq) Why does your body need food?  
-   Options: To grow, move and mend / Only to make your tummy full / Only for the taste  
+   Options: Only to make your tummy full / Only for the taste / To grow, move and mend  
    **Answer:** To grow, move and mend. *Why:* Food gives your body what it needs to grow, move and mend itself. Fullness and taste are part of eating, but they are not why your body needs food.
 2. (mcq) Water leaves your body all day. Which of these is one way it leaves?  
    Options: As sweat through your skin / Through your hair growing / Through your nails  
    **Answer:** As sweat through your skin. *Why:* Water leaves as sweat through your skin, in your breath, and when you go to the toilet.
 3. (mcq) A biscuit stays dry when you squeeze it. Why?  
-   Options: It is baked until almost all the water is gone / The hanky soaked up the water / It was not squeezed hard enough  
+   Options: The hanky soaked up the water / It is baked until almost all the water is gone / It was not squeezed hard enough  
    **Answer:** It is baked until almost all the water is gone. *Why:* Baking drives the water out of a biscuit. That is what makes it crunchy.
 4. (mcq) When do you need to drink the most water?  
-   Options: On a cool day, sitting still / On a hot day, after running about / Just after waking up from a nap in a cool room  
+   Options: On a hot day, after running about / On a cool day, sitting still / Just after waking up from a nap in a cool room  
    **Answer:** On a hot day, after running about. *Why:* On a hot day, and when you run about, you sweat more. So more water leaves your body.
 5. (mcq) A child did not like curd rice the first time they tried it. What might help them like it?  
-   Options: Never giving it to them again / Tasting a little many times, without being pushed / Making them finish a big bowl  
+   Options: Never giving it to them again / Making them finish a big bowl / Tasting a little many times, without being pushed  
    **Answer:** Tasting a little many times, without being pushed. *Why:* Many children come to like a food after tasting it many times. Pushing them to eat it can make them like it less.
 6. (mcq) Tiny living beings called bacteria live in your mouth. What do they make from sugar?  
    Options: An acid that can harm your teeth / New teeth / Water  
@@ -395,11 +398,14 @@ That night in Madurai, Kavya lay on her mat and thought about all the water in t
 8. (truefalse) Eating many kinds of food, with plenty of vegetables and fruit, helps keep your body healthy.  
    **Answer:** True. *Why:* True. Different foods help your body in different ways, so a mix of many kinds works best.
 9. (mcq) You guess that a banana is dry. Then a banana makes a damp mark on paper. What should you say?  
-   Options: My guess was wrong. The banana has some water inside. / The test is broken. / Bananas are dry, whatever the test shows.  
+   Options: The test is broken. / Bananas are dry, whatever the test shows. / My guess was wrong. The banana has some water inside.  
    **Answer:** My guess was wrong. The banana has some water inside.. *Why:* A good scientist changes their idea when the test shows something new. The damp mark showed the banana has water.
 10. (mcq) You feel thirsty. What is the best thing to do?  
    Options: Wait until bedtime / Drink some water / Eat a biscuit  
    **Answer:** Drink some water. *Why:* Thirst is your body asking for water. A biscuit has almost no water in it.
+11. (mcq) Two children live in different places. One eats rice and fish curry. The other eats roti and dal. What is true?  
+   Options: Only the child who eats rice is healthy / Both can be healthy, because each meal can give many kinds of food / Healthy food is the same in every family  
+   **Answer:** Both can be healthy, because each meal can give many kinds of food. *Why:* Families in different places eat different foods, and a healthy meal can look very different. What matters is that the food gives many kinds of food.
 
 ## Applications
 - Families keep drinking water in clay pots in summer. A little water seeps through the clay to the outside. When that water dries off, it takes heat with it, so the water inside stays cool.
@@ -410,7 +416,7 @@ That night in Madurai, Kavya lay on her mat and thought about all the water in t
 ## Spotted around us
 - Cucumber slices with salt and chilli powder, sold at railway stations and bus stands on hot days.
 - Tender coconut sellers at the roadside, cutting open green coconuts full of coconut water.
-- Buttermilk, called neer mor in Tamil Nadu and majjige in Karnataka, given out free at street stalls in summer.
+- Buttermilk given out free at street stalls in summer.
 - Watermelons piled high on carts in April and May.
 - A clay matka or paanai of drinking water in a kitchen corner, with a tumbler on top.
 
@@ -447,11 +453,14 @@ Water in My Food (sci.food.L1): Topic-level song for Food L1
 
 ## Links
 - [Eat Right India](https://eatrightindia.gov.in/) · interactive: For the parent: plain advice on safe and healthy food from India's food safety authority, with ideas for children.
-- [Devaraja Market]() · place · Mysuru: An old covered market with heaps of fruit, vegetables, flowers and spices. Count the watery fruits.
-- [Mahatma Jyotiba Phule Market (Crawford Market)]() · place · Mumbai: A big old market full of fruit stalls, with mangoes, watermelons and much more in season.
-- [New Market]() · place · Kolkata: A busy market where you can see fruit, vegetables and sweets from all over Bengal.
+- Devaraja Market · place · Mysuru: An old covered market with heaps of fruit, vegetables, flowers and spices. Count the watery fruits.
+- Mahatma Jyotiba Phule Market (Crawford Market) · place · Mumbai: A big old market full of fruit stalls, with mangoes, watermelons and much more in season.
+- New Market · place · Kolkata: A busy market where you can see fruit, vegetables and sweets from all over Bengal.
 
 ## Things to buy
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Squeeze Test: which foods have water inside?, Make Kosambari: a crunchy salad from Karnataka. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1, a2. Get it before The Squeeze Test: which foods have water inside?.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in The Squeeze Test: which foods have water inside?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e1. Get it before The Squeeze Test: which foods have water inside?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Which has more water inside: a cucumber or a biscuit? → A cucumber. It is mostly water.
@@ -468,7 +477,7 @@ Water in My Food (sci.food.L1): Topic-level song for Food L1
 
 ## Sources
 - ideas/by_topic/food-and-a-balanced-diet.md: the SCI Cards for Barry Marshall and M. S. Swaminathan. Both were kept for higher levels, because their stories (stomach bacteria, high-yield farming) are beyond Class 1. The founder's oneness line ('the food on a plate was sunlight, soil, rain, bees and someone's work', PHILOSOPHY.md) shaped the roots thread.
-- Cambridge Primary Science Stage 1, 1.4 Healthy food and drink: healthy lunch box, a healthy plate, drinking lots of water. This unit keeps those ideas but builds the investigation round water in food.
+- Cambridge Primary Science Stage 1, 1.4 Healthy food and drink: healthy lunch box, a healthy plate, drinking lots of water. This lesson keeps those ideas but builds the investigation round water in food.
 - Water content of foods: cucumber about 95%, watermelon about 91 to 92%, banana about 75%, cooked white rice about 68 to 70%, biscuits a few percent (USDA FoodData Central; Indian Food Composition Tables, National Institute of Nutrition, Hyderabad, 2017).
 - Food supplies roughly 20 to 30% of daily water intake in adults (European Food Safety Authority, Scientific Opinion on Dietary Reference Values for Water, 2010).
 - Body water: about 60% of an adult's body weight, a little more in children. Water is lost through skin, breath, urine and faeces.

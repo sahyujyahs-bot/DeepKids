@@ -632,11 +632,11 @@
       "t": "mcq",
       "q": "Why do the arms of the cluster keep growing longer?",
       "options": [
-       "A wandering walker is most likely to bump into a tip before it reaches a hollow",
        "The die likes arms",
+       "A wandering walker is most likely to bump into a tip before it reaches a hollow",
        "Walkers are pulled towards the arms"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A walker wandering in from outside meets the squares that stick out first. Those squares catch the most walkers, so they grow. Hollows between arms are hidden, so few walkers reach them. The die has no pull towards anything."
      },
      "context": "In this step, you look at where the walkers stuck and why the cluster branches."
@@ -840,11 +840,11 @@
       "t": "mcq",
       "q": "A coast's box count grows by 3.0 times each time the boxes are halved. What can you say about the coast?",
       "options": [
-       "It is much rougher than a straight line and nearer to filling a page, with a roughness number about 1.6",
        "It is a straight line",
+       "It is much rougher than a straight line and nearer to filling a page, with a roughness number about 1.6",
        "It is exactly a filled page"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A ratio of 3.0 is between 2 for a line and 4 for a page, and nearer the page. The table gives 1.6. A straight line would give 2.0 and a filled page 4.0."
      },
      "context": "In this step, you say what you found and why the coast grew in between a line and a page."
@@ -1016,11 +1016,11 @@
       "t": "mcq",
       "q": "Which turn between neighbouring leaves would put leaf 2 directly above leaf 0?",
       "options": [
-       "Half a circle",
        "A third of a circle",
-       "The golden angle"
+       "The golden angle",
+       "Half a circle"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Half a circle twice is a whole circle, so leaf 2 sits directly above leaf 0. The golden angle never lines leaves up exactly, which is better for sharing light."
      },
      "context": "In this step, you say what you found and why the turn matters to the plant."
@@ -1154,11 +1154,11 @@
       "t": "mcq",
       "q": "Each round of a Koch curve makes the line 4 over 3 times as long. The length is 48 centimetres after round 2. What is it after round 3?",
       "options": [
-       "52 centimetres",
        "64 centimetres",
+       "52 centimetres",
        "96 centimetres"
       ],
-      "a": 1,
+      "a": 0,
       "why": "One third of 48 is 16, and 48 plus 16 is 64. Multiplying 48 by 4 over 3 gives the same answer. Doubling to 96 would be too much, and adding 4 would be too little."
      },
      "context": "In this step, you find the pattern in the lengths."
@@ -1594,11 +1594,11 @@
       "t": "mcq",
       "q": "In the Chaos Game, the dots go wherever the die says. Why does the same pattern still appear each time?",
       "options": [
-       "The rule of moving halfway to a corner never lands a dot in the middle holes, however the die falls",
        "The die is not really random",
+       "The rule of moving halfway to a corner never lands a dot in the middle holes, however the die falls",
        "The ruler makes the pattern"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Each move goes halfway to a corner, so after the first few dots every dot lands on the pattern and the big holes are never reached, however the die falls. The die chooses the order, and the rule decides the shape."
      },
      "context": "In this step, you look at the pattern the dots make."
@@ -1711,11 +1711,11 @@
       "t": "mcq",
       "q": "A group of 3 small triangles is glued corner to corner into a bigger triangle. What is in the middle of the bigger triangle?",
       "options": [
-       "A triangular hole",
        "Another paper triangle",
-       "A square hole"
+       "A square hole",
+       "A triangular hole"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Three triangles meeting corner to corner leave an empty triangle in the middle, upside down. That hole is the first hole in the Sierpinski pattern."
      },
      "context": "This is day 2 of the Sierpinski wall hanging. You glue 9 groups of 3 triangles."
@@ -1824,11 +1824,11 @@
       "t": "mcq",
       "q": "In the H-tree, the path to a pot is 2, then 2, then 1, then 1 squares. How many squares is the path to each pot, and is it the same for every pot?",
       "options": [
-       "6 squares, and it is the same for every pot",
        "6 squares for some pots and fewer for others",
-       "4 squares for every pot"
+       "4 squares for every pot",
+       "6 squares, and it is the same for every pot"
       ],
-      "a": 0,
+      "a": 2,
       "why": "2 plus 2 plus 1 plus 1 is 6 squares. Every pot is reached by the same four pieces in the same order, so every path is 6 squares. At 15 centimetres a square, that is 90 centimetres."
      },
      "context": "In this step, you draw the H-tree and check the distances."
@@ -1910,12 +1910,12 @@
      "t": "mcq",
      "p": "A coast's box count goes up by 3 times each time the boxes are halved. Which description fits?",
      "opts": [
-      "It is rougher than a straight line, and between a line and a page",
       "It is a straight line",
       "It is a filled page",
+      "It is rougher than a straight line, and between a line and a page",
       "It has no roughness"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A straight line gives 2 times and a filled page 4 times. A ratio of 3 is in between, so the coast is rougher than a line but does not fill the page.",
      "outcome": 1,
      "how": "e1"
@@ -2011,11 +2011,11 @@
      "p": "A Koch curve is 27 centimetres long. After one round it is 36 centimetres long. How long is it after two rounds?",
      "opts": [
       "45 centimetres",
-      "48 centimetres",
       "54 centimetres",
-      "72 centimetres"
+      "72 centimetres",
+      "48 centimetres"
      ],
-     "a": 1,
+     "a": 3,
      "why": "Each round multiplies the length by 4 over 3, which is adding one third. One third of 36 is 12, and 36 plus 12 is 48.",
      "outcome": 2,
      "how": "a1"
@@ -2035,11 +2035,11 @@
      "p": "Each whorl of a shell is 1.5 times as wide as the one before. The biggest whorl is 36 millimetres wide. How wide is the whorl just before it?",
      "opts": [
       "18 millimetres",
-      "24 millimetres",
       "30 millimetres",
+      "24 millimetres",
       "54 millimetres"
      ],
-     "a": 1,
+     "a": 2,
      "why": "To go backwards, divide by 1.5. 36 divided by 1.5 is 24. The answer 54 goes the wrong way, and 18 divides by 2 instead of 1.5.",
      "outcome": 3,
      "how": "a2"
@@ -2101,12 +2101,12 @@
      "t": "mcq",
      "p": "A rough coastline has a roughness number of 1.5. What does that tell you?",
      "opts": [
-      "It is rougher than a coast with 1.3, and does not fill the page",
       "It is 1.5 kilometres long",
+      "It is rougher than a coast with 1.3, and does not fill the page",
       "It has 1.5 bays",
       "It is exactly a straight line"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The roughness number is between 1 for a straight line and 2 for a filled page. A larger number means a rougher edge that covers more of the page.",
      "outcome": 1
     },
@@ -2116,10 +2116,10 @@
      "opts": [
       "A straight line",
       "A gently curving road",
-      "A line so crinkly that it nearly fills the page",
-      "A circle drawn with a compass"
+      "A circle drawn with a compass",
+      "A line so crinkly that it nearly fills the page"
      ],
-     "a": 2,
+     "a": 3,
      "why": "A roughness number near 2 means the line nearly fills the page. A straight line, a gentle curve and a circle all have a number near 1.",
      "outcome": 1
     },
@@ -2275,12 +2275,12 @@
      "t": "mcq",
      "p": "Walkers wander at random and stick to a growing cluster. Why do the tips grow fastest?",
      "opts": [
-      "A wandering walker meets a tip before it reaches a hollow",
       "Tips are heavier than hollows",
+      "A wandering walker meets a tip before it reaches a hollow",
       "Walkers prefer to stick to arms",
       "The die points towards the tips"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A walker coming from outside meets the parts that stick out first. Those parts catch the most walkers and grow, while the hollows between arms stay hidden.",
      "outcome": 6,
      "how": "g1"
@@ -2508,12 +2508,12 @@
      "t": "mcq",
      "p": "A computer model makes stripes like a zebra's. Does this prove that zebras make their stripes in the same way?",
      "opts": [
-      "No, a model that makes the right picture is not proof of the process",
       "Yes, it proves it",
       "Only if the model is complicated",
-      "Only if the stripes are black and white"
+      "Only if the stripes are black and white",
+      "No, a model that makes the right picture is not proof of the process"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Many different processes can make the same picture. To show that the animal uses the process, scientists must find the chemicals or test what changes when they are altered.",
      "outcome": 6
     },
@@ -2545,12 +2545,12 @@
      "t": "mcq",
      "p": "A plant turned each leaf by exactly 1 over 3 of a circle. What would happen to the leaves?",
      "opts": [
-      "They would line up in three straight rows and shade each other",
       "They would spread evenly with no overlap",
       "They would curl up",
-      "They would line up in one row"
+      "They would line up in one row",
+      "They would line up in three straight rows and shade each other"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Three turns of a third make a whole circle, so every third leaf sits directly above another. The leaves stack in three rows and shade the ones below.",
      "outcome": 4
     }
@@ -2601,12 +2601,12 @@
    "t": "mcq",
    "p": "In a Koch curve, what do you do to every straight piece in each round?",
    "opts": [
-    "Replace its middle third with two sides of a tent",
     "Cut it in half",
+    "Replace its middle third with two sides of a tent",
     "Double its length",
     "Colour it in"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The rule is to cut out the middle third and put in the two sides of a tent. This makes every piece into four shorter pieces.",
    "outcome": 2
   },
@@ -2614,12 +2614,12 @@
    "t": "mcq",
    "p": "Why can a Koch curve have endless length and still fit on a page?",
    "opts": [
-    "Each round adds length, but the tents get smaller and stay on the page",
     "The page stretches",
     "The line becomes invisible",
+    "Each round adds length, but the tents get smaller and stay on the page",
     "The curve never starts"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Each round multiplies the length by 4 over 3, so there is no limit. But the new tents are tiny and stay near the old line, so the curve never leaves the page.",
    "outcome": 2
   },
@@ -2627,12 +2627,12 @@
    "t": "mcq",
    "p": "Which statement describes how a snail shell grows?",
    "opts": [
-    "Each whorl is a fixed fraction wider than the last",
     "Each whorl is the same amount wider than the last",
     "Each whorl is narrower than the last",
+    "Each whorl is a fixed fraction wider than the last",
     "Each whorl has a random width"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A shell grows by multiplying by the same fraction, so the shape stays the same. Adding the same amount is how a rope coil grows.",
    "outcome": 3
   },
@@ -2641,11 +2641,11 @@
    "p": "Two whorls of a broken shell are 45 and 30 millimetres wide. Each whorl is the same number of times wider than the one before. How wide is the next smaller whorl?",
    "opts": [
     "15 millimetres",
-    "20 millimetres",
     "25 millimetres",
-    "22.5 millimetres"
+    "22.5 millimetres",
+    "20 millimetres"
    ],
-   "a": 1,
+   "a": 3,
    "why": "45 divided by 30 is 1.5. To go backwards, divide by 1.5, and 30 divided by 1.5 is 20. Subtracting 15 would be wrong, because a shell multiplies and does not add.",
    "outcome": 3
   },
@@ -2666,12 +2666,12 @@
    "t": "mcq",
    "p": "Which turn between leaves is closest to the golden angle?",
    "opts": [
-    "3 over 8 of a circle",
     "1 over 2 of a circle",
     "1 over 4 of a circle",
-    "1 over 3 of a circle"
+    "1 over 3 of a circle",
+    "3 over 8 of a circle"
    ],
-   "a": 0,
+   "a": 3,
    "why": "3 over 8 of a circle is 135 degrees, which is the closest to the golden angle of about 137.5 degrees. 1 over 3 is 120 degrees, 1 over 4 is 90 and 1 over 2 is 180.",
    "outcome": 4
   },
@@ -2679,12 +2679,12 @@
    "t": "mcq",
    "p": "Which problem does the branching of the airways help a lung solve?",
    "opts": [
-    "Fitting a very large surface for air into a small space",
     "Making the voice louder",
     "Keeping the chest light",
-    "Keeping all dust out"
+    "Keeping all dust out",
+    "Fitting a very large surface for air into a small space"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Oxygen can only pass into the blood through a thin surface. Branching packs a surface about as big as half a tennis court into the chest.",
    "outcome": 5
   },
@@ -2692,12 +2692,12 @@
    "t": "mcq",
    "p": "Why do cyclones spiral?",
    "opts": [
-    "The Earth's spin bends air rushing in to a low-pressure centre",
     "Cyclones grow by a fixed fraction like shells",
+    "The Earth's spin bends air rushing in to a low-pressure centre",
     "Water drains in a sink",
     "Waves of squeezing move through stars"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Air moving over a long distance is bent by the spin of the Earth. Air rushing into a low-pressure centre is bent into a spiral.",
    "outcome": 6
   },
@@ -3009,6 +3009,54 @@
    "used_in": [
     "e2"
    ]
+  },
+  {
+   "id": "b-a-magnetic-compass",
+   "item": "A magnetic compass",
+   "kind": "tool",
+   "why": "Used in Grow a Koch Curve: a 27 centimetre line that keeps getting longer. About ₹30 to ₹150. A phone compass app also works.",
+   "url": "https://www.amazon.in/s?k=magnetic+compass+school",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Get it before Grow a Koch Curve: a 27 centimetre line that keeps getting longer."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in A Sierpinski Wall Hanging: 27 triangles in three days. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before A Sierpinski Wall Hanging: 27 triangles in three days."
+  },
+  {
+   "id": "b-graph-paper",
+   "item": "Graph paper",
+   "kind": "material",
+   "why": "Used in How Rough Is Your Coast? Count the boxes it touches, Water for Every Pot: one pipe to sixteen plants. About ₹10 to ₹30. Draw squares on plain paper.",
+   "url": "https://www.amazon.in/s?k=graph+paper+notebook",
+   "used_in": [
+    "e1",
+    "c1"
+   ],
+   "plan": "Get it before How Rough Is Your Coast? Count the boxes it touches."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

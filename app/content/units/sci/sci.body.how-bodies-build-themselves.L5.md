@@ -1,9 +1,9 @@
 # From one cell to a whole body: layers, folds, master switch genes and regrowing
 `sci.body.how-bodies-build-themselves.L5`
 
-**Summary.** You began as one cell with no head, no heart and no hands. Nobody put those parts in from outside. So how did they get made? In this unit you will test how a flat strip of living cells can bend itself, with strips of spring onion in plain water and salt water. You will follow an embryo as they divide, form three layers and fold into tubes. You will also meet the Hox genes, which mark each place from head to tail, and the axolotl, who can regrow a whole leg.
+**Summary.** You began as one cell with no head, no heart and no hands. Nobody put those parts in from outside. So how did they get made? In this lesson you will test how a flat strip of living cells can bend itself, with strips of spring onion in plain water and salt water. You will follow an embryo as they divide, form three layers and fold into tubes. You will also meet the Hox genes, which mark each place from head to tail, and the axolotl, who can regrow a whole leg.
 
-**Intro.** *Run a finger down the groove between your nose and your upper lip. Why is there a groove there?* That groove is a join. When you had been growing in the womb for about six weeks, your face was still in separate pieces. Over the next week or two the pieces grew towards the middle and joined, and the groove marks the place. Your body has more joins like it. You were not carved out of one block, and you were not put together by a maker. Sheets of your own cells folded, met and joined. This unit asks how cells can do that with nobody outside to help.
+**Intro.** *Run a finger down the groove between your nose and your upper lip. Why is there a groove there?* That groove is a join. When you had been growing in the womb for about six weeks, your face was still in separate pieces. Over the next week or two the pieces grew towards the middle and joined, and the groove marks the place. Your body has more joins like it. You were not carved out of one block, and you were not put together by a maker. Sheets of your own cells folded, met and joined. This lesson asks how cells can do that with nobody outside to help.
 
 ## Learning outcomes
 0. I can describe, in order, how one cell becomes a ball of cells, then three layers, then a folded body with tubes.
@@ -191,7 +191,7 @@ We have learned how one cell becomes a body by dividing, forming layers, folding
 
 You started as one cell. That one cell became many cells, and the many became different from each other: skin, bone, nerve and blood. Yet they did this by staying in touch, each sensing the others and answering. The cells never stopped being one body. A fly's body and yours are laid out by the same family of genes, handed down from one ancestor. So the many kinds of animal bodies are also one way of building, changed a little at a time.
 
-- **Sushruta Samhita, Sharirasthana 3.32 (paraphrased):** The old physicians argue about which part of an unborn child forms first. One says the head, one the heart, one the navel, one the hands and feet, one the trunk. Dhanvantari answers that all the parts form together, and are at first too fine to be seen, like the parts of a bamboo shoot or of a young mango. (This is the same question this unit asks, argued in India about two thousand years ago by people with no microscopes. Today's evidence says the parts do appear in an order, and the heart is the first to work. But Dhanvantari was right that the early stages were too small for anyone then to see.)
+- **Sushruta Samhita, Sharirasthana 3.32 (paraphrased):** The old physicians argue about which part of an unborn child forms first. One says the head, one the heart, one the navel, one the hands and feet, one the trunk. Dhanvantari answers that all the parts form together, and are at first too fine to be seen, like the parts of a bamboo shoot or of a young mango. (This is the same question this lesson asks, argued in India about two thousand years ago by people with no microscopes. Today's evidence says the parts do appear in an order, and the heart is the first to work. But Dhanvantari was right that the early stages were too small for anyone then to see.)
 - **Tao Te Ching 64:** “合抱之木，生於毫末。 / 千里之行，始於足下。” A tree too big to put your arms around grows from a tiny shoot. A tower of nine storeys rises from a heap of earth. A journey of a thousand li begins under your feet. (Laozi says that the largest things come from small beginnings by small steps. A body of trillions of cells comes from one cell, by one division and one fold at a time. No single step is large.)
 - **Aristotle, Generation of Animals, Book 2, chapter 1 (paraphrased):** Aristotle asks whether all the parts of an animal are there from the start, or come into being one after another, like the knitting of a net. He had watched chicks form inside hens' eggs, and he concludes that the parts form one after another. (Aristotle looked instead of only arguing, and the embryos you have read about agree with him. A net is also made by one simple knot repeated, with no knot holding the pattern of the whole net.)
 - Science (settled): Every part of an animal's body is made after fertilisation, step by step, from cells that at first look alike. No ready-made body lies in the egg cell.
@@ -602,7 +602,7 @@ Kayal opened her mouth to answer. She looked at the seven dancers, and at the po
 6. (truefalse) True or false: a germ layer is a layer of germs that can make you ill.  
    **Answer:** False. *Why:* False. 'Germ' here means a beginning, as in 'germinate'. A germ layer is a sheet of the embryo's own cells.
 7. (mcq) In the Curling Strip Test, which strips of spring onion curled the most?  
-   Options: The ones in plain water / The ones in salt water / The dry ones / All curled equally  
+   Options: The ones in salt water / The dry ones / All curled equally / The ones in plain water  
    **Answer:** The ones in plain water. *Why:* In plain water the soft cells on one face take in water and swell, so that face becomes longer and the strip curls. Check this against your own table.
 8. (write) In the Curling Strip Test, why were three strips used in each place and not one?  
    **Answer:** One strip can behave oddly because of how it was cut or which part of the leaf it came from. Three strips, and their mean, show what usually happens.. *Why:* A strong answer says that one result can be a fluke, and that repeats let you see the usual result.
@@ -620,7 +620,7 @@ Kayal opened her mouth to answer. She looked at the seven dancers, and at the po
 14. (write) Why does an embryo need a working heart when it is only a few millimetres long?  
    **Answer:** Food and oxygen can seep from cell to cell only over a very short distance. Once the embryo is thicker than that, blood must carry them, so a pump is needed.. *Why:* A strong answer links the size of the embryo to the need to move food and oxygen.
 15. (mcq) What do doctors give to women who may become pregnant, to help the neural tube close?  
-   Options: Extra salt / Vitamin D only / Folic acid / Antibiotics  
+   Options: Extra salt / Vitamin D only / Antibiotics / Folic acid  
    **Answer:** Folic acid. *Why:* Folate, a B vitamin, is needed in the first four weeks, when the neural tube closes. Tablets of folic acid lower the risk of a gap in the spine.
 ### Signals, switches and addresses (stretch, 15 questions)
 1. (mcq) Where in a growing hand is the signal Sonic hedgehog made?  
@@ -649,7 +649,7 @@ Kayal opened her mouth to answer. She looked at the seven dancers, and at the po
    Options: Mouse / Fruit fly / Centipede / Jellyfish  
    **Answer:** 3. *Why:* A mouse, a fly and a centipede each have a head end and a tail end marked by a full row of Hox genes. A jellyfish is built in a ring and has only a few Hox-like genes.
 12. (mcq) A mouse's Pax6 gene is switched on in a fly's wing. What grows there?  
-   Options: A mouse's eye / A second wing / Nothing / A fly's eye  
+   Options: A fly's eye / A mouse's eye / A second wing / Nothing  
    **Answer:** A fly's eye. *Why:* Pax6 only says 'build an eye here'. The fly's own cells and genes do the building, so the eye is a fly's eye.
 13. (write) Why were scientists surprised to find the same Hox genes in a fly and a human?  
    **Answer:** The two bodies look completely different, so most scientists expected different genes to build them. The same genes mean both inherited them from one ancestor that lived very long ago.. *Why:* A strong answer gives the old expectation and says what the shared genes show about ancestry.
@@ -666,7 +666,7 @@ Kayal opened her mouth to answer. She looked at the seven dancers, and at the po
 3. (write) In Regrow the Arm, rule B made the cut forget its number. What arm did rule B give, and why?  
    **Answer:** Rule B gave boxes 1 to 5 followed by a new 1 to 8: a whole arm growing out of a wrist. The cells at the cut started from the shoulder again because they did not know they were at the wrist.. *Why:* A strong answer describes the too-long arm and links it to the lost record of place.
 4. (mcq) Tadpoles given extra vitamin A grew legs where a cut tail had been. What had changed?  
-   Options: The tadpoles' DNA letters / The address that the stump cells read / The number of cells in the tail / The water temperature  
+   Options: The tadpoles' DNA letters / The number of cells in the tail / The address that the stump cells read / The water temperature  
    **Answer:** The address that the stump cells read. *Why:* Retinoic acid, made from vitamin A, is one of the signals for position. Too much of it reset the cells' address, so they built a different part. Their DNA stayed the same.
 5. (sort) Sort these by what usually happens after the part is lost.  
    **Answer:** An axolotl's leg → Regrows; A grown human's hand → Heals with a scar; A stag's antlers → Regrows; A zebrafish's fin → Regrows; A deep cut in human skin → Heals with a scar; A starfish's arm → Regrows. *Why:* Many animals rebuild lost parts. Mammals such as humans mostly close a deep wound quickly with scar tissue, though antlers show that a mammal can regrow bone.
@@ -705,13 +705,13 @@ Kayal opened her mouth to answer. She looked at the seven dancers, and at the po
    Options: The embryo attaches to the womb / The fingers separate / The heart gets four chambers / Cells move to form three layers  
    **Answer:** Cells move to form three layers. *Why:* At gastrulation, cells move through a groove and settle into an outer, a middle and an inner layer. Attaching to the womb happens about a week earlier.
 3. (mcq) Which germ layer makes the brain and the nerves?  
-   Options: The mesoderm, the middle layer / The endoderm, the inner layer / The ectoderm, the outer layer / None: the brain forms separately  
+   Options: The mesoderm, the middle layer / The ectoderm, the outer layer / The endoderm, the inner layer / None: the brain forms separately  
    **Answer:** The ectoderm, the outer layer. *Why:* The brain begins as a strip of the outer layer that rolls into a tube. Choosing the middle layer may come from thinking of the brain as being deep inside.
 4. (mcq) Which pair both come from the mesoderm?  
-   Options: Skin and liver / Bone and blood / Brain and nails / Lungs and nerves  
+   Options: Bone and blood / Skin and liver / Brain and nails / Lungs and nerves  
    **Answer:** Bone and blood. *Why:* The middle layer makes bones, muscles, the heart and blood. Brain and nails are ectoderm. The liver and the lining of the lungs are endoderm.
 5. (mcq) A flat strip of cells bends by itself. What must have happened?  
-   Options: One face became longer than the other / Something outside pushed it / The strip dried evenly / All its cells grew equally  
+   Options: Something outside pushed it / The strip dried evenly / All its cells grew equally / One face became longer than the other  
    **Answer:** One face became longer than the other. *Why:* A strip curls only when its two faces become different in length. Equal growth makes a strip longer but leaves it flat.
 6. (truefalse) True or false: strips of spring onion curl as much in strong salt water as in plain water.  
    **Answer:** False. *Why:* False. In salt water the cells cannot take in water, so the soft face does not swell and the strip stays limp.
@@ -719,19 +719,19 @@ Kayal opened her mouth to answer. She looked at the seven dancers, and at the po
    Options: From DNA that other cells lack / From the size of the cell / By chance / From how much signal reaches the cell  
    **Answer:** From how much signal reaches the cell. *Why:* All the cells have the same DNA. A signal made at the little-finger edge thins out across the hand, and each cell acts on how much they sense.
 8. (mcq) What is the best description of a Hox gene?  
-   Options: The full plan for a leg / A gene found only in flies / A switch that marks a place along the body / A gene that makes cells divide  
+   Options: The full plan for a leg / A switch that marks a place along the body / A gene found only in flies / A gene that makes cells divide  
    **Answer:** A switch that marks a place along the body. *Why:* A Hox gene tells cells where along the body they are, and so which part to build. The plans for the part itself are in many other genes.
 9. (mcq) A fly grows legs where the antennae should be. What went wrong?  
-   Options: The fly ate the wrong food / A Hox switch was on in the wrong place / The leg genes were missing / The antennae fell off  
+   Options: A Hox switch was on in the wrong place / The fly ate the wrong food / The leg genes were missing / The antennae fell off  
    **Answer:** A Hox switch was on in the wrong place. *Why:* The legs are normal, so the leg genes work. A Hox gene that should be off in the head was on there, and gave the cells the wrong address.
 10. (mcq) Flies and humans use the same family of Hox genes. What is the best explanation?  
-   Options: Both got them from an ancestor they share / Humans got them from eating flies / It is a coincidence / All genes are the same in all animals  
+   Options: Humans got them from eating flies / Both got them from an ancestor they share / It is a coincidence / All genes are the same in all animals  
    **Answer:** Both got them from an ancestor they share. *Why:* The genes match in their DNA letters and in their order on the chromosome. The simplest explanation is that both animals inherited them from one ancestor, long ago.
 11. (mcq) An axolotl cut at the elbow regrows a forearm and hand, not a whole arm. Why?  
-   Options: She runs out of energy / The other arm tells her when to stop / The cut seals the stump / The stump cells remember where they are  
+   Options: The stump cells remember where they are / She runs out of energy / The other arm tells her when to stop / The cut seals the stump  
    **Answer:** The stump cells remember where they are. *Why:* The cells at the cut keep a record of their place along the arm, so they build only what lies beyond it. This is called positional memory.
 12. (mcq) Scientists disagree about why humans cannot regrow a hand. Which is one of their ideas?  
-   Options: Humans have no stem cells / Human DNA has no building genes / Fast scarring blocks the regrowing signals / Hands are too heavy  
+   Options: Fast scarring blocks the regrowing signals / Humans have no stem cells / Human DNA has no building genes / Hands are too heavy  
    **Answer:** Fast scarring blocks the regrowing signals. *Why:* One idea is that mammals close wounds fast with a scar, and scar tissue blocks the signals a blastema needs. Humans do have stem cells and nearly all the genes an axolotl uses.
 
 ## Applications
@@ -794,7 +794,7 @@ This Body Is a Universe (sci.body.L5): Topic-level song
 
 ## Links
 - [HHMI BioInteractive](https://www.biointeractive.org/) · interactive: Free short films and click-through activities on embryos, genes and body plans, made with working scientists. Search the site for 'development'.
-- [The Embryo Project Encyclopedia](https://embryo.asu.edu/) · interactive: Short, checked articles on the people and experiments in this unit, such as Christiane Nüsslein-Volhard and the Hox genes. Best read by a parent and retold.
+- [The Embryo Project Encyclopedia](https://embryo.asu.edu/) · interactive: Short, checked articles on the people and experiments in this lesson, such as Christiane Nüsslein-Volhard and the Hox genes. Best read by a parent and retold.
 - [The Virtual Human Embryo](https://www.ehd.org/virtual-human-embryo/) · interactive: Real photographs of human embryos at each stage of the first eight weeks, with their sizes. A parent should look first and choose what to show.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in/) · place · Bengaluru: A science museum with a gallery on biotechnology, where children can see models of cells and DNA. Check which galleries are open before you go.
 - [National Science Centre](https://nscd.gov.in/) · place · New Delhi: A large science centre with galleries on the human body and on life. Check which galleries are open before you go.
@@ -803,6 +803,11 @@ This Body Is a Universe (sci.body.L5): Topic-level song
 - [A bunch of spring onions](https://www.amazon.in/s?k=spring+onion+fresh) (material): The green hollow leaves are needed for the Curling Strip Test. Any vegetable shop or market sells them, often as 'spring onion' or 'onion greens'. Used in e1. 
 - [A small bottle of dark nail polish](https://www.amazon.in/s?k=nail+polish+dark) (material): A thin painted line stays on a nail for weeks, which the Nail Clock needs. A permanent marker also works but must be redrawn more often. Used in e2. 
 - [Your Inner Fish, by Neil Shubin (a book for the parent or a keen older child)](https://www.amazon.in/s?k=Your+Inner+Fish+Neil+Shubin) (book): A scientist tells how the genes that build a fish's fin also build a human hand, including the Sonic hedgehog experiments. Used in a4. A parent can read the chapter on hands and genes before the Mirror Wing activity, and retell the shark and skate experiments afterwards.
+- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): Used in The Nail Clock: is your body still building, and how fast?. About ₹30 to ₹120. A water drop on clear plastic magnifies a little. Used in e2. Get it before The Nail Clock: is your body still building, and how fast?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Curling Strip Test: can a flat strip of cells bend itself?, The Nail Clock: is your body still building, and how fast?, Fold a Body from Three Sheets. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, a2, a6. Get it before The Curling Strip Test: can a flat strip of cells bend itself?.
+- [A set of lenses (convex and concave)](https://www.amazon.in/s?k=convex+concave+lens+set) (tool): Used in The Nail Clock: is your body still building, and how fast?. About ₹80 to ₹250. A magnifying glass is one convex lens. Used in e2. Get it before The Nail Clock: is your body still building, and how fast?.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in Seams in the Mirror: find the places where you were joined. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in a1. Get it before Seams in the Mirror: find the places where you were joined.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is the stage called when an embryo's cells form three layers? → Gastrulation.
@@ -823,7 +828,7 @@ This Body Is a Universe (sci.body.L5): Topic-level song
 - The DeepKids notebook list for this subtopic: evolution of development, fertilisation and early cleavage, gastrulation and body axis formation, organogenesis, morphogens and gradients, Hox genes and developmental genetics, metamorphosis and regeneration. Every item is covered in the explanations.
 - Notes in ideas/by_topic/growing-up-and-having-young.md: 'Cells and heredity', the stages from fertilisation to birth, the idea that 'growth is a shared project', the Life Spiral drawing and the growth timeline (used in the Embryo Ruler and the flip book), and the card on Rita Levi-Montalcini and chemical signals that guide growing cells.
 - Notes in ideas/by_topic/how-life-began.md on two ways of building an embryo, and the remark that the faster way 'lost the ability to regenerate': the starting point for the debate on why humans do not regrow limbs.
-- The Class 3, 4 and 5 units How babies grow, and the Class 4 and 5 units on how cells divide, which this unit builds on. Their experiments, their stories and the history they tell (preformation, Roux, Driesch, Hilde Mangold) are not repeated.
+- The Class 3, 4 and 5 units How babies grow, and the Class 4 and 5 units on how cells divide, which this lesson builds on. Their experiments, their stories and the history they tell (preformation, Roux, Driesch, Hilde Mangold) are not repeated.
 - OpenStax Biology 2e and Concepts of Biology, sections on early embryonic development and organogenesis, for facts only.
 - Schoenwolf, G. C. and others, Larsen's Human Embryology (timing of gastrulation, neural tube closure, the first heartbeat and limb buds), checked against the UNSW Embryology timeline and the University of Minnesota Atlas of Human Cardiac Anatomy
 - MRC Vitamin Study Research Group, 'Prevention of neural tube defects: results of the Medical Research Council Vitamin Study', The Lancet 338, 1991

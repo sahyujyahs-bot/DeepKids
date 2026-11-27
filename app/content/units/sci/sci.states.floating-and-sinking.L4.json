@@ -194,7 +194,8 @@
    "examples": [
     "A foil ball sinks, but a foil boat floats.",
     "A steel katori floats when it is set on the water with its mouth up, but it sinks when it fills with water.",
-    "A steel ship floats because most of its hull is air."
+    "A steel ship floats because most of its hull is air.",
+    "A weighted doll with a heavy base rocks back upright when you tip it. Its weight sits low, so the weight pulls it back to balance. A straw with clay at one end floats upright in the same way."
    ],
    "art": "Two drawings side by side: a solid steel block sinking and a hollow steel boat floating, with the hollow part drawn as a pocket of air.",
    "perspectives": [
@@ -1293,11 +1294,11 @@
       "t": "mcq",
       "q": "Oil sits on top of water. What does this show about oil?",
       "options": [
-       "Oil is less dense than water",
        "Oil is heavier than water",
+       "Oil is less dense than water",
        "Oil is thicker than water"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A liquid that floats on another liquid is less dense than it. Thickness is a different idea. Honey is thick and oil is thin, but it is density, not thickness, that decides which one floats."
      },
      "think": "What would happen if you poured honey into this glass?",
@@ -1543,11 +1544,11 @@
       "t": "mcq",
       "q": "When you squeeze the bottle, the diver sinks. Why?",
       "options": [
-       "The air inside it is squashed, so it pushes aside less water",
        "The water gets heavier",
+       "The air inside it is squashed, so it pushes aside less water",
        "The clay gets heavier"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Squeezing pushes water into the cap and squashes the air. The diver pushes aside less water, so the upthrust gets smaller and the diver sinks. When you let go, the air springs back and the diver rises."
      },
      "parent": "If the diver does not move, squeeze harder, or take a little clay off. If it sinks and stays down, use a little less clay next time. A bubble of air left at the top of the bottle makes it hard to squeeze the diver down, so top up the bottle to the brim. Some divers do not work at first. Add or remove a tiny bit of clay and try again. To measure how your diver does, count how many seconds it takes to reach the bottom, or try to hold it in the middle of the bottle for ten seconds.",
@@ -1682,11 +1683,11 @@
      "t": "mcq",
      "p": "Which is the best reason a big steel ship floats?",
      "opts": [
-      "Most of its hull is air, so the ship is lighter than the water it pushes aside",
       "Steel is lighter than water",
-      "The sea is always pushing the ship up by magic"
+      "The sea is always pushing the ship up by magic",
+      "Most of its hull is air, so the ship is lighter than the water it pushes aside"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Steel itself is much denser than water. But a ship is a hollow shape full of air. The whole ship, steel and air together, is lighter than the water it pushes aside.",
      "outcome": 1
     },
@@ -1694,11 +1695,11 @@
      "t": "mcq",
      "p": "What does the word density tell you about a material?",
      "opts": [
-      "How much stuff is packed into a certain space",
       "How hot the material is",
+      "How much stuff is packed into a certain space",
       "How shiny the material is"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Density is mass divided by volume. A dense material is heavy for its size.",
      "outcome": 0
     },
@@ -1794,11 +1795,11 @@
      "t": "mcq",
      "p": "A ball of foil sinks, but a foil boat made from the same foil floats. Why?",
      "opts": [
-      "The boat holds air and pushes aside more water",
       "The boat is made of lighter foil",
-      "Water likes boats better than balls"
+      "Water likes boats better than balls",
+      "The boat holds air and pushes aside more water"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The foil is the same, but the boat has a hollow shape with air in it. It pushes aside much more water than the ball does, so the upthrust is bigger.",
      "outcome": 1
     },
@@ -1903,11 +1904,11 @@
      "t": "mcq",
      "p": "A small block has a volume of 10 millilitres and a mass of 8 grams. 10 millilitres of water has a mass of 10 grams. What will the block do in water?",
      "opts": [
-      "Float, because it is lighter than the same amount of water",
       "Sink, because it is solid",
-      "Hover in the middle"
+      "Hover in the middle",
+      "Float, because it is lighter than the same amount of water"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The block has less mass than the same volume of water. That means it is less dense than water, so it floats.",
      "outcome": 0
     },
@@ -2001,11 +2002,11 @@
      "t": "mcq",
      "p": "A ship sits lower in a river than in the sea. Why?",
      "opts": [
-      "River water is less dense than sea water, so the ship must push aside more of it",
       "The river is warmer",
+      "River water is less dense than sea water, so the ship must push aside more of it",
       "The sea pulls the ship up"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The ship must push aside water that weighs as much as the ship. Fresh water is less dense, so the ship sinks a little deeper to push aside enough.",
      "outcome": 3
     },
@@ -2070,11 +2071,11 @@
      "t": "mcq",
      "p": "Which change would let a foil boat carry more cargo?",
      "opts": [
-      "A bigger hollow space that holds more air",
       "A thicker layer of foil",
-      "Making the base rough"
+      "Making the base rough",
+      "A bigger hollow space that holds more air"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A bigger hollow space holds more air and pushes aside more water. More water pushed aside means more upthrust, and more cargo can be carried.",
      "outcome": 1
     },
@@ -2102,6 +2103,13 @@
      "a": "It leaves out the size. A big lemon can weigh more than a small potato. What matters is how heavy each one is for its size, which is its density.",
      "why": "A strong answer points out that weight alone does not settle it, and mentions size or density.",
      "outcome": 0
+    },
+    {
+     "t": "write",
+     "p": "A straw has clay at one end and floats upright. A gust tips it over. Explain what brings it back upright. Then say what would happen if the clay were moved to the top.",
+     "lines": 3,
+     "a": "The clay is heavy and sits low, so its weight pulls the straw back to upright. If the clay were at the top, the straw would tip over more easily, because the heavy part would be high.",
+     "why": "A strong answer says the heavy part is low, that its weight pulls the straw back, and that a high weight makes it tip."
     }
    ]
   },
@@ -2130,11 +2138,11 @@
      "t": "mcq",
      "p": "A block of wood floats with three quarters of itself under the water. What does this tell you about the wood?",
      "opts": [
-      "It is less dense than water, but not by a lot",
       "It is much lighter than water",
-      "It is denser than water"
+      "It is denser than water",
+      "It is less dense than water, but not by a lot"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Most of the block is under the water, so the wood is close to the density of water. A much lighter wood, such as balsa, would sit higher.",
      "outcome": 0
     },
@@ -2286,11 +2294,11 @@
      "t": "mcq",
      "p": "A hot air balloon rises. Which sentence is correct?",
      "opts": [
-      "The hot air inside is less dense than the cooler air outside",
       "The hot air is heavier than the cooler air",
-      "The balloon is pulled up by the Sun"
+      "The balloon is pulled up by the Sun",
+      "The hot air inside is less dense than the cooler air outside"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Heating makes air expand, so the same amount of air takes up more room and is less dense. The balloon rises in the denser, cooler air around it.",
      "outcome": 5
     },
@@ -2328,11 +2336,11 @@
    "t": "mcq",
    "p": "A solid cube takes up the same space as 100 millilitres of water, but weighs 120 grams. 100 millilitres of water weighs 100 grams. What will the cube do?",
    "opts": [
-    "Sink",
     "Float",
-    "Hover in the middle"
+    "Hover in the middle",
+    "Sink"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The cube is heavier than the same amount of water, so it is denser, and it sinks.",
    "outcome": 0
   },
@@ -2340,11 +2348,11 @@
    "t": "mcq",
    "p": "What changes when you fold a foil ball into a foil boat?",
    "opts": [
-    "It pushes aside more water, because it holds a big space of air",
     "The foil gets lighter",
-    "The foil becomes a different material"
+    "The foil becomes a different material",
+    "It pushes aside more water, because it holds a big space of air"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The foil is the same. The hollow shape holds air, and the shape pushes aside more water, so the upthrust is bigger.",
    "outcome": 1
   },
@@ -2364,11 +2372,11 @@
    "t": "mcq",
    "p": "You want a fair test of three boat shapes. What must be the same for all three boats?",
    "opts": [
-    "The size of the foil, the water, and the way the coins are added",
     "The shape of the boat",
+    "The size of the foil, the water, and the way the coins are added",
     "The number of coins each one carries"
    ],
-   "a": 0,
+   "a": 1,
    "why": "In a fair test, only one thing changes. Here the shape changes, so everything else, including the foil size and the loading, must stay the same.",
    "outcome": 2
   },
@@ -2376,11 +2384,11 @@
    "t": "mcq",
    "p": "One boat carries 12, 14 and 13 coins in three tries. What does this show?",
    "opts": [
-    "The result is steady, so we can trust it",
     "The boat is broken",
-    "The test is not fair"
+    "The test is not fair",
+    "The result is steady, so we can trust it"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Results that are close together show the test gives about the same answer each time, so we can trust it.",
    "outcome": 2
   },
@@ -2388,11 +2396,11 @@
    "t": "mcq",
    "p": "In which water is it easiest to float?",
    "opts": [
-    "Very salty water",
     "Warm tap water",
+    "Very salty water",
     "Cold fresh water"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Salt makes water denser, and denser water pushes up harder. This is why people float easily in the Dead Sea.",
    "outcome": 3
   },
@@ -2400,11 +2408,11 @@
    "t": "mcq",
    "p": "A potato hovers in the middle of a glass of salty water. What does this mean?",
    "opts": [
-    "The potato and the water are about equally dense",
     "The potato is much lighter than the water",
+    "The potato and the water are about equally dense",
     "The potato is much heavier than the water"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A thing that is denser would sink. A thing that is less dense would float. Hovering means they have about the same density.",
    "outcome": 3
   },
@@ -2412,11 +2420,11 @@
    "t": "mcq",
    "p": "Why does ice float on water?",
    "opts": [
-    "Ice is less dense than liquid water",
     "Ice is colder than water",
-    "Ice is smaller than water"
+    "Ice is smaller than water",
+    "Ice is less dense than liquid water"
    ],
-   "a": 0,
+   "a": 2,
    "why": "When water freezes, it takes up more space. The same amount of water is less dense as ice, so ice floats.",
    "outcome": 4
   },
@@ -2424,11 +2432,11 @@
    "t": "mcq",
    "p": "You pour oil, water and honey slowly into a glass. Which layer is on top?",
    "opts": [
-    "The oil",
     "The water",
+    "The oil",
     "The honey"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Oil is the least dense of the three, so it floats on top. Honey is the densest, so it sinks to the bottom.",
    "outcome": 4
   },
@@ -2448,13 +2456,26 @@
    "t": "mcq",
    "p": "Many people believe that heavy things sink. A steel ship floats. What does this show about the pattern?",
    "opts": [
-    "The pattern is not always true, so it must be tested",
     "The ship is not really heavy",
+    "The pattern is not always true, so it must be tested",
     "The pattern is always true"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A pattern is something you notice, not a rule you can trust yet. One clear exception, such as a ship, shows that the pattern is incomplete and needs testing.",
    "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "A straw with clay at one end floats on water, then a gust tips it over. What brings it back upright?",
+   "opts": [
+    "The air inside the straw pushes it sideways",
+    "The water warms up, and the straw rights itself",
+    "Its heavy end sits low, so its weight pulls it back to upright",
+    "The straw gets lighter at the top"
+   ],
+   "a": 2,
+   "outcome": 1,
+   "why": "The clay is heavy and sits low, so the weight pulls the straw back to upright. Air inside and warm water do not balance a floating straw."
   }
  ],
  "videos": [
@@ -2743,6 +2764,56 @@
     "a3",
     "p1"
    ]
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Foil Boats: which shape carries the most coins?, Make a Hydroscope: a floating density meter, Cargo Ship: carry the most coins with one sheet of foil. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "a3",
+    "c1"
+   ],
+   "plan": "Get it before Foil Boats: which shape carries the most coins?."
+  },
+  {
+   "id": "b-food-colour",
+   "item": "Food colour",
+   "kind": "material",
+   "why": "Used in Density Tower: three liquids that will not mix. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it.",
+   "url": "https://www.amazon.in/s?k=food+colour+liquid",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Get it before Density Tower: three liquids that will not mix."
+  },
+  {
+   "id": "b-marbles--a-few",
+   "item": "Marbles (a few)",
+   "kind": "material",
+   "why": "Used in Make a Hydroscope: a floating density meter, Bottle Diver: a diver that sinks when you squeeze. About ₹10 to ₹40. Small round stones or dried chana.",
+   "url": "https://www.amazon.in/s?k=glass+marbles+pack",
+   "used_in": [
+    "a3",
+    "p1"
+   ],
+   "plan": "Get it before Make a Hydroscope: a floating density meter."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

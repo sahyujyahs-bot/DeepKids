@@ -1,0 +1,60 @@
+# DeepKids - Science - Grade Concepts / Sheet12 (copied from Google Sheets, 2026-11-27)
+R1:  |  |  |  | Tile Number | Region Name | Region Quip | Gravity Well | Over Turn Force Card | Tag
+R2:  |  |  |  | 0 | Core | Gravity 0, Time Stops | Lose 2 Turns | Nil | Turn Loss
+R3:  |  |  |  | 1 | Mantle | Time Slows | Lose 1 Turn | Elastic Energy Or Magnetic Energy | Turn Loss
+R4:  |  |  |  | 2 | Mantle | Low Gravity & Opposing Force - Slow Descent | Drop to Tile 1 | Neutral Pull | Downfall
+R5:  |  |  |  | 3 | Mantle | High Viscocity Layer - Movement Slow | Lose 1 Turn | Buoyancy Card | Turn Loss
+R6:  |  |  |  | 4 | Mantle | Slow flowing solid rock layer  | Safe Spot | Nil | Safe
+R7:  |  |  |  | 5 | Crust | Brittle - Could cave in with weight | Roll Dice Again, If Even - Jump To Tile 14; If Odd - Drop to tile 5 | Nil | Opportunity Or DownFall
+R8:  |  |  |  | 6 | Crust | An Earthquake shock absorbed | Lose 1 Turn | Physical Work Card | Turn Loss
+R9:  |  |  |  | 7 | Crust | Gravity increasing, climbing out difficult | Play Any 2 Cards To Move From Here  | Nil | A card to move
+R10:  |  |  |  | 8 | Crust | Rock layers keep shifting | Roll dice & move as many steps back | Normal Force Card | Downfall
+R11:  |  |  |  | 9 | Crust | Platform for Life | Safe Spot | Nil | Safe
+R12:  |  |  |  | 10 | Surface | Space Expeditions Start here | Play  magnetic energy & Air Lift to jump to Tile 14 | Nil | Opportunity
+R13:  |  |  |  | 11 | Surface | Granite Mountain - Below surface density high -Gravity high | Drop To Tile 7 | ? | Downfall
+R14:  |  |  |  | 12 | Surface | Ocean - Surface density too low to hold you against gravity | Sink ,Die and be reborn in Tile 0 | COG Or Physical Work | Death
+R15:  |  |  |  | 13 | Surface | Starting Point | If round>1, escape gravity to the ISS on LEO by playing a Escape Velocity & Sideways Velocity | Nil | Opportunity
+R16:  |  |  |  | 14 | Surface | Himalayas - High altitude, low surface density, low gravity | Play an Elastic Energy & Sideways Velocity to reach Tile 29 | Nil | Opportunity
+R17:  |  |  |  | 15 | Surface | Treacherous Ocean | Sink, die and be reborn in Tile 0 | COG or Buoyancy Card Or Physical Work | Death
+R18:  |  |  |  | 16 | Surface | Cliff Edge | Drop to Tile 9 | COG | DownFall
+R19:  |  |  |  | 17 | Surface | Pull Of Gravity is highest | Play Any 2 Cards To Move From Here  | Nil | A Card to Move
+R20:  |  |  |  | 18 | Troposphere | All Weather & Rains Happen here | Safe Spot | Nil | Safe
+R21:  |  |  |  | 19 | Troposphere | Drag Storm - Intense air resistance | Lose 2 Turns | Weight Card  Or Magnetic or Elastic | Turn Loss
+R22:  |  |  |  | 20 | Troposphere | Storm Forming | Roll dice again , if even goto 27, if odd, go to 17 | Nil | Opportunity Or DownFall
+R23:  |  |  |  | 21 | Troposphere | Temperature & Pressure drops as you go up | Play Any 2 Cards To Move From Here  | Nil | A Card to Move
+R24:  |  |  |  | 22 | Troposphere | Breathing is not easy | Drop To Tile 10 | Air Lift Card | DownFall
+R25:  |  |  |  | 23 | Troposphere | Airplane Crossing - Strong Horizontal Wind | Drop to Tile 18 | Air Resistance | DownFall
+R26:  |  |  |  | 24 | Stratosphere | Thin Air- Cannot Provide Lift |  Drop to Tile 16 | Air Lift Or Normal Force or Air Reistance | DownFall
+R27:  |  |  |  | 25 | Stratosphere | Ozone Absorbs UV- Temperature Rises | Lose 1 Turn | Nil | Turn Loss
+R28:  |  |  |  | 26 | Stratosphere | Parachutes Dont Work | Lose 2 Turns | Buyonacy | Turn Loss
+R29:  |  |  |  | 27 | Stratosphere | Stable Weather Free Layer | Safe Spot | Nil | Safe
+R30:  |  |  |  | 28 | Stratosphere | Low Air Resistance - Faster Drop | Drop to Tile 21 | Sideways Velocity  | DownFall
+R31:  |  |  |  | 29 | Stratosphere | Gravity Almost Same As Surface | Lose 1 Turn | Air Resistance | Turn Loss
+R32:  |  |  |  | 30 | Stratosphere | Military Jets Crossing | Drop to Tile 27 | Escape Velocity Card | DownFall
+R33:  |  |  |  | 31 | Mesosphere | Thin Air - Cannot Breathe | Drop to Tile 27 | Knowledge Card  | DownFall | Air Res
+R34:  |  |  |  | 32 | Mesosphere | Gravity, Turbulence & Friction From Meteor Heating | Drop to Tile 24 | Air Lift Or Normal Force or Air Reistance | DownFall | Air Lift
+R35:  |  |  |  | 33 | Mesosphere | Space Glow Highest Clouds  | Drop to tile 25 | Knowledge Card  | DownFall
+R36:  |  |  |  | 34 | Mesosphere | Meteor Drag Zone | Drop to Tile 21 | Weight Card  Or Magnetic or Elastic | DownFall | Buoyancy | Surface
+R37:  |  |  |  | 35 | Mesosphere | Stabilizes Global Temperature | Safe Spot | Nil | Safe
+R38:  |  |  |  | 36 | Mesosphere | Pressure & Air Densite Too Low | Play Any 2 Cards To Move From Here  | Nil | A Card to Move | Normal Force | Surface
+R39:  |  |  |  | 37 | Mesosphere | Extreme Temperature Gradient - Turbulence | Drop to Tile 29 | Sideways Velocity  | DownFall
+R40:  |  |  |  | 38 | Mesosphere | Gravitas Well - Your own gravity surge momentarily | Every other player to move 3 steps closer to you | Nil | Gravitas | Weight | Core & Mantle?
+R41:  |  |  |  | 39 | Mesosphere | Coldest - Temperature Starts Dropping Again | Play Any 2 Cards To Move From Here  | Nil | A Card to Move | Physical Work
+R42:  |  |  |  | 40 | Thermosphere | Auroras - Charged Particles Here |  Play A Elastic & Magnetic Energy to jump to LEO | Nil | Opportunity
+R43:  |  |  |  | 41 | Thermosphere | High Energy Frontier | Drop to Tile 35 | Weight | DownFall | COG
+R44:  |  |  |  | 42 | Thermosphere | Near Vaccum | Drop to Tile 35 | Physical Work or Espace Velocity | DownFall | Neutral Pull
+R45:  |  |  |  | 43 | Thermosphere | Planetary Alignment | Roll Dice Again, Even - Jump to LEO, Odd - Death, Drop To Tile 1 | Knowledge Card | Opportunity Or Death
+R46:  |  |  |  | 44 | Thermosphere | Extreme UV - But You Wont Feel  | Safe Spot | Nil | Safe | Sideways V |  | Opportunity
+R47:  |  |  |  | 45 | Game End Goal 1 | ISS - LEO | Roll A 1 On Dice To Move to Tile 47 If Continuing | Nil | - | Escape V
+R48:  |  |  |  | 46 | Thermosphere | Gravitas Well - Your own gravity surge momentarily | You can pull any player closer to you or you jump to Tile 48 | Nil | Gravitas
+R49:  |  |  |  | 47 | Thermosphere | GPS Signals Refracting | Lose A Turn | Nil | Turn Loss | Mag
+R50:  |  |  |  | 48 | Exosphere | Edge Of Space | Play a Neutral pull card to reach L1 | Nil | Opportunity | Elastic
+R51:  |  |  |  | 49 | Exosphere | Air Pressure & Density Almost 0 | Drop to Tile 39 | Knowledge | DownFall | Knowledge
+R52:  |  |  |  | 50 | Exosphere | Safe Spot | Nil | Nil | Safe
+R53:  |  |  |  | 51 | Exosphere | Escaping Earth's Gravity Easiest | Play a Neutral pull card to reach L1 | Nil | Opportunity
+R54:  |  |  |  | 52 | Exosphere | Temperature Is Mwaningless | Play Any 2 Cards To Move From Here  | Nil | A Card to Move
+R55:  |  |  |  | 53 | Exosphere | Final Layer of Atmosphere | Play a Neutral pull card to reach L1 | Nil | Opportunity
+R56:  |  |  |  | 54 | L1 | Earth Moon Lagrange Point 1 | Roll A 3 to Move to L2 | Nil | Roll to Move
+R57:  |  |  |  | 55 | L2 | Earth Moon Lagrange Point 2 | Roll A 1 to Move to L3 | Nil | Roll to Move
+R58:  |  |  |  | 56 | L3 | Sun Earth Lagrange Point 1 | Roll A 1 to move to L4 | Nil | Roll to Move
+R59:  |  |  |  | 57 | L4 | Sun Earth Lagrange Point 1 | Game End Goal 2 | Game Done | Game Done

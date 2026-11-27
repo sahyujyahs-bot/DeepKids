@@ -1,9 +1,9 @@
 # Storing food safely: how microbes spoil it, and when to take extra care
 `sci.food.food-safety.L5`
 
-**Summary.** A small pot of dal is usually fine in the morning, but a big wedding pot of the same dal can make a hundred guests ill. Why? In this unit you will heap hot rice and spread it out and time how long each stays hot, and watch what spoils food in sealed bags.
+**Summary.** A small pot of dal is usually fine in the morning, but a big wedding pot of the same dal can make a hundred guests ill. Why? In this lesson you will heap hot rice and spread it out and time how long each stays hot, and watch what spoils food in sealed bags.
 
-**Intro.** *Two pots of dal are boiled for the same time and covered. By morning the small pot is safe and the big pot may not be. What did the size of the pot change?* Most people think that food is safe if it was cooked well and covered. Cooking kills most microbes, but a few kinds survive boiling as tough spores. When the food cools to a warm temperature, the spores wake up and multiply. How long the food stays warm then matters more than how well it was cooked. In this unit you time how long the middle of a heap of rice stays hot. You work out how many bacteria ten bacteria become in six hours at three temperatures. You find out which microbes spoil which foods, and how damp grain grows a mould that makes a poison. You also plan a meal for a baby, a grandmother and a pregnant aunt at one table.
+**Intro.** *Two pots of dal are boiled for the same time and covered. By morning the small pot is safe and the big pot may not be. What did the size of the pot change?* Most people think that food is safe if it was cooked well and covered. Cooking kills most microbes, but a few kinds survive boiling as tough spores. When the food cools to a warm temperature, the spores wake up and multiply. How long the food stays warm then matters more than how well it was cooked. In this lesson you time how long the middle of a heap of rice stays hot. You work out how many bacteria ten bacteria become in six hours at three temperatures. You find out which microbes spoil which foods, and how damp grain grows a mould that makes a poison. You also plan a meal for a baby, a grandmother and a pregnant aunt at one table.
 
 ## Learning outcomes
 0. I can name five ways food is lost in storage, and give a kitchen example of each.
@@ -38,6 +38,7 @@
 - **Storage pest**: An insect or other animal who eats stored food. Rice weevils, flour beetles, moths and rats are storage pests. *e.g.* A rice weevil lays her eggs inside grains of rice.
 - **Reheat**: To heat cooked food again before eating. Safe reheating makes the food steaming hot all the way through. *e.g.* Reheat leftover sambar until it bubbles, and stir the middle.
 - **Vulnerable**: More easily harmed than most people. Babies, pregnant women, old people and ill people are more vulnerable to unsafe food. *e.g.* A baby of eight months is vulnerable, so her food is made fresh.
+- **Preservative**: A substance added to food to slow the growth of microbes and the food's own spoiling. *e.g.* Salt in a lime pickle keeps it fit to eat for months, when there is enough salt.
 
 ## Explanations
 ### Five ways food is lost in storage · *defined*
@@ -114,10 +115,17 @@ Rice, wheat and dal are harvested once or twice a year and eaten every day. So s
 - e.g. Rice spread on a terrace in the October sun before it goes back into the bin.
 - e.g. A tall clay or steel grain bin with a tight lid, in a village home in Tamil Nadu or Bihar.
 - e.g. A sealed bag of cowpeas in which the weevils stopped feeding within days.
+### Chemical preservatives: a dose that helps, a dose that harms · *defined*
+**Definition:** A preservative is a substance added to food to slow the growth of microbes and the food's own spoiling. Too little does not stop them, and too much can harm the person who eats it.
+
+Salt, sugar and oil have kept food for a long time in Indian kitchens. A lime pickle in a dry, clean jar keeps well for months, because the salt draws water out of the lime and makes it hard for microbes to live. Some foods are also kept with chemicals such as sodium benzoate or potassium metabisulphite. The right amount slows the microbes. Too little does not stop them. Too much can harm the body. Food laws in India set the amount that may be used for each preservative, and a food maker must keep to that limit.
+- e.g. Salt in a lime pickle keeps microbes from growing, when there is enough of it.
+- e.g. A pickle with too little salt can grow microbes, and then it spoils.
+- e.g. Sodium benzoate and potassium metabisulphite are two chemical preservatives that food law allows in some foods, in set amounts.
 ### Pasteurised milk, UHT milk, tins and the cold chain · *defined*
 **Definition:** Heat kills microbes in food, and a sealed pack or an unbroken line of cold keeps new growth away.
 
-Pouch milk is pasteurised. It is heated to 72 degrees Celsius for 15 seconds, which kills the microbes that cause disease. Some harmless microbes and spores survive, so the pouch must stay cold from the dairy to your kitchen. That line of cold places is called a cold chain. An American chemist, Mary Engle Pennington, worked out many of its rules after 1905. She tested railway wagons that carried food, to see how cold they kept it. Carton milk is treated by UHT, which is heating to about 140 degrees for a few seconds. This kills the spores too, and the carton is filled without letting any microbe in. So it keeps for months on a shelf. A tin of food is heated after it is sealed. A tin or packet that has swollen holds gas made by living microbes. Never open or taste its food.
+Pouch milk is pasteurised. It is heated to 72 degrees Celsius for 15 seconds, which kills the microbes that cause disease. Some harmless microbes and spores survive, so the pouch must stay cold from the dairy to your kitchen. That line of cold places is called a cold chain. An American chemist, Mary Engle Pennington, worked out many of its rules after 1905. She tested railway wagons that carried food, to see how cold they kept it. Carton milk is treated by UHT, which is heating to about 140 degrees for a few seconds. This kills the spores too, and the carton is filled without letting any microbe in. So it keeps for months on a shelf. A tin of food is heated after it is sealed. A tin or packet that has swollen holds gas made by living microbes. Never open or taste its food. Freezing does not kill microbes. It only stops them growing, and they start again when the food melts. So food that has melted must not be frozen again.
 - e.g. India's milk cold chain begins at a village cooler. There the milk is chilled to 4 degrees Celsius within hours of milking.
 - e.g. An opened UHT carton is like pouch milk: keep it in the fridge and finish it in two days.
 - e.g. Ice cream that has melted and frozen again has ice crystals in it, a sign that the cold chain broke.
@@ -171,7 +179,7 @@ Many families wait until food reaches room temperature before it goes in the fri
   Against: The spores of some bacteria survive boiling. They wake when the food cools to a warm temperature, and a lid does not stop them. Only time and temperature do.
 
 ## Roots
-In this unit you timed how long the middle of a heap of hot rice stayed hot. Here we ask what that test says about food, about microbes and about your own body.
+In this lesson you timed how long the middle of a heap of hot rice stayed hot. Here we ask what that test says about food, about microbes and about your own body.
 
 **Deep truth.** In Deep or Shallow, the spread rice cooled in minutes, but the middle of the heap stayed hot. Heat leaves food only through the surface, and the middle of a heap is far from the surface. Microbes multiply fastest in food that stays warm for hours. So the shape and size of a heap of food help decide how safe the food stays.  
 *Habit it breaks:* We think that safety is inside the food: it is clean or dirty, fresh or stale, cooked or raw. But two helpings of the same rice from the same pot can end up different. What happens to food also depends on its shape, its size and the hours it has spent warm.  
@@ -181,7 +189,7 @@ In this unit you timed how long the middle of a heap of hot rice stayed hot. Her
 - *what is life:* A bacterium is so small that every part of them is close to their surface. Food gets in quickly and waste gets out quickly. That is one reason the smallest living beings multiply the fastest.
 - *what is this world:* The same rule works for a planet. The Earth is so big that its middle is still hot after four and a half billion years. A small asteroid cooled long ago.
 
-The rice on the plate and the rice in the bowl were the same rice, with the same few spores. Nothing about the rice made one safer than the other. The difference lay in how far each grain was from the air. So what happens to a thing depends on what it is made of. It also depends on how the thing meets the world around it. Many sages taught that nothing exists by itself, apart from everything else. This unit shows one exact case of that idea. The middle of a heap is what it is because of all the rice around it.
+The rice on the plate and the rice in the bowl were the same rice, with the same few spores. Nothing about the rice made one safer than the other. The difference lay in how far each grain was from the air. So what happens to a thing depends on what it is made of. It also depends on how the thing meets the world around it. Many sages taught that nothing exists by itself, apart from everything else. This lesson shows one exact case of that idea. The middle of a heap is what it is because of all the rice around it.
 
 - **Bhagavad Gita 17.10:** “यातयामं गतरसं पूति पर्युषितं च यत्। / उच्छिष्टमपि चामेध्यं भोजनं तामसप्रियम्।।” The verse lists the foods that a dull and heavy mind prefers. One well-known commentary reads the first food on the list as food cooked more than one watch ago. A watch is about three hours. (On that reading, the verse sets a time limit on cooked food. The limit is near the two-hour rule of food safety. The Gita is speaking about the mind and its qualities. It does not speak about microbes, which nobody had seen.)
 - **J. B. S. Haldane, the essay 'On Being the Right Size' (1926):** A change in size changes what a body can do. An elephant has far less skin for each kilogram of body than a mouse has. So the elephant loses heat slowly, and the mouse must eat all day to stay warm. (Haldane wrote about mice and elephants. The same rule makes a wedding pot cool more slowly than a katori. Haldane later lived and worked in Kolkata and Bhubaneswar.)
@@ -589,9 +597,9 @@ Mallika did not look up from the fire.
   - Check: The fridge holds half a packet of older milk. Where does a new packet of milk go? → **Behind the older packet**
 
 ## Worksheets
-### How food is lost, and where it keeps (core, 15 questions)
+### How food is lost, and where it keeps (core, 16 questions)
 1. (mcq) A biscuit left open in the monsoon turns soft. In which way was it lost?  
-   Options: Water moved in from the air / Microbes ate the biscuit / The biscuit's own life went on / Pests got in  
+   Options: Microbes ate the biscuit / The biscuit's own life went on / Water moved in from the air / Pests got in  
    **Answer:** Water moved in from the air. *Why:* A dry biscuit takes in water from damp air and turns soft. No microbe is needed. Microbes would leave mould, slime or a bad smell.
 2. (match) Match each sign to the way the food was lost.  
    **Answer:** Slime on old rice → Microbes ate the food; A shoot on a potato → The food's own life went on; Small beetles in the atta → Pests got in; A sharp smell from old oil → Air and warmth changed it; A hard, dry chapati → Water moved out. *Why:* Each way of losing food leaves its own sign. Reading the sign tells you which kind of storage would have saved the food.
@@ -600,35 +608,37 @@ Mallika did not look up from the fire.
 4. (truefalse) Food that looks and smells fine is always safe to eat.  
    **Answer:** False. *Why:* False. Spoilage microbes change the look and smell. Many harmful bacteria and toxins change nothing. Safety depends on how warm the food was kept, and for how long.
 5. (mcq) Which microbes are most likely to spoil a bowl of wet cooked rice first?  
-   Options: Bacteria / Moulds / Yeasts / Weevils  
+   Options: Moulds / Yeasts / Weevils / Bacteria  
    **Answer:** Bacteria. *Why:* Bacteria multiply fastest on wet food that is not sour. Moulds are slower, and they win only on drier or sourer food. Weevils are insects, and they eat dry grain.
 6. (sort) Sort these foods by the place where each keeps best.  
    **Answer:** cooked dal → Fridge; milk → Fridge; rice → Dry, airtight dabba; atta → Dry, airtight dabba; potatoes → Cool, dark, airy basket; onions → Cool, dark, airy basket. *Why:* Cooked dal and milk are perishable, so they need cold. Rice and atta are lost to damp and pests, so they need a dry, sealed place. Potatoes and onions are alive, so they need dark and moving air.
 7. (truefalse) Freezing kills the microbes in food.  
    **Answer:** False. *Why:* False. Freezing stops microbes from multiplying, but most stay alive. They start again when the food thaws.
-8. (mcq) Why is cooked food cooled in shallow vessels?  
-   Options: Every part is near the surface / Shallow vessels are cleaner / Thin food tastes better / The fridge holds more of them  
+8. (fill) A chemical added to food to slow the growth of microbes is called a ____.  
+   **Answer:** ['preservative']. *Why:* A preservative keeps food for longer when it is used in the right amount. Too little does not stop the microbes, and too much can harm the eater.
+9. (mcq) Why is cooked food cooled in shallow vessels?  
+   Options: Shallow vessels are cleaner / Thin food tastes better / Every part is near the surface / The fridge holds more of them  
    **Answer:** Every part is near the surface. *Why:* Heat leaves food only through the surface. In a shallow layer no part is far from the surface, so the whole of the food cools fast.
-9. (fill) The range of temperature from about 5 to 60 degrees Celsius is called the ____ zone.  
+10. (fill) The range of temperature from about 5 to 60 degrees Celsius is called the ____ zone.  
    **Answer:** ['danger']. *Why:* Bacteria multiply in the danger zone, fastest between 20 and 45 degrees Celsius. Cooked food should spend no more than about two hours there.
-10. (write) In Deep or Shallow, the plate rice cooled long before the middle of the bowl. Explain why.  
+11. (write) In Deep or Shallow, the plate rice cooled long before the middle of the bowl. Explain why.  
    **Answer:** Heat leaves rice only through the surface. On the plate every grain is near the surface. In the bowl, heat from the middle must pass from grain to grain to reach the outside. That is slow.. *Why:* A strong answer says where heat leaves. It compares how far the heat must travel on the plate and in the bowl.
-11. (write) A family cooks dal at 1 o'clock and eats it again at 8. Write what they should do in between.  
+12. (write) A family cooks dal at 1 o'clock and eats it again at 8. Write what they should do in between.  
    **Answer:** Put the leftover dal in a shallow covered vessel. Get it into the fridge by 3 o'clock, which is within two hours. At 8, reheat only what they will eat until it bubbles, and stir the middle.. *Why:* A strong answer has three parts: cool it fast, chill it within two hours, and reheat it until steaming.
-12. (draw) Draw a slice of bread cut through, with a mould growing on it. Label the hyphae and the spores.  
+13. (draw) Draw a slice of bread cut through, with a mould growing on it. Label the hyphae and the spores.  
    **Answer:** A fuzzy patch on top of the slice. Fine threads, the hyphae, run from the patch down into the bread. Small coloured dots on stalks above the patch hold the spores.. *Why:* A strong drawing shows that the hyphae reach deeper than the patch you can see.
-13. (perspective) Should hot leftover dal go straight into the fridge?  
+14. (perspective) Should hot leftover dal go straight into the fridge?  
    **Answer:** Any view with a reason. For the officer: bacteria double every 20 minutes in warm food. For the grandmother: a big hot pot does warm a fridge. A strong answer may say that the amount of food decides.. *Why:* This is a real disagreement between kitchens and food safety agencies. A strong answer uses the two-hour rule and says what a big pot does to a fridge.
-14. (order) Put these in order, from the food that keeps for the shortest time to the longest.  
+15. (order) Put these in order, from the food that keeps for the shortest time to the longest.  
    **Answer:** ['Cooked dal on the counter', 'Curd in the fridge', 'Onions in an airy basket', 'Dry rice in an airtight bin']. *Why:* Warm, wet dal lasts about two hours. Cold, sour curd lasts about a week. Onions last about two months, and dry rice about two years. Dryness protects longest.
-15. (mcq) Who needs the most care with food at a family meal?  
-   Options: A baby of 8 months / A healthy girl of 10 / A healthy man of 30 / A football player of 20  
+16. (mcq) Who needs the most care with food at a family meal?  
+   Options: A healthy girl of 10 / A healthy man of 30 / A baby of 8 months / A football player of 20  
    **Answer:** A baby of 8 months. *Why:* A baby has less stomach acid, defences that are still learning, and a small body that loses water fast. The other three are healthy and well past babyhood.
-### Time, temperature and extra care (stretch, 15 questions)
+### Time, temperature and extra care (stretch, 16 questions)
 1. (count) Ten bacteria double every 20 minutes. How many are there after 2 hours?  
    **Answer:** 640. *Why:* Two hours hold six lots of 20 minutes. 10 doubles to 20, 40, 80, 160, 320 and 640.
 2. (mcq) Bacteria wait before they start to multiply in new food. What is this wait called?  
-   Options: Lag time / Doubling time / Shelf life / Danger zone  
+   Options: Doubling time / Shelf life / Danger zone / Lag time  
    **Answer:** Lag time. *Why:* The lag time is the wait before doubling begins. Doubling time is how long one doubling takes once they have started.
 3. (write) Dal sat out for one hour at lunch and one hour at dinner. Why do the two hours add up?  
    **Answer:** The bacteria that multiplied at lunch are still in the dal. The fridge only stopped them for a while. At dinner they go on doubling from where they stopped.. *Why:* A strong answer says that cold pauses bacteria and does not remove them, so the count carries on.
@@ -642,28 +652,30 @@ Mallika did not look up from the fire.
 7. (mcq) A power cut lasts 3 hours and the fridge door stays shut. What about the milk inside?  
    Options: It is still cold enough to keep / It must be thrown away / It has turned to curd / It has frozen  
    **Answer:** It is still cold enough to keep. *Why:* A closed fridge stays cold for about four hours. Opening the door lets the cold air out, so the door stays shut.
-8. (write) In Three Sealed Bags, wet rice turned slimy and bread turned fuzzy. Explain why they spoiled differently.  
+8. (truefalse) Food that has melted in a power cut can be frozen again, if it still looks cold.  
+   **Answer:** False. *Why:* Melting lets microbes start growing again. A cold look does not mean they have stopped. Food that has melted must not be frozen again.
+9. (write) In Three Sealed Bags, wet rice turned slimy and bread turned fuzzy. Explain why they spoiled differently.  
    **Answer:** Different microbes won on each food. Bacteria need plenty of free water, and they made the slime on the wet rice. Bread is too dry for most bacteria, so slower moulds grew on it as fuzzy threads.. *Why:* A strong answer names the microbe for each food. It says why that food suits that microbe.
-9. (sort) Sort these. Does each one kill most microbes, or only stop them from multiplying?  
+10. (sort) Sort these. Does each one kill most microbes, or only stop them from multiplying?  
    **Answer:** boiling → Kills most microbes; pressure cooking → Kills most microbes; UHT heating → Kills most microbes; a fridge → Only stops them multiplying; a freezer → Only stops them multiplying; drying → Only stops them multiplying. *Why:* Heat kills. Cold and dryness only take away what microbes need to multiply. When the food warms up or gets wet, the microbes start again.
-10. (perspective) A wedding cook finds that 30 kilograms of boiled dal stayed warm all night. Should she serve it?  
+11. (perspective) A wedding cook finds that 30 kilograms of boiled dal stayed warm all night. Should she serve it?  
    **Answer:** Any view with a reason. Against serving: the middle of a big pot stays in the danger zone all night, and some toxins survive heat. For serving: food is precious, and nobody can show that this dal is unsafe. A strong answer weighs who would be harmed.. *Why:* This is a real choice that cooks face. A strong answer uses the science of cooling, and is honest that nobody can be sure about this one pot.
-11. (fill) A tin with a swollen lid holds ____ made by living microbes.  
+12. (fill) A tin with a swollen lid holds ____ made by living microbes.  
    **Answer:** ['gas']. *Why:* Microbes inside a tin make gas as they feed, and the gas pushes the lid out. The food in such a tin must never be opened or tasted.
-12. (label) A deep pot of hot dal has stood for two hours. Label the hottest part and the coolest part.  
+13. (label) A deep pot of hot dal has stood for two hours. Label the hottest part and the coolest part.  
    **Answer:** ['Hottest part: the middle of the pot, far from every surface', 'Coolest part: the top and the sides, where heat leaves']. *Why:* Heat leaves only at the surface, so the outside cools first and the middle cools last.
-13. (mcq) Why does pouch milk need a fridge, while unopened UHT carton milk does not?  
+14. (mcq) Why does pouch milk need a fridge, while unopened UHT carton milk does not?  
    Options: Pasteurising leaves some microbes alive / A pouch is thinner than a carton / UHT milk has a preservative / Pouch milk is fresher  
    **Answer:** Pasteurising leaves some microbes alive. *Why:* Pasteurising at 72 degrees Celsius kills the microbes that cause disease, but some others and their spores survive. UHT heating kills the spores too, and the carton lets no microbe in.
-14. (truefalse) Reheating leftover food once, until it steams in the middle, is a safe habit.  
+15. (truefalse) Reheating leftover food once, until it steams in the middle, is a safe habit.  
    **Answer:** True. *Why:* True, if the food was chilled within two hours. Steaming heat in the middle kills the bacteria that grew slowly in the fridge. Reheating again and again gives them more warm hours.
-15. (write) A lunch box is packed at 7 and eaten at 1. Give two ways to make that lunch safer.  
+16. (write) A lunch box is packed at 7 and eaten at 1. Give two ways to make that lunch safer.  
    **Answer:** Choose a dry or sour food, such as chapati with dry sabzi, lemon rice or curd rice. Cook it that morning, not the night before. Add a cold pack, or use a flask that keeps food very hot.. *Why:* A strong answer gives two changes. Each one cuts the warm hours, or makes the food harder for bacteria to grow in.
 ### Testing ideas about storing food (challenge, 15 questions)
 1. (write) In Dry Enough, salt stuck to the glass in the jar of wetted rice. Explain where the water came from.  
    **Answer:** The water came out of the rice. The rice looked dry, but it still held extra water inside. In the closed jar that water passed into the air, and the dry salt took it up and turned sticky.. *Why:* A strong answer traces the water from the rice, to the air in the jar, to the salt.
 2. (mcq) Why does a mould poison still matter after the mouldy food is cooked?  
-   Options: Cooking does not destroy the poison / Cooking makes the mould grow / The mould hides from the heat / Cooked mould tastes bitter  
+   Options: Cooking makes the mould grow / Cooking does not destroy the poison / The mould hides from the heat / Cooked mould tastes bitter  
    **Answer:** Cooking does not destroy the poison. *Why:* Aflatoxin and some other mould poisons mostly survive roasting and boiling. The heat kills the mould, but most of the poison the mould made stays in the food.
 3. (count) A bowl cools in 1 hour. At double the width it takes 4 hours. And at 4 times the width?  
    **Answer:** 16. *Why:* Four times as wide is twice as wide, and then twice as wide again. So the time is 4 times 4, which is 16 hours.
@@ -676,7 +688,7 @@ Mallika did not look up from the fire.
 7. (write) Birds on many farms fall ill. How could you find out whether a germ or the feed is the cause?  
    **Answer:** Find out what all the ill flocks have in common. If they share one batch of feed, and flocks on other feed stay well, the feed is suspected. Then give that feed to a few healthy birds and see whether they fall ill. If a germ were the cause, ill birds would pass the illness to healthy birds beside them.. *Why:* A strong answer compares ill and healthy flocks, and then tests the suspected cause directly.
 8. (mcq) Weevils are sealed inside an airtight bin of grain. What happens over the next weeks?  
-   Options: The oxygen runs low and they stop feeding / They multiply faster than before / The grain turns to flour / Nothing changes  
+   Options: They multiply faster than before / The grain turns to flour / Nothing changes / The oxygen runs low and they stop feeding  
    **Answer:** The oxygen runs low and they stop feeding. *Why:* The insects and the grain use up the oxygen in the sealed bin. With too little oxygen the weevils stop feeding and die. Farmers store grain in sealed bags for this reason.
 9. (fill) Shops sell the oldest stock first. This rule is called first in, first ____.  
    **Answer:** ['out']. *Why:* First in, first out means the food that arrived first is used first. At home, older food goes to the front and new food behind it.
@@ -687,7 +699,7 @@ Mallika did not look up from the fire.
 12. (write) Why does a nose warn you about spoiled food, but not about the most harmful microbes?  
    **Answer:** A nose picks up the acids and gases that huge numbers of spoilage microbes make. Many harmful bacteria make people ill in small numbers, and they make no smell. Some leave a toxin that has no smell either.. *Why:* A strong answer separates spoilage, which makes smells, from harm, which may make none.
 13. (mcq) Which storage place suits potatoes best?  
-   Options: A dark, airy basket / A sunny window sill / A sealed plastic bag / The freezer  
+   Options: A sunny window sill / A sealed plastic bag / A dark, airy basket / The freezer  
    **Answer:** A dark, airy basket. *Why:* Potatoes are alive. Light turns them green, and the green part holds a poison called solanine. A sealed bag traps damp, so they rot. Freezing breaks their cells.
 14. (truefalse) On a day hotter than 32 degrees Celsius, cooked food should be chilled within one hour.  
    **Answer:** True. *Why:* True. Bacteria double faster as food gets warmer. So food safety agencies shorten the two-hour rule to one hour on very hot days.
@@ -704,13 +716,13 @@ Mallika did not look up from the fire.
    Options: Air and warmth turned the oil rancid / Bacteria ate the nuts / The nuts sprouted / Water moved into the nuts  
    **Answer:** Air and warmth turned the oil rancid. *Why:* The oil in nuts slowly changes in air, light and warmth, and smells rancid. Dry nuts hold too little water for bacteria.
 2. (mcq) How do microbes eat solid food?  
-   Options: They digest it outside their bodies / They bite off small pieces / They wait for it to melt / They breathe it in  
+   Options: They bite off small pieces / They digest it outside their bodies / They wait for it to melt / They breathe it in  
    **Answer:** They digest it outside their bodies. *Why:* A microbe has no mouth. Enzymes cut the food outside the microbe's body, and the small pieces pass in. The leftovers are the sourness, smell and slime of spoiled food.
 3. (mcq) Which food is most likely to grow fuzzy mould, and not slime?  
-   Options: Bread / Cooked dal / Milk / Fish curry  
+   Options: Cooked dal / Bread / Milk / Fish curry  
    **Answer:** Bread. *Why:* Bread is too dry for most bacteria, so moulds spoil it. Dal, milk and fish curry are wet and not sour, so bacteria get there first.
 4. (mcq) Why can cooked food stay out for only about two hours?  
-   Options: Bacteria in warm food keep doubling / The food loses its vitamins / Flies need two hours to find it / The food dries out  
+   Options: The food loses its vitamins / Bacteria in warm food keep doubling / Flies need two hours to find it / The food dries out  
    **Answer:** Bacteria in warm food keep doubling. *Why:* In warm food some bacteria double every 20 minutes. After a short wait, their numbers rise faster and faster.
 5. (mcq) Two cups of hot rice are pressed into a deep bowl. Which part cools last?  
    Options: The middle / The top / The side / The rim  
@@ -721,17 +733,23 @@ Mallika did not look up from the fire.
    Options: In an airtight dabba / In an open basket / In a paper bag near the sink / On the window sill  
    **Answer:** In an airtight dabba. *Why:* Atta takes in damp from monsoon air, and damp atta grows mould and draws insects. An airtight dabba keeps the damp out.
 8. (mcq) Which of these must a baby under one year never be given?  
-   Options: Honey / Mashed idli / Boiled and cooled water / Mashed banana  
+   Options: Mashed idli / Boiled and cooled water / Honey / Mashed banana  
    **Answer:** Honey. *Why:* Honey can hold spores that grow in a baby's gut and make a toxin. The other three are safe foods for a baby.
 9. (mcq) Which meal needs the most care?  
-   Options: Sambar for 200 guests, cooked the night before / Hot dosas eaten straight off the tawa / A banana peeled and eaten / Roasted chana from a dabba  
+   Options: Hot dosas eaten straight off the tawa / Sambar for 200 guests, cooked the night before / A banana peeled and eaten / Roasted chana from a dabba  
    **Answer:** Sambar for 200 guests, cooked the night before. *Why:* A large amount cooked hours ahead cools slowly, and many people will eat it. The other three are fresh and hot, or protected by a peel, or dry.
 10. (mcq) In a fair test of how two vessels cool hot food, what must be different?  
-   Options: Only the shape of the vessel / The amount of food / The room / The thermometer  
+   Options: The amount of food / The room / Only the shape of the vessel / The thermometer  
    **Answer:** Only the shape of the vessel. *Why:* A fair test changes one thing and keeps the rest the same. Then any difference in the result comes from that one thing.
 11. (mcq) Groundnuts stored damp grow a mould. Why is roasting them not enough?  
    Options: The mould's poison survives the heat / Roasting adds water / Mould grows faster when hot / Roasted nuts turn rancid  
    **Answer:** The mould's poison survives the heat. *Why:* The mould makes a poison called aflatoxin. Roasting kills the mould, but most of the poison stays. Mouldy and shrivelled nuts are thrown away.
+12. (mcq) A cook adds far too much preservative to a sauce that will be sold. What might happen?  
+   Options: It makes the sauce safe for ever / It can harm the person who eats the sauce / Nothing, because more preservative is always better  
+   **Answer:** It can harm the person who eats the sauce. *Why:* A preservative works in a set amount. Too much can harm the eater, and too little may not stop the microbes. Food law sets the limit for each one.
+13. (mcq) Dal is frozen, then melts in a power cut. The family freezes it again. What is the problem?  
+   Options: The dal turns sweet / Nothing, because freezing kills every microbe / Microbes that the cold had slowed can start to grow again when the dal melts  
+   **Answer:** Microbes that the cold had slowed can start to grow again when the dal melts. *Why:* Freezing only slows microbes. When the dal melts, they can grow again, and freezing it a second time does not clean the food.
 
 ## Applications
 - Cooks for weddings, temples, gurdwaras and school meals divide hot food into shallow trays. Or they cook it close to serving time.
@@ -805,6 +823,11 @@ Sunlight on My Plate (sci.food.L5): Topic-level song
 ## Things to buy
 - [A digital kitchen thermometer with a metal probe](https://www.amazon.in/s?k=digital+kitchen+thermometer+probe) (tool): It reads from below zero to above 100 degrees Celsius. So you can write real temperatures in Deep or Shallow and Cool the Feast Pot. A digital fever thermometer works too, but it only shows HI above about 43 degrees. Used in e1, c1. 
 - [Tiny Creatures: The World of Microbes, by Nicola Davies, with pictures by Emily Sutton (2014)](https://www.amazon.in/s?k=Tiny+Creatures+The+World+of+Microbes+Nicola+Davies) (book): For parent and child together: a picture book about how small microbes are, how many there are and what they do. Used in a2, e2. Read it after Three Clocks. Find the pages that count microbes, and compare them with your own table.
+- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): Used in Three Sealed Bags: which microbes spoil which food?, The Lost Food Hunt: how was each food lost?. About ₹30 to ₹120. A water drop on clear plastic magnifies a little. Used in e2, a1. Get it before Three Sealed Bags: which microbes spoil which food?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Three Clocks: ten bacteria at three temperatures, Tiffin Timeline: how many hours does one meal spend warm?, Five at the Table: who needs extra care?. About ₹10 to ₹30. Any school ruler is fine. Used in a2, a3, a5, p1. Get it before Three Clocks: ten bacteria at three temperatures.
+- [A kitchen or weighing scale](https://www.amazon.in/s?k=digital+kitchen+weighing+scale) (tool): Used in One Week of Lost Food: measure it, find the causes, change one thing. About ₹300 to ₹700. A home-made balance from a ruler and two cups can compare weights. Used in p1. Get it before One Week of Lost Food: measure it, find the causes, change one thing.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in Three Clocks: ten bacteria at three temperatures. About ₹10 to ₹30. Draw squares on plain paper. Used in a2. Get it before Three Clocks: ten bacteria at three temperatures.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name three of the five ways stored food is lost. → Microbes eat it. Its own life goes on. Pests get in. Air and light change it. Water moves in or out.

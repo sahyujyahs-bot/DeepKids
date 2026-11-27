@@ -1,9 +1,9 @@
 # Hearing: how two ears find where a sound is, and why noise can hide a voice
 `sci.sound.hearing.L4`
 
-**Summary.** Cover one ear and point at a clinking spoon, and your finger goes wrong, though the sound has not changed. Why? In this unit you will draw a map of sounds with your eyes shut, test hearing with one ear, and see how far a whisper reaches in noise.
+**Summary.** Cover one ear and point at a clinking spoon, and your finger goes wrong, though the sound has not changed. Why? In this lesson you will draw a map of sounds with your eyes shut, test hearing with one ear, and see how far a whisper reaches in noise.
 
-**Intro.** *Close your eyes. A friend claps somewhere in the room. Without peeking, point to where the clap came from. Now cover one ear with a cap or your hand and try again. Which time do you point better, and why?* With two ears open, you point well. With one ear covered, you miss by a lot. A sound is just a wave in the air, and it carries no label that says where it came from. Your brain works out the place by comparing what the two ears hear. In this unit you test that yourself. You also find out why a loud sound can hide a quiet one, how the inner ear sorts high and low notes, how hearing aids and signing help people who hear less, and how other animals hear with their knees, their antennae and their jaws.
+**Intro.** *Close your eyes. A friend claps somewhere in the room. Without peeking, point to where the clap came from. Now cover one ear with a cap or your hand and try again. Which time do you point better, and why?* With two ears open, you point well. With one ear covered, you miss by a lot. A sound is just a wave in the air, and it carries no label that says where it came from. Your brain works out the place by comparing what the two ears hear. In this lesson you test that yourself. You also find out why a loud sound can hide a quiet one, how the inner ear sorts high and low notes, how hearing aids and signing help people who hear less, and how other animals hear with their knees, their antennae and their jaws.
 
 ## Learning outcomes
 0. I can explain how two ears tell where a sound is, using the tiny differences in time and loudness between them.
@@ -73,7 +73,7 @@ When a marble drops into water, the ring of ripples gets lower as it spreads, be
 ### Masking: why noise hides a voice · *defined*
 **Definition:** Masking happens when a louder sound makes a quieter sound impossible to hear, even though the quieter sound still reaches the ear. Sounds close in pitch to the noise are masked the most.
 
-In the Hiding a Whisper test, the whisper was still reaching your ears when the tap was running, but you did not hear it. The tap's sound moves the same part of the basilar membrane as the whisper does. The whisper's wave is much smaller than the tap's wave there, so it is lost. A sound that is far from the noise in pitch is masked less. This is why a thin, high whistle is easier to pick out among loud drums. It also helps to be close, because each time you halve the distance the voice gets a lot louder. And it helps to watch the speaker's mouth, because seeing the lips helps the brain fill in what the ear misses. The brain can also choose what to listen to. In a crowded hall you can follow one voice and ignore the rest. This is called the cocktail party effect. It needs both ears, because the brain uses the direction of each voice to separate them.
+A sound is any vibration of the air that reaches your ear. Noise is a sound that gets in the way, such as a running tap, a crowd or a fan. Noise also has no clear tune: it is a hiss made of many pitches mixed together. A whistle or a flute plays one clear pitch. In the Hiding a Whisper test, the whisper was still reaching your ears when the tap was running, but you did not hear it. The tap's sound moves the same part of the basilar membrane as the whisper does. The whisper's wave is much smaller than the tap's wave there, so it is lost. A sound that is far from the noise in pitch is masked less. This is why a thin, high whistle is easier to pick out among loud drums. It also helps to be close, because each time you halve the distance the voice gets a lot louder. And it helps to watch the speaker's mouth, because seeing the lips helps the brain fill in what the ear misses. The brain can also choose what to listen to. In a crowded hall you can follow one voice and ignore the rest. This is called the cocktail party effect. It needs both ears, because the brain uses the direction of each voice to separate them.
 - e.g. You cannot hear a whisper while the tap runs full, though the whisper is still there.
 - e.g. A thin whistle is easier to hear over drums than a low voice, since its pitch is far from the drums.
 - e.g. In a crowded hall you can follow one friend's voice by listening only to it.
@@ -582,14 +582,14 @@ That night, at home, Anjana taught her little brother Kiran the game. He sat wit
   - Think: Many Deaf people use flashing lights or vibrating alerts at home. What other things in a home use sound to tell us something, and how could each one be changed to use light or touch?
 
 ## Worksheets
-### Two Ears and Loud Sounds (core) (core, 16 questions)
+### Two Ears and Loud Sounds (core) (core, 17 questions)
 1. (mcq) A clap happens close to your right ear. Which ear gets the sound first, and which hears it a little louder?  
-   Options: The right ear gets it first and hears it louder / The left ear gets it first and hears it louder / Both ears get it at the same time and equally loudly  
+   Options: The left ear gets it first and hears it louder / Both ears get it at the same time and equally loudly / The right ear gets it first and hears it louder  
    **Answer:** The right ear gets it first and hears it louder. *Why:* The sound reaches the nearer ear first and is louder there, because the head blocks some sound from the far ear. The brain uses both clues.
 2. (fill) A sound straight in front of you reaches both ears at the same ____.  
    **Answer:** ['time']. *Why:* Straight ahead is the same distance from both ears, so the sound arrives together and equally loud. That is why front and back are hard to tell apart.
 3. (mcq) Why is it harder to say where a sound is with one ear covered?  
-   Options: The brain has no second ear to compare with / The sound becomes quieter in the air / The covered ear is the one that finds direction  
+   Options: The sound becomes quieter in the air / The covered ear is the one that finds direction / The brain has no second ear to compare with  
    **Answer:** The brain has no second ear to compare with. *Why:* Direction comes from comparing two ears. With one ear covered, the time and loudness differences are lost, so the brain must guess.
 4. (truefalse) A whisper is about 30 decibels and a conversation is about 60 decibels, so the conversation has twice the sound energy of the whisper.  
    **Answer:** False. *Why:* False. 30 decibels more is three steps of 10, and each step is 10 times the energy. So the conversation has 1,000 times the energy.
@@ -597,42 +597,44 @@ That night, at home, Anjana taught her little brother Kiran the game. He sat wit
    Options: 10 times / 2 times / 10 more units  
    **Answer:** 10 times. *Why:* Every 10 decibels is a multiplication by 10 in energy. That is why the numbers on the scale stay small even for huge differences.
 6. (mcq) At 85 decibels the safe listening time is about 8 hours, and each 3 decibels more halves it. About how long is it safe at 94 decibels?  
-   Options: About 1 hour / About 4 hours / About 15 minutes  
+   Options: About 4 hours / About 15 minutes / About 1 hour  
    **Answer:** About 1 hour. *Why:* 94 is 9 more than 85, which is three steps of 3. Halve 8 hours three times: 4 hours, 2 hours, 1 hour.
 7. (odd) Three of these are things the ear does with a sound. Which one is not?  
    Options: The ear flap collects sound and guides it in / Three tiny bones pass the sound on to the cochlea / Hair cells turn the wave into signals for the brain / The ear makes the sound louder at its source  
    **Answer:** 3. *Why:* The ear collects, passes on and detects sound. The source of a sound is outside the ear, and the ear cannot change it.
 8. (match) Match each word to what it means.  
    **Answer:** Pinna → the ear flap on the side of the head; Masking → a loud sound hiding a quiet one; Cochlea → the coiled tube where hair cells turn waves into signals; Decibel → the unit for how strong a sound is; Tinnitus → hearing ringing when there is no sound outside. *Why:* You need these words to talk about hearing.
-9. (sort) Is each one a clue the brain can use to find the direction of a sound, or not?  
+9. (sort) Is each one a sound with a clear tune, or noise?  
+   **Answer:** a whistle with one note → Sound with a clear tune; a crowd's roar in a stadium → Noise; a flute playing one tune → Sound with a clear tune; a fan making a steady hiss → Noise; a friend singing one song → Sound with a clear tune; a tap running full → Noise. *Why:* A sound with a clear tune has one clear pitch, like a whistle or a sung note. Noise has many pitches mixed together, like a hiss or a roar, and it often hides the sounds we want.
+10. (sort) Is each one a clue the brain can use to find the direction of a sound, or not?  
    **Answer:** the sound reaches one ear before the other → A clue for direction; the sound is louder in one ear → A clue for direction; the sound changes when you turn your head → A clue for direction; the temperature of the room → Not a clue for direction; the colour of the walls → Not a clue for direction. *Why:* The brain uses the time, the loudness, the folds of the ear flap and the changes when the head turns. The temperature of the room and the colour of the walls do not help.
-10. (order) Put these in order along the cochlea, from where the wave peaks first (the narrow start) to where it peaks last (the far end).  
+11. (order) Put these in order along the cochlea, from where the wave peaks first (the narrow start) to where it peaks last (the far end).  
    **Answer:** ['a high whistle of 3,000 hertz', 'a voice of about 250 hertz', 'a deep drum of 100 hertz']. *Why:* High pitches make the wave peak near the start of the cochlea. Low pitches make it peak near the far end.
-11. (truefalse) Hair cells destroyed by very loud noise grow back in a few weeks, so loud noise never causes lasting harm.  
+12. (truefalse) Hair cells destroyed by very loud noise grow back in a few weeks, so loud noise never causes lasting harm.  
    **Answer:** False. *Why:* False. In people, hair cells do not grow back. Loud noise can cause lasting loss of hearing, often with no pain at the time.
-12. (mcq) You cannot hear a whisper while a tap runs hard. What is the best explanation?  
-   Options: The whisper still reaches your ear, but the louder noise hides it / The whisper never leaves the speaker's mouth / Your ears stop working when there is noise  
+13. (mcq) You cannot hear a whisper while a tap runs hard. What is the best explanation?  
+   Options: The whisper never leaves the speaker's mouth / The whisper still reaches your ear, but the louder noise hides it / Your ears stop working when there is noise  
    **Answer:** The whisper still reaches your ear, but the louder noise hides it. *Why:* This is called masking. The louder sound moves the same part of the ear as the quiet one, so the quiet one is lost.
-13. (label) Label the model of the basilar membrane: the narrow stiff end, the wide soft end, where high pitches peak, and where low pitches peak.  
+14. (label) Label the model of the basilar membrane: the narrow stiff end, the wide soft end, where high pitches peak, and where low pitches peak.  
    **Answer:** ['narrow stiff end', 'wide soft end', 'high pitches peak', 'low pitches peak']. *Why:* The narrow, stiff end is the start, where high pitches peak. The wide, soft end is the far end, where low pitches peak.
-14. (write) Explain to a friend why covering one ear makes it harder to say where a sound is.  
+15. (write) Explain to a friend why covering one ear makes it harder to say where a sound is.  
    **Answer:** Two ears hear a sound a tiny bit differently. The nearer ear gets it first and louder. The brain compares them to work out the direction. With one ear covered, there is nothing to compare, so the brain has to guess.. *Why:* A strong answer says that the two ears get slightly different sounds, that the brain compares them, and that one ear removes the comparison.
-15. (draw) Draw a head seen from above with a clap on the right side. Draw a line from the clap to each ear, and show which line is shorter.  
+16. (draw) Draw a head seen from above with a clap on the right side. Draw a line from the clap to each ear, and show which line is shorter.  
    **Answer:** A head with two ears, a clap on the right, a short line to the right ear and a longer line to the left ear.. *Why:* The clap is closer to the right ear, so the sound reaches it first and is a little louder there. The longer line shows that it takes more time to reach the left ear.
-16. (mcq) In a noisy room, which of these helps a speaker be heard?  
+17. (mcq) In a noisy room, which of these helps a speaker be heard?  
    Options: Face the listener, come closer and speak clearly / Turn away from the listener and mumble / Speak as quickly as possible  
    **Answer:** Face the listener, come closer and speak clearly. *Why:* Coming closer makes the voice louder than the noise. Facing the listener lets them see the lips, which helps the brain fill in what the ear misses. Speaking clearly helps too.
 ### Numbers, Ears and Animals (stretch) (stretch, 17 questions)
 1. (mcq) Sound travels about 340 metres each second. Your two ears are about 20 centimetres apart. About how much longer does a clap right beside one ear take to reach the other ear?  
-   Options: About 0.0006 seconds / About 0.6 seconds / About 6 seconds  
+   Options: About 0.6 seconds / About 0.0006 seconds / About 6 seconds  
    **Answer:** About 0.0006 seconds. *Why:* 0.2 metres divided by 340 metres each second is about 0.0006 seconds. This is too short to notice, but the brain can use it.
 2. (mcq) In open air a steady sound reads 60 decibels at 1 metre. About what will it read at 2 metres?  
-   Options: About 54 decibels / About 30 decibels / About 120 decibels  
+   Options: About 30 decibels / About 54 decibels / About 120 decibels  
    **Answer:** About 54 decibels. *Why:* In open air, each doubling of the distance takes off about 6 decibels. 60 take away 6 is 54. Halving the number to get 30 is a common slip.
 3. (fill) Every ____ decibels more means 10 times as much sound energy.  
    **Answer:** ['10', 'ten']. *Why:* The decibel scale is built so that each step of 10 multiplies the energy by 10.
 4. (mcq) At 85 decibels the safe time is about 8 hours, and every 3 decibels more halves it. About how long is it safe at 91 decibels?  
-   Options: About 2 hours / About 4 hours / About 30 minutes  
+   Options: About 4 hours / About 2 hours / About 30 minutes  
    **Answer:** About 2 hours. *Why:* 91 is 6 more than 85, which is two steps of 3. Halve 8 hours twice: 4 hours, then 2 hours.
 5. (truefalse) A sound that comes from exactly behind you is exactly the same distance from both ears.  
    **Answer:** True. *Why:* True. Straight ahead and straight behind are both the same distance from each ear, so the time and loudness clues are the same. That is why head turns help.
@@ -646,10 +648,10 @@ That night, at home, Anjana taught her little brother Kiran the game. He sat wit
    Options: Come closer to the listener / Let the listener watch your mouth / Speak clearly and a little more slowly / Turn your back so the noise is behind you  
    **Answer:** 3. *Why:* Turning away hides your mouth and sends your voice the wrong way. The other three raise the voice above the noise or help the listener understand.
 10. (mcq) A thin high whistle is easier to follow over low drums than a low voice is. What is the best reason?  
-   Options: Its pitch is far from the drums' pitch, so it is hidden less / It is always much louder than the drums / The drums cannot make any high sounds  
+   Options: It is always much louder than the drums / Its pitch is far from the drums' pitch, so it is hidden less / The drums cannot make any high sounds  
    **Answer:** Its pitch is far from the drums' pitch, so it is hidden less. *Why:* Masking is strongest for sounds close in pitch to the noise. A sound far away in pitch is hidden less, and the ear is very sensitive to high pitches.
 11. (mcq) Which description of the basilar membrane is right?  
-   Options: It is narrow and stiff at the start and wide and soft at the far end / It is wide and stiff at the start and narrow and soft at the far end / It is the same width and stiffness all along  
+   Options: It is wide and stiff at the start and narrow and soft at the far end / It is narrow and stiff at the start and wide and soft at the far end / It is the same width and stiffness all along  
    **Answer:** It is narrow and stiff at the start and wide and soft at the far end. *Why:* This change in width and stiffness is why high pitches peak near the start and low pitches near the far end.
 12. (write) A friend says: 'A sound is only a sound if somebody hears it.' Do you agree? Give a reason.  
    **Answer:** A strong answer picks a side. One side says a sound is the wave in the air, and it is there with no one to hear. The other says loudness and pitch exist only in a listener, so without a listener there is only a wave.. *Why:* Either answer is fine with a clear reason, and the best answers say what the other side gets right.
@@ -690,7 +692,7 @@ That night, at home, Anjana taught her little brother Kiran the game. He sat wit
    Options: Turning the headphones down / Moving away from a loud speaker / Wearing earplugs near fireworks / Pushing a cotton bud deep into the ear to clean it  
    **Answer:** 3. *Why:* Nothing should be pushed into the ear. A cotton bud can push wax deeper and can hurt the eardrum. The ear cleans itself.
 11. (mcq) A girl is lost in a crowd, and a relative blows a whistle. What is the best way to find the direction of the whistle?  
-   Options: Turn her head until the whistle sounds the same in both ears, and then turn it a little to check front from back / Shut her ears and listen with her eyes / Run in the direction she feels like  
+   Options: Shut her ears and listen with her eyes / Run in the direction she feels like / Turn her head until the whistle sounds the same in both ears, and then turn it a little to check front from back  
    **Answer:** Turn her head until the whistle sounds the same in both ears, and then turn it a little to check front from back. *Why:* When both ears hear the whistle equally, it is in front or behind. A small head turn tells which, because the sound moves to a different ear for each.
 12. (write) A newborn baby cannot say what she hears. How can doctors check her hearing with a tiny microphone placed in her ear?  
    **Answer:** A healthy cochlea gives out faint sounds of its own, made by the outer hair cells. A tiny microphone in the ear can record them, with no need for the baby to do anything. If the ear gives out the sound, the hair cells are working.. *Why:* A strong answer says that a healthy ear makes faint sounds, that the microphone picks them up, and that the baby does not need to respond.
@@ -705,7 +707,7 @@ That night, at home, Anjana taught her little brother Kiran the game. He sat wit
 
 ## Videos
 - **How to truly listen** (TED (Evelyn Glennie), 34 min) id `IU3V6zNER4g`: For the parent and older children. A great percussionist who is profoundly deaf shows how she feels sound as vibration through her whole body, and explains what it means to listen. *Check:* Title and channel confirmed. The full talk is about 34 minutes. Preview it first and pick a section to watch with a young child.
-- **Auditory Transduction (2002)** (Brandon Pletsch, 7 min) id `PeTriGTENoc`: For the parent and curious older children: a detailed animation of the cochlea, showing how a wave travels along the membrane and how different hair cells pick up high and low pitches. *Check:* Title and channel confirmed. Preview it first. It goes into more detail than this unit.
+- **Auditory Transduction (2002)** (Brandon Pletsch, 7 min) id `PeTriGTENoc`: For the parent and curious older children: a detailed animation of the cochlea, showing how a wave travels along the membrane and how different hair cells pick up high and low pitches. *Check:* Title and channel confirmed. Preview it first. It goes into more detail than this lesson.
 - **How do cochlear implants work? | Boston Children's Hospital** (Boston Children's Hospital, 4 min) id `UpPdqxbkaiU`: To see how a microphone, a processor and a coil of tiny wires send signals straight to the hearing nerve. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
@@ -713,12 +715,12 @@ That night, at home, Anjana taught her little brother Kiran the game. He sat wit
    Options: The left ear / The right ear / Both together  
    **Answer:** The left ear. *Why:* The sound reaches the nearer ear first, and a little louder.
 2. (mcq) A girl points well to clicks with two ears and badly with one ear covered. What does this show?  
-   Options: The brain finds direction by comparing the two ears / The covered ear is the only one that finds direction / Clicks are quieter when one ear is covered  
+   Options: The covered ear is the only one that finds direction / Clicks are quieter when one ear is covered / The brain finds direction by comparing the two ears  
    **Answer:** The brain finds direction by comparing the two ears. *Why:* Direction is worked out by comparing what the two ears hear. With one ear covered, the comparison is lost.
 3. (truefalse) A sound of 90 decibels has 10 times the energy of a sound of 80 decibels.  
    **Answer:** True. *Why:* True. Each 10 decibels is a multiplication by 10 in energy.
 4. (mcq) A sound is 100 decibels. What is the safest choice?  
-   Options: Move away or use earplugs / Listen for 3 hours / Stand closer to hear it better  
+   Options: Listen for 3 hours / Stand closer to hear it better / Move away or use earplugs  
    **Answer:** Move away or use earplugs. *Why:* At 100 decibels, the safe time is only about 15 minutes. Moving away or using earplugs lowers the level a lot.
 5. (mcq) You cannot hear your friend over a loud fan. Which is most likely to help?  
    Options: Come closer and face each other / Turn your backs to each other / Speak in a whisper  
@@ -727,7 +729,7 @@ That night, at home, Anjana taught her little brother Kiran the game. He sat wit
    Options: Near the wide, soft far end / Near the narrow, stiff start / It peaks everywhere at once  
    **Answer:** Near the wide, soft far end. *Why:* Low pitches make the wave peak far along the membrane, where it is wide and soft. High pitches peak near the start.
 7. (mcq) How does a cochlear implant help a person to hear?  
-   Options: It sends signals from a microphone straight to the hearing nerve / It makes the sound louder in the ear canal / It replaces the eardrum with a drum  
+   Options: It makes the sound louder in the ear canal / It replaces the eardrum with a drum / It sends signals from a microphone straight to the hearing nerve  
    **Answer:** It sends signals from a microphone straight to the hearing nerve. *Why:* The tiny wires in the cochlea excite the hearing nerve directly, without needing working hair cells.
 8. (truefalse) Sign languages are real languages with their own grammar.  
    **Answer:** True. *Why:* True. Linguists have shown this since the 1960s. They can say anything a spoken language can.
@@ -735,14 +737,17 @@ That night, at home, Anjana taught her little brother Kiran the game. He sat wit
    Options: A male mosquito / A cricket / A barn owl  
    **Answer:** A male mosquito. *Why:* A male mosquito follows the wingbeat of a female with his antennae. A cricket hears with her front legs, and an owl hears with ears on her head.
 10. (mcq) Why is a thin steady whistle easier to follow among loud drums than a low voice?  
-   Options: Its pitch is far from the drums, so it is hidden less / It is always louder than a drum / Drums cannot make any sound in a crowd  
+   Options: It is always louder than a drum / Drums cannot make any sound in a crowd / Its pitch is far from the drums, so it is hidden less  
    **Answer:** Its pitch is far from the drums, so it is hidden less. *Why:* Masking is strongest for sounds that are close in pitch to the noise. A sound that is far from it in pitch is hidden less.
 11. (mcq) At 85 decibels the safe time is about 8 hours, and every 3 decibels more halves it. About how long is it safe at 97 decibels?  
-   Options: About 30 minutes / About 2 hours / About 4 hours  
+   Options: About 2 hours / About 4 hours / About 30 minutes  
    **Answer:** About 30 minutes. *Why:* 97 is 12 more than 85, which is four steps of 3. Halve 8 hours four times: 4 hours, 2 hours, 1 hour, 30 minutes.
 12. (mcq) A bat's squeak is too high for people to hear. A moth hears it and dives. What does this suggest about sounds?  
    Options: Different animals hear different ranges of sound / Bats' squeaks are not real sounds / Moths hear better than all other animals  
    **Answer:** Different animals hear different ranges of sound. *Why:* The wave is in the air for every animal, but each animal's ears pick up only some pitches. People's ears cannot pick up a bat's squeak.
+13. (mcq) Which one is noise, in the way this lesson means it?  
+   Options: A hiss from a running tap, made of many pitches with no clear tune / A whistle with one clear note / A flute playing one tune / A song sung by one voice  
+   **Answer:** A hiss from a running tap, made of many pitches with no clear tune. *Why:* A whistle, a flute and a sung tune each have a clear pitch. Noise is a mix of many pitches with no clear tune, and it often gets in the way of a sound we want to hear.
 
 ## Applications
 - Hearing aids make sounds louder for people whose hair cells still work but have become less sensitive, for example in old age.
@@ -823,6 +828,12 @@ Everything Has a Beat (sci.sound.L4): Topic-level song
 - [Children's ear defenders (earmuffs)](https://www.amazon.in/s?k=kids+ear+defenders+earmuffs) (tool): Optional. For the Sound Clock and the Doorbell Without Sound challenge, and for protecting ears at fireworks or near loud machines. A thick woollen cap or a folded towel also works for the Sound Clock. Used in e1, c1. 
 - [A pack of round balloons](https://www.amazon.in/s?k=balloons+pack+round) (material): For Feel the Music. Any plain round balloon will do, and a small pack is cheap at a stationery shop. Used in a3. 
 - [A cheap digital stopwatch](https://www.amazon.in/s?k=digital+stopwatch+sports) (tool): For Stand Like a Flamingo. A phone stopwatch works too, but a separate stopwatch is easier for a child to press. Used in a4. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in Doubling the Distance: how fast does a sound fade as you move away?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e3. Get it before Doubling the Distance: how fast does a sound fade as you move away?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Paper Snail: build a model of the cochlea, Ear Trumpets: does a bigger mouth hear more?. About ₹10 to ₹30. Any school ruler is fine. Used in a2, p1. Get it before The Paper Snail: build a model of the cochlea.
+- [AA batteries or torch cells (a few)](https://www.amazon.in/s?k=AA+battery+pack) (material): Used in A Doorbell Without Sound: tell someone who cannot hear that a visitor has come. About ₹10 to ₹30 each. A used torch cell still works for many circuits. Used in c1. Get it before A Doorbell Without Sound: tell someone who cannot hear that a visitor has come.
+- [Insulated wire or crocodile clips](https://www.amazon.in/s?k=crocodile+clip+wire+set) (tool): Used in A Doorbell Without Sound: tell someone who cannot hear that a visitor has come. About ₹20 to ₹80. Thin insulated wire from an old charger works. Used in c1. Get it before A Doorbell Without Sound: tell someone who cannot hear that a visitor has come.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Paper Snail: build a model of the cochlea, Ear Trumpets: does a bigger mouth hear more?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in a2, p1. Get it before The Paper Snail: build a model of the cochlea.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Which ear hears a sound from your right first? → The right ear, and a little louder too.
@@ -845,7 +856,7 @@ Everything Has a Beat (sci.sound.L4): Topic-level song
 - ideas/by_topic/sound.md: 'Sound waves' and 'Underwater sound' rows (sound crossing from air to water, a tuning fork heard in water, a simple stethoscope). Used in the explanation of why the middle ear is needed.
 - ideas/by_topic/sound.md: 'Materials and sound' row (using a smartphone decibel app and covering a ticking clock). Used in Doubling the Distance and Hiding a Whisper.
 - ideas/by_topic/sound.md: 'Sound and vibration' row (feeling vibration, humming to feel the skull, a drum circle). Used in Feel the Music.
-- The Class 3 unit on hearing, which this unit builds on: the idea that the ear turns a wave into signals, now extended to finding direction, loudness and safe listening, pitch sorting, and hearing loss and help.
+- The Class 3 unit on hearing, which this lesson builds on: the idea that the ear turns a wave into signals, now extended to finding direction, loudness and safe listening, pitch sorting, and hearing loss and help.
 - Georg von Békésy, Experiments in Hearing, 1960 (the travelling wave in the cochlea, Nobel Prize in Physiology or Medicine 1961)
 - Hermann von Helmholtz, Die Lehre von den Tonempfindungen, 1863 (On the Sensations of Tone, the resonance theory of hearing)
 - Supa, M., Cotzin, M. and Dallenbach, K.M., Facial vision: the perception of obstacles by the blind, American Journal of Psychology 57, 133 to 183, 1944

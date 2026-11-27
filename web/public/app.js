@@ -4310,6 +4310,11 @@ function chapterView() {
       ? `<section class="card fxnew"><span class="eyebrow">Guide being written</span><p class="sm">We're still writing the guide for this chapter. For now: read it together, talk about it, and let ${esc(S.child || "your child")} retell it in their own words.</p></section>`
       : "";
   if (!U.length) return unwritten + chapterPage() + more;
+  // a topic whose units are all written shows only the units: its older topic lesson is not shown (build marks c.full)
+  if (u.board === "combined" && u.c.full) {
+    setSheetTitle(u.title);
+    return `<section class="card fxnew"><span class="eyebrow">Lessons in this topic</span><p class="sm">Do them in order, or pick the one you are curious about.</p>${fxUnitBtns(U)}</section>${more}`;
+  }
   const n = u.c?.p?.days?.length,
     own = u.board === "combined";
   return (
@@ -7681,32 +7686,34 @@ function fxCards(u) {
           u.intro.hook + " " + u.intro.text,
         );
         break;
-      case "story": {
-        const P = st.text,
-          per = Math.ceil(P.length / 5);
-        add(
-          "story",
-          `${fxImg(u, "story.0", st.art[0], "fxhero")}<div class="fxtxt"><span class="fxeb">📖 Story · ${st.mins} min · read aloud</span><h1>${esc(st.title)}</h1><p class="fxsm">${esc(st.note || "")}</p><button class="fxb" data-fx="readall">🔊 Read the whole story to me</button></div>`,
-          st.title,
-        );
-        for (let i = 0; i < P.length; i += per) {
-          const pg = i / per,
-            img = ["story.2", "story.3", "story.4", "story.5"][pg - 1];
+      case "story":
+        [st, ...(u.more_stories || [])].forEach((sx, n) => {
+          const k = n ? "story" + (n + 1) : "story",
+            P = sx.text,
+            per = Math.ceil(P.length / 5);
           add(
-            "story.p" + pg,
-            `${pg ? fxImg(u, img, st.art[pg], "") : ""}<div class="fxtxt fxstory">${P.slice(i, i + per)
-              .map((p) => `<p>${esc(p)}</p>`)
-              .join("")}</div>`,
-            P.slice(i, i + per).join(" "),
+            k,
+            `${fxImg(u, k + ".0", sx.art?.[0], "fxhero")}<div class="fxtxt"><span class="fxeb">📖 ${n ? "Another story" : "Story"} · ${sx.mins} min · read aloud</span><h1>${esc(sx.title)}</h1><p class="fxsm">${esc(sx.note || "")}</p><button class="fxb" data-fx="readall" data-n="${n}">🔊 Read the whole story to me</button></div>`,
+            sx.title,
           );
-        }
-        add(
-          "story.end",
-          `<div class="fxtxt"><span class="fxeb">📖 After the story</span><h3>Talk about it</h3><ul>${st.ask.map((q) => `<li>${esc(q)}</li>`).join("")}</ul></div>`,
-          st.ask.join(" "),
-        );
+          for (let i = 0; i < P.length; i += per) {
+            const pg = i / per,
+              img = [k + ".2", k + ".3", k + ".4", k + ".5"][pg - 1];
+            add(
+              k + ".p" + pg,
+              `${pg ? fxImg(u, img, sx.art?.[pg], "") : ""}<div class="fxtxt fxstory">${P.slice(i, i + per)
+                .map((p) => `<p>${esc(p)}</p>`)
+                .join("")}</div>`,
+              P.slice(i, i + per).join(" "),
+            );
+          }
+          add(
+            k + ".end",
+            `<div class="fxtxt"><span class="fxeb">📖 After the story</span><h3>Talk about it</h3><ul>${sx.ask.map((q) => `<li>${esc(q)}</li>`).join("")}</ul></div>`,
+            sx.ask.join(" "),
+          );
+        });
         break;
-      }
       case "terms":
         u.terms.forEach((t, i) =>
           add(
@@ -7729,7 +7736,7 @@ function fxCards(u) {
         u.explanations.forEach((x, i) =>
           add(
             "expl." + i,
-            `${fxImg(u, "expl." + i, x.art)}<div class="fxtxt"><span class="fxeb">💡 ${x.status === "defined" ? "Agreed definition" : x.status === "idea" ? "Only ideas so far" : fxWho(u)[0] + " disagree"}</span><h2>${esc(x.concept)}</h2>${x.definition ? `<p><b>${esc(x.definition)}</b></p>` : ""}<p>${esc(x.description || "")}</p>${fxChart(x.chart)}${x.perspectives.map((p) => `<div class="fxvoice"><b>${esc(p.who)}</b><p>${esc(p.explanation)}</p></div>`).join("")}${fxChart(x.chart)}<ul class="fxsm">${x.examples.map((e) => `<li>${esc(e)}</li>`).join("")}</ul>${(folded.of[i] || []).map((a) => `<p class="fxsm"><b>How we know:</b> ${esc(a.evidence)}</p>${fxChart(a.chart)}`).join("")}</div>`,
+            `${fxImg(u, "expl." + i, x.art)}<div class="fxtxt"><span class="fxeb">💡 ${x.status === "defined" ? (x.perspectives?.length ? "Agreed, with other ways to see it" : "Agreed definition") : x.status === "idea" ? "Best idea so far, not settled" : fxWho(u)[0] + " disagree"}</span><h2>${esc(x.concept)}</h2>${x.definition ? `<p><b>${esc(x.definition)}</b></p>` : ""}<p>${esc(x.description || "")}</p>${fxChart(x.chart)}${x.perspectives.map((p) => `<div class="fxvoice"><b>${esc(p.who)}</b><p>${esc(p.explanation)}</p></div>`).join("")}${fxChart(x.chart)}<ul class="fxsm">${x.examples.map((e) => `<li>${esc(e)}</li>`).join("")}</ul>${(folded.of[i] || []).map((a) => `<p class="fxsm"><b>How we know:</b> ${esc(a.evidence)}</p>${fxChart(a.chart)}`).join("")}</div>`,
             x.concept + ". " + (x.definition || "") + " " + (x.description || ""),
           ),
         );
@@ -7916,7 +7923,7 @@ function fxCards(u) {
         if (u.buy.length)
           add(
             "buy",
-            `${fxImg(u, "buy", "")}<div class="fxtxt"><span class="fxeb">🛒 Things that help</span>${u.buy.map((b) => `<div class="fxvoice"><b><a target="_blank" rel="noopener" href="${esc(b.url)}">${esc(b.item)}</a></b><p class="fxsm">${esc(b.why)}${b.plan ? " " + esc(b.plan) : ""}</p>${(b.used_in || []).length ? `<button class="fxb" data-fxbought="${esc(u.id + "|" + b.item)}">${(S.bought || {})[u.id + "|" + b.item] ? "✔ We have it: added to the plan" : "We bought it"}</button>` : ""}</div>`).join("")}</div>`,
+            `${fxImg(u, "buy", "")}<div class="fxtxt"><span class="fxeb">🛒 What to buy or find</span>${u.buy.map((b) => `<div class="fxvoice"><b><a target="_blank" rel="noopener" href="${esc(b.url)}">${esc(b.item)}</a></b><p class="fxsm">${esc(b.why)}${b.plan ? " " + esc(b.plan) : ""}</p>${(b.used_in || []).length ? `<button class="fxb" data-fxbought="${esc(u.id + "|" + b.item)}">${(S.bought || {})[u.id + "|" + b.item] ? "✔ We have it: added to the plan" : "We bought it"}</button>` : ""}</div>`).join("")}</div>`,
             "",
           );
         break;
@@ -7978,7 +7985,11 @@ const FXS = {
   song: ["Song", "🎵", "Our song for this topic."],
   did_you_know: ["Did you know?", "📰", "True stories and facts from around India."],
   links: ["Try online and go see", "🌐", "Simulations to play with and places in India to visit."],
-  buy: ["Things that help", "🛒", "Tools, books and games that make this unit richer, and where each is used."],
+  buy: [
+    "What to buy or find",
+    "🛒",
+    "Everything you may need for the activities, experiments, projects and challenges, and good books, with where each is used.",
+  ],
 };
 const FXKL = {
   games: "This is a game. Play it together. The questions on screen are part of the game, not a test.",
@@ -8005,7 +8016,7 @@ function fxSecMeta(u, o, ent) {
   const m = (o === "maths" && u.id.startsWith("math.") ? FXMATH : FXS[o]) || [o, "✨", ""],
     mins =
       {
-        story: u.story.mins,
+        story: u.story.mins + (u.more_stories || []).reduce((n, sx) => n + sx.mins, 0),
         terms: Math.round((u.cards_mins || 20) / 2),
         explanations: u.agreed?.length ? 15 : 12,
         videos: u.videos.reduce((a, v) => a + v.mins, 0),
@@ -8263,7 +8274,7 @@ function fxDraw(open, cards) {
     day = { 1: 30, 2: 35, 3: 40, 4: 45, 5: 45 }[cls] || 40,
     it = unitBy("unit|" + u.id),
     SD = (it ? sessionsFor(it) : 0) || Math.max(1, Math.round(tot / day)),
-    ref = unitRef(u.id),
+    ref = onDkTrack() ? "" : unitRef(u.id),
     groups = [
       ...new Set(
         SL.slice()
@@ -8746,7 +8757,10 @@ function fxClick(e) {
     return S1[k] && toast("Saved");
   }
   if (a === "read") return speak(fxCardText(sec));
-  if (a === "readall") return speak(u.story.title + ". " + u.story.text.join(" "));
+  if (a === "readall") {
+    const sx = +b.dataset.n ? u.more_stories[b.dataset.n - 1] : u.story;
+    return speak(sx.title + ". " + sx.text.join(" "));
+  }
   if (a === "flip") return b.classList.toggle("on");
   if (a === "vote") {
     sec.querySelector(".fxreveal").hidden = false;
@@ -8897,7 +8911,7 @@ function fxDaySteps(u, n) {
 // The DeepKids track opens every unit (TRACKS.md "Who can see what").
 const onDkTrack = () => ["combined", "none"].includes(S.board);
 function dkUnitOpen(id) {
-  if (onDkTrack()) return true;
+  if (onDkTrack() || tab === "newunits") return true;
   const B = boardsOn();
   return unitChapters(id).some((i) => B.includes(i.board));
 }
@@ -8956,7 +8970,7 @@ const fxUnitBtns = (L) => {
       pic: unitPic(x.id),
       title: x.title,
       gist: firstSentence(I.summary?.text),
-      tag: unitRef(x.id),
+      tag: onDkTrack() ? "" : unitRef(x.id),
       locked: !open,
       facts: open
         ? [
@@ -9444,7 +9458,15 @@ function combinedTopicList(sj) {
       .map(Number)
       .sort((a, b) => a - b),
     lv = cls.includes(ui.bl) ? ui.bl : cls.includes(S.levels?.[sj]) ? S.levels[sj] : cls[0],
-    L = ((DATA.combined?.[sj] || {})[lv] || []).filter((e) => unitByK(e.k));
+    L = ((DATA.combined?.[sj] || {})[lv] || []).filter((e) => unitByK(e.k)),
+    // the units that map to this class's board topics, one list with no grouping by topic, the board-required ones first
+    ids = [...new Set(L.flatMap((e) => (e.units || []).map((x) => x.id)))]
+      .filter((id) => DATA.units?.[id])
+      .map((id, i) => [id, i])
+      .sort((a, b) => !!DATA.units[b[0]].req - !!DATA.units[a[0]].req || a[1] - b[1])
+      .map(([id]) => id),
+    // a topic whose units are not all written yet keeps its older lesson until they are
+    over = L.filter((e) => !(e.units || []).some((x) => DATA.units?.[x.id]));
   return {
     ctl:
       dkViewPick(sj) +
@@ -9455,9 +9477,9 @@ function combinedTopicList(sj) {
           .map((l) => `<button class="chip" aria-pressed="${lv === l}" data-act="bl" data-l="${l}">Class ${l}</button>`)
           .join(""),
       ),
-    sum: ["Topics by class", `Class ${lv}`],
-    count: `${L.length} topics`,
-    body: `<p class="xs muted">Your Class ${lv} plan on the DeepKids track: everything any board teaches in ${SUBJ[sj].toLowerCase()} in Class ${lv}, and more.</p><div class="libgrid">${L.map(combinedCard).join("")}</div>`,
+    sum: ["Board topic units", `Class ${lv}`],
+    count: `${ids.length} units`,
+    body: `<p class="xs muted">The units that cover everything any board teaches in ${SUBJ[sj].toLowerCase()} in Class ${lv}, and more. Your plan follows this list.</p><section class="fxnew">${fxUnitBtns(ids.map((id) => DATA.units[id]))}</section>${over.length ? `<div class="libgrid">${over.map(combinedCard).join("")}</div>` : ""}`,
   };
 }
 // a lesson of the DeepKids class plan, on the same card as a unit, with the picture of a unit it links to
@@ -9510,7 +9532,7 @@ const dkViewPick = (sj) =>
         "View",
         [
           ["topic", "DeepKids units"],
-          ["class", "Topics by class"],
+          ["class", "Board topic units"],
         ]
           .map(
             ([k, n]) =>
@@ -10493,6 +10515,27 @@ const CATS = {
   tool: "Tools",
   other: "Other",
 };
+// The "New units" page: every unit added lately, by class, for checking in the app. It is not in the menu: open app.deepkids.in/#new-units
+function newUnitsFromLink() {
+  if (location.hash === "#new-units" && ACC && S.setup) {
+    tab = "newunits";
+    render();
+  }
+}
+function viewNewUnits() {
+  const U = Object.values(DATA.units || {}).filter((x) => x.new),
+    byClass = [1, 2, 3, 4, 5].map((c) => [
+      c,
+      U.filter((x) => +x.id.match(/\.L(\d)$/)?.[1] === c).sort((a, b) => a.title.localeCompare(b.title)),
+    ]);
+  return `<section class="sec pagetop"><h1>New units to check</h1><p class="sm muted">${U.length} units added lately. Tap one to open it and read every part. Nothing here changes the Library.</p><p class="xs"><button class="link" data-tab="library">Back to the Library</button></p></section>${byClass
+    .filter(([, L]) => L.length)
+    .map(
+      ([c, L]) =>
+        `<section class="fxnew"><h3 class="fxsh">Class ${c} · ${L.length} unit${L.length === 1 ? "" : "s"}</h3>${fxUnitBtns(L)}</section>`,
+    )
+    .join("")}`;
+}
 function viewLibrary() {
   const t = ui.lt || "topics",
     inv = S.inv || [];
@@ -18584,6 +18627,11 @@ function openEditor(node) {
 const GUIDE = {
   today: [
     [".thero", "Your day at a glance", "The date, how much is done today, and the read-aloud button."],
+    [
+      ".findbar",
+      "Follow the plan, or follow your heart",
+      "Below is the day DeepKids planned. Or type any topic here, like volcanoes or fractions. Choose Do it now, Tomorrow or Add to queue. If we don't have the lesson yet, we write it for you.",
+    ],
     [".calhead", "Today's plan", "Everything planned for today, in time order. Use ‹ and › to look at other days."],
     [
       ".tr.focus",
@@ -19138,7 +19186,7 @@ function renderMain() {
   ui.lastView = vk;
   m.replaceChildren(
     htmlToEl(
-      `<div class="wrap">${banner}${ob ? viewOnboarding() : { today: viewToday, week: viewPlanner, tasks: viewTasks, library: viewLibrary, journey: viewJourneyTabs }[tab]()}</div>`,
+      `<div class="wrap">${banner}${ob ? viewOnboarding() : { today: viewToday, week: viewPlanner, tasks: viewTasks, library: viewLibrary, journey: viewJourneyTabs, newunits: viewNewUnits }[tab]()}</div>`,
     ),
   );
   if (kept) restoreInputs(m, kept);
@@ -19154,7 +19202,7 @@ function fxCrumbs() {
   if (ob) {
     return "<b>Set up</b>";
   }
-  const T = { today: "Today", week: "Plan", journey: "Progress", library: "Library" },
+  const T = { today: "Today", week: "Plan", journey: "Progress", library: "Library", newunits: "New units" },
     parts = [T[tab] || "Today"];
   if (tab === "today" && ui.tday && ui.tday !== today) parts.push(fmt(ui.tday));
   if (parts.filter(Boolean).length < 2) return ""; // a main tab on its own is already marked in the tab bar
@@ -20405,4 +20453,7 @@ document.addEventListener(
 document.addEventListener("visibilitychange", trackVisibleTime);
 /* History: every finished part, named clearly (lesson parts of board chapters too, not only whole chapters) */
 // To finish: units show all parts and the core path separately
-boot().then(loadReady);
+boot().then(() => {
+  newUnitsFromLink();
+  loadReady();
+});

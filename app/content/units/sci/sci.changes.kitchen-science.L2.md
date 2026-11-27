@@ -1,9 +1,9 @@
 # Science in the kitchen: how cooking changes rice, butter and milk
 `sci.changes.kitchen-science.L2`
 
-**Summary.** Ten boiled grains of rice make a longer line than ten dry ones. Why? In this unit you will line up grains soaked in cold water and boiled in hot, melt butter and watch it set again, and play a card game sorting changes that can go back from those that cannot.
+**Summary.** Ten boiled grains of rice make a longer line than ten dry ones. Why? In this lesson you will line up grains soaked in cold water and boiled in hot, melt butter and watch it set again, and play a card game sorting changes that can go back from those that cannot.
 
-**Intro.** *Put one dry grain of rice next to one grain of cooked rice from lunch. Which one is bigger? Where did the extra size come from?* Every day, cooking changes the food in your kitchen. Hard rice turns soft. Butter turns runny in a warm pan. Milk turns into thick curd overnight. In this unit you test what heat and water do to rice grains. You melt butter and watch a grown-up turn butter into ghee. You find out that tiny living beings called bacteria turn milk into curd. And you sort kitchen changes into ones that can go back and ones that cannot.
+**Intro.** *Put one dry grain of rice next to one grain of cooked rice from lunch. Which one is bigger? Where did the extra size come from?* Every day, cooking changes the food in your kitchen. Hard rice turns soft. Butter turns runny in a warm pan. Milk turns into thick curd overnight. In this lesson you test what heat and water do to rice grains. You melt butter and watch a grown-up turn butter into ghee. You find out that tiny living beings called bacteria turn milk into curd. And you sort kitchen changes into ones that can go back and ones that cannot.
 
 ## Learning outcomes
 0. By the end I can say how cooking changes rice: the grains take in water and grow long and soft.
@@ -22,6 +22,7 @@
 - **Ghee**: Ghee is butter that has been heated until its water has bubbled away as steam. It is almost all fat. *e.g.* Many families make ghee at home from butter (vennai in Tamil, makkhan in Hindi).
 - **Bacteria**: Bacteria are tiny living beings, far too small to see. Some of them live in curd. *e.g.* Bacteria in a spoon of curd turn a whole bowl of warm milk into curd by morning.
 - **A change that can go back**: A change that can be undone, so the thing becomes what it was before. Scientists call it a reversible change. *e.g.* Melted butter goes back to solid butter in the fridge.
+- **Mixture**: A mixture is two or more materials mixed together, where each one is still there and can often be separated again. Mixing does not turn them into something new. *e.g.* When you stir sand and salt together in a plate, you have a mixture. You can still see the sand and pick it out.
 
 ## Explanations
 ### Cooking changes food · *defined*
@@ -31,6 +32,8 @@ Raw rice is hard and dry. After boiling, it is soft, white and bigger. A dosa st
 - e.g. Raw dal is hard. Cooked dal is soft enough to mash with a spoon.
 - e.g. Runny dosa batter on a hot tawa turns into a firm dosa in a few minutes.
 - e.g. Hard maize kernels pop into fluffy popcorn in a hot pan.
+- **Richard Wrangham:** Cooking made food softer and richer, and helped human brains grow.
+- **Other researchers:** Say meat-eating, tools and cooperation also mattered. When humans began to cook is still debated.
 ### Rice absorbs water when it cooks · *defined*
 **Definition:** When rice cooks in hot water, the starch inside each grain absorbs water and swells, so the grain gets longer, fatter and softer.
 
@@ -38,6 +41,8 @@ A dry rice grain is hard because its starch is packed tight. In cold water, only
 - e.g. Ten boiled grains in a line are about one and a half times as long as ten dry grains. Long grains like basmati can grow to nearly twice as long.
 - e.g. Soaked rice, used for idli and dosa batter, is white and a little bigger, but still hard.
 - e.g. When rice cooks, the water in the pan goes down, because the grains drink it.
+- **Cooks who use the absorption method:** Measure water so the grain soaks up everything, and nothing is thrown away.
+- **Indian cooks who drain rice:** Many families boil rice in a lot of water and pour off the starchy water, the kanji. Food scientists explain that the starch swells and sets free part of itself, so draining changes the texture.
 ### Butter melts and sets again, but ghee stays ghee · *defined*
 **Definition:** Butter melts when warm and sets again when cold. Heated for longer, its water boils away and it becomes ghee, which cannot turn back into butter.
 
@@ -45,6 +50,8 @@ Butter is mostly fat, with some water and a little milk mixed in. Warm it gently
 - e.g. Butter on hot rice melts, and sets again if the rice gets cold.
 - e.g. Ghee is runny in a Chennai summer and goes solid and grainy on a cold Delhi morning. Both of those changes go back.
 - e.g. The brown bits at the bottom of a ghee pan are the milk parts of the butter, cooked by the heat.
+- **Indian dairy tradition:** Turns curd to butter, and butter to ghee, a food prized for cooking and medicine. Slow heat gives ghee its fragrance.
+- **Food scientists:** Explain that butter is fat with a little water and milk solids mixed in. Heating boils away the water and browns the solids, which are strained out. They cannot be mixed back, so ghee stays ghee.
 ### Bacteria set the curd · *defined*
 **Definition:** Tiny living beings called bacteria eat the sugar in milk and make an acid. The acid makes the milk thick and sour. That is curd.
 
@@ -52,6 +59,8 @@ Curd is made by bacteria, not by heat. A spoon of curd holds millions of them. I
 - e.g. Families all over India set curd at night, from a spoon of the day's curd, to eat with rice the next day.
 - e.g. Curd rice in Tamil Nadu, mishti doi in Bengal and chaas in Gujarat all start with bacteria working on milk.
 - e.g. Idli and dosa batter rise overnight because tiny living beings work in the batter too.
+- **Households in India and other places:** Set curd by adding a spoon of old curd (jaman) to warm milk. They knew a little of the old curd starts the new.
+- **Pasteur, Metchnikoff and later microbiologists:** Showed that living bacteria are what change the milk.
 ### Some changes go back, and some stay changed · *defined*
 **Definition:** A change that can be undone is a reversible change. A change that cannot be undone is an irreversible change.
 
@@ -59,6 +68,9 @@ Melting and setting can go back and forth. Ice melts into water and freezes into
 - e.g. Goes back: melted chocolate sets again in the fridge.
 - e.g. Stays changed: a chapati cooked on a tawa cannot become dough again.
 - e.g. Goes back: steam from a pressure cooker turns into water drops on a cold lid.
+- e.g. Mix dal and rice in a bowl and you can pick the grains apart by hand or with a sieve. Stir sugar into tea and it spreads through the tea in pieces too small to see, so a sieve cannot catch it.
+- **Everyday view:** Some changes can be undone and some cannot.
+- **Physics:** Nothing is perfectly reversible. Every change spreads energy out a little, so the world never returns exactly to how it was. This is the idea of entropy.
 
 ## Mostly agreed
 - Heat makes the starch in rice absorb water and swell. This is why cooked rice is soft. *How we know:* Rice soaked in cold water stays hard. The same rice boiled for the same time goes soft. Under a microscope, starch grains in hot water swell and burst.
@@ -405,7 +417,7 @@ Meenakshi did not know that. She decided to test it next.
 ## Worksheets
 ### Rice, butter and curd (core, 10 questions)
 1. (mcq) In the Ten Grains in a Line experiment, some rice grains stayed dry, some were soaked in cold water and some were boiled. Which grains turned soft?  
-   Options: The dry grains / The soaked grains / The boiled grains  
+   Options: The boiled grains / The dry grains / The soaked grains  
    **Answer:** The boiled grains. *Why:* Boiled grains absorbed lots of water and swelled. They squash flat between your fingers.
 2. (truefalse) Rice soaked in cold water for 12 minutes goes as soft as boiled rice.  
    **Answer:** False. *Why:* False. Soaked grains may turn a little whiter and grow a little, but they stay hard. Heat is needed to let the water go deep inside.
@@ -425,11 +437,11 @@ Meenakshi did not know that. She decided to test it next.
 9. (perspective) A girl of 8 and her brother, who is 6, melted some butter. Then they put it in the freezer, and it set again.  
    **Answer:** A strong answer picks a side with a reason. For example: 'The brother, because it is butter and it is solid again.' Then it is fair to the sister: it may look a little different, because the water and milk bits settled.. *Why:* Both are partly right. The fat melted and set again, so that part went back. But the water and milk bits may have moved, so it is not exactly the same as before.
 10. (mcq) A grown-up melts butter in a katori. What will make it set solid again?  
-   Options: Heating it more / Making it cold / Stirring it with a spoon  
+   Options: Making it cold / Heating it more / Stirring it with a spoon  
    **Answer:** Making it cold. *Why:* Butter is mostly fat. Fat sets solid when it gets cold.
 ### Heat, water and tiny living beings (stretch, 10 questions)
 1. (mcq) Rice grains boiled for 12 minutes grew more than grains soaked in cold water for 12 minutes. Why?  
-   Options: Heat let the water go deep inside / Boiled water is wetter / The soaked grains were smaller to start with  
+   Options: Boiled water is wetter / The soaked grains were smaller to start with / Heat let the water go deep inside  
    **Answer:** Heat let the water go deep inside. *Why:* Heat loosens the packed starch inside the grain. Then much more water can get in.
 2. (order) Put these steps in order, to show how butter becomes ghee.  
    **Answer:** ['Butter melts in the pan', 'It fizzes and bubbles', 'The fizzing goes quiet', 'Golden ghee with brown bits']. *Why:* First the fat melts. Then the water boils away with a fizz. When the water has gone, it goes quiet, and the milk bits turn brown.
@@ -444,12 +456,12 @@ Meenakshi did not know that. She decided to test it next.
 7. (write) In the ten-grain test, we boiled 20 grains but only measured 10. Why did we start with extra?  
    **Answer:** Some grains may break in the water, and we need ten whole ones for a fair line.. *Why:* A strong answer says broken grains cannot go in the line, so extra grains make sure there are ten whole ones.
 8. (mcq) A spoon of curd is stirred into warm milk. What does the spoon of curd bring to the milk?  
-   Options: Bacteria / Heat / Sugar  
+   Options: Heat / Sugar / Bacteria  
    **Answer:** Bacteria. *Why:* The curd holds millions of bacteria. They feed on the milk sugar and multiply.
 9. (fill) A change that can go back is called a ______ change.  
    **Answer:** ['reversible']. *Why:* Reversible means it can be undone. Melted butter setting again is a reversible change.
 10. (mcq) In the experiment How Much Water Does Rice Drink?, one pan had only water and the other had water and rice. Why did both pans get the same amount of water and the same time on the stove?  
-   Options: So the steam lost from both pans would be about the same / So both pans would finish at the same time / Because the pans were the same colour  
+   Options: So both pans would finish at the same time / So the steam lost from both pans would be about the same / Because the pans were the same colour  
    **Answer:** So the steam lost from both pans would be about the same. *Why:* If both pans lose the same to steam, the extra water missing from the rice pan is what the rice drank.
 ### Think like a kitchen scientist (challenge, 10 questions)
 1. (write) If you boil rice grains for only 3 minutes, will the line of ten grains be as long as after 12 minutes? Why do you think so?  
@@ -482,37 +494,37 @@ Meenakshi did not know that. She decided to test it next.
 
 ## Quiz
 1. (mcq) Ten dry rice grains and ten boiled grains are lined up end to end. Which line is longer?  
-   Options: The dry grains / The boiled grains / They are the same  
+   Options: The boiled grains / The dry grains / They are the same  
    **Answer:** The boiled grains. *Why:* Boiled grains absorb water and swell, so each one is longer. If you chose the same, try lining them up yourself.
 2. (mcq) Some grains sat in cold water and some in boiling water, for 12 minutes each. Which grains stayed hard?  
-   Options: The ones in cold water / The ones in boiling water / Both stayed hard  
+   Options: The ones in boiling water / Both stayed hard / The ones in cold water  
    **Answer:** The ones in cold water. *Why:* In cold water only a little water gets in. Heat lets water go deep inside the grain, which makes it soft.
 3. (mcq) Where does most of the water in a pan of cooking rice go?  
-   Options: Into the rice grains / Through the bottom of the pan / Nowhere, it is still in the pan  
+   Options: Through the bottom of the pan / Nowhere, it is still in the pan / Into the rice grains  
    **Answer:** Into the rice grains. *Why:* The grains absorb it. Some water also leaves as steam, but most of it ends up inside the rice.
 4. (mcq) A spoon of butter is melted in warm water, then put in the freezer. What will it be after 10 minutes?  
    Options: Runny butter / Solid butter again / Ghee  
    **Answer:** Solid butter again. *Why:* Melting can go back. When butter gets cold, its fat sets solid again.
 5. (mcq) Butter in a hot pan fizzes and bubbles. What is the fizzing?  
-   Options: Water in the butter boiling into steam / The butter catching fire / Air going into the butter  
+   Options: The butter catching fire / Water in the butter boiling into steam / Air going into the butter  
    **Answer:** Water in the butter boiling into steam. *Why:* Butter has some water mixed in. When it boils, it leaves as steam and makes the fizzing sound.
 6. (mcq) What turns warm milk into curd overnight?  
    Options: Heat from the stove / Tiny living beings called bacteria / The dark at night  
    **Answer:** Tiny living beings called bacteria. *Why:* Bacteria from the spoon of curd feed on the milk sugar and make an acid that thickens the milk.
 7. (mcq) Why does curd taste sour?  
-   Options: The bacteria make an acid / Someone added lemon / The milk was old  
+   Options: Someone added lemon / The milk was old / The bacteria make an acid  
    **Answer:** The bacteria make an acid. *Why:* As the bacteria feed on milk sugar, they make an acid. Acids taste sour, like lemon juice.
 8. (mcq) Which change can go back?  
-   Options: A dosa cooking on a tawa / Ice melting into water / Milk setting into curd  
+   Options: Ice melting into water / A dosa cooking on a tawa / Milk setting into curd  
    **Answer:** Ice melting into water. *Why:* Put the water in the freezer and it turns back into ice. A dosa and curd stay changed.
 9. (mcq) Which change stays changed?  
    Options: Coconut oil going solid in the cold / Chocolate melting / Maize kernels popping into popcorn  
    **Answer:** Maize kernels popping into popcorn. *Why:* Popcorn cannot turn back into hard kernels. Coconut oil and chocolate can melt and set again.
 10. (mcq) In the ten-grain test, why did we use ten grains in a line, not just one?  
-   Options: One grain is too small to see / A line of ten shows the difference more clearly / Ten is a lucky number  
+   Options: A line of ten shows the difference more clearly / One grain is too small to see / Ten is a lucky number  
    **Answer:** A line of ten shows the difference more clearly. *Why:* One grain grows only a few millimetres. Ten grains add up, so the difference between the lines is easy to see and measure.
 11. (mcq) In the ten-grain test, the soaked and the boiled grains stayed in water for the same time. Why?  
-   Options: So that only the heat was different / So we could finish quickly / Because rice needs exactly 12 minutes  
+   Options: So we could finish quickly / Because rice needs exactly 12 minutes / So that only the heat was different  
    **Answer:** So that only the heat was different. *Why:* If only one thing changes, we know that thing made the difference. Here it was the heat.
 
 ## Applications
@@ -523,9 +535,9 @@ Meenakshi did not know that. She decided to test it next.
 
 ## Spotted around us
 - Steam rising from a pot of rice, and water drops forming on the lid, in almost every Indian kitchen at lunchtime.
-- Curd setting overnight in a covered steel or clay pot, in homes from Kerala to Kashmir.
+- Curd setting overnight in a covered steel or clay pot.
 - A small kadai of ghee being made from saved-up butter, with a curry leaf or two dropped in at the end, in many Tamil and Kannada homes.
-- Mishti doi, a sweet set curd, sold in clay pots at sweet shops in Kolkata.
+- A sweet set curd sold in clay pots at a sweet shop.
 - Ghee in a jar that is runny in summer and solid in winter.
 
 ## Open questions
@@ -560,12 +572,15 @@ Meenakshi did not know that. She decided to test it next.
 Can It Go Back? (sci.changes.L2): Topic-level song for Changing materials L2
 
 ## Links
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: A science museum with hands-on galleries, good for a day of trying things out together.
-- [Nehru Science Centre]() · place · Mumbai: A large science centre with hands-on exhibits and a science park.
-- [Birla Industrial and Technological Museum]() · place · Kolkata: A science museum with hands-on galleries and live science shows.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru: A science museum with hands-on galleries, good for a day of trying things out together.
+- Nehru Science Centre · place · Mumbai: A large science centre with hands-on exhibits and a science park.
+- Birla Industrial and Technological Museum · place · Kolkata: A science museum with hands-on galleries and live science shows.
 - [Eat Right India](https://eatrightindia.gov.in/) · interactive: For the parent: plain advice on safe and healthy food from India's food safety authority.
 
 ## Things to buy
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Ten Grains in a Line: what does cooking do to rice?. About ₹10 to ₹30. Any school ruler is fine. Used in e1. Get it before Ten Grains in a Line: what does cooking do to rice?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Set the Butter Fast, Without the Fridge. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before Set the Butter Fast, Without the Fridge.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Does cooked rice get bigger or smaller than dry rice? → Bigger. The grains absorb water.
@@ -581,7 +596,7 @@ Can It Go Back? (sci.changes.L2): Topic-level song for Changing materials L2
 - Core: e1, a1, g1, ws-core
 
 ## Sources
-- Notebook items phy:99 (physics in cooking: boiling, melting, heating) and chem:107 (food chemistry). At Class 2 this unit keeps to melting, boiling and setting. Browning and flavours are left for sci.changes.kitchen-science.L4 and L5.
+- Notebook items phy:99 (physics in cooking: boiling, melting, heating) and chem:107 (food chemistry). At Class 2 this lesson keeps to melting, boiling and setting. Browning and flavours are left for sci.changes.kitchen-science.L4 and L5.
 - ideas/by_topic/changing-materials.md: the founder's idea to melt chocolate in the kitchen and watch the texture change shaped the butter and ghee activity. Melting races are not repeated here, because sci.states.melting-and-solidifying.L2 has them.
 - This is the first kitchen-science level. It leads to sci.changes.kitchen-science.L4 (browning, rising bread, onions). Curd-setting tests already in sci.microorganisms.microbes-everywhere.L2, sci.food.where-food-comes-from.L3 and sci.habitats.habitats.L3 are not repeated: curd here is a sensory comparison only.
 - Cooked white rice is about 68 to 70% water: USDA FoodData Central, rice, white, long-grain, regular, cooked. Raw rice is about 12% water.

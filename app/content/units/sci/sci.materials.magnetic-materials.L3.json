@@ -876,11 +876,11 @@
       "t": "mcq",
       "q": "The spoon stuck to the magnet. A classmate says the spoon has iron in it. Is that proved, not proved, or wrong?",
       "options": [
-       "Proved",
        "Not proved",
+       "Proved",
        "Wrong"
       ],
-      "a": 0,
+      "a": 1,
       "why": "In a home, only iron, nickel, cobalt and mixtures containing them stick to a magnet. Iron is by far the most common. So the spoon contains a magnetic metal, nearly always iron. Picking not proved often means thinking a magnet can be fooled. Only a magnetic material can make it stick, so a stick always tells us that one is there."
      }
     },
@@ -1014,12 +1014,12 @@
      "t": "mcq",
      "p": "Before testing, a girl guesses that a magnet will pick up a tiny piece of aluminium foil, because the foil is so light. What will happen?",
      "opts": [
-      "The foil will not move, because aluminium is not magnetic, however light it is",
       "The foil will jump up, because it is light",
+      "The foil will not move, because aluminium is not magnetic, however light it is",
       "The foil will stick only if it is crumpled into a ball",
       "The foil will jump up and then fall off"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A magnet attracts what a thing is made of, not how light it is. Aluminium is not magnetic, so even a tiny scrap does not move. A heavy iron nail does. A strong answer says that weight is not what matters."
     },
     {
@@ -1041,10 +1041,10 @@
      "opts": [
       "It is magnetic",
       "It glues the magnet on",
-      "It lets the magnetic force act through it on to the steel door",
-      "It makes the magnet stronger"
+      "It makes the magnet stronger",
+      "It lets the magnetic force act through it on to the steel door"
      ],
-     "a": 2,
+     "a": 3,
      "why": "Paper is not magnetic, so the magnetic force acts straight through it. The magnet and the steel door attract each other, and the paper is held between them. Many people think the magnet is holding the paper itself."
     },
     {
@@ -1128,12 +1128,12 @@
      "t": "mcq",
      "p": "A girl puts a magnet in a plastic bag and drags it through sand from the beach. Tiny black grains cling to the bag. What can she say?",
      "opts": [
+      "The black grains have iron, or another magnetic material, in them",
       "The black grains are gold",
       "The black grains are plastic",
-      "The sand is wet",
-      "The black grains have iron, or another magnetic material, in them"
+      "The sand is wet"
      ],
-     "a": 3,
+     "a": 0,
      "why": "A magnet attracts only magnetic materials, so the grains must contain one. Most are magnetite, a mineral made of iron and oxygen. The bag lets her pull the magnet out and drop the grains onto paper.",
      "how": "a5"
     },
@@ -1169,12 +1169,12 @@
      "t": "mcq",
      "p": "In the Make a Nail a Magnet experiment, the steel nail picked up 6 clips while touching the magnet. The copper wire picked up none. What does the copper result tell you?",
      "opts": [
-      "The copper wire was too thin",
       "Copper cannot become a magnet, even when it touches one",
+      "The copper wire was too thin",
       "The magnet was weak",
       "Copper needs longer to become a magnet"
      ],
-     "a": 1,
+     "a": 0,
      "why": "While it touched the magnet, the nail became a magnet for a while and held clips. Copper is not magnetic, so a magnet cannot turn it into one. The same magnet worked on the nail, so the magnet was not weak.",
      "context": "In the experiment Make a Nail a Magnet, a magnet turns a nail into a magnet for a short time. Here are some made-up results.",
      "chart": {
@@ -1213,10 +1213,10 @@
      "opts": [
       "The pin jumps up both times",
       "The pin jumps up through the steel but not the plastic",
-      "Through the plastic, the pin jumps up. Through the steel plate, it hardly moves, because the magnet sticks to the steel plate instead",
-      "The pin does not move either time"
+      "The pin does not move either time",
+      "Through the plastic, the pin jumps up. Through the steel plate, it hardly moves, because the magnet sticks to the steel plate instead"
      ],
-     "a": 2,
+     "a": 3,
      "why": "Plastic is not magnetic, so the force acts through it. A magnetic steel plate is attracted itself, and it takes up most of the magnet's force, so very little reaches the pin. Try it with a plastic plate and a steel plate that a magnet sticks to."
     },
     {
@@ -1225,10 +1225,10 @@
      "opts": [
       "Yes, 30 is 3 times 10, so it is exactly 3 times as strong",
       "No, the fridge magnet is stronger",
-      "No, paper is magnetic",
-      "The bar magnet is stronger, but the sheets do not tell us exactly how many times stronger"
+      "The bar magnet is stronger, but the sheets do not tell us exactly how many times stronger",
+      "No, paper is magnetic"
      ],
-     "a": 3,
+     "a": 2,
      "why": "Counting sheets puts the magnets in order: more sheets means stronger. But a magnet's force falls quickly with distance, not evenly, so the numbers do not say exactly 'how many times'. A strong answer says what the test can tell us and what it cannot.",
      "how": "e2"
     },
@@ -1315,12 +1315,12 @@
      "t": "mcq",
      "p": "A girl drops her bar magnet on a hard floor again and again. Later it picks up fewer pins. What is the best explanation?",
      "opts": [
-      "The knocks turned some of its domains out of line, so it got weaker",
       "The floor took the iron out of the magnet",
       "The magnet became non-magnetic metal",
+      "The knocks turned some of its domains out of line, so it got weaker",
       "Pins get heavier over time"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Hard knocks turn some domains out of line, so the magnet gets weaker. Nothing is taken away. The same atoms are there, but fewer of their tiny magnets point the same way."
     },
     {
@@ -1354,12 +1354,12 @@
      "t": "mcq",
      "p": "Andre Geim, a scientist, made a live frog float inside a very strong magnet. What does this show?",
      "opts": [
+      "Even things we call non-magnetic respond a tiny bit to a magnet",
       "Frogs contain a lot of iron",
       "The magnet is a lodestone",
-      "Even things we call non-magnetic respond a tiny bit to a magnet",
       "Frogs are lighter than air"
      ],
-     "a": 2,
+     "a": 0,
      "why": "A magnet very weakly repels water and many other things. A huge magnet repels a frog strongly enough to hold the frog up. Here the magnet repels the frog, so iron is not the reason. The frog was unharmed."
     },
     {
@@ -1386,12 +1386,12 @@
      "t": "mcq",
      "p": "A magnet cannot tell a brass key from an aluminium key. Which test could?",
      "opts": [
+      "Feel how heavy each one is, and look at its colour",
       "Use a bigger magnet",
       "Heat both red-hot",
-      "Soak both in water",
-      "Feel how heavy each one is, and look at its colour"
+      "Soak both in water"
      ],
-     "a": 3,
+     "a": 0,
      "why": "Brass is heavier and yellow. Aluminium is lighter and silver-grey. A bigger magnet still attracts neither of them. Here a magnet is the wrong tool, and a strong answer picks a test that looks at a different property."
     },
     {
@@ -1503,11 +1503,11 @@
      "p": "Michael Faraday hung a bar of heavy glass between the two ends of a very strong electromagnet. When he switched it on, the glass turned to lie across the gap. An iron bar would have turned the other way. What does this show?",
      "opts": [
       "Glass is a magnet",
-      "Glass contains iron",
       "Glass is pushed away very weakly by a magnet, unlike iron",
+      "Glass contains iron",
       "The electromagnet was broken"
      ],
-     "a": 2,
+     "a": 1,
      "why": "Iron is drawn in towards the magnet's ends, so an iron bar points along the gap. The glass was pushed away from both ends, so it lay across the gap. Faraday found that almost every material responds to a magnet, in one way or the other."
     },
     {
@@ -1713,12 +1713,12 @@
       "t": "mcq",
       "q": "In a typical test, everything that stuck to the magnet was…",
       "options": [
-       "Shiny",
        "Made of iron or steel",
+       "Shiny",
        "Made of any metal",
        "Heavy"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The nail, pin and paper clip all contain iron. A shiny brass key and a shiny foil ball did not stick, so shine is not what matters. Picking 'any metal' often means thinking all metals are the same. The foil, copper and brass were all metals, and none of them stuck. A heavy stone did not stick either."
      },
      "chart": {
@@ -1876,11 +1876,11 @@
       "t": "mcq",
       "q": "A magnet attracts a clip through cloth, plastic and wood. What does that tell us?",
       "options": [
-       "These materials do not block the magnetic force",
        "These materials are magnetic",
+       "These materials do not block the magnetic force",
        "The clip is made of cloth"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The magnet still reaches the clip, so its force passes through these materials. They are non-magnetic, so the magnet does not attract them, and they do not stop its force. Picking 'these materials are magnetic' mixes up two ideas. One is a magnet working through a material. The other is a magnet attracting the material itself."
      }
     },
@@ -2058,11 +2058,11 @@
       "t": "mcq",
       "q": "When the nail is taken away from the magnet, most clips fall off. What does that tell us?",
       "options": [
-       "The nail was a magnet only while the magnet was touching it",
        "The clips were too heavy",
-       "The nail is not magnetic"
+       "The nail is not magnetic",
+       "The nail was a magnet only while the magnet was touching it"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The magnet lined up the domains in the nail, so the nail became a magnet and picked up clips. Without the magnet, most domains turn back, and the nail stops being a magnet. Picking 'the nail is not magnetic' often means thinking a magnetic thing must be a magnet all the time. A magnetic material becomes a magnet while a magnet lines it up. Soft iron loses this soon after, but hard steel can stay a magnet for a long time."
      }
     },
@@ -2399,11 +2399,11 @@
       "t": "mcq",
       "q": "After the magnet is done, what is left in the tray?",
       "options": [
-       "Only things that are not iron or steel, including some metals",
        "Only plastic",
-       "Nothing"
+       "Nothing",
+       "Only things that are not iron or steel, including some metals"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The magnet only takes out magnetic things. Aluminium foil, copper wire and the brass key are metals. They are left behind with the plastic and the rice. Picking 'only plastic' usually means thinking all metals are magnetic."
      }
     },
@@ -2502,11 +2502,11 @@
       "t": "mcq",
       "q": "A magnet caught some dark specks from the roof dust. What can we be sure of?",
       "options": [
-       "They contain iron, nickel or cobalt",
        "They come from space",
+       "They contain iron, nickel or cobalt",
        "They are made of gold"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A magnet attracts only iron, nickel, cobalt and some of their mixtures. So the specks must contain one of these. But iron dust comes from many places on Earth, such as rust, brakes and welding. So we cannot be sure a speck came from space. Picking 'from space' often means thinking a magnet can tell where a thing came from."
      },
      "think": "Jon Larsen, a jazz musician in Norway, spent years searching city roofs for space dust with a magnet. How might scientists check that a speck is really from space?"
@@ -2594,11 +2594,11 @@
       "t": "mcq",
       "q": "Why did the magnet pick up only a few black specks from a whole plate of soil?",
       "options": [
-       "Only the magnetite grains are attracted. The rest of the soil is not magnetic",
        "The magnet was too weak to lift soil",
-       "The magnet turned some soil into iron"
+       "The magnet turned some soil into iron",
+       "Only the magnetite grains are attracted. The rest of the soil is not magnetic"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Most of the soil is clay, sand grains and bits of plants, which are not magnetic. A magnet attracts only the magnetite grains, because they contain iron. Picking 'the magnet turned soil into iron' often means thinking a magnet can change what is in a thing. It only attracts what is already there."
      }
     },
@@ -2675,11 +2675,11 @@
       "t": "mcq",
       "q": "The magnet picked up the clip, nut and nail, but not the other three. What do we know about the other three?",
       "options": [
-       "A magnet does not attract them, but we do not know what they are made of",
        "They are all plastic",
+       "A magnet does not attract them, but we do not know what they are made of",
        "They are all wood"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A magnet only tells us which things it attracts. The foil is metal, the cap is plastic and the peg is wood, and the magnet attracts none of them. So it cannot tell them apart. Picking 'all plastic' or 'all wood' often means thinking a no from the magnet names the material. It only tells us what a thing is not."
      }
     },
@@ -2763,11 +2763,11 @@
       "t": "mcq",
       "q": "In Magnet Tag, which card keeps you safe from the magnet?",
       "options": [
-       "A glass bangle",
        "A steel nail",
+       "A glass bangle",
        "A paper clip"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Glass is not magnetic, so the magnet cannot catch you. A magnet attracts both the nail and the clip. Picking the nail often means thinking metal is safe because it is strong. But strong is not the same as non-magnetic."
      }
     },
@@ -3148,11 +3148,11 @@
       "t": "mcq",
       "q": "Why does sticking a steel washer on the wooden board make the magnet stay?",
       "options": [
-       "The magnet attracts the steel washer",
        "The wood becomes magnetic",
-       "The tape is magnetic"
+       "The tape is magnetic",
+       "The magnet attracts the steel washer"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A magnet attracts steel, and the washer is steel. The wood is still not magnetic. Picking 'the wood becomes magnetic' often means thinking a magnet changes whatever is near it. It only attracts the steel."
      }
     },
@@ -3214,12 +3214,12 @@
    "t": "mcq",
    "p": "What does non-magnetic mean?",
    "opts": [
-    "It is not a metal",
     "A magnet does not attract it, or attracts it too weakly to notice",
+    "It is not a metal",
     "It is broken",
     "It is too heavy"
    ],
-   "a": 1,
+   "a": 0,
    "outcome": 0,
    "why": "Non-magnetic means a magnet does not attract it. Picking 'not a metal' often means thinking all metals are magnetic. Aluminium is a metal, and it is non-magnetic."
   },
@@ -3229,10 +3229,10 @@
    "opts": [
     "Test again until it sticks",
     "Say the magnet is broken",
-    "Write down what happened and change her idea",
-    "Hide the diya"
+    "Hide the diya",
+    "Write down what happened and change her idea"
    ],
-   "a": 2,
+   "a": 3,
    "outcome": 1,
    "why": "A surprise teaches us something. We write down what happened, and change our idea. Picking 'test again until it sticks' means wanting to be right more than wanting to learn."
   },
@@ -3240,12 +3240,12 @@
    "t": "mcq",
    "p": "Which metals does a magnet attract?",
    "opts": [
-    "Iron, nickel and cobalt",
     "Gold, silver and copper",
     "Aluminium, brass and tin",
-    "All metals"
+    "All metals",
+    "Iron, nickel and cobalt"
    ],
-   "a": 0,
+   "a": 3,
    "outcome": 2,
    "why": "Only iron, nickel and cobalt are magnetic at room temperature. Picking 'all metals' is the most common mistake about magnets."
   },
@@ -3253,12 +3253,12 @@
    "t": "mcq",
    "p": "In which pair does a magnet attract BOTH things?",
    "opts": [
-    "A copper wire and a steel nail",
     "A steel nail and a steel paper clip",
+    "A copper wire and a steel nail",
     "Aluminium foil and a steel pin",
     "A brass key and a steel pin"
    ],
-   "a": 1,
+   "a": 0,
    "outcome": 2,
    "why": "The nail and the clip both contain iron. In every other pair, one of the two things is copper, aluminium or brass, which a magnet does not attract."
   },
@@ -3267,11 +3267,11 @@
    "p": "Look at the table. What does it show about other metals, such as aluminium, copper and brass?",
    "opts": [
     "All of them stuck",
-    "Half of them stuck",
     "None of them stuck",
+    "Half of them stuck",
     "Only the shiny ones stuck"
    ],
-   "a": 2,
+   "a": 1,
    "outcome": 2,
    "why": "In the table, 0 of the other metals stuck and 4 did not stick. Picking 'all of them stuck' often means believing that all metals are magnetic, before looking at the results.",
    "context": "In the Great Magnet Test, you test 16 objects with a magnet and group the results. Here are some made-up results.",
@@ -3308,11 +3308,11 @@
    "p": "A girl finds that the bottom of her steel pan sticks to a magnet, but its sides do not. What is the best explanation?",
    "opts": [
     "The sides are plastic",
+    "The bottom has a disc of magnetic steel, and the sides are a steel mixture that is not magnetic",
     "Magnets only stick to the bottoms of things",
-    "The magnet is too weak for the sides",
-    "The bottom has a disc of magnetic steel, and the sides are a steel mixture that is not magnetic"
+    "The magnet is too weak for the sides"
    ],
-   "a": 3,
+   "a": 1,
    "outcome": 3,
    "why": "Steel is a mixture, and the mixtures differ. Many pans have sides of nickel-rich stainless steel, with a magnetic steel disc fixed to the bottom so they work on an induction stove. Picking 'plastic' often means thinking a thing that does not stick cannot be metal."
   },
@@ -3320,12 +3320,12 @@
    "t": "mcq",
    "p": "What is brass made from?",
    "opts": [
-    "Copper and zinc",
     "Iron and carbon",
+    "Copper and zinc",
     "Copper and tin",
     "Aluminium and iron"
    ],
-   "a": 0,
+   "a": 1,
    "outcome": 3,
    "why": "Brass is copper and zinc. Steel is iron and carbon. Bronze is copper and tin. Neither copper nor zinc is magnetic, and brass is not magnetic either."
   },
@@ -3360,11 +3360,11 @@
    "p": "A magnet sticks to a gold-coloured chain. What is the best conclusion?",
    "opts": [
     "It is pure gold",
+    "It is not pure gold",
     "It is silver",
-    "It is plastic",
-    "It is not pure gold"
+    "It is plastic"
    ],
-   "a": 3,
+   "a": 1,
    "outcome": 5,
    "why": "Gold is not magnetic. So a chain that sticks must have a magnetic metal in it, and it cannot be pure gold. Picking 'pure gold' often means thinking magnets are attracted to precious metals."
   },
@@ -3372,12 +3372,12 @@
    "t": "mcq",
    "p": "A key does not stick to a magnet. Which is the best thing to say?",
    "opts": [
-    "It might be brass, aluminium, copper or a steel that does not stick. We cannot tell which",
     "It is brass",
     "It is plastic",
-    "It is steel"
+    "It is steel",
+    "It might be brass, aluminium, copper or a steel that does not stick. We cannot tell which"
    ],
-   "a": 0,
+   "a": 3,
    "outcome": 5,
    "why": "A magnet only tells us whether it attracts a thing. A magnet does not attract many different metals, so a no tells us little. A magnet is best at saying yes to iron, nickel and cobalt."
   },
@@ -3386,11 +3386,11 @@
    "p": "How does a scrap dealer use a magnet?",
    "opts": [
     "To find gold",
-    "To lift iron and steel out of a mixed heap",
     "To melt metal",
-    "To clean metal"
+    "To clean metal",
+    "To lift iron and steel out of a mixed heap"
    ],
-   "a": 1,
+   "a": 3,
    "outcome": 5,
    "why": "A big magnet lifts iron and steel and leaves the rest. Aluminium, copper and brass, which are worth more, are sorted by other tests."
   },
@@ -3398,12 +3398,12 @@
    "t": "mcq",
    "p": "Why is iron magnetic?",
    "opts": [
+    "The tiny magnets of its atoms point the same way, in domains",
     "It is shiny",
     "It is heavy",
-    "The tiny magnets of its atoms point the same way, in domains",
     "It is very hard"
    ],
-   "a": 2,
+   "a": 0,
    "outcome": 6,
    "why": "Each iron atom is a tiny magnet, and the tiny magnets of neighbouring atoms point the same way, in domains. A nearby magnet turns the domains to point its way, and then attracts the iron. Picking 'shiny' or 'heavy' often means choosing something we can see, not what is inside."
   },
@@ -3805,6 +3805,93 @@
     "c2",
     "a8"
    ]
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Through the Paper: does a magnet work through things?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before Through the Paper: does a magnet work through things?."
+  },
+  {
+   "id": "b-insulated-wire-or-crocodile-",
+   "item": "Insulated wire or crocodile clips",
+   "kind": "tool",
+   "why": "Used in The Great Magnet Test: what does a magnet attract?, Make a Nail a Magnet: which materials can become magnets?, The Kabadiwala's Heap: sort the scrap. About ₹20 to ₹80. Thin insulated wire from an old charger works.",
+   "url": "https://www.amazon.in/s?k=crocodile+clip+wire+set",
+   "used_in": [
+    "e1",
+    "e3",
+    "a3"
+   ],
+   "plan": "Get it before The Great Magnet Test: what does a magnet attract?."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Through the Paper: does a magnet work through things?, Build a Magnetic Sorting Ramp. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "e2",
+    "p1"
+   ],
+   "plan": "Get it before Through the Paper: does a magnet work through things?."
+  },
+  {
+   "id": "b-clean-sand--a-small-bag",
+   "item": "Clean sand (a small bag)",
+   "kind": "material",
+   "why": "Used in Hidden Iron in Soil and Sand. About ₹20 to ₹60. Fine soil sieved from a pot works.",
+   "url": "https://www.amazon.in/s?k=play+sand+small+bag",
+   "used_in": [
+    "a5"
+   ],
+   "plan": "Get it before Hidden Iron in Soil and Sand."
+  },
+  {
+   "id": "b-a-small-toy-car-with-free-ro",
+   "item": "A small toy car with free-rolling wheels",
+   "kind": "material",
+   "why": "Used in Magnet Tag. About ₹100 to ₹200. A marble or a round torch cell works.",
+   "url": "https://www.amazon.in/s?k=toy+car+pull+back+small",
+   "used_in": [
+    "a7"
+   ],
+   "plan": "Get it before Magnet Tag."
+  },
+  {
+   "id": "b-iron-nails-or-iron-filings",
+   "item": "Iron nails or iron filings",
+   "kind": "material",
+   "why": "Used in The Great Magnet Test: what does a magnet attract?, Make a Nail a Magnet: which materials can become magnets?, The Mystery Bag. About ₹20 to ₹80. Short steel nails from a hardware shop.",
+   "url": "https://www.amazon.in/s?k=iron+filings+science",
+   "used_in": [
+    "e1",
+    "e3",
+    "a6",
+    "a7"
+   ],
+   "plan": "Get it before The Great Magnet Test: what does a magnet attract?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

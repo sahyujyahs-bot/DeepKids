@@ -1,9 +1,9 @@
 # Where food comes from: food from plants and food from animals
 `sci.food.where-food-comes-from.L1`
 
-**Summary.** A mango tree never eats, yet it grows big and makes mangoes. How? In this unit you will sort your lunch into food from plants and food from animals, and turn thin sugar water thick to see how bees make honey from nectar.
+**Summary.** A mango tree never eats, yet it grows big and makes mangoes. How? In this lesson you will sort your lunch into food from plants and food from animals, and turn thin sugar water thick to see how bees make honey from nectar.
 
-**Intro.** *Hold a spoon of honey and tip it slowly. The honey creeps off the spoon. Now tip a spoon of water. The water runs off at once. Bees make honey from a thin, watery juice inside flowers. How do they make it so thick?* Every food we eat comes from somewhere. Most of it comes from plants or from animals. In this unit you sort your lunch into food from plants and food from animals. You find out that plants make their own food, and animals must eat. Then you test what happens to thin sugar water under a fan. Bees make honey in a similar way.
+**Intro.** *Hold a spoon of honey and tip it slowly. The honey creeps off the spoon. Now tip a spoon of water. The water runs off at once. Bees make honey from a thin, watery juice inside flowers. How do they make it so thick?* Every food we eat comes from somewhere. Most of it comes from plants or from animals. In this lesson you sort your lunch into food from plants and food from animals. You find out that plants make their own food, and animals must eat. Then you test what happens to thin sugar water under a fan. Bees make honey in a similar way.
 
 ## Learning outcomes
 0. By the end I can sort foods into food from plants and food from animals, and give two examples of each.
@@ -41,6 +41,8 @@ Rice, wheat, ragi and dal are seeds. Mangoes, bananas and tomatoes are fruits. P
 - e.g. A dosa is made from rice and urad dal. Both are seeds.
 - e.g. Coconut is the fruit of the coconut palm.
 - e.g. In the 1940s, Kamala Sohonie, the first Indian woman to earn a PhD in science, studied neera. Neera is the sweet sap of palm trees.
+- e.g. A raw carrot and a carrot poriyal both come from a plant. Cooking changes how the food tastes, but not where it came from.
+- e.g. At Pongal, a harvest festival in Tamil Nadu, families make sweet pongal from rice, moong dal and jaggery. The rice, dal and jaggery come from plants. The milk comes from a cow.
 ### Food from animals · *defined*
 **Definition:** Animals give us milk, eggs and honey. Some people also eat fish and meat.
 
@@ -367,13 +369,13 @@ The next day, Divya tried drying nectar herself. She made sugar water, thin like
   - Check: How does a honey bee's tongue pick up nectar? → **Nectar sticks between the tiny hairs on her tongue**
 
 ## Worksheets
-### Food from Plants, Food from Animals (core) (core, 12 questions)
+### Food from Plants, Food from Animals (core) (core, 13 questions)
 1. (sort) Sort these foods. Which came from a plant, and which came from an animal?  
    **Answer:** rice → From a plant; milk → From an animal; a banana → From a plant; an egg → From an animal; palak → From a plant; curd → From an animal. *Why:* Rice, bananas and palak are parts of plants. Milk and eggs are made by animals, and curd is made from milk.
 2. (match) Draw a line from each food to the plant or animal who made that food.  
    **Answer:** honey → honey bees; milk → a cow; an egg → a hen; a coconut → a coconut palm. *Why:* Bees make honey from nectar. A cow makes milk. A hen lays eggs. A coconut grows on a coconut palm.
 3. (mcq) Which one of these did a plant make?  
-   Options: An egg / A mango / A glass of milk  
+   Options: An egg / A glass of milk / A mango  
    **Answer:** A mango. *Why:* A mango is the fruit of the mango tree. Eggs and milk are made by animals.
 4. (draw) In the Nectar to Honey experiment, you left one drop of sugar water under a fan and covered another drop with a katori. Draw the two plates as they looked the next morning. Show which drop ran when you tilted the plate.  
    **Answer:** The open drop thick and still. The covered drop running down the plate.. *Why:* A strong drawing shows the open drop staying put and the covered drop running in a line.
@@ -394,6 +396,8 @@ The next day, Divya tried drying nectar herself. She made sugar water, thin like
    **Answer:** ['A flower makes nectar.', 'A bee drinks the nectar and flies home.', 'Bees fan the nectar until it is thick.', 'We eat the honey.']. *Why:* Nectar is made first, then carried, then dried into honey, and last of all eaten.
 12. (draw) Draw one food from a plant and one food from an animal that you ate today.  
    **Answer:** Any two true examples, such as a dosa and a glass of milk.. *Why:* A strong drawing names both foods and can say who made each one.
+13. (write) Say it out loud, and a grown-up writes it: a carrot can be eaten raw or cooked. Why does cooking not change which group the carrot is in?  
+   **Answer:** Cooking changes how the carrot tastes and feels. It does not change the plant the carrot came from.. *Why:* A strong answer says that cooking changes the food but not where it came from.
 ### Honey, Milk and Eggs (stretch) (stretch, 11 questions)
 1. (write) In the Nectar to Honey experiment, the drop of sugar water under the fan turned thick overnight. What would the drop look like after two more days under the fan? Why?  
    **Answer:** Even smaller and harder, maybe a shiny crust. The moving air keeps taking water away until almost none is left.. *Why:* A strong answer says what the child would see and says the water keeps leaving into the air.
@@ -408,7 +412,7 @@ The next day, Divya tried drying nectar herself. She made sugar water, thin like
 6. (draw) A real bee's tongue is hairy, and nectar sticks between the hairs. Draw a tool from home that works in the same way.  
    **Answer:** A paintbrush, with drops of sugar water held between its hairs.. *Why:* A strong drawing shows a tool with hairs or a soft surface that holds drops, and the child can say why nectar sticks to it.
 7. (mcq) Why do bees fan their wings over the honeycomb?  
-   Options: To dry the nectar into honey / To keep the flowers away / To make the honey colder  
+   Options: To keep the flowers away / To make the honey colder / To dry the nectar into honey  
    **Answer:** To dry the nectar into honey. *Why:* The moving air from their wings makes water evaporate from the nectar, until it is thick honey.
 8. (match) Match each food to the plant part we eat.  
    **Answer:** rice → seed; a mango → fruit; palak → leaf; a carrot → root. *Why:* Rice grains are seeds. A mango is a fruit. Palak is a leaf. A carrot is a root.
@@ -427,7 +431,7 @@ The next day, Divya tried drying nectar herself. She made sugar water, thin like
 
 ## Quiz
 1. (mcq) Which of these is food from an animal?  
-   Options: An idli / A cup of milk / A banana  
+   Options: A cup of milk / An idli / A banana  
    **Answer:** A cup of milk. *Why:* A cow, buffalo or goat makes milk. Idli is made from seeds, and a banana is a fruit.
 2. (mcq) Which of these is food from a plant?  
    Options: An egg / Curd / A coconut  
@@ -436,29 +440,32 @@ The next day, Divya tried drying nectar herself. She made sugar water, thin like
    Options: Salt / Rice / Ghee  
    **Answer:** Salt. *Why:* Salt comes from sea water or from the ground. Rice is a seed, and ghee is made from milk.
 4. (mcq) How does a mango tree get food?  
-   Options: The tree makes food in the leaves, from sunlight, air and water / The tree eats insects / The tree eats the soil  
+   Options: The tree eats insects / The tree eats the soil / The tree makes food in the leaves, from sunlight, air and water  
    **Answer:** The tree makes food in the leaves, from sunlight, air and water. *Why:* Green plants make their own food in their leaves. The soil gives the tree water and small amounts of minerals, but not food.
 5. (mcq) A goat eats leaves all day. Why does the goat need to eat?  
    Options: Goats, like all animals, get their food by eating / Goats eat only for fun / Goats make food from sunlight  
    **Answer:** Goats, like all animals, get their food by eating. *Why:* Animals, including goats and people, cannot make food from sunlight. So they eat plants, or other animals, or both.
 6. (mcq) What do honey bees make honey from?  
-   Options: Flower nectar / Rain water / Mud  
+   Options: Rain water / Mud / Flower nectar  
    **Answer:** Flower nectar. *Why:* Bees drink nectar from flowers, carry it home and dry it into honey.
 7. (mcq) In the sugar water test, why did we cover one drop with a katori?  
    Options: To see what happens when moving air cannot reach the drop / To keep ants off the drop / To make the drop sweeter  
    **Answer:** To see what happens when moving air cannot reach the drop. *Why:* One drop was open and one was covered. Everything else was the same, so we could see what the moving air did.
 8. (mcq) Who makes the honey in a beehive?  
-   Options: The female worker bees / The male bees / The beekeeper  
+   Options: The male bees / The beekeeper / The female worker bees  
    **Answer:** The female worker bees. *Why:* The worker bees, who are all female, gather nectar and make honey. Male bees make no honey. The beekeeper only takes some out.
 9. (mcq) What does a cow eat to make her milk?  
-   Options: Grass and other plants / Milk / Stones  
+   Options: Milk / Grass and other plants / Stones  
    **Answer:** Grass and other plants. *Why:* A cow makes milk from the grass, hay and other plants she eats.
 10. (mcq) Where does an egg come from?  
    Options: A hen lays the egg / Eggs grow on trees / Eggs are made in shops  
    **Answer:** A hen lays the egg. *Why:* A hen lays eggs. The shop only sells them.
 11. (mcq) You are about to test whether a fan makes a drop of sugar water dry faster. What should you do first?  
-   Options: Make a guess and say why / Eat the sugar / Wash the plates  
+   Options: Eat the sugar / Make a guess and say why / Wash the plates  
    **Answer:** Make a guess and say why. *Why:* Scientists guess first and give a reason. Then the test shows if the guess was right.
+12. (mcq) Sweet pongal is a festival food made from rice, moong dal, jaggery and milk. Which part comes from an animal?  
+   Options: The rice / The jaggery / The milk  
+   **Answer:** The milk. *Why:* Rice, moong dal and jaggery all come from plants. Milk comes from a cow, so it is food from an animal.
 
 ## Applications
 - Beekeepers in Kodagu, Kerala and many other places keep honey bees in wooden boxes. The bees make honey and also carry pollen to coffee, coconut and fruit flowers.
@@ -467,10 +474,10 @@ The next day, Divya tried drying nectar herself. She made sugar water, thin like
 - Honey keeps for a very long time without spoiling, because it has so little water in it.
 
 ## Spotted around us
-- A huge rock bee comb hanging under a ledge or a water tank on a tall building, in Bengaluru, Hyderabad or Chennai. Watch from far away and never disturb it.
+- A huge rock bee comb hanging under a ledge or a water tank on a tall building. Watch from far away and never disturb it.
 - A milk booth or a milk van in the early morning, bringing milk from the dairy.
-- Green rice fields from a train window, in Thanjavur, Kerala, Bengal or Assam.
-- A fish market in Kochi or Kolkata, with fish just brought in from the sea or the river.
+- Green rice fields from a train window.
+- A fish market, with fish just brought in from the sea or the river.
 - A bee visiting a flower on a balcony pot, like tulsi, a hibiscus or a marigold.
 
 ## Open questions
@@ -507,10 +514,11 @@ From the Flower and the Field (sci.food.L1): Topic-level song for Food and nutri
 
 ## Links
 - [iNaturalist](https://www.inaturalist.org/) · interactive: For the parent: photograph a bee on a flower near your home and find out which kind of bee she is.
-- [Central Bee Research and Training Institute]() · place · Pune: A government institute that studies bees and trains beekeepers. Ask before you visit.
-- [Lalbagh Botanical Garden]() · place · Bengaluru: Many flowering trees, where you can watch bees visiting flowers from a safe distance.
+- Central Bee Research and Training Institute · place · Pune: A government institute that studies bees and trains beekeepers. Ask before you visit.
+- Lalbagh Botanical Garden · place · Bengaluru: Many flowering trees, where you can watch bees visiting flowers from a safe distance.
 
 ## Things to buy
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name two foods that come from plants. → Any two, such as rice and bananas.

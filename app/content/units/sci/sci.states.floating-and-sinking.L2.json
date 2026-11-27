@@ -554,10 +554,10 @@
       "q": "The heavy rolling pin floated, and the light coin sank. What does that show?",
       "options": [
        "Heavy things always sink",
-       "How heavy a thing is does not decide if it floats",
-       "The water was too shallow"
+       "The water was too shallow",
+       "How heavy a thing is does not decide if it floats"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The rolling pin was much heavier, yet it floated. So weight alone does not decide. Picking 'heavy things always sink' means trusting the hand more than the test."
      },
      "context": "In this step of the bucket test, you put each thing in the water and see if it floats."
@@ -995,11 +995,11 @@
       "t": "mcq",
       "q": "Why did the ball jump up when you let go?",
       "options": [
-       "The water pushed it up",
        "The ball is heavy",
+       "The water pushed it up",
        "The bucket shook"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Water pushes up on anything put into it. This push is called upthrust. The push on the ball is much bigger than the ball's weight, so the ball shoots up."
      }
     }
@@ -1526,10 +1526,10 @@
      "p": "You want to know if a tiny piece of potato floats. What should you do first?",
      "opts": [
       "Drop it in and see",
-      "Guess, and say why",
-      "Ask a friend"
+      "Ask a friend",
+      "Guess, and say why"
      ],
-     "a": 1,
+     "a": 2,
      "why": "First you guess and give a reason. Then the test shows if you were right. Guessing first helps you notice what surprised you."
     },
     {
@@ -1552,11 +1552,11 @@
      "t": "mcq",
      "p": "In the orange test, what happened to the orange after it was peeled?",
      "opts": [
-      "It floated higher",
       "It usually sank",
+      "It floated higher",
       "It broke into pieces"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The peel is full of tiny air pockets. Without it, the orange is heavier than the water that would fill the same space, so it usually sinks. Picking 'floated higher' means thinking lighter always floats.",
      "context": "This question is about the orange test. You float a whole orange, then peel it and try again.",
      "how": "e2"
@@ -1698,10 +1698,10 @@
    "p": "What does 'float' mean?",
    "opts": [
     "It goes to the bottom and stays there",
-    "It stays at the top and comes back up when pushed under",
-    "It melts in the water"
+    "It melts in the water",
+    "It stays at the top and comes back up when pushed under"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A floater stays at the top. Push it under, let go, and it comes back up. Picking 'goes to the bottom' mixes it up with sinking.",
    "outcome": 0
   },
@@ -1710,10 +1710,10 @@
    "p": "Which of these sinks?",
    "opts": [
     "A wooden spoon",
-    "A steel spoon",
-    "A plastic bottle cap"
+    "A plastic bottle cap",
+    "A steel spoon"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Steel is heavier than the water that would fill the same space, so a steel spoon sinks. Wood and most bottle caps float.",
    "outcome": 0
   },
@@ -1783,11 +1783,11 @@
    "t": "mcq",
    "p": "You push a ball down into a bucket of water. What do you feel?",
    "opts": [
-    "The water pushing it back up",
     "The water pulling it down",
+    "The water pushing it back up",
     "Nothing at all"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Water pushes up on anything put into it. This push is called upthrust.",
    "outcome": 4,
    "how": "a3"
@@ -1796,11 +1796,11 @@
    "t": "mcq",
    "p": "Why does a whole orange float, when a peeled orange usually sinks?",
    "opts": [
-    "The peel is full of tiny air pockets",
     "The peel is heavy",
+    "The peel is full of tiny air pockets",
     "The juice floats"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Air is very light. The peel's air pockets mean the whole orange weighs less than a solid ball of that size would. If the peel were heavy, the peeled orange would float better, and it does not.",
    "outcome": 4,
    "how": "e2"
@@ -1809,11 +1809,11 @@
    "t": "mcq",
    "p": "At Hogenakkal on the Kaveri river, people ride in round boats called coracles. Why do coracles float?",
    "opts": [
-    "They are made of light, woven bamboo with a waterproof cover, and hold air inside",
     "They are made of steel",
-    "The river is too shallow to sink in"
+    "The river is too shallow to sink in",
+    "They are made of light, woven bamboo with a waterproof cover, and hold air inside"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Coracles are made of woven bamboo with a waterproof cover underneath. Bamboo floats, and the round bowl shape holds air above the water.",
    "outcome": 5
   },
@@ -1821,11 +1821,11 @@
    "t": "mcq",
    "p": "In the kitchen, which of these floats to the top when you wash rice?",
    "opts": [
-    "Thin dry husks and empty grains",
     "Full, heavy grains",
+    "Thin dry husks and empty grains",
     "Small stones"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Husks and empty grains are thin and light, or hold air, so they float. Full grains and stones sink.",
    "outcome": 5,
    "how": "a2"
@@ -1980,7 +1980,66 @@
    "why": "Families can ride in round bamboo coracles and see how they float."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-a-magnifying-glass",
+   "item": "A magnifying glass",
+   "kind": "tool",
+   "why": "Used in What Floats in the Rice Water?. About ₹30 to ₹120. A water drop on clear plastic magnifies a little.",
+   "url": "https://www.amazon.in/s?k=magnifying+glass+kids",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Get it before What Floats in the Rice Water?."
+  },
+  {
+   "id": "b-wooden-ice-cream-sticks--a-p",
+   "item": "Wooden ice-cream sticks (a pack)",
+   "kind": "material",
+   "why": "Used in Rescue the Coin: make a sinker float. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in.",
+   "url": "https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before Rescue the Coin: make a sinker float."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in What Floats in the Rice Water?. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Get it before What Floats in the Rice Water?."
+  },
+  {
+   "id": "b-marbles--a-few",
+   "item": "Marbles (a few)",
+   "kind": "material",
+   "why": "Used in The Bucket Test: guess, then find out what floats. About ₹10 to ₹40. Small round stones or dried chana.",
+   "url": "https://www.amazon.in/s?k=glass+marbles+pack",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before The Bucket Test: guess, then find out what floats."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "Name one thing that floats.",

@@ -78,6 +78,12 @@
    "art": "A mangrove tree standing in grey mud at low tide, with arching roots and pencil-like roots sticking up all round."
   },
   {
+   "term": "Deciduous",
+   "meaning": "A tree who drops all her leaves in the dry months to save water, and grows new ones when the rain returns.",
+   "example": "Sal and teak trees stand bare in the hot dry months and turn green again in the monsoon.",
+   "art": "A teak tree bare in summer on the left and fully green in the monsoon on the right."
+  },
+  {
    "term": "Breathing roots",
    "meaning": "Roots that grow upwards out of wet mud and take in air. Scientists call them pneumatophores.",
    "example": "The sundari tree of the Sundarbans sends up hundreds of breathing roots, like pencils stuck in the mud.",
@@ -132,6 +138,18 @@
    "art": "A green signboard reading Silent Valley National Park at the edge of a thick rainforest."
   },
   {
+   "term": "Natural heritage",
+   "meaning": "A sticky resin made by tiny insects on the twigs of some trees. People make bangles and shellac from lac.",
+   "example": "The Western Ghats, the Sundarbans and the Thar are all part of India's natural heritage.",
+   "art": "A family on a hilltop looking over a forest, a river and a far line of mountains."
+  },
+  {
+   "term": "Lac",
+   "meaning": "A sticky resin made by tiny insects on the twigs of some trees. It is used to make bangles and shellac.",
+   "example": "Colourful lac bangles are made and sold in the bazaars of Jaipur.",
+   "art": "A woman in a bazaar holding up a handful of bright red bangles."
+  },
+  {
    "term": "Traditional knowledge",
    "meaning": "What the people of a place have learned about their land over many generations. They learn by trying and watching, and they teach their children.",
    "example": "A farmer knows when the salt has washed out of her field, and which rice will stand in a flood.",
@@ -173,6 +191,20 @@
    "art": "Four simple signs in a row: a rain gauge, a mountain with a height scale, a pinch of salt falling into water, and a spade of soil."
   },
   {
+   "concept": "Five kinds of forest, from wet to dry",
+   "status": "defined",
+   "definition": "India's forests change with the rain. The wetter the land, the greener and thicker the forest. The five main kinds are evergreen, deciduous, thorn, mangrove and Himalayan.",
+   "description": "Evergreen forest grows where about 200 centimetres of rain or more falls a year. Water never runs short, so the trees keep green leaves all year. Deciduous trees drop all their leaves in the dry months to save water, and grow new ones when the rain returns. Moist deciduous forest gets between 100 and 200 centimetres of rain. Sal trees grow here. Dry deciduous forest gets between 75 and 100 centimetres, so the trees stand farther apart. Teak and mahua grow here. Thorn forest gets less than 75 centimetres. Its trees have small leaves and sharp thorns, and lose very little water. Mangrove forest grows where the tide brings salt water, as in the Sundarbans. Himalayan forest does not follow rain alone. It changes with height, from sal in the warm foothills to oak, then fir, as the air gets colder.",
+   "examples": [
+    "Evergreen forest: the rainforests of the Western Ghats and the Andaman Islands.",
+    "Moist deciduous forest: the sal forests of Odisha and Jharkhand lose their leaves in the hot, dry months.",
+    "Thorn forest: babool, khejri and ber trees in Rajasthan and Gujarat.",
+    "Himalayan forest: deodar and fir trees on cold slopes, where snow slides off their sloping branches."
+   ],
+   "perspectives": [],
+   "art": "Five trees in a row from wet to dry: a tall rainforest tree, a leafy sal, a bare dry-season teak, a thorny babool and a mangrove with roots in the mud, with a rain gauge beneath each."
+  },
+  {
    "concept": "India's ten ecological regions",
    "status": "defined",
    "definition": "Scientists divide India into ten large ecological regions, which they call biogeographic zones.",
@@ -181,7 +213,8 @@
     "The Trans-Himalaya is the cold desert of Ladakh and Spiti, behind the main Himalaya.",
     "The Semi-arid zone is the dry grassland and thorn forest of Gujarat, Rajasthan and Punjab, around the desert.",
     "The Gangetic Plain is the flat, fertile land of the Ganga, from Haryana to West Bengal.",
-    "The Coasts are the beaches, lagoons and mangroves along about 7,500 kilometres of shore."
+    "The Coasts are the beaches, lagoons and mangroves along about 7,500 kilometres of shore.",
+    "On the coast at Puri in Odisha, fishing families push their boats into the surf each morning. Children pick up sea shells on the sand. The sand artist Sudarsan Pattnaik, who grew up in Puri, shapes huge sculptures on its beach. Olive ridley turtles come to nest on Odisha's shore. The Thar is hundreds of kilometres from any sea. There, families keep camels and sheep, and save rain in kunds."
    ],
    "perspectives": [],
    "art": "A map of India divided into ten coloured zones with a key down the side."
@@ -207,7 +240,8 @@
    "examples": [
     "Chennai, at sea level, has an average temperature of about 28 degrees. Ooty, at 2,240 metres, has about 15.",
     "The red panda lives in the cool bamboo forests of Sikkim and Arunachal Pradesh, mostly above 2,200 metres.",
-    "In Leh, at 3,500 metres, winter nights can fall to minus 20 degrees."
+    "In Leh, at 3,500 metres, winter nights can fall to minus 20 degrees.",
+    "In cold, high hills, people build and dress for the cold. In snowy parts of Himachal Pradesh and Kashmir, houses have steep sloping roofs, so snow slides off before its weight can break them. Families wear thick wool, such as the pheran in Kashmir. Himalayan slopes are so steep that farmers cut them into flat steps, called terraces, to grow crops. Fir and deodar trees are cone-shaped, so snow slips off their branches."
    ],
    "perspectives": [],
    "art": "A mountain slope with five bands from bottom to top: broad-leaved forest, oak and rhododendron, fir trees, grass, and snow, with a thermometer beside each band."
@@ -258,7 +292,7 @@
    "concept": "The Western Ghats: rainforest, sholas and protected valleys",
    "status": "defined",
    "definition": "The Western Ghats are a range of hills about 1,600 kilometres long. They run down the west side of India through six states.",
-   "description": "The Ghats are older than the Himalaya. Their western face catches the monsoon, so thick evergreen forest grows there. In the south, above about 1,700 metres, the land opens into grassland with sholas in the folds. The Nilgiri tahr, a wild mountain goat, grazes on those grassy cliffs and lives nowhere else. So many endemic plants and animals live in the Ghats that scientists count the range as a biodiversity hotspot. The purple frog spends almost the whole year under the ground. She comes up for a few days in the monsoon to lay eggs. The neelakurinji bush flowers once in 12 years and turns whole hillsides blue. Many parts of the Ghats are protected areas, such as Periyar, Silent Valley, Bandipur and Eravikulam. Silent Valley was nearly lost. In the 1970s a dam was planned that would have drowned its rainforest. Teachers, scientists and writers in Kerala argued against the dam for years, and the plan was dropped in 1983. The valley became a national park in 1984. India's mainland ends just south of the Ghats at Kanyakumari, where three seas meet.",
+   "description": "The Ghats are older than the Himalaya. They cross six states: Gujarat, Maharashtra, Goa, Karnataka, Kerala and Tamil Nadu. Their western face catches the monsoon, so thick evergreen forest grows there. All that rain feeds rivers. The Godavari, the Krishna and the Kaveri begin in these hills and flow east across the peninsula to the Bay of Bengal. Many shorter rivers run west to the Arabian Sea. In the south, above about 1,700 metres, the land opens into grassland with sholas in the folds. The Nilgiri tahr, a wild mountain goat, grazes on those grassy cliffs and lives nowhere else. So many endemic plants and animals live in the Ghats that scientists count the range as a biodiversity hotspot. The purple frog spends almost the whole year under the ground. She comes up for a few days in the monsoon to lay eggs. The neelakurinji bush flowers once in 12 years and turns whole hillsides blue. Many parts of the Ghats are protected areas, such as Periyar, Silent Valley, Bandipur and Eravikulam. Silent Valley was nearly lost. In the 1970s a dam was planned that would have drowned its rainforest. Teachers, scientists and writers in Kerala argued against the dam for years, and the plan was dropped in 1983. The valley became a national park in 1984. India's mainland ends just south of the Ghats at Kanyakumari, where three seas meet.",
    "examples": [
     "The lion-tailed macaque lives only in the rainforest canopy of the Western Ghats.",
     "The neelakurinji flowered in 2018. The next flowering is expected in 2030.",
@@ -280,6 +314,20 @@
    ],
    "perspectives": [],
    "art": "Two scenes side by side: a round mud house beside a covered tank on sand dunes, and a flat-roofed mud-brick house under snowy peaks with a water channel running past."
+  },
+  {
+   "concept": "Birds and animals of the regions, and the parks that guard them",
+   "status": "defined",
+   "definition": "India has a great many kinds of animals, including more than 1,200 kinds of birds. Each region has its own, and national parks protect the land where they live.",
+   "description": "The Himalaya have snow leopards and red pandas. The Thar has chinkara and great Indian bustards. The wet forests of the North-East have hoolock gibbons, and the Sundarbans have tigers. Birds follow the seasons. Every winter, birds fly to Keoladeo National Park at Bharatpur in Rajasthan from far to the north. A national park is a protected area. A park guards the animals and also their homes, because without a forest or grassland they have nowhere to live. Corbett, in Uttarakhand, was the first national park in India, in 1936. Kaziranga in Assam protects the one-horned rhinoceros. Gir in Gujarat is where wild Asiatic lions live, in and around the forest. Parks are added over the years, so you will find more of them than a book can list.",
+   "examples": [
+    "Kaziranga National Park in Assam: the one-horned rhinoceros.",
+    "Gir National Park in Gujarat: the Asiatic lion, who lives wild nowhere else in the world.",
+    "Corbett National Park in Uttarakhand: tigers, in India's first national park.",
+    "Keoladeo National Park in Rajasthan: winter birds from the far north."
+   ],
+   "perspectives": [],
+   "art": "A map of India with four small pictures joined by lines to their parks: a rhinoceros, a lion, a tiger and a flock of birds over a lake."
   },
   {
    "concept": "Endemic and rare: why unique places have living beings of their own",
@@ -353,7 +401,7 @@
    "concept": "Do mangroves protect a coast from a tsunami?",
    "status": "debated",
    "definition": "Scientists agree that mangroves weaken ordinary waves and storm floods. They still argue about how much mangroves can do against a giant tsunami.",
-   "description": "After the tsunami of 26 December 2004, scientists visited villages on the coast of Tamil Nadu. Some reported that villages behind mangroves or other trees had less damage. Other scientists checked the same villages. They pointed out that the safer villages were often farther from the sea, or on higher ground. So the trees may not have been the cause. This is a common problem in science. When two things differ between two villages, you cannot tell which one made the difference. You work through such a case in the activity Two Villages and a Wave. The evidence is stronger for cyclones. In 1999 a great cyclone struck Odisha. The economist Saudamini Das later compared hundreds of villages, and allowed for distance and height. Villages with wider mangroves in front of them had fewer deaths. For a tsunami, everyone agrees on what saves the most lives: a warning, and running to high ground.",
+   "description": "After the tsunami of 26 December 2004, scientists visited villages on the coast of Tamil Nadu. Some reported that villages behind mangroves or other trees had less damage. Other scientists checked the same villages. They pointed out that the safer villages were often farther from the sea, or on higher ground. So the trees may not have been the cause. This is a common problem in science. When two things differ between two villages, you cannot tell which one made the difference. You work through such a case in the activity Two Villages and a Wave. The evidence is stronger for cyclones. In 1999 a great cyclone struck Odisha. The economist Saudamini Das later compared hundreds of villages, and allowed for distance and height. Villages with wider mangroves in front of them had fewer deaths. For a tsunami, everyone agrees on what saves the most lives: a warning, and running to high ground. Nature gave some signs before the 2004 waves. On many beaches the sea pulled far back, and people who knew what that meant ran inland. Reports from Sri Lanka and Thailand say that some animals left the shore early, and that elephants climbed uphill. Nobody knows for certain how they sensed it. Some scientists think they felt the ground shake before people did. Others say the stories are not well tested. In the Andaman Islands, reports say that most people of the Onge and Jarawa, who live close to the sea, came through safely. A few days later a coast guard helicopter flew over North Sentinel Island. A man from the island came out and shot arrows at it. The Sentinelese keep away from outsiders, and Indian law protects their choice to be left alone. We do not know what signs they read, because they have not told us. Before 2004 the Indian Ocean had no tsunami warning system. India now has a warning centre in Hyderabad. Still, if you feel strong shaking near the sea, or see the water pull back, do not wait for a message. Go up, away from the shore, at once.",
    "examples": [
     "Mangrove roots and trunks rub against moving water and slow it down.",
     "A village 1 kilometre from the sea is safer than a village 200 metres away, with or without trees.",
@@ -387,6 +435,28 @@
    ],
    "perspectives": [],
    "art": "A globe showing India as a separate piece of land drifting north across the ocean towards Asia, with a dotted path behind it and mountains crumpling up where the two meet."
+  },
+  {
+   "concept": "India's natural heritage: ours to use with care",
+   "status": "defined",
+   "definition": "Natural heritage is the nature we are given by those before us. We keep it for those after us. It includes living beings, forests, mountains, rivers, seas, deserts and the minerals under the ground.",
+   "description": "Forests show how much heritage gives. About a fifth of India's land is under forest. Forests give wood, bamboo, honey, rubber and lac. Lac is a sticky resin made by tiny insects on tree twigs. People make bangles and shellac from lac. Forests give silk from wild silkworms too. They do more than give things. Roots hold the soil, so rain does not wash it away. Shade keeps the ground cool and damp, and forests help rain to fall on the land near them. Scientists are still measuring how much. Some heritage grows back and some does not. A forest can regrow, though slowly. A lost kind of living being is gone for ever. Minerals like coal and iron took millions of years to form and do not come back. So we use them with care.",
+   "examples": [
+    "Bamboo grows back in a few years, so cutting it with care can go on for ever.",
+    "Coal and iron are minerals. Once they are dug out, they cannot be made again.",
+    "Lac comes from insects living on trees, so the trees must be kept standing to keep the lac."
+   ],
+   "perspectives": [
+    {
+     "who": "People of a forest village",
+     "explanation": "We take wood, honey and leaves from the forest every year, and leave enough for it to stay a forest. Our children need it as we do."
+    },
+    {
+     "who": "A steel maker",
+     "explanation": "Steel for bridges and railways needs iron from the ground, and a mine gives work to many families. Mining should be done with care, and the land mended after."
+    }
+   ],
+   "art": "A family standing on a hill looking at a forest, a river and a far line of mountains, with a wooden bangle box of lac bangles in the child's hand."
   }
  ],
  "agreed": [
@@ -985,11 +1055,11 @@
       "t": "mcq",
       "q": "Why are all three paper trunks the same height and width?",
       "options": [
-       "So that only the buttresses differ",
        "So that they use less paper",
+       "So that only the buttresses differ",
        "So that they look like one family"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A fair test changes one thing only. With the same trunk, any difference in the results must come from the buttresses. If you chose 'so that they use less paper', remember that saving paper does not change which tree falls first."
      },
      "parent": "Tape each triangle on both of its sides, so that it stands square to the trunk. If a trunk leans, trim its bottom edge flat with scissors.",
@@ -1257,11 +1327,11 @@
       "t": "mcq",
       "q": "A short, wide tower stood in the wind, and a tall, thin tower won in still air. What does this show?",
       "options": [
-       "The best design depends on the land",
        "Short towers are always better",
-       "Tall towers are always better"
+       "Tall towers are always better",
+       "The best design depends on the land"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Each tower was right for the land that tested it and wrong for the other. If you chose 'short towers are always better', look again at the Still Land score, where the tall tower won."
      },
      "parent": "In most homes the Still Land towers grow taller and thinner, to about a metre. The Wind Land towers stay under half a metre and grow wide feet. After the swap, the tall tower falls in the wind and scores 0. The wide tower stands in still air but scores less than the tall one. Write down what you really found. The reason: each village improved its tower using only its own land's test. With the same paper, height and a wide base compete, so each land pushed the design a different way. Real knowledge grows the same way, over hundreds of years. Pokkali rice was chosen by tidal fields, kunds by desert storms, and stilt houses by floods. Moved to another land, each may fail, as the tall tower did.",
@@ -1436,11 +1506,11 @@
       "t": "mcq",
       "q": "Why do three seeds sit on the high bank away from the strip?",
       "options": [
-       "To compare with the seeds on the strip",
        "Because the strip is too narrow",
+       "To compare with the seeds on the strip",
        "To have spare seeds to eat"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The seeds away from the strip show what roots do with no guide. Without them you could not say that the strip made the difference. If you chose 'because the strip is too narrow', notice that the strip is 3 centimetres wide and has room."
      },
      "parent": "The cotton and the tissue should be wet through but not dripping. The two spare seeds replace any that do not swell. The closed lid keeps the air inside damp, so that the root tips do not dry out.",
@@ -1502,7 +1572,7 @@
   {
    "id": "a1",
    "title": "Ten Regions on One Map: draw India's ecological regions",
-   "mins": 20,
+   "mins": 25,
    "days": 1,
    "context": "In this activity you draw a rough map of India and colour in the ten ecological regions. Then you mark five special places and the place where you live.",
    "materials": [
@@ -1519,7 +1589,7 @@
      "qty": 10
     }
    ],
-   "record": "Your own map of India with ten regions coloured and a key beside it. Five unique places and your own home are marked with dots and names.",
+   "record": "Your own map of India with ten regions coloured and a key beside it. Five unique places and your own home are marked with dots and names. On a second sheet, three friends' holiday places are listed with their regions and one special thing about each, beside a note on your own land.",
    "example_chart": {
     "type": "table",
     "title": "India's ten ecological regions (Rodgers and Panwar, 1988)",
@@ -1593,6 +1663,10 @@
     {
      "art": "The finished map with five named dots: Indira Point, the Sundarbans, Meghalaya, the Western Ghats and Kanyakumari, and a star for home.",
      "caption": "3. Mark five unique places, and a star where you live."
+    },
+    {
+     "art": "A child writing three friends' holiday places in a table with columns for place, region and one special thing, with a star-marked own home at the bottom.",
+     "caption": "4. Ask three friends where they spent their holidays. Name each region and compare it with your own land."
     }
    ],
    "flow": [
@@ -1651,6 +1725,15 @@
      },
      "parent": "Most city children live in the Deccan Peninsula, the Gangetic Plain, the Semi-arid zone or the Coasts. Chennai is on the Coasts. Bengaluru and Hyderabad are in the Deccan Peninsula. Kolkata and Patna are in the Gangetic Plain. Delhi is in the Semi-arid zone. On the west coast, the Coasts and the Western Ghats lie side by side.",
      "context": "This is the last step of Ten Regions on One Map. You mark five unique places and your own home, and name your own region."
+    },
+    {
+     "id": "s5",
+     "mins": 5,
+     "do": "Ask your child to remember where two or three friends or cousins spent their holidays. Ring or message them if you can. For each place, your child writes the place and the region it lies in. Then comes one special thing about it, such as a beach, a snow peak, a tiger forest or a desert fort. Your child also writes one special thing about the land where you live. Ask how it is the same as a friend's place, and how it is different.",
+     "say": "Where did your friends go for their holidays? Which of the ten regions is each place in? What is special about each one? Now think of our own land. How is it like their places, and how is it different?",
+     "kid": "Where did three friends spend their holidays? Write each place, its region and one special thing. Then compare with your own land.",
+     "parent": "Some examples. Digha or Puri is on the Coasts. Manali is in the Himalaya. Jaisalmer is in the Desert. Munnar is in the Western Ghats. Kaziranga is in the North-East. Many children are surprised that a holiday place can be so unlike home.",
+     "context": "This is the last step of Ten Regions on One Map. You ask friends where they spent their holidays, name each region, and compare each with your own land."
     }
    ]
   },
@@ -1776,11 +1859,11 @@
       "t": "mcq",
       "q": "Why is the land behind the Western Ghats drier than the coast?",
       "options": [
-       "The air drops its rain while climbing the hills",
        "The far side is farther from the Sun",
+       "The air drops its rain while climbing the hills",
        "The hills block the Sun's heat"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Wet air cools as it climbs, and cool air gives up water as rain. Little is left for the far side, which is called the rain shadow. If you chose an answer about the Sun, remember that both sides get the same sunshine."
      },
      "parent": "Air rising up a slope spreads out and cools, as the breath cooled on the steel. The vapour turns into drops and falls on the sea side. The air that sinks on the far side has less water and warms up again. That dry side is the rain shadow. The same thing on a larger scale makes Ladakh a desert behind the Himalaya.",
@@ -2486,12 +2569,12 @@
      "t": "mcq",
      "p": "What is an ecological region?",
      "opts": [
-      "A large area with its own climate",
       "A state with its own language",
+      "A large area with its own climate",
       "Any place that has a forest",
       "The capital city of a country"
      ],
-     "a": 0,
+     "a": 1,
      "why": "An ecological region is a large area with its own climate, landforms, plants and animals. Its edges follow rain and height, and state borders do not matter to it.",
      "outcome": 0
     },
@@ -2499,12 +2582,12 @@
      "t": "mcq",
      "p": "Which four things decide most of what can live in a region?",
      "opts": [
-      "Sun, Moon, stars and clouds",
       "Rain, height, salt and soil",
+      "Sun, Moon, stars and clouds",
       "Roads, towns, shops and schools",
       "Colour, shape, size and smell"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Rain decides between forest and desert. Height decides how cold the air is. Salt and soil decide which plants can grow in the ground.",
      "outcome": 0
     },
@@ -2630,12 +2713,12 @@
      "t": "mcq",
      "p": "How do buttress roots help a tall rainforest tree?",
      "opts": [
+      "They make her base wider",
       "They reach water deep down",
       "They frighten animals away",
-      "They make her base wider",
       "They store rainwater"
      ],
-     "a": 2,
+     "a": 0,
      "why": "A wide base means the tree must lean much farther before she falls. Her other roots are shallow, because the soil's plant food is near the top.",
      "outcome": 3
     },
@@ -2699,6 +2782,81 @@
      "why": "Each view has something right in it. A strong answer uses the rain of the Khasi hills and the time a root bridge takes. It also takes the children's needs seriously.",
      "lines": 6,
      "outcome": 5
+    },
+    {
+     "t": "match",
+     "p": "Match each kind of forest to its rain and its place.",
+     "pairs": [
+      [
+       "Evergreen forest",
+       "About 200 centimetres of rain or more, as in the Western Ghats"
+      ],
+      [
+       "Moist deciduous forest",
+       "About 100 to 200 centimetres of rain, with sal trees in Odisha"
+      ],
+      [
+       "Thorn forest",
+       "Less than 75 centimetres of rain, with babool trees in Rajasthan"
+      ],
+      [
+       "Mangrove forest",
+       "Salty tidal mud, as in the Sundarbans"
+      ],
+      [
+       "Himalayan forest",
+       "Changes with height, from sal to oak to fir"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Rain sorts most of India's forests from wet to dry. The two odd ones out are the mangrove, which is set by salt, and the Himalayan forest, which is set by height.",
+     "outcome": 0
+    },
+    {
+     "t": "sort",
+     "p": "Sort these gifts of a forest. Is each one a thing we take, or a help the forest gives by standing?",
+     "cats": [
+      "A thing we take",
+      "A help the forest gives"
+     ],
+     "items": [
+      [
+       "wood",
+       "A thing we take"
+      ],
+      [
+       "lac",
+       "A thing we take"
+      ],
+      [
+       "honey",
+       "A thing we take"
+      ],
+      [
+       "roots that hold the soil",
+       "A help the forest gives"
+      ],
+      [
+       "shade that keeps the ground cool",
+       "A help the forest gives"
+      ],
+      [
+       "help to bring rain",
+       "A help the forest gives"
+      ]
+     ],
+     "a": "see items",
+     "why": "Wood, lac and honey can be carried home. Holding soil, giving shade and helping the rain are done by the forest while it stays standing, so cutting it takes them away.",
+     "outcome": 5
+    },
+    {
+     "t": "fill",
+     "p": "The Western Ghats cross Gujarat, Maharashtra, Goa, Karnataka, Kerala and ____.",
+     "a": [
+      "Tamil Nadu"
+     ],
+     "why": "The range runs down the west side of India through six states, and ends near Kanyakumari in Tamil Nadu.",
+     "outcome": 1
     }
    ]
   },
@@ -2712,12 +2870,12 @@
      "t": "mcq",
      "p": "Why do islands and high hilltops hold many endemic living beings?",
      "opts": [
-      "They are cut off from other places",
       "They get the most rain",
+      "They are cut off from other places",
       "They have the most people",
       "They are closest to the Sun"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Living beings who are cut off for a very long time change in their own way. Sea cuts off an island, and hot valleys cut off a cold hilltop.",
      "outcome": 4
     },
@@ -2726,11 +2884,11 @@
      "p": "Why does a living root bridge suit Meghalaya better than a wooden one?",
      "opts": [
       "Wooden bridges are too heavy",
-      "Cut wood rots fast in heavy rain",
       "Wood is hard to find there",
-      "Living roots cross in one month"
+      "Living roots cross in one month",
+      "Cut wood rots fast in heavy rain"
      ],
-     "a": 1,
+     "a": 3,
      "why": "The Khasi hills get about 12 metres of rain a year. Dead wood rots in a few years, and a living root grows thicker each year.",
      "outcome": 5
     },
@@ -2738,12 +2896,12 @@
      "t": "mcq",
      "p": "The sangai deer lives on one lake only. What follows for her safety?",
      "opts": [
+      "Harm to that lake harms every sangai",
       "She must be very common",
       "She can move to another lake",
-      "Harm to that lake harms every sangai",
       "She is safe everywhere else"
      ],
-     "a": 2,
+     "a": 0,
      "why": "An endemic being has one home. If the floating mats of Loktak Lake are harmed, there is no second place where sangai live.",
      "outcome": 4
     },
@@ -2977,6 +3135,105 @@
      "why": "A strong answer links each part to the desert's problem. Rain is rare, so a wide area must catch it, and the Sun must not dry it up.",
      "art": "A blank box for the child's own drawing of a kund, with three empty label lines beside it.",
      "outcome": 5
+    },
+    {
+     "t": "write",
+     "p": "Name one way of living at Puri on the coast, and one in the Thar. Say what the land gives.",
+     "lines": 3,
+     "a": "At Puri, fishing families go out in boats, because the sea gives fish, and children collect shells on the sand. In the Thar, families keep camels and sheep and save rain in a kund, because there is little rain and no sea.",
+     "why": "A strong answer names one way of life for each place, and says what the place gives or lacks.",
+     "outcome": 1
+    },
+    {
+     "t": "match",
+     "p": "Match each mountain answer to the problem of the cold hills.",
+     "pairs": [
+      [
+       "A steep sloping roof",
+       "Heavy snow could break a flat roof"
+      ],
+      [
+       "Thick wool clothes",
+       "The air is very cold"
+      ],
+      [
+       "A cone-shaped fir tree",
+       "Snow could break her branches"
+      ],
+      [
+       "Flat steps cut into the slope",
+       "The hillside is too steep to plant on"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "People and trees both answer the cold and the steep slopes. A cone shape lets snow slip off, and steps hold the soil flat for crops.",
+     "outcome": 6
+    },
+    {
+     "t": "write",
+     "p": "Ask a friend where she spent her holidays. Write the place, its region and one special thing. Then compare it with your home.",
+     "lines": 4,
+     "a": "For example: Manali, in the Himalaya, with snow on the peaks. My home is on the Deccan plateau, where it never snows, but both have hills and a monsoon.",
+     "why": "A strong answer names the region from the ten, gives one real feature of the place, and compares it with home in one way.",
+     "outcome": 1
+    },
+    {
+     "t": "sort",
+     "p": "Before the tsunami of 2004, some signs were seen. Sort these. Is each a warning sign, or not?",
+     "cats": [
+      "A warning sign",
+      "Not a warning sign"
+     ],
+     "items": [
+      [
+       "the sea pulls far back from the beach",
+       "A warning sign"
+      ],
+      [
+       "the ground shakes hard near the sea",
+       "A warning sign"
+      ],
+      [
+       "animals leave the shore and go uphill",
+       "A warning sign"
+      ],
+      [
+       "a boat rocks gently at the pier",
+       "Not a warning sign"
+      ],
+      [
+       "a cool breeze in the evening",
+       "Not a warning sign"
+      ]
+     ],
+     "a": "see items",
+     "why": "A sea that pulls back and strong shaking are signs to run uphill. Reports say animals moved early too, though scientists are not sure how they knew. A rocking boat and a breeze are everyday things.",
+     "outcome": 7
+    },
+    {
+     "t": "match",
+     "p": "Match each national park to the animal it is known for.",
+     "pairs": [
+      [
+       "Kaziranga, Assam",
+       "The one-horned rhinoceros"
+      ],
+      [
+       "Gir, Gujarat",
+       "The Asiatic lion"
+      ],
+      [
+       "Corbett, Uttarakhand",
+       "The tiger"
+      ],
+      [
+       "Keoladeo, Rajasthan",
+       "Winter birds from the far north"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "A national park guards an animal's home as well as the animal. Each of these parks is known for one famous guest.",
+     "outcome": 1
     }
    ]
   },
@@ -2990,12 +3247,12 @@
      "t": "mcq",
      "p": "A new rice gave double the grain in tests. What should a coastal farmer ask first?",
      "opts": [
-      "Where was it tested?",
       "What colour is the grain?",
       "Who sells the seed?",
-      "How old is the variety?"
+      "How old is the variety?",
+      "Where was it tested?"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A result is true for the land where the test was done. A field of shallow fresh water does not test a rice for salt or deep floods.",
      "outcome": 6
     },
@@ -3003,12 +3260,12 @@
      "t": "mcq",
      "p": "Bog layers showed grass on the Nilgiris 20,000 years ago. Which idea did this overturn?",
      "opts": [
-      "That bogs are wet",
       "That the grasslands were ruined forest",
+      "That bogs are wet",
       "That the Nilgiris are hills",
       "That grass needs rain"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Foresters had thought the grass was waste land left after people destroyed a forest. The layers showed that the grass was far older than any herd or plantation.",
      "outcome": 7
     },
@@ -3017,11 +3274,11 @@
      "p": "Why is Ladakh both cold and dry?",
      "opts": [
       "It has sandy soil",
-      "It has few trees",
       "It is high, and behind the Himalaya",
+      "It has few trees",
       "It is far from any river"
      ],
-     "a": 2,
+     "a": 1,
      "why": "Height makes the air cold. The Himalaya stop the monsoon, so Ladakh lies in a rain shadow. Leh gets about 4 centimetres of rain a year.",
      "outcome": 2
     },
@@ -3030,11 +3287,11 @@
      "p": "Corals turn white, and may die, when the sea does what?",
      "opts": [
       "Has a very high tide",
+      "Stays too warm for weeks",
       "Has too many fish",
-      "Becomes fresh after rain",
-      "Stays too warm for weeks"
+      "Becomes fresh after rain"
      ],
-     "a": 3,
+     "a": 1,
      "why": "In water that stays too warm, corals push out the tiny algae who live inside them and share food. Without the algae they are white, and they slowly starve.",
      "outcome": 3
     },
@@ -3055,7 +3312,7 @@
     {
      "t": "count",
      "p": "Jaisalmer gets 25 centimetres of rain a year. How many litres fall on one square metre of ground?",
-     "a": 200,
+     "a": 250,
      "why": "250 litres. One centimetre of rain on one square metre is 10 litres. 25 times 10 is 250.",
      "outcome": 5
     },
@@ -3151,6 +3408,14 @@
      "why": "A strong design answers what this land tests: yearly floods, heavy rain and damp. Each label should name one of these.",
      "art": "A blank box for a drawing.",
      "outcome": 6
+    },
+    {
+     "t": "write",
+     "p": "Name three parts of India's natural heritage. Then say why we must take more care of coal and iron than of bamboo.",
+     "lines": 4,
+     "a": "For example: forests, rivers and the Thar. Bamboo grows back in a few years, but coal and iron took millions of years to form and cannot be made again, so once they are used up they are gone.",
+     "why": "A strong answer names three real parts of heritage, and says that some things grow back while minerals do not.",
+     "outcome": 5
     }
    ]
   }
@@ -3160,12 +3425,12 @@
    "t": "mcq",
    "p": "Which of these is an ecological region?",
    "opts": [
-    "The Thar desert",
     "The city of Chennai",
     "A cricket ground",
+    "The Thar desert",
     "A school"
    ],
-   "a": 0,
+   "a": 2,
    "why": "An ecological region is a large area with its own climate, plants and animals. A city or a school is a place people built inside a region.",
    "outcome": 0
   },
@@ -3174,11 +3439,11 @@
    "p": "Two towns get the same sea wind. One lies behind a range of hills. Which town gets less rain?",
    "opts": [
     "It changes every day",
-    "The town behind the hills",
     "The town on the sea side",
-    "Both get the same"
+    "Both get the same",
+    "The town behind the hills"
    ],
-   "a": 1,
+   "a": 3,
    "why": "The air drops most of its rain while climbing the side facing the wind. The town behind the hills is in the rain shadow.",
    "outcome": 2
   },
@@ -3200,11 +3465,11 @@
    "p": "What do a mangrove's breathing roots take in?",
    "opts": [
     "Salt",
+    "Air",
     "Sunlight",
-    "Mud",
-    "Air"
+    "Mud"
    ],
-   "a": 3,
+   "a": 1,
    "why": "Waterlogged mud has almost no air, and roots need oxygen. The breathing roots take in air at low tide.",
    "outcome": 3
   },
@@ -3212,12 +3477,12 @@
    "t": "mcq",
    "p": "What is a coral reef built from?",
    "opts": [
-    "The stony cups of tiny animals",
     "Sand pressed hard by waves",
+    "The stony cups of tiny animals",
     "Dead seaweed",
     "Lava from a volcano"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Each coral animal builds a hard cup of lime. Over thousands of years the cups pile up into a reef.",
    "outcome": 3
   },
@@ -3239,11 +3504,11 @@
    "p": "Which place lies farthest south in India?",
    "opts": [
     "Kochi",
-    "Chennai",
     "Indira Point",
+    "Chennai",
     "Kanyakumari"
    ],
-   "a": 2,
+   "a": 1,
    "why": "Indira Point is on Great Nicobar Island. Kanyakumari is the southern tip of the mainland only.",
    "outcome": 1
   },
@@ -3253,10 +3518,10 @@
    "opts": [
     "One person invents it in a year",
     "People copy it from a book",
-    "It appears by chance, untested",
-    "Many generations keep what works"
+    "Many generations keep what works",
+    "It appears by chance, untested"
    ],
-   "a": 3,
+   "a": 2,
    "why": "People try things, keep what works, warn their children about what failed, and change a little in each generation.",
    "outcome": 5
   },
@@ -3264,12 +3529,12 @@
    "t": "mcq",
    "p": "A design wins in one land and fails in another. What is the most likely reason?",
    "opts": [
-    "The two lands test it differently",
     "The builders were careless",
+    "The two lands test it differently",
     "The design was never good",
     "The materials were different"
    ],
-   "a": 0,
+   "a": 1,
    "why": "In the Two Lands Test the tall tower won in still air and fell in wind. A design fits the land that tested it.",
    "outcome": 6,
    "how": "e2"
@@ -3279,11 +3544,11 @@
    "p": "A village behind trees had less damage than a village on open shore. What else must you check?",
    "opts": [
     "The day of the week",
-    "Their distance and height from the sea",
     "The names of the two villages",
+    "Their distance and height from the sea",
     "The colour of the houses"
    ],
-   "a": 1,
+   "a": 2,
    "why": "If the safer village was also farther away or higher, the trees may not be the reason. A fair comparison changes one thing only.",
    "outcome": 7
   },
@@ -3298,6 +3563,136 @@
    ],
    "a": 2,
    "why": "The Brahmaputra floods the valley almost every monsoon. On stilts, the water passes under the floor.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "A forest gets about 40 centimetres of rain a year. Its trees have thorns and small leaves. Which kind of forest is it?",
+   "opts": [
+    "Thorn forest",
+    "Evergreen forest",
+    "Moist deciduous forest",
+    "Mangrove forest"
+   ],
+   "a": 0,
+   "why": "Thorn forest grows where less than 75 centimetres of rain falls. Evergreen forest needs about 200 centimetres or more, and mangroves need salty tidal mud.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Why do the trees of a deciduous forest drop their leaves in the dry months?",
+   "opts": [
+    "Because the sea air is too salty",
+    "To make room for birds' nests",
+    "Because the Sun burns the leaves in winter",
+    "To save water when little rain falls"
+   ],
+   "a": 3,
+   "why": "Leaves lose water into the air. With no leaves, a tree loses very little, and she lives through the dry months. The new leaves come with the rain.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Lac, used to make bangles, is made by what?",
+   "opts": [
+    "Fishers on the coast",
+    "The roots of mangrove trees",
+    "A mine under the forest",
+    "Tiny insects living on tree twigs"
+   ],
+   "a": 3,
+   "why": "Lac insects make the sticky resin on twigs. So the trees must stay standing for the lac to be gathered. It is a gift of the forest, and not a mineral.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "Which animal is best known to be protected by Kaziranga National Park in Assam?",
+   "opts": [
+    "The Asiatic lion",
+    "The one-horned rhinoceros",
+    "The snow leopard",
+    "The Nilgiri tahr"
+   ],
+   "a": 1,
+   "why": "Kaziranga guards the one-horned rhinoceros. The Asiatic lion lives at Gir in Gujarat, the snow leopard in the high Himalaya, and the Nilgiri tahr in the Western Ghats.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these would you find on the coast at Puri, and not in the Thar?",
+   "opts": [
+    "A kund that catches rain",
+    "A fishing boat pulled up on the sand",
+    "A khejri tree",
+    "A camel herd"
+   ],
+   "a": 1,
+   "why": "Puri has the sea, so families fish from boats. The kund, the khejri tree and the camel belong to the dry Thar, where families save every drop of rain.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Why do houses in snowy parts of the Himalaya have steep sloping roofs?",
+   "opts": [
+    "So that snow slides off before it gets too heavy",
+    "So that the monsoon rain collects on them",
+    "To catch the wind",
+    "To keep out the heat of the plains"
+   ],
+   "a": 0,
+   "why": "A flat roof would hold a thick layer of snow, and its weight could break the roof. A steep roof lets the snow slide off. This is an answer to a land of snow.",
+   "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "A friend spent her holidays on a camel in the sand dunes near Jaisalmer. Which of India's ten ecological regions is that?",
+   "opts": [
+    "The Himalaya",
+    "The Desert",
+    "The Coasts",
+    "The Western Ghats"
+   ],
+   "a": 1,
+   "why": "Jaisalmer lies in the Thar, which belongs to the Desert region. The Semi-arid region is the dry band around it.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these rivers begins in the Western Ghats?",
+   "opts": [
+    "The Ganga",
+    "The Brahmaputra",
+    "The Kaveri",
+    "The Indus"
+   ],
+   "a": 2,
+   "why": "The Kaveri, the Krishna and the Godavari begin in the Ghats. The Ganga begins in the Himalaya, and the Brahmaputra and the Indus begin high in Tibet.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "The sea pulls far back from the beach, and the fish are lying on the sand. What should you do?",
+   "opts": [
+    "Walk out to pick up the fish",
+    "Wait on the beach to see what happens",
+    "Run to high ground at once",
+    "Swim out to look"
+   ],
+   "a": 2,
+   "why": "A sea that pulls far back can be the first sign of a tsunami. The big waves come back within minutes. Running to high ground is what saves lives.",
+   "outcome": 7
+  },
+  {
+   "t": "mcq",
+   "p": "Which part of India's natural heritage can never be made again once it has been used up?",
+   "opts": [
+    "Bamboo in a grove",
+    "Coal and iron in the ground",
+    "Lac on the twigs",
+    "New leaves on sal trees"
+   ],
+   "a": 1,
+   "why": "Coal and iron took millions of years to form. Bamboo, lac and leaves grow again within a year or a few years.",
    "outcome": 5
   }
  ],
@@ -3673,6 +4068,104 @@
     "p1"
    ],
    "plan": "Read a chapter before day 3 of My Region File. It gives good questions to ask an older person about water."
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in The Two Lands Test: does the best tower for still air also win in wind?, Pass It On: make your best tower outlive you. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "e2",
+    "c2"
+   ],
+   "plan": "Get it before The Two Lands Test: does the best tower for still air also win in wind?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Leaning Tree Test: how much do buttress roots help a tall tree stand?, The Two Lands Test: does the best tower for still air also win in wind?, The Guided Root Test: can a slope lead a growing root across a gap?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e2",
+    "e3",
+    "a2",
+    "c1",
+    "c2"
+   ],
+   "plan": "Get it before The Leaning Tree Test: how much do buttress roots help a tall tree stand?."
+  },
+  {
+   "id": "b-a-small-hand-mirror",
+   "item": "A small hand mirror",
+   "kind": "material",
+   "why": "Used in Two Sides of One Hill: compare the rain on both sides of the Western Ghats. About ₹20 to ₹80. A shiny steel plate shows reflections too.",
+   "url": "https://www.amazon.in/s?k=small+hand+mirror",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Get it before Two Sides of One Hill: compare the rain on both sides of the Western Ghats."
+  },
+  {
+   "id": "b-cotton-wool",
+   "item": "Cotton wool",
+   "kind": "material",
+   "why": "Used in The Guided Root Test: can a slope lead a growing root across a gap?. About ₹20 to ₹50. Torn clean cloth works.",
+   "url": "https://www.amazon.in/s?k=cotton+wool+roll",
+   "used_in": [
+    "e3"
+   ],
+   "plan": "Get it before The Guided Root Test: can a slope lead a growing root across a gap?."
+  },
+  {
+   "id": "b-a-measuring-jug-or-syringe--",
+   "item": "A measuring jug or syringe (marked in millilitres)",
+   "kind": "tool",
+   "why": "Used in Split the Stream: water three plants from one trickle. About ₹30 to ₹100. A clean medicine cup or marked bottle works.",
+   "url": "https://www.amazon.in/s?k=measuring+jug+500+ml",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before Split the Stream: water three plants from one trickle."
+  },
+  {
+   "id": "b-graph-paper",
+   "item": "Graph paper",
+   "kind": "material",
+   "why": "Used in Two Sides of One Hill: compare the rain on both sides of the Western Ghats. About ₹10 to ₹30. Draw squares on plain paper.",
+   "url": "https://www.amazon.in/s?k=graph+paper+notebook",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Get it before Two Sides of One Hill: compare the rain on both sides of the Western Ghats."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in The Guided Root Test: can a slope lead a growing root across a gap?. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "e3"
+   ],
+   "plan": "Get it before The Guided Root Test: can a slope lead a growing root across a gap?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

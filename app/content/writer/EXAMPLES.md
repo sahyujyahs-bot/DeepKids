@@ -2,6 +2,8 @@
 
 Open a model to see how a finished lesson sounds. Do not copy its words. Read only the parts you are writing (for example `explanations`, `challenging`, `open_questions`). All pass the validator's errors. Where a model still has a small gap, the note says so: copy its strengths, not its gap.
 
+**The current bar for a whole unit is `app/content/units/sci/sci.motion.speed.L4.json`** (the founder's verdict after review: jokes, roots and challenges amazing). Copy its shape, not its words: core ideas as a ladder of single-idea cards that keep every perspective and example, a flashcard for every new word (39), a complete shopping list, a story that adds a new angle, and honest "where science runs out" cards.
+
 | Level | File | Why it is a good model |
 |---|---|---|
 | Science L1 | `app/content/units/sci/sci.food.healthy-food.L1.json` | Three real ways of thinking about why we like the foods we like (babies' studies, feeding research, families and cooks across India). Big ideas are told in a young child's words without being cut. |

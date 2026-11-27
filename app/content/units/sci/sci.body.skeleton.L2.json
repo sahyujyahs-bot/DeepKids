@@ -559,11 +559,11 @@
       "t": "mcq",
       "q": "You hold a torch and move only your elbow. What does the light on the wall do?",
       "options": [
-       "It goes up and down in a line",
        "It goes round in a big circle",
-       "It does not move at all"
+       "It does not move at all",
+       "It goes up and down in a line"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The elbow is a hinge joint. It bends and straightens like a door, so the light goes back and forth in a line. If you picked the circle, try your elbow again with a grown-up holding your upper arm still."
      }
     }
@@ -901,11 +901,11 @@
       "t": "mcq",
       "q": "You lift a bottle and feel the muscle in your upper arm get short and hard. What is the muscle doing?",
       "options": [
-       "Pulling on a bone to bend your arm",
        "Pushing your bone away",
+       "Pulling on a bone to bend your arm",
        "Resting"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Muscles move bones by getting shorter and pulling. They cannot push. If you picked pushing, try again with your hand on the muscle and feel it get shorter as you lift."
      }
     }
@@ -972,11 +972,11 @@
       "t": "mcq",
       "q": "The bend in a crow's leg that points backwards is really which joint?",
       "options": [
-       "The ankle",
        "The knee",
-       "The hip"
+       "The hip",
+       "The ankle"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Birds walk on their toes, with the heel up. The backward bend is the ankle. The knee is hidden in the feathers higher up. If you picked the knee, stand on tiptoe again and look at where your heel is."
      }
     }
@@ -1242,11 +1242,11 @@
       "t": "mcq",
       "q": "Where does the thigh bone go in a skeleton?",
       "options": [
-       "Between the hip and the knee",
        "In the arm",
+       "Between the hip and the knee",
        "In the foot"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The thigh bone is the long bone at the top of your leg, from your hip joint down to your knee joint. If you picked another answer, put your hands on your hip and your knee, and feel the long bone between them."
      }
     }
@@ -1349,11 +1349,11 @@
       "t": "mcq",
       "q": "You measure your bones with string. Which one is most likely the longest?",
       "options": [
-       "Your thigh bone",
        "Your upper arm bone",
-       "A bone in your finger"
+       "A bone in your finger",
+       "Your thigh bone"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The thigh bone is the longest bone in the body. If your string showed something else, measure again from the hip joint to the knee joint."
      }
     }
@@ -1430,11 +1430,11 @@
       "t": "mcq",
       "q": "In the paper finger, what does the thread stand for?",
       "options": [
-       "A tendon, pulled by a muscle",
        "A bone",
+       "A tendon, pulled by a muscle",
        "The skin"
       ],
-      "a": 0,
+      "a": 1,
       "why": "In a real finger, muscles in your forearm pull on tendons, and the tendons pull the finger bones so the finger curls. The thread does the same job. If you picked bone, look at which part of your model is stiff."
      }
     }
@@ -1903,11 +1903,11 @@
    "t": "mcq",
    "p": "What is a joint?",
    "opts": [
-    "A place where two bones meet",
     "The middle of a bone",
-    "A kind of muscle"
+    "A kind of muscle",
+    "A place where two bones meet"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A joint is where two bones meet. Your body bends at its joints.",
    "outcome": 1
   },
@@ -1915,11 +1915,11 @@
    "t": "mcq",
    "p": "Your elbow bends and straightens like a door. What kind of joint is it?",
    "opts": [
-    "A hinge joint",
     "A ball and socket joint",
-    "It is not a joint"
+    "It is not a joint",
+    "A hinge joint"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A hinge joint moves one way and back, like a door. The elbow and knee are hinge joints.",
    "outcome": 2
   },
@@ -1927,11 +1927,11 @@
    "t": "mcq",
    "p": "Which of these joints can move round in a circle?",
    "opts": [
-    "The hip",
     "The knee",
+    "The hip",
     "The elbow"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The hip is a ball and socket joint, like the shoulder. The knee and elbow are hinges.",
    "outcome": 2,
    "how": "e1"
@@ -1940,11 +1940,11 @@
    "t": "mcq",
    "p": "What do your ribs do?",
    "opts": [
-    "Keep your heart and lungs safe",
     "Help you see",
-    "Make your hair grow"
+    "Make your hair grow",
+    "Keep your heart and lungs safe"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The ribs make a cage of bone round the heart and lungs.",
    "outcome": 3
   },
@@ -1952,11 +1952,11 @@
    "t": "mcq",
    "p": "What would a body be like with no bones at all?",
    "opts": [
-    "Floppy, like an empty sock",
     "Just the same",
-    "Stiff, like a ruler"
+    "Stiff, like a ruler",
+    "Floppy, like an empty sock"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Bones hold the body up. Without them, a body would flop, like the empty sock in the Floppy Sock Arm activity.",
    "outcome": 3,
    "how": "a2"
@@ -1978,11 +1978,11 @@
    "t": "mcq",
    "p": "A nurse puts a plaster cast on a broken arm. Why?",
    "opts": [
-    "To keep the pieces still while the bone cells mend it",
     "Because the cast makes new bone",
-    "To keep the arm warm"
+    "To keep the arm warm",
+    "To keep the pieces still while the bone cells mend it"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Bone is alive. Bone cells build new bone across the crack. The cast only holds the pieces still so they join straight.",
    "outcome": 5
   },
@@ -1990,11 +1990,11 @@
    "t": "mcq",
    "p": "Why can a broken bone mend, when a cracked stone cannot?",
    "opts": [
-    "Bone is alive and has living cells",
     "Bone is softer than stone",
+    "Bone is alive and has living cells",
     "Bone is made of water"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Living bone cells build new bone. A stone has no living cells, so a crack in a stone stays.",
    "outcome": 5
   }
@@ -2164,7 +2164,47 @@
    "why": "A natural history museum about animals, plants and the living world."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in My Life-Size Bone Map. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before My Life-Size Bone Map."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Floppy Sock Arm: why do we need bones?, My Life-Size Bone Map, Make a Paper Finger That Bends. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "a2",
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before Floppy Sock Arm: why do we need bones?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "About how many bones does a grown-up have?",

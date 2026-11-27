@@ -1,9 +1,9 @@
 # Going round: what keeps a thing in a circle, and why it flies off straight when the pull stops
 `sci.motion.spinning.L4`
 
-**Summary.** Whirl a bag on a string twice as fast and the string pulls about four times as hard. Let go, and it flies off straight. In this unit you will whirl a sock on a string, test the speed for each pull, and see which coin on a turntable slides off first.
+**Summary.** Whirl a bag on a string twice as fast and the string pulls about four times as hard. Let go, and it flies off straight. In this lesson you will whirl a sock on a string, test the speed for each pull, and see which coin on a turntable slides off first.
 
-**Intro.** *Whirl a small bag on a string. Your fingers feel a pull, and the faster you whirl, the stronger the pull gets. Now let go. Does the bag fly straight on, curve round, or go outward? Nobody pushes the bag outward, so why do your fingers feel a pull at all?* The string pulls the bag towards your hand all the time. That pull bends the bag's path into a circle. When the pull stops, the bag goes straight on. In this unit you measure how the pull changes with speed, you slide coins off a turntable, and you watch a spin dryer throw water out through its holes. You find out why a car slows for a bend, why a lab spins blood and a dairy spins milk, and why the Moon keeps falling towards the Earth without ever getting closer.
+**Intro.** *Whirl a small bag on a string. Your fingers feel a pull, and the faster you whirl, the stronger the pull gets. Now let go. Does the bag fly straight on, curve round, or go outward? Nobody pushes the bag outward, so why do your fingers feel a pull at all?* The string pulls the bag towards your hand all the time. That pull bends the bag's path into a circle. When the pull stops, the bag goes straight on. In this lesson you measure how the pull changes with speed, you slide coins off a turntable, and you watch a spin dryer throw water out through its holes. You find out why a car slows for a bend, why a lab spins blood and a dairy spins milk, and why the Moon keeps falling towards the Earth without ever getting closer.
 
 ## Learning outcomes
 0. I can explain that a thing going round needs a pull towards the middle all the time, and that without it, the thing flies off in a straight line.
@@ -502,7 +502,7 @@ When the order was done, Mani Anna painted four little marks on the knob, and wr
 ## Worksheets
 ### Going Round (core) (core, 16 questions)
 1. (mcq) A stone is whirled on a string, and the string snaps. Which way does the stone go?  
-   Options: Straight on, along the way it was moving / Straight outward, away from the hand / Round in a curve  
+   Options: Straight outward, away from the hand / Round in a curve / Straight on, along the way it was moving  
    **Answer:** Straight on, along the way it was moving. *Why:* When the pull stops, nothing bends the stone's path. It goes straight on, along the line that just touches the circle. Picking 'outward' is the most common mix-up: the stone does not go along the string.
 2. (fill) A force that points towards the middle of a circle and keeps a thing going round is called the ____ force.  
    **Answer:** ['centripetal']. *Why:* Centripetal means centre-seeking. It is not a new kind of force. It is the name for whatever pull or push points to the middle, such as a string, friction or gravity.
@@ -515,7 +515,7 @@ When the order was done, Mani Anna painted four little marks on the knob, and wr
 6. (count) A bag goes round 12 times in 10 seconds. How many turns does it make in 30 seconds, if it keeps the same pace?  
    **Answer:** 36. *Why:* 30 seconds is 3 times as long as 10 seconds. 12 times 3 is 36 turns.
 7. (mcq) A stone is whirled on a string in a circle. Then it is whirled twice as fast in the same circle. How does the pull needed change?  
-   Options: It becomes twice as big / It becomes four times as big / It stays the same  
+   Options: It becomes four times as big / It becomes twice as big / It stays the same  
    **Answer:** It becomes four times as big. *Why:* The pull grows with the square of the speed. Twice the speed needs 2 times 2, which is 4 times the pull. Picking 'twice as big' is the natural guess, but the Whirler test shows that it is too small.
 8. (order) Put the steps of the Whirler test in order.  
    **Answer:** ['Guess how the turns will change with more coins', 'Build the whirler with the pen, string, bag and pouch', 'Practise until the tape stays steady', 'Count the turns in 10 seconds with each number of coins', 'Say what you found and why']. *Why:* First guess, so the test can surprise you. Then build and practise, count with each number of coins, and last say what you found and why.
@@ -537,7 +537,7 @@ When the order was done, Mani Anna painted four little marks on the knob, and wr
 15. (draw) Draw a stone going round on a string. Mark the point where the string snaps, and draw the straight path the stone takes afterwards.  
    **Answer:** A circle with a stone on it, and a straight line leaving the circle at the point where the string snaps, touching the circle.. *Why:* After the string snaps, the stone goes along the way it was moving, so its path is a straight line that just touches the circle. A strong drawing does not show the line going outward from the middle.
 16. (mcq) A car takes a bend on a wet road and slides straight off the road. What is the best explanation?  
-   Options: The tyres did not have enough grip to give the pull towards the middle / The car became heavier on the bend / The road pulled the car outward  
+   Options: The car became heavier on the bend / The road pulled the car outward / The tyres did not have enough grip to give the pull towards the middle  
    **Answer:** The tyres did not have enough grip to give the pull towards the middle. *Why:* On a flat bend, friction gives the pull towards the middle. A wet road gives less friction, so the car could not be held in the curve and went straight on.
 ### Pull, Speed and Size (stretch) (stretch, 17 questions)
 1. (count) The pull needed to hold a stone in a circle is the mass times the speed times the speed, divided by the radius. A stone of 0.5 kilograms goes round at 4 metres per second on a string 2 metres long. What is the pull, in newtons?  
@@ -557,7 +557,7 @@ When the order was done, Mani Anna painted four little marks on the knob, and wr
 7. (fill) A machine that spins things fast, so that heavier parts move to the outside, is called a ____.  
    **Answer:** ['centrifuge']. *Why:* A centrifuge spins a mixture, so the heavier parts move to the outer end and the lighter parts stay nearer the middle. Hospitals use them to separate blood.
 8. (mcq) The Moon keeps going round the Earth and never crashes into it. What is the best explanation?  
-   Options: It keeps falling towards the Earth, but it moves sideways fast enough to keep missing / It is too far away for gravity to reach / It is held up by the air  
+   Options: It is too far away for gravity to reach / It is held up by the air / It keeps falling towards the Earth, but it moves sideways fast enough to keep missing  
    **Answer:** It keeps falling towards the Earth, but it moves sideways fast enough to keep missing. *Why:* Gravity pulls the Moon towards the Earth all the time. The Moon also moves sideways at about 1 kilometre every second, so as it falls, the Earth's surface curves away. It keeps missing. Gravity does reach the Moon, and there is no air to hold it.
 9. (write) A car takes a bend at 60 kilometres an hour. The driver slows to 30 kilometres an hour. How does the grip needed from the tyres change? Explain.  
    **Answer:** The grip needed becomes one quarter as big. Half the speed needs one quarter of the pull towards the middle, because the pull grows with the square of the speed. That is why slowing down for a bend helps so much.. *Why:* A strong answer says that the grip needed falls to one quarter, and links it to the square of the speed.
@@ -568,12 +568,12 @@ When the order was done, Mani Anna painted four little marks on the knob, and wr
 12. (match) Match each moving thing to what gives its pull towards the middle.  
    **Answer:** A whirled bag → the tension in the string; A car on a flat bend → the friction between tyres and road; The Moon → the Earth's gravity; Clothes in a spin dryer → the push of the drum wall; A rider on a giant wheel → the push of the seat and the safety bar. *Why:* Whatever goes round needs a pull towards the middle. In each case something different supplies it, but its job is the same.
 13. (mcq) A bucket of water is swung in a circle over a person's head. The water stays in at the top only if  
-   Options: the bucket is moving downward faster than the water would fall / the water is very cold / the bucket is pushed up by the air  
+   Options: the water is very cold / the bucket is pushed up by the air / the bucket is moving downward faster than the water would fall  
    **Answer:** the bucket is moving downward faster than the water would fall. *Why:* At the top, the bucket must move downward faster than the water would fall under gravity alone. Then the bottom of the bucket keeps pushing on the water. If the bucket moved more slowly, the water would fall away from it.
 14. (count) A bag makes 5 turns in 10 seconds. How many seconds does it take for one turn?  
    **Answer:** 2. *Why:* 10 seconds divided by 5 turns is 2 seconds for one turn.
 15. (mcq) A cream separator spins milk. Where does the cream, the lighter part, gather?  
-   Options: Nearer the middle / At the outer wall / It stays evenly spread through the milk  
+   Options: At the outer wall / It stays evenly spread through the milk / Nearer the middle  
    **Answer:** Nearer the middle. *Why:* The heavier watery milk is pushed to the outside, and the lighter cream gathers nearer the middle. The two can then leave through different pipes.
 16. (label) Here is a top view of a bus turning left with a passenger standing in it. Label what each arrow shows.  
    **Answer:** ["the arrow pointing straight ahead: the way the passenger's body wants to go", 'the arrow from the window: the push of the window on the passenger', 'the curved arrow: the path the bus takes as it turns', 'the passenger: pressed against the window on the outside of the turn']. *Why:* The passenger's body wants to go straight on. The window pushes inward, and bends the passenger's path into the turn. The pressing feeling is the passenger's own body pressing on the window.
@@ -586,7 +586,7 @@ When the order was done, Mani Anna painted four little marks on the knob, and wr
 2. (count) A stone of 1 kilogram needs a pull of 9 newtons on a string 1 metre long, at a certain speed. How many newtons does it need on a string 3 metres long, at the same speed?  
    **Answer:** 3. *Why:* A circle 3 times as wide needs one third of the pull at the same speed. 9 divided by 3 is 3 newtons.
 3. (mcq) A road bend is rebuilt in a circle twice as wide, with the same speed limit. How does the grip each car needs change?  
-   Options: It needs half as much grip / It needs the same grip / It needs twice as much grip  
+   Options: It needs the same grip / It needs half as much grip / It needs twice as much grip  
    **Answer:** It needs half as much grip. *Why:* A circle twice as wide needs half the pull at the same speed. That is one reason why road builders try to make bends wide.
 4. (truefalse) In a spin dryer, the drum wall pushes the water outward through the holes. True or false?  
    **Answer:** False. *Why:* False. The wall pushes the clothes inward, which holds them in the circle. The wall does not push the water. Where there are holes, nothing holds the water, so it goes straight on and leaves.
@@ -625,41 +625,41 @@ When the order was done, Mani Anna painted four little marks on the knob, and wr
 
 ## Quiz
 1. (mcq) A thing that was going round in a circle suddenly has nothing pulling it towards the middle. What does it do next?  
-   Options: It goes straight on, along the way it was moving / It goes outward from the middle / It stops at once  
+   Options: It goes outward from the middle / It goes straight on, along the way it was moving / It stops at once  
    **Answer:** It goes straight on, along the way it was moving. *Why:* With no pull, nothing bends the path, so the thing goes straight on. It does not go outward along the radius, and it does not stop.
 2. (mcq) What is needed to keep a thing going round in a circle?  
-   Options: A pull towards the middle, all the time / A push forward, all the time / A push outward, all the time  
+   Options: A push forward, all the time / A pull towards the middle, all the time / A push outward, all the time  
    **Answer:** A pull towards the middle, all the time. *Why:* The pull towards the middle bends the path round. A forward push would change the speed, and an outward push would make the thing leave the circle.
 3. (mcq) In the Whirler test, what happened as more coins were hung on the string?  
-   Options: The bag had to go round faster / The bag could go round more slowly / The bag went round at the same speed  
+   Options: The bag could go round more slowly / The bag went round at the same speed / The bag had to go round faster  
    **Answer:** The bag had to go round faster. *Why:* More coins mean a bigger pull on the string, and the bag must go round faster to hold the same circle. The speed went up more slowly than the pull.
 4. (mcq) A car goes through a bend at 20 kilometres an hour, and then through the same bend at 40 kilometres an hour. How does the grip the tyres need change?  
    Options: It needs four times as much grip / It needs twice as much grip / It needs the same grip  
    **Answer:** It needs four times as much grip. *Why:* Twice the speed needs four times the pull towards the middle. A small rise in speed can be too much for a bend.
 5. (mcq) A bag is whirled at a steady speed in a circle. It is replaced by a bag that is twice as heavy, and whirled at the same speed in the same circle. What happens to the pull needed?  
-   Options: It doubles / It halves / It stays the same  
+   Options: It halves / It doubles / It stays the same  
    **Answer:** It doubles. *Why:* A bigger mass needs a bigger pull in the same proportion. Twice the mass needs twice the pull.
 6. (mcq) Coins sit at different distances from the middle of a turntable that turns faster and faster. Which coin slides off last?  
-   Options: The one nearest the middle / The one nearest the edge / The heaviest one  
+   Options: The one nearest the edge / The one nearest the middle / The heaviest one  
    **Answer:** The one nearest the middle. *Why:* Nearer the middle, the circle is smaller and the coin moves more slowly, so it needs less friction. It stays on the longest.
 7. (fill) In a cream separator, the heavier part of the milk moves to the ____ of the spinning bowl.  
    **Answer:** ['outside', 'outer wall', 'edge']. *Why:* The heavier watery milk is pushed to the outside, and the lighter cream gathers nearer the middle.
 8. (mcq) In a spin dryer, what lets the water leave the clothes?  
-   Options: The holes let the water go straight on, while the wall holds the clothes / The drum squeezes the clothes dry / The lid sucks the water up  
+   Options: The drum squeezes the clothes dry / The holes let the water go straight on, while the wall holds the clothes / The lid sucks the water up  
    **Answer:** The holes let the water go straight on, while the wall holds the clothes. *Why:* The wall holds the clothes in the circle, and the holes let the water go. The spin does the sorting.
 9. (mcq) Why are railway curves built with the outer rail a little higher than the inner rail?  
    Options: So that part of the push of the rails points towards the middle of the curve / So that the train goes faster / So that the rails last longer  
    **Answer:** So that part of the push of the rails points towards the middle of the curve. *Why:* A tilted track helps the train go round, because the push of the rails then points partly towards the middle. The train needs less side grip from its wheels.
 10. (mcq) A car slides straight off a wet road at a bend. What was missing?  
-   Options: Enough friction to give the pull towards the middle / Enough engine power / Enough weight  
+   Options: Enough engine power / Enough friction to give the pull towards the middle / Enough weight  
    **Answer:** Enough friction to give the pull towards the middle. *Why:* On a flat bend, friction is the pull towards the middle. A wet road gives less friction. Engine power and weight do not make the bend easier.
 11. (mcq) Which is the best description of the Moon going round the Earth?  
-   Options: It keeps falling towards the Earth and keeps missing it / It floats where there is no gravity / It is pushed round by the air  
+   Options: It floats where there is no gravity / It keeps falling towards the Earth and keeps missing it / It is pushed round by the air  
    **Answer:** It keeps falling towards the Earth and keeps missing it. *Why:* Gravity pulls the Moon all the time, and the Moon is moving sideways, so it keeps falling and keeps missing. There is no air to push it.
 12. (count) A bag makes 24 turns in 20 seconds. How many turns does it make in 10 seconds, at the same pace?  
    **Answer:** 12. *Why:* 10 seconds is half of 20 seconds. Half of 24 is 12 turns.
 13. (mcq) What do scientists still discuss about 'centrifugal force'?  
-   Options: Whether the outward feeling should be called a force / Whether a bag on a string goes round / Whether the Moon goes round the Earth  
+   Options: Whether a bag on a string goes round / Whether the outward feeling should be called a force / Whether the Moon goes round the Earth  
    **Answer:** Whether the outward feeling should be called a force. *Why:* Everyone agrees on what happens. The argument is about how to describe the outward feeling, as a real force or as the body's tendency to go straight.
 
 ## Applications
@@ -738,6 +738,11 @@ Round and Round (sci.motion.L4): Topic-level song
 ## Things to buy
 - [A small bag of glass marbles (goli)](https://www.amazon.in/s?k=glass+marbles+goli) (material): For Marble in the Kadai. A marble rolls smoothly, so it goes round the kadai in a clean circle. A few marbles cost a few rupees in toy and stationery shops; a foil ball also works. Used in a2. 
 - [A lazy Susan or a revolving cake stand](https://www.amazon.in/s?k=lazy+susan+turntable) (tool): For Coins on the Turntable and the Coin Keeper. A turntable that turns smoothly by hand is easier to use than a swivel stool. A swivel stool or chair works if you have one. Used in e2, c1. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in The Whirler: how fast must a bag go round for each size of pull?, Planets on a String: do far planets go round slower?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e1, p1. Get it before The Whirler: how fast must a bag go round for each size of pull?.
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in The Whirler: how fast must a bag go round for each size of pull?, Planets on a String: do far planets go round slower?. About ₹150 to ₹400. A phone stopwatch works well. Used in e1, p1. Get it before The Whirler: how fast must a bag go round for each size of pull?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Whirler: how fast must a bag go round for each size of pull?, Coins on the Turntable: which one slides off first?, Planets on a String: do far planets go round slower?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, p1. Get it before The Whirler: how fast must a bag go round for each size of pull?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Coins on the Turntable: which one slides off first?, The Coin Keeper: keep three coins on a plate at one turn a second. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e2, c1. Get it before Coins on the Turntable: which one slides off first?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What does a thing going round in a circle always need? → A pull towards the middle.
@@ -757,7 +762,7 @@ Round and Round (sci.motion.L4): Topic-level song
 
 ## Sources
 - ideas/by_topic/forces-and-movement.md, 'Motion can be uniform, oscillatory, circular or chaotic' (observe ceiling fan blades for circular motion) and the Rotational Motion row (rotate on a swivel chair, a carnival with spinning rides): used in the swivel chair turntable of Coins on the Turntable and in the spotted list
-- The Level 3 unit on spinning tops and wheels (sci.motion.spinning.L3), which this unit builds on and does not repeat: its tops, rolling race and merry-go-round are not used here
+- The Level 3 unit on spinning tops and wheels (sci.motion.spinning.L3), which this lesson builds on and does not repeat: its tops, rolling race and merry-go-round are not used here
 - Nearby units checked so the experiments and the story are new: sci.motion.newtons-laws.L3 (swinging a sock and letting go), sci.forces.changing-motion.L2 (the marble in a curved wall), sci.motion.swings-and-pendulums.L4
 - Rene Descartes, Principia Philosophiae, 1644 (a stone in a sling tries to go straight)
 - Christiaan Huygens, De vi centrifuga, written about 1659 and printed in 1703 (the rule for the pull of a circle)

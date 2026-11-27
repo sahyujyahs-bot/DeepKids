@@ -1,9 +1,9 @@
 # From one living being to the whole Earth: how the levels of life depend on each other
 `sci.ecology.levels-of-life.L5`
 
-**Summary.** The air of Mars and Venus is almost all carbon dioxide, but one fifth of Earth's air is oxygen, and nearly all of it was made by living beings. In this unit you will run a paper planet of dark and pale daisies, and test whether a dark cloth gets warmer in sunlight.
+**Summary.** The air of Mars and Venus is almost all carbon dioxide, but one fifth of Earth's air is oxygen, and nearly all of it was made by living beings. In this lesson you will run a paper planet of dark and pale daisies, and test whether a dark cloth gets warmer in sunlight.
 
-**Intro.** *Take one slow breath in. About one fifth of the air you just took in is oxygen. Who made that oxygen, and where? Say what you think, and why.* Most people answer 'the trees near my home'. That is only a small part of the answer. The oxygen in your breath was made over a very long time by green plants, by seaweeds and by tiny green cells who float in the sea. So one breath joins you to living beings far away, and to living beings from long ago. In this unit you find out how one living being depends on the whole living Earth. You also test whether living beings can keep a planet steady.
+**Intro.** *Take one slow breath in. About one fifth of the air you just took in is oxygen. Who made that oxygen, and where? Say what you think, and why.* Most people answer 'the trees near my home'. That is only a small part of the answer. The oxygen in your breath was made over a very long time by green plants, by seaweeds and by tiny green cells who float in the sea. So one breath joins you to living beings far away, and to living beings from long ago. In this lesson you find out how one living being depends on the whole living Earth. You also test whether living beings can keep a planet steady.
 
 ## Learning outcomes
 0. By the end I can name the five levels of life in order, and give an example of each.
@@ -100,7 +100,7 @@ In the 1960s, the scientist James Lovelock was asked to help look for life on Ma
 - **Toby Tyrrell (2013):** The Earth may have stayed fit for life partly through luck. We could only be here to ask the question on a planet where things went well. So a long steady record is not proof of a steadying system.
 - **Earth system scientists (Amsterdam Declaration, 2001):** Scientists from four international research programmes agreed on this statement: the Earth behaves as a single, self-regulating system made of physical, chemical, biological and human parts. They did not say the system is sure to stay good for us.
 ### The Daisy Planet: what a model can show, and what it cannot · *idea*
-Critics said Gaia would need living beings to plan together for the good of the planet. In 1983, Andrew Watson and James Lovelock answered with a model called Daisyworld. Their planet has only dark daisies and pale daisies, under a Sun that slowly gets brighter. Dark daisies take in more sunlight, so they warm the ground. Pale daisies reflect more, so they cool it. Daisies only grow where the warmth suits them. Yet in the model, the planet's temperature stays almost level for a long time. The Daisy Planet Test in this unit is a simple paper version of that model. The model shows one thing clearly. Steadying can come from living beings who only grow where it suits them. No planning together is needed. But a model shows what could happen. It does not show what does happen on the real Earth. The real Earth has millions of species, and many of them push conditions away from steady.
+Critics said Gaia would need living beings to plan together for the good of the planet. In 1983, Andrew Watson and James Lovelock answered with a model called Daisyworld. Their planet has only dark daisies and pale daisies, under a Sun that slowly gets brighter. Dark daisies take in more sunlight, so they warm the ground. Pale daisies reflect more, so they cool it. Daisies only grow where the warmth suits them. Yet in the model, the planet's temperature stays almost level for a long time. The Daisy Planet Test in this lesson is a simple paper version of that model. The model shows one thing clearly. Steadying can come from living beings who only grow where it suits them. No planning together is needed. But a model shows what could happen. It does not show what does happen on the real Earth. The real Earth has millions of species, and many of them push conditions away from steady.
 - e.g. In the Daisy Planet Test, the bare planet warms from 8 to 47 degrees. The planet with daisies stays between 20 and 27 degrees for twelve rounds.
 - e.g. The model has a limit. When every square is full of pale daisies, the daisies can cool the planet no further, and the temperature starts to climb.
 - **Andrew Watson and James Lovelock (1983):** The model proves that a planet can regulate its temperature without foresight or planning. The daisies only follow their own needs.
@@ -116,7 +116,7 @@ This is a question about what the word 'alive' means, as well as a question abou
 ### People in the biosphere · *defined*
 **Definition:** Humans are one species among millions, but today humans change every level of life, up to the whole biosphere.
 
-Other beings have changed the whole Earth before. Cyanobacteria did it with oxygen. Humans are now doing it with carbon dioxide. Coal, oil and gas are the remains of ancient living beings, and burning them puts their carbon into the air. Before factories, the air held about 280 parts of carbon dioxide in every million. Now it holds more than 420. Carbon dioxide traps heat, so the Earth is warming. The change is fast. Forests, seas and rocks do take carbon dioxide out of the air, but far more slowly than people are adding it. People have also mended a harm that reached the whole biosphere. In the 1970s, scientists found that gases from fridges and spray cans were destroying the ozone in the upper air. Ozone shields living beings from harmful rays of the Sun. In 1987 the countries of the world agreed to stop making those gases, and the ozone is slowly recovering.
+Other beings have changed the whole Earth before. Cyanobacteria did it with oxygen. Humans are now doing it with carbon dioxide. Coal, oil and gas are the remains of ancient living beings, and burning them puts their carbon into the air. Before factories, the air held about 280 parts of carbon dioxide in every million. Now it holds more than 420. Carbon dioxide traps heat, so the Earth is warming. The change is fast. Forests, seas and rocks do take carbon dioxide out of the air, but far more slowly than people are adding it. People have also mended a harm that reached the whole biosphere. In the 1970s, scientists found that gases from fridges and spray cans were destroying the ozone in the upper air. Ozone shields living beings from harmful rays of the Sun. In 1987 the countries of the world agreed to stop making those gases, and the ozone is slowly recovering. An old Sanskrit saying, Vasudhaiva Kutumbakam, means the whole world is one family. It comes from the Maha Upanishad, an ancient text. It asks us to care for people, animals and plants as one family, on the one living planet we share. When the air, a river or a forest is harmed, the harm does not stop at the place where it happened.
 - e.g. James Lovelock built the instrument that first measured those fridge gases in air far out at sea. It showed that they had spread across the world.
 - e.g. When a forest in the Western Ghats is cut, one hornbill loses her nest tree. Farms far to the east may also lose some of their rain.
 
@@ -160,7 +160,7 @@ We have learned that life is arranged in levels, and that living beings have cha
 - *what is life:* Life does not only live on the Earth. Life has changed the Earth's air, soil and rain, and those changes have changed life in turn.
 - *what is this world:* The world around you is partly made by the living. The air in this room would be a different air if nothing had ever lived on the Earth.
 
-A crow looks like one separate thing. Zoom out, and the crow is part of a population, then a community, then an ecosystem, then the biosphere. At no step do you reach a place where the crow stops and the rest begins. The crow's breath is the forest's air, and the forest's air is the whole Earth's air. Consciousness is in everything, and so it is in the Earth as a whole. Many scientists who accept everything else in this unit say the Earth is a system and not a mind.
+A crow looks like one separate thing. Zoom out, and the crow is part of a population, then a community, then an ecosystem, then the biosphere. At no step do you reach a place where the crow stops and the rest begins. The crow's breath is the forest's air, and the forest's air is the whole Earth's air. Consciousness is in everything, and so it is in the Earth as a whole. Many scientists who accept everything else in this lesson say the Earth is a system and not a mind.
 
 - **Atharva Veda 12.1.12:** “यत्ते मध्यं पृथिवि यच्च नभ्यं यास्त ऊर्जस्तन्वः संबभूवुः । / तासु नो धेह्यभि नः पवस्व माता भूमिः पुत्रो अहं पृथिव्याः पर्जन्यः पिता स उ नः पिपर्तु” The Earth is my mother, and I am her son. (This hymn was sung long before anyone could measure the air. The science agrees with the plain part of it. Every atom of your body, and every breath, came to you from the Earth and the living beings on the Earth.)
 - **Marcus Aurelius, Meditations 4.40:** “Ὡς ἓν ζῷον τὸν κόσμον, μίαν οὐσίαν καὶ ψυχὴν μίαν ἐπέχον, συνεχῶς ἐπινοεῖν / καὶ πῶς ὁρμῇ μιᾷ πάντα πράσσει καὶ πῶς πάντα πάντων τῶν γινομένων συναίτια” Always think of the universe as one living being, with one substance and one soul. See how all things work together to cause all that happens. (Marcus Aurelius was a Roman emperor who wrote this about 1,850 years ago. The Gaia hypothesis asks a smaller question about just one planet: do the living and the non-living parts of the Earth work together as one system?)
@@ -494,7 +494,7 @@ On the morning it reached 20, Kayal went down to the yard before school. She pul
   *Child mode:* Open the card called 'The Gaia hypothesis'. Read the six voices. After each one, say the main point in your own words.
   - Note: The six are Lovelock and Margulis, Doolittle and Dawkins, Kirchner, Ward, Tyrrell, and the Earth system scientists. If six is too many for one sitting, read the first two and the last one.
 - **s2 (10 min)**  
-  *Parent does:* 1. Your child chooses one voice to speak for. You choose a voice who disagrees. 2. Each of you speaks for 2 minutes, using evidence from this unit. 3. Each of you then asks the other one question. 4. Swap voices and do it again, more briefly.  
+  *Parent does:* 1. Your child chooses one voice to speak for. You choose a voice who disagrees. 2. Each of you speaks for 2 minutes, using evidence from this lesson. 3. Each of you then asks the other one question. 4. Swap voices and do it again, more briefly.  
   *Parent says:* Choose a voice to speak for. I will take someone who disagrees. Use evidence: the three planets, the Daisy Planet, the frozen Earth. Afterwards we swap sides.  
   *Child mode:* Choose one voice. Your partner takes a voice who disagrees. Speak for 2 minutes with evidence. Ask each other one question. Then swap sides.
   - Ask: What evidence would make your scientist change their mind? (good: For Lovelock: finding that most feedback from life makes things less steady.; For Dawkins: a clear way that natural selection could favour beings who steady the planet.; For Tyrrell: finding other planets with life that also stayed steady for a very long time.)
@@ -611,7 +611,7 @@ On the morning it reached 20, Kayal went down to the yard before school. She pul
 ## Worksheets
 ### Levels of life and feedback (core) (core, 15 questions)
 1. (mcq) A temple tank holds fish, frogs, water plants, water and mud. Which level of life is the whole tank?  
-   Options: A population / A community / An ecosystem / The biosphere  
+   Options: An ecosystem / A population / A community / The biosphere  
    **Answer:** An ecosystem. *Why:* An ecosystem is the living beings of a place together with the water, mud, air and sunlight. Choosing 'community' leaves out the non-living things.
 2. (fill) All the members of one species who live in one place are called a ____.  
    **Answer:** ['population']. *Why:* A population is one species in one place, such as all the house sparrows of Mysuru.
@@ -622,7 +622,7 @@ On the morning it reached 20, Kayal went down to the yard before school. She pul
 5. (sort) Sort these parts of a pond ecosystem.  
    **Answer:** frog → Living part; mud → Non-living part; sunlight → Non-living part; fungus → Living part; water → Non-living part; bacteria → Living part; air → Non-living part; moss → Living part. *Why:* Frogs, fungi, bacteria and moss are living beings. Mud, sunlight, water and air are not alive, but every living being in the pond needs them.
 6. (mcq) A forest gets its monsoon rain from winds that crossed the sea. Which level supplies that rain?  
-   Options: The organism / The population / The community / The biosphere  
+   Options: The biosphere / The organism / The population / The community  
    **Answer:** The biosphere. *Why:* The wet wind comes from far outside the forest, so no level inside the forest can supply it. An ecosystem depends on the biosphere for its rain and its air.
 7. (write) In the Daisy Planet Test, the bare planet reached 47 degrees. Explain why the planet with daisies stayed near 26.  
    **Answer:** Whenever the planet went above 25 degrees, three pale daisies replaced three dark ones. Pale daisies reflect sunlight, so each one cooled the planet by a degree. That cancelled the extra heat from the Sun.. *Why:* A strong answer says that the daisies changed the temperature and the temperature changed the daisies. It uses numbers from the test.
@@ -634,7 +634,7 @@ On the morning it reached 20, Kayal went down to the yard before school. She pul
 10. (truefalse) True or false: balancing feedback works against a change.  
    **Answer:** True. *Why:* True. Balancing feedback brings things back towards where they were, as sweat brings your body's heat down.
 11. (mcq) Which gas is about one fifth of the Earth's air, and was made by living beings?  
-   Options: Oxygen / Carbon dioxide / Nitrogen / Argon  
+   Options: Carbon dioxide / Nitrogen / Argon / Oxygen  
    **Answer:** Oxygen. *Why:* Oxygen is 21 parts in every 100 of the air, and nearly all of it came from photosynthesis. Nitrogen is the biggest part of the air, at 78 in 100.
 12. (draw) Draw one living being from near your home inside five circles. Label the five levels.  
    **Answer:** Five circles, one inside the next. From the centre: one organism, their population, their community, their ecosystem with water and soil, and the Earth as the biosphere.. *Why:* A strong drawing adds something new in each circle. The ecosystem circle must show at least one non-living thing.
@@ -646,7 +646,7 @@ On the morning it reached 20, Kayal went down to the yard before school. She pul
    **Answer:** A strong answer uses the rice heap. The slope is real and can be measured, yet no grain has one. In the same way a birth rate is real, yet no single crow has one. It also grants the other side its point: a population is made of nothing but crows.. *Why:* Both views hold something true. The parts are all there is, and yet the whole has features the parts lack.
 ### How living beings change the Earth (stretch) (stretch, 15 questions)
 1. (mcq) Very old rocks hold minerals that oxygen destroys. Younger rocks do not. What does this show?  
-   Options: The early air had almost no oxygen / Old rocks are harder / Oxygen comes from rocks / The early Earth had no rocks  
+   Options: Old rocks are harder / The early air had almost no oxygen / Oxygen comes from rocks / The early Earth had no rocks  
    **Answer:** The early air had almost no oxygen. *Why:* Those minerals could only last in air without oxygen. So the air changed, about 2,400 million years ago, when bacteria had made enough oxygen.
 2. (write) Rusting and burning keep using up oxygen. Explain how the air can still be one fifth oxygen.  
    **Answer:** Plants, seaweeds and tiny cells in the sea give out oxygen when they photosynthesise. They keep putting oxygen back as fast as rusting, burning and breathing take it away.. *Why:* A strong answer says that oxygen is being made all the time, not that it was made once and stayed.
@@ -657,7 +657,7 @@ On the morning it reached 20, Kayal went down to the yard before school. She pul
 5. (fill) The share of sunlight that a surface reflects is called its ____.  
    **Answer:** ['albedo']. *Why:* Snow has a high albedo, because it reflects most of the light. Dark sea has a low albedo.
 6. (mcq) A black car and a white car stand in the same sun. Which gets hotter inside, and why?  
-   Options: Black: it takes in more light / White: it reflects more light / The same: the sun is the same / Black: it is heavier  
+   Options: White: it reflects more light / Black: it takes in more light / The same: the sun is the same / Black: it is heavier  
    **Answer:** Black: it takes in more light. *Why:* A dark surface takes in more of the light, and that light becomes heat. Reflecting light keeps the white car cooler, not hotter.
 7. (order) Put this loop in order, starting with 'The air warms'.  
    **Answer:** ['The air warms', 'Sea ice melts', 'Dark water is uncovered', 'The water takes in more sunlight']. *Why:* After the last step, the air warms again, so the loop goes round and grows. This is reinforcing feedback.
@@ -679,11 +679,11 @@ On the morning it reached 20, Kayal went down to the yard before school. She pul
    **Answer:** Light went in and heat came out. No water, air or soil crossed the glass, so the weight stayed the same. Inside, the water went round and round.. *Why:* A strong answer separates energy, which crosses the glass, from matter, which does not.
 15. (perspective) Does life keep the Earth fit for life? Two scientists disagree.  
    **Answer:** A strong answer for the first view uses the long record of liquid water under a brightening Sun, or the Daisy Planet. A strong answer for the second uses the frozen Earth, or the point that a daisy planet was built so that each daisy's needs match the planet's. It then says what the other side has right.. *Why:* This is a real argument among scientists. Both sides accept that life changes the planet. They differ on whether those changes steady it.
-### Gaia, models and evidence (challenge) (challenge, 15 questions)
+### Gaia, models and evidence (challenge) (challenge, 16 questions)
 1. (write) One scientist says our steady Earth may be luck. Explain his point by imagining 100 planets with life.  
    **Answer:** Suppose life starts on 100 planets and only a few happen to stay fit for life. Beings who can ask questions will only ever be found on those few. They will all see a long steady record, even if luck alone made it.. *Why:* A strong answer sees that we could not be looking from a planet where things went badly. So our own steady record is weak evidence.
 2. (mcq) Astronomers find a far planet whose air holds oxygen and methane together. Why is that exciting?  
-   Options: Those gases smell / Something must keep making both gases / Those gases are heavy / Those gases make the planet blue  
+   Options: Those gases smell / Those gases are heavy / Something must keep making both gases / Those gases make the planet blue  
    **Answer:** Something must keep making both gases. *Why:* Oxygen and methane react with each other. If both are there, something must be making them all the time. On the Earth, living beings do that.
 3. (write) In the Faster Sun, changing 6 daisies a round did worse than changing 5. Suggest why.  
    **Answer:** With 6, each correction was bigger than the change it was correcting. The temperature went past the comfortable range on the other side, and then had to be corrected back. With 5, the correction matched the Sun's step.. *Why:* A strong answer uses the idea of overshooting: correcting by more than the change.
@@ -707,14 +707,16 @@ On the morning it reached 20, Kayal went down to the yard before school. She pul
 12. (draw) Draw the Earth with one arrow for energy coming in, one for energy going out, and a loop for matter.  
    **Answer:** The Earth with a sunlight arrow coming in, a heat arrow going out, and a closed loop on the surface, for example water or carbon going round.. *Why:* A strong drawing shows that energy passes through, while matter stays and is used again.
 13. (mcq) In the sealed building Biosphere 2, oxygen fell though there were many plants. What had the builders not counted?  
-   Options: The microbes in the soil / The size of the windows / The weight of the glass / The colour of the leaves  
+   Options: The size of the windows / The weight of the glass / The colour of the leaves / The microbes in the soil  
    **Answer:** The microbes in the soil. *Why:* The rich soil held huge numbers of microbes, who used oxygen faster than the plants made it. Every being who breathes has to be counted.
 14. (mcq) The Earth is 12,700 km across. Nearly all life is in a layer 20 km thick. What fraction is that?  
-   Options: About 1/6 / About 1/60 / About 1/600 / About 1/6000  
+   Options: About 1/600 / About 1/6 / About 1/60 / About 1/6000  
    **Answer:** About 1/600. *Why:* 12,700 divided by 20 is 635. So the layer is about one six-hundredth of the Earth's width.
 15. (odd) Three of these are evidence that life changes the Earth. Which is not?  
    Options: Oxygen in the air / Soil made from rock and dead leaves / Rain returned to the air by forests / The Earth's distance from the Sun  
    **Answer:** 3. *Why:* The Earth's distance from the Sun has nothing to do with living beings. The other three were made by living beings.
+16. (write) Vasudhaiva Kutumbakam says the world is one family. Give one thing you do at home that can reach a living being far away. Use the idea of the biosphere in your answer.  
+   **Answer:** For example, a plastic bag thrown in a drain can be carried by the rain water to a river, and then to the sea, where fish and birds can be harmed by it. The water joins the whole biosphere, so the harm travels far from my home.. *Why:* A full answer names one thing from home and follows it to a place far away, using the way water and matter move through the biosphere.
 
 ## Videos
 - **NASA | Satellite Tracks Saharan Dust to Amazon in 3-D** (NASA Goddard, 2 min) id `ygulQJoIe2Y`: Shows dust from the Sahara desert crossing the Atlantic Ocean and feeding the Amazon rainforest, so two far-apart ecosystems are seen to be joined. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
@@ -729,30 +731,33 @@ On the morning it reached 20, Kayal went down to the yard before school. She pul
    Options: Organism / Population / Community / Ecosystem  
    **Answer:** Ecosystem. *Why:* An ecosystem is a community with the water, air, soil and sunlight around them.
 3. (mcq) A lone tigress lives in a forest with plenty of prey and water. What can she not do alone?  
-   Options: Hunt / Find water / Have cubs / Breathe  
+   Options: Hunt / Find water / Breathe / Have cubs  
    **Answer:** Have cubs. *Why:* To have cubs she needs a mate, so she needs a population. This is one way an organism depends on the next level up.
 4. (truefalse) True or false: a change made by tiny organisms can never reach the whole biosphere.  
    **Answer:** False. *Why:* False. Cyanobacteria are too small to see, yet they filled the Earth's air with oxygen. It took a very great number of them and a very long time.
 5. (mcq) Which of these belongs to a honeybee colony, but not to one bee?  
-   Options: Having six legs / Keeping the hive at a steady warmth / Having wings / Drinking nectar  
+   Options: Having six legs / Having wings / Keeping the hive at a steady warmth / Drinking nectar  
    **Answer:** Keeping the hive at a steady warmth. *Why:* Thousands of bees shivering and fanning together hold the hive near 35 degrees Celsius. One bee cannot do that. It is an emergent property.
 6. (mcq) A loop makes a small change grow bigger and bigger. What is it called?  
-   Options: Balancing feedback / Reinforcing feedback / Homeostasis / Albedo  
+   Options: Reinforcing feedback / Balancing feedback / Homeostasis / Albedo  
    **Answer:** Reinforcing feedback. *Why:* Reinforcing feedback adds to a change. Balancing feedback works against a change, and homeostasis is the steadiness it produces.
 7. (mcq) Wild dogs eat deer. When deer increase, the dogs increase and eat more deer. What kind of loop is this?  
-   Options: Reinforcing / Balancing / No loop / Emergent  
+   Options: Reinforcing / No loop / Balancing / Emergent  
    **Answer:** Balancing. *Why:* More deer leads to more dogs, and more dogs brings the deer down again. The result works against the change.
 8. (mcq) Mars has almost no oxygen in its air. What is the best reason?  
-   Options: Mars is red / Oxygen is too heavy for Mars / Nothing there keeps making oxygen / Mars has no air at all  
+   Options: Nothing there keeps making oxygen / Mars is red / Oxygen is too heavy for Mars / Mars has no air at all  
    **Answer:** Nothing there keeps making oxygen. *Why:* Oxygen reacts with rocks and is used up unless something keeps making it. On the Earth, living beings do that. Mars does have air, and most of it is carbon dioxide.
 9. (mcq) On the Daisy Planet, what cools the planet when it gets too hot?  
-   Options: The Sun dims / Pale daisies spread and reflect sunlight / Dark daisies spread / Rain falls  
+   Options: The Sun dims / Dark daisies spread / Pale daisies spread and reflect sunlight / Rain falls  
    **Answer:** Pale daisies spread and reflect sunlight. *Why:* Above 25 degrees, pale daisies replace dark ones. Pale daisies reflect sunlight, so the planet cools. The model has no rain.
 10. (truefalse) True or false: the Daisy Planet can stay steady however hot the Sun gets.  
    **Answer:** False. *Why:* False. When every square is full of pale daisies, no more cooling can be added. A balancing loop works only up to a limit.
 11. (mcq) Which of these is a real criticism of the Gaia hypothesis?  
-   Options: The Earth is too big to study / Natural selection cannot make beings serve a planet / Plants do not make oxygen / The Sun never changes  
+   Options: The Earth is too big to study / Plants do not make oxygen / The Sun never changes / Natural selection cannot make beings serve a planet  
    **Answer:** Natural selection cannot make beings serve a planet. *Why:* Natural selection favours what helps an organism and their family. Critics ask how it could ever favour what helps a whole planet.
+12. (mcq) What does the Sanskrit saying Vasudhaiva Kutumbakam mean?  
+   Options: The whole world is one family / Only the people of our own village matter / Each place should guard its own land and ignore the rest / Humans should rule over the other living beings  
+   **Answer:** The whole world is one family. *Why:* The saying asks us to see the whole world as one family, so care reaches people, animals and plants far away, as the biosphere links them. The other answers draw a line between us and them, which the saying does not do.
 
 ## Applications
 - Astronomers look for life on planets around other stars by studying the air of those planets. They look for gases that would vanish unless something kept making them.
@@ -766,11 +771,11 @@ On the morning it reached 20, Kayal went down to the yard before school. She pul
 ## Spotted around us
 - A crow on a wire is an organism. The flock gathering at dusk on one big tree is part of a population.
 - A temple tank or a village pond is an ecosystem you can walk round in five minutes.
-- Mist rising from a forested hill after rain, in Munnar, Coorg or Cherrapunji, is water that the trees are sending back to the air.
+- Mist rising from a forested hill after rain is water that the trees are sending back to the air.
 - A black umbrella in the sun gets hot to touch. A white cotton veshti or dupatta stays cooler. That is albedo.
 - A pressure cooker's whistle lifts when the pressure is high and drops when it falls. That is balancing feedback in the kitchen.
 - A steaming compost heap or a warm heap of cut grass shows that the microbes inside are respiring.
-- A termite mound by a roadside in Telangana or Karnataka is built and cooled by a whole colony. No single termite could build one.
+- A termite mound by a roadside is built and cooled by a whole colony. No single termite could build one.
 - The green layer on a pond or an old tank in summer is made of algae and cyanobacteria. The ancestors of cyanobacteria were the first makers of the oxygen in the air.
 
 ## Open questions
@@ -816,13 +821,19 @@ Everybody Eats (sci.ecology.L5): Topic-level song
 - [NetLogo Web](https://www.netlogoweb.org) · simulation: A free site of science models that run in the browser. For the parent: search its models library for 'Daisyworld' to run the real model behind the Daisy Planet Test.
 - [earth.nullschool.net](https://earth.nullschool.net) · interactive: A live map of the winds of the whole Earth. Turn the globe to India in June and watch the monsoon wind come in from the sea.
 - [NASA Climate Kids](https://climatekids.nasa.gov) · interactive: Short, clear pages and games about the Earth's air, sea, ice and living beings as one system.
-- [Nilgiri Biosphere Reserve]() · place · Around Ooty and Mudumalai in Tamil Nadu, with parts in Kerala and Karnataka: A very large protected region where forests, grasslands, streams and villages are looked after together, as one whole.
-- [Pichavaram mangrove forest]() · place · Near Chidambaram, Tamil Nadu: A boat ride through a mangrove shows a community of trees, crabs, fish and birds, and the tide and mud they depend on.
-- [Jawaharlal Nehru Planetarium]() · place · Bengaluru, Karnataka: A good place to compare the Earth with Venus and Mars, after doing Three Planets' Air.
+- Nilgiri Biosphere Reserve · place · Around Ooty and Mudumalai in Tamil Nadu, with parts in Kerala and Karnataka: A very large protected region where forests, grasslands, streams and villages are looked after together, as one whole.
+- Pichavaram mangrove forest · place · Near Chidambaram, Tamil Nadu: A boat ride through a mangrove shows a community of trees, crabs, fish and birds, and the tide and mud they depend on.
+- Jawaharlal Nehru Planetarium · place · Bengaluru, Karnataka: A good place to compare the Earth with Venus and Mars, after doing Three Planets' Air.
 
 ## Things to buy
 - [A simple thermometer that reads from about 0 to 100 degrees Celsius](https://www.amazon.in/s?k=laboratory+thermometer) (tool): Useful, but not needed, for Dark Cloth, Pale Cloth. Fingers can feel the difference without one. Shops that sell school laboratory goods have them. Used in e2. 
 - [A kitchen scale that reads to 1 gram](https://www.amazon.in/s?k=digital+kitchen+scale) (tool): Useful, but not needed, for A World in a Jar. It shows that the sealed jar's weight does not change. Used in p1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Daisy Planet Test: can daisies change the temperature of a whole planet?, The Balancing Stick: what does a steady system need?, Three Planets' Air: which planet is the odd one out?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e3, a2, a3. Get it before The Daisy Planet Test: can daisies change the temperature of a whole planet?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in A World in a Jar: a sealed ecosystem for three weeks. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in p1. Get it before A World in a Jar: a sealed ecosystem for three weeks.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in A World in a Jar: a sealed ecosystem for three weeks. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in p1. Get it before A World in a Jar: a sealed ecosystem for three weeks.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Daisy Planet Test: can daisies change the temperature of a whole planet?, When the Daisies Run Out of Room: how far can a system steady itself?, The Faster Sun: tune the Daisy Planet. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1, a4, c1. Get it before The Daisy Planet Test: can daisies change the temperature of a whole planet?.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in The Daisy Planet Test: can daisies change the temperature of a whole planet?, Three Planets' Air: which planet is the odd one out?. About ₹10 to ₹30. Draw squares on plain paper. Used in e1, a2. Get it before The Daisy Planet Test: can daisies change the temperature of a whole planet?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name the five levels of life, from smallest to biggest. → Organism, population, community, ecosystem, biosphere.
@@ -845,7 +856,7 @@ Everybody Eats (sci.ecology.L5): Topic-level song
 - The same notes: 'build a cooperative board game where players must keep Earth's energy budget stable' and 'story of a planet that lost its balance', the starting points for the Daisy Planet Test and When the Daisies Run Out of Room
 - The same notes: 'host a balance the planet role-play council', the starting point for the Gaia Council; and the line 'harmony requires give and take; too much imbalance brings instability; invisible flows maintain life', used for the feedback explanation
 - The Combined lesson sci-C5-living-in-harmony.json: its ideas 'energy flows through once, but atoms go round and round' and 'balance in nature is movement, not stillness' are taken further here
-- The Level 5 units on food webs and biodiversity of the same topic, read so that this unit leads on from them without repeating
+- The Level 5 units on food webs and biodiversity of the same topic, read so that this lesson leads on from them without repeating
 - Lovelock, Nature 207, 1965, 'A physical basis for life detection experiments'
 - Hitchcock and Lovelock, Icarus 7, 1967, 'Life detection by atmospheric analysis'
 - Lovelock and Margulis, Tellus 26, 1974, 'Atmospheric homeostasis by and for the biosphere: the Gaia hypothesis'

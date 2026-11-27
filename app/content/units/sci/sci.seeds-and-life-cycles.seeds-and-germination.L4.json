@@ -677,11 +677,11 @@
       "t": "mcq",
       "q": "A player wakes all three allowed seeds on a round with a poor sign. The back says DANGER. What happens?",
       "options": [
-       "All three seeds are lost",
        "Only one seed is lost",
+       "All three seeds are lost",
        "The seeds go back to sleep"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Every woken seed is lost in a dangerous spell. A seed that woke cannot go back to sleep. A seed that stayed asleep is safe. That is why waking only some seeds is a safer plan."
      }
     },
@@ -716,11 +716,11 @@
       "t": "mcq",
       "q": "In the game, a player who woke all her seeds as early as possible usually did badly. Why?",
       "options": [
-       "One bad spell of weather lost all her seeds",
        "Seeds do not grow in good weather",
-       "Waking seeds early is against the rules"
+       "Waking seeds early is against the rules",
+       "One bad spell of weather lost all her seeds"
       ],
-      "a": 0,
+      "a": 2,
       "why": "If every seed wakes together, one bad day can destroy every one of them. A player who spreads out her choices keeps some seeds safe. Real seeds in a desert do much the same thing."
      }
     }
@@ -834,11 +834,11 @@
       "t": "mcq",
       "q": "Which key helps a desert wildflower seed that has a sleep chemical in the coat?",
       "options": [
-       "A big rain that washes the chemical away",
        "A flash of red light",
-       "A spell of cold"
+       "A spell of cold",
+       "A big rain that washes the chemical away"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A small shower would not wash away the chemical, so the seed stays asleep. A big rain tells the seed that the soil is wet deep down, and a seedling can grow."
      }
     },
@@ -946,12 +946,12 @@
      "t": "mcq",
      "p": "A seed is alive, and has water, warmth and air, but still does not sprout. What is this called?",
      "opts": [
-      "Dormancy",
       "Germination",
+      "Dormancy",
       "Swelling",
       "Respiration"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Dormancy is when a living seed holds back, even though conditions seem right, until the right sign comes. Germination is the opposite, when the seed starts to grow. Picking 'dead' would be wrong, because a dormant seed is alive.",
      "outcome": 2
     },
@@ -959,12 +959,12 @@
      "t": "mcq",
      "p": "A tiny mustard seed is sown 8 centimetres deep. A big chana is sown 8 centimetres deep too. Which is more likely to reach the top, and why?",
      "opts": [
-      "The chana, because the bigger food store can feed a long climb in the dark",
       "The mustard, because the seed is lighter",
       "Both reach the top, because shoots always find the light",
+      "The chana, because the bigger food store can feed a long climb in the dark",
       "Neither, because seeds cannot grow in soil"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A shoot grows in the dark using the food in the seed. The chana has a big food store, so the shoot can travel a long way. The mustard seed has only a pinch of food and runs out first. Picking 'lighter' mixes up weight with food store.",
      "outcome": 3
     },
@@ -1035,12 +1035,12 @@
      "t": "mcq",
      "p": "Bean sprouts from the market are long and white. Why are they grown in the dark?",
      "opts": [
-      "In the dark the sprouts stretch long and stay pale, which is what people want to eat",
       "The dark makes them sweet",
       "Light would kill the seeds",
+      "In the dark the sprouts stretch long and stay pale, which is what people want to eat",
       "They grow slower in the dark"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A seedling in the dark stretches fast and makes almost no chlorophyll, so they stay pale. Growers use this on purpose. Picking 'light would kill the seeds' is wrong, because the same seeds grow well in light as green, shorter seedlings.",
      "outcome": 5
     },
@@ -1104,12 +1104,12 @@
      "t": "mcq",
      "p": "In a desert, the first rain of the year is often light, and a long dry spell may follow. Which sowing plan is the safest for a farmer?",
      "opts": [
-      "Sow all the seed at the first rain",
       "Sow part of the seed at the first rain and keep part for a later rain",
+      "Sow all the seed at the first rain",
       "Sow nothing until the end of the rainy season",
       "Sow the seed in the hottest week"
      ],
-     "a": 1,
+     "a": 0,
      "why": "A farmer who sows in two lots is spreading the risk. If the first lot is lost in a dry spell, the second lot may survive. Seeds that wake at different times work in the same way. Picking 'all the seed at the first rain' risks losing everything.",
      "outcome": 1
     },
@@ -1145,12 +1145,12 @@
      "t": "mcq",
      "p": "Apple seeds taken straight from an apple sprout badly. After several weeks in a damp, cold fridge, many more of them sprout. What is the best explanation?",
      "opts": [
-      "The seeds need a spell of cold before they wake, which tells them that winter has passed",
       "Cold makes the seeds bigger",
       "The fridge feeds the seeds",
+      "The seeds need a spell of cold before they wake, which tells them that winter has passed",
       "The seeds learn to love the cold"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Many seeds of cold places stay dormant until they have been through a spell of cold. This stops them waking in autumn, when winter would kill the seedlings. Picking 'bigger' is not right. Cold changes the balance of chemical messengers inside the seed.",
      "outcome": 2
     },
@@ -1187,12 +1187,12 @@
      "t": "mcq",
      "p": "A seed is 4 millimetres wide. A gardener's rule says to sow a seed two or three times as deep as the seed is wide. About how deep should this seed be sown?",
      "opts": [
-      "About 1 centimetre",
       "About 4 centimetres",
+      "About 1 centimetre",
       "About 4 millimetres",
       "On top of the soil"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Two times 4 millimetres is 8 millimetres. Three times 4 millimetres is 12 millimetres. So about 1 centimetre is right. Picking 4 centimetres means sowing the seed 10 times as deep as the seed is wide, which a small seed could not climb.",
      "outcome": 3
     },
@@ -1355,12 +1355,12 @@
      "t": "mcq",
      "p": "One test uses 10 seeds from a packet, and 7 sprout. Another test uses 100 seeds from the same packet, and 82 sprout. Which result is a steadier guide to the whole packet, and why?",
      "opts": [
-      "The test of 100 seeds, because a bigger sample is less changed by one odd seed",
       "The test of 10 seeds, because 10 is easier to count",
       "They are equally good",
-      "Neither, because a packet cannot be tested"
+      "Neither, because a packet cannot be tested",
+      "The test of 100 seeds, because a bigger sample is less changed by one odd seed"
      ],
-     "a": 0,
+     "a": 3,
      "why": "With 10 seeds, one seed changes the answer by 10 percent. With 100 seeds, one seed changes it by 1 percent. A bigger sample is steadier. Picking 'easier to count' is true, but easy does not mean right.",
      "outcome": 0
     },
@@ -1412,12 +1412,12 @@
      "t": "mcq",
      "p": "A seedling that is shaded by a bigger plant stretches taller than a seedling in full sun. What is the best explanation?",
      "opts": [
-      "Light sensors in the seedling tell the seedling that they are in shade, so they stretch to reach the light",
       "Shade makes the seedling hungrier",
+      "Light sensors in the seedling tell the seedling that they are in shade, so they stretch to reach the light",
       "Shade makes seeds bigger",
       "The seedling can see the sun"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Plants have light sensors, and they respond to the amount and colour of light. A shaded seedling gets a different signal, and they grow taller to reach the light. Picking 'can see the sun' is a good guess, but a seedling has no eyes.",
      "outcome": 5
     },
@@ -1438,12 +1438,12 @@
      "t": "mcq",
      "p": "Why can seed banks not simply dry and freeze mango stones, as they do with chana?",
      "opts": [
-      "Mango seeds are wet-keeping seeds, which die when they dry out",
       "Mango stones are too big for freezers",
       "Mango seeds have no baby plant",
+      "Mango seeds are wet-keeping seeds, which die when they dry out",
       "Mango seeds only grow in cold places"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A wet-keeping seed dies when the seed is dried. A dry-keeping seed can be dried and frozen and will wake up later. Scientists are trying new ways to keep wet-keeping seeds, such as freezing only the tiny baby plant.",
      "outcome": 6
     },
@@ -1510,12 +1510,12 @@
      "t": "mcq",
      "p": "A farmer sows seed after a light first rain. A week later, a hot dry spell kills every seedling. What should she do before she buys new seed?",
      "opts": [
-      "Dig up some seeds that did not come up and check if they are alive",
       "Give up on the field",
+      "Dig up some seeds that did not come up and check if they are alive",
       "Sow twice as much new seed on top",
       "Pour water on the dead seedlings"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Seeds that did not come up may still be alive and waiting for more rain. Digging a few up and checking costs nothing. Buying new seed first could waste money.",
      "outcome": 1
     },
@@ -1688,11 +1688,11 @@
       "t": "mcq",
       "q": "Why do we start the clock when the seeds touch the wet cloth?",
       "options": [
-       "So every seed starts the count at the same moment",
        "So the seeds sprout faster",
-       "So we can count less often"
+       "So we can count less often",
+       "So every seed starts the count at the same moment"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A fair count needs one starting moment for every seed. Then the hours we write down mean the same for all of them."
      }
     },
@@ -1747,11 +1747,11 @@
       "t": "mcq",
       "q": "On a waking curve, the line climbs steeply in the middle and then goes flat at the end. What does the flat end mean?",
       "options": [
-       "Almost no new seeds are waking, because most have woken already",
        "The seeds have stopped growing",
-       "The count must be wrong"
+       "The count must be wrong",
+       "Almost no new seeds are waking, because most have woken already"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A flat line means the running total is not rising. Few seeds are left to wake. A flat end is normal, and a few seeds may still wake later."
      }
     },
@@ -1944,11 +1944,11 @@
       "t": "mcq",
       "q": "Why does every tumbler get the same soil, the same water and the same place?",
       "options": [
-       "So only the seed and the depth are different",
        "So the plants grow tall",
+       "So only the seed and the depth are different",
        "So the soil does not get dirty"
       ],
-      "a": 0,
+      "a": 1,
       "why": "In a fair test, only one thing changes in each comparison. If one tumbler had more water, we would not know if depth or water caused the difference."
      }
     },
@@ -2135,11 +2135,11 @@
       "t": "mcq",
       "q": "Why do both cups get the same seeds, the same tissue and the same water?",
       "options": [
-       "So only the light is different",
        "So both cups look the same",
+       "So only the light is different",
        "So the seeds grow faster"
       ],
-      "a": 0,
+      "a": 1,
       "why": "In a fair test only one thing changes. If the dark cup had less water, we would not know if the dark or the water made the seedlings different."
      }
     },
@@ -2355,11 +2355,11 @@
       "t": "mcq",
       "q": "Why do we weigh both groups at the start?",
       "options": [
-       "So we know how much each group changes",
        "So the seeds get heavier",
+       "So we know how much each group changes",
        "So the bowls are full"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A weight at the start lets us work out how much extra water each group took in. Without a starting weight, we cannot tell if the seeds changed."
      }
     },
@@ -2518,11 +2518,11 @@
       "t": "mcq",
       "q": "Iodine turns blue-black on the potato and stays brown on the cucumber. What does that tell you?",
       "options": [
-       "The potato has starch and the cucumber has very little",
        "The cucumber has more water",
+       "The potato has starch and the cucumber has very little",
        "The potato is older"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Iodine turns blue-black when it meets starch. The potato is rich in starch, and the cucumber has hardly any. So now we have a starch detector."
      }
     },
@@ -2765,11 +2765,11 @@
       "t": "mcq",
       "q": "Why do we sow five of the fresh seeds right away?",
       "options": [
-       "So we have a comparison with the dried seeds",
        "So they get lonely",
+       "So we have a comparison with the dried seeds",
        "So they dry faster"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Without the fresh seeds, we would not know if the dried seeds failed because they dried or because they were always unable to sprout. The fresh pot is our comparison."
      }
     },
@@ -3071,11 +3071,11 @@
       "t": "mcq",
       "q": "Why do we put a salt packet in each container?",
       "options": [
-       "Salt takes in water from damp air, so it shows if damp air got in",
        "Salt keeps the chana fresh",
-       "Salt makes the box smell nice"
+       "Salt makes the box smell nice",
+       "Salt takes in water from damp air, so it shows if damp air got in"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Salt soaks up water from the air and turns damp or clumpy. A dry salt packet means little damp air reached it. A wet one means the container let damp air in."
      },
      "wait": "Leave for 3 days"
@@ -3169,11 +3169,11 @@
       "t": "mcq",
       "q": "In the test, the tissue stays dry after the small shower. What does that tell you about the design?",
       "options": [
-       "The sand layer held the small shower in the top layer",
        "The seed must be dead",
-       "The sand is too wet"
+       "The sand is too wet",
+       "The sand layer held the small shower in the top layer"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A dry tissue means the water did not reach the seed. The sand soaked it up near the top. A seed in this design would stay asleep through a small shower."
      }
     },
@@ -3221,12 +3221,12 @@
    "t": "mcq",
    "p": "A tiny mustard seed and a big chana are each sown 6 centimetres deep. Which is more likely to reach the top, and why?",
    "opts": [
-    "The chana, because the chana has a bigger food store for the long climb",
     "The mustard, because the mustard seed is smaller",
     "Both, because all shoots reach the top",
+    "The chana, because the chana has a bigger food store for the long climb",
     "Neither, because the soil is too heavy"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A shoot grows in the dark using the seed's own food. The chana has much more food than the mustard seed. Picking 'both' is a common guess, but a tiny seed buried deep runs out of food first.",
    "outcome": 3
   },
@@ -3260,12 +3260,12 @@
    "t": "mcq",
    "p": "Look at the graph of running totals. Between which two counts did the most new seeds wake?",
    "opts": [
-    "Between 12 and 24 hours",
     "Between 0 and 12 hours",
+    "Between 12 and 24 hours",
     "Between 24 and 36 hours",
     "Between 36 and 48 hours"
    ],
-   "a": 0,
+   "a": 1,
    "why": "From 12 to 24 hours the total rose from 4 to 15, which is 11 new seeds. From 24 to 36 hours it rose by 9. From 36 to 48 hours it rose by 3. The steepest part of the line is where the most seeds wake.",
    "outcome": 1,
    "how": "e1",
@@ -3304,12 +3304,12 @@
    "t": "mcq",
    "p": "What does dormancy mean?",
    "opts": [
-    "A living seed holds back from sprouting until the right sign comes",
     "A seed has died",
     "A seed has grown a first root",
-    "A seed has been stored in a jar"
+    "A seed has been stored in a jar",
+    "A living seed holds back from sprouting until the right sign comes"
    ],
-   "a": 0,
+   "a": 3,
    "why": "A dormant seed is alive but waiting. Picking 'died' is the usual mistake. A dormant seed will sprout when the seed gets the right key, and a dead seed never will.",
    "outcome": 2
   },
@@ -3330,12 +3330,12 @@
    "t": "mcq",
    "p": "Which of these seedlings lifts the seed leaves up into the air?",
    "opts": [
-    "Moong",
     "Chana",
     "Peas",
-    "Rice"
+    "Rice",
+    "Moong"
    ],
-   "a": 0,
+   "a": 3,
    "why": "In moong and rajma, a hooked stem pulls the fat seed leaves up into the light. In chana and peas, they stay in the soil. In rice, a sheath covers the first leaf, and one thin seed leaf stays below.",
    "outcome": 4
   },
@@ -3343,12 +3343,12 @@
    "t": "mcq",
    "p": "Two plates, each with 30 seeds from the same packet, give 26 sprouted on one plate and 28 on the other. What does this tell you?",
    "opts": [
-    "Even identical plates differ a little, because each seed is different",
     "One of the plates was done wrongly",
     "The packet has two kinds of seed",
-    "The test is useless"
+    "The test is useless",
+    "Even identical plates differ a little, because each seed is different"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Small differences between plates are normal. Seeds are all a little different, so two samples will not match exactly. This is why labs test many seeds.",
    "outcome": 1
   },
@@ -3356,12 +3356,12 @@
    "t": "mcq",
    "p": "A jackfruit seed is dried in a drawer for a month, then sown, and does not sprout. A fresh jackfruit seed sown the same day does sprout. What is the best explanation?",
    "opts": [
-    "Jackfruit seeds are wet-keeping seeds that die when they dry out",
     "Jackfruit seeds only sprout in winter",
+    "Jackfruit seeds are wet-keeping seeds that die when they dry out",
     "The drawer was too warm for the seed",
     "Jackfruit seeds do not have a baby plant"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A wet-keeping seed cannot survive drying out. A chana can, because chana is a dry-keeping seed. Picking 'no baby plant' is wrong, because the fresh seed sprouted.",
    "outcome": 6
   },
@@ -3369,12 +3369,12 @@
    "t": "mcq",
    "p": "Apple seeds sprout much better after weeks in a cold, damp fridge. What is the cold doing?",
    "opts": [
-    "The cold tells the seed that winter has passed, so waking is safe",
     "It feeds the seed",
+    "The cold tells the seed that winter has passed, so waking is safe",
     "It softens the seed coat",
     "It makes the seed bigger"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Many seeds of cool places have a dormancy that only a spell of cold removes. This stops them waking before winter. Picking 'softens the coat' mixes up cold with a rub.",
    "outcome": 2
   },
@@ -3382,12 +3382,12 @@
    "t": "mcq",
    "p": "In a dry place, seeds in a field all woke at the first light rain. A long dry spell followed. What is the main danger of all seeds waking together?",
    "opts": [
-    "One dry spell can kill every seedling, and none are left",
     "The seeds will be too crowded",
+    "One dry spell can kill every seedling, and none are left",
     "The seeds will taste bad",
     "The field will be too green"
    ],
-   "a": 0,
+   "a": 1,
    "why": "If every seed wakes at once, one bad stretch of weather can end them all. If seeds wake at different times, some are still asleep to try again. Picking 'too crowded' is a possible small problem, but it is not the main danger.",
    "outcome": 1
   },
@@ -3395,12 +3395,12 @@
    "t": "mcq",
    "p": "A pale seedling that grew in a dark cupboard is moved to a bright window. What changes first?",
    "opts": [
-    "The tips start to turn green and the leaves start to open",
     "The stem becomes much longer",
+    "The tips start to turn green and the leaves start to open",
     "The seedling turns brown",
     "Nothing changes for a week"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Light switches on the making of chlorophyll, and the seedling slows their stretching and opens the leaves. Picking 'the stem becomes longer' is the opposite. Light slows stretching.",
    "outcome": 5
   }
@@ -3701,6 +3701,88 @@
     "p1"
    ],
    "plan": "Look at a few pages together before My Seed Library, then compare the photographs with the seeds you saved."
+  },
+  {
+   "id": "b-paper-masking-tape",
+   "item": "Paper masking tape",
+   "kind": "material",
+   "why": "Used in How Deep? A tiny seed and a big seed at three depths. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor.",
+   "url": "https://www.amazon.in/s?k=paper+masking+tape",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before How Deep? A tiny seed and a big seed at three depths."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in The Pale Search: what happens to a seedling that never sees light?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "e3"
+   ],
+   "plan": "Get it before The Pale Search: what happens to a seedling that never sees light?."
+  },
+  {
+   "id": "b-clean-sand--a-small-bag",
+   "item": "Clean sand (a small bag)",
+   "kind": "material",
+   "why": "Used in The Rain Door: a seed that wakes only for a big rain. About ₹20 to ₹60. Fine soil sieved from a pot works.",
+   "url": "https://www.amazon.in/s?k=play+sand+small+bag",
+   "used_in": [
+    "c2"
+   ],
+   "plan": "Get it before The Rain Door: a seed that wakes only for a big rain."
+  },
+  {
+   "id": "b-a-kitchen-or-weighing-scale",
+   "item": "A kitchen or weighing scale",
+   "kind": "tool",
+   "why": "Used in The Dry Vault: keep seeds dry in a damp season. About ₹300 to ₹700. A home-made balance from a ruler and two cups can compare weights.",
+   "url": "https://www.amazon.in/s?k=digital+kitchen+weighing+scale",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before The Dry Vault: keep seeds dry in a damp season."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in The Pale Search: what happens to a seedling that never sees light?, The Rain Door: a seed that wakes only for a big rain. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "e3",
+    "c2"
+   ],
+   "plan": "Get it before The Pale Search: what happens to a seedling that never sees light?."
+  },
+  {
+   "id": "b-iron-nails-or-iron-filings",
+   "item": "Iron nails or iron filings",
+   "kind": "material",
+   "why": "Used in The Locked Seed: what does a tamarind seed need before water can get in?. About ₹20 to ₹80. Short steel nails from a hardware shop.",
+   "url": "https://www.amazon.in/s?k=iron+filings+science",
+   "used_in": [
+    "e4"
+   ],
+   "plan": "Get it before The Locked Seed: what does a tamarind seed need before water can get in?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

@@ -1,9 +1,9 @@
 # Fresh water and salt water: why so little of Earth's water can be drunk
 `sci.water.water-sources-and-uses.L5`
 
-**Summary.** Most of Earth's water is sea water, so very little of it can be drunk. How little? In this unit you will share out one litre of Earth in numbers, freeze salty water to see if the ice keeps the salt, and test what salty water does to a potato.
+**Summary.** Most of Earth's water is sea water, so very little of it can be drunk. How little? In this lesson you will share out one litre of Earth in numbers, freeze salty water to see if the ice keeps the salt, and test what salty water does to a potato.
 
-**Intro.** *From space the Earth looks blue, because water covers most of the surface. So why does a sailor in a lifeboat, with water all around, have nothing to drink?* The water around the sailor is sea water, and sea water is salty. A person who drinks sea water ends up with less water in the body than before. In this unit you measure how much of Earth's water is fresh. You freeze salty water to see where the salt goes. You put sticks of potato in salty water to see what salt does to living cells. You melt ice that is already floating in water. You also melt ice that rests above the water, the way ice on land does. Then you see which one raises the level. Then you take water from a jar of fresh and salty layers, as the people of an island do.
+**Intro.** *From space the Earth looks blue, because water covers most of the surface. So why does a sailor in a lifeboat, with water all around, have nothing to drink?* The water around the sailor is sea water, and sea water is salty. A person who drinks sea water ends up with less water in the body than before. In this lesson you measure how much of Earth's water is fresh. You freeze salty water to see where the salt goes. You put sticks of potato in salty water to see what salt does to living cells. You melt ice that is already floating in water. You also melt ice that rests above the water, the way ice on land does. Then you see which one raises the level. Then you take water from a jar of fresh and salty layers, as the people of an island do.
 
 ## Learning outcomes
 0. I can say how fresh water, brackish water and sea water differ, using grams of salt in a litre.
@@ -144,7 +144,7 @@ A desalination plant pushes sea water at very high pressure against sheets with 
 - **A woman who fishes near the plant:** The waste water is much saltier than the sea. Near the pipe, the fish and the prawns have gone, and my catch is smaller.
 - **A water scientist:** Saving rain, cleaning used water and mending leaking pipes cost far less energy for each litre. A city should do these first, and use the sea last.
 ### Is there water deep inside the Earth? · *idea*
-All the numbers in this unit count the water at Earth's surface: the sea, the ice, the groundwater and the air. There may be more, far below. In 2014, the scientist Graham Pearson and his team studied a small diamond from Brazil. Inside the diamond was a speck of a mineral called ringwoodite, which forms hundreds of kilometres down. The speck held water, locked inside the mineral. This water is not a liquid and nobody could drink it. If much of the deep rock is like that speck, the rock could hold as much water as all the oceans. One speck is very little evidence, so this is still an idea.
+All the numbers in this lesson count the water at Earth's surface: the sea, the ice, the groundwater and the air. There may be more, far below. In 2014, the scientist Graham Pearson and his team studied a small diamond from Brazil. Inside the diamond was a speck of a mineral called ringwoodite, which forms hundreds of kilometres down. The speck held water, locked inside the mineral. This water is not a liquid and nobody could drink it. If much of the deep rock is like that speck, the rock could hold as much water as all the oceans. One speck is very little evidence, so this is still an idea.
 - e.g. A mineral can hold water locked inside its own structure and still look dry, as plaster does.
 - e.g. Volcanoes give off steam, so some water does come up from deep rock.
 
@@ -181,7 +181,7 @@ All the numbers in this unit count the water at Earth's surface: the sea, the ic
   Against: It still needs much more energy than cleaning river water. Towns far from the sea or high above it would also have to pump the water a long way. The salty waste harms life near the outlet.
 
 ## Roots
-In this unit you froze salty water and found that the ice left most of the salt behind. Here we ask what that tells us about fresh water, the sea and ourselves.
+In this lesson you froze salty water and found that the ice left most of the salt behind. Here we ask what that tells us about fresh water, the sea and ourselves.
 
 **Deep truth.** In One Litre Earth, all the fresh lakes and rivers of the world fill less than one drop. Even so, rivers have kept running for millions of years. The Sun lifts fresh water out of the sea and leaves the salt behind. Then rain brings the water back. So a place can keep using water for ever only if it takes no more than the rain refills.  
 *Habit it breaks:* We call Earth a water planet, so it seems that water can never run short. That counts the sea, which people cannot drink. The water that people can actually use is only a small amount. It is what the Sun lifts out of the sea and the rain brings back.  
@@ -193,9 +193,9 @@ In this unit you froze salty water and found that the ice left most of the salt 
 
 A drop of water in the Bay of Bengal carries salt. The Sun lifts the water into the air and the salt stays in the sea. The drop falls as snow on a Himalayan glacier and melts into the Ganga. It may pass through a well, a tumbler and a child. Then it flows back to the bay and mixes with salt again. The same water passes through the sea, a cloud, a glacier, a river and a child, one after another.
 
-- **Chandogya Upanishad 6.10:** “इमाः सोम्य नद्यः पुरस्तात्प्राच्यः स्यन्दन्ते पश्चात्प्रतीच्यः / ताः समुद्रात्समुद्रमेवापियन्ति / स समुद्र एव भवति / ता यथा तत्र न विदुरियमहमस्मीयमहमस्मीति” The rivers in the east flow east and the rivers in the west flow west. They rise from the sea and go back to the sea, and they become the sea. Once there, they do not know 'I am this river' or 'I am that river'. (The verse says that rivers come from the sea and return to it. This unit's science agrees: rain rises from the sea by evaporation, and rivers carry it back. The teacher Uddalaka uses the rivers to teach his son about the self. That part is a teaching, and the science neither proves it nor denies it.)
+- **Chandogya Upanishad 6.10:** “इमाः सोम्य नद्यः पुरस्तात्प्राच्यः स्यन्दन्ते पश्चात्प्रतीच्यः / ताः समुद्रात्समुद्रमेवापियन्ति / स समुद्र एव भवति / ता यथा तत्र न विदुरियमहमस्मीयमहमस्मीति” The rivers in the east flow east and the rivers in the west flow west. They rise from the sea and go back to the sea, and they become the sea. Once there, they do not know 'I am this river' or 'I am that river'. (The verse says that rivers come from the sea and return to it. This lesson's science agrees: rain rises from the sea by evaporation, and rivers carry it back. The teacher Uddalaka uses the rivers to teach his son about the self. That part is a teaching, and the science neither proves it nor denies it.)
 - **Tirukkural, verse 17, in the chapter on rain, by Thiruvalluvar:** “நெடுங்கடலும் தன்நீர்மை குன்றும் தடிந்தெழிலி / தான்நல்கா தாகி விடின்.” Even the wide sea will lose its wealth, if the cloud does not draw up its water and give it back as rain. (Thiruvalluvar, about 1,500 years ago by the usual dating, describes the cloud taking water from the sea and returning it. He is praising rain. He does not say that the salt stays behind, which is what Freeze the Sea and the salt pans show.)
-- **Thich Nhat Hanh, No Death, No Fear (2002):** A cloud never dies. It can become rain, snow or ice, but it cannot become nothing. (This is the same journey told from the cloud's side. The fresh water in a tumbler was vapour, and before that it was sea. It is a way of looking. The measurements in this unit stand without it.)
+- **Thich Nhat Hanh, No Death, No Fear (2002):** A cloud never dies. It can become rain, snow or ice, but it cannot become nothing. (This is the same journey told from the cloud's side. The fresh water in a tumbler was vapour, and before that it was sea. It is a way of looking. The measurements in this lesson stand without it.)
 - Science (settled): Matter is not made or destroyed when water changes form. The water that freezes, melts, evaporates and condenses is the same water.
 - Science (settled): Nearly all the water in rivers, lakes, glaciers and groundwater fell as rain or snow, and most of that vapour rose from the sea.
 - Science (open): Deep rock inside the Earth may hold as much water as all the oceans, locked inside minerals. Nobody yet knows how much.
@@ -676,7 +676,7 @@ Ayesha went on keeping her page of marks long after anyone needed it. She liked 
 ## Worksheets
 ### Fresh, salty and frozen water (core, 15 questions)
 1. (mcq) Out of every 1,000 parts of Earth's water, about how many are fresh?  
-   Options: About 25 / About 250 / About 500 / About 975  
+   Options: About 250 / About 500 / About 975 / About 25  
    **Answer:** About 25. *Why:* About 975 parts are salty and about 25 are fresh. That is 2 and a half parts in 100. If you chose a larger number, remember that most of the water is in the salty sea.
 2. (fill) Water with less than 1 gram of salt in a litre is called ____ water.  
    **Answer:** ['fresh']. *Why:* Fresh water holds very little dissolved salt. Sea water holds about 35 grams in a litre, and brackish water is in between.
@@ -690,7 +690,7 @@ Ayesha went on keeping her page of marks long after anyone needed it. She liked 
 6. (order) Put these in order, from the most fresh water to the least:  
    **Answer:** ['Ice and glaciers', 'Groundwater', 'Lakes and rivers']. *Why:* Ice holds about 17 parts, groundwater about 7 and a half, and all the fresh lakes and rivers less than one tenth of one part.
 7. (mcq) What changes liquid water into water vapour?  
-   Options: Heat entering the water / Heat leaving the water / Adding salt / Stirring the water  
+   Options: Heat leaving the water / Adding salt / Stirring the water / Heat entering the water  
    **Answer:** Heat entering the water. *Why:* Heat entering a liquid lets its particles fly off as a gas. This is evaporation. Heat leaving the water makes it freeze or the vapour condense.
 8. (sort) Sort each water by its form.  
    **Answer:** Ice on the Gangotri glacier → Solid; The water in the Godavari → Liquid; The invisible vapour in room air → Gas; Frost in a freezer → Solid; The water in a coconut → Liquid; Hail → Solid. *Why:* Glacier ice, frost and hail are solid water. Rivers and coconut water are liquid. Water vapour is a gas, and it is invisible.
@@ -702,7 +702,7 @@ Ayesha went on keeping her page of marks long after anyone needed it. She liked 
    Options: Only water evaporates, and the salt stays in the sea / Clouds wash the salt out of the rain / The Sun burns the salt away / Wind filters the rain  
    **Answer:** Only water evaporates, and the salt stays in the sea. *Why:* When sea water evaporates, only water particles fly into the air. The salt is left in the sea. So rain, and the rivers it fills, are fresh.
 12. (mcq) A person drinks a litre of sea water. What happens to the water in their body?  
-   Options: The body loses more water than it drank / The body gains one litre of water / The body stays the same / The body loses only salt  
+   Options: The body gains one litre of water / The body stays the same / The body loses only salt / The body loses more water than it drank  
    **Answer:** The body loses more water than it drank. *Why:* To get rid of the salt, the kidneys need more than a litre of the body's own water. So the person ends up with less water than before.
 13. (draw) Draw a potato stick from plain water and one from very salty water, each being bent. Show how each looks.  
    **Answer:** The plain-water stick is stiff and snaps or bends only a little. The very salty stick is limp and bends into a curve. Arrows can show water going out of the limp stick.. *Why:* A strong drawing shows the difference between a stiff stick and a limp one, and may show water leaving the cells of the limp stick.
@@ -729,14 +729,14 @@ Ayesha went on keeping her page of marks long after anyone needed it. She liked 
 7. (match) Match each living being to the way they get rid of salt.  
    **Answer:** An albatross → A salt gland above each eye drips salty liquid from her beak; A sea turtle → Salt glands near the eyes make salty tears; A sea fish → Salt is pushed out through the gills; A grey mangrove → Salt leaves through the leaves and dries as crystals. *Why:* Each has its own way of removing the salt that sea water brings in. Humans cannot do this, which is why people cannot live on sea water.
 8. (mcq) Why does a lake with no river flowing out turn salty over many years?  
-   Options: Water leaves only by evaporation, and the salt stays / Rain brings salt down from the clouds / The fish make salt / The lake bed makes new salt  
+   Options: Rain brings salt down from the clouds / Water leaves only by evaporation, and the salt stays / The fish make salt / The lake bed makes new salt  
    **Answer:** Water leaves only by evaporation, and the salt stays. *Why:* Rivers carry a little dissolved salt into the lake. Water leaves only as vapour, and the salt cannot. So the salt builds up, year after year.
 9. (sort) Is each store of fresh water easy or hard for people to reach?  
    **Answer:** A village well → Easy to reach; A river → Easy to reach; The ice on Antarctica → Hard to reach; Water deep in rock → Hard to reach; A lake near a city → Easy to reach; A glacier high in the Karakoram → Hard to reach. *Why:* People can reach rivers, lakes and wells with a pipe or a bucket. Ice far away, and water deep in rock, are too far or too hard to use.
 10. (label) Label the three layers under a coral island: fresh water, sea water and dry sand.  
    **Answer:** ['Dry sand: at the top', 'Fresh water layer: floating in the middle, on the sea water', 'Sea water: below and around the fresh layer']. *Why:* Rain soaks through dry sand and floats as a layer on the heavier sea water. A shallow well reaches only the fresh layer.
 11. (mcq) Why is a potato stick in very salty water limp after an hour?  
-   Options: Water left its cells towards the saltier side / Salt ate away the potato / The stick soaked up the salt / The water was too cold  
+   Options: Salt ate away the potato / Water left its cells towards the saltier side / The stick soaked up the salt / The water was too cold  
    **Answer:** Water left its cells towards the saltier side. *Why:* Water moves through the thin skin of a cell towards the saltier side. The cells lose water and go slack, so the stick bends.
 12. (write) Some people think a little sea water each day would keep a sailor alive. Explain why it would not.  
    **Answer:** Sea water is saltier than the body's liquids. To remove the salt, the kidneys need more water than the sea water brought. So each drink leaves the body with less water, and the sailor gets thirstier.. *Why:* A strong answer says that the kidneys can make urine only a little saltier than blood, so they need extra body water to carry the salt out.
@@ -752,14 +752,14 @@ Ayesha went on keeping her page of marks long after anyone needed it. She liked 
 2. (count) Body liquids hold 9 grams of salt in a litre. Sea water holds 35. About how many times saltier is the sea?  
    **Answer:** 4. *Why:* 35 divided by 9 is about 3.9, so the sea is about 4 times as salty as the liquids in the body.
 3. (mcq) Sea water holds 35 grams of salt in a litre. Suppose urine holds at most 20. How much urine carries that salt?  
-   Options: About 1.75 litres / About half a litre / About 35 litres / Exactly 1 litre  
+   Options: About half a litre / About 35 litres / About 1.75 litres / Exactly 1 litre  
    **Answer:** About 1.75 litres. *Why:* 35 grams divided by 20 grams in each litre is 1.75 litres. The person drank 1 litre, so the body loses three quarters of a litre more than it took in.
 4. (count) If the Earth's water were 2 litres in all, about how many millilitres would be fresh?  
    **Answer:** 50. *Why:* About 25 parts in 1,000 are fresh. 2 litres is 2,000 millilitres. 25 times 2 is 50 millilitres.
 5. (truefalse) If all the floating ice at the North Pole melted, the sea would rise by metres.  
    **Answer:** False. *Why:* False. The ice at the North Pole is sea ice that already floats. It pushes aside its own weight of water, so melting it changes the sea level very little. This matches tumbler A.
 6. (mcq) Which melting ice would add the most water to the sea?  
-   Options: The ice sheets on Greenland and Antarctica / The sea ice around the North Pole / Ice cubes floating in a tumbler / An iceberg that is already floating  
+   Options: The sea ice around the North Pole / The ice sheets on Greenland and Antarctica / Ice cubes floating in a tumbler / An iceberg that is already floating  
    **Answer:** The ice sheets on Greenland and Antarctica. *Why:* These ice sheets sit on land, like the ice in the strainer. Their melt water is new water for the sea. The others already float.
 7. (order) Put these in order, from the saltiest to the least salty:  
    **Answer:** ['The Dead Sea', 'The Arabian Sea', 'Chilika in the monsoon', 'Rain']. *Why:* The Dead Sea holds about 340 grams in a litre and the Arabian Sea about 36. Chilika in the monsoon is a few grams, and rain has almost none.
@@ -768,7 +768,7 @@ Ayesha went on keeping her page of marks long after anyone needed it. She liked 
 9. (perspective) Should a river be pumped for a city if the fish and fishers at the river's mouth lose out?  
    **Answer:** Any view with a reason. One reason: a river that no longer reaches the sea changes the estuary, and the fish breed where fresh and salt water meet. Another: millions of people's drinking water matters first, and the plan can still leave some flow for the river.. *Why:* A strong answer sees that taking from a river affects the estuary at its end. It does not treat the engineer, fisher or farmer as wrong, because each has a real need.
 10. (mcq) Freezing sea water gives ice that is not perfectly fresh. What is the best explanation?  
-   Options: Pockets of salty liquid are trapped between the ice crystals / Ice makes a little new salt / The freezer adds salt to the ice / The water did not freeze at all  
+   Options: Ice makes a little new salt / The freezer adds salt to the ice / Pockets of salty liquid are trapped between the ice crystals / The water did not freeze at all  
    **Answer:** Pockets of salty liquid are trapped between the ice crystals. *Why:* Ice crystals push most salt out, but salty liquid gets trapped in small pockets between them. That is why old sea ice, where the pockets have drained, is nearly fresh.
 11. (write) Many people say that a deeper well gives fresher water. Plan a test of this in a village near the sea.  
    **Answer:** Choose wells of different depths in the same village. Take a sample from each in the same way and at the same time of year. Tasting the water is not safe, so test them for salt with a safe method such as a grown-up's meter or the village health office. Compare depth with saltiness for all the wells.. *Why:* A strong answer compares several wells of different depths, keeps everything else the same, and measures saltiness safely, not by drinking.
@@ -777,7 +777,7 @@ Ayesha went on keeping her page of marks long after anyone needed it. She liked 
 13. (draw) Draw two tumblers after Ice on Land, Ice on Sea. Show each water line, and label the one that rose.  
    **Answer:** Two tumblers with a band marked on each. In tumbler A the water is level with the band. In tumbler B the water is above the band, and the label says it rose.. *Why:* A strong drawing shows the band and the water line in both tumblers, with only the tumbler that had ice above the water showing a rise.
 14. (mcq) Which statement about the three forms of water is true?  
-   Options: Most of Earth's water is liquid / Most of Earth's water is ice / Most of Earth's water is vapour / Most of Earth's water is cloud  
+   Options: Most of Earth's water is ice / Most of Earth's water is vapour / Most of Earth's water is liquid / Most of Earth's water is cloud  
    **Answer:** Most of Earth's water is liquid. *Why:* About 98 of every 100 parts of Earth's water are liquid, in the sea and under the ground. Nearly 2 parts are ice, and vapour is only about 1 part in 100,000.
 15. (truefalse) Most of the fresh water that people take from rivers, lakes and the ground goes to homes.  
    **Answer:** False. *Why:* False. Worldwide, about 7 in 10 litres go to farms, about 2 to industry, and about 1 to homes.
@@ -789,31 +789,31 @@ Ayesha went on keeping her page of marks long after anyone needed it. She liked 
 
 ## Quiz
 1. (mcq) About how many grams of salt does one litre of sea water hold?  
-   Options: About 35 / About 3.5 / About 350 / About 0.35  
+   Options: About 3.5 / About 350 / About 0.35 / About 35  
    **Answer:** About 35. *Why:* A litre of sea water holds about 35 grams of dissolved salts, which is about 6 level teaspoons. Fresh water holds under 1 gram.
 2. (mcq) In One Litre Earth, what stands for all the fresh lakes and rivers in the world?  
-   Options: One drop / One teaspoon / A full tumbler / Half the bottle  
+   Options: One teaspoon / A full tumbler / Half the bottle / One drop  
    **Answer:** One drop. *Why:* All the fresh lakes and rivers together are less than one tenth of one part in 1,000. That is about one drop in a litre.
 3. (mcq) A cloud is made of what?  
-   Options: Tiny drops of water or tiny bits of ice / Water vapour only / Smoke / Dust  
+   Options: Water vapour only / Smoke / Tiny drops of water or tiny bits of ice / Dust  
    **Answer:** Tiny drops of water or tiny bits of ice. *Why:* Water vapour is invisible. A cloud forms when vapour condenses into tiny drops, or freezes into tiny bits of ice, which are big enough to see.
 4. (mcq) Which change takes the salt out of sea water?  
-   Options: Evaporation / Stirring / Pouring through a cloth / Cooling it a little  
+   Options: Stirring / Pouring through a cloth / Evaporation / Cooling it a little  
    **Answer:** Evaporation. *Why:* Only the water particles fly into the air. The salt stays behind. Stirring and a cloth do not separate dissolved salt.
 5. (mcq) Why does a person who drinks sea water become thirstier?  
-   Options: The kidneys need extra water to remove the salt / Sea water is hot / The body keeps the salt and loses nothing / Sea water has no water in it  
+   Options: Sea water is hot / The kidneys need extra water to remove the salt / The body keeps the salt and loses nothing / Sea water has no water in it  
    **Answer:** The kidneys need extra water to remove the salt. *Why:* The kidneys can make urine only a little more than half as salty as sea water. So they must use extra body water to carry the salt out.
 6. (mcq) Why does fresh water float on sea water?  
-   Options: A litre of it has less mass / It is colder / It has no colour / It moves faster  
+   Options: It is colder / A litre of it has less mass / It has no colour / It moves faster  
    **Answer:** A litre of it has less mass. *Why:* A litre of fresh water has a mass of about 1,000 grams and a litre of sea water about 1,025 grams. The lighter water floats.
 7. (mcq) Which melting ice raises the sea?  
-   Options: Ice on land, such as on Greenland / Ice floating at the North Pole / Ice cubes floating in a tumbler / Sea ice that already floats  
+   Options: Ice floating at the North Pole / Ice on land, such as on Greenland / Ice cubes floating in a tumbler / Sea ice that already floats  
    **Answer:** Ice on land, such as on Greenland. *Why:* Ice on land adds new water to the sea. Floating ice already pushes aside its own weight of water, so it changes the level very little.
 8. (mcq) Why does a fair test change only one thing at a time?  
-   Options: So that we know what caused the difference / So the test is quicker / So there is less to wash up / So the result is bigger  
+   Options: So the test is quicker / So there is less to wash up / So that we know what caused the difference / So the result is bigger  
    **Answer:** So that we know what caused the difference. *Why:* If two things change, we cannot tell which one caused the result. In Freeze the Sea, only the salt differed between the bowls.
 9. (mcq) What takes the largest share of the fresh water that people use, worldwide?  
-   Options: Farms / Homes / Industry / Swimming pools  
+   Options: Homes / Industry / Farms / Swimming pools  
    **Answer:** Farms. *Why:* About 7 of every 10 litres go to farms, because growing plants take up a great deal of water. Homes use about 1 in 10.
 10. (mcq) Which holds more fresh water: all the lakes and rivers, or the groundwater?  
    Options: Groundwater, about 100 times more / Lakes and rivers, about 100 times more / They hold the same amount / Neither holds any  
@@ -822,7 +822,7 @@ Ayesha went on keeping her page of marks long after anyone needed it. She liked 
    Options: Salt glands above her eyes remove the salt / She drinks only a very little / Her kidneys are the same as ours / The salt falls out of her feathers  
    **Answer:** Salt glands above her eyes remove the salt. *Why:* The glands take salt out of her blood and make a very salty liquid, which drips from her beak. Humans have no such glands.
 12. (mcq) Which water is brackish?  
-   Options: Water where a river meets the sea / Rain / Glacier ice / Water from a village well in the hills  
+   Options: Rain / Glacier ice / Water from a village well in the hills / Water where a river meets the sea  
    **Answer:** Water where a river meets the sea. *Why:* Brackish water is saltier than fresh water but less salty than the sea. Rivers and the sea mix where a river reaches the coast.
 
 ## Applications
@@ -840,7 +840,7 @@ Ayesha went on keeping her page of marks long after anyone needed it. She liked 
 - An ice cube in a glass. A small part of it stands above the water and the rest is below.
 - The place where a river meets the sea, if you live near one. The brown river water spreads over the blue sea water.
 - A drop on your tongue from a tear that ran down your cheek. It tastes a little salty.
-- Salt pans seen from a train window near Thoothukudi or in Gujarat, with white heaps of salt beside shallow ponds.
+- Salt pans seen from a train window, with white heaps of salt beside shallow ponds.
 - A drip bag at a clinic with the words 0.9 per cent sodium chloride.
 - The overhead tank on your building, and the float that shuts off the water when the tank is full.
 
@@ -889,13 +889,18 @@ Where the Water Goes (sci.water.L5): Topic-level song
 - [India-WRIS, India's water resources information system](https://indiawris.gov.in/) · interactive: For the parent: maps and data on India's rivers, rain and groundwater.
 - [Central Ground Water Board](https://cgwb.gov.in/) · interactive: For the parent: how much groundwater India has, and where wells are going dry or turning salty.
 - [National Institute of Ocean Technology](https://www.niot.res.in/) · interactive: For the parent: the Indian institute that built the sea-water plants of Lakshadweep, which use warm and cold sea water.
-- [Chilika Lake]() · place · Odisha: A brackish lagoon where rivers meet the Bay of Bengal. Boat trips run on the lagoon.
-- [Pichavaram mangrove forest]() · place · Near Chidambaram, Tamil Nadu: A large mangrove forest in brackish water. Boat rides go through the channels between the trees.
-- [Sambhar Lake]() · place · Near Jaipur, Rajasthan: India's largest inland salt lake. People make salt here from its water.
+- Chilika Lake · place · Odisha: A brackish lagoon where rivers meet the Bay of Bengal. Boat trips run on the lagoon.
+- Pichavaram mangrove forest · place · Near Chidambaram, Tamil Nadu: A large mangrove forest in brackish water. Boat rides go through the channels between the trees.
+- Sambhar Lake · place · Near Jaipur, Rajasthan: India's largest inland salt lake. People make salt here from its water.
 
 ## Things to buy
 - [A set of measuring spoons, from a quarter teaspoon to a tablespoon](https://www.amazon.in/s?k=measuring+spoons+set) (tool): For the salt and water amounts in Freeze the Sea, the Potato Test and Mix a Lagoon. Any kitchen shop sells them. Used in e1, e2, a5. 
 - [A Drop of Water: A Book of Science and Wonder, by Walter Wick (1997)](https://www.amazon.in/s?k=A+Drop+of+Water+Walter+Wick) (book): For parent and child together: close photographs of water as ice, liquid and vapour. Used in a2. After One Bottle, Three Forms, look at the photographs of frost, drops and steam together. Ask which of the three forms each picture shows.
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in The Roof and the Tap: how much water falls on our own home?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in p1. Get it before The Roof and the Tap: how much water falls on our own home?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Potato Test: what does salty water do to living cells?, Ice on Land, Ice on Sea: which melting ice raises the water?, One Bottle, Three Forms: freeze it, melt it and find the same water. About ₹10 to ₹30. Any school ruler is fine. Used in e2, e3, a2, p1. Get it before The Potato Test: what does salty water do to living cells?.
+- [Food colour](https://www.amazon.in/s?k=food+colour+liquid) (material): Used in The Island Well: take water from a jar of two layers. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it. Used in a3. Get it before The Island Well: take water from a jar of two layers.
+- [A measuring jug or syringe (marked in millilitres)](https://www.amazon.in/s?k=measuring+jug+500+ml) (tool): Used in Ice on Land, Ice on Sea: which melting ice raises the water?, The Island Well: take water from a jar of two layers. About ₹30 to ₹100. A clean medicine cup or marked bottle works. Used in e3, a3. Get it before Ice on Land, Ice on Sea: which melting ice raises the water?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Out of 1,000 parts of Earth's water, about how many are fresh? → About 25.
@@ -916,7 +921,7 @@ Where the Water Goes (sci.water.L5): Topic-level song
 - Curriculum entry sci.water.water-sources-and-uses.L5: forms and sources of water, fresh and salt, and how little of Earth's water we can drink. Board chapter NCERT Class 5 Chapter 1, Water: The Essence of Life (N5-1), for the share of fresh water, the three forms, groundwater and glaciers. The water cycle, rivers, pond life and saving water are left to the sibling units sci.water.water-cycle.L5, sci.water.rivers.L5 and sci.water.saving-water.L5.
 - DeepKids Combined lesson sci-C5-water: the bucket-and-teaspoon picture was taken and reworked into One Litre Earth, with a litre bottle and new numbers. Its story and its other activities are not reused.
 - Founder's notebook, water page: the idea of oceans and sky as one breathing system is echoed in the roots. The founder's cloud and ocean activities belong to the water-cycle unit and are not repeated.
-- Other units were checked so that nothing repeats. Sea in a Bowl (sci.water.water-cycle.L3) makes fresh water from salty water in the Sun, and this unit uses freezing instead. Salted Slices and Salty Cucumber (osmosis in cut vegetables) and Where the River Meets the Sea (layers in a glass) are in the plant and habitat units, so this unit uses potato sticks, a jar with a straw well and ice cubes. The Potato and the Salt (floating) is in sci.states.floating-and-sinking.L4. Look, Torch and Wait and Gone from Sight use thinning by steps, and Mix a Lagoon uses mixing ratios for a different question.
+- Other units were checked so that nothing repeats. Sea in a Bowl (sci.water.water-cycle.L3) makes fresh water from salty water in the Sun, and this lesson uses freezing instead. Salted Slices and Salty Cucumber (osmosis in cut vegetables) and Where the River Meets the Sea (layers in a glass) are in the plant and habitat units, so this lesson uses potato sticks, a jar with a straw well and ice cubes. The Potato and the Salt (floating) is in sci.states.floating-and-sinking.L4. Look, Torch and Wait and Gone from Sight use thinning by steps, and Mix a Lagoon uses mixing ratios for a different question.
 - Shiklomanov I. A. (1993). World fresh water resources. In P. H. Gleick (ed.), Water in Crisis: A Guide to the World's Fresh Water Resources. Oxford University Press.
 - Gleick P. H. (1996). Water resources. In S. H. Schneider (ed.), Encyclopedia of Climate and Weather. Oxford University Press.
 - Nairne E. (1776). Experiments on water obtained from the melted ice of sea-water, to ascertain whether it be fresh or not; and to determine its specific gravity with respect to other water. Also experiments to find the degree of cold in which sea-water begins to freeze. Philosophical Transactions 66: 249-256.

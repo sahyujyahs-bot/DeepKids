@@ -446,11 +446,11 @@
       "t": "mcq",
       "q": "Does a mango tree have young?",
       "options": [
-       "No, only animals have young",
        "Yes, a mango seed grows into a young mango tree",
+       "No, only animals have young",
        "Only in the rain"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Plants have young too. Each mango seed can grow into a new mango tree. Having young is a sign of life for plants and animals."
      }
     }
@@ -624,10 +624,10 @@
       "q": "The ceiling fan moves. Is the fan alive?",
       "options": [
        "Yes, because the fan moves",
-       "No, the fan does not eat, grow or have young",
-       "Only when the fan is switched on"
+       "Only when the fan is switched on",
+       "No, the fan does not eat, grow or have young"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Moving is not enough. A living thing also eats, grows, breathes and has young. A fan does none of these, so a fan was never alive."
      }
     }
@@ -790,11 +790,11 @@
       "t": "mcq",
       "q": "The droopy mint stood up in water, but the dry tej patta did not. What does this tell us?",
       "options": [
-       "Water makes every leaf stand up",
        "The picked mint was still alive",
+       "Water makes every leaf stand up",
        "The tej patta was never a leaf"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Water did not make the tej patta or the paper stand up. Only the mint stood up, because the mint was still alive. Living leaves fill up with water and go firm."
      }
     }
@@ -977,11 +977,11 @@
       "t": "mcq",
       "q": "The plate went cloudy near your mouth, but not near the doll. Why?",
       "options": [
-       "You breathe, and the doll does not",
        "The doll is too small",
+       "You breathe, and the doll does not",
        "The plate is broken"
       ],
-      "a": 0,
+      "a": 1,
       "why": "You breathe in air and breathe out warm, wet air. The doll was never alive and does not breathe. Breathing is one sign of life."
      }
     }
@@ -1139,11 +1139,11 @@
       "t": "mcq",
       "q": "What can grow from a tomato seed?",
       "options": [
-       "A new tomato plant",
        "A tomato that is already ripe",
+       "A new tomato plant",
        "Nothing, seeds are not alive"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A tomato seed is alive, resting inside the fruit. With soil and water, the seed grows into a young tomato plant. This is how plants have young."
      }
     }
@@ -1381,11 +1381,11 @@
       "t": "mcq",
       "q": "A paper snake wiggles when you pull the string. Why is the snake not alive?",
       "options": [
-       "Because the snake is made of paper and only moves when the string is pulled",
        "Because the snake is the wrong colour",
-       "Because the snake is too small"
+       "Because the snake is too small",
+       "Because the snake is made of paper and only moves when the string is pulled"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The paper snake only moves when someone pulls the string. It never eats, grows, breathes or has young. A real snake does all of these by herself."
      }
     }
@@ -1512,11 +1512,11 @@
      "t": "mcq",
      "p": "In the Droopy Mint experiment, the droopy mint stood up in water. The paper leaf did not. Why?",
      "opts": [
-      "The mint was still alive",
       "The paper leaf was too big",
-      "The mint was heavier"
+      "The mint was heavier",
+      "The mint was still alive"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Living mint fills up with water and goes firm. Paper only soaks up water and goes soggy. So the mint was still alive.",
      "how": "e1"
     },
@@ -1633,10 +1633,10 @@
      "p": "Is a potato alive?",
      "opts": [
       "No, a potato never moves",
-      "Yes, a potato can grow shoots",
-      "No, a potato is food"
+      "No, a potato is food",
+      "Yes, a potato can grow shoots"
      ],
-     "a": 1,
+     "a": 2,
      "why": "A potato left in a dark cupboard grows shoots after some weeks. A potato is alive, resting until the right time to grow. Being food does not stop a thing being alive.",
      "how": "a1"
     },
@@ -1755,11 +1755,11 @@
      "t": "mcq",
      "p": "An empty snail shell is lying behind a pot. What is it?",
      "opts": [
-      "Alive",
       "Once alive",
+      "Alive",
       "Never alive"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The shell was once part of a living snail, so the shell was once alive. No snail lives in the shell now."
     },
     {
@@ -1820,10 +1820,10 @@
    "p": "Which one is alive now?",
    "opts": [
     "A wooden spoon",
-    "A crow on the window",
-    "A steel plate"
+    "A steel plate",
+    "A crow on the window"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The crow eats, flies, breathes and lays eggs. The wooden spoon was once alive. The steel plate was never alive.",
    "outcome": 0
   },
@@ -1832,10 +1832,10 @@
    "p": "A cotton shirt is…",
    "opts": [
     "alive",
-    "once alive",
-    "never alive"
+    "never alive",
+    "once alive"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Cotton comes from the cotton plant. The shirt is not alive now, but it was part of a living plant.",
    "outcome": 0
   },
@@ -1844,10 +1844,10 @@
    "p": "Which of these is a sign of life?",
    "opts": [
     "Being shiny",
-    "Growing",
-    "Being hard"
+    "Being hard",
+    "Growing"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Living things grow. A steel spoon is shiny and hard, and was never alive.",
    "outcome": 1
   },
@@ -1856,10 +1856,10 @@
    "p": "You breathed on a cool steel plate. What did you see?",
    "opts": [
     "Nothing",
-    "A cloudy patch",
-    "A red spot"
+    "A red spot",
+    "A cloudy patch"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Your breath is warm and wet. On a cool plate it makes a cloudy patch. Breathing is a sign of life.",
    "outcome": 1,
    "how": "a2"
@@ -1880,11 +1880,11 @@
    "t": "mcq",
    "p": "What is the young of a cow called?",
    "opts": [
-    "A kid",
     "A calf",
+    "A kid",
     "A chick"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A calf is the young of a cow. A kid is a young goat. A chick is a young bird.",
    "outcome": 3
   },
@@ -1904,11 +1904,11 @@
    "t": "mcq",
    "p": "In the Droopy Mint experiment, what happened to the droopy mint in water?",
    "opts": [
-    "The mint stood up firm again",
     "The mint went soggy like paper",
+    "The mint stood up firm again",
     "Nothing happened"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The mint stood up, because the picked mint was still alive and filled up with water. The paper only went soggy.",
    "outcome": 4,
    "how": "e1"
@@ -2124,7 +2124,44 @@
    "why": "A science museum with a children's section, good for a day out."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-a-small-hand-mirror",
+   "item": "A small hand mirror",
+   "kind": "material",
+   "why": "Used in Breath on a Steel Plate. About ₹20 to ₹80. A shiny steel plate shows reflections too.",
+   "url": "https://www.amazon.in/s?k=small+hand+mirror",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Get it before Breath on a Steel Plate."
+  },
+  {
+   "id": "b-marbles--a-few",
+   "item": "Marbles (a few)",
+   "kind": "material",
+   "why": "Used in Three Plates: sort the kitchen. About ₹10 to ₹40. Small round stones or dried chana.",
+   "url": "https://www.amazon.in/s?k=glass+marbles+pack",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Get it before Three Plates: sort the kitchen."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "Name one thing that is alive.",

@@ -1,7 +1,7 @@
 # Testing materials: how to run a fair test
 `sci.materials.testing-materials.L3`
 
-**Summary.** How do you know which cloth keeps rain out best? You test it fairly. In this unit you will plan your own fair tests, check cloths with an umbrella patch test, test which paper holds the most, and see what one small cut does to a strip.
+**Summary.** How do you know which cloth keeps rain out best? You test it fairly. In this lesson you will plan your own fair tests, check cloths with an umbrella patch test, test which paper holds the most, and see what one small cut does to a strip.
 
 **Intro.** *Your family must buy one umbrella for the monsoon. The shopkeeper says, 'This one is the most waterproof in all of India!' How could you find out if that is true, without just believing her?* You cannot tell how waterproof a cloth is just by looking at it. You have to test it. A test means doing something to a material on purpose, and measuring what happens. A good test is fair. It gives every cloth the same chance, so only the cloth decides the result. Before you read on, think. How would you test four cloths so that nobody could call your test unfair? Keep your answer in mind. You are going to design that test yourself.
 
@@ -25,6 +25,7 @@
 - **Prediction**: A careful guess about what will happen, made before you test. You say why you think so. *e.g.* I predict the old jeans will let the least water through, because they are thick and I can't see light through them.
 - **Results table**: A grid for writing down what you found. Each column has a heading and a unit. Each row is one thing you tested. *e.g.* Columns: Material, Try 1 (ml), Try 2 (ml), Try 3 (ml), Middle value (ml).
 - **Unit**: The size we count in when we measure. Centimetres (cm) for length, millilitres (ml) for water, grams (g) for weight. *e.g.* The paper strip was 2 cm wide. 12 ml of water came through the cotton hanky.
+- **Hand span**: The length from the tip of your thumb to the tip of your little finger when your hand is spread wide. It is different for each person, so it is not a standard unit. *e.g.* Your table is 6 of your hand spans, but only 5 of your father's.
 - **Millilitre (ml)**: A small unit for measuring liquid. A teaspoon holds about 5 millilitres. A big glass of water holds about 250 millilitres. *e.g.* A medicine cup from a cough syrup bottle has lines that mark millilitres.
 - **Repeat**: Doing the same test again, in exactly the same way. We usually do each test three times. *e.g.* We tested each paper strip three times, with a fresh strip each time.
 - **Middle value**: Put your three results in order, smallest to biggest. The one in the middle is the middle value. Scientists call it the median. *e.g.* A strip held 9, 15 and 14 coins. In order: 9, 14, 15. The middle value is 14.
@@ -34,6 +35,9 @@
 - **Reliable**: When you repeat a test and get nearly the same result each time, the results are reliable. You can trust them more. *e.g.* The cotton hanky let through 12, 13 and 12 ml. Those are close, so they are reliable.
 - **Waterproof**: Does not let water through. *e.g.* A plastic raincoat and an umbrella are waterproof.
 - **Absorbent**: Soaks up water and holds it. *e.g.* A cotton towel, a sponge and a kitchen towel are absorbent.
+- **Flexible**: A material that bends easily without breaking. Elastic is different: it springs back. *e.g.* A cane stick bends when you press on it.
+- **Float**: To stay on top of water and not sink. *e.g.* A wooden ice-cream stick floats. A steel spoon sinks.
+- **Transparent**: Lets light through, so you can see clearly through it. Translucent lets some light through, so you see a blur. Opaque lets none through. *e.g.* A glass window is transparent. Butter paper is translucent. A wooden door is opaque.
 - **Strength**: How much pulling or weight a material can take before it breaks or tears. *e.g.* Brown paper bags hold more than tissue paper before they tear.
 - **Stretchy (elastic)**: A stretchy material gets longer when you pull it, and goes back to its old length when you let go. Scientists call this elastic. *e.g.* A rubber band and the waistband of your pyjamas are elastic.
 - **Breaking point**: The load at which a material snaps or tears. Every material has one. *e.g.* One hair snapped when the bag hanging from it held 18 one-rupee coins.
@@ -71,6 +75,12 @@ Saying 'the cotton got quite wet' is a start. But how wet? Your 'quite' might be
 - e.g. A medicine cup shows that 12 ml of rain came through the cotton hanky.
 - e.g. A ruler shows the strip is exactly 2 cm wide, not 'about two fingers'.
 - e.g. Indus Valley bricks were made in the same shape, about four units long, two wide and one thick.
+### Why we need units, and why hand spans are not enough · *defined*
+**Definition:** A unit is the size we count in. A standard unit is the same size for everyone, everywhere.
+
+A number alone does not tell you much. If someone says 'it is 12', you ask: 12 what? Twelve centimetres, 12 millilitres and 12 coins are all different. So a measurement always has a number and a unit. You can count in hand spans or steps. But your hand span is smaller than your father's. A table that is 6 of your spans might be 5 of his. Both numbers are true, so you cannot compare them. Old Indian books counted length in hastas, a forearm length, and forearms differ too. So people agreed on one fixed length for everyone. Today, India and most countries use the metre and the centimetre. A centimetre on your ruler is the same as a centimetre on a ruler in Delhi or Chennai.
+- e.g. Your table is 6 of your hand spans long and 5 of your father's, but it is about the same number of centimetres for both of you.
+- e.g. A tailor in a village shop uses a measuring tape in centimetres, so the cloth is the same length for every customer.
 ### Why some materials keep water out · *defined*
 **Definition:** Rain comes through a cloth by the gaps between its threads, and the biggest gaps let it through first. A waterproof material has no gaps, and water does not soak into it.
 
@@ -85,6 +95,13 @@ Dip the bottom of a paper towel strip in water. Watch. The water climbs up, agai
 - e.g. Water climbs a kitchen towel strip much higher than a printer paper strip in 5 minutes.
 - e.g. A cotton wick in a diya pulls oil up to the flame.
 - e.g. Dip a sugar cube's corner in tea and watch the tea climb up.
+### Three more properties: floating, bending and seeing through · *defined*
+**Definition:** A material floats if it stays on top of water. It is flexible if it bends easily. It is transparent if you can see clearly through it.
+
+Floating depends on more than the material. A steel spoon sinks, but a big steel ship floats, because its hollow shape holds a lot of air. A wooden stick floats and a pebble sinks. Flexible is not the same as elastic. A flexible cane bends easily, and elastic means it springs back. A stiff thing, like glass, does not bend before it breaks. Transparent things, like a glass window, let light through so you see clearly. Translucent things, like butter paper, let some light through, so you see only a blur. Opaque things, like a wooden door, let none through. We test each one the fair way. We change only the material, keep everything else the same, and write down a number or a clear word.
+- e.g. A coconut floats on the water at a Kerala beach, but a stone of the same size sinks.
+- e.g. A cane chair bends a little when you sit, and bamboo sways in the wind without snapping.
+- e.g. You can see your hand through a clear plastic bottle, only a blur through butter paper, and nothing through a steel plate.
 ### Why strips of the same paper tear at different numbers · *defined*
 **Definition:** A strip tears at its weakest spot. Every strip has its own weak spots, so strips cut from the same sheet hold different loads. Scientists can say what usually happens, but not exactly what one strip will do.
 
@@ -636,6 +653,43 @@ In 1932, when Agnes was seventy years old, the university in Braunschweig gave h
   - Note: A good answer sounds like this. What I think: one tiny cut makes a strip much weaker. What I saw: the plain strips held about 21 coins, and the cut strips about 12. Every cut strip tore from its cut. Why: the force of the pull crowds at the tip of the cut, so the tear starts there and runs across. Keep this in mind for the Roots card.
   - Check: Napkin strips with a tiny cut held fewer coins, and they tore from the cut. Why? → **The force of the pull crowded at the sharp tip of the cut, so the tear started there**
   - Think: A milk packet has a small notch that says 'tear here'. Why does the notch help you open it?
+### a8 · Hand Spans or Centimetres? (15 min)
+- **record:** A small table: who measured, how many hand spans, how many centimetres.
+- **s1 (5 min)**  
+  *Parent does:* 1. Your child lays a spread hand flat on the table edge. 2. They put the next span just after the thumb tip, and count how many spans fit along the table. 3. Write the number. 4. Ask them to predict how many spans a grown-up will need.  
+  *Parent says:* Count the table in your hand spans. Will a grown-up get more, or fewer?  
+  *Child mode:* Count your hand spans along the table. Write the number. Guess: will a grown-up need more, or fewer?
+  - Ask: Why do you think so? (good: Fewer, because a grown-up hand is bigger.; Fewer, because they cover more table with each span.)
+- **s2 (4 min)**  
+  *Parent does:* 1. A grown-up measures the same edge with their hand spans and says the number. 2. Write both numbers in the table: who, how many spans.  
+  *Parent says:* Now I will measure the same table with my hand. Let's see what number I get.  
+  *Child mode:* Write down my number next to yours. Is it the same?
+- **s3 (6 min)**  
+  *Parent does:* 1. Lay the ruler along the edge, mark the end of the ruler with a finger or pencil, and move it on. 2. Count how many centimetres the table is. 3. Both of you write the same number. 4. Ask the question below.  
+  *Parent says:* Now we both use the ruler. Do we get the same number this time?  
+  *Child mode:* Measure with the ruler. Write the number of centimetres. Did we get the same number?
+  - Ask: Why did hand spans give two numbers, but the ruler gave one? (good: Our hands are different sizes.; A centimetre is the same size for everybody.)
+  - Note: Make this a real discovery: let your child count first, and do not say why before they see two different numbers.
+  - Check: The table is 6 of Meera's hand spans and 5 of her father's. Is the table different when he measures it? → **No, the table is the same, but his hand span is bigger**
+### a9 · Float, Bend and See Through (25 min)
+- **record:** Three small tables: float or sink for six things, how far each strip drooped in cm, and how many layers hid the dot.
+- **s1 (8 min)**  
+  *Parent does:* 1. Make a table: thing, my guess, what happened. 2. Your child guesses and gives a reason for each thing. 3. Drop each thing gently into the same tub, one at a time, and wait 10 seconds. 4. Write float or sink.  
+  *Parent says:* Guess first: will the stick float or sink? Why? Now drop it softly and watch for ten seconds.  
+  *Child mode:* Guess, then drop each thing gently in the same tub. Write float or sink.
+  - Ask: What kept the same for every thing? (good: The same tub and the same water.; I dropped each thing gently and waited ten seconds.)
+  - Note: A flat, dry leaf floats; a soaked leaf may sink. Keep it dry. Say what you saw, even if it is a surprise.
+- **s2 (9 min)**  
+  *Parent does:* 1. Push each strip 10 cm over the table edge, with the rest under a heavy book. 2. Put the coin on the tip. 3. Stand the ruler upright beside the strip and measure how far the tip dropped, in cm. 4. Write the number. 5. Do the same for all four strips.  
+  *Parent says:* Same overhang, same coin, same table. Only the material changes. How far does the tip drop?  
+  *Child mode:* Put the coin on the tip. Measure how far it drops in cm. Write it down for each strip.
+  - Note: The most flexible strip is the one whose tip drops the most. If a strip falls off the table, the coin was too heavy for it. Say what happened and try a smaller coin.
+- **s3 (8 min)**  
+  *Parent does:* 1. Lay one layer of butter paper over the black dot. Can you see the dot clearly, as a blur, or not at all? 2. Add layers one at a time and count how many hide the dot. 3. Do the same for the clear bag and the cotton hanky. 4. Use the same light, near a window.  
+  *Parent says:* Look at the dot through one layer. Is it clear, blurry or gone? Add one more layer.  
+  *Child mode:* Count how many layers it takes to hide the dot. Write a number for each material.
+  - Ask: Which material hid the dot with the fewest layers? (good: The cotton hanky, because it lets the least light through.; The butter paper, because it was already blurry.)
+  - Think: A glass window is transparent, butter paper is translucent, and a wooden door is opaque. Which one would you put in a window, and which in a door? Why?
 
 ## Projects
 ### p1 · Our Kitchen Towel Report (60 min, 3 days)
@@ -746,7 +800,7 @@ In 1932, when Agnes was seventy years old, the university in Braunschweig gave h
   - Think: Why do you think plane windows have round corners, not sharp ones?
 
 ## Worksheets
-### Test Detective (core) (core, 16 questions)
+### Test Detective (core) (core, 18 questions)
 1. (sort) Sort these parts of the umbrella patch test. Do we keep each one the same, or is it the thing we measure?  
    **Answer:** the amount of water poured on → Keep the same; the size of the material square → Keep the same; the time we wait → Keep the same; the cup → Keep the same; the height the rain falls from → Keep the same; how much water came through → Measure. *Why:* Everything is kept the same except the material. The one thing we measure is how much water came through.
 2. (mcq) Look at the chart. Which cloth would make the best umbrella patch?  
@@ -763,7 +817,7 @@ In 1932, when Agnes was seventy years old, the university in Braunschweig gave h
 6. (match) Match each test to the tool you use to measure it.  
    **Answer:** How much water came through a cloth → a measuring cup with ml marks; How long a rubber band stretched → a ruler; How much weight a strip held → counting coins of the same kind; How high water climbed a strip → a ruler. *Why:* Each test needs a measuring tool, so the result is a number with a unit.
 7. (mcq) A test compares two paper strips. One-rupee coins go in the first bag and five-rupee coins go in the second. Why is that unfair?  
-   Options: Five-rupee coins are shinier / The coins are not the same weight / Paper money should be used / It is fair, because the coins were still counted  
+   Options: Five-rupee coins are shinier / Paper money should be used / The coins are not the same weight / It is fair, because the coins were still counted  
    **Answer:** The coins are not the same weight. *Why:* A five-rupee coin is heavier than a one-rupee coin. So 10 coins of each are not the same weight. Picking 'it is fair' usually means thinking counting is enough. What we count must also be the same each time.
 8. (truefalse) If you change two things at once, you can still tell which one caused the result.  
    **Answer:** False. *Why:* False. If two things change, either one could have caused the difference. That is why a fair test changes only one.
@@ -783,21 +837,25 @@ In 1932, when Agnes was seventy years old, the university in Braunschweig gave h
 15. (write) Look at your own umbrella patch results. Which cloth let the least water through? Was it the one you guessed before the test? Write the numbers that show it.  
    **Answer:** A strong answer names the cloth, gives the millilitres for at least two cloths, and says honestly whether the guess was right. For example: 'I guessed wool. But the jeans let only 3 millilitres through and the wool let 14. So I was wrong.'. *Why:* Checking your guess against your own numbers is the reason for guessing first. A wrong guess teaches you something.
 16. (mcq) A girl wants to find out which paper makes the strongest strip: toilet paper, newspaper or kitchen towel. What must she keep the same?  
-   Options: The size of each strip, the kind of coin and the way she adds the coins / The kind of paper / Nothing, as long as she counts / The number of coins in the bag  
+   Options: The kind of paper / Nothing, as long as she counts / The size of each strip, the kind of coin and the way she adds the coins / The number of coins in the bag  
    **Answer:** The size of each strip, the kind of coin and the way she adds the coins. *Why:* The paper is the one thing she changes. Everything else stays the same. The number of coins is what she measures, so it cannot be kept the same.
-### Reading Results Like a Scientist (stretch) (stretch, 16 questions)
+17. (sort) Sort these into things that float and things that sink.  
+   **Answer:** a wooden ice-cream stick → Floats; a steel spoon → Sinks; a plastic bottle cap → Floats; a pebble → Sinks; a dry leaf → Floats; a one-rupee coin → Sinks. *Why:* Wood, plastic caps and dry leaves are light for their size, so they float. A spoon, a pebble and a coin are heavy for their size, so they sink.
+18. (fill) A table is 6 of your hand spans long and 5 of your father's. To get the same number every time, use a ________ unit, like the centimetre.  
+   **Answer:** ['standard', 'fixed']. *Why:* A standard unit is the same size for everyone. Hand spans change from hand to hand.
+### Reading Results Like a Scientist (stretch) (stretch, 18 questions)
 1. (mcq) Look at the chart. Which paper made the strongest strip?  
-   Options: Toilet paper / Paper napkin / Facial tissue / Kitchen towel  
+   Options: Toilet paper / Paper napkin / Kitchen towel / Facial tissue  
    **Answer:** Kitchen towel. *Why:* Kitchen towel held 60 coins, the most. It is made thicker, with more fibres gripping each other, so it does not fall apart when you wipe. Picking facial tissue usually means soft was mistaken for strong.
 2. (fill) Kitchen towel held 60 coins and toilet paper held 15 coins. Kitchen towel held ____ times as many coins.  
    **Answer:** ['4', 'four']. *Why:* 60 divided by 15 is 4. Check: 15 + 15 + 15 + 15 = 60. So the kitchen towel strip held 4 times as many coins.
 3. (mcq) In the width test, 2 cm strips held 20, 24 and 22 coins. What is the best guess for a 4 cm strip of the same napkin?  
-   Options: About 22 coins / About 44 coins / Exactly 100 coins / About 4 coins  
+   Options: About 22 coins / Exactly 100 coins / About 4 coins / About 44 coins  
    **Answer:** About 44 coins. *Why:* The middle value for 2 cm is 22. Twice as wide means about twice as many fibres share the pull, so about 22 + 22 = 44. Real strips rarely give exactly 44, because each has its own weak spots. Picking 22 means thinking width makes no difference.
 4. (truefalse) If you keep adding coins, a rubber band will keep stretching by the same amount for ever.  
    **Answer:** False. *Why:* False. Every material has a limit. Near it, the band stretches less for each coin, and then it snaps at its weakest spot.
 5. (mcq) A rope seller in Kochi says, 'This rope held 100 kilograms in our test.' What would you most want to know before you trust it?  
-   Options: How many ropes they tested, and whether every one held / What colour the rope is / How long the seller has had the shop / Nothing, because a test was done  
+   Options: What colour the rope is / How long the seller has had the shop / Nothing, because a test was done / How many ropes they tested, and whether every one held  
    **Answer:** How many ropes they tested, and whether every one held. *Why:* One rope holding once could be a lucky rope. If many ropes were tested and every one held, the claim is much stronger. Picking 'nothing' trusts any test, but a test is only as good as how it was done.
 6. (sort) Sort these tests. Does the test break the thing, or leave it whole?  
    **Answer:** adding coins until a strip tears → Breaks it; tapping a pot and listening → Leaves it whole; bending a paper clip until it snaps → Breaks it; sending ultrasound into a rail → Leaves it whole; bending an aeroplane wing until it snaps → Breaks it; tapping a coconut → Leaves it whole. *Why:* Tests that leave things whole are called non-destructive tests. They let us check the very thing we are going to use.
@@ -806,7 +864,7 @@ In 1932, when Agnes was seventy years old, the university in Braunschweig gave h
 8. (truefalse) Glass is very hard, so it never breaks.  
    **Answer:** False. *Why:* False. Glass is harder than a metal key in a scratch test, but it is brittle. It shatters when dropped. Hard and strong are different properties.
 9. (mcq) Wet paper tears much more easily than dry paper. Why?  
-   Options: Water is heavy / Water slips between the fibres and loosens their grip on each other / Wet paper is thinner / The ink runs  
+   Options: Water slips between the fibres and loosens their grip on each other / Water is heavy / Wet paper is thinner / The ink runs  
    **Answer:** Water slips between the fibres and loosens their grip on each other. *Why:* Paper holds together because its fibres grip each other. Water gets between them and weakens that grip. Picking 'water is heavy' is a sensible guess. But a few drops weigh almost nothing, and the paper still goes weak.
 10. (write) A test compares a toilet paper strip 2 cm wide with a kitchen towel strip 4 cm wide. The result says kitchen towel is stronger. What is wrong with the test? How would you fix it?  
    **Answer:** Two things changed: the paper and the width of the strip. A wider strip may be stronger just because it is wider. I would cut both strips the same size, 2 cm wide and 15 cm long.. *Why:* To be fair, only the paper should change.
@@ -819,12 +877,16 @@ In 1932, when Agnes was seventy years old, the university in Braunschweig gave h
 14. (perspective) Three strips of the same paper held 21, 23 and 5 coins. Three friends disagree about the 5.  
    **Answer:** A strong answer gives a reason for its choice, not just a feeling. It may agree with Divya that one odd try should not decide the answer, with Asha that weak spots are real and matter for safety, or with Nila that more tries settle it. It then admits a fair point from another side. The middle value, 21, is barely pulled by the 5.. *Why:* Scientists check an odd result before deciding what it means. Sometimes it is a mistake. Sometimes it is the most important result, because it shows a weak spot.
 15. (mcq) A girl cuts two strips from the same napkin, both 2 cm wide. One is 10 cm long and one is 20 cm long. What do you predict?  
-   Options: They hold about the same, but the long one may hold a little less / The long one holds twice as many coins / The short one holds twice as many coins / The long one cannot be tested  
+   Options: The long one holds twice as many coins / The short one holds twice as many coins / They hold about the same, but the long one may hold a little less / The long one cannot be tested  
    **Answer:** They hold about the same, but the long one may hold a little less. *Why:* The strip tears across its width, so the width matters most. But a longer strip has more paper, so it has more chances to hold a really weak spot. That is why it may tear a little sooner. Picking 'twice as many' mixes up length with width.
 16. (mcq) Look at the chart. Facial tissue held 30 coins and the paper napkin held 25. Someone says, 'Tissue is much stronger.' What would make you more sure of that?  
-   Options: Repeat each test three times and see whether the tissue still wins every time / Nothing, 5 coins is a big gap / Use a bigger bag / Look at which one feels softer  
+   Options: Nothing, 5 coins is a big gap / Use a bigger bag / Look at which one feels softer / Repeat each test three times and see whether the tissue still wins every time  
    **Answer:** Repeat each test three times and see whether the tissue still wins every time. *Why:* Strips of the same paper can differ by several coins, because each has its own weak spots. A gap of 5 coins from one try could be luck. If the tissue wins in every try, the difference is real.
-### Testing Puzzles and Big Ideas (challenge) (challenge, 16 questions)
+17. (match) Match each material to the word that says how it treats light.  
+   **Answer:** a glass window → transparent: you see clearly through it; butter paper → translucent: you see a blur; a wooden door → opaque: you see nothing through it. *Why:* Transparent, translucent and opaque describe how much light a material lets through.
+18. (count) Rohan's hand span is 15 cm. His desk is 7 of his hand spans long. How many centimetres long is the desk?  
+   **Answer:** 105 cm. *Why:* Seven spans of 15 cm each is 7 times 15 = 105 cm. Now anyone with a ruler can check it.
+### Testing Puzzles and Big Ideas (challenge) (challenge, 17 questions)
 1. (mcq) You hang 10 coins from a thin rubber band and 20 coins from a thick band. The thick band stretches more. Does this show that thick bands are stretchier? Pick the best reply.  
    Options: Yes, because the thick band stretched more / No. The test is unfair, because the number of coins changed too / No. Paper money should have been used / No. Thick bands are always less stretchy, so the ruler was read wrongly  
    **Answer:** No. The test is unfair, because the number of coins changed too. *Why:* Two things changed: the band and the load. The thick band might have stretched more only because it had twice the coins. Picking 'thick bands are always less stretchy' jumps to a new rule without a fair test. We do not know until we test both with the same coins.
@@ -832,26 +894,26 @@ In 1932, when Agnes was seventy years old, the university in Braunschweig gave h
    Options: 1 cm / 5 cm / 6 cm / 8 cm  
    **Answer:** 6 cm. *Why:* In order: 1, 6, 8. The middle is 6. The 1 is an odd result, but it cannot pull the middle value far. Picking 5 means working out the average: 15 divided by 3. The average is pulled down by the odd result, which is why the middle value is useful here.
 3. (mcq) A woman measures the skin of water in her kitchen many times, but her numbers keep jumping about. Some days there is soap on the bowl, dust on the water, or grease on her fingers. What is the most likely reason?  
-   Options: Her balance is broken / She is changing several things without noticing, like soap, dust and greasy fingers / Water is different every day / She cannot read numbers well  
+   Options: Her balance is broken / Water is different every day / She is changing several things without noticing, like soap, dust and greasy fingers / She cannot read numbers well  
    **Answer:** She is changing several things without noticing, like soap, dust and greasy fingers. *Why:* Many small things changed at once. Once everything is kept the same, the results agree. Picking 'her balance is broken' is a common guess when results look messy. But the balance was the same each time. The surface of the water was not.
 4. (mcq) Thin glass threads are much stronger, for their size, than thick glass rods. Why?  
    Options: Thin threads have fewer hidden cracks / Thin threads are made of a different glass / Thick rods are heavier, so they pull themselves apart / Thin threads are colder  
    **Answer:** Thin threads have fewer hidden cracks. *Why:* Alan Arnold Griffith showed in 1920 that hidden cracks make materials weak. A thin thread has less room for cracks. Picking 'heavier' is a sensible guess, but a short glass rod is not heavy enough to pull itself apart.
 5. (mcq) A paper clip bent once doesn't break. Bent twenty times, it snaps. What is this called?  
-   Options: Fatigue / Friction / Absorbency / Magnetism  
+   Options: Friction / Fatigue / Absorbency / Magnetism  
    **Answer:** Fatigue. *Why:* Fatigue is when tiny cracks grow a little with every bend, until one snaps. Picking friction is a common mix-up, because the clip gets warm. The warmth comes from bending the metal, not from rubbing.
 6. (write) An advert says 'Super Towel soaks up twice as much as other towels!' Plan a fair test to check it. Say what you change, keep the same and measure.  
    **Answer:** Change: the towel brand. Keep the same: the size of each sheet, the amount of water, the plate, the time, and the way I squeeze it. Measure: how many millilitres of water each sheet soaks up, by measuring what is left on the plate. Repeat each three times and compare middle values.. *Why:* A claim is only as good as the test behind it. A fair test can check it.
 7. (perspective) Helmets are tested by dropping them from a height, again and again, until some crack. People disagree about breaking things to test them.  
    **Answer:** A strong answer sees the trade-off. Breaking a few helmets protects many lives, so most people think it is worth the waste. Tests that do not break things can check the very helmet you will wear, but they may not show how much force it can take. Many answers say both kinds of test are needed.. *Why:* Engineers really use both: tests that break a few samples, to find the limit, and tests that leave a thing whole, to check each one before use.
 8. (mcq) Why do engineers build bridges much stronger than they need to be?  
-   Options: To show off / Every piece of material has hidden flaws, and loads can be bigger than expected / Strong bridges are cheaper / Because the law says bridges must be heavy  
+   Options: To show off / Strong bridges are cheaper / Every piece of material has hidden flaws, and loads can be bigger than expected / Because the law says bridges must be heavy  
    **Answer:** Every piece of material has hidden flaws, and loads can be bigger than expected. *Why:* Tests show that pieces of the same material vary in strength, and that cracks can grow over time. So engineers add a big safety margin. Picking 'cheaper' is wrong: extra strength costs more material and more money.
 9. (write) Spider silk is about as strong as a steel thread of the same thickness, but much lighter and stretchier. Suppose you could make lots of it. What would you make, and how would you test it first?  
    **Answer:** For example: a rope for rescuing climbers. I would test strips of it with coins or weights until they break, three times each, and compare with nylon rope of the same thickness.. *Why:* A good answer names a use and a fair test that compares it with something we already use.
 10. (write) David Kirkaldy carved the words 'Facts not opinions' over the door of his testing works in London. What do you think he meant? Do you agree?  
    **Answer:** He meant that what a test shows counts more than what someone believes or says. I agree, but I think opinions are still useful for deciding what to test.. *Why:* A thoughtful answer explains the motto and gives a view with a reason.
-11. (write) Invent a test for a property we did not test in this unit, like how well a material keeps heat in, or how bendy it is. Say what you would change, keep the same and measure.  
+11. (write) Invent a test for a property we did not test in this lesson, like how well a material keeps heat in, or how fast it dries when wet. Say what you would change, keep the same and measure.  
    **Answer:** For example: keeping heat in. Change: the material wrapped around a steel cup of warm water, such as wool, foil and newspaper. Keep the same: the amount and starting warmth of the water, the cup and the time. Measure: the warmth of the water after 20 minutes, with a thermometer.. *Why:* A good answer has all three parts and a measuring tool.
 12. (write) Can a test ever be completely fair? Think about the weather, tired hands and tiny flaws in each strip. What can scientists do about this?  
    **Answer:** Not completely. There are always tiny differences. Scientists keep as much the same as they can, repeat each test, use the middle value, and tell others exactly how they did it so others can try it too.. *Why:* This is a deep question. Good answers notice that repeating and sharing methods make tests trustworthy even when they cannot be perfect.
@@ -863,6 +925,8 @@ In 1932, when Agnes was seventy years old, the university in Braunschweig gave h
    **Answer:** ['destructive']. *Why:* Destructive means breaking. A non-destructive test leaves the thing whole, so you can still use it afterwards.
 16. (truefalse) Real testing only happens in big laboratories with expensive machines.  
    **Answer:** False. *Why:* False. Agnes Pockels did tests in her kitchen that were printed in the famous journal Nature. What makes a test good is that it is fair, repeated and written down, not how costly the machine is.
+17. (write) Plan a fair bend test for strips of paper, card and cloth. Say what you change, what you keep the same and what you measure.  
+   **Answer:** Change: the material of the strip. Keep the same: the length and width of the strip, how far it hangs over the table, the coin and the table. Measure: how far the tip drops, in centimetres, with a ruler. Repeat three times and take the middle value.. *Why:* A good plan changes only the material and ends in a measured number with a unit.
 
 ## Videos
 - **A materials testing machine pulling a steel bar until it snaps (a tensile test)** (The Universal Grip Company, 3 min) id `M2BXGEFTvzk`: Shows a real testing machine doing the strip strength test on steel, with the bar stretching thin and then snapping. Children see that engineers do the same test they did with paper and coins. *Check:* Please preview it first.
@@ -871,13 +935,13 @@ In 1932, when Agnes was seventy years old, the university in Braunschweig gave h
 
 ## Quiz
 1. (mcq) What makes a test fair?  
-   Options: Changing only one thing and keeping everything else the same / Testing as many things as possible at once / Doing it as fast as you can  
+   Options: Testing as many things as possible at once / Changing only one thing and keeping everything else the same / Doing it as fast as you can  
    **Answer:** Changing only one thing and keeping everything else the same. *Why:* Only then do you know what caused the difference. Picking 'as many things as possible' usually means thinking more testing is always better. If many things change together, you can't tell which one mattered.
 2. (mcq) Before you test cloths for an umbrella, you guess: 'The wool will keep the rain out best.' What would make your guess more useful?  
    Options: Nothing, a guess is just a guess / Adding your reason, like 'because it is the thickest' / Looking up the answer first  
    **Answer:** Adding your reason, like 'because it is the thickest'. *Why:* A guess with a reason can be checked. If thick cloth lets rain through, you learn that thickness was not the reason, and that is a real discovery. Picking 'look up the answer' skips the thinking that the test is for.
 3. (mcq) In the umbrella test, which of these must stay the same for every material?  
-   Options: The material / The amount of water poured on / The water that comes through  
+   Options: The material / The water that comes through / The amount of water poured on  
    **Answer:** The amount of water poured on. *Why:* The water poured on stays the same. The material is what we change. The water that comes through is what we measure. Picking 'the water that comes through' mixes up what we keep the same with what we measure.
 4. (mcq) A test pours 1 spoon of water on cotton and 3 spoons on plastic. What is wrong with the test?  
    Options: Nothing, it is fair / Two things changed: the material and the amount of water / The water should have been cold  
@@ -889,47 +953,59 @@ In 1932, when Agnes was seventy years old, the university in Braunschweig gave h
    Options: Nowhere, because the hole is so small / Only at the hole / All over the cloth  
    **Answer:** Only at the hole. *Why:* The rest of the cloth is still waterproof, but the hole is a gap. Drops form under the hole and fall. Picking 'nowhere' is a fair guess. A very tiny hole can hold water back for a while, but falling rain pushes water through it. Picking 'all over' forgets that the rest of the cloth has not changed.
 7. (mcq) Look at the chart. Which material soaked up water fastest?  
-   Options: Printer paper / Newspaper / Kitchen towel  
+   Options: Printer paper / Kitchen towel / Newspaper  
    **Answer:** Kitchen towel. *Why:* Water climbed 9 cm up the kitchen towel, the highest. Picking printer paper often means the smallest number was read as the winner. Here, a taller bar means the water climbed higher.
 8. (mcq) Why should every column heading in a results table have a unit, like (cm)?  
-   Options: To make it look neat / So everyone knows what the numbers measure / Because units are always the same  
+   Options: So everyone knows what the numbers measure / To make it look neat / Because units are always the same  
    **Answer:** So everyone knows what the numbers measure. *Why:* A number like 12 could be 12 cm or 12 coins. The unit tells us. Picking 'to look neat' misses that a table is for others to understand.
 9. (mcq) Why do scientists often use the middle value of three tries, and not the biggest one?  
-   Options: The biggest may be a lucky try. The middle value is a fair summary that one odd try cannot pull far / The middle value is always the biggest / The middle value is quicker to write / Scientists like the number in the middle  
+   Options: The middle value is always the biggest / The middle value is quicker to write / Scientists like the number in the middle / The biggest may be a lucky try. The middle value is a fair summary that one odd try cannot pull far  
    **Answer:** The biggest may be a lucky try. The middle value is a fair summary that one odd try cannot pull far. *Why:* Taking the biggest trusts the luckiest try. The middle value sits between the others, so one very high or very low try hardly moves it. Picking 'always the biggest' mixes up the middle with the top.
 10. (mcq) Three strips of the same paper held 14, 15 and 3 coins. The 3 is very different from the others. What do scientists call a result like that?  
    Options: A middle value / An odd result / A prediction  
    **Answer:** An odd result. *Why:* A result that does not fit with the others is an odd result, or anomaly. Scientists check what went wrong and test again. Picking 'prediction' mixes up what we guess before with what we get after.
 11. (mcq) A plastic bag let through no water, but it tears easily. What should you do before choosing it for an umbrella?  
-   Options: Nothing, waterproof is all that matters / Test it for strength as well / Paint it  
+   Options: Nothing, waterproof is all that matters / Paint it / Test it for strength as well  
    **Answer:** Test it for strength as well. *Why:* One test checks one property. An umbrella must also be strong in the wind. Picking 'waterproof is all that matters' forgets that real jobs need several properties.
 12. (mcq) Look at the chart. Which paper would you choose for wiping up a big spill?  
-   Options: Toilet paper / Paper napkin / Kitchen towel  
+   Options: Toilet paper / Kitchen towel / Paper napkin  
    **Answer:** Kitchen towel. *Why:* Kitchen towel held the most coins, so it is strongest, and it soaks up water fast. Picking toilet paper might come from it being softest. But it tore with the fewest coins.
 13. (mcq) Why does water roll off a lotus leaf?  
    Options: It is covered in tiny waxy bumps, and water clings to itself instead / The leaf is too hot / The leaf has holes that drain the water  
    **Answer:** It is covered in tiny waxy bumps, and water clings to itself instead. *Why:* The drop rests on the tips of tiny waxy bumps, so it rolls away. Picking 'holes' is a natural guess. But if water went through holes, the leaf would get wet, and it stays dry.
 14. (mcq) A napkin strip with a small cut held fewer coins than a strip with no cut. Why?  
-   Options: The pull gathered at the sharp tip of the cut / The cut made the paper wet / The cut made the strip heavier  
+   Options: The cut made the paper wet / The cut made the strip heavier / The pull gathered at the sharp tip of the cut  
    **Answer:** The pull gathered at the sharp tip of the cut. *Why:* At a crack, the pull crowds into the sharp tip, so it tears from there. Picking 'heavier' is not possible, because cutting removes paper. It does not add any.
 15. (mcq) A plain hair held about 19 coins. A hair from the same person with a knot in it held about 13. Why did the knotted hair hold fewer?  
-   Options: At the knot the hair is bent sharply, so the pull crowds there and it breaks / The knot made the hair shorter, so it was weaker / The knotted hair was older  
+   Options: The knot made the hair shorter, so it was weaker / At the knot the hair is bent sharply, so the pull crowds there and it breaks / The knotted hair was older  
    **Answer:** At the knot the hair is bent sharply, so the pull crowds there and it breaks. *Why:* A sharp bend makes a weak spot, like the tip of a cut. The hair breaks there. Picking 'shorter' is a fair idea to check, but the strength of a hair doesn't depend on its length much. It breaks at its weakest spot. Picking 'older' misses that all the hairs came from the same person.
 16. (mcq) Engineers bent the wings of a new aeroplane until they snapped. Why break a perfectly good wing?  
    Options: To prove the wings are much stronger than they need to be, so planes are safe / Because the wings were faulty / For a film  
    **Answer:** To prove the wings are much stronger than they need to be, so planes are safe. *Why:* Testing a few things until they break means the ones people fly in will not break. Picking 'faulty' gets it backwards. The test was to show the wings were good.
 17. (mcq) Can scientists predict exactly how many bends will snap a paper clip?  
-   Options: Yes, always / No. Every clip has its own hidden flaws, so the number changes / Yes, it is always 10  
+   Options: No. Every clip has its own hidden flaws, so the number changes / Yes, always / Yes, it is always 10  
    **Answer:** No. Every clip has its own hidden flaws, so the number changes. *Why:* Hidden flaws differ from clip to clip, so scientists can only say what usually happens. Picking 'always 10' means one try was taken as a rule. That is why we repeat tests.
 18. (mcq) In the muffle test, which cover usually makes the alarm quietest?  
-   Options: Aluminium foil / A woollen shawl / Nothing at all  
+   Options: Aluminium foil / Nothing at all / A woollen shawl  
    **Answer:** A woollen shawl. *Why:* Soft, fluffy wool is full of fibres and air gaps, where the sound's vibration gets lost. Thin foil bounces much of the sound back instead. Picking foil is a common guess, because metal seems strong. But strong is not the same as good at absorbing sound.
 19. (mcq) A sponge springs back after squashing, but bread stays flat. What is springing back called?  
    Options: Elastic / Absorbent / Transparent  
    **Answer:** Elastic. *Why:* A material that goes back to its old shape is elastic, like a rubber band or a sponge. Picking absorbent mixes up two sponge properties. A sponge is absorbent too, but that is about soaking up water, not springing back.
 20. (mcq) Three strips cut from the same napkin, all 2 cm wide, held 18, 24 and 21 coins. Why were they different?  
-   Options: Each strip had its own hidden weak spots, and tore at the weakest / The test was done wrong, so it should be thrown away / The coins were different weights  
+   Options: The test was done wrong, so it should be thrown away / The coins were different weights / Each strip had its own hidden weak spots, and tore at the weakest  
    **Answer:** Each strip had its own hidden weak spots, and tore at the weakest. *Why:* Paper has thin and thick patches. Each strip tears at its own weakest spot, so the numbers spread out. Picking 'the test was done wrong' throws away a real result. A spread like this is normal, and the middle value, 21, sums it up.
+21. (mcq) Meera measures a table and says it is 6 hand spans long. Her father measures the same table and says it is 5. Why did they get different numbers?  
+   Options: Their hand spans are different sizes / The table changed size / One of them counted wrongly for sure  
+   **Answer:** Their hand spans are different sizes. *Why:* The table did not change. A grown-up's hand span is bigger, so fewer of them fit. This is why we use a standard unit, like a centimetre, that is the same size for everyone.
+22. (mcq) A steel spoon sinks in water, but a big steel ship floats. What does this show?  
+   Options: Floating depends on shape as well as material / Steel ships are made of a different metal / The ship is lighter than the spoon  
+   **Answer:** Floating depends on shape as well as material. *Why:* A ship is hollow, so it holds a lot of air and pushes aside a lot of water. A spoon is solid. So the same steel can sink or float, depending on its shape.
+23. (mcq) In the bend test, the tip of a paper strip dropped 5 cm, thin card 2 cm and an ice-cream stick 0.5 cm. Which is the most flexible?  
+   Options: The paper strip / The ice-cream stick / The thin card  
+   **Answer:** The paper strip. *Why:* The strip that bends most under the same coin is the most flexible. Paper dropped 5 cm, which is more than the card or the stick. The stick is stiff.
+24. (mcq) Through one layer of butter paper, you see the black dot only as a blur. What is butter paper?  
+   Options: Transparent / Translucent / Opaque  
+   **Answer:** Translucent. *Why:* Translucent things let some light through, so you see a blur. A transparent thing, like clear glass, lets you see clearly. An opaque thing, like a wooden door, lets no light through at all.
 
 ## Applications
 - Umbrellas, raincoats and school bag covers are made from materials that passed waterproof tests.
@@ -1015,13 +1091,20 @@ What Is It Made Of? (sci.materials.L3): Topic-level song for Materials L3
 
 ## Things to buy
 - [Medicine cups or a measuring cup with millilitre marks](https://www.amazon.in/s?k=measuring+cup+ml+marks) (tool): Measures how much rain came through a cloth in the umbrella patch test, and how much a towel soaked up. Used in e1, p1. 
-- [30 cm ruler](https://www.amazon.in/s?k=30+cm+ruler) (tool): Measures patch sizes, rain height, strip widths, hair length and how high water climbs. Used in e1, e2, e3, e4, a2, a5, a7. 
+- [30 cm ruler](https://www.amazon.in/s?k=30+cm+ruler) (tool): Measures patch sizes, rain height, strip widths, hair length and how high water climbs. Used in e1, e2, e3, e4, a2, a5, a7, a8, a9. 
 - [Rubber bands](https://www.amazon.in/s?k=rubber+bands) (material): To hold each cloth patch tight over its tumbler in the umbrella patch test. Used in e1. 
 - [Magnifying glass for children](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): To see the gaps between threads in cloth, the fibres in paper, and where a knotted hair broke. Used in e1, e4, a5. 
 - [Kitchen towel rolls of two or three different brands](https://www.amazon.in/s?k=kitchen+towel+roll) (material): For the kitchen towel report, testing the claims on the packets. Used in p1. 
 - [Rosie Revere, Engineer, by Andrea Beaty](https://www.amazon.in/s?k=Rosie+Revere+Engineer+Andrea+Beaty) (book): A picture book about a girl whose flying machine fails its test, and why a failed test is a step forward. Ages 4 to 8. Read it before the 100-Coin Strip challenge. Used in c2. 
 - [The Most Magnificent Thing, by Ashley Spires](https://www.amazon.in/s?k=The+Most+Magnificent+Thing+Ashley+Spires) (book): A picture book about a girl who builds, tests and rebuilds until her invention works. Ages 3 to 7. Read it on the day of the Keep the Notebook Dry challenge. Used in c1. 
 - [Stuff Matters, by Mark Miodownik](https://www.amazon.in/s?k=Stuff+Matters+Mark+Miodownik) (book): For the parent: a materials scientist's stories of steel, paper, glass and more, and why they behave as they do. The chapter on paper goes well with the Strip Strength Test. Used in e2. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in The Muffle Test: which material absorbs sound best?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in a3. Get it before The Muffle Test: which material absorbs sound best?.
+- [Food colour](https://www.amazon.in/s?k=food+colour+liquid) (material): Used in The Climbing Water Test: which material soaks up water fastest?. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it. Used in e4. Get it before The Climbing Water Test: which material soaks up water fastest?.
+- [Sticky notes](https://www.amazon.in/s?k=sticky+notes+pack) (material): Used in The Planning Board. About ₹20 to ₹60. Small torn paper and tape do the same job. Used in a1. Get it before The Planning Board.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Muffle Test: which material absorbs sound best?, The Squash Test: which material springs back?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in a3, a4. Get it before The Muffle Test: which material absorbs sound best?.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in The Squash Test: which material springs back?. About ₹20 to ₹50. Torn clean cloth works. Used in a4. Get it before The Squash Test: which material springs back?.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in The Strip Strength Test: which paper holds the most?, Keep the Notebook Dry. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e2, c1. Get it before The Strip Strength Test: which paper holds the most?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - In a fair test, how many things do you change? → Only one. Everything else stays the same.
@@ -1038,7 +1121,7 @@ What Is It Made Of? (sci.materials.L3): Topic-level song for Materials L3
 
 ## Plan
 - Start options: e1, story, g1, big_questions, cards, a2, a5
-- Default order: intro → e1 → a7 → summary → terms → explanations → roots → quiz → story → a1 → g1 → e2 → videos → ws-core → e3 → a5 → g2 → e4 → a4 → agreed → challenging → a2 → a3 → ws-stretch → p1 → c1 → a6 → c2 → c3 → big_questions → ws-challenge → open_questions
+- Default order: intro → e1 → a7 → summary → terms → explanations → roots → quiz → story → a1 → g1 → e2 → videos → ws-core → e3 → a5 → g2 → e4 → a4 → agreed → challenging → a2 → a3 → ws-stretch → p1 → c1 → a6 → c2 → c3 → a8 → a9 → big_questions → ws-challenge → open_questions
 - Core: e1, a7, e2, e3, e4, a1, a4, a5, g1, ws-core, c1
 
 ## Sources

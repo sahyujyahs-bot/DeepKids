@@ -1,9 +1,9 @@
 # What is life? Why every test for life has an exception
 `sci.what-is-life.signs-of-life.L4`
 
-**Summary.** A candle flame uses air, grows and spreads, yet it is not alive. A seed can wait for centuries doing nothing, yet it is alive. So what is life? In this unit you will write your own test for life and try to fool it, and heat beetroot to see colour leak out.
+**Summary.** A candle flame uses air, grows and spreads, yet it is not alive. A seed can wait for centuries doing nothing, yet it is alive. So what is life? In this lesson you will write your own test for life and try to fool it, and heat beetroot to see colour leak out.
 
-**Intro.** *A candle flame uses up wax. It needs air, because it goes out under a glass. It grows when you add a wick, and it spreads to a new wick. Is a flame alive? And what about a mule, who almost never has young, or a dry seed that does nothing at all?* Every simple test for life gets fooled by something. A flame passes many tests and is not alive. A seed fails many tests and is alive. Scientists know this, and they have tried for a hundred years to write a better test. In this unit you will write your own rule, break it, and mend it. You will also see what happens inside a living cell when it is heated, and why staying warm in a cool room is hard work.
+**Intro.** *A candle flame uses up wax. It needs air, because it goes out under a glass. It grows when you add a wick, and it spreads to a new wick. Is a flame alive? And what about a mule, who almost never has young, or a dry seed that does nothing at all?* Every simple test for life gets fooled by something. A flame passes many tests and is not alive. A seed fails many tests and is alive. Scientists know this, and they have tried for a hundred years to write a better test. In this lesson you will write your own rule, break it, and mend it. You will also see what happens inside a living cell when it is heated, and why staying warm in a cool room is hard work.
 
 ## Learning outcomes
 0. I can explain why one sign of life, such as growing or moving, cannot tell living things from non-living things, using fire and crystals as examples.
@@ -516,7 +516,7 @@ Aachi was quiet. Then she lifted one hand from the brine and held it up in front
 ## Worksheets
 ### What is life? (core) (core, 16 questions)
 1. (mcq) A friend says: 'Growing proves that something is alive.' Which example shows that this is wrong?  
-   Options: A salt crystal in strong salt water gets bigger, and a crystal is not alive / A tree gets bigger, and a tree is alive / A puppy gets bigger, and a puppy is alive  
+   Options: A tree gets bigger, and a tree is alive / A puppy gets bigger, and a puppy is alive / A salt crystal in strong salt water gets bigger, and a crystal is not alive  
    **Answer:** A salt crystal in strong salt water gets bigger, and a crystal is not alive. *Why:* A salt crystal grows by adding more salt from the water, and it is not alive. So growing alone cannot prove that something is alive.
 2. (truefalse) A candle flame is alive because it uses up fuel and air.  
    **Answer:** False. *Why:* False. A flame uses fuel and air, but it builds nothing and mends nothing. It is a burning that is happening, not a living body.
@@ -529,14 +529,14 @@ Aachi was quiet. Then she lifted one hand from the brine and held it up in front
 6. (write) Write a rule that starts 'Something is alive if it...'. Then name one case that breaks your rule.  
    **Answer:** Answers vary. A strong answer gives a rule, such as 'it moves', and a case that breaks it, such as a dry seed that is alive but does not move, or a river that moves but is not alive.. *Why:* Every simple rule has a case that breaks it. A strong answer finds one and says why it breaks the rule.
 7. (mcq) Warm water in a tumbler and a child both start warm and sit in a cooler room for half an hour. What do you expect to find?  
-   Options: Both cool down at the same speed / The water cools towards the room's temperature, and the child's temperature stays almost the same / The child cools down and the water stays warm  
+   Options: The water cools towards the room's temperature, and the child's temperature stays almost the same / Both cool down at the same speed / The child cools down and the water stays warm  
    **Answer:** The water cools towards the room's temperature, and the child's temperature stays almost the same. *Why:* Warm water drifts towards the room's temperature. A living body burns food to stay warm, so a child's temperature barely changes.
 8. (odd) Which is the odd one out, and why? Flame, forest fire, crystal, bacterium.  
    **Answer:** Bacterium, because a bacterium is alive. The other three are not alive.. *Why:* A flame, a forest fire and a crystal each pass some tests for life, but none is alive. A bacterium is a living cell.
 9. (count) In a beetroot test, the four glasses A, B, C and D score 0, 1, 2 and 4 after 20 minutes. How many more points does glass D score than glass B?  
    **Answer:** 3. *Why:* 4 take away 1 is 3. Glass D scored 3 points more than glass B, because the very hot water let much more red out.
 10. (mcq) What does the cell membrane of a beetroot cell do?  
-   Options: It makes the beetroot taste sweet / It stores the beetroot's roots / It is a thin skin that keeps the red colour inside the cell  
+   Options: It makes the beetroot taste sweet / It is a thin skin that keeps the red colour inside the cell / It stores the beetroot's roots  
    **Answer:** It is a thin skin that keeps the red colour inside the cell. *Why:* A cell membrane is a thin skin around the cell. It controls what goes in and what stays out, and in the beetroot it keeps the red inside.
 11. (draw) Draw two beetroot cells side by side. Draw the first before heating and the second after heating. Show where the red colour is in each one.  
    **Answer:** The first cell has a whole skin with red dots inside it. The second cell has a broken skin, with red dots leaking out into the water around it.. *Why:* Heat breaks the skin of the cell, so the red can leak out. A strong drawing shows the skin whole in the first cell and broken in the second.
@@ -553,14 +553,14 @@ Aachi was quiet. Then she lifted one hand from the brine and held it up in front
    **Answer:** Answers vary. A strong answer picks a side, gives a reason, and says what else it would want to know, such as whether needing a host should count against being alive.. *Why:* Both views have a point. Scientists still disagree, because a virus passes some tests and fails others.
 ### What is life? (stretch) (stretch, 17 questions)
 1. (mcq) The NASA group wrote that life is a self-sustaining chemical system capable of Darwinian evolution. What does 'capable of Darwinian evolution' mean?  
-   Options: Its young can differ a little from their parents, and helpful differences are passed on / It can run fast / It is made of cells  
+   Options: It can run fast / It is made of cells / Its young can differ a little from their parents, and helpful differences are passed on  
    **Answer:** Its young can differ a little from their parents, and helpful differences are passed on. *Why:* Darwinian evolution is change across generations. Young differ a little, and the differences that help survival are passed on.
 2. (match) Match each person to what they said about life.  
    **Answer:** A NASA group, 1990s → life is a self-sustaining chemical system that can evolve; Daniel Koshland, 2002 → life has seven pillars, including a program and compartments; Carol Cleland → it is too early to define life, like defining water before H2O; Wendell Stanley, 1935 → made crystals of a virus that still made plants sick. *Why:* These people each tried to answer the question in a different way. The answer is still not settled.
 3. (fill) The thin skin around a cell, which breaks when the beetroot is heated, is called the cell ____.  
    **Answer:** ['membrane']. *Why:* The cell membrane is made of fat and protein. Heat shakes it out of shape, and the pigment leaks out.
 4. (mcq) In a seed test, 9 of 10 fresh seeds sprouted and 2 of 10 old ones did. What is the best claim?  
-   Options: Old seeds are dead / In this test, the older seeds sprouted less often / Fresh seeds are better than old seeds in every way  
+   Options: Old seeds are dead / Fresh seeds are better than old seeds in every way / In this test, the older seeds sprouted less often  
    **Answer:** In this test, the older seeds sprouted less often. *Why:* A claim should only say what the evidence shows. Two of the old seeds sprouted, so they are not all dead.
 5. (truefalse) A salt crystal grows by turning other materials into salt.  
    **Answer:** False. *Why:* False. A salt crystal grows by adding more salt that was already in the water. It does not change other things into salt.
@@ -571,7 +571,7 @@ Aachi was quiet. Then she lifted one hand from the brine and held it up in front
 8. (perspective) Here are two views about a seed that has been in a drawer for 100 years.  
    **Answer:** Answers vary. A strong answer picks a side and describes a test, such as giving the seed water and seeing if the seed sprouts, as a stone never would.. *Why:* Both views can be defended. The test is to wake the seed. A stone never sprouts, and a living seed can. That shows the seed has something a stone does not, even while the seed waits.
 9. (mcq) Why do scientists still call a mule alive, even though she almost never has young?  
-   Options: Mules make young in secret / Mules are not alive / The test 'makes young' is about a whole kind across many generations, not each single body  
+   Options: Mules make young in secret / The test 'makes young' is about a whole kind across many generations, not each single body / Mules are not alive  
    **Answer:** The test 'makes young' is about a whole kind across many generations, not each single body. *Why:* A kind of living thing goes on by making young. A single body can still be alive without doing that.
 10. (count) The water in a warm-water test starts at 41 degrees Celsius. The room is 29 degrees. After 30 minutes the water is 34 degrees. How many degrees above the room is the water now?  
    **Answer:** 5. *Why:* 34 take away 29 is 5. The water is still 5 degrees above the room. It is still drifting down towards the room's temperature.
@@ -596,7 +596,7 @@ Aachi was quiet. Then she lifted one hand from the brine and held it up in front
 2. (perspective) Here are three views about whether a virus is alive.  
    **Answer:** Answers vary. A strong answer picks a view, gives a reason, and says what new evidence would change it, such as finding a virus that makes energy on her own.. *Why:* All three can be defended. They use different tests, so they reach different answers.
 3. (mcq) A beetroot cube that was frozen and thawed turns the cold water pink straight away. What is the most likely reason?  
-   Options: Freezing broke the cell skins, so the red leaked out even without heat / The beetroot got older / Frozen beetroot is a different colour  
+   Options: The beetroot got older / Frozen beetroot is a different colour / Freezing broke the cell skins, so the red leaked out even without heat  
    **Answer:** Freezing broke the cell skins, so the red leaked out even without heat. *Why:* Ice crystals inside the cells can tear the membranes. A torn skin lets the red out, whatever the temperature of the water.
 4. (count) One bacterium divides in two every 20 minutes, and none die. How many bacteria are there after 2 hours?  
    **Answer:** 64. *Why:* 2 hours is 6 lots of 20 minutes. The count doubles 6 times. 2 times 2 times 2 times 2 times 2 times 2 is 64.
@@ -611,12 +611,12 @@ Aachi was quiet. Then she lifted one hand from the brine and held it up in front
 9. (sort) Sort each case by what the test 'it moves' says about it.  
    **Answer:** a crow → Moves, and alive; a forest fire → Moves, and not alive; a dry seed in a jar → Does not move, and alive; a robot vacuum cleaner → Moves, and not alive; a dried tardigrade → Does not move, and alive; a neem tree in still air → Does not move, and alive. *Why:* 'It moves' is wrong for the fire and the robot, which move and are not alive. It is also wrong for the seed, the tardigrade and the tree, which are alive and do not move much.
 10. (mcq) Carol Cleland says it may be too early to define life. What is her reason?  
-   Options: Nobody has ever studied life / People used the word 'water' for thousands of years before anyone knew water was H2O, so a good definition of life may need a theory we do not yet have / Life cannot be measured  
+   Options: People used the word 'water' for thousands of years before anyone knew water was H2O, so a good definition of life may need a theory we do not yet have / Nobody has ever studied life / Life cannot be measured  
    **Answer:** People used the word 'water' for thousands of years before anyone knew water was H2O, so a good definition of life may need a theory we do not yet have. *Why:* Cleland compares life with water. A good definition of water had to wait for chemistry. A good definition of life may have to wait for a theory of life.
 11. (draw) Draw a salt crystal growing, and a bean sprout growing, side by side. Use arrows to show what each one takes in and what it becomes.  
    **Answer:** The crystal has arrows from salt in the water into new cubes on the outside. The sprout has arrows from water, air and food into new roots and leaves, which are different from what went in.. *Why:* A crystal adds more of the same stuff. A sprout turns other stuff into new roots and leaves. A strong drawing shows the arrows going into the same thing for the crystal, and into a new thing for the sprout.
 12. (mcq) Which of these would be the strongest evidence that a pattern in a computer was alive?  
-   Options: It moves across the screen / It makes a copy of itself / It builds its own parts from raw materials, repairs itself, and its copies change in ways that are passed on and help it survive  
+   Options: It moves across the screen / It builds its own parts from raw materials, repairs itself, and its copies change in ways that are passed on and help it survive / It makes a copy of itself  
    **Answer:** It builds its own parts from raw materials, repairs itself, and its copies change in ways that are passed on and help it survive. *Why:* Flames and crystals can move or copy too. Building and repairing itself from other materials, and evolving, are much harder to fake.
 13. (write) You put beetroot cubes in water at only 40 degrees Celsius, instead of boiling water. What would the water look like after 20 minutes? Explain why.  
    **Answer:** The water would be only a little pink, much less than from boiling water. At 40 degrees the cell skins are not badly damaged, so only a little red leaks out. Boiling damages most of them.. *Why:* Heat damages cell skins more as it gets hotter. A moderate temperature damages a few, and a very high temperature damages most.
@@ -635,37 +635,37 @@ Aachi was quiet. Then she lifted one hand from the brine and held it up in front
    Options: It builds nothing, mends nothing and passes on no instructions. It is fuel burning / It is too hot / It does not move  
    **Answer:** It builds nothing, mends nothing and passes on no instructions. It is fuel burning. *Why:* A flame passes several tests for life, but it is only a burning. Nothing in it is built or mended, and a new flame carries no inherited instructions.
 2. (mcq) A mule almost never has young, but a mule is alive. What does this show about the test 'living things make young'?  
-   Options: Mules are not alive / It applies to a whole kind across many generations, not to each single body / The test is perfect  
+   Options: It applies to a whole kind across many generations, not to each single body / Mules are not alive / The test is perfect  
    **Answer:** It applies to a whole kind across many generations, not to each single body. *Why:* A single body can be alive without having young. The test describes a kind of living thing over time.
 3. (mcq) Warm water in a tumbler sits in a cool room for half an hour next to a child. What happens?  
    Options: Both stay as warm as they began / The child cools more than the water / The water's temperature drifts towards the room's, while the child's temperature stays almost the same  
    **Answer:** The water's temperature drifts towards the room's, while the child's temperature stays almost the same. *Why:* Left alone, warm water cools until it matches the room. A living body keeps working to stay warm.
 4. (mcq) You heat a raw beetroot cube in very hot water and the water turns red. What happened to the cells?  
-   Options: The cells grew larger / Heat damaged the skin of the cells, so the red leaked out / The beetroot produced more red  
+   Options: Heat damaged the skin of the cells, so the red leaked out / The cells grew larger / The beetroot produced more red  
    **Answer:** Heat damaged the skin of the cells, so the red leaked out. *Why:* The cell membrane keeps the pigment inside. Heat shakes it out of shape, and the pigment leaks out.
 5. (mcq) What does the cell membrane do?  
-   Options: It makes food for the cell / It stops the cell from moving / It controls what goes into the cell and what stays in  
+   Options: It makes food for the cell / It controls what goes into the cell and what stays in / It stops the cell from moving  
    **Answer:** It controls what goes into the cell and what stays in. *Why:* The membrane is a thin skin around the cell. It lets some things pass and keeps other things in.
 6. (mcq) A dry seed shows no sign of life for months. What is the best way to describe the seed?  
    Options: Dormant: alive but resting / Dead / Neither alive nor dead, like a stone  
    **Answer:** Dormant: alive but resting. *Why:* A dormant seed uses almost no energy but can wake. A stone cannot.
 7. (mcq) In 1935, Wendell Stanley made crystals of the tobacco mosaic virus. Why were people so surprised by the crystals?  
-   Options: They were the biggest crystals ever seen / They were red like beetroot / The crystals could still make plants sick, even though they were crystals  
+   Options: They were the biggest crystals ever seen / The crystals could still make plants sick, even though they were crystals / They were red like beetroot  
    **Answer:** The crystals could still make plants sick, even though they were crystals. *Why:* Stanley's crystals infected plants when they were dissolved again. It showed that a germ could be a chemical that forms crystals.
 8. (mcq) Which is the best reason that scientists disagree about whether viruses are alive?  
    Options: No one has seen a virus / A virus copies and evolves, but cannot use energy or copy itself without a host cell / Viruses are too large to study  
    **Answer:** A virus copies and evolves, but cannot use energy or copy itself without a host cell. *Why:* A virus passes some tests and fails others, so the answer depends on which tests you choose.
 9. (mcq) A salt crystal grows in strong salt water. How is its growth different from a sprout's?  
-   Options: The crystal adds more of the salt that was already in the water, and the sprout turns other things into new roots and leaves / The crystal grows more slowly / The sprout does not use energy  
+   Options: The crystal grows more slowly / The crystal adds more of the salt that was already in the water, and the sprout turns other things into new roots and leaves / The sprout does not use energy  
    **Answer:** The crystal adds more of the salt that was already in the water, and the sprout turns other things into new roots and leaves. *Why:* A crystal stacks more of the same. A living thing builds its body out of other materials.
 10. (mcq) You test your rule 'alive means it moves' on a dry seed, and the rule gives the wrong answer. What is the best next step?  
-   Options: Decide the seed is dead / Never write another rule / Mend the rule and test it again  
+   Options: Decide the seed is dead / Mend the rule and test it again / Never write another rule  
    **Answer:** Mend the rule and test it again. *Why:* Scientists mend a rule after a hard case breaks it, and then test again.
 11. (mcq) Two groups of seeds are tested. 9 of 10 fresh seeds sprout, and 2 of 10 old seeds sprout. What is the best claim?  
-   Options: All old seeds are dead / In this test, the older seeds sprouted less often / Fresh seeds are always better  
+   Options: All old seeds are dead / Fresh seeds are always better / In this test, the older seeds sprouted less often  
    **Answer:** In this test, the older seeds sprouted less often. *Why:* A claim should only say what the evidence shows. Two old seeds sprouted, so not all old seeds are dead.
 12. (mcq) A fridge keeps its inside colder than the kitchen. Why is a fridge still not alive?  
-   Options: Someone built it and powers it, and it cannot build or mend its own parts from other materials / A fridge is too cold / A fridge does not use energy  
+   Options: A fridge is too cold / Someone built it and powers it, and it cannot build or mend its own parts from other materials / A fridge does not use energy  
    **Answer:** Someone built it and powers it, and it cannot build or mend its own parts from other materials. *Why:* A fridge and a living body both hold an inside different from the outside using energy. Only a living thing builds and mends itself.
 
 ## Applications
@@ -737,11 +737,18 @@ The Work of Staying Alive (sci.what-is-life.L4): Topic-level song
 - [NASA Astrobiology](https://astrobiology.nasa.gov/) · interactive: For the parent: how NASA scientists look for life on other worlds, and the working definition they use.
 - [Tardigrade (Wikipedia)](https://en.wikipedia.org/wiki/Tardigrade) · interactive: For the parent: how tardigrades dry up and wake again.
 - [Millennium Seed Bank Partnership (Wikipedia)](https://en.wikipedia.org/wiki/Millennium_Seed_Bank_Partnership) · interactive: For the parent: how seeds are stored dry and cold for many years, and why.
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: A science museum with displays about the human body and about energy and machines.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru: A science museum with displays about the human body and about energy and machines.
 
 ## Things to buy
 - [A digital thermometer](https://www.amazon.in/s?k=digital+thermometer+fever) (tool): For the Staying Warm test, to measure warm water and your own temperature. Many homes already have one for fever. A new one costs about Rs 100 to 200 at a medical shop. Used in e2. 
 - [A small magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): For counting tiny sprouts and roots in the Waking Up test and the Cut It Up project. It is optional, and a small one costs about Rs 50 to 100 at a stationery shop. Used in e3, p1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Three Tests, Eight Cases: what scientists' definitions say. About ₹10 to ₹30. Any school ruler is fine. Used in a2. Get it before Three Tests, Eight Cases: what scientists' definitions say.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Faker: design a non-living thing that fools the most tests. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before The Faker: design a non-living thing that fools the most tests.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Waking Up: do older seeds sprout less often?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e3. Get it before Waking Up: do older seeds sprout less often?.
+- [A measuring jug or syringe (marked in millilitres)](https://www.amazon.in/s?k=measuring+jug+500+ml) (tool): Used in Beetroot Bleed: what does heat do to the skin of a living cell?. About ₹30 to ₹100. A clean medicine cup or marked bottle works. Used in e1. Get it before Beetroot Bleed: what does heat do to the skin of a living cell?.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Staying Warm: who keeps their own temperature?, Waking Up: do older seeds sprout less often?, Cut It Up: which pieces start again?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e2, e3, p1. Get it before Staying Warm: who keeps their own temperature?.
+- [Iron nails or iron filings](https://www.amazon.in/s?k=iron+filings+science) (material): Used in Staying Warm: who keeps their own temperature?. About ₹20 to ₹80. Short steel nails from a hardware shop. Used in e2. Get it before Staying Warm: who keeps their own temperature?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Is a flame alive just because it uses fuel and air? → No. A flame builds nothing and mends nothing.
@@ -760,7 +767,7 @@ The Work of Staying Alive (sci.what-is-life.L4): Topic-level song
 - Core: a1, e1, g1, e2, ws-core
 
 ## Sources
-- Founder's notes for this topic (living and non-living, signs of life): the question of where the line between living and non-living is drawn, from the J.C. Bose card, used as the starting question of this unit. The Class 3 unit on the seven signs of life, which this unit builds on and does not repeat.
+- Founder's notes for this topic (living and non-living, signs of life): the question of where the line between living and non-living is drawn, from the J.C. Bose card, used as the starting question of this lesson. The Class 3 unit on the seven signs of life, which this lesson builds on and does not repeat.
 - NCERT and Cambridge Stage 4 and 5 material on living and non-living things, for coverage only. Their text is not copied.
 - Koshland, D. E., 'The Seven Pillars of Life', Science 295, 2215-2216, 2002
 - Joyce, G. F., foreword to Deamer and Fleischaker (eds), Origins of Life: The Central Concepts, 1994 (the NASA working definition of life)

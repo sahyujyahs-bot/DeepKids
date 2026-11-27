@@ -1,9 +1,9 @@
 # Parasite life cycles: the long journey from one host to the next
 `sci.microorganisms.parasites.L4`
 
-**Summary.** A worm as long as an arm once pushed out through the foot of people who drank from step wells. How did it get in? In this unit you will test how many layers of cloth catch pretend water animals, put parasite journeys in order, and work out why parasites lay so many eggs.
+**Summary.** A worm as long as an arm once pushed out through the foot of people who drank from step wells. How did it get in? In this lesson you will test how many layers of cloth catch pretend water animals, put parasite journeys in order, and work out why parasites lay so many eggs.
 
-**Intro.** *Pour a glass of water through a folded cloth. The water looks the same before and after. Yet in India, a folded cloth over a pot helped to stop an illness that had lasted for thousands of years. What was the cloth catching?* In this unit you find out what the cloth caught, and why one cloth could end a whole illness. You test cloths of your own with pretend water animals. You follow a parasite from an egg, through a tiny animal, into a person, and out again. You find out why a parasite lays thousands of eggs, and why cutting the journey at one weak link can stop it for good.
+**Intro.** *Pour a glass of water through a folded cloth. The water looks the same before and after. Yet in India, a folded cloth over a pot helped to stop an illness that had lasted for thousands of years. What was the cloth catching?* In this lesson you find out what the cloth caught, and why one cloth could end a whole illness. You test cloths of your own with pretend water animals. You follow a parasite from an egg, through a tiny animal, into a person, and out again. You find out why a parasite lays thousands of eggs, and why cutting the journey at one weak link can stop it for good.
 
 ## Learning outcomes
 0. I can describe a life cycle, and say what a final host, an intermediate host and a vector are.
@@ -117,7 +117,7 @@ A female mosquito follows the carbon dioxide in your breath from far away. When 
 ### Breaking a life cycle: find the weakest link · *defined*
 **Definition:** A life cycle is only as hard to break as its weakest link. Breaking that one link ends the journey.
 
-Every journey in this unit has a link that is cheap and easy to cut. Guinea worm: a cloth over the water pot, and keeping an infected foot out of the water. Filaria: filling blocked drains, mosquito nets, and a yearly tablet for everyone. Malaria: nets, covering water, and testing and treating every case. Liver fluke: keeping dung out of ponds, and cooking water plants. Tapeworm: soap after the toilet, washed vegetables, cooked meat, and a toilet. Scabies: treating the whole household on the same day. Notice that some of these protect one person, and others protect the whole village. A cloth over your own pot protects your own family. A yearly tablet for every person in a district protects everyone, because the cycle cannot start again. A good plan breaks the journey at more than one link, because a parasite that survives at one link can still be stopped at the next.
+Every journey in this lesson has a link that is cheap and easy to cut. Guinea worm: a cloth over the water pot, and keeping an infected foot out of the water. Filaria: filling blocked drains, mosquito nets, and a yearly tablet for everyone. Malaria: nets, covering water, and testing and treating every case. Liver fluke: keeping dung out of ponds, and cooking water plants. Tapeworm: soap after the toilet, washed vegetables, cooked meat, and a toilet. Scabies: treating the whole household on the same day. Notice that some of these protect one person, and others protect the whole village. A cloth over your own pot protects your own family. A yearly tablet for every person in a district protects everyone, because the cycle cannot start again. A good plan breaks the journey at more than one link, because a parasite that survives at one link can still be stopped at the next.
 - e.g. In the Guinea worm campaign, filters and keeping feet out of the water were used together.
 - e.g. A yearly tablet for everyone in a district stops filaria from restarting, because no mosquito picks up baby worms.
 - e.g. Cooking water plants breaks the liver fluke's journey, while treating the herd breaks it at a second place.
@@ -173,7 +173,7 @@ Mosquitoes carry malaria, filaria and dengue, and mosquito-borne illnesses kill 
   Against: A parasite that kills her host too soon dies with the host, unless she has already spread to a new host. Many parasites do best when the host lives long enough to spread them, which is why most parasites harm their host only a little.
 
 ## Roots
-This unit followed the Guinea worm through a person and a copepod, and showed how a cloth over the pot cut her journey. Now we ask what a journey through many bodies tells us about what a living being is.
+This lesson followed the Guinea worm through a person and a copepod, and showed how a cloth over the pot cut her journey. Now we ask what a journey through many bodies tells us about what a living being is.
 
 **Deep truth.** A Guinea worm begins as a speck in a tiny water animal. She ends as a worm as long as your arm, inside a person. Her shape, size and home all change, but she is one life from start to finish. A parasite is not one body but a journey through several bodies.  
 *Habit it breaks:* We name a living being by the body we meet, such as a worm, a larva or a mosquito, and think she is that body. But a parasite is a speck, a young stage and an adult, each in a different body and a different home.  
@@ -503,7 +503,7 @@ Sunita looked down into the cool green water at the bottom of the well. Somewher
   - Note: A cloth or a mesh holds back large things such as copepods and grit. A ceramic candle has far smaller gaps and holds back many bacteria and cysts. A UV purifier damages the genes of germs, but needs clear water to work. An RO purifier forces water through a very fine membrane and removes many germs and dissolved salts. Boiling kills germs and parasites. None of these works well unless it is kept clean and the filter is changed on time. Siblings can each take one water source (kitchen tap, tank, matka, bottled can). No filter at home: look at a neighbour, a school or a shop, or read about one.
   - Check: A family uses only a cloth over their pot. Which of these will it NOT remove? → **Bacteria that cause typhoid**
 - **s3 (4 min)**  
-  *Parent does:* Talk about whether the family's way of cleaning water breaks the journeys in this unit.  
+  *Parent does:* Talk about whether the family's way of cleaning water breaks the journeys in this lesson.  
   *Parent says:* Which journeys does our filter break? Which links does it leave open? Is there anything we could do to make it safer?  
   *Child mode:* Which journeys does our filter break? Is there a gap?
   - Ask: What could make our water safer? (good: Cleaning the filter on time.; Covering the storage vessel, using a ladle and not dipping hands.)
@@ -580,7 +580,7 @@ Sunita looked down into the cool green water at the bottom of the well. Somewher
 ## Worksheets
 ### Life Cycles and Parasites (core) (core, 17 questions)
 1. (mcq) What is an intermediate host?  
-   Options: A host where a young stage of a parasite grows, but where the parasite does not become an adult / The host where the parasite becomes an adult and lays eggs / A carrier that moves the parasite and does not get ill herself  
+   Options: The host where the parasite becomes an adult and lays eggs / A host where a young stage of a parasite grows, but where the parasite does not become an adult / A carrier that moves the parasite and does not get ill herself  
    **Answer:** A host where a young stage of a parasite grows, but where the parasite does not become an adult. *Why:* The final host is where the adult lives and makes eggs, and a vector carries a parasite from one host to the next. An intermediate host is where a young stage grows.
 2. (sort) Sort each stage by the host it lives in.  
    **Answer:** an adult Guinea worm under the skin of a foot → In a person; a young Guinea worm growing for two weeks → In a copepod; baby filaria worms growing and moving to the mouthparts → In a mosquito; a young liver fluke making hundreds of copies → In a snail; baby filaria worms swimming in the blood at night → In a person; malaria parasites growing in the stomach → In a mosquito. *Why:* A parasite spends different stages in different hosts. The adult Guinea worm and the baby filaria worms live in people, while their young stages grow in a copepod or a mosquito, and the young fluke multiplies in a snail.
@@ -600,14 +600,14 @@ Sunita looked down into the cool green water at the bottom of the well. Somewher
 9. (write) A village begins to filter its water this month. Why might new blisters still appear for another year?  
    **Answer:** A strong answer says that the Guinea worm takes about a year to grow inside a person. People who drank unfiltered water before the filters began may still show blisters, so the effect takes a year to show.. *Why:* A long gap between cause and effect makes it hard to tell quickly whether a change has worked, which is why scientists wait and count.
 10. (mcq) Which of these is a vector?  
-   Options: A mosquito that carries the malaria parasite from one person to another / The person who has malaria / The malaria parasite herself  
+   Options: The person who has malaria / A mosquito that carries the malaria parasite from one person to another / The malaria parasite herself  
    **Answer:** A mosquito that carries the malaria parasite from one person to another. *Why:* A vector carries a parasite or a germ between hosts. The mosquito does this for malaria. The person is the host, and the malaria parasite is the parasite, so neither is a vector.
 11. (fill) The fever of malaria comes in waves because the parasites burst out of red blood cells at about the ________ time.  
    **Answer:** ['same']. *Why:* When many red cells burst together, a new crowd of parasites is released at once, and the body reacts with fever. The next burst brings the next wave.
 12. (draw) Draw a circle of arrows that shows a parasite going from one host to a second host and back to the first. Mark one place where you would cut the circle.  
    **Answer:** A circle with two hosts, for example a person and a copepod or a mosquito, joined by arrows, with a scissors mark on one arrow.. *Why:* A life cycle is a circle. Cutting it at any one link stops it from going round, which is why one cheap step can stop an illness.
 13. (mcq) Why does a parasite that must pass through several hosts lay so many eggs?  
-   Options: Most are lost at one stage or another, so only a few make it / She wants to fill the host / More eggs make the host stronger  
+   Options: She wants to fill the host / More eggs make the host stronger / Most are lost at one stage or another, so only a few make it  
    **Answer:** Most are lost at one stage or another, so only a few make it. *Why:* The odds at each stage multiply, so very few eggs finish the whole journey. Out of thousands of eggs, only a few become adults.
 14. (truefalse) Scabies is caused by dirt.  
    **Answer:** False. *Why:* False. Scabies is caused by a mite that spreads by close skin contact. It can happen to anyone, however clean.
@@ -616,7 +616,7 @@ Sunita looked down into the cool green water at the bottom of the well. Somewher
 16. (write) Name one way to break the journey of the filaria worm, and say which link it breaks.  
    **Answer:** For example: a yearly tablet for everyone in a district breaks the link where a mosquito picks up baby worms from the blood. A net breaks the bite. Emptying drains and still water breaks the link where mosquitoes are born.. *Why:* A journey can be broken at several places, and each link has a different cost.
 17. (mcq) Which habit protects a family from tapeworm eggs?  
-   Options: Washing hands with soap after the toilet and washing vegetables well / Eating only vegetables / Wearing chappals indoors  
+   Options: Eating only vegetables / Washing hands with soap after the toilet and washing vegetables well / Wearing chappals indoors  
    **Answer:** Washing hands with soap after the toilet and washing vegetables well. *Why:* Eggs pass on hands, in food and in water, to anyone. Washing hands and vegetables protects everyone, whatever they eat.
 ### Odds, Filters and Journeys (stretch) (stretch, 17 questions)
 1. (mcq) A parasite's egg has a 1 in 10 chance of getting through each of 3 stages. About how many eggs are needed for one adult?  
@@ -625,7 +625,7 @@ Sunita looked down into the cool green water at the bottom of the well. Somewher
 2. (write) A child pours seeds through a cloth. All the mustard seeds stay on the cloth, but some khus khus seeds get through. What does this tell you about the gaps in the cloth?  
    **Answer:** The gaps are bigger than a khus khus seed and smaller than a mustard seed. A filter lets through things smaller than its gaps and holds back things bigger than its gaps.. *Why:* A filter is a size gate. Comparing which seeds pass and which do not gives the size of the gaps.
 3. (mcq) Two layers of tight cotton caught all the seeds and took 100 seconds for 100 millilitres. Four layers caught all the seeds and took more than 180 seconds. For a village that must filter a lot of water, which is the better choice?  
-   Options: Two layers, because it protects just as well and is faster / Four layers, because more layers are always better / Neither, because cloth cannot filter  
+   Options: Four layers, because more layers are always better / Two layers, because it protects just as well and is faster / Neither, because cloth cannot filter  
    **Answer:** Two layers, because it protects just as well and is faster. *Why:* Both caught every seed, so the protection was the same. The two-layer filter was faster. More layers cost time and added no protection in this test.
 4. (truefalse) The young Guinea worms swim from the water straight into a person's skin.  
    **Answer:** False. *Why:* False. The larvae that leave the foot are not ready to infect a person. They must be swallowed by a copepod and grow in her for about two weeks first. People then swallow the copepod.
@@ -634,19 +634,19 @@ Sunita looked down into the cool green water at the bottom of the well. Somewher
 6. (fill) A mosquito who picks up filaria worms at night finds the baby worms in the person's ________.  
    **Answer:** ['blood']. *Why:* The baby worms swim in the blood, mostly at night, which is when the Culex mosquito bites.
 7. (mcq) A person was treated for vivax malaria, felt well for months, and then had fever again. What is the most likely reason?  
-   Options: A sleeping stage of the parasite in the liver woke up / The mosquito bit her through the net / The medicine had become a poison  
+   Options: The mosquito bit her through the net / The medicine had become a poison / A sleeping stage of the parasite in the liver woke up  
    **Answer:** A sleeping stage of the parasite in the liver woke up. *Why:* Vivax malaria has a sleeping stage in the liver, which can wake weeks or months later and cause a relapse.
 8. (write) Why is it hard to prove that a cloth filter works against the Guinea worm in only one year?  
    **Answer:** The worm takes about a year to grow in a person, so people who drank unfiltered water before the filter began may still get blisters. You must wait, and compare with villages that did not use the filter.. *Why:* When the effect comes long after the cause, scientists must wait and compare groups to find out what worked.
 9. (mcq) One child in a family has scabies. What best stops it spreading in the family?  
-   Options: Treat the whole household on the same day / Wash only the sick child's hands / Wait to see whether anyone else itches  
+   Options: Wash only the sick child's hands / Treat the whole household on the same day / Wait to see whether anyone else itches  
    **Answer:** Treat the whole household on the same day. *Why:* Mites can reach other people before their own itch starts, because the itch begins weeks after the first infection. Treating everyone together stops the mites going round again.
 10. (perspective) Scientists are developing a way to spread a change through a whole species of mosquito so that the mosquitoes cannot carry malaria.  
    **Answer:** A strong answer weighs the suffering that could be prevented against the risk of unknown effects. It names evidence that would help, such as small trials, what the species eats and what eats it, and what the local people want.. *Why:* There is no single right answer. A good answer uses the evidence and says what it values.
 11. (order) Put the steps of the liver fluke's journey in order.  
    **Answer:** ["A fluke in a cow's liver lays eggs, which leave in the dung", 'The egg hatches in water and enters a pond snail', 'New swimmers leave the snail and form cysts on a water plant', 'A cow eats the plant, and the young flukes travel to her liver']. *Why:* The journey goes from the cow to the dung, to the water and the snail, to a plant, and back to a cow.
 12. (mcq) A mosquito net protects a sleeper from malaria and filaria. Which link in the journey does it cut?  
-   Options: The bite of the mosquito / The birth of the mosquito / The medicine of the sleeper  
+   Options: The birth of the mosquito / The bite of the mosquito / The medicine of the sleeper  
    **Answer:** The bite of the mosquito. *Why:* A net stops the mosquito reaching the skin, so no parasite is picked up and none is passed on.
 13. (write) A liver fluke makes hundreds of copies of herself inside a snail. How does that help the parasite, even though most eggs are lost?  
    **Answer:** It makes up for the odds. One egg that reaches a snail becomes hundreds of young flukes, so many more have a chance of reaching a cow.. *Why:* A step that multiplies the parasite in the middle of the journey balances the steps that lose most of them.
@@ -655,7 +655,7 @@ Sunita looked down into the cool green water at the bottom of the well. Somewher
 15. (draw) Draw a circle of arrows showing how a person with a Guinea worm blister can infect other people through a village well. Then mark two places where you would cut it.  
    **Answer:** A circle of arrows: foot, water, copepod, mouth, person, with two marks, such as a cloth on the pot and a sore foot kept out of the well.. *Why:* Cutting the circle in two places is safer, because a parasite that gets past one cut can still be stopped at the next.
 16. (mcq) How could scientists find out that filaria larvae develop inside mosquitoes?  
-   Options: Let mosquitoes feed on a patient's blood, then cut some open at different times and look / Ask the mosquitoes / Look at a patient's foot  
+   Options: Ask the mosquitoes / Look at a patient's foot / Let mosquitoes feed on a patient's blood, then cut some open at different times and look  
    **Answer:** Let mosquitoes feed on a patient's blood, then cut some open at different times and look. *Why:* Looking inside mosquitoes on different days shows the stages growing. That is how Patrick Manson found the worms growing inside mosquitoes, and how George Low found them in the mouthparts.
 17. (fill) The tough resting stage of a single-celled parasite, with a hard coat, is called a ________.  
    **Answer:** ['cyst']. *Why:* A cyst can wait in water for days and survives some chlorine, which is why boiling is better.
@@ -666,7 +666,7 @@ Sunita looked down into the cool green water at the bottom of the well. Somewher
 2. (write) A head louse lives on one person for her whole life and lays only a few eggs a day. A liver fluke needs three hosts and lays very many. Explain the difference.  
    **Answer:** The louse has one host and almost no stages to get through. She is already at home, so her chance is high. The fluke has to pass a snail, a plant and a cow, so her chances multiply to a very small number, and she needs many eggs.. *Why:* The number of eggs fits the length of the journey. More stages and hosts mean smaller odds, so more eggs.
 3. (mcq) Guinea worm has almost been wiped out, but malaria has not. Which fact makes the Guinea worm easier to wipe out?  
-   Options: A person with the worm shows a visible blister, and the journey needs drinking water, so every case can be found and every pond treated / The Guinea worm is much more dangerous / Mosquitoes carry the Guinea worm  
+   Options: The Guinea worm is much more dangerous / A person with the worm shows a visible blister, and the journey needs drinking water, so every case can be found and every pond treated / Mosquitoes carry the Guinea worm  
    **Answer:** A person with the worm shows a visible blister, and the journey needs drinking water, so every case can be found and every pond treated. *Why:* Every case shows itself as a blister, and the only way to catch the worm is to drink the water with copepods. That lets health workers find cases and cut the journey.
 4. (perspective) A country has money to do one thing. It can finish wiping out a rare parasite for good, or it can cut the cases of a very common one.  
    **Answer:** A strong answer weighs the people helped now against the long-term saving. It names things to find out, such as how many are ill, how close the rare parasite is to being gone, and the cost of each plan.. *Why:* This is a question of fairness and of evidence. A good answer says what it values and what it would check.
@@ -675,7 +675,7 @@ Sunita looked down into the cool green water at the bottom of the well. Somewher
 6. (truefalse) Parasites with several hosts always kill their hosts.  
    **Answer:** False. *Why:* False. Most parasites harm their hosts only a little, because a parasite does best when the host lives long enough for her to spread.
 7. (mcq) Everyone at risk in a district takes filaria tablets each year. In the first year, a scientist finds baby worms in the blood of 120 of 1,000 people tested. After five years, she finds them in 3 of 1,000. What does this show?  
-   Options: The programme is working, with about 40 times fewer people carrying baby worms / The programme has failed / The tablets made more worms  
+   Options: The programme has failed / The tablets made more worms / The programme is working, with about 40 times fewer people carrying baby worms  
    **Answer:** The programme is working, with about 40 times fewer people carrying baby worms. *Why:* 120 divided by 3 is 40. The number of people carrying baby worms fell about 40 times, so fewer mosquitoes pick them up.
 8. (sort) Does each step protect mainly your own family, or the whole community?  
    **Answer:** a cloth over your own water pot → Protects mainly your own family; a yearly tablet for everyone in a district → Protects the whole community; a net over your own bed → Protects mainly your own family; filling blocked drains in a town → Protects the whole community; a toilet for every home in a village → Protects the whole community; washing your own hands before eating → Protects mainly your own family. *Why:* Some steps protect the person who takes them. Steps that stop the parasite going round, like clearing it from a whole district, protect everyone, including people who never knew about it.
@@ -691,46 +691,46 @@ Sunita looked down into the cool green water at the bottom of the well. Somewher
 13. (fill) Giving everyone in a district at risk the same medicine on the same days is called mass drug ________.  
    **Answer:** ['administration']. *Why:* Mass drug administration clears a parasite from the whole community, so the cycle cannot restart.
 14. (mcq) A liver fluke lives in the cows of a village. Why might treating the cows also protect the people?  
-   Options: Fewer fluke eggs reach the ponds, so fewer snails and fewer plants carry the cysts / Cows breathe out the medicine / People eat the cows  
+   Options: Cows breathe out the medicine / Fewer fluke eggs reach the ponds, so fewer snails and fewer plants carry the cysts / People eat the cows  
    **Answer:** Fewer fluke eggs reach the ponds, so fewer snails and fewer plants carry the cysts. *Why:* Treated cows lay fewer eggs, so fewer snails are infected and fewer plants carry cysts. People who eat raw water plants then have less chance of meeting the fluke.
-15. (write) Choose one parasite journey from this unit. Which stage do you think is the hardest for the parasite to get through, and why?  
+15. (write) Choose one parasite journey from this lesson. Which stage do you think is the hardest for the parasite to get through, and why?  
    **Answer:** Any journey with a reason. For example, for the Guinea worm, the hardest stage may be the larvae getting swallowed by a copepod, as the larvae must meet the right animal in a large pond. Answers should name a stage and give a reason about the odds.. *Why:* Thinking about the hardest stage helps to find the weakest link, where a journey is easiest to cut.
 
 ## Videos
 - **Field Notes: Guinea Worm 101** (The Carter Center, 4 min) id `6qpEeuA88rQ`: A short film from the organisation that led the campaign against the Guinea worm. It shows the journey from the water, through a copepod, into a person and out again, and the cloth filters that cut it. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. The length is an estimate. Not watched from here, so a parent should preview it.
 - **Malaria Life Cycle Animation: Mosquito Host** (HHMI BioInteractive, 4 min) id `0uyE046It3o`: An animated film of the malaria parasite's stages inside the mosquito. It is made for older students, so it suits a parent and child watching together, and it shows how one parasite changes shape at each stage. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. The length is an estimate. Not watched from here, so a parent should preview it, as the words are for older students.
-- **The loathsome, lethal mosquito - Rose Eveleth** (TED-Ed, 5 min) id `IkmjCmvfeFI`: A short animated film on how mosquitoes spread illness, and on the question of whether the world would be better without them. It goes with the debated card in this unit. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. The length is an estimate. Not watched from here, so a parent should preview it.
+- **The loathsome, lethal mosquito - Rose Eveleth** (TED-Ed, 5 min) id `IkmjCmvfeFI`: A short animated film on how mosquitoes spread illness, and on the question of whether the world would be better without them. It goes with the debated card in this lesson. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. The length is an estimate. Not watched from here, so a parent should preview it.
 
 ## Quiz
 1. (mcq) In which host does a parasite become an adult and make eggs?  
-   Options: The final host / The intermediate host / The vector  
+   Options: The intermediate host / The vector / The final host  
    **Answer:** The final host. *Why:* The final host holds the adult. An intermediate host holds a young stage, and a vector carries the parasite between hosts.
 2. (mcq) How does a person catch the Guinea worm?  
    Options: By drinking water with copepods that carry young worms / By touching a person with a blister / By a mosquito bite  
    **Answer:** By drinking water with copepods that carry young worms. *Why:* The Guinea worm is caught only by swallowing a copepod that holds the young worms. Touching someone or a bite does not pass it on.
 3. (mcq) Two steps helped to stop the Guinea worm in villages. Which pair is right?  
-   Options: Filtering drinking water through cloth, and keeping an infected foot out of the water / Wearing chappals, and washing vegetables / Sleeping under a net, and emptying drains  
+   Options: Wearing chappals, and washing vegetables / Filtering drinking water through cloth, and keeping an infected foot out of the water / Sleeping under a net, and emptying drains  
    **Answer:** Filtering drinking water through cloth, and keeping an infected foot out of the water. *Why:* A cloth holds back the copepods that carry the young worms, and keeping an infected foot out of the water stops the larvae from being let out. Chappals and nets work against other parasites.
 4. (mcq) A cloth with fine gaps catches more than a cloth with wide gaps, but the water flows through more slowly. Why?  
    Options: Narrower gaps hold back more things but give water a harder path / Fine cloth is lighter / Fine cloth soaks up the water  
    **Answer:** Narrower gaps hold back more things but give water a harder path. *Why:* A filter holds back everything bigger than its gaps. Narrower gaps catch more, and the water must squeeze through, so it is slower.
 5. (mcq) Which of these will a cloth over a pot NOT remove from water?  
-   Options: Bacteria that cause typhoid / Copepods / Grit  
+   Options: Copepods / Grit / Bacteria that cause typhoid  
    **Answer:** Bacteria that cause typhoid. *Why:* A cloth holds back things bigger than its gaps. Bacteria are far smaller than the gaps and pass through, so the water must be boiled or treated for them.
 6. (mcq) If an egg has a 1 in 10 chance of getting through each of 4 stages, about how many eggs are needed to get one adult?  
    Options: 10,000 / 40 / 1,000  
    **Answer:** 10,000. *Why:* 10 times 10 times 10 times 10 is 10,000. The chances at each stage multiply.
 7. (mcq) Why does the fever of malaria come in waves?  
-   Options: Parasites burst out of red blood cells at about the same time, again and again / The mosquito bites every second day / The medicine wears off every second day  
+   Options: The mosquito bites every second day / The medicine wears off every second day / Parasites burst out of red blood cells at about the same time, again and again  
    **Answer:** Parasites burst out of red blood cells at about the same time, again and again. *Why:* Parasites multiply together inside red blood cells, and burst out at about the same time. Each burst brings a wave of fever.
 8. (mcq) Baby filaria worms are mostly in the blood at night. How does this help the parasite?  
    Options: It matches the time when the Culex mosquito bites, so she picks up many / It keeps the worms cool / It stops the person from feeling ill  
    **Answer:** It matches the time when the Culex mosquito bites, so she picks up many. *Why:* A mosquito can only pick up the baby worms that are in the blood when she bites. Being in the blood at night means that more of them are picked up.
 9. (mcq) Which habit breaks the journey of tapeworm eggs from hands to mouths?  
-   Options: Washing hands with soap after the toilet / Sleeping under a net / Wearing a hat  
+   Options: Sleeping under a net / Wearing a hat / Washing hands with soap after the toilet  
    **Answer:** Washing hands with soap after the toilet. *Why:* Tapeworm eggs can pass on hands and food. Soap after the toilet and before cooking cuts that link. A net and a hat do not.
 10. (mcq) Cooking water plants breaks the journey of which parasite?  
-   Options: The liver fluke / The scabies mite / The head louse  
+   Options: The scabies mite / The liver fluke / The head louse  
    **Answer:** The liver fluke. *Why:* The liver fluke forms tough cysts on water plants, which heat kills. Mites and lice live on bodies, not on plants.
 11. (mcq) A pot with a tight lid grows no wrigglers, and an open pot does. Which link of the mosquito's journey does the lid cut?  
    Options: The laying of eggs on or near the water / The growth of the adult / The bite of the mosquito  
@@ -739,7 +739,7 @@ Sunita looked down into the cool green water at the bottom of the well. Somewher
    Options: Other people at home may already have mites, and could pass them back / The cream only works on one person / Scabies cannot be treated  
    **Answer:** Other people at home may already have mites, and could pass them back. *Why:* Mites spread by close contact, and the itch begins weeks later, so others may carry mites without knowing. Treating the whole household together stops the cycle.
 13. (mcq) In 1900, George Low found young worms in the mouthparts of mosquitoes. What did this show about how people catch filaria?  
-   Options: The worms enter the skin when a mosquito bites / The worms come from drinking water / The worms come from the air  
+   Options: The worms come from drinking water / The worms come from the air / The worms enter the skin when a mosquito bites  
    **Answer:** The worms enter the skin when a mosquito bites. *Why:* Young worms in the mouthparts are ready to slip into the skin at a bite. That showed that the earlier idea, that people drink the worms in water, was wrong.
 
 ## Applications
@@ -757,7 +757,7 @@ Sunita looked down into the cool green water at the bottom of the well. Somewher
 ## Spotted around us
 - A mosquito net over a bed, or a net screen on a window, in a home or a hostel.
 - A cover on a water drum or tank, or a notice for a weekly dry day on a flat's notice board.
-- A step well, called a baoli or a vav, such as Chand Baori near Jaipur, Adalaj near Ahmedabad or Rani ki Vav at Patan.
+- A step well, called a baoli or a vav, with steps going down to the water.
 - A notice outside a health centre about the day when everyone in the district is offered tablets.
 - Small fish in a village pond or a well, put there to eat mosquito larvae.
 - A ceramic candle filter or a purifier in a kitchen, with a tap at the bottom.
@@ -821,6 +821,16 @@ Tiny Cooks (sci.microorganisms.L4): Topic-level song
 ## Things to buy
 - [Mustard seeds and khus khus (poppy seeds)](https://www.amazon.in/s?k=poppy+seeds+khus+khus+and+mustard+seeds) (material): The pretend copepods in the Sari Filter Test and the Village Pot Filter. A small packet of each from the grocer is enough. Used in e1, c1. 
 - [A hand magnifying glass](https://www.amazon.in/s?k=hand+magnifying+glass+for+kids) (tool): For looking at wrigglers in the Four Pots test. A cheap hand lens from a stationery shop is enough. Used in e2. 
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in The Sari Filter Test: how many layers of cloth does it take to catch a pretend copepod?. About ₹150 to ₹400. A phone stopwatch works well. Used in e1. Get it before The Sari Filter Test: how many layers of cloth does it take to catch a pretend copepod?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Wind a Worm: how long does a Guinea worm take to come out?, Fever Chart Detective: which chart looks like malaria?, Make a Life-Cycle Wheel. About ₹10 to ₹30. Any school ruler is fine. Used in a1, a2, a4, p1. Get it before Wind a Worm: how long does a Guinea worm take to come out?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Make a Life-Cycle Wheel, The Foot-Soaking Station. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in a4, c2. Get it before Make a Life-Cycle Wheel.
+- [Food colour](https://www.amazon.in/s?k=food+colour+liquid) (material): Used in The Sari Filter Test: how many layers of cloth does it take to catch a pretend copepod?. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it. Used in e1. Get it before The Sari Filter Test: how many layers of cloth does it take to catch a pretend copepod?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in A Comic of a Journey: tell a parasite's story in twelve panels. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in p1. Get it before A Comic of a Journey: tell a parasite's story in twelve panels.
+- [Wooden ice-cream sticks (a pack)](https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack) (material): Used in Wind a Worm: how long does a Guinea worm take to come out?. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in. Used in a1. Get it before Wind a Worm: how long does a Guinea worm take to come out?.
+- [Clean sand (a small bag)](https://www.amazon.in/s?k=play+sand+small+bag) (material): Used in The Foot-Soaking Station. About ₹20 to ₹60. Fine soil sieved from a pot works. Used in c2. Get it before The Foot-Soaking Station.
+- [A measuring jug or syringe (marked in millilitres)](https://www.amazon.in/s?k=measuring+jug+500+ml) (tool): Used in The Sari Filter Test: how many layers of cloth does it take to catch a pretend copepod?. About ₹30 to ₹100. A clean medicine cup or marked bottle works. Used in e1. Get it before The Sari Filter Test: how many layers of cloth does it take to catch a pretend copepod?.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in Fever Chart Detective: which chart looks like malaria?. About ₹10 to ₹30. Draw squares on plain paper. Used in a2. Get it before Fever Chart Detective: which chart looks like malaria?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is a life cycle? → The series of stages a living being goes through, from an egg to an adult who makes new eggs.
@@ -842,8 +852,8 @@ Tiny Cooks (sci.microorganisms.L4): Topic-level song
 ## Sources
 - ideas/by_topic/microorganisms.md: the founder's picture of single-celled and many-celled beings who sense, decide and act, and the line on parasites appearing again and again in evolution, used in the cards on how parasites find hosts and how parasitism began
 - Curriculum notebook items bio:270 to bio:274 (parasitology, protozoan parasites, helminths, ectoparasites, host and parasite): the unit's coverage
-- The Level 3 unit on parasites, which this unit builds on: the malaria journey is carried on to waves of fever, and the idea of a host is carried on to final hosts, intermediate hosts and vectors
-- The Level 5 curriculum entry on parasites, which takes up the arms race between parasite and host and the parasites that change their host's behaviour, and so is left out of this unit
+- The Level 3 unit on parasites, which this lesson builds on: the malaria journey is carried on to waves of fever, and the idea of a host is carried on to final hosts, intermediate hosts and vectors
+- The Level 5 curriculum entry on parasites, which takes up the arms race between parasite and host and the parasites that change their host's behaviour, and so is left out of this lesson
 - Manson, 'On the development of Filaria sanguinis hominis, and on the mosquito considered as a nurse', Journal of the Linnean Society (Zoology) 14, 1878 (work done at Amoy in 1877)
 - Low, 'A recent observation on Filaria nocturna in Culex; probable mode of infection of man', British Medical Journal, 1900
 - Lewis, report on the discovery of baby filaria worms in the blood in Calcutta, in the Annual Report of the Sanitary Commissioner with the Government of India, 1872

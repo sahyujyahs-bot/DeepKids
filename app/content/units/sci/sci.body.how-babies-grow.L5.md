@@ -1,7 +1,7 @@
 # How a new person begins: egg cell, sperm cell, the first week, and families of many kinds
 `sci.body.how-babies-grow.L5`
 
-**Summary.** Only one sperm cell joins the egg cell. So why do many millions set out? In this unit you will run the Two Gates Test with beans and a die to find out. You will learn where egg cells and sperm cells are made, how they meet, and what happens in the first week. You will also learn how bodies get ready at puberty, how doctors can help a baby begin, and the many ways families are made.
+**Summary.** Only one sperm cell joins the egg cell. So why do many millions set out? In this lesson you will run the Two Gates Test with beans and a die to find out. You will learn where egg cells and sperm cells are made, how they meet, and what happens in the first week. You will also learn how bodies get ready at puberty, how doctors can help a baby begin, and the many ways families are made.
 
 **Intro.** *You began as one cell, smaller than a grain of salt. That cell was made when two cells joined: one egg cell and one sperm cell. Only one sperm cell was needed. Yet many millions of sperm cells set out. Why so many? Say what you think, and say why.* Most people guess that the sperm cells are racing, and the fastest one wins. That is not what scientists find. You will first make the egg cell and the sperm cell at a size you can see. Then you will run a test with beans and a die, and your own numbers will show why so many must start. After that you will follow the two cells from where they are made to where they meet, and through the first week of a new person.
 
@@ -165,7 +165,7 @@ We have learned how an egg cell and a sperm cell join to begin a new person. Now
 
 Before the first cells there was a world with no cells in it. How the first living cells arose is not known. Since then, one unbroken stream of living cells has divided, joined and divided again. Out of that one stream came every bacterium, banyan, crow and person. You look like a separate thing with a start date. Seen from the cells, you are the same stream, in a new and never-repeated shape. The sperm cell and the egg cell each sensed the other and moved to join. That reaching towards another is as old as cells.
 
-- **Tao Te Ching 6:** “谷神不死，是謂玄牝。玄牝之門，是謂天地根。緜緜若存，用之不勤。” The spirit of the valley never dies. It is called the mysterious female. Her gateway is the root of heaven and earth. It goes on and on, and using it never wears it out. (Laozi pictured the source of everything as a mother who never stops giving birth. The science of this unit found something close to it in every body: a line of living cells, and of mothers, that has not stopped.)
+- **Tao Te Ching 6:** “谷神不死，是謂玄牝。玄牝之門，是謂天地根。緜緜若存，用之不勤。” The spirit of the valley never dies. It is called the mysterious female. Her gateway is the root of heaven and earth. It goes on and on, and using it never wears it out. (Laozi pictured the source of everything as a mother who never stops giving birth. The science of this lesson found something close to it in every body: a line of living cells, and of mothers, that has not stopped.)
 - **Milindapanha, Book 2, Chapter 2, question 1:** King Milinda asks whether a person stays the same from baby to adult. The monk Nagasena asks about a lamp that burns all night. The flame of the first hours and the flame of the last hours are neither the same flame nor a different one. (A zygote, a baby and you are like that flame. Go further back, and the flame was never lit from nothing. A living cell was lit from a living cell.)
 - **Kahlil Gibran, The Prophet (1923), 'On Children':** Your children are not your children. They are the sons and daughters of Life's longing for itself. They come through you but not from you. (Parents do not build a child out of nothing. Life passes through them, in two cells, and becomes someone new who belongs to themself.)
 - Science (settled): Every cell comes from a living cell. No cell in a body has been seen to form from non-living material.
@@ -552,7 +552,7 @@ Each of them began the way Miriam first saw it. Two cells that were given enough
 4. (truefalse) True or false: a baby girl is born with her egg cells already in her ovaries.  
    **Answer:** True. *Why:* True. Egg cells begin forming before a girl is born. About 1 to 2 million are there at birth.
 5. (mcq) Where are sperm cells made?  
-   Options: In the testes / In the bladder / In the womb  
+   Options: In the bladder / In the testes / In the womb  
    **Answer:** In the testes. *Why:* The two testes make sperm cells from puberty onwards. The bladder only stores urine.
 6. (match) Match each part of the body to its work.  
    **Answer:** Ovary → keeps and ripens egg cells; Testis → makes sperm cells; Egg tube → where the two cells meet; Womb → where the baby grows. *Why:* Egg cells ripen in an ovary and sperm cells are made in a testis. The two meet in an egg tube, and the embryo grows in the womb.
@@ -570,7 +570,7 @@ Each of them began the way Miriam first saw it. Two cells that were given enough
 12. (sort) Sort each change at puberty: does it happen to girls, to boys, or to everyone?  
    **Answer:** periods begin → Girls; testes start making sperm cells → Boys; growing faster → Everyone; hair grows under the arms → Everyone; breasts grow → Girls; the voice deepens a lot → Boys. *Why:* Hormones start all of these changes. Some are shared, and some depend on whether the body has ovaries or testes.
 13. (mcq) What is a period?  
-   Options: The womb's unused lining leaving the body / Blood from an injury / A sign of illness  
+   Options: Blood from an injury / The womb's unused lining leaving the body / A sign of illness  
    **Answer:** The womb's unused lining leaving the body. *Why:* Each month the womb builds a lining for an embryo. If none arrives, the lining comes away. Nothing is injured.
 14. (draw) Draw an egg cell and a sperm cell side by side. Label what each one brings.  
    **Answer:** A large round egg cell labelled with half the instructions, food and mitochondria. A tiny sperm cell with a tail, labelled with half the instructions.. *Why:* A strong drawing shows the difference in size, and that both bring half of the instructions.
@@ -578,12 +578,12 @@ Each of them began the way Miriam first saw it. Two cells that were given enough
    **Answer:** Any three, for example: parents raising the child born to them, adoption, a single parent, grandparents raising a child, a step-family, or help from IVF.. *Why:* Every child begins from an egg cell and a sperm cell. A family is the people who love and raise the child.
 ### The journey, the cycle and chance (stretch) (stretch, 15 questions)
 1. (mcq) Why must sex cells carry half the usual number of chromosomes?  
-   Options: So the number is 46 again after they join / Because sex cells are small / So that they can swim faster  
+   Options: Because sex cells are small / So the number is 46 again after they join / So that they can swim faster  
    **Answer:** So the number is 46 again after they join. *Why:* If each carried 46, the zygote would have 92, and the number would double in every generation.
 2. (truefalse) True or false: the embryo gets bigger with every division in the first three days.  
    **Answer:** False. *Why:* False. The cells get smaller each time they divide, so the embryo stays about the size of the egg cell.
 3. (mcq) After one sperm cell joins, what does the egg cell's coat do?  
-   Options: It changes to keep other sperm cells out / It opens wider / It dissolves at once  
+   Options: It opens wider / It changes to keep other sperm cells out / It dissolves at once  
    **Answer:** It changes to keep other sperm cells out. *Why:* A second sperm cell would bring too many chromosomes. The coat changes within moments to block it.
 4. (fill) The embryo attaching to the lining of the womb is called ____.  
    **Answer:** ['implantation']. *Why:* Implantation usually happens 8 to 10 days after ovulation.
@@ -594,7 +594,7 @@ Each of them began the way Miriam first saw it. Two cells that were given enough
 7. (sort) Sort each thing: does it come from the egg cell only, or from both cells?  
    **Answer:** mitochondria → Egg cell only; chromosomes → Both cells; food for the first days → Egg cell only; instructions for building a body → Both cells. *Why:* Both cells bring half of the chromosomes. The egg cell also brings the food store and the mitochondria that last.
 8. (mcq) A family has four daughters. What is the chance that the next baby is a girl?  
-   Options: About one in two / Very small / Certain  
+   Options: Very small / About one in two / Certain  
    **Answer:** About one in two. *Why:* Each time, a sperm cell with an X or with a Y arrives by chance. Earlier babies do not change the next one.
 9. (write) Explain why nobody chooses whether a baby is XX or XY.  
    **Answer:** Every egg cell carries an X. Half the sperm cells carry an X and half carry a Y. Which sperm cell joins the egg cell is chance, so nobody controls it.. *Why:* A strong answer names both cells and says that which sperm cell arrives is chance.
@@ -607,7 +607,7 @@ Each of them began the way Miriam first saw it. Two cells that were given enough
 13. (perspective) Two girls disagree about when a person begins.  
    **Answer:** Answers vary. For Yazhini: the zygote is the first cell with this person's own set of 46 chromosomes. For Ananya: both cells were alive before, the embryo is not attached for a week, and one embryo can still split into twins.. *Why:* Both girls are using the science. The facts do not settle it, because the answer depends on what we mean by 'a person'.
 14. (mcq) Why do the testes hang outside the belly?  
-   Options: Sperm cells are made best slightly cooler / To protect them from harm / They are too large to fit inside  
+   Options: To protect them from harm / Sperm cells are made best slightly cooler / They are too large to fit inside  
    **Answer:** Sperm cells are made best slightly cooler. *Why:* Sperm cells are made best about 2 degrees cooler than the inside of the body.
 15. (fill) Chemical messages carried in the blood are called ____.  
    **Answer:** ['hormones']. *Why:* Hormones from a gland under the brain start puberty, and hormones run the monthly cycle.
@@ -615,7 +615,7 @@ Each of them began the way Miriam first saw it. Two cells that were given enough
 1. (write) Use the Two Gates Test to explain why millions of sperm cells start.  
    **Answer:** In the test each bean had a small chance, and a bean usually arrived only when many started. In a body the chance for each sperm cell is far smaller, so far more must start for a few to arrive.. *Why:* A strong answer links a small chance for each one to the need for a large number of starters.
 2. (mcq) Which of these does the Two Gates Test leave out?  
-   Options: Real sperm cells sense and respond / Chance plays a part / Many must start  
+   Options: Chance plays a part / Real sperm cells sense and respond / Many must start  
    **Answer:** Real sperm cells sense and respond. *Why:* Beans and a die show the part that chance plays. They cannot show living cells that swim and sense chemicals.
 3. (truefalse) True or false: scientists have watched and counted embryos being lost inside a woman's body.  
    **Answer:** False. *Why:* False. Nobody can see this happen inside a body. The figure of 40 to 50 in 100 is an estimate worked out from other measurements.
@@ -630,7 +630,7 @@ Each of them began the way Miriam first saw it. Two cells that were given enough
 8. (match) Match each living being to how the sex of the young is settled.  
    **Answer:** Human → by the sperm cell's X or Y; Hen → by a chromosome in the egg cell; Sea turtle → by the warmth of the nest. *Why:* Living beings settle this in different ways. In humans it is the sperm cell, in birds the egg cell, and in sea turtles the temperature.
 9. (mcq) Why is a hen's egg cell so much bigger than a human egg cell?  
-   Options: All the chick's food must be packed inside / Hens are bigger than humans / A hen's cells are always larger  
+   Options: Hens are bigger than humans / All the chick's food must be packed inside / A hen's cells are always larger  
    **Answer:** All the chick's food must be packed inside. *Why:* A chick grows outside the mother, so the egg holds all the food. A human embryo is fed through the placenta.
 10. (write) A due date is 40 weeks after the last period began. Why has the baby been growing for only about 38 weeks?  
    **Answer:** Ovulation and fertilisation happen about two weeks after a period begins. So the count of 40 weeks starts about two weeks before the baby began.. *Why:* A strong answer says that doctors count from the last period because that day is known, and fertilisation comes about two weeks later.
@@ -656,7 +656,7 @@ Each of them began the way Miriam first saw it. Two cells that were given enough
    Options: Half of the instructions / All of the instructions / The food for the first week  
    **Answer:** Half of the instructions. *Why:* The sperm cell brings 23 chromosomes, which is half. The egg cell brings the other half and the food store.
 2. (mcq) Where does a woman's body keep egg cells?  
-   Options: In the ovaries / In the womb / In the egg tubes  
+   Options: In the womb / In the egg tubes / In the ovaries  
    **Answer:** In the ovaries. *Why:* Egg cells are kept and ripened in the two ovaries. The womb is where a baby grows.
 3. (mcq) What does a zygote have that neither sex cell had alone?  
    Options: A full set of 46 chromosomes / A tail for swimming / A placenta  
@@ -665,28 +665,28 @@ Each of them began the way Miriam first saw it. Two cells that were given enough
    Options: In an egg tube / In the womb / In the vagina  
    **Answer:** In an egg tube. *Why:* They meet in an egg tube. The embryo reaches the womb about five days later.
 5. (mcq) About when does the embryo attach to the lining of the womb?  
-   Options: About 8 to 10 days after ovulation / Within one hour / After three months  
+   Options: Within one hour / After three months / About 8 to 10 days after ovulation  
    **Answer:** About 8 to 10 days after ovulation. *Why:* The embryo floats free for about a week and then attaches. This is implantation.
 6. (mcq) Each traveller has only a small chance of arriving. What makes it likely that one arrives?  
-   Options: Many of them starting / One very strong one / Starting earlier in the day  
+   Options: One very strong one / Starting earlier in the day / Many of them starting  
    **Answer:** Many of them starting. *Why:* In the Two Gates Test a bean usually arrived only when many started. More starters means more chances.
 7. (mcq) Which cell settles whether the zygote is XX or XY?  
    Options: The sperm cell / The egg cell / Neither. It is settled at birth  
    **Answer:** The sperm cell. *Why:* Every egg cell carries an X. The sperm cell carries an X or a Y.
 8. (mcq) What starts the changes of puberty?  
-   Options: Hormone messages from a gland under the brain / Eating more food / Reaching the age of thirteen  
+   Options: Eating more food / Reaching the age of thirteen / Hormone messages from a gland under the brain  
    **Answer:** Hormone messages from a gland under the brain. *Why:* A small gland under the brain sends hormones to the ovaries or testes. The age differs from child to child.
 9. (mcq) If no embryo arrives in a month, what happens to the womb's lining?  
-   Options: It comes away as a period / It stays for the next month / It turns into an egg cell  
+   Options: It stays for the next month / It turns into an egg cell / It comes away as a period  
    **Answer:** It comes away as a period. *Why:* The lining is not needed, so it comes away and leaves as a period. Then a new lining is built.
 10. (mcq) What is the same about a child born after IVF and every other child?  
-   Options: Both began from an egg cell and a sperm cell / Both began in a glass dish / Nothing is the same  
+   Options: Both began in a glass dish / Nothing is the same / Both began from an egg cell and a sperm cell  
    **Answer:** Both began from an egg cell and a sperm cell. *Why:* Every person begins from one egg cell and one sperm cell. In IVF the two cells meet in a dish.
 11. (mcq) Who are an adopted child's parents?  
    Options: The people who raise the child / Only the birth parents / Nobody  
    **Answer:** The people who raise the child. *Why:* Adoption makes the people who raise a child their parents, by law and for life. Birth parents are part of the child's story too.
 12. (mcq) Why can scientists only estimate how many embryos are lost before they attach?  
-   Options: Nobody can see it happen inside a body / Nobody has tried to find out / It happens only in other animals  
+   Options: Nobody has tried to find out / Nobody can see it happen inside a body / It happens only in other animals  
    **Answer:** Nobody can see it happen inside a body. *Why:* The embryo is tiny and hidden, and the woman usually does not know. So the number is worked out from other measurements.
 
 ## Applications
@@ -700,9 +700,9 @@ Each of them began the way Miriam first saw it. Two cells that were given enough
 
 ## Spotted around us
 - A board at a scan centre in any Indian town saying that telling the sex of a baby before birth is against the law.
-- A hibiscus flower on a balcony in Chennai or Kochi. The yellow dust is pollen, which carries the plant's sperm cells. The egg cells are in the green base.
+- A hibiscus flower on a balcony. The yellow dust is pollen, which carries the plant's sperm cells. The egg cells are in the green base.
 - The yolk of a hen's egg in the kitchen. A yolk begins as one egg cell, swollen with food. Eggs sold in shops are almost always unfertilised.
-- Twins in your school or street. Kodinhi village in Malappuram, Kerala, has hundreds of pairs, and nobody knows why.
+- Twins in your school or street. Look for how alike they are, and how they are different.
 - The words 'expected date of delivery' on a mother and child card from a government health centre.
 - Clumps of frog eggs in clear jelly in a monsoon puddle. In frogs the sperm cells and egg cells join outside the body, in the water.
 - A pregnant woman standing at a bus stop with one hand on her lower back, leaning back a little to balance the weight in front.
@@ -750,7 +750,7 @@ This Body Is a Universe (sci.body.L5): Topic-level song
 
 ## Links
 - [The Embryo Project Encyclopedia (Arizona State University)](https://embryo.asu.edu) · interactive: For the parent: short, careful articles on the history of this science, including Miriam Menkin, Nettie Stevens and the first IVF births.
-- [Miriam Menkin (Wikipedia)](https://en.wikipedia.org/wiki/Miriam_Menkin) · interactive: For the parent: the life of the woman in this unit's story, and her 1944 experiment.
+- [Miriam Menkin (Wikipedia)](https://en.wikipedia.org/wiki/Miriam_Menkin) · interactive: For the parent: the life of the woman in this lesson's story, and her 1944 experiment.
 - [Subhash Mukhopadhyay (Wikipedia)](https://en.wikipedia.org/wiki/Subhash_Mukhopadhyay_(physician)) · interactive: For the parent: the doctor in Kolkata whose IVF work in 1978 was not believed in his lifetime.
 - [Menstrupedia](https://www.menstrupedia.com) · interactive: An Indian guide to periods, with a comic book made for girls of 9 and older. A parent should look at it first.
 - [The Endowment for Human Development](https://www.ehd.org) · interactive: For the parent: pictures and a week-by-week account of how a human embryo develops.
@@ -761,6 +761,11 @@ This Body Is a Universe (sci.body.L5): Topic-level song
 ## Things to buy
 - [A small magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): For looking closely at a grain of salt. It is useful but not needed. Used in a1. 
 - [A Ludo or snakes and ladders set with a die](https://www.amazon.in/s?k=ludo+snakes+and+ladders+board) (game): For the die. Most homes have one. Six numbered paper chits in a tumbler work as well. Used in e1, g1. Use the die for the Two Gates Test and for the board game The First Week.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Two Gates Test: if one sperm cell is enough, why do millions start?, The Due Date Survey: does a baby arrive on the day the doctor says?, A Salt Grain and a Steel Plate: how small was your start?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, a1, a2, a5, c1. Get it before The Two Gates Test: if one sperm cell is enough, why do millions start?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Ask, Respect, Tell: body rules and a question box. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in a6. Get it before Ask, Respect, Tell: body rules and a question box.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Two Gates Test: if one sperm cell is enough, why do millions start?, Three Bowls: where were you when your grandmother was pregnant?, Move the Egg: carry a seed along a tube without touching the seed. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1, a3, c1, c2. Get it before The Two Gates Test: if one sperm cell is enough, why do millions start?.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in The Due Date Survey: does a baby arrive on the day the doctor says?. About ₹10 to ₹30. Draw squares on plain paper. Used in e2. Get it before The Due Date Survey: does a baby arrive on the day the doctor says?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Which two cells join to begin a new person? → One egg cell and one sperm cell.
@@ -778,11 +783,11 @@ This Body Is a Universe (sci.body.L5): Topic-level song
 - Core: a1, e1, a3, g1, a2, ws-core
 
 ## Sources
-- Founder's notes in ideas/by_topic/growing-up-and-having-young.md, 'Concept activities: Human reproduction and development'. The parent explainer (egg and sperm join to begin a pregnancy, many families form through adoption, surrogacy or fostering, teaching privacy, consent and respect) set the scope and tone of this unit.
+- Founder's notes in ideas/by_topic/growing-up-and-having-young.md, 'Concept activities: Human reproduction and development'. The parent explainer (egg and sperm join to begin a pregnancy, many families form through adoption, surrogacy or fostering, teaching privacy, consent and respect) set the scope and tone of this lesson.
 - From the same notes: 'Family Tree (inclusive)' became the Family Map. 'Consent Poster: Ask, Respect, Tell', 'Consent Charades' and 'My Body, My Rules' became Ask, Respect, Tell. 'Family Story Book: co-author an origin story' became the project. 'Lifecycle Wheel spinner' became the Cycle Wheel. 'Matching Pairs: cards of stages' shaped the board game The First Week. The parent scripts ('proper names', 'different families grow in different ways, all are real families') are used in the parent notes.
-- The curriculum entry for this unit (notebook items bio:13 and bio:18): human reproduction and development in age-appropriate words, egg and sperm, families of many kinds.
-- sci.body.how-babies-grow.L3 and L4, which this unit builds on. Level 3 covers the womb, placenta, cord and birth. Level 4 covers genes, signals between cells and growth. None of their experiments is repeated. This unit adds where sex cells are made, the journey and fertilisation, the first week, XX and XY, puberty and periods, IVF, and families.
-- Other units were checked for overlap. Coin babies and the sibling shuffle are in sci.evolution.inheritance.L5, meiosis is in sci.what-is-life.cells-divide.L5, and counting empty places in pea pods is in sci.seeds-and-life-cycles.pollination.L5. So this unit's investigation is the Two Gates Test, and those ideas are only recalled briefly.
+- The curriculum entry for this lesson (notebook items bio:13 and bio:18): human reproduction and development in age-appropriate words, egg and sperm, families of many kinds.
+- sci.body.how-babies-grow.L3 and L4, which this lesson builds on. Level 3 covers the womb, placenta, cord and birth. Level 4 covers genes, signals between cells and growth. None of their experiments is repeated. This lesson adds where sex cells are made, the journey and fertilisation, the first week, XX and XY, puberty and periods, IVF, and families.
+- Other units were checked for overlap. Coin babies and the sibling shuffle are in sci.evolution.inheritance.L5, meiosis is in sci.what-is-life.cells-divide.L5, and counting empty places in pea pods is in sci.seeds-and-life-cycles.pollination.L5. So this lesson's investigation is the Two Gates Test, and those ideas are only recalled briefly.
 - The Combined lessons sci-C1 and sci-C2 'growing-up-and-having-young' were read. They cover growth and life cycles at Class 1 and 2 level and were not reused.
 - Rock J., Menkin M.F. (1944). In vitro fertilization and cleavage of human ovarian eggs. Science, 4 August 1944.
 - Wilcox A.J., Baird D.D., Weinberg C.R. (1999). Time of implantation of the conceptus and loss of pregnancy. New England Journal of Medicine. (Implantation 6 to 12 days after ovulation, mostly 8 to 10.)

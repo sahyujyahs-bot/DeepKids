@@ -223,7 +223,7 @@
    "concept": "Why people cook",
    "status": "defined",
    "definition": "Cooking is heating food so that it changes for good. It makes food softer, safer and easier to digest.",
-   "description": "Cooking is the oldest chemistry that people do. It does three useful things, and all three are irreversible. It softens food. Swollen starch and loosened fibres are easier to chew. It makes food safer. The heat denatures the proteins of most harmful microbes, and these microbes die. Raw rajma holds a protein that makes people ill, and about half an hour of hard boiling changes that protein for good. It also lets the body take in more of the food. In one careful study, people's bodies took in about 91 parts in 100 of the protein from cooked egg. From raw egg they took in only about 51 parts in 100. Cooking has a cost too. Heat destroys part of the vitamin C in vegetables, which is one reason to eat some fruit and salad raw. Cooks use reversible changes as well. They melt ghee, dissolve salt and boil off water.",
+   "description": "Cooking is the oldest chemistry that people do. It does three useful things, and all three are irreversible. It softens food. Swollen starch and loosened fibres are easier to chew. It makes food safer. The heat denatures the proteins of most harmful microbes, and these microbes die. Raw rajma holds a protein that makes people ill, and about half an hour of hard boiling changes that protein for good. It also lets the body take in more of the food. In one careful study, people's bodies took in about 91 parts in 100 of the protein from cooked egg. From raw egg they took in only about 51 parts in 100. Cooking has a cost too. Heat destroys part of the vitamin C in vegetables, which is one reason to eat some fruit and salad raw. Cooks use reversible changes as well. They melt ghee, dissolve salt and boil off water. People cook in many ways: steaming, boiling, frying, roasting, grilling and baking. Some food, such as a cucumber salad, is eaten raw, with no cooking at all.",
    "examples": [
     "Raw rice is too hard to chew, and cooked rice is soft.",
     "Milk is boiled in most Indian homes to kill microbes before it is drunk.",
@@ -236,7 +236,7 @@
    "concept": "Both kinds of change in living bodies, on the Earth and in the stars",
    "status": "defined",
    "definition": "Reversible changes let the same substance be used again and again. Irreversible changes happen once.",
-   "description": "Your blood carries oxygen by a reversible change. A protein in red blood cells holds oxygen in the lungs and lets it go in the muscles. Each red blood cell makes this round trip about once a minute. Growing is different. A sprouted seed cannot go back to being a seed, and your body will not be a baby's body again. The Earth also runs on both kinds. The same water has been cloud, rain, river and sea many times, because evaporating and condensing leave water unchanged. Rock melts deep underground and sets again as new rock. People copy these cycles. Glass, steel and aluminium can be melted and shaped again and again, which is why they are worth collecting. A phone battery holds a chemical change that charging pushes backwards. The Sun runs on a change that goes one way. Every second it joins hydrogen into helium, and it cannot turn the helium back.",
+   "description": "Your blood carries oxygen by a reversible change. A protein in red blood cells holds oxygen in the lungs and lets it go in the muscles. Each red blood cell makes this round trip about once a minute. Growing is different. A sprouted seed cannot go back to being a seed, and your body will not be a baby's body again. The Earth also runs on both kinds. The same water has been cloud, rain, river and sea many times, because evaporating and condensing leave water unchanged. Rock melts deep underground and sets again as new rock. People copy these cycles. Glass, steel and aluminium can be melted and shaped again and again, which is why they are worth collecting. A phone battery holds a chemical change that charging pushes backwards. The Sun runs on a change that goes one way. Every second it joins hydrogen into helium, and it cannot turn the helium back. Changes also differ in speed. Toast browns in a few minutes. Many trees lose their leaves once a year. A child grows over many years.",
    "examples": [
     "Water goes round as vapour, cloud, rain and river without being used up.",
     "A steel tumbler can be melted down and made into a new one.",
@@ -611,11 +611,11 @@
       "t": "mcq",
       "q": "Which of these has no way back, although no new substance is made?",
       "options": [
-       "Grinding wheat into atta",
        "Burning a matchstick",
+       "Grinding wheat into atta",
        "Melting candle wax"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Atta is still wheat, but the powder cannot be joined into grains. Burning makes new substances. Melted wax sets again when it cools."
      },
      "context": "This is the last step of The Way Back. You sort the change cards into three piles and compare them."
@@ -789,11 +789,11 @@
       "t": "mcq",
       "q": "A cook melts butter and then heats it into ghee. Up to which step can the cook still go back?",
       "options": [
-       "Up to the melted butter",
        "Up to the ghee",
-       "At every step"
+       "At every step",
+       "Up to the melted butter"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Melted butter sets again when it cools. Once strong heat has boiled off the water and browned the milk solids, it is ghee and stays ghee."
      },
      "parent": "The coins belong after these cards: soaked rice and urad dal, hot milk, cream, sugar syrup and sun-dried papad.",
@@ -958,11 +958,11 @@
       "t": "mcq",
       "q": "Why does each glass get exactly one level tablespoon of flour?",
       "options": [
-       "So that only the heating differs",
        "So that the flour is not wasted",
+       "So that only the heating differs",
        "So that glass B gets hot faster"
       ],
-      "a": 0,
+      "a": 1,
       "why": "In a fair test only one thing differs. Here it is the heating. If glass B had more flour, you could not tell whether the heat or the extra flour made it thick."
      },
      "parent": "The change is sudden. The thin milky liquid turns thick and slightly see-through within a few seconds. Keep stirring so that it does not stick. Let your child watch from a safe distance.",
@@ -1182,11 +1182,11 @@
       "t": "mcq",
       "q": "Why is one square of bread kept off the tawa?",
       "options": [
-       "To compare the toasted squares with it",
        "To eat it afterwards",
-       "To keep the tawa from being too full"
+       "To keep the tawa from being too full",
+       "To compare the toasted squares with it"
       ],
-      "a": 0,
+      "a": 2,
       "why": "You can only tell how much a square has changed by putting it beside one that was never heated. The square marked 0 shows what 'going back' would have to look like."
      },
      "context": "In this step of The Toast Ladder you score the colour and the feel of each square, straight after toasting."
@@ -1751,12 +1751,12 @@
      "t": "mcq",
      "p": "What is a reversible change?",
      "opts": [
-      "A change that can be undone",
       "A change that makes a new substance",
+      "A change that can be undone",
       "A change that needs a stove",
       "A change that happens fast"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A reversible change can be undone, and you have the same substance again. A change that makes a new substance usually has no way back.",
      "outcome": 1
     },
@@ -1764,12 +1764,12 @@
      "t": "mcq",
      "p": "Which of these changes is irreversible?",
      "opts": [
-      "Toasting bread",
       "Melting ghee",
+      "Toasting bread",
       "Freezing water",
       "Folding paper"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Toasting makes new brown substances that stay. Melted ghee sets, ice melts and folded paper unfolds.",
      "outcome": 2
     },
@@ -1857,12 +1857,12 @@
      "t": "mcq",
      "p": "Raw flour is stirred into cold water and left to stand. What happens?",
      "opts": [
-      "Most of it settles to the bottom",
       "It turns into a thick paste",
+      "Most of it settles to the bottom",
       "It dissolves and cannot be seen",
       "It turns brown"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Raw starch grains do not dissolve or swell in cold water. They hang in the water for a while and then sink. Flour turns to paste only when it is heated.",
      "outcome": 3
     },
@@ -1906,12 +1906,12 @@
      "t": "mcq",
      "p": "Why does boiled rice never turn brown in the pot?",
      "opts": [
-      "Boiling water is not hot enough",
       "Rice has nothing in it to brown",
+      "Boiling water is not hot enough",
       "The lid keeps the light out",
       "The water washes the brown away"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Browning needs a dry surface hotter than about 140 degrees Celsius. Boiling water stays at 100 degrees Celsius. Rice does brown when it is roasted in a dry pan.",
      "outcome": 4
     },
@@ -1919,12 +1919,12 @@
      "t": "mcq",
      "p": "Wet cement becomes a hard floor. What kind of change is this?",
      "opts": [
-      "Irreversible: cement reacts with the water",
       "Reversible: the cement only dries",
       "Reversible: the cement freezes",
+      "Irreversible: cement reacts with the water",
       "No change at all"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Cement reacts with water and grows tiny crystals. Rain softens dried mud again, and rain does not soften set cement.",
      "outcome": 2
     },
@@ -1952,6 +1952,15 @@
      "why": "A strong drawing keeps the same number of threads in both pictures. Nothing is added or broken. Only the folding and the joining change.",
      "art": "Two empty circles side by side, labelled Raw and Cooked.",
      "outcome": 3
+    },
+    {
+     "t": "fill",
+     "p": "Cooking food in a little hot oil in a pan is called ____.",
+     "a": [
+      "frying",
+      "fry"
+     ],
+     "why": "Frying uses hot oil. Steaming uses hot steam, boiling uses water at its boiling point, and roasting and baking use dry heat. Each one changes the food for good."
     }
    ]
   },
@@ -1965,12 +1974,12 @@
      "t": "mcq",
      "p": "Tearing paper makes no new substance. Why does it still not go back?",
      "opts": [
-      "The torn fibres cannot be rejoined",
       "The paper turns into ash",
       "The paper dissolves in the air",
+      "The torn fibres cannot be rejoined",
       "Torn paper is a new substance"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Paper is a mat of tiny plant fibres. Tearing pulls them apart, and nothing puts each fibre back in its old place. The pieces are still paper.",
      "outcome": 6
     },
@@ -1991,12 +2000,12 @@
      "t": "mcq",
      "p": "A careful cook adds salt a pinch at a time. Why?",
      "opts": [
-      "Extra salt cannot be taken out again",
       "Salt melts slowly",
       "Salt costs a lot",
-      "Salt burns quickly"
+      "Salt burns quickly",
+      "Extra salt cannot be taken out again"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Salt dissolves into the whole dish, and no cook can pick it out. Too little salt can be fixed by adding more. Too much cannot be fixed.",
      "outcome": 0
     },
@@ -2017,12 +2026,12 @@
      "t": "mcq",
      "p": "Raw rajma can make people ill. Why is well-boiled rajma safe?",
      "opts": [
-      "Heat changes the harmful protein for good",
       "Water washes the beans clean",
       "Boiling adds vitamins",
+      "Heat changes the harmful protein for good",
       "The skins fall off"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Raw rajma holds a protein that upsets the gut. About half an hour of hard boiling denatures it, and it stays changed after the beans cool.",
      "outcome": 7
     },
@@ -2164,6 +2173,35 @@
      "a": "Any view with a reason from the unit. One reason is that melting steel is reversible, so steel can be used without end. Another is that a fired clay cup can never be clay again.",
      "why": "Each view has something right in it. A strong answer says which changes go back and which do not. It takes the costs of water, fuel and waste seriously.",
      "outcome": 7
+    },
+    {
+     "t": "sort",
+     "p": "Sort these changes by how long they take.",
+     "cats": [
+      "In minutes",
+      "Once a year",
+      "Over many years"
+     ],
+     "items": [
+      [
+       "toast browning on a tawa",
+       "In minutes"
+      ],
+      [
+       "an egg going hard in boiling water",
+       "In minutes"
+      ],
+      [
+       "leaves falling from a tree",
+       "Once a year"
+      ],
+      [
+       "a child growing taller",
+       "Over many years"
+      ]
+     ],
+     "a": "see items",
+     "why": "Toast and eggs change in minutes. Leaves fall once a year. A child grows over many years. Speed does not decide whether a change can be undone: a boiled egg sets fast and still cannot go back."
     }
    ]
   },
@@ -2203,12 +2241,12 @@
      "t": "mcq",
      "p": "Which test best shows whether a colour change is reversible?",
      "opts": [
-      "Try a way back and compare",
       "See how dark the colour is",
+      "Try a way back and compare",
       "Smell the new colour",
       "Wait for one minute"
      ],
-     "a": 0,
+     "a": 1,
      "why": "How a change looks does not tell you whether it goes back. You have to try a way back and compare the result with what you started with.",
      "outcome": 5
     },
@@ -2216,12 +2254,12 @@
      "t": "mcq",
      "p": "Masons keep a new concrete roof wet for many days. Why?",
      "opts": [
-      "Cement needs water to react and harden",
       "Wet concrete dries faster",
       "Water makes the roof lighter",
+      "Cement needs water to react and harden",
       "Water stops the roof from melting"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Cement hardens by a chemical change with water. If the concrete dries too soon, the change stops early and the roof is weaker.",
      "outcome": 7
     },
@@ -2365,12 +2403,12 @@
    "t": "mcq",
    "p": "Sand is stirred into water. What is the way back?",
    "opts": [
-    "Let it settle, then pour off the water",
     "Freeze the water",
     "Heat it until it browns",
-    "There is no way back"
+    "There is no way back",
+    "Let it settle, then pour off the water"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Sand does not dissolve. It sinks, and the water can be poured off or strained through a cloth.",
    "outcome": 0
   },
@@ -2378,12 +2416,12 @@
    "t": "mcq",
    "p": "In a reversible change, what stays the same?",
    "opts": [
-    "The substance",
     "The shape",
     "The temperature",
+    "The substance",
     "The state"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Shape, temperature and state may all change. What stays is the substance: water is still water, and wax is still wax.",
    "outcome": 1
   },
@@ -2391,12 +2429,12 @@
    "t": "mcq",
    "p": "Steam turns to drops on a cold lid. What are the drops made of?",
    "opts": [
-    "Water, the same as before",
     "A new liquid",
     "Melted steel from the lid",
+    "Water, the same as before",
     "Air"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Condensing is a change of state. The water particles that left the pot as vapour have gathered again as liquid water.",
    "outcome": 1
   },
@@ -2430,12 +2468,12 @@
    "t": "mcq",
    "p": "Why does egg white turn from runny to solid when it is heated?",
    "opts": [
-    "Proteins unfold and join into a net",
     "The water in it freezes",
     "The shell presses on it",
-    "Air leaves the egg"
+    "Air leaves the egg",
+    "Proteins unfold and join into a net"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Heat shakes the folded protein chains open. The open chains stick to each other and hold the water still.",
    "outcome": 3
   },
@@ -2456,12 +2494,12 @@
    "t": "mcq",
    "p": "How can you find out whether a change is reversible?",
    "opts": [
-    "Try a way back and compare",
     "Ask whether heat was used",
     "See how fast it happened",
+    "Try a way back and compare",
     "Weigh the thing once"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Heat and speed are poor guides. Melting uses heat and goes back. You have to try a way back and compare with what you started with.",
    "outcome": 5
   },
@@ -2469,12 +2507,12 @@
    "t": "mcq",
    "p": "Wheat ground into atta is still wheat. Can the grinding be undone?",
    "opts": [
-    "No, the bits cannot be rejoined",
     "Yes, by cooling the atta",
+    "No, the bits cannot be rejoined",
     "Yes, by adding water",
     "Yes, by sieving the atta"
    ],
-   "a": 0,
+   "a": 1,
    "why": "No new substance was made, but nothing joins the powder into whole grains again. A physical change can be irreversible.",
    "outcome": 6
   },
@@ -2495,14 +2533,40 @@
    "t": "mcq",
    "p": "Why can an old steel tumbler be made into a new one?",
    "opts": [
-    "Melting steel is a reversible change",
     "Steel grows back by itself",
     "Rust turns into steel in the sun",
+    "Melting steel is a reversible change",
     "Steel never changes at all"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Steel melts in a furnace and sets again as steel. Because this change goes back, steel can be used again and again.",
    "outcome": 7
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these foods is usually eaten with no cooking at all?",
+   "opts": [
+    "Boiled rice",
+    "Fried puri",
+    "Roasted peanuts",
+    "A cucumber salad"
+   ],
+   "a": 3,
+   "why": "A cucumber salad is cut and eaten raw. Rice is boiled, puri is fried, and peanuts are roasted, so all three are cooked.",
+   "outcome": 7
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these changes happens in a few minutes?",
+   "opts": [
+    "A child growing taller",
+    "Many trees losing their leaves",
+    "A seed becoming a big tree",
+    "Toast browning on a tawa"
+   ],
+   "a": 3,
+   "why": "Toast browns in a few minutes. Many trees lose their leaves once a year. A child grows over many years. A seed becoming a big tree takes many years too. Speed does not decide if a change can go back.",
+   "outcome": 0
   }
  ],
  "videos": [
@@ -2769,6 +2833,44 @@
     "e2"
    ],
    "plan": "After The Toast Ladder, a parent can read aloud a page from the part on bread and browning."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Cold Stir, Hot Stir: can the flour come back?, Soak, Dry, Sprout: which change can a chana seed undo?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "p1"
+   ],
+   "plan": "Get it before Cold Stir, Hot Stir: can the flour come back?."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in Soak, Dry, Sprout: which change can a chana seed undo?. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before Soak, Dry, Sprout: which change can a chana seed undo?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

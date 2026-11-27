@@ -1,9 +1,9 @@
 # Cause and effect: how one push knocks down a whole line
 `sci.order-chaos.cause-and-effect.L2`
 
-**Summary.** You push only the first domino in a line, yet the last one falls. How does your push get all the way along? In this unit you will build domino lines and test how far apart they can stand, push a chain of coins, and play detective to find what caused things.
+**Summary.** You push only the first domino in a line, yet the last one falls. How does your push get all the way along? In this lesson you will build domino lines and test how far apart they can stand, push a chain of coins, and play detective to find what caused things.
 
-**Intro.** *Stand five books, matchboxes or dominoes on their ends in a row, a little apart. Push only the first one. What happens to the last one? You did not touch it. So what made it fall?* Things around us happen because of something. A push makes a domino fall. Rain makes a puddle. Heat makes ice melt. In this unit you test how far apart dominoes can be and still knock each other down. You send a push through a line of coins and watch only the last coin move. You also find out how people learned that flies come from eggs, and not from rotting meat.
+**Intro.** *Stand five books, matchboxes or dominoes on their ends in a row, a little apart. Push only the first one. What happens to the last one? You did not touch it. So what made it fall?* Things around us happen because of something. A push makes a domino fall. Rain makes a puddle. Heat makes ice melt. In this lesson you test how far apart dominoes can be and still knock each other down. You send a push through a line of coins and watch only the last coin move. You also find out how people learned that flies come from eggs, and not from rotting meat.
 
 ## Learning outcomes
 0. By the end I can say what a cause and an effect are, and give examples from my home.
@@ -438,7 +438,7 @@ Meenu looked down at the road below. A gust of wind was shaking the coconut tree
 3. (draw) Draw a plan for a machine where one push starts four causes in a row, and the last one rings a steel bowl. Put an arrow from each cause to its effect.  
    **Answer:** A drawing with at least four parts, such as dominoes, a ruler see-saw, a rolling marble and a steel bowl, each joined by an arrow.. *Why:* A strong plan has every link able to reach the next one. Each arrow shows which thing makes the next one happen.
 4. (mcq) In 1668, Francesco Redi put meat in jars. Some were open and some were covered with fine cloth. What grew on the covered meat?  
-   Options: Lots of maggots / No maggots / Small flies with no eggs  
+   Options: Lots of maggots / Small flies with no eggs / No maggots  
    **Answer:** No maggots. *Why:* Flies could not reach the covered meat, so no maggots grew on it. This showed that maggots come from fly eggs, not from the meat itself.
 5. (order) Put the ant message chain in order.  
    **Answer:** [0, 1, 2, 3]. *Why:* The sugar comes first. The first ant's find, and her smell trail, cause many other ants to come.
@@ -461,7 +461,7 @@ Meenu looked down at the road below. A gust of wind was shaking the coconut tree
 
 ## Quiz
 1. (mcq) What is a cause?  
-   Options: What makes something happen / What happens at the end / Something very small  
+   Options: What happens at the end / Something very small / What makes something happen  
    **Answer:** What makes something happen. *Why:* A cause makes something happen. The effect is what happens because of it.
 2. (mcq) You switch on the fan, and the curtain moves. What is the effect?  
    Options: Switching on the fan / The curtain moving / The fan's switch  
@@ -473,7 +473,7 @@ Meenu looked down at the road below. A gust of wind was shaking the coconut tree
    Options: The first domino / The domino just before it / Nobody knows  
    **Answer:** The domino just before it. *Why:* Each domino is knocked over by its neighbour. The first one starts the chain, but it never touches the last one.
 5. (mcq) A domino in the middle of the line is taken away. What happens when you push the first one?  
-   Options: The whole line still falls / The dominoes fall up to the gap, and then the chain stops / None of them fall  
+   Options: The dominoes fall up to the gap, and then the chain stops / The whole line still falls / None of them fall  
    **Answer:** The dominoes fall up to the gap, and then the chain stops. *Why:* The domino before the gap has nothing to hit. A chain of causes stops where a link is missing.
 6. (mcq) Why can a gap be too wide for a domino chain?  
    Options: The falling domino cannot reach the next one high enough to tip it / Dominoes get tired / The floor stops the push  
@@ -482,7 +482,7 @@ Meenu looked down at the road below. A gust of wind was shaking the coconut tree
    Options: They fly off in all directions / They hardly move, but pass the push on / They all move together  
    **Answer:** They hardly move, but pass the push on. *Why:* The middle coins pass the push to the next coin and stay almost still. Only the last coin slides away.
 8. (mcq) Two coins slide together into a line of touching coins. What usually happens at the far end?  
-   Options: One coin slides away / Two coins slide away / No coins move  
+   Options: Two coins slide away / One coin slides away / No coins move  
    **Answer:** Two coins slide away. *Why:* Usually the same number of coins leaves the far end as came in. Two in, two out.
 9. (mcq) Dry chana are put in water at night. When can we see the effect?  
    Options: At once / By the next morning / Never  
@@ -491,7 +491,7 @@ Meenu looked down at the road below. A gust of wind was shaking the coconut tree
    Options: A clang from a dropped spoon / A mango tree growing from a seed / A curtain moving in the fan's wind  
    **Answer:** A mango tree growing from a seed. *Why:* A seed takes years to grow into a tree. The clang and the moving curtain happen in a moment.
 11. (mcq) Every morning a rooster crows, and then the Sun rises. What is true?  
-   Options: The rooster makes the Sun rise / The rooster crows because morning is coming / The Sun makes the rooster quiet  
+   Options: The rooster makes the Sun rise / The Sun makes the rooster quiet / The rooster crows because morning is coming  
    **Answer:** The rooster crows because morning is coming. *Why:* The Sun rises even when the rooster is quiet. Coming first does not make something the cause.
 12. (mcq) Long ago, many people thought maggots grew by themselves out of rotting meat. Meat is put in two jars. One jar is open. The other is covered with fine cloth, so flies cannot get in. Maggots grow only in the open jar. What does this show?  
    Options: Maggots come from eggs that flies lay / Meat turns into maggots when it gets old / Cloth makes maggots  
@@ -505,9 +505,9 @@ Meenu looked down at the road below. A gust of wind was shaking the coconut tree
 - Farmers know that what they do now, such as adding compost to the soil, has effects on the crop months later.
 
 ## Spotted around us
-- Traffic on a busy road in Bengaluru or Kolkata: when the front car stops, each car behind it stops one after another, like dominoes.
+- Traffic on a busy road: when the front car stops, each car behind it stops one after another, like dominoes.
 - A carrom board: the striker hits one coin, which hits another, which goes into the pocket. A chain of causes in one shot.
-- The monsoon reaching Kerala in early June: warm sea, then winds, then clouds, then rain, then full rivers and green fields.
+- The monsoon arriving in early June: warm sea, then winds, then clouds, then rain, then full rivers and green fields.
 - A line of ants on the kitchen wall, following a smell trail one ant left on the way back from food.
 - Soaking rice and urad dal for idli and dosa batter in the evening, so it is ready to grind the next day.
 
@@ -544,12 +544,18 @@ Meenu looked down at the road below. A gust of wind was shaking the coconut tree
 Never the Same Way Twice (sci.order-chaos.L2): Topic-level song for Order, chaos and chance L2
 
 ## Links
-- [Birla Industrial and Technological Museum]() · place · Kolkata: A science museum with hands-on displays about motion, machines and energy, where you can see how one part moves the next.
-- [Nehru Science Centre]() · place · Mumbai: A large science centre with a park of hands-on science displays about pushes, pulls and motion.
-- [Regional Science Centre and Planetarium]() · place · Kozhikode: A science centre in Kerala with hands-on displays about forces and how things move.
+- Birla Industrial and Technological Museum · place · Kolkata: A science museum with hands-on displays about motion, machines and energy, where you can see how one part moves the next.
+- Nehru Science Centre · place · Mumbai: A large science centre with a park of hands-on science displays about pushes, pulls and motion.
+- Regional Science Centre and Planetarium · place · Kozhikode: A science centre in Kerala with hands-on displays about forces and how things move.
 
 ## Things to buy
 - [A set of wooden or plastic dominoes, about 28 pieces](https://www.amazon.in/s?k=dominoes+set) (game): Dominoes stand well and fall evenly, so the gap test gives a clear result. Empty matchboxes or wooden blocks of the same size work too, so buy this only if you have neither. Used in e1, c1. Used in the domino gap test and the Chain Reaction Machine. Afterwards, dominoes can be played as a number-matching game, which joins the maths plan for adding small numbers.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Coin Chain: which coin moves?, Tonight's Cause, Tomorrow's Effect: soaking chana, The Chain Reaction Machine: ring a bell with one push. About ₹10 to ₹30. Any school ruler is fine. Used in e2, p1, c1. Get it before The Coin Chain: which coin moves?.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in Do It and See: six actions, six effects. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in a1. Get it before Do It and See: six actions, six effects.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Chain Reaction Machine: ring a bell with one push. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before The Chain Reaction Machine: ring a bell with one push.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Tonight's Cause, Tomorrow's Effect: soaking chana. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in p1. Get it before Tonight's Cause, Tomorrow's Effect: soaking chana.
+- [Marbles (a few)](https://www.amazon.in/s?k=glass+marbles+pack) (material): Used in The Chain Reaction Machine: ring a bell with one push. About ₹10 to ₹40. Small round stones or dried chana. Used in c1. Get it before The Chain Reaction Machine: ring a bell with one push.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What do we call what makes something happen? → The cause.

@@ -1,9 +1,9 @@
 # Keeping clean: washing hands, bathing and brushing teeth
 `sci.health.hygiene.L1`
 
-**Summary.** After a biscuit and a swish of water, your front teeth look clean, but are crumbs still hiding? In this unit you will test what a rinse and a brush clean, learn a six-part hand wash with a song, and check your tongue in the morning.
+**Summary.** After a biscuit and a swish of water, your front teeth look clean, but are crumbs still hiding? In this lesson you will test what a rinse and a brush clean, learn a six-part hand wash with a song, and check your tongue in the morning.
 
-**Intro.** *Open your mouth wide in front of a mirror, and shine a torch inside. Look at the tops of your back teeth. Are they flat and smooth, or do they have little hills and grooves?* Your front teeth are thin and smooth. Your back teeth are wide, with bumps and grooves on top. The grooves help you grind food. They are also where food likes to hide. In this unit we find out where food and dirt stay on our bodies, and what takes them away. We test water, soap, a bath and a toothbrush.
+**Intro.** *Open your mouth wide in front of a mirror, and shine a torch inside. Look at the tops of your back teeth. Are they flat and smooth, or do they have little hills and grooves?* Your front teeth are thin and smooth. Your back teeth are wide, with bumps and grooves on top. The grooves help you grind food. They are also where food likes to hide. In this lesson we find out where food and dirt stay on our bodies, and what takes them away. We test water, soap, a bath and a toothbrush.
 
 ## Learning outcomes
 0. By the end I can say when to wash my hands: before I eat, after the toilet, after playing and after blowing my nose.
@@ -43,6 +43,13 @@ All day, your skin makes sweat and a little oil. Dust from the air and the floor
 - e.g. In the white cloth test, the sole of a foot often left a grey mark before the bath, and almost none after it.
 - e.g. After playing in the sun, you may feel sticky and want a second bath.
 - e.g. Your skin feels sticky and salty after a hot game. That is dried sweat.
+### Clean clothes, washed and dried well · *defined*
+**Definition:** Clothes hold sweat, dust and dirt after we wear them. Washing takes them off, and drying clothes fully keeps them fresh.
+
+Sweat and dust soak into the shirt and the socks we wear all day. Wash them soon, not after many days, or the sweat smell gets stronger. Rub soap into the dirty parts, such as the collar and the cuffs. Rinse well, until the water runs clear. Wring out the water, and shake each piece out before you dry it. Dry clothes in the sun and fresh air. In the rains, dry them near a fan or in the sun between showers. Damp cloth can grow mould, so never fold clothes until they are fully dry.
+- e.g. A school uniform and socks go into the bucket soon after school, not at the end of the week.
+- e.g. A cotton kurta dries on a line on the balcony, in the sun and the breeze.
+- e.g. A wet towel left in a closed cupboard starts to smell stale in a few days.
 ### Are the tiny beings on us friends or enemies? · *debated*
 We often call all tiny living beings germs, as if they were all enemies. But most bacteria on your skin and in your mouth do you no harm. Many of them help you. Some keep harmful kinds away just by living in their place. Only a few kinds make us ill. So washing and brushing do not try to remove every tiny being. They keep the numbers small, and keep harmful kinds out of our mouths. Bacteria also send each other chemical signals. Scientists think these signals help them build a sticky layer like plaque.
 - e.g. Plaque grows back on your teeth every night. Brushing keeps it thin.
@@ -420,13 +427,13 @@ And every morning, before they brushed, they both ran their tongues over their t
   *Child mode:* Try your idea. Did it take two minutes? Did every part of your mouth get a turn?
 
 ## Worksheets
-### Clean hands, clean teeth (core, 10 questions)
+### Clean hands, clean teeth (core, 11 questions)
 1. (draw) In the Biscuit Test, you ate a biscuit and swished water round your mouth. Draw a back tooth. Draw where the crumbs stayed after the swish.  
    **Answer:** A wide tooth with grooves on top, and crumbs drawn inside the grooves.. *Why:* A strong drawing shows the grooves on top of the back tooth and puts the crumbs inside them, because that is where water did not reach.
 2. (sort) Colour the times to wash your hands green. Colour the other times yellow.  
    **Answer:** before eating → Wash your hands; after the toilet → Wash your hands; after blowing your nose → Wash your hands; listening to a song → No wash needed; after playing outside → Wash your hands; looking at the sky → No wash needed. *Why:* We wash before eating, after the toilet, after blowing our nose and after playing, because those are the times germs get on our hands or into our mouths. Listening and looking do not make hands dirty.
 3. (mcq) You have a new big tooth at the back, with little hills and valleys on top. After you eat puttu, where is the food most likely to hide?  
-   Options: In the grooves on top of the tooth / On the tip of your tongue / Behind your ear  
+   Options: On the tip of your tongue / Behind your ear / In the grooves on top of the tooth  
    **Answer:** In the grooves on top of the tooth. *Why:* A back tooth has little hills and valleys on top. Food hides in those valleys, which are called grooves.
 4. (order) Put the hand wash in order.  
    **Answer:** ['Wet your hands', 'Rub soap on every part', 'Rinse off the soap', 'Dry on a clean towel']. *Why:* First wet the hands so the soap can foam. Then rub every part. Then rinse the soap away with the dirt in it. Last, dry.
@@ -439,10 +446,12 @@ And every morning, before they brushed, they both ran their tongues over their t
 8. (write) Say it out loud, and a grown-up writes it: why do we wash our hands before we eat?  
    **Answer:** Because germs on our hands can go into our mouth with the food.. *Why:* A strong answer says that our hands carry germs, and that eating with our hands takes them to our mouth.
 9. (mcq) If you only brush your front teeth, what are you missing?  
-   Options: The back teeth, where food hides / Nothing, the front is enough / Only the tongue  
+   Options: Nothing, the front is enough / The back teeth, where food hides / Only the tongue  
    **Answer:** The back teeth, where food hides. *Why:* Food hides most in the grooves of the back teeth. Holes in children's teeth are found most often there. If you picked 'the front is enough', remember the Biscuit Test: after a swish of water, crumbs stayed in the grooves of the back teeth.
 10. (draw) Draw yourself having a bath. Draw what the water is washing off you.  
    **Answer:** A child pouring water or under a shower, with dust, sweat drops or tiny flakes washing off.. *Why:* A strong drawing shows the water carrying something away: sweat, dust, or tiny flakes of old skin.
+11. (order) Put the washing of a school shirt in order, from first to last.  
+   **Answer:** ['Put the shirt in soapy water', 'Rub soap on the dirty collar', 'Rinse until the water runs clear', 'Wring out the water', 'Hang the shirt in the sun to dry']. *Why:* Soak and rub first, so the soap can loosen the dirt. Rinse the soap away. Wring out the water, then dry in the sun.
 ### Tiny beings, fuzz and baths (stretch, 10 questions)
 1. (perspective) The first person, a girl of 7 in Hyderabad, and her uncle Imran are talking about brushing.  
    **Answer:** A strong answer picks a side and uses the biscuit test. For example: 'The first person, because water left crumbs in my back teeth, and the brush took them out.' Then it is fair to Uncle Imran: rinsing does wash the front teeth and helps a little.. *Why:* Both are partly right. Rinsing helps, especially after sweets. But in the biscuit test, only the brush cleaned the grooves of the back teeth.
@@ -472,35 +481,38 @@ And every morning, before they brushed, they both ran their tongues over their t
 
 ## Quiz
 1. (mcq) When should you wash your hands with soap?  
-   Options: Before eating and after the toilet / Only when they look dirty / Only once a day  
+   Options: Only when they look dirty / Before eating and after the toilet / Only once a day  
    **Answer:** Before eating and after the toilet. *Why:* Germs are too small to see, so hands can carry them even when they look clean. Before eating and after the toilet are the most important times.
 2. (mcq) How long should you rub soap on your hands?  
-   Options: About 20 seconds, like singing Happy Birthday twice / One second / Ten minutes  
+   Options: One second / Ten minutes / About 20 seconds, like singing Happy Birthday twice  
    **Answer:** About 20 seconds, like singing Happy Birthday twice. *Why:* About 20 seconds gives enough time to rub every part. One second misses most of the hand, and ten minutes is far more than needed.
 3. (mcq) In the biscuit test, where did the crumbs stay after the water rinse?  
-   Options: In the grooves of the back teeth / On the front teeth / On the tongue  
+   Options: On the front teeth / On the tongue / In the grooves of the back teeth  
    **Answer:** In the grooves of the back teeth. *Why:* Water runs over the top of the back teeth without reaching into the grooves. Only the bristles of a brush reach in.
 4. (mcq) Which of these should only you use?  
    Options: Your toothbrush / The bucket / The tap  
    **Answer:** Your toothbrush. *Why:* A toothbrush goes in your mouth and carries the tiny beings from your mouth. So everyone has their own.
 5. (mcq) How many times a day should you brush your teeth?  
-   Options: Twice: morning and night / Once a week / Only after sweets  
+   Options: Once a week / Only after sweets / Twice: morning and night  
    **Answer:** Twice: morning and night. *Why:* Plaque grows back all the time, so dentists say to brush twice a day, for about two minutes, morning and night.
 6. (mcq) What do the tiny living beings in your mouth eat?  
-   Options: Leftover food, especially sugar / Your teeth / Only toothpaste  
+   Options: Your teeth / Leftover food, especially sugar / Only toothpaste  
    **Answer:** Leftover food, especially sugar. *Why:* They eat leftover food on your teeth. As they eat sugar, they make an acid, and the acid can wear a hole in a tooth over time. They do not eat the tooth itself.
 7. (mcq) Most of the tiny living beings on your skin and in your mouth are...  
-   Options: Harmless or helpful / All dangerous / Not alive  
+   Options: All dangerous / Harmless or helpful / Not alive  
    **Answer:** Harmless or helpful. *Why:* Only a few kinds make us ill. Most live with us quietly, and some help keep harmful ones away.
 8. (mcq) Why do we take a bath?  
    Options: To wash off sweat, dust and old skin / To make our skin grow longer / Because water is warm  
    **Answer:** To wash off sweat, dust and old skin. *Why:* All day, sweat, oil and dust build up on the skin, and old skin flakes off. A bath washes them away.
 9. (mcq) In the white cloth test, the sole of a foot was wiped before a bath and after it. What did the cloths most often show?  
-   Options: The cloth from before the bath was greyer / Both cloths stayed white / The cloth from after the bath was greyer  
+   Options: Both cloths stayed white / The cloth from before the bath was greyer / The cloth from after the bath was greyer  
    **Answer:** The cloth from before the bath was greyer. *Why:* Before the bath, dust and sweat were on the skin, even when we could not see them. The bath washed them off.
 10. (mcq) Before the Biscuit Test, you might say: 'I think the water will wash all the crumbs away.' What is that?  
-   Options: A guess, to check with a test / The answer / A mistake  
+   Options: The answer / A mistake / A guess, to check with a test  
    **Answer:** A guess, to check with a test. *Why:* A guess made before a test is how scientists start. Then the test shows what really happens. A guess that turns out wrong is still a good guess.
+11. (mcq) Why must clothes be fully dry before you fold them and put them away?  
+   Options: Wet cloth is too heavy to fold / Folded cloth dries in the cupboard by itself / Damp cloth can grow mould and smell bad  
+   **Answer:** Damp cloth can grow mould and smell bad. *Why:* Mould grows in damp cloth. Wet clothes folded up stay damp, and they do not dry in the cupboard.
 
 ## Applications
 - Doctors and nurses wash their hands between every patient, so they do not carry germs from one person to the next.
@@ -512,7 +524,7 @@ And every morning, before they brushed, they both ran their tongues over their t
 - A wash basin near the door of many homes and restaurants, with a bar of soap beside it.
 - Neem and babool twigs for cleaning teeth, sold in bundles at some markets.
 - Crows and pigeons splashing in puddles or water dishes on hot days, then fluffing their feathers.
-- Temple elephants being given their bath in a river or a tank, in Kerala and Tamil Nadu.
+- Temple elephants being given their bath in a river or a tank.
 - Signs in school and hospital toilets that say to wash your hands.
 
 ## Open questions
@@ -550,9 +562,13 @@ Scrub, Rinse, Smile (sci.health.L1): Topic-level song for Health L1
 ## Links
 - [World Health Organization: hand hygiene](https://www.who.int/) · interactive: For the parent: search the site for 'hand hygiene' to see the official hand-washing steps, with pictures.
 - [Indian Dental Association](https://www.ida.org.in/) · interactive: For the parent: advice on children's teeth from India's dentists.
-- [Sulabh International Museum of Toilets]() · place · New Delhi: A museum about the history of toilets and keeping towns clean, from many countries and times.
+- Sulabh International Museum of Toilets · place · New Delhi: A museum about the history of toilets and keeping towns clean, from many countries and times.
 
 ## Things to buy
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in The Biscuit Test: what does a rinse clean, and what does a brush clean?. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in e1. Get it before The Biscuit Test: what does a rinse clean, and what does a brush clean?.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in The White Cloth Test: what does a bath wash off?. About ₹20 to ₹50. Torn clean cloth works. Used in e2. Get it before The White Cloth Test: what does a bath wash off?.
+- [Iron nails or iron filings](https://www.amazon.in/s?k=iron+filings+science) (material): Used in What Hides Under Your Nails?, Mine, Not Shared: my own clean-up kit. About ₹20 to ₹80. Short steel nails from a hardware shop. Used in a2, a4. Get it before What Hides Under Your Nails?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name one time you should wash your hands. → Before eating, after the toilet, after playing, or after blowing your nose.
@@ -568,9 +584,9 @@ Scrub, Rinse, Smile (sci.health.L1): Topic-level song for Health L1
 - Core: e1, a1, g1, e3, ws-core
 
 ## Sources
-- ideas/by_topic/health-hygiene-exercise-and-illness.md: the SCI Card for Ignaz Semmelweis. His story is kept for Class 3 (sci.health.hygiene.L3), so this unit tells the tooth-worm story instead.
+- ideas/by_topic/health-hygiene-exercise-and-illness.md: the SCI Card for Ignaz Semmelweis. His story is kept for Class 3 (sci.health.hygiene.L3), so this lesson tells the tooth-worm story instead.
 - combined/sci-C2-health-hygiene-exercise-and-illness.json: the ideas of milk teeth and grown-up teeth, plaque bacteria making acid from sugar, and brushing twice a day with fluoride toothpaste. Its experiments and story were not reused.
-- The L3 unit (soap and the turmeric test, Semmelweis, the bread test) and sci.animals.animals-around-us.L1 (the chewing test) were read so that this unit does not repeat their experiments, stories or deep truths.
+- The L3 unit (soap and the turmeric test, Semmelweis, the bread test) and sci.animals.animals-around-us.L1 (the chewing test) were read so that this lesson does not repeat their experiments, stories or deep truths.
 - Leeuwenhoek's letter to the Royal Society of 17 September 1683 describing 'animalcules' in plaque from his teeth, mixed with clean rain water.
 - W. D. Miller, The Micro-organisms of the Human Mouth (1890): the chemo-parasitic theory, that mouth bacteria make acid from sugars and starch, and the acid dissolves tooth mineral.
 - The tooth worm: a Babylonian cuneiform text known as the Legend of the Worm; Pierre Fauchard argued against tooth worms in Le Chirurgien Dentiste (1728).

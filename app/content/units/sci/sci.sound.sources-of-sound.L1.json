@@ -423,10 +423,10 @@
       "q": "How do you make the chana shaker louder?",
       "options": [
        "Shake it more gently",
-       "Shake it harder",
-       "Hold it still"
+       "Hold it still",
+       "Shake it harder"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A harder shake makes the chana hit the bottle harder, so the sound is louder. A gentle shake makes a soft sound, and a still shaker makes no sound at all."
      }
     },
@@ -1342,10 +1342,10 @@
      "p": "In the Shaker Test, a child shook the chana shaker gently, then hard. When was it louder?",
      "opts": [
       "When she shook it gently",
-      "When she shook it hard",
-      "Both were the same"
+      "Both were the same",
+      "When she shook it hard"
      ],
-     "a": 1,
+     "a": 2,
      "why": "A hard shake makes the chana hit the bottle harder, so the sound is louder. A gentle shake makes a soft sound.",
      "how": "e1"
     },
@@ -1446,21 +1446,21 @@
      "p": "You ring a bell on the table. Then you walk to the other side of the room and listen. How does the ring sound from far away?",
      "opts": [
       "Louder than close up",
-      "Softer than close up",
-      "Just the same"
+      "Just the same",
+      "Softer than close up"
      ],
-     "a": 1,
+     "a": 2,
      "why": "A sound gets softer as you move away from its source. That is why you can find a hidden sound by walking towards where it gets louder."
     },
     {
      "t": "mcq",
      "p": "A phone is playing a song. Where is the sound coming from?",
      "opts": [
-      "A tiny part inside the phone that moves very fast",
       "The air in the room, all by itself",
+      "A tiny part inside the phone that moves very fast",
       "Your ears"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Inside the phone's speaker, a tiny part moves back and forth very fast. That moving part is the sound source. We cannot see it move, but it is moving."
     },
     {
@@ -1552,11 +1552,11 @@
    "t": "mcq",
    "p": "What is a sound source?",
    "opts": [
-    "The ear that hears a sound",
     "The thing that makes a sound",
+    "The ear that hears a sound",
     "A very loud sound"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A sound source is the thing that makes a sound, like a bell or a crow. The ear hears the sound, but it does not make it.",
    "outcome": 0
   },
@@ -1564,11 +1564,11 @@
    "t": "mcq",
    "p": "A pressure cooker whistles in the kitchen. What is the sound source?",
    "opts": [
-    "The pressure cooker",
     "A listener's ear",
+    "The pressure cooker",
     "The kitchen window"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The sound comes from the pressure cooker, as steam rushes out of the top.",
    "outcome": 0
   },
@@ -1577,10 +1577,10 @@
    "p": "Which of these sound sources is not alive?",
    "opts": [
     "A crow cawing",
-    "Rain on the roof",
-    "A cow mooing"
+    "A cow mooing",
+    "Rain on the roof"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Rain is not alive, but it still makes a sound when the drops hit the roof. The crow and the cow are living beings who call with their breath.",
    "outcome": 1
   },
@@ -1588,11 +1588,11 @@
    "t": "mcq",
    "p": "A temple bell hangs still. Nobody touches it. What do you hear from the bell?",
    "opts": [
+    "Nothing",
     "A loud ring",
-    "A soft ring",
-    "Nothing"
+    "A soft ring"
    ],
-   "a": 2,
+   "a": 0,
    "why": "A still bell makes no sound. It rings only when something moves it, like a hand pulling the rope.",
    "outcome": 2
   },
@@ -1601,10 +1601,10 @@
    "p": "A boy claps his hands. What moved to make the sound?",
    "opts": [
     "His ears",
-    "His hands",
-    "The floor"
+    "The floor",
+    "His hands"
    ],
-   "a": 1,
+   "a": 2,
    "why": "His hands moved and hit each other. That is what made the clap.",
    "outcome": 2
   },
@@ -1612,11 +1612,11 @@
    "t": "mcq",
    "p": "A girl wants a louder sound from her drum. What should she do?",
    "opts": [
-    "Hit it harder",
     "Hit it more gently",
+    "Hit it harder",
     "Stop hitting it"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A harder hit makes a louder sound. A gentle hit makes a soft sound, and no hit makes no sound.",
    "outcome": 3
   },
@@ -1624,11 +1624,11 @@
    "t": "mcq",
    "p": "Remember the Shaker Test, with chana, rice, cotton and an empty bottle. Which shaker with something inside made the softest sound?",
    "opts": [
+    "The one with cotton",
     "The one with chana",
-    "The one with rice",
-    "The one with cotton"
+    "The one with rice"
    ],
-   "a": 2,
+   "a": 0,
    "why": "Cotton is soft, so it hits the bottle gently and makes almost no sound. Hard chana makes the loudest rattle.",
    "outcome": 3,
    "how": "e1"
@@ -1650,10 +1650,10 @@
    "p": "Your eyes are closed. You hear keys jingling. What is moving?",
    "opts": [
     "Nothing is moving",
-    "Only your ears",
-    "The keys, hitting each other"
+    "The keys, hitting each other",
+    "Only your ears"
    ],
-   "a": 2,
+   "a": 1,
    "why": "Every sound comes from something moving. Jingling keys are moving and hitting each other.",
    "outcome": 4
   },
@@ -1857,7 +1857,55 @@
    "why": "A large science centre with hands-on exhibits for children."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-a-small-funnel",
+   "item": "A small funnel",
+   "kind": "tool",
+   "why": "Used in The Shaker Test: which shaker is loudest?. About ₹20 to ₹50. The top of a cut plastic bottle works.",
+   "url": "https://www.amazon.in/s?k=small+plastic+funnel",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before The Shaker Test: which shaker is loudest?."
+  },
+  {
+   "id": "b-cotton-wool",
+   "item": "Cotton wool",
+   "kind": "material",
+   "why": "Used in The Shaker Test: which shaker is loudest?. About ₹20 to ₹50. Torn clean cloth works.",
+   "url": "https://www.amazon.in/s?k=cotton+wool+roll",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before The Shaker Test: which shaker is loudest?."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in The Shaker Test: which shaker is loudest?. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before The Shaker Test: which shaker is loudest?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "What do we call the thing that makes a sound?",

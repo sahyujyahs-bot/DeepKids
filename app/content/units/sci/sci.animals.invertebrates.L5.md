@@ -1,12 +1,12 @@
 # Five ways to build an animal: sponges, stingers, shells, armour and stars, and the octopus with three hearts and clever arms
 `sci.animals.invertebrates.L5`
 
-**Summary.** An octopus has three hearts and most of her nerve cells in her arms. So who is in charge, her brain or her arms? In this unit you will sort animals without backbones into five groups, and test with a coin and chana whether a hand works better when ordered or left to feel.
+**Summary.** An octopus has three hearts and most of her nerve cells in her arms. So who is in charge, her brain or her arms? In this lesson you will sort animals without backbones into five groups, and test with a coin and chana whether a hand works better when ordered or left to feel.
 
-**Intro.** *Shut your eyes and do up a shirt button. Your fingers find the hole and push the button through. Did you tell each finger where to bend?* You did not. You only decided to do up the button, and your hand did the rest by feel. An octopus has eight arms with no bones, and each arm can bend at any point along its length. Could one brain give orders for every bend of all eight arms at once? In this unit you meet five big groups of animals without backbones. Each group runs a body in a different way. Then you test how the octopus might share the work between her brain and her arms.
+**Intro.** *Shut your eyes and do up a shirt button. Your fingers find the hole and push the button through. Did you tell each finger where to bend?* You did not. You only decided to do up the button, and your hand did the rest by feel. An octopus has eight arms with no bones, and each arm can bend at any point along its length. Could one brain give orders for every bend of all eight arms at once? In this lesson you meet five big groups of animals without backbones. Each group runs a body in a different way. Then you test how the octopus might share the work between her brain and her arms.
 
 ## Learning outcomes
-0. I can name the five big groups of animals without backbones in this unit, and give one body clue for each group.
+0. I can name the five big groups of animals without backbones in this lesson, and give one body clue for each group.
 1. I can explain how a sponge feeds with no mouth, no gut and no nerve cells, and why a sponge is still an animal.
 2. I can explain how a stinging cell fires, and how coral animals build a reef.
 3. I can describe the body plan of a mollusc, and say how an octopus fits that plan.
@@ -41,7 +41,7 @@
 ### A phylum is a big group of animals built on one body plan · *defined*
 **Definition:** A phylum is a very large group of animals who share the same basic body layout, because they all come from the same ancestors.
 
-'Invertebrate' only says what an animal lacks, which is a backbone. It does not say what the animal has. So scientists sort animals by how the body is built. A body plan is the basic layout of a body: how many layers, how many openings, what holds the body up and where the nerve cells are. Animals who share a body plan are put in one phylum. Why does the plan matter more than the look? A body plan is passed down from parents to young over hundreds of millions of years, while size, colour and home change much faster. So a shared plan is a sign of shared ancestors. Scientists count about 35 phyla of animals. This unit visits five of them: sponges, cnidarians, molluscs, arthropods and echinoderms. Animals with backbones are only part of one more phylum, the chordates. Earthworms belong to yet another, the segmented worms.
+'Invertebrate' only says what an animal lacks, which is a backbone. It does not say what the animal has. So scientists sort animals by how the body is built. A body plan is the basic layout of a body: how many layers, how many openings, what holds the body up and where the nerve cells are. Animals who share a body plan are put in one phylum. Why does the plan matter more than the look? A body plan is passed down from parents to young over hundreds of millions of years, while size, colour and home change much faster. So a shared plan is a sign of shared ancestors. Scientists count about 35 phyla of animals. This lesson visits five of them: sponges, cnidarians, molluscs, arthropods and echinoderms. Animals with backbones are only part of one more phylum, the chordates. Earthworms belong to yet another, the segmented worms.
 - e.g. A cuttlefish looks like a fish, but her body plan is a mollusc's, so she is grouped with snails.
 - e.g. A barnacle on a rock looks like a small shellfish. As a baby the barnacle swims with jointed legs, so barnacles are arthropods.
 - e.g. A whale and a mouse look very different, yet both are chordates, in the same phylum as you.
@@ -102,7 +102,7 @@ A starfish has no head, no backbone and five arms. A crab has eyes, legs and a b
 - e.g. The last ancestor shared by an octopus and a human lived more than 500 million years ago.
 - e.g. Insects and crabs are closer relatives of each other than either is of a snail.
 ### Five ways to carry messages: none, a net, a ring, a chain of knots, and a brain with eight arm cords · *defined*
-**Definition:** A nervous system is all the nerve cells of an animal and the way they are joined. The five phyla in this unit arrange it in five ways.
+**Definition:** A nervous system is all the nerve cells of an animal and the way they are joined. The five phyla in this lesson arrange it in five ways.
 
 A nerve cell is a long cell that passes a fast electrical signal to the next cell. The five phyla arrange their nerve cells very differently. A sponge has no nerve cells. Signals pass slowly from cell to cell as chemicals. A cnidarian has a nerve net spread through the body, with no centre. An echinoderm has a ring of nerves around the mouth and one nerve along each arm, instead of a brain. An arthropod has a brain in the head and a chain of ganglia along the body, one or more for each segment. Much of an insect's walking is run by the ganglia nearest the legs. A mollusc has several ganglia. In a snail these are small. In an octopus they have grown and joined into a large brain wrapped around the food pipe, and a thick nerve cord runs down each arm. So a brain in a head is one arrangement among several. Each arrangement fits a way of living: fixed in one place, drifting, creeping in any direction, or hunting.
 - e.g. An ant's brain is smaller than a mustard seed, yet she finds her way home across a courtyard.
@@ -614,7 +614,7 @@ Paatti looked at her for a while. 'And what did she charge for the lesson?'
    Options: So the used water travels far away / So the sponge can swim / So fish are frightened off  
    **Answer:** So the used water travels far away. *Why:* A strong jet carries the used water away, so the sponge does not pull the same water in again. A sponge stays fixed in one place and does not swim.
 7. (mcq) What sets off a stinging cell?  
-   Options: A touch on the cell's trigger / An order from a brain / Bright sunlight  
+   Options: An order from a brain / A touch on the cell's trigger / Bright sunlight  
    **Answer:** A touch on the cell's trigger. *Why:* Each stinging cell fires by itself when the trigger is touched. No order comes from a brain or from anywhere else, and even a tentacle washed up on a beach can still sting.
 8. (truefalse) A coral is a rock that small animals live on.  
    **Answer:** False. *Why:* False. The coral is the animals. Each polyp builds a cup of limestone under their body, and the cups of many polyps make the rock.
@@ -625,7 +625,7 @@ Paatti looked at her for a while. 'And what did she charge for the lesson?'
 11. (count) In Way 1, three tries took 26, 31 and 17 seconds. What is the total?  
    **Answer:** 74. *Why:* 26 and 31 make 57, and 17 more make 74 seconds. Adding the three tries gives one number for each way, so the ways are easy to compare.
 12. (mcq) In the Boss or Hand test, why is the coin moved before every try?  
-   Options: So remembering the last place does not help / So the hand gets tired / So the boss cannot see the coin  
+   Options: So the hand gets tired / So the boss cannot see the coin / So remembering the last place does not help  
    **Answer:** So remembering the last place does not help. *Why:* If the coin stayed put, the hand could go straight back to it from memory. Then you would be testing memory, and not the three ways of sharing the work.
 13. (write) An octopus arm in a dark crack finds a crab that her eyes cannot see. Explain how.  
    **Answer:** The suckers sense touch and also the chemicals of the crab. The arm's own nerve cord works out the grip and the bends. The brain only needs to send the arm to the crack.. *Why:* A strong answer names the suckers' sensing and the arm's own nerve cord, and gives the brain a smaller job.
@@ -635,15 +635,15 @@ Paatti looked at her for a while. 'And what did she charge for the lesson?'
    **Answer:** Answers vary. A strong answer picks a side with a reason, and names something to test, such as whether an arm can learn something that the other arms then know.. *Why:* Both views accept the same experiments. They differ on what should count as a mind.
 ### Body Plans and Blue Blood (stretch) (stretch, 15 questions)
 1. (mcq) A cuttlefish is grouped with snails. Why?  
-   Options: Both have a mantle, a radula and a soft body / Both live in water / Both move slowly  
+   Options: Both live in water / Both have a mantle, a radula and a soft body / Both move slowly  
    **Answer:** Both have a mantle, a radula and a soft body. *Why:* Groups follow the body plan. A cuttlefish has a mantle, a radula and a soft body with no segments, as a snail has. Many land snails do not live in water, and a cuttlefish is fast.
 2. (mcq) Which of these animals is your closest relative?  
-   Options: A starfish / A crab / An octopus  
+   Options: A crab / An octopus / A starfish  
    **Answer:** A starfish. *Why:* Echinoderms are on the same big branch of the family tree as animals with backbones. Crabs and octopuses are on another branch. Looks do not show this, but the growing egg and the DNA do.
 3. (truefalse) Every echinoderm lives in the sea.  
    **Answer:** True. *Why:* True. Their tube feet are filled with sea water, and no echinoderm lives in fresh water or on land.
 4. (mcq) Why do arthropods have so many kinds of tools on one body?  
-   Options: Limbs on each segment can change shape and job / They are the oldest animals / They have the biggest brains  
+   Options: They are the oldest animals / They have the biggest brains / Limbs on each segment can change shape and job  
    **Answer:** Limbs on each segment can change shape and job. *Why:* An arthropod's body is a row of segments, each with a pair of limbs. Over time, limbs on different segments became jaws, feelers, claws, legs and paddles.
 5. (fill) A starfish's tube foot stretches out when ____ is pushed into it.  
    **Answer:** ['water']. *Why:* Muscles squeeze a small bulb, and the water in it is pushed into the tube foot. Water cannot be squashed smaller, so the foot must lengthen.
@@ -672,7 +672,7 @@ Paatti looked at her for a while. 'And what did she charge for the lesson?'
    Options: One heart pushes it through gills and body in a row / A fish's heart is very weak / A fish has no blood tubes  
    **Answer:** One heart pushes it through gills and body in a row. *Why:* A fish has one pump. The blood loses most of its push in the fine tubes of the gills, and then has to travel on round the body with what is left.
 2. (mcq) Which part of your body does the job of an octopus's gill hearts?  
-   Options: The right half of the heart / The left half of the heart / The lungs  
+   Options: The left half of the heart / The right half of the heart / The lungs  
    **Answer:** The right half of the heart. *Why:* The right half of your heart pumps blood to the lungs to pick up oxygen. The left half pumps it to the body, as the octopus's main heart does.
 3. (mcq) On a small plate, the hand alone beat 'aim only'. What is the best explanation?  
    Options: A small plate is quick to search without help / The boss gave a wrong aim on purpose / The hand could see the coin  
@@ -712,36 +712,36 @@ Paatti looked at her for a while. 'And what did she charge for the lesson?'
    Options: Arthropods / Molluscs / Echinoderms  
    **Answer:** Arthropods. *Why:* Jointed legs and an outer skeleton mark the arthropods. If you chose molluscs, remember that a snail's shell is a house the body sits in, and a mollusc has no jointed legs.
 2. (mcq) Which of these animals is a mollusc?  
-   Options: A squid / A starfish / A barnacle  
+   Options: A starfish / A barnacle / A squid  
    **Answer:** A squid. *Why:* A squid has a mantle and a soft body with no segments. A starfish is an echinoderm. A barnacle looks like a shellfish but has jointed legs inside, so the barnacle is an arthropod.
 3. (mcq) How does a sponge get food?  
-   Options: By pulling water through pores and filtering / By catching prey with tentacles / By making food from sunlight  
+   Options: By catching prey with tentacles / By making food from sunlight / By pulling water through pores and filtering  
    **Answer:** By pulling water through pores and filtering. *Why:* Collar cells beat their threads, pull water through the body and catch bacteria. Tentacles belong to cnidarians. Making food from sunlight is what plants and algae do, and it is why people once took sponges for plants.
 4. (mcq) Why does a sponge count as an animal?  
-   Options: Many cells, eats living things, makes eggs and sperm / Moving from place to place / Having a small brain  
+   Options: Moving from place to place / Having a small brain / Many cells, eats living things, makes eggs and sperm  
    **Answer:** Many cells, eats living things, makes eggs and sperm. *Why:* A sponge is built of many cells, feeds on bacteria and other living specks, and makes eggs and sperm. An adult sponge stays in one place and has no nerve cells at all, so moving and brains are not what makes an animal.
 5. (mcq) What happens when reef corals turn white in a sea that stays too hot?  
-   Options: The tiny algae inside them are lost / Their limestone melts / Fish eat the coloured parts  
+   Options: Their limestone melts / Fish eat the coloured parts / The tiny algae inside them are lost  
    **Answer:** The tiny algae inside them are lost. *Why:* The algae living in the coral's cells give much of the colour and most of the food. In long heat the partnership breaks down and the algae go. Limestone does not melt in warm water.
 6. (mcq) Which parts does an octopus share with a garden snail?  
-   Options: A mantle and a radula / A shell and feelers / Jointed legs and a hard skeleton  
+   Options: A shell and feelers / A mantle and a radula / Jointed legs and a hard skeleton  
    **Answer:** A mantle and a radula. *Why:* Both are molluscs, with a mantle over the body and a toothed ribbon in the mouth. The octopus's ancestors lost the shell. Jointed legs belong to arthropods.
 7. (mcq) What pushes a starfish's tube foot out?  
    Options: Water squeezed into it / A small bone inside it / Air blown into it  
    **Answer:** Water squeezed into it. *Why:* Muscles squeeze a bulb of water, and the water stretches the foot. Echinoderms have no bones in the tube feet, and they live under water, where there is no air to blow.
 8. (mcq) What do an octopus's two gill hearts do?  
-   Options: Push blood through the gills / Push blood into the arms / Store spare blood  
+   Options: Push blood into the arms / Push blood through the gills / Store spare blood  
    **Answer:** Push blood through the gills. *Why:* Each gill heart pushes blood through the fine tubes of one gill. The main heart then sends the blood round the whole body, arms included.
 9. (truefalse) The same amount of octopus blood carries more oxygen than human blood.  
    **Answer:** False. *Why:* False. Octopus blood carries several times less. That is one reason she needs a strong main heart to keep it moving.
 10. (mcq) Where are most of an octopus's nerve cells?  
    Options: In her eight arms / In the brain in her head / In her mantle  
-   **Answer:** In her eight arms. *Why:* About two thirds are in the nerve cords of the arms. If you chose the brain, that is true of a human, and it is the habit this unit asks you to question.
+   **Answer:** In her eight arms. *Why:* About two thirds are in the nerve cords of the arms. If you chose the brain, that is true of a human, and it is the habit this lesson asks you to question.
 11. (mcq) In the Boss or Hand test, why is ordering every move slow?  
-   Options: Each order takes time, and the boss is not touching / The hand gets tired of listening / The coin is too heavy  
+   Options: The hand gets tired of listening / Each order takes time, and the boss is not touching / The coin is too heavy  
    **Answer:** Each order takes time, and the boss is not touching. *Why:* Words are slow, many orders are needed for one small act, and the boss does not know what the fingers are touching. Giving only the aim lets the hand use what it feels.
 12. (mcq) Which animal has a nerve net and no brain?  
-   Options: A sea anemone / An ant / An octopus  
+   Options: An ant / An octopus / A sea anemone  
    **Answer:** A sea anemone. *Why:* Cnidarians such as sea anemones and jellyfish have nerve cells spread as a net. An ant and an octopus both have brains.
 
 ## Applications
@@ -758,8 +758,8 @@ Paatti looked at her for a while. 'And what did she charge for the lesson?'
 - A snail on a wet compound wall after rain, leaving a shiny trail. Look for the fold of the mantle where the body meets the shell.
 - Cowrie shells in a game of chowka bara or pallanguzhi. Each one was built by the mantle of a sea snail.
 - A sangu, the sacred chank, on a shelf or blown at a temple or a wedding. It is the shell of a large sea snail from the Gulf of Mannar.
-- Prawns, crabs, squid and mussels side by side at a fish market in Kochi, Chennai, Mangaluru or Kolkata. Two phyla are on one table.
-- Barnacles on rocks, jetty legs and boat hulls at low tide, at Kovalam, Bandra, Visakhapatnam or any sea shore. Each small cone holds an arthropod.
+- Prawns, crabs, squid and mussels side by side at a fish market. Two phyla are on one table.
+- Barnacles on rocks, jetty legs and boat hulls at low tide, or on any sea shore. Each small cone holds an arthropod.
 - A cuttlebone tied inside a budgerigar's cage. It is the inside shell of a cuttlefish.
 
 ## Open questions
@@ -808,17 +808,22 @@ Many Ways to Live a Life (sci.animals.L5): Topic-level song
 - [Marine Life of Mumbai](https://www.marinelifeofmumbai.in/) · interactive: Photographs of the sponges, corals, sea slugs, octopuses and starfish found on Mumbai's shores, made by a citizens' group that also leads shore walks.
 - [iNaturalist](https://www.inaturalist.org/) · interactive: Upload a photo of a snail, a spider or a shell from your Field Book and see what other people think it is.
 - [Central Marine Fisheries Research Institute](https://www.cmfri.org.in/) · interactive: For the parent: India's institute for sea life and fisheries, with reports on chanks, octopus, mussels and pearl oysters.
-- [Marine Research Aquarium, Vizhinjam]() · place · Thiruvananthapuram, Kerala: A public sea aquarium beside a research centre, with corals, sea anemones and other living invertebrates.
-- [Government Museum, Egmore]() · place · Chennai, Tamil Nadu: The zoology galleries hold shells, corals and other sea animals collected from the Tamil Nadu coast.
-- [Gulf of Mannar Marine National Park]() · place · Ramanathapuram district, Tamil Nadu: Glass-bottomed boats from near Mandapam and Rameswaram let visitors look down on corals, sea cucumbers and starfish without touching them.
+- Marine Research Aquarium, Vizhinjam · place · Thiruvananthapuram, Kerala: A public sea aquarium beside a research centre, with corals, sea anemones and other living invertebrates.
+- Government Museum, Egmore · place · Chennai, Tamil Nadu: The zoology galleries hold shells, corals and other sea animals collected from the Tamil Nadu coast.
+- Gulf of Mannar Marine National Park · place · Ramanathapuram district, Tamil Nadu: Glass-bottomed boats from near Mandapam and Rameswaram let visitors look down on corals, sea cucumbers and starfish without touching them.
 
 ## Things to buy
 - [A packet of ordinary round balloons](https://www.amazon.in/s?k=balloons+pack) (material): For the stinging cell model and for the Soft Gripper challenge. Used in a4, c1. 
 - [A small magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): For counting the legs of an ant or a spider and looking at shells in the Field Book project. The project also works without one. Used in p1. 
 - [The Book of Indian Shells, by Deepak Apte (Bombay Natural History Society)](https://www.amazon.in/s?k=The+Book+of+Indian+Shells+Deepak+Apte) (book): A field guide with photographs of the sea shells of India's coasts. Used in p1. Keep it beside the Field Book on day 2, and use it to name any shell your child finds.
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in Boss or Hand? The blind reach test, The Slow Sieve: why does an octopus have a heart at each gill?. About ₹150 to ₹400. A phone stopwatch works well. Used in e1, e3. Get it before Boss or Hand? The blind reach test.
+- [A small funnel](https://www.amazon.in/s?k=small+plastic+funnel) (tool): Used in The Slow Sieve: why does an octopus have a heart at each gill?. About ₹20 to ₹50. The top of a cut plastic bottle works. Used in e3. Get it before The Slow Sieve: why does an octopus have a heart at each gill?.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in The Slow Sieve: why does an octopus have a heart at each gill?. About ₹20 to ₹50. Torn clean cloth works. Used in e3. Get it before The Slow Sieve: why does an octopus have a heart at each gill?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Boss or Hand? The blind reach test, Fifty Beans: where are an octopus's nerve cells?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1, a2. Get it before Boss or Hand? The blind reach test.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
-- Name the five big groups of animals without backbones in this unit. → Sponges, cnidarians, molluscs, arthropods and echinoderms.
+- Name the five big groups of animals without backbones in this lesson. → Sponges, cnidarians, molluscs, arthropods and echinoderms.
 - How many hearts does an octopus have, and what do the two small ones do? → Three. The two gill hearts push blood through the gills.
 - What colour is an octopus's blood, and which metal is in it? → Blue, because it carries oxygen with copper.
 - Where are most of an octopus's nerve cells? → In her eight arms.
@@ -837,7 +842,7 @@ Many Ways to Live a Life (sci.animals.L5): Topic-level song
 - ideas/by_topic/evolution-the-tree-of-life.md, the sections 'The First Animal - Sponge', 'Cnidarians', 'Protostomes - Mollusks, Annelids, Arthropods' and 'Cephalopods': sponge cells signalling by chemicals instead of nerves, the sponge's filter and sense of self, the cnidarian stinging organelle, blood of different colours, and the cephalopod's closed circulation, several hearts and enlarged brain, all used in the explanations
 - The same notes' remark that intelligence is not unique to humans, used for the roots card and the debate on who is in charge
 - combined/sci-C4-kinds-of-living-things-and-sorting-them.json: the arthropod definition (jointed legs and an exoskeleton), built on here. None of its experiments or its story is reused
-- The Level 3 and Level 4 units of this subtopic, and the Level 4 units on body plans and animal bodies, read so that nothing is repeated: this unit adds the five phyla as body plans, the family tree, the nervous systems, and the octopus's hearts and arms
+- The Level 3 and Level 4 units of this subtopic, and the Level 4 units on body plans and animal bodies, read so that nothing is repeated: this lesson adds the five phyla as body plans, the family tree, the nervous systems, and the octopus's hearts and arms
 - ideas/scientists.json: the SCI Card approach to deep truths, used for the roots card
 - Sumbre, G., Gutfreund, Y., Fiorito, G., Flash, T. and Hochner, B., Control of octopus arm extension by a peripheral motor program, Science 293, 1845-1848, 2001
 - Gutnick, T., Byrne, R. A., Hochner, B. and Kuba, M., Octopus vulgaris uses visual information to determine the location of its arm, Current Biology 21, 460-462, 2011

@@ -1,7 +1,7 @@
 # Changes we can undo and changes we can't: squashing, bending, heating and cooling
 `sci.changes.reversible-and-irreversible.L2`
 
-**Summary.** You can squash dough and roll it into a ball again, but a cooked roti never goes back to dough. In this unit you will squash, freeze and cook dough, crumple paper and squeeze a sponge, then sort each change into one that can be undone and one that cannot.
+**Summary.** You can squash dough and roll it into a ball again, but a cooked roti never goes back to dough. In this lesson you will squash, freeze and cook dough, crumple paper and squeeze a sponge, then sort each change into one that can be undone and one that cannot.
 
 **Intro.** *Crumple a sheet of paper into a tight ball. Now open it out and press it flat. Is it the same as before?* Things around us change shape all the time. We squash them, bend them, twist them, stretch them, heat them and cool them. Some changes can be undone, and the thing goes back to how it was. Some can never be undone. You are going to test which is which, starting with a ball of dough.
 
@@ -48,6 +48,7 @@ In the Dough Test, the soft dough became a stiff roti with brown spots on the ho
 - e.g. Dosa batter cooked into a dosa
 - e.g. A raw egg cooked until it is hard
 - e.g. A toothpick snapped in two
+- **Michael Faraday (1791–1867), England:** Faraday gave Christmas lectures for young people at the Royal Institution in London called 'The Chemical History of a Candle', in 1848 and 1860, and they were published as a book in 1861. He showed that a burning candle melts, draws liquid wax up its wick, turns it to gas and burns it, making water and carbon dioxide. Faraday had almost no schooling. He was a blacksmith's son who worked as a bookbinder's apprentice and read the science books he bound, and his explanation of the candle is still correct.
 ### Why some things spring back and others stay bent · *defined*
 **Definition:** A thing springs back when the tiny particles it is made of are pushed a little out of place and then pull back. It stays bent when they are pushed so far that they slide into new places.
 
@@ -419,7 +420,7 @@ That evening, Selvi taught Karthik how to make a pot with walls as thick as his 
 1. (match) Draw a line from each word to what it means.  
    **Answer:** Squash → press it flatter; Bend → make it curve; Twist → turn the two ends opposite ways; Stretch → pull it longer. *Why:* These four words are ways of changing a thing's shape by pushing or pulling.
 2. (mcq) In the dough test, which piece could not become a soft ball again?  
-   Options: The squashed piece / The frozen piece / The cooked piece  
+   Options: The squashed piece / The cooked piece / The frozen piece  
    **Answer:** The cooked piece. *Why:* The tawa changed the dough into roti, a new material. Picking the frozen piece may mean the child did not wait for it to warm up in their hands.
 3. (sort) Sort these changes into 'can go back' and 'cannot go back'.  
    **Answer:** water frozen into ice → Can go back; a dosa cooked on a tawa → Cannot go back; a sponge squeezed → Can go back; popcorn popped → Cannot go back; a towel twisted → Can go back; an egg boiled → Cannot go back. *Why:* Freezing, squeezing and twisting can be undone. Cooking the dosa, popping the corn and boiling the egg changed them for good.
@@ -479,7 +480,7 @@ That evening, Selvi taught Karthik how to make a pot with walls as thick as his 
    Options: Bending a ruler a little / Cooking dosa batter into a dosa / Freezing water into ice  
    **Answer:** Cooking dosa batter into a dosa. *Why:* A cooked dosa can never be batter again. The ruler springs back and the ice melts.
 3. (mcq) You squash a ball of dough flat. What is it made of now?  
-   Options: Atta dough, the same as before / A new material / Roti  
+   Options: A new material / Roti / Atta dough, the same as before  
    **Answer:** Atta dough, the same as before. *Why:* Squashing changes only the shape. It is still the same dough. Picking 'roti' mixes up squashing with cooking.
 4. (mcq) Dough comes out of the freezer stiff and cold. What happens when you hold it in your warm hands for a few minutes?  
    Options: It stays stiff for ever / It goes soft again / It turns into roti  
@@ -488,19 +489,19 @@ That evening, Selvi taught Karthik how to make a pot with walls as thick as his 
    Options: Spring back straight / Stay bent / Snap in two  
    **Answer:** Stay bent. *Why:* Foil stays bent, even after a small bend. A plastic ruler springs back. A toothpick snaps.
 6. (mcq) Which one is most likely to snap if you bend it a lot?  
-   Options: A rubber eraser / A toothpick / A kitchen sponge  
+   Options: A toothpick / A rubber eraser / A kitchen sponge  
    **Answer:** A toothpick. *Why:* A dry toothpick bends only a little, then snaps. The eraser and sponge spring back.
 7. (mcq) Ghee goes hard in the fridge. Can this change be undone?  
-   Options: Yes, it melts when it is warmed / No, it stays hard for ever / Only if you add water  
+   Options: No, it stays hard for ever / Yes, it melts when it is warmed / Only if you add water  
    **Answer:** Yes, it melts when it is warmed. *Why:* Cooling made the ghee solid, and warming melts it again. This is a reversible change.
 8. (mcq) In a kitchen, what makes most of the changes that cannot be undone?  
-   Options: Squashing / Heating / Cooling  
+   Options: Heating / Squashing / Cooling  
    **Answer:** Heating. *Why:* Heating makes roti, dosa, popcorn and boiled eggs, which never go back. Squashing and cooling can usually be undone.
 9. (mcq) You snap a dry twig in two. Which kind of change is this?  
    Options: Reversible, because it is still wood / Irreversible, because the pieces cannot be joined back / Not a change at all  
    **Answer:** Irreversible, because the pieces cannot be joined back. *Why:* The wood is still wood, but the twig cannot be made one piece again. Breaking is an irreversible change.
 10. (mcq) Before the dough test, what should you do first?  
-   Options: Guess what will happen, and say why / Read the answer / Cook all three pieces  
+   Options: Read the answer / Guess what will happen, and say why / Cook all three pieces  
    **Answer:** Guess what will happen, and say why. *Why:* Scientists guess first and give a reason. Then the test shows if the guess was right.
 11. (mcq) A potter's clay pot has dried hard in the sun, but has not been in the kiln. A piece falls in water. What happens?  
    Options: It stays hard for ever / It goes soft and becomes clay again / It turns into pottery  
@@ -516,7 +517,7 @@ That evening, Selvi taught Karthik how to make a pot with walls as thick as his 
 - Glass bottles can be melted down and made into new bottles, because glass can be melted and set hard again many times.
 
 ## Spotted around us
-- A potter at a pottery market in Chennai or Kolkata, with soft grey clay on one side and red fired pots on the other.
+- A potter at a pottery market, with soft grey clay on one side and red fired pots on the other.
 - A dosa or a cheela being cooked on a tawa in the morning: runny batter turning solid.
 - Clothes being ironed by the press-wallah on a street corner, with a heavy iron heated with coal.
 - A coiled phone charger wire, bent and twisted, which still straightens out again.
@@ -557,10 +558,12 @@ Squash It, Bend It, Heat It (sci.changes.L2): Topic-level song for Changing mate
 
 ## Links
 - [PhET States of Matter: Basics](https://phet.colorado.edu/en/simulations/states-of-matter-basics) · simulation: A free online simulation. Heat and cool a solid and a liquid, and watch the tiny particles. Every change here can be undone.
-- [DakshinaChitra heritage museum]() · place · Chennai: A museum of South Indian homes and crafts, where you can often watch potters at work.
+- DakshinaChitra heritage museum · place · Chennai: A museum of South Indian homes and crafts, where you can often watch potters at work.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A large science museum with hands-on galleries about materials, metals and engines.
 
 ## Things to buy
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Bend Test: does it spring back, stay bent or break?. About ₹10 to ₹30. Any school ruler is fine. Used in e2. Get it before The Bend Test: does it spring back, stay bent or break?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What do we call a change that can be undone? → A reversible change.

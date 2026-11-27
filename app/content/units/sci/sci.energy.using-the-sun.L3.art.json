@@ -1,0 +1,54 @@
+{
+ "expl.0": {
+  "src": "media/img/sci.energy.using-the-sun.L3/expl.0.webp",
+  "drawn": true
+ },
+ "expl.1": {
+  "src": "media/img/sci.energy.using-the-sun.L3/expl.1.webp",
+  "drawn": true
+ },
+ "expl.2": {
+  "src": "media/img/sci.energy.using-the-sun.L3/expl.2.webp",
+  "drawn": true
+ },
+ "expl.3": {
+  "src": "media/img/sci.energy.using-the-sun.L3/expl.3.webp",
+  "drawn": true
+ },
+ "expl.4": {
+  "src": "media/img/sci.energy.using-the-sun.L3/expl.4.webp",
+  "drawn": true
+ },
+ "intro": {
+  "src": "media/img/sci.energy.using-the-sun.L3/intro.webp",
+  "drawn": true
+ },
+ "roots.0": {
+  "src": "media/img/sci.energy.using-the-sun.L3/roots.0.webp",
+  "drawn": true
+ },
+ "story": {
+  "src": "media/img/sci.energy.using-the-sun.L3/story.webp",
+  "credit": "Illustration made with Canva AI"
+ },
+ "term.19": {
+  "src": "media/img/sci.energy.using-the-sun.L3/term.19.webp",
+  "credit": "R. Henrik Nilsson, CC BY 4.0, via Wikimedia Commons"
+ },
+ "term.26": {
+  "src": "media/img/sci.energy.using-the-sun.L3/term.26.webp",
+  "credit": "OnePlanet, CC BY, via iNaturalist"
+ },
+ "term.27": {
+  "src": "media/img/sci.energy.using-the-sun.L3/term.27.webp",
+  "credit": "OpenStax, Biology (2013), CC BY 4.0, Figure 2.9"
+ },
+ "term.7": {
+  "src": "media/img/sci.energy.using-the-sun.L3/term.7.webp",
+  "credit": "OpenStax, College Physics for AP Courses (2015), CC BY 4.0, Figure 25.6"
+ },
+ "term.9": {
+  "src": "media/img/sci.energy.using-the-sun.L3/term.9.webp",
+  "credit": "OpenStax, University Physics Volume 2 (2016), CC BY 4.0, Figure 9.17"
+ }
+}

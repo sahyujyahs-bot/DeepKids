@@ -1,9 +1,9 @@
 # Plants of India: how a plant's own protection became our medicine
 `sci.plants.plant-variety.L4`
 
-**Summary.** A clove is a dried flower bud, and the strong-smelling chemical inside it keeps moulds and insects away. In this unit you will test whether haldi and clove stop mould growing on potato, ask your elders about family plant medicines, and find which money plant cuttings grow roots.
+**Summary.** A clove is a dried flower bud, and the strong-smelling chemical inside it keeps moulds and insects away. In this lesson you will test whether haldi and clove stop mould growing on potato, ask your elders about family plant medicines, and find which money plant cuttings grow roots.
 
-**Intro.** *Open your spice box. Pick up one clove and look at it closely. Roll it between your fingers, then smell your fingers. That smell is strong. Who is the smell for?* A clove is not a seed or a stick. It is a flower bud, picked before it opened and dried in the sun. The bud is soft and full of food, so moulds and insects would love to eat it. Yet a clove bud keeps for months in a jar without going mouldy. Many grandmothers put a few cloves or dry neem leaves in the rice and dal tins. Is that only an old habit, or does it really work? In this unit you test it fairly, with numbers. Then you find out why so many medicines began inside plants.
+**Intro.** *Open your spice box. Pick up one clove and look at it closely. Roll it between your fingers, then smell your fingers. That smell is strong. Who is the smell for?* A clove is not a seed or a stick. It is a flower bud, picked before it opened and dried in the sun. The bud is soft and full of food, so moulds and insects would love to eat it. Yet a clove bud keeps for months in a jar without going mouldy. Many grandmothers put a few cloves or dry neem leaves in the rice and dal tins. Is that only an old habit, or does it really work? In this lesson you test it fairly, with numbers. Then you find out why so many medicines began inside plants.
 
 ## Learning outcomes
 0. I can explain why many plants make strong chemicals, and how those chemicals protect them.
@@ -17,6 +17,7 @@
 ## Terms
 - **Medicinal plant**: A plant with a part that people use to treat an illness or to stay well. *e.g.* Tulsi leaves in kadha for a cough, and ajwain seeds for a stomach ache.
 - **Defence chemical**: A chemical a plant makes to protect themselves from animals, insects, moulds or germs. Many are bitter, smelly, hot or sticky. *e.g.* Neem leaves taste bitter because of their defence chemicals.
+- **Adaptation**: A part or a habit that helps a living being live well in its own place. *e.g.* The breathing roots of a mangrove are an adaptation to mud with little air.
 - **Traditional knowledge**: What a community has learned over many generations, and passes on by teaching, stories and practice. *e.g.* A grandmother in Thanjavur knows that dry neem leaves in the paddy store keep insects away.
 - **Mould**: A fungus that grows as fuzzy threads on damp food. Moulds digest the food and use it to grow. *e.g.* Green or white fuzz on an old piece of bread or a forgotten lemon is mould.
 - **Spore**: A tiny cell that a mould or fungus sends out to start a new mould somewhere else. Spores float in the air everywhere. *e.g.* A puff of green dust from an old orange is millions of mould spores.
@@ -32,6 +33,7 @@
 - **Cutting**: A piece cut from a plant that can grow roots and become a whole new plant. *e.g.* A money plant cutting in a glass of water grows new roots in about two weeks.
 - **Drainage**: The way extra water flows out of the soil. A pot needs holes at the bottom for drainage. *e.g.* Water dripping out of the holes under a pot after watering shows good drainage.
 - **Patent**: A legal right that lets only the inventor make or sell a new invention for some years. *e.g.* In 1995 a patent office in America gave a patent for using turmeric on wounds. India showed it was not new.
+- **Coir**: The strong brown fibre from the hairy husk of a coconut. *e.g.* In Kerala, coir is spun into rope and doormats.
 
 ## Explanations
 ### Why plants make strong chemicals · *defined*
@@ -48,6 +50,7 @@ When people found that a bitter leaf or a strong-smelling bud did something usef
 - e.g. Eugenol from cloves is used in some dental cements and in clove oil for toothache.
 - e.g. Neem extracts are used in sprays that keep insects off crops.
 - e.g. India grows most of the world's turmeric. The yellow curcumin is only a few parts in every hundred of the powder.
+- e.g. In many villages, grain is kept in earthen pots lined with dry neem leaves, or in bamboo baskets coated with cow dung. The bitter neem leaves stop weevils from feeding. The dung dries into a hard skin that closes the gaps, so insects and damp find it harder to get in.
 ### Not every shield is a chemical · *defined*
 **Definition:** Plants also protect themselves with thorns, hairs, sticky sap, tough leaves and even movement.
 
@@ -62,6 +65,20 @@ A chilli plant's seeds grow best when they are carried far away. A mouse or a sq
 - e.g. A bulbul or a myna can peck at a ripe red chilli without any trouble.
 - e.g. Before chillies came, food in Kerala and Tamil Nadu was made hot with black pepper.
 - e.g. Capsaicin creams for some kinds of pain use the same chemical that burns your tongue.
+### Shaped for the place they live · *defined*
+**Definition:** An adaptation is a part or a habit that helps a living being live well in its own place. A plant cannot walk to a better place, so the plant's body must suit the place where it grows.
+
+A cactus in a dry place has a thick, waxy skin. The wax keeps the cactus's water in, under the hot Sun. The thorns we met earlier are an adaptation too, for places with hungry goats. In the Sundarbans, mangrove trees grow in salty mud that floods when the tide comes in. That mud has very little air, and roots need air. So mangrove roots poke up out of the mud like pencils, and breathe from above. A lotus grows from mud at the bottom of a pond. Its long, hollow stalk carries air down to the roots. Scientists call each helpful feature an adaptation. A plant whose body does not suit its place does not last long there.
+- e.g. A cactus has a waxy skin that keeps water in.
+- e.g. Mangrove roots that poke up out of the mud breathe the air.
+- e.g. A lotus stalk is a hollow tube that carries air to the roots in the pond mud.
+### More things we make from plants · *defined*
+**Definition:** Plants give us more than food and medicine. We make wood, rope, cloth and rubber from their parts.
+
+A tree trunk is wood. People cut it for beams, doors and boats. A coconut has a hairy brown husk. Its fibre, a thin strong thread, is called coir. In Kerala, women spin coir into rope and doormats. Cotton fibres grow round the cotton seed. They are spun into thread for cloth. Jute fibre comes from the stem of the jute plant, which grows in Bengal. It is made into sacks and bags. A rubber tree is cut gently on the bark, and the milky latex that flows out is collected in a cup. We met latex before, as the tree's glue against insects. Factories turn it into rubber for tyres and balloons. Kerala grows most of India's natural rubber.
+- e.g. Wood: a stem. Coir: the husk of a fruit. Cotton: hairs round a seed.
+- e.g. Jute: fibre from a stem, made into sacks.
+- e.g. Rubber: made from the latex of the rubber tree.
 ### Medicines that came from Indian plants · *defined*
 **Definition:** Several medicines used around the world began as plants used in India's healing traditions or by village healers.
 
@@ -79,10 +96,11 @@ Many illnesses, like a cold, get better on their own. So if you drink kadha and 
 ### The dose decides: help or harm · *defined*
 **Definition:** The same plant chemical can help in a small amount and harm in a large one. How much, how often and in which form all matter.
 
-Defence chemicals are strong on purpose: they are meant to hurt attackers. That is why they can help us and also why they can harm. A drop of clove oil on cotton, held on an aching tooth, can numb it a little. But a small child who drinks a spoonful of clove oil can become seriously ill. Neem oil swallowed by small children has also caused serious poisoning. Even haldi, which is safe in food, can upset the stomach in very large amounts. This is why a medicine has a dose written on it, and why doctors test how much is safe. A remedy being natural does not make it gentle.
+Defence chemicals are strong on purpose: they are meant to hurt attackers. That is why they can help us and also why they can harm. A drop of clove oil on cotton, held on an aching tooth, can numb it a little. But a small child who drinks a spoonful of clove oil can become seriously ill. Neem oil swallowed by small children has also caused serious poisoning. Even haldi, which is safe in food, can upset the stomach in very large amounts. This is why a medicine has a dose written on it, and why doctors test how much is safe. A remedy being natural does not make it gentle. Many homes keep a first-aid box for small hurts. It holds bandages, cotton, an antiseptic liquid and ORS powder for an upset stomach. Keep it where every grown-up knows, and out of reach of small children. First aid is only the first step. A deep cut that keeps bleeding, a burn that blisters, or a child who is very sick needs a doctor at once. The unit on medicines tells more about how medicines are made and used.
 - e.g. A drop of clove oil can ease a toothache, but swallowing clove oil can harm a child badly.
 - e.g. Neem leaves in a rice tin are safe. Neem oil must never be given to a child to drink.
 - e.g. Keep all oils and medicines out of reach of small children, natural or not.
+- e.g. A scraped knee can be washed, dabbed with antiseptic and covered with a bandage from the first-aid box. A cut that bleeds on after ten minutes of firm pressing needs a doctor.
 ### Does haldi work as a medicine? · *debated*
 Many Indian families use haldi in milk for a cold and on small cuts. Thousands of laboratory studies have tested curcumin, the yellow chemical in haldi. In test tubes it does many things. In 2017, a team of American chemists led by Kathryn Nelson looked at these studies closely. They argued that curcumin is a poor medicine. The body absorbs very little of it, it breaks down quickly, and it can give false results in laboratory tests. Other scientists point out that black pepper helps the body absorb more curcumin. They also say whole turmeric holds other chemicals too, and that some small trials look hopeful. Nobody has yet shown in a large, fair trial that haldi cures any illness. Scientists are still arguing, and the trials go on.
 - e.g. In 1998, scientists in Bengaluru found that piperine from black pepper raised the amount of curcumin in people's blood many times over.
@@ -120,6 +138,7 @@ Chilli, potato, tomato, papaya and cashew all came from the Americas within the 
 - e.g. Amaltas, the golden shower tree, is native to India. Kerala calls them kanikonna and uses the flowers at Vishu.
 - e.g. Gulmohar is from Madagascar, and jacaranda is from South America.
 - e.g. The money plant in many Indian flats first came from islands in the Pacific Ocean.
+- e.g. Palash is native to India. In February and March it drops its leaves and fills with orange-red flowers, so people call it the flame of the forest. In north India it is also called dhak or tesu, and families have made Holi colour from its flowers.
 ### Caring for a pot plant · *defined*
 **Definition:** A plant's roots need both water and air. Soil that is always soaked has no air in it, and the roots can rot.
 
@@ -481,9 +500,9 @@ Then she added one more line, smaller. 'I wonder what the neem thinks of us.'
   *Parent says:* What is that tree? Is that tree on our list? Indian or visitor? With 2 to 4 children, each child takes one side of the street or balcony and keeps a tally. Then add the tallies.  
   *Child mode:* Find trees and plants. Write each name. Mark it Indian or Visitor.
 - **s3 (7 min)**  
-  *Parent does:* Make a tally of Indian and visitor plants. Work out which is more.  
+  *Parent does:* Make a tally of Indian and visitor plants. Work out which is more. 4. Palash flowers in February and March. Is there one near you? Choose any plant near your home. Write the name your family uses for it, and another name in a language you know. Draw its flower or leaf and write the names beside it.  
   *Parent says:* Did you guess right? Why might so many visitors grow along roads and in parks?  
-  *Child mode:* Count Indian and Visitor plants. Which has more?
+  *Child mode:* Count Indian and Visitor plants. Which has more? Pick one plant. Write its name in two languages. Draw its flower or leaf.
   - Check: Tamarind is used in rasam all over South India. Where did the tamarind tree first grow? → **Africa**
 ### a3 · A Passport for an Indian Plant (30 min)
 - **record:** A plant passport with a drawing or picture, names, home on the map, what makes the plant special, dangers and who protects them.
@@ -624,12 +643,12 @@ Then she added one more line, smaller. 'I wonder what the neem thinks of us.'
   - Check: In a fair trial of kadha, why should the control group get a drink that looks and tastes like kadha? → **So people cannot tell which group they are in, because believing you got a remedy can make you feel better**
 
 ## Worksheets
-### How Plants Protect Themselves (core) (core, 15 questions)
+### How Plants Protect Themselves (core) (core, 18 questions)
 1. (mcq) Why do many plants make bitter, smelly or hot chemicals?  
-   Options: To protect themselves from insects, animals and moulds / To make food taste nice for people / Because they are old and going bad  
+   Options: To make food taste nice for people / Because they are old and going bad / To protect themselves from insects, animals and moulds  
    **Answer:** To protect themselves from insects, animals and moulds. *Why:* A plant cannot run away, so many plants protect themselves with chemistry. People found these chemicals useful later. Many people think the chemicals are there to make food taste nice, but they were there long before anyone cooked.
 2. (mcq) A clove is which part of the clove tree?  
-   Options: A dried flower bud / A seed / A piece of root  
+   Options: A seed / A dried flower bud / A piece of root  
    **Answer:** A dried flower bud. *Why:* Cloves are flower buds picked before they open and dried in the sun. Look at the little ball on top: that is the unopened flower.
 3. (truefalse) In Spice Guard, the four potato squares are left open for 30 minutes so that mould spores from the air can land on every square.  
    **Answer:** True. *Why:* True. Spores float in the air everywhere. Leaving every square open for the same time gives each one the same chance to catch spores, so the test stays fair.
@@ -646,7 +665,7 @@ Then she added one more line, smaller. 'I wonder what the neem thinks of us.'
 9. (truefalse) A plant remedy is natural, so the remedy is always safe for children.  
    **Answer:** False. *Why:* False. Plant defence chemicals are strong on purpose. Clove oil and neem oil have badly poisoned small children who swallowed them. The dose decides.
 10. (mcq) Why does a pot need a hole at the bottom?  
-   Options: So extra water can drain out and air can get back to the roots / So ants can get in / To make the pot lighter  
+   Options: So ants can get in / To make the pot lighter / So extra water can drain out and air can get back to the roots  
    **Answer:** So extra water can drain out and air can get back to the roots. *Why:* Roots need water and air. Without a hole, water fills every gap in the soil and the roots can rot.
 11. (odd) Which one is the odd one out, and why? Neelakurinji (grows wild only in India), red sanders (grows wild only in India), Nepenthes khasiana (grows wild only in India), gulmohar (came to India from Madagascar and grows in many countries).  
    **Answer:** Gulmohar, because gulmohar came from Madagascar. The other three are endemic to India: they grow wild only in India.. *Why:* Endemic plants grow wild in only one place. Gulmohar grows in many countries, and came to India from Madagascar.
@@ -657,9 +676,15 @@ Then she added one more line, smaller. 'I wonder what the neem thinks of us.'
 14. (perspective) A company makes a new tonic from a forest fruit. A forest community showed scientists the fruit, and had eaten it for generations.  
    **Answer:** Any answer with a reason and a fair point from the other side. For example: the community should get a share, because they found the fruit and kept it safe. But the scientist is right that testing costs money, so the company should also earn something. That is what happened with the Kani people of Kerala and the tonic Jeevani.. *Why:* A strong answer picks a side with a reason, and fairly states the other side's point. It may mention the Kani and Jeevani as a real example.
 15. (mcq) All the neelakurinji plants on a hillside bloom together, once in about 12 years, then make seeds and die. How might blooming all at once help them?  
-   Options: So many seeds are made together that seed-eaters cannot eat them all / Because the flowers are blue / So each flower can see the others  
+   Options: Because the flowers are blue / So each flower can see the others / So many seeds are made together that seed-eaters cannot eat them all  
    **Answer:** So many seeds are made together that seed-eaters cannot eat them all. *Why:* When every plant makes seeds at the same time, animals that eat seeds get far more than they can eat, so many seeds survive. Nobody yet knows how the plants keep count of the years.
-### Testing Plant Knowledge (stretch) (stretch, 15 questions)
+16. (draw) Draw a plant that lives in a desert and a plant that lives in water. Label one adaptation on each, and say how it helps.  
+   **Answer:** A cactus with waxy skin labelled 'keeps water in', and a lotus or water hyacinth with a hollow stalk or puffy stalk labelled 'carries air' or 'floats'.. *Why:* Each plant's body suits its place. A good label says what the part does, not only its name.
+17. (match) Match each plant to what we make from it.  
+   **Answer:** Coconut husk → coir rope and doormats; Cotton seed hairs → thread for cloth; Jute stem → sacks and bags; Rubber tree latex → tyres and balloons. *Why:* Wood, coir, cotton, jute and rubber are all plant parts that people have learned to use.
+18. (sort) Sort these: can the first-aid box handle it, or does a doctor need to see it?  
+   **Answer:** small scrape on the knee → First-aid box; tiny scratch from a thorn → First-aid box; burn that blisters → See a doctor; cut that keeps bleeding → See a doctor; child who swallowed clove oil → See a doctor. *Why:* A first-aid box is for small hurts. Burns that blister, bleeding that will not stop and swallowed oil need a doctor at once.
+### Testing Plant Knowledge (stretch) (stretch, 17 questions)
 1. (mcq) A tomato leaf is chewed by a caterpillar. What happens to the plant's other leaves?  
    Options: Signals travel to them and they make more defence chemicals / Nothing, only the bitten leaf changes / They all fall off  
    **Answer:** Signals travel to them and they make more defence chemicals. *Why:* Plants sense a bite and send signals around their body. Other leaves get ready before the caterpillar reaches them. Many people think only the bitten leaf changes, but scientists have measured the signals.
@@ -668,7 +693,7 @@ Then she added one more line, smaller. 'I wonder what the neem thinks of us.'
 3. (order) Put these steps of the Spice Guard test in the right order.  
    **Answer:** ['Cut four equal potato squares', 'Leave them open to the air for 30 minutes', 'Add a powder to three squares and leave one plain', 'Close the boxes and keep them in a cupboard', 'Count the mouldy squares each day', 'Draw a line graph']. *Why:* The squares must catch spores before they are covered and closed. Then you count each day, and draw the graph at the end.
 4. (mcq) Three money plant cuttings stood in water. After 14 days, cutting A had 5 roots, cutting B had 2 roots, and cutting C had none. Which cutting had no node?  
-   Options: C / A / B  
+   Options: A / B / C  
    **Answer:** C. *Why:* Roots grow from the nodes. A cutting with no node grows no roots.
 5. (write) In the Node Test, cutting A, with a node and a leaf, rooted faster than cutting B, with a node and no leaf. Why might the leaf help?  
    **Answer:** The leaf makes food from sunlight. The cutting can use that food to build new roots. Without a leaf, cutting B has only the food stored in their stem.. *Why:* A strong answer links the leaf to making food, and food to building roots.
@@ -686,7 +711,7 @@ Then she added one more line, smaller. 'I wonder what the neem thinks of us.'
 11. (write) Someone says, 'Our tulsi kadha must work, because my great-grandmother used it.' Are they right? What would you need to find out?  
    **Answer:** Not yet. The kadha might work, but being old only shows that people trusted the kadha. We need a fair trial: two groups of people with colds, one drinking kadha and one drinking a similar drink without tulsi, and compare how fast they get better.. *Why:* A strong answer respects the tradition but says age is not proof, and describes a fair comparison.
 12. (mcq) Why are there so many endemic plants in the Western Ghats and the hills of Meghalaya?  
-   Options: Their plants were cut off from other places for a very long time, so new kinds grew there / Endemic plants only grow in rain / People planted them all there  
+   Options: Endemic plants only grow in rain / People planted them all there / Their plants were cut off from other places for a very long time, so new kinds grew there  
    **Answer:** Their plants were cut off from other places for a very long time, so new kinds grew there. *Why:* Hills and islands keep plants apart from other places. Over a long time, new kinds of plants grow there and nowhere else.
 13. (fill) A plant brought from another land who spreads so fast that they crowd out native plants is called an ____ plant.  
    **Answer:** ['invasive']. *Why:* Lantana and water hyacinth are invasive plants in India.
@@ -694,13 +719,17 @@ Then she added one more line, smaller. 'I wonder what the neem thinks of us.'
    **Answer:** False. *Why:* False. Most visitors, like papaya and chilli, live quietly beside native plants. Only a few, like lantana and water hyacinth, spread so fast that they crowd out others.
 15. (write) A drop of clove oil can ease a toothache, but a child who drinks clove oil can become very ill. How can the same chemical help and harm?  
    **Answer:** The chemical is strong, because the clove made it to protect themselves. A tiny amount on one tooth numbs it a little. A large amount swallowed reaches the whole body and harms it. The dose decides.. *Why:* A strong answer uses the idea of dose and explains why defence chemicals are strong.
+16. (fill) People line earthen grain pots with dry ____ leaves, because insects stop feeding on the bitter taste.  
+   **Answer:** ['neem']. *Why:* Neem leaves hold a bitter defence chemical. A bamboo basket coated with dried cow dung keeps grain safe in a different way: the dry coat closes the gaps.
+17. (draw) Draw the flower or leaf of one plant near your home, like palash in spring. Write its name in two languages beside it.  
+   **Answer:** A neat drawing of one flower or leaf with two names, such as 'palash' and 'dhak', or the names your family uses.. *Why:* The same plant often has many names in many languages. Writing them down keeps local plant knowledge alive.
 ### Medicines, Owners and Rare Plants (challenge) (challenge, 15 questions)
 1. (write) Someone says, 'Spice Guard proves that clove powder will cure an infection on my skin.' Explain what Spice Guard does show and what it does not.  
    **Answer:** Spice Guard shows that clove powder stopped mould growing on potato in a box. It does not show that clove is safe on skin, that it works inside a person's body, or that it cures an infection. Those need tests in people, done by doctors, with the right dose.. *Why:* A strong answer separates a laboratory result on food from a cure in people, and mentions safety and dose.
 2. (perspective) In 1995, a patent office in America gave two researchers a patent for using turmeric powder to heal wounds. Indian scientists showed old Indian texts that described this use, and the patent was cancelled in 1997.  
    **Answer:** A strong answer says the patent was wrong because the use was already known, but understands that the officer could not read the texts. Good solutions: India puts old knowledge into a library patent officers can search, which India did with the Traditional Knowledge Digital Library. Patent offices check such libraries before they give a patent.. *Why:* Both sides have a point. A strong answer finds a solution that respects both, like the Traditional Knowledge Digital Library.
 3. (mcq) Suppose that in Too Much Water?, cup A, with holes and watered only when dry, got about half as much water as cup B over 12 days. Both cups grew about the same number of healthy seedlings. What would this show?  
-   Options: Watering every day was not needed, because the soil in cup A still had enough water / Methi grows better with no water at all / Cup B had too little water  
+   Options: Methi grows better with no water at all / Watering every day was not needed, because the soil in cup A still had enough water / Cup B had too little water  
    **Answer:** Watering every day was not needed, because the soil in cup A still had enough water. *Why:* Cup A got water only when the soil was dry, and did just as well. Extra water drained out of cup B and was wasted. The plant needed some water, not as much as possible.
 4. (write) Design a fair test to find out whether dry neem leaves keep weevils out of rice. Say what you would change, what you would keep the same, and what you would measure.  
    **Answer:** Use two tins of the same size, filled with the same amount of the same rice. Put 10 dry neem leaves in one and nothing in the other. Keep both in the same cupboard for the same time. After a month, count the weevils in a cup of rice from each tin.. *Why:* A strong answer changes only the neem leaves, keeps the rice, tins, place and time the same, and measures something countable.
@@ -727,7 +756,7 @@ Then she added one more line, smaller. 'I wonder what the neem thinks of us.'
 14. (write) Asima Chatterjee was the first woman to earn a Doctor of Science degree from an Indian university, in 1944. Why do you think it took so long for a woman to earn one? What might have been lost?  
    **Answer:** Many families and universities did not let girls study science, and few women were given labs or jobs. Many women who could have found medicines never had the chance. So discoveries were lost or delayed.. *Why:* A strong answer names real barriers, like who was allowed to study, and says what science loses when people are left out.
 15. (mcq) A plant has a chemical that kills mould on food in a box. What should scientists test next, before anyone uses the chemical as a medicine?  
-   Options: Whether the chemical is safe for people, and what dose is needed / Nothing more, it is ready / Whether the plant has nice flowers  
+   Options: Nothing more, it is ready / Whether the chemical is safe for people, and what dose is needed / Whether the plant has nice flowers  
    **Answer:** Whether the chemical is safe for people, and what dose is needed. *Why:* A laboratory test is only the first step. Next come careful tests of safety and dose, then fair trials in people.
 
 ## Videos
@@ -737,28 +766,28 @@ Then she added one more line, smaller. 'I wonder what the neem thinks of us.'
 
 ## Quiz
 1. (mcq) Neem leaves taste bitter. Who is the bitterness mainly for?  
-   Options: The neem, to keep insects from eating the leaves / People, to use in medicine / Birds, to make them sing  
+   Options: People, to use in medicine / The neem, to keep insects from eating the leaves / Birds, to make them sing  
    **Answer:** The neem, to keep insects from eating the leaves. *Why:* The neem was bitter long before people used neem leaves. People borrowed the neem's protection later.
 2. (mcq) Which chemical makes a chilli hot?  
-   Options: Capsaicin / Curcumin / Eugenol  
+   Options: Curcumin / Eugenol / Capsaicin  
    **Answer:** Capsaicin. *Why:* Capsaicin burns the mouths of mammals. Curcumin is the yellow in haldi, and eugenol is the smell of clove.
 3. (mcq) In Spice Guard, which square is the control?  
-   Options: The plain potato with nothing added / The clove potato / The haldi potato  
+   Options: The clove potato / The plain potato with nothing added / The haldi potato  
    **Answer:** The plain potato with nothing added. *Why:* The control has nothing new added. It shows what happens anyway, so you can compare the others with it.
 4. (mcq) In Spice Guard, you count the same 16 grid squares on each potato, every day. Why?  
-   Options: So the numbers on each potato and each day can be compared fairly / Because 16 is a lucky number / So the boxes look neat  
+   Options: Because 16 is a lucky number / So the numbers on each potato and each day can be compared fairly / So the boxes look neat  
    **Answer:** So the numbers on each potato and each day can be compared fairly. *Why:* Counting the same squares on every potato, on the same days, makes the numbers comparable.
 5. (mcq) Which medicine for high blood pressure came from sarpagandha root?  
-   Options: Reserpine / Aspirin / Artemisinin  
+   Options: Aspirin / Artemisinin / Reserpine  
    **Answer:** Reserpine. *Why:* Reserpine was taken out of sarpagandha root in 1952. Aspirin came from a chemical in willow bark, and artemisinin from sweet wormwood.
 6. (mcq) A medicine for epilepsy was made from a small water fern that people in Bengal eat as a green. Why do scientists study plants that people already use as food or medicine?  
-   Options: Such plants may hold useful chemicals worth testing / Every plant is a medicine / Ferns are the only plants with medicines  
+   Options: Every plant is a medicine / Such plants may hold useful chemicals worth testing / Ferns are the only plants with medicines  
    **Answer:** Such plants may hold useful chemicals worth testing. *Why:* If people have used a plant for a long time, it may contain something that works. Scientists then test it carefully to find out what it does and whether it is safe.
 7. (mcq) A fair trial of a remedy gives one group the remedy. What does the control group get?  
-   Options: A placebo that looks and tastes the same but should do nothing / Twice as much remedy / Nothing, and they are told so  
+   Options: Twice as much remedy / A placebo that looks and tastes the same but should do nothing / Nothing, and they are told so  
    **Answer:** A placebo that looks and tastes the same but should do nothing. *Why:* A placebo stops people knowing which group they are in, because believing you got a remedy can make you feel better.
 8. (mcq) Why can a natural plant oil, like clove oil, be dangerous for a small child?  
-   Options: Defence chemicals are strong, and a large dose can poison / Natural things are never dangerous / Clove oil is made in a factory  
+   Options: Natural things are never dangerous / Defence chemicals are strong, and a large dose can poison / Clove oil is made in a factory  
    **Answer:** Defence chemicals are strong, and a large dose can poison. *Why:* The dose decides. A drop on a tooth can help. A spoonful swallowed by a child can harm badly.
 9. (mcq) Which plant is endemic to India, growing wild nowhere else?  
    Options: Red sanders / Gulmohar / Eucalyptus  
@@ -775,6 +804,21 @@ Then she added one more line, smaller. 'I wonder what the neem thinks of us.'
 13. (mcq) Why was the 1995 patent on using turmeric for wounds cancelled?  
    Options: Old Indian texts showed the use was already known / Turmeric does not grow in America / The patent was too short  
    **Answer:** Old Indian texts showed the use was already known. *Why:* You cannot patent something that people already knew and used. India's scientists showed the old texts.
+14. (mcq) A family lines an earthen pot with dry neem leaves before they pour in the rice. Why?  
+   Options: The neem leaves make the rice taste sweeter / The bitter chemicals in neem stop weevils from feeding on the rice / The leaves soak up water so the rice can sprout / The leaves keep the pot warm in winter  
+   **Answer:** The bitter chemicals in neem stop weevils from feeding on the rice. *Why:* Neem leaves are bitter because of a defence chemical, and insects that taste it stop feeding. People borrowed that shield for their grain. The sweeter-rice answer is a guess about taste, but the job of neem here is to keep insects out.
+15. (mcq) Mangrove roots poke up out of the salty mud of the Sundarbans like pencils. Why does this suit the place?  
+   Options: The mud has little air, so the roots can breathe above it / The roots catch sunlight for the tree / The roots store salt for the tree to eat / The roots make the tree look tall  
+   **Answer:** The mud has little air, so the roots can breathe above it. *Why:* Roots need air, and the mud that floods with the tide has very little. Roots that stand above the mud take in air. Picking 'catch sunlight' mixes roots up with leaves, which are the parts that catch light.
+16. (mcq) The brown hairy husk of a coconut is spun into rope and doormats in Kerala. What is this fibre called?  
+   Options: Jute / Latex / Cotton / Coir  
+   **Answer:** Coir. *Why:* The husk fibre of the coconut is called coir. Jute is a fibre from a stem. Latex is milky sap. Cotton fibre grows round the cotton seed.
+17. (mcq) Which of these needs a doctor, and not only a bandage from the first-aid box?  
+   Options: A cut that keeps bleeding after ten minutes of firm pressing / A small scrape on the knee / A mosquito bite that itches / A dry patch of skin on the hand  
+   **Answer:** A cut that keeps bleeding after ten minutes of firm pressing. *Why:* A first-aid box is for small hurts. A cut that will not stop bleeding is serious, so a grown-up should get a doctor at once.
+18. (mcq) Why is the palash tree called the flame of the forest?  
+   Options: Its leaves burn easily when forest fires start / In spring its bare branches fill with orange-red flowers that look like flames / It grows only where fires have burned the forest / Its wood glows red in the dark  
+   **Answer:** In spring its bare branches fill with orange-red flowers that look like flames. *Why:* Palash drops its leaves in the dry season and flowers in February and March. Whole trees look like they are on fire. The tree does not burn, and its wood does not glow.
 
 ## Applications
 - Chemists study plant defence chemicals to find new medicines.
@@ -790,12 +834,12 @@ Then she added one more line, smaller. 'I wonder what the neem thinks of us.'
 
 ## Spotted around us
 - Dry neem leaves in a rice or dal tin in the kitchen.
-- Neem flowers and jaggery in the Ugadi pachadi, eaten in Karnataka, Andhra Pradesh and Telangana, bitter and sweet in one bite.
-- Amaltas, called kanikonna in Kerala, in yellow bloom in April, and their flowers arranged for Vishu.
-- Palash turning a forest edge in Jharkhand or Madhya Pradesh orange-red in spring.
+- Neem flowers and jaggery in the Ugadi pachadi, bitter and sweet in one bite.
+- Amaltas trees in yellow bloom in April, and their flowers arranged for Vishu.
+- Palash trees turning a forest edge orange-red in spring.
 - A money plant cutting rooting in a glass bottle on a windowsill in a flat.
-- Mahua flowers collected from the ground early in the morning in central India.
-- A kavu, a small sacred grove, beside a home or temple in Kerala.
+- Mahua flowers collected from the ground early in the morning.
+- A small sacred grove, a patch of old trees beside a home or temple.
 - Lantana bushes with small multicoloured flowers along a forest road or a railway line.
 
 ## Open questions
@@ -846,14 +890,20 @@ Plants of India (sci.plants.L4): Topic-level song
 - [Traditional Knowledge Digital Library (TKDL)](https://www.tkdl.res.in/) · interactive: For the parent: India's library of traditional medicine knowledge, made so that patent offices can check it.
 - [Flowers of India](https://www.flowersofindia.net/) · interactive: Look up the trees and flowers from Indian or Visitor? and find where each one first came from.
 - [iNaturalist](https://www.inaturalist.org/) · interactive: With a grown-up, photograph a plant and get a suggested name. Scientists check the records.
-- [Eravikulam National Park]() · place · Munnar, Kerala: Grassy hills where neelakurinji blooms about every 12 years, and the endangered Nilgiri tahr lives.
-- [Mawphlang Sacred Forest]() · place · Mawphlang, near Shillong, Meghalaya: One of India's best-known sacred groves. Local guides lead walks through the old forest.
-- [Jawaharlal Nehru Tropical Botanic Garden and Research Institute]() · place · Palode, Thiruvananthapuram, Kerala: The research garden whose scientists worked with the Kani people on arogyapaacha and Jeevani. It has large collections of Western Ghats plants.
+- Eravikulam National Park · place · Munnar, Kerala: Grassy hills where neelakurinji blooms about every 12 years, and the endangered Nilgiri tahr lives.
+- Mawphlang Sacred Forest · place · Mawphlang, near Shillong, Meghalaya: One of India's best-known sacred groves. Local guides lead walks through the old forest.
+- Jawaharlal Nehru Tropical Botanic Garden and Research Institute · place · Palode, Thiruvananthapuram, Kerala: The research garden whose scientists worked with the Kani people on arogyapaacha and Jeevani. It has large collections of Western Ghats plants.
 
 ## Things to buy
 - [Zip bags or small clear plastic boxes with lids](https://www.amazon.in/s?k=zip+lock+bags+small) (material): To keep the Spice Guard potato squares sealed while you count mould through the plastic. Clean food boxes from the kitchen work too. Used in e1. 
 - [A 30 cm ruler with millimetre marks](https://www.amazon.in/s?k=30+cm+scale+ruler) (tool): To measure roots and shoots in millimetres in the Node Test, Too Much Water? and the herb pot. Used in e2, e3, p1. 
 - [Hand lens (magnifying glass)](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): Optional. To look closely at nodes, new roots and the first threads of mould. A simple lens costs about Rs 50 to 100 at a stationery shop. Used in e1, e2, p1. 
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Holiday Water: keep a pot plant alive for a week alone. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in c1. Get it before Holiday Water: keep a pot plant alive for a week alone.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Too Much Water? Methi seedlings in three cups. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e3. Get it before Too Much Water? Methi seedlings in three cups.
+- [A measuring jug or syringe (marked in millilitres)](https://www.amazon.in/s?k=measuring+jug+500+ml) (tool): Used in Holiday Water: keep a pot plant alive for a week alone. About ₹30 to ₹100. A clean medicine cup or marked bottle works. Used in c1. Get it before Holiday Water: keep a pot plant alive for a week alone.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Spice Guard: do haldi and clove stop mould on potato?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e1. Get it before Spice Guard: do haldi and clove stop mould on potato?.
+- [Iron nails or iron filings](https://www.amazon.in/s?k=iron+filings+science) (material): Used in Too Much Water? Methi seedlings in three cups, Holiday Water: keep a pot plant alive for a week alone. About ₹20 to ₹80. Short steel nails from a hardware shop. Used in e3, c1. Get it before Too Much Water? Methi seedlings in three cups.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - A clove is a dried flower ____. → Bud.

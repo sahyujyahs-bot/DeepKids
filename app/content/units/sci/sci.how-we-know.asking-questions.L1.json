@@ -33,6 +33,12 @@
    "art": "A girl lying on her tummy on a kitchen floor, watching one ant carry a sugar grain, her chin on her hands."
   },
   {
+   "term": "Measure",
+   "meaning": "To measure is to find out how long, how much or how heavy something is, by comparing it with something else, like hands, cups or a ruler.",
+   "example": "You measure a book by laying your hand along it again and again, and counting.",
+   "art": "A child's hand pressed flat along a book, with tick marks on a paper beside it."
+  },
+  {
    "term": "Clue",
    "meaning": "A clue is something you notice that helps you work out something you cannot see. Scientists call clues evidence.",
    "example": "Wet footprints on the floor are a clue that someone just had a bath.",
@@ -43,6 +49,12 @@
    "meaning": "A scientist is a person who asks questions about the world, and finds out by observing and testing. Anyone who does this is doing science, children too.",
    "example": "When you shake a dabba to find out what is inside, you are doing what a scientist does.",
    "art": "A woman scientist in a lab coat and a girl in a frock, both shaking small closed boxes and listening, side by side."
+  },
+  {
+   "term": "Table",
+   "meaning": "A table is boxes in rows and columns where we write what we found, so it is easy to read and compare.",
+   "example": "A table with Pod 1, Pod 2 and Pod 3 in one column, and the number of seeds in the next column.",
+   "art": "A small grid drawn on paper with three rows and two columns, with a pencil beside it."
   }
  ],
  "explanations": [
@@ -73,6 +85,48 @@
    "perspectives": [],
    "context": "This card is about how scientists look closely, using more than their eyes.",
    "art": "A girl holding one green elaichi pod very close to her eye, with a cracked-open pod and tiny black seeds on her other palm."
+  },
+  {
+   "concept": "Staying safe while we find out",
+   "status": "defined",
+   "definition": "Staying safe means listening to the steps, asking a grown-up when you are not sure, and keeping your hands, nose and mouth away from danger.",
+   "description": "Finding out is fun, and it is also care. Listen to every step before you begin. Never taste a mystery thing. To smell something, do not put your nose into it. Wave the smell gently towards your nose with your hand. Ask a grown-up to open or cut anything sharp, and to help with anything hot. Wash your hands when you finish, and wipe up any spill so nobody slips.",
+   "examples": [
+    "A grown-up presses the elaichi pod open, and you smell it by waving the scent towards you.",
+    "You wipe up the spilled dal from the floor so that nobody slips.",
+    "You wash your hands with soap after touching the mystery dabbas."
+   ],
+   "perspectives": [],
+   "context": "This card is about the safe way to do any practical work.",
+   "art": "A girl waving her hand over a bowl to bring the smell to her nose, while a grown-up cuts a lemon at the counter behind her."
+  },
+  {
+   "concept": "Measuring with hands, blocks and cups",
+   "status": "defined",
+   "definition": "To measure is to find out how long, how much or how heavy something is, by comparing it with something else.",
+   "description": "You can measure with things you already have. How wide is a table? Count how many hands it takes to cover it. How much water does a jug hold? Count how many cups it fills. How tall is a tower? Count the blocks. These are non-standard units, because hands and cups are not the same everywhere. A grown-up's hand is bigger than yours, so they will count fewer hands. A ruler and a measuring cup have the same size for everyone, so they are best when we want to compare.",
+   "examples": [
+    "Your bed is 9 hands long. Your grandfather's hands are bigger, so he counts 7.",
+    "A big steel jug holds 6 small cups of water.",
+    "A tower of 5 blocks is taller than a tower of 3 blocks."
+   ],
+   "perspectives": [],
+   "context": "This card is about measuring with simple things.",
+   "art": "A child laying a hand down again and again along the edge of a table, with a tick on paper for each hand."
+  },
+  {
+   "concept": "Writing down what we find",
+   "status": "defined",
+   "definition": "To record is to keep what you found out, with a labelled picture, a few words or numbers in a table.",
+   "description": "We forget quickly, so scientists write down what they find. One way is a labelled picture. Draw the thing, and write a word beside each part, like skin, seeds and stem. Another way is a table, which is boxes in rows and columns. A table helps you keep numbers in order so you can compare them. Put the thing's name in one column and what you found in the next.",
+   "examples": [
+    "A picture of an elaichi pod with the words skin, seeds and stem written beside each part.",
+    "A table with Pod 1, Pod 2 and Pod 3 in one column and the number of seeds in the next.",
+    "A picture of a steel dabba with the words lid and handle written beside each part."
+   ],
+   "perspectives": [],
+   "context": "This card is about how to keep what you found out.",
+   "art": "A notebook page with a drawn elaichi pod with three labels, and a small table beside it with two columns and three rows."
   },
   {
    "concept": "Clues tell us about things we cannot see",
@@ -310,10 +364,10 @@
       "q": "Which question tells you the most at the start?",
       "options": [
        "Is it the red cup?",
-       "Is it soft?",
-       "Is it my shoe?"
+       "Is it my shoe?",
+       "Is it soft?"
       ],
-      "a": 1,
+      "a": 2,
       "why": "'Is it soft?' splits the whole room into soft things and hard things. Naming one thing only checks one thing."
      },
      "think": "What makes a question a good question?"
@@ -437,10 +491,10 @@
       "q": "You rolled WHY and turned over the card Ice in a glass. Which is a good question to ask?",
       "options": [
        "Ice is cold.",
-       "Why does ice get smaller in a glass?",
-       "I like ice."
+       "I like ice.",
+       "Why does ice get smaller in a glass?"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A good question starts with the rolled word and asks about the thing. Now you can watch the ice and find out."
      }
     }
@@ -699,7 +753,7 @@
   {
    "id": "a1",
    "title": "One Elaichi, Four Senses: how many things can you notice?",
-   "mins": 10,
+   "mins": 15,
    "context": "In this activity you observe one tiny elaichi pod as closely as you can. You use your eyes, hands, ears and nose, and count how many things you notice. You will find out how much more you see when you look slowly.",
    "materials": [
     {
@@ -712,6 +766,10 @@
     },
     {
      "item": "paper and a pencil to count what you notice",
+     "qty": 1
+    },
+    {
+     "item": "a ruler, or a strip of paper marked in finger widths",
      "qty": 1
     }
    ],
@@ -755,7 +813,7 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Press one pod with your thumb until it splits. Your child looks at the seeds and smells the open pod.",
+     "do": "Press one pod with your thumb until it splits. Your child looks at the seeds and smells the open pod. Everyone washes their hands when this step is done.",
      "say": "I'll open this one. Look inside. What do you see? Now smell it. Is the smell stronger or weaker than before?",
      "kid": "Look at the seeds. Smell the open pod.",
      "adult": true,
@@ -790,12 +848,19 @@
       "q": "When did you notice more about the elaichi?",
       "options": [
        "After one quick look",
-       "After looking slowly and using more senses",
-       "Both were the same"
+       "Both were the same",
+       "After looking slowly and using more senses"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Looking slowly, and using your hands, ears and nose too, gives you many more clues than one quick look."
      }
+    },
+    {
+     "id": "s5",
+     "mins": 5,
+     "do": "1. Draw the elaichi pod on paper. 2. Write labels beside the skin and the seeds. 3. Measure the pod's length with finger widths, or with the ruler. 4. Make a small table: write Pod 1, Pod 2 and Pod 3, with the length and the number of seeds.",
+     "say": "Let's keep what we found. Draw the pod and write a word beside each part. How many fingers long is it?",
+     "kid": "Draw the pod. Write skin and seeds. Measure it with your fingers. Write your numbers in a table."
     }
    ]
   },
@@ -1113,11 +1178,11 @@
       "t": "mcq",
       "q": "Your dabba with 3 coins sounds just like the secret dabba. What does that tell you?",
       "options": [
-       "The secret dabba probably has 3 coins too",
        "The secret dabba is empty",
-       "Nothing at all"
+       "Nothing at all",
+       "The secret dabba probably has 3 coins too"
       ],
-      "a": 0,
+      "a": 2,
       "why": "When two dabbas of the same kind sound and feel the same, they probably hold the same things. Opening the lid checks it."
      }
     }
@@ -1156,10 +1221,10 @@
    "p": "You see a snail on the balcony wall. Which one is a question?",
    "opts": [
     "The snail is slow.",
-    "Why does the snail leave a shiny line?",
-    "I like snails."
+    "I like snails.",
+    "Why does the snail leave a shiny line?"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A question asks something you want to find out. 'Why does the snail leave a shiny line?' asks. The other two only tell.",
    "outcome": 0
   },
@@ -1167,11 +1232,11 @@
    "t": "mcq",
    "p": "You want to find out why the ceiling fan makes a clicking sound. What should you do first?",
    "opts": [
-    "Watch and listen to the fan closely",
     "Decide it is broken",
+    "Watch and listen to the fan closely",
     "Forget about it"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Observing closely comes first. You may see where the click comes from, and how often it comes.",
    "outcome": 0
   },
@@ -1179,11 +1244,11 @@
    "t": "mcq",
    "p": "Which question can you answer by looking closely at one ant?",
    "opts": [
-    "How many legs does the ant have?",
     "Who will win the cricket match?",
+    "How many legs does the ant have?",
     "What is my friend's name?"
    ],
-   "a": 0,
+   "a": 1,
    "why": "You can count the ant's legs by looking closely. The other questions have nothing to do with the ant.",
    "outcome": 1
   },
@@ -1192,10 +1257,10 @@
    "p": "To observe a flower closely, what should you do?",
    "opts": [
     "Look at the flower from across the room, once",
-    "Look closely, smell the flower and gently touch the petals",
-    "Close your eyes and guess"
+    "Close your eyes and guess",
+    "Look closely, smell the flower and gently touch the petals"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Observing means using your senses carefully, and looking more than once. Each sense gives a different clue.",
    "outcome": 1
   },
@@ -1203,11 +1268,11 @@
    "t": "mcq",
    "p": "Which sense must you never use on a mystery thing?",
    "opts": [
-    "Hearing",
     "Tasting",
+    "Hearing",
     "Seeing"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A mystery thing might be unsafe to eat. Scientists taste only things they know are food.",
    "outcome": 1
   },
@@ -1241,11 +1306,11 @@
    "t": "mcq",
    "p": "You guessed rice, but the dabba had dal in it. What is the best thing to do?",
    "opts": [
-    "Feel bad and stop",
     "Say which clue fooled you, and try again",
+    "Feel bad and stop",
     "Say you were right anyway"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Rice and dal sound alike. Knowing which clue fooled you helps you next time. That is how scientists learn from a wrong guess.",
    "outcome": 3
   },
@@ -1253,11 +1318,11 @@
    "t": "mcq",
    "p": "You guess what is in a shut dabba. Why do you open it at the end?",
    "opts": [
-    "To check if your clues led you to the right answer",
     "Because shaking is boring",
+    "To check if your clues led you to the right answer",
     "To eat what is inside"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Clues help you guess. Opening the lid checks the guess.",
    "how": "e1",
    "outcome": 3
@@ -1266,13 +1331,49 @@
    "t": "mcq",
    "p": "Nobody can dig to the middle of the Earth. How can scientists find out what is there?",
    "opts": [
-    "By studying how earthquake shaking travels through the Earth",
     "Only by guessing",
-    "By looking down a deep well"
+    "By looking down a deep well",
+    "By studying how earthquake shaking travels through the Earth"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Earthquake shaking travels differently through solid rock, liquid and metal. By studying it, scientists found a ball inside a ball: a solid inner core inside a liquid outer core.",
    "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "You want to smell the elaichi pod that a grown-up has opened. What is the safe way?",
+   "opts": [
+    "Push your nose right inside and sniff hard",
+    "Wave the smell towards your nose with your hand",
+    "Taste a tiny bit to check"
+   ],
+   "a": 1,
+   "why": "Waving brings a little of the smell to you. A strong sniff can hurt your nose, and you never taste a mystery thing.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "You measure the table with your hand and get 8 hands. Your grandfather gets 6 hands. Why?",
+   "opts": [
+    "His hand is bigger than yours",
+    "The table shrank",
+    "He counted wrong, because counts must always match"
+   ],
+   "a": 0,
+   "why": "Hands are not the same size, so the counts differ. The table is still the same length. A ruler is the same for everyone.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "You count the seeds in three elaichi pods: 5, 7 and 6. Why write them in a table?",
+   "opts": [
+    "The numbers stay neat, so we can read and compare them",
+    "It makes the pods bigger",
+    "A table is the only way to count seeds"
+   ],
+   "a": 0,
+   "why": "A table keeps what you found in rows and columns, so it is easy to compare. It does not change the pods, and you can count seeds without it.",
+   "outcome": 1
   }
  ],
  "worksheets": [
@@ -1328,11 +1429,11 @@
      "t": "mcq",
      "p": "A girl hears a tap-tap at her window every morning. What is the best thing to do first?",
      "opts": [
-      "Watch quietly to see what makes the sound",
       "Say it is a ghost",
+      "Watch quietly to see what makes the sound",
       "Shut the curtain and forget it"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Watching quietly is observing. It gives real clues, for example that a bird is pecking at his own reflection."
     },
     {
@@ -1406,23 +1507,75 @@
      "t": "mcq",
      "p": "You smell something sweet from the kitchen. What is the best way to find out what it is?",
      "opts": [
-      "Go and look, and ask what is cooking",
       "Say nothing and wonder all day",
-      "Taste everything in the kitchen"
+      "Taste everything in the kitchen",
+      "Go and look, and ask what is cooking"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Looking and asking are safe ways to get clues. Tasting unknown things is not."
     },
     {
      "t": "mcq",
      "p": "You want to know if your glass of milk is hot. What is the safest way to find out first?",
      "opts": [
-      "Look for steam and gently touch the outside of the glass",
       "Gulp it fast",
+      "Look for steam and gently touch the outside of the glass",
       "Put your finger in the milk"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Steam and a warm glass are clues from the outside. They tell you the milk is hot without hurting you."
+    },
+    {
+     "t": "sort",
+     "p": "Sort these into safe things to do and things not to do.",
+     "cats": [
+      "Safe",
+      "Not safe"
+     ],
+     "items": [
+      [
+       "Wave the smell towards my nose",
+       "Safe"
+      ],
+      [
+       "Taste a mystery powder",
+       "Not safe"
+      ],
+      [
+       "Wash my hands when I finish",
+       "Safe"
+      ],
+      [
+       "Wait for a grown-up to cut the lemon",
+       "Safe"
+      ],
+      [
+       "Sniff with my nose pushed into a jar",
+       "Not safe"
+      ]
+     ],
+     "a": "see items",
+     "why": "Safe work means listening, waiting for a grown-up for sharp or hot things, and washing hands. Tasting and deep sniffing mystery things can hurt you."
+    },
+    {
+     "t": "match",
+     "p": "Draw a line from each thing to a good way to measure it at home.",
+     "pairs": [
+      [
+       "How long is my bed?",
+       "Count hands laid along it"
+      ],
+      [
+       "How much water is in the jug?",
+       "Count cups poured in"
+      ],
+      [
+       "How tall is my block tower?",
+       "Count blocks, or use a ruler"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Hands, cups and blocks are things we already have. A ruler gives the same answer for everyone."
     }
    ]
   },
@@ -1478,11 +1631,11 @@
      "t": "mcq",
      "p": "A doctor wants to know if your heart is beating well. She cannot see inside you. What does she do?",
      "opts": [
-      "She listens with a stethoscope",
       "She opens you up",
-      "She guesses"
+      "She guesses",
+      "She listens with a stethoscope"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The sound of your heart is a clue. A stethoscope helps her hear it clearly."
     },
     {
@@ -1530,11 +1683,11 @@
      "t": "mcq",
      "p": "You hear a drip, drip at night. Which question would help you find out most?",
      "opts": [
-      "Where is the sound coming from?",
       "Is it a nice sound?",
+      "Where is the sound coming from?",
       "Should I go to sleep?"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Knowing where the sound comes from tells you where to look next: the tap, the window or the roof."
     },
     {
@@ -1554,6 +1707,20 @@
      "lines": 2,
      "a": "A strong answer uses the Mystery Dabbas experiment: we never saw inside the dabbas, but sounds, weight and rolling told us what was there. Opening the lids checked it.",
      "why": "A strong answer uses the child's own experiment as evidence against the idea."
+    },
+    {
+     "t": "draw",
+     "p": "Draw a table with two columns, Pod and Seeds, and three rows. Write 5, 7 and 6 in the right boxes.",
+     "a": "A table with Pod 1, Pod 2 and Pod 3 in the first column, and 5, 7 and 6 beside them in the second.",
+     "why": "A table keeps names in one column and numbers in the next, so we can compare them at a glance.",
+     "art": "An empty table with two columns and three rows on a notebook page."
+    },
+    {
+     "t": "write",
+     "p": "Say it out loud, and a grown-up writes it: two children measure the same table. One says 8 hands and the other says 6 hands. Why, and how could they get the same answer?",
+     "lines": 2,
+     "a": "Their hands are different sizes. They could use the same hand, or a ruler.",
+     "why": "A strong answer says that hands are not all the same size, and gives one way to make the measuring fair."
     }
    ]
   }
@@ -1699,7 +1866,22 @@
    "why": "A large science centre with hands-on exhibits, good for a family day of wondering and trying."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "What do we call something that helps you work out what is hidden?",

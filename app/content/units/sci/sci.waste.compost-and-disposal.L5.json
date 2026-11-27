@@ -30,6 +30,12 @@
    "art": "A stack of old newspapers by a door, with a scrap dealer weighing a bundle on a hand balance."
   },
   {
+   "term": "Environment",
+   "meaning": "Everything around us, whether nature made it or people did. Soil, water, air, plants, animals, houses and streets are all part of it.",
+   "example": "A pond, a neem tree and the road in front of your house are all part of your environment.",
+   "art": "A street scene with a pond, a neem tree, houses and a road, with an arrow circling all of them."
+  },
+  {
    "term": "Organic waste",
    "meaning": "Waste that came from living beings, such as plants and animals. Decomposers can eat it, so it rots.",
    "example": "Vegetable peels, leftover rice, dry leaves, paper, cotton cloth and wood are organic waste.",
@@ -100,6 +106,12 @@
    "meaning": "The dirty liquid that drains out of a heap of waste. Rainwater soaks through the waste and carries dissolved matter with it.",
    "example": "The dark liquid at the bottom of a kitchen bin is leachate. Under a dump, it can reach the groundwater.",
    "art": "A dark trickle of liquid running out from the bottom of a waste heap into the soil."
+  },
+  {
+   "term": "Pesticide",
+   "meaning": "A chemical sprayed on crops to kill insects or other pests. Too much of it can poison soil, water and useful living beings.",
+   "example": "A farmer sprays pesticide on cotton plants. Some of it washes into the soil with the next rain, and earthworms there die.",
+   "art": "A farmer with a backpack sprayer in a cotton field, with a little stream of spray running into the soil."
   },
   {
    "term": "Incineration",
@@ -181,7 +193,7 @@
    "concept": "What decomposers do to organic waste, with air and without air",
    "status": "defined",
    "definition": "With plenty of air, decomposers turn organic waste into compost, carbon dioxide, water and heat. Without air, other microbes turn it into methane, carbon dioxide and strong-smelling gases.",
-   "description": "Decomposers who use air work fast, and their heap smells like damp earth. This is composting. A good part of the mass of the peels leaves as carbon dioxide and water vapour. The rest stays as dark compost. Deep inside a packed dump, the air is soon used up. A different set of microbes takes over there. They work slowly and give off methane. Methane burns, so it can start fires inside a dump. Methane also traps heat in the air. Over a hundred years, methane warms the Earth about 28 times as much as the same mass of carbon dioxide. A biogas plant uses the same microbes on purpose. It keeps wet waste in a closed tank, collects the methane and burns it as fuel. The slurry that is left goes to fields as manure.",
+   "description": "Decomposers who use air work fast, and their heap smells like damp earth. This is composting. A good part of the mass of the peels leaves as carbon dioxide and water vapour. The rest stays as dark compost. Deep inside a packed dump, the air is soon used up. A different set of microbes takes over there. They work slowly and give off methane. Methane burns, so it can start fires inside a dump. Methane also traps heat in the air. Over a hundred years, methane warms the Earth about 28 times as much as the same mass of carbon dioxide. A biogas plant uses the same microbes on purpose. It keeps wet waste in a closed tank, collects the methane and burns it as fuel. The slurry that is left goes to fields as manure. A village biogas plant can be fed cow dung, dry leaves, crop leftovers such as stalks and husks, and kitchen scraps. The family cooks on the gas and spreads the leftover manure on the field, so the matter goes back to the soil.",
    "examples": [
     "A balcony compost pot with dry leaves mixed in has air, and makes compost in about two months.",
     "Food waste buried under tonnes of other waste has no air, and makes methane for many years.",
@@ -252,14 +264,28 @@
    "concept": "How waste harms soil, water, air and living beings",
    "status": "defined",
    "definition": "Waste harms when it reaches a place where it blocks, poisons or is eaten. The harm depends on what the waste is made of and where it ends up.",
-   "description": "On land, plastic sheets in the soil stop water soaking in and roots spreading. Cows, dogs and goats who feed at open bins swallow plastic bags with the food inside them. The bags stay in a cow's stomach, and she can starve with a full belly. In water, plastic bags block drains, and streets flood. Organic waste harms water too. When food waste is tipped into a pond, microbes multiply to eat it. They use up the oxygen dissolved in the water, and fish die. Leachate from dumps carries salts and metals into wells. In the air, burning waste adds smoke and poisons, and dumps add methane. In the sea, sunlight and waves crack plastic into microplastics. Fish, birds and turtles swallow them. Microplastics have now been found in salt, in drinking water and in human blood.",
+   "description": "The environment is everything around us, whether nature made it or people did. It includes soil, water, air, plants, animals, houses and streets. When waste is thrown out properly, our surroundings stay clean and healthy for every living being. On land, plastic sheets in the soil stop water soaking in and roots spreading. Cows, dogs and goats who feed at open bins swallow plastic bags with the food inside them. The bags stay in a cow's stomach, and she can starve with a full belly. In water, plastic bags block drains, and streets flood. Organic waste harms water too. When food waste is tipped into a pond, microbes multiply to eat it. They use up the oxygen dissolved in the water, and fish die. Leachate from dumps carries salts and metals into wells. In the air, burning waste adds smoke and poisons, and dumps add methane. In the sea, sunlight and waves crack plastic into microplastics. Fish, birds and turtles swallow them. Microplastics have now been found in salt, in drinking water and in human blood. Soil is harmed in other ways too. Polythene and glass do not rot, so they stay in a field for years. Some farmers spray too much chemical pesticide, which is a poison made to kill insects. Rain carries it into the soil, where it also kills earthworms and the microbes that keep soil healthy. Some factories let waste water with metals and chemicals run into drains and fields. In such soil, seeds may not sprout, or roots may take up the poison. Then the crops grow weak, or carry the poison into the food. Soil that has been harmed by things added to it is called polluted soil.",
    "examples": [
     "In July 2005, very heavy rain flooded Mumbai. Drains choked with plastic bags made it worse, and the state then banned the thinnest bags.",
     "Vets in India have removed many kilograms of plastic bags from the stomachs of street cows.",
-    "People who live beside dumps breathe the smoke and often drink the water from nearby wells."
+    "People who live beside dumps breathe the smoke and often drink the water from nearby wells.",
+    "A farmer near a factory drain finds that her wheat seeds do not sprout well, and a soil test finds metals in the field."
    ],
    "perspectives": [],
    "art": "Four small scenes: a cow eating from a plastic bag at a bin, a flooded street with bags over a drain, fish gasping at the surface of a green pond, and smoke from a dump drifting over houses."
+  },
+  {
+   "concept": "Keeping soil clean",
+   "status": "defined",
+   "definition": "Soil stays clean when less waste and poison reach it, and when what does reach it can rot and feed it.",
+   "description": "Poisoned soil takes many years to heal, so it is better to stop the harm early. Sorting and recycling waste means less plastic and glass is buried in fields. Factories should clean their waste water and not let it run into drains and rivers. Farmers in India have used safer ways for a very long time. They crush neem leaves and seeds, soak them in water and spray the liquid to keep many insects off the crops. They spread compost and cow dung manure, which feed the soil and help it hold water. These do not stop every pest, so some farmers use a little chemical spray when they must. Scientists test how well the old methods work, and many farmers are returning to them.",
+   "examples": [
+    "A farmer sprays a neem-leaf mixture on her brinjal plants instead of a chemical pesticide.",
+    "A village pit where cow dung and dry leaves rot into manure for the next crop.",
+    "A factory that treats its waste water before letting it out."
+   ],
+   "perspectives": [],
+   "art": "A woman farmer spraying a neem mixture on vegetable plants, with a pit of dark manure beside the field."
   },
   {
    "concept": "Hazardous waste and e-waste at home",
@@ -301,6 +327,19 @@
    ],
    "perspectives": [],
    "art": "A waste truck with three separate coloured boxes stopping at a doorway, with a woman tipping a green bin into the green box."
+  },
+  {
+   "concept": "Cleanliness begins with our own habits",
+   "status": "defined",
+   "definition": "A habit is something we do again and again without thinking. A clean neighbourhood begins with the habits of each home.",
+   "description": "Keep two bins at home and label them. One is for organic waste, such as peels and leftover food. The other is for inorganic waste, such as packets, bottles and tins. Hospitals use bins of several colours for their waste, but two bins are a good start at home. Do not litter, and do not spit on the road, because spit can spread germs. Do not burn tyres or polythene, because the smoke is poison. If you have room, compost the wet waste in a pot or a pit. Children learn from what they see at home. A child who sorts the waste can teach a younger brother or sister, and also the grown-ups. A slogan is a short sentence that is easy to remember, and it can carry these habits to the whole street.",
+   "examples": [
+    "Two buckets by the kitchen door, one labelled 'organic' and one labelled 'inorganic'.",
+    "A girl who shows her little brother which bin the mango peel goes in.",
+    "A school wall painted with a slogan about keeping the street clean."
+   ],
+   "perspectives": [],
+   "art": "Two labelled buckets by a kitchen door, with a girl dropping a peel in one and her little brother holding a chips packet over the other."
   },
   {
    "concept": "The people who sort our waste",
@@ -677,11 +716,11 @@
       "q": "A cotton shirt and a polyester shirt are buried in the same damp soil. After many years, what is left?",
       "options": [
        "Both shirts have rotted",
-       "Only the polyester shirt is left",
        "Only the cotton shirt is left",
-       "Both shirts are left"
+       "Both shirts are left",
+       "Only the polyester shirt is left"
       ],
-      "a": 1,
+      "a": 3,
       "why": "Cotton is made by a plant, so decomposers can eat it. Polyester is a plastic, and decomposers cannot. Choosing 'both have rotted' means thinking that all cloth is one material."
      },
      "context": "This is the last step of A Hundred Years Later. Here you count the points and talk about the cards that surprised you."
@@ -827,11 +866,11 @@
       "q": "In The Last Landfill, why must SORTING AT HOME be bought before the compost plant?",
       "options": [
        "It is the cheapest thing to buy",
-       "Mixed waste cannot be composted or recycled",
        "The rules were made up that way",
+       "Mixed waste cannot be composted or recycled",
        "Sorting makes the waste smaller"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A compost plant needs wet waste with no plastic or glass in it. A recycler needs dry waste with no food on it. Both need the waste kept apart at home. Choosing 'makes the waste smaller' mixes up sorting with crushing."
      },
      "context": "This is the last step of The Last Landfill. Here you count the empty boxes and talk about which choice helped most."
@@ -1080,12 +1119,12 @@
       "t": "mcq",
       "q": "In the Float Tank Test, a bottle piece sank and a cap piece of the same size floated. What does this show?",
       "options": [
-       "The cap piece was thinner",
        "The two pieces are different materials",
+       "The cap piece was thinner",
        "The bottle piece had water inside it",
        "Coloured plastic always floats"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Two pieces of the same size did different things in the same water, so the materials must differ. Bottle plastic is denser than water and cap plastic is less dense. Choosing 'thinner' or 'coloured' means looking at shape or colour, which make no difference to floating."
      },
      "context": "This is the last step of the Float Tank Test. Here you explain why some plastics sank and others floated."
@@ -1307,10 +1346,10 @@
       "options": [
        "Thick metal foil",
        "Paper painted silver",
-       "Plastic film with a very thin metal coat",
-       "Glass"
+       "Glass",
+       "Plastic film with a very thin metal coat"
       ],
-      "a": 2,
+      "a": 3,
       "why": "Metal foil stays scrunched, and plastic film springs back. The silver colour is a coat of aluminium far thinner than kitchen foil. Choosing 'thick metal foil' means judging by colour alone."
      },
      "context": "This is the last step of Scrunch and Peel. Here you explain your results and think about why packets are made in layers."
@@ -1454,11 +1493,11 @@
       "q": "In the Crush Test, flattened waste filled far less of the bucket. What changed?",
       "options": [
        "The mass of the waste",
-       "The space the waste takes up",
        "The material of the waste",
+       "The space the waste takes up",
        "The number of pieces"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Flattening pushes the air out, so the waste takes up less space. Its mass, its material and the number of pieces all stay the same. Choosing 'mass' mixes up how heavy a thing is with how much room it takes."
      },
      "context": "This is the last step of the Crush Test. Here you explain why the same waste took up so much less space."
@@ -1684,11 +1723,11 @@
       "q": "A scrap dealer pays a lot for aluminium cans and nothing for chips packets. Why?",
       "options": [
        "Cans are heavier than packets",
-       "Cans are one material that can be remelted",
        "Packets are dirty and cans are clean",
+       "Cans are one material that can be remelted",
        "Packets are smaller than cans"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A can is one metal, and remelting it saves most of the energy of making new metal. A chips packet is plastic and metal stuck together, which no factory can separate cheaply. The price is paid for each kilogram, so the weight of one can does not explain it."
      },
      "context": "This is the last step of The Scrap Price Chart. Here you draw the prices as bars and explain the highest and the lowest."
@@ -1807,11 +1846,11 @@
       "q": "Which thing lasts the longest as waste, compared with how long it is used?",
       "options": [
        "A banana peel from one snack",
-       "A plastic bottle used for one day",
        "A steel tumbler used for twenty years",
+       "A plastic bottle used for one day",
        "A newspaper read for one day"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The bottle is used for a day and lasts for hundreds of years. The peel and the newspaper rot within weeks. The tumbler lasts long, but it is used for all that time. Choosing the tumbler means looking only at how long a thing lasts."
      },
      "context": "This is the last step of Use Time, Lasting Time. Here you find the thing that lasts longest compared with its use."
@@ -1908,12 +1947,12 @@
       "t": "mcq",
       "q": "A plastic bag in a field cracks into thousands of tiny pieces. What has happened to the plastic?",
       "options": [
-       "It has rotted into soil",
        "There is the same amount, in smaller pieces",
+       "It has rotted into soil",
        "There is less plastic than before",
        "It has turned into paper"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Cracking only makes the pieces smaller. Put together, they would make the same bag. Choosing 'rotted' mixes up breaking up, which sunlight does, with breaking down, which only decomposers can do."
      },
      "context": "This is the last step of Breaks Up, Not Away. Here you say what the paper model shows about plastic that cracks into pieces."
@@ -1983,15 +2022,75 @@
       "t": "mcq",
       "q": "A banana peel is burnt in a street fire. Where is most of its matter afterwards?",
       "options": [
+       "In the air, as gases and smoke",
        "Nowhere, because fire destroys it",
        "In the ash on the ground",
-       "In the air, as gases and smoke",
        "Inside the flames"
       ],
-      "a": 2,
+      "a": 0,
       "why": "Burning joins the peel's atoms with oxygen, and most of them leave as carbon dioxide, water vapour and smoke. Only a little ash stays. Choosing 'nowhere' means thinking that what we cannot see has stopped existing."
      },
      "context": "This is the last step of Where Did the Peel Go. Here you compare the four boxes and say whether any matter was destroyed."
+    }
+   ]
+  },
+  {
+   "id": "a6",
+   "title": "Two Bins and a Slogan",
+   "mins": 25,
+   "days": 1,
+   "context": "In this activity you set up two labelled bins at home and write a slogan to tell your street about clean habits. You will find out how a few words and a small habit can change what a whole street does.",
+   "materials": [
+    {
+     "item": "two buckets, boxes or old tins",
+     "qty": 2
+    },
+    {
+     "item": "paper, tape and a marker pen",
+     "qty": 1
+    },
+    {
+     "item": "a notebook and a pencil",
+     "qty": 1
+    }
+   ],
+   "record": "Keep the slogan poster. Write one thing the family changed this week, and who was told the slogan.",
+   "setup": [
+    {
+     "art": "Two buckets on a kitchen floor, one with a paper label ORGANIC and one with a label INORGANIC.",
+     "caption": "1. Label two bins: organic and inorganic."
+    },
+    {
+     "art": "A child writing a short slogan on a big sheet of paper with coloured pens, a trail of peels and packets drawn along the border.",
+     "caption": "2. Write a slogan and put it where people will see it."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 10,
+     "do": "1. Put two containers by the kitchen. 2. Write ORGANIC on one and INORGANIC on the other, in any language your family reads. 3. Ask each person to say where five things go: a peel, a chips packet, a tea bag, a steel tin, a banana leaf. 4. Use the bins for a week.",
+     "say": "We will keep two bins from today. Where does a peel go? Where does a chips packet go? What if we are not sure?",
+     "kid": "Label the two bins. Say where each thing goes. If you are not sure, ask: did it once live, or not?",
+     "parent": "Organic waste came from living beings, and decomposers can eat it: peels, leftover food, a tea bag, a banana leaf. Inorganic waste does not rot: packets, tins, glass, plastic. Put the organic bin out for compost, or in a compost pot. Keep the inorganic things clean and dry, and sell them to the kabadiwala.",
+     "context": "This is a habits activity. Here you set up two labelled bins at home."
+    },
+    {
+     "id": "s2",
+     "mins": 15,
+     "do": "1. Talk about what a good slogan is: short, true and easy to remember. 2. Write two or three slogans in your own language, such as one about not burning polythene or one about sorting waste at home. 3. Choose the best one. 4. Write it big on a sheet and put it where neighbours will see it.",
+     "say": "A slogan is a few words that people remember. What do we want the street to do? How can we say it in one line?",
+     "kid": "Write a short slogan to tell people one clean habit. Make it big. Put it up where people can see it.",
+     "ask": [
+      {
+       "q": "Which fact would make your slogan true?",
+       "good": [
+        "Burning polythene makes poisonous smoke.",
+        "Sorted wet waste can become compost."
+       ]
+      }
+     ],
+     "parent": "Good slogans are often short and rhyme. Let your child write in the home language. Do not spit on the road and do not litter are also good habits to put in a slogan. Ask your child to tell one younger child or neighbour the slogan and why it is true."
     }
    ]
   }
@@ -2370,11 +2469,11 @@
       "q": "A steel box keeps a snack as crisp as a chips packet. What is the main cost of using it?",
       "options": [
        "Steel cannot be recycled",
-       "The box is heavy and must be brought back",
        "Steel lets damp air through",
+       "The box is heavy and must be brought back",
        "A steel box rots quickly"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A steel box lasts for years and can be recycled. But it is heavy, and someone must carry it back to be refilled. The chips packet needs none of that. Every packaging choice gives up something."
      },
      "context": "This is the last step of The One-Material Pack. Here you judge your pack honestly against the chips packet."
@@ -2394,11 +2493,11 @@
      "p": "What makes a piece of waste 'organic'?",
      "opts": [
       "It is wet",
-      "It came from a living being",
       "It is brown",
-      "It smells bad"
+      "It smells bad",
+      "It came from a living being"
      ],
-     "a": 1,
+     "a": 3,
      "why": "Organic waste was made by a plant or an animal, so decomposers can eat it. Choosing 'wet' is a common slip. Paper and cotton are dry and still organic."
     },
     {
@@ -2491,12 +2590,12 @@
      "t": "mcq",
      "p": "A piece of drink bottle sinks in water. A piece of its cap floats. Why?",
      "opts": [
-      "The cap is coloured",
       "They are two different plastics",
+      "The cap is coloured",
       "The bottle piece is bigger",
       "The cap has tiny holes"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The bottle and the cap are different materials. Bottle plastic is denser than water, and cap plastic is less dense. Colour and size make no difference to floating.",
      "how": "e1"
     },
@@ -2561,6 +2660,14 @@
      "why": "The resin code names the kind of plastic, from 1 to 7. It is not a promise that the thing will be recycled."
     },
     {
+     "t": "fill",
+     "p": "Everything around us, made by nature or by people, is called our ____.",
+     "a": [
+      "environment"
+     ],
+     "why": "The environment includes soil, water, air, plants, animals, houses and streets."
+    },
+    {
      "t": "perspective",
      "p": "A family has a big heap of dry leaves swept from the yard. Two neighbours disagree about it.",
      "a": "A strong answer says that burning moves the leaves into the air as smoke and gases, which everyone breathes. It also takes the other side seriously: a loose heap can shelter pests, so the leaves should go in a covered compost pit or bin.",
@@ -2582,13 +2689,20 @@
      "t": "mcq",
      "p": "Which of these is hazardous waste?",
      "opts": [
-      "A banana peel",
       "A used battery",
+      "A banana peel",
       "A cardboard box",
       "A glass jar"
      ],
-     "a": 1,
+     "a": 0,
      "why": "A battery holds metals that can leak and poison soil and water. The other three are ordinary wet or dry waste."
+    },
+    {
+     "t": "write",
+     "p": "Your family will keep two bins at home. Write the label for each bin, and name three things that go in each. Where will you keep them?",
+     "lines": 4,
+     "a": "Organic: peels, leftover food, a banana leaf. Inorganic: a chips packet, a steel tin, a glass bottle. I will keep them by the kitchen door, where everyone passes.",
+     "why": "A strong answer puts things that once lived in one bin and things that never rot in the other, and chooses a place that is easy to use."
     },
     {
      "t": "write",
@@ -2609,12 +2723,12 @@
      "t": "mcq",
      "p": "Deep inside a dump there is no air. Which gas does rotting food make there?",
      "opts": [
-      "Oxygen",
       "Methane",
+      "Oxygen",
       "Steam",
       "Nitrogen"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Without air, a different set of microbes takes over, and they give off methane. Methane burns and traps heat in the air."
     },
     {
@@ -2693,11 +2807,11 @@
      "p": "Flattened dry waste filled a quarter of the bucket it had filled before. What left the bucket?",
      "opts": [
       "Plastic",
-      "Air",
       "Mass",
+      "Air",
       "Cardboard"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Bottles and boxes are mostly air inside. Flattening pushes the air out. The plastic, the card and their mass all stay.",
      "how": "e3"
     },
@@ -2783,15 +2897,39 @@
      ]
     },
     {
+     "t": "match",
+     "p": "Match each action to how it keeps soil clean.",
+     "pairs": [
+      [
+       "Neem-leaf spray on crops",
+       "keeps insects off without a strong poison"
+      ],
+      [
+       "Compost and cow dung manure",
+       "feeds the soil with rotted waste"
+      ],
+      [
+       "Sorting and recycling waste",
+       "less plastic and glass buried in fields"
+      ],
+      [
+       "A factory cleans its waste water",
+       "metals and chemicals stay out of fields"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each action stops a different kind of harm to soil before it starts."
+    },
+    {
      "t": "mcq",
      "p": "Paper can be recycled about five to seven times. Why not for ever?",
      "opts": [
-      "The ink runs out",
       "Its fibres get shorter each time",
+      "The ink runs out",
       "Paper turns into plastic",
       "Factories refuse old paper"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Each time paper is pulped, its plant fibres break and get shorter. Short fibres cannot hold a sheet together. Glass and metal do not have this limit."
     },
     {
@@ -2825,6 +2963,25 @@
      "why": "A strong answer shows both steps: divide by the days, then by the people.",
      "lines": 3,
      "how": "p1"
+    },
+    {
+     "t": "order",
+     "p": "Put the steps of a village biogas plant in order.",
+     "a": [
+      "Cow dung and dry leaves are put into the tank",
+      "Microbes eat the waste with no air",
+      "Gas collects in the tank",
+      "The family cooks on the gas",
+      "The leftover manure goes to the field"
+     ],
+     "why": "The microbes work inside a closed tank, and both the gas and the manure are used.",
+     "items": [
+      "The family cooks on the gas",
+      "Microbes eat the waste with no air",
+      "The leftover manure goes to the field",
+      "Cow dung and dry leaves are put into the tank",
+      "Gas collects in the tank"
+     ]
     }
    ]
   },
@@ -2867,12 +3024,12 @@
      "t": "mcq",
      "p": "A solid piece of plastic sinks in plain water and floats in strong salt water. What does this show?",
      "opts": [
-      "It is denser than both liquids",
       "It is denser than plain water only",
+      "It is denser than both liquids",
       "It is less dense than both",
       "Salt makes plastic lighter"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Its density lies between the two. It is a little denser than plain water and less dense than salt water. The salt changes the water, not the plastic.",
      "how": "e1"
     },
@@ -2960,11 +3117,11 @@
      "p": "A paper bag takes more water and energy to make than a plastic bag. When is paper better?",
      "opts": [
       "Always, whatever is done with it",
-      "When it is reused several times",
       "Never",
+      "When it is reused several times",
       "Only when it is white"
      ],
-     "a": 1,
+     "a": 2,
      "why": "A study in Britain found that a paper bag must be used 3 times to harm the climate less. Paper also rots if it is littered, which plastic does not. So the answer depends on how the bag is used."
     },
     {
@@ -3045,6 +3202,13 @@
      "why": "In none of the four does any matter stop existing. A strong answer names a place for the matter in every box.",
      "art": "Four boxes round a banana peel, showing a clay pot, a cut-away waste heap, a small fire and a cow, each with a blank label line.",
      "how": "a5"
+    },
+    {
+     "t": "write",
+     "p": "A good slogan is short, true and easy to remember. Write a slogan against burning polythene, and give one fact that makes it true.",
+     "lines": 3,
+     "a": "For example: 'Burn leaves into compost, not plastic into smoke.' It is true because burning polythene gives off poisonous smoke.",
+     "why": "A strong answer is short and kind to read, and the fact behind it is real."
     }
    ]
   }
@@ -3055,11 +3219,11 @@
    "p": "Which pair is organic waste?",
    "opts": [
     "A glass jar and a steel tin",
-    "A newspaper and a cotton rag",
     "A milk packet and a bottle",
+    "A newspaper and a cotton rag",
     "Foil and a broken tile"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Newspaper is made from trees and cotton from a plant, so decomposers can eat both. They are dry, but organic does not mean wet.",
    "outcome": 0
   },
@@ -3081,11 +3245,11 @@
    "p": "Peels rot in a compost pot with plenty of air. What do they become?",
    "opts": [
     "Methane and leachate",
-    "Compost, carbon dioxide and water",
     "Ash and smoke",
-    "Small pieces of plastic"
+    "Small pieces of plastic",
+    "Compost, carbon dioxide and water"
    ],
-   "a": 1,
+   "a": 3,
    "why": "With air, decomposers turn peels into compost, carbon dioxide and water. Methane and leachate come from rotting without air, as in a dump.",
    "outcome": 1
   },
@@ -3093,12 +3257,12 @@
    "t": "mcq",
    "p": "A sheet of paper weighs 5 grams. Its ash weighs far less. Where is the rest?",
    "opts": [
-    "It was destroyed by the fire",
     "In the air, as gases and smoke",
+    "It was destroyed by the fire",
     "Hidden inside the ash",
     "It turned into light only"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The atoms joined with oxygen and left as carbon dioxide, water vapour and smoke. Choosing 'destroyed' means thinking that matter we cannot see has stopped existing.",
    "outcome": 1
   },
@@ -3106,12 +3270,12 @@
    "t": "mcq",
    "p": "Why can a big dump catch fire by itself?",
    "opts": [
-    "Buried food waste makes methane, which burns",
     "Plastic gets hot in the rain",
     "Glass rots and makes heat",
+    "Buried food waste makes methane, which burns",
     "Leachate is a fuel"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Deep in a dump there is no air, so rotting food gives off methane. Methane burns easily and can smoulder inside the heap for weeks.",
    "outcome": 2
   },
@@ -3119,12 +3283,12 @@
    "t": "mcq",
    "p": "Two plastic flakes look the same. In water, one sinks and one floats. What can you say for sure?",
    "opts": [
-    "They are different materials",
     "One is older than the other",
     "One is dirtier than the other",
-    "They are the same plastic"
+    "They are the same plastic",
+    "They are different materials"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The same water treated them differently, so their densities differ, and so they are different materials. Age and dirt do not change whether a plastic floats.",
    "how": "e1",
    "outcome": 3
@@ -3133,12 +3297,12 @@
    "t": "mcq",
    "p": "Why does a recycling factory want one kind of plastic at a time?",
    "opts": [
-    "Mixed plastics melt into a weak material",
     "Mixed plastics are heavier",
     "One kind looks prettier",
+    "Mixed plastics melt into a weak material",
     "Mixed plastics rot in the machine"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Different plastics melt at different temperatures and do not mix well. The result is cloudy and weak, and few buyers want it.",
    "outcome": 3
   },
@@ -3161,11 +3325,11 @@
    "p": "Where should a used battery go?",
    "opts": [
     "In the wet waste",
-    "In the dry bag with paper",
     "In a separate closed box for hazardous waste",
+    "In the dry bag with paper",
     "Down the drain"
    ],
-   "a": 2,
+   "a": 1,
    "why": "A battery holds metals that leak into soil and water. It is kept apart and given to a collection point. In the dry bag it can be crushed in the truck.",
    "outcome": 5
   },
@@ -3188,11 +3352,11 @@
    "p": "Which choice is highest on the waste hierarchy?",
    "opts": [
     "Recycling a plastic bottle",
-    "Carrying water in a steel bottle",
     "Burning a plastic bottle",
-    "Burying a plastic bottle"
+    "Burying a plastic bottle",
+    "Carrying water in a steel bottle"
    ],
-   "a": 1,
+   "a": 3,
    "why": "Carrying a steel bottle means no plastic bottle is made or thrown at all. Reducing comes before recycling, because nothing has to be collected or melted.",
    "outcome": 6
   },
@@ -3201,13 +3365,73 @@
    "p": "Which of these do scientists still not know about plastic?",
    "opts": [
     "Whether it floats",
-    "How long it really lasts in nature",
     "What it is made from",
+    "How long it really lasts in nature",
     "Whether it can melt"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Plastic has been in wide use for less than a hundred years, so nobody has watched it for longer. The figures of hundreds of years are worked out from short tests.",
    "outcome": 7
+  },
+  {
+   "t": "mcq",
+   "p": "A farmer's field is next to a factory drain. Her wheat grows weak. Which could be the reason?",
+   "opts": [
+    "The soil has too many earthworms",
+    "The wheat is too well watered",
+    "Metals and chemicals from the drain have got into the soil"
+   ],
+   "a": 2,
+   "why": "Poisons in the soil can stop seeds sprouting, or be taken up by the roots. Earthworms help soil, and they die when soil is poisoned.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "Which action keeps a field's soil cleaner?",
+   "opts": [
+    "Burning polythene bags at the edge of the field",
+    "Burying plastic bags in the soil",
+    "Spraying a neem-leaf mixture and spreading compost"
+   ],
+   "a": 2,
+   "why": "Neem spray and compost use things that rot, and they feed the soil. Burning polythene makes poison smoke, and buried plastic stays for years.",
+   "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these is part of the environment?",
+   "opts": [
+    "A pond, a road and a tulsi plant",
+    "Only forests and rivers",
+    "Only things that people have made"
+   ],
+   "a": 0,
+   "why": "The environment is everything around us, whether nature made it or people did. A pond and a tulsi plant came from nature, and the road was made by people.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "A home has two labelled bins, organic and inorganic. Where do a mango peel and a dry chips packet go?",
+   "opts": [
+    "The peel in the organic bin, the packet in the inorganic bin",
+    "Both in the organic bin",
+    "The peel in the inorganic bin, the packet in the organic bin"
+   ],
+   "a": 0,
+   "why": "A peel came from a plant and decomposers can eat it. A chips packet is plastic and does not rot.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these can go into a village biogas plant?",
+   "opts": [
+    "Glass bottles and steel tins",
+    "Plastic bags and old batteries",
+    "Cow dung, dry leaves and crop leftovers"
+   ],
+   "a": 2,
+   "why": "Microbes can eat dung, leaves and crop leftovers, and they make gas. They cannot eat glass, steel or plastic, and batteries poison the tank.",
+   "outcome": 1
   }
  ],
  "videos": [
@@ -3558,6 +3782,90 @@
     "a2"
    ],
    "plan": "Read it together after The Scrap Price Chart. By then your child has seen what each material is worth to the person who collects it."
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in The Crush Test: how much of our dry waste is air?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "e3"
+   ],
+   "plan": "Get it before The Crush Test: how much of our dry waste is air?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Crush Test: how much of our dry waste is air?, The Scrap Price Chart: what is each material worth?, The Seven-Day Waste Count: what is our family's waste made of?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e3",
+    "a2",
+    "p1"
+   ],
+   "plan": "Get it before The Crush Test: how much of our dry waste is air?."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in The Crush Test: how much of our dry waste is air?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "e3"
+   ],
+   "plan": "Get it before The Crush Test: how much of our dry waste is air?."
+  },
+  {
+   "id": "b-wooden-ice-cream-sticks--a-p",
+   "item": "Wooden ice-cream sticks (a pack)",
+   "kind": "material",
+   "why": "Used in Once Alive or Never Alive: sort twelve things. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in.",
+   "url": "https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Get it before Once Alive or Never Alive: sort twelve things."
+  },
+  {
+   "id": "b-butter-paper-or-tracing-pape",
+   "item": "Butter paper or tracing paper",
+   "kind": "material",
+   "why": "Used in The One-Material Pack: keep a snack crisp for two days. About ₹30 to ₹80 for a roll. Thin clean plastic bag or a sheet of waxed paper.",
+   "url": "https://www.amazon.in/s?k=butter+paper+roll",
+   "used_in": [
+    "c2"
+   ],
+   "plan": "Get it before The One-Material Pack: keep a snack crisp for two days."
+  },
+  {
+   "id": "b-a-measuring-jug-or-syringe--",
+   "item": "A measuring jug or syringe (marked in millilitres)",
+   "kind": "tool",
+   "why": "Used in The Seven-Day Waste Count: what is our family's waste made of?, A Dump That Does Not Leak. About ₹30 to ₹100. A clean medicine cup or marked bottle works.",
+   "url": "https://www.amazon.in/s?k=measuring+jug+500+ml",
+   "used_in": [
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before The Seven-Day Waste Count: what is our family's waste made of?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [
@@ -3743,6 +4051,7 @@
    "p1",
    "big_questions",
    "c2",
+   "a6",
    "ws-challenge",
    "open_questions",
    "roots",
@@ -3811,14 +4120,20 @@
     "source": "Bhagavad Gita 2.16",
     "teaching": "What is not real never comes to be, and what is real never stops being.",
     "link": "The Gita says this about the self, not about waste. Science found something like it about matter: the atoms in waste never stop existing. They only move and join in new ways.",
-    "verse": ["नासतो विद्यते भावो नाभावो विद्यते सतः।", "उभयोरपि दृष्टोऽन्तस्त्वनयोस्तत्त्वदर्शिभिः।।"],
+    "verse": [
+     "नासतो विद्यते भावो नाभावो विद्यते सतः।",
+     "उभयोरपि दृष्टोऽन्तस्त्वनयोस्तत्त्वदर्शिभिः।।"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Isha Upanishad, verse 1",
     "teaching": "Everything in this moving world belongs to the whole. Enjoy what you are given by letting go, and do not grab what is another's.",
     "link": "The first step of the waste hierarchy is to take less. The Earth's materials are shared with every other being, and what we take and throw stays in their world too.",
-    "verse": ["ॐ ईशा वास्यमिदँ सर्वं यत्किञ्च जगत्यां जगत्", "तेन त्यक्तेन भुञ्जीथा मा गृधः कस्यस्विद्धनम्"],
+    "verse": [
+     "ॐ ईशा वास्यमिदँ सर्वं यत्किञ्च जगत्यां जगत्",
+     "तेन त्यक्तेन भुञ्जीथा मा गृधः कस्यस्विद्धनम्"
+    ],
     "verse_lang": "sa"
    }
   ],

@@ -681,10 +681,10 @@
       "q": "A swing is at the very bottom of its path, moving at its fastest. Which kind of energy is bigger?",
       "options": [
        "Height energy",
-       "Movement energy",
-       "They are exactly equal"
+       "They are exactly equal",
+       "Movement energy"
       ],
-      "a": 1,
+      "a": 2,
       "why": "At the bottom the swing is lowest, so it has the least height energy. It is moving fastest, so it has the most movement energy. If you picked height, think about where the speed came from: it came from the height the swing fell."
      },
      "context": "In this step, you play one practice card to learn how the tokens work."
@@ -867,10 +867,10 @@
       "q": "With the peg, the bag swung a tighter path. Where did it stop on the far side?",
       "options": [
        "Much higher than the start",
-       "Much lower than the start",
-       "At nearly the same height as the start"
+       "At nearly the same height as the start",
+       "Much lower than the start"
       ],
-      "a": 2,
+      "a": 1,
       "why": "The bag rose to nearly the same height, whether or not there was a peg. The path changed, but the energy did not. If you picked higher, you may have been watching how fast the bag moved, not where it stopped."
      },
      "context": "In this step, you move the peg lower and test again. You write down what the bag does."
@@ -1053,11 +1053,11 @@
       "t": "mcq",
       "q": "When the bag started from a greater height, what happened to the slide of the box?",
       "options": [
-       "The box slid about the same distance",
        "The box slid further",
+       "The box slid about the same distance",
        "The box slid less far"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A greater height gives the bag more height energy, which turns into more speed and more movement energy at the bottom. A bag with more movement energy pushes the box further. If your results looked mixed, work out the mean for each height."
      },
      "context": "In this step, you test the two higher starting heights and find the mean slide for each."
@@ -1472,10 +1472,10 @@
       "q": "When you pull the thread up at the bottom of the swing, where does the extra energy come from?",
       "options": [
        "From the bag itself",
-       "From your hand and arm, which pull on the thread",
-       "From the Earth's pull getting stronger"
+       "From the Earth's pull getting stronger",
+       "From your hand and arm, which pull on the thread"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Your hand pulls the thread up against the bag's weight and the pull of its swing. That pull adds energy to the swing. If you picked the bag, remember that the bag cannot make new energy on its own."
      },
      "context": "In this step, you pump the pendulum and see whether it grows."
@@ -1576,10 +1576,10 @@
       "q": "A 30 centimetre ruler hung by its end swings at the same beat as a thread about how long?",
       "options": [
        "About 30 centimetres",
-       "About 20 centimetres",
-       "About 10 centimetres"
+       "About 10 centimetres",
+       "About 20 centimetres"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The ruler's weight is spread along it. The top part swings quickly and the lower part slowly, so it swings like a pendulum about two thirds as long. For 30 centimetres, two thirds is 20. If you chose 30, you treated the ruler's weight as if it were all at the bottom."
      },
      "context": "In this step, you find the thread length that matches the ruler.",
@@ -1799,10 +1799,10 @@
       "q": "On another planet, a pendulum 1 metre long takes 2.1 seconds for one swing. Is the pull there stronger or weaker than the Earth's?",
       "options": [
        "Stronger, because the swing is slower",
-       "Weaker, because the swing is slower",
-       "The same, because the length is the same"
+       "The same, because the length is the same",
+       "Weaker, because the swing is slower"
       ],
-      "a": 1,
+      "a": 2,
       "why": "On Earth the swing takes about 2.0 seconds. A slower swing means the pull is weaker. If you chose stronger, remember that on the Moon, where the pull is weaker, the same pendulum swings more slowly."
      },
      "context": "In this step, you use your times to work out how strongly the Earth pulls."
@@ -2107,11 +2107,11 @@
      "p": "In a pendulum, what do you change to make each swing take longer?",
      "opts": [
       "Make the bob heavier",
-      "Make the thread longer",
       "Start the bob from higher",
-      "Use a bigger coin"
+      "Use a bigger coin",
+      "Make the thread longer"
      ],
-     "a": 1,
+     "a": 3,
      "why": "Only the length of the thread changes the time much. The bob's weight and a bigger start change it very little.",
      "how": "e3"
     },
@@ -2119,12 +2119,12 @@
      "t": "mcq",
      "p": "At the very top of a swing the bob stops for a moment. What kind of energy does it have then?",
      "opts": [
-      "Only movement energy",
       "Only height energy",
+      "Only movement energy",
       "Both, in equal parts",
       "Neither"
      ],
-     "a": 1,
+     "a": 0,
      "why": "It is not moving at that moment, so it has no movement energy. It is at its highest, so all its energy is height energy."
     },
     {
@@ -2132,11 +2132,11 @@
      "p": "Why does timing 30 swings give a better answer for the time of one swing than timing 1 swing?",
      "opts": [
       "The pendulum swings faster when it is timed longer",
-      "The mistake is a smaller part of a longer time",
       "Thirty swings never get smaller",
-      "The pendulum is heavier after a long time"
+      "The pendulum is heavier after a long time",
+      "The mistake is a smaller part of a longer time"
      ],
-     "a": 1,
+     "a": 3,
      "why": "Everyone presses the button a little early or late. That mistake is about the same size each time, so it spoils a long time much less than a short one.",
      "how": "e3"
     },
@@ -2196,24 +2196,24 @@
      "t": "mcq",
      "p": "On the Moon, gravity is about a sixth as strong as on Earth. What happens to a pendulum of the same length?",
      "opts": [
-      "It swings about two and a half times more slowly",
       "It swings six times faster",
       "It swings at the same beat",
+      "It swings about two and a half times more slowly",
       "It does not swing at all"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A weaker pull gives a slower swing. The period grows with the square root of 6, which is about 2.5."
     },
     {
      "t": "mcq",
      "p": "In the Height and Hit test, the bag falls from twice the height. What is true about its speed and the slide?",
      "opts": [
-      "The bag reaches the bottom faster, and the box slides further",
       "The bag reaches the bottom at the same speed",
+      "The bag reaches the bottom faster, and the box slides further",
       "The box slides less far",
       "The box slides exactly the same"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A bag let go from higher has more height energy to turn into movement energy. It hits harder and pushes the box further.",
      "how": "e2"
     },
@@ -2222,11 +2222,11 @@
      "p": "Which of these swings keeps going longest after one start?",
      "opts": [
       "A big flat card on a thread",
-      "A small, heavy bob on a thin thread",
       "A balloon on a string",
+      "A small, heavy bob on a thin thread",
       "A feather on a thread"
      ],
-     "a": 1,
+     "a": 2,
      "why": "A small heavy bob pushes little air out of the way compared with its weight. The others push a lot of air, and lose energy quickly."
     },
     {
@@ -2355,12 +2355,12 @@
      "t": "mcq",
      "p": "The Moon's pull is about a sixth of the Earth's. A pendulum clock is moved from Earth to the Moon. What does it do?",
      "opts": [
-      "It runs too slow",
       "It runs too fast",
+      "It runs too slow",
       "It runs on time",
       "It stops at once"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A weaker pull means a slower swing. The clock counts the swings, so it counts fewer swings per hour and shows less time than has passed."
     },
     {
@@ -2381,11 +2381,11 @@
      "p": "A swing set has two swings, one with 2 metre chains and one with 1 metre chains. Both are pushed with the same size of push. Which takes longer for one full swing?",
      "opts": [
       "The one with 1 metre chains",
-      "The one with 2 metre chains",
       "They take the same time",
-      "It depends on the weight of the child"
+      "It depends on the weight of the child",
+      "The one with 2 metre chains"
      ],
-     "a": 1,
+     "a": 3,
      "why": "A longer pendulum has a longer period. The weight of the child changes it very little."
     },
     {
@@ -2404,12 +2404,12 @@
      "t": "mcq",
      "p": "A pendulum takes 60.6 seconds for 30 swings. What is the time of one swing?",
      "opts": [
-      "About 1.0 seconds",
       "About 2.0 seconds",
+      "About 1.0 seconds",
       "About 3.0 seconds",
       "About 6.0 seconds"
      ],
-     "a": 1,
+     "a": 0,
      "why": "60.6 divided by 30 is 2.02, about 2 seconds. This pendulum is about 1 metre long.",
      "how": "e3"
     },
@@ -2524,11 +2524,11 @@
    "p": "Where does a swinging bob have the most movement energy?",
    "opts": [
     "At the highest point on the left",
-    "At the highest point on the right",
     "At the bottom of its path",
+    "At the highest point on the right",
     "Halfway between the bottom and the top"
    ],
-   "a": 2,
+   "a": 1,
    "why": "At the bottom it has fallen as far as it can, so it is moving fastest. All its height energy has become movement energy.",
    "outcome": 1
   },
@@ -2536,12 +2536,12 @@
    "t": "mcq",
    "p": "A thread catches on a peg and makes a bob swing a tighter path. How high does the bob rise on the far side?",
    "opts": [
-    "To the same height as it started",
     "To a much higher place",
     "To a much lower place",
-    "To the height of the peg"
+    "To the height of the peg",
+    "To the same height as it started"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The path changes but the energy does not. The bob rises to nearly the same height it started from.",
    "outcome": 2
   },
@@ -2563,11 +2563,11 @@
    "p": "A swing in a park slowly gets lower and lower if nobody pushes. What happens to its energy?",
    "opts": [
     "It disappears for ever",
-    "It turns into a tiny amount of warmth in the air and pivot",
     "It goes back into the ground as height",
-    "It turns into more speed"
+    "It turns into more speed",
+    "It turns into a tiny amount of warmth in the air and pivot"
    ],
-   "a": 1,
+   "a": 3,
    "why": "The air pushes against the swing and the pivot rubs. The energy that these take turns into warmth. It is changed, not lost.",
    "outcome": 4
   },
@@ -2576,11 +2576,11 @@
    "p": "A child on a swing stands up at the bottom of each swing and crouches at the top. What happens to the swing?",
    "opts": [
     "It goes lower",
-    "It goes higher, because the child adds energy",
     "It stays the same",
+    "It goes higher, because the child adds energy",
     "It goes higher because the Earth pulls harder"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The child's muscles push against the swing at the right moments, and that adds energy. The swing climbs higher.",
    "outcome": 5
   },
@@ -2602,11 +2602,11 @@
    "p": "A bag of coins swings down and hits a box. Then the bag is let go from twice the height. What happens to how far the box slides?",
    "opts": [
     "The box slides about the same",
-    "The box slides further",
     "The box slides less far",
-    "The box does not move"
+    "The box does not move",
+    "The box slides further"
    ],
-   "a": 1,
+   "a": 3,
    "why": "A higher start gives more height energy, which turns into more movement energy at the bottom. The bag hits harder.",
    "outcome": 1
   },
@@ -2614,12 +2614,12 @@
    "t": "mcq",
    "p": "The same pendulum is taken to the Moon. What happens to its beat?",
    "opts": [
-    "It swings more slowly, because the Moon's pull is weaker",
     "It swings faster, because the Moon is smaller",
+    "It swings more slowly, because the Moon's pull is weaker",
     "It swings at the same beat",
     "It does not swing"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The Moon pulls about a sixth as strongly as the Earth. A weaker pull gives a slower swing.",
    "outcome": 3
   },
@@ -2628,11 +2628,11 @@
    "p": "A 30 centimetre ruler hung by its end swings like a pendulum of about which length?",
    "opts": [
     "15 centimetres",
-    "20 centimetres",
     "30 centimetres",
+    "20 centimetres",
     "60 centimetres"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The ruler's weight is spread along it, so it swings like a pendulum about two thirds as long as the ruler.",
    "outcome": 3
   },
@@ -2641,11 +2641,11 @@
    "p": "Why does a clock give its pendulum a small push every swing?",
    "opts": [
     "To make time go forward",
-    "To replace the energy the pendulum loses to the air and the pivot",
     "To make the pendulum heavier",
-    "To change the length of the pendulum"
+    "To change the length of the pendulum",
+    "To replace the energy the pendulum loses to the air and the pivot"
    ],
-   "a": 1,
+   "a": 3,
    "why": "Without the push, damping would make the swing shrink and stop. The energy for the small pushes comes from the clock's spring or weight.",
    "outcome": 4
   },
@@ -2653,12 +2653,12 @@
    "t": "mcq",
    "p": "Soldiers break step when crossing a small bridge. What is the reason?",
    "opts": [
-    "Their steps might add up at the bridge's natural beat and make it sway a lot",
     "The bridge is too slippery",
     "It is easier to walk",
-    "They are told to be quiet"
+    "They are told to be quiet",
+    "Their steps might add up at the bridge's natural beat and make it sway a lot"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Steps at the bridge's own beat add up, as pushes do on a swing. This is resonance. Breaking step stops the pushes from adding up.",
    "outcome": 5
   }
@@ -2940,6 +2940,73 @@
     "p1",
     "c1"
    ]
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Peg Test: does a bob rise to the same height?, Height and Hit: how far does a box slide?, How Many Swings Should You Time?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e2",
+    "e3",
+    "a1",
+    "a2",
+    "a3",
+    "a4",
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before The Peg Test: does a bob rise to the same height?."
+  },
+  {
+   "id": "b-paper-masking-tape",
+   "item": "Paper masking tape",
+   "kind": "material",
+   "why": "Used in The Peg Test: does a bob rise to the same height?, Three-Quarter Pendulum: where must the peg go?. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor.",
+   "url": "https://www.amazon.in/s?k=paper+masking+tape",
+   "used_in": [
+    "e1",
+    "c1"
+   ],
+   "plan": "Get it before The Peg Test: does a bob rise to the same height?."
+  },
+  {
+   "id": "b-sticky-notes",
+   "item": "Sticky notes",
+   "kind": "material",
+   "why": "Used in Marble in a Bowl: how high does it climb?. About ₹20 to ₹60. Small torn paper and tape do the same job.",
+   "url": "https://www.amazon.in/s?k=sticky+notes+pack",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Get it before Marble in a Bowl: how high does it climb?."
+  },
+  {
+   "id": "b-marbles--a-few",
+   "item": "Marbles (a few)",
+   "kind": "material",
+   "why": "Used in Marble in a Bowl: how high does it climb?. About ₹10 to ₹40. Small round stones or dried chana.",
+   "url": "https://www.amazon.in/s?k=glass+marbles+pack",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Get it before Marble in a Bowl: how high does it climb?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

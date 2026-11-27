@@ -654,12 +654,12 @@
       "t": "mcq",
       "q": "A firefly flashes a code, and another firefly flashes back. What is the answer flash for?",
       "options": [
-       "To say: I am your kind, come here",
        "To light up the path so they can see",
        "To scare away hunters",
-       "To keep warm"
+       "To keep warm",
+       "To say: I am your kind, come here"
       ],
-      "a": 0,
+      "a": 3,
       "why": "Fireflies flash to find a partner of their own kind. The answer says: I am here, and I am your kind. Picking 'light up the path' usually means thinking fireflies use light like a torch. Their flashes are messages, not lamps. Picking 'keep warm' misses that firefly light is cold light."
      }
     },
@@ -691,12 +691,12 @@
       "t": "mcq",
       "q": "In the game, a bright street lamp stopped everyone finding partners. Why is this a problem for real fireflies?",
       "options": [
-       "Bright light at night hides their flashes, so they can't find partners",
        "Fireflies are scared of lamps and fly away for ever",
+       "Bright light at night hides their flashes, so they can't find partners",
        "Lamps make fireflies too hot",
        "It is not a problem, fireflies like lamps"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Fireflies talk with faint flashes. A bright light nearby drowns them out, so males and females miss each other. Fewer partners means fewer baby fireflies. Picking 'too hot' usually means thinking all light is hot. Picking 'fireflies like lamps' may come from seeing moths at lamps. Moths and fireflies behave differently."
      }
     }
@@ -1014,11 +1014,11 @@
      "t": "mcq",
      "p": "Deep in the sea, below about 1,000 metres, how much sunlight is there?",
      "opts": [
-      "None at all",
       "A little, at midday",
+      "None at all",
       "Lots, because water makes light brighter"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Sunlight fades as it goes down through water. Below about 1,000 metres it is completely dark, day and night. Picking 'a little at midday' is right for a few hundred metres down, but not for the deep sea."
     },
     {
@@ -1126,22 +1126,22 @@
      "t": "mcq",
      "p": "Inside a firefly, a helper chemical called luciferase is part of making light. What does luciferase do?",
      "opts": [
-      "Makes luciferin and oxygen react quickly",
       "Stores sunlight for the night",
+      "Makes luciferin and oxygen react quickly",
       "Cools the firefly down"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Luciferase is a helper that speeds up the reaction, so the flash comes on fast. Picking 'stores sunlight' mixes up living light and glow-in-the-dark stars. Picking 'cools the firefly' misses that the light is already cold."
     },
     {
      "t": "mcq",
      "p": "Some jellyfish flash a ring of lights when they are grabbed. Scientists call this a burglar alarm. Why?",
      "opts": [
-      "The flashes may call a bigger hunter to eat the attacker",
       "The flashes wake the jellyfish up",
+      "The flashes may call a bigger hunter to eat the attacker",
       "The flashes warm the water"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Like an alarm, the flashes draw attention. A bigger animal may come and eat whatever grabbed the jellyfish. Picking 'warm the water' misses that living light is cold."
     },
     {
@@ -1156,11 +1156,11 @@
      "t": "mcq",
      "p": "Where does the light in an anglerfish's lure come from?",
      "opts": [
-      "From glowing bacteria living inside the lure",
       "From the Sun",
-      "From the Moon"
+      "From the Moon",
+      "From glowing bacteria living inside the lure"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Tiny glowing bacteria live in the lure. The fish gives them a home and food, and they give the fish a lamp. Picking 'the Sun' misses that sunlight never reaches the deep sea."
     },
     {
@@ -1173,11 +1173,11 @@
      "t": "mcq",
      "p": "You are lost at night in a forest. Fireflies flash all around you, and glowing mushrooms grow on fallen bamboo by a stream that runs past your home. Which is better to follow home, and why?",
      "opts": [
-      "The mushrooms, because they glow steadily and stay where they grow, by the stream",
       "The fireflies, because their light is too hot to go near",
-      "The mushrooms, because they are brighter than the Sun"
+      "The mushrooms, because they are brighter than the Sun",
+      "The mushrooms, because they glow steadily and stay where they grow, by the stream"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Fireflies flash on and off and fly about, signalling to each other, so they cannot mark a path. Mushrooms stay where they grow and glow all night. Picking 'too hot' misses that firefly light is cold.",
      "context": "Fireflies and some mushrooms both make their own light, called living light."
     },
@@ -1210,11 +1210,11 @@
      "t": "mcq",
      "p": "Some female fireflies copy the answer flash of a different kind of firefly. What happens when a male of that kind flies down to her?",
      "opts": [
-      "She eats him",
       "They become partners",
-      "He flies past her"
+      "He flies past her",
+      "She eats him"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The scientist James Lloyd found these trickster fireflies in 1965. They use light as a trap. Picking 'become partners' misses that she is a different kind, and the copied answer is a trap to catch food."
     },
     {
@@ -1318,11 +1318,11 @@
      "t": "mcq",
      "p": "A firefly eats food and later makes light. Where did the energy in their food first come from?",
      "opts": [
-      "From sunlight, caught by plants",
       "From the Moon",
-      "From the firefly's own light"
+      "From the firefly's own light",
+      "From sunlight, caught by plants"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Plants catch sunlight to make food. Animals eat plants, or eat animals that ate plants. So a firefly's flash is sunlight energy, changed many times. Picking 'their own light' goes the wrong way round. Light is where the energy ends up."
     },
     {
@@ -1418,11 +1418,11 @@
      "t": "mcq",
      "p": "Most deep-sea animals cannot see red light. A black dragonfish shines a red light from under their eyes, and they can see red. How might that help the dragonfish?",
      "opts": [
-      "They can light up small animals to eat, without being seen",
       "Red light keeps them warm in the cold sea",
+      "They can light up small animals to eat, without being seen",
       "Red light tells other animals to stay away"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The red light works like a secret torch. The dragonfish sees the small animals in their red light, but those animals cannot see the light, so they do not swim away. Picking 'stay away' would only work if the others could see red. Picking 'keeps them warm' misses that living light is cold."
     },
     {
@@ -1628,11 +1628,11 @@
       "t": "mcq",
       "q": "In the glow stick test, which glass glowed brightest?",
       "options": [
-       "The warm water",
        "The icy water",
+       "The warm water",
        "They were all exactly the same"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Warmth makes the molecules inside move about faster. They bump into each other more often, so the reaction runs faster and gives out more light each second. Picking 'icy water' may come from thinking cold things shine, like ice glinting. Picking 'the same' may mean the room was not dark enough to see the difference. Try again in a darker room."
      }
     },
@@ -1655,11 +1655,11 @@
       "t": "mcq",
       "q": "Next morning, which glow stick was most likely still glowing?",
       "options": [
-       "The one kept cold in the fridge",
        "The one from the warm water",
-       "None of them, glow sticks only last a minute"
+       "None of them, glow sticks only last a minute",
+       "The one kept cold in the fridge"
       ],
-      "a": 0,
+      "a": 2,
       "why": "In the cold, the reaction runs slowly. The stick uses its chemicals slowly, so it lasts longer. The sticks left out used up their chemicals faster. Picking 'warm' usually means thinking brighter means stronger, so it should last longer. In fact, brighter means it is spending its chemicals faster."
      }
     },
@@ -1750,11 +1750,11 @@
       "t": "mcq",
       "q": "Which stick felt warmer on your wrist?",
       "options": [
+       "About the same",
        "The one that was glowing",
-       "The one that was not glowing",
-       "About the same"
+       "The one that was not glowing"
       ],
-      "a": 2,
+      "a": 0,
       "why": "A glow stick turns its energy into light and gives out almost no heat. So the glowing stick feels the same as the one that was not snapped. That is cold light. Picking 'the glowing one' usually means thinking all light comes with heat, like a bulb or the Sun. If one felt warmer, your wrist may have warmed it. That is why we test both orders."
      }
     },
@@ -1892,11 +1892,11 @@
       "t": "mcq",
       "q": "Suppose star A and star B glow about the same at 1 minute. Did the test fail?",
       "options": [
-       "No. The stars may fill up with light quickly, and that is a real result",
        "Yes. The stars must be broken",
-       "Yes. The torch was not on"
+       "Yes. The torch was not on",
+       "No. The stars may fill up with light quickly, and that is a real result"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A test does not fail when the result is a surprise. Some glow-in-the-dark stars fill up with light after only a few seconds, so a longer torch time adds nothing. Picking 'broken' or 'torch not on' skips the idea that the answer 'no difference' is still an answer."
      },
      "parent": "Some stars fade in a few minutes. Others glow faintly for much longer. If a star still glows at 10 minutes, write 'more than 10'. Some stars fill up with light very fast, so both may glow the same. If so, write that down. It is a real result: 10 seconds was already enough."
@@ -1989,11 +1989,11 @@
       "t": "mcq",
       "q": "You bent the glow stick and it began to glow. What made the light?",
       "options": [
-       "Two liquids inside mixed and reacted",
        "A tiny battery hidden inside",
+       "Two liquids inside mixed and reacted",
        "The warmth of your hands"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Bending cracks a thin glass tube inside, so two liquids mix and react. The reaction gives out light. There is no battery or wire. Picking 'the warmth of your hands' may come from thinking light needs heat. A glow stick makes light without getting hot."
      }
     },
@@ -2081,11 +2081,11 @@
       "t": "mcq",
       "q": "Where did you probably count more firefly flashes?",
       "options": [
-       "In the dark spot",
        "Next to the bright light",
-       "Always exactly the same in both"
+       "Always exactly the same in both",
+       "In the dark spot"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Fireflies flash to find each other. Near bright lights, their flashes are hard to see, and many fireflies stop flashing or move away. Picking 'next to the bright light' may come from moths, which fly to lamps. Fireflies are different. If your counts were the same, that is fine. Try on another night."
      }
     },
@@ -2193,11 +2193,11 @@
       "t": "mcq",
       "q": "Our paint glows because we shone a torch on it. Real deep-sea animals have no torch. Where does their light come from?",
       "options": [
-       "They make it with chemistry in their bodies",
        "From sunlight reaching the deep sea",
-       "From the Moon"
+       "From the Moon",
+       "They make it with chemistry in their bodies"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Deep-sea animals make light with luciferin and oxygen, or with glowing bacteria they keep. Our paint only stores torchlight. Picking 'sunlight' misses that sunlight never reaches the deep sea. Picking 'the Moon' misses that moonlight is only sunlight bounced off the Moon, and it cannot reach the deep sea either."
      },
      "parent": "Glow paint and glow stars are faint. Wait a minute in the dark for your eyes to adjust. The glow fades after some minutes; open the lid and shine the torch again to recharge it."
@@ -2266,11 +2266,11 @@
       "t": "mcq",
       "q": "Why did the fish nearly disappear?",
       "options": [
-       "It became just as bright as the light behind it",
        "The torch made it see-through",
-       "The fish moved away"
+       "The fish moved away",
+       "It became just as bright as the light behind it"
       ],
-      "a": 0,
+      "a": 2,
       "why": "We see a shape when it is darker or brighter than what is behind it. When the fish matches the background, the outline is gone. Real hatchetfish make their belly glow just as bright as the light from above. Picking 'see-through' is a good guess, but the paper did not change. Only its brightness did."
      },
      "parent": "Tilt the torch a little so its beam does not bounce off the screen into your eyes. If the fish never matches the screen, try thinner paper, which lets more screen light through. It is hard to make it vanish completely. A fish that nearly vanishes is a good result."
@@ -2366,11 +2366,11 @@
       "t": "mcq",
       "q": "In scene 3, why does the jellyfish flash when they are grabbed?",
       "options": [
-       "The flashes may call a bigger hunter to eat the attacker",
        "To light up their dinner",
-       "To say hello to their friends"
+       "To say hello to their friends",
+       "The flashes may call a bigger hunter to eat the attacker"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Scientists call this a burglar alarm. The flashes may bring a bigger animal that eats the shrimp. Picking 'light up their dinner' mixes it up with a lure. Picking 'say hello' mixes it up with talking signals. Each glow has its own job."
      }
     },
@@ -2502,11 +2502,11 @@
       "t": "mcq",
       "q": "In this made-up example from the firefly count, which night had the most flashes?",
       "options": [
-       "Night 3, after rain",
        "Night 2, cool and windy",
-       "All nights were the same"
+       "All nights were the same",
+       "Night 3, after rain"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Night 3 has the tallest bar, 31 flashes. Fireflies are often busier on warm, damp nights. Picking night 2 may mean reading the shortest bar as the biggest. The taller the bar, the more flashes."
      }
     },
@@ -2669,11 +2669,11 @@
       "t": "mcq",
       "q": "In the Light the Path test, the torch with no shade lit up everything. What happened to the 'fireflies'?",
       "options": [
-       "They became hard to see",
        "They glowed brighter",
-       "Nothing changed"
+       "Nothing changed",
+       "They became hard to see"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A bright light around them drowns out their faint glow. Real fireflies are harmed the same way, because they cannot see each other's flashes. Picking 'glowed brighter' may come from glow stars charging up in light. But we cannot see them while the torch floods the area."
      }
     },
@@ -2727,11 +2727,11 @@
    "t": "mcq",
    "p": "Which of these is living light?",
    "opts": [
-    "A firefly's flash",
     "A glow stick at a wedding",
-    "A glow-in-the-dark star"
+    "A glow-in-the-dark star",
+    "A firefly's flash"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Living light is made by a living being. A glow stick uses the same kind of chemistry, but a glow stick is not alive. A glow-in-the-dark star only gives back stored light.",
    "outcome": 0
   },
@@ -2739,11 +2739,11 @@
    "t": "mcq",
    "p": "A jellyfish glows in a fish tank in a room with every light switched off. Is that living light?",
    "opts": [
-    "Yes, because there is no other light for the jellyfish to send back",
     "No, the jellyfish is only sending back light",
+    "Yes, because there is no other light for the jellyfish to send back",
     "No, the water in the tank is glowing"
    ],
-   "a": 0,
+   "a": 1,
    "why": "In a fully dark room there is no light to bounce back. So any glow must be made by the jellyfish themself, with chemistry. That is living light. Picking 'sending back light' forgets that the room is dark.",
    "outcome": 0
   },
@@ -2751,11 +2751,11 @@
    "t": "mcq",
    "p": "Where do glowing mushrooms usually grow?",
    "opts": [
-    "On rotting wood in damp forests",
     "In deserts",
+    "On rotting wood in damp forests",
     "In the deep sea"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Glowing fungi grow on damp, rotting wood, like the fallen bamboo near Mawlynnong in Meghalaya. Picking 'deep sea' mixes them up with glowing fish.",
    "outcome": 1
   },
@@ -2763,11 +2763,11 @@
    "t": "mcq",
    "p": "Where on Earth do the most glowing animals live?",
    "opts": [
-    "In the sea, especially the deep sea",
     "In deserts",
-    "In cities"
+    "In cities",
+    "In the sea, especially the deep sea"
    ],
-   "a": 0,
+   "a": 2,
    "why": "In the deep sea, about three out of four animals can make light. Picking 'cities' may come from all the lamps there, but those are not living lights.",
    "outcome": 1
   },
@@ -2787,11 +2787,11 @@
    "t": "mcq",
    "p": "A scientist mixes luciferin and luciferase, the two firefly chemicals, in a sealed tube with no air in it. What happens?",
    "opts": [
-    "No light, because there is no oxygen",
     "A bright flash, because both chemicals are there",
-    "A slow glow that gets hot"
+    "A slow glow that gets hot",
+    "No light, because there is no oxygen"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Luciferin needs oxygen to react. The luciferase only speeds the reaction up. With no oxygen, nothing reacts, so no light comes out. Let air in, and the tube glows. Picking 'a bright flash' forgets the oxygen.",
    "outcome": 2
   },
@@ -2811,11 +2811,11 @@
    "t": "mcq",
    "p": "A firefly flashes a code to find a partner. Which job of living light is that?",
    "opts": [
-    "Talking",
     "Hiding",
+    "Talking",
     "Catching food"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Living light has four main jobs: talking, catching food, hiding and scaring off an attacker. A flash code is a message, so it is talking.",
    "outcome": 3
   },
@@ -2835,11 +2835,11 @@
    "t": "mcq",
    "p": "To make the glow stick test fair, what must be different between the glasses?",
    "opts": [
-    "Only how warm the water is",
     "The colour of each glow stick",
+    "Only how warm the water is",
     "Everything"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A fair test changes just one thing. If the colours were different too, we would not know what caused the change. Picking 'everything' is a common first idea, but then we could never tell which change mattered.",
    "outcome": 4,
    "how": "e1"
@@ -2873,11 +2873,11 @@
    "t": "mcq",
    "p": "What do bright lights at night do to fireflies?",
    "opts": [
-    "Hide their flashes, so they find fewer partners",
     "Help them see their partners",
+    "Hide their flashes, so they find fewer partners",
     "Nothing at all"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Bright lights drown out faint firefly flashes. Picking 'help them see' may come from moths, which fly to lights. Fireflies are different.",
    "outcome": 6
   },
@@ -2885,11 +2885,11 @@
    "t": "mcq",
    "p": "Why do mushrooms glow?",
    "opts": [
-    "Scientists are still not sure. One idea is that the glow brings insects that spread spores",
     "To find partners, like fireflies",
+    "Scientists are still not sure. One idea is that the glow brings insects that spread spores",
     "To keep warm at night"
    ],
-   "a": 0,
+   "a": 1,
    "why": "For one Brazilian mushroom, tests show the glow brings insects. For most other fungi, nobody knows yet. Picking 'to find partners' fits fireflies, who signal to their own kind, not fungi.",
    "outcome": 6
   }
@@ -3241,6 +3241,56 @@
     "c1"
    ],
    "why": "Glow-in-the-dark paint, if you do not use stars."
+  },
+  {
+   "id": "b-a-thermometer--for-water-or-",
+   "item": "A thermometer (for water or room, 0 to 110 °C)",
+   "kind": "tool",
+   "why": "Used in Cold Light Test: is a glow hot?. About ₹30 to ₹150. A kitchen or fever thermometer works for some tests.",
+   "url": "https://www.amazon.in/s?k=lab+thermometer+110+c",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before Cold Light Test: is a glow hot?."
+  },
+  {
+   "id": "b-a-digital-stopwatch--optiona",
+   "item": "A digital stopwatch (optional)",
+   "kind": "tool",
+   "why": "Used in Made or Stored? Glow-in-the-dark stars, Firefly Night Walk (if you live near a park, field or garden), Firefly Count for Science (if you live near a park, field or garden). About ₹150 to ₹400. A phone stopwatch works well.",
+   "url": "https://www.amazon.in/s?k=digital+stopwatch",
+   "used_in": [
+    "e3",
+    "a2",
+    "p1"
+   ],
+   "plan": "Get it before Made or Stored? Glow-in-the-dark stars."
+  },
+  {
+   "id": "b-modelling-clay-or-plasticine",
+   "item": "Modelling clay or plasticine",
+   "kind": "material",
+   "why": "Used in Invent a Deep-Sea Creature. About ₹40 to ₹120. Atta dough mixed with a little salt works.",
+   "url": "https://www.amazon.in/s?k=modelling+clay+plasticine",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before Invent a Deep-Sea Creature."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

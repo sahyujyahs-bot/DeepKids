@@ -1,7 +1,7 @@
 # Metabolism: how your cells break food down, build you up and keep you warm
 `sci.body.energy-from-food.L5`
 
-**Summary.** A tumbler of warm water left on the table is cool within the hour. Your body has stayed warm for years, day and night, with no stove inside it. Where does the warmth come from? In this unit you feed living yeast four different foods and measure the gas they make. You find out what a cell does with food: it breaks some of it down for energy, and uses that energy to build and repair the body. Heat escapes at every step, and that is why you are warm, and a little warmer after a meal.
+**Summary.** A tumbler of warm water left on the table is cool within the hour. Your body has stayed warm for years, day and night, with no stove inside it. Where does the warmth come from? In this lesson you feed living yeast four different foods and measure the gas they make. You find out what a cell does with food: it breaks some of it down for energy, and uses that energy to build and repair the body. Heat escapes at every step, and that is why you are warm, and a little warmer after a meal.
 
 **Intro.** *Put your palm on your cheek. It is warm. It was warm while you slept last night, and it will be warm tomorrow. A tumbler of warm water goes cool in an hour. So why do you never go cool?* Say what you think, and why. Then try the first activity, Warmer Than the Room. You will set a tumbler of warm water beside you and see which of you stays warm. After that you will feed yeast, who are tiny living beings, and see what they do with food. By the end you will know where your warmth comes from. You will also know why a meal makes you feel warmer.
 
@@ -436,7 +436,7 @@ Kathir folded Paatti's shawl. He looked at it for a moment.
   *Child mode:* The water lost its heat. You did not go cool. Why not? Say your best idea.
   - Ask: You were losing heat to the room too. What must be happening inside you? (good: My body must be making new heat all the time.; Something in me keeps replacing the heat I lose.)
   - Ask: Where could that heat be coming from? (good: From food.; From my muscles or my blood.; I am not sure yet.)
-  - Note: Take any idea. 'From food' is right, and this unit explains how. A wrapped tumbler also cools, only more slowly. You can try it with a second tumbler.
+  - Note: Take any idea. 'From food' is right, and this lesson explains how. A wrapped tumbler also cools, only more slowly. You can try it with a second tumbler.
   - Think: Would the water have stayed warm if you had wrapped the tumbler in a shawl?
 ### a2 · The Wall Sit: feel a muscle use its fuel (10 min)
 - **safety:** Do this in bare feet or shoes, not socks. Stop at once if a knee hurts. A child with a knee or leg injury should not do it.
@@ -590,21 +590,21 @@ Kathir folded Paatti's shawl. He looked at it for a moment.
 4. (truefalse) True or false: your body stops using energy when you lie completely still.  
    **Answer:** False. *Why:* False. The heart, brain, liver and kidneys work all the time. The energy a resting body uses is its basal metabolic rate.
 5. (mcq) A tumbler of warm water goes cool in an hour, and you do not. Why?  
-   Options: Your cells keep making heat from food / Your skin stops all heat leaving / The room heats you but not the water / Water cannot hold heat  
+   Options: Your skin stops all heat leaving / Your cells keep making heat from food / The room heats you but not the water / Water cannot hold heat  
    **Answer:** Your cells keep making heat from food. *Why:* You lose heat to the room all the time, just as the water does. Your cells replace it by breaking down food. Choosing 'skin stops heat' is the blanket mistake: skin only slows the heat.
 6. (write) In the Yeast Fuel Test, why did every bottle get the same yeast and the same water?  
    **Answer:** So that the food was the only thing that changed. Then any difference between the balloons must come from the food.. *Why:* A strong answer says that a fair test changes one thing only, and names that thing: the food.
 7. (match) Match each word to what it means.  
    **Answer:** Catabolism → breaking large molecules into smaller ones; Anabolism → joining small molecules into larger ones; Glycogen → a store of glucose in the liver and muscles; Metabolic rate → how fast a body uses energy; Fermentation → getting energy from sugar without oxygen. *Why:* These words are used all through the unit. A strong answer could give an example of each.
 8. (mcq) Which gas filled the balloons in the Yeast Fuel Test?  
-   Options: Oxygen / Steam / Ordinary air from the room / Carbon dioxide  
+   Options: Carbon dioxide / Oxygen / Steam / Ordinary air from the room  
    **Answer:** Carbon dioxide. *Why:* Yeast give off carbon dioxide when they break sugar down. Choosing 'oxygen' mixes yeast up with a plant in sunlight, which gives off oxygen.
 9. (order) Put these in order, from a meal to the heat of your skin.  
    **Answer:** ['Starch in rice is cut into glucose in the gut', 'Glucose crosses into the blood', 'A cell breaks glucose down and loads ATP', 'The cell spends the ATP on its work', 'The energy leaves the body as heat']. *Why:* Digestion comes first, then the blood carries glucose to the cells. The cells break it down, spend the ATP, and the energy ends as heat.
 10. (truefalse) True or false: a blanket makes heat.  
    **Answer:** False. *Why:* False. A blanket only slows the heat leaving a body. The heat is made by the body's cells as they break down food.
 11. (mcq) Where does the body keep its large, long-lasting store of energy?  
-   Options: In the blood / In the stomach / In the bones / In body fat  
+   Options: In the blood / In body fat / In the stomach / In the bones  
    **Answer:** In body fat. *Why:* Fat holds the most energy for each gram. Glycogen in the liver and muscles is a smaller, quicker store. The blood carries only a little fuel at any moment.
 12. (draw) Draw a yeast cell with sugar going in. Show two things that come out, and label them.  
    **Answer:** A cell with an arrow of sugar going in, and arrows of carbon dioxide and alcohol coming out. A heat arrow or an ATP label is a bonus.. *Why:* A strong drawing shows that the sugar is changed into something else. A drawing where the sugar simply vanishes misses that atoms are never lost.
@@ -616,21 +616,21 @@ Kathir folded Paatti's shawl. He looked at it for a moment.
    **Answer:** A strong answer uses facts from the unit, such as heat escaping at every step, or mammals and birds needing it to stay warm. It chooses one view and gives a fair point from another.. *Why:* All three have part of it. The heat cannot be avoided, mammals and birds depend on it, and it shows that the cells are at work.
 ### Stores, budgets and where the atoms go (stretch) (stretch, 15 questions)
 1. (mcq) After a meal, where do most of the atoms of the fuel your cells burned end up?  
-   Options: In the toilet / They turn into energy / In the air, as carbon dioxide you breathed out / They stay in the stomach  
+   Options: In the air, as carbon dioxide you breathed out / In the toilet / They turn into energy / They stay in the stomach  
    **Answer:** In the air, as carbon dioxide you breathed out. *Why:* The carbon atoms leave as carbon dioxide in your breath, and the hydrogen atoms leave in water. Choosing 'turn into energy' is a common mistake: atoms are not turned into energy in a body.
 2. (truefalse) True or false: lactate from a hard sprint is a waste that the body throws away.  
    **Answer:** False. *Why:* False. Lactate is a fuel. The heart burns it, and the liver builds it back into glucose. Gerty Cori and Carl Cori described this cycle in 1929.
 3. (count) In Twenty Beans, the brain, liver, heart and kidneys use 4, 4, 2 and 2 beans. How many is that altogether?  
    **Answer:** 12. *Why:* 4 + 4 + 2 + 2 = 12. So these four organs use 12 of the 20 beans, which is more than half.
 4. (mcq) Why does the liver break down glycogen at night?  
-   Options: To make you sleepy / To keep glucose in the blood while you are not eating / To cool the body / To store more fat  
+   Options: To make you sleepy / To cool the body / To store more fat / To keep glucose in the blood while you are not eating  
    **Answer:** To keep glucose in the blood while you are not eating. *Why:* Your brain needs glucose all night, and you are not eating. The liver lets glucose out of its glycogen store to keep the blood level steady.
 5. (order) Put these stores in the order a fasting body uses them, from first to last.  
    **Answer:** ['Glucose already in the blood', 'Glycogen in the liver', 'Body fat', 'Protein from the muscles']. *Why:* Blood glucose lasts minutes, and liver glycogen about a day. Then fat becomes the main fuel. The body breaks down much muscle protein only when little fat is left.
 6. (write) In Grown in the Dark, the seed leaves shrank while the shoot grew. Explain why, using 'break down' and 'build up'.  
    **Answer:** The seedling broke down the starch and protein stored in the seed leaves. Some gave energy, and some of the pieces were built up into the new root and shoot.. *Why:* A strong answer links the two: the building was paid for, and supplied, by the breaking down.
 7. (mcq) Which meal costs the body the most energy to digest and store, for the same energy eaten?  
-   Options: One rich in fat / One rich in protein / One rich in sugar / They all cost the same  
+   Options: One rich in fat / One rich in sugar / They all cost the same / One rich in protein  
    **Answer:** One rich in protein. *Why:* Protein costs the most to handle, carbohydrate less, and fat the least. Choosing 'the same' is reasonable if you have not met the thermic effect of food.
 8. (fill) A cell that breaks glucose down without oxygen gets much ____ energy than a cell that uses oxygen.  
    **Answer:** ['less']. *Why:* Without oxygen the glucose is broken only part of the way, so most of its energy stays in the alcohol or lactate that is left.
@@ -643,7 +643,7 @@ Kathir folded Paatti's shawl. He looked at it for a moment.
 12. (match) Match each living being to the way they manage their energy.  
    **Answer:** Honey bees in winter → pack together and shiver their flight muscles; A python → eats one huge meal and then rests for weeks; A Himalayan brown bear → lives on body fat through a winter sleep; A sacred lotus flower → breaks down stored food fast and warms itself; A newborn baby → makes heat in brown fat without shivering. *Why:* Each of these beings solves the same problem, staying alive on the fuel they have, in a different way.
 13. (mcq) A person's body uses up 10 kilograms of stored fat. About how much of it leaves through the lungs?  
-   Options: About 8 kilograms / About 1 kilogram / None of it / All 10 kilograms  
+   Options: About 1 kilogram / None of it / All 10 kilograms / About 8 kilograms  
    **Answer:** About 8 kilograms. *Why:* About 8.4 kilograms leave as carbon dioxide, and the other 1.6 kilograms leave as water. The carbon atoms of the fat are breathed out.
 14. (draw) Draw one glucose molecule entering a muscle cell. Show where its energy goes, using three arrows.  
    **Answer:** Arrows to ATP, to heat, and from the ATP to the muscle's work. The best drawings show the heat arrow thicker than the ATP arrow.. *Why:* A strong drawing shows that only part of the energy is caught in ATP, and that the rest leaves as heat at once.
@@ -653,14 +653,14 @@ Kathir folded Paatti's shawl. He looked at it for a moment.
 1. (write) A flame and a cell both break fuel down with oxygen. Give two things a cell does that a flame does not.  
    **Answer:** A cell breaks the fuel down in many small steps and catches part of the energy in ATP. A cell uses that energy to build and repair itself.. *Why:* Other strong answers: a cell works at body warmth, a cell controls how fast it goes, and a cell makes copies of itself.
 2. (mcq) Yeast, rice plants and people all break glucose down by the same first ten steps. What is the best explanation?  
-   Options: It is a coincidence / They copied the steps from each other / It is the only way sugar can ever break / They share an ancestor who had those steps  
+   Options: It is a coincidence / They share an ancestor who had those steps / They copied the steps from each other / It is the only way sugar can ever break  
    **Answer:** They share an ancestor who had those steps. *Why:* The matching steps and matching enzymes are evidence that all three come from one early ancestor. Choosing 'the only way' is a fair thought, but some microbes break glucose down by other paths.
 3. (truefalse) True or false: a growing child breaks the rule that things get more mixed up over time.  
    **Answer:** False. *Why:* False. A body builds order inside only by giving out heat and waste, which add more disorder outside. Counting inside and outside together, the rule holds.
 4. (count) A lunch gives 600 kilocalories. Digesting and storing it costs about one tenth. How many kilocalories is that?  
    **Answer:** 60. *Why:* One tenth of 600 is 600 ÷ 10 = 60. So about 60 kilocalories are spent on handling the meal, and they end as heat.
 5. (mcq) Why does a cell break glucose down in many small steps and not in one big step?  
-   Options: One step would take too long / Small steps use less glucose / To make more carbon dioxide / Small steps let it catch energy in ATP  
+   Options: Small steps let it catch energy in ATP / One step would take too long / Small steps use less glucose / To make more carbon dioxide  
    **Answer:** Small steps let it catch energy in ATP. *Why:* One big step would let all the energy out as heat at once, as a flame does. Small steps let the cell load ATP along the way.
 6. (write) The Hadza walk far every day, yet use about the same energy as office workers. Suggest one explanation.  
    **Answer:** The body may save energy on other jobs when a person is very active, so the daily total stays about the same.. *Why:* This is Herman Pontzer's idea, and scientists still argue about it. Another fair answer is that the result depends on how body size is allowed for.
@@ -682,7 +682,7 @@ Kathir folded Paatti's shawl. He looked at it for a moment.
 14. (perspective) Two scientists argue about how life began.  
    **Answer:** A strong answer says what each view explains well, and admits that nobody knows yet. It may add that every cell today needs both.. *Why:* Both are real ideas held by working scientists, and neither has been shown to be right.
 15. (mcq) A lotus flower stays near 32 degrees Celsius on a cool night. Where does the heat come from?  
-   Options: Sunlight stored in the petals / The flower's cells breaking down stored food fast / Warm water in the pond / Insects sleeping inside it  
+   Options: Sunlight stored in the petals / Warm water in the pond / The flower's cells breaking down stored food fast / Insects sleeping inside it  
    **Answer:** The flower's cells breaking down stored food fast. *Why:* Lotus cells break down stored food very quickly, and let the energy out as heat. Choosing 'stored sunlight' is close in one way: the food was made with sunlight, but the heat comes from breaking it down.
 
 ## Videos
@@ -695,30 +695,30 @@ Kathir folded Paatti's shawl. He looked at it for a moment.
    Options: Turning glucose into carbon dioxide / Joining amino acids into muscle protein / Cutting glycogen into glucose / Burning fat on a long walk  
    **Answer:** Joining amino acids into muscle protein. *Why:* Anabolism joins small molecules into larger ones. The other three break molecules down, so they are catabolism.
 2. (mcq) Where do your cells get the energy to build new molecules?  
-   Options: From breaking other molecules down / From the blanket around the body / From oxygen alone / From water  
+   Options: From the blanket around the body / From oxygen alone / From water / From breaking other molecules down  
    **Answer:** From breaking other molecules down. *Why:* Breaking food molecules down loads ATP, and building spends it. Oxygen helps to break food down, but oxygen is not the fuel.
 3. (mcq) Why are you warm even when you sleep?  
-   Options: The bed stores heat for you / Your heart heats the blood like a stove / You stop losing heat at night / Your cells break down food all the time, and heat escapes  
+   Options: Your cells break down food all the time, and heat escapes / The bed stores heat for you / Your heart heats the blood like a stove / You stop losing heat at night  
    **Answer:** Your cells break down food all the time, and heat escapes. *Why:* Every step of metabolism lets some energy escape as heat, and metabolism never stops. Choosing 'the bed' is the blanket mistake: bedding only slows the heat leaving.
 4. (mcq) Why do you feel a little warmer after a meal?  
-   Options: Food stays hot in the stomach for hours / Eating stops heat leaving the skin / The meal turns straight into heat / Digesting and storing food uses extra energy  
+   Options: Digesting and storing food uses extra energy / Food stays hot in the stomach for hours / Eating stops heat leaving the skin / The meal turns straight into heat  
    **Answer:** Digesting and storing food uses extra energy. *Why:* The body spends extra ATP on digesting, absorbing and storing the meal, and that ends as heat. This is the thermic effect of food.
 5. (mcq) In a resting adult, which uses more energy?  
-   Options: All the muscles together / The skin / The brain, liver, heart and kidneys together / The bones  
+   Options: All the muscles together / The skin / The bones / The brain, liver, heart and kidneys together  
    **Answer:** The brain, liver, heart and kidneys together. *Why:* Those four organs are about one twentieth of the body's weight and use more than half of its resting energy. Resting muscle uses little for its size.
 6. (mcq) What is glycogen?  
-   Options: A kind of body fat / A store of glucose in the liver and muscles / A gas that yeast give off / An enzyme in saliva  
+   Options: A kind of body fat / A gas that yeast give off / A store of glucose in the liver and muscles / An enzyme in saliva  
    **Answer:** A store of glucose in the liver and muscles. *Why:* Glycogen is many glucose units joined in a branching chain. It is the body's quick, small store of fuel.
 7. (mcq) When the body uses up stored fat, how does most of it leave?  
    Options: As heat / As carbon dioxide in the breath / In the urine as fat / As sweat only  
    **Answer:** As carbon dioxide in the breath. *Why:* The carbon atoms of the fat leave as carbon dioxide. Choosing 'as heat' mixes up energy with atoms. The energy leaves as heat, but the atoms leave as gas and water.
 8. (mcq) In the Yeast Fuel Test, why did one bottle have yeast but no food?  
-   Options: To show the gas comes from breaking down food / To save sugar / To give the yeast a rest / To make the test longer  
+   Options: To save sugar / To show the gas comes from breaking down food / To give the yeast a rest / To make the test longer  
    **Answer:** To show the gas comes from breaking down food. *Why:* That bottle is the comparison. It had the same yeast and water, so any extra gas in the other bottles must come from the food.
 9. (truefalse) True or false: an adult who has stopped growing no longer builds new body material.  
    **Answer:** False. *Why:* False. The body breaks down and rebuilds its own proteins and cells all the time. An adult rebuilds about 300 grams of protein a day.
 10. (mcq) Why must a shrew eat far more for their size than an elephant?  
-   Options: Shrews are greedier / Elephants do not use energy / Shrew food has no energy / A small warm body loses heat fast  
+   Options: Shrews are greedier / Elephants do not use energy / A small warm body loses heat fast / Shrew food has no energy  
    **Answer:** A small warm body loses heat fast. *Why:* A small body has a lot of skin for its weight, so it loses heat quickly and must make more heat for each gram.
 11. (mcq) Yeast in a closed bottle get less energy from sugar than your muscle cells do. Why?  
    Options: Yeast are too small to use energy / The bottle is too cold / Sugar has less energy in water / Without oxygen, sugar is only partly broken down  
@@ -740,7 +740,7 @@ Kathir folded Paatti's shawl. He looked at it for a moment.
 - A street dog curled into a tight ball on a cold night. A ball has less surface for heat to leave, so the dog needs less fuel.
 - A sunbird visiting flower after flower without stopping. A small warm body must be fed again and again.
 - A rock python or a rat snake lying still for days after a meal. Their body is working hard on it.
-- Your own breath showing as mist on a cold morning in Ooty, Munnar or Shimla. It carries water and carbon dioxide from your cells.
+- Your own breath showing as mist on a cold morning. It carries water and carbon dioxide from your cells.
 - A sparrow fluffed up into a ball on a wire in winter, holding in the heat that their cells make.
 - Wedding guests who feel warm and sleepy after a big lunch on a banana leaf.
 
@@ -795,6 +795,12 @@ This Body Is a Universe (sci.body.L5): Topic-level song
 - [Dry yeast (instant or active dry), one small packet](https://www.amazon.in/s?k=instant+dry+yeast) (material): The Yeast Fuel Test and the Balloon Race need living yeast. Supermarkets and bakery shops sell small packets for about 30 to 60 rupees. Used in e1, c2. 
 - [A packet of balloons, all the same size](https://www.amazon.in/s?k=party+balloons) (material): Four balloons catch the gas in the Yeast Fuel Test, and the Balloon Race needs two or three more. Used in e1, c2. 
 - [A digital fever thermometer](https://www.amazon.in/s?k=digital+thermometer+fever) (tool): Most homes have one. The Lunch Test and Hold It at 37 need it, and it is useful in Warmer Than the Room. Used in e2, c1, a1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Yeast Fuel Test: which foods can a yeast cell break down for energy?, Grown in the Dark: what does a seedling build with, when there is no light?, The Balloon Race: get the most gas from one teaspoon of sugar. About ₹10 to ₹30. Any school ruler is fine. Used in e1, p1, c2. Get it before The Yeast Fuel Test: which foods can a yeast cell break down for energy?.
+- [A small funnel](https://www.amazon.in/s?k=small+plastic+funnel) (tool): Used in The Yeast Fuel Test: which foods can a yeast cell break down for energy?. About ₹20 to ₹50. The top of a cut plastic bottle works. Used in e1. Get it before The Yeast Fuel Test: which foods can a yeast cell break down for energy?.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in Grown in the Dark: what does a seedling build with, when there is no light?. About ₹20 to ₹50. Torn clean cloth works. Used in p1. Get it before Grown in the Dark: what does a seedling build with, when there is no light?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Twenty Beans: where does a resting body spend its energy?, Grown in the Dark: what does a seedling build with, when there is no light?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a3, p1. Get it before Twenty Beans: where does a resting body spend its energy?.
+- [A measuring jug or syringe (marked in millilitres)](https://www.amazon.in/s?k=measuring+jug+500+ml) (tool): Used in The Yeast Fuel Test: which foods can a yeast cell break down for energy?. About ₹30 to ₹100. A clean medicine cup or marked bottle works. Used in e1. Get it before The Yeast Fuel Test: which foods can a yeast cell break down for energy?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is the word for all the chemical changes in a living cell? → Metabolism.
@@ -816,7 +822,7 @@ This Body Is a Universe (sci.body.L5): Topic-level song
 - Founder's SCI Card for Gerty Cori in ideas/by_topic/body-parts-and-skeleton.md ('Your muscles don't burn fuel and throw away the waste, they recycle it'): used in the energy stores card, the lactate card, the Wall Sit and the worksheets.
 - Founder's grade concept grids for Energy and Entropy in ideas/by_topic/energy.md ('Metabolic efficiency is less than 100%', 'Do living things break entropy? They export disorder', 'food to motion'): used in the heat card and in the challenging views.
 - Founder's SCI Card for Yellapragada SubbaRow, and the Combined lesson sci-C5-energy ('Your body uses energy even now', 'Food: the energy that keeps living beings going', 'Subbarow and the energy coin of the cell'): used in the ATP card. Its story and its burning cashew are not repeated.
-- The prerequisite unit sci.food.nutrients.L4 (Burning Nuts, respiration, the kilocalorie) and the Class 5 units on digestion and keeping balance, which this unit builds on and does not repeat.
+- The prerequisite unit sci.food.nutrients.L4 (Burning Nuts, respiration, the kilocalorie) and the Class 5 units on digestion and keeping balance, which this lesson builds on and does not repeat.
 - Schoenheimer, R. and Rittenberg, D., 'Deuterium as an indicator in the study of intermediary metabolism', Journal of Biological Chemistry, 1935 onward. Schoenheimer, R., The Dynamic State of Body Constituents, Harvard University Press, 1942
 - Cori, C. F. and Cori, G. T., 'Glycogen formation in the liver from d- and l-lactic acid', Journal of Biological Chemistry 81, 1929. Nobel Prize in Physiology or Medicine 1947
 - Fiske, C. H. and SubbaRow, Y., 'Phosphorus compounds of muscle and liver', Science 70, 1929 (ATP)

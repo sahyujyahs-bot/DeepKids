@@ -1,9 +1,9 @@
 # Sources of sound: shaking, blowing, popping and rubbing
 `sci.sound.sources-of-sound.L4`
 
-**Summary.** Tap a bottle with water in it and more water gives a lower note. Blow across it and more water gives a higher note. Why? In this unit you will test tapping and blowing, find when a finger squeaks on glass, and hunt for sounds that shake, blow, pop or rub.
+**Summary.** Tap a bottle with water in it and more water gives a lower note. Blow across it and more water gives a higher note. Why? In this lesson you will test tapping and blowing, find when a finger squeaks on glass, and hunt for sounds that shake, blow, pop or rub.
 
-**Intro.** *Line up three glass bottles with different amounts of water. Tap each one with a spoon and listen. The fullest bottle gives the lowest note. Now blow gently across the top of each bottle, like blowing across a flute. Listen again. Is the fullest bottle still the lowest?* When you blow across the bottles, the fullest bottle is not the lowest. It is the highest. The same bottle makes a low note when you tap it and a high note when you blow across it. In this unit you find out what shakes in each case, and why that matters. You also meet three other ways to make a sound, by popping, by rubbing and by whispering, and you test them with things from your kitchen and your window.
+**Intro.** *Line up three glass bottles with different amounts of water. Tap each one with a spoon and listen. The fullest bottle gives the lowest note. Now blow gently across the top of each bottle, like blowing across a flute. Listen again. Is the fullest bottle still the lowest?* When you blow across the bottles, the fullest bottle is not the lowest. It is the highest. The same bottle makes a low note when you tap it and a high note when you blow across it. In this lesson you find out what shakes in each case, and why that matters. You also meet three other ways to make a sound, by popping, by rubbing and by whispering, and you test them with things from your kitchen and your window.
 
 ## Learning outcomes
 0. I can name four different ways a sound can start: a solid thing shaking, air shaking in a space, a sudden pop and rubbing that sticks and slips.
@@ -136,7 +136,7 @@ Some pairs of notes sound smooth and pleasing together, and some sound rough and
   Against: In 2016 a team led by Josh McDermott found that the Tsimane people of Bolivia, who live far from Western music, did not prefer sweet pairs of notes to rough ones. What counts as sweet may be partly learned.
 
 ## Roots
-This unit found four ways to start a sound, and showed that the space around a source shapes the sound as much as the source does. Now we ask where a sound really comes from, and whether an empty space counts as part of a thing.
+This lesson found four ways to start a sound, and showed that the space around a source shapes the sound as much as the source does. Now we ask where a sound really comes from, and whether an empty space counts as part of a thing.
 
 **Deep truth.** In the Whisper Vowels activity, the listener could still tell 'ee' from 'oo' with no buzz from the throat. Only a hiss left the throat, and the mouth shaped it. In the Tap or Blow test, tapping and blowing gave opposite orders of notes from the same bottles. So a sound comes from what starts it and also from the space that shapes it.  
 *Habit it breaks:* We say a sound comes from its source: the drum, the string or the throat. But the same source sounds different when the space around it changes. So the source alone does not fix the sound.  
@@ -149,7 +149,7 @@ This unit found four ways to start a sound, and showed that the space around a s
 A string, a skin, a stream of air and a squeeze all push on the air. The air is the same air in every case. What changes is how it is pushed and what empty space it is in. A bottle, a throat, a hall and a flute are all empty spaces with a shape, and the shape picks out the notes. So the empty part of a thing matters to its sound as much as the solid part. It is hard to say where one stops and the other begins.
 
 - **Tao Te Ching 11:** “埏埴以為器，當其無，有器之用。 / 故有之以為利，無之以為用。” Clay is shaped into a pot, and it is the empty space inside that makes the pot useful. We profit from what is there, and we use what is not there. (In the story The Moan in the Courtyard, a clay jar moans only because of the air inside it. The clay gives the space its shape, and the air in that space gives the note.)
-- **Brihadaranyaka Upanishad 2.4.7:** “स यथा दुन्दुभेर्हन्यमानस्य न बाह्याञ्छब्दाञ्छक्नुयाद्ग्रहणाय / दुन्दुभेस्तु ग्रहणेन दुन्दुभ्याघातस्य वा शब्दो गृहीतः” When a drum is beaten, we cannot grasp the sounds as they spread out. But if we grasp the drum or the person who beats it, we have grasped the sound. The text gives the same teaching for a conch and a vina. (This unit finds that a sound cannot be understood apart from what makes it and the space that shapes it. The Upanishad says something similar: to understand the sound, look at the drum and the person who beats it.)
+- **Brihadaranyaka Upanishad 2.4.7:** “स यथा दुन्दुभेर्हन्यमानस्य न बाह्याञ्छब्दाञ्छक्नुयाद्ग्रहणाय / दुन्दुभेस्तु ग्रहणेन दुन्दुभ्याघातस्य वा शब्दो गृहीतः” When a drum is beaten, we cannot grasp the sounds as they spread out. But if we grasp the drum or the person who beats it, we have grasped the sound. The text gives the same teaching for a conch and a vina. (This lesson finds that a sound cannot be understood apart from what makes it and the space that shapes it. The Upanishad says something similar: to understand the sound, look at the drum and the person who beats it.)
 - **Taittiriya Upanishad 1.2:** “ॐ शीक्षां व्याख्यास्यामः / वर्णः स्वरः । मात्रा बलम् । साम सन्तानः” This is the opening of an old Indian study of the sounds of speech. It names the parts of a spoken sound: the letter, the pitch, the length, the strength, the evenness and the joining. (Indian teachers studied for centuries how the mouth shapes speech. Today's source and filter picture of the voice finds the same two parts.)
 - Science (settled): The voice has a source, the buzz of the vocal folds, and a filter, the shape of the throat, mouth and nose. A whisper uses a hiss as its source.
 - Science (debated): Why some pairs of notes sound sweet to nearly everyone is not settled. Physics, the ear and learning may all play a part.
@@ -485,7 +485,7 @@ Valli had an idea. With Muthu Thatha's help she poured different amounts of wate
 3. (truefalse) A string that is half as long vibrates twice as fast and gives a note one octave higher. True or false?  
    **Answer:** True. *Why:* True. Halving the length doubles the number of vibrations each second, which is one octave. This rule works for strings and for air columns.
 4. (mcq) A bansuri gives its lowest note when all its holes are covered. What is the best reason?  
-   Options: The air column is at its longest / The air column is at its shortest / The player blows harder / The bamboo is heavier  
+   Options: The air column is at its shortest / The player blows harder / The air column is at its longest / The bamboo is heavier  
    **Answer:** The air column is at its longest. *Why:* Covering the holes makes the whole length of the tube vibrate, which is the longest air column and the lowest note. Uncovering holes shortens the air column and raises the note.
 5. (order) Blow across three bottles: one empty, one with 200 millilitres of water and one with 400 millilitres. Put them in order from the lowest note to the highest.  
    **Answer:** order shown. *Why:* More water leaves less air, and a shorter air column gives a higher note when you blow. So the empty bottle is lowest and the fullest is highest.
@@ -497,7 +497,7 @@ Valli had an idea. With Muthu Thatha's help she poured different amounts of wate
 8. (fill) The mix of overtones in a sound gives it its ____, so a flute and a violin sound different on the same note.  
    **Answer:** ['timbre']. *Why:* Timbre is the quality of a sound. It depends on which overtones are strong and which are weak.
 9. (mcq) A damp finger squeaks on glass, but a dry finger hardly does. What is the best reason?  
-   Options: A squeak needs the finger to stick and slip again and again, and a dry finger grips too hard to do that / A damp finger is heavier / A dry finger makes no vibration at all / The glass is warmer when damp  
+   Options: A damp finger is heavier / A squeak needs the finger to stick and slip again and again, and a dry finger grips too hard to do that / A dry finger makes no vibration at all / The glass is warmer when damp  
    **Answer:** A squeak needs the finger to stick and slip again and again, and a dry finger grips too hard to do that. *Why:* A squeak is a fast rhythm of gripping and slipping. If the grip is too strong, the finger drags. If it is too weak, the finger glides. Damp is in the middle.
 10. (truefalse) When you whisper, your vocal folds buzz very quietly. True or false?  
    **Answer:** False. *Why:* False. In a whisper, the vocal folds do not buzz. Air rushes through a gap in the throat and makes a hiss. You can feel the difference by touching your throat.
@@ -507,7 +507,7 @@ Valli had an idea. With Muthu Thatha's help she poured different amounts of wate
 12. (sort) Sort these sounds into the four ways a sound can start.  
    **Answer:** a tabla skin → A solid thing shakes; a bottle blown across → Air shakes in a space; a clap → A sudden pop; a squeaky hinge → Stick and slip; a temple bell → A solid thing shakes; a whistle → Air shakes in a space; a balloon bursting → A sudden pop; a cricket's chirp → Stick and slip. *Why:* Skins and bells are shaking solids. Bottles and whistles work by air shaking in a space. A clap and a balloon are one sudden push. A hinge and a cricket rub two surfaces that stick and slip.
 13. (mcq) How can you find how far away lightning is?  
-   Options: Count the seconds between the flash and the thunder, and divide by three to get kilometres / Count the flashes in a minute / Listen for how loud the thunder is / Measure how bright the flash is  
+   Options: Count the flashes in a minute / Listen for how loud the thunder is / Measure how bright the flash is / Count the seconds between the flash and the thunder, and divide by three to get kilometres  
    **Answer:** Count the seconds between the flash and the thunder, and divide by three to get kilometres. *Why:* Light arrives almost at once, and sound travels about a kilometre in three seconds. So the gap in seconds divided by three is the distance in kilometres.
 14. (write) Is every sound a steady note? Give two sounds that are not steady notes, and say why.  
    **Answer:** A clap and a hiss are not steady notes. A clap is one sudden push of air, and a hiss is a jumble of many pitches with no steady one.. *Why:* A strong answer names two sounds, such as a clap, a pop, a hiss or a crash, and says that they have no single steady pitch.
@@ -517,20 +517,20 @@ Valli had an idea. With Muthu Thatha's help she poured different amounts of wate
    **Answer:** A bottle with a lot of water has a short air column marked at the top and gives the higher note. A bottle with a little water has a long air column and gives the lower note.. *Why:* A strong drawing shows the air column as the empty part of each bottle, shorter in the fuller one, and gives the higher note to the fuller bottle.
 ### Notes, Overtones and Whistles (stretch) (stretch, 17 questions)
 1. (mcq) A closed pipe 17 centimetres long gives about 500 hertz. About what note does a closed pipe 34 centimetres long give?  
-   Options: About 250 hertz / About 500 hertz / About 1000 hertz / About 125 hertz  
+   Options: About 500 hertz / About 250 hertz / About 1000 hertz / About 125 hertz  
    **Answer:** About 250 hertz. *Why:* Doubling the length halves the number of vibrations each second. 500 divided by 2 is 250. That is one octave lower.
 2. (mcq) A string vibrates 200 times each second. You press it at its middle so only half can shake. What happens?  
-   Options: It vibrates about 400 times each second, one octave higher / It vibrates about 100 times each second / It stays at 200 / It stops vibrating  
+   Options: It vibrates about 100 times each second / It stays at 200 / It stops vibrating / It vibrates about 400 times each second, one octave higher  
    **Answer:** It vibrates about 400 times each second, one octave higher. *Why:* Half the length means twice the vibrations each second. 200 times 2 is 400. Picking 100 reverses the rule.
 3. (fill) A string two thirds as long as another vibrates one and a half times as fast and gives the note Pa above Sa. So Sa and Pa have a ratio of 3 to ____.  
    **Answer:** ['2', 'two']. *Why:* One and a half is the same as 3 over 2. Sa and Pa have a ratio of 3 to 2, which is what makes them agree.
 4. (truefalse) A hollow bamboo pole that moans in the wind is vibrating like a stretched string. True or false?  
    **Answer:** False. *Why:* False. The air in the hollow pole is what shakes. The wind flips from side to side at the edge of the opening, and the air inside picks the note. The bamboo itself hardly moves.
 5. (mcq) Why can a flute player move the note up by blowing harder?  
-   Options: The edge tone speeds up and jumps to a higher resonance of the air column / Blowing harder makes the flute shorter / The flute gets colder / The player's lips vibrate faster  
+   Options: Blowing harder makes the flute shorter / The flute gets colder / The player's lips vibrate faster / The edge tone speeds up and jumps to a higher resonance of the air column  
    **Answer:** The edge tone speeds up and jumps to a higher resonance of the air column. *Why:* Faster air makes faster swirls at the edge, and the edge tone locks on to a higher resonance of the air column. The flute itself does not change.
 6. (mcq) Why does a thin wire hum at a higher note in the wind than a thick wire?  
-   Options: The swirls behind a thin wire flip from side to side more often / Thin wires are lighter / Thin wires are colder / The wind blows harder on thin wires  
+   Options: Thin wires are lighter / Thin wires are colder / The swirls behind a thin wire flip from side to side more often / The wind blows harder on thin wires  
    **Answer:** The swirls behind a thin wire flip from side to side more often. *Why:* The rate of the flips grows as the wire gets thinner. The thin wire gives faster swirls, so a higher hum. Weight and temperature are not the cause.
 7. (sort) Sort each description into 'fundamental' or 'overtone'.  
    **Answer:** a string swinging as one big loop → Fundamental; a string swinging in two halves at once → Overtone; the lowest and usually strongest vibration → Fundamental; a higher vibration that sounds along with the main note → Overtone; the part that sets the pitch you hear → Fundamental; the part that shapes the timbre → Overtone. *Why:* The fundamental is the slowest vibration and sets the pitch. Overtones are faster vibrations above it, and the mix of them gives the sound its timbre.
@@ -539,7 +539,7 @@ Valli had an idea. With Muthu Thatha's help she poured different amounts of wate
 9. (match) Match each action to what is shaking.  
    **Answer:** Tapping a glass bottle → The glass and the water; Blowing across a bottle → The air column; Humming → The vocal folds; Drawing a bow across a violin string → The string, driven by stick and slip. *Why:* Different actions make different things shake. Knowing what shakes explains the note.
 10. (mcq) Why does thunder arrive after you see the lightning?  
-   Options: Sound travels much more slowly than light / Thunder happens later than lightning / The sky is cloudy / Light is louder  
+   Options: Thunder happens later than lightning / The sky is cloudy / Sound travels much more slowly than light / Light is louder  
    **Answer:** Sound travels much more slowly than light. *Why:* Lightning and thunder start together. Light reaches you almost at once, and sound travels about a kilometre in three seconds.
 11. (mcq) A mosquito's wings beat about 500 times each second and a bee's about 230. Which whines higher, and why?  
    Options: The mosquito, because her wings vibrate faster / The bee, because she is bigger / They sound the same / The bee, because her wings are slower  
@@ -558,10 +558,10 @@ Valli had an idea. With Muthu Thatha's help she poured different amounts of wate
    **Answer:** The oil made the surfaces slide smoothly, so they no longer stick. Without sticking and slipping again and again, there is no fast vibration, and the squeak stops.. *Why:* A strong answer says that a squeak is a rhythm of sticking and slipping and that oil removes the sticking.
 ### Numbers, Pipes and Open Questions (challenge) (challenge, 16 questions)
 1. (mcq) The note of a closed pipe, in hertz, is about 343 divided by four times its length in metres. About what note does a closed pipe 0.25 metres long give?  
-   Options: About 343 hertz / About 686 hertz / About 86 hertz / About 1372 hertz  
+   Options: About 686 hertz / About 343 hertz / About 86 hertz / About 1372 hertz  
    **Answer:** About 343 hertz. *Why:* Four times 0.25 is 1. 343 divided by 1 is 343. Picking 86 divides 343 by four and forgets to multiply the four by the length first.
 2. (mcq) A closed pipe gives 300 hertz. Its length is cut in half. About what note does it give now?  
-   Options: About 600 hertz / About 150 hertz / About 300 hertz / About 900 hertz  
+   Options: About 150 hertz / About 600 hertz / About 300 hertz / About 900 hertz  
    **Answer:** About 600 hertz. *Why:* Halving the length doubles the vibrations each second. 300 times 2 is 600, one octave higher.
 3. (fill) Marin Mersenne found that a string vibrates faster when it is shorter, tighter or ____.  
    **Answer:** ['thinner']. *Why:* A thin string has less mass to move, so it vibrates faster. A thick string vibrates more slowly.
@@ -571,17 +571,17 @@ Valli had an idea. With Muthu Thatha's help she poured different amounts of wate
    Options: About 3 kilometres / About 1 kilometre / About 9 kilometres / About 27 kilometres  
    **Answer:** About 3 kilometres. *Why:* Sound travels about a kilometre in three seconds. 9 divided by 3 is 3 kilometres.
 6. (mcq) A finger takes half a second to cross a window and squeaks at 800 hertz. About how many sticks and slips happen in that sweep?  
-   Options: About 400 / About 40 / About 800 / About 1600  
+   Options: About 40 / About 800 / About 400 / About 1600  
    **Answer:** About 400. *Why:* 800 vibrations each second for half a second is 800 times a half, which is 400. Picking 800 forgets that the sweep only lasted half a second.
 7. (fill) A grown-up man's voice buzz is about 110 hertz. In 2 seconds, his vocal folds open and close about ____ times.  
    **Answer:** ['220']. *Why:* 110 vibrations each second times 2 seconds is 220.
 8. (match) Match each thing to the idea that explains it.  
    **Answer:** Tanpura strings tuned to Pa and Sa → Notes that agree, with a simple ratio of 3 to 2; A bottle that sings when blown across → An edge tone joined to an air column; A snapping shrimp's loud bang → A bubble collapsing; Wind humming in a wire → Swirls flipping from side to side. *Why:* Each sound has a cause that you can name. Naming it is a first step to testing it.
 9. (mcq) In 1971, John Coltman found that listeners could not tell flutes with walls of different materials apart. What does this suggest?  
-   Options: The wall material matters much less than the shape of the air column / Flutes make no sound / Metal flutes sound the best / Listeners do not hear well  
+   Options: Flutes make no sound / The wall material matters much less than the shape of the air column / Metal flutes sound the best / Listeners do not hear well  
    **Answer:** The wall material matters much less than the shape of the air column. *Why:* If listeners cannot tell the walls apart, then the material has little effect on the sound. The air column carries most of the sound. Some players still disagree.
 10. (mcq) The Tsimane people of Bolivia did not prefer sweet pairs of notes to rough ones. What does this suggest?  
-   Options: Part of what sounds sweet is learned from the music around us / The Tsimane cannot hear / Ratios do not exist / Sweet notes are the same for all people  
+   Options: The Tsimane cannot hear / Part of what sounds sweet is learned from the music around us / Ratios do not exist / Sweet notes are the same for all people  
    **Answer:** Part of what sounds sweet is learned from the music around us. *Why:* If sweetness were fully built into the ear, every group would show it. The result suggests that learning plays a part. It does not show that ratios do not exist.
 11. (write) Explain why a bottle gives opposite orders of notes when it is tapped and when it is blown across. Use the words 'shaking' and 'air column'.  
    **Answer:** When you tap the bottle, the glass and the water are shaking, and more water is more to shake, so the note is lower. When you blow across it, the air column is shaking, and more water makes the air column shorter, so the note is higher.. *Why:* A strong answer says what is shaking in each case and links it to the direction of the change.
@@ -603,40 +603,40 @@ Valli had an idea. With Muthu Thatha's help she poured different amounts of wate
 
 ## Quiz
 1. (mcq) A sound starts when something pushes on the air. Which of these does not push on the air?  
-   Options: A plucked string / A clap / A stream of air across an edge / A stone lying perfectly still  
+   Options: A plucked string / A clap / A stone lying perfectly still / A stream of air across an edge  
    **Answer:** A stone lying perfectly still. *Why:* Something has to move to push the air. A stone lying still does nothing to the air. A string, a clap and a moving air stream all push it.
 2. (mcq) What does the hertz count?  
-   Options: Vibrations each second / How loud a sound is / How far a sound travels / How long a note lasts  
+   Options: How loud a sound is / How far a sound travels / Vibrations each second / How long a note lasts  
    **Answer:** Vibrations each second. *Why:* One hertz is one vibration each second. Loudness is a different idea.
 3. (mcq) Two strings are the same except that one is half as long. Compared with the long one, the short one vibrates...  
-   Options: twice as fast / half as fast / at the same speed / four times as fast  
+   Options: half as fast / twice as fast / at the same speed / four times as fast  
    **Answer:** twice as fast. *Why:* Halving the length doubles the vibrations each second, which is one octave higher.
 4. (mcq) What does timbre tell you about a sound?  
-   Options: Which instrument or voice is making it, even when the pitch is the same / How loud it is / How far away it is / How long it lasts  
+   Options: How loud it is / How far away it is / How long it lasts / Which instrument or voice is making it, even when the pitch is the same  
    **Answer:** Which instrument or voice is making it, even when the pitch is the same. *Why:* Timbre is the quality of a sound, which comes from the mix of overtones. Loudness and distance are different ideas.
 5. (mcq) You touch a vibrating string lightly at its middle. What do you hear?  
-   Options: A note one octave higher, with a pure bell-like sound / A note one octave lower / No sound at all / A louder sound at the same pitch  
+   Options: A note one octave lower / No sound at all / A louder sound at the same pitch / A note one octave higher, with a pure bell-like sound  
    **Answer:** A note one octave higher, with a pure bell-like sound. *Why:* The touch stops the whole-string vibration and leaves the two-half vibration, which is one octave higher.
 6. (mcq) You blow across two identical bottles. One has 100 millilitres of water and the other has 300 millilitres. Which gives the higher note, and why?  
-   Options: The 300 millilitre bottle, because its air column is shorter / The 100 millilitre bottle, because its air column is shorter / The 300 millilitre bottle, because the water is heavier / They give the same note  
+   Options: The 100 millilitre bottle, because its air column is shorter / The 300 millilitre bottle, because the water is heavier / The 300 millilitre bottle, because its air column is shorter / They give the same note  
    **Answer:** The 300 millilitre bottle, because its air column is shorter. *Why:* More water leaves less air, so the air column is shorter, and a shorter air column gives a higher note. Picking 'heavier' is the reasoning for tapping, not blowing.
 7. (mcq) What makes the note of a flute?  
-   Options: Air in the tube, set shaking by a stream of air across an edge / The metal of the flute shaking / The player's voice / The player's lips buzzing  
+   Options: The metal of the flute shaking / The player's voice / Air in the tube, set shaking by a stream of air across an edge / The player's lips buzzing  
    **Answer:** Air in the tube, set shaking by a stream of air across an edge. *Why:* A flute is a tube of air. The air stream across the edge sets the air column shaking, and the length of the column picks the note.
 8. (mcq) Which of these makes a sound from one sudden push of air, with no steady pitch?  
-   Options: A clap / A tuning fork / A flute note / A tanpura string  
+   Options: A tuning fork / A flute note / A tanpura string / A clap  
    **Answer:** A clap. *Why:* A clap is one sudden squeeze of air. The other three give steady notes.
 9. (mcq) A squeak happens when two surfaces...  
-   Options: stick and slip again and again / stay perfectly still / slide with no grip at all / get hot and melt  
+   Options: stay perfectly still / slide with no grip at all / get hot and melt / stick and slip again and again  
    **Answer:** stick and slip again and again. *Why:* A squeak is a very fast rhythm of gripping and slipping. If there is no grip, or too much, there is no squeak.
 10. (mcq) In a whisper, what turns the hiss into 'ee' or 'oo'?  
    Options: The shape of the mouth / The buzz of the vocal folds / The lungs / The ears  
    **Answer:** The shape of the mouth. *Why:* A whisper has no buzz. The mouth shape boosts different parts of the hiss for each vowel.
 11. (mcq) Which statement about vocal folds is true?  
-   Options: They buzz when you speak or hum, and do not buzz when you whisper / They buzz when you whisper / They only buzz when you shout / They do not move  
+   Options: They buzz when you whisper / They only buzz when you shout / They buzz when you speak or hum, and do not buzz when you whisper / They do not move  
    **Answer:** They buzz when you speak or hum, and do not buzz when you whisper. *Why:* The vocal folds buzz for speech, singing and humming. In a whisper, air only hisses through a gap.
 12. (mcq) Which of these is still an open question for scientists?  
-   Options: Why some pairs of notes sound sweet to nearly everyone / Whether vibrations make sound / Whether a clap is louder than a whisper / Whether strings vibrate  
+   Options: Whether vibrations make sound / Whether a clap is louder than a whisper / Whether strings vibrate / Why some pairs of notes sound sweet to nearly everyone  
    **Answer:** Why some pairs of notes sound sweet to nearly everyone. *Why:* Scientists agree that vibrations make sound. Why certain pairs of notes feel sweet is still debated, with ideas from physics, the ear and learning.
 
 ## Applications
@@ -717,6 +717,12 @@ Everything Has a Beat (sci.sound.L4): Topic-level song
 - [A small toy keyboard (optional)](https://www.amazon.in/s?k=kids+keyboard+piano+37+keys) (tool): Only for tuning the bottles to Sa, Re, Ga, Pa and Dha if you have no harmonium and no phone. A free keyboard app on a phone does the same job and costs nothing. Used in p1. 
 - [A pack of cardboard tubes](https://www.amazon.in/s?k=cardboard+tubes+craft) (material): For the One Tube, Three Notes challenge. The tube from a kitchen foil roll also works, and costs nothing. Used in c1. 
 - [Sounds All Around, by Wendy Pfeffer](https://www.amazon.in/s?k=Sounds+All+Around+Wendy+Pfeffer) (book): A clear picture book for ages 5 to 9 about how sounds are made and how they travel. Read it before the unit, and talk about the four ways afterwards. Used in a1. Read it aloud over two evenings before starting, or after the Four-Way Sound Hunt.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Tap or Blow: which way do the notes go?, The Pot That Hums Back: finding the hidden note of a space. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a3. Get it before Tap or Blow: which way do the notes go?.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in The Squeak Test: when does a finger squeak on glass?. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in e2. Get it before The Squeak Test: when does a finger squeak on glass?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in One Tube, Three Notes. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in c1. Get it before One Tube, Three Notes.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in One Tube, Three Notes. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in c1. Get it before One Tube, Three Notes.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in The Squeak Test: when does a finger squeak on glass?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e2. Get it before The Squeak Test: when does a finger squeak on glass?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What does one hertz count? → One vibration each second.
@@ -736,7 +742,7 @@ Everything Has a Beat (sci.sound.L4): Topic-level song
 
 ## Sources
 - Founder's notebook, Sound: the concept activities on Sound and Vibration and on Waves and Oscillation. Used ideas include tapping glasses with different water levels, straw panpipes, rubbing a glass rim for a tone, and the Chladni plate with sand, which became the bottle test, the squeak test and the section on plates.
-- The Class 3 unit on where sounds come from, which this unit builds on. It showed that every sound starts with a vibration. This unit asks how many different ways the air can be pushed, and what shapes the note.
+- The Class 3 unit on where sounds come from, which this lesson builds on. It showed that every sound starts with a vibration. This lesson asks how many different ways the air can be pushed, and what shapes the note.
 - The founder's idea that a sound belongs to its source and to the space around it, used for the deep truth and the Roots card.
 - Marin Mersenne, Harmonie universelle, 1636 (laws for vibrating strings, overtones, and the speed of sound for all pitches)
 - Galileo Galilei, Discourses and Mathematical Demonstrations Concerning Two New Sciences, 1638 (lines scraped by a chisel and the idea that pitch is the number of vibrations)

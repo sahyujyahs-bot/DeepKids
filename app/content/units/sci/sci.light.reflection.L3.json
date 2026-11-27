@@ -551,12 +551,12 @@
       "t": "mcq",
       "q": "Stand a mirror beside the letter A. What will you see?",
       "options": [
-       "An A that looks just the same",
        "An A turned upside down",
        "A different letter",
-       "Nothing"
+       "Nothing",
+       "An A that looks just the same"
       ],
-      "a": 0,
+      "a": 3,
       "why": "The letter A has a line of symmetry straight down its middle. Its left half is the mirror image of its right half. So the mirror shows the same A. Letters like B and R have no line of symmetry down the middle, so they turn round."
      },
      "context": "In Mirror or Not?, you guess whether letters stay the same beside a mirror. Here you play one practice card."
@@ -580,12 +580,12 @@
       "t": "mcq",
       "q": "NOON reads the same backwards. Why does it still look wrong in a mirror?",
       "options": [
-       "The letter N turns round in a mirror",
        "The O turns into a zero",
        "Mirrors cannot show words",
+       "The letter N turns round in a mirror",
        "It does not look wrong"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A mirror does two things to a word. It reverses the order of the letters, and it turns each letter round. NOON still reads NOON when the order is reversed, but each N turns round. Only words made of symmetrical letters, like MOM, look the same after both changes."
      },
      "context": "In Mirror or Not?, the NOON card is a trick. It reads the same backwards, but it still changes in a mirror."
@@ -662,12 +662,12 @@
       "t": "mcq",
       "q": "The beam lands too far to the left of the target. What should you do?",
       "options": [
-       "Tilt the mirror a little, so the light leaves at a new angle",
        "Shake the torch",
+       "Tilt the mirror a little, so the light leaves at a new angle",
        "Hold the mirror further from the light",
        "Close your eyes"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The light leaves the mirror at the same angle it arrives. Tilt the mirror, and you change the angle, so the spot moves. Small tilts make big moves on a far wall."
      },
      "context": "In Bounce Relay, a team bounces a torch beam off mirrors onto a paper target. Here is round 1, with one mirror."
@@ -712,11 +712,11 @@
      "t": "mcq",
      "p": "You take a mirror into a storeroom with no light at all and shut the door. What will you see in the mirror?",
      "opts": [
-      "Nothing, because a mirror only sends back light that reaches it",
       "Your face, because a mirror shines by itself",
+      "Nothing, because a mirror only sends back light that reaches it",
       "A faint glow from the glass"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A mirror is not a light source. It only reflects light that comes from somewhere else, like the Sun or a bulb. With no light in the room, there is nothing to reflect. Picking 'your face' is a common idea, because mirrors look so bright in a lit room."
     },
     {
@@ -932,11 +932,11 @@
      "t": "mcq",
      "p": "Why does a torch have a curved mirror behind the bulb?",
      "opts": [
-      "To send the light forward in a strong beam",
       "To make the bulb hotter",
-      "To keep the light inside"
+      "To keep the light inside",
+      "To send the light forward in a strong beam"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The curved mirror catches light going backwards and sends it forward, so the beam is stronger."
     },
     {
@@ -967,22 +967,22 @@
      "t": "mcq",
      "p": "Deep down, what sends light back from a mirror?",
      "opts": [
-      "Free electrons in its thin metal layer",
       "The glass at the front",
-      "Air behind the mirror"
+      "Air behind the mirror",
+      "Free electrons in its thin metal layer"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Light shakes the free electrons in the thin metal layer, and they send the light back out. The glass is mostly there to keep the metal smooth and safe. Picking 'the glass' is very common, but clear glass on its own lets most light through."
     },
     {
      "t": "mcq",
      "p": "The Sheesh Mahal, a palace hall at Amber Fort near Jaipur, is covered in tiny mirrors. Why does one lamp make it sparkle so much?",
      "opts": [
-      "Each tiny mirror reflects the lamp's light to your eyes from a different place",
       "The mirrors make their own light",
+      "Each tiny mirror reflects the lamp's light to your eyes from a different place",
       "The walls are see-through"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Each mirror bounces light towards you from a slightly different spot. So one lamp seems to become hundreds of sparkles."
     },
     {
@@ -1025,11 +1025,11 @@
      "t": "mcq",
      "p": "Hill roads in the ghats have a round, bulging mirror at sharp bends. Why is a bulging mirror better there than a flat one?",
      "opts": [
-      "It shows a wide view, so a driver sees a long stretch of road round the bend",
       "It makes cars look bigger",
-      "It makes its own light at night"
+      "It makes its own light at night",
+      "It shows a wide view, so a driver sees a long stretch of road round the bend"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A bulging (convex) mirror spreads the rays out, so it shows much more of the road than a flat mirror of the same size. The things look smaller and further away, but the driver sees the whole bend."
     },
     {
@@ -1122,33 +1122,33 @@
      "t": "mcq",
      "p": "Which fact best shows that light travels into our eyes, not out of them?",
      "opts": [
-      "Looking at the Sun hurts your eyes and leaves a bright patch, so light must come into the eye",
       "Mirrors are made of glass",
+      "Looking at the Sun hurts your eyes and leaves a bright patch, so light must come into the eye",
       "Eyes are too small to send out light"
      ],
-     "a": 0,
+     "a": 1,
      "why": "If rays only went out of the eye, bright light could not hurt it. The pain and the bright patch show that light comes in."
     },
     {
      "t": "mcq",
      "p": "Scientists wondered if nature works exactly the same in a mirror world. Which test could check this?",
      "opts": [
-      "Set up an experiment and its exact mirror copy, and see if both give the same result",
       "Look in a mirror and see if you are still there",
-      "Ask people whether mirrors are fair"
+      "Ask people whether mirrors are fair",
+      "Set up an experiment and its exact mirror copy, and see if both give the same result"
      ],
-     "a": 0,
+     "a": 2,
      "why": "To test it, you build the real setup and its mirror copy and compare them. When Chien-Shiung Wu did this in 1957, one force of nature, the weak force, did not act the same."
     },
     {
      "t": "mcq",
      "p": "Astronauts left mirrors on the Moon in 1969. What do scientists use them for?",
      "opts": [
-      "To measure how far away the Moon is, by bouncing laser light off them",
       "To make the Moon brighter",
-      "To heat the Moon"
+      "To heat the Moon",
+      "To measure how far away the Moon is, by bouncing laser light off them"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Scientists send a laser pulse to the Moon and time how long the reflection takes to come back. That tells them the distance very exactly. It shows the Moon moves about 3.8 cm further from Earth every year."
     },
     {
@@ -1161,11 +1161,11 @@
      "t": "mcq",
      "p": "In the mirror test, scientists put a mark on an animal where they can only see the mark in a mirror. In 2019, a tiny fish called a cleaner wrasse scraped at their mark. Why did this surprise scientists?",
      "opts": [
-      "Many thought only big-brained animals could pass the mirror test",
       "Fish cannot see",
+      "Many thought only big-brained animals could pass the mirror test",
       "The mark was invisible"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Before 2019, the animals that had passed were mostly great apes, elephants, dolphins and magpies. The fish result made scientists argue about what the test really shows."
     },
     {
@@ -1398,12 +1398,12 @@
       "t": "mcq",
       "q": "When you fold the paper, the line going in lies right on top of the line going out. What does that show?",
       "options": [
-       "Light leaves the mirror at the same angle it came in",
        "Light gets slower after it bounces",
        "The mirror made new light",
-       "The paper was folded wrong"
+       "The paper was folded wrong",
+       "Light leaves the mirror at the same angle it came in"
       ],
-      "a": 0,
+      "a": 3,
       "why": "The two lines match because they have the same angle. The light came in at one angle and left at the same angle, on the other side. Scientists say the angle in equals the angle out. Picking 'the mirror made new light' usually means thinking a mirror is a light source. It is not. It only sends back the light that reaches it."
      },
      "context": "In the torch-and-mirror experiment, each beam makes a V on the paper. Here you fold the paper to compare the two sides of the V."
@@ -1512,12 +1512,12 @@
       "t": "mcq",
       "q": "A child slipped 9 times on try 1, 6 times on try 2 and 3 times on try 3. What does that show?",
       "options": [
-       "Practice helped the hand learn the mirror's way",
        "The mirror got smoother",
        "The star got bigger",
+       "Practice helped the hand learn the mirror's way",
        "Mirrors only work after you use them a few times"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The mirror and the star stayed the same. Only the child changed. Their hand and brain learned the mirror's front-to-back flip. Picking 'the mirror got smoother' usually means looking for the change in the wrong place. In a fair test, if only one thing changed, that is the cause."
      },
      "context": "In the mirror drawing race, a child traces a star three times while looking only in a mirror, and counts the slips."
@@ -1647,12 +1647,12 @@
       "t": "mcq",
       "q": "With the mirrors opened to a quarter of a circle you saw 3 images. At a sixth of a circle you saw 5. What will happen at an eighth of a circle?",
       "options": [
-       "More images, about 7",
        "Fewer images, about 1",
        "The same, 3 images",
-       "No images at all"
+       "No images at all",
+       "More images, about 7"
       ],
-      "a": 0,
+      "a": 3,
       "why": "A smaller gap means more images, because the light can reflect back and forth more times before it escapes. Picking 'fewer' usually means thinking a small gap squeezes the images out. Notice the pattern: count how many of these gaps fit in a whole circle, then take away one. 8 take away 1 is 7."
      },
      "context": "In the two-mirrors experiment, you count images of a toy as you close the gap between two mirrors."
@@ -1744,12 +1744,12 @@
       "t": "mcq",
       "q": "Crumpled foil is shiny, but it shows no clear image of your face. Why?",
       "options": [
-       "Its bumps send light off in all directions",
        "Foil makes its own light",
        "Foil is too thin to reflect",
+       "Its bumps send light off in all directions",
        "Foil only works in sunlight"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Each tiny bump in crumpled foil faces a different way, so the light reflects off every which way and the image gets mixed up. A smooth mirror sends all the light back in neat order. Picking 'foil makes its own light' mixes up shining with making light. Foil is not a light source. In a dark cupboard it does not shine at all."
      },
      "context": "In Spoon Faces and the Mirror Hunt, you sorted things that show your face from things that only shine. Here is a question about the foil."
@@ -1894,12 +1894,12 @@
       "t": "mcq",
       "q": "Why is AMBULANCE written backwards on the front of an ambulance?",
       "options": [
-       "So drivers in front can read it in their mirrors",
        "Because the painter made a mistake",
        "So only the ambulance driver can read it",
-       "Because backwards writing is louder"
+       "Because backwards writing is louder",
+       "So drivers in front can read it in their mirrors"
       ],
-      "a": 0,
+      "a": 3,
       "why": "Drivers in front see the ambulance in their rear-view mirror. The mirror turns writing round. So the word is painted backwards, and the mirror turns it the right way. Then the driver reads AMBULANCE and moves aside. Picking 'a mistake' is a fair first guess, but every ambulance has it, so it must be on purpose."
      },
      "context": "In Secret Mirror Messages, you learn about mirror writing. Here you look at why ambulances have backwards writing."
@@ -1982,12 +1982,12 @@
       "t": "mcq",
       "q": "Which of these words looks the same when you stand a mirror next to it?",
       "options": [
-       "MOM",
        "DAD",
        "BOB",
+       "MOM",
        "SIS"
       ],
-      "a": 0,
+      "a": 2,
       "why": "M and O look the same in a mirror stood beside them, and MOM reads the same both ways, so the mirror shows MOM. D, B and S turn round in a mirror, so DAD, BOB and SIS look wrong. Picking DAD or BOB usually means only checking that the word reads the same backwards. The letters must also be symmetrical."
      },
      "parent": "Letters that look the same in a mirror stood beside them: A, H, I, M, O, T, U, V, W, X, Y.",
@@ -2065,12 +2065,12 @@
       "t": "mcq",
       "q": "You tilt the mirror a little, and the bright spot on the wall jumps across. Why?",
       "options": [
-       "The light leaves at a new angle, so it lands in a new place",
        "The Sun moved",
        "The mirror made more light",
-       "The wall moved"
+       "The wall moved",
+       "The light leaves at a new angle, so it lands in a new place"
       ],
-      "a": 0,
+      "a": 3,
       "why": "When you tilt the mirror, the light hits it at a new angle, so it leaves at a new angle too. A small tilt makes a big jump on a faraway wall. Picking 'the Sun moved' is a fair idea, because the Sun does move slowly across the sky. But it cannot jump in one second."
      },
      "context": "In the Sunlight Postman, you tilt a mirror to move a bright spot. Here you work out why the spot jumps."
@@ -2132,12 +2132,12 @@
       "t": "mcq",
       "q": "You step back from the mirror. Your face in the mirror still fits between the same two notes. What does that show?",
       "options": [
-       "The mirror space you need does not change when you step back",
        "Your face grew",
        "The mirror got bigger",
+       "The mirror space you need does not change when you step back",
        "You need a bigger mirror when you are further away"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The image of your face looks smaller as you step back, but the patch of mirror it uses stays the same. You always need a mirror half as tall as you to see all of you. Picking 'you need a bigger mirror' is a common guess. But when you stepped back, your face still fitted between the two notes, so it is not true."
      },
      "parent": "This surprises many grown-ups. To see your whole body, you need a mirror only half your height, at any distance.",
@@ -2208,12 +2208,12 @@
       "t": "mcq",
       "q": "In two facing mirrors, the far images get darker and then disappear. Why?",
       "options": [
-       "Each bounce loses a little light",
        "The mirrors run out of glass",
        "The images are too shy",
-       "Light gets tired and stops"
+       "Light gets tired and stops",
+       "Each bounce loses a little light"
       ],
-      "a": 0,
+      "a": 3,
       "why": "Every time light bounces, the mirror keeps a little of it. After many bounces, so little light is left that the images fade. Ordinary glass lets green light through a little more easily than other colours, so the far images can look greenish. Light does not get tired and it does not slow down, but it does lose a bit at each bounce."
      },
      "context": "In the Endless Corridor, you hold two mirrors face to face. Here you look closely at the far images."
@@ -2330,12 +2330,12 @@
       "t": "mcq",
       "q": "A light beam comes in steeply and hits a mirror. How does it leave?",
       "options": [
-       "Just as steeply, on the other side",
        "Flat along the mirror",
        "Straight back the way it came",
-       "It stops at the mirror"
+       "It stops at the mirror",
+       "Just as steeply, on the other side"
       ],
-      "a": 0,
+      "a": 3,
       "why": "Light always leaves a flat mirror at the same angle it came in. Steep in means steep out. Light goes straight back only when it hits the mirror head on. Picking 'it stops' mixes a mirror up with a black cloth, which soaks up light."
      },
      "context": "In Be the Light, you roll a ball at a wall to see how things bounce. Here you act as a beam of light bouncing off a mirror wall."
@@ -2435,12 +2435,12 @@
       "t": "mcq",
       "q": "There are only 6 beads in your kaleidoscope, but you see a flower made of many. Where do the extra beads come from?",
       "options": [
-       "The mirrors make copies of the light from the beads",
        "The beads break into pieces",
        "The tube makes new beads",
-       "Your eyes are tired"
+       "Your eyes are tired",
+       "The mirrors make copies of the light from the beads"
       ],
-      "a": 0,
+      "a": 3,
       "why": "Light from the beads bounces from mirror to mirror. Each bounce makes another image of the beads. So a few real beads make a whole flower of images. Picking 'the beads break' usually means thinking each image must be a real thing. Like your image in a mirror, the images are made only of light."
      },
      "context": "In the kaleidoscope project, you make the bead end of the tube, so a few beads will turn into a pattern."
@@ -2517,12 +2517,12 @@
       "t": "mcq",
       "q": "Your mirror sends the light past the toy, too far to the right. What will fix it?",
       "options": [
-       "Tilt the mirror a little to change the angle",
        "Use a brighter torch",
        "Move the toy",
+       "Tilt the mirror a little to change the angle",
        "Wait for the light to come back"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The light leaves at the same angle it arrives. Tilt the mirror, and the angle changes, so the spot moves. Picking 'move the toy' breaks the rules of the challenge. Engineers must solve the problem as it is."
      },
      "context": "In the Light the Hidden Toy challenge, you steer torchlight round a box with mirrors. Here you place the mirrors and test."
@@ -2597,12 +2597,12 @@
       "t": "mcq",
       "q": "You look at a word through two mirrors, one bounce after another. How does the word look?",
       "options": [
-       "The right way round",
        "Backwards",
        "Upside down",
+       "The right way round",
        "Blank"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The first mirror turns the word round. The second mirror turns it round again. Two turns put it back the right way. Picking 'backwards' is right for one mirror. The trick is to count the bounces."
      },
      "context": "In the challenge to see the back of your own head, you use two mirrors. Here you look at a word through both mirrors."
@@ -2649,11 +2649,11 @@
    "t": "mcq",
    "p": "What is reflection?",
    "opts": [
-    "Light bouncing off a surface",
     "Light made by a mirror",
-    "A shadow"
+    "A shadow",
+    "Light bouncing off a surface"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Reflection is light bouncing off a surface. Picking 'made by a mirror' means thinking a mirror is a light source. It is not.",
    "outcome": 0
   },
@@ -2698,11 +2698,11 @@
    "t": "mcq",
    "p": "Hold a page with writing up to a mirror. Why does the writing look backwards?",
    "opts": [
-    "The mirror shows the page as if you were looking at it from behind",
     "The mirror flips each letter upside down",
+    "The mirror shows the page as if you were looking at it from behind",
     "The mirror mixes the letters up"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A mirror turns front and back round. So you see the page's words the way they look from behind, through thin paper. That is why they run right to left.",
    "outcome": 3
   },
@@ -2748,11 +2748,11 @@
    "t": "mcq",
    "p": "Why does a car have side mirrors?",
    "opts": [
-    "So the driver can see what is behind without turning round",
     "To make the car look bigger",
+    "So the driver can see what is behind without turning round",
     "To light up the road"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Light from cars behind reflects off the side mirror into the driver's eyes. A mirror makes no light, so it cannot light the road.",
    "outcome": 5
   },
@@ -2772,11 +2772,11 @@
    "t": "mcq",
    "p": "Do scientists agree about what the mirror test shows?",
    "opts": [
-    "No. They still argue, for example about a fish that passed",
     "Yes. Only humans pass",
+    "No. They still argue, for example about a fish that passed",
     "Yes. Every animal passes"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Apes, elephants and magpies pass. In 2019 a small fish did too. Scientists still argue about what passing really means.",
    "outcome": 6
   }
@@ -3153,6 +3153,68 @@
    "used_in": [
     "a8"
    ]
+  },
+  {
+   "id": "b-modelling-clay-or-plasticine",
+   "item": "Modelling clay or plasticine",
+   "kind": "material",
+   "why": "Used in Catch the Beam: where does light go after it hits a mirror?, Light the Hidden Toy. About ₹40 to ₹120. Atta dough mixed with a little salt works.",
+   "url": "https://www.amazon.in/s?k=modelling+clay+plasticine",
+   "used_in": [
+    "e1",
+    "c1"
+   ],
+   "plan": "Get it before Catch the Beam: where does light go after it hits a mirror?."
+  },
+  {
+   "id": "b-sticky-notes",
+   "item": "Sticky notes",
+   "kind": "material",
+   "why": "Used in How Big a Mirror Do You Need?. About ₹20 to ₹60. Small torn paper and tape do the same job.",
+   "url": "https://www.amazon.in/s?k=sticky+notes+pack",
+   "used_in": [
+    "a6"
+   ],
+   "plan": "Get it before How Big a Mirror Do You Need?."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Catch the Beam: where does light go after it hits a mirror?, Make a Kaleidoscope, Light the Hidden Toy. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "e1",
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before Catch the Beam: where does light go after it hits a mirror?."
+  },
+  {
+   "id": "b-butter-paper-or-tracing-pape",
+   "item": "Butter paper or tracing paper",
+   "kind": "material",
+   "why": "Used in Make a Kaleidoscope. About ₹30 to ₹80 for a roll. Thin clean plastic bag or a sheet of waxed paper.",
+   "url": "https://www.amazon.in/s?k=butter+paper+roll",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before Make a Kaleidoscope."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

@@ -210,7 +210,7 @@
    "concept": "Reading a food label",
    "status": "defined",
    "definition": "A food label is the table and the list printed on a packet. It says what is in the food and how much. In India it is required by law, under rules set by the Food Safety and Standards Authority of India.",
-   "description": "Start at the nutrition table. Look for the column per 100 grams, because it lets you compare one packet with another fairly. A second column, per serving, shows what the maker counts as one helping. Check how many servings there are in the pack. Then look at the lines: energy in kilocalories, protein, carbohydrate with the sugars inside it, fat, and sodium. Next read the ingredient list. Ingredients are listed from the most by weight to the least, so the first three tell you most of the story. A green dot in a square means vegetarian, and a brown dot means it holds egg, meat or fish. A +F sign means vitamins or minerals have been added. The date tells you when the food should be used by. Percentages on a label are usually worked out for an adult who needs about 2,000 kilocalories a day, so they can mislead for a child.",
+   "description": "Start at the nutrition table. Look for the column per 100 grams, because it lets you compare one packet with another fairly. A second column, per serving, shows what the maker counts as one helping. Check how many servings there are in the pack. Then look at the lines: energy in kilocalories, protein, carbohydrate with the sugars inside it, fat, and sodium. Next read the ingredient list. Ingredients are listed from the most by weight to the least, so the first three tell you most of the story. A green dot in a square means vegetarian, and a brown dot means it holds egg, meat or fish. A +F sign means vitamins or minerals have been added. The date tells you when the food should be used by. A best-before date means the food is at its best for taste and quality. A use-by date is about safety, so do not eat the food after it. Percentages on a label are usually worked out for an adult who needs about 2,000 kilocalories a day, so they can mislead for a child.",
    "examples": [
     "A biscuit packet shows 480 kilocalories per 100 grams, but only 120 per serving, because a serving is 25 grams.",
     "If the first ingredient on a 'fruit' biscuit is sugar, the biscuit holds more sugar than fruit.",
@@ -686,11 +686,11 @@
       "t": "mcq",
       "q": "A food has 20 grams of fat and nothing else in 100 grams. About how much energy does it hold?",
       "options": [
-       "80 kilocalories",
        "180 kilocalories",
+       "80 kilocalories",
        "900 kilocalories"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Fat gives about 9 kilocalories in each gram. 20 times 9 is 180. If you picked 80, you used 4 for fat, which is the number for starch and protein."
      },
      "context": "In this step, you play the middle of the game and do the sums that the cards ask for."
@@ -854,11 +854,11 @@
       "t": "mcq",
       "q": "Why do we use fresh water from the same bottle, and a cooled tumbler, for every trial?",
       "options": [
-       "So each trial starts at the same temperature",
        "So the nut burns for longer",
+       "So each trial starts at the same temperature",
        "To make the tumbler lighter"
       ],
-      "a": 0,
+      "a": 1,
       "why": "If one trial started warmer than another, its end temperature could look higher for no reason to do with the food. Starting every trial at the same temperature keeps the test fair."
      },
      "parent": "Many nuts light after 10 to 20 seconds in a match flame. If a nut will not light, hold the match to it until it catches. Once it burns, keep the tumbler above it until the flame goes out by itself, about 30 to 90 seconds. Holding a tumbler steady is tiring, so you can rest it on two upturned steel katoris, one on each side of the nut. Stir gently with the thermometer before you read it. Cool the tumbler under a tap and wipe it dry before the next trial. If the water rises by less than 3 degrees, nothing is wrong: too much heat escaped. Repeat with 25 millilitres of water and multiply the rise by 0.025 instead of 0.05, and write that you did.",
@@ -1007,11 +1007,11 @@
       "t": "mcq",
       "q": "A packet says rice holds 350 kilocalories in 100 grams. How much energy is in 50 grams of that rice?",
       "options": [
-       "175 kilocalories",
        "350 kilocalories",
-       "700 kilocalories"
+       "700 kilocalories",
+       "175 kilocalories"
       ],
-      "a": 0,
+      "a": 2,
       "why": "50 grams is half of 100 grams, so it holds half of 350, which is 175. If you chose 350, you used the number for 100 grams."
      },
      "context": "In this step, you weigh the rice and work out the energy in the pan."
@@ -1142,11 +1142,11 @@
       "t": "mcq",
       "q": "A packet lists its ingredients as flour, sugar, palm oil, salt. What does this order tell you?",
       "options": [
-       "There is more flour than sugar, and more sugar than palm oil",
        "The flour tastes best",
+       "There is more flour than sugar, and more sugar than palm oil",
        "The ingredients were added in alphabetical order"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Ingredients are listed from the most by weight to the least. So the first ingredient is the biggest part of the food. Alphabet order does not matter."
      },
      "context": "In this step, you read the numbers and the ingredient lists on the four packets.",
@@ -1301,11 +1301,11 @@
       "t": "mcq",
       "q": "Which of these does the most jobs at once?",
       "options": [
-       "A glass of milk",
        "A spoon of sugar",
+       "A glass of milk",
        "A glass of plain water"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Milk holds sugar and fat for energy, protein and calcium for building, and vitamins for protection. Sugar mostly gives energy, and plain water gives none of the three jobs, though the body needs it."
      },
      "context": "In this step, you colour the plate by jobs and star the foods that do more than one."
@@ -1424,11 +1424,11 @@
       "t": "mcq",
       "q": "A mixture of 170 grams holds 680 kilocalories in total. How much energy is in 100 grams?",
       "options": [
-       "400 kilocalories",
        "680 kilocalories",
+       "400 kilocalories",
        "170 kilocalories"
       ],
-      "a": 0,
+      "a": 1,
       "why": "680 divided by 170 is 4, so each gram holds 4 kilocalories. 100 grams holds 400. If you chose 680, you gave the total, not the amount for 100 grams."
      },
      "parent": "For example, dates hold 280 kilocalories in 100 grams, so 100 grams of dates give 280. Groundnuts hold 580 in 100 grams, so 60 grams give 348. Sesame holds 570 in 100 grams, so 10 grams give 57. The total is 685 kilocalories. Spread over 170 grams, that is about 400 in every 100 grams. Shared between 10 balls, it is about 68 in each ball. Their numbers will differ with their packets.",
@@ -1530,11 +1530,11 @@
       "t": "mcq",
       "q": "Your pack weighs 580 grams but holds only 1,500 kilocalories. What should you do?",
       "options": [
-       "Swap a watery food for a dry one with more energy in each gram",
        "Add more of the same watery foods",
+       "Swap a watery food for a dry one with more energy in each gram",
        "Remove all the food"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The limit is on weight, so the way to raise energy is to swap to foods with more energy in each gram, such as nuts, chikki or dry coconut. Adding more watery food would put the weight over the limit."
      },
      "context": "In this step, you pick and weigh your foods and add up the totals."
@@ -1570,11 +1570,11 @@
      "t": "mcq",
      "p": "Which job do rice, roti and ghee mostly do in a meal?",
      "opts": [
-      "They give energy",
       "They give vitamins to protect the eyes",
+      "They give energy",
       "They build bones only"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Rice and roti are rich in starch, and ghee is almost pure fat. Starch and fat are both fuels for the body. These foods do hold some other nutrients, but energy is their main job.",
      "outcome": 0
     },
@@ -1582,11 +1582,11 @@
      "t": "mcq",
      "p": "One kilocalorie is the heat needed to warm what by one degree Celsius?",
      "opts": [
-      "One litre of water",
       "One spoon of water",
-      "One kilogram of rice"
+      "One kilogram of rice",
+      "One litre of water"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A kilocalorie is defined by water. It is the heat that warms one litre of water by one degree. That is why a thermometer and water can measure the energy in food.",
      "outcome": 1
     },
@@ -1638,11 +1638,11 @@
      "t": "mcq",
      "p": "Why does 100 grams of cooked rice hold less energy than 100 grams of raw rice?",
      "opts": [
-      "Cooked rice has soaked up water, which adds weight and no energy",
       "Cooking destroys the energy in rice",
-      "Cooked rice is smaller than raw rice"
+      "Cooked rice is smaller than raw rice",
+      "Cooked rice has soaked up water, which adds weight and no energy"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The pan holds the same energy before and after cooking. The water adds weight, so the same energy is spread over more grams. If you chose 'cooking destroys energy', remember that energy is never lost.",
      "outcome": 4
     },
@@ -1710,11 +1710,11 @@
      "t": "mcq",
      "p": "Which part of a food label lets you compare two different packets fairly?",
      "opts": [
-      "The per 100 grams column",
       "The picture on the front",
-      "The colour of the packet"
+      "The colour of the packet",
+      "The per 100 grams column"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Per 100 grams gives the numbers for the same weight of each food. A serving can be 10 grams in one packet and 40 grams in another.",
      "outcome": 3
     },
@@ -1771,6 +1771,13 @@
      "a": "Per 100 grams is the same weight for every food, so you can compare two packets fairly. Per serving shows only what the maker counts as one helping, which can be small.",
      "why": "A strong answer says that per 100 grams is a fair comparison across foods, and that servings differ from packet to packet.",
      "outcome": 3
+    },
+    {
+     "t": "write",
+     "p": "Say it out loud, and a grown-up writes it: a packet lists 'ragi flour, jaggery, groundnuts, salt'. Which two ingredients are the main ones, and how do you know?",
+     "lines": 2,
+     "a": "Ragi flour and jaggery. The list starts with the biggest amount by weight, so the first two are the main ones.",
+     "why": "A strong answer names the first two ingredients and says that the list goes from the most to the least by weight."
     }
    ]
   },
@@ -1784,11 +1791,11 @@
      "t": "mcq",
      "p": "A groundnut should give about 3 kilocalories, but the water above its flame gains only 1. What does this show?",
      "opts": [
-      "Most of the heat escaped into the air, the tumbler and the smoke",
       "Groundnuts hold less energy than the label says",
+      "Most of the heat escaped into the air, the tumbler and the smoke",
       "The thermometer must be broken"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Energy is never lost, but a home flame warms the air, the metal and the smoke as well as the water. A closed chamber in a lab catches almost all of it.",
      "outcome": 2
     },
@@ -1796,11 +1803,11 @@
      "t": "mcq",
      "p": "Protein is called a body-building food. Which of these is also true?",
      "opts": [
-      "The body can burn protein as fuel when it has little else",
       "Protein can never be used as fuel",
-      "Protein holds no energy"
+      "Protein holds no energy",
+      "The body can burn protein as fuel when it has little else"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Protein gives about 4 kilocalories in each gram, the same as starch. A body that has little carbohydrate or fat burns some protein. So a food's group is its usual job, not its only job.",
      "outcome": 0
     },
@@ -1808,11 +1815,11 @@
      "t": "mcq",
      "p": "A packet shows a small +F sign. What does it mean?",
      "opts": [
-      "A vitamin or mineral has been added to the food",
       "The food is fried",
-      "The food is made on a farm"
+      "The food is made on a farm",
+      "A vitamin or mineral has been added to the food"
      ],
-     "a": 0,
+     "a": 2,
      "why": "+F means the food is fortified, which means a vitamin or mineral such as iron or vitamin A has been added on purpose. Fortified atta, oil, milk and rice help protect against common shortages.",
      "outcome": 5
     },
@@ -1977,11 +1984,11 @@
      "t": "mcq",
      "p": "A maker wants the front of a packet to show a lower energy number without changing the food. Which change would do it?",
      "opts": [
-      "Make the serving size smaller",
       "Add more flour",
-      "Print the label larger"
+      "Print the label larger",
+      "Make the serving size smaller"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The energy per serving gets smaller when the serving gets smaller, but the food is exactly the same. This is why per 100 grams is the fair way to compare.",
      "outcome": 3
     },
@@ -2011,11 +2018,11 @@
      "t": "mcq",
      "p": "A teacher says a groundnut is a body-building food. Another says it is an energy food. Who is right?",
      "opts": [
-      "Both, because it holds protein for building and fat for fuel",
       "Only the first, because groups cannot overlap",
-      "Neither, because a groundnut is a plant"
+      "Neither, because a groundnut is a plant",
+      "Both, because it holds protein for building and fat for fuel"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A groundnut is about a quarter protein and nearly half fat. It does both jobs. The groups tell you a food's usual job, but most foods do more than one.",
      "outcome": 0
     },
@@ -2165,11 +2172,11 @@
    "t": "mcq",
    "p": "Which food does all three jobs, giving energy, building material and protection?",
    "opts": [
-    "Milk",
     "White sugar",
+    "Milk",
     "Plain water"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Milk has sugar and fat for energy, protein and calcium for building, and vitamins for protection. Sugar mostly gives energy, and water gives none of the three, though the body needs it.",
    "outcome": 0
   },
@@ -2177,11 +2184,11 @@
    "t": "mcq",
    "p": "Which nutrient holds the most energy in one gram?",
    "opts": [
-    "Fat",
     "Starch",
+    "Fat",
     "Protein"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Fat gives about 9 kilocalories in each gram. Starch and protein give about 4. So a gram of fat holds a little more than twice as much.",
    "outcome": 1
   },
@@ -2201,11 +2208,11 @@
    "t": "mcq",
    "p": "In a test that burns foods under water, why must each food be weighed first?",
    "opts": [
-    "So the foods are compared by the same weight",
     "So that the nut burns for longer",
+    "So the foods are compared by the same weight",
     "To find the colour of the nut"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A heavier piece holds more energy. If the weights differ, the result tells you about the weight and not about the food. Equal weights make the test fair.",
    "outcome": 2
   },
@@ -2213,11 +2220,11 @@
    "t": "mcq",
    "p": "Which change would make a home nut test lose less heat?",
    "opts": [
-    "Shield the flame from draughts and hold the tumbler close",
     "Use a much bigger tumbler with more water",
-    "Use a nut that burns with a cooler flame"
+    "Use a nut that burns with a cooler flame",
+    "Shield the flame from draughts and hold the tumbler close"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Less heat escapes when the flame is shielded from moving air and the tumbler is close. A bigger tumbler would only give a smaller rise in temperature.",
    "outcome": 2
   },
@@ -2238,10 +2245,10 @@
    "p": "A pack lists 80 kilocalories in a serving, and holds 6 servings. How much energy is in the whole pack?",
    "opts": [
     "86 kilocalories",
-    "480 kilocalories",
-    "80 kilocalories"
+    "80 kilocalories",
+    "480 kilocalories"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Multiply the servings by the energy in one serving. 6 times 80 is 480. If you chose 80, you used the number for only one serving.",
    "outcome": 3
   },
@@ -2304,6 +2311,18 @@
    "a": 0,
    "why": "The volunteer's food energy matched the heat and work measured. So a living body follows the same energy rules as a fire, with nothing made or lost.",
    "outcome": 7
+  },
+  {
+   "t": "mcq",
+   "p": "A packet says 'Best before' with a date. What does that date mostly tell you?",
+   "opts": [
+    "When the food is at its best for taste and quality",
+    "That the food will make you ill after that day",
+    "How many kilocalories the food holds"
+   ],
+   "a": 0,
+   "why": "A best-before date is about taste and quality. A use-by date is the one about safety, so do not mix the two up.",
+   "outcome": 3
   }
  ],
  "maths": [
@@ -2589,6 +2608,65 @@
     "a2",
     "p1"
    ]
+  },
+  {
+   "id": "b-a-magnifying-glass",
+   "item": "A magnifying glass",
+   "kind": "tool",
+   "why": "Used in Label Detective: read four packets. About ₹30 to ₹120. A water drop on clear plastic magnifies a little.",
+   "url": "https://www.amazon.in/s?k=magnifying+glass+kids",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Get it before Label Detective: read four packets."
+  },
+  {
+   "id": "b-modelling-clay-or-plasticine",
+   "item": "Modelling clay or plasticine",
+   "kind": "material",
+   "why": "Used in Burning Nuts: how much heat does a food give?. About ₹40 to ₹120. Atta dough mixed with a little salt works.",
+   "url": "https://www.amazon.in/s?k=modelling+clay+plasticine",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before Burning Nuts: how much heat does a food give?."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in Date and Groundnut Balls: write your own food label. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before Date and Groundnut Balls: write your own food label."
+  },
+  {
+   "id": "b-a-measuring-jug-or-syringe--",
+   "item": "A measuring jug or syringe (marked in millilitres)",
+   "kind": "tool",
+   "why": "Used in Burning Nuts: how much heat does a food give?, Rice Before and After: where does the energy go in the pot?. About ₹30 to ₹100. A clean medicine cup or marked bottle works.",
+   "url": "https://www.amazon.in/s?k=measuring+jug+500+ml",
+   "used_in": [
+    "e1",
+    "e2"
+   ],
+   "plan": "Get it before Burning Nuts: how much heat does a food give?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

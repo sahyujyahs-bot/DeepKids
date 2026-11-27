@@ -1,9 +1,9 @@
 # Feedback loops: how bodies and machines sense, decide and correct
 `sci.body.keeping-balance.L5`
 
-**Summary.** You can balance a long stick on your palm for many seconds, but a pencil falls almost at once. Why is the short one harder? In this unit you will test sticks of three lengths, measure what your pulse does when you stand up, and find the same three-part loop in your body, in an electric iron and in a flush tank.
+**Summary.** You can balance a long stick on your palm for many seconds, but a pencil falls almost at once. Why is the short one harder? In this lesson you will test sticks of three lengths, measure what your pulse does when you stand up, and find the same three-part loop in your body, in an electric iron and in a flush tank.
 
-**Intro.** *Stand a pencil upright on your open palm and let go with the other hand. Try to keep the pencil standing. How long did it stay up? Now guess: would a stick as long as your arm be easier or harder? Say why you think so.* Most people guess that the long stick is harder, because it is bigger and heavier. You will test that guess in the Stick Test. To keep anything steady, three jobs must be done again and again. Something must notice a change. Something must decide what to do. Something must act. Your body does these three jobs for your warmth, your blood pressure and your blood sugar. An iron, a fridge and a flush tank do them too. In this unit you find the three jobs in each one, and you find out what happens when one job is missing or late.
+**Intro.** *Stand a pencil upright on your open palm and let go with the other hand. Try to keep the pencil standing. How long did it stay up? Now guess: would a stick as long as your arm be easier or harder? Say why you think so.* Most people guess that the long stick is harder, because it is bigger and heavier. You will test that guess in the Stick Test. To keep anything steady, three jobs must be done again and again. Something must notice a change. Something must decide what to do. Something must act. Your body does these three jobs for your warmth, your blood pressure and your blood sugar. An iron, a fridge and a flush tank do them too. In this lesson you find the three jobs in each one, and you find out what happens when one job is missing or late.
 
 ## Learning outcomes
 0. By the end I can name the three jobs in a feedback loop, which are sensor, control centre and effector, and say what each one does.
@@ -119,7 +119,7 @@ A thermostat has a dial, and the set point is a real position of that dial. Is t
 - **The older textbook picture:** The hypothalamus holds one set point, compares body temperature with it, and commands all the effectors, as a thermostat does.
 - **Andrej Romanovsky, physiologist (2007):** There is no single controller and no stored number. Sweating, shivering and skin blood flow are separate loops, each with its own sensors and its own switching temperature. They seem to agree only because they all respond to the same body temperature. The steady 37 degrees is what their combined action produces.
 ### Does a loop want something? · *debated*
-A thermostat acts until the room reaches 24 degrees and then stops. A bacterium swims until they reach the sugar. Both act towards an end. In 1943 Arturo Rosenblueth, Norbert Wiener and Julian Bigelow wrote that this is what purpose is: behaviour steered by negative feedback from a goal. Philosophers have argued about that ever since. A bacterium who swims towards sugar wants the sugar: every living being senses, chooses and acts. Whether the same can be said of a thermostat is a question this unit leaves open.
+A thermostat acts until the room reaches 24 degrees and then stops. A bacterium swims until they reach the sugar. Both act towards an end. In 1943 Arturo Rosenblueth, Norbert Wiener and Julian Bigelow wrote that this is what purpose is: behaviour steered by negative feedback from a goal. Philosophers have argued about that ever since. A bacterium who swims towards sugar wants the sugar: every living being senses, chooses and acts. Whether the same can be said of a thermostat is a question this lesson leaves open.
 - e.g. A dog who is hot looks for shade. A fridge that is warm runs its motor.
 - e.g. A float valve keeps a tank full with no wires, no brain and no program.
 - **Arturo Rosenblueth, Norbert Wiener and Julian Bigelow (1943):** Purposeful behaviour is behaviour controlled by negative feedback from a goal. This is true of a cat chasing a mouse and of a machine that tracks a target.
@@ -564,7 +564,7 @@ At the landing the teacher asked how long she had been steering.
 ## Worksheets
 ### Feedback loops: sensor, control and effector (core) (core, 15 questions)
 1. (mcq) Which three jobs does every feedback loop need?  
-   Options: Sensing, deciding and acting / Heating, cooling and resting / Starting, running and stopping  
+   Options: Heating, cooling and resting / Sensing, deciding and acting / Starting, running and stopping  
    **Answer:** Sensing, deciding and acting. *Why:* A loop must detect the change, compare it with what is needed, and act. Take one away and the level drifts.
 2. (fill) The part of a loop that detects a change is called the ____.  
    **Answer:** ['sensor', 'receptor']. *Why:* A sensor detects one kind of change and reports it. In the body a sensor is also called a receptor.
@@ -575,12 +575,12 @@ At the landing the teacher asked how long she had been steering.
 5. (sort) Sort each machine: closed loop or open loop?  
    **Answer:** fridge → Closed loop; mixer-grinder → Open loop; electric iron → Closed loop; tube light → Open loop; flush tank → Closed loop; toaster timer → Open loop. *Why:* A fridge, an iron and a flush tank each measure their own result and change what they do. The others run as set, whatever the result.
 6. (mcq) You pour water with your eyes shut and it overflows. What was missing?  
-   Options: A stronger hand / News of the water level / A bigger jug  
+   Options: News of the water level / A stronger hand / A bigger jug  
    **Answer:** News of the water level. *Why:* With eyes shut, no news of the level came back, so the hand could not stop in time. The loop was open.
 7. (write) In the Stick Test, the pencil fell much sooner than the long stick. Explain why.  
    **Answer:** A short stick tips over faster than a long one. My eyes, brain and hand need about a fifth of a second for each correction. The pencil is too far over before the correction arrives. The long stick tips slowly, so there is time for several corrections.. *Why:* A strong answer compares two times: how fast the stick tips, and how long the loop takes to go round.
 8. (mcq) With eyes shut, the long stick fell quickly. Which part of the loop had been removed?  
-   Options: The control centre / The effector / The main sensor  
+   Options: The control centre / The main sensor / The effector  
    **Answer:** The main sensor. *Why:* The eyes are the main sensor for the stick's lean. The brain and the arm were unchanged.
 9. (order) Put these in order, for what happens when you stand up.  
    **Answer:** ['Gravity pulls blood towards your legs', 'Pressure in the neck arteries falls a little', 'Baroreceptors send fewer signals', 'The brainstem speeds the heart and tightens small arteries', 'The pressure comes back up']. *Why:* The fall in pressure is sensed in the neck arteries. The brainstem compares and orders the heart and arteries to act. The response undoes the fall.
@@ -589,7 +589,7 @@ At the landing the teacher asked how long she had been steering.
 11. (match) Match each part of a flush tank to its job in the loop.  
    **Answer:** Float → sensor; Arm joining float to tap → control; Inlet tap → effector; Water height → the level that is kept. *Why:* The float detects the height. The arm turns that height into more or less opening. The tap lets water in.
 12. (mcq) What does the bimetallic strip in an iron do when it gets hot?  
-   Options: It bends and opens a switch / It melts / It glows red  
+   Options: It melts / It bends and opens a switch / It glows red  
    **Answer:** It bends and opens a switch. *Why:* The strip is two metals joined together. One grows more when heated, so the strip bends, and the bend pulls the switch open.
 13. (draw) Draw the loop for a fridge as a circle. Label the sensor, the control, the effector and the level.  
    **Answer:** A circle of four parts with arrows: the temperature inside the fridge, the thermostat's sensor, the thermostat switch, and the compressor motor, which leads back to the temperature.. *Why:* A strong drawing is a closed circle. The arrow from the motor must come back to the temperature, because the motor's work changes what the sensor detects.
@@ -599,12 +599,12 @@ At the landing the teacher asked how long she had been steering.
    **Answer:** No. The sensor measures daylight, and the lamp does not change the daylight. No news about the lamp's own result comes back, so the loop is open.. *Why:* A strong answer says that a sensor alone is not enough. The result of the action must come back to the sensor.
 ### Error, delay and two kinds of control (stretch) (stretch, 15 questions)
 1. (mcq) In a loop, what does 'error' mean?  
-   Options: A mistake made by the sensor / The gap between level and set point / A broken effector  
+   Options: A mistake made by the sensor / A broken effector / The gap between level and set point  
    **Answer:** The gap between level and set point. *Why:* The error is how far the level is from the set point, and on which side. It is a measurement, not a mistake.
 2. (fill) Feedback that acts against a change is called ____ feedback.  
    **Answer:** ['negative']. *Why:* 'Negative' here means opposite. The response pushes the level back the opposite way to the change.
 3. (mcq) An AC is set to 24 degrees. The room is at 30 degrees. What is the error?  
-   Options: 24 degrees / 54 degrees / 6 degrees too warm  
+   Options: 24 degrees / 6 degrees too warm / 54 degrees  
    **Answer:** 6 degrees too warm. *Why:* The error is the gap between now and the set point. 30 − 24 = 6, and the room is on the warm side.
 4. (sort) Sort each control: on-off, or how-much?  
    **Answer:** an iron's heater → On-off control; an inverter air conditioner → How-much control; sweating → How-much control; a fridge motor that runs or stops → On-off control; your heart rate → How-much control; a geyser's heater → On-off control. *Why:* On-off parts have two states. How-much parts can give a small, medium or large response to match the error.
@@ -645,7 +645,7 @@ At the landing the teacher asked how long she had been steering.
 5. (write) A glucose sensor, a computer program and an insulin pump work together. Which loop job does each one do?  
    **Answer:** The sensor under her skin detects glucose. The computer program compares the reading with a target and decides. The pump is the effector and gives insulin. Her own liver, muscle and fat cells then take glucose in.. *Why:* A strong answer matches sensor, control and effector to the three machine parts, and notices that her body's cells still do the final work.
 6. (mcq) James Watt's governor had two spinning balls. What did the balls sense?  
-   Options: The speed of the engine / The heat of the steam / The weight of the load  
+   Options: The heat of the steam / The weight of the load / The speed of the engine  
    **Answer:** The speed of the engine. *Why:* The faster the engine turned, the further the balls swung out. Their height showed the speed, and a lever used it to move the steam valve.
 7. (order) Put these in order, for how a bacterium uses feedback to find sugar.  
    **Answer:** ['The bacterium senses the sugar level now', 'They compare it with the level a few seconds ago', 'If it is rising, they keep swimming straight', 'They reset their sensors to the new level']. *Why:* The comparison with a moment ago tells the bacterium whether things are getting better. Resetting the sensors lets them detect the next small change.
@@ -654,7 +654,7 @@ At the landing the teacher asked how long she had been steering.
 9. (write) Some scientists say the brain stores no set point for temperature. What, then, keeps the body near 37 degrees?  
    **Answer:** They say that sweating, shivering and skin blood flow are separate loops, each switching on at its own temperature. All of them respond to the same body temperature, and their combined action holds it near 37 degrees.. *Why:* A strong answer says that the steady level comes from several loops acting together, and not from one stored number.
 10. (mcq) A pencil with forks hanging below it stays up with your eyes shut. What kind of steadiness is this?  
-   Options: Steady by a fast feedback loop / Steady by its shape, with no loop / Steady by luck  
+   Options: Steady by a fast feedback loop / Steady by luck / Steady by its shape, with no loop  
    **Answer:** Steady by its shape, with no loop. *Why:* With the weight below the support, a lean swings back by itself. No sensing or correcting is needed.
 11. (truefalse) True or false: positive feedback makes a change smaller.  
    **Answer:** False. *Why:* False. Positive feedback makes a change bigger. The squeal of a microphone held near its loudspeaker is positive feedback.
@@ -665,7 +665,7 @@ At the landing the teacher asked how long she had been steering.
 14. (match) Match each machine to the part that does its sensing.  
    **Answer:** Steam engine governor → two spinning balls; Electric iron → bimetallic strip; Flush tank → float; Closed-loop insulin pump → glucose sensor under the skin. *Why:* The balls swing out with speed, the strip bends with heat, the float rises with water, and the skin sensor reads glucose. Each turns one kind of change into a movement or a signal.
 15. (mcq) Warm weather wears rock away faster, which removes carbon dioxide and cools the Earth. What is this?  
-   Options: Positive feedback / An open loop / Negative feedback  
+   Options: Positive feedback / Negative feedback / An open loop  
    **Answer:** Negative feedback. *Why:* The response acts against the warming, so it is negative feedback. It works over hundreds of thousands of years.
 
 ## Videos
@@ -675,16 +675,16 @@ At the landing the teacher asked how long she had been steering.
 
 ## Quiz
 1. (mcq) Which part of a feedback loop compares the level with what is needed?  
-   Options: The control centre / The sensor / The effector  
+   Options: The sensor / The effector / The control centre  
    **Answer:** The control centre. *Why:* The control centre receives the sensor's report, compares it with the level that is needed and sends an order. Choosing 'sensor' mixes up detecting with deciding.
 2. (mcq) Sweat glands carry out an order from the brain. Which job in the loop is that?  
-   Options: Sensor / Effector / Control centre  
+   Options: Effector / Sensor / Control centre  
    **Answer:** Effector. *Why:* An effector acts and so changes the level. Sweat glands, muscles and the heart are effectors.
 3. (mcq) What makes a system a closed loop?  
    Options: It has a switch / It runs on electricity / News of its result changes its action  
    **Answer:** News of its result changes its action. *Why:* A closed loop measures its own result and adjusts. An open loop acts without checking.
 4. (mcq) Which of these is an open loop?  
-   Options: A mixer-grinder / A fridge / A flush tank  
+   Options: A fridge / A flush tank / A mixer-grinder  
    **Answer:** A mixer-grinder. *Why:* A mixer-grinder runs while the switch is held, whatever is in the jar. A fridge and a flush tank both check their own result.
 5. (mcq) Why is a metre stick easier to balance on your palm than a pencil?  
    Options: It is heavier / It tips more slowly / It is easier to see  
@@ -696,16 +696,16 @@ At the landing the teacher asked how long she had been steering.
    Options: Stretch sensors in the neck arteries / The leg muscles / The lungs  
    **Answer:** Stretch sensors in the neck arteries. *Why:* Baroreceptors in the walls of the neck arteries and the large artery from the heart detect the drop and signal the brainstem.
 8. (mcq) In a flush tank, which part is the sensor?  
-   Options: The inlet tap / The float / The flush handle  
+   Options: The float / The inlet tap / The flush handle  
    **Answer:** The float. *Why:* The float rides on the water, so its height shows the water level. The tap is the effector. The handle only starts the flush.
 9. (mcq) An iron's light goes on and off. What kind of control is this?  
-   Options: How-much control / No control / On-off control  
+   Options: On-off control / How-much control / No control  
    **Answer:** On-off control. *Why:* The heater is either fully on or fully off, and a switch moved by a bimetallic strip decides which.
 10. (mcq) Which of these senses glucose and releases insulin with no order from the brain?  
-   Options: A beta cell in the pancreas / A sweat gland / A baroreceptor  
+   Options: A sweat gland / A baroreceptor / A beta cell in the pancreas  
    **Answer:** A beta cell in the pancreas. *Why:* A beta cell is a sensor and a control in one cell. It shows that not every loop passes through the brain.
 11. (mcq) You timed a stick 5 times. Why find the mean and not use the best try?  
-   Options: The mean is always bigger / One try can be lucky or unlucky / It is quicker  
+   Options: The mean is always bigger / It is quicker / One try can be lucky or unlucky  
    **Answer:** One try can be lucky or unlucky. *Why:* A single try can be unusually good or bad. The mean of several tries is a fairer picture of what usually happens.
 
 ## Applications
@@ -719,15 +719,15 @@ At the landing the teacher asked how long she had been steering.
 - Doctors and nurses check pulse, temperature and blood pressure because a level that has drifted shows which loop is struggling.
 
 ## Spotted around us
-- A float valve inside the black plastic water tank on a terrace in Chennai or Pune. It shuts the inlet when the tank is full.
+- A float valve inside the black plastic water tank on a terrace. It shuts the inlet when the tank is full.
 - A pressure cooker in the kitchen. Its weight lifts and lets steam out each time the pressure passes a set level.
 - A voltage stabiliser on the wall beside the fridge, clicking when the mains voltage changes.
 - The hum of the fridge starting and stopping through a quiet night.
-- A street dog panting in the shade on a May afternoon in Hyderabad. Panting is the dog's effector for losing heat.
-- A woman steering a coracle across the Kaveri at Hogenakkal, turning her paddle a little at a time as the current pushes.
+- A street dog panting in the shade on a May afternoon. Panting is the dog's effector for losing heat.
+- A person steering a round boat across a river, turning the paddle a little at a time as the current pushes.
 - A coal iron at a street ironing stall. It has no thermostat, so the person ironing tests it and adds or removes coal. The person closes the loop.
 - A small round sensor patch on the upper arm of someone with diabetes, reading glucose every few minutes.
-- A kite flyer on a rooftop at Sankranti in Ahmedabad or Hyderabad, pulling and letting out string as the kite dips and climbs.
+- A kite flyer on a rooftop, pulling and letting out string as the kite dips and climbs.
 
 ## Open questions
 - **Is there one set point for body temperature in the brain, or only many loops that add up to 37 degrees?** Nobody has found a stored number. Models with separate loops fit many measurements, but how the loops stay in step is still argued over.
@@ -783,6 +783,10 @@ This Body Is a Universe (sci.body.L5): Topic-level song
 - [Optional: a wooden metre scale](https://www.amazon.in/s?k=wooden+metre+scale) (tool): Not needed if you have a broom handle or a walking stick. A metre scale is a good long stick for the Stick Test, and it measures as well. Stationery shops sell them. Used in e1. 
 - [Optional: a sports stopwatch](https://www.amazon.in/s?k=sports+stopwatch) (tool): Not needed. A phone timer works for every test here. A stopwatch with a lap button makes the Iron Light Test easier to time. Used in e1, e2, e3, c2. 
 - [The Way Things Work Now, a book by David Macaulay (2016)](https://www.amazon.in/s?k=The+Way+Things+Work+Now+David+Macaulay) (book): For the family: large, clear drawings of how many home machines work. Used in a2. After Open or Closed?, look up one of your closed-loop machines in the book and find its sensor in the drawing.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Stick Test: which stick is easiest to balance, and what does balancing need?, Pour to the Line: eyes open, eyes shut, finger in, The Bowl That Refills Itself: a three-day water loop. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a1, p1, c1, c2. Get it before The Stick Test: which stick is easiest to balance, and what does balancing need?.
+- [Sticky notes](https://www.amazon.in/s?k=sticky+notes+pack) (material): Used in Open or Closed? A loop hunt round the home. About ₹20 to ₹60. Small torn paper and tape do the same job. Used in a2. Get it before Open or Closed? A loop hunt round the home.
+- [Iron nails or iron filings](https://www.amazon.in/s?k=iron+filings+science) (material): Used in The Bowl That Refills Itself: a three-day water loop. About ₹20 to ₹80. Short steel nails from a hardware shop. Used in p1. Get it before The Bowl That Refills Itself: a three-day water loop.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What are the three jobs in every feedback loop? → Sensing, deciding and acting. The parts are the sensor, the control centre and the effector.
@@ -800,10 +804,10 @@ This Body Is a Universe (sci.body.L5): Topic-level song
 - Core: a1, e1, g1, a2, e2, ws-core
 
 ## Sources
-- Founder's notes in ideas/by_topic/body-parts-and-skeleton.md, 'Concept activities: Homeostasis'. The principle 'Sensors-controllers-effectors (skin, brain, sweat glands)' is the spine of this unit.
+- Founder's notes in ideas/by_topic/body-parts-and-skeleton.md, 'Concept activities: Homeostasis'. The principle 'Sensors-controllers-effectors (skin, brain, sweat glands)' is the spine of this lesson.
 - From the same notes: Thermostat Hunt (find household balancers) became Open or Closed?, taken further by sorting machines into loops that check their result and loops that do not. Card Dial (a card game that keeps a meter at 5) became the dice game Drift, Bang or Nudge. Body Council (people playing sensors, brain and sweat team) became the four roles in Loop Families. Feedback Loop Flipbook became the loop drawings in the worksheets.
 - Founder's philosophy line in the same notes: 'Balance is not stillness; it's gentle adjusting like a surfer staying on a wave.' This shaped the Stick Test and the story of the ferry.
-- The Class 3 and Class 4 units on keeping balance, which this unit builds on. Class 3 covered warmth and water. Class 4 covered two opposite pushes, blood sugar, delay and overshoot. This unit adds the three jobs of a loop, open and closed loops, the blood pressure loop, machines, on-off and how-much control, and loops in single cells.
+- The Class 3 and Class 4 units on keeping balance, which this lesson builds on. Class 3 covered warmth and water. Class 4 covered two opposite pushes, blood sugar, delay and overshoot. This lesson adds the three jobs of a loop, open and closed loops, the blood pressure loop, machines, on-off and how-much control, and loops in single cells.
 - Combined lesson sci-C5-body-parts-and-skeleton ('Notice, act, check, stop: this is called a feedback loop'), for coverage only.
 - Cannon, W. B. (1932) The Wisdom of the Body. Cannon introduced the word homeostasis in the 1920s.
 - Bernard, C. (1865) Introduction à l'étude de la médecine expérimentale (the inner environment)

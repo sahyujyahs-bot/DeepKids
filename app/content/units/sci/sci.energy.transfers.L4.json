@@ -1088,11 +1088,11 @@
       "t": "mcq",
       "q": "A hot idli warms the cold plate under it. Is this mainly a transfer or a change of form?",
       "options": [
-       "A transfer",
        "A change of form",
-       "Neither"
+       "Neither",
+       "A transfer"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Heat passes from the idli to the plate, and it is heat before and after, so it is a transfer. If you picked a change, ask yourself what new form appeared."
      },
      "think": "Can you think of something that happens with no transfer and no change of energy at all?",
@@ -1619,11 +1619,11 @@
    "t": "mcq",
    "p": "A hot dosa is put on a cold steel plate. The plate warms up. What is this?",
    "opts": [
-    "An energy transfer",
     "A change of form",
+    "An energy transfer",
     "Energy being made"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Heat passes from the dosa to the plate, and it is heat before and after. That is a transfer. If you chose a change of form, look for a new form. There is none here.",
    "outcome": 0
   },
@@ -1631,11 +1631,11 @@
    "t": "mcq",
    "p": "You ring a cycle bell with your thumb. Which change of form happens?",
    "opts": [
-    "Movement into sound",
     "Sound into light",
-    "Heat into movement"
+    "Heat into movement",
+    "Movement into sound"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Your thumb moves the lever, the bell shakes, and the shaking air is sound. If you chose another, say each form aloud and check that it is really there.",
    "outcome": 0
   },
@@ -1643,11 +1643,11 @@
    "t": "mcq",
    "p": "Which energy chain fits a torch?",
    "opts": [
-    "Stored → electrical → light and warmth",
     "Light → electrical → stored",
+    "Stored → electrical → light and warmth",
     "Movement → sound → light"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The cell holds stored chemical energy. It becomes electrical energy in the wires and then light and a little warmth in the bulb. The second chain runs backwards, which is what a solar panel does.",
    "outcome": 1
   },
@@ -1655,11 +1655,11 @@
    "t": "mcq",
    "p": "A marble rolls down a slope. What happens to its energy on the way down?",
    "opts": [
-    "Stored energy changes into movement energy",
     "Movement energy changes into stored energy",
-    "New energy is made by rolling"
+    "New energy is made by rolling",
+    "Stored energy changes into movement energy"
    ],
-   "a": 0,
+   "a": 2,
    "why": "It loses height and gains speed, so stored energy is changing into movement energy. Rolling makes no new energy. The energy was put in when the marble was lifted.",
    "outcome": 1
   },
@@ -1686,11 +1686,11 @@
    "t": "mcq",
    "p": "A marble starts 5 centimetres high and pushes a cup 4 centimetres. From 10 centimetres high, about how far will it push?",
    "opts": [
-    "About 4 centimetres",
     "About 8 centimetres",
+    "About 4 centimetres",
     "About 40 centimetres"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Twice the height stores twice the energy, and that pushes the cup about twice as far: about 8 centimetres. If you chose 4, you expected height not to matter. Try the test again and compare.",
    "outcome": 3
   },
@@ -1710,11 +1710,11 @@
    "t": "mcq",
    "p": "For a ceiling fan, which is the useful energy?",
    "opts": [
-    "Movement of the air",
     "Warmth of the motor",
-    "Hum of the motor"
+    "Hum of the motor",
+    "Movement of the air"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A fan is built to move air. The warm motor and the hum are energy that spread out where we did not want it.",
    "outcome": 4
   },
@@ -1722,11 +1722,11 @@
    "t": "mcq",
    "p": "On a cold night in Ooty, a family is glad of the warmth from an old bulb. Is that warmth wasted?",
    "opts": [
-    "No. Tonight they want it.",
     "Yes. Warmth is always waste.",
+    "No. Tonight they want it.",
     "Yes. It is destroyed."
    ],
-   "a": 0,
+   "a": 1,
    "why": "Useful means 'what we wanted'. Tonight the warmth is wanted, so it is useful. Energy is never destroyed, and no form of energy is waste by its nature.",
    "outcome": 4
   },
@@ -1734,11 +1734,11 @@
    "t": "mcq",
    "p": "In which of these is work done on the thing, in the scientist's meaning?",
    "opts": [
-    "Lifting a bucket from a well",
     "Holding a bag still",
+    "Lifting a bucket from a well",
     "Pushing a wall that stays put"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Work needs a force and a movement. The bucket moves up, so energy passes to it. The bag and the wall do not move, so no energy passes to them, though your muscles still spend energy.",
    "outcome": 5
   },
@@ -1746,11 +1746,11 @@
    "t": "mcq",
    "p": "Which is the best description of what physicists mean by energy?",
    "opts": [
-    "A number whose total never changes",
     "An invisible liquid in things",
+    "A number whose total never changes",
     "The tiredness you feel"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Energy is a number that can be worked out for anything, and its total stays the same through every change. Nobody has found a liquid, and what energy is underneath is still unknown.",
    "outcome": 6
   },
@@ -1883,11 +1883,11 @@
      "t": "mcq",
      "p": "A paper cup slides and stops. What changed its movement energy into warmth?",
      "opts": [
-      "Friction with the table",
       "The cup getting tired",
-      "Gravity pulling it down"
+      "Gravity pulling it down",
+      "Friction with the table"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Friction between the cup and the table changes movement into warmth. Gravity pulls down, and does not slow a cup sliding on a level table.",
      "outcome": 2
     },
@@ -1926,11 +1926,11 @@
      "t": "mcq",
      "p": "A mixer grinder makes chutney. Which is spread-out energy?",
      "opts": [
-      "The roar and the warm jar",
       "The turning blades",
-      "The cut coconut"
+      "The cut coconut",
+      "The roar and the warm jar"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The mixer is built to turn its blades and cut. The noise and warmth are energy that went where it was not wanted.",
      "outcome": 4
     },
@@ -2192,11 +2192,11 @@
      "t": "mcq",
      "p": "Julius Robert Mayer said in 1842 that movement and heat are the same thing in two forms. Which finding fits his idea?",
      "opts": [
-      "Rubbing always makes warmth",
       "A heavy wheel turns for ever",
+      "Rubbing always makes warmth",
       "Cold flows out of ice"
      ],
-     "a": 0,
+     "a": 1,
      "why": "If movement and heat are one, then lost movement must show up as warmth, and it does. No wheel has ever turned for ever.",
      "outcome": 2
     },
@@ -2356,11 +2356,11 @@
      "t": "mcq",
      "p": "You push a toy car 2 metres. Then you push it just as hard for 4 metres. Which push did more work?",
      "opts": [
-      "The second push",
       "Both the same",
-      "Neither did any work"
+      "Neither did any work",
+      "The second push"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Work depends on the force and on how far the thing moves. The same force over twice the distance does twice the work.",
      "outcome": 5
     }
@@ -2601,6 +2601,68 @@
     "e1",
     "a4"
    ]
+  },
+  {
+   "id": "b-a-digital-stopwatch--optiona",
+   "item": "A digital stopwatch (optional)",
+   "kind": "tool",
+   "why": "Used in The Long Spin: build a top that keeps its energy longest. About ₹150 to ₹400. A phone stopwatch works well.",
+   "url": "https://www.amazon.in/s?k=digital+stopwatch",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before The Long Spin: build a top that keeps its energy longest."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Marble and the Cup: does twice the height give twice the push?, The Tired Swing: does a sail make a pendulum run down sooner?, Kettle Watch: draw the energy with wide and thin arrows. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e2",
+    "a2",
+    "a3",
+    "p1"
+   ],
+   "plan": "Get it before The Marble and the Cup: does twice the height give twice the push?."
+  },
+  {
+   "id": "b-modelling-clay-or-plasticine",
+   "item": "Modelling clay or plasticine",
+   "kind": "material",
+   "why": "Used in The Long Spin: build a top that keeps its energy longest. About ₹40 to ₹120. Atta dough mixed with a little salt works.",
+   "url": "https://www.amazon.in/s?k=modelling+clay+plasticine",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before The Long Spin: build a top that keeps its energy longest."
+  },
+  {
+   "id": "b-postcards-or-plain-cards",
+   "item": "Postcards or plain cards",
+   "kind": "material",
+   "why": "Used in The Tired Swing: does a sail make a pendulum run down sooner?. About ₹5 to ₹20. Cut card from a cereal box.",
+   "url": "https://www.amazon.in/s?k=blank+postcards",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before The Tired Swing: does a sail make a pendulum run down sooner?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

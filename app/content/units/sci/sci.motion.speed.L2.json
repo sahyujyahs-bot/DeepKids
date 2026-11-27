@@ -542,11 +542,11 @@
       "t": "mcq",
       "q": "A slow walker starts ahead of a fast walker. Where must the finish line be for the fast walker to win?",
       "options": [
-       "Past the place where the fast walker catches up",
        "Before the catch-up place",
-       "Right at the slow walker's start"
+       "Right at the slow walker's start",
+       "Past the place where the fast walker catches up"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The fast walker gains a little every clap. Only after the catch-up place does the fast walker get ahead."
      }
     }
@@ -956,11 +956,11 @@
       "t": "mcq",
       "q": "Two children start together and reach the gate together. Who is faster?",
       "options": [
-       "Neither, they have the same speed",
        "The first child",
+       "Neither, they have the same speed",
        "The second child"
       ],
-      "a": 0,
+      "a": 1,
       "why": "They went the same distance in the same time, so they have the same speed."
      }
     }
@@ -1214,11 +1214,11 @@
       "t": "mcq",
       "q": "In one day, the moong root grew 2 centimetres and the chana root grew 1 centimetre. Which was growing faster?",
       "options": [
-       "Moong",
        "Chana",
-       "They were the same"
+       "They were the same",
+       "Moong"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Both roots had the same time, one day. The moong root grew more. So it was growing faster."
      }
     }
@@ -1339,11 +1339,11 @@
      "t": "mcq",
      "p": "In the Step Race, you walked the same path three ways. How did you know which way was fastest?",
      "opts": [
-      "It took the fewest claps",
       "It took the most steps",
-      "It made my feet move fastest"
+      "It made my feet move fastest",
+      "It took the fewest claps"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The distance was the same each time. So the way that took the least time, the fewest claps, was the fastest.",
      "how": "e1"
     },
@@ -1717,11 +1717,11 @@
    "t": "mcq",
    "p": "Meera and Zoya walk to the same door. Meera takes 5 claps and Zoya takes 8 claps. Who is faster?",
    "opts": [
-    "Meera",
     "Zoya",
-    "They are the same"
+    "They are the same",
+    "Meera"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The distance is the same, and Meera took fewer claps. If you picked Zoya, remember that more claps means more time, so slower.",
    "outcome": 1
   },
@@ -1729,11 +1729,11 @@
    "t": "mcq",
    "p": "Two children ride cycles for 1 minute. Chitra goes 150 metres. Hema goes 100 metres. Who is faster?",
    "opts": [
-    "Chitra",
     "Hema",
+    "Chitra",
     "You cannot tell"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The time is the same, and Chitra went further. So she is faster.",
    "outcome": 1
   },
@@ -1741,11 +1741,11 @@
    "t": "mcq",
    "p": "Which race is fair?",
    "opts": [
-    "Everyone starts at one line and goes at the same 'Go!'",
     "The youngest starts closer to the finish",
+    "Everyone starts at one line and goes at the same 'Go!'",
     "Each runner starts when they feel ready"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A fair race has the same start, the same finish and the same signal for everyone. A head start is kind, but it is not a fair test of speed.",
    "outcome": 2
   },
@@ -1766,11 +1766,11 @@
    "t": "mcq",
    "p": "How fast you walk depends on what?",
    "opts": [
-    "How long your steps are and how often you take them",
     "Only how fast your feet move",
+    "How long your steps are and how often you take them",
     "Only how long your legs are"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Speed needs both: the length of each step and how many steps you take in a clap.",
    "outcome": 3
   },
@@ -1778,11 +1778,11 @@
    "t": "mcq",
    "p": "A slow walker starts well ahead of a fast walker. Which race will the slow walker most likely win?",
    "opts": [
-    "A short race",
     "A long race",
+    "A short race",
     "Every race"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The fast walker gains a little every clap. In a short race, the finish comes before the fast walker catches up.",
    "outcome": 4,
    "how": "e2"
@@ -1791,11 +1791,11 @@
    "t": "mcq",
    "p": "In the hare and tortoise story, why does the tortoise win?",
    "opts": [
-    "The hare stops to sleep",
     "Tortoises are faster than hares",
+    "The hare stops to sleep",
     "The tortoise starts ahead"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A hare runs much faster than a tortoise walks. The tortoise wins only because the hare stops for a long time.",
    "outcome": 4
   },
@@ -1803,11 +1803,11 @@
    "t": "mcq",
    "p": "Why should claps be steady when you use them to time a race?",
    "opts": [
-    "So every racer is timed the same way",
     "So the claps sound nice",
-    "So the race ends sooner"
+    "So the race ends sooner",
+    "So every racer is timed the same way"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The claps are the clock. If they speed up or slow down, the race is not fair.",
    "outcome": 5
   },
@@ -1815,11 +1815,11 @@
    "t": "mcq",
    "p": "Before you try an experiment, what should you do first?",
    "opts": [
-    "Guess what will happen and say why",
     "Write the answer you want",
+    "Guess what will happen and say why",
     "Skip the guess"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A guess with a reason lets the experiment show you whether your idea was right.",
    "outcome": 5
   },
@@ -1827,11 +1827,11 @@
    "t": "mcq",
    "p": "A mosquito beats her wings very fast. Why can you still run away from her?",
    "opts": [
-    "Each wing beat moves her only a tiny way",
     "Mosquitoes cannot see you",
+    "Each wing beat moves her only a tiny way",
     "Her wings go backwards"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Many quick, tiny movements can add up to a slow speed, like tiny quick steps.",
    "outcome": 3
   },
@@ -1839,11 +1839,11 @@
    "t": "mcq",
    "p": "What is the fastest thing there is?",
    "opts": [
-    "Light",
     "A cheetah",
+    "Light",
     "An aeroplane"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Light travels about 3 lakh kilometres every second. Nothing has been found that goes faster.",
    "outcome": 0
   }
@@ -2043,7 +2043,92 @@
    "why": "A science museum with hands-on galleries on motion, engines and machines."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-a-digital-stopwatch--optiona",
+   "item": "A digital stopwatch (optional)",
+   "kind": "tool",
+   "why": "Used in The Step Race: tiny steps, giant steps or my ordinary walk?, The Clap Clock: can you count seconds?, The Slow Race: who can be last without stopping?. About ₹150 to ₹400. A phone stopwatch works well.",
+   "url": "https://www.amazon.in/s?k=digital+stopwatch",
+   "used_in": [
+    "e1",
+    "a2",
+    "a4"
+   ],
+   "plan": "Get it before The Step Race: tiny steps, giant steps or my ordinary walk?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Sprout Race: whose root grows fastest?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before The Sprout Race: whose root grows fastest?."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in The Sprout Race: whose root grows fastest?, The Slow Lane: make a marble take as long as possible. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before The Sprout Race: whose root grows fastest?."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in The Sprout Race: whose root grows fastest?. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before The Sprout Race: whose root grows fastest?."
+  },
+  {
+   "id": "b-a-small-toy-car-with-free-ro",
+   "item": "A small toy car with free-rolling wheels",
+   "kind": "material",
+   "why": "Used in Faster Than Me? A card sort. About ₹100 to ₹200. A marble or a round torch cell works.",
+   "url": "https://www.amazon.in/s?k=toy+car+pull+back+small",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before Faster Than Me? A card sort."
+  },
+  {
+   "id": "b-marbles--a-few",
+   "item": "Marbles (a few)",
+   "kind": "material",
+   "why": "Used in The Slow Lane: make a marble take as long as possible. About ₹10 to ₹40. Small round stones or dried chana.",
+   "url": "https://www.amazon.in/s?k=glass+marbles+pack",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before The Slow Lane: make a marble take as long as possible."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "What is speed?",

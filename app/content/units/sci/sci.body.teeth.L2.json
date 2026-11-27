@@ -538,10 +538,10 @@
       "q": "Which teeth tear a piece off a chewy dosa?",
       "options": [
        "Molars",
-       "Canines",
-       "Incisors"
+       "Incisors",
+       "Canines"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Canines are pointed, so they grip and tear. If you picked molars, remember that molars grind food at the back, after it has been torn off."
      }
     },
@@ -880,10 +880,10 @@
       "q": "Which glass had the most bubbles on the shell?",
       "options": [
        "Sugar water",
-       "Vinegar",
-       "Plain water"
+       "Plain water",
+       "Vinegar"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Vinegar has an acid in it. The acid breaks down the shell, and a gas comes out as bubbles. If you picked sugar water, look again: sugar water does not make bubbles on the shell."
      }
     },
@@ -1082,10 +1082,10 @@
       "q": "Which pretend tooth fell over with fewer taps?",
       "options": [
        "The one with the long root",
-       "The one with the short root",
-       "They fell with the same number of taps"
+       "They fell with the same number of taps",
+       "The one with the short root"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A short root has only a little dough holding it, so it tips easily. If you picked the long root, look at your table again. A milk tooth wobbles for the same reason: its root has been taken away."
      }
     },
@@ -1792,11 +1792,11 @@
    "t": "mcq",
    "p": "Why does a milk tooth get wobbly before it falls out?",
    "opts": [
-    "The body takes its root away as the adult tooth comes up",
     "It gets old and rotten",
+    "The body takes its root away as the adult tooth comes up",
     "The child pushes it with their tongue"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The root is dissolved bit by bit, so the tooth is held only weakly. A tongue can move a loose tooth, but it does not make a firm tooth loose.",
    "outcome": 0,
    "how": "e2",
@@ -1807,10 +1807,10 @@
    "p": "Which teeth bite a piece off a guava?",
    "opts": [
     "Molars",
-    "Incisors",
-    "Canines"
+    "Canines",
+    "Incisors"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Incisors are the thin, flat front teeth that bite and cut. Molars grind food at the back.",
    "outcome": 1
   },
@@ -1818,11 +1818,11 @@
    "t": "mcq",
    "p": "What is the job of the wide, bumpy molars?",
    "opts": [
-    "To grind food into a paste",
     "To bite a piece off",
+    "To grind food into a paste",
     "To hold the tongue in place"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Molars grind food. Biting a piece off is the job of incisors.",
    "outcome": 1
   },
@@ -1831,10 +1831,10 @@
    "p": "Which part of a tooth is alive, with blood vessels and nerves?",
    "opts": [
     "The enamel",
-    "The pulp",
-    "The plaque"
+    "The plaque",
+    "The pulp"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The pulp is the living middle. Enamel is hard mineral on the outside. Plaque is the sticky layer of bacteria on top of a tooth.",
    "outcome": 2
   },
@@ -1854,11 +1854,11 @@
    "t": "mcq",
    "p": "In the eggshell test, which pair of liquids made bubbles on the shell?",
    "opts": [
-    "Water and milk",
     "Lemon juice and vinegar",
+    "Water and milk",
     "Sugar water and milk"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Lemon juice and vinegar are sour, because they have acids in them. Acid breaks down the shell. Sugar water and milk did not make bubbles.",
    "outcome": 3,
    "how": "e1",
@@ -1868,11 +1868,11 @@
    "t": "mcq",
    "p": "Sugar water did not harm the eggshell. So how does sugar harm teeth?",
    "opts": [
-    "Bacteria in plaque eat the sugar and make acid",
     "Sugar is very hard and scratches teeth",
-    "Sugar does not harm teeth at all"
+    "Sugar does not harm teeth at all",
+    "Bacteria in plaque eat the sugar and make acid"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Bacteria living in plaque eat sugar and make acid right on the tooth. If you picked 'does not harm teeth at all', remember the bacteria.",
    "outcome": 4,
    "how": "e1",
@@ -1894,11 +1894,11 @@
    "t": "mcq",
    "p": "How much toothpaste should a child of 7 put on the brush?",
    "opts": [
-    "A blob about the size of a pea",
     "The whole length of the brush",
+    "A blob about the size of a pea",
     "None"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A pea-sized blob of fluoride toothpaste is enough. Too much fluoride swallowed while teeth are growing can leave spots on them.",
    "outcome": 4
   },
@@ -1906,11 +1906,11 @@
    "t": "mcq",
    "p": "You guessed that sugar water would harm the eggshell. It did not. What should you do now?",
    "opts": [
-    "Change your idea to fit what the test showed",
     "Say the test was wrong",
-    "Never guess again"
+    "Never guess again",
+    "Change your idea to fit what the test showed"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A guess is there to be tested. When the test shows something else, a scientist changes the idea. Guessing wrong is part of finding out.",
    "outcome": 5,
    "how": "e1",
@@ -2102,11 +2102,11 @@
      "t": "mcq",
      "p": "In the root test, the pencil pushed in only 1 cm fell over after 1 tap. What does that show about a milk tooth?",
      "opts": [
-      "A tooth with a short root is held weakly, so it wobbles",
       "Pencils are not like teeth at all",
+      "A tooth with a short root is held weakly, so it wobbles",
       "A long root makes a tooth fall out"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A short root has only a little gum around it to hold it. A milk tooth's root is taken away before it falls, so it wobbles. 'A long root makes a tooth fall out' is the opposite of what the root test showed.",
      "context": "This question is about the root test. You push two pencils into a block of atta dough, one deep and one shallow, and see which one falls over first.",
      "how": "e2"
@@ -2286,22 +2286,22 @@
      "t": "mcq",
      "p": "In some villages, the well water has a lot of fluoride in it. What can happen to children's teeth there?",
      "opts": [
-      "Their teeth grow with brown or white spots",
       "Their teeth never get cavities at all",
-      "Their milk teeth never fall out"
+      "Their milk teeth never fall out",
+      "Their teeth grow with brown or white spots"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Too much fluoride while teeth are forming leaves spots on the enamel. This is called dental fluorosis. It is common in parts of Nalgonda in Telangana and in Rajasthan."
     },
     {
      "t": "mcq",
      "p": "How are a shark's teeth different from yours?",
      "opts": [
-      "A shark grows new teeth again and again, but we get only two sets",
       "A shark has no teeth at all",
+      "A shark grows new teeth again and again, but we get only two sets",
       "A shark's teeth never wear down because they are enamel only"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Sharks replace their teeth many times. Humans get two sets, and the adult set must last a whole life."
     },
     {
@@ -2518,6 +2518,67 @@
     "e1"
    ],
    "plan": "Used in the eggshell test, and handy for kitchen use afterwards."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Root Test: why does a milk tooth wobble?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before The Root Test: why does a milk tooth wobble?."
+  },
+  {
+   "id": "b-a-small-hand-mirror",
+   "item": "A small hand mirror",
+   "kind": "material",
+   "why": "Used in Torch Tour: your teeth and a grown-up's teeth, Gap Watch: a new tooth coming in (if you have a wobbly tooth or a gap), Twig Brush: try a datun (if you can get a neem or babool twig). About ₹20 to ₹80. A shiny steel plate shows reflections too.",
+   "url": "https://www.amazon.in/s?k=small+hand+mirror",
+   "used_in": [
+    "a1",
+    "a4",
+    "a5"
+   ],
+   "plan": "Get it before Torch Tour: your teeth and a grown-up's teeth."
+  },
+  {
+   "id": "b-food-colour",
+   "item": "Food colour",
+   "kind": "material",
+   "why": "Used in A Tooth in Layers: make one from dough. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it.",
+   "url": "https://www.amazon.in/s?k=food+colour+liquid",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Get it before A Tooth in Layers: make one from dough."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in The Eggshell Test: which drinks make a hard shell go soft?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before The Eggshell Test: which drinks make a hard shell go soft?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

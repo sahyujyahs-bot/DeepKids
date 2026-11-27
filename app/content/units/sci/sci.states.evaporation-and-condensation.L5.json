@@ -153,7 +153,8 @@
    "examples": [
     "In the Shake the Plate activity in this lesson, whole chana, which are chickpeas, in a steel plate stand for particles of water. Only the chana that reached the rim with enough speed jumped out. Most of the chana stayed in the plate.",
     "A wet steel plate left on the drying rack is dry by evening, though nobody heated it.",
-    "Ink left in an open bottle dries up over the summer holidays."
+    "Ink left in an open bottle dries up over the summer holidays.",
+    "Leave salty water in a shallow steel plate in the sun. The water evaporates, and the salt that was dissolved in it is left behind as a white crust. Only the water turns into vapour, so the salt can be recovered."
    ],
    "perspectives": [],
    "art": "A zoom view of a water surface: a crowd of particles with short and long arrows, and two long-arrowed particles at the top flying off into the air."
@@ -639,11 +640,11 @@
       "t": "mcq",
       "q": "Two wet shirts hang side by side in the same breeze. One is in the sun and one in the shade. Which reason explains why the sunny one dries first?",
       "options": [
-       "Warmer: its particles move faster",
        "Bigger surface: it is spread wider",
-       "Drier air: the sun removes vapour"
+       "Drier air: the sun removes vapour",
+       "Warmer: its particles move faster"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Both shirts have the same surface and the same breeze. Sunlight gives the water particles more energy, so more of them are fast enough to escape."
      },
      "context": "This is the last step of Which Dries First? Here you sort the cards you won by reason, and make up a new card."
@@ -966,11 +967,11 @@
       "t": "mcq",
       "q": "In Wide or Narrow, the plate had 4 times the bowl's surface. It lost about 4 times as much water. What does this show?",
       "options": [
-       "Water leaves only from its surface",
        "A plate holds more water than a bowl",
-       "Steel plates pull water out"
+       "Steel plates pull water out",
+       "Water leaves only from its surface"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Both held the same amount of water, so the amount did not decide it. The loss grew in step with the surface, because only particles at the surface can escape. Both vessels were steel, so the material was the same."
      },
      "context": "This is the last step of Wide or Narrow. Here you explain why the plate lost the most water and the closed jar lost none."
@@ -1355,11 +1356,11 @@
       "t": "mcq",
       "q": "In The Tilting Hanger, a cloth under a fan lost more water than the same cloth in still air. Why does moving air speed up evaporation?",
       "options": [
-       "It carries escaped particles away",
        "It makes the water hotter",
-       "It pushes water out of the cloth"
+       "It pushes water out of the cloth",
+       "It carries escaped particles away"
       ],
-      "a": 0,
+      "a": 2,
       "why": "In still air the escaped particles collect near the cloth, and many land back on it. Moving air sweeps them away. A fan does not heat the water. It usually cools a wet cloth a little."
      },
      "context": "This is the last step of The Tilting Hanger. Here you compare three drying tests and explain each result with particles."
@@ -1452,11 +1453,11 @@
       "t": "mcq",
       "q": "Hot water cooled faster in a wide davara than in a tumbler. What was different about the water in the davara?",
       "options": [
-       "It had a bigger surface touching the air",
        "It was a different kind of water",
-       "It was colder when it was poured"
+       "It was colder when it was poured",
+       "It had a bigger surface touching the air"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The same water was poured into both, at the same temperature. Only the shape was different. The davara gave the water a bigger surface, so heat and fast particles could leave it more quickly."
      },
      "context": "This is the last step of Tumbler or Davara. Here you feel which vessel of hot water has cooled more, and say what was different about the two."
@@ -1562,11 +1563,11 @@
       "t": "mcq",
       "q": "In Shake the Plate, which chana jumped out of the plate?",
       "options": [
-       "Fast ones that reached the rim",
        "Slow ones in the middle",
+       "Fast ones that reached the rim",
        "All of them, at the same moment"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Only chana at the rim with enough speed got over it. Water is like this. Only fast particles at the surface escape. Choosing 'all of them' forgets that the particles have many different speeds."
      },
      "context": "This is the last step of Shake the Plate. Here you say what the chana model shows about evaporation, and where the model is unlike real water."
@@ -1651,11 +1652,11 @@
       "t": "mcq",
       "q": "Which two changes of state happen only when heat goes into the water?",
       "options": [
-       "Melting and evaporation",
        "Freezing and condensation",
+       "Melting and evaporation",
        "Melting and freezing"
       ],
-      "a": 0,
+      "a": 1,
       "why": "In melting and in evaporation, particles break away from their neighbours, and that takes energy. In freezing and condensation they join again and give the energy out. Melting and freezing are a pair that undo each other."
      },
      "context": "This is the last step of Draw the Particles. Here you draw a close view of the water surface, to show which particles leave when water evaporates."
@@ -1742,11 +1743,11 @@
       "t": "mcq",
       "q": "What is inside the big bubbles that rise in boiling water?",
       "options": [
-       "Water vapour",
        "Air from the room",
-       "Nothing at all"
+       "Nothing at all",
+       "Water vapour"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The big bubbles are water that has turned into a gas inside the liquid. The plate above the pan gets wet as that gas condenses. The tiny early bubbles are dissolved air, and they are gone long before the boil."
      },
      "context": "This is the last step of What Is in the Bubbles? Here you say what was inside the small early bubbles and the big bubbles of boiling water."
@@ -1920,11 +1921,11 @@
       "t": "mcq",
       "q": "Mist formed on one tumbler at 24 degrees and on another, in a different room, at 12 degrees. Which room had more water vapour in its air?",
       "options": [
-       "The room where mist formed at 24 degrees",
        "The room where mist formed at 12 degrees",
-       "Both had the same amount"
+       "Both had the same amount",
+       "The room where mist formed at 24 degrees"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Air with a lot of vapour needs only a little cooling before the vapour condenses. So its dew point is high. Dry air must be cooled much further."
      },
      "context": "This is the last step of Find the Dew Point. Here you compare your own measurement with the dew point given by a weather app."
@@ -2131,11 +2132,11 @@
       "t": "mcq",
       "q": "A fresh-water maker collected clear water from brown, salty water. Why was the collected water clear?",
       "options": [
-       "Only water particles evaporate",
        "The film strains out the colour",
+       "Only water particles evaporate",
        "Sunlight destroys salt and tea"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Only particles of water leave the surface. The salt and the colour stay behind in the bowl. The vapour condenses under the film as pure water. Nothing passes through the film, and sunlight does not destroy the salt."
      },
      "context": "This is the last step of More Drops per Hour. Here you measure the fresh water collected by the plain maker and by your improved one."
@@ -2230,11 +2231,11 @@
       "t": "mcq",
       "q": "Twelve ice cubes shared between four steel tumblers collected more water from the air than twelve in one tumbler. Why?",
       "options": [
-       "More cold surface touched the air",
        "Four tumblers hold more ice",
+       "More cold surface touched the air",
        "Small tumblers make water"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Vapour condenses only where it meets a cold surface. Four tumblers have about four times the cold steel of one. The amount of ice was the same, and no vessel makes water."
      },
      "context": "This is the last step of Catch Water from the Air. Here you compare the water collected by two designs. You weigh two handkerchiefs on a hanger balance, as in The Tilting Hanger."
@@ -2359,12 +2360,12 @@
      "t": "mcq",
      "p": "Which particles escape from the surface of water?",
      "opts": [
-      "The fastest ones",
       "The slowest ones",
       "The largest ones",
+      "The fastest ones",
       "The ones at the bottom"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A particle needs enough speed to break away from its neighbours. All water particles are the same size, so 'the largest' cannot be right."
     },
     {
@@ -2447,12 +2448,12 @@
      "t": "mcq",
      "p": "A fan dries a wet floor faster. What does the moving air do?",
      "opts": [
-      "Carries escaped particles away",
       "Heats the water on the floor",
       "Pushes water into the floor",
+      "Carries escaped particles away",
       "Turns the water into air"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Moving air sweeps away the vapour above the floor, so fewer particles land back. A fan does not heat the water."
     },
     {
@@ -2474,12 +2475,12 @@
      "t": "mcq",
      "p": "One water surface is 300 square cm and another is 75. How much more water does the bigger one lose?",
      "opts": [
-      "About 4 times as much",
       "About twice as much",
+      "About 4 times as much",
       "The same amount",
       "About 300 times as much"
      ],
-     "a": 0,
+     "a": 1,
      "why": "300 ÷ 75 = 4. Water leaves only from the surface, so 4 times the surface loses about 4 times the water.",
      "how": "e1"
     },
@@ -2545,12 +2546,12 @@
      "t": "mcq",
      "p": "When does sweat cool your body?",
      "opts": [
-      "When it evaporates",
       "When it drips off",
+      "When it evaporates",
       "When it stays on the skin",
       "When it is wiped away"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Sweat cools you only as it evaporates, because the fastest particles take heat away. Sweat that drips off carries almost no heat with it."
     },
     {
@@ -2634,12 +2635,12 @@
      "t": "mcq",
      "p": "Tiny bubbles appear in a pan while the water is only warm. What are they?",
      "opts": [
-      "Dissolved air coming out",
       "Water vapour",
       "Gas from the stove",
+      "Dissolved air coming out",
       "Bits of steel"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Tap water holds dissolved air, and warm water holds less of it. Bubbles of water vapour come much later, at the boil.",
      "how": "a4"
     },
@@ -2680,6 +2681,13 @@
      "p": "True or false: on one day, a deep lake and a shallow puddle lose about the same depth.",
      "a": true,
      "why": "True. Each square centimetre of surface loses about the same amount. The puddle vanishes first only because it has little depth to lose."
+    },
+    {
+     "t": "write",
+     "p": "A plate of salty water is left in the sun for a day, and all the water goes. Where did the water go, and where did the salt go?",
+     "lines": 3,
+     "a": "The water evaporated: its fastest particles escaped from the surface and mixed with the air as vapour. The salt did not evaporate, so it was left on the plate as a crust.",
+     "why": "A strong answer says the water turned into vapour and left, and that the salt stayed behind on the plate."
     }
    ]
   },
@@ -2711,12 +2719,12 @@
      "t": "mcq",
      "p": "Twelve particles have an average speed of 3.5. The two fastest leave. What happens to the average of the rest?",
      "opts": [
-      "It falls",
       "It rises",
       "It stays at 3.5",
+      "It falls",
       "It becomes zero"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Taking away the highest numbers always lowers the average of what is left. This is why evaporation cools water.",
      "how": "g2"
     },
@@ -2790,12 +2798,12 @@
      "t": "mcq",
      "p": "Air rising up a mountainside cools, and a cloud forms. Why does cooling make a cloud?",
      "opts": [
-      "Vapour particles slow down and join",
       "Cold air makes new water",
       "The mountain squeezes water out",
+      "Vapour particles slow down and join",
       "The wind brings water from rivers"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Cooling slows the vapour particles until they stick to dust specks and to each other. No new water is made. It was already in the air as vapour."
     },
     {
@@ -2855,12 +2863,12 @@
      "t": "mcq",
      "p": "The sea loses about 3 mm of depth to evaporation every day. About how much is that in one year?",
      "opts": [
-      "About 1 metre",
       "About 3 metres",
+      "About 1 metre",
       "About 10 centimetres",
       "About 30 metres"
      ],
-     "a": 0,
+     "a": 1,
      "why": "3 mm × 365 days = 1,095 mm, which is a little more than 1 metre. Rain and rivers put the same amount back."
     },
     {
@@ -2914,12 +2922,12 @@
    "t": "mcq",
    "p": "Water at 30 degrees evaporates slowly, not all at once. What does this show about its particles?",
    "opts": [
-    "They move at many different speeds",
     "They all move at one speed",
     "They do not move at all",
+    "They move at many different speeds",
     "They are of many different sizes"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Only a few are fast enough to escape at any moment. If all had one speed, all would leave together or none would.",
    "outcome": 0
   },
@@ -2927,12 +2935,12 @@
    "t": "mcq",
    "p": "Drops form on the outside of a cold steel tumbler. What happened to the particles of water vapour?",
    "opts": [
-    "They slowed down and stuck together",
     "They leaked through the steel",
     "They sped up and split",
-    "They turned into air"
+    "They turned into air",
+    "They slowed down and stuck together"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The cold steel took energy from the vapour particles. Slow particles stick together as a liquid. Nothing passes through steel.",
    "outcome": 1
   },
@@ -2953,12 +2961,12 @@
    "t": "mcq",
    "p": "Which change would make a wet towel dry more slowly?",
    "opts": [
-    "Folding it in four",
     "Hanging it in a breeze",
     "Putting it in the sun",
-    "Spreading it out"
+    "Spreading it out",
+    "Folding it in four"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Folding hides most of the surface, and water can leave only from a surface that touches the air.",
    "outcome": 2
   },
@@ -2980,12 +2988,12 @@
    "t": "mcq",
    "p": "Why does evaporation cool the water that is left behind?",
    "opts": [
-    "The fastest particles leave",
     "Cold air enters the water",
+    "The fastest particles leave",
     "The slowest particles leave",
     "The water gets heavier"
    ],
-   "a": 0,
+   "a": 1,
    "why": "With the fastest gone, the average speed of the rest is lower, and that means a lower temperature. Cold is not a thing that enters.",
    "outcome": 4
   },
@@ -3007,12 +3015,12 @@
    "t": "mcq",
    "p": "Which is true of boiling but not of evaporation?",
    "opts": [
-    "Bubbles of vapour form inside the liquid",
     "A liquid turns into a gas",
     "Heat goes into the liquid",
+    "Bubbles of vapour form inside the liquid",
     "It can happen to water"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Evaporation happens only at the surface. In boiling, vapour forms all through the liquid. The other three are true of both.",
    "outcome": 5
   },
@@ -3020,12 +3028,12 @@
    "t": "mcq",
    "p": "In the water cycle, what happens to the salt when sea water evaporates?",
    "opts": [
-    "It stays in the sea",
     "It rises into the clouds",
     "It turns into vapour too",
+    "It stays in the sea",
     "It falls with the rain"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Only particles of water leave the surface. That is why rain is fresh, though most of it rose from the salty sea.",
    "outcome": 6
   },
@@ -3033,12 +3041,12 @@
    "t": "mcq",
    "p": "Which list holds only kinds of precipitation?",
    "opts": [
-    "Rain, snow, hail",
     "Dew, fog, mist",
+    "Rain, snow, hail",
     "Rain, rivers, lakes",
     "Vapour, clouds, steam"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Precipitation is water that falls from clouds. Dew and fog do not fall, and rivers and lakes are water already on the ground.",
    "outcome": 6
   },
@@ -3046,15 +3054,28 @@
    "t": "mcq",
    "p": "You test whether a fan speeds up drying. What must stay the same for both cloths?",
    "opts": [
-    "The cloth, the water and the warmth",
     "Only the colour of the cloth",
     "Nothing needs to stay the same",
-    "The fan must blow on both"
+    "The fan must blow on both",
+    "The cloth, the water and the warmth"
    ],
-   "a": 0,
+   "a": 3,
    "why": "In a fair test only one thing changes: here, the moving air. If the fan blew on both, nothing would have been tested.",
    "outcome": 7,
    "how": "e3"
+  },
+  {
+   "t": "mcq",
+   "p": "A plate of salty water is left in the sun until all the water has gone. What is left on the plate, and why?",
+   "opts": [
+    "Salt, because only the water particles escape from the surface as vapour",
+    "Water vapour, because the salt turns into vapour too",
+    "Nothing, because the salt dissolves into the air",
+    "Water, because salt stops evaporation"
+   ],
+   "a": 0,
+   "outcome": 0,
+   "why": "Only the water particles escape from the surface. The salt particles stay in the plate. A salt pan works in the same way, with sea water in wide, shallow pans."
   }
  ],
  "videos": [
@@ -3398,6 +3419,45 @@
     "a5"
    ],
    "plan": "Read it together after Zoom In on the Water Cycle. Then look out of the window and name the clouds you can see."
+  },
+  {
+   "id": "b-mm-ruler",
+   "item": "Plastic ruler, 30 centimetres, marked in millimetres",
+   "kind": "tool",
+   "why": "It measures how far the water level drops in the cup and the jar during the evaporation tests. About ₹20 to ₹60 at a stationery shop. Any school ruler with millimetre marks works.",
+   "url": "https://www.amazon.in/s?k=plastic+ruler+30+cm",
+   "used_in": [
+    "e1",
+    "e3"
+   ],
+   "plan": "Buy it before the Wide or Narrow test."
+  },
+  {
+   "id": "b-clothes-clips",
+   "item": "Clothes clips, a pack of 4",
+   "kind": "tool",
+   "why": "They hold the cloths on the hanger so they hang straight in the drying test. About ₹30 to ₹80 for a pack at a household or general store. Clothes pegs are the household alternative.",
+   "url": "https://www.amazon.in/s?k=clothes+clips",
+   "used_in": [
+    "e3",
+    "c2"
+   ],
+   "plan": "Buy them before the Tilting Hanger test."
+  },
+  {
+   "id": "b-print-evaporation",
+   "item": "Printed pages for the game cards, pot sheet and worksheets, about 10 pages",
+   "kind": "material",
+   "why": "The two games use 20 two-sided cards, four reason cards and a printed pot, and the worksheets are printed too. A copy shop charges about ₹1 to ₹2 a page, so the set costs about ₹10 to ₹20.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print these before the first game."
   }
  ],
  "warmup": [

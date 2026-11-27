@@ -970,12 +970,12 @@
      "t": "mcq",
      "p": "Many people think only living things can push or pull. Which of these is a force with no living being doing it?",
      "opts": [
-      "The wind pushing a boat's sail",
       "A girl kicking a ball",
       "A dog pulling on his lead",
-      "A boy lifting his school bag"
+      "A boy lifting his school bag",
+      "The wind pushing a boat's sail"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The wind is moving air, and it pushes the sail. Magnets, the wind and the Earth's gravity all push or pull, and none of them is alive. The other three are forces too, but a living being does each of them."
     },
     {
@@ -1014,12 +1014,12 @@
      "t": "mcq",
      "p": "Two arrows are drawn on a box. One arrow is short and one is long. What does the long arrow tell you?",
      "opts": [
-      "That push is bigger",
       "That push is slower",
       "That push comes from further away",
-      "Nothing. Arrows only show direction"
+      "Nothing. Arrows only show direction",
+      "That push is bigger"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A force arrow shows two things: the way the force points, and how big it is. A longer arrow means a bigger force. Picking 'only direction' misses the size."
     },
     {
@@ -1064,10 +1064,10 @@
      "p": "Look at the chart. The left team pulls with 4 and the right team pulls with 6. Which way does the rope move?",
      "opts": [
       "Left",
-      "Right",
-      "It does not move"
+      "It does not move",
+      "Right"
      ],
-     "a": 1,
+     "a": 2,
      "why": "6 is bigger than 4, so the forces are unbalanced. The rope moves towards the right team. Picking 'left' means the shorter bar was read as the winner.",
      "context": "In a tug of war, two teams pull a rope in opposite directions. The bigger total pull wins.",
      "chart": {
@@ -1179,11 +1179,11 @@
      "t": "mcq",
      "p": "A balloon is taped to a straw on a string. When you let go, its air rushes out to the left. Which way does the balloon go?",
      "opts": [
-      "To the left, with the air",
       "To the right",
+      "To the left, with the air",
       "It stays still"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The balloon pushes its air out to the left, so the air pushes the balloon to the right. Picking 'to the left' means the balloon was pictured being carried along with the air.",
      "how": "e2"
     }
@@ -1212,12 +1212,12 @@
      "t": "mcq",
      "p": "Now the two children push the cupboard from opposite sides. One pushes it to the right with 30 newtons. The other pushes it to the left with 20 newtons. What happens?",
      "opts": [
-      "It moves right, pushed by 10 newtons",
       "It moves left, pushed by 10 newtons",
+      "It moves right, pushed by 10 newtons",
       "It moves right, pushed by 50 newtons",
       "It does not move at all"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Opposite pushes work against each other. 30 take away 20 is 10. The bigger push points right, so the cupboard is pushed right with 10 newtons. In real life, friction with the floor might still stop it moving."
     },
     {
@@ -1240,12 +1240,12 @@
      "t": "mcq",
      "p": "You blow on a ping-pong ball from the bottom of a tray. At the same moment, a friend blows on it from the left side, just as hard. Which way does the ball go?",
      "opts": [
+      "Slantwise, towards the top right corner",
       "Straight up the tray",
       "Straight to the right",
-      "Slantwise, towards the top right corner",
       "It does not move"
      ],
-     "a": 2,
+     "a": 0,
      "why": "Your blow pushes it up the tray, and your friend's blow pushes it to the right. The two pushes together send it slantwise, towards the top right. Picking one straight direction means only one push was counted.",
      "how": "e3"
     },
@@ -1253,12 +1253,12 @@
      "t": "mcq",
      "p": "When you walk, what pushes you forwards?",
      "opts": [
-      "The ground, because your feet push it backwards",
       "The air, because your legs push it",
       "Gravity, pulling you forwards",
+      "The ground, because your feet push it backwards",
       "Nothing. Walking needs no force"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Your feet push the ground backwards, and the ground pushes you forwards. This is a force pair. Picking gravity is a common mix-up. Gravity pulls you down, not forwards."
     },
     {
@@ -1272,11 +1272,11 @@
      "t": "mcq",
      "p": "A boatwoman on the Kerala backwaters pushes her long bamboo pole backwards against the river bed. Which way does her boat move?",
      "opts": [
-      "Forwards, opposite to her push",
       "Backwards, the same way as her push",
+      "Forwards, opposite to her push",
       "It does not move"
      ],
-     "a": 0,
+     "a": 1,
      "why": "She pushes the river bed backwards, and the river bed pushes the pole, and the boat, forwards. Picking 'backwards' means the push back was forgotten.",
      "context": "Some flat boats in Kerala are moved by pushing a long pole against the bottom of the shallow water."
     },
@@ -1284,11 +1284,11 @@
      "t": "mcq",
      "p": "A cricket bat hits a ball hard. What does the ball do to the bat?",
      "opts": [
-      "It pushes the bat back, just as hard",
       "Nothing, because the ball is smaller",
-      "It pulls the bat forwards"
+      "It pulls the bat forwards",
+      "It pushes the bat back, just as hard"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Every push comes with an equal push back. The batter feels it as a jolt in her hands. The ball flies off fast because it is light, but the heavy bat, held tight in her hands, barely slows down. Picking 'nothing' is the usual first guess."
     },
     {
@@ -1437,24 +1437,24 @@
      "t": "mcq",
      "p": "Deep down, why can't your hand go through a wall when you press on it?",
      "opts": [
-      "The electrons in your hand and in the wall push each other apart",
       "Tiny hooks on the wall catch your hand",
+      "The electrons in your hand and in the wall push each other apart",
       "Gravity pushes your hand back",
       "Air is trapped between them"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Every touching push comes from electric forces between atoms. Electrons push other electrons away. Picking gravity mixes up two forces. Gravity only pulls, and it is far too weak to stop your hand."
     },
     {
      "t": "mcq",
      "p": "A comet is a ball of ice and dust. Near the Sun, it grows a long glowing tail. Why does the tail always point away from the Sun?",
      "opts": [
-      "Sunlight and the solar wind, a stream of tiny particles from the Sun, push the dust and gas outwards",
       "The comet is always moving away from the Sun",
       "The Sun's gravity pulls the tail backwards",
+      "Sunlight and the solar wind, a stream of tiny particles from the Sun, push the dust and gas outwards",
       "The tail is a shadow"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Light really pushes. In space, the gentle push of sunlight and the solar wind blows the tail outwards. Picking 'moving away' is a sensible guess, but the tail points away from the Sun even when the comet moves towards it."
     },
     {
@@ -1566,12 +1566,12 @@
      "t": "mcq",
      "p": "India is slowly pushing north into the rest of Asia, about 5 centimetres a year. What has that push made over millions of years?",
      "opts": [
-      "The Himalayas",
       "The Thar desert",
+      "The Himalayas",
       "The Bay of Bengal",
       "The monsoon"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The push of India into Asia crumpled the rocks upwards into the Himalayas, and they are still rising a little each year. A small push, kept up for millions of years, can build the tallest mountains on Earth."
     },
     {
@@ -1724,11 +1724,11 @@
       "t": "mcq",
       "q": "You push a wall with your feet and slide away from it. What pushed you?",
       "options": [
-       "The wall pushed you back",
        "Nothing pushed you. You just moved",
+       "The wall pushed you back",
        "The towel pushed you"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The only thing touching your feet was the wall, so the wall pushed you. Picking 'nothing' means the wall's push back was not noticed. Nothing starts moving without a force."
      },
      "parent": "Wait for your child's answer before you explain. Then explain that this is a force pair. Your child pushed the wall, and the wall pushed back on your child, just as hard, the opposite way. The only thing touching their feet was the wall. The wall does not move because it is fixed to the whole house and the Earth."
@@ -2430,10 +2430,10 @@
       "q": "A book lies still on a table. Which forces are on it?",
       "options": [
        "No forces, because it is still",
-       "Gravity pulling down, and the table pushing up just as hard",
-       "Only gravity"
+       "Only gravity",
+       "Gravity pulling down, and the table pushing up just as hard"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Gravity pulls the book down and the table pushes it up just as hard. Picking 'no forces' is very common. Still things have balanced forces, not no forces."
      }
     },
@@ -2543,10 +2543,10 @@
       "q": "Which of these is a force from far away?",
       "options": [
        "Your hand pushing a swing",
-       "The Earth pulling a falling spoon",
-       "Your foot kicking a ball"
+       "Your foot kicking a ball",
+       "The Earth pulling a falling spoon"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Nothing touches a falling spoon, yet the Earth pulls it down. Picking the swing or the kick means touching forces were chosen. Those need contact."
      }
     },
@@ -2683,11 +2683,11 @@
       "t": "mcq",
       "q": "Why do muscles work in pairs?",
       "options": [
-       "Because a muscle can only pull, never push",
        "Because one muscle is always resting",
+       "Because a muscle can only pull, never push",
        "Because muscles push and pull"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A muscle can only pull, so it needs a partner to pull the other way. Picking 'muscles push and pull' is natural, but the cardboard arm shows that a string cannot push."
      }
     },
@@ -2766,11 +2766,11 @@
       "t": "mcq",
       "q": "Two people lean back holding wrists, and stay still. Their pulls are…",
       "options": [
-       "Balanced",
        "Unbalanced",
-       "Not forces at all"
+       "Not forces at all",
+       "Balanced"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Leaning back and staying still means the two pulls cancel, so they are balanced. If the pulls were unbalanced, both people would be falling one way."
      }
     },
@@ -2849,10 +2849,10 @@
       "q": "You draw a gentle push and a hard push on a box. How should the arrows look?",
       "options": [
        "The same length",
-       "The hard push has a longer arrow",
-       "The gentle push has a longer arrow"
+       "The gentle push has a longer arrow",
+       "The hard push has a longer arrow"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A bigger force gets a longer arrow. Picking 'the same length' means the arrow was seen only as a direction. It shows size too."
      }
     }
@@ -3166,11 +3166,11 @@
       "t": "mcq",
       "q": "A rolling marble hits a wall and turns. What changed its direction?",
       "options": [
-       "The wall pushed it",
        "Its own speed made it turn",
+       "The wall pushed it",
        "Nothing. It was always going to turn"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The wall pushed the marble, and the push changed its direction. Picking 'its own speed' misses that speed alone keeps it going straight. It only turns when a force pushes it."
      }
     },
@@ -3218,11 +3218,11 @@
    "t": "mcq",
    "p": "Which of these is a force?",
    "opts": [
-    "A magnet pulling a pin",
     "The colour of a ball",
+    "A magnet pulling a pin",
     "The length of a rope"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A force is a push or a pull, and the magnet pulls. A colour or a length is something you can describe, but it does not push or pull anything.",
    "outcome": 0
   },
@@ -3230,11 +3230,11 @@
    "t": "mcq",
    "p": "A girl squeezes half a lemon over her rice. Is her squeeze a push or a pull?",
    "opts": [
-    "A push, from both sides",
     "A pull",
+    "A push, from both sides",
     "Neither"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Her fingers press on the lemon from both sides, so it is a push. Picking 'neither' means a squeeze was not seen as a force. But the juice comes out because she pushes.",
    "outcome": 0
   },
@@ -3242,11 +3242,11 @@
    "t": "mcq",
    "p": "A rolling ball reaches a rough doormat and stops. What stopped it?",
    "opts": [
-    "The mat rubbing against it, a force called friction",
     "Nothing. It just ran out of moving",
-    "Gravity pushing it backwards"
+    "Gravity pushing it backwards",
+    "The mat rubbing against it, a force called friction"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A moving thing only slows or stops if a force acts on it. Here it is friction, the grip between two surfaces. Picking 'ran out of moving' is a very old idea that turned out to be wrong.",
    "outcome": 1
   },
@@ -3266,11 +3266,11 @@
    "t": "mcq",
    "p": "A football is kicked just as hard, once to the left and once to the right. Why does it end up in different places?",
    "opts": [
-    "The direction of the kick changed",
     "The kick got bigger",
-    "The ball got lighter"
+    "The ball got lighter",
+    "The direction of the kick changed"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Same strength means same size of force. Only the direction changed, and that alone sends the ball somewhere else.",
    "outcome": 2
   },
@@ -3303,11 +3303,11 @@
    "t": "mcq",
    "p": "A balloon car pushes air out of its back. What moves the car forwards?",
    "opts": [
-    "The air pushing back on the balloon",
     "The wheels pushing themselves",
-    "Gravity"
+    "Gravity",
+    "The air pushing back on the balloon"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The balloon pushes the air backwards, and the air pushes the balloon, and the car, forwards. The wheels only help it roll.",
    "how": "p1",
    "outcome": 4
@@ -3329,11 +3329,11 @@
    "t": "mcq",
    "p": "A balloon rubbed on your hair lifts tiny bits of paper without touching them. What kind of force is this?",
    "opts": [
-    "A pull from far away, an electric force",
     "A touching push",
+    "A pull from far away, an electric force",
     "It is not a force"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Rubbing gives the balloon an electric charge, which pulls the paper across a gap. Picking 'not a force' misses that the paper moved, and moving needs a force.",
    "how": "a4",
    "outcome": 5
@@ -3342,11 +3342,11 @@
    "t": "mcq",
    "p": "Muscles can only pull. So how do you kick a ball?",
    "opts": [
-    "Muscles pull on the leg bones, and the foot at the end pushes the ball",
     "The muscles push the ball",
-    "The ball pulls your foot"
+    "The ball pulls your foot",
+    "Muscles pull on the leg bones, and the foot at the end pushes the ball"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A muscle pulls on a bone, the bone swings, and the foot presses on the ball. A pull inside becomes a push outside.",
    "how": "a5",
    "outcome": 6
@@ -3355,11 +3355,11 @@
    "t": "mcq",
    "p": "You pull on the Earth too, just as hard as it pulls you. Why doesn't the Earth seem to move?",
    "opts": [
-    "It is so huge that the pull hardly moves it",
     "You do not really pull it at all",
+    "It is so huge that the pull hardly moves it",
     "The Moon holds it still"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The two pulls are the same size, but the Earth is enormous, so it moves far too little to notice. Picking 'you do not pull it' is the usual first guess.",
    "outcome": 6
   },
@@ -3698,6 +3698,82 @@
     "a4",
     "c1"
    ]
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Bending Ruler: forces when nothing moves, Forces From Far Away, Muscles Only Pull: build a cardboard arm. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "a3",
+    "a4",
+    "a5"
+   ],
+   "plan": "Get it before The Bending Ruler: forces when nothing moves."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Push the Wall: does the wall push back?, Muscles Only Pull: build a cardboard arm, Build a Balloon-Powered Car. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "e1",
+    "a5",
+    "p1"
+   ],
+   "plan": "Get it before Push the Wall: does the wall push back?."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in Forces From Far Away. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "a4"
+   ],
+   "plan": "Get it before Forces From Far Away."
+  },
+  {
+   "id": "b-a-small-toy-car-with-free-ro",
+   "item": "A small toy car with free-rolling wheels",
+   "kind": "material",
+   "why": "Used in Push and Pull Hunt, and the Mystery Bag, Build a Balloon-Powered Car. About ₹100 to ₹200. A marble or a round torch cell works.",
+   "url": "https://www.amazon.in/s?k=toy+car+pull+back+small",
+   "used_in": [
+    "a1",
+    "p1"
+   ],
+   "plan": "Get it before Push and Pull Hunt, and the Mystery Bag."
+  },
+  {
+   "id": "b-marbles--a-few",
+   "item": "Marbles (a few)",
+   "kind": "material",
+   "why": "Used in Push the Wall: does the wall push back?, The Marble Bend. About ₹10 to ₹40. Small round stones or dried chana.",
+   "url": "https://www.amazon.in/s?k=glass+marbles+pack",
+   "used_in": [
+    "e1",
+    "c2"
+   ],
+   "plan": "Get it before Push the Wall: does the wall push back?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

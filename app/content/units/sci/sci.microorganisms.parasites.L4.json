@@ -795,11 +795,11 @@
       "t": "mcq",
       "q": "In the Guinea worm journey, why must a copepod come between the pond and the person?",
       "options": [
-       "The larvae must grow inside the copepod before they can infect a person",
        "The copepod makes the pond water cold",
-       "The copepod brings the larvae in a bucket"
+       "The copepod brings the larvae in a bucket",
+       "The larvae must grow inside the copepod before they can infect a person"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The larvae that leave the foot are not yet ready to infect a person. They need about two weeks inside a copepod. That is why a cloth that holds back the copepods breaks the journey."
      },
      "context": "In this step you sort the journey cards and put them in order.",
@@ -946,11 +946,11 @@
       "t": "mcq",
       "q": "A clue says: I wait in water for days, and boiling kills me but chlorine does not always. What am I?",
       "options": [
-       "A hard-coated cyst of a single-celled parasite",
        "A mosquito larva",
-       "A scabies mite"
+       "A scabies mite",
+       "A hard-coated cyst of a single-celled parasite"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A cyst has a tough coat that protects it in water, even against some chlorine. Boiling is hot enough to kill it. A wriggler lives in water but does not wait in a coat, and a mite lives on skin."
      },
      "context": "In this step you play the clue cards."
@@ -1151,11 +1151,11 @@
       "t": "mcq",
       "q": "Why do we use exactly 10 seeds of each kind and 100 millilitres of water in every test?",
       "options": [
-       "So that the only difference between tests is the filter",
        "So that the tests take longer",
-       "Because 10 is a lucky number"
+       "Because 10 is a lucky number",
+       "So that the only difference between tests is the filter"
       ],
-      "a": 0,
+      "a": 2,
       "why": "In a fair test, only one thing changes. If one test had more seeds or more water, we could not tell whether a different result came from the filter or from the amount."
      },
      "context": "In this step you count the seeds and fold the cloths into layers."
@@ -1189,11 +1189,11 @@
       "t": "mcq",
       "q": "A filter with more layers catches more seeds but lets the water through more slowly. Why does a finer filter flow more slowly?",
       "options": [
-       "The gaps are narrower and longer, so water has a harder path",
        "The cloth is heavier",
-       "The seeds block the water"
+       "The seeds block the water",
+       "The gaps are narrower and longer, so water has a harder path"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Water has to squeeze through the gaps. When there are more layers, the gaps are narrower and the path is longer, so less water passes each second. The weight of the cloth and the seeds are not the main reason."
      },
      "context": "In this step you run Test 5 with two layers and Test 6 with four layers of tight cotton."
@@ -1646,11 +1646,11 @@
       "t": "mcq",
       "q": "Patient B's fever peaks on Monday, Wednesday and Friday. If the pattern goes on, when is the next peak?",
       "options": [
-       "Sunday",
        "Saturday",
-       "Tuesday"
+       "Tuesday",
+       "Sunday"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The peaks are two days apart: Monday, Wednesday, Friday. The next one is two days after Friday, which is Sunday. Saturday is a low day."
      },
      "context": "In this step you draw the three fever charts."
@@ -1780,11 +1780,11 @@
       "t": "mcq",
       "q": "Two thirds of the eggs pass Gate 1, half pass Gate 2, one third pass Gate 3, and half pass Gate 4. Why do so few reach the end?",
       "options": [
-       "Each gate removes a share, and the shares multiply",
        "The die is unfair",
-       "Gate 4 is the hardest"
+       "Gate 4 is the hardest",
+       "Each gate removes a share, and the shares multiply"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Each gate loses some of the eggs that reach it, and what is left must pass the next gate. Two thirds of a half of a third of a half is one eighteenth. So only about 2 of 36 come out. No single gate is to blame."
      },
      "context": "In this step you roll the die and send the eggs through the four gates."
@@ -1967,11 +1967,11 @@
       "t": "mcq",
       "q": "A family uses only a cloth over their pot. Which of these will it NOT remove?",
       "options": [
-       "Bacteria that cause typhoid",
        "Copepods that carry Guinea worm",
-       "Grit from the tank"
+       "Grit from the tank",
+       "Bacteria that cause typhoid"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A cloth holds back things bigger than its gaps, such as copepods and grit. Bacteria are far smaller than the gaps, so they pass through. For bacteria the water must be boiled or treated."
      },
      "context": "In this step you read how your filter works."
@@ -2157,11 +2157,11 @@
       "t": "mcq",
       "q": "A filter catches every seed but takes ten minutes for a litre. What should the designer change?",
       "options": [
-       "Use fewer layers or a bigger area of cloth, and test again",
        "Add more layers",
-       "Give up the idea of filtering"
+       "Give up the idea of filtering",
+       "Use fewer layers or a bigger area of cloth, and test again"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A filter must catch the seeds and also pass water fast enough. Fewer layers or a bigger area lets the water through faster. More layers would make it even slower."
      },
      "context": "In this step you count the seeds that got through and check both rules."
@@ -2275,11 +2275,11 @@
      "t": "mcq",
      "p": "What is an intermediate host?",
      "opts": [
-      "A host where a young stage of a parasite grows, but where the parasite does not become an adult",
       "The host where the parasite becomes an adult and lays eggs",
+      "A host where a young stage of a parasite grows, but where the parasite does not become an adult",
       "A carrier that moves the parasite and does not get ill herself"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The final host is where the adult lives and makes eggs, and a vector carries a parasite from one host to the next. An intermediate host is where a young stage grows."
     },
     {
@@ -2407,11 +2407,11 @@
      "t": "mcq",
      "p": "Which of these is a vector?",
      "opts": [
-      "A mosquito that carries the malaria parasite from one person to another",
       "The person who has malaria",
+      "A mosquito that carries the malaria parasite from one person to another",
       "The malaria parasite herself"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A vector carries a parasite or a germ between hosts. The mosquito does this for malaria. The person is the host, and the malaria parasite is the parasite, so neither is a vector."
     },
     {
@@ -2432,11 +2432,11 @@
      "t": "mcq",
      "p": "Why does a parasite that must pass through several hosts lay so many eggs?",
      "opts": [
-      "Most are lost at one stage or another, so only a few make it",
       "She wants to fill the host",
-      "More eggs make the host stronger"
+      "More eggs make the host stronger",
+      "Most are lost at one stage or another, so only a few make it"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The odds at each stage multiply, so very few eggs finish the whole journey. Out of thousands of eggs, only a few become adults."
     },
     {
@@ -2473,11 +2473,11 @@
      "t": "mcq",
      "p": "Which habit protects a family from tapeworm eggs?",
      "opts": [
-      "Washing hands with soap after the toilet and washing vegetables well",
       "Eating only vegetables",
+      "Washing hands with soap after the toilet and washing vegetables well",
       "Wearing chappals indoors"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Eggs pass on hands, in food and in water, to anyone. Washing hands and vegetables protects everyone, whatever they eat."
     }
    ]
@@ -2510,11 +2510,11 @@
      "t": "mcq",
      "p": "Two layers of tight cotton caught all the seeds and took 100 seconds for 100 millilitres. Four layers caught all the seeds and took more than 180 seconds. For a village that must filter a lot of water, which is the better choice?",
      "opts": [
-      "Two layers, because it protects just as well and is faster",
       "Four layers, because more layers are always better",
+      "Two layers, because it protects just as well and is faster",
       "Neither, because cloth cannot filter"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Both caught every seed, so the protection was the same. The two-layer filter was faster. More layers cost time and added no protection in this test.",
      "how": "e1"
     },
@@ -2573,11 +2573,11 @@
      "t": "mcq",
      "p": "A person was treated for vivax malaria, felt well for months, and then had fever again. What is the most likely reason?",
      "opts": [
-      "A sleeping stage of the parasite in the liver woke up",
       "The mosquito bit her through the net",
-      "The medicine had become a poison"
+      "The medicine had become a poison",
+      "A sleeping stage of the parasite in the liver woke up"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Vivax malaria has a sleeping stage in the liver, which can wake weeks or months later and cause a relapse."
     },
     {
@@ -2590,11 +2590,11 @@
      "t": "mcq",
      "p": "One child in a family has scabies. What best stops it spreading in the family?",
      "opts": [
-      "Treat the whole household on the same day",
       "Wash only the sick child's hands",
+      "Treat the whole household on the same day",
       "Wait to see whether anyone else itches"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Mites can reach other people before their own itch starts, because the itch begins weeks after the first infection. Treating everyone together stops the mites going round again."
     },
     {
@@ -2636,11 +2636,11 @@
      "t": "mcq",
      "p": "A mosquito net protects a sleeper from malaria and filaria. Which link in the journey does it cut?",
      "opts": [
-      "The bite of the mosquito",
       "The birth of the mosquito",
+      "The bite of the mosquito",
       "The medicine of the sleeper"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A net stops the mosquito reaching the skin, so no parasite is picked up and none is passed on."
     },
     {
@@ -2665,11 +2665,11 @@
      "t": "mcq",
      "p": "How could scientists find out that filaria larvae develop inside mosquitoes?",
      "opts": [
-      "Let mosquitoes feed on a patient's blood, then cut some open at different times and look",
       "Ask the mosquitoes",
-      "Look at a patient's foot"
+      "Look at a patient's foot",
+      "Let mosquitoes feed on a patient's blood, then cut some open at different times and look"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Looking inside mosquitoes on different days shows the stages growing. That is how Patrick Manson found the worms growing inside mosquitoes, and how George Low found them in the mouthparts."
     },
     {
@@ -2709,11 +2709,11 @@
      "t": "mcq",
      "p": "Guinea worm has almost been wiped out, but malaria has not. Which fact makes the Guinea worm easier to wipe out?",
      "opts": [
-      "A person with the worm shows a visible blister, and the journey needs drinking water, so every case can be found and every pond treated",
       "The Guinea worm is much more dangerous",
+      "A person with the worm shows a visible blister, and the journey needs drinking water, so every case can be found and every pond treated",
       "Mosquitoes carry the Guinea worm"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Every case shows itself as a blister, and the only way to catch the worm is to drink the water with copepods. That lets health workers find cases and cut the journey."
     },
     {
@@ -2750,11 +2750,11 @@
      "t": "mcq",
      "p": "Everyone at risk in a district takes filaria tablets each year. In the first year, a scientist finds baby worms in the blood of 120 of 1,000 people tested. After five years, she finds them in 3 of 1,000. What does this show?",
      "opts": [
-      "The programme is working, with about 40 times fewer people carrying baby worms",
       "The programme has failed",
-      "The tablets made more worms"
+      "The tablets made more worms",
+      "The programme is working, with about 40 times fewer people carrying baby worms"
      ],
-     "a": 0,
+     "a": 2,
      "why": "120 divided by 3 is 40. The number of people carrying baby worms fell about 40 times, so fewer mosquitoes pick them up."
     },
     {
@@ -2834,11 +2834,11 @@
      "t": "mcq",
      "p": "A liver fluke lives in the cows of a village. Why might treating the cows also protect the people?",
      "opts": [
-      "Fewer fluke eggs reach the ponds, so fewer snails and fewer plants carry the cysts",
       "Cows breathe out the medicine",
+      "Fewer fluke eggs reach the ponds, so fewer snails and fewer plants carry the cysts",
       "People eat the cows"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Treated cows lay fewer eggs, so fewer snails are infected and fewer plants carry cysts. People who eat raw water plants then have less chance of meeting the fluke."
     },
     {
@@ -2855,11 +2855,11 @@
    "t": "mcq",
    "p": "In which host does a parasite become an adult and make eggs?",
    "opts": [
-    "The final host",
     "The intermediate host",
-    "The vector"
+    "The vector",
+    "The final host"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The final host holds the adult. An intermediate host holds a young stage, and a vector carries the parasite between hosts.",
    "outcome": 0
   },
@@ -2879,11 +2879,11 @@
    "t": "mcq",
    "p": "Two steps helped to stop the Guinea worm in villages. Which pair is right?",
    "opts": [
-    "Filtering drinking water through cloth, and keeping an infected foot out of the water",
     "Wearing chappals, and washing vegetables",
+    "Filtering drinking water through cloth, and keeping an infected foot out of the water",
     "Sleeping under a net, and emptying drains"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A cloth holds back the copepods that carry the young worms, and keeping an infected foot out of the water stops the larvae from being let out. Chappals and nets work against other parasites.",
    "outcome": 1
   },
@@ -2904,11 +2904,11 @@
    "t": "mcq",
    "p": "Which of these will a cloth over a pot NOT remove from water?",
    "opts": [
-    "Bacteria that cause typhoid",
     "Copepods",
-    "Grit"
+    "Grit",
+    "Bacteria that cause typhoid"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A cloth holds back things bigger than its gaps. Bacteria are far smaller than the gaps and pass through, so the water must be boiled or treated for them.",
    "outcome": 2
   },
@@ -2928,11 +2928,11 @@
    "t": "mcq",
    "p": "Why does the fever of malaria come in waves?",
    "opts": [
-    "Parasites burst out of red blood cells at about the same time, again and again",
     "The mosquito bites every second day",
-    "The medicine wears off every second day"
+    "The medicine wears off every second day",
+    "Parasites burst out of red blood cells at about the same time, again and again"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Parasites multiply together inside red blood cells, and burst out at about the same time. Each burst brings a wave of fever.",
    "outcome": 4
   },
@@ -2952,11 +2952,11 @@
    "t": "mcq",
    "p": "Which habit breaks the journey of tapeworm eggs from hands to mouths?",
    "opts": [
-    "Washing hands with soap after the toilet",
     "Sleeping under a net",
-    "Wearing a hat"
+    "Wearing a hat",
+    "Washing hands with soap after the toilet"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Tapeworm eggs can pass on hands and food. Soap after the toilet and before cooking cuts that link. A net and a hat do not.",
    "outcome": 5
   },
@@ -2964,11 +2964,11 @@
    "t": "mcq",
    "p": "Cooking water plants breaks the journey of which parasite?",
    "opts": [
-    "The liver fluke",
     "The scabies mite",
+    "The liver fluke",
     "The head louse"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The liver fluke forms tough cysts on water plants, which heat kills. Mites and lice live on bodies, not on plants.",
    "outcome": 5
   },
@@ -3001,11 +3001,11 @@
    "t": "mcq",
    "p": "In 1900, George Low found young worms in the mouthparts of mosquitoes. What did this show about how people catch filaria?",
    "opts": [
-    "The worms enter the skin when a mosquito bites",
     "The worms come from drinking water",
-    "The worms come from the air"
+    "The worms come from the air",
+    "The worms enter the skin when a mosquito bites"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Young worms in the mouthparts are ready to slip into the skin at a bite. That showed that the earlier idea, that people drink the worms in water, was wrong.",
    "outcome": 7
   }
@@ -3369,6 +3369,124 @@
    "used_in": [
     "e2"
    ]
+  },
+  {
+   "id": "b-a-digital-stopwatch--optiona",
+   "item": "A digital stopwatch (optional)",
+   "kind": "tool",
+   "why": "Used in The Sari Filter Test: how many layers of cloth does it take to catch a pretend copepod?. About ₹150 to ₹400. A phone stopwatch works well.",
+   "url": "https://www.amazon.in/s?k=digital+stopwatch",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before The Sari Filter Test: how many layers of cloth does it take to catch a pretend copepod?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Wind a Worm: how long does a Guinea worm take to come out?, Fever Chart Detective: which chart looks like malaria?, Make a Life-Cycle Wheel. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "a1",
+    "a2",
+    "a4",
+    "p1"
+   ],
+   "plan": "Get it before Wind a Worm: how long does a Guinea worm take to come out?."
+  },
+  {
+   "id": "b-modelling-clay-or-plasticine",
+   "item": "Modelling clay or plasticine",
+   "kind": "material",
+   "why": "Used in Make a Life-Cycle Wheel, The Foot-Soaking Station. About ₹40 to ₹120. Atta dough mixed with a little salt works.",
+   "url": "https://www.amazon.in/s?k=modelling+clay+plasticine",
+   "used_in": [
+    "a4",
+    "c2"
+   ],
+   "plan": "Get it before Make a Life-Cycle Wheel."
+  },
+  {
+   "id": "b-food-colour",
+   "item": "Food colour",
+   "kind": "material",
+   "why": "Used in The Sari Filter Test: how many layers of cloth does it take to catch a pretend copepod?. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it.",
+   "url": "https://www.amazon.in/s?k=food+colour+liquid",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before The Sari Filter Test: how many layers of cloth does it take to catch a pretend copepod?."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in A Comic of a Journey: tell a parasite's story in twelve panels. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before A Comic of a Journey: tell a parasite's story in twelve panels."
+  },
+  {
+   "id": "b-wooden-ice-cream-sticks--a-p",
+   "item": "Wooden ice-cream sticks (a pack)",
+   "kind": "material",
+   "why": "Used in Wind a Worm: how long does a Guinea worm take to come out?. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in.",
+   "url": "https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Get it before Wind a Worm: how long does a Guinea worm take to come out?."
+  },
+  {
+   "id": "b-clean-sand--a-small-bag",
+   "item": "Clean sand (a small bag)",
+   "kind": "material",
+   "why": "Used in The Foot-Soaking Station. About ₹20 to ₹60. Fine soil sieved from a pot works.",
+   "url": "https://www.amazon.in/s?k=play+sand+small+bag",
+   "used_in": [
+    "c2"
+   ],
+   "plan": "Get it before The Foot-Soaking Station."
+  },
+  {
+   "id": "b-a-measuring-jug-or-syringe--",
+   "item": "A measuring jug or syringe (marked in millilitres)",
+   "kind": "tool",
+   "why": "Used in The Sari Filter Test: how many layers of cloth does it take to catch a pretend copepod?. About ₹30 to ₹100. A clean medicine cup or marked bottle works.",
+   "url": "https://www.amazon.in/s?k=measuring+jug+500+ml",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before The Sari Filter Test: how many layers of cloth does it take to catch a pretend copepod?."
+  },
+  {
+   "id": "b-graph-paper",
+   "item": "Graph paper",
+   "kind": "material",
+   "why": "Used in Fever Chart Detective: which chart looks like malaria?. About ₹10 to ₹30. Draw squares on plain paper.",
+   "url": "https://www.amazon.in/s?k=graph+paper+notebook",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Get it before Fever Chart Detective: which chart looks like malaria?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

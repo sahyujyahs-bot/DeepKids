@@ -1,9 +1,9 @@
 # Antibodies, allergies and HIV: how the defence remembers, and three ways it goes wrong
 `sci.body.immune-system.L5`
 
-**Summary.** A doctor can take one drop of your blood and tell which germs you met years ago. How can blood hold a record? In this unit you will run a colour test on three pretend patients to measure how much antibody each one has, and find out why a test can miss a new infection. You will stroke your arm to wake the cells that cause allergies, count who lived and died in Boston in 1721, and model what HIV does to helper T cells. You will also learn why the defence sometimes attacks harmless food, or the body itself.
+**Summary.** A doctor can take one drop of your blood and tell which germs you met years ago. How can blood hold a record? In this lesson you will run a colour test on three pretend patients to measure how much antibody each one has, and find out why a test can miss a new infection. You will stroke your arm to wake the cells that cause allergies, count who lived and died in Boston in 1721, and model what HIV does to helper T cells. You will also learn why the defence sometimes attacks harmless food, or the body itself.
 
-**Intro.** *A mosquito bites you and flies away. Ten minutes later a bump rises and itches. The mosquito has gone, so who made the bump?* Your own body made the bump. A mosquito leaves a little saliva in your skin. Your immune system has met that saliva before, and it has made antibodies against it. Antibodies are tiny Y-shaped proteins that fit one target and nothing else. The bump and the itch are your body answering the saliva. A baby who is bitten for the very first time usually gets no bump at all, because the baby's body has no record of mosquito saliva yet. So a bump is a sign that your body remembers. In this unit you will find out how the body keeps that record, how doctors read it, and what happens when the defence answers the wrong thing.
+**Intro.** *A mosquito bites you and flies away. Ten minutes later a bump rises and itches. The mosquito has gone, so who made the bump?* Your own body made the bump. A mosquito leaves a little saliva in your skin. Your immune system has met that saliva before, and it has made antibodies against it. Antibodies are tiny Y-shaped proteins that fit one target and nothing else. The bump and the itch are your body answering the saliva. A baby who is bitten for the very first time usually gets no bump at all, because the baby's body has no record of mosquito saliva yet. So a bump is a sign that your body remembers. In this lesson you will find out how the body keeps that record, how doctors read it, and what happens when the defence answers the wrong thing.
 
 ## Learning outcomes
 0. I can describe the shape of an antibody and name three things antibodies do to a germ.
@@ -68,7 +68,7 @@ When a B cell's antibody fits an antigen, and a helper T cell gives the signal, 
 Many blood tests for infections look for antibodies. The test has pieces of the germ fixed to a plate or a strip. A drop of the person's blood serum is added. Serum is the clear yellowish liquid part of blood. If the serum holds antibodies that fit, they stick. A second chemical then makes a colour appear. Colour means that antibodies are there. To measure how much antibody there is, the serum is diluted step by step, and each step is tested. The weakest dilution that still gives colour is called the titre. A high titre means a lot of antibody. This kind of test has a weakness. After a first infection, the body needs time to make antibodies. For one to three weeks there are too few to find. With HIV, most tests cannot find antibodies until some weeks after infection, and a few people take up to three months. This gap is called the window period. A person in the window period has the virus and can pass them on, but the test says no. That is why a test is repeated later. A test that looks for the germ's own genes can find an infection sooner.
 - e.g. The ELISA test that found the first HIV cases in India in 1986 showed a yellow colour where antibodies were present.
 - e.g. Before a child gets some vaccines again, a doctor can measure the titre to see whether the first dose still protects.
-- e.g. Blood banks in India test every unit of donated blood for HIV, hepatitis B and hepatitis C.
+- e.g. Blood banks in India test every lesson of donated blood for HIV, hepatitis B and hepatitis C.
 ### Five classes of antibody for five kinds of job · *defined*
 **Definition:** Humans make five classes of antibody, called IgM, IgG, IgA, IgE and IgD. The tips can be the same while the stem differs, and the stem decides where the antibody goes and what happens next.
 
@@ -120,6 +120,11 @@ HIV passes from one person to another in only a few ways. The virus travels in b
 - e.g. In 2023, about 25 lakh people in India were living with HIV.
 - e.g. Hospitals use a new sterile needle for every injection, so that no blood passes between patients.
 - e.g. A pregnant woman in India is offered an HIV test, so that treatment can protect her baby.
+### Preventing HIV: what stops it passing on · *defined*
+**Definition:** Preventing HIV means stopping the virus from getting from one person's blood or body fluids into another person's body.
+
+Condoms protect during sex between grown-ups, because they keep body fluids from passing from one partner to the other. A new, single-use needle is used for each injection, so that no blood passes from one person to another. Blood for a transfusion is tested for HIV before it is given, so a patient does not catch the virus from a donor. A free HIV test is given in government hospitals, so a person can know early and start treatment. Early treatment also protects a partner, as explained above.
+- e.g. A blood bank tests every unit of donated blood for HIV before a patient receives it.
 ### Onesimus, the tikadars and Jenner: protection before anyone knew of antibodies · *defined*
 **Definition:** Inoculation meant putting a little matter from a smallpox blister into a scratch on a healthy person. The person usually had a mild illness and was then protected for life. People in Africa, India, China and Turkey did this long before Europe did.
 
@@ -609,10 +614,10 @@ In 2016 a reporter came to her home and wrote her story down at last. Nirmala ha
 10. (sort) Is each of these an allergy or an autoimmune disease?  
    **Answer:** hay fever → Allergy; type 1 diabetes → Autoimmune disease; a reaction to peanuts → Allergy; coeliac disease → Autoimmune disease; a reaction to dust mites → Allergy; rheumatoid arthritis → Autoimmune disease. *Why:* In an allergy the target is a harmless thing from outside. In an autoimmune disease the target is part of the person's own body.
 11. (mcq) Which cells does HIV infect and destroy?  
-   Options: Red blood cells / Helper T cells / Skin cells  
+   Options: Red blood cells / Skin cells / Helper T cells  
    **Answer:** Helper T cells. *Why:* HIV fits a molecule called CD4 on helper T cells. These cells switch the rest of the defence on, so losing them weakens everything.
 12. (mcq) Which of these can pass HIV from one person to another?  
-   Options: A mosquito bite / Sharing a tumbler / A reused injection needle  
+   Options: A mosquito bite / A reused injection needle / Sharing a tumbler  
    **Answer:** A reused injection needle. *Why:* HIV passes in blood, so a reused needle can carry the virus. HIV does not pass through shared tumblers or mosquitoes.
 13. (write) One antibody lasts only weeks. Explain how a person still has measles antibodies fifty years after measles.  
    **Answer:** Some plasma cells live in the bone marrow for many years. They keep making fresh measles antibodies all the time, to replace the ones that are broken down.. *Why:* A strong answer says that long-lived plasma cells keep making new antibodies. The antibodies themselves are not fifty years old.
@@ -620,9 +625,9 @@ In 2016 a reporter came to her home and wrote her story down at last. Nirmala ha
    **Answer:** A Y shape with one germ at each tip. The tips are labelled as the parts that fit the antigen. The stem is labelled as the part that phagocytes grip.. *Why:* A strong drawing shows that both tips are the same and that one antibody can join two germs.
 15. (write) After a bee sting, a friend's throat swells and she struggles to breathe. What must happen at once?  
    **Answer:** This is anaphylaxis, which is an emergency. A grown-up must be told at once. She needs an adrenaline injection if she carries one, and an ambulance to hospital. In India, call 108 or 112.. *Why:* A strong answer names it as an emergency and says adrenaline and hospital. Waiting to see if it passes is dangerous.
-### Classes of antibody, the thymus and HIV (stretch) (stretch, 15 questions)
+### Classes of antibody, the thymus and HIV (stretch) (stretch, 16 questions)
 1. (mcq) Why does an antibody have two matching tips?  
-   Options: To fit two different kinds of germ / To cut a germ in half / To hold two germs, or one germ twice  
+   Options: To fit two different kinds of germ / To hold two germs, or one germ twice / To cut a germ in half  
    **Answer:** To hold two germs, or one germ twice. *Why:* Two matching tips let one antibody join two germs into a clump, or grip one germ firmly in two places. The tips are the same, so they fit the same antigen.
 2. (truefalse) True or false: a B cell can keep the same antibody tips and change the stem.  
    **Answer:** True. *Why:* True. The tips decide what the antibody fits. The stem decides where it goes and what happens next. Changing the stem turns IgM into IgG, IgA or IgE with the same fit.
@@ -631,12 +636,12 @@ In 2016 a reporter came to her home and wrote her story down at last. Nirmala ha
 4. (order) Put the steps of an allergy in order.  
    **Answer:** ['The body meets the allergen for the first time', 'B cells make IgE that fits the allergen', 'The IgE settles on mast cells', 'The allergen comes again and links two IgE antibodies', 'The mast cell releases histamine']. *Why:* An allergy needs two meetings. The first prepares the mast cells. The second sets them off.
 5. (mcq) What does histamine do to small blood vessels?  
-   Options: Makes them wider and leaky / Makes them narrower / Blocks them completely  
+   Options: Makes them narrower / Blocks them completely / Makes them wider and leaky  
    **Answer:** Makes them wider and leaky. *Why:* Histamine widens small blood vessels and makes them leaky, so fluid moves into the skin or the nose lining. That gives redness, swelling and a runny nose.
 6. (fill) Young T cells are tested in the ____, a soft organ behind the breastbone.  
    **Answer:** ['thymus']. *Why:* The thymus shows young T cells samples of the body's own proteins and removes the T cells who would attack them.
 7. (mcq) What happens in the thymus to a young T cell whose receptor fits a body protein strongly?  
-   Options: That T cell becomes a B cell / That T cell is removed / That T cell is copied many times  
+   Options: That T cell becomes a B cell / That T cell is copied many times / That T cell is removed  
    **Answer:** That T cell is removed. *Why:* A T cell who fits the body would attack the body, so the thymus gives that cell a signal to die. Choosing 'copied' is what happens later to a T cell who fits a germ.
 8. (sort) Can HIV pass from one person to another in this way?  
    **Answer:** blood on a reused needle → Yes; from a mother to her baby, with no treatment → Yes; hugging → No; sharing food → No; a mosquito bite → No; coughing → No. *Why:* HIV passes in blood, in sex between grown-ups, and from mother to baby. The virus does not pass through skin, food, air or mosquitoes.
@@ -647,7 +652,7 @@ In 2016 a reporter came to her home and wrote her story down at last. Nirmala ha
 11. (truefalse) True or false: HIV medicines remove every virus from the body.  
    **Answer:** False. *Why:* False. The medicines stop HIV from copying. HIV DNA stays hidden inside resting cells, so the virus returns if the medicines are stopped.
 12. (mcq) Why are three HIV medicines given together?  
-   Options: Each one treats a different illness / One tablet is too small to work / A virus resisting all three is very unlikely  
+   Options: Each one treats a different illness / A virus resisting all three is very unlikely / One tablet is too small to work  
    **Answer:** A virus resisting all three is very unlikely. *Why:* HIV changes fast, so a virus who resists one medicine soon appears. A virus who resists three different medicines at once is very unlikely.
 13. (draw) Sketch a line graph of helper T cells over ten years of HIV. Add a second line with medicine.  
    **Answer:** The first line falls slowly from a high start towards a low level over about ten years. The second line falls at first, then rises again from the year the medicine starts.. *Why:* A strong sketch shows a slow fall over years, not a sudden drop, and shows that medicine lets the count recover.
@@ -656,9 +661,11 @@ In 2016 a reporter came to her home and wrote her story down at last. Nirmala ha
 15. (mcq) Why was cowpox a safer way to protect people than smallpox inoculation?  
    Options: Cowpox is a mild disease in humans / Cowpox viruses have no antigens / Cows never fall ill  
    **Answer:** Cowpox is a mild disease in humans. *Why:* Cowpox virus is closely related to smallpox virus, so antibodies against one fit the other. But cowpox is mild in humans, so nobody died of the protection. Inoculation used real smallpox, and a few people died of it.
+16. (match) Match each protection to the way HIV would otherwise pass.  
+   **Answer:** a condom → body fluids passing between partners in sex; a single-use needle → blood left in a needle used by another person; tested blood for a transfusion → HIV passing from a donor to a patient; a free HIV test → HIV going unnoticed, so treatment starts late. *Why:* Each protection blocks one way that the blood or body fluids of one person could reach another. An early test lets treatment start sooner.
 ### Atoms, evidence and open arguments (challenge) (challenge, 15 questions)
 1. (mcq) How does the tip of an antibody hold an antigen?  
-   Options: By tiny hooks that pierce it / By many weak attractions between atoms / By one strong chemical bond  
+   Options: By tiny hooks that pierce it / By one strong chemical bond / By many weak attractions between atoms  
    **Answer:** By many weak attractions between atoms. *Why:* Many weak attractions act together where the shapes and electric charges match. No strong bond forms, which is why a close fit matters and why the antibody can let go.
 2. (write) Explain why a molecule of slightly the wrong shape does not stay on an antibody's tip.  
    **Answer:** The wrong shape touches the tip at only a few points. A few weak attractions are not enough to hold against the moving water around them, so the molecule drifts away.. *Why:* A strong answer says that the hold comes from many weak attractions together, and that a poor fit gives too few of them.
@@ -687,7 +694,7 @@ In 2016 a reporter came to her home and wrote her story down at last. Nirmala ha
 13. (draw) Draw a mast cell before and after an allergen links two IgE antibodies. Label IgE, allergen and histamine.  
    **Answer:** Before: a round cell full of dots, with Y shapes standing on the surface. After: one allergen touching the tips of two Y shapes, and dots leaving the cell. The Y shapes are labelled IgE and the dots are labelled histamine.. *Why:* A strong drawing shows one allergen joining two IgE antibodies, because that link is what sets the mast cell off.
 14. (mcq) One of eight samples is positive. You mix four and test the mixture. What does the result tell you?  
-   Options: Nothing useful at all / Which half holds the positive sample / Exactly which sample is positive  
+   Options: Nothing useful at all / Exactly which sample is positive / Which half holds the positive sample  
    **Answer:** Which half holds the positive sample. *Why:* If the mixture is positive, the positive sample is one of those four. If it is negative, it is one of the other four. One test has halved the search.
 15. (truefalse) True or false: a person whose HIV is too low to measure does not pass HIV on through sex.  
    **Answer:** True. *Why:* True. Studies of thousands of couples found no case of HIV passing from a partner whose virus was too low to measure. People say 'undetectable equals untransmittable'.
@@ -695,7 +702,7 @@ In 2016 a reporter came to her home and wrote her story down at last. Nirmala ha
 ## Videos
 - **How does your immune system work? - Emma Bryce** (TED-Ed, 5 min) id `PSRJfaAYkW4`: To see B cells, T cells and antibodies at work in one infection, drawn as a cartoon. Watch it after the Titre Test, when the word antibody already means something. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it. It is made for older children and grown-ups, so pause and explain where needed.
 - **Why do people have seasonal allergies? - Eleanor Nelsen** (TED-Ed, 5 min) id `-q7Fz7NIMWM`: To see pollen meet the immune system, and antibodies set off the release of histamine. It also gives two ideas about why allergies exist. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it. Its examples are from North America, so the plants and seasons differ from India's.
-- **Why it’s so hard to cure HIV/AIDS - Janet Iwasa** (TED-Ed, 5 min) id `0TipTogQT3E`: To see how HIV enters helper T cells, joins the cell's DNA and hides, and why medicines hold the virus back but do not cure. It speaks plainly about how HIV passes between people. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it first and decide whether it suits their child. It was made in 2015, so the numbers in it are older than the numbers in this unit.
+- **Why it’s so hard to cure HIV/AIDS - Janet Iwasa** (TED-Ed, 5 min) id `0TipTogQT3E`: To see how HIV enters helper T cells, joins the cell's DNA and hides, and why medicines hold the virus back but do not cure. It speaks plainly about how HIV passes between people. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it first and decide whether it suits their child. It was made in 2015, so the numbers in it are older than the numbers in this lesson.
 
 ## Quiz
 1. (mcq) Which part of an antibody fits the antigen?  
@@ -705,10 +712,10 @@ In 2016 a reporter came to her home and wrote her story down at last. Nirmala ha
    Options: A lump cannot spread, and is swallowed whole / A lump is squeezed until the germs die / A lump turns into more antibodies  
    **Answer:** A lump cannot spread, and is swallowed whole. *Why:* Clumped germs cannot spread through the body, and one phagocyte can swallow the whole clump. Antibodies do not squeeze or kill.
 3. (mcq) Which cells keep releasing antibodies for years after an infection is over?  
-   Options: Mast cells in the skin / Plasma cells in the bone marrow / Red blood cells  
+   Options: Plasma cells in the bone marrow / Mast cells in the skin / Red blood cells  
    **Answer:** Plasma cells in the bone marrow. *Why:* Long-lived plasma cells in the bone marrow keep making fresh antibodies. Mast cells hold IgE on their surface but do not make antibodies.
 4. (mcq) What does an antibody test look for in a person's blood?  
-   Options: The living germ / Damaged red blood cells / Antibodies the body made against the germ  
+   Options: The living germ / Antibodies the body made against the germ / Damaged red blood cells  
    **Answer:** Antibodies the body made against the germ. *Why:* The test finds the body's answer to the germ. That is why it can show an infection from long ago, and why it can miss one from last week.
 5. (truefalse) True or false: a negative antibody test always means that the person has no infection.  
    **Answer:** False. *Why:* False. In the first weeks the body has not yet made enough antibody to find. This is the window period, so the test is repeated later.
@@ -716,10 +723,10 @@ In 2016 a reporter came to her home and wrote her story down at last. Nirmala ha
    Options: IgE / IgG / IgA  
    **Answer:** IgE. *Why:* IgE fixes its stem to mast cells. IgG is the main antibody in blood, and IgA is in tears, spit and milk.
 7. (mcq) Why does a baby's first mosquito bite usually leave no bump?  
-   Options: Babies have no mast cells / The baby has no IgE against saliva yet / Mosquito saliva cannot enter a baby's skin  
+   Options: Babies have no mast cells / Mosquito saliva cannot enter a baby's skin / The baby has no IgE against saliva yet  
    **Answer:** The baby has no IgE against saliva yet. *Why:* A bump is the body's answer to mosquito saliva, and it needs IgE made after an earlier bite. At the first bite there is none yet.
 8. (mcq) In an autoimmune disease, what does the immune system attack?  
-   Options: A harmless food or pollen / A virus hiding in the body / Part of the person's own body  
+   Options: Part of the person's own body / A harmless food or pollen / A virus hiding in the body  
    **Answer:** Part of the person's own body. *Why:* 'Auto' means self. The defence attacks the person's own cells, such as the insulin-making cells in type 1 diabetes. Choosing 'a harmless food' describes an allergy.
 9. (mcq) How do antiretroviral medicines help a person with HIV?  
    Options: They stop the virus from copying / They remove every virus in a week / They are helper T cells in a tablet  
@@ -730,11 +737,14 @@ In 2016 a reporter came to her home and wrote her story down at last. Nirmala ha
    Options: The dose used up all the smallpox nearby / The body kept memory cells and antibodies / The scratch let the illness out  
    **Answer:** The body kept memory cells and antibodies. *Why:* The body answered the small dose and kept plasma cells and memory cells against smallpox. The healers who did this did not know about these cells, but they knew that it worked.
 12. (mcq) 844 of 5,759 people died in one group, and 6 of 247 in another. What is the fair comparison?  
-   Options: The two numbers of deaths / The two sizes of the groups / Deaths out of every 100 in each group  
+   Options: The two numbers of deaths / Deaths out of every 100 in each group / The two sizes of the groups  
    **Answer:** Deaths out of every 100 in each group. *Why:* The groups are very different in size, so the counts cannot be compared directly. Working out deaths in every 100 gives about 15 and about 2.
+13. (mcq) Which of these stops HIV passing through blood from one person to another?  
+   Options: Washing the tumbler after a friend uses it / Using a new, single-use needle every time / Wearing a mask in class  
+   **Answer:** Using a new, single-use needle every time. *Why:* A single-use needle carries no blood from another person. Washing a tumbler and wearing a mask do nothing against HIV, because HIV does not pass through a tumbler or the air.
 
 ## Applications
-- Blood banks in India test every unit of donated blood for HIV, hepatitis B and hepatitis C before anyone receives it.
+- Blood banks in India test every lesson of donated blood for HIV, hepatitis B and hepatitis C before anyone receives it.
 - Rapid test strips for dengue, malaria and pregnancy have antibodies fixed to the paper. A line appears where the antibodies catch what the test is looking for.
 - Before a blood transfusion, a laboratory mixes a drop of blood with antibodies. If the red cells clump, the blood group is known.
 - Snake antivenom is made of antibodies. Horses are given tiny, safe doses of venom, and the antibodies from their blood are given to people who have been bitten. Irula snake catchers near Chennai collect much of the venom used in India.
@@ -744,8 +754,8 @@ In 2016 a reporter came to her home and wrote her story down at last. Nirmala ha
 - A pregnant woman with HIV takes antiretroviral medicines, and her baby is very likely to be born without the virus.
 
 ## Spotted around us
-- The small round scar high on the left arm of most people in India. It is from the BCG vaccine against tuberculosis, given soon after birth.
-- The line 'Contains wheat, milk' on a biscuit packet in a provision shop in Coimbatore, Kochi or Indore.
+- The small round scar high on the left arm of most people. It is from the BCG vaccine against tuberculosis, given soon after birth.
+- The line 'Contains wheat, milk' on a biscuit packet in a provision shop.
 - A red ribbon pinned to a shirt or painted on a wall on 1 December, which is World AIDS Day.
 - A signboard for an ART centre or a testing and counselling centre at a government hospital, where HIV tests and medicines are free.
 - A test strip with two lines, after a dengue test or a home test. Antibodies fixed to the paper make the lines.
@@ -806,6 +816,12 @@ This Body Is a Universe (sci.body.L5): Topic-level song
 - [A pack of six dice](https://www.amazon.in/s?k=dice+set+six+sided) (material): For the Helper Count and Thymus School. A die from Ludo or Snakes and Ladders works, so you may not need to buy any. Used in a4, g2. 
 - [Optional: a pack of clothes pegs with springs](https://www.amazon.in/s?k=clothes+pegs+pack) (material): For Peg Antibodies, if you have fewer than sixteen pegs at home. Wooden or plastic pegs both work. Used in a2. 
 - [Optional book: 'Immune' by Philipp Dettmer](https://www.amazon.in/s?k=Immune+Philipp+Dettmer) (book): A large, colourful book about the immune system by the maker of the Kurzgesagt videos. It is written for teenagers and grown-ups, and the pictures work for a child of nine or ten with a parent. Used in e1, g1. After the Titre Test, look at the pictures of antibodies and B cells together. After the game Right Target, Wrong Target or Too Weak?, read the chapters on allergy and autoimmune disease aloud, a few pages at a time.
+- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): Used in The Label Hunt: find the allergens in your kitchen. About ₹30 to ₹120. A water drop on clear plastic magnifies a little. Used in a5. Get it before The Label Hunt: find the allergens in your kitchen.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Red Line Test: what does your skin do after one firm stroke?, The Bite Survey: who makes the biggest mosquito bump?, Boylston's Count: was inoculation safer than catching smallpox?. About ₹10 to ₹30. Any school ruler is fine. Used in e2, a1, a3, a4. Get it before The Red Line Test: what does your skin do after one firm stroke?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Hugs Are Safe: a true-or-false poster about how HIV spreads. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in p1. Get it before Hugs Are Safe: a true-or-false poster about how HIV spreads.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Helper Count: a bean model of HIV, with and without medicine. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a4. Get it before The Helper Count: a bean model of HIV, with and without medicine.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in Boylston's Count: was inoculation safer than catching smallpox?, The Helper Count: a bean model of HIV, with and without medicine. About ₹10 to ₹30. Draw squares on plain paper. Used in a3, a4. Get it before Boylston's Count: was inoculation safer than catching smallpox?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What shape is an antibody, and which part fits the antigen? → It is shaped like a Y. The two tips fit the antigen.
@@ -824,10 +840,10 @@ This Body Is a Universe (sci.body.L5): Topic-level song
 - Core: a1, e1, a2, g1, a4, ws-core
 
 ## Sources
-- DeepKids notebook items bio:26 (Immune system) and bio:240 to bio:246 (innate immunity, adaptive immunity, vaccines and memory, autoimmunity, immunodeficiency). The Class 4 unit left autoimmunity and immunodeficiency for Class 5, and this unit takes them, with antibodies and memory in more depth.
+- DeepKids notebook items bio:26 (Immune system) and bio:240 to bio:246 (innate immunity, adaptive immunity, vaccines and memory, autoimmunity, immunodeficiency). The Class 4 unit left autoimmunity and immunodeficiency for Class 5, and this lesson takes them, with antibodies and memory in more depth.
 - Combined lesson sci-C5-health-hygiene-exercise-and-illness: the subconcept 'spread by touch and blood: how HIV does and doesn't spread', used in the explanation on living with HIV and in the poster project. Its idea of testing a claim with counts is used in Boylston's Count. Its story was not reused.
 - ideas/by_topic/health-hygiene-exercise-and-illness.md: the SCI Cards for Gagandeep Kang, Soumya Swaminathan and Sunetra Gupta (Indian women in infection science, and germs that change shape to escape memory). The same thread is followed here through Suniti Solomon and Sellappan Nirmala, and through HIV's fast changes.
-- The Class 3 and Class 4 units sci.body.immune-system.L3 and L4, which this unit builds on. Their experiments, their stories of Metchnikoff and of Jenner's cowpox test, and the Key Shop model are not repeated.
+- The Class 3 and Class 4 units sci.body.immune-system.L3 and L4, which this lesson builds on. Their experiments, their stories of Metchnikoff and of Jenner's cowpox test, and the Key Shop model are not repeated.
 - Porter, R. R., 'The hydrolysis of rabbit gamma-globulin and antibodies with crystalline papain', Biochemical Journal 73, 1959 (the antibody cut into three pieces)
 - Amanna, I. J., Carlson, N. E. and Slifka, M. K., 'Duration of humoral immunity to common viral and vaccine antigens', New England Journal of Medicine 357, 2007
 - Yu, X. and others, 'Neutralizing antibodies derived from the B cells of 1918 influenza pandemic survivors', Nature 455, 2008

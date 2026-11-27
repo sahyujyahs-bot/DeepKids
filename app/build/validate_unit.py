@@ -45,6 +45,92 @@ def plain(u, P):
         walk(u.get(k, []))
     walk(u.get("roots", {}).get("practice", {}))
     if long_: W.append(f"{len(long_)} sentences may be hard to follow (child about 12 words, parent about 20; WRITING.md rule 2). Split each into two if it is hard, but never cut meaning for the count: " + " | ".join(long_[:3]))
+# The tired-parent test: what a script can measure about whether a parent can follow the text on one reading
+# (the rest is judged by the reviewer in app/content/REVIEW_BRIEF.md)
+def _syll(w):
+    w = re.sub(r"[^a-z]", "", w.lower())
+    return max(1, len(re.findall(r"[aeiouy]+", w)) - (1 if w.endswith("e") and not w.endswith(("le", "ee")) else 0))
+def _grade(t):
+    sen = [x for x in re.split(r"(?<=[.!?])\s+", t) if x.strip()]
+    words = re.findall(r"[A-Za-z']+", t)
+    if not sen or not words: return 0
+    return 0.39 * len(words) / len(sen) + 11.8 * sum(_syll(w) for w in words) / len(words) - 15.59
+JARGON = "relativity orbit galaxy microwave quantum neutrino tectonic eclipse spectrum electromagnetic instantaneous friction evaporation condensation photosynthesis chlorophyll nutrient habitat fossil mineral magnetism circuit conductor insulator vibration reflection refraction hypothesis mass energy atom atoms molecule molecules electron electrons proton neutron photon photons wavelength frequency velocity acceleration momentum inertia gravity density pressure particle particles nucleus organism evolution species ecosystem relativity spacetime vacuum plasma isotope radiation".split()
+OPENWORDS = {"energy": "energy", "time": "time", "space": "space", "life": "life|alive", "consciousness": "consciousness|awareness", "matter": "matter", "gravity": "gravity"}
+OPENSAY = re.compile(r"no (?:single |one |agreed |final |complete |settled )*(?:definition|answer)|nobody (?:knows|can say|has)|no one (?:knows|can say|has)|scientists (?:do not|don't|still|cannot|can't) (?:agree|know|say)|(?:still )?an open question|science (?:cannot|can't) (?:yet )?say|working (?:definition|meaning)|not (?:yet )?(?:known|understood|settled)|have no knowledge of what", re.I)
+ABSTRACT = re.compile(r"\b(?:gets? closer and closer|approach(?:es)?|tends? to|in the limit|the number that|as (?:the|it) [^.]{0,40}(?:shrinks|grows|gets) (?:smaller|larger|bigger))\b", re.I)
+VAGUE_PHRASE = re.compile(r"\b(?:more \w+ than there is|in some sense|sort of|something about|a bit like|and so on|and more)\b", re.I)
+ERA = re.compile(r"\b(?:about|around|in|since|by|from|until|written in)\s+(?:the year\s+)?(\d{3,4})\b(?!\s*(?:CE|BCE|AD|BC|kilo|metre|meter|centi|milli|years|days|hours|minutes|seconds|people|km|m\b|cm|kg|rupee|degrees|kinds|species|animals|plants|%))", re.I)
+def parent_test(u):
+    skip = ("story", "more_stories", "sources", "playtest", "art")
+    blocks = []
+    def walk(x, path="", top=""):
+        if isinstance(x, dict):
+            for k, v in x.items(): walk(v, path + "." + k if path else k, top or k)
+        elif isinstance(x, list):
+            for v in x: walk(v, path, top)
+        elif isinstance(x, str) and top not in skip and path.split(".")[-1] not in ("id", "art", "src", "youtube", "scene", "object", "t", "kind", "status", "tier", "math_unit", "url", "check"):
+            blocks.append((path, x))
+    walk(u)
+    hard, longs, eras = [], [], []
+    for path, t in blocks:
+        n = len(t.split())
+        if n >= 30 and _grade(t) > 10: hard.append((round(_grade(t), 1), path, t[:70]))
+        for sen in re.split(r"(?<=[.!?])\s+", t):
+            if len(sen.split()) > 26: longs.append((len(sen.split()), path, sen[:70]))
+        for m in ERA.finditer(t):
+            if 100 <= int(m.group(1)) <= 1500: eras.append(f"{path}: '{m.group(0)}' needs CE or BCE")
+    if hard: W.append(f"reads too hard for a tired parent ({len(hard)} passages above reading grade 10; aim for 8 or less). Rewrite in shorter, plainer sentences with a real example. Hardest: " + " | ".join(f"{g} {p}: {t}…" for g, p, t in sorted(hard, reverse=True)[:3]))
+    if longs: W.append(f"{len(longs)} sentences over 26 words in family text (the story is not counted). Split them. Longest: " + " | ".join(f"{p}: {t}…" for n, p, t in sorted(longs, reverse=True)[:3]))
+    if eras: W.append(f"{len(eras)} years with no era: " + " | ".join(eras[:3]))
+    # science words used but never explained: a parent cannot be assumed to know them (found in review: "light has no mass")
+    allt = " ".join(t for _, t in blocks).lower()
+    known = " ".join(str(x.get("term", "")) + " " + str(x.get("meaning", "")) for x in u.get("terms", []) if isinstance(x, dict)).lower()
+    unexplained = []
+    for w in JARGON:
+        base = w[:-1] if w.endswith("s") and not w.endswith("ss") else w
+        if base != w: continue   # the plural is checked through its singular
+        if re.search(r"\b" + w + r"s?\b", allt) and not re.search(r"\b" + w + r"s?\b", known) and not re.search(r"\b" + w + r"s?\b[^.]{0,25}\b(?:is|are|means|stands for)\b|\b(?:called|means)\b[^.]{0,30}\b" + w + r"\b|\b" + w + r"s?\b ?\(", allt):
+            unexplained.append(w)
+    if unexplained: W.append("science words used but never explained in plain words (add a term with an everyday example, or explain at first use): " + ", ".join(unexplained[:8]))
+    # an idea stated in the abstract with no numbers or scene beside it (found in review: "the number the average gets closer to")
+    abstract = []
+    for path, t in blocks:
+        if path.split(".")[0] in ("explanations", "agreed", "roots", "challenging", "big_questions") and ABSTRACT.search(t) and not re.search(r"\d", t):
+            abstract.append(f"{path}: {t[:60]}…")
+    if abstract: W.append(f"{len(abstract)} abstract statements with no example or numbers beside them (show it with a real scene and real numbers): " + " | ".join(abstract[:3]))
+    vagueph = [f"{p}: '{m.group(0)}'" for p, t in blocks for m in [VAGUE_PHRASE.search(t)] if m]
+    if vagueph: W.append("vague or empty phrases (say the real thing, with a number if there is one): " + " | ".join(vagueph[:4]))
+    # one idea per card: a long explanation is usually three ideas heaped into one (found in review of the speed unit)
+    heaped = [f"'{e.get('concept', '')[:50]}' ({len(e.get('description', '').split())} words)" for e in u.get("explanations", []) if len(e.get("description", "").split()) > 140]
+    if heaped: W.append("explanations that carry more than one idea (over 140 words): split each into cards that each make one point, in the order a learner needs them: " + " | ".join(heaped[:4]))
+    # the shopping list must cover what the hands-on parts need (found in review: one item for a unit with eleven hands-on parts)
+    hands = sum(len(u.get(k, [])) for k in FLOW)
+    if hands >= 4 and len(u.get("buy", [])) < 5: W.append(f"the shopping list has {len(u.get('buy', []))} items for {hands} hands-on parts: list everything a family may need to buy or find (tools, materials, printing), with ₹ prices and cheap alternatives (WRITER_BRIEF.md, `buy`)")
+    # words that sound defined but are not: a unit about one must say where science runs out (WRITER_BRIEF.md, principle 6)
+    central = (u.get("title", "") + " " + " ".join(e.get("concept", "") for e in u.get("explanations", []))).lower()
+    gapless = []
+    for w, forms in OPENWORDS.items():
+        if not re.search(r"\b(?:" + forms + r")\b", central): continue
+        if not any(re.search(r"\b(?:" + forms + r")\b", t, re.I) and OPENSAY.search(t) for _, blk in blocks for t in re.split(r"(?<=[.!?])\s+", blk)): gapless.append(w)
+    if gapless: W.append("this unit is about words that sound defined but are not: " + ", ".join(gapless) + ". Tell the child plainly how we use the word and what science cannot yet say (WRITER_BRIEF.md principle 6), and mark the explanation idea or debated.")
+    # a view's name must name someone: a person, a book, a school or a place, never a bare label like 'Everyday speech'
+    vague = []
+    for e in u.get("explanations", []):
+        for pv in e.get("perspectives", []): vague.append(pv.get("who", ""))
+    vague += [c.get("who", "") for c in u.get("challenging", [])]
+    vague = [w for w in vague if w and not re.search(r"\d|[A-Z][a-z]+|ists\b|ers\b|ians\b|ors\b|people|books|school|tradition|scholars|sages|texts", w[1:]) and len(w.split()) < 6]
+    if vague: W.append("view names that name nobody (give a person, book, school, place or group): " + " | ".join(vague[:4]))
+    # the same sentence said twice, in any two places
+    seen, dup = [], []
+    for path, t in blocks:
+        for sen in re.split(r"(?<=[.!?])\s+", t):
+            w = set(re.findall(r"[a-z]{3,}", sen.lower()))
+            if len(w) < 7 or path.startswith(("terms", "worksheets", "quiz", "warmup", "jokes")) or ".setup" in path or path.endswith(("predict", "say", "kid", "do", "ask.q")): continue
+            for w2, p2 in seen:
+                if p2 != path and len(w & w2) / len(w | w2) >= 0.75: dup.append(f"{p2} and {path}: {sen[:60]}…")
+            seen.append((w, path))
+    if dup: W.append(f"{len(dup)} sentences repeated in two places (say each thing once): " + " | ".join(dup[:3]))
 NUMW = {"two": 2, "three": 3, "four": 4, "five": 5, "six": 6, "eight": 8, "ten": 10, "twelve": 12}
 LEAK = re.compile(r"title checked automatically|video id|recalled, not opened|still being written|used in [gaepc]\d|can replace the first|deepkids list|the founder|founder's|app/content|\.json\b", re.I)
 STOCKL = re.compile(r"the story also quietly asks|one source,? showing up in many forms", re.I)
@@ -220,7 +306,8 @@ def check(path):
         if not x.get("examples"): P(f"explanation needs examples: {x.get('concept')}")
     for c in u["challenging"]:
         if c.get("status") not in ("accepted", "debated", "minority", "rejected"): P(f"challenging view status: {c.get('claim', '')[:40]}")
-    if len(u["big_questions"]) < 4 or not all(q.get("kind") in ("deep", "big") for q in u["big_questions"]): P("big_questions: 4+, each kind deep or big")
+    if not u["big_questions"] or not all(q.get("kind") in ("deep", "big") for q in u["big_questions"]): P("big_questions: at least 1, each kind deep or big")
+    elif not 4 <= len(u["big_questions"]) <= 10: W.append(f"big_questions: {len(u['big_questions'])}; 1 to 10 are allowed and more is better, each unique and substantial (aim for 4 or more, not above 10)")
     h = u["how_we_found_out"]
     if not all(h.get(k) for k in ("story", "who", "when", "wrong_idea")): P("how_we_found_out needs story, who, when, wrong_idea")
     elif not 80 <= len(h["story"].split()) <= 220: W.append(f"how_we_found_out story is {len(h['story'].split())} words (about 80-200; clarity comes before the count)")
@@ -250,7 +337,7 @@ def check(path):
     if not 2 <= len(r.get("ask", [])) <= 4: P("roots.ask: 2-4 open questions")
     s = u["story"]
     w = len(" ".join(s.get("text", [])).split())
-    if not 450 <= w <= 1400: P(f"story is {w} words (450-1400)")
+    if not 450 <= w <= 1400: W.append(f"story is {w} words (about 450-1400; a guide only, depth and clarity come first)")
     for k in ("title", "epiphany", "ask", "art"):
         if not s.get(k): P(f"story needs {k}")
     ids = set()
@@ -372,6 +459,9 @@ def check(path):
     sens = [x for x in re.split(r"(?<=[.!?])\s+", dt) if x]
     if len(sens) > 5 or any(len(x.split()) > 24 for x in sens): W.append("roots.deep_truth is long: fine if every sentence is clear and easy to follow; split a sentence rather than cut meaning (PHILOSOPHY.md, 'Simple and direct')")
     if len(u["warmup"]) < 5: P("warmup: 5+ quick questions")
+    parent_test(u)
+    hidden = [i for k in FLOW for x in u.get(k, []) for i in [x.get("id")] if i not in u["plan"].get("default_order", [])] + [w.get("id") for w in u.get("worksheets", []) if w.get("id") not in u["plan"].get("default_order", [])]
+    if hidden: P("these parts are written but missing from plan.default_order, so families never see them: " + ", ".join(map(str, hidden)))
     ke, kt = writers_kit(u, path)
     for x in ke: P(x)
     W.extend(kt)

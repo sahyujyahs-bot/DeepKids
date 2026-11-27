@@ -1,9 +1,9 @@
 # Curious people: how discoveries begin with a question
 `sci.how-we-know.stories-of-discovery.L1`
 
-**Summary.** A yellow haldi stain on a white shirt can turn red in the wash. Why? In this unit you will test which kitchen liquids turn haldi red, hear about curious people like Tu Youyou, and play a true-or-false game about who found out what.
+**Summary.** A yellow haldi stain on a white shirt can turn red in the wash. Why? In this lesson you will test which kitchen liquids turn haldi red, hear about curious people like Tu Youyou, and play a true-or-false game about who found out what.
 
-**Intro.** *Here is an old cloth with a yellow haldi stain. When a stain like this is washed, it can turn red. What do you think turns it red?* Many grown-ups have seen a haldi stain turn red in the wash, but most never ask why. Asking why, and then trying things to find out, is what scientists do. In this unit you become a scientist in your own kitchen. You also hear true stories of curious people who found out new things.
+**Intro.** *Here is an old cloth with a yellow haldi stain. When a stain like this is washed, it can turn red. What do you think turns it red?* Many grown-ups have seen a haldi stain turn red in the wash, but most never ask why. Asking why, and then trying things to find out, is what scientists do. In this lesson you become a scientist in your own kitchen. You also hear true stories of curious people who found out new things.
 
 ## Learning outcomes
 0. By the end I can say what a scientist does: notices something, asks a question, and tries things to find out.
@@ -14,7 +14,7 @@
 5. By the end I can make a guess, test it, and say what I saw.
 
 ## Terms
-- **Curious**: Being curious means wanting to know more about something. A curious person asks lots of questions. *e.g.* Meenakshi, a girl in this unit's story, was curious about why the haldi stain went red, so she asked her grandmother.
+- **Curious**: Being curious means wanting to know more about something. A curious person asks lots of questions. *e.g.* Meenakshi, a girl in this lesson's story, was curious about why the haldi stain went red, so she asked her grandmother.
 - **Scientist**: A scientist is a person who finds out how the world works. They look closely, ask questions and test their ideas. *e.g.* Tu Youyou was a scientist in China. She found a new medicine for malaria.
 - **Discovery**: A discovery is finding out something about the world that people did not know before. *e.g.* Finding out that soap turns haldi red was a discovery for you.
 - **Test**: A test is a way to find out if your guess is right. You try it and see what happens. *e.g.* You guess that lemon will turn haldi red. You try it, and it stays yellow.
@@ -25,6 +25,9 @@ Scientists notice things. Then they ask a question, like 'Why did the haldi go r
 - e.g. You noticed haldi went red with soap. You asked which liquids do it. You tested each one.
 - e.g. C. V. Raman, a scientist from India, saw the deep blue sea from a ship in 1921. He asked why the sea is so blue. He spent years finding out.
 - e.g. Babies are curious too. When a toy does something surprising, babies pick it up and test it again.
+- **Karl Popper:** Scientists make ideas that could be shown wrong, and test them.
+- **Thomas Kuhn:** Scientists work inside a shared way of thinking until too many surprises force a change.
+- **Indian Nyaya school:** Listed ways of knowing: perception, inference, comparison and trusted word.
 ### Anyone curious can be a scientist · *defined*
 **Definition:** A scientist is anyone who finds out about the world by looking closely, asking questions and testing ideas.
 
@@ -32,13 +35,17 @@ Scientists are not a special kind of person who is born clever. They are people 
 - e.g. Mary Anning dug up fossils on the beach as a girl, in about 1811 and 1812.
 - e.g. Janaki Ammal, from Thalassery in Kerala, grew new kinds of sugarcane that grow well in Indian fields.
 - e.g. Tu Youyou, from China, found a malaria medicine by reading old books and testing.
+- **Everyday view:** Anyone who looks closely and asks questions is doing science.
+- **Professional science:** Adds tools, training and sharing of results so others can check. Many 'citizen scientists' now help with real research.
 ### Why soap turns haldi red · *defined*
 **Definition:** Haldi has a yellow colouring in it. Soap and cooking soda change this colouring to red. Lemon juice changes it back to yellow.
 
-The yellow in haldi comes from a colouring called curcumin. Curcumin is yellow in plain water, salt water, sugar water and lemon juice. Soap and cooking soda change it, so it looks red. Add lemon juice, and it turns yellow again. Scientists call things like soap and cooking soda 'bases'. A base changes the colour of curcumin. They call sour things like lemon 'acids'. An acid changes it back. You will learn more about bases and acids when you are older. Some mild liquid hand washes do not turn haldi red. That is a real result too.
+The yellow in haldi comes from a colouring called curcumin. Curcumin is yellow in plain water, salt water, sugar water and lemon juice. Soap and cooking soda change it, so it looks red. Add lemon juice, and it turns yellow again. Scientists call things like soap and cooking soda 'bases'. A base changes the colour of curcumin. They call sour things like lemon 'acids'. An acid changes it back. There is much more to find out about bases and acids. Some mild liquid hand washes do not turn haldi red. That is a real result too.
 - e.g. A haldi stain on a white shirt turns red when you rub soap on it.
 - e.g. A drop of soap water on haldi paper makes a red spot.
 - e.g. A drop of lemon juice on the red spot turns it yellow again.
+- **Indian traditions:** Make kumkum for worship by mixing turmeric and slaked lime, which turns the yellow powder red. Cooks have long seen turmeric stain turn red with soap.
+- **Chemists:** Explain that the yellow colouring in turmeric, curcumin, changes colour in alkali. This is why turmeric is an indicator, and why lemon juice, an acid, turns it back.
 ### Discoveries come from everywhere · *defined*
 **Definition:** A discovery is finding out something about the world that people did not know before. People in every part of the world have made them.
 
@@ -46,6 +53,8 @@ People in every land have asked questions and found answers. Aryabhata, in India
 - e.g. Malaria medicine found in China is now used in India and many other countries.
 - e.g. In the year 499, Aryabhata, in India, wrote that the Earth spins.
 - e.g. Ronald Ross, working in Secunderabad, near Hyderabad, found in 1897 that mosquitoes carry malaria.
+- **Older histories:** Told science as a story of a few European men.
+- **Historians such as Joseph Needham:** Show that Indian, Chinese, Arab, African and American peoples made many key discoveries, such as zero, paper and the compass.
 
 ## Mostly agreed
 - Anyone who is curious and tests their ideas can find out new things. *How we know:* Mary Anning found famous fossils as a girl. Tu Youyou found a medicine without a doctorate. Children find things out at home every day by trying them.
@@ -201,7 +210,7 @@ That night, Meenakshi lay in bed and looked at the ceiling fan. Why does it make
   - Check: How did people find out that soap turns haldi red? → **Someone tried it and looked**
 ### g2 · Notice, Wonder, Try: a board game (15 min)
 - **rules:** Put your counters on Start.; Take turns to roll the dice and move that many squares. With paper slips, shake them, pick one, then put it back.; Do what your square says. Everyone listens.; If you are stuck, the others can help you. Then your turn ends.; The first player to reach Finish wins. If your roll takes you past Finish, you still win.
-- **Printable board: A path of 15 squares to draw:** Start; Notice: say one thing you see in this room that is red.; Wonder: ask one question about the window.; Try: drop a spoon and a paper ball together. Which lands first?; Notice: listen. Say one sound you can hear.; Wonder: ask one question about your hands.; Try: blow on your hand softly, then hard. What changes?; Notice: say one thing that smells good at home.; Wonder: ask one question about the sky.; Try: hold a steel spoon and a wooden spoon. Which feels colder?; Story: name one curious person from this unit.; Notice: find something that is round.; Wonder: ask one question about an animal you know.; Try: put a drop of water on a steel plate and on a cloth. What happens to each?; Finish: you are a scientist!
+- **Printable board: A path of 15 squares to draw:** Start; Notice: say one thing you see in this room that is red.; Wonder: ask one question about the window.; Try: drop a spoon and a paper ball together. Which lands first?; Notice: listen. Say one sound you can hear.; Wonder: ask one question about your hands.; Try: blow on your hand softly, then hard. What changes?; Notice: say one thing that smells good at home.; Wonder: ask one question about the sky.; Try: hold a steel spoon and a wooden spoon. Which feels colder?; Story: name one curious person from this lesson.; Notice: find something that is round.; Wonder: ask one question about an animal you know.; Try: put a drop of water on a steel plate and on a cloth. What happens to each?; Finish: you are a scientist!
 - **Printable tokens: 4 counters and a dice:** a bottle cap; a button; a small stone; a coin; a dice, or six folded paper slips numbered 1, 2, 3, 1, 2, 3
 - **s1 (3 min)**  
   *Parent does:* Lay 15 pieces of paper in a winding line on the floor, or draw 15 squares on a big sheet. Write each square's words on it, then read each one aloud.  
@@ -379,7 +388,7 @@ That night, Meenakshi lay in bed and looked at the ceiling fan. Why does it make
 2. (draw) Draw your haldi paper. Colour the boxes that went red.  
    **Answer:** A yellow paper with red boxes for soap and cooking soda.. *Why:* A strong drawing shows which liquid was in each box, and colours only those that changed.
 3. (mcq) In the story, Meenakshi rubbed haldi paper hard with a dry finger, and it stayed yellow. Then soap turned it red. What did the rubbing show?  
-   Options: Rubbing is not what turns haldi red / Haldi never changes / Soap is not needed  
+   Options: Haldi never changes / Soap is not needed / Rubbing is not what turns haldi red  
    **Answer:** Rubbing is not what turns haldi red. *Why:* She tried the rubbing on its own, and nothing changed. So the red came from something else: the soap.
 4. (match) Draw a line from each person to what they found.  
    **Answer:** Tu Youyou → a medicine for malaria; Mary Anning → fossil bones of a sea animal; Janaki Ammal → new kinds of sugarcane; You → which liquids turn haldi red. *Why:* Each of these people was curious, asked a question and found something out. That includes you.
@@ -402,7 +411,7 @@ That night, Meenakshi lay in bed and looked at the ceiling fan. Why does it make
 2. (draw) Draw the red spot after you added lemon juice in Back to Yellow.  
    **Answer:** A yellow spot, or a pale orange one turning yellow.. *Why:* Lemon juice turns the red haldi colouring yellow again. A strong drawing shows the spot yellow.
 3. (mcq) In The Secret Red Message, your hidden soap word turned red when you brushed haldi water on it. What does that show?  
-   Options: The soap was still there, though you could not see it / Haldi can read / The paper was red  
+   Options: Haldi can read / The soap was still there, though you could not see it / The paper was red  
    **Answer:** The soap was still there, though you could not see it. *Why:* The dried soap was hard to see, but it was still on the paper. The haldi showed where it was.
 4. (truefalse) A strange new idea must be wrong.  
    **Answer:** False. *Why:* False. A strange idea is not always wrong, and not always right. Scientists test it to find out.
@@ -426,34 +435,34 @@ That night, Meenakshi lay in bed and looked at the ceiling fan. Why does it make
 
 ## Quiz
 1. (mcq) What does a scientist do?  
-   Options: Notices, asks questions and tests ideas / Only reads books / Only wears a white coat  
+   Options: Only reads books / Only wears a white coat / Notices, asks questions and tests ideas  
    **Answer:** Notices, asks questions and tests ideas. *Why:* Scientists find out by noticing, asking and testing. Anyone can do these things, with or without a white coat.
 2. (mcq) Who can be a scientist?  
-   Options: Only grown-up men / Anyone who is curious and tests their ideas / Only people from far away  
+   Options: Anyone who is curious and tests their ideas / Only grown-up men / Only people from far away  
    **Answer:** Anyone who is curious and tests their ideas. *Why:* Girls, boys, women and men from every country have made discoveries. Mary Anning started as a girl.
 3. (mcq) In the haldi test, which liquid turned the haldi red?  
    Options: Lemon juice / Sugar water / Soap water  
    **Answer:** Soap water. *Why:* Soap turns haldi red. Lemon juice and sugar water leave it yellow.
 4. (mcq) In the haldi test, why did each liquid get its own box?  
-   Options: So we could tell which liquid made the colour change / To make the paper look nice / Because the paper was too big  
+   Options: To make the paper look nice / So we could tell which liquid made the colour change / Because the paper was too big  
    **Answer:** So we could tell which liquid made the colour change. *Why:* If two liquids touched the same box, we would not know which one changed the colour. One liquid in each box keeps the test fair.
 5. (mcq) A scientist is looking for a new medicine. Where could she find a clue?  
-   Options: In old books about medicine, which she then tests / On the Moon / In a dream, with no test  
+   Options: On the Moon / In old books about medicine, which she then tests / In a dream, with no test  
    **Answer:** In old books about medicine, which she then tests. *Why:* Old books hold what people tried long ago. A clue from them is a start, but it must be tested. Tu Youyou found her clue this way.
 6. (mcq) Tu Youyou guessed that heat was spoiling the medicine. How did she find out if she was right?  
-   Options: She asked a king / She made it without much heat and tested it / She stopped looking  
+   Options: She asked a king / She stopped looking / She made it without much heat and tested it  
    **Answer:** She made it without much heat and tested it. *Why:* She tested her guess. The medicine made without much heat worked.
 7. (mcq) Where do discoveries in science come from?  
-   Options: People in every country / Only one country / Only rich countries  
+   Options: Only one country / Only rich countries / People in every country  
    **Answer:** People in every country. *Why:* Anyone who asks questions and tests them can find things out. Great scientists have come from India, China, England and everywhere else.
 8. (mcq) You guess that salt turns haldi red. What should you do?  
-   Options: Believe your guess / Test it with salt water on haldi paper / Ask a friend to guess too  
+   Options: Believe your guess / Ask a friend to guess too / Test it with salt water on haldi paper  
    **Answer:** Test it with salt water on haldi paper. *Why:* A guess needs a test. If you try salt water on haldi, you will see it stays yellow.
 9. (mcq) A red soap spot is on yellow haldi paper. You add lemon juice. What happens?  
-   Options: It turns black / It turns yellow again / It gets more red  
+   Options: It turns yellow again / It turns black / It gets more red  
    **Answer:** It turns yellow again. *Why:* Lemon turns the red haldi colouring back to yellow.
 10. (mcq) Long ago, Aryabhata said the Earth spins round. What do we see every day that fits his idea?  
-   Options: The Sun seems to rise and set / The Earth looks flat / The Earth is a square  
+   Options: The Earth looks flat / The Earth is a square / The Sun seems to rise and set  
    **Answer:** The Sun seems to rise and set. *Why:* As the Earth spins, our side turns towards the Sun and away again. So the Sun seems to rise and set. Aryabhata in India said the Earth spins.
 
 ## Applications
@@ -467,7 +476,7 @@ That night, Meenakshi lay in bed and looked at the ceiling fan. Why does it make
 - A haldi stain on a shirt turning red when it is washed with soap.
 - Traditional kumkum, the red powder, is made by mixing haldi with chuna, the lime used with paan. The chuna turns the haldi red.
 - Mosquito nets over beds in homes and hospitals, to stop the mosquito bites that spread malaria.
-- Science centres, like the Visvesvaraya Museum in Bengaluru, full of things to touch and try.
+- A science centre, full of things to touch and try.
 - A crow at the window. Scientists now say birds are a kind of dinosaur.
 
 ## Open questions
@@ -501,11 +510,12 @@ That night, Meenakshi lay in bed and looked at the ceiling fan. Why does it make
 I Notice, I Wonder, I Try (sci.how-we-know.L1): Topic-level song for How we know L1
 
 ## Links
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru, Karnataka: A big science museum with many things children can touch and try for themselves.
-- [Kerala State Science and Technology Museum]() · place · Thiruvananthapuram, Kerala: Hands-on science galleries and a planetarium, good for curious young children.
-- [Science City]() · place · Kolkata, West Bengal: A large science centre with shows and galleries where children can try things out.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru, Karnataka: A big science museum with many things children can touch and try for themselves.
+- Kerala State Science and Technology Museum · place · Thiruvananthapuram, Kerala: Hands-on science galleries and a planetarium, good for curious young children.
+- Science City · place · Kolkata, West Bengal: A large science centre with shows and galleries where children can try things out.
 
 ## Things to buy
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What does a scientist do? → Notices, asks questions and tests ideas.
@@ -524,7 +534,7 @@ I Notice, I Wonder, I Try (sci.how-we-know.L1): Topic-level song for How we know
 - ideas/by_topic/how-we-know.md, 'Stories of science and the True/False card game': the founder's true-or-false fact cards. Used for game g1, rewritten for age 6, with each answer saying how people found out. 'Trees don't talk to each other' was left out because it needs more than one line to explain fairly.
 - ideas/by_topic/how-we-know.md, 'Grade concept grid: Fringe Science', Grade 1: new ideas must be tested, not just imagined, and some strange ideas later succeed. Used for the 'challenging' cards and for the guess-then-test thread.
 - ideas/by_topic/how-we-know.md, SCI Cards: Tu Youyou (low-heat clue from Ge Hong, tested on herself first). Used for how_we_found_out and activity a3.
-- Ladder: Level 3 (sci.how-we-know.stories-of-discovery.L3) is about lucky accidents and missing names, with the Too-Weak Tape Test, Hot or Cold freezing, Jocelyn Bell's pulsar, the curd story, penicillin and the panakam credit game. This unit repeats none of those. It comes first: scientists are curious people who notice, ask and test, and anyone can do it. Level 3 then shows that discoveries often come from surprises and accidents, and asks who gets the credit.
+- Ladder: Level 3 (sci.how-we-know.stories-of-discovery.L3) is about lucky accidents and missing names, with the Too-Weak Tape Test, Hot or Cold freezing, Jocelyn Bell's pulsar, the curd story, penicillin and the panakam credit game. This lesson repeats none of those. It comes first: scientists are curious people who notice, ask and test, and anyone can do it. Level 3 then shows that discoveries often come from surprises and accidents, and asks who gets the credit.
 - Curcumin, the yellow colouring of turmeric, changes from yellow to red-brown as the solution becomes alkaline (above about pH 7.5 to 8.6), and returns to yellow in acid. Bar soap and washing powder are alkaline (about pH 9 to 11). Sodium bicarbonate solution is about pH 8.3 and gives an orange-red. Some mild liquid hand washes are near neutral and give little change. Turmeric paper as an indicator is a standard school activity (NCERT Class 7 Science, acids, bases and salts).
 - Tu Youyou: joined Project 523 in 1969 as head of a research group at the Academy of Traditional Chinese Medicine, Beijing. Her team screened over 2,000 recipes and tested about 380 extracts. Ge Hong's 'Handbook of Prescriptions for Emergencies' (about 340 CE) says to soak a handful of qinghao in water, wring out the juice and drink it. She used a low-temperature ether extraction, and sample 191 was fully effective in mice and monkeys in October 1971. She and colleagues took the extract themselves before the first patient trials in 1972. Nobel Prize in Physiology or Medicine 2015 (shared with William C. Campbell and Satoshi Omura). She had no doctorate, no medical degree and no training abroad. Source: Tu Youyou, Nobel lecture, 2015, and Nobel Prize press release, 2015.
 - Mary Anning (1799 to 1847), Lyme Regis: her brother Joseph found the skull of an ichthyosaur in 1811, and Mary found the rest of the skeleton in 1812, aged about 12 or 13.

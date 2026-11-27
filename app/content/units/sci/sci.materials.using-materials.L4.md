@@ -1,9 +1,9 @@
 # Choosing materials: no material is best, so how do we choose?
 `sci.materials.using-materials.L4`
 
-**Summary.** Paper bends easily and dried flour paste snaps, but paper glued in layers with that paste makes a bar stronger than either alone. In this unit you will load such bars until they fail, score materials for a job, and bury scraps in soil to see what rots.
+**Summary.** Paper bends easily and dried flour paste snaps, but paper glued in layers with that paste makes a bar stronger than either alone. In this lesson you will load such bars until they fail, score materials for a job, and bury scraps in soil to see what rots.
 
-**Intro.** *A steel tumbler never breaks, but it is heavy and it gets too hot to hold. A paper cup is light and cheap, but it goes soft and you throw it away. A clay cup keeps water cool, but it can crack. A plastic cup is light and tough, but it may stay in the ground for hundreds of years. Which cup is the best cup?* There is no best cup. Each one wins at something and loses at something else. In the Class 3 unit you matched properties to jobs, one job at a time. But a real job needs many things at once, and getting more of one often means getting less of another. In this unit you will score materials for a job, see why mixing two weak materials can make a strong one, and follow a thing from where it comes from to where it goes. Then you will bury scraps in soil and see which ones rot.
+**Intro.** *A steel tumbler never breaks, but it is heavy and it gets too hot to hold. A paper cup is light and cheap, but it goes soft and you throw it away. A clay cup keeps water cool, but it can crack. A plastic cup is light and tough, but it may stay in the ground for hundreds of years. Which cup is the best cup?* There is no best cup. Each one wins at something and loses at something else. In the Class 3 unit you matched properties to jobs, one job at a time. But a real job needs many things at once, and getting more of one often means getting less of another. In this lesson you will score materials for a job, see why mixing two weak materials can make a strong one, and follow a thing from where it comes from to where it goes. Then you will bury scraps in soil and see which ones rot.
 
 ## Learning outcomes
 0. I can list what a job needs, score two or more materials against it, and say why the best choice can change when the job or the place changes.
@@ -17,6 +17,7 @@
 ## Terms
 - **Requirement**: One thing a job needs from a material, such as strong, light, cheap or waterproof. A job usually has many requirements at once. *e.g.* A school bag must be light, strong, waterproof and cheap. Those are four requirements.
 - **Trade-off**: When getting more of one good thing means getting less of another. Every material choice is a trade-off. *e.g.* A thicker steel plate is stronger but heavier. A thinner plate is lighter but weaker.
+- **Braille**: A way of writing with raised dots that a person reads by touch with the fingers. Louis Braille, who was blind himself, made it in France in the 1800s. *e.g.* Many books for blind children are printed on thick paper with Braille dots.
 - **Decision matrix**: A table that scores each material on each requirement, so you can compare them side by side. The rows are materials and the columns are requirements. *e.g.* A table that scores steel, plastic and glass for a lunch box on cost, weight and safety.
 - **Weight (importance)**: A number that says how much a requirement matters for this job. A requirement that matters more gets a bigger weight. *e.g.* For a hot-day water bottle, keeping water cool gets a weight of 3 and looks gets a weight of 1.
 - **Score**: A number you give a material for one requirement. A higher score means it does better. *e.g.* Steel scores 5 for strong and 2 for light.
@@ -48,6 +49,7 @@ Think about a drinking cup. Steel does not break and lasts for years, but it is 
 - e.g. A steel tumbler is strong but heavy and hot to hold. A paper cup is light but weak.
 - e.g. A thick glass bottle does not leak, but it breaks if dropped. A plastic bottle does not break if dropped, but it may leak.
 - e.g. A bicycle frame of thin steel tube is light and strong, but costs more than a heavy frame.
+- e.g. Tissue paper soaks up water, so it wipes up spills. Thick cardboard is stiff, so it makes boxes. Braille paper is thick enough to hold raised dots that a blind child reads with the fingers.
 ### A decision matrix: scoring materials for a job · *defined*
 **Definition:** A decision matrix is a table that scores each material against each need, using weights for how much each need matters.
 
@@ -171,7 +173,7 @@ People often say 'recycle'. But recycling uses energy and often makes weaker mat
   Against: A cheap thing that breaks soon may cost more per year than a dearer thing that lasts. Cost per use is a fairer way to compare. It is also unfair that poorer families often cannot afford the dearer thing that would save them money.
 
 ## Roots
-In this unit you made bars from paper and paste, scored cups and followed things from the ground to the bin. This part asks what all of that tells us about materials, and about what we ourselves are made of.
+In this lesson you made bars from paper and paste, scored cups and followed things from the ground to the bin. This part asks what all of that tells us about materials, and about what we ourselves are made of.
 
 **Deep truth.** A strip of paper bends easily. A bar of dried paste snaps. Glue four layers of paper together with that paste, and the bar holds many times more than either one alone. The strength comes from how the parts are joined.  
 *Habit it breaks:* We name what a thing is made of, 'it is paper' or 'it is paste', and think that tells us what it can do. But this leaves out how the parts are put together. The same ingredients, put together in two ways, can give two very different things.  
@@ -181,7 +183,7 @@ In this unit you made bars from paper and paste, scored cups and followed things
 - *what is life:* Where two fig roots touch, they can join and grow into one thicker root. A living root bridge is mended by the same roots that make it, and not by anything brought in from outside.
 - *what is this world:* Mud with straw, steel in concrete, copper with tin: the world's most useful things are mixtures. What each mixture can do depends on how the parts are put together, as well as on the parts.
 
-Every question in this unit came back to how things are joined. Paper and paste, straw and mud, copper and tin, and two fig roots are each more than their ingredients. What a thing is good for depends on how its parts are joined, where it is used and how many years it lasts. So knowing what a thing is made of is not enough. We also need to know how it is put together, where it is, and what becomes of it afterwards. Choosing a material is not like looking up a number in a table. It means looking at the whole picture.
+Every question in this lesson came back to how things are joined. Paper and paste, straw and mud, copper and tin, and two fig roots are each more than their ingredients. What a thing is good for depends on how its parts are joined, where it is used and how many years it lasts. So knowing what a thing is made of is not enough. We also need to know how it is put together, where it is, and what becomes of it afterwards. Choosing a material is not like looking up a number in a table. It means looking at the whole picture.
 
 - **Chandogya Upanishad 6.1.4 to 6.1.6, an Indian text more than 2,500 years old:** “यथा सोम्यैकेन मृत्पिण्डेन सर्वं मृन्मयं विज्ञातं स्यात् / वाचारम्भणं विकारो नामधेयं मृत्तिकेत्येव सत्यम् / यथा सोम्यैकेन लोहमणिना सर्वं लोहमयं विज्ञातं स्यात् / यथा सोम्यैकेन नखनिकृन्तनेन सर्वं कार्ष्णायसं विज्ञातं स्यात्” Uddalaka tells his son Shvetaketu that by knowing one lump of clay, you know everything made of clay, since the different shapes are only names and the clay is the same. He says the same of gold and of iron. (A pot, a cup and a kullad are different shapes of one clay. When we choose a material, we choose the stuff. But what we make from it, and how we make it, decides what it is used for.)
 - **Kabir, a poet-saint of the 15th century, in a well-known doha:** “माटी कहे कुम्हार से, तु क्या रौंदे मोय / एक दिन ऐसा आएगा, मैं रौंदूंगी तोय” The clay says to the potter, why do you trample me? One day I will trample you. (Everything made from the earth returns to the earth, including the potter. What happens after is part of what a thing is.)
@@ -658,50 +660,52 @@ The village decided to do both. Mr. Das would build one small, light steel footb
    **Answer:** Source: a cotton field. Making: a mill and a tailor. Use: worn and washed many times. After: mended, passed on, or rotting in soil. Arrows go round the circle.. *Why:* A life cycle has four stages. Drawing them as a circle shows that what comes after can lead back to a source.
 16. (perspective) A village needs a footbridge over a stream. People have different ideas.  
    **Answer:** A strong answer weighs the needs: how soon, how long, cost, what happens after. Bamboo is quick and cheap but rots in a few years. Steel lasts but needs paint and is hard to dispose of. Roots take longest but last longest and leave no waste. Each person is right about one need. A village could also choose two.. *Why:* The best choice depends on what the village counts. A decision matrix shows how the weights decide.
-### Trade-offs and Whole Lives (stretch) (stretch, 17 questions)
+### Trade-offs and Whole Lives (stretch) (stretch, 18 questions)
 1. (mcq) A plastic tiffin box and a steel tiffin box both score 30 in a decision matrix. What is the best next step?  
-   Options: Look at the weights and ask which need matters most for this job / Pick the plastic one / Pick the steel one / Throw both out  
+   Options: Pick the plastic one / Pick the steel one / Throw both out / Look at the weights and ask which need matters most for this job  
    **Answer:** Look at the weights and ask which need matters most for this job. *Why:* A tie shows that the scores alone cannot settle the matter. The weights, which say what matters most, can. If the box is carried with curry, 'does not leak' gets a bigger weight.
 2. (mcq) A 600 rupee pair of shoes lasts 2 years. A 300 rupee pair lasts 6 months. Which costs less for each year?  
-   Options: The 600 rupee pair, at 300 rupees a year / The 300 rupee pair, at 300 rupees a year / The 300 rupee pair, at 600 rupees a year / They cost the same  
+   Options: The 300 rupee pair, at 300 rupees a year / The 300 rupee pair, at 600 rupees a year / The 600 rupee pair, at 300 rupees a year / They cost the same  
    **Answer:** The 600 rupee pair, at 300 rupees a year. *Why:* 600 divided by 2 years is 300 a year. 300 divided by half a year is 600 a year. So the dearer shoes cost less each year.
 3. (truefalse) Every time paper is recycled, the fibres get longer and the paper gets stronger.  
    **Answer:** False. *Why:* False. Each time paper is pulped and remade, the fibres get shorter and fewer, so the paper gets weaker.
-4. (fill) A material made of fibres held by a matrix is called a ____.  
+4. (fill) Braille paper is thick, so it can hold raised ____ that a blind child reads with the fingers.  
+   **Answer:** ['dots']. *Why:* Braille letters are made of raised dots. Thin paper would tear or flatten under them.
+5. (fill) A material made of fibres held by a matrix is called a ____.  
    **Answer:** ['composite']. *Why:* A composite is made of two or more materials joined so that the result can do what neither could do alone.
-5. (sort) For a steel pot, does making the walls thicker make each of these better or worse?  
+6. (sort) For a steel pot, does making the walls thicker make each of these better or worse?  
    **Answer:** How strong the pot is → Better; How light the pot is → Worse; How cheap the pot is → Worse; How long the pot lasts → Better; How fast the pot heats up → Worse; How well the pot keeps food hot → Better. *Why:* Thicker steel gives more strength and long life, and holds more heat. It also adds weight and cost, and takes longer to heat. That is a trade-off.
-6. (write) Give two reasons why the best roof for a house in Cherrapunji might not be the best roof for a house in the Thar desert.  
+7. (write) Give two reasons why the best roof for a house in Cherrapunji might not be the best roof for a house in the Thar desert.  
    **Answer:** In Cherrapunji, the roof has to shed very heavy rain, so it must be sloped and must not rot in the damp. In the Thar desert, the roof has to keep out the midday heat, so it must be thick and made of a material that heats slowly. The place changes which needs matter most.. *Why:* The same job can need different materials in different places, because the needs have different weights.
-7. (match) Match each place to a good reason for its choice.  
+8. (match) Match each place to a good reason for its choice.  
    **Answer:** A mud wall in the Thar desert → Thick walls heat slowly and keep the inside cool; Sloped tiles in rainy hills → Rain runs off quickly; A wooden chair in Leh → Wood is not icy to sit on; A clay matka in a village home → Water seeps through the clay and cools the water inside; A steel bottle in a school bag → It does not break. *Why:* Each choice answers a need that the place makes important: heat, rain, cold, cooling and rough handling.
-8. (mcq) Why does stainless steel rust much less than ordinary steel?  
-   Options: It has chromium mixed in, which forms a thin protective skin on the surface / It has no iron in it / It is painted / It is made of aluminium  
+9. (mcq) Why does stainless steel rust much less than ordinary steel?  
+   Options: It has no iron in it / It is painted / It is made of aluminium / It has chromium mixed in, which forms a thin protective skin on the surface  
    **Answer:** It has chromium mixed in, which forms a thin protective skin on the surface. *Why:* Chromium atoms in stainless steel form a very thin invisible layer that protects the metal below. Stainless steel is still an alloy of iron.
-9. (order) Put these scraps in order, from rotting fastest to rotting slowest, in warm damp soil.  
+10. (order) Put these scraps in order, from rotting fastest to rotting slowest, in warm damp soil.  
    **Answer:** order shown. *Why:* A banana peel is soft food for bacteria and fungi. Paper is made from plant fibres, but is drier and harder. Cotton is a tougher plant fibre and takes months. Plastic does not rot at all in a short time.
-10. (draw) Draw a mud brick with straw in it, and show a crack starting from one side. Show where the crack stops, and say why.  
+11. (draw) Draw a mud brick with straw in it, and show a crack starting from one side. Show where the crack stops, and say why.  
    **Answer:** A rectangle with straw lines through it. A crack starts at an edge and stops when it meets a straw fibre. The fibre carries the pull and stops the crack from running through.. *Why:* In a composite, the fibres stop cracks from running straight through the matrix.
-11. (truefalse) Aluminium can be melted and made into new things again and again with little loss of quality.  
+12. (truefalse) Aluminium can be melted and made into new things again and again with little loss of quality.  
    **Answer:** True. *Why:* True. Aluminium is a metal, and its atoms stay the same when it is melted. Recycling it takes far less energy than making new aluminium from ore.
-12. (mcq) In the past, tests of asbestos asked, 'does it do the job?' What question was missing?  
-   Options: What does it do to people's lungs years later? / What colour is it? / How cheap is it? / How big is it?  
+13. (mcq) In the past, tests of asbestos asked, 'does it do the job?' What question was missing?  
+   Options: What colour is it? / What does it do to people's lungs years later? / How cheap is it? / How big is it?  
    **Answer:** What does it do to people's lungs years later?. *Why:* A test answers only the question it asks. Asbestos did the job, but doctors found years later that its fibres could harm the lungs. This is why engineers look at the whole life.
-13. (perspective) Some campaigners want to ban all plastic. Others disagree.  
+14. (perspective) Some campaigners want to ban all plastic. Others disagree.  
    **Answer:** A strong answer weighs the harm against the benefits. The campaigner is right that single-use plastic is a huge problem. The doctor is right that some uses save lives. The designer's idea tries to keep what is useful and remove the harm.. *Why:* Banning all or keeping all are both too simple. Looking at the job, the whole life and the alternatives helps to decide.
-14. (mcq) In reinforced concrete, what do the steel bars do?  
-   Options: They carry the pulling, which concrete is weak at / They make the concrete wet / They make the concrete lighter / They hold the concrete's colour  
+15. (mcq) In reinforced concrete, what do the steel bars do?  
+   Options: They make the concrete wet / They carry the pulling, which concrete is weak at / They make the concrete lighter / They hold the concrete's colour  
    **Answer:** They carry the pulling, which concrete is weak at. *Why:* Concrete is strong when squeezed but weak when pulled. The steel bars carry the pull. This is a composite at work.
-15. (fill) A material that can be broken down by bacteria and fungi is called ____.  
+16. (fill) A material that can be broken down by bacteria and fungi is called ____.  
    **Answer:** ['biodegradable']. *Why:* Biodegradable materials return to the soil. A banana peel is one, and a plastic bag is not.
-16. (write) Explain in your own words why a bar made of weak paper and weak paste can be strong.  
+17. (write) Explain in your own words why a bar made of weak paper and weak paste can be strong.  
    **Answer:** The paste is brittle and snaps, and the paper bends. Together the paste holds the paper layers so they cannot slide, and the paper stops cracks from running through the paste. Each part does the job the other cannot do.. *Why:* A composite works because each material covers the other's weakness.
-17. (mcq) After two weeks, the cotton cloth in the Burial Test looks hardly changed. Which claim is fair?  
+18. (mcq) After two weeks, the cotton cloth in the Burial Test looks hardly changed. Which claim is fair?  
    Options: It changed little in two weeks, and may take months to rot / Cotton never rots / Cotton rots faster than banana peel / The test failed  
    **Answer:** It changed little in two weeks, and may take months to rot. *Why:* Two weeks is a short time. A test shows what happened in that time only. Cotton comes from a plant and can rot, but much more slowly than a peel.
 ### Hard Choices and Big Ideas (challenge) (challenge, 16 questions)
 1. (mcq) A cloth bag costs 40 rupees. A plastic bag costs 2 rupees and is used once. After how many uses does the cloth bag cost less per use than buying a new plastic bag each time?  
-   Options: More than 20 uses / More than 2 uses / More than 40 uses / More than 80 uses  
+   Options: More than 2 uses / More than 40 uses / More than 20 uses / More than 80 uses  
    **Answer:** More than 20 uses. *Why:* 40 divided by 2 is 20. After 20 uses the cloth bag has cost the same as 20 plastic bags. After that, each use is cheaper.
 2. (fill) A cloth bag at 40 rupees breaks even with 2 rupee plastic bags after ____ uses.  
    **Answer:** ['20']. *Why:* 40 divided by 2 is 20. After 20 uses, the cloth bag has paid for itself.
@@ -710,7 +714,7 @@ The village decided to do both. Mr. Das would build one small, light steel footb
 4. (perspective) A small town on a river must choose how to build a new bridge. They disagree.  
    **Answer:** A good answer uses a decision matrix: time, cost, life, repair and what happens after. The shopkeeper is right about speed. The teacher is right about life and strength. The farmer is right about repair and low cost over time. A town could build a quick bridge now and start a second slow one.. *Why:* The best choice depends on how much weight we give to speed, cost over time, repair and waste.
 5. (mcq) Which is the best sign that an old tradition of using a material is wise?  
-   Options: There is a reason we can test, such as water cooling in a clay pot / It is very old / Many people believe it / It is part of a festival  
+   Options: It is very old / Many people believe it / There is a reason we can test, such as water cooling in a clay pot / It is part of a festival  
    **Answer:** There is a reason we can test, such as water cooling in a clay pot. *Why:* Old and popular do not make a belief true. A reason that can be tested does. Water seeping through a clay pot and cooling it can be measured.
 6. (truefalse) A material that rots is always the better choice.  
    **Answer:** False. *Why:* False. Some 'compostable' materials only break down in very hot industrial composters, and a thing made to rot may be used once and need a lot of land and water to grow. A thing used many times can be kinder.
@@ -719,14 +723,14 @@ The village decided to do both. Mr. Das would build one small, light steel footb
 8. (match) Match each material to what usually happens to it after use.  
    **Answer:** Banana leaf plate → Rots in weeks; Steel scrap → Melted and remade; Plastic bag → Stays a very long time; Iron nail left in damp air → Rusts; Polyester shirt → Stays and sheds microplastics. *Why:* Plant materials rot, steel can be remade, iron rusts and most plastics stay a very long time.
 9. (mcq) Bone is hard, yet slightly bendy. Which explanation fits?  
-   Options: It is a composite of hard mineral and soft protein / It is a pure metal / It is made of one kind of atom only / It is a kind of plastic  
+   Options: It is a pure metal / It is made of one kind of atom only / It is a composite of hard mineral and soft protein / It is a kind of plastic  
    **Answer:** It is a composite of hard mineral and soft protein. *Why:* The mineral makes bone hard and the protein makes it tough, so a crack does not run straight through. This is how a composite works.
 10. (draw) Draw the life of a plastic bottle in four boxes in a circle. Add a second arrow to show it being remade, and a third to show it staying in the ground.  
    **Answer:** Source: oil or gas from the ground. Making: a factory. Use: a drink, a few days. After: three arrows, one to a recycling plant and back to a new bottle, one to a landfill, and one to a river.. *Why:* A life cycle can have different endings. The ending depends on who collects the bottle and what they do with it.
 11. (write) Titanium works inside the body because bone grows tightly onto it. What would you test before putting a new material inside a person?  
    **Answer:** I would test whether the body rejects it, whether it corrodes in body fluids, how strong it is, whether it wears into the surrounding bone, and how long it lasts. I would test in the laboratory first, then with careful trials. I would also watch for harm many years later.. *Why:* A new material in the body must be tested for many needs and for the long term, since a test answers only the question it asks.
 12. (mcq) A cup is sold as 'compostable', but it only breaks down in very hot industrial composters. What happens to the cup in a family that has no such composter?  
-   Options: The cup may stay for a long time, so the claim does not help them / The cup rots in their garden in a week / The cup is eaten by animals / The cup turns into soil in their kitchen  
+   Options: The cup rots in their garden in a week / The cup is eaten by animals / The cup turns into soil in their kitchen / The cup may stay for a long time, so the claim does not help them  
    **Answer:** The cup may stay for a long time, so the claim does not help them. *Why:* A claim about rotting depends on where it happens. A family without the right composter gets little benefit. It is important to ask 'where?' and 'how fast?'
 13. (fill) Making a new aluminium can from ore takes far more ____ than making one from old cans.  
    **Answer:** ['energy']. *Why:* Recycling aluminium needs only a small part of the energy of making it from ore. This is why aluminium is worth collecting.
@@ -744,40 +748,43 @@ The village decided to do both. Mr. Das would build one small, light steel footb
 
 ## Quiz
 1. (mcq) What does it mean to say that a choice is a trade-off?  
-   Options: Getting more of one good thing costs you some of another / One material wins at everything / Two materials are the same / The choice is wrong  
+   Options: One material wins at everything / Two materials are the same / The choice is wrong / Getting more of one good thing costs you some of another  
    **Answer:** Getting more of one good thing costs you some of another. *Why:* A trade-off means every choice gives up something. Picking 'one material wins' ignores the catch every material has.
 2. (mcq) A decision matrix gives two cups the same total. What helps most to decide?  
-   Options: Checking which need matters most for the job / Choosing the shinier cup / Choosing the heavier cup / Flipping a coin without thinking  
+   Options: Choosing the shinier cup / Checking which need matters most for the job / Choosing the heavier cup / Flipping a coin without thinking  
    **Answer:** Checking which need matters most for the job. *Why:* The weights say what matters most. When totals tie, the argument is really about the weights.
 3. (mcq) A bar of paper glued with paste holds far more than a bar of dried paste alone. What best explains it?  
-   Options: The paper carries the pull and the paste holds the layers so they cannot slide / The paper is a metal / The paste is stronger than steel / The bar is wetter  
+   Options: The paper is a metal / The paste is stronger than steel / The bar is wetter / The paper carries the pull and the paste holds the layers so they cannot slide  
    **Answer:** The paper carries the pull and the paste holds the layers so they cannot slide. *Why:* In a composite, each material covers the other's weakness. The fibre carries the pull and the matrix holds it in place.
 4. (mcq) Why is bronze harder than pure copper?  
-   Options: Tin atoms of a different size get in the way when layers of copper atoms try to slide / Bronze is lighter / Bronze is a plastic / Bronze is made colder  
+   Options: Bronze is lighter / Bronze is a plastic / Bronze is made colder / Tin atoms of a different size get in the way when layers of copper atoms try to slide  
    **Answer:** Tin atoms of a different size get in the way when layers of copper atoms try to slide. *Why:* Atoms of a different size jam the layers. This is why alloys are harder than pure metals.
 5. (mcq) Which stage is not part of the whole life of a steel katori?  
-   Options: Turning into a living plant / Mining iron ore / Making it in a factory / Using it in the kitchen  
+   Options: Mining iron ore / Turning into a living plant / Making it in a factory / Using it in the kitchen  
    **Answer:** Turning into a living plant. *Why:* A katori's life is source, making, use and after. It never turns into a plant. It can be melted and made again.
 6. (mcq) A banana peel, a steel can and a plastic bag are left in damp soil for a long time. Which statement is most accurate?  
-   Options: The peel rots, the can rusts or is remade, and the bag stays a very long time / All three rot at the same speed / None of them changes / Only the bag rots  
+   Options: All three rot at the same speed / None of them changes / Only the bag rots / The peel rots, the can rusts or is remade, and the bag stays a very long time  
    **Answer:** The peel rots, the can rusts or is remade, and the bag stays a very long time. *Why:* Living things break down the peel. Iron in the can slowly rusts. Most plastics resist breaking down. These are different endings.
 7. (mcq) Shoes at 400 rupees last 2 years. Shoes at 150 rupees last 6 months. Which costs less for each year?  
-   Options: The 400 rupee shoes, at 200 rupees a year / The 150 rupee shoes, at 150 rupees a year / They cost the same / The 150 rupee shoes, at 300 rupees a year  
+   Options: The 150 rupee shoes, at 150 rupees a year / They cost the same / The 400 rupee shoes, at 200 rupees a year / The 150 rupee shoes, at 300 rupees a year  
    **Answer:** The 400 rupee shoes, at 200 rupees a year. *Why:* 400 divided by 2 is 200 a year. 150 divided by half a year is 300 a year. The dearer shoes cost less each year.
 8. (truefalse) A test that shows a material did its job today proves it is safe for many years.  
    **Answer:** False. *Why:* False. A test answers only the question it asks. Asbestos and lead did their jobs, and showed harm years later.
 9. (mcq) Which comes first when we try to throw away less?  
-   Options: Reduce: make and buy less / Recycle: melt it down / Repair: mend it / Reuse: use it again  
+   Options: Recycle: melt it down / Repair: mend it / Reuse: use it again / Reduce: make and buy less  
    **Answer:** Reduce: make and buy less. *Why:* The order is reduce, reuse, repair, recycle. Not making the thing in the first place saves the most.
 10. (mcq) Why does the best desk for Leh differ from the best desk for Chennai?  
-   Options: The place changes which needs matter most, such as cold or damp / Chennai children are bigger / Steel cannot be made in Leh / Desks are only made in Chennai  
+   Options: Chennai children are bigger / Steel cannot be made in Leh / The place changes which needs matter most, such as cold or damp / Desks are only made in Chennai  
    **Answer:** The place changes which needs matter most, such as cold or damp. *Why:* The needs change with the place, so the scores and the best choice change.
 11. (mcq) Why is recycled paper often weaker than new paper?  
-   Options: The fibres get shorter each time paper is pulped and remade / Recycled paper has no fibres / Recycled paper is thicker / Recycled paper is wetter  
+   Options: Recycled paper has no fibres / Recycled paper is thicker / Recycled paper is wetter / The fibres get shorter each time paper is pulped and remade  
    **Answer:** The fibres get shorter each time paper is pulped and remade. *Why:* Short fibres make fewer links, so the paper is weaker.
 12. (mcq) What do the steel bars do in reinforced concrete?  
    Options: They carry the pull, which concrete is weak at / They make it heavier / They make it a liquid / They stop it drying  
    **Answer:** They carry the pull, which concrete is weak at. *Why:* Concrete is strong when squeezed and weak when pulled. The bars carry the pull. It is a composite.
+13. (mcq) Tissue paper is used to wipe up a spill. Why is it a poor choice for a box?  
+   Options: It cannot be made from plant fibres / It is too thick to fold / It soaks up water well, but it is too thin and soft to hold a box's shape  
+   **Answer:** It soaks up water well, but it is too thin and soft to hold a box's shape. *Why:* Tissue is thin, so it soaks up water and wipes well. A box needs stiff, thick cardboard that holds its shape. Tissue is made from plant fibres too, so that is not the reason.
 
 ## Applications
 - Building houses, bridges and roads from composites such as reinforced concrete.
@@ -860,6 +867,12 @@ Inside the Stuff (sci.materials.L4): Topic-level song
 - [A set of small clear plastic or glass jars](https://www.amazon.in/s?k=small+clear+jars+set) (material): For the Burial Test. Seven clear cups of the same size also work. Used in e2. 
 - [A pair of washing-up gloves](https://www.amazon.in/s?k=washing+up+gloves) (material): To keep hands clean when digging up scraps in the Burial Test. Used in e2, c2. 
 - [A piece of fine mesh, such as mosquito netting, or a small fine sieve](https://www.amazon.in/s?k=mosquito+net+fabric) (material): For scooping pulp when making recycled paper. Used in p1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Paper and Paste: is a layered bar stronger than its parts?, Recycled Paper: make new paper from old paper. About ₹10 to ₹30. Any school ruler is fine. Used in e1, p1. Get it before Paper and Paste: is a layered bar stronger than its parts?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Score the Cup: a decision matrix for a drinking cup. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in a1. Get it before Score the Cup: a decision matrix for a drinking cup.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in Paper and Paste: is a layered bar stronger than its parts?. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in e1. Get it before Paper and Paste: is a layered bar stronger than its parts?.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in Paper and Paste: is a layered bar stronger than its parts?. About ₹20 to ₹50. Torn clean cloth works. Used in e1. Get it before Paper and Paste: is a layered bar stronger than its parts?.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Paper and Paste: is a layered bar stronger than its parts?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e1. Get it before Paper and Paste: is a layered bar stronger than its parts?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is a trade-off? → Getting more of one good thing means giving up some of another.
@@ -878,9 +891,9 @@ Inside the Stuff (sci.materials.L4): Topic-level song
 - Core: e1, a1, g1, e2, a2, ws-core, c2
 
 ## Sources
-- Founder's notes in ideas/by_topic/materials-and-their-properties.md: the idea of testing and comparing materials around the home, used as the starting point for scoring cups, and the Class 3 materials unit's focus on properties and jobs, which this unit goes beyond.
-- DeepKids Combined Class 4 lessons on materials and the Class 3 unit on using materials: matching properties to jobs, conductors, the clay pot and composites in one line, which this unit builds on. No experiment or story is repeated.
-- Founder's SCI card for Dan Shechtman and other cards on materials, read for the idea of unexpected materials; not used in the text of this unit.
+- Founder's notes in ideas/by_topic/materials-and-their-properties.md: the idea of testing and comparing materials around the home, used as the starting point for scoring cups, and the Class 3 materials unit's focus on properties and jobs, which this lesson goes beyond.
+- DeepKids Combined Class 4 lessons on materials and the Class 3 unit on using materials: matching properties to jobs, conductors, the clay pot and composites in one line, which this lesson builds on. No experiment or story is repeated.
+- Founder's SCI card for Dan Shechtman and other cards on materials, read for the idea of unexpected materials; not used in the text of this lesson.
 - Per-Ingvar Brånemark, work on osseointegration of titanium in bone, from the 1950s, and the clinical use of titanium implants from the 1960s
 - Shosuke Yoshida and colleagues, 'A bacterium that degrades and assimilates poly(ethylene terephthalate)', Science, 2016
 - R. Balasubramaniam, work on the corrosion resistance of the Delhi iron pillar, published in Current Science and other journals, from about 2000

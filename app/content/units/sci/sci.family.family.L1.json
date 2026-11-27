@@ -33,6 +33,18 @@
    "art": "A family photo on a phone screen, with a grandmother, an aunt and three cousins smiling together."
   },
   {
+   "term": "Nuclear family and joint family",
+   "meaning": "A nuclear family is parents and their children living together. A joint family also has grandparents, uncles, aunts and cousins in the same house.",
+   "example": "Joyita lives in a nuclear family in Kolkata. Meenakshi lives in a joint family in Madurai.",
+   "art": "On the left a small house with a mother, a father and a child. On the right, a big house with three generations on a veranda."
+  },
+  {
+   "term": "Family tree",
+   "meaning": "A family tree is a drawing of who is in a family. The oldest people are at the top and the youngest at the bottom.",
+   "example": "Meenakshi draws a family tree with Paati and Thatha at the top, and herself at the bottom.",
+   "art": "A tree drawn with round faces on three levels, joined by branches."
+  },
+  {
    "term": "Adopt",
    "meaning": "To adopt a child is to take them into your family as your own son or daughter, for always.",
    "example": "Revathi adopted baby Kayal. Kayal is Revathi's daughter now, for her whole life.",
@@ -78,7 +90,7 @@
    "concept": "Families come in many kinds",
    "status": "defined",
    "definition": "Families can be big or small, and can be made in different ways. Each kind is a real family.",
-   "description": "Some families are small, with one parent and one child. Some are big joint families, with grandparents, uncles, aunts and cousins in one house. Some children are raised by a grandmother or an aunt. Other animals have families too. In an elephant family, mothers, daughters, aunts and young ones stay together, and an older female often leads. Grown-up males leave. In an ant nest, a queen lays the eggs, and the ants you see are her daughters.",
+   "description": "Some families are small, with one parent and one child. Some are big joint families, with grandparents, uncles, aunts and cousins in one house. Some children are raised by a grandmother or an aunt. Other animals have families too. In an elephant family, mothers, daughters, aunts and young ones stay together, and an older female often leads. Grown-up males leave. In an ant nest, a queen lays the eggs, and the ants you see are her daughters. A family of parents and children living on their own is called a nuclear family. A family with grandparents, uncles, aunts and cousins under one roof is a joint family. Families differ for many reasons. A job in a faraway city can take parents away from the village. A small flat has no room for many people. A family farm or shop can keep everyone together. A grandparent who needs care may come to live with the children. And no kind is better than another.",
    "examples": [
     "Meenakshi lives in a joint family in Madurai. Nine people share one house: Paati, Thatha, Amma, Appa, Periyamma, Periyappa, Meenakshi and two cousins.",
     "Joyita in Kolkata lives with her Baba. It is just the two of them, and her Dida visits on Sundays.",
@@ -86,6 +98,42 @@
    ],
    "perspectives": [],
    "art": "A row of family pictures: a big joint family on a veranda, a father and daughter cooking fish curry, an elephant family walking with an old female in front, and a line of ant sisters carrying a crumb."
+  },
+  {
+   "concept": "Knowing my own details",
+   "status": "defined",
+   "context": "This card is about the facts every child should know about themselves and their family.",
+   "definition": "Personal details are facts about you, like your name, your address and your birthday.",
+   "description": "Everyone has a name that the family chose. Your parents also have names, and so do your brothers and sisters. You live at an address, which tells where your home is. You have a birthday, the day each year when your family remembers the day you were born. Learn your parent's phone number by heart. If you are ever lost, you can tell a shopkeeper, a teacher or a police officer. Do not tell strangers where you live.",
+   "examples": [
+    "Nila says: 'My name is Nila. My Amma is Lakshmi and my Appa is Suresh. I live in flat 4B in Kochi. My birthday is in August.'",
+    "Ravi's school teacher asks every child to say a parent's phone number out loud, so each child can learn it."
+   ],
+   "perspectives": [
+    {
+     "who": "Families with many names",
+     "explanation": "Many children have a pet name at home and another name at school. Both are yours. Your name is the way your family says it, and you can say both to a helper."
+    }
+   ],
+   "art": "A girl holding a card with her name, her parents' names, a house number and a small birthday cake drawn on it."
+  },
+  {
+   "concept": "A family tree",
+   "status": "defined",
+   "context": "This card shows how to draw the family we have talked about as a tree.",
+   "definition": "A family tree is a drawing that shows who is in a family, with the oldest people at the top and the youngest at the bottom.",
+   "description": "Start with grandparents, who are at the top. Draw a line down to their children, who are the parents. Draw a line from the parents to the children. That makes three generations. A generation is all the people of about the same age in a family. Write each person's name under their face. You can add the other grandparents too: your father's parents on one side, and your mother's parents on the other.",
+   "examples": [
+    "Meenakshi draws Paati and Thatha at the top. Below them go Amma, Appa, Periyamma and Periyappa. At the bottom go Meenakshi and her cousins.",
+    "Kayal draws Revathi, her mother, and Revathi's mother, her grandmother. She draws herself at the bottom."
+   ],
+   "perspectives": [
+    {
+     "who": "Different families, different trees",
+     "explanation": "Every tree looks different. Some have two parents, some have one. A child who was adopted can draw the people who raised her. People do not all agree on who should be in a tree, so you decide with your family."
+    }
+   ],
+   "art": "A tree with three rows of round faces: two grandparents at the top, two parents in the middle, and two children at the bottom, joined by branches."
   },
   {
    "concept": "How we know our family by smell",
@@ -382,10 +430,10 @@
       "t": "mcq",
       "q": "Is the oldest person always at the back of the line?",
       "options": [
-       "Yes, always",
-       "No, it depends on what we line up by"
+       "No, it depends on what we line up by",
+       "Yes, always"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The oldest person is at the back when we line up by age. But when we line up by height or by who woke first, they may be somewhere else. Each line sorts by one thing."
      }
     }
@@ -890,10 +938,10 @@
       "q": "Which of these is a real family?",
       "options": [
        "Only a mother, a father and children",
-       "Only a big joint family",
-       "Every one of the six families"
+       "Every one of the six families",
+       "Only a big joint family"
       ],
-      "a": 2,
+      "a": 1,
       "why": "Each of the six families has grown-ups who look after a child. Families come in many kinds, and every kind is a real family."
      }
     }
@@ -1295,10 +1343,10 @@
      "p": "In the shirt test, your eyes were covered. Circle what you used to guess whose shirt it was.",
      "opts": [
       "My eyes",
-      "My nose",
-      "My ears"
+      "My ears",
+      "My nose"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Your eyes were covered, so only your nose could work.",
      "how": "e1"
     },
@@ -1380,6 +1428,20 @@
      "why": "We know our family with our eyes and with our noses. A smell clue works even in the dark."
     },
     {
+     "t": "draw",
+     "p": "Draw your own family tree. Put your grandparents at the top, your parents in the middle and you and your brothers and sisters at the bottom. Write each name.",
+     "a": "A tree with three rows. For example: Paati and Thatha at the top, Amma and Appa in the middle, and the child at the bottom.",
+     "why": "A family tree shows three generations. The oldest people are at the top.",
+     "art": "A blank tree with three rows of empty circles joined by branches."
+    },
+    {
+     "t": "write",
+     "p": "Say it to a grown-up, who writes it down: your name, your mother's name, your father's name, your brothers' and sisters' names, and your birthday.",
+     "lines": 3,
+     "a": "Any true answer. For example: I am Nila. My Amma is Lakshmi and my Appa is Suresh. My brother is Arjun. My birthday is in August.",
+     "why": "These are your personal details. Knowing them helps you tell people who you are."
+    },
+    {
      "t": "label",
      "p": "Here is the shirt test. Draw a ring round the thing that stops the eyes from helping. Draw a cross on the thing that holds the shirt.",
      "a": "A ring round the dupatta over the eyes. A cross on the steel tumbler.",
@@ -1399,11 +1461,11 @@
      "t": "mcq",
      "p": "Here are two shirts. A mother wore one all night. The other was just washed. Which one smells of a person?",
      "opts": [
-      "The one the mother wore",
       "The one just washed",
+      "The one the mother wore",
       "Both the same"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A worn shirt picks up the wearer's smell. Washing takes most of it away. That is why the Whose Cloth Is This? test has one washed shirt that nobody wore.",
      "how": "e1"
     },
@@ -1479,6 +1541,27 @@
      "why": "People join a family by being born, by adoption or by marriage. A bus ticket only takes you somewhere."
     },
     {
+     "t": "match",
+     "p": "Draw a line from each family to its kind.",
+     "pairs": [
+      [
+       "Parents and two children in a flat",
+       "A nuclear family"
+      ],
+      [
+       "Grandparents, uncles, aunts, parents and cousins in one house",
+       "A joint family"
+      ],
+      [
+       "A grandmother and her granddaughter",
+       "A family with grandparent and child"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "A nuclear family has parents and children. A joint family has more relatives in one house. Each one is a real family.",
+     "art": "Three pictures on the left: a small flat family, a big house family, a grandmother and a girl. Three names on the right."
+    },
+    {
      "t": "write",
      "p": "Say it to a grown-up. Someone says, 'People cannot smell each other. Only dogs use their noses.' What would you tell them from your shirt test?",
      "lines": 2,
@@ -1520,11 +1603,11 @@
      "t": "mcq",
      "p": "Scientists found that people in one home share many skin microbes. A grandmother goes to stay for two weeks with her daughter's family. What do you guess will happen?",
      "opts": [
-      "She will share more microbes with her daughter's family",
       "All her microbes will go away",
-      "Nothing will change at all"
+      "Nothing will change at all",
+      "She will share more microbes with her daughter's family"
      ],
-     "a": 0,
+     "a": 2,
      "why": "People who live together share more skin microbes. So she will likely share more with her daughter's family. Scientists are still finding out how long shared microbes stay."
     },
     {
@@ -1613,6 +1696,13 @@
      "why": "A strong answer gives a reason, using what a family is: belonging together, sharing a home, or coming from the same parents."
     },
     {
+     "t": "write",
+     "p": "Say it to a grown-up, who writes it down: why might one family live in a joint family and another in a nuclear family? Give two reasons.",
+     "lines": 3,
+     "a": "A family farm or shop can keep many people together. A job in a faraway city can make a smaller family move to a small flat.",
+     "why": "A good answer gives two real reasons, such as work, the size of the house or caring for an old person, and does not say one kind is better."
+    },
+    {
      "t": "draw",
      "p": "Draw an animal family you have seen near your home, like cats, crows or cows. Show who looks after the young.",
      "a": "A drawing of an adult animal with her young.",
@@ -1626,35 +1716,83 @@
    "t": "mcq",
    "p": "What is a family?",
    "opts": [
-    "People who belong to each other and look after each other",
     "Only people who look the same",
+    "People who belong to each other and look after each other",
     "Everyone on your street"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A family is people who belong together and care for each other. Family members do not always look alike.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "You are lost at a railway station. Who is a good person to tell your name and your parent's phone number?",
+   "opts": [
+    "A police officer or a shopkeeper",
+    "Someone you have never met, who offers you a lift",
+    "Nobody, you should wait quietly"
+   ],
+   "a": 0,
+   "why": "A police officer or a shopkeeper can help you call your family. A stranger who offers a lift is not safe, and waiting alone does not help.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "In a family tree, where do the grandparents go?",
+   "opts": [
+    "At the bottom",
+    "At the top",
+    "In the middle, beside the children"
+   ],
+   "a": 1,
+   "why": "The oldest people go at the top, then their children, and the youngest at the bottom. That makes three generations.",
    "outcome": 0
   },
   {
    "t": "mcq",
    "p": "A girl lives with her mother and her grandmother. Is that a family?",
    "opts": [
-    "Yes",
     "No, there is no father",
+    "Yes",
     "No, it is too small"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Her mother and grandmother look after her. Families come in many kinds, and this is one.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Rohan lives with his parents and his sister in a flat in Mumbai. What kind of family is this?",
+   "opts": [
+    "A joint family",
+    "A nuclear family",
+    "Not a family"
+   ],
+   "a": 1,
+   "why": "Parents and children living on their own are a nuclear family. A joint family also has grandparents, uncles and aunts in the same house. Both are real families.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "A family in a village moves to a small flat in a city for work. Why might they become a nuclear family?",
+   "opts": [
+    "The flat is small and the job is far from the village",
+    "Joint families are not real families",
+    "Everyone stops loving their grandparents"
+   ],
+   "a": 0,
+   "why": "A job and a small flat can change how a family lives together. The love stays the same, and both kinds are real families.",
    "outcome": 1
   },
   {
    "t": "mcq",
    "p": "Who often leads an Asian elephant family?",
    "opts": [
-    "An older female",
     "The youngest calf",
+    "An older female",
     "A grown-up male"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Elephant families are mothers, daughters, aunts and young ones. An older female often leads. Grown-up males leave.",
    "outcome": 1
   },
@@ -1662,11 +1800,11 @@
    "t": "mcq",
    "p": "In an ant nest, who lays the eggs?",
    "opts": [
-    "The queen",
     "The biggest worker ant",
-    "The baby ants"
+    "The baby ants",
+    "The queen"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The queen lays the eggs. The worker ants are her daughters.",
    "outcome": 1
   },
@@ -1674,11 +1812,11 @@
    "t": "mcq",
    "p": "Can people tell their family apart by smell alone?",
    "opts": [
-    "Yes, often they can",
     "No, only dogs can",
+    "Yes, often they can",
     "Only with their eyes open"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Scientists found that mothers, brothers and sisters can pick out a family member's worn shirt by smell. You may have done it too.",
    "outcome": 2,
    "how": "e1"
@@ -1687,11 +1825,11 @@
    "t": "mcq",
    "p": "You do the shirt test once and get one guess right. Why should you do it again?",
    "opts": [
-    "One right guess could be luck",
     "To make it take longer",
-    "Because the first time is always wrong"
+    "Because the first time is always wrong",
+    "One right guess could be luck"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A guess can be right by luck. If you are right two times, it is more likely your nose really knows.",
    "outcome": 4,
    "how": "e1"
@@ -1700,11 +1838,11 @@
    "t": "mcq",
    "p": "Why do we use the same kind of tumbler for every shirt?",
    "opts": [
-    "So the tumblers give no clue",
     "Because steel smells nice",
-    "So the shirts stay clean"
+    "So the shirts stay clean",
+    "So the tumblers give no clue"
    ],
-   "a": 0,
+   "a": 2,
    "why": "If one tumbler looked or felt different, it could give a clue. Same tumblers make a fair test.",
    "outcome": 4,
    "how": "e1"
@@ -1725,11 +1863,11 @@
    "t": "mcq",
    "p": "A girl and her mother hug every day. What passes between them?",
    "opts": [
-    "Tiny microbes from their skin",
     "Nothing at all",
+    "Tiny microbes from their skin",
     "Their height"
    ],
-   "a": 0,
+   "a": 1,
    "why": "When people touch, some skin microbes move across. People who live together share many microbes.",
    "outcome": 3
   },
@@ -1887,7 +2025,44 @@
    "why": "Wild Asian elephant families live here. Calves often walk close beside their mothers."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Make My Family Picture Stand Up. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before Make My Family Picture Stand Up."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in Families of Many Kinds: listen and match. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Get it before Families of Many Kinds: listen and match."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "What is a family?",

@@ -1,9 +1,9 @@
 # Where our water comes from, and when it is safe to drink
 `sci.water.water-sources-and-uses.L3`
 
-**Summary.** Clear water is not always clean to drink. How can you tell? In this unit you will follow the pipe to see where your tap water comes from, test whether rain soaks into different grounds, and count how many litres your family uses.
+**Summary.** Clear water is not always clean to drink. How can you tell? In this lesson you will follow the pipe to see where your tap water comes from, test whether rain soaks into different grounds, and count how many litres your family uses.
 
-**Intro.** *Fill a glass from the tap and hold it up to the light. It looks like nothing but water. Where was this water last week? And is there anything else in it?* Most children say the water comes from the tap. But a tap makes no water. It only lets out water that is already in the pipe. The pipe brings it from a tank, a well or a river, and those were filled by rain. In this unit you follow your water back to where it started. You also dry spoonfuls of clear water on a plate, to see what was hiding in them.
+**Intro.** *Fill a glass from the tap and hold it up to the light. It looks like nothing but water. Where was this water last week? And is there anything else in it?* Most children say the water comes from the tap. But a tap makes no water. It only lets out water that is already in the pipe. The pipe brings it from a tank, a well or a river, and those were filled by rain. In this lesson you follow your water back to where it started. You also dry spoonfuls of clear water on a plate, to see what was hiding in them.
 
 ## Learning outcomes
 0. I can name where the water in my home comes from, such as a river, a lake, a well or a borewell, and how it reaches the tap.
@@ -32,6 +32,7 @@
 - **Stepwell**: A deep well with stone stairs going down to the water. People walked down further as the water level fell in the dry season. *e.g.* Rani ki Vav in Patan, Gujarat, and Chand Baori in Abhaneri, Rajasthan, are famous stepwells.
 - **Tanka**: A covered underground tank used in the Thar desert. Rain falling on a clean, sloping courtyard runs into it and is stored for months. *e.g.* A family in a desert village drinks tanka water all through the dry season.
 - **Johad**: A curved wall of earth built across a slope to hold back rainwater, so it has time to soak into the ground. *e.g.* Villagers in Alwar, Rajasthan, built many johads to refill their wells.
+- **Rainwater harvesting**: Rainwater harvesting means catching rain and keeping it for later, instead of letting it run away. *e.g.* A pipe takes rain from a roof into a tank. The family uses the water to wash clothes and water plants.
 - **Dissolve**: When something mixes into water so completely that you cannot see it any more. It is still there. *e.g.* Stir salt or sugar into water and it dissolves.
 - **Germs**: Living things far too small to see, such as bacteria and viruses. Some of them make people ill. *e.g.* Germs in dirty water can cause tummy illnesses such as cholera.
 - **Cholera**: An illness caused by a germ that lives in water dirtied by human waste. It causes very bad diarrhoea and can kill quickly if not treated. *e.g.* In 1854, a doctor in London, John Snow, showed that cholera spread through water from one pump.
@@ -111,6 +112,20 @@ Rain in India is very uneven. Mawsynram in Meghalaya gets nearly 12 metres of ra
 - e.g. A village borewell that once struck water at 30 metres may now need to go down 100 metres or more.
 - e.g. In the summer of 2019, special trains carried millions of litres of water to Chennai.
 - e.g. Paving over fields and filling in ponds means less rain soaks in to refill the ground.
+### Too much water, all at once · *defined*
+**Definition:** Too much water is a problem too. When heavy rain cannot soak in or drain away, it floods streets and homes.
+
+A place can have too little water in summer and too much water in the monsoon. Both hurt people. In September 2022, very heavy rain fell on Bengaluru. Water stood on roads and flowed into homes and offices. People went to work in tractors and boats. Many people said the city had built over lakes and blocked the old drains, so the rain had nowhere to go. The same city worries about too little water in dry summers. This is why we need ground that soaks rain in, clear drains and tanks that store the extra rain for later.
+- e.g. A tarred road with a blocked drain turns into a stream in heavy rain.
+- e.g. A river that spills over its banks in the monsoon covers fields and villages.
+- e.g. A pond or lake holds extra rain, and keeps it from flooding the street.
+### Saving water at home · *defined*
+**Definition:** We save water by wasting less, using the same water twice, and catching rain. Small habits at home add up to many litres.
+
+Three small habits save a lot. Turn the tap off while you brush your teeth. Take a bucket bath instead of a long shower. Fix a dripping tap. Next, use water twice. The water you used to rinse rice, dal or vegetables is clean enough for the tulsi on the balcony. Do not use it if it has soap or oil in it. Last, catch the rain. A roof sends rain down a pipe, and the pipe can fill a tank instead of running into the drain. One millimetre of rain on one square metre of roof gives about one litre of water. A roof of 100 square metres, in a rain of 10 millimetres, gives about 1,000 litres. Catching rain from roofs is called rainwater harvesting. Many cities in India now ask for it in new buildings.
+- e.g. A child pours the rice-washing water on the tulsi, instead of down the drain.
+- e.g. A school roof sends rain through a pipe into an underground tank.
+- e.g. A family keeps a bucket in the bathroom, and fills it with the water that comes before the hot water.
 ### Weighing hidden water from space · *defined*
 **Definition:** The GRACE satellites measured tiny changes in Earth's gravity. These showed where underground water was being lost.
 
@@ -676,27 +691,27 @@ Today, on that same street in London, there is a copy of the old pump. It has no
   - Think: If the courtyard is dirty when the rain comes, what happens to the drinking water for the whole year?
 
 ## Worksheets
-### Water Detective (core) (core, 15 questions)
+### Water Detective (core) (core, 16 questions)
 1. (mcq) Where does almost all the fresh water we use begin?  
-   Options: In the tap / As rain / In the overhead tank / In the sea  
+   Options: In the tap / In the overhead tank / As rain / In the sea  
    **Answer:** As rain. *Why:* Rain fills rivers, lakes and the ground. Taps and tanks only pass water on. Picking the tap or the tank means stopping the trail too early. The sea is salty, so we cannot drink it without removing the salt.
 2. (fill) Water hidden under the ground, in the gaps between grains of soil and rock, is called ____.  
    **Answer:** ['groundwater', 'ground water']. *Why:* Groundwater is rain that soaked into the ground. Wells and borewells pull it up.
 3. (mcq) In Rain on Four Grounds, you pour the same mug of water on a tub of soil, a tub of sand, a tub of gravel and a tile. Guess first: where will most of the water run off?  
-   Options: The sand / The gravel / The tile  
+   Options: The sand / The tile / The gravel  
    **Answer:** The tile. *Why:* A tile has no gaps for water to go into, so the water runs off its edges. Sand, gravel and soil have gaps, so water soaks in. Gravel and sand soak it up fastest, because their gaps are biggest.
 4. (sort) Sort these grounds. Does rain mostly soak in, or run off?  
    **Answer:** a grassy field → Soaks in; a tarred road → Runs off; a forest floor → Soaks in; a tin roof → Runs off; a sandy beach → Soaks in; a tiled courtyard → Runs off. *Why:* Soil, sand, grass and forest floors have gaps for water to trickle into. Roads, roofs and tiles have none.
 5. (match) Match each water source to what it is.  
    **Answer:** River → water flowing over the land towards the sea; Borewell → a deep, narrow hole with a pump that brings up groundwater; Reservoir → a big lake made by building a dam across a river; Tanker → a truck that carries water to homes. *Why:* These are the main places our water comes from. Rivers and reservoirs are surface water. Borewells bring up groundwater. Tankers carry water from somewhere else.
 6. (mcq) Why does water in a clay matka stay cool?  
-   Options: Clay is made of something cold / The matka keeps the sunlight out / Water seeps through the clay and evaporates, taking heat away / The water inside slowly turns to ice  
+   Options: Clay is made of something cold / The matka keeps the sunlight out / The water inside slowly turns to ice / Water seeps through the clay and evaporates, taking heat away  
    **Answer:** Water seeps through the clay and evaporates, taking heat away. *Why:* Evaporating water carries heat away, so the water inside cools. 'Clay is cold' is a common guess. But a dry clay pot left in the sun gets hot like anything else. Any covered pot keeps sunlight out, but that does not explain why a matka is cooler than a steel pot.
 7. (mcq) Old stepwells in India have long stone stairs going down to the water. Why were the stairs built?  
    Options: So people could reach the water even when its level fell in the dry season / Only to make the well look beautiful / To make the water cold  
    **Answer:** So people could reach the water even when its level fell in the dry season. *Why:* In the dry months the groundwater level falls, and the water in the well sinks lower. The stairs let people walk down to it, however low it went. Many stepwells are also beautiful, but the stairs were built for reaching the water.
 8. (mcq) Which way kills germs in water?  
-   Options: Leaving it to settle / Pouring it through a cloth / Boiling it until big bubbles roll / Putting it in a steel tumbler  
+   Options: Boiling it until big bubbles roll / Leaving it to settle / Pouring it through a cloth / Putting it in a steel tumbler  
    **Answer:** Boiling it until big bubbles roll. *Why:* Boiling kills germs. Settling and a cloth remove bits you can see, but germs are far too small to be caught that way. Most slip right through the cloth.
 9. (fill) A bucket holds about 15 litres. A bath uses 2 full buckets of water. The bath uses ____ litres.  
    **Answer:** ['30', 'thirty']. *Why:* 2 lots of 15 litres is 15 + 15 = 30 litres. A litre is a unit for how much liquid something holds. A big water bottle often holds 1 litre.
@@ -712,27 +727,29 @@ Today, on that same street in London, there is a copy of the old pump. It has no
    **Answer:** The drain carries it to a stream, a river or the sea. The rain does not soak in, so it does not refill the groundwater, and wells and borewells get less.. *Why:* A strong answer follows the water on from the drain, and says that rain which runs off cannot refill the groundwater.
 15. (truefalse) Rain that soaks into the ground can end up in a well far away from where it fell.  
    **Answer:** True. *Why:* True. Groundwater moves very slowly through the gaps in soil and rock, sometimes for years, so the rain that fills a well may have fallen a long way off.
-### Water in Real Life (stretch) (stretch, 15 questions)
+16. (sort) Which of these save water, and which waste it?  
+   **Answer:** turning the tap off while brushing teeth → Saves water; a bucket bath → Saves water; rice-rinsing water poured on a plant → Saves water; a dripping tap nobody fixes → Wastes water; a hose running while washing a car → Wastes water; a roof pipe that fills a tank → Saves water. *Why:* Using less water, using it twice, and catching rain all save water. A dripping tap and a running hose lose many litres for nothing.
+### Water in Real Life (stretch) (stretch, 16 questions)
 1. (mcq) Look at the chart from the Cool Matka Test. Which container kept the water coolest?  
    Options: The steel bottle / The bottle in a wet cloth / The clay matka  
    **Answer:** The clay matka. *Why:* The matka's bar is the shortest, at 24 °C. On this chart a shorter bar means cooler water. Picking the steel bottle usually means reading the tallest bar as the best.
 2. (mcq) On a hot, dry day the matka water is cool. On a sticky, humid day in the monsoon, it is hardly cooler than the room. Why?  
-   Options: The clay gets wet from the rain / Water evaporates slowly when the air is already full of water vapour / Matkas only work in summer  
+   Options: Water evaporates slowly when the air is already full of water vapour / The clay gets wet from the rain / Matkas only work in summer  
    **Answer:** Water evaporates slowly when the air is already full of water vapour. *Why:* The matka cools because water evaporates from its outside. Humid air already holds a lot of vapour, so evaporation is slow, and less heat is carried away. This is also why wet clothes dry slowly in the monsoon.
 3. (mcq) In A Well in a Jar, the water level fell after 5 pumps. Then you covered the soil with plastic and poured more rain on top. What happened?  
-   Options: The level rose a lot / The level did not rise, because the rain could not soak in / The jar overflowed  
+   Options: The level did not rise, because the rain could not soak in / The level rose a lot / The jar overflowed  
    **Answer:** The level did not rise, because the rain could not soak in. *Why:* The plastic stopped the rain soaking down, just like cement over real ground. So nothing refilled the groundwater. Picking 'rose a lot' means thinking rain reaches the well whatever covers the ground.
 4. (sort) What does each way of cleaning water do? Sort them.  
    **Answer:** settling → Removes bits you can see; a cloth filter → Removes bits you can see; boiling → Kills germs; chlorine → Kills germs; a sand filter → Removes bits you can see; strong sunlight on a clear bottle for 6 hours → Kills germs. *Why:* Settling and filters catch bits that are big enough to sink or get stuck. Boiling, chlorine and strong sunlight kill germs.
 5. (mcq) Why does a city with lots of roads and buildings often flood in heavy rain?  
-   Options: Cities get more rain than villages / Buildings make rain / Rain cannot soak into cement and tar, so it all runs off at once  
+   Options: Cities get more rain than villages / Rain cannot soak into cement and tar, so it all runs off at once / Buildings make rain  
    **Answer:** Rain cannot soak into cement and tar, so it all runs off at once. *Why:* Hard ground has no gaps, so the rain runs off all at once and overfills the drains. Cities usually do not get more rain than villages. The difference is the ground, not the sky.
 6. (match) Match each water store to what it is.  
    **Answer:** Tanka → a covered underground tank in the Thar desert; Stepwell → a deep well with stairs down to the water; Matka → a clay pot that keeps drinking water cool; Overhead tank → a tank on a roof that sends water down the pipes. *Why:* These are ways Indian homes and villages store water, old and new.
 7. (order) Put the steps of a city water treatment plant in order.  
    **Answer:** order shown. *Why:* First the water is collected. Then heavy bits settle, smaller bits are filtered out, germs are killed with chlorine, and only then is it sent to homes.
 8. (mcq) Look at the chart from a Family Water Count. Which job used the most water?  
-   Options: Drinking / The toilet / Bathing / Washing clothes  
+   Options: Drinking / Bathing / The toilet / Washing clothes  
    **Answer:** Bathing. *Why:* Bathing has the tallest bar, at 150 litres. The toilet is second, at 120 litres. Picking drinking means guessing from what we think matters most, not reading the chart.
 9. (perspective) In a village near Kolar, in Karnataka, the wells are drying up. Three people disagree about what to do.  
    **Answer:** A strong answer picks a side and uses A Well in a Jar as evidence: pumping lowered the water for the whole jar, not just near the straw. It answers back fairly from another side, for example Selvi: a limit must still let farmers earn a living.. *Why:* This is a real problem in many parts of India. Groundwater is shared, but each farmer needs it. There is no single right answer, so listen for evidence and fairness.
@@ -749,9 +766,11 @@ Today, on that same street in London, there is a copy of the old pump. It has no
    **Answer:** Clean out the mud and weeds, so the eri holds more monsoon rain that soaks into the ground. *Why:* A clean, deep eri holds more monsoon rain, and the water slowly soaks into the ground and refills the wells. Cement stops the rain soaking in. Pumping harder takes out water faster than it comes back.
 15. (truefalse) In the same storm, a bigger roof catches more rain than a smaller roof.  
    **Answer:** True. *Why:* True. Each square metre of roof catches 1 litre for every millimetre of rain, so more square metres catch more litres.
+16. (write) Tell a grown-up your answer, and ask them to write it down. Bengaluru has floods in the monsoon and water shortage in summer. Name one thing the city could do that helps with both.  
+   **Answer:** For example: keep the lakes and open soil so rain soaks in and fills the ground, or catch roof rain in tanks. Any sensible idea is good.. *Why:* Anything that holds rain in the monsoon, in a lake, in the soil or in a tank, helps with floods and gives water for the dry months. A strong answer says how the rain would be kept.
 ### Water Puzzles and Big Ideas (challenge) (challenge, 15 questions)
 1. (mcq) A village well dried up after the forest on the hills above it was cut down. The hills became bare and hard. Why did the well dry up?  
-   Options: The well was dug too deep / Rain ran off the bare hills before it could soak in and refill the groundwater / Trees drink all the rain, so cutting them should have helped  
+   Options: Rain ran off the bare hills before it could soak in and refill the groundwater / The well was dug too deep / Trees drink all the rain, so cutting them should have helped  
    **Answer:** Rain ran off the bare hills before it could soak in and refill the groundwater. *Why:* Forest floors slow rain down and let it soak in. Bare, hard ground makes it run away. So less water refilled the ground. Trees do use water, but forests help far more rain soak in than they use.
 2. (mcq) Satellites cannot see under the ground. But water is heavy, so a lot of it pulls a tiny bit on things above. How could a satellite tell that groundwater is being pumped out?  
    Options: It takes photographs of the underground lakes / It feels the pull of gravity there get slightly weaker / It measures the temperature of the soil  
@@ -771,7 +790,7 @@ Today, on that same street in London, there is a copy of the old pump. It has no
 9. (draw) Draw the journey of one water molecule over a very long time. Show at least five places it has been, from space to your glass.  
    **Answer:** Any drawing with a sensible order, such as: ice in space, an icy comet or rock, the sea, a cloud, rain, a river, groundwater, a tree, a dinosaur, a well, your glass.. *Why:* Water goes round and round for billions of years. It is never new and never used up.
 10. (mcq) A city by the sea runs out of lake water in a dry summer. Why can't people just drink the sea water?  
-   Options: It is too salty, and taking the salt out needs special plants and lots of electricity / Sea water is too cold to drink / It is fine to drink just as it is  
+   Options: Sea water is too cold to drink / It is fine to drink just as it is / It is too salty, and taking the salt out needs special plants and lots of electricity  
    **Answer:** It is too salty, and taking the salt out needs special plants and lots of electricity. *Why:* Salty water makes the body lose more water than it gains. The salt can be removed, but that needs special plants and lots of electricity. So a city may have to bring fresh water from far away, by pipe or even by train.
 11. (truefalse) Many people say India is short of water mainly because it does not rain enough. Is that true?  
    **Answer:** False. *Why:* False. India gets a lot of rain, but mostly in a few months. In many places more groundwater is pumped out than rain puts back, and rain on hard ground runs away to the sea. Saving and soaking in rain matters as much as how much falls.
@@ -786,47 +805,56 @@ Today, on that same street in London, there is a copy of the old pump. It has no
 
 ## Videos
 - **How Does Water Get to Your House?** (SciShow Kids, 4 min) id `cGi4PugN4qY`: A clear, child-friendly walk from a river or a well, through a treatment plant and pipes, to the tap. It matches Follow the Pipe. *Check:* It shows an American town, so talk about how your own home's water differs.
-- **The 1850s map that changed how we fight outbreaks** (Vox, 7 min) id `VJ86D_DtyWg`: For the parent and curious older children. It tells the true story behind this unit's story: John Snow, the Broad Street pump and the map of cholera deaths. *Check:* It talks about deaths and illness, so a parent should watch it first.
+- **The 1850s map that changed how we fight outbreaks** (Vox, 7 min) id `VJ86D_DtyWg`: For the parent and curious older children. It tells the true story behind this lesson's story: John Snow, the Broad Street pump and the map of cholera deaths. *Check:* It talks about deaths and illness, so a parent should watch it first.
 - **Get Lost in the Maze-Like Stepwell of Chand Baori** (Great Big Story, 2 min) id `UjubH9b4BvE`: Shows the huge stepwell at Abhaneri in Rajasthan, more than a thousand years old, with about 3,500 steps zigzagging down to the water. *Check:* A parent may like to watch it first.
 
 ## Quiz
 1. (mcq) Which of these only stores water and passes it on, but is not where the water really comes from?  
-   Options: A river / An overhead tank / Groundwater  
+   Options: A river / Groundwater / An overhead tank  
    **Answer:** An overhead tank. *Why:* An overhead tank is filled by a motor from a sump, a borewell or a pipe. Rivers and groundwater are real sources, filled by rain.
 2. (mcq) What is groundwater mostly like?  
-   Options: Rain held in tiny gaps between grains of soil and rock, like water in a sponge / A big underground lake under every city / Water lying in puddles on the ground  
+   Options: A big underground lake under every city / Water lying in puddles on the ground / Rain held in tiny gaps between grains of soil and rock, like water in a sponge  
    **Answer:** Rain held in tiny gaps between grains of soil and rock, like water in a sponge. *Why:* Groundwater fills tiny gaps, like water in a sponge. 'A big lake' is a very common picture, but it is mostly wrong. Puddles are on top of the ground, not in it.
 3. (mcq) Rain falls on four places. Where will it soak in fastest?  
-   Options: A cement floor / A tin roof / Sand / A tiled courtyard  
+   Options: A cement floor / A tin roof / A tiled courtyard / Sand  
    **Answer:** Sand. *Why:* Sand has big gaps between its grains, so water rushes in. Cement, tin and tiles have no gaps, so rain runs off.
 4. (mcq) In A Well in a Jar, what made the water level at the bottom fall?  
-   Options: Pouring more rain on top / Pumping water up the straw / Leaving it alone  
+   Options: Pumping water up the straw / Pouring more rain on top / Leaving it alone  
    **Answer:** Pumping water up the straw. *Why:* Pumping takes water out of the gaps, so the level falls. Only rain soaking down refills it.
 5. (mcq) To keep water cool, why must a matka be plain clay, with no shiny coating?  
-   Options: Water must seep through tiny holes in the clay and evaporate on the outside / A shiny coating makes the pot heavy / A shiny coating makes the water salty  
+   Options: A shiny coating makes the pot heavy / Water must seep through tiny holes in the clay and evaporate on the outside / A shiny coating makes the water salty  
    **Answer:** Water must seep through tiny holes in the clay and evaporate on the outside. *Why:* The cooling comes from water evaporating on the outside of the pot. A shiny glaze blocks the tiny holes, so no water seeps out, and the pot stays as warm as a steel one.
 6. (mcq) In the Thar desert, rain falls on only a few days a year. Families store rainwater in a tank dug under the ground, with a cover. Why put it under the ground and cover it?  
-   Options: So the water stays cool and clean, and less of it dries up in the sun / So nobody can find it / Because rain falls upwards  
+   Options: So nobody can find it / Because rain falls upwards / So the water stays cool and clean, and less of it dries up in the sun  
    **Answer:** So the water stays cool and clean, and less of it dries up in the sun. *Why:* Under the ground and covered, the water stays cool, so less evaporates. The cover keeps out dust and animals. So the water lasts clean for the dry months.
 7. (mcq) A glass of water is perfectly clear and tastes sweet. Is it safe to drink?  
-   Options: Yes, clear water is always safe / Not for certain. It could carry germs or dissolved poisons that we cannot see. / Only if it is cold  
+   Options: Yes, clear water is always safe / Only if it is cold / Not for certain. It could carry germs or dissolved poisons that we cannot see.  
    **Answer:** Not for certain. It could carry germs or dissolved poisons that we cannot see.. *Why:* Germs and dissolved substances like arsenic are invisible. The Broad Street pump in 1854 had clear, sweet water that spread cholera.
 8. (mcq) Muddy water was settled and poured through a cloth. It now looks clear. What should you do before drinking it?  
    Options: Nothing, it is clean now / Boil it, or purify it, to kill germs / Add salt  
    **Answer:** Boil it, or purify it, to kill germs. *Why:* Settling and a cloth remove the mud you can see. Germs slip through. Boiling or a proper purifier kills them.
 9. (mcq) Why does muddy water come out clearer after it trickles through a thick layer of sand?  
-   Options: The bits of mud get stuck in the tiny gaps between the sand grains, and the water slips through / The sand turns the mud into water / The sand kills all the germs  
+   Options: The sand turns the mud into water / The sand kills all the germs / The bits of mud get stuck in the tiny gaps between the sand grains, and the water slips through  
    **Answer:** The bits of mud get stuck in the tiny gaps between the sand grains, and the water slips through. *Why:* Sand grains have tiny gaps between them, like the ground that holds groundwater. Water fits through, but most bits of mud do not. A sand filter does not kill germs, so the water must still be boiled or purified.
 10. (mcq) A family counted their water on a Sunday, when everyone was home and all the clothes were washed. Why might one Sunday not show how much they usually use?  
-   Options: Different days use different amounts, so it is better to count on a few days / Water is heavier on Sundays / Tally marks only work on school days  
+   Options: Water is heavier on Sundays / Tally marks only work on school days / Different days use different amounts, so it is better to count on a few days  
    **Answer:** Different days use different amounts, so it is better to count on a few days. *Why:* One day can be unusual. Counting on a few different days and comparing gives a fairer picture of what a family usually uses.
 11. (mcq) Why do wells and borewells in many parts of India go dry?  
-   Options: People pump out groundwater faster than rain refills it / It never rains in India / The water sinks too deep to be found  
+   Options: It never rains in India / The water sinks too deep to be found / People pump out groundwater faster than rain refills it  
    **Answer:** People pump out groundwater faster than rain refills it. *Why:* When pumping is faster than refilling, the water level falls. India pumps more groundwater than any other country. India gets a lot of rain, but unevenly.
-12. (mcq) Scientists think the hydrogen atoms in the water you drink were made…  
-   Options: at the water treatment plant / in the Big Bang, when the universe began / last monsoon  
+12. (mcq) In September 2022, heavy rain flooded parts of Bengaluru. Which thing makes a flood worse?  
+   Options: Lakes and soil covered over, and drains blocked / Lots of trees and open soil / A lake that holds extra rain  
+   **Answer:** Lakes and soil covered over, and drains blocked. *Why:* When the ground is covered and the drains are blocked, rain has nowhere to go, so it stays on the street. Open soil, trees and lakes hold the rain, so they help against floods.
+13. (mcq) A roof sends its rain into a tank. What does this do for the family?  
+   Options: It makes the water clean enough to drink at once / It stores rain to use later, for washing and plants / It stops rain from falling on the roof  
+   **Answer:** It stores rain to use later, for washing and plants. *Why:* A tank holds the rain for dry days. Roof rain picks up dust and bird droppings, so the water still needs cleaning before anyone drinks it.
+14. (mcq) Which water is fine to pour on the tulsi pot?  
+   Options: Water from washing greasy pans with strong soap / The water used to rinse rice / Water from a blocked drain  
+   **Answer:** The water used to rinse rice. *Why:* Rice-rinsing water is only a little starchy, so the plant can drink it up. Soap, grease and drain water can harm the plant's roots.
+15. (mcq) Scientists think the hydrogen atoms in the water you drink were made…  
+   Options: at the water treatment plant / last monsoon / in the Big Bang, when the universe began  
    **Answer:** in the Big Bang, when the universe began. *Why:* Hydrogen atoms were made in the Big Bang, about 13.8 billion years ago. The water itself goes round and round, so it is very old. 'Last monsoon' mixes up when the rain fell with when its atoms were made.
-13. (mcq) The Moon has no air to hold water in. Sunlight there is fierce. Where on the Moon is ice most likely to last?  
+16. (mcq) The Moon has no air to hold water in. Sunlight there is fierce. Where on the Moon is ice most likely to last?  
    Options: In rivers on its surface / In deep craters near its poles that sunlight never reaches / On its sunny side at noon  
    **Answer:** In deep craters near its poles that sunlight never reaches. *Why:* Ice in sunlight on the Moon turns straight into gas and is lost. In dark craters near the poles, it stays far below freezing, so ice can last. Instruments have found a thin trace of water in Moon dust too. The Moon has no rivers.
 
@@ -851,7 +879,7 @@ Today, on that same street in London, there is a copy of the old pump. It has no
 - A red clay matka on a stand, sweating little drops in summer.
 - A handpump at a village corner, with a cement platform and a small drain.
 - Water tankers queuing in a city lane in summer.
-- Old stepwells, such as Agrasen ki Baoli in Delhi or Rani ki Vav in Patan.
+- An old stepwell, with steps going down to the water.
 - A village pond, full after the monsoon and shrinking by May.
 - Rainwater running off a road into a drain, while the soil beside it soaks the rain in.
 - A wet patch and green moss on a wall where a pipe is leaking.
@@ -906,8 +934,8 @@ Where the Water Goes (sci.water.L3): Topic-level song for Water L3
 - [Centre for Science and Environment](https://www.cseindia.org) · interactive: An Indian group that has written a lot about rainwater harvesting, and about old ways of storing water. It is also the publisher of a well-known book on India's traditional water systems, 'Dying Wisdom'.
 - [Exploratorium Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a famous science museum. Search for water.
 - [Rani ki Vav, the Queen's Stepwell](https://whc.unesco.org/en/list/922/) · place · Patan, Gujarat: A stepwell built nearly 1,000 years ago under Queen Udayamati, with seven levels of carved stone. It is a UNESCO World Heritage Site.
-- [Chand Baori stepwell]() · place · Abhaneri, near Jaipur, Rajasthan: One of the deepest stepwells in India, with about 3,500 steps in a zigzag pattern.
-- [Agrasen ki Baoli]() · place · New Delhi: An old stepwell right in the middle of the city, near Connaught Place.
+- Chand Baori stepwell · place · Abhaneri, near Jaipur, Rajasthan: One of the deepest stepwells in India, with about 3,500 steps in a zigzag pattern.
+- Agrasen ki Baoli · place · New Delhi: An old stepwell right in the middle of the city, near Connaught Place.
 - [Dholavira](https://whc.unesco.org/en/list/1645/) · place · Kutch, Gujarat: A Harappan city about 4,500 years old, with huge stone reservoirs for storing rain. It became a UNESCO World Heritage Site in 2021.
 - [Nehru Science Centre](https://www.nehrusciencecentre.gov.in) · place · Mumbai: A science centre with hands-on exhibits. Look for ones about water, pumps and pressure.
 
@@ -918,6 +946,11 @@ Where the Water Goes (sci.water.L3): Topic-level song for Water L3
 - [The Water Princess, by Susan Verde, illustrated by Peter H. Reynolds](https://www.amazon.in/s?k=The+Water+Princess+Susan+Verde) (book): A picture book based on the childhood of Georgie Badiel in Burkina Faso, who walked with her mother every day to fetch water. Used in a6. 
 - [Water Is Water, by Miranda Paul, illustrated by Jason Chin](https://www.amazon.in/s?k=Water+Is+Water+Miranda+Paul) (book): A gentle picture book about water changing form, from rain to fog to ice and back. Used in e1. 
 - [Aaj Bhi Khare Hain Talab, by Anupam Mishra (in Hindi, for the parent)](https://www.amazon.in/s?k=Aaj+Bhi+Khare+Hain+Talab+Anupam+Mishra) (book): A famous book about the ordinary people who built and cared for India's ponds and tanks. The title means 'The Ponds Are Still Standing'. Used in c2. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in A Well in a Jar, Rain Gauge and Sky Diary, Catch the Rain: a model rooftop tank. About ₹10 to ₹30. Any school ruler is fine. Used in e2, a2, p1. Get it before A Well in a Jar.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Catch the Rain: a model rooftop tank. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in p1. Get it before Catch the Rain: a model rooftop tank.
+- [Clean sand (a small bag)](https://www.amazon.in/s?k=play+sand+small+bag) (material): Used in Rain on Four Grounds: soak in or run off?, A Well in a Jar, Cool Water Without a Fridge. About ₹20 to ₹60. Fine soil sieved from a pot works. Used in e1, e2, c1, c2. Get it before Rain on Four Grounds: soak in or run off?.
+- [A small toy car with free-rolling wheels](https://www.amazon.in/s?k=toy+car+pull+back+small) (material): Used in Catch the Rain: a model rooftop tank. About ₹100 to ₹200. A marble or a round torch cell works. Used in p1. Get it before Catch the Rain: a model rooftop tank.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Where does almost all our fresh water begin? → As rain.

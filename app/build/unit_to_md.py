@@ -41,6 +41,7 @@ if r:
     [w(f"- Ask: {q}") for q in r["ask"]]
 w("\n## Deep and big questions"); [w(f"- *{q['kind']}:* {q['q']} (hint: {q['hint']})") for q in u["big_questions"]]
 s = u["story"]; w(f"\n## Story: {s['title']}\n*{s.get('note','')}*\n"); [w(p + "\n") for p in s["text"]]
+for s in u.get("more_stories", []): w(f"\n## Another story: {s['title']}\n*{s.get('note','')}*\n"); [w(p + "\n") for p in s["text"]]
 w(f"**For the parent:** {s['epiphany']}\n"); [w(f"- Ask: {q}") for q in s["ask"]]
 for k, name in (("games", "Games"), ("experiments", "Experiments"), ("activities", "Activities"), ("projects", "Projects"), ("challenges", "Challenges")):
     w(f"\n## {name}")
@@ -57,7 +58,7 @@ for k, name in (("games", "Games"), ("experiments", "Experiments"), ("activities
 w("\n## Worksheets")
 for ws in u["worksheets"]:
     w(f"### {ws['title']} ({ws['tier']}, {len(ws['items'])} questions)"); [item(i + 1, it) for i, it in enumerate(ws["items"])]
-w("\n## Videos"); [w(f"- **{v['title']}** ({v['channel']}, {v['mins']} min) id `{v.get('youtube') or 'to find'}`: {v['why']} *Check:* {v['check']}") for v in u["videos"]]
+w("\n## Videos"); [w(f"- **{v['title']}** ({v.get('channel', '')}, {v.get('mins', '')} min) id `{v.get('youtube') or 'to find'}`: {v['why']} *Check:* {v.get('check', '')}") for v in u["videos"]]
 w("\n## Quiz"); [item(i + 1, it) for i, it in enumerate(u["quiz"])]
 w("\n## Applications"); [w(f"- {a}") for a in u["applications"]]
 w("\n## Spotted around us"); [w(f"- {a['text']}") for a in u["spotted"]]
@@ -66,7 +67,7 @@ w("\n## Questions to ask kids"); [w(f"- {a}") for a in u["ask_kids"]]
 w("\n## Jokes"); [w(f"- {j['j']} *{j['a']}*") for j in u["jokes"]]
 w("\n## Connected maths"); [w(f"- {m['problem']} **{m['answer']}**. {m['explain']} (queues `{m['math_unit']}`)") for m in u["maths"]]
 w(f"\n## Song\n{u['song']['title']} ({u['song']['topic_level']}): {u['song'].get('note','')}")
-w("\n## Links"); [w(f"- [{l['title']}]({l['url']}) · {l['kind']}{' · ' + l['where'] if l.get('where') else ''}: {l['why']}") for l in u["links"]]
+w("\n## Links"); [w(f"- {'[' + l['title'] + '](' + l['url'] + ')' if l.get('url') else l['title']} · {l['kind']}{' · ' + l['where'] if l.get('where') else ''}: {l['why']}") for l in u["links"]]
 w("\n## Things to buy"); [w(f"- [{b['item']}]({b['url']}) ({b['kind']}): {b['why']} Used in {', '.join(b['used_in'])}. {b.get('plan','')}") for b in u["buy"]]
 w("\n## Warm-up"); [w(f"- {q['q']} → {q['a']}") for q in u["warmup"]]
 p = u["plan"]; w(f"\n## Plan\n- Start options: {', '.join(p['start_options'])}\n- Default order: {' → '.join(p['default_order'])}\n- Core: {', '.join(p['core'])}")

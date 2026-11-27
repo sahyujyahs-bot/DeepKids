@@ -760,11 +760,11 @@
       "t": "mcq",
       "q": "A pen spring pulled very hard. Which mat does it go on?",
       "options": [
-       "SPRING BACK",
        "STAY",
+       "SPRING BACK",
        "SNAP"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Game moment: STAY is right. Pulled gently, the spring would go on SPRING BACK. Pulled very hard, it passes its elastic limit and stays long. Picking SNAP usually means 'too far' is pictured as always breaking. Springs usually stretch out first."
      },
      "parent": "The same spring pulled gently goes on SPRING BACK. This shows that one thing can be elastic up to a limit, and then stay changed."
@@ -894,10 +894,10 @@
       "q": "A spring is pulled TOO FAR, past its limit. When you let go, what happens?",
       "options": [
        "It springs all the way back",
-       "It stays stretched, or it snaps",
-       "It gets shorter than before"
+       "It gets shorter than before",
+       "It stays stretched, or it snaps"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Game moment: a spring pulled past its limit cannot get home. It stays stretched or snaps. Picking 'springs all the way back' means elastic was thought to have no limit. Picking 'shorter' mixes up stretching with squashing."
      },
      "parent": "COLD RUBBER links to a true story. Cold rubber springs back slowly. That mattered on the space shuttle Challenger in 1986. Tell it only if your child is ready for a sad story."
@@ -925,12 +925,12 @@
      "t": "mcq",
      "p": "Which of these is hard, but springs back?",
      "opts": [
-      "The hard steel spring inside a clicky pen",
       "A soft pillow",
       "A lump of playdough",
+      "The hard steel spring inside a clicky pen",
       "A cotton ball"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A steel spring is hard, yet it springs back every time you click the pen. So elastic does not mean soft. Playdough is soft, but it does not spring back.",
      "art": "A clicky pen opened up, showing its small steel spring."
     },
@@ -983,12 +983,12 @@
      "t": "mcq",
      "p": "A rubber band is 11 cm long with 5 coins and 12 cm long with 10 coins. How long will it be with 15 coins?",
      "opts": [
-      "About 13 cm",
       "Still 12 cm",
       "About 24 cm",
-      "About 10 cm"
+      "About 10 cm",
+      "About 13 cm"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Each 5 more coins added about 1 cm. So 15 coins gives about 13 cm.",
      "how": "e1",
      "context": "In the coin stretch test, you hang a paper cup from a rubber band and add coins, 5 at a time. You measure the band each time."
@@ -1211,11 +1211,11 @@
      "t": "mcq",
      "p": "One rubber band stretches 4 cm with 20 coins. Now two of the same bands hang side by side, holding the same 20 coins together. About how far do they stretch?",
      "opts": [
-      "About 2 cm",
       "About 4 cm",
-      "About 8 cm"
+      "About 8 cm",
+      "About 2 cm"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Side by side, the two bands share the coins. Each one carries only half, so each stretches about half as far: 2 cm. Picking 8 cm means picturing the two stretches adding up. That happens only when the bands are joined in a chain.",
      "how": "a2",
      "context": "In the Two in a Row activity, you hang the same coins from one band, from two bands in a chain, and from two bands side by side."
@@ -1231,12 +1231,12 @@
      "t": "mcq",
      "p": "Look at these Bounce Test results. A friend says the sponge ball is the most elastic, because it is the softest. What do the results show?",
      "opts": [
-      "The rubber ball is most elastic, because it springs back highest",
       "Your friend is right: the sponge ball is most elastic",
       "The dough ball is most elastic",
-      "All the balls are equally elastic"
+      "All the balls are equally elastic",
+      "The rubber ball is most elastic, because it springs back highest"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The rubber ball came back up 80 cm out of 100 cm, so it springs back best. The sponge ball came back only 20 cm. Soft is not the same as elastic. Your friend's guess is common, which is why testing matters.",
      "how": "e4",
      "chart": {
@@ -1316,12 +1316,12 @@
      "t": "mcq",
      "p": "A rubber band car goes 60 cm with 5 winds and 180 cm with 15 winds. About how far will it go with 10 winds?",
      "opts": [
-      "About 120 cm",
       "About 60 cm",
       "About 240 cm",
-      "About 10 cm"
+      "About 10 cm",
+      "About 120 cm"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Each wind adds about 12 cm: 60 divided by 5 is 12. 10 winds is 10 times 12, which is 120 cm. It sits halfway between 60 and 180. Picking 240 cm means going past 15 winds instead of between.",
      "how": "p1",
      "context": "In the Rubber Band Car project, you twist a rubber band round the back axle by winding the wheels backwards."
@@ -1467,12 +1467,12 @@
      "t": "mcq",
      "p": "Rubber is made of long tangled chains, like a bowl of cooked noodles. What does stretching do to the chains?",
      "opts": [
-      "It pulls them straighter, and jiggling tangles them again when you let go",
       "It cuts them into short pieces",
+      "It pulls them straighter, and jiggling tangles them again when you let go",
       "It packs them into neat rows, like steel",
       "It makes them melt"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Stretching lines the chains up. The atoms in them jiggle all the time, and there are many more tangled ways than straight ways. So when you let go, they shake back into a tangle. Picking 'neat rows' is how steel is built, not rubber."
     },
     {
@@ -1487,12 +1487,12 @@
      "t": "mcq",
      "p": "Many people think heavy buildings cause earthquakes. Where do earthquakes really start?",
      "opts": [
-      "Many kilometres underground, where rock bends slowly for years and then suddenly slips",
       "Under the heaviest buildings in a city",
       "In the sky, when thunder shakes the ground",
+      "Many kilometres underground, where rock bends slowly for years and then suddenly slips",
       "At the bottom of the sea only"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The Earth's outer layer is broken into giant pieces that push on each other. The rock bends and stores energy, then slips in seconds. Harry Fielding Reid explained this in 1910. Buildings are far too small and too near the top to do it."
     },
     {
@@ -1520,12 +1520,12 @@
      "t": "mcq",
      "p": "In Rubber Band Galaxies, you draw dots on a rubber strip, 1 cm apart, and stretch it. Which dot moves furthest away from the first dot, dot A?",
      "opts": [
-      "The dot furthest from A",
       "The dot nearest to A",
       "All the dots move the same amount",
-      "None of them move"
+      "None of them move",
+      "The dot furthest from A"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Each piece of rubber between the dots stretches. The far dot has the most rubber between it and A, so it moves furthest. Astronomers see the same with galaxies: the furthest ones are moving away fastest. Picking 'all the same' misses that the stretches add up.",
      "how": "a4"
     },
@@ -1576,12 +1576,12 @@
      "t": "mcq",
      "p": "Robert Hooke wrote that every springy thing follows one rule: double the pull, double the stretch. Which result from a coin test shows the rule does not hold for big stretches?",
      "opts": [
-      "Near the end, each 5 coins stretched the band much more than before",
       "Every 5 coins added exactly 1 cm",
+      "Near the end, each 5 coins stretched the band much more than before",
       "The band was 10 cm with no coins",
       "The cup was made of paper"
      ],
-     "a": 0,
+     "a": 1,
      "why": "If the steps of stretch suddenly get bigger, the band no longer follows the rule. Later tests showed the rule works only for small stretches, below the elastic limit. Picking 'exactly 1 cm each time' is evidence for the rule, not against it.",
      "how": "e1",
      "context": "In the coin stretch test, you hang a paper cup from a rubber band and add coins, 5 at a time. You measure the band each time."
@@ -1921,11 +1921,11 @@
       "t": "mcq",
       "q": "The spring came back after small pulls. After a big pull, it stayed longer. What happened?",
       "options": [
-       "It was pulled past its elastic limit, so it changed inside",
        "It slowly grows longer by itself",
+       "It was pulled past its elastic limit, so it changed inside",
        "The ruler moved"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Past its elastic limit, the spring changed inside and took a new length. Picking 'grows longer by itself' misses that it changed only after the big pull. The small pulls left it the same. The next cards show what changed inside."
      },
      "parent": "Most pen springs come back from small pulls. Many start to stay longer once pulled to about one and a half to two times their length. Yours may be different, so trust what you measure. At the end, a gentle pull still springs back, but now to its new length."
@@ -2059,11 +2059,11 @@
       "t": "mcq",
       "q": "The band pulled back to 15 cm flew further than the band pulled back to 10 cm. Why?",
       "options": [
-       "It stored more energy when it was stretched more",
        "It got lighter",
-       "The ruler moved"
+       "The ruler moved",
+       "It stored more energy when it was stretched more"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Stretching the band more stores more energy, and the band gives it back as speed. Picking 'lighter' or 'the ruler moved' means looking for another cause. In a fair test, only the pull changed."
      }
     },
@@ -2190,11 +2190,11 @@
       "t": "mcq",
       "q": "The plastic strip stayed long after a pull. Pulled much further, it tore. What does this show?",
       "options": [
-       "Past its elastic limit it changes for good, and a bit further it breaks",
        "Pulling makes plastic stronger",
-       "The strip got heavier"
+       "The strip got heavier",
+       "Past its elastic limit it changes for good, and a bit further it breaks"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Past its elastic limit the strip changed for good. Pulled a little further, it broke. Picking \"stronger\" misses that the strip got thinner in the middle before it tore."
      },
      "think": "The plastic strip stayed long. What do you think changed inside it?",
@@ -2675,11 +2675,11 @@
       "t": "mcq",
       "q": "Your skin springs back after a pinch. That means skin is…",
       "options": [
-       "Elastic",
        "Brittle",
+       "Elastic",
        "Stays-changed, like dough"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Skin springs back, so it is elastic. Picking 'brittle' means skin was pictured snapping, which it does not. Picking 'stays changed' is what happens to dough, not skin."
      },
      "parent": "After your child answers: skin springs back because of a stretchy material called elastin. The beat is a blood vessel stretching each time the heart squeezes, then springing back."
@@ -2994,11 +2994,11 @@
       "t": "mcq",
       "q": "A branch bends under a swing. When you get off, it stays a little bent. What does that warn you?",
       "options": [
-       "It has passed its elastic limit and may break soon",
        "It is fine, because it is still bending",
-       "It has become stronger"
+       "It has become stronger",
+       "It has passed its elastic limit and may break soon"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A branch that stays bent has passed its elastic limit, so it may break soon. Picking 'it is fine' is a common idea, because bending itself is safe. The warning is when it stops coming back. Picking 'stronger' is the opposite of what happens."
      },
      "think": "Is bending a kind of strength?"
@@ -3114,11 +3114,11 @@
       "t": "mcq",
       "q": "The car went further with 15 winds than with 5 winds. Why?",
       "options": [
-       "The band stored more energy when wound more",
        "The car got lighter",
-       "The floor got smoother"
+       "The floor got smoother",
+       "The band stored more energy when wound more"
       ],
-      "a": 0,
+      "a": 2,
       "why": "More winds twist the band more, so it stores more energy. Picking 'lighter' or 'smoother floor' means looking for another cause. Only the winds changed."
      },
      "chart": {
@@ -3235,11 +3235,11 @@
       "t": "mcq",
       "q": "Pressing the catapult arm down further makes the paper ball go…",
       "options": [
-       "Further, because more energy is stored",
        "Less far, because the arm bends too much",
-       "The same distance"
+       "The same distance",
+       "Further, because more energy is stored"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Pressing further bends the arm more and stores more energy, so the ball goes further. Picking 'bends too much' is right only past the stick's limit, when it stays bent or snaps."
      }
     },
@@ -3421,11 +3421,11 @@
    "t": "mcq",
    "p": "You squeeze a sponge and let go. It puffs back up. What word fits the sponge?",
    "opts": [
-    "Elastic",
     "Brittle",
+    "Elastic",
     "Stays changed"
    ],
-   "a": 0,
+   "a": 1,
    "why": "It changed shape and went back, so it is elastic. Brittle things snap. 'Stays changed' is the opposite of what the sponge did.",
    "outcome": 0
   },
@@ -3433,11 +3433,11 @@
    "t": "mcq",
    "p": "In the coin stretch test, what should stay the same every time you add coins?",
    "opts": [
-    "The rubber band, the cup and how you read the ruler",
     "Nothing. Change everything",
-    "The number of coins"
+    "The number of coins",
+    "The rubber band, the cup and how you read the ruler"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Only the number of coins should change. Then you know the coins caused the stretch. Picking 'the number of coins' gets it backwards: that is the one thing you change.",
    "outcome": 1,
    "how": "e1",
@@ -3471,11 +3471,11 @@
    "t": "mcq",
    "p": "Before you let go of a wound-up toy, where is the energy kept?",
    "opts": [
-    "In its tightly coiled spring",
     "In its wheels",
+    "In its tightly coiled spring",
     "In the air around it"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Winding coils the spring tighter and stores energy in it. As the spring unwinds, it turns the wheels.",
    "outcome": 3
   },
@@ -3495,11 +3495,11 @@
    "t": "mcq",
    "p": "When you land from a jump, which part of you stretches and then springs back to help the next jump?",
    "opts": [
-    "The tendon at the back of your ankle",
     "Your eyebrows",
-    "Your teeth"
+    "Your teeth",
+    "The tendon at the back of your ankle"
    ],
-   "a": 0,
+   "a": 2,
    "why": "This tendon is called the Achilles tendon. It stretches as you land and springs back as you push off, so you use less effort.",
    "outcome": 4
   },
@@ -3531,11 +3531,11 @@
    "t": "mcq",
    "p": "For hundreds of years before an earthquake, what is the rock deep underground doing?",
    "opts": [
-    "Slowly bending and storing energy",
     "Slowly melting",
+    "Slowly bending and storing energy",
     "Staying perfectly still"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Giant pieces of the Earth push on each other, so the rock bends slowly, like a pressed ruler. Then it slips all at once, and the ground shakes.",
    "outcome": 6
   },
@@ -4028,6 +4028,54 @@
    "used_in": [
     "c1"
    ]
+  },
+  {
+   "id": "b-modelling-clay-or-plasticine",
+   "item": "Modelling clay or plasticine",
+   "kind": "material",
+   "why": "Used in Find the Limit. About ₹40 to ₹120. Atta dough mixed with a little salt works.",
+   "url": "https://www.amazon.in/s?k=modelling+clay+plasticine",
+   "used_in": [
+    "e3"
+   ],
+   "plan": "Get it before Find the Limit."
+  },
+  {
+   "id": "b-paper-masking-tape",
+   "item": "Paper masking tape",
+   "kind": "material",
+   "why": "Used in The Bounce Test. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor.",
+   "url": "https://www.amazon.in/s?k=paper+masking+tape",
+   "used_in": [
+    "e4"
+   ],
+   "plan": "Get it before The Bounce Test."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in Rubber Band Orchestra. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "a5"
+   ],
+   "plan": "Get it before Rubber Band Orchestra."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

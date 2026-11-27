@@ -749,10 +749,10 @@
       "q": "The Moon is 60 degrees from the Sun, one-third of the way to full. About how much of its face is lit?",
       "options": [
        "About one-third",
-       "About a quarter",
-       "About a half"
+       "About a half",
+       "About a quarter"
       ],
-      "a": 1,
+      "a": 2,
       "why": "At 60 degrees about 25 parts in 100 are lit. Choosing one-third means expecting the lit part to grow evenly. It grows slowly at first, because we see the lit half almost from behind."
      },
      "context": "This is the last step of How Much of the Moon Is Lit. You graph the percent lit at seven places, compare it with your guesses and explain the shape of the line."
@@ -970,10 +970,10 @@
       "q": "In sunlight a dark shadow ends about 108 widths behind a thing. Where does a 5 mm peppercorn's dark shadow end?",
       "options": [
        "About 5 cm behind it",
-       "About 54 cm behind it",
-       "It never ends"
+       "It never ends",
+       "About 54 cm behind it"
       ],
-      "a": 1,
+      "a": 2,
       "why": "5 mm times 108 is 540 mm, which is 54 cm. Choosing 'it never ends' means thinking of a shadow as a flat patch that only grows. The dark middle narrows to a point, because the Sun is wider than the peppercorn."
      },
      "context": "This step of The Shadow That Runs Out finds the rule. You compare the lamp's distance divided by its width with the numbers you measured for each seed."
@@ -1174,10 +1174,10 @@
       "q": "The Moon reflects about 12 parts in 100 of the sunlight on it. Why does it look white at night?",
       "options": [
        "It makes extra light of its own",
-       "Nothing brighter is near it in the dark sky",
-       "Its ground is as white as paper"
+       "Its ground is as white as paper",
+       "Nothing brighter is near it in the dark sky"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The eye judges lightness by comparing neighbours, as the black card showed. Choosing 'as white as paper' takes the look for the fact. White paper reflects about 80 parts in 100, and the Moon only about 12."
      },
      "context": "This is the last step of A Black Card in the Dark. You show the viewers that the card was black all along, and explain what you found."
@@ -1285,11 +1285,11 @@
       "t": "mcq",
       "q": "The Moon passes exactly in front of the Sun while it is far from the Earth. What do people on the centre line see?",
       "options": [
-       "The Sun completely covered",
        "A ring of Sun round a black Moon",
+       "The Sun completely covered",
        "No change at all"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A far Moon looks a little smaller than the Sun, so a ring is left, as with the coin held too far. Choosing 'completely covered' forgets that the Moon's distance changes."
      },
      "context": "This is the last step of The Coin Eclipse. A coin near your eye hid a plate, and a coin a little further away left a ring. Now you use that for the Sun and the Moon."
@@ -1388,11 +1388,11 @@
       "t": "mcq",
       "q": "The edge of the Earth's shadow on the Moon is curved in every lunar eclipse. What does this show?",
       "options": [
-       "The Moon is flat",
        "The Earth is a ball",
+       "The Moon is flat",
        "The Sun is a ball"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Only a ball throws a round shadow from every direction. A flat disc would sometimes throw a thin, stretched shadow. Aristotle used this reasoning about 2,400 years ago."
      },
      "context": "This is the last step of Fit the Earth's Shadow. You compare your result, found from the curve of the Earth's shadow, with the real widths of the Earth and the Moon."
@@ -1669,10 +1669,10 @@
       "q": "Aristarchus's angle was wrong by less than 3 degrees. How wrong was his distance to the Sun?",
       "options": [
        "About 3 parts in 100 too small",
-       "About 20 times too small",
-       "Exactly right"
+       "Exactly right",
+       "About 20 times too small"
       ],
-      "a": 1,
+      "a": 2,
       "why": "He got 19 times the Moon's distance, and the real figure is about 390. Near 90 degrees, a tiny change in the angle makes a huge change in the distance. Choosing '3 parts in 100' expects a small error to stay small."
      },
      "context": "This is the last step of Aristarchus's Angle. You found that a change from 87 to 89 degrees triples the Sun's distance, and now you judge Aristarchus's result."
@@ -1757,11 +1757,11 @@
       "t": "mcq",
       "q": "It is Purnima on the Earth. What does the Earth look like from the Moon?",
       "options": [
+       "A dark Earth, with no lit part showing",
        "A full Earth",
-       "A half Earth",
-       "A dark Earth, with no lit part showing"
+       "A half Earth"
       ],
-      "a": 2,
+      "a": 0,
       "why": "At Purnima the Moon is on the side of the Earth away from the Sun. From there you look at the Earth's night side. Choosing 'a full Earth' forgets that the two sets of phases are opposite."
      },
      "context": "This is the last step of Swap Places. You saw that the Earth's phases from the Moon are the opposite of the Moon's. Now you work out how our eclipses look from there."
@@ -1970,10 +1970,10 @@
       "q": "A thin crescent Moon is seen low in the east before sunrise. Is the lit part growing or shrinking?",
       "options": [
        "Growing",
-       "Shrinking",
-       "Staying the same"
+       "Staying the same",
+       "Shrinking"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A crescent before sunrise is at place 8, a few days before Amavasya, so it is shrinking. A growing crescent is seen in the west after sunset. Choosing 'growing' treats every crescent as a new one."
      },
      "context": "This is the last step of Place the Moon. You look again at the clue cards that fooled you, and say why."
@@ -2161,10 +2161,10 @@
       "q": "At Purnima the Moon is exactly on the line, and it is at its furthest from the Earth. What happens?",
       "options": [
        "A ring eclipse of the Moon",
-       "A total lunar eclipse",
-       "No eclipse"
+       "No eclipse",
+       "A total lunar eclipse"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The Earth's dark shadow is about 1.4 million km long, far longer than any distance of the Moon. So the Moon's distance does not matter. Choosing 'a ring eclipse' carries the rule for solar eclipses over to lunar ones."
      },
      "context": "This is the last step of Total, Ring, Part or Miss. You sort the situation cards by the eclipse each one gives, and say what decides it."
@@ -2659,12 +2659,12 @@
      "t": "mcq",
      "p": "The Moon is 90 degrees from the Sun. How much of its face is lit?",
      "opts": [
-      "A quarter",
       "Half",
+      "A quarter",
       "Three-quarters",
       "All of it"
      ],
-     "a": 1,
+     "a": 0,
      "why": "At 90 degrees we look at the Moon from the side. So we see half of the lit half and half of the dark half. That is a half Moon.",
      "outcome": 1,
      "how": "e1"
@@ -2756,12 +2756,12 @@
      "t": "mcq",
      "p": "The Moon is 30 degrees from the Sun. About how much of its face is lit?",
      "opts": [
-      "About 7 parts in 100",
       "About 17 parts in 100",
       "About 30 parts in 100",
+      "About 7 parts in 100",
       "About 50 parts in 100"
      ],
-     "a": 0,
+     "a": 2,
      "why": "At 30 degrees only about 7 parts in 100 are lit. Choosing 17 means expecting the lit part to grow evenly, by one-sixth at each of six steps.",
      "outcome": 1,
      "how": "e1"
@@ -2802,12 +2802,12 @@
      "t": "mcq",
      "p": "The paper is moved twice as far from the same lamp. What happens to a seed's dark shadow?",
      "opts": [
-      "It becomes about twice as long",
       "It becomes half as long",
       "It stays the same",
-      "It vanishes"
+      "It vanishes",
+      "It becomes about twice as long"
      ],
-     "a": 0,
+     "a": 3,
      "why": "From further away the lamp looks narrower, so the dark middle of the shadow narrows more slowly. Twice the distance gives twice the length.",
      "outcome": 3,
      "how": "e2"
@@ -2904,12 +2904,12 @@
      "t": "mcq",
      "p": "A plate is 8 times as wide as a coin. Where must the coin be to just hide the plate?",
      "opts": [
-      "8 times nearer the eye than the plate",
       "Halfway to the plate",
+      "8 times nearer the eye than the plate",
       "Touching the plate",
       "8 times further than the plate"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Two things look the same size when their widths and their distances are in the same ratio. The coin is one-eighth as wide, so it must be one-eighth as far.",
      "outcome": 4,
      "how": "a1"
@@ -2977,12 +2977,12 @@
      "t": "mcq",
      "p": "Why is there not a solar eclipse at every Amavasya?",
      "opts": [
-      "The Moon's path is tilted about 5 degrees",
       "The Moon is too small",
       "The Sun moves away",
-      "Clouds hide most of them"
+      "Clouds hide most of them",
+      "The Moon's path is tilted about 5 degrees"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The tilt carries the Moon above or below the straight line at most Amavasyas, so its shadow misses the Earth. An eclipse needs Amavasya near a node.",
      "outcome": 6
     },
@@ -3013,12 +3013,12 @@
      "t": "mcq",
      "p": "After a big volcanic eruption, the eclipsed Moon looks much darker. What does this show?",
      "opts": [
-      "The Moon's light passed through the Earth's air",
       "Volcanic smoke reaches the Moon",
+      "The Moon's light passed through the Earth's air",
       "The Moon has moved away",
       "The Sun has grown dimmer"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Dust high in the Earth's air blocks some of the sunlight that is bent into the shadow. So the eclipsed Moon is a report on the Earth's air.",
      "outcome": 5
     },
@@ -3067,11 +3067,11 @@
      "p": "In Aristarchus's triangle the angle at the Earth changes from 87 to 89 degrees. What happens to the Sun's distance?",
      "opts": [
       "It grows a little",
-      "It becomes about three times as great",
       "It halves",
+      "It becomes about three times as great",
       "It does not change"
      ],
-     "a": 1,
+     "a": 2,
      "why": "At 87 degrees the Sun is 19 times as far as the Moon. At 89 degrees it is 57 times as far. Close to 90 degrees, the two lines are almost side by side, so they meet very far away.",
      "outcome": 7,
      "how": "a4"
@@ -3192,12 +3192,12 @@
    "t": "mcq",
    "p": "On which night is no Moon seen at all?",
    "opts": [
-    "Purnima",
     "Amavasya",
+    "Purnima",
     "The night of the half Moon",
     "Every night of Krishna Paksha"
    ],
-   "a": 1,
+   "a": 0,
    "why": "At Amavasya the Moon is between the Earth and the Sun, and its lit half faces away from us.",
    "outcome": 0
   },
@@ -3205,12 +3205,12 @@
    "t": "mcq",
    "p": "At Purnima, where is the Earth?",
    "opts": [
-    "Between the Sun and the Moon",
     "Behind the Moon",
     "On the far side of the Sun",
+    "Between the Sun and the Moon",
     "Between the Moon and the stars"
    ],
-   "a": 0,
+   "a": 2,
    "why": "At Purnima the Earth is between the Sun and the Moon, so we look at the Moon's whole lit half. The three are usually not in an exact line, so there is no eclipse.",
    "outcome": 0
   },
@@ -3257,12 +3257,12 @@
    "t": "mcq",
    "p": "From inside the umbra of the Moon's shadow, what does the Sun look like?",
    "opts": [
-    "Half hidden",
     "Completely hidden",
+    "Half hidden",
     "A bright ring",
     "Unchanged"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The umbra is the part of the shadow where the whole Sun is covered. In the penumbra only part of the Sun is covered.",
    "outcome": 3
   },
@@ -3270,12 +3270,12 @@
    "t": "mcq",
    "p": "In sunlight, about how many widths behind a thing does its dark shadow end?",
    "opts": [
+    "About 108",
     "About 10",
     "About 30",
-    "About 108",
     "It never ends"
    ],
-   "a": 2,
+   "a": 0,
    "why": "The Sun is about 108 Sun-widths away, so every dark shadow in sunlight is about 108 widths long. Choosing 'never' treats a shadow as a flat patch with no length.",
    "outcome": 3
   },
@@ -3285,10 +3285,10 @@
    "opts": [
     "The time of day",
     "The season",
-    "The Moon's distance from the Earth",
-    "The Moon's phase"
+    "The Moon's phase",
+    "The Moon's distance from the Earth"
    ],
-   "a": 2,
+   "a": 3,
    "why": "A near Moon looks big enough to cover the Sun, and its dark shadow reaches the ground. A far Moon leaves a ring.",
    "outcome": 4
   },
@@ -3309,12 +3309,12 @@
    "t": "mcq",
    "p": "Who can see a total lunar eclipse?",
    "opts": [
+    "Everyone on the night side of the Earth",
     "Only people in a narrow strip",
     "Only people near the equator",
-    "Everyone on the night side of the Earth",
     "Only people with telescopes"
    ],
-   "a": 2,
+   "a": 0,
    "why": "The Earth's shadow is on the Moon itself. Everyone who can see the Moon sees it darkened.",
    "outcome": 5
   },
@@ -3323,11 +3323,11 @@
    "p": "How often does an eclipse season come?",
    "opts": [
     "Every Moon month",
-    "About every six Moon months",
     "Exactly once a year",
+    "About every six Moon months",
     "Every 18 years"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The Sun lines up with a node of the Moon's path about every 173 days. Choosing 18 years mixes this up with the saros, after which eclipses repeat.",
    "outcome": 6
   },
@@ -3336,11 +3336,11 @@
    "p": "Which is a safe way to watch a partial solar eclipse?",
    "opts": [
     "Through sunglasses",
+    "Through eclipse glasses marked ISO 12312-2",
     "Through X-ray film",
-    "With bare eyes for a few seconds",
-    "Through eclipse glasses marked ISO 12312-2"
+    "With bare eyes for a few seconds"
    ],
-   "a": 3,
+   "a": 1,
    "why": "Only a tested solar filter is safe for looking at the Sun. The eye feels no pain while sunlight burns it, so a short look is not safe.",
    "outcome": 7
   }
@@ -3614,6 +3614,84 @@
    "used_in": [
     "e3"
    ]
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in The Shadow That Runs Out: where does the dark shadow of a seed end?, The Coin Eclipse: can a coin hide a steel plate?, Aristarchus's Angle: how a small mistake moved the Sun. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "e2",
+    "a1",
+    "a4"
+   ],
+   "plan": "Get it before The Shadow That Runs Out: where does the dark shadow of a seed end?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in How Much of the Moon Is Lit? Measure a sock Moon at seven places, The Shadow That Runs Out: where does the dark shadow of a seed end?, The Coin Eclipse: can a coin hide a steel plate?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e2",
+    "a1",
+    "a2",
+    "a4",
+    "c1",
+    "c2"
+   ],
+   "plan": "Get it before How Much of the Moon Is Lit? Measure a sock Moon at seven places."
+  },
+  {
+   "id": "b-small-torch-bulbs-or-leds-wi",
+   "item": "Small torch bulbs or LEDs with a holder",
+   "kind": "tool",
+   "why": "Used in The Shadow That Runs Out: where does the dark shadow of a seed end?. About ₹10 to ₹50. A small torch can be taken apart for its bulb.",
+   "url": "https://www.amazon.in/s?k=torch+bulb+holder+set",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before The Shadow That Runs Out: where does the dark shadow of a seed end?."
+  },
+  {
+   "id": "b-modelling-clay-or-plasticine",
+   "item": "Modelling clay or plasticine",
+   "kind": "material",
+   "why": "Used in A True-Scale Eclipse on a Stick (needs a sunny window, balcony or terrace). About ₹40 to ₹120. Atta dough mixed with a little salt works.",
+   "url": "https://www.amazon.in/s?k=modelling+clay+plasticine",
+   "used_in": [
+    "c2"
+   ],
+   "plan": "Get it before A True-Scale Eclipse on a Stick (needs a sunny window, balcony or terrace)."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in The Shadow That Runs Out: where does the dark shadow of a seed end?. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before The Shadow That Runs Out: where does the dark shadow of a seed end?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

@@ -1,9 +1,9 @@
 # The solar system: eight planets, one Sun, and Earth is one of them
 `sci.sky.solar-system.L3`
 
-**Summary.** Neptune goes round the same Sun as the Earth, so why is it so cold and dim there? In this unit you will test how light spreads out with distance, line up the planets in a 3-metre model, and roll a marble to see what keeps a planet going round.
+**Summary.** Neptune goes round the same Sun as the Earth, so why is it so cold and dim there? In this lesson you will test how light spreads out with distance, line up the planets in a 3-metre model, and roll a marble to see what keeps a planet going round.
 
-**Intro.** *Stand in a sunny patch by a window and hold out your hand. Feel the warmth. That warmth came from the Sun. The same Sun is shining on seven other planets right now. Do they all feel the same warmth as your hand?* In this unit you find out whether all the planets get the same warmth from the Sun. You meet the eight planets and learn that the Earth is one of them. With a phone torch and a sheet of squared paper, you measure how light spreads out as it travels. That test shows why Mercury is scorching and Neptune is freezing and dark. You also hear how Galileo looked at Venus through a telescope and found that not everything goes round the Earth.
+**Intro.** *Stand in a sunny patch by a window and hold out your hand. Feel the warmth. That warmth came from the Sun. The same Sun is shining on seven other planets right now. Do they all feel the same warmth as your hand?* In this lesson you find out whether all the planets get the same warmth from the Sun. You meet the eight planets and learn that the Earth is one of them. With a phone torch and a sheet of squared paper, you measure how light spreads out as it travels. That test shows why Mercury is scorching and Neptune is freezing and dark. You also hear how Galileo looked at Venus through a telescope and found that not everything goes round the Earth.
 
 ## Learning outcomes
 0. I can name the eight planets in order from the Sun, and say that the Earth is the third planet.
@@ -37,6 +37,7 @@ From the ground, the Earth feels flat and still, and the planets look like brigh
 - e.g. Photos taken by spacecraft near Mars show the Earth as a small bright dot.
 - e.g. In the evening sky, Venus looks like a very bright star. Someone on Venus would see the Earth as a bright dot too.
 - e.g. The Earth takes about 365 days to go round the Sun once. That is one year.
+- e.g. The Moon circles the Earth. Jupiter has many moons, and four big ones that Galileo saw in 1610 with a small telescope.
 ### The eight planets in order · *defined*
 **Definition:** In order from the Sun, the eight planets are Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune.
 
@@ -44,6 +45,7 @@ One way to remember the order is a sentence where each word starts with the plan
 - e.g. Mercury is the smallest planet and the closest to the Sun.
 - e.g. Jupiter is the biggest planet. Saturn has the brightest rings.
 - e.g. Uranus spins tipped over on its side, so it seems to roll round the Sun.
+- e.g. A planetary system is a star with everything that goes round it: its planets, their moons, asteroids and comets. Our planetary system has one star, the Sun.
 ### Rocky planets and giant planets · *defined*
 **Definition:** The four planets nearest the Sun are small and made of rock and metal. The four furthest planets are giants made mostly of gas, or of gas and ice.
 
@@ -507,42 +509,44 @@ Ammamma smiled. 'Another bright dot. A blue one. Us.'
   - Ask: Why did the shaded ice cube last longer? (good: The shade stopped the sunlight reaching it.; The white side bounced sunlight away.)
 
 ## Worksheets
-### Our Planet and Its Neighbours (core) (core, 15 questions)
+### Our Planet and Its Neighbours (core) (core, 16 questions)
 1. (order) Put the eight planets in order, starting with the one nearest the Sun.  
    **Answer:** ['Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']. *Why:* The order is Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune. The sentence 'My Very Easy Method Just Speeds Up Naming' helps. A strong answer puts the Earth third.
 2. (sort) Sort the planets into rocky planets and giant planets.  
    **Answer:** Mercury → Rocky planet; Jupiter → Giant planet; Venus → Rocky planet; Neptune → Giant planet; Earth → Rocky planet; Saturn → Giant planet; Mars → Rocky planet; Uranus → Giant planet. *Why:* The four nearest the Sun are small and rocky. The four furthest are giants made mostly of gas, or gas and ice. A strong answer notices that the two kinds are in two groups, not mixed up.
-3. (truefalse) The Earth is not a planet. Planets are the dots up in the sky.  
+3. (fill) A planetary system has one star at its centre, and planets, asteroids and comets go round it. Our star is the ____.  
+   **Answer:** Sun. *Why:* The Sun is the star at the centre of our planetary system. Every planet, asteroid and comet in our system goes round it.
+4. (truefalse) The Earth is not a planet. Planets are the dots up in the sky.  
    **Answer:** False. *Why:* False. The Earth goes round the Sun, like the other seven planets, so it is a planet too. From Mars, the Earth looks like a bright dot in the sky. A strong answer says the Earth only looks different because we are standing on it.
-4. (write) A street lamp lights the road brightly right under it. A few steps away, the road is much dimmer. The lamp is the same. Use what you learned in the torch test to explain why.  
+5. (write) A street lamp lights the road brightly right under it. A few steps away, the road is much dimmer. The lamp is the same. Use what you learned in the torch test to explain why.  
    **Answer:** The lamp's light spreads out as it goes. A few steps away the same light covers a bigger area of road, so each part gets less light and looks dimmer.. *Why:* A strong answer says the light is not used up. It is shared out over a bigger area, just like the squares on the paper.
-5. (fill) The path a planet takes as it goes round the Sun is called its ____.  
+6. (fill) The path a planet takes as it goes round the Sun is called its ____.  
    **Answer:** ['orbit']. *Why:* An orbit is the path one thing takes round another. The Earth's orbit round the Sun takes one year.
-6. (draw) Draw the Sun and the first four planets, with the Earth in the right place. Draw an arrow to show which way the Sun's gravity pulls the Earth.  
+7. (draw) Draw the Sun and the first four planets, with the Earth in the right place. Draw an arrow to show which way the Sun's gravity pulls the Earth.  
    **Answer:** The Sun, then Mercury, Venus, Earth and Mars in order, with an arrow from the Earth pointing towards the Sun.. *Why:* Gravity pulls the Earth towards the Sun, not along its path. A strong drawing puts the Earth third and points the arrow at the Sun.
-7. (match) Match each planet to something true about it.  
+8. (match) Match each planet to something true about it.  
    **Answer:** Mercury → the smallest planet, nearest the Sun; Venus → the hottest planet, with thick clouds; Mars → red, with rusty dust; Jupiter → the biggest planet; Saturn → has the brightest rings. *Why:* These are the best-known facts about each planet. A strong answer could also say why Venus is hottest: its thick air traps heat.
-8. (perspective) Two friends are arguing about Pluto.  
+9. (perspective) Two friends are arguing about Pluto.  
    **Answer:** A strong answer picks a side and uses the 2006 rule or Pluto's features as evidence. It also gives the other side its due. The first friend is right that Pluto is round and has moons. The second friend is right that the 2006 rule says a planet must clear its path.. *Why:* This is a real argument among astronomers. It is about where to draw the line around the word 'planet', so both sides have good reasons.
-9. (truefalse) Mercury is the closest planet to the Sun, so it must be the hottest planet.  
+10. (truefalse) Mercury is the closest planet to the Sun, so it must be the hottest planet.  
    **Answer:** False. *Why:* False. Venus is hotter, about 460 degrees Celsius, because its thick air traps heat like a blanket. Mercury has almost no air, so its heat escapes. A strong answer names Venus and says why.
-10. (odd) Which one is the odd one out?  
+11. (odd) Which one is the odd one out?  
    Options: The Sun / Mars / Jupiter / Earth  
    **Answer:** 0. *Why:* The Sun is a star. It makes its own light. Mars, Jupiter and the Earth are planets. They shine only with sunlight that falls on them.
-11. (write) Why can the Earth have rivers and rain, when Mercury and Neptune cannot?  
+12. (write) Why can the Earth have rivers and rain, when Mercury and Neptune cannot?  
    **Answer:** The Earth is at a distance from the Sun where water stays liquid. Mercury is so close that water would boil away. Neptune is so far that water freezes solid.. *Why:* A strong answer links the distance to how strong the sunlight is, as the torch test showed.
-12. (label) Label the picture of the solar system: the Sun, the Earth, Jupiter, and the asteroid belt.  
+13. (label) Label the picture of the solar system: the Sun, the Earth, Jupiter, and the asteroid belt.  
    **Answer:** The Sun in the middle, the Earth on the third orbit, the asteroid belt between the fourth and fifth orbits, and Jupiter on the fifth orbit.. *Why:* The asteroid belt lies between Mars and Jupiter. A strong answer counts the orbits out from the Sun.
-13. (mcq) Which planet takes the longest to go round the Sun once?  
-   Options: Neptune / Jupiter / Mercury / Earth  
+14. (mcq) Which planet takes the longest to go round the Sun once?  
+   Options: Jupiter / Neptune / Mercury / Earth  
    **Answer:** Neptune. *Why:* Neptune is furthest from the Sun. It has the longest path and moves slowest, so its year is about 165 Earth years. Picking Jupiter means thinking the biggest planet is the slowest, but size does not set a planet's year.
-14. (fill) A planet shines only because sunlight ____ off it.  
+15. (fill) A planet shines only because sunlight ____ off it.  
    **Answer:** ['bounces', 'reflects']. *Why:* A planet makes no light of its own. We see it because sunlight hits it and bounces towards us. That is also how we see the Moon.
-15. (truefalse) Neptune is colder than Venus, because it is much further from the Sun and gets much weaker sunlight.  
+16. (truefalse) Neptune is colder than Venus, because it is much further from the Sun and gets much weaker sunlight.  
    **Answer:** True. *Why:* True. Neptune gets about 900 times less sunlight than the Earth, so it is freezing. Venus is hot because of its thick air. A strong answer uses the torch test to explain the weak sunlight.
-### Light, Gravity and Galileo (stretch) (stretch, 15 questions)
+### Light, Gravity and Galileo (stretch) (stretch, 16 questions)
 1. (mcq) If the Earth were half as far from the Sun as it is now, how strong would sunlight on the Earth be?  
-   Options: 2 times stronger / 4 times stronger / 2 times weaker / The same  
+   Options: 2 times stronger / 2 times weaker / The same / 4 times stronger  
    **Answer:** 4 times stronger. *Why:* This is the torch test backwards. At half the distance, the same light covers one quarter of the area, so each part gets 4 times as much. Picking '2 times stronger' forgets that light spreads in two directions.
 2. (write) In the marble test, the marble went straight on at the gap. What would happen to the Earth if the Sun's gravity suddenly stopped? Explain using the marble test.  
    **Answer:** The Earth would fly off in a straight line, the way it was moving at that moment. The rim pushed the marble inwards. At the gap, the push stopped, and the marble went straight on. The Sun's gravity is like the rim for the Earth.. *Why:* A strong answer says the Earth would go straight, not fall into the Sun and not keep curving.
@@ -551,28 +555,30 @@ Ammamma smiled. 'Another bright dot. A blue one. Us.'
 4. (order) Put these planets in order from the shortest year to the longest year.  
    **Answer:** ['Mercury', 'Earth', 'Mars', 'Saturn', 'Uranus']. *Why:* The further a planet is from the Sun, the longer its year. So the order of years is the same as the order of distance.
 5. (mcq) Venus is about the same size as the Earth and close to us. Why can nothing live on its surface as far as we know?  
-   Options: Its thick air traps so much heat that the ground is about 460 degrees Celsius / It has no sunlight at all / It is made of gas with no ground / It is too cold, like Neptune  
+   Options: It has no sunlight at all / Its thick air traps so much heat that the ground is about 460 degrees Celsius / It is made of gas with no ground / It is too cold, like Neptune  
    **Answer:** Its thick air traps so much heat that the ground is about 460 degrees Celsius. *Why:* Venus gets about twice our sunlight, and its very thick air traps the heat. Picking 'no sunlight' forgets that Venus is closer to the Sun than we are. Picking 'too cold' forgets the trapped heat.
 6. (write) Someone says, 'The torch light ran out as it travelled, like water draining away. That's why the far patch was dim.' Is that right? What really happened?  
    **Answer:** No, that is not right. The light did not run out. The same amount of light reached the paper, but it was spread over more squares. So each square got less, and the patch looked dimmer.. *Why:* A strong answer uses the square counts as evidence: 16 squares bright, 64 squares dim, the same light.
 7. (mcq) In the 3-metre solar system, the Earth was 10 cm from the Sun and Neptune was 300 cm. What did the model show about the planets?  
-   Options: The four rocky planets are bunched close to the Sun, and the giants are spread far out / The planets are spaced evenly / The giants are closest to the Sun / Neptune is just 3 times as far as the Earth  
+   Options: The planets are spaced evenly / The four rocky planets are bunched close to the Sun, and the giants are spread far out / The giants are closest to the Sun / Neptune is just 3 times as far as the Earth  
    **Answer:** The four rocky planets are bunched close to the Sun, and the giants are spread far out. *Why:* Mercury, Venus, Earth and Mars all fit in the first 15 cm. Jupiter, Saturn, Uranus and Neptune are spread over nearly 3 metres. Picking 'spaced evenly' is how many books draw it, but books squeeze the planets to fit the page.
-8. (truefalse) Mars is red because it is very hot, like a glowing coal.  
+8. (truefalse) Jupiter has four big moons, and Galileo saw them with a small telescope in 1610.  
+   **Answer:** True. *Why:* True. Galileo's small telescope showed four big moons going round Jupiter. This showed that not everything goes round the Earth.
+9. (truefalse) Mars is red because it is very hot, like a glowing coal.  
    **Answer:** False. *Why:* False. Mars is colder than the Earth. Its red colour comes from rusty iron in its rocks and dust. A strong answer says what the red really is.
-9. (write) Look at the dough and newspaper planets from the Planet Line-up. Write two things you noticed about the sizes of the planets.  
+10. (write) Look at the dough and newspaper planets from the Planet Line-up. Write two things you noticed about the sizes of the planets.  
    **Answer:** For example: Jupiter is about 11 times as wide as the Earth. Venus is almost the same size as the Earth. Mercury is the smallest. The giants are all much bigger than the rocky planets.. *Why:* A strong answer uses numbers from the line-up, not just 'big' and 'small'.
-10. (perspective) Two people talk about the solar system long ago.  
+11. (perspective) Two people talk about the solar system long ago.  
    **Answer:** A strong answer says Galileo's evidence was better, because the phases of Venus could not happen in Ptolemy's plan. It also says Ptolemy was right that the sky looks as if it moves round us, and that we don't feel the Earth move.. *Why:* Ptolemy's plan fitted what people saw with their eyes for 1,500 years. New evidence from a telescope showed it was wrong. Good scientists change their minds when the evidence changes.
-11. (draw) Draw the patch of light in the torch test at 20 cm and at 40 cm, side by side, on squared paper.  
+12. (draw) Draw the patch of light in the torch test at 20 cm and at 40 cm, side by side, on squared paper.  
    **Answer:** A 4 by 4 square at 20 cm and an 8 by 8 square at 40 cm, with the second one shaded lighter.. *Why:* A strong drawing shows the far patch twice as wide and twice as tall, covering four times as many squares, and paler.
-12. (match) Match each word to what it means.  
+13. (match) Match each word to what it means.  
    **Answer:** Orbit → the path of a planet round the Sun; Gravity → the force that pulls things towards each other; Year → the time a planet takes to go round the Sun once; Telescope → a tube that makes faraway things look bigger; Atmosphere → the layer of air round a planet. *Why:* These words come up all through the unit. A strong answer could give an example of each.
-13. (write) You swing a sock on a string round in a circle, then let go of the string. Which way does the sock fly? What in the solar system is like the string?  
+14. (write) You swing a sock on a string round in a circle, then let go of the string. Which way does the sock fly? What in the solar system is like the string?  
    **Answer:** The sock flies off in a straight line, the way it was moving when you let go. The Sun's gravity is like the string, because it keeps pulling the planet inwards.. *Why:* A strong answer links this to the marble at the gap, and says the planet would fly off straight if gravity stopped.
-14. (write) Eris was found in 2005 and is about as big as Pluto. Explain how finding Eris made astronomers argue about what a planet is.  
+15. (write) Eris was found in 2005 and is about as big as Pluto. Explain how finding Eris made astronomers argue about what a planet is.  
    **Answer:** If Pluto was a planet, then Eris, which is about as big, seemed to be one too. Astronomers had found many more icy worlds like them, and the list of planets could keep growing. So they had to decide what the word planet means.. *Why:* A strong answer says the argument started because Eris was so like Pluto.
-15. (write) Some astronomers say an unseen ninth planet is pulling far icy worlds into line. Others say the pattern is only chance. What could astronomers do to settle it?  
+16. (write) Some astronomers say an unseen ninth planet is pulling far icy worlds into line. Others say the pattern is only chance. What could astronomers do to settle it?  
    **Answer:** They could keep searching the sky with bigger telescopes to find the planet, or find many more far icy worlds to see if the pattern still holds. If the pattern disappears, it was chance.. *Why:* A strong answer suggests a way to test the idea. Finding the planet would prove it. Finding more worlds that do not line up would count against it.
 ### Planet Puzzles and Big Ideas (challenge) (challenge, 15 questions)
 1. (perspective) Three people talk about why life is found on the Earth.  
@@ -588,15 +594,15 @@ Ammamma smiled. 'Another bright dot. A blue one. Us.'
    Options: 3 times as many / 6 times as many / 9 times as many / 30 times as many  
    **Answer:** 9 times as many. *Why:* 30 cm is 3 times as far as 10 cm. The patch is 3 times as wide and 3 times as tall, and 3 times 3 is 9. Picking '3 times as many' grows the patch in only one direction.
 6. (mcq) In 1846, astronomers found Neptune by working out where it must be before they looked. What clue did they use?  
-   Options: Uranus was being tugged off its expected path by something / Neptune's light was shining on Uranus / The Sun was wobbling / They saw Neptune's moons first  
+   Options: Neptune's light was shining on Uranus / The Sun was wobbling / Uranus was being tugged off its expected path by something / They saw Neptune's moons first  
    **Answer:** Uranus was being tugged off its expected path by something. *Why:* Uranus was not moving quite as expected. Urbain Le Verrier worked out that the gravity of an unseen planet could explain it, and said where to look. Johann Galle found Neptune almost exactly there. Picking 'Neptune's light' forgets that Neptune is far too dim to light anything.
 7. (mcq) Why are the four planets near the Sun rocky, while the four far out are giants?  
-   Options: Near the young Sun it was too warm for ice, so only rock and metal could clump. Further out, ice froze too, so planets grew bigger and gathered gas / The giants were pushed out by the Sun's wind / Rocky planets are older than giant planets / Nobody has any idea at all  
+   Options: The giants were pushed out by the Sun's wind / Near the young Sun it was too warm for ice, so only rock and metal could clump. Further out, ice froze too, so planets grew bigger and gathered gas / Rocky planets are older than giant planets / Nobody has any idea at all  
    **Answer:** Near the young Sun it was too warm for ice, so only rock and metal could clump. Further out, ice froze too, so planets grew bigger and gathered gas. *Why:* This is the best explanation scientists have. Near the Sun, only rock and metal stayed solid. Further out, ice could freeze as well, so there was more material, and big cores pulled in lots of gas. Picking 'nobody has any idea' is too strong: the details are still studied, but the main idea has good evidence.
 8. (write) Plan an investigation. Your friend thinks a white ball and a black ball would look the same in the torch light. How would you test it fairly? What would you keep the same?  
    **Answer:** Put each ball the same distance from the same torch, in a dark room, one at a time. Keep the torch, the distance and the room the same. Only change the colour of the ball. Then compare how bright each ball looks.. *Why:* A strong answer changes only one thing and names at least two things kept the same. Planets differ in colour too: cloudy Venus reflects much more sunlight than dark rocky Mercury.
 9. (mcq) The Earth moves at about 30 kilometres every second as it goes round the Sun. Why don't we feel this?  
-   Options: We, our homes and the air all move along with the Earth, smoothly and steadily / The Earth is really standing still / We are too heavy to feel it / We only move at night  
+   Options: The Earth is really standing still / We, our homes and the air all move along with the Earth, smoothly and steadily / We are too heavy to feel it / We only move at night  
    **Answer:** We, our homes and the air all move along with the Earth, smoothly and steadily. *Why:* We feel a change in speed, like a bus braking, not steady motion. Everything around us moves with the Earth. Picking 'the Earth is standing still' is what people believed for thousands of years, until the evidence showed otherwise.
 10. (draw) Draw what the Earth and the Moon might look like from Mars, through a small telescope. Label which is which.  
    **Answer:** Two dots side by side, a bigger blue-white one labelled Earth and a smaller grey one labelled Moon, both lit on the same side.. *Why:* From Mars, the Earth and the Moon are two small lit dots. Both are lit by the Sun from the same side. A strong drawing shows the Earth bigger and brighter.
@@ -621,35 +627,41 @@ Ammamma smiled. 'Another bright dot. A blue one. Us.'
    Options: The Earth / Mars / Venus / Jupiter  
    **Answer:** The Earth. *Why:* The order is Mercury, Venus, Earth, Mars. The Earth is third. Picking Mars is close: Mars is fourth, just past us.
 2. (mcq) How many planets go round the Sun?  
-   Options: Eight / Nine / Seven / Five  
+   Options: Nine / Seven / Five / Eight  
    **Answer:** Eight. *Why:* There are eight planets. Picking nine is what books said before 2006, when Pluto was counted. Picking five comes from the planets you can see without a telescope.
 3. (mcq) Why is Pluto now called a dwarf planet, not a planet?  
-   Options: It shares its path round the Sun with many other icy worlds / It stopped going round the Sun / It broke into pieces / It is not round  
+   Options: It stopped going round the Sun / It shares its path round the Sun with many other icy worlds / It broke into pieces / It is not round  
    **Answer:** It shares its path round the Sun with many other icy worlds. *Why:* Since 2006, a planet must clear its path. Pluto is round and goes round the Sun, but many other icy worlds share its path. Picking 'not round' is a good guess for small worlds, but Pluto is round.
 4. (mcq) Neptune is about 30 times as far from the Sun as the Earth. What does that mean for Neptune?  
-   Options: Its sunlight is about 900 times weaker, so it is very cold and dim / Its sunlight is just 30 times weaker / It gets more sunlight because it is bigger / It is as warm as the Earth  
+   Options: Its sunlight is just 30 times weaker / It gets more sunlight because it is bigger / Its sunlight is about 900 times weaker, so it is very cold and dim / It is as warm as the Earth  
    **Answer:** Its sunlight is about 900 times weaker, so it is very cold and dim. *Why:* 30 times 30 is 900, so sunlight there is about 900 times weaker. Picking '30 times weaker' forgets that light spreads out in two directions at once.
 5. (mcq) Why does Mercury take only 88 days to go round the Sun, while the Earth takes 365?  
-   Options: Mercury is closer, so it has a shorter path and moves faster / Mercury is bigger / Mercury spins faster / Mercury has no moon  
+   Options: Mercury is bigger / Mercury spins faster / Mercury is closer, so it has a shorter path and moves faster / Mercury has no moon  
    **Answer:** Mercury is closer, so it has a shorter path and moves faster. *Why:* Closer to the Sun, the path is shorter and the Sun's gravity is stronger, so the planet moves faster. Picking 'Mercury is bigger' is wrong twice: Mercury is the smallest planet, and size does not set the year.
 6. (mcq) A marble rolls round inside a plate's rim. At a gap in the rim, which way does it go?  
    Options: Straight on, the way it was moving / It keeps curving round / Straight towards the middle / It stops  
    **Answer:** Straight on, the way it was moving. *Why:* With nothing pushing it inwards, the marble goes straight on. The Sun's gravity is what keeps bending a planet's path. Picking 'keeps curving' is a very common idea, but the marble test shows it is not what happens.
 7. (mcq) Through his telescope in 1610, Galileo saw Venus look small and almost fully lit. What did this show?  
-   Options: Venus goes round the Sun / Venus makes its own light / Venus is bigger than the Sun / The Earth is flat  
+   Options: Venus makes its own light / Venus is bigger than the Sun / The Earth is flat / Venus goes round the Sun  
    **Answer:** Venus goes round the Sun. *Why:* Venus can only look fully lit when it is on the far side of the Sun from us. So it must go round the Sun. Picking 'makes its own light' does not fit: then Venus would always look full.
 8. (mcq) From the ground, the Sun, the Moon and the stars all seem to move across the sky each day. Why did people long ago think the Earth stood still in the middle?  
-   Options: The ground feels still under us, and everything seems to go round us / They had telescopes that showed it / The Sun really does go round the Earth / The stars told them  
+   Options: They had telescopes that showed it / The Sun really does go round the Earth / The stars told them / The ground feels still under us, and everything seems to go round us  
    **Answer:** The ground feels still under us, and everything seems to go round us. *Why:* We cannot feel the Earth moving, so it looks as if the sky turns round us. It took careful watching through telescopes to show that the Earth and the planets go round the Sun.
 9. (mcq) Which of these is a giant planet with no solid ground?  
-   Options: Saturn / Mars / Mercury / Venus  
+   Options: Mars / Mercury / Venus / Saturn  
    **Answer:** Saturn. *Why:* Saturn is a giant made mostly of hydrogen and helium gas. Mars, Mercury and Venus are rocky planets you could stand on.
 10. (mcq) What do the four rocky planets have in common?  
-   Options: They are small, have hard ground, and are the four nearest the Sun / They all have rings / They all have liquid water / They are all bigger than Jupiter  
+   Options: They all have rings / They all have liquid water / They are all bigger than Jupiter / They are small, have hard ground, and are the four nearest the Sun  
    **Answer:** They are small, have hard ground, and are the four nearest the Sun. *Why:* Mercury, Venus, Earth and Mars are small, rocky and close to the Sun. Only the Earth has liquid water on its surface today.
 11. (mcq) What makes the Earth a planet?  
-   Options: It is a big round world that goes round the Sun and has cleared its path / It has people living on it / It has a Moon / It makes its own light  
+   Options: It has people living on it / It has a Moon / It is a big round world that goes round the Sun and has cleared its path / It makes its own light  
    **Answer:** It is a big round world that goes round the Sun and has cleared its path. *Why:* A planet is round, goes round the Sun and has cleared its path. The Earth does all three. Having a moon or people is not part of the rule, and planets do not make their own light.
+12. (mcq) What is at the centre of a planetary system like ours?  
+   Options: Jupiter, the biggest planet / A star, the Sun / The Earth  
+   **Answer:** A star, the Sun. *Why:* The Sun is a star, and the planets, asteroids and comets all go round it. Jupiter is the biggest planet, but it goes round the Sun too. The Earth is one of the planets.
+13. (mcq) What does a moon do, such as the Moon round the Earth?  
+   Options: It goes round its planet / It makes its own light / It stays still in one spot  
+   **Answer:** It goes round its planet. *Why:* A moon goes round its planet, as the Moon goes round the Earth. A moon does not make its own light. It shines with sunlight, like a planet.
 
 ## Applications
 - Planning spacecraft journeys, like India's Mangalyaan to Mars in 2014, uses the orbits of the planets.
@@ -709,13 +721,19 @@ Star, Planet, Moon (sci.sky.L3): Topic-level song for Sun, Moon, stars and plane
 - [Stellarium Web](https://stellarium-web.org/) · interactive: A free sky map. It shows which planets are up tonight from where you are.
 - [PhET Gravity and Orbits](https://phet.colorado.edu/en/simulations/gravity-and-orbits) · simulation: Switch the Sun's gravity off and watch the Earth fly off in a straight line, like the marble at the gap.
 - [NASA Space Place: Planets](https://spaceplace.nasa.gov/menu/solar-system/) · interactive: Short, clear pages and games about each planet, written for children.
-- [B.M. Birla Planetarium, Periyar Science and Technology Centre]() · place · Chennai: Planetarium shows of the night sky and the planets, and a science centre next door.
-- [Jawaharlal Nehru Planetarium]() · place · Bengaluru: Sky shows and a science park. Check show times and languages before you go.
-- [Priyadarshini Planetarium, Kerala State Science and Technology Museum]() · place · Thiruvananthapuram: Planetarium shows about the solar system, next to a science museum.
-- [Nehru Planetarium, Nehru Centre]() · place · Mumbai: Sky shows about the Sun, planets and stars.
+- B.M. Birla Planetarium, Periyar Science and Technology Centre · place · Chennai: Planetarium shows of the night sky and the planets, and a science centre next door.
+- Jawaharlal Nehru Planetarium · place · Bengaluru: Sky shows and a science park. Check show times and languages before you go.
+- Priyadarshini Planetarium, Kerala State Science and Technology Museum · place · Thiruvananthapuram: Planetarium shows about the solar system, next to a science museum.
+- Nehru Planetarium, Nehru Centre · place · Mumbai: Sky shows about the Sun, planets and stars.
 
 ## Things to buy
 - [The Planets, by Gail Gibbons (choose an edition from 2008 or later, which calls Pluto a dwarf planet)](https://www.amazon.in/s?k=The+Planets+Gail+Gibbons) (book): A clear picture book for ages 5 to 9, with one or two pages on each planet. A library copy works just as well. Used in p1. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in The 3-Metre Solar System. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in a4. Get it before The 3-Metre Solar System.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Light Through a Window: how does light spread out with distance?, Planet Line-up: how big is the Earth next to the others?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a1. Get it before Light Through a Window: how does light spread out with distance?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Light Through a Window: how does light spread out with distance?, Planet Line-up: how big is the Earth next to the others?. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in e1, a1. Get it before Light Through a Window: how does light spread out with distance?.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in Sunlight for a Spacecraft Going to Jupiter. About ₹10 to ₹30. Draw squares on plain paper. Used in c1. Get it before Sunlight for a Spacecraft Going to Jupiter.
+- [Marbles (a few)](https://www.amazon.in/s?k=glass+marbles+pack) (material): Used in The Marble and the Missing Rim: what keeps a planet going round?. About ₹10 to ₹40. Small round stones or dried chana. Used in e2. Get it before The Marble and the Missing Rim: what keeps a planet going round?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name the planet we live on. → The Earth, the third planet from the Sun.

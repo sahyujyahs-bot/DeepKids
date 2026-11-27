@@ -118,6 +118,24 @@
    "meaning": "Colour or shape that makes an animal hard to see against her background.",
    "example": "An octopus on a reef turns the colour and pattern of the rock beside her.",
    "art": "An octopus almost invisible against a coral rock."
+  },
+  {
+   "term": "Herbivore",
+   "meaning": "An animal that eats only plants.",
+   "example": "A cow eats grass and leaves.",
+   "art": "A cow grazing on a green field."
+  },
+  {
+   "term": "Carnivore",
+   "meaning": "An animal that eats only other animals.",
+   "example": "A tiger eats deer.",
+   "art": "A tiger with a deer in the grass."
+  },
+  {
+   "term": "Omnivore",
+   "meaning": "An animal that eats both plants and animals.",
+   "example": "A crow eats grain and insects.",
+   "art": "A crow pecking at grain and an insect on a dusty road."
   }
  ],
  "explanations": [
@@ -134,6 +152,19 @@
    "perspectives": [],
    "art": "Three cards in a row: problem, part and price, with a camel's hump drawn on them.",
    "context": "This is the big idea of the unit. We will use it for each animal in turn."
+  },
+  {
+   "concept": "Teeth and stomachs fit what an animal eats",
+   "status": "defined",
+   "definition": "A herbivore eats only plants. A carnivore eats only other animals. An omnivore eats both plants and animals.",
+   "description": "A cow has flat back teeth that grind grass and leaves, and a stomach with four parts that breaks down the tough plant food. A tiger has long, sharp teeth that hold and tear meat. A human has flat back teeth for chewing rice, dal and roti, and sharp front teeth for biting fruit and fish. Each animal's teeth and stomach are an answer to the food she eats.",
+   "examples": [
+    "A goat's flat back teeth grind leaves before she swallows them.",
+    "A tiger's long, sharp teeth hold a deer while she tears the meat.",
+    "A crow eats grain, insects and scraps, so she is an omnivore."
+   ],
+   "perspectives": [],
+   "art": "Three animals side by side, a cow, a tiger and a human, each with a close-up of its teeth and a food bowl below."
   },
   {
    "concept": "The camel's hump holds fat, not water",
@@ -728,11 +759,11 @@
       "t": "mcq",
       "q": "Which sentence best matches what the cards show?",
       "options": [
-       "Every body part gains something and costs something",
        "Some animals have perfect bodies",
-       "Big animals are better than small ones"
+       "Big animals are better than small ones",
+       "Every body part gains something and costs something"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Every card had a price. No animal had a part that was good for everything. Picking 'perfect' forgets the prices. Picking 'big is better' is not shown by any card."
      },
      "context": "This is the last step of Part, Problem, Price. You add up the scores and think about what the cards showed."
@@ -851,11 +882,11 @@
       "t": "mcq",
       "q": "Why must the three ice blocks be the same size?",
       "options": [
-       "So that any difference in melting comes from the cloth",
        "So they look neat",
-       "So they freeze faster"
+       "So they freeze faster",
+       "So that any difference in melting comes from the cloth"
       ],
-      "a": 0,
+      "a": 2,
       "why": "If one block were bigger, it would melt less, whatever was on it. We could not tell if the cloth or the size made the difference. A fair test changes only one thing."
      },
      "context": "In this step you take the ice out of the cups and check that the blocks are alike."
@@ -945,11 +976,11 @@
       "t": "mcq",
       "q": "Which result best matches this idea? The same cloth works as a good coat only when it is spread all over.",
       "options": [
-       "B melted the least",
        "A melted the least",
-       "All three melted the same"
+       "All three melted the same",
+       "B melted the least"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Block B has the cloth all around, and it melted the least. Block C has the same cloth, but heat reached it through its open sides, so A and C usually melt almost the same."
      },
      "context": "In this step you read your results and say what they show. You say what you think (claim), what you saw (evidence) and why (reasoning)."
@@ -1044,11 +1075,11 @@
       "t": "mcq",
       "q": "The tumbler has the same weight on all three feet. Which foot will push on the dough with the greatest pressure?",
       "options": [
-       "The small cap, because the weight is shared over the smallest patch",
        "The wide plate, because it is the biggest",
+       "The small cap, because the weight is shared over the smallest patch",
        "All three, because the weight is equal"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Pressure is the weight divided by the area. The same weight on a small area gives a big pressure. Picking the plate usually means thinking that bigger means heavier. Picking all three means forgetting that the patch is different."
      },
      "context": "This is the first step of the Foot Test. You look at the three feet and guess."
@@ -1117,11 +1148,11 @@
       "t": "mcq",
       "q": "Why does a camel's wide foot sink less than a narrow hoof would under the same weight?",
       "options": [
-       "The weight is shared over a bigger patch of sand, so each bit is pushed less",
        "A wide foot is lighter",
-       "A wide foot is harder"
+       "A wide foot is harder",
+       "The weight is shared over a bigger patch of sand, so each bit is pushed less"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The weight of the camel is the same. A wider pad spreads it over a bigger area, so the push on each small patch of sand is smaller. A wide foot is not lighter. If you picked 'harder', remember that the soft pad squashes and spreads."
      },
      "context": "In this step you read your results and explain them. You say what you think (claim), what you saw (evidence) and why (reasoning)."
@@ -1207,11 +1238,11 @@
       "t": "mcq",
       "q": "What decides the smallest hole that the dough ball with the marble can pass through?",
       "options": [
-       "The hard marble inside",
        "The size of the dough",
-       "The colour of the dough"
+       "The colour of the dough",
+       "The hard marble inside"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The soft dough squashes through, but the hard marble does not squash. The marble sets the limit. An octopus's beak does the same job for her: she can pass any gap as wide as her beak."
      },
      "context": "In this step you test each body on the holes and write down what passes."
@@ -1420,11 +1451,11 @@
       "t": "mcq",
       "q": "A crow has a strong, all-purpose beak. What is a likely price?",
       "options": [
-       "She is not the best at any one food",
        "She cannot eat at all",
-       "She cannot fly"
+       "She cannot fly",
+       "She is not the best at any one food"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A beak that suits many foods works for all of them, but not as well as a special beak for one food. Picking 'cannot eat at all' or 'cannot fly' does not match what you watched."
      },
      "context": "In this step you match one part of the animal to a problem and a price."
@@ -1746,11 +1777,11 @@
      "t": "mcq",
      "p": "What is the best way to start understanding an odd body part?",
      "opts": [
-      "Ask what problem it solves and what it costs",
       "Ask what colour it is",
+      "Ask what problem it solves and what it costs",
       "Ask whether the animal likes it"
      ],
-     "a": 0,
+     "a": 1,
      "why": "An odd part is usually an answer to a problem in the animal's way of life, and every answer has a price. Colour and liking do not tell you what the part is for.",
      "outcome": 0
     },
@@ -1758,11 +1789,11 @@
      "t": "mcq",
      "p": "What is inside a camel's hump?",
      "opts": [
-      "Fat",
       "Water",
-      "Air"
+      "Air",
+      "Fat"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The hump is a lump of fat, which the camel uses for energy when food is scarce. Many people think it is water, but when camels were studied, the water they lost came from their whole body.",
      "outcome": 0
     },
@@ -1806,6 +1837,31 @@
      "a": "pairs as given",
      "why": "Each part answers a problem. The pad spreads the camel's weight. The tail works like a third foot. The funnel gives a jet to push the octopus forward. The beak sets the size of the smallest gap she can pass.",
      "outcome": 0
+    },
+    {
+     "t": "sort",
+     "p": "Sort each animal by what it eats, using its teeth and stomach as clues.",
+     "cats": [
+      "Only plants",
+      "Only other animals",
+      "Both plants and animals"
+     ],
+     "items": [
+      [
+       "a cow, with flat back teeth and a stomach with four parts",
+       "Only plants"
+      ],
+      [
+       "a tiger, with long, sharp teeth for tearing meat",
+       "Only other animals"
+      ],
+      [
+       "a human, with flat back teeth and sharp front teeth",
+       "Both plants and animals"
+      ]
+     ],
+     "a": "as given",
+     "why": "A cow's flat teeth grind plants, and her stomach breaks them down. A tiger's sharp teeth hold meat. A human has both kinds of teeth, so a human eats both."
     },
     {
      "t": "sort",
@@ -1947,11 +2003,11 @@
      "t": "mcq",
      "p": "In an ice test, a block with cloth all around melts least. A block with the same cloth lumped on top melts almost as much as a bare block. What does this show?",
      "opts": [
-      "Insulation helps only where it covers",
       "Cloth makes ice melt faster",
-      "Cloth on top works better than cloth all around"
+      "Cloth on top works better than cloth all around",
+      "Insulation helps only where it covers"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Heat reaches the block through the parts that stay bare. A lump on the top does little for the sides. This is why a camel's fat in a hump does not trap the heat of her whole body.",
      "outcome": 1
     },
@@ -1959,11 +2015,11 @@
      "t": "mcq",
      "p": "Why does a camel's temperature rising by day save her water?",
      "opts": [
-      "A body allowed to warm up does not need to sweat as much",
       "A hot body drinks less",
+      "A body allowed to warm up does not need to sweat as much",
       "Sweat is cooler when the body is hotter"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Sweating cools the body but loses water. If a camel lets her body warm up, she needs less sweating, so she saves water.",
      "outcome": 0
     },
@@ -1971,11 +2027,11 @@
      "t": "mcq",
      "p": "A giraffe stretches her neck all her life. Will her calf have a longer neck because of that?",
      "opts": [
-      "No, a calf inherits only what her mother was born with",
       "Yes, stretching passes on to the calf",
+      "No, a calf inherits only what her mother was born with",
       "Yes, but only a little"
      ],
-     "a": 0,
+     "a": 1,
      "why": "What an animal does in her life does not change what she passes on. Giraffe necks became long because longer-necked giraffes in each generation reached more food and had more young.",
      "outcome": 6
     },
@@ -2170,11 +2226,11 @@
      "t": "mcq",
      "p": "A study with high-speed video of woodpeckers found that the head acts like a stiff hammer. Which idea does this study cast doubt on?",
      "opts": [
-      "That the skull works mainly as a shock absorber",
       "That woodpeckers hit trees",
-      "That woodpeckers have beaks"
+      "That woodpeckers have beaks",
+      "That the skull works mainly as a shock absorber"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The older idea says the skull and tongue bones take up most of the knock. The video study suggests the head passes most of its energy into the wood instead. Scientists are still testing both.",
      "outcome": 3
     },
@@ -2338,11 +2394,11 @@
    "t": "mcq",
    "p": "A bird has a very long, thin, curved beak. What should you ask first?",
    "opts": [
-    "What problem does this beak solve?",
     "How old is the bird?",
-    "What is her favourite colour?"
+    "What is her favourite colour?",
+    "What problem does this beak solve?"
    ],
-   "a": 0,
+   "a": 2,
    "why": "An odd part is an answer to a problem in the animal's way of living. Asking about the problem leads you to the food, the place and the price.",
    "outcome": 0
   },
@@ -2350,11 +2406,11 @@
    "t": "mcq",
    "p": "A camel keeps her fat in one hump, not all over her body. What is the best reason?",
    "opts": [
-    "The rest of her skin stays thin, so her body heat can leave",
     "Fat is too heavy to spread out",
+    "The rest of her skin stays thin, so her body heat can leave",
     "Fat only grows on the back"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Fat is insulation. A layer all over would trap her heat, and she would have to sweat more and lose water.",
    "outcome": 1
   },
@@ -2374,11 +2430,11 @@
    "t": "mcq",
    "p": "The same weight stands on a narrow foot and on a wide foot on soft dough. Which sinks deeper, and why?",
    "opts": [
-    "The narrow foot, because the same weight is on a smaller patch",
     "The wide foot, because it is bigger",
-    "Both sink the same, because the weight is the same"
+    "Both sink the same, because the weight is the same",
+    "The narrow foot, because the same weight is on a smaller patch"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Pressure is weight divided by area. The narrow foot puts all the weight on a smaller area, so each small patch is pushed harder.",
    "outcome": 2
   },
@@ -2386,11 +2442,11 @@
    "t": "mcq",
    "p": "A camel's wide foot floats on sand. What is a likely price?",
    "opts": [
-    "It slips on wet clay",
     "It makes her too light",
+    "It slips on wet clay",
     "It stops her from running"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A wide pad shares her weight on soft ground, but on slippery clay it has little grip. Every good part is good for one kind of place.",
    "outcome": 2
   },
@@ -2398,11 +2454,11 @@
    "t": "mcq",
    "p": "Why do most woodpeckers have two toes pointing backwards?",
    "opts": [
-    "To grip a straight trunk",
     "To swim",
-    "To scratch the ground for seeds"
+    "To scratch the ground for seeds",
+    "To grip a straight trunk"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Two toes forward and two back make a strong clamp on a trunk. Her stiff tail props her at the same time.",
    "outcome": 3
   },
@@ -2410,11 +2466,11 @@
    "t": "mcq",
    "p": "What do scientists say about how a woodpecker's head survives the hits?",
    "opts": [
-    "They are still testing whether the skull absorbs the shock or acts like a stiff hammer",
     "It is settled that the head has a built-in cushion",
+    "They are still testing whether the skull absorbs the shock or acts like a stiff hammer",
     "It is settled that her brain is never hurt"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Older books said she has a shock absorber, but a video study in 2022 found the head works more like a stiff hammer. The question is still open, and we can say so.",
    "outcome": 3
   },
@@ -2446,11 +2502,11 @@
    "t": "mcq",
    "p": "Which of these is evidence, not a claim, about the Ice Test?",
    "opts": [
-    "Block B had the least water in the glass",
     "Fat all over is always best",
+    "Block B had the least water in the glass",
     "Insulation traps heat"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Evidence is what you measured or saw. A claim says what you think is true. Reasoning explains why the evidence supports the claim.",
    "outcome": 5
   },
@@ -2458,11 +2514,11 @@
    "t": "mcq",
    "p": "Which is the best explanation of how camels came to have wide pads?",
    "opts": [
-    "Calves born with wider pads survived better on sand and left more calves",
     "Camels stretched their feet to fit the sand",
-    "Camels wanted wider feet"
+    "Camels wanted wider feet",
+    "Calves born with wider pads survived better on sand and left more calves"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Wanting or stretching does not change what an animal passes on. Helpful differences spread because those animals survive and have more young.",
    "outcome": 6
   },
@@ -2470,13 +2526,25 @@
    "t": "mcq",
    "p": "Octopus eyes and human eyes both have lenses, yet the animals are not close relatives. What best explains this?",
    "opts": [
-    "Both met the same problem, focusing light, and each found its own answer",
     "An octopus is a kind of human",
-    "They share a recent ancestor with lens eyes"
+    "They share a recent ancestor with lens eyes",
+    "Both met the same problem, focusing light, and each found its own answer"
    ],
-   "a": 0,
+   "a": 2,
    "why": "This is convergent evolution. A lens is a good answer to the problem of seeing a sharp image, so it appeared twice, from different bodies.",
    "outcome": 7
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these animals is an omnivore?",
+   "opts": [
+    "A cow, who eats only grass and leaves",
+    "A tiger, who eats only deer",
+    "A human, who eats rice, dal, fruit and fish"
+   ],
+   "a": 2,
+   "why": "A human eats both plants and animals, so a human is an omnivore. A cow is a herbivore, and a tiger is a carnivore.",
+   "outcome": 0
   }
  ],
  "maths": [
@@ -2818,6 +2886,55 @@
     "a4"
    ],
    "plan": "Read one chapter aloud after the Two Hands, Two Jobs activity, and talk about how an octopus's arms might work."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Ice Test: does it matter where the fat goes?, Foot Test: why does a camel not sink in the sand?, Squeeze Test: how small a hole can a soft body pass?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e2",
+    "a1"
+   ],
+   "plan": "Get it before Ice Test: does it matter where the fat goes?."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Squeeze Test: how small a hole can a soft body pass?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Get it before Squeeze Test: how small a hole can a soft body pass?."
+  },
+  {
+   "id": "b-wooden-ice-cream-sticks--a-p",
+   "item": "Wooden ice-cream sticks (a pack)",
+   "kind": "material",
+   "why": "Used in Tongue Tools: reach the raisin in the crack. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in.",
+   "url": "https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Get it before Tongue Tools: reach the raisin in the crack."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "plan": {

@@ -330,11 +330,11 @@
       "t": "mcq",
       "q": "Which material is right for drying wet hands?",
       "options": [
-       "A plastic bag",
        "A cotton towel",
+       "A plastic bag",
        "A steel plate"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A cotton towel absorbs water. A plastic bag and a steel plate do not soak up water, so they only push it around."
      }
     }
@@ -680,11 +680,11 @@
       "t": "mcq",
       "q": "Which spoon could still stir the curd after three minutes in water?",
       "options": [
+       "The steel spoon",
        "The newspaper spoon",
-       "The card spoon",
-       "The steel spoon"
+       "The card spoon"
       ],
-      "a": 2,
+      "a": 0,
       "why": "Steel does not soak up water, so it stays stiff. The newspaper and the card soaked up water and went soft. If a paper spoon was slow to go soft, it still goes soft with more time."
      }
     }
@@ -811,10 +811,10 @@
       "q": "Which wrapper kept the biscuit driest?",
       "options": [
        "The paper napkin",
-       "The plastic",
-       "The cotton hanky"
+       "The cotton hanky",
+       "The plastic"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Plastic is waterproof, so the rain could not get through. The paper and the cloth absorbed the water and let it reach the biscuit."
      }
     }
@@ -1366,11 +1366,11 @@
      "t": "mcq",
      "p": "A towel and a raincoat are both used in the rainy season. Which one should soak up water?",
      "opts": [
-      "The towel",
       "The raincoat",
+      "The towel",
       "Both"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A towel's job is to dry you, so it must soak up water. A raincoat's job is to keep you dry, so it must keep water out."
     },
     {
@@ -1501,11 +1501,11 @@
    "t": "mcq",
    "p": "What are most spoons in an Indian kitchen made of?",
    "opts": [
-    "Steel",
     "Paper",
-    "Cloth"
+    "Cloth",
+    "Steel"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Most spoons are stainless steel. Steel stays stiff in wet and hot food, and lasts for years.",
    "outcome": 1
   },
@@ -1513,11 +1513,11 @@
    "t": "mcq",
    "p": "Which spoon is best for a non-stick pan?",
    "opts": [
-    "A wooden spoon",
     "A steel spoon",
-    "A metal fork"
+    "A metal fork",
+    "A wooden spoon"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Wood does not scratch the pan. Steel can scratch it.",
    "outcome": 0
   },
@@ -1525,11 +1525,11 @@
    "t": "mcq",
    "p": "What does waterproof mean?",
    "opts": [
-    "Water cannot get through",
     "It soaks up water",
+    "Water cannot get through",
     "It is full of water"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A waterproof material keeps water out. Rain runs off it.",
    "outcome": 2
   },
@@ -1537,11 +1537,11 @@
    "t": "mcq",
    "p": "A raincoat must bend when you walk. Which word means bends easily?",
    "opts": [
-    "Flexible",
     "Stiff",
-    "Waterproof"
+    "Waterproof",
+    "Flexible"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Flexible means it bends easily without breaking. Stiff is the opposite.",
    "outcome": 2
   },
@@ -1549,11 +1549,11 @@
    "t": "mcq",
    "p": "Why are rubber boots good in the monsoon?",
    "opts": [
-    "Rubber is waterproof and bends",
     "Rubber soaks up the rain",
+    "Rubber is waterproof and bends",
     "Rubber is stiff like steel"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Rubber keeps water out, and it bends when you walk.",
    "outcome": 2
   },
@@ -1561,11 +1561,11 @@
    "t": "mcq",
    "p": "In the Spoon Test, a steel spoon and a card spoon sit in water for three minutes. Then you stir thick curd with each one. What happens?",
    "opts": [
-    "The steel spoon stirs, and the card spoon bends",
     "Both spoons bend",
+    "The steel spoon stirs, and the card spoon bends",
     "Both spoons stir well"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Steel does not soak up water, so it stays stiff. The card soaks up water and goes soft.",
    "how": "e1",
    "outcome": 3
@@ -1739,7 +1739,33 @@
    "why": "Hands-on science galleries for children, including how things are made and what they are made of."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-wooden-ice-cream-sticks--a-p",
+   "item": "Wooden ice-cream sticks (a pack)",
+   "kind": "material",
+   "why": "Used in Make a Spoon That Works. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in.",
+   "url": "https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before Make a Spoon That Works."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "What is your spoon made of?",

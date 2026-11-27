@@ -1,9 +1,9 @@
 # Moon phases and eclipses: how much of the Moon is lit, and where a shadow ends
 `sci.sky.moon-phases.L5`
 
-**Summary.** The Moon's dark shadow only just reaches the Earth, and in some months it falls short. So why are total solar eclipses rare? In this unit you will measure how much of a sock Moon is lit at seven places, and find where the dark shadow of a seed ends.
+**Summary.** The Moon's dark shadow only just reaches the Earth, and in some months it falls short. So why are total solar eclipses rare? In this lesson you will measure how much of a sock Moon is lit at seven places, and find where the dark shadow of a seed ends.
 
-**Intro.** *The Sun is about 400 times as wide as the Moon. So how can the small Moon cover the whole Sun in a solar eclipse? And why does it sometimes leave a bright ring of Sun showing?* In this unit you answer both questions with a coin, a plate and a lamp. First you hide a steel plate behind a coin. Then you measure how much of a model Moon is lit at seven places on its path. You lift seeds under a lamp and find where each dark shadow ends. At the end you can say why eclipses are rare and why the eclipsed Moon turns red. You can also say how people measured the Earth with a shadow.
+**Intro.** *The Sun is about 400 times as wide as the Moon. So how can the small Moon cover the whole Sun in a solar eclipse? And why does it sometimes leave a bright ring of Sun showing?* In this lesson you answer both questions with a coin, a plate and a lamp. First you hide a steel plate behind a coin. Then you measure how much of a model Moon is lit at seven places on its path. You lift seeds under a lamp and find where each dark shadow ends. At the end you can say why eclipses are rare and why the eclipsed Moon turns red. You can also say how people measured the Earth with a shadow.
 
 ## Learning outcomes
 0. By the end I can explain the Moon's phases and the two pakshas, and say why phases are not the Earth's shadow.
@@ -639,7 +639,7 @@ Yazhini kept the coin. That night she held it up against the clock once more, at
 9. (count) The Moon moves about 12 degrees further from the Sun each day. How many degrees is that after 5 days?  
    **Answer:** 60. *Why:* 12 times 5 is 60 degrees. At 60 degrees about a quarter of the Moon's face is lit.
 10. (mcq) The Moon is 90 degrees from the Sun. How much of its face is lit?  
-   Options: A quarter / Half / Three-quarters / All of it  
+   Options: Half / A quarter / Three-quarters / All of it  
    **Answer:** Half. *Why:* At 90 degrees we look at the Moon from the side. So we see half of the lit half and half of the dark half. That is a half Moon.
 11. (truefalse) A lunar eclipse can be seen only from a narrow strip of the Earth.  
    **Answer:** False. *Why:* False. The Earth's shadow falls on the Moon itself. Everyone on the night side of the Earth sees the same darkened Moon.
@@ -655,7 +655,7 @@ Yazhini kept the coin. That night she held it up against the clock once more, at
    **Answer:** 3. *Why:* The Moon only reflects sunlight. The Sun, a firefly and a flame each make light.
 ### Angles, shadows and distances (stretch, 15 questions)
 1. (mcq) The Moon is 30 degrees from the Sun. About how much of its face is lit?  
-   Options: About 7 parts in 100 / About 17 parts in 100 / About 30 parts in 100 / About 50 parts in 100  
+   Options: About 17 parts in 100 / About 30 parts in 100 / About 7 parts in 100 / About 50 parts in 100  
    **Answer:** About 7 parts in 100. *Why:* At 30 degrees only about 7 parts in 100 are lit. Choosing 17 means expecting the lit part to grow evenly, by one-sixth at each of six steps.
 2. (fill) The lit shares at 60 degrees and at 120 degrees add up to ____ parts in 100.  
    **Answer:** ['100']. *Why:* 25 and 75 add up to 100. The part that is lit at 60 degrees is the same size as the part that is dark at 120 degrees.
@@ -666,7 +666,7 @@ Yazhini kept the coin. That night she held it up against the clock once more, at
 5. (count) Under one lamp, dark shadows are 40 widths long. How many millimetres long is the dark shadow of a 3 mm bead?  
    **Answer:** 120. *Why:* The dark shadow is 40 bead-widths long. 3 times 40 is 120 mm, which is 12 cm.
 6. (mcq) The paper is moved twice as far from the same lamp. What happens to a seed's dark shadow?  
-   Options: It becomes about twice as long / It becomes half as long / It stays the same / It vanishes  
+   Options: It becomes half as long / It stays the same / It vanishes / It becomes about twice as long  
    **Answer:** It becomes about twice as long. *Why:* From further away the lamp looks narrower, so the dark middle of the shadow narrows more slowly. Twice the distance gives twice the length.
 7. (sort) Where is each person standing during a solar eclipse?  
    **Answer:** The whole Sun is hidden → In the umbra; A bite is missing from the Sun → In the penumbra; The whole Sun shows → Outside the shadow; The corona can be seen → In the umbra; The Sun looks like a crescent → In the penumbra; It is an ordinary sunny day → Outside the shadow. *Why:* In the umbra the whole Sun is covered. In the penumbra part of the Sun still shows. Outside both, nothing is covered.
@@ -677,7 +677,7 @@ Yazhini kept the coin. That night she held it up against the clock once more, at
 10. (truefalse) A far Moon looks smaller in the sky than a near Moon.  
    **Answer:** True. *Why:* True. The Moon's distance changes from about 363,000 to about 405,000 km. A thing that is further away looks smaller.
 11. (mcq) A plate is 8 times as wide as a coin. Where must the coin be to just hide the plate?  
-   Options: 8 times nearer the eye than the plate / Halfway to the plate / Touching the plate / 8 times further than the plate  
+   Options: Halfway to the plate / 8 times nearer the eye than the plate / Touching the plate / 8 times further than the plate  
    **Answer:** 8 times nearer the eye than the plate. *Why:* Two things look the same size when their widths and their distances are in the same ratio. The coin is one-eighth as wide, so it must be one-eighth as far.
 12. (write) The Sun is about 400 times as wide as the Moon. Explain how the Moon can still cover it.  
    **Answer:** The Sun is also about 390 times as far away as the Moon. A thing that is 400 times as wide and about 400 times as far looks the same size. So the Moon can just cover the Sun.. *Why:* A strong answer compares both the widths and the distances. It may add that the match is not exact, which is why some eclipses are rings.
@@ -690,7 +690,7 @@ Yazhini kept the coin. That night she held it up against the clock once more, at
    **Answer:** 3. *Why:* A lunar eclipse needs the Earth between the Sun and the Moon, which is Purnima. Every solar eclipse needs the Moon between the Sun and the Earth, which is Amavasya.
 ### Testing ideas about eclipses (challenge, 15 questions)
 1. (mcq) Why is there not a solar eclipse at every Amavasya?  
-   Options: The Moon's path is tilted about 5 degrees / The Moon is too small / The Sun moves away / Clouds hide most of them  
+   Options: The Moon is too small / The Sun moves away / Clouds hide most of them / The Moon's path is tilted about 5 degrees  
    **Answer:** The Moon's path is tilted about 5 degrees. *Why:* The tilt carries the Moon above or below the straight line at most Amavasyas, so its shadow misses the Earth. An eclipse needs Amavasya near a node.
 2. (truefalse) Every eclipse season has both a solar eclipse and a lunar eclipse.  
    **Answer:** True. *Why:* True. The Sun stays near a node for about five weeks. That is long enough for one Amavasya and one Purnima to fall near the node.
@@ -699,14 +699,14 @@ Yazhini kept the coin. That night she held it up against the clock once more, at
 4. (write) Babylonian sky-watchers predicted eclipses from lists of dates. What could they not explain that you now can?  
    **Answer:** They knew when an eclipse was likely, from the pattern of dates. They could not say why eclipses come in pairs, or why a solar eclipse is total in one place and partial in another. Shadows, the tilt of the Moon's path and the Moon's distance explain these.. *Why:* A strong answer separates knowing the pattern from knowing the cause. It names at least one thing that the shadow explanation adds.
 5. (mcq) After a big volcanic eruption, the eclipsed Moon looks much darker. What does this show?  
-   Options: The Moon's light passed through the Earth's air / Volcanic smoke reaches the Moon / The Moon has moved away / The Sun has grown dimmer  
+   Options: Volcanic smoke reaches the Moon / The Moon's light passed through the Earth's air / The Moon has moved away / The Sun has grown dimmer  
    **Answer:** The Moon's light passed through the Earth's air. *Why:* Dust high in the Earth's air blocks some of the sunlight that is bent into the shadow. So the eclipsed Moon is a report on the Earth's air.
 6. (order) Put the events of a total lunar eclipse in order.  
    **Answer:** ['The Moon enters the pale penumbra', 'A curved dark edge crosses the Moon', 'The whole Moon turns dark red', 'The dark edge slides off the Moon']. *Why:* The Moon meets the pale outer shadow first, then the edge of the umbra. Once it is wholly inside the umbra it is lit only by red light bent through the Earth's air.
 7. (perspective) Was Aristarchus's measurement of the Sun's distance good science?  
    **Answer:** Any view with a reason. For the first: the same triangle gives the right answer with the true angle of 89.85 degrees. For the second: near 90 degrees a tiny error in the angle gives a huge error in the distance. For the third: his error was traced to one number, the angle of 87 degrees.. *Why:* A strong answer uses the triangle and its numbers. It treats the other views fairly. Historians still disagree about how to judge early measurements.
 8. (mcq) In Aristarchus's triangle the angle at the Earth changes from 87 to 89 degrees. What happens to the Sun's distance?  
-   Options: It grows a little / It becomes about three times as great / It halves / It does not change  
+   Options: It grows a little / It halves / It becomes about three times as great / It does not change  
    **Answer:** It becomes about three times as great. *Why:* At 87 degrees the Sun is 19 times as far as the Moon. At 89 degrees it is 57 times as far. Close to 90 degrees, the two lines are almost side by side, so they meet very far away.
 9. (truefalse) A half Moon gives half as much light as a full Moon.  
    **Answer:** False. *Why:* False. A half Moon gives only about one-tenth as much. Sunlight strikes its rough ground from the side, and long shadows cover much of the lit part.
@@ -730,10 +730,10 @@ Yazhini kept the coin. That night she held it up against the clock once more, at
 
 ## Quiz
 1. (mcq) On which night is no Moon seen at all?  
-   Options: Purnima / Amavasya / The night of the half Moon / Every night of Krishna Paksha  
+   Options: Amavasya / Purnima / The night of the half Moon / Every night of Krishna Paksha  
    **Answer:** Amavasya. *Why:* At Amavasya the Moon is between the Earth and the Sun, and its lit half faces away from us.
 2. (mcq) At Purnima, where is the Earth?  
-   Options: Between the Sun and the Moon / Behind the Moon / On the far side of the Sun / Between the Moon and the stars  
+   Options: Behind the Moon / On the far side of the Sun / Between the Sun and the Moon / Between the Moon and the stars  
    **Answer:** Between the Sun and the Moon. *Why:* At Purnima the Earth is between the Sun and the Moon, so we look at the Moon's whole lit half. The three are usually not in an exact line, so there is no eclipse.
 3. (mcq) Which fact shows that the phases are not the Earth's shadow?  
    Options: The Moon is far away / Eclipses are rare / A crescent Moon is seen near the Sun / The Moon is round  
@@ -745,25 +745,25 @@ Yazhini kept the coin. That night she held it up against the clock once more, at
    Options: About 12 parts in 100 / About 50 parts in 100 / About 80 parts in 100 / All of it  
    **Answer:** About 12 parts in 100. *Why:* The Moon's ground is dark grey, like an old tar road. It looks white only because the sky round it is black.
 6. (mcq) From inside the umbra of the Moon's shadow, what does the Sun look like?  
-   Options: Half hidden / Completely hidden / A bright ring / Unchanged  
+   Options: Completely hidden / Half hidden / A bright ring / Unchanged  
    **Answer:** Completely hidden. *Why:* The umbra is the part of the shadow where the whole Sun is covered. In the penumbra only part of the Sun is covered.
 7. (mcq) In sunlight, about how many widths behind a thing does its dark shadow end?  
-   Options: About 10 / About 30 / About 108 / It never ends  
+   Options: About 108 / About 10 / About 30 / It never ends  
    **Answer:** About 108. *Why:* The Sun is about 108 Sun-widths away, so every dark shadow in sunlight is about 108 widths long. Choosing 'never' treats a shadow as a flat patch with no length.
 8. (mcq) A solar eclipse is exactly on the centre line. What decides whether it is total or a ring?  
-   Options: The time of day / The season / The Moon's distance from the Earth / The Moon's phase  
+   Options: The time of day / The season / The Moon's phase / The Moon's distance from the Earth  
    **Answer:** The Moon's distance from the Earth. *Why:* A near Moon looks big enough to cover the Sun, and its dark shadow reaches the ground. A far Moon leaves a ring.
 9. (mcq) Why does the Moon turn red in a total lunar eclipse?  
    Options: The Moon gets hot / Sunlight bent through the Earth's air reaches it / The Sun turns red / Dust on the Moon glows  
    **Answer:** Sunlight bent through the Earth's air reaches it. *Why:* The Earth's air bends a little sunlight into the shadow and scatters the blue out of it. The same thing reddens the Sun at sunrise and sunset.
 10. (mcq) Who can see a total lunar eclipse?  
-   Options: Only people in a narrow strip / Only people near the equator / Everyone on the night side of the Earth / Only people with telescopes  
+   Options: Everyone on the night side of the Earth / Only people in a narrow strip / Only people near the equator / Only people with telescopes  
    **Answer:** Everyone on the night side of the Earth. *Why:* The Earth's shadow is on the Moon itself. Everyone who can see the Moon sees it darkened.
 11. (mcq) How often does an eclipse season come?  
-   Options: Every Moon month / About every six Moon months / Exactly once a year / Every 18 years  
+   Options: Every Moon month / Exactly once a year / About every six Moon months / Every 18 years  
    **Answer:** About every six Moon months. *Why:* The Sun lines up with a node of the Moon's path about every 173 days. Choosing 18 years mixes this up with the saros, after which eclipses repeat.
 12. (mcq) Which is a safe way to watch a partial solar eclipse?  
-   Options: Through sunglasses / Through X-ray film / With bare eyes for a few seconds / Through eclipse glasses marked ISO 12312-2  
+   Options: Through sunglasses / Through eclipse glasses marked ISO 12312-2 / Through X-ray film / With bare eyes for a few seconds  
    **Answer:** Through eclipse glasses marked ISO 12312-2. *Why:* Only a tested solar filter is safe for looking at the Sun. The eye feels no pain while sunlight burns it, so a short look is not safe.
 
 ## Applications
@@ -783,7 +783,7 @@ Yazhini kept the coin. That night she held it up against the clock once more, at
 - The words grahanam or grahan on a wall calendar or in a panchangam. They mark the dates of eclipses, worked out long in advance.
 - The shadow of your hand on the floor. It is sharp when your hand is near the floor, and soft and pale when you lift your hand.
 - A kite or an eagle flying high on a sunny day. The dark middle of the bird's shadow ends high in the air, so no dark shadow reaches the ground.
-- The Kodaikanal Solar Observatory in Tamil Nadu, which has photographed the Sun on clear days for more than a hundred years.
+- A picture of the Sun taken from a solar observatory. Observatories have photographed the Sun on clear days for more than a hundred years.
 
 ## Open questions
 - **Why is the Sun's corona so much hotter than its surface?** The surface is about 5,500 degrees Celsius and the corona is over a million. Waves and tiny flares are the two main ideas. Aditya-L1 and other spacecraft are measuring which matters more.
@@ -836,6 +836,12 @@ Star, Planet, Moon (sci.sky.L5): Topic-level song
 ## Things to buy
 - [A protractor, or a school geometry box](https://www.amazon.in/s?k=geometry+box) (tool): For Aristarchus's Angle, where you set angles of 80 to 89 degrees. Most children in Class 5 already have one. Used in a4. 
 - [One sheet of matt black chart paper](https://www.amazon.in/s?k=black+chart+paper) (material): For A Black Card in the Dark. A stationery shop sells a sheet for a few rupees. The black cover of an old notebook also works, if it is not shiny. Used in e3. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in The Shadow That Runs Out: where does the dark shadow of a seed end?, The Coin Eclipse: can a coin hide a steel plate?, Aristarchus's Angle: how a small mistake moved the Sun. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e2, a1, a4. Get it before The Shadow That Runs Out: where does the dark shadow of a seed end?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in How Much of the Moon Is Lit? Measure a sock Moon at seven places, The Shadow That Runs Out: where does the dark shadow of a seed end?, The Coin Eclipse: can a coin hide a steel plate?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, a1, a2, a4, c1, c2. Get it before How Much of the Moon Is Lit? Measure a sock Moon at seven places.
+- [Small torch bulbs or LEDs with a holder](https://www.amazon.in/s?k=torch+bulb+holder+set) (tool): Used in The Shadow That Runs Out: where does the dark shadow of a seed end?. About ₹10 to ₹50. A small torch can be taken apart for its bulb. Used in e2. Get it before The Shadow That Runs Out: where does the dark shadow of a seed end?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in A True-Scale Eclipse on a Stick (needs a sunny window, balcony or terrace). About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in c2. Get it before A True-Scale Eclipse on a Stick (needs a sunny window, balcony or terrace).
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Shadow That Runs Out: where does the dark shadow of a seed end?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e2. Get it before The Shadow That Runs Out: where does the dark shadow of a seed end?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Does the Moon make its own light? → No. Moonlight is sunlight reflected by the Moon.

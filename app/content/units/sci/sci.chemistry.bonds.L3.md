@@ -1,9 +1,9 @@
 # Chemical bonds: how atoms hold on to each other
 `sci.chemistry.bonds.L3`
 
-**Summary.** Boiling water turns it into steam, but it is still water. What can break water into two different gases? In this unit you will split water with a pencil and a battery, build models of molecules from chana and toothpicks, and play an atom card game.
+**Summary.** Boiling water turns it into steam, but it is still water. What can break water into two different gases? In this lesson you will split water with a pencil and a battery, build models of molecules from chana and toothpicks, and play an atom card game.
 
-**Intro.** *Next time someone cooks rice or boils milk, look under the lid. It is covered in drops. Touch one. It is plain water. The water went up as steam and came back as water.* So heating moves water around, but it does not change water into something else. Is water a single, simple stuff that can never be broken? People thought so for over two thousand years. In this unit you will split water yourself, with a pencil and a battery, and find out what it is made of.
+**Intro.** *Next time someone cooks rice or boils milk, look under the lid. It is covered in drops. Touch one. It is plain water. The water went up as steam and came back as water.* So heating moves water around, but it does not change water into something else. Is water a single, simple stuff that can never be broken? People thought so for over two thousand years. In this lesson you will split water yourself, with a pencil and a battery, and find out what it is made of.
 
 ## Learning outcomes
 0. I can say what a chemical bond is: atoms holding on to each other, using their electrons.
@@ -141,7 +141,7 @@ Atoms of only a few kinds join by bonds into countless different molecules. Ever
 - *big:* Atoms of only about 25 elements make up a human body. How can so few kinds make so many different things? (hint: The English language uses only 26 letters. Yet they can be put together in many ways to make every word. Atoms can be put together in many ways too.)
 
 ## Story: Bubbles That Were Not Steam
-*A made-up story. The water-splitting test in it is the one in this unit.*
+*A made-up story. The water-splitting test in it is the one in this lesson.*
 
 It was the morning of Pongal in Madurai. On the balcony of the flat, Paati had tied fresh turmeric leaves round the neck of the new pot. The milk in it was rising. Kavya, who was ten, held her little brother Arjun back from the stove.
 
@@ -489,7 +489,7 @@ That evening, Arjun drew a picture for Revathi Chithi. It showed a glass, two pe
 ## Worksheets
 ### Atoms Holding On (core) (core, 16 questions)
 1. (mcq) Which model of a water molecule is right?  
-   Options: One oxygen and one hydrogen / One oxygen and two hydrogens / Two oxygens and one hydrogen / Three hydrogens  
+   Options: One oxygen and one hydrogen / Two oxygens and one hydrogen / Three hydrogens / One oxygen and two hydrogens  
    **Answer:** One oxygen and two hydrogens. *Why:* Water is H2O: one oxygen with two hydrogens held on to it. A strong answer explains that oxygen has two hands.
 2. (fill) A group of atoms held together by bonds is called a ____.  
    **Answer:** ['molecule']. *Why:* A molecule is the smallest piece of a substance like water. Water, oxygen gas and sugar are all made of molecules.
@@ -536,7 +536,7 @@ That evening, Arjun drew a picture for Revathi Chithi. It showed a glass, two pe
 5. (write) A pencil leaves a mark on paper, but a diamond can cut glass. Both are carbon. Explain why they behave so differently.  
    **Answer:** In pencil lead, carbon atoms are held in flat sheets that hold each other weakly, so the sheets slide off onto paper. In diamond every carbon holds four others in all directions, so it is very hard.. *Why:* A strong answer talks about the pattern of bonds, not about different atoms.
 6. (mcq) Which takes more energy: boiling a glass of water away, or splitting the same water into hydrogen and oxygen?  
-   Options: Boiling it / Splitting it / They take the same / Neither takes any energy  
+   Options: Boiling it / They take the same / Splitting it / Neither takes any energy  
    **Answer:** Splitting it. *Why:* Splitting it takes several times more energy, because it breaks the strong bonds inside each molecule. Boiling only separates whole molecules, which hold each other weakly.
 7. (sort) Sort each change: does it give out heat, or does it need heat put in?  
    **Answer:** a candle burning → Gives out heat; rice cooking → Needs heat put in; a gas stove flame → Gives out heat; sugar turning to caramel → Needs heat put in; a wood fire → Gives out heat; ice melting → Needs heat put in. *Why:* Burning makes new strong bonds with oxygen, which gives out heat. Cooking and melting need heat put in, to break bonds or move molecules apart. A strong answer explains one of each.
@@ -568,7 +568,7 @@ That evening, Arjun drew a picture for Revathi Chithi. It showed a glass, two pe
 3. (write) Most of the air is nitrogen gas, N2. Nitrogen has three hands. How can two nitrogen atoms hold all their hands with only each other?  
    **Answer:** They hold each other with all three hands at once. This is a triple bond.. *Why:* A strong answer sees that two atoms can share more than one bond. This triple bond is very strong, which is why nitrogen gas changes so rarely.
 4. (mcq) A molecule is drawn as H, H, O in a row: the middle hydrogen holds the other hydrogen and the oxygen. What is wrong with it?  
-   Options: Nothing is wrong / The middle hydrogen has two partners, but hydrogen makes only one bond / Oxygen should be at the end / There are too many atoms  
+   Options: Nothing is wrong / Oxygen should be at the end / The middle hydrogen has two partners, but hydrogen makes only one bond / There are too many atoms  
    **Answer:** The middle hydrogen has two partners, but hydrogen makes only one bond. *Why:* The middle hydrogen is holding two partners, but hydrogen has only one hand. In real water, both hydrogens hold the oxygen.
 5. (write) A candle burns away in a closed jar, and the jar with everything in it weighs the same as before. Where did the wax go, and why does the weight stay the same?  
    **Answer:** The wax atoms bonded with oxygen and became carbon dioxide and water vapour inside the jar. No atoms left the jar or were destroyed, so the weight stays the same.. *Why:* A strong answer says atoms change partners but are not lost.
@@ -577,19 +577,19 @@ That evening, Arjun drew a picture for Revathi Chithi. It showed a glass, two pe
 7. (sort) Sort these: an element (one kind of atom) or a compound (more than one kind)?  
    **Answer:** oxygen gas, O2 → Element; water, H2O → Compound; diamond → Element; carbon dioxide, CO2 → Compound; nitrogen gas, N2 → Element; methane, CH4 → Compound; hydrogen gas, H2 → Element; sugar → Compound. *Why:* Oxygen, hydrogen and nitrogen gas, and diamond, each have one kind of atom. Water, carbon dioxide, methane and sugar have two or more kinds.
 8. (mcq) For 2,000 years people thought water was an element. Which finding showed that it is not?  
-   Options: Water freezes into ice / Water boils into steam / A battery splits water into hydrogen and oxygen / Water dissolves salt  
+   Options: A battery splits water into hydrogen and oxygen / Water freezes into ice / Water boils into steam / Water dissolves salt  
    **Answer:** A battery splits water into hydrogen and oxygen. *Why:* A battery split water into two different gases. An element cannot be split into other substances. Freezing and boiling only change how water molecules move.
 9. (write) Astronauts on the International Space Station get oxygen to breathe by splitting water with electricity. In the water-splitting test, which pencil gave the gas they breathe? What else do they get?  
    **Answer:** The pencil on the red, plus wire gave oxygen. They also get hydrogen, twice as much, from the black wire side.. *Why:* A strong answer uses the result of the child's own test.
 10. (fill) When two atoms share electrons in a bond, they are held together by the ____ force.  
    **Answer:** ['electric']. *Why:* Opposite electric charges attract. The positive centres of both atoms attract the shared electrons, and that holds the atoms together.
 11. (mcq) A rusty nail weighs a little more than the shiny nail did. Why?  
-   Options: Oxygen atoms from the air have joined the iron atoms / New iron atoms were made / The nail soaked up heat, and heat has weight / The nail grew bigger holes  
+   Options: New iron atoms were made / The nail soaked up heat, and heat has weight / Oxygen atoms from the air have joined the iron atoms / The nail grew bigger holes  
    **Answer:** Oxygen atoms from the air have joined the iron atoms. *Why:* Oxygen atoms from the air have bonded with the iron atoms. No iron is lost, and the extra atoms add weight.
 12. (match) Match each change to what happens to the molecules.  
    **Answer:** Water boils → whole molecules move far apart; A battery splits water → bonds inside molecules break; Sugar dissolves → sugar molecules spread among water molecules; A gas flame burns → atoms make new bonds with oxygen. *Why:* A strong answer can say which changes break the bonds inside molecules and which do not.
 13. (mcq) Why did we use pencil lead in the water-splitting test, and not a wooden stick?  
-   Options: Graphite carries electricity / Graphite is a magnet / Graphite makes the bubbles / Graphite is the same as soda  
+   Options: Graphite is a magnet / Graphite carries electricity / Graphite makes the bubbles / Graphite is the same as soda  
    **Answer:** Graphite carries electricity. *Why:* Pencil lead is graphite, a form of carbon that carries electricity. Wood does not carry it well enough.
 14. (write) Many people think heating always breaks things into smaller parts. Plan a test with things from your kitchen to check this idea.  
    **Answer:** Heat two things gently, such as ice and sugar, and cool them again. Ice comes back as water, nothing new. Sugar breaks, but it also joins up in new ways to make caramel. So heating can break bonds, but can also make new ones.. *Why:* A strong plan compares at least two things and says what result would support or go against the idea.
@@ -600,21 +600,21 @@ That evening, Arjun drew a picture for Revathi Chithi. It showed a glass, two pe
 
 ## Videos
 - **How atoms bond - George Zaidan and Charles Morton** (TED-Ed, 4 min) id `NgD9yHSJ29I`: A short cartoon of atoms sharing electrons to make bonds. Good for the parent and older children. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. Length is approximate.
-- **Materials and assembly: Indicating Electrolysis - Science Snacks activity** (Exploratorium Teacher Institute, 4 min) id `LWwGfQ8fBwA`: Shows how to set up a small water-splitting test, like the one in this unit, with a 9-volt battery. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. Its materials differ a little from ours. Length is approximate.
+- **Materials and assembly: Indicating Electrolysis - Science Snacks activity** (Exploratorium Teacher Institute, 4 min) id `LWwGfQ8fBwA`: Shows how to set up a small water-splitting test, like the one in this lesson, with a 9-volt battery. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. Its materials differ a little from ours. Length is approximate.
 - **Atomic Hook-Ups - Types of Chemical Bonds: Crash Course Chemistry #22** (CrashCourse, 10 min) id `QXT4OVM4vXI`: For the parent: a fast, detailed tour of the kinds of bond. Too fast for most children. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. Length is approximate.
 
 ## Quiz
 1. (mcq) What holds two atoms together in a bond?  
-   Options: Their electrons, attracted by both atoms at once / Tiny hooks on the atoms / Glue made inside the atom / Air pressing on them  
+   Options: Tiny hooks on the atoms / Glue made inside the atom / Air pressing on them / Their electrons, attracted by both atoms at once  
    **Answer:** Their electrons, attracted by both atoms at once. *Why:* A bond is made by electrons that are attracted by the centres of both atoms. That is the electric force. Hooks and glue are old pictures. Atoms have neither.
 2. (mcq) A water molecule is written H2O. What does that mean?  
-   Options: 2 hydrogen atoms and 1 oxygen atom / 2 oxygen atoms and 1 hydrogen atom / Hot water / 2 drops of water  
+   Options: 2 oxygen atoms and 1 hydrogen atom / Hot water / 2 hydrogen atoms and 1 oxygen atom / 2 drops of water  
    **Answer:** 2 hydrogen atoms and 1 oxygen atom. *Why:* H stands for hydrogen and O for oxygen. The small 2 says there are two hydrogen atoms. So one water molecule is two hydrogens and one oxygen.
 3. (mcq) Steam from a pot drips back off the lid as water. What does this show?  
-   Options: Boiling only moves water molecules apart. Each one stays whole. / Boiling splits water into hydrogen and oxygen / The lid makes water / Steam is a new substance  
+   Options: Boiling splits water into hydrogen and oxygen / The lid makes water / Boiling only moves water molecules apart. Each one stays whole. / Steam is a new substance  
    **Answer:** Boiling only moves water molecules apart. Each one stays whole.. *Why:* If boiling had split water, the gases would not drip back as water. The water molecules only moved apart, and came close again on the cool lid.
 4. (mcq) A gas stove flame is hot. Why?  
-   Options: The gas atoms make new, strong bonds with oxygen, which gives out energy / The gas atoms are destroyed / Water is splitting inside the flame / The flame is made of hydrogen only  
+   Options: The gas atoms are destroyed / The gas atoms make new, strong bonds with oxygen, which gives out energy / Water is splitting inside the flame / The flame is made of hydrogen only  
    **Answer:** The gas atoms make new, strong bonds with oxygen, which gives out energy. *Why:* The atoms of the gas bond with oxygen from the air and make carbon dioxide and water. Making strong new bonds gives out energy as heat and light.
 5. (mcq) Which of these is a chemical change, where new stuff is made?  
    Options: A dosa turning golden on the tava / Ghee melting in a pan / Ice melting in a glass / Sugar dissolving in milk  
@@ -623,16 +623,16 @@ That evening, Arjun drew a picture for Revathi Chithi. It showed a glass, two pe
    Options: Iron atoms have bonded with oxygen, with help from water, and made rust / Iron atoms have turned into paint / The iron has melted and set again / Water has split the iron into hydrogen and oxygen  
    **Answer:** Iron atoms have bonded with oxygen, with help from water, and made rust. *Why:* Rusting makes a new substance. Iron atoms bond with oxygen from the air, and water helps. Melting would only be a change you can undo by cooling.
 7. (mcq) Diamond and pencil lead are both pure carbon. Why is pencil lead soft?  
-   Options: Its carbon atoms are in flat sheets that slide over each other / It has less carbon / It is mixed with water / Its atoms are bigger  
+   Options: It has less carbon / It is mixed with water / Its atoms are bigger / Its carbon atoms are in flat sheets that slide over each other  
    **Answer:** Its carbon atoms are in flat sheets that slide over each other. *Why:* Graphite's sheets hold each other only weakly, so they slide off onto paper. In diamond every carbon holds four others in all directions.
 8. (mcq) Oxygen has two hands and hydrogen has one. Which molecule is not possible?  
    Options: One hydrogen holding two oxygens with its one hand / H2O / Two hydrogens holding each other, H2 / Two oxygens holding each other with two hands each  
    **Answer:** One hydrogen holding two oxygens with its one hand. *Why:* Hydrogen has only one hand, so it cannot hold two partners. The others use every hand exactly once.
 9. (mcq) When something burns, where do most of its atoms go?  
-   Options: Into the air, as new gases like carbon dioxide and water / They are destroyed / They all stay in the ash / They turn into heat  
+   Options: They are destroyed / They all stay in the ash / Into the air, as new gases like carbon dioxide and water / They turn into heat  
    **Answer:** Into the air, as new gases like carbon dioxide and water. *Why:* Atoms are never destroyed in burning. They bond with oxygen and leave as gases. The ash is only a small part.
 10. (mcq) Sugar is dissolved in one glass of water and cooking soda in another. With the battery and pencils, the soda water bubbles a lot and the sugar water hardly at all. Why?  
-   Options: Soda splits into charged particles that carry electricity, but sugar molecules have no charge / Sugar is heavier / Sugar stops the pencils working for ever / Soda water is warmer  
+   Options: Sugar is heavier / Sugar stops the pencils working for ever / Soda water is warmer / Soda splits into charged particles that carry electricity, but sugar molecules have no charge  
    **Answer:** Soda splits into charged particles that carry electricity, but sugar molecules have no charge. *Why:* Charged particles carry the electricity across the water. Sugar dissolves as whole molecules with no charge, so very little electricity flows and few bubbles form.
 
 ## Applications
@@ -699,6 +699,11 @@ Hold On Tight (sci.chemistry.L3): Topic-level song for Chemistry L3
 ## Things to buy
 - [A 9-volt battery with a snap clip that has a red and a black wire](https://www.amazon.in/s?k=9v+battery+with+snap+connector) (material): Needed to split water. A 9-volt battery and a clip are sold cheaply in electrical and hardware shops. The clip saves holding wires by hand. Used in e1, e3, c1. 
 - [A box of toothpicks](https://www.amazon.in/s?k=wooden+toothpicks) (material): For the chana molecule models. Many homes already have them. Broken bamboo skewers work too. Used in a2, p1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Atom Puzzle Pieces. About ₹10 to ₹30. Any school ruler is fine. Used in c2. Get it before Atom Puzzle Pieces.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Split Water with a Pencil and a Battery, Plain, Sugar or Soda Water: which splits best?, The Faster Bubble Machine. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e1, e3, c1, c2. Get it before Split Water with a Pencil and a Battery.
+- [Baking soda](https://www.amazon.in/s?k=baking+soda) (material): Used in Split Water with a Pencil and a Battery. About ₹20 to ₹40. Check the kitchen first. Used in e1. Get it before Split Water with a Pencil and a Battery.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Build Molecules with Chana and Toothpicks, My Molecule Book. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a2, p1. Get it before Build Molecules with Chana and Toothpicks.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is a group of atoms held together called? → A molecule.

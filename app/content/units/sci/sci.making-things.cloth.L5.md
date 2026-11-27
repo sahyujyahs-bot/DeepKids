@@ -1,9 +1,9 @@
 # Cloth: how thread is woven, knitted and stitched, and how old cloth is used again
 `sci.making-things.cloth.L5`
 
-**Summary.** A T-shirt stretches when you pull it, but a handkerchief hardly moves, even if both are cotton. Why? In this unit you will measure the stretch of woven and knitted cloth, sew stitches and test how small a stitch must be to hold mustard seeds, and sort cloth traditions from across India.
+**Summary.** A T-shirt stretches when you pull it, but a handkerchief hardly moves, even if both are cotton. Why? In this lesson you will measure the stretch of woven and knitted cloth, sew stitches and test how small a stitch must be to hold mustard seeds, and sort cloth traditions from across India.
 
-**Intro.** *Take a cotton T-shirt and a cotton handkerchief. Pull each one sideways. The T-shirt stretches a lot, and the handkerchief hardly at all. Both are made of cotton thread. So why does only one of them stretch?* The answer is not in the cotton. It is in the path the thread takes. In the handkerchief, hundreds of threads cross each other, over and under. This is weaving. In the T-shirt, one long thread is pulled into row after row of loops. This is knitting. Humans are not the only animals who do this kind of work. A male baya weaver knots and weaves a hanging nest from strips of grass, using only his beak and feet. A tailorbird stitches a leaf into a cup with plant fibre. In this unit you take cloth apart to see how it is made, and you make and test some yourself.
+**Intro.** *Take a cotton T-shirt and a cotton handkerchief. Pull each one sideways. The T-shirt stretches a lot, and the handkerchief hardly at all. Both are made of cotton thread. So why does only one of them stretch?* The answer is not in the cotton. It is in the path the thread takes. In the handkerchief, hundreds of threads cross each other, over and under. This is weaving. In the T-shirt, one long thread is pulled into row after row of loops. This is knitting. Humans are not the only animals who do this kind of work. A male baya weaver knots and weaves a hanging nest from strips of grass, using only his beak and feet. A tailorbird stitches a leaf into a cup with plant fibre. In this lesson you take cloth apart to see how it is made, and you make and test some yourself.
 
 ## Learning outcomes
 0. By the end I can explain weaving with the words warp and weft, and tell a woven cloth from a knitted one by looking and by pulling.
@@ -79,6 +79,7 @@ In a running stitch the needle goes down and up along a line. The thread lies on
 - e.g. In the Leaky Seam Test, the seam with the longest stitches lets the most mustard seeds through.
 - e.g. A tailor tacks a blouse together with long running stitches for a fitting, then pulls them out after machine stitching.
 - e.g. A kantha quilt is held together by thousands of small running stitches through three or more layers of old cloth.
+- e.g. In a running stitch, one thread runs through every stitch. If that thread breaks, the rest of the line can slide loose and come undone.
 ### Natural fibres from plants and animals · *defined*
 **Definition:** Natural fibres are made by living beings. Plant fibres are made mostly of cellulose. Animal fibres are made of protein.
 
@@ -118,6 +119,7 @@ Woven in: the weaver uses coloured threads on the loom. In a Kanchipuram silk sa
 - e.g. In Paper Ikat, a shape drawn on the strips before weaving shows up broken into small squares after weaving.
 - e.g. Turn a printed cloth over and the pattern is fainter on the back. Turn a woven check over and it looks the same.
 - e.g. A kasuti pattern is planned so well that it looks the same on both sides of the cloth.
+- e.g. Natural dye is made by boiling beetroot, hibiscus or marigold in water, straining the liquid, and soaking the cloth in it overnight.
 ### Handloom, power loom and khadi · *debated*
 **Definition:** A handloom is worked by a person. A power loom is driven by a motor. Khadi is cloth that is both spun and woven by hand.
 
@@ -134,7 +136,7 @@ For many centuries, Indian handwoven cotton was sold across Asia, Africa and Eur
 Making cloth uses land, water and energy. Growing the cotton for one T-shirt takes a great deal of water. Estimates range from hundreds to thousands of litres. So the best use of a garment is to wear it for a long time. After that comes passing it on, and then remaking it into something new. Many Indian homes do this without calling it recycling. Old saris become kantha quilts in Bengal, godhadi quilts in Maharashtra and kaudi quilts in Karnataka. Strips of old cloth are woven into chindi rugs. Worn banians become dusters, and old cotton becomes lamp wicks. Last comes true recycling. At Panipat in Haryana, old woollen clothes from many countries are sorted by colour, torn back into fibre and spun into yarn for blankets. Each round of tearing shortens the fibres, so recycled yarn is weaker. Polyester can be melted and spun again, and some polyester is made from used plastic bottles. One problem is still being studied. When synthetic clothes are washed, they shed microfibres that pass into rivers and the sea.
 - e.g. In The Sweater That Went Back to Wool, a sweater is unravelled and knitted again in a smaller size.
 - e.g. In many cities, traders give steel vessels in exchange for old clothes and sell the clothes at second-hand markets.
-- e.g. The Chindi Coaster in this unit is woven from strips of an old T-shirt.
+- e.g. The Chindi Coaster in this lesson is woven from strips of an old T-shirt.
 - **A marine biologist:** Plastic microfibres are now found in sea water, fish and salt. We should cut them down now, before the harm is fully measured.
 - **A textile engineer:** Cotton sheds fibres too, and growing cotton takes much water and pesticide. A polyester shirt that lasts ten years may do less harm than three cotton ones.
 - **A woman who sorts old clothes at Panipat:** Cloth that reaches us clean, dry and of one fibre becomes yarn again. Blends and dirty cloth mostly become stuffing or waste.
@@ -184,8 +186,8 @@ We have learned how thread is woven, knitted and stitched into cloth, and how cl
 
 A cotton plant builds fibre out of air, water and sunlight. People twist that fibre into one thread. From threads we make many kinds of cloth. They are woven, knitted, dyed and stitched in hundreds of ways across India. When a cloth wears out, its thread and fibre can become a quilt, a rug or new yarn. All these cloths are made of the same few things, which are fibre and thread, arranged in different ways. The fibre came from the same air and water that your own body is made from.
 
-- **Brihadaranyaka Upanishad 3.6 and 3.8:** “यदिदं सर्वमप्स्वोतं च प्रोतं च कस्मिन्नु खल्वाप ओताश्च प्रोताश्चेति / वायौ गार्गीति / कस्मिन्नु खलु वायुरोतश्च प्रोतश्चेति / अन्तरिक्षलोकेषु गार्गीति / कस्मिन्नु खल्वाकाश ओतश्च प्रोतश्चेति” The philosopher Gargi Vachaknavi asks the sage Yajnavalkya a weaver's question. If all this world is woven, like warp and weft, on water, then on what is water woven? She asks again and again, down to the last thing on which everything is woven. (Gargi used the picture of a loom to ask what holds the world together. In this unit your child asks the same kind of question of a cloth, and finds threads, then plies, then fibres, then long molecules.)
-- **Kabir, the song 'Jhini jhini bini chadariya':** “झीनी झीनी बीनी चदरिया / काहे कै ताना काहे कै भरनी / दास कबीर जतन करि ओढी / ज्यों कीं त्यों धर दीनी चदरिया” Kabir was a weaver of Varanasi. In this song, sung in his name, he calls the body a finely woven cloth and asks what its warp and weft are. He says he wore the cloth with care and gave it back as he received it. (A weaver saw his own life in his work. The song treats a cloth as something lent, to be looked after and returned, which is how this unit treats old cloth.)
+- **Brihadaranyaka Upanishad 3.6 and 3.8:** “यदिदं सर्वमप्स्वोतं च प्रोतं च कस्मिन्नु खल्वाप ओताश्च प्रोताश्चेति / वायौ गार्गीति / कस्मिन्नु खलु वायुरोतश्च प्रोतश्चेति / अन्तरिक्षलोकेषु गार्गीति / कस्मिन्नु खल्वाकाश ओतश्च प्रोतश्चेति” The philosopher Gargi Vachaknavi asks the sage Yajnavalkya a weaver's question. If all this world is woven, like warp and weft, on water, then on what is water woven? She asks again and again, down to the last thing on which everything is woven. (Gargi used the picture of a loom to ask what holds the world together. In this lesson your child asks the same kind of question of a cloth, and finds threads, then plies, then fibres, then long molecules.)
+- **Kabir, the song 'Jhini jhini bini chadariya':** “झीनी झीनी बीनी चदरिया / काहे कै ताना काहे कै भरनी / दास कबीर जतन करि ओढी / ज्यों कीं त्यों धर दीनी चदरिया” Kabir was a weaver of Varanasi. In this song, sung in his name, he calls the body a finely woven cloth and asks what its warp and weft are. He says he wore the cloth with care and gave it back as he received it. (A weaver saw his own life in his work. The song treats a cloth as something lent, to be looked after and returned, which is how this lesson treats old cloth.)
 - **Thich Nhat Hanh, The Heart of Understanding (1988):** Look deeply at a sheet of paper and you see the cloud, the rain, the tree and the logger. Without any one of them, the paper would not be here. (The same is true of a cotton shirt. In it are the cotton plant, the soil and rain, the farmer, the spinner, the weaver or knitter, the dyer and the tailor.)
 - Science (settled): The cellulose in every cotton fibre was built by a plant from carbon dioxide and water, using the energy of sunlight.
 - Science (debated): A whole, such as a cloth, can do things that none of its parts can do alone. Whether this means the whole is something more than its parts is still argued about by philosophers and scientists.
@@ -271,7 +273,7 @@ Paati knitted for nine evenings, and Thenmozhi knitted the plain rows when Paati
 - **Printable cards: 24 cloth cards to cut out (the answer and the place are on the back):** Kanchipuram silk sari. The border and the body are woven in different colours and locked together on the loom, using three shuttles. (back: Woven in. Kanchipuram, Tamil Nadu (South).); Jamdani. The weaver adds each small flower by hand with extra weft threads, while weaving very fine cotton. (back: Woven in. West Bengal, and Dhaka in Bangladesh (East).); Paithani sari. Peacocks and parrots are built up on the loom from many coloured silk wefts, and look the same on both sides. (back: Woven in. Paithan and Yeola, Maharashtra (West).); Kasavu. Cream cotton cloth is woven with a border of golden thread, and worn at Onam. (back: Woven in. Kerala (South).); Ilkal sari. The body and the end piece have separate warp threads, joined on the loom by small loops, thread by thread. (back: Woven in. Ilkal, Karnataka (South).); Kani shawl. Fine goat hair is woven with dozens of small wooden sticks, each carrying one colour of weft. (back: Woven in. Kashmir (North).); Bhavani jamakkalam. Thick cotton floor spreads are woven in broad, bright stripes on pit looms. (back: Woven in. Bhavani, Tamil Nadu (South).); Pattamadai mat. Korai grass is split very fine and woven across cotton warp threads into a mat as soft as cloth. (back: Woven in. Pattamadai, Tamil Nadu (South).); Pochampally ikat. Bundles of thread are tied and dyed before weaving, so the diamonds have feathered edges. (back: Thread dyed first. Telangana (South).); Patola. Both the warp and the weft are tied and dyed before weaving, and must meet exactly. One sari takes many months. (back: Thread dyed first. Patan, Gujarat (West).); Sambalpuri sari. Threads are tied and dyed before weaving, to make shells, wheels and flowers with soft edges. (back: Thread dyed first. Odisha (East).); Bandhani. Thousands of tiny points of the cloth are pinched and tied with thread. Then the cloth is dyed, and the points stay as dots. (back: Cloth tied and dyed. Gujarat and Rajasthan (West).); Sungudi sari. Cotton saris are tied in small dots and dyed, a craft of the Saurashtrian weavers of Madurai. (back: Cloth tied and dyed. Madurai, Tamil Nadu (South).); Leheriya. The cloth is rolled from corner to corner, tied at gaps and dyed, which leaves slanting wavy stripes. (back: Cloth tied and dyed. Rajasthan (West).); Ajrakh. Carved wooden blocks print the cloth in many stages, with indigo blue and madder red, often on both sides. (back: Printed or painted. Kutch, Gujarat (West).); Kalamkari of Srikalahasti. The artist draws on the cloth by hand with a bamboo pen and plant dyes. (back: Printed or painted. Andhra Pradesh (South).); Bagru print. Wooden blocks print the cloth with plant dyes, and a mud paste keeps the dye off some parts. (back: Printed or painted. Bagru, Rajasthan (West).); Kantha. Layers of old saris and dhotis are joined with rows and rows of running stitch. (back: Stitched on. West Bengal and Odisha (East).); Chikankari. White thread is stitched on fine white cloth, over a pattern first stamped in washable blue. (back: Stitched on. Lucknow, Uttar Pradesh (North).); Phulkari. Bright silk thread is stitched from the back of coarse cotton cloth, by counting its threads. (back: Stitched on. Punjab (North).); Toda embroidery. Toda women stitch red and black patterns on cream cotton by counting threads, with no drawing. (back: Stitched on. The Nilgiris, Tamil Nadu (South).); Kasuti. The pattern is stitched by counting threads, with no knots, and looks the same on both sides. (back: Stitched on. Dharwad region, Karnataka (South).); Lambani embroidery. Lambani women stitch bright patches, small mirrors and shells on to cloth. (back: Stitched on. Sandur, Karnataka (South).); Khneng embroidery. A few Khasi women stitch a pattern like the legs of a centipede on eri silk shawls. (back: Stitched on. Mustoh, Meghalaya (Northeast).)
 - **Printable board: Sorting board: five boxes, one for each way of making a pattern:** Woven in; Thread dyed first; Cloth tied and dyed; Printed or painted; Stitched on
 - **s1 (4 min)**  
-  *Parent does:* 1. Cut out the cards and shuffle them. 2. Read the five box names aloud. 3. Give one example for each from this unit: a woven check, Paper Ikat, a tied and dyed dot, a block print and an embroidered flower.  
+  *Parent does:* 1. Cut out the cards and shuffle them. 2. Read the five box names aloud. 3. Give one example for each from this lesson: a woven check, Paper Ikat, a tied and dyed dot, a block print and an embroidered flower.  
   *Parent says:* A pattern can be woven in, dyed into the threads, dyed into the cloth, printed or stitched. Listen for the clue words on each card.  
   *Child mode:* Shuffle the cards. Read the five boxes. Listen for clue words: loom, tied, dyed, block, pen, stitch.
 - **s2 (12 min)**  
@@ -622,7 +624,7 @@ Paati knitted for nine evenings, and Thenmozhi knitted the plain rows when Paati
 ## Worksheets
 ### Threads, cloth and stitches (core) (core, 15 questions)
 1. (mcq) What is weaving?  
-   Options: Twisting fibres into yarn / Crossing two sets of threads, over and under / Pulling one thread into loops / Printing colour on cloth  
+   Options: Twisting fibres into yarn / Pulling one thread into loops / Crossing two sets of threads, over and under / Printing colour on cloth  
    **Answer:** Crossing two sets of threads, over and under. *Why:* Weaving crosses warp threads and weft threads at right angles. Twisting fibres is spinning, and pulling one thread into loops is knitting. Choosing one of those means the three words need another look.
 2. (fill) The threads that run along the length of a woven cloth are called the ____.  
    **Answer:** ['warp']. *Why:* The warp is stretched tight on the loom first. The weft is then woven across it.
@@ -639,7 +641,7 @@ Paati knitted for nine evenings, and Thenmozhi knitted the plain rows when Paati
 8. (draw) Draw the path of one thread in a woven cloth and in a knitted cloth, side by side.  
    **Answer:** The woven thread goes straight across, over one thread and under the next. The knitted thread goes up and down in a row of loops.. *Why:* A strong drawing shows the woven thread almost straight and the knitted thread looping, so it is clear which has spare length.
 9. (mcq) Which bird stitches the edges of a leaf together to hold a nest?  
-   Options: Baya weaver / Crow / Tailorbird / Kingfisher  
+   Options: Tailorbird / Baya weaver / Crow / Kingfisher  
    **Answer:** Tailorbird. *Why:* The tailorbird pierces the leaf edges and pulls plant fibre or spider silk through. The baya weaver weaves a hanging nest from strips of grass.
 10. (odd) Three of these are natural fibres. Which one is the odd one out?  
    Options: Cotton / Jute / Polyester / Wool  
@@ -655,9 +657,9 @@ Paati knitted for nine evenings, and Thenmozhi knitted the plain rows when Paati
    **Answer:** down and up along a line. *Why:* A running stitch goes down and up along a line and leaves a dashed line of thread. Going back each time makes a backstitch.
 15. (write) Why does the cut edge of a bedsheet need a hem? Use the word 'fray'.  
    **Answer:** A cut edge of woven cloth will fray, because the threads along the edge have nothing outside them to hold them in. A hem folds the cut edge inside and stitches it down, so the threads cannot slide out.. *Why:* A strong answer says what fraying is and how the fold stops it, as in the Fray Test.
-### Testing cloth and choosing fibres (stretch) (stretch, 15 questions)
+### Testing cloth and choosing fibres (stretch) (stretch, 17 questions)
 1. (mcq) One row of thread pulled from 5 cm of T-shirt cloth is 18 cm long. What does this show?  
-   Options: The cloth was measured wrongly / The thread is made of rubber / The thread runs in loops / Cotton grows when it is cut  
+   Options: The thread runs in loops / The cloth was measured wrongly / The thread is made of rubber / Cotton grows when it is cut  
    **Answer:** The thread runs in loops. *Why:* The thread is more than 3 times as long as the cloth is wide, so it must be folded into loops. That spare length is where the stretch comes from.
 2. (write) In the Leaky Seam Test, the longest stitches leaked most. Explain why, using the words 'needle holes' and 'gap'.  
    **Answer:** A running stitch pins the two cloths together only at the needle holes. Between the holes the cloths can pull apart and leave a gap. When the holes are 1 cm apart the gap is wide enough for a mustard seed. Short stitches leave only small gaps.. *Why:* A strong answer links the length of the stitch to the size of the gap, and the size of the gap to the size of the seed.
@@ -668,7 +670,7 @@ Paati knitted for nine evenings, and Thenmozhi knitted the plain rows when Paati
 5. (sort) Sort these cloths by how the pattern is made.  
    **Answer:** Kanchipuram border → Woven in; bandhani → Tied and dyed; kantha → Stitched; jamdani → Woven in; Pochampally ikat → Tied and dyed; Toda embroidery → Stitched; kasuti → Stitched; Paithani → Woven in. *Why:* Kanchipuram borders, jamdani and Paithani patterns are made on the loom with coloured threads. Bandhani and Pochampally ikat are tied and dyed. Kantha, Toda embroidery and kasuti are stitched with a needle.
 6. (mcq) Which is the safest to wear beside a gas stove?  
-   Options: A polyester jacket / A cotton kurta / A nylon dupatta / An acrylic sweater  
+   Options: A cotton kurta / A polyester jacket / A nylon dupatta / An acrylic sweater  
    **Answer:** A cotton kurta. *Why:* Synthetic fibres melt near a flame and stick to the skin. Cotton can burn, but it does not melt and stick.
 7. (draw) Draw a seam with long running stitches, pulled open. Mark the place where a seed could pass.  
    **Answer:** Two cloths pulled apart with thread crossing between them like the rungs of a ladder. The gaps between the rungs are marked.. *Why:* A strong drawing shows the cloth pinned only at the needle holes and open between them.
@@ -681,7 +683,7 @@ Paati knitted for nine evenings, and Thenmozhi knitted the plain rows when Paati
 11. (match) Match each fibre to a job it suits.  
    **Answer:** Jute → a sack for rice; Wool → a winter shawl; Cotton → a bath towel; Coir → a doormat for the monsoon; Nylon → a school bag for rainy days. *Why:* Each fibre is chosen for what it does: jute is strong and cheap, wool traps air, cotton takes in water, coir stands up to water, and nylon keeps water out.
 12. (mcq) Why is denim blue outside and pale inside?  
-   Options: Only the outside is dyed / The inside is washed more often / The blue threads lie mostly on the outside / The inside is a different cloth  
+   Options: Only the outside is dyed / The blue threads lie mostly on the outside / The inside is washed more often / The inside is a different cloth  
    **Answer:** The blue threads lie mostly on the outside. *Why:* Denim is a twill. Its blue warp threads pass over three white weft threads and under one, so the outside shows mostly blue and the inside mostly white.
 13. (odd) Three of these are knitted. Which one is the odd one out?  
    Options: T-shirt / Sock / Sweater / Sari  
@@ -690,6 +692,10 @@ Paati knitted for nine evenings, and Thenmozhi knitted the plain rows when Paati
    **Answer:** ['The fold at the bottom', 'The cut edge tucked inside', 'The stitches that hold the fold down']. *Why:* A hem works because the cut edge is shut inside the fold, where its threads cannot slide out.
 15. (write) A sock has a ladder running down it. Explain how one broken loop caused it.  
    **Answer:** In knitted cloth each loop is held by the loop next to it in the column. When one loop breaks, the next loop has nothing to hold it and slips out, and then the one after that. The line of slipped loops is the ladder.. *Why:* A strong answer says that every loop depends on another loop, which is the cost of knitting with one thread.
+16. (fill) To make natural dye, you boil the plant parts in water, then ____ the liquid to remove the bits before you soak the cloth.  
+   **Answer:** strain. *Why:* Straining pours the coloured water through a cloth or sieve, so only the liquid goes into the dye pot.
+17. (truefalse) In a running stitch, each stitch has its own separate thread, so one broken thread loses only one stitch.  
+   **Answer:** False. *Why:* False. The same thread runs through every stitch of a running stitch, so a break can let the whole line come loose.
 ### Weavers, evidence and arguments (challenge) (challenge, 15 questions)
 1. (write) Cloth rots in the ground. Explain how a lump of fired clay can show that people wove 26,000 years ago.  
    **Answer:** Wet clay was pressed against woven cloth and took its print. The clay was then baked in a fire and became hard. The cloth rotted, but the print of crossing threads stayed in the clay, and the clay can be dated.. *Why:* A strong answer separates the cloth, which is gone, from the evidence, which is its print.
@@ -703,7 +709,7 @@ Paati knitted for nine evenings, and Thenmozhi knitted the plain rows when Paati
 5. (truefalse) True or false: yarn spun from torn-up old clothes is as strong as yarn spun from new fibre.  
    **Answer:** False. *Why:* False. Tearing cloth back into fibre shortens the fibres. Short fibres overlap less, so the recycled yarn is weaker.
 6. (mcq) The body louse lives only in clothing. What can their DNA help scientists find out?  
-   Options: What colour the first clothes were / Who invented the needle / Roughly when people began to wear clothes / How cotton was first spun  
+   Options: What colour the first clothes were / Who invented the needle / How cotton was first spun / Roughly when people began to wear clothes  
    **Answer:** Roughly when people began to wear clothes. *Why:* Body lice could not exist before clothes. Their DNA shows when they split from head lice, at least 83,000 years ago, so clothes are at least that old.
 7. (write) Someone says natural fibres are always better for the Earth. Give one piece of evidence for and one against.  
    **Answer:** For: cotton, wool and jute rot back into soil, while polyester lasts for centuries and sheds plastic microfibres. Against: growing cotton takes a great deal of water, hundreds to thousands of litres for one T-shirt by different estimates, and often much pesticide.. *Why:* A strong answer gives real evidence on both sides before deciding.
@@ -719,7 +725,7 @@ Paati knitted for nine evenings, and Thenmozhi knitted the plain rows when Paati
 12. (write) When a sweater is unravelled, all the wool is still there. Is the sweater still there? Give your reasons.  
    **Answer:** There is no single right answer. One good answer: the wool is there but the sweater is not, because a sweater is wool arranged in loops of a certain shape. Another: nothing has been lost, so the sweater is only waiting to be knitted again.. *Why:* A strong answer says clearly what the child thinks a sweater is, the material or the arrangement, and gives a reason.
 13. (match) Match each piece of evidence to what it shows.  
-   **Answer:** Prints of crossing threads in fired clay → people wove 26,000 years ago; Cotton fibres inside a copper bead → cotton thread was used at Mehrgarh; Polyester fibres in beach sand → clothes shed microfibres into the sea; A scrap of three-ply cord on a stone tool → Neanderthals made string. *Why:* Each claim in this unit rests on something people found and measured. A strong answer can say why the evidence fits the claim.
+   **Answer:** Prints of crossing threads in fired clay → people wove 26,000 years ago; Cotton fibres inside a copper bead → cotton thread was used at Mehrgarh; Polyester fibres in beach sand → clothes shed microfibres into the sea; A scrap of three-ply cord on a stone tool → Neanderthals made string. *Why:* Each claim in this lesson rests on something people found and measured. A strong answer can say why the evidence fits the claim.
 14. (odd) In three of these, the pattern is made before or during weaving. Which is the odd one out?  
    Options: Ikat / Jamdani / Chikankari / Kanchipuram border  
    **Answer:** 2. *Why:* Chikankari is stitched on to finished cloth with a needle. Ikat threads are dyed before weaving, and jamdani and Kanchipuram borders are made on the loom.
@@ -728,27 +734,27 @@ Paati knitted for nine evenings, and Thenmozhi knitted the plain rows when Paati
 
 ## Videos
 - **Baya Weaver Male Weaves a Nest 4K** (Thailand Wild, 4 min) id `4FVjotOabSU`: To watch a bird knot and weave grass with beak and feet, which few city children can see for themselves. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
-- **Weaving silk saree on a wooden loom in Madurai, Tamil Nadu** (WildFilmsIndia, 4 min) id `IyjyHmmNfKc`: To see the warp threads lift and the shuttle pass through on a real Indian loom, which the card loom in this unit cannot show. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
+- **Weaving silk saree on a wooden loom in Madurai, Tamil Nadu** (WildFilmsIndia, 4 min) id `IyjyHmmNfKc`: To see the warp threads lift and the shuttle pass through on a real Indian loom, which the card loom in this lesson cannot show. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
 - **Silkworms Spin Cocoons That Spell Their Own Doom** (Deep Look, 5 min) id `cgavTIBQ_Z0`: To see the caterpillar spin and the filament being unwound from many cocoons at once. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it. It shows the silk cocoon stage and why the pupa is killed before the thread is unwound; the boiling step may upset some children, so watch it first.
 
 ## Quiz
 1. (mcq) In woven cloth, what does the weft thread do?  
-   Options: It runs along the length, held tight / It runs across, over and under the warp / It loops through itself / It holds the hem down  
+   Options: It runs across, over and under the warp / It runs along the length, held tight / It loops through itself / It holds the hem down  
    **Answer:** It runs across, over and under the warp. *Why:* The weft runs across the cloth, over and under the warp threads. The warp is the set held tight along the length. If you chose loops, that is knitting.
 2. (mcq) Under a lens, a cloth shows columns of tiny V-shaped loops. How was it made?  
-   Options: It was knitted / It was woven / It was printed / It was embroidered  
+   Options: It was woven / It was printed / It was embroidered / It was knitted  
    **Answer:** It was knitted. *Why:* Rows of loops mean knitting. Woven cloth shows two sets of threads crossing at right angles.
 3. (mcq) Why does knitted cotton stretch more than woven cotton?  
-   Options: Its cotton is softer / Its thread is thinner / It has rubber in it / Its looped thread can open out  
+   Options: Its cotton is softer / Its looped thread can open out / Its thread is thinner / It has rubber in it  
    **Answer:** Its looped thread can open out. *Why:* A knitted row holds 3 or 4 times as much thread as the cloth is wide, bent into loops. A pull opens the loops. The cotton itself is the same.
 4. (mcq) A cotton fibre is only 3 cm long. How can a cotton yarn be many metres long?  
-   Options: The fibres are glued end to end / Each fibre is stretched out / Twisted fibres overlap and grip each other / The fibres are tied in knots  
+   Options: The fibres are glued end to end / Each fibre is stretched out / The fibres are tied in knots / Twisted fibres overlap and grip each other  
    **Answer:** Twisted fibres overlap and grip each other. *Why:* Spinning overlaps the fibres and twists them. The twist presses them together, and friction stops them sliding apart. Nothing is glued or tied.
 5. (mcq) Which of these fibres comes from an animal?  
-   Options: Jute / Pashmina / Polyester / Linen  
+   Options: Jute / Polyester / Pashmina / Linen  
    **Answer:** Pashmina. *Why:* Pashmina is the under-hair of a goat from Ladakh. Jute and linen come from plant stems, and polyester from a factory.
 6. (mcq) What is inside a silk cocoon just before the moth comes out?  
-   Options: An egg / A mulberry leaf / A pupa / Nothing  
+   Options: A pupa / An egg / A mulberry leaf / Nothing  
    **Answer:** A pupa. *Why:* The caterpillar spins the cocoon and becomes a pupa inside. The pupa then becomes the moth. The egg stage came much earlier.
 7. (mcq) Two seams join the same cloth, one with long stitches and one with short. Which lets more seeds through?  
    Options: The seam with long stitches / The seam with short stitches / Both let the same number through / Neither lets any through  
@@ -756,14 +762,20 @@ Paati knitted for nine evenings, and Thenmozhi knitted the plain rows when Paati
 8. (truefalse) True or false: the selvedge of a cloth frays faster than a cut edge.  
    **Answer:** False. *Why:* False. At the selvedge the weft turns back into the cloth, so there are no cut ends to slide out. A cut edge frays.
 9. (mcq) In which of these is the pattern stitched on with a needle?  
-   Options: Pochampally ikat / Bandhani / Ajrakh / Kasuti  
+   Options: Kasuti / Pochampally ikat / Bandhani / Ajrakh  
    **Answer:** Kasuti. *Why:* Kasuti is embroidery from Karnataka. Ikat and bandhani are tied and dyed, and ajrakh is printed with wooden blocks.
 10. (mcq) What does a tailorbird use to stitch a leaf?  
-   Options: Wet mud / Plant fibre or spider silk / Strips of grass woven over and under / Their own feathers  
+   Options: Wet mud / Strips of grass woven over and under / Their own feathers / Plant fibre or spider silk  
    **Answer:** Plant fibre or spider silk. *Why:* A tailorbird pierces the leaf edge and pulls fibre or spider silk through. Weaving strips of grass is the baya weaver's way.
 11. (mcq) An old cotton sari is too thin to wear. Which use keeps it as cloth?  
    Options: Burning it / Tearing it into fibre / Stitching it into a kantha quilt / Throwing it away  
    **Answer:** Stitching it into a kantha quilt. *Why:* In a kantha quilt the layers of old sari are still cloth, joined by running stitch. Tearing it into fibre keeps only the fibre.
+12. (mcq) A cook wants to dye a white cloth yellow with marigold flowers. Which way works?  
+   Options: Boil the cloth in plain water until it turns yellow / Boil marigold petals in water, strain the liquid, and soak the cloth in it / Sew marigold petals onto the cloth / Freeze the petals and iron them onto the cloth  
+   **Answer:** Boil marigold petals in water, strain the liquid, and soak the cloth in it. *Why:* Boiling plant parts puts their colour into the water. Straining removes the bits, and the cloth soaks up the colour. Plain water has no colour to give, so the cloth would stay white.
+13. (mcq) You sew a running stitch, and one thread breaks. What is most likely to happen?  
+   Options: The rest of the line can slide loose and come undone / Only the one stitch with the break comes loose / The cloth becomes stronger / Nothing, because the stitches hold each other  
+   **Answer:** The rest of the line can slide loose and come undone. *Why:* In a running stitch one thread runs through every stitch. When it breaks, the rest of the line can slide out. 'Only one stitch' is a fair guess, but it is not what the single thread does.
 
 ## Applications
 - Surgeons close wounds with stitches, and choose the stitch and the thread for each part of the body.
@@ -837,6 +849,15 @@ Look Close, Then Make (sci.making-things.L5): Topic-level song for Making things
 - [A packet of sewing needles with large eyes (sold as darning needles)](https://www.amazon.in/s?k=darning+needles+large+eye) (tool): A large eye is far easier for a child to thread. Most homes have one needle, but the eye is often small. Used in a6, e2, c1. 
 - [A small ball of knitting wool, in a bright colour](https://www.amazon.in/s?k=knitting+wool+ball) (material): For Take a Thread Apart, if there is no thick yarn at home. Any thick yarn or string will also do. Used in a2. 
 - [Women's Work: The First 20,000 Years, a book by Elizabeth Wayland Barber](https://www.amazon.in/s?k=Women%27s+Work+The+First+20000+Years+Barber) (book): For the parent: how string, spinning and weaving began, and why this work was mostly done by women. Used in a2. After Take a Thread Apart, read the chapter called 'The String Revolution'. Tell your child one thing from it that surprised you.
+- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): Used in Thread Paths: three cloths under the phone camera, Take a Thread Apart: plies, twist and fibres. About ₹30 to ₹120. A water drop on clear plastic magnifies a little. Used in a1, a2. Get it before Thread Paths: three cloths under the phone camera.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Woven or Knitted: which cloth stretches more, and where does the stretch come from?, The Leaky Seam Test: how small must a stitch be to hold mustard seeds?, The Fray Test: which cut edge loses the fewest threads?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, e3, a2, a3, a6, p1, c1. Get it before Woven or Knitted: which cloth stretches more, and where does the stretch come from?.
+- [A set of lenses (convex and concave)](https://www.amazon.in/s?k=convex+concave+lens+set) (tool): Used in Thread Paths: three cloths under the phone camera, Take a Thread Apart: plies, twist and fibres. About ₹80 to ₹250. A magnifying glass is one convex lens. Used in a1, a2. Get it before Thread Paths: three cloths under the phone camera.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in Wear It Uncut: dress in one cloth with no scissors and no pins. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in c2. Get it before Wear It Uncut: dress in one cloth with no scissors and no pins.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Chindi Coaster: weave old cloth on a card loom. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in p1. Get it before The Chindi Coaster: weave old cloth on a card loom.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in Take a Thread Apart: plies, twist and fibres. About ₹20 to ₹50. Torn clean cloth works. Used in a2. Get it before Take a Thread Apart: plies, twist and fibres.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Leaky Seam Test: how small must a stitch be to hold mustard seeds?, The No-Leak Seam: hold the mustard seeds with the least sewing. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e2, c1. Get it before The Leaky Seam Test: how small must a stitch be to hold mustard seeds?.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in The Chindi Coaster: weave old cloth on a card loom. About ₹10 to ₹30. Draw squares on plain paper. Used in p1. Get it before The Chindi Coaster: weave old cloth on a card loom.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - In woven cloth, which threads run along the length? → The warp threads.

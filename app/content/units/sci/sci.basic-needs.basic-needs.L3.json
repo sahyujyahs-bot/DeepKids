@@ -921,10 +921,10 @@
       "q": "Ants crowded the sugar on the dry plate but did not reach the sugar on the island. Why?",
       "options": [
        "The island sugar did not smell sweet",
-       "The ring of water stopped them walking to it",
-       "The ants did not like that cap"
+       "The ants did not like that cap",
+       "The ring of water stopped them walking to it"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Both caps held the same sugar, so the only difference was the water. Most house ants will not cross water, and a small ant can get stuck on the water's surface. Picking 'did not smell sweet' is a fair idea, but it was the same sugar in the same kind of cap."
      },
      "parent": "If no ants have come to either cap after 2 hours, this test shows nothing. Try again in another spot, or leave it overnight."
@@ -1069,11 +1069,11 @@
       "t": "mcq",
       "q": "When is medicine a need?",
       "options": [
-       "Always, for everyone",
        "When a person is ill and the medicine keeps them well",
+       "Always, for everyone",
        "Never, it is always a want"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A healthy person does not need medicine. A person with an illness, such as diabetes, may need medicine every day to stay alive. So whether a thing is a need can depend on the person."
      }
     }
@@ -1211,11 +1211,11 @@
       "t": "mcq",
       "q": "Why does a room with windows on two sides get fresher air?",
       "options": [
-       "Air can come in one side and go out the other",
        "Two windows let in more sunlight, and sunlight makes air",
-       "Windows make the room colder"
+       "Windows make the room colder",
+       "Air can come in one side and go out the other"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Air needs a way in and a way out to keep flowing. With one opening, the room's air mostly stays where it is. Sunlight is good for a home, but it does not make air."
      }
     }
@@ -1595,11 +1595,11 @@
    "t": "mcq",
    "p": "Which three basic needs keep us alive?",
    "opts": [
-    "Air, water and food",
     "Clothes, a home and toys",
+    "Air, water and food",
     "Food, a TV and a fan"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Without air, water or food a person dies. Clothes and a home keep us safe and healthy, so they are needs too, but people can survive a short time without them.",
    "outcome": 0
   },
@@ -1609,10 +1609,10 @@
    "opts": [
     "Drinking water",
     "A roof over your head",
-    "A new video game",
-    "Food"
+    "Food",
+    "A new video game"
    ],
-   "a": 2,
+   "a": 3,
    "why": "A video game is fun but not needed to live or stay well. Water, a roof and food are needs.",
    "outcome": 5
   },
@@ -1620,11 +1620,11 @@
    "t": "mcq",
    "p": "Why should you drink water even on a cool day, when you are not sweating?",
    "opts": [
-    "Water keeps leaving through your skin and breath, even without sweat",
     "The body only loses water when it sweats",
-    "Cool air makes the body use up food faster"
+    "Cool air makes the body use up food faster",
+    "Water keeps leaving through your skin and breath, even without sweat"
    ],
-   "a": 0,
+   "a": 2,
    "why": "In the Hidden Water Test, a dry hand misted a bag. Water leaves unseen through the skin and breath all day, so we must drink every day.",
    "outcome": 1,
    "how": "e1"
@@ -1634,10 +1634,10 @@
    "p": "When you breathe out, which gas do you give out more of than you took in?",
    "opts": [
     "Oxygen",
-    "Carbon dioxide",
-    "Air has no gases"
+    "Air has no gases",
+    "Carbon dioxide"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Your cells make carbon dioxide as they use food for energy. Breathed-out air has much more carbon dioxide than room air, and less oxygen.",
    "outcome": 2
   },
@@ -1646,10 +1646,10 @@
    "p": "Why do we need clothes?",
    "opts": [
     "Only to look nice",
-    "To protect our skin from sun, cold, insects and dirt",
-    "Because clothes make heat"
+    "Because clothes make heat",
+    "To protect our skin from sun, cold, insects and dirt"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Clothes protect the skin and help the body stay at the right temperature. Looking nice is a want. Wool keeps you warm by trapping still air, not by making heat.",
    "outcome": 3
   },
@@ -1658,10 +1658,10 @@
    "p": "Which is the best way to keep drinking water safe at home?",
    "opts": [
     "Leave it open so it gets fresh air",
-    "Keep it covered and pour it with a ladle",
-    "Dip a tumbler in with your hand"
+    "Dip a tumbler in with your hand",
+    "Keep it covered and pour it with a ladle"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A lid keeps out dust and insects. A ladle keeps fingers out of the water everyone drinks.",
    "outcome": 4
   },
@@ -1669,11 +1669,11 @@
    "t": "mcq",
    "p": "Why should flower-pot plates be emptied once a week?",
    "opts": [
-    "So mosquitoes cannot breed in the still water",
     "So the plant does not get bored",
+    "So mosquitoes cannot breed in the still water",
     "Because water goes bad in one day"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Mosquitoes lay eggs in still water, and the young grow there in about a week. Emptying the water every week stops them before they can fly.",
    "outcome": 4
   },
@@ -1681,11 +1681,11 @@
    "t": "mcq",
    "p": "A family stands their sugar dabba in a plate of water. Why does this keep ants out?",
    "opts": [
-    "Most ants will not cross water",
     "Water hides the smell of sugar",
+    "Most ants will not cross water",
     "Ants only like dry sugar"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Most house ants turn back at water, and a small ant can get stuck on the water's surface. As long as nothing makes a bridge, they cannot reach the dabba.",
    "outcome": 4,
    "how": "e2"
@@ -1706,11 +1706,11 @@
    "t": "mcq",
    "p": "A kitchen has only one small window. What would make the air in it flow better?",
    "opts": [
-    "Open a door or window on another side, or fit an exhaust fan",
     "Keep the window shut so the smoke stays in one place",
+    "Open a door or window on another side, or fit an exhaust fan",
     "Switch on a bright light"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Air keeps flowing only when it has a way in and a way out. A second opening or an exhaust fan lets used air leave.",
    "outcome": 4,
    "how": "a4"
@@ -1719,11 +1719,11 @@
    "t": "mcq",
    "p": "A man weighs everything he eats and drinks. He also weighs everything that leaves his body as urine and stools. The waste weighs much less than the food and drink, yet his own weight stays about the same. What does this show?",
    "opts": [
-    "That the body loses a lot of water we cannot see",
     "That food makes us heavier forever",
+    "That the body loses a lot of water we cannot see",
     "That breathing does nothing"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Much of what goes in must leave the body unseen, as water through the skin and in the breath. We lose water all the time, even when we cannot feel it.",
    "outcome": 6
   },
@@ -1788,11 +1788,11 @@
      "t": "mcq",
      "p": "You find a flower-pot plate full of still water on your balcony. Why should you empty it?",
      "opts": [
-      "The water will make the plant grow too fast",
       "Mosquitoes can lay eggs in it",
+      "The water will make the plant grow too fast",
       "The water will turn into air"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Mosquitoes lay eggs in still water, and the young grow there in about a week. Some mosquitoes spread dengue and malaria. Emptying still water every week stops them."
     },
     {
@@ -1904,11 +1904,11 @@
      "t": "mcq",
      "p": "Why do we cover food on the table?",
      "opts": [
-      "Flies, ants and dust can bring germs onto it",
       "The food will get too much air and go hard",
+      "Flies, ants and dust can bring germs onto it",
       "The food needs to be kept in the dark to cook"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Flies, ants and dust can carry germs. A cover keeps them off the food, so it stays safe to eat."
     },
     {
@@ -2122,11 +2122,11 @@
      "t": "mcq",
      "p": "Why does a woollen sweater keep you warm?",
      "opts": [
-      "It traps still air, which slows heat leaving the body",
       "It makes heat of its own",
+      "It traps still air, which slows heat leaving the body",
       "It lets cold air pass through easily"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Wool traps still air, and still air slows heat leaving the body. The sweater does not make heat. Your body does."
     },
     {
@@ -2215,11 +2215,11 @@
      "t": "mcq",
      "p": "A grown-up loses about 2 to 3 litres of water a day. On a cool, quiet day, which of these lets water out without them noticing?",
      "opts": [
-      "Only urine",
       "Breath and skin",
+      "Only urine",
       "Only tears"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Breath and skin let water out all day without us noticing. Urine is a big part too, but we notice it. Tears are a tiny amount."
     },
     {
@@ -2487,7 +2487,55 @@
    "why": "A science museum to visit, with hands-on galleries."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-a-magnifying-glass",
+   "item": "A magnifying glass",
+   "kind": "tool",
+   "why": "Used in The Water Ring: can a moat keep ants off the sugar?. About ₹30 to ₹120. A water drop on clear plastic magnifies a little.",
+   "url": "https://www.amazon.in/s?k=magnifying+glass+kids",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before The Water Ring: can a moat keep ants off the sugar?."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Our Home Care Week: one need each day. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before Our Home Care Week: one need each day."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in The Breeze Path: does air need a way in and a way out?. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "a4"
+   ],
+   "plan": "Get it before The Breeze Path: does air need a way in and a way out?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "Name the five basic needs.",

@@ -289,7 +289,9 @@
    "examples": [
     "A moving pulley is a lever in which the load hangs from the middle and the effort is at the end.",
     "A screw is a ramp wound round a rod.",
-    "A wheel and axle, such as a well winch, is a lever that goes round."
+    "A wheel and axle, such as a well winch, is a lever that goes round.",
+    "A kitchen tong, called a chimta in Hindi, is a lever. It turns on its joint, your hand pushes the handles, and the tips grip the food.",
+    "A claw hammer pulling a nail is a lever. Its head rests on the wood as the fulcrum, so a small pull on the handle lifts the nail."
    ],
    "perspectives": [
     {
@@ -924,11 +926,11 @@
       "t": "mcq",
       "q": "Why do you measure the band with nothing hanging on it first?",
       "options": [
-       "So you can work out how much it stretched",
        "So the band is tidy",
-       "So the bottle is lighter"
+       "So the bottle is lighter",
+       "So you can work out how much it stretched"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The stretch is the new length minus the starting length. Without the starting length, you could not say how much the band stretched."
      },
      "context": "In this step, you build the pulleys and the beam, and measure the band at rest."
@@ -992,11 +994,11 @@
       "t": "mcq",
       "q": "In Test C the band stretches about half as much as in Test A, and the knot moves about twice as far. What does this show?",
       "options": [
-       "Two strings share the load, so each carries half, but the string must be pulled twice as far",
        "The moving reel made the bottle weigh half as much",
+       "Two strings share the load, so each carries half, but the string must be pulled twice as far",
        "The band is broken"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Each string carries half the load, so the pull is about half. To raise the bottle 10 centimetres, both strings must get 10 centimetres shorter, so the knot moves 20 centimetres. If you picked 'weigh half', you thought the load changed. Only the share that each string carries changed."
      },
      "parent": "The stretch is usually a little more than half of Test A, because of rubbing. A rubber band also does not stretch evenly, so compare the stretch with your half-full-bottle reading. The knot should move about 20 centimetres. If the stretch is exactly the same as in Test A, check that the string runs under the moving reel. Count the strings that touch it. If nothing seems to change, the reels may be rubbing too hard: widen the loops or use smoother reels.",
@@ -1251,11 +1253,11 @@
       "t": "mcq",
       "q": "Both ramps are 20 centimetres long. The steeper ramp winds into a spiral with bigger gaps between the turns. What does this show?",
       "options": [
-       "A steeper ramp makes a screw that moves further in each turn",
        "A steeper ramp makes a stronger screw",
+       "A steeper ramp makes a screw that moves further in each turn",
        "The pencil is crooked"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A steeper ramp climbs more in every turn, so the gap, or pitch, is bigger. A gentler ramp has a smaller pitch, and needs more turns to go the same distance, but each turn takes less push."
      },
      "context": "In this step, you count the turns and measure the gap.",
@@ -1343,11 +1345,11 @@
       "t": "mcq",
       "q": "The minute hand goes round 12 times while the hour hand goes round once. What is the gear ratio between them?",
       "options": [
-       "12 to 1",
        "1 to 12",
+       "12 to 1",
        "60 to 1"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The minute hand turns 12 times for one turn of the hour hand, so the ratio is 12 to 1. A ratio of 60 to 1 is between the second hand and the minute hand."
      },
      "context": "In this step, you turn the hands and count."
@@ -1915,11 +1917,11 @@
      "t": "mcq",
      "p": "In real tests, the pull is always a little more than the ideal numbers say. What is the best reason?",
      "opts": [
-      "Friction turns some of your effort into warmth",
       "The load gets heavier",
+      "Friction turns some of your effort into warmth",
       "Ropes always stretch"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Rubbing at the axles and ropes turns part of the work into warmth that spreads into the air. If you picked 'load gets heavier', you thought the load changed. The load stays the same.",
      "outcome": 2
     },
@@ -1941,11 +1943,11 @@
      "t": "mcq",
      "p": "A small gear drives a big gear. What happens to the big gear?",
      "opts": [
-      "It turns more slowly, but with more strength",
       "It turns faster, with more strength",
+      "It turns more slowly, but with more strength",
       "It turns at the same speed"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The big gear turns fewer times for each turn of the small gear. What it loses in speed it gains in turning strength.",
      "outcome": 3
     },
@@ -2012,11 +2014,11 @@
      "t": "mcq",
      "p": "In made-up results from the Count the Ropes test, Test A (the straight lift) stretched the band 8 centimetres and Test C (the moving reel) stretched it 5 centimetres. Exactly half of A would be 4. What is the best reason for the difference?",
      "opts": [
-      "Friction used up a little of the work",
       "The bottle got heavier",
+      "Friction used up a little of the work",
       "The ideal numbers are wrong"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Rubbing at the reel and the string turned a little of the work into warmth, so the pull had to be a little larger. The ideal numbers are the best case with no rubbing.",
      "outcome": 2
     },
@@ -2152,11 +2154,11 @@
      "t": "mcq",
      "p": "Why can a machine never give out more work than it takes in?",
      "opts": [
-      "Energy is never made from nothing, so a machine can only pass it on",
       "Machines are always too small",
+      "Energy is never made from nothing, so a machine can only pass it on",
       "Machines are always too slow"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Work is a way of counting energy being passed on. Energy cannot be made from nothing, so the work out cannot be more than the work in.",
      "outcome": 6
     },
@@ -2217,6 +2219,17 @@
      "a": "A bigger gear at the back. The wheel turns fewer times for each pedal turn, but with more strength, which helps up the hill.",
      "why": "A strong answer says the big back gear gives more turning strength and fewer wheel turns for each pedal turn, which is the same trade of speed for strength.",
      "outcome": 3
+    },
+    {
+     "t": "fill",
+     "p": "A chimta, or kitchen tong, is a lever. It turns on its ____, and your hand pushes the two handles.",
+     "a": [
+      "joint",
+      "fulcrum",
+      "pivot",
+      "hinge"
+     ],
+     "why": "The joint is the fulcrum. Your hand gives the effort at the handles, and the tips at the other end hold the food."
     }
    ]
   },
@@ -2296,11 +2309,11 @@
      "t": "mcq",
      "p": "Emmy Noether showed in 1918 that energy cannot be made from nothing if which thing is true?",
      "opts": [
-      "The laws of nature do not change over time",
       "All machines are well oiled",
+      "The laws of nature do not change over time",
       "Gravity is the same everywhere"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Her theorem links the rule that energy cannot be made or lost to the laws of nature not changing with time. It is a deep reason behind the rule that no machine gives out more than it takes in.",
      "outcome": 6
     },
@@ -2402,11 +2415,11 @@
    "t": "mcq",
    "p": "A flagpole has one pulley at the top. What does it do for you?",
    "opts": [
-    "It lets you pull down to raise the flag",
     "It makes the flag weigh less",
-    "It halves the pull"
+    "It halves the pull",
+    "It lets you pull down to raise the flag"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A single fixed pulley changes the direction of the pull, so you pull down and the flag goes up. It does not change the size of the pull.",
    "outcome": 0
   },
@@ -2438,11 +2451,11 @@
    "t": "mcq",
    "p": "A machine halves the force you need. What must happen to the distance you move?",
    "opts": [
-    "It doubles",
     "It halves",
+    "It doubles",
     "It stays the same"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Force times distance stays the same, so if the force halves, the distance doubles. No machine gives a smaller force over the same distance.",
    "outcome": 1
   },
@@ -2462,11 +2475,11 @@
    "t": "mcq",
    "p": "Two machines are used together, and each wastes one tenth of the work. About how much of the work comes out?",
    "opts": [
-    "81 parts in every 100",
     "80 parts in every 100",
+    "81 parts in every 100",
     "90 parts in every 100"
    ],
-   "a": 0,
+   "a": 1,
    "why": "0.9 times 0.9 is 0.81. Losses multiply, so more machines can be worse.",
    "outcome": 2
   },
@@ -2474,11 +2487,11 @@
    "t": "mcq",
    "p": "A cyclist moves the chain from a 16-tooth to a 24-tooth gear at the back. What happens to the wheel?",
    "opts": [
-    "It turns fewer times for each pedal turn, with more strength",
     "It turns more times for each pedal turn",
+    "It turns fewer times for each pedal turn, with more strength",
     "It turns the same number of times"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A bigger back gear means a smaller ratio, so fewer wheel turns for each pedal turn. The wheel gains turning strength, which helps uphill.",
    "outcome": 3
   },
@@ -2515,13 +2528,25 @@
   },
   {
    "t": "mcq",
+   "p": "Which of these everyday tools is a lever?",
+   "opts": [
+    "A ramp of planks leaning on a step",
+    "A screw in a jar lid",
+    "A kitchen tong, the chimta, which turns on its joint"
+   ],
+   "a": 2,
+   "why": "A tong turns on its joint, which is its fulcrum, so it is a lever. A ramp and a screw both belong to the ramp idea, not the lever idea.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
    "p": "Why is it a good idea to repeat each test in an experiment twice or more?",
    "opts": [
-    "To check that the result is steady and not a fluke",
     "Because the band was tired",
-    "To make the bottle lighter"
+    "To make the bottle lighter",
+    "To check that the result is steady and not a fluke"
    ],
-   "a": 0,
+   "a": 2,
    "why": "If two tries are close, we can trust the result. If they differ a lot, one try may have been a fluke, and we need to look for the cause.",
    "outcome": 5
   },
@@ -2529,11 +2554,11 @@
    "t": "mcq",
    "p": "Why has nobody built a machine that gives out more work than it takes in?",
    "opts": [
-    "Energy cannot be made from nothing, so a machine only passes it on",
     "Nobody has tried hard enough",
+    "Energy cannot be made from nothing, so a machine only passes it on",
     "Machines are too small"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Every careful test has shown the same result. Physicists link it to the laws of nature not changing from one day to the next.",
    "outcome": 6
   }
@@ -2829,6 +2854,56 @@
     "e1",
     "c1"
    ]
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in Count the Ropes: how much easier does a pulley make a lift, and what does it cost?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before Count the Ropes: how much easier does a pulley make a lift, and what does it cost?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Count the Ropes: how much easier does a pulley make a lift, and what does it cost?, Paper Screw: wind a ramp round a pencil, Charkha Belt Drive: a big wheel that turns a small wheel fast. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "a1",
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before Count the Ropes: how much easier does a pulley make a lift, and what does it cost?."
+  },
+  {
+   "id": "b-iron-nails-or-iron-filings",
+   "item": "Iron nails or iron filings",
+   "kind": "material",
+   "why": "Used in Paper Screw: wind a ramp round a pencil. About ₹20 to ₹80. Short steel nails from a hardware shop.",
+   "url": "https://www.amazon.in/s?k=iron+filings+science",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Get it before Paper Screw: wind a ramp round a pencil."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

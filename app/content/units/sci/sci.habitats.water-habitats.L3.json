@@ -901,11 +901,11 @@
       "t": "mcq",
       "q": "Which glass grew the most bubbles?",
       "options": [
-       "A: cold tap water",
        "B: cold boiled water",
-       "C: room-temperature tap water"
+       "C: room-temperature tap water",
+       "A: cold tap water"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Cold water holds the most dissolved air. As glass A warmed, it could not hold it all, so the extra air came out as bubbles. Glass C started warmer and held less air, so it grew fewer bubbles. Glass B had most of its air boiled out, so almost nothing came out. If you picked B, you were thinking of the big bubbles in boiling water. Those are steam, not air."
      },
      "parent": "Glass A usually grows many tiny bubbles within 10 to 15 minutes. Glass C grows fewer. Glass B grows very few or none. If nothing happens by 15 minutes, add a little more hot water to the bath and wait 10 more minutes. Tiny bubbles are easier to see with a magnifying glass."
@@ -1073,10 +1073,10 @@
       "q": "The slice in very salty water went floppy. Why?",
       "options": [
        "Salt is heavy and pulled it down",
-       "Water moved out of the cucumber into the salty water",
-       "The salt went into the cucumber and made it soft"
+       "The salt went into the cucumber and made it soft",
+       "Water moved out of the cucumber into the salty water"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Water moves through a living skin towards the saltier side. The cucumber's cells were much less salty than the very salty water. So water left the cells, and without that water the slice went limp. If you picked 'salt went in', that is a good guess, but the slice got thinner and weaker because it lost water."
      },
      "parent": "The very salty slices are usually floppy and bendy after 20 minutes. The plain-water slices stay stiff and crisp. The slices from the water as salty as the sea may be a little bendier than the plain ones, or about the same. That is why we also used very salty water: it makes the change easy to see."
@@ -1430,11 +1430,11 @@
       "t": "mcq",
       "q": "Why did the coloured fresh water stay on top?",
       "options": [
-       "Fresh water is heavier than salty water",
        "Salty water is heavier than the same amount of fresh water",
+       "Fresh water is heavier than salty water",
        "Tea never mixes with water"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Salt dissolved in water makes it heavier for its size, so salty water sinks under fresh water. Where a river meets the sea, salty water often creeps in along the bottom, under the river water. Picking 'tea never mixes' is not right: stir the glass and the layers mix at once."
      },
      "parent": "Fish there must cope with water whose saltiness changes with the tide and the season. Water that is a mix of fresh and salt is called brackish. Mangrove trees, crabs and some fish live in brackish water. In Kerala, the Thanneermukkom barrier was built across Vembanad lake to keep salt water out of the rice fields of Kuttanad."
@@ -1920,11 +1920,11 @@
    "t": "mcq",
    "p": "You warm three glasses of water: fridge-cold tap water, fridge-cold boiled water, and room-temperature tap water. Which grows the most bubbles?",
    "opts": [
-    "The fridge-cold tap water",
     "The fridge-cold boiled water",
-    "The room-temperature tap water"
+    "The room-temperature tap water",
+    "The fridge-cold tap water"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Cold water holds the most dissolved air, so most comes out when it warms. Boiling had already driven the air out of the boiled water.",
    "outcome": 1,
    "how": "e1"
@@ -1934,11 +1934,11 @@
    "p": "In the Cold Glass Test, what were the tiny bubbles on the inside of the warmed glass?",
    "opts": [
     "Steam",
-    "Air that had been dissolved in the water",
     "Soap",
-    "Germs"
+    "Germs",
+    "Air that had been dissolved in the water"
    ],
-   "a": 1,
+   "a": 3,
    "why": "Nothing was added. The air was dissolved in the water all along and came out as the water warmed.",
    "outcome": 1,
    "how": "e1"
@@ -1960,12 +1960,12 @@
    "t": "mcq",
    "p": "Why might fish gulp at a pond's surface on a hot morning?",
    "opts": [
-    "They are hungry",
     "The water is short of oxygen",
+    "They are hungry",
     "They want to see the sun",
     "They are playing"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Warm water holds less oxygen, and at night algae make none. By morning the oxygen is low, so fish gulp the water at the top.",
    "outcome": 2
   },
@@ -1974,11 +1974,11 @@
    "p": "How does a tadpole breathe?",
    "opts": [
     "With lungs",
-    "With gills",
     "Through their tail only",
-    "They do not breathe"
+    "They do not breathe",
+    "With gills"
    ],
-   "a": 1,
+   "a": 3,
    "why": "A tadpole breathes dissolved oxygen with gills. As they become a frog, lungs grow and the gills go.",
    "outcome": 3
   },
@@ -1987,11 +1987,11 @@
    "p": "Why must a frog's skin stay wet?",
    "opts": [
     "To look shiny",
-    "Because they breathe through their skin, and oxygen passes only through wet skin",
     "To stay cool only",
-    "To keep insects away"
+    "To keep insects away",
+    "Because they breathe through their skin, and oxygen passes only through wet skin"
    ],
-   "a": 1,
+   "a": 3,
    "why": "A frog breathes partly through their skin. Dry skin cannot take in oxygen.",
    "outcome": 3
   },
@@ -2000,11 +2000,11 @@
    "p": "What are the holes in a lotus stem for?",
    "opts": [
     "Storing water",
-    "Carrying air down to the parts in the mud",
     "Letting fish through",
-    "Making it taste good"
+    "Making it taste good",
+    "Carrying air down to the parts in the mud"
    ],
-   "a": 1,
+   "a": 3,
    "why": "Pond mud has almost no oxygen. Air canals carry air from the leaves to the underground stem and roots.",
    "outcome": 4,
    "how": "a1"
@@ -2014,11 +2014,11 @@
    "p": "When do algae make oxygen?",
    "opts": [
     "Only at night",
-    "Only in light",
     "All the time, equally",
+    "Only in light",
     "Never"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Algae make oxygen by photosynthesis, which needs light. In the dark they make no oxygen, but they still use some.",
    "outcome": 5
   },
@@ -2026,12 +2026,12 @@
    "t": "mcq",
    "p": "A lake gets sewage flowing into it, and it turns bright green. Why do fish start to die?",
    "opts": [
-    "The green colour hurts their eyes",
     "Far too many algae grow, then die and rot, and the rotting uses up the oxygen",
+    "The green colour hurts their eyes",
     "The lake gets too cold",
     "The fish eat too much"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Sewage feeds an algal bloom. When the algae die, bacteria rot them and use up the oxygen fish need.",
    "outcome": 5
   },
@@ -2040,11 +2040,11 @@
    "p": "Cucumber slices are put in very salty water. Why do they go floppy?",
    "opts": [
     "Salt makes them heavy",
-    "Water moves out of them into the salty water",
     "They soak up too much water",
+    "Water moves out of them into the salty water",
     "They get cold"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Water moves from the less salty side to the more salty side. The cucumber lost water and went limp.",
    "outcome": 6,
    "how": "e2"
@@ -2054,11 +2054,11 @@
    "p": "Why can't most river fish live in the sea?",
    "opts": [
     "The sea is too big",
-    "The salty sea would pull water out of their bodies",
     "There is no food in the sea",
-    "The sea is too cold"
+    "The sea is too cold",
+    "The salty sea would pull water out of their bodies"
    ],
-   "a": 1,
+   "a": 3,
    "why": "A river fish's body is much less salty than the sea, so they would keep losing water, like the cucumber.",
    "outcome": 6
   }
@@ -2124,11 +2124,11 @@
      "p": "You fill a glass with cold water from the fridge and leave it on the table. An hour later, tiny bubbles cover the inside of the glass. What are the bubbles?",
      "opts": [
       "Soap left in the glass",
-      "Air that was dissolved in the water",
       "Steam",
-      "Tiny fish eggs"
+      "Tiny fish eggs",
+      "Air that was dissolved in the water"
      ],
-     "a": 1,
+     "a": 3,
      "why": "The water held dissolved air. As it warmed up, it could not hold it all, so some came out as bubbles. Steam comes only from very hot water.",
      "how": "e1"
     },
@@ -2153,11 +2153,11 @@
      "p": "A grown-up frog breathes with their lungs and with their...",
      "opts": [
       "tail",
-      "wet skin",
       "eyes",
+      "wet skin",
       "toes"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Oxygen passes through a frog's thin skin, but only when the skin is wet. That is why frogs stay near water."
     },
     {
@@ -2188,12 +2188,12 @@
      "t": "mcq",
      "p": "You put cucumber slices in very salty water. After 20 minutes, what happens to them?",
      "opts": [
-      "They go stiff and hard",
       "They go floppy",
+      "They go stiff and hard",
       "They turn blue",
       "Nothing happens"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Water moves out of the cucumber into the saltier water, so the slices go limp. Sea water would do the same to a river fish.",
      "how": "e2"
     },
@@ -2278,11 +2278,11 @@
      "p": "In the Cold Glass Test, why did glass B, the boiled water, grow almost no bubbles?",
      "opts": [
       "Boiling made the water heavier",
-      "Boiling had already driven most of the air out",
       "Boiled water is too clean",
-      "Glass B was a different shape"
+      "Glass B was a different shape",
+      "Boiling had already driven most of the air out"
      ],
-     "a": 1,
+     "a": 3,
      "why": "Boiling drives dissolved air out of water. The bottle was full and capped, so little air could dissolve back in. So there was little air left to come out.",
      "how": "e1"
     },
@@ -2291,11 +2291,11 @@
      "p": "In the Cold Glass Test, you warm three glasses: cold tap water, cold boiled water and room-temperature tap water. In a fair test, what is the one thing that should be different between the three glasses?",
      "opts": [
       "The size of the glass",
-      "The warm bath",
       "The water inside",
+      "The warm bath",
       "The time you wait"
      ],
-     "a": 2,
+     "a": 1,
      "why": "In a fair test, only one thing changes. Here it is the water inside. The glass, the warm bath and the waiting time stay the same.",
      "how": "e1"
     },
@@ -2311,10 +2311,10 @@
      "opts": [
       "The same",
       "About twice as much",
-      "About 30 times less",
-      "No oxygen at all"
+      "No oxygen at all",
+      "About 30 times less"
      ],
-     "a": 2,
+     "a": 3,
      "why": "Water holds about 30 times less oxygen than the same amount of air. That is why fish must pass so much water over their gills."
     },
     {
@@ -2390,11 +2390,11 @@
      "p": "Why do frogs come out after rain?",
      "opts": [
       "The rain washes their food away",
-      "The air is damp, so their skin stays wet for breathing",
       "They like the sound",
+      "The air is damp, so their skin stays wet for breathing",
       "They are cold"
      ],
-     "a": 1,
+     "a": 2,
      "why": "A frog breathes partly through their skin, which must stay wet. Damp air after rain lets them move about without drying out."
     },
     {
@@ -2461,22 +2461,22 @@
      "p": "A fish tank sits in a sunny window in May, and the fish keep gulping at the top. What is the best fix?",
      "opts": [
       "Add more fish",
-      "Move it into the shade and add an air pump or more plants",
       "Add salt",
+      "Move it into the shade and add an air pump or more plants",
       "Turn off the light at night"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Shade keeps the water cooler, so it holds more oxygen. A pump mixes in air, and plants add oxygen in the day."
     },
     {
      "t": "mcq",
      "p": "Two ponds are the same size. Pond A is clear and cool under trees. Pond B is shallow, sunny and very green. Which is more likely to run short of oxygen at dawn?",
      "opts": [
-      "Pond A",
       "Pond B",
+      "Pond A",
       "Both the same"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Pond B is warmer, so it holds less oxygen. Its many algae use up oxygen all night. So at dawn it has the least."
     },
     {
@@ -2490,11 +2490,11 @@
      "p": "Why do fish in a river usually face upstream?",
      "opts": [
       "To see their friends",
-      "So water flows into their mouths and over their gills the right way",
       "Because they are lost",
-      "To keep warm"
+      "To keep warm",
+      "So water flows into their mouths and over their gills the right way"
      ],
-     "a": 1,
+     "a": 3,
      "why": "When a fish faces the current, water flows in at the mouth and out over the gills. If the fish faced the other way, water would push against the gill covers."
     },
     {
@@ -2508,12 +2508,12 @@
      "t": "mcq",
      "p": "The hilsa lives in the sea and lays their eggs in rivers. What must their body be able to do?",
      "opts": [
-      "Live in both salty and fresh water",
       "Breathe air",
       "Climb waterfalls",
-      "Live without oxygen"
+      "Live without oxygen",
+      "Live in both salty and fresh water"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Moving from the sea to a river, the hilsa must cope with very different saltiness. Most fish cannot do this."
     },
     {
@@ -2919,6 +2919,43 @@
    "used_in": [
     "a5"
    ]
+  },
+  {
+   "id": "b-modelling-clay-or-plasticine",
+   "item": "Modelling clay or plasticine",
+   "kind": "material",
+   "why": "Used in Flat or Tall: which shape stays put in a fast stream?. About ₹40 to ₹120. Atta dough mixed with a little salt works.",
+   "url": "https://www.amazon.in/s?k=modelling+clay+plasticine",
+   "used_in": [
+    "e3"
+   ],
+   "plan": "Get it before Flat or Tall: which shape stays put in a fast stream?."
+  },
+  {
+   "id": "b-a-small-toy-car-with-free-ro",
+   "item": "A small toy car with free-rolling wheels",
+   "kind": "material",
+   "why": "Used in Tadpole to Frog: how the breathing changes. About ₹100 to ₹200. A marble or a round torch cell works.",
+   "url": "https://www.amazon.in/s?k=toy+car+pull+back+small",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Get it before Tadpole to Frog: how the breathing changes."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

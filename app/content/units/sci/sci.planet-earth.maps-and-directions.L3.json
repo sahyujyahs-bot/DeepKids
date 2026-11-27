@@ -478,10 +478,10 @@
       "q": "You face north. Which direction is behind you?",
       "options": [
        "East",
-       "South",
-       "West"
+       "West",
+       "South"
       ],
-      "a": 1,
+      "a": 2,
       "why": "South is always opposite north. If you face north, south is behind you, east is on your right and west is on your left. Picking east or west means you turned only halfway round."
      }
     },
@@ -680,10 +680,10 @@
       "q": "On the board, north is at the top. Which way is east?",
       "options": [
        "Towards the left edge",
-       "Towards the right edge",
-       "Towards the bottom edge"
+       "Towards the bottom edge",
+       "Towards the right edge"
       ],
-      "a": 1,
+      "a": 2,
       "why": "With north at the top, east is on the right, west on the left and south at the bottom. Picking the left edge is a common mix-up. Stand up facing north, and point to your right."
      }
     },
@@ -821,11 +821,11 @@
       "t": "mcq",
       "q": "If the tile map led the finder closer to the coin, why did it?",
       "options": [
-       "It had more things drawn on it",
        "Every distance was shrunk by the same amount, so the X sat in the right place",
+       "It had more things drawn on it",
        "It was drawn more neatly"
       ],
-      "a": 1,
+      "a": 0,
       "why": "On the tile map, one tile became one square, so every gap on paper matched the gap on the floor. Picking 'more things' is a fair guess, but both maps showed the same furniture. Neatness helps reading, but a neat map with wrong distances still leads you to the wrong spot."
      }
     }
@@ -961,11 +961,11 @@
       "t": "mcq",
       "q": "Why did chit B find the coin whichever wall you faced at the start?",
       "options": [
-       "East and south stay the same whichever way you face",
        "Chit B was written more neatly",
+       "East and south stay the same whichever way you face",
        "The coin moved when you turned"
       ],
-      "a": 0,
+      "a": 1,
       "why": "East and south are fixed to the Earth, so the east wall is the east wall whichever way you face. 'Forward' and 'right' turn when your body turns. That is why maps use north, south, east and west."
      }
     }
@@ -1185,11 +1185,11 @@
       "t": "mcq",
       "q": "From straight above, what shape is a steel tumbler?",
       "options": [
-       "A circle",
        "A tall rectangle",
+       "A circle",
        "A triangle"
       ],
-      "a": 0,
+      "a": 1,
       "why": "From above you see only the round rim, so a tumbler looks like a circle. A tall rectangle is how it looks from the side. Maps are drawn from above, so a tumbler on a map is a circle."
      },
      "think": "What would your whole flat look like from straight above?"
@@ -1266,10 +1266,10 @@
       "q": "Your front door is on the wall you labelled W. Which way does the door face?",
       "options": [
        "East",
-       "West",
-       "North"
+       "North",
+       "West"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A door on the west wall faces west, towards the outside. Picking east means you named the wall on the opposite side of the room."
      }
     }
@@ -1470,10 +1470,10 @@
       "q": "Why do we leave the parked autos off a street map?",
       "options": [
        "They are too hard to draw",
-       "They move, so they will not be there tomorrow",
-       "Autos are not allowed on maps"
+       "Autos are not allowed on maps",
+       "They move, so they will not be there tomorrow"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A map shows things that stay, so it is still right tomorrow. An auto may be gone in five minutes. Temples and big trees are good landmarks, because they stay in one place."
      }
     },
@@ -1635,10 +1635,10 @@
       "q": "Suppose your visitor got lost at the lift, because two lifts were side by side. What is the best fix for your map?",
       "options": [
        "Draw the map bigger",
-       "Add a symbol for each lift and mark which one to take",
-       "Remove the lift from the map"
+       "Remove the lift from the map",
+       "Add a symbol for each lift and mark which one to take"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The visitor needs to know which lift to take, so the map should show both lifts and mark the right one. A bigger map without that detail would leave the same problem."
      }
     }
@@ -1849,10 +1849,10 @@
    "p": "Which tells you where east is, roughly, inside a flat?",
    "opts": [
     "The window that gets the evening Sun",
-    "The window that gets the morning Sun",
-    "The coldest room"
+    "The coldest room",
+    "The window that gets the morning Sun"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The Sun rises roughly in the east, so the window with morning sunlight faces roughly east. The evening Sun comes in from the west.",
    "outcome": 0
   },
@@ -1860,11 +1860,11 @@
    "t": "mcq",
    "p": "A child gives a friend directions to a hidden coin: 'Walk 3 tiles forward, then turn right.' The friend starts facing a different wall from the one the child faced. What happens?",
    "opts": [
-    "The friend finds the coin anyway",
     "The friend ends up in a different place",
+    "The friend finds the coin anyway",
     "The friend cannot move"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Forward and right depend on which way you face. A different start means a different path. Directions like 'towards the east wall' work from any start.",
    "outcome": 1
   },
@@ -1872,11 +1872,11 @@
    "t": "mcq",
    "p": "Why do maps use north, south, east and west instead of left and right?",
    "opts": [
-    "They are shorter words",
     "They stay the same whichever way a reader faces",
+    "They are shorter words",
     "Left and right are only for roads"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Every reader of a map faces a different way. North, south, east and west are fixed to the Earth, so they mean the same to all of them.",
    "outcome": 1
   },
@@ -1896,11 +1896,11 @@
    "t": "mcq",
    "p": "You draw a small blue circle on your map for the water tank. Where should you say what the blue circle means?",
    "opts": [
-    "In the key",
     "On the north arrow",
-    "Nowhere, everyone knows"
+    "Nowhere, everyone knows",
+    "In the key"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The key lists every symbol and its meaning, so a reader who has never seen the map before can understand it.",
    "outcome": 2
   },
@@ -1933,11 +1933,11 @@
    "t": "mcq",
    "p": "A map's north arrow points to the top of the page. Real north is on your right. How should you hold the map?",
    "opts": [
-    "Turn it until its top points to your right",
     "Hold it with the top away from you",
+    "Turn it until its top points to your right",
     "Hold it upside down"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Turn the map until its north arrow points to real north. Then everything on the map lies the same way as the real places.",
    "outcome": 4
   },
@@ -1946,10 +1946,10 @@
    "p": "On a map with north at the top, the school is directly above your house. Which way do you walk from your house to the school?",
    "opts": [
     "South",
-    "North",
-    "West"
+    "West",
+    "North"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Up the page is north on this map, so the school is north of your house.",
    "outcome": 5
   },
@@ -1958,10 +1958,10 @@
    "p": "Before about 1700, many European maps showed California as an island. How was this shown to be wrong?",
    "opts": [
     "A king had a dream",
-    "Travellers went there and saw the land was joined to the mainland",
-    "Someone drew a nicer map"
+    "Someone drew a nicer map",
+    "Travellers went there and saw the land was joined to the mainland"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Eusebio Kino travelled over land and saw that there was no sea between California and the mainland. A map is checked by comparing it with the real place.",
    "outcome": 6
   },
@@ -1970,10 +1970,10 @@
    "p": "Scientists gave desert ants tiny stilts. The ants walked past their nest. What does this show?",
    "opts": [
     "Ants cannot see",
-    "The ants count their steps to know how far they have gone",
-    "Stilts make ants faster thinkers"
+    "Stilts make ants faster thinkers",
+    "The ants count their steps to know how far they have gone"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Longer legs made longer steps. The ants walked their usual number of steps, which carried them too far. So they were counting steps to measure distance.",
    "outcome": 6
   }
@@ -2025,11 +2025,11 @@
      "t": "mcq",
      "p": "You face north. Which direction is on your right?",
      "opts": [
-      "West",
       "East",
+      "West",
       "South"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Facing north, east is on your right and west on your left. Stand up and try it with the wall labels."
     },
     {
@@ -2203,10 +2203,10 @@
      "p": "A memory map shows the cupboard as big as the bed. Really, the cupboard is half as long. What will a finder using this map probably do?",
      "opts": [
       "Go to exactly the right spot",
-      "Miss the spot, because the gaps around the cupboard are wrong",
-      "Find the cupboard is missing"
+      "Find the cupboard is missing",
+      "Miss the spot, because the gaps around the cupboard are wrong"
      ],
-     "a": 1,
+     "a": 2,
      "why": "If one thing is drawn too big, the gaps next to it are squeezed or stretched, so an X near it is in the wrong place.",
      "how": "e1"
     },
@@ -2343,11 +2343,11 @@
      "t": "mcq",
      "p": "A girl draws a map of her street for her grandfather. It shows every shop, but it has no direction arrow. He turns round and walks the wrong way. Why?",
      "opts": [
-      "The shops had moved",
       "When he turned round, the map did not turn with him, so left and right swapped",
+      "The shops had moved",
       "He could not read"
      ],
-     "a": 1,
+     "a": 0,
      "why": "With no direction arrow, he could not tell how to turn the map to match the ground. An arrow, such as one pointing east, lets you line the map up with the real street."
     },
     {
@@ -2411,10 +2411,10 @@
      "p": "You walk north and keep going, over land and ice, until you reach the North Pole. Which way is everything around you now?",
      "opts": [
       "North",
-      "South",
-      "East"
+      "East",
+      "South"
      ],
-     "a": 1,
+     "a": 2,
      "why": "At the North Pole, every direction leads away from the pole, so every direction is south. There is no further north to go."
     },
     {
@@ -2436,10 +2436,10 @@
      "p": "Arun, a boy in Class 3, draws a street map where 1 square is 10 steps. His sister draws the same street with 1 square for 5 steps. Whose map of the street is bigger on paper?",
      "opts": [
       "Arun's",
-      "His sister's",
-      "They are the same size"
+      "They are the same size",
+      "His sister's"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Her squares stand for fewer steps, so she needs twice as many squares for the same street. Her map is twice as long and twice as wide, but the same shape."
     },
     {
@@ -2478,11 +2478,11 @@
      "t": "mcq",
      "p": "A compass needle is a small magnet. Why does it point north and south?",
      "opts": [
-      "The Earth acts like a giant magnet and turns the needle",
       "Wind blows it north",
+      "The Earth acts like a giant magnet and turns the needle",
       "The Sun pulls it"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The Earth is magnetic, so a free magnet turns to line up north and south."
     },
     {
@@ -2497,10 +2497,10 @@
      "p": "Chennai is on the east coast of India, and Kochi is on the west coast. You fly from Chennai to Kochi. Which way do you go?",
      "opts": [
       "Roughly east",
-      "Roughly west",
-      "Roughly north"
+      "Roughly north",
+      "Roughly west"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Kochi is on the west coast and Chennai on the east, so you travel roughly west, across the country."
     },
     {
@@ -2733,6 +2733,56 @@
     "a2",
     "p1"
    ]
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Child Steps, Grown-up Steps: do two maps of one room come out the same shape?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e3"
+   ],
+   "plan": "Get it before Child Steps, Grown-up Steps: do two maps of one room come out the same shape?."
+  },
+  {
+   "id": "b-graph-paper",
+   "item": "Graph paper",
+   "kind": "material",
+   "why": "Used in Memory Map or Tile Map: which one finds the hidden coin?, Child Steps, Grown-up Steps: do two maps of one room come out the same shape?, A Map for a Visitor: from the gate to our front door. About ₹10 to ₹30. Draw squares on plain paper.",
+   "url": "https://www.amazon.in/s?k=graph+paper+notebook",
+   "used_in": [
+    "e1",
+    "e3",
+    "p1"
+   ],
+   "plan": "Get it before Memory Map or Tile Map: which one finds the hidden coin?."
+  },
+  {
+   "id": "b-a-small-toy-car-with-free-ro",
+   "item": "A small toy car with free-rolling wheels",
+   "kind": "material",
+   "why": "Used in Steer the Toy Car: directions on a tile grid. About ₹100 to ₹200. A marble or a round torch cell works.",
+   "url": "https://www.amazon.in/s?k=toy+car+pull+back+small",
+   "used_in": [
+    "c2"
+   ],
+   "plan": "Get it before Steer the Toy Car: directions on a tile grid."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

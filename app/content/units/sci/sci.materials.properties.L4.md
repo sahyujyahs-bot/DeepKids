@@ -1,9 +1,9 @@
 # Properties of materials: why the same paper tears straight one way and crooked the other
 `sci.materials.properties.L4`
 
-**Summary.** Newspaper tears straight one way but crooked the other, though it is the same paper. Why does direction matter? In this unit you will tear paper, stretch cloth different ways, bend a paper clip until it snaps, and test paper bridges that are flat, folded or rolled.
+**Summary.** Newspaper tears straight one way but crooked the other, though it is the same paper. Why does direction matter? In this lesson you will tear paper, stretch cloth different ways, bend a paper clip until it snaps, and test paper bridges that are flat, folded or rolled.
 
-**Intro.** *Take a sheet of newspaper. Tear it from top to bottom, along the columns of print. Now take another sheet and tear it from side to side. One tear runs straight as a ruled line. The other wanders and rips. It is the same newspaper, the same hands and the same effort. What is different?* Nothing was added to the paper and nothing was taken away. Only the direction of the pull changed. Paper has a hidden direction built into it, and so do wood, bamboo, cloth and many other materials. In this unit you find that direction with your own hands. You test paper, cloth and a paper clip, and you learn why a material can be strong one way and weak another, and why a property can wear out with use.
+**Intro.** *Take a sheet of newspaper. Tear it from top to bottom, along the columns of print. Now take another sheet and tear it from side to side. One tear runs straight as a ruled line. The other wanders and rips. It is the same newspaper, the same hands and the same effort. What is different?* Nothing was added to the paper and nothing was taken away. Only the direction of the pull changed. Paper has a hidden direction built into it, and so do wood, bamboo, cloth and many other materials. In this lesson you find that direction with your own hands. You test paper, cloth and a paper clip, and you learn why a material can be strong one way and weak another, and why a property can wear out with use.
 
 ## Learning outcomes
 0. I can explain that some materials have a direction, which is called a grain, and name at least three of them.
@@ -159,7 +159,7 @@ In principle, a material's properties come from its atoms and how they are joine
   Against: Other scientists point out that many predictions repeat known materials, and that real materials have flaws and mixtures that are hard to model. Testing and making a sample remains the hard part.
 
 ## Roots
-In this unit we found that paper, wood, bamboo and cloth each have a direction built in. Here we ask what that tells us about materials we think of as the same all the way through, and about our own bodies.
+In this lesson we found that paper, wood, bamboo and cloth each have a direction built in. Here we ask what that tells us about materials we think of as the same all the way through, and about our own bodies.
 
 **Deep truth.** A sheet of newspaper tears straight one way and crooked the other. The paper did not change. Its fibres lie mostly one way, so it has a direction built in. One number for how strong paper is leaves out which way you pull.  
 *Habit it breaks:* We write one value for a material, such as 'paper is weak' or 'wood is strong', as if the direction did not matter. That hides the direction of the pull.  
@@ -556,7 +556,7 @@ By noon the two kites hung side by side in the blue. Hiral felt the string pulli
 ## Worksheets
 ### Properties and direction (core) (core, 17 questions)
 1. (mcq) A strip of newspaper tears straight when you pull it from top to bottom, and crookedly from side to side. What does this show?  
-   Options: The paper has been damaged / The paper has a grain, so it behaves differently in different directions / Tearing is always random / The top of the paper is thicker than the sides  
+   Options: The paper has been damaged / Tearing is always random / The top of the paper is thicker than the sides / The paper has a grain, so it behaves differently in different directions  
    **Answer:** The paper has a grain, so it behaves differently in different directions. *Why:* A tear follows the direction in which most fibres lie. Straight one way and crooked the other shows that the paper is not the same in every direction. If the paper were damaged, or if tearing were random, the result would change each time. But it repeats.
 2. (fill) The direction in which the fibres of wood or paper mostly lie is called its ____.  
    **Answer:** ['grain']. *Why:* The grain is the direction of the fibres or long cells. A material behaves differently along its grain and across it.
@@ -567,7 +567,7 @@ By noon the two kites hung side by side in the blue. Hiral felt the string pulli
 5. (sort) Which of these have a clear grain? Sort them.  
    **Answer:** Newspaper → Has a clear grain; A bamboo stick → Has a clear grain; A wooden plank → Has a clear grain; Woven cotton cloth → Has a clear grain; A glass tumbler → No clear grain; A steel ball → No clear grain; A lump of clay → No clear grain; A glass of still water → No clear grain. *Why:* Paper, bamboo, wood and woven cloth are built of fibres or threads lying in lines. Glass, steel balls, clay and water have no lines in them that stay in place, so they are almost the same in every direction.
 6. (mcq) A tailor wants a strip of cloth to bend smoothly round a curved neckline. How should she cut it from a woven cloth?  
-   Options: Along the threads / It makes no difference / Across the threads / On the slant, along the bias  
+   Options: On the slant, along the bias / Along the threads / It makes no difference / Across the threads  
    **Answer:** On the slant, along the bias. *Why:* Woven cloth stretches most on the slant, because the threads swing to a new angle without stretching. Along the threads, the strip hardly stretches and would not bend round a curve.
 7. (order) Put these in order, from the one that stretches LEAST to the one that stretches MOST under the same pull: a woven cotton strip cut along its threads, a woven cotton strip cut on the slant, a rubber strip.  
    **Answer:** order shown. *Why:* Along the threads, the pull goes straight into strong threads, so the stretch is tiny. On the slant, the threads swing, so the strip stretches more. Rubber stretches the most of the three.
@@ -579,7 +579,7 @@ By noon the two kites hung side by side in the blue. Hiral felt the string pulli
 10. (write) Explain why a basket maker splits a bamboo stick lengthwise on purpose, and why a saw would be a worse tool for making thin strips.  
    **Answer:** A strong answer says that bamboo has strong fibres running along its length, and few things holding the sides together. A split follows the gaps between the fibres, so every fibre stays whole from end to end. A saw wanders and cuts fibres across, leaving cut ends that are weak spots where a crack can start.. *Why:* A split keeps the fibres whole. A saw cuts them. That is why the strips from a split are stronger.
 11. (mcq) A paper clip is bent back and forth and snaps after a few bends. Each bend is the same size. Which idea explains this?  
-   Options: The metal changes into a different metal / Each bend is bigger than the one before / Tiny cracks grow a little with every bend, until the wire is too thin to hold / The paper clip gets heavier with each bend  
+   Options: Tiny cracks grow a little with every bend, until the wire is too thin to hold / The metal changes into a different metal / Each bend is bigger than the one before / The paper clip gets heavier with each bend  
    **Answer:** Tiny cracks grow a little with every bend, until the wire is too thin to hold. *Why:* Each bend does a small amount of damage inside the metal. Tiny cracks start and lengthen until the wire snaps. This is called fatigue. The bends are the same size, and the metal does not become another metal.
 12. (truefalse) A paper clip snaps after a few bends because each bend is stronger than the one before.  
    **Answer:** False. *Why:* False. Each bend is the same size. What changes is the inside of the metal, because tiny cracks grow a little with every bend.
@@ -598,10 +598,10 @@ By noon the two kites hung side by side in the blue. Hiral felt the string pulli
    **Answer:** Strip X, cut across the grain, drooped about twice as far as strip A. *Why:* Strip A drooped about 2 centimetres and strip X about 4 centimetres. A strip that droops more is more floppy, so the strip cut across the grain is less stiff. Picking strip A means reading the table the wrong way round.
 ### Shape, layers and wear (stretch) (stretch, 17 questions)
 1. (mcq) A wooden plank is made twice as thick, with the same length and width. About how much harder is it to bend?  
-   Options: About a hundred times as hard / About the same / About eight times as hard / About twice as hard  
+   Options: About a hundred times as hard / About eight times as hard / About the same / About twice as hard  
    **Answer:** About eight times as hard. *Why:* For a plank bending under a load, the stiffness grows with the cube of the thickness. The cube of 2 is two times two times two, which is eight. So a plank twice as thick is about eight times stiffer. Picking twice as hard counts the extra material, but forgets how much further it sits from the middle.
 2. (mcq) A rubber band can stretch a long way and soak up a lot of energy before it breaks, yet it is not stiff. Which word fits the rubber band best?  
-   Options: Brittle / Stiff / Tough / Hard  
+   Options: Brittle / Tough / Stiff / Hard  
    **Answer:** Tough. *Why:* Tough means able to take in a lot of energy before breaking. A rubber band does that by stretching. Stiff means hard to bend, which a rubber band is not. Brittle means breaking suddenly with little bending, which is the opposite.
 3. (match) Match each word to what it means.  
    **Answer:** Stiff → Hard to bend or stretch; Strong → Takes a large force before breaking; Tough → Takes in a lot of energy before breaking; Brittle → Breaks suddenly with little bending. *Why:* These four words describe different things. A material can be stiff and brittle, like glass, or soft and tough, like rubber.
@@ -614,10 +614,10 @@ By noon the two kites hung side by side in the blue. Hiral felt the string pulli
 7. (sort) Which of these are properties of a material, and which are properties of an object? Sort them.  
    **Answer:** Steel is hard → Property of a material; Rubber can stretch → Property of a material; Glass lets light through → Property of a material; This tumbler holds 250 millilitres → Property of an object; This beam is 2 metres long → Property of an object; The folded bridge is stiffer than the flat sheet → Property of an object. *Why:* A property of a material stays the same whatever the shape. How much a tumbler holds, how long a beam is and how stiff a folded sheet is all depend on the shape that was made.
 8. (mcq) A woven cloth is pulled along its threads. Why does it hardly stretch?  
-   Options: The cloth is too thick to stretch / The cloth is made of rubber / The threads are not joined at all / The pull goes straight into strong threads that hardly stretch  
+   Options: The cloth is too thick to stretch / The cloth is made of rubber / The pull goes straight into strong threads that hardly stretch / The threads are not joined at all  
    **Answer:** The pull goes straight into strong threads that hardly stretch. *Why:* Each thread is strong and does not stretch much. Pulling along the threads pulls on the threads themselves. On the slant, the pull turns the threads instead, and the cloth gets longer without stretching its threads.
 9. (mcq) A plank is used as a short shelf, but with its grain running across the shelf, not along it. It snaps under a few books. Why?  
-   Options: The cells are too strong / A pull across the grain pulls the cells apart, and the glue between the cells is weak / The wood is the wrong colour / Planks cannot hold books  
+   Options: A pull across the grain pulls the cells apart, and the glue between the cells is weak / The cells are too strong / The wood is the wrong colour / Planks cannot hold books  
    **Answer:** A pull across the grain pulls the cells apart, and the glue between the cells is weak. *Why:* Wood is made of long cells held side by side by a weaker glue. A force along the cells pulls on the strong walls. A force across them pulls on the weak glue, so the wood splits.
 10. (perspective) A family wants a long shelf for heavy books. Three people in the family give advice.  
    **Answer:** A strong answer chooses one option and gives a reason about grain. For example, plywood is even in every direction, so it does not split along one line. A solid plank is fine if its grain runs along the shelf. It then admits a fair point from another side, for example that a plank can be as good as plywood when it is cut and used the right way.. *Why:* Nobody is wrong here. A solid plank, plywood and a plank with the grain turned correctly can all work. What matters is which way the grain runs and what load the shelf carries.
@@ -631,7 +631,7 @@ By noon the two kites hung side by side in the blue. Hiral felt the string pulli
    Options: Bone / A corrugated cardboard box / A solid wooden plank / Plywood  
    **Answer:** 2. *Why:* Plywood, corrugated cardboard and bone are all built from layers or stacked parts. A solid plank is one piece of wood with its cells all lying the same way.
 15. (mcq) A railway axle breaks after a million turns, under a load far below what would break it once. Which idea explains this?  
-   Options: Metal never changes / The load was too heavy to carry once / Fatigue: tiny cracks grow a little with each turn / The axle was too thick  
+   Options: Metal never changes / The load was too heavy to carry once / The axle was too thick / Fatigue: tiny cracks grow a little with each turn  
    **Answer:** Fatigue: tiny cracks grow a little with each turn. *Why:* Each turn bends the axle slightly, and tiny cracks grow. After a million turns they can reach all the way through. August Wöhler counted turns to failure in the 1800s and showed that smaller loads take many more turns.
 16. (truefalse) A tree that is swayed by the wind every day tends to grow a thicker, shorter trunk.  
    **Answer:** True. *Why:* True. Experiments since the 1970s, first on small plants and later on trees, have shown that plants which are shaken or swayed grow shorter and thicker stems and trunks. A living thing builds its body in answer to the pushes it feels.
@@ -640,17 +640,17 @@ By noon the two kites hung side by side in the blue. Hiral felt the string pulli
    **Answer:** Clips bent through a small angle took more bends to snap than clips bent through a big angle. *Why:* The tall bar is for the small bends, about 28 on average, and the short bar is for the big bends, about 9. A smaller bend does less damage each time, so it takes more bends for the damage to build up. Picking the big bend means reading the bars the wrong way round.
 ### Thinking like a materials engineer (challenge) (challenge, 16 questions)
 1. (mcq) Board A is made of four layers of newspaper, all with the grain the same way. In board B, every second layer is turned across. Which statement is most likely?  
-   Options: Board A droops about the same in both directions / Board B cannot be tested / Both boards droop exactly the same in every direction / Board B droops about the same along and across, and board A droops differently along and across  
+   Options: Board B droops about the same along and across, and board A droops differently along and across / Board A droops about the same in both directions / Board B cannot be tested / Both boards droop exactly the same in every direction  
    **Answer:** Board B droops about the same along and across, and board A droops differently along and across. *Why:* In board B, the turned layers are strong across where the other layers are weak, so the board is more even. In board A, all the layers share the same weak direction, so the board stays uneven.
 2. (write) A friend says, 'Wood is strong.' Rewrite the sentence so that it is more careful, and say what you added and why.  
    **Answer:** A strong answer adds the direction and, if possible, a measure or a comparison. For example, 'Wood is many times stronger when you pull it along the grain than across the grain.' It says that the direction matters because the cells lie in lines, and the weak glue between them lets go sooner.. *Why:* One word such as strong can hide the direction of the pull. A careful sentence names the direction.
 3. (mcq) A shelf of one kind of wood is 2 centimetres thick and sags 8 millimetres under a load. A shelf of the same wood, length and width, but 4 centimetres thick, carries the same load. About how much will it sag?  
-   Options: About 1 millimetre / About 4 millimetres / About 8 millimetres / About 16 millimetres  
+   Options: About 4 millimetres / About 8 millimetres / About 1 millimetre / About 16 millimetres  
    **Answer:** About 1 millimetre. *Why:* Doubling the thickness makes the shelf about eight times stiffer. So it sags about eight times less. 8 millimetres divided by 8 is 1 millimetre.
 4. (count) A fatigue machine bends a wire 1,000 times a minute. How many hours and minutes will it take to reach 100,000 bends?  
    **Answer:** 1 hour 40 minutes. *Why:* 100,000 divided by 1,000 is 100 minutes. 100 minutes is 1 hour and 40 minutes.
 5. (mcq) Which question is the best one to ask before you choose a plank for a small wooden bridge?  
-   Options: Which way does the grain run, and which way will the load pull? / How old is the plank's label? / What colour is the plank? / Is the plank shiny?  
+   Options: How old is the plank's label? / What colour is the plank? / Which way does the grain run, and which way will the load pull? / Is the plank shiny?  
    **Answer:** Which way does the grain run, and which way will the load pull?. *Why:* The strength of a plank depends on the direction of the pull compared with the direction of the grain. Colour and shine tell you nothing about how it will carry a load.
 6. (perspective) A shop sells a table of material strengths. It gives one number for each material. Three people talk about it.  
    **Answer:** A strong answer decides, and gives a reason from the tests: the same newspaper tore straight one way and crooked the other, and woven cloth stretched far more on the slant. So one number can mislead for these materials. It then admits that one number can still be a useful start, as the engineer and the teacher say, if the direction is also given.. *Why:* A single number is a summary. It is useful, but for materials with a grain it leaves out the direction.
@@ -665,7 +665,7 @@ By noon the two kites hung side by side in the blue. Hiral felt the string pulli
 11. (mcq) The window of an aircraft is a rounded shape, not a square with sharp corners. Why?  
    Options: Sharp corners let in more light / A sharp corner makes the stress bigger, so a fatigue crack would start there / Round windows look better / Round windows are easier to clean  
    **Answer:** A sharp corner makes the stress bigger, so a fatigue crack would start there. *Why:* Stress piles up at a sharp corner, so a crack can begin there after many flights. Rounded corners spread the stress out. Engineers learned this after the 1954 Comet airliner accidents.
-12. (write) Two planks are cut from the same tree and are the same size. One snaps under a load much sooner than the other. Give two reasons why this could happen, using ideas from this unit.  
+12. (write) Two planks are cut from the same tree and are the same size. One snaps under a load much sooner than the other. Give two reasons why this could happen, using ideas from this lesson.  
    **Answer:** A strong answer gives two reasons, such as: one plank has its grain running across the span, and the other along it. Or one plank has a knot or a tiny crack, and a crack can grow and break it. It may also say that one plank was damp. It must be clear that the reasons come from the inside of the wood.. *Why:* The inside of a plank decides how it breaks: the direction of the grain, tiny cracks and knots. Two planks that look alike can differ inside.
 13. (draw) Draw an I-shaped steel beam from the end. Mark where the thick parts are, and write one sentence on why this shape is stiff.  
    **Answer:** An I shape with a thick bar at the top, a thick bar at the bottom and a thin web joining them. A sentence such as: Most of the steel is far from the middle, where it does the most work against a bend.. *Why:* An I-shape puts material where it helps most. The thin web in the middle saves weight.
@@ -675,7 +675,7 @@ By noon the two kites hung side by side in the blue. Hiral felt the string pulli
 15. (fill) A material that has the same property in every direction is called ____.  
    **Answer:** ['isotropic']. *Why:* Isotropic comes from Greek words meaning equal in all ways. Glass and still water are close to this. A material that differs by direction is called anisotropic.
 16. (mcq) Which of these can scientists NOT yet do reliably?  
-   Options: Measure how far a strip of cloth stretches / Split bamboo along its length / Make plywood / Predict from its atoms alone exactly how long a particular steel bridge part will last  
+   Options: Predict from its atoms alone exactly how long a particular steel bridge part will last / Measure how far a strip of cloth stretches / Split bamboo along its length / Make plywood  
    **Answer:** Predict from its atoms alone exactly how long a particular steel bridge part will last. *Why:* Real materials have tiny cracks, mixed ingredients and crystal edges that are very hard to calculate. People can make plywood and measure a stretch, but a full prediction from atoms alone is still beyond us.
 
 ## Videos
@@ -685,25 +685,25 @@ By noon the two kites hung side by side in the blue. Hiral felt the string pulli
 
 ## Quiz
 1. (mcq) Which sentence best describes a material that has a grain?  
-   Options: It behaves differently when pulled in different directions / It is always brown / It is always made of wood / It is always weak  
+   Options: It is always brown / It is always made of wood / It is always weak / It behaves differently when pulled in different directions  
    **Answer:** It behaves differently when pulled in different directions. *Why:* A grain is a direction in the material, set by fibres, cells, threads or layers lying in lines. Colour and kind of material do not decide it. Picking 'weak' mixes up direction with strength.
 2. (mcq) How could you find out which way the fibres lie in a sheet of newspaper?  
    Options: Hold it up to the light / Weigh it / Smell it / Tear it in two directions and see which tear is straighter  
    **Answer:** Tear it in two directions and see which tear is straighter. *Why:* A tear runs most easily between the lines of fibres, so the straighter tear shows the grain. Weight, light and smell do not show a direction.
 3. (mcq) Why does a bamboo stick split so easily along its length?  
-   Options: Bamboo is soft all through / Its strong fibres run along it, and little holds the sides together / Bamboo is full of water / Bamboo has no fibres  
+   Options: Bamboo is soft all through / Bamboo is full of water / Bamboo has no fibres / Its strong fibres run along it, and little holds the sides together  
    **Answer:** Its strong fibres run along it, and little holds the sides together. *Why:* Bamboo is packed with fibres lying along the stem. A split follows the gaps between them. A force across the fibres has to break them. Picking 'soft all through' misses that the direction matters.
 4. (mcq) Two bridges are made from identical sheets of paper. One is flat and sags under a coin. The other is rolled into a tube and carries many coins. What is the best explanation?  
-   Options: Coins weigh less on a tube / The tube is made of a stronger paper / The tube has more paper / The shape of the tube is stiffer, though the paper is the same  
+   Options: The shape of the tube is stiffer, though the paper is the same / Coins weigh less on a tube / The tube is made of a stronger paper / The tube has more paper  
    **Answer:** The shape of the tube is stiffer, though the paper is the same. *Why:* The paper is the same. Rolling it puts the paper far from the middle, where it does the most work against a bend. A property of the object, its stiffness, changed. The property of the material did not.
 5. (mcq) Why is plywood less likely to split along one line than a plank?  
-   Options: The layers cross, so each covers the weak direction of the next / It is made without glue / It is made of harder wood / It is lighter  
+   Options: It is made without glue / It is made of harder wood / The layers cross, so each covers the weak direction of the next / It is lighter  
    **Answer:** The layers cross, so each covers the weak direction of the next. *Why:* Each layer of plywood has its grain turned across the one below. Where one layer would split, the next holds. Glue holds the layers together, but it is not the reason for the evenness.
 6. (mcq) A glass tumbler is stiff, yet a small knock can shatter it. Which word describes glass best?  
-   Options: Elastic / Tough and flexible / Brittle, not tough / Soft  
+   Options: Brittle, not tough / Elastic / Tough and flexible / Soft  
    **Answer:** Brittle, not tough. *Why:* Glass takes in very little energy before it breaks, so it is not tough. It does not bend much first, so it is brittle. Stiff, tough and strong are different properties.
 7. (mcq) A paper clip bent once does not break, but after about ten bends it snaps. What is this called?  
-   Options: Evaporation / Magnetism / Fatigue / Friction  
+   Options: Evaporation / Magnetism / Friction / Fatigue  
    **Answer:** Fatigue. *Why:* Fatigue is damage that builds up when a material is loaded again and again. Each bend lengthens tiny cracks, until the wire cannot hold.
 8. (mcq) A strip of woven cloth cut on the slant stretched 4 centimetres under a bottle. A strip cut along the threads stretched only 0.2 centimetres. What can you say?  
    Options: The slant strip was longer / Woven cloth does not stretch / Woven cloth stretches far more on the slant than along its threads / The test was unfair  
@@ -711,10 +711,10 @@ By noon the two kites hung side by side in the blue. Hiral felt the string pulli
 9. (truefalse) Glass has almost no grain.  
    **Answer:** True. *Why:* True. Glass has no lines of fibres or layers, so it is almost the same in every direction. Wood, paper and woven cloth are not.
 10. (mcq) What can designers already do with the inside of a material?  
-   Options: Make a material that has no atoms / Choose any property they like with no testing / Arrange layers, fibres and holes so that the material does something new / Make a material that is the same as any other  
+   Options: Make a material that has no atoms / Choose any property they like with no testing / Make a material that is the same as any other / Arrange layers, fibres and holes so that the material does something new  
    **Answer:** Arrange layers, fibres and holes so that the material does something new. *Why:* Designers can build the inside, for example with layers in plywood or hinged shapes in an auxetic foam. They cannot yet choose any property they like, and every new design needs testing.
 11. (mcq) Which question can scientists still not answer reliably?  
-   Options: Exactly how long a particular steel part will last, worked out from its atoms alone / Whether bamboo has a grain / Which way a banana leaf tears / How to make plywood  
+   Options: Whether bamboo has a grain / Which way a banana leaf tears / Exactly how long a particular steel part will last, worked out from its atoms alone / How to make plywood  
    **Answer:** Exactly how long a particular steel part will last, worked out from its atoms alone. *Why:* Real materials have cracks, mixed ingredients and crystal edges that are hard to calculate, so tests on real samples are still needed. The other questions have clear answers.
 12. (fill) A strip of a material is stiffer along its grain than across it. This means the material is ____, which means different in different directions.  
    **Answer:** ['anisotropic']. *Why:* Anisotropic comes from Greek words meaning not equal in all ways. Wood, paper and woven cloth are anisotropic.
@@ -793,8 +793,8 @@ Inside the Stuff (sci.materials.L4): Topic-level song
 - [Plywood (Wikipedia)](https://en.wikipedia.org/wiki/Plywood) · interactive: For the parent: a clear article on how plywood is made and why its layers have crossed grain.
 - [Fatigue (material) (Wikipedia)](https://en.wikipedia.org/wiki/Fatigue_(material)) · interactive: For the parent: how repeated loading makes cracks grow, with the story of the railway axles and the Comet airliners.
 - [Madeleine Vionnet (Wikipedia)](https://en.wikipedia.org/wiki/Madeleine_Vionnet) · interactive: For the parent: the French dress designer who made cutting cloth on the bias famous in the 1920s.
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: A science museum in Bengaluru with hands-on displays about materials, machines and engineering. Check opening times before you go.
-- [Forest Research Institute Museum]() · place · Dehradun: A museum in Dehradun that shows timber samples, their grain and how wood is used. Check opening times before you go.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru: A science museum in Bengaluru with hands-on displays about materials, machines and engineering. Check opening times before you go.
+- Forest Research Institute Museum · place · Dehradun: A museum in Dehradun that shows timber samples, their grain and how wood is used. Check opening times before you go.
 
 ## Things to buy
 - [A box of steel paper clips](https://www.amazon.in/s?k=steel+paper+clips+box) (material): For the Bend Until It Snaps test. Plain steel clips from any stationery shop work best, about Rs 20 a box. A box has plenty of spares. Used in e3. 
@@ -804,6 +804,10 @@ Inside the Stuff (sci.materials.L4): Topic-level song
 - [A pack of wooden ice-cream sticks](https://www.amazon.in/s?k=wooden+ice+cream+sticks) (material): For the Grain Hunt. A pack from a craft or stationery shop costs about Rs 20 and has plenty for a group. Used in a1. 
 - [A celery stalk and a banana leaf](https://www.amazon.in/s?k=celery) (material): For the Grain Hunt. A vegetable seller has celery and a flower seller has banana leaves, for a few rupees. A drumstick pod or sugarcane piece can replace the celery. Used in a1. 
 - [Stuff Matters by Mark Miodownik](https://www.amazon.in/s?k=stuff+matters+mark+miodownik) (book): For older readers and parents: a lively book about everyday materials, such as steel, paper and glass, and what is inside them. Used in e1. Read a chapter on paper or steel on a weekend, after the paper tests.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Which Way Does It Tear? Paper has a grain, The Tailor's Trick: which way does cloth stretch?, The Cardboard Bridge: flutes along or flutes across?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, a2, p1. Get it before Which Way Does It Tear? Paper has a grain.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Cardboard Bridge: flutes along or flutes across?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in a2. Get it before The Cardboard Bridge: flutes along or flutes across?.
+- [Marbles (a few)](https://www.amazon.in/s?k=glass+marbles+pack) (material): Used in Paper Bridges: flat, folded or rolled?. About ₹10 to ₹40. Small round stones or dried chana. Used in a3. Get it before Paper Bridges: flat, folded or rolled?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is a grain in wood or paper? → The direction in which the fibres or cells mostly lie.
@@ -822,7 +826,7 @@ Inside the Stuff (sci.materials.L4): Topic-level song
 - Core: g1, ws-core, e1, e2, e3, a1, a3
 
 ## Sources
-- The Level 3 unit on properties of materials, which this unit goes beyond: it does not repeat the scratch ladder, droop of different materials, dry and damp strength, or the diamond and graphite story, and instead looks at direction, layers, shape and wear.
+- The Level 3 unit on properties of materials, which this lesson goes beyond: it does not repeat the scratch ladder, droop of different materials, dry and damp strength, or the diamond and graphite story, and instead looks at direction, layers, shape and wear.
 - Founder's topic notes on Materials Under Heat (heat reveals hidden properties), which led to the warm bend of the paper clip, and on Transparent, Translucent and Opaque (clarity and obscurity), whose idea of hidden structure shaped the roots card.
 - Founder's SCI Card for Robert Hooke (elasticity), used as background to the cards on stiffness and the stretching of cloth. The Combined lessons for this topic were not reopened. The experiments here are new.
 - Wöhler, A., fatigue tests on railway axles, from the 1850s; the summary 'Über die Festigkeitsversuche mit Eisen und Stahl' is in Zeitschrift für Bauwesen 20, 1870 (as described in standard histories of fatigue)

@@ -51,7 +51,7 @@ for f in sorted(glob.glob(os.path.join(src, '*.pdf'))):
         per.setdefault(int(m.group(1)), []).append(p)
     for pg, imgs in per.items():
         t = text(f, pg, pg)
-        caps = [re.sub(r'\s+', ' ', c).strip() for c in re.findall(r'(?:^|\n)((?:Figure|Fig\.|FIG\.)\s*\d+[.\d]*\.?\s.*?)(?:\n\s*\n|$)', t, re.S)]
+        caps = [re.sub(r'\s+', ' ', c).strip() for c in re.findall(r'(?:^|\n)((?:Figure|Fig\.|FIG\.|FIGURE)\s*\d+[.\d]*\.?\s.*?)(?:\n\s*\n|$)', t, re.S)]
         ctx = re.sub(r'\s+', ' ', t).strip()[:300]
         for i, p in enumerate(imgs):
             fp = os.path.join(d, p); sz = subprocess.run(['ffprobe', '-v', 'error', '-show_entries', 'stream=width,height', '-of', 'csv=p=0', fp], capture_output=True, text=True).stdout.strip().split(',')

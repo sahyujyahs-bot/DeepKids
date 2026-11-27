@@ -1,9 +1,9 @@
 # Exercise and rest: why muscles get tired, and what sleep does
 `sci.health.exercise-and-rest.L3`
 
-**Summary.** Squeeze a clothes peg again and again and your fingers ache, but after two minutes of rest the strength comes back. Why? In this unit you will test how a muscle tires and recovers, try three yoga poses, and keep a sleep diary.
+**Summary.** Squeeze a clothes peg again and again and your fingers ache, but after two minutes of rest the strength comes back. Why? In this lesson you will test how a muscle tires and recovers, try three yoga poses, and keep a sleep diary.
 
-**Intro.** *Try this. Hold a full one-litre water bottle in one hand. Stretch your arm straight out to the side, at shoulder height. At first it feels light. Keep holding. After a minute your arm shakes and burns. The bottle did not get any heavier. So what changed?* What changed was inside your arm. The muscles holding the bottle were working hard without a break. In this unit you find out what a muscle uses up when it works, and what rest gives back. You also find out what exercise does to your body over weeks, and what your body and brain do while you sleep.
+**Intro.** *Try this. Hold a full one-litre water bottle in one hand. Stretch your arm straight out to the side, at shoulder height. At first it feels light. Keep holding. After a minute your arm shakes and burns. The bottle did not get any heavier. So what changed?* What changed was inside your arm. The muscles holding the bottle were working hard without a break. In this lesson you find out what a muscle uses up when it works, and what rest gives back. You also find out what exercise does to your body over weeks, and what your body and brain do while you sleep.
 
 ## Learning outcomes
 0. I can explain that a working muscle uses up its quick store of fuel, and that blood brings oxygen to help refill it while I rest.
@@ -25,6 +25,7 @@
 - **Flexibility**: How far your body can bend and stretch without pain. *e.g.* Sitting on the floor with straight legs and touching your toes takes flexibility.
 - **Yoga**: An old Indian practice of body poses, slow breathing and paying attention. A yoga pose is called an asana. *e.g.* Standing on one leg in tree pose, called vrikshasana, is yoga.
 - **Pranayama**: The breathing part of yoga. You breathe in and out slowly, in a set way. *e.g.* Breathing in for a count of four and out for a count of six is a simple pranayama.
+- **Posture**: Posture is the way you hold your body when you sit, stand or walk. *e.g.* Sitting tall at your desk with your back straight is good posture.
 - **Sleep cycle**: During a night, sleep goes round in cycles. Each cycle has light sleep, deep sleep and dreaming sleep, and lasts about one and a half hours in older children and adults. *e.g.* In ten hours of sleep, you go round the cycle about six or seven times.
 - **Dreaming sleep (REM sleep)**: The part of sleep when most vivid dreams happen. The eyes dart about under the closed eyelids. REM stands for rapid eye movement. *e.g.* If you wake from dreaming sleep, you can often remember a dream.
 - **Spinal disc**: A soft, springy pad between two bones of your backbone. It holds water like a sponge. *e.g.* The discs in your back get slightly squashed during the day and fill up again at night, while you lie down.
@@ -50,6 +51,11 @@ A muscle that works hard often grows a little bigger and stronger. A heart that 
 - e.g. Climbing the stairs of your building every day builds stamina and strength.
 - e.g. A child who skips every day for a month can usually skip for longer without stopping than at the start.
 - e.g. Astronauts on the International Space Station run on a treadmill strapped down with belts, so their bones keep getting jolts.
+### Staying active, in body and mind · *idea*
+Exercise is good for your mind as well as your body. After a game of kho-kho, most people feel happier and think more clearly, and they sleep better that night. You do not have to run to stay active. A grandfather whose knees ache can still walk slowly in the park each morning, as many elders do. If walking is hard for a while, he can play chess or carrom with friends, which keeps his mind busy and gives him company. A doctor can say which movements are safe for a person in pain. The idea is the same at any age: keep the body moving in the ways it can, and keep the mind busy.
+- e.g. A grandmother walks to the temple and back every morning. She feels cheerful and sleeps well.
+- e.g. A grandfather with sore knees plays chess on the verandah with his neighbour each evening.
+- e.g. A girl who skips for ten minutes before homework finds it easier to focus.
 ### Yoga · *defined*
 **Definition:** Yoga is an old Indian practice. It has three main parts: poses called asanas, slow breathing called pranayama, and paying close attention to the body and the mind.
 
@@ -57,6 +63,19 @@ The Yoga Sutras of Patanjali is an old book about yoga. It was written in Sanskr
 - e.g. Tree pose, vrikshasana, trains balance.
 - e.g. Cobra pose, bhujangasana, bends the back gently backwards.
 - e.g. Child's pose, balasana, is a resting pose with the forehead on the floor.
+### Yoga and posture · *defined*
+**Definition:** Posture is the way you hold your body when you sit, stand or walk.
+
+Think of a child bent over a desk for an hour. Her shoulders round forward and her back aches. Yoga poses like mountain pose and cobra pose make the back and shoulder muscles stronger. Stronger muscles make it easier to sit and stand tall, so good posture gets less tiring.
+- e.g. Mountain pose, tadasana, is standing tall with the body in one straight line.
+- e.g. Cobra pose lifts the chest and uses the muscles along the back.
+### Deep breathing · *defined*
+**Definition:** Deep breathing is breathing in slowly so the belly rises, and out even more slowly.
+
+Pranayama is yoga's breathing practice, and deep breathing is the simplest kind. Sit tall and put a hand on your belly. Breathe in slowly through the nose until your belly pushes your hand out. Then breathe out slowly. A few slow breaths like this usually slow your heartbeat a little and help you feel calmer. That is why people try it before a test or a performance, or when they feel upset. It is not a cure for illness. It is one way to help your body settle, and you can do it anywhere, for free.
+- e.g. Before a school race, a girl takes five slow breaths and feels her fast heartbeat slow down.
+- e.g. At bedtime, a boy breathes in for a count of four and out for six, and his body feels ready to rest.
+- e.g. The bee breath, bhramari, is a deep breath out with a hum.
 ### What happens while you sleep · *defined*
 **Definition:** Sleep is a long, regular rest in which you lie still and your senses notice much less. Every night it goes round in cycles of light sleep, deep sleep and dreaming sleep.
 
@@ -307,7 +326,7 @@ That night, Lakshmi went to bed at nine o'clock without being asked. Amma was so
   *Child mode:* Let your arm hang down. Squeeze fast for one minute. Say 'now' when it starts to ache.
   - Note: Count quietly. At 30 seconds, note the count without stopping.
 - **s4 (11 min)**  
-  *Parent does:* 1. Rest for 10 minutes. Read or listen to this unit's story, 'The Night Before Pongal', if you like. 2. Then your child stands with the back to a wall and raises the squeezing arm straight up against the wall. 3. Time one minute, and count and note the ache in the same way.  
+  *Parent does:* 1. Rest for 10 minutes. Read or listen to this lesson's story, 'The Night Before Pongal', if you like. 2. Then your child stands with the back to a wall and raises the squeezing arm straight up against the wall. 3. Time one minute, and count and note the ache in the same way.  
   *Parent says:* Now a long rest, so your fingers start fresh. Then the same test with your arm held straight up against the wall.  
   *Child mode:* Rest for 10 minutes. Then lean your back on the wall and raise your arm straight up. Squeeze fast for one minute. Say 'now' when it aches.
   - Note: Most children feel the ache sooner with the arm up. Resting the arm against the wall stops the shoulder tiring first.
@@ -358,7 +377,7 @@ That night, Lakshmi went to bed at nine o'clock without being asked. Amma was so
   *Parent says:* The bottle weighed the same all the time. So why did it feel heavier and heavier?  
   *Child mode:* The bottle did not get heavier. Think about your arm. What was it doing all that time?
   - Ask: Why did the bottle feel heavier and heavier? (good: My arm muscles got tired.; The muscles were working without a rest.)
-  - Note: Do not explain yet. Let your child guess. The Tired Peg experiment in this unit answers the question.
+  - Note: Do not explain yet. Let your child guess. The Tired Peg experiment in this lesson answers the question.
 - **s3 (3 min)**  
   *Parent does:* 1. Rest the arm for one minute. 2. Try again, timing it. 3. Compare the two times.  
   *Parent says:* Rest your arm for one minute. Then try again. Will you last as long as the first time?  
@@ -520,21 +539,21 @@ That night, Lakshmi went to bed at nine o'clock without being asked. Amma was so
   - Think: Why do you think bright light at night makes it harder to fall asleep?
 
 ## Worksheets
-### Tired, Rested, Strong (core) (core, 15 questions)
+### Tired, Rested, Strong (core) (core, 16 questions)
 1. (mcq) When does a muscle get tired fastest?  
    Options: When it works hard without any rest / When it works a little and then rests / When it is asleep  
    **Answer:** When it works hard without any rest. *Why:* Working hard without rest uses up the muscle's quick fuel faster than blood can help refill it.
 2. (mcq) Which word means a muscle getting shorter and pulling?  
-   Options: Relax / Contract / Stretch  
+   Options: Contract / Relax / Stretch  
    **Answer:** Contract. *Why:* A muscle contracts to pull. When it stops pulling and goes soft, it relaxes.
 3. (mcq) Why do you breathe faster when you run?  
    Options: To take in more oxygen for your working muscles / To cool your teeth / To make your voice louder  
    **Answer:** To take in more oxygen for your working muscles. *Why:* Working muscles need more oxygen, so you breathe faster, and your heart pumps faster to carry it to them.
 4. (mcq) Which of these is a flexibility exercise?  
-   Options: Cobra pose / Running up the stairs / Carrying a bag of rice  
+   Options: Running up the stairs / Cobra pose / Carrying a bag of rice  
    **Answer:** Cobra pose. *Why:* Cobra pose bends the back gently and stretches the front of the body. Running builds stamina, and carrying builds strength.
 5. (mcq) Which helps a child sleep well?  
-   Options: A dark, quiet, cool room / A bright phone screen in bed / A big, sugary drink at bedtime  
+   Options: A bright phone screen in bed / A big, sugary drink at bedtime / A dark, quiet, cool room  
    **Answer:** A dark, quiet, cool room. *Why:* Darkness, quiet and coolness help the body feel sleepy. Bright screens delay the body's sleep signal.
 6. (truefalse) The brain switches off completely while you sleep.  
    **Answer:** False. *Why:* False. The brain stays busy, especially in dreaming sleep, when it is nearly as active as when you are awake.
@@ -556,9 +575,11 @@ That night, Lakshmi went to bed at nine o'clock without being asked. Amma was so
    **Answer:** It releases growth hormone in deep sleep, which helps me grow and repair. My brain dreams and sorts what I learned. The discs in my back fill up with water.. *Why:* Any two true things are right. They show that sleep is a busy time, not a time of doing nothing.
 15. (draw) Draw yourself in tree pose. Mark the leg muscles that are working hardest.  
    **Answer:** A child standing on one leg, with the standing leg's calf, thigh and ankle marked.. *Why:* The standing leg does all the work, making tiny corrections to keep you balanced.
-### Blood, Breath and Balance (stretch) (stretch, 15 questions)
+16. (order) Put the steps of one deep breath in order.  
+   **Answer:** ['Sit tall and put a hand on your belly', 'Breathe in slowly through your nose', 'Feel your belly push your hand out', 'Breathe out slowly']. *Why:* First sit tall, then breathe in slowly so the belly rises, then breathe out slowly.
+### Blood, Breath and Balance (stretch) (stretch, 16 questions)
 1. (mcq) You squeeze a peg for one minute with your arm up, and later with your arm down. Which way do your fingers usually tire faster?  
-   Options: Arm up / Arm down / Both exactly the same  
+   Options: Arm down / Both exactly the same / Arm up  
    **Answer:** Arm up. *Why:* With the arm up, blood has to be pumped uphill, so less reaches the hand. Less oxygen arrives to help the muscle refill.
 2. (mcq) In the arm up, arm down test, why do the arm-down round first?  
    Options: So that if the arm-up count is still lower, it cannot be because of extra practice / Because arms are stronger in the morning / It does not matter at all  
@@ -592,18 +613,20 @@ That night, Lakshmi went to bed at nine o'clock without being asked. Amma was so
    **Answer:** Five bars, falling from 50 to 33, then a tall bar of 46 for the round after rest.. *Why:* The chart shows the falling counts without rest and the jump back after rest.
 15. (label) Label the parts of a night's sleep on the circle: light sleep, deep sleep, dreaming sleep.  
    **Answer:** Light sleep first, then deep sleep, then dreaming sleep, before the cycle begins again.. *Why:* A night is made of several of these cycles.
-### The Busy Rest (challenge) (challenge, 15 questions)
+16. (write) Say it out loud, and a grown-up writes it: your grandmother says, 'I cannot run, so I cannot exercise.' What can you tell her?  
+   **Answer:** She can walk slowly or do gentle yoga, and play chess or carrom to keep her mind busy. Being active helps the body and the mind.. *Why:* A strong answer says exercise is not only running, and gives one way for the body and one way for the mind.
+### The Busy Rest (challenge) (challenge, 16 questions)
 1. (mcq) A cricket fast bowler bowls six balls in an over, then fields for a few minutes before the next over. Why does the rest between overs help?  
-   Options: It gives the blood time to help refill the leg and arm muscles / It lets the ball cool down / It has nothing to do with the bowler's muscles  
+   Options: It lets the ball cool down / It gives the blood time to help refill the leg and arm muscles / It has nothing to do with the bowler's muscles  
    **Answer:** It gives the blood time to help refill the leg and arm muscles. *Why:* Short rests let working muscles refill their quick fuel and clear waste, so the next over can be fast again.
 2. (mcq) On the space station, astronauts strap themselves to a treadmill with belts. Why?  
-   Options: So their bones get jolts and carry weight, as they do on Earth / So they do not float into the walls while sleeping / So the treadmill does not break  
+   Options: So they do not float into the walls while sleeping / So the treadmill does not break / So their bones get jolts and carry weight, as they do on Earth  
    **Answer:** So their bones get jolts and carry weight, as they do on Earth. *Why:* Bones get stronger when they carry weight and get jolted. In space nothing presses down, so belts pull the astronaut onto the treadmill.
 3. (mcq) Why can a tired runner often sprint the last 100 metres of a race?  
    Options: The muscles still had some fuel left, and the brain lets more be used near the finish / The track is shorter at the end / Running is easier when tired  
    **Answer:** The muscles still had some fuel left, and the brain lets more be used near the finish. *Why:* This is one reason some scientists think the brain holds back some strength to keep the body safe, and lets more out near the finish.
 4. (mcq) Dolphins must swim up to breathe, even at night. How do dolphins sleep?  
-   Options: With one half of the brain at a time / They never sleep / Only on the beach  
+   Options: They never sleep / Only on the beach / With one half of the brain at a time  
    **Answer:** With one half of the brain at a time. *Why:* Dolphins rest one half of the brain while the other half stays awake enough to swim and breathe.
 5. (truefalse) Sleeping late on Sunday fully makes up for a whole week of going to bed too late.  
    **Answer:** False. *Why:* False. A long sleep helps, but studies find it does not undo all the effects of a week of short nights. A steady bedtime works better.
@@ -628,6 +651,8 @@ That night, Lakshmi went to bed at nine o'clock without being asked. Amma was so
    **Answer:** A strong answer picks a side and uses evidence: tired muscles make mistakes, as the peg test showed, and sleep after practice helps people remember a new skill. It also gives the other side its due: practice is needed too, because there is nothing for sleep to store without it.. *Why:* Practice and sleep both matter. The best answers explain how they work together.
 15. (draw) Draw a 24-hour circle for a healthy day for a child of 8. Show sleep, school or study, play and exercise, and meals.  
    **Answer:** A circle of 24 slices with 9 to 10 slices for sleep, about 6 for school or study, at least 1 for active play, and slices for meals.. *Why:* A child needs 9 to 12 hours of sleep and at least one hour of active play a day.
+16. (fill) Yoga can help your ______, which is the way you hold your body when you sit and stand. It does this by making your back and shoulder ______ stronger.  
+   **Answer:** ['posture', 'muscles']. *Why:* Posture is how you hold your body. Strong back and shoulder muscles make it easier to sit and stand tall.
 
 ## Videos
 - **What makes muscles grow? - Jeffrey Siegel** (TED-Ed, 5 min) id `2tM1LFFxeKg`: A short cartoon of what happens inside a muscle when it works hard, and why rest and sleep matter for it to grow stronger. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here: a parent should preview it and check its length.
@@ -636,41 +661,50 @@ That night, Lakshmi went to bed at nine o'clock without being asked. Amma was so
 
 ## Quiz
 1. (mcq) You squeeze a clothes peg for five rounds of 30 seconds with no break. What usually happens to your count?  
-   Options: It goes up each round / It goes down each round / It stays exactly the same  
+   Options: It goes up each round / It stays exactly the same / It goes down each round  
    **Answer:** It goes down each round. *Why:* With no break, your finger muscles use up their quick fuel faster than your blood can help refill it, so each round you manage fewer squeezes. Picking 'goes up' means thinking practice wins over tiredness in a few minutes.
 2. (mcq) You squeeze a clothes peg for five rounds with no break. Then you rest your hand for two minutes. What happens to your next count?  
-   Options: It goes up again / It falls even lower / You cannot squeeze at all  
+   Options: It falls even lower / It goes up again / You cannot squeeze at all  
    **Answer:** It goes up again. *Why:* During the rest, blood brings oxygen and the muscle refills much of its fuel. Picking 'falls even lower' means thinking rest does nothing.
 3. (mcq) What does blood bring to a working muscle?  
-   Options: Oxygen and food / Only water / Electricity  
+   Options: Only water / Oxygen and food / Electricity  
    **Answer:** Oxygen and food. *Why:* Blood carries oxygen from the lungs and food from the gut. The muscle uses them to refill its fuel. Blood also carries waste away.
 4. (mcq) Why is it a fair test to use the same peg and the same hand in every round?  
    Options: So the only thing that changes is whether you rested / So the test is quicker / Because pegs are expensive  
    **Answer:** So the only thing that changes is whether you rested. *Why:* In a fair test you change only one thing. If you used a softer peg in one round, you would not know whether the peg or the rest changed the count.
 5. (mcq) Which of these is mainly a stamina exercise?  
-   Options: Skipping for five minutes / Touching your toes / Carrying one heavy bucket once  
+   Options: Touching your toes / Carrying one heavy bucket once / Skipping for five minutes  
    **Answer:** Skipping for five minutes. *Why:* Stamina means keeping going for a long time, which works the heart and lungs. Touching the toes is a stretch. Carrying a heavy bucket is mostly strength.
 6. (mcq) What is a yoga pose called?  
-   Options: An asana / A raga / A kolam  
+   Options: A raga / A kolam / An asana  
    **Answer:** An asana. *Why:* Asana is the Sanskrit word for a yoga pose. A raga is a pattern of notes in music. A kolam is a pattern drawn on the floor.
 7. (mcq) Which yoga practice is about breathing slowly in a set way?  
    Options: Pranayama / Tree pose / Child's pose  
    **Answer:** Pranayama. *Why:* Pranayama is the breathing part of yoga. Tree pose and child's pose are poses, called asanas.
 8. (mcq) How many hours of sleep does a child of 8 need each night?  
-   Options: About 6 / About 9 to 12 / About 15  
+   Options: About 9 to 12 / About 6 / About 15  
    **Answer:** About 9 to 12. *Why:* Children aged 6 to 12 need about 9 to 12 hours. Six hours is too little for a child. Fifteen hours is closer to what a baby sleeps.
 9. (mcq) What does the brain do during dreaming sleep?  
-   Options: It switches off completely / It is nearly as busy as when you are awake / It only controls breathing  
+   Options: It switches off completely / It only controls breathing / It is nearly as busy as when you are awake  
    **Answer:** It is nearly as busy as when you are awake. *Why:* Recordings of the brain's signals show it is very active in dreaming sleep. For a long time people thought the brain switched off at night. That was shown wrong in 1953.
 10. (mcq) A scientist watches people sleep. Several times a night, their eyes dart about under closed eyelids. People woken at those times usually say they were dreaming. What does this suggest?  
    Options: Sleep has different stages, and dreaming happens in one with fast eye movements / Their hearts stop for a while / They are growing taller  
    **Answer:** Sleep has different stages, and dreaming happens in one with fast eye movements. *Why:* The eye movements come and go in a pattern through the night, and they match dreaming. So sleep is not all the same: dreaming sleep, or REM sleep, is one stage of it.
 11. (mcq) Why are most people a little taller in the morning than at bedtime?  
-   Options: The discs in their backbone fill up with water while they lie down / They grow 1 centimetre every night / Their hair stands up  
+   Options: They grow 1 centimetre every night / The discs in their backbone fill up with water while they lie down / Their hair stands up  
    **Answer:** The discs in their backbone fill up with water while they lie down. *Why:* Standing and sitting squeeze water out of the soft discs between the bones of the backbone. Lying down lets them soak it back. Children grow only about 5 or 6 centimetres in a whole year.
 12. (mcq) You have a test tomorrow. Which plan will help your body and brain most?  
-   Options: Study late until midnight, then wake up at 6 / Study, play outside, and go to bed on time for 10 hours of sleep / Skip dinner and study all evening  
+   Options: Study, play outside, and go to bed on time for 10 hours of sleep / Study late until midnight, then wake up at 6 / Skip dinner and study all evening  
    **Answer:** Study, play outside, and go to bed on time for 10 hours of sleep. *Why:* Sleep helps the brain store what was learned, and play gives the body exercise. Studying until midnight leaves only 6 hours of sleep, far less than a child needs.
+13. (mcq) You feel nervous before a race, and your heart is beating fast. What can a few slow, deep breaths do?  
+   Options: Make your muscles bigger straight away / Take the place of a night's sleep / Usually help your body calm down and slow the heartbeat a little  
+   **Answer:** Usually help your body calm down and slow the heartbeat a little. *Why:* Slow deep breathing usually helps the body settle and feel calmer. It does not build muscle in a minute, and nothing replaces sleep.
+14. (mcq) Meera slouches over her desk. How can yoga help her?  
+   Options: Yoga makes her backbone longer / Poses like cobra make her back and shoulder muscles stronger, so she can sit tall / Yoga means she never has to sit at a desk  
+   **Answer:** Poses like cobra make her back and shoulder muscles stronger, so she can sit tall. *Why:* Posture is how you hold your body. Stronger back and shoulder muscles make a tall seat easier. Yoga does not stretch the bones or remove the desk.
+15. (mcq) Dadaji's knees ache, so he cannot run. What can he still do to stay active in body and mind?  
+   Options: Walk slowly in the park and play chess with a friend / Stay in bed all day until the pain is gone / Nothing, because only running counts as exercise  
+   **Answer:** Walk slowly in the park and play chess with a friend. *Why:* Gentle walking keeps the body moving, and chess keeps the mind busy. Running is not the only exercise. A doctor can say what is safe for a person in pain.
 
 ## Applications
 - Sports coaches plan rest between hard sets, so players recover and train better.
@@ -681,7 +715,7 @@ That night, Lakshmi went to bed at nine o'clock without being asked. Amma was so
 - Yoga is taught in many Indian schools, hospitals and offices to help people stay flexible and calm.
 
 ## Spotted around us
-- People doing yoga at sunrise on Marina Beach in Chennai, on a rooftop in Kolkata, or in a city park.
+- People doing yoga at sunrise on a beach, on a rooftop or in a city park.
 - A cricket bowler walking slowly back to the start of the run before bowling again.
 - A street dog asleep in the afternoon shade, paws twitching in a dream.
 - A delivery rider resting on the scooter at a tea stall between orders.
@@ -737,6 +771,12 @@ Clean, Strong and Happy (sci.health.L3): Topic-level song for Health and well-be
 ## Things to buy
 - [A pack of spring clothes pegs (cloth clips)](https://www.amazon.in/s?k=cloth+clips+plastic) (material): Most homes already have them. If not, a pack costs very little at a hardware or plastic goods shop. Pick firm ones, because very soft pegs are too easy to tire the fingers. Used in e1, e2. 
 - [A yoga mat (optional)](https://www.amazon.in/s?k=yoga+mat+kids) (tool): A mat stops the feet slipping in tree pose. A folded bedsheet or a durrie on the floor works too. Used in a2, p1. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in Taller in the Morning? A bedtime and wake-up measure, My Ten-Day Yoga Log: does practice make me steadier?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e3, p1. Get it before Taller in the Morning? A bedtime and wake-up measure.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in My Ten-Day Yoga Log: does practice make me steadier?. About ₹10 to ₹30. Any school ruler is fine. Used in p1. Get it before My Ten-Day Yoga Log: does practice make me steadier?.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in Taller in the Morning? A bedtime and wake-up measure. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in e3. Get it before Taller in the Morning? A bedtime and wake-up measure.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Sleep Den: help someone fall asleep in a noisy city. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c2. Get it before The Sleep Den: help someone fall asleep in a noisy city.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in The Sleep Den: help someone fall asleep in a noisy city. About ₹20 to ₹50. Torn clean cloth works. Used in c2. Get it before The Sleep Den: help someone fall asleep in a noisy city.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What does blood bring to a working muscle? → Oxygen and food.

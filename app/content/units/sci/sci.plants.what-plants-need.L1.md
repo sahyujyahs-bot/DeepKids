@@ -1,9 +1,9 @@
 # What plants need: light and water
 `sci.plants.what-plants-need.L1`
 
-**Summary.** Why is the inside of a cabbage pale when the outside is green? In this unit you will look at a cabbage, grow three plates of methi (dry, in light and in the dark) and watch for a few days, and play a green or yellow game.
+**Summary.** Why is the inside of a cabbage pale when the outside is green? In this lesson you will look at a cabbage, grow three plates of methi (dry, in light and in the dark) and watch for a few days, and play a green or yellow game.
 
-**Intro.** *Peel a cabbage, one leaf at a time. The outside leaves are green. The leaves deep inside are pale, almost white. Why?* It is the same cabbage, and the same plant. But the inside leaves grew wrapped up in the dark. The outside leaves grew in the sunlight. So does a plant need light to be green? And what else does a plant need? In this unit we grow methi seeds in the light and in the dark, and with and without water, and we watch what happens.
+**Intro.** *Peel a cabbage, one leaf at a time. The outside leaves are green. The leaves deep inside are pale, almost white. Why?* It is the same cabbage, and the same plant. But the inside leaves grew wrapped up in the dark. The outside leaves grew in the sunlight. So does a plant need light to be green? And what else does a plant need? In this lesson we grow methi seeds in the light and in the dark, and with and without water, and we watch what happens.
 
 ## Learning outcomes
 0. By the end I can say two things a plant needs to grow: water and light.
@@ -317,7 +317,7 @@ Kannan put his bucket away in the cupboard. 'My bucket's house can be in there,'
 1. (sort) Circle in green the things a plant needs. Cross out the things a plant does not need.  
    **Answer:** water → A plant needs this; sunlight → A plant needs this; sweets → A plant does not need this; a toy → A plant does not need this; air → A plant needs this; milk → A plant does not need this. *Why:* Plants need water, light and air. They make their own food, so they do not need sweets or milk.
 2. (mcq) In Three Plates of Methi, what came out of the wet seeds on plate 2 on day 2?  
-   Options: Tiny white roots / Green leaves / Flowers  
+   Options: Green leaves / Tiny white roots / Flowers  
    **Answer:** Tiny white roots. *Why:* Wet seeds soak up water, swell and put out a tiny white root first. The leaves come later.
 3. (draw) In Three Plates of Methi, some sprouts grew under the bowl and some grew by the window. Draw both. Colour them the colours you saw.  
    **Answer:** Tall, thin, yellow sprouts for the bowl. Short sprouts with green leaves for the window.. *Why:* A strong drawing shows both the colour and the shape: the sprouts from the dark are yellow, taller and thinner.
@@ -338,7 +338,7 @@ Kannan put his bucket away in the cupboard. 'My bucket's house can be in there,'
    **Answer:** The second child is closer: on day 6, the yellow sprouts turned green in the light. But the first child is right that they are weaker: they are thin and some fell over.. *Why:* A strong answer uses the day 6 result, and is fair to both: the sprouts were alive and could turn green, but they were thin and weak.
 ### Light and Water (stretch) (stretch, 11 questions)
 1. (mcq) You put methi seeds on wet tissue under a clear glass bowl. What colour will the sprouts be?  
-   Options: Green / Yellow / No sprouts at all  
+   Options: Yellow / Green / No sprouts at all  
    **Answer:** Green. *Why:* Light goes through clear glass, so the sprouts still get light. They will be green.
 2. (match) Draw a line from each sign to what the plant is short of.  
    **Answer:** Tall, thin, yellow sprouts → Light; Droopy leaves and dry soil → Water; Pale leaves inside a cabbage → Light; Soft brown roots in soggy soil → Too much water. *Why:* Yellow, thin sprouts and pale leaves mean little light. Droopy leaves and dry soil mean little water. Roots in soggy soil cannot get air.
@@ -369,34 +369,34 @@ Kannan put his bucket away in the cupboard. 'My bucket's house can be in there,'
 
 ## Quiz
 1. (mcq) What do plants need to grow?  
-   Options: Light and water / Sweets and toys / Milk and biscuits  
+   Options: Sweets and toys / Milk and biscuits / Light and water  
    **Answer:** Light and water. *Why:* Plants need light and water. They make their own food, so they do not need sweets or milk.
 2. (mcq) Methi seeds sat on a dry plate for two days. What happened?  
-   Options: They sprouted / Nothing, they stayed dry seeds / They turned green  
+   Options: They sprouted / They turned green / Nothing, they stayed dry seeds  
    **Answer:** Nothing, they stayed dry seeds. *Why:* Seeds need water to sprout. Dry seeds stay as they are.
 3. (mcq) Methi sprouts grew under an upturned steel bowl. What did they look like?  
-   Options: Short and green / Tall, thin and yellow / Blue  
+   Options: Short and green / Blue / Tall, thin and yellow  
    **Answer:** Tall, thin and yellow. *Why:* In the dark, methi sprouts come up yellow, tall and thin.
 4. (mcq) Yellow methi sprouts from under the bowl were put on the windowsill for a day. What happened?  
-   Options: They turned green / They turned red / They stayed yellow for ever  
+   Options: They turned red / They turned green / They stayed yellow for ever  
    **Answer:** They turned green. *Why:* In the light, the methi made their green. Most sprouts turn green within a day.
 5. (mcq) What made the green colour in the methi leaves?  
-   Options: The water / The methi plant / The steel plate  
+   Options: The methi plant / The water / The steel plate  
    **Answer:** The methi plant. *Why:* The plant makes their own green, when they sense light.
 6. (mcq) Where do plants make their food?  
-   Options: In their green leaves / In the soil / In the kitchen  
+   Options: In the soil / In the kitchen / In their green leaves  
    **Answer:** In their green leaves. *Why:* Plants make food in their green leaves, using light, air and water. Many people think plants eat soil, but the roots only take in water and minerals.
 7. (mcq) A plant has droopy leaves and dry soil. What does the plant need?  
-   Options: Water / Darkness / A new pot  
+   Options: Darkness / A new pot / Water  
    **Answer:** Water. *Why:* Droopy leaves and dry soil mean the plant is short of water.
 8. (mcq) Is a soggy pot that never dries good for a plant?  
-   Options: Yes, more water is always better / No, roots need air too  
+   Options: No, roots need air too / Yes, more water is always better  
    **Answer:** No, roots need air too. *Why:* Roots that sit in soggy soil for days cannot get air and can rot. Damp soil is just right.
 9. (mcq) In Three Plates of Methi, what did a good scientist do before lifting the bowl?  
-   Options: Guessed what would happen, and said why / Threw the seeds away / Painted the sprouts  
+   Options: Threw the seeds away / Painted the sprouts / Guessed what would happen, and said why  
    **Answer:** Guessed what would happen, and said why. *Why:* Scientists guess first, then look carefully, then say what they saw.
 10. (mcq) Two plates of methi seeds got the same water. One was under a bowl and one was in the light. Why did both get the same water?  
-   Options: So that light was the only difference / Because we had extra water / So the bowl would float  
+   Options: Because we had extra water / So that light was the only difference / So the bowl would float  
    **Answer:** So that light was the only difference. *Why:* When only one thing is different, we know that thing made the change. Here, the only difference was light.
 
 ## Applications
@@ -408,8 +408,8 @@ Kannan put his bucket away in the cupboard. 'My bucket's house can be in there,'
 - A white cauliflower at the market, with green leaves wrapped around it.
 - A money plant in a dim corner of a flat, with small leaves far apart, stretching towards a window.
 - Pale yellow grass under a plank or a mat left in a park, with green grass all around.
-- Green rice fields full of water in the Kaveri delta, in Kerala, and in Assam in the monsoon.
-- Tea gardens in Assam and Darjeeling, with tall shade trees planted among the tea bushes.
+- Green rice fields full of water in the monsoon.
+- Tea gardens, with tall shade trees planted among the tea bushes.
 
 ## Open questions
 - **What is it like for a plant to feel light?** Plants have parts that sense light, and they react to the light. But nobody knows what feeling light is like for a plant.
@@ -443,11 +443,15 @@ Light and Water (sci.plants.L1): Topic-level song for Plants L1
 
 ## Links
 - [iNaturalist](https://www.inaturalist.org/) · interactive: For the parent: photograph a plant from your window or balcony and find out their name.
-- [Lalbagh Botanical Garden]() · place · Bengaluru: A big old garden with trees and plants from all over the world, and a glass house.
-- [Acharya Jagadish Chandra Bose Indian Botanic Garden]() · place · Howrah, near Kolkata: Home of the Great Banyan Tree, a single tree that has grown into what looks like a small forest.
-- [Government Botanical Garden]() · place · Ooty: A hill garden with lawns, flower beds and a glass house of plants.
+- Lalbagh Botanical Garden · place · Bengaluru: A big old garden with trees and plants from all over the world, and a glass house.
+- Acharya Jagadish Chandra Bose Indian Botanic Garden · place · Howrah, near Kolkata: Home of the Great Banyan Tree, a single tree that has grown into what looks like a small forest.
+- Government Botanical Garden · place · Ooty: A hill garden with lawns, flower beds and a glass house of plants.
 
 ## Things to buy
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Light Through or Light Blocked?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in a3. Get it before Light Through or Light Blocked?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Three Plates of Methi: dry, light and dark, Grow Methi to Eat, A Gentle Rain for Tiny Sprouts. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1, p1, c1. Get it before Three Plates of Methi: dry, light and dark.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Three Plates of Methi: dry, light and dark, Grow Methi to Eat. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e1, p1. Get it before Three Plates of Methi: dry, light and dark.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name two things a plant needs. → Light and water. Air too.
@@ -463,7 +467,7 @@ Light and Water (sci.plants.L1): Topic-level song for Plants L1
 - Core: a2, e1, g2, ws-core
 
 ## Sources
-- ideas/by_topic/plants.md: Photosynthesis and vision row ('grow a potted plant in varying light and record growth'; 'light is life's bridge'). Its sunbeam dance was not used, because Level 3 of this unit already has a seedling dance.
+- ideas/by_topic/plants.md: Photosynthesis and vision row ('grow a potted plant in varying light and record growth'; 'light is life's bridge'). Its sunbeam dance was not used, because Level 3 of this lesson already has a seedling dance.
 - Etiolation and de-etiolation: seedlings grown in the dark are pale yellow with long stems and closed seed leaves, and turn green within hours to a day in light. Any plant physiology textbook (for example Taiz and Zeiger, Plant Physiology).
 - In flowering plants, the last step in making chlorophyll needs light (the enzyme protochlorophyllide oxidoreductase is light-dependent), so they cannot green in the dark. Many conifers and algae can make chlorophyll in the dark.
 - Inner cabbage leaves are pale because the outer leaves shade them. Cauliflower curds are 'blanched' by tying leaves over them.

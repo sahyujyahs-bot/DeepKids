@@ -100,6 +100,36 @@
    "art": "A TV tower sending lines out to many houses."
   },
   {
+   "term": "SMS",
+   "meaning": "SMS is a short text message sent from one phone to another.",
+   "example": "My uncle sent an SMS to say the train was late.",
+   "art": "A phone with a short text bubble."
+  },
+  {
+   "term": "Email",
+   "meaning": "Email is a message sent from one person to another by the internet.",
+   "example": "A teacher sends a worksheet to parents by email.",
+   "art": "A phone showing a letter sign."
+  },
+  {
+   "term": "Internet",
+   "meaning": "The internet is a big web that joins computers and phones all over the world, so they can share messages, pictures and information.",
+   "example": "You can send a photo to a cousin in another country over the internet.",
+   "art": "A globe with lines joining small phones and computers."
+  },
+  {
+   "term": "Teleprinter",
+   "meaning": "A teleprinter was a machine with keys that sent typed messages along wires and printed them on paper at the other end.",
+   "example": "Newspaper offices once got news from far places on a teleprinter.",
+   "art": "A machine with keys and a long strip of printed paper."
+  },
+  {
+   "term": "Teletext",
+   "meaning": "Teletext sent pages of written news and weather along with the TV signal, to read on the TV screen.",
+   "example": "A family read the train times on teletext.",
+   "art": "A TV screen with lines of words on it."
+  },
+  {
    "term": "Satellite",
    "meaning": "A satellite is an object that goes round the Earth again and again. People send machines up into space to be satellites. Communication satellites pass on phone, TV and internet signals.",
    "example": "Your TV dish points up at a satellite far above the Earth.",
@@ -122,6 +152,24 @@
    "meaning": "Exhaust is the smoke and gas that come out of a vehicle's engine when it burns petrol or diesel. It has carbon dioxide and tiny specks of soot in it.",
    "example": "You can smell the exhaust behind a bus at a bus stop.",
    "art": "The exhaust pipe at the back of a scooter with grey gas coming out."
+  },
+  {
+   "term": "Flyover",
+   "meaning": "A flyover is a raised road that lifts traffic above a busy crossing, so vehicles can go over it without stopping.",
+   "example": "The flyover in the city lets buses go over the junction while other vehicles use the road below.",
+   "art": "A road going up on a bridge above a crowded crossing."
+  },
+  {
+   "term": "Traffic jam",
+   "meaning": "A traffic jam is when so many vehicles are on a road that they move very slowly or stop.",
+   "example": "A broken-down bus on a narrow road made a long traffic jam.",
+   "art": "A long line of vehicles stopped on a road."
+  },
+  {
+   "term": "CNG",
+   "meaning": "CNG stands for compressed natural gas. It is a gas squeezed into a tank, and it is used as fuel in some buses, autos and cars.",
+   "example": "Many autos in Delhi run on CNG instead of petrol.",
+   "art": "An auto being filled with gas from a pump."
   }
  ],
  "explanations": [
@@ -154,6 +202,19 @@
    "context": "This card tells the story of how people learned to move themselves and their goods further and faster."
   },
   {
+   "concept": "Fuels that run vehicles",
+   "status": "defined",
+   "definition": "Engines need fuel. The main fuels are petrol, diesel, CNG and electricity.",
+   "description": "Petrol and diesel are liquids that come from under the ground. CNG is a gas, squeezed into a strong tank. Many buses and autos in Delhi run on it. Electric vehicles run on stored electricity from a battery. A cycle uses no fuel. It runs on the rider's legs.",
+   "examples": [
+    "An auto in Delhi runs on CNG.",
+    "An e-rickshaw runs on a battery."
+   ],
+   "perspectives": [],
+   "art": "A petrol pump, a CNG tank on an auto, and an e-rickshaw plugged in to charge.",
+   "context": "This card names the fuels that vehicles use."
+  },
+  {
    "concept": "The kinds of transport",
    "status": "defined",
    "definition": "There are five main kinds of transport: road, rail, water, air and pipeline. Each is best for different journeys.",
@@ -170,6 +231,19 @@
    "context": "This card names the five kinds of transport and what each one is best at."
   },
   {
+   "concept": "Roads, rivers and skies",
+   "status": "defined",
+   "definition": "India has old roads, big rivers and air routes that carry people and goods.",
+   "description": "The Grand Trunk Road runs across north India. It is very old. In the 1500s, Sher Shah Suri rebuilt it with shady trees, wells and rest houses for travellers. National highways are big roads that join states and large cities. Rural roads join villages to towns and markets. Water transport began with small fishing boats. Later, big ships carried trade between countries. Boats and ships have long used rivers such as the Ganga and the Hooghly. Air transport is the fastest, and it can reach far places in the hills. A helicopter can reach a town such as Tawang in Arunachal Pradesh.",
+   "examples": [
+    "Trucks carry goods along a national highway from Delhi to Kolkata.",
+    "Ships on the Hooghly bring goods to Kolkata port."
+   ],
+   "perspectives": [],
+   "art": "A map of India with the Grand Trunk Road, the Ganga and the Hooghly, and a helicopter over the hills.",
+   "context": "This card tells about old roads, rivers and air routes in India."
+  },
+  {
    "concept": "How communication grew",
    "status": "defined",
    "definition": "Communication grew from gestures and speech, to drums, smoke and messengers, to writing and the post, and then to electric messages: the telegraph, the telephone, radio, TV and the internet.",
@@ -182,6 +256,71 @@
    "perspectives": [],
    "art": "A time-line strip: a person waving, a drum, a pigeon with a note, a letter and post box, a telegraph key, an old telephone, a radio, a TV and a mobile phone.",
    "context": "This card tells the story of how people learned to send messages further and faster."
+  },
+  {
+   "concept": "Printing helped messages travel",
+   "status": "defined",
+   "definition": "Printing makes many copies of the same words. It began with carved wooden blocks and grew into letterpress and computer typesetting.",
+   "description": "In China, people carved words into wooden blocks. They rubbed ink on the block and pressed paper onto it. This block printing is more than 1,000 years old. Later, people made metal letters that could be moved around and used again. This is called letterpress. Today a computer sets the letters on a page in seconds.",
+   "examples": [
+    "A newspaper office once set metal letters by hand, and now uses a computer."
+   ],
+   "perspectives": [],
+   "art": "A carved wooden block with ink, a tray of metal letters, and a computer screen with a page.",
+   "context": "This card shows how printing helped messages reach many people."
+  },
+  {
+   "concept": "The post office and a letter's journey",
+   "status": "defined",
+   "definition": "A letter travels by post: a postbox, a postman, sorting by region and a delivery postman. The post office also sends money and parcels.",
+   "description": "You drop a letter in a red postbox. The postman collects it and takes it to the post office. There, workers sort the letters by region, using the PIN code, and send them on by train, truck or plane. At the end, a postman brings the letter to the door. In the past, a letter could take weeks to reach a far place. The post office also does other jobs. A money order sends money to a family far away. A parcel carries things, such as a gift or a book. India's first law about the post was in 1837, and the postal department began in 1854.",
+   "examples": [
+    "A grandmother in a village in Odisha gets a money order from her son in Mumbai through the postman.",
+    "A letter from Chennai to Kolkata is sorted at a post office using its 6-digit PIN code."
+   ],
+   "perspectives": [],
+   "art": "A red postbox, a postman on a bicycle, a sorting table with pigeon-holes, a train, and a house with a postman at the door.",
+   "context": "This card follows one letter from the postbox to the door."
+  },
+  {
+   "concept": "Telephone, teleprinter, radio and television",
+   "status": "defined",
+   "definition": "The telephone carries voices along wires. The teleprinter typed messages sent along telegraph wires. Radio and television carry sound, and television also carries pictures, through the air.",
+   "description": "The telegraph came first. Then the telephone carried a person's own voice. A teleprinter was a machine with keys, like a typewriter. When someone typed a message on it, the message went along wires and was printed on paper at the far end. Radio sends sound through the air as radio waves, and television sends pictures and sound. Both are one-way, so one station can reach millions of homes. Teletext sent pages of written news, weather and train times along with the television signal, and people read them on their TV screens. In India, the telegraph linked big cities by about 1860, and the first phones came in the 1880s. Radio started in the 1920s, and Doordarshan, India's TV, began in 1959. Today India uses the post, phones, radio, TV and the internet.",
+   "examples": [
+    "A farmer in Punjab listens to the radio for weather news in the morning.",
+    "Families in the 1980s gathered at one house to watch Doordarshan on one television."
+   ],
+   "perspectives": [],
+   "art": "An old teleprinter printing a strip of paper, a radio, a TV showing a text page and a TV showing a picture.",
+   "context": "This card explains four tools that carry messages, and when they came to India."
+  },
+  {
+   "concept": "SMS, email, fax and the internet",
+   "status": "defined",
+   "definition": "An SMS is a short text message sent from phone to phone. Email is a letter sent by the internet. A fax sends a copy of a page along a phone line. The internet joins computers and phones all over the world.",
+   "description": "An SMS arrives on a phone in a moment. An email can carry a long letter, a photo or a school form, and it reaches the other person's computer or phone within seconds. A fax copies a page and prints it at the other end. Farmers can get the price of their crop in the mandi (the market) by an SMS or on the internet, and so can choose where to sell. The internet is how a message on your phone reaches a computer in another country.",
+   "examples": [
+    "A girl in Pune sends an SMS to her cousin in Jaipur and gets a reply in a minute.",
+    "A farmer in Nashik checks onion prices on his phone before taking his crop to the mandi.",
+    "A boy in Kochi emails a drawing to his teacher."
+   ],
+   "perspectives": [],
+   "art": "A phone showing an SMS bubble, a laptop with an email, a fax machine and a globe joined by lines.",
+   "context": "This card tells how SMS, email, fax and the internet are used, and why to check what we read."
+  },
+  {
+   "concept": "Good and bad uses of messages",
+   "status": "defined",
+   "definition": "Phones, letters and TV can be used well or badly. A message may also be false, so it needs checking.",
+   "description": "Families use calls and messages to share news, jokes and photos, and children use them for fun. A phone call is quick. A letter is slow, but you can keep it and read it again. TV tells many people the news at once, but too much watching wastes time. The internet has bad uses too. Someone may send a false message, called false news, or a trick to take money. A message may be false. A careful person checks who sent it and asks a grown-up before sharing it.",
+   "examples": [
+    "A boy in Kochi calls his grandmother on her birthday, and she is happy.",
+    "A neighbour gets a message that a tiger is loose in the town. She asks the forest office, and finds it is false."
+   ],
+   "perspectives": [],
+   "art": "A child on a phone call with a grandmother on the screen, a letter in a box, a TV, and a warning sign on a phone message.",
+   "context": "This card tells how to use messages well, and why to check them."
   },
   {
    "concept": "One-way and two-way communication",
@@ -201,7 +340,7 @@
    "concept": "Road signs and traffic lights",
    "status": "defined",
    "definition": "Road signs give their message by shape and colour, so they can be read from far away and without words. In India, a circle gives an order, a triangle gives a warning, and a rectangle gives information.",
-   "description": "A red circle says what you must not do, such as 'No horn' or 'No entry'. A blue circle says what you must do, such as 'Go straight only'. A triangle with a red border warns you of something ahead, such as a school, a speed breaker or a sharp bend. A blue rectangle gives information, such as the way to a hospital or a petrol pump. The STOP sign is a red eight-sided shape. Traffic lights use red for stop, amber for get ready to stop, and green for go. People on foot have their own lights: a red standing person and a green walking person. These rules let thousands of strangers share a road without crashing into each other.",
+   "description": "A red circle says what you must not do, such as 'No horn' or 'No entry'. A blue circle says what you must do, such as 'Go straight only'. A triangle with a red border warns you of something ahead, such as a school, a speed breaker or a sharp bend. A blue rectangle gives information, such as the way to a hospital or a petrol pump. The STOP sign is a red eight-sided shape. Traffic lights use red for stop, amber for get ready to stop, and green for go. People on foot have their own lights: a red standing person and a green walking person. These rules let thousands of strangers share a road without crashing into each other. You will see other signs too. 'No Parking' means do not leave your vehicle here. 'Speed Breaker' means a raised bump is ahead, so slow down. 'Men at Work' means people are working on the road ahead, so go slowly.",
    "examples": [
     "A triangle with two children on it means 'School ahead: slow down'.",
     "A red circle with '40' inside means 'Do not go faster than 40 kilometres an hour'.",
@@ -212,19 +351,59 @@
    "context": "This card explains how to read a road sign by its shape and colour, even before you see the picture."
   },
   {
+   "concept": "Staying safe on the road and in a bus",
+   "status": "defined",
+   "definition": "To stay safe, cross a road only with care and a grown-up, and sit down in a bus with your hands and head inside.",
+   "description": "In India, vehicles keep to the left side of the road. So to cross, stop at the edge, look right, then left, then right again. Cross only when the road is clear, at a zebra crossing if there is one, and hold a grown-up's hand. In a bus, sit down or hold the rail firmly, and keep your hands and head inside the window. A hill bus trip needs even more care. A hairpin bend is a very sharp turn, shaped like a hairpin. The bus goes slowly round it, and people may feel the bus tip to one side. On a mountain road you may see tall trees on one side and a deep slope on the other. So stay seated, and do not disturb the driver. Playing safely matters too. A busy road, a roof with no railings and a construction site are not safe places to play. A park is a safer place, with a grown-up watching.",
+   "examples": [
+    "A girl in Shimla holds her mother's hand, looks right, left and right again, and crosses at the zebra crossing.",
+    "On a bus in the Nilgiri hills, a boy sits down and keeps his arm inside the window as the bus goes round a hairpin bend."
+   ],
+   "perspectives": [],
+   "art": "A hill bus going round a hairpin bend past tall pine trees, with children seated inside and their hands in; a girl waits at a zebra crossing nearby.",
+   "context": "This card gives simple safety rules for roads, buses and play places."
+  },
+  {
+   "concept": "Who keeps the roads running and safe",
+   "status": "defined",
+   "definition": "Many people work to keep transport going, and traffic police and emergency vehicles keep the road safe for everyone.",
+   "description": "Transport needs many workers. Drivers, conductors (who sell tickets on a bus), mechanics, pilots, ship's captains, railway guards, porters, boatmen, petrol pump workers and cycle repairers all help people and goods reach their place. Traffic police stand at busy crossings. They wave their hands and blow whistles to guide vehicles, and they help when a light stops working. They also stop people who break the rules. Emergency vehicles, such as an ambulance, a fire engine and a police jeep, carry people in danger and need to go fast. They have flashing lights and a siren. When you hear one, you must move aside and let it pass.",
+   "examples": [
+    "A porter at a railway station carries heavy bags from the train to the gate.",
+    "A mechanic in a small garage mends a bus engine so it can run safely."
+   ],
+   "perspectives": [],
+   "art": "A busy crossing: a traffic policewoman with raised hand, a mechanic at a garage, a bus conductor, and an ambulance with its light flashing as cars make way.",
+   "context": "This card tells who works on the roads and how emergency vehicles are given the way."
+  },
+  {
    "concept": "How transport affects the air and our health",
    "status": "defined",
    "definition": "Vehicles that burn petrol or diesel give out exhaust. Exhaust has carbon dioxide, which warms the Earth, and tiny specks of soot and harmful gases, which hurt our lungs. Horns and engines also cause noise pollution.",
-   "description": "In big cities, much of the dirty air comes from vehicles. Breathing it for years can make people ill, especially children and old people. Carbon dioxide from engines adds to the gases that are warming the whole Earth. Walking and cycling make no exhaust at all. A full bus or metro carries many people with much less fuel for each person than if they all drove. Electric vehicles give out no exhaust on the road, but their electricity often comes from power stations that burn coal. So the cleanest journey is often the one we walk, cycle or share.",
+   "description": "In big cities, much of the dirty air comes from vehicles. Breathing it for years can make people ill, especially children and old people. Carbon dioxide from engines adds to the gases that are warming the whole Earth. Walking and cycling make no exhaust at all. A full bus or metro carries many people with much less fuel for each person than if they all drove. Electric vehicles give out no exhaust on the road, but their electricity often comes from power stations that burn coal. So the cleanest journey is often the one we walk, cycle or share. What makes vehicles noisy? Engines shake as they work. Horns blow loudly. Brakes squeal, and tyres roar on rough roads. Aeroplanes and trains are loud too. You can cut smoke and noise in many ways. Get engines serviced, so they burn fuel well. Switch the engine off at a long red light. Share a ride, or use a bus or metro. Walk or cycle for short trips. Blow the horn only when you must.",
    "examples": [
     "A Chennai Metro train carries hundreds of people at once on electricity.",
     "Kolkata has India's oldest metro, opened in 1984. It carries people on electricity, with no exhaust in the streets.",
     "A cycle ride to the shop makes no smoke and no noise.",
-    "Some hospital and school zones have 'No horn' signs to cut noise."
+    "Some hospital and school zones have 'No horn' signs to cut noise.",
+    "Delhi's buses and autos run on CNG, which gives out less smoke than diesel."
    ],
    "perspectives": [],
    "art": "A road split in two: on one side a traffic jam with smoke, on the other a metro train, cyclists and walkers under trees.",
    "context": "This card explains how the way we travel changes the air we breathe."
+  },
+  {
+   "concept": "Traffic jams and how to ease them",
+   "status": "defined",
+   "definition": "A traffic jam happens when more vehicles try to use a road than it can carry, so they move slowly or stop.",
+   "description": "Jams happen for many reasons. There are too many vehicles at one time. The road is narrow. A vehicle breaks down or parks on the road. Rain floods a road. A busy crossing has no light or police. A jam wastes time, and engines that sit still keep making smoke. Cities try many ways to ease them. A flyover is a bridge-like road that lifts traffic above a busy crossing, so vehicles going straight do not have to stop there and wait. Buses, e-rickshaws and metro trains move many people in fewer vehicles. Offices and schools can start at different times, and neighbours can share a car.",
+   "examples": [
+    "The flyover at a busy junction in Bengaluru lets traffic go over the crossing while other vehicles use the road below.",
+    "A metro train on a bridge above the street takes people over a jam."
+   ],
+   "perspectives": [],
+   "art": "A busy crossing with a flyover: vehicles stuck below, a bus and cars flowing smoothly on the bridge above, and a metro on a higher bridge.",
+   "context": "This card explains why roads get jammed and what helps."
   },
   {
    "concept": "How a radio message gets past the curve of the Earth",
@@ -552,11 +731,11 @@
       "q": "A sign is a circle with a red border. What kind of sign is it?",
       "options": [
        "A warning",
-       "An order saying what you must not do",
        "Information about a petrol pump",
+       "An order saying what you must not do",
        "A sign for a zebra crossing"
       ],
-      "a": 1,
+      "a": 2,
       "why": "In India, a circle gives an order. A red circle says what you must not do, such as 'No horn' or 'No entry'. Triangles warn, and blue rectangles give information."
      }
     }
@@ -702,12 +881,12 @@
       "t": "mcq",
       "q": "Which is the cheapest way to carry 2,000 cars across the sea?",
       "options": [
-       "Aeroplane",
        "Ship",
+       "Aeroplane",
        "Truck",
        "Pipeline"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Ships carry very heavy loads across the sea more cheaply than any other way. Aeroplanes are faster but cost far more. Trucks and pipelines cannot cross the sea."
      }
     }
@@ -938,12 +1117,12 @@
       "t": "mcq",
       "q": "A girl walks home at night in a black dress. Which change helps drivers see her from furthest away?",
       "options": [
-       "A black cap",
        "A white dupatta and a reflective strip on her bag",
+       "A black cap",
        "Walking faster",
        "A dark blue dress"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A driver sees the girl only by the headlight that bounces off her. A white dupatta reflects much more light than black, and a reflective strip sends the light straight back to the driver. Walking faster does not help the driver see her."
      },
      "think": "You could see the torch's light the whole time. Why could you not see the black cloth?"
@@ -1113,10 +1292,10 @@
       "options": [
        "A road sign",
        "A radio programme",
-       "A phone call with a friend",
-       "A poster on a wall"
+       "A poster on a wall",
+       "A phone call with a friend"
       ],
-      "a": 2,
+      "a": 3,
       "why": "On a phone call, both people can talk and ask questions. A road sign, a radio programme and a poster send a message only one way: you cannot answer them back."
      }
     }
@@ -1519,6 +1698,114 @@
      "kid": "Fill in your table. What is faster now? Was anything better then?"
     }
    ]
+  },
+  {
+   "id": "a7",
+   "title": "Vehicle Picture Book: draw or collect vehicles",
+   "mins": 20,
+   "days": 1,
+   "context": "You will make a small picture book of vehicles. You draw some, or cut pictures from old papers, and write what each one runs on.",
+   "materials": [
+    {
+     "item": "old newspapers or magazines",
+     "qty": 1
+    },
+    {
+     "item": "paper, scissors, glue and pencil",
+     "qty": 1
+    }
+   ],
+   "safety": "A grown-up helps with scissors and any outing.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 20,
+     "what": "Draw or cut out six vehicles. Stick them in a book. Under each, write its kind of transport and its fuel."
+    }
+   ],
+   "record": "Keep the book. Count how many vehicles use petrol, diesel, CNG or electricity.",
+   "setup": [
+    {
+     "art": "A child cutting a bus picture from a newspaper, with a paper book and glue.",
+     "caption": "1. Draw or cut out six vehicles."
+    },
+    {
+     "art": "A page with one vehicle stuck and a line beneath it: 'Road. Diesel.'",
+     "caption": "2. Write the kind of transport and the fuel."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 10,
+     "context": "This is the first step of the Vehicle Picture Book. You find six vehicles.",
+     "do": "1. Cut six vehicles from old papers or draw them. 2. Try to find different kinds: a cycle, a bus, a train, a boat, an aeroplane and an e-rickshaw.",
+     "say": "Let's find six different vehicles. Draw them or cut them out.",
+     "kid": "Find or draw six different vehicles."
+    },
+    {
+     "id": "s2",
+     "mins": 10,
+     "do": "1. Stick each vehicle on a page. 2. Write its kind of transport and what fuel it uses.",
+     "say": "What does each one run on? Petrol, diesel, CNG, electricity or just legs?",
+     "kid": "Write what each vehicle runs on.",
+     "parent": "A cycle runs on the rider's legs. An e-rickshaw runs on a battery. Many city buses use diesel or CNG."
+    }
+   ]
+  },
+  {
+   "id": "a8",
+   "title": "Letter and Call: send the same news two ways",
+   "mins": 20,
+   "days": 1,
+   "context": "You will show two ways to send news: a letter and a call. You find out which is quicker and what is good about each.",
+   "materials": [
+    {
+     "item": "paper, envelope and pencil",
+     "qty": 1
+    },
+    {
+     "item": "a phone, with a grown-up's help",
+     "qty": 1
+    }
+   ],
+   "safety": "A grown-up helps with scissors and any outing.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 20,
+     "what": "Write a short letter to a relative and put it in an envelope. Then, with a grown-up, call them with the same news."
+    }
+   ],
+   "record": "Write one line: which was quicker, and what is good about each.",
+   "setup": [
+    {
+     "art": "A child writing a letter with an envelope on a table.",
+     "caption": "1. Write a letter and put it in an envelope."
+    },
+    {
+     "art": "A child on a phone call with a grown-up beside her.",
+     "caption": "2. Call with the same news."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 10,
+     "context": "This is the first step. You write a letter and make a call with the same news.",
+     "do": "1. Write two lines to a relative. 2. Put it in an envelope and address it with the PIN code. 3. Then call the same relative, with a grown-up's help, and tell them the same news.",
+     "say": "Let's send the same news two ways. First a letter, then a call.",
+     "kid": "Write a short letter. Then say the same news on a call."
+    },
+    {
+     "id": "s2",
+     "mins": 10,
+     "do": "Ask which way was quicker, and which one can be kept.",
+     "say": "Which one reached them first? Which can they keep and read again?",
+     "kid": "Which was quicker? Which can be kept?",
+     "parent": "A call is quick. A letter takes days, but can be kept and read again. Both are good, and each fits a different need."
+    }
+   ]
   }
  ],
  "projects": [
@@ -1673,12 +1960,12 @@
       "t": "mcq",
       "q": "Which shape should a warning sign be, in India?",
       "options": [
-       "A circle",
        "A triangle",
+       "A circle",
        "A rectangle",
        "A star"
       ],
-      "a": 1,
+      "a": 0,
       "why": "In India, a triangle with a red border warns drivers of something ahead. Circles give orders and rectangles give information."
      }
     }
@@ -1810,10 +2097,10 @@
    "opts": [
     "A black frock",
     "A dark blue frock",
-    "A white frock with a reflective strip on the bag",
-    "A brown frock"
+    "A brown frock",
+    "A white frock with a reflective strip on the bag"
    ],
-   "a": 2,
+   "a": 3,
    "why": "White reflects much more of a car's headlight than dark colours, and a reflective strip sends the light straight back to the driver. A driver sees a person only by the light that comes back from them, and dark clothes send back very little.",
    "outcome": 4,
    "how": "e1"
@@ -1823,11 +2110,11 @@
    "p": "What does a red-bordered triangle on a road sign tell a driver?",
    "opts": [
     "You must stop",
-    "Be careful: something is ahead",
     "Parking here",
-    "Go faster"
+    "Go faster",
+    "Be careful: something is ahead"
    ],
-   "a": 1,
+   "a": 3,
    "why": "In India, a triangle with a red border is a warning sign, such as 'School ahead' or 'Speed breaker'.",
    "outcome": 3
   },
@@ -1835,12 +2122,12 @@
    "t": "mcq",
    "p": "The traffic light shows amber. What should a driver do?",
    "opts": [
-    "Speed up",
     "Get ready to stop",
+    "Speed up",
     "Turn around",
     "Sound the horn"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Amber means the light is about to turn red, so get ready to stop.",
    "outcome": 3
   },
@@ -1849,11 +2136,11 @@
    "p": "Which of these is one-way communication?",
    "opts": [
     "A phone call",
-    "A radio programme",
     "A chat with your teacher",
-    "A video call"
+    "A video call",
+    "A radio programme"
    ],
-   "a": 1,
+   "a": 3,
    "why": "You can listen to a radio programme, but you cannot ask it questions. The other three are two-way.",
    "outcome": 2
   },
@@ -1861,12 +2148,12 @@
    "t": "mcq",
    "p": "A road sign is a blue circle with a white arrow pointing straight up. What does it tell a driver?",
    "opts": [
-    "Go straight only",
     "Do not go straight",
     "Petrol pump ahead",
+    "Go straight only",
     "School ahead"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A blue circle gives an order about what you must do. This one says to go straight only.",
    "outcome": 2
   },
@@ -1900,12 +2187,12 @@
    "t": "mcq",
    "p": "Which invention first sent messages as electric pulses along wires?",
    "opts": [
-    "The telegraph",
     "The post",
+    "The telegraph",
     "The radio",
     "The newspaper"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The telegraph sent short and long pulses of electricity along wires, in a code such as Morse code.",
    "outcome": 2
   },
@@ -1926,14 +2213,274 @@
    "t": "mcq",
    "p": "One full bus carries about as many people as 25 cars. Why is that good for the city's air?",
    "opts": [
-    "Buses are painted brighter",
     "One engine burns far less fuel than 25 engines",
+    "Buses are painted brighter",
     "Buses never stop",
     "Cars have no engines"
    ],
-   "a": 1,
+   "a": 0,
    "why": "One bus engine burns much less fuel than 25 car engines. So sharing a bus makes much less smoke for each person.",
    "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these fuels is a gas, squeezed into a tank?",
+   "opts": [
+    "Petrol",
+    "Diesel",
+    "CNG",
+    "Coal"
+   ],
+   "a": 2,
+   "why": "CNG means compressed natural gas. Petrol and diesel are liquids.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "A bus is stuck behind a long line of vehicles at a busy crossing. Which helps most to ease the jam?",
+   "opts": [
+    "More horns",
+    "A flyover that lifts traffic over the crossing",
+    "More parked cars on the road",
+    "A narrower road"
+   ],
+   "a": 1,
+   "why": "A flyover lets many vehicles go over the crossing without stopping. Horns and parked cars do not help, and a narrower road makes the jam worse.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "Which one cuts both smoke and noise from vehicles?",
+   "opts": [
+    "Switching the engine off at a long red light",
+    "Blowing the horn often",
+    "Driving faster",
+    "Never servicing the engine"
+   ],
+   "a": 0,
+   "why": "An engine that is off makes no smoke and no noise. Horns and a badly kept engine make both worse.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "An ambulance comes up behind you with its siren on. What should the drivers do?",
+   "opts": [
+    "Move aside and let it pass",
+    "Race it",
+    "Stop in the middle of the road",
+    "Blow their horns"
+   ],
+   "a": 0,
+   "why": "An ambulance may be carrying someone in danger. Drivers must make way.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "Who helps fix a bus engine so that it runs safely?",
+   "opts": [
+    "A porter",
+    "A conductor",
+    "A postman",
+    "A mechanic"
+   ],
+   "a": 3,
+   "why": "A mechanic mends engines. A porter carries bags, a conductor sells tickets, and a postman brings letters.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "You want to cross a road in India. What should you do?",
+   "opts": [
+    "Run across at once",
+    "Cross with your eyes closed",
+    "Stop at the edge, look right, left and right again, and cross when it is clear",
+    "Wait in the middle of the road"
+   ],
+   "a": 2,
+   "why": "Vehicles keep to the left in India, so the first danger comes from the right. Look both ways and hold a grown-up's hand.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "On a hill bus, why must you keep your hands and head inside?",
+   "opts": [
+    "It is cooler",
+    "The bus may pass very close to rocks, trees and other vehicles round a hairpin bend",
+    "The driver likes it",
+    "The windows are for looking at the sky"
+   ],
+   "a": 1,
+   "why": "On narrow hill roads, things pass very close. A head or hand outside can be hurt.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "A sign shows a triangle with a red border and a picture of men digging. What does it mean?",
+   "opts": [
+    "No Parking",
+    "Petrol pump",
+    "Men at Work: go slowly",
+    "You must go straight"
+   ],
+   "a": 2,
+   "why": "A red-bordered triangle is a warning. This one tells drivers that people are working on the road ahead.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "Which place is safest for a child to play?",
+   "opts": [
+    "A busy road",
+    "A roof with no railings",
+    "A building site",
+    "A park, with a grown-up nearby"
+   ],
+   "a": 3,
+   "why": "A busy road has fast vehicles, a roof with no rail can lead to a fall, and a building site has holes and heavy machines.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "Who rebuilt the Grand Trunk Road in the 1500s, with trees and rest houses along it?",
+   "opts": [
+    "Marconi",
+    "Sher Shah Suri",
+    "Gandhi",
+    "A British engineer in 1900"
+   ],
+   "a": 1,
+   "why": "Sher Shah Suri, a ruler in the 1500s, rebuilt this very old road across north India with trees, wells and rest houses.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Which was used for early water transport, before big ships?",
+   "opts": [
+    "Aeroplanes",
+    "Fishing boats",
+    "Metro trains",
+    "Cars"
+   ],
+   "a": 1,
+   "why": "Water transport started with small fishing boats. Later, bigger ships carried trade between countries.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Why can a helicopter be useful in a hill place such as Tawang?",
+   "opts": [
+    "It is the cheapest way",
+    "It needs no fuel",
+    "It makes no noise",
+    "It can reach where roads are hard to build"
+   ],
+   "a": 3,
+   "why": "Air transport can reach far hill places. It costs a lot and uses fuel, and a helicopter is loud.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these did people use first to print words?",
+   "opts": [
+    "A computer",
+    "A mobile phone",
+    "A radio",
+    "Carved wooden blocks with ink"
+   ],
+   "a": 3,
+   "why": "In China, people carved words into wood, inked them and pressed paper on them. Metal letters and computers came later.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "A letter goes from Chennai to Kolkata. What happens between the postbox and the door?",
+   "opts": [
+    "It is sorted by region and sent on by train or truck, and then a postman brings it",
+    "It flies by itself",
+    "It goes straight to the door",
+    "It is sent by teleprinter"
+   ],
+   "a": 0,
+   "why": "Post office workers sort letters by PIN code and send them on. A postman delivers them at the end.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "Which pair of dates is right for India?",
+   "opts": [
+    "Doordarshan in 1859, radio in 1959",
+    "Radio in the 1920s, Doordarshan in 1959",
+    "Telephone in 1990, telegraph in 1920",
+    "Postal department in 1950, radio in 1853"
+   ],
+   "a": 1,
+   "why": "Radio began in the 1920s and Doordarshan in 1959. The postal department began in 1854.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "What did a teleprinter do?",
+   "opts": [
+    "Played music",
+    "Showed pictures",
+    "Made phone calls",
+    "Sent typed messages along wires and printed them on paper"
+   ],
+   "a": 3,
+   "why": "A teleprinter was a keyboard machine that printed typed messages at the far end.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "What does teletext show?",
+   "opts": [
+    "Live cricket on the radio",
+    "Pages of written news and weather on the TV screen",
+    "A phone call",
+    "A letter"
+   ],
+   "a": 1,
+   "why": "Teletext sent written pages along with the TV signal.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "A farmer gets the price of onions in the mandi by SMS. Why is that useful?",
+   "opts": [
+    "It makes onions grow faster",
+    "He can choose where to sell",
+    "It makes the road shorter",
+    "It gives him fuel"
+   ],
+   "a": 1,
+   "why": "Knowing the price helps him sell where he gets a fair price.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "You get a message that says a big cyclone will hit tomorrow, but it came from a stranger. What is the best thing to do?",
+   "opts": [
+    "Forward it to everyone at once",
+    "Delete your phone",
+    "Believe it because it is on a phone",
+    "Check with a grown-up and a trusted news source first"
+   ],
+   "a": 3,
+   "why": "False news can spread fast. Check who sent it and whether it is true before you share it.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these is a good use of a phone and a bad use?",
+   "opts": [
+    "Good: a call to a grandparent. Bad: staring at it all night",
+    "Good: staring at it all night. Bad: a call to a grandparent",
+    "Both are bad",
+    "Both are good"
+   ],
+   "a": 0,
+   "why": "A phone is useful for talking to family. Using it too much and losing sleep is a bad use.",
+   "outcome": 2
   }
  ],
  "worksheets": [
@@ -1994,12 +2541,12 @@
      "t": "mcq",
      "p": "In the Seen in the Dark test, the same dim torch shines on a black cloth and a white cloth. Which one can you still see from further away?",
      "opts": [
-      "The black cloth",
       "The white cloth",
+      "The black cloth",
       "Both the same",
       "Neither, in the dark"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The white cloth reflects much more of the torch light back to your eyes, so you can still see it from further away. The black cloth reflects very little, so it vanishes sooner.",
      "how": "e1"
     },
@@ -2061,11 +2608,11 @@
      "p": "Which of these is two-way communication?",
      "opts": [
       "A newspaper",
-      "A talk with your friend",
       "A billboard",
-      "A TV news programme"
+      "A TV news programme",
+      "A talk with your friend"
      ],
-     "a": 1,
+     "a": 3,
      "why": "In a talk, both of you can speak and ask questions. A newspaper, a billboard and TV news send a message one way only."
     },
     {
@@ -2097,11 +2644,11 @@
      "p": "You want to send a photo to a cousin in Kolkata right now. Which is the quickest way?",
      "opts": [
       "Post it in a letter",
-      "Send it by phone over the internet",
       "Give it to a train passenger",
+      "Send it by phone over the internet",
       "Send it by courier"
      ],
-     "a": 1,
+     "a": 2,
      "why": "The internet carries a photo in seconds. A letter or courier takes days."
     },
     {
@@ -2157,6 +2704,75 @@
      "a": "Wear white or pale clothes. Wear or carry something with a reflective strip. Carry a torch and shine it on the ground ahead.",
      "why": "A strong answer uses the Seen in the Dark test: pale clothes and reflective strips send much more light back to a driver.",
      "how": "e1"
+    },
+    {
+     "t": "match",
+     "p": "Match each person to what they do for transport.",
+     "pairs": [
+      [
+       "Driver",
+       "drives the vehicle"
+      ],
+      [
+       "Mechanic",
+       "mends engines"
+      ],
+      [
+       "Traffic police",
+       "guides vehicles at a crossing"
+      ],
+      [
+       "Porter",
+       "carries heavy bags at a station"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Many people work so that transport runs well. A strong answer can name one more job, such as a pilot or a boatman."
+    },
+    {
+     "t": "draw",
+     "p": "Draw or paste four pictures of different vehicles. Write under each one what fuel it uses: petrol, diesel, CNG or electricity.",
+     "a": "Four pictures, such as a bus (diesel or CNG), a scooter (petrol), an e-rickshaw (electricity) and a car, each with a fuel written below.",
+     "why": "A strong answer picks four different vehicles and names a fuel for each. A cycle uses no fuel at all, only the rider's legs.",
+     "art": "Four empty boxes in a row."
+    },
+    {
+     "t": "truefalse",
+     "p": "On a bus it is safe to put your hand out of the window.",
+     "a": false,
+     "why": "Your hand or head can hit a pole, a tree or another vehicle. Keep them inside and sit down."
+    },
+    {
+     "t": "match",
+     "p": "Match each sign to what it tells you.",
+     "pairs": [
+      [
+       "No Parking",
+       "do not leave your vehicle here"
+      ],
+      [
+       "Speed Breaker",
+       "a bump is ahead, so slow down"
+      ],
+      [
+       "Men at Work",
+       "people are working, so go slowly"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "These signs use words as well as pictures. A strong answer could draw one new sign of their own."
+    },
+    {
+     "t": "mcq",
+     "p": "What is email?",
+     "opts": [
+      "A kind of train",
+      "A road sign",
+      "A fuel",
+      "A message sent by the internet"
+     ],
+     "a": 3,
+     "why": "Email is a message sent by the internet from one person to another, in seconds."
     }
    ]
   },
@@ -2250,11 +2866,11 @@
      "p": "Which is the best way to carry petrol from a refinery to a city 300 kilometres away, every day, for years?",
      "opts": [
       "Aeroplanes",
-      "A pipeline",
       "Bullock carts",
+      "A pipeline",
       "Cycles"
      ],
-     "a": 1,
+     "a": 2,
      "why": "A pipeline carries liquid all day and night, without any vehicle. Once it is built, it is cheap and safe for this job."
     },
     {
@@ -2304,12 +2920,12 @@
      "t": "mcq",
      "p": "Radio waves travel in straight lines. Yet a radio station far beyond the curve of the Earth can sometimes be heard. Why?",
      "opts": [
-      "Radio waves curl around the Earth by themselves",
       "A charged layer high in the air sends some radio waves back down",
+      "Radio waves curl around the Earth by themselves",
       "The Earth is flat",
       "Radio waves travel through the ground"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The ionosphere, a layer of charged air high above us, sends some radio waves back down to the ground. Edward Appleton showed this in 1924."
     },
     {
@@ -2351,12 +2967,90 @@
      "p": "A honeybee finds flowers and comes back to the hive. How does she tell other bees where the flowers are?",
      "opts": [
       "She draws a map",
-      "She dances, and the direction and length of her dance show the way",
       "She buzzes the name of the flower",
-      "She cannot share it"
+      "She cannot share it",
+      "She dances, and the direction and length of her dance show the way"
+     ],
+     "a": 3,
+     "why": "Honeybees dance on the comb. The direction of the dance shows which way to fly, and its length shows how far. Karl von Frisch worked this out."
+    },
+    {
+     "t": "write",
+     "p": "Name two reasons for a traffic jam, and give one way to make it smaller.",
+     "lines": 4,
+     "a": "Reasons: too many vehicles at once, a narrow road, a vehicle that broke down. A way to reduce it: build a flyover, run more buses, or share rides.",
+     "why": "A strong answer gives two real reasons and one way that fits those reasons."
+    },
+    {
+     "t": "mcq",
+     "p": "Which road runs across north India and was rebuilt by Sher Shah Suri in the 1500s?",
+     "opts": [
+      "The Hooghly",
+      "The Grand Trunk Road",
+      "The Konkan Railway",
+      "A national airport"
      ],
      "a": 1,
-     "why": "Honeybees dance on the comb. The direction of the dance shows which way to fly, and its length shows how far. Karl von Frisch worked this out."
+     "why": "The Grand Trunk Road is very old. Sher Shah Suri rebuilt it and added trees, wells and rest houses."
+    },
+    {
+     "t": "match",
+     "p": "Match each tool to what it does.",
+     "pairs": [
+      [
+       "Teleprinter",
+       "prints typed messages from wires"
+      ],
+      [
+       "Teletext",
+       "shows written news on a TV screen"
+      ],
+      [
+       "Fax",
+       "copies a page and prints it far away"
+      ],
+      [
+       "Radio",
+       "sends sound through the air"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each tool carries a message in its own way. Only radio and TV send their message through the air to many homes."
+    },
+    {
+     "t": "write",
+     "p": "Write one good use and one bad use of a phone, a letter or TV.",
+     "lines": 4,
+     "a": "Good use: a phone call lets a child hear a grandparent far away. Bad use: a false message that spreads fast. A letter is slow but can be kept. TV can inform us, but too much watching wastes time.",
+     "why": "A strong answer gives one fair good use and one fair bad use of the same tool."
+    },
+    {
+     "t": "sort",
+     "p": "Sort each into 'helps cut smoke and noise' or 'adds smoke and noise'.",
+     "cats": [
+      "Cuts smoke and noise",
+      "Adds smoke and noise"
+     ],
+     "items": [
+      [
+       "switching off the engine at a red light",
+       "Cuts smoke and noise"
+      ],
+      [
+       "blowing the horn all the time",
+       "Adds smoke and noise"
+      ],
+      [
+       "sharing a ride",
+       "Cuts smoke and noise"
+      ],
+      [
+       "a badly kept engine",
+       "Adds smoke and noise"
+      ]
+     ],
+     "a": "see items",
+     "why": "Less fuel burnt and fewer horns means cleaner air and a quieter street."
     }
    ]
   },
@@ -2380,11 +3074,11 @@
      "p": "In the Seen in the Dark test, suppose your white cloth is still visible at the far wall, 15 foot-steps away. What should you do to find how far it can really be seen?",
      "opts": [
       "Write 15 and stop",
-      "Make the torch dimmer, or use a longer room, and test all the cloths again",
       "Test only the white cloth again",
+      "Make the torch dimmer, or use a longer room, and test all the cloths again",
       "Use a brighter torch"
      ],
-     "a": 1,
+     "a": 2,
      "why": "If the white cloth is still seen at the wall, you have not found its limit. A dimmer torch or a longer room lets you find it. You must test every cloth again in the same way, so the test stays fair.",
      "how": "e1"
     },
@@ -2450,12 +3144,12 @@
      "t": "mcq",
      "p": "Sacks of rice go from a farm in Andhra Pradesh to a shop in Kerala. Which two kinds of transport are most likely to carry them?",
      "opts": [
-      "A goods train, then a truck",
       "An aeroplane, then a ship",
       "A pipeline, then a cycle",
-      "A kattumaram, then a helicopter"
+      "A kattumaram, then a helicopter",
+      "A goods train, then a truck"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Rice is heavy and travels a long way, so a goods train is cheap. A truck then takes it from the station to the shop door. Most goods use more than one kind of transport."
     },
     {
@@ -2506,11 +3200,11 @@
      "p": "A message travelling from Earth to a faraway spacecraft takes about a day to arrive. What does this mean for talking to it?",
      "opts": [
       "You can chat with it like a phone call",
-      "Every question takes about two days to get an answer",
       "Messages travel faster in space",
+      "Every question takes about two days to get an answer",
       "Messages cannot reach space"
      ],
-     "a": 1,
+     "a": 2,
      "why": "The question takes about a day to get there and the answer about a day to come back. So conversation is very slow, more like letters than a phone call."
     },
     {
@@ -2555,6 +3249,48 @@
       "A postwoman brings it to the door"
      ],
      "why": "A letter is collected, sorted by PIN code, carried to the right area, and then delivered. Transport and communication work together here."
+    },
+    {
+     "t": "order",
+     "p": "Put these Indian dates in order, from earliest to latest.",
+     "items": [
+      "Doordarshan begins (1959)",
+      "Postal department begins (1854)",
+      "Telegraph links big cities (about 1860)",
+      "Radio begins (1920s)"
+     ],
+     "a": [
+      "Postal department begins (1854)",
+      "Telegraph links big cities (about 1860)",
+      "Radio begins (1920s)",
+      "Doordarshan begins (1959)"
+     ],
+     "why": "The post came first, then the telegraph, then radio and TV."
+    },
+    {
+     "t": "mcq",
+     "p": "A message says, 'Free phones for everyone! Click here.' What is the best first step?",
+     "opts": [
+      "Click it at once",
+      "Forward it to friends",
+      "Ask a grown-up and check who sent it",
+      "Give your name and number"
+     ],
+     "a": 2,
+     "why": "A message that offers free things may be a trick. Stop, ask and check, and do not share it."
+    },
+    {
+     "t": "write",
+     "p": "A flyover costs a lot, but a bus lane costs less. Which would you choose for a busy crossing in your town? Give two reasons.",
+     "lines": 5,
+     "a": "A strong answer picks one and gives two reasons, such as saving time, fewer jams, cost, or carrying more people in fewer vehicles. It names one good point of the other choice.",
+     "why": "Both can ease a jam in different ways, and the best choice depends on the road."
+    },
+    {
+     "t": "truefalse",
+     "p": "On a hill road, a hairpin bend is a very sharp turn, so the bus goes slowly round it.",
+     "a": true,
+     "why": "A hairpin bend is shaped like a hairpin. The bus slows down, and children stay seated."
     }
    ]
   }
@@ -2803,6 +3539,43 @@
     "e1",
     "c2"
    ]
+  },
+  {
+   "id": "b-the-wheels-on-the-tuk-tu",
+   "item": "The Wheels on the Tuk Tuk by Kabir Sehgal and Surishtha Sehgal",
+   "kind": "book",
+   "why": "The old song set in an Indian auto-rickshaw, full of the busy life of an Indian street. It is a fun way into how people get around.",
+   "url": "https://www.amazon.in/s?k=The+Wheels+on+the+Tuk+Tuk",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Read or sing it together at the start of the transport lesson."
+  },
+  {
+   "id": "b-the-jolly-postman",
+   "item": "The Jolly Postman by Janet and Allan Ahlberg",
+   "kind": "book",
+   "why": "A postman delivers letters to fairy-tale characters, and the real letters sit in envelopes inside the pages. It shows the child how messages travel.",
+   "url": "https://www.amazon.in/s?k=The+Jolly+Postman",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Read it together before writing a letter."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [
@@ -2877,6 +3650,8 @@
    "ws-stretch",
    "c1",
    "c2",
+   "a7",
+   "a8",
    "big_questions",
    "ws-challenge",
    "open_questions",
