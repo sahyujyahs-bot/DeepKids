@@ -176,7 +176,8 @@
    "examples": [
     "A polio virus particle carries one strand of RNA about 7,500 letters long. The cell's ribosomes read that strand directly, as if it were one of the cell's own messages.",
     "In the Factory Test, you drew six grains each round and built whatever each one said. The marked grains doubled each round, so more and more of your six jobs were for the virus.",
-    "An mRNA vaccine works because of the same fact. Your ribosomes build the spike protein from a message that your own genes never wrote."
+    "An mRNA vaccine works because of the same fact. Your ribosomes build the spike protein from a message that your own genes never wrote.",
+    "The tumbler in the Factory Test is a model. It shows how ribosomes pick up messages, but it leaves out the cell's defences and the tricks that real viruses play. Every model leaves things out."
    ],
    "perspectives": [],
    "art": "A ribosome in the middle with two message strands approaching it, one plain and one marked with a small V, and the same chain of beads starting to grow from either.",
@@ -312,7 +313,7 @@
    "concept": "Ending a virus for good",
    "status": "defined",
    "definition": "A virus who can be copied only in human cells, and against whom a good vaccine exists, can be ended completely, because the virus needs an unbroken chain of human hosts.",
-   "description": "A virus particle outside a cell does not last long. Every virus who infects only humans must keep reaching new humans, without a break, or that kind of virus ends. Smallpox infected only humans, and the vaccine was very good. After a worldwide effort, the last natural case was in Somalia in 1977, and the world was declared free of smallpox in 1980. Only one other disease has been ended in this way: rinderpest, a virus disease of cattle, whose end was announced in 2010. Polio may be the third. In the 1980s India had thousands of polio cases every year. The Pulse Polio programme began in 1995, with the aim of giving every child under five two drops of vaccine on the same days. India's last case of wild polio was recorded on 13 January 2011, in West Bengal. The World Health Organization declared India polio-free on 27 March 2014. Two of the three types of wild polio virus are now gone from the whole world. The third type still passes between people in Afghanistan and Pakistan. Until that chain breaks too, children everywhere still need the vaccine. A virus who also lives in other animals, such as rabies or bird flu, cannot be ended this way.",
+   "description": "A virus particle outside a cell does not last long. Every virus who infects only humans must keep reaching new humans, without a break, or that kind of virus ends. Smallpox infected only humans, and the vaccine was very good. After a worldwide effort, the last natural case was in Somalia in 1977, and the world was declared free of smallpox in 1980. Only one other disease has been ended in this way: rinderpest, a virus disease of cattle, whose end was announced in 2010. Polio may be the third. In the 1980s India had thousands of polio cases every year. The Pulse Polio programme began in 1995, with the aim of giving every child under five two drops of vaccine on the same days. India's last case of wild polio was recorded on 13 January 2011, in West Bengal. The World Health Organization declared India polio-free on 27 March 2014. Two of the three types of wild polio virus are now gone from the whole world. The third type still passes between people in Afghanistan and Pakistan. Until that chain breaks too, children everywhere still need the vaccine. A virus who also lives in other animals, such as rabies or bird flu, cannot be ended this way. Protection also reaches people who cannot be vaccinated. When most people nearby are vaccinated, the virus has few people left to reach, so a baby too young for the vaccine is safer. Covering a cough and staying home when ill protect others in the same way.",
    "examples": [
     "Smallpox: only humans, a strong vaccine, eradicated in 1980.",
     "Polio in India: Pulse Polio from 1995, the last wild case in January 2011, declared polio-free in March 2014.",
@@ -2462,6 +2463,30 @@
      "outcome": 4
     },
     {
+     "t": "sort",
+     "p": "Sort each action: does it protect only you, or does it also protect other people?",
+     "cats": [
+      "Protects only me",
+      "Protects others too"
+     ],
+     "items": [
+      [
+       "A measles vaccine",
+       "Protects others too"
+      ],
+      [
+       "Covering your cough with your elbow",
+       "Protects others too"
+      ],
+      [
+       "Drinking a glass of milk every day",
+       "Protects only me"
+      ]
+     ],
+     "a": "see items",
+     "why": "A vaccine and a covered cough cut the chain of a virus, so the people around you are safer too. Milk helps your own body, but it does not stop a virus passing to someone else."
+    },
+    {
      "t": "write",
      "p": "Two doses of measles vaccine protect for many years. A flu vaccine protects for about one. Explain the difference.",
      "lines": 4,
@@ -2913,6 +2938,30 @@
    "how": "e1",
    "why": "The model cell never fought back. A real cell senses virus RNA, sends out interferon and may self-destruct. The model did include the cell's messages, the copying and chance.",
    "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "A tumbler model shows how ribosomes pick up messages. What is true of every model like this?",
+   "opts": [
+    "It leaves things out of the real thing",
+    "It shows every part of the real thing",
+    "It is exactly the same as the real thing"
+   ],
+   "a": 0,
+   "why": "Every model leaves things out. The tumbler has six draws and twenty messages, not millions, and it has no cell defences.",
+   "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "Your neighbour's baby is too young for a measles vaccine. Why does your own vaccination still help that baby?",
+   "opts": [
+    "Fewer people with the virus are left nearby to pass it on",
+    "Your antibodies float into the baby's lungs",
+    "The vaccine passes to the baby by touch"
+   ],
+   "a": 0,
+   "why": "When most people around the baby are protected, the virus has few people to reach. Your antibodies stay in your own blood, so they do not reach the baby through the air or by touch.",
+   "outcome": 4
   }
  ],
  "videos": [

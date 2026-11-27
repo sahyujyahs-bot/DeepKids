@@ -98,7 +98,7 @@ A coconut is built for the sea. The outer skin is smooth and waterproof. Under t
 ### Carried by animals · *defined*
 **Definition:** Many plants are dispersed by animals. Some seeds are carried inside an animal who ate the fruit. Others are carried on the outside, or carried away to be stored as food.
 
-A sweet fruit is a payment. The plant spends sugar on the flesh, and the animal who eats the flesh carries the seeds away. The seeds are hard or slippery, so many pass through the gut whole. They land in a dropping, which is a small heap of manure. Unripe fruit is green, hard and sour, because the seeds inside are not ready. Chillies show how exact this can be. In 2001, Joshua Tewksbury and Gary Nabhan tested wild chillies. Birds ate the hot fruit freely, and the seeds passed through them and sprouted well. Mice and rats tasted the heat and left the fruit alone. When they did eat mild chillies, they chewed the seeds, and no seeds sprouted. Birds do not sense the hot chemical, which is called capsaicin. So the heat keeps seed-chewers away and lets seed-carriers eat. Large animals carry large seeds. In the forests of Arunachal Pradesh, the scientist Aparajita Datta followed hornbills for years. She showed that hornbills swallow big fruits whole and drop the seeds far away, often kilometres from the parent tree. Elephants carry mango, jackfruit and wood apple seeds, and leave them in a great heap of dung. Other seeds ride outside, with hooks that catch in fur. Ants carry seeds that have an oily food parcel.
+A sweet fruit is a payment. The plant spends sugar on the flesh, and the animal who eats the flesh carries the seeds away. The seeds are hard or slippery, so many pass through the gut whole. They land in a dropping, which is a small heap of manure. Unripe fruit is green, hard and sour, because the seeds inside are not ready. Chillies show how exact this can be. In 2001, Joshua Tewksbury and Gary Nabhan tested wild chillies. Birds ate the hot fruit freely, and the seeds passed through them and sprouted well. Mice and rats tasted the heat and left the fruit alone. When they did eat mild chillies, they chewed the seeds, and no seeds sprouted. Birds do not sense the hot chemical, which is called capsaicin. So the heat keeps seed-chewers away and lets seed-carriers eat. Large animals carry large seeds. In the forests of Arunachal Pradesh, the scientist Aparajita Datta followed hornbills for years. She showed that hornbills swallow big fruits whole and drop the seeds far away, often kilometres from the parent tree. Elephants carry mango, jackfruit and wood apple seeds, and leave them in a great heap of dung. Other seeds ride outside, with hooks that catch in fur. Ants carry seeds that have an oily food parcel. Wind, water and animals carry seeds across whole lands, and no border stops them. A coconut can float across the Indian Ocean on the currents, and a bird that flies from Siberia to India in winter can carry seeds on the way.
 - e.g. A bulbul eats lantana berries and drops the seeds from a perch somewhere else.
 - e.g. Flying foxes, the big fruit bats, carry figs and Indian almonds away from the tree and drop the seeds below their feeding perch.
 - e.g. Flowerpeckers eat the sticky berries of a plant that grows on mango branches. They wipe the gluey seed onto another branch, where the seed sprouts.
@@ -689,7 +689,7 @@ Tunga tried to remember how many pods the basket had held. Hundreds. She pressed
    **Answer:** Keeps many kinds of seeds alive. *Why:* A seed bank stores dry seeds, usually in the cold, so that they stay alive for decades. Choosing 'stops seeds from ever sprouting' misses the point: the seeds are kept so that they can be grown again.
 16. (draw) Draw a tree from above. Add 20 dots to show where 20 of the tree's seeds land.  
    **Answer:** Most of the dots are close to the tree. A few are farther away, and one or two are far away, perhaps to one side where the wind blew.. *Why:* A strong drawing does not spread the dots evenly. It shows many near and few far, which is the usual shape of a seed shadow.
-### Fall Speed, Far Trips and Farmed Seeds (stretch) (stretch, 16 questions)
+### Fall Speed, Far Trips and Farmed Seeds (stretch) (stretch, 17 questions)
 1. (mcq) A seed falls for 10 seconds in a wind of 4 metres each second. How far sideways does the seed go?  
    Options: 40 metres / 14 metres / 4 metres / 400 metres  
    **Answer:** 40 metres. *Why:* Distance is about the time in the air multiplied by the wind speed. 10 × 4 = 40 metres. Choosing 14 means adding the numbers when they should be multiplied.
@@ -727,6 +727,8 @@ Tunga tried to remember how many pods the basket had held. Hundreds. She pressed
    **Answer:** A strong answer sees the trade-off. Planting fast foreign trees covers the soil quickly, but those trees may spread and crowd out local plants. Waiting for wind and birds brings the local plants back, but slowly, and rain may wash soil away in the meantime. Many foresters now plant or protect local trees first.. *Why:* There is no single right answer. It depends on how steep the slope is, how close the nearest forest is, and how long people can wait.
 16. (draw) Design a fruit for a plant that lives on a riverbank. Label the features that help the seeds travel by water.  
    **Answer:** The fruit has a light covering with air spaces, a waterproof skin and a tough coat round the seed. It may be shaped to float upright or to lodge in mud.. *Why:* A strong drawing labels at least two features and says what each does: one for floating, and one for keeping the seed dry or safe.
+17. (write) A seed is found on a beach on an island far from its parent tree. Name two ways it could have crossed the sea, and say which is more likely for a coconut.  
+   **Answer:** A good answer names ocean currents, which float a seed on the water, and a bird or other animal that flies or swims across. For a coconut, the currents are the more likely way, because the coconut floats.. *Why:* A strong answer names water or an animal as the carrier, and says why the coconut floats.
 ### How Seed Scientists Argue (challenge) (challenge, 16 questions)
 1. (perspective) Two people disagree about the best way to keep old rice varieties alive.  
    **Answer:** A strong answer sees that each way protects against a different danger. A cold seed bank protects against war, drought and neglect, and holds huge numbers. Growing in fields keeps the varieties changing with the weather and pests, and keeps the knowledge of how to grow and cook them. Most seed scientists and seed savers now say that both are needed.. *Why:* There is no single right answer. The best answers name one thing that each way can do and the other cannot.
@@ -780,33 +782,36 @@ Tunga tried to remember how many pods the basket had held. Hundreds. She pressed
 3. (mcq) A seed carries a small oily food parcel on the outside. Who most likely carries this seed?  
    Options: Ants / The sea / The wind / Elephants  
    **Answer:** Ants. *Why:* Ants carry the whole seed to the nest, eat the parcel, and leave the seed in their rubbish heap. The parcel is too small to pay a large animal.
-4. (mcq) Two seeds weigh the same, and one has a wing. Why does the winged seed fall more slowly?  
+4. (mcq) A coconut falls into a river, floats out to sea, and washes up on a far island. How did it get there?  
+   Options: Ocean currents carried it across the sea / It walked there on its roots / A fish swallowed it and carried it over  
+   **Answer:** Ocean currents carried it across the sea. *Why:* Water moves across the world, and a coconut floats, so the currents can carry it far. A coconut cannot walk, and fish do not carry coconuts.
+5. (mcq) Two seeds weigh the same, and one has a wing. Why does the winged seed fall more slowly?  
    Options: The wing meets more air resistance / The wing makes the seed lighter / The wing flaps / Gravity pulls the winged seed less  
    **Answer:** The wing meets more air resistance. *Why:* The wing adds surface and almost no weight. With more surface, drag matches the weight at a lower speed. Gravity pulls both seeds equally, because they weigh the same.
-5. (truefalse) True or false: a falling seed keeps getting faster all the way to the ground.  
+6. (truefalse) True or false: a falling seed keeps getting faster all the way to the ground.  
    **Answer:** False. *Why:* False. Drag grows as the speed grows. When drag equals weight, the seed stops speeding up and falls at a steady speed. A winged seed reaches that speed within a metre or two.
-6. (mcq) On a day with no wind at all, where does a winged seed from a tall tree land?  
+7. (mcq) On a day with no wind at all, where does a winged seed from a tall tree land?  
    Options: Almost straight below / Far away, because of the wing / Higher up the tree / In the next field  
    **Answer:** Almost straight below. *Why:* A wing gives no forward push. With no moving air, the seed only comes down slowly. Choosing 'far away' treats the wing as an engine.
-7. (mcq) Which change would carry a winged seed the farthest?  
+8. (mcq) Which change would carry a winged seed the farthest?  
    Options: A higher start in a stronger wind / A heavier seed / A shorter wing / Leaving on a calm day  
    **Answer:** A higher start in a stronger wind. *Why:* Distance is about the time in the air multiplied by the wind speed. A higher start gives more time, and a stronger wind gives more speed. A heavier seed or a shorter wing makes the fall faster.
-8. (mcq) In a wind test, why do you let each flier go five times and take the mean?  
+9. (mcq) In a wind test, why do you let each flier go five times and take the mean?  
    Options: One drop could be a fluke / The paper needs to warm up / Five is a lucky number / The fan tires after one drop  
    **Answer:** One drop could be a fluke. *Why:* Moving air is never perfectly steady, so single drops differ. The mean of several drops is a fairer picture than any one of them.
-9. (mcq) Which of these describes a seed shadow?  
+10. (mcq) Which of these describes a seed shadow?  
    Options: Many seeds near, and a few far away / The shade under a seed / Seeds that grow only in the dark / The same number of seeds at every distance  
    **Answer:** Many seeds near, and a few far away. *Why:* A seed shadow is the pattern of where a plant's seeds land. Most land near, and a few go far. Those few are how plants reach new places.
-10. (mcq) Which of these shows that a crop has come to depend on people?  
+11. (mcq) Which of these shows that a crop has come to depend on people?  
    Options: Paddy holds the grain until threshed / Mango trees give shade / Coconuts float on the sea / Tridax grows by the road  
    **Answer:** Paddy holds the grain until threshed. *Why:* Wild rice drops ripe grains. Farmed paddy holds them, so the grain is sown only when a person sows it. Coconuts and tridax still travel without us.
-11. (mcq) Which of these foods was carried to India from the Americas?  
+12. (mcq) Which of these foods was carried to India from the Americas?  
    Options: Tomato / Mango / Black pepper / Turmeric  
    **Answer:** Tomato. *Why:* Tomato was first farmed in Central and South America and came to India by ship after 1498. Mango, pepper and turmeric are from South Asia.
-12. (mcq) Why is a field planted with one single variety risky?  
+13. (mcq) Why is a field planted with one single variety risky?  
    Options: One disease could kill the whole crop / The plants grow too tall / Birds refuse to visit / The seeds forget how to sprout  
    **Answer:** One disease could kill the whole crop. *Why:* Plants of one variety are nearly the same as each other. A disease that can attack one can attack them all. With many varieties, some are likely to resist.
-13. (truefalse) True or false: seeds kept in a cold seed bank go on changing to suit the weather outside.  
+14. (truefalse) True or false: seeds kept in a cold seed bank go on changing to suit the weather outside.  
    **Answer:** False. *Why:* False. Seeds in a cold store stay as they were when they went in. Only plants that are grown year after year can change with the weather and pests. That is why many people say both ways of saving are needed.
 
 ## Applications

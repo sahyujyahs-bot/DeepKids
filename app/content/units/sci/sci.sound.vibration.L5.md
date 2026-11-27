@@ -662,7 +662,7 @@ Tresa was already working it out.
    Options: The wide wooden body pushes more air / The wood makes the string tighter / The wood vibrates faster than the string / Hands make strings heavier  
    **Answer:** The wide wooden body pushes more air. *Why:* A thin string pushes very little air. On the veena, the string makes the wide hollow body vibrate, and that large surface pushes much more air.
 13. (mcq) With your eyes shut, you hear a soft rustle from a tree on a windy day. What is most likely making it?  
-   Options: Many leaves knocking and rubbing against each other in the wind / The tree singing its own note through its trunk / A bird with two vocal folds, singing from inside the leaves / A tabla skin under the branches  
+   Options: Many leaves knocking and rubbing against each other in the wind / A note sung by the trunk of the tree / A bird with two vocal folds, singing from inside the leaves / A tabla skin under the branches  
    **Answer:** Many leaves knocking and rubbing against each other in the wind. *Why:* Wind moves the leaves, and they knock and rub against each other. A rustle has no clear note. Trees do not sing, and birds sing with the syrinx, not with vocal folds.
 
 ## Applications

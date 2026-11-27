@@ -48,6 +48,7 @@ A cell is always building. The cell's genes are copied into short messages calle
 - e.g. A polio virus particle carries one strand of RNA about 7,500 letters long. The cell's ribosomes read that strand directly, as if it were one of the cell's own messages.
 - e.g. In the Factory Test, you drew six grains each round and built whatever each one said. The marked grains doubled each round, so more and more of your six jobs were for the virus.
 - e.g. An mRNA vaccine works because of the same fact. Your ribosomes build the spike protein from a message that your own genes never wrote.
+- e.g. The tumbler in the Factory Test is a model. It shows how ribosomes pick up messages, but it leaves out the cell's defences and the tricks that real viruses play. Every model leaves things out.
 ### The quiet gap: why nothing seems to happen at first · *defined*
 **Definition:** For some time after a virus enters a cell, no finished virus particle can be found in that cell. In a body, the same gap shows as the incubation period, when the person is infected and feels well.
 
@@ -114,7 +115,7 @@ Two doses of measles vaccine are about 97 percent effective, and the protection 
 ### Ending a virus for good · *defined*
 **Definition:** A virus who can be copied only in human cells, and against whom a good vaccine exists, can be ended completely, because the virus needs an unbroken chain of human hosts.
 
-A virus particle outside a cell does not last long. Every virus who infects only humans must keep reaching new humans, without a break, or that kind of virus ends. Smallpox infected only humans, and the vaccine was very good. After a worldwide effort, the last natural case was in Somalia in 1977, and the world was declared free of smallpox in 1980. Only one other disease has been ended in this way: rinderpest, a virus disease of cattle, whose end was announced in 2010. Polio may be the third. In the 1980s India had thousands of polio cases every year. The Pulse Polio programme began in 1995, with the aim of giving every child under five two drops of vaccine on the same days. India's last case of wild polio was recorded on 13 January 2011, in West Bengal. The World Health Organization declared India polio-free on 27 March 2014. Two of the three types of wild polio virus are now gone from the whole world. The third type still passes between people in Afghanistan and Pakistan. Until that chain breaks too, children everywhere still need the vaccine. A virus who also lives in other animals, such as rabies or bird flu, cannot be ended this way.
+A virus particle outside a cell does not last long. Every virus who infects only humans must keep reaching new humans, without a break, or that kind of virus ends. Smallpox infected only humans, and the vaccine was very good. After a worldwide effort, the last natural case was in Somalia in 1977, and the world was declared free of smallpox in 1980. Only one other disease has been ended in this way: rinderpest, a virus disease of cattle, whose end was announced in 2010. Polio may be the third. In the 1980s India had thousands of polio cases every year. The Pulse Polio programme began in 1995, with the aim of giving every child under five two drops of vaccine on the same days. India's last case of wild polio was recorded on 13 January 2011, in West Bengal. The World Health Organization declared India polio-free on 27 March 2014. Two of the three types of wild polio virus are now gone from the whole world. The third type still passes between people in Afghanistan and Pakistan. Until that chain breaks too, children everywhere still need the vaccine. A virus who also lives in other animals, such as rabies or bird flu, cannot be ended this way. Protection also reaches people who cannot be vaccinated. When most people nearby are vaccinated, the virus has few people left to reach, so a baby too young for the vaccine is safer. Covering a cough and staying home when ill protect others in the same way.
 - e.g. Smallpox: only humans, a strong vaccine, eradicated in 1980.
 - e.g. Polio in India: Pulse Polio from 1995, the last wild case in January 2011, declared polio-free in March 2014.
 - e.g. Rabies: the virus also lives in dogs, bats and other animals, so vaccinating people alone cannot end it.
@@ -640,7 +641,7 @@ That night Yazhini drew the person from the biology book in her own notebook, wi
    **Answer:** ['Spike: fits a receptor on the host cell', 'Coat: protects the genome outside a cell', 'Genome: the instructions that the cell copies and builds from']. *Why:* The spike decides which cells the virus can enter. The coat protects the genome. The genome is the only part that carries instructions.
 15. (write) A girl has chickenpox at seven. At seventy she gets shingles. Where was the virus for 63 years?  
    **Answer:** The virus stayed hidden in nerve cells beside her spine. Her body's defenders kept them quiet. In old age the virus woke and travelled down one nerve to the skin.. *Why:* A strong answer says that the virus never left the body, names nerve cells, and says the virus woke when the defences were weaker.
-### Tricks, alarms and changing coats (stretch, 15 questions)
+### Tricks, alarms and changing coats (stretch, 16 questions)
 1. (mcq) A polio virus blocks the cell's own messages. Why are polio messages still read?  
    Options: They are much longer / They start in a different way / Ribosomes prefer virus messages / They hide in the nucleus  
    **Answer:** They start in a different way. *Why:* The cell's messages need a cap at the front for a ribosome to start. Polio messages have a folded stretch that lets a ribosome start without a cap. Ribosomes read both kinds of message in the same way.
@@ -663,18 +664,20 @@ That night Yazhini drew the person from the biology book in her own notebook, wi
 9. (odd) Three of these diseases have a vaccine. Which one does not?  
    Options: Polio / The common cold / Measles / Hepatitis B  
    **Answer:** 1. *Why:* Colds are caused mostly by rhinoviruses, and at least 165 types are known. Antibodies against one type give little protection against the rest.
-10. (write) Two doses of measles vaccine protect for many years. A flu vaccine protects for about one. Explain the difference.  
+10. (sort) Sort each action: does it protect only you, or does it also protect other people?  
+   **Answer:** A measles vaccine → Protects others too; Covering your cough with your elbow → Protects others too; Drinking a glass of milk every day → Protects only me. *Why:* A vaccine and a covered cough cut the chain of a virus, so the people around you are safer too. Milk helps your own body, but it does not stop a virus passing to someone else.
+11. (write) Two doses of measles vaccine protect for many years. A flu vaccine protects for about one. Explain the difference.  
    **Answer:** The measles virus's antigens hardly change, so the same memory cells keep fitting. The flu virus's spikes drift a little every year, so old antibodies fit less well and a new vaccine is needed.. *Why:* A strong answer is about the virus changing or not changing. The body's memory lasts in both cases.
-11. (mcq) A rinsed lump of curdled milk did not curdle fresh milk. What does this show?  
+12. (mcq) A rinsed lump of curdled milk did not curdle fresh milk. What does this show?  
    Options: A changed protein rarely passes its change on / Prions are in milk / Lemon juice does nothing to milk / Milk protein cannot change  
    **Answer:** A changed protein rarely passes its change on. *Why:* In Lemon, Chhena or Nothing, the lemon changed the milk and the lump did not. In ordinary proteins a changed form is not catching. A prion is unusual because its changed form is.
-12. (write) A virus and a prion both get 'copied'. Say what is copied in each case.  
+13. (write) A virus and a prion both get 'copied'. Say what is copied in each case.  
    **Answer:** In a virus, the genome is copied, and new coat proteins are built from it. In a prion, nothing is built. Normal proteins already in the cell are refolded into the prion's shape.. *Why:* A strong answer says that a virus passes on instructions and a prion passes on a shape.
-13. (perspective) Here are three views about what an infected cell is.  
+14. (perspective) Here are three views about what an infected cell is.  
    **Answer:** Answers vary. A strong answer picks a view and uses the test. For example: the cell biologist's view fits, because my tumbler held both kinds of message and I built from both.. *Why:* Real scientists hold each of these views. The facts are agreed, and the argument is about which words describe them best.
-14. (draw) Draw two line graphs of virus numbers over six days: one for a person with a vaccine, one without.  
+15. (draw) Draw two line graphs of virus numbers over six days: one for a person with a vaccine, one without.  
    **Answer:** Without a vaccine the line stays low for a day or two, rises high and falls after antibodies arrive. With a vaccine the line begins to rise and is turned down early, staying low.. *Why:* Memory cells make antibodies within days, during the quiet gap. So the virus is stopped while there are still few infected cells.
-15. (sort) Sort these by whether a ribosome ever reads them.  
+16. (sort) Sort these by whether a ribosome ever reads them.  
    **Answer:** A flu virus's messages → A ribosome reads it; A viroid → No ribosome reads it; A prion → No ribosome reads it; A polio virus's genome → A ribosome reads it; The mRNA in a vaccine → A ribosome reads it. *Why:* Virus messages and vaccine mRNA are read by ribosomes, which build proteins from them. A viroid is copied by an enzyme but never read. A prion is a protein and holds no message.
 ### Models, memories and things that copy with almost nothing (challenge, 15 questions)
 1. (mcq) In the Factory Test, a cell with twice as many plain grains was taken over only one round later. Why?  
@@ -756,6 +759,12 @@ That night Yazhini drew the person from the biology book in her own notebook, wi
 13. (mcq) Which of these did the Factory Test leave out?  
    Options: The cell's defences / The copying of virus messages / The cell's own messages / Chance  
    **Answer:** The cell's defences. *Why:* The model cell never fought back. A real cell senses virus RNA, sends out interferon and may self-destruct. The model did include the cell's messages, the copying and chance.
+14. (mcq) A tumbler model shows how ribosomes pick up messages. What is true of every model like this?  
+   Options: It leaves things out of the real thing / It shows every part of the real thing / It is exactly the same as the real thing  
+   **Answer:** It leaves things out of the real thing. *Why:* Every model leaves things out. The tumbler has six draws and twenty messages, not millions, and it has no cell defences.
+15. (mcq) Your neighbour's baby is too young for a measles vaccine. Why does your own vaccination still help that baby?  
+   Options: Fewer people with the virus are left nearby to pass it on / Your antibodies float into the baby's lungs / The vaccine passes to the baby by touch  
+   **Answer:** Fewer people with the virus are left nearby to pass it on. *Why:* When most people around the baby are protected, the virus has few people to reach. Your antibodies stay in your own blood, so they do not reach the baby through the air or by touch.
 
 ## Applications
 - Vaccine makers choose which part of a virus to show the body. The hepatitis B vaccine shows one surface protein, made by yeast cells.

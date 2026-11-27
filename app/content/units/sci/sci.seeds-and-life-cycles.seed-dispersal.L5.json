@@ -254,7 +254,7 @@
    "concept": "Carried by animals",
    "status": "defined",
    "definition": "Many plants are dispersed by animals. Some seeds are carried inside an animal who ate the fruit. Others are carried on the outside, or carried away to be stored as food.",
-   "description": "A sweet fruit is a payment. The plant spends sugar on the flesh, and the animal who eats the flesh carries the seeds away. The seeds are hard or slippery, so many pass through the gut whole. They land in a dropping, which is a small heap of manure. Unripe fruit is green, hard and sour, because the seeds inside are not ready. Chillies show how exact this can be. In 2001, Joshua Tewksbury and Gary Nabhan tested wild chillies. Birds ate the hot fruit freely, and the seeds passed through them and sprouted well. Mice and rats tasted the heat and left the fruit alone. When they did eat mild chillies, they chewed the seeds, and no seeds sprouted. Birds do not sense the hot chemical, which is called capsaicin. So the heat keeps seed-chewers away and lets seed-carriers eat. Large animals carry large seeds. In the forests of Arunachal Pradesh, the scientist Aparajita Datta followed hornbills for years. She showed that hornbills swallow big fruits whole and drop the seeds far away, often kilometres from the parent tree. Elephants carry mango, jackfruit and wood apple seeds, and leave them in a great heap of dung. Other seeds ride outside, with hooks that catch in fur. Ants carry seeds that have an oily food parcel.",
+   "description": "A sweet fruit is a payment. The plant spends sugar on the flesh, and the animal who eats the flesh carries the seeds away. The seeds are hard or slippery, so many pass through the gut whole. They land in a dropping, which is a small heap of manure. Unripe fruit is green, hard and sour, because the seeds inside are not ready. Chillies show how exact this can be. In 2001, Joshua Tewksbury and Gary Nabhan tested wild chillies. Birds ate the hot fruit freely, and the seeds passed through them and sprouted well. Mice and rats tasted the heat and left the fruit alone. When they did eat mild chillies, they chewed the seeds, and no seeds sprouted. Birds do not sense the hot chemical, which is called capsaicin. So the heat keeps seed-chewers away and lets seed-carriers eat. Large animals carry large seeds. In the forests of Arunachal Pradesh, the scientist Aparajita Datta followed hornbills for years. She showed that hornbills swallow big fruits whole and drop the seeds far away, often kilometres from the parent tree. Elephants carry mango, jackfruit and wood apple seeds, and leave them in a great heap of dung. Other seeds ride outside, with hooks that catch in fur. Ants carry seeds that have an oily food parcel. Wind, water and animals carry seeds across whole lands, and no border stops them. A coconut can float across the Indian Ocean on the currents, and a bird that flies from Siberia to India in winter can carry seeds on the way.",
    "examples": [
     "A bulbul eats lantana berries and drops the seeds from a perch somewhere else.",
     "Flying foxes, the big fruit bats, carry figs and Indian almonds away from the tree and drop the seeds below their feeding perch.",
@@ -2880,6 +2880,13 @@
      "a": "The fruit has a light covering with air spaces, a waterproof skin and a tough coat round the seed. It may be shaped to float upright or to lodge in mud.",
      "why": "A strong drawing labels at least two features and says what each does: one for floating, and one for keeping the seed dry or safe.",
      "art": "A blank page with a simple riverbank and water drawn along the bottom."
+    },
+    {
+     "t": "write",
+     "p": "A seed is found on a beach on an island far from its parent tree. Name two ways it could have crossed the sea, and say which is more likely for a coconut.",
+     "lines": 3,
+     "a": "A good answer names ocean currents, which float a seed on the water, and a bird or other animal that flies or swims across. For a coconut, the currents are the more likely way, because the coconut floats.",
+     "why": "A strong answer names water or an animal as the carrier, and says why the coconut floats."
     }
    ]
   },
@@ -3133,6 +3140,18 @@
    ],
    "a": 0,
    "why": "Ants carry the whole seed to the nest, eat the parcel, and leave the seed in their rubbish heap. The parcel is too small to pay a large animal.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "A coconut falls into a river, floats out to sea, and washes up on a far island. How did it get there?",
+   "opts": [
+    "Ocean currents carried it across the sea",
+    "It walked there on its roots",
+    "A fish swallowed it and carried it over"
+   ],
+   "a": 0,
+   "why": "Water moves across the world, and a coconut floats, so the currents can carry it far. A coconut cannot walk, and fish do not carry coconuts.",
    "outcome": 1
   },
   {
