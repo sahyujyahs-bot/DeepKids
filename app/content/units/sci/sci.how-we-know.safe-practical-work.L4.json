@@ -825,6 +825,12 @@
    "art": "A steaming kettle drawn beside a red warning mark on a hand."
   },
   {
+   "term": "Atom",
+   "meaning": "A tiny piece of matter, far too small to see. Everything solid, liquid and gas is built from atoms.",
+   "example": "A drop of water holds more atoms than anyone could count, and each is far smaller than a speck of dust.",
+   "art": "A water drop with a circle zooming in on a few tiny dots inside."
+  },
+  {
    "term": "Checklist",
    "meaning": "A short written list of steps that must not be missed, read out and ticked at the moment of doing.",
    "example": "Tray down, hair tied, cloth ready, grown-up near: tick each one before you start.",
@@ -927,6 +933,12 @@
    "art": "A weather map of India with a cloud over the south-west coast."
   },
   {
+   "term": "Eclipse",
+   "meaning": "When something in the sky passes in front of another and blocks its light, as the Moon does to the Sun.",
+   "example": "Astronomers can predict a solar eclipse centuries ahead, to the minute.",
+   "art": "The Moon covering the Sun, with a thin ring of light round the edge."
+  },
+  {
    "term": "Miss",
    "meaning": "How far a prediction was from the result.",
    "example": "A prediction of 40 seconds for a 52-second result is a miss of 12 seconds, too short.",
@@ -943,6 +955,24 @@
    "meaning": "When tiny differences at the start grow into big differences later, so that nothing can be predicted far ahead even though the rules are fixed.",
    "example": "A tiny change in a weather sum makes the forecast for ten days later completely different.",
    "art": "Two paths that start almost together and end far apart."
+  },
+  {
+   "term": "Particle",
+   "meaning": "A very small piece of something, such as a grain of dust or an atom.",
+   "example": "A particle of sugar dissolving in water spreads out among the water.",
+   "art": "Tiny dots of sugar spreading through a cup of water in three steps."
+  },
+  {
+   "term": "Quantum physics",
+   "meaning": "The part of physics that describes very small things, such as atoms and light. For some of them it can say only the chances of a result, and not which result will come.",
+   "example": "It can say that half of a set of radioactive atoms will break up in a certain time, but not which atom will go next.",
+   "art": "A handful of tiny dots with half of them faded, and a question mark over one dot."
+  },
+  {
+   "term": "Matter",
+   "meaning": "Whatever things are made of. Scientists have working meanings of matter that let them calculate, and no final answer to what matter finally is.",
+   "example": "A stone, water and air are all matter, and so are the cells of your body.",
+   "art": "A stone, a glass of water and a leaf drawn side by side."
   }
  ],
  "games": [
@@ -1140,9 +1170,9 @@
    "mins": 45,
    "context": "In this test you time how long sugar takes to dissolve in cold, room-warm and warm water, predict the warm time from the first two, and then check how close you came. You choose the tools, name the risks and decide how close is close enough.",
    "days": 1,
-   "question": "How long does one level teaspoon of sugar take to dissolve in cold, room-warm and warm water, and how close can you get when you predict the warm time from the first two?",
+   "question": "How long does a level teaspoon of sugar take to dissolve in cold, room-warm and warm water? Can you predict the warm time from the first two?",
    "predict": "Before the warm test, use your cold and room-warm times to write a number for warm water. Say why you think so.",
-   "fair_test": "The same cup filled to the same line, the same sugar from the same bag, one level teaspoon each time, the same spoon, the same stirring and the same stop signal all stay the same. The same person starts and stops the clock. Only the warmth of the water changes. Cold and room-warm are each run twice and warm is run three times, because a finger on a stopwatch is never exactly on time. In the second round, only the solid changes.",
+   "fair_test": "These stay the same: the cup filled to the same line, the sugar from the same bag, one level teaspoon each time, the spoon, the stirring and the stop signal. The same person starts and stops the clock. Only the warmth of the water changes. Cold and room-warm are each run twice and warm is run three times, because a finger on a stopwatch is never exactly on time. In the second round, only the solid changes.",
    "results_table": [
     "Water",
     "Temperature in degrees Celsius, if you have a thermometer",
@@ -1356,7 +1386,7 @@
    "days": 1,
    "question": "How far does a ruler fall before you catch it, and what does that tell us about how late a finger on a stopwatch is?",
    "predict": "Before you drop the first ruler, guess how many centimetres it will fall before you catch it. Say why you think so.",
-   "fair_test": "The same ruler, the same partner, the same start position of your fingers and the same eyes-on-zero rule stay the same. The partner lets go at a different time every drop, so that you cannot guess. For the second hand, only the hand changes. Ten drops are done for each hand, because one catch can be a fluke.",
+   "fair_test": "These stay the same: the ruler, the partner, the start position of your fingers and the eyes-on-zero rule. The partner lets go at a different time every drop, so that you cannot guess. For the second hand, only the hand changes. Ten drops are done for each hand, because one catch can be a fluke.",
    "results_table": [
     "Drop",
     "Right hand (centimetres)",
@@ -1447,7 +1477,7 @@
     {
      "id": "e2s5",
      "mins": 4,
-     "do": "Use the table to turn each number into a time. 5 centimetres is 0.10 seconds, 10 is 0.14, 15 is 0.18, 20 is 0.20, 25 is 0.23 and 30 is 0.25. Find the middle number for each hand and its time. Find the spread for each hand.",
+     "do": "Use the table to turn each number into a time. Here is the table. 5 centimetres is 0.10 seconds. 10 is 0.14 and 15 is 0.18. 20 is 0.20. 25 is 0.23 and 30 is 0.25. Find the middle number for each hand and its time. Find the spread for each hand.",
      "say": "Your hand took about this many tenths of a second to answer your eyes. A stopwatch press has the same delay.",
      "kid": "Look up your middle number in the table. Write the time.",
      "adult": false,
@@ -1518,7 +1548,7 @@
     {
      "id": "a1s1",
      "mins": 3,
-     "do": "Set three bowls in a row on a tray. A grown-up fills the left bowl with cold water, and the right bowl with warm tap water that feels comfortable on the inside of a wrist. Fill the middle bowl with half cold and half warm water.",
+     "do": "Set three bowls in a row on a tray. A grown-up fills the left bowl with cold water. The right bowl gets warm tap water that feels comfortable on the inside of a wrist. The middle bowl gets half cold and half warm.",
      "say": "We will use three bowls of water. One is cold, one is warm and one is in between. Do not touch them yet. What do you think will happen to your hands?",
      "kid": "Look at the three bowls. A grown-up fills them.",
      "adult": true,
@@ -1628,7 +1658,7 @@
     {
      "id": "a2s1",
      "mins": 5,
-     "do": "Set out a ruler, a one-litre jug marked every 100 millilitres, a medicine cup or a teaspoon, a phone stopwatch and a bottle cap. Job one is to find how much water one bottle cap holds. Ask your child to pick a tool and say why.",
+     "do": "Set out a ruler, a one-litre jug marked every 100 millilitres, and a medicine cup or a teaspoon. Add a phone stopwatch and a bottle cap. Job one is to find how much water one bottle cap holds. Ask your child to pick a tool.",
      "say": "How much water fits in this bottle cap? Which tool will you pick? What is the smallest mark on each one? Which tool can show an amount as small as this?",
      "kid": "Pick a tool to measure the water in a cap. Check its smallest mark.",
      "adult": false,
@@ -1658,7 +1688,7 @@
      "say": "How long does the ball take to roll down? Time it with the phone, then try to time it with the wall clock. What happens? Which tool fits?",
      "kid": "Time the roll with the phone. Try the wall clock too.",
      "adult": false,
-     "parent": "The roll takes about 1 to 2 seconds. The wall clock has no seconds hand, so it cannot show it at all. The phone shows tenths and hundredths of a second, though your finger is about 0.2 seconds late. Run it three times."
+     "parent": "The roll takes about 1 to 2 seconds. A clock with no seconds hand cannot show a time this short. The phone shows tenths and hundredths of a second, though your finger is about 0.2 seconds late. Run it three times."
     },
     {
      "id": "a2s4",
@@ -1719,7 +1749,7 @@
     {
      "id": "a3s1",
      "mins": 3,
-     "do": "Wipe the small coin dry and lay it flat on a dry tray. Fill the cup with water. Ask your child to write a number of drops that will fit on the coin before the water spills over the edge, and a reason.",
+     "do": "Wipe the small coin dry and lay it flat on a dry tray. Fill the cup with water. Ask your child to write how many drops will fit before the water spills over, and why.",
      "say": "How many drops of water can sit on this coin before it spills over? Write your number and why you think so, before we try.",
      "kid": "Write how many drops you think will fit. Write why.",
      "adult": false,
@@ -1803,7 +1833,7 @@
      "say": "Let us look for hazards in our kitchen. A hazard is anything that could cause harm. Can you find five? Do not touch them. Just point and name.",
      "kid": "Walk through the kitchen. Name five hazards. Do not touch them.",
      "adult": true,
-     "parent": "Stay beside your child the whole time and keep them from touching anything on the list. The aim is to see, not to handle. Other good hazards are a glass jar on a high shelf, a pressure cooker and a mat that slides."
+     "parent": "Stay beside your child the whole time and keep them from touching anything on the list. The aim is to see, not to handle. Other good hazards are a glass jar on a high shelf, a steam cooker and a mat that slides."
     },
     {
      "id": "a4s2",
@@ -2111,7 +2141,7 @@
      "qty": 1
     },
     {
-     "item": "a medicine cup marked in millilitres, or a syringe without a needle",
+     "item": "a medicine cup or a syringe without a needle, with marks in millilitres",
      "qty": 1
     },
     {
@@ -2368,21 +2398,21 @@
     {
      "t": "write",
      "p": "The big ice cube was predicted to melt first, but the small one did. Name two places to look for the cause.",
-     "a": "A good answer names two of: the doing (were the cubes in the same water and place?), the tool (was the same clock or cup used?), the reason (is the idea that bigger means first wrong, or missing something?).",
+     "a": "A good answer names two places. The doing: were the cubes in the same water and place? The tool: was the same clock used? The reason: is the idea that bigger means first wrong?",
      "why": "A miss can come from how the test was done, from the equipment, or from the idea behind the prediction. Check the first two before blaming the idea.",
      "outcome": 6
     },
     {
      "t": "draw",
      "p": "Draw a tray, three cups and a spill cloth. Mark where a baby or pet should not be.",
-     "a": "A tray in the middle of a table, three cups on it, a cloth beside it, and a mark such as a cross on the table edge or floor side where a small child or pet could reach.",
+     "a": "A tray in the middle of a table with three cups on it. A cloth beside it. A cross where a small child or pet could reach.",
      "why": "A tray and a clear space are barriers. They keep a spill and small hands away from each other.",
      "outcome": 3
     },
     {
      "t": "write",
      "p": "Predict how long a wet sock takes to dry on a line, and give a reason from something you have seen.",
-     "a": "A number or a range such as 'about 3 hours', and a reason taken from something seen, such as 'a wet shirt took about that long yesterday in the same spot'.",
+     "a": "A time such as 'about 3 hours'. A reason from something seen, such as 'a wet shirt took that long yesterday'.",
      "why": "A prediction without a reason is only a guess. Reasons come from patterns you have watched before.",
      "outcome": 4
     },
@@ -2418,18 +2448,18 @@
      "p": "You want the mass of one grain of rice on a scale that shows whole grams. What works?",
      "opts": [
       "Weigh one grain and round up",
-      "Weigh 100 grains, then divide by 100",
+      "Weigh a hundred grains, then divide",
       "Use a bigger scale"
      ],
      "a": 1,
-     "why": "One grain is far below the scale's smallest mark. A hundred grains give a reading you can see, and dividing by 100 gives one grain.",
+     "why": "One grain is far below the scale's smallest mark. A hundred grains give a reading you can see, and dividing by a hundred gives one grain.",
      "outcome": 0
     },
     {
      "t": "count",
      "p": "100 grains of rice weigh 2 grams. What is the mass of one grain, in grams?",
      "a": "0.02",
-     "why": "2 divided by 100 is 0.02 grams. This is how a tool that is too coarse for one grain can still tell you about it.",
+     "why": "2 divided by a hundred is 0.02 grams. This is how a tool that is too coarse for one grain can still tell you about it.",
      "outcome": 0
     },
     {
@@ -2634,10 +2664,10 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Both predicted 30 seconds. Runs were 29, 30, 31, 30 for one and 18, 30, 42 for the other. Whose is better supported?",
+     "p": "Both predicted 30 seconds. Child A got 29, 31 and 30. Child B got 18, 42 and 30. Who is better supported?",
      "opts": [
-      "The first, whose runs cluster around 30",
-      "The second, because 30 was one of its runs",
+      "Child A, whose runs cluster tightly",
+      "Child B, because 30 was one of the runs",
       "Both the same, since the middle is 30"
      ],
      "a": 0,
@@ -3026,7 +3056,7 @@
    "art": "A medicine cup, a jug and a milk pouch side by side with their marks circled."
   },
   {
-   "text": "On the way to school, look for something that keeps people away from a hazard, such as a railing at a drain, a fence round a pond, a speed bump or a zebra crossing. Say if it separates, swaps or protects.",
+   "text": "On the way to school, look for something that keeps people away from a hazard. It might be a railing at a drain, a fence round a pond, a speed bump or a zebra crossing. Say whether it removes, swaps, separates or protects.",
    "art": "A street with a railing at a drain and a zebra crossing, with arrows pointing to each."
   },
   {
@@ -3052,7 +3082,7 @@
   "Your two hands disagreed about the same water. Which other things in your day depend on what you have just felt before?",
   "When you guess the weather for tomorrow, what do you use for your reason? How close are you usually?",
   "If a prediction of yours missed, how could you find out whether the doing, the tool or the idea was at fault?",
-  "How could you make a test safer for an ant or a plant that is in it?",
+  "How could you make a test safer for the ants or plants taking part?",
   "Who should decide how much risk is fine in a test: you, a parent or a teacher? Why?",
   "Is there something you can predict very well, and something you cannot? What makes the difference?"
  ],
@@ -3129,7 +3159,7 @@
    "why_maths": "Weighing many and dividing shrinks the share of the rounding error. Scientists use the same trick whenever a tool is too coarse for one small thing."
   },
   {
-   "problem": "In a test, there is a 1 in 100 chance of a small spill and a 1 in 10,000 chance of a cut. If 200 families do the test, about how many spills and how many cuts do you expect?",
+   "problem": "A test has a one-in-a-hundred chance of a small spill and a one-in-ten-thousand chance of a cut. If 200 families do it, how many spills and cuts do you expect?",
    "answer": "About 2 spills and 0.02 cuts, which means a cut is unlikely, about 1 chance in 50 that anyone cuts at all.",
    "explain": "200 × 1/100 = 2 spills. 200 × 1/10,000 = 0.02, which is 2 in 100, or 1 in 50. A risk joins how likely a harm is with how bad it would be. Spills are likely and mild. A cut is unlikely and worse.",
    "math_unit": "math.fractions.ratio-and-proportion.L4",
@@ -3274,7 +3304,7 @@
   },
   {
    "id": "b-ruler",
-   "item": "A 30 centimetre plastic ruler with the zero at the end",
+   "item": "A plastic ruler of 30 centimetres, with zero at the end",
    "kind": "tool",
    "why": "For dropping in the reaction test and for measuring. It costs about Rs 10 to 20.",
    "url": "https://www.amazon.in/s?k=30+cm+plastic+ruler",
@@ -3327,15 +3357,6 @@
     "g1"
    ],
    "plan": "Instead, copy the 16 test cards and the 20 plan cards by hand onto scrap paper."
-  },
-  {
-   "id": "b-book",
-   "item": "Little People, Big Dreams: Marie Curie, by Isabel Sanchez Vegara",
-   "kind": "book",
-   "why": "A short picture book to read aloud about the scientist who worked with radium. It costs about Rs 400 to 500.",
-   "url": "https://www.amazon.in/s?k=little+people+big+dreams+marie+curie",
-   "used_in": [],
-   "plan": "Instead, borrow it from a library or ask a librarian for a children's book on Marie Curie."
   }
  ],
  "warmup": [
@@ -3389,7 +3410,7 @@
    [
     "You should read a measuring cup by looking down from above.",
     false,
-    "From above, the water seems to stand at a different mark. Bend down to eye level."
+    "Looking down from above shifts where the water line seems to be. Bend down to eye level."
    ],
    [
     "A hazard is the same as a risk.",
