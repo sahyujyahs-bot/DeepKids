@@ -11,6 +11,10 @@
   "src": "media/img/sci.what-is-life.cells.L3/expl.10.webp",
   "drawn": true
  },
+ "expl.11": {
+  "src": "media/img/sci.what-is-life.cells.L3/expl.11.webp",
+  "credit": "OpenStax, Microbiology (2016), CC BY 4.0, Figure 3.5"
+ },
  "expl.12": {
   "src": "media/img/sci.what-is-life.cells.L3/expl.12.webp",
   "drawn": true
@@ -34,6 +38,10 @@
  "expl.7": {
   "src": "media/img/sci.what-is-life.cells.L3/expl.7.webp",
   "drawn": true
+ },
+ "expl.9": {
+  "src": "media/img/sci.what-is-life.cells.L3/expl.9.webp",
+  "credit": "OpenStax, Chemistry: Atoms First (2016), CC BY 4.0, Figure 2.29"
  },
  "flow.a5": {
   "src": "media/img/sci.what-is-life.cells.L3/flow.a5.webp",
@@ -267,9 +275,17 @@
   "src": "media/img/sci.what-is-life.cells.L3/term.14.webp",
   "drawn": true
  },
+ "term.15": {
+  "src": "media/img/sci.what-is-life.cells.L3/term.15.webp",
+  "credit": "OpenStax, Anatomy and Physiology (2013), CC BY 4.0, Figure 12.8"
+ },
  "term.16": {
   "src": "media/img/sci.what-is-life.cells.L3/term.16.webp",
   "drawn": true
+ },
+ "term.2": {
+  "src": "media/img/sci.what-is-life.cells.L3/term.2.webp",
+  "credit": "OpenStax, Microbiology (2016), CC BY 4.0, Figure 2.12"
  },
  "term.3": {
   "src": "media/img/sci.what-is-life.cells.L3/term.3.webp",

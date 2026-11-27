@@ -3,6 +3,10 @@
   "src": "media/img/sci.sky.moon-phases.L4/expl.1.webp",
   "drawn": true
  },
+ "expl.8": {
+  "src": "media/img/sci.sky.moon-phases.L4/expl.8.webp",
+  "credit": "OpenStax, College Physics for AP Courses (2015), CC BY 4.0, Figure 6.24"
+ },
  "flow.a1": {
   "src": "media/img/sci.sky.moon-phases.L4/flow.a1.webp",
   "drawn": true
@@ -130,6 +134,10 @@
  "setup.p1.1": {
   "src": "media/img/sci.sky.moon-phases.L4/setup.p1.1.webp",
   "drawn": true
+ },
+ "term.12": {
+  "src": "media/img/sci.sky.moon-phases.L4/term.12.webp",
+  "credit": "OpenStax, University Physics Volume 1 (2016), CC BY 4.0, Figure 13.22"
  },
  "term.17": {
   "src": "media/img/sci.sky.moon-phases.L4/term.17.webp",

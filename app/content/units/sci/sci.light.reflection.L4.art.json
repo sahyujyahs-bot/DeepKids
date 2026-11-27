@@ -211,9 +211,17 @@
   "src": "media/img/sci.light.reflection.L4/term.13.webp",
   "credit": "CEThompson, CC BY 2.0, via Flickr"
  },
+ "term.14": {
+  "src": "media/img/sci.light.reflection.L4/term.14.webp",
+  "credit": "OpenStax, Astronomy (2016), CC BY 4.0, Figure 6.6"
+ },
  "term.15": {
   "src": "media/img/sci.light.reflection.L4/term.15.webp",
   "drawn": true
+ },
+ "term.16": {
+  "src": "media/img/sci.light.reflection.L4/term.16.webp",
+  "credit": "OpenStax, Astronomy (2016), CC BY 4.0, Figure 6.5"
  },
  "term.18": {
   "src": "media/img/sci.light.reflection.L4/term.18.webp",
@@ -226,6 +234,10 @@
  "term.2": {
   "src": "media/img/sci.light.reflection.L4/term.2.webp",
   "drawn": true
+ },
+ "term.4": {
+  "src": "media/img/sci.light.reflection.L4/term.4.webp",
+  "credit": "OpenStax, College Physics (2012), CC BY 3.0, Figure 25.53"
  },
  "term.5": {
   "src": "media/img/sci.light.reflection.L4/term.5.webp",
